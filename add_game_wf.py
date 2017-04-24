@@ -5,6 +5,9 @@ from bs4 import BeautifulSoup
 import os
 
 LIST_PAGE = "http://www.amicabile.de/chessella/games/mygames.action"
+LOGOUT_PAGE = "http://www.amicabile.de/chessella/user/logout.action"
+LOGIN_PAGE = "http://www.amicabile.de/chessella/user/login.action"
+SAVEPGN_PAGE = "http://www.amicabile.de/chessella/games/savepgn.action"
 SUCCESS_STR = "These are your chess games"
 
 def retrieve_first_pgn():
@@ -24,14 +27,16 @@ def retrieve_filename_and_pgn():
 
 def do_login():
     s = requests.Session()
-    s.post('http://www.amicabile.de/chessella/user/login.action', params=env.user_login_data)
+    s.post(LOGIN_PAGE , params=env.user_login_data)
     return s
 
 def do_add_game(s,pgn_lines):
     out_params = {"publicgame":True, "pgnString": pgn_lines}
-    r = s.post('http://www.amicabile.de/chessella/games/savepgn.action', data=out_params)
+    r = s.post(SAVEPGN_PAGE, data=out_params)
     return r
 
+def do_logout(s):
+    s.get(LOGOUT_PAGE)
 
 def do_add_game_workflow():
     filename, pgn_lines = retrieve_filename_and_pgn()
@@ -48,6 +53,7 @@ def do_add_game_workflow():
     else:
         rettext = " There seemed to be some problem with processing "+filename
         ok = False
+    do_logout(s)
     return ok, rettext
 
 
