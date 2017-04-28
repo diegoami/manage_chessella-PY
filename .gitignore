@@ -47,6 +47,8 @@ Temporary Items
 .apdisk
 
 input/
+onserver/
 environment_data.py
 *.pyc
 __pycache__/
+.idea/

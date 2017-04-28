@@ -4,10 +4,12 @@ import environment_data as env
 from bs4 import BeautifulSoup
 import os
 
-LIST_PAGE = "http://www.amicabile.de/chessella/games/mygames.action"
-LOGOUT_PAGE = "http://www.amicabile.de/chessella/user/logout.action"
-LOGIN_PAGE = "http://www.amicabile.de/chessella/user/login.action"
-SAVEPGN_PAGE = "http://www.amicabile.de/chessella/games/savepgn.action"
+HOST="http://www.amicabile.de"
+ 
+LIST_PAGE = HOST+"/chessella/games/mygames.action"
+LOGOUT_PAGE = HOST + "/chessella/user/logout.action"
+LOGIN_PAGE = HOST + "/chessella/user/login.action"
+SAVEPGN_PAGE = HOST + "/chessella/games/savepgn.action"
 SUCCESS_STR = "These are your chess games"
 
 def retrieve_first_pgn():
