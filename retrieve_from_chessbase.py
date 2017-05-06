@@ -63,18 +63,24 @@ def process_page(page_link):
     downoad_pgns(pgn_texts, page_link)
 
 
-parser = argparse.ArgumentParser()
-parser.add_argument('--fileLink')
-parser.add_argument('--debug')
-args = parser.parse_args()
+def retrieve_games(fileLink):
+    with open(fileLink, "r") as handle:
+        lines = handle.readlines()
+        for line in lines:
+            print("Processing %s" % line)
+            try:
+                process_page(line.strip())
+            except:
+                print("Could not process page %s " % line.strip())
 
-with open(args.fileLink, "r") as handle:
-    lines = handle.readlines()
-    for line in lines:
-        print("Processing %s" % line)
-        try:
-            process_page(line.strip())
-        except:
-            print("Could not process page %s " % line.strip())
+                traceback.print_exc()
 
-            traceback.print_exc()
+
+if __name__ == "__main__":
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--fileLink')
+    parser.add_argument('--debug')
+    args = parser.parse_args()
+
+    retrieve_games(args.fileLink)
