@@ -55,7 +55,7 @@ def add_new_lines(cnt):
     insq = False
     for i,c in enumerate(cnt):
         nc += 1
-        if c == '[' and nc <= 1 :
+        if c == '[' and nc <=j  :
             insq = True
         if c == ']':
             insq = False

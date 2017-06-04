@@ -7,13 +7,14 @@ from sendmail_wf import sendmail_success
 
 
 
+if __name__ == "__main__":
 
-text_mail = ""
-if verify_up():
-    print("Server is up, ok to add game")
+    text_mail = ""
+    if verify_up():
+        print("Server is up, ok to add game")
 
-    ok, text_mail = do_add_game_workflow()
-else:
-    ok, text_mail = False, "Chessella does not seem to be up"
-print(ok, text_mail)
-sendmail_success("Chessella OK: "+str(ok),text_mail)
+        ok, text_mail = do_add_game_workflow()
+    else:
+        ok, text_mail = False, "Chessella does not seem to be up"
+    print(ok, text_mail)
+    sendmail_success("Chessella OK: "+str(ok),text_mail)
