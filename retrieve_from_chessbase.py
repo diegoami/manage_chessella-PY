@@ -10,13 +10,9 @@ import argparse
 def iscbreplay_dataurl(tag):
     return tag.has_attr('data-url')
 
-
 def iscbreplay_text(tag):
-
     if tag.has_attr('class')  :
         return tag.has_attr('class') and not tag.has_attr('data-url') and 'cbreplay' in tag.attrs['class']
-
-
 
 def get_pgnlinks_from_page(pageLink,debug=True):
     pgnstrings =[]
