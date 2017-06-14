@@ -1,0 +1,57 @@
+[Event "7th Hainan Danzhou GM"]
+[Site "Danzhou CHN"]
+[Date "2016.07.08"]
+[Round "1.5"]
+[White "Harikrishna, Pentala"]
+[Black "Bu, Xiangzhi"]
+[Result "0-1"]
+[ECO "E04"]
+[WhiteElo "2755"]
+[BlackElo "2723"]
+[Annotator "AS"]
+[PlyCount "114"]
+[EventDate "2016.07.08"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 Nc6 6. Qa4 Bb4+ 7. Bd2 Nd5 (7...
+Bd6 8. Bc3 O-O 9. Nbd2 Bd7 10. Qxc4 b5 11. Qxb5 Nb4 12. Qxb4 Bxb4 13. Bxb4 Re8
+14. Bc5 Rb8 15. b3 a6 16. O-O Bc6 17. Rfe1 Nd7 18. Ba3 e5 19. Rac1 Ba8 20. dxe5
+Nxe5 21. Nxe5 Bxg2 22. Ndf3 Bxf3 23. Nxf3 Qd5 24. Rxc7 Rbc8 25. Rcc1 Rxc1 26.
+Rxc1 h6 27. Kf1 Qe4 28. Re1 Rc8 29. Bc1 Rc2 30. Be3 Rxa2 31. Rd1 Qc2 32. Rd8+
+Kh7 33. Nd4 Qe4 34. Nf3 Qb1+ 35. Kg2 Qxb3 36. Nd4 Qb7+ 37. f3 Qe7 {0-1 (37)
+Eljanov,P (2765)-Harikrishna,P (2763) Stavanger 2016}) 8. Qb5 (8. Bxb4 Ndxb4 9.
+Na3 Rb8 10. O-O O-O 11. Qb5 b6 12. Qxc4 Ba6 13. Nb5 Qd5 14. Qxd5 Nxd5 15. a4
+Na5 16. Rfe1 c6 17. Nc3 Nc4 18. Nxd5 cxd5 19. b3 Na5 20. b4 Nc4 21. e3 Nd6 22.
+Ne5 Rbc8 23. b5 Bb7 24. a5 Rc7 25. Reb1 Rfc8 26. Bf1 Nc4 27. axb6 axb6 28. Nd3
+Kf8 29. Be2 Ke7 30. Nb4 Nd6 31. Bd3 {1/2-1/2 (31) Zhou,W (2635)-Bu,X (2719)
+China 2016}) 8... Bxd2+ 9. Nbxd2 c3 10. bxc3 Nxc3 11. Qb2 (11. Qd3 Nd5 12. O-O
+O-O 13. e4 Nde7 $44) 11... Na4 12. Qc2 Nb6 13. e3 (13. Nb3 Qe7 14. O-O e5 15.
+dxe5 Nxe5 16. Nxe5 Qxe5 17. a4 O-O 18. a5 Nd5 19. a6 b6 20. Rfd1 Be6 21. Nd4 c5
+22. Nc6 Qf6 23. Qd2 Rfc8 24. Nxa7 Rxa7 25. Bxd5 Rd8 26. e4 g6 27. Kg2 Kg7 28.
+Ra3 h5 29. h4 Bg4 30. Rb1 Kf8 31. Qh6+ Kg8 32. Qg5 Qd6 33. Rd3 Kg7 34. f3 Bc8
+35. Bc4 Qxd3 36. Bxd3 Rxd3 37. Qe5+ Kh7 38. Qb8 Rd2+ 39. Kh1 Rxa6 40. Qxc8 Raa2
+41. Qh3 c4 42. Qc8 Rh2+ 43. Kg1 Rag2+ 44. Kf1 Rf2+ 45. Kg1 Rhg2+ 46. Kh1 Rh2+
+47. Kg1 {1/2-1/2 (47) Carlsson,P (2520)-Pourkashiyan,A (2303) Dubai 2013})
+13... O-O 14. O-O {[#] White is a pawn down but has more space and two
+semi-open files. Moreover, the bishop c8 is not developed yet.} Qe7 15. Rac1
+Rd8 16. Nb3 Rb8 17. Nc5 Nd5 18. a3 h6 19. Rfe1 b6 20. Nxe6 Bxe6 21. Qxc6 Qxa3
+22. Ra1 Qd6 23. Qxd6 cxd6 24. Rxa7 {[#] White won the pawn back but now
+Black's b-pawn is very dangerous.} Nc3 25. e4 b5 26. d5 Bg4 27. Nd4 b4 28. h3
+$6 ({Komodo 10 recommends the following line:} 28. Nc6 b3 29. Nxd8 b2 30. Bf1
+b1=Q 31. Rxb1 Rxb1 32. Kg2 Nxe4 33. Bd3 Bh3+ 34. Kf3 Ng5+ 35. Ke3 Re1+ 36. Kd2
+Re8 $11) 28... Bd1 29. e5 $6 ({According to Komodo 10} 29. Nc6 {was best. To
+support this claim the engine gives the following variation:} b3 30. Bf1 b2 31.
+Bd3 Be2 32. Bc2 (32. Bxe2 $2 Nxe2+ $19) 32... Ra8 33. Rb7 Ra1 34. Bb1 $11)
+29... b3 30. e6 fxe6 ({After} 30... b2 31. exf7+ Kh8 32. Nc6 Rf8 33. Nxb8 b1=Q
+34. Nc6 {Black has a queen for rook and two pawns but the pawn on f7 and his
+active pieces give White still some counterplay.}) 31. Rxe6 $2 ({Better was} 
+31. Nxe6 {e.g.} b2 32. Rxd1 Nxd1 33. Be4 b1=Q 34. Bxb1 Rxb1 35. Nxd8 Ne3+ 36.
+Kh2 Rb2 37. Rf7 Nxd5 $11) 31... Bc2 ({White's idea was} 31... b2 32. Nf5 b1=Q
+33. Rxg7+ Kf8 34. Rf6+ Ke8 35. Re7#) (31... Nb5 $1 {was best.} 32. Nxb5 Rxb5
+33. Bf1 b2 34. Bd3 b1=Q 35. Bxb1 Rxb1 $19) 32. Nxb3 Rxb3 33. Ree7 g5 34. Rac7
+Bf5 35. Rg7+ Kh8 36. Rgf7 Ne2+ (36... Bd3 $17) 37. Kh2 Nd4 38. g4 Bd3 39. f4
+gxf4 40. Rxf4 Rb2 41. Rcf7 Ne2 42. Rf2 Rdb8 43. R7f6 Nc3 {[#]} 44. Rxh6+ $2 ({
+Less clear is} 44. Rxb2 Rxb2 45. Kg1 Ne2+ 46. Kf2 Nf4+ 47. Ke3 Nxg2+ 48. Kxd3
+Kg7 49. Rxd6) 44... Kg7 45. Rhf6 Nd1 46. Rxb2 Rxb2 47. Rxd6 Bf1 48. Kg3 Rxg2+
+49. Kf4 Rf2+ 50. Kg5 Nc3 51. Rg6+ Kf7 52. d6 Ne4+ 53. Kh6 Rd2 54. Rg7+ Kf8 55.
+g5 Nxd6 56. Kh7 Bxh3 57. g6 Be6 0-1
+

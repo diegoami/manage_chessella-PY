@@ -1,0 +1,39 @@
+[Event "Altibox Norway Chess 2017"]
+[Site "Stavanger"]
+[Date "2017.06.10"]
+[Round "4"]
+[White "Nakamura, Hikaru"]
+[Black "Vachier Lagrave, Maxime"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2785"]
+[BlackElo "2796"]
+[Annotator "Alex Yermolinsky"]
+[PlyCount "65"]
+[EventDate "2017.??.??"]
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 {One of those
+sidelines that leaves Black with a choice of options.} e5 {I guess Hikaru
+counted on this one, as MVL only plays Najdorf setups.} ({The Dragon response}
+6... g6 7. O-O Bg7 8. a4 O-O 9. Kh1 Nc6 {was seen in Judit Polgar's games
+against Anand and Grischuk in World Blitz 2014}) (6... e6 7. f4 Nbd7 8. O-O b5)
+7. Nde2 Be7 8. O-O O-O 9. Ng3 Be6 (9... g6 $5) 10. Nd5 Bxd5 11. exd5 g6 12. c4
+{This is a standard structure, the same we saw in Carlsen-Nakamura from round
+three.} Ne8 $2 {I don't like this retreat because it narrows Black's options to
+a K-side attack alone, and later in the game we will see how iffy this strategy
+can be.} (12... Nbd7 13. Bh6 Re8 14. b4 a5 15. a3 axb4 16. axb4 Rxa1 17. Qxa1
+b5 $1 {is where your Nf6 comes in handy.}) 13. Bh6 Ng7 14. b4 Nd7 15. Rc1 $14
+a5 16. a3 axb4 17. axb4 Ra3 (17... f5 18. c5 $1 dxc5 $140 19. d6 Bg5 20. Bxg5
+Qxg5 21. bxc5 $16) 18. Ne4 $1 {Nakamura gets his knight to support his Q-side
+offensive.} f5 19. Nc3 e4 20. Be2 Bg5 21. Bxg5 Qxg5 22. c5 Ne5 ( 22... dxc5 23.
+bxc5 Nxc5 24. Nb5 Rd3 $1 {was worth taking a look at, but White has his own
+ideas:} 25. Bxd3 Nxd3 26. Rc7 f4 27. Rxg7+ $1 Kxg7 28. Nc7 { winning back the
+exchange.}) 23. c6 {Strategically the game is decided. The only thing left to
+do is put it away by exact calculation.} Nh5 24. Bxh5 gxh5 { [#]} 25. Kh1
+{Easier said than done...} ({The most resolute was} 25. cxb7 Ra7 ( 25... Nd3
+26. Ra1 Rxc3 27. Ra8) {and now the surprising shot,} 26. Nxe4 $3 fxe4 27. Rc7
+Ra6 28. Rc8 Nd7 29. Qc2 Qxd5 30. Qc7 Qb5 31. Rxf8+ Kxf8 32. Qxd7 Qxd7 33. b8=Q+
+Kg7 {secures White a large advantage,} 34. h3 {The black king is too open for
+Black to have any hopes of advancing his d-pawn.} d5 35. b5 Qa7 36. Qe5+ Rf6
+37. Qxd5 {etc.}) 25... Qh4 $2 (25... Nd3 26. Nb5 Nxc1 27. Nxa3 Nd3 28. Qc2 $16)
+26. Qd4 Ng4 27. h3 f4 {MVL tries a desperado attack.} 28. Kg1 e3 29. hxg4 hxg4
+30. cxb7 exf2+ 31. Rxf2 g3 32. Rxf4 Qh2+ 33. Kf1 1-0

@@ -1,0 +1,86 @@
+[Event "2016"]
+[Site "?"]
+[Date "2016.06.27"]
+[Round "4.2"]
+[White "Naroditsky, Daniel"]
+[Black "Laznicka, Viktor"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "2634"]
+[BlackElo "2668"]
+[Annotator "Sagar Shah"]
+[PlyCount "119"]
+[EventDate "2016.??.??"]
+[WhiteClock "0:01:38"]
+[BlackClock "0:02:50"]
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. g3 {The Catalan treatment of the Slav
+leads to very interesting positions in which White usually has to sacrifice a
+pawn and plays against the c8 bishop.} e6 6. Bg2 dxc4 7. Ne5 b5 8. O-O (8. Nxc6
+{doesn't fare so well because of} Qb6 9. Ne5 (9. Na5 Ra7 $17) 9... Bb7 $11)
+8... Bb7 9. b3 {This line with the pawn sacrifice became quite popular after
+Kramnik played a beautiful positional game against Giri in Qatar 2014. Quite a
+few developments have occurred in this line since then which we can understand
+with the help of this game.} cxb3 (9... b4 {is not played by many black
+players. But it is a very worthy alternative as Black gets a protected passed
+pawn on c3.} 10. Ne4 $5 (10. Na4 {was considered the main move, but I guess
+things will move in the other direction since the third game between Ding Liren
+and Wesley So in their Shanghai Match which took place in May 2016.}) 10...
+Nxe4 {The only logical move at Black's disposal.} (10... c3 $2 11. Ng5 $18) 11.
+Bxe4 c3 12. a3 a5 (12... Nd7 {is also a possible avenue for black players in
+the future.}) 13. axb4 axb4 14. Bf4 $11 {1-0 (38) Ding,L (2778)-So,W (2775)
+Shanghai 2016. White has the freer development, Black has the extra pawn and a
+dangerous one on c3. I would say that this position is worthy of further
+investigation and a lot of new ideas can be found.}) 10. axb3 Be7 11. Ne4 {This
+was played by Naroditsky after five minutes of thought and hence it was most
+probably not his home preparaiton. It is a move that he came up with on the
+board.} (11. Bb2 {was played by Kramnik and this looks like the best move.} O-O
+12. Ne4 $1 {is the best move and after} (12. Qc2 {After the game Kramnik said
+that he was very upset that he had made this minor inaccuracy. The point being
+that the queen is not so well placed on c2 as Rc8 will launch a direct attack
+against the queen.} Nbd7 $1 (12... Nfd7 $6 13. Nd3 $1 $14 {was Kramnik-Giri
+Qatar Masters Open 2014.}) 13. Nxc6 $2 Bxc6 14. Bxc6 Rc8 {And now the bishop
+cannot retreat due to b4. We see why the queen was misplaced on c2.}) 12...
+Nxe4 (12... Nbd7 13. Nxc6 $1 $16) 13. Bxe4 $44 { White has excellent
+compensation.} f6 14. Nd3 f5 15. Bg2 $14) 11... Nxe4 12. Bxe4 f6 $1 {Laznicka
+immediately spots the flaw in White's setup - the d4 pawn is unprotected and
+hence Nd3 is impossible. It is precisely for this reason that Black has
+equalised without any difficulty.} 13. Nf3 (13. Nd3 Qxd4 $19) 13... Nd7 (13...
+f5 14. Bc2 c5 {also looks pretty tempting for Black.}) 14. Bd2 f5 15. Ba5 Qb8
+16. Bc2 c5 {Once Black gets this freeing break he shouldn't have any problems.}
+17. dxc5 Nxc5 18. Qd4 O-O 19. Rad1 Qe8 20. Bc3 Rf7 (20... Bf6 $1 21. Qxc5 Rc8
+22. Qa7 Rxc3 23. Qxb7 Rxc2 24. Qxa6 Rxe2 $15) 21. Ne5 Rd8 22. Qe3 Rf8 23. Rxd8
+Qxd8 24. Rd1 Qc8 25. Bb4 Rd8 26. Rc1 (26. Rxd8+ Qxd8 27. Bxc5 Qd5 $17) 26...
+Rd5 {Black's moves have been all quite logical and he surely maintains an edge
+thanks to his extra pawn. Here Daniel decides to sharpen play by sacrificing
+his bishop.} 27. Bxf5 $5 {[#]A move that stirs up some very interesting
+complications. It must be mentioned that Daniel took only 7 mins and 32 seconds
+to navigate through the complexities of the line. Quite impressive.} exf5 {The
+most natural recapture.} (27... a5 $1 {The cold blooded move is the best one in
+the position. But how can it be found without computer assistance. The e6 pawn
+is under pressure and there can be myriad discoveries with the knight moving
+from e5. Yet the computer suggests this emtionless a5!? What to do! As always
+we have to agree!} 28. Bxc5 Rxc5 $1 ( 28... Bxc5 $6 29. Nd7 $1 Bxe3 30. Bxe6+
+$1 (30. Rxc8+ $2 Kf7 $1 $17) 30... Kh8 31. Rxc8+ Bxc8 32. Bxd5 Bxf2+ 33. Kxf2
+Bxd7 34. Ke3 $11) 29. Rxc5 Bxc5 30. Qxc5 $1 exf5 (30... Qxc5 31. Bxe6+ Kf8
+(31... Kh8 32. Nf7+ $11) 32. Nd7+ $18) 31. Qe3 $15 {and the position is
+slightly better for White! Mind numbing complications!}) 28. Nd3 $1 {[%cal
+Rb4c5,Rd3c5,Re3c5,Rc1c5] The knight on c5 is attacked four times and cannot be
+defended further.} Qc6 (28... Rxd3 29. Qxe7 (29. exd3 Qc6 30. f3 Bg5 $1 31.
+Qxc5 Qxc5+ 32. Rxc5 Be3+ 33. Kg2 Bxc5 34. Bxc5 $11 {are variations which only
+the silicon monster can see!}) 29... Rd8 30. Qxc5 Qe6 $15) 29. Qxe7 Rxd3 {The
+mate on g2 has to be averted.} 30. f3 $1 { The important thing is that Daniel
+confidently calculated this calm move in which he is a piece down, fully aware
+that he will win back the material.} Qd7 31. Qxc5 Rd1+ $6 (31... Qd4+ $1 $11
+{And most probably the game would have ended in a draw.}) 32. Kg2 h6 33. Qf8+
+Kh7 34. Rxd1 Qxd1 35. Qxf5+ {White is now a pawn up and Black's defensive task
+is not easy.} Kh8 36. Qf8+ Kh7 37. Qf5+ Kh8 38. Qe5 (38. Qe6 $1 $16) 38... Qxb3
+39. Bc3 Qf7 40. g4 {Like in so many opposite coloured bishop positions the side
+which is attacking usually has the edge. Here White's chances are preferable.}
+Bd5 41. Kg3 Qb7 42. Qd6 Kh7 43. h4 Bc4 44. h5 b4 (44... Bxe2 45. Qg6+ Kg8 46.
+Qe8+ $18) 45. Bb2 a5 46. Qg6+ Kg8 47. Qe8+ Kh7 48. Qg6+ Kg8 49. Qe8+ Kh7 50. f4
+$5 {A brave decision by Naroditsky to continue playing and he is immediately
+rewarded as Laznicka blunders the whole piece.} Qb6 $4 (50... Qc7 $11) 51. Qe4+
+Kh8 52. Qxc4 $18 { The rest is just mopping up.} Qe3+ 53. Kg2 a4 54. Bd4 Qe7
+55. Qc8+ Kh7 56. Qf5+ Kh8 57. Qe5 Qb7+ 58. e4 a3 59. g5 b3 60. Qe8+ {A very
+interesting fight that had almost everthing - an interesting opening, wild
+tactics, time pressure, and blunder!} 1-0

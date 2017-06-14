@@ -1,0 +1,48 @@
+[Event "11th Edmonton GM 2016"]
+[Site "Edmonton CAN"]
+[Date "2016.06.18"]
+[Round "1.1"]
+[White "Shirov, Alexei"]
+[Black "Wang, Richard"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2682"]
+[BlackElo "2341"]
+[Annotator "AS"]
+[PlyCount "47"]
+[EventDate "2016.06.18"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 Nh6 7. b4 cxd4 8. Bxh6 ({
+"Mainstream" is} 8. cxd4 Nf5 9. Bb2) 8... gxh6 9. cxd4 Bd7 10. Ra2 Rg8 {
+This line is a specialty of Shirov and he has played a number of games with it.
+} 11. g3 (11. h3 h5 12. g3 h4 13. g4 Be7 14. Be2 f6 15. b5 Nd8 16. Qd3 Rg7 17.
+Nc3 Nf7 18. O-O h5 19. Na4 Qd8 20. exf6 Bxf6 21. Nc5 hxg4 22. hxg4 b6 23. Nxd7
+Qxd7 24. Kh1 Rc8 25. Rc2 Rxc2 26. Qxc2 Nd6 27. Ne5 Bxe5 28. dxe5 Ne4 29. Kg2
+Nc5 30. Rh1 Qe7 31. Qc1 Rh7 32. Qe3 Qg7 33. Rc1 Qf8 34. a4 Rf7 35. f3 Rf4 36.
+Rxc5 bxc5 37. a5 h3+ 38. Kg3 h2 {0-1 (38) Shirov,A (2684)-Nakamura,H (2787)
+Zuerich 2016}) 11... Rg4 12. Rd2 Nxb4 (12... a5 13. b5 Re4+ 14. Be2 Qxb5 15.
+O-O Qb6 16. Bd3 Rg4 17. Bxh7 a4 18. Bc2 Qa5 19. Ne1 Rg7 20. Ng2 b5 21. Nf4 b4
+22. Nh5 bxa3 23. Nxa3 Bxa3 24. Nxg7+ Kd8 25. Rd3 Bf8 26. Rf3 Bxg7 27. Rxf7 Bh8
+28. Qg4 a3 29. Rh7 a2 30. Qg8+ Kc7 31. Qxe6 Rd8 32. Ra1 Nxd4 33. Qd6+ Kc8 34.
+Bd3 Nb5 35. Rc1+ Nc7 36. Rxd7 Rxd7 37. Ba6+ Kb8 38. Qxd7 Qxa6 39. Qxc7+ Ka8 40.
+Qd8+ {1-0 (40) Shirov,A (2691)-Szelag,M (2456) Germany 2015}) 13. axb4 Bxb4 {
+All this is still theory. Apparently, Black had prepared this sharp system
+against the Latvian tactician.} 14. Bd3 {A new move - Shirov was also well
+prepared. A previous game continued} (14. Be2 Bxd2+ 15. Nbxd2 Rxd4 $2 (15...
+Qb2 $11) 16. Nxd4 Qxd4 17. O-O a5 18. Qc2 Rc8 19. Qa2 Qxe5 20. Nf3 Qe4 21. Bd1
+a4 22. Re1 Qb4 23. Be2 Rc3 24. Qd2 Rb3 25. Qc1 a3 26. Ne5 a2 27. Kg2 Qc3 28.
+Qf4 f5 29. Bh5+ Kd8 30. Nf7+ Kc8 31. Nd6+ Kb8 32. Nb5+ e5 33. Rxe5 {0-1 (33)
+Grischuk,A (2792)-Caruana,F (2791) Dubai 2014}) 14... Bb5 15. O-O Bxd2 16. Qxd2
+Rc8 17. Na3 Bxd3 18. Qxd3 a6 19. Rb1 Qc7 20. Qxh7 b5 (20... Qc3 21. Rxb7 $18)
+21. Kg2 {[#] Black has a rook and one pawn for the two knights and materially
+the position is roughly equal. However, Black's king is exposed and this leads
+to tactical opportunities for White.} Qc3 $2 {Better was 21...Qe7, but Black
+falls into the trap White set with his last move and goes straight for the
+knight on a3, which indeed seems to be in trouble. But Shirov surprises his
+opponent once again:} 22. Rxb5 $1 Qxa3 ({After} 22... axb5 23. Nxb5 Qc2 24.
+Nd6+ Kd8 25. Qxf7 $18 {White threatens Nb7# and Qxe6 and has a devastating
+attack.}) 23. Rb7 Qf8 24. Qd3 {After this retreat Black is helpless against
+White's attack - White simply threatens 25.Qxa6 followed by a devastating
+check on a4 or b5 and after e.g. 24...Dg7 White wins with 25.Qa3. Therefore
+Black resigned.} 1-0
+

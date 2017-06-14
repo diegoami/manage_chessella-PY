@@ -1,0 +1,25 @@
+[Event "Ortisei"]
+[Site "?"]
+[Date "2016.06.05"]
+[Round "?"]
+[White "Corvi, M."]
+[Black "Werle, J."]
+[Result "1-0"]
+[Annotator "Werle"]
+[SetUp "1"]
+[FEN "7k/p4r1p/2p4Q/1p3p2/3P1P2/1b1KP1N1/1P4rP/8 w - - 0 35"]
+[PlyCount "29"]
+[EventDate "2016.??.??"]
+[SourceDate "2016.06.05"]
+
+{Corvi had just moved his knight to the Kingside from c3 via e2, to g3 in
+order to create - with the lethal combination Q+N - threats to the Black King.
+With his following nice King's march he is bringing his King in safety, but
+also uses it as an attacking piece.} 35. Kc3 $3 Bd5 36. Kb4 Rxb2+ 37. Kc5 Rc2+
+38. Kd6 {[%csl Gd6][%cal Gd3c3,Gc3b4,Gb4c5,Gc5d6]} Rc3 (38... b4 39. Qg5 b3 40.
+Qd8+ Kg7 41. Nh5+ Kh6 42. Qg5#) 39. Qg5 Rg7 (39... Rxe3 40. Qd8+ Kg7 41. Nh5+
+Kh6 42. Qg5#) 40. Qd8+ Bg8 41. Nxf5 {After the time control things got out of
+hand for Black. His pieces are not coordinating at all, and his Rook on c3 is
+helplessly cut off the board where the play is going on.} Rg6+ 42. Ke7 Rc1 43.
+Ng3 b4 44. f5 Rg7+ 45. Kf8 Rf7+ 46. Ke8 b3 47. Qd6 b2 48. Qe5+ Rg7 49. Kf8 1-0
+

@@ -1,0 +1,36 @@
+[Event "Eurasian Blitz Chess Cup"]
+[Site "Almaty KAZ"]
+[Date "2016.06.19"]
+[Round "16.6"]
+[White "Grischuk, Alexander"]
+[Black "Mamedov, Rauf"]
+[Result "0-1"]
+[ECO "B10"]
+[WhiteElo "2747"]
+[BlackElo "2655"]
+[Annotator "AA"]
+[SetUp "1"]
+[FEN "3r1rk1/2q2pb1/3p1np1/p1pPp1B1/1p2P2P/5PRN/PPPQ4/1K1R4 b - - 0 23"]
+[PlyCount "33"]
+[EventDate "2016.06.18"]
+[EventType "blitz"]
+
+{Of course analyzing in depth Blitz games makes little sense but I like to
+point out some tough decisions that were taken within seconds. And that I
+respect a lot, like the positional sacrifice from this game, for example!} 
+23... Nh5 {Cold-blooded positional sacrifice} 24. Bxd8 Rxd8 25. Rg4 c4 {
+Black's counterplay is in fact looking quite promising, whereas White's
+perspectives are not that obvious...} 26. Qg2 b3 {aggressive and rather good
+for a Blitz game but objectively speaking...it was not the most recommended
+continnuation.} (26... a4 {was the more restrained and even 'cooler' move, to
+prepare the attack.}) 27. Rg5 {not so precise, allowing Black to continue its
+conquering business on the queenside.} (27. cxb3 {was the way to go, but who
+can blame someone for not wanting to open up the king like that?} cxb3 28. axb3
+{and White has the upper hand.}) 27... bxa2+ 28. Ka1 Nf4 (28... c3 {was even
+stronger, blowing up the shelter of the white king.}) 29. Nxf4 exf4 30. c3 a4 {
+If you check with a computer the rest of the game you will get some EKG
+diagram, which is rather normal for a Blitz game. However, the level for such
+circumstances remains insanely high...} 31. h5 a3 32. hxg6 axb2+ 33. Qxb2 f5
+34. Rxf5 Rb8 35. Qa3 Qb7 36. Kxa2 Ra8 37. Qxa8+ Qxa8+ 38. Kb2 Qb7+ 39. Kc1 Bxc3
+0-1
+

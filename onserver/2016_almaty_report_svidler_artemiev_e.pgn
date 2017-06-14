@@ -1,0 +1,36 @@
+[Event "Eurasian Blitz Chess Cup"]
+[Site "Almaty KAZ"]
+[Date "2016.06.18"]
+[Round "8.2"]
+[White "Svidler, Peter"]
+[Black "Artemiev, Vladislav"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2759"]
+[BlackElo "2653"]
+[Annotator "AA"]
+[SetUp "1"]
+[FEN "6k1/1p3p2/p5p1/P1n4p/7P/4P1P1/5P2/3B2K1 w - - 0 37"]
+[PlyCount "30"]
+[EventDate "2016.06.18"]
+[EventType "blitz"]
+
+{One would may not expect a high level of technique and prophylactic moves in
+a Blitz game but that is a wrong approach!} 37. Bf3 {leading to a very
+interesting endgame, where domination of bishop vs knight plays the key role.}
+Kf8 ({If} 37... Nb3 38. Bxb7 Nxa5 39. Bd5 $1 $18 {holding the knight in its
+stable.} (39. Bxa6 {is not working because of} f5 $1 {I know this looks
+anti-positional but placing your pawns on the colour of the opposition bishop
+is a good way to limitate its area of activity. And that would bring a
+precious half a point too.})) 38. Bd5 $1 {keeping an eye on both b7 and f7
+pawns.} Ke7 39. Kf1 (39. e4 $1 {Controlling the crucial square f5, thus
+allowing White to create a passed pawn in good circumstances.} f6 40. f3 Kd6
+41. Kf2 f5 42. Ke2 fxe4 43. fxe4 Ke5 44. Ke3 $18) 39... f6 ({If White didn't
+take its chance, Black could have profit with} 39... f5 $1 40. f3 Kf6 41. Ke2
+Ke5 42. Bf7 Kf6 $11 {just in time}) 40. Ke2 g5 ({Now} 40... f5 {is too late}
+41. f3 Kf6 42. e4 $18) 41. Kd2 gxh4 42. gxh4 Kd6 43. Bf7 f5 44. Kc3 Ne4+ 45.
+Kd4 Nxf2 46. Bxh5 Ne4 47. Bf3 Nc5 48. Bd5 Nd7 49. Bxb7 Nc5 50. Bd5 Nd7 51. h5
+Ke7 {We don't need 'special' invitations to analyze or check interesting
+positions, so who cares it was a Blitz game? The finesses from this encounter
+deserve attention.} 1-0
+

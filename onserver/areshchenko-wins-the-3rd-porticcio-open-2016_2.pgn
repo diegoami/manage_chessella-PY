@@ -1,0 +1,31 @@
+[Event "2016"]
+[Site "?"]
+[Date "2016.06.30"]
+[Round "8.2"]
+[White "Grandelius, Nils"]
+[Black "Sengupta, Deep"]
+[Result "1/2-1/2"]
+[ECO "A11"]
+[WhiteElo "2649"]
+[BlackElo "2543"]
+[Annotator "Sagar Shah"]
+[SetUp "1"]
+[FEN "8/1p3k2/1Pnnp2p/2Np1pp1/K2P4/4PPP1/4B2P/8 b - - 0 48"]
+[PlyCount "72"]
+[EventDate "2016.??.??"]
+[WhiteClock "0:04:10"]
+[BlackClock "0:04:06"]
+{It is a complicated endgame and on the surface white seems to be better. But
+Deep came up with a powerful move that shifted the balance in Black's favour.}
+48... f4 $1 {Undermining the support of the d4 pawn.} 49. Kb3 fxe3 50. Kc3 Nd8
+51. Na4 Ke7 52. Kd3 Nc4 53. Kc3 Nd6 54. Kd3 Nc4 55. Kc3 Nc6 56. Nc5 (56. Bxc4
+dxc4 $19) 56... N6a5 57. f4 (57. Bxc4 dxc4 $19) 57... gxf4 58. gxf4 Nxb6 $19 {
+Black is two pawns up and completely winning.} 59. Bg4 Nbc4 $1 60. Kd3 (60.
+Nxe6 e2 61. Bxe2 Kxe6 $19) (60. Bxe6 e2 $19) 60... Nc6 $6 (60... b6 $1 61. Nxe6
+h5 $1 62. Bh3 Nb3 {With the deadly threat of Nc1+} 63. Ng5 Nc1+ 64. Kc2 Ne2 $1
+65. Nf3 Nxf4 $19 {And it is all over. It is true that this sequence of moves
+was not so easy to find.}) 61. Nxb7 Nb4+ 62. Kc3 Na6 63. Be2 Kf6 64. Bxc4 dxc4
+65. Nd6 Nc7 66. Nxc4 Nd5+ 67. Kd3 Kf5 68. Nxe3+ Kxf4 69. Nc4 {Now it is just a
+draw.} h5 70. Ne5 Nf6 71. h4 Nd5 72. Nd7 Kg4 73. Nc5 Nc7 74. Ke4 Kxh4 75. Ke5
+Kg4 76. Nxe6 Nxe6 77. Kxe6 h4 78. d5 h3 79. d6 h2 80. d7 h1=Q 81. d8=Q Qe4+ 82.
+Kd7 Qd5+ 83. Kc7 Qxd8+ 84. Kxd8 1/2-1/2

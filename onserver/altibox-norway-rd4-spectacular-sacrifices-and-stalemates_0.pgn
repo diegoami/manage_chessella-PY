@@ -1,0 +1,77 @@
+[Event "Altibox Norway Chess 2017"]
+[Site "Stavanger"]
+[Date "2017.06.10"]
+[Round "4"]
+[White "Aronian, Levon"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2793"]
+[BlackElo "2832"]
+[Annotator "Alex Yermolinsky"]
+[PlyCount "69"]
+[EventDate "2017.??.??"]
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 ({In the Chebanenko line} 4... a6 5. e3
+b5 6. b3 {Black gets to move his bishop out,} Bg4) 5. e3 a6 {I find this
+version somewhat inferior.} ({Obviously,} 5... Nbd7 {has been played million
+times.}) 6. b3 (6. Bd3 dxc4 7. Bxc4 c5 {leads to Queens Gambit Accepted - a
+good version for Black, since the white knight is already on c3 and therefore
+subject to a b7-b5-b4 attack.}) 6... Bb4 $1 7. Bd2 {The bishop is unfortunate
+here, but White has no other choice.} ({as} 7. Bb2 Qa5 8. Qc2 Ne4 9. Rc1 Qxa2 {
+loses a pawn.}) 7... Nbd7 8. Bd3 O-O 9. O-O Qe7 ({Carlsen already had this
+position on the board. Against Flores, World Rapid 2016, he chose} 9... Bd6 {
+and ended up in a bit of trouble after} 10. Rc1 ({White shouldn't rush in with
+} 10. e4 {because} dxc4 11. bxc4 e5 {gives Black play on the dark squares.})
+10... h6 11. Qc2 Re8 12. h3 Qe7 $6 {Perhaps a step too far in the waiting game.
+} ({There wasn't much wrong with} 12... e5 13. cxd5 cxd5 14. dxe5 Nxe5 15. Nxe5
+Bxe5 16. Ne2 Ne4) 13. c5 Bc7 14. e4 e5 15. Rfe1 $1 {Here Magnus realized his
+mistake, shrugged his shoulders, played} Qd8 {and went on to win the game!})
+10. Bc2 $5 {A very fresh idea, no doubt invented at the board.} ({Routine is}
+10. Qc2 {where one possible line goes as follows:} e5 11. Nxe5 Nxe5 12. dxe5
+Qxe5 13. Nxd5 Nxd5 14. cxd5 Bxd2 15. Qxd2 Qxd5 16. Qc2 $14 {Tukmakov-Bacrot,
+2007}) 10... Rd8 ({On} 10... e5 {Levon may have had an ace up his sleeve:} 11.
+Nxd5 $1 cxd5 12. Bxb4 Qxb4 13. dxe5 Ne8 (13... dxc4 $142 14. exf6 Nxf6 15. bxc4
+Qxc4 16. Bb3 $14) 14. cxd5 {White's pawn mass is threatening to go critical!})
+11. a3 $3 {Absolutely incredible.} Bxa3 $6 {Carlsen takes up the gauntlet.} ({
+Objectively speaking,} 11... Bd6 {would have been a wiser choice.} 12. c5 Bc7
+13. e4 $1 dxe4 14. Nxe4 Nxe4 15. Bxe4 Nf6 16. Bg5 h6 17. Bxf6 Qxf6 18. Re1 $14
+{appears to favor White by some small margin, but Black can think of a radical
+solution to the problem of his Bc8, and play} e5 $5 19. Nxe5 Be6) 12. Rxa3 Qxa3
+13. c5 $1 {[#] The queen is about to be trapped.} b6 $1 ({Some sample lines to
+illustrate the point:} 13... e5 14. Nb1 Qa2 15. Bb4 $1 Ne4 16. Bxe4 dxe4 17.
+Nc3 Qb2 18. Na4 Qa2 19. Nd2 exd4 20. exd4 Nf6 21. Nc3 Qb2 22. Nc4 $18) ({or}
+13... a5 14. Bc1 Qa1 (14... Qb4 15. Na2 Qb5 16. Bd3) 15. Qd2 Kh8 16. Bb1 $18)
+14. b4 $5 {Levon continues to delight the audience.} ({A mere mortal would have
+tried to follow through with} 14. Nb1 Qa2 15. Bb4 ({Better is} 15. Qc1 $5 bxc5
+16. Nc3 Qa5 17. Nxd5 Qb5 18. Nc7 Qb7 19. Nxa8 Qxa8 (19... cxd4 20. Ba5 Rf8 21.
+Nc7) 20. Ba5 Re8 21. dxc5 Nxc5 22. Bxh7+ Nxh7 23. Qxc5 $16) 15... bxc5 16. dxc5
+a5 17. Nc3 Qb2 18. Na4 Qa2 19. Bb1 {would have gotten the queen, and arrived in
+a totallt unclear position after} Qxa4 $1 20. bxa4 axb4 {Did Magnus see it all
+when he took on a3?}) 14... Ne4 ({In case of} 14... Qb2 15. cxb6 ( 15. Na4 Qa3)
+15... Nxb6 16. Ne5 {the rescue operation had to continue at the cost of further
+concessions:} Ne4 17. Nxe4 dxe4 18. Bxe4 $14) 15. Nxe4 dxe4 16. Bxe4 Rb8 {[#]}
+(16... Nf6 17. Bxc6 Rb8 18. Ne5 a5 19. b5 bxc5 20. Nc4 Qa2 21. Bxa5 $16) 17.
+Bxh7+ $3 {This is how Greek gods played chess if they ever did.} (17. Qc2 f5
+(17... g6 18. Bc3 {and again the black queen is lost}) 18. Bxc6 bxc5 19. dxc5
+$16) 17... Kxh7 18. Ng5+ Kg8 ({In case of} 18... Kg6 {we all know the pattern
+of White's attack:} 19. Qg4 f5 20. Qg3 {but is it enought ot win? Probably is,
+if you can see the following lines:} Kf6 (20... f4 21. Qxf4 Rf8 22. Qh4 $1 Nf6
+23. Qg3 Bd7 24. Nxe6+ Kf7 25. Nxf8 Rxf8 26. cxb6) (20... Re8 21. Nxe6+ Kf6 22.
+Qxg7+ Kxe6 23. e4 $1 fxe4 24. Qg4+ Ke7 25. Bg5+ Nf6 26. Qf4 { hitting the rook
+on b8.}) 21. Nf3 Re8 22. e4 $3 Bb7 23. Bg5+ Kf7 24. Ne5+ Nxe5 25. Qxa3) 19. Qh5
+Nf6 20. Qxf7+ Kh8 21. Qc7 {An amazing picture. The White queen is rampaging in
+the enemy camp while her counterpart is taking a vacation.} Bd7 {Carlsen finds
+a way to stay ahead in material, but he's no longer in control of event, in
+fact he hasn't been since he took the bait with Bxa3.} 22. Nf7+ Kh7 23. Nxd8
+Rc8 24. Qxb6 Nd5 25. Qa7 $2 {The first inaccuracy in Aronian god-like play
+today.} (25. Qb7 Rxd8 26. e4 Nf6 27. Bg5 {keeping the b4-pawn alive.}) 25...
+Rxd8 26. e4 {[#]} Qd3 $6 ({Only} 26... Nf6 27. Bg5 Qxb4 28. e5 Kg6 29. h4 Qxd4
+30. exf6 gxf6 {would allow Black to stay afloat.}) 27. exd5 Qxd2 28. Qc7 Qg5
+29. dxc6 $6 ({Instead,} 29. d6 {would have kept Black all trussed up, yet White
+would still have to show a winning plan.} Be8 30. h3 Bd7 31. Re1 Qh4 32. d5
+(32. Re2 Qf6 33. Re4 Qf8 34. Qb7 Qf5 35. f3 Qf6 36. Qxa6 Rb8) 32... exd5 33.
+Re7 Rf8) 29... Bc8 30. h3 Qd5 31. Rd1 e5 $6 ({Simply staying put with} 31...
+Rf8 {was the way to go, as} 32. Qd6 Qb3 33. Qxf8 Qxd1+ 34. Kh2 Qxd4 35. Qxc8
+Qf4+ {is perpetual check.}) 32. Rd3 exd4 33. Qe7 Bf5 $2 ( 33... Rg8 34. Qh4+
+Kg6 35. Rxd4 $16) 34. Rg3 Bg6 35. Qh4+ {It took a Magnus blunder, but it's only
+fair Levon won this game.} 1-0

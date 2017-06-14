@@ -1,0 +1,143 @@
+[Event "Altibox Norway Chess 2017"]
+[Site "Stavanger"]
+[Date "2017.06.12"]
+[Round "6"]
+[White "Caruana, Fabiano"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "A21"]
+[WhiteElo "2805"]
+[BlackElo "2786"]
+[Annotator "Tiger Hillarp-Persson"]
+[PlyCount "94"]
+[EventDate "2017.??.??"]
+
+1. c4 {This is rare occurance for Caruana who usually starts out with 1.e4.} ({
+It is worth comparing what happens in the game with the not purely fictional
+line:} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d6 7. Nf3
+Nbd7 8. e3 (8. g3) 8... Re8 9. b4 e5 10. Be2 c6 {when we get a position that
+will arise later in this game, but with Black to move.} (10... e4 $1)) 1... e5
+{I have heard GM:s saying that the problem with the English is - in order - 1..
+.e5, 1...c5 and 1...e6, and then there is nothing wrong with 1...Nf6 or 1...c6.
+Further down on the list 1...b6 and 1...g6 argues about which one is the most
+respectable.} 2. Nc3 ({When Mihail Marin wrote his wonderful books on the
+English, he chose to recommend} 2. g3 {as the second move here. The only
+downside to leaving out Nc3, is that Black can play the immediate} c6 3. d4 (3.
+Nf3 e4 {is another fashionable possibility.}) 3... e4 $5 4. Nc3 d5 {and Black
+seems to be doing fine. One sample line is}) 2... Bb4 $5 ({Another Bb4-line
+arises after} 2... Nf6 3. Nf3 Nc6 4. g3 Bb4 {This line was already at the
+center of attention in the classic Wch match between Kasparov and Karpov, in
+1987. Their 2:nd and 4:th game (with Kasparov as White) both went} (4... d5 5.
+cxd5 Nxd5) 5. Bg2 O-O 6. O-O e4 7. Ng5 Bxc3 8. bxc3 Re8 9. f3 $1 {Lately White
+has been scoring very well here and Caruana was able to score a nice win
+against Anand in the Moscow Candidates 2016 (a game that has been excellently
+commented on in CBM by Mihail Marin). He was possibly hoping to repeat this
+line.} exf3 10. Nxf3 d5 11. d4 dxc4 12. Qc2 h6 13. Bf4 Ne4 14. Rad1 Bf5 15. Ne5
+Nd6 $6 16. e4 Bh7 17. Qe2 $14 {Caruana,F (2794)-Anand,V (2762) Moscow 2016.}) (
+2... c6 {is not as good here as after 2.g3, as} 3. Nf3 $1 d6 4. d4 {leaves
+Black with little choice but to play either the Old Indian or a sideline of
+the KID.} Nd7 5. e4 $14) 3. Nd5 (3. g3 Bxc3 4. bxc3 $1 (4. dxc3 d6 5. Bg2 Nc6
+6. Nf3 Nge7 {is even nicer for Black.}) 4... d6 $1 5. Bg2 Ne7 $5 {and Black is
+well organized to deal with any central set-up that White might choose. The
+knight is more flexible on e7 than on f6 and it is a good reason to try Bb4
+before Nf6.}) 3... Bc5 (3... Be7 $5 4. d4 (4. g3) 4... d6 5. e4 Nf6 6. Nxe7
+Qxe7 7. f3 exd4 8. Qxd4 Nc6 {is another insteresting line, where White has to
+decide where the queen is best placed. 9.Qc3 seems to be the consensus, but in
+a game against Ginger GM in 2015 I came to the conclusion that e3 looked like
+a better square:} 9. Qe3 O-O 10. Ne2 {[%cal Ge2c3] This is why I didn't want
+my queen on c3.} a5 11. Nc3 Nb4 12. Qd2 Nd7 13. a3 Nc6 14. Nd5 Qd8 15. Qc3 f5
+16. exf5 Ne7 17. g4 Nxd5 18. cxd5 Qh4+ 19. Kd1 Ne5 $2 (19... Nc5 20. Be3 Bd7
+$13) 20. Bf4 $16 {Hillarp Persson,T (2521)-Williams,S (2439) London 2015}) 4.
+Nf3 c6 5. Nc3 d6 {Anand reached this position no less than five times in 2016
+and obviously has a lot of faith in its soundness.} 6. e3 (6. g3 Nf6 7. Bg2 O-O
+8. O-O Re8 9. d3 (9. d4 exd4 10. Nxd4 a5 11. b3 Bg4 12. h3 Bh5 13. Bb2 {
+, looks a bit better for White, to me, but Black's pieces are active and I can
+understand why this kind of position would suit Anands active style.}) 9... h6
+10. Na4 Bb4 11. a3 Ba5 12. b4 Bc7 13. e4 Bg4 $132 {Caruana,F (2820)-Anand,V 
+(2775) 8th London Classic 2016}) (6. a3 Nf6 7. e3 (7. Na4 e4) 7... e4 (7... Bb6
+$5) 8. Nd4 O-O 9. d3 d5 10. cxd5 cxd5 11. Be2 Qe7 12. b4 Bb6 13. O-O Rd8 {
+, was perhaps somewhat more comfortable for White, in Topalov,V (2760)-Anand,V
+(2775) Champions Showdown 2016.}) 6... Bb4 $1 7. d4 Nd7 ({It seems that Anand
+either has lost faith in or got bored with} 7... Bxc3+ 8. bxc3 e4 9. Nd2 Nf6 {
+which he played in three games last year.} {Nakamura played the principled} 10.
+Ba3 {and only got half a point out of two:} (10. f3 exf3 $6 (10... Bf5 $5) 11.
+Qxf3 O-O 12. h3 Qa5 13. Bb2 (13. e4 $1) 13... Qf5 $132 {Nepomniachtchi,I (2740)
+-Anand,V (2775) 10th Tal Mem 2016}) 10... b6 (10... O-O 11. c5 $5 d5 12. Be2
+Re8 13. O-O b5 14. Bc1 a6 15. a4 Qd7 16. f4 ({It seems to me (and the engine)
+that something like} 16. axb5 cxb5 17. f3 exf3 18. Rxf3 {, intending a
+sacrifice on f6, surely must be much better for White.}) 16... exf3 17. Nxf3
+Ne4 18. Ne5 $6 Rxe5 19. dxe5 Nxc3 20. Qc2 Nxa4 21. e4 Qe8 22. Bd3 $2 d4 $1 {
+and Black went on to win, in Nakamura,H (2775)-Anand,V (2775) Champions
+Showdown 2016.}) 11. f4 $6 (11. f3 $1) 11... c5 $1 12. Be2 h5 13. Qc2 Bf5 14.
+g3 Nc6 15. h3 Qd7 {and White was lucky to escape with a draw, in Nakamura,H 
+(2775)-Anand,V (2775) Champions Showdown Rapid 2016. Nimzowitsch could rise
+from the dead just to get a chance to play this position from the black side.})
+8. Qc2 {A sensible way to avoid the doubled pawn on c3.} Ngf6 9. a3 Bxc3+ 10.
+Qxc3 O-O 11. Be2 Re8 12. b4 {This pawn move always make me cringe on the
+inside. I'm not saying that it is bad, but when Black starts shuffling his
+pieces around on the light squares it might be nice to still have this pawn on
+b3. I guess there are a few GM:s who feel with me, but the majority seem to
+value space more than any vague notions about light squares.} e4 $1 {This is
+one of those moves that you shouldn't hesitate to make. It is clearly the best
+Black can hope for with this pawn structure.} 13. Nd2 d5 $1 {This is where I
+first logged in to watch the games and I felt something had gone wrong for
+Caruana. (...and I also felt that the b4 pawn might have been happier on b3,
+so that White could play Ba3 and perhaps Qc3-b4-d6.)} 14. a4 ({The engines
+love - if that is the right word - to play} 14. c5 $5 {, but although White
+gets a free hand on the queenside, the same is basically true for Black on the
+kingside. Also, should White choose to play 0-0-0, it is still possible to
+apply the can opener with b6 and a5.} Nf8 15. h3 {[%cal Rc8g4]} Ng6 16. a4 Bd7
+17. b5 Nh4 18. Kf1 (18. O-O Qc8 19. Kh2 Nxg2) (18. Rg1 Qc7) (18. g3 Nf3+ $1 19.
+Nxf3 exf3 20. Bxf3 cxb5 {and Bc1 is a hundred miles awar from a life.}) 18...
+h6 {and with Nf6-h7-g5 coming next, White must start wondering whether it will
+be enough to get a rook down to b7? (The answer is: probably not.)}) 14... dxc4
+$1 {If White had more pressure on e4, this would not be recommendable, but in
+this situation Black is better developed, has a wonderful square for a knight
+on d5 and does not have to worry about e4.} 15. Nxc4 Nb6 $1 16. Na5 (16. Ne5
+Nfd5 $1) (16. O-O Bg4 $1 17. Bxg4 Nxg4 18. h3 Nf6 19. Bd2 {and the engine
+wants me to believe that the position is almost equal. Well... after} Nfd5 20.
+Qb3 Nxc4 21. Qxc4 Re6 22. b5 Qd7 23. Qb3 a6 $1 24. bxc6 Rxc6 25. Rfc1 Rac8 {
+I would under no circumstances want to play the White side.}) 16... Nbd5 (16...
+Nfd5 17. Qd2 Qg5 {looks very promising too.}) 17. Qd2 Qc7 18. h3 Re6 $5 {
+A lovely move that has more than one function. ON one hand it is ready to
+attack the kingside at any moment, but also it might come in handy if White
+continues with b4-b5.} 19. Ba3 (19. Nc4 Ne8 20. b5 cxb5 (20... a6 21. bxa6 b5
+$5) 21. axb5 Nd6 22. Nxd6 Rxd6 23. Bb2 Rg6 24. Rc1 Qd6 25. Kf1 Be6 26. Rc5 Qd7)
+({White's natural plan is to play b4-b5, but when Black's pieces are so well
+organized and active, it tends to backfire:} 19. b5 $6 cxb5 20. axb5 Bd7 $1 21.
+Ba3 b6 22. Rc1 Qb8 23. Nc6 Qe8 {and pawns will fall.}) 19... a6 20. Nb3 $6 {
+This knight is feeling a bit lost. It was well placed on a5, but there was no
+way forward. Now it seeks greener pastures, but it turns out to be no better
+than the last one. In the mean time Anand improves his forces coordination
+further.} Ne8 $3 {Another great move. From d6 the knight keeps and eye on e4,
+c4 and f5, while it makes b4-b5 harder to play for White. It also opens the
+road to g6 for the rook. You cannot ask for more of one move.} 21. Nc5 Rg6 22.
+g3 ({It's horrible to leave the f-pawn behind in this way, but} 22. Kf1 Nd6 {
+was not an option.}) 22... Nd6 23. a5 {This move looks like a sign of
+desperation. Not only does White give up all future counterplay on the
+queenside, but also the bishop on a3 gets completely entombed. I would
+normally give such a move a "?!", but I trust that Caruana had better reasons
+that my engine and I can whip up in five minutes.} Bf5 $1 24. Qc2 Re8 25. O-O-O
+Qc8 (25... Ra8 $5 {[%cal Gb7b6]}) 26. g4 Bd7 27. Kb1 f5 $5 ({There is some
+kind of mute, unformulated guideline, that tells me to attack the g4-pawn with
+} 27... h5 {rather than move the f-pawn. Perhaps it is because I prefer to
+keep my pawns in one long chain. However, in this position, Anands choice
+makes even more sense as it opens the f-file towards f2.} 28. Rh2 hxg4 29. hxg4
+Bxg4 30. Rdh1 f5 $17) 28. gxf5 Rf6 29. Rdg1 Bxf5 30. h4 Ref8 31. Rh2 Kh8 {
+It seems that Anand is keeping the tempo up as Caruana feels the pressure from
+the clock.} ({Here I see no defence against} 31... Qc7 32. Rhg2 Bc8 $1 {
+and the f2-pawn falls:} 33. Bc1 (33. Bd1 Nb5 $19) (33. Bf1 Qf7) (33. Rxg7+ Qxg7
+34. Rxg7+ Kxg7 {is utterly hopeless for White who has only one active piece.})
+33... Rxf2) 32. Qd2 Rg6 33. Rxg6 hxg6 $5 {This makes things a bit harder, but
+in time pressure it is almost impossible for White to find the defence.} (33...
+Bxg6) 34. h5 $1 g5 35. h6 g6 36. Bb2 $6 {After this move White is irreversibly
+lost. The only chance was to try to exchange Be2 for another piece than
+Black's bishop:} (36. Bd1 $1 Bg4 37. Bb3 Bf3 $1 38. Qc1 {and White can try
+something with Bxd5 and then queen to g3. Still, Black should win with g4 and
+then Rf8-f5-h5.}) 36... Bg4 $1 37. Bf1 Kh7 38. Ka1 Bf3 {To quote Italo Svevo,
+White's position has become the "tomb of its (sic) good intentions". The rest
+is just a demonstration of how helpless White is.} 39. Rh3 g4 40. Rg3 Rf5 41.
+Na4 Qf8 42. Nb6 Qxh6 43. Nxd5 cxd5 44. Qc1 Qh1 45. Qc7+ {This loses fast, but
+everything else loses almost as fast.} Rf7 46. Qxd6 Qxf1+ 47. Ka2 Be2 {White
+has no way to deal with Bc4+, followed by Qd3, so he resigned.} 0-1
+

@@ -1,0 +1,44 @@
+[Event "3rd International Chess Festival Ortise"]
+[Site "Ortisei"]
+[Date "2016.06.07"]
+[Round "5.4"]
+[White "Pijpers, Arthur"]
+[Black "Neverov, Valeriy"]
+[Result "1-0"]
+[ECO "B43"]
+[WhiteElo "2471"]
+[BlackElo "2507"]
+[Annotator "Werle"]
+[SetUp "1"]
+[FEN "r2qk1nr/5ppp/p1b1p3/1pb1R2Q/8/2NB4/PPP2PPP/R1B3K1 b kq - 0 12"]
+[PlyCount "110"]
+[EventDate "2016.06.04"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+
+{In the Paulsen variation Pijpers had just opened the e-file with e4-e5.
+Neverov was already stressing here in order not to let his position fall apart.
+} 12... Nf6 13. Rxe6+ Be7 14. Qc5 {Immediately played by Arthur. He pins the
+Bishop and thereby hinders Black's castling. In a previous game he tried 14.
+Rxf6.} (14. Rxf6 Bxf6 (14... gxf6 {1-0 (80) Pijpers,A (2360)-Kroeze,F (2396)
+Netherlands 2014} 15. Bh6 $40) 15. Qc5 Rc8 16. Bf4 Qd4 $1 {1/2-1/2 (74)
+Volokitin,A (2686)-Ionescu,C (2436) Brasov 2011 And equalizing after the
+queen's exchange.}) 14... fxe6 15. Qxc6+ Kf7 16. Qf3 $1 {With this move Arthur
+keeps his initiative alive.} (16. Bg5 b4 17. Bxf6 gxf6 18. Ne2 Qd5 19. Qxd5
+exd5 20. Nf4 $11 {1/2-1/2 (42) Schroer,M (2108)-Klein,F (2243) Maastricht 2011}
+) 16... h6 17. Bf4 Bd6 18. Ne2 g5 19. Bg3 Qb6 20. Bxd6 Qxd6 21. Rd1 Rad8 22.
+Bg6+ Kxg6 23. Rxd6 Rxd6 24. h4 Rhd8 25. g3 Rd2 26. Qe3 e5 27. Nc3 gxh4 {
+Neverov defended well and we are reaching an interesting Q vs RR ending in
+which White has the better (practical) chances.} 28. Ne4 Rd1+ 29. Kg2 R8d4 $2 {
+In time trouble Neverov choses the wrong path. White can now grab a lot of
+pawns.} (29... h3+ $1 30. Kxh3 Rh1+ 31. Kg2 Rh2+ $1 32. Kf3 (32. Kg1 Rd1+)
+32... Rf8 33. Qb6 Kh5 $1 {Yes, 'engine-wise'!} 34. Qe6 Nxe4+ 35. Kxe4 Rfxf2 {
+And Black is fine.}) 30. Nxf6 Kxf6 31. Qxh6+ Kf7 32. c3 Rd6 33. Qxh4 R1d2 34.
+Qh5+ Ke6 35. Qg6+ Kd5 36. Qf7+ Kc6 37. g4 Rxb2 38. g5 e4 39. Qe8+ (39. g6 e3
+40. g7 Rxf2+ 41. Qxf2 exf2 42. g8=Q $18) 39... Kc7 40. Qe7+ Rd7 41. Qe5+ Kb6
+42. Qe6+ Kc7 43. g6 Rdd2 44. Qf7+ Rd7 45. Qf4+ Kb6 46. Qxe4 Rbd2 47. Qg4 Rg7
+48. Qe6+ Ka5 49. c4 Rd4 50. cxb5 axb5 51. Kh3 Rc7 52. Qe3 Rdc4 53. Qd2+ Ka4 54.
+f4 Rc2 55. Qd5 R7c3+ 56. Kg4 Rc1 57. f5 Rg1+ 58. Kf4 Rcg3 59. Ke5 b4 60. Qa8+
+Kb5 61. Kf6 Rg4 62. Qd5+ Ka4 63. Qb3+ Kb5 64. a3 Rc1 65. axb4 Rc6+ 66. Ke5 Rxb4
+67. Qxb4+ 1-0
+

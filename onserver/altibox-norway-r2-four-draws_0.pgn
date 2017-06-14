@@ -1,0 +1,63 @@
+[Event "5th Norway Chess 2017"]
+[Site "Stavanger NOR"]
+[Date "2017.06.07"]
+[Round "2.3"]
+[White "Anand, Viswanathan"]
+[Black "Kramnik, Vladimir"]
+[Result "0-1"]
+[ECO "C78"]
+[WhiteElo "2786"]
+[BlackElo "2808"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[PlyCount "120"]
+[EventDate "2017.06.06"]
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 {An Archangel seems to be a
+breath of fresh air after multiple Berlins and Marshalls.} 6. Nc3 $5 {
+Something Vishy must have cooked before hand. A specialty of Dominguez, it is
+very rare compared to 6.c3} b5 (6... O-O 7. Bxc6 dxc6 8. Nxe5 Re8 {recovers the
+pawn, which makes castling a viable alternative to the move in the game}) 7.
+Bb3 O-O 8. Nd5 (8. d3 h6 9. Nd5 {is much more common, seen in many of
+Dominguez's games. Anand has his own idea, involving a pawn sacrifice.}) 8...
+Nxe4 {Kramnik isn't one to refuse a challenge. Also, any other move lacks
+justification} (8... h6 9. c3 {with the idea of a quick d4, looks dangerous}) (
+8... Bb7 9. c3 {again might be an issue.}) 9. d3 Nf6 10. Bg5 Be7 11. Nxe7+ Qxe7
+12. Re1 {After a more or less forced sequence we arrive at this position. White
+clearly has compensation for the pawn: two bishops, pressure on e5 and better
+development. Black must play accurately, but his position is still solid and it
+is hard to crack any weakness. Sometimes, recovering e5 will not be sufficient
+for an advantage.} h6 13. Bh4 (13. Bxf6 Qxf6 14. Bd5 Bb7 15. Nxe5 Nxe5 16. Bxb7
+Rae8 {is completely fine for Black, even perhaps better for him due to the
+superior piece placement!}) 13... Bb7 14. c3 Rfe8 15. d4 (15. Nxe5 Nxe5 16. d4
+Nf3+ 17. gxf3 Qd6 {gives Black an edge. The crippled pawns on the kingside are
+worth more than the, for now, uncoordinated bishops.}) 15... e4 16. Nd2 Na5 17.
+Bc2 g5 18. Bg3 Nc4 {Releasing some pressure off of e4 seems natural, though
+Black now has to suffer against the activation of some important pieces.}
+(18... d5 19. h4 {gives White obvious counterplay. The position is still
+terribly murky.}) 19. Nxc4 bxc4 20. b3 Bd5 21. Be5 $6 { despite recovering the
+pawn, this move isn't precise} (21. h4 $1 Qe6 22. hxg5 hxg5 23. Qd2 {puts real
+pressure on g5}) (21. Bxc7 $5 {is also worth considering, as the bishop will
+hide on a5 without problems.}) 21... d6 22. Bxf6 Qxf6 23. bxc4 Bxc4 24. Rxe4
+Rxe4 25. Bxe4 Re8 {Material is even, but Black retains a nagging edge now that
+his rook controls the only open file and his pieces are slightly better
+placed.} 26. Bd3 Qe6 27. Bxc4 Qxc4 28. Qb3 Qd3 29. h3 Kg7 30. Rd1 Qe2 31. Rf1
+Re6 32. Qd5 Qd2 {The situation hasn't changed. Anand has played very well to
+get to this position and continues holding on.} 33. Qc4 a5 34. Qxc7 $2 {But
+this is a mistake. Giving Black the outside passed pawn proves catastrophic.}
+(34. a4 Re1 {looks dangerous, but after} 35. Rxe1 Qxe1+ 36. Kh2 Qxf2 37. Qxc7
+{there isn't anything but a perpetual.}) 34... Qxa2 35. c4 Qd2 36. Qb6 a4 37.
+Qa7 Qb4 38. f4 Re1 $1 {The transition to the queen endgame is perfectly timed.
+The Black king is not easily caught in a perpetual check.} 39. fxg5 Rxf1+ 40.
+Kxf1 hxg5 41. Kg1 Qxc4 (41... a3 {immediately was winning.} 42. Kh2 Qb2 43. Qe7
+Qd2 $1 {and wWhite can't prevent the pawn from advancing}) 42. Kh2 Qb4 43. Qe7
+Qd2 44. Qa7 Qf4+ 45. Kh1 Qc1+ 46. Kh2 a3 47. Qa5 Qf4+ 48. Kh1 Qc1+ 49. Kh2 Qe3
+50. Kh1 f6 $2 (50... Kg6 {made Kramnik's life slightly easier. The point is
+that White is almost zugzwanged, as the queen has to keep an eye on the
+kingside and the a-pawn. This is easy for computers to see, but for humans it's
+a huge headache to calculate queen endgames.} 51. Qa8 Qb3 52. Qg8+ Kf5 53. Qh7+
+Ke6 {and the king escapes successfully.}) 51. Qa4 (51. Qc7+ Kg6 52. Qc4 $1
+{would have made Black's task much, much harder}) 51... Qc1+ 52. Kh2 Qf4+ 53.
+Kh1 Qe3 54. Kh2 Kf7 55. Kh1 ( 55. Qa7+ Kg6 56. Qa8 Qb3 $1 {is winning. Black
+places the king on g7, the queen on f7 and finally pushes a2.}) 55... Kg6 56.
+Qa8 (56. Qc4 $1 {is still winning for Black, but much, much harder}) 56... Kg7
+57. Qb7+ Kg6 58. Qa8 (58. Qd5 $1) 58... Qb3 {Now the pawn advances without
+problems} 59. Qe4+ Kg7 60. Qe7+ Qf7 0-1

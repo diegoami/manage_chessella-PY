@@ -55,7 +55,7 @@ def add_new_lines(cnt):
     insq = False
     for i,c in enumerate(cnt):
         nc += 1
-        if c == '[' and nc <=j  :
+        if c == '[' and nc <= 1 :
             insq = True
         if c == ']':
             insq = False
@@ -70,6 +70,11 @@ def add_new_lines(cnt):
     return ncnt
 
 if __name__ == "__main__":
+    if not os.path.exists(WORK_DIR):
+        os.makedirs(WORK_DIR)
+
+    if not os.path.exists(RAW_DIR):
+        os.makedirs(RAW_DIR)
 
     pgnFiles =retrieve_all_files()
     for pgnFileC in pgnFiles:

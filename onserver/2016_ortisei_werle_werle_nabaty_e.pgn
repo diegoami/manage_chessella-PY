@@ -1,0 +1,37 @@
+[Event "Ortisei"]
+[Site "?"]
+[Date "2016.06.11"]
+[Round "9"]
+[White "Werle, J."]
+[Black "Nabaty, T."]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "2563"]
+[BlackElo "2610"]
+[Annotator "Werle"]
+[SetUp "1"]
+[FEN "8/p4pp1/1pk4p/3pP3/P2P1P2/7P/5KP1/8 b - - 0 37"]
+[PlyCount "6"]
+[EventDate "2016.??.??"]
+
+{With 37..f5 Black is granting White a connected passed pawn.} 37... f5 $2 (
+37... g6 38. g4 a6 (38... Kc7 $2 39. f5 g5 $2 40. a5 $1 b5 41. a6 $18 {
+According to/ with the same idea in the game.}) 39. f5 (39. h4 Kd7 40. Ke3 h5
+41. gxh5 gxh5 42. f5 Ke8 43. Kf4 Kd7 44. Kg5 Ke7 (44... Ke8 $4 45. Kxh5 b5 46.
+axb5 axb5 47. Kg5 b4 48. h5 $18) 45. Kxh5 b5 46. axb5 axb5 47. Kg5 b4 48. h5 b3
+49. h6 b2 50. h7 b1=Q 51. h8=Q Qg1+ $11) 39... g5 40. a5 b5 41. Ke3 Kd7 42. Kd3
+Kc6 43. Kc3 Kd7 44. Kb4 Kc6 45. f6 Kd7 46. Kc5 Ke6 $11 {And here White lacks
+an extra tempo.}) 38. Ke3 $2 (38. a5 $1 {Of course this move. This was the
+moment that Nisipeanu watched the game live on the big screen in the
+tournament hall and was preparing his assassin pre-arrangements on me. If
+Nabaty would make a draw he would come close to the tournament victory.} b5 39.
+a6 $18 {See the variation below.}) 38... h5 $2 {After this move Nisipeanu
+couldn't stand it anymore and left the tournament hall and building.} (38... a6
+39. g4 (39. g3 Kd7 40. Kd3 h5 41. Kc3 h4 42. gxh4 g6 43. Kb4 Kc6 44. a5 b5 45.
+h5 gxh5 46. h4 Kd7 47. Kc5 Ke6 $11 {And White lacks an extra tempo.}) 39...
+fxg4 40. hxg4 g6 41. f5 gxf5 42. gxf5 b5 43. axb5+ axb5 44. Kf4 (44. f6 Kd7 45.
+Kf4 Ke6 $19 {There isn't a way through for White since the Black pawn on h6 is
+controlling square g5.}) 44... Kd7 45. e6+ Kd6 $19 {And funny enough White
+can't get through Black's stronghold,}) 39. a5 $1 $18 {Now White is winning.
+Black can't anymore create a defended passed pawn himself.} b5 40. a6 1-0
+

@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import re
+import os
 ROOT_PAGE='http://en.chessbase.com'
 ROOT_POST_PAGE=ROOT_PAGE+'/post/'
 import traceback
@@ -36,6 +37,8 @@ def get_pgnlinks_from_page(pageLink,debug=True):
 def downoad_files(data_urls ):
     for data_url in data_urls:
         r =requests.get(ROOT_PAGE+data_url)
+        if not os.path.exists("from_cbase"):
+            os.makedirs("from_cbase")
         dfile = "from_cbase/"+ data_url.lower().replace('/','_').replace('\\','_').replace('_portals_all_','')
         with open(dfile , "w",encoding='utf-8') as handle:
             norlines = r.text.replace('\r\n','\n')
@@ -43,6 +46,8 @@ def downoad_files(data_urls ):
 
 def downoad_pgns(pgn_texts, page_link):
     for index, pgn_text in enumerate(pgn_texts):
+        if not os.path.exists("from_cbase_raw"):
+            os.makedirs("from_cbase_raw")
         dfile = "from_cbase_raw/"+  page_link.replace(ROOT_POST_PAGE,'')+'_'+str(index)+'.pgn'
         with open(dfile , "w",encoding='utf-8') as handle:
             handle.write(pgn_text)

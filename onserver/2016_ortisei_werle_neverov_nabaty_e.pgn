@@ -1,0 +1,30 @@
+[Event "3rd Server24 Open"]
+[Site "Ortisei ITA"]
+[Date "2016.06.06"]
+[Round "4.2"]
+[White "Neverov, V."]
+[Black "Nabaty, T."]
+[Result "0-1"]
+[ECO "A13"]
+[WhiteElo "2507"]
+[BlackElo "2610"]
+[Annotator "Werle"]
+[SetUp "1"]
+[FEN "3qr1k1/pbr1bppp/1p2pn2/8/3PP3/P2B1N2/1B2QPPP/3RR1K1 w - - 0 17"]
+[PlyCount "28"]
+[EventDate "2016.06.04"]
+
+17. d5 $1 {A nice but thematic pawn sac to open the lines and diagonals in
+order to get an attack.} exd5 18. exd5 Rf8 $1 {The only move to stay in the
+game.} (18... h6 $4 19. Bxf6 {And the rook on e8 is hanging.}) (18... Nxd5 19.
+Ng5 h6 20. Bh7+ $1 Kf8 21. Ne6+ fxe6 22. Qxe6 Bf6 23. Qg8#) 19. Ng5 $1 h6 (
+19... g6 20. Bb1 $1 Nxd5 (20... Bxd5 21. Nh3 Rd7 22. Nf4 Bc6 23. Rxd7 Qxd7 24.
+Qxe7 Re8 25. Qb4 $18) 21. Nxh7 Kxh7 22. Qh5+ Kg8 23. Qh8#) 20. Bxf6 Bxf6 21.
+Nh7 Bc3 22. Nxf8 Bxe1 23. Ne6 $2 (23. d6 $1 {This was the obvious way to
+convert his strong play into a winning advantage. The d6 pawn is a monster.}
+Rc8 24. d7 $1 Rc7 25. Rxe1 Qxf8 26. d8=Q Qxd8 27. Qe8+ Qxe8 28. Rxe8#) 23...
+fxe6 24. Qxe6+ Kf8 $13 25. d6 Bxf2+ 26. Kxf2 Rf7+ 27. Kg1 Qg5 $1 {Nabaty is
+taking over the initiative. Now White has to play accurately to hold the draw.
+In grave time trouble Neverov didn't manage to.} 28. Be4 $2 Qe3+ 29. Kh1 Qe2 $1
+30. Rg1 Qxe4 0-1
+
