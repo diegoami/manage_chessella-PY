@@ -1,0 +1,71 @@
+[Event "69th ch-RUS 2016"]
+[Site "Novosibirsk RUS"]
+[Date "2016.10.21"]
+[Round "6.6"]
+[White "Tomashevsky, Evgeny"]
+[Black "Riazantsev, Alexander"]
+[Result "1/2-1/2"]
+[ECO "E08"]
+[WhiteElo "2724"]
+[BlackElo "2651"]
+[Annotator "Albert Silver"]
+[PlyCount "87"]
+[EventDate "2016.10.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O Nbd7 8.
+Qc2 c6 9. Bf4 a5 10. Nbd2 Nh5 11. Be3 Bd6 12. Nb3 Qe7 13. Nc1 b5 14. c5 Bc7 15.
+Bg5 f6 16. Bd2 f5 17. Nd3 Bb7 18. Nfe5 Nhf6 19. Bf4 Nxe5 20. Bxe5 Ng4 21. Bxc7
+Qxc7 22. Qd2 b4 23. f3 Nf6 24. Ne5 Ba6 25. f4 Nd7 26. Nxd7 Qxd7 27. Bf3 Rfb8
+28. Kh1 a4 29. Rg1 Qe7 30. g4 Bc8 31. Rg3 Ra7 32. e3 a3 33. b3 Qf6 34. Rag1 Re7
+35. Be2 Bd7 36. Bd3 Be8 37. R1g2 Kh8 38. Kg1 Kg8 39. Qd1 Bg6 40. Qc2 Rc7 41.
+Qb1 Re7 {Upon looking at this position, one cannot help but feel there must be
+'something' here for White. After all, Black as a bad bishop, a weak pawn on
+b4, a vulnerable king to the g-file, and of course White has two rooks aimed
+in the right direction. Although the two players drew only three moves later,
+Tomashevsky missed a chance to capitalize on his position.} {[%tqu "En","White
+missed a chance to really start to make Black's life miserable. White to play.
+","","","b1c2","",0,"h2h4","",10]} 42. Qc2 (42. h4 $1 Kh8 {Black can play ...
+h6 but it will transpose after h5 Be8 and gxf5.} ({Taking with} 42... Qxh4 $2 {
+is an invitation to a swift disaster.} {[%tqu "En","Black had the intrepidity
+of taking on h4 with the queen. How does White punish him?","","","g4g5",
+"Suddenly the queen is in danger of being trapped! The immediate Qe1,
+protecting g3, followed by Rh2 is threatened.",10]} 43. g5 $1 {[%csl Rg3][%cal
+Rb1e1,Rg2h2] Suddenly the queen is in danger of being trapped! The immediate
+Qe1, protecting g3, followed by Rh2 is threatened.} Be8 {[%cal Rh4h5,Rh5g6]
+freeing the way for Qh5 and Qg6/f7 to escape.} 44. Be2 {[%cal Re2h5] Cutting
+off the escape route. Now Black must resort to desperate measures to save the
+queen, but in doing so will be left with a lost position.} e5 45. dxe5 d4 46.
+Qxf5 $18 ({The idea of course is} 46. exd4 $2 Qxf4)) 43. h5 Be8 44. gxf5 exf5
+45. Bxf5 h6 46. Bg6 $1 {[#] The first major crossroads. Black can either take,
+or avoid the exchange. Neither will save though.} Bd7 (46... Bxg6 {makes it
+easier for White since it weakens the light squares, allows him to install his
+rooks on a monster g6 square and attack the weaknesses on g7, c6 and more.} 47.
+Rxg6 Qf8 48. R2g3 {First one must protect e3.} Rbe8 49. Qd3 Re6 {Though Black
+is obviously against the ropes, the question is how does White finish him off?}
+50. Kg2 Kg8 (50... Rxg6 $2 51. Qxg6 Rc8 52. Qe6 Rc7 53. Kf3 {and it is easy to
+see that White has made a decisive entrance.}) 51. Rxg7+ Qxg7 52. Rxg7+ Kxg7
+53. Qf5 R8e7 54. Kf2 (54. Qg4+) 54... Rf6 55. Qg4+ Kf7 56. Kf3 Ree6 (56... Rfe6
+{[%tqu "En","White has an instructive win here. Can you find it?","","","e3e4",
+"",10]} 57. e4 $1 {This spectacular break clinches it for White.} dxe4+ ({
+Taking with the rook allows a quick win with} 57... Rxe4 $2 58. Qg6+ Kf8 59.
+Qxc6 Re3+ 60. Kg4) 58. Ke3 {The point is that not only has the king blockaded
+Black's only point of pressure: the e3 pawn and e-file, but now the queen is
+free to penetrate and d5 is going to free the way for the c-pawn.} Kf8 59. Qf5+
+Kg7 60. d5 cxd5 61. Qxd5 {and the two passed pawns plus queen will overpower
+Black.}) 57. Qh3 Ke7 58. f5 Re4 59. Ke2 {and now Black's rooks are cut off
+from each other.} Kf7 60. Qg3 {[%csl Rb8,Rc7][%cal Rg3b8]}) 47. f5 $1 {This
+move might seem counterintuitive as it effectively imprisons White's bishop on
+g6 (short of sacrificing it that is), but it is ok. It serves to both control
+e6, and the bishop also attacks e8, making a rook double-up on the e-file
+nearly impossible.  White's plan is quite simple: prepare a timely e4 break.
+Black will be hard pressed to prevent it.} Rf8 (47... Bc8 48. Qf1 Ra8 49. Qe1
+$1 {Not only does this attack the b4 pawn, but it also has a not-so-subtle
+refutation against the tempting 49.Qxd4 exd4 50.Rxe1+} Rb8 (49... Qxd4 $2 {
+[%tqu "En","White has a spectacular defense against this pawn grab. Can you
+see it?","","","f5f6","",10]} 50. f6 $1 Qxf6 (50... gxf6 51. Bc2 Bg4 52. Rxg4
+Rxe3 53. Rxd4 Rxe1+ 54. Kh2) 51. Rf2) 50. Qe2 Bd7 51. Rg4 Bc8 52. Rf4 Kg8 53.
+Rg3 Bd7 54. Rgg4 Rf8 55. Qd3 Rb8 56. e4 dxe4 57. Qe3) 48. Qf1 Re4 49. Rf3 Re7
+50. Rg4 Bc8 51. Qe1 Rb7 52. Rgf4 Qg5+ 53. Rg3 Qf6 54. Kh2 Bd7 55. e4 $1 Qxd4
+56. Qe3 $1 Qxe3 (56... Qb2+ 57. Rf2 Qc3 58. Qxc3 bxc3 59. exd5 cxd5 60. Rxc3)
+57. Rxe3 dxe4 58. Rexe4 {[%cal Re4b4]}) 42... Rc7 43. Rf2 Rf7 44. Rfg2 1/2-1/2
+

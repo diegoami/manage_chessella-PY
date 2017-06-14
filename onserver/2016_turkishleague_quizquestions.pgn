@@ -1,0 +1,61 @@
+[Event "2016 Turkiye Is Bankasi Super Satranc L"]
+[Site "Izmir"]
+[Date "2016.07.29"]
+[Round "6.6"]
+[White "Baylav, Bartu"]
+[Black "Mchedlishvili, Mikheil"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5r1k/1p4rp/p2p1n1q/P2PbB2/2p1Pp2/7P/1P2N3/1RBQ1R1K b - - 0 30"]
+[PlyCount "13"]
+[EventDate "2016.??.??"]
+
+30... Nxe4 $3 31. Bxf4 (31. Bxe4 $2 Qxh3#) 31... Bxf4 32. Be6 (32. Nxf4 Rxf5 $1
+{with the threat of Rxf4 Rxf4 and Qxh3 mate.}) 32... Rf6 33. Nxf4 Ng3+ 34. Kh2
+Nxf1+ 35. Qxf1 Rxf4 36. Qe2 Qf6 0-1
+
+[Event "2016 Turkiye Is Bankasi Super Satranc L"]
+[Site "Izmir"]
+[Date "2016.07.26"]
+[Round "2.4"]
+[White "Karaoglan, Doruk"]
+[Black "Efe, Emir Alaettin"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r2rk1/1b2q1bp/4ppp1/1p1pPP2/p2B2P1/P1P5/1P4BP/R3QRK1 w - - 0 23"]
+[PlyCount "29"]
+[EventDate "2016.??.??"]
+
+23. g5 $1 {and there is no way to prevent taking on f6 with a forceful win.}
+fxg5 24. f6 $1 Bxf6 25. exf6 Qf7 26. Qe5 h6 27. Rae1 Rce8 28. Bc5 Bc8 29. Bxf8
+Rxf8 30. Rd1 Kh7 31. Rd4 Re8 32. h4 gxh4 33. Rxh4 Bd7 34. Rxh6+ Kxh6 35. Qh2+
+Kg5 36. Qf4+ Kh5 37. Bf3# 1-0
+
+[Event "2016 Turkiye Is Bankasi Super Satranc L"]
+[Site "Izmir"]
+[Date "2016.07.26"]
+[Round "2.4"]
+[White "Solak, Dragan"]
+[Black "Albay, Koraycan"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r4rb/5p2/p1pp1P1k/2p2Q1P/N3P1R1/3P3R/PPP1q2P/7K w - - 0 29"]
+[PlyCount "3"]
+[EventDate "2016.??.??"]
+
+29. Qg6+ $3 {and mate to follow with} Rxg6 (29... fxg6 30. hxg6#) 30. hxg6# 1-0
+
+[Event "2016 Turkiye Is Bankasi Super Satranc L"]
+[Site "Izmir"]
+[Date "????.??.??"]
+[Round "1.6"]
+[White "Duman, Aydin"]
+[Black "Eminov, Orkhan"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r6/5p2/3ppkp1/p5Rn/r2qP3/1B3P2/1PPQ4/1K4R1 w - - 0 34"]
+[PlyCount "15"]
+
+34. Rxg6+ $3 Ke7 ({and Black gets mated after} 34... fxg6 35. Qg5+ Kf7 36.
+Qxg6+ Kf8 37. Qg8+ Ke7 38. Qxe6+ {etc.}) 35. Qg5+ Kd7 36. Bxa4+ Qxa4 37. Rg8
+Rb5 38. Qd8+ Kc6 39. Qa8+ Kb6 40. Rb8+ Kc5 41. Qa7+ 1-0

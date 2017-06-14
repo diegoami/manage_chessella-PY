@@ -1,0 +1,41 @@
+[Event "44th GM 2016"]
+[Site "Dortmund GER"]
+[Date "2016.07.10"]
+[Round "2"]
+[White "Ponomariov, R."]
+[Black "Najer, E."]
+[Result "1-0"]
+[ECO "D18"]
+[WhiteElo "2706"]
+[BlackElo "2687"]
+[PlyCount "89"]
+[EventDate "2016.07.09"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+O-O 9. Nh4 Nbd7 10. h3 Bg6 11. Nxg6 hxg6 12. Qb3 Qb6 13. Rd1 Rad8 14. Bd2 Ba5 {
+A new move. The engines favor} (14... a5 {, z.B.} 15. Be1 Qc7 16. Qc2 Nb6 17.
+Bb3 Qe7 18. Rac1 Rd7 19. Qe2 Ra8 $11 {Van Wely,L (2643)-Kasimdzhanov,R (2690)
+Deutschland 2000}) 15. Rac1 (15. Qxb6 Nxb6 16. Be2 Rfe8 17. Ne4 Bxd2 18. Nxd2
+$14 {with the better pawn structure and a nice bishop is an alternative.})
+15... c5 $6 {This leads to a worse endgame - which seems to be tenable though.}
+(15... e5 {seems to lead to equality, e.g.} 16. d5 Qxb3 17. Bxb3 Nc5 18. Bc4
+Bxc3 19. Bxc3 Nxd5 20. Bxe5 Nb6 $1 21. Bd6 Nxc4 22. Rxc4 Rfe8 23. Rcd4 (23.
+Rxc5 Re6 $11) 23... Ne6 24. R4d2 Rd7 25. Bb4 Rxd2 26. Rxd2 Rd8 $11 {A long
+line which, however, is more or less forced.}) 16. d5 Bxc3 17. Bxc3 Qxb3 18.
+Bxb3 Nxd5 19. Bxd5 exd5 20. Rxd5 Nb6 21. Rxc5 Nxa4 22. Rc7 Nxc3 23. R1xc3 (23.
+bxc3 {is the move the engines prefer. After} Rb8 24. Rb1 a5 25. Rbxb7 Rxb7 26.
+Rxb7 Ra8 27. Kf1 a4 28. Ke2 a3 29. Rb1 $14 {they consider White to be better.})
+23... Rd1+ 24. Kh2 Rd2 25. Rxb7 Rxf2 26. Kg3 Rf6 27. Rxa7 Rb8 28. h4 $6 (28. b3
+$1 $14 {is good - Black cannot attack the b-pawn with} Rfb6 {because White
+counterattacks with} 29. Rcc7 $16) 28... Kh7 (28... g5 $1 {is an easier way to
+draw.} 29. hxg5 (29. h5 Kh7 30. Rcc7 Rb3 31. Rxf7 Rxe3+ 32. Kg4 Kh6 33. g3 Rxf7
+34. Rxf7 Rb3 $11) 29... Rf5 30. Kg4 Rbb5 $11) 29. Rcc7 Rxb2 30. Rxf7 Rxf7 31.
+Rxf7 g5 $1 {With this temporary sacrifice Black gets rid of the doubled pawns.}
+32. hxg5 Rb5 33. e4 Kg6 34. Ra7 Rxg5+ 35. Kf3 Rb5 36. Kf4 Rb6 37. Ra2 Kf6 $2 {
+This loses. Black had to keep the white king under control.} (37... Rf6+ $1 38.
+Ke5 (38. Kg4 Re6 39. Re2 Ra6 40. Kf4 Rf6+ $1 41. Kg4 Ra6 42. e5 Ra4+ $11) 38...
+Rb6 $11 {and the white king cannot hide from checks.}) 38. e5+ $1 Ke6 {Now
+White can reach a Lucena position which is theoretically won.} (38... Kg6 39.
+Ra4 $1 {with the idea 40.Rd4 followed by 41.Rd6+ also wins.}) 39. Ra7 Rb4+ 40.
+Kg5 Rb5 41. g4 Kxe5 42. Rxg7 Ke4+ 43. Kh6 Kf4 44. g5 Kg4 45. Ra7 1-0
+

@@ -1,0 +1,47 @@
+[Event "North America U20 & Junior Open 2016"]
+[Site "Irving, TX  USA"]
+[Date "2016.09.05"]
+[Round "9"]
+[White "Sheng, Joshua"]
+[Black "Li, Ruifeng"]
+[Result "1-0"]
+[ECO "B96"]
+[WhiteElo "2385"]
+[BlackElo "2555"]
+[Annotator "Advait Patel"]
+[PlyCount "77"]
+[EventDate "2016.??.??"]
+[WhiteClock "0:16:36"]
+[BlackClock "0:01:00"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Qe2 {
+is not the main move but definitely one to be prepared for} (7. f4 Qc7 8. Qf3 {
+is the typical setup in these Bg5 Najdorfs}) 7... Qc7 8. f4 e6 9. O-O-O b5 10.
+a3 Bb7 11. g4 Be7 12. Kb1 Rc8 13. Rg1 {So far all the moves have been pretty
+standard. Now Black has to come up with something} h6 14. Bh4 g5 {This a
+common idea in these lines. Black is sacrificing a pawn in order to control
+the important e5-square.} 15. fxg5 hxg5 16. Bxg5 Qb6 {Black is introducing
+ideas like ..e5 and ..Rxc3.} (16... Ne5 $2 {is simply met by} 17. Bc1 $16 {
+[%cal Rg4g5] and White pretty much has a free hand on the kingside. The bishop
+is a good defender on c1}) 17. Rg3 {And White stops both of them with this move
+} Rg8 18. h4 Ne5 $2 (18... Rc4 $1 {and White is forced to give up a pawn with}
+19. e5 (19. Rgd3 {runs into} Ne5 $15) (19. Be3 Rxc3 $1 20. bxc3 Nxe4 {[%csl
+Rc3,Rg3] [%csl Rc3,Rg3]}) 19... Nxe5 20. Bg2 $8 {White has too much loose
+stuff on g4 and d4 and potentially h4 if Bxf6.} Bxg2 21. Qxg2 Rxd4 22. Rxd4
+Qxd4 23. Qa8+ Kd7 24. Qb7+ $11) 19. Bg2 $16 {Now Black just never gets enough
+for his pawn. Perhaps he saw the line with 18..Rc4 19.e5 but was trying to
+play for a win?} Rc4 20. Nb3 b4 21. axb4 Rxb4 22. Rf1 Nfd7 23. Be3 (23. Bxe7 $2
+Kxe7 {Black's king is completely safe on e7}) 23... Qc7 24. g5 a5 25. h5 $6 (
+25. Nb5 $1 Qb8 (25... Qd8 26. Bd2 {wins an exchange}) 26. Ba7 Qc8 27. Rc3 {
+Suddenly it is White who is attacking on the queenside!}) 25... a4 26. Na2 Rc4
+$6 (26... Rb6 $1 {This incredible resource actually saves Black} 27. Bxb6 Qxb6
+28. Nd2 Ba6 29. c4 Rxg5 {and Black is getting some serious compensation for
+the exchange. Of course this line is very difficult to see for a human
+especially in a critical game like this.}) 27. Nd2 Rxc2 28. Nb4 Rxb2+ $2 (28...
+Rc5 {It's surprising why Black play this} 29. g6 (29. Bxc5 $2 Qxc5 {with great
+compensation}) 29... fxg6 30. Bh3 {and White sitll has some pressure but Black
+is not lost}) 29. Kxb2 $18 {At this point Black is just lost. White just needs
+to focus on keeping the king alive.} Qa5 30. Rb1 d5 31. exd5 Bxb4 32. dxe6 Ba6
+33. exd7+ {Black throws the kitchen sink at White but it just isn't enough} Kd8
+34. Qd1 Nd3+ 35. Ka2 Qc7 36. Rg4 Qd6 37. Nc4 Qe6 38. Qxd3 Qxg4 39. Bb6+ 1-0
+

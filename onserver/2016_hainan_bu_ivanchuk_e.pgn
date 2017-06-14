@@ -1,0 +1,54 @@
+[Event "7th Hainan Danzhou GM"]
+[Site "Danzhou CHN"]
+[Date "2016.07.09"]
+[Round "2.5"]
+[White "Bu Xiangzhi"]
+[Black "Ivanchuk, Vassily"]
+[Result "1-0"]
+[ECO "D58"]
+[Annotator "Johannes"]
+[PlyCount "111"]
+[EventDate "2016.07.08"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. Bd3
+Bb7 9. O-O Nbd7 10. Rc1 c5 11. Qe2 Ne4 12. Bxe7 Qxe7 13. cxd5 Nxc3 ({Black
+more often strives for "hanging pawns" with} 13... exd5 14. dxc5 ({or} 14. Ba6
+Ndf6 15. Bxb7 Qxb7 16. dxc5 bxc5) 14... bxc5 {.}) 14. Rxc3 Bxd5 15. e4 Bb7 16.
+b4 $5 {An interesting novelty. White offers a pawn because he would really
+love to enter on the seventh with his rook.} (16. Rfc1 Rac8 17. Ba6 Nf6 18.
+Bxb7 Qxb7 19. e5 Nd5 20. Rc4 cxd4 21. Nxd4 $6 (21. Qd2 Rxc4 22. Rxc4 Qa6 23. b3
+b5 24. Rxd4 Rc8 $15) 21... Nf4 22. Qf1 Rxc4 23. Rxc4 Qe4 24. b3 Qxe5 $17 {
+Cvek,R (2440)-Jaworski,M (2400) Tschechien 1999}) 16... Rac8 (16... cxb4 $2 {
+does not work:} 17. Rc7 Rab8 18. Ne5 Rfd8 19. Bb5 Qd6 20. Rxd7 Rxd7 21. Nxd7
+$16) ({But} 16... cxd4 {is possible because after} 17. Rc7 Rab8 18. Ne5 Rfd8
+19. Bb5 $2 (19. f4 $11) 19... Qd6 $17 {is better for Black.}) 17. dxc5 bxc5 18.
+b5 c4 {Forcing events.} (18... Nb6 {or}) (18... Rfd8 {were quieter
+alternatives.}) 19. Rxc4 Rxc4 20. Bxc4 Qb4 21. Rd1 Rc8 {Black is active enough
+to regain the pawn.} 22. Rxd7 (22. Nd2 Nc5 23. Rb1 Qc3 24. f3 Na4 25. Bb3 Qc5+
+26. Qf2 Nc3 27. Qxc5 Rxc5 28. Rb2 Nxb5 $11) 22... Rxc4 23. h4 Qxb5 24. Rd8+ Kh7
+25. Kh2 Rb4 26. Qxb5 Rxb5 27. Nd4 Rb4 28. f3 Kg6 {The position is equal but
+the grandmasters continue to fight.} 29. Nb3 Bc6 30. Rc8 Bb5 31. Rc7 Ra4 32.
+h5+ Kf6 33. e5+ Kf5 (33... Kxe5 $4 34. Rc5+ $18) 34. Kg3 g5 (34... Rxa2 $4 35.
+Nd4+ $18) 35. Nc1 a5 $6 {Black should have attacked the white weaknesses.} (
+35... Bf1 $1 36. Rxf7+ Kxe5 37. Kf2 Bc4 38. Rh7 Rb4 39. Rxh6 Rb2+ 40. Ke3 (40.
+Kg3 $2 Bf1 $19) 40... Rxg2 {should lead to a draw.}) 36. Rxf7+ Kxe5 37. Rh7 Rh4
+38. Rxh6 a4 {That was Ivanchuk's idea. He wants to catch the knight on b1.} 39.
+a3 $1 {Putting the pawn on a black square where it is safe from Black's bishop.
+} (39. Rh8 Rh1 40. Rb8 Bc4 41. h6 Kf6 $1 $11) 39... Bc4 40. Kf2 (40. Rh8 {
+was the alternative:} Kf6 (40... Rh1 41. h6 $1 Kf6 (41... Rxc1 42. Rc8 $1 Rh1
+43. Rxc4 Rxh6 44. Rxa4 $18) 42. h7 Kg7 43. Rc8 Bb5 44. h8=Q+ Rxh8 45. Rxh8 Kxh8
+46. Kg4 Bf1 47. g3 $16) 41. Rh7 $5 Rh1 42. Rc7 Bd5 43. Nd3 Rxh5 44. Ra7 Rh4 45.
+Nc5 Rc4 46. Nxa4 $14) 40... Rh1 41. Ne2 Ra1 $2 ({Black had to put his hopes on
+the rook ending that arises after} 41... Bxe2 $1 42. Kxe2 Ra1 {It seems as if
+his counterplay is just in time.}) 42. Rg6 $1 Bd3 (42... Bxe2 {now fails to
+the "zwischenzug"} 43. Rxg5+ $16) 43. Rxg5+ Kf6 44. f4 (44. Rg8 {might be
+stronger.}) 44... Rxa3 $6 {Now Black cannot stop the white pawns.} (44... Ra2
+$1 {wins a tempo and it is not clear whether White can win after} 45. Ke3 (45.
+Re5 Rxa3 46. Nd4 Ra2+ 47. Kf3 Bc4 48. g4 Bd5+ {isn't clear either.}) 45... Rxa3
+{wins, e.g.} 46. Kd2 Bf5 47. g4 Rd3+ 48. Ke1 Be4 {and Black offers strong
+resistance.}) 45. Ng3 Ra1 46. h6 a3 47. Rg7 a2 48. Nh5+ Kf5 49. h7 $1 {On top
+of everything Black's king is caught in a mating net.} Rf1+ 50. Ke3 Re1+ (50...
+a1=Q 51. g4#) 51. Kxd3 Rd1+ 52. Ke3 Re1+ 53. Kf3 Rf1+ 54. Kg3 a1=Q 55. Rg5+ Ke4
+56. Re5+ {White will queen his h-pawn and and remain with a great material
+advantage.} 1-0
+

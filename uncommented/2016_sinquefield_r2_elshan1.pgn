@@ -1,0 +1,69 @@
+[Event "4th Sinquefield Cup 2016"]
+[Site "Saint Louis"]
+[Date "2016.08.06"]
+[Round "2"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "B11"]
+[WhiteElo "2819"]
+[BlackElo "2770"]
+[Annotator "Elshan Moradiabadi"]
+[PlyCount "92"]
+[EventDate "2016.??.??"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[TimeControl "40/7200:3600+30"]
+
+1. e4 {(4s)} c6 {(7s)  Anand plays the Caro-Kann which might have come as a
+surprise to MVL. Anand had previously opted for the Berlin for a long time. It seems that
+Vishy in an 'experimental' mood in Sinquefield.} 2. Nf3 {(125s)  MVL goes for
+something less forced and theoretical.} d5 {(10s)} 3. Nc3 {(3s)  An interesting
+choice against Anand's Caro-Kann.} Nf6 {(15s)} 4. e5 {(13s)} Ne4 {(8s)  This is
+the idea behind Anand's previous move.} (4... Nfd7 5. e6 $5 fxe6 6. d4 {
+Looks very promising for White}) 5. Ne2 $5 {(383s) again after a somewhat
+long thought, Maxim goes for the most principled continuation. White tries to
+quarantine Black's active knight in the middle of board.} Qb6 {(33s)  Almost
+forced.} 6. d4 {(7s)} e6 {(10s)} 7. Nfg1 {(70s)  Nimzowitsch would have been
+delighted if he could see this game! White is planning to capture the
+knight with f3.} f6 {(13s)} (7... h6 8. h4 {does not solve anything.}) 8. f3 {
+(8s)} Ng5 {(13s)} 9. exf6 {(8s)} gxf6 {(7s)} 10. f4 {(8s)} Ne4 {(15s)  Anand
+deviates from a recent game between Grischuk and Ding Liren.} (10... Nf7 11. Nf3
+Be7 12. c4 dxc4 13. Nc3 Nd6 14. b3 cxb3 15. axb3 O-O 16. Bd3 Rf7 17. O-O $44 {
+1/2-1/2 (31) Grischuk,A (2747)-Ding,L (2778) Wenzhou 2016}) 11. Ng3 {(24s)} Bd7
+{(250s)  This seemingly awkward move is approved of by engines. Vishy builds a
+shelter for his king in order to bring it to the queen side via d8 and c7.} 12.
+Nxe4 {(625s)} dxe4 {(23s)} 13. c3 {(6s)} Na6 $6 {(548s)  This move seems a bit
+passive and it posed some troubles for Anand in this game. c5 Looks like a
+natural reaction in this position.} (13... c5 14. d5 exd5 15. Qh5+ Kd8 16. Qxd5
+Qc6 17. Qf7 Qe6 {and Black seems fine to me.} 18. Qh5 Kc7 19. b3 Nc6 20. Bc4
+Qe8 {with very good play for Black.}) 14. Qh5+ {(360s)} Kd8 {(50s)} 15. Bc4 {
+(28s)} Kc7 {(1116s)} (15... Nc7 {runs into} 16. Qf7 Be7 17. f5 $3 {[#]
+This is a brilliant positional sacrifice. White controls every important
+square on the board after this move.} (17. Qg7 Re8 18. f5 Qa5 19. Ne2 Qxf5 20.
+Ng3 Qg6 $11) 17... exf5 18. Ne2 Ne8 19. Nf4 Nd6 20. Qg7 Re8 21. Be2 {with a
+very inconvenient position for Black.}) 16. a4 {(462s)} c5 {(90s)} 17. Ne2 {
+(27s)} Rd8 {(306s)  Anand prepares an artificial castle.} 18. Be3 {(536s)} f5
+{(393s) While the computer does not like this move, I must side with the human here as I think it a very good decision as it cuts White's queen off from the queenside.} 19. O-O {(209 s)} Kb8 {(346s) The engines believe that White is much better after either Qh4 or Rfd1.
+However, I find this assessment somewhat irrelevant when a game with such a degree
+of complication is under way. From a practical point of view, White has the upper
+hand but Black is not that tied down.} 20. Qf7 $6 {(495s) according to the
+engines.} Nc7 {(452s)} 21. a5 {(312s)} Qc6 {(10s)} 22. Qf6 {(11s)} Bd6 {
+(7s) These moves are more or less forced.} 23. dxc5 {(18s)} Bxc5 {(247s)} 24.
+Nd4 {(42s)} Qd6 {(81s)} 25. b4 {(213s)} Qe7 {(246s)} 26. Qh6 {( 1161s)  Vishy
+spent a lot of time here assessing Qf8, nevertheless he correctly overruled
+this because after Qh4 White will transfer his queen to f2 which would have put a lot of pressure on Anand's king.} Bd6 {(1414s)} 27. Rad1 {(68s)} Rhf8 {(49s)} 28. Bf2 {(73s)} Rf6 {(35s)} 29. Qh4 {(123s)} Nd5 {(282s)} (29... Ba4 {is what the AI suggests.} 30. Rd2 Rg8 {with equal chances.}) 30. Nxe6 $4 {(409s)  MVL blunders in a day of blunders! he could have exhchange the knight and d5 and tried to black on dark squares.} (30. Bxd5 exd5 31. Qh3 $1
+Qg7 (31... Bxf4 32. Bh4) 32. Qe3 (32. Bh4 Rh6) 32... Rg6 33. g3 a6 (33... h5
+34. Nxf5) 34. Nc2 {with very unpleasant play for Black.}) 30... Bxe6 {(70s)}
+31. Bxd5 {(11s)} e3 $1 {(63s)  Anand finds the trick quite fast. Bishop on e3
+will be en prise. As a result, Anand wins a piece and the game.} 32. Bxe3 {
+(16s)} Bxd5 {(9s)} 33. Bxa7+ {(5s)} Kxa7 {(124s)} 34. Qf2+ {(726s)} Bc5 $1 {
+(32s)  Final finesse! From here on, Anand converts his advantage comfortably. I
+highly recommend carefully examining the rest of the game since you can learn a
+lot from Anand's technique!} 35. Qxc5+ {(5s)} Qxc5+ {(12s)} 36. bxc5 {(1s)} Rd7
+{(35s)} 37. Rfe1 {(69s)} h6 {(87s)} 38. Kf2 {(147s)} Kb8 {(144s)} 39. c4 {
+(166s)} Bc6 {(21s)} 40. Rxd7 {(0s)} Bxd7 {(0s)} 41. Rb1 {(31s)} Ra6 {(485s)}
+42. Rb6 {(32s)} Rxa5 {(177s)} 43. Rxh6 {(22s)} Rxc5 {(6s)} 44. h4 {(39s)} Rxc4
+{(7s)} 45. g3 {(7s)} Kc7 {(83s)} 46. h5 {(19s)} b5 {(85s)  Today MVL handled
+the opening very well but he fell for a trap in what was a very promising position. Anand's opening choice was very risky but it also represents good news for Vishy's fans since he seems willing to play out of his comfort zone.} 0-1

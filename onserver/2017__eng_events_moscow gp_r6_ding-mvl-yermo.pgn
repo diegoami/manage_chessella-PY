@@ -1,0 +1,72 @@
+[Event "FIDE Moscow Grand Prix 2017"]
+[Site "Moscow"]
+[Date "2017.05.18"]
+[Round "6"]
+[White "Ding, Liren"]
+[Black "Vachier Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[WhiteElo "2773"]
+[BlackElo "2795"]
+[Annotator "Alex Yermolinsky"]
+[PlyCount "104"]
+[EventDate "2017.??.??"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nf3 Nc6 6. O-O Nb6 7. Nc3 Be7 8.
+a3 O-O 9. b4 Re8 {This quiet move is getting more popular these days.} ({
+The reason might be that the old line} 9... Be6 10. d3 a5 {Very much a
+double-edged move. Black wants to get a hold of the b3-square, but leaves his
+b7-pawn vulnerable.} 11. b5 Nd4 {is currently getting challenged by} 12. Bb2 $1
+({The thematic exchange sac} 12. Nxe5 Bf6 13. f4 Nb3 14. Be3 {brought White
+success in Howell-Naroditsky, 2015, but things aren't that clear.}) 12... Nb3
+13. Rb1 f6 {the move Black isn't too happy to make, but what else to do?} 14.
+Nd2 Nxd2 15. Qxd2 Nc4 16. Qc1 Nxb2 17. Qxb2 Rb8 {Vachier Lagrave-Swiercz, 2017}
+) 10. e3 $5 {This is a breath of fresh air, albeit the idea was invented by
+Moscow GM Sergey Makarichev back in 1991!} ({Standard procedure is} 10. d3 Bf8
+{the point of the rook move - now the e5-pawn is safe. MVL is very much
+familiar with this position.} 11. Bb2 (11. Be3 Bg4 {Dubov-Vachier Lagrave, 2016
+}) 11... a5 12. b5 Nd4 13. Nd2 {Van Wely-Vachier Lagrave, 2017}) 10... a6 11.
+Qc2 Bg4 12. Ne4 $5 {A novelty that only looks like a blunder.} ({Previously
+known was} 12. h3 Bh5 13. d3) 12... f5 {Maxime is not a kind of guy to back
+down from challenge.} 13. Nc5 e4 14. Ne1 Be2 {[#] So the white rook is trapped,
+but the real game is only about to begin.} 15. d3 Bxf1 16. Kxf1 Bxc5 17. bxc5
+Nd7 18. dxe4 fxe4 19. Bxe4 Qe7 $2 {This is very risky.} ({Black had a good
+alternative in} 19... Nf6 20. Bg2 Qd7 21. Rb1 Rab8 22. Bb2 Red8 23. Bf3 Qe6 24.
+Kg2 Rd7) 20. Bxh7+ Kh8 21. Bg6 {The black king is dangerously open.} Rf8 22.
+Rb1 Nxc5 23. Ng2 Rad8 24. Nf4 Ne6 {No choice but to abandon the b7-pawn.} 25.
+Rxb7 Ne5 (25... Nxf4 {would beat off the attack, but White doesn't mind the
+endgame either:} 26. exf4 Qe6 27. Kg2 Nd4 28. Qe4 $14) 26. Bb2 $2 {Ding begins
+to slip up a bit.} (26. Be4 $1 {was a great idea underlining the power of
+centralization. White doesn't even mind to lsoe his remaining rook, as} Nc5 27.
+Bb2 Nxb7 28. Bxe5 Rxf4 29. exf4 Nd6 30. Bf3 {is the picture worth admiring:
+the bishops are totally ruling the roost.}) 26... Nf3 $2 {Returning the favor.}
+({While} 26... Nxf4 27. exf4 Nxg6 28. Qxg6 Qd7 29. Rb4 Kg8 $14 {wasn't
+entirely hopeless for Black.}) 27. Bh5 Nxf4 28. gxf4 Rd2 {When I saw this
+position I had no doubt White would win.} 29. Qc3 $6 (29. Qc6 Rxb2 30. Rxb2
+Qxa3 31. Qc1 {seemed good enough, as the desperate try} Nd4 {is turned away by
+the cool} 32. Kg2 $1) 29... Nxh2+ 30. Kg1 $2 {Wrong way with the king!} ({
+Instead,} 30. Ke1 Rd7 31. Qc6 Kg8 32. Be2 Rfd8 33. Qxa6 $16 {was a better
+choice, although White cannot be assured of complete domination. Black has
+chances after} Qh4 34. Qe6+ Kh8 35. Bd4 Re7) 30... Rxf4 $1 31. Qxg7+ Qxg7+ 32.
+Bxg7+ Kxg7 33. exf4 Kh6 {[#]} 34. Kxh2 $6 {It's not the fist time in this
+tournament a transition into a good rook endgame nets no more than a
+disappointing draw. See Grischuk-MVL and Hammer-Giri for details.} (34. Be8 {
+just had to be played, although the win is still in doubt after both} Ng4 ({and
+} 34... Nf3+ 35. Kf1 Ra2 36. a4 Nd2+ 37. Ke2 Ne4+ 38. Ke3 Nf6) 35. Ra7 Rxf2 36.
+Rxa6+ Kh7 37. f5 Ra2) 34... Kxh5 35. Rxc7 Kg4 36. Kg2 Rd3 37. f3+ Kh5 $5 {
+Maxime chooses active defense.} ({The natural} 37... Kf5 38. Rc5+ Kxf4 39. Rc4+
+Kf5 40. Ra4 Rd6 {should be enough to hold}) 38. a4 ({Ding could have tried} 38.
+Rc5+ Kh4 39. f5 {but} Rd2+ $1 {would have saved the day for MVL.} ({Not} 39...
+Rxa3 {as} 40. f6 $1 Rb3 41. Rf5 Rb8 42. f7 Rf8 {leaves Black hopeless in the
+face of the white king's march after the a-pawn, and then to e7.} 43. Kf2 {etc.
+}) 40. Kf1 Kg3 ({Perhaps unnecessary, but} 40... Kg5 41. Ra5 Ra2 42. Rxa6 Kxf5
+{is a fancy two pawns down draw.}) 41. Rc3 Rd5 42. f6 Rf5 $11) 38... Rd4 39.
+Rc5+ Kh4 40. Kf2 ({Nothing can be gained by} 40. Rc6 Rd2+ 41. Kf1 Kg3 42. f5
+Kxf3 43. Ke1 Ra2 44. Rxa6 Ke3 45. Kd1 Kd3 46. Kc1 Kc3 47. Kb1 (47. Rc6+ Kd3)
+47... Rb2+ 48. Ka1 Rf2 49. f6 Kb3 $11) 40... Rxa4 41. Ke3 a5 $11 42. Rg5 Ra3+
+43. Ke4 Ra4+ 44. Ke5 Rb4 45. Rg4+ Kh5 46. f5 Rb5+ 47. Ke6 Rb6+ 48. Ke7 Rb7+ 49.
+Ke6 Rb6+ 50. Kf7 Rb7+ 51. Kg8 Rb8+ 52. Kg7 Rb7+ {Games like this can make a
+difference between playing in the Candidates and staying home for the upcoming
+World Championship cycle. The second miraculous save in rook endings (along
+with the Grischuk game) make Vachier-Lagrave seem destined to qualify.} 1/2-1/2
+

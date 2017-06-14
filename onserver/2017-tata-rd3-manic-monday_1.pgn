@@ -1,0 +1,141 @@
+[Event "79th Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2017.01.16"]
+[Round "3"]
+[White "Wei Yi"]
+[Black "Nepomniachtchi, I."]
+[Result "1-0"]
+[ECO "B96"]
+[WhiteElo "2706"]
+[BlackElo "2767"]
+[Annotator "Tiger Hillarp-Persson"]
+[PlyCount "149"]
+[EventDate "2017.??.??"]
+1. e4 c5 {Already at this stage I felt inclined to comment on this game. It's
+nice to see that there are some who still seek asymmetry.} 2. Nf3 d6 3. d4 cxd4
+4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 {Finally someone who is prepared to play a
+principled move.} ({Karjakin came up with} 6. a3 {in the first round against
+Giri. I guess this move is inspired by a kind of psychic prophylaxis: "I'll
+stop you from playing b5-b4 because the cards say that you will play b7-b5."
+Then Carlsen followed suit in round 2, and won. "Principled" is so yesterday.})
+6... e6 7. f4 h6 {This line has ascended from obscurity into the limelight in
+only a few years. Compared to the normal poisoned pawn lines (without h6 and
+Bh4) I can only find one small difference (but possibly I've missed something).
+} (7... Qb6 8. Qd2 (8. Qd3 $5) (8. a3 Nc6 {is much better for Black now that
+there is no Bf2.}) 8... Qxb2 9. Rb1 Qa3 10. e5 (10. f5 {is one option that is
+unique to this move order.}) 10... h6 {leads to the same position described
+after 9.Qd2. I'm still not much wiser as to why Black prefers h6 to the direct
+Qb6.}) 8. Bh4 Qb6 {This move is played in many Sicilian scenarios, with the
+idea of luring White to place Nd4 on a more passive square. White is not in the
+habit of cooperating.} 9. a3 {This is the latest fashion.} (9. Qd2 Qxb2 10. Rb1
+Qa3 11. e5 dxe5 12. fxe5 {is the main line, with thousands of games. In
+Parimarjan Negi's (exceptional) book "1.e4 vs The Sicilians 1", there is a
+chapter dealing with this line called simply "20...Rd8". You get the picture.
+Perhaps this line has fallen out of grace just because it is impossible to keep
+track of all the ins and outs.} {If you go down the rabbit hole, you will be
+likely to meet something like} Nfd7 13. Ne4 Qxa2 14. Rd1 Qd5 15. Qe3 Qxe5 16.
+Be2 Bc5 17. Bg3 Qd5 18. c4 Bxd4 19. Rxd4 Qa5+ 20. Rd2 O-O 21. Bd6 f5 22. Bxf8
+Nxf8 23. Nd6 Nbd7 {where Black is currently doing all right. Wei Yi has tried
+this twice with White, with no success.}) ({After} 9. Qd3 Qxb2 10. Rb1 Qa3 {I
+get the feeling that h6/Bh4 favours Black somewhat.}) ({Without h6/Bh4, White
+could consider} 9. Nb3 {, although it would be a terribly passive move. Here it
+is just bad because of} Qe3+ {winning a pawn.}) 9... Nbd7 {This is a first step
+off the most trodden paths, and a step that I like.} ({The normal} 9... Be7
+{almost forces White to play} 10. Bf2 {, when} Qc7 11. Qf3 Nbd7 12. O-O-O b5
+13. g4 {featured in three absolute top games in 2016. The last game saw:} Bb7
+14. Bg2 Rc8 15. Kb1 g5 16. Qh3 Nc5 17. Rhe1 h5 18. Nf5 $1 Ncxe4 19. Bxe4 Nxe4
+20. Bd4 {with a huge attack for White, in Nakamura,H (2775)-Vachier Lagrave,M
+(2800) 8th London Classic 2016. It has been clear since then that Black needed
+to find an improvement.}) (9... Nc6 10. Bf2 {with splendid chances for White,
+is the main difference to the usual poisoned pawn lines (7.. .Qb6).}) (9...
+Qxb2 10. Na4 {and as we all know; the knight on the rim is dim.} ) 10. Be2
+{This move doesn't quite fit with the usual narrative of "queen goes to f3,
+long castle, g4, bam!", but it isn't obviously wrong. I'm very curious as to
+how far Wei Yi's preparation stretched. When I read his comments, I get the
+feeling that he has an exceptional "sense" of what goes on in the Najdorf and
+that his preparations are more conceptual than they are detailed.} ({After }
+10. Bf2 Qc7 11. Qf3 {, hoping for 11...Be7, Black can instead play} b5 { ,
+which seems a bit more active.}) (10. Bc4 e5 $5) 10... e5 {As far as I can
+tell, this is a novelty.} ({However, now that the queen's route to f3 is
+obstructed, it is again possible to play} 10... Be7 11. Bf2 Qc7 {From Black's
+perspective this line seems preferable to the game.} {White should continue
+with} 12. Bf3 {and then either} g6 ({or} 12... Nb6 {, intending e6-e5, seems
+possible.})) 11. Nf5 $1 {White's minor pieces start swarming and the knight is
+on the road towards d5. Still, Black cannot tolerate the knight on f5 and has
+to kick it towards its goal.} g6 12. Bf2 $5 {This means either a) that Wei Yi
+has prepared the position deeply and seen that the 12.Ne3 is less clear than
+the engines indicate, or b) that he didn't prepare the position and played Bf2
+on instinct. Considering how the game continues and the fact that he spent
+quite a lot of time on this move, it seems more likely that b) was the case.} (
+{The engine likes} 12. Ne3 {better, intending} Qxe3 13. Bf2 {At first sight it
+seems that} Ng4 (13... Qxf4 14. g3 Qxe4 15. Nxe4 Nxe4 16. Bf3 Nxf2 17. Kxf2 h5
+{is another possibility, but the bishop on f3 looks strong here.}) 14. Bxe3
+Nxe3 15. Qd2 Nxg2+ 16. Kd1 Nxf4 {is fine for Black, but when you evaluate this
+kind of line you must first of all look for forced lines. Indeed, in this case
+there is such a one:} 17. Rf1 $1 {Intending Rxf4. If Black is allowed to
+solidify his position then the sacrifice will be less effective.} Be7 (17... g5
+18. Nd5) 18. Rxf4 exf4 19. Nd5 Bd8 20. Qxf4 Ne5 21. c4 {and Black is definitely
+under pressure. I wonder if Wei Yi considered this line and chose not to enter
+it?}) 12... Nc5 {After this move we seem to be on a one way road, so if Black
+is to find an improvement (apart from 10...Be7), then this is the place to look
+for it.} (12... Qc7 $6 13. Ne3 exf4 14. Ned5 $36) (12... Qc6 $5 13. fxe5 dxe5
+14. Ne3 Bc5 15. O-O) 13. b4 $1 {Being ahead in development, it's the
+initiative, not the pawns, that count.} gxf5 14. O-O $5 ({There was nothing
+wrong with} 14. bxc5 {and it is far from clear that Wei Yi's move is the better
+one. It keeps things simple and allows for Black to be a bit surprised.}) 14...
+Nfxe4 (14... Qc7 {leads to the same position as after 16... Qc7.}) 15. Nxe4
+fxe4 16. bxc5 dxc5 (16... Qc7 $1 17. Qd5 (17. Rb1 $5 Be6 18. Bg4) 17... Qc6 18.
+Bc4 Be6 19. Qxc6+ bxc6 20. Bxe6 fxe6 21. cxd6 exf4 22. Bd4 Rg8 23. Rxf4 Bxd6
+24. Rxe4 {leads to a slightly better endgame for White, but there are other
+promising alternatives on move 17.}) 17. fxe5 $6 ({Here} 17. Qd5 {was the
+strongest move. After something like} Bg7 18. Rad1 Be6 19. Qxe4 exf4 20. Qa4+
+Qc6 21. Qxc6+ bxc6 22. Bxc5 {White has good winning chances.}) ( 17. Bh4 Rg8
+{is less clear.}) 17... Be6 18. Rb1 Qc6 19. Bg4 {The bishop on e6 is the
+linchpin of Black's position, so White must challenge it.} b5 ({Black can also
+consider} 19... Rd8 20. Qe2 Be7 21. Bxe6 fxe6 22. a4 h5 $132) 20. Bh4 $1 {The
+most active place for the bishop that also opens the route for the rook to f6.}
+Rg8 $6 ({Black should keep the rook out of f6:} 20... Bg7 $1 21. Bf6 Bxf6 22.
+Rxf6 Rd8 {is unclear. The queenside structure gives Black some reasons to be
+optimistic.}) 21. Bxe6 Qxe6 22. Rf6 $1 Qg4 $1 (22... Qxe5 23. Rxa6 $1 Rc8 24.
+Rc6 $1 Ra8 25. Qe2 c4 26. a4 Rg6 27. Bf6 Rxf6 28. Rxf6 Rxa4 ( 28... Qxf6 29.
+Qxe4+) 29. Rbf1 {is close to winning for White.}) 23. Qd2 Be7 24. Rf4 Qd7
+({Black seeks salvation in exchanges, falls into a trap. Better was } 24... Qe6
+25. Bxe7 Qxe7 26. Rxe4 Rg6 {, when White is better, but no more.}) 25. Qxd7+
+Kxd7 26. e6+ $1 {There's the trap.} ({After} 26. Rxf7 Rae8 {Black is doing very
+well. For instance:} 27. c4 e3 28. cxb5 axb5 29. Rxe7+ (29. Rxb5 $2 Kc6 $19)
+29... Rxe7 30. Bxe7 Kxe7 31. Rxb5 e2 32. Kf2 (32. Rb1 Ke6) 32... Rxg2+ 33. Ke1
+Rxh2 {with equality. With a c-pawn and such a centralized king, Black is happy
+to enter almost any rook endgame.}) 26... fxe6 (26... Kxe6 $2 27. Rxe4+) 27.
+Rf7 Rg5 ({A neccessity since} 27... Rae8 28. Rd1+ {loses a piece.}) 28. Rd1+
+Ke8 29. Rh7 b4 ({Black gets some more chances with} 29... c4 {aiming to pick up
+the a-pawn for nothing. Still, after} 30. Bxg5 hxg5 31. Kf2 Bxa3 32. Ke3 a5 33.
+Kxe4 a4 34. c3 {Black is struggling to survive but White's advantage is not a
+comfortable one. Black's pawns look menacing and a small mistake might cost the
+game.}) 30. a4 c4 31. Bxg5 hxg5 32. Rh8+ Bf8 33. Rf1 Ke7 34. Rh7+ Kd6 35. Rh8
+Ke7 36. Rh7+ {White's next few moves are anything but random. The point is that
+he gets a rook to the c-file, which makes it easier to handle Black queenside
+pawns.} Kd6 37. Rhf7 Bh6 38. Rd1+ Ke5 39. Rc7 c3 { Black hopes to be able to
+make b4-b3 work at some point. The downside is that Black's queenside pawns are
+robbed of most of their dynamism.} ({Perhaps Nepomniachtchi didn't have enough
+time to calculate the consequences of} 39... b3 $5 40. Rc5+ Kf4 {After} 41.
+Rxc4 b2 42. Re1 Ke5 43. Rexe4+ Kd6 44. Rcd4+ Ke7 45. Rb4 Bg7) 40. Kf2 g4 (40...
+Rb8 $5 41. Rc5+ Kf6 42. Ke3 (42. Rb1 $2 Rd8) 42... g4+ 43. Kxe4 b3 44. cxb3
+Rxb3 45. g3 {and the engine assures me that White is winning. Still not a
+problem free situation.}) 41. Rc5+ Kf6 42. Ke2 Rb8 43. Rb1 $6 (43. Rd4 {was
+better, although I can symphatize with Wei Yi's handling of the situation. He
+doesn't risk anything by taking it easy.}) 43... Rd8 44. Rf1+ Ke7 45. Rc7+ Kd6
+46. Rc4 Ke7 $6 (46... Ke5 $1 47. Rd1 Rb8 48. Rc5+ Kf6 {would again lead to the
+position where White needs to play} 49. Rd4 $1) 47. Rd1 Rb8 48. Rdd4 b3 49.
+cxb3 Rxb3 50. Rc7+ Kf6 51. Rxe4 Rb2+ 52. Kd3 { White's dream comes true. All of
+Black's active pawns gets liquidated within the next few moves. In the
+resulting endgame, the e-pawn is of little consequence, whereas the a4-pawn
+becomes a hero.} Rd2+ 53. Kxc3 Kf5 54. Re1 Rxg2 55. Rc5+ Kf6 56. Re4 Rxh2 57.
+Rxg4 a5 {Black is able to save the a-pawn by tactical means, but now he is left
+with two weaknesses: the a-pawn and the e-pawn.} 58. Kd3 Rd2+ (58... Rh3+ 59.
+Kc4 Bd2 60. Re4 (60. Kb5 e5) 60... Rc3+ 61. Kb5 Rxc5+ 62. Kxc5 Bb4+ 63. Kc6 Kf5
+64. Re2 Bc3 65. Kd6 Bb4+ 66. Kd7 e5 67. Kc6 Ke6 68. Re4 Bd2 69. Kc5 Bb4+ 70.
+Kc4 Be7 71. Re3 Bb4 72. Rh3 {and the e-pawn will fall.}) 59. Ke4 Re2+ 60. Kf3
+Re3+ 61. Kf2 Re5 $2 {This makes matters simple for White.} 62. Rg6+ Kxg6 63.
+Rxe5 Bd2 64. Rxe6+ Kf7 65. Re4 Kf6 66. Ke2 Bc3 67. Rc4 Be5 (67... Bb4 68. Rxb4
+axb4 69. a5) 68. Rc5 Ke6 69. Rxa5 Bc7 70. Rb5 Kd6 71. Kd3 Kc6 72. Kc4 Bb6 73.
+a5 Ba7 74. a6 Bb6 75. Rb3 1-0

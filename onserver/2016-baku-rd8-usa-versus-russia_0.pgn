@@ -1,0 +1,32 @@
+[Event "42nd Olympiad Baku 2016 Open"]
+[Site "Baku"]
+[Date "2016.09.10"]
+[Round "8.5"]
+[White "Jobava, Baadur"]
+[Black "Ponomariov, Ruslan"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2665"]
+[BlackElo "2709"]
+[PlyCount "41"]
+[EventDate "2016.??.??"]
+[EventType "team-tourn"]
+[EventCountry "AZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[WhiteTeam "Georgia"]
+[BlackTeam "Ukraine"]
+[WhiteTeamCountry "GEO"]
+[BlackTeamCountry "UKR"]
+[TimeControl "40/5400+30:1800+30"]
+1. d4  Nf6  2. Nc3  d5  3. Bf4  c5  4. e3  cxd4  5. exd4  a6  6. Bd3  Nc6  7.
+Nge2  e6  8. Qd2  b5  9. O-O  Be7  10. a3  Bd7  11. h3  O-O  12. Rfe1  Na5  13.
+Rad1  Qb6  14. Ng3  Rfc8  15. Nf5 {(18:47) At first sight this looks a bit
+risky. Consider the continuation:} exf5  16. Rxe7  Be6 {[#] (00:08) The rook
+looks trapped doesn't it? The only way out would seem to be by giving up the
+exchange, and Ponomariov quite possibly spent time evaluating such a sacrifice,
+but Jobava has other ideas in mind.} 17. Bh6 $3 {(01:15) Absolutely stellar.}
+gxh6  ({For example,} 17... Kf8 {fails to} 18. Bxg7+ Kxe7 19. Bxf6+ {and if
+Black takes the bishop...} Kxf6 20. Nxd5+ $1 Bxd5 21. Qh6+) ({and} 17... Kh8
+18. Bxg7+ Kxg7 19. Qg5+ Kf8 20. Qxf6 {transposes to the game.}) 18. Qxh6  Rxc3 
+19. Qg5+  Kf8  20. Qxf6  Rxd3  21. cxd3  1-0

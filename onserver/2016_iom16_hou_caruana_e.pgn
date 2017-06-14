@@ -1,0 +1,33 @@
+[Event "chess.com IoM Masters"]
+[Site "Douglas ENG"]
+[Date "2016.10.06"]
+[Round "6.2"]
+[White "Hou, Yifan"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2649"]
+[BlackElo "2813"]
+[Annotator "Johannes Fischer"]
+[PlyCount "78"]
+[EventDate "2016.10.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 a5 7. Re1 h6 8. a4 O-O
+9. h3 Be6 10. Na3 {A new move that invites tactical sequence leading to an
+equal but interesting position.} Bxa3 11. Bxe6 Bxb2 12. Bxf7+ Rxf7 13. Bxb2 Qd7
+14. c4 {White prevents d5 and opens the diagonal a1-h8 for her bishop.} Raf8
+15. Nh4 Kh7 16. f4 $5 {[#]An interesting and energetic pawn sacrifice. White
+gives the f-pawn to mobilise her center.} exf4 17. d4 Re8 18. Qb1 Kg8 19. Nf3
+Rfe7 20. d5 Ne5 21. Bxe5 Rxe5 $5 {[#]Black counters White's interesting and
+energetic pawn-sacrifice with an interesting exchange sacrifice that gives him
+good play and attacking chances.} 22. Nxe5 Rxe5 23. Qxb7 f3 $1 {Black is an
+exchange down but has good attacking chances, particularly in a practical game.
+} 24. Qb3 fxg2 25. Qf3 Qe8 26. Ra2 Nxe4 27. Rae2 Ng5 28. Qg4 $2 {This gives
+Black a tactical opportunity to reach a winning endgame.} ({Better was} 28.
+Qxg2 {e.g.} Nxh3+ 29. Kh2 Ng5 30. Rxe5 dxe5 31. Qg4 e4 32. Kg2 Qxa4 {with a
+complicated position that the engines consider to be equal.}) {[%tqu "En","How
+does Black continue now?","","","e5e2","",10]} 28... Rxe2 29. Rxe2 Qxe2 $1 30.
+Qxe2 Nxh3+ 31. Kh2 ({After} 31. Kxg2 Nf4+ {Black forks king and queen.}) 31...
+g1=Q+ 32. Kxh3 Kh7 {Now Black is two pawns up and clearly winning.} 33. Qd2 h5
+34. Qxa5 Qh1+ 35. Kg3 h4+ 36. Kf4 Qh2+ 37. Kf5 Qe5+ 38. Kg4 Qg3+ 39. Kf5 h3 0-1
+

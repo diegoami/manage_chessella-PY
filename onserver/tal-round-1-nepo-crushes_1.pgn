@@ -1,0 +1,47 @@
+[Event "10th Tal Mem 2016"]
+[Site "Moscow RUS"]
+[Date "2016.09.26"]
+[Round "1"]
+[White "Nepomniachtchi, I."]
+[Black "Tomashevsky, E."]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2740"]
+[BlackElo "2731"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[PlyCount "45"]
+[EventDate "2016.09.25"]
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 {Nepo has been using the Scotch lately,
+including two victories against Chinese players in Danzhou and being held to a
+draw by Brunello in the Olympiad. It must not have come as a surprise to
+Tomashevsky.} Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8. c4 Ba6 {Even though this
+was played almost exclusively for some time, the move 8...Nb6 has become more
+popular in recent years. Both should be perfectly playable for black.} 9. b3 g6
+10. f4 (10. g3 {is the other idea in the position and leads to entirely
+different lines.}) 10... Bg7 $2 {Is this a mistake? It is the most popular
+move, as it has been played over 200 times, and by a couple strong players. The
+computers hate this move, and it has a very bad score on the database (61% for
+White). Not only that, but all the top grandmasters choose something else
+(Kasparov chose f6, while Jakovenko chose g5). Perhaps it is this early that we
+can point out where things started to go wrong for Tomashevsky.} 11. Qf2 Nf6
+(11... Nb6 12. Ba3 Qe6 13. Nd2 $6 d6 14. O-O-O O-O 15. Ne4 dxe5 $1 {Gave Black
+compensation for the exchange (though he eventually lost) in
+Macieja-Kryvoruchko, 2012. That being said, White can improve on Nd2?!}) 12.
+Ba3 (12. Be2 {also looks quite annoying for black.}) 12... d6 $6 (12... Ng4 $1
+{is probably Black's best, as in Shabalov-Granda Zuniga from 2005.}) 13. Nc3 {
+Already Black has huge problems. The threat of 0-0-0 with pressure on d6 is not
+easy to handle.} O-O (13... Qe6 14. Be2 dxe5 15. O-O {looks extremely risky.
+Black's king is completely stuck in the center.}) 14. O-O-O Ne8 15. g3 { simple
+chess is strong. Notice that due to the pin on a3-e7, there is no way that
+Black can break the bind in the center. The simple threat of Bg2 is hard to
+parry already. Black doesn't have the luxury of playing c5 either.} Bb7 ( 15...
+c5 16. Bg2 Rb8 17. Rhe1 {and e5 is still untouchable.}) (15... Qe6 16. Bg2 Bb7
+17. Rhe1 {is miserable.}) 16. Bg2 f6 17. exd6 $1 Nxd6 (17... cxd6 18. Rhe1 Qd8
+19. f5 $18 {is surprisingly less disastrous than the game.}) 18. c5 { The
+knight has no good squares to go to.} Nf5 (18... Nb5 19. Nxb5 {is winning due
+to the pin.}) (18... Nf7 19. Rhe1 {immediately traps the queen.}) (18... Ne8
+19. Rhe1 Qf7 20. Bf1 {is the same as the game.}) 19. Rhe1 Qf7 20. Bf1 { The
+game is over. There is no way to prevent Bc4 - not only is it a pin, but it
+just traps the queen on that square!} Rfd8 21. Rxd8+ Rxd8 22. Bc4 Rd5 23. Qe2
+{Black loses the exchange and his position is still bad. Absolutely
+demolition.} 1-0

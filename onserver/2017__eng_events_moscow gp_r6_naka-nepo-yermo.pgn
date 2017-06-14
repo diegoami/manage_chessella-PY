@@ -1,0 +1,79 @@
+[Event "FIDE Moscow Grand Prix 2017"]
+[Site "Moscow"]
+[Date "2017.05.18"]
+[Round "6"]
+[White "Nakamura, Hikaru"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1-0"]
+[ECO "B97"]
+[WhiteElo "2786"]
+[BlackElo "2751"]
+[Annotator "Alex Yermolinsky"]
+[PlyCount "69"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 {With only four rounds
+left both players needed to make a push. The Najdorf Sicilian answers the call.
+} 6. Bg5 e6 7. f4 Qb6 8. a3 $5 {I like this decision. Hikaru refuses to get
+involved in a theoretical dispute in the Poisoned Pawn Variation.} Nc6 ({
+From a Najdorf player's point of view} 8... Nbd7 {looks attractive, but, in
+turn, it allows White to place his other bishop to an active position,} 9. Bc4)
+({Obviously,} 8... Qxb2 $4 {loses the queen to} 9. Na4) 9. Nb3 Be7 ({Naturally,
+Ian had no interest in defending a slightly worse position after} 9... Qe3+ 10.
+Qe2) 10. Qd2 $5 {An important moment. Seeing the black knight on c6, Nakamura
+recognized a Classical Sicilian pattern, and placed his queen accordingly.} ({
+Routine is} 10. Qf3 {which Black often answers with} Qc7 11. O-O-O h6 12. Bh4
+g5 $5 {inviting a firestorm:} 13. e5 $1 {[#]} (13. fxg5 Ne5 {this tempo is the
+key to the whole idea.} 14. Qe2 Nfg4 {Black will regain a pawn and keep the
+e5-square for his knight.}) 13... dxe5 ({Perhaps safer is} 13... gxh4 14. exf6
+Bxf6 15. Ne4 Be7 16. Qc3 Rg8 {but since Nf6+ is always there for him, White
+can simply play} 17. Be2 $1 {with some advantage in all lines.}) 14. fxg5 Nd5
+$1 ({I find} 14... hxg5 {unsatisfactory, as after} 15. Bxg5 Nd5 16. Bd2 $14 Bd7
+17. Nxd5 exd5 18. Qxd5 Be6 19. Qd3 {Black's compensation is insufficient,
+mainly because he cannot castle long.}) 15. Rxd5 $1 {The most principled
+answer.} (15. Nxd5 exd5 16. Rxd5 hxg5 17. Bg3 Be6 18. Rd1 f5 {is rather good
+for Black.}) 15... hxg5 16. Bf2 exd5 17. Nxd5 Qd6 18. Bc5 g4 $1 (18... Qh6 19.
+Kb1 Bd8 20. Nd2 {offers White excellent attacking prospects.}) 19. Qd1 Qh6+ 20.
+Kb1 Bxc5 21. Nxc5 Rb8 22. Bc4 b5 23. Rf1 $1 {Fun position to play, mainly from
+the white side.}) 10... O-O {I don't think Ian was very much familiar with the
+intricacies of this type of position. What we have here is a typical
+Richter-Rauser Attack setup, where Black deals with two major threats. One is
+Bxf6, and you either lose the d6-pawn or agree to damage your pawns structure.
+Two, and it's much worse, is e4-e5!} ({One way to deal with both is} 10... Ng4
+{although the position after} 11. Bxe7 Kxe7 12. Nd1 $1 Rd8 13. Be2 Nf6 14. Nc3
+{appears simply better for White.}) ({I'd put} 10... h6 $1 {[#] on top of the
+list.} 11. Bxf6 (11. Bh4 $2 Nxe4 {Every Russian Schoolboy Knows....}) 11...
+Bxf6 12. O-O-O {Here I'd even think of} O-O $5 (12... Be7 {saves the pawn, but
+loses time:} 13. h4 Qc7 14. g4 b5 15. Be2 $14) 13. Kb1 Bd7 ({too early for} 
+13... Na5 {on account of} 14. Na4 $1 Nxb3 15. Nxb6 Nxd2+ 16. Rxd2 $16) 14. Qxd6
+(14. g4 Na5 $1 {Another typical idea from the R-R Attack} 15. Nxa5 Qxa5 {and}
+16. Nd5 Bd8 {is harmless.}) 14... Bxc3 15. bxc3 Rfd8 {Back in the day when
+everybody played the Classical Sicilian Black used to welcome such
+developments.}) 11. O-O-O Rd8 {Seemingly Black has successfully addresses both
+White's threats - see above - but his counterplay is slow in coming, and White
+will continue to press on.} 12. Bd3 (12. Qe2 $5 h6 13. h4 Bd7 14. g4 Rac8 15.
+Rh3 {was another promising idea.}) 12... h6 13. h4 $5 Bd7 {Nepo continues to
+play quickly, but his moves lack imagination.} ({Here he neglected a chance to
+establish some kind of connection between his queen and knight:} 13... Ng4 $5
+14. Bxe7 Nxe7 15. Rdf1 e5 16. Be2 a5 $1 {with reasonable chances for both
+sides.}) 14. Qe2 Kf8 $2 {And this one is a real error.} ({The only way to stop
+White was} 14... h5 $1 15. e5 (15. f5 Ng4 16. Rdf1 Bf6 17. fxe6 Bxe6 18. Nd5
+Bxd5 19. exd5 Nce5 $15) (15. Bxf6 Bxf6 16. Qxh5 Qe3+ 17. Kb1 Qxf4) 15... dxe5
+16. fxe5 Ng4 $13) 15. e5 $1 {The floodgates are open.} dxe5 16. fxe5 hxg5 17.
+exf6 Bxf6 18. hxg5 Bxg5+ ({No salvation was offered by} 18... Bxc3 19. bxc3
+Rac8 20. Rh7 $18) 19. Kb1 {[#] A dreadful sight for the second player. Black
+has no counterplay and no means to defend his king.} Qe3 20. Qh5 Bh6 21. Rhf1
+Be8 22. Rde1 Qg5 23. Qh3 {Hikaru anticipated Ian's reply.} ({Some would choose
+} 23. Qh2 {[%csl Re5][%cal Gh2e5,Ge1e5] to stop the black knight from coming
+to help.}) 23... Ne5 24. Nc5 $1 {The e6-pawn is collapsing, and as in many
+Sicilian positions, it's the beginning of the end.} Kg8 {[#]} 25. Nxe6 $1 fxe6
+(25... Rxd3 26. cxd3 fxe6 27. Qxe6+ Nf7 28. Nd5 $18) 26. Qxe6+ Nf7 27. Bg6 ({
+even more thematic would be} 27. Ne4 Qe5 28. Qg6 Rxd3 29. cxd3 {and there's no
+stopping to Nf6+}) 27... Kh8 (27... Rd7 28. Qxe8+) 28. Bxf7 Bxf7 29. Qxf7 Qxg2
+({Understandably, Nepo didn't cherish Black's prospects after} 29... b5 30. Rh1
+Rf8 31. Qd7 {White is up a pawn, and Black's Bh6 plays no other part but being
+an unmovable stick in its King's rickety shelter. One sample line is} Rad8 32.
+Qc6 Rf6 33. Re8+) 30. Rg1 Qd2 31. Rd1 Qf4 32. Qxb7 Rdb8 33. Qe4 Qf8 $2 {
+Ian simply quits.} ({At least} 33... Qxe4 34. Nxe4 Re8 {would prolong the game.
+}) 34. Rg6 Ra7 35. Qd4 1-0
+

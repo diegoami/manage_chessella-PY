@@ -1,0 +1,114 @@
+[Event "FIDE Grand Prix"]
+[Site "Moscow"]
+[Date "2017.05.18"]
+[Round "5"]
+[White "Harikrishna, Pentala"]
+[Black "Adams, Michael"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "2750"]
+[BlackElo "2747"]
+[Annotator "Tiger Hillarp-Persson"]
+[PlyCount "101"]
+[EventDate "2017.??.??"]
+[EventCountry "RUS"]
+
+1. d4 {Already this is a surprise. Harikrishna usually plays 1.e4, but I guess
+he was attracted by Adams's rather narrow black repertoire.} Nf6 2. c4 e6 3.
+Nc3 d5 4. cxd5 exd5 5. Bg5 c6 6. e3 h6 {Adams repeats the line that he lost a
+game with only three months ago.} ({Perhaps} 6... Be7 7. Bd3 Nbd7 8. Nge2 h6 9.
+Bh4 Nh5 {is a better move order, although} 10. Bxe7 Qxe7 11. Qd2 {leads to the
+same position that Adams got against Mamedyarov (see below.).}) 7. Bh4 Be7 8.
+Bd3 Nbd7 9. f3 $5 {There has only been three games with this move, so far, but
+it is very logical. White aims to meet Nh5 with Bf2.} (9. Qc2 {In older theory
+White used to play the queen here, in order to take Nf6-e4 out of the picture.
+However, if Ne4 is not such a great idea, there are clearly more constructive
+moves than Qc2!?} Nh5 $5 10. Bxe7 Qxe7 {Compared to the position after 9.Nge2
+Nh5 10.Bxe7 etc, this is clearly less critical. The queen would be better
+placed on d2, so that White can continue with f3, preparing e4.}) (9. Nge2 $5 {
+was Mamedyarovs choice, in Sharjah. I commented on this game for Chessbase in
+February.} {Perhaps Adams was prepared to play the critical} Ne4 $5 (9... Nh5
+10. Bxe7 Qxe7 11. Qd2 $1 {was Mamedyarov-Adams, Sharjah Grand Prix 2017}) 10.
+Bxe7 Nxc3 (10... Qxe7 $6 11. Bxe4 dxe4 12. Ng3 Nf6 13. Qc2 $16) 11. Bxd8 Nxd1
+12. Rxd1 Kxd8 13. f3 {when, to quote myself, "White has a clear plan in e3-e4 
+(and possibly g4/h4), whereas Black is somewhat passive. White ought to have a
+small advantage."}) ({After} 9. Nf3 {Black doesn't have to worry about the f3/
+e4-plan and can focus on finding a way to meet b2-b4-b5.}) 9... O-O (9... Ne4
+10. Bxe7 Nxc3 11. Bxd8 Nxd1 12. Rxd1 Kxd8 13. Ne2 $14) 10. Nge2 b5 ({Wesley So
+mentions} 10... Ne4 11. Bxe7 Nxc3 12. Bxd8 (12. bxc3 Qxe7) 12... Nxd1 13. Rxd1
+Rxd8 14. Kf2 {, saying that White's play on the kingside, with h4, g4, etc, is
+promising. Here h6 turns out to be a weakness even though the queens are off
+the board.}) ({The usual plan in these positions is} 10... Re8 11. O-O Nf8 {
+and although h6 is not part of the usual narrative, it is not quite clear how
+White should prove an advantage.} 12. Kh1 Ne6 13. Bc2 $5 (13. Qc2) (13. a3 $5)
+13... Nf8 $6 (13... b6 14. Qd3 g6 15. e4 $36) (13... b5 $5) 14. Qd3 Nh5 15.
+Bxe7 Qxe7 16. e4 dxe4 17. fxe4 Be6 18. e5 Rad8 19. Ne4 Bd5 20. N2c3 Qe6 21.
+Nxd5 cxd5 22. Nc5 Qc8 23. Qf3 {1-0 (23) Sokolov,I (2650)-Kenney,D (2021)
+Ottawa 2013}) 11. O-O {I prefer the White side in this structure. Black must ,
+sooner or later, play c6-c5 and be left with an isolated pawn in the center.
+The alternative is to allow White to play e3-e4 and that looks even worse.
+White has no similar reason not to play e3-e4.} Nb6 ({Black should seek
+counterplay in a more dynamic manner. Slow building up will only further
+White's case. Perhaps} 11... b4 $5 12. Na4 Nb6 13. Nc5 (13. Rc1 Ng4 $1 14. Bxe7
+Qxe7 15. Nxb6 Nxe3 16. Qa4 Bf5 17. Nxa8 Bxd3 18. Rfe1 Bb5 19. Qa5 Nxg2 {
+, is a long, forced and - if the engine is to be believed - equal line.}) (13.
+Bf2 $5) 13... Nfd7 14. Nxd7 Bxd7 15. Bf2 c5 $1 16. dxc5 Bxc5 17. Rc1 Nc4 {
+, could be a way to force ones way out of trouble. After} 18. Bxc4 dxc4 19.
+Rxc4 Rc8 20. Nd4 Qg5 {Black's activity looks to be enough to make up for the
+missing pawn.}) 12. Bf2 $1 a5 (12... b4 13. Na4 Nxa4 14. Qxa4 Qb6 15. Rfc1 (15.
+a3 $5) 15... Bd7 16. Qc2 Rfc8 17. Qd2 (17. Bf5 $5) 17... a5 {is only a little
+better for White.}) (12... Nc4 13. Qc2 Bd7 14. Rad1 Re8 15. Ng3 {and e3-e4 is
+hanging in the air.}) 13. Ng3 $1 {Now b5-b4 can be met with Nce2.} (13. Nc1 {
+makes the back ranks more crowded, but is also possible.}) 13... b4 14. Nce2 c5
+{As I mentioned before; Black cannot do without this move in the long run.} 15.
+dxc5 Bxc5 16. Rc1 Nbd7 17. Nd4 (17. Nf4 $5 Qb6 18. Re1 Re8 19. Bf5 {[%cal
+Gf4d5]} Qd6 (19... Rxe3 $4 20. Rxc5 Rxe1+ 21. Qxe1 Nxc5 22. Nxd5 $18) 20. Qd2 {
+looks like a more direct and possibly better way to exploit Black's weak
+points.}) 17... Qb6 18. Re1 {Harikrishna is playing the white side in model
+style; not hurrying, while guiding the pieces towards the best squares. This
+move makes Nd4 free to move, while opening up a slot for the knight and bishop
+on f1.} Re8 19. Bb1 $5 ({Even more active is} 19. Bc2 Nf8 20. Ba4 Bd7 21. Ngf5
+{, but after} h5 {, intending g6, it is not clear how White will continue. In
+the bigger scheme White would prefer to keep the light squared bishops and
+exchange the dark squared ones...}) (19. Ngf5 Ba6 20. g4 $6 Bxd3 21. Qxd3 Ne5
+22. Qe2 Bf8 $132) 19... a4 {Black's advanced queenside pawns are a mixed
+blessing. On one hand they can create tactical possibilities with b4-b3 or
+a4-a3 (aiming for the c3-square), but the downside is that they will become 
+(very) weak in the endgame. A similar situation can arise in the Kings Indian,
+when Black plays the a- and b-pawns forward.} 20. Qc2 {White wants to provoke
+g7-g6, but Black should be happy to be provoked.} (20. b3 $5 a3 21. Qd2 Ba6 22.
+Bd3 Bxd3 23. Qxd3 Rac8 24. Nge2 {The b4-pawn looks too weak to my liking, but
+Black has plenty of activity, so perhaps it is balanced.}) 20... Ra5 $5 (20...
+g6 21. Qd2 Ba6 22. b3 axb3 23. axb3 Rac8 24. Nge2 Ne5 25. Nf4 {is possibly
+balanced, but I keep worrying about the b4-pawn.}) 21. Nge2 Nf8 $2 {This is a
+part of the old undermine-d4-with-everything-you-have-plan, but at this moment
+the most important thing is to keep White from pushing the bishop away from c5
+with Nf4-d3. It's a small slip, but it has huge implications.} ({It was better
+to play} 21... Ne5 22. Nf4 Bd7 {, when after} 23. Red1 (23. Nd3 Nxd3 24. Qxd3
+Raa8 {is quite OK for Black, since the bishop on b1 is out of play.}) 23... g6
+24. b3 Rc8 25. Qe2 Re8 {Black has no active plan (that doesn't hurt himself),
+but it's quite possible that White has none either.}) 22. Nf4 {[%cal Gf4d3]
+Black has no good way to deal with Nf4-d3.} Bd7 23. Nd3 Bd6 24. Bg3 $1 {
+With the dark squared bishops gone d4, c5, e5, c7 and not least b4, all become
+weak. Now White has a steady advantage.} Bxg3 25. hxg3 Rc8 26. Qd2 Rb8 27. g4
+Ne6 28. Ne5 $1 {[%cal Ge5c6]} Rc5 29. Nxe6 Rxc1 (29... Bxe6 30. Qd4 Rxc1 31.
+Rxc1 Qxd4 32. exd4 Nd7 {would almost be OK for Black if the queenside pawns
+hadn't gone berserk earlier:} 33. Nc6 Rb6 34. Kf2 $16 {[%csl Ra4,Rb4]}) 30.
+Rxc1 Qxe6 31. Qd4 {White has more space on the kingside, a great blockade on
+d4 and the c-file. Black has two weaknesses in b4 and d5.} Qd6 (31... Re8 32.
+Nxd7 Nxd7 33. Bf5 Qd6 34. Bxd7 Qxd7 35. e4 Rd8 36. Rd1 $16) 32. Nd3 Ne8 {
+This makes matter worse, but it is already very hard to defend Black's
+position.} 33. Rc5 Rb5 $6 (33... Bb5 $5 $16) 34. Rxb5 Bxb5 35. Qxb4 Qa6 36. Nc5
+Qc6 37. Bf5 Nf6 38. b3 (38. Kf2 g6 39. Bc2 h5 $1 40. gxh5 Nxh5 {is less clear
+than one might expect. For instance:} 41. Bxa4 $2 Bxa4 42. Nxa4 Qc2+ 43. Kg1
+Qc1+ 44. Kh2 Qxe3 $11) 38... axb3 39. Nxb3 g6 40. Bb1 Nd7 41. Kf2 Bc4 42. Na5
+$1 ({Another line that shows just how many tricks there are in chess:} 42. Nd4
+Qf6 43. a4 Nc5 $1 44. Bc2 (44. Qxc5 Qh4+ 45. Kg1 Qe1+ $11) (44. a5 $5) 44...
+Qh4+ 45. Kg1 Qe7 46. Qc3 Bd3 $1 47. Qd2 $1 Bxc2 48. Nxc2 Nxa4 49. Qxd5 Nc5 {
+and Black has excellent chances of survival.}) 42... Qc7 43. Nxc4 dxc4 44. a4
+Nb6 45. Bc2 Nd5 46. Qd2 Qc6 $2 {I presume Adams was disillusioned with his
+play. This doesn't seem like him. Now the game is just over.} 47. Be4 $1 c3 48.
+Qd1 $1 Qb7 (48... Qc4 49. Bxd5 c2 50. Qc1 Qxd5 51. Qxc2 $18) 49. Kg1 c2 50.
+Qxc2 Qb4 51. Qb1 {With this win Harikrishna moved up to a 50% score. I believe
+he will do better than that in the end.} 1-0
+

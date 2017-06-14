@@ -1,0 +1,130 @@
+[Event "London Chess Classic 2016"]
+[Site "London"]
+[Date "2016.12.10"]
+[Round "2"]
+[White "Anand, Viswanathan"]
+[Black "Vachier Lagrave, Maxime"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2779"]
+[BlackElo "2804"]
+[Annotator "Krikor Mekhitarian"]
+[PlyCount "65"]
+[EventDate "2016.??.??"]
+
+{Notes by Krikor Mekhitarian -} 1. e4 $1 {By far Anand's #1 choice} c5 2. Nf3
+d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 {It is always exciting seeing such a
+confrontation - Anand, known for his extremely deep and ambitious opening
+preparation, continuously finding new ideas and putting problems to his
+opponents. In the other side, we have one of the world's top specialist in the
+Najdorf variation (as white and black) - current number 4 in the world, having
+an amazing 2016 year, Maxime Vachier-Lagrave or simply MVL. Both players have
+drawn their first round games, meaning a higher chance they would both seek a
+very tense battle.} 6. h3 $5 {[%cal Gg2g4] The Adams attack has become a
+fashionable idea against the Najdorf, leading to extremely complicated
+positions. I always found it weird to have it called after Michael Adams, who
+is such a positional genius (he indeed played it 5 times), but I have just
+come to realize it is named after the american master Weaver Adams, who
+started playing it back in the 1940s! Black has some options here, e5 being
+the most common.} e5 (6... Qc7 {was tried in the very first game of this
+variation against Mr. Weaver in 1948} 7. g4 e6 8. Bg2 Nc6 9. Be3 Na5 10. Qe2
+Bd7 11. Rd1 h6 12. Bc1 $1 Be7 13. f4 O-O-O 14. O-O $36 {a very odd situation
+to have white to castle K-side and black to castle Q-side in an open sicilian.
+White went on to win it in 29 moves!: 1-0 (29) Adams,W-Pavey,M Baltimore 1948})
+7. Nb3 {Anand has played this 7.Nb3 only once before (in 2014, against
+Nepomniachtchi). White's idea is to play something like an english attack 
+(with Be3, f4 ideas, or even f4 right away, normally connected with castling
+on the Q-side).} (7. Nde2 {[%cal Gg2g4,Ge2g3] is the most common move, aiming
+for g4-Ng3} h5 {black normally stops white's K-side expansion with this move,
+and white develops with either g3 or Bg5 now, and even the creative Ng1
+followed by Nf3 and Ng5 is possible.}) 7... Be6 8. f4 Nbd7 9. g4 $5 {A very
+interesting move, preparing f5 under better conditions. Now g5 is a threat.
+There are two important games that have similarities to this one:} (9. Qf3 Rc8
+10. f5 Bxb3 11. axb3 d5 $5 {is a typical pawn sacrifice that probably led MVL
+to an important decision later in this game, as you will see.} 12. exd5 e4 $5 (
+12... Bb4 $5) 13. Qg3 Nh5 $13 {with an unclear position: 0-1 (57) Gormally,D 
+(2488)-Vachier Lagrave,M (2757) Douglas 2014}) (9. f5 Bxb3 10. axb3 d5 $1 {
+right away!} 11. exd5 Bb4 12. Bd2 (12. g4 $2 {now fails drastically} Ne4 $1 $17
+) 12... O-O 13. Qe2 Bxc3 14. bxc3 e4 $44 {1-0 (34) Sutovsky,E (2635)-Shirov,A 
+(2712) Poikovsky 2015} (14... Nxd5 $5)) 9... Rc8 $146 (9... b5 {has been
+played in 2014} 10. Bg2 (10. g5 $6 b4 $1 $132) 10... Nb6 11. g5 Nfd7 12. f5 Bc4
+13. Na5 Rc8 $13 {with complex play. 0-1 (32) Khismatullin,D (2714)-Duda,J 
+(2563) Yerevan 2014}) 10. f5 (10. g5 $2 {would be a very bad mistake} Rxc3 $1
+11. bxc3 (11. gxf6 Rc8 $17 {since white can not take on g7 because of Qh4+})
+11... Nxe4 $17 {[%csl Rb3,Rc3,Re1][%cal Gh7h6]}) 10... Bxb3 (10... Bc4 $6 11.
+Bxc4 Rxc4 12. Qd3 $16 {[%csl Rd5] the light-squared B exchange is positionally
+good for white}) 11. axb3 {[%csl Re1][%cal Gg4g5] It is clear that white's
+position is threatening, g5 looks very annoying and Vachier-Lagrave has to do
+something, and here he follows a very important advice - meet a flank attack
+with a center counterattack!} d5 $5 {Black decided to go for a pawn sacrifice,
+to open up the position while white wants to create a wing attack (with g5).
+It goes to reinforce the idea that MVL is a very brave player, that doesn't
+shy away from complications, even when it is clear that his opponent is in his
+preparation.} (11... Rxc3 $5 {was a critical moment - the typical exchange
+sacrifice also follows the golden counterattack rule and looks very attractive,
+specially because black creates a devastating threat of Qh4+ now:} 12. bxc3
+Nxe4 {[%cal Rd8h4]} 13. h4 Qb6 (13... Be7 $5 {is a similar version} 14. g5 Qb6
+15. Qf3 d5 $44 {now black has a strong h6! threat, trying to open up even more
+lines against the white king.}) 14. Qf3 d5 $44 {as MVL himself mentioned after
+the game, was something he was seriously considering and has to be at least
+very interesting.}) 12. exd5 Bb4 13. Bg2 Qb6 $2 {natural, but from now on
+black faces a difficult position because of this move.} (13... Rxc3 $1 {
+would get the pawn back and achieve a complex middlegame position after:} 14.
+bxc3 Bxc3+ 15. Bd2 Bxa1 16. Qxa1 O-O {white has the pure bishop pair, but in
+the other hand he also has many weaknesses around his king and after:} 17. O-O
+Qb6+ $132 {followed by either e4 or Rc8 shows that black's activity could
+become very dangerous.}) 14. Bd2 e4 15. Qe2 O-O 16. O-O-O Nc5 17. Kb1 Rfd8 {
+The last moves were kind of expected and now the game surrounds about the
+moment when black will release the pressure to get the d5-P back, and for many
+moves, white's g5 move will need to be analysed.} 18. Rhe1 {a strong move,
+bringing the last piece into play, but it was already possible to think about
+clearing the dust with the aforementioned g5.} (18. g5 $5 Bxc3 19. Bxc3 Nxd5
+20. Bd4 $1 (20. Bxe4 $2 Nxc3+ 21. bxc3 Rxd1+ 22. Rxd1 Na4 $1 $19 {[%csl Rc3]
+and suddenly white loses!}) 20... Nf4 21. Qf2 Nxg2 22. Bxc5 Qc6 23. Qxg2 Qxc5
+24. Qxe4 $16 {with a promising endgame}) 18... a5 {[%csl Ge1]} (18... Bxc3 $2 {
+is simply a worse version compared to the last move analysis.} 19. Bxc3 Nxd5
+20. Bd4 $18 {with an additional Rhe1 already played, black has to be in deep
+trouble.}) 19. Qf2 $6 {[%csl Rb6,Rc5]} (19. d6 $1 {a very counterintuitive and
+difficult move, worsening the black's R position before inserting g5.} Rxd6 20.
+g5 $1 {is much stronger now:} Bxc3 21. Bxc3 Nd5 22. Be5 $1 {this is the key,
+white wins a very important tempo.} Rdd8 23. Bxe4 Nxe4 24. Qxe4 $18 {with a
+winning position.}) 19... Qc7 (19... Bxc3 $1 20. Bxc3 Nxd5 21. Bd4 a4 $1 {
+probably underestimated by both players, since apparently black doesn't have
+time for such a move. A sample line could go like this:} 22. bxa4 Qb4 $1 {
+threatening Nxa4} 23. Qg3 (23. Bxc5 $2 Nc3+ $1 24. Kc1 Nxd1 $1 25. Bxb4 Nxf2
+$17) 23... Qxa4 {[%cal Gd5b4] now Nb4 is a serious threat} 24. Qa3 Qxa3 25.
+bxa3 $11 {and black has every reason to feel relieved winning the pawn back,
+and ruining white's structure on the Q-side.}) 20. Bf4 (20. g5 $5 {it was the
+last chance to play this move, but the complications were too scary.} Nxd5 (
+20... Bxc3 21. Bxc3 Nxd5 22. Bd4 $16) 21. Nxe4 Nd3 $1 {[%csl Gf2][%cal Gc7c2]}
+22. cxd3 Qc2+ 23. Ka1 Qxb3 {threatening Rc2} 24. Rc1 Bxd2 25. Qxd2 (25. Nxd2 $2
+Qa4+ 26. Kb1 Nb4 27. Bd5 Nxd5 $17) 25... Nb4 26. Nc3 {All of this was
+amazingly mentioned by Anand in the post-game interview (and I'm sure MVL had
+similar calculations), showing how good these guys are. He said he wasn't sure
+of the evaluation, which is totally understandable, since it involves a
+serious risk against your own king! And he is correct, after a4! the position
+remains totally unclear.} a4 $1 $40 (26... Rxd3 $2 27. Qe2 $1 $18 {threatening
+mate and following with Be4-Bc2})) 20... Qb6 21. Be5 a4 $1 22. bxa4 Bxc3 23.
+Bxc3 Nxd5 24. Rxd5 $1 {a good practical decision, maintaining excellent
+chances on the following position with the strong bishop pair and many strong
+pawns on the Q-side} (24. Bd4 Qb4 $1 $132 {-- 19...Bxc3}) 24... Rxd5 25. Bxe4
+Rd6 26. a5 Qb5 {[%cal Gc5a4]} 27. Qe2 $1 Qxe2 28. Rxe2 {now it was urgent for
+black to eliminate one of white's strong bishops.} Rd1+ (28... Nxe4 $1 29. Rxe4
+Rdc6 30. Ka2 $13 {[%csl Ra5,Rb2,Rb7,Rc2] the pawn majority on the Q-side may
+be decisive, and white should have the better prospects, but there is a lot to
+be played, it is not too easy to advance those pawns.}) 29. Ka2 Re8 $2 {
+a huge mistake, not only because of the way the game continued, but because
+black will not be able to deal with these strong bishops} (29... Nxe4 {was
+again forced, achieving a similar version of the last move, but having lost an
+important tempo.}) 30. Bf3 $1 Rxe2 31. Bxe2 Rc1 32. Bf3 Rxc2 33. Bxb7 $1 {
+Maxime resigned since the a-P is unstoppable. A brilliant presentation from
+the legendary world champion Vishy Anand, showing hard work with a deep
+opening preparation, strong dynamic play and impressive calculations.
+Vachier-Lagrave put up a strong resistance after being surprised in the
+opening, and could have defended the endgame, if it wasn't fo the final
+mistake on move 29. Now Anand joins the 2nd place with three other players at
+1,5/2, but for now the man to watch for is Wesley So, with a perfect 2/2 score
+and a newly acquired ticket into the 2800 club!} (33. Bxb7 $1 Nxb7 34. a6 {
+[%csl Rb7,Gc2][%cal Ga5a6] followed by a7, if the N leaves.} Re2 {the rook is
+also not in time:} 35. axb7 Re8 36. Be5 $1 $18 {[%cal Gb7b8]}) 1-0
+

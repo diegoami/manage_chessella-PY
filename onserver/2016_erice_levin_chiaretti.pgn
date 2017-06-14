@@ -1,0 +1,31 @@
+[Event "7th Terre degli Elimi A"]
+[Site "Erice"]
+[Date "2016.08.02"]
+[Round "7"]
+[White "Levin, Felix"]
+[Black "Chiaretti, Roberto"]
+[Result "1-0"]
+[ECO "A80"]
+[WhiteElo "2530"]
+[BlackElo "2257"]
+[SetUp "1"]
+[FEN "r2qkb1r/pbpn2pp/1p1ppn2/5p2/2PP1B2/2N1PN2/PP2BPPP/R2Q1RK1 b kq - 0 8"]
+[PlyCount "48"]
+[EventDate "2016.07.28"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+
+8... h6 9. h3 (9. d5 $1 {Levin indicated this as an amazing possibility for
+White.} e5 10. Nh4 exf4 11. Bh5+ Ke7 12. Nxf5#) 9... g5 10. Bh2 Bg7 11. Qc2 (
+11. d5 $1 e5 12. Qc2 {And Black can't really defend the f5 pawn.} e4 $2 13. Nd4
+{[%csl Re6,Rf5]}) 11... Ne4 12. d5 Bxc3 $1 {A very nice thematic plan: first
+giving up the strong Black bishop to deliver White a double c-pawn, followed
+up by closing the position with e6-e5.} 13. bxc3 e5 $15 {[%csl Rc3,Rc4,Rh2]}
+14. Ne1 Qf6 15. g4 Rf8 16. gxf5 Qxf5 17. Bg4 Qh7 18. f3 Nef6 19. Qxh7 Nxh7 20.
+f4 gxf4 21. exf4 Rg8 $6 (21... Ba6 $1 $15 {Hitting the weak doubled c-pawn.})
+22. Kf2 Ke7 23. fxe5 Nxe5 24. Bxe5 dxe5 25. Nf3 Kd6 $6 {Black played very good
+so far. From here he goes wrong though by allowing the check of the knight on
+e4, after Nf3-d2-e4.} 26. Ke3 Raf8 27. Nd2 Ng5 (27... Ke7 {Black can afford
+losing two tempi.} 28. Rxf8 Rxf8 $11) 28. h4 $1 Nh7 29. Ne4+ Ke7 30. Be6 Rxf1
+31. Rxf1 Rg7 32. Rf5 $1 {And here Black resigned.} 1-0
+

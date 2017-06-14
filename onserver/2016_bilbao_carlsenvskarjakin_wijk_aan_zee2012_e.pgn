@@ -1,0 +1,82 @@
+[Event "Tata Steel-A 74th"]
+[Site "Wijk aan Zee"]
+[Date "2012.01.24"]
+[Round "9"]
+[White "Carlsen, Magnus"]
+[Black "Karjakin, Sergey"]
+[Result "0-1"]
+[ECO "E12"]
+[WhiteElo "2835"]
+[BlackElo "2769"]
+[Annotator "Karjakin,S"]
+[PlyCount "120"]
+[EventDate "2012.01.14"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "21"]
+[SourceTitle "CBM 147"]
+[Source "ChessBase"]
+[SourceDate "2012.03.16"]
+
+1. Nf3 Nf6 2. c4 b6 3. Nc3 Bb7 4. d4 e6 5. a3 d5 6. Bg5 Be7 7. e3 O-O 8. Rc1 {
+Magnus chooses the rare moves of the Petrosian line and already here I started
+to think...} h6 {Not the most common move, which was evaluated differently!} 9.
+Bxf6 Bxf6 10. cxd5 exd5 11. Bd3 c5 12. O-O {I heard different evaluations of
+this position. Aronian told me that this is a famous position from the Queen's
+Gambit with an extra tempo for White, but Magnus said that the position is
+absolutely harmless for Black...} Na6 {Preparing Nc7-e6, but later the knight
+went another way...} 13. Ne5 {Interesting try, White is preparing f2-f4. I
+expected more Ne2 and then Ng3 or Nf4. Also possible was Bb1 with an unclear
+position.} cxd4 14. exd4 Bxe5 ({The interesting alternative} 14... Nc5 {
+seemed quite risky to me in view of} 15. Nxf7 ({A quieter move is} 15. f4)
+15... Rxf7 16. dxc5 bxc5 17. Qh5 {and for the human the position looks very
+dangerous with such a weak diagonal b1-h7.}) 15. dxe5 Nc5 16. Re1 $1 {The only
+one try to fight for an advantage!} (16. Nb5 Nxd3 17. Qxd3 Ba6 $11 {is fine
+for Black, for example:} 18. f4 Rc8 19. Rce1 $6 {Trying to play for a win.} ({
+White should make a draw after} 19. Rxc8 Qxc8 20. Qxd5 Qc5+ 21. Qxc5 bxc5 22.
+a4 Bxb5 23. axb5 Rb8 $11) 19... Qd7 20. a4 Rc4 $1 21. b3 Bxb5 22. axb5 Rb4 $15)
+16... Re8 ({The most logical move does not work:} 16... d4 17. Ne4 Bxe4 (17...
+Qd5 $2 18. Bc4 $1 Qxe5 19. Nxc5 Qxc5 20. Bxf7+ $18) 18. Bxe4 d3 19. Rxc5 bxc5
+20. Bxa8 Qxa8 21. Qxd3 {with an extra pawn for White.}) 17. f4 $6 {After this
+move White is not fighting for an advantage any longer!} ({White should have
+played} 17. Bf1 a6 {Black should cover the b5-square.} 18. Rc2 $1 {keeping a
+minimal advantage.}) 17... d4 18. Ne4 $2 {Almost the decisive mistake! After
+this move White gets a very bad position...} (18. Nb5 Qd5 19. Rc2 Nxd3 20. Qxd3
+Ba6 21. a4 Bxb5 22. axb5 Rac8 {with a draw.}) 18... Bxe4 19. Bxe4 d3 $1 {
+Nice move, which because of the inclusion 16...Re8 17.f4 now works!} 20. Rc4 {
+I also thought this is the strongest, but the lesser evil was 20.Re3.} (20.
+Bxa8 d2 21. Bc6 Qd4+ 22. Kh1 dxe1=Q+ 23. Qxe1 Nd3 24. Qf1 Re6 25. Rc2 Nxf4 $17)
+(20. Re3 $1 Qd4 21. Qf3 Rac8 22. Rd1 d2 23. Kf1 {and White is somehow holding..
+.}) (20. Rxc5 Qd4+ $1 {Here we can understand the importance of the inclusion
+16...Re8 17.f4.}) 20... Rc8 21. Bf5 Qd5 {Also strong was 21...b5, but I wanted
+my b6-pawn to support the knight on c5.} 22. Rc3 Rcd8 23. Qd2 Qd4+ 24. Kh1 (24.
+Kf1 a5 {was equally bad for White.}) 24... a5 $1 {Playing against b4.} 25. Rb1
+{It was hard to suggest anything instead...} a4 26. Rd1 Rd5 {This is a bit too
+much! Of course Black's position was very good, but why not just win an
+exchange by playing} (26... g6 $1 27. Bxd3 Ne4 28. Bxe4 Qxd2 29. Rxd2 Rxd2 $19
+{with an easy win!}) 27. h4 g6 ({A stronger try was} 27... Red8 28. h5 f6 $19 {
+and White is defenceless!}) 28. Bxd3 Red8 29. Qe1 Qxf4 30. e6 $1 Nxe6 (30...
+Nxd3 $6 31. Rdxd3 Rxd3 32. e7 {with drawing chances.}) 31. Bc2 {White is
+defending very well!} b5 ({The strongest was} 31... Nd4 $1 32. Bxa4 Nf5 33.
+Rxd5 Rxd5 34. Qe8+ Kg7 35. Bb3 Qxh4+ {and Black wins! But being down on time I
+decided to play safer...}) 32. Rxd5 Rxd5 33. Re3 Nd4 34. Bd3 (34. Bxg6 {
+does not work:} fxg6 35. Re8+ Kg7 36. Re7+ Kf6 $19) 34... Kg7 35. Kg1 Qf6 36.
+Kh2 ({More stubborn was} 36. Qf2 Nf5 (36... Qd6 $5) 37. Bxf5 Rxf5 38. Rf3 Rxf3
+39. gxf3 {and though the position should be winning, still a lot of work is
+required.}) 36... Rh5 {Playing in mutual time trouble.} ({It was even stronger
+to play} 36... Rc5 $1 {and Black is dominating!}) 37. Rh3 ({There was the
+slightly more stubborn} 37. Re4) 37... Ne6 {Here Black had many ways, but
+before the time control I chose the most human moves...} (37... Qf4+ 38. Qg3
+Nf3+ $1 39. gxf3 Qd2+ $19) 38. Rf3 Rxh4+ 39. Kg1 Qd4+ 40. Qf2 Qxf2+ 41. Kxf2 b4
+{Starting from here Magnus defended very well, but 2 pawns was enough even for
+me...} 42. Re3 Rd4 43. Bb5 Kf6 44. Rf3+ (44. Bxa4 bxa3 45. Rxa3 Rd2+ $19) 44...
+Ke7 45. Rd3 bxa3 46. bxa3 Rf4+ (46... Rxd3 47. Bxd3 Nc5 48. Bb5 f5 49. Ke3 g5
+50. Kd4 Kd6 {should also be winning, but I wanted to keep the rooks.}) 47. Ke3
+f5 48. Rd7+ Kf6 49. Rd6 Re4+ 50. Kf2 Kg5 51. Be8 (51. Bc6 Nc5 $1 $19) 51... Nf4
+52. Bb5 Re5 53. Bc4 (53. Bxa4 Re2+ $19) 53... Nh5 {The decisive knight
+manoeuvre! Black gives up the a4-pawn, but creates a mating threat!} 54. Ra6
+Nf6 55. Rxa4 Ng4+ 56. Kf1 Kh4 $1 57. Be2 Kg3 58. Bxg4 fxg4 {Because Black's
+king will go to h2, the endgame is completely hopeless for White!} 59. Rb4 h5
+60. a4 Kh2 {White resigned!} 0-1
+

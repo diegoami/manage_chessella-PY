@@ -1,0 +1,47 @@
+[Event "1. Bundesliga 2016/2017"]
+[Site "St. Veit/Glan"]
+[Date "2017.03.24"]
+[Round "6.2"]
+[White "Schwarhofer, Christopher"]
+[Black "Kraemer, Martin"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2375"]
+[BlackElo "2571"]
+[Annotator "Reeh,Oliver"]
+[PlyCount "196"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 h5 8. Bg5
+Be6 9. f4 Nbd7 10. Qd2 Rc8 11. g3 b5 12. Bg2 Be7 13. a3 O-O 14. b3 Nb6 15. Rd1
+Rc6 16. Nd5 Bxd5 17. exd5 Rc7 18. fxe5 dxe5 {19.d6! Bxd6 in the diagram drags
+the bishop into the focus of the major pieces in the d-file, 20.Bxf6! gxf6
+rips open the king's position, and then all White needs is... power move no. 3
+which forces Black to resign. Have you spotted it already?} 19. d6 $1 {[%csl
+Re7][%cal Gd1d8]} Bxd6 20. Bxf6 $1 gxf6 (20... Qxf6 21. Qxd6 $18) {[%tqu "En",
+"Which move wins for White?","Find a non-capturing queen move.","","g2e4","",0,
+"d2d6","",0,"d2h6","",10]} 21. Be4 $2 {This lets Black off the hook.} ({
+Of course, completely wrong would be} 21. Qxd6 $4 {[%tqu "En","White has
+grabbed the bishop. How does Black win now?","","","c7d7","",10]} Rd7 {[%csl
+Gd1,Gd6][%cal Gd8d1] and White loses material.}) (21. Qh6 $1 {[%cal Gg2e4,
+Gh6h7,Ge4h7] would have won on the spot. The queen takes position in front of
+the weakened king, and Black has no defence against 22.Be4:} f5 {[%tqu "En",
+"What now?","","","d1d6","",10]} 22. Rxd6 $1 {Now this capture is good indeed!}
+) 21... Kg7 {[%csl Gh6][%cal Gg7h6,Rd2h6]} 22. Bf5 {Preventing ...Rd7, but
+Black has an cool way of solving the problem of his hanging bishop.} {[%tqu
+"En","Can you see a good queen move for Black?","","","d8a8","",10]} Qa8 $1 {
+[%csl Gd6][%cal Ga8h1] An elegant unpinning move, using the fact that White
+has not castled yet.} 23. O-O Rd8 {And Black is fine.} 24. Kh2 Be7 25. Qe3 Bc5
+26. Rxd8 Bxe3 27. Rxa8 Nxa8 28. Kg2 Nb6 29. Rd1 Bc5 30. a4 bxa4 31. bxa4 Nc4
+32. Kf3 Ne3 33. Rd7 Rxd7 34. Bxd7 f5 35. g4 hxg4+ 36. hxg4 fxg4+ 37. Ke4 Kf6
+38. a5 Kg5 39. Kxe5 f6+ 40. Ke4 f5+ 41. Ke5 Ba7 42. Bc8 Bb8+ 43. Kd4 Nxc2+ 44.
+Kc3 Ne3 45. Bxa6 Bc7 46. Kd3 Nf1 47. Nd4 Bxa5 48. Bc8 Ng3 49. Ne6+ Kf6 50. Nf4
+Ne4 51. Nd5+ Kg5 52. Bxf5 Kxf5 53. Ne3+ Kf4 54. Nxg4 Bb6 55. Nh6 Ng5 56. Ng8
+Bd8 57. Kd4 Nf7 58. Kd5 Kf5 59. Kc6 Ke6 60. Kc5 Bg5 61. Kc6 Nh8 62. Kc5 Kf7 63.
+Kd5 Kxg8 64. Ke6 Nf7 65. Kf5 Kg7 66. Ke6 Kg6 67. Kd5 Kf5 68. Kd4 Ke6 69. Ke4
+Nd6+ 70. Kd4 Bf6+ 71. Ke3 Kd5 72. Kf4 Bd4 73. Kf3 Ke5 74. Kg4 Ke4 75. Kg3 Nf7
+76. Kg4 Be5 77. Kh4 Kf4 78. Kh3 Ng5+ 79. Kg2 Ne4 80. Kg1 Kf3 81. Kh1 Nf2+ 82.
+Kg1 Bd6 83. Kf1 Bh2 84. Ke1 Ne4 85. Kd1 Ke3 86. Kc2 Nd2 87. Kc3 Bd6 88. Kc2 Be5
+89. Kd1 Kd3 90. Kc1 Nc4 91. Kd1 Bg3 92. Kc1 Bh4 93. Kd1 Nb2+ 94. Kc1 Kc3 95.
+Kb1 Bg5 96. Ka2 Nc4 97. Kb1 Kb3 98. Ka1 Bh6 0-1
+

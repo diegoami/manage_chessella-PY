@@ -1,0 +1,111 @@
+[Event "2016 South Wales International"]
+[Site "Cardiff"]
+[Date "2016.07.07"]
+[Round "2.7"]
+[White "Lauridsen, Jesper Morch"]
+[Black "Martin, Lewis"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2259"]
+[BlackElo "2053"]
+[Annotator "AA"]
+[SetUp "1"]
+[FEN "7R/5kr1/3q1n2/pp1rpB2/3b4/1Pp2P1Q/P1P5/1KBR4 b - - 0 33"]
+[PlyCount "9"]
+[EventDate "2016.07.07"]
+[EventRounds "10"]
+[EventCountry "WLS"]
+[WhiteClock "0:00:56"]
+[BlackClock "0:29:45"]
+
+33... Be3 $1 34. Rxd5 Qxd5 35. Be6+ (35. Bxe3 {is forcing Black to deliver
+mate with} Qd1+ {because it is prettier than Rg1:)} 36. Bc1 Qxc1+ 37. Kxc1 Rg1+
+) 35... Qxe6 36. Qxe6+ Kxe6 37. Bxe3 Rg3 {White suffered a lot but managed to
+escape with half a point. As for Black, Martin was a tough cookie this
+tournament, holding and winning against higher rated players which shows, once
+again, that having too much respect for your opponent is very polite indeed
+but this is not how chess business is done in this part of the world! They
+just want to play a good game of chess and are not shy to win it either.}
+1/2-1/2
+
+[Event "2016 South Wales International"]
+[Site "Cardiff"]
+[Date "2016.07.07"]
+[Round "1.5"]
+[White "Mccarthy, Damian"]
+[Black "L'Ami, Alina"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "1878"]
+[BlackElo "2339"]
+[Annotator "AA"]
+[SetUp "1"]
+[FEN "r1q2rk1/1pn1bppp/3pbn2/4p3/2B1P1P1/pPN1BP2/P1PNQ2P/2KR3R b - - 0 16"]
+[PlyCount "29"]
+[EventDate "2016.07.07"]
+[EventRounds "10"]
+[EventCountry "WLS"]
+[WhiteClock "0:09:48"]
+[BlackClock "0:09:42"]
+
+{Sometimes massive calculation is required in a game of chess, even against
+players rated more than 400 points lower! I assume Najdorf has a word in it as
+well.} 16... d5 ({Better was} 16... b5 {but I dropped the idea because of} 17.
+Bxb5 Nxb5 18. Nxb5 {and to be honest it just didn't occur to me I had} {
+[%tqu "En","Black missed this key move in the line, which justifies 16...b5.
+What should Black play here?","","","a8a5","",10]} Ra5 $1 19. Bb6 Rxb5 20. Qxb5
+Qc3 21. Nc4 Qxf3 {these bloody computers, spoiling all the fun, but good to
+consult and see what or where went wrong:)}) 17. g5 {And now what?! I had so
+many options to pendulate between and I finally chose} dxc4 ({My faithful
+engine says that} 17... Nxe4 {was the best but I have my doubts, as I didn't
+like} 18. Ncxe4 dxc4 19. Nxc4 Nd5 20. Nxe5 Nc3 21. Nxc3 Qxc3 22. Bd4 Bxg5+ 23.
+Kb1 Qc7 {and I assessed this as dangerous with that open g-file. Maybe the
+machines feel pretty comfortable but me as a human...on the contrary.}) ({
+Another move I thought a lot about was} 17... Bb4 {and didn't quite figure out
+the difference with taking first on c4...so then I chose the more forcing way
+via dxc4.}) (17... d4 {was yet another option which fails to} 18. gxf6 Bxf6 19.
+Bxe6 fxe6 20. Nc4 {and Black suddenly stumbles in its own pawns. I would
+slightly prefer White if you ask me.}) 18. gxf6 Bb4 {[%tqu "En","There are
+plenty of ideas to conntinue here, but precise execution is essential. Take
+your time and try to find what White's best move here was.","","","e3h6","the
+right idea but executed with imprecision.",10,"f6g7","is also not the best
+continuation in view of",0,"d2c4","which I thought was not that dangerous but
+definitely the best way for White.",0]} 19. Bh6 {the right idea but executed
+with imprecision.} (19. fxg7 {is also not the best continuation in view of} Re8
+20. Nxc4 Bxc3 21. Nb6 Qb8 {and Black has the upper hand.}) (19. Nxc4 $1 {
+which I thought was not that dangerous but definitely the best way for White.}
+Bxc3 20. Nb6 Qb8 21. Nxa8 Qxa8 {and here I simply missed} 22. Bh6 $1 Nb5 23.
+Qxb5 (23. Bxg7 $2 Bb2+ 24. Kd2 Qa5+ 25. Ke3 Qb6+ 26. Kd2 Rd8+ 27. Ke1 Bc3+ 28.
+Kf1 Bh3+) 23... gxh6 24. Rd3 Bd4 25. Kb1 Qc8 26. Qa5 {I would still assess
+this as better for Black but my computer refuses to agree...}) 19... Bxc3 {
+and White is lost.} 20. Bxg7 Bb2+ 21. Kb1 Nb5 22. Qe3 cxb3 23. Nxb3 Nc3+ 24.
+Qxc3 Qxc3 25. Rhg1 h5 26. Rd3 Qxd3 27. cxd3 Bxb3 28. axb3 Bd4 29. Rg5 a2+ 30.
+Kc2 a1=Q 0-1
+
+[Event "2016 South Wales International Cardiff"]
+[Site "?"]
+[Date "2016.07.13"]
+[Round "?"]
+[White "Fathallah, Joe"]
+[Black "L'Ami, Alina"]
+[Result "0-1"]
+[WhiteElo "1960"]
+[BlackElo "2339"]
+[Annotator "AA"]
+[SetUp "1"]
+[FEN "r1bq1rk1/1p1nppbp/p2p2p1/n1p5/2PPP3/2N1BP2/PP1QB1PP/R1N2RK1 b - - 0 11"]
+[PlyCount "8"]
+[EventDate "2016.??.??"]
+
+{An excerpt from my final game, where I should have obviously played} 11...
+cxd4 (11... Nc6 {is what I played in the game and I was far from happy with my
+decision, as I suffered with a dreadful position later on, after White closed
+the center with d5.}) 12. Bxd4 Ne5 {and now the only way for White to continue
+fighting and not ending up being worse is the brilliant} 13. Qd1 $1 {I just
+love this move!! The idea behind it is pretty simple: to prevent Black from
+taking the c4-pawn.} ({If} 13. b3 $6 Nac6 14. Bf2 Qa5 {and Black is pressing.})
+13... Nac6 {and now my engine is being silly... suggesting repetition} (13...
+Nexc4 14. Bxc4 e5 {Only move.} (14... Nxc4 $4 15. Bxg7 Kxg7 16. Qd4+ Ne5 17. f4
+) 15. Bxf7+ Rxf7 16. Bf2) (13... Naxc4 14. Bxc4 Nxc4 15. Bxg7) 14. Be3 Na5 15.
+Bd4 0-1
+

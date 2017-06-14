@@ -1,0 +1,61 @@
+[Event "20th Corsican Circuit 2016-KO"]
+[Site "Bastia"]
+[Date "2016.10.27"]
+[Round "1.1"]
+[White "Anand, Viswanathan"]
+[Black "Leenhouts, Koen"]
+[Result "1-0"]
+[ECO "B48"]
+[WhiteElo "2776"]
+[BlackElo "2492"]
+[Annotator "Sagar Shah"]
+[PlyCount "73"]
+[EventDate "2016.??.??"]
+[EventType "k.o."]
+[EventCountry "FRA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[TimeControl "900+3"]
+
+1. e4  c5  2. Nf3  e6 {[%emt 0:
+00:04]} 3. d4  cxd4  4. Nxd4 
+Nc6  5. Nc3  Qc7  6. Be3 {
+} a6 { Leenhouts goes for the Taimanov Variation
+of the Sicilian.} 7. Qf3 $5 { The move Qf3 is becoming quite
+popular recently. The idea is to put the queen on g3 and prepare 0-0-0.} d6 {
+} 8. Nxc6  bxc6  9. O-O-O {
+} Nf6  10. Qg3  Nh5 {[%emt 0:01:
+35]} 11. Qh4  Nf6  12. g4  Be7
+ 13. g5  Nd7  14. f4 {[%emt 0:
+01:15]} Rb8 { It's an interesting position as White has expanded
+on the kingisde and Black has counterplay down the b-file. But b3 will block
+out Black's attack, while White's offensive is not so easy to prepare against.}
+15. Qg3  d5  16. f5 $6  (16.
+Kb1 {was safer}) 16... Bd6 $1 { Keeping the queens on is a
+better idea for Black.} (16... Qxg3 17. hxg3 {is better for White.}) 17. Qh3 {
+} Ne5  18. f6  g6 {
+} (18... gxf6 19. gxf6 Ng6 {The computer thinks this is better for Black. But
+in a rapid game with the king in the center, it doesn't look a very secure
+position.}) 19. Qg2  Qa5  20. Bd2 {[%emt 0:00:
+45]} Qb4 $2 { A serious error by Koen...} {[%tqu "En","White to
+play and win.","","","b2b3","...which goes unpunished.",10,"c3b5","just wins a
+piece.",0]} 21. b3 $2 { ...which goes unpunished.} (21. Nb5 $1 {
+just wins a piece.} Qc5 22. b4 $18) 21... Qa3+  22. Kb1 {
+} d4  23. h4  (23. Bc1 Qb4 24.
+Ne2 $14) 23... dxc3  24. Bxc3 { A great
+practical decision. Black is put under pressure. True he is a piece up, but it
+is extremely difficult to find the right moves.} O-O $2 { This
+is like jumping into the fire.} (24... Qc5 $15) 25. Qg3  (25.
+h5 {straight away was also possible.}) 25... Nc4  26. e5 {
+} Bxe5  27. Bxe5  Nxe5 {[%emt 0:
+00:02]} 28. Qxe5 { White has a material equality and a very
+strong attack with h5. This is all over.} Bb7  29. h5 {[%emt 0:
+00:11]} c5  {[%tqu "En","The question is: will you sacrifice
+the rook?","","","h5g6","",10]} 30. hxg6  Bxh1 
+31. Qh2  fxg6  32. Rd7 { Sharp
+play by Anand. Not so difficult for him to calculate though.} h5 {[%emt 0:00:
+06]} 33. Rg7+  Kh8  34. Qxh1  (
+34. Be2 $4 Be4 35. Bxh5 Rxb3+ $11 {just in time!}) 34... Rbd8 
+35. Be2  Qa5  36. Bxh5  gxh5 {
+} 37. Qxh5#  1-0
+

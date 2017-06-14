@@ -1,0 +1,113 @@
+[Event "42nd Olympiad Baku 2016 Open"]
+[Site "Baku"]
+[Date "2016.09.10"]
+[Round "8.34"]
+[White "Atabayev, Yusup"]
+[Black "Soors, Stef"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2453"]
+[BlackElo "2398"]
+[SetUp "1"]
+[FEN "R5k1/2q1Prpb/1bn2n1p/8/2Q3P1/2P1pN2/4B1NP/6K1 b - - 0 30"]
+[PlyCount "14"]
+[EventDate "2016.??.??"]
+[EventType "team-tourn"]
+[EventCountry "AZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[WhiteTeam "Turkmenistan"]
+[BlackTeam "Belgium"]
+[WhiteTeamCountry "TKM"]
+[BlackTeamCountry "BEL"]
+[TimeControl "40/5400+30:1800+30"]
+
+30... Nb8 {(00:38)} 31. Ne5 $1 {(00:23)} Bg6 {(00:44)} ({The knight cannot be
+touched because after} 31... Qxe5 32. Qc8+ {and Black is mated.}) ({after} 
+31... Qxc4 {Black is also mated with} 32. Rxb8+) 32. Nxg6 {(02:11)} Qxc4 {
+(00:35)} 33. Bxc4 {(00:06)} e2+ {(00:03)} 34. Kh1 {(00:04)} Nxg4 {(00:49)} 35.
+e8=Q+ {(00:14)} Kh7 {(00:01)} 36. Qxf7 {(00:30)} Nf2+ {( 00:38)} 37. Qxf2 {
+(00:06)} 1-0
+
+[Event "42nd Olympiad Baku 2016 Open"]
+[Site "Baku"]
+[Date "2016.09.10"]
+[Round "8.22"]
+[White "Adly, Ahmed"]
+[Black "Almedina Ortiz, Edgardo J"]
+[Result "1-0"]
+[ECO "A46"]
+[WhiteElo "2603"]
+[BlackElo "2215"]
+[SetUp "1"]
+[FEN "r2q1bk1/p2p1pp1/1pn1r2p/5N2/4BBQ1/6P1/PP3P1P/2R2RK1 b - - 0 19"]
+[PlyCount "10"]
+[EventDate "2016.??.??"]
+[EventType "team-tourn"]
+[EventCountry "AZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[WhiteTeam "Egypt"]
+[BlackTeam "Puerto Rico"]
+[WhiteTeamCountry "EGY"]
+[BlackTeamCountry "PUR"]
+[TimeControl "40/5400+30:1800+30"]
+
+19... Rxe4 20. Nxh6+ $1 Kh7 21. Nxf7 {Attacking the queen and setting up the
+double-attack with Ng5+.} Qe8 22. Ng5+ Kg8 23. Qf5 {with the threat Qh7 mate.}
+g6 24. Qxe4 1-0
+
+[Event "42nd Olympiad Baku 2016 Women"]
+[Site "Baku"]
+[Date "2016.09.10"]
+[Round "8.13"]
+[White "Hou, Yifan"]
+[Black "Mamedjarova, Zeinab"]
+[Result "1-0"]
+[ECO "A05"]
+[WhiteElo "2658"]
+[BlackElo "2295"]
+[SetUp "1"]
+[FEN "1qbr2k1/p3bppp/1p2p3/3n4/3B4/PP1P2P1/3NPPBP/1Q1R2K1 b - - 0 18"]
+[PlyCount "6"]
+[EventDate "2016.??.??"]
+[EventType "team-tourn"]
+[EventCountry "AZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[WhiteTeam "China"]
+[BlackTeam "Azerbaijan"]
+[WhiteTeamCountry "CHN"]
+[BlackTeamCountry "AZE"]
+[TimeControl "40/5400+30:1800+30"]
+
+18... Bxa3 {(08:08)} 19. Bxg7 $1 {(01:41)} (19. Qa1 Bf8) 19... Kxg7 {(08:50)}
+20. Qa1+ {(01:07)} Kg8 {(00:27)} 21. Qxa3 {(03:01)} 1-0
+
+[Event "42nd Olympiad Baku 2016 Open"]
+[Site "Baku"]
+[Date "2016.09.10"]
+[Round "8.34"]
+[White "Makolli, Perparim"]
+[Black "AL-Sayed, Mohammed"]
+[Result "0-1"]
+[ECO "C77"]
+[WhiteElo "2289"]
+[BlackElo "2521"]
+[SetUp "1"]
+[FEN "5r2/1bp1k1p1/pb1r3p/1p2NB2/4P3/2P4P/PP3PP1/R1B2K2 w - - 0 21"]
+[PlyCount "6"]
+[EventDate "2016.??.??"]
+[EventType "team-tourn"]
+[EventCountry "AZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[WhiteTeam "Kosovo"]
+[BlackTeam "Qatar"]
+[WhiteTeamCountry "KOS"]
+[BlackTeamCountry "QAT"]
+[TimeControl "40/5400+30:1800+30"]
+
+21. Ke1 {(05:03)} Bxf2+ {(01:57)} 22. Ke2 {(00:53)} (22. Kxf2 $2 Bxe4 $1 23. g4
+Bxf5 $1 24. gxf5 Rxf5+ 25. Nf3 Rdf6) 22... Bb6 {( 07:32)} 23. Bd2 {(05:38)}
+Bxe4 {(01:10)} 0-1

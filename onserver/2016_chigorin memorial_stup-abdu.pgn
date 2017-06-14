@@ -1,0 +1,37 @@
+[Event "M.Chigorin Memorial 2016 "]
+[Site "St. Petersburg"]
+[Date "2016.10.21"]
+[Round "7.18"]
+[White "Stupak, Kirill"]
+[Black "Abdusattorov, Nodirbek"]
+[Result "0-1"]
+[ECO "E20"]
+[WhiteElo "2564"]
+[BlackElo "2395"]
+[PlyCount "74"]
+[EventDate "2016.10.15"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+
+1. c4 Nf6 2. d4 e6 3. g3 d5 4. Bg2 Bb4+ 5. Nc3 O-O 6. Nf3 dxc4 7. O-O Nc6 8. e3
+Rb8 9. Qe2 b5 10. Rd1 Be7 11. Ne5 Nxe5 12. dxe5 Nd7 13. Bc6 a6 {Stupak chose
+to play:} {[%tqu "En","Think outside the box. You have to CREATE tactic here.
+What is the only move that White has to gain an advantage using a tactical
+plan.","","","f2f4","",10,"d1d2","with a tactical threat. Black must play",0]}
+14. f4 {which is not quite accurate.} ({Computer finds a move like} 14. Rd2 $3
+{with a tactical threat. Black must play} b4 ({Just to show what the threat is:
+} 14... h6 15. Bxd7 Bxd7 16. Qd1 {wins the bishop.}) ({Note that -- if} 14...
+Qe8 {Black walks into yet another pin!} 15. Qd1 Rb6 16. Bxd7 Bxd7 17. Rxd7 Bd6
+18. exd6 Qxd7 19. dxc7 Qxc7 20. Qe2 $14) 15. Ne4 c3 16. Rd4 (16. bxc3 bxc3 17.
+Nxc3 Bb4 $11) 16... Rb6 17. Bxd7 Bxd7 18. Qd1 f5 19. exf6 Bd6 20. bxc3 $16)
+14... Rb6 15. Qg2 $2 (15. Bg2 Bb7 16. a4 $15) 15... b4 16. Na4 {[%tqu "En",
+"Black to play. Can you find the accurate continuation to unbalance the game?
+You will not get a mterial advantage, but your development advantage will win
+you the game.","","","b6c6","Cute and accurate.",10]} Rxc6 $1 {Cute and
+accurate.} 17. Qxc6 Nxe5 18. Rxd8 Nxc6 19. Rd1 $17 {Materially equal. But
+Black is ahead in development.} e5 20. e4 Bg4 21. Rd5 Be6 22. Rd1 Bg4 23. Rd5
+Be6 24. Rd1 Nd4 25. fxe5 Nf3+ 26. Kg2 Nxe5 27. Bf4 f6 28. Be3 Nd3 29. b3 f5 30.
+bxc4 fxe4 31. Rd2 Bxc4 32. Rad1 Bb5 33. Nb2 c5 34. Rc2 Nxb2 35. Rxb2 Bd3 36. a3
+a5 37. axb4 axb4 {And White decided to call it a day. A dominating performance
+by the youngster.} 0-1
+

@@ -1,0 +1,215 @@
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.13"]
+[Round "2.1"]
+[White "Hou, Yifan"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "2652"]
+[BlackElo "2795"]
+[PlyCount "50"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 e5 4. e3 Nf6 5. d4 e4 6. d5 exf3 7. dxc6 bxc6 8.
+Qxf3 d5 9. cxd5 Bg4 10. Qf4 cxd5 11. Bb5+ Bd7 12. O-O Be7 13. Qa4 Rb8 14. Bxd7+
+Qxd7 15. Qxd7+ Kxd7 16. b3 Rhc8 17. Ba3 c4 18. Bxe7 Kxe7 19. Rfc1 a5 20. Kf1
+cxb3 21. axb3 Rc5 22. Ne2 Rxc1+ 23. Nxc1 Rb5 24. Ne2 Rxb3 25. Nd4 Rb2 1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.13"]
+[Round "2.2"]
+[White "Nakamura, Hikaru"]
+[Black "Radjabov, Teimour"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2786"]
+[BlackElo "2710"]
+[PlyCount "36"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 c6 7. Qc2 b6 8. Ne5
+Bb7 9. O-O Nbd7 10. Bc3 O-O 11. Nd2 Nxe5 12. dxe5 Nd7 13. cxd5 cxd5 14. e4 Nc5
+15. exd5 Bxd5 16. Ne4 Nxe4 17. Bxe4 Bxe4 18. Qxe4 Qc7 1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.13"]
+[Round "2.3"]
+[White "Adams, Michael"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[WhiteElo "2747"]
+[BlackElo "2785"]
+[PlyCount "58"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 bxc6 5. O-O Bg7 6. Re1 Nh6 7. c3 O-O 8.
+h3 f5 9. e5 Nf7 10. d4 cxd4 11. cxd4 c5 12. dxc5 Bb7 13. Nc3 e6 14. Be3 Rb8 15.
+Bd4 h5 16. h4 Bxf3 17. Qxf3 Qxh4 18. Rad1 g5 19. g3 Qh3 20. b3 g4 21. Qg2 Ng5
+22. Qxh3 Nxh3+ 23. Kg2 Ng5 24. Rh1 Nf3 25. Rxh5 Nxd4 26. Rxd4 Bxe5 27. Rxd7
+Bxc3 28. Rg5+ Kh8 29. Rh5+ Kg8 1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.13"]
+[Round "2.4"]
+[White "Ding, Liren"]
+[Black "Inarkiev, Ernesto"]
+[Result "1-0"]
+[ECO "A20"]
+[WhiteElo "2773"]
+[BlackElo "2727"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[PlyCount "173"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 c6 4. Nf3 (4. d4 {is the main line by quite a margin,
+but not the only move} Bb4+ {is one of the many lines black has tried recently.
+}) 4... e4 5. Nd4 d5 6. d3 $5 {almost inexistent} (6. cxd5 Qxd5 (6... cxd5 7.
+d3 {is already dubious for Black's structure.}) 7. Nc2 Qh5 $1 {with complex
+play, like Sviderl-Wang Hao from last year.}) 6... exd3 7. cxd5 $5 Bb4+ 8. Nc3
+c5 9. Nb3 c4 10. Nd2 {Certainly an unusual position. The White knight has
+already played fouro times to land on d2, while Black has pushed his pawns
+forward! It's still hard to asses the position.} O-O 11. O-O (11. Nxc4 {
+is the computer brave move.}) 11... Bxc3 12. bxc3 Bg4 13. f3 dxe2 {after this
+Black is worse, but I haven't found a clear improvement on his previous play.
+Either the line is bad or he has to go for the crazy 13...Nxd5.} (13... Nxd5 $5
+14. fxg4 Nxc3 15. Qe1 Nxe2+ 16. Kh1 Nc6 {is quite weird to evaluate. Even if
+Black allows Ba3 x f8 the position with so many passed pawns is not entirely
+clear.} (16... c3 $5)) 14. Qxe2 Bf5 15. Nxc4 Qxd5 16. Rd1 Qb5 17. a4 Qa6 {
+Computers already evaluate this as much better for White. The reason is the
+pair of bishops and the superior development that White has.} 18. Bf1 (18. Ba3
+$1 Re8 19. Qf1 {is a similar idea than the game but with better execution})
+18... Be6 19. Nd6 Qxe2 20. Bxe2 b6 21. Nb5 Bb3 22. Rd6 Nbd7 23. a5 Rfc8 24. Kf2
+h6 {Black is simply getting tortured in this position.} 25. Be3 Ne5 26. Bd4 Nc4
+27. Rxf6 $1 {A beautiful combination.} gxf6 28. Bxc4 Bxc4 (28... Rxc4 29. axb6
+{is winning for White without question}) 29. Nd6 bxa5 (29... Rc6 30. Nxc4 Rxc4
+31. axb6 {is again simply unholdable.}) 30. Nxc8 Rxc8 31. Rxa5 {The opposite
+colored bishop endgame is very unpleasant for Black. With perfect play it's
+probably a draw, but that's almost impossible to do in these circumstances} Re8
+32. g4 a6 33. Rc5 Bd3 34. Bxf6 Re6 35. Bd4 Kf8 36. h4 Ke8 37. Rc8+ Kd7 38. Rf8
+Ke7 39. Bc5+ Kf6 40. Rh8 Kg7 41. Bd4+ f6 42. Rd8 Bc4 43. Rd7+ Kg8 44. Ra7 Bd3
+45. Kg3 Rc6 46. h5 Bc2 47. f4 Bd1 48. Kh4 Rd6 49. Ra8+ Kf7 50. Rh8 Kg7 51. Rc8
+Kf7 52. Rc7+ Kg8 53. Rc5 $6 (53. f5 {would have allowed a quick Be3-xh6 and
+there is nothing Black can do about it.}) 53... Kf7 54. g5 fxg5+ 55. fxg5 hxg5+
+56. Kxg5 Bc2 57. Rc7+ Ke6 58. h6 Rd5+ 59. Kg4 Rd7 {Black has hope again} 60.
+Rc6+ Rd6 61. Rc7 Rd7 62. Rc5 Rd5 63. Rc8 a5 64. Re8+ Kd7 $2 (64... Kf7 {
+keeping the king close to the kingside for now was a better alternative.} 65.
+Ra8 Bd1+ 66. Kg3 Rg5+ 67. Kf2 Rh5 {and Black doesn't lose his a-pawn.}) 65. Ra8
+a4 (65... Bd1+ 66. Kf4 Bc2 67. h7 $18) 66. h7 Bxh7 67. Ra7+ Kc6 68. Rxh7 {
+Black's a-pawn is not enough. The rest is easy.} Ra5 69. Rh6+ Kd7 70. Kf4 a3
+71. Rh1 a2 72. Ra1 Kc6 73. Ke4 Kb5 74. Kd3 Ra8 75. Kc2 Kc4 76. Kb2 Rb8+ 77.
+Kxa2 Kd3 78. Rh1 Kc2 79. Ka3 Kd3 80. Rh5 Rb1 81. Ka4 Rb8 82. Rb5 Ra8+ 83. Kb4
+Rc8 84. Rb7 Rc4+ 85. Kb5 Rc8 86. Bg7 Rd8 87. c4 1-0
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.13"]
+[Round "2.5"]
+[White "Gelfand, Boris"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2724"]
+[BlackElo "2772"]
+[PlyCount "43"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1. Nf3 d5 2. d4 Bf5 3. c4 e6 4. Nc3 Nf6 5. Nh4 Bb4 6. cxd5 Qxd5 7. e3 c5 8.
+Bb5+ Nc6 9. O-O Qd7 10. Nxf5 exf5 11. Ne2 cxd4 12. Nxd4 Bc5 13. Nxc6 bxc6 14.
+Qxd7+ Kxd7 15. Rd1+ Kc7 16. Bc4 Rhd8 17. Bd2 Nd5 18. Ba5+ Bb6 19. Bxd5 Rxd5 20.
+Rxd5 cxd5 21. Bc3 g5 22. Rd1 1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.13"]
+[Round "2.6"]
+[White "Svidler, Peter"]
+[Black "Salem, A.R. Saleh"]
+[Result "1/2-1/2"]
+[ECO "A20"]
+[WhiteElo "2755"]
+[BlackElo "2633"]
+[PlyCount "31"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1. c4 e5 2. g3 d6 3. Bg2 f5 4. d4 Be7 5. Nc3 Nf6 6. Nf3 e4 7. Ng5 c6 8. O-O O-O
+9. f3 d5 10. cxd5 Nxd5 11. Nh3 exf3 12. Bxf3 Be6 13. Nf4 Nxf4 14. Bxf4 Na6 15.
+e4 Nb4 16. a3 1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.13"]
+[Round "2.7"]
+[White "Grischuk, Alexander"]
+[Black "Tomashevsky, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[WhiteElo "2750"]
+[BlackElo "2696"]
+[PlyCount "23"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 Bc5 6. c3 d6 7. O-O Ba7 8. Re1
+O-O 9. h3 Ne7 10. Nbd2 Ng6 11. Nf1 c6 12. Ng3 1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.13"]
+[Round "2.8"]
+[White "Vallejo Pons, Francisco"]
+[Black "Harikrishna, Pentala"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[WhiteElo "2710"]
+[BlackElo "2750"]
+[PlyCount "163"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. d4 Be7 5. Bg2 O-O 6. O-O dxc4 7. Ne5 Nc6 8.
+Bxc6 bxc6 9. Nxc6 Qe8 10. Nxe7+ Qxe7 11. b3 Rd8 12. bxc4 c5 13. Ba3 Qc7 14.
+Bxc5 Ne4 15. Qb3 Bb7 16. Qa3 Rdc8 17. Rd1 e5 18. Nc3 Nxc3 19. Qxc3 exd4 20.
+Bxd4 Qc6 21. f3 Qxc4 22. Qxc4 Rxc4 23. Rac1 Ba6 24. Kf2 h5 25. a3 f6 26. Rxc4
+Bxc4 27. Rc1 Bf7 28. h3 a5 29. Rc5 a4 30. Bc3 Be8 31. g4 hxg4 32. hxg4 Ra7 33.
+g5 Kf7 34. e4 Bd7 35. Ke3 Rb7 36. Bb4 Ra7 37. f4 fxg5 38. Rxg5 g6 39. Rc5 Ra6
+40. Rc7 Ke8 41. Kd4 Kd8 42. Rc1 Rc6 43. Bc5 Be6 44. Rh1 Bb3 45. Rh7 Ke8 46.
+Re7+ Kd8 47. Rh7 Ke8 48. Re7+ Kd8 49. Rg7 Ke8 50. e5 Bf7 51. Rh7 Bb3 52. Re7+
+Kd8 53. Rg7 Ke8 54. Bd6 Bf7 55. Bb4 Bb3 56. Ke4 Kd8 57. Kf3 Be6 58. Be7+ Kc8
+59. Bb4 Bf5 60. Ra7 Rc4 61. Rxa4 Kb7 62. Ra5 Kb6 63. Kg3 Be6 64. Ra8 g5 65.
+fxg5 Rg4+ 66. Kf2 Rxg5 67. Rb8+ Kc6 68. Bd6 Rg4 69. Re8 Kd5 70. Kf3 Rh4 71. Rb8
+Bd7 72. Rb1 Bc6 73. Ke3 Re4+ 74. Kd3 Rd4+ 75. Kc3 Rc4+ 76. Kb2 Ba4 77. Re1 Rc2+
+78. Kb1 Rd2 79. Kc1 Rc2+ 80. Kb1 Rd2 81. Kc1 Rc2+ 82. Kb1 1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.13"]
+[Round "2.9"]
+[White "Hammer, Jon Ludvig"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2621"]
+[BlackElo "2751"]
+[PlyCount "86"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 c6 5. Qd2 b5 6. e5 Ng4 7. exd6 Nxe3 8. Qxe3
+Qxd6 9. O-O-O Bg7 10. g3 Nd7 11. Bg2 Nb6 12. Qf3 Bd7 13. Ne4 Qc7 14. Nc5 Rc8
+15. h4 Na4 16. Nxd7 Qxd7 17. h5 O-O 18. hxg6 hxg6 19. Ne2 Qd6 20. c3 b4 21. c4
+c5 22. b3 Nc3 23. Nxc3 bxc3 24. Qxc3 Bxd4 25. Qd2 Qa6 26. Kb1 Rb8 27. g4 Bg7
+28. g5 Qxc4 29. Bd5 Qg4 30. Rhe1 e6 31. Be4 c4 32. Qe3 cxb3 33. axb3 Rb4 34.
+Rd3 Rfb8 35. f3 Qg2 36. Re2 Qh1+ 37. Re1 Qh2 38. Re2 Qe5 39. Ra2 a5 40. Kc2 a4
+41. Rxa4 Rxa4 42. bxa4 Qa1 43. Rd2 Qb1# 0-1
+

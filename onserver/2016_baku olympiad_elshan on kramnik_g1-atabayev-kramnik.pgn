@@ -1,0 +1,79 @@
+[Event "42nd Olympiad Baku 2016 Open"]
+[Site "Baku"]
+[Date "2016.09.03"]
+[Round "2.2"]
+[White "Atabayev, Yusup"]
+[Black "Kramnik, Vladimir"]
+[Result "0-1"]
+[ECO "C65"]
+[WhiteElo "2453"]
+[BlackElo "2808"]
+[Annotator "Elshan Moradiabadi"]
+[PlyCount "78"]
+[EventDate "2016.??.??"]
+[EventCountry "AZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[WhiteTeam "Turkmenistan"]
+[BlackTeam "Russia"]
+[WhiteTeamCountry "TKM"]
+[BlackTeamCountry "RUS"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {(00:00)} e5 {(00:00)} 2. Nf3 {(00:00)} Nc6 {(00:00)} 3. Bb5 {(00:44)}
+Nf6 {(00:01) And here we have Kramnik with his legendary, nowadays infamous,
+"Berlin Defence". Chess fans remember how Kramnik played this in every single
+game in this opening against Kasparov's 1.e4 in the 2000 match. Ever since,
+Berlin's popularity has increased among serious players. There is a lot to
+talk about in the Berlin Defence, from its reputation among GMs to the boredom
+it causes among fans, when they yawn "just another dull draw" as soon as it
+appears on the board. Nevertheless, let us focus on Kramnik for now!} 4. Bxc6 {
+( 00:33)} dxc6 {(00:36)} 5. d3 {(00:05) A rare choice by white.} Bd6 {(01:45)}
+6. h3 {(02:51)} Be6 {(03:02)} 7. Nc3 {(02:43)} Qe7 {(03:40) After some thought,
+Kramnik decides to castle queenside. He keeps his options open in case he gets
+a chance to play for a win.} 8. Qe2 {(07:03)} O-O-O {(02:09)} 9. Bd2 {(01:37)}
+h6 $5 {(04:29) A multi-purpose move: it prevents any Ng5 while sending a
+signal to the opponent that he is ready to face short castling with g5.} 10.
+O-O-O {(02:34)} (10. O-O g5 {(#)}) 10... Kb8 {(02:50)} 11. Kb1 {(02:39)} Rhe8 {
+(04:00)} 12. g4 {(06:16)} Bc8 $5 {(04:21) It is funny that this move is not
+among the engines' favorite moves. Nevertheless, it has a very deep concept
+which experts and club players can learn a lot from. Kramnik takes his time to
+regroup his minor pieces to launch an attack on the queenside. For this
+purpose, he begins by taking away his light-squared bishop from the way of
+other minor pieces.} 13. Rdg1 {(#) (02:22)} {[%tqu "En","Black now has a
+typical, but strong maneuver. Can you find it? Black to play.","","","f6d7","
+(02:58) A strong typical maneuver. The knight will head to c5 and from there,
+after which it will head to a4 for offense or e6 for consolidation, depending
+on what the game calls for.",10]} Nd7 $1 {(02:58) A strong typical maneuver.
+The knight will head to c5 and from there, after which it will head to a4 for
+offense or e6 for consolidation, depending on what the game calls for.} 14. Nd1
+{(00:20)} Nc5 {(04:39)} 15. Ne3 {(00:15)} Ne6 {(03:18)} 16. Nf5 {(04:36)} Qf8 {
+(04:11)} 17. Qe1 {(05:55)} f6 {(03:08)} 18. h4 {(02:50)} (18. Nxd6 cxd6 19. h4
+Qf7 20. Qe2 d5 21. g5 h5 $1 {And light squares are more important that the
+black squares in this position. Unfortunately for White, he had given up on
+his light-squared bishop as early as move four!}) 18... Bc5 $1 {(01:25)
+Kramnik comes up with an interesting and ambitious set-up. The way he
+gradually improves his position is a crash-course on "how to put one's pieces
+on the right squares".} 19. h5 $6 {(04:20) this move hinders White's
+development on the kingside and gives Kramnik enough time to gradually gain
+ground in the center and queenside.} Qf7 {(07:26)} 20. Rg3 {(06:41)} b5 $5 {
+(03:20)} 21. Ng1 {(01:52)} Bb6 {(04:41) Now we see what Kramnik's idea is: he
+is preparing to play c5-c4.} 22. Ne2 {(01:48)} c5 {(01:05)} 23. Rf1 {(05:37)}
+Bb7 {(03:31) The two mighty bishops are eyeing White's center and Black is
+ready to open up "everything".} 24. Nc1 {(05:39)} Rd7 $1 {(05:06) Now it is
+time to prepare the rooks:} 25. Nh4 {(08:56)} Red8 {(01:58)} 26. Be3 {(03:10)}
+c4 $1 {(01:36) Ok, every black piece is ready, Kramnik does not spend too much
+time deciding whether he needs to open up the game or not!} 27. Bxb6 {(01:53)}
+axb6 {(00:57)} 28. Ng6 $2 {(00:44) This knight does not go anywhere.} Nc5 {
+(02:32)} 29. Qe2 {(01:37)} cxd3 {(05:52)} 30. cxd3 {(00:04) White's pawn
+structure is shattered.} Rd4 {(04:11)} 31. f4 {(02:14)} exf4 {(09:48)} 32. Nxf4
+{(00:06) White lost a lot of time playing f4, which only exposes his weakened
+pawn-structure to further damage!} b4 {(00:38)} 33. Re3 {(03:19)} Qd7 {(02:03)}
+34. Qf3 {(00:54)} Qa4 {(01:47) Now, it is time for a mate attack.} 35. Nfe2 $4
+{(03:33) A final blunder but White was already strategically lost.} Rxd3 $1 {
+(01:57) This did not take much effort from Kramnik.} 36. Nxd3 {(01:41)} Rxd3 {
+(00:09)} 37. Ng3 {(00:11)} (37. Rxd3 $4 Bxe4) 37... Ba6 $1 {(01:04) Since, e4
+is protected, the bishop needs a new diagonal to enter the 'show'.} 38. b3 {
+(03:08)} Qa3 {(00:22)} 39. Rd1 {(00:25) A last blunder in a losing position.}
+Na4 $1 {(00:14)} (39... Na4 40. bxa4 Rxe3) 0-1
+

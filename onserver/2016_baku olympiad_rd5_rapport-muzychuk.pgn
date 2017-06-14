@@ -1,0 +1,64 @@
+[Event "42nd Olympiad Baku 2016 Women"]
+[Site "Baku"]
+[Date "2016.09.06"]
+[Round "5.1"]
+[White "Rapport, Jovana"]
+[Black "Muzychuk, Anna"]
+[Result "0-1"]
+[ECO "B38"]
+[WhiteElo "2318"]
+[BlackElo "2550"]
+[Annotator "GM Elshan Moradiabadi"]
+[PlyCount "56"]
+[EventDate "2016.??.??"]
+[EventType "team-tourn"]
+[EventCountry "AZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[WhiteTeam "Serbia"]
+[BlackTeam "Ukraine"]
+[WhiteTeamCountry "SRB"]
+[BlackTeamCountry "UKR"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. c4 {(0s) This game and its seemingly unexpected finish had a crucial effect
+on the final result of the match between Serbia and Ukraine.} c5 {(0s)} 2. Nf3
+{(0s)} g6 {(0s)} 3. e4 {(314s) Rapport forces the game into a Maroczy-bind.}
+Bg7 {(23s)} 4. d4 {(5s)} cxd4 {(30s)} 5. Nxd4 {(7s)} Nc6 {(21s)} 6. Be3 {(115s)
+} Nf6 {(38s)} 7. Nc3 {(59s)} d6 {(55s)} 8. Be2 {(213s)} O-O {( 18s)} 9. Rc1 $5
+{(447s) A rare choice in this very popular opening.} (9. O-O {is more common
+here.}) 9... Bd7 {(360s)} 10. Qd2 {(74s)} Nxd4 {(218s)} 11. Bxd4 {(33s)} Bc6 {
+(74s)} 12. f3 {(18s)} a5 {(35s) The players are following the general plans
+for both sides. However, I started to doubt whether or not it was better for
+White to keep her rook on a1 to see which plan Black would adopt.} 13. Be3 {
+(1051s)} Nd7 {(503s)} 14. g4 $6 {(522s) Not a very good novelty.} a4 {(886s)}
+15. h4 {(208s)} Qa5 $6 {(640s) Muzychuk's reaction is too optimisitc.} (15...
+f5 {is probably a better choice here.}) 16. h5 {(1127s)} Qe5 {(559s)} 17. Rh3 {
+(915s)} Nc5 {(493s)} 18. Rc2 {(98s)} a3 {(974s)} 19. b3 {(7s)} f5 {(26s) Anna
+Muzychuk played a very risky continuation and engines do not seem to be fond
+of it. Although, they do not give so much advantage to white either. I assess
+this position as unclear and in game like this, anything can happen.} 20. h6 {
+(284s)} {[%tqu "En","Move the bishop, or play something else? But what if not
+the retreat?","","","f5g4","(321s) Good dynamic intuition. Black's
+compensation for the sacrificed bishop is going to be very unpleasant.",10]}
+fxg4 $1 {(321s) Good dynamic intuition. Black's compensation for the
+sacrificed bishop is going to be very unpleasant.} 21. hxg7 {(4s)} gxh3 {(5s)}
+22. gxf8=Q+ {(5s)} Rxf8 {(4s)} 23. f4 $4 {(79s) This loses on the spot.} (23.
+Qd1 $1 Qh2 24. Rc1 (24. Kd2 Rxf3) 24... Qg2 25. Kd2 Rxf3 26. Qg1 Rg3 27. Qxg2
+hxg2 {with a rich position!}) {[%tqu "En","How did Black continue here?","","",
+"c5e4","(387s) A beautiful shot that wins by force! Great imagination to see
+this and carry the calculations to the end.",10]} 23... Nxe4 $3 {(387s) A
+beautiful shot that wins by force! Great imagination to see this and carry the
+calculations to the end.} 24. fxe5 {(253s)} {[%tqu "En","Black cannot make any
+mistakes now. Black to play and win.","","","h3h2","(59s) Brilliant!! We have
+a second queen sacrifice, although admittedly Black promotes her pawn the next
+move!",10]} h2 $3 {(59s) Brilliant!! We have a second queen sacrifice,
+although admittedly Black promotes her pawn the next move!} 25. Qd4 {(3s)} (25.
+Bf3 Nxd2 26. Kxd2 Bxf3 {was another way to finish the game.}) 25... h1=Q+ {
+(267s)} 26. Bg1 {(4s)} {[%tqu "En","Black is almost there, but a slip and it
+could all swing the other way. Black to play and win.","","","f8f2","(29s)
+Curtains fall.",10]} Rf2 $1 {(29s) Curtains fall. A deadly and forcing
+interference shot.} 27. Nxe4 {(333s)} Qxg1+ {(10s)} 28. Kd2 {(5s)} Rxe2+ $1 {
+(10s) A spectacular attacking finish by Anna Muzychuk.} ({After} 28... Rxe2+ $1
+29. Kd3 Bxe4+ 30. Kxe2 Qxd4) 0-1
+

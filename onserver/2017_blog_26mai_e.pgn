@@ -1,0 +1,34 @@
+[Event "1. Bundesliga 2016/2017"]
+[Site "St. Veit/Glan"]
+[Date "2017.03.24"]
+[Round "6.3"]
+[White "Schneider, Ilja"]
+[Black "Lendwai, Reinhard"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2518"]
+[BlackElo "2367"]
+[Annotator "Reeh,Oliver"]
+[PlyCount "75"]
+[EventDate "2017.??.??"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Bb4+ 5. Bd2 Bxd2+ 6. Qxd2 O-O 7. Bg2 c6 8.
+O-O Nbd7 9. Rc1 b6 10. a4 Ba6 11. Na3 Rc8 12. b4 Ne4 13. Qb2 Qf6 14. b5 Bb7 15.
+bxc6 Bxc6 16. Nb5 Bxb5 17. Qxb5 Qe7 18. cxd5 Nc3 19. Qd3 Nxd5 20. Rc4 Nb4 21.
+Qc3 Nd5 22. Qb3 Qd6 23. Rac1 Ne7 24. Ng5 Nf6 25. e4 Qd7 26. e5 Rxc4 27. Rxc4
+Nfd5 28. Qc2 g6 29. Bxd5 Nxd5 30. Ne4 Kg7 31. Nd6 a6 32. h4 h6 33. h5 g5 34.
+Ne4 Rb8 {Sometimes a single well-placed piece can suffice to hold a game -
+like for example Black's magnificent knight in the diagram position. Yet here
+the case is different. White wins thanks to his space advantage on the
+kingside, marked by pawns on the 5th rank...} {[%tqu "En","White to play and
+win.","Target Black's most important defender!","","e4f6","",10]} 35. Nf6 $1 {
+[%csl Gh7][%cal Gc2h7,Gf6d7,Gf6d5] The knight is Black's most important
+defender, so it must be eliminated!} Nxf6 {[%tqu "En","Continuation?","","",
+"c4c7","The rook attacks the black queen, taking full effect on the 7th rank...
+",10]} 36. Rc7 $1 {[%cal Gc7d7] The rook attacks the black queen, taking full
+effect on the 7th rank...} Qd8 {White's game continuation would have followed
+also after any other queen move.} {[%tqu "En","And White's final move,
+please!","","","c2g6","",10]} 37. Qg6+ $1 {[%csl Rf7,Gh5][%cal Gc7g7,Gg6g7,
+Gh5g6] That's it! Thanks to his pawn h5 White can use the pin of the f-pawn to
+plonk his queen in front of Black's king. Game over!} Kh8 38. Rxf7 1-0
+

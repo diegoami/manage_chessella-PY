@@ -1,0 +1,59 @@
+[Event "FIDE Moscow Grand Prix 2017"]
+[Site "Moscow"]
+[Date "2017.05.16"]
+[Round "5"]
+[White "Giri, Anish"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2785"]
+[BlackElo "2786"]
+[Annotator "A. Silver"]
+[PlyCount "60"]
+[EventDate "2017.??.??"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:05]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:03]} 3. Bc4 {[%emt 0:00:00]} Bc5 {[%emt 0:00:15]} 4. O-O {[%emt 0:
+00:00]} Nf6 {[%emt 0:00:11]} 5. d3 {[%emt 0:00:00]} d6 {[%emt 0:00:33]} 6. c3 {
+[%emt 0:00:03]} a6 {[%emt 0:01:40]} 7. Re1 {[%emt 0:01:16]} O-O {[%emt 0:00:17]
+} 8. h3 {[%emt 0:00:12]} Ba7 {[%emt 0:00:52]} 9. Bb3 {[%emt 0:00:13]} Re8 {
+[%emt 0:05:13]} 10. Nbd2 {[%emt 0:00:43]} Be6 {[%emt 0:01:37]} 11. Bc2 {
+[%emt 0:00:10]} h6 {[%emt 0:01:13]} 12. Nf1 {[%emt 0:00:17]} d5 {[%emt 0:00:47]
+} 13. exd5 {[%emt 0:00:22]} Bxd5 {[%emt 0:05:02]} 14. Ng3 {[%emt 0:01:00]} Qd7
+{[%emt 0:07:12]} 15. Be3 {[%emt 0:03:26]} (15. Nh4 Rad8 16. Nhf5 Kh8 17. d4
+exd4 18. Nxg7 Rxe1+ 19. Qxe1 Kxg7 20. Bxh6+ Kh8 21. Qd2 Rg8 22. Qf4 Qd6 23. Qh4
+Qxg3 24. fxg3 {1-0 (26) Giri,A (2773)-Anand,V (2804) Stavanger 2015}) 15...
+Bxe3 {[%emt 0:03:57]} 16. Rxe3 {[%emt 0:00:47] It should be noted that not
+only is this all theory, with plenty of grandmaster examples to compare notes
+with, but White's track record has been stellar.} Re7 {[%emt 0:14:30]} 17. Nh4
+{[%emt 0:01:42]} g6 {[%emt 0:02:32]} 18. c4 {[%emt 0:00:16]} Be6 {[%emt 0:00:
+43]} 19. Qf3 {[%emt 0:13:14]} Kg7 {[%emt 0:05:48]} 20. Ba4 {[%emt 0:00:13]} Qd4
+{[%emt 0:05:46]} 21. Bxc6 {[%emt 0:02:54]} bxc6 {[%emt 0:00:18]} 22. Qxc6 {
+[%emt 0:00:16]} Rae8 {[%emt 0:06:06]} 23. Nf3 {[%emt 0:05:00]} Qxb2 {[%emt 0:
+00:55]} 24. Rae1 {[%emt 0:04:43]} Qxa2 {[%emt 0:01:46]} 25. Nxe5 {[%emt 0:13:
+54] The Playchess PGN shows that Giri spent nearly 14 minutes here, trying to
+decide the best way to proceed. Still, the engines say this was a mistake, and
+White went from better to slightly worse.} ({Trying to make sense of the
+engine's evaluations is not always straightforward. Sometimes the matter is
+one of clear positional aspects, and other times it spouts a main line based
+on very deep calculations that have one wondering how this could be forced.
+This is one such case, though quite interesting. White needed to resist the
+temptation of grabbing the pawn just yet, and play} 25. Qc5 $1 Qb2 {and now
+taking is correct with} 26. Nxe5 Bc8 27. Qa5 Ng8 {The engine's line showed the
+unflinching} 28. Kh2 $1 {which could easily go unnoticed.} Qb6 (28... Qxf2 $2 {
+[%tqu "En","What happens if Black takes the pawn on f2? Can you see how he is
+punished?","","","a5a1","",10]} 29. Qa1 $1 {and the threat of discovered check
+will allow White to nab the queen.} f6 (29... Kh7 $2 30. Rf3 Qc2 31. Nxf7 {
+[%cal Ga1h8]}) 30. R1e2 $1 Qf4 31. Re4 Qg5 32. h4 {the trap is closed and the
+queen is lost.}) 29. Qc3 f6 30. c5 Qb5 31. Nf3 Rxe3 32. fxe3 a5 33. e4) 25...
+Bd5 {[%emt 0:06:14]} 26. cxd5 {[%emt 0:17:41]} Rxe5 {[%emt 0:00:38]} 27. Rxe5 {
+[%emt 0:07:19] The players called it a day in view of} Rxe5 28. Rxe5 Qa1+ 29.
+Nf1 Qxe5 30. Qxa6 Nxd5 {and the position's life has been sucked out of it.}
+1/2-1/2
+

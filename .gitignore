@@ -46,17 +46,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-input/
-onserver/
+
 environment_data.py
 *.pyc
 __pycache__/
 .idea/
-chessbase_links/
-from_cbase/
-from_cbase_raw/
-uncommented/
-toprocess/
-processed/
-work/
 

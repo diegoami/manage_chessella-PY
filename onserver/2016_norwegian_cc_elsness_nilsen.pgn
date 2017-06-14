@@ -1,0 +1,24 @@
+[Event "Norwegian Championships (Elite group)"]
+[Site "?"]
+[Date "2016.07.15"]
+[Round "8"]
+[White "Elsness, Frode"]
+[Black "Nilsen, Joachim B."]
+[Result "0-1"]
+[ECO "D20"]
+[WhiteElo "2439"]
+[BlackElo "2407"]
+[SetUp "1"]
+[FEN "6B1/6p1/3P2kp/2q1n3/1b2p1b1/1Q2P1P1/1P5P/R5K1 w - - 0 41"]
+[PlyCount "20"]
+
+41. Be6 $2 {First move after the time control and Elsness´ tactical radar
+fails him.} (41. d7 Bxd7 42. Bd5 Bf5 43. Kh1 {And Stockfish thinks white is
+still alive.}) 41... Nd3 $1 {Cutting of the protection of the vital e3 square
+and burying Elsness´ hope of making his third and final GM norm.} 42. Bxg4
+Qxe3+ 43. Kg2 Nf4+ $1 {Keeping the dangerous pawn on e4 and also making more
+damage to whites´s pawn structure.} (43... Ne1+ 44. Rxe1 Qxb3 45. Rxe4 Bxd6
+46. Re2 {Black is still winning, but the road to victory is made unnecessary
+longer.}) 44. gxf4 Qxb3 45. d7 Qxb2+ 46. Kh3 Qc3+ 47. Kg2 Qd2+ 48. Kh1 Ba5 49.
+Rf1 e3 50. Rd1 e2 $1 0-1
+

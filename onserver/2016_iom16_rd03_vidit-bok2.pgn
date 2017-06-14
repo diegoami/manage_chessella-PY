@@ -1,0 +1,49 @@
+[Event "chess.com IoM Masters"]
+[Site "Douglas ENG"]
+[Date "2016.10.03"]
+[Round "3.4"]
+[White "Vidit, Santosh Gujrathi"]
+[Black "Bok, Benjamin"]
+[Result "1-0"]
+[ECO "D90"]
+[Annotator "Manuel Weeks"]
+[PlyCount "63"]
+[EventDate "2016.10.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. h4 dxc4 6. e4 c5 7. d5 b5 8. h5 O-O
+9. hxg6 fxg6 10. e5 Ng4 11. d6 e6 {[%tqu "En","Ok, this is still theory but it
+is still the best move for white to keep the attacking initiative with him!",
+"","","h1h7","",10]} 12. Rxh7 Rf5 13. Rh3 Bb7 {Amazingly enough this is the
+novelty, the servers give 16 minutes here for Benjamin Bok here so it maybe
+have been worked out over the board. It seems an unfortunate choice since
+Vidit kept moving fast and seemingly still in his preparation.} 14. Nxb5 Qa5+
+15. Nc3 Nxe5 16. Nxe5 Rxe5+ 17. Be3 Nd7 {Who would you rather be? As a
+spectator I can only try and calculate a bit until I ask the all-powerful
+Komodo what it thinks, “White is better” is the evaluation but I can see
+all this piece activity for the black side and you wonder whether only a
+computer would play this perfectly.} 18. Rg3 Be4 19. Bxc4 Rh5 {Black was worse
+but this seems the losing move.} {[%tqu "En","There is more then one good move
+here but still try and find the best. A small hint, it is not the most
+obvious!","","","c4e6","",0,"d1g4","",10]} 20. Bxe6+ {Sometimes there is more
+than one way to get a clear advantage, you see one good line and go for it
+instead of spending valuable time on a possible brilliancy where there could
+still be pitfalls to survive.} (20. Qg4 $3 Bxc3+ (20... Rh1+ 21. Ke2 Rxa1 22.
+Qxe6+ $18) {[%tqu "En","The real question now is what happens after 20..Bxc3+?
+Can you see the beautiful idea?","","","e1f1","Gorgeous position, how many
+times do you get to see something like this where one side (white) is
+threatening Qxe6+, Qxh5, Qxe4, bxc3 and Bxe6+ all at the same time! Amazingly
+there is no defence but to see this idea is tough to do when a good move is
+already available to you!",10]} 21. Kf1 $1 {[%cal Gg4g6,Gg4e6,Gg4e4,Gg4h5,
+Gb2c3,Gc4e6] Gorgeous position, how many times do you get to see something
+like this where one side (white) is threatening Qxe6+, Qxh5, Qxe4, bxc3 and
+Bxe6+ all at the same time! Amazingly there is no defence but to see this idea
+is tough to do when a good move is already available to you!}) 20... Kh7 21.
+Rh3 $1 {After this this is no counterplay for Black, an excellent example of
+high level preparation by the young Vidit.} Bxc3+ 22. bxc3 Qxc3+ 23. Kf1 Nf6 (
+23... Rxh3 24. Bxh3 Qd3+ 25. Qxd3 Bxd3+ 26. Kg1 {This is the best Black can
+hope for but a pawn down with white's two bishops raking the board would make
+it a thankless task.}) 24. Rc1 Qe5 25. d7 Rd8 26. Rxh5+ gxh5 27. Bh3 c4 28.
+Rxc4 Qb5 29. Qd4 Bd5 {[%tqu "En","One final small calculation that allows
+white to finish and enjoy dinner a little bit earlier! Can you see the end?",
+"","","d4f6","",10]} 30. Qxf6 $1 Bxc4+ 31. Kg1 Rxd7 32. Qf5+ 1-0
+

@@ -1,0 +1,43 @@
+[Event "Isle of Man International 2016"]
+[Site "Douglas/Isle of Man"]
+[Date "2016.10.05"]
+[Round "5"]
+[White "Illingworth, Max"]
+[Black "Bachmann, Axel"]
+[Result "1-0"]
+[ECO "B08"]
+[WhiteElo "2458"]
+[BlackElo "2641"]
+[Annotator "Manuel Weeks"]
+[PlyCount "57"]
+[EventDate "2016.??.??"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O Nc6 7. d5 Nb8 8. h3
+c6 9. a4 b6 10. Bg5 {The first new move although the position is still equal.
+Bachmann is playing slightly provocatively since he is black versus a lower
+rated player.} Bb7 11. Re1 Nbd7 12. Qd2 Rc8 13. Bf1 Re8 14. Rad1 {White has
+kept his space advantage but played rather modestly. It is hard for Black to
+make progress as both sides have improved their pieces as much as possible.
+Now the GM from Paraguay begins direct action.} cxd5 15. exd5 Rc5 {The white d
+pawn is surrounded, white has to came up with some concrete solution to the
+threat of taking on d5 or the 2641 Bachmann will take over the initiative.} 16.
+Nd4 $1 {Excellent move which required Illingworth to see what to do after the
+capture of the d-pawn.} a6 (16... Nxd5 $6 17. Ne4 $1 {[%cal Ge4d6,Ge4c5]}) 17.
+b4 (17. Nc6 {can turn out similar to the game after} Bxc6 18. dxc6 Rxc6) 17...
+Rc8 (17... Rxc3 {Maybe here it is better to bail with this exchange sacrifice
+since Black would be able to take a good central pawn as well.} 18. Qxc3 Nxd5
+19. Qd2) {[%tqu "En","White to play and gain a large advantage! You have a few
+choices. Can you make the right one?","","","d4c6","",10]} 18. Nc6 $1 Rxc6 19.
+dxc6 Bxc6 20. Bxa6 {The position has clarified to a large advantage for White.
+At some stage the white a-pawn will cause Black great pain! Bachmann tries to
+find a tactical solution and give White chances to go wrong.} Bxg2 $5 21. Kxg2
+Qa8+ 22. Nd5 e6 23. Bc4 Ne5 24. Bxf6 $1 Nxc4 25. Qd4 Bxf6 26. Qe4 (26. Qxf6
+exd5 27. Rxe8+ Qxe8 28. a5 bxa5 29. bxa5 Nxa5 30. Qxd6 {is also good.}) 26...
+Be5 {[%tqu "En","There is no doubt white is winning Do you take the
+unprotected knight on c4?","","","d5c7","",10]} 27. Nc7 d5 28. Qxe5 Qxa4 29.
+Qa1 1-0
+

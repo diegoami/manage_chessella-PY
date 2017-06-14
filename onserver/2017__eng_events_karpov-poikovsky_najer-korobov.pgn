@@ -1,0 +1,56 @@
+[Event "18th Karpov Poikovsky"]
+[Site "Poikovsky RUS"]
+[Date "2017.04.26"]
+[Round "8.3"]
+[White "Najer, Evgeniy"]
+[Black "Korobov, Anton"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2679"]
+[BlackElo "2695"]
+[Annotator "A. Silver"]
+[PlyCount "191"]
+[EventDate "2017.04.18"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2
+a6 9. dxc5 Nxc5 10. O-O-O Qa5 11. Kb1 b5 {[#]} 12. h4 {Interestingly, this
+line of the French doesn't normally see the pawns pushed just yet. Grandmaster
+play has preferred Bd3, Nd4, or Ne2. One of the reasons is that Black has not
+committed to castling just yet, and White prefers to complete his development
+and arrange for defense if need be. Black can get a mean attack going very
+quickly if White is too carefree.} (12. Bd3 Bd7 13. Bxc5 Bxc5 14. f5 Bb4 15.
+Qg5 Bxc3 16. Qxg7 O-O-O 17. bxc3 d4 18. Nxd4 Nxd4 19. cxd4 Qb4+ 20. Kc1 Rhg8
+21. Qxf7 Rxg2 22. fxe6 Qa3+ 23. Kb1 Qb4+ 24. Kc1 Qa3+ 25. Kb1 Qb4+ {1/2-1/2 
+(25) Nepomniachtchi,I (2720)-Meier,G (2654) Dortmund 2015}) 12... Bd7 13. g4 b4
+14. Ne2 Ne4 15. Qe1 Rb8 16. Nc1 Nc3+ {[#] This probably came as no surprise
+and was possibly even still within White's preparation. It looks scary, but
+since one of Black's rooks is still stuck on h8, he should not have enough to
+break White's position.} 17. bxc3 bxc3+ 18. Nb3 Rxb3+ $1 {The best move, and
+one that an attacking player such as Korobov is unlikely to miss.} 19. axb3 (
+19. cxb3 $2 {would be a tremendous mistake:} c2+ 20. Kxc2 Qxa2+ 21. Kd3 Nb4+
+22. Kd4 Qc2 $1 {and Nc6 mate.}) 19... Ba3 $1 {The deadly threat is Bb2 and Qa1
+mate. This forces White's only move:} {[%tqu "En","Black is threatening to
+mate White extra quick. How does White defend? White to play.","","","e3b6",
+"It gives up a piece, but remember that Black is down a full rook anyhow.",10]}
+20. Bb6 $1 {It gives up a piece, but remember that Black is down a full rook
+anyhow.} Qxb6 21. Qxc3 O-O 22. Ng5 Rc8 23. Qd3 g6 24. Rh2 Be7 25. Qxa6 (25. Qh3
+$1 {and the threat of h5 and hxg6 with the queen and rook battery behind wins
+by force.}) 25... Qc7 {[#]} 26. Qa1 $1 {Really beautiful move. What a cool
+shot.} Qb6 27. h5 Qg1 28. Nf3 Qxg4 29. Be2 Qxf4 30. hxg6 fxg6 31. Rdh1 {
+[%cal Gf3e5,Ga1e5,Rf4e5,Rc6e5] Notice how the queen helps protect e5 from a1!}
+h5 32. Rg1 Be8 33. Qa6 Rc7 34. Rxh5 Kg7 35. Qb6 Bd8 36. Rh4 $1 {Although the
+rook is being attacked by the bishop on d68, taking is also disastrous.} Qf7 (
+36... Bxh4 37. Qxc7+ Be7 38. Bb5 Qxf3 39. Bxc6 Qf7 40. Bxe8 Qxe8 41. Rf1 {
+and it is game over for Black.}) 37. Rhg4 Qf5 38. Qe3 d4 39. Qd2 Rb7 {
+Threatening Rxb3+ since the pawn on c2 is pinned.} 40. Qd3 Be7 41. Nxd4 Nxd4
+42. Rxd4 Bc5 43. Rf1 Qxd3 44. Rxd3 Bb5 45. Rf6 Bxd3 46. Bxd3 Bd4 47. Rxe6 Ra7
+48. Rxg6+ Kf8 49. Ba6 Bxe5 {and the endgame is a clear win now.} 50. b4 Bc3 51.
+b5 Bd4 52. Rd6 Be3 53. Kb2 Ke7 54. Rg6 Kd7 55. Kb3 Ra8 56. Kb4 Rh8 57. b6 Rh6
+58. Bb5+ Kc8 59. Ba6+ Kd7 60. Rg7+ Kc6 61. b7 Bc5+ 62. Kb3 Rh8 63. Bd3 Bd6 64.
+Be4+ Kb6 65. Rd7 Bg3 66. c3 Ka7 67. Bg2 Rh2 68. Bd5 Rh8 69. Rf7 Be5 70. Kb4 Kb6
+71. Rd7 Bg3 72. Rf7 Be5 73. Rf5 Bd6+ 74. Kb3 Re8 75. Bf3 Kc7 76. Rb5 Kb8 77.
+Rb6 Be5 78. Ra6 Kc7 79. c4 Bd4 80. Kb4 Rf8 81. Ra8 Be5 82. Kb5 Rb8 83. Bg2 Bh2
+84. Bh1 Be5 85. Bd5 Bh2 86. Ra2 Rh8 87. Ra8 Rb8 88. Ra6 Rd8 89. Be4 Re8 90.
+Rc6+ Kb8 91. Kb6 Rd8 92. c5 Bg1 93. Bf5 Bxc5+ 94. Rxc5 Rd6+ 95. Rc6 Re6 96. Bd3
+1-0
+

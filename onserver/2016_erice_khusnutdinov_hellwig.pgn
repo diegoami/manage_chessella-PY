@@ -1,0 +1,45 @@
+[Event "Erice"]
+[Site "?"]
+[Date "2016.08.02"]
+[Round "6"]
+[White "Khusnutdinov, Rustam"]
+[Black "Hellwig, Tobias"]
+[Result "1-0"]
+[ECO "A03"]
+[WhiteElo "2476"]
+[BlackElo "2187"]
+[Annotator "Khusnutdinov, Rustam"]
+[SetUp "1"]
+[FEN "r3k2r/ppqn1pp1/2pbpn1p/3p1b2/5P2/1P1PPN2/PBPNB1PP/R3QRK1 b kq - 0 10"]
+[PlyCount "36"]
+[EventDate "2016.??.??"]
+
+{After dissapointing result in previous round I decided to change something
+and started the game with 1.b3. I expect quite and long positional game, but
+suddenly...} 10... O-O-O $5 {"Oh mama mia! Does he wants to mate me? I lost
+peace of mind. g7-g5 is coming! Ok, let's block it" - that what was I thinking
+before my next move :)} 11. Kh1 g5 $5 {"Oh mama mia!" part 2. Did I blunder
+something? Ok let's check} 12. e4 dxe4 13. dxe4 Nxe4 {The only but not bad} ({
+The point of Kh1 move is that after} 13... Bg6 14. e5 {Black has no check on c5
+}) 14. Nxe4 Bxe4 15. Bxh8 Rxh8 {The position is very unclear. White's king is
+in real danger} 16. Qc3 $1 {If not this idea white would be in trouble. But,
+thanks God, they can use the exposure of black's pieces} Rg8 17. Qe3 {The key
+move} f5 {During this game my opponent shoked me minumum three times. Here is
+the last. I thought that he should take my pawn on c2 (Forced line) But he
+fould the other way} (17... Bxc2 18. fxg5 ({I think that after} 18. Qxa7 gxf4 {
+Black takes the advantage}) 18... Bf4 (18... hxg5 19. Nxg5 Bxh2 20. Nxf7 Qg3
+21. Qxg3 Bxg3) 19. Qc3 Be4 $132) 18. Qxa7 Bxf4 19. Bc4 ({I also thought about} 
+19. Bd3 {but prefed more complicated line}) 19... Rg6 (19... Re8 {look more
+natural}) 20. Rae1 {The last piece coming into the battle. Here I calmed down
+because with such active pieces white is out of any danger} g4 $2 {The first
+and fatal mistake} ({Black needs to neutralize white's queen activity, that's
+why they to play} 20... Qd8 {preparing Bb8. The position is still unclear}) 21.
+Nd4 Bxh2 (21... Qe5 22. Bxe6 Rxe6 23. Nxe6 Qxe6 24. Rxf4 Bxg2+ 25. Kxg2 Qxe1
+26. Qf2 {White should win this endgame}) 22. Qa8+ {The safe (human) way} (22.
+Rxe4 {The engine shows immediatelly} fxe4 23. Bxe6 {But I was not sure that
+black are hopeless here}) 22... Qb8 $8 (22... Nb8 $2 23. Rxe4) 23. Qxb8+ Bxb8
+24. Bxe6 Rg5 {The last chance, but white's next move is just in time} 25. Rxe4
+$1 Rh5+ 26. Kg1 Bh2+ 27. Kf2 g3+ $2 {The blunder but it changes nothing} ({
+After} 27... fxe4 28. g3 {The bishop is trapped} Kc7 29. Kg2 Ne5 30. Rf5 $18)
+28. Ke2 1-0
+

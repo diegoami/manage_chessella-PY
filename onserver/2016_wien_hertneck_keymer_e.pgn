@@ -1,0 +1,39 @@
+[Event "Vienna Chess Open 2016 Group A"]
+[Site "Grosser Festsaal im Wiener Rat"]
+[Date "2016.08.23"]
+[Round "9.5"]
+[White "Hertneck, Gerald"]
+[Black "Keymer, Vincent"]
+[Result "0-1"]
+[ECO "D17"]
+[WhiteElo "2469"]
+[BlackElo "2348"]
+[Annotator "Johannes Fischer"]
+[PlyCount "64"]
+[EventDate "2016.08.16"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6 8.
+Ne5 a5 9. g3 e6 10. Bg2 Bb4 11. O-O O-O 12. e3 Qe7 13. g4 Bg6 14. h4 h6 15.
+Nxg6 {A new move. White shatters Black's pawn structure but Black gets play on
+the f-file. In the game Black's counterplay turns out to be surprisingly
+strong.} fxg6 16. e4 e5 17. g5 hxg5 18. hxg5 Nh5 19. dxe5 Qxe5 20. Qb3+ Kh7 21.
+Ne2 Bc5 $1 {[#]Targeting White's biggest weakness: f2.} 22. Bd2 $6 ({It was
+safer to neutralize the black-squared bishop with} 22. Be3 {e.g.} Bxe3 23. Qxe3
+Nc4 24. Qc3 Qxc3 25. bxc3 Rf7 26. f4 {with a roughly equal position.}) 22...
+Rad8 23. Rad1 $2 {[#]Now Black has a hidden tactical win.} Rd7 $2 {But the
+tactical resource is so deeply hidden that Black also misses it.} ({After} 
+23... Bxf2+ $1 24. Rxf2 Qc5 {Black is winning because White cannot defend the
+rook on f2 adequately, e.g.} 25. Bf3 Nc4 26. Rc1 Rxd2 27. Rxc4 Rxf3 28. Rxc5
+Rxb3 {with a winning position for Black. However, after the move in the game
+Black is also better.}) 24. Bc3 ({According to the engines White here had to
+play} 24. Be3 {e.g.} Bxe3 25. fxe3 Rfd8 26. Nd4 {with a slight plus for Black.
+However, 24.Be3 is an engine but not a human move.}) 24... Qxg5 25. Rxd7 Nxd7
+26. Qxb7 Qg4 $1 {[#]After this strong moves which defends d7 and attacks e2
+White is lost because he cannot adequately defend e2, f2 and his king.} 27. Qa6
+Qh4 {With an attack on f2.} 28. Bd4 Bxd4 29. Nxd4 Nf4 {Threatening 30...Qg4 or
+30...Qg5.} 30. Qxc6 Ne5 31. Qc3 Ned3 32. e5 Rd8 $1 {[#]Black now threatens 33..
+.Rxd4 34.Qxd4 Ne2+ winning the queen and the knight cannot move because of ...
+Ne2+. White will lose material and therefore resigned.} 0-1
+

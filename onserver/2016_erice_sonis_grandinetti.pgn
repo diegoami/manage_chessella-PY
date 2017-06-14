@@ -1,0 +1,21 @@
+[Event "7th Terre degli Elimi A"]
+[Site "Erice"]
+[Date "2016.08.01"]
+[Round "6"]
+[White "Sonis, Francesco"]
+[Black "Grandinetti, Pietro"]
+[Result "1-0"]
+[ECO "E60"]
+[WhiteElo "2422"]
+[BlackElo "2147"]
+[SetUp "1"]
+[FEN "5rk1/2R2p1p/p2pp1p1/1b2n3/3N4/1P2P1P1/P4PBP/6K1 w - - 0 22"]
+[PlyCount "13"]
+[EventDate "2016.07.28"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+
+22. a4 $1 Bd3 23. Rc3 {[%csl Rd3][%cal Gf2f4]} Bb1 24. Rc1 Bd3 25. Rd1 $1 {
+Now the Black Bishop has nowhere to go to.} Rd8 26. f4 Ng4 27. Rxd3 e5 28. Nc6
+1-0
+

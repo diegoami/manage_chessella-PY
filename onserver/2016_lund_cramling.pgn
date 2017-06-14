@@ -1,0 +1,63 @@
+[Event "CellaVision Cup 2016"]
+[Site "Lund SWE"]
+[Date "2016.08.07"]
+[Round "7.7"]
+[White "Cramling, P."]
+[Black "Pakleza, Z."]
+[Result "1/2-1/2"]
+[ECO "A81"]
+[WhiteElo "2441"]
+[BlackElo "2495"]
+[SetUp "1"]
+[FEN "br3rk1/p1p1nnbp/3pp1p1/5p2/q1PP1P2/2BNPNP1/P2Q2BP/R1R3K1 w - - 0 21"]
+[PlyCount "7"]
+[EventDate "2016.08.05"]
+[EventType "swiss"]
+[EventRounds "8"]
+[EventCountry "SWE"]
+[SourceTitle "The Week in Chess 1135"]
+[Source "Mark Crowther"]
+[SourceDate "2016.08.08"]
+
+{There is always this obvious distinction in styles, let's take for the sake
+of exemplification the case of Karpov vs Kasparov. One's signature is the
+surgical technique while the other's trademark is the powerful fireworks.
+Which one would you appreciate more? That's right, you can't compare apples
+with pears:) In other words, if sometimes I bring you too many tactical
+examples, I would like to hang in the balance two positional moments now.  The
+first one was beautifully spot on by the famous Swedish player, Pia:} 21. d5 $1
+Bxc3 22. Qxc3 exd5 23. Nd4 Qd7 24. c5 {[%csl Ra8] A positional pawn sacrifice
+aiming to suffocate the bishop on a8. According to the engines, the current
+position is quite balanced and with correct (or rather computer play) the
+outcome should still be an equally divided one. The game was indeed drawn
+eventually but it doesn't take away the instructive lesson performed by White
+in the middlegame.} 1/2-1/2
+
+[Event "CellaVision Cup 2016"]
+[Site "Lund SWE"]
+[Date "2016.08.07"]
+[Round "7.4"]
+[White "Tikkanen, H."]
+[Black "Westerberg, J."]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[WhiteElo "2528"]
+[BlackElo "2488"]
+[SetUp "1"]
+[FEN "r4rk1/2pnqpbp/1p2p1p1/p3P3/1P2Q3/P5N1/1BP2PPP/R2R2K1 b - - 0 21"]
+[PlyCount "13"]
+[EventDate "2016.08.05"]
+[EventType "swiss"]
+[EventRounds "8"]
+[EventCountry "SWE"]
+[SourceTitle "The Week in Chess 1135"]
+[Source "Mark Crowther"]
+[SourceDate "2016.08.08"]
+
+{For some this may be simple but over the board such 'obvious' moves don't
+come easy.} 21... b5 {[%cal Gd7b6,Gb6c4,Gb6d5] A fellow friend of mine would
+say now: "make your pieces smile":)} 22. bxa5 Rxa5 23. Bc3 Ra4 24. Qb7 Rxa3 25.
+Rxa3 Qxa3 26. Qxc7 Nb6 27. Bd4 Nd5 {White suffered in the remaining of the
+game but the rest of the moves don't serve the example's purpose anymore.}
+1/2-1/2
+

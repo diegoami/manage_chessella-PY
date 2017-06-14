@@ -1,0 +1,66 @@
+[Event "Millionaire Chess Open 2016"]
+[Site "Atlantic City, NJ"]
+[Date "2016.10.08"]
+[Round "6.2"]
+[White "Zhou, Jianchao"]
+[Black "Shankland, Samuel L"]
+[Result "1-0"]
+[ECO "D17"]
+[WhiteElo "2630"]
+[BlackElo "2679"]
+[Annotator "Albert Silver"]
+[PlyCount "103"]
+[EventDate "2016.??.??"]
+[WhiteClock "0:13:19"]
+[BlackClock "0:45:38"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 Bb4 8. Nxc4
+O-O 9. Kf2 c5 10. e4 Bg6 11. Na2 Nc6 12. Nxb4 Nxb4 13. Qb3 Nxe4+ 14. fxe4 Bxe4
+15. Bf4 Qf6 16. Qe3 Rad8 17. Qxe4 Rxd4 18. Qe5 Rxf4+ 19. Kg1 Qxe5 20. Nxe5 Rd8
+21. Rc1 Rd5 22. Nc4 Nd3 23. Bxd3 Rxd3 24. g3 Rfd4 25. Kf2 f6 26. Rhe1 e5 27.
+Re3 Kf7 28. Rxd3 Rxd3 29. Ke2 Rd4 30. Nd2 b6 31. a5 Ra4 32. axb6 axb6 33. Rc3
+Rb4 34. b3 Ke6 35. Rc4 Rxc4 36. bxc4 f5 37. h4 e4 38. Ke3 Ke5 39. Nb1 g6 40.
+Nc3 h6 41. Ne2 {In spite of the 0.00 evaluation by the engines, the endgame is
+still double-edged as either side could win if a misstep is made. If White
+becomes too adventurous with his knight, trying to capture b6, the two extra
+pawns in the center could be his undoing, while if Black is not careful, White
+could infiltrate, and clean up.} {[%tqu "En","Both sides are walking a mutual
+highwire act. Here Black has only one move to maintain the balance. What is
+it? Tip: work out also why at least a couple of the alternatives would lose.",
+"","","e5f6","",0,"g6g5","is the only move, but fairly straight forward. It
+effectively prevents White's knight from entering f4, and threatens to play ...
+f4+ if the knight should decide to play hookey.",10,"e5e6","",0]} Kf6 $2 {
+This loses unfortunately for Black.} (41... g5 $1 {is the only move, but
+fairly straight forward. It effectively prevents White's knight from entering
+f4, and threatens to play ...f4+ if the knight should decide to play hookey.}
+42. h5 {If White is to dream of winning, he needs his pawns.} Kf6 {and now if}
+43. g4 ({The alternate attempt with} 43. Nc3 Ke5 44. Nb5 (44. Nd5 $2 b5 $1 {
+wins for Black!}) 44... f4+ 45. gxf4+ gxf4+ 46. Ke2 Ke6 47. Nc3 Ke5 {and Black
+just keeps his pawns in place and will hold.}) 43... Ke5 44. gxf5 Kxf5 {
+the e4-pawn will fall, but so will h5, and the outcome with best play should
+be a draw.}) (41... Ke6 $2 42. Nf4+ Kf6 (42... Ke5 43. Nxg6+) (42... Kf7 43.
+Nd5) 43. Nd5+) {[%tqu "En","Black has finally made a fatal blunder, but only
+if White plays the proper continuation. There are lots of tempting ideas. What
+is White's winner?","","","g3g4","",10,"e2f4","is not good enough.",0]} 42. g4
+$3 {Absolutely brilliant!} (42. Nf4 {is not good enough.} g5 43. hxg5+ hxg5 44.
+Nd5+ Ke5 45. Nxb6 f4+ 46. gxf4+ gxf4+ 47. Ke2 Kd4 {and White will have just
+enough to hold the draw.} 48. Nd5 (48. Kd2 e3+ 49. Ke2 Ke4 50. Kd1 Kd3 51. Nd7
+Kxc4 52. Ke2 Kd5 53. Nf6+ Kd4 54. Nh5 c4 (54... Ke4 55. Nf6+ Kf5 56. Nd5) 55.
+Nxf4) 48... Kxc4 49. Nxf4) 42... fxg4 (42... Ke6 {does not help.} 43. g5 {
+though gxf5+ and even Nf4+ also win.} h5 44. Nf4+ Kf7 45. Nd5 {etc.}) {[%tqu
+"En","Precision is still required. Only one move does the trick. White to play
+and win.","","","e3e4","",10,"e2g3","",0]} 43. Kxe4 $1 {Were you expecting
+some kind of fancy trick? Nope! Taking e4 with the king is the right choice.
+While this might therefore seem a strange 'test', in a real game, every move
+is such a test: is the obvious move best, or is a subtle, or trickier choice
+the better one?} (43. Ng3 {throws it away.} h5 44. Nxe4+ Kf5 45. Nd6+ Ke5 46.
+Nc8 Kf5 47. Nxb6 g5 48. hxg5 Kxg5 49. Kf2 h4 50. Nd7 Kf4 51. Nxc5 h3 52. Kg1 g3
+53. Ne6+ Kf3 54. Ng5+ {[%tqu "En","Only one move to hold. Black to move and
+draw.","","","f3f4","",10]} Kf4 (54... Kg4 $2 55. c5 Kf5 56. c6 {and the king
+is prevented from staying in the square because of the knight.}) 55. Nxh3+ Ke5
+{etc.}) 43... Ke6 44. Nf4+ Kf6 45. Nd5+ Ke6 46. Nxb6 g5 47. hxg5 hxg5 48. Na4
+Kd6 49. Ke3 {and Black resigned in view of} g3 50. Kf3 Ke5 51. Kxg3 Kd4 52. Nb6
+{and the knight will just hop out of range each time the king approaches,
+while protecting the c4 pawn. White will mop up the last black pawns, and
+bring the king to decide.} 1-0
+

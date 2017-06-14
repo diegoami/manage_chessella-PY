@@ -1,0 +1,32 @@
+[Event "ch Men 2017"]
+[Site "Xinghua"]
+[Date "2017.04.26"]
+[Round "4"]
+[White "Wei, Yi"]
+[Black "Zeng, Chongsheng"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2727"]
+[BlackElo "2536"]
+[Annotator "A. Silver"]
+[SetUp "1"]
+[FEN "4r1k1/3nBp2/1qb1p1p1/p7/1r1P4/6N1/1P1Q1PP1/2RBR1K1 b - - 0 41"]
+[PlyCount "10"]
+[EventDate "2017.??.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "9"]
+
+41... Rxe7 {[%tqu "En","White had a fantastic one-two blow here. Can you see
+it? White to play and win.","","","d2h6","",0,"g3f5","",10]} 42. Qh6 (42. Nf5
+$1 $16 gxf5 (42... exf5 43. Rxe7) {[%tqu "En","Now for the coup de grâce.
+White to play and win.","","","d4d5","",10]} 43. d5 $3 {This beautiful shot
+finishes it, as it either wins the piece back wtih interest, or mates.} Bxd5
+44. Rc8+ Kh7 45. Qg5 {and Black is helpless to prevent mate.}) 42... Nf6 $2 {
+[#]} (42... Rxb2 {[#]} 43. Re4 $1 Nf8 44. Rh4 $18) (42... Bb7 $14) 43. Nf5 $1
+exf5 44. Rxe7 Qxd4 (44... Rxb2 $16 {might work better.} 45. Bf3 Qd8 46. Bxc6
+Qxe7) 45. Bf3 Rb6 $2 (45... Qd8 $16 46. Bxc6 (46. Rxc6 Qxe7 47. Rc8+ Ne8 $16)
+46... Qxe7) 46. Rd1 ({Weaker is} 46. Bxc6 Rxc6 47. Re8+ (47. Rxc6 $2 {too
+greedy.} Qd1+ 48. Kh2 Ng4+ 49. Kg3 Nxh6 $19) 47... Nxe8 $16) 1-0
+

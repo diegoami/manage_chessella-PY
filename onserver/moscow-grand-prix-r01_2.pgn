@@ -1,0 +1,26 @@
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.12"]
+[Round "1.6"]
+[White "Tomashevsky, Evgeny"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "D90"]
+[WhiteElo "2696"]
+[BlackElo "2755"]
+[SetUp "1"]
+[FEN "r4rk1/pp1b1p2/1np3pp/3p4/5PPP/2NBq3/PPQ5/1K1R2R1 w - - 0 19"]
+[PlyCount "13"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+{[#]} {White has sacrificed a pawn, but he has serious threats on the kingside.
+The Black king is not thrilled about this bishop sacrificing on g6.} 19. Bxg6
+Qxf4 (19... fxg6 20. Qxg6+ Kh8 21. Qxh6+ Kg8 22. Rge1 $1 Qxf4 23. Qg6+ Kh8 24.
+Re7 {is very dangerous for Black. He must go for an uncomfortable endgame.}
+Qf5+ 25. gxf5 Bxf5+ 26. Qxf5 Rxf5 27. Rxb7 $14) 20. g5 $6 (20. Rdf1 {is the
+computer choice, but computers aren't playing in this tournament.}) 20... fxg6
+{Svidler takes the sensible decision to force the draw.} (20... Nc4 $3 { is
+some kind of computer move that seems so unreal (what is the point even? Is Ne3
+really that big of a threat? How can you just ignore White's kingside threats?)
+that it surely came to Svidler's mind, but it's almost impossible to play.})
+21. Qxg6+ Kh8 22. Qxh6+ Kg8 23. Qg6+ Kh8 24. Qh6+ Kg8 25. Qg6+ 1/2-1/2

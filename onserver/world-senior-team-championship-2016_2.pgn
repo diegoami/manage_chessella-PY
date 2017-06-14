@@ -1,0 +1,64 @@
+[Event "Germany 1-Iceland"]
+[Site "Radebeul"]
+[Date "2016.07.01"]
+[Round "?"]
+[White "Boensch, Uwe"]
+[Black "Hjartarson, Johann"]
+[Result "1-0"]
+[ECO "E88"]
+[WhiteElo "2545"]
+[BlackElo "2547"]
+[Annotator "Nunn,John"]
+[PlyCount "187"]
+[EventDate "2016.??.??"]
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3 cxd5
+9. cxd5 Nh5 10. Nge2 f5 11. exf5 gxf5 12. O-O Nd7 13. Rc1 Nc5 14. Bc2 a5 15. a3
+Bd7 16. b4 axb4 17. axb4 Na6 18. Rb1 Qh4 19. Bf2 Qg5 20. Kh1 Kh8 21. Qd3 Rac8
+22. Be3 Qh4 23. Bf2 Qf6 24. Qd2 Rg8 25. Ba4 Bh6 26. Qe1 Bxa4 27. Nxa4 Rc4 28.
+Qd1 Qg5 29. g3 Rxb4 30. Nac3 Qd2 31. Qxd2 Bxd2 32. Rxb4 Nxb4 33. Rb1 Nd3 34.
+Bg1 Ne1 35. f4 Bxc3 36. Nxc3 Nf3 37. fxe5 dxe5 38. Rxb7 Nxg1 39. Kxg1 f4 40.
+Ne4 fxg3 41. hxg3 Rg4 42. d6 Rxe4 43. d7 Rd4 44. Kg2 Nf6 45. Rb8+ Kg7 46. d8=Q
+Rxd8 47. Rxd8 {This ending is definitely drawn but Black cannot afford to take
+the defensive task lightly. In particular, if he loses the e-pawn then White is
+winning.} Kg6 48. Kf3 Kf5 49. Rf8 h5 50. Ke3 Kg5 51. Kd3 {At the moment,
+Black's pieces provide a barrier to the entry of the white king, so Bönsch
+tests out the idea of moving his king around via the queenside.} Kg6 52. Kc4
+Kg5 53. Kd3 {The king cannot go any further since Black could draw by giving up
+the knight; for example,} (53. Kb5 Ne4 54. Rg8+ Kf5 55. Kc4 Nxg3 56. Rxg3 h4
+57. Rg8 Kf4 58. Kd3 h3 59. Ke2 h2 60. Rh8 Kg3 61. Kf1 e4) 53... Kg6 54. Ke3 Kg5
+55. Kf3 Kf5 56. Kg2 Kg5 57. Kh3 {White tries the alternative and more dangerous
+plan of playing his king to h4 and trying to put Black in zugzwang.} Kf5 58.
+Rf7 Kg6 59. Re7 Kf5 60. Kh4 e4 {This still draws, but it is a concession to
+advance the pawn to e4 as now the white king has access to d4 and f4.} ({Black
+could have made his life easier by refusing to touch the e-pawn.} 60... Ne4 61.
+Rf7+ (61. Rg7 Nf6) 61... Nf6 62. Ra7 Kg6 63. Ra1 Kf5 64. Ra5 Ne4 {and White is
+not making any progress}) 61. Kh3 Ng4 62. Kg2 Nf6 63. Rg7 Ng4 64. Kf1 Kf6 65.
+Rg8 Kf5 66. Ke2 Ne5 {It wasn't necessary to allow the white king to penetrate
+so easily.} (66... Kf6 {keeping control of e3, was simpler.}) 67. Ke3 Ng4+ 68.
+Kd4 e3 {White has made some progress and by now Black's position requires
+accurate defence. This move does not lose, but requires superhuman accuracy (at
+30 seconds per move).} (68... Nf6 69. Rf8 Kg6 {was better, since White cannot
+play his king to e5. The problem with playing ...e3 is that it effectively
+immobilises the knight.}) 69. Rf8+ Kg5 70. Kd3 Kg6 $2 {Now the position is
+lost. The only drawing move is the surprising} (70... Nh6 $1 {since} 71. Kxe3
+(71. Rh8 Nf5 72. Rg8+ Kf6 {also defends}) 71... h4 72. gxh4+ Kxh4 73. Kf4 Kh5
+{is a standard drawing position. The key idea is to transfer the knight to f5,
+since from this square the knight not only defends the e3-pawn but also keeps
+white tied down to the defence of g3.}) 71. Ke2 $2 { Giving Black a second
+chance. The winning idea is to transfer the rook to the fifth rank; for
+example,} (71. Ra8 Kf6 72. Ra5 Kg6 73. Ke2 Kh6 74. Kf3 Kg6 75. Kf4 Kh6 76. Ra6+
+Kg7 77. Kg5 Ne5 78. Re6 {and wins}) 71... Kg5 $2 (71... Nh6 { still draws.})
+72. Ra8 $2 {The right idea but the wrong execution. The only winning move was}
+(72. Rg8+ $1 {so that after} Kf5 73. Ra8 Nh6 74. Kxe3 { Black cannot swap pawns
+by ...h4}) 72... Kf5 $2 {The last drawing possibility was} (72... Nh6 $1 73.
+Kxe3 h4) 73. Ra5+ Kg6 74. Kf3 {White has hit on the correct plan.} Kh6 75. Kf4
+Kg6 76. Ra6+ Kf7 77. Kf3 {This wastes time but does not endanger the win. White
+makes no progress over the next few moves but eventually hits on the right
+idea.} Kg7 78. Re6 Kf7 79. Re4 Kg6 80. Kf4 Kf6 81. Ra4 Kg6 82. Ra5 Kf6 83. Ra6+
+Kf7 84. Rb6 $1 {This is the way to win. Black is now in zugzwang.} Ke7 (84...
+Kg7 {loses to} 85. Kg5) 85. Kf5 Kf7 {However Black plays, his king will be cut
+off one way or another. The alternative is} ( 85... Kd7 86. Re6 Kd8 87. Kf4 Kd7
+88. Re4 Kd6 89. Kf3 Kd5 90. Re8 Kc4 91. Rd8 { followed by Ke2 and Rh8, winning
+the h-pawn.}) 86. Rb7+ Kf8 87. Kf4 {Now that the enemy king is stuck on the
+back rank, White can play Ke3 followed by Rb5, winning a pawn} e2 88. Rb1 Nf2
+89. Kf3 Nd1 90. Rb8+ Kg7 91. Kxe2 Nc3+ 92. Kd3 Nd5 93. Ke4 Ne7 94. Rb6 1-0

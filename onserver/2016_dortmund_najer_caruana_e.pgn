@@ -1,0 +1,33 @@
+[Event "44th GM 2016"]
+[Site "Dortmund GER"]
+[Date "2016.07.12"]
+[Round "3"]
+[White "Najer, E."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2687"]
+[BlackElo "2810"]
+[PlyCount "92"]
+[EventDate "2016.07.09"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. O-O h6 7. Nbd2 Nd7 8. Nb3
+g5 9. Bd2 Qc7 10. a4 a5 11. c4 ({The alternative is} 11. Ne1) 11... dxc4 12.
+Bxc4 Nd5 (12... Bg7 13. Rc1 b6 14. Qe2 O-O 15. Bd3 Bg4 16. h3 Bh5 17. Bb1 Rac8
+18. h4 gxh4 19. Qe4 f5 20. Qxh4 Bxf3 21. gxf3 Nd5 22. Kh1 Qd8 23. Qh3 Rf7 24.
+Rg1 Kh7 25. Rg5 Qf8 26. Rcg1 Re8 27. R1g2 c5 28. Rxg7+ {1-0 (28) Kurnosov, I 
+(2660)-Gritsenko,A (2422) Vladivostok 2012}) 13. Ne1 Be7 14. Bd3 Nf8 15. Qc2
+Bg6 16. Rc1 Qb6 17. Bxg6 Nxg6 18. Nd3 Nh4 19. Rfe1 Nf5 20. Re4 Rg8 21. Ndc5 Qc7
+22. Qd1 b6 23. Nd3 Qd7 24. h3 Kf8 25. Kh2 Rd8 26. Rc4 Rc8 27. g3 Nc7 28. Qc2
+Na6 29. Ne1 Kg7 30. Nf3 b5 31. Rc3 bxa4 32. Nc5 (32. Nxa5 Nb4 33. Qxa4 (33. Qd1
+$2 Qd5 {with a double attack.}) 33... Ra8 {puts White into an awkward pin.})
+32... Bxc5 33. dxc5 Nb4 34. Qb1 (34. Qd1 Qd5 35. Qe2 Qa2 $15) 34... Rcd8 35.
+Kg2 Qd5 36. Rcc4 Qd3 (36... Rb8 $5) 37. Qa1 Rd5 {Black has the initiative but
+nothing tangible yet.} 38. Rg4 Kh8 39. Qc1 Na2 {[#]} 40. Qe1 $2 ({Correct was} 
+40. Qa1 {Now, a typical computer line is} Rb8 (40... Nb4 41. Qc1) 41. Qxa2 Rb3
+42. Rc3 Rxc3 43. bxc3 Qe2 44. Qc4 Rxd2 45. Qxe2 Rxe2 46. Rxa4 Rc2 $11) 40...
+Rb8 {Threatening to enter on the b-file with a vengeance. White decides to
+strike first.} 41. Bxg5 hxg5 42. Nxg5 Rd7 43. Rxa4 Nb4 44. Qc1 {[#] With the
+idea Nf3, Qg5 and Qh5.} Nc2 $1 45. Kh2 Nce3 (45... Nce3 46. fxe3 Qe2+ 47. Kg1
+Rd1+ $19) 46. Ne4 Qe2 1-0
+

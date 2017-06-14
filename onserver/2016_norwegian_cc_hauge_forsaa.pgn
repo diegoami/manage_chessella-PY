@@ -1,0 +1,25 @@
+[Event "Norwegian Championships"]
+[Site "?"]
+[Date "2016.07.16"]
+[Round "9"]
+[White "Hauge, Lars Oskar"]
+[Black "Forsaa, Espen"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[WhiteElo "2386"]
+[BlackElo "2308"]
+[SetUp "1"]
+[FEN "5rk1/bp4p1/p1p3Np/3p4/3P2Pq/2N1Q2n/PP3P1K/4R3 b - - 0 30"]
+[PlyCount "9"]
+
+30... Bb8+ $1 {It seems that black´s attack is overwhelming.} 31. f4 {There
+are no better moves.} Bxf4+ $4 {After the game Espen explained that he had
+seen the variation with 31...Rxf4 and that it was leading to mate, but was so
+excited that he made a "slip-of-the-brain" playing a´ tempo with five minutes
+left on his clock.} (31... Rxf4 $3 {Just winning in all varations. But then
+again; it´s so easy sitting at home commenting on this with a cup of coffee
+and Stockfish.} 32. Nxf4 (32. Nxh4 Rf2+ 33. Kxh3 Rh2#) 32... Nxf4+ 33. Kg1
+Qxg4+ 34. Qg3 Qxg3+ 35. Kh1 Qg2#) 32. Qxf4 Rxf4 33. Nxh4 Ng5 34. Kg3 Rxd4 {
+White is maybe a tiny bit better here, but the outcome was never in doubt and
+it was a draw after 60 moves.} 1/2-1/2
+

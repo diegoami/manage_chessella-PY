@@ -1,0 +1,85 @@
+[Event "42nd Olympiad Baku 2016 Open"]
+[Site "Baku"]
+[Date "2016.09.11"]
+[Round "9.12"]
+[White "Jones, Gawain C B"]
+[Black "Firouzja, Alireza"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "2635"]
+[BlackElo "2463"]
+[SetUp "1"]
+[FEN "3r2k1/5ppp/p4b2/3pnR2/3N4/1P1rB1PP/P1R2PK1/8 b - - 0 26"]
+[PlyCount "16"]
+[EventDate "2016.??.??"]
+[EventType "team-tourn"]
+[EventCountry "AZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[WhiteTeam "England"]
+[BlackTeam "Iran"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "IRI"]
+[TimeControl "40/5400+30:1800+30"]
+
+26... Rd1 {(00:55)} 27. Rxe5 $1 {(04:06)} Bxe5 {( 00:11)} 28. Nc6 {(00:04)} Re8
+{(01:22)} 29. Nxe5 {(00:14)} d4 {(00:03)} (29... Rxe5 30. Rc8+) 30. Bd2 {
+(00:35)} f6 {(05:39)} 31. Nf3 {(02:46)} Re2 {(00:17)} 32. a4 {(01:28)} d3 {
+(00:44)} 33. Rc8+ {(01:58)} Kf7 {(00:01)} 34. Be3 {(01:49)} 1-0
+
+[Event "42nd Olympiad Baku 2016 Women"]
+[Site "Baku"]
+[Date "2016.09.11"]
+[Round "9.17"]
+[White "Harika, Dronavalli"]
+[Black "Peng, Zhaoqin"]
+[Result "1-0"]
+[ECO "B47"]
+[WhiteElo "2542"]
+[BlackElo "2368"]
+[SetUp "1"]
+[FEN "2b1k2r/2qn1ppp/p1p1p3/3p4/2P2P2/Q4B2/P1P3PP/4RRK1 b k - 0 18"]
+[PlyCount "7"]
+[EventDate "2016.??.??"]
+[EventType "match"]
+[EventCountry "AZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[WhiteTeam "India"]
+[BlackTeam "Netherlands"]
+[WhiteTeamCountry "IND"]
+[BlackTeamCountry "NED"]
+[TimeControl "40/5400+30:1800+30"]
+
+18... Qxf4 {(18:37)} 19. Rxe6+ $3 {(03:53)} fxe6 {(01:18)} 20. Bh5+ $1 {(00:19)
+} g6 {(00:03)} 21. Rxf4 {(01:12)} gxh5 {(00:05)} 1-0
+
+[Event "42nd Olympiad Baku 2016 Women"]
+[Site "Baku"]
+[Date "2016.09.11"]
+[Round "9.10"]
+[White "Gunina, Valentina"]
+[Black "Hoang, Thi Bao Tram"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "2520"]
+[BlackElo "2325"]
+[SetUp "1"]
+[FEN "2r1r1k1/pbq2pbp/1p2pnp1/4N1B1/2Pp4/4Q2P/PPB2PP1/3RR1K1 w - - 0 19"]
+[PlyCount "14"]
+[EventDate "2016.??.??"]
+[EventType "match"]
+[EventCountry "AZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[WhiteTeam "Russia"]
+[BlackTeam "Vietnam"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "VIE"]
+[TimeControl "40/5400+30:1800+30"]
+
+19. Rxd4 {(00:07)} Nd5 $1 {(03:44) Black wins material by force now.} 20. Qg3 {
+(10:04)} ({Taking with} 20. cxd5 {is no improvement.} exd5 21. Bf4 Qxc2 22. Rd2
+Qf5 {Black has an extra passed pawn and the pair of bishops.}) 20... f6 {
+(13:54)} 21. cxd5 {(00:58)} Qxc2 22. d6 Rf8 23. d7 Rcd8 24. Rc4 Qf5 25. Rc7 Bd5
+1-0

@@ -1,0 +1,36 @@
+[Event "7th Terre degli Elimi A"]
+[Site "Erice"]
+[Date "2016.08.01"]
+[Round "6"]
+[White "Santagati, Alessandro"]
+[Black "Gilevych, Artem"]
+[Result "0-1"]
+[ECO "C18"]
+[WhiteElo "2271"]
+[BlackElo "2415"]
+[Annotator "Werle"]
+[SetUp "1"]
+[FEN "r4rk1/ppqb3p/4p1pP/n2pPnB1/3P1P2/P1PQ4/4NP2/R3KB1R w KQ - 0 20"]
+[PlyCount "62"]
+[EventDate "2016.07.28"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+
+20. Bh3 a6 {Gilevych is an expert in the French defence. You can see that in
+this position: he caused White a doubled pawn with f5-f4-f3, securing the post
+for his Knight on f5, and with his last move he is improving his worst piece:
+his Bishop goes to b5.} 21. Bg4 (21. Qf3 Bb5 22. Ng3 Qc6 23. Nxf5 exf5 $13 {
+Peculiar about this position: the computer is giving an advantage to White.}) (
+21. Ng3 Nxg3 22. fxg3 Rac8 23. Rc1 (23. Be7 Rfe8 24. Bd6 Qxc3+ 25. Qxc3 Rxc3
+26. Bb4 Re3+ 27. Kf2 Nc4 28. Rhb1 Bc6 29. Bf1 Re4 30. Bc5 Ne3) 23... Nb3 24.
+Rc2 Qc4 25. Qxc4 Rxc4 26. Kf2 Rfc8 27. Rb1 Rxc3 28. Rxc3 Rxc3 29. Be7 a5 $15)
+21... Bb5 22. Qh3 Rac8 23. Bxf5 Rxf5 {I think that Black is better after this
+exchange.} 24. Qe3 Bxe2 25. Kxe2 Qxc3 26. Qxc3 Rxc3 27. Rac1 Rc4 28. Rxc4 Nxc4
+29. Rb1 b6 $1 {Keeping the gates closed, therefore bringing first the King to
+the battlefield.} 30. a4 Rf8 31. Kd3 Kf7 32. Bf6 Ke8 33. a5 b5 34. Kc3 Kd7 35.
+Kb4 Rc8 36. Rc1 Nb2 $1 37. Rxc8 Kxc8 {The position is lost for White.
+Santagati makes a desperate attempt to enter Black's position.} 38. Kc5 Kc7 $1
+{Threatening mate on d3.} 39. Bd8+ Kxd8 40. Kd6 b4 41. Kxe6 b3 42. Kf7 Nc4 43.
+Kg7 b2 44. Kxh7 b1=Q 45. Kg8 Ke7 46. h7 Qf5 47. Kg7 Qf7+ 48. Kh6 Qf8+ 49. Kxg6
+Qh8 50. f5 Nxe5+ 0-1
+

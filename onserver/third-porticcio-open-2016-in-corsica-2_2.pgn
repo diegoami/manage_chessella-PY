@@ -1,0 +1,63 @@
+[Event "2016"]
+[Site "?"]
+[Date "2016.07.01"]
+[Round "9.8"]
+[White "Zude, Erik"]
+[Black "Maze, Sebastien"]
+[Result "0-1"]
+[ECO "A50"]
+[WhiteElo "2403"]
+[BlackElo "2614"]
+[Annotator "Sagar Shah"]
+[SetUp "1"]
+[FEN "r7/2kp2p1/3p1p2/2nP3P/pKP3P1/8/2B5/R7 w - - 0 55"]
+[PlyCount "110"]
+[EventDate "2016.??.??"]
+[WhiteClock "0:00:36"]
+[BlackClock "0:01:08"]
+{Here White decided to take the pawn on a4 and
+take the game into a pawn endgame. A wise decision as the endgme is drawn.}
+55. Bxa4 Kb6 56. Ra3 Rxa4+ 57. Rxa4 Nxa4 58. Kxa4 Kc5 59. Kb3 Kd4 {Black
+tries to indulge in a race because he ends up in a queen endgame with
+an extra pawn.} 60. Kb4 Ke4 61. Kb5 Kf4 62. Kb6 Kxg4 63. Kc7 f5 64. Kxd6
+f4 65. c5 f3 66. h6 $1 (66. c6 dxc6 67. dxc6 f2 68. c7 f1=Q 69. c8=Q+
+Kxh5 {is also a draw but Erik rightly goes for a queen endgame with a
+rook pawn rather than a knight pawn.}) 66... gxh6 67. c6 dxc6 68. dxc6
+f2 69. c7 f1=Q 70. c8=Q+ Qf5 71. Qg8+ Kh3 {[%csl Ga7,Ga8,Gb7,Gb8] [#]In
+such an endgame the defending side has two ways to hold. One is to bring
+the king back in front of the pawn. The other is to take it as far as
+possible in this case a7, b7, a8, b8. As the first method is impossible
+because the king is cut off, it makes sense to enter the drawing zone.
+However, we will see the Zude doesn't follow the guideline of staying
+within the zone.} 72. Kc7 $1 {The right move going towards the drawing
+zone.} Qg4 73. Qh7 h5 74. Kb6 $6 ( 74. Kb8 {would have been the right
+technique. Once the king is in the zone, you can safely keep checking
+without any problems.} h4 75. Qc2 Kg3 76. Qd3+ Kf2 77. Qc2+ Qe2 78. Qf5+
+Qf3 79. Qc5+ Kg2 80. Qc2+ Qf2 81. Qe4+ Kg3 82. Qg6+ Kh2 83. Qe4 h3 84.
+Qd5 Kg1 85. Qd1+ Kg2 86. Qd5+ Qf3 87. Qd2+ Kh1 88. Qc1+ Kh2 89. Qb2+ Qg2
+90. Qd4 Kh1 91. Qd1+ Kh2 92. Qd4 $11 {This is just an illustrative variation
+which shows how the king can be safe on b8 and the white queen can keep
+checking.}) 74... h4 75. Ka5 $6 {It is not yet lost yet because the king
+should be in the zone (a7, b7, a8, b8) when the pawn reaches h2. The pawn
+is still on h4. Hence this is still a draw, but the white player is taking
+too many risks.} (75. Ka7 $11) 75... Qg5+ 76. Ka6 Qf6+ 77. Ka5 $6 (77.
+Ka7 $11) 77... Qe5+ 78. Ka6 Qd6+ 79. Ka5 Qc5+ 80. Ka6 Qc4+ 81. Ka5 Kh2
+82. Qf5 Qa2+ 83. Kb6 Qb3+ 84. Ka6 Qa3+ 85. Kb6 Qe3+ 86. Ka6 h3 87. Qg4
+Qa3+ 88. Kb5 $6 {The pawn is just one square away from the second rank
+and hence it makes the most sense to get inside the drawing zone.} (88.
+Kb7 $11) 88... Qg3 89. Qe2+ Kg1 90. Qd1+ Kg2 91. Qe2+ Qf2 92. Qg4+ Kh2
+93. Ka5 Qd2+ 94. Kb5 Qd3+ 95. Ka5 Kh1 96. Qf4 Kg2 97. Qg4+ Kf2 98. Qf4+
+Ke2 99. Qh2+ Kd1 100. Qg1+ (100. Kb6 {The tablebases point out that this
+was the last chance for white to make a draw with this move. Mainly the
+white king is rushing back towards the drawing zone. Erik Zude's move
+is a mistake but I think the mistake was made many moves ago when he decided
+to keep his king on a5 and b5 instead of a8 and b8.}) 100... Kc2 101.
+Kb6 Qd6+ 102. Kb5 (102. Kb7 {Although the king is in the zone, it is too
+late now.} h2 103. Qf2+ Kb3 104. Qe3+ Ka4 105. Qe8+ (105. Qe4+ Qb4+) 105...
+Ka5 106. Qh5+ Kb4 107. Qg4+ Ka3 108. Qf3+ Ka4 {and with no checks on the
+horizon Black wins now.} 109. Qh1 Qe5 110. Qd1+ (110. Ka8 Ka5) 110...
+Kb5 111. Qb1+ Kc4 112. Qc2+ Kd5 113. Qa2+ Kd6 114. Qa3+ Kd7 115. Qh3+
+Ke8 116. Qg2 Kf8 117. Qh1 Kg7 118. Qg2+ Kh7 119. Qc2+ Kh8 120. Qc8+ Kg7
+121. Qg4+ Kf8 122. Qf3+ Kg8 123. Qh1 Qg3 $19) 102... Qe5+ (102... h2 $19)
+103. Kb6 Qe6+ 104. Ka5 Qd5+ 105. Kb6 Qd6+ 106. Ka5 Qd2+ 107. Ka4 h2 108.
+Qc5+ Kb1 109. Qb6+ Kc1 {The checks have run out and white resigned.} 0-1

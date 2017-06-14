@@ -1,0 +1,63 @@
+[Event "Vereinsturnier Villingen 2009-10"]
+[Site "?"]
+[Date "2010.02.12"]
+[Round "7"]
+[White "Thiemke, Rudolf"]
+[Black "Siegert, Peter"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[WhiteElo "1431"]
+[BlackElo "1632"]
+[Annotator "Remy Heimers, Karsten Müller"]
+[SetUp "1"]
+[FEN "8/3k4/4pP2/1pK1Pp1p/5P2/3b2P1/8/8 w - - 0 64"]
+[PlyCount "34"]
+[EventDate "2010.??.??"]
+[SourceTitle "902e"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+{Sometimes you need patience - and zugzwang - to win a won endgame: The
+following interesting duel which Remy Heimers sent to me with annotations is
+an instructive example:} 64. Kb4 {Black is a piece up but winning this
+position is everything but easy. White has a dangerous passed pawn on f6 which
+has to be kept under permanent control. If Black's king were chained to this
+pawn Black would not be able to win. Therefore Black's bishop has to control
+the pawn to give the black king room for maneuver. If Black could simply beam
+his bishop to e8, his task would be easy. However, even if Black sacrificed
+his pawn on b5, his bishop would not come to e8. No, Black has to give the
+pawn on b5 and and the pawn on h5 to bring his bishop to e8. Then he can bring
+his king to the center - and then Black will be able to force White into
+"zugzwang".} (64. Kb4 {In the game Black saw no way to convert his material
+advantage into a win and agreed to a draw.}) 64... Be2 65. Kc5 {[%tqu "En",
+"Black to play and win","","","h5h4","",3,"e2f3","",0]} h4 $1 {This pawn
+sacrifice is absolutely necessary. But it takes another 15 moves until the
+idea behind this sacrifice becomes apparent.} (65... Bf3 $2 66. Kxb5 Bc6+ 67.
+Kc5 $11 {and Black cannot bring his bishop to e8.}) 66. gxh4 Bh5 {Now the
+bishop is on a diagonal where it controls both pawns.} 67. Kxb5 Kc7 $1 {
+Black needs to be precise. Only this move wins. Black does not let the white
+king to b6.} (67... Be8 $2 {gives the win away.} 68. Kb6 $1 {Strangely enough,
+Black now no longer has the chance to bring White into zugzwang and to win. On
+the contrary. Black must be careful not to press too hard.} Kc8 69. Ka7 $1 (69.
+Kc5 $2 Kc7 $19 {would transpose into a line in which Black is winning.}) 69...
+Kc7 70. Ka8 $1 Kd7 (70... Kc6 71. Kb8 Kd5 72. Kc7 Ke4 73. Kd8 Bh5 74. Ke7 Kxf4
+75. Kxe6 Bd1 76. Kd6 Bh5 77. e6 $18) (70... Bh5 71. Ka7 Kc6 72. Kb8 Kd7 $11 {
+Black has to accept the draw because he can no longer activate his king.} ({
+Activating the king with} 72... Kd5 $4 {even loses. Black can only play the
+king to d5 if the white king is still on a7 or a8.} 73. Kc7 Ke4 74. Kd6 Kxf4
+75. Kxe6 Ke4 76. f7 Bxf7+ 77. Kxf7 Kxe5 78. h5 f4 79. h6 f3 80. h7 f2 81. h8=Q+
+$18 {and White converts with chess and wins.})) 71. Kb7 Bh5 72. Kb8 $11) 68.
+Ka6 {This does not save White but forces Black to be precise.} ({Black wins
+relatively easily after} 68. Kc5 $6 Be8 69. Kb4 Kb6 {and White's king is
+gradually pushed back. Black will win the pawns on f4 and e5 and win. Even
+though this takes some time it is an easy win.} 70. Kc4 Kc6 71. Kd4 Kb5 72. Kc3
+Kc5 73. Kd3 Kd5 74. Ke3 Kc4 75. Kf3 Kd3 76. Kf2 Ke4 77. Kg3 Ke3 $19 78. h5 Bxh5
+79. Kh4 Bf7 80. Kg5 Ke4 81. Kh6 Kxf4 82. Kg7 Bh5 83. f7 Bxf7 84. Kxf7 Kxe5 $19)
+68... Kc6 69. Ka7 Kd5 $1 {If the white king is on a7 or a8 Black wins with Kd5.
+However, if the white king had already reached b8 Black would even lose after
+Kd5.} 70. Kb7 Ke4 71. Kc6 Kxf4 72. Kd6 Ke4 73. Kxe6 f4 74. f7 Bxf7+ 75. Kxf7
+Kxe5 $19 {Black converts with check and Black's king is in the winning zone.}
+76. h5 f3 77. h6 f2 78. h7 f1=Q+ 79. Kg8 {[%csl Gd5,Gd6,Gd7,Gd8,Ge4,Ge5,Gf4,
+Gg4,Gh4]} Ke6 $1 {This is the point. Black's king is in the winning zone.} 80.
+h8=Q Qf7# 1/2-1/2
+

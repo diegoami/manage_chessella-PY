@@ -1,0 +1,50 @@
+[Event "FIDE World Cup"]
+[Site "Tromsoe"]
+[Date "2013.08.27"]
+[Round "6.2"]
+[White "Kramnik, Vladimir"]
+[Black "Vachier Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[ECO "D17"]
+[WhiteElo "2784"]
+[BlackElo "2719"]
+[Annotator "Sagar Shah"]
+[PlyCount "135"]
+[EventDate "2013.08.11"]
+[EventType "k.o."]
+[EventRounds "7"]
+[EventCountry "NOR"]
+[SourceTitle "CBM 156"]
+[Source "ChessBase"]
+[SourceDate "2013.09.17"]
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6 8.
+Ne5 a5 9. e3 Nbd7 10. Nc4 Qb8 11. Bd3 Bxd3 12. Qxd3 e5 13. O-O Bb4 14. Qf5 exd4
+15. exd4 O-O 16. Rd1 Qe8 17. Bf4 Qe6 18. Qxe6 fxe6 19. Bd6 Rfd8 20. f3 Bxc3 21.
+bxc3 Nd5 22. Rdc1 b5 23. axb5 cxb5 24. Nxa5 Rdc8 25. Bb4 Rc7 26. Rab1 Rac8 27.
+h4 e5 28. Rd1 exd4 29. Rxd4 N7f6 30. Kh2 h6 31. Rb2 Nxc3 32. Bxc3 Rxc3 33. Rxb5
+Rc2 34. Nb3 Kh7 35. Rdb4 R8c3 36. Kh3 Ra2 37. Nd4 Rc1 38. Ne6 Re1 39. Nf4 Ra7
+40. h5 Rae7 41. g4 R1e5 42. Ng6 Rxb5 43. Rxb5 Re8 44. Rb7 Rd8 45. Kg3 Kg8 46.
+Kh4 Kh7 47. Ra7 Kg8 48. f4 Kh7 49. Rb7 Ne4 50. Rb4 Re8 51. g5 Nd6 52. Rb6 Nf7
+53. Rb5 Re1 54. Nf8+ Kg8 55. Rb8 hxg5+ 56. fxg5 Rh1+ 57. Kg3 Rg1+ 58. Kf4 Rf1+
+59. Ke3 g6 60. hxg6 Kg7 61. gxf7 Kxf7 {[%tqu "Although he is a pawn and a
+knight up, White has only one way to win. Can you find it? Before you look at
+the answer I would motivate you by saying: calculate to the end, because even
+the great Kramnik couldn't find the win.","","",Nd7,"",10,g6+,"",0,Ke2,"",0,
+Nh7,"",0,Ke4,"and the game was drawn.",0]} 62. Nd7 $3 {The right move and
+solution to the problem. White intends to bring back his knight to e5 and push
+his pawn to g6 when he will be totally winning. Hence Black has to be quick.} (
+62. g6+ Kg7 $11 {[%cal Rf1f8,Rg7f8,Rg7g6]}) (62. Ke2 Rf5 63. g6+ Kg7 $11 {
+[%cal Rf5f8,Rg7f8,Rg7g6]}) (62. Nh7 Kg6 $11) ({Kramnik played} 62. Ke4 $2 { and
+the game was drawn.} Re1+ 63. Kf3 Rf1+ 64. Kg3 Rg1+ 65. Kf4 Rf1+ 66. Ke3 Re1+
+67. Kf3 Rf1+ 68. Kg2 Rf5 69. Nh7 Kg6 70. Rb7 Rf4 71. Kg3 Ra4 72. Re7 Rg4+ 73.
+Kf3 Ra4 74. Rb7 Rh4 75. Nf6 Kxg5 {and draw agreed on move 125.}) 62... Rf5 $1
+(62... Kg6 63. Rg8+ Kh7 64. Rf8 Rg1 65. Rf7+ Kg8 (65... Kg6 66. Ne5+) 66. Rf5
+{is simply winning for White.}) 63. Rf8+ Kg6 64. Rg8+ Kf7 {[%tqu "How would you
+ensure that White does not lose the g5 pawn?","","",Ke4,"",10]} 65. Ke4 $3 {The
+only move now to make progress. It forces the black rook to move sideways on
+the fifth rank to keep an eye on the g5 pawn.} Ra5 {and now after} 66. Rf8+ Kg6
+(66... Ke6 67. g6 $1 Rg5 68. Ne5 $1 Rg1 69. Kf4 $18) {[%tqu "It's all over for
+the g5 pawn. This is true but he dies like a hero! His death will result in
+victory for White after","","",Ne5+,"",10]} 67. Ne5+ $3 Kxg5 68. Rf5+ $18 {It's
+the theme of discovered check that seals the fate for Black's rook on a5!}
+1/2-1/2

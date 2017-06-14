@@ -1,0 +1,23 @@
+[Event "XXIV RUS-chT Premier 2017"]
+[Site "Sochi"]
+[Date "2017.05.05"]
+[Round "4"]
+[White "Kovalenko, Igor"]
+[Black "Fedoseev, Vladimir"]
+[Result "0-1"]
+[ECO "A10"]
+[WhiteElo "2659"]
+[BlackElo "2684"]
+[SetUp "1"]
+[FEN "3q2k1/1p6/p2r2b1/P1pP1p1p/2P1p1pP/1Bb1P1P1/RN3P2/Q5K1 w - - 0 43"]
+[PlyCount "8"]
+[EventDate "2017.??.??"]
+
+43. Bc2 {[%tqu "En","Black found a killer blow here. Can you do as well? Black
+to play and win.","","","f5f4","",10]} f4 $3 44. Qb1 (44. gxf4 {doesn't
+deserve the time of day.} Qxh4 {followed by Bf5, Rg6 and g3, will wrap things
+up.}) ({White could also try} 44. exf4 {but it also looks hopeless after} e3 {
+giving up the piece.} 45. fxe3 (45. Bxg6 e2 $1 {and White loses his queen.})
+45... Bxc2 46. Qc1 Bb3 47. Ra3 Bxb2 48. Qxb2 Bxc4) 44... fxg3 45. fxg3 Rf6 46.
+Bxe4 Qd6 0-1
+

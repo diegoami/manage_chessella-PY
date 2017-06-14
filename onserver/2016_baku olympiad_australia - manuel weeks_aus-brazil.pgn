@@ -1,0 +1,88 @@
+[Event "42nd Olympiad 2016"]
+[Site "Baku AZE"]
+[Date "2016.09.08"]
+[Round "6.1"]
+[White "Fier, Alexandr"]
+[Black "Smerdon, David C"]
+[Result "0-1"]
+[ECO "D20"]
+[WhiteElo "2634"]
+[BlackElo "2531"]
+[Annotator "Manuel Weeks"]
+[PlyCount "86"]
+[EventDate "2016.09.02"]
+[WhiteTeam "Brazil"]
+[BlackTeam "Australia"]
+[WhiteTeamCountry "BRA"]
+[BlackTeamCountry "AUS"]
+
+1. d4 d5 2. c4 dxc4 3. e4 a6 4. Bxc4 c5 5. Nf3 cxd4 6. O-O Nc6 7. Bg5 $146 {
+This seems to be a novelty although I believe David had analysed it as a
+possible move a while ago.} Qb6 8. Nbd2 e6 9. e5 h6 10. Bh4 Nge7 {White has
+excellent compensation for the pawn but the game is still balanced.} 11. Bd3
+Nf5 12. Nc4 Qa7 {You never really want to play your Queen so far away from the
+center but it can come back easliy after b5} 13. Re1 b5 14. Bxf5 bxc4 (14...
+exf5 $2 15. Nd6+ $18) 15. Be4 Bd7 {Now there are various tactical sequences.
+The old saying "castle early and make your captain happy" would have calmed my
+blood pressure!} 16. Nxd4 Nxd4 17. Bxa8 Nf5 {[%tqu "En","This does not win but
+it is the move that gives Black the most headaches!","","","a8c6","",10]} 18.
+Bc6 Nxh4 19. Qa4 $5 (19. Bxd7+ Qxd7 20. Qxd7+ Kxd7 21. Rac1 Be7 22. Red1+ Kc6
+23. Rxc4+ Kb6 {This is probably equal but both players wanted more!}) 19... Bc5
+(19... Qc7 {This would force a transposition to the previous line as White
+would have to take on d7}) 20. Rad1 {I must admit I was looking at the
+"greedy" option when as a biased spectator.} Bxf2+ (20... Bxc6 21. Qxc6+ Ke7
+22. Re4 {Black seems to hang on but I can understand David going for the
+active game continuation.}) 21. Kh1 O-O 22. Rxd7 Qc5 23. Re2 Ng6 {A dream
+position for David in that for the exchange he will have two pawns and an
+outpost for the knight.} 24. Rd1 Nxe5 25. Bb7 a5 26. b3 {Time trouble has
+reared it's ugly head but David keeps under control.} Bd4 27. bxc4 Ng4 28. Qb5
+Nf2+ 29. Rxf2 Bxf2 30. Qxc5 Bxc5 31. Rd7 f5 32. Rc7 Rd8 33. Bf3 Be3 34. g3 g5 {
+David decided to play for mate!} 35. g4 Rd2 36. h3 Rf2 37. Bb7 f4 {The mating
+net is threatened.} 38. c5 f3 39. Bxf3 Rxf3 40. c6 Bf4 41. Re7 Rc3 42. Rxe6
+Rxh3+ 43. Kg2 Kf7 0-1
+
+[Event "42nd Olympiad 2016"]
+[Site "Baku AZE"]
+[Date "2016.09.08"]
+[Round "6.4"]
+[White "Smirnov, Anton"]
+[Black "Barbosa, Evandro Amorim"]
+[Result "1-0"]
+[ECO "D80"]
+[WhiteElo "2482"]
+[BlackElo "2509"]
+[Annotator "Manuel Weeks"]
+[PlyCount "81"]
+[EventDate "2016.09.02"]
+[WhiteTeam "Australia"]
+[BlackTeam "Brazil"]
+[WhiteTeamCountry "AUS"]
+[BlackTeamCountry "BRA"]
+
+{An important game for Anton Smirnov as he is chasing a GM norm and at the
+Olympaid they count as a 20 game norm.} 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Bg7
+5. Bxf6 Bxf6 {Anton is our youngster that every Olympiad team seens to have, a
+15 year 2500 player. When you walk around there are so many young faces
+playing for so mmany strong teams.} 6. cxd5 c5 7. dxc5 Nd7 8. e3 O-O 9. Bc4
+Nxc5 10. Nge2 Qb6 11. Qd2 Bf5 $146 {This novelty looks like a natural move but
+if White can play f3 and e4 forcing the pieces backwards it can easily turn
+into a passive postion for black.} 12. O-O Rac8 13. Rac1 Rfd8 14. b3 a6 15. Nd4
+Ne4 16. Nxe4 Bxe4 17. Rfd1 Kg7 18. Ne2 Qd6 19. f3 Bf5 20. e4 Bd7 21. Qe3 b5 22.
+Bd3 Bb2 23. Rb1 Ba3 24. b4 {The black bishop can find itself sidelined here.
+White has to act quickly before black brings it back into the game.} a5 25. e5
+Qc7 {[%tqu "En","There are many tempting continuations here. Which do you
+think is best?","","","d5d6","",10]} 26. d6 $1 exd6 27. exd6 Qb8 28. Nf4 Bxb4 {
+[%tqu ]} 29. Nh5+ {The critical position. Young Anton finds the right idea but
+in the wrong move order! The spectators were not sure themselves since at one
+stage it looks winning and then one finds a defence then you break that down
+and another one appears.} (29. Rxb4 $1 {The cleanest win!} axb4 30. Qe5+ Kg8
+31. Nd5 $18) 29... gxh5 30. Qg5+ Kh8 31. Qf6+ Kg8 32. Bxh7+ {Looks decisive
+but Black has a defensive resource.} Kxh7 33. Rd5 Qb6+ 34. Kf1 Rc5 35. Qxf7+
+Kh8 36. Qxh5+ Kg7 37. Qg5+ {[%tqu "En","Going to one side loses and the other
+draws. Which one do you choose, don't be shy, 50-50 chance!","","","g7h7","",
+10]} Kh7 $4 {[%tqu "En","We have seen this theme earlier, the only winning
+move is.......","","","b1b4","",10]} 38. Rxb4 axb4 39. Rxc5 Be8 40. Qh4+ Kg7
+41. Qd4+ {There will be a discovered check winning the queen, with this Anton
+took a big step towards a GM norm which counts as a 20 game norm. He does not
+have it yet but wins like these certainly help!} 1-0
+

@@ -1,0 +1,35 @@
+[Event "Erice"]
+[Site "?"]
+[Date "2016.08.04"]
+[Round "9"]
+[White "Kovanova, Mariya"]
+[Black "Andre, Gordon"]
+[Result "1-0"]
+[ECO "C15"]
+[WhiteElo "2143"]
+[BlackElo "2262"]
+[Annotator "Kovanova, Mariya"]
+[SetUp "1"]
+[FEN "rn1q1rk1/pbp1bppp/1p2pn2/8/3PNB2/P1NQ4/1PP2PPP/2KR1B1R b - - 0 10"]
+[PlyCount "30"]
+[EventDate "2016.??.??"]
+
+{It was my 4th game in the tournament against player from Germany. The
+previous result (0.5/3) was not presentable for me so I was in quite agressive
+mood} 10... Nd5 $6 {The first step in wrong direction} ({After solid} 10...
+Nbd7 {The game only begins}) 11. Nxd5 exd5 $6 {The second one. Now B on b7 is
+quite passive and f5-square is free for the knight} 12. Ng3 {Of course white
+concentrates pieces near the opponent's king} g6 $6 {The third} 13. h4 Bxh4 $2
+{Looks like a suicide} ({According the famous rule "to hit in centre after
+moving on the side" black should proceed} 13... c5 $1 {But after simple} 14. h5
+Bf6 15. hxg6 fxg6 16. Nf5 $40 {White's attack looks very promissing}) 14. Nf5
+$1 $40 {Now it's winning.} Bg5 ({After capturing} 14... gxf5 15. Qxf5 {All of
+white piece's are taking part in black's king execution}) 15. Qg3 Bxf4+ ({
+Unfortunately,} 15... f6 {is also not helping} 16. Bxg5 fxg5 17. Nh6+ Kg7 18.
+Qe5+ $18) 16. Qxf4 f6 17. Rxh7 {Simple and strong} Rf7 18. Rh1 $1 {The only
+tough move to find} gxf5 19. Qh6 Rd7 20. Re1 Nc6 21. Re6 $2 {Here I missed a
+nice trick} (21. Qh8+ Kf7 22. Rh7+ Kg6 23. Rh6+ Kf7 (23... Kg5 24. f4+ Kxf4 25.
+Rh4+ Kg3 26. Qh6) 24. Re8 $3 {Wins immediately}) 21... Kf7 {To be honest, I
+missed this move, but the position still winning.} 22. Re3 Qg8 23. Qh7+ Qg7 24.
+Qxf5 Re7 25. Rh7 {Black resigned on the move 43th} 1-0
+

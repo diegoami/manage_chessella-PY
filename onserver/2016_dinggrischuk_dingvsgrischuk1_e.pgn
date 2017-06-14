@@ -1,0 +1,51 @@
+[Event "Ding vs Grischuk Match"]
+[Site "Wenzhou CHN"]
+[Date "2016.07.19"]
+[Round "1"]
+[White "Ding, Liren"]
+[Black "Grischuk, Alexander"]
+[Result "0-1"]
+[ECO "A65"]
+[WhiteElo "2778"]
+[BlackElo "2747"]
+[Annotator "Johannes Fischer"]
+[PlyCount "182"]
+[EventDate "2016.07.19"]
+
+1. d4 Nf6 2. c4 g6 3. f3 c5 4. d5 d6 5. e4 Bg7 6. Ne2 e6 7. Nbc3 exd5 8. cxd5
+O-O 9. Ng3 a6 10. a4 Ne8 11. Be2 h5 {Pushing the h-pawn ahead is a common idea
+in many King's Indian structure but in this position it is a new move.} 12. Be3
+h4 13. Nf1 f5 14. exf5 gxf5 15. Qd2 Nd7 16. Bg5 Bf6 17. Bxf6 Qxf6 18. f4 Ng7
+19. Ne3 Re8 20. Rf1 $5 {The beginning of an interesting idea. Hard to believe
+but White gives up his right to castle to attack the h-pawn.} Rb8 21. Rf3 Qg6 {
+Black gives the pawn to bring his pieces into a play. For a human mind White's
+rook maneuver might appear too time-consuming and rather artificial and Black
+seems to have a lot of compensation for the pawn. However, the engines condone
+White's play and consider White's to be clearly better here.} 22. Rh3 Nf6 23.
+Rxh4 Bd7 24. Kf2 b5 25. axb5 axb5 {Black threatens ...b4, followed by ...Ne4+,
+White's rook on h4 looks to be out of play and Black seems to have very active
+pieces. Still, the engines insist that White is better.} 26. Kg1 Re7 27. Rh3
+Ng4 28. Ra7 b4 29. Ncd1 Rbe8 30. Rf3 Nh5 {(#)} 31. Rxd7 {A little tactical
+trick to exchange pieces.} Rxd7 32. Bb5 Rde7 33. Bxe8 Rxe8 34. h3 Ngf6 35. Nf2
+Ng3 36. Qd1 ({The engines like the exchange sacrifice} 36. Rxg3 Qxg3 37. Nxf5
+Qg6 38. g4 {and evaluate the position as clearly better for White.}) 36... Kh8
+{To attack on the g-file.} 37. Kh2 Rg8 38. b3 Nge4 {Threatening 39...Nxf2.} 39.
+Qe1 (39. Nh1 {is the move the engine recommends - with an equal position.})
+39... Nxd5 40. g4 Nxe3 41. Rxe3 d5 {(#) Now Black finally gets the upper-hand.}
+42. Nd3 $2 ({Better was} 42. Nxe4 fxe4 ({but not} 42... dxe4 43. Qh4+ Kg7 44.
+Qe7+ Qf7 45. Qxc5) 43. f5 Qf6 {with a sharp double-edged but dynamically equal
+position.}) 42... fxg4 43. hxg4 Qxg4 44. Rh3+ Kg7 45. Rh4 Qxh4+ 46. Qxh4 Rh8
+47. Qxh8+ Kxh8 {(#)Black liquidated into a knight ending with an extra pawn
+that looks promising. However, he has technical difficulties. The c-pawn
+cannot advance easily because it has to protect the b-pawn and the knight on
+e4 is tied to the defense of the c-pawn.} 48. Kh3 Kg7 49. Kg4 Kf6 50. f5 Ke7
+51. Kh5 Kf7 52. Kg4 Nf6+ 53. Kg5 Nd7 54. f6 Ke6 55. Kg6 c4 {How else should
+Black make progress?} 56. bxc4 dxc4 57. Nxb4 Nxf6 {(#) According to the
+Nalimov tablebases this position is a draw. But in the further course of the
+game Ding Liren does not find the right defense.} 58. Kg5 Nd5 59. Nc6 c3 60.
+Kg4 Kd6 61. Na5 Kc5 62. Kf3 Kb5 63. Nb3 Kc4 64. Nc1 c2 65. Ke4 Nb4 66. Ne2 Nc6
+67. Ke3 Kb3 68. Nc1+ Kc3 69. Ne2+ Kb2 70. Kd3 Nb4+ 71. Kd4 Na2 72. Nf4 Kb1 73.
+Ne2 Nc1 74. Nc3+ Ka1 75. Kc4 Na2 76. Ne2 Kb2 77. Kd4 Nc1 78. Nf4 Nb3+ 79. Kd5
+Kc3 80. Ke4 Nc5+ 81. Kf3 Kd2 82. Ne2 Ne6 83. Kf2 Kd3 84. Nc1+ Kc3 85. Ke3 Kb2
+86. Ne2 Nc7 87. Ke4 Nb5 88. Nf4 Ka1 89. Nd3 Kb1 90. Ke3 Nc3 91. Kd2 Ne4+ 0-1
+

@@ -1,0 +1,84 @@
+[Event "79th Tata Steel Chess 2017-Masters"]
+[Site "Rotterdam"]
+[Date "2017.01.19"]
+[Round "5"]
+[White "So, Wesley"]
+[Black "Harikrishna, Pentala"]
+[Result "1-0"]
+[ECO "A34"]
+[WhiteElo "2808"]
+[BlackElo "2766"]
+[Annotator "Wesley So"]
+[PlyCount "95"]
+[EventDate "2017.??.??"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. Nf3  Nf6  2. g3  g6  3. Bg2  Bg7  4.
+c4  c5  5. Nc3  d5  6. d4  cxd4 { 
+} 7. Nxd4  dxc4  ({Wesley mentions that he felt the really
+testing move was} 7... e5 {Indeed the database shows the strongest game as
+being from 2011 between Fischdick vs Schlick. (Yes, those are really the names)
+, which Black won.}) 8. Qa4+ {( 833s)} Nbd7  9. O-O  O-O { }
+10. Rd1  Nb6  11. Qa3  Qd6  12. Qxd6 { }
+exd6  13. a4  a6  ({I thought} 13... Be6 {was possible.
+I'm not sure it works. For example,} 14. Nxe6 fxe6 15. Rxd6 {This is one
+variation I saw.} Rad8 16. Rxe6 Kf7 {and somehow this rook is under pressure.
+So I have to move here:} 17. Re3 Nbd5 18. Nxd5 Nxd5 19. Rf3+ Ke8 {[%csl Rb2]
+and now I am a pawn up, but he's got some pressure on b2, so I can't move my
+bishop away.} 20. Rxf8+ Kxf8 {Probably much better for me, but it is one
+possibility.}) 14. Bf4 {  I didn't try to recapture my pawn right away
+and instead hinder his development.} d5  (14... Ne8 15. Rac1 a5 16.
+Ndb5 Bd7 17. Bxd6 Nxd6 18. Rxd6 Bc6 19. Bxc6 bxc6 20. Rxc6 Rab8 21. Rc5 Rfd8
+22. Na7 Rd2 23. Rb5 Nd7 24. Rxb8+ Nxb8 25. Ncb5 Nd7 26. Rxc4 Bxb2 27. Kf1 Nb6
+28. Re4 f5 29. Re8+ Kf7 30. Rb8 Nxa4 31. Nc6 Nc3 32. Nxa5 Rd1+ 33. Kg2 Nxe2 34.
+Nc4 Ba1 35. Nbd6+ Kg7 36. Rb7+ Kg8 {1-0 (55) Kramnik,V (2783)-Nepomniachtchi,I
+(2720) Dortmund 2015}) 15. a5  Nbd7  16. Rac1 {  Another
+point of Rc1 is that it asks Black where he will play his awkward knight on d7.
+16...Nc5 is not possible due to 17. Bd6. By the way, here he (Harikrishna) had
+less than 20 minutes left, so he is in some time trouble already.} ({After} 16.
+Nxd5 Nxd5 17. Bxd5 Ne5 {I can win a pawn, but then he completes his
+development.} 18. Bxe5 Bxe5 19. Bxc4 Bg4 {Now White is better, but it is not
+so easy to convert.}) 16... Rd8  17. Bc7  Re8  18. Bd6 {
+ } ({After} 18. Nxd5 Nxd5 19. Bxd5 {he once again has the idea} Ne5) 18...
+Ne5  {I was attracted to} 19. Bxd5 $1 {because after} Nxd5 { 
+Taking is forced or I will play Bg2 and he will be completely paralyzed.} ({
+He probably didn't play} 19... Rd8 {in view of} 20. Bxb7 Bxb7 21. Bxe5) 20.
+Nxd5 {  the knight is hitting b6, c7, and e7.} Bg4 $1 {  A very strong
+move. I have to be very careful here.} 21. Rd2 {  I wasn't too happy with
+this move, but maybe it works, since I could not see anything refuting it.} ({
+For example, after} 21. Nc7 {he plays} Nd3 $1 {and it is really really tricky.
+I can probably equalize with} 22. exd3 ({If I were to blunder with} 22. Rxc4 $2
+Nxb2 23. Nxe8 Rxe8 {and most of my pieces and pawns are hanging.})) (21. f3 $2
+{would be a serious mistake because of} Nd3 $1 {[%csl Rd4][%cal Rg7d4,Rd4g1]
+and here the knight on d4 is threatened to be captured with check.}) 21... Red8
+{(319 s) The next moves are forced due to the threat of Nc7 or Nb6.} ({During
+the game I worried about} 21... c3 $6 {which forces} 22. Rxc3 {due to the
+possible ...Nc4, but after} Nc6 ({After} 22... Red8 23. Nb6 Rxd6 24. Nxa8 {
+I have} Nc6 25. e3) 23. Nxc6 Bxc3 {White just takes back with} 24. bxc3 {
+since now after} bxc6 25. Nf6+ Kg7 26. Nxe8+ Rxe8 {so I was probably just
+imagining things.}) 22. Nb6  Rxd6  ({You wouldn't want to play} 
+22... Ra7) 23. Nxa8  Nc6  24. Nf3  Rxd2  25. Nxd2 {
+ } Bxb2  26. Rxc4  Bxe2  27. Re4  Bd3  28.
+Re3 {  I still wasn't sure I was winning due to his powerful bishops.} Nb4
+$2 {  A serious mistake.} ({Instead Black should play something like} 
+28... Bf5 29. Rb3 Bf6 30. Rxb7 Nxa5 31. Rb6 Bc3 {and the point is that Black
+really needs to keep the bishop pair at all costs. For example, and endgame
+like} 32. Nb3 Nxb3 33. Rxb3 Bf6 34. Rb6 Kg7 35. Rxa6 {and this endgame could
+easily be a draw, as long a White is unable to exchange his knight for one of
+the bishops.}) 29. Nb6 {  There is a small trap here.} Bd4  ({
+Here he would be forced to let one of his bishops be exchanged for a knight
+after} 29... Bc1 30. Nbc4 {with the idea of Re1.}) 30. Re7  Nc6 { }
+31. Rxb7  Nxa5  32. Rd7  Nc6  33. Nb3  Bf5 {
+ } ({Black clearly felt that after} 33... Bxb6 34. Rxd3 {he is technically
+lost, but it had to be more resistant than the game move, which just drops a
+piece.}) 34. Rxd4  Nxd4  35. Nxd4  Bd3  36. Kg2 {
+ } Kf8  37. Kf3  Ke7  38. Ke3  Bf1  39.
+Nf3  Kd6  40. Kd4  f6  41. Nd2  Be2 { }
+42. Nd5  f5  43. Nc3  Bh5  44. Nc4+  Ke6 {
+ } 45. f4  Kd7  46. Kc5  h6  47. Nd5 { }
+Ke6  48. Nc7+  1-0
+

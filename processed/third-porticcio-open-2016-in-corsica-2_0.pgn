@@ -1,0 +1,37 @@
+
+
+[Event "2016"] [Site "?"] [Date "2016.06.26"] [Round "3.7"] [White "Sagar, 
+        Shah"] [Black "Grandelius, Nils"] [Result "0-1"] [ECO "E52"] [WhiteElo 
+        "2433"] [BlackElo "2649"] [Annotator "Sagar Shah"] [SetUp "1"] [FEN "R7/3q1ppk/1pn3rp/3r4/3Pp3/B3P1P1/5P1P/1R3Q1K 
+        b - - 0 31"] [PlyCount "10"] [EventDate "2016.??.??"] [WhiteClock "0:00:33"] 
+        [BlackClock "0:06:10"] 31... Rf6 {[%cal Gg6f6] Black has just played his 
+        rook from g6 to f6. The question that you need to solve is whether the 
+        pawn on b6 is poisoned or can be taken? It is the most critical position 
+        of the game.} 32. Rxb6 $2 {I took the pawn after six minutes of thinking 
+        which means I was down to four minutes on the clock. It turned out to 
+        be a mistake. But the refutation is not so easy to see.} Nxd4 $3 {My opponent 
+        played this move without having seen all the details. In the limited time 
+        that we had it was surely impossible to calculate everything. If you worked 
+        it out, you are truly a very strong player.} ({ Also extremely strong 
+        was} 32... Rdf5 $1 33. Rb2 {I wanted to meet it with this move defending 
+        f2 but now Black has the strong} Nxd4 $1 {After the game Nils told me 
+        about this possibilty, but he was not 100% sure whether it worked. } 34. 
+        exd4 Qd5 $1 $19 {The rook on a8 is attacked and e3 is going to be crushing.} 
+        (34... e3 $6 35. f4 $1 Qc6+ 36. Qg2 Qc1+ 37. Qg1 Qc6+ $11)) 33. Rxf6 Ne6 
+        $2 {This move lets White defend against the mating threats.} (33... Nf3 
+        $3 {Of course I had not missed this move but I had seen the intermediate 
+        Rd6 as a defence. Turns out Black has some more ammo in his gun.} 34. 
+        Rd6 {This looks like White wins but Black has a nice shot.} Rh5 $3 35. 
+        Qg2 (35. h4 Qg4 $1 { And now it is impossible to defend against the mate 
+        threats.} (35... Nxh4 36. Rxd7 Nf3+ 37. Qh3 Rxh3+ 38. Kg2 Rh2+ 39. Kf1 
+        Rh1+ 40. Kg2 Rh2+ $11) (35... Rxh4+ $2 36. gxh4 Qg4 37. Rxh6+ $1 gxh6 
+        38. Be7 $1 $18 {Quite easy to go wrong. }) 36. Rxh6+ Rxh6 37. Be7 f6 $19) 
+        35... Qb5 $3 {Threatening Qf1. A not at all easy move to see.} (35... 
+        Qb7 36. Rad8 $14) 36. Rd1 (36. Rad8 Qf1+ $1 $19) 36... Rxh2+ $1 {A simplification 
+        that wins the d1 rook.} 37. Qxh2 Nxh2 38. Kxh2 Qh5+ 39. Kg2 Qf3+ 40. Kg1 
+        Qxd1+ $19 {Did you see everything? Komodo 10 will be quite impressed if 
+        you did!}) 34. Qc4 $1 (34. Rxf7 Qxf7 $15) 34... gxf6 35. Qc8 (35. Qxe4+ 
+        f5 $19) 35... Qxc8 36. Rxc8 $11 {The position is equal, but with very 
+        less time on the clock I blundered a pawn and went on to lose the game. 
+        The tactical melee starting with Rxb6 was quite interesting, don't you 
+        agree?} 0-1 

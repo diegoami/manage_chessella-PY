@@ -1,0 +1,99 @@
+[Event "2016 Turkiye Is Bankasi Super Satranc L"]
+[Site "Izmir"]
+[Date "2016.07.30"]
+[Round "7.3"]
+[White "Fataliyeva, Ulviyya"]
+[Black "Kaplan, Ebru"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r4k2/q3bpp1/3pbn1p/5N2/4P3/2Q3N1/5PPP/B4RK1 w - - 0 31"]
+[PlyCount "17"]
+[EventDate "2016.??.??"]
+
+31. Nxg7 $1 Kxg7 32. Nh5+ Kf8 (32... Kg6 {changes nothing.} 33. Nxf6) 33. Nxf6
+Bxf6 34. Qxf6 {and White is up a pawn and still enjoying a strong attack.} Ke8
+35. Bd4 Qb7 36. e5 dxe5 37. Bc5 Rc8 38. Rd1 Qc7 39. Qh8# 1-0
+
+[Event "2016 Turkiye Is Bankasi Super Satranc L"]
+[Site "Izmir"]
+[Date "2016.07.30"]
+[Round "7.3"]
+[White "Mchedlishvili, Mikheil"]
+[Black "Topak, Engin"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r2rk/3Pqp2/p1BRb1p1/1p2P1Rp/2p2P2/P6P/1P1Q3K/8 w - - 0 38"]
+[PlyCount "5"]
+[EventDate "2016.??.??"]
+
+38. f5 $1 {and Black resigned in view of} Bxf5 39. Rxf5 gxf5 40. Qh6# 1-0
+
+[Event "2016 Turkiye Is Bankasi Super Satranc L"]
+[Site "Izmir"]
+[Date "2016.07.30"]
+[Round "7.1"]
+[White "Yaran, Siar"]
+[Black "Gundogan, Cem"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2r1kp2/b1r1pNp1/3pP2p/1R3P2/R7/1PP3PP/6K1 w - - 0 29"]
+[PlyCount "11"]
+[EventDate "2016.??.??"]
+
+29. Rxa6 $3 Rxa6 30. Rb8 {and Black cannot prevent mate.} Ra1+ 31. Kf2 Rxc2+
+32. Kg3 h4+ 33. Kxh4 g5+ 34. Kh5 1-0
+
+[Event "2016 Turkiye Is Bankasi Super Satranc L"]
+[Site "Izmir"]
+[Date "????.??.??"]
+[Round "8.4"]
+[White "Akdogan, Alperen"]
+[Black "Aydincelebi, Kagan"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1rb2r1k/2n1q2p/p2p4/PppPb3/4Np2/5B1P/1P1Q1PPB/R3R1K1 w - - 0 24"]
+[PlyCount "31"]
+
+24. Nxc5 $1 dxc5 25. Qe2 $1 {Do not be distracted by the double attack ideas
+of discovered attacks, the theme here is the pin and its exploitation.} Re8 ({
+The alternative fails to} 25... Rf5 26. Bg4 Rf6 (26... Rg5 27. Bxf4 $1) 27.
+Qxe5 Qxe5 28. Rxe5 Bxg4 29. hxg4 {and White is up two pawns.}) 26. Bh5 Bf5 (
+26... Bd6 27. Bxe8 Qxe2 28. Rxe2 Bf5 29. Bc6) 27. Bxe8 Rxe8 28. Bxf4 Bxf4 29.
+Qxe7 Rxe7 30. Rxe7 Bd6 31. Rf7 Bc8 32. Re1 Kg8 33. Rxc7 Bxc7 34. Re8+ Kf7 35.
+Rxc8 Be5 36. Rxc5 Bxb2 37. Rc6 Bd4 38. Rxa6 b4 39. Rb6 1-0
+
+[Event "2016 Turkiye Is Bankasi Super Satranc L"]
+[Site "Izmir"]
+[Date "????.??.??"]
+[Round "9.1"]
+[White "Colak, Tugay"]
+[Black "Benidze, Davit"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r2qr1k1/p4pbp/b2p1np1/2pP4/4P3/1Q1n1NPP/PP2NPB1/R1BR2K1 b - - 0 19"]
+[PlyCount "17"]
+
+19... Nxf2 $3 20. Kxf2 Nxe4+ {and the knight on e2 cannot be protected.} 21.
+Kg1 ({For example,} 21. Ke1 Nc3 $3 22. bxc3 Rxe2+ {Leading to a deadly
+discovered check.} 23. Kf1 Rb2+ 24. Kg1 Rxb3 25. axb3 Be2) (21. Kf1 Nxg3+ 22.
+Kf2 Nxe2) 21... Bxe2 22. Re1 Nxg3 23. Bf4 Nf5 24. Qc2 Bxf3 25. Bxf3 Qh4 26.
+Rxe8+ Rxe8 27. Qh2 Bxb2 0-1
+
+[Event "2016 Turkiye Is Bankasi Super Satranc L"]
+[Site "Izmir"]
+[Date "????.??.??"]
+[Round "8.7"]
+[White "Ozen, Bahadir"]
+[Black "Uraz, A.Kerim"]
+[Result "1-0"]
+[PlyCount "64"]
+
+1. b3 c5 2. Bb2 Nc6 3. e3 d5 4. Bb5 e6 5. f4 Nge7 6. Nf3 a6 7. Bd3 b5 8. O-O
+Bb7 9. Ng5 Qd7 10. Qh5 Nf5 {[#]} 11. Nxe6 $1 g6 12. Qh3 $1 {This takes
+advantage of a new problem in Black's position: the rook on h8 now attacked
+after ...g6.} (12. Nxf8 {is also fine, though not quite as incisive.}) 12... d4
+13. Nxf8 Rxf8 14. e4 Nd6 15. Qxd7+ Kxd7 16. c3 c4 17. bxc4 bxc4 18. Be2 Nxe4
+19. cxd4 Nb4 20. Na3 Nd3 21. Nxc4 Nxb2 22. Nb6+ Ke6 23. Rfb1 Rad8 24. d5+ Kf5
+25. Rxb2 Kxf4 26. Rb4 Bxd5 27. Nxd5+ Rxd5 28. d3 Ke3 29. Rxe4+ Kd2 30. Rd1+ Kc2
+31. Rc4+ Kb2 32. Rd2+ Kb1 1-0
+

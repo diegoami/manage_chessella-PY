@@ -1,0 +1,36 @@
+[Event "7th Hainan Danzhou GM"]
+[Site "Danzhou CHN"]
+[Date "2016.07.10"]
+[Round "3.2"]
+[White "Nepomniachtchi, Ian"]
+[Black "Wang, Yue"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2725"]
+[BlackElo "2730"]
+[Annotator "Johannes"]
+[SetUp "1"]
+[FEN "8/8/4b1rp/pp2kp1R/2p5/P1P1KB1P/1P4P1/8 b - - 0 50"]
+[PlyCount "70"]
+[EventDate "2016.07.08"]
+
+50... Bd7 $6 (50... Kd6 51. Kd4 {seems to be better for White but it is hard
+to see how he can make progress.}) 51. g4 a4 52. gxf5 Rf6 $6 (52... Bxf5 $1 53.
+Bg4 Rg5 54. Rxh6 Bxg4 55. hxg4 Rxg4 56. Rh5+ Kd6 57. Kf3 Rg8 58. Rxb5 Rh8 {
+might lead to a theoretical draw.}) 53. Be4 {Now White is a clear pawn up.} Be8
+54. Rh4 Bd7 55. Bc2 Bc6 56. Rd4 (56. Rg4 Bd5 57. Rg6 Rc6 58. h4 {looks more
+forcing.}) 56... Rf8 57. Be4 Rc8 58. Bxc6 Rxc6 59. Rd8 Rb6 60. Rc8 {Giving
+Black the f-pawn to penetrate with the pieces.} Kxf5 61. Rc5+ (61. Kd4 $1 {
+wins immediately, e.g.} Kf4 62. Kc5 Rb7 63. Kc6 $18 {and the black pawns on
+the queenside will quickly fall.}) 61... Ke6 62. h4 (62. Kd4 Rd6+ (62... Kd6
+63. Rh5 Kc7 64. Kc5 $18) 63. Ke4 Rd2 (63... Rb6 64. Rd5 $1 Rb8 65. Kd4) 64.
+Rxb5 Kd6 {is not clear.}) 62... Kd7 63. Kf4 Rf6+ 64. Kg4 Rg6+ 65. Kh5 Rb6 66.
+Rf5 Ke7 67. Kg4 Rg6+ 68. Kf4 Rb6 (68... Rf6 69. Ke4 (69. Rxf6 Kxf6 $11) 69...
+Re6+ 70. Kd4 Rd6+ 71. Rd5 Rg6 72. Ke3 (72. Kc5 Rg2 73. Kxb5 Rxb2+ 74. Kxa4 Rb3
+75. Rh5 Rxc3 76. Rxh6 Rh3 $11) 72... Re6+ 73. Kf3 Rf6+) 69. Re5+ Kd7 $2 {
+Now the white king penetrates. After} (69... Kf6 {it is not clear how White
+can make progress.}) 70. Kf5 Rb8 71. Kg6 Kc6 72. Re2 Rg8+ 73. Kxh6 {Now the
+h-pawn decides.} Kd6 74. h5 Rg3 75. Kh7 Rg5 76. h6 Kd7 77. Kh8 Rg6 78. Kh7 Rg5
+79. Re3 Rg2 80. Re5 b4 81. axb4 Rxb2 82. Kg6 Rg2+ 83. Rg5 Rh2 84. h7 a3 85. Ra5
+1-0
+

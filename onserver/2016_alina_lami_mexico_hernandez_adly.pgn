@@ -1,0 +1,112 @@
+[Event "Copa Independencia"]
+[Site "Ciudad de MExico"]
+[Date "2016.09.14"]
+[Round "1.4"]
+[White "Diaz Hernandez, Heriberto"]
+[Black "Adly, Ahmed"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2367"]
+[BlackElo "2603"]
+[SetUp "1"]
+[FEN "3rk2r/1p2bppp/p3pn2/2p4b/2P1PB2/5N1P/PP3PP1/RN2R1K1 b k - 0 13"]
+[PlyCount "103"]
+[EventDate "2016.09.14"]
+
+{Shoutout to Ahmed, who took an incredible decision based on intuition, after
+a long traveling torture and no rest whatsoever. I wouldn't have dared for
+sure, given the circumstances, but the Egyptian likes to stir in some crazy
+moves:} 13... Nxe4 $1 {Objectively speaking, there was a better alternative,} (
+{the calmer} 13... Bxf3 14. gxf3 g5 $5 15. Be3 (15. Bxg5 {is not advisable due
+to} Rg8) 15... Nd7 16. Nd2 Ne5 17. b3 Nd3 {with very nice control over the
+black squares. Positionally, Black is enjoying a healthy life and the
+advantage, where the king can happily walk around via d7 and c6, if he pleases
+so. However, the game continuation made my eyes pop in astonishment for its
+dynamic beauty.}) 14. Rxe4 Rd1+ 15. Kh2 Bxf3 16. gxf3 Bf6 17. Be5 {very
+natural but not the most efficient way to put an end to Black's compensation.}
+({After the game and with a smile on his face, Ahmed told me he calculated
+that after} 17. Re2 {he will go} Ke7 18. Rc2 Rhd8 19. Bc1 $143 ({A spoiling
+intermezzo: he missed} 19. Kg2 {with the idea Bc1! on the next move,
+difference which will become clear later on.}) 19... Rxc1 20. Rxc1 Bxb2 21. Nc3
+Rd4 22. Ne2 Rd2 $44 {(And now the f2-pawn is undefended, hence the purpose of
+the earlier intermediate Kg2 move.) Needless to repeat but there is no harm in
+doing so: my respect for such visualization and for the animated way to play.})
+17... Ke7 18. Bxf6+ gxf6 19. Rg4 Rhd8 20. a4 ({Defending against a master of
+initiative is never easy but perhaps} 20. Rg1 {would have been better} Rxg1 21.
+Kxg1 Rd1+ 22. Kg2 b5 23. cxb5 axb5 24. a3 c4 25. f4 f5 26. Kf3 Re1 {My
+computer is currently giving 0.00 but which human would like to be so
+tied-up?! No wonder there is this saying of "dying in glory" rather than
+agonizing for ages with no counterplay in sight.}) 20... e5 ({Even stronger was
+} 20... Rf1 $1 21. Rg1 Rxf2+ 22. Rg2 Rf1 23. Rg1 Rxf3 {collecting all the pawns
+} 24. Ra3 Rxa3 25. Nxa3 f5) 21. Rg1 Rxg1 22. Kxg1 Rd1+ 23. Kg2 Kd6 24. Kg3 f5
+25. f4 e4 26. Kg2 a5 27. Kg3 b6 28. Kg2 Ke7 29. Kg3 f6 30. Kg2 Kf7 31. Kg3 Kg6
+32. Kg2 Rc1 33. Kg3 Kh5 34. h4 Re1 35. Kh3 e3 36. fxe3 Rxe3+ 37. Kg2 Re1 38.
+Kg3 Rc1 39. Kh3 Rxc4 40. Nc3 Rxf4 41. Kg3 Rxh4 {Nothing is over but I would be
+a bit reluctant to play this with White.} 42. Nd5 Kg5 43. Rf1 Rxa4 44. Nxb6 Rb4
+45. Nd7 c4 46. Rf2 f4+ 47. Rxf4 Rb3+ ({Faster was} 47... c3 48. Rxb4 axb4 49.
+bxc3 bxc3 50. Nc5 c2 51. Nd3 h5 {and sayonara.}) 48. Rf3 Rxf3+ 49. Kxf3 c3 50.
+bxc3 a4 51. Nc5 a3 52. Nb3 Kf5 53. c4 a2 54. Ke3 {It is very easy to miss a
+golden opportunity if you had to defend the entire game.} ({Suddenly the eel
+becomes a whale?!} 54. Kg3 Ke4 55. Kg4 h6 56. Kh5 f5 57. Kh4 $1 Ke5 58. Kh5 Kd6
+59. Kh4 {I don't see progress for Black.}) 54... h5 55. Kf3 Ke5 56. Ke3 f5 57.
+Kf3 h4 58. Kg2 f4 59. Kg1 Ke4 60. c5 Ke5 61. Kg2 Kd5 62. Kf2 h3 63. Kf3 Kc4 64.
+c6 h2 0-1
+
+[Event "Copa Independencia"]
+[Site "Ciudad de MExico"]
+[Date "2016.09.14"]
+[Round "2.2"]
+[White "Adly, Ahmed"]
+[Black "Sriram, Jha"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2603"]
+[BlackElo "2418"]
+[PlyCount "93"]
+[EventDate "2016.09.14"]
+
+{Maybe even more remarkable than Ahmed's first round win was the second game
+of the day, played as if Jason Statham descended from the big screen onto the
+chess board and started fighting a game of chess.} 1. d4 d5 2. Nf3 Nf6 3. c4 c6
+4. Nc3 a6 5. e3 e6 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 Nbd7 9. e4 c5 10. d5 c4 11.
+Bc2 Bc5 12. O-O e5 13. b3 cxb3 14. axb3 Bb7 15. Ne2 O-O 16. Ng3 Ne8 17. Bb2 f6
+18. Nh4 Rc8 19. Ngf5 g6 20. Qg4 Kf7 21. b4 Bxb4 22. Bb3 gxf5 23. Nxf5 Nd6 24.
+Qg7+ Ke8 25. Bd1 Nf7 26. Bh5 Nc5 27. Rad1 Nxe4 28. d6 Qd7 29. Bxf7+ Qxf7 30.
+d7+ Kd8 31. dxc8=Q+ Kxc8 32. Qxf7 Rxf7 33. f3 Bc5+ 34. Kh1 Ng5 35. Nd6+ Bxd6
+36. Rxd6 Kc7 37. Ba3 Bc8 38. h4 Ne6 39. Rc1+ Kb7 40. Rxc8 Kxc8 41. Rxe6 a5 42.
+Ra6 b4 43. Bb2 Rc7 44. Rxf6 a4 45. Bxe5 b3 46. Rf8+ Kb7 47. Rf4 1-0
+
+[Event "Copa Independencia"]
+[Site "Ciudad de MExico"]
+[Date "2016.09.15"]
+[Round "4.1"]
+[White "Vijayalakshmi, Subbaraman"]
+[Black "Adly, Ahmed"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "2384"]
+[BlackElo "2603"]
+[SetUp "1"]
+[FEN "8/8/8/2K2p2/1p2bP2/1k6/8/6R1 b - - 0 97"]
+[PlyCount "29"]
+[EventDate "2016.09.14"]
+
+{With all these double rounds, the accent falls on preserving the energy and
+making as little errors as possible. Easier said than done...after an opening
+and middlegame that didn't lack surprises for both sides, White went too far
+and ended up in a lost position.} 97... Kc3 98. Rc1+ {Black suffered the whole
+game but decided to return the favor and went for the wrong} Kd2 ({Winning on
+the spot was} 98... Bc2 {as mentioned by the Egyptian GM right after the game.
+But during the round...some weird synapses were made and he decided to win in
+a 'prettier' way.}) {Black's last move was wrong but not because of:} 99. Rf1 {
+which passes again the winning ball into Blakc's court} ({Instead,} 99. Rc4 $1
+{holds on to the draw} b3 100. Rb4 Kc2 101. Rc4+ Kb2 102. Kd4 $1 {and Black is
+unable to disentangle; trying too much would bring nothing but a zero} Kb1 $2
+103. Kc3 Bc2 104. Ra4 Bd1 105. Ra6 Bc2 106. Ra5 {:)) Oups!}) 99... b3 {Being a
+'gentleman' again} ({Instead,} 99... Bd3 {re-establishes the winning balance}
+100. Rf2+ Kc3 {and the b-pawn starts growing wings.}) 100. Kb4 Ke2 101. Ra1 $1
+{This is what Ahmed missed when going for the unfortunate 99...Kd2 move. But a
+fair result, if I may say so, given the chances for both players during the
+game.} Bc2 102. Kc3 Ke3 103. Ra4 Bd1 104. Rb4 Bc2 105. Kb2 Kd3 106. Ra4 Ke3
+107. Rb4 Kf3 108. Ra4 Be4 109. Kxb3 Kxf4 110. Ra5 Ke3 111. Rxf5 Bxf5 1/2-1/2
+

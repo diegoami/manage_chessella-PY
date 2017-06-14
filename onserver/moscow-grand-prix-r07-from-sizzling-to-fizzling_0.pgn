@@ -1,0 +1,63 @@
+[Event "FIDE Moscow Grand Prix 2017"]
+[Site "Moscow"]
+[Date "2017.05.19"]
+[Round "7"]
+[White "Giri, Anish"]
+[Black "Salem, A R Saleh"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2785"]
+[BlackElo "2633"]
+[Annotator "Alex Yermolinsky"]
+[PlyCount "131"]
+[EventDate "2017.??.??"]
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nd2 e6 5. Nb3 {In this line White goes after the
+f8-bishop.} c5 {Question is, can Black find a different plan?} ({The answer is,
+yes.} 5... Nd7 6. Nf3 Qc7 7. Be2 f6 $5 (7... c5 8. dxc5 Bxc5 9. Nxc5 Qxc5
+{Rublevsky-Bologan, 2012, is essentually the same thing as in the game.}) 8.
+O-O fxe5 9. dxe5 O-O-O {has been tried by two American GMs, Lenderman and his
+coach, Kacheishvili.}) 6. dxc5 Bxc5 7. Nxc5 Qa5+ 8. c3 Qxc5 9. Be3 Qc7 10. f4
+Ne7 11. Be2 O-O 12. Nf3 Nbc6 13. O-O $14 Na5 $6 {This isn't going to accomplish
+anything.} ({Black must seeks exchanges, so} 13... Be4 14. Nd2 Bg6 15. Nb3 Na5
+{Rublevsky-Dreev, 2012, appears more logical.}) 14. Bf2 a6 15. Rc1 Rac8 16. b3
+$1 Nac6 17. Qd2 Rfd8 18. b4 $1 Be4 19. a4 {Black is devoid of a meaningful
+plan, and clearly stands worse.} Nf5 20. g4 Nfe7 21. Ng5 Bg6 22. Bc5 Rd7 23.
+Nf3 ({More accurate is} 23. Qe3 h6 24. Nf3 $16 Be4 25. Nd2 Bh7 26. Nb3) 23...
+Na5 $6 (23... Be4 24. Ng5 Bg6 25. Qe3) {Salem is seeking counterplay, but Giri
+has a direct response.} 24. Nd4 $1 Nc4 25. Bxc4 dxc4 26. Bxe7 Rxe7 27. f5 exf5
+28. gxf5 Bh5 29. Qg5 g6 {[#]} 30. e6 $2 (30. f6 Qxe5 31. Nf5 $1 Re6 32. Rce1
+Be2 33. Rf2 {is just curtains.}) 30... f6 $1 {Salem fights like a lion.} 31.
+Qxf6 Rg7 32. Rc2 Bg4 $1 33. Qh4 $6 ({Giri was a bit low on time, and couldn't
+quite see the end of the following line,} 33. Re1 Bxf5 34. e7 Qd7 $1 ( 34...
+Re8 35. Nxf5 gxf5+ 36. Rg2 Rxg2+ 37. Kxg2 Qc6+ 38. Qxc6 bxc6 39. Kf3 Kf7 40.
+Kf4 {is easy.}) 35. Nxf5 gxf5+ 36. Rg2 Rxg2+ 37. Kxg2 Qd2+ 38. Kf1 Qf4+ 39. Ke2
+Qxh2+ 40. Kd1 Re8 41. Qd4 {The white king has escaped, but his black
+counterpart won't.}) 33... Bxf5 34. Rg2 Re8 35. Re1 a5 $1 {A remarkable move.}
+36. bxa5 (36. b5 Qc5 {and how does White make progress.}) 36... Qxa5 37. Nxf5
+$6 Qxf5 38. Qxc4 Rge7 39. Rf2 {[#]} Qa5 $6 {Just before the time control Salem
+spoils his great defensive effort.} ({The correct} 39... Qg5+ 40. Kh1 Rd8 {
+would ensure Black gets to trade queens on d5, with a draw in sight.}) 40. Rf7
+$1 Qb6+ 41. Kg2 Qc6+ {A tough choice. The queens come off, but now White has a
+passed a-pawn.} 42. Qxc6 bxc6 43. Rxe7 Rxe7 {It's not the first time in this
+tournament a winning position transformed into a borderline drawn rook endgame.
+Anish Giri makes sure it's not the case here.} 44. Kf3 Kf8 45. a5 Ra7 46. Re5
+Ke7 47. Ke4 {[#]} Rb7 {Played by the book: rook activity above everything else.
+} ({Truth to tell, a passive defense wouldn't cut it. After} 47... Ra8 48. Kd4
+Ra6 (48... h6 49. Kc4 g5 50. Kb4 Ra7 51. Re3 h5 52. c4 Ra8 53. Re1 $1 (53. Re5
+Kf6) 53... Ra7 54. Re5 $18) 49. Kc4 Ra8 50. Kb4 Ra6 51. Re3 Ra7 52. c4 { Black
+finds himself in Zugzwang, and must weaken his K-side defenses.} Ra8 ( 52... h6
+53. Rg3 Kf6 54. e7 $1) 53. Rh3 Kxe6 54. Rxh7 Kd6 55. c5+ Ke6 56. Rg7 Rb8+ 57.
+Kc4 Kf5 58. Rc7 Ra8 59. Kb4 Ra6 60. Rb7 {etc.}) 48. Kd3 $1 (48. a6 $2 {blows
+the win:} Ra7 49. Ra5 Kxe6 50. Kd4 Kd6 51. Kc4 Kc7 $1 (51... g5 52. Kb4 g4 53.
+Ra4 h5 54. Ka5 Kc5 55. Rf4 $18) 52. Kc5 g5 {and the advancing K-side pawns will
+deflect the white rook from protection of the a6-pawn.}) ({It's unnecessary to
+allow} 48. Kd4 Rb2) 48... Rb1 (48... Rb2 49. Re2) 49. Kc2 Ra1 50. Kb2 Ra4 51.
+Kb3 Ra1 52. Kb2 Ra4 53. Kb3 Ra1 54. c4 h6 55. Kb4 g5 56. Re3 $1 {Anish
+demonstrates the winning plan.} c5+ (56... g4 57. Ra3 c5+ 58. Ka4 Rb1 59. a6)
+57. Kb5 g4 58. h3 (58. a6 h5 59. Kb6 h4 60. a7 Ra2 61. Re4 g3 62. hxg3 hxg3 63.
+Rg4 g2 64. Rxg2) 58... gxh3 59. Rxh3 Kxe6 60. Rxh6+ Kd7 61. a6 $1 { Anish
+prepares an elegant finish, but it's not the only way.} ({The notoriouis f+h
+pawns ending with the defender's king cut off on the back rank,} 61. Kb6 Rb1+
+62. Kxc5 Kc7 63. Rh7+ Kb8 64. Kc6 Ra1 65. c5 {is theoretically winning.}) 61...
+Kc7 62. Rh8 $1 Kd6 (62... Ra2 63. a7 Rxa7 64. Rh7+ Kb8 65. Rxa7 Kxa7 66. Kxc5
+Kb7 67. Kd6 {is the point.}) 63. a7 Rxa7 64. Rh6+ Ke5 65. Kxc5 Ra8 66. Kb6 1-0

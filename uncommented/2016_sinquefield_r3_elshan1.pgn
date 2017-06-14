@@ -1,0 +1,70 @@
+[Event "4th Sinquefield Cup 2016"]
+[Site "Saint Louis"]
+[Date "2016.08.07"]
+[Round "3"]
+[White "Anand, Viswanathan"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2770"]
+[BlackElo "2791"]
+[Annotator "Elshan Moradiabadi"]
+[PlyCount "59"]
+[EventDate "2016.??.??"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[TimeControl "40/7200:3600+30"]
+
+1. e4 {(3s)} c5 {(18s) Thanks to their victories in the second round, both players
+seem to be in a fighting mood. A Najdorf is a perfect choice for the audience and
+chess fans.} 2. Nf3 {(9s)} d6 {(3s)} 3. d4 {(7s) even better news! no sidelines with
+Bb5+.} cxd4 {(8s)} 4. Nxd4 {(6s)} Nf6 {(4s)} 5. Nc3 {(7s)} a6 {5} 6. h3 {9 This move has
+gained a lot of attention in recent years. Some of sicilian defence
+theoretician would convincingly argue that this move may be even more
+dangerous than English attack ( similiar to the game between Giri and MVL in
+the first round).} e5 {5} 7. Nde2 $5 {9 The most common move. The idea of this
+move is to play g4 and transfer the knight to g3, which will be an improvement
+of knight's position compared to English attack when the d4 knight ends up on
+unfavorable square of b3.} h5 {8 Again, the most common move. Nakamura
+prevents g4.} 8. Nd5 $5 {7 An odd choice but not for Anand. He has
+successfully employed this move against Topalov and MVL earlier this year.
+Nakamura is surely prepared against this move.} (8. Bg5 {is the most common
+move.} Be6 9. Bxf6 Qxf6 10. Nd5 Qd8 11. Qd3 g6 12. O-O-O Nd7 13. Kb1 Rc8 14.
+Nec3 Rc5 15. Be2 b5 16. a3 $14 {1-0 (74) Anand,V (2803)-Topalov,V (2803)
+London 2015}) 8... Nxd5 {9} 9. Qxd5 {11} Nc6 $5 {5 Nakamura does not follow
+MVL's and Topalov's path. His confident reaction (he only spends a bit of time)
+shows that he is prepared to face 'Anand's rich opening arsenal'.} (9... Nd7
+10. Nc3 Nf6 {here Anand employed two different moves against Topalov and MVL
+and in both cases the two top super-GMs failed to solve all of their opening
+problems. Although, one has to consider that these games were played in rapid
+and blitz time control.} 11. Qd3 (11. Qd1 Be6 12. Bg5 Be7 13. Bxf6 Bxf6 14. Be2
+g6 15. O-O Rc8 16. Nd5 Bg5 17. c3 O-O 18. a4 Kg7 19. a5 h4 20. Ra4 Rc5 21. b4
+Rc6 22. c4 Bf4 23. Ra3 Qg5 24. Nb6 f5 25. b5 axb5 26. cxb5 Rc1 27. Qxd6 Rxf1+
+28. Bxf1 Bf7 29. a6 bxa6 30. bxa6 Rd8 31. Nd7 fxe4 32. a7 e3 33. a8=Q exf2+ 34.
+Kh1 {1-0 (34) Anand,V (2770)-Topalov,V (2761) Leuven 2016}) 11... Be7 12. Bg5
+Be6 13. O-O-O Qa5 14. a3 Rc8 15. Bxf6 Bxf6 16. Nd5 Qc5 17. Qe2 h4 18. Kb1 Bg5
+19. g3 hxg3 20. fxg3 Bxd5 21. Rxd5 Qe3 22. Qxe3 Bxe3 23. Rxd6 Rd8 24. Rxd8+
+Kxd8 25. Bc4 Ke7 26. h4 Rh6 27. g4 Rf6 28. g5 Rf2 29. Rh3 Bd2 30. a4 Rf4 31.
+Bd5 b5 32. axb5 axb5 33. Ka2 f6 34. gxf6+ Kxf6 35. h5 Rf2 36. Rg3 Bg5 37. Rc3
+Bf4 38. Kb3 Kg5 39. Rc7 Kh6 40. Bf7 Bc1 41. Rc6+ Rf6 42. Rxf6+ gxf6 43. c3 Kg5
+44. Bg6 f5 45. exf5 e4 46. f6 Kxf6 47. Bxe4 b4 48. cxb4 Ke5 49. Bf3 Kd4 50. b5
+Kc5 51. Bc6 {1-0 (51) Anand,V (2770)-Vachier Lagrave,M (2789) Leuven 2016}) 10.
+Qd1 {38} (10. Nc3 $2 {is impossible due to} Nd4 $17) 10... Be6 {10} 11. Nc3 {36
+} Ne7 $1 {5 This is Nakmaura's idea. He solves the 'd5' problem of although it
+will cost him few tempi before he finishes his development.} 12. Bd3 {191} d5 {
+615} 13. exd5 {25} Nxd5 {7} 14. O-O {7} Nb4 {882} ({My computer suggests:} 
+14... Nxc3 15. bxc3 f5 {but this is too artifical for a human!}) 15. Qe2 {
+1254  Now Vishy addresses the problem of e5 square which is due to lack of
+enough development on black's side.} Qc7 {975} 16. f4 {662  A classic reaction
+by Anand. Fortunately for Nakamura, he has enough resources to maintain
+dynamic balance.} (16. Re1 Nxd3 17. cxd3 Rd8 18. Be3 Be7 19. Rad1 (19. Rac1 Qd6
+) 19... h4 20. d4 exd4 21. Bxd4 O-O {and black is out of any danger.}) 16...
+Bc5+ {528} 17. Kh1 {113} Nxd3 {8} 18. cxd3 {12} Bd4 {1} 19. f5 {496} Bd7 {419}
+20. f6 {158} g6 {28} 21. Nd5 {155} Qd6 {12} 22. Ne7 {29 Black cannot castle
+but there is no open file in the game which might let White cause any trouble
+for Black's king. The bishop on d4 is nicely placed and it is only matter of
+time for White's grip to peter out.} Rd8 {60} 23. a4 {963} Bc6 {584} 24. Be3 {
+443  equivalent of a draw offer.} Bxe3 {451} 25. Nxc6 {67} bxc6 {9} 26. Qxe3 {7
+} Qd4 {2} 27. Rae1 {257} Qxe3 {8} 28. Rxe3 {6} O-O {6} 29. Rxe5 {24} Rxd3 {2}
+30. Rc5 {13 A nice opening debate and a flawless draw!} 1/2-1/2

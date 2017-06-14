@@ -1,0 +1,79 @@
+[Event "42nd Olympiad Baku 2016 Open"]
+[Site "Baku"]
+[Date "2016.09.08"]
+[Round "6.2"]
+[White "L'Ami, Erwin"]
+[Black "Adhiban, B."]
+[Result "0-1"]
+[ECO "E33"]
+[WhiteElo "2611"]
+[BlackElo "2671"]
+[Annotator "GM Elshan Moradiabadi"]
+[PlyCount "132"]
+[EventDate "2016.??.??"]
+[EventCountry "AZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[WhiteTeam "Netherlands"]
+[BlackTeam "India"]
+[WhiteTeamCountry "NED"]
+[BlackTeamCountry "IND"]
+[TimeControl "40/5400+30:1800+30"]
+{India-Netherlands was the crucial match of round six. The winner of this match
+would take the sole lead in the event at this point. In what turned out to be a
+close match, Erwin L'Ami's decisive blunder turned out to be the pivotal factor
+in India's victory.} 1. d4  Nf6  2. c4  e6  3. Nc3  Bb4  4. Qc2  Nc6 $5 {(0s)
+Interesting and rare choice but Adhiban.} 5. Nf3  d6  (5... O-O 6. Bd2 (6. a3
+Bxc3+ 7. Qxc3 d6 8. Bg5 (8. b4 e5 $1 {This is a famous and interesting gambit})
+8... h6 9. Bh4 g5 10. Bg3 Ne4 11. Qc2 f5 12. h3 Nxg3 13. fxg3 Qf6 14. e3 e5 15.
+d5 e4 16. dxc6 exf3 17. cxb7 Bxb7 18. O-O-O Rab8 19. Re1 Be4 20. Qc3 Qxc3+ 21.
+bxc3 Rb1+ 22. Kd2 Rb2+ 23. Kc1 Rfb8 24. gxf3 Rc2+ 25. Kd1 Rb1# {0-1 (25)
+Duenas,A (1936)-Benjamin,J (2583) ICC INT 2009}) 6... d5 {was another possible
+option.} (6... d6 {transposes})) 6. Bd2  Qe7  7. a3  Bxc3  8. Bxc3  a5 {(4s)
+Black has to prevent White from further expansion on the queenside.} 9. e3  (9.
+e4 e5 10. d5 Nb8 11. c5 Nbd7 12. cxd6 cxd6 13. Nd2 O-O 14. Be2 Nc5 15. b4 axb4
+16. axb4 Rxa1+ 17. Bxa1 Na6 18. Qb3 Bg4 19. f3 Bd7 {1/2-1/2 (45) Carlsen,M
+(2776)-Ivanchuk,V (2779) Nice 2009}) 9... O-O  10. Bd3  h6 $146 {(433s) I don't
+know what the point of this novelty is. Maybe it was Adhiban's improvisation.}
+11. O-O  e5  12. d5  ({I prefer} 12. Nd2 Bd7 13. Rae1) 12... Nb8  13. Nd2  a4
+{(274s) Adhiban manages to fix the pawn structure on the queenside, however,
+White is ahead in development and opens up the game in the center!} 14. f4 $1 
+Nbd7  15. Rae1  Re8  ( 15... Nc5 16. fxe5 dxe5 17. Bb4 {Looks bad}) 16. Bf5 
+(16. Ne4 Nxe4 17. Bxe4 Nf6 18. Bf3 {is equally strong and worthy of
+consideration. I do not believe that Black would want to touch his e-pawn in
+any case. A move which will leave White with a monster on c3.}) 16... c6
+{(997s) Counter intuitive as it opens the game in White's favor. Nevertheless,
+Black needs to do something!} 17. dxc6  bxc6  18. Ne4  Nxe4  19. Bxe4  Ra6  20.
+Rd1 $6 {(156s) After this prosaic move, white's advantage starts to fizzle
+out.} (20. c5 $1 Nxc5 (20... dxc5 {is just too 'ugly'.} 21. h3 c4 22. Qe2 Nc5
+23. Qxc4 Nxe4 (23... Be6 24. Qe2) 24. Qxe4 Qb7 25. Rd1 f5 (25... Bd7 26. Bxe5)
+26. Qc4+ Be6 27. Qc5 exf4 28. Rxf4 { [#] Botvinnik would be so happy to see
+this position. He believed that if you have opposite colored bishops when you
+have the initiative it is as you were already a piece up in your attack!}) 21.
+Bh7+ Kh8 22. fxe5 Nb7 (22... dxe5 23. Bb4 $18) 23. exd6 Nxd6 24. Bd3 {And I
+doubt whether Black can keep his head above water for long.}) 20... Nf6  21.
+Bf3  c5 $1 {(188s) No more c5 for White! Black gives away the less relevant
+square of d5 to shut down White's bishop on c3.} 22. Rxd6 $6 {(186s) L'Ami
+senses the danger and transforms the position into an endgame with equal but
+unbalanced material. Nevertheless, he still makes Black's task easier. It would
+have been better if he had kept the tension in this position.} Rxd6  23. fxe5 
+Rd7  (23... Rdd8 {should lead to the same thing as in the game.}) 24. exf6 
+Qxe3+  25. Kh1  Qd3 {( 294s) almost forced.} 26. Qxd3  Rxd3  27. fxg7 { [#]
+(17s) White has two pawns for the sacrificed exchange, nevertheless, Black can
+always return the exchange and get a position in which he has a slight edge.
+Therefore despite the engines screaming equality, it is Black who enjoys the
+better practical chances.} Ba6  28. Bc6  Re2  29. Bd5  Re7  30. Bf6  Re8  31.
+Rc1  Re2  32. Kg1  Red2  33. Bf3  Re3  34. Bc3  Rd6  35. Bd5  Re7  36. Rd1 $4
+{(194s) And finally L'Ami blunders in an absolutely equal position. } (36. Rb1
+Bc8 (36... Bb7 37. b4) 37. h3 Be6 38. Re1 Re8 (38... Red7 39. Bf6 { and White
+is better}) 39. Kf2 Red8 40. Bxe6 Rxe6 41. Rxe6 fxe6 42. Ke3 Rd1 43. Ke4 Kf7
+$11) (36. h3) 36... Bxc4  37. Bf3 {(181s) L'Ami missed:} (37. Bxf7+ $4 Rxf7 38.
+Rxd6 Rf1#) 37... Rxd1+  38. Bxd1  Bb5 {(3s) The endgame is winning despite the
+fact that Black still has some work to do to force White's resignation.} 39.
+Bf3  Re6  40. Kf2  Bc6  41. Bg4  Rd6  42. Be5  Rd2+  43. Ke3  Rxg2  44. h3  h5 
+45. Bd1  (45. Bxh5 Rg5 $19) 45... h4  46. Kf4  Bd7  47. Bf3  Rg1  48. Bf6  Rf1 
+49. Ke3  Bxh3  50. Bxh4  Kxg7  51. Bc6  Rb1  52. Bxa4  Rxb2  53. Be7  c4  54.
+Bb4  Kg6  55. Kd4  Be6  56. Kc3  Ra2  57. Bc6  f5  58. a4  f4  59. a5  Kf5  60.
+Bb7  Ke5  61. a6  Bd5  62. Bc5  f3  63. Bd4+  Kd6  64. Bxd5  Kxd5  65. a7  Kc6 
+66. Kxc4  Kb7 {(3s) A painful defeat for Erwin and a good victory for Adhiban,
+whom Caissa likes very much these days!} 0-1

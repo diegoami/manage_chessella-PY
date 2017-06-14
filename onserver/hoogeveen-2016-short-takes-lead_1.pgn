@@ -1,0 +1,42 @@
+[Event "Van Foreest-Sokolov m"]
+[Site "Hoogeveen NED"]
+[Date "2016.10.18"]
+[Round "3"]
+[White "Sokolov, Ivan"]
+[Black "Van Foreest, Jorden"]
+[Result "1-0"]
+[ECO "E73"]
+[WhiteElo "2623"]
+[BlackElo "2615"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[PlyCount "56"]
+[EventDate "2016.10.16"]
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Be2 O-O 6. Be3 (6. Nf3 {has been
+analyzed ad infinitum, while I've seen 6.Bg5 get some popularity.}) 6... e5 7.
+d5 Na6 8. g4 {White puts a break on f5 before it's even a threat. A relatively
+positional approach to the position (White almost never tries to checkmate
+black on the kingside), and one that is certainly dangerous, even if relatively
+untried with this particular move order.} c6 (8... Nc5 {is probably better,
+simply to force f3 out of White first.}) 9. g5 Ne8 10. h4 f5 $5 11. gxf6 Nxf6
+12. h5 {When I said White usually doesn't try to checkmate Black on the
+kingside, I didn't mean never. Since Black has committed to f5 and weakened
+some of his squares, Sokolov sees an opportuinty to launch his pawns forward.
+There are still no immediate threats in the center. Notice how it would favor
+Black if the pawn on f2 was on f3.} Qa5 13. hxg6 (13. Qd2 Nxh5 { is very far
+from clear, but playable.} (13... cxd5 $1 14. cxd5 Nxh5 {might be an
+improvement, to guarantee that the knight on c3 never recaptures on d5.}))
+13... Nxe4 $1 {Brave but smart. Here if Van Foreest doesn't take on e4, he will
+be doomed to passivity.} (13... hxg6 14. Qd2 {with a large initiative.}) 14.
+gxh7+ Kh8 15. Nf3 $1 {Development above all!} Nxc3 16. bxc3 cxd5 17. Kf1 ( 17.
+cxd5 {is simply a waste of time:} Qxc3+ (17... Bf5 $5) 18. Kf1 Bf5 19. Nh4 Bc2
+{and Black has counterplay.}) 17... Bf5 18. Nh4 dxc4 (18... Nc7 $5 19. Bd3 $1
+(19. Bg4 Be4 {is the resource that the computer is trying to avoid.}) 19... e4
+20. Be2 $1 {is a brilliant and computer-esque maneuver. The threat will be Bd4
+or Bg4.}) (18... d4 19. cxd4 exd4 20. Bxd4 Bxd4 21. Qxd4+ Qe5 $16) 19. Bxc4 {is
+very bad for Black. Positionally he is busted in some endgames:} Rac8 $6 (
+19... Rad8 20. Nxf5 Rxf5 21. Qg4 $1) (19... d5 20. Nxf5 Rxf5 21. Qxd5 $18) 20.
+Be6 {The bishop is untouchable and the game is over.} Be4 21. Qg4 Bd3+ 22. Kg1
+{White has way too many threats now} Rce8 23. Bf5 (23. Rd1 {was also clean.})
+23... Bxf5 24. Qxf5 $1 Rf6 (24... Rxf5 25. Ng6# {is unplayable, of course.})
+25. Bg5 {Salt in the wound.} Rfe6 26. Ng6+ Rxg6 27. Qxg6 Rf8 28. Be7 {White has
+a material advantage and a deadly attack.} Rxf2 1-0

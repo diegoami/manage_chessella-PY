@@ -1,0 +1,28 @@
+[Event "ch Men 2017"]
+[Site "Xinghua"]
+[Date "2017.04.25"]
+[Round "3"]
+[White "Zeng, Chongsheng"]
+[Black "Xu, Yinglun"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2536"]
+[BlackElo "2557"]
+[Annotator "A. Silver"]
+[SetUp "1"]
+[FEN "3b3r/4qpk1/Q2B3p/2R1p1pP/8/3p1P2/6P1/3K4 b - - 0 36"]
+[PlyCount "4"]
+[EventDate "2017.??.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "9"]
+
+36... Qd7 {[%tqu "En","White missed a brilliant continuation here, though he
+ultimately won his game. Can you do better? White to play and win.","","",
+"c5d5","",0,"d6e5","",10]} 37. Rd5 $2 (37. Bxe5+ $18 f6 {[%tqu "En","The first
+move was easy, but it only works if you saw the next shot. White to play and
+win.","","","c5c7","",10]} 38. Rc7 $3 {Yes, this overloading move clinches it.}
+Bxc7 39. Qxf6+ Kg8 40. Qxh8+ Kf7 41. Qg7+ Ke6 42. Qxd7+ Kxd7 43. Bg7 $1) 37...
+Qc8 $2 (37... Kg8 $11) 38. Qxc8 1-0
+

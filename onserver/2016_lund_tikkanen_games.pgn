@@ -1,0 +1,62 @@
+[Event "CellaVision Cup 2016"]
+[Site "Lund SWE"]
+[Date "2016.08.06"]
+[Round "5.4"]
+[White "Tikkanen, H."]
+[Black "Sharma, Di"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2528"]
+[BlackElo "2298"]
+[SetUp "1"]
+[FEN "2r3k1/2q2p1p/r1nBp1pP/p2pP3/1p3P2/6Q1/PPP3P1/2KR3R b - - 0 23"]
+[PlyCount "2"]
+[EventDate "2016.08.05"]
+[EventType "swiss"]
+[EventRounds "8"]
+[EventCountry "SWE"]
+[SourceTitle "The Week in Chess 1135"]
+[Source "Mark Crowther"]
+[SourceDate "2016.08.08"]
+
+{There were many upsets in the tournament and Tikkanen could have made the
+list just a little bit longer if Black wouldn't have played:} 23... Qd8 ({But} 
+23... Nd4 $1 24. Bxc7 (24. Qd3 Qxc2+ 25. Qxc2 Nxc2) 24... Ne2+ 25. Kb1 Nxg3 26.
+Rh3 Ne4 {If you thought the line ends here, think for just 30 sec more!} 27.
+Re3 (27. Bd6 Nf2) 27... Nf2 (27... Rxc7 {would give White hopes for survival
+in the rook endgame} 28. Rxe4 {- the rook is taboo.}) 28. Rd2 Ng4 29. Rg3 Nxh6
+{The game is not won yet but I doubt Black would get additional headaches when
+finishing it off.}) 24. f5 {This break is not a deadly blow and the game could
+have most probably been saved in the ensuing rook endgame but that is a
+completely different story. For now I was just testing your calculation skills:
+)} 1-0
+
+[Event "CellaVision Cup 2016"]
+[Site "Lund SWE"]
+[Date "2016.08.05"]
+[Round "3.5"]
+[White "Tikkanen, H."]
+[Black "Lind, JO."]
+[Result "1-0"]
+[ECO "B37"]
+[WhiteElo "2528"]
+[BlackElo "2236"]
+[SetUp "1"]
+[FEN "5r2/1p2p1kp/p3B1p1/2q1n3/2P5/1P5P/PR4P1/4Q2K b - - 0 27"]
+[PlyCount "30"]
+[EventDate "2016.08.05"]
+[EventType "swiss"]
+[EventRounds "8"]
+[EventCountry "SWE"]
+[SourceTitle "The Week in Chess 1135"]
+[Source "Mark Crowther"]
+[SourceDate "2016.08.08"]
+
+{The Swedish GM had another nail-biting moment when Black missed his chance:} 
+27... Qd4 ({This is ineffective but} 27... Rf6 $1 {is a better way to cover
+the long diagonal:} 28. Bd5 {and now} Nd3 {is possible and lethal since White
+doesn't have the c3-check anymore. With an exchange up, Black shouldn't have a
+lot of trouble in converting the advantage.}) 28. Rd2 Nd3 29. Qe2 Nf2+ 30. Kh2
+Qf4+ 31. g3 Qe4 32. Bd5 Qxe2 33. Rxe2 Nd3 34. Bxb7 Rf1 35. Rxe7+ Kf6 36. Re2
+Nc1 37. Kg2 Rd1 38. Rf2+ Ke5 39. Bf3 Rd3 40. Rc2 Nxb3 41. axb3 Rxb3 42. c5 1-0
+

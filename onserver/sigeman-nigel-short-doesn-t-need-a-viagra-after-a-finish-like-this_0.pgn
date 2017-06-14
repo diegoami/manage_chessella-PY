@@ -1,0 +1,45 @@
+[Event "23rd Sigeman & Co 2017"]
+[Site "Malmo SWE"]
+[Date "2017.05.10"]
+[Round "1"]
+[White "Short, N."]
+[Black "Blomqvist, E."]
+[Result "1-0"]
+[ECO "C92"]
+[WhiteElo "2688"]
+[BlackElo "2546"]
+[Annotator "Srinath,Narayanan"]
+[PlyCount "71"]
+[EventDate "2017.05.10"]
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. d5 Nb8 13. Nf1 Nbd7 14. Bg5 $5 {
+[%csl Gd5] A relatively rare move, but a typical idea. I suspect one of the
+ideas is to retain the knight on f1 to have the option of jumping to e3 when
+Black plays the inevitable c6 break. The d5 square is a very important
+strategic point in this position, so I suppose Bg5,Ne3 makes logical sense.} (
+14. Ng3 Nc5 15. Bc2 c6 {is the typical idea in these lines.} 16. b4 Ncd7 17.
+dxc6 Bxc6 18. Bb3 h6 19. Nh2 a5 20. a3 Bb7) (14. N3h2 Nc5 15. Bc2 c6 16. b4
+Ncd7 17. dxc6 Bxc6 18. Bg5 h6 19. Bxf6 Nxf6 20. Ng4 {[%csl Gd5]}) 14... Nc5 (
+14... h6 15. Bh4 Be7 $5 {was an interesting way to react against this idea.
+Black didn't play c6 the whole game, taking the fight for d5 out of the
+equation.} 16. a4 (16. Ng3 g6 {seems to make the h4 bishop awkward.}) 16... g6
+17. N3h2 Kg7 18. Ng4 Nxg4 19. Bxe7 Qxe7 20. Qxg4 Reb8 21. Ne3 Qd8 22. axb5 axb5
+23. Qe2 Rxa1 24. Rxa1 Ra8 25. Rc1 Ba6 26. Qe1 Nf6 27. Bc2 Bc8 28. Ra1 Bd7 29.
+Rxa8 Qxa8 30. Kh2 h5 31. f3 Qa2 32. Nd1 c6 33. dxc6 Bxc6 34. Qe3 d5 35. Qb6 Qc4
+36. b3 Qe2 37. Qxc6 {1/2-1/2 (37) Szymanski,R (2408)-Maver,I (2332) ICCF 2014})
+15. Bc2 c6 16. Ne3 {I think this plays into White's hands.} a5 (16... h6 17.
+Bxf6 Qxf6 18. b4 Nd7 19. a4 $14) 17. b4 Ncd7 18. a4 $5 {[#]} Qc7 $6 {Black
+faces a difficult problem.The classic rule is to maintain tension in the
+position as much as possible, but here it runs into a concrete refutation.} (
+18... cxd5 $142 19. Nxd5 Bxd5 20. exd5 {not an easy decision to take.} Qc7 21.
+axb5 axb4 22. Rxa8 Rxa8 23. cxb4 Qc4 24. Bd3 Qxb4 $11) (18... axb4 $142 19.
+cxb4 h6 20. Bh4 (20. Bxf6 Nxf6 21. dxc6 Bxc6 22. Nd5 (22. a5 d5 23. exd5 Bb7
+$44) 22... Nxd5 23. exd5 Bd7 24. a5 f5 25. Rc1 $132) 20... cxd5 21. exd5 g5 22.
+Bg3 Nb6 23. h4 $36) 19. dxc6 Qxc6 20. axb5 Qxc3 21. bxa5 Rxa5 22. Rc1 $1 Qb4
+23. Ng4 Qxb5 $2 {the decisive mistake.} (23... Nxg4 24. Bd2 Qxb5 $1 (24... Qa3
+25. hxg4 Raa8 26. Ng5 $1 $16) (24... Nxf2 25. Bxb4 Nxd1 26. Bxa5 Nb2 27. Bb4
+$18) 25. Rb1 Ngf6 26. Bxa5 (26. Rxb5 Rxb5 $44) 26... Qxa5 27. Rxb7 Nc5 28. Rb1
+g6 {with some compensation on the dark squares.}) 24. Rb1 Qa6 25. Bxf6 Nxf6 26.
+Nxf6+ gxf6 27. Nh4 $16 {[#]} Bc8 28. Bb3 Be6 29. Qh5 Rc8 30. Nf5 Ra3 31. Re3 {
+game over.} Rxb3 32. Rexb3 Bxb3 33. Rxb3 Rc1+ 34. Kh2 Qf1 35. Qg4+ Kh8 36. Qg7+
+{[#]} 1-0

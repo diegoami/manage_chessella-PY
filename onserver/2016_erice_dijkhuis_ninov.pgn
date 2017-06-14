@@ -1,0 +1,24 @@
+[Event "7th Terre degli Elimi A"]
+[Site "Erice"]
+[Date "2016.08.04"]
+[Round "9"]
+[White "Dijkhuis, Tycho"]
+[Black "Ninov, Nikolai"]
+[Result "1-0"]
+[ECO "B84"]
+[WhiteElo "2424"]
+[BlackElo "2458"]
+[Annotator "Werle"]
+[SetUp "1"]
+[FEN "rnbr2k1/2qnbppp/p3p3/1p2P3/3N4/2N1B3/PPP1B1PP/R3QR1K w - - 0 14"]
+[PlyCount "21"]
+[EventDate "2016.07.28"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+
+14. Rxf7 $3 Kxf7 15. Qf2+ Bf6 (15... Kg8 16. Nxe6 Qxe5 17. Nxd8 Bxd8 18. Bf3 {
+[%csl Ra8] And the rook on a8 is lost.}) 16. exf6 Nxf6 17. Bf3 Bb7 18. Nxe6
+Kxe6 19. Bb6 Qc8 20. Bxd8 Nbd7 (20... Bxf3 21. Qxf3 Qxd8 22. Qxa8) 21. Bxf6
+gxf6 22. Bg4+ Ke7 23. Re1+ Kf8 24. Qd2 $1 {[%cal Gd2h6] There is nothing Black
+can do against the horrible threat of Qd2-h6.} 1-0
+

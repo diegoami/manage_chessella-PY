@@ -1,0 +1,36 @@
+[Event "44th GM 2016"]
+[Site "Dortmund GER"]
+[Date "2016.07.09"]
+[Round "1"]
+[White "Caruana, F."]
+[Black "Vachier Lagrave, M."]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2810"]
+[BlackElo "2798"]
+[Annotator "Johannes Fischer"]
+[PlyCount "84"]
+[EventDate "2016.07.09"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3
+Be7 9. Qd2 O-O 10. O-O-O Nbd7 11. g4 b5 12. h4 Nb6 13. Qf2 Rb8 14. g5 $146 {
+This logical move is a novelty.} Nfd7 15. f4 exf4 16. Bxf4 Rc8 17. Nd5 Nxd5 18.
+exd5 Bg4 19. Be2 Bxe2 20. Qxe2 Re8 21. Qf3 Qc7 22. Nd4 Nb6 23. Rhe1 Bf8 24.
+Rxe8 Rxe8 25. Nf5 Qc4 26. b3 Qb4 27. c3 Rc8 {[#]} 28. Rd3 $5 {White sacrifices
+a pawn.} ({An alternative was} 28. Kc2 Qc5 29. Kb2 a5 {with a dynamically even
+position.}) 28... Nxd5 29. Bd2 Nb6 30. Kb1 Qc5 31. Be3 Qc7 {[#]} 32. Qf4 ({
+Caruana refrains from the knight sacrifice} 32. Nh6+ $5 {after which White has
+a dangerous attack that does not seem to be winning though, e.g.} gxh6 33. gxh6
+Nd7 34. Qf5 Ne5 35. Bd4 Bxh6 36. Bxe5 dxe5 37. Rd7 Qxd7 38. Qxd7 Rxc3 {and
+Black should be able to hold.}) 32... Re8 {[#]} 33. h5 $5 {Caruana plays for a
+win!} ({After} 33. Nxd6 Rxe3 34. Qxe3 Bxd6 35. Qe8+ Bf8 36. Rd8 Qc5 37. b4 Qf5+
+38. Kc1 Qf4+ 39. Kb1 Qf1+ 40. Kc2 $11 {the game ends with a perpetual.}) 33...
+Re6 34. Kc2 Qc6 35. Bxb6 $6 {Now Black gets the upper hand.} ({The engines
+recommend} 35. Nd4 {and after e.g.} Qg2+ 36. Qf2 Qxf2+ 37. Bxf2 Re5 38. Nc6
+Re2+ 39. Rd2 Rxd2+ 40. Kxd2 Nd5 {they consider the position as roughly equal -
+despite Black's extra pawn. Black's bishop has trouble to come into play,
+White's king is more active and Black's queenside is vulnerable.}) 35... Qxb6
+36. Rf3 Qb7 {[#] Now Black is a solid pawn up.} 37. Ne3 Re4 38. Qg3 Re5 39. Qf4
+Rxg5 $1 40. h6 gxh6 41. Rf2 Qd7 42. Nf5 Qe6 {The time-control is reached and
+White is three pawns down. Caruana resigned.} 0-1
+

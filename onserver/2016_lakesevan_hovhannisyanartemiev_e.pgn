@@ -1,0 +1,41 @@
+[Event "Lake Sevan 2016"]
+[Site "Martuni ARM"]
+[Date "2016.07.26"]
+[Round "9"]
+[White "Hovhannisyan, R."]
+[Black "Artemiev, V."]
+[Result "0-1"]
+[ECO "B94"]
+[WhiteElo "2640"]
+[BlackElo "2653"]
+[Annotator "Johannes Fischer"]
+[PlyCount "64"]
+[EventDate "2016.07.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 {A modern line
+of the Najdorf.} 7. Bc4 h6 8. Bh4 g6 9. Qe2 Bg7 10. O-O-O O-O 11. f4 Qc7 12.
+Kb1 b5 13. Bb3 Bb7 14. f5 g5 15. Bg3 Nc5 16. h4 ({After} 16. e5 $5 Nxb3 17.
+axb3 dxe5 (17... Nd7 18. f6 $40) 18. Bxe5 Qb6 $11 {the position is tense but
+dynamically equal.}) 16... g4 {[#]} ({Taking the e-pawn is risky:} 16... Ncxe4
+17. Nxe4 {and after} {Therefore Black has to play} Bxe4 {but after} (17... Nxe4
+18. hxg5 {the engines claim that White's attack is too strong, e.g.} Qc5 ({
+after} 18... Nxg3 19. Qg4 hxg5 20. Qxg3 {White's threat are overwhelming.}) {
+and now the engines propose} 19. Bf4 {with a crushing attack, e.g.} Bxd4 20. f6
+{and White is a piece down but will win on the h-file.}) 18. hxg5 hxg5 19. Qe3
+{White also has good attacking chances, even though the engines evaluate this
+position as equal.}) 17. Nd5 Bxd5 18. Bxd5 Rac8 19. h5 (19. c3 $5 {was a good
+alternative. After} Na4 20. Rhe1 $14 {Black still has to show how he wants to
+mate White's king.}) 19... Na4 20. c3 $2 {[#]Missing Black's next move.} ({
+Black threatened} 20. -- Nxb2 21. Kxb2 Nxd5 22. exd5 Qc3+ 23. Kb1 Bxd4 {
+and Black is winning.}) ({But better was} 20. Bf2 Nxd5 21. exd5 Qc4 22. c3 Qxe2
+23. Nxe2 b4 24. Kc2 $11) 20... Qxc3 $1 21. Be1 ({After} 21. bxc3 Nxc3+ 22. Ka1
+Nxe2 23. Nxe2 {Black has the nasty} Nxd5+ {regaining the piece and leading to
+a won position after} 24. Kb1 Ne3 25. Rc1 Rc4 $19) 21... Qc7 22. Nc6 $2 {
+[#]The final mistake - the knight should have stayed on the diagonal b7-b2.} ({
+More stubborn was} 22. Bh4 {Now after} Nxd5 23. exd5 Qc4 24. Qxc4 bxc4 25. Bxe7
+Rb8 {White is definitely worse but can still fight - in the game he is simply
+lost.}) 22... Nxb2 23. Rd4 (23. Qxb2 Nxd5 $19) (23. Rc1 Nc4 $19) 23... Nc4 24.
+Bc3 Qd7 25. Rxc4 bxc4 26. Qxc4 Kh8 27. Rc1 Rc7 28. Bxf6 Bxf6 29. Bxf7 {
+Allowing Black to finish the game with a simple tactical trick.} Rxc6 30. Qxc6
+Qxc6 31. Rxc6 Rxf7 32. Rxa6 Rf8 0-1
+

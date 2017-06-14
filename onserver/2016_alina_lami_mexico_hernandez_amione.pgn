@@ -1,0 +1,90 @@
+[Event "Copa Independencia"]
+[Site "Ciudad de MExico"]
+[Date "2016.09.15"]
+[Round "3.3"]
+[White "Diaz Hernandez, Heriberto"]
+[Black "Tapie Amione, Pablo Adib"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "2367"]
+[BlackElo "2301"]
+[SetUp "1"]
+[FEN "4k3/1b3pp1/pN2n2r/4B3/2R1P2b/1P6/K1P5/3r1B1R b - - 0 30"]
+[PlyCount "6"]
+[EventDate "2016.09.14"]
+
+{Find the right way for Black!} 30... Bd8 {was not it} ({but} 30... Bf6 $1 31.
+Rxh6 Bxe5 32. Rh8+ Ke7 {[%csl Ra1,Rf1] White cannot parry both threats.}) ({Or
+} 30... Bg3 {with the same idea}) 31. Rxh6 gxh6 32. Bd3 Bxb6 33. Rb4 {This is
+what Black missed; tough with these double rounds around the corner.} 1/2-1/2
+
+[Event "Copa Independencia"]
+[Site "Ciudad de MExico"]
+[Date "2016.09.14"]
+[Round "1.1"]
+[White "Della Morte, Pablo"]
+[Black "Vijayalakshmi, Subbaraman"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "2337"]
+[BlackElo "2384"]
+[SetUp "1"]
+[FEN "1br3k1/5Rp1/4q2p/r3P3/P2p1R2/3Q1N1P/6P1/7K w - - 0 47"]
+[PlyCount "18"]
+[EventDate "2016.09.14"]
+
+{Speaking of missed opportunities:} 47. Qa3 {is not completely spoiling
+White's advantage but decisive was:} (47. R4f6 $1 {where} Rc1+ {is only a swan
+song after} 48. Ng1 ({or even} 48. Kh2 {since} Bxe5+ {brings nothing but some
+harmless checks.} 49. Nxe5 Qxe5+ 50. g3)) 47... Bxe5 48. Rf8+ Rxf8 49. Qxf8+ {
+But this threw away half a point indeed.} ({The cold blooded} 49. Rxf8+ Kh7 50.
+Qd3+ g6 51. Nxe5 Rxe5 52. Qxd4 {would have assured White a lasting advantage.})
+49... Kh7 50. Re4 d3 51. Qb4 Rd5 52. Qd2 Kh8 53. Rxe5 {forcing the draw, as
+the 2nd round of the day was knocking at the door.} Rxe5 54. Nxe5 Qxe5 55. Qxd3
+Qa1+ 1/2-1/2
+
+[Event "Copa Independencia"]
+[Site "Ciudad de MExico"]
+[Date "2016.09.16"]
+[Round "5.1"]
+[White "Gonzalez Zamora, Juan Carlos"]
+[Black "Vijayalakshmi, Subbaraman"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2502"]
+[BlackElo "2384"]
+[SetUp "1"]
+[FEN "4rr2/pbnp1pk1/1p4qp/2pP2p1/4P1P1/P3RQ2/1P1N1PP1/4KB1R w K - 0 20"]
+[PlyCount "6"]
+[EventDate "2016.09.14"]
+
+{Vijay had quite an abrupt start of the tournament, spoiling chances left and
+right, but the 2nd half of the event made up for everything.} 20. Bd3 {was the
+beginning of a nightmare for Juan Carlos.} ({Instead, the calm} 20. Be2 {
+[%cal Gd2f1,Gf1g3,Gg3f5] would have passed on the bad dreams to the opponent.})
+20... Nxd5 21. Kd1 (21. exd5 {runs into} Qxd3) 21... Nxe3+ 22. Qxe3 d5 {
+White continue to fight but the position didn't allow an effective defense
+anymore.} 0-1
+
+[Event "Copa Independencia"]
+[Site "Ciudad de MExico"]
+[Date "2016.09.16"]
+[Round "6.1"]
+[White "Vijayalakshmi, Subbaraman"]
+[Black "Martin Del Campo C., Roberto"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2384"]
+[BlackElo "2374"]
+[SetUp "1"]
+[FEN "1r1r4/3n1pkp/ppn3p1/2pN4/2PbP3/q5PP/2QBBPK1/1R3R2 b - - 0 24"]
+[PlyCount "20"]
+[EventDate "2016.09.14"]
+
+{From the same book of blind spots or tired minds or burned up brains:} 24...
+a5 $2 {White was clearly better but Black's last move takes away a vital
+square for the lady, the a5...} ({More stubborn was} 24... Nf6 25. Bc1 Qa5) 25.
+Bc1 {Dark horizons start looming over the black king, left without his consort.
+} Nb4 26. Nxb4 axb4 27. Bxa3 bxa3 28. Rb3 Ra8 29. Qa2 Nf6 30. Bf3 Ra4 31. Rxa3
+Rb4 32. Rb1 Re8 33. Ra4 Nxe4 34. Rbxb4 1-0
+

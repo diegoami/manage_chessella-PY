@@ -1,0 +1,47 @@
+[Event "49th Biel Masters Match"]
+[Site "Biel SUI"]
+[Date "2016.07.28"]
+[Round "3"]
+[White "Svidler, Peter"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[ECO "B81"]
+[WhiteElo "2759"]
+[BlackElo "2798"]
+[Annotator "Johannes Fischer"]
+[PlyCount "74"]
+[EventDate "2016.07.25"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 h6 8. Bg2
+Be7 9. h4 (9. Be3 {or}) (9. f4 {are the most popular moves here.}) 9... Nc6 10.
+g5 hxg5 11. hxg5 Rxh1+ 12. Bxh1 Nh7 13. Nxc6 bxc6 14. g6 fxg6 15. Qd3 e5 16.
+Qc4 Bd7 17. Bd2 Bg5 18. O-O-O Qf6 19. Na4 Rb8 20. Bxg5 Qxg5+ 21. Kb1 {(#) The
+position is double-edged and complicated but perhaps more or less equal. Black
+has a lot of pawn weaknesses and a terribly exposed king but the white pieces
+do not cooperate well. The bishop on h1 makes a sad impression and the knight
+on a4, too, needs time to come back into the game.} Nf6 ({It might have been
+better to play} 21... Qf6 {with the idea to bring the knight to g5 and perhaps
+later to f7.}) 22. a3 {Making some "luft".} Qh4 $6 ({Now Black gets into
+trouble. Better was} 22... Ke7 23. Qd3 Ne8 {e.g.} 24. Qxa6 Qf4 25. Qa7 Rc8 {
+and the engines give White only a slight edge.}) 23. Qd3 d5 24. Nc5 d4 25. Qxa6
+Qxf2 26. Rf1 Qg3 {(#)} 27. Bf3 $6 {With the idea to activate the white rook.
+In the game White wins an exchange but the textmove still does not seem to be
+aggressive enough.} ({The engines recommend} 27. Qa7 Rd8 28. Nb7 Bh3 29. Rc1
+Rd7 30. Qb8+ Ke7 31. Na5 c5 32. Nc6+ Ke6 33. a4 $1 {with a clear advantage for
+White.}) 27... Qh3 28. Rh1 Qxf3 29. Rh8+ Ke7 30. Rxb8 Nxe4 {(#) Black now has
+two pawns for the exchange and White's a-pawn might become dangerous. Moreover,
+Black's king seems to be vulnerable. But in the game it is the white king that
+gets mated!} 31. Nxd7 $2 {On first sight this looks rather promising and seems
+to be the logical consequence of White's play. However, the move backfires.} ({
+Correct was} 31. Nxe4 Qh1+ 32. Ka2 Qxe4 {and now White has nothing better than}
+33. Kb1 Qh1+ 34. Ka2 Qe4 {with a draw.}) 31... Nd2+ $1 {(#)} ({But not} 31...
+Kxd7 $4 32. Qb7+ {and White wins, e.g.} Kd6 33. Rd8+ Ke6 34. Qxc6+ {etc.}) 32.
+Ka2 ({Or} 32. Kc1 Qe3 33. c3 (33. Kd1 Nf3 34. Qa5 Qg1+ 35. Ke2 Qg2+ 36. Kd3
+Qf1+ 37. Ke4 Qe2#) 33... d3 34. Qa4 Nb3+ 35. Kb1 Qg1+ 36. Ka2 Nc1+ 37. Ka1 Ne2+
+38. Ka2 d2 39. Qb4+ c5 $18) 32... Qd5+ 33. b3 {Weakening the king's position.}
+({But} 33. Rb3 Kxd7 34. Qb7+ Ke6 35. Qxg7 Kf5 36. Qf8+ Kg4 37. Qh6 Nxb3 38.
+Qxg6+ Kf4 {does not offer much joy for White, either.}) 33... Qh1 {Suddenly
+Black has a winning attack.} 34. a4 Qb1+ 35. Ka3 Qa1+ 36. Kb4 Qc3+ 37. Ka3 Nb1+
+{White resigned. After 38.Ka2 Qxc2+ 39.Ka1 Nc3 White is lost. A fascinating
+game with a surprising turnaround.} 0-1
+

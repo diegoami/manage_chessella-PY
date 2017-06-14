@@ -1,0 +1,109 @@
+[Event "Reykjavik Open 2017"]
+[Site "Reykjavik ISL"]
+[Date "2017.04.25"]
+[Round "8.12"]
+[White "Jones, G."]
+[Black "Praggnanandhaa, R."]
+[Result "0-1"]
+[ECO "A46"]
+[WhiteElo "2671"]
+[BlackElo "2447"]
+[SetUp "1"]
+[FEN "6k1/1p3q2/p2Rn2p/P1r3p1/4Q1P1/1B2P3/1P4PK/2r5 b - - 0 51"]
+[PlyCount "9"]
+[EventDate "2017.04.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ISL"]
+
+{[%tqu "En","This is when people like me start feeling old - only 11 years old
+and the owner of a brilliant mind: Praggnanandhaa. In the blink of an eye, he
+found the best continuation for Black. Can you see it too?","","","g8f8","",10,
+"g8g7","doesn't work in view of",0]} 51... Kf8 $1 (51... Kg7 $2 {doesn't work
+in view of} 52. Bxe6 Qc7 53. Qd4+ Kh7 54. Qd3+ Kh8 55. Bb3 $18 {the open black
+king lost all his hopes.}) 52. Rxe6 ({If} 52. Bxe6 Qc7 53. Qd4 Ke7 $19) 52...
+Qc7+ 53. g3 Qf7 {This Qc7 and Qf7 may look 'simple' but in practice and in the
+heat of the moment it is actually quite a pain. Much simpler than moving back
+and forth a piece to create a breach, would be the direct or aggressive moves.
+And yet, at such an early age, the Indian boy displays a great deal of
+maturity.} 54. Qg2 Qxe6 55. Qf2+ Ke7 {and the queen is doing just fine on e6
+because of the 2nd rank pin.} 0-1
+
+[Event "Reykjavik Open 2017"]
+[Site "Reykjavik ISL"]
+[Date "2017.04.27"]
+[Round "10.6"]
+[White "Gupta, Ab"]
+[Black "Jobava, Ba"]
+[Result "1-0"]
+[ECO "D16"]
+[WhiteElo "2607"]
+[BlackElo "2712"]
+[SetUp "1"]
+[FEN "1r1q4/6p1/k4p2/PpQBn3/8/2R5/KP6/8 w - - 0 48"]
+[PlyCount "35"]
+[EventDate "2017.04.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ISL"]
+
+{An important game for the standings was the final encounter between the
+former winner of the Reykjavik Open (2016) and the ever surprising Georgian
+player. When such players meet it becomes impossible not to find something
+extraordinary happening.} 48. Be6 {was played but} (48. b4 $1 {would have led
+to an extremely unusual situation of zugzwang.} Qd7 (48... g5 {allows} 49. Be6
+{followed by Bc8+ and Black's position is in ruins.}) 49. Ka3 {and what now
+for Black?!} g5 50. Ka2 $1 g4 51. Ka3 $1 Qd8 {There is no viable alternative
+for Black as any pawn move would lose material without any gain in return.} 52.
+Be6 $1 $18 {and Black runs out of moves. For example:} Qf8 53. Bc8+ Qxc8 54.
+Qd6+ Kb7 55. Rxc8 {where Black's position collapses.}) 48... g5 ({Instead,} 
+48... b4 $1 {would have saved the day} 49. Bc8+ Rxc8 50. Qxc8+ Qxc8 51. Rxc8
+Kxa5 52. Kb3 Kb5 $1 (52... g5 {doesn't work} 53. Rf8 Ng4 54. Rb8 $18) 53. Rb8+
+Kc5 54. Rxb4 g5 $11 {Chess is a difficult game.}) 49. b4 g4 50. Bc8+ Rxc8 51.
+Qxc8+ Qxc8 52. Rxc8 f5 53. Rf8 Nd3 54. Rf6+ Ka7 55. Rf7+ Ka6 56. Kb3 f4 57. Kc3
+Nc1 58. Rf6+ Ka7 59. Kd2 g3 60. Rxf4 Na2 61. Ke3 Ka6 62. Kf3 g2 63. Kxg2 Nxb4
+64. Rxb4 Kxa5 65. Rb1 {This win propelled the Indian GM to a shared 2nd place.}
+1-0
+
+[Event "Reykjavik Open 2017"]
+[Site "Reykjavik"]
+[Date "2017.04.24"]
+[Round "7.32"]
+[White "Ristoja, Samu"]
+[Black "L'Ami, Alina"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2228"]
+[BlackElo "2324"]
+[SetUp "1"]
+[FEN "2r5/3k3p/3P2p1/4Pp2/1np2P2/p1R3P1/r1P3BP/2KR4 w - - 0 34"]
+[PlyCount "15"]
+[EventDate "2017.04.19"]
+
+{[%tqu "En","Another small test for you, which I believe is not so easy to
+find over the board. How does White win here?","","","g2f1","is what my
+opponent played, the most natural continuation especially in time trouble. But
+that gave me a big chance to survive and yet I failed seeing it. Can you?",0,
+"c1d2","would put an end to Black's dreams of survival.",10]} 34. Bf1 {is what
+my opponent played, the most natural continuation especially in time trouble.
+But that gave me a big chance to survive and yet I failed seeing it. Can you?}
+(34. Kd2 {would put an end to Black's dreams of survival.} Rb2 35. Rxa3 Rxc2+
+36. Ke3 Rxg2 37. Ra7+ Kc6 38. d7 $18) {[%tqu "En","There are several moves
+here, but only one will save the day for Black. FInd it! Black to play and
+draw.","","","a2a1","is what I played after a 10 min thought, I just simply
+didn't see something better. But I did feel there must be something good for
+Black. Unfortunately, chess is not played by feeling but by concrete moves.",0,
+"a2b2","because of",0,"c8c5","was the jackpot, forcing White to repeat the
+moves.",10]} 34... Ra1+ $2 {is what I played after a 10 min thought, I just
+simply didn't see something better. But I did feel there must be something
+good for Black. Unfortunately, chess is not played by feeling but by concrete
+moves.} ({I didn't like} 34... Rb2 {because of} 35. Bxc4 Na2+ 36. Bxa2 Rxc3 37.
+e6+ Kc6 38. Bb1 $18 {and nobody can stop those nasty pawns.}) (34... Rc5 $1 {
+was the jackpot, forcing White to repeat the moves.} 35. Kb1 ({anything else
+is losing for White} 35. e6+ Kxe6 36. Bxc4+ Rxc4 37. Rxc4 Ra1+ 38. Kd2 Rxd1+
+39. Kxd1 a2 $19) (35. Bxc4 Ra1+ 36. Kd2 Rxd1+ 37. Kxd1 a2 $19 {and now White
+doesn't have the important Bb5+ anymore, hence the importance of Rc5.}) 35...
+Rb2+ 36. Ka1 Ra2+ 37. Kb1 Rb2+ $11) 35. Kd2 Rxd1+ 36. Kxd1 a2 (36... Ra8 {
+doesn't help much either} 37. Bxc4 a2 38. Bxa2 Nxa2 39. Rc7+ Ke6 40. c4 $19)
+37. Ra3 c3 38. Bb5+ Ke6 39. Ba4 Rb8 40. Bb3+ Kd7 41. Bxa2 1-0
+

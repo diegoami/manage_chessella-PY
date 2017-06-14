@@ -1,0 +1,62 @@
+[Event "CellaVision Cup 2016"]
+[Site "Lund SWE"]
+[Date "2016.08.07"]
+[Round "8.6"]
+[White "Pakleza, Z."]
+[Black "Sjodahl, P."]
+[Result "1-0"]
+[ECO "A13"]
+[WhiteElo "2495"]
+[BlackElo "2420"]
+[SetUp "1"]
+[FEN "r4rk1/pb2qpp1/1p2pn1p/2b1P1N1/7R/1P4P1/PB2QPBP/R5K1 b - - 0 20"]
+[PlyCount "6"]
+[EventDate "2016.08.05"]
+[EventType "swiss"]
+[EventRounds "8"]
+[EventCountry "SWE"]
+[SourceTitle "The Week in Chess 1135"]
+[Source "Mark Crowther"]
+[SourceDate "2016.08.08"]
+
+{When playing a game, is not always roses and unicorns and sometimes we must
+survive those cliff-hanging episodes. So, which square is less mined for the
+knight?} 20... Nh7 $2 {was not the escaping ticket due to} (20... Nd5 {is not
+really working either in view of:} 21. Ne4 Rfd8 22. Nf6+ {with a crushing
+attack.}) (20... Ne8 {is not completely a safe haven but definitely keeps
+Black in the game as after} 21. Ne4 Bxe4 22. Bxe4 Rd8 23. Bc2 {Black can
+simply ignore the upcoming battery on the b1-h7 diagonal with even} a5 {
+quite provocative if you ask me but} 24. Qe4 {doesn't work since Black has the}
+f5 {defence.}) 21. Nxh7 $1 Kxh7 22. Be4+ Kg8 23. b4 {and Black loses a bishop
+after 23... Bxb4 24. Bxb7 Qxb7 25. Rxb4. Such an effective solution executed
+elegantly by the bronze medalist.} 1-0
+
+[Event "CellaVision Cup 2016"]
+[Site "Lund SWE"]
+[Date "2016.08.05"]
+[Round "3.9"]
+[White "Rahul Kumar, P."]
+[Black "Pakleza, Z."]
+[Result "0-1"]
+[ECO "A41"]
+[WhiteElo "2184"]
+[BlackElo "2495"]
+[SetUp "1"]
+[FEN "3rrbk1/2qn1ppp/2p3b1/2P5/4P3/5NR1/1BQ1B1PP/5R1K w - - 0 29"]
+[PlyCount "4"]
+[EventDate "2016.08.05"]
+[EventType "swiss"]
+[EventRounds "8"]
+[EventCountry "SWE"]
+[SourceTitle "The Week in Chess 1135"]
+[Source "Mark Crowther"]
+[SourceDate "2016.08.08"]
+
+{In one game or another, all the GMs had or could have had troubles this event.
+And if we talk about the Rapid games, chances are even higher. Here White
+erred with:} 29. Nh4 (29. Rxg6 $1 {was the way to go since} hxg6 30. Ng5 Nf6
+31. Bc4 {[%csl Rf7][%cal Gc4f7,Gf1f7,Gg5f7] gives White a massive pressure on
+the vulnerable f7-pawn & a2-g8 diagonal. If Black stubbornly defends} Rd7 32.
+Qb3 Ree7 {won't really save the house from fire after} 33. Qh3 $1 {[%csl Rf6,
+Rf7,Rh7]}) 29... Bxe4 30. Qc4 Bd5 {and the game ended in Black's favour.} 0-1
+

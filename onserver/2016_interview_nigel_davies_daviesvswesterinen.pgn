@@ -1,0 +1,60 @@
+[Event "Oslo"]
+[Site "Oslo"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Davies, Nigel R"]
+[Black "Westerinen, Heikki MJ"]
+[Result "1-0"]
+[ECO "B03"]
+[WhiteElo "2450"]
+[BlackElo "2395"]
+[PlyCount "67"]
+[EventDate "1988.03.??"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[EventCategory "7"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Be3 ({Since this game
+was played the line} 6. Nc3 g6 7. Be3 Bg7 8. Rc1 O-O 9. b3 {has become both
+popular and successful, so much so that most Alekhine addicts have switched to
+recapturing with the e-pawn on move 5. Yet at the time this game was played
+this plan was not known and I had seen a plan of Bill Hartston that I liked.})
+6... g6 7. h4 {This is it, Hartston's move. The idea is to exploit the fact
+that Black's knights are far away from his kingside by immediately starting an
+attack. And if Black stops this with 7...h5 he will leave a weak square on g5
+if he follows up with a later ...e5 and ...f5.} Bg7 ({In Hartston - Bryson,
+BCF-ch, Edinburgh, 1985 Black prevented the further advance of White's h-pawn
+with} 7... h5 {but then} 8. d5 N8d7 9. Bd4 Nf6 10. Bd3 Bg7 11. Nh3 $5 O-O 12.
+Ng5 e5 13. dxe6 Bxe6 {would have been better for White had he now played the
+simple} 14. O-O {.}) 8. h5 Nc6 9. Nc3 d5 $6 {Success; Black doesn't like the
+look of castling into the opening h-file and plays something much worse.} ({
+In fact the right move was the cold blooded} 9... O-O {after which} 10. Qd2 $5
+e5 11. d5 Nd4 12. O-O-O $5 {was the adventurous continuation of Hartston -
+Planinec, Hastings 1974-75. I think that I might have played 10.hxg6 instead.})
+10. c5 Nc4 11. Bxc4 dxc4 12. Nge2 ({Carefully avoiding} 12. Nf3 Bg4 $1 {
+, which would give Black excellent counterplay. But now he has the serious
+problem of how to defend that weak c4 pawn.}) 12... Qa5 13. h6 {The h-file
+isn't the relevant factor now, it's more the weak c4 pawn and White's mobile
+d- and c-pawns. So it's good to put Black's g7 bishop on a square where it can
+be hit by Nc3-e4.} Bf6 14. O-O O-O 15. d5 Nb4 16. Ne4 Bh8 ({After} 16... Bxb2 {
+White can play} 17. Rb1 Qxa2 (17... Bh8 18. Bd2 c3 19. Bxc3 Bxc3 20. N2xc3 {
+leaves Black facing threats of Qd4 and d6.}) 18. N2c3 Qa3 19. Qd4 f6 20. Qxc4 {
+is horrendous for Black who would be unable to rescue his offside pieces AND
+save his king.}) 17. Bd4 Nd3 18. Bxh8 Kxh8 19. Qc2 Qb4 (19... Nxc5 20. Qxc4
+Nxe4 21. Qxe4 {is very unpleasant for Black as both e7 and his king are weak
+and White can must pile his pieces into the middle of the board (Rad1, Rfe1
+and Nc3/d4/f4).}) 20. b3 Bf5 (20... Nxc5 21. Nxc5 Qxc5 22. bxc4 {would still
+be very attractive for White.}) 21. N2g3 Bxe4 22. Nxe4 Nxc5 23. bxc4 Nxe4 24.
+Qxe4 {The exchange of minor pieces has done little to ease the defence, both
+e7 and Black's king are still major problems. In addition it is relatively
+easy to play White's position which is always useful in a key game.} b6 25.
+Rfe1 Rfe8 26. Qe5+ f6 27. Qe6 Qd2 28. Re3 Qd4 29. Rae1 Qf4 30. Rh3 {Possibly
+some nerves creeping in.} (30. d6 {was already winning, for example} Qxh6 31.
+d7 Red8 32. Qxe7 {leaves Black with no good defence.}) 30... Rac8 (30... Qxc4 {
+was the last try, though White then wins with} 31. Qf7 Rg8 32. Qxe7 ({And not} 
+32. Rxe7 {because of} Qc1+ 33. Kh2 Qf4+ {with a draw by perpetual check.})) 31.
+d6 Rxc4 ({After} 31... Qxd6 32. Qf7 Rg8 33. Rxe7 {there's no perpetual this
+time.}) ({And of course} 31... exd6 32. Qxe8+ {leads to mate.}) 32. Qf7 Rg8 33.
+dxe7 Re4 34. Rxe4 {When Black recaptures on e4 White plays Qxf6+ followed by
+mate.} 1-0
+

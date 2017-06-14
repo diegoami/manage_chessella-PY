@@ -1,0 +1,33 @@
+[Event "FIDE Moscow Grand Prix 2017"]
+[Site "Moscow"]
+[Date "2017.05.21"]
+[Round "9"]
+[White "Inarkiev, Ernesto"]
+[Black "Hou, Yifan"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2727"]
+[BlackElo "2652"]
+[Annotator "A. Silver"]
+[PlyCount "68"]
+[EventDate "2017.??.??"]
+1. e4  e5  2. Nf3  Nc6  3. Bc4  Bc5  4. O-O  Nf6  5. d3  d6  6. c3  a6  7. Re1 
+O-O  8. Bb3  h6  9. Nbd2  Ng4 {(873s) A surprise no doubt for Inarkiev. While
+the databases do have this as the third most played move, it bears mentioning:
+not by grandmasters! The most common here are Ba7, Be6, or Re8.} 10. Re2  Kh8
+{(6s) Hou Yifan is hardly camouflaging her intent. Kh8 is to free the f-pawn
+from its pin. Which begs the question, why did White choose to force Black's
+hand with...} 11. h3 $6 { (0s) The engines can say this move is fine, but I
+don't like it on principle. Why not let Black show her hand first, and instead
+continue development with Nf1?} ({If after} 11. Nf1 {Black still plays} f5
+{then} 12. exf5 Bxf5 13. d4 $1 {is fine for White.}) 11... f5  12. exf5  Nxf2 
+13. Rxf2  Bxf2+  14. Kxf2  Bxf5 {(9s) Black definitely has compensation, and
+the question is now who will be able to make the most of this imbalanced
+position?} 15. Qe2  d5  16. Kg1  Qd6  17. Bc2  Rf7  18. b4  a5  19. Bb2  axb4 
+20. cxb4  Nxb4  21. Nxe5  Re7  22. Ndf3  Kg8  23. Qd2  Nxc2  24. Qxc2  c5  25.
+Qb3  Kh7  26. Kh1 $2 {(0s) A blunder! Now Black is winning.} d4 $1  27. Bc1 
+({The point is that after a move such as} 27. Nc4 {Black continues} Qg3 28. Ng1
+Rae8 {and clearly the extra rook is far stronger than White's two pieces})
+27... Rxe5  28. Bf4  Qd5 $1 {[#] (38s)} 29. Rb1  ({The idea is that after} 29.
+Bxe5 Qxb3 {wins since the pawn is pinned to protect the rook on a1}) 29... Qxb3
+ 30. Rxb3  Rd5  31. Ne5  Rxa2  32. Rxb7  Re2  33. g4  Be6  34. Nc4  Rd8  0-1

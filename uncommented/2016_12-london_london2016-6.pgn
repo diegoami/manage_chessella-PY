@@ -1,0 +1,174 @@
+[Event "London Chess Classic"]
+[Site "?"]
+[Date "2016.12.15"]
+[Round "6"]
+[White "Caruana, F."]
+[Black "Nakamura, H."]
+[Result "1-0"]
+[ECO "B96"]
+[Annotator "Krasenkow,M"]
+[PlyCount "63"]
+[SourceDate "2016.12.11"]
+
+{While the tournament leader, Wesley So, scored another victory against
+out-of-form Veselin Topalov, two of his chasers, said to be the most probable
+challengers for the world title in 2018, clashed in a principled battle.} 1. e4
+c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 {Nakamura played the Najdorf
+System against Caruana in their latest resultive classic game (US Championship,
+Saint Louis, April 2016)... and lost! Since then Fabiano and Hikaru only met
+in rapid (or semi-rapid, as in the "Champions Showdown" last month) and blitz
+events, and Nakamura always replied 1...e5 to 1.e4. Does he think that the
+Najdorf is a "more serious" opening than 1...e5 :-)?} 6. Bg5 {This "main" move
+is a rare guest in Caruana's practice. He plays various systems against the
+Najdorf but lately his main weapon was the English Attack, starting with 6.f3 
+(that's what he played against Nakamura in Saint Louis). However, it looks
+like Hikaru was not surprised.} e6 7. f4 h6 {Apparently, Nakamura had never
+played this line before the present game. However, Caruana didn't miss it when
+preparing to play 6.Bg5.} 8. Bh4 Qb6 {This aggressive continuation is probably
+more popular on move 7 but it is by no means new in this position, too.} 9. a3
+{One of the main theoretical moves. White indirectly protects his b2 pawn and
+prepares to oust Black's queen by means of Bh4-f2.} (9. Qd2 {, sacrificing the
+b2 pawn, is the main alternative.}) 9... Be7 ({Of course,} 9... Qxb2 $4 {
+loses the queen due to} 10. Na4) (9... Nbd7) (9... Nc6 {and even}) (9... Bd7 {
+are the other moves frequently seen in practice.}) 10. Bf2 Qc7 11. Qf3 Nbd7 12.
+O-O-O b5 13. g4 {Both sides have made typical attacking knight pawn moves;
+however, their impet is slowed down by the rook pawns, which have already
+moved to a3 and h6...} g5 {...and besides, Black has a possibility to strike a
+sudden counterblow, with an obvious idea to gain the e5 square for his knight.}
+14. h4 $5 gxf4 15. Be2 {This apparently strange sequence of moves was seen for
+the first time in a correspondence game and later, at the super-GM level, in
+Giri - Vachier-Lagrave (Stavanger 2016). White creates the g4-g5 threat and
+protects the g4 pawn in case of ...Nd7-e5 Qf3xf4.} b4 $5 {Played instantly,
+which means that this move was prepared at home. In his annotations for
+ChessBase Magazine, Maxime Vachier-Lagrave examines a lot of moves but not
+this one! However, it was obviously not secret for yesterday's opponents.} ({
+The French Grandmaster played} 15... Rg8 {in the above-mentioned game, to
+which, according to his analysis, White could have sacrificed a pawn:} 16. g5
+$1 {with a powerful attack} ({instead of} 16. Rdg1 {, played by Anish Giri})) (
+{To understand the idea of 15...b4, we must take a look at the following line:
+} 15... Ne5 16. Qxf4 Nexg4 $1 17. Bxg4 e5 {(looks very strong but White has an
+adequate riposte)} 18. Nd5 $1 Nxd5 19. Qf3 {- White avoids serious material
+losses and keeps a strong attack at Black's uncastled king, e.g.} Bxg4 20. Qxg4
+Nf6 21. Qf3 exd4 22. Bxd4 {regaining the piece since} Qd8 $2 {is clearly bad
+due to} 23. e5 {(Indicated by Vachier-Lagrave).}) 16. axb4 Ne5 17. Qxf4 Nexg4
+18. Bxg4 e5 {Now we see the difference.} ({In case of} 18... e5 19. Nd5 Nxd5
+20. Qf3 {Black can simply play} Nxb4 {. White's d4 knight can't retreat, the
+only way for him to avoid losing a piece is} 21. Be1 a5 22. Bxb4 axb4 {,
+opening the a-file for Black, after which the latter obtains an excellent
+counterplay. However, White has another option...}) 19. Qxf6 $1 {This queen
+sacrifice is not difficult, in fact, but what followed next was really amazing.
+} Bxf6 20. Nd5 Qd8 21. Nf5 $3 {After this move Hikaru fell into a deep thought
+for the first time in this game!} ({In his analysis he obviously expected} 21.
+Nc6 Bxg4 22. Nxd8 Bxd8 {This endgame is unclear, both sides have their merits
+and drawbacks. Black has more weaknesses but his bishop pair should not be
+underestimated. Instead, Fabiano renounces restoring the material balance! I
+must say that such "real" queen sacrifices are an Achilles' heel of analytic
+engines. They almost always evaluate positions with, say, two minor pieces for
+a queen in favour of the strongest piece, while in reality, in human play,
+there may be a more than sufficient compensation for the material. Therefore
+such positions should be analysed and evaluated "manually", and kudos to
+Caruana and his team for doing that!}) 21... Rb8 $6 {Black prevents 22.Bb6 but
+allows 22.Nxf6+ Qxf6 23.Nxd6+ (or 23.Rxd6), which proves to be fatal for him.}
+({He could have parried both threats by just trading White's dangerous knight:
+} 21... Bxf5 22. Bxf5 Rb8 {but then the weakness of light squares around his
+king could have become decisive. Computer engines show equality here, which
+means that Black's position is almost hopeless :-). White could have played}
+23. Rd3 {with idea Ra3 or Rc3} ({or simply} 23. c4)) 22. Nxf6+ Qxf6 23. Rxd6 $6
+{Alas, White fails to find the strongest but very difficult continuation,
+which means that either Caruana did not analyse 21...Rb8 at all or forgot his
+analysis. I bet for the former suggestion since the variations are really
+amazing and must stock up in one's memory:} (23. Nxd6+ $1 Ke7 ({to} 23... Kf8 {
+White has an amazing move} 24. Bf5 $3 {followed by Bf2-c5, and Black's king,
+"pressed against the ropes", is completely helpless}) (23... Qxd6 {is hopeless
+due to} 24. Rxd6 Bxg4 25. Rxa6 {with a decisive material advantage for White})
+24. Bc5 $3 Qf4+ {(forced)} (24... Bxg4 25. Nb5+ {followed by mate on c7}) 25.
+Kb1 Qxg4 (25... Bxg4 {again leads to a mate after} 26. Nf5+) 26. Nxc8+ Ke8 (
+26... Kf6 27. Rhf1+ Kg7 28. Rg1 $18 {with decisive material gains for White})
+27. Nd6+ Kd7 {(again the only move)} (27... Ke7 28. Nf5+ Ke8 29. Rhg1 $18 {
+- Black's queen can't retreat in view of Nf5-g7#}) 28. Nxf7+ Kc7 {(other
+retreats are worse)} ({e.g.} 28... Ke6 29. Nxh8 Rxh8 30. Rhf1 {with an
+inevitable deadly check on d6}) 29. Bd6+ Kb7 {(once again, there are no better
+king moves)} 30. Bxb8 Rxb8 31. Nxe5 {, and White keeps a rook, knight and
+three pawns for the queen, which is quite enough to win, since} Qxe4 $6 32. Nd7
+{loses an exchange, after which two rooks easily deal with Black's lone queen.}
+) 23... Be6 {Black is ready to castle. However, his position is still poor.}
+24. Rhd1 ({Another way to meet Black's castling was} 24. Be3 Rxb4 $1 ({if} 
+24... O-O {then} 25. Nxh6+ Kh8 (25... Kg7 26. Rg1) 26. Nxf7+ $1 Qxf7 27. Rxe6 {
+, and Black's king is helpless.}) ({an attempt to free Black's queen:} 24...
+Qg6 {fails to} 25. Rxe6+ $3 fxe6 26. Bh5 $1 Qxh5 27. Ng7+) 25. Rxa6 O-O ({
+in case of} 25... Bxf5 26. Rxf6 Bxg4 27. Bxh6 Rxe4 {White keeps an extra pawn
+and good winning chances}) 26. Nxh6+ Kh8 27. Bf5 $1 (27. Nxf7+ Qxf7 28. Rxe6 {
+is now premature due to} Rxe4 {; White must prepare that blow}) 27... Qd8 28.
+Nxf7+ $1 Rxf7 29. Rxe6 Rxf5 $1 {(Black must get rid of White's terrifying
+bishop)} 30. Rh6+ (30. exf5 Rg4 $1 {is less clear}) 30... Kg8 31. Rg1+ Kf7 32.
+Rh7+ Ke6 33. exf5+ Kxf5 $16 {Despite an approximate material parity, White has
+a clear advantage: a passed h4 pawn, and Black's "centralized" king is in
+danger; still, the outcome of the game is not quite certain.}) 24... O-O 25. h5
+$1 {(threatening 26.Bh4)} Qg5+ ({Black didn't bring himself to put his queen
+to the corner by} 25... Rfe8 26. Bh4 Qh8 {but that was the most stubborn
+defense. White should probably continue positionally:} 27. Ne3 $1 (27. Ne7+ {
+is not enough due to} Rxe7 28. Bxe7 Bxg4 29. Rd8+ Rxd8 30. Rxd8+ Kh7 31. Rxh8+
+Kxh8 {, and Black should not lose this endgame with opposite-coloured bishops})
+27... Qg7 28. Rg1 Kf8 29. Rdd1 $16 {Black's position is very difficult to
+defend, of course.}) 26. Be3 Qf6 ({Of course, not} 26... Qxg4 27. Nxh6+) 27.
+Nxh6+ Kh8 28. Bf5 {Caruana spent some time calculating the blow on f7 but
+finally prefered a strong positional continuation, making Nxf7+ a more
+powerful threat.} (28. Nxf7+ {was possible but Black had the following defense:
+} Rxf7 29. Rxe6 Qh4 $1 30. Bf5 {(threatening 31.Rh6+ since Black will be
+unable to reply 31...Rh7)} Rxf5 $1 {(here, too, Black must eliminate this
+bishop)} 31. exf5 (31. Rh6+ {was a good alternative:} Kg8 32. Rg1+ Kf7 33. Rh7+
+Ke6 34. exf5+ Kxf5 35. Rf1+ Ke6 36. Rh6+ Kd5 37. Bd2 $16 {with a favorable
+position, similar to the one examined in the 24.Be3 line}) 31... Qxb4 {, and
+the forced line} 32. Rh6+ Kg8 33. Rg1+ Kf7 34. Rh7+ Kf6 35. Rg6+ Kxf5 36. Rf7+
+Ke4 37. Rg4+ Kxe3 38. Rxb4 Rxb4 {leads to a rook endgame with an extra pawn
+for White, which, I believe, should be winning for him despite Black's passed
+e-pawn. But, of course, calculating this line and evaluating the final
+position is a very difficult task over the board.}) 28... Qe7 $2 {Nakamura
+succumbs to the pressure. His move doesn't parry the Nxf7+ threat.} (28... Rxb4
+$2 29. Nxf7+ Qxf7 30. Rxe6 {was obviously hopeless}) (28... Rbd8 {doesn't work
+due to the simple} 29. Rxd8 Rxd8 30. Rxd8+ Qxd8 31. Bxe6 {, and White gets a
+third piece for the queen;} Qh4 {doesn't help here due to} 32. Nxf7+ Kg7 ({or} 
+32... Kh7 33. Kb1) 33. Bh6+ $1 Kh7 34. b3 {: Black can't take the e4 pawn in
+view of the knight fork; well, he can take the h5 pawn but White keeps a
+decisive material advantage anyway}) ({to} 28... Qh4 {White can reply} 29. Rg1
+$1 {threatening 30.Bg5} (29. Nxf7+ Rxf7 30. Rxe6 Rxf5 {leads to a position
+arising after 28.Nxf7+}) 29... Qxh5 {(what else?)} 30. Nxf7+ $1 Rxf7 (30...
+Bxf7 {is also hopeless due to} 31. Rh6+ Qxh6 32. Bxh6 Rg8 33. Rh1) 31. Rxe6 Rg7
+32. Rd1 {- Black will never survive with such a poor king!}) (28... Rfe8 {
+was the most stubborn defense. White can continue} 29. Rg1 ({or} 29. c3) ({
+but not} 29. Rxa6 $2 Ra8 {, and Black obtains counterplay}) 29... Rxb4 30. Rxa6
+{with a huge advantage.}) 29. b5 $6 {The idea of this move is either to close
+the b-file or to deflect Black's rook from the 8th rank. However, such
+"niceties" were excessive!} ({Black prepared to meet} 29. Nxf7+ Rxf7 30. Rxe6 {
+with} Qxb4 {followed by} 31. Rh6+ Kg8 32. Rg1+ Rg7 ({but not} 32... Kf8 33.
+Rh8+ Ke7 34. Rxb8 Qxb8 35. Bc5+ $18) 33. Be6+ Kf8 {. Here both players missed
+the excellent move} 34. Bc5+ $3 ({instead of the obvious} 34. Rh8+ Ke7 35.
+Rxg7+ Kd6 $1 36. Rd7+ Kxe6 37. Rxb8 Qxb8 $16 {, which both definitely
+calculated and concluded that Black could successfully continue resistance})
+34... Qxc5 35. Rh8+ Ke7 36. Rxg7+ Kd6 37. Rxb8 Qe3+ (37... Kxe6 38. Rb6+ $1
+Qxb6 39. Rg6+ {- a simple skewer combination}) 38. Kb1 Qe1+ 39. Ka2 Qa5+ 40.
+Kb3 Kxe6 {(the bishop can be taken now but White simply queens his h-pawn)} 41.
+h6 $18) 29... Qe8 $2 {Here are the lines demonstrating White's idea:} (29...
+axb5 30. Nxf7+ Rxf7 31. Rxe6 {, and in case of} Qb4 32. Rh6+ Kg8 {White can
+simply play} 33. c3 {parrying all future threats}) (29... Rxb5 30. Nxf7+ Rxf7
+31. Rxe6 Qb4 32. Rd8+ {(the pointe! The invasion of this rook breaks Black's
+defenses)} Rf8 33. Rh6+ Kg7 ({or} 33... Kg8 34. Be6+ Kg7 35. Rd7+) 34. Rd7+ Rf7
+35. Rg6+ Kh8 (35... Kf8 36. Rd8+ Ke7 37. Bg5+) 36. Rd8+ Rf8 (36... Kh7 37. Rc6+
+Rxf5 38. Rc7+ {and mate}) 37. Rxf8+ Qxf8 38. Bg5 {with an inevitable deadly
+check on f6}) ({Black could have parried the Nxf7+ threat by means of} 29...
+Rbe8 {but with the passed a-pawn after} 30. bxa6 {, White should win.}) 30.
+Nxf7+ Rxf7 31. Rxe6 Qxb5 {The same defense as after the immediate 29.Nxf7+ but
+here Black's queen is placed worse than on b4.} 32. Rh6+ {BLACK RESIGNED
+forseeing the following line. Nakamura's opening surprise (15...b4) was met
+with an excellent counter-surprise (21.Nf5!!). Black's queen was absolutely
+powerless against White's minor pieces. Of course, the unsafe position of
+Black's king made the greatest contribution to his defeat. Unfortunately,
+Caruana didn't find the simplest paths to a win at several occasions but he
+never let his advantage slip and finally brought it home. Fabiano didn't
+manage to catch the leader but keeps closely chasing him. Last three rounds of
+the tournament are going to be exciting!} ({After} 32. Rh6+ Kg8 33. Rg1+ Rg7
+34. Be6+ Kf8 35. Rh8+ ({of course, the beautiful} 35. Bc5+ {wins here, too,
+but it is unnecessary now}) 35... Ke7 36. Rxg7+ Kd6 {Black is not threatening
+mate on e1, and ...Qxb2+ will be completely harmless; therefore, White can
+simply continue} 37. Rh6 $18 {with decisive threats.}) 1-0
+

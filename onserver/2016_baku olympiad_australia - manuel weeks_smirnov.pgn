@@ -1,0 +1,73 @@
+[Event "42nd Olympiad 2016"]
+[Site "Baku AZE"]
+[Date "2016.09.11"]
+[Round "9.3"]
+[White "Smirnov, Anton"]
+[Black "Ismagambetov, Anuar"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "2482"]
+[BlackElo "2542"]
+[Annotator "Manuel"]
+[PlyCount "63"]
+[EventDate "2016.09.02"]
+[WhiteTeam "Australia"]
+[BlackTeam "Kazakhstan"]
+[WhiteTeamCountry "AUS"]
+[BlackTeamCountry "KAZ"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. Qc2 dxc4 6. e4 b5 7. b3 {A promising
+pawn sacrifice that has been seen before. It is becoming more standard to play
+b3 in these types of postions although you tend to see them from Catalan
+versus Slav positions.} cxb3 8. axb3 e6 9. Bd3 Bb7 10. O-O Nbd7 11. e5 Nd5 12.
+Nxd5 cxd5 13. Bxh7 {white wins his pawn back but opening the h-file can often
+be helpful for black.} Rc8 14. Qb1 {This has all been seen before, according
+to my database. Blacks next move, Bb4 is the novelty but it is also an obvious
+one.} Bb4 15. Be3 Qe7 (15... g6 $2 16. Bxg6 $1) 16. Bd3 f6 17. Ra2 fxe5 18.
+Bg6+ Kf8 19. dxe5 d4 20. Bg5 Qc5 21. Be4 $16 Nxe5 22. Nh4 {Played a tempo but
+Anton has missed something.} (22. Nxd4 $1 Qxd4 (22... Bxe4 23. Qxe4 Qd5 24.
+Nxe6+ Qxe6 25. Qxb4+) 23. Bxb7) (22. Bxb7 Nxf3+ 23. Bxf3 Qxg5) 22... Bxe4 23.
+Qxe4 Kg8 {The position is dynamically equal but blacks king is still the one
+most vulnerable.} 24. Re2 (24. Ng6 Nxg6 25. Qxe6+ Kh7 26. Qh3+ Kg8 27. Qe6+ {
+Is a draw}) (24. Rxa6 Rh5 25. f4 d3+ 26. Kh1 d2 27. Ra8 Rxa8 28. Qxa8+ Kh7 29.
+Qe4+ Kg8 30. Qa8+ {Is another draw.}) 24... Nf7 {Not a losing move but now the
+battle continues.} (24... d3 25. Qxe5 dxe2 26. Qxe6+ Kh7 27. Qg6+ Kg8 28. Qe6+
+{Anton mentioned after the game that he could not find anything that gave him
+advantage and that his hasty 22.Nh4 might have cost him a big chance.}) 25.
+Qxe6 Qc6 26. Qg4 Nxg5 27. Qxg5 Qf6 $2 {Now the game favours white.} (27... Rh6
+$11) 28. Qd5+ Kh7 {Missing white's next move.} {[%tqu "En","White to play and
+find the winning coninuation. Can you get a GM norm too?","","","e2e5","",10]}
+29. Re5 g6 30. Qxd4 (30. Nxg6 $1 Qxg6 31. Rh5+ Kg7 32. Qd7+ Kf6 33. Qxd4+ Kf7
+34. Qd5+) 30... Bc3 $4 {[%tqu "En","Now you only need to see the hammer move!",
+"","","d4d7","",10]} 31. Qd7+ Kh6 {[%tqu "En","One move away from forcing
+resignation. Can you find it?","","","h4f5","",10]} 32. Nf5+ 1-0
+
+[Event "42nd Olympiad 2016"]
+[Site "Baku AZE"]
+[Date "2016.09.13"]
+[Round "11.4"]
+[White "Smirnov, Anton"]
+[Black "Barcenilla, Rogelio"]
+[Result "1-0"]
+[ECO "E99"]
+[WhiteElo "2482"]
+[BlackElo "2455"]
+[PlyCount "135"]
+[EventDate "2016.09.02"]
+[WhiteTeam "Australia"]
+[BlackTeam "Philippines"]
+[WhiteTeamCountry "AUS"]
+[BlackTeamCountry "PHI"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. f3 f5 11. g4 Kh8 12. Nd3 Ng8 13. Kh1 Bh6 14. Bxh6 Nxh6 15.
+exf5 gxf5 16. Qd2 f4 17. Nf2 Nf7 18. Bd3 Rg8 19. Rg1 a6 20. Nfe4 Nf6 21. Qf2
+Nxe4 22. Nxe4 Ng5 23. Nxg5 Qxg5 24. c5 Qd8 25. Rac1 Rg7 26. Rc2 Bd7 27. Rgc1
+Be8 28. cxd6 Qxd6 29. Qc5 Bg6 30. Qxd6 cxd6 31. Bxg6 hxg6 32. g5 Re8 33. Kg2 e4
+34. Rc8 Rge7 35. Rxe8+ Rxe8 36. fxe4 Rxe4 37. Kf3 Rd4 38. Rc8+ Kg7 39. Rc7+ Kf8
+40. Rxb7 Rxd5 41. Kxf4 Rd2 42. h3 Rd4+ 43. Kf3 Rd3+ 44. Ke4 Rxh3 45. Rb6 Rh2
+46. Kd5 Rg2 47. Kxd6 Rxg5 48. Rxa6 Rb5 49. b3 g5 50. Ra4 Kf7 51. Rc4 Kf6 52. b4
+Rf5 53. a4 Rf4 54. Kd5 Rf5+ 55. Kc6 Rf4 56. Kb5 Rf5+ 57. Kb6 Rf4 58. Rc6+ Kf5
+59. Kb5 g4 60. a5 g3 61. Rc1 Ke4 62. a6 Rf5+ 63. Kb6 Rf6+ 64. Ka5 Rf7 65. b5
+Kd4 66. b6 g2 67. b7 Rf5+ 68. Ka4 1-0
+

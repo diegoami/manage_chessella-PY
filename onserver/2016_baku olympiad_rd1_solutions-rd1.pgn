@@ -1,0 +1,60 @@
+[Event "42nd Olympiad Baku 2016 Open"]
+[Site "Baku"]
+[Date "2016.09.02"]
+[Round "1.7"]
+[White "Shankland, Samuel L"]
+[Black "Fernandez Lopez, Joan"]
+[Result "1-0"]
+[ECO "B38"]
+[WhiteElo "2679"]
+[BlackElo "2142"]
+[Annotator "Albert"]
+[SetUp "1"]
+[FEN "r4r2/1p1nppkp/1qbp2p1/p7/1PP1P3/P1NQ4/4BPPP/R4RK1 w - - 0 16"]
+[PlyCount "7"]
+[EventDate "2016.??.??"]
+[EventCountry "AZE"]
+[WhiteTeam "United States"]
+[BlackTeam "Andorra"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "AND"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteClock "1:16:02"]
+[BlackClock "0:27:41"]
+
+16. c5 $1 {(05:35)} ({The attractive looking} 16. b5 $2 {is countered by the
+zwischenzug} Ne5 $1 {saving the piece.}) 16... Qc7 {(20:44)} (16... dxc5 {
+changes nothing after} 17. b5 {since now} Ne5 {is answered with} ({After} 17...
+c4 {the queen just moves away to b1, c2, etc, and the bishop is trapped. After
+Bxb5 White will play Rb1 and capture it the next move.}) 18. Qg3 {and now the
+knight is no longer defended.}) 17. cxd6 {(00:37)} exd6 {(12:51)} 18. Qd4+ {
+(05:56)} Nf6 {(03:14)} 19. b5 {(00:13)} 1-0
+
+[Event "42nd Olympiad Baku 2016 Women"]
+[Site "Baku"]
+[Date "2016.09.02"]
+[Round "1.8"]
+[White "Gaponenko, Inna"]
+[Black "Silva, Ana Ines Teixeira D"]
+[Result "1-0"]
+[ECO "B17"]
+[WhiteElo "2416"]
+[BlackElo "1855"]
+[SetUp "1"]
+[FEN "3rn1k1/3r1ppp/1p2p3/p3B3/2P5/1P3QR1/P2q1PPP/5RK1 w - - 0 29"]
+[PlyCount "11"]
+[EventDate "2016.??.??"]
+[EventCountry "AZE"]
+[WhiteTeam "Ukraine"]
+[BlackTeam "Portugal"]
+[WhiteTeamCountry "UKR"]
+[BlackTeamCountry "POR"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteClock "0:04:32"]
+[BlackClock "0:02:49"]
+
+29. Rxg7+ $1 {(02:22)} Nxg7 {(01:32)} 30. Qf6 $1 {(00:03)} Kf8 {(00:07)} 31.
+Qxg7+ {(00:05)} Ke7 {(00:07)} 32. Qf6+ {(01:14)} Ke8 {(00:48)} 33. Qh8+ {
+(00:05)} Ke7 {(00:03)} 34. Bf6+ {(00:04) and White recovers not only the rook,
+but is a piece up with the attack still raging.} 1-0
+

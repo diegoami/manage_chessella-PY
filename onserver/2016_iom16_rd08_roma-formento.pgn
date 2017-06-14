@@ -1,0 +1,45 @@
+[Event "Isle of Man International 2016"]
+[Site "Douglas/Isle of Man"]
+[Date "2016.10.08"]
+[Round "8"]
+[White "Romanishin, Oleg M"]
+[Black "Formento, Paolo"]
+[Result "1-0"]
+[ECO "A49"]
+[WhiteElo "2456"]
+[BlackElo "2307"]
+[Annotator "Albert Silver"]
+[PlyCount "93"]
+[EventDate "2016.??.??"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. a4 a5 7. Nc3 c6 8. e4 Na6
+9. h3 Nb4 10. Be3 Qc7 11. Nd2 d5 12. e5 Ne8 13. Na2 Nxa2 14. Rxa2 f6 15. f4 Be6
+16. Ra3 Qd7 17. Kh2 Nc7 18. Qe2 Na6 19. Nf3 Kh8 20. Bf2 Nc7 21. Rb3 b5 22. axb5
+cxb5 23. Rc3 Bg8 24. Ra1 b4 25. Re3 a4 26. Qd2 Rfb8 27. Ne1 Nb5 28. Nd3 a3 29.
+b3 Nc3 {[%tqu "En","White starts to take advantage of weaknesses in Black's
+position. White to play.","","","d3b4","",10]} 30. Nxb4 $1 {The clear best
+move.} Ne4 $5 {Black quite rightly decides to mix it up and give his opponent
+more chances to err.} ({Now if} 30... Rxb4 31. Rxc3 {is a clear pawn up, and
+the a3-pawn is weak too.}) {[%tqu "En","Black just played the zwischenzug
+Ne4!? How do you reply?","","","e3e4","",10,"g2e4","",0]} 31. Rxe4 $1 {Blow
+for blow! The knight was going to be captured, but the bishop will be much
+stronger than the rook here.} (31. Bxe4 $6 {is still strong of course, but
+just not as strong.} dxe4 32. Rxe4 fxe5 33. fxe5 Qb7 {[%cal Rb7e4,Rb7b4]
+attacking both the knight and the rook.} 34. d5 {[%cal Re4b4] Forced.} e6 $1 {
+attacking the pinned pawn.} 35. Bc5 exd5 36. Re2 {and though White is
+considerably better, it is not as strong as the continuation chosen by the
+Ukrainian grandmaster.}) 31... dxe4 32. Bxe4 fxe5 33. fxe5 Bxe5 {[%tqu "En",
+"Once more, White is at a crossroads. Time to cash in the chips? White to play
+and win.","","","b4c6","",10]} 34. Nc6 $1 (34. Bxa8 $2 Rxa8 {and the bishop
+cannot be touched as the pawn is pinned.} 35. Nd3 Bg7 ({Definitely not} 35...
+Bxd4 $2 36. Nc5 $1 {and Black loses his bishop.})) 34... Bd6 35. Nxb8 Rxb8 36.
+d5 e5 37. Be3 Qc7 38. Qd3 Qb7 39. Bg2 Qb4 40. Qa6 Kg7 {[%tqu "En","Time for
+the cherry on top. White to play and win.","","","c2c3","and no matter where
+the queen goes or what pawn it takes, material is going down.",10]} 41. c3 $1 {
+and no matter where the queen goes or what pawn it takes, material is going
+down. Black resigned in view of} Qxc3 42. Qxd6 Qxa1 43. Qxb8 Qc3 44. Bh6+ Kxh6
+45. Qf8+ Kh5 46. Bf3+ Kg5 47. h4# 1-0
+

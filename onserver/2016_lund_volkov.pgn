@@ -1,0 +1,74 @@
+[Event "CellaVision Cup 2016"]
+[Site "Lund SWE"]
+[Date "2016.08.06"]
+[Round "6.1"]
+[White "Volkov, Sergey1"]
+[Black "Tikkanen, H."]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[WhiteElo "2591"]
+[BlackElo "2528"]
+[SetUp "1"]
+[FEN "2r2r1k/1p2q2p/p1nn4/2Nppp2/1P1P4/P2BP3/2R1Q1PP/5RK1 w - - 0 22"]
+[PlyCount "35"]
+[EventDate "2016.08.05"]
+[EventType "swiss"]
+[EventRounds "8"]
+[EventCountry "SWE"]
+[SourceTitle "The Week in Chess 1135"]
+[Source "Mark Crowther"]
+[SourceDate "2016.08.08"]
+
+{Quite often in chess tournaments we notice quick draws in order to secure a
+certain prize or save the energy for the next rounds. In Lund though, the
+clash between the first and the second place contenders was anything but an
+anticlimax. The moment I appreciated most was:} 22. Nxb7 $1 {Pretty positional
+sacrifice, fully justified by the number of pawns got in return. The Russian
+GM is known for his calculation abilities and I wouldn't be surprised if he
+saw everything until the very end.} Nxb7 ({Obviously not} 22... Qxb7 23. Bxa6 {
+[%cal Ga6c8]}) 23. Bxf5 ({White could have grabbed the other guy on a6 but
+according to my faithful machine Volkov's choice is practically superior,
+demanding higher accuracy and alertness from Black. In case of} 23. Bxa6 Nb8
+24. Rxc8 Rxc8 25. dxe5 Nxa6 26. Qxa6 Qxe5 27. Qxb7 Qxe3+ 28. Kh1 Rc1 {and a
+draw would be the most likely result.}) 23... Rc7 24. Qxa6 {three pawns for
+the piece but the Swedish GM has quite some weapons up his sleeves:} Nd6 25.
+Rxc6 Nxf5 26. Rxc7 Qxc7 27. Qe6 exd4 28. exd4 Qc4 29. Qe5+ {What can one do?
+With correct play from both sides a draw cannot really be avoided. However,
+the way this game went is far from flavorless!} Kg8 30. a4 Qxd4+ 31. Qxd4 Nxd4
+32. Rxf8+ Kxf8 33. a5 Ke7 34. a6 Nb5 35. Kf2 Kd6 36. Ke3 Ke5 37. g3 Kf5 38. h3
+h5 39. g4+ 1/2-1/2
+
+[Event "CellaVision Cup 2016"]
+[Site "Lund SWE"]
+[Date "2016.08.07"]
+[Round "7.1"]
+[White "Hillarp Persson, T."]
+[Black "Volkov, Sergey1"]
+[Result "0-1"]
+[ECO "D15"]
+[WhiteElo "2523"]
+[BlackElo "2591"]
+[SetUp "1"]
+[FEN "k1r5/r1q2pb1/2p1p1p1/2P3B1/1p1P2QP/pPn5/P1K1RPB1/4R3 w - - 0 32"]
+[PlyCount "42"]
+[EventDate "2016.08.05"]
+[EventType "swiss"]
+[EventRounds "8"]
+[EventCountry "SWE"]
+[SourceTitle "The Week in Chess 1135"]
+[Source "Mark Crowther"]
+[SourceDate "2016.08.08"]
+
+{When two sharp players meet, such explosions are bound to happen:} 32. Rxe6 $3
+fxe6 33. Rxe6 Qd7 34. Rxc6 Rxc6 35. Qxd7 Rxd7 36. Bxc6+ Rb7 37. d5 {the 'only'
+moves so far, with a very complicated position!} Ne4 38. Be3 Kb8 39. d6 Nf6 40.
+Kd3 Rf7 41. Kc4 Ng4 42. Kxb4 Nxe3 43. fxe3 {So here it is: Black is a rook up
+but White is counting on his pawns' army. You can have some fun analyzing this
+because my computer is currently giving 0.00 at depth 30:))) Reaching an
+objective conclusion of this position would cost me some hours of sleep but
+please give it a try if you have the energy! I find these unbalanced games so
+so difficult to play, as they leave plenty of room for mistakes on both sides.
+It was the case in this encounter as well but its beauty remains.} Rf5 44. Kb5
+Be5 45. Bd5 Rh5 46. b4 Rxh4 47. e4 g5 48. Kc6 g4 49. b5 g3 50. d7 Rh6+ 51. Be6
+Rxe6+ 52. Kd5 Bc7 0-1
+

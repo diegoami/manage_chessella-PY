@@ -1,0 +1,64 @@
+[Event "42nd Olympiad Baku 2016 Open"]
+[Site "Baku"]
+[Date "2016.09.06"]
+[Round "5.34"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Iordachescu, Viorel"]
+[Result "1-0"]
+[ECO "C66"]
+[WhiteElo "2675"]
+[BlackElo "2584"]
+[PlyCount "80"]
+[EventDate "2016.??.??"]
+[EventType "team-tourn"]
+[EventCountry "AZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[WhiteTeam "Poland"]
+[BlackTeam "Moldova"]
+[WhiteTeamCountry "POL"]
+[BlackTeamCountry "MDA"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:01]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:07]} 3. Bb5 {[%emt 0:00:00]} Nf6 {[%emt 0:00:08]} 4. d3 {[%emt 0:00:
+39]} d6 {[%emt 0:01:43]} 5. O-O {[%emt 0:03:05]} Bd7 {[%emt 0:02:11]} 6. c4 {
+[%emt 0:02:10]} g6 {[%emt 0:03:57]} 7. Nc3 {[%emt 0:01:03]} Bg7 {[%emt 0:00:18]
+} 8. h3 {[%emt 0:00:48]} O-O {[%emt 0:00:28]} 9. Be3 {[%emt 0:00:41]} a6 {
+[%emt 0:06:09]} 10. Ba4 {[%emt 0:00:26]} Nb8 {[%emt 0:01:15]} {[%tqu "En","The
+Ruy Lopez Steinitz is hardly new, and there are several typical plans here.
+White find a very original idea. Can you guess what it was and what the plan
+was?","","","c4c5","The exclamation point is for originality. Pushing c5 here
+is anything but usual. Nomrally White will work with plans with either b4-b5,
+or perhaps Qd2, Ne1(h2) with f2-f4 ideas. White's idea with c5 is to instead
+play on the c-file with his heavy pieces combined with b4-b5 ideas as leverage.
+",10]} 11. c5 $1 {[%emt 0:07:12] The exclamation point is for originality.
+Pushing c5 here is anything but usual. Nomrally White will work with plans
+with either b4-b5, or perhaps Qd2, Ne1(h2) with f2-f4 ideas. White's idea with
+c5 is to instead play on the c-file with his heavy pieces combined with b4-b5
+ideas as leverage.} Bxa4 {[%emt 0:05:14]} 12. Qxa4 {[%emt 0:00:25]} Nc6 {
+[%emt 0:03:14]} 13. Rfd1 {[%emt 0:05:36] White is in no hurry to develop on
+the c-file and first takes preventive measures to protect the backward d3 pawn.
+} dxc5 {[%emt 0:06:17]} 14. Bxc5 {[%emt 0:00:13]} Re8 {[%emt 0:00:05]} 15. Rac1
+{[%emt 0:04:32]} Nd7 {[%emt 0:07:37]} 16. Nd5 {[%emt 0:06:13]} Nxc5 {[%emt 0:
+10:25]} 17. Rxc5 {[%emt 0:00:25]} Re6 {[%emt 0:00:22]} 18. b4 {[%emt 0:10:55]}
+Bf8 {[%emt 0:02:40]} 19. Rc2 {[%emt 0:05:51]} Rd6 {[%emt 0:08:14]} 20. Qb3 {
+[%emt 0:02:27]} Rd7 {[%emt 0:04:11]} 21. a4 {[%emt 0:07:43]} Bg7 {[%emt 0:02:
+08] We now see another problem for Black: there is a lack of constructive
+breakthroughs or ways to improve.} 22. Rdc1 {[%emt 0:07:10]} Bh6 {[%emt 0:02:
+11] [#]} 23. Rxc6 $1 {[%emt 0:03:10]} bxc6 {[%emt 0:00:10]} (23... Bxc1 24.
+Rxc1) 24. Rxc6 {[%emt 0:00:05]} Bg7 {[%emt 0:00:18]} 25. Qc4 {[%emt 0:00:06]}
+h6 {[%emt 0:05:33]} 26. a5 {[%emt 0:03:27]} Kh7 {[%emt 0:03:58]} 27. Rxa6 {
+[%emt 0:02:46]} Rxa6 {[%emt 0:04:50]} 28. Qxa6 {[%emt 0:00:26] WIth two pawns
+for the exchange, a passed a-pawn, and the knight on d5, White is winning.} f5
+{[%emt 0:00:53]} 29. Qc6 {[%emt 0:07:08]} fxe4 {[%emt 0:01:51]} 30. dxe4 {
+[%emt 0:00:17]} Rd6 {[%emt 0:00:22]} 31. Qb7 {[%emt 0:03:25]} ({Obviously not} 
+31. Qxc7 $2 Rxd5 $1) 31... c6 {[%emt 0:04:06]} 32. a6 $1 {[%emt 0:00:07]} Qd7 {
+[%emt 0:03:27]} (32... cxd5 33. a7) 33. Ne7 {[%emt 0:00:15] The threat is now
+Qxd7 Rxd7 Nxc6.} Qd8 {[%emt 0:08:41]} 34. a7 {[%emt 0:08:35]} Rd1+ {[%emt 0:00:
+26]} 35. Kh2 {[%emt 0:00:04]} Ra1 {[%emt 0:00:22]} 36. h4 $1 {[%emt 0:03:32]
+Simple and deadly efficient: the idea is h5 gxh5 and Nf5, which is precisely
+what happens.} Qf8 {[%emt 0:01:23]} 37. h5 {[%emt 0:00:11]} gxh5 {[%emt 0:01:
+39]} 38. Nf5 {[%emt 0:00:24]} h4 {[%emt 0:00:30]} 39. Nxe5 {[%emt 0:00:56]} Qf6
+{[%emt 0:01:05]} 40. Nxc6 {[%emt 0:00:00]} Qg5 1-0
+

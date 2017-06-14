@@ -1,0 +1,88 @@
+[Event "Corus"]
+[Site "Wijk aan Zee"]
+[Date "2010.01.27"]
+[Round "10"]
+[White "Karjakin, Sergey"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "C11"]
+[WhiteElo "2720"]
+[BlackElo "2810"]
+[Annotator "Carlsen,M"]
+[PlyCount "90"]
+[EventDate "2010.01.16"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "19"]
+[SourceTitle "CBM 135"]
+[Source "ChessBase"]
+[SourceDate "2010.03.17"]
+
+1. e4 e6 $5 {The French Defence. In my younger years I used to consider it at
+best a second-rate opening, and I once even lost a bet with one of my friends,
+and as a result had to play 1... e6 in all my games with Black in a Super-GM
+tournament. Fortunately my friend was greedy, and took money instead. I
+believe that both 1...c5 and 1...e5! are better choices, but since I
+desperately wanted to win this game (I was trailing the leaders Kramnik and
+Shirov by 1 point at this stage) I decided to try something new.} 2. d4 d5 3.
+Nc3 Nf6 {The other main move here is 3...Bb4, which is rather more
+controversial. Some think it gives Black good counterplay, while others regard
+it as a simple positional mistake to give up the bishop too early.} 4. e5 Nfd7
+5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 {Other options here are the relatively slow 7...
+a6, or the more concrete 7...cxd4 followed by ...Qb6 or 7...Qb6 immediately,
+both of which are rated quite highly by Wesley So and his Rybka (see the
+previous issue of NiC).} 8. Qd2 O-O 9. Be2 a6 10. O-O b5 11. Kh1 $5 {An
+interesting, quite unusual move. 11.a3 or 11.Nd1 are the most usual moves here.
+The text is actually a quite cunning waiting move, as ...b4 and a5-Ba6 (the
+normal reply to Nd1) can now be met by Na4, while ...Bb7 (one of several
+possible replies to a3) can be met by Nd1. Then Black will probably have to
+play ...b4 and a5-Ba6 anyway, but with a tempo less. Therefore I decided to be
+more flexible, and make a more or less useful waiting move.} Qc7 12. a3 Bb7 13.
+Rad1 Rac8 14. Qe1 {A typical manoeuvre. White intends to gradually start an
+attack on the kingside. Therefore I decided to start counterplay in the centre
+immediately.} cxd4 15. Nxd4 Nxd4 16. Bxd4 Bc5 17. Qh4 $2 {While this move
+might objectively speaking not deserve a question mark, it was definitely a
+turning point in the game, as after my reply, Karjakin became very
+uncomfortable with his position.} (17. Qf2 {or something similar was required,
+as the queen needs to have more influence in the centre after I play ...f6,
+which is bound to happen sooner or later.}) 17... Bxd4 18. Rxd4 f6 $1 19. Bd3 {
+This one probably doesn't help much either, but since it was part of the plan
+with Qh4, I will not attach any mark to it.} h6 20. exf6 (20. Qg4 Qb6 $1 {
+would not help White.}) (20. f5 fxe5 21. Rg4 Nf6 {stops any illusions of a
+white attack.}) 20... Rxf6 {Now it is clear that something has gone wrong for
+White. The rook on d4 is exposed, f4 is weak, and he will be facing tactical
+problems with ...e5 quite soon. The "bad" bishop on b7 is certainly no worse
+than the white knight, which has dominated it in so many textbook games.} 21.
+f5 (21. Rg1 Rcf8 22. Ne2 e5 23. fxe5 Nxe5 {would not have been much of a
+relief; the black pieces are just much more active than their white
+counterparts here.}) (21. Qg3 Rcf8 22. Rf3 Nb8 $1 {leaves White on brink of
+disaster.}) 21... Rcf8 22. Rg1 Nc5 $1 {The most energetic.} ({The tempting} 
+22... e5 23. Nxd5 Bxd5 24. Rxd5 Nb6 {trapping the rook, gives White very good
+drawing chances after} 25. Qe4 Nxd5 26. Qxd5+ Kh8 27. Re1 {.}) 23. fxe6 Nxe6
+24. Rg4 $6 (24. Nxd5 Bxd5 25. Rxd5 Nf4 26. Rd4 Qc5 {forces White to give up
+the exchange with Rxf4, as} 27. c3 Nxd3 28. Rxd3 Qxg1+ 29. Kxg1 Rf1# {is mate.
+That being said, it would probably have been a better try.}) 24... Nf4 25. Qg3
+Qe7 $1 {The last key move, after which Black is completely winning. The point
+is to control e2, leaving the white knight without a good square after ...d4
+next. The tactical justification, based on a slightly surprising queen sac, is:
+} 26. Rxf4 {After this Black will only have to make a couple of more good
+moves to win the game, but White was probably lost in any case.} (26. h3 d4 27.
+Re1 (27. Ne2 Nxe2 28. Bxe2 Bc8 $1 {wins an exchange, while}) ({nach} 27. Nd1
+Bc8 28. Re1 Qf7 29. Rh4 Bb7 30. Rg1 Nxg2 $1 (30... g5 {is also very good of
+course}) 31. Rxg2 Rf3 32. Qg4 Re8 {leaves the uncoordinated white forces
+defenceless against the threat of ...Re1.}) 27... Qxe1+ $1 28. Qxe1 Nxd3 {
+and Black will be material up in every line.}) 26... Rxf4 27. Ne2 (27. Qg6 R8f6
+28. Qh7+ Kf7 {is obviously not dangerous.}) 27... Rf1 (27... Rh4 {with the
+idea of 28.Qg6 Rxh2+, mating was tempting, but I could not refute the
+considerably stronger 28.c3.}) 28. Nd4 {Now Black can force a queen exchange,
+but} (28. h3 Rxg1+ 29. Kxg1 Qc5+ 30. Kh2 d4 $1 {finally activating the bishop,
+was hardly much stronger.}) 28... Rxg1+ 29. Kxg1 Re8 {With queens on the board
+White could perhaps have hoped to resist, but without queens the extra
+exchange is bound to count, even though the knight on d4 is holding the
+position together for the moment.} 30. h4 Qe1+ 31. Kh2 Qxg3+ 32. Kxg3 Kf7 33.
+Kf2 Kf6 34. g3 Bc8 35. c3 Bg4 36. Bc2 g5 37. hxg5+ hxg5 38. Bb3 Ke5 39. Bc2
+Rf8+ 40. Kg2 Bd7 41. Nf3+ Kf6 42. Bb3 g4 43. Nd4 Ke5 {Now the white king is
+cut off, and the undermining a5+b4 cannot be prevented.} 44. Bc2 a5 45. Bd1 Ke4
+{My best game in Corus 2010!} 0-1
+

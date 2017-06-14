@@ -1,0 +1,56 @@
+[Event "Isle of Man International 2016"]
+[Site "Douglas/Isle of Man"]
+[Date "2016.10.09"]
+[Round "9"]
+[White "Lou, Yiping"]
+[Black "Das, Arghyadip"]
+[Result "1-0"]
+[ECO "D25"]
+[WhiteElo "2456"]
+[BlackElo "2400"]
+[Annotator "Albert Silver"]
+[PlyCount "52"]
+[EventDate "2016.??.??"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. d4 {[%emt 0:02:55]} d5 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:08]} dxc4 {
+[%emt 0:00:00]} 3. Nf3 {[%emt 0:00:48]} Nf6 {[%emt 0:00:00]} 4. e3 {[%emt 0:00:
+05]} Bg4 {[%emt 0:00:00]} 5. Bxc4 {[%emt 0:00:05]} e6 {[%emt 0:00:02]} 6. Nc3 {
+[%emt 0:00:10]} Nbd7 {[%emt 0:01:04]} 7. O-O {[%emt 0:00:15]} Bb4 {[%emt 0:00:
+24]} 8. Qb3 {[%emt 0:00:09]} c5 {[%emt 0:06:03]} 9. Ne5 {[%emt 0:06:05]} Nxe5 {
+[%emt 0:21:39]} 10. dxe5 {[%emt 0:00:22]} Nd7 {[%emt 0:00:12]} 11. f3 {[%emt 0:
+06:44]} Bh5 {[%emt 0:24:25]} 12. Rd1 {[%emt 0:02:08]} a6 {[%emt 0:01:09]} 13.
+Ne4 {[%emt 0:19:34]} Qc7 {[%emt 0:08:46]} 14. a3 {[%emt 0:06:27]} Ba5 {[%emt 0:
+00:34]} {[%tqu "En","The Chinese player found a strong continuation that he
+calculated very well. White to play and win.","","","c4e6","",10]} 15. Bxe6 {
+[%emt 0:01:25]} Nxe5 {[%emt 0:02:52]} ({The point is that after} 15... fxe6 16.
+Qxe6+ Kd8 (16... Kf8 17. Rxd7) {[%tqu "En","Though not the only winning move,
+it is the strongest (and simplest). White to play and win.","","","e6h3",
+"Attacking the bishop and threatening e6.",10]} 17. Qh3 $1 {Attacking the
+bishop and threatening e6.} Be8 18. e6 Kc8 19. Nd6+ Kb8 20. Nxe8 Rxe8 21. exd7
+Rf8 22. e4) ({Alternately} 15... O-O-O {also fails to} 16. Rxd7 Rxd7 17. Nd6+
+Kb8 18. Bxd7 Qxd7 19. e4 {and White's position is simply crushing.}) 16. Nd6+ {
+[%emt 0:00:38]} Kf8 {[%emt 0:03:29]} {[%tqu "En","Black is insistently leaving
+the bishop at the moment while he tries to consolidate. After ...Kf8 the king
+seems out of danger and the bishop is still hanging. What should White play?",
+"","","b3d5","",10,"e6h3","just throws away the advantage, giving Black that
+one tempo he needs to recover his balance.",0]} 17. Qd5 $1 {[%emt 0:01:31]} ({
+Retreating with a move such as} 17. Bh3 $2 {just throws away the advantage,
+giving Black that one tempo he needs to recover his balance.} Rd8 18. Qd5 f6)
+17... f6 {[%emt 0:07:46]} 18. Nxb7 {[%emt 0:09:08]} Bb6 {[%emt 0:00:25]} 19.
+Nxc5 {[%emt 0:09:35]} Ke7 {[%emt 0:01:07]} 20. Nd7 $1 {[%emt 0:01:51] White is
+putting on a show of precision here.} Rad8 {[%emt 0:09:37]} {[%tqu "En","White
+has played Nd7 and after Rd8, seems to have self-pinned. How does White
+continue? There is only one winner for White. Find it!","","","c1d2","",10]}
+21. Bd2 $3 {[%emt 0:01:56][%cal Rd2b4,Rb4e7] Two exclamation marks as this
+move is not obvious and it was essential to have seen it when playing Nd7,
+otherwise the knight move would have been a blunder.} Nxd7 {[%emt 0:00:05]} 22.
+Bxd7 {[%emt 0:00:37]} Rxd7 {[%emt 0:00:04]} 23. Bb4+ {[%emt 0:00:32]} Kd8 {
+[%emt 0:00:06]} 24. Qa8+ {[%emt 0:01:09]} Qc8 {[%emt 0:00:04]} 25. Rxd7+ {
+[%emt 0:00:07]} Kxd7 {[%emt 0:00:03]} 26. Rd1+ {[%emt 0:00:07]} Ke6 {[%emt 0:
+00:13] and Black resigned before White played Qd5 mate.} 1-0
+
