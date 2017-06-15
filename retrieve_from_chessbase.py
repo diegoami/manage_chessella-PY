@@ -68,6 +68,8 @@ def retrieve_games(fileLink):
     with open(fileLink, "r") as handle:
         lines = handle.readlines()
         for line in lines:
+            if (line.startswith('#')):
+                continue
             print("Processing %s" % line)
             try:
                 process_page(line.strip())

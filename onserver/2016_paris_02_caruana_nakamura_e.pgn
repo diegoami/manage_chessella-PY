@@ -1,0 +1,37 @@
+[Event "GCT Rapid Paris 2016"]
+[Site "Paris FRA"]
+[Date "2016.06.10"]
+[Round "9"]
+[White "Caruana, F."]
+[Black "Nakamura, Hi"]
+[Result "0-1"]
+[ECO "A14"]
+[WhiteElo "2804"]
+[BlackElo "2787"]
+[Annotator "Johannes Fischer"]
+[PlyCount "110"]
+[EventDate "2016.06.08"]
+[EventType "rapid"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 e6 4. O-O Be7 5. c4 O-O 6. b3 c5 7. e3 d4 8. exd4
+cxd4 9. d3 Nc6 10. Qe2 Nd7 11. Nbd2 e5 12. Ne4 Re8 13. a3 a5 14. Rb1 h6 15. g4
+Nf8 16. g5 hxg5 17. Nexg5 Bf5 18. c5 Ng6 19. b4 axb4 20. axb4 Qd7 21. Re1 {
+[#]The engines prefer Black in this position. After 21...b5 or 21...f6 Black
+is clearly better. But now Nakamura gradually loses control.} Bf8 $6 22. Qc2 b5
+23. Qb3 Ra6 24. h4 Bg4 25. Re4 Bf5 26. Re1 Bg4 27. Re4 Nd8 {Black does not
+want a draw through repetition.} 28. Bd2 Kh8 29. h5 Bxh5 30. Bh3 f5 31. Kg2
+Nf4+ 32. Bxf4 exf4 33. Rxf4 g6 34. Rxd4 {[#]Now White is a pawn up and clearly
+better.} Qb7 35. Qd5 Qxd5 36. Rxd5 Nc6 37. Nd4 Nxd4 38. Rxd4 Kg7 39. Rc1 Re7
+40. c6 Kf6 {[#]} 41. f4 ({Perhaps White was afraid to play against the bishops
+and shied away from} 41. c7 Rxc7 42. Rxc7 Kxg5 {but after} 43. Rb7 {White
+should be winning.}) 41... Rc7 42. Nh7+ ({Caruana had too little time to spot
+the devious win White had after} 42. Rd7 Rxd7 43. cxd7 Be7 44. Rc8 Rd6 45. Rh8
+Rxd7 {namely} 46. Rh7 {and Black is caught in a mating net.}) 42... Kg7 43.
+Rd7+ Rxd7 44. cxd7 Be7 45. Re1 $2 ({White is still better after} 45. Rc7 Bd8
+46. Rc8 {e.g.} Ra2+ 47. Kg3 Bb6 48. Ng5 Bf2+ 49. Kg2 Be3+ 50. Kh1 Ra1+ 51. Bf1
+Rxf1+ 52. Kh2 Bxf4+ 53. Kg2 Bxg5 54. Kxf1 {and White will soon be an exchange
+up and his passed d-pawn should guarantee the win.}) 45... Kf7 46. Ng5+ Bxg5
+47. fxg5 Rd6 48. Re5 Rxd7 49. Rxb5 Rxd3 50. Rb6 Bf3+ 51. Kh2 Be4 52. Bf1 Rd1
+53. Bc4+ Kg7 54. b5 $2 {[#]Misses Black's threat completely. After54.Kg3 the
+game should end in a draw.} f4 {Suddenly White gets mated.} 55. Kh3 Bf3 0-1
+

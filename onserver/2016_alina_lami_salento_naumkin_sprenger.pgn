@@ -1,0 +1,53 @@
+[Event "Salento Open"]
+[Site "?"]
+[Date "2016.05.30"]
+[Round "8"]
+[White "Naumkin, Igor"]
+[Black "Sprenger, Jan"]
+[Result "0-1"]
+[ECO "A88"]
+[WhiteElo "2431"]
+[BlackElo "2506"]
+[Annotator "Sprenger,Jan"]
+[SetUp "1"]
+[FEN "r3r3/1pq3bk/2pp1np1/5p1p/1PPNn2P/4P1P1/1B2RPB1/1R1Q2K1 b - - 0 29"]
+[PlyCount "27"]
+[EventDate "2016.??.??"]
+
+29... Qe7 {In the previous fifteen moves, both players moved around their
+pieces without making significant progress. The tension slowly built up and
+now White decides that it is time to drive away the black outpost on e4.} 30.
+Qe1 $6 {But this is wrong. Trapping the knight with f2-f3 is a threat, but the
+defense Nf6-d7-e5, attacking c4, is a good plan anyway. Moreover, the white
+major pieces are now placed on unnatural squares.} Nd7 31. b5 $2 {This goes
+too far: c4 is getting weak very soon.} Ne5 32. bxc6 bxc6 33. Qd1 Qf7 $17 {
+White is losing a pawn with questionable compensation. Therefore he decides to
+force matters and to sacrifice material.} 34. Rc2 Nxc4 35. Rxc4 $5 Qxc4 36.
+Nxf5 {Diagramm # Surprising, but very interesting. If Black had to take on f5
+or b2, White's decision would be fully justified. However, as often,
+counterattack is the best defense!} Nxf2 $1 {I invested 10 of my remaining 15
+minutes to check that this move is not just blundering away a piece. Although
+I could not fully calculate all lines, this tactical strike looked
+sufficiently promising.} (36... gxf5 $2 {is way too optimistic.} 37. Qxh5+ Kg8
+38. Bxg7 Kxg7 39. Rb7+ Kf6 40. g4 {Diagramm # During the game, I thought that
+White is just winning here. However, Black has a fantastic defense:} Qe6 $2 {
+Here, we found a funny line in the post-mortem:} (40... fxg4 $1 41. Qxg4 Qf1+
+$3 {If the engine recommends such a move, it is usually because it delays mate
+by one move. In this case, however, the apparently senseless queen sacrifice
+is the only way to put up resistance.} 42. Bxf1 (42. Kxf1 Ra1+ 43. Ke2 Ra2+ $11
+{Attempts to escape the perpetual run into the fork Nf2:+.}) 42... Rg8 $16) 41.
+f4 $5 (41. g5+ $1 {is actually mate in four:} Ke5 42. f4+ Kd5 43. Qd1+ Kc5 44.
+Qd4#) 41... fxg4 42. Bxe4 {The following moves of both sides are forced:} Ra1+
+43. Kh2 Qa2+ 44. Bg2 g3+ 45. Kh3 Rh1+ $2 (45... Qe6+ $1 $19) 46. Bxh1 Qh2+ 47.
+Kg4 Rg8+ {Diagramm #} 48. Qg5+ $3 Rxg5+ 49. hxg5+ Ke6 50. f5+ Ke5 51. Re7#) (
+36... Bxb2 $6 37. Rxb2 Ra7 38. Bxe4 Rxe4 39. Nxd6 Qa4 40. Qe2 {and White has
+reasonable practical compensation.}) 37. Kxf2 Qf7 {The point of the sacrifice
+on f2: f5 falls with check and there will be tactics against the white king.}
+38. Bxc6 $6 {Loses on the spot, but there was no satisfacatory defense.} (38.
+Bxg7 Qxf5+ 39. Kg1 Kxg7 40. Bxc6 Ra2 $1 41. Qd4+ Kh6 $19 {is the point of 35. .
+..Nf2:. White cannot take on e8 because of mate on the second rank.}) 38...
+Qxf5+ 39. Kg1 {Diagramm #} (39. Kg2 Ra2 40. Bxe8 Bxb2 {and discovery checks of
+the black bishop are going to decide the game.} 41. Qb3 Qxb1 42. Qf7+ Bg7+ $19)
+39... Rxe3 $1 {Now White suffers decisive material losses.} 40. Bxa8 Rxg3+ 41.
+Bg2 Qe4 42. Qf1 Rxg2+ (42... Rxg2+ 43. Qxg2 Qxb1+ 44. Kh2 Qxb2 $19) 0-1
+

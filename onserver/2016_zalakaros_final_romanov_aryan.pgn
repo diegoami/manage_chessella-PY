@@ -1,0 +1,41 @@
+[Event "Zalakaros Chess Festival Group A"]
+[Site "?"]
+[Date "2016.06.01"]
+[Round "6"]
+[White "Romanov, Evgeny"]
+[Black "Aryan, Chopra"]
+[Result "0-1"]
+[ECO "D43"]
+[WhiteElo "2641"]
+[BlackElo "2459"]
+[Annotator "Aryan"]
+[SetUp "1"]
+[FEN "r7/1p4bk/2bR1rpp/pNPBqp2/P3p3/8/1PQ2PPP/3R2K1 w - - 0 28"]
+[PlyCount "28"]
+[EventDate "2016.??.??"]
+[SourceDate "2010.06.24"]
+
+28. Nc7 $2 ({during the game, I was a little worried about} 28. Bxc6 bxc6 29.
+Nd4 Rc8 {is a position with play for both sides} ({engine's suggestion} 29...
+e3 {is also interesting} 30. Nxc6 Qe8 31. fxe3 Ra6 32. Rxf6 Bxf6 33. Nd4 Qxe3+
+34. Qf2 Bxd4 35. Rxd4 Qc1+ 36. Qf1 Qe3+ 37. Qf2 $11 {though it is too far from
+the game})) 28... Rc8 29. Ne6 (29. Bxc6 bxc6 30. Na6 f4 {[%csl Ra6] Black has
+the initiative}) 29... f4 $2 ({I had some time to think about} 29... Bxd5 $1
+30. R1xd5 Rxe6 31. Rxe5 {the move I actually missed was} Rxd6 ({I only saw} 
+31... Rxe5 $2 {which is just bad for Black}) 32. f4 $1 {is difficult to find} (
+32. Qb1 $2 Rd2 33. Re6 (33. Re7 $2 Rcd8 $19) 33... Rxc5 $19 {is winning for
+Black} (33... Rcd8 $4 34. Rd6 $11)) 32... Rd7 {Black is better. On the 29th
+move I thought that saving time for the upcoming moves was better and I did
+not consider Bxd5 much}) 30. Qb3 $2 (30. Bxc6 bxc6 31. Nxg7 Kxg7 32. Rd7+ Kh8 {
++/-/+/=}) 30... e3 $1 {I was thinking less and just pushing pawns} 31. Bxc6
+Rxc6 32. Rxc6 bxc6 33. Nxg7 e2 34. Re1 Kxg7 {White can only be worse here and
+should have avoided Black's f3 and gone for equality with 35.Qc2} 35. Qb7+ $2 (
+35. Qc2 Re6 36. Qd2 Qxc5 37. Qxf4 $11) 35... Rf7 $1 (35... Kg8 $2 36. Qa8+ Kg7
+37. Qxa5 Qxb2 {engine's evaluation is 0.00 but I would rather call this unclear
+}) 36. Qxc6 $4 (36. Qb3 {recognising the mistake and coming back was the best}
+Re7 {Black is better} (36... f3 37. gxf3 Qg5+ 38. Kh1 Qd2 39. Qc3+ Qxc3 40.
+bxc3 Rxf3 41. Rxe2 Rxc3 {Black is also better here})) 36... f3 $1 $19 {now its
+just losing for White} 37. Qd6 ({if} 37. gxf3 Qg5+ 38. Kh1 Qd2 39. Rg1 e1=Q 40.
+Qxg6+ Kf8 41. Qg8+ Ke7 {I saw until here while playing 35...Rf7!}) 37... Qg5
+38. Qd4+ Kh7 39. g3 Qf5 40. Qc4 Rd7 41. Qb3 Qd3 0-1
+

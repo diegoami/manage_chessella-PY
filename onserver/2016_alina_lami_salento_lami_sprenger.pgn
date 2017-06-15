@@ -1,0 +1,74 @@
+[Event "Salento Open"]
+[Site "?"]
+[Date "2016.05.22"]
+[Round "2"]
+[White "l'Ami, Alina"]
+[Black "Sprenger, Jan"]
+[Result "1-0"]
+[ECO "A88"]
+[WhiteElo "2359"]
+[BlackElo "2506"]
+[Annotator "Sprenger,Jan"]
+[PlyCount "131"]
+[EventDate "2016.??.??"]
+
+1. d4 f5 2. c4 $5 {Confronted with the surprising choice of the Dutch defense,
+which I had never played in a tournament game, Alina deviates from her usual 2.
+Nc3.} Nf6 3. g3 g6 4. Bg2 Bg7 5. Nc3 O-O 6. Nf3 d6 7. O-O c6 8. b3 Qa5 $5 {
+Not the main line, but an interesting move. White has to play precisely to
+maintain his initiative.} 9. Bb2 e5 10. dxe5 dxe5 11. e4 f4 12. Qd6 (12. Na4
+Re8 {ist the mainline and perhaps more testing.}) 12... Ne8 $1 {Looks a bit
+artifical, but it is important to disturb the white queen, which is strongly
+placed on d6.} 13. Qa3 Qc7 14. Ne2 Bg4 $5 {It looks a bit strange to give up
+the bishop pair, but on the other hand, Black increases his control over the
+black squares.} 15. h3 Bxf3 16. Bxf3 Na6 17. gxf4 $5 {The principled move.}
+exf4 18. Nd4 Qe5 19. Rab1 Qg5+ 20. Kh2 Nac7 21. Rg1 Qh4 22. Rg2 {Here I
+thought about an immediate attack on the white king, and indeed, it would have
+been interesting:} Rf7 {I was very tempted to force matters, but I could not
+find anything clear and with my opponent short of time, I considered it more
+promising to maintain the tension.} (22... Bxd4 $5 {Strategical suicide, but
+Black obtains some initiative.} 23. Bxd4 Ne6 24. Rd1 (24. Rg4 $2 {runs into}
+Nxd4 $1 25. Rxh4 Nxf3+) (24. Bc5 Rf7 25. Rg4 Qh5 {and Nf6 is coming.}) 24...
+Ng5 25. Bg4 Nf6 26. Bxf6 Rxf6 27. Rd7 {I assessed this position as favorable
+for White, but the computer is not impressed and considers the position better
+for Black after the quiet} (27. Qe7 $1 {keeps the balance.} Rf7 28. Rd8+ Rxd8
+29. Qxd8+ Kg7) 27... Re8 {The threat h7-h5 is quite annoying.}) 23. b4 $6 {
+Allows the Black queen to return to the center and weakens the white pawn
+structure.} Qe7 24. e5 $5 a5 $1 (24... Qxe5 25. b5 $44) (24... Bxe5 $2 {
+runs into a crushing exchange sacrifice:} 25. Re1 Qf6 26. Rxe5 $1 Qxe5 27. Nxc6
+$40) 25. e6 $2 {Tempting, but bad: the white weaknesses are more exposed after
+this pawn thrust.} Rf8 26. bxa5 {The emergency brake (White gives material to
+stop the Black initiative), but probably best.} Qxa3 27. Bxa3 Bxd4 28. Bxf8
+Kxf8 $17 29. Rxb7 Ra6 $6 (29... Rxa5 30. Bxc6 Rxa2 31. f3 $17 {did not look so
+clear to me, but it was perhaps the way to go.}) (29... Nxe6 30. Bxc6 Rxa5 31.
+Rb8 N6c7 32. f3 {and the a-pawn may become dangerous.}) 30. h4 $1 {White has
+to open the g-file for his rook. In the following moves, both sides are facing
+extremely difficult decisions about which pawns to swap/conquer. Serious
+commentary would probably require several days of analysis, so I will just
+move on to the decisive moment.} Ke7 31. h5 Kf6 32. Be4 $6 gxh5 33. Bxh7 Rxa5
+34. Be4 c5 $6 (34... Ra6 {was more accurate. After} 35. Rg6+ Ke5 {the white
+bishop is hanging and Black can finally capture e6.}) 35. Rg6+ $6 (35. f3 Kxe6
+36. Kh3 $17) 35... Ke5 36. Bc6 Ra6 $4 {I wanted to make a particularly
+intelligent move and played a particularly stupid one.} (36... Rxa2 $1 {
+was simple and good} 37. Bxe8 (37. e7 Rxf2+ 38. Kh3 Rf1 39. Rg8 f3 $19) 37...
+Nxe8 38. Rg8 Bxf2 $1 {and Black is giving checkmate, e.g.} 39. Rxe8 Bg3+ 40.
+Kg1 f3 41. Rb1 Rg2+ 42. Kf1 Rh2 $19) 37. e7 $1 {I simply missed that this pawn
+move defends the c6-bishop. Now Black has lost a crucial tempo.} Rxa2 38. Rg8
+Rxf2+ {Accompanied by a draw offer, hoping that my opponent would not yet
+realize in which danger Black was. But she did.} 39. Kh3 Kd6 $2 {The wrong
+square.} (39... Kf6 $1 40. Bxe8 Rf3+ 41. Kg2 Rf2+ 42. Kh3 Rf3+ {White cannot
+escape the perpetual, since} 43. Kh4 Bf2+ 44. Kxh5 Rh3+ 45. Kg4 Rg3+ {loses.})
+40. Bxe8 Rf3+ 41. Kh4 $1 {With the black king on d6, this is possible and
+strong.} Bf6+ 42. Kxh5 Bxe7 $2 (42... Re3 $16 {would still make things
+difficult for White.}) 43. Kg4 $3 {A brilliant idea, which I had missed
+completely. White wins the f4-pawn for free.} Rc3 (43... Rg3+ 44. Kxf4 Rxg8 45.
+Rb6#) 44. Kf5 Nxe8 45. Rxe8 Re3 46. Rg8 Kc6 47. Kxf4 Re1 48. Ra7 Bd6+ 49. Kf3
+Kb6 50. Ra2 Re6 51. Rag2 Rf6+ 52. Ke3 Be5 $2 {I saw that this would lose on
+the spot, but for some reason I played it nevertheless. It was clearly not my
+day.} (52... Re6+ 53. Kd3 Kc6 54. R8g6 Re1 {was the originally planned defense,
+which would at least prolong the struggle.}) 53. R8g6 Bd4+ 54. Ke4 $18 Rxg6 55.
+Rxg6+ Kc7 56. Kd5 Kd7 57. Rh6 Kc7 58. Rh7+ Kd8 59. Kc6 Kc8 60. Rf7 Kd8 61. Rf8+
+Ke7 62. Ra8 Be3 63. Ra7+ Ke8 64. Rd7 Bd4 65. Rd5 Ke7 66. Rxc5 {A strong
+technical display by White, whereas Black just collapsed after his blunder in
+move 36.} 1-0
+

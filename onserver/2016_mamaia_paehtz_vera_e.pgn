@@ -1,0 +1,63 @@
+[Event "17th EIWCC 2016"]
+[Site "Mamaia"]
+[Date "2016.06.07"]
+[Round "11"]
+[White "Paehtz, Elisabeth"]
+[Black "Vega Gutierrez, Sabrina"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "2489"]
+[BlackElo "2375"]
+[Annotator "AS"]
+[PlyCount "126"]
+[EventDate "2016.??.??"]
+[EventCountry "ROU"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+
+1. e4 c5 2. Nc3 (2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Na3 Nc6 7. Be3
+cxd4 8. Nb5 Qd8 9. Nbxd4 Nd5 10. Nxc6 bxc6 11. Bd4 f6 12. Bc4 Bd6 13. O-O O-O
+14. Re1 Qc7 15. Bb3 Rd8 16. Qe2 e5 17. c4 exd4 18. cxd5 c5 19. Rac1 Bg4 20. h3
+Bh5 21. g4 Re8 22. Qf1 Rxe1 23. Qxe1 Re8 24. Qf1 Bf7 25. Nxd4 Bh2+ 26. Kg2 Bf4
+27. Rc2 Qd6 28. Ne6 Bg6 29. Rxc5 Be4+ 30. f3 Rxe6 31. Rc8+ Kf7 32. dxe6+ {
+1-0 (32) Paehtz,E (2452)-Vega Gutierrez,S (2331) Heraklio 2007}) 2... Nc6 3.
+Bb5 Nd4 4. Bc4 a6 (4... e6 5. Nge2 Nf6 (5... a6)) 5. d3 e6 6. a4 Nf6 7. Bg5 {
+In contrast to the main lines White here waits with the development of the
+king's knight.} h6 8. Bh4 Qb6 (8... g5 9. Bg3 d5 10. Ba2 Bg7 11. Nge2 dxe4 12.
+dxe4 O-O 13. Be5 Nc6 {1/2-1/2 (13) Cooper,L (2348)-Williams, S (2391) West
+Bromwich 2002}) 9. Ra2 (9. Bb3 Nxb3 10. cxb3 d6 $11) 9... d5 10. a5 $6 (10.
+Bxf6 dxc4 11. Bh4 cxd3 12. Qxd3 $15) 10... Qc6 11. Bxf6 (11. Bb3 Nxb3 12. cxb3
+dxe4 13. Bxf6 gxf6 14. dxe4 (14. Nxe4 $2 f5 $19) 14... Bd7 $15) 11... dxc4 (
+11... gxf6 $2 12. exd5 $16) 12. Be5 (12. Bh4 cxd3 13. Qxd3 e5 $17) 12... f6 13.
+Bg3 cxd3 14. cxd3 e5 15. Qh5+ Kd8 $17 {[#] White forced Black to give up the
+right to castle - which is an achievement. However, the rook on a2 and the
+bishop on g3 look awkward and White has a number of weaknesses to cope with.}
+16. Nf3 Be6 17. b3 (17. Ra1 $2 Nc2+) (17. Ra4 Bb3 $19) 17... Qd7 (17... c4 $1 {
+with the idea} 18. bxc4 Bb4 19. Kd2 Bxc4 20. dxc4 Qxc4 {would have been pretty
+ugly for White.}) 18. h3 $2 (18. Nd5) 18... Bxb3 (18... c4 $1) 19. Rb2 Bf7 20.
+Qg4 Qc7 ({Stronger than} 20... Qxg4 21. hxg4 {z.B.:} Kc7 22. Nxd4 cxd4 23. Ne2)
+21. Nd2 Qxa5 $19 {[#]} 22. Nd5 h5 $2 {Black is two pawns up and controls the
+position but now she loses the thread. There was no reason to chase White's
+queen away from its bad position. Instead Black should have tried to finish
+her development.} (22... Qa3 $1 23. Nc4 Qa1+ 24. Qd1 Qxd1+ 25. Kxd1 Bxd5 26.
+exd5 b5 $19) 23. Qd1 Bxd5 24. exd5 Qc3 25. Qb1 b5 26. O-O Ne2+ 27. Kh1 Nxg3+
+28. fxg3 Qd4 29. Qa2 Rc8 (29... Qxd3 30. Rf3 Qd4 31. Rxb5 $11 {and White is
+back in the game.}) ({or} 29... b4 30. Qa5+ Ke8 31. Qa4+ Kf7 32. Qd7+ {with
+counterplay.}) 30. Qa5+ (30. Ra1 $5 Bd6 31. Qxa6 Qxd5 32. Qxb5 Ke7 $11) 30...
+Rc7 (30... Kd7 31. Nc4 bxc4 32. Rb7+ {and White mates soon.}) 31. Nc4 $2 ({
+The engine proposes} 31. Qxa6 $5 Qxb2 32. Ne4 {The two white pieces in 
+Black's camp are strong enough to keep the balance, if necessary by ging a
+perpetual.}) 31... Qxd5 (31... bxc4 $2 32. Rb8+ Kd7 33. Qa4+ Kd6 34. Rd8+ Rd7
+35. Rxd7#) 32. Qxa6 Qc6 (32... bxc4 33. dxc4 (33. Rb8+ Ke7 34. dxc4 Qd3 $19)
+33... Qd7 34. Rxf6 gxf6 35. Qxf6+ Ke8 36. Qxe5+ Kd8 37. Qf6+ Qe7 38. Rb8+ Rc8
+39. Qb6+ Qc7 40. Qf6+ Be7 41. Qxh8+ Kd7 42. Rxc8 Qxc8 43. Qxh5 $15) 33. Qxb5 (
+33. Qxc6 Rxc6 34. Rxb5 $11) 33... Qxb5 34. Rxb5 h4 $6 (34... Rd7 35. Rb8+ Ke7
+36. Nb2 Kf7 37. Rc1 Rg8 $17) 35. g4 $11 {Now the worst is over for White.} Rd7
+36. g5 Rxd3 37. gxf6 gxf6 38. Rxf6 e4 39. Rf7 {Threatening mate.} Ke8 40. Ra7 (
+40. Rf4 Rd4 41. Rb8+ $11) 40... Rd1+ 41. Kh2 Rh6 {The threat of ...Re6 and the
+advance of the e-pawn bring White in trouble again.} 42. Rb8+ Rd8 43. Rxd8+
+Kxd8 44. Rf7 Ke8 45. Rf4 Re6 46. Rf2 Bh6 47. g3 (47. g4 Kd7 48. Kg2 Kc6 $19)
+47... Kd7 48. Kg2 Kc6 49. Rf5 hxg3 50. Kxg3 e3 51. Re5 Rxe5 52. Nxe5+ Kd5 53.
+Nd3 c4 54. Ne1 Ke4 55. h4 Bg7 56. h5 Bc3 57. Nf3 Kd3 58. h6 Bh8 59. Kg2 c3 60.
+Kf1 Bf6 61. h7 Bh8 62. Ng1 c2 63. Ne2 Kd2 0-1
+

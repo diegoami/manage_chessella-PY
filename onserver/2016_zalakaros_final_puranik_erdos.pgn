@@ -1,0 +1,53 @@
+[Event "Zalakaros Chess Festival Group A"]
+[Site "?"]
+[Date "2016.05.29"]
+[Round "3"]
+[White "Aryan, Chopra"]
+[Black "Erdos, Viktor"]
+[Result "1-0"]
+[ECO "C96"]
+[WhiteElo "2459"]
+[BlackElo "2577"]
+[Annotator "Aryan"]
+[SetUp "1"]
+[FEN "2rq2k1/3n1pbp/p2p2p1/np1P4/3N4/1P5P/PBBQ1PP1/R5K1 b - - 0 24"]
+[PlyCount "86"]
+[EventDate "2016.??.??"]
+[SourceDate "2010.06.24"]
+
+24... Qb6 $2 ({during the game, I was mainly thinking about} 24... Rc5 25. Be4
+Nf6 26. Bf3 ({the engine suggests} 26. Qe1 Nxe4 27. Qxe4 {and White is better})
+26... Nxd5 27. Rd1 {but White still has the initiative}) 25. Bf5 $1 (25. Re1 {
+is also better for White but 25.Bf5 is even better}) 25... Rd8 26. Bxd7 Rxd7
+27. Re1 $18 Qd8 ({if} 27... Rd8 {I would have played} 28. Nf5 Bxb2 29. Ne7+ Kg7
+30. Qxb2+ f6 31. Nf5+ {White is winning}) 28. Bc3 $6 ({I also thought the
+engine's suggestion} 28. Re4 h6 29. Qe3 Kh7 30. Re8 Qb6 {I did not see much
+for White, but} 31. Qd2 {with the idea of Nf5 is just winning}) 28... Nb7 29.
+Nc6 Qf8 30. Bxg7 Kxg7 31. Qc3+ f6 32. Nd4 Nd8 33. Qc8 Re7 {a little trick} 34.
+Rc1 ({if} 34. Rxe7+ $2 Qxe7 35. Qxd8 $2 (35. Kf1 {White is still better}) 35...
+Qe1+ 36. Kh2 Qe5+ $11) 34... Qe8 35. Kf1 Kh6 36. Nc6 $2 {a very wrong decision
+in time pressure} (36. Qxa6 $18 {Black's pawns are falling}) 36... Nxc6 37.
+Qxe8 Rxe8 38. Rxc6 {now I am not even sure that the endgame is winning} Kg5 39.
+Rxa6 Kf5 40. Rxd6 Ra8 41. Rb6 Rxa2 42. Kg1 {I thought it was good to take the
+king to a non-checkable distance but it was not important} (42. Rxb5 {was much
+better}) 42... Ra5 43. b4 Ra1+ 44. Kh2 Rd1 45. Rxb5 Ke5 46. Kg3 Rd3+ 47. f3 Rd4
+48. h4 ({after} 48. Rb7 {Komodo 10 suggest the variation} g5 $1 49. Re7+ Kf5
+50. Kf2 $1 Rxd5 51. Ke3 {[%emt 0:00:30] White has surely made improvement by
+giving a pawn. +1.10 at Depth}) 48... h6 49. Kh3 g5 50. hxg5 $6 {this lessens
+a weakness to exploit for White} (50. g3 $1 {h6 is still a weakness}) 50...
+hxg5 51. Kg3 Rd2 52. Rc5 Rd4 (52... Rb2 53. Rb5 Rd2 {is the same as the game})
+53. Rb5 Rd2 54. Kh3 Rd4 55. g3 Rd3 $2 (55... f5 {was better} 56. d6+ Kf6 57.
+Rb6 Ke6 {and Black can probably hold}) (55... Kf5 56. d6+ Ke6 57. Rb6 f5 {
+is the same as the variation in 55...f5}) 56. Kg4 $2 (56. d6+ $1 {was winning
+according to the engine} Kxd6 (56... Ke6 57. Kg4 Rxd6 58. f4) 57. Kg4 {[%cal
+Gf3f4]}) 56... f5+ $1 57. Kxg5 Rxf3 58. Kh4 Rd3 59. d6+ Ke6 60. Rb6 Rd4+ 61.
+Kh3 Rd2 62. b5 Rd3 $2 (62... Rb2 $1 {White has to give a pawn} 63. Rb8 (63. Kh4
+Rb4+ 64. Kh5 Rb3) 63... Kxd6 {is a tablebase draw. For eg.} 64. b6 Rb1 65. b7
+Kc6 66. Kh4 Rh1+ 67. Kg5 Rg1 $11) 63. Kg2 $2 (63. d7+ $1 {is winning for White}
+Kxd7 (63... Ke7 64. Kg2 {is even easier win for White}) 64. Rf6 Rd5 65. b6 {
+is a tablebase win (White mates in 51). Though it is not easy when humans are
+playing}) 63... Rb3 64. Rb8 Kxd6 {its a tablebase draw now!} 65. b6 Kc6 66. Rf8
+{after this move, Black had around 40 seconds on clock} Kxb6 $4 (66... Kd6 $3 {
+draws with surprise} 67. Rxf5 (67. Rb8 Kc6 $11) 67... Ke7 $1 68. Kh3 Rxb6 69.
+Kh4 Rb8 70. g4 Rh8+ 71. Rh5 Rg8 $11) 67. Rb8+ 1-0
+

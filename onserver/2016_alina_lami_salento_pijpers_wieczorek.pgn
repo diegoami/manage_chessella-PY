@@ -1,0 +1,81 @@
+[Event "Salento"]
+[Site "?"]
+[Date "2016.05.23"]
+[Round "4"]
+[White "Pijpers, Arthur"]
+[Black "Wieczorek, Oskar"]
+[Result "0-1"]
+[ECO "B60"]
+[WhiteElo "2471"]
+[BlackElo "2432"]
+[Annotator "Arthur Pijpers"]
+[PlyCount "80"]
+[EventDate "2016.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Qb6 $6 {This is an
+inaccurate move order.} ({A better way to reach the position Oskar had in mind
+is} 6... e6 7. Qd2 Qb6 8. Bxf6 (8. O-O-O $5 {is an alternative known from the
+game Kasparov-Mchedlishvili}) 8... gxf6 9. Nb3 {.}) 7. Nb3 e6 8. Bf4 $1 Ne5 9.
+Be3 Qc7 10. f4 Nc6 {In this position, and not counting the usual Qb6-c7 to
+kick the knight back to b3, both sides have lost two tempi: Bc1-g5-f4-e3 and
+Nc6-e5-c6. But from a normal move order White will never be able to get this
+position, because 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 Nf6 6. Nc3
+e6 7. Be3 Qc7 8. f4 is met not by 8...d6 (leading to this exact position) but
+by 8...Bb4!.} ({The knight is forced to go back because} 10... Nc4 $2 {fails to
+} 11. Nb5 Qc6 12. Bxc4 Qxc4 13. Qd3 {with a big advantage for white.}) 11. g4 {
+The kingside assault starts. I think White is clearly better, but of course in
+these Sicilians anything can still happen.} a6 12. g5 Nd7 13. Qf3 b5 14. O-O-O
+(14. a3 {was a possible alternative to stop ...b4.}) 14... b4 {Now I have to
+make a difficult choice. The simple Ne2 is perfectly fine of course, but I
+decided to play the more ambitious Na4. The knight is more useful there, but
+it is also almost trapped.} 15. Na4 $5 Bb7 16. Kb1 $6 {A lazy move.} ({
+Stronger was} 16. Qf2 $1 {, immediately attacking the b6-square.}) 16... Ne7 {
+Making way for the bishop to go to c6 and trap my knight.} 17. Nd4 ({Another
+very interesting option that we both saw during the game was} 17. Rd4 $5 {
+, e.g.} d5 18. Rxb4 dxe4 19. Qf2 Bd5 {with a very unclear position.}) 17... Qa5
+$6 {A very logical way to play, and it is hard to blame Oskar for missing my
+idea.} ({Best was probably} 17... Nf5 {.}) ({After the immediate} 17... Nc5 $2
+{I had planned a nice trick:} 18. Nxc5 dxc5 19. Bb5+ $1) 18. b3 Nc5 19. Nxc5
+dxc5 {Now if I have to retreat to e2 the position should be alright for Black.
+But that was definitely not my intention!} 20. Nxe6 $3 {When your opponent
+neglects his development you should always be looking for opportunities to
+blast open the centre!} fxe6 21. Bc4 Qb6 {Almost forced, because otherwise I
+will pick up e6 with two pawns and an ongoing attack for the piece. Now I must
+decide between Qg4 and Qh3. It turns out both moves are good.} 22. Qh3 ({
+I rejected} 22. Qg4 {because of} Bc8 {, but even here I can get a big
+advantage with the really neat} ({if Black continues as in the game the queen
+will be better placed on g4 than h3:} 22... Bxe4 23. Bxe6 Bxh1 24. Bd7+ Kf7 25.
+Bxc5 Qg6 26. f5 {and White wins immediately because g5 is protected}) 23. f5
+exf5 24. Qg3 $1) 22... Bxe4 $5 {A very brave decision. But the alternatives
+were clearly bad for Black and Oskar couldn't see a refutation of this pawn
+grab, so he went for it. Of course the computer engines will easily find a win
+for White, but in the game I did not manage to do so.} ({The idea behind Qh3
+was to meet} 22... Bc8 {with} 23. g6 $1 Nxg6 24. Qh5 {, winning.}) 23. Bxe6
+Bxh1 24. Bd7+ ({The main alternative was} 24. Bxc5 {, but after} Qxc5 25. Bd7+
+Kd8 26. Bc6+ Kc7 27. Qd7+ Kb6 {there is no mate, e.g.} 28. Qb7+ Ka5 29. Qc7+
+Qb6 30. Qe5+ Nd5 31. Bxd5 Bd6) 24... Kf7 ({Now the king has to move the other
+way, because} 24... Kd8 {loses to} 25. Bc6+ Kc7 26. Qd7+ Kb8 27. f5 {.}) 25.
+Bxc5 $6 ({Very strong would have been} 25. Rxh1 $1 {and there is no reasonable
+way to stop Bxc5.}) 25... Qg6 26. f5 Qxg5 27. Be6+ Ke8 28. Bd7+ Kf7 29. Be6+ (
+29. Rxh1 $5 {is still a better try for an advantage, but it is already far
+less clear than four moves ago.}) 29... Ke8 30. Qd3 {Threatening mate. Black
+has three ways to prevent it, and only one of them saves the game.} Bc6 $2 ({
+The correct way to defend was} 30... Nd5 $1 {. During the game I saw that I
+had at least a perpetual after} 31. Bxd5 Bxc5 32. Bxa8 Bxa8 33. Qd7+ Kf8 34.
+Qc8+ Kf7 35. Qe6+ Kf8 {and it turns out I have no more than that.}) (30... Bd5
+$2 31. Bxd5 Rd8 {leaves White with several ways to win, for example} 32. Qe2 {.
+}) 31. Bb6 $1 {Now the position is completely winning for White. But the
+insane complications throughout the whole game cost both of us a lot of
+thinking time and here we were almost down to increment, which caused many
+mistakes in the final part of the game.} Nxf5 32. Bd7+ $6 (32. Qc4 $1 {would
+have been immediately decisive.}) 32... Kf7 33. Bxc6 $6 ({Here I realised that
+} 33. Qc4+ $1 {no longer leads to mate on e6 because the f5-pawn is gone, but
+it shouldn't have been too difficult to see} Kg6 34. Qxc6+ {, just picking up
+material and winning.}) 33... Rb8 $6 34. Qd5+ Kf6 35. Ba7 $6 (35. Re1 $1) 35...
+Bd6 $6 (35... Qf4 $1) 36. Bxb8 $4 {With just seconds left I panic and decide
+to take material.} ({The position was still winning, for example with} 36. Bd4+
+Ke7 37. Re1+ Kd8 38. Qf7 Be7 39. Qe6) 36... Bxb8 {And with the bishop pair
+gone I no longer have enough pieces for a successful attack.} 37. Re1 g6 38.
+Qd7 Qf4 39. Qe6+ Kg7 40. Be8 Rf8 {The time control has been made and I'm just
+a piece down, so I resigned. A crazy game!} 0-1
+

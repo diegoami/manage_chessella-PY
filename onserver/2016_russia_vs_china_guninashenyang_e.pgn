@@ -1,0 +1,42 @@
+[Event "Russia-China Match Women"]
+[Site "Moscow RUS"]
+[Date "2016.06.15"]
+[Round "5.2"]
+[White "Gunina, Valentina"]
+[Black "Shen, Yang"]
+[Result "0-1"]
+[ECO "D94"]
+[WhiteElo "2518"]
+[BlackElo "2472"]
+[Annotator "Johannes Fischer"]
+[PlyCount "110"]
+[EventDate "2016.06.11"]
+[WhiteTeam "RUS"]
+[BlackTeam "CHN"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 g6 5. Nc3 Bg7 6. Bd3 O-O 7. h3 c5 8. O-O
+dxc4 9. Bxc4 Nbd7 10. Qe2 cxd4 11. exd4 Nb6 12. Bb3 Nbd5 13. Bg5 h6 14. Bxf6
+Nxc3 15. bxc3 Bxf6 16. Rfe1 Kg7 17. Ne5 Qc7 18. Qf3 Bd7 19. Qg3 Bf5 20. Rac1
+Rad8 21. h4 h5 22. Qf4 Qd6 23. Re3 Bxe5 24. Rxe5 Qf6 25. Rce1 {[#]} Be6 $2 {
+Now Black loses a pawn.} (25... e6 {After} 26. Rc5 Rfe8 {the position is
+roughly equal - White has the better pieces but Black has the better structure.
+}) 26. Qg3 Bxb3 27. axb3 e6 28. Rxh5 Rh8 29. Rxh8 Rxh8 30. Re4 Qf5 31. Qe3 b5
+32. b4 a6 33. g3 Rc8 34. Rf4 Qd5 35. Kh2 Ra8 36. Rg4 $6 {White maneuvers her
+rook into a precarious position. Safer was} (36. Re4) 36... f5 37. Rg5 Rh8 38.
+Qf4 Kf6 39. Kg1 Kf7 40. Kh2 Kf6 41. Rg4 Rg8 42. Qg5+ Kf7 43. Rf4 Qc6 {[#]This
+gives White a chance to liberate her rook. Safer was} (43... Rh8) 44. d5 $1
+Qxd5 ({After} 44... exd5 {White opens the position with} 45. h5 {and keeps a
+clear advantage.}) 45. Rd4 Qc6 46. Qd2 Re8 47. Rd6 Qf3 48. Rxa6 Rd8 49. Ra7+
+Ke8 50. Qa2 Kf8 {[#]} 51. Rc7 $2 {White is a pawn up but as both kings are in
+danger it is not easy to win the position with White. However, the engines
+quickly discover a tactical trick to neutralize Black's attack and reach a
+better endgame:} (51. Rh7 $1 {On first sight this looks like a blunder because
+of} Rd1 {threatening mate. But White saves herself with} 52. Qa8+ $1 Qxa8 53.
+Rh8+ Kg7 54. Rxa8 {with good winning chances.}) 51... f4 52. g4 $2 {White
+panicks.} ({It was still not too late for} 52. Rh7 {e.g.} Rd3 53. Qa8+ Qxa8 54.
+Rh8+ Kg7 55. Rxa8 Rxc3 56. Rb8 Rc2 {with good winning chances for White.})
+52... Qxg4 {Suddenly White is totally lost. The h-pawn is hanging and Black
+threatens ...f3 or ...Rd3.} 53. Qa7 Qxh4+ 54. Kg2 f3+ 55. Kxf3 Rd3+ {White
+resigned. A bitter loss for Valentina Gunina and a lucky win for Shen Yang.}
+0-1
+
