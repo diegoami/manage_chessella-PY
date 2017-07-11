@@ -1,0 +1,99 @@
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.10"]
+[Round "5.3"]
+[White "Eljanov, Pavel"]
+[Black "Grischuk, Alexander"]
+[Result "0-1"]
+[ECO "A29"]
+[WhiteElo "2739"]
+[BlackElo "2761"]
+[Annotator "Mekhitarian, Krikor"]
+[PlyCount "76"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+1. c4 (1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 {You will soon understand why I am
+showing this variation...} Nc6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O 8. Bb3 d6 9. h3
+Na5 10. O-O b6 11. Re1 Bb7 12. Bg5) 1... Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 d5 5.
+cxd5 Nxd5 6. Bg2 Bc5 $5 {It's amazing how Grischuk constantly comes up with new
+ideas. This move has been played many times already, but the strongest player
+who tried it was 2200, after which it mostly happened in beginner games. There
+were some recent correspondence games, which Grischuk probably used to find it.
+He is trying to play the usual Bc4 line that White plays against the
+Accelerated Dragon (with reversed colors)} 7. O-O (7. Nxe5 {would be something
+to consider, but it turns out to be harmless} Nxc3 8. bxc3 (8. Bxc6+ bxc6
+{Black has decent compensation in both cases (dxc3 or bxc3)} 9. dxc3 (9. bxc3
+Qd5 10. Nf3 Bh3 $44) 9... Qe7 $5 $44) (8. Nxc6 $4 Qf6 $1 {hitting the queen and
+mate in f2} 9. dxc3 Qxf2+ 10. Kd2 Qxg2 $19) 8... Nxe5 (8... Bxf2+ $2 {this kind
+of move is known to be a mistake, because the king is safely placed, while
+White in the meantime has a strong center and the bishop pair} 9. Kxf2 Nxe5 10.
+Rf1 $16 {followed by Kg1, and d4-e4}) 9. d4 Bd6 10. dxe5 Bxe5 $11 {and Black is
+very happy with the better structure. Soon c6 will be played, and the g2 bishop
+will be neutralized}) 7... O-O 8. d3 (8. Nxd5 {was played in correspondence
+chess, a couple of years ago} Qxd5 9. Ng5 Qc4 $5 {was the original move played}
+(9... Qd8 {is acceptable, but runs into} 10. Nxh7 $5 Re8 {threatening to move
+the c5-bishop} (10... Kxh7 $2 11. Qc2+ Kg8 12. Qxc5 $16) 11. Ng5 (11. h4 $5 f6
+12. Qc2 $13 {followed by Qg6, the position remains very unclear (and weird!)})
+11... Qxg5 12. d4 (12. Bxc6 $5 bxc6 13. d4 Qh5 14. dxc5 Bg4 $44 {should be well
+compensated for Black}) 12... Qh5 13. dxc5 Rd8 14. Bd2 Nd4 $36) 10. b3 Qg4 11.
+Qc2 {White has to do this, otherwise Black is simply fine} Bxf2+ 12. Rxf2 Qxg5
+13. Bxc6 bxc6 14. Qxc6 Bh3 15. d3 Qe7 16. Be3 Rfc8 17. Qe4 f6 $13 {again with
+original play, that should be balanced: 1/2-1/2 (30) Golubenko,A
+(2198)-Zakharov,Y (2229) ICCF 2015}) (8. Nxe5 {runs into the same theme} Nxc3
+9. bxc3 (9. Nxc6 $2 Nxd1 10. Nxd8 Bxf2+ 11. Kh1 Bg4 $1 $17) 9... Nxe5 10. d4
+Bd6 11. dxe5 Bxe5 $11 {and Black should be happy after c6}) 8... Bb6 9. Na4
+{similar to the Accelerated Dragon, White gets the bishop pair (there are many
+lines where Black plays Na5). In the other hand, Black obtains very good
+central control} Re8 10. Bg5 (10. b3 {would be similar to how Black plays the
+Accelerated Dragon (Na5, followed by b6, Bb7). Good news for Black is that
+there was no need to lose a tempo with h6 (h3), since the bishop is still on c8
+(please read the analysis before the 1st move!), and the bishop also went
+directly to g4, without 'stopping' at e6, as it happens in the dragon.} Bg4 11.
+Bb2 Qd7 {followed by Rad8, and Black is totally fine} (11... Nd4 $5 12. Nxb6
+axb6 13. Nxd4 exd4 14. Re1 c5 15. Qd2 Qd7 $11 {and there is nothing to complain
+about in Black's position})) 10... Qd6 11. Nd2 Qg6 $1 { the queen finds and
+excellen square here} 12. Ne4 (12. Bxd5 $5 {was possibly better than the game}
+Qxg5 13. Rc1 Bh3 (13... Ne7 {more solid} 14. Bg2 c6 { threatening Bc7 at some
+point} 15. Nxb6 axb6 16. a4 {to stop b5} Nd5 17. Nc4 Qd8 $11 {with balanced
+play}) 14. Re1 Rad8 (14... Ba5 $5) 15. Bxc6 bxc6 { with interesting play})
+12... Bg4 $1 (12... f5 {there is no need to play this} 13. Nec5 Qxg5 14. Bxd5+
+Kh8 15. Rc1 $13 {I like Grischuk's decision better, to bring Be6 and Rad8
+quickly (he played Bg4 first to provoke h3)}) (12... Be6 $5 {also perfectly
+fine, but Bg4 should be an improved version, h3 may be a weakness in some
+variations}) 13. h3 Be6 14. Bd2 Rad8 $15 {now Black is already to be preferred
+- everything is harmonious, f5 is coming and he has Bc8 whenever a knight
+arrives on c5} 15. Kh2 Kh8 16. a3 f5 $1 17. Nec5 Bc8 { all of Grischuk's forces
+are heading towards the center - e4 is unstoppable, unless White himself plays
+it, which was a way that Eljanov could try and complicate matters.} 18. b4 (18.
+e4 Nf6 $1 (18... fxe4 {is the solid way to deal with this} 19. Bxe4 Qf7 $15
+{and moves like Nd4 are coming, Black is doing fine}) 19. exf5 Bxf5 $1 (19...
+Qxf5 $5 $15) 20. Nxb7 (20. Nxb6 axb6 21. Nxb7 Rd5 $3 {defending the c6 knight
+very creatively} 22. Bxd5 Nxd5 {Black wants to pick up the knight with Bc8} 23.
+Qf3 {forced} Nd4 $3 24. Qxd5 Qh5 25. h4 Be6 $1 26. Qg2 Nf3+ 27. Kh1 Nxd2 28.
+Rfe1 Nf3 29. Re3 Bd5 $19) 20... Rxd3 21. Nxb6 Bxh3 $3 {an amazing move,
+instantly spotted by the computer. The idea is to distract the bishop and
+maintain a strong initiative, with two pawns for the piece. I think it is
+almost impossible for a human to find all these moves, specially considering
+White remains with the pure bishop pair} 22. Bxh3 axb6 $17 {threatening Nd4}
+23. Rc1 Nd4 24. Rc3 Nf3+ 25. Qxf3 Rxf3 26. Rxf3 Qh5 27. Kg2 Qf7 $1 $19
+{followed by Qd5}) 18... e4 $1 19. e3 $2 (19. dxe4 $1 fxe4 20. Qb1 (20. Qc2 {a
+very ugly move to make (allowing Nd4), but that is the computer's suggestion}
+Nd4 (20... Qh5 $5 21. Nxb6 Nd4 $36 {looks ugly for White }) 21. Qc4 e3 22. Bc1
+$13 {and miraculously White is ok, according to the computer}) 20... Nd4 21.
+Bxe4 $2 (21. Nxe4 Bf5 $17) 21... Qh5 $19) 19... Bxc5 $1 {Eljanov's position
+simply collapses now, b6 and Ba6 are coming} (19... exd3 $2 20. Nxb6 axb6 21.
+Nxd3 $14 {and White is even slightly better}) 20. Nxc5 b6 21. Nb3 Ba6 $19 22.
+Nc1 Ne5 {now it's all over, Black starts picking up material and has a dominant
+position} 23. Qa4 Bxd3 24. Nxd3 Nxd3 25. b5 (25. Qxa7 $2 Ra8 26. Qb7 Qe6 27. b5
+Ne5 $1 $19 {and White should resign}) 25... h5 26. Qc2 Qd6 (26... h4 $1 27.
+gxh4 Qf6 {with a devastating attack, but Grischuk wanted to keep it simple})
+27. h4 Qe5 28. Kg1 Re6 29. a4 Kh7 30. Ra3 Rdd6 31. a5 c5 {starting serious
+action on the queen-side, where Black keeps all the advantages as well} 32.
+bxc6 Rxc6 33. Qd1 Nf6 $1 {a good moment to remove the knight, not only to
+defend h5, but also because Bc3 is not possible anymore} 34. axb6 axb6 35. Qb1
+Red6 {the problem is that White can never activate his bishops, not to mention
+the material disadvantage} 36. Rb3 Ng4 37. Bb4 Rd5 38. Be1 Rc1 {And White
+resigned. A very convincing game from Alexander Grischuk, who joins Radjabov in
+the lead with 3.5/5! On the 12th of July, they both have White - against
+Aronian and Harikrishna, respectively. A lot of action yet to come in the final
+four rounds, stay tuned!} 0-1

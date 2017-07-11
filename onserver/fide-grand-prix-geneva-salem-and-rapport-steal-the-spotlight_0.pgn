@@ -1,0 +1,104 @@
+[Event "FIDE Geneva Grand Prix 2017"]
+[Site "Geneva"]
+[Date "2017.07.09"]
+[Round "4"]
+[White "Salem, A R Saleh"]
+[Black "Rapport, Richard"]
+[Result "1-0"]
+[ECO "B28"]
+[WhiteElo "2638"]
+[BlackElo "2694"]
+[Annotator "Alexandr Fier"]
+[PlyCount "80"]
+[EventDate "2017.??.??"]
+[EventType "swiss"]
+[EventCountry "SUI"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+{This was a game that I was betting would be interesting. Both players are
+sharp and creative.} 1. e4  c5  2. Nf3  a6 {8 Probably a small surprise, but it
+didn't take Salem long to answer.} 3. c4  Nc6  4. d4  cxd4  5. Nxd4  e5  6. Nf5
+{240 The quickest route to d5. In a normal Sveshnikov the knight would to via
+b5-a3-c2-e3-d5. This way White wins two tempi. However, since White is already
+commited with c4, Black's position is playable.} d6  7. Nc3  g6  8. Ne3  Bh6
+{23 An exotic move, but logical. In this kind of position Black typically plays
+Be7-g5 trying to exchange this bishop for a strong White piece.} (8... Bg7 {is
+the most played move and White can answer with different setups. In a recent
+game he went for:} 9. Bd3 Nf6 10. Ned5 Nxd5 11. Nxd5 {Reaching a Kalashnikov
+type of position. This may be slightly improved for White, but I don't think
+there is a big difference.} O-O 12. Be3 Be6 13. Qd2 Rc8 14. O-O Ne7 $6 (14...
+f5 15. f3 Bxd5 16. cxd5 Nd4 {would be the normal answer and it's better than
+the game's continuation.}) 15. Rac1 Bxd5 16. cxd5 $16 { 1-0 (57) Bracker,F
+(2427)-Sousa,H (2174) Fornebu 2016}) 9. g3 {652 A very natural novelty. The
+bishop on g2 is not in the way of White's pieces and also protects the e4-pawn,
+so the c3-knight can jump to d5 at some point. It is a novelty in this exact
+position, since 8...Bh6 is not the main move, but it's a reasonable plan in a
+basic position with this structure.} (9. Bd3 {again is possible and played.}
+Be6 10. O-O Nge7 11. b3 O-O 12. Bb2 Rb8 13. Qe1 {exotic.} (13. Ncd5 b5 14. Kh1
+{would probably be my choice.}) 13... Nd4 14. Ne2 Nec6 15. Nxd4 Nxd4 16. Rd1 b5
+{with a complex middlegame, as seen in ½-½ (43) Sanchez Enriquez,O
+(2374)-Bogner,S (2603) Barcelona 2014}) 9... Nf6  10. Bg2  O-O  11. O-O  b5 $5
+{1066 It's not really a sacrifice, since White can't take the pawn without
+suffering serious consequences. Without the inclusion of 11... Rb8, Black's
+position has more flexibility and Salem is right in trying to create immediate
+counterplay.} 12. f4 $1 {694 A nice move, the position gets chaotic just one
+move after both players manage to castle!} (12. cxb5 axb5 13. Nxb5 Ba6 {is the
+point of Black's play, and even if White doesn't give up the exchange, the
+position is fine.} 14. Qb3 (14. Nxd6 Bxf1 15. Bxf1 Nd4 {is not enough for the
+exchange.}) 14... Rb8 15. a4 Nd4 {with a pleasant position.}) 12... exf4 {748
+Opening the position is dangerous, White's pieces are better placed than
+Black's.} (12... Bg7 {is a strange suggestion. If the idea had been to play
+Bg7, then why not just go there at once? But it is playable anyway and quite
+interesting.} 13. f5 Nd4 14. Ned5 Nxd5 15. Nxd5 gxf5 16. Qh5 f4 17. gxf4 bxc4
+18. fxe5 dxe5 {with a different complex middlegame. Both players have problems
+to resolve, but I think I would be more comfortable with White.}) 13. gxf4  Bb7
+ 14. e5 $1  (14. cxb5 {is also possible, but not in the spirit of the
+position.} axb5 15. Nxb5 Ba6 16. e5 Bxb5 17. exf6 Re8 (17... Bxf1 { is
+tempting, but the bishop is more important than the rook for the moment.} 18.
+Kxf1 Qxf6 (18... Rc8 19. Ng4 $18) 19. Bxc6 {with a clear advantage.}) 18. Rf2
+Ra4 19. Ng4 Bf8 20. Be3 Nb4 {with the usual chaos, with chances for both sides.
+}) 14... dxe5  15. fxe5  Nd7  (15... Qb6 {is probably the way to handle the
+position} 16. exf6 Bxe3+ 17. Bxe3 Qxe3+ 18. Rf2 {since Black's queen will have
+to leave the diagonal after 19.Nd5, the king is better placed on g1.} (18. Kh1
+Rad8 19. Nd5 Qg5 {looks ok for Black according to the computer.}) 18... Rad8
+19. Nd5 Qg5 (19... Qc5 20. Qd2 {looks dangerous.}) 20. Qc1 Qh4 21. Qf4 Qxf4 22.
+Rxf4 {and Black still has problems to solve.}) 16. Ng4  Bxc1  (16... Bg7 {could
+be playable, but Black can't keep the bishop} 17. Nh6+ Bxh6 18. Bxh6 Ndxe5 19.
+Bxf8 Qxf8 20. cxb5 axb5 21. Ne4 {with an initiative.}) 17. Rxc1  Ncxe5 {79
+Rapport sacrifices a piece to create some counterplay, but it's not enough.}
+(17... Qb6+ {now it's too late for it} 18. c5 $1 Qxc5+ 19. Kh1 Ndxe5 20. Nd5
+Qa7 21. Ndf6+ $1 (21. Rxc6 {is less clear, and too materialistic} Nxg4 (21...
+Nxc6 22. Ndf6+ Kh8 23. Qd2 $18) 22. Qxg4 Bxc6 23. Nf6+ Kg7 24. Bxc6 Rad8 25.
+Qh3 h6 26. Nd7 Rxd7 (26... Rfe8 27. Qc3+) 27. Qxd7 Qxd7 28. Bxd7 Rd8 { and
+White will have to work for a long time to win this endgame.}) 21... Kh8 (21...
+Kg7 22. Qd2 Nxg4 23. Nxg4 {wins}) 22. Rc3 {Black's pieces are just too far to
+defend the king} Rg8 23. Rh3 Rg7 24. Qd6 $1 {the most precise} Nxg4 25. Nxh7
+Rxh7 26. Rxh7+ Kxh7 27. Rxf7+ Kh8 28. Qxg6 Nf2+ 29. Rxf2 Qxf2 30. Qh6+ Kg8 31.
+Bd5+ $18) 18. Nxe5  Bxg2  19. Nxd7  Bxf1  20. Kxf1  Qh4  (20... Qg5 {keeping an
+eye on the c1-rook, but White will give one of the knights anyway} 21. Nxf8 Rd8
+22. Nd7 Rxd7 23. Qxd7 Qxc1+ 24. Qd1 (24. Ke2 Qxb2+ 25. Qd2 {is also possible})
+24... Qf4+ (24... Qxb2 25. Qd8+ Kg7 26. Qd4+ Kg8 27. c5) 25. Kg2 bxc4 {and
+White doesn't have a majority on the queenside, but still has good chances to
+convert the point.}) (20... Re8 21. Qd4 Re6 22. Ne4 Rxe4 23. Qxe4 {is the
+point: the rook on a8 is hanging.}) 21. Nxf8  Qxh2 {76 The counterplay and the
+checks are enough to get one of the knights back, no more than it.} (21... Rxf8
+22. Rc2 Qxc4+ 23. Re2 {is also better for White.}) 22. Nd7  Qh3+  (22... Qf4+
+{doesn't change much} 23. Kg2 (23. Ke1 {is funny but less precise} Re8+ 24. Ne2
+Qg3+ 25. Kd2 Qe3+ 26. Kc2 Qf2 27. Nf6+ Qxf6 28. Kb1 Qf5+ 29. Ka1 {it's not
+everyday you see a king running from g1 to a1, but here Black can still create
+a lot of headaches.}) 23... Qg5+ 24. Kf2 Qh4+ 25. Ke3 Qg5+ 26. Kd4 (26. Kd3
+Qf5+ 27. Ne4 Qxd7+ 28. Kc3 $16) 26... Rd8 27. Nd5 Rxd7 28. b3 $16) 23. Kf2 
+Qh2+  24. Ke3  Re8+  25. Kd3  Rd8  26. Nd5  Rxd7  27. Kc3  Rd6  28. b3  (28.
+Qd4 $5 Qg3+ 29. Kb4 bxc4 30. Rd1 $1 {and a knight check on the next move will
+decide the game.}) 28... a5 {269 Kind of a bluff, but the alternatives are no
+better.} (28... h5 29. Qd2 Qe5+ 30. Qd4 $18) 29. Rc2 { 40 The human answer.}
+(29. cxb5 {would win, but why give a piece?} Qe5+ 30. Kc4 (30. Qd4 Rxd5 31.
+Qxe5 Rxe5 32. Kc4 {also works.}) 30... Rxd5 31. Qxd5 Qf4+ 32. Kc5 Qxc1+ 33. Kb6
+{and the b-pawn is going to decide the game.}) 29... Qg3+  30. Qd3 {74 White
+consolidated the position, the king is safe and now it's just matter of time.}
+Qe1+  31. Kb2  bxc4  32. bxc4  Re6  33. Qc3  Qf1  34. Qxa5  Re1  35. Ka3  h5 
+36. Qc3  Re6  37. Rb2  Ra6+  38. Kb4  h4  39. Kc5  Qg1+  40. Qe3  Ra5+  (40...
+Ra5+ 41. Kb6 {and Black is forced to exchange the queens, leaving a hopeless
+position.}) 1-0

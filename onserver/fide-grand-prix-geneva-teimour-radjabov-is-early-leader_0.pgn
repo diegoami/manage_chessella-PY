@@ -1,0 +1,130 @@
+[Event "FIDE GP"]
+[Site "Geneva"]
+[Date "2017.07.08"]
+[Round "3"]
+[White "Eljanov, Pavel"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1-0"]
+[ECO "B92"]
+[WhiteElo "2739"]
+[BlackElo "2742"]
+[Annotator "Mekhitarian, Krikor"]
+[PlyCount "79"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[SourceDate "2017.07.08"]
+[SourceVersionDate "2017.07.08"]
+{3rd round of the Geneva FIDE GP and Radjabov is the only player at 2/2, while
+everybody else is trying to catch him!} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4
+Nf6 5. Nc3 a6 6. Be2 $5 {A move that has a positional reputation, but may
+create complicated and agressive positions, as we will see in the game!} e5 7.
+Nb3 Be7 8. Be3 Be6 9. Nd5 Nbd7 {threatening to take on e4} (9... Nxd5 $5 {
+keeping the bishop is another way to play this} 10. exd5 Bf5 11. Qd2 {
+important to avoid Bg5 once for all} (11. a4 {was played in the oldest game I
+found with this quick Nd5 idea: back in 1945!} Nd7 12. a5 Bg5 $1 {and Black is
+already confortable, the e3 bishop is an important piece} 13. Bg4 Bxe3 14. Bxf5
+Ba7 $1 15. Qg4 g6 16. Bxd7+ Qxd7 17. Qxd7+ Kxd7 18. c4 Rhc8 19. Nd2 f5 $15 {
+and black is simply better: 0-1 (43) Stulik,V-Opocensky,K Prague 1945}) 11...
+O-O 12. O-O Bg6 13. a4 $1 (13. Rac1 $6 {I played this move in a game, but
+didn't get any advantage} a5 $1 14. a4 Nd7 15. Bb5 f5 16. f4 (16. f3 $5 { was
+better}) 16... Nf6 17. g3 Ng4 18. c3 Bf6 (18... Be8 $1 $15 {would be very
+annoying, threatening to take and play a4. If I take on e8, then I have
+problems controlling the queen-side properly (Rxe8! and Qc7 with Qc4 ideas)})
+19. Rce1 h5 20. Qe2 Nxe3 21. Qxe3 h4 22. Nd2 $11 {1/2-1/2 (36) Mekhitarian,K
+(2550)-Oparin,G (2617) Abu Dhabi 2016}) 13... Nd7 14. a5 h6 15. c4 Rc8 16. Rac1
+{and White had great play on the queen-side in this game} e4 $6 (16... Re8 {
+should be better}) 17. Qb4 Qc7 18. Rfd1 Nc5 19. Bf4 Bg5 20. Bxg5 hxg5 21. Nxc5
+dxc5 22. Qd2 $16 {following with either b4 or Rc3-Rb3-Rb6, ½-½ (45) Di
+Berardino,D (2494)-Leitao,R (2636) Joao Pessoa 2013}) (9... Nxe4 $2 {is simply
+bad} 10. Bb6 Qc8 11. Nc7+ Kf8 12. Nxa8 Nd7 13. Be3 $16) 10. Qd3 O-O (10... Bxd5
+11. exd5 O-O 12. g4 $1 {The idea seen in Eljanov's game was found and tried for
+the first time by Alexander Khalifman in the round of 16 of the FIDE World
+Championship back in 1999, against one of the world's best Najdorf specialists
+- Boris Gelfand. Khalifman used it with success and went on to win the
+tournament!} Nc5 13. Nxc5 dxc5 14. O-O-O e4 15. Qd2 Bd6 16. g5 Nd7 17. h4 Ne5
+18. h5 {and the scary pawn avalanche comes with deadly effects} Rc8 $2 ( 18...
+f5 $1 {was the only chance to survive} 19. gxf6 Qxf6 20. Rhg1 $16) 19. Rh4 $1
+c4 {Gelfand tries a direct counterplay by sacrificing two pawns, but White
+takes the material and remains well defended} 20. Rxe4 c3 21. bxc3 Qa5 22. Kb1
+Rxc3 23. Bd4 $18 {1-0 (39) Khalifman,A (2628)-Gelfand,B (2713) Las Vegas 1999})
+11. a4 $5 {a flexible move, that is almost alway useful in this variation} (11.
+O-O {is the most common move here} Bxd5 12. exd5 Ne8 (12... Rc8 $5 {threatening
+Nb6} 13. c4 Ne8 14. Rac1 (14. g3 $5 Bg5 15. f4 exf4 16. gxf4 $13 {with an
+unclear position}) 14... b6 15. Kh1 (15. Bg4 $5) 15... Bg5 16. Qd2 Bxe3 17.
+Qxe3 a5 18. Nd2 f5 $15 {and Black got a perfectly fine position: 0-1 (52)
+Dastan,B (2519)-Saric,I (2618) Minsk 2017}) (12... Nb6 $6 13. c4 a5 14. a4 $1
+Nfd7 15. Bd2 $1 {hitting a5} Nc5 16. Nxc5 dxc5 17. Bc3 Bd6 18. b3 $16 { and
+White has a clear plan to play Rae1, Bd1-Bc2, with amazing prospects on the
+kingside}) 13. a4 Bg5 14. a5 Bxe3 15. Qxe3 Nef6 16. c4 Rb8 17. Rfb1 Qc7 18. Nd2
+$36 {with good potential on the queenside: 1/2-1/2 (59) Carlsen,M
+(2838)-Vachier Lagrave,M (2803) Karlsruhe 2017}) 11... Bxd5 (11... Nxd5 $5 {
+has to be tried in future encounters} 12. exd5 e4 $1 {forced and good} 13. Qd2
+{looks more logical} (13. Qxe4 Nf6 14. Qd3 Bxd5 15. O-O $13 {White has a better
+structure, but Black has good activity, the position should be balanced} )
+13... Bf5 14. g4 Bg6 15. h4 h6 {with a very complex position} (15... Bxh4 $2
+16. g5 $18) 16. O-O-O (16. g5 $5 h5 17. O-O-O $13) 16... Bxh4 17. Rh3 $40) 12.
+exd5 Nc5 $6 {a typical move changing the structure, that also stops White to
+expand the queenside. In the other hand, white obtains a strong passed pawn on
+d5, and a perfect scenario to play with c4 and g4!, castling queen-side} ({ a
+similar precedent was:} 12... Rc8 13. a5 Nc5 14. Nxc5 dxc5 15. c4 e4 16. Qc2
+Bd6 17. O-O (17. g4 $5 {would be also possible here, like Eljanov played})
+17... Qc7 18. g3 Rce8 19. Rfc1 Nd7 20. b4 f5 $36 {and Black already has a
+strong initiative: 0-1 (25) Castrillon Gomez,M (2210)-Vazquez,G (2443) Medellin
+2017}) (12... Ne8 $1 {preparing f5, has never been tried before, and should be
+a good move.}) 13. Nxc5 dxc5 14. c4 Qc7 15. Qc2 Rae8 $6 (15... e4 { perhaps
+should be better, because if White plays the same g4 now, then Black may decide
+where to place the a8-rook}) 16. g4 $1 $16 {a good moment to play this move,
+because Black already removed the rook from a8, meaning White will have more
+freedom do castle queen-side. Also, Black will never be able to expand with f5
+anymore, as it usually happens in this pawn structure. White definitely won the
+opening battle here and has a good advantage} e4 {this had to be played sooner
+or later} 17. O-O-O Bd6 18. g5 Nd7 19. Kb1 Ne5 20. h4 $1 ( 20. Qxe4 $6 {there
+is no need to take this pawn, as it helps Black} Nc6 $5 $44 {followed by Nb4.
+White would also have an advantage here, but black has time to breathe now})
+20... Nf3 21. Rh3 $6 (21. h5 $1 {would be very strong, the problem is that
+Black only starts the counterplay on the queen-side after white decides to take
+on f3 (something he will do whenever he wants)} Qd7 ( 21... f6 {is the
+computer's suggestion, and does not solve all the problems} 22. Bxf3 exf3 23.
+h6 g6 24. gxf6 Rxf6 25. Rhe1 $16 {and Black has problems defending his king,
+and at the same time watching the passed 'd' pawn, Bg5 is coming next}) 22. a5
+{another problem is that Black can't even play Rb8 for b6, because e4 is
+hanging} Qc7 23. Bxf3 exf3 24. Bd2 $1 Re2 $2 25. h6 g6 26. Qc3 $18 {followed by
+Qxf3}) 21... Qd7 $1 {I guess Eljanov missed this. In any case, he is still
+better} 22. Rhh1 Qe7 (22... f5 23. gxf6 Rxf6 24. h5 $16 {also looks good for
+white}) 23. Bxf3 exf3 24. h5 b5 $1 {counterplay gets there in time} 25. cxb5
+axb5 26. axb5 Qd7 (26... Rb8 $5 $132) 27. Qd3 (27. Rh4 $5 Qxb5 28. h6 g6 29.
+Bf4 {not an easy move! now Qc3 is real threat, because Be5 is no longer
+possible} Bxf4 30. Rxf4 f6 $1 31. Rxf3 (31. Rxf6 $2 Rxf6 32. gxf6 Kf7 $3 {and
+Black has very strong counterplay with Re2 next} (32... Re2 $4 33. f7+ $1 Kxf7
+34. Qc3 $18 {with a decisive attack})) 31... Re2 32. Rb3 $1 Rxc2 33. Rxb5 Rxf2
+34. gxf6 $16 {should be good for White, but black is fighting}) 27... Rb8 28.
+h6 g6 (28... Qxb5 $2 29. Qc3 $1 $16) 29. Bd2 Rxb5 30. Bc3 Rb3 31. Rhe1 {
+preparing Qxf3} (31. Qxf3 $2 Be5 $1 $36 {and Black grabs the initiative}) 31...
+Qg4 {forced} 32. Re4 Qxg5 (32... Qf5 $5 33. Kc2 Rfb8) 33. Qxf3 Be5 $2 (33...
+Qxh6 $1 {was necessary} 34. Qf6 Rxc3 {and black is totally in the game, with
+decent compensation} 35. Qxc3 Qh5 $44 {followed by Qf5}) 34. Rxe5 Qxe5 35. d6
+$2 (35. Bxe5 $1 {was winning on the spot} Rxf3 36. Bc7 $18 {followed by d6,
+should be a very sad endgame for Black}) 35... f6 $1 36. d7 Rxc3 37. Qxc3 Qe7
+$2 {probably in severe time-trouble, Ian throws away a study-like defense to
+draw this very difficult game. In the post-game interview Eljanov said that
+after 34.Rxe5 Qxe5 35.d6, it was already hopeless for Black, meaning he also
+did not realize that Black is not losing the rook endgame, which is totally
+understandable.} (37... Qxc3 $1 38. bxc3 Rd8 {it was very hard to understand
+that black does not lose this position, with an outside passed pawn for White
+(since c5 will fall in a few moves)} 39. Kb2 Kf7 40. Kb3 Ke6 41. Kc4 Rxd7 42.
+Rxd7 Kxd7 43. Kxc5 g5 44. Kd5 (44. Kb6 g4 45. c4 f5 46. Kb7 Kd6 47. Kb6 Kd7 $11
+) (44. f3 Kc7 $1 (44... Ke6 $1 {is also enough}) (44... f5 $2 45. Kd5 g4 46.
+fxg4 fxg4 47. Ke4 Kc6 48. Kf4 Kc5 49. Kxg4 Kc4 50. Kf5 Kxc3 51. Kf6 Kd4 52. Kg7
+Ke5 53. Kxh7 Kf6 {and Black loses by one tempo} 54. Kg8 $18) 45. Kd5 Kd7 46. c4
+f5 {now the advance is well-timed, because White already pushed his pawn and
+Black will be able to grab it and come back in time to the king-side} 47. Ke5
+g4 48. fxg4 fxg4 49. Kf4 Kd6 50. Kxg4 Kc5 51. Kf5 Kxc4 52. Kf6 Kd5 53. Kf7 Ke5
+54. Kg7 Ke6 55. Kxh7 Kf7 $11) 44... g4 45. Ke4 Ke6 46. c4 f5+ 47. Kf4 Kf6 $1 {
+provoking the c-pawn} 48. c5 Ke6 49. c6 Kd6 50. Kxf5 Kxc6 51. Kxg4 (51. Kf6 Kd6
+52. Kg7 Ke6 53. Kxh7 Kf7 $11) 51... Kd6 52. Kf5 Ke7 $11) 38. Qb3+ Kh8 39. Qd5
+$18 {now it's all over} Rd8 40. Rd3 {and Black resigned, because of the Re3
+threat. Eljanov moves to 2nd place with 2/3, and Radjabov keeps the sole lead
+in Geneva with 2,5/3!} (40. Rd3 g5 (40... Qe1+ 41. Ka2 Qa5+ 42. Ra3 $18) 41.
+Re3 Qxd7 42. Qxd7 Rxd7 43. Re8#) 1-0

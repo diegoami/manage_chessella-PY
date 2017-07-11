@@ -1,0 +1,68 @@
+[Event "FIDE Geneva Grand Prix 2017"]
+[Site "Geneva"]
+[Date "2017.07.07"]
+[Round "2"]
+[White "Radjabov, Teimour"]
+[Black "Eljanov, Pavel"]
+[Result "1-0"]
+[ECO "E16"]
+[WhiteElo "2724"]
+[BlackElo "2739"]
+[Annotator "Alex Yermolinsky"]
+[PlyCount "81"]
+[EventDate "2017.??.??"]
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2 Be7 7. Nc3 c6 8. e4
+d5 9. exd5 $1 {A modern treatment of this well-known variation.} cxd5 10. Ne5
+O-O 11. O-O Nc6 12. Bf4 {A relatively fresh idea.} (12. cxd5 Nxe5 13. d6 (13.
+dxe5 Nxd5 14. Rc1 Nxc3 15. Bxc3 Bxg2 16. Kxg2 Qc8 17. Qf3 {only leaves White
+with the smallest of advantages.}) 13... Nc6 14. dxe7 Qxe7 15. Bg5 h6 16. d5
+Na5 $1 {was seen in Anand -Carlsen, WCh Sochi, 2014}) 12... Na5 13. Rc1 (13.
+Bg5 $5 {is counterintuitive - why move the bishop again - but it brought White
+success in Van Wely-Tkachiev} Rc8 (13... Ba6 $5) 14. Bxf6 Bxf6 15. cxd5 Bxd5
+16. Nxd5 exd5 17. Re1 $14) 13... dxc4 14. Bxb7 Nxb7 15. Nxc4 {[#] This isn't
+your Grandfather's IQP position. Seemingly White has committed a cardinal sin
+of trading his light-squared bishop, but he's not playing for a kingside attack
+just yet. Black has his own set of problems: an awkward Nb7 and general
+weakness of the light squares caused by b7-b6.} Bb4 (15... Na5 16. Ne3 $1 {
+aiming at d4-d5.}) 16. Bg5 $1 {It's all about the d5-square.} Nd6 17. Nxd6 Bxd6
+({It's undertandable Pavel didn't want to weaken his king. Possible lines, such
+as} 17... Qxd6 18. Bxf6 gxf6 19. Ne4 Qd8 20. Rc4 Be7 21. Nc3 Rc8 22. Ra4 $1 a5
+23. d5 {did seem unnerving.}) 18. d5 $1 exd5 19. Nxd5 Be5 20. Bxf6 Bxf6 21. b4
+{[#] What we have here is a symmetrical pawn structure in a open position, with
+Black supposedly keeping a better minor piece. So, why isn't this equal? The
+answer to this mystery lies in the activity of the white pieces and Black's
+struggles to find a safe square for his queen.} Qd6 ({ Suppose, he does
+everything by the book:} 21... g6 22. Qf3 Bg7 {hides the bishop,} 23. Rfd1 Qg5
+{lets the queen out,} 24. h4 Qe5 25. Rc7 b5 {improves the queenside pawn
+structure,} 26. Re7 Qd6 27. Rd7 $1 Qe5 28. Kg2 {and then what? Black is
+practically out of moves. Sample lines ot illustrate his problems are:} h5
+(28... a6 29. Nb6 Rab8 30. R7d5 Qe7 31. Nd7) (28... a5 29. bxa5 Rxa5 30. Ne7+
+Kh8 31. Nc6) 29. Re7 Qd6 30. Rb7 Qe5 31. a3 $1 ({not even} 31. Rxb5) 31... Rae8
+32. Rxb5 {with a decisive advantage for White everywhere.} ) 22. Qf3 Rac8 23.
+Rcd1 $1 {No way Teimour was going to trade rooks.} Rfe8 24. b5 $6 {One and only
+inaccuracy allowed by Radjabov until time trouble.} ({ Instead, the
+prophylactic} 24. Kg2 $1 {would pose an interesting dilemma to his opponent:
+should Black just stay put or should be attempt a bailout,} Be7 $5 25. Rfe1 Bf8
+26. Ne7+ Bxe7 27. Rxd6 Bxd6 28. Rxe8+ Rxe8 29. Qc6 Re6 30. Qa8+ Bf8 31. a3 Re7
+{Can this be held? White will certainly try his best.}) 24... Be7 25. Rd4 (25.
+Rfe1 Bf8 26. Ne7+ $4 {now meets with} Rxe7 27. Rxd6 Rxe1+ 28. Kg2 Bxd6 $19)
+25... Bf8 26. Rfd1 Rc5 $2 {[#] An unfortunate idea.} ({It was high time to work
+out a queen trade,} 26... Qe6 27. Kg2 (27. Rg4 Qe2) 27... Qe2 28. Ra4 Qxf3+ 29.
+Kxf3 {and Black doesn't have to fear losing the a-pawn:} Rc5 ({or} 29... Rc2
+30. Rxa7 Bc5 31. Ne3 Rc3) 30. Rxa7 Rxb5 31. Nc7 Rf5+ 32. Kg4 Ree5 $11) 27. a4
+Qe6 28. Rg4 Kh8 ({Black falls victim to the back rank weakness after} 28... Qe2
+$2 29. Qxe2 Rxe2 30. Nf6+ Kh8 31. Rd8) 29. Rf4 Kg8 30. h4 Rc2 31. Kg2 h6 32. h5
+{Pavel seemed to have run out of useful moves, and, possibly, the clock had
+become an issue as well.} Rcc8 33. Rdd4 $3 { Powerful centralization,
+reminiscent of the classic game Spassky-Fischer, Mar del Plata 1960.} Bc5 34.
+Rde4 Qd7 35. Rg4 $1 Kf8 {[#]} (35... Kh8 36. Nf6) 36. Ref4 {A little hesitation
+that spoils it a bit.} ({Already,} 36. Rxg7 $1 { was decisive:} Rxe4 (36...
+Kxg7 37. Qc3+ f6 38. Nxf6) 37. Rg8+ $1 Kxg8 38. Nf6+ Kg7 39. Nxd7 Re6 40. Qg4+
+Kh7 41. Ne5 $1 Rxe5 42. Qxc8 Rxh5 43. Qd7 Kg6 44. f4 {and the rest is
+automatic.}) 36... Bd6 ({Pavel's best chance was} 36... Red8 37. Rxf7+ Qxf7 38.
+Rf4 Rd7 39. Rxf7+ Rxf7 40. Nf4 Kg8 41. Qd5 Re8 {White should win, but it'd take
+some time.}) 37. Rd4 (37. Rxg7 $1 Bxf4 38. Rg8+ { the same motif again.}) 37...
+Qb7 {[#]} 38. Rxg7 $1 {Finally Teimour lands a mortal blow.} Be5 (38... Kxg7
+39. Rg4+ Kf8 40. Rg8+ Kxg8 41. Nf6+ Kf8 42. Qxb7 Rc7 43. Qd5 Re6 44. Qa8+ Kg7
+45. Ne8+) 39. Rg8+ Kxg8 40. Nf6+ Bxf6 41. Rg4+ { Despite the uncertain finish,
+this game is a masterpiece by Radjabov.} 1-0

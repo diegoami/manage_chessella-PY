@@ -1,0 +1,24 @@
+[Event "Russian Higher League"]
+[Site "Sochi"]
+[Date "2017.07.06"]
+[Round "5"]
+[White "Matlakov, Maxim"]
+[Black "Romanov, Evgeny"]
+[Result "1/2-1/2"]
+[Annotator "GM Elshan Moradiabadi"]
+[SetUp "1"]
+[FEN "r3r1k1/pR2b1pn/3p4/2pP3q/2P1PB2/2N5/P4PQ1/3R2K1 b - - 0 28"]
+[PlyCount "39"]
+[EventDate "2017.??.??"]
+[EventType "swiss"]
+[EventCountry "RUS"]
+{[#]} 28... Rab8 29. Rxb8 (29. Rxe7 Rxe7 $1 30. Bxd6 Rb6 {And Matlakov may have
+found this too messy but Stockfish and friends think that White is just
+winning.} 31. Bxe7 Rg6 32. Rd3 Rxg2+ 33. Kxg2 Nf8 34. Bd6 $1 Ng6 35. Bg3 { and
+White's pawns are unstoppable.}) 29... Rxb8 30. Rd3 Rf8 $2 (30... Rb4 { is much
+better.}) 31. Rh3 Bh4 32. Be3 Rf6 33. Kh1 Rg6 34. Qf3 Rg4 35. Bf4 (35. e5 $1
+Qg6 36. exd6 {would have given Matlakov excellent winning chances.}) 35... Qg6
+36. Bg3 Bf6 {Now Black has enough compensation.} 37. Nb5 Rxe4 38. Nxd6 Re1+ 39.
+Kh2 Qb1 40. Bf4 Ng5 41. Bxg5 Be5+ 42. Bf4 Bxf4+ 43. Qxf4 Rh1+ 44. Kg3 Rg1+ 45.
+Kh2 Rh1+ 46. Kg3 Rg1+ 47. Kh2 (47. Kf3 {would lose to} Qd1+ 48. Ke4 (48. Ke3
+Re1#) 48... Rg4) (47. Kh4 {is just mate after} Qh7+) 47... Rh1+ 1/2-1/2

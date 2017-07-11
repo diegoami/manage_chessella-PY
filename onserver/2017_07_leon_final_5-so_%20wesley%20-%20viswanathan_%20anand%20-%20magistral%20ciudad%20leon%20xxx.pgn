@@ -1,0 +1,26 @@
+[Event "Magistral Ciudad Leon XXX"]
+[Site "Leon"]
+[Date "2017.07.09"]
+[Round "1.11"]
+[White "So, Wesley"]
+[Black "Viswanathan, Anand"]
+[Result "1-0"]
+[ECO "A08"]
+[WhiteElo "2810"]
+[BlackElo "2783"]
+[Annotator "TA"]
+[PlyCount "45"]
+[EventDate "2017.??.??"]
+
+1. Nf3 d5 2. g3 c5 3. Bg2 Nf6 4. O-O g6 5. c4 dxc4 (5... Bg7 6. Qa4+ Bd7 7. Qb3
+dxc4 8. Qxc4 Qb6 9. Ne5 Be6 10. Qa4+ Nbd7 11. d3 O-O 12. Nc4 Qc7 {1/2-1/2 (48)
+Giri,A (2764)-Anand,V (2775) Leuven 2017}) 6. Qa4+ {A08: King's Indian Attack}
+Bd7 ({Black should play} 6... Nfd7 $14) 7. Qxc4 $16 {Hoping for Ng5.} Qb6 8.
+Nc3 $146 (8. Ng5 $16) ({Predecessor:} 8. d3 Bg7 9. Qc2 O-O 10. Nc3 Na6 11. a3
+Rac8 12. Ne5 Be6 {1/2-1/2 (25) Kovar,V-Kuchar,J Svetla nad Sazavou 1997}) 8...
+Bg7 9. d3 O-O 10. Be3 Rc8 11. Rab1 $36 {White is more active.} Be6 (11... Qb4
+$14) 12. Qh4 Qa6 (12... Nbd7 $16 {keeps fighting.}) 13. Ng5 $18 Nbd7 14. Nxe6
+fxe6 15. Qc4 Qxc4 16. dxc4 Rab8 17. Rfd1 Ne5 18. b3 b6 (18... a6 $16 19. Bf4
+Nh5) 19. Nb5 a6 20. Bf4 Nfg4 21. Na7 Rc7 {[#]} (21... Rf8 $142 22. h3 Nxf2) 22.
+Nc6 $1 Rbc8 (22... Rxc6 23. Bxc6) 23. Nd8 {Precision: White = 62%, Black = 20%.
+} 1-0
