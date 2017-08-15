@@ -1,0 +1,115 @@
+[Event "Geneva Grand Prix"]
+[Site "?"]
+[Date "2017.07.13"]
+[Round "7"]
+[White "Radjabov, Teimour"]
+[Black "Svidler, Peter"]
+[Result "1-0"]
+[ECO "A34"]
+[Annotator "Aleksandr Lenderman"]
+[PlyCount "61"]
+[EventDate "2017.??.??"]
+{Welcome everyone! This is GM Aleksandr Lenderman with the Geneva Grand Prix
+Round 7 Game of the Day. Today the choice was clear to me, since we had a
+decisive game on one of the top boards, and also it was a nice, clean game by
+Radjabov, who is in excellent form in this tournament.} 1. Nf3 Nf6 2. c4 c5
+(2... g6 3. Nc3 d5 4. cxd5 Nxd5 {Is another common line for Grunfeld players,
+but these days many players don't want to venture here, since White has a lot
+of additional dangerous options here.}) 3. Nc3 d5 {As far as I know, the most
+common way for Grunfeld Players to play against this White's move order.} (3...
+g6 4. d4 cxd4 5. Nxd4 d5 {Is also a common way for Grunfeld players to play,
+but still, I think White has some pressure here if he knows the line well.} (
+5... Bg7 6. e4 {Leads to a Maroczy Bind Structure, which most Grunfeld players
+wouldn't want to play, since this is basically suffering for most of the game,
+and there aren't as many dynamic options for Black here.})) 4. cxd5 Nxd5 5. e3
+(5. e4 {Is also a very common move here, after which Black usually plays Nb4
+and leads to very sharp positions.} Nb4) 5... Nxc3 {Definitely not the only
+move here.} (5... e6 {As far as I know this is the most common alternative,
+which will most likely lead to an IQP (isolated pawn position), where White has
+the isolated d4 pawn but will have attacking chances.} 6. d4) (5... Nc6 { Isn't
+played as often because of an unpleasant...} 6. Bb5 {After which Black will
+probably still have to eventually play e6, but now he has allowed a slightly
+annoying pin, and therefore some concessions.}) (5... g6 {Is also not as
+accurate, right away, since here after a strong queen move, disturbing Black's
+harmony, he has to make some annoying concessions, for example...} 6. Qa4+ $1
+{This is already unpleasant for Black.} Bd7 (6... Nc6 7. Bb5 $14) 7. Qb3 $14)
+6. dxc3 {And this is the first somewhat surprising move. Almost exclusively
+White plays bxc3. However, Radjabov, one of the leaders at +2 (4.0/6), playing
+Svidler, who has 3.5/6, half a point behind, decided to put the ball in Black's
+court to try to create some kind of a battle in a dry position. That,along with
+the fact that as far as I can tell, Svidler doesn't like positions that are too
+dry. One game that comes to mind is Karjakin-Svidler from the 2015 World Cup
+Finals, where Svidler just needed a draw to win the finals, as he had been
+leading 2-1, but wasn't able to defend a slightly unpleasant but tenable
+position. This no doubt had an impact on Radjabov's decision to play this kind
+of a position this round. Needless to say, it paid off big time this game for
+him.} Qxd1+ (6... Qc7 { Perhaps this deserves attention. This is already a rare
+position though.}) 7. Kxd1 Bf5 {This move is designed against a quick e4. It's
+an interesting option but definitely not the only option.} (7... Nc6 {Is an
+alternative which Nepo tried against Vidit in the last Olympiad. He's also
+tried b6 the game before against Wang Yue.} 8. e4 b6 9. Kc2 Bb7 10. Bf4 f6 11.
+Rd1 e5 12. Bc1 (12. Bg3 $5 {Maybe this or somewhere earlier was a possible
+improvement for Radjabov.}) 12... Na5 13. Bb5+ Kf7 14. Rhe1 a6 15. Bc4+ Nxc4
+16. Rd7+ Be7 17. Rxb7 Rhb8 18. Rxb8 Rxb8 19. b3 Nd6 20. Nd2 b5 $11 {Black
+equalized comfortably and went on to draw without particular problems. 1/2 (37)
+Vidit,S (2669)-Nepomniachtchi,I (2740) Baku AZE 2016}) (7... b6 8. e4 Bb7 9.
+Bb5+ Bc6 10. a4 a6 11. Bxc6+ Nxc6 12. Kc2 e6 13. Rd1 Be7 14. Bf4 Ra7 15. Nd2
+$14 {Here White has some pull, in a game which ended up being a draw in...1/2
+(47) Wang Yue (2728)-Nepomniachtchi, I (2719) Moscow RUS 2016}) 8. Nd2 Nc6 9.
+e4 {So, White got in e4 anyway, but Black's idea was to force the White's
+knight to d2 first, so that White has a harder time developing his bishop on
+c1.} Be6 {This is according to my database a novelty, and possibly not the best
+one.} (9... Bd7 {Was played by the late Walter Browne all the way back in
+1979.} 10. Kc2 O-O-O 11. Nb3 e6 12. Be3 b6 13. Ba6+ Kc7 14. a4 Ne5 15. f3 Bd6
+16. Be2 Bc6 17. Nd2 f5 {With a complex game, which ended up in a draw in the
+end. But certainly both sides could probably make subtle improvements before.
+1/2 (42) Andersson,U (2560) -Browne,W (2540) Banja Luka 1979}) 10. Kc2 g6
+(10... O-O-O {This move deserves attention as well, since it stops Bc4 because
+of Rxd2!. However, White has annoying options here as well.} 11. Nb3 (11. Bc4
+$4 Rxd2+ $19) (11. Nf3 $5 { Is also interesting, trying to induce the move f6
+at some point.} f6 12. Be3 b6 13. Ba6+ Kb8 14. Bf4+ Ka8) 11... b6 12. Ba6+ Kb8
+13. Bf4+ Ka8 14. Rhd1 Rxd1 15. Rxd1 g6 16. Nd2 Bg7 17. Bc4 Bxc4 18. Nxc4 Rd8
+19. Rd5 $14 {White has a slight pull here, but it certainly looks like Black
+should be able to hold.}) 11. Bc4 Bd7 {Now it's starting to look like Black's
+strategy didn't work. He's losing too many tempos and White is putting his
+pieces on decent squares.} (11... Bxc4 12. Nxc4 $14 {Is also slightly
+unpleasant though. White has a plan with Be3, and a4 after b6. Black's bishop
+is a slight problem, in where it's very useful. }) 12. Nb3 b6 13. a4 {An
+important move, not only thinking about playing a5, but also preparing to play
+Bb5 after Ne5.} Ne5 14. Bb5 a6 $6 {But this move already seems like a real
+inaccuracy. I don't think it was necessary to create additional weaknesses.}
+(14... Bg7 15. Bf4 O-O-O {Still seems holdable for Black.}) 15. Bxd7+ Nxd7 16.
+Be3 e6 17. Rhd1 O-O-O 18. Nd2 $16 {Now White already has a serious advantage.
+White knight is getting back to c4, his dream square, while Black is tied down
+to the weakness on b6. In general, the main reason White wanted to swop off the
+light-squared bishops was because he wanted to have his knight unopposed on c4,
+where it can't be bothered by the Black's bishop, and also sometimes the White
+knight and bishop were redundant on the light squares.} Be7 19. Nc4 Kb7 20. a5
+$1 Rhf8 {The problem for Black is that...} (20... b5 $2 {only makes things
+worse because of...} 21. Nd6+ Bxd6 22. Rxd6 $18 {And Black is just collapsing
+here with his weaknesses.}) 21. axb6 Nxb6 22. Na5+ Kc7 23. Bf4+ Bd6 24. Bh6 $1
+{A very important decision here. White didn't want to trade off the dark
+squared bishops since then he would not have enough fire power to really apply
+maximum pressure on Black's weaknesses.} (24. Rxd6 Rxd6 25. Nb3 (25. Rd1 Nc8
+26. Nc4 Rfd8 27. b3 f6 28. Nxd6 Nxd6 {And since the pawn endgame is going to be
+drawn, Black will be able to untangle himself eventually with Kc6, and even
+though he's worse, he can still fight here.}) 25... c4 26. Nc5 Ra8 27. Nxa6+
+Kc6 28. Bxd6 Kxd6 29. Rd1+ Kc6 30. Nb4+ Kc5 {Would've won a pawn for White, but
+Radjabov correctly assessed that in this position Black would have better hold
+chances than in the game, since he was able to get his pieces very active and
+trade off or eliminate his weaknesses just for a cost of a pawn. This is still
+promising for White but it shows incredible patience not to go for this line,
+which I'm sure Radjabov saw.}) 24... Rfe8 25. Nb3 {Black still won't be able to
+avoid material loss in a long run, but here he also keeps his active bishop,
+while Black's bishop on d6 is quite restricted and can't do much.} Ra8 26. Be3
+Nd7 27. Ra5 Kc6 28. Rda1 Kb6 29. R5a4 Rec8 30. Na5 Be7 $6 {Loses in one move,
+but the position was already probably lost.} (30... Kc7 31. Nc4 Be7 {Would've
+prolongued the game, but White should still be winning.} 32. Rxa6 (32. Bf4+ {
+Though the computer even doesnt want to take the pawn.} Kb7 33. Na5+ Kb6 34.
+Rd1 Ra7 35. Nc4+ Kc6 36. Ra3 {And due to a deadly threat of Na5+ with a mating
+attack, Black is already forced to play the pathetic...} e5 37. Bxe5 Nxe5 38.
+Nxe5+ Kc7 39. Rd7+ Kb8 40. Rb3+ Ka8 41. Rd1 {But this is equivilant to
+resignation.}) 32... Rxa6 33. Rxa6 {Should be enough for a winning advantage.})
+31. Rb4+ {Black resigned since is losing after Kc7 Rb7+ Kd8 Rd1 Rc7 Nc6+ and
+Black will lose at least a piece. A very nice game by Radjabov and this puts
+him in a commanding position to be able to win this tournament.} 1-0

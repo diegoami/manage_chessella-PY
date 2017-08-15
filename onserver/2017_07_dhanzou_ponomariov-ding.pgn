@@ -1,0 +1,50 @@
+[Event "Danzhou Super GM"]
+[Site "?"]
+[Date "2017.07.13"]
+[Round "5"]
+[White "Ponomariov, Ruslan"]
+[Black "Ding, Liren"]
+[Result "0-1"]
+[ECO "E48"]
+[Annotator "GM Elshan Moradiabadi "]
+[PlyCount "104"]
+[SourceDate "2017.07.14"]
+[SourceVersionDate "2017.07.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nge2 dxc4 7. Bxc4 c5 8.
+Bd2 {Sort of a surprise. This line is what my ex-coach, Nigel Short, would
+call 'vegetarian'.} (8. O-O cxd4 9. exd4 {is the 'Tabiya' here.}) 8... cxd4 9.
+Nxd4 {Evidently Ponomariov wanted this symmetrical position...} e5 $5 {Either over
+the board or as home preparation this is a disruptive idea in a somewhat dull
+position.} 10. Nf3 Nc6 11. a3 Bd6 12. Qc2 {e4 must be prevented.} Bg4 13. Ng5 {
+It seems that white is going to have a nice square on e4.} Rc8 14. O-O (14.
+Nge4 {loses to} Nd4) 14... e4 $5 {An interesting idea. Black gets a lot of
+active play for the sacrificed pawn. Stockfish and colleagues stay cool at 0.
+00 evaluation!} 15. Ngxe4 (15. Nxf7 Rxf7 16. Nxe4 Nd5 17. Bxd5 Bxh2+ 18. Kxh2
+Qxd5 19. Bc3 Ne5 {is one of the many messes that could have arisen.}) 15... Ne5
+16. Nxd6 (16. Ba2 Nxe4 17. Qxe4 Bf3 (17... Re8 18. Kh1 Qh4 19. h3 Qh5 {is
+equally scary but it seems white is OK!}) 18. gxf3 Qg5+ 19. Kh1 Qh5 20. Bb1 g6
+21. Qd5 Rc5 22. Qxd6 Qxf3+ {looks like a forced draw but who was going to go
+through all of these complex moves?!}) 16... Qxd6 17. Ba2 Be2 18. f4 Bxf1 (
+18... Nd3 19. Rfb1 Rfd8 20. Be1 Bh5 {is an unpleasant grip which I find better
+than the game both from a practical and positional stand point.}) 19. fxe5 Bd3
+20. exd6 Bxc2 21. Nd5 Nxd5 22. Bxd5 Ba4 {More or less forced so far.} 23. e4 $6
+(23. Bxb7 Rb8 24. Bf3 Rxb2 25. Bb4 {is preferable as both bishops have
+beautiful outposts and the d6 pawn is well protected. A draw should be the
+logical outcome of this position.}) 23... Bc6 24. Bb3 Rce8 {Now Black has a
+good advantage here.} 25. Bc2 Re6 26. Re1 Rfe8 27. Bf4 g5 $1 {A nice
+multi-purpose move.} 28. Bg3 h5 29. h4 (29. h3 h4 30. Bh2 Kg7 31. Rf1 f6 32. b4
+{and White should be able to hold this endgame.}) 29... gxh4 30. Bf4 Rg6 31.
+Re2 Rg4 32. Rf2 h3 (32... f6 {[%cal Gg8e6] was more convenient.}) 33. g3 h4 34.
+Kh2 hxg3+ 35. Bxg3 Bxe4 36. Kxh3 f5 37. Bxe4 $4 {The infamous time pressure
+blunder.} (37. d7 $1 Rd8 38. Rd2 Rg7 (38... Bxc2 39. Bc7 Rxd7 40. Rxd7 Be4 41.
+Be5 a6 {is a material up position for Black, but due to opposite-colored bishops
+it is hard to imagine that Black can grind anything out of this.}) 39. Bb3+ Kh7
+40. Be6 {[%cal Gg3c7,Gg3h4,Gg3e5] and White will hold.} Kg6 41. Be5) 37...
+Rgxe4 38. Rxf5 Rd4 39. Rf3 Kg7 $2 40. Rc3 $2 {Pono misses the last chance.} (
+40. Bf2 Rxd6 41. Bxa7 {now the amount of material on the board is so reduced
+that it may be even draw despite Black's accurate play.}) 40... Kf6 41. Rf3+
+Ke6 {the d-pawn is now well-handled and Black's two rooks will destroy White's
+position in a few moves.} 42. Re3+ Kd7 43. Rc3 Rc8 44. Re3 Rh8+ 45. Kg2 Rd2+
+46. Kf3 Rf8+ 47. Kg4 Rxb2 48. Re7+ Kc6 49. Rc7+ Kb6 50. d7 Rg8+ 51. Kf5 Rf2+ $1
+{a last finesse!} 52. Ke4 Rg4+ 0-1

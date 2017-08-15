@@ -1,0 +1,76 @@
+[Event "17th ch-EUR Indiv 2016"]
+[Site "Gjakova KOS"]
+[Date "2016.05.15"]
+[Round "4.3"]
+[White "Inarkiev, Ernesto"]
+[Black "Andriasian, Zaven"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2686"]
+[BlackElo "2602"]
+[Annotator "Marco Baldauf"]
+[PlyCount "95"]
+[EventDate "2016.05.12"]
+[Source "GM Rep 1 - 1.d4"]
+[SourceDate "2011.01.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8. f3
+Be6 9. Qd2 O-O 10. O-O-O a5 11. a4 (11. Bb5 {Is the most popular move. However,
+in top level chess the game continuation has gradually replaced 11.Bb5 in
+recent years.} Na6 12. Qe2 Qb8 13. g4 Rc8 14. g5 Ne8 15. Kb1 Nec7 16. Bc4 Bxc4
+17. Qxc4 a4 18. Nc1 a3 19. b3 Ne6 20. Qd3 Nb4 21. Qd2 Ra6 22. Nd5 Nxd5 23. exd5
+Nd4 24. Bxd4 exd4 25. Nd3 Qc7 26. h4 Ra5 27. f4 Rxd5 28. h5 Bf8 29. Rde1 Qc3
+30. Qe2 Rdc5 31. Rh2 R5c7 32. Qg4 Qa5 33. Rhe2 Rxc2 34. g6 f5 35. Qf3 Qc3 36.
+Qd5+ Kh8 37. Qxf5 Rxe2 38. Rxe2 h6 39. Qe4 d5 40. Qf3 Be7 41. Qh3 Bd6 42. Qf5
+Bxf4 43. Qxc8+ Qxc8 44. Nxf4 Qf5+ 45. Ka1 Qf8 46. Kb1 Kg8 47. Kc2 Qf5+ 48. Nd3
+Qc8+ 49. Kd1 Kf8 50. Nf4 d3 51. Nxd3 Qc3 52. Rd2 Ke7 53. Ke2 Kd6 54. Nf4 Qe5+
+55. Kf3 d4 56. Re2 Qf5 57. Re6+ Qxe6 58. Nxe6 Kxe6 59. Ke4 Kf6 60. Kxd4 Kg5 61.
+Ke5 Kxh5 62. Kf5 b6 {0-1 (62) Karjakin,S (2739)-Grischuk,A (2760) Odessa 2010})
+11... Nc6 12. g4 Nb4 13. Kb1 Rc8 14. g5 (14. h4 {is an alternative and was
+played against Andriasian two years ago:} d5 15. g5 Ne8 16. exd5 Bf5 17. Na1
+Nd6 {and Black has interesting compensation for the sacrificed pawn. Black's
+pressure against c2 forces both knights to defend - however, I fail to see how
+Black can further strengthen his position on the queenside because White
+prevented the pawn-break ...b5 and Black cannot chase the Nc3 away.} 18. h5 Qd7
+19. h6 g6 20. Rh2 $13 {1-0 (39) Shomoev,A (2568)-Andriasian,Z (2622) Nizhny
+Tagil 2014}) 14... Nh5 (14... Ne8 {was Andriasian's choice in 2013. But he
+failed to equalize:} 15. f4 exf4 16. Bxf4 Bg4 17. Re1 Nc7 18. Rg1 Be6 19. Nd4
+d5 20. g6 $1 dxe4 (20... hxg6 21. Bxc7 Rxc7 22. Nxe6 fxe6 23. Bh3 $16) 21.
+gxh7+ Kh8 22. Be5 Bf6 23. Bxf6 Qxf6 24. Nxe4 $16 {1/2-1/2 (127) Swiercz,D 
+(2654)-Andriasian,Z (2631) Martuni 2013}) 15. Rg1 {Directed against Black's
+plan to play ...f5.} f5 (15... d5 {does not work here:} 16. exd5 Bf5 17. Na1 {
+[%cal Rd5d6]} Bc5 18. Bb5 Nf4 19. Bxf4 Bxg1 20. Bxe5 $16) (15... g6 16. Bb5 {
+and it is not clear how Black can get counterplay without ...f5. White,
+however, has the simple plan to win the pawn on a5 with Qf2 and Bb6.}) 16. gxf6
+(16. g6 hxg6 (16... h6 $2 17. Bh3 $1 {and White threatens to sacrifice on h6.})
+17. Rxg6 Rf6 18. Rg1 f4 19. Ba7 {[%cal Gd2f2,Ga7b6]} Rh6 $1 20. Qf2 d5 21. Bb6
+Qe8 $132) 16... Rxf6 17. Bg5 Rxf3 18. Bxe7 Qxe7 19. Qxd6 Qxd6 20. Rxd6 Nf4 $146
+{[#] The first new move - and a logical one. Andriasian brings the knight back
+into game and defends the Be6.} (20... Rf6 {[%cal Ge6b3,Gb3c2]} 21. Nxa5 b6 22.
+Rxe6 Rxe6 23. Bh3 Nf4 24. Bxe6+ Nxe6 25. Nb7 $14 {1-0 (40) Aroshidze,L (2565)
+-Raghunandan,K (2148) Sitges 2014}) 21. Nxa5 $1 {Faced with a new move
+Inarkiew thought for 45 minutes but then found the best and most concrete way.}
+(21. Bb5 $5 {[%csl Gb5][%cal Gb5d7]} Bxb3 (21... Rf2 22. Nxa5 Nxc2 23. Rxe6 $1
+Nxe6 24. Bd7 Na3+ $1 25. bxa3 Rxc3 26. Bxe6+ Kf8 27. Nxb7 Rxa3 $14 {and the
+two rooks should give Black sufficient counterplay even though defending such
+a position is not a pleasant task.}) 22. cxb3 Nfd3 $1 (22... g6 23. Bc4+ Kh8
+24. Rgd1 $14) 23. Rd1 (23. Bc4+ Rxc4 $1 24. bxc4 Rf2 $132) 23... Nc5 24. Bc4+
+Kh8 $13) 21... Rf2 22. Nxb7 Rxc2 23. a5 {Four black pieces managed to get
+closer to white's king but Black has not yet managed to pose real threats.}
+Rxh2 (23... R8xc3 24. bxc3 Ba2+ 25. Ka1 Rc1+ 26. Kb2 Rb1+ 27. Ka3 Rb3+ 28. Ka4
+$18) 24. a6 Bb3 (24... Rh6 25. Bb5 Rf6 26. Bd7 Bxd7 27. Rxf6 $18) 25. a7 {
+[%cal Gd6d8]} Ne6 {[%csl Ge6][%cal Ge6d8]} (25... Bc2+ $2 26. Ka1 $18) 26. Rb6
+{Now Black has to give material.} Bc2+ (26... Ra8 27. Rxb4 Bc2+ 28. Kc1 Rxa7 {
+[%cal Ga7a1]} 29. Rg2 $1 Rh1 30. Kxc2 Rxf1 $18 {and though White still has
+some work to do the position should be technically won.}) 27. Kc1 $1 Ra8 28.
+Nd6 $1 h5 (28... Rxa7 29. Rb8+ Nf8 30. Bc4+ Kh8 31. Rxf8#) 29. Rxb4 (29. Rb8+ {
+would have finished the game immediately.} Kh7 30. Rxa8 Nd4 31. Rxg7+ (31. Bc4
+$4 Nd3+ 32. Bxd3 Nb3#) 31... Kxg7 32. Nf5+ Nxf5 33. Rg8+ Kxg8 34. a8=Q+ Kf7 35.
+exf5 $18) 29... Rxa7 30. Rg2 Rh1 31. Kxc2 Rxf1 32. Nf5 Nf4 33. Rg5 Rf2+ 34. Kb3
+g6 (34... Nd3 35. Rb8+ Kh7 36. Rxh5+ Kg6 37. Rbh8 Rxb2+ 38. Kc4 Nf4 (38... Rc7+
+39. Kxd3) 39. Nh4+ Kf6 40. Rf5+ Ke6 41. Re8+ Kd7 42. Rfxe5 $18) 35. Rb6 Kh7 36.
+Nh4 Rg7 37. Nd5 {but even here White is clearly dominating and Inarkiev won
+without problems.} Nd3 38. Rbxg6 Nc5+ 39. Ka3 Rxg6 40. Rxg6 Nxe4 41. Re6 Nd2
+42. b4 Rf1 43. Ka4 e4 44. Nf6+ Kg7 45. Nxe4 Nc4 46. Kb3 Ne3 47. Nd2 Nf5 48.
+Rg6+ 1-0
+

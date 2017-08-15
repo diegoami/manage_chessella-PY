@@ -1,0 +1,37 @@
+[Event "ch-USA 2016"]
+[Site "Saint Louis USA"]
+[Date "2016.04.18"]
+[Round "5.2"]
+[White "So, Wesley"]
+[Black "Akobian, Varuzhan"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2773"]
+[BlackElo "2615"]
+[Annotator "Johannes Fischer"]
+[PlyCount "47"]
+[EventDate "2016.04.14"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. c3 c5 8.
+Be3 cxd4 9. Bxd4 Be7 10. Bd3 O-O 11. Qc2 h6 12. O-O-O Qa5 13. Kb1 Rd8 14. Ne5
+Bd7 15. Qe2 $146 ({A new move. In a previous game White put his faith in the
+two bishops:} 15. Nxd7 Nxd7 16. Bh7+ Kh8 17. Be4 Qc7 18. Qe2 Bf6 19. Be3 Nc5
+20. Bc2 b6 21. h4 Rxd1+ 22. Qxd1 Rd8 23. Qe2 Qb7 24. f3 Qa6 25. Qxa6 Nxa6 26.
+h5 Kg8 27. Rd1 Rxd1+ 28. Bxd1 Kf8 29. Kc2 Ke7 30. Kd3 Nc7 31. f4 e5 32. Ke4 Kd6
+33. Bb3 Ne6 34. fxe5+ Bxe5 35. Kf5 g6+ 36. hxg6 fxg6+ 37. Kxg6 Nf4+ 38. Kf5
+Nxg2 39. Bxh6 Nh4+ 40. Kg5 Ng2 41. Kg4 Ne1 42. Kf5 Bg3 43. Ke4 Bf2 44. Bf4+ Kc6
+{Lilov,V (2412)-Halldorsson,J (2214) Albena 2011 1-0}) 15... Bc6 16. Rhe1 Bd5 {
+[#] Black is already in deeper trouble than it seems which is why the engines
+become ballistic.} ({Fritz 15 gives} 16... Rxd4 {as best and after} 17. Nxc6
+bxc6 18. cxd4 Rb8 19. Bc4 Bb4 20. Rf1 {considers the position to be slightly
+better for White.}) 17. c4 Bxg2 ({Inviting White to attack on the g-file but
+after the retreat} 17... Bc6 {White has} 18. Nxf7 Rxd4 19. Qxe6 {and now
+Black's best choice according to the engines is} Rxd3 20. Rxd3 Qxe1+ 21. Qxe1
+Kxf7 22. f3 {with a clear advantage for White.}) 18. Bc3 Qb6 19. Rg1 Bc6 {
+[#]Now White smashes Black's position with two strong blows:} 20. Nxf7 $1 Kxf7
+21. Rxg7+ $1 Kxg7 22. Qxe6 {White is rook and piece down but has an
+irresistible attack.} Qxf2 ({Even Fritz 15 sees no escape for Black. He gives} 
+22... Re8 23. Qf5 Kf8 24. Bxf6 Bd7 25. Bxe7+ Kxe7 26. Qh7+ Kf8 27. Bg6 {
+with a clear advantage for White as best.}) 23. Qxe7+ Kg8 24. Bh7+ {Now Black
+loses (almost) everything.} 1-0
+

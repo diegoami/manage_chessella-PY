@@ -1,0 +1,43 @@
+[Event "ch-USA 2016"]
+[Site "Saint Louis USA"]
+[Date "2016.04.15"]
+[Round "2.3"]
+[White "Chandra, Akshat"]
+[Black "So, Wesley"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2477"]
+[BlackElo "2773"]
+[Annotator "Johannes Fischer"]
+[PlyCount "80"]
+[EventDate "2016.04.14"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Nd7 8. Ng3 Bg6
+9. cxd5 Nxd5 10. Be2 Qa5 11. Bd2 Nb4 $146 {A new move.} (11... O-O-O 12. O-O
+Be7 13. Nce4 Qc7 14. Ng5 Bxg5 15. Bxg5 f6 16. exf6 gxf6 17. Bd2 Nf4 18. Re1 Nb6
+19. Qb3 e5 20. Bxf4 exf4 21. Ne4 Rxd4 22. Bf3 Bxe4 23. Bxe4 Kb8 24. Bf3 Nc4 25.
+Qc3 Rhd8 26. Rad1 Rxd1 27. Rxd1 Ne5 28. Rxd8+ Qxd8 29. Bxh5 Qh8 30. Qd2 Kc8 31.
+Bd1 Qxh4 32. Qd6 Qg5 33. Qe6+ Kc7 34. Qe7+ Nd7 35. Qh7 Kd6 36. b4 Qe5 37. Qd3+
+Qd5 38. Qe2 Ne5 39. a4 a6 40. Qe1 Qd3 41. Be2 Qc2 42. Bf1 f3 43. Qa1 Qd2 44. b5
+c5 45. Qa3 fxg2 46. Bxg2 Nd3 47. Bxb7 Qxf2+ 48. Kh1 Qg3 {0-1 (48) Vachier
+Lagrave,M (2722) -Vitiugov,N (2712) Paris/St Petersburg 2013}) 12. O-O Qb6 13.
+Bg5 Nc2 14. Rc1 Nxd4 {[#]} 15. Bxh5 $6 ({The engines recommend} 15. Bc4 Nf5 16.
+Nxf5 Bxf5 17. Re1 Qxb2 18. Ne4 Bxe4 19. Rxe4 {White has only two pawns for the
+piece but the exposed position of Black's king offers him compensation.}) 15...
+Bxh5 16. Nxh5 Nxe5 17. Re1 Nef3+ 18. gxf3 Rxh5 {[#] Now Black's a solid pawn
+up. He only has to bring his king to safety.} 19. f4 g6 20. Na4 Qb4 21. Re4 Bg7
+22. Nc5 Qxb2 23. Rc4 {[#]} Rxg5+ $1 {This exchange sacrifice allows Black's
+king to castle queenside and to escape to safety. With two pawns for the
+exchange, an exposed white king and active pieces Black is clearly better.} 24.
+fxg5 O-O-O 25. Nb3 Nxb3 26. Qxb3 Qa1+ 27. Kg2 Rd1 28. Qc2 Kd8 $2 ({Up to here
+So played strong and convincingly but now he loses the thread.} 28... Be5 {
+would have kept the advantage.}) 29. Kf3 Ke8 30. Rb4 Rc1 31. Qe2 b5 32. Rb3 Rh1
+$4 {[#]Overlooking a tactical shot for White.} ({After} 32... Kf8 {the engines
+evaluate the position as equal.}) 33. Kg4 $4 {White returns the favor.} ({After
+} 33. Rxe6+ $1 fxe6 34. Qxe6+ Kf8 ({After} 34... Kd8 {White wins with} 35. Qd6+
+Kc8 36. Qxc6+ Kd8 37. Qd6+ Kc8 38. Qc5+ Kd8 39. Rd3+) 35. Rd3 {White has a
+crushing attack, e.g.} Bd4 36. Qd6+ Kg8 37. Qxg6+ Kf8 38. Qd6+ Ke8 39. Qxc6+
+Ke7 40. Qe4+ Kf8 41. Rxd4 {White is winning.}) 33... Kf8 {Black eliminates the
+danger and is better again.} 34. Rg3 Kg8 35. Ree3 Qd4+ 36. Re4 f5+ 37. gxf6
+Qxf6 38. f4 Qxh4+ 39. Kf3 Rh2 40. Qd3 Qh5+ 0-1
+

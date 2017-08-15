@@ -1,0 +1,54 @@
+[Event "Polar Capital Jersey Open"]
+[Site "chess24.com"]
+[Date "2016.04.16"]
+[Round "9.2"]
+[White "Houska, Jovanka"]
+[Black "L'Ami, Alina"]
+[Result "0-1"]
+[WhiteElo "2376"]
+[BlackElo "2348"]
+[Annotator "AA"]
+[SetUp "1"]
+[FEN "8/3b3p/5kp1/1p6/p1p1B3/P5P1/1P5P/4N2K b - - 0 44"]
+[PlyCount "35"]
+[EventDate "2016.??.??"]
+[WhiteTeam "England"]
+[BlackTeam "Romania"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ROU"]
+[WhiteClock "0:01:07"]
+[BlackClock "0:02:16"]
+{I am not going to comment on this final game, as it was a ping-pong match,
+with too many missed chances for both sides. However, the ensuing endgame, for
+which I have a pale satisfaction as I deliberately went for it, is really
+interesting! Black is a piece down yet with a very active king and an extra
+pawn on the queenside! Objectively speaking, I believe it should be a draw but
+playing this position on seconds is far from ideal, especially for White.}
+44... Ke5 {The plan is simple: marching down to capture the b2 and a3 pawns.}
+45. Bc2 ({Apparently, White has to keep the bishop on the a8-h1 diagonal, where
+the minor piece is more active and entitled to set up some threats.} 45. Ba8
+Kd4 46. Nf3+ Ke3 47. Ne5 Be8 48. Ng4+ Kd2 49. Nf6 Bf7 50. Bc6 Kc2 51. Bxb5 Kxb2
+52. Bxa4 c3 53. Ng4 Kxa3 54. Bc2 Bb3 55. Bd3 {where my engine says a draw is
+most likely the outcome.}) 45... Kd4 46. Kg2 Ke3 47. h4 Kd2 $4 {I almost fell
+from my chair... with my clear plan in mind I quickly went to d2, trying to
+save and add some seconds on my clock.} ({The problem is that I missed} 47...
+Ke2 $1 {winning a piece! Oops!} 48. Nf3 Bc6) 48. Kf2 Kc1 49. h5 Bf5 { In fact I
+was quite pleased with this "technical" move, thinking the poor knight would be
+too weak to stop all my pawns!} ({Apparently} 49... gxh5 { was the right way,
+which I dismissed on the grounds that more pieces, more chances for a draw for
+White. Turned out I was wrong.} 50. Bxh7 Kxb2 51. Nc2 Bg4 52. Ke1 c3 53. Bg6
+Be6 54. Ke2 Bb3 {with a winning endgame.}) 50. hxg6 $2 { returning the favor;
+but the reasons are far from obvious...} (50. Bxf5 { Would have made a draw and
+yet, calculating all of it is nearly impossible. The point is that keeping the
+h-pawns on the board hands White the chance to hold the pawn endgame, once the
+knight has been sacrificed on the other side!} gxf5 51. Ke3 Kxb2 52. Kd2 Kxa3
+53. Kc3 b4+ 54. Kxc4 b3 55. Nf3 b2 56. Nd2 Ka2 57. Kb4 b1=Q+ 58. Nxb1 Kxb1 59.
+Kxa4 Kc2 60. Kb4 Kd3 61. Kc5 Ke4 62. Kd6 f4 63. gxf4 Kxf4 64. Ke6 Kg5 65. Ke5
+{and draw.}) 50... Bxg6 {I remember thinking: keep the pawn further away, it
+might prove helpful. And it did!} (50... hxg6 $2 {is wrong because of the same
+reasons: a drawn pawn endgame for White} 51. Bxf5 gxf5 52. Ke2 Kxb2 53. Kd2
+Kxa3 54. Kc3 b4+ 55. Kxc4 b3 56. Nf3 b2 57. Nd2 Ka2 58. Kb4 a3 59. Ka4 b1=Q 60.
+Nxb1 Kxb1 61. Kxa3 Kc2 62. Kb4 Kd3 63. Kc5 Ke4 64. Kd6 Kf3 65. Ke5) 51. Bxg6
+hxg6 52. Ke3 Kxb2 53. Kd2 Kxa3 54. Kc3 b4+ 55. Kxc4 b3 56. Kc3 b2 57. Nc2+ Ka2
+58. Nb4+ Kb1 59. g4 g5 60. Kd2 Ka1 61. Nc2+ Ka2 { What a game that was! Hope
+not to go through such emotions anytime soon...} 0-1

@@ -1,0 +1,89 @@
+[Event "16th Charleroi Open 2017"]
+[Site "?"]
+[Date "2017.07.31"]
+[Round "4"]
+[White "Navrotescu, Andreea Cristiana"]
+[Black "Sagar, Shah"]
+[Result "0-1"]
+[ECO "D05"]
+[WhiteElo "2207"]
+[BlackElo "2391"]
+[Annotator "Sagar Shah"]
+[SetUp "1"]
+[FEN "8/8/3r2p1/p1pnkp1p/7P/PP1B1RP1/4KP2/8 b - - 0 38"]
+[PlyCount "53"]
+
+{While playing this game, I was on 2.0/3. I had already drawn with two players
+who were rated lower than me and I wanted to win this game at all costs, even
+though I was Black. The opening had gone pretty well for me and I had
+equalized without too many difficulties. Hence, I wasn't quite happy with this
+position. White's defensive task is not so difficult. In fact I do not see why
+I should be better here. My next move was a small trap into which my opponent
+fell.} 38... a4 $5 {[%cal Ga5a4] Andreea was playing pretty fast. Hence, even
+though it was the 40th move, she had a lot of time. But I think she had lost
+her sense of danger at this point and simply captured the pawn.} 39. bxa4 $2 (
+39. Bc4 {According to me was the easiest way to equalize.} Nb6 {I had planned
+this and after} 40. Re3+ Kf6 41. Bb5 $1 axb3 42. Rxb3 $11 {I think White has
+absolutely no problems. In fact Black has to be careful not to over press.}) (
+39. Bc2 {was also possible.}) 39... Kd4 $1 {My king comes in now and White has
+no Bishop to c4 eliminating my strong knight.} 40. Bc2 (40. Bb5 c4 {Also
+looked pretty strong. But maybe was better because the bishop blocks the
+b-file and Black cannot penetrate so easily.}) 40... c4 $1 {[%cal Gc4b3,Gc4d3,
+Yd5e3,Yd5c3,Yd5f4] Look at the knight, king and the pawn combo. They stop the
+white rook from getting activated. Each and every square is covered!} 41. Kd2
+Re6 42. Bd1 Rb6 43. Kc2 (43. Bc2 Rb2 {At some point I have to go in and it is
+similar to the game.}) 43... c3 {This was a committal move, but I saw that
+this was the only way forward.} 44. a5 (44. Rd3+ {I wasn't particularly
+worried about this check.} Kc4 45. Be2 $2 {This fails tactically.} (45. Rf3
+Rb2+ 46. Kc1 Ra2 {is like the game.}) 45... Rb2+ 46. Kd1 Rxe2 47. Kxe2 c2 $19)
+44... Rb2+ 45. Kc1 {Now Black has everything under control, but White is
+pushing her a-pawn down the board. Hence it was important to play Ra2 and
+eliminate those pawns. But first it was important to stop Bb3 when Ra2 is
+played.} Kc4 $1 (45... Ra2 46. Bb3 Rxa3 47. Bxd5 Kxd5 48. Kc2 $11) 46. a6 Ra2
+$1 47. Kb1 (47. a7 Rxa3 48. Be2+ Kc5 $19) (47. a4 Ra1+ 48. Kc2 Nb4#) 47... Rxa3
+48. Be2+ Kc5 {[%cal Gd5b4] Nb4 threats are very strong now.} 49. Bd3 (49. Rd3
+Nb4 50. Rd8 {And here I saw a pretty mate where I could underpromote! Such
+lines are always nice.} c2+ 51. Kb2 Ra2+ 52. Kb3 c1=N+ 53. Kc3 Rc2#) 49... Kd4
+(49... Nb4 {was the best way to win. I didn't want her to activate her rook
+and hence avoided this line, but concretely it just wins.} 50. Bc2 Nxa6 $1 51.
+Rf4 Nb4 $19 {The rook is not getting activated yet and Black is just winning.})
+50. Be2 Ke4 {The rook cannot move, nor can the bishop. Hence the king has to.}
+51. Kc1 (51. Kc2 Nb4+ $19) 51... Ra1+ 52. Kc2 Ra2+ 53. Kd1 {This was the
+crucial moment of the game. I saw the lines that I could not take on e2 just
+yet. And I also felt that Rxa6 complicated the winning task to some extent.
+Hence, I decided to maintain control. But it was wrong. Instead I should have
+understood that if I got this same position with White to move, I would be
+simply winning. Hence it was necessary to lose a move here.} Rd2+ $2 (53...
+Rxe2 $2 {This looks winning but actually throws away the win.} 54. Kxe2 c2 55.
+Re3+ $1 Nxe3 (55... Kd4 56. Kd2 $18) 56. a7 $1 c1=Q 57. a8=Q+ {And there is no
+way to win here.} Ke5 $11 (57... Nd5 $2 {would even lead to bad position for
+Black.} 58. Qe8+ Kd4 59. Qh8+ Ke4 $2 (59... Nf6 60. Qxf6+ $16) 60. f3# {
+what a mate!})) (53... Ra4 $1 {Just a waiting move. The idea as mentioned
+before is to lose a move.} 54. Kc2 (54. Kc1 Ra3 55. Kd1 Ra2 $19 {This is the
+position that we want to reach.}) 54... Ra1 $1 55. Kb3 Rb1+ 56. Kc2 (56. Kc4 c2
+$19) 56... Rb2+ 57. Kd1 Ra2 $22 {And there we have it White to play and there
+is no move available.}) (53... Rxa6 $1 {was also winning, but some faith was
+required that the bishop versus pawns endgame was winning.} 54. Bxa6 Kxf3 55.
+Bb7 Kxf2 $1 (55... Ke4 {would also win according to me, but would require some
+effort.}) 56. Bxd5 Kxg3 57. Bf7 Kxh4 58. Bxg6 f4 59. Ke2 Kg4 $19 {These three
+pawns are too much for White to handle. Black wins. Somehow during the game I
+was not ready to leave my control and go into such a transformation.}) 54. Ke1
+Rd4 {I thought I was being quite smart as now White has no move but to push
+the pawn and then Ra4 wins it. But I missed my opponent's smart defence.} (
+54... Ra2 55. Bc4 $1 {White holds the draw.}) 55. a7 Ra4 56. Rd3 $2 (56. Bc4 $1
+{A beautiful move that was missed by both of us.} Rxa7 (56... Kxf3 57. Bxd5+
+$18) 57. Bxd5+ $11 {Would have been a pretty brutal end to all my winning
+aspirations.}) 56... Rxa7 {Now things are back on track.} 57. f3+ Ke5 58. Bd1
+Ra3 (58... Ra1 $1 {This was a powerful move as now Black is winning a piece.}
+59. Ke2 Ra2+ 60. Ke1 c2 $19) 59. f4+ Ke4 (59... Ke6 {was also winning.}) 60.
+Bc2 Ne3 $2 {It's very important to understand why this is a question-mark move. It's not
+easy to understand on the surface. We have to dig deeper and you will realize
+it as we make more moves.} (60... Nb4 $1 {was a nice way to win as after} 61.
+Rxc3+ Kd4 $1 {A key move.} 62. Rc8 Ke3 $19 {Black king infiltrates and wins
+all the pawns.}) 61. Rxc3+ Nxc2+ 62. Rxc2 Rxg3 {I had seen all of this and
+thought that winning two pawns would naturally end the game.} 63. Kf2 Rf3+ 64.
+Kg2 Rxf4 {And here my opponent resigned. And it seemed like the right move.
+After all, she was two pawns down and Black had everything in order.
+Surprisingly, and much to my disbelief this position turns out to be a draw.}
+0-1
+

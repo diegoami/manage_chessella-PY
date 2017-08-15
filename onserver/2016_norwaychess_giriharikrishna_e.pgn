@@ -1,0 +1,33 @@
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.25"]
+[Round "6"]
+[White "Giri, A."]
+[Black "Harikrishna, P."]
+[Result "0-1"]
+[ECO "C11"]
+[WhiteElo "2790"]
+[BlackElo "2763"]
+[PlyCount "72"]
+[EventDate "2016.04.18"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Be7 {The "modern" line.
+} ({The main lines start with} 6... Nc6) 7. Be3 O-O (7... b6) 8. Qd2 b6 9. Nd1
+({After} 9. O-O-O {Black could quickly drum up an attack on the queenside:} Nc6
+10. g4 c4) 9... a5 10. c3 a4 11. Bd3 Ba6 12. O-O Nc6 (12... Bxd3 13. Qxd3 Nc6
+14. f5 a3 15. b3 cxd4 16. cxd4 Nb4 17. Qe2 exf5 18. Bd2 Nb8 19. Ne3 Qd7 20.
+Bxb4 Bxb4 21. Nh4 g6 22. Qf3 Be7 23. Nhxf5 gxf5 24. Nxf5 Kh8 25. Qh5 Qe6 26.
+Rf3 Nc6 27. Raf1 Qg6 28. Qh3 Bg5 29. Nd6 f6 30. Nb5 Qe4 31. e6 Nxd4 32. Nd6
+Qxe6 {0-1 (32) Baskin,R (2329)-Neef,M (2406) Germany 2016}) 13. Bxa6 Rxa6 14.
+f5 b5 15. fxe6 (15. f6 {yields nothing for White:} gxf6 16. exf6 Nxf6 17. dxc5
+Ne4 $15) 15... fxe6 16. Qe2 Qb6 17. Nf2 a3 18. b3 b4 19. dxc5 Bxc5 20. Bxc5
+Nxc5 21. c4 Ne4 22. cxd5 (22. Kh1 Nxf2+ 23. Rxf2 Ra5 $15) 22... exd5 23. e6 Ne7
+24. Kh1 Nc3 25. Qd3 h6 $15 26. Nd1 {[#]} ({After} 26. Ne5 Qxe6 27. Nd7 Rc8 28.
+Rae1 Qd6 29. Ng4 Ne4 30. Nde5 Qe6 $17 {Black is a pawn up and clearly better.})
+26... Qb5 27. Qxb5 Nxb5 28. Nf2 (28. Re1 Rf6 $19) 28... Rxe6 $19 {Black is a
+pawn up - a passed pawn on the d-file. And White's pawn on a2 is weak.} 29. Nd3
+Nc6 30. Rfc1 Nc3 31. Nxb4 Nxb4 32. Rxc3 Re2 33. Rc7 Ra8 34. Nd4 Rxa2 35. Rf1
+Rd2 36. h3 {[#] The last trick...} a2 (36... Rxd4 $4 37. Rff7 {with a
+perpetual because Black's rook cannot go to g4.}) (36... a2 37. Rff7 a1=Q+ 38.
+Kh2 Qxd4 $19) 0-1
+

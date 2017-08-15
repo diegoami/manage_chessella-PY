@@ -1,0 +1,186 @@
+[Event "4th Purtichju Open 2017"]
+[Site "Porticcio FRA"]
+[Date "2017.07.02"]
+[Round "1.3"]
+[White "Zhigalko, S."]
+[Black "Tomasi, Albert"]
+[Result "0-1"]
+[ECO "B53"]
+[WhiteElo "2648"]
+[BlackElo "2141"]
+[SetUp "1"]
+[FEN "8/3q1p1k/3N2p1/2p4p/3b1Q2/1P4P1/r1P2P1P/3R2K1 w - - 0 43"]
+[PlyCount "46"]
+[EventDate "2017.07.02"]
+[SourceDate "2013.11.21"]
+
+{White is a pawn up but in the time trouble Zhigalko started to
+misplay.} 43. Qxf7+ $2 (43. Nxf7 $1 Bxf2+ {was probably the reason why White
+declined 43.Nxf7} (43... Rxc2 {is another critical move} 44. Qh6+ $1 Kg8 45.
+Qxg6+ Kf8 46. Ng5 Rxf2 (46... Bxf2+ 47. Kg2 $18 {and everything is hanging})
+47. Rxd4 $1 $18 {and it's over}) (43... Kg8 $1 44. Ng5 Rxc2 45. Rd3 $18 {
+with a decisive advantage}) 44. Kxf2 Qxd1 45. Ng5+ Kg7 46. Qf7+ Kh6 47. Qf8+ $1
+{he probably missed this check!} Kxg5 48. Qf4#) 43... Qxf7 44. Nxf7 Rxc2 45.
+Ng5+ Kh6 46. Nh3 $6 (46. Ne6 {it was not too late yet to play for equality}
+Bxf2+ 47. Kf1 Be3 48. Rd3 $11) 46... g5 $1 {the Nh3 starts to be in trouble}
+47. Kh1 Rb2 48. f4 g4 49. Ng5 Rxb3 {now the c pawn will be strong} 50. Ne6 Be3
+51. f5 c4 52. Rf1 $2 {A good idea but not in the right order.} (52. f6 $1 {
+was the only way to stay in the game} Kg6 53. Rf1 Rb7 54. Nd8 $1 Rb6 55. f7 Bh6
+56. Rc1 $11 {and after the trade of the f and c-pawns the position will be
+around equal}) 52... Rb6 $1 {A very precise move, preventing White's idea to
+push the f-pawn. Now Black is winning} 53. Nc7 (53. f6 Rxe6 54. f7 Bc5 55.
+f8=Q+ Bxf8 56. Rxf8 Rc6 $19 {and black will push his c-pawn.}) 53... Bg5 (
+53... Bd4 $1 {was even stronger}) 54. Nd5 Rd6 55. Nc3 Rd3 $1 56. Ne4 c3 57. h4
+Be3 58. f6 c2 59. f7 Rd8 $1 {it's over} 60. Ng5 c1=Q 61. Rxc1 Bxc1 62. Ne6 Rd1+
+$1 {The last move to find.} 63. Kg2 Ba3 64. f8=Q+ Bxf8 65. Nxf8 Rd6 {A very
+nice victory for the young Albert Tomasi.} 0-1
+
+[Event "4th Purtichju Open 2017"]
+[Site "Porticcio FRA"]
+[Date "2017.07.03"]
+[Round "3.6"]
+[White "Maurizzi, Marc Andria"]
+[Black "Libiszewski, F."]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "1841"]
+[BlackElo "2542"]
+[SetUp "1"]
+[FEN "7k/1pr1nqbp/p2p4/P4p1N/5P2/2p1R2P/4Q1PK/2B5 b - - 0 51"]
+[PlyCount "28"]
+[EventDate "2017.07.02"]
+[SourceDate "2013.11.21"]
+
+{Black has been better for a long time but lost the track of the game at
+some point and now the position starts to be unclear.} 51... Ng8 {Probably not
+the best} 52. Nxg7 $1 Qxg7 53. Rg3 Qf6 54. Qd3 c2 $4 {A terrible blunder,
+opening the dangerous a1-h8 diagonal.} (54... h6 {with the idea to give the h7
+square for the king was necessary}) 55. Qb3 $1 {threatening Bb2 and Qxg8 mate.}
+Rg7 56. Bb2 c1=Q 57. Bxc1 (57. Rxg7 $1 {was even more precise.} Kxg7 58. Qxb7+
+$1 Kf8 59. Bxc1 $18) 57... Rxg3 58. Kxg3 Qg7+ $2 (58... Qe7 $1 59. Qd5 $16) 59.
+Kh2 {Now it's totally over, as Bb2 is coming.} Nf6 60. Bb2 Qh6 61. Qe6 Kg7 62. Qe7+
+Kg8 63. Qxf6 Qxf4+ 64. Kg1 Qe3+ 65. Kh1 $1 {and Black resigned. There is no
+perpetual. A fantastic result for ten-year-old Marc Andria Maurizzi!}
+1-0
+
+[Event "4th Purtichju Open 2017"]
+[Site "Porticcio FRA"]
+[Date "2017.07.03"]
+[Round "3.4"]
+[White "Geuss, P."]
+[Black "Krasenkow, M."]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[WhiteElo "2234"]
+[BlackElo "2630"]
+[SetUp "1"]
+[FEN "4r3/p2q1kp1/1pnP2Np/2p1pp1P/2P1n3/1P4P1/PB2QPK1/3R4 w - - 0 33"]
+[PlyCount "43"]
+[EventDate "2017.07.02"]
+
+{[#] Black has been in trouble for a while and it won't get any better soon.} 
+33. Rd5 $1 Kg8 34. Bxe5 $5 {A very interesting exchange sacrifice.} (34. Qd1 $1
+{was even stronger; the next move is Nxe5.}) 34... Nc3 35. Qd3 Nxd5 36. Qxd5+ Kh7
+37. Bf4 $6 (37. a3 $16) 37... Nd8 $2 (37... Nb4 $1 38. Qd2 Nc6 $1 {was the
+best but I guess Krasenkow didn't want to repeat moves.}) 38. Ne7 Rf8 39. f3
+Qe6 40. Qd3 (40. Kf2 $1 $16) 40... Qf6 41. Ng6 Re8 42. Ne7 Ne6 $6 (42... Rf8 $1
+$11) 43. Nxf5 Nxf4+ 44. gxf4 Kh8 45. Ne7 $2 (45. d7 $1 {was just winning on
+the spot} Rd8 46. Qe4 $18 {threatening Qe8+ followed by Ne7.}) 45... Rd8 $2 (
+45... Rxe7 46. dxe7 Qxe7 47. Qe4 $14 {was just slightly better for White.}) 46.
+Ng6+ Kg8 47. Qd5+ $6 (47. d7 $1 $18 {followed by Ne5 was also winning.}) 47...
+Kh7 $6 48. d7 $1 Qb2+ 49. Kg3 Qb1 50. Qf7 Qg1+ 51. Kh3 Qh1+ 52. Kg3 $4 Qg1+ 53.
+Kh3 Qh1+ 54. Kg3 $4 {and a draw by repetition was agreed. In every good
+tournament there is some critical moment and it was definitely an important
+save for the future winner of the event.} (54. Kg4 $1 {was just winning:} Qg2+
+55. Kf5 Qxf3 (55... Qh3+ 56. Ke4 $18 {and the pawn on d7 is a taboo due to the
+fork on f8.}) 56. Ke6 $1 $18 {and the king will find some shelter on c7 or e7.}
+) 1/2-1/2
+
+[Event "4th Purtichju Open 2017"]
+[Site "Porticcio FRA"]
+[Date "2017.07.05"]
+[Round "5.3"]
+[White "Krasenkow, M."]
+[Black "Safarli, E."]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "2630"]
+[BlackElo "2641"]
+[SetUp "1"]
+[FEN "8/5p2/5k2/1n1P3P/3r4/6K1/2B1R3/8 b - - 0 59"]
+[PlyCount "8"]
+[EventDate "2017.07.02"]
+
+{White was pressuring for almost the entire game but finally Black could
+have secured a draw} 59... Rxd5 $6 (59... Kg7 $1 $11 {was the best way to play.
+Stopping the h-pawn and the d5 pawn will fall anyway.}) 60. h6 $1 Rh5 $4 {
+A terrible blunder.} (60... Nd4 $1 61. Rf2+ $1 Ke5 $1 62. h7 Rd8 63. Bd3 f5 $1
+64. Rh2 Rh8 65. Bc4 Kf6 {and Black should be able to hold.}) 61. Rf2+ $1 Kg5
+62. h7 {threatening Rf5+} Nd4 63. Rh2 {and there is nothing to do against the
+h-pawn. After this victory Krasenkow took the lead of the tournament and kept
+it to the very end.} 1-0
+
+[Event "4th Purtichju Open 2017"]
+[Site "Porticcio FRA"]
+[Date "2017.07.05"]
+[Round "6.4"]
+[White "Cornette, M."]
+[Black "Antonio, V."]
+[Result "1-0"]
+[ECO "E90"]
+[WhiteElo "2606"]
+[BlackElo "2408"]
+[SetUp "1"]
+[FEN "2rr2kb/1bq2p1p/pp1ppnpB/2n5/2PNP2Q/1PN3PP/P4PB1/3RR1K1 b - - 0 20"]
+[PlyCount "18"]
+[EventDate "2017.07.02"]
+
+{[#]} 20... e5 $2 {Black played this suicidal move in a difficult position.}
+21. Nf5 $1 {of course the knight is a taboo.} Ne6 22. Nd5 $1 Bxd5 (22... Nxd5 {
+was losing after} 23. cxd5 $1 gxf5 24. dxe6 $1 fxe6 25. exf5 Bxg2 26. fxe6 $1 {
+A nice intermediate move.} Bb7 27. Qg5+ Bg7 28. e7 $18) 23. cxd5 Nf8 24. Qg5 $1
+Qd7 {Blackâ€™s pieces are stuck but White has to find a way to make some progress.}
+25. h4 $1 {planning Bh3} (25. Rc1 $6 {is tempting but it gives Black some
+counter-chances after} Nxd5 $1 26. exd5 Qxf5 {and it's not that clear.}) 25...
+Re8 26. Bh3 Nh5 {Finally Black can move a piece but it's losing material:} (
+26... Rc5 {was the best but White can increase his advantage in many ways,
+for example:} 27. Kg2 {to protect the bishop.} Qc7 28. Rc1 $1 a5 29. a3 $1 $18
+{followed by b4. White is winning.}) 27. Ne7+ $1 Qxe7 28. Qxe7 Rxe7 29. Bxc8 1-0
+
+[Event "4th Purtichju Open 2017"]
+[Site "Porticcio FRA"]
+[Date "2017.07.08"]
+[Round "9.1"]
+[White "Krasenkow, M."]
+[Black "Jones, G."]
+[Result "1-0"]
+[ECO "A15"]
+[WhiteElo "2630"]
+[BlackElo "2660"]
+[PlyCount "71"]
+[EventDate "2017.07.02"]
+
+{Before the last round Krasenkow was leading with 7/8 and Gawain Jones was
+sole second with 6.5/8.} 1. Nf3 Nf6 2. c4 Nc6 {The Tango opening! The British
+player was definitely looking for a real fight.} 3. d4 e6 4. a3 {to prevent
+Bb4.} d6 5. Nc3 g6 6. e4 Bg7 7. Be2 O-O 8. O-O Re8 $5 {A thematic move. The
+idea is to play e5, then to put the Nc6 on d4.} 9. d5 $5 exd5 10. cxd5 Ne7 11.
+Bf4 c6 $1 {both players know what they are doing. Black has to contest
+White's center.} 12. Re1 (12. dxc6 Nxc6 $1 $13) 12... cxd5 13. exd5 Nf5 $6 (
+13... a6 $11 {was better, followed by b5 and Bb7.}) 14. Qb3 $1 Nd7 15. Bb5
+Rxe1+ 16. Rxe1 Nc5 17. Qc4 Bd7 18. g4 $1 {Even if draw was enough to win the
+tournament Krasenkow is playing for a win! It's the best move.} Bxb5 $2 {
+The beginning of Black's problems.} (18... Bxc3 {I guess this move was rejected
+because of} 19. Qxc3 $1 Bxb5 20. gxf5 $14 {with good play on the dark squares.}
+) (18... Nh4 $1 {was probably best.} 19. Nxh4 Qxh4 20. Bxd6 Bxc3 $1 21. bxc3
+Bxb5 22. Qxb5 Qxg4+ 23. Bg3 Rc8 $13 {and even if White has the initiative the
+position is probably holdable.}) 19. Nxb5 a6 20. Nxd6 $1 Nxd6 21. Qxc5 Bf8 22.
+Qd4 $16 {White has now a healthy pawn up. But the game is not over. It's never
+easy to convert such an advantage when the pawn is blocked.} Rc8 23. Nd2 Bg7
+24. Qd3 Bxb2 $2 {Too greedy. Black should have continued the waiting policy.}
+25. Bxd6 $1 Qxd6 26. Nc4 Qf6 (26... Rxc4 27. Qxc4 $18) 27. Nxb2 Qxb2 28. d6 $1
+{The d-pawn is too strong.} Rd8 29. d7 Kg7 30. Qd5 $1 Qb5 31. Qd4+ Kh6 32. Re5
+$1 Qc6 (32... Rxd7 33. Qf4+ $18) (32... Qxd7 33. Rh5+ $1 {A very nice point!}
+gxh5 34. Qf6#) 33. Re7 Qc1+ 34. Kg2 Qc6+ 35. Kg3 f6 36. g5+ {A well
+deserved win for the Polish grandmaster.} 1-0
+

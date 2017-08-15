@@ -1,0 +1,55 @@
+[Event "5th Sinquefield Cup 2017 GCT"]
+[Site "Saint Louis"]
+[Date "2017.08.05"]
+[Round "5"]
+[White "Anand, Viswanathan"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[ECO "A29"]
+[WhiteElo "2783"]
+[BlackElo "2807"]
+[Annotator "Sagar Shah"]
+[PlyCount "57"]
+[EventDate "2017.??.??"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Bc5 7. O-O O-O 8.
+d3 Bb6 9. Bd2 Bg4 10. Rc1 Nxc3 11. Bxc3 Re8 12. b4 Qd6 13. Nd2 Qh6 14. Nc4 Qh5
+15. Rc2 Rad8 {Black has a fine position here. Anand thought for a long time on
+how he could wriggle out of the pressure without making positional concessions.
+Not finding any way out, he took the bishop on b6 and played f3. While it
+looks ugly, it also means that White doesn't have to many things to worry
+about.} 16. Nxb6 (16. Re1 {is what Anand wanted to play.} Re6 17. b5 Bxf2+ $1 {
+This move casts a doubt on White's entire play.} (17... Rh6 18. h4 g5 19. bxc6
+gxh4 20. Bxe5 $18 {White wins as he gets the bishop to protect all the squares
+around his king.}) 18. Kxf2 Qxh2 {And even though White king can run to the
+queenside it all looks really bad.} 19. Rg1 Rf6+ 20. Ke3 Qh6+ $1 $19 {Game
+over.}) 16... cxb6 17. f3 {Anand wasn't too happy to make this move, but with
+this he no longer has to worry about the pressure on the e2 pawn.} Be6 18. Qd2
+b5 (18... Nd4 19. Bxd4 exd4 $15 {would have been the best way for Caruana to
+play.}) 19. f4 Bg4 $2 {[%cal Ge6g4] This is the start of Anand's combination.
+He had seen many times that Bg4 was not possible, but still Fabiano had played
+it. Rather than doubting himself, Anand went ahead with what he had calculated.
+} 20. Bxc6 $1 bxc6 21. fxe5 {So White is a pawn up. What did Black under his
+sleeve? Well Fabiano once again surprised Anand with the move that the latter
+had thought was impossible.} f6 $2 {[%cal Gf7f6] This is a clear mistake, but
+when you have said A (Bg4), you must say B.} 22. exf6 $1 Rxe2 {[%cal Ge8e2] It
+looks like mate, just that it isn't.} 23. f7+ Kf8 {[%cal Gc3g7]} 24. Bxg7+ Kxg7
+25. Qc3+ Re5 {[%cal Ge2e5] Fabi went ahead with this move as he had not seen
+Anand's next move.} (25... Qe5 {was the best defense for Black.} 26. Rxe2 Qxc3
+27. Re8 Qd4+ (27... Qxb4 $2 28. Rxd8 $18) 28. Rf2 $1 Qxb4 29. f8=Q+ (29. Rxd8
+Qe1+ 30. Rf1 (30. Kg2 $2 Bh3+ $1 31. Kxh3 Qxf2 $19) 30... Qe3+ $11) 29... Qxf8
+30. Rfxf8 Rxd3 31. Rg8+ Kf7 32. Ref8+ (32. Rd8 Bd7 $1 {This is the move that
+Caruana had missed and the reason why he didn't play this variation.}) 32...
+Ke7 33. Ra8 h5 34. Rxa7+ Ke6 $16 {And according to Anand, he was not even sure
+if he was winning here. "The technical task is just too huge", said Vishy. If
+the bishop gets to d5, Black would not even be worse. Objectively speaking
+White is better here, but the win is not so clear.}) 26. Qd4 $3 {[%cal Gc3d4]
+A brilliant move. As Anand said, this is easy to miss. It changes nothing as
+the rook on e5 is still pinned. The main idea is to vacate the c5 square for
+the rook.} (26. h3 {was what Fabiano had calculated} Bd1 {was the American
+player's idea. It's at least a mess, Fabiano thought.} (26... Bxh3 27. Rh2
+{White is winning here.})) 26... Qg5 27. Rc5 $1 {[%cal Gc2c5]} Rxd4 {Fabiano
+allows White to queen. By now he had realized that it was all over.} (27...
+Qe3+ 28. Qxe3 Rxe3 29. Rg5+ Kh6 30. Rg8 $18) 28. f8=Q+ Kg6 29. Qf7+ {A great
+win by Anand which will surely make it to his best games collection in the
+future.} 1-0

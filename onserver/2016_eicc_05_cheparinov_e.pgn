@@ -1,0 +1,46 @@
+[Event "17th ch-EUR Indiv 2016"]
+[Site "Gjakova KOS"]
+[Date "2016.05.16"]
+[Round "5.10"]
+[White "Cheparinov, Ivan"]
+[Black "Pantsulaia, Levan"]
+[Result "1-0"]
+[ECO "A67"]
+[WhiteElo "2685"]
+[BlackElo "2613"]
+[Annotator "Marco Baldauf"]
+[PlyCount "111"]
+[EventDate "2016.05.12"]
+[Source "GM Rep 1 - 1.d4"]
+[SourceDate "2011.01.01"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. Bd3 Qh4+ $5 {Black "sacrifices" a whole tempo to provoke White to
+weaken himself with g3 - a risky concept, particularly so because Black's
+queenside is not developed.} 10. g3 Qd8 11. Nf3 O-O 12. O-O Nf6 (12... a6 {
+this helps Black because after} 13. a4 Nf6 14. Qb3 {he has} Bh3 {e.g.} 15. Re1
+Ng4 16. Qxb7 Nd7 $44 {and Black can dream of lines such as} 17. a5 Qe7 18. Bd2
+$4 Nde5 19. Qxe7 Nxf3+ 20. Kh1 Nf2#) 13. Qb3 Na6 (13... a6 14. e5 $1) (13...
+Bh3 14. Re1 Ng4) 14. e5 Nd7 15. e6 Nb6 (15... c4 $1 {sacrifices a pawn to get
+the square c5 and a tempo - usually a good bargain in such positions.} 16. Bxc4
+Nac5 17. Qd1 Nb6 18. Bb3 fxe6 19. dxe6 Bxe6 $13) 16. f5 $1 {[#] A wonderful
+Benoni move: White frees the diagonal for the Bc1 and weakens Black's
+structure.} c4 17. Bxc4 Nc5 18. Qb4 gxf5 19. Bg5 (19. Re1 $5 {and it is not
+clear how Black can continue.} Qf6 20. Bf4 Ne4 21. Bb3 $16) 19... Bf6 20. Bxf6
+Qxf6 21. Rae1 fxe6 22. dxe6 Bxe6 23. Bxe6+ Nxe6 24. a4 $16 {White has the
+better structure, more active pieces, no weaknesses and his king is safer.} Nc5
+25. a5 {Giving White's knight access to d5.} Nbd7 26. Nd5 Qg7 27. Ne7+ (27. Re7
+Rf7 28. Qh4 Raf8 29. Nd4 $16) 27... Kh8 28. Nh4 f4 (28... Nd3 $1 29. Nhg6+ hxg6
+30. Qh4+ Qh7 31. Nxg6+ Kg8 32. Qxh7+ Kxh7 33. Nxf8+ Nxf8 $1 $11) 29. Nhf5 Qf6
+30. Rd1 $1 {Avoiding possible forks and attacking d6.} fxg3 31. hxg3 Na6 32.
+Qb5 Ndc5 33. Rxd6 Qe5 34. Rd5 Qf6 35. Qe2 {White is winning - just have a look
+at the differences between the white and the black pieces.} Rad8 36. Ng6+ $1 {
+leitet in ein gewonnenes Endspiel über} (36. Rxd8 {would have been objectively
+better and the engine informs that White would mate in 12 - but chess wisdom
+has it that if you see a mate or a way to win the queen it might be better and
+safer to take the queen.} Rxd8 37. Nd5 Qe6 $8 38. Qg4 Qe5 39. Nh6 $18 Qg7 40.
+Nf7+ Kg8 41. Ne7+ Kf8 42. Nxd8+) 36... hxg6 37. Qh2+ Kg8 38. Nh6+ Kg7 39. Rxf6
+Rxd5 40. Rxf8 Kxf8 41. Qf2+ Ke7 42. Qf7+ Kd6 43. Qxg6+ Kc7 44. Qf7+ Kc6 45. Qf3
+Nb4 46. Nf5 Kb5 47. g4 Rd3 48. Qe2 Kxa5 49. g5 Rd5 50. Qf3 Rd3 51. Qf4 Rd1+ 52.
+Kh2 Nbd3 53. Qc7+ Kb4 54. g6 Rd2+ 55. Kh3 Rf2 56. g7 1-0
+

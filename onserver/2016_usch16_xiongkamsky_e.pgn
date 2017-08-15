@@ -1,0 +1,44 @@
+[Event "ch-USA 2016"]
+[Site "Saint Louis USA"]
+[Date "2016.04.18"]
+[Round "5.5"]
+[White "Xiong, Jeffery"]
+[Black "Kamsky, Gata"]
+[Result "1-0"]
+[ECO "B03"]
+[WhiteElo "2618"]
+[BlackElo "2678"]
+[Annotator "AS"]
+[PlyCount "75"]
+[EventDate "2016.04.14"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 ({The other option is} 5...
+exd6 6. Nc3 Be7 7. Bd3 Nc6 8. Nge2 Bg4 9. f3 Bh5 10. O-O $14) 6. Nc3 g6 {
+Black still has to find a way to reach full equality in the exchange variation
+of Alekhine's Defense - even though this game gives a different impression.} 7.
+Be3 Bg7 8. Rc1 O-O 9. b3 Bf5 ({The main line is} 9... Nc6 10. d5 Ne5 11. Be2 f5
+12. f4 Ng4 13. Bxg4 fxg4 14. Nge2 e5 15. dxe6 Bxe6) ({Black also tried} 9... e5
+{in this position.}) 10. d5 $5 ({After} 10. Nf3 d5 11. c5 {Black scored rather
+well.}) 10... e5 11. dxe6 Bxe6 12. Nge2 (12. Nf3 Nc6 $11) 12... d5 (12... Nc6
+$5 13. Nf4 d5) 13. c5 {[#]} Nc6 $1 {Tricky!} 14. Nd4 (14. cxb6 d4 $15) 14...
+Bxd4 15. Bxd4 Re8 $6 ({The immediate} 15... Qh4 $1 {was stronger:} 16. cxb6 (
+16. Be3 d4) 16... Nxd4 17. g3 Qf6 $17) 16. cxb6 Qh4 17. Ne2 axb6 {Black
+sacrificed a piece for which he has a lot of compensation, first of all
+because White has big problems to finish his development.} 18. Qd2 Bf5 19. Kd1
+$6 (19. Rd1 {with the idea to play Be3 was the alternative. Black might
+continue with} Bc2 ({or} 19... Rac8 20. Be3 Nb4) 20. Qxc2 Nxd4 {and White
+still has to defend carefully.}) 19... Rxe2 20. Bxe2 Nxd4 ({After} 20... Qxd4
+21. Qxd4 Nxd4 22. Bf3 Nxf3 23. gxf3 Rxa2 $17 {is an exchange down but has a
+strong passed pawn on the d-file. The engines see a clear advantage for Black.}
+) 21. f3 Qf2 22. Re1 (22. Rf1 {more or less forces Black to liquidate into an
+equal ending:} Qxe2+ 23. Qxe2 Nxe2 24. Kxe2 Rxa2+ 25. Ke3 Rxg2 26. Rf2 d4+ 27.
+Ke2 d3+ 28. Ke3 Rxf2 29. Kxf2 d2 30. Rd1 Bc2 31. Rxd2 Bxb3 32. Rd7 b5 33. Rxb7
+Bc4 $11) 22... Be6 23. Rc3 Nc6 24. Bf1 Qh4 25. Bb5 Nd4 26. Bf1 {Quietly
+offering a draw - but Black wants to continue.} Nf5 (26... Nc6 27. Bb5) 27. Rd3
+d4 28. g3 Qf6 29. Ke2 Bd7 30. a4 b5 31. a5 Bc6 32. Kf2 Ne3 33. Be2 Rd8 34. Kg1
+{It took some time and a lot of effort but White finally managed to bring his
+king to some reasonably safe place.} Kg7 (34... Bxf3 $4 35. Bxf3 Qxf3 36. Rdxe3
+$18) 35. Bd1 {[#]} Bxf3 $4 {A black-out that costs the game.} (35... h5 $13)
+36. Bxf3 Qxf3 37. Rexe3 (37. Rxd4 $18) 37... dxe3 38. Qb2+ (38. Qb2+ Kh6 39.
+Rxd8 e2 40. Qc1+ g5 41. Re8 $18) 1-0
+

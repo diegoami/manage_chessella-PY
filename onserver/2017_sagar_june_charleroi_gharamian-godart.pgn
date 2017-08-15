@@ -1,0 +1,68 @@
+[Event "TIPC"]
+[Site "?"]
+[Date "2017.07.31"]
+[Round "4.3"]
+[White "Gharamian, Tigran"]
+[Black "Godart, François"]
+[Result "1-0"]
+[ECO "C07"]
+[WhiteElo "2616"]
+[BlackElo "2411"]
+[Annotator "Sagar Shah"]
+[PlyCount "105"]
+[EventDate "2017.??.??"]
+
+1. e4 e6 2. d4 d5 {Godart loves the French Defence.} 3. Nd2 c5 4. Ngf3 cxd4 5.
+Nxd4 Nc6 6. Bb5 Bd7 7. Nxc6 bxc6 8. Bd3 Bd6 9. Qe2 Qb8 {Although the move is
+pretty weird, it has been seen in four games before.} 10. Nf3 Ne7 11. e5 Bc7 12.
+O-O Ng6 13. Re1 O-O 14. Ng5 {Until now we had been following the game Thomas
+Luther vs Ekaterina Jussupow. This is the first new move of the game. White is
+basically trying to provoke a weakness on Black's kingside.} Qe8 15. Bd2 (15.
+Qh5 h6 16. Nxf7 $2 Qxf7 17. Bxg6 Qxf2+ $19) 15... h6 16. Nf3 c5 {Black seems
+to have a pretty fine postion out of the opening.} 17. b4 $5 {An interesting
+concept by Tigran. In one move, he is trying to activate his dark squared
+bishop and also secure the d4 square for his knight.} Qe7 (17... c4 $5 18. Bxg6
+fxg6 {It's important to assess this position correctly, if you have to make
+the move ...c4 as Black. It turns out that Black is doing fine here and
+although White has a grip on the dark squares, Black can play around it and
+have no real issues.} 19. Nd4 g5 $15) 18. bxc5 Qxc5 19. h4 Rab8 20. h5 Ne7 21.
+Rec1 Rb2 22. Be3 Qa5 23. Bd4 {[%csl Gd3,Gd4,Gf3] This is one thing I like
+about strong players. They always get their pieces to the best squares. The
+only thing left on White's agenda is to engineer the c4 breakthrough.} Rbb8 24.
+c4 Nc6 (24... Bb6 $5) 25. cxd5 exd5 {Everything looks good for White except
+for the part that the knight on c6 is going to take the beautiful d4 bishop.
+Well, for Tigran this was enough to get rid of the pesky knight from the board!
+} 26. Rxc6 $5 {objectively does not give White a winning position, but puts
+Black in a very precarious situation. He has to find all the accurate moves,
+which is not an easy task.} Bxc6 27. Rc1 (27. e6 {was also an interesting
+option, but Black is better after} Bb5 28. e7 Rfe8 29. Bxb5 Qxb5 $19) 27... Bb5
+28. Bxb5 {Now the queen cannot take, as the c7 bishop would hang.} Rxb5 29. e6 {
+One bishop on d3 has been exchanged, but the bishop on d4 is quite strong and
+the knight will enter f5 via h4. It looks like White has great compensation.}
+Rbb8 {Godart finds the most tenacious defence.} 30. e7 (30. exf7+ Rxf7 31. Qe6
+Rbf8 32. Bxg7 Kxg7 33. Qg6+ Kh8 34. Qxh6+ Kg8 35. Qg6+ $11) 30... Rfe8 31. Nh4
+{[%cal Gf3h4] This is the position which we have given as a test for you.
+White is threatening Nf5 and things could become really dangerous for Black
+after that. So what would you do here?} Bf4 $6 {This is a human move, that
+attacks the c1 rook and prepares Bg5, blocking moves like Qg4. However, Black
+had something better at his disposal than this.} (31... Qb4 $1 {Now this move
+attacking the d4 bishop was seen by both the players and they both rejected it
+because of the simple Nf5. However, it turns out that Black has a winning move!
+} 32. Nf5 Qb1 $3 {Not at all easy to see this double attack! The rook on c1 is
+hanging and so is the knight on f5 and there is simply no way to defend both
+of them.} 33. Nxh6+ {Only way to continue the game.} Kh7 $1 (33... gxh6 34.
+Qg4+ $18) 34. Qf1 Qe4 $17 {White has lost all his coordination and Black is
+just dominating.}) 32. Rd1 $1 Qc7 33. Nf5 Bg5 34. Be5 (34. Bxg7 $44 {was
+pretty strong and would have given White a strong attack.}) 34... Qd7 (34...
+Qc4 $5 35. Qxc4 dxc4 36. Bxb8 Rxb8 37. f4 Bf6 38. Rd7 $14 {White is pushing
+here.}) 35. Qg4 Kh7 36. Bxb8 Rxb8 37. Nxh6 (37. Qf3 $1 {As rightly pointed by
+Tigran was a strong move with the very nice point that after} Bxe7 {White has
+the strong} 38. Nxg7 $1 $16 {And the knight cannot be taken because of Qg3+} (
+38. Qg3 $6 Rg8 $13)) 37... Qxe7 (37... Qxg4 38. Nxg4 Bxe7 39. Rxd5 $14 {
+Black should have tried to hold this endgame. Not a fun task, but chances are
+not bad.}) 38. Nxf7 Qxf7 39. Qxg5 Rb2 40. f3 Rxa2 41. Qxd5 {Tigran calculates
+that this endgame with 3 vs 1 on the same side is winning for him.} Qxd5 42.
+Rxd5 Kh6 43. Kh2 a5 44. Kh3 a4 45. Ra5 Rb2 46. g4 Rb3 47. Kg3 a3 48. Ra6+ Kh7
+49. g5 Rb1 50. Rxa3 Rh1 51. Kg4 Rg1+ 52. Kf5 Rg3 53. Rb3 {A very interesting
+and rich struggle.} 1-0
+

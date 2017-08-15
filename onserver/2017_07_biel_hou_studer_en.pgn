@@ -1,0 +1,44 @@
+[Event "50th Biel GM 2017"]
+[Site "Biel SUI"]
+[Date "2017.07.25"]
+[Round "2"]
+[White "Hou Yifan"]
+[Black "Studer, N."]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "2666"]
+[BlackElo "2493"]
+[PlyCount "114"]
+[EventDate "2017.07.23"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nf3 h6 7. Nxf6+ Nxf6
+8. Bh4 c5 9. c3 ({White usually develops the bishops here, e.g.:} 9. Bb5+ Bd7
+10. Bxd7+ Qxd7 11. Qe2 Be7 12. dxc5 O-O 13. O-O Bxc5 14. Ne5 Qd4 15. Bxf6 gxf6
+16. Nd3 Bd6 17. Qf3 b6 18. c3 Qh4 19. g3 Qg5 20. Rad1 f5 21. Ne1 Bc5 22. Nc2
+Rfd8 23. Nd4 Bxd4 24. Rxd4 e5 25. Rdd1 e4 26. Qe3 Rac8 27. Kg2 Kh7 28. Qe2 Qe7
+29. Qe3 Rd7 30. Qf4 Qe6 31. Rxd7 Qxd7 32. f3 exf3+ 33. Rxf3 Rc5 34. b4 Rd5 35.
+c4 Rd2+ 36. Rf2 Qc6+ 37. Kh3 Rxf2 38. Qxf2 Qxc4 39. Qxf5+ Kh8 40. a3 Qc3 41.
+Qxf7 Qxa3 42. Qf8+ Kh7 43. Kg4 Qa2 44. Qe7+ Kg6 45. Qe4+ Kf6 46. Qf5+ {1/2-1/2
+(46) Almasi,Z (2685)-Meier,G (2664) Paks 2009}) 9... Bd7 ({is more common} 9...
+cxd4 10. Nxd4 Be7) 10. Bd3 (10. Ne5 Qc7 11. Qf3 Ba4 12. Be2 Be7 13. O-O O-O 14.
+Bg3 Bd6 15. b3 Be8 16. Rac1 Rc8 17. Qe3 Nd5 18. Qd2 Qe7 19. c4 Nb4 {1/2-1/2 
+(19) Oskulski,J (2491)-Werner,G (2377) ICCF email 2009}) 10... cxd4 11. Nxd4
+Bd6 12. Qe2 Qa5 {Black prevents long castling.} 13. Nf5 Bf8 14. Ne3 $6
+(14. O-O $5) 14... Bc6 15. Nc4 (15. Bxf6 gxf6 16. O-O O-O-O {is double-edged in light of the half-open g-line.}) 15... Qh5 16. Qxh5 Nxh5 $11 17. f3 g5
+18. Bf2 Nf4 19. Bf1 g4 (19... Bg7 20. Bc5 b6 21. Ba3 Bf8 22. Nd6+ Bxd6 23. Bxd6
+O-O-O $11) 20. Ne5 gxf3 21. gxf3 Bd6 22. Nxc6 bxc6 23. O-O-O Nd5 24. Kc2 $14 {
+The bishop pair offers a slight advantage.} Bf4 25. Re1 a5 26. a3 Rg8
+27. c4 Ne7 28. Bb6 Nf5 29. Re4 e5 30. Bh3 Nd6 {Hou Yifan now gives up the exchange but with significant compensation in return. The alternative would be to jettison the c4 pawn and try to hold the ending.} 31. Rxf4 exf4 32. Kc3 Rg5 33. Re1+ Kf8 34. Bd7 {
+Now an extremely complex endgame arises.} c5 (34... Ra6 35. Bd8 Rg6 36.
+c5 Nb5+ 37. Kc4 {and the bishop would be very strong.}) 35. h4 Rh5 36. Bc7 Nf5
+37. Bxf4 ({More engine-like is} 37. Re5 Ng3 38. Bd6+ Kg7 39. Rxh5 Nxh5 40. Bxc5 $14) 37...
+Rd8 38. Ba4 (38. Bxf5 Rxf5 39. Bxh6+ {also comes into consideration.}) 38... Rxh4
+39. Be5 ({better was} 39. Bc7 Rc8 40. Bb6) 39... Rh3 40. Bc6 {[#]} Nd4 ({after} 
+40... f6 $1 {White would have big problems finding safe squares for her pieces.
+} 41. Bf4 (41. Bxf6 Rd6 $19) 41... Nd4 42. Bb7 (42. Bd5 Rxd5 43. cxd5 Rxf3+ $19
+) 42... a4 43. Be4 Nxf3 44. Re3 Rd4 $19) 41. Bxd4 cxd4+ 42. Kd3 Rh2 43. Rb1 h5
+44. Bd5 a4 45. b3 h4 46. bxa4 h3 47. Kxd4 Rg2 48. Rh1 h2 49. a5 Rd6 50. f4 Ra2
+51. Kc5 {[#]} Rg6 $2 ({Mit} 51... Rh6 {Black keeps the pawn on h2 covered. On
+} 52. Bc6 {now} Rxa3 {without losing the h-pawn.}) 52. Bc6 {a4 is now a strong threat. After this the passed a-pawn can run.} Rxa3 {wraps up the draw.} 53. Rxh2 Rxa5+ 54. Bb5 Ra1 55. Rf2 Rgg1 56. Kb6 Raf1 57. Rxf1
+Rxf1 1/2-1/2
+

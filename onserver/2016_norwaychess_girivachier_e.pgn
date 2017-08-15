@@ -1,0 +1,52 @@
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.20"]
+[Round "2"]
+[White "Giri, A."]
+[Black "Vachier Lagrave, M."]
+[Result "0-1"]
+[ECO "B96"]
+[WhiteElo "2790"]
+[BlackElo "2788"]
+[PlyCount "56"]
+[EventDate "2016.04.18"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Qb6 {The Poisoned Pawn variation with 7...h6 is a pet line of Vachier-Lagrave.}
+9. a3 ({The alternative is} 9. Qd2 Qxb2 10. Rb1 Qa3 {z.B.:} 11. Bxf6 gxf6 12.
+Be2 Nc6 13. Nxc6 bxc6 14. O-O Bg7 15. Kh1 O-O 16. Rb3 Qa5 17. Qxd6 Rd8 18. Qa3
+Qxa3 19. Rxa3 Rb8 20. Bd3 Bf8 21. Rb3 Rb4 22. Rxb4 Bxb4 23. Na4 a5 24. Rb1 c5
+$15 {0-1 (44) Grischuk,A (2783)-Vachier Lagrave,M (2745) Beijing 2013}) 9...
+Be7 10. Bf2 Qc7 11. Qf3 Nbd7 (11... b5 12. g4 Nc6 13. O-O-O Bb7 14. h4 d5 15.
+e5 Ne4 16. Nxe4 dxe4 17. Qc3 Rc8 18. Rh3 b4 19. axb4 Nxb4 20. Qxc7 Rxc7 21. f5
+O-O 22. Be1 Bd5 23. g5 Rfc8 24. Bxb4 Bxb4 25. f6 Kh7 26. c3 gxf6 27. gxf6 Rg8
+28. Bxa6 Bc5 29. Nb5 Rc6 30. Bb7 Rb6 31. Bxd5 exd5 32. Nd4 Bxd4 33. cxd4 Rg2
+34. Rd2 Rxd2 35. Kxd2 Kg6 36. b3 Kf5 37. Rg3 Kf4 38. Rg1 e3+ 39. Kd3 Rxb3+ 40.
+Kc2 Rb6 41. Kd3 Rb3+ 42. Kc2 Rb6 43. Kd3 {1/2-1/2 (43) Grischuk,A (2750)
+-Vachier Lagrave,M (2765) London 2015}) 12. O-O-O (12. Bd3 b5 13. O-O Bb7 14.
+Qh3 O-O 15. Rae1 Rfe8 16. Kh1 Nc5 17. Bh4 Nxd3 18. cxd3 Qc5 19. Bf2 Qh5 $11 {
+0-1 (61) Solak,D (2611)-Vachier Lagrave,M (2742) Rhodes 2013}) 12... b5 13. g4
+g5 (13... Bb7 14. Bg2 Rc8 15. Kb1 g5) 14. h4 gxf4 15. Be2 Rg8 (15... Ne5 16.
+Qxf4 Nexg4 17. Bxg4 e5 18. Nd5 Nxd5 19. Qf3 Bxg4 20. Qxg4 Nf6 21. Qf3 Rc8 22.
+c3 Rg8 23. Nf5 a5 24. Rhg1 Rxg1 25. Bxg1 b4 26. axb4 axb4 27. Nxd6+ Bxd6 28.
+Qxf6 bxc3 29. b4 Bxb4 30. Bb6 Qe7 31. Qh8+ Qf8 32. Qxe5+ Qe7 33. Qh8+ Qf8 34.
+Qd4 Qe7 35. Kc2 Qe6 36. Qxb4 Qa2+ 37. Kd3 Qa6+ 38. Ke3 c2 39. Rc1 Rb8 40. Rxc2
+{1/2-1/2 (40) Nekhaev,A (2535)-Yamaliev,V (2477) ICCF email 2013}) {[#]} 16.
+Rdg1 $2 {This move looks natural enough but a few moves later White is busted.}
+(16. g5 {has been extensively analysed by the engines - as you can see in
+Let'sCheck - and seems to be quite promising for White.} Ne5 17. Qxf4 hxg5 18.
+hxg5 Nfd7 19. Nxe6 $5 fxe6 20. Rh7 $16 {threatening Bh5 and g6.}) 16... d5 $1 (
+16... Ne5 17. Qxf4 {yields Black nothing.}) 17. exd5 Ne5 (17... Bb7 $5 18. Nc6
+Bf8 $17) 18. Qh3 (18. Qxf4 {now fails to} Nd3+) (18. Qg2 Bb7 $19) 18... exd5
+19. Re1 $6 (19. Bf3 b4 20. axb4 Bxb4 21. Nxd5 Nd3+ $17) 19... Kf8 {The black
+king sidesteps the x-rays coming from White's rook on e1.} (19... h5 $5 {
+is a also good as the following long engine-line shows:} 20. Nf5 hxg4 21. Bxg4
+Rxg4 22. Bd4 {Attacking the Ne5, which cannot move.} Bxf5 (22... Rg3 {is also
+possible but even more complicated.}) 23. Bxe5 Qxe5 24. Rxe5 Rg1+ 25. Qf1 Rxf1+
+26. Rxf1 Be6 27. Rxf4 $19) 20. Nf5 ({Not good but slightly better was} 20. Nb3
+h5 $19) 20... Bxf5 21. gxf5 Bc5 ({Or} 21... Bxa3 22. Nxd5 Bxb2+ 23. Kxb2 Nxd5
+$19) 22. Qf1 (22. Bxc5+ Qxc5 {threatening d4 and Rg3xc3.}) 22... d4 23. Nb1 Ne4
+24. Bf3 (24. Bd1 Ng3 $19) 24... Nxf2 25. Bxa8 {[#]} Ned3+ 26. Kd2 (26. cxd3
+Bxa3+ 27. Kd2 Bb4+ $19) 26... Nxe1 27. Qxf2 d3 28. Qxe1 Be3+ (28... Be3+ 29.
+Kd1 Qxc2#) 0-1
+

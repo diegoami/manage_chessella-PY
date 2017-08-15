@@ -1,0 +1,101 @@
+[Event "Geneva Grand Prix"]
+[Site "?"]
+[Date "2017.07.15"]
+[Round "9"]
+[White "Nepomniachtchi, Ian"]
+[Black "Radjabov, Teimour"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[Annotator "Aleksandr Lenderman"]
+[PlyCount "111"]
+[EventDate "2017.??.??"]
+{Welcome everyone! This is GM Aleksandr Lenderman presenting to you the Game of
+the Day of round nine in the Geneva Grand prix. There were some other
+interesting games this round, besides this draw between the leaders, but in the
+end I decided that since this was a critical game for the final tournament
+standings, and it was an interesting battle, it deserved to be the choice.} 1.
+e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 (3... Bc5 {is also very common leading to the
+traditional Italian Game.}) 4. d3 (4. Ng5 {is also interesting, leading to a
+very sharp game after d5.} d5 5. exd5 Na5 (5... Nxd5 $6 6. Nxf7 Kxf7 7. Qf3+
+Ke6 8. Nc3 $40 {is a very dangerous attack for White, called the Fried Liver
+Attack.}) 6. Bb5+ c6 7. dxc6 bxc6 8. Bd3 {This move has been sort of the new
+main line these days, which leads to very sharp play.} (8. Be2 h6 $44 {Was the
+old main line.})) 4... Bc5 {And now we transpose into the main line.} (4... Be7
+{is an additional line, which has the benefit of being flexible with Nf6
+instead of Bc5.}) (4... h6 $5 {Even this is interesting, which allows the
+opportunity to play with d6 and g6 and Bg7, while stopping Ng5.}) (4... d6 $2
+{Of course is a mistake here, since now White will play...} 5. Ng5 $1 d5 6.
+exd5 Nxd5 (6... Na5 7. Bb5+ c6 8. dxc6 bxc6 9. Ba4 $16 {Here Black barely has
+any compensation for the pawn.}) 7. Nxf7 {And be up a tempo.}) 5. O-O d6 6. c3
+a6 7. a4 O-O 8. h3 h6 {Black deviates from another game Nepomniachtchi played
+before. However, this position after h6 did occur in the game Nepo-Mamedyarov,
+so it's likely that the top Azerbaijan players had studied this position
+together.} (8... Be6 9. Bxe6 fxe6 10. d4 Ba7 11. Re1 exd4 12. cxd4 e5 13. Be3
+d5 14. Nc3 exd4 15. Nxd4 Bxd4 16. Bxd4 Nxe4 17. Nxe4 Nxd4 18. Qxd4 dxe4 19.
+Qxe4 {1/2 (40) Nepomniachtchi,I (2719)-Yu Yangyi (2737) Moscow RUS 2016 Where
+White had a very small pull but Black held in...}) 9. Re1 Ba7 {Deviating from
+Mamedyarov. This is still a very theoretical position though.} (9... Re8 10.
+Nbd2 Be6 11. Bxe6 Rxe6 12. b4 Ba7 13. Qc2 d5 14. Nb3 $14 {1-0 (54)
+Nepomniachtchi,I (2740)-Mamedyarov,S (2761) Moscow RUS 2016 is already a bit
+unpleasant for Black and White later on won a very nice game.}) 10. Nbd2 Ne7
+11. d4 (11. Nf1 $5 {Has been tried a few times by Anish Giri.}) 11... Ng6 12.
+Bf1 Re8 13. Qc2 (13. a5 $5 {has been tried by Kramnik against Radjabov in the
+Olympiad, with a lot of success, but I'm sure Radjabov did a lot of work on
+this position. In general, when top players lose in a certain line they usually
+know it really deeply next time, so very often the next opponents don't go into
+that line, assuming they will be better prepared.} Bd7 14. b4 Bc6 (14... d5
+{Possibly this was Radjabov's improvement.}) 15. d5 Bd7 16. c4 Nf4 17. c5 g5 $6
+(17... dxc5) 18. Nc4 $16 {1-0 (34) Kramnik, V (2808)-Radjabov,T (2722) Baku AZE
+2016 From here White won a very nice game.} ) 13... Nh7 14. dxe5 {This is a
+novelty according to my database.} (14. Nb3 Nh4 15. Nxh4 Qxh4 16. dxe5 dxe5 17.
+Be3 Ng5 18. Bxa7 Rxa7 {0-1 (69) Dragnev,V (2515)-Zilka,S (2523) Lesnica SVK
+2017 And here Black was comfortable and even later on won in ...}) 14... dxe5
+15. Nc4 Qf6 16. Ne3 Ne7 (16... Nf4 {Seems like a reasonable alternative.} 17.
+Nf5 {Would lead to a complex game though, and probably the idea of Ne7 was to
+prevent Nf5.}) 17. Ng4 {Not sure about the objective value of this move.} (17.
+Be2 {Maybe at this point objectively it was better to play a humble move like
+Be2 to try to maintain equality, but of course Nepo needed the win, being a
+half a point behind, so he was willing to take some risks to unbalance the
+game.}) 17... Bxg4 18. hxg4 Ng6 19. Bc4 Rad8 20. a5 $6 (20. Be3 {Again, perhaps
+it was better objectively to steer the game to equalish grounds.}) 20... Nf4
+21. Nh2 $6 {This move makes matters worse for White.} (21. Rf1 {Was objectively
+a better defence but here Black is the only one who can be better.} Ng5 22.
+Nxg5 Qxg5 23. Bxf4 exf4 24. Qe2 c6 {And only Black can be better. White can't
+really dream of winning such a position at an elite level, if Black is ok with
+a draw.}) 21... Rd7 22. Be3 Bxe3 23. fxe3 Ne6 $17 {Now Black is much better.
+White's pawn structure is really spoiled with a pair of doubled isolated
+pawns.} 24. Rf1 Qe7 25. b4 Nhg5 $6 {Here, however, Black lets go of a big
+portion of his advantage. This move wasn't so logical since now the knight on
+e6 isn't as happy, and the knights become redundant.} ( 25... Nf6 $1 26. Rf5
+Qd6 (26... Ng5 {Should also be sufficient.}) 27. Raf1 Ng5 $19 {And Black is
+basically already winning material here.}) 26. Nf3 Nxf3+ 27. gxf3 {Now thanks
+to the threat of the e5 pawn, at least White was able to fix his pawn
+structure. He's still worse with a weak king though and really never risked
+winning the game.} Qg5 28. Rae1 Red8 29. Qh2 Rd2 30. Re2 Rd1 31. Bd5 Rxf1+ 32.
+Kxf1 c6 33. Bxe6 Rd1+ $1 {Important in-between move AKA a 'zwischenzug'.}
+(33... fxe6 34. Rd2 $11 {is just equal.}) 34. Kf2 fxe6 35. Qh5 $1 {White finds
+the best defensive resource here, transposing into a rook endgame with
+excellent drawing chances.} Qxh5 36. gxh5 Kf7 37. Rb2 Rc1 38. Rd2 Ke7 39. Rd3
+Rh1 40. Kg2 Rxh5 41. c4 {White is in time to create counterplay.} Rg5+ 42. Kh2
+Rh5+ 43. Kg2 Rg5+ 44. Kh2 h5 {Black could've forced a draw here, but at this
+moment Grischuk hasn't officially drawn yet, and had Grischuk won, Radjabov
+would've not won clear first. So he still tried to press. Besides Radjabov
+really has no risk here. However, maybe a slightly better way to press was with
+Rg6!?} ( 44... Rg6 $5 45. b5 axb5 $1 46. cxb5 Rf6 $1 {And here after this
+unusual move, Rf6, Black still has some winning chances. However, finding a
+variation like that isn't natural for the human eye, giving White a passed
+pawn, especially when all you really need is a draw, the last thing you want to
+do is to take an unnecessary risk.} (46... cxb5 47. Rb3 $11)) 45. b5 h4 46. Kh3
+(46. bxa6 bxa6 47. c5 Rg3 48. Rd6 Rxf3 49. Rxc6 Rxe3 50. Rxa6 Rxe4 51. Ra7+ $1
+Kd8 $1 52. c6 {Would've also secured a draw, and in fact Black had to play Kd8,
+or else he could even risk losing here, since White's 2 passed pawns are more
+dangerous than Black's 4.}) 46... Rg3+ (46... Rg1 {Might've offered slightly
+better winning chances but I'm pretty sure this should be a draw as well.} 47.
+bxa6 bxa6 48. Kxh4 Ra1 49. Rb3 Rxa5 50. Kg5 Ra1 51. c5 {And White has enough
+counterplay.}) 47. Kxh4 Rxf3 48. bxa6 bxa6 49. c5 {Now the game peters out to a
+draw by force.} Rf1 50. Rd6 Ra1 51. Rxc6 Rxa5 52. Kg5 Kd7 53. Rd6+ Ke7 54. Rc6
+Kd7 55. Rd6+ Ke7 56. Rc6 {A very nice last round battle. Nepo really tried hard
+to create chances but Radjabov was really prepared well in the opening, and
+also was in excellent form in the event and could've only won this game.
+Congratulations to Radjabov with a huge result, and possibly even giving him
+some outside chances to qualify for the Candidates.} 1/2-1/2

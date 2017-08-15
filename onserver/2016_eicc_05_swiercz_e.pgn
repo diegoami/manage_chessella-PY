@@ -1,0 +1,33 @@
+[Event "17th ch-EUR Indiv 2016"]
+[Site "Gjakova KOS"]
+[Date "2016.05.16"]
+[Round "5.15"]
+[White "Stefansson, Hannes"]
+[Black "Swiercz, Dariusz"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2581"]
+[BlackElo "2656"]
+[Annotator "Marco Baldauf"]
+[PlyCount "54"]
+[EventDate "2016.05.12"]
+[Source "GM Rep 1 - 1.d4"]
+[SourceDate "2011.01.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Nb6 6. Bg5 Bg7 7. e3 c5 $5 {
+A very concrete solution: Black sacrifices a pawn and gives the pair of
+bishops. But he completely ruins White's queenside structure.} 8. dxc5 Bxc3+ 9.
+bxc3 Qxd1+ 10. Rxd1 N6d7 {[#]} 11. e4 $6 (11. Bb5 $1 {is considered to be the
+critical move - White hinders Black to develop harmoniously and Black has
+problems to win back the pawn.} Nc6 12. Rd5 f6 13. Bf4 e6 14. Rd6 e5 15. Bg3
+Ke7 16. Rd5 a6 17. Ba4 $14 {1-0 (58) Turov,M (2583)-Krasenkow,M (2624) Dagomys
+2008}) 11... Nxc5 12. f3 b6 {Now I would think that Black is at least equal.}
+13. h4 f6 14. Be3 Nbd7 15. Bb5 Ba6 16. a4 Bxb5 17. axb5 a6 18. bxa6 Rxa6 19.
+Ne2 Ra2 20. Rd2 Ra1+ 21. Rd1 {[#]} Nd3+ $5 {Swiercz chooses a phantastical way
+to draw.} ({After} 21... Rxd1+ 22. Kxd1 Kf7 23. Kc2 Ra8 {Black has the
+slightly more comfortable play but White should be able to hold.}) 22. Kd2 Ra2+
+23. Kxd3 Ne5+ 24. Kd4 Ra4+ 25. Kd5 Ra5+ 26. Kd4 (26. Ke6 $4 Nd7 27. Rxd7 Re5#)
+26... Ra4+ 27. Kd5 Ra5+ (27... Kf7 $1 {[%cal Rh8d8]} 28. Bxb6 $8 Rc8 {[%cal
+Gc8c6]} 29. Nd4 $8 Nc4 {[%cal Re7e6] threatening mate.} 30. Nc6 Nxb6+ 31. Kc5
+Rc4+ 32. Kxb6 R8xc6+ 33. Kb5 Rxc3 $15) 1/2-1/2
+

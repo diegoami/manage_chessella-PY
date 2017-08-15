@@ -1,0 +1,46 @@
+[Event "50th Biel GM 2017"]
+[Site "Biel SUI"]
+[Date "2017.07.31"]
+[Round "7"]
+[White "Morozevich, A."]
+[Black "Ponomariov, R."]
+[Result "1-0"]
+[ECO "D43"]
+[WhiteElo "2675"]
+[BlackElo "2699"]
+[Annotator "André Schulz"]
+[PlyCount "57"]
+[EventDate "2017.07.23"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 Nbd7
+({Common is} 6... dxc4 7. e4 g5 8. Bg3 b5) 7. e3 Be7 {This is almost a classical
+Queens Gambit Declined.} 8. Qc2
+O-O (8... a6 9. a3 O-O 10. Rd1 b6 11. Be2 Bb7 12. O-O Rc8 13. Ne5 Nxe5
+14. dxe5 Nd7 15. Bg3 b5 {1/2-1/2 (15) Ponomariov,R (2709)-Mamedyarov,S
+(2762) Tashkent 2016}) 9. O-O-O {With
+an almost 75% success rate for White, in practice.} dxc4 {[#]} 10. g4 $5
+{A new move. White doesn't bother to recapture on c4, but instead starts
+his kingside attack.} ({To date, White players
+nearly always recaptured} 10. Bxc4 b5 11. Bd3) 10... b5 11. Rg1 Nd5 12.
+Bxe7 Qxe7 13. g5 h5 (13... hxg5 14. Nxg5 {threatens mate, but after} g6
+{the attack is not exactly playing itself.}) 14. g6 f5 ({Other ideas
+are} 14... Nxc3 $5 15. Qxc3 f6) ({or} 14... fxg6 {all of which are
+unclear.}) 15. Ne5 {The most direct plan for White is to go after the h5
+pawn.} Nxc3 ({After} 15... Nxe5 16. dxe5 {Black no longer has the f6
+square for his knight, but he can play} f4 {for instance} 17. e4 Nb6 18.
+Qe2 Qh4) 16. Qxc3 Nf6 17. e4 Ng4 $6 {to easy the pressure by exchanging
+knights. Probably this is not the best plan.} (17... fxe4 18. Qh3 { with
+the intention of Rg5 and Rxh5 is unpleasant for Black.}) (17... Bb7 $5)
+18. Qh3 (18. Nxg4 $2 fxg4 {would have some sense for Black.}) 18... Qg5+
+(18... h4 $2 { is not an option here. After} 19. Nxg4 fxg4 20. Qxg4 Qf6
+21. Qh5 Qf4+ 22. Kb1 Qh6 23. Qe5 {White has complete controll.}) 19. Kb1
+Qh6 20. Qh4 {f2 still had to be covered. [#]} Nf6 $2 ({Correct was}
+20... fxe4 {After} 21. Be2 {White remains on top, but Black is
+fighting.} (21. Nxg4 $2 hxg4 22. Qxg4 e5 $19 {is nothing for White.}))
+21. Rg5 $18 ({Or after} 21. Nf7 Rxf7 22. gxf7+ Kxf7 23. e5 Ng4 24. Qd8
+$18) 21... Bd7 22. Nxd7 Nxd7 23. e5 $18 ({Not} 23. Rxh5 $2 Qxg6 24. Rg5
+(24. Rh8+ Kf7 $17) 24... Qh7 {and White's advantage has dissolved, with
+the g6 pawn in the air.}) 23... c5 24. Be2 {Overlooking the h5 square.}
+cxd4 25. Rxh5 Qxg6 26. Rh8+ Kf7 27. Bh5 {This is the difference to the
+variation on move 23.} Rxh8 28. Bxg6+ Kxg6 29. Qe7 1-0
+

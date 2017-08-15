@@ -1,0 +1,58 @@
+[Event "ch-USA 2016"]
+[Site "Saint Louis USA"]
+[Date "2016.04.20"]
+[Round "6.2"]
+[White "Caruana, Fabiano"]
+[Black "Onischuk, Alexander"]
+[Result "1-0"]
+[ECO "C78"]
+[WhiteElo "2795"]
+[BlackElo "2664"]
+[Annotator "AS"]
+[PlyCount "55"]
+[EventDate "2016.04.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 {The Arkhangelsk variation
+is a specialty of Onischuk.} ({More common is} 5... b5 6. Bb3 Bc5 7. c3 d6) 6.
+c3 b5 7. Bc2 d5 $5 {Black wants to exploit the fact that White's bishop is on
+c2 and not on b3.} (7... d6 8. d4 Bb6 {is another possibility that is often
+played.}) 8. a4 ({The main line is} 8. d4 dxe4 9. Nxe5 Nxe5 10. dxe5 Qxd1 11.
+Rxd1 Ng4 12. Bxe4 Nxf2 13. Bc6+ Ke7 14. Rd5 Bb6 15. Bxa8 Nd3+ 16. Kf1 Nxc1 17.
+Na3 Be6 18. Rxc1 {with a well-known position which occurred in almost 30 games
+of the Megadatabase. One example is} Rxa8 19. Rd3 Bf5 20. Rdd1 Be3 21. Ra1 Bf4
+$14 {1/2-1/2 (78) Shirov,A (2751)-Onischuk,A (2637) Germany 2000}) (8. exd5
+Qxd5 9. d4 exd4 10. Re1+ Be7 11. cxd4 Bg4 {does nothing to pose Black problems.
+}) 8... dxe4 ({After} 8... Bb7 9. exd5 Qxd5 {White has} 10. d4 {which is good
+for him:} exd4 11. axb5 axb5 12. Rxa8+ Bxa8 13. Re1+ Be7 14. cxd4 O-O 15. Nc3
+Qd7 16. Nxb5 $16 {and White is a pawn up.}) 9. axb5 Bg4 10. bxc6 (10. Bxe4 Nxe4
+11. bxc6 O-O 12. d4 exd4 13. cxd4 Bb6 14. Nc3 Re8 15. Be3 Qd6 16. d5 Bxe3 17.
+fxe3 Rad8 18. Rxa6 Nxc3 19. bxc3 Qxd5 20. Qxd5 Rxd5 21. Nd4 g6 22. Rf4 Bf5 23.
+Ra7 Rxe3 24. c4 Rc5 25. Rxc7 Re4 26. Rxe4 Bxe4 27. Re7 Bf5 28. c7 Kf8 29. Nxf5
+gxf5 30. Rd7 Kg7 31. Rd4 Rxc7 32. Kf2 Kf6 33. Ke3 Ke6 34. g3 f6 35. Kd3 Ra7 36.
+Kc3 Ke5 37. Rh4 Rb7 38. Rf4 Rb1 39. Rf2 Rc1+ 40. Kb4 Ke6 41. Kb5 Kd6 42. Rxf5
+Rb1+ 43. Ka4 Rb2 44. Rxf6+ Kc5 45. Rh6 Kxc4 46. Rh4+ Kd5 47. Rxh7 Ke5 48. Ka3
+Rb8 49. Rh5+ Kf6 50. Rh4 Kg5 51. Rb4 Rh8 52. h4+ Kh5 53. Rb5+ Kh6 54. g4 Re8
+55. Rb4 Kg6 56. Rb6+ Kf7 57. Rb7+ Ke6 58. Rh7 Rb8 59. g5 Kf5 60. Rh6 Ke5 61. h5
+Kf5 62. g6 Kf6 63. Rh7 Rg8 64. Kb3 {1-0 (64) Anand,V (2762)-Shirov,A (2746)
+New Delhi/Teheran 2000}) 10... exf3 11. gxf3 Be6 12. Ra5 Qd6 13. f4 e4 14. d4
+exd3 15. Qxd3 O-O 16. Qxd6 Bxd6 17. Rd1 $14 {[#] After the complications are
+over White is a pawn up. And though White's structure on the kingside is
+shattered the pawn f4 will later play an important role.} Bg4 ({Here a
+correspondence game continued with} 17... Rfe8 18. Be3 Bg4 19. Rxd6 cxd6 20.
+Nd2 Be6 21. c4 Bh3 22. Nf3 Rab8 23. b3 d5 24. c5 Ne4 25. Bxe4 dxe4 26. Nd4 Ra8
+27. f5 f6 28. c7 g6 29. b4 gxf5 30. Bf4 Kh8 31. Ra3 Rg8+ 32. Rg3 h5 33. f3 e3
+34. Bxe3 f4 35. Bxf4 h4 36. Rxg8+ Kxg8 37. Kf2 Re8 38. Ne2 Kf7 39. Nc3 Bc8 40.
+Nd5 Ke6 41. Nb6 Kf5 42. Bd6 Kg5 43. c6 Kf5 44. Bc5 Kg6 45. f4 Bh3 46. Nc4 Rc8
+47. Bb6 {1-0 (47) Voiculescu,C (2565)-Gavrilakis,N (2475) ICCF email 2009}) 18.
+Rd4 Bf3 19. Ba4 Rfe8 20. Be3 Ne4 21. Bd1 Bxd1 22. Rxd1 Rab8 ({More stubborn was
+} 22... Reb8 23. b4 Bf8 24. Kh1 Nd6 $16) 23. Nd2 Rxb2 $2 ({The engines propose
+} 23... g5 $5 {as an attempt to get counterplay:} 24. fxg5 Rxb2 25. Nxe4 Rxe4 {
+and after e.g.} 26. Rxa6 {Black can try to stir the waters with} Bxh2+ {
+However, White is still better.} 27. Kh1 $16 (27. Kxh2 $2 Rxe3)) ({After} 23...
+Nxd2 24. Rxd2 Ra8 {White simply plays} 25. b4 $18) 24. Nxe4 Rxe4 {[#]} 25. Re5
+$1 {A fine move that exploits Black's back rank weakness and wins material.} ({
+After} 25. Rxa6 Re8 {things would be fine for Black.} 26. c4 Rc2 27. c5 Bxc5
+28. Bxc5 Rxc5 29. Rd7 Re1+ (29... Rc8 $2 30. Rxc7) 30. Kg2 g6 31. Rxc7 Re6 $11)
+25... Rxe3 26. fxe3 Rb8 (26... Bf8 27. Rd8 g6 28. Ree8 $18) 27. Ra5 Kf8 28. c4
+1-0
+

@@ -1,0 +1,42 @@
+[Event "ch-USA 2016"]
+[Site "Saint Louis USA"]
+[Date "2016.04.25"]
+[Round "11.1"]
+[White "Chandra, Akshat"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[ECO "C88"]
+[WhiteElo "2477"]
+[BlackElo "2795"]
+[Annotator "AS"]
+[PlyCount "106"]
+[EventDate "2016.04.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. a4
+b4 9. d4 O-O (9... Bg4 10. dxe5 Nxe5 11. Nbd2 Qc8 12. Qe2 O-O 13. Qe3 Nxf3+ 14.
+Nxf3 Re8 15. Bd2 Bf8 16. Qf4 Be6 17. Bxe6 Qxe6 18. Bxb4 Qc4 19. Bc3 Rxe4 $11 {
+1/2-1/2 (60) Salgado Lopez,I (2622)-Anand,V (2785) Dubai 2014}) 10. dxe5 dxe5
+11. Nbd2 Bc5 12. a5 {A well-known method to fix Black's pawn on a6, where the
+black pawn might become vulnerable. However, White's pawn on a5 often turns
+out to be weak as well.} (12. Qe2 h6 13. h3 Qe7 14. Nc4 Be6 15. Be3 Nd7 16. a5
+Bxe3 17. Nxe3 Bxb3 18. cxb3 Nd4 19. Nxd4 exd4 20. Nf5 Qf6 21. Nxd4 $14 {
+0-1 (62) Dominguez Perez,L (2732)-Karjakin,S (2762) Berlin 2015}) 12... h6 13.
+Bc4 Bb7 14. c3 Qd6 15. Qe2 Rad8 16. Nf1 ({After} 16. Bxa6 Bxa6 17. Qxa6 {
+Black regains the pawn with} Ra8 ({Or Black tries to use the position of
+White's queen to start play on the kingside, e.g.} 17... Ng4 18. Rf1 bxc3 19.
+bxc3 Ra8 20. Qe2 Nxa5 {and Black has nothing to complain about.}) 18. Qb5 Rfb8
+{and Black has no problems at all.}) 16... Ne7 17. Ng3 Ng6 18. Be3 bxc3 19.
+bxc3 Bxe3 20. Qxe3 Qc6 21. Bf1 Bc8 22. h3 Be6 23. Reb1 Nd7 $11 24. Rb4 Kh7 25.
+Rab1 Qc5 26. Bxa6 Qxa5 27. Bf1 Qc5 28. Qxc5 Nxc5 29. Bc4 (29. Rb5 {keeps the
+position balanced - the rook on b5 has an eye on e5.}) 29... Nd3 30. Ra4 Ngf4
+31. Ne1 Nxe1 32. Rxe1 Rd2 33. Bf1 Rb8 34. Rb4 Ra8 35. Rb7 Raa2 36. Nh1 {
+[#] If White has to retreat his knight to h1 he usually is in trouble.} c5 $17
+37. Rc7 Ra5 38. Ng3 Rc2 39. c4 g6 40. Rb1 Kg7 {[#]} 41. Rcb7 $2 {Now White
+loses c4 and the game is practically over.} ({After} 41. Rd1 $17 Raa2 42. Nh1 {
+Black is still clearly better but White might hope for} Bxc4 $6 43. Bxc4 Rxc4
+44. Rdd7 {with counterplay.}) 41... Raa2 42. Nh1 Bxc4 43. Bxc4 Rxc4 44. Re7 Rb4
+(44... Kf6 $19) 45. Rd1 (45. Rxb4 cxb4 46. Rxe5 Ne2+ 47. Kf1 (47. Kh2 b3 48.
+Rb5 b2 49. Rb8 Nc3 $19) 47... b3 48. Rb5 Nd4 49. Rb4 Ra1#) 45... Rd4 46. Rb1
+Ne6 47. Rbb7 Nd8 48. Rbc7 Kf6 49. f4 Rd1+ 50. Kh2 exf4 (50... Rdd2 $19) 51. e5+
+Kg5 52. Rxc5 Ne6 53. Rc3 Rdd2 0-1
+

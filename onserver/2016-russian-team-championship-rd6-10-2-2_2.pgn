@@ -1,0 +1,22 @@
+[Event "TCh-RUS Major League 2016"]
+[Site "Sochi RUS"]
+[Date "2016.05.09"]
+[Round "8.4"]
+[White "Arslanov, Shamil"]
+[Black "Palchun, Grigory"]
+[Result "1-0"]
+[ECO "E00"]
+[WhiteElo "2398"]
+[BlackElo "2320"]
+[SetUp "1"]
+[FEN "7r/p2k1p2/1p3P2/1Pp1PKR1/P7/8/8/8 w - - 0 47"]
+[PlyCount "25"]
+[EventDate "2016.05.01"]
+[WhiteTeam "SergArk team Moscow"]
+[BlackTeam "SDYUSSHOR SHSH St-Petersburg"]
+{It is often easy to miss a move like} 47. e6+ $1 {due to the automatic way we
+filter out moves where we are outgunned (more defenders than we can attack).
+Even though a few more seconds thought makes it clear the e-pawn will only be
+temporarily 'sacrificed'.} fxe6+ 48. Ke5 Rh4 49. Rg7+ Ke8 50. Rxa7 c4 51. a5 c3
+52. axb6 Rb4 53. Kxe6 Re4+ 54. Kf5 Rb4 55. Rc7 c2 56. Rxc2 Rxb5+ 57. Kg6 Rxb6
+58. Kg7 Rb7+ 59. Kg8 1-0

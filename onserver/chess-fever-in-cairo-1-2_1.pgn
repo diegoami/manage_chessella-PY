@@ -1,0 +1,28 @@
+[Event "Egypt Open 2016"]
+[Site "Eastern Company Club"]
+[Date "2016.04.26"]
+[Round "7.21"]
+[White "Awadhom, Elsayed"]
+[Black "Lauridsen, Jesper Morch"]
+[Result "0-1"]
+[ECO "B26"]
+[WhiteElo "2047"]
+[BlackElo "2275"]
+[Annotator "Alina L'Ami"]
+[SetUp "1"]
+[FEN "r2qk2r/pp1b1pb1/3p2pp/2p1p2n/3nPP2/2NPBNPP/PPP2QB1/R3K2R b KQkq - 0 13"]
+[PlyCount "13"]
+[EventDate "2016.04.22"]
+[EventRounds "9"]
+[EventCountry "EGY"]
+{Perhaps inspired by the flying pieces on the other boards, Jesper decided to
+play in a similar style and went:} 13... Nxg3 $1 14. Qxg3 Nxc2+ 15. Kd2 { and
+now not} Nxa1 {as played in the game, which gives White counter-play, but}
+(15... Nxe3 $1 16. Kxe3 exf4+ 17. Qxf4 Bc6 {A positional sacrifice, where I
+would surely take Black, as White has a vulnerable king in the middle of the
+board, b5-b4 is coming, the black bishop pair is quite a strong asset as well
+etc.}) 16. Rxa1 Qb6 17. Rb1 ({Better was} 17. Kc2 exf4 18. Bxf4 {preventing
+some Bxc3 ideas. I would take White.}) 17... exf4 18. Bxf4 Be6 19. Kc2 Rd8 {
+Black won a complicated game further on but analyzing all the moves is beyond
+the scope of the example. You can do so if you wish by downloading the pgn
+games at the end of the article!} 0-1

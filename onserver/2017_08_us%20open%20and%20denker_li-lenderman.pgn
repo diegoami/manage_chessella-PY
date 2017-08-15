@@ -1,0 +1,99 @@
+[Event "US Open"]
+[Site "?"]
+[Date "2017.08.07"]
+[Round "9"]
+[White "Li, Ruifeng"]
+[Black "Lenderman, Alex"]
+[Result "0-1"]
+[ECO "A01"]
+[Annotator "Aleksandr"]
+[PlyCount "76"]
+[SourceDate "2017.08.07"]
+[SourceVersionDate "2017.08.07"]
+
+1. b3 {This move didn't come as a surprise, in fact I sort of expected it. As
+of late, 1.b3 is one of Ruifeng's main weapons, and he's had some success with
+it.} e5 2. Bb2 Nc6 3. e3 (3. Nf3 $5 {He's also played this interesting move in
+some games.}) 3... d5 $5 {The first small surprise. The most common way to play is
+Nf6 followed by Bd6, but I wanted to play something that is quite sound but
+also not so well-known. Luckily after 1.b3 Black has a lot of ways to get
+fresh positions, which might not always be familiar for the opponent.} (3...
+Nf6 4. Bb5 Bd6 5. Na3 {is considered a main line these days.} Na5 (5... a6)) 4.
+Bb5 Bd6 5. f4 {This perhaps is considered the "refutation" of this
+straightforward development for Black. However luckily for me I had some time
+to look at this before my game, and realized that Black is doing quite well
+here.} (5. Nf3 {is also possible.} f6 (5... Qe7 {with interesting play.})) 5...
+f6 6. Nh3 $5 {An interesting try by Ruifeng Li, played after a long think.} (6.
+fxe5 $6 {The main point lies in this line.} fxe5 7. Bxe5 $2 (7. Nf3 Nh6 $1 {
+I actually analyzed this briefly before the game. Black is better here in all
+lines according to Stockfish.}) 7... Qh4+ $1 8. g3 Qe4 9. Bxg7 Qxh1 10. Qh5+
+Ke7 11. Qh4+ Kf7 12. Bxh8 Qxg1+ $19 {And Black ends up winning.}) (6. Qh5+ g6
+7. Qh4 exf4 8. exf4 {is another interesting line, where the position is
+probably roughly equal but I slightly prefer black.} Kf7 {This was my
+intention here.} (8... Qe7+ {This is also possible.})) 6... Nh6 {The most
+logical move and probably the best in the position.} 7. Qh5+ Nf7 8. Nc3 {
+So far Ruifeng is play precisely.} (8. fxe5 fxe5 9. O-O g6 {Here g6 is
+important.} (9... O-O $6 10. Rxf7 Rxf7 11. Ng5 g6 12. Nxf7 gxh5 13. Nxd8 Nxd8
+14. Nc3 $14) 10. Qf3 O-O $1 {I didn't actually see this line during the game.}
+11. Qxd5 Nb4 12. Qe4 Bxh3 $1 13. gxh3 Ng5 $1 {and I have initiative.}) 8... a6
+{Challenging his bishop and asking him a difficult question.} 9. Be2 (9. Bxc6+
+bxc6 $15 {Would be quite comfortable for me.}) 9... Be7 10. fxe5 $6 {This is a
+concrete move, but this ends up only helping me, since white doesn't have
+anything convincing to compensate for giving up the center.} (10. Qf3 $11 {
+Would be better, leading to a very complex battle.}) (10. O-O-O {Even this is
+possible.}) 10... fxe5 11. O-O g6 $1 {The move order is very important here.} (
+11... Be6 12. Bg4 $1 g6 (12... Qd6 $2 13. Ba3 {is even worse for Black, just
+losing in fact.}) (12... Qd7 $2 13. Qxf7+ $18) 13. Bxe6 gxh5 14. Bxf7+ Kd7 15.
+Nxd5 {is a line I saw, and knowing how strong and creative Ruifeng is
+dynamically, I knew I didn't want to give him this kind of a position with
+long-term initiative.} (15. Bxd5 $44)) 12. Qf3 Be6 13. e4 Nd4 {Another
+important move, misplacing the white queen.} 14. Qd3 Nxe2+ (14... c6 {I also
+considered this, the computer's top choice. However I wasn't totally convinced
+because of a very interesting reply, Nf4!?} 15. Nf4 Bd7 16. Nfxd5 $44 {And
+again, I wanted to avoid giving my opponent the initiative.} cxd5 17. Nxd5) 15.
+Nxe2 (15. Qxe2 {Actually I expected this.} d4 16. Nd5 $5 Bxd5 17. exd5 Qxd5 18.
+Rae1 {with some compensation for the pawn, but possibly not enough.}) 15... d4
+{And here I was very happy, since I knew my opponent has to sacrifice,
+otherwise he's strategically lost, since I have a huge space advantage, not to
+mention two bishops, and his pieces are restricted.} 16. c3 c5 17. cxd4 cxd4
+18. Nhf4 $1 {The only move, otherwise as I mentioned White is strategically
+lost.} exf4 $6 {I decided to accept the challenge.} (18... Qd7 {Maybe it was
+better to play this and keep a slight advantage.} 19. Nxe6 Qxe6 $15 {I am
+better thanks to my space. His bishop on b2 is restricted.}) 19. Nxf4 Qd7 {
+I spent 25 minutes here. This was a very critical position.} (19... Qb6 {
+This is the move I was really spending a lot of time on, but I calculated that
+it should only lead to a draw, and I wanted to win the game, so I declined
+going into this line.} 20. Bxd4 Bc5 21. Nxe6 Bxd4+ 22. Qxd4 $1 (22. Nxd4 $2 Rd8
+$19 {Is winning for black.}) 22... Qxe6 23. Rf6 $1 Qe7 24. Rxf7 $1 Kxf7 25.
+Rf1+ Kg8 26. Qd5+ Kg7 27. Qd4+ Kh6 28. Rf3 {And sadly for me, I couldn't find
+a way out of a perpetual check here, and indeed the computer says it's a draw,
+so I'm happy I didn't miscalculate this line.}) (19... Bd7 20. Nd5 {I felt is
+also a dangerous initiative for White.}) 20. Qxd4 Rg8 $6 (20... Qxd4+ 21. Bxd4
+{is inconvenient for Black since two of my pieces are hanging now.} Bg4 22.
+Bxh8 Nxh8 23. Nd5) (20... Rf8 {Perhaps this was better.} 21. Qg7 O-O-O {
+Since here I can just castle long.}) 21. Qb6 $6 {Ruifeng played this quickly, but
+maybe it's not the most accurate.} (21. Nd5 {I was most afraid of this
+move. Now I would have to make a difficult choice. I think practically White
+is much better here.} Bxd5 $6 (21... Rc8 {Is probably the best, however,
+I didn't like this.} 22. Nf6+ (22. Qe3 {is also good, keeping the tension.})
+22... Bxf6 23. Qxf6 {And I thought with opposite colored bishops, White has
+huge initiative.}) 22. exd5 Rd8 $2 23. Rae1 {I actually wanted to play this
+with Black, but this is just losing for Black it turns out.}) (21. Qe3 $44 {
+Here also White has good compensation.}) 21... Nd8 {Maybe Ruifeng missed this
+move, since backward defensive moves are very easy to miss.} 22. Rac1 $6 (22.
+Nd5 {Now this was the best move, keeping the balance.}) 22... Qd6 23. Qe3 Rf8 (
+23... Bg5 $2 {would be a wrong move order because of Rc5! or Qg3!} 24. Rc5 $132
+) 24. e5 {probably only makes things worse.} Qd7 25. d4 (25. Qb6 Rc8 26. Rxc8
+Qxc8 27. Rc1 Qd7 28. Rc7 Qxd2 {Maybe Ruifeng missed this line for Black.})
+25... Bg5 26. Ba3 Rf5 {More precise than Rf7, as I'm preserving the f7 square
+for the queen.} 27. Qe4 Qf7 $19 {Now I knew I was winning.} 28. g3 {A very sad
+move to have to play. However, it is forced.} (28. Nxe6 Bxc1 $19 {Sadly for
+White just doesn't work tactically.} 29. Rxf5 gxf5) 28... Bxf4 29.
+Rxf4 Rxf4 30. Qxf4 Qxf4 31. gxf4 Rc8 {The simplest.} 32. Kf2 (32. Rxc8 Bxc8 33.
+d5 Bf5 $19 {Will net me another pawn.}) 32... Rxc1 33. Bxc1 Nc6 34. Ke3
+Kd7 35. Ba3 Bd5 36. Bd6 Ke6 37. Kd3 Kf5 38. Kc3 Ke4 {And here he resigned.
+I simply dominate the light squares and there is absolutely nothing White can
+do. I was very happy to win this nice battle against such a strong player like
+Ruifeng and overall it seemed like a well-played game, considering how
+complicated the game was.} 0-1
+

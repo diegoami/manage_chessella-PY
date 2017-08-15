@@ -1,0 +1,60 @@
+[Event "10th Paleochora 2017"]
+[Site "?"]
+[Date "2017.07.25"]
+[Round "7"]
+[White "Sagar, Shah"]
+[Black "Hristodoulou , Panagiotis"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "2391"]
+[BlackElo "2252"]
+[SetUp "1"]
+[FEN "rq3rk1/pp1n1ppp/2pbpn2/3p4/2PP2b1/1PN2NP1/PB2PPBP/R2Q1RK1 w - - 0 10"]
+[PlyCount "35"]
+[SourceDate "2009.03.06"]
+[SourceVersionDate "2009.03.06"]
+10. Re1 {Let's join the game from this point onwards. I have just played Re1
+and am angling for e2-e4.} h6 {I was happy to see my opponent making this move.
+While there is absolutely nothing inherently wrong with this move, allowing me
+e4 made me feel quite good during the game.} (10... b5 $5 {This was the move
+that worried me the most. If I cannot play e4, what am I supposed to do. Well,
+sometimes the move that you want to make is the move you should make!} 11. e4
+$3 b4 {And now what?} 12. Nxd5 $1 {I don't know if this trick was unusual for
+you, but for me it definitely was.} (12. e5 $2 bxc3 13. Bxc3 Ne4 $19) 12...
+cxd5 13. e5 $16 {And White is just better.}) 11. e4 Nxe4 12. Nxe4 dxe4 13. Rxe4
+Bf5 14. Re3 {I put the rook on this square because it somehow just seemed
+natural. Also I could put my queen on e2 and sacrifice the rook on e6 at some
+point. I didn't know at what point it would happen, but such ideas were in the
+air.} Rd8 15. Qe2 (15. d5 $1 {The computer thinks this is the best move, but
+with the queen opposite the rook, I thought it was better to just place the
+queen on e2 and then go for the d5 break.}) 15... a5 $6 {I already have a
+feeling that this was not such a great move. Black has his pieces messed up and
+it is important that he co-ordinates them. ...a5 is an extremely over ambitious
+move. Black thinks that if he gets in a4, axb3 and exchanges the rooks down the
+a-file he should be fine. Yes, that's true, but the plan is excruciatingly slow
+and White can just blast the centre now.} 16. Nh4 (16. d5 $1 {is also worthy of
+attention.} Bc5 {This somewhat traps the rook on e3, but White has the strong}
+(16... cxd5 17. cxd5 exd5 18. Nh4 $1 Be4 (18... Bh7 19. Bxd5 $18) 19. Bxe4 dxe4
+20. Nf5 Bf8 21. Nxh6+ $18) 17. Nd4 $1 $16 {And Black is completely
+struggling.}) 16... Bh7 17. d5 {This is the natural consequence of White's
+play.} cxd5 (17... exd5 18. cxd5 $16) 18. Rxe6 $1 {I liked this sacrifice!
+Often you see a piece sacrifice on e6, but a rook is pretty unsual.} (18. cxd5
+e5 $11 {This is Black's dream scenario.}) 18... Re8 (18... dxc4 { If Black
+ignores the rook on e6, the rook continues his policy of gulping pawns.} 19.
+Rxh6 $1 gxh6 (19... cxb3 20. Rxh7 $1 Kxh7 21. Qh5+ Kg8 22. Ng6 $1 fxg6 23. Bd5+
+Kf8 24. Qh8+ Ke7 25. Qxg7+ Ke8 26. Qf7#) 20. Qg4+ $18) (18... fxe6 {If Black
+takes the rook, the lines are pretty straightforward.} 19. Qxe6+ Kh8 (19... Kf8
+20. Bxd5 Ne5 21. Bxe5 $18) 20. Qxh6 {And now there is simply no way to stop Ng6
+and Bxd5 mate.} Ne5 21. Ng6+ Kg8 22. Bxd5+ Nf7 23. Qxg7#) ( 18... Ra6 $1 {is
+the best defence. Not so easy for humans to calculate.} 19. Rxh6 $1 (19. Re3
+Bc5 20. Bxd5 Bxe3 21. Qxe3 $44) 19... Bxg3 $1 (19... gxh6 20. Qg4+ $18) 20.
+Rxh7 (20. Rxa6 Bxh2+ 21. Kh1 bxa6 $13) 20... Bxh2+ 21. Kh1 Kxh7 22. Nf5 $44
+{White has very good attacking chances.}) 19. Rxe8+ Qxe8 20. Qd2 $1 (20. Qxe8+
+{was possible, but after} Rxe8 21. Bxd5 Re2 22. Bd4 Bc5 23. Nf3 $14 {I felt as
+if Black has some more play than what I would have liked.}) 20... Qf8 $6 {This
+hastens the end.} (20... Be4 21. Bxe4 (21. Re1 Bb4 22. Bc3 Qf8 $16 ) 21... Qxe4
+22. Re1 Bb4 (22... Qg4 23. Qxd5 $18) 23. Rxe4 Bxd2 24. Rd4 $18) 21. Qxd5 Nc5
+22. Nf5 Bxf5 23. Qxf5 Rd8 (23... Re8 24. Rd1 $18) 24. Re1 Re8 ( 24... Nd3 25.
+Qxd3 Bb4 26. Qb1 Bxe1 27. Qxe1 $18) 25. Rxe8 Qxe8 26. Bd5 Qe7 ( 26... b6 27.
+Qg6 Qf8 28. Bxg7 $18) 27. Qg6 {I was happy that I was able to calculate well
+and find some nice resources in this game.} 1-0

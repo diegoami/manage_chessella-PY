@@ -1,0 +1,41 @@
+[Event "17th ch-EUR Indiv 2016"]
+[Site "Gjakova KOS"]
+[Date "2016.05.15"]
+[Round "4.4"]
+[White "Jobava, Baadur"]
+[Black "Parligras, Mircea-Emilian"]
+[Result "1-0"]
+[ECO "E48"]
+[WhiteElo "2661"]
+[BlackElo "2599"]
+[Annotator "Marco Baldauf"]
+[PlyCount "79"]
+[EventDate "2016.05.12"]
+[Source "GM Rep 1 - 1.d4"]
+[SourceDate "2011.01.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 {For Jobava, who often starts with 1.b3 or
+2.Nc3, this is a rather solid opening.} O-O 5. Bd3 d5 6. cxd5 exd5 7. Nge2 Re8
+8. Bd2 (8. O-O Bd6 9. f3 c5 10. Nb5 Bf8 11. dxc5 Bxc5 12. Nbd4 {leads to a
+structure with an isolated pawn and is another way to treat this position.})
+8... Bd6 9. Rc1 a6 (9... c6 10. f3 Nbd7 {is too slow.} 11. O-O Nf8 12. h3 Ne6
+13. Be1 $14) 10. O-O Nc6 $6 (10... c5 11. dxc5 Bxc5 12. Nf4 $14) (10... b6 11.
+Nf4 Bb7 12. Qf3 Bf8 13. Rfd1 $13) 11. f3 Nb4 12. Bb1 c5 13. Kh1 Nc6 {Black's
+maneuver seems to be too slow.} 14. Be1 cxd4 15. exd4 Nh5 $6 16. Qd2 {Covering
+f4 one more time and forcing Black to retreat with his next move.} (16. g4 $2
+Nf4 $11) 16... Be6 17. g4 Nf6 18. Bh4 {[#] Black's position should be
+basically okay White's position is definitely easier to play. White has a lot
+of possibilities to increase the pressure while Black is damned to defend.} Be7
+19. Nf4 Nd7 20. Bxe7 Nxe7 21. Rce1 Nf8 22. Nh5 {Freeing the square f4 to give
+the f-pawn a chance to advance or to give the other knight the chance to go to
+f4 and join the attack.} Nc6 23. Ne2 f6 24. Neg3 Rc8 25. h4 Rc7 (25... Qa5 26.
+Nxf6+ $5 (26. Qg2 $14) 26... gxf6 27. Qh6 Qc7 $140 28. Nh5 $16 {[%cal Gh5f6]})
+26. Nf4 Rce7 27. h5 Bf7 {[#]} 28. Rd1 $1 {Black has no entry squares on the
+e-file and thus White has no reason to ease Black's defense by exchanging
+rooks on the open e-file.} Qa5 29. Nf5 Rd7 30. Qf2 Qc7 31. Nd3 Be6 32. Rfe1
+Rdd8 33. Rg1 Kh8 34. Qh4 Qf7 35. Nf4 Bxf5 $2 (35... Bc8 $14 {was better but
+forced Black to continous passive defense.}) 36. gxf5 h6 37. Rg2 Rd7 38. Rdg1
+Nxd4 $4 {[#] White's pressure was too much and Parligras finally cracks.} (
+38... Nh7 39. Rxg7 Qxg7 40. Rxg7 Rxg7 41. Ng6+ Kg8 42. a3 $1 $16 {[%cal Gb1a2]}
+) 39. Ng6+ Nxg6 40. hxg6 {[%cal Gh4d4]} 1-0
+

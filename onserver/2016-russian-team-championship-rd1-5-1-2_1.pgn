@@ -1,0 +1,31 @@
+[Event "TCh-RUS Men 2016"]
+[Site "Sochi RUS"]
+[Date "2016.05.02"]
+[Round "2.5"]
+[White "Dubov, Daniil"]
+[Black "Korobov, Anton"]
+[Result "1-0"]
+[ECO "A07"]
+[WhiteElo "2644"]
+[BlackElo "2674"]
+[Annotator "Silver,Albert"]
+[SetUp "1"]
+[FEN "5q2/5pk1/1Pp2bp1/7p/1PBn1Q1P/6P1/5PK1/4R3 b - - 0 36"]
+[PlyCount "10"]
+[EventDate "2016.05.01"]
+[WhiteTeam "SSM Legacy Square Capital Moscow"]
+[BlackTeam "Siberia Novosibirsk"]
+36... Qxb4 {Not a double attack, but a *triple* attack with pawn, bishop and
+rook all under fire by the queen. What to do?} 37. Re4 {Not worry!} c5 ({ It is
+not hard to see the bishop cannot be captured since} 37... Qxc4 38. b7 { and
+the pawn, supported by the queen on f4, cannot be stopped.}) (37... Qxb6 { can
+be a little trickier to refute.} 38. Re7 $3 {is the killer blow. f7 is under
+attack and Black cannot defend against Rxf7 except with} Bxe7 {after which all
+is lost.} 39. Qxf7+ Kh6 40. Qxe7 {Black's king is caught in a fatal web. The
+immediate threat is Qf8+ followed by mate so} Qb8 {is more or less forced.
+White could already win the knight with Qe3+ but there are much more attractive
+targets available.} 41. Bf7 $1 {The threat is Qf6 after which g6 and mate
+cannot be stopped, therefore} Qh8 {is the only move that can prevent it.} 42.
+Qg5+ Kg7 43. Qe5+ {and ther queen falls since} Kh7 44. Bxg6+ Kg8 45. Qe8+ Kg7
+46. Qf7+ Kh6 47. Be4 {leads to mate.}) 38. Qd6 Qxc4 39. b7 Qb3 40. b8=Q Qf3+
+41. Kg1 1-0

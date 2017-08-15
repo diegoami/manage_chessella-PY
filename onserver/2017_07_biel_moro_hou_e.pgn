@@ -1,0 +1,42 @@
+[Event "50th Biel Festival 2017"]
+[Site "Biel"]
+[Date "2017.07.24"]
+[Round "1"]
+[White "Morozevich, Alexander"]
+[Black "Hou, Yifan"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2675"]
+[BlackElo "2666"]
+[PlyCount "74"]
+[EventDate "2017.??.??"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 e6 4. O-O Be7 5. d3 O-O 6. Nbd2 c5 7. e4 Nc6 8. Re1
+Qc7 (8... b5 9. e5 Nd7 10. Nf1 a5 11. h4 b4 12. Bf4 Ba6 13. Ng5 Qe8 14. Qg4 a4
+15. Nxe6 {1-0 (15) Bronstein,D (2590)-Uhlmann,W (2570) Moscow 1971}) 9. c3 b6
+10. e5 Nd7 11. Qe2 a5 12. Nf1 a4 ({More popular is} 12... Ba6 {e.g.} 13. h4 b5
+14. N1h2 b4 15. h5 a4 16. Ng4 a3 17. h6 g6 18. Bf4 c4 19. dxc4 Bxc4 20. Qd2
+axb2 21. Qxb2 bxc3 22. Qc2 Ra3 23. Qd1 Nb4 24. Ne3 Bxa2 25. Nd4 Qa5 26. Nec2
+Nxc2 27. Nc6 Qc5 28. Nxe7+ Qxe7 29. Qxc2 Bc4 30. Bg5 Qc5 31. Be3 Qa5 32. Rxa3
+Qxa3 33. Bd4 Rc8 34. Qxc3 Qxc3 35. Bxc3 Bd3 36. Bd4 Rc4 37. Bb2 Rb4 38. Ba3 Ra4
+39. Bd6 Nb6 40. Rd1 Bc2 41. Rc1 Ra2 42. Bf1 f6 43. exf6 Kf7 44. Be5 Nd7 45. f4
+Nxf6 46. Bd3 Bxd3 47. Rc7+ Ke8 48. Bxf6 g5 {1/2-1/2 (48) Klein,G (1957)
+-Schettler,J (2049) Germany 2010}) 13. Bf4 Bb7 14. h4 Rfc8 {The first new move.
+} (14... d4 15. c4 b5 16. cxb5 Nb4 17. a3 Nd5 18. Bg5 Ra5 19. Rac1 Qd8 20. N1d2
+Rxb5 21. Nc4 Bc6 22. Rc2 h6 23. Bxe7 Nxe7 24. Nfd2 Bxg2 25. Kxg2 Qa8+ 26. Kh2
+Qd5 27. Nd6 Rbb8 28. N2c4 Nc8 29. Ne4 Ncb6 30. f4 Nxc4 31. Rxc4 Rb5 32. Rec1
+Rfb8 33. R1c2 Ra5 34. Qd2 Rba8 35. Qc1 Rb8 36. Qd2 Rba8 37. Qe2 {1/2-1/2 (37)
+Bruzon Batista,L (2679)-Yilmaz,M (2594) Dubai 2016}) 15. Ne3 Qd8 16. h5 b5 {
+A well-known motif in this type of position. White attacks on the kingside,
+Black on the queenside.} 17. Nxd5 $5 {A move which the computer might have
+played as well.} exd5 18. e6 Nf8 ({Not} 18... fxe6 19. Qxe6+ Kh8 20. h6 {
+with advantage for White.}) 19. exf7+ Kxf7 $11 20. h6 ({Better was} 20. d4)
+20... Bf6 21. Nh2 Ne7 22. Bh3 Rc6 23. Ng4 Neg6 24. Bd2 d4 {Black consolidated
+on the kingside. The last move opens the long diagonal a8-h1 and initiates a
+counterattack against White's king.} 25. hxg7 Kxg7 26. Qf3 Rb6 (26... Bg5 $5
+27. Bxg5 Qxg5 $19 {and Black is clearly better and threatens to improve
+further with a3 or h5.}) 27. Qf5 Qd5 28. Bh6+ Kf7 29. Qxd5+ Bxd5 30. Nxf6 Rxf6
+{After the exchange of queens White's attack was definitely over.} 31. cxd4 Nh4
+32. gxh4 (32. Bg5 Nf3+ $19) 32... Rxh6 33. Re5 Rd8 34. Rf5+ Rf6 35. dxc5 Ng6
+36. c6 Bxc6 37. Rc1 Rdd6 0-1
+

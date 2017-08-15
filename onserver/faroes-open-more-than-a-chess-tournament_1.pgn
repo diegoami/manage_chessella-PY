@@ -1,0 +1,82 @@
+[Event "Faroes Open "]
+[Site "Kollafjord"]
+[Date "2017.07.14"]
+[Round "4"]
+[White "Srinath, Narayanan"]
+[Black "Granda Zuniga, Julio "]
+[Result "1-0"]
+[ECO "B13"]
+[WhiteElo "2505"]
+[BlackElo "2656"]
+[Annotator "Srinath,Narayanan"]
+[PlyCount "147"]
+[EventDate "2017.07.12"]
+[EventRounds "9"]
+[EventCountry "FAI"]
+[WhiteClock "0:01:34"]
+[BlackClock "0:01:21"]
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 {An inspired choice of opening, or in my
+case - an opening choice when you don't know what else to do.} Nf6 5. Ne5 g6 6.
+Bb5+ Bd7 ({I genuinely wondered, why not} 6... Nbd7 {why give up the bishop?}
+7. O-O Bg7 8. Nf3 O-O 9. Nc3 Nb8 $11 {Carlsen,M (2733)-Morozevich,A (2765)
+Amber-rapid 17th 2008 (11) 1/2-1/2}) 7. Nxd7 Nbxd7 8. c3 Bg7 9. O-O O-O 10. Nd2
+(10. Re1 a6 11. Bf1 {makes ...e5 much harder, and was probably better.}) 10...
+a6 11. Bd3 e5 $1 {Now Black gets a lot of activity in exchange for his isolated
+pawn.} 12. dxe5 Nxe5 13. Nf3 Nc4 {The c1 bishop is tied down. White can't play
+b3 because that would make c3 intensely weak and provide Black an easy target.
+So how to improve White's position? I couldn't see a way, so I decided to just
+sit still, wait and put the brunt of doing something on my opponent.} 14. a4
+Re8 15. Qc2 Qc7 16. Rd1 Ne4 17. Bf1 Rad8 18. g3 {Black's pieces are optimally
+placed while White is just waiting around. Now the problem for Black is how to
+improve his position further. The position is probably around equal as White
+doesn't really have any major weakness.} b5 19. axb5 axb5 20. Ng5 (20. Nd2
+{fails to} Nxf2) 20... Nxb2 $2 ({I don't see how White can do much better than
+a draw after} 20... Nf6 21. Nf3 {is always an option,} (21. Nh3 {was a riskier
+idea, with the aim to try and put pressure on d5. However, Black's piece
+activity easily negates this.} Ne4 {if} 22. Nf4 { then} d4)) 21. Qxb2 Nxc3
+(21... Bxc3 22. Qc2 Nxf2 23. Qxf2 Bxa1 {is three pawns and rook for two minor
+pieces, but Black already loses one pawn back after} 24. Bxb5 {and more after}
+Re7 (24... Rf8 25. Ba3 $16) 25. Ba3 $16) 22. Bf4 Qb6 23. Qb3 {This was the move
+my opponent had missed.} h6 (23... Nxd1 24. Rxd1 Bd4 $5 (24... h6 25. Nf3 b4
+{White can't take on d5 yet here, however, he doesn't have to. The two passed
+pawns, are weaknesses and liabilities and are bound to fall.} 26. Bd2 $16) 25.
+Nh3 b4 {was probably Black's best try}) 24. Nf3 g5 25. Bd2 Ne4 {An unexpected
+move.} (25... Nxd1 26. Rxd1 {is probably easier for White, although I wasn't
+quite sure if I could've converted the two bishops vs rook 3 vs 3 on the same
+side. I was reminded of Carlsen-Karjakin, 2nd rapid game, but I decided to
+cross that bridge when it came, and in any case White has a pleasant position
+with only two results possible.}) 26. Be3 d4 27. Nxd4 {seemed the simplest
+possibility with limited time.} (27. Bd2 Qf6 28. Bxb5 Rb8 {is maybe objectively
+stronger, but would enable my opponent to achieve his objective of setting me
+problems to solve within limited time.}) 27... Rxd4 (27... Bxd4 28. Rxd4 Rxd4
+29. Qb2 Red8 30. Rd1 Nd2 (30... Rxd1 31. Bxb6 $18) 31. Rxd2 Rxd2 32. Bxd2 b4
+33. Qxb4 Qxb4 34. Bxb4 {has similarities with Carlsen-Karjakin.}) 28. Bxd4 Bxd4
+29. Qxb5 Re6 30. Qxb6 Bxb6 31. Kg2 Nxf2 {I was quite happy to get into this
+stage. The position is not winning and Black has good chances to hold, but
+again, with limited time and intense pressure, it's only a matter of time till
+the breaking point. The first objective was to get to 40 moves.} 32. Re1 Rxe1
+33. Rxe1 Ng4 34. Re8+ Kg7 { White has to go after f7, but Black is on time to
+defend this.} 35. Be2 (35. Bd3 {would stop the Black knight from going to d6,
+but will allow him a nice grazing spot on e5.} Bc7 36. Re7 Bd6 37. Rd7 Bb4)
+35... Ne3+ 36. Kf3 Nf5 37. Bd3 Nd6 38. Re1 h5 39. h4 $5 {Forcing Black to make
+a committal choice before the time control.} gxh4 $5 (39... g4+ 40. Kg2 (40.
+Kf4 Ba5 41. Re2 Kf6) 40... Bd4 41. Re7 Kf6 42. Rc7 Ke6 43. Bb1 Kf6 44. Ba2 Be5
+{seems like a fortress, yet I am not sure.}) 40. gxh4 Bd8 41. Kg3 f5 42. Kh3
+Ne4 43. Rg1+ (43. Bxe4 fxe4 44. Rxe4 Bf6 {would be a theoretical draw.}) 43...
+Kf6 44. Rg8 Be7 45. Be2 Nf2+ 46. Kg2 Ng4 47. Rg5 {[#]} Ne5 (47... Kf7 48. Bc4+
+Ke8 49. Bb5+ Kf7 50. Rxh5 Kg6 51. Be8+ {I stopped here in my calculation and
+thought it was winning, but it turns out that Black has a brilliant defence in}
+Kg7 52. Kh3 Nh6 { And how does the rook escape?}) 48. Rxh5 Ng6 49. Rh7 Nf8 50.
+Rh5 $2 (50. Rh6+ $142) 50... Ng6 $2 (50... Kg6 $142 {would've been a simple
+draw.} 51. Kh3 Ne6 52. Kg3 Bd6+ 53. Kf2 Bc5+ 54. Kg3 Bd6+ $11) 51. Rh7 Nf8 52.
+Rh6+ Kg7 53. Ra6 Bxh4 54. Bd3 {I had this material combination for the first
+ever time in my life, with rook and bishop vs bishop and knight with opposite
+colour bishop. From afar, I thought this would be a draw, albeit not that
+straightforward. However, later when I checked on tablebase, the position
+actually turns out to be mate in 60 moves....} Ng6 55. Bxf5 Ne5 56. Kh3 Bg5 {In
+a practical game, with 30 seconds each, this is like a fight between a steel
+sword against a wooden sword. I doubt even Syrio Forel can do much here.} 57.
+Re6 Bf4 58. Be4 Kf7 59. Bd5 Kg7 60. Kh4 Kf8 61. Kh5 Kg7 62. Bb3 Bh2 63. Ba2 Kf8
+64. Bd5 (64. Kg5 {would've been more accurate.}) 64... Nd3 65. Kg5 Nf4 66. Rf6+
+{thank god for this check.} Ke7 67. Bc4 Nh3+ 68. Kf5 Bb8 69. Re6+ Kd8 70. Rh6
+Nf2 71. Rh7 Nd1 72. Ke6 {finally!} Nc3 73. Rd7+ Ke8 74. Rd3 1-0

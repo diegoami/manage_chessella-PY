@@ -1,0 +1,46 @@
+[Event "17th ch-EUR Indiv 2016"]
+[Site "Gjakova KOS"]
+[Date "2016.05.14"]
+[Round "3.1"]
+[White "Lupulescu, Constantin"]
+[Black "Wojtaszek, Radoslaw"]
+[Result "0-1"]
+[ECO "B91"]
+[WhiteElo "2620"]
+[BlackElo "2722"]
+[PlyCount "100"]
+[EventDate "2016.05.12"]
+[Source "GM Rep 1 - 1.d4"]
+[SourceDate "2011.01.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be7 8. Bg2
+O-O 9. a4 (9. O-O {is the main line.}) 9... Nc6 {Wojtaszek uses the fact that
+he did put his knight to d7 - the usual square for the knight in the Najdorf -
+and plays the knight to c6 where it has an eye on b4, the square White
+weakened with 9.a4.} 10. O-O Nb4 11. b3 Be6 12. Ba3 a5 {This weakens b5 but is
+the only way to keep the knight on b4. And the game shows that Black can
+comfortably live with the weakness of b5.} (12... Qa5 $2 13. Qd2 Rac8 14. Nd5
+$18) (12... Qb6 $6 13. Qd2 Rac8 (13... a5) 14. a5 $1 $18) 13. Qd2 (13. Nb5 {
+[%cal Gc2c3]} d5 $1 14. c3 Nc6 15. Bxe7 Nxe7 16. exd5 Bxd5 $11) 13... Rc8 14.
+Rac1 Re8 15. h3 d5 {[#] If Black manages to achieve the ...d5 break without
+suffering serious consequences he usually equalized. This position is no
+exception and Lupulescu must already be careful.} 16. exd5 Nfxd5 17. Nxd5 Nxd5
+18. Bxe7 Rxe7 19. Rfd1 Rd7 20. Qe1 Nb4 {attacking White's weak queenside.} ({
+After} 20... Qc7 21. c4 Nb4 22. Rxd7 Bxd7 23. Rd1 Bc6 {Black has the better
+structure but White has the d-file.} 24. Bxc6 bxc6 25. Qd2 $11) 21. Bxb7 Rcc7
+22. Bg2 (22. Be4 $1 f5 23. Bg2 Nxc2 24. Rxd7 Rxd7 25. Qc3 {and compared to the
+game White has more counterplay because the pawn on f5 is not strong but tends
+to be weak.} Nb4 $2 26. Qxe5 {[%cal Re5e6]} Bxb3 27. Nf4 $16) 22... Nxc2 23.
+Rxd7 Rxd7 24. Qc3 Nb4 25. Qe3 (25. Qxe5 Nd3 $19) 25... f6 $15 {Wojtaszek has
+the better structure and the more active pieces.} 26. f4 $2 (26. Kh2 $142 Rd2 (
+26... Rd3 27. Qa7 $132 {[%cal Gc1c7,Gc1c5,Gc5a5]}) 27. Be4 Rb2 28. Rb1 $1 Rxb1
+(28... Ra2 29. Rc1 Qd2 $4 30. Qb6 $18) 29. Bxb1 g6 $15) 26... Rd3 27. Qc5 Rd2
+28. Qb5 h6 29. fxe5 Nd3 30. Rc3 Nxe5 {Black's king is safe, White's king is
+not.} 31. Re3 Rb2 32. Kh2 ({Better is} 32. Nf4 $142 Bf7 33. Bd5 $1 Rd2 (33...
+Bxd5 34. Qxd5+ Qxd5 35. Nxd5 Kf7 36. g4 $15 {with good drawing chances.}) 34.
+Bxf7+ Kxf7 35. Qb7+ Rd7 36. Qe4 $17) 32... Bc4 $1 {Liquidating into a won
+position. The white pieces are not coordinated enough to drum up sufficient
+counterplay.} 33. bxc4 Rxb5 34. cxb5 Qd2 35. Re4 Qb2 36. Nd4 h5 37. Kg1 g5 38.
+Nf3 Qb1+ 39. Ne1 Nd3 40. Kf1 Nc5 41. Rc4 Nxa4 42. Rc8+ Kg7 43. Rb8 Qf5+ 44. Kg1
+Qc5+ 45. Kh2 Nb6 46. Rb7+ Kf8 47. Nf3 a4 48. Nd2 a3 49. Ne4 Qd4 50. Ra7 Qb2 0-1
+
