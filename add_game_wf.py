@@ -3,6 +3,7 @@ import glob
 import environment_data as env
 from bs4 import BeautifulSoup
 import os
+from random import randint
 
 HOST="http://www.amicabile.de"
  
@@ -12,9 +13,10 @@ LOGIN_PAGE = HOST + "/chessella/user/login.action"
 SAVEPGN_PAGE = HOST + "/chessella/games/savepgn.action"
 SUCCESS_STR = "These are your chess games"
 
-def retrieve_first_pgn():
+def retrieve_random_pgn():
     pgns = glob.glob('./input/*.pgn')
-    return pgns[0]
+    indxtoadd = randint(1,len(pgns))-1
+    return pgns[indxtoadd]
 
 def retrieve_game(pgn_filename):
     file = open(pgn_filename,'r',encoding='utf8')
@@ -23,7 +25,7 @@ def retrieve_game(pgn_filename):
     return lines
 
 def retrieve_filename_and_pgn():
-    fp = retrieve_first_pgn()
+    fp = retrieve_random_pgn()
     pgn_lines = retrieve_game(fp)
     return fp, pgn_lines
 
