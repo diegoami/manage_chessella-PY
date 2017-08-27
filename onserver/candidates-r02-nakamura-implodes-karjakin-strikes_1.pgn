@@ -1,0 +1,79 @@
+[Event "FIDE Candidates 2016"]
+[Site "Moscow RUS"]
+[Date "2016.03.12"]
+[Round "2"]
+[White "Caruana, Fabiano"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[WhiteElo "2794"]
+[BlackElo "2793"]
+[Annotator "Amruta Mokal/ Sagar Shah"]
+[PlyCount "83"]
+[EventDate "2016.03.10"]
+1. e4 e5 2. Nf3
+Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O ({Anish opted for} 5... d5 { against
+MVL in Tashkent 2014. The game ended in a comfortable draw. 1/2 (32)-1/
+2 (32) Vachier Lagrave,M (2757)-Giri,A (2768) Tashkent 2014}) 6. O-O d6
+7. Nbd2 {Caruana had earlier gone for 7.h3 in Malmo 2012 against Giri!
+Four years later, both are players have become super strong and we are
+sure to see many more battles in the years to come.} (7. h3 Ne7 8. d4
+Bb6 9. Re1 c6 10. Bd3 Ng6 11. Be3 Re8 12. Nbd2 {1-0 (41) Caruana,F
+(2770)-Giri,A
+(2693) Malmo 2012}) 7... Ne7 8. d4 exd4 9. cxd4 Bb6 10. Re1 Bg4 11. h3
+Bh5 {All this was seen in the game Anand-Topalov from the first round
+of the Candidates 2016. Anand went 12. a4 in this position. Caruana prefers
+to break the pin immediately and plays Qb3.} 12. Qb3 d5 {Recently Caruana
+himself played this with Topalov in Sinquefeld Cup 2015 and won a nice
+game. Its important to note though he won with black he still chose to
+play this line from white. This shows that the top players analyze their
+games objectively and make use of any new ideas that they come across,
+especially in their own games.} 13. e5 Nd7 14. Qd1 {[%cal Gd1b3,Gb3d1]
+What's going on?!! Qd1-b3-d1? Is Caruana our of his mind? Not really!
+Things in the centre are settled now and the queen doesn't mind this backward
+move, mainly vacating the b3 square for the knight.} f6 $5 { Immediately
+challenging the center. As Giri said during the press conference, he thought
+that this line was fine for Black, but after the game he thinks that his
+seconds somehow had underestimated the dangers in the position.} 15. e6
+Nb8 {Undeveloping moves seem to be the order of the day. However, to be
+fair, the knight simply didn't have a good square to go to.} 16. Nb3 {Eyeing
+for the c5 outpost which would force Black to part with his dark squared
+bishop. At the same time the route for the bishop to develop on d6 has
+been opened.} Qd6 (16... Nbc6 {was possible but it seems as if Anish wanted
+to prevent his opponent from going Bf4.}) 17. g4 Bg6 18. Nh4 Nbc6 19.
+Bxc6 (19. Nxg6 Nxg6 {looks fine for Black.}) (19. Ng2 {preparing Bf4 can
+be an option, but Black has a strong move in the form of} f5 $1 20. Bf4
+Qb4 21. Bxc6 Nxc6 $11 ) 19... Qxc6 (19... bxc6 20. Ng2 {is now a clearly
+better position for White as Bf4 is threatened and there is no bishop
+to attack on b5 with Qb4.} f5 21. Bf4 Qb4 22. a3 Qa4 23. g5 $16 {Black
+is left without any countrplay.}) 20. Bd2 {White is ready to give up the
+d4 pawn in order to get good amount of piece activity.} (20. Bf4 {is natural
+but it always seems dangerous to put a piece where a pawn fork can happen.
+In this case the move g7-g5.} Bc2 21. Qd2 Bxb3 22. axb3 g5 23. Bxg5 fxg5
+24. Qxg5+ Kh8 {Giri showed some blistering analysis in this position.
+One of the lines that was very entertaining was the following.} 25. Qe5+
+Kg8 26. Nf5 Nxf5 27. gxf5 Qd6 28. f6 Qxe5 29. dxe5 $16 { [%csl Ge5,Ge6,Gf6]
+Anish gave us an example of four rows of pawns (32 pawns!) vs all the
+other pieces. Truly wonderful the kind of thing these top players like
+to indulge in!}) 20... Bc2 21. Qe2 Bxb3 22. axb3 Bxd4 {Although Black
+has won a pawn, it doesn't really matter. The pawn on e6 is a monster
+and the rook on a1 is also activated without any efforts. Giri has to
+play carefully here.} 23. Bb4 Bc5 (23... Rfe8 $2 24. Bxe7 Rxe7 25. Nf5
+$18) 24. Rec1 b6 25. Bxc5 bxc5 26. Ra6 (26. Ra5 {winning the c5 pawn could
+have been even stronger.}) 26... Qb7 27. Rxc5 Rfe8 28. Qb5 {It was possible
+to play more aggressively, but Caruana had already spent a lot of his
+thinking time and hence decided it was safer to simplify the game.} (28.
+Nf5 $142 $1 Qxb3 29. Ra3 $1 (29. Rxc7 $2 Nxf5 30. gxf5 Qxh3 $11) 29...
+Qb4 30. Rxc7 $16) 28... Qxb5 29. Rxb5 d4 $1 {This pawn is the soul of
+Black's position. It will create threats and give him the necessary
+counterplay.}
+30. Nf5 (30. f4 {looks natural.} Rad8 31. Nf3 d3 32. Nd2 {This was Vladimir
+Kramnik's suggestion. White threatens f5 now, so Black must do something
+about it.} f5 $1 33. gxf5 (33. Kf2 {looks stronger but after} Rd5 {it
+should nevertheless be around equal.}) 33... Rd5 34. Rxd5 Nxd5 35. Rxa7
+Rf8 $11) 30... Rad8 31. Rxa7 (31. Nxe7+ Rxe7 32. Kf1 d3 33. Ke1 Rde8 34.
+Kd2 Rxe6 35. Rxe6 Rxe6 36. Kxd3 Rd6+ $11) 31... Nxf5 32. gxf5 d3 {Now
+it is just a draw.} 33. Ra1 g6 34. Rc5 Re7 35. Rd1 gxf5 36. Rc6 Rd4 37.
+Kg2 Kg7 38. Kf3 Kg6 39. Rc4 Rd5 40. Rc3 d2 41. Re3 Rd6 42. Re2 {An exciting
+game where we could have seen even more fireworks had Caruana not been
+under time pressure.} 1/2-1/2

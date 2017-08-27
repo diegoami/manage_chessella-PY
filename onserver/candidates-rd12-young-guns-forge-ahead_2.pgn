@@ -1,0 +1,67 @@
+[Event "Candidates 2016"]
+[Site "Moscow, Russia"]
+[Date "2016.03.25"]
+[Round "12"]
+[White "Caruana, Fabiano"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[WhiteElo "2794"]
+[BlackElo "2786"]
+[Annotator "Sagar Shah"]
+[PlyCount "133"]
+[EventDate "2016.??.??"]
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 O-O 8. Nc3
+d6 9. a3 Na5 10. Ba2 Be6 11. b4 (11. Bxe6 fxe6 12. b4 {was played by the same
+players in Sinquefield Cup 2014.}) 11... Bxa2 12. Rxa2 Nc6 13. Bg5 {Until now
+we are following the game Anand-Aronian and Dominguez-Tomashevsky but now
+Aronian deviates.} Nd7 14. Be3 Nf6 15. Qb1 {Angling for a4.} d5 16. Bg5 d4 17.
+Bxf6 dxc3 $5 {This was an interesting pawn sacrifice. Caruana didn't think too
+highly of this move at first but later realised that it was tricky. He
+commended his opponent for his play after the game.} (17... Bxf6 18. Nd5 a5 {
+was a normal way to continue.}) 18. Bxe5 Nxe5 19. Nxe5 Qd6 20. Ng4 $5 (20. Nf3
+$5 a5 21. Ra1 $14) (20. f4 {was what Aronian thought was the most natural move.
+} Bf6 21. Kh1 Bxe5 22. fxe5 Qxe5 23. Rf5 Qd6 24. Ra1 {Black has regained the
+pawn but White has much better structure and stands better.}) 20... a5 21. Ne3
+c6 22. a4 $5 (22. Nf5 Qe6 23. Nxe7+ Qxe7 24. Ra1 {Would not be sufficient
+compensation for Black for the pawn as after} axb4 25. Qxb4 $1 $16 {There is no
+way to regain the pawn.}) 22... axb4 23. axb5 cxb5 24. Nd5 Rfb8 25. Nxe7+ $2 {A
+pretty poor move which reduces all of White's advantage. It was better to keep
+the knight on d5 as it is not possible to dislodge it from there.} (25. Rxa8
+Rxa8 26. d4) 25... Qxe7 26. Qb3 h5 (26... Ra3 27. Rxa3 bxa3 28. Ra1 b4 29. Rxa3
+bxa3 30. Qxb8+ Qf8 31. Qb7 g6 $11) 27. Rfa1 Rxa2 28. Qxa2 Qc5 29. Rb1 Rd8 30.
+h3 g6 31. Qb3 Rd4 {The position is round about equal.} 32. Re1 Qa7 33. Kf1
+{This plan of centralizing the king looks pretty dubious. Maybe it was better
+to just stay put. The position is equal.} Kg7 34. Ke2 h4 35. Rd1 Qa5 36. Rb1
+Qa6 37. Kf1 Qd6 38. Ra1 $2 {A careless move by Caruana. Aronian had a winning
+move here, which could have been of the most brilliant combinations of the
+entire tournament!} (38. Re1 $11) 38... Qc5 $2 (38... Rxd3 $3 {Unbelievable as
+it may seem, this rook sacrifice is made not for an immediate finish but to
+clear the path for the queenside pawns which just cannot be stopped!} 39. cxd3
+Qxd3+ 40. Ke1 (40. Kg1 $2 Qc4 $3 $19 {And the pawns are just cruising with
+b3-c2 etc.}) 40... Qxe4+ 41. Kf1 (41. Kd1 c2+ $1 42. Qxc2 Qd4+ $19) 41... Qd3+
+42. Ke1 Qd2+ 43. Kf1 c2 44. Qb2+ Kh7 {The king is safe here and now the next
+threat is b3, b4 followed by Qc3!} 45. Kg1 b3 46. Rf1 (46. Kh2 Qf4+ 47. Kg1 b4
+$19) (46. Qxb3 c1=Q+) 46... Qf4 $19 (46... b4 $2 47. Qxb3 c1=Q 48. Qxf7+ $11))
+39. Rb1 Qa7 40. Ke2 g5 $6 {This move weakens the kingside a bit and it was
+quite a drastic decision to make especially on the 40th move.} 41. Rg1 Qd7 42.
+Ra1 Qe7 43. Ra6 Qc7 44. Ra8 Qf4 45. Ra1 g4 (45... Rxd3 {is similar to the
+previous Rxd3 variation. The only difference is that the pawn is on g5 and this
+is the thing which allows White to hold.} 46. cxd3 Qd2+ 47. Kf1 Qxd3+ 48. Kg1
+Qc4 49. Qd1 c2 50. Qc1 $1 {Attacking the g5 pawn. This is the crucial tempo.}
+(50. Qh5 c1=Q+) 50... Kh6 (50... f6 51. e5 $1) (50... Kg6 51. Ra6+ Kh5 52. g4+
+hxg3 53. fxg3 Qe2 54. Qb2 (54. g4+ Kh4 55. Rh6+ Kg3 $19) 54... Qe1+ 55. Kg2
+Qe2+ $11) 51. Qb2 $11) 46. hxg4 Qxg4+ 47. Ke3 (47. Kf1 h3 48. gxh3 Qxh3+ 49.
+Ke2 Qg4+ 50. Ke3 Rd6 51. Qxb4 Rf6 $2 (51... Qh3+ $11) 52. Kd4 $1 $18) 47... Rd6
+48. Qxb4 Qg5+ 49. Ke2 Rf6 $1 (49... Qd2+ 50. Kf1 Rf6 51. Qc5 $11) 50. Qxc3 Qxg2
+51. Qd4 h3 (51... Qf3+ 52. Ke1 (52. Kd2 h3) 52... h3 {forces White to be
+extremely accurate.} 53. e5 Re6 54. Qe4 Qxe4+ 55. dxe4 Rxe5 56. Kf1 Rxe4 57.
+Kg1 {With a probable draw.}) 52. Qe3 Qg4+ 53. Kd2 (53. f3 Qg2+ 54. Qf2 Rg6 55.
+Qxg2 Rxg2+ 56. Kf1 Rxc2 57. Kg1 $11) 53... Qg2 54. Ke2 Qg4+ 55. Kd2 h2 56. Rh1
+Qg2 57. Qg3+ Qxg3 58. fxg3 Rf2+ 59. Kc3 {This is a complicated endgame.
+Although the evaluation is equal, White is the one who has to be careful. He
+must create counterplay before the Black king reaches to g3.} Kf6 60. d4 Kg5 (
+60... Rg2 61. Kb4 Rxc2 62. Kxb5 $11) 61. d5 Kf6 (61... Kg4 62. d6 Kxg3 63. d7
+$18) 62. g4 Ke5 63. g5 b4+ 64. Kxb4 Rxc2 65. Kb5 Kd6 66. Kb4 Ke5 67. Kb5 { No
+improvement can be made and the game ends in a draw. A very interesting
+battle.} 1/2-1/2

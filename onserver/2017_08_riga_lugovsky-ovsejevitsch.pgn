@@ -1,0 +1,59 @@
+[Event "Riga Tech op 7th"]
+[Site "Riga"]
+[Date "2017.08.10"]
+[Round "5"]
+[White "Lugovskoy, Maxim"]
+[Black "Ovsejevitsch, Sergei"]
+[Result "1-0"]
+[ECO "C49"]
+[WhiteElo "2440"]
+[BlackElo "2596"]
+[Annotator "Marco Baldauf"]
+[SetUp "1"]
+[FEN "2qr3r/4k3/p3np2/1pp1pRp1/4P1P1/3P2B1/5PK1/R1Q5 w - - 0 41"]
+[PlyCount "23"]
+[EventDate "2017.08.07"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LAT"]
+[SourceTitle "Mega2017 Update 43"]
+[Source "Chessbase"]
+[SourceDate "2017.08.18"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.08.18"]
+[SourceQuality "1"]
+
+{[#]} 41. Qa3 {the position after move 40 is completely winning for black. He
+is two pawns up, has the better light piece and the white rook on f5 is in
+danger of getting embarrassed by ...Nd4. In a "normal" time control, Lugovsky
+could consider of giving up, but consistently being under time pressure, the
+black position turns out to be hard to handle - even for such a strong
+grandmaster as Ovsejevitsch.} Nd4 42. Rc1 b4 43. Qa2 b3 $2 ({there is nothing
+wrong with} 43... Nxf5 {but who would give up such a strong knight against the
+poorly placed rook on f5?} 44. gxf5 Rd6 {and white could try to complicate
+matters by playing the strong} 45. d4 {although after the precise} Qc6 $1 $19 {
+the game wouldn't last too long.}) (43... Qc6 $1 $19 {centralising the queen
+and vacating the c8-square for the rook would have been the easiest. I don't
+see a way for white to mudden the waters.}) 44. Qa3 $1 {The queen attacks the
+pawn on c5 and suddenly things turn out to be complicated} Kf7 $2 (44... Ne6 {
+a sad choice to give up the b3 pawn, but that way, Ovsejevitsch stays in
+control} 45. Qxb3 Qc6 {[%cal Gc6b5]} 46. Bxe5 $5 fxe5 47. Rxe5 Kd7 48. d4 {
+and things are still not settled although the extra material should count}) (
+44... Rd6 45. Rxc5 Qd7 {looks good as well. White needs to hurry by playing}
+46. Bxe5 {and things are chaotic again} fxe5 $6 (46... Nxf5 47. Bxf6+ Kxf6 $1 (
+47... Rxf6 48. gxf5 $13 {[%csl Re7]}) 48. gxf5 Kg7 {seems to be the easiest} ({
+a line supported by the engine is} 48... Qh7 {but who would enter the
+complications after} 49. Qb2+ Ke7 $8 50. Rc7+ Rd7 51. Qe5+ Kd8 52. Rxd7+ Kxd7
+53. Qe6+ Kc7 54. Qc4+ Kb7 55. Qxb3+ Ka7 $19) (48... Rb8 49. e5+ Kxf5 50. exd6+
+Kg6 $17) 49. Qb2+ Kh7 50. Qxb3 Rd8 $17 {and somehow the extra rook should
+finally make itself felt}) 47. Rfxe5+ Kf7 48. Rxg5 $132) 45. Rxc5 {the white
+heavy pieces enter the black camp and the king on f7 starts to feel akward} Qb7
+$2 (45... Qd7 $1 {is the only way to stay in the game as the queen is
+protected in d7} 46. Rcxe5 $1 (46. Bxe5 $6 {doesn't work now} Nxf5 47. Rc7 $2
+Nh4+ 48. Kf1 fxe5 49. Rxd7+ Rxd7 $19) 46... Nxf5 47. Qxb3+ $1 Kg7 48. Rxf5 $44
+{[%cal Ge4e5]}) 46. Bxe5 (46. Rxf6+ $1 {would have been even stronger} Kxf6 47.
+Bxe5+ Kg6 48. Rc7 Qxc7 49. Bxc7 $18) 46... Nxf5 47. Rc7+ Qxc7 48. Qxb3+ Kg7 49.
+Bxc7 Nd4 $2 (49... Nh4+ 50. Kf1 Nf3 $1 {[%cal Gf3d2]} 51. Qc3 Rd7 {and black
+can hang on, although his position looks suspicous.}) {However, after} 50. Qb6
+$1 {the game ends quickly} Rd7 51. e5 $1 Rf8 52. Bd6 1-0
+

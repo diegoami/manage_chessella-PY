@@ -1,0 +1,62 @@
+[Event "Riga Tech op 7th"]
+[Site "Riga"]
+[Date "2017.08.10"]
+[Round "6"]
+[White "Braun, Arik"]
+[Black "Tang, Andrew"]
+[Result "0-1"]
+[ECO "D31"]
+[WhiteElo "2577"]
+[BlackElo "2475"]
+[Annotator "Marco Baldauf"]
+[PlyCount "96"]
+[EventDate "2017.08.07"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LAT"]
+[SourceTitle "Mega2017 Update 43"]
+[Source "Chessbase"]
+[SourceDate "2017.08.18"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.08.18"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 {The Queens Gambit can be considered to be the
+most classical approach for black.} 4. cxd5 exd5 5. Bf4 c6 6. Qc2 Nf6 7. h3 (7.
+e3 Nh5 8. Be5 Nd7 9. Be2 Nxe5 10. dxe5 g6 11. Bxh5 gxh5 12. O-O-O f6 $1 {
+was fine for black in 0-1 (72) Grischuk,A (2747)-Aronian,L (2808) Kazan 2011
+CBM 143 [Krasenkow,M]}) 7... Qa5 $1 {prepares the exchange of on pair of
+knights which is in general good news for black} 8. Nf3 Ne4 9. Nd2 {White has
+to waste a tempo, otherwise ...Bb4 or ...Bf5 would excert pressure on the
+constellation Qc2, Nc3, Ke1.} (9. Bd2 Nxd2 10. Nxd2 g6 11. e3 Bf5 12. Bd3 Bxd3
+13. Qxd3 Qd8 {and black can't be worse: 1/2-1/2 (19) Lupulescu,C (2657)-Giri,A
+(2714) Porto Carras 2011}) 9... Nxd2 10. Qxd2 O-O 11. e3 Bf5 $1 $146 (11... Be6
+$6 {there is no need to surrender the important diagonale b1-h7 that easily}
+12. Bd3 c5 13. dxc5 $14 {1-0 (65) Lupulescu,C (2616)-Goganov,A (2517) Plovdiv
+2012}) 12. g4 $2 {a decision you definitely make with mixed feelings, as the
+white king will have to castle long afterwards. Maybe already a mistake, as
+Arik Braun told me after the game. He underestimated the black attacking
+potential while dreaming of getting an advantage on the king side.} (12. Bd3
+Bxd3 13. Qxd3 $11 {would give up all ambitions the reach an advantage out of
+the opening. Black is completely fine.}) 12... Be6 13. O-O-O (13. Bd3 {is
+possibly more sensitive. Would black choose} b5 $2 {White could exploit not
+having castled yet and bring the king towards the kingside.} ({However, after} 
+13... Nd7 $1 {it is not clear, how White will carry on his play without
+castling long.}) 14. O-O $16 {[%csl Rc6]}) 13... b5 $1 {the weakness on c6
+does not count, as Tang will show in the game! In the next moves the game will
+continue as expected: Braun regropus his Nc3 while Tang pushes his pawns on
+the queenside} 14. Kb1 b4 15. Ne2 Nd7 16. Nc1 Qb6 17. Nd3 a5 18. Rc1 Rfc8 19.
+Ne5 Nf6 20. f3 a4 21. Nd3 Nd7 22. h4 (22. Ne5 $5 {with a silent draw offer
+should have been chosen by Braun. After the text move, the white position
+becomes very dangerous. However, refusing the draw by playing} c5 $1 {would
+have been strong.}) 22... c5 23. dxc5 Nxc5 24. Nxc5 Bxc5 25. Bd3 a3 26. b3 {
+[%cal Gf4e5,Ge5d4] the problem for white is, that his Bishop on f4 can't join
+the defense as he has to protect the pawn on e3.} d4 27. exd4 Bxd4 28. Be4 Bb2
+{Objectively the position is still ok, but who would choose to defend such a
+weak king?} 29. Bxa8 Bxc1 30. Rxc1 Rxa8 31. Rd1 h5 32. Be5 f6 33. Bd4 $6 (33.
+Qd6 $1 Qxd6 34. Bxd6 hxg4 35. fxg4 Bxg4 36. Re1 $15 {and White has chances to
+survive.}) 33... Qb5 34. gxh5 Qxh5 35. Qe3 Re8 36. Ka1 Bd5 37. Qd2 Bxf3 38. Rg1
+Qxh4 39. Qxb4 Re2 40. Qc3 Bg4 41. b4 $2 {a last oversight after which Tang
+wins the game in style} Be6 $1 42. Bxf6 Rxa2+ 43. Kb1 Qe4+ 44. Kc1 Qf4+ 45. Kb1
+Qe4+ 46. Kc1 Ra1+ $1 47. Qxa1 Qe3+ 48. Kc2 Bb3+ {and mate on g1 is coming} 0-1
+

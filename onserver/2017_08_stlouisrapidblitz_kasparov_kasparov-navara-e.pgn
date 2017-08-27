@@ -1,0 +1,48 @@
+[Event "Saint Louis rapid"]
+[Site "Saint Louis"]
+[Date "2017.08.16"]
+[Round "7"]
+[White "Kasparov, Garry"]
+[Black "Navara, David"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2812"]
+[BlackElo "2737"]
+[Annotator "Marco Baldauf"]
+[SetUp "1"]
+[FEN "8/R3kpp1/6b1/2P1PpP1/5N1p/2K5/P6P/4r3 b - - 0 33"]
+[PlyCount "35"]
+[EventDate "2017.08.14"]
+[EventType "tourn (rapid)"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "21"]
+[SourceTitle "Mega2017 Update 43"]
+[Source "Chessbase"]
+[SourceDate "2017.08.18"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.08.18"]
+[SourceQuality "1"]
+
+{[#]} 33... Ke8 {From the opening Kasparov outplayed Navara completely and now
+has several ways to convert.} 34. Nd3 $6 (34. e6 $1 {is the clearest way to
+win, e.g.:} Rf1 35. c6 Rc1+ 36. Kd4 Rxc6 37. e7 {and White will mate. The
+black rook is Black's only more or less active piece but the rook alone is
+helpless against White's plans:} Rc1 38. Kd5 Rd1+ 39. Kc6 Rc1+ 40. Kd6 Rd1+ 41.
+Nd5 $18 {[%cal Ga7a8]}) 34... Re3 $1 35. Kd2 Rh3 $2 (35... f4 $132 {activates
+the bishop and complicates the position.}) 36. c6 Rxh2+ 37. Ke3 $2 {A mistake
+that is hard to understand: Kasparov allows Navara to put his rook behind the
+c-pawn. And then it is difficult for White to make progess.} (37. Kc3 $18 {
+[%csl Gc3,Rh2][%cal Gc3c2]} f4 (37... h3 38. c7 Kd7 39. Nc5+ Kc8 40. Na4 $1 $18
+{[%cal Ga4b6]}) (37... Kd8 38. c7+ Kc8 39. Nf4 $18 {[%cal Gf4d5,Gd5e7]}) 38.
+Ra8+ Ke7 39. c7 Bf5 40. Nb4 $3 (40. c8=Q $2 Bxc8 41. Rxc8 Rxa2 $16 {and White
+still needs a lot of good technique to win.}) 40... Bd7 41. Nd5+ Ke6 42. Nb6
+$18) 37... Rc2 38. e6 h3 {Black suddenly has sufficient counterplay and it is
+touch and go who will win.} 39. Nb4 f4+ 40. Kd4 h2 41. Ra8+ Ke7 42. Rh8 Rd2+ $2
+{allowing White's king to get active.} (42... Rc1 43. Rxh2 fxe6 $15 {[%cal
+Ge7d6]}) 43. Kc5 Be4 44. c7 Bb7 45. Kb6 Bc8 46. Rxc8 h1=Q 47. Re8+ (47. Nc6+
+Qxc6+ 48. Kxc6 Rc2+ 49. Kb6 (49. Kb5 f3 $132) 49... Rb2+ 50. Kc5 Rc2+ 51. Kb6
+$11) 47... Kxe8 48. c8=Q+ Ke7 49. Nc6+ $2 {This even throws the draw away -
+what a dramatic turn of events for the 13th World Champion.} (49. Qc7+ Kxe6 50.
+Qc8+ $11 {and White has a perpetual.}) 49... Qxc6+ 50. Qxc6 Rd6 0-1
+

@@ -1,0 +1,60 @@
+[Event "Candidates 2016"]
+[Site "?"]
+[Date "2016.03.21"]
+[Round "9"]
+[White "Giri, Anish"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[ECO "D70"]
+[WhiteElo "2793"]
+[BlackElo "2794"]
+[Annotator "Sagar Shah"]
+[PlyCount "191"]
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2
+e5 9. d5 c6 10. h4 cxd5 11. exd5 Na6 $5 {[%cal Gb8a6] This is a pretty uncommon
+move and the strongest player to have tried it is rated around 2400.} (11...
+N8d7 {is much more common.}) 12. h5 Nb4 13. hxg6 Bf5 $5 {[%cal Gc8f5] What an
+interesting idea by Caruana: giving up two pawns and using his lead in
+development to create dangerous threats. Although it looks totally scary for
+White, Anish kept his cool and was able to extinguish Black's initiative.} (
+13... hxg6 14. Rd1 Bf5 15. Bh6 $1 $40) 14. gxh7+ Kh8 15. Rd1 Nc2+ 16. Kf2 Nxe3
+17. Qxe3 Bd7 {Caruana played this with the idea of f5, but turns out that it
+wasn't particularly good.} (17... Rc8 {was much better.}) 18. Nh3 f5 19. f4 $1
+{[%cal Gf3f4] A strong positional move by Anish.} Rc8 20. g3 (20. fxe5 f4 $132
+21. Nxf4 Qg5 22. g3 Bxe5) 20... Nc4 $2 {The biggest mistake of the game. After
+this Anish should have won.} (20... e4 {was better.}) 21. Bxc4 Rxc4 22. fxe5
+$18 {[%cal Gh3f4] White is just two pawns up without any compensation.} f4 {
+Fabiano realises that he is completely lost and tries to sacrifice more
+material to complicate the issue.} 23. Nxf4 Qg5 24. Rd4 {The most normal move
+from the human point of view.} (24. e6 Rcxf4+ 25. gxf4 Rxf4+ 26. Ke2 Bb5+ 27.
+Nxb5 Qg2+ 28. Kd3 Qg6+ 29. Kd2 Qg2+ 30. Qe2 Rf2) (24. Ke1 $1 {This was the move
+that would have given Anish victory. However, for a human it is not so easy to
+find.} Bxe5 25. Ng6+ (25. Qxe5+ Qxe5+) 25... Qxg6 26. Qxe5+ Qg7 27. Qxg7+ Kxg7)
+24... Rxd4 25. Qxd4 Bxe5 26. Qb4 $1 {Of course this was the point of Rd4. The
+rook on f8 is hanging and White keeps his advantage.} Rf7 (26... Re8 27. Kg2)
+27. Nce2 Bg4 28. Qe4 Qf6 (28... Bxe2 29. Kxe2 Bxf4 30. Qe8+ $18) 29. Rh4 Bf5
+30. Qe3 b6 {Although White has three extra pawns it is extremely difficult for
+him to convert because the two bishops control many squares and it is not so
+easy to advance the pawns.} (30... Bxb2 31. Qxa7) 31. b3 Re7 32. Qd2 Rc7 33. d6
+{Although the computer gives many different ways for White to play for the
+advantage, Anish finds this the most human, clearing the d5 square for his
+pieces.} Bxd6 (33... Qxd6 34. Qxd6 Bxd6 {should also be defensible.}) 34. Qd5
+Rf7 35. Kg2 Bc5 36. Rh5 (36. b4 $5 Bxb4 37. Nd4 $18) 36... Bg4 37. Rh6 (37. Rg5
+Bxe2 38. Qa8+ Rf8 39. Rg8+ Kxh7 40. Rxf8 Bxf8 41. Nxe2 {is similar to what was
+reached in the game, but with the different bishop.}) 37... Qxh6 38. Qxf7 Qc6+
+39. Nd5 Be6 40. Qf6+ Kxh7 41. Qh4+ Kg7 42. Qg5+ Kf8 (42... Kf7 43. Nef4 Bxd5+
+44. Qxd5+ (44. Nxd5 Ke6 $11) 44... Qxd5+ 45. Nxd5 Ke6 46. Nf4+ Kf5 47. Kf3
+{This should most probably end in a draw although it is not 100% clear as Black
+cannot easy exchange the queenside pawns.}) 43. Qf6+ {From here on the players
+make a lot of moves and a lot of checks. Suffice it to say that White is still
+better, but with the two bishops around the black king it is extremely
+difficult to break through.} Kg8 44. Qg6+ Kf8 45. Qh6+ Kg8 46. Qg5+ Kf8 47.
+Nef4 Bf7 48. Qe5 Kg8 49. Kh3 Qd6 50. Nf6+ Kf8 51. Qf5 Ke7 52. N6d5+ Kf8 53. Kg4
+Bd4 54. Nc7 Be5 55. Ncd5 a5 56. Qc8+ Kg7 57. Ne3 Kh7 58. Qb7 Kg8 59. Qa8+ Qb8
+60. Qe4 Qd6 61. Nf5 Qd1+ 62. Ne2 Bg7 63. Nxg7 Kxg7 64. Qe5+ Kg6 65. Kf3 Qd3+
+66. Kf2 Qc2 67. Qd6+ Kg7 68. Qd4+ Kg8 69. Qg4+ Kf8 70. Qa4 Be8 71. Qa3+ Kg8 72.
+Qe7 Bf7 73. Qd8+ Kg7 74. Qd4+ Kg8 75. Qa4 Qd2 76. Qg4+ Kf8 77. Qc8+ Ke7 78.
+Qc7+ Kf8 79. a3 Bxb3 80. Qb8+ Kf7 81. Qb7+ Kg8 82. Qxb6 Qa2 83. Qd8+ Kf7 84.
+Qd7+ Kg8 85. Qe8+ Kg7 86. Qe7+ Bf7 87. g4 Qd2 88. Qc5 Be6 89. Qe5+ Kf7 90. g5
+Qa2 91. Qf6+ Ke8 92. Qh8+ Ke7 93. Qh7+ Kf8 94. Qh8+ Ke7 95. Qg7+ Ke8 96. Qh8+
+{Drawn due to three fold repetition.} 1/2-1/2

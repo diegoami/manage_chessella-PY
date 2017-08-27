@@ -1,0 +1,73 @@
+[Event "Candidates 2016"]
+[Site "?"]
+[Date "2016.03.27"]
+[Round "13"]
+[White "Anand, Viswanathan"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2762"]
+[BlackElo "2793"]
+[Annotator "Sagar Shah"]
+[PlyCount "103"]
+1. e4 e5 2. Nf3 Nc6 3. Bc4 $5 {In their previous encounter where Anand had
+white, he went for Bb5 and Anish was just impenetrable in the Berlin. It is
+a natural choice try the Guioco Piano once again.} Bc5 4. O-O Nf6 5. d3
+d6 6. c3 a6 7. a4 Ba7 8. Na3 Ne7 {This exact position was reached between
+Anand and Aronian in the ninth round. Vishy had now gone Nc2. In this game he
+deviates with the more active Bg5.} 9. Bg5 $146 c6 (9... Ng6 {looks like a
+natural move. But Giri figures that there is no need to worry about the
+doubling of his f-pawns.}) 10. Nc2 O-O 11. Nh4 $6 {Anand goes for this
+interesting idea of launching a kingside attack with taking on f6 and
+transferring the queen to h5 but this allows his opponent to break in the
+centre.} (11. Bxf6 $1 gxf6 12. d4 {looked like a very logical and tempting way
+to play for White.} Bg4 13. Bb3 f5 14. exf5 e4 15. Ne3 Bh5 16. g4 $18 {is just
+an illustrative line but take on f6 followed by d4 looked pretty strong.})
+11... d5 12. exd5 Nexd5 (12... cxd5 {Also looked pretty good as after} 13. Bb3
+Bg4 $1 14. Qd2 Nc6 $1 $15 {Black is better.}) 13. Nf3 Qd6 (13... Bg4 14. h3
+Bxf3 15. Qxf3 $14) (13... Re8) 14. Re1 {White is posing small problems for his
+opponent. This mini problem of defending e5 is not so easy to solve.} Bg4 (
+14... Re8 15. d4 $5 e4 (15... exd4 16. Rxe8+ Nxe8 17. Ncxd4 $14) 16. Ne5 {
+is some initiative for White}) 15. Bh4 {The bishop plans to go to g3 in order
+to increase the pressure on the e5 pawn.} (15. h3 Bh5 16. g4 e4 $1 (16... Bg6
+17. Nxe5 Nd7 $5 18. d4 Nxe5 19. dxe5 Qc5 20. Qe2 Bxc2 21. Bxd5 Qxd5 22. Qxc2
+Qf3 $44) 17. d4 (17. dxe4 Qg3+ $19) 17... exf3 $15) 15... Rae8 16. h3 (16. Bg3
+Nh5 $15) 16... Bh5 17. Bg3 Nf4 $1 18. Bxf4 exf4 19. d4 c5 $1 $15 {It was
+extremely important to open the bishop on a7. Black has a slight edge.} 20. Be2
+cxd4 21. Ncxd4 Re4 {White's position is solid enough to withstand the attack
+by White. But the ability to improve the situation solely lies in Black's
+hands.} 22. Qc2 Rc8 (22... Rfe8 23. Bd3 Rxe1+ 24. Rxe1 Rxe1+ 25. Nxe1 $11) 23.
+Rad1 Bxf3 {A highly committal decision by Anish. But it was not for nothing.
+He had spotted a tactic. Of course, armed with computers we can immediately
+say that the sacrifice was incorrect. However, during the game it looks
+extremely tempting.} 24. Nxf3 Bxf2+ $5 {Objectively this is incorrect. But
+with the approaching time pressure and also seeing the competitive importance
+of the game, this looks like an excellent practical try.} 25. Kxf2 Qb6+ 26. Kf1
+(26. Nd4 Rxd4 $17) 26... Nh5 27. g4 $1 {The only way for White to
+fight for an advantage. Of course, Anish saw this coming, but in any case
+winning two pawns looks like a good bet.} (27. Nd4 Ng3+ 28. Kg1 Rxd4 29. Rxd4
+Qxd4+ 30. cxd4 Rxc2 31. Bd3 Rc8 32. Re7) 27... fxg3 (27... Ng3+ 28. Kg2 {
+is absolutely nothing.}) 28. Bd3 (28. Rd4 $5 {was the best move and one which
+is not at all easy to see.} Rxd4 (28... Rce8 $5 29. Qd2 Nf4 30. Bd3 Rxe1+ 31.
+Nxe1) 29. Nxd4 Qxd4 30. Bxh5 $18 {Black has to resign.} (30. cxd4 Rxc2 31. Bxh5
+g6 32. Bd1 Rxb2 33. Re2 $16 {is better but not yet completely winning.})) 28...
+Rxe1+ (28... Rf4 29. Kg2 $14) 29. Rxe1 Nf4 30. Nd4 (30. Bxh7+ Kh8 31. Nd4 g6
+$13) 30... g6 31. Be4 $6 (31. Qd2 Nxd3 32. Qxd3 Qxb2 33. Qxg3 $14) (31. Re3 $16
+) 31... Qf6 $1 32. Bf3 (32. Kg1 Nxh3+ 33. Kg2 Nf4+ $11) 32... g2+ (32... Qxd4
+33. Re8+ Kg7 34. Rxc8 Qe3 35. Bg2 Nd3 {This doesn't work due to} 36. Re8 $1
+Qxe8 37. Qxd3 $16) (32... Rc5 {Vishy thought that this was extremely strong.
+But the engine finds a nice refutation.} 33. Qe4 $1 g2+ 34. Kg1 Nxh3+ 35. Kxg2
+Nf4+ 36. Kf1 $18) 33. Bxg2 Nd3+ 34. Nf3 Nxe1 35. Kxe1 b5 36. axb5 axb5 37. Qe4
+Rb8 38. Qd4 Qe6+ 39. Kf2 Qb3 40. Ne5 $6 (40. Qd2 $1 b4 41. Nd4 Qc4 (41... Qa2
+42. cxb4) 42. Bf3 $11) 40... Qxb2+ 41. Kg1 Rc8 42. Qf4 $6 (42. Nc6 $5 Qb1+ 43.
+Kh2 Qe1 44. c4 bxc4 45. Ne5 $13) 42... Qa2 $1 43. c4 (43. Nc6 Re8) 43... Qa7+
+44. Kh2 bxc4 45. Bd5 Rf8 $2 (45... Kg7 $5 46. Nxf7 Qa2+ 47. Bg2 Rf8 48. Qe5+
+Kxf7 49. Kg3 $1 {Bd5+ is quite srong.}) (45... Rc5 $1 46. Qd4 Rc7 $1 47. Qxa7
+Rxa7 48. Bxc4 Kg7 49. Nxf7 Rxf7 (49... Rc7 50. Nd6 Rc6 51. Ne8+ Kf8 52. Bb5 Rc5
+53. Ba4 $17 {with a most probable draw.}) 50. Bxf7 Kxf7 51. Kg3 {is a
+tablebase draw.} Ke6 52. Kg4 Kf6 53. h4 h5+ 54. Kf4 Ke6 55. Ke4 $11) 46. Qf6 $1
+Qa2+ 47. Kg3 Qa7 (47... Qa3+ 48. Kh4 $18) 48. Kg2 (48. Kf3 Qa3+ 49. Ke4 Qa7 50.
+Bxc4 Qa4 51. Kf4 Qb4 $1 {Only move.} 52. Kg4 h5+ 53. Kg3 $11) 48... Qa2+ 49.
+Kf3 Qa3+ 50. Kg4 Qa7 51. Kf3 Qa3+ 52. Kg4 {With this draw Anand's chances to
+qualify for the World Championships came to an end – and Giri made his 13th
+consecutive draw.} 1/2-1/2

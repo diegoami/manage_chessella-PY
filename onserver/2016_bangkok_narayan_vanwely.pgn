@@ -1,0 +1,31 @@
+[Event "Bangkok CC Open"]
+[Site "?"]
+[Date "2016.04.13"]
+[Round "5.2"]
+[White "Sunilduth Lyna, Narayanan"]
+[Black "Van Wely, Loek"]
+[Result "0-1"]
+[ECO "E15"]
+[WhiteElo "2501"]
+[BlackElo "2654"]
+[Annotator "Johannes Fischer"]
+[PlyCount "70"]
+[EventDate "2016.04.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "THA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb4+ 5. Bd2 Be7 6. Nc3 O-O 7. Qc2 d5 8. cxd5
+exd5 9. Bg2 c5 10. O-O Nc6 11. Rad1 cxd4 {[#]Leading to an isolated queen pawn
+- and active play for Black.} 12. Nb5 Bc5 13. Bf4 Ba6 14. Nbxd4 Nxd4 15. Nxd4
+Re8 16. Bf3 Qd7 17. Nb3 Rac8 18. Nxc5 {[#]Not Black no longer has an isolated
+queen pawn but hanging pawns - but he keeps active play.} bxc5 19. Bg5 d4 20.
+Bxf6 gxf6 21. Qd2 Rcd8 22. b3 Kg7 23. Rfe1 Re5 24. Qf4 Qe7 25. b4 d3 26. bxc5
+dxe2 27. Rxd8 Qxd8 {[#]White's passed c-pawn and Black's e-pawn create a
+double-edged position in which White is the first to go wrong.} 28. c6 $6 ({
+The engines recommend} 28. Qg4+ Kh8 29. Qb4 {with an equal position.}) 28...
+Qa5 {[#]This attack on e1 forces White on the defensive.} 29. Qc1 Rc5 30. Qa1
+Qd2 31. Kg2 Bb5 {[#]Suddenly White is lost. Black simply attacks the c-pawn
+which White cannot defend.} 32. Kg1 Rc3 33. a4 Bxc6 34. Bxe2 Qd5 35. f3 Rxf3 {
+[#]} 0-1
+

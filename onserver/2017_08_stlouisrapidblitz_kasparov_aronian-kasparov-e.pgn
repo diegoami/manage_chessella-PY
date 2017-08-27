@@ -1,0 +1,46 @@
+[Event "Saint Louis rapid"]
+[Site "Saint Louis"]
+[Date "2017.08.15"]
+[Round "4"]
+[White "Aronian, Levon"]
+[Black "Kasparov, Garry"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[WhiteElo "2799"]
+[BlackElo "2812"]
+[Annotator "Marco Baldauf"]
+[SetUp "1"]
+[FEN "8/1p5p/p7/2n2kp1/8/P1NK2P1/7P/8 w - - 0 39"]
+[PlyCount "8"]
+[EventDate "2017.08.14"]
+[EventType "tourn (rapid)"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "21"]
+[SourceTitle "Mega2017 Update 43"]
+[Source "Chessbase"]
+[SourceDate "2017.08.18"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.08.18"]
+[SourceQuality "1"]
+
+{[#]} 39. Kd4 Nd7 $2 (39... Nb3+ $1 40. Ke3 (40. Kd5 Nd2 {[%csl Rg3,Rh2][%cal
+Gd2f1]} 41. Kc5 (41. h3 g4 $1 42. h4 Nf1 43. Ne2 Ne3+ 44. Kd4 (44. Kc5 Ke4 $19
+{[%cal Ge4f3]}) 44... Nc2+ 45. Kd3 Nxa3 $19) 41... Nf1 42. Kb6 Nxh2 43. Kxb7 h5
+44. Kxa6 h4 45. gxh4 gxh4 $19 {and Black is first. The knight often has
+problems when fighting against an outside pawn.}) 40... b5 $19 {[%cal Gb3a5,
+Ga5c4] and Black keeps all his chances.}) 40. Ne4 Kg4 $6 (40... b6 41. h3 $17 {
+and White is probably active enough to be able to hold the position, e.g.} g4
+42. hxg4+ Kxg4 {aktives Spiel zu sofortigem Remis} 43. Kd5 $1 b5 44. Kc6 Ne5+
+45. Kb6 Nc4+ 46. Kxa6 Kf5 (46... Nxa3 47. Nf6+ Kxg3 48. Nxh7 $11) 47. Nf2 Nxa3
+48. Ka5 $11 {[%cal Ga5b4]}) 41. h3+ {In time-trouble Kasparov had missed this
+tactical idea. Black can no longer hope for a win.} Kxh3 42. Nxg5+ Kxg3 (42...
+Kg4 $5 {would have posed some minor problems for White:} 43. Nxh7 b5 {[%csl
+Gd7,Gg4,Rh7][%cal Gd7f8,Gd7f6,Gg4g5,Rh7f8,Rh7f6,Rh7g5]} 44. Kd5 $1 (44. Kc3 $2
+a5 45. Kb3 Kh5 46. Kc3 Kg6 $19) 44... a5 45. Kd6 $1 (45. Kc6 $2 b4 46. axb4 a4
+47. b5 Nb8+ $1 48. Kc7 a3 49. Kxb8 a2 50. b6 a1=Q 51. b7 Qh8+ 52. Ka7 Qxh7 $19)
+45... b4 46. axb4 a4 (46... axb4 $6 47. Kxd7 b3 48. Nf6+ {[%cal Gf6d5,Gd5c3]}
+Kf3 49. Nd5 b2 50. Nc3 $11) 47. b5 (47. Kxd7 $2 a3 {[%csl Gb3,Gc2,Rh7][%cal
+Rh7f6,Rf6d5,Ga3a1]} 48. Nf6+ Kf3 $19) 47... a3 48. Nf6+ $1 Nxf6 49. b6 a2 50.
+b7 a1=Q 51. b8=Q $11) 1/2-1/2
+

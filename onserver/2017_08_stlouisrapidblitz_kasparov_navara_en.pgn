@@ -1,0 +1,43 @@
+[Event "Saint Louis Rapid 2017"]
+[Site "Saint Louis"]
+[Date "2017.08.16"]
+[Round "7"]
+[White "Kasparov, Garry"]
+[Black "Navara, David"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2812"]
+[BlackElo "2737"]
+[Annotator "André Schulz"]
+[PlyCount "100"]
+[EventDate "2017.??.??"]
+[EventType "rapid"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 (6... Ne7 7. Nf4 c5
+8. dxc5 Nd7 9. h4 Nxe5 10. Bg2 h5 11. Qe2 N7c6 12. Nxg6 Nxg6 13. Bg5 Be7 14.
+gxh5 Nf8 15. Nb5 Nd7 16. h6 Nxc5 17. Bf4 Kf8 18. hxg7+ Kxg7 19. O-O-O Kf8 20.
+Kb1 a6 21. Nc7 Rc8 22. Bxd5 exd5 23. Rxd5 Qxc7 24. Bxc7 Rxc7 25. Rf5 Rd7 26. c3
+f6 27. Rg1 Nd8 28. Qg4 Ke8 29. Rh5 Rf8 30. Rxc5 Bxc5 31. Qh5+ {1-0 (31)
+Kasparov,G (2849)-Karpov,A (2679) Linares 2001}) 7. Be3 Ne7 ({is typical} 7...
+Nc6) 8. f4 h5 9. f5 exf5 10. g5 Nbc6 11. Nf4 {The bishop on g6 is dead at the moment, and d5 is under attack. Black must be careful that his king doesn't get marooned in the center.} a6 12. Bg2 cxd4 13. Bxd4 Nxd4 14. Qxd4 Nc6 15. Qf2 (
+15. Qxd5 Qxg5) 15... Bb4 (15... Qxg5 16. Ncxd5 $18 {with many threats, i.e.
+Nc7+}) 16. O-O-O {Dynamic play. White does not worry about receiving doubled-pawns on the queenside.}
+Bxc3 17. bxc3 Qa5 18. Rxd5 ({Stronger was} 18. Bxd5 O-O-O (18... O-O 19. Nxg6)
+(18... Qxc3 19. Rd3) 19. Qe3 {and White has everything under control, while he threatens the e6 break.}) 18... Qxc3 19. Qc5 Qxc5 20. Rxc5 $16 {Transitioning to a
+better endgame. The g6-bishop remains dead.} O-O 21. Bxc6 bxc6 22. Rd1
+Rab8 23. c4 Rfd8 24. Rd6 Kf8 25. Rcxc6 Rdc8 26. Kc2 h4 27. Rxc8+ Rxc8 28. Kc3
+$18 a5 29. Ra6 (29. e6 $5) 29... Rb8 30. Rxa5 Rb1 31. c5 Re1 32. Ra8+ Ke7 33.
+Ra7+ Ke8 34. Nd3 $6 {White starts to drift.} (34. e6 $1 {with the idea of}
+Rf1 35. c6 Rxf4 36. c7 {and mate.}) 34... Re3 35. Kd2 $2 (35. c6 $1 {still winning, e.g.:} f4 36. Ra8+ Ke7 37. c7 Rxd3+ 38. Kc4 Rd2 39. c8=Q Rc2+ 40.
+Kd4 Rxc8 41. Rxc8 $18) 35... Rh3 $2 ({Important was} 35... f4 36. Nxf4 Rxe5 37.
+c6 Rc5 $14) 36. c6 $18 Rxh2+ 37. Ke3 $6 (37. Kc3 $18 {wins:} Kd8 38. c7+ Kc8
+39. Nf4 {with the threat of Nd5 and Ne7.}) 37... Rc2 38. e6 $2 (38. Ra8+ {still wins:} Ke7 39. Nb4 Rc4 40. c7 f4+ 41. Kf2 Bf5 42. Nd5+ Ke6 43. c8=Q+ Rxc8
+44. Rxc8 Kxd5 45. Rc7 Be6 $18) 38... h3 $11 {Now the endgame is objectively drawn.} 39. Nb4 ({White could force a draw with} 39. Ra8+ Ke7 40. Nf4 Rxc6
+41. Ra7+ Ke8 (41... Kd6 $2 42. Rd7+ Kc5 43. e7 $18) 42. Ra8+ Ke7 $11) 39... f4+
+40. Kd4 h2 41. Ra8+ Ke7 42. Rh8 Rd2+ $6 (42... Rc1 43. Rxh2 fxe6 44. Rh8 Be8 {
+with a complicated situation and roughly equal chances.}) 43. Kc5 Be4 44. c7 Bb7
+45. Kb6 Bc8 46. Rxc8 (46. a4 Rd6+ 47. Kc5 fxe6 48. Rxh2 $11) 46... h1=Q 47.
+Re8+ Kxe8 48. c8=Q+ Ke7 49. Nc6+ $4 {That would be mate but Kasparov missed the refutation:} (49. Qc5+ {leads to a perpetual check:} Kxe6 50. Qc8+ Ke7 (
+50... Rd7 51. Qe8+ Re7 52. Qc8+) 51. Qc7+) 49... Qxc6+ $1 50. Qxc6 (50. Kxc6
+Rc2+ $19) 50... Rd6 0-1
+

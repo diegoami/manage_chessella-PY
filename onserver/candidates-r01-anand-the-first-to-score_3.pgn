@@ -1,0 +1,78 @@
+[Event "FIDE Candidates 2016"]
+[Site "Moscow RUS"]
+[Date "2016.03.11"]
+[Round "1"]
+[White "Giri, Anish"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2793"]
+[BlackElo "2786"]
+[Annotator "Sagar Shah"]
+[PlyCount "130"]
+[EventDate "2016.03.10"]
+{In this game I will avoid commenting too much about the opening as it is all
+well known and many games have been played in this line. But the middlegame and
+the late endgame are particularly interesting.} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4.
+Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 c6 8. h3 b6 9. b4 a5 10. a3 h6 11. Bd3 Ba6
+12. O-O Qc8 13. Rb1 axb4 14. axb4 Bxd3 15. Qxd3 Qb7 {This position has been
+reached, just 15 days ago in the game of Sargissian with the black pieces
+against Ding Liren. Sargissian is one of Levon's second and we can be sure that
+he prepared this line with him.} 16. Rfc1 {This same position with a different
+move order was already played by Aronian against Nakamura from the white side
+in the Zurich Chess Challenge 2016.} Rfc8 17. Ne1 $146 {Giri's novelty, not an
+earth shattering one but just improving his f3 knight.} Bd8 18. Qd1 Bc7 19. Nd3
+Bxf4 20. exf4 Ne4 21. Ne2 Ra2 22. Rc2 {As Anish mentioned after the game, Black
+is comfortable here. He should only be careful not to allow b4-b5. Aronian does
+not prevent it and after that he is under grave pressure.} Rca8 $6 23. f3 Rxc2
+24. Qxc2 Nef6 25. b5 $1 Rc8 (25... bxc5 26. dxc5 cxb5 27. Nd4 $36 (27. c6 Qb6+
+$11)) 26. Qa4 $1 {An extremely strong move by Anish who threatens to play his
+queen to a6 here. This idea was missed by Levon. Anish mentions that he found
+this idea after much deliberation and his thoughts were mainly concerned with
+breaking on the kingside with f5. But when that didn't work he turned his
+attention on the other wing and found this idea. } Qc7 (26... bxc5 27. dxc5
+cxb5 28. Rxb5 Qc7 29. Nd4 $16) (26... cxb5 27. Qxb5 $16 {It is not at all easy
+for Black to untangle.}) 27. bxc6 Qxc6 28. Qxc6 Rxc6 {[#] White has a way out.}
+29. Rc1 (29. Nb4 Rc7 30. c6 Nb8 31. Nc3 $1 {The absolute star move and hats off
+to Aronian for having seen this for his opponent. It just shows how good these
+guys are, always looking out for opponent's threats.} (31. Ra1 Nxc6 32. Rc1
+Nxd4 $11) (31. Rc1 Ne8) 31... Nxc6 32. Nb5 Rc8 33. Nd6 Rd8 34. Nxf7 $1 Kxf7 35.
+Nxc6 $16 {The knight comes to e5. The position might not be 100% lost, but it
+is really unpleasant to be black here.}) 29... Rc7 (29... Rc8 30. c6 Nb8 31.
+Nb4 Ne8 32. f5 $1 {Once again Aronian suggested this move. One gets the feeling
+that the Armenian wanted to get up from the board and switch sides! He was
+seeing some really excellent winning resources for his opponent.} Nd6 33. fxe6
+fxe6 34. Nf4 $16 Kf7 $2 35. c7 $1 Nd7 36. Rc6 $18) 30. Nc3 bxc5 31. dxc5 Ne8
+(31... Nxc5 32. Nb5 {Anish thought that he was winning at this point, but the
+computer shows an excellent defensive resource for Black.} Nfd7 $3 {Even 2800
+players can miss such moves!} (32... Nxd3 33. Rxc7 Nxf4 34. Nd6 d4 35. Rc8+ Kh7
+36. Nxf7 d3 37. Rh8+ Kg6 38. Ne5+ Kf5 39. Nc4 $18) 33. Nxc7 Nxd3 $11) 32. Nb5
+Rc8 33. Kf2 Nc7 34. Nxc7 Rxc7 35. Ke3 {White is better here, but Black can
+cling on by quickly bringing his king to the center.} Kf8 36. Kd4 (36. f5 $5)
+36... Nb8 $1 {A nice move by Levon. Suddenly it is not easy to make progress.}
+37. Nb4 Rb7 38. Kc3 Ke7 39. Ra1 Kd7 40. Nd3 f6 {Aronian offered a draw at this
+point, but Giri saw that he will always have some chances with the f5 break or
+the kingside pawn storm and hence decided to continue the battle.} 41. Ra8 Kc6
+42. h4 Kb5 43. Ra1 Nc6 44. Rb1+ Ka6 45. Re1 Re7 46. Ra1+ Kb7 47. Nb4 g5 $5
+{Aronian doesn't like to just sit around. He actively tries to draw the game.}
+48. fxg5 fxg5 49. h5 Rf7 ({ A very interesting variation showed by both the
+players was} 49... Re8 50. Ra6 Nxb4 51. Rb6+ Kc7 52. Kxb4 Rb8 53. Kb5 {Both the
+players thought this was lost for Black, but as always the computer begs to
+differ!} Kc8 $1 {A passive, backward retreating and a difficult move for humans
+to see.} (53... e5 { Aronian and Giri showed this line and this is really
+nice.} 54. Rxb8 Kxb8 55. Kc6 $1 d4 56. Kd7 $18) 54. Rxb8+ (54. Kc6 $2 Rxb6+ 55.
+cxb6 d4 $19) 54... Kxb8 55. Kc6 Kc8 $11 {and miraculously Black holds the
+draw.}) 50. Ra6 (50. Nxc6 Kxc6 51. Ra6+ Kxc5 52. Rxe6 g4 $1 {A key point that
+had to be seen beforehand.} 53. fxg4 Rf2 $11) 50... Nxb4 51. Rb6+ Kc8 (51...
+Kc7 $2 {Is losing. The point is that Black doesn't have Rb7 now.} 52. Kxb4 $1
+g4 53. fxg4 Rf4+ 54. Kb5 Rxg4 55. Rxe6 Rxg2 56. Re7+ Kd8 57. Rh7 $18 {[%cal
+Gh7h6,Gc5c6]}) 52. Rxb4 (52. Kxb4 Rb7 $1 {This pawn ending is drawn.} 53. Kb5
+Rxb6+ 54. cxb6 d4 55. Kc4 e5 56. g3 Kb7 57. f4 exf4 58. gxf4 gxf4 59. Kxd4 $11)
+52... Rf4 $1 {The king and pawn ending is drawn.} 53. Rxf4 gxf4 54. Kd4 Kd7 55.
+Ke5 Kc6 56. Kxf4 Kxc5 57. g4 Kd6 $1 {Only move to draw.} 58. Ke3 (58. g5 hxg5+
+59. Kxg5 Ke7 $1 (59... d4 $2 60. h6 d3 61. h7 d2 62. h8=Q d1=Q 63. Qd8+ $18)
+60. h6 Kf8 61. Kg6 Kg8 $11) 58... e5 $1 59. g5 Ke7 $1 60. g6 Kf6 61. Kd3 e4+ $1
+{Aronian knows his endgame fortresses!} 62. fxe4 dxe4+ 63. Kxe4 Kg7 64. Kf5 Kg8
+65. Kf6 Kf8 {A superb game with some very nice resources found by both players.
+An entire chapter on how to keep pressing your opponent and finding small
+nuances in simplified positions can be written on this very game.} 1/2-1/2

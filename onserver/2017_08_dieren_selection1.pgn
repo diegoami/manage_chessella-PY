@@ -1,0 +1,60 @@
+[Event "Condigne Open NK"]
+[Site "Dieren"]
+[Date "2017.08.01"]
+[Round "7"]
+[White "Elgersma, Simon"]
+[Black "Wiersma, Eelke"]
+[Result "1-0"]
+[ECO "B46"]
+[WhiteElo "2120"]
+[BlackElo "2352"]
+[SetUp "1"]
+[FEN "2b1k3/2qnb2p/pr2p1rB/2p1PpN1/2Pp1PpQ/3B4/PP2R1PP/R5K1 b - - 0 22"]
+[PlyCount "14"]
+[EventDate "2017.??.??"]
+
+{After a double-edged opening and middlegame discussion, the players landed in
+the following position, which is far from lacking venom.} 22... Bf8 23. Qh5 {
+sacrificing a piece for initiative} ({If} 23. Bxf8 Nxf8 {[%csl Rg5] and the
+knight on g5 won't be satisfied with moves like h6 coming in sight.}) 23...
+Bxh6 24. Nxh7 Kf7 25. Bxf5 {Now the second piece goes! It is quite exciting to
+follow the Dutch chess scenes.} exf5 26. e6+ Kg7 27. e7 {Now food for thought:
+can Black defend? How?} Kxh7 {was played but that loses on the spot.} ({
+What else though?} 27... Rge6 {would not save much.} 28. e8=N+ {Just because
+it looks prettier, obviously queening is not wrong either.} Rxe8 29. Qxe8 Kxh7
+30. Re7+ Bg7 31. Qh5+ Rh6 32. Qxf5+ Kh8 33. Qf7 Bf8 34. Qxf8+ Nxf8 35. Rxc7 Be6
+36. Rxc5 $18 {And White has too many pawns for Black to worry about.}) ({
+Instead,} 27... Rbe6 $1 {would have kept the game going. That only if you saw
+a crucial move further on...} 28. e8=Q Rxe8 29. Rxe8 Ne5 $1 {Analyze this!
+Very difficult resource to be seen from afar.} (29... Kxh7 {runs into the same
+devastating attack} 30. Re7+ Rg7 31. Qxf5+ Kh8 32. Rae1 $18) {The point is
+that after} 30. fxe5 (30. Rxe5 $2 Bxf4 $19) 30... Be3+ 31. Kh1 Rh6 {would
+follow, with a winning position for Black. White is, of course, not forced to
+take the Trojan horse but at the end of the day, it will remain difficult to
+keep an eye on all the weaknesses. That and my engine also prefers Black.}) 28.
+e8=Q Rbf6 29. Qxh6+ {the cherry on the cake.} 1-0
+
+[Event "Condigne Open NK"]
+[Site "Dieren"]
+[Date "2017.07.28"]
+[Round "4.8"]
+[White "Maatman, Nick"]
+[Black "Ikonnikov, Vyacheslav"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[WhiteElo "2386"]
+[BlackElo "2538"]
+[PlyCount "35"]
+[EventDate "2017.??.??"]
+
+{Another example from the same book entitled "Stepping on a minefield". The
+fact that Vyacheslav Ikonnikov escaped with a draw is remarkable.} 1. d4 Nf6 2.
+c4 b6 3. Nc3 Bb7 4. Nf3 e6 5. a3 g6 6. Qc2 c5 7. dxc5 bxc5 8. Bf4 d6 9. Rd1 Qb6
+10. Nb5 e5 {How would you continue?} 11. Nxe5 $1 dxe5 12. Bxe5 Nbd7 13. Nc7+ {
+Now the question is: where to?} Kd8 {not the best square available} (13... Ke7
+{first and only after} 14. Bd6+ Kd8 {would have kept all the chances on the
+table} 15. Nxa8 Bxa8 {with a complicated and still fighting game.}) 14. Qd2 {
+intermediate move which was most probably missed by Black} Qc6 15. Bxf6+ Kxc7
+16. Bxh8 Bd6 17. Bc3 Re8 18. e3 $18 {However, the big advantage White had
+vanished in the remainder of the game and Black got away with half a point.}
+1/2-1/2

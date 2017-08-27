@@ -1,0 +1,37 @@
+[Event "24th Abu Dhabi Masters"]
+[Site "Abu Dhabi UAE"]
+[Date "2017.08.21"]
+[Round "8.18"]
+[White "Fawzy, Adham"]
+[Black "Maghsoodloo, Parham"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2422"]
+[BlackElo "2590"]
+[Annotator "Fischer"]
+[PlyCount "59"]
+[EventDate "2017.08.14"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 a6 5. Nf3 b5 6. Bd3 Nd7 7. e5 Bb7 8. O-O c5
+9. Ng5 Qb6 10. Be4 Bxe4 11. Ncxe4 d5 12. Nc3 {This natural looking move is a
+novelty. The engines evaluate the position as equal but Black has not yet
+finished his development and has to be careful.} e6 13. Be3 cxd4 14. Bxd4 Qc6
+15. a4 b4 {[#]} 16. Nb5 $5 {White wants to strike when the iron is hot - he
+attacks before Black completes his development.} axb5 {Black cannot allow the
+knight to come to d6 and has to take.} 17. axb5 Qb7 $2 {Now Black is in
+serious trouble.} ({According to the engines Black had to play} 17... Rxa1 18.
+bxc6 Rxd1 19. cxd7+ Kxd7 20. Rxd1 Ne7 $1 {and White has only a slight
+advantage.}) 18. Rxa8+ Qxa8 {[#]} 19. f5 $1 {With this thematic thrust White
+opens the position to exploit his lead in development.} Nxe5 20. fxe6 f6 21.
+Bxe5 fxe5 22. Rf7 Bf8 23. Nxh7 $6 {According to the engines this is inaccurate.
+} ({More precise was} 23. Qf1 {e.g.} Nh6 24. b6 Qc6 25. Nxh7 Qxb6+ 26. Kh1 Nf5
+27. Qa1 Qxe6 28. Rc7 {with a winning attack for White.}) 23... Bc5+ 24. Kh1 Ne7
+$6 ({After} 24... Be7 {the engines evaluate the position as equal. A typically
+crazy sample line runs} 25. Qf1 Nh6 26. b6 Kd8 27. Ng5 e4 28. Qb5 Qb7 29. Kg1
+e3 30. Rg7 Rf8 31. Rxe7 Kxe7 32. Qxb4+ Ke8 33. Qb5+ Kd8 34. Qc5 Ke8 35. Qb5+ {
+and both sides are forced to repeat moves.}) 25. Qf1 $1 {Now everything is
+fine again for White. He has a devastating attack - and the immediate threat
+26.Rf8+.} Nf5 26. b6 {Playing on both sides and threatening 27.Qb5+.} Qc6 27.
+b7 Ba7 {[#]} 28. Qxf5 $1 {A fine finish to a fine game.} gxf5 29. Nf6+ Kd8 30.
+e7+ 1-0
+

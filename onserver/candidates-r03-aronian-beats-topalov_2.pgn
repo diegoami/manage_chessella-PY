@@ -1,0 +1,53 @@
+[Event "Candidates 2016"]
+[Site "?"]
+[Date "2016.03.13"]
+[Round "3"]
+[White "Topalov, Veselin"]
+[Black "Aronian, Levon"]
+[Result "0-1"]
+[ECO "A10"]
+[WhiteElo "2780"]
+[BlackElo "2786"]
+[Annotator "Sagar Shah"]
+[PlyCount "100"]
+1. c4 {Topalov plays his first white today and opens with the c-pawn.} Nf6 {
+Aronian played this quite instantly, so the English Opening wasn't really a
+surprise for him.} 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. Nd5 e4 7. Nh4 {
+This is quite a common position and usually Black replies Re8. But Aronian went
+for a relatively unknown move which has not been played by any top player. } d6
+$5 {This move has been played by Aronian's country-mate Minasian, and it is
+quite possible that Levon picked it up from him.} 8. Nxb4 (8. Nxf6+ Qxf6 9.
+Bxe4 Re8 $1 10. Bg2 Bg4 $1 {Just have a look at the black pieces. This is a
+completely winning position for Black.} 11. f3 Be6 $19) 8... Nxb4 9. a3 Nc6 10.
+d3 d5 $1 {A very concrete way to approach the position.} 11. O-O (11. cxd5 Qxd5
+$1 12. dxe4 Qxd1+ 13. Kxd1 Rd8+ 14. Kc2 Nd4+ $36) 11... exd3 12. Qxd3 $6 (12.
+exd3 $11 {would have given White an entirely viable position, but without any
+advantage. This was not to Topalov's liking.}) (12. cxd5 {is also fine but does
+not give an advantage.} dxe2 13. Qxe2 Nxd5 $11) 12... Ne5 13. Qd4 (13. Qc2 Nxc4
+14. e4 {is a possible way to play. The queen is of course better placed on c2
+than on d4.}) 13... Nxc4 14. e4 Be6 15. b3 Na5 16. Qa4 Nc6 (16... c6 17. Bd2 b6
+18. Bxa5 bxa5 19. Qxc6 (19. exd5 cxd5 $17) 19... dxe4 20. Bxe4 Rc8 21. Qa4 Qb6
+$17 {is some sort of a computer line showing that even c6 was not so bad.})
+(16... c5 {is possible and Topalov as intending to meet it with} 17. b4 cxb4
+18. axb4 Nc4 $15 {Black seems to be slightly better.}) 17. Rd1 $2 { [#] This
+was a big blunder by Veselin, after which he is effectively two pawns down.}
+(17. exd5 Nxd5 18. Bb2 $44) 17... Nxe4 $1 18. Bb2 (18. Bxe4 Qf6 $1 $17 { This
+move, which attacks the a1 rook, was missed by Topalov.}) 18... Qe7 $17 { Black
+is two pawns up and with some care he should win the game with ease. Aronian
+didn't realise his advantage in the best possible manner but it was good
+enough.} 19. b4 a6 20. Qc2 f6 21. Rac1 Rad8 22. Bf1 Rd7 23. f3 Nd6 24. Re1 (24.
+Bd3 g5 25. Ng2 Nc4 26. Bxc4 dxc4 27. Rxd7 Qxd7 28. Rd1 Qe7 29. f4 { was a line
+suggested by Aronian in the press conference as better than what Topalov played
+in the game. But here the computer comes up with an anti-intuitive move that
+gives Black a strong advantage.} gxf4 $5 {Usually humans would never make such
+a move because the knight on g2 was passive and on f4 it would sit very nicely.
+But the engine sees that the knight on f4 cannot do much due to the bishop on
+f7 and Black has a huge advantage.} 30. Nxf4 Bf7 $19) 24... Qf7 25. Bd3 g5 26.
+Ng2 Nc4 27. f4 Nxb2 28. Qxb2 Bh3 29. a4 h6 30. b5 axb5 31. axb5 Ne7 32. Qf2 Nf5
+33. Qf3 Kg7 34. Kh1 Re7 35. Rxe7 Qxe7 36. Qh5 (36. Qxd5 {is possible, but
+after} Rd8 37. Qe4 Qxe4 38. Bxe4 Nd6 39. Rxc7+ Rd7 40. Rxd7+ Bxd7 41. Bd5 Bxb5
+$17 {Black should have excellent winning chances.}) 36... Bxg2+ 37. Kxg2 Ne3+
+38. Kg1 f5 39. Qe2 Rf6 40. Qb2 gxf4 41. gxf4 Kh7 42. Kh1 Qg7 43. Qe2 d4 44. Qf3
+c6 45. bxc6 bxc6 46. h3 Rg6 47. Rb1 Rg3 48. Qh5 Qd7 49. Kh2 Rg2+ 50. Kh1 Qd5
+{One can say that this was a pretty one sided affair and Topalov didn't really
+have a chance in the game after he was two pawns down.} 0-1

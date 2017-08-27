@@ -1,0 +1,200 @@
+[Event "Condigne Open NK"]
+[Site "Dieren"]
+[Date "2017.08.03"]
+[Round "9.8"]
+[White "Zwirs, Nico"]
+[Black "Pruijssers, Roeland"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2399"]
+[BlackElo "2508"]
+[SetUp "1"]
+[FEN "r3qr1k/1Qp3b1/2npb2p/p2npp2/P7/2PP2PN/1P1N1PBP/R1B1R1K1 w - - 0 16"]
+[PlyCount "30"]
+[EventDate "2017.??.??"]
+
+{The hunter becomes the hunted.} 16. Nf4 {was played, after which White had
+deep regrets.} ({Better and more restrained would have been} 16. d4 {where the
+odds should favour White.} e4 {[%csl Ge3,Gf4][%cal Gd2f1,Gf1e3] would be a
+positional and expensive gift from Black.}) 16... exf4 17. Bxd5 Bxd5 18. Rxe8
+Raxe8 {A sacrifice for a higher cause since White's queenside pieces are
+lacking development.} 19. Qb5 {What else?} (19. Nf1 {doesn't bring brighter
+perspectives} Re1 20. b3 Bf3 (20... Bxc3 $2 21. Bb2 $13) 21. Qxc7 (21. Bb2 $2
+Rxa1 22. Bxa1 Nd4 $19) 21... Ne5 22. Bb2 Ba8 $19) 19... Re1+ 20. Nf1 Bf3 21. b4
+Ne5 22. Qxa5 Bb7 23. Qxc7 Nf3+ 24. Kg2 Ba8 25. gxf4 Bf6 26. h4 Rg8+ 27. Ng3
+Rg1+ 28. Kh3 Rh1+ 29. Nxh1 Ng1+ 30. Kh2 Rg2# {I liked this final mating part,
+candy for the eye.} 0-1
+
+[Event "Condigne Open NK"]
+[Site "Dieren"]
+[Date "2017.07.31"]
+[Round "6.1"]
+[White "Pruijssers, Roeland"]
+[Black "Iturrizaga, Eduardo"]
+[Result "0-1"]
+[ECO "A10"]
+[WhiteElo "2508"]
+[BlackElo "2664"]
+[SetUp "1"]
+[FEN "3rr1k1/p1p2qbp/bpP1ppp1/3n1n2/3PN2P/BP3NP1/P4PB1/2RQR1K1 w - - 0 19"]
+[PlyCount "42"]
+[EventDate "2017.??.??"]
+
+{When two sharp and uncompromising players meet, there is very little chance
+for a dull game.} 19. Ne5 $1 fxe5 20. Ng5 Nfe3 21. fxe3 Qf6 22. e4 Ne7 23. d5 {
+White is very precise in this phase of the game but lost a bit the thread
+further on, which is not a shock given the ensuing complications.} exd5 24.
+exd5 Bh6 25. d6 (25. Ne6 {looks more than promising as well} Bxc1 26. Qxc1 Rc8
+27. Bb2 $1 $18) 25... cxd6 26. c7 Rd7 27. Qg4 Qf5 28. Qa4 Bc8 29. Be4 (29. Bxd6
+$18 {would have been preferable}) 29... Qf6 30. Rf1 Nf5 31. Bc6 Bxg5 32. Bxd7 {
+but this looks rather winning for White as well, no?! At least that's what
+computers would initially 'think'. But just sit and wait for Eduardo's moves
+to come...they can be menacing.} Be3+ 33. Kh2 Bf4 $3 {It is quite shocking to
+me seeing how out of thin air, Black managed to create serious threats.
+Besides, after having the control and a big advantage before, facing such
+moves in time trouble is far from ideal. How would you react with White?} 34.
+Rxf4 {panic} ({If} 34. gxf4 Qxh4+ 35. Kg2 Qg3+ 36. Kh1 Ne3 37. Qe4 Bxd7 $40) ({
+My engine is still quite optimistic after} 34. Kg2 Bb7+ 35. Bc6 Bxc1 36. Rxf5
+$1 {'easy' to see} (36. Rxc1 Bc8 $13) 36... Qxf5 37. Bxb7 Qc2+ 38. Kh3 Qxc7 39.
+Qxe8+ Kg7 40. Bxc1 Qxb7 41. Kh2 {and I doubt Black can hold; for instance:} Qf3
+42. Qd7+ Kg8 43. Bh6 Qf2+ 44. Kh3 Qf1+ 45. Kg4 $18) 34... exf4 35. Bxe8 fxg3+ {
+A new problem to solve: which square?!} 36. Kh1 {not the right one} (36. Kg2 {
+brings no difference} Nxh4+ 37. Kxg3 Qf3+ 38. Kxh4 Qh3+ 39. Kg5 Qg3+ 40. Kf6
+Qe5#) (36. Kg1 Ne3 $19 {How strong the chess pieces can suddenly become!}) ({
+The only way is} 36. Kh3 $1 {and Black doesn't have more than perpetual} Ne3+ (
+{If} 36... Nd4+ {White has just enough resources to bounce back (crazy lines)}
+37. Bd7 ({funny enough} 37. Qd7 {is also possible} Qf2 38. Qxc8 Qh2+ 39. Kg4
+Qe2+ 40. Kh3 $11) 37... Qf3 38. Bxd6 g2+ 39. Bg3 Ne2 40. Qg4 Qxg4+ 41. Bxg4
+g1=Q 42. Rxg1 Nxg1+ 43. Kh2 Bxg4 44. Kxg1) 37. Kxg3 Nf5+ 38. Kh3 $11) 36... Nd4
+37. Qc4+ Kh8 38. Rc2 Nxc2 39. Bc1 Bb7+ {Amazing swing of events and a great
+fight too.} 0-1
+
+[Event "Condigne Open NK"]
+[Site "Dieren"]
+[Date "2017.07.29"]
+[Round "5.5"]
+[White "Zwirs, Nico"]
+[Black "Annaberdiev, Meilis"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "2399"]
+[BlackElo "2485"]
+[SetUp "1"]
+[FEN "2k2b1r/1bq2ppp/ppnrp1n1/2p5/2PP2P1/1P3N1P/PBN1QPB1/R4RK1 w - - 0 17"]
+[PlyCount "12"]
+[EventDate "2017.??.??"]
+[WhiteClock "0:01:29"]
+[BlackClock "0:47:51"]
+
+{How would you respond to} 17. dxc5 {?} Nf4 $1 18. Qe4 Nxg2 19. cxd6 Bxd6 20.
+Ne3 (20. Kxg2 {doesn't work in view of} Ne5 $19) 20... Ne7 21. Qd4 Nh4 22. Nxh4
+Bh2# {The Dutch players are nearly always polite. Not only that they ask their
+opponents if they want something to drink but also they allow mate, to crown a
+beautifully played game.} 0-1
+
+[Event "Condigne Open NK"]
+[Site "Dieren"]
+[Date "2017.07.31"]
+[Round "6.2"]
+[White "L'Ami, Erwin"]
+[Black "Roy, Prantik"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2610"]
+[BlackElo "2351"]
+[PlyCount "29"]
+[EventDate "2017.??.??"]
+[WhiteClock "0:13:00"]
+[BlackClock "0:23:06"]
+
+{My husband is known for his surgical endgame technique, high level opening
+preparation and for squeezing something out of very dry positions. But, as
+'new' as this may sound to some of you, Erwin is not shy to play razor sharp
+positions either.} 1. e4 {Since when are you playing that?!} g6 2. d4 Bg7 3.
+Nc3 c5 4. dxc5 Qa5 5. Bd2 Qxc5 6. Nd5 {aggressive approach} Na6 7. Nf3 e6 8. b4
+$1 Qf8 {How would you continue?} 9. Bxa6 {White decided to sacrifice a piece
+for initiative and virtually even a rook later on, had Black accepted the
+offer.} ({Nothing wrong with} 9. Nc3 $40 {which is a matter of taste but Erwin
+was having an enterprising mood that day.}) ({Or} 9. Ne3 {inviting Black for
+an exchange feast which would cost him dearly on the long run.}) 9... exd5 10.
+exd5 bxa6 11. O-O Qd6 ({Moves like} 11... Bxa1 12. Re1+ Kd8 (12... Ne7 13. Qxa1
+d6 14. Bg5 Be6 15. dxe6 f6 16. Bxf6 Rg8 17. Ng5) 13. Qxa1 f6 14. b5 $18 {
+would bring nothing but a win for White.}) 12. Re1+ Ne7 (12... Kf8 $142 {
+where my husband planned} 13. c4 Nf6 14. Bc3 Kg8 15. Qd2 h6 16. Qb2 $44 {
+I am a big fan of fireworks and tactical blows but even more than all that I
+respect the quiet and long term sacrifices. White is down a piece but Black
+suffers from lack of coordination.}) 13. Be3 Qxb4 14. Bg5 O-O 15. Bxe7 {
+White got a big advantage which was converted after a long fight as the Indian
+player defended like a lion. But it was not enough.} 1-0
+
+[Event "Condigne Open NK"]
+[Site "Dieren"]
+[Date "2017.07.29"]
+[Round "5"]
+[White "Schoppen, Casper"]
+[Black "L'Ami, Alina"]
+[Result "1-0"]
+[ECO "B98"]
+[WhiteElo "2432"]
+[BlackElo "2304"]
+[PlyCount "41"]
+[EventDate "2017.??.??"]
+
+{So here it is: 6.Bg5 Najdorf against a young Dutch player...in hindsight,
+dangerous combo. But what to do if I am such a stubborn and uncompromising
+player?! Next time I will study Berlin.} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4
+Nf6 5. Nc3 a6 6. Bg5 {Ok, so which route to take? I played nearly everything
+here with Black. I think. So this time I went for} e6 7. f4 Be7 8. Qf3 h6 9.
+Bh4 g5 {the Argentine/Goteborg variation, why not? I won a great game some
+years ago with it and I told myself it can't be such a bad choice.} 10. fxg5
+Nfd7 11. Nxe6 fxe6 12. Qh5+ Kf8 {Down the history lane: in 1955, in the
+Interzonal played in Goteborg (hence the name of the variation) on three
+different boards where three Soviet players (Geller, Spassky and Keres) were
+playing White against three Argentine (Panno, Pilnik and Najdorf), the exact
+same position appeared. Without much thought, they all played the mind-blowing
+and by now well known theory:} 13. Bb5 $1 {The 2nd piece is offered for a
+higher cause. All the aforementioned games ended rapidly in 1-0, which shows 
+(if anybody had any doubts) how important home preparation is.} (13. Bc4 $2 Kg7
+14. Bxe6 Ne5 15. Bxc8 hxg5 16. Qe2 Qxc8 {and Black is better. For example:} 17.
+Bg3 Nbc6 18. O-O-O Qg4 $36) 13... Rh7 {defensive resource introduced by Bobby
+Fischer. I am usually not scared defending tough positions if I am material up
+but sometimes being materialistic comes with a price too. The point of 12.Bb5
+is that after} (13... Kg7 14. O-O Ne5 15. Bg3 {Black doesn't have} Nbd7 {
+anymore due to} 16. Bxd7 {with a mating attack.}) 14. e5 {Ooops! This move I
+didn't check...being behind in theory, especially in such lines, is more than
+dangerous. Looking at it now and during the game, it is a very logical move:
+it disturbs Black further while freeing the e4-square for the knight.} ({
+I was aware of} 14. O-O+ Kg8 15. g6 Rg7 16. Rf7 Bxh4 17. Qxh6 Rxf7 18. gxf7+
+Kxf7 {where White has several winning attempts but with precise play by Black,
+it should more or less end in a draw by perpetual.}) ({White can also try} 14.
+Qg6 Rf7 15. Qxh6+ Kg8 16. Bxd7 Nxd7 17. g6 Bxh4+ 18. g3 Rg7 19. gxh4 Ne5 {
+still a double-edged position but I was ready to play that having the extra
+piece (true, for many pawns).}) 14... Nxe5 {correct reaction} ({The first
+thing I checked was whether I can grab that bishop} 14... axb5 {but after} 15.
+exd6 Bxg5 16. Bxg5 Qxg5 17. O-O+ Nf6 18. Rxf6+ Qxf6 19. Rf1 Qxf1+ 20. Kxf1 {
+[%csl Ra8,Rb8,Rc8,Gd6] Black's pieces suffer from lack of coordination, while
+the d6-pawn is an important asset for White as well. I believe this unbalanced
+position is far more pleasant to be played with the white pieces.}) 15. O-O+
+Kg8 {again the right approach} (15... Kg7 {runs into the} 16. Bg3 {idea} Nbd7
+17. Bxd7) 16. g6 Rg7 {Going astray and the game is already lost at this point.}
+(16... Nxg6 {loses as well because of} 17. Bxe7 ({not} 17. Qxg6+ Rg7 18. Bxe7
+Qb6+ 19. Kh1 Rxg6 20. Rf8+ Kh7 (20... Kg7 $4 21. Raf1) 21. Rf7+ Kg8 22. Rf8+
+$11) 17... Nxe7 ({If} 17... Qxe7 18. Ne4 {[%csl Rf6,Rg6,Rg8,Rh7] and my
+position would collapse.}) 18. Bd3 Rg7 19. Qxh6 d5 20. Rae1 $40 {[%csl Ra8,Rb8,
+Rc8] with grim perspectives for Black.}) 17. Bxe7 Qxe7 ({During the game I was
+unhappy with myself to have automatically played Qxe7 and not} 17... Rxe7 {
+But it wouldn't have changed much due to} 18. Bd3 ({In the after the game
+analysis, we discussed} 18. Qxh6 axb5 19. Rf4 Rg7 20. Rh4 {where White keeps
+having a massive attack, for instance} Nxg6 21. Rg4 Qe8 22. Rf1 Nd7 23. Ne4 $36
+) 18... Nxd3 {just a sample line to show you the tricky business that White is
+up to} 19. cxd3 Kg7 20. Rf4 e5 21. Rh4 Qh8 22. Rf1 Nc6 23. g4 $1 Be6 24. g5
+hxg5 25. Qxg5 $18 {Black is simply not in time to defend all the weaknesses.})
+18. Ne4 Nbd7 ({From afar, I was counting on} 18... Rxg6 {which doesn't work}
+19. Be8 $1 Qg7 (19... Qxe8 $2 20. Nf6+) 20. Bxg6 Qxg6 21. Qxg6+ Nxg6 22. Rf6
+Kg7 23. Raf1 {with very strong pressure. Not only that Black suffers from
+severe lack of coordination but also the pawns are very loose.}) 19. Bxd7 Nxd7
+20. Qxh6 {got dizzy trying to calculate all sorts of lines and came up with}
+Qe8 {which lost on the spot.} ({Butt} 20... d5 {doesn't change anything either}
+21. Rf3 dxe4 22. Rh3 $18) 21. Rf7 {Playing Najdorf by ear is not a good plan.}
+1-0
+

@@ -1,0 +1,60 @@
+[Event "Condigne Open NK"]
+[Site "Dieren"]
+[Date "2017.08.02"]
+[Round "8.3"]
+[White "Pruijssers, Roeland"]
+[Black "Sandipan, Chanda"]
+[Result "0-1"]
+[ECO "B08"]
+[WhiteElo "2508"]
+[BlackElo "2575"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp2qpbp/2p3p1/4n3/1P1NN3/2P1B2P/P4PP1/R2QR1K1 b - - 0 17"]
+[PlyCount "27"]
+[EventDate "2017.??.??"]
+[WhiteClock "0:20:56"]
+[BlackClock "0:38:31"]
+
+{Sandipan Chanda won Dieren twice in a row (!) but not without his share of
+shaky moments. This 8th game was a turning point for his tournament course.} 
+17... Be6 {was played, missing:} (17... h6 $142 18. Bf4 a5 $13) 18. Bg5 f6 19.
+Nxf6+ $1 Bxf6 20. Rxe5 Bxg5 21. Nxe6 ({Hassle-free would have been} 21. Qe2 Bh4
+22. Rxe6 Qf7 23. g3 $16 {and White is a pawn up.}) 21... Rxf2 {counterblow} 22.
+Qb3 {White is still better, technically, but must be very precise.} ({Perhaps
+better is} 22. Qd4 Bf6 23. Kxf2 Qf7 24. Nf4 g5 25. Rae1 Rf8 26. Kg1 Bxe5 27.
+Rxe5 Qxf4 28. Qxf4 gxf4 29. Kf2 {with a better rook endgame.}) 22... Kh8 23.
+Rae1 {Roeland had such interesting games, the entire tournament, which does
+come with a price: mistakes appear.} ({White is still better after} 23. Rxg5
+Re2 24. Nd4 Qxg5 25. Nxe2 Qe3+ 26. Kh1 Qxe2 27. Qf7 $36) 23... Bh4 24. Qc4 Qf6
+25. Qd4 {beginning of the end} ({Nothing wrong with} 25. Ng5 Bxg5 26. Rxg5 $11)
+25... Rxa2 26. Rf1 Bf2+ 27. Rxf2 Rxf2 28. Ng5 Rf1+ 29. Kh2 Qf4+ 30. Qxf4 Rxf4 {
+Black won a crucial game for the final standings.} 0-1
+
+[Event "Condigne Open NK"]
+[Site "Dieren"]
+[Date "2017.08.02"]
+[Round "8.1"]
+[White "Leenhouts, Koen"]
+[Black "Iturrizaga, Eduardo"]
+[Result "1-0"]
+[ECO "A65"]
+[WhiteElo "2486"]
+[BlackElo "2664"]
+[PlyCount "63"]
+[EventDate "2017.??.??"]
+[WhiteClock "0:11:45"]
+[BlackClock "0:03:48"]
+
+{A very good tournament for the Dutch IM Koen Leenhouts - shared 1st with
+Sandipan, with 7/9! Perhaps the most important result for his performance was
+the win in R8 against the top seed, Iturrizaga.} 1. d4 Nf6 2. c4 c5 3. d5 e6 4.
+Nc3 exd5 5. cxd5 g6 6. e4 d6 7. Nge2 a6 8. a4 Nbd7 9. Ng3 h5 10. Be2 Qe7 {
+[%cal Rd8e7,Re7e5,Re5d4] Eduardo Iturrizaga is known to be a very resourceful
+player and he plentifully showed us that (for example the game against Roeland
+Pruijssers). This time though, using the same piece four moves in a row in the
+ever sharp Benoni proved to be lethal. For himself.} 11. Bg5 Qe5 12. f4 Qd4 13.
+Qc2 Ng4 14. Bxg4 hxg4 15. e5 dxe5 16. Rd1 Qe3+ 17. Kf1 c4 18. d6 Qc5 19. Nge4
+Qc6 20. fxe5 Bg7 21. Nd5 Bxe5 22. Be7 b5 23. Nc7+ Qxc7 24. dxc7 Kxe7 25. Nd6
+Nf6 26. Qd2 Kf8 27. Qe2 Bxd6 28. Rxd6 Be6 29. Qe5 Kg7 30. Ke1 Rhe8 31. Kd2 c3+
+32. bxc3 1-0
+

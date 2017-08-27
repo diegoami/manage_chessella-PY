@@ -1,0 +1,42 @@
+[Event "Asian Nations Cup w 2016"]
+[Site "Abu Dhabi UAE"]
+[Date "2016.04.02"]
+[Round "6.1"]
+[White "Ju, Wenjun"]
+[Black "Muminova, Nafisa"]
+[Result "0-1"]
+[ECO "D17"]
+[WhiteElo "2568"]
+[BlackElo "2318"]
+[Annotator "AS"]
+[PlyCount "70"]
+[EventDate "2016.03.28"]
+[WhiteTeam "China"]
+[BlackTeam "Uzbekistan"]
+[WhiteTeamCountry "CHN"]
+[BlackTeamCountry "UZB"]
+
+1. c4 c6 2. Nf3 d5 3. d4 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7 8.
+g3 e5 9. dxe5 Nxe5 10. Bf4 Nfd7 11. Bg2 f6 12. O-O Nc5 13. e4 (13. Ne3 Bg6 14.
+b4 Ne6 15. b5 Rd8 16. Qb3 Nxf4 17. gxf4 Bf7 18. Qc2 Nd7 19. bxc6 bxc6 20. Qe4+
+Be7 21. Nf5 Nc5 22. Qxc6+ Qxc6 23. Bxc6+ Kf8 24. Rad1 Rc8 25. Bd5 Bg6 26. Nxe7
+Kxe7 27. Nb5 Bc2 28. Nxa7 Bxd1 29. Nxc8+ Rxc8 30. Rxd1 Nxa4 31. Bf3 {1/2-1/2 
+(31) Grischuk,A (2752)-Rublevsky,S (2686) Apatity 2011}) 13... Bg6 14. Bxe5
+fxe5 15. f4 Rd8 16. Qe2 exf4 17. gxf4 Be7 (17... Nb3 18. Rad1 Bc5+ 19. Kh1 Nd4
+20. Qe3 Bf7 21. Ne5 Bb3 22. Rc1 b6 23. Ne2 Bxa4 24. b4 Bb5 25. bxc5 Nxe2 26.
+cxb6 axb6 27. Rxc6 Bxc6 28. Qxe2 Ba4 29. Qh5+ Kf8 30. Qf5+ Kg8 31. Qe6+ Kf8 32.
+Qf5+ Kg8 33. Qe6+ Kf8 34. Qf5+ {1/2-1/2 (34) Cordova,E (2429)-Fressinet,L 
+(2633) Philadelphia 2006}) 18. Ne5 Ne6 $15 {[#] The engines evaluate this
+position as slightly better for Black. On first sight Black's king is exposed
+and in danger but as it soon turns out White's king has no reason at all to
+feel better.} 19. Nxg6 hxg6 20. Qg4 Kf7 21. e5 Rh4 22. Qg3 Rdh8 23. h3 Kg8 24.
+Ne4 Qb6+ 25. Kh1 Qxb2 $6 (25... Qb4 $15 {with the idea} 26. -- g5) 26. Rab1 Qe2
+{[#]} 27. Qb3 (27. Rfe1 Qc4 (27... Qg4 28. Qxg4 Rxg4 29. Rxb7 $14) 28. Rxb7
+Nxf4 29. Rb8+ Kh7 30. Nf6+ $13) 27... Qg4 {[#]} 28. Nf2 $2 {The wrong way to
+defend h3.} ({More precise was} 28. Rf3 {threatening 29.f5. The engines think
+the position is dynamically equal.}) 28... Qf5 29. Qxb7 $2 {Underestimating
+Black's threats against h3.} (29. Rbe1 Bc5 30. Kh2 Qxf4+ $19) 29... Rxh3+ 30.
+Kg1 (30. Nxh3 Rxh3+ 31. Bxh3 Qxh3+ 32. Kg1 Bc5+ $19) 30... Nxf4 31. Rb2 Bc5 32.
+Qxc6 {[%emt 0:00:05] [#] Now Black finishes in style:} Rh1+ 33. Bxh1 Qg4+ 34.
+Bg2 Nh3+ 35. Kh2 Nxf2+ (35... Nxf2+ 36. Kg1 Rh1#) 0-1
+
