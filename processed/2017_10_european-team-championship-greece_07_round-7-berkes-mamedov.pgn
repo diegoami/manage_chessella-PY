@@ -1,0 +1,95 @@
+[Event "European Team Championship"]
+[Site "?"]
+[Date "2017.11.04"]
+[Round "7"]
+[White "Berkes, Ferenc"]
+[Black "Mamedov, Rauf"]
+[Result "0-1"]
+[WhiteElo "2661"]
+[BlackElo "2678"]
+[Annotator "DF"]
+[PlyCount "160"]
+[EventDate "2017.11.05"]
+[WhiteTeam "Hungary"]
+[BlackTeam "Azerbaijan"]
+[WhiteClock "0:01:02"]
+[BlackClock "0:01:25"]
+
+{One of the key games of round 7 was this encounter, where Black escaped a
+solid opening that looked very difficult to win, and did so anyway.} 1. d4 d5
+2. Nf3 Nf6 3. Bf4 Bf5 4. e3 e6 5. Bd3 {Sometimes it is important first of all
+to try and eliminate all risk of losing.} Bxd3 6. Qxd3 c6 7. O-O Bd6 8. Nbd2
+O-O 9. c3 Bxf4 {Actually quite a big decision.} (9... Bc7 {tries to play
+without making pawn-structure concessions, and to fight for the e5-square. For
+instance:} 10. Bg3 Nbd7 11. Rfe1 Re8 12. e4 {White should get this in before
+Black plays ...e5.} dxe4 13. Nxe4 Nxe4 14. Qxe4 a5 $132 {with a position type
+often seen in the Caro-Kann, for instance an Inarkiev-Ding game (venue slips
+my mind.)}) 10. exf4 Nbd7 11. Rfe1 Qb6 12. Rab1 Rfe8 13. Ne5 {White's position
+is a lot easier to play, though it is not better. He may also want b4 so Black
+hurries:} c5 (13... a5 14. Ndf3 {will force a decision anyway due to the ideas
+of Ng5 and f5}) 14. Ndf3 cxd4 15. Qxd4 Qxd4 16. Nxd4 a6 {The position type has
+now changed- a good transformation from Black's perspective, though the
+evaluation is the same.} 17. f3 Rac8 18. g4 {Trying to keep the heat on.} (18.
+f5 Nxe5 19. Rxe5 Nd7 $1 $11) 18... Nxe5 19. Rxe5 Nd7 20. Re2 Nc5 (20... Nb8 $5
+{If Black was really playing for equality, the knight swap is an obvious place
+to look. The fact that he tried for more could have caused him a little
+trouble.} 21. Rbe1 Nc6 22. Nxc6 Rxc6 23. f5 g6 $11) 21. Rd1 Na4 22. Kf2 $6 {
+A little bit slow.} (22. Rde1 $5 Nc5 23. f5 {is most exacting:} Nd3 24. Rd1 Nf4
+25. Re5 Rcd8 26. Kf2 $14 {White stands better, as ...f6 can always be met with
+Rxe6 (reminiscent of the L'Ami game from r4.)}) 22... g6 23. Rd3 Nb6 24. b3 $6
+{Lining up future headaches.} Nd7 25. Ke1 Kg7 26. Kd2 Kf6 27. h4 h5 28. gxh5
+gxh5 29. Rg2 Nf8 (29... Rh8 $1 $11 {and ...Rcg8 could have been better, when
+White isn't managing to attack his targets properly and can easily become worse
+}) 30. f5 e5 31. Ne2 Kxf5 32. Rxd5 {Now the position is still equal, but it is
+easier for White.} Ke6 33. c4 Ng6 (33... Rcd8 34. Nc3 Ng6 35. Rg5 Rh8 $1 {
+was the correct approach.}) 34. Rg5 b5 (34... Red8 35. Nc3 $14 {is similar}) (
+34... Rcd8 35. Rxh5 {is now not such a panacea:} Rxd5+ 36. cxd5+ Kxd5 37. Rh6
+$14) 35. Kd3 {Now Black can fully equalise through a contortion.} (35. Kc3 $14
+{avoided future rook swaps.}) 35... Rh8 (35... Red8 $1 {Like this one.} 36.
+Rxh5 (36. Nc3 {is not legal now.}) 36... Rh8 $3 $11 {A hard detail to see
+unless the engine helpfully advises you as to its presence.}) 36. f4 $1 bxc4+
+37. bxc4 exf4 38. Nd4+ Ke7 39. Nf5+ Kf8 (39... Ke6 40. Rd6+ Ke5 41. Rxa6 {
+is a mating net}) 40. Nd6 (40. Ke2 $3 {is a great quiet move- Black has no
+obvious next move, so the king simply heads over to blockade the pf4.} Ne7 41.
+Rd7 $1 f6 (41... Nxf5 42. Rxf5 $16) 42. Nxe7 Re8 43. Rgd5 Rxe7+ 44. Kf3 $1 {
+with a much better rook ending.}) 40... Rc6 $6 (40... Rc7 $14 {was marginally
+more accurate, since White has no knight move that gains tempo against a rook
+here}) 41. c5 Ke7 {Now Black gets active again, but White can still control it:
+} 42. Ke4 (42. Nf5+ Kf6 43. Nd4 {was advisable, in spite of the random detail}
+Re6 $5 44. Nxe6 fxe6 45. Rd6 Ne5+ (45... Nxh4 $5 $44) 46. Ke4 Nf7 47. Rf5+ Ke7
+{White cannot avoid giving back the exchange; now} 48. Rxf7+ Kxf7 49. Rxa6 $14
+{is the best he can do, with another better rook ending}) 42... Rb8 43. Rxh5
+Rb1 $14 (43... Rb4+ 44. Rd4 Rb2 $132 {may be better, to take away the d4
+square from a white knight. Now Black is fully equal.}) 44. Nf5+ (44. Rdf5 $1 {
+The last advantage White had.}) 44... Ke8 45. Nd6+ Ke7 46. Nf5+ Ke8 47. Nd4 (
+47. Rg5 {is inhuman and not really that great:} Re6+ 48. Kf3 Rf1+ 49. Kg4 Re2 {
+The engine gradually grows less optimistic.}) 47... Rc7 48. c6 Rd1 (48... Re7+
+49. Kf5 $14 {was White's intention, hiding on f6.}) 49. Rd6 Re7+ 50. Kd5 f3 51.
+Rf5 $2 (51. Rf6 Re3 {Black's activity has grown beyond control.}) 51... Re6 $1
+{Black is tactically alert.} 52. Rxe6+ fxe6+ 53. Kxe6 Rxd4 54. Rxf3 Rc4 55. Kd5
+Rc1 56. h5 $2 {Could easily be the decisive mistake.} (56. Kd6 $1 Ne7 57. Kc7
+Rxc6+ 58. Kb7 {was another way to try and defend; it's not at all clear to me
+that Black has anything against Ra3xa6.}) 56... Ne7+ 57. Ke5 Rc5+ 58. Kd4 Rxc6
+{Completely natural.} (58... Rxh5 $1 59. Rf6 Ra5 $19) 59. Ra3 Rh6 60. Kc5 Kd7
+61. Rg3 Rc6+ $2 ({After} 61... Rxh5+ $1 62. Kb6 Rh6+ 63. Kb7 {White could
+still have obtained the defensive construct from a few moves back, but now} Nd5
+64. Ra3 Rb6+ 65. Ka7 Kc7 $1 $19 {is the hard-to-see sting in the tail}) 62. Kb4
+Rh6 63. Ka5 Kc7 64. Rg7 Kd8 65. Rg5 Kc8 66. Rg7 Nd5 67. Rg5 $2 (67. Rg6 $1 {
+was surely easy enough.} Rxh5 (67... Rxg6 68. hxg6 Kb7 69. g7 Ne7 {is a draw
+even without the White a-pawn.}) 68. Kxa6 {and a brief look should have
+satisfied White that none of his opponent's mating tricks are working.}) 67...
+Nc7 68. Rf5 Kb7 69. Rg5 Rf6 70. Re5 Rf4 71. Rg5 Rh4 {Black has improved his
+rook position and this should now be objectively winning.} 72. Re5 Rh2 73. a4 (
+73. a3 {avoids the ...Nc6 mate motif, see next note, but Black must still win.}
+) 73... Rh4 74. Rf5 Rd4 (74... Re4 $1 {is the precise sequence to force
+through ...Nc5.} 75. Rg5 Ne6 76. Rd5 (76. Rf5 Nd8 $1) 76... Rc4 77. Re5 Nc5 $19
+) 75. Rg5 (75. h6 Rh4 76. Rf6 Rh5+) 75... Ne6 $2 {Now Black is in danger of
+repetition.} 76. Rg6 Nc7 (76... Rd5+ 77. Kb4 a5+ {is probably winning and
+Black needed to do this.}) 77. Rg5 Ka7 {Trying to set up ...Nb7 mate, but
+there is an issue.} (77... Rh4 $1 {Black still has a winning path that avoids
+all the repetitions, but he must be careful.}) 78. h6 $2 {This forgives Black.}
+(78. Rg7 $1 {Now Black has to play ...Rd5, as ...Kb7 would be threefold.} Rd5+
+(78... Rc4 79. h6 Kb7 80. h7 Rh4 81. Rf7 $11) 79. Kb4 Kb7 80. h6 {White can
+probably draw this.}) 78... Ne6 $1 {Making no mistake.} 79. h7 (79. Rg6 Nc5 $19
+) 79... Rh4 80. Rg6 {Making it quick.} (80. Rd5 Rxh7 {will lose eventually too}
+) 80... Nc5 {Concluding this epic struggle!} 0-1

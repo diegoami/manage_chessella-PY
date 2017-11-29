@@ -1,0 +1,30 @@
+[Event "Tata Steel Challengers"]
+[Site "?"]
+[Date "2016.01.23"]
+[Round "7"]
+[White "Adhiban, B."]
+[Black "Dreev, A."]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2653"]
+[BlackElo "2644"]
+[SetUp "1"]
+[FEN "r2qk2r/p2n1ppp/1p3b2/2pb4/8/3BPN2/P1Q2PPP/R1BR2K1 w kq - 0 15"]
+[PlyCount "15"]
+15. e4 $5 $146 {My stunning novelty!} c4 {[%tqu "How would you continue? Take
+on c4 or return back with the bishop?","","",Be2,"",10,Bxc4,"was the refutation
+I only found it after playing Be2 :( and computer's top choice.",10] } 16. Be2
+$1 (16. Bxc4 $1 {was the refutation I only found it after playing Be2, the
+computer's top choice.} Bxc4 17. e5 $1 {Black is not in time to coordinate his
+forces.}) 16... Bxa1 17. Rxd5 Qc7 {[%cal Ge8c8] I understimated the possibility
+of a queenside castling.} (17... Qe7 18. Qa4 b5 {(otherwise Black will be
+crushed)} 19. Rxb5 O-O 20. Ba3 Qxe4 21. Bxc4 {I felt it should be around equal,
+but with some chances for a pull due to my active pieces and the vulnerable f7
+spot.}) 18. Ba3 $1 {The only way to prevent 0-0-0 and also keep the intiative
+running.} Bf6 $2 {After this I knew I should be better!} ( 18... Nc5 19. Bxc5
+$1 bxc5 20. Qa4+ Ke7 21. Qxc4 Rac8 22. Qc1 $18) (18... O-O-O 19. Bd6 Qc6 20.
+Bxc4 $18) 19. Bxc4 Be7 {Now white needs to be accurate to deliver the killing
+blow.} (19... Rc8 20. Qa4 {is possibly the strongest with no hope of survival
+for black since Be7 is met by Re5.}) {[%tqu "Find the strongest continuation
+for white.","","",Qa4,"",10]} 20. Qa4 $1 Bxa3 21. Rxd7 Qxd7 22. Bb5 {with a
+clear advantage.} 1-0

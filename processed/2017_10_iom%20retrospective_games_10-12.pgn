@@ -1,0 +1,96 @@
+[Event "chess.com IoM Masters"]
+[Site "Douglas ENG"]
+[Date "2017.09.25"]
+[Round "3.32"]
+[White "Eggleston, David J"]
+[Black "L'Ami, Erwin"]
+[Result "0-1"]
+[ECO "A10"]
+[WhiteElo "2400"]
+[BlackElo "2611"]
+[Annotator "AA"]
+[SetUp "1"]
+[FEN "5Bk1/3b2b1/5n1p/p1Q2pp1/P1P1p3/2qPP1P1/3N1PBP/6K1 w - - 0 23"]
+[PlyCount "30"]
+[EventDate "2017.09.23"]
+
+{How would you continue with White?} 23. Bxg7 {Incorrect. But the solution is
+far from easy.} (23. Be7 $1 {Yes yes, once seen it seems not too difficult.
+But to me, when my husband showed me in awe what his laptop was shouting...it
+did look like a brain-breaker. Who is able to see such backwards silent moves
+in the middle of the attack? Not many.} Kf7 (23... Qxd2 $140 24. Bxf6 Bxf6 25.
+Qd5+ Kf8 26. Qxd7 $18) 24. Bxf6 Bxf6 25. Qd5+ Be6 26. Qb7+ Be7 27. d4 Qxd2 28.
+d5 $16 {Black will keep on fighting but White is obviously having very good
+chances to win.}) 23... Kxg7 24. h4 Qxd2 25. Qe7+ Kg6 26. h5+ Nxh5 27. Qxd7 Nf6
+28. Qe6 {At first glance, a scholar mistake. But White was actually playing
+for a win and missed a nice trick which will be revealed in the following.} ({
+Better was} 28. Qd8 {with a draw as the most likely outcome.}) 28... Qe1+ 29.
+Kh2 ({White was counting on} 29. Bf1 exd3 30. Kg2 (30. g4 d2 31. gxf5+ Kh5 32.
+Qxf6 d1=Q $19) 30... d2 31. Bd3 {where Black has the sneaky} Qh1+ $1 ({
+Obviously} 31... Qg1+ {doesn't work in view of} 32. Kxg1 d1=Q+ 33. Bf1) 32.
+Kxh1 d1=Q+ {and the bishop is lost.}) 29... exd3 30. Bd5 Qxf2+ 31. Kh1 Kh5 32.
+Qxf6 d2 33. Qd4 Qf1+ 34. Kh2 Qe2+ 35. Bg2 d1=Q 36. Qe5 Qf2 37. Qe8+ Kg4 0-1
+
+[Event "chess.com IoM Masters"]
+[Site "Douglas ENG"]
+[Date "2017.09.28"]
+[Round "6.31"]
+[White "Kramnik, Vladimir"]
+[Black "Kavutskiy, Konstantin"]
+[Result "1-0"]
+[ECO "A05"]
+[WhiteElo "2803"]
+[BlackElo "2390"]
+[Annotator "AA"]
+[SetUp "1"]
+[FEN "rn1q1rk1/pp4bp/3p2p1/2pPpb2/2P1p3/1PN1P1P1/PB3P1P/R2QNRK1 w - - 0 14"]
+[PlyCount "65"]
+[EventDate "2017.09.23"]
+
+{Assess} 14. g4 {as better, equal or worse for White?} Qg5 15. h4 Qxg4+ 16.
+Qxg4 Bxg4 {Pretty much forced up to now but the idea Kramnik had starting with
+14.g4 was to go for a positional exchange sacrifice} 17. Nxe4 Be2 {Offer
+accepted.} ({Nothing wrong though with} 17... Rd8 18. Kg2 Bf5 $13) 18. Nxd6
+Bxf1 $2 {Understandable but too materialistic.} ({There is no rush in taking
+the exchange, so Black can first develop the pieces to better squares and ask
+White an important question: how exactly will your development look? And react
+accordingly.} 18... Nd7 19. f3 {Already a concession.} (19. Nxb7 Rf6 20. Na5
+Raf8 21. Ng2 Bxf1 22. Rxf1 Ra6 {where Black is certainly not worse!}) 19...
+Bxf1 20. Kxf1 a5 21. a4 Bf6 22. Ke2 e4 {with a double-edged position where I
+believe many would prefer Black. Not a dream came true for Kramnik had this
+appeared on the board.}) 19. Kxf1 b6 20. Ke2 {The king is centralized and the
+pieces enjoy good collaboration too. There were no further problems for White
+to convert the advantage.} Nd7 21. Nd3 Rad8 22. Ne4 Rde8 23. Rg1 Nf6 24. Ng5
+Nxd5 25. cxd5 e4 26. Nxc5 bxc5 27. Bxg7 Kxg7 28. Ne6+ Rxe6 29. dxe6 Kf6 30. Rg4
+Ke5 31. Rf4 Re8 32. Rf7 h5 33. Rxa7 Kxe6 34. Ra6+ Kf5 35. Rc6 Kg4 36. Rxc5 Kxh4
+37. a4 Kg4 38. a5 h4 39. Rc6 g5 40. a6 h3 41. Kf1 Rd8 42. Kg1 Rd2 43. Rf6 Ra2
+44. b4 Ra4 45. b5 Ra5 46. Rf8 1-0
+
+[Event "chess.com IoM Masters"]
+[Site "Douglas ENG"]
+[Date "2017.09.25"]
+[Round "3.22"]
+[White "Batsiashvili, Nino"]
+[Black "Hou, Yifan"]
+[Result "1-0"]
+[ECO "E21"]
+[WhiteElo "2472"]
+[BlackElo "2670"]
+[Annotator "AA"]
+[SetUp "1"]
+[FEN "r1q2rk1/p1p3pp/3Pp3/4n3/4p3/B1P1P3/P2Q1PPP/1RR3K1 b - - 0 18"]
+[PlyCount "32"]
+[EventDate "2017.09.23"]
+
+{What would you play with Black?} 18... Qa6 {was incorrectly chosen by Hou
+Yifan.} ({As an interesting coincidence, I was passing by in this precise
+moment and stopped for a while to understand what was going on. Shortly after,
+my husband joined. After the game, we looked at each other and said: "wasn't} 
+18... c5 {just better for Black?" Yes, it was. The d-pawn is too weak. For
+example:} 19. d7 Qc6 $15) 19. Rb3 c5 {A move too late.} 20. c4 (20. Bxc5 $2 Nd3
+) 20... Rab8 (20... Nd3 {is not working in view of} 21. Rxd3 exd3 22. Qxd3 $16
+{The exchange sacrifice hands White a long term advantage.}) 21. Bxc5 Rxb3 22.
+axb3 Nd3 23. b4 Nxc1 24. Qxc1 {which was converted later on by the Georgian
+lady.} Qa2 25. Qf1 Rd8 26. h3 Rd7 27. b5 Qa4 28. Qc1 Qb3 29. Ba3 Rf7 30. c5 Qa2
+31. Qb2 Qd5 32. c6 Rf8 33. d7 Qd1+ 34. Kh2 1-0
+

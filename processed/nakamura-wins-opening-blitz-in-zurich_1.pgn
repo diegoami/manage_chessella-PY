@@ -1,0 +1,22 @@
+[Event "5th Zurich Opening Blitz"]
+[Site "Zurich SUI"]
+[Date "2016.02.12"]
+[Round "2"]
+[White "Giri, A."]
+[Black "Anand, V."]
+[Result "0-1"]
+[ECO "B52"]
+[WhiteElo "2798"]
+[BlackElo "2784"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[SetUp "1"]
+[FEN "r2q1bk1/5p1p/2RNp1p1/4P3/p4P2/1P4P1/5K1P/2Q5 w - - 0 29"]
+[PlyCount "10"]
+[EventDate "2016.02.12"]
+[EventType "blitz"]
+29. bxa4 Rxa4 30. Qc2 $6 (30. Kg2 $1 Qa5 31. Kh3 $1 {and with the king tucked
+in h3 White should be doing ok.}) 30... Qa5 $1 31. Kf3 $2 {Losing on the spot.}
+Qd5+ $1 32. Ne4 Ra2 $1 {suddenly there is no good place for the queen. She has
+to keep an eye on too many squares: d3, d1 and the rook on c6.} 33. Qc1 (33.
+Ke3 Rxc2 34. Nf6+ Kg7 35. Nxd5 Rxc6 {doesn't work either.}) 33... Qd3+ { White
+will soon be mated.} 0-1

@@ -1,0 +1,48 @@
+[Event "Tata Steel Challengers"]
+[Site "?"]
+[Date "2016.01.20"]
+[Round "5"]
+[White "Adhiban, B."]
+[Black "Anne, Haast"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "2653"]
+[BlackElo "2390"]
+[Annotator "Adhiban"]
+[SetUp "1"]
+[FEN "rnbqk2r/p5pp/2p1p3/1p1nPpN1/P1pP4/2P5/3B1PPP/R2QKB1R w KQkq f6 0 11"]
+[PlyCount "41"]
+{[%tqu "How would you continue with white?","","",Qh5+,"",10,exf6,"was possible
+but somehow the game continuation felt stronger.",0]} 11. Qh5+ $5 (11. exf6
+{was possible but somehow the game continuation felt stronger.}) 11... Kd7 $5
+{This move shows a lot of guts and confidence! She had lost all the previous
+games and instead of getting depressed Anne was just playing in her own style
+without any fear! Big respect!} (11... g6 {[%tqu "Show the idea behind
+Qh5+.","","",Qh6,"",10]} 12. Qh6 Qe7 {[%tqu "The key point of the queen
+excursion!","","",h4,"",10]} 13. h4 $1 Qf8 14. Qxf8+ Kxf8 15. h5 Kg7 16. hxg6
+hxg6 17. Rxh8 Kxh8 {Here White has two promising options.} {[%tqu "There are
+two ways with which white can keep his advantage.","","",g4,"trying to get the
+bishop to g2 in the most awesome way!",10,Nf7+,"getting the knight to d6 where
+it will control the queenside :).",10]} 18. g4 $5 {Trying to get the bishop to
+g2 in the most awesome way!} (18. Nf7+ {Getting the knight to d6 where it will
+control the queenside} Kg7 19. Nd6 {also looked good.})) {[%tqu "Although I was
+impressed by kd7, I had to be objective (at least during the game :)) and try
+to refute it. How would you continue?","","",g4,"Without this, things wouldn't
+be so clear but now white slowly takes over.",10]} 12. g4 $1 {Without this,
+things wouldn't be so clear but now white slowly takes over.} Qe8 13. Qxe8+
+(13. axb5 $5 {But for now I decided to refrain from adding this inclusion.})
+13... Kxe8 {As she aptly put it, "Anyway I am worse but at least here I have a
+extra pawn."} (13... Rxe8 14. gxf5 exf5 15. Nxh7 $16) 14. gxf5 exf5 15. axb5 h6
+(15... cxb5 $142 $5 16. Bg2 Bb7 17. Ne6 Kf7 18. Nc7 Nxc7 19. Bxb7 a6 20. Bxa8
+Nxa8 21. d5 Nc7 22. d6 {Here black can try to create a light square blockade.}
+Ne6 $16 (22... Nd5)) 16. Nh3 Bd7 $6 (16... g5 17. bxc6 $1 { is the accurate
+way.} (17. Bxc4 Nb6 (17... Be6 18. bxc6 Nxc6 19. Bb5 $1) 18. Be2 f4) 17... Nxc6
+(17... f4 18. Bg2) 18. Bxc4 $16) 17. Bxc4 Nb6 18. Bb3 { Now its clear.} cxb5
+(18... g5 19. f4 $5 g4 20. Nf2 cxb5 21. d5 $18) 19. Nf4 ({ Also winning is} 19.
+d5 g5 20. e6 Bc8 21. d6 Bb7 22. O-O $18) 19... g5 20. Nh5 (20. Ng6 Bc6 $1 {I
+didn't like this.} 21. d5 (21. Rg1 Rh7) 21... Rg8 $1) 20... Bc6 21. d5 Bb7 22.
+Be3 Kd8 (22... N8d7 23. e6 Ne5 24. O-O-O $1 $18 {was finally what I decided
+on.} ({My first intention was} 24. Bxb6 axb6 25. Rxa8+ Bxa8 26. Ng7+ Ke7 27.
+Nxf5+ $16)) 23. Rxa7 $1 Nxd5 24. Rxb7 Nxe3 25. fxe3 Kc8 26. Bd5 $1 (26. Rxb5
+Ra1+ 27. Bd1 Rd8 {would allow some unnecessary hope for Black.}) 26... Rd8 27.
+Rxb5 Ra1+ 28. Ke2 Rxd5 29. Rxb8+ Kxb8 30. Rxa1 Rxe5 31. Nf6 1-0

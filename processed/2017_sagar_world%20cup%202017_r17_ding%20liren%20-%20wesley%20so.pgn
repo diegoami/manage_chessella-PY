@@ -1,0 +1,138 @@
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.19"]
+[Round "6.2"]
+[White "Ding, Liren"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[ECO "E17"]
+[WhiteElo "2771"]
+[BlackElo "2792"]
+[Annotator "Sagar Shah/Amruta Mokal"]
+[PlyCount "116"]
+[EventDate "2017.??.??"]
+[EventType "k.o."]
+[EventCountry "GEO"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:05]} 2. c4 {[%emt 0:00:00]} e6 {[%emt 0:
+00:05]} 3. g3 {[%emt 0:00:00]} d5 {[%emt 0:00:18]} 4. Bg2 {[%emt 0:00:00]} Be7
+{[%emt 0:00:31]} 5. Nf3 {[%emt 0:00:00]} O-O {[%emt 0:00:17]} 6. b3 {[%emt 0:
+00:05] This has been tried most recently by Markus Ragger. One of the players
+who has played it a lot is the Chinese player Ju Wenjun. Perhaps Ding picked
+up this idea from her. Of course, he avoids Wesley's preparation in Open
+Catalan after 0-0 dxc4.} b6 {[%emt 0:06:40]} 7. O-O {[%emt 0:04:50]} Bb7 {
+[%emt 0:00:27]} 8. Nc3 {[%emt 0:01:15]} (8. Bb2 Nbd7 (8... dxc4 9. bxc4 c5 10.
+e3 Qc7 11. Qe2 Nc6 12. Nbd2 Rfd8 $11 {1/2 (30)-1/2 (30) Ju,W (2535)-Tan,Z 
+(2483) China 2013}) 9. e3 Ne4 10. Qe2 Rc8 11. Rd1 Bf6 12. Ne5 $14 {1-0 (55) Ju,
+W (2505) -Kantorik,M (2331) Caleta 2013}) 8... Nbd7 {[%emt 0:14:07]} 9. Bb2 {
+[%emt 0:00:14]} c5 {[%emt 0:01:11]} 10. Ne1 $1 $146 {[%emt 0:01:03] Usually a
+backward move like this should not be any good, but this idea by Ding Liren
+turns out to be really interesting. Wesley liked this idea so much that he
+urged White players to try it out in their games.} (10. cxd5 {has been the
+main continuation with 142 games in the live book} Nxd5 11. Nxd5 Bxd5 {Black
+should be happy with his position.}) 10... cxd4 {[%emt 0:11:22]} (10... Ne4 $5
+{should be Black's best option perhaps.} 11. cxd5 (11. Nxe4 dxe4 12. Qc2 f5 13.
+Rd1 cxd4 14. Bxd4 Qc7 {would be an interesting position to play}) 11... exd5
+12. Nc2 $11 {/+=}) (10... Rc8 11. cxd5 (11. Rc1 {is also possible.}) (11. Nc2 {
+also looks good for White.}) 11... Nxd5 12. Nxd5 Bxd5 13. Bxd5 exd5 14. dxc5 (
+14. Ng2 c4 $1) 14... Nxc5 15. Ng2 $13) 11. Qxd4 {[%emt 0:00:13]} Bc5 $6 {
+[%emt 0:00:04]} (11... Nc5 {could have been better} 12. cxd5 exd5 13. Rd1 Ne6
+14. Qe5 Qc8 15. Qf5 (15. Nxd5 $4 Nxd5 16. Bxd5 Bxd5 17. Rxd5 (17. Qxd5 Rd8 {
+and the rook is lost by x-ray.}) 17... Bf6 {and Black wins a piece.}) 15... g6
+16. Qb1 Rd8 17. Nf3 {an unclear position where White can play against the IQP
+but Black too will find his own means of piece activity.}) 12. Qf4 {[%emt 0:18:
+38]} Bb4 {[%emt 0:03:27] This move doesn't make much sense. White just plays
+Nd3 with a tempo and secures the bishop pair.} (12... Qe7 $14 {maybe a better
+option, but White keeps his edge.}) 13. Nd3 {[%emt 0:10:58]} Bxc3 {[%emt 0:12:
+52]} 14. Bxc3 $16 {[%emt 0:00:02]} Qc8 {[%emt 0:00:24] Wesley thought this was
+the move that landed him in trouble, but I think he is already quite worse.} (
+14... dxc4 15. Bxb7 Rb8 16. Bb4 $1 {Suggested by Wesley after the game.} Re8
+17. Ba6 cxd3 18. Bd6 Ra8 19. Bb7 $14) (14... Qb8 15. Qxb8 Rfxb8 16. cxd5 Nxd5
+17. Rac1 $14) 15. Rfc1 {[%emt 0:07:13]} dxc4 {[%emt 0:01:19]} 16. Bxf6 {
+[%emt 0:01:21]} Nxf6 {[%emt 0:00:05]} 17. Rxc4 {[%emt 0:00:03]} Qb8 {[%emt 0:
+00:04]} 18. Qxb8 {[%emt 0:04:27]} Rfxb8 {[%emt 0:09:20]} (18... Raxb8 19. Rc7 {
+and the a7 pawn hangs after Bxg2. Hence Wesley took on b8 with the f-rook.})
+19. Ne5 {[%emt 0:03:23]} Bxg2 {[%emt 0:04:19]} 20. Kxg2 {[%emt 0:00:04]} Ne8 $1
+{[%emt 0:01:05] Yes this is passive, but it is very important to stop the rook
+from entering c7.} 21. Nc6 {[%emt 0:17:21] White has many ways to strengthen
+his position. This looks not at all bad.} (21. Rd1 Rd8 22. Rcc1 Kf8 23. Nc6
+Rxd1 24. Rxd1 Nf6 {Black should be able to hold with not too much difficulty.})
+(21. b4 {is possible.}) ({so is} 21. a4) 21... Rb7 {[%emt 0:00:04]} 22. Rd1 {
+[%emt 0:00:10]} Kf8 {[%emt 0:04:29]} 23. e4 {[%emt 0:01:08]} ({I also liked
+the idea of fixing he knight on c6 with b4-b5.} 23. b4 a6 24. a4 b5 25. axb5 (
+25. Rc5 bxa4 26. Ra1 Rb5 27. Rxa4 Rxc5 28. bxc5 $14) 25... axb5 26. Rc5 $14)
+23... Nf6 {[%emt 0:04:51] Wesley said that he played this move because he
+wanted to meet e5 with Nd5.} 24. f4 {[%emt 0:05:33]} b5 {[%emt 0:08:06]} (24...
+Ng4 $1 {This active knight move would have been the most accurate way to
+maintain equality when the rooks are currently a bit tied down} 25. Rd3 (25.
+Re1 Rc7 {would lead to similar variations}) 25... Rc7 {is preferable than Rc8}
+(25... Rc8 26. Ne5 Rxc4 (26... Nxe5 {Black cannot take because of intermediate
+check} 27. Rxc8+) 27. Nxc4 Ke7 $14) 26. h3 (26. Ne5 $6 Nxe5 27. fxe5 Rxc4 28.
+bxc4 Rc8 $15) 26... b5 $1 27. Rc1 (27. Rc5 Nf6 {provoking} 28. e5 Nd5 {with
+the idea of winning a piece by Rac8} 29. Nb8 $8 (29. Rd2 $4 Rac8 30. Rdc2 Ne3+
+$19) 29... Rxc5 30. Nd7+ Ke7 31. Nxc5 Rc8 $11 32. Ne4 Rc2+ 33. Rd2 Rxd2+ 34.
+Nxd2 $11 {with a completely equal knight endgame}) 27... Rac8 28. Rdc3 (28.
+Nxa7 Rxc1 29. Nxc8 Rc2+ $1 (29... Rxc8 30. hxg4 Rc2+ 31. Kf3 {with the
+difference of white king being on an active square than on back rank} Rxa2 32.
+Rd8+ Ke7 33. Rb8 Rc2 34. Rb7+ Ke8 35. Rxb5) 30. Kf1 (30. Kf3 Nh2+ 31. Ke3 Rxc8
+$17) 30... Nh2+ 31. Kg1 Rxc8 32. Kxh2 Rc2+ 33. Kg1 Rxa2 $11) 28... Ne3+ 29.
+Rxe3 (29. Kf3 Nc4 $1 $11) 29... Rxc6 $11) 25. Rcd4 {[%emt 0:00:34]} g6 {
+[%emt 0:00:16]} 26. Ne5 {[%emt 0:07:02]} h6 $6 {[%emt 0:02:13] A pretty bad
+move by Wesley.} (26... Rc7 27. Kf3 Rac8 28. g4 Ke8 29. g5 Nh5 $14) 27. Rc1 {
+[%emt 0:01:53]} Ke8 {[%emt 0:04:07]} 28. Kf3 {[%emt 0:02:13]} Nd7 {[%emt 0:01:
+34]} 29. Nd3 {[%emt 0:00:37]} (29. Nxd7 Rxd7 30. Ke3 $14 {would have been the
+most simple way to put pressure on Black's position.}) 29... a5 {[%emt 0:02:41]
+} 30. Rc6 {[%emt 0:03:56]} (30. f5 $5 exf5 31. exf5 Kf8 (31... gxf5 32. Rd6 $16
+) 32. Rd6 $14) 30... Ke7 {[%emt 0:02:41]} 31. a3 {[%emt 0:00:40]} (31. f5 $1
+Kf6 (31... Rd8 32. fxg6 Ne5+ (32... fxg6 33. Ke3 $16) 33. Nxe5 Rxd4 34. Ra6 $18
+) 32. fxe6 fxe6 33. Rd5 $5 $16 (33. Ke3 $16)) 31... Raa7 {[%emt 0:00:16]} 32.
+Ke3 {[%emt 0:01:28]} Nb8 {[%emt 0:01:59]} 33. Rc8 {[%emt 0:00:22]} Nd7 {
+[%emt 0:00:02]} 34. Rc6 {[%emt 0:01:51]} Nb8 {[%emt 0:00:40]} 35. Rc8 {[%emt 0:
+02:59]} Nd7 {[%emt 0:00:01]} 36. Nc5 {[%emt 0:01:20] Of course Ding Liren
+plays on in this position.} Nb6 $2 {[%emt 0:00:31] It is very difficult to
+understand why this move is weak and there is only one way that White can take
+advantage of it. Ding Liren was not able to find it during the game.} (36...
+Nxc5 $142 37. Rxc5 $14 {White has a small edge here as well, but this should
+be within the realms of a draw.}) 37. Rc6 $6 {[%emt 0:04:19]} (37. Rh8 $3 {
+This is the move that gives White a very big advantage, perhaps not winning,
+but definitely big enough to cause Black enough headaches.} Rc7 {The rook is
+attack so this is forced.} 38. Rdd8 $1 {The two rooks have made their way to
+the back rank and are planning to weave a mating net.} Rxc5 (38... Ra8 $6 39.
+Rxa8 Nxa8 40. Rxa8 Rxc5 41. Kd4 $16) 39. e5 $1 {Now the door is shut on the
+black king. Rhe8 mate is a very big threat.} f5 {Absolutely the only move to
+stay in the game.} 40. Rb8 $1 {Attacking the knight and also creating the
+deadly threat of Rh7#. Fortunately Black has} Rc8 (40... Rc3+ 41. Kd4 (41. Kd2)
+41... Rc8 42. Rbxc8 Nxc8 43. Rxc8 Rd7+ 44. Kc5 Rd5+ 45. Kb6 Rd3 46. b4 $18) 41.
+Rbxc8 Nxc8 42. Rxc8 {This position should be enough for Ding Liren to decide
+that he should go for this line. But let's try to dig deeper.} a4 $1 {Black
+tries to do something active.} 43. b4 Rd7 44. Rh8 $1 {This move forces h5 and
+reduces Black's options in this position.} h5 45. Rb8 Rd5 46. h4 $1 {This
+fixes the pawns on the kingside and Black slowly runs out of moves.} (46. Rb6 {
+It keeps an eye on e6 and b5 pawns, but at the same time has some nasty
+threats like Kf7 Rd6! Black must be very careful.} g5 $5 (46... Kd7 47. Rb7+
+Kc8 48. Rg7 Rd1 49. Rxg6 Ra1 50. Rxe6 Rxa3+ 51. Kd4 $16) 47. Rb7+ Kf8 48. fxg5
+Rxe5+ 49. Kf3 $16) (46. Ke2 h4 $1 $14) 46... Kf7 (46... Rd1 47. Rxb5 Ra1 48.
+Kd4 Rxa3 49. Rb7+ Kd8 50. Kc5 $16 {It seems like White should win this.}) 47.
+Rb7+ Kf8 48. Ke2 $16 {is a zugzwang.} Ke8 49. Rg7 Rd8 50. Rxg6 {White should
+win this.}) 37... Rc7 $1 {[%emt 0:00:01] After this Wesley doesn't give his
+opponent any chances and achieves the draw.} 38. Rxb6 {[%emt 0:00:06]} Rxc5 {
+[%emt 0:00:01]} 39. e5 {[%emt 0:00:41]} g5 $1 {[%emt 0:04:13]} 40. Rd3 {
+[%emt 0:00:00]} gxf4+ {[%emt 0:02:19]} 41. gxf4 {[%emt 0:02:41]} Rc2 {[%emt 0:
+00:13]} 42. h3 {[%emt 0:02:12]} Ra2 {[%emt 0:07:11]} 43. b4 {[%emt 0:00:42]}
+axb4 {[%emt 0:02:38]} 44. axb4 {[%emt 0:00:02]} Rh2 {[%emt 0:00:04]} 45. Ke4 {
+[%emt 0:02:03]} Rc7 {[%emt 0:00:34]} 46. Rxb5 {[%emt 0:01:16]} Rc4+ {[%emt 0:
+02:29]} 47. Rd4 {[%emt 0:00:07]} (47. Ke3 Rxh3+ $17) 47... Rc7 {[%emt 0:00:04]}
+(47... Rc3 48. Rb7+ Kf8 $11) 48. Rc5 {[%emt 0:05:36]} Rxc5 {[%emt 0:00:23]} 49.
+bxc5 {[%emt 0:00:01]} Rc2 {[%emt 0:00:04]} 50. f5 {[%emt 0:00:34]} exf5+ {
+[%emt 0:00:20]} 51. Kxf5 {[%emt 0:03:17]} (51. Kd5 Kd7 $11) 51... Rxc5 {
+[%emt 0:00:03]} 52. Rd6 {[%emt 0:00:14]} Rc1 {[%emt 0:00:14]} 53. Rxh6 {
+[%emt 0:00:11]} Rf1+ {[%emt 0:00:05]} 54. Ke4 {[%emt 0:00:05]} f6 {[%emt 0:00:
+22]} 55. exf6+ {[%emt 0:00:22]} Rxf6 {[%emt 0:00:04]} 56. Rxf6 {[%emt 0:00:02]}
+Kxf6 {[%emt 0:00:04]} 57. h4 {[%emt 0:00:01]} Kg6 {[%emt 0:00:01]} 58. h5+ {
+[%emt 0:00:02]} Kxh5 {[%emt 0:00:02] A great fight and excellent play by Ding
+Liren. Unfortunate that he couldn't convert this position. Wesley So defended
+very well after Ding missed his opportunity.} 1/2-1/2
+

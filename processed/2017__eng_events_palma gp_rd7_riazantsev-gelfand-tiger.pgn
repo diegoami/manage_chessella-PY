@@ -1,0 +1,123 @@
+[Event "FIDE Grand Prix Palma 2017"]
+[Site "Palma de Mallorca"]
+[Date "2017.11.23"]
+[Round "7"]
+[White "Riazantsev, Alexander"]
+[Black "Gelfand, Boris"]
+[Result "0-1"]
+[ECO "E16"]
+[WhiteElo "2651"]
+[BlackElo "2719"]
+[Annotator "Tiger Hillarp Persson"]
+[PlyCount "80"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. g3 {This is basically an anti-Queen's-Indian move order.}
+Bb4+ (3... d5 4. Nf3 {Is traditionally met with Bd2, but lately there have
+been many examples of strong players trying} Bb4+ 5. Nbd2 O-O 6. Bg2 {, which
+is another way the game position after 6.Ngf3 can arise.}) 4. Nd2 {The knight
+is not optimally placed here, which makes it worth it for Black to lose a
+tempo with the bishop.} ({After} 4. Bd2 {Black can chose between the Bogo
+Indian set-ups with a5, or Qe7, bt is also quite possible to play} Be7 {
+, intending} 5. Bg2 d5 {with a typical Catalan.}) 4... O-O 5. Bg2 d5 6. Ngf3 b6
+$5 (6... dxc4 7. a3 $5 Bxd2+ 8. Bxd2 Nc6 9. e3 Rb8 10. O-O b5 11. b3 $1 cxb3
+12. Qxb3 Bb7 13. Rfc1 Ne7 14. Bb4 Re8 15. Ne5 {and White had a lot of pressure
+for the pawn, in Grischuk,A (2750)-Nakamura,H (2785) Moscow Grand Prix 2017.})
+({The usual remedy against Nbd2, is to play} 6... c5 {, since the d5-pawn will
+be less of a target than if the knight had gone to c3. Here} 7. a3 Bxd2+ 8.
+Qxd2 $1 {Also looks somewhat better for White. There is no direct way for
+Black to take advantage of the slight weaness of the light squares.}) 7. O-O
+Bb7 {More than 10% of all games with this position were played during the last
+year, so it is something of a fashionable "tabiya". Now White has a wide
+choice:} 8. a3 (8. Ne5 {looks most principled, but allows Black to force
+exchanges.} Nbd7 9. Qa4 Bd6 10. Nxd7 (10. Nc6 $6 Qe8 {[%cal Gd7c5]}) 10... Qxd7
+11. Qxd7 Nxd7 12. cxd5 Bxd5 (12... exd5 {is very equal indeed, and possibly
+that is why Anand avoided.}) 13. e4 Bb7 14. Rd1 $14 {Lenderman,A (2565)-Anand,
+V (2790) chess.com IoM Masters 2017}) (8. cxd5 exd5 9. Ne5 Re8 10. Ndf3 $6 Ne4
+{and White will soon have to retreat the knight from e5, while Ne4 will
+dominate the game for a long time.}) (8. b3 {is a harmonious move that makes a
+lot of sense. After} Qe7 9. Bb2 a5 10. a3 Bd6 11. Qc2 Na6 $6 (11... c5 $1 $132)
+12. Nh4 $1 {[%cal Gc4d5,Ge6d5,Gh4f5]} c5 13. cxd5 Nxd5 14. Ne4 {White had
+Black exactly where he wanted him, in Lenderman,A (2565)-Vallejo Pons,F (2715)
+chess.com IoM Masters 2017.}) 8... Be7 ({After} 8... Bd6 9. b4 a5 10. c5 Be7
+11. Bb2 Ba6 12. Ne5 Nfd7 {White is slightly better, but Black usually fares
+well in these structures as long as the light squared bishop does not get
+boxed in.}) 9. cxd5 exd5 10. b4 a5 $5 {This move surprised me a lot, since it
+leads to a pawn structure that can only be better for White. However, there is
+more to chess than pawn structures.} (10... c6 {preparing ...a5, would be the
+standard reaction here. I cannot spot a clear way for White to keep an
+advantage here, but perhaps the move in the game is just more challenging?!})
+11. b5 (11. Rb1 $6 axb4 12. axb4 Nc6 $1 13. b5 Nb4 {was already promising for
+Black, in Firat,B (2480)-Pap,M (2490) 5th Pontevedra Open 2017.}) 11... c6 $1
+12. bxc6 Nxc6 {A highly unusual position, where White would be better if only
+Nd2 was on c3 instead. Intuitively I would say that White is better if he can
+get control of the light squares on the queenside (when White can continue
+with Bb2 and Ne5, tageting the d5-pawn), but it is not that easy, at all.} 13.
+Bb2 (13. e3 b5 14. Ne5 Bd6 (14... a4 $5 {looks more to the point.}) 15. Bb2 a4
+16. Qb1 Rb8 17. Bc3 Ba8 18. Nxc6 Bxc6 {and draw was agreed in Wei,Y (2728)-Yu,
+Y (2749) Beijing 2017, since White cannot blockade the b-pawn:} 19. Bb4 Qe7 20.
+Bxd6 Qxd6 21. Nf3 b4 22. axb4 Rxb4 $132) (13. Rb1 {, stopping b6-b5 for the
+time being, is another possibility. After} Ba6 14. Re1 b5 15. Ne5 Nxd4 16. e3
+Ne6 17. Nc6 Qd7 18. Nxe7+ Qxe7 19. Nb3 Ne4 20. Bb2 {White has some
+compensation for the pawn, but hardly enough to claim an advantage.}) 13... a4
+{Earlier champions of the Black side have used a simple but effective
+game-plan; to push the a- and b-pawn, while using the c4- and e4-square as
+outposts, but we will see Gelfand take a more flexible stand, waiting for the
+right moment to push. White will try to coordinate his forces and - hopefully
+- set up a blockade on b4. In order to achieve the latter, Nc6 must be
+exchanged.} ({Gelfand improves on a much earlier game:} 13... b5 {leaves
+White's knight with a route to c5.} 14. Ne5 {...which is missed.} (14. Nb3 $5
+Ne4 $1 15. Rc1 a4 $1 16. Nc5 Na5 17. Bc3 $1 (17. Nxb7 Nxb7 18. Ne5 Na5 $36 (
+18... Nbd6 19. Bc3)) 17... Nxc5 18. dxc5 Nc4 19. Qd4 Bf6 20. Qd3 {and I don't
+dare to make an objective statement about the position. Unclear.}) 14... b4 15.
+axb4 Bxb4 16. Nd3 Qb6 17. Rb1 Ba6 $132 {Danielian,V (2289)-Vlasov,E (2155) St
+Petersburg 1999.}) 14. Qb1 b5 15. Ne5 Qb6 ({Instead} 15... b4 16. axb4 Bxb4 {
+, can get messy after} 17. Ndc4 {Gelfand keeps the threat of b5-b4 for a
+moment when it is more awkward to meet.}) 16. Nxc6 Bxc6 17. Bc3 {Hooray!!
+White has succeeded in blockading the b-pawn. That seems like a success,
+especially if we think of the bishop on g2 as "good" and the one on c6 as
+"bad". But, we shouldn't think of it that way. In fact, the bishop on g2 is
+not yet in the game, while Bc6 has easy access to f5. In the meanwhile White's
+knight looks really out of place. It is important for White not to celebrate
+the blockade for too long and forget about the other guys.} Rfc8 18. e3 $6 {
+A slow move that adds little to White's position. Why not play} (18. Bb4 $1 {
+immediately? Black has two choices:} Ra7 $1 {is clearly the best} (18... Qd8
+19. Rc1 Bd7 20. Qb2 Qf8 21. Bxe7 Qxe7 22. e3 {, followed by Nd2-f3-e1/e5-d3,
+is much better than the game for White.}) 19. Bh3 $1 Bxb4 $1 (19... Bd7 20.
+Bxe7 Bxh3 21. Bc5 $14) 20. Qxb4 Bd7 21. Bxd7 Rxd7 22. Rac1 Rdc7 23. Rxc7 Rxc7
+24. Rb1 {and now with} Rc2 {Black's activity is enough to keep the balance.}) (
+18. Rc1 $6 Bd7 $1 {and it becomes hard to play Bb4.}) (18. Nf3 Be8 $1 19. Bb4
+Bxb4 20. Qxb4 Rc4 $15) 18... Bd7 {Gelfand continues to play purposeful moves.}
+19. Bb4 Bxb4 20. Qxb4 {If only the knight was on d3.} Rc7 $5 (20... Qc6 $5 {
+looks too contrived, but}) (20... Rc2 {is a worthy alternative. Perhaps
+Gelfand wanted to have the queen in front of the rook in case of exchanges on
+the c-file?!}) 21. Nf3 {It looks like White is slowly succeding in everything
+he'd dreamed of. Next the knight is going to d3 via e5, no?} ({White is unable
+to challenge Black for control of the c-file:} 21. Rfc1 Rac8 22. Rxc7 Qxc7 23.
+Nf3 Qc3 {and we get the kind of position that Gelfand has been aiming for all
+along. Perhaps White can keep this together, but the defence looks difficult.})
+21... Rac8 22. Ne5 Bf5 $1 {That is painful for White. The knight is unable to
+go to d3 and the rook cannot go to b1. What to do?} 23. Ra2 {That looks
+sensible. The rook can attack b5 from b2.} Ne4 $1 24. Rb2 Nc3 {Everything
+protected.} 25. Ra1 $2 {White squanders his last chance to change the course
+of the game. If I was White I would do anything within my power to avoid what
+went down:} (25. g4 $1 {suggests itself...} Bg6 $1 (25... Be6 $6 26. h3 f6 27.
+Nd3 {[%cal Gd3c5]} Rc4 28. Qe7 R4c7 29. Qb4 Rc4 $11) 26. Re1 (26. f3 f6 27.
+Nxg6 hxg6 28. Re1 Kf7 $17) 26... h5 $5 (26... f6 $6 27. Nxg6 hxg6 28. Bf1 $15)
+27. gxh5 Bf5 28. f3 Qh6 29. Bf1 Qxh5 30. Rg2 {and although Black is still
+better, it is less of a one sided affair.}) 25... f6 26. Nf3 Kf7 $1 {[%cal
+Gc7c4] Covering the e7-square with the least active piece and setting up the
+threat of ...Rc4.} ({I prefer Gelfand's move to} 26... Rc4 27. Qe7 Qb8 28. Nh4
+Bg4 29. h3 Re8 {which wins the queen, but is more prone to random upsets after}
+30. Qxe8+ Qxe8 31. hxg4 Qc8 32. Kh2 $17) 27. Rd2 $2 ({It is understandable
+that White didn't like} 27. Nd2 Bd3 28. Re1 Qe6 $17 {, but this is clearly the
+better of two evils.}) 27... Rc4 28. Qb2 Ne4 ({Here} 28... b4 $1 29. axb4 Rxb4
+30. Qc1 Ne2+ 31. Rxe2 Rxc1+ 32. Rxc1 Rb1 {would win easily, but Gelfand knows
+that White is beyond saving anyway.}) 29. Re2 ({Or} 29. Ne1 b4 30. Bxe4 Bxe4
+31. axb4 Rxb4 32. Qa2 Qb5 {with complete domination. The idea Bb1, Rcc4 and
+Rb3 is impossible to defend against.}) 29... b4 $1 30. Nh4 Bg4 31. h3 (31. f3
+b3 32. fxg4 Rc2 33. Rxc2 Rxc2 34. Qb1 b2 {doesn't end well either.}) 31... Bxe2
+32. Qxe2 g6 33. axb4 Qxb4 34. Qg4 Qb7 35. Bxe4 dxe4 36. Kg2 Rc2 37. d5 (37. Rf1
+Rc1) 37... Rxf2+ 38. Kg1 (38. Kxf2 Qb2+) 38... f5 39. Qd1 Rcc2 40. Qd4 Qb2 {
+A haunting game that illustrates the power of a well drafted game-plan.} 0-1
+

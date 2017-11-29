@@ -1,0 +1,55 @@
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.13"]
+[Round "4.2"]
+[White "Aronian, Levon"]
+[Black "Dubov, Daniil"]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "2802"]
+[BlackElo "2666"]
+[Annotator "Amruta Mokal"]
+[PlyCount "193"]
+[EventDate "2017.??.??"]
+[EventType "k.o."]
+[EventCountry "GEO"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8.
+Be3 O-O 9. Be2 b6 10. Qd2 cxd4 11. cxd4 Bb7 12. e5 Nc6 13. h4 Qd5 14. h5 Rfd8
+15. Rc1 (15. hxg6 hxg6 16. Rh4 Qa5 17. Qxa5 Nxa5 18. e6 f6 19. Rg4 g5 20. Nh4
+Bd5 21. Ng6 Bxe6 22. Re4 Rd6 23. Nxe7+ Kf7 24. d5 Bxd5 25. Nxd5 Rxd5 26. Rc1
+$11 {1/2-1/2 (37) Cuenca Jimenez,J (2498)-Ftacnik,L (2551) Leiria 2017}) 15...
+Qa5 16. h6 Bf8 17. e6 (17. Qxa5 Nxa5 18. O-O Rac8 $11) 17... f6 (17... fxe6 {
+would take into a forcing variation which lands up in a better position for
+white} 18. Bc4 Rd6 19. Bf4 Nxd4 20. Qxa5 Nxf3+ 21. gxf3 bxa5 22. Bxd6 exd6 23.
+Bxe6+ Kh8 24. Rc7 Bxf3 25. Rh3 $16 {white's threats just dont stop and so
+black had no time to pin the e6 Bishop}) 18. O-O (18. Qxa5 Nxa5 19. Kd2 Bd5 {
+white loses a pawn}) 18... Qxd2 19. Bxd2 Nxd4 (19... Rac8 $1 {Not taking d4
+would have been better as white's bishops get good play} 20. Rfd1 Na5 21. Be3
+Bd5 $17 {a2-e6 weakness creates problems for white}) 20. Nxd4 Rxd4 21. Be3 Rdd8
+22. Bb5 $1 Bd5 23. Bd7 {A beautiful Bishop} g5 (23... Bxa2 24. Ra1 Bd5 25. Rfd1
+Bb7 26. Bf4 {and blacks pieces are completely passive}) 24. f4 (24. Rfd1 {
+was a possibility}) 24... Bxh6 (24... gxf4 25. Rxf4 Bxa2 26. Rg4+ Kh8 27. Ra4
+$13) 25. fxg5 Bg7 (25... fxg5 26. Rfd1 Be4 27. Rc7 $44) 26. Bd4 fxg5 27. Bxg7
+Kxg7 28. Rf7+ Kg6 29. Rxe7 Rf8 30. Re1 Bxa2 31. Bb5 $1 {Aronian thought for 14
+minutes and found this move} a6 32. Bd3+ Kf6 33. Rxh7 b5 34. Rh6+ (34. e7 Rg8
+35. Rf1+ Ke6 36. Be4 Rab8 (36... Rac8 37. Bf5+ $18) (36... Rae8 37. Bc6 $16)
+37. Re1 Kf6 38. Rh6+ Kf7 39. Rxa6 $16) 34... Ke7 35. Rh7+ Kf6 36. e7 Rg8 37.
+Rh6+ Kf7 38. Rh7+ Kf6 39. Be4 Rae8 40. Rh6+ Kf7 41. Bc6 Bc4 42. Bxe8+ Rxe8 43.
+Rxa6 Rxe7 44. Rxe7+ Kxe7 45. Kf2 Kf7 46. Rb6 Be6 47. Rxb5 {The best
+theoritical endgame reached by far in World Cup Tbilisi. Definitely needs in
+depth study. White's should aim for: Kd4, Rb2, g4 when black would be having
+is Kg6, Bd3, g5. This is a winning position.} Kf6 48. Kf3 Bf5 49. Rc5 Bd3 50.
+Ke3 Bf5 51. Kd4 Bb1 52. Rc1 Bg6 53. Rc6+ Kg7 54. Ke5 Bb1 55. Ra6 Bc2 56. Rd6
+Kf7 57. Rf6+ Kg7 58. Rf2 Bb1 59. Rb2 Bd3 60. Rd2 Bb1 61. Ke6 Be4 62. Re2 Bd3
+63. Rd2 Be4 64. Ke5 Bb1 65. Rd4 Kf7 66. Ra4 Bc2 67. Ra5 Bb1 68. Rc5 Kg6 69. Rc1
+Bd3 70. Rd1 Bc2 71. Rd2 Bb1 72. Ke6 Be4 73. g3 Bb1 74. Rb2 Bd3 75. Ke7 Be4 76.
+Rb6+ Kg7 77. Rb5 Kg6 78. Rb4 Bc2 79. Kf8 Kf6 80. Kg8 Bd3 81. Rd4 Bc2 82. Rd2
+Bb1 83. Rf2+ Kg6 84. Rb2 Bd3 85. Rb6+ Kf5 86. Rb4 Kf6 87. Rd4 Bc2 88. Rd2 Bb1
+89. Rf2+ Kg6 90. g4 $1 {Finally Aronian found out that the only way to win is
+g4} Be4 91. Rd2 Kf6 92. Rb2 Bd3 93. Rb6+ Ke5 94. Kg7 Kf4 95. Rb4+ Be4 96. Rxe4+
+Kxe4 97. Kg6 1-0
+

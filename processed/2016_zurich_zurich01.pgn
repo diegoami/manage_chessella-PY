@@ -1,0 +1,188 @@
+[Event "5th Zurich CC 2016"]
+[Site "Zurich SUI"]
+[Date "2016.02.13"]
+[Round "1"]
+[White "Shirov, A."]
+[Black "Kramnik, V."]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2684"]
+[BlackElo "2801"]
+[PlyCount "75"]
+[EventDate "2016.02.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 Ne7 10. h3 Bd7 11. Be3 Ng6 12. Rad1 Ke8 13. a3 Be7 14.
+Rfe1 Rd8 15. Ne4 b6 16. Bc1 Kf8 17. Neg5 Be8 18. Nd4 Rd5 19. Nf5 Rxe5 20. Rxe5
+Nxe5 21. Nxe7 Kxe7 22. Re1 f6 23. Nf3 Bg6 24. Nxe5 fxe5 25. Rxe5+ Kf7 26. Bg5
+Re8 27. Rxe8 Kxe8 28. c3 Kd7 29. Bf4 Bc2 30. g4 a5 31. Kg2 a4 32. Kg3 b5 33.
+Be5 g6 34. Kf4 Ke6 35. Bxc7 h6 36. Ke3 Kd5 37. Bf4 h5 38. gxh5 1/2-1/2
+
+[Event "5th Zurich CC 2016"]
+[Site "Zurich SUI"]
+[Date "2016.02.13"]
+[Round "1"]
+[White "Nakamura, Hi"]
+[Black "Giri, A."]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2787"]
+[BlackElo "2798"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[PlyCount "93"]
+[EventDate "2016.02.12"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. Bf3 Nbd7 10. O-O O-O 11. a4 Qc7 12. Nd5 Nxd5 13. exd5 Bf5 14. c3 Bg6 15.
+a5 f5 16. Ra4 b5 17. axb6 Nxb6 18. Ra2 Nc4 19. Bc1 a5 20. Nd2 Nb6 21. Ra3 a4
+22. c4 Bf6 {Something has clearly gone wrong for White. His development is far
+from ideal, Black's position is active and he has pressure on the queenside as
+well as expansion possibilities on the center/kingside. Nakamura senses the
+danger and tries to change the landscape.} 23. g4 $1 {Weakning the kingside
+horribly, but obtaining control over e4.} Bg5 24. gxf5 Bxf5 25. Rc3 Nd7 $6 {
+Missing a computer-like win.} (25... a3 $1 26. bxa3 (26. Rxa3 Rxa3 27. bxa3 Bh3
+28. Re1 Qf7 {and there is no good way of meeting the threat of Bxd2.}) 26...
+Na4 27. Rb3 Nc5 28. Rc3 Qa5 {and defending the rook on c3 is impossible.}) 26.
+b4 axb3 27. Nxb3 Bxc1 28. Qxc1 Nc5 $2 {This is probably the big error in
+Giri's game. He should have kept the pieces, maybe start eyeing the f4 square
+with Nf6 or something similar. The trades allow Nakamura to release the
+pressure and simplify into a drawn endgame.} 29. Nxc5 Qxc5 30. Qe3 Qxe3 31.
+Rxe3 Rfc8 32. Be2 g6 33. f4 exf4 34. Rxf4 Re8 35. Rxe8+ Rxe8 36. Kf2 Kg7 37.
+Bg4 Re5 38. Bxf5 Rxf5 39. Rxf5 gxf5 40. Ke3 Kg6 41. Kd4 Kf6 42. c5 dxc5+ 43.
+Kxc5 Ke7 44. d6+ Kd7 45. Kd5 f4 46. Ke4 Kxd6 47. Kxf4 1/2-1/2
+
+[Event "5th Zurich CC 2016"]
+[Site "Zurich SUI"]
+[Date "2016.02.13"]
+[Round "1"]
+[White "Anand, V."]
+[Black "Aronian, L."]
+[Result "1-0"]
+[ECO "C48"]
+[WhiteElo "2784"]
+[BlackElo "2792"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[PlyCount "37"]
+[EventDate "2016.02.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 {The four knights is a surprisingly
+unpopular version of avoiding the Berlin, mainly due to the fact that Black
+has plenty of options that supposedly give him an acceptable game.} Bd6 {
+ultra solid. The point is that the bishop will retreat to f8 eventually or
+move to c5 when e5 is properly defended.} 5. O-O O-O 6. d3 Re8 7. a3 {I can't
+find any super-high level example of this move, though I suppose it does make
+sense to clear up a2 for the bishop in case it needs it.} h6 8. Bc4 Bc5 9. Be3
+Bxe3 10. fxe3 d6 {In this position Black's rook would rather be on f8. White
+has a couple of extra tempi, but somehow I feel Black is solid enough to be ok.
+} 11. Nh4 Be6 12. Nf5 Bxc4 $6 {Even though it is natural to break up the
+structure, Black's position is so underdeveloped and the pressure on the
+kingside is mounting at such an alarming rate that this trade may already be
+too ambitious.} (12... Nb8 {immediately was probably a safer choice}) 13. dxc4
+Kh7 $2 (13... Re6 {trying to hold on to the kingside, was been better.}) 14.
+Qf3 $1 {Anand smells blood!} (14. Nd5 {was also good enough for a big
+initiative, but it was not as accurate.}) 14... Nb8 {With the idea of
+solidifying the kingside with Nb8-d7. But this is too late.} (14... Ng8 {
+is a sad move to make, but might have already been necessary. After} 15. c5 {
+clearly White stands better.} (15. Qg3 $5)) 15. Nxh6 $1 Kxh6 (15... gxh6 16.
+Qxf6 Qxf6 17. Rxf6 Kg7 18. Raf1 {is hopeless. White is too active and has an
+extra pawn.}) 16. Qh3+ Kg6 (16... Nh5 17. Rxf7 (17. g4 {are both winning
+easily.})) 17. Rf3 {not the only winning move, actually, but the most exact.
+White threatens Rg3+ or Qf5+ and Rh3.} Nh5 18. Rf5 Nf6 19. Qh4 {Black gets
+mated next move.} 1-0
+
+[Event "5th Zurich CC 2016"]
+[Site "Zurich SUI"]
+[Date "2016.02.13"]
+[Round "2"]
+[White "Shirov, A."]
+[Black "Nakamura, Hi"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2684"]
+[BlackElo "2787"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[PlyCount "80"]
+[EventDate "2016.02.12"]
+
+1. e4 e6 {It's unusual to see Nakamura play a French...} 2. d4 d5 3. e5 {
+Though most French players will tell you that if they know white will play 3.
+e5 for sure, they would play the French all day every day!} c5 4. c3 Nc6 5. Nf3
+Qb6 6. a3 Nh6 7. b4 {I've never beelieved in the lines that involve Bxh6
+against the French, even though the great advance French expert, Grischuk,
+used it against Caruana kind of recently. (In a blitz game, in which he lost!).
+} cxd4 8. Bxh6 gxh6 9. cxd4 Bd7 10. Ra2 Rg8 11. h3 (11. g3 {Grischuk-Caruana,
+2014 Dubai Blitz WCH}) 11... h5 12. g3 h4 13. g4 Be7 14. Be2 f6 {Pretty
+typical French stuff. Black has the pair of bishops and is fighting to break
+open the center.} 15. b5 Nd8 {Making way for f7. The knight has plenty of
+potential from there.} (15... Na5 $5) (15... Nxd4 16. Qxd4 Qxd4 17. Nxd4 fxe5 {
+is a bit too optimistic, but not suicidal by any means.}) 16. Qd3 Rg7 17. Nc3
+Nf7 18. O-O $6 {This is so brave, it definitely crosses the line into foolish.
+Why castle into it?} (18. exf6 Bxf6 19. Qe3 $15) 18... h5 (18... fxe5 19. Nxe5
+Nxe5 20. dxe5 Rc8 $17 {was probably stronger, leaving h5 for a later moment
+while finishing the development of the queenside. We will see soon how this is
+important.}) 19. Na4 Qd8 20. exf6 Bxf6 21. Nc5 hxg4 22. hxg4 b6 (22... Rxg4+
+23. Kh1 {leaves Black's position a tad awkward as White does have a lot of
+threats here, including the pawns on e6 and b7.}) 23. Nxd7 Qxd7 24. Kh1 Rc8 25.
+Rc2 Rxc2 26. Qxc2 Nd6 27. Ne5 Bxe5 28. dxe5 Ne4 29. Kg2 Nc5 30. Rh1 Qe7 31. Qc1
+Rh7 32. Qe3 Qg7 33. Rc1 Qf8 {It seems that White has managed to stabilize his
+position.} 34. a4 (34. f3 $11) 34... Rf7 35. f3 Rf4 36. Rxc5 $4 {This move is
+so hard to understand. Perhaps Shirov thought he had adequare counterplay with
+his passed pawns?} bxc5 37. a5 h3+ (37... Rb4 {is also totally winning...
+Black is just up the exchange.}) 38. Kg3 $2 h2 39. Kxh2 Qh6+ 40. Kg2 Rxg4+ {
+costs White a queen.} 0-1
+
+[Event "5th Zurich CC 2016"]
+[Site "Zurich SUI"]
+[Date "2016.02.13"]
+[Round "2"]
+[White "Kramnik, V."]
+[Black "Aronian, L."]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[WhiteElo "2801"]
+[BlackElo "2792"]
+[PlyCount "98"]
+[EventDate "2016.02.12"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d3 O-O 6. Nbd2 Nc6 7. d4 Ne4 8. c3
+f5 9. Ne1 e5 10. dxe5 Nxe5 11. Nd3 Ng6 12. c4 Be6 13. cxd5 Nxd2 14. dxe6 Nxf1
+15. Kxf1 c6 16. Qb3 Qb6 17. Qc4 Kh8 18. Be3 Qc7 19. f4 Rad8 20. Rc1 Bf6 21. Qb4
+Rfe8 22. Bxa7 Ra8 23. Bb6 Qc8 24. Bd5 Nf8 25. Bb3 Nxe6 26. a4 Nf8 27. Nc5 Nd7
+28. Nxd7 Qxd7 29. Rd1 Qe7 30. Qxe7 Rxe7 31. Bc2 g6 32. b4 Rae8 33. Bd8 Rf7 34.
+Bb6 Rfe7 35. Bd8 Rf7 36. Bb3 Rxd8 37. Rxd8+ Bxd8 38. Bxf7 Be7 39. b5 cxb5 40.
+axb5 Kg7 41. Bd5 b6 42. Kg2 g5 43. Kf3 gxf4 44. Kxf4 Kf6 45. Bc4 Bd6+ 46. Kf3
+h6 47. Bd3 Ke5 48. h3 Kf6 49. Bc2 Bc7 1/2-1/2
+
+[Event "5th Zurich CC 2016"]
+[Site "Zurich SUI"]
+[Date "2016.02.13"]
+[Round "2"]
+[White "Giri, A."]
+[Black "Anand, V."]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "2798"]
+[BlackElo "2784"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[PlyCount "90"]
+[EventDate "2016.02.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 a6 7. a4 O-O 8. Re1 h6
+9. h3 Be6 10. Bxe6 fxe6 11. Be3 Bxe3 12. Rxe3 Qd7 13. Nbd2 Qf7 14. g3 Nd7 15.
+Kg2 a5 16. Qc2 Nc5 17. Rf1 Qd7 18. b3 Ne7 19. Nc4 b5 20. axb5 Qxb5 21. Rb1 Nc6
+22. Ncd2 Rab8 23. d4 exd4 24. Nxd4 Nxd4 25. cxd4 Na6 26. Qc3 Qb6 27. Nf3 Nb4
+28. Qc4 Rbe8 29. Rc1 Rf7 {The position is relatively level. Black's strong
+knight on b4 has a comfortable outpost, but White enjoys more space and some
+pressure against c7.} 30. Nd2 Ref8 31. f4 $6 (31. Rf1 {should keep the balance,
+but Giri gets too ambitious.}) 31... e5 $1 {The Dutch player must have
+underestimated this move. White has no good way of dealing with this break.}
+32. Nf3 (32. fxe5 d5 33. exd5 (33. Qe2 Rf2+ 34. Qxf2 Rxf2+ 35. Kxf2 Qxd4 {
+is also very bad.}) 33... Rf2+ 34. Kh1 Rxd2 {is an extra piece for Black.}) (
+32. dxe5 Qxe3 {is impossible.}) (32. f5 exd4 $17) 32... exf4 33. gxf4 d5 $1 34.
+exd5 Qd6 $1 {Black is in no hurry: with the powerful blockade over the d5 pawn
+and the weakness on f4 he is almost winning, the king on g2 is too exposed.}
+35. Ne5 Rxf4 36. Kg1 Kh7 37. Rg3 R8f5 38. Rg4 Qf6 39. Rxf4 Rxf4 40. Rf1 Qg5+
+41. Kh2 Re4 {When you're attacking, don't trade pieces} 42. Nf3 Qf4+ 43. Kg2
+Re3 44. Qc1 Re2+ 45. Kh1 Qg3 {White is soon getting mated. A nice start for
+Anand!} 0-1
+

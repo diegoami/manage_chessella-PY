@@ -1,0 +1,33 @@
+[Event "21st OIBM 2017"]
+[Site "?"]
+[Date "2017.10.29"]
+[Round "2"]
+[White "Adly, Ahmed"]
+[Black "Cordes, Hans-Joerg"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2625"]
+[BlackElo "2222"]
+[Annotator "Johannes"]
+[PlyCount "41"]
+[EventDate "2017.??.??"]
+[EventType "swiss"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. g3 e6 3. Bg2 Nf6 4. O-O Be7 5. d3 c5 6. Nbd2 Nc6 7. e4 O-O 8. Re1
+b5 9. e5 Nd7 10. Nf1 a5 11. h4 a4 12. a3 Qc7 13. Bf4 Bb7 14. Ne3 Rfc8 15. Nxd5
+exd5 16. e6 Bd6 17. Bxd6 Qxd6 18. exd7 Qxd7 19. Ng5 Rd8 $2 {Now White has a
+surprising tactical shot.} ({After the solid} 19... Rf8 {the position is about
+equal.}) 20. Qh5 Qf5 {[#]} 21. Re6 $1 {Suddenly Black ist lost. White
+threatens 22.Bh3 and after 22...fxe6 23.Bxe6+ Kh8 24.Nf7+ Kg8 25.Nxd8+ Kf8 26.
+Qxg6 hxg6 27.Nxb7 White has a huge material plus and is winning. And after 22..
+.Nd4 White plays 23.Re7, attacking b7 and f7.} 1-0
+
+ 18. Ng5 $1 $16 Nf6 19.
+exf7+ Kf8 20. Re6) 18... Qxd7 $14 19. Ng5 {Strongly threatening Qh5.} Rd8 $2 {
+[%mdl 8192]} (19... Rf8 $11 {and Black is okay.}) 20. Qh5 $18 Qf5 {[#]} 21. Re6
+$3 {[%mdl 512]} 1-0
+

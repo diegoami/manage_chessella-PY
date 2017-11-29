@@ -1,0 +1,27 @@
+[Event "Tata Steel Challengers"]
+[Site "?"]
+[Date "2016.01.16"]
+[Round "1"]
+[White "Adhiban, B."]
+[Black "Abasov, Nijat"]
+[Result "1-0"]
+[ECO "E34"]
+[WhiteElo "2653"]
+[BlackElo "2556"]
+[Annotator "Adhiban"]
+[SetUp "1"]
+[FEN "rnb1r1k1/p4ppp/1p6/2pP4/2P5/P4P2/1B1QBq1P/2KR2R1 b - - 0 19"]
+[PlyCount "4"]
+19... Rxe2 (19... g6 {I hadn't found a clear refutation of this when I played
+Qd2 on the previous move but felt I must have sufficient compensation.} 20. Qc3
+$1 (20. Rde1 Nd7) 20... Qe3+ 21. Qxe3 Rxe3 22. Rde1 {Now the main point is that
+Black cannot challenge the e-file.} {Possibly the best try is} Bf5 $5 ( 22...
+Nd7 23. Bd1 $1 {[%cal Gd1a4] The star move!} Rxe1 24. Rxe1 Kf8 25. Ba4 $16) 23.
+Bd3 Rxe1+ 24. Rxe1 Nd7 25. Bxf5 gxf5 26. Rg1+ (26. Re7 Rd8 27. Be5 $5) 26...
+Kf8 27. Rg7 $14 {I assumed that I must be better here.}) {[%tqu "What is the
+strongest way for white to continue?","","",Rge1,"Once you force your mind out
+of the pschological barrier of the queen en prise and the tempting Rg7+, then
+it is pretty easy to find this.",10]} 20. Rge1 $3 {Once you force your mind out
+of the pschological barrier of the queen being en prise on d2 and the tempting
+Rg7+, then it is pretty easy to find this.} Qh4 21. Qxe2 {and the rest was
+easy.} 1-0

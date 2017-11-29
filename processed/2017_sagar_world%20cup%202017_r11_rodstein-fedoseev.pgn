@@ -1,0 +1,53 @@
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.13"]
+[Round "4.2"]
+[White "Fedoseev, Vladimir"]
+[Black "Rodshtein, Maxim"]
+[Result "0-1"]
+[ECO "A50"]
+[WhiteElo "2731"]
+[BlackElo "2695"]
+[PlyCount "78"]
+[EventDate "2017.??.??"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:06]} 2. Nf3 {[%emt 0:00:00]} e6 {
+[%emt 0:00:50]} 3. c4 {[%emt 0:00:00]} b6 {[%emt 0:01:16]} 4. g3 {[%emt 0:00:
+51]} Bb7 {[%emt 0:03:34]} 5. Bg2 {[%emt 0:00:10]} g6 {[%emt 0:01:00]} 6. O-O {
+[%emt 0:01:21]} Bg7 {[%emt 0:00:04]} 7. Nc3 {[%emt 0:02:44]} Ne4 {[%emt 0:00:
+20]} 8. Nxe4 {[%emt 0:03:25]} Bxe4 {[%emt 0:00:05] LiveBook: 81 Games} 9. Ne5
+$146 {[%emt 0:04:28] This move might not be the best idea.} ({Predecessor:} 9.
+Bg5 f6 10. Be3 Nc6 11. Qd2 O-O 12. Rfd1 Ne7 13. Bh6 Bxh6 14. Qxh6 d5 15. Qe3
+Nf5 16. Qc3 c6 {1-0 (37) Jakovenko,D (2730)-Ipatov,A (2613) Saint-Quentin 2014}
+) 9... Bxg2 {[%emt 0:01:00]} 10. Kxg2 {[%emt 0:00:06]} c5 {[%emt 0:07:11]} 11.
+Be3 {[%emt 0:05:55]} Bxe5 $5 {[%emt 0:16:44] This is the move by which Maxim
+tried to create some imbalance on the board.} 12. dxe5 {[%emt 0:00:07]} Qc7 {
+[%emt 0:00:15]} 13. Bd2 {[%emt 0:05:49]} Nc6 {[%emt 0:03:13]} 14. Bc3 {[%emt 0:
+00:29]} O-O-O {[%emt 0:02:51]} (14... Nxe5 $2 15. f4 $16) 15. f4 {[%emt 0:01:
+39]} h5 {[%emt 0:05:20]} 16. e3 {[%emt 0:03:35]} g5 {[%emt 0:02:08] Black gets
+good play on the kingside.} 17. Kf2 {[%emt 0:10:02]} (17. fxg5 $14 Nxe5 18. h4)
+17... h4 {[%emt 0:15:39]} (17... g4 {was Maxim's intention but then White has}
+18. h4 gxh3 19. Rh1 $14) 18. g4 {[%emt 0:00:33]} gxf4 {[%emt 0:01:50]} 19. exf4
+{[%emt 0:00:12]} d6 {[%emt 0:07:41]} (19... f6 20. exf6 Qxf4+ 21. Kg1 $14) 20.
+exd6 {[%emt 0:01:39]} Rxd6 {[%emt 0:00:04]} 21. Qf3 {[%emt 0:00:08]} Rhd8 {
+[%emt 0:00:03]} 22. Kg1 {[%emt 0:00:16]} Rd3 {[%emt 0:01:29]} (22... Nd4 $5 23.
+Qf2 Qc6 $11) 23. Qe4 {[%emt 0:02:06]} h3 {[%emt 0:06:04]} 24. Rae1 {[%emt 0:02:
+08]} Kb7 {[%emt 0:00:44]} 25. Re3 {[%emt 0:05:42][%csl Gg1][%cal Gg2g4,Gf2f4]}
+({Better is} 25. g5 $14) 25... f5 $1 $11 {[%emt 0:00:48][%cal Gg8g1]} 26. gxf5
+{[%emt 0:02:21]} (26. Qxd3 Rxd3 27. Rxd3 fxg4 {[%csl Gf1,Gf5][%cal Gc6e7,Ge7f5]
+}) 26... Rxe3 {[%emt 0:04:57]} 27. Qxe3 {[%emt 0:00:13]} exf5 {[%emt 0:00:05]}
+28. Qxh3 {[%emt 0:00:21]} Rg8+ {[%emt 0:00:46]} 29. Kh1 {[%emt 0:00:06]} Nd4 {
+[%emt 0:01:28][%cal Gc7c6]} 30. Bxd4 $1 {[%emt 0:01:33]} Qc6+ {[%emt 0:00:04]
+[%cal Gf1f3]} 31. Qf3 {[%emt 0:00:09]} (31. Rf3 $1 $11 {was the only way to
+keep the balance.} cxd4 32. Qh7+ Ka6 33. Qxg8 Qxf3+ {[%csl Gd4]} 34. Kg1 {
+[%cal Gg8d5,Gd5b5]} Qxf4 (34... Qd1+ 35. Kg2) 35. Qd5) 31... cxd4 $17 {[%emt 0:
+00:04][%csl Gd4]} 32. Qxc6+ {[%emt 0:06:51]} Kxc6 {[%emt 0:00:05][%cal Gc6c4,
+Gd4d1]} 33. Rg1 {[%emt 0:00:35]} Re8 {[%emt 0:03:10] Black has strong
+compensation.} 34. b4 $2 {[%emt 0:01:24][%cal Gc6c5] [#]} b5 $1 $19 {[%emt 0:
+03:53] Black is clearly winning.} 35. c5 {[%emt 0:13:52] [#]} (35. Rg6+ Kc7 36.
+cxb5 d3 37. Rc6+ Kd7 (37... Kb7) 38. Rc3 Re3 $19) 35... Kd5 $1 {[%emt 0:01:10]}
+36. Rg7 $2 {[%emt 0:00:31]} (36. Rg6 $142 d3 37. Kg2 (37. Rd6+ $2 Ke4 $19) (37.
+h4)) 36... d3 {[%emt 0:03:23] Black is clearly winning.} 37. Rd7+ {[%emt 0:05:
+35]} Kc4 {[%emt 0:00:08]} 38. Kg2 {[%emt 0:05:01]} Kc3 {[%emt 0:02:02]} 39. h4
+{[%emt 0:13:54]} d2 {[%emt 0:01:40]} 0-1
+

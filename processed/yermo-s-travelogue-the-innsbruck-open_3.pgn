@@ -1,0 +1,64 @@
+[Event "1st Innsbruck Open 2017"]
+[Site "Innsbruck AUT"]
+[Date "2017.08.28"]
+[Round "3.2"]
+[White "Gholami, A."]
+[Black "Meskovs, N."]
+[Result "0-1"]
+[ECO "C91"]
+[WhiteElo "2434"]
+[BlackElo "2495"]
+[Annotator "Alex Yermolinsky"]
+[PlyCount "90"]
+[EventDate "2017.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+[SourceDate "2017.09.04"]
+[SourceVersion "2"]
+[SourceVersionDate "2017.09.16"]
+[SourceQuality "2"]
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d4 Bg4 10. Be3 exd4 {Black chooses the most popular line.} (10... Bh5 {
+is an interesting alternative.}) 11. cxd4 d5 ({More complex is} 11... Na5 12.
+Bc2 Nc4 13. Bc1 c5 14. b3 Nb6 15. Nbd2 Rc8 16. Bb2 Nfd7 {Giri-Carlsen, 2015})
+12. e5 Ne4 13. Nc3 ({Lately White had some success with} 13. h3 Bh5 14. Nbd2
+Nxd2 15. Qxd2 {This whole idea is based on} Bxf3 16. Qc3 $1 Bxg2 (16... Qd7 17.
+Rec1) 17. Kxg2 Nb8 18. Kh2 {with compensation.}) 13... Nxc3 14. bxc3 Qd7 15. h3
+Bf5 (15... Bh5 16. g4 {leads to the same thing.}) 16. g4 Bg6 17. Nd2 ({Black is
+pretty solid after} 17. Bg5 Bxg5 18. Nxg5 Nd8 19. f4 Ne6) 17... Na5 18. f4 {
+[#]} Bd3 $6 {Meskovs begins to "mix it up", likely in the hope to confuse his
+young opponent.} (18... Nxb3 19. axb3 f5 20. g5 {looks very drawish.}) 19. Qf3
+$1 (19. f5 b4) 19... Nxb3 (19... Nc4 20. f5) 20. axb3 Qc6 ({The natural-looking
+} 20... b4 {would have led to a fascinating position after} 21. c4 ({White has
+a better option in} 21. Bf2) 21... dxc4 22. bxc4 b3 23. Bf2 b2 24. Qxd3 bxa1=Q
+25. Rxa1 $13) 21. Bf2 $6 {Aryan Gholami just couldn't resist the temptation of
+winning the queen.} (21. Rec1 $1 {was consistent and strong. The position
+after} a5 22. c4 (22. Bf2 Be4 {may have been the reason why Aryan didn't want
+to remove his rook from e1.}) 22... bxc4 23. bxc4 Rfd8 {White can choose
+between winning a pawn} 24. cxd5 {which would be letting Black off the hook,}
+({and more thematic } 24. Bf2 $1 Be4 25. Nxe4 dxe4 26. Qe3 a4 27. d5)) 21...
+Qxc3 {There was no going back for Nikita.} 22. Red1 Bb4 23. Rac1 Qxd2 24. Rxd2
+Bxd2 25. Ra1 Be4 26. Qg3 Bb4 27. Be1 c5 28. Bxb4 cxb4 29. f5 a5 30. Qe1
+({Without the pieces to support it, the pawn storm looks harmless.} 30. f6 Rfc8
+31. Qf4 a4 32. Qg5 Bg6 33. e6 fxe6 {White simply cannot create threats, and
+likely will have to look for a draw.}) 30... h6 31. Qd2 Kh7 32. Rc1 {[#]} a4 $5
+{Once again, Meskov takes some risk.} ({The obvious alternative,} 32... Rfc8
+33. Rc5 Rxc5 34. dxc5 a4 35. bxa4 bxa4 36. Qxb4 a3 37. Qb7 Ra5 38. Qxf7 a2 39.
+Qg6+ Kg8 {ends peacefully.}) 33. Qxb4 a3 34. Ra1 Rfc8 35. Rxa3 $2 {This is what
+Nikita was hoping for. A time-trouble induced error leaves the white king
+undefended.} ({ Instead,} 35. Qxb5 Rc2 36. Qb7 Rac8 37. Qxf7 a2 38. e6 Rb2 39.
+f6 {looks good enough for White to get a perpetual out of it.}) 35... Rc1+ 36.
+Kf2 Rc2+ (36... Rac8 $1 37. Ra2 R8c3 $19 {was the way to weave a mating net.}
+38. e6 Rf3+ 39. Ke2 Rcf1 40. Rd2 (40. exf7 R3f2+ 41. Ke3 Rxa2 $19) 40... fxe6
+41. fxe6 Rg1 42. Qxb5 {and now the incredibly cool finish} Rxh3 43. e7 Rh2+ 44.
+Ke3 Re1+ 45. Kf4 Rxd2 46. e8=Q g5+ 47. Ke5 Bg6+ 48. Kxd5 Rxe8) 37. Kg3 Rac8 38.
+Kh4 R2c3 {[#]} 39. Ra2 {Aryan's last move looked obvious, although it would
+come short.} ({ In fact, there was a fantastic escape,} 39. e6 Bg2 40. g5 Rxh3+
+41. Kg4 h5+ 42. Kf4 Rh4+ 43. Ke5 $1 (43. Ke3 Rc2 44. exf7 Re4+ 45. Kd3 Bf1+)
+43... Rd8 44. Qe1 $8 Re4+ 45. Qxe4 dxe4 46. exf7 {According to the engines this
+is a draw, with he main line being} h4 47. Ke6 Rb8 (47... h3 48. Ke7) 48. Ke7
+e3 49. f8=Q Rxf8 50. Kxf8 e2 51. Ra7 e1=Q 52. Rxg7+ Kh8 53. Rg8+ Kh7 54. Rg7+)
+39... Rf3 40. Qe7 Rcc3 41. Rh2 Bxf5 $1 42. gxf5 (42. Qxf7 Be6 43. Qe7 Bf7 {with
+g7-g5 to follow.} ) 42... Rf4+ 43. Kh5 Rxf5+ 44. Kg4 Rcf3 $1 {One final stroke
+of a brilliant attack.} 45. Rg2 R5f4+ 0-1

@@ -1,0 +1,37 @@
+[Event "St Louis Fall A 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.09.11"]
+[Round "6.2"]
+[White "Li, Ruifeng"]
+[Black "Petrosian, Tigran L"]
+[Result "1/2-1/2"]
+[ECO "B00"]
+[WhiteElo "2548"]
+[BlackElo "2615"]
+[Annotator "Ruifeng Li"]
+[PlyCount "98"]
+[EventDate "2017.09.06"]
+
+1. e4 Nc6 2. Nf3 d6 3. d4 Bg4 4. Be2 Nf6 5. Nc3 g6 6. d5 Bxf3 7. Bxf3 Ne5 8.
+Be2 Bg7 9. O-O O-O 10. Be3 c6 11. f4 Ned7 12. dxc6 bxc6 13. Bf3 Qc7 14. Qd3 e5
+15. g3 Rfe8 16. Rad1 Bf8 17. Kh1 Rab8 18. b3 Qa5 19. Bd2 Nc5 20. Qe2 Qc7 21. f5
+gxf5 22. Bg5 Bg7 23. Bxf6 Bxf6 24. Bh5 f4 25. gxf4 Kh8 26. fxe5 Bxe5 27. Rxf7
+Re7 28. Rdf1 $5 {White had several juicy opportunities to create an attack
+earlier, but this one that now arises is not so advantageous.} Bxc3 29. Qg4 $6
+{Technically White is losing after this â€” but if this position were a puzzle,
+Black would need to calculate nearly 20 moves to find the win! As for myself,
+I thought it was a perpetual...} (29. Qe3 $1 {was the only way to go. Black
+should be completely fine after} Bg7 30. Qg5 Rxf7 31. Rxf7 Ne6 $1 32. Qf5 Qb6
+33. Qxe6 Qe3 $13) 29... Rxf7 30. Rxf7 Qc8 $1 31. Rxh7+ $3 Kxh7 32. Bg6+ Kh6 33.
+Qh5+ Kg7 34. Qh7+ Kf6 35. Qf7+ Ke5 (35... Kg5 $2 36. h4+ Kxh4 37. Qf4+ Qg4 38.
+Qh6+ Kg3 39. Qh2+ Kf3 40. Bh5) 36. Qg7+ Kf4 37. Qh6+ Kf3 38. Bh5+ Kxe4 39. Bg6+
+Kf3 40. Bh5+ Ke4 41. Bg6+ {All this nonsense I had seen, but now Tigran played}
+Kd5 $1 {which is a scary move â€” for both players.} 42. Qg5+ Be5 43. Bf7+ $1 {
+Finally I hit upon this idea. The check-check-check strategy only loses.} (43.
+c4+ Kd4 44. Qg1+ (44. Qd2+ Nd3 45. Qxd3+ Kc5) 44... Kc3 45. Qe1+ Kb2 46. Qd2+
+Ka3 47. Qa5+ Na4 48. Qxa4+ Kb2 49. b4 $5 Qh3 $1 50. Qc2+ Ka3) {Now my opponent
+meditated for an eternity, but he couldn't find the only win.} 43... Ke4 $2 (
+43... Ne6 $1 44. Qe3 {was my plan, threatening c4#, but...} Bc3 $3 45. Qxc3 Qa6
+46. Qe1 Kc5 47. Bxe6 Kb6 $18 {and the exchange is a considerable...something.})
+44. Bg6+ {And we ended the game with a funny perpetual check:} Kf3 45. Bh5+ Ke4
+46. Bg6+ Kd5 47. Bf7+ Ke4 48. Bg6+ Kf3 49. Bh5+ Ke4 1/2-1/2

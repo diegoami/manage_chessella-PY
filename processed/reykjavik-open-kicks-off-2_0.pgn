@@ -1,0 +1,19 @@
+[Event "Reykjavik Open"]
+[Site "?"]
+[Date "2016.03.08"]
+[Round "?"]
+[White "Valdimarsson, Einar"]
+[Black "Grandelius, Nils"]
+[Result "1-0"]
+[ECO "D00"]
+[SetUp "1"]
+[FEN "8/8/1R5p/3N1kp1/2P1p3/4K3/6PP/1b4r1 b - - 0 43"]
+[PlyCount "8"]
+43... Ba2 {After winning a pawn in the opening, Grandelius started misplaying
+his position. By this point it is White that is playing for a win, at least
+objectively, but of course the 2600 tries to force a win with black.} 44. Ne7+
+Kg4 $4 {Unfortunately, this is much worse than a draw!} (44... Ke5 45. Ng6+ Kf5
+46. Ne7+ {is automatically a draw, so Grandelius goes forward}) 45. Kf2 Rc1 46.
+h3+ {unfortunately for the Swedish player, his king finds himself in a mating
+net now.} Kf4 (46... Kh5 47. g4+ Kh4 48. Rxh6#) 47. Ng6+ {and he had to resign
+due to Kf5 g4#} 1-0

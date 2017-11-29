@@ -1,0 +1,30 @@
+[Event "Elite Mind Games"]
+[Site "HuaiAn, China"]
+[Date "2016.02.26"]
+[Round "1.3"]
+[White "Movsesian Sergei (ARM)"]
+[Black "Tomashevsky Evgeny (RUS)"]
+[Result "1-0"]
+[ECO "C50"]
+[SetUp "1"]
+[FEN "1r4k1/b1p2pp1/2n1r2p/p3p3/P3P1P1/2P3q1/2Q2PP1/R1BBR1K1 b - - 0 23"]
+[PlyCount "48"]
+[EventDate "2016.??.??"]
+[WhiteClock "0:00:54"]
+[BlackClock "0:00:34"]
+{Before we reach the diagram position, let us see how the players landed on it.
+We begin with a deflection...} 23... Bxf2+ $1 24. Qxf2 Qxc3 25. Ra2 Qxc1 26.
+Bb3 Qxe1+ 27. Qxe1 Rxb3 $17 {Okay, Black is clearly better, but White shows
+that things aren't so simple practically, especially in rapids!} 28. Kh2 Rb4
+29. Rc2 Rxa4 30. Qc1 Nd4 31. Rxc7 Ra2 32. Qb1 Rf2 33. Qb8+ Kh7 34. Rc8 Ref6 35.
+Rh8+ (35. Qxe5 $4 Nf3+ $19) 35... Kg6 36. Kg3 Ne2+ 37. Kh4 {[#] White's threat
+is to just mate with Rxh6.} Re6 $4 (37... Rc6 $3 {is the only move that deals
+with both the Rxh6 and Qxe5 threats and wins for Black. As an amateur student,
+I find this move very instructive.} 38. Qxe5 Rc1 39. Qh5+ Kf6 40. Rxh6+ {
+always in the air.} (40. g5+ Ke7) 40... gxh6 41. Qxh6+ Ke7 $19) (37... Nf4 { is
+equal after} 38. Rxh6+ Kxh6 39. g5+ Kh7 40. gxf6 Rxg2 $11) 38. Qg8 {
+threatening Rxh6 again.} Kf6 39. Qd8+ Kg6 40. g5 $1 {Again, the only move that
+wins.} Rf4+ (40... hxg5+ 41. Qxg5#) (40... Rxg2 41. Rxh6+ {Again!} gxh6 42.
+Qg8# {is the basic idea behind g5.}) 41. g4 Re8 42. Qxe8 hxg5+ 43. Kh3 Rf2 44.
+Qc6+ Rf6 45. Qc8 Rf2 46. Qa6+ f6 47. Qc8 {... threatening Qe8+ and also, still
+threatening Rh6+ (yet again!!)} 1-0

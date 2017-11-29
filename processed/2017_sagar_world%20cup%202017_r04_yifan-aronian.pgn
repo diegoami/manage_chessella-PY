@@ -1,0 +1,41 @@
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi GEO"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Hou, Yifan"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[WhiteElo "2670"]
+[BlackElo "2802"]
+[Annotator "Sagar Shah"]
+[PlyCount "39"]
+[EventDate "2017.09.03"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:04]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:06]} 3. Bc4 {[%emt 0:00:00]} Bc5 {[%emt 0:00:07]} 4. O-O {[%emt 0:
+00:00]} Nf6 {[%emt 0:00:06]} 5. d3 {[%emt 0:00:00]} O-O {[%emt 0:00:07]} 6. Re1
+{[%emt 0:00:19]} d6 {[%emt 0:00:52]} 7. c3 {[%emt 0:00:19]} Ne7 {[%emt 0:00:49]
+} 8. Nbd2 {[%emt 0:03:48]} Bb6 {[%emt 0:01:41]} 9. Bb3 {[%emt 0:00:24]} c6 {
+[%emt 0:01:25]} 10. Nf1 {[%emt 0:05:42]} Ng6 {[%emt 0:00:51]} 11. Ng3 {[%emt 0:
+01:25]} h6 {[%emt 0:01:28]} 12. h3 {[%emt 0:01:10]} d5 {[%emt 0:00:08]} 13.
+exd5 {[%emt 0:01:06]} Nxd5 {[%emt 0:00:05]} 14. d4 {[%emt 0:00:06]} exd4 {
+[%emt 0:00:29]} 15. Nxd4 {[%emt 0:00:06]} Be6 $5 {[%emt 0:04:22] A very weird
+move. The bishop can be taken, but f2 becomes weak as the rook file is opened
+up. This has been seen before in two games.} 16. Nxe6 {[%emt 0:17:44] Hou
+Yifan is brave and picks up the challenge.} fxe6 {[%emt 0:01:28]} 17. Rxe6 {
+[%emt 0:00:03]} Rxf2 {[%emt 0:00:47] This is obviously very risky and hence
+can be assumed that Hou Yifan had prepared it.} 18. Kh1 {[%emt 0:01:33]} Nh4 {
+[%emt 0:00:22]} 19. Qg4 {[%emt 0:17:19]} Qf8 {[%emt 0:04:26]} (19... h5 {
+is the other serious option in the position.} 20. Qxh5 Qc7 21. Re5 g6 22. Qg5
+Qf7 23. Be3 {It's a crazy line, but essentially White is better objectively.})
+20. Qxh4 $2 {[%emt 0:22:51] I would objectively call this a bad move, but
+perhaps practically not bad. White is better in this position if she takes on
+h6. But it also requires a lot of knowledge and something that Hou Yifan was
+perhaps not ready for.} (20. Bxh6 $1 Rxg2 21. Bxd5 cxd5 {The idea now is to
+give a check on h2 and get the queen into f2. Hence, it is important to block
+the f-file.} 22. Bf4 Qc5 (22... Qf7 23. Rae1 Bf2 24. Qxh4 Bxe1 25. Rxe1 Rxb2
+26. Qg5 {This should be better for White.}) 23. Re3 Qf8 24. Ree1 $16) (20. Qxh4
+Rf1+ 21. Kh2 Bg1+ 22. Kh1 Bd4+ 23. Kh2 Bg1+ $11 {That's how the game would
+have ended.}) 1/2-1/2
+

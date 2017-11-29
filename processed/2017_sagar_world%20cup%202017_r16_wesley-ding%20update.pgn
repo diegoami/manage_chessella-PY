@@ -1,0 +1,74 @@
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi GEO"]
+[Date "2017.09.19"]
+[Round "6.1"]
+[White "So, Wesley"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[WhiteElo "2810"]
+[BlackElo "2777"]
+[Annotator "Sagar Shah"]
+[SetUp "1"]
+[FEN "2k5/2p3p1/1p1p1p2/rP1NpPP1/p1P1P3/Rn1P3r/1P1K4/6R1 w - - 0 41"]
+[PlyCount "31"]
+[EventDate "2017.09.03"]
+
+{This was surely the best move in the position. Whether it was winning or not
+is unclear, but it surely gives White the best practical chances.} 41. Rxb3 $1
+(41. Kc3 $2 {[%emt 0:03:10] Wesley let's his opponent off the hook.} Nd4 $1 {
+[%emt 0:03:13]} 42. gxf6 {[%emt 0:00:47]} Rh2 $1 {[%emt 0:01:54] Wesley sees
+that things have gone wrong and immediately forces the draw.} (42... gxf6 43.
+Rg2 $1 $16 {And white is pushing here.} (43. Rg7 $2 Rh2 $11)) (42... Ne2+ $2
+43. Kd2 Nxg1 44. fxg7 Rg3 45. f6 $18) 43. Nxb6+ {[%emt 0:07:05]} (43. fxg7 $4 {
+would have ended the game prematurely.} Rc2+ 44. Kb4 c5+ 45. bxc6 Nxc6#) 43...
+cxb6 {[%emt 0:07:41]} 44. fxg7 {[%emt 0:00:15]} Rc2+ {[%emt 0:00:04]} 45. Kb4 {
+[%emt 0:00:01]} Rxb2+ {[%emt 0:00:04]} 46. Kc3 {[%emt 0:00:02]} Rc2+ {[%emt 0:
+00:04]} 47. Kb4 {[%emt 0:00:01]} Rb2+ $11 {[%emt 0:00:03] Ding can be happy
+with this result. He did equalize out of the opening, but after that he was
+clearly worse. And So played really well to only go back with the half point.})
+41... axb3 42. gxf6 gxf6 43. Rg8+ $1 {This is an update! White is winning
+after this move.} (43. Rg7 $5 Rh2+ 44. Kc3 Ra2 45. Rxc7+ Kd8 $1 {I let the
+engine run for more than an hour while I went for dinner in this position and
+I can confidently say that Kd8 draws.} (45... Kb8 46. Rc6 $1 Raxb2 47. Rxb6+
+Kc8 48. Rxd6 Rb1 49. Kb4 b2 50. Nb6+ Kb8 (50... Kc7 51. Rd7+ Kxb6 52. c5#) 51.
+Rd8+ Kb7 52. Rd7+ Kb8 53. Kc5 $1 Ra1 54. Kc6 b1=Q 55. Rb7# {A very nice
+variation showing the coordination of White pieces.}) 46. Rc6 Raxb2 47. Rxd6+
+Ke8 {Komodo 11.01 64-bit:} 48. Re6+ (48. Rxb6 Rb1 49. Rb8+ Kf7 50. Rb7+ $11) ({
+Komodo 11.01 64-bit:} 48. Nxf6+ Kf7 49. Rxb6 Rb1 50. Ng4 Rc2+ 51. Kb4 b2 52.
+Nh6+ Ke7 53. Re6+ Kf8 54. Rf6+ Ke8 55. Re6+ Kf8 {[%eval 0,46]}) ({Komodo 11.01
+64-bit:} 48. Rxf6 Rb1 49. Kb4 b2 50. Re6+ Kf7 51. Rf6+ Kg8 52. Rg6+ Kf7 53.
+Rf6+ {[%eval 0,46]}) 48... Kf7 49. Rxf6+ Kg7 (49... Ke8 50. Nxb6 Rb1 51. Na4 b2
+52. Kb3 Rd1 53. Nxb2 Rb1 54. Kb4 (54. Re6+ Kf7 55. Rxe5 Rhxb2+ 56. Kc3 Rb3+ 57.
+Kd4 Rd1 $11) 54... Rbxb2+ 55. Kc5 Rhd2 56. Rd6 Rb3 57. Kc6 Rbxd3 58. Rxd3 Rxd3
+59. b6 Rd4 60. b7 Rxc4+ 61. Kb5 $18 {And having the king on the last rank
+spells Black's doom.}) 50. Rg6+ Kf7 51. Nxb6 Rb1 52. Na4 b2 53. Kb3 Ra1 54.
+Nxb2 Rb1 55. Kb4 Rbxb2+ 56. Kc5 Rb3 57. Rd6 Rd2 58. Kc6 Rdxd3 59. Rxd3 Rxd3 60.
+b6 Rd4 61. Kc5 Rd7 62. Kc6 Rd4 $11 {[%eval 0,46]}) (43. Kc3 $5 $16 {It is
+important to start with this move to not let Black rooks coordinate on the
+seventh rank.} Rh7 {This is what Wesley said after the game that he saw.} (
+43... Rh2 44. Kxb3 $16) (43... Kb7 44. Rg7 $18) 44. Nxf6 Rf7 45. Nd5 Kb7 46.
+Kxb3 Ra8 {The discussion can start at this point whether this is really better
+for White. But I think it can also end at this point, saying that Wesley
+should have gone for this variation irrespective of whether he is winning or
+not because he has the best chances to press here. According to the official
+commentator Mirochnichenko, White can put his rook on g6 and then try for
+something like b4-c5. Although I am not really sure as both rooks can
+penetrate after b4 and start perpetual checks. What do you think?}) 43... Kd7 (
+43... Kb7 44. Rg7 Rh2+ 45. Kc3 Ra2 46. Rxc7+ Kb8 {The most important part
+being that the king is stuck on the wrong side.} 47. Rc6 Raxb2 48. Rxb6+ Kc8
+49. Rxd6 $1 {And this is already winning as seen in variations starting with
+43.Rg7.} Rb1 50. Kb4 b2 51. Nb6+ Kb8 52. Rd8+ Kb7 53. Rd7+ Kb8 54. Kc5 Rc1 55.
+Kc6 b1=Q 56. Rb7#) 44. Nb4 $1 {Nc6 is a mating threat hence the king has to
+get out of there. This is a very powerful move.} Ke7 45. Rc8 Rh2+ (45... Kd7
+46. Rb8 $1 $18 {Nc6 will either weave a mating net or attack the a5 rook.}) (
+45... Ra2 46. Nxa2 Kd7 47. Rxc7+ $18) 46. Kc3 Ra2 (46... Ra1 47. Nd5+ Kf7 48.
+Rxc7+ Kf8 49. Nxb6 Rc1+ 50. Kxb3 Rb1 51. Na4 $18 {White is completely winning.}
+) (46... Kf7 47. Rxc7+ Ke8 48. Rc6 $18) 47. Nxa2 Kd7 48. Rxc7+ $1 {A very
+strong idea pointed out by ChessBase newspage reader Mark S.} (48. Ra8 bxa2 49.
+Rxa2 {This might also be winning albeit with some effort.}) 48... Kxc7 49. Nb4
+$1 {And this knight vs rook endgame is completely winning. For eg.} Rh6 50.
+Nd5+ Kb7 51. Kxb3 Ka7 52. Kc3 Kb7 53. b4 Ka7 (53... Rh2 54. Nxf6 $18) 54. c5 $1
+bxc5 55. bxc5 dxc5 56. Kc4 $18 {White's co-ordinated forces are no match for
+Black.} 1/2-1/2
+

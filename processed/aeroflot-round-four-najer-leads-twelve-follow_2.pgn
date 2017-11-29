@@ -1,0 +1,36 @@
+[Event "Aeroflot Open A 2016"]
+[Site "Moscow RUS"]
+[Date "2016.03.04"]
+[Round "4.14"]
+[White "Bluebaum, Matthias"]
+[Black "Rakhmanov, Aleksandr"]
+[Result "0-1"]
+[ECO "A53"]
+[WhiteElo "2605"]
+[BlackElo "2650"]
+[Annotator "Sagar Shah"]
+[PlyCount "82"]
+[EventDate "2016.03.01"]
+1. d4 Nf6 2. c4
+d6 3. Nf3 g6 4. Nc3 Bf5 5. Nh4 Bd7 6. e4 e5 7. Nf3 exd4 8. Nxd4 Bg7 9.
+Be2 O-O 10. Be3 Nc6 11. O-O Re8 12. f3 Nh5 13. Nc2 Be5 14. Nd5 Ne7 15.
+Bg5 f6 16. Be3 Nxd5 17. Qxd5+ Be6 18. Qd2 f5 19. f4 Bxb2 20. Rab1 Bg7
+21. Bxh5 gxh5 22. Bd4 b6 23. Rb3 h4 24. Ne3 Bxd4 25. Qxd4 c5 26. Qd2 Qf6
+27. Rd3 fxe4 28. Rxd6 Rad8 29. f5 Qg5 (29... Rxd6 30. Qxd6 Qd4 $5 $11)
+30. Re1 Bf7 31. Rd7 h6 32. Qd6 Rxd7 33. Qxd7 Rd8 34. Qxa7 Qf4 {The game
+is pretty well balanced until this point. Bluebaum could have played Re2,
+stopping Rd2, and the position would have been round about equal. But
+he saw nothing wrong with the most natural move in the position - the
+knight jump to d5, and went for it. Do you see why it is such a huge mistake?}
+35. Nd5 $2 (35. Qxb6 Rd2 $19) 35... Rxd5 $1 {As you near the time control
+(40 moves) such oversights are bound to happen.} (35... Bxd5 36. Qxb6
+$1 $14) 36. cxd5 e3 $1 {Surprisingly there is just no way to deal with
+Qf2+.} 37. Kh1 (37. Rf1 Qd4 $1 {threatening e2.} 38. Kh1 (38. Qb8+ Kh7
+$1 39. Qf4 e2+ 40. Qxd4 exf1=Q+ 41. Kxf1 cxd4 $19) 38... e2 39. Re1 Qd1
+$19 {The a5 square is controlled by the pawn on b6 and the g3 square by
+the pawn on h4! There is no way that the white queen can help here!})
+37... Bxd5 $1 {Although it doesn't make a huge difference it is nice that
+the a8 and b8 both the checking squares are controlled by the black pieces.}
+38. Rg1 h3 $1 {All of Black's pieces work in perfect unison.} 39. Qxb6
+hxg2+ 40. Rxg2+ Bxg2+ 41. Kxg2 Qg4+ {With a quick mate. Very sharp tactical
+play by Aleksandr Rakhmanov.} 0-1

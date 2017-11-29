@@ -1,0 +1,32 @@
+[Event "21st Bavarian Championship Open"]
+[Site "?"]
+[Date "2017.11.05"]
+[Round "9.5"]
+[White "Gopal G.N."]
+[Black "Esipenko, Andrey"]
+[Result "1/2-1/2"]
+[ECO "C93"]
+[WhiteElo "2589"]
+[BlackElo "2551"]
+[Annotator "Marco Baldauf"]
+[SetUp "1"]
+[FEN "5Q2/7k/4p1p1/4P1K1/1P2qPP1/8/2p5/8 w - - 0 72"]
+[PlyCount "17"]
+[EventDate "2017.??.??"]
+[Source "GM Rep 1 - 1.d4"]
+[SourceDate "2011.01.01"]
+
+{[#] Up to this point Gopal had been playing very well and now he is close to
+winning.} 72. Qh6+ $2 {This gives the win away and allows Black to save
+himself with a nice trick.} (72. Qc8 $1 {is the winning move. White wants to
+advance his b-pawn and if Black takes the b-pawn with} Qxb4 {White gives
+checks to bring his queen closer to Black's queen and then captures the g-pawn
+with check after which he will also pick up the c-pawn.} 73. Qd7+ Kh8 74. Qe8+
+Kg7 75. Qxg6+ Kf8 76. Qxc2 Qe7+ 77. Kh5 $18) 72... Kg8 73. Kf6 Qb7 $1 74. Qxg6+
+Kh8 {[#]} 75. Qe8+ (75. Qxc2 {fails because of} Qg7+ 76. Kxe6 Qf7+ $1 77. Kd6 (
+77. Kxf7 $11) 77... Qg6+ $1 $11 {and if White takes the queen it's stalemate!})
+75... Kh7 76. Qh5+ Kg8 77. Qg6+ Kh8 78. g5 $1 {[#]} {Gopal also tries a last
+trick.} Qd7 $1 {Black defends against the mate on e8 and forces White to take
+the pawn on c2.} (78... c1=Q $4 79. Qe8+ Kh7 80. g6+ Kh6 81. Qh8+ Qh7 82. Qxh7#
+) 79. Qxc2 Qf7+ $1 80. Kxf7 $11 {[#]} 1/2-1/2
+

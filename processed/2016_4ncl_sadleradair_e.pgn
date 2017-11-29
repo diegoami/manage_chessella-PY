@@ -1,0 +1,43 @@
+[Event "4NCL Division 1b"]
+[Site "Birmingham, ENG ENG"]
+[Date "2016.02.13"]
+[Round "5.151"]
+[White "Sadler, Matthew D"]
+[Black "Adair, James R"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2662"]
+[BlackElo "2469"]
+[Annotator "AS"]
+[PlyCount "51"]
+[EventDate "2016.02.13"]
+[WhiteTeam "Guildford 1"]
+[BlackTeam "White Rose 1"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nf3 Bc5 5. c3 O-O 6. Bb3 d5 7. Qe2 a5 (7... h6
+) (7... dxe4 8. dxe4) 8. a4 Be6 9. Nbd2 (9. Bc2 h6 10. O-O d4 11. h3 Re8 12.
+Nbd2 dxc3 13. bxc3 Nh5 14. Nb3 Ng3 15. Qd1 Bxb3 16. Bxb3 Nxf1 17. Qxf1 Qf6 18.
+Bb2 Rad8 19. Rd1 Bb6 20. Bd5 Ne7 21. Bc4 Ng6 22. Nh2 h5 23. Nf3 Nf4 24. Kh2 g5
+25. d4 Nxh3 26. Nxe5 Rxe5 27. dxe5 Qxe5+ 28. g3 Rxd1 29. Qxd1 g4 30. Qd8+ Kg7
+31. Ba3 Bc5 32. f4 Bg1+ {0-1 (32) Hou,Y (2588)-Naiditsch,A (2689)
+Khanty-Mansiysk 2009}) 9... h6 10. exd5 (10. Bc2 Re8 11. O-O Nh5 12. Nb3 Bb6
+13. Ng5 hxg5 14. Qxh5 dxe4 15. dxe4 g4 16. Bg5 f6 17. Rad1 Qe7 18. Bc1 Qf7 19.
+Qxf7+ Kxf7 20. Rfe1 Rad8 21. Rxd8 Rxd8 22. Rd1 Rh8 23. Nd2 g6 24. Nf1 f5 25.
+exf5 gxf5 26. Be3 Bxe3 27. Nxe3 Ne7 28. Bd3 Rd8 29. Be2 Rxd1+ 30. Bxd1 Kf6 31.
+g3 Ng6 32. f3 gxf3 33. Bxf3 e4 34. Bd1 Ne5 35. b4 axb4 36. cxb4 Nd3 37. b5 b6
+38. Kf1 Ke5 39. Ke2 f4 40. gxf4+ Nxf4+ 41. Kd2 Ng6 42. Ng2 Bh3 43. Ne1 Kf4 44.
+Kc3 Nh4 45. Kd4 Nf5+ 46. Kc3 Ne3 47. Be2 Ke5 48. Nc2 Nxc2 49. Kxc2 Kd4 50. Kd2
+e3+ 51. Ke1 Ke4 {1/2-1/2 (51) Stopa,J (2471)-Gareev,T (2590) Philadelphia 2009}
+) 10... Bxd5 11. Bc2 Nd7 {[#]} 12. g4 $6 {Risky - and the engines do not like
+this move at all.} Nf6 ({The machines propose} 12... f5) ({or} 12... Qe7) 13.
+Rg1 {[#]} Bxf3 $2 {A strange decision. This exchange wakes up the bishop on c1
+and allows White to activate the knight on d2.} ({The engine prefers} 13... Qd7
+{vor:} 14. g5 Ng4 15. Rg2 f5 16. gxh6 Rae8 {with the idea} 17. -- e4) 14. Nxf3
+{Now White is better and can develop real threats on the kingside.} Re8 15. g5
+hxg5 ({An interesting tactical try was} 15... Nd4 $5 16. cxd4 (16. Qd1 Nxc2+
+17. Qxc2 e4 18. dxe4 Nxe4 $19) 16... exd4 17. Ne5 (17. gxf6 Rxe2+ 18. Kxe2 Qxf6
+$11) 17... Qd5 18. f4 hxg5 19. Rxg5 {but after, e.g.} Nh7 20. Rg2 f6 21. Bb1 {
+threatening Ba2 looks pretty ugly for Black.}) 16. Bxg5 Qd6 17. O-O-O Qe6 18.
+Nd2 Bf8 19. Qf3 Nh7 20. Bb3 Qd7 21. Ne4 (21. Bh6 $18) 21... Nd8 22. d4 Ne6 23.
+dxe5 Qc6 24. Bf6 Kh8 25. Qg4 Nxf6 26. Nxf6 (26. Nxf6 gxf6 27. Qg8#) 1-0
+

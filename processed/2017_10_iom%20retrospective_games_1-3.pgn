@@ -1,0 +1,131 @@
+[Event "chess.com IoM Masters"]
+[Site "Douglas ENG"]
+[Date "2017.09.23"]
+[Round "1.2"]
+[White "Caruana, Fabiano"]
+[Black "Kramnik, Vladimir"]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "2799"]
+[BlackElo "2803"]
+[Annotator "AA"]
+[SetUp "1"]
+[FEN "7k/5pp1/7p/p2q2P1/2Q1R2P/4P3/KP3P2/3r4 b - - 0 38"]
+[PlyCount "36"]
+[EventDate "2017.09.23"]
+
+{A proper tournament overview cannot neglect this very first game. In a
+'normal' Open, such an encounter can be seen only in the final rounds but the
+chess.com Isle of Man International is not just one of the many. Besides being
+the strongest open tournament ever where tough games is the everyday feature,
+it also introduced the new random pairings of which the reader is surely aware.
+Therefore... The opening and middlegame phases we can leave that to the
+technicians. What I find very interesting is how the endgame went and how
+precisely could have Kramnik clinched a draw.} 38... hxg5 {The game
+continuation proved that} (38... Kh7 {was more precise} 39. Qxd5 Rxd5 {[%csl
+Rh4] keeping the h-pawns on the board. The h4 white pawn becomes a clear
+target and will give Black later on the needed counterplay.}) 39. hxg5 Kh7 40.
+Qxd5 Rxd5 41. f4 Kg6 {Everyone knows that bringing your king to the center,
+using it as a very strong piece, is one of the ABC of endgame theory. However,
+in this particular case} (41... Rd3 $1 {would have most probably secured Black
+half a point. The rook is now active, keeps an eye on the e3-weakness and
+prevents the white king from stepping easily into play.} 42. Kb1 ({If} 42. Re5
+{then} Kg6 43. Kb1 a4 44. Kc2 Rb3 45. Re4 Kf5 {where I don't see what White
+could try here.}) 42... Kg6 43. Kc2 Rd7 44. Rd4 {compared to the game, Black
+now has} Re7 45. Kd3 Rb7 {with sufficient counterplay for a draw.}) 42. Rd4 $1
+{In the line given above, not only had White lost a lot of tempi to bring the
+king to a less favourable position, but also the black rook could attack the
+e3 pawn. Not anymore.} Rb5 43. Ka3 Kf5 44. b3 f6 $2 {The commentators believe
+a draw could still have been achieved later on but I have serious doubts. I
+believe this was the final error. An understandable move, as theory suggests
+to exchange your weaknesses, thus minimizing your opponent's advantage. But
+here it backfired.} ({A tough and effective defense can be achieved with} 44...
+Rb7 45. Ka4 ({If} 45. Ra4 Rb5) 45... Kg4 {and it is actually those pawns that
+are still left on the board which bring Black the hopes back.}) 45. Ka4 Rb7 46.
+Rc4 Ra7 47. Rc5+ Ke4 48. Rxa5 Re7 ({Other sources give} 48... Rf7 {as the
+drawing alternative but after} 49. gxf6 ({Not} 49. g6 {as analyzed before,
+where Black does indeed hold.} Rb7 50. f5 Kxe3 51. Rc5 Kd4 52. b4 Rb8 53. Kb3
+Rb7 54. Rc1 Ke5 55. Rf1 Rb8 $11) 49... gxf6 50. f5 Kxe3 51. b4 Kd4 52. Kb5 Rb7+
+53. Kc6 Rxb4 54. Kd6 {White is winning. It is already too late.}) 49. gxf6 gxf6
+50. Ra6 Kf5 51. Rd6 Ra7+ 52. Kb5 Rb7+ 53. Kc4 Rc7+ 54. Kd4 Rb7 55. e4+ Kxf4 56.
+Rxf6+ {White won after a couple of moves. I should perhaps re-emphasize how
+important the first round and its consequences are for someone's tournament
+route. Rhythm and entering the 'zone' should not be underestimated, not even
+by Gods like Kramnik and Caruana. After losing in the first round, Kramnik had
+to win at all costs and against lower rated players, had to take risks and
+load the dice at times...he did come back in the tournament, but at a price.}
+1-0
+
+[Event "chess.com IoM Masters"]
+[Site "Douglas ENG"]
+[Date "2017.09.30"]
+[Round "8.1"]
+[White "Caruana, Fabiano"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "C78"]
+[WhiteElo "2799"]
+[BlackElo "2827"]
+[Annotator "AA"]
+[PlyCount "70"]
+[EventDate "2017.09.23"]
+
+{The clash of titans - with no shade of doubt, R8 was the decisive one for the
+tournament standings.} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6.
+Bb3 Bc5 7. c3 d6 8. a4 Rb8 9. d4 Bb6 10. a5 Ba7 11. h3 O-O 12. Be3 Ra8 13. Re1
+h6 14. Nbd2 Re8 15. g4 $146 {Without digging too much into technicalities
+since I am sure you have seen a previous analysis of this game, this was
+indeed the moment which frightened the World Champion. Facing a novelty of
+such an aggressive degree is not only scary but also difficult to refute over
+the board. Soon Black's position started to deteriorate.} Qe7 16. Nf1 Nd8 17.
+Ng3 c5 18. Qd2 c4 19. Bc2 Nh7 20. b4 ({Perhaps even stronger could have been} 
+20. Kh1 {continuing the assault on the black king in the fastest possible
+manner.} Qf6 21. Nf5 $40) 20... cxb3 21. Bxb3 Be6 22. Bc2 {Blindness,
+tiredness, pressure...I don't know what exactly happened here. Sometimes there
+is no explanation, it is sports and such episodes happen all the time. For top
+players though, these moments are by far more rare but still present
+nonetheless.} ({Instead,} 22. Nf5 {would have allowed White to keep enjoying
+the large advantage and attacking prospects.} Qf8 ({in case of} 22... Bxf5 23.
+gxf5 exd4 24. cxd4 {where} Qxe4 {doesn't work} 25. Bxh6 $18) 23. Bd5 Rc8 24.
+dxe5 Bxe3 25. Rxe3 dxe5 26. Nxe5 $16) 22... Rc8 23. Bd3 Nb7 24. Rec1 (24. Nf5 {
+was possible again, with a double edged position as my computer suggests. But
+I would always prefer White since the plan is quite a straightforward one:
+attack.}) 24... Qd8 25. Qb2 Nxa5 {the first soldier falls and, unfortunately,
+it wasn't possible to back up this loss at a later stage.} 26. Nd2 d5 27. Re1
+Bb8 28. exd5 Bxd5 29. Bf5 Rc6 30. Qa3 Nb7 31. Rad1 exd4 32. Bxd4 Ng5 33. c4
+Rxe1+ 34. Rxe1 Be6 35. Qe3 Bf4 0-1
+
+[Event "chess.com IoM Masters"]
+[Site "Douglas ENG"]
+[Date "2017.09.24"]
+[Round "2.1"]
+[White "Perelshteyn, Eugene"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "2524"]
+[BlackElo "2827"]
+[Annotator "AA"]
+[PlyCount "98"]
+[EventDate "2017.09.23"]
+
+{Carlsen's veni-vidi-vici was not as smooth or without any spooky moments as
+some would believe.} 1. d4 g6 2. e4 d6 3. Nc3 Bg7 4. Be3 a6 5. Nf3 b5 6. Bd3
+Nd7 7. e5 Bb7 8. e6 fxe6 9. Ng5 Nf8 10. O-O Qd7 11. Re1 Nf6 12. a4 b4 13. Na2
+Qxa4 {A pawn falls but White is rewarded with something bigger in return: his
+black majesty will soon be in trouble, as a result of Carlsen's provocative
+opening play.} 14. Qe2 h6 15. Nf3 Kf7 16. Bd2 b3 17. Nc3 {White has more than
+enough compensation for the pawn. Actually, the rather big advantage is pretty
+visible for a naked eye too, but more precise would have been} (17. Nb4 $1 Qd7
+18. c3 {and Black is in trouble. For example,} a5 19. Bb5 c6 20. Nd3 {[%csl
+Rd7,Re6,Rf7][%cal Gb5c4,Gc4b3,Gd3e5,Gf3e5]}) 17... Qd7 18. cxb3 Rb8 19. Ra3 Nd5
+20. Ne4 Kg8 21. h4 Qe8 22. Bxa6 Bxa6 23. Qxa6 Bf6 24. Qc4 Nd7 25. Nc3 N7b6 26.
+Qe2 Qf7 27. Ne4 Rf8 28. Nxf6+ {A very unfortunate strategical decision, which
+solved Black's structural headaches on the spot. Nearly anything else is
+preferable to that.} exf6 29. Qxe6 Qxe6 30. Rxe6 Kf7 31. Re1 Rb8 {White is a
+pawn up but it is Black who is leading the orchestra now.} 32. Rc1 Nc8 33. Ne1
+Nce7 34. Nd3 g5 35. hxg5 hxg5 36. b4 Rh4 37. Bc3 {downgraded to a pawn's state.
+Black soon won the game.} Rbh8 38. g3 Rh1+ 39. Kg2 R8h2+ 40. Kf3 g4+ 41. Kxg4
+Rxc1 42. Nxc1 Rxf2 43. Be1 f5+ 44. Kh3 Rxb2 45. Nd3 Rc2 46. b5 Nf6 47. Rb3 Re2
+48. b6 cxb6 49. Rxb6 Ne4 0-1
+

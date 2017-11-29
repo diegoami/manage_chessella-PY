@@ -1,0 +1,63 @@
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.04"]
+[Round "1.2"]
+[White "Wei, Yi"]
+[Black "Sambuev, Bator"]
+[Result "1-0"]
+[ECO "C19"]
+[WhiteElo "2748"]
+[BlackElo "2529"]
+[Annotator "Sagar Shah"]
+[PlyCount "91"]
+[EventDate "2017.??.??"]
+[EventType "k.o."]
+[EventCountry "GEO"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} e6 {[%emt 0:00:06]} 2. d4 {[%emt 0:00:00]} d5 {[%emt 0:
+00:05]} 3. Nc3 {[%emt 0:00:01]} Bb4 {[%emt 0:00:23]} 4. e5 {[%emt 0:00:14]} c5
+{[%emt 0:00:08]} 5. a3 {[%emt 0:00:21]} Bxc3+ {[%emt 0:00:15]} 6. bxc3 {
+[%emt 0:00:08]} Ne7 {[%emt 0:00:03]} 7. a4 {[%emt 0:00:55]} Qc7 {[%emt 0:03:32]
+} 8. Nf3 {[%emt 0:01:46]} b6 {[%emt 0:05:04]} 9. Bb5+ {[%emt 0:00:15]} Bd7 {
+[%emt 0:01:08]} 10. Bd3 {[%emt 0:00:25]} Nbc6 {[%emt 0:00:54]} 11. O-O {
+[%emt 0:00:54]} h6 {[%emt 0:04:45]} 12. Re1 {[%emt 0:09:13]} O-O {[%emt 0:01:
+26]} 13. h4 {[%emt 0:11:41]} c4 {[%emt 0:02:12]} 14. Bf1 {[%emt 0:00:35]} f6 {
+[%emt 0:00:45]} 15. h5 {[%emt 0:09:28]} fxe5 {[%emt 0:07:43]} 16. dxe5 {
+[%emt 0:13:11]} Rf7 {[%emt 0:02:05]} 17. Ba3 {[%emt 0:01:25]} Raf8 {[%emt 0:00:
+46]} 18. Bd6 {[%emt 0:00:27]} Qd8 {[%emt 0:00:19] Sambuev's play has been
+natural and he already threatens sacrificing an exchange on f3.} 19. Be2 {
+[%emt 0:02:47]} Rf5 {[%emt 0:07:19] The h5 pawn is hanging now.} 20. Nh4 {
+[%emt 0:04:24]} Rf4 {[%emt 0:00:39]} (20... Rxf2 {Taking the pawn was a good
+idea.} 21. Bf3 R2xf3 $1 {Perhaps Sambuev didn't like the resulting positions.}
+22. Nxf3 Rf4 $11) 21. Bg4 {[%emt 0:00:28]} R8f7 {[%emt 0:05:44]} (21... Rxf2
+22. Nf3 Rf4 $5 $13) 22. f3 $16 {[%emt 0:01:46] White is now for choice.} d4 {
+[%emt 0:04:25]} 23. Ng6 $1 {[%emt 0:04:48]} Nd5 {[%emt 0:02:35]} 24. Nxf4 {
+[%emt 0:00:06]} Rxf4 {[%emt 0:00:43]} 25. cxd4 {[%emt 0:04:22]} Rxd4 {[%emt 0:
+00:43]} 26. Qe2 {[%emt 0:07:56]} Qg5 {[%emt 0:04:26]} 27. Qf2 {[%emt 0:02:16]}
+Rd2 {[%emt 0:11:10]} 28. Re2 {[%emt 0:00:10]} Rd4 {[%emt 0:00:09]} 29. Ree1 {
+[%emt 0:06:24]} Rd2 {[%emt 0:00:09]} 30. Re2 {[%emt 0:00:07]} Rd4 {[%emt 0:00:
+04]} 31. Qe1 {[%emt 0:06:44]} g6 $1 {[%emt 0:03:39] A very nice move by Bator,
+trying to get in the move h6-h5.} 32. Re4 $6 {[%emt 0:04:24]} (32. hxg6 h5 33.
+Bh3 Nf4 $13) (32. Kh1 $1 {A prophylactic move taking away the king from the
+g-file.} gxh5 33. Bh3 Nf4 {No more a double attack because of whites last move}
+34. Re4 Rxe4 35. Qxe4 Qg3 (35... Kh8 36. Rd1 $16) 36. Rg1 $16) 32... gxh5 {
+[%emt 0:03:19]} 33. Bh3 {[%emt 0:00:06]} Rd2 {[%emt 0:05:35]} 34. Kh1 {[%emt 0:
+04:47]} Rxc2 {[%emt 0:01:38]} 35. f4 $6 {[%emt 0:02:23]} (35. Ba3 c3 36. Bc1
+Qg6 37. Qd1 Rf2) (35. Qd1 Rd2 36. Qe1 (36. Qg1 c3) 36... c3 $17) 35... Qg6 {
+[%emt 0:03:55]} (35... Nxf4 $1 36. Qe3 Nxh3 37. Qxh3) 36. f5 $1 {[%emt 0:00:30]
+A beautiful idea!} exf5 {[%emt 0:00:13][%cal Rg6e4] The queen's path to the e4
+rook is now blocked.} 37. Qd1 $1 {[%emt 0:00:17][%csl Rc2,Rd5]} fxe4 {[%emt 0:
+06:12]} 38. Qxd5+ {[%emt 0:00:35]} Kg7 {[%emt 0:01:33]} (38... Kh7 39. Rg1 Bxh3
+40. gxh3 {[%cal Gd5g8,Gd5e4]} Qe8 41. Qxe4+) 39. Rg1 {[%emt 0:02:39]} (39. Bf8+
+{Would have been a justice to the move f5} Kxf8 40. Rf1+ Bf5 41. Rxf5+ Qxf5 42.
+Bxf5 $18) 39... Be8 {[%emt 0:03:17]} 40. Rf1 {[%emt 0:00:00]} h4 {[%emt 0:06:
+21]} 41. Bf8+ {[%emt 0:03:35]} Kh8 {[%emt 0:00:09]} 42. Ba3 {[%emt 0:00:02]}
+Kg7 {[%emt 0:01:55]} 43. Rf6 {[%emt 0:00:14]} e3 {[%emt 0:10:04]} 44. Rxg6+ {
+[%emt 0:00:19]} Bxg6 {[%emt 0:00:08]} 45. Qd7+ {[%emt 0:00:26]} Kh8 {[%emt 0:
+00:10]} 46. Bf8 {[%emt 0:00:10] Wei Yi remains alive in the World Cup 2017
+with this win.} 1-0
+

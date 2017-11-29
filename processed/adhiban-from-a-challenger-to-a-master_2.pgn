@@ -1,0 +1,38 @@
+[Event "Tata Steel Challengers"]
+[Site "?"]
+[Date "2016.01.18"]
+[Round "3"]
+[White "Adhiban, B."]
+[Black "Bok, Benjamin"]
+[Result "1/2-1/2"]
+[ECO "A32"]
+[WhiteElo "2653"]
+[BlackElo "2607"]
+[Annotator "Adhiban"]
+[SetUp "1"]
+[FEN "3qb3/5kp1/7p/1p2Q3/p4P2/P3K1P1/1P2B3/8 w - - 0 48"]
+[PlyCount "46"]
+{[%tqu "How to increase White's advantage?","","",Bh5+,"I will soon explain why
+this needed.",10]} 48. Bh5+ $1 {It is important to expose Black's king further
+and also in some lines the pawn on g6 is advantageous for White.} g6 49. Bf3
+Qb6+ (49... Bc6 50. Bxc6 Qb6+ 51. Ke4 Qxc6+ 52. Qd5+ Qe6+ 53. Kd4 $1 Qxd5+
+({Black's best try lies in} 53... h5 54. Qxb5 Qe1 $1 $16) 54. Kxd5 Kf6 55. Kc5
+Kf5 56. Kxb5 Kg4 57. Kxa4 Kxg3 58. b4 Kxf4 (58... h5 59. f5 $1 { This was why
+Bh5 was needed. With a pawn on g7 it would have been a draw, but now it is
+winning. This is the answer also to the question that I posed at the start.})
+59. b5 Ke5 60. Ka5 $18) 50. Kd3 Bc6 51. Bg4 Qd8+ 52. Kc3 Bd5 53. Be2 $6 {I
+decided to prevent Bc4 and to shift my focus to the b5-pawn, but I overlooked a
+strong idea for myself.} (53. f5 $1 gxf5 54. Qxf5+ Kg7 55. Qd7+ $1 ) 53... Qc8+
+54. Kd4 $6 {In the last moment I hesitated and changed direction.} (54. Kb4 $1
+{was the original intention and the best way.} Bc4 55. Bxc4+ Qxc4+ 56. Ka5
+{Compared to the game white king has a nice safe spot on a5 where it can't be
+troubled by the black queen.} Qd3 57. Qc3 $16 {and Black is clearly
+struggling.}) 54... Bc4 55. Bf3 {[%cal Gf3d5] I thought this more clear, since
+I am trying to reach a winning endgame mentioned in the 47...Bc6 variation, but
+soon I found that} Qh3 $1 {was very strong and now there wasn't any way to get
+an advantage.} 56. Qc7+ Kf6 57. Qc6+ Kf7 58. g4 Qh2 $1 {The last good move
+which Black had to find.} 59. Bd5+ Bxd5 60. Qxd5+ Kf8 {White can't make any
+progress.} 61. Qd8+ Kf7 62. Qd7+ Kf6 63. Qd6+ Kf7 64. Qc7+ Kg8 (64... Kf8 65.
+Ke5 {gives some hope although} Qxb2+ 66. Ke6 Kg8 67. Qf7+ Kh8 68. Qxg6 { should
+also be a draw.}) 65. Qb8+ Kf7 66. Qb7+ Kf6 67. Qb6+ Kf7 68. Qc7+ Kg8 69. Qd8+
+Kf7 70. Qd7+ Kf6 1/2-1/2

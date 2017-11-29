@@ -1,0 +1,56 @@
+[Event "Aeroflot Open A 2016"]
+[Site "Moscow RUS"]
+[Date "2016.03.04"]
+[Round "4.5"]
+[White "Gelfand, Boris"]
+[Black "Lu, Shanglei"]
+[Result "1-0"]
+[ECO "E04"]
+[WhiteElo "2735"]
+[BlackElo "2620"]
+[Annotator "Sagar Shah"]
+[PlyCount "91"]
+[EventDate "2016.03.01"]
+{After two draws at the
+start Gelfand won his third round game against Demchenko. While that was
+a tactical win, his fourth round victory against Lu Shanglei was more
+positional in nature.} 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4 5. Bg2
+c5 6. O-O Nc6 7. Qa4 Bd7 8. Qxc4 b5 9. Qc3 $5 {This move has been played
+by Caruana at the Dortmund Super GM tournament in 2015. The idea seems
+to be to stop Black from going c4.} (9. Qd3 {is the main move but then
+Black has the option of directly playing c4.}) 9... cxd4 10. Nxd4 Nxd4
+11. Qxd4 Rc8 12. Bf4 Bc5 13. Qd3 Qb6 14. Nd2 O-O 15. Ne4 {Until now the
+players were following the game between Caruana and Naiditisch from Dortmund
+2015. Here the German GM had played Nd5. But Lu Shanglei goes for an inferior
+move.} Bc6 $6 { Voluntarily accepting kingside weakness doesn't seem to
+be a great idea.} 16. Nxf6+ gxf6 17. Bxc6 Qxc6 18. Rfd1 Bb6 19. Rac1 Qb7
+20. Rxc8 Rxc8 21. Bh6 $1 { We now understand why gxf6 was not such a good
+idea. The back rank weakness is permanent and Black cannot so much about
+it.} b4 22. e4 $1 {An important move which fixes the pawn on f6. If this
+pawn cannot move then the pawn on f7 is immobile, and if those guys cannot
+move then the king on g8 is trapped forever! } Kh8 23. Qd7 $5 {A very
+interesting decision by Gelfand to go into the rook+bishop endgame. The
+fact that Black had kingside weaknesses would have motivated many players
+to keep the queens on the board, but Gelfand goes for simple play.} (23.
+Qf3 $5 f5 24. Qh5 Qe7 (24... Qxe4 $2 25. Qxf7 $18) 25. exf5 $16) 23...
+Qxd7 24. Rxd7 {White's advantage is beyond any doubt. Black's rook is
+permanently nailed to the back rank and the king is trapped in the corner.
+White on the other hand can play with all his forces. The only slightly
+difficult task is to find the most appropriate way to break through.}
+Kg8 25. Rb7 Bc5 26. b3 Ra8 27. Rb5 Be7 (27... Bf8 28. Bxf8 Kxf8 29. Rxb4
+$16) 28. Kf1 a5 29. Bf4 Bd8 (29... a4 30. Rb8+ {It would seem that after
+the rook exchange the white king comes to c4 and the b4 pawn falls. But
+things are not so simple as Black tries to create counterplay on the kingside.
+A quick initial analysis shows that White should win, but a deeper
+investigation
+may reveal something different.} Rxb8 31. Bxb8 axb3 32. axb3 Kg7 33. Ke2
+Kg6 34. f3 f5 $1 35. e5 f6 36. Kd3 Bc5 37. exf6 Kxf6 38. Kc4 Bg1 39. h3
+Bh2 40. Kxb4 e5 41. Kc5 $16) 30. Ke2 Kf8 31. Kd3 Rc8 32. Be3 Rc3+ 33.
+Kd2 Ke7 34. Bd4 Rc6 35. f4 Rd6 36. Ke3 Rc6 37. Kd2 Rd6 38. Kd3 Kd7 39.
+Kc4 Rc6+ 40. Rc5 Be7 {It seems that leading upto the 40th move White has
+lost the bulk of his advantage. But Gelfand shows that with the a5-b4-and
+f6 pawns fixed on the same colour as the black bishop, the defence is
+not at all trivial.} 41. Rxc6 Kxc6 42. f5 $1 {Fixing the f6 pawn.} Bd8
+43. Bc5 h5 44. Bf8 Kb6 45. Bd6 Kc6 (45... Bc7 46. Be7 Be5 47. Bd8+ Ka6
+48. Kc5 $18) 46. Bc5 $18 {Black is in zugzwang and will lose either his
+f6 or a5 pawn.} 1-0

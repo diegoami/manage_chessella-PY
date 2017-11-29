@@ -1,0 +1,74 @@
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.14"]
+[Round "4.4"]
+[White "Rodshtein, Maxim"]
+[Black "Fedoseev, Vladimir"]
+[Result "0-1"]
+[ECO "E04"]
+[WhiteElo "2695"]
+[BlackElo "2731"]
+[Annotator "Amruta Mokal"]
+[PlyCount "86"]
+[EventDate "2017.??.??"]
+[EventType "k.o."]
+[EventCountry "GEO"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "1500+10"]
+
+1. d4 {[%emt 0:00:00]} d5 {[%emt 0:00:01]} 2. c4 {[%emt 0:00:00]} e6 {[%emt 0:
+00:01]} 3. Nf3 {[%emt 0:00:26]} Nf6 {[%emt 0:00:02]} 4. g3 {[%emt 0:00:15]}
+Bb4+ {[%emt 0:00:02]} 5. Nbd2 {[%emt 0:00:26]} dxc4 {[%emt 0:00:02]} 6. Bg2 {
+[%emt 0:00:02]} b5 {[%emt 0:00:05]} 7. O-O {[%emt 0:00:32]} a5 {[%emt 0:00:03]}
+8. a4 {147} c6 {[%emt 0:00:30]} 9. Ne1 {78} Nd5 {72} (9... Ra6 10. Nc2 Be7 11.
+e4 O-O 12. e5 Nd5 13. Ne4 Nd7 14. Qg4 f5 15. exf6 {1/2-1/2 (15) Papaioannou,I 
+(2624)-Vidit,S (2563) Vrachati 2013}) 10. e4 {97} Nb6 {[%emt 0:00:03]} 11. Nc2
+{101} (11. axb5 cxb5 12. e5 Nd5 13. Ne4 {with the idea of Qg4 is interesting})
+11... bxa4 {105} (11... c3 $142 12. bxc3 (12. Nxb4 cxd2 13. Bxd2 axb4 $17)
+12... Bxc3 13. Ra2 Nxa4 $17) 12. e5 {[%emt 0:00:51]} Be7 {[%emt 0:00:25]} 13.
+Qg4 {[%emt 0:00:09]} g6 {[%emt 0:00:32]} (13... O-O 14. Ne4 $40) 14. Ne4 {
+13 with the strong threat of Bh6 due to which black needed to play} h5 {61} 15.
+Qf3 {[%emt 0:00:12]} h4 {76} 16. Rd1 {[%emt 0:00:24]} Ba6 {[%emt 0:00:34]} 17.
+Ne3 {[%emt 0:00:54]} Rh5 {188 Highly ambitious move} 18. g4 {88} (18. Ng4 $16 {
+Hopping to the f6 weakness as soon as possible was good} Rf5 19. Ngf6+ Bxf6 20.
+Nxf6+ Qxf6 21. exf6 Rxf3 22. Bxf3 Bb5 23. Bg5 hxg3 24. hxg3 {White is just
+better and converting cannot be very difficult because of blacks weak king and
+pawn structure too.}) 18... Rh7 {[%emt 0:00:16]} 19. g5 {[%emt 0:00:06]} N8d7 {
+128} 20. Ng4 {[%emt 0:00:30]} Bb5 {[%emt 0:00:10]} 21. Bh3 {182 White tried to
+put pressure on e6. The deep idea is Ngf6 and after exchange on f6 he will
+take with the g-pawn to vacate g5 square for the e4 knight and then threats of
+sacrifice on e6.} (21. Ngf6+ Nxf6 22. gxf6 (22. Nxf6+ Bxf6 23. gxf6 Nd5 {
+and black is doing okay}) 22... Bb4 $13) 21... Rh8 {319} 22. Nh6 $1 {299} (22.
+Ngf6+ Nxf6 23. gxf6 {now this doesnt make sense because after} Bb4 24. Ng5 {
+is no more a tempo and black simply gets} Qd5 $15) 22... Rf8 {[%emt 0:00:26]}
+23. Qg4 {[%emt 0:00:07]} (23. Nd6+ $1 {Forcing an exchange of dark squared
+bishop and opening the crucial central e-file.} Bxd6 24. exd6 Qb8 25. Bf4 Nd5
+26. Re1 $16 {with a crushing attack. A very scary position to defend with
+black. The pressured points of e6-f7 with the king still in the center are
+hard to take care.}) 23... Qc7 {[%emt 0:00:12]} 24. Qxh4 {[%emt 0:00:07]} O-O-O
+{[%emt 0:00:10]} 25. Bd2 {[%emt 0:00:18]} Nd5 {[%emt 0:00:18]} 26. Qg3 {98} Qb6
+{[%emt 0:00:57]} 27. Bc3 {126} c5 $1 {110 A very difficult position for a
+rapid game. Black is trying hard to create counterplay.} 28. Bg2 {[%emt 0:00:
+07]} Nxc3 {75} 29. bxc3 {[%emt 0:00:04]} cxd4 {[%emt 0:00:03]} 30. cxd4 {
+[%emt 0:00:07]} Nb8 {[%emt 0:00:46]} 31. Nc3 {[%emt 0:00:39]} (31. Qg4 $1 $14 {
+xray defence to d4} Rxd4 $4 32. Rxd4 Qxd4 33. Nd6+ $18) 31... Bb4 {73} (31...
+Rxd4 $142 32. Rxd4 Qxd4 $15) 32. d5 {[%emt 0:00:10]} a3 {[%emt 0:00:09]} 33.
+Rdc1 {[%emt 0:00:55]} (33. Nxb5 Qxb5 34. d6 Nc6 35. Ng4 $16) 33... Ba6 {
+[%emt 0:00:37]} 34. Rab1 {[%emt 0:00:02]} (34. Na4 $142 Qb5 (34... Qd4 35. d6
+$16) 35. Rxc4+ $1 Qxc4 36. Nb6+ $18) 34... Nd7 $1 {[%emt 0:00:25]} 35. Bf1 {109
+} (35. d6 $14) 35... Nc5 {16 and now the knight becomes very strong with the
+support of c4 pawn. White suddenly lands in a difficult position.} 36. Qf3 $6 {
+[%emt 0:00:20]} exd5 {[%emt 0:00:46]} 37. Nxd5 {[%emt 0:00:06]} Rxd5 {124} (
+37... Qb7 $142 38. Bg2 Qxd5 39. Qxd5 Rxd5 40. Bxd5 c3 $17) 38. Qxd5 {[%emt 0:
+00:02]} Bb7 {[%emt 0:00:15]} 39. Qxc4 {[%emt 0:00:45]} Qc6 {[%emt 0:00:01]} 40.
+Qg4+ {[%emt 0:00:22]} Kb8 {[%emt 0:00:38]} 41. f3 {[%emt 0:00:02]} (41. Bg2 {
+would have led into a forcing variation} Qxg2+ 42. Qxg2 Bxg2 43. Kxg2 a2 44.
+Ra1 Nb3 45. Rf1 Nxa1 46. Rxa1 $11) 41... Qd5 {[%emt 0:00:45]} 42. Bg2 $4 {
+[%emt 0:00:28]} Nb3 {[%emt 0:00:06]} 43. Rd1 {[%emt 0:00:09]} a2 {5 Quite an
+interesting game. Ofcourse its not possible to play accurately in such kind of
+positions in rapid format. And not at all along with such a high level of
+tournament pressure. Rodstein fought his best and Fedoseev dint leave an
+opportunity to create counterplay.} 0-1
+

@@ -1,0 +1,67 @@
+[Event "IOM Open-Masters 2017"]
+[Site "Douglas"]
+[Date "2017.09.25"]
+[Round "3"]
+[White "Carlsen, Magnus"]
+[Black "Xiong, Jeffery"]
+[Result "1-0"]
+[ECO "D03"]
+[WhiteElo "2827"]
+[BlackElo "2633"]
+[Annotator "Tiger"]
+[PlyCount "65"]
+[EventDate "2017.??.??"]
+[EventCountry "GBR"]
+
+1. Nf3 c5 2. c3 {If you like the Slav Defence, then there can hardly be
+anything wrong with this move. Xiong does not have the Slav on his repertoire
+with Black, so there is also that.} Nf6 3. d4 e6 4. Bg5 {I have not been
+following the developments in these lines with enthusiasm, so I don't know a
+lot about it. Still, if I was faced with such a set-up with Black I would
+immediately kick the bishop with} d5 (4... h6 {to see how White responds.} 5.
+Bh4 cxd4 6. cxd4 d5 7. e3 Nc6 {looks like a very decent exchange slav, to me.
+However, I would not like to play this against Magnus.}) (4... Qb6 5. Qb3 Nc6 {
+also looks fine.}) 5. e3 {Generally speaking, an ambitious player is happy to
+be able to take back on d4 with the e-pawn.} h6 6. Bh4 Nc6 7. Nbd2 a6 {Black
+takes a very solid approach and avoids Bf1-b5. It's absolutely fine. However,
+it is important to get into a mind-set where one doesn't play overly solid.} 8.
+Bd3 Be7 9. O-O Nd7 {Again, absolutely fine, but Black is playing a bit too
+many non-developing moves for my liking. However, here it seems that there
+were no better alternative.} (9... O-O $6 10. Bxf6 Bxf6 11. dxc5) (9... b6 10.
+e4 $36) 10. Bxe7 Nxe7 $5 (10... Qxe7 11. e4 dxe4 12. Bxe4 cxd4 {leaves White
+with more than one option:} 13. Bxc6 (13. cxd4 O-O 14. Rc1 Nb4 15. a3 Nd5 16.
+Bxd5 exd5 17. Re1 Qd6 18. Ne5 {is also somewhat more comfortable for White.})
+13... bxc6 14. Nxd4 {looks like something Carlsen would like for White.}) 11.
+Ne5 {This was a surprise to me.} (11. e4 {still looks a little better for
+White.}) 11... cxd4 {And this was an even bigger surprise.} ({The natural move
+is to just play} 11... Nxe5 12. dxe5 Nc6 {, to see how White will defend the
+e-pawn:} 13. f4 (13. Qg4 Qg5 14. Qxg5 hxg5 15. f4 Bd7 {is problem free for
+Black.}) (13. Nf3 $6 Qc7) 13... c4 14. Bc2 Qb6 {is just bad for White. Perhaps
+Carlsen missed this detail, or he has something mind boggling prepared that I
+don't see.}) 12. exd4 Nxe5 13. dxe5 {This position is much better for White
+than the one with c5 and e3 still left. The e5-pawn can easily be defended and
+White will develop very naturally.} Bd7 14. Re1 $1 (14. Nf3 Bb5 $1) 14... Rc8
+15. Nf3 {[%cal Gf3d4]} b5 16. h4 a5 17. a3 Qb6 18. Qd2 {This is all quite
+logical. White has small but clear advantage since his minor pieces are much
+more active.} b4 (18... O-O 19. Re3 {and White is ready to play Nd4 and launch
+an attack on Black's king.}) 19. cxb4 axb4 20. a4 Ra8 21. b3 {Now White has a
+stable advantage. The only thing that can become a headache for White is the
+c3-square. Black immediately goes for an invasion.} ({It is curious that the
+engine suggests} 21. Bb5 $5 {Indeed, after} Bxb5 22. axb5 O-O 23. Nd4 {Black
+is horribly passive. In a few moves it will become obvious that White has no
+better plan than this, so then it is best not to weaken c3.}) 21... O-O 22.
+Rac1 Rfc8 23. h5 $6 (23. Nd4 $1 Kf8 (23... Qxd4 $4 24. Bh7+) 24. Bb5 $16) 23...
+Kf8 $6 ({This was the best moment to play} 23... Rc3 $1 {, when} 24. Rxc3 (24.
+Nd4 Rac8 25. Rxc3 Rxc3) 24... bxc3 25. Qxc3 Rc8 26. Qd2 (26. Qb2 Bxa4) 26...
+Qxb3 27. a5 Bb5 {is equal.}) 24. g4 $1 {Now White breaks through before Black
+can stir up enough trouble on the queenside.} ({Again} 24. Bb5 {, suggests
+itself.}) ({Also possible is} 24. Qf4 Rc3 25. Bb5 Bxb5 26. Qxb4 Rxc1 27. Rxc1
+Qa5 28. Qxa5 Rxa5 29. Rc5 $16) 24... Rc3 25. g5 hxg5 26. Rxc3 bxc3 27. Qxg5 Nf5
+28. Bxf5 exf5 29. e6 Bxe6 30. h6 $1 gxh6 31. Qf6 Kg8 $4 ({Black's only defence
+is} 31... Qd8 $1 32. Qxc3 (32. Rxe6 Qxf6 33. Rxf6 Rc8 34. Nd4 c2 35. Nxc2 Rxc2
+36. Rxh6 d4 37. Kf1 Rb2 38. Rb6 d3 39. Ke1 Re2+ 40. Kd1 Rxf2 41. a5 f4 42. a6
+Ra2 {and Black is no worse.}) 32... Kg8 33. Qe5 Kh7 34. Kh2 Qb6 35. Rg1 Rg8 36.
+Rxg8 Kxg8 37. Nd4 {and I find it hard to believe that Black will survive this,
+but the engines are surprisingly optimistic.}) 32. Qxh6 {Black has no defence
+against Kh1/Rg1+} Qb4 33. Kh1 1-0
+

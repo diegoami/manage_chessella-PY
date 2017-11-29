@@ -1,0 +1,57 @@
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.02"]
+[Round "1.1"]
+[White "Carlsen, Magnus"]
+[Black "Balogun, Oluwafemi"]
+[Result "*"]
+[ECO "B06"]
+[WhiteElo "2827"]
+[BlackElo "2255"]
+[Annotator "Sagar Shah"]
+[PlyCount "77"]
+[EventDate "2017.??.??"]
+[EventType "k.o."]
+[EventCountry "GEO"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} d6 {[%emt 0:01:19] The Pirc Defence.} 2. d4 {[%emt 0:00:
+00]} g6 {[%emt 0:00:29]} 3. Bc4 {[%emt 0:00:50] Magnus goes for something that
+the opponent would not have prepared.} Nf6 {[%emt 0:02:38]} 4. Qe2 {[%emt 0:00:
+12]} Nc6 {[%emt 0:02:59]} 5. Nf3 {[%emt 0:03:23]} Bg7 {[%emt 0:04:46]} 6. O-O {
+[%emt 0:20:34]} Bg4 {[%emt 0:07:18]} 7. c3 {[%emt 0:01:32] Because White has
+not developed his knight to c3, he gets to bolster his center.} O-O {[%emt 0:
+09:31]} 8. h3 {[%emt 0:06:29]} Bxf3 {[%emt 0:06:29]} 9. Qxf3 {[%emt 0:00:35] I
+would say such positions are nightmare against Magnus. Not only does he have
+the center, but also the bishop pair.} e5 {[%emt 0:00:22]} 10. Rd1 {[%emt 0:05:
+32]} Qe8 {[%emt 0:08:42]} 11. d5 {[%emt 0:11:41]} Ne7 {[%emt 0:01:46]} 12. Qe2
+$14 {[%emt 0:01:25][%csl Gc1,Gc4,Gd5,Ge4]} Nh5 {[%emt 0:06:07]} 13. Bb5 {
+[%emt 0:07:30]} Qc8 {[%emt 0:05:59]} 14. Na3 {[%emt 0:01:29]} a6 {[%emt 0:02:
+55]} 15. Ba4 {[%emt 0:01:07]} f5 {[%emt 0:08:06] Good strong play by Balogun.
+He realises that he must do something active before White can finish his
+development.} 16. Bc2 {[%emt 0:03:53]} f4 $6 {[%emt 0:06:42]} (16... fxe4 $5)
+17. Qg4 $1 {[%emt 0:04:09]} Qxg4 {[%emt 0:04:06]} (17... Nf6 18. Qxc8 Rfxc8 $14
+{gives White a small edge like in the game.}) (17... Qd8 $5 {Keeping the
+queens on should have been preferred.}) 18. hxg4 {[%emt 0:01:14]} Nf6 {[%emt 0:
+00:10]} 19. g5 {[%emt 0:00:28]} (19. f3 $6 h5 $1 $11) 19... Nd7 {[%emt 0:04:27]
+} 20. Nc4 {[%emt 0:00:07]} b6 {[%emt 0:00:38]} 21. b4 {[%emt 0:00:29]} h6 {
+[%emt 0:01:51]} 22. gxh6 {[%emt 0:01:42]} Bxh6 {[%emt 0:00:55]} 23. g4 $5 {
+[%emt 0:01:22]} (23. a4 $14 {was also slightly better for White.}) 23... Nf6 {
+[%emt 0:01:09]} 24. f3 {[%emt 0:00:04] The kingside is now under control. Over
+to the queenside.} Bg5 {[%emt 0:00:15]} 25. Kg2 {[%emt 0:01:38]} Kg7 {[%emt 0:
+01:27]} 26. a4 {[%emt 0:00:54]} Bh4 {[%emt 0:01:43]} 27. Bd2 {[%emt 0:01:32]}
+g5 {[%emt 0:00:53]} 28. Rh1 {[%emt 0:03:59]} Ng6 {[%emt 0:02:05]} 29. Kf1 {
+[%emt 0:00:44]} Rh8 {[%emt 0:01:37]} 30. Ke2 {[%emt 0:00:12]} Bg3 {[%emt 0:00:
+50]} 31. a5 $1 {[%emt 0:01:16]} b5 {[%emt 0:00:57]} 32. Na3 {[%emt 0:00:01]
+White's plan is very clear. Play c4, then b5 break and finally get a passed
+a-pawn.} Ne7 {[%emt 0:00:56]} 33. c4 {[%emt 0:02:22]} c6 {[%emt 0:00:53]} 34.
+dxc6 {[%emt 0:01:03]} Nxc6 {[%emt 0:00:09]} 35. Bc3 {[%emt 0:00:05]} Rxh1 {
+[%emt 0:05:35]} 36. Rxh1 {[%emt 0:00:02]} bxc4 {[%emt 0:00:43]} 37. Nxc4 {
+[%emt 0:00:03]} Rb8 {[%emt 0:01:00]} (37... Rd8 38. Nb6 $18) 38. Nxd6 {[%emt 0:
+00:29]} Kg6 {[%emt 0:00:30]} (38... Nxb4 39. Nf5+ Kg6 40. Rh6+ Kf7 41. Bb3+ $18
+) 39. Nf5 {[%emt 0:00:25] White is in control and Black king is close to
+getting mated.} *
+

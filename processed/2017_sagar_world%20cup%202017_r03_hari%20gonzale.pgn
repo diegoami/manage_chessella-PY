@@ -1,0 +1,78 @@
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.05"]
+[Round "1.5"]
+[White "Gonzalez Vidal, Yuri"]
+[Black "Harikrishna, P."]
+[Result "1/2-1/2"]
+[ECO "C09"]
+[WhiteElo "2547"]
+[BlackElo "2741"]
+[Annotator "Amruta Mokal"]
+[PlyCount "92"]
+[EventDate "2017.??.??"]
+[EventCountry "GEO"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "600+10"]
+
+1. e4 {[%emt 0:00:00]} e6 {[%emt 0:00:01]} 2. d4 {[%emt 0:00:00]} d5 {[%emt 0:
+00:00]} 3. Nd2 {[%emt 0:00:00]} c5 {[%emt 0:00:01]} 4. Ngf3 {[%emt 0:00:01]}
+Nc6 {[%emt 0:00:02]} 5. exd5 {[%emt 0:00:10]} exd5 {[%emt 0:00:01]} 6. Bb5 {
+[%emt 0:00:05]} Qe7+ {[%emt 0:00:01]} 7. Be2 {[%emt 0:00:03]} Qc7 {[%emt 0:00:
+14]} 8. O-O {[%emt 0:00:10]} Nf6 {[%emt 0:00:07]} 9. Re1 {[%emt 0:00:19]} Be7 {
+[%emt 0:00:19]} 10. dxc5 {[%emt 0:00:13]} Bxc5 {[%emt 0:00:02]} 11. Nb3 {
+[%emt 0:00:33]} Be7 {[%emt 0:00:02]} 12. h3 {[%emt 0:00:59]} h6 {[%emt 0:00:11]
+} 13. Bd3 {[%emt 0:00:15]} O-O {[%emt 0:00:04]} 14. c3 {[%emt 0:00:10]} Re8 {
+[%emt 0:00:36]} 15. Bc2 {[%emt 0:00:10]} Bd7 {[%emt 0:00:18]} 16. Be3 {[%emt 0:
+00:50]} Rad8 {[%emt 0:00:51]} 17. Bc5 {[%emt 0:01:37] Black should be happy
+with the exchange of dark squared bishops in this case} (17. Qd2 {White could
+have tried to keep pressure}) 17... Bxc5 {[%emt 0:00:03]} 18. Nxc5 {[%emt 0:00:
+03]} Rxe1+ {[%emt 0:01:16]} 19. Qxe1 {[%emt 0:00:02]} d4 {[%emt 0:00:49]} (
+19... Bc8 {was possible}) 20. Nxd7 {[%emt 0:01:03]} Rxd7 {[%emt 0:00:08]} 21.
+cxd4 {[%emt 0:00:33]} Nxd4 {[%emt 0:00:06]} 22. Nxd4 {[%emt 0:00:03]} Rxd4 {
+[%emt 0:00:02]} 23. Bb3 {[%emt 0:00:06]} Re4 {[%emt 0:00:45]} 24. Qd2 {[%emt 0:
+00:11]} Qe7 {[%emt 0:00:57]} 25. Rc1 {[%emt 0:00:13]} g5 $6 {[%emt 0:00:02]
+Maybe objectively not the best, but practically a very interesting decision.}
+26. Rc8+ {[%emt 0:02:00]} (26. Qa5 $5 a6 (26... b6 $6 {is weak because of the
+simple reason that after} 27. Rc8+ Kg7 28. Qc3 Re1+ 29. Kh2 Qd6+ 30. g3 Re7 31.
+Rc6 $16 {white is able to make use of the c6 weakness} Qe5 32. Qxe5 Rxe5 33.
+Rc7 Re2 34. Kg2 Rxb2 35. Rxf7+ $14) 27. Rc7 Re1+ 28. Kh2 Qd6+ 29. g3 Re7 30.
+Rxe7 Qxe7 31. Qc3 b5 $14 {Though White can put pressure, Black can hold}) 26...
+Kg7 {[%emt 0:00:02]} 27. Qc3 {[%emt 0:00:03]} Re1+ {[%emt 0:02:10]} 28. Kh2 {
+[%emt 0:00:01]} Qd6+ {[%emt 0:00:03]} 29. g3 {[%emt 0:01:35]} Re7 {[%emt 0:00:
+19]} 30. Kg2 {[%emt 0:00:24]} Qd7 {[%emt 0:01:08]} 31. Rc5 {[%emt 0:00:26]} Qd6
+{[%emt 0:00:21]} 32. Rf5 {[%emt 0:00:43]} Rd7 {[%emt 0:00:45]} 33. Qf3 {
+[%emt 0:00:13]} Rc7 {[%emt 0:00:35]} 34. Qe3 {[%emt 0:00:38]} Qc6+ {[%emt 0:00:
+28]} 35. Kh2 {[%emt 0:00:13]} Qe4 {[%emt 0:00:11]} 36. Qxe4 {[%emt 0:00:32]}
+Nxe4 {[%emt 0:00:01]} 37. Kg2 b6 38. Re5 Nc5 39. Bc2 Kf6 40. Re3 Ne6 41. Rf3+
+Kg7 42. Be4 Nc5 43. Bc2 Rd7 44. b4 Rd2 45. bxc5 Rxc2 46. cxb6 axb6 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi GEO"]
+[Date "2017.09.05"]
+[Round "1.6"]
+[White "Harikrishna, Pentala"]
+[Black "Gonzalez Vidal, Yuri"]
+[Result "1-0"]
+[ECO "C95"]
+[WhiteElo "2743"]
+[BlackElo "2543"]
+[Annotator "Sagar Shah"]
+[PlyCount "91"]
+[EventDate "2017.09.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 c5 12. Nf1 Re8 13. Ng3 Bf8 14. Bc2 cxd4 15.
+cxd4 exd4 16. Nxd4 Bb7 17. Bf4 g6 18. a4 bxa4 19. Bxa4 Nxe4 20. Bc6 Bxc6 21.
+Nxc6 Qf6 22. Rxe4 Rxe4 23. Nxe4 Qxf4 24. Ra4 Rc8 25. g3 Qh6 26. Rc4 Re8 27. Kg2
+Qg7 28. Nxd6 Re6 29. Nf5 gxf5 30. Qxd7 Qxb2 31. Nd4 Rf6 32. Nxf5 Qb5 33. Rg4+
+Rg6 34. Qc8 Qd5+ 35. Kg1 Qe6 36. Nh6+ Kg7 37. Nf5+ Kg8 38. Nh6+ Kg7 39. Qc3+ {
+The crucial position of the game. Black has to find the only move to stay
+close to equality.} f6 $2 (39... Qf6 $1 40. Nf5+ Kh8 41. Qc8 $36) 40. Qc7+ $1
+Be7 (40... Kxh6 41. Rh4+ Kg5 42. Qf4#) (40... Kh8 $1 41. Qb8 Kg7 42. Qb7+ Kh8
+43. Nf7+ Kg8 44. Nd8 Qe7 45. Qd5+ Kh8 46. Ne6 $16) 41. Nf5+ $1 Qxf5 42. Qxe7+
+Kg8 43. Rb4 Qe5 44. Qd8+ Kg7 45. Rb7+ Kh6 46. Qf8+ (46. Qf8+ Kg5 (46... Kh5 47.
+Rxh7+) 47. f4+ $18) 1-0
+

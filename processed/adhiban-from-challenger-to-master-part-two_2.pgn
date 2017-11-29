@@ -1,0 +1,52 @@
+[Event "Tata Steel Challengers"]
+[Site "?"]
+[Date "2016.01.27"]
+[Round "10"]
+[White "Adhiban, B."]
+[Black "Safarli, Eltaj"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2653"]
+[BlackElo "2653"]
+[Annotator "Adhiban,B"]
+[SetUp "1"]
+[FEN "5rk1/4qnpp/Q7/1p1Ppp2/1Pp5/2P1PN1P/6P1/4R1K1 b - - 0 28"]
+[PlyCount "56"]
+28... Qd7 (28... Nd6 29. Ra1 $1 {Finally I decided upon this, with
+intiative on the queenside, and Black will need some time to create something
+in the centre or on the kingside.} (29. Ng5 {[%cal Gg5e6] was the first
+try but after} Qxg5 30. Qxd6 Qg3 {White has to think about equalising.}))
+29. Qe6 Rd8 { [%tqu "Find the strongest continuation for white.","","",e4,"I
+was able to find this nice resource which keeps the fight going
+on!",10,Ra1,"",0,Ng5,"was
+my main idea but totally forgot about",0]} 30. e4 $1 {I was able to find
+this nice resource which keeps the fight going on!} (30. Ra1) (30. Ng5
+{was my main idea, but I totally forgot about} Qxd5 31. Qxf5 Nxg5 {is
+totally toothless.}) 30... fxe4 31. Rxe4 Qxd5 (31... Kf8 $1 {was the clearest
+way to equalise.} 32. Nxe5 Qxd5 33. Qf5 (33. Nxf7 Qxe6 34. Rxe6 Kxf7 35.
+Re5 Rd3 $11) 33... g6 34. Qf6 Rd6 35. Qf4 g5 36. Qf5 Kg7 37. Qxf7+ Qxf7
+38. Nxf7 Kxf7 39. Re5 Rd3 $11) 32. Rxe5 {Thanks to this resource I am
+able to maintain a slight pull.} Qxe6 33. Rxe6 Kf8 34. Nd4 Rd5 (34...
+Nd6 35. Re5 Rb8 36. Rd5 Rb6 37. Kf1 {[%cal Gf1e1,Ge1d1,Gd1c2] with a strong
+grip.}) 35. Rc6 Ke7 36. Rc7+ Kf6 (36... Ke8 $5 {I wasn't sure how to proceed
+so I just decided to improve my king.} 37. Kf1 { with a nice advantage
+thanks to superior pieces.} (37. Rc5 Rxc5 38. bxc5 Kd7) ( 37. Rb7 Nd6
+38. Rxg7 Ne4)) 37. Rb7 Nd6 38. Rd7 Rxd4 $5 (38... Ke5 39. Kf1 $1 { The
+black pieces are stuck.}) 39. cxd4 Ke6 40. Rc7 $1 {Not the accursed 40th
+move! It is only if you let it be!} (40. Rxg7 c3 {Surprisingly the knight
+is very strong here.} 41. Rg5 Nf5 $1 {This was the line which put me off
+from taking on g7, otherwise everything was totally under control.} 42.
+d5+ Kf6 43. Rg8 Nd6) 40... Ne4 41. Kf1 Kd6 42. Rc8 $5 {looked like the
+simplest, maintaining control over the c-file.} (42. Ra7 Kd5 43. Rd7+
+{I thought would lead to the same.}) 42... Kd5 43. Rd8+ Kc6 44. d5+ Kc7
+45. Re8 Nc3 46. Re7+ Kd6 47. Rxg7 Na2 48. Ke2 Nxb4 49. Rxh7 Nxd5 50. h4
+b4 51. h5 b3 {[%tqu "Find the only move to keep a winning
+advantage.","","",Rb7,"",0,Kd1,"I
+missed this nice defensive idea only looking at Kd2.",10]} 52. Rb7 $2
+(52. Kd1 $1 $18 {I missed this nice defensive idea only looking at Kd2.})
+52... Nf4+ $138 {My opponent was down to seconds here with 8 moves to
+make the third time control.} (52... Kc6 {was quite simple.} 53. Rb8 Kc7
+{and now I make a draw with} 54. Rxb3 cxb3 55. Kd3 $11) 53. Ke3 Nxh5 54.
+Kd4 Nf4 55. g4 Nd3 $4 {The final error, after which there is no comeback.}
+(55... Nd5 $1 56. g5 c3 $11) 56. g5 {Finally after many adventures I got
+a clear winning position!} 1-0

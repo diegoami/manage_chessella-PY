@@ -1,0 +1,73 @@
+[Event "European Team Championship"]
+[Site "?"]
+[Date "2017.10.31"]
+[Round "4"]
+[White "Duda, Jan-Krzystof"]
+[Black "Meier, Georg"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "2706"]
+[BlackElo "2655"]
+[Annotator "DF"]
+[PlyCount "119"]
+[EventDate "2017.11.01"]
+[WhiteClock "0:07:42"]
+[BlackClock "0:02:03"]
+
+{Another technical game, like the last, featuring my 'hero' of round 1 and
+also featuring a nice technical rook endgame, interestingly again with White
+having an extra b-pawn...} 1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 c6
+6. e3 h6 (6... Bf5 7. Qf3 Bg6 8. Bxf6 Qxf6 9. Qxf6 gxf6 10. Nf3 Nd7 11. Nh4 Be7
+12. Ne2 {was the 'modern classic' Carlsen,M-Kramnik,V, Stavanger 2016}) 7. Bh4
+Bf5 {The implication of ...Bf5 from Black in these positions is generally that
+he is fine to play for a draw.} 8. Bd3 (8. Qf3 {would be similar to the last
+note, with a minor wrinkle being that the bishop has h7 too.}) 8... Bxd3 9.
+Qxd3 Be7 10. Nge2 O-O 11. f3 {We have swiftly left theoretical battlefields.
+White may not be claiming any advantage as such, but he is asking a very
+powerful question- with e4 unstoppable, does Black generate counterplay before
+he gets overrun?} Re8 12. O-O Nbd7 13. Rad1 (13. Bf2 $5 {White could maybe
+dispense with Rad1, since the rook might want to come to e1 instead later.} b5
+14. Ng3) 13... b5 14. Bf2 Bf8 15. Ng3 Rc8 $6 {Doesn't give a particularly
+coherent impression.} (15... h5 $5 {was a good example of drastic action Black
+should have considered.}) (15... b4 16. Nce2 c5 {could have been played
+immediately since that was what Black did next anyway}) 16. h3 (16. e4 $5 {
+screamed out to be played. Obviously, the issue White had with this must have
+been} dxe4 17. fxe4 Ng4 {else he would not have bothered playing 16.h3,
+however here} 18. Qf3 $1 $14 {gives White an edge}) 16... b4 17. Nce2 c5 $1 {
+Action at last.} 18. dxc5 Bxc5 19. Nf4 Qb6 {Forcing Nf5, which White likely
+wanted anyway.} (19... Qa5 $1 20. Nf5 (20. Nxd5 Qxa2 21. Nxf6+ Nxf6 $11) 20...
+Qxa2 {It turns out White's play is not yet so serious that Black can't go
+pawn-grabbing.}) 20. Nf5 Ne5 21. Qb3 g6 (21... Nc4 $5 {must have been
+considered; it seems} 22. Nxd5 Nxd5 23. Rxd5 Bxe3 (23... Nxe3 24. Rxc5 $1 {
+wins on the spot.}) 24. Nxe3 Rxe3 $3 $14 {may have been the missed detail;
+Black obtains a fair amount of counterplay}) 22. Nxh6+ Kg7 23. Ng4 {Picking up
+a clean pawn.} Nexg4 24. fxg4 Bxe3 25. Nxd5 Nxd5 26. Qxd5 Re7 (26... Rcd8 27.
+Qf3 Rxd1 28. Rxd1 Re5 {may have been a slightly better try, looking for Ra5
+after the pieces come off, but after} 29. b3 $16 {a pawn is still a pawn.}) 27.
+Qf3 Bxf2+ 28. Qxf2 Rc2 29. Qxb6 axb6 30. Rf2 Ree2 31. Rxe2 Rxe2 32. b3 $1 {
+A very cute detail. Now, by virtue of his rook position on b4, White's pawn
+plus is exceptionally relevant, and the position may already be technically
+winning. This is a difficult endgame to annotate- if Black was not already
+lost, where did he lose?} Rxa2 33. Rd4 Re2 34. Rxb4 Re6 35. Kf2 g5 {An
+interesting call. It's not clear to me that this actually needed to be done,
+though its idea- preventing White's g5- is clear.} (35... f6 36. h4 Kh6 37. Rb5
+Rc6 {The idea is that g5 can always be met by a capture and Kh5, and that h5
+can always be ignored. This is an alternative setup, and the way to try and
+break it down is obvious.} 38. Kg3 Rd6 39. Kh3 Rc6 40. g3 {Maybe this forces ..
+.g5.} Rd6 (40... Kg7 41. Rd5 Rc3 42. Rd7+ Kh6 43. Rf7 $1 $18) 41. g5+ fxg5 42.
+Rxg5 $16 {White has undoubled and the maneouvring can continue.}) 36. Rb5 f6
+37. g3 Kg6 38. h4 Kh6 39. Kf3 Kg6 40. Rd5 Rc6 41. Ke4 Re6+ 42. Kd3 Re1 (42...
+gxh4 43. gxh4 Re1 {It seems critical, as in the last line, to permit the
+undoubling. Maybe this would have drawn. Maybe I would criticise it if it was
+played en route to a loss...}) 43. hxg5 (43. h5+ Kh6 44. Rf5 Kg7 45. Rf3 {
+could have been another idea- Black has no way to hit the pawns, and must go
+back to defence, but White has improved his king to the 4th rank.}) 43... Rg1
+$5 {An imaginative defence- reminding us that chess is a game of 2 players-
+but unfortunately he is already dead.} 44. gxf6 Rxg3+ 45. Kc4 $18 (45. Kd4 $5
+Rxg4+ 46. Ke5 {may have been better.}) 45... Rxg4+ 46. Kb5 Kxf6 47. Kxb6 Rb4+
+48. Rb5 Re4 49. b4 Ke6 50. Kb7 Kd6 51. Rb6+ Kd5 (51... Kd7 52. b5 Rb4 53. Ka7
+Ra4+ 54. Ra6 Rb4 55. b6 Kc8 56. Ra1) 52. Ka6 {The only winning move, but
+obvious enough. The rest has been seen a hundred times; Black is cut off, this
+time not on the files but on the ranks.} Rh4 53. Rb7 Rh6+ 54. Ka5 Rh1 55. b5
+Kd6 56. Rg7 Kc5 57. Rc7+ Kd6 58. b6 Ra1+ 59. Kb5 Ra8 60. Rc1 1-0
+

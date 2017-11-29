@@ -1,0 +1,55 @@
+[Event "IOM Open-Masters 2017"]
+[Site "Douglas"]
+[Date "2017.09.25"]
+[Round "3"]
+[White "Batsiashvili, Nino"]
+[Black "Hou, Yifan"]
+[Result "1-0"]
+[ECO "E43"]
+[WhiteElo "2472"]
+[BlackElo "2670"]
+[Annotator "Tiger"]
+[PlyCount "67"]
+[EventDate "2017.??.??"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 ({Everyone plays} 4... d5 {these days,
+but the game move is no worse and leads to more complex middle games.}) 5. e3 (
+5. Bg5 h6 6. Bh4 g5 7. Bg3 Ne4 {is another old line that is currently out of
+favour. After} 8. Qc2 Bb7 9. e3 Bxc3+ 10. bxc3 d6 {Black is doing very well at
+a high level.}) 5... Ne4 6. Qc2 Bb7 7. Bd3 f5 8. O-O Bxc3 (8... Nxc3 9. bxc3
+Bxf3 10. gxf3 Bd6 11. f4 Qh4 (11... Nc6 $5 {[%cal Gc6e7,Ge7g6]}) 12. Kh1 g5 (
+12... Nc6) 13. f3 $1 gxf4 14. e4 $1 fxe4 15. fxe4 $3 (15. Bxe4 Nc6 $13) 15...
+e5 16. c5 Be7 (16... bxc5 17. Qg2 $1 Nc6 18. Bxf4 exf4 19. e5) 17. dxe5 Rf8 18.
+e6 Bxc5 19. e5 $1 dxe6 20. Qa4+ {led to a nice win for White, in Bukavshin,I 
+(2647)-Ulko,J (2460) Voronezh 2015.} (20. Qg2)) 9. bxc3 O-O 10. c5 $1 {We are
+still in theoretical waters. There are more than twenty games with this
+position in the database.} bxc5 11. Rb1 Qc8 12. Ba3 {A natural move, but there
+are also promising alternatives:} (12. Ne5 Ba6 13. f3 Bxd3 14. Qxd3 Nf6 15.
+dxc5 Nc6 16. Nxc6 dxc6 17. e4 fxe4 18. fxe4 e5 19. Qc4+ Kh8 20. Rf5 (20. Bg5)
+20... Ng8 $2 (20... Rb8) 21. Rxe5 Rb8 22. Rxb8 Qxb8 23. Qd3 Rd8 24. Qc2 Qb5 25.
+Be3 Qc4 {1-0 (25) Riazantsev,A (2651)-Khismatullin,D (2617) Sochi 2016}) 12...
+d6 13. Rfc1 $5 {This is an incredibly deep (mysterious?!) rook move. Does
+Black really have full compensation here?} Nd7 {Talking to our pieces, we soon
+find that we cannot tolerate the knight on e4 too long.} 14. Nd2 $1 Nxd2 15.
+Qxd2 Be4 (15... Bc6 $5 16. f3 Qd8 17. Qe2 Qe7) 16. dxc5 Ne5 (16... Bxd3 17.
+Qxd3 Ne5 18. Qd4 Qa6) 17. Bxe4 fxe4 18. cxd6 Qa6 19. Rb3 c5 $2 (19... Nc4 20.
+Qe2 cxd6 21. Bxd6 Qxd6 22. Qxc4 Rxf2 $1 23. Qxe4 Raf8 24. Rbb1 Qd5 {and the
+active rooks are enough to hold the balance.}) 20. c4 $1 Rab8 21. Bxc5 Rxb3 22.
+axb3 Nd3 23. b4 $1 Nxc1 24. Qxc1 Qa2 25. Qf1 {Now Black is in trouble. If
+White is able to stabilize her king, then she only has to free the c-pawn in
+order to have a huge advantage.} Rd8 ({Black could also leave the rook where
+it attacks f2 and try to get a passed pawn of her own:} 25... a5 $1 26. b5 (26.
+h3 axb4 27. Bxb4 Rb8 28. d7 Rd8 29. Qd1 Qa7 $11) 26... a4 27. h3 Qc2 {The
+following lines are a sketch of what can happen:} 28. b6 (28. Ba3 Qa2) 28... h6
+29. Bd4 a3 30. c5 e5 31. Bxe5 Qxc5 32. Qa1 Qxb6 33. Qxa3 Qb1+ 34. Kh2 Qb7 {
+and Black is alive.}) 26. h3 Rd7 $2 (26... a6 $1 27. Kh2 (27. Qc1 Qb3 28. Kh2
+Kf7) 27... h6 {and the question is if White can go forward.} (27... Qc2 28. Bd4
+Qd3 $1 (28... Rxd6 $2 29. c5 Rc6 30. b5 $1 $18 axb5 31. Qxb5) 29. Qa1 Qxc4 (
+29... Rxd6 30. c5) 30. Bxg7 Qxb4 31. Be5 Rxd6 32. Bxd6 Qxd6+ 33. Kg1)) 27. b5
+$1 {With the a-pawn nailed to a7, Black chances of survival become slim.} Qa4
+$2 {You can step away with one of the attackers from f2, but not both. Now
+White can coordinate:} (27... h5 28. Qd1 (28. Kh2 h4) 28... Qxc4 29. Qxh5 Rd8
+30. Bd4 $16) 28. Qc1 $1 Qb3 29. Ba3 Rf7 30. c5 Qa2 31. Qb2 Qd5 32. c6 Rf8 33.
+d7 Qd1+ 34. Kh2 1-0
+

@@ -1,0 +1,51 @@
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi GEO"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Dreev, Aleksey"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "D38"]
+[WhiteElo "2648"]
+[BlackElo "2827"]
+[Annotator "Sagar Shah"]
+[PlyCount "64"]
+[EventDate "2017.09.03"]
+
+1. d4 {[%emt 0:00:00]} d5 {[%emt 0:00:08]} 2. c4 {[%emt 0:00:00]} e6 {[%emt 0:
+00:09]} 3. Nc3 {[%emt 0:00:57]} Bb4 $5 {[%emt 0:00:07] Dreev is well known
+expert of the Qc2 variation in the Nimzo Indian. With this move order Magnus
+avoids that opening.} 4. Nf3 {[%emt 0:04:20]} (4. Qc2 dxc4 {is good for Black.}
+) 4... Nf6 {[%emt 0:00:33]} 5. Bg5 {[%emt 0:01:45]} h6 {[%emt 0:00:14]} 6. Bxf6
+{[%emt 0:00:32]} Qxf6 {[%emt 0:00:03]} 7. Qb3 {[%emt 0:00:54]} c5 {[%emt 0:00:
+28]} 8. cxd5 {[%emt 0:00:31]} exd5 {[%emt 0:00:10]} 9. a3 {[%emt 0:00:31]}
+Bxc3+ {[%emt 0:00:09]} 10. Qxc3 {[%emt 0:00:05]} c4 {[%emt 0:03:51] This is a
+relatively new idea.} 11. b3 {[%emt 0:03:34]} Be6 {[%emt 0:00:47]} (11... b5
+12. a4) 12. Ne5 $6 {[%emt 0:16:57] This move was condemned by Magnus.} (12. e3
+O-O 13. Be2 Rc8 14. O-O Nc6 15. a4 cxb3 16. a5 Qd8 17. a6 b6 18. Qxb3 Qd6 19.
+Rfb1 Rc7 20. h3 Rac8 21. Bd3 Kf8 22. Qb2 Qe7 23. Kf1 Na5 24. Ke2 Nc4 25. Qb4
+Qxb4 26. Rxb4 Nd6 27. g4 g5 28. Nd2 Ke7 29. f3 f6 30. Nf1 Rc1 31. Rbb1 Rxb1 32.
+Rxb1 Rc3 33. Ra1 Nc4 34. Nd2 Nb2 35. Bb5 Bd7 36. Bxd7 Kxd7 37. Ra2 Rc2 38. e4
+b5 39. Ra3 Rxd2+ 40. Kxd2 Nc4+ 41. Kc3 Nxa3 {0-1 (41) Skrondal,I (2277)-Hammer,
+J (2628) Sandefjord 2017}) (12. bxc4 dxc4 13. e4 {is the critical line, but
+here it seems Black is holding his own.} O-O 14. Be2 Nc6 $13) 12... O-O {
+[%emt 0:05:27]} 13. e3 {[%emt 0:11:59]} Nc6 {[%emt 0:16:21]} 14. Be2 {[%emt 0:
+20:19]} (14. Nxc6 bxc6 15. bxc4 Qg6 $1 {This key move gives Black the
+advantage.}) (14. bxc4 Nxe5 15. dxe5 Qg6 $1 $15) 14... Nxe5 {[%emt 0:02:59]}
+15. dxe5 {[%emt 0:00:37]} Qg6 {[%emt 0:02:20]} 16. O-O {[%emt 0:03:25]} d4 $5 {
+[%emt 0:04:40]} 17. exd4 {[%emt 0:00:21]} cxb3 {[%emt 0:00:03] The b3 pawn is
+very strong.} 18. Bf3 {[%emt 0:08:07]} Rac8 {[%emt 0:03:21]} 19. Qe3 {[%emt 0:
+01:39]} Qg5 $1 {[%emt 0:02:23] With this queen exchange the b3 pawn gains in
+strength.} 20. Rab1 {[%emt 0:12:47]} (20. d5 Qxe3 21. fxe3 Bd7 {Black has a
+good position, but this might have been the best way to play.}) 20... Qxe3 {
+[%emt 0:01:20]} 21. fxe3 {[%emt 0:00:04]} Rfd8 {[%emt 0:05:50]} 22. Bxb7 {
+[%emt 0:02:15]} Rc3 {[%emt 0:03:49]} 23. d5 {[%emt 0:00:49]} Bd7 {[%emt 0:01:
+22]} 24. Rf4 {[%emt 0:03:25]} a5 {[%emt 0:02:59] Stopping Rb4.} 25. Kf2 $2 {
+[%emt 0:03:07]} (25. d6 {and the game goes on.}) 25... Rb8 $1 {[%emt 0:01:58]}
+26. Bc6 {[%emt 0:00:51]} Bxc6 {[%emt 0:00:19]} 27. dxc6 {[%emt 0:00:02]} Rxc6 {
+[%emt 0:00:11]} 28. Rd4 {[%emt 0:00:38]} Rc2+ {[%emt 0:00:10]} 29. Kf3 {
+[%emt 0:00:39]} b2 {[%emt 0:00:07]} 30. Rdd1 {[%emt 0:00:30]} Rb5 {[%emt 0:02:
+46]} 31. a4 {[%emt 0:01:23]} Rxe5 {[%emt 0:00:32]} 32. Rd8+ {[%emt 0:00:58]}
+Kh7 {[%emt 0:00:02] And Dreev, who is already a pawn down with a hopeless
+position, resigned the game.} 0-1
+

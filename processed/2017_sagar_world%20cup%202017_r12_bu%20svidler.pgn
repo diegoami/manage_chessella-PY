@@ -1,0 +1,31 @@
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.14"]
+[Round "4.3"]
+[White "Bu, Xiangzhi"]
+[Black "Svidler, Peter"]
+[Result "0-1"]
+[ECO "A33"]
+[WhiteElo "2714"]
+[BlackElo "2756"]
+[Annotator "Simon Williams"]
+[PlyCount "82"]
+[EventDate "2017.??.??"]
+
+1. Nf3 c5 2. c4 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bf4 (6. g3) 6... d5 7.
+e3 Bb4 8. Be2 O-O 9. O-O {White has an edge.} Bxc3 10. bxc3 Re8 11. Bg5 h6 12.
+Bh4 $146 (12. Bxf6 Qxf6 13. cxd5 exd5 14. Qb3 Rd8 {0-1 (68) So,W (2773)
+-Vachier Lagrave,M (2744) Baku 2015}) 12... g5 $1 13. Bg3 Ne4 14. Qc2 (14. Bd3
+Nxc3 15. Qh5) 14... e5 15. Nxc6 bxc6 16. cxd5 cxd5 17. Rfd1 Bf5 18. Qb3 Rb8 $36
+{Black has some pressure.} 19. Rxd5 $6 (19. Qa3) 19... Qc7 20. Qc4 Qxc4 21.
+Bxc4 Be6 22. Rxe5 Nxg3 ({And not} 22... Bxc4 23. Rxe4 $1 Rxe4 24. Bxb8 $16) 23.
+Rxe6 ({White should play} 23. Bb5 $15 Rxb5 24. Rxb5 Ne2+ 25. Kf1 Nxc3 26. Rc5)
+(23. Bxe6 Ne2+ 24. Kf1 Nxc3) 23... Ne2+ $17 24. Kf1 fxe6 25. Bxe2 {Endgame
+KRR-KRB} Rec8 26. Bd1 Rb2 27. Bb3 Kf7 28. Rd1 Rxc3 29. g4 (29. h3 $142) 29...
+Ke7 $19 30. Rd4 {[#]} a5 (30... Rc8 $1 $19 {White must now prevent ...Rf8.} 31.
+Ra4 Rf8 32. Rxa7+ Kd6 33. Ra6+ Kc5) 31. Re4 $17 Rc6 32. Kg2 Kf6 33. Rd4 Ke7 34.
+Re4 $1 Rd6 35. Kg3 Kf6 36. f4 Rb1 37. Re5 {[#]} (37. h4 $142) 37... a4 $1 38.
+Bxa4 gxf4+ 39. Kxf4 Rd3 {Strongly threatening ...Rf1+.} 40. Ra5 $2 (40. Bb5 $17
+{is tougher.} Rb4+ 41. Kf3) 40... Ra3 41. e4 {Now e5+ and White clings on.}
+Rf1# {Precision: White = 42%, Black = 63%.} 0-1
+

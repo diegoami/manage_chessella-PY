@@ -1,0 +1,47 @@
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.03"]
+[Round "1.1"]
+[White "Sambuev, Bator"]
+[Black "Wei, Yi"]
+[Result "1-0"]
+[ECO "D38"]
+[WhiteElo "2529"]
+[BlackElo "2748"]
+[Annotator "Sagar Shah"]
+[PlyCount "47"]
+[EventDate "2017.??.??"]
+[EventType "k.o."]
+[EventCountry "GEO"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. Nf3 {[%emt 0:00:00]} Nf6 {[%emt 0:00:20]} 2. c4 {[%emt 0:00:00]} e6 {
+[%emt 0:00:48]} 3. Nc3 {[%emt 0:00:00]} d5 {[%emt 0:00:16]} 4. d4 {[%emt 0:00:
+00]} Bb4 {[%emt 0:04:48]} 5. g3 $5 {[%emt 0:01:05] An interesting line against
+the Ragozin, taking the game into Catalan territory.} O-O {[%emt 0:01:17]} 6.
+Bg2 {[%emt 0:00:48]} dxc4 {[%emt 0:00:26]} 7. O-O {[%emt 0:00:11]} Nc6 {
+[%emt 0:00:24]} 8. a3 {[%emt 0:02:31]} Be7 {[%emt 0:05:54]} (8... Bxc3 9. bxc3
+Na5 10. a4 $44) 9. e4 {[%emt 0:00:29]} Na5 {[%emt 0:02:46]} 10. Be3 {[%emt 0:
+02:49] White doesn't really care about the c4 pawn much. He continues with his
+development.} Rb8 {[%emt 0:19:43]} (10... Ng4 11. Bf4 $13) 11. Qe2 {[%emt 0:06:
+13]} b5 {[%emt 0:02:16]} 12. Rad1 {[%emt 0:02:20] Solid central play.} Bb7 {
+[%emt 0:06:31]} 13. Ne5 {[%emt 0:07:57]} a6 {[%emt 0:13:59]} 14. g4 $1 {
+[%emt 0:02:09] This was the move that Sambuev was very proud of. He starts to
+create some pressure on his opponent with the idea of the pawn storm with g5
+followed by f4.} Ne8 {[%emt 0:05:49]} (14... Nd7 $5 15. f4 f6 $15) 15. d5 {
+[%emt 0:05:17]} exd5 {[%emt 0:02:10]} 16. Nxd5 {[%emt 0:02:30]} Nd6 {[%emt 0:
+07:00]} 17. g5 $5 {[%emt 0:08:48] Once again a poweful move. The idea is to
+continue with f4.} Bxd5 {[%emt 0:15:42]} (17... Bxg5 $5 18. Bxg5 Qxg5 19. Nd7
+Rbe8 20. Nxf8 Bxd5 $13) 18. Rxd5 {[%emt 0:01:10]} c6 {[%emt 0:00:45]} 19. Rdd1
+{[%emt 0:01:45]} Qc7 {[%emt 0:00:08]} 20. Qh5 {[%emt 0:03:46]} g6 $2 {[%emt 0:
+03:49] A very bad mistake by Wei Yi. White has a big advantage now.} (20...
+Rbd8 $13) 21. Qh6 {[%emt 0:07:50]} Nxe4 $2 {[%emt 0:01:31]} 22. Nd7 $1 {
+[%emt 0:01:48] Full credit to Sambuev for finding flaws in his opponent's
+calculation.} Nd6 {[%emt 0:00:45]} 23. Bh3 {[%emt 0:00:45] The knight has been
+stopped from coming to f5. Now Nf6+ is a big threat.} Rfd8 {[%emt 0:00:18]} 24.
+Rd4 $1 {[%emt 0:00:58] The idea is just Rh4 and there is no good way to stop
+it. Wei Yi had had enough.} 1-0
+

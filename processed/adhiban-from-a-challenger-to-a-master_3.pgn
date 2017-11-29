@@ -1,0 +1,26 @@
+[Event "Tata Steel Challengers"]
+[Site "?"]
+[Date "2016.01.19"]
+[Round "4"]
+[White "Ju Wenjun"]
+[Black "Adhiban, B."]
+[Result "0-1"]
+[ECO "A32"]
+[WhiteElo "2548"]
+[BlackElo "2653"]
+[Annotator "Adhiban"]
+[SetUp "1"]
+[FEN "2r5/3p1p2/1p2p2k/2n5/PKP2N1P/R5P1/2R5/5r2 b - - 0 41"]
+[PlyCount "11"]
+{[%tqu "White's king doesn't seem to be doing so great how would you exploit
+it?","","",d5,"Utilising the loosely placed pieces of white.",10]} 41... d5 $1
+{Utilising the loosely placed pieces of White.} 42. a5 ({The critical line was
+} 42. cxd5 {[%tqu "You should have seen how to proceed, otherwise it was bad
+idea to go for d5 :).","","",Rb1+,"",10]} Rb1+ 43. Kc3 {[%tqu "How to make use
+of the discovered attack on the c-file in the most convincing way?","","",e5,
+"",10]} e5 $1 {That's an important move and White is unable to hold on to all
+his pieces.} 44. Ne2 (44. Ng2 Nb3+ 45. Kd3 e4+) 44... Nb3+ 45. Kd3 e4+ $19)
+42... Rb1+ 43. Kc3 bxa5 44. cxd5 (44. Rxa5 d4+ $1 $19) 44... e5 $1 {The cool
+point. Inclusion of the additional threat of e5-e4 proves too much for White. I
+had seen this idea in the variation 42.cxd5.} 45. Ng2 Nb3+ 46. Kd3 e4+ { A nice
+technical win!} 0-1

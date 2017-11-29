@@ -1,0 +1,162 @@
+[Event "FIDE Grand Prix Palma 2017"]
+[Site "Palma de Mallorca"]
+[Date "2017.11.24"]
+[Round "8"]
+[White "Gelfand, Boris"]
+[Black "Radjabov, Teimour"]
+[Result "0-1"]
+[ECO "E18"]
+[WhiteElo "2719"]
+[BlackElo "2741"]
+[Annotator "Tiger Hillarp Persson"]
+[PlyCount "96"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e6 ({No one has been as persistent about playing} 2... g6 {
+as Radjabov, at such a high level, but lately he has turned to more classical
+openings. It is a mature decision. The dark squared openings are, generally
+speaking, more powerful when your opponent has to spend some time preparing
+against classical alternatives.}) 3. Nf3 b6 {This is already a small surprise
+as Radjabov usually heads for a QGD-set-up.} 4. g3 Bb7 ({The most popular
+continuation (and the main reason why so many try to avoid this opening) is} 
+4... Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Nc3 d5 8. cxd5 exd5 9. Bg2 O-O 10. O-O Re8 {
+as in, for instance, Nakamura,H (2785)-Karjakin,S (2780) GCT Rapid Paris 2017.
+b2-b3 makes it harder for White to put the rook on c1 without being harrassed,
+which is the main reason Black is happy to (soon) lose a tempo with Bc8-a6-b7.
+This would not be so much trouble for White if only the bishop could go to b2,
+and there we have the reason for the other tempo-loss: Bf8-b4-e7.}) 5. Bg2 Be7
+6. O-O O-O 7. Nc3 Ne4 8. Bd2 {This is a well trafficked crossroad for Black.}
+Nxd2 (8... Bf6 {is usually met with} 9. Rc1 (9. Be1 {is a promising
+alternative:} c5 10. Qc2 $5) 9... Nxd2 10. Qxd2 d6 {with similar play to the
+game.}) (8... f5 9. Ne5 Nxc3 10. Bxc3 Bxg2 11. Kxg2 Bf6 12. Qd3 d5 13. Rfd1 $14
+{L'Ami,E (2596)-Tiviakov,S (2677) Wijk aan Zee 2012.}) (8... d5 {is the
+traditional way, but after} 9. cxd5 exd5 10. Rc1 {White gets the kind of
+position that the 4...Ba6-line (see above) is aimed at avoiding.}) 9. Qxd2 d6
+10. Rad1 {I suspect there to be a deep reason why Gelfand prefers this move to
+10.e4, but I cannot find it. Apart from e4/d5, it is hard to see a good plan
+for White.} ({Beliavsky has experienced the position after} 10. e4 {from both
+sides:} Nd7 11. Rfe1 a6 12. Qe2 (12. Rad1 b5 13. cxb5 axb5 14. a3 c6 15. d5 e5
+16. dxc6 Bxc6 17. Nd5 {led to equality, in Huebner,R (2570)-Beliavsky,A (2605)
+17th Puhajarve Rapid 2016.}) 12... c5 13. d5 e5 14. h4 $1 {I quite like
+Beliavsky's plan here.} Rb8 15. a4 Nf6 16. Bh3 {White has played economically
+and - compared to our game - has avoided both b3 and Rad1 (which are two moves
+that seem less than optimal).} g6 17. Kg2 Kg7 18. Rh1 h5 {This set-up doesn't
+turn out well for Black, so an improvement should be sought for around here.}
+19. Ng5 Bc8 {A terrible concession for Black. White gets rid of his least
+wanted minor piece and keeps a free hand on the kingside, while Black has no
+real counterplay.} 20. Bxc8 Qxc8 21. Raf1 (21. f3 $1 Ne8 22. Nh3 Nc7 23. Nf2
+$14 {looks more flexible.} b5 24. axb5 axb5 25. cxb5) 21... Rb7 22. f3 Ne8 23.
+Rf2 (23. Nh3 Nc7) 23... Bxg5 24. hxg5 f6 {and Black had equalized although
+White eventually won, in Beliavsky,A (2605)-Livaic,L (2435) 26th TCh-SLO 2016.}
+) 10... Nd7 11. Rfe1 c5 {This is the only central break that comes into
+consideration here.} (11... e5 $2 12. Nxe5 $1) (11... d5 $6 12. cxd5 exd5 13.
+Qc2 {and White is perfectly coordinated to make life miserable for Black. Next,
+after} Re8 14. e4 dxe4 15. Nxe4 {is even worse than it at first seems, for
+Black. For instance} Nf6 16. Nxf6+ Bxf6 17. Rxe8+ Qxe8 18. Qxc7 {loses a pawn.}
+) 12. e4 {White will soon have to play d4-d5, or run out of constructive moves.
+e4 will help in all the structures that might possibly arise then.} a6 13. d5
+e5 $1 {So, even though it started as a light-squared opening (Queen's Indian)
+Radjabov has managed to get a typical dark-squared-opening pawn structure (Old
+Benoni style). He is back on his home turf. It does not matter very much that
+Black has the bishop pair here, but Be7 is quite well placed as it keeps Nf3
+from accessing h4, from where it would make f5 very hard to achieve. Black is
+not to happy about the placement of Bb7, which would be better placed on the
+c8-h3 diagonal, but the rook is equally off track on e1.} 14. b3 {If White is
+going to stop Black from playing b6-b5, then I see no reason not to play a2-a4
+immediately.} (14. a4 $1) (14. Rf1 b5) 14... g6 $1 {Black has two possible
+breaks: b6-b5 and f7-f5. The latter is no good unless Black can answer exf5
+with gxf5. Ergo: Black's last move.} (14... f5 $4 15. exf5 Rxf5 16. Qe2 {
+, followed by Bh3 and Black is completely lost. Radjabov spends a few moves
+preparing f5 before taking the leap.}) 15. Rf1 (15. h4 $5 {is a logical move
+here. The point is that the exchange of the h-pawns would benefit White
+somewhat as f7-f5 would leave the Black king much more exposed than is the
+case in the game.} h5 $6 16. a3 {and again it becomes hard for Black to play
+f7-f5:} f5 $2 17. Qh6 $18) 15... Bc8 16. Ne1 {Gelfand is following a
+traditional script on how to treat such a position. By re-routing the knight
+to d3, White finds coordination and is prepared to meet f5 with f4 (aiming for
+the e6-square).} Rb8 (16... b5 {After} 17. cxb5 axb5 18. Nxb5 Ba6 19. a4 Bxb5
+20. axb5 Qb6 21. Qd3 Ra5 22. Nf3 Qxb5 23. Qxb5 Rxb5 24. Nd2 Nb6 25. h4 {
+White seems to hold the balance comfortably. The engine comes up with the
+surprising} g5 $1 26. h5 (26. hxg5 Bxg5 27. f4 (27. Nc4 Nxc4 28. bxc4 Rb4 $15))
+26... g4 $1 27. Rfe1 Rb4 28. Bf1 f5 {when Black keeps some initiative. So,
+perhaps this is the more challenging move.}) 17. a4 f5 $1 {There is no
+convincing way for Black to prepare this break further, while it is not
+obviously bad, so it should be played.} (17... Bg5 18. Qe2 {and b5 has become
+out of the question.}) (17... Kh8 18. Nd3 (18. h4 $6 f5 19. h5 gxh5 $17 {
+[%cal Gh5h4]}) 18... f5 19. f4 Bf6 20. Kh1 Qe7 21. exf5 gxf5 22. fxe5 Nxe5 23.
+Nf4 Ng4 $13) 18. f4 (18. Nd3 Bg5 19. f4 exf4 20. gxf4 Bf6 {and White is
+struggling to keep Black's activity under the lid. For instance:} 21. exf5 gxf5
+22. Bh3 Bg7 23. Kh1 Qh4 {backfires.}) (18. Nf3 $5 {is not an easy move to play
+when you just came that way, but the f3-g5-idea makes it harder for Black to
+develp his initiative on the kingside:} Rf7 19. Bh3 Nf8 $5 20. Ne1 {Ha! We
+don't mind going back again.} Bd7 21. Nd3 $132) ({If White still had the dark
+squared bishop on the board, then} 18. exf5 gxf5 19. f4 Bf6 20. Kh1 e4 {
+, would be good for him. Here, however, Black's bishop is too strong and White
+can only hope for a successful defence.}) ({The most direct way to fight for
+the light squares (yes, I mean f5) is} 18. Bh3 Nf6 $1 19. Nc2 {[%cal Gc2e3]} f4
+(19... fxe4 20. Be6+ Bxe6 21. dxe6 Qc8 22. Ne3 Qxe6 23. Qc2 $44) 20. Be6+ Bxe6
+21. dxe6 Qc8 22. f3 Qxe6 23. gxf4 exf4 24. Qxf4 Nh5 25. Qd2 {with a complex
+game.}) 18... exf4 19. gxf4 fxe4 20. Nxe4 b5 {The game has opened up and the
+two most important factors in the position are Black's activity on the b-file
+and the weak e6-square. A race to set the opponent serious threats ensues.} 21.
+a5 {This move loses a tempo, which is why I would be reluctant to play it. I'm
+guessing that Gelfand's reasons for playing it were much more complex than my
+reasons for not to.} (21. axb5 axb5 22. Nf3 bxc4 23. bxc4 Nb6 $5 (23... Nf6 24.
+Nfg5 Nxe4 25. Bxe4 Bxg5 26. fxg5 {looks pretty equal to me.}) 24. Rc1 Bf5 25.
+Neg5 Bxg5 26. Nxg5 Qf6 {[%csl Rc4] and White has some problems to solve in
+order not to end up in a really depressing endgame.}) 21... bxc4 22. bxc4 Rb4
+23. Rc1 Nf6 24. Ng5 Qxa5 ({Possibly more precise is} 24... Ra4 $1 {, intending}
+25. Nd3 (25. Qe3 $2 Ng4 $19) (25. Ne6 Bxe6 26. dxe6 Qxa5 {is a better version
+of the game for Black, as the e6-pawn is well blockaded and rather obstructs
+White.}) 25... Ng4 $1 {which sets White some serious problems.}) 25. Nd3 Ra4
+26. Qe3 Qd8 ({Black loses important time here, but the alternative} 26... Re8
+27. Bh3 $1 Bf8 28. Be6+ Bxe6 29. Nxe6 {is even better for White.}) 27. Rce1 {
+White has the worst behind him.} Bf5 {Now the game gets very tense. The next
+few moves are very forcing and I presume that Radjabov had planned it up to
+move 33...Ra2, at least.} 28. Bh3 $1 {White's life depends on whether he can
+tuck a knight in on e6 without it being exchanged.} (28. Ne6 Qc8 $1 29. Bh3
+Rxc4 30. Bxf5 Nxd5 $1 31. Nxf8 Qxf5 32. Qf3 {Yes, we are in
+sample-line-territory by now.} Kxf8 33. Ne5 Rd4 34. Nc6 Rxf4 35. Nxe7 {is
+about equal, but only leaves Black with winning chances.}) 28... Nxd5 $3 {
+A splendid move, without which Black would be clearly worse.} 29. cxd5 Bxg5 30.
+Bxf5 Rxf5 31. Qe6+ Kg7 (31... Kh8 32. fxg5 Qxg5+ 33. Kh1 Ra2 34. Qe8+ Kg7 35.
+Qe7+ {leads to the game.}) 32. fxg5 Qxg5+ 33. Kh1 Ra2 {This is the position
+that Radjabov must have evaluated before playing 28...Nxd5 (and he must have
+spotted it at least a move before that, or Bf5 would not have made much sense).
+} 34. Qe7+ ({If White is interested in a draw (and has the time to look at the
+consequences) then} 34. Qe4 {is the safest bet:} Qd2 35. Qe7+ Kg8 (35... Kh6
+36. Qh4+ Rh5 37. Qf2 Qxf2 38. Nxf2 Rxd5 39. Ng4+ Kg5 40. Nf6 Rf5 41. Ne4+ $14)
+36. Qe8+ $11) 34... Qxe7 35. Rxe7+ Kf8 36. Ree1 $1 Rxf1+ {From a human point
+of view it seems to minimize White's tactical options to exchange a pair of
+rooks (and the human view is pretty much spot on here).} ({After} 36... a5 37.
+Nf4 a4 38. Ne6+ Kg8 39. Rb1 {things get complex-on-the-verge-of-out-of-hand:}
+a3 40. Rb8+ Kf7 41. Re1 Rb2 42. Rf8+ Ke7 43. Ra8 a2 44. Nd4+ Kf6 45. Nxf5 gxf5
+{and White can - and should - force a draw with} 46. Rg1 c4 47. Rg2 Rb1+ 48.
+Rg1) 37. Rxf1+ Ke7 38. Re1+ $6 {White is definitely under pressure here and
+possibly worse. The main problem is that the knight is awfully placed on d3.
+White's last move does nothing to remedy the situation and suddenly Black's
+advantage becomes clear.} (38. Nf2 $1 Rd2 (38... a5 39. Re1+ Kd7 40. Ne4 Ra4
+41. Nf6+ Kc7 42. Re7+ Kb6 43. Re6 {looks as dangerous for Black as it does for
+White.}) 39. Kg2 Rxd5 40. Ra1 {and White should be able to draw.}) 38... Kd7 {
+Now, due to the miss in move order, White is unable to get the knight to e4.}
+39. Re3 $6 (39. Kg1 $1 a5 (39... Rd2 $1 40. Nf2 Rxd5 41. Ra1 Kc6 42. Rxa6+ Kb5
+43. Ra7 Rh5 $15) 40. Nf2 a4 41. Ne4 a3 {and although Black is significantly
+faster than in the line after 38.Nf2, White is still able to hold the balance:}
+42. Nf6+ Kc7 (42... Kc8 43. Ne4 Kc7 44. Nc3) 43. Ne8+ Kb6 44. Nxd6 Rc2 45. Rb1+
+Ka5 46. Ne4 a2 47. Ra1 Kb6 48. h4 h6 49. Kf1 $11) 39... a5 $1 {"Passed pawns
+should be pushed". ...especially if they can not be blocked or caught.} 40. Rh3
+h5 41. Nf4 (41. Kg1 a4 42. Kf1 Kc7 43. Nf2 a3 44. Ne4) 41... a4 42. Nxg6 a3 43.
+Rf3 $2 {This makes winning a simple matter for Black, but it was already too
+late to save the game.} (43. Rc3 c4 $1 44. Rxc4 Rb2 45. Ra4 a2 {[%csl Rd5]
+[%cal Gb2b1] also wins for Black.}) (43. Nf8+ Kc8 44. Rb3 c4 $1 {A distraction!
+} 45. Rc3 Kb7 $1 46. Rxc4 Rb2 47. Nd7 a2 48. Ra4 Rb1+ 49. Kg2 a1=Q 50. Rxa1
+Rxa1 51. Nf6 Kb6 {and with the demise of the d5-pawn Black will win with ease.}
+52. Nxh5 Kc5 53. Nf4 Kd4 $19) 43... c4 $1 44. Nf4 (44. Rf7+ Kd8 45. Rf8+ Kc7
+$19) 44... Ra1+ 45. Kg2 a2 $1 46. Ra3 c3 $1 47. Ne2 $6 ({The fight could have
+continued a bit longer after} 47. Ra7+ Kc8 48. Nd3 Rd1 49. Rxa2 (49. Nc1 Rxc1
+50. Rxa2 c2) 49... Rxd3 50. Ra6 Kd7 51. Rc6 Ke7 52. Kf2 Kf6 $1 53. Rxd6+ (53.
+Ke2 Rh3 54. Rxd6+ Ke5 55. Rc6 Rxh2+ 56. Kd3 Kxd5 57. Rc8 c2 $19) 53... Ke5 54.
+Rd8 (54. Rc6 Kxd5) 54... Rd2+ 55. Ke3 Rxh2 $19) (47. Rxc3 Rg1+ $1) 47... c2 48.
+Kf2 Rh1 {Taking the pawn on a2 is met with Rxh2+ and Rxe2, so White resigned.}
+0-1
+

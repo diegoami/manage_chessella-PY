@@ -1,0 +1,58 @@
+[Event "European Team Championship"]
+[Site "?"]
+[Date "2017.11.01"]
+[Round "5"]
+[White "Ponomariov, Ruslan"]
+[Black "Dvirnyy, Danyyil"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2687"]
+[BlackElo "2542"]
+[Annotator "DF"]
+[PlyCount "65"]
+[EventDate "2017.11.02"]
+[WhiteTeam "Ukraine"]
+[BlackTeam "Italy"]
+[WhiteTeamCountry "UKR"]
+[BlackTeamCountry "ITA"]
+[WhiteClock "0:10:23"]
+[BlackClock "0:03:10"]
+
+{If the theme of round 4's best clashes (as judged by me) was the rook endgame,
+then round 5 was similarly characterised by... great attacking chess. We see a
+number of specimens, and then just as you were beginning to think I had woken
+up a bit, we return to our rook endings with extra b-pawns.} 1. e4 e6 2. d4 d5
+3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Be7 7. Ne2 Nc6 8. c3 Qb6 9. a3 O-O (9...
+a5 {is main here, presumably to avoid what happens in the game.}) 10. b4 cxd4
+11. cxd4 a5 12. b5 $1 {Previously played only in little-known games, but the
+only move to make any sense, and so Black could have expected this.} Qxb5 13.
+Nc3 Qb6 14. Rb1 Qd8 15. Bd3 a4 $5 {Risks looking a bit irrelevant.} (15... Nb6
+16. h4 f5 17. Nb5 Nc4 {would have got Black started a bit faster, since he
+doesn't really want to to play ...Qa5 anyway, and White was never going a4.})
+16. h4 f5 {Something must be done about the Greek gift.} 17. Nb5 $44 Re8 18. g4
+Nf8 {Black defends well for now.} 19. Qc2 Bd7 {Not bad at all; the idea of ...
+Rc8 makes White take on f5 now- at least once...} (19... fxg4 {is inhuman, and
+in fact terrible, thanks to} 20. Ng5 Bxg5 21. hxg5 g6 22. Kf2 {(for instance)
+when the machine learns the error of its ways.}) (19... Ra6 $5 {is an
+interesting bet, trying to use the squares left behind by captured men for
+good.} 20. gxf5 (20. Qg2 Na5 {Eventually, White must take, and then the 6th
+rank defence will be useful.}) 20... exf5 21. Bxf5 (21. Kf2 Ne6 $11) 21... g6
+22. Bxc8 Qxc8 $11 {when Black has extremely good light squares.}) 20. gxf5 exf5
+21. Bxf5 $6 (21. Bd2 $5 $14 {takes a time out before snacking on f5 to ensure
+that Black can't swap knights in a favourable way. The weakness of a4 is
+noteworthy in the line} Rc8 22. Qxa4 $14) 21... Nb4 $1 $15 {Inspired use of
+tactics — it was clearly this that Black had in mind two moves ago.} 22. axb4
+Bxb5 23. Qg2 $1 a3 $1 {I didn't want the pawn to be moved to a4, but since it
+was, it should be moved further...} 24. Rg1 {There really is no time for
+messing around.} Bxh4+ 25. Kd1 g6 26. Bc2 a2 (26... Re6 $132 {is unhelpfully
+suggested by the machine.} 27. f5 Rc6 {and Black has great counter-attacking
+chances based on Rxc2 motifs.}) 27. Ra1 Qc7 28. f5 $5 {For bravado: The
+initiative is far more important than taking pieces right now!} (28. Nxh4 Qc3
+29. Nxg6 {was objectively best, and should draw — but nobody tells you this
+during a game.} Be2+ 30. Kxe2 Qxc2+ 31. Ke1 Qc3+ 32. Kf2 Nxg6 $11) 28... Rec8
+$2 (28... Qc3 {should have been played anyway, and after} 29. fxg6 h6 $1 $19 {
+- a theme which gives me a flashback to Groszpeter-Fernandez, Kecskemet 2015...
+}) 29. fxg6 hxg6 30. Nxh4 {Since Black was not threatening even a check and
+this move now does, White gets in first.} Qc3 31. Qxd5+ Kh8 32. Nxg6+ Nxg6 33.
+Qh1+ $3 {Not the only mate, but we always play Qh1+ when we can, no?} 1-0
+

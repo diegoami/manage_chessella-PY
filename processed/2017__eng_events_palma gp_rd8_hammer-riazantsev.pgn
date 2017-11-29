@@ -1,0 +1,31 @@
+[Event "FIDE Grand Prix Palma 2017"]
+[Site "Palma de Mallorca"]
+[Date "2017.11.24"]
+[Round "8"]
+[White "Hammer, Jon Ludvig"]
+[Black "Riazantsev, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[WhiteElo "2629"]
+[BlackElo "2651"]
+[Annotator "A. Silver"]
+[SetUp "1"]
+[FEN "8/6kp/2R5/2P2P2/3p1P2/8/5K1r/8 w - - 0 58"]
+[PlyCount "45"]
+[EventDate "2017.??.??"]
+
+{[#]} 58. Kf3 d3 $2 (58... h5 $1 $11 {and Black was ok.}) {[%tqu "En","Black
+has now offered White a chance to win. How do you continue? White to play and
+win.","","","f3e4","Tit for tat",0,"f3e3","was the correct continuation. White
+will end up playing it in the game, but the loss of tempo was all the
+difference between the win and the draw.",10]} 59. Ke4 $2 {Tit for tat} (59.
+Ke3 $18 {was the correct continuation. White will end up playing it in the
+game, but the loss of tempo was all the difference between the win and the
+draw.} Rh3+ (59... d2 60. Rd6) 60. Kd2 {and White wins easily.}) (59. d2) 59...
+d2 $1 {The position is equal now.} 60. Rd6 {aiming for Ke3.} h5 $1 {This is
+what the tempo bought for Black.} 61. c6 h4 $1 62. f6+ Kg6 $1 63. f7+ Kxf7 64.
+Kf5 d1=Q 65. Rxd1 {Threatening c7 followed by Rd7+} Rc2 ({Ex:} 65... h3 $2 66.
+c7 Rc2 67. Rd7+ Ke8 68. Rd8+ Ke7 69. c8=Q) 66. Rd7+ Ke8 67. Rc7 Kd8 68. Rh7
+Rxc6 69. Rxh4 Ke7 70. Kg5 Kf7 71. f5 Ra6 72. Rh7+ Kf8 73. Rh6 Rxh6 74. Kxh6 Kf7
+75. Kg5 Kg7 76. f6+ Kf7 77. Kf5 Kf8 78. Kg6 Kg8 79. f7+ Kf8 80. Kf6 1/2-1/2
+

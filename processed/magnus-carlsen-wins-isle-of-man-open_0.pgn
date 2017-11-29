@@ -1,0 +1,48 @@
+[Event "IOM Open-Masters 2017"]
+[Site "Douglas"]
+[Date "2017.10.01"]
+[Round "9"]
+[White "Anand, Viswanathan"]
+[Black "Hou, Yifan"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "2794"]
+[BlackElo "2670"]
+[Annotator "Alex Yermolinsky"]
+[PlyCount "105"]
+[EventDate "2017.??.??"]
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Nf6 6. d4 d5 7. Bd3 Be7 8. O-O
+O-O 9. Re1 Bg4 10. Bg5 Nbd7 11. Nbd2 Re8 12. c3 c6 {Up to this point the game
+has the looks of a pre-arranged draw, but looks can be deceptive.} 13. Qc2 { On
+top of the extra tempo White has a more active Bd3 vs. Be7.} h6 ({The path to
+equality is wrought with hidden dangers.} 13... Nf8 {allows a standard
+build-up:} 14. Ne5 Bh5 15. f4 $1 {where} h6 16. Bxf6 Bxf6 17. Nf1 Bxe5 18. fxe5
+f6 19. Ng3 Bf7 20. Nf5 fxe5 21. dxe5 $16 {hardly brings any relief.}) 14. Bf4
+$1 ({Balck would make a big step towards safety in case of} 14. Bh4 Nh5 $1)
+14... Nh5 (14... Nf8 15. Ne5 Be6 16. Re2 $14) 15. Be5 Bg5 $6 ({On} 15... Bf6
+16. g3 $1 {cuts off the black knight on h5, as in} Bxe5 17. Nxe5 Nxe5 ({ a
+better try is} 17... Nhf6 {but White still keep a nagging pressure after} 18.
+Nxg4 Nxg4 19. Rxe8+ Qxe8 20. Nf3 Ngf6 21. Re1) 18. dxe5 Qc7 19. f4 g6 20. Nf1
+Ng7 21. Ne3 $14) 16. h3 Bxf3 {This one is a bigger concession than it might
+seem from the casual glance.} (16... Be6 17. Nxg5 Qxg5 (17... hxg5 18. Qd1 $1
+Nxe5 19. Bh7+ Kxh7 20. Qxh5+ Kg8 21. dxe5 {is a brilliant computer line
+designed to isolate and eventually win the g5-pawn.}) 18. Nf3 Qe7 19. Bh2 $16)
+17. Nxf3 Bf4 18. Bh7+ $1 {The point of this seemingly useless check is to drive
+the black king away from the center, which makes a world of difference in many
+lines, including the one given in the notes to Black's 23rd move.} Kh8 19. Bxf4
+Nxf4 20. Bf5 $1 {This move isolates Black's only active piece, Nf4 from the
+rest of his forces.} Qc7 21. Bxd7 Qxd7 22. Ne5 Qe6 23. Re3 {[#]} Kg8 ( 23...
+Ng6 24. Nxg6+ Qxg6 25. Qxg6 fxg6 26. Rae1 Rxe3 27. Rxe3 $16 {Had the black king
+been on g8, he would have been able to stop the white rook's invasion. Not
+here.}) 24. Rae1 Qc8 {This blunders away a pawn, but Black was in a dire need
+of good advice.} (24... Qd6 25. Qf5 Qf6 26. Qxf6 gxf6 27. Ng4 Rxe3 28. fxe3 Nd3
+29. Re2 {trapping the black knight.}) (24... Rf8 25. Qd1 Ng6 26. Nxg6 Qxg6 27.
+Re7) 25. Nxf7 $1 {A cobra-like strike!} Rxe3 26. Rxe3 Kxf7 27. Rf3 Kg8 {No
+choice,} ({since} 27... g5 28. Qh7+ {loses everything.}) 28. Rxf4 Qe6 29. Qf5
+Re8 30. Qxe6+ Rxe6 31. Kf1 {The rest is, as they say, a matter of technique,
+and Vishy has plenty left in that department.} a5 32. Rf3 Rg6 (32... Rd6 33.
+Ke2 h5 34. Kd3 g6 35. a4 Kg7 {seems a slightly better defensive formation.})
+33. a4 Rd6 34. Ke2 Rd8 35. Kd3 Rb8 36. Rf5 b5 37. axb5 Rxb5 38. Kc2 Rb7 39. f4
+Rb8 40. g4 a4 41. Re5 Kf7 42. f5 Ra8 43. Re6 Rc8 44. Re5 Ra8 45. h4 a3 46. bxa3
+Rxa3 47. Kb2 Ra8 48. g5 hxg5 49. hxg5 Rb8+ 50. Kc2 Rh8 51. Re6 Rh5 52. g6+ Kf8
+53. f6 1-0

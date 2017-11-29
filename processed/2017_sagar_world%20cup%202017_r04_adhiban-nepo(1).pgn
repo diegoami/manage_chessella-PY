@@ -1,0 +1,55 @@
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi GEO"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Adhiban, Baskaran"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[ECO "B96"]
+[WhiteElo "2670"]
+[BlackElo "2741"]
+[Annotator "Sagar Shah"]
+[PlyCount "55"]
+[EventDate "2017.09.03"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:05]} 2. Nf3 {[%emt 0:00:00]} d6 {[%emt 0:
+00:03]} 3. d4 {[%emt 0:00:00]} cxd4 {[%emt 0:00:06]} 4. Nxd4 {[%emt 0:00:00]}
+Nf6 {[%emt 0:00:06]} 5. Nc3 {[%emt 0:00:00]} a6 {[%emt 0:00:04]} 6. Bg5 {
+[%emt 0:00:00] Adhiban goes for the sharpest line against the Sicilian Najdorf.
+} e6 {[%emt 0:00:04]} 7. f4 {[%emt 0:00:03]} Nbd7 {[%emt 0:00:04]} ({The last
+time that Adhiban and Nepo played each other the game continued} 7... h6 8. Bh4
+Qb6 9. a3 Nbd7 10. Bc4 e5 11. fxe5 dxe5 12. Nf5 g6 13. Nd5 Nxd5 14. Qxd5 Rh7
+15. O-O-O gxf5 16. exf5 Be7 17. Bxe7 Kxe7 18. Rhf1 Qf6 19. Bb3 Rh8 20. Rf3 Re8
+21. Ba4 Rd8 22. Rg3 b5 23. Qxa8 bxa4 24. Rc3 Nb6 25. Qa7+ Rd7 26. Rc7 Kd8 27.
+Rdxd7+ Nxd7 28. Rc3 Qd6 29. Qa8 Nc5 30. Qa7 Nd7 31. Rg3 Ke7 32. Rd3 Qc6 33. Rc3
+Qxg2 34. Rxc8 Qh1+ 35. Kd2 Qxh2+ 36. Kc3 Qh3+ 37. Kb4 Qxf5 38. Qc7 e4 39. Qd8+
+Kd6 40. Qc7+ Ke7 41. c4 e3 42. Qd8+ Kd6 43. Qc7+ Ke7 44. Qd8+ Kd6 45. Qc7+ {
+1/2-1/2 (45) Adhiban,B (2653)-Nepomniachtchi,I (2767) Wijk aan Zee 2017}) 8.
+Bc4 {[%emt 0:07:10] Adhiban played this move after some thought} b5 $6 {
+[%emt 0:04:33] This is already a mistake.} (8... Qb6 9. Bxf6 Nxf6 10. Bb3) 9.
+Bxe6 $1 {[%emt 0:00:11] This has been played 66 times before, and it seems as
+if Black is in deep trouble. It is surprising that Nepo played something which
+essentially gives him a position with just two outcomes - draw or loss.} fxe6 {
+[%emt 0:00:18]} 10. Nxe6 {[%emt 0:00:01]} Qb6 {[%emt 0:02:11]} 11. Nd5 $1 {
+[%emt 0:00:06]} Nxd5 {[%emt 0:00:50]} 12. Qxd5 {[%emt 0:00:03]} Nb8 $5 {
+[%emt 0:19:24] After the game I asked Nepo if he had prepared this and he said,
+no, he thought of this over the board. And this is the only move to stay in
+the game.} (12... Qe3+ $2 {is the other move that has been played here.} 13.
+Kf1 $18 {But after this, it seems that Black is utterly lost.}) 13. Nxf8 {
+[%emt 0:28:34]} Rxf8 {[%emt 0:03:21]} 14. Qxa8 {[%emt 0:01:13]} Bb7 {[%emt 0:
+03:28]} (14... Qe3+ 15. Kf1 Rxf4+ 16. Bxf4 Qxf4+ {This position might look
+like a perpetual, but it is not because after} 17. Ke2 Bg4+ 18. Kd3 $18 {
+Black has no checks.}) (14... h6 15. O-O-O hxg5 16. Qd5 gxf4 17. Qh5+ $16) 15.
+Qxb8+ {[%emt 0:00:44]} Kf7 {[%emt 0:00:07]} 16. Qxf8+ {[%emt 0:00:29]} Kxf8 {
+[%emt 0:00:06]} 17. O-O-O {[%emt 0:01:00]} Bxe4 {[%emt 0:00:34] How do we
+assess this position? It seems as if White is surely better, but the bishop on
+e4 is very strong. White has to be accurate to break this configuration.} 18.
+Rd2 $6 {This move throws away all of White's advantage.} (18. Rhe1 {This was
+correct way to begin.} d5 19. Rd2 {The idea is to now transfer the bishop to
+d4 via h4-f2. White is surely better here.} b4 (19... Qa5 20. a3 b4 21. Bd8 $1
+Qb5 22. Bc7 $1 bxa3 23. Bd6+ $16) 20. f5 (20. Bh4 Qa5) 20... a5 21. Be3 $16)
+18... h6 19. Bh4 Qa5 $1 {Now it is not so easy to defend the a2 pawn.} 20. Re1
+(20. a3 b4 $132) 20... Qxa2 21. Rxd6 Qa1+ 22. Kd2 Qa4 23. Rd8+ Kf7 24. b3 Qa5+
+25. Kd1 Qa1+ 26. Kd2 Qa5+ 27. Kd1 Qa1+ 28. Kd2 {A very interesting fight with
+theoretical interest as well as some nice variations.} 1/2-1/2
+

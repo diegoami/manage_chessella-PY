@@ -1,0 +1,76 @@
+[Event "Aeroflot Open 2016"]
+[Site "Moscow"]
+[Date "2016.03.06"]
+[Round "6"]
+[White "Kamsky, Gata"]
+[Black "Salem, A R  Saleh"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2667"]
+[BlackElo "2629"]
+[Annotator "Elshan Moradiabadi"]
+[PlyCount "85"]
+[EventDate "2016.??.??"]
+[EventCountry "RUS"]
+[TimeControl "40/6000+30:20/3000:900+30"]
+
+{Round six of the Aeroflot Open saw a nice strategic victory by the
+several-times "Candidate", Super-GM Gata Kamsky!} 1. e4 {96} c5 {[%emt 0:00:00]
+} 2. Nf3 {[%emt 0:00:04]} d6 {[%emt 0:00:00]} 3. d4 {[%emt 0:00:04]} cxd4 {
+[%emt 0:00:00]} 4. Nxd4 {[%emt 0:00:04]} Nf6 {[%emt 0:00:01]} 5. Nc3 {[%emt 0:
+00:05]} a6 {[%emt 0:00:05]} 6. a4 {[%emt 0:00:04] No surprise! This rare line
+is Gata's "pet" line against Najdorf. One of the famous occasions, in which
+Gata employed it is during his "Candidates" match against Topalov in 2011.
+Another top-level player, who regularly employs this line is British no.1
+Michael Adams.} Nc6 {[%emt 0:00:52]} (6... e5 7. Nf3 Be7 8. Bg5 ({The world
+champion has a different opinion on this position!} 8. Bc4 O-O 9. O-O Be6 10.
+Bxe6 fxe6 11. a5 Nc6 12. Be3 Qd7 13. Re1 Rae8 14. Bb6 Bd8 $13 {1/2-1/2 (48)
+Carlsen,M (2864) -Gelfand,B (2755) Moscow 2013}) 8... Be6 9. Bxf6 Bxf6 10. Nd5
+Nd7 11. Bc4 Rc8 $11 {1/2-1/2 (37) Kamsky,G (2732)-Topalov,V (2775) Kazan 2011})
+7. a5 {[%emt 0:00:27] This move is actually Gata's "Novelty" against Topalov
+in 2011.} Nxa5 {Young talent, Salem, takes the challenge. Topalov's reaction
+was less drastic back in 2011.} (7... e6 8. Nxc6 bxc6 9. Bd3 Be7 10. O-O c5 11.
+Bf4 Qc7 12. Qe2 Bb7 13. e5 Qc6 14. f3 Nh5 15. Bd2 c4 16. Bxc4 dxe5 17. b3 Rd8
+18. Rad1 Qc5+ 19. Kh1 Nf4 $132 {1/2-1/2 (41) Kamsky,G (2732)-Topalov,V (2775)
+Kazan 2011}) 8. Nd5 {[%emt 0:00:45] I hope my memory is not failing me, but I
+think this move was studied by the "Chess Evolution" team, extensively back in
+2011.} e6 9. Nxf6+ {[%emt 0:00:45]} gxf6 {[%emt 0:00:02]} 10. Bd2 {[%emt 0:00:
+06]} Nc6 {[%emt 0:00:31]} 11. Nxc6 {[%emt 0:00:05]} bxc6 {[%emt 0:00:01]} 12.
+Bd3 {[%emt 0:00:06]} h5 $146 (12... d5 13. O-O Bb7 14. Qe2 Bg7 15. exd5 cxd5
+16. Ra4 $36 {1-0 (31) Bajarani,U (2471)-Rasulov,V (2512) Baku 2014} (16. Qg4 $1
+$16)) 13. O-O d5 {[#] It is time to turn off engines, sit back, and evaluate
+the position. White is a pawn down, and Black has a great 'pack' of pawns in
+the center. However, Black king's does not have a real safe place to go to,
+and in the long-run Black has a lot of difficulty to mobilize his pieces. In
+addition, Black has a number of weaknesses on the queenside, notably the
+a-pawn, which would fall once White manages to mobilize his pieces on the
+queenside.} 14. Ba5 Qd6 {135} 15. Bc3 {138} Be7 {1005} 16. Ra4 {536} e5 {437}
+17. Qe2 {71} Bg4 {336} 18. f3 {[%emt 0:00:39]} Be6 {125} 19. Kh1 $1 {[%emt 0:
+00:55] Computers do not like this move, but I do! This move parries all the
+possible tactical tricks and prepares White to set-forth pressure on the
+queenside.} h4 {206} 20. h3 {[%emt 0:00:40] Obvious prevention} Rg8 21. Rfa1 {
+92} Qb8 {This move proves how hard this position is for a human to play. The
+fall of the a-pawn is now inevitable, and with it comes the fall of Black's
+position.} 22. b4 {167} (22. b3 {is equally good if not better.}) 22... Bd7 {
+264} 23. Rxa6 {413} Rxa6 {[%emt 0:00:02]} 24. Rxa6 {[%emt 0:00:08]} Qc8 {
+[%emt 0:00:53]} 25. Qf1 {[%csl Gf1,Yh3][%cal Gf1h3,Yd7h3] Gata parries Bxh3.}
+Bd8 {116} 26. Be1 $1 {[%csl Rh4][%cal Ye1h4] Now, Black's pawns prove to be
+ill-structured and Gata makes sure to grab them one after another!} Rh8 {
+[%emt 0:00:33]} 27. Bf2 {120} d4 {[%emt 0:00:36] [#]} 28. Kh2 (28. c3 $1 dxc3
+29. Qa1 Bxh3 30. Ra8 {was a neater and more classy continuation. Gata's choice
+is equally good and in essence. Black is strategically lost.}) 28... Bc7 {
+[%emt 0:00:07]} 29. b5 $1 {137} (29. c3 $1 dxc3 30. Qa1 {is another way to win
+this game!}) 29... cxb5 {[%emt 0:00:55]} 30. Bxb5 {[%emt 0:00:06]} Ke7 {
+[%emt 0:00:27]} 31. Be1 {[%emt 0:00:09]} Kf8 {[%emt 0:00:43]} (31... Bd6 32.
+Ra7 $18 {and Black is busted.} Rd8 33. Ba5) 32. Bxd7 {147} Qxd7 {[%emt 0:00:01]
+} 33. Rxf6 {[%emt 0:00:24] It is White who is a pawn up. The rest is "just a
+matter of technique", which Gata takes care of with caution and patience.} Rh5
+{[%emt 0:00:43]} 34. Qa6 {1258} Kg7 {[%emt 0:00:42]} 35. Bd2 {[%emt 0:00:13]}
+Bd8 {[%emt 0:00:31]} 36. Rd6 {150} Qc7 {[%emt 0:00:17]} 37. Rc6 {[%emt 0:00:12]
+} Qd7 {[%emt 0:00:18]} 38. Rh6 {377} Rg5 {[%emt 0:00:02]} 39. Qd6 {360} Qe8 {
+[%emt 0:00:01]} 40. Rxh4 {[%emt 0:00:00]} Rg6 {[%emt 0:00:00]} 41. Rg4 {154}
+Rxg4 {278} 42. fxg4 {[%emt 0:00:00]} Kg8 {[%emt 0:00:00]} 43. g5 {[%emt 0:00:
+38] Gata's patience and game plan was simple and deep. I believe that Salem's
+loss was as a result of dubious opening choice rather a poor play. The
+position was already hard to handle right out of the opening.} 1-0
+

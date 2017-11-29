@@ -1,0 +1,1888 @@
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Grachev, Boris"]
+[Result "1-0"]
+[WhiteElo "2804"]
+[BlackElo "2654"]
+[Annotator "TA"]
+[PlyCount "79"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d5 4. e5 Nfd7 5. e6 (5. d4 e6 6. dxc5 Nc6 7. Bf4
+Bxc5 8. Bd3 h6 9. Bg3 g5 10. h3 a6 11. Qd2 b5 12. a3 Bb7 13. O-O Qe7 14. Ne2
+Rg8 15. c3 h5 16. Ned4 h4 17. Bh2 {1-0 (34) Mozharov,M (2555)-Najer,E (2646)
+Moscow 2014}) 5... fxe6 6. Bb5 {[#] Black must now prevent Ng5. B29: Sicilian:
+2 Nf3 Nf6 (Nimzowitsch Variation)} Nc6 (6... a6 $142 7. Bxd7+ Bxd7) 7. O-O g6
+$146 ({Find the theoretical novelty and annotate with similar games:} 7... Qc7
+8. Re1 Nd4 9. Nxd4 cxd4 10. Ne2 e5 11. c3 Qb6 12. Qb3 {1-0 (22) Peuraniemi,P 
+(2474)-Krasevec, A (2292) ICCF corr 2000}) 8. Qe2 {The position is equal.} Bg7
+9. Qxe6 Nb6 (9... Nde5 $1 $11 {keeps the balance.} 10. Qxd5 Qxd5 11. Nxd5 Nxf3+
+12. gxf3 Kf7) 10. Bxc6+ $16 bxc6 11. Qxc6+ Bd7 12. Qxc5 d4 13. Ne4 (13. Nxd4
+Rc8 $17) 13... Rc8 14. Qa3 O-O 15. d3 ({Wrong is} 15. Qxa7 $2 Bc6 $19) 15... h6
+16. Re1 Kh7 (16... Rf7 $16 17. Bd2 (17. Qxa7 Ra8 $11) 17... Rxc2) 17. c4 ({
+And not} 17. Qxa7 Rxf3 18. Bxh6 (18. gxf3 Ra8 $11) 18... Kxh6 $11) 17... dxc3
+18. Nxc3 Bc6 19. Qxe7 ({White should play} 19. Rxe7 $18 Rc7 20. Rxc7 Qxc7 21.
+Ne4) 19... Bxf3 20. gxf3 Rc7 21. Qxd8 Rxd8 22. Bf4 Rf7 23. Be3 Bxc3 24. bxc3
+Rxd3 25. Bd4 Nd5 26. Rad1 Rdxf3 27. c4 $36 {Black is under strong pressure.}
+Nb4 28. Rd2 R3f4 $2 (28... Rc7 $16 {keeps fighting.} 29. Re3 Rxe3 30. Bxe3 Kg7)
+29. Re8 $18 g5 $2 (29... Rf8 30. Rxf8 Rxf8) 30. Be5 {White is clearly winning.}
+Rg4+ 31. Kf1 Nc6 32. Bb2 Rgf4 33. Rh8+ Kg6 34. Rd6+ Kf5 35. Rxc6 Kg4 {[#]} 36.
+h3+ $1 Kxh3 37. Rhxh6+ Kg4 38. Rhf6 Rb7 39. Be5 Kf3 40. Bxf4 {Precision: White
+= 68%, Black = 48%.} 1-0
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Kramnik, Vladimir"]
+[Black "Demchenko, Anton"]
+[Result "1-0"]
+[WhiteElo "2803"]
+[BlackElo "2650"]
+[Annotator "TA"]
+[PlyCount "87"]
+[EventDate "2017.??.??"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 O-O 5. Bg2 d6 6. d4 Nbd7 7. O-O Re8 {
+LiveBook: 37 Games} 8. a4 {A49:1 d4 Nf6 2 Nf3 g6 3 g3: Anti-King's Indian
+systems} (8. c4 e5 9. dxe5 Ng4 10. Qd2 dxe5 11. h3 Nh6 12. Ng5 Nf8 13. Qxd8
+Rxd8 14. Nc3 f6 15. Nf3 Ne6 16. Rfd1 Bd7 17. e3 Nf7 18. Rd2 {0-1 (42) Mirzoev,
+A (2541)-Demchenko,A (2645) Konya 2017}) 8... Rb8 9. c4 $146 ({Find the
+theoretical novelty and annotate with similar games:} 9. Na3 a6 10. Qd3 e5 11.
+dxe5 Ng4 12. Nc4 Ngxe5 13. Nfxe5 Nxe5 14. Nxe5 Bxe5 15. Bxe5 dxe5 16. Qxd8 Rxd8
+17. Rad1 {1/2-1/2 (17) Regis,G (2129)-Mueller Ludwig,K (2089) Germany 2005})
+9... e5 10. dxe5 {White has an edge.} Ng4 11. a5 dxe5 12. h3 Nh6 {Threatens to
+win with ...e4.} 13. e4 f6 14. b4 Nf8 15. Nc3 Be6 16. Qe2 Qc8 17. Kh2 Nf7 18.
+Rfd1 $36 {White is pushing.} c6 19. Bc1 f5 20. Be3 b6 21. axb6 axb6 22. Rac1
+Qc7 23. Nd5 cxd5 (23... Qb7 $142) 24. cxd5 $16 Qe7 {Hoping for ...Bd7.} 25.
+dxe6 Nxe6 26. exf5 gxf5 {[#]} 27. Qb5 $1 f4 28. gxf4 ({Inferior is} 28. Bxb6
+Qb7 $17) 28... exf4 29. Rd7 Qf6 30. Bd2 Rbc8 31. Rxc8 ({Don't take} 31. Qxb6 $6
+Rxc1 32. Bxc1 Ne5 $18) 31... Rxc8 32. Qxb6 Rc2 33. Qb7 Bf8 34. Qe4 Qg6 35. Qd5
+Qf6 36. h4 {Strongly threatening Bh3.} Bg7 $2 (36... Rc7 37. Bh3 Rxd7 38. Qxd7
+Ned8) 37. Bh3 $18 Nf8 38. Rb7 h6 39. Bg4 Rb2 40. Bh5 Ng6 41. Bxg6 Qxg6 42. Rb8+
+(42. h5 $142 Qf6 43. Bc3 Rxf2+ 44. Kg1 Rd2 45. Bxd2 Kh8 46. Rb8+ Nd8 47. Bc3)
+42... Bf8 43. Ne5 Rxd2 {[#]} 44. Rxf8+ $1 {Precision: White = 78%, Black = 41%.
+} 1-0
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Kuzubov, Yuriy"]
+[Result "1/2-1/2"]
+[WhiteElo "2797"]
+[BlackElo "2688"]
+[Annotator "TA"]
+[PlyCount "55"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. Bf4 dxc4 6. e3 {[%emt 0:00:05] D37:
+Queen's Gambit Declined: Bf4} b5 7. Nxb5 Bb4+ 8. Nc3 Nd5 9. a3 Nxc3 10. Qd2 Nd5
+{LiveBook: 6 Games} 11. axb4 Nxf4 12. exf4 Nb6 $146 ({Find the theoretical
+novelty and annotate with similar games:} 12... Bb7 13. Be2 O-O {1/2-1/2 (34)
+Nakamura,H (2787)-Karjakin,S (2773) Bilbao 2016}) 13. Be2 Bb7 14. O-O O-O 15.
+Ne5 Qd6 16. Rfd1 Rfb8 17. Ra5 f6 18. Nxc4 Nxc4 19. Bxc4 Bxg2 $1 20. Kxg2 (20.
+Rc5 $5 Bd5 21. Bxd5 exd5 22. Rdc1 $11) 20... Qc6+ {The position is equal.} 21.
+d5 Qxc4 22. Rc5 (22. Rc1 $5 Qe4+ 23. f3 Qg6+ 24. Kh1 $11) 22... Qe4+ 23. f3
+Qg6+ 24. Kh1 Rd8 25. Rg1 Qf7 26. dxe6 Rxd2 27. exf7+ Kf8 28. Rxc7 {Precision:
+White = 69%, Black = 97%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Anand, Viswanathan"]
+[Black "Kovalyov, Anton"]
+[Result "0-1"]
+[WhiteElo "2794"]
+[BlackElo "2649"]
+[Annotator "TA"]
+[PlyCount "86"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nb3 Be6 {
+B90: Sicilian Najdorf: Unusual White 6th moves, 6 Be3 Ng4 and 6 Be3 e5} 8. Be3
+h5 9. Be2 Nbd7 {LiveBook: 3 Games. White is slightly better.} 10. O-O Rc8 11.
+Qd2 $146 ({Predecessor:} 11. a4 Nb6 12. Nd2 d5 13. Bxb6 Qxb6 14. exd5 Nxd5 15.
+Nxd5 Bxd5 16. Bxh5 Qxb2 {1/2-1/2 (106) Yu,Y (2675)-Chu,W (2257) China 2013})
+11... b5 (11... Be7 $11 {keeps the balance.}) 12. Rfd1 Nb6 13. Bxb6 Qxb6 14. a4
+b4 15. Nd5 Nxd5 (15... Bxd5 16. exd5 Ne4 17. Qe1 $11) 16. exd5 Bd7 17. a5 Qb7
+$1 18. Qe3 Be7 19. Qb6 Qxb6 20. axb6 {Threatens to win with b7.} Rb8 $1 21.
+Rxa6 {Rda1 is the strong threat.} Bd8 22. b7 Ke7 23. Nc5 $2 (23. Ra8 $16 Rxb7
+24. Na5) 23... dxc5 $17 24. d6+ Kf6 25. Bf3 Kf5 $1 26. Bd5 $1 e4 27. Re1 Bf6
+28. Bxe4+ Kg5 29. Ra5 ({White should try} 29. h4+ $15 Kxh4 30. g3+ Kg5 31. Ra5)
+29... Bxb2 30. Rxc5+ Kf6 $1 31. Re3 g6 32. Rf3+ Ke6 $1 33. Rd3 Rhd8 34. Ra5 {
+[#]} (34. f4 $17) 34... f5 (34... h4 $1 $19) 35. Bf3 Bc3 36. h4 Kf6 37. g3 {[#]
+} (37. Ra8 $17) 37... f4 $1 $19 38. Be4 (38. gxf4 Bf5) 38... Bf5 39. Bxf5 gxf5
+40. Rb5 Ke6 41. Kf1 $2 (41. gxf4 {might work better.} Rd7 42. Re3+ Kxd6 43.
+Rxf5) 41... Rd7 (41... Rxd6 $2 42. Rxd6+ Kxd6 43. gxf4 $17) 42. gxf4 Rbxb7 ({
+But not} 42... Rdxb7 43. Re3+ Kxd6 44. Rxf5 $19) 43. Re3+ $2 (43. Rc5) 43...
+Kf6 {Precision: White = 52%, Black = 80%.} 0-1
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "So, Wesley"]
+[Black "Bluebaum, Matthias"]
+[Result "1/2-1/2"]
+[WhiteElo "2792"]
+[BlackElo "2633"]
+[Annotator "TA"]
+[PlyCount "92"]
+[EventDate "2017.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Ne2 {
+C11: French: Classical System: 4 e5 and 4 Bg5 dxe4} (8. Qd2 b5 9. Be2 Be7 10.
+O-O O-O 11. a3 Rb8 12. Kh1 Qc7 13. dxc5 Nxc5 14. b4 Ne4 15. Nxe4 dxe4 16. Nd4
+Nxd4 17. Bxd4 {1/2-1/2 (36) Vachier Lagrave,M (2791)-Bluebaum,M (2642)
+Dortmund 2017}) 8... Qb6 9. Qc1 {LiveBook: 10 Games} f6 {And now ...cxd4 would
+win.} 10. c3 {White is slightly better.} Be7 11. exf6 Nxf6 $146 ({Predecessor:
+} 11... gxf6 12. Qd2 cxd4 13. Nexd4 Nc5 14. Nxc6 Qxc6 {1/2-1/2 (46) Kharlamov,
+V (2474)-Loginov,A (2241) ICCF email 2007}) 12. dxc5 Bxc5 13. Bxc5 Qxc5 14.
+Ned4 O-O 15. Be2 Bd7 16. O-O Rae8 17. Qe3 Ng4 18. Qd2 e5 19. fxe5 Ngxe5 20.
+Nxe5 Nxe5 21. Rxf8+ Rxf8 22. Re1 Nc4 23. Bxc4 dxc4 24. Re3 b5 25. a3 h6 26. Qe1
+Qg5 27. Qg3 (27. h3 {with more complications.} Qg6 28. Kh2 Kh7 29. Re7 Rf7 30.
+Rxf7 Qxf7 31. Qe5) 27... Qxg3 28. Rxg3 $11 {Endgame KRB-KRN} Rf6 29. Rf3 Rd6 (
+29... Kf7 $5) 30. Kf2 Rd5 (30... Bc6 $5 31. Rf4 Bd5 $11) 31. Ke3 Re5+ 32. Kf4
+Re7 33. h4 (33. Re3 $5 g5+ 34. Kf3 Bg4+ 35. Kf2 $11) 33... Bc8 34. Rf2 Bb7 35.
+Rd2 Re4+ 36. Kg3 Re3+ 37. Kf2 Re4 (37... Re8 {seems wilder.} 38. Nf3 Kf7 39. a4
+Bxf3 40. Kxf3 Rf8) 38. g3 (38. Nf3 $5) 38... Re7 39. Re2 Rf7+ 40. Ke1 Kh7 41.
+Re5 Bc8 42. Re2 Kg6 {The position is equal.} 43. Rf2 Re7+ 44. Re2 Rf7 45. Rf2 (
+45. Re8 $5 Bb7 46. Re5 $11) 45... Re7+ 46. Re2 Rf7 {Precision: White = 72%,
+Black = 69%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Karjakin, Sergey"]
+[Black "Dubov, Daniil"]
+[Result "1/2-1/2"]
+[WhiteElo "2780"]
+[BlackElo "2666"]
+[Annotator "TA"]
+[PlyCount "59"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 Rb8 13. a4 bxa4 {B33:
+Sicilian: Pelikan and Sveshnikov Variations} 14. Ncb4 Nxb4 15. cxb4 Bd7 16.
+Bxa6 O-O 17. O-O Qe8 {LiveBook: 3 Games} 18. b3 axb3 $1 19. Qxb3 {[#]} Bd8 $146
+({Predecessor:} 19... Kh8 20. Bd3 Bd8 21. Ra6 {0-1 (71) Zawadzka,J (2419)
+-Dubov,D (2660) Minsk 2017}) 20. Bc4 Kh8 21. Ra2 Bc6 22. Rb1 f5 23. exf5 Rxf5
+24. Kh1 Qf8 25. Qd3 e4 ({But not} 25... Rxf2 $2 26. Rxf2 Qxf2 27. Rf1 $18) ({
+Better is} 25... g6 $11) 26. Qxe4 $14 Rb5 27. Rd1 ({White should try} 27. Rd2
+$14 Re5 28. Bxb5 Rxe4 29. Bxc6) 27... Rxb4 $1 $11 {The position is equal.} 28.
+Qe2 Rb8 29. f3 Bg5 30. Qd3 {Precision: White = 63%, Black = 47%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Svidler, Peter"]
+[Black "Erdos, Viktor"]
+[Result "1/2-1/2"]
+[WhiteElo "2756"]
+[BlackElo "2619"]
+[Annotator "TA"]
+[PlyCount "35"]
+[EventDate "2017.??.??"]
+
+1. c4 e6 2. Nc3 d5 3. d4 a6 4. cxd5 exd5 5. Qb3 (5. Nf3 Nf6 6. Bg5 Be6 7. h3
+Nbd7 8. e3 h6 9. Bf4 Bb4 10. Bd3 c5 11. dxc5 Nxc5 12. O-O Bxc3 13. bxc3 O-O {
+1/2-1/2 (27) Volkov,S (2637)-Ponomariov,R (2692) Linares 2017}) 5... c6 {
+LiveBook: 5 Games} 6. e4 {D31: Queen's Gambit Declined: Semi-Slav without ...
+Nf6 (+ Marshall Gambit and Noteboom) and Exchange Variation lines without ...
+Nf6} dxe4 7. Bc4 Qe7 $1 8. a4 {White has an edge.} Nf6 9. Nge2 {White has
+compensation.} g6 $146 ({Predecessor:} 9... Bf5 10. O-O Bg6 11. f4 exf3 12.
+Rxf3 Qd7 {1-0 (23) Schlechter,C-Janowski,D Monte Carlo 1902}) 10. O-O Bg7 $1
+11. Ng3 O-O 12. Re1 b5 13. axb5 cxb5 {[#]} 14. Bxb5 $1 Qb7 (14... axb5 15. Rxa8
+) 15. Ba4 Qxb3 16. Bxb3 Nc6 17. Rd1 (17. d5 $5 Nd4 18. Ba4 $14) 17... Bg4 18.
+Nge2 {Precision: White = 81%, Black = 96%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Yu, Yangyi"]
+[Black "Jobava, Baadur"]
+[Result "1/2-1/2"]
+[WhiteElo "2750"]
+[BlackElo "2702"]
+[Annotator "TA"]
+[PlyCount "36"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nf6 6. d4 Be7 7. Bd3 Nc6 8.
+O-O O-O 9. a3 Bg4 10. Be2 d5 {The position is equal.} 11. h3 {C01: French:
+Exchange Variation} (11. Bg5 Re8 12. Re1 Ne4 13. Bxe7 Rxe7 14. Qd3 Nxc3 15.
+bxc3 g6 16. Qd2 Kg7 17. h3 Bxf3 18. Bxf3 {1/2-1/2 (16) Andersen,I (2157)
+-Schultz Pedersen,J (2230) Hillerod 2010}) 11... Bf5 $146 ({Predecessor:} 11...
+Bxf3 12. Bxf3 Re8 13. Re1 Bd6 14. Bg5 h6 15. Rxe8+ Qxe8 16. Bxf6 gxf6 17. Bxd5
+Qd7 18. Qd3 Re8 {1/2-1/2 (33) Kammrad,C (1054)-Mohr,F Winterberg 2002}) 12. Bd3
+Be4 13. Be3 Re8 14. Ne5 Bd6 15. Nxc6 bxc6 16. Bg5 Bxd3 17. Qxd3 h6 18. Bh4 Re6
+1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Wei, Yi"]
+[Black "Rapport, Richard"]
+[Result "1/2-1/2"]
+[WhiteElo "2748"]
+[BlackElo "2675"]
+[Annotator "TA"]
+[PlyCount "49"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. O-O a6 (5... Be7 6. c4 O-O 7. Nc3
+Bg4 8. Bxc6 bxc6 9. h3 Bxf3 10. Qxf3 Nd7 11. Be3 Bf6 12. b4 Re8 13. a4 Nf8 14.
+b5 Qd7 15. Rfb1 Ne6 16. bxc6 Qxc6 {0-1 (44) Anand,V (2786)-Kramnik,V (2808)
+Stavanger 2017}) 6. Bxc6+ {C66: Ruy Lopez: Steinitz Defence} bxc6 {LiveBook:
+28 Games} 7. Re1 c5 8. c3 {White is slightly better.} Bg4 9. h3 $146 ({
+Predecessor:} 9. Nbd2 Be7 10. h3 Bh5 11. Nf1 O-O 12. Ng3 Bxf3 13. Qxf3 {
+1/2-1/2 (28) Areshchenko,A (2654)-Postny,E (2652) Germany 2015}) 9... Bxf3 10.
+Qxf3 Be7 11. Be3 Qb8 12. b3 a5 13. d4 a4 14. Nd2 axb3 15. axb3 cxd4 16. cxd4
+O-O 17. Rxa8 Qxa8 18. dxe5 {The position is equal.} dxe5 19. Rc1 Qb7 20. Qf5
+Re8 21. Qxe5 Bd6 22. Qf5 Nxe4 23. Nxe4 Qxe4 24. Qxe4 Rxe4 25. Bc5 {Precision:
+White = 67%, Black = 76%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Harikrishna, P."]
+[Black "Sethuraman, S P."]
+[Result "1/2-1/2"]
+[WhiteElo "2741"]
+[BlackElo "2617"]
+[Annotator "TA"]
+[PlyCount "48"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. h3 h5 {C67: Ruy Lopez: Berlin Defence: 4 0-0 Nxe4} 10. Nc3 Ke8
+11. Ne2 b6 12. Rd1 Ba6 {LiveBook: 10 Games} 13. Ned4 Nxd4 14. Nxd4 c5 15. Nf5
+Be2 {[#]} 16. Re1 $146 (16. Rd2 $5 Bc4 17. Ne3 $11) ({Predecessor:} 16. Rd2 Bc4
+17. Ne3 Be6 18. Nd5 {0-1 (63) Kurnosov,I (2676)-Karjakin,S (2760) Moscow 2010})
+16... Bc4 17. Bg5 Be6 18. Ne3 Be7 19. Bxe7 Kxe7 20. f4 {Threatening f5.} g6 21.
+Re2 Rad8 22. Rf1 h4 (22... Bf5 $5) 23. f5 gxf5 24. Nxf5+ Bxf5 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Le, Quang Liem"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "0-1"]
+[WhiteElo "2739"]
+[BlackElo "2702"]
+[Annotator "TA"]
+[PlyCount "140"]
+[EventDate "2017.??.??"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 h6 7. Bh4 O-O {
+D38: Queen's Gambit Declined: Ragozin Defence (4 Nf3 Bb4)} 8. e3 Bf5 9. Qb3
+Bxc3+ {The position is equal.} 10. Qxc3 Nbd7 11. Be2 $146 ({Predecessor:} 11.
+Nd2 Rc8 12. Be2 c5 13. O-O Qb6 14. Rfc1 Rfe8 15. Kf1 {1/2-1/2 (40) Karjakin,S 
+(2783) -Harikrishna,P (2755) Shamkir 2017}) 11... c6 12. Nd2 Ne4 13. Bxd8 Nxc3
+14. bxc3 {Threatens to win with Bh4.} Rfxd8 15. f3 c5 16. Kf2 Rac8 17. Rhc1 Rc7
+18. e4 dxe4 19. fxe4 Bg6 20. Bf3 Ne5 21. Ke3 Nc6 (21... Rcd7 $5 22. Nb3 Nc4+
+23. Kd3 Nb2+ 24. Kc2 Na4 $15) 22. Nb3 (22. d5 $5 Ne5 23. g4 $15) 22... cxd4+
+23. cxd4 Re7 24. g4 f6 25. Re1 Bf7 $36 {White is under strong pressure.} 26.
+Rad1 Nb4 27. Rd2 Rc7 {And now ...Nc2+ would win.} 28. Kf2 {[#]} Nxa2 $1 29. d5
+(29. Rxa2 Bxb3) 29... Nc3 30. Nd4 Rc4 31. Re3 Be8 (31... Kf8 $17) 32. Bg2 (32.
+Ne6 $11 {remains equal.} Rdc8 33. e5) 32... Nb5 ({Better is} 32... Bd7 $17 33.
+Bf1 Rcc8) 33. Nxb5 $1 $11 Bxb5 34. Bf1 (34. Rb2 $11 Rc5 35. Bf3) 34... Rc5 35.
+Bxb5 Rxb5 $17 {Endgame KRR-KRR} 36. Rc3 Rd7 37. Ke3 Kf7 38. Rdc2 a5 39. Rc7 Ke7
+40. Rc8 a4 41. Ra8 {[#]} Rb4 $1 42. Kd3 Rd8 43. Ra7 Kd6 {Strongly threatening .
+..Re8.} 44. Rc4 Rxc4 45. Kxc4 {KR-KR} Ke5 46. Rxb7 {[#]} (46. Kd3 $17) 46...
+Ra8 $1 $19 47. Rb2 a3 ({Weaker is} 47... Kxe4 48. Re2+ Kf3 49. Ra2 $15) 48. Ra2
+$2 (48. Rb1) 48... Kxe4 49. d6 {Kc5 is the strong threat.} Ke5 50. Kc5 {
+Hoping for d7.} Rc8+ 51. Kb4 Kxd6 52. Rxa3 Rc7 53. Re3 Kd5 54. h3 g6 55. Re8 (
+55. Rd3+ $142 Ke5 56. Re3+ Kf4 57. Re6) 55... f5 56. Rg8 Rc6 57. Kb5 Rf6 58.
+gxf5 gxf5 59. Rd8+ Ke4 60. Re8+ Kf3 61. Kc4 Rd6 62. Kc5 Rd1 63. Rh8 f4 64. Rxh6
+Kg3 {Black mates.} 65. Rg6+ Kxh3 66. Rf6 Kg3 67. Rg6+ Kf2 68. Kc4 f3 69. Kc3
+Kf1 70. Kc2 Rd5 {Precision: White = 36%, Black = 80%.} 0-1
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Fedoseev, Vladimir"]
+[Black "Inarkiev, Ernesto"]
+[Result "1-0"]
+[WhiteElo "2731"]
+[BlackElo "2694"]
+[Annotator "TA"]
+[PlyCount "73"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Be2 O-O 8.
+Nb3 d6 9. g4 a6 {LiveBook: 3 Games. B72: Sicilian Dragon: 6 Be3, lines with
+h3+Bc4 and sidelines} (9... d5 $5) (9... Be6 10. g5 Nd7 11. h4 Nb6 12. f4 Nc4
+13. Bxc4 Bxc4 14. Qf3 Nb4 15. Rh2 Qc7 16. Bd4 Bxd4 17. Nxd4 {0-1 (34) Tomczak,
+J (2585) -Moranda,W (2588) Poland 2015}) 10. h4 $146 (10. g5 $5 Nd7 11. f4 $11)
+({Predecessor:} 10. g5 Nd7 11. Qd2 b5 12. h4 Bb7 13. h5 Rc8 14. f4 {0-1 (39)
+Wu,C (2377)-Escalante Ramirez,B (2302) Khanty-Mansiysk 2016}) 10... b5 11. h5
+b4 {The position is equal.} 12. Nd5 e6 13. Nb6 Rb8 14. Nxc8 Qxc8 (14... Rxc8
+$11 15. Bxa6 Rb8) 15. Qxd6 $16 {[#] And now hxg6 would win.} e5 16. O-O-O a5
+17. hxg6 hxg6 18. g5 Rd8 19. Qc5 $36 {Keeping Black busy.} ({Don't play} 19.
+gxf6 Rxd6 20. Rxd6 Bf8 $15) 19... Nd7 20. Qd5 Nb6 21. Qb5 Nd5 22. Qa4 ({
+Inferior is} 22. exd5 Rxb5 23. Bxb5 Nd4 $17) 22... Nxe3 23. fxe3 Qc7 (23...
+Rxd1+ $16 24. Rxd1 Ra8) 24. Bc4 Nd4 (24... Rbc8 $142 25. Rdf1 Rf8) 25. Nxa5 $18
+(25. exd4 Qxc4 26. Nxa5 Qa6 $16) 25... Ra8 26. exd4 Qxc4 27. Nxc4 Rxa4 28. dxe5
+Re8 29. Kb1 Bxe5 30. Nb6 Ra7 31. Nd5 Kg7 32. Rh3 Ra4 (32... Rb8 {was necessary.
+} 33. Rdh1 Rd7 34. Rh7+ Kg8) 33. Rdh1 {aiming for Rh7+.} Rd8 (33... Ra5 $142
+34. Nxb4 Kf8) 34. Rh7+ Kg8 35. Ne7+ Kf8 36. Nc6 Re8 {[#]} 37. Rh8+ $1 {
+Precision: White = 86%, Black = 57%.} 1-0
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Bacrot, Etienne"]
+[Black "Bu, Xiangzhi"]
+[Result "1/2-1/2"]
+[WhiteElo "2728"]
+[BlackElo "2714"]
+[Annotator "TA"]
+[PlyCount "45"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8.
+Nbd2 Nxd2 9. Bxd2 Bg4 10. c3 O-O {C42: Petroff Defence: 3 Nxe5 and unusual
+White 3rd moves} 11. h3 Bh5 12. g3 Qd7 13. Kg2 {LiveBook: 8 Games} Rfe8 (13...
+Bg6 14. Ne1 Bd6 15. Qg4 Qxg4 16. hxg4 Rfe8 17. Bxg6 hxg6 18. Nd3 {1/2-1/2 (37)
+Caruana,F (2810)-Dominguez Perez,L (2713) Dortmund 2016}) 14. Qc2 Bg6 $146 ({
+Find the theoretical novelty and annotate with similar games:} 14... Bxf3+ 15.
+Kxf3 g6 16. Kg2 Bd6 17. Rae1 Ne7 18. Re2 {1/2-1/2 (55) Baklan,V (2621)
+-Costachi,M (2428) Calimanesti Caciulata 2016}) 15. Bxg6 hxg6 16. Rfe1 b6 17.
+Bf4 Bd6 18. Bxd6 Qxd6 19. Re2 Re7 20. Rxe7 Nxe7 21. Re1 f6 22. h4 Qd7 23. Ng1
+1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Matlakov, Maxim"]
+[Black "Andreikin, Dmitry"]
+[Result "1/2-1/2"]
+[WhiteElo "2728"]
+[BlackElo "2708"]
+[Annotator "TA"]
+[PlyCount "45"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 a6 4. Nc3 d5 5. cxd5 exd5 6. Bg5 {[%emt 0:00:05] D37:
+Queen's Gambit Declined: Bf4} (6. Qb3 b5 7. Bg5 Be6 8. Qc2 Nbd7 9. e3 c5 10.
+dxc5 Bxc5 11. Bd3 h6 12. Bh4 Rc8 13. O-O O-O {1/2-1/2 (39) Gelfand,B (2728)
+-Mamedyarov,S (2800) Geneve 2017}) 6... Be6 7. e3 Nbd7 8. Bd3 Bd6 9. O-O c6 {
+LiveBook: 11 Games} 10. Bf4 Qc7 11. Bxd6 Qxd6 12. h3 $146 ({Predecessor:} 12.
+Ng5 O-O 13. Qc2 h6 14. Nxe6 Qxe6 {1/2-1/2 (55) Sorokin,A (2469)-Rakhmanov,A 
+(2670) Sochi 2017}) 12... O-O 13. Qc2 a5 14. Nd2 Rfe8 15. Rae1 Nb6 16. f4 Bd7
+17. g4 c5 {The position is equal.} 18. dxc5 Qxc5 19. Nb3 Qe7 20. g5 Ne4 21.
+Bxe4 dxe4 22. Qg2 a4 23. Nd4 {Precision: White = 66%, Black = 81%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Vitiugov, Nikita"]
+[Black "Najer, Evgeniy"]
+[Result "1/2-1/2"]
+[WhiteElo "2728"]
+[BlackElo "2694"]
+[Annotator "TA"]
+[PlyCount "132"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Nge2 a6 7. Bg5 {E81:
+King's Indian: Sämisch: 6th move deviations (including 6 Be3 c6)} (7. Ng3 Nbd7
+8. Be2 c6 9. O-O b5 10. Be3 Rb8 11. Rf2 Qc7 12. Rc1 b4 13. Na4 c5 14. d5 e6 15.
+b3 Re8 16. Qd2 exd5 17. cxd5 Nb6 18. Nxb6 Qxb6 {1-0 (34) Aronian,L (2780)-Van
+Wely,L (2695) Wijk aan Zee 2017}) 7... b5 8. Qd2 Nbd7 9. Ng3 c5 10. d5 Qa5 11.
+cxb5 {LiveBook: 4 Games} axb5 $146 ({Find the theoretical novelty and annotate
+with similar games:} 11... Nb6 12. Be2 axb5 13. O-O b4 14. Nd1 Ba6 15. Ne3 Bxe2
+16. Nxe2 Qb5 17. b3 Ra6 18. Rac1 {1-0 (38) Miton,K (2638)-Zhigalko,A (2532)
+Warsaw 2006}) 12. Nxb5 ({Better is} 12. Bxb5 $14 Ba6 13. Bxa6 Qxa6 14. Nge2)
+12... Qxd2+ $11 13. Bxd2 Ba6 14. a4 Rfb8 {Threatens to win with ...Bxb5.} 15.
+Rb1 Ne8 16. b3 Rb7 17. Kd1 h5 18. Na3 h4 19. Bxa6 Rxa6 20. Ne2 Ne5 21. Rf1 (21.
+Nc3 $16) 21... c4 22. bxc4 Rxb1+ 23. Nxb1 Rxa4 24. Kc2 Rxc4+ 25. Nbc3 f5 26.
+Bf4 Nd7 27. Kd3 Rb4 28. Be3 Ne5+ 29. Kc2 Nc4 30. Bc1 Kf7 31. Nf4 Nc7 32. g4
+hxg3 33. hxg3 Ne5 34. Bd2 Nc4 35. Bc1 $1 Ne5 36. Bd2 Rc4 37. Kb3 Na6 38. Ne6
+Bf6 39. Bg5 Nc5+ (39... Rb4+ {keeps more tension.} 40. Kc2 Nc4 41. Nd1 Bxg5 42.
+Nxg5+ Kf6) 40. Nxc5 Rxc5 41. Bxf6 Kxf6 $15 {Endgame KRN-KRN} 42. f4 Ng4 (42...
+Nc4 $5 43. Rd1 Rc8 $15) 43. Ra1 Kf7 44. Ra4 Nf6 ({Black should play} 44... Ne3
+$17 {With the idea ...Nf1.} 45. Ra1 fxe4 46. Nxe4 Rxd5) 45. exf5 $11 {The
+position is equal.} gxf5 46. Rc4 Ra5 47. Ra4 Rxa4 48. Kxa4 {KN-KN} Kg6 {
+...Ne4 is the strong threat.} 49. Kb5 $1 Kh5 {aiming for ...Kg4.} 50. Kc6 $1
+Kg4 51. Ne2 Kf3 52. Nd4+ Ke4 53. Ne6 Nxd5 {Strongly threatening ...Nf6.} 54.
+Kd7 Kf3 (54... Ne3 $5 55. Kxe7 Nf1 $11) 55. Nd4+ Ke4 56. Ne6 Kd3 {And now ...
+Kc4 would win.} 57. Ng5 $1 Kc3 58. Ke6 Ne3 59. Kxe7 d5 60. Ke6 $1 d4 {[#]} 61.
+g4 $1 fxg4 (61... Nxg4 62. Kxf5) 62. f5 {[#] Black must now prevent f6.} Nxf5
+$1 63. Kxf5 d3 64. Kxg4 d2 65. Ne4+ Kc2 {[#]} 66. Nxd2 $1 Kxd2 {Precision:
+White = 68%, Black = 59%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Navara, David"]
+[Black "Cheparinov, Ivan"]
+[Result "1-0"]
+[WhiteElo "2720"]
+[BlackElo "2695"]
+[Annotator "TA"]
+[PlyCount "63"]
+[EventDate "2017.??.??"]
+
+1. c4 e6 2. Nc3 Nf6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. bxc3 Qxf6 7. Nf3 e5 8. d4
+Nc6 {A18: English Opening: Flohr-Mikenas System (1 c4 Nf6 2 Nc3 e6 3 e4)} 9.
+Bg5 Qg6 10. d5 Nb8 11. h4 h6 12. h5 Qd6 {LiveBook: 4 Games} 13. Be3 Nd7 14. Qa4
+{[#]} (14. c5 $5 Nxc5 15. Bb5+ Nd7 16. c4 $11) 14... Qa3 $146 ({Predecessor:} 
+14... c6 15. Rd1 {1-0 (67) Nakamura,H (2787)-Caruana,F (2795) Saint Louis 2016}
+) 15. Qb3 (15. Qc2 {with more complications.} Bc5 16. Bc1 Qa5 17. Bd3 O-O 18.
+O-O) 15... a5 (15... Qa5 $15) 16. Qc2 Qd6 17. Bd3 Be7 18. Rd1 a4 19. O-O O-O
+20. Rfe1 b6 21. Bh7+ Kh8 22. Bf5 Qf6 23. g4 Qd6 24. Bc1 a3 25. Bxd7 ({Better is
+} 25. Qe2 $14) 25... Bxd7 $11 26. Nxe5 Ba4 27. Qf5 Bxd1 28. Nxf7+ Rxf7 29. Qxf7
+Bh4 $1 {[#] And now ...Bc2 would win.} (29... Qd7 $6 30. Re6 $16) 30. g5 $1 (
+30. Rxd1 $2 Rf8 $19) 30... Ba4 $2 ({Avoid the trap} 30... Rf8 $2 31. Re8 $18) (
+30... Bxg5 $11 31. Bxg5 (31. Rxd1 $2 Bxc1 32. Rxc1 Rf8 $19) 31... hxg5 32. Rxd1
+Rf8) 31. Re7 $18 Bxf2+ $2 (31... Rg8 {is more resistant.}) 32. Kh1 {Precision:
+White = 66%, Black = 59%.} ({Stronger than} 32. Kxf2 Qh2+ 33. Ke3 Rg8 $11) 1-0
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Tomashevsky, Evgeny"]
+[Black "Vallejo Pons, Francisco"]
+[Result "1/2-1/2"]
+[WhiteElo "2710"]
+[BlackElo "2717"]
+[Annotator "TA"]
+[PlyCount "75"]
+[EventDate "2017.??.??"]
+
+1. Nf3 d5 2. g3 Bf5 3. Bg2 e6 4. O-O Nf6 {[#]} 5. c4 $1 c6 (5... dxc4 6. Ne5)
+6. Qb3 Qb6 7. d3 {A11: English Opening: 1... c6} Nbd7 8. cxd5 exd5 9. Qc2 Qc5
+10. Qd1 $146 ({Predecessor:} 10. Qa4 Qb4 11. Qd1 Be7 12. a3 Qb6 13. Nc3 Bg4 14.
+b4 O-O {1/2-1/2 (44) Giri,A (2775)-Grischuk, A (2761) Geneve 2017}) 10... Be7
+11. Nc3 Rd8 12. Be3 Qa5 13. a3 $36 {White has good play.} a6 14. b4 Qc7 15. Bf4
+Bd6 16. Bxd6 Qxd6 17. e4 Bg4 18. exd5 Nxd5 19. Re1+ Ne7 20. Qe2 Nf6 21. Qe3 Qc7
+22. Ng5 h6 23. Nge4 Nd7 24. d4 {[#] Black must now prevent d5!} (24. Nd2 {
+keeps more tension.} Nf8 25. Nc4 Ne6 26. Na4 O-O 27. Nc5) 24... O-O {The
+position is equal.} 25. Nc5 Nxc5 26. Qxe7 (26. dxc5 $5 Rd7 27. Bf3 $11) 26...
+Qxe7 27. Rxe7 Nb3 28. Rae1 Nxd4 29. Rxb7 Rfe8 30. Rbe7 Rxe7 31. Rxe7 Nb5 32. h3
+{aiming for Nxb5.} Be6 33. Nxb5 cxb5 34. Ra7 Rd1+ 35. Kh2 Rd2 36. Kg1 Rd1+ 37.
+Kh2 Rd2 38. Kg1 {Precision: White = 57%, Black = 76%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Wang, Hao"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo "2701"]
+[BlackElo "2737"]
+[Annotator "TA"]
+[PlyCount "143"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 h6 5. Bxf6 Qxf6 6. e3 g6 {LiveBook: 8
+Games. D30: Queen's Gambit Declined: Systems without Nc3} 7. Qb3 $146 ({
+Find the theoretical novelty and annotate with similar games:} 7. Nbd2 Bg7 8.
+Bd3 O-O 9. O-O Nd7 10. b4 Qe7 11. Qb3 c6 12. a4 Rd8 13. a5 Rb8 14. Rfd1 {
+0-1 (43) Kryakvin,D (2554)-Riazantsev,A (2651) Sochi 2016}) 7... c6 8. Nbd2 Bg7
+{The position is equal.} 9. Bd3 O-O 10. O-O Qe7 11. Rac1 Nd7 12. Rfe1 a5 13. a3
+dxc4 14. Nxc4 a4 15. Qc3 b6 16. Nfe5 Bxe5 17. dxe5 Ba6 18. Be4 Bxc4 19. Qxc4
+Nxe5 20. Qd4 Qf6 21. f4 ({Much weaker is} 21. Qxb6 Rab8 $15) 21... Ng4 22. Qxf6
+Nxf6 23. Bxc6 Ra5 24. Red1 Rc8 25. h3 Nd5 26. Kf2 Ne7 27. Bf3 Rac5 28. Rxc5
+Rxc5 $14 {Endgame KRB-KRN} 29. Rd8+ Kg7 30. Bd1 Nd5 (30... b5 $11) 31. Bxa4 $16
+Rc1 32. Bb3 Rb1 33. Bxd5 Rxb2+ 34. Kf3 exd5 35. Rxd5 {KR-KR} b5 36. g4 Rb3 37.
+h4 Rxa3 38. Rxb5 Ra1 39. h5 gxh5 40. Rxh5 Ra3 41. Rd5 Rb3 42. Ke4 Ra3 43. Rd6
+Rb3 44. Rd3 Rb5 45. Rd5 Rb3 46. Ra5 Kf6 47. Ra8 Kg7 48. Rd8 (48. Ra6 {is more
+complex.} Rb1 49. Ra5 Re1 50. Rc5 Ra1 51. Rb5) 48... Ra3 49. Rd3 Ra5 50. Kf3 ({
+White should try} 50. Rd1 $16) 50... Ra1 (50... f6 $1 $14) 51. Rd5 Ra3 52. Re5
+Ra4 53. g5 (53. Re7 $16) 53... hxg5 $14 54. Rxg5+ Kf8 55. e4 f6 56. Rb5 Kf7 57.
+Rb7+ Kf8 58. Rc7 Rb4 59. Ra7 Rc4 60. Ra3 Kf7 61. Re3 Kg6 62. Ra3 Kf7 63. Ra7+
+Kf8 64. f5 Rb4 65. Kg4 {Black should prevent Kh5.} (65. Ra6 $5 Kf7 66. Ra7+ Ke8
+67. Ra6 $14) 65... Rxe4+ 66. Kh5 {Threatening Kg6.} Kg8 67. Kg6 {[#] Intending
+Ra8+ and mate.} Rg4+ 68. Kxf6 {Ra8+ is the strong threat.} Rf4 (68... Rc4 $1
+$11) 69. Ra8+ Kh7 70. Ke6 {Threatens to win with f6.} Kg7 {intending ...Re4+.}
+71. Ra7+ Kg8 72. Ra8+ {Precision: White = 54%, Black = 63%.} (72. Kf6 $16)
+1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[WhiteElo "2698"]
+[BlackElo "2727"]
+[Annotator "TA"]
+[PlyCount "41"]
+[EventDate "2017.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. g3 Ngf6 6. Nxf6+ Nxf6 7. Bg2 e5 {
+C10: French with 3 Nc3: Unusual Black 3rd moves and 3. ..dxe4} (7... c5 8. Ne2
+Be7 9. O-O O-O 10. c3 h6 11. Qb3 Qb6 12. Rd1 Rd8 13. Be3 Qa6 14. c4 Ng4 15.
+dxc5 Nxe3 16. Rxd8+ Bxd8 17. Qxe3 Bf6 {1-0 (45) Harikrishna,P (2737)-Hort,V 
+(2428) Biel 2017}) 8. Nf3 exd4 9. Qxd4 Be7 {White has an edge.} 10. Bf4 O-O 11.
+O-O-O c6 12. Rhe1 {[#] Threatens to win with Qe5.} Qxd4 13. Nxd4 {[#]} Bc5 $146
+({Predecessor:} 13... Bb4 14. c3 Bc5 15. Bg5 Bxd4 16. Rxd4 {1-0 (49) Kadric,D 
+(2481)-Kritz,L (2593) Richardson 2014}) 14. Bg5 Bb6 15. c3 Bd7 16. Bxf6 gxf6
+17. Be4 Rfd8 18. f3 Be6 19. Nxe6 fxe6 20. Rxd8+ (20. Bd3 $14) 20... Rxd8 $11
+21. Rd1 {Precision: White = 84%, Black = 64%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Rodshtein, Maxim"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2738"]
+[Annotator "TA"]
+[PlyCount "55"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 O-O 7. Bg2 d5 8.
+cxd5 Nxd5 9. Qb3 Qa5 10. Bd2 Nc6 11. Nxc6 bxc6 12. O-O {[#] And now Nxd5 would
+win.} Bxc3 {[%emt 0:00:04] E20: Nimzo-Indian: g3 and 4 f3} 13. bxc3 {
+Threatening Rad1.} Ba6 14. Rfd1 {aiming for c4.} Qc5 15. e4 (15. c4 Qxc4 16. e4
+Nb6 17. Rdc1 Qxb3 18. axb3 Bb5 19. Be3 Rfb8 20. Bf1 {1/2-1/2 (37) Bukavshin,I 
+(2655)-Jakovenko,D (2759) Chita 2015}) 15... Bc4 16. Qa4 Nb6 17. Qb4 Qh5 {
+Hoping for ...Rad8.} 18. Re1 c5 {The position is equal.} 19. Qa5 Rfc8 20. Bf4
+e5 $146 21. Be3 Be6 22. Rab1 ({Wrong is} 22. Bxc5 $2 Nc4 $19) 22... h6 23. Bf1
+Bh3 24. Be2 (24. Bxc5 $2 Bxf1 25. Rxf1 Nc4 $19) 24... Bg4 25. Ba6 Bh3 26. Be2 (
+26. Bxc5 $2 {[#]} Qf3 $1 $19) 26... Bg4 27. Bf1 Bh3 28. Be2 {Precision: White
+= 66%, Black = 76%.} ({Don't go for} 28. Bxc5 $2 Bxf1 29. Rxf1 Nc4 $19) 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Artemiev, Vladislav"]
+[Black "Radjabov, Teimour"]
+[Result "1/2-1/2"]
+[WhiteElo "2692"]
+[BlackElo "2742"]
+[Annotator "TA"]
+[PlyCount "97"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Nc6 4. d3 Na5 5. Qf3 Nxc4 (5... d6 6. Nge2 Be7 7. h3
+O-O 8. O-O Be6 9. b3 Qd7 10. a4 Rad8 11. Ba3 Ne8 12. Qe3 a6 13. f4 Nxc4 14.
+bxc4 exf4 15. Nxf4 {1/2-1/2 (45) Rublevsky,S (2681)-Jakovenko,D (2704)
+Khanty-Mansiysk 2016}) 6. dxc4 {C28: Vienna Game: 2.. .Nf6 3 Bc4 Nc6} d6 7.
+Nge2 Be7 8. O-O O-O {LiveBook: 4 Games} 9. a4 Be6 (9... Bg4 $5 10. Qd3 Be6 $11)
+10. b3 Nd7 $146 ({Find the theoretical novelty and annotate with similar games:
+} 10... c6 11. Rd1 Qc7 12. Ba3 Rfd8 13. h3 {0-1 (53) Laarhoven, T-Swinkels,R 
+(2286) Vlissingen 2006}) 11. Ng3 Bg5 12. Nf5 Bxc1 13. Raxc1 g6 14. Ne3 a5 15.
+Rcd1 Nc5 16. Qg3 Qf6 $1 17. f3 Qg7 18. Qe1 b6 19. Ned5 f5 20. exf5 Rxf5 21. Qd2
+Raf8 22. Ne4 Bxd5 23. Qxd5+ Qf7 24. Rfe1 h5 25. Qxf7+ R8xf7 26. Nc3 g5 27. Nd5
+Kh7 28. Ne3 R5f6 29. Rd2 Ne6 30. c3 Rg6 31. b4 Rg8 32. Rb1 Ra8 33. Ra1 axb4 (
+33... Rf4 $15) 34. cxb4 $11 Nd4 {[#] White must now prevent ... Nb3.} 35. Raa2
+c6 (35... Nc6 $5) 36. b5 Rc7 37. Rdb2 Ne6 38. Rd2 Nd4 39. Kf2 Kg6 40. Rdb2 Nf5
+41. Rd2 (41. c5 $5 Nxe3 42. cxb6 Nd1+ 43. Kf1 Nxb2 44. Rxb2 cxb5 45. bxc7 $11)
+41... Nd4 42. bxc6 Rxc6 43. Nd5 Ra7 {The position is equal.} 44. Rdb2 Rxc4 45.
+Rxb6 Rcxa4 46. Rxd6+ Kg7 47. Rxa4 Rxa4 48. Rd7+ Kg6 49. Rd6+ {Precision: White
+= 59%, Black = 68%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Onischuk, Alexander"]
+[Black "Wojtaszek, Radoslaw"]
+[Result "1/2-1/2"]
+[WhiteElo "2682"]
+[BlackElo "2739"]
+[Annotator "TA"]
+[PlyCount "83"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Bb4+ 5. Nbd2 dxc4 6. a3 {E01: Catalan:
+Early deviations} (6. Bg2 b5 7. a4 c6 8. O-O a5 9. Qc2 O-O 10. b3 c3 11. Nb1
+bxa4 12. bxa4 Bb7 13. Nxc3 c5 14. dxc5 Nbd7 15. Rd1 Qe7 16. Nb5 {1/2-1/2 (16)
+Yu,Y (2749)-Yilmaz,M (2630) Khanty-Mansiysk 2017}) 6... Bxd2+ 7. Bxd2 {
+LiveBook: 5 Games} O-O 8. Qc2 ({White should play} 8. Bg2 $11) 8... b6 $146 (
+8... b5 $15) ({Find the theoretical novelty and annotate with similar games:} 
+8... b5 9. Bg2 Bb7 10. O-O Be4 11. Qc1 Nc6 12. Rd1 Nd5 13. Bc3 {0-1 (35) Zhao,
+S (1856)-Zhu,J (2012) Wuxi 2015}) 9. Qxc4 $11 Bb7 10. Rc1 c5 11. dxc5 Bd5 12.
+Qh4 Nbd7 (12... Ne4 $5 13. Be3 bxc5 $11) 13. c6 Nc5 14. Bg2 Rc8 15. Bg5 ({
+Reject} 15. b4 Nb3 $15) 15... Nce4 16. Be3 (16. Bxf6 $5 Nxf6 17. Qa4 $14) 16...
+Rxc6 17. Rxc6 Bxc6 18. O-O h6 19. Rc1 Ba8 20. Qf4 Nd6 21. Qa4 Qe7 22. Bf4 Rc8
+23. Rxc8+ Nxc8 24. Qd4 Qd7 25. Qxd7 Nxd7 26. Bh3 Kf8 27. Ne5 Ke7 28. Nxd7 Kxd7
+{Endgame KBB-KBN} 29. f3 Bd5 30. e4 Bc4 31. Be5 f6 32. Bc3 Ne7 33. Kf2 Nc6 34.
+Ke3 a5 35. f4 b5 36. e5 f5 37. Bd4 g5 38. Bc5 g4 $1 39. Bg2 Kc7 40. Kd2 a4 41.
+Kc3 h5 42. Bxc6 {Precision: White = 57%, Black = 54%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Adhiban, B."]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[WhiteElo "2670"]
+[BlackElo "2741"]
+[Annotator "TA"]
+[PlyCount "55"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Bc4
+b5 9. Bxe6 {B96: Sicilian Najdorf: 6 Bg5 e6 7 f4, lines other than 7...Qb6 and
+7...Be7} fxe6 10. Nxe6 Qb6 (10... Qa5 11. Nxf8 Rxf8 12. Qxd6 Kf7 13. e5 b4 14.
+e6+ Kg8 15. exd7 Bxd7 16. Bxf6 Rxf6 17. Qxd7 {1/2-1/2 (39) Naiditsch,A (2687)
+-Negi,P (2621) Wijk aan Zee 2010}) 11. Nd5 Nxd5 12. Qxd5 {[#] LiveBook: 5
+Games. White threatens Nc7+! and mate.} Nb8 $1 ({Worse is} 12... Bb7 {[#]} 13.
+Nc7+ $1 Qxc7 14. Qe6+ Be7 15. Qxe7#) 13. Nxf8 Rxf8 14. Qxa8 Bb7 15. Qxb8+ Kf7
+16. Qxf8+ $1 Kxf8 17. O-O-O $146 {e5 is the strong threat.} Bxe4 18. Rd2 ({
+White should try} 18. Rhe1 $14 d5 19. Rd2) 18... h6 (18... Qa5 $1 $11 19. Rxd6
+Qxa2) 19. Bh4 (19. Re1 $14) 19... Qa5 $1 $36 {White is under pressure.} ({Not} 
+19... Qe3 $2 20. Re1 $18) 20. Re1 Qxa2 21. Rxd6 Qa1+ 22. Kd2 Qa4 {The position
+is equal.} 23. Rd8+ Kf7 24. b3 Qa5+ 25. Kd1 Qa1+ 26. Kd2 Qa5+ 27. Kd1 Qa1+ $1
+28. Kd2 {Precision: White = 54%, Black = 83%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Hou, Yifan"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteElo "2670"]
+[BlackElo "2802"]
+[Annotator "TA"]
+[PlyCount "39"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. Re1 d6 7. c3 Ne7 {
+[%emt 0:00:05] C4: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} (7...
+a6 8. Bb3 Re8 9. h3 h6 10. Nbd2 Be6 11. Nf1 Bxb3 12. Qxb3 d5 13. Be3 Bf8 14.
+Rad1 Na5 15. Qc2 {0-1 (43) So,W (2812)-Carlsen,M (2832) Paris 2017}) 8. Nbd2
+Bb6 9. Bb3 c6 10. Nf1 Ng6 11. Ng3 h6 12. h3 {LiveBook: 21 Games} d5 13. exd5
+Nxd5 14. d4 exd4 15. Nxd4 Be6 {[#]} 16. Nxe6 $146 fxe6 17. Rxe6 Rxf2 18. Kh1
+Nh4 {[#]} 19. Qg4 $1 Qf8 {[#] Threatens to win with ...Rf1+!} 20. Qxh4 ({
+Much weaker is} 20. Bxd5 $6 Rf1+ 21. Kh2 (21. Nxf1 {gets mated.} Qxf1+ 22. Kh2
+Bg1+ 23. Kh1 Bf2+ 24. Kh2 Qg1#) 21... Bg1+ 22. Kh1 Bb6+ 23. Kh2 (23. Nxf1 {
+leads to mate.} Qxf1+ 24. Kh2 Bg1+ 25. Kh1 Bf2+ 26. Kh2 Qg1#) 23... Bg1+ 24.
+Kh1 Bb6+ $11) (20. Bxh6 $1 $16 Rxg2 21. Bxd5 (21. Qxh4 $2 Qf3 $19) 21... cxd5
+22. Bf4) 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Kravtsiv, Martyn"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[WhiteElo "2670"]
+[BlackElo "2771"]
+[Annotator "TA"]
+[PlyCount "91"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. Nbd2 d6 7. c3 a5 {
+[%emt 0:00:05] C4: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} 8. h3
+(8. Re1 Ng4 9. Re2 Kh8 10. h3 Nh6 11. Nf1 f5 12. Bg5 Qe8 13. d4 Bb6 14. exf5
+Nxf5 15. dxe5 Nxe5 16. Nxe5 dxe5 {0-1 (40) Lu,S (2638)-Ding,L (2781) Danzhou
+2017}) 8... Be6 9. Bb5 {LiveBook: 4 Games} h6 10. b3 $146 ({Predecessor:} 10.
+Re1 Ba7 11. Nf1 Ne7 12. d4 exd4 13. Nxd4 Bd7 14. Bxd7 Qxd7 15. Ng3 {1-0 (46)
+Fedorov,A (2562)-Loetscher,R (2414) Riga 2014}) 10... Ba7 11. Re1 Ne7 {Black
+wants to play ...c6.} 12. d4 Ng6 13. Bf1 Re8 14. Bb2 c6 15. Qc2 Qc7 16. Rad1
+Rad8 17. c4 exd4 18. Bxd4 (18. Nxd4 {feels hotter.} Bc5 19. N2f3 Bd7 20. Nf5
+Ne5 21. N3h4) 18... Bxd4 19. Nxd4 Bd7 20. Ne2 Qb6 21. Ng3 Nh4 22. Qc3 Be6 23.
+Nb1 d5 24. exd5 cxd5 25. c5 Qc7 26. Qd4 Ng6 27. Nc3 $36 {White has the
+initiative.} Rc8 28. Na4 Bd7 29. Rxe8+ Rxe8 30. Nb6 Bc6 31. a3 Nf4 32. b4 Ne6 (
+32... Ne4 $11 {remains equal.}) 33. Qh4 (33. Qb2 $16) 33... Rd8 $11 34. Nf5
+axb4 35. axb4 {Nxh6+! is the strong threat.} Qe5 36. Nd4 (36. Nd6 $11) 36...
+Be8 (36... Qe4 $1 $15 37. g3 Nxd4 38. Rxd4 Qb1) 37. Qg3 Qxg3 {The position is
+equal.} 38. fxg3 Ne4 39. Rd3 (39. Nf5 {seems wilder.} g6 40. Ne7+ Kf8 41. Nexd5
+Nxg3 42. Bc4) 39... Kf8 40. g4 Nxd4 (40... Bc6 $5) 41. Rxd4 Bc6 42. Nc4 Ra8 43.
+Na5 Nxc5 44. Nxc6 Ne6 45. Rxd5 {[#] Threatens to win with Na5.} bxc6 46. Rd6 {
+Precision: White = 57%, Black = 54%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Motylev, Alexander"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteElo "2668"]
+[BlackElo "2777"]
+[Annotator "TA"]
+[PlyCount "35"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5
+8. Rxe5 O-O 9. d4 Bf6 {C67: Ruy Lopez: Berlin Defence: 4 0-0 Nxe4} 10. Re2 b6
+11. Re1 {LiveBook: 4 Games} Bb7 $146 {The position is equal.} ({Predecessor:} 
+11... Re8 12. Bf4 Rxe1 13. Qxe1 Qe7 14. Nc3 Bb7 15. Qxe7 Bxe7 16. a4 a6 17. g3
+{1/2-1/2 (78) Carlsen,M (2853)-Karjakin,S (2772) New York 2016}) 12. Bf4 Ne4
+13. Nd2 Nxd2 14. Qxd2 d6 15. a4 a6 16. c3 Qd7 17. a5 b5 18. Bg5 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Bruzon Batista, Lazaro"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteElo "2651"]
+[BlackElo "2781"]
+[Annotator "TA"]
+[PlyCount "73"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nf5 {
+C67: Ruy Lopez: Berlin Defence: 4 0-0 Nxe4} 8. Nf3 O-O 9. d4 d5 10. c3 Re8 11.
+Bd3 Bd6 {LiveBook: 29 Games} 12. Rxe8+ Qxe8 13. Nbd2 Bd7 14. Nf1 {[#]} g6 $146
+({Predecessor:} 14... f6 15. Qb3 {0-1 (33) Inarkiev,E (2709) -Leko,P (2693)
+Doha 2016}) 15. Bg5 Kg7 16. Qd2 f6 17. Bf4 Bxf4 18. Qxf4 Nd6 19. h4 Qf7 20. Re1
+Re8 21. Rxe8 Bxe8 22. Ne3 Ne7 23. b3 b5 24. Nd2 Qe6 25. b4 Bf7 26. g4 h6 27.
+Qg3 g5 28. h5 Bg8 29. Nb3 Bh7 30. Nc5 Qf7 31. Be2 Nec8 32. f4 Nb6 33. f5 (33.
+Bf3 $5) 33... Qe7 34. Ne6+ Kh8 35. Bd3 Bg8 36. Nc5 Bf7 37. a3 {Precision:
+White = 55%, Black = 63%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Cori, Jorge"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo "2648"]
+[BlackElo "2788"]
+[Annotator "TA"]
+[PlyCount "83"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Nc3 Bg7 7. Nf3 Ne4 {
+[%emt 0:00:05] D73: Fianchetto Grünfeld: Nf3} 8. Nxe4 (8. Qb3 Nxc3 9. bxc3 O-O
+10. Nd2 e6 11. e4 Nc6 12. e5 b6 13. O-O Ba6 14. Re1 Rc8 15. Qd1 {0-1 (49)
+Caruana,F (2808)-So,W (2812) Paris 2017}) 8... dxe4 9. Ne5 Bxe5 10. dxe5 Qxd1+
+11. Kxd1 Bf5 12. g4 {LiveBook: 5 Games} Bxg4 13. Bxe4 Nc6 14. f3 {[#]} Be6 $146
+({Predecessor:} 14... O-O-O+ 15. Ke1 {1/2-1/2 (59) Ilincic,Z (2557)-Ivanisevic,
+I (2569) Jahorina 2003}) 15. Bxc6+ (15. Ke1 {is more complex.} O-O 16. Bf4 Rfd8
+17. Kf2 Bd5 18. Bd3) 15... bxc6 16. Ke1 O-O-O 17. Bd2 Kb7 18. h4 h6 19. Bb4
+Rhe8 20. Kf2 Rd5 21. Bc3 Red8 22. Rag1 c5 23. Rb1 {[#]} a5 $1 24. f4 (24. Bxa5
+Ra8) 24... Bf5 25. Ra1 h5 26. Rhe1 {Threatens to win with e4.} R5d7 27. Bxa5
+Ra8 28. Bc3 Ra4 29. Ke3 Be6 30. b3 Ra3 31. Rec1 Rd8 32. Bb2 Ra5 33. Rc2 Rda8
+$36 {White is under pressure.} 34. Bc1 Kc6 35. Rb2 ({White should play} 35. b4
+$11 Rxa2 36. Raxa2 (36. Rxc5+ Kb6 $14) 36... Rxa2 37. Rxc5+ Kb6 38. Ra5) 35...
+Ra3 $15 36. Kf2 {[#]} Rxb3 $1 37. Rxb3 (37. axb3 Rxa1) 37... Bxb3 {KRB-KRB} 38.
+a3 Ra4 39. Be3 Bd5 (39... c4 $17 40. Bd4 {[#]} c3 $1) 40. Rc1 Rc4 41. Rxc4 Bxc4
+42. a4 {Precision: White = 55%, Black = 38%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Dreev, Aleksey"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[WhiteElo "2648"]
+[BlackElo "2827"]
+[Annotator "TA"]
+[PlyCount "64"]
+[EventDate "2017.??.??"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. Nf3 Nf6 5. Bg5 h6 6. Bxf6 Qxf6 7. Qb3 c5 8.
+cxd5 exd5 9. a3 Bxc3+ 10. Qxc3 c4 {D38: Queen's Gambit Declined: Ragozin
+Defence (4 Nf3 Bb4)} 11. b3 {LiveBook: 4 Games} Be6 12. Ne5 $146 (12. bxc4 $14
+dxc4 13. e4) ({Find the theoretical novelty and annotate with similar games:} 
+12. e3 O-O 13. Be2 Rc8 14. O-O Nc6 15. a4 cxb3 16. a5 Qd8 17. a6 b6 18. Qxb3 {
+0-1 (41) Skrondal,I (2277)-Hammer,J (2628) Sandefjord 2017}) 12... O-O $11 {
+The position is equal.} 13. e3 Nc6 14. Be2 Nxe5 15. dxe5 Qg6 16. O-O {[#]} d4
+$1 17. exd4 (17. Qxd4 Rfd8) 17... cxb3 18. Bf3 {Hoping for d5.} Rac8 19. Qe3 $1
+Qg5 $36 {White is under pressure.} 20. Rab1 Qxe3 21. fxe3 Rfd8 22. Bxb7 Rc3 23.
+d5 Bd7 {White must now prevent ...Rb8.} ({Weaker is} 23... Bxd5 24. Rfd1 $16)
+24. Rf4 a5 {Strongly threatening ...Rb8.} 25. Kf2 $2 {[#]} (25. d6 $15) 25...
+Rb8 $19 26. Bc6 Bxc6 27. dxc6 Rxc6 {KRR-KRR} 28. Rd4 (28. Rb2 $142) 28... Rc2+
+{Black has a decisive advantage.} 29. Kf3 b2 30. Rdd1 Rb5 31. a4 Rxe5 32. Rd8+
+Kh7 {Precision: White = 58%, Black = 100%.} 0-1
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Lenic, Luka"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteElo "2646"]
+[BlackElo "2799"]
+[Annotator "TA"]
+[PlyCount "47"]
+[EventDate "2017.??.??"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. dxc5 Bxc5 8.
+Qxd8+ Kxd8 9. Be2 {[%emt 0:00:07] D2: Queen's Gambit Accepted: Classical main
+line: 7 e4!? and 7 a4} Ke7 10. Ne5 (10. Nbd2 Nc6 11. b3 Rd8 12. Bb2 b6 13. a3
+a5 14. Rfc1 Bb7 15. Bxf6+ gxf6 16. Ne4 Bd6 17. Nxd6 Rxd6 18. Kf1 {1/2-1/2 (33)
+So,W (2810)-Caruana, F (2807) Saint Louis 2017}) 10... Nbd7 11. Nc4 b6 12. Nc3
+a5 13. Na4 {LiveBook: 5 Games} Ba6 14. Nxc5 bxc5 15. f3 Rhb8 16. Rf2 {The
+position is equal.} a4 {[#]} 17. e4 $146 Rb4 18. Na3 Ne5 19. Bf4 Nfd7 20. Bd2
+Rb7 21. Bc3 f6 22. Rd1 Bxe2 23. Rxe2 Nc6 24. Nc4 {Precision: White = 79%,
+Black = 100%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Sevian, Samuel"]
+[Black "Li, Chao b"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2745"]
+[Annotator "TA"]
+[PlyCount "53"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O O-O 8. c4
+Nf6 9. h3 Nc6 10. Nc3 Nb4 11. Be2 dxc4 12. Bxc4 Nbd5 {C42: Petroff Defence: 3
+Nxe5 and unusual White 3rd moves} 13. Re1 c6 14. Bg5 Be6 15. Qb3 Qb6 16. Nxd5
+cxd5 17. Qxb6 {LiveBook: 5 Games} axb6 {[#]} 18. Bb3 $146 Rfc8 19. Rac1 h6 20.
+Bf4 Ne4 21. Rxc8+ Rxc8 22. Rc1 Rxc1+ {The position is equal.} 23. Bxc1 g5 24.
+Kf1 Kg7 25. Ke2 f5 26. Ne5 f4 27. Bd2 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "2.1"]
+[White "Tari, Aryan"]
+[Black "Lenderman, Aleksandr"]
+[Result "1/2-1/2"]
+[WhiteElo "2588"]
+[BlackElo "2565"]
+[Annotator "TA"]
+[PlyCount "35"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qf3 {B48:
+Sicilian: Taimanov: 5 Nc3 Qc7 6 Be3 a6 without Be2} Bd6 8. O-O-O Be5 9. g3 b5
+10. Qe2 Bb7 11. f4 {LiveBook: 4 Games. The position is equal.} Bxd4 12. Bxd4
+Nxd4 13. Rxd4 Qc5 14. Qd2 Bc6 {[#]} 15. Bg2 $146 b4 16. Ne2 a5 17. Rd1 Nf6 18.
+Kb1 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Carlsen, Magnus"]
+[Black "Dreev, Aleksey"]
+[Result "1-0"]
+[WhiteElo "2827"]
+[BlackElo "2648"]
+[Annotator "TA"]
+[PlyCount "59"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. a4 Ngf6 5. Nc3 g6 (5... a6 $5 6. Bc4 Ne5 7.
+Nxe5 dxe5 $14) 6. a5 {B51: Sicilian: Moscow Variation (3 Bb5+) without 3...Bd7}
+Bg7 7. a6 $146 ({Predecessor:} 7. O-O a6 8. Bc4 O-O 9. d3 Nb8 10. Nd5 Nc6 11.
+Nb6 Rb8 12. Bd2 Bg4 13. h3 Bxf3 14. Qxf3 {0-1 (46) Carlsen,M (2855)-Topalov,V 
+(2761) Paris 2016}) 7... O-O 8. O-O {The position is equal.} e6 9. d3 Qb6 10.
+axb7 Bxb7 11. Re1 Rfd8 12. Ba4 h6 13. h3 d5 14. e5 Nh7 15. Bxd7 Rxd7 16. d4 {
+Black must now prevent Na4.} cxd4 17. Ne2 d3 18. Qxd3 d4 19. Nexd4 g5 20. c3
+Nf8 21. Nh2 (21. h4 $5) 21... Ng6 22. Qg3 $36 {Black is under pressure.} Nh4 (
+22... a5 $11) 23. Nhf3 $16 Nxf3+ ({Better is} 23... Bxf3 24. Nxf3 Nf5) 24. Nxf3
+Rd3 25. h4 gxh4 26. Qxh4 Bxf3 27. gxf3 Rxf3 $2 {[#]} (27... Qb7 $16) 28. Bxh6
+$18 {White is clearly winning.} f5 (28... Qxf2+ $142 29. Qxf2 Rxf2) 29. Bxg7
+Kxg7 30. Kh1 {Precision: White = 76%, Black = 40%.} 1-0
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Aronian, Levon"]
+[Black "Hou, Yifan"]
+[Result "1/2-1/2"]
+[WhiteElo "2802"]
+[BlackElo "2670"]
+[Annotator "TA"]
+[PlyCount "68"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 b6 8. Rd1
+Bb7 9. Qxc4 c5 10. Nc3 Nbd7 11. Bg5 {[%emt 0:00:06] LiveBook: 3 Games. E03:
+Open Catalan: 5 Qa4+ Nbd7 Qxc4} cxd4 $146 ({Predecessor:} 11... Rc8 12. Qa4 a6
+13. dxc5 b5 14. Qh4 Rxc5 15. Ne5 Rxe5 16. Bxb7 {1/2-1/2 (25) Schlosser,P (2596)
+-Sokolov,A (2570) Belfort 2012}) 12. Rxd4 h6 13. Bxf6 Bxf6 14. Rd2 Rc8 15. Qa4
+Bc6 16. Qb4 Bxf3 17. exf3 {[#] Threatens to win with Rad1.} Bxc3 18. bxc3 {
+Hoping for Rad1.} Qc7 19. f4 Nf6 20. Rd3 Qc4 21. Bf1 Qc5 22. Bg2 Qc4 23. Bf1 $1
+Qc7 24. Bg2 Rfd8 25. Rad1 Rxd3 26. Rxd3 Rd8 27. Rd4 {The position is equal.}
+Rxd4 28. Qxd4 Qd7 (28... Qc5 {looks sharper.} 29. Qd8+ Kh7 30. Qd3+ g6 31. Bf3
+Kg7) 29. Qxd7 Nxd7 $11 {KB-KN} 30. Kf1 Kf8 31. Ke2 Ke7 32. Kd3 Kd6 33. Kd4 Nc5
+34. Bf1 Nd7 {Precision: White = 61%, Black = 54%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Caruana, Fabiano"]
+[Black "Lenic, Luka"]
+[Result "1/2-1/2"]
+[WhiteElo "2799"]
+[BlackElo "2646"]
+[Annotator "TA"]
+[PlyCount "69"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. d4 cxd4 6. Nxd4 Qb6 7. Nxc6 {
+B30: Sicilian: 2...Nc6 3 Bb5, lines without ...g6} dxc6 {LiveBook: 4 Games} 8.
+Bc4 Ng6 9. Nd2 $146 {White is slightly better.} (9. a4 {with more
+complications.} Be7 10. a5 Qc7 11. f4 Bd7 12. Be3) ({Predecessor:} 9. a4 a5 10.
+Kh1 Be7 11. f4 O-O 12. Nc3 Qb4 13. Qe2 e5 14. f5 Nf4 15. Bxf4 exf4 {1-0 (52)
+Frolyanov,D (2537)-Filipenko,A (2286) Samara 2017}) 9... Qc7 10. a4 Bd6 11. Nf3
+O-O 12. h3 b6 13. Qe2 a6 14. Re1 Ne5 15. Nxe5 Bxe5 16. c3 Bb7 17. Be3 c5 18.
+Qg4 Kh8 19. Bd3 Qc6 20. Bf4 Bxf4 21. Qxf4 Rad8 22. Qe3 Rd7 23. Qe2 Qc8 24. Qf1
+Rfd8 25. Re3 a5 26. b3 Bc6 27. Qe2 e5 28. Rf1 Qc7 29. h4 Rd6 30. h5 Bd7 31. Bc4
+$1 Be6 32. h6 (32. Bxe6 $142 Rxe6 33. Rd1) 32... gxh6 33. Bxe6 {The position
+is equal.} Rxe6 34. Rf3 Qe7 35. Rd1 {Precision: White = 42%, Black = 55%.}
+1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Grischuk, Alexander"]
+[Black "Cori, Jorge"]
+[Result "1/2-1/2"]
+[WhiteElo "2788"]
+[BlackElo "2648"]
+[Annotator "TA"]
+[PlyCount "88"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6 8.
+O-O-O Be7 {B48: Sicilian: Taimanov: 5 Nc3 Qc7 6 Be3 a6 without Be2} 9. f3 (9.
+f4 b5 10. e5 b4 11. exf6 bxc3 12. Qxc3 Bxf6 13. g4 h6 14. h4 Bb7 15. Rh2 Rc8
+16. Qd2 Nxd4 17. Bxd4 Bxd4 18. Qxd4 {1/2-1/2 (49) Jakovenko,D (2703)-Inarkiev,
+E (2707) Geneve 2017}) 9... h5 10. Nxc6 bxc6 11. Bf4 e5 12. Bg5 a5 13. Bc4 {
+LiveBook: 5 Games} a4 14. a3 {[#]} d6 $146 ({Predecessor:} 14... Qb6 15. Be3
+Qb7 16. Qf2 d6 17. Qg3 O-O 18. Bh6 Ne8 19. Bg5 Be6 20. Bxe6 fxe6 21. Rd3 Rf7
+22. Qh4 {1/2-1/2 (22) Lopez Martinez,J (2555) -Kogan,A (2542) Arinsal 2009})
+15. f4 O-O 16. Rhf1 (16. Bxf6 $5 Bxf6 17. Qxd6 Qxd6 18. Rxd6 $11) 16... Bg4 17.
+Rde1 $1 Rfd8 (17... exf4 $14 18. Bxf4 (18. Qxf4 Ra5 $11) 18... Nd7) 18. Qe3
+Rab8 19. fxe5 ({Better is} 19. Ba2 $16) 19... dxe5 $11 20. Bxf6 Bxf6 21. h3 Rd4
+$1 {[#] ...Qb7 is the strong threat.} 22. hxg4 {Threatens to win with g5.} Rxc4
+23. gxh5 Be7 24. Rf3 Rd4 {White must now prevent ...Bxa3!} 25. Nd1 $1 Qb6 26.
+h6 Qd8 $1 {[#] aiming for ...Bg5. Black has compensation.} 27. Rg3 g6 $1 28.
+Rf1 Rb7 (28... Bh4 $15) 29. Nf2 Bh4 30. Rg4 Bxf2 31. Qxf2 Rbd7 {( -> ... Rd1+)}
+32. Qf3 Kh7 33. Kb1 Qe7 34. Rg3 Qh4 35. Rg4 $36 {White has some pressure.} Qe7
+36. Rg3 Qd6 37. Rc1 Rd1 38. Qe2 Rd2 (38... Qd4 $5 39. Qxd1 Qxd1 40. Rxd1 Rxd1+
+41. Ka2 Kxh6 $11) 39. Qa6 Rd4 40. Rc3 Rc7 (40... Rxe4 $11 41. Rxc6 Qd2) 41. Rd3
+$14 Qc5 42. Rc3 Qd6 43. Rd3 Qc5 $1 44. Rc3 Qd6 {Precision: White = 75%, Black
+= 69%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Nakamura, Hikaru"]
+[Black "Bruzon Batista, Lazaro"]
+[Result "1/2-1/2"]
+[WhiteElo "2781"]
+[BlackElo "2651"]
+[Annotator "TA"]
+[PlyCount "27"]
+[EventDate "2017.??.??"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bf4 O-O 6. e3 b6 7. Be2 dxc4 {
+[%emt 0:00:05] D37: Queen's Gambit Declined: Bf4} 8. Bxc4 Ba6 9. Bxa6 Nxa6 10.
+Qe2 Qc8 11. O-O (11. e4 Re8 12. O-O c5 13. Rad1 h6 14. h3 Bf8 15. Be5 {1/2-1/2
+(54) Najer,E (2687)-Dominguez Perez,L (2713) Dortmund 2016}) 11... c5 {
+LiveBook: 4 Games} 12. Nb5 $146 ({Find the theoretical novelty and annotate
+with similar games:} 12. Rac1 Qb7 13. h3 Rfd8 14. Rfd1 Rac8 15. a3 {1/2-1/2 
+(45) Quintiliano Pinto,R (2484)-Bindrich,F (2590) Doha 2016}) 12... Qb7 13. Bd6
+Rfd8 14. Bxe7 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Giri, Anish"]
+[Black "Motylev, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo "2777"]
+[BlackElo "2668"]
+[Annotator "TA"]
+[PlyCount "92"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O
+8. Qd2 {C42: Petroff Defence: 3 Nxe5 and unusual White 3rd moves} Nd7 9. O-O-O
+Nf6 10. Bd3 c5 11. Rhe1 {LiveBook: 3 Games} Be6 12. Bg5 Qa5 $146 (12... d5 $11
+{keeps the balance.}) ({Predecessor:} 12... h6 13. Bxh6 c4 14. Bxg7 cxd3 15.
+Qg5 Ne4 {1-0 (62) Karjakin,S (2779)-Harikrishna,P (2763) Shamkir 2016}) 13. a3
+$16 Rfe8 14. Bxf6 Bxf6 15. Ng5 Bxg5 $1 16. Qxg5 h6 17. Qf4 d5 18. g4 Qd8 19.
+Be2 (19. Bb5 $5 Rf8 20. Be2 $11) 19... Qg5 20. Qxg5 hxg5 21. Bf3 Kf8 $1 22.
+Bxd5 Bxg4 23. Rxe8+ Rxe8 $14 {Endgame KRB-KRB} 24. Rg1 Bf5 25. Rxg5 g6 26. Bc4
+Re1+ 27. Kd2 Rh1 28. Bd3 Rxh2 29. Ke3 Rh3+ 30. f3 Bxd3 31. cxd3 $11 {KR-KR} b6
+32. b4 cxb4 33. axb4 Ke7 34. b5 Rh1 {The position is equal.} 35. c4 Re1+ 36.
+Kf4 {[#] And now Re5+ would win.} (36. Kd4 $5 Ke6 37. Rg2 $14) 36... Ke6 37.
+Rg2 {White wants to play Ra2.} Ra1 38. Re2+ Kd6 39. Kg5 a6 40. bxa6 Rxa6 41.
+Kf6 Ra5 42. Kxf7 Rf5+ 43. Kxg6 Rxf3 44. d4 Rc3 45. c5+ bxc5 46. dxc5+ Rxc5 {
+Precision: White = 53%, Black = 63%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Ding, Liren"]
+[Black "Kravtsiv, Martyn"]
+[Result "1/2-1/2"]
+[WhiteElo "2771"]
+[BlackElo "2670"]
+[Annotator "TA"]
+[PlyCount "118"]
+[EventDate "2017.??.??"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Rb1 Be7 {
+D35: Queen's Gambit Declined: Exchange Variation} 8. Nf3 O-O 9. Bc4 Nc6 10. O-O
+b6 {LiveBook: 5 Games} 11. d5 (11. Be3 cxd4 12. cxd4 Bb7 13. Qe2 Rc8 14. Rfd1
+Qc7 15. d5 exd5 16. exd5 {0-1 (55) Navara,D (2737)-Dominguez Perez,L (2739)
+Saint Louis 2017}) 11... Na5 12. Bd3 $1 c4 13. Bc2 $1 exd5 14. exd5 Bb7 15. Re1
+Qd6 $146 16. Ne5 Qxd5 17. Qg4 $1 Rad8 18. Qh3 $40 {White attacks.} f5 19. Bf4
+Bc8 20. g4 Bf6 ({Much less strong is} 20... Bb7 21. f3 $17) 21. Rbd1 Qb5 (21...
+Qc5 $11 22. Rxd8 Rxd8) 22. Rxd8 $16 Rxd8 23. gxf5 Bb7 24. Ng4 Qd5 25. Nxf6+
+gxf6 26. f3 (26. Kf1 $16 Qf3 27. Qg3+ Qxg3 28. fxg3 (28. hxg3 Nc6 $14)) 26...
+Qxf3 $11 27. Qxf3 Bxf3 28. Kf2 Bc6 29. Bh6 Kh8 30. Re6 Bd5 31. Rxf6 Kg8 32. Kg3
+Nb7 33. Be3 Nd6 $1 34. Bd4 Ne4+ 35. Bxe4 $1 Bxe4 $14 {Endgame KRB-KRB} 36. Kf4
+Bd5 37. a3 Rd7 38. h4 Rd8 39. h5 Bb7 40. Re6 {And now Re7 would win.} Kf7 41.
+a4 Rd5 42. Re1 Bc8 {[#]} 43. Be5 $1 Rd2 {[#]} 44. Bd4 $1 Rh2 45. f6 {Black
+must now prevent Re7+.} Be6 46. Kg5 Ra2 47. Rg1 Rxa4 48. Kf4 Kf8 49. Rg7 {
+White has strong compensation.} h6 50. Rb7 (50. Rh7 $16) 50... Ra1 $11 51. Be3
+(51. Ke5 $5 Bg4 52. Be3 $14) 51... Ra5 {The position is equal.} 52. Bd4 Rf5+
+53. Ke3 Rxh5 54. Rxa7 b5 55. Rc7 Rg5 56. Kf4 Kg8 57. Rb7 Rf5+ 58. Ke4 Rg5 59.
+Kf4 Rf5+ {Precision: White = 84%, Black = 74%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Li, Chao b"]
+[Black "Sevian, Samuel"]
+[Result "1/2-1/2"]
+[WhiteElo "2745"]
+[BlackElo "2610"]
+[Annotator "TA"]
+[PlyCount "41"]
+[EventDate "2017.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qc2 dxc4 5. Qxc4 Bf5 6. g3 e6 7. Bg2 Nbd7 8.
+O-O Nb6 9. Qb3 Qd5 10. Nbd2 {D23: Queen's Gambit Accepted: 3 Nf3 Nf6 sidelines}
+Be7 11. e3 {LiveBook: 7 Games} Qxb3 12. Nxb3 {The position is equal.} Be4 13.
+Ne5 $146 ({Predecessor:} 13. Na5 Rb8 14. Bd2 O-O 15. Rfc1 Rfc8 16. Ne5 Bxg2 17.
+Kxg2 Kf8 {1/2-1/2 (96) Ponomariov,R (2733)-Akopian,V (2694) Astrakhan 2010})
+13... Bxg2 14. Kxg2 Nfd7 15. Nd3 Nc4 16. Bd2 Nxd2 17. Nxd2 c5 18. dxc5 Nxc5 19.
+Nxc5 Bxc5 20. Rac1 Bb6 21. Nc4 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Radjabov, Teimour"]
+[Black "Artemiev, Vladislav"]
+[Result "1/2-1/2"]
+[WhiteElo "2742"]
+[BlackElo "2692"]
+[Annotator "ChessBase"]
+[PlyCount "31"]
+[EventDate "2017.??.??"]
+[TimeControl "60"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:30]} 2. Nf3 {[%emt 0:00:00]} e6 {[%emt 0:
+00:00]} 3. d4 {[%emt 0:00:00]} cxd4 {[%emt 0:00:15]} 4. Nxd4 {[%emt 0:00:00]}
+Nc6 {[%emt 0:00:27]} 5. Nc3 {[%emt 0:00:00]} a6 {[%emt 0:00:28]} 6. Nxc6 {
+[%emt 0:00:00]} bxc6 {[%emt 0:00:12]} 7. Bd3 {[%emt 0:00:00]} Qc7 {[%emt 0:00:
+00]} 8. Qe2 {[%emt 0:00:07]} Bd6 {[%emt 0:00:33]} 9. Qg4 {[%emt 0:06:18]} Kf8 {
+[%emt 0:19:33]} 10. f4 {[%emt 0:03:23]} Nf6 {[%emt 0:02:47]} 11. Qf3 {[%emt 0:
+00:00]} e5 {[%emt 0:00:10]} 12. O-O {[%emt 0:18:09]} exf4 {[%emt 0:01:55]} 13.
+Bxf4 {[%emt 0:06:57]} Bxf4 {[%emt 0:00:46]} 14. Qxf4 {[%emt 0:00:06]} Qxf4 {
+[%emt 0:00:09]} 15. Rxf4 {[%emt 0:00:03]} d6 {[%emt 0:00:15]} 16. h3 {[%emt 0:
+00:00]} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Nepomniachtchi, Ian"]
+[Black "Adhiban, B."]
+[Result "1/2-1/2"]
+[WhiteElo "2741"]
+[BlackElo "2670"]
+[Annotator "TA"]
+[PlyCount "126"]
+[EventDate "2017.??.??"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 e5 4. Nf3 Nc6 5. d4 exd4 6. Nxd4 {A28: English
+Opening: Four Knights Variation} Bg7 {LiveBook: 10 Games} 7. Nxc6 dxc6 8. Qxd8+
+Kxd8 9. Bf4 (9. e5 Nd7 10. f4 f6 11. c5 Re8 12. Be3 fxe5 {0-1 (37) Grigoryan,K
+(2596)-Howell,D (2663) Jerusalem 2015}) 9... Be6 $146 ({Find the theoretical
+novelty and annotate with similar games:} 9... Re8 10. f3 Be6 11. Be2 Nd7 12.
+Rc1 Bd4 {1-0 (36) Christiansen,L (2560)-Rahls,P (2230) Germany 1994}) 10.
+O-O-O+ Nd7 11. Be2 (11. Kc2 {feels hotter.} Kc8 12. Be3 b6 13. f4 Re8 14. Be2)
+11... Bxc3 12. bxc3 Kc8 13. Rd2 a5 14. Be3 h5 15. Rhd1 a4 $1 16. f4 Ra5 17. h3
+c5 (17... Nc5 $15) 18. g4 (18. Bf2 $11) 18... hxg4 $17 19. hxg4 {And now f5
+would win.} Nb6 $1 20. f5 Nxc4 21. Bxc4 Bxc4 22. Bf4 Ra6 23. Rd7 Rc6 $1 24. Re7
+(24. e5 $1 $15 gxf5 25. gxf5) 24... Rd8 ({Black should try} 24... Bxa2 $17 {
+Threatens to win with ...Bb3.} 25. Rdd7 a3) 25. fxg6 (25. e5 $1 $11 {remains
+equal.}) 25... Rxd1+ 26. Kxd1 fxg6 $11 {Endgame KRB-KRB} 27. a3 b5 28. Kd2 {[#]
+} Kb7 (28... b4 $1 $17 29. cxb4 (29. axb4 cxb4) 29... cxb4 30. axb4 a3) 29. g5
+{[#]} (29. Re5 $15) 29... b4 $1 $19 30. cxb4 (30. axb4 a3) 30... cxb4 31. axb4
+a3 32. Re5 {[#]} (32. Be5 {is a better defense.}) 32... a2 $1 33. Ra5 Bb3 34.
+Kd3 Bc2+ 35. Ke3 {[#]} Bb1 $1 36. Be5 Rc4 37. Bd4 Rxb4 38. e5 Rb3+ 39. Kf4 Rb4
+40. Ke3 Rb3+ 41. Kf4 $1 Rh3 42. Bf2 (42. Ba1 $142) 42... Rh8 43. Bc5 Rh4+ 44.
+Kf3 Rh3+ 45. Kf4 Rh4+ 46. Kf3 {and the idea e6 leaves White hopeful.} Rh1 $2 ({
+Black should play} 46... Rc4 $19 {aiming for ...Rxc5.} 47. Be3 Re4) 47. e6 $1
+$11 {The position is equal.} Re1 48. Be3 {Black must now prevent e7.} Rf1+ (
+48... Kc6 $5 49. Ra6+ $8 Kb5 $11) 49. Bf2 $1 {[#]} Be4+ $1 50. Kxe4 Rxf2 {KR-KR
+} 51. Kd3 Rf5 52. Rxa2 Re5 53. Rf2 ({Don't blunder} 53. Re2 $2 Rxe2 54. Kxe2
+Kc6 $19) 53... Rxe6 54. Rf6 Rb6 55. Ke4 Kc8 56. Ke5 Rb5+ 57. Kf4 Rb6 58. Ke5
+Kd7 {Hoping for ...Ke7.} 59. Rxb6 cxb6 60. Kf6 b5 61. Kxg6 b4 {( -> ...b3)} 62.
+Kf7 b3 {...b2 is the strong threat.} 63. g6 b2 {Precision: White = 56%, Black
+= 60%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Wojtaszek, Radoslaw"]
+[Black "Onischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2682"]
+[Annotator "TA"]
+[PlyCount "103"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 c6 6. e3 Be7 7. Bd3 Nbd7 8.
+Qc2 Nh5 9. Bxe7 Qxe7 10. O-O-O Nb6 11. h3 {D36: Queen's Gambit Declined:
+Exchange Variation: Main line (5 Bg5 c6 6 Qc2)} Be6 {LiveBook: 3 Games} (11...
+g6 12. Nf3 Be6 13. Kb1 O-O-O 14. Nd2 Ng7 15. g4 Kb8 16. Nb3 h5 17. f3 Bc8 18.
+Qf2 hxg4 19. hxg4 Ne6 20. f4 {0-1 (75) Nakamura,H (2793)-Onischuk,A (2667)
+Saint Louis 2017}) 12. Nge2 O-O-O 13. Kb1 $146 ({Predecessor:} 13. g4 Nf6 14.
+Nf4 g5 15. Nxe6 fxe6 16. Ne2 h5 17. f4 Rdg8 18. fxg5 Rxg5 19. Nf4 Rh6 20. Bg6
+Nc4 21. Rde1 hxg4 {0-1 (32) Mastrovasilis,A (2554)-Malikentzos,S (2314) Athens
+2014}) 13... Kb8 14. a4 (14. g4 $5 Nf6 15. g5 $11) 14... Qb4 15. Nc1 Nc4 16.
+Ka1 (16. Bxc4 $5 dxc4 17. N1e2 $11) 16... Nf6 17. N3a2 Qe7 18. e4 g6 19. Rhe1
+Rhe8 20. f4 Qc7 21. e5 $1 {Hoping for b3.} Nh5 22. Qf2 f5 23. Nb3 Ng7 24. Rc1
+Bg8 25. Nc5 Ne6 26. Nxe6 Bxe6 27. b3 Na5 28. Rc3 Qe7 29. Rb1 (29. Kb2 $16)
+29... Rc8 30. Qd2 c5 31. Bb5 c4 32. bxc4 Nxc4 33. Bxc4 (33. Rxc4 $16 dxc4 34.
+Bxe8 Qxe8 35. Nc3) 33... dxc4 $11 34. d5 Qd7 $36 {Black fights for an
+advantage.} 35. d6 Rc5 (35... g5 $5) 36. Ra3 Rd5 37. Qb4 Rc8 38. Nc3 Rd3 39.
+Ra2 Qc6 40. Rab2 (40. h4 $14) 40... b6 {The position is equal.} 41. a5 (41. Qa5
+$5 Kb7 42. Rb5 $11) 41... Qc5 42. axb6 Qxb4 43. bxa7+ $1 Ka8 44. Rxb4 Rxc3 {[#]
+} 45. d7 $1 Bxd7 {Threatens to win with ...Rc7.} 46. Rb8+ Kxa7 47. R8b7+ Ka6 {
+aiming for ...Bc6.} 48. Rxd7 Rc5 49. Rd6+ Ka7 50. Rd7+ Ka6 51. Rd6+ Ka7 52.
+Rd7+ {Precision: White = 71%, Black = 61%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Adams, Michael"]
+[Black "Rodshtein, Maxim"]
+[Result "0-1"]
+[WhiteElo "2738"]
+[BlackElo "2695"]
+[Annotator "RC"]
+[PlyCount "126"]
+[EventDate "2017.??.??"]
+[TimeControl "60"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:07]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:05]} 3. Bb5 {[%emt 0:00:00]} Nf6 {[%emt 0:00:07]} 4. d3 {[%emt 0:00:
+00]} Bc5 {[%emt 0:00:12]} 5. Bxc6 {[%emt 0:00:00]} dxc6 {[%emt 0:00:06]} 6. O-O
+{[%emt 0:00:00]} Bg4 {[%emt 0:01:23]} 7. h3 {[%emt 0:00:06]} Bxf3 {[%emt 0:00:
+00]} 8. Qxf3 {[%emt 0:00:04]} O-O {[%emt 0:00:26]} 9. Nd2 {[%emt 0:03:36]} Re8
+{[%emt 0:03:36]} 10. Nc4 {[%emt 0:04:53]} Nd7 {[%emt 0:01:34]} 11. Bd2 {
+[%emt 0:02:54]} Re6 {[%emt 0:19:01]} 12. g3 {[%emt 0:05:38]} b5 {[%emt 0:02:29]
+} 13. Ne3 {[%emt 0:01:42]} Bf8 {[%emt 0:03:04]} 14. a4 {[%emt 0:03:59]} a6 {
+[%emt 0:00:36]} 15. Ra2 {[%emt 0:03:32]} Nc5 {[%emt 0:18:15]} 16. axb5 {
+[%emt 0:01:41]} axb5 {[%emt 0:05:18]} 17. Rfa1 {[%emt 0:05:25]} Rxa2 {[%emt 0:
+00:00]} 18. Rxa2 {[%emt 0:00:02]} Re8 {[%emt 0:00:21]} 19. Kg2 {[%emt 0:12:18]}
+Ne6 {[%emt 0:01:14]} 20. Nf5 {[%emt 0:07:55]} c5 {[%emt 0:02:16]} 21. Ra5 {
+[%emt 0:04:43]} Qd7 {[%emt 0:02:16]} 22. Bc3 {[%emt 0:02:39]} f6 {[%emt 0:00:
+00]} 23. b3 {[%emt 0:07:45]} c6 {[%emt 0:01:24]} 24. h4 {[%emt 0:02:46]} g6 {
+[%emt 0:06:11]} 25. Ne3 {[%emt 0:01:29]} Bg7 {[%emt 0:00:31]} 26. Qg4 {[%emt 0:
+00:00]} Rf8 {[%emt 0:05:24]} 27. Kg1 {[%emt 0:05:15]} Qf7 {[%emt 0:01:05]} 28.
+Ra6 {[%emt 0:00:50]} f5 {[%emt 0:03:13]} 29. exf5 {[%emt 0:03:26]} gxf5 {
+[%emt 0:00:10]} 30. Qe2 {[%emt 0:03:27]} Qb7 {[%emt 0:08:30]} 31. Ra2 {[%emt 0:
+00:00]} Nd4 {[%emt 0:04:46]} 32. Bxd4 {[%emt 0:00:22]} cxd4 {[%emt 0:00:04]}
+33. Nf1 {[%emt 0:00:09]} c5 {[%emt 0:00:05]} 34. Nd2 {[%emt 0:00:44]} Bh6 {
+[%emt 0:02:05]} 35. Ra1 {[%emt 0:00:08]} Qg7 {[%emt 0:02:10]} 36. Kh2 {[%emt 0:
+00:00]} e4 {[%emt 0:01:43]} 37. Rf1 {[%emt 0:02:20]} e3 {[%emt 0:00:31]} 38.
+Nf3 {[%emt 0:00:30]} Kh8 {[%emt 0:01:46]} 39. fxe3 {[%emt 0:00:25]} dxe3 {
+[%emt 0:00:04]} 40. Ng1 {[%emt 0:00:00]} Rg8 {[%emt 0:01:42]} 41. Qf3 {[%emt 0:
+00:00]} Qc3 {[%emt 0:04:43]} 42. Qe2 {[%emt 0:06:36]} f4 {[%emt 0:03:11]} 43.
+g4 {[%emt 0:06:17]} f3 {[%emt 0:08:25]} 44. Nxf3 {[%emt 0:03:46]} Rxg4 {
+[%emt 0:00:17]} 45. Kh3 {[%emt 0:00:40]} Rg8 {[%emt 0:05:13]} 46. Rg1 {[%emt 0:
+00:00]} Rf8 {[%emt 0:04:29]} 47. Rg4 {[%emt 0:02:51]} Qf6 {[%emt 0:01:00]} 48.
+Ng5 {[%emt 0:02:14]} Qf2 {[%emt 0:02:00]} 49. Rg2 {[%emt 0:00:36]} Bxg5 {
+[%emt 0:01:33]} 50. Rxf2 {[%emt 0:03:45]} exf2 {[%emt 0:00:05]} 51. Qf1 {
+[%emt 0:00:02]} Be3 {[%emt 0:00:42]} 52. b4 {[%emt 0:00:49]} cxb4 {[%emt 0:00:
+00]} 53. Qa1+ {[%emt 0:00:15]} Kg8 {[%emt 0:00:05]} 54. Qf1 {[%emt 0:00:04]} h5
+{[%emt 0:01:21]} 55. Kh2 {[%emt 0:00:12]} Kh7 {[%emt 0:01:32]} 56. Kh3 {
+[%emt 0:01:10]} Rf4 {[%emt 0:00:36]} 57. d4 {[%emt 0:01:35]} Bxd4 {[%emt 0:00:
+00]} 58. Kg2 {[%emt 0:00:32]} Kh8 {[%emt 0:00:20]} 59. Kh3 {[%emt 0:00:05]} Rf6
+{[%emt 0:02:07]} 60. Kh2 {[%emt 0:00:07]} Rf8 {[%emt 0:01:16]} 61. Kh3 {
+[%emt 0:00:02]} Rf4 {[%emt 0:00:11]} 62. Kg2 {[%emt 0:01:14]} Rg4+ {[%emt 0:00:
+00]} 63. Kh2 {[%emt 0:00:01]} Be5+ {[%emt 0:00:10]} 0-1
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Gelfand, Boris"]
+[Black "Wang, Hao"]
+[Result "1/2-1/2"]
+[WhiteElo "2737"]
+[BlackElo "2701"]
+[Annotator "TA"]
+[PlyCount "85"]
+[EventDate "2017.??.??"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. d4 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Bg5 {E05: Open Catalan: 5 Nf3 Be7} Bc6 10. Rd1 Nbd7 11. Nbd2 h6 12. Bxf6
+Nxf6 13. Nxc4 {[#] LiveBook: 4 Games} Rc8 $146 ({Find the theoretical novelty
+and annotate with similar games:} 13... Be4 14. Qc1 a5 15. Nfe5 Bxg2 16. Kxg2
+c6 {1-0 (52) Gelfand,B (2724) -Harikrishna,P (2750) Moscow 2017}) 14. Nfe5 Bxg2
+15. Kxg2 Nd5 16. e4 Nb4 17. Qe2 Qe8 18. b3 Rd8 19. Rac1 f6 20. Nf3 Qh5 21. Ne3
+c6 22. Qc4 (22. d5 $5 cxd5 23. exd5 $11) 22... Qf7 23. a5 Bd6 24. Ra1 f5 25.
+exf5 Nd5 26. Nh4 g5 27. Ng6 Rfe8 28. Ng4 Kg7 (28... Kh7 $1 $15 29. N6e5 Qxf5)
+29. f6+ $1 $14 Nxf6 ({But not} 29... Kxg6 $2 30. Qd3+ Kh5 31. Ne5 $18) 30. N6e5
+$36 {White has some pressure.} Qg8 {[#]} (30... Qe7 $11 {remains equal.}) 31.
+Nxf6 $1 $16 Kxf6 32. Ng4+ Ke7 33. Nxh6 Qh7 {Hoping for ...Rh8.} 34. Ng4 Rh8 35.
+Qe2 {Strongly threatening d5.} Qf5 36. Rd3 Rhf8 37. Kg1 Kd7 38. Ne5+ Bxe5 39.
+dxe5+ Kc7 40. Rad1 Rd5 41. Qe3 Kb8 42. b4 ({Better is} 42. Rxd5 $16 {Intending
+Rd8+ and mate.} cxd5 43. Rd4) 42... Rh8 43. f3 {Precision: White = 63%, Black
+= 69%.} (43. R1d2 $16) 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Ivanchuk, Vassily"]
+[Black "Duda, Jan-Krzysztof"]
+[Result "1/2-1/2"]
+[WhiteElo "2727"]
+[BlackElo "2698"]
+[Annotator "TA"]
+[PlyCount "34"]
+[EventDate "2017.??.??"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. e3 e6 5. Nc3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8. Be2
+b6 9. O-O Bb7 10. Bb2 Qe7 11. Rad1 Rad8 12. Rfe1 Rfe8 13. h3 {[%emt 0:00:05]
+D4: Semi-Slav: 5 e3} (13. g3 c5 14. cxd5 exd5 15. Bf1 Nf8 16. Bg2 Ne6 17. dxc5
+bxc5 18. Nh4 Bb8 19. Nf5 Qd7 20. Na4 d4 {1-0 (37) Le, Q (2739)-Navara,D (2737)
+Saint Louis 2017}) 13... h6 {LiveBook: 4 Games. The position is equal.} 14. Qb1
+Bb4 $146 ({Predecessor:} 14... c5 15. cxd5 exd5 16. Bf1 Qe6 17. Bd3 Ne4 18.
+dxc5 bxc5 19. Nxe4 dxe4 20. Bc4 Qe7 21. Nh4 Be5 22. Ng6 Qg5 23. Nxe5 {1/2-1/2 
+(23) Barnaure,V (2474)-Colovic,A (2477) France 2007}) 15. Rf1 Bd6 16. Rfe1 Bb4
+17. Rf1 Bd6 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Vallejo Pons, Francisco"]
+[Black "Tomashevsky, Evgeny"]
+[Result "1-0"]
+[WhiteElo "2717"]
+[BlackElo "2710"]
+[Annotator "TA"]
+[PlyCount "75"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8. d4
+d6 9. c3 Bg4 10. Rd1 Qc8 11. h3 Bh5 {C86: Closed Ruy Lopez: Worrall Attack} 12.
+Bg5 Rb8 {LiveBook: 3 Games} 13. d5 $146 ({Find the theoretical novelty and
+annotate with similar games:} 13. a4 h6 14. Bh4 b4 15. Bc4 Na5 16. dxe5 dxe5
+17. Nbd2 Nxc4 18. Nxc4 bxc3 19. bxc3 Bxf3 20. Qxf3 {0-1 (91) Artemiev,V (2652)
+-Ponkratov,P (2610) Izhevsk 2014}) 13... Na5 {The position is equal.} 14. Bxf6
+Bxf6 15. Nbd2 Bg5 16. g4 Bxd2 17. Nxd2 Bg6 $1 18. Nf1 f6 19. f3 Be8 20. Ne3 Bd7
+21. Kh2 Qb7 22. Bc2 b4 (22... Nc4 $11) 23. Rab1 $16 b3 24. axb3 Nxb3 25. Bxb3
+Qxb3 26. Qxa6 Bb5 27. Qa5 $1 Be2 {[#]} 28. Rd2 $1 Bxf3 29. Qxc7 Bxe4 30. Ra1
+Bg6 31. Qxd6 Rfd8 32. Qe7 $40 {Black must now prevent Ra7. White is out for
+blood.} Re8 33. Qa3 Qb6 {[#]} 34. Qa7 $1 Qd6 35. Ra6 Qf8 (35... Re7 {was worth
+a try.} 36. Rxd6 Rxa7) 36. d6 $18 Be4 37. d7 Red8 {Threatens to win with ...
+Rb7.} 38. Qc7 {Precision: White = 72%, Black = 47%.} 1-0
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Bu, Xiangzhi"]
+[Black "Bacrot, Etienne"]
+[Result "1/2-1/2"]
+[WhiteElo "2714"]
+[BlackElo "2728"]
+[Annotator "TA"]
+[PlyCount "40"]
+[EventDate "2017.??.??"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 Ne4 8. Bxe7
+Qxe7 9. Qc2 Nxc3 10. Qxc3 dxc4 11. Bxc4 b6 12. Be2 {D56: Queen's Gambit
+Declined: Lasker Defence} (12. O-O Bb7 13. Be2 Rc8 14. Rac1 c5 15. dxc5 {
+1/2-1/2 (15) Kunin,V (2551)-Fridman, D (2605) Llucmajor 2017}) 12... Bb7 13. b4
+Rc8 14. O-O {LiveBook: 14 Games} a5 15. a3 c5 $146 ({Predecessor:} 15... axb4
+16. axb4 Nc6 17. b5 Na5 18. Ne5 {1-0 (43) Saulyte,G (2012)-Kezele,T (2024)
+Budva 2003}) 16. dxc5 Nd7 17. Rfd1 axb4 {The position is equal.} 18. axb4 {
+aiming for Rxa8.} bxc5 19. Rxa8 Rxa8 20. bxc5 Qxc5 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Andreikin, Dmitry"]
+[Black "Matlakov, Maxim"]
+[Result "1/2-1/2"]
+[WhiteElo "2708"]
+[BlackElo "2728"]
+[Annotator "ChessBase"]
+[PlyCount "51"]
+[EventDate "2017.??.??"]
+[TimeControl "60"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:11]} 2. c4 {[%emt 0:00:00]} e6 {[%emt 0:
+00:00]} 3. Nc3 {[%emt 0:00:00]} Bb4 {[%emt 0:00:14]} 4. Qc2 {[%emt 0:00:09]} d5
+{[%emt 0:00:16]} 5. a3 {[%emt 0:00:37]} Bxc3+ {[%emt 0:00:20]} 6. Qxc3 {
+[%emt 0:00:06]} dxc4 {[%emt 0:00:26]} 7. Qxc4 {[%emt 0:03:04]} b6 {[%emt 0:00:
+00]} 8. Nf3 {[%emt 0:09:00]} Ba6 {[%emt 0:03:22]} 9. Qa4+ {[%emt 0:06:33]} Qd7
+{[%emt 0:00:45]} 10. Qc2 {[%emt 0:00:06]} O-O {[%emt 0:09:11]} 11. Bg5 {
+[%emt 0:03:26]} c5 {[%emt 0:00:30]} 12. dxc5 {[%emt 0:02:35]} Rc8 {[%emt 0:00:
+00]} 13. Bxf6 {[%emt 0:02:15]} gxf6 {[%emt 0:00:45]} 14. Qe4 {[%emt 0:01:06]}
+Qb5 {[%emt 0:03:18]} 15. b4 {[%emt 0:03:12]} bxc5 {[%emt 0:00:43]} 16. e3 {
+[%emt 0:01:29]} Qb7 {[%emt 0:00:55]} 17. Qg4+ {[%emt 0:00:37]} Kf8 {[%emt 0:00:
+00]} 18. b5 {[%emt 0:00:48]} Bxb5 {[%emt 0:02:23]} 19. Rb1 {[%emt 0:00:18]} a6
+{[%emt 0:00:28]} 20. a4 {[%emt 0:02:02]} f5 {[%emt 0:00:50]} 21. Qf4 {[%emt 0:
+00:00]} Qe4 {[%emt 0:00:35]} 22. Qh6+ {[%emt 0:01:44]} Ke7 {[%emt 0:01:42]} 23.
+Qg5+ {[%emt 0:00:56]} Kf8 {[%emt 0:00:09]} 24. Qh6+ {[%emt 0:00:06]} Ke7 {
+[%emt 0:00:04]} 25. Qg5+ {[%emt 0:00:07]} Kf8 {[%emt 0:00:05]} 26. Qh6+ 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Jobava, Baadur"]
+[Black "Yu, Yangyi"]
+[Result "1/2-1/2"]
+[WhiteElo "2702"]
+[BlackElo "2750"]
+[Annotator "TA"]
+[PlyCount "90"]
+[EventDate "2017.??.??"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 Bd6 5. Ne2 O-O 6. Na3 {A01:
+Nimzowitsch-Larsen Opening} e4 7. Nc4 Be7 8. Bxc6 bxc6 9. O-O {LiveBook: 9
+Games} a5 10. d3 d5 $146 ({Predecessor:} 10... a4 11. Ng3 d5 12. Ne5 Qe8 13.
+dxe4 Nxe4 {1/2-1/2 (30) Rapport,R (2702)-Karjakin,S (2785) Wijk aan Zee 2017})
+11. Nd2 a4 12. dxe4 Nxe4 13. Nxe4 dxe4 14. h3 Ra5 15. Qd4 (15. Ng3 {is more
+complex.} Qd5 16. c4 Qxd1 17. Rfxd1 f5 18. Bc3) 15... Qxd4 16. Nxd4 Bd7 17.
+Rfd1 Rfa8 18. Ne2 Be8 19. Bc3 Rd5 20. Bd4 Rda5 21. Rab1 axb3 22. axb3 f5 23. b4
+Rb5 24. Bc3 c5 25. bxc5 Rxb1 ({Don't play} 25... Bxc5 $6 26. Rxb5 Bxb5 27. Rd5
+$16) 26. Rxb1 Bxc5 27. Be5 Bb6 28. Bd4 Ra6 29. Bxb6 Rxb6 $11 {Endgame KRB-KRN}
+30. Ra1 Rc6 31. Nd4 Rc5 32. Kh2 Kf7 33. h4 h6 34. Ra6 Bd7 35. Kg3 Rc3 36. Kf4
+Rc5 37. h5 Ke7 38. Rg6 Kf7 39. g3 (39. c4 $5) 39... Kf8 40. Ra6 (40. Re6 $5)
+40... Ke7 41. Rg6 Kf8 42. c3 (42. Re6 $5) 42... Kf7 {The position is equal.}
+43. c4 c6 44. Rd6 Ke7 45. Rg6 Kf7 {Precision: White = 59%, Black = 66%.}
+1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Vidit, Santosh Gujrathi"]
+[Black "Le, Quang Liem"]
+[Result "1/2-1/2"]
+[WhiteElo "2702"]
+[BlackElo "2739"]
+[Annotator "TA"]
+[PlyCount "94"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. b3 e5 7. dxe5 dxe5 8. Ba3
+Qxd1 {A49:1 d4 Nf6 2 Nf3 g6 3 g3: Anti-King's Indian systems} 9. Rxd1 Re8 10.
+c4 e4 11. Nd4 $1 {LiveBook: 4 Games} e3 (11... c6 12. Nc3 Na6 13. e3 Bg4 14.
+Rd2 Rad8 15. h3 Bc8 16. Rad1 {1-0 (41) Kramnik,V (2808)-Vocaturo,D (2583) Baku
+2016}) 12. f3 Na6 13. Nc3 c6 14. Rac1 h5 $146 ({Find the theoretical novelty
+and annotate with similar games:} 14... Bd7 15. Nc2 h5 16. h4 Rac8 17. Na4 b6
+18. Bb2 Bf5 19. Nd4 Bd7 20. Nc2 Bf5 21. Nd4 Bd7 22. Nc2 {1/2-1/2 (22) Vandrey,
+W-Mainka,R (2445) Germany 1991}) 15. h4 Bf8 16. Bxf8 Kxf8 17. Kh2 Nc5 18. Bh3 (
+18. b4 {is more complex.} Ncd7 19. Na4 Kg7 20. a3 Nb6 21. Nc5) 18... Bxh3 19.
+Kxh3 a5 20. Nc2 Re5 21. Rd4 Ng8 22. Rcd1 Rae8 23. Rd8 Nh6 24. Rxe8+ Kxe8 25.
+Nd4 Ng8 (25... Re7 $11 {remains equal.}) 26. Kg2 $36 {White fights for an
+advantage.} Re7 27. Nc2 Nh6 28. Nd4 f5 29. a3 Kf7 30. b4 axb4 31. axb4 Na6 (
+31... Ne6 $14) 32. b5 $16 Nb4 33. bxc6 (33. c5 $142) 33... bxc6 34. Rb1 (34. c5
+$16) 34... Rd7 $1 $11 35. Nb3 {[#] Strongly threatening Nc5.} Nc2 36. Na5 (36.
+Rc1 $5 Nb4 37. Rb1 $14) 36... Rc7 {The position is equal.} 37. Rb6 Nd4 38. f4
+Ng4 39. c5 Ke7 40. Ra6 Kd7 41. Ra8 Rc8 42. Ra7+ Rc7 43. Ra8 Ne6 44. Na4 Ke7 45.
+Ra7 Kd8 46. Ra8+ Ke7 47. Ra7 Kd8 {Precision: White = 52%, Black = 48%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Cheparinov, Ivan"]
+[Black "Navara, David"]
+[Result "1-0"]
+[WhiteElo "2695"]
+[BlackElo "2720"]
+[Annotator "TA"]
+[PlyCount "83"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. Nc3 Nf6 7. Bg5 h6 8.
+Bh4 d6 {C45: Scotch Game} 9. f3 {LiveBook: 4 Games} Be6 (9... g5 10. Bg3 a6 11.
+Qd2 Qe7 12. O-O-O Be6 13. h4 O-O-O 14. Kb1 Nd7 15. Bf2 Qf6 16. Bxb6 Nxb6 {
+0-1 (45) Dominguez Perez,L (2752)-Andreikin,D (2736) Novi Sad 2016}) 10. Bb5
+O-O {White is slightly better.} 11. Bxc6 $1 bxc6 12. Qe2 $146 ({Predecessor:} 
+12. Qd3 g5 13. Bg3 Nh5 14. O-O-O Qf6 15. Na4 Nxg3 16. hxg3 {0-1 (36) Brown,M 
+(2252)-Fodor,T (2505) Bournemouth 2016}) 12... g5 13. Bf2 Bxb3 14. axb3 Nd5 15.
+Qd2 Nxc3 16. Qxc3 f5 17. Qc4+ $1 Kg7 18. Qxc6 fxe4 19. Bxb6 axb6 20. Rxa8 Qxa8
+21. Qxc7+ $16 {Endgame KQR-KQR} Kg8 22. O-O exf3 23. Qc4+ Kg7 24. Qc3+ Kg8 25.
+Rxf3 ({White should try} 25. Qd3 $16 {Black must now prevent Qg6+.} Kg7 26.
+gxf3 (26. Qxd6 f2+ 27. Kh1 Qe4 $11)) 25... Rxf3 26. gxf3 {KQ-KQ} Qd5 27. Kg2 {
+Threatens to win with Qc8+.} b5 (27... Qd1 $11) 28. Kg3 (28. Qf6 $16) 28... Kf7
+$11 29. f4 Kg6 (29... gxf4+ $1 $11 {remains equal.} 30. Kxf4 Qg2) 30. Qe3 Kf5
+$2 {[#]} (30... b4 $16) 31. fxg5 $1 $18 hxg5 32. h3 $2 (32. Qf3+ $18 Qxf3+ 33.
+Kxf3) 32... Qc5 $2 (32... Kg6 $16) 33. Qd3+ $2 (33. Qf2+ $18 Kg6 34. Qxc5 dxc5
+35. h4) 33... Kf6 $16 34. Kf3 Qe5 $2 {[#]} (34... b4 $16 35. c3 bxc3 36. bxc3
+Qc6+ 37. Kf2 Ke7) 35. Qc3 $1 $18 Qxc3+ 36. bxc3 {KP-KP. White mates.} d5 37.
+Ke3 Ke5 38. Kd3 Kf4 39. Kd4 Kg3 40. Kxd5 Kxh3 41. c4 g4 42. c5 {Precision:
+White = 58%, Black = 21%.} ({And not} 42. cxb5 g3 $11) 1-0
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Inarkiev, Ernesto"]
+[Black "Fedoseev, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteElo "2694"]
+[BlackElo "2731"]
+[Annotator "RC"]
+[PlyCount "143"]
+[EventDate "2017.??.??"]
+[TimeControl "60"]
+
+1. e4 {[%emt 0:00:00]} c6 {[%emt 0:00:09]} 2. d4 {[%emt 0:00:00]} d5 {[%emt 0:
+00:00]} 3. e5 {[%emt 0:00:00]} Bf5 {[%emt 0:00:08]} 4. Nf3 {[%emt 0:00:00]} e6
+{[%emt 0:00:07]} 5. Be2 {[%emt 0:00:00]} Ne7 {[%emt 0:00:11]} 6. O-O {[%emt 0:
+00:00]} c5 {[%emt 0:00:06]} 7. Na3 {[%emt 0:00:00]} Nec6 {[%emt 0:01:48]} 8. c4
+{[%emt 0:00:05]} cxd4 {[%emt 0:02:21]} 9. Nb5 {[%emt 0:00:16]} Be4 {[%emt 0:00:
+00]} 10. Bg5 {[%emt 0:19:22]} Be7 {[%emt 0:12:37]} 11. Nd6+ {[%emt 0:16:49]}
+Kf8 {[%emt 0:00:08]} 12. Bxe7+ {[%emt 0:00:25]} Qxe7 {[%emt 0:00:07]} 13. Nxd4
+{[%emt 0:00:32]} Nxe5 {[%emt 0:03:25]} 14. c5 {[%emt 0:00:55]} Nbc6 {[%emt 0:
+00:00]} 15. f3 {[%emt 0:21:06]} Bg6 {[%emt 0:06:58]} 16. f4 {[%emt 0:02:14]}
+Nxd4 {[%emt 0:02:53]} 17. fxe5 {[%emt 0:09:51]} Nc6 {[%emt 0:00:41]} 18. Bh5 {
+[%emt 0:03:10]} Qh4 {[%emt 0:02:34]} 19. Bxg6 {[%emt 0:03:58]} hxg6 {[%emt 0:
+00:00]} 20. Rxf7+ {[%emt 0:00:08]} Kg8 {[%emt 0:00:07]} 21. h3 {[%emt 0:00:38]}
+Nxe5 {[%emt 0:00:28]} 22. Rf1 {[%emt 0:14:32]} b6 {[%emt 0:07:56]} 23. Qe2 {
+[%emt 0:01:54]} Rh5 {[%emt 0:01:50]} 24. Nb5 {[%emt 0:04:43]} Rc8 {[%emt 0:00:
+00]} 25. cxb6 {[%emt 0:00:03]} axb6 {[%emt 0:00:05]} 26. Rae1 {[%emt 0:00:26]}
+Rc4 {[%emt 0:02:17]} 27. Qd2 {[%emt 0:01:41]} Kh7 {[%emt 0:05:14]} 28. b3 {
+[%emt 0:00:03]} Re4 {[%emt 0:06:21]} 29. Rxe4 {[%emt 0:00:13]} dxe4 {[%emt 0:
+00:00]} 30. Nd4 {[%emt 0:00:10]} Qg3 {[%emt 0:00:53]} 31. Qf4 {[%emt 0:00:39]}
+Rxh3 {[%emt 0:01:44]} 32. Nxe6 {[%emt 0:00:40]} Qe3+ {[%emt 0:01:07]} 33. Rf2 {
+[%emt 0:00:17]} Qe1+ {[%emt 0:01:58]} 34. Rf1 {[%emt 0:00:01]} Qe3+ {[%emt 0:
+00:00]} 35. Qxe3 {[%emt 0:00:13]} Rxe3 {[%emt 0:00:06]} 36. Rf4 {[%emt 0:00:05]
+} Re1+ {[%emt 0:02:42]} 37. Kh2 {[%emt 0:00:01]} e3 {[%emt 0:00:32]} 38. Kg3 {
+[%emt 0:00:21]} Re2 {[%emt 0:03:02]} 39. a4 {[%emt 0:03:09]} Nd3 {[%emt 0:00:
+00]} 40. Re4 {[%emt 0:00:00]} g5 {[%emt 0:04:39]} 41. Nxg5+ {[%emt 0:08:55]}
+Kg6 {[%emt 0:00:58]} 42. Nf3 {[%emt 0:00:06]} Nc5 {[%emt 0:08:46]} 43. Rb4 {
+[%emt 0:02:44]} Nd7 {[%emt 0:02:28]} 44. Kf4 {[%emt 0:01:52]} Kf6 {[%emt 0:00:
+00]} 45. g4 {[%emt 0:01:19]} g6 {[%emt 0:03:42]} 46. Ke4 {[%emt 0:12:05]} Nc5+
+{[%emt 0:02:25]} 47. Kd5 {[%emt 0:01:01]} Nd7 {[%emt 0:04:02]} 48. g5+ {
+[%emt 0:01:32]} Kf7 {[%emt 0:02:55]} 49. Kd4 {[%emt 0:03:16]} Ke6 {[%emt 0:00:
+00]} 50. Kd3 {[%emt 0:00:21]} Rb2 {[%emt 0:00:26]} 51. Kxe3 {[%emt 0:00:16]}
+Rb1 {[%emt 0:01:25]} 52. Rb5 {[%emt 0:00:40]} Kd6 {[%emt 0:00:26]} 53. Nd2 {
+[%emt 0:02:03]} Re1+ {[%emt 0:00:08]} 54. Kf4 {[%emt 0:00:29]} Kc6 {[%emt 0:00:
+00]} 55. Nc4 {[%emt 0:01:07]} Rf1+ {[%emt 0:00:34]} 56. Ke3 {[%emt 0:00:07]}
+Rh1 {[%emt 0:01:02]} 57. Kf3 {[%emt 0:00:23]} Rh4 {[%emt 0:00:56]} 58. Ke3 {
+[%emt 0:01:04]} Rh3+ {[%emt 0:00:11]} 59. Kd4 {[%emt 0:00:01]} Rg3 {[%emt 0:00:
+00]} 60. Ke4 {[%emt 0:01:17]} Nc5+ {[%emt 0:02:33]} 61. Kf4 {[%emt 0:00:01]}
+Rxb3 {[%emt 0:00:13]} 62. Ne5+ {[%emt 0:00:59]} Kd6 {[%emt 0:00:05]} 63. Nc4+ {
+[%emt 0:00:28]} Kc6 {[%emt 0:00:18]} 64. Rxb3 {[%emt 0:00:33]} Nxb3 {[%emt 0:
+00:00]} 65. Ke5 {[%emt 0:00:10]} Nc5 {[%emt 0:00:06]} 66. Nb2 {[%emt 0:00:58]}
+Nd7+ {[%emt 0:00:15]} 67. Ke6 {[%emt 0:00:05]} Nf8+ {[%emt 0:00:05]} 68. Kf7 {
+[%emt 0:00:52]} Nh7 {[%emt 0:00:05]} 69. Kxg6 {[%emt 0:00:03]} Nxg5 {[%emt 0:
+00:00]} 70. Kxg5 {[%emt 0:00:02]} b5 {[%emt 0:00:12]} 71. a5 {[%emt 0:00:48]}
+Kb7 {[%emt 0:00:04]} 72. Kf5 {[%emt 0:00:46]} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Najer, Evgeniy"]
+[Black "Vitiugov, Nikita"]
+[Result "1/2-1/2"]
+[WhiteElo "2694"]
+[BlackElo "2728"]
+[Annotator "TA"]
+[PlyCount "51"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a4
+Bd7 9. Bd2 {C84: Closed Ruy Lopez: Unusual White 6th moves} (9. c3 Na5 10. Bc2
+c5 11. d4 Qb8 12. Bg5 h6 13. Bh4 Be6 14. Nbd2 O-O 15. h3 Rc8 16. Bg3 cxd4 17.
+cxd4 {1/2-1/2 (57) Giri,A (2772)-Ding,L (2777) Wenzhou 2017}) 9... b4 {
+LiveBook: 15 Games} 10. h3 Rb8 11. a5 {The position is equal.} Qc8 12. Re1 O-O
+13. c3 {[#]} Be6 $146 {Threatens to win with ...bxc3.} ({Predecessor:} 13...
+bxc3 14. bxc3 Be6 15. Bxe6 Qxe6 16. Qa4 d5 17. exd5 Qxd5 {1/2-1/2 (66) Kobalia,
+M (2630) -Harikrishna,P (2659) Kallithea 2008}) 14. Ba4 bxc3 15. Bxc3 Qb7 16.
+Nbd2 (16. Bxc6 $5 Qxc6 17. Nbd2 $11) 16... Nb4 (16... Bd7 $11 {keeps the
+balance.}) 17. d4 $1 $16 Nd3 18. Re3 $1 Nxb2 19. Bxb2 Qxb2 20. Rb1 Qa2 21. Ra1
+(21. Rc1 $11) 21... Qb2 {[#]} 22. d5 $1 Bxd5 {[#] ...Ba8 is the strong threat.}
+23. Rb1 $1 Qa2 {Strongly threatening ...Rxb1.} 24. Ra1 (24. exd5 $14 Nxd5 25.
+Rxb8 Rxb8 26. Rb3) 24... Qb2 $11 {And now ... Ba2 would win.} 25. Rb1 ({
+White should try} 25. exd5 $11 Nxd5 26. Rea3) 25... Qa2 $14 {White must now
+prevent ...Rxb1.} 26. Ra1 {Precision: White = 65%, Black = 71%.} ({White
+should play} 26. exd5 $14 Nxd5 27. Rxb8 Rxb8 28. Rb3) 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Kuzubov, Yuriy"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteElo "2688"]
+[BlackElo "2797"]
+[Annotator "RC"]
+[PlyCount "259"]
+[EventDate "2017.??.??"]
+[TimeControl "60"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:56]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:27]} 3. Bb5 {[%emt 0:00:00]} a6 {[%emt 0:00:16]} 4. Ba4 {[%emt 0:00:
+00]} Nf6 {[%emt 0:00:20]} 5. O-O {[%emt 0:00:10]} Be7 {[%emt 0:00:32]} 6. d3 {
+[%emt 0:02:12]} d6 {[%emt 0:02:08]} 7. c3 {[%emt 0:02:11]} O-O {[%emt 0:00:08]}
+8. Re1 {[%emt 0:00:30]} Re8 {[%emt 0:01:32]} 9. Nbd2 {[%emt 0:00:51]} Bf8 {
+[%emt 0:00:27]} 10. Nf1 {[%emt 0:01:38]} b5 {[%emt 0:02:34]} 11. Bb3 {[%emt 0:
+00:00]} Na5 {[%emt 0:05:20]} 12. Bc2 {[%emt 0:00:14]} c5 {[%emt 0:00:09]} 13.
+d4 {[%emt 0:07:45]} exd4 {[%emt 0:05:56]} 14. cxd4 {[%emt 0:00:06]} Bg4 {
+[%emt 0:00:03]} 15. Ng3 {[%emt 0:22:49]} Nc6 {[%emt 0:09:14]} 16. Be3 {[%emt 0:
+00:00]} d5 {[%emt 0:13:55]} 17. dxc5 {[%emt 0:20:53]} Nxe4 {[%emt 0:10:35]} 18.
+h3 {[%emt 0:14:20]} Bxf3 {[%emt 0:01:39]} 19. Qxf3 {[%emt 0:01:34]} Nxg3 {
+[%emt 0:06:27]} 20. Qxg3 {[%emt 0:02:11]} Qf6 {[%emt 0:00:46]} 21. Bb3 {
+[%emt 0:04:17]} d4 {[%emt 0:05:40]} 22. Bg5 {[%emt 0:00:19]} Qf5 {[%emt 0:00:
+00]} 23. Qf4 {[%emt 0:05:38]} Qd7 {[%emt 0:03:32]} 24. Qg4 {[%emt 0:01:42]}
+Qxg4 {[%emt 0:02:49]} 25. hxg4 {[%emt 0:00:30]} Rxe1+ {[%emt 0:05:41]} 26. Rxe1
+{[%emt 0:00:05]} Rc8 {[%emt 0:00:02]} 27. Bd5 {[%emt 0:07:26]} Nb4 {[%emt 0:00:
+00]} 28. Be4 {[%emt 0:00:05]} Rxc5 {[%emt 0:10:48]} 29. Bd2 {[%emt 0:00:07]}
+Nc2 {[%emt 0:04:37]} 30. Rc1 {[%emt 0:00:53]} d3 {[%emt 0:00:17]} 31. Bxd3 {
+[%emt 0:00:07]} Nb4 {[%emt 0:00:14]} 32. Bb1 {[%emt 0:00:40]} Rxc1+ {[%emt 0:
+00:00]} 33. Bxc1 {[%emt 0:00:05]} g6 {[%emt 0:01:20]} 34. Kf1 {[%emt 0:00:17]}
+Bg7 {[%emt 0:00:20]} 35. Ke2 {[%emt 0:00:46]} Kf8 {[%emt 0:00:17]} 36. Bd2 {
+[%emt 0:01:47]} Nc6 {[%emt 0:01:36]} 37. Be4 {[%emt 0:00:17]} Nd8 {[%emt 0:00:
+00]} 38. b3 {[%emt 0:00:29]} Ke7 {[%emt 0:00:06]} 39. a4 {[%emt 0:00:53]} Ne6 {
+[%emt 0:00:48]} 40. Bb4+ {[%emt 0:00:00]} Kd7 {[%emt 0:00:19]} 41. Bb7 {
+[%emt 0:08:00]} a5 {[%emt 0:06:23]} 42. Be1 {[%emt 0:19:21]} b4 {[%emt 0:05:47]
+} 43. Kd1 {[%emt 0:03:02]} Kd6 {[%emt 0:00:28]} 44. Ba6 {[%emt 0:00:07]} Ke5 {
+[%emt 0:07:38]} 45. Bd2 {[%emt 0:00:36]} f5 {[%emt 0:04:53]} 46. gxf5 {[%emt 0:
+00:00]} gxf5 {[%emt 0:00:02]} 47. Bc4 {[%emt 0:00:20]} Nd4 {[%emt 0:01:31]} 48.
+Bg5 {[%emt 0:00:29]} Nc6 {[%emt 0:01:03]} 49. Ke2 {[%emt 0:01:19]} f4 {[%emt 0:
+00:00]} 50. g3 {[%emt 0:01:29]} fxg3 {[%emt 0:00:47]} 51. fxg3 {[%emt 0:00:03]}
+h6 {[%emt 0:01:51]} 52. Be3 {[%emt 0:01:23]} Ke4 {[%emt 0:00:16]} 53. Bd3+ {
+[%emt 0:00:34]} Kd5 {[%emt 0:02:50]} 54. Bh7 {[%emt 0:00:29]} Be5 {[%emt 0:00:
+00]} 55. g4 {[%emt 0:00:57]} Bg7 {[%emt 0:00:03]} 56. Kf3 {[%emt 0:00:23]} Nd4+
+{[%emt 0:01:00]} 57. Kf2 {[%emt 0:00:21]} Ke5 {[%emt 0:00:46]} 58. Bg8 {
+[%emt 0:00:48]} Ke4 {[%emt 0:00:11]} 59. Bc4 {[%emt 0:00:59]} Nc6 {[%emt 0:00:
+00]} 60. Bd2 {[%emt 0:01:00]} Ne5 {[%emt 0:00:47]} 61. Be2 {[%emt 0:00:28]} Nf7
+{[%emt 0:01:10]} 62. Bc1 {[%emt 0:00:30]} Bf6 {[%emt 0:00:40]} 63. Bf1 {
+[%emt 0:00:34]} Ne5 {[%emt 0:00:18]} 64. Kg3 {[%emt 0:00:32]} Bg5 {[%emt 0:00:
+00]} 65. Bg2+ {[%emt 0:00:34]} Kd3 {[%emt 0:00:37]} 66. Bb2 {[%emt 0:00:03]}
+Nd7 {[%emt 0:00:25]} 67. Bd5 {[%emt 0:00:23]} Bd8 {[%emt 0:00:34]} 68. Bg7 {
+[%emt 0:00:31]} Bg5 {[%emt 0:00:27]} 69. Kf3 {[%emt 0:00:38]} Nc5 {[%emt 0:00:
+00]} 70. Bf8 {[%emt 0:00:17]} Kd4 {[%emt 0:00:35]} 71. Bg8 {[%emt 0:00:14]} Nd7
+{[%emt 0:00:28]} 72. Bg7+ {[%emt 0:00:30]} Ne5+ {[%emt 0:00:18]} 73. Kg3 {
+[%emt 0:00:48]} Ke4 {[%emt 0:00:16]} 74. Bh7+ {[%emt 0:00:08]} Kd5 {[%emt 0:00:
+00]} 75. Bf5 {[%emt 0:00:14]} Nc6 {[%emt 0:00:35]} 76. Kf2 {[%emt 0:01:15]} Nd4
+{[%emt 0:00:47]} 77. Bh7 {[%emt 0:00:08]} Nc6 {[%emt 0:00:31]} 78. Ke2 {
+[%emt 0:00:39]} Ne5 {[%emt 0:00:10]} 79. Bf5 {[%emt 0:00:08]} Nc6 {[%emt 0:00:
+00]} 80. Kf2 {[%emt 0:01:25]} Nd4 {[%emt 0:00:28]} 81. Bg6 {[%emt 0:00:28]} Nc6
+{[%emt 0:00:26]} 82. Bf8 {[%emt 0:00:32]} Ne5 {[%emt 0:00:52]} 83. Bf5 {
+[%emt 0:00:06]} Nc6 {[%emt 0:00:12]} 84. Bg6 {[%emt 0:00:57]} Ne5 {[%emt 0:00:
+00]} 85. Bf5 {[%emt 0:00:07]} Nc6 {[%emt 0:00:03]} 86. Bd3 {[%emt 0:00:39]} Ne5
+{[%emt 0:00:21]} 87. Be2 {[%emt 0:00:48]} Ke4 {[%emt 0:00:36]} 88. Bd6 {
+[%emt 0:00:23]} Bd8 {[%emt 0:00:58]} 89. Ke1 {[%emt 0:00:28]} Kd5 {[%emt 0:00:
+00]} 90. Bb8 {[%emt 0:00:28]} Ke4 {[%emt 0:00:12]} 91. Kd2 {[%emt 0:00:37]}
+Bg5+ {[%emt 0:01:21]} 92. Kd1 {[%emt 0:00:16]} Bd8 {[%emt 0:00:18]} 93. Bd6 {
+[%emt 0:00:26]} Kd5 {[%emt 0:00:27]} 94. Bf8 {[%emt 0:00:23]} Bg5 {[%emt 0:00:
+00]} 95. Kc2 {[%emt 0:00:44]} Ke4 {[%emt 0:00:52]} 96. Bd6 {[%emt 0:00:39]} Bd8
+{[%emt 0:00:23]} 97. Bc5 {[%emt 0:00:29]} Nd7 {[%emt 0:00:44]} 98. Bd3+ {
+[%emt 0:00:39]} Kf4 {[%emt 0:00:27]} 99. Bd6+ {[%emt 0:00:08]} Kxg4 {[%emt 0:
+00:00]} 100. Bb5 {[%emt 0:00:10]} Nf6 {[%emt 0:00:15]} 101. Kd3 {[%emt 0:00:10]
+} h5 {[%emt 0:00:22]} 102. Be5 {[%emt 0:00:42]} h4 {[%emt 0:00:24]} 103. Bxf6 {
+[%emt 0:00:30]} Bxf6 {[%emt 0:00:03]} 104. Ke2 {[%emt 0:00:11]} Kg3 {[%emt 0:
+00:00]} 105. Bc6 {[%emt 0:00:10]} Be7 {[%emt 0:00:06]} 106. Kf1 {[%emt 0:00:11]
+} Bf6 {[%emt 0:00:04]} 107. Ke2 {[%emt 0:00:03]} Be7 {[%emt 0:00:02]} 108. Kf1
+{[%emt 0:00:05]} Bc5 {[%emt 0:00:02]} 109. Bb7 {[%emt 0:00:05]} Bd4 {[%emt 0:
+00:00]} 110. Bc6 {[%emt 0:00:05]} Bb6 {[%emt 0:00:03]} 111. Bb7 {[%emt 0:00:04]
+} Bc7 {[%emt 0:00:02]} 112. Bc6 {[%emt 0:00:05]} Be5 {[%emt 0:00:01]} 113. Bb7
+{[%emt 0:00:05]} Bc3 {[%emt 0:00:02]} 114. Bc6 {[%emt 0:00:07]} Ba1 {[%emt 0:
+00:00]} 115. Bb7 {[%emt 0:00:05]} Bg7 {[%emt 0:00:02]} 116. Bc6 {[%emt 0:00:04]
+} Bf8 {[%emt 0:00:02]} 117. Bb7 {[%emt 0:00:06]} Bd6 {[%emt 0:00:02]} 118. Kg1
+{[%emt 0:00:08]} Bc5+ {[%emt 0:00:02]} 119. Kh1 Ba7 {[%emt 0:00:03]} 120. Bd5 {
+[%emt 0:00:10]} Bd4 {[%emt 0:01:44]} 121. Bc4 {[%emt 0:00:06]} Bg7 {[%emt 0:00:
+00]} 122. Bb5 {[%emt 0:00:04]} Bh8 {[%emt 0:00:03]} 123. Bc4 {[%emt 0:00:03]}
+h3 {[%emt 0:00:02]} 124. Bb5 {[%emt 0:00:04]} Bg7 {[%emt 0:00:41]} 125. Bc4 {
+[%emt 0:00:05]} Bh8 {[%emt 0:00:03]} 126. Bb5 {[%emt 0:00:03]} Bg7 {[%emt 0:00:
+00]} 127. Bc4 {[%emt 0:00:04]} Bh8 {[%emt 0:00:02]} 128. Bb5 {[%emt 0:00:05]}
+Bg7 {[%emt 0:00:02]} 129. Bc4 {[%emt 0:00:05]} Bh8 {[%emt 0:00:03]} 130. Bb5 {
+[%emt 0:00:07]} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Rapport, Richard"]
+[Black "Wei, Yi"]
+[Result "1/2-1/2"]
+[WhiteElo "2675"]
+[BlackElo "2748"]
+[Annotator "TA"]
+[PlyCount "30"]
+[EventDate "2017.??.??"]
+
+1. Nf3 Nf6 2. g3 g6 3. d4 Bg7 4. Bg2 d5 5. O-O O-O 6. c4 c6 7. Qb3 a5 8. cxd5 {
+Find the theoretical novelty and annotate with similar games:} a4 $146 9. Qd1
+cxd5 10. Nc3 Ne4 11. Nd2 Nxc3 12. bxc3 Qa5 13. Ba3 Qxc3 14. Bxe7 Qxd4 15. Rc1
+Re8 {1/2-1/2 (32) Li,C (2720)-Ding,L (2760) Sharjah 2017} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Dubov, Daniil"]
+[Black "Karjakin, Sergey"]
+[Result "1-0"]
+[WhiteElo "2666"]
+[BlackElo "2780"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2017.??.??"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Bc5 {[%emt 0:00:04]
+A29: English Opening: Four Knights Variation with g3} 7. O-O O-O 8. d3 Bb6 9.
+Nxd5 Qxd5 {[#]} 10. b4 $1 {LiveBook: 3 Games} e4 ({Of course not} 10... Nxb4
+11. Bb2 $14) (10... a5 $11) 11. Ng5 $14 Qd4 12. Ba3 $146 {aiming for b5.} ({
+Find the theoretical novelty and annotate with similar games:} 12. Be3 Qxb4 13.
+Nxe4 Bxe3 14. fxe3 {1-0 (53) Nakamura,H (2792) -Karjakin,S (2773) Saint Louis
+2017}) 12... e3 13. b5 exf2+ 14. Kh1 Ne5 $1 {Hoping for ...Re8.} 15. Bxf8 Kxf8
+16. a4 {a5 is the strong threat.} a5 17. bxa6 Rxa6 18. a5 $1 Ba7 19. Qc1 Qd8
+20. Qf4 $1 h6 {[#]} 21. Ne4 $1 ({Much worse is} 21. Qxe5 hxg5 22. Ra4 Rd6 $11)
+21... Qe7 22. Nc3 g5 {[#]} 23. Qc1 $1 Ng4 24. Nd5 $1 $40 {White is out for
+blood.} Qxe2 25. Qxc7 Rc6 26. Qd8+ Qe8 (26... Kg7 $16) 27. Qxe8+ $18 Kxe8 28.
+d4 Kd8 (28... Bxd4 $142 29. Ra4 Ba7) 29. h3 {White has a decisive advantage.}
+Nf6 30. Nb6 ({But not} 30. Rxf2 $6 Nxd5 31. Bxd5 Bxd4 $16) 30... Rc2 31. Nxc8 {
+Precision: White = 94%, Black = 57%.} 1-0
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Grachev, Boris"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteElo "2654"]
+[BlackElo "2804"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
+h3 O-O 9. Be3 {[%emt 0:00:07] D85: Exchange Grünfeld: Unusual White th moves
+and lines with 7 Nf3} (9. Be2 Nc6 10. Be3 f5 11. Qb3+ Kh8 12. Rd1 cxd4 13. Nxd4
+Nxd4 14. Bxd4 Qc7 15. exf5 Bxf5 16. O-O Bxd4 17. Rxd4 Rac8 18. c4 {1/2-1/2 (30)
+Piorun,K (2638)-Areshchenko,A (2677) Poland 2017}) 9... Qa5 10. Bd2 Nc6 11. Be2
+{LiveBook: 12 Games} Qd8 12. d5 Ne5 13. Nxe5 Bxe5 14. O-O $146 ({Predecessor:} 
+14. Qb3 Rb8 15. O-O b5 16. Bh6 {1/2-1/2 (49) Grachev,B (2434)-Areshchenko,A 
+(2512) Moscow 2002}) 14... f5 15. f4 Bg7 {The position is equal.} 16. Bc4 fxe4
+17. Qe2 Kh8 18. Qxe4 Bf5 19. Qe2 a6 20. a4 b5 21. axb5 axb5 22. Rxa8 Qxa8 23.
+Bxb5 Qxd5 24. Bc4 Qe4 25. Qxe4 (25. Rf2 {feels hotter.} Rd8 26. g4 Qxe2 27.
+Rxe2 Bd3 28. Bxd3 Rxd3 29. Rxe7 Kg8 30. Be3) 25... Bxe4 26. Re1 Rd8 27. Rxe4
+Rxd2 28. Rxe7 Bxc3 29. Re8+ Kg7 30. Re7+ Kh8 31. Re8+ {Precision: White = 64%,
+Black = 72%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Demchenko, Anton"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteElo "2650"]
+[BlackElo "2803"]
+[Annotator "TA"]
+[PlyCount "29"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. c3 a6 6. a4 {[%emt 0:00:05] C4:
+Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} d6 7. O-O Ba7 (7... O-O
+8. Re1 Ba7 9. h3 b5 10. Bb3 h6 11. axb5 axb5 12. Be3 Bd7 13. Bxa7 Rxa7 14. Nbd2
+Rxa1 15. Qxa1 Nh5 {1/2-1/2 (69) So,W (2810) -Nakamura,H (2792) Saint Louis 2017
+}) 8. Nbd2 O-O 9. h3 Be6 10. Bxe6 {Predecessor:} fxe6 $146 11. b4 b5 12. Re1
+Qe8 13. Nf1 Nh5 14. Be3 Bxe3 15. Rxe3 {1-0 (43) Oparin,G (2605)-Esipenko,A 
+(2523) Sochi 2017} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Kovalyov, Anton"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2649"]
+[BlackElo "2794"]
+[Annotator "TA"]
+[PlyCount "62"]
+[EventDate "2017.??.??"]
+
+1. c4 e5 2. g3 Bc5 3. Nc3 Nc6 4. Bg2 a6 5. e3 d6 6. Nge2 {A25: English Opening
+vs King's Indian with ...Nc6 but without early d3} h5 (6... Ba7 7. b3 Nge7 8.
+Bb2 h5 9. h4 Bg4 10. d3 Qd7 11. Qd2 Rb8 12. Rc1 O-O 13. Ne4 {1-0 (51) Topalov,
+V (2749)-Grischuk, A (2761) Paris 2017}) 7. d4 Ba7 {LiveBook: 17 Games} 8. dxe5
+{White is slightly better.} dxe5 9. Bxc6+ (9. Qxd8+ {looks sharper.} Nxd8 10.
+h3 Bf5 11. b3 Nc6 12. Ba3) 9... bxc6 10. Qxd8+ Kxd8 11. h3 Nf6 $146 ({Find the
+theoretical novelty and annotate with similar games:} 11... Bc5 12. Na4 {
+1/2-1/2 (50) Adan Bermudez,S (2366)-Ochsner, B (2419) Fredericia 2015}) 12. b3
+Be6 13. Ba3 Kc8 14. Na4 Ne4 15. Nec3 Ng5 16. h4 Nf3+ 17. Kf1 Kb7 18. Kg2 Bg4
+19. Ne4 $36 {White has some pressure.} Rhd8 (19... f5 $5 20. Nec5+ Kc8 $14) 20.
+Be7 Re8 21. Bb4 c5 (21... Rad8 $11) 22. Bc3 $14 f6 23. Naxc5+ Bxc5 24. Nxc5+
+Ka7 25. b4 g5 26. hxg5 ({White should try} 26. a4 $16) 26... Nxg5 $11 27. f4
+exf4 28. gxf4 Rxe3 29. Bd4 Re2+ 30. Kf1 $1 Nh7 (30... Nf7 $1 $11 {remains
+equal.}) 31. Re1 $16 Rxe1+ {Precision: White = 60%, Black = 64%.} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Bluebaum, Matthias"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[WhiteElo "2633"]
+[BlackElo "2792"]
+[Annotator "TA"]
+[PlyCount "32"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 cxd4 6. Qxd4 exd5 7. e4 Nc6 8.
+Bb5 {[%emt 0:00:05] D41: Queen's Gambit Declined: Semi-Tarrasch with cxd5} dxe4
+9. Qxd8+ Kxd8 {The position is equal.} 10. Ng5 Be6 11. O-O Bb4 12. Ncxe4 Nxe4
+13. Nxe4 Ke7 14. Be3 {Black should prevent a3.} Rhd8 15. Nc5 (15. Bxc6 bxc6 {
+1/2-1/2 (29) Wang,H (2698)-Wei,Y (2738) Danzhou 2017}) 15... Nd4 16. Nxe6 {
+Predecessor:} Nxe6 $146 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Erdos, Viktor"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[WhiteElo "2619"]
+[BlackElo "2756"]
+[Annotator "TA"]
+[PlyCount "40"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8.
+Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Qd2 (11. Bd2 $5 Qxa2 12. O-O $14) 11...
+Qxd2+ {Predecessor:} 12. Bxd2 $146 Rd8 13. d5 Na6 14. Rc1 f5 15. e5 h6 16. Bc4
+Kh8 17. O-O g5 18. Rfd1 f4 19. Bxa6 bxa6 20. Ba5 Rg8 {1/2-1/2 (63) Radjabov,T 
+(2784)-Caruana,F (2770) Moscow 2012} 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Sethuraman, S P."]
+[Black "Harikrishna, P."]
+[Result "1/2-1/2"]
+[WhiteElo "2617"]
+[BlackElo "2741"]
+[Annotator "TA"]
+[PlyCount "76"]
+[EventDate "2017.??.??"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Qa4 Bd7 8. Qxc4
+b5 9. Qc3 {[%emt 0:00:05] E04: Open Catalan: Nf3} b4 10. Qd3 Rc8 {LiveBook: 5
+Games} 11. Bg5 {The position is equal.} (11. dxc5 Bxc5 12. Be3 Bxe3 13. Qxe3
+O-O 14. Nbd2 Qe7 15. Nc4 Rfd8 16. Rac1 Ng4 {1/2-1/2 (72) Ding,L (2781)
+-Naiditsch,A (2712) Danzhou 2017}) 11... cxd4 12. Nxd4 Ne5 $146 ({Predecessor:
+} 12... Nxd4 13. Qxd4 Bc5 14. Qd3 Qb6 15. Bxf6 gxf6 16. Nd2 Qd6 17. Qxd6 Bxd6 {
+1/2-1/2 (25) Haba,P (2476)-Testor,S (2316) Germany 2017}) 13. Qa6 Bc5 14. Nb3
+Bb6 15. Bf4 Nfg4 16. h3 g5 17. Bd2 Nh6 (17... h5 $11 18. hxg4 Nxg4) 18. Bxb4
+$14 g4 19. Ba5 (19. Nc3 $5 gxh3 20. Bxh3 $11) 19... gxh3 20. Bxh3 Rg8 $36 {
+Black has some pressure.} 21. Bxb6 axb6 22. Bg2 {Strongly threatening Nc3.} Nf5
+$1 {Hoping for ...Nxg3!} 23. N1d2 Nxg3 24. fxg3 Rxg3 25. Rfc1 {And now Rxc8
+would win.} Bc6 {[#]} (25... Rc6 $5) 26. Rxc6 $1 Rxc6 (26... Nxc6 $2 {loses.}
+27. Ne4 $18) 27. Nf1 $2 (27. Ne4 $11 {and White is okay.} Re3 28. Nf2 (28. Qb5
+Rxe4 29. Bxe4 Qg5+ 30. Kf1 Qf4+ 31. Bf3 Ke7 $11)) 27... Rg6 $1 $19 {White must
+now prevent ...Qg5. Black has strong compensation.} 28. Ne3 Qg5 (28... Kf8 $1
+$19 29. Qa4 Qg5) 29. Qa8+ $17 Ke7 30. Qa3+ Kf6 31. Nd2 {[#]} Kg7 $1 32. Rf1 Rc7
+(32... h5 $17 33. Rd1 {[#]} Ng4 $1 34. Nxg4 Qxg4) 33. Ne4 $15 Qd8 {White
+should prevent ...Qd4.} 34. Rd1 (34. Qd6 $11 Qxd6 35. Nxd6) 34... Rd7 (34...
+Qh4 $17 {aiming for ...Qxe4.} 35. Nd6 Kh8) 35. Rxd7 $11 Qxd7 ({Black should
+play} 35... Nxd7 $11 36. Qc3+ Kg8) 36. Qc3 $14 f6 37. Kf2 h5 38. Ng3 Rg5 {
+Precision: White = 54%, Black = 61%.} (38... Ng4+ $11 {remains equal.} 39. Nxg4
+hxg4) 1/2-1/2
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.07"]
+[Round "2.2"]
+[White "Lenderman, Aleksandr"]
+[Black "Tari, Aryan"]
+[Result "1-0"]
+[WhiteElo "2565"]
+[BlackElo "2588"]
+[Annotator "ChessBase"]
+[PlyCount "77"]
+[EventDate "2017.??.??"]
+[TimeControl "60"]
+
+1. Nf3 {[%emt 0:00:00]} Nf6 {[%emt 0:00:12]} 2. c4 {[%emt 0:00:00]} c5 {
+[%emt 0:00:04]} 3. Nc3 {[%emt 0:00:00]} d5 {[%emt 0:00:21]} 4. cxd5 {[%emt 0:
+00:00]} Nxd5 {[%emt 0:00:04]} 5. e3 {[%emt 0:00:02]} Nxc3 {[%emt 0:00:16]} 6.
+dxc3 {[%emt 0:00:06]} Qxd1+ {[%emt 0:01:00]} 7. Kxd1 {[%emt 0:00:06]} Nc6 {
+[%emt 0:02:59]} 8. e4 {[%emt 0:01:06]} b6 {[%emt 0:02:28]} 9. Kc2 {[%emt 0:00:
+00]} Bb7 {[%emt 0:06:19]} 10. Be3 {[%emt 0:00:09]} e6 {[%emt 0:09:50]} 11. Nd2
+{[%emt 0:01:03]} Bd6 {[%emt 0:01:40]} 12. a4 {[%emt 0:04:36]} Ke7 {[%emt 0:00:
+00]} 13. f3 {[%emt 0:04:51]} Ne5 {[%emt 0:09:52]} 14. a5 {[%emt 0:02:23]} h6 {
+[%emt 0:02:15]} 15. h4 {[%emt 0:03:41]} Bc6 {[%emt 0:09:09]} 16. h5 {[%emt 0:
+00:00]} Nd7 {[%emt 0:09:25]} 17. Nc4 {[%emt 0:04:37]} Bc7 {[%emt 0:00:11]} 18.
+Na3 {[%emt 0:00:56]} bxa5 {[%emt 0:08:45]} 19. Bb5 {[%emt 0:01:01]} Bxb5 {
+[%emt 0:00:16]} 20. Nxb5 {[%emt 0:00:09]} Bb6 {[%emt 0:00:08]} 21. Bf4 {
+[%emt 0:10:17]} e5 {[%emt 0:07:36]} 22. Bd2 {[%emt 0:00:40]} Nb8 {[%emt 0:00:
+00]} 23. Na3 {[%emt 0:00:39]} Nc6 {[%emt 0:00:31]} 24. Nc4 {[%emt 0:00:08]} Ke6
+{[%emt 0:00:39]} 25. Be3 {[%emt 0:03:10]} Rac8 {[%emt 0:01:02]} 26. Kb3 {
+[%emt 0:03:59]} Rhd8 {[%emt 0:06:09]} 27. Rhd1 {[%emt 0:01:50]} Rb8 {[%emt 0:
+00:00]} 28. Ka4 {[%emt 0:01:56]} a6 {[%emt 0:00:22]} 29. Rxd8 {[%emt 0:02:33]}
+Bxd8 {[%emt 0:02:41]} 30. Bxc5 {[%emt 0:00:29]} Bc7 {[%emt 0:02:31]} 31. Rd1 {
+[%emt 0:02:01]} g6 {[%emt 0:00:44]} 32. hxg6 {[%emt 0:03:33]} fxg6 {[%emt 0:00:
+00]} 33. Rd2 {[%emt 0:00:56]} Rb5 {[%emt 0:00:21]} 34. Bd6 {[%emt 0:01:21]} Bd8
+{[%emt 0:02:06]} 35. Bf8 {[%emt 0:01:00]} Be7 {[%emt 0:00:01]} 36. Bxe7 {
+[%emt 0:01:14]} Kxe7 {[%emt 0:00:02]} 37. Rd5 {[%emt 0:00:55]} Na7 {[%emt 0:00:
+00]} 38. Rxe5+ {[%emt 0:00:59]} Kf6 {[%emt 0:00:31]} 39. Rd5 {[%emt 0:01:02]}
+1-0
+

@@ -1,0 +1,69 @@
+[Event "IOM Open-Masters 2017"]
+[Site "Douglas"]
+[Date "2017.09.22"]
+[Round "1"]
+[White "Kosteniuk, Alexandra"]
+[Black "Hou, Yifan"]
+[Result "1/2-1/2"]
+[ECO "B81"]
+[WhiteElo "2552"]
+[BlackElo "2670"]
+[Annotator "Tiger Hillarp-Persson"]
+[PlyCount "146"]
+[EventDate "2017.09.23"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. h3 {This move
+avoids the long forcing lines that arise after} (7. h4 Nc6 8. Rg1 d5 {The
+result is that White gets some kind of fianchetto variation, where instead of
+g2-g3/h2-h3/g3-g4, White has achieved the same set-up with only two moves.})
+7... Nc6 8. Be3 Bd7 9. f4 (9. Qd2 Nxd4 10. Bxd4 Be7 11. f4 Bc6 12. Bg2 e5 13.
+Be3 {Black has followed a very logical plan, but what to play next?} Nd7 14.
+O-O-O exf4 15. Bxf4 Ne5 16. Ne2 $6 (16. Kb1) 16... Qb6 $6 (16... Ng6 17. Be3) (
+16... O-O $5 17. Nd4 Bf6) 17. Nd4 Bf6 18. b3 Rd8 19. Be3 {was promising for
+White, in Harutjunyan,G (2410)-Fier,A (2610) 1st Paytakht Cup 2016.}) 9... Be7
+{Now White has a choice between four candidate moves:} (9... Nxd4 10. Qxd4 $1 {
+and it becomes obvious why White waited with Qd2.}) 10. Nf3 $5 {...and you will
+point out that this is the "fifth candidate move". However, this is a move that
+didn't even make my "candidate move" list. It seems un-Sicilian-ish to retreat
+the knight in such a manner. Still, perhaps I'm just too conservative.
+Kosteniuk's move is not bad:} (10. Qe2 Nxd4 11. Bxd4 Qa5 12. O-O-O e5 13. Be3
+Rc8 $36 {with the idea of Rxc3!}) (10. Nb3 {is the standard move if one wants
+to stop Black from playing Nxd4, followed by Bd7-c6.} Rc8 $1 {and it is rather
+hard to see White's next move as both} 11. Qd2 ({and} 11. Bg2 {is well met
+with} Na5)) (10. Qd2 {appears to be the most flexible move. One point is that -
+compared to Qe2 -} Nxd4 11. Bxd4 Qa5 12. O-O-O e5 13. Be3 Rc8 14. Bd3 $14 {is
+far more harmonious.}) (10. Bg2 O-O 11. O-O Nxd4 12. Qxd4 Bc6 { , followed by
+d6-d5, looks fine for Black.}) 10... d5 $1 {If Black can play it, then Black
+should play it.} 11. exd5 Nxd5 12. Nxd5 exd5 13. Bg2 d4 $5 (13... Bh4+ $6 14.
+Nxh4 Qxh4+ 15. Bf2 $14) (13... O-O 14. O-O Re8 15. Re1 Qc7 16. c3 Rad8 17. Qd2
+Bd6 {is balanced.}) 14. Nxd4 Bh4+ 15. Bf2 Qe7+ (15... Bxf2+ 16. Kxf2 Qh4+
+(16... Qb6 17. Bxc6 $1 Bxc6 18. Re1+) 17. Kf1 O-O 18. Nxc6 Bxc6 19. Bxc6 bxc6
+20. Qf3 Rad8 21. Rh2 f5 22. Kg1 Qf6 23. Rf2 Qxb2 24. Qb3+ Qxb3 25. axb3 fxg4
+$11) 16. Kf1 Bxf2 17. Kxf2 O-O-O 18. Qf3 $1 Qc5 (18... Qb4 19. c3 Qb6 (19...
+Qxb2+ 20. Kg3 $16 {is suicidal, as White will soon take the b-file.}) 20. Rad1
+Rhe8 21. Kg3 Nxd4 22. cxd4 Kb8 {and White's position is a little too loose for
+her to claim any real advantage.}) 19. Rhd1 h5 $5 {A curved ball. Hou is
+setting White new problems move by move.} 20. gxh5 $1 (20. g5 Bg4 $1 21. hxg4
+Rxd4 22. Rxd4 Qxd4+ 23. Kg3 Qxb2 24. Re1 {is still not bad for White, but it is
+easy to get lost when things turn out in a way that you did not imagine.
+However, Kosteniuk steers clear of any fancy stuff, and in the process she
+keeps some advantage.}) 20... Be6 21. Qc3 {This simiplifies the position should
+lead to a drawish ending.} ({It was more ambitious to play} 21. c3 Bd5 22. Qg4+
+(22. Qe2 Bxg2 23. Kxg2 Nxd4 24. Rxd4 Rxd4 25. cxd4 Qxd4 26. Kg3 Qc5 $11) 22...
+Kb8 23. Bxd5 Rxd5 24. Qxg7 Rdxh5 25. Rd3 {, although it is hard to chose such a
+line for a human. Black's king looks rather forlorn.}) 21... Qxc3 22. bxc3 Rxh5
+$6 (22... Nxd4 $1 23. cxd4 Rxh5 24. Kg3 Rdh8 25. Rh1 R8h6 { and White will have
+to give the pawn back.}) 23. Nxe6 $1 fxe6 24. Rxd8+ Kxd8 25. Rg1 Ne7 26. Bxb7
+(26. Re1 $5 {keeps a minimal initiative, but should also lead to a draw.
+White's pawn structure is too bad to promise any real winning chances.}) 26...
+Rxh3 27. Bf3 Rh2+ 28. Rg2 Rxg2+ 29. Bxg2 Kc7 30. Ke3 Kd6 { planning ...e5} 31.
+Kd4 Nf5+ 32. Ke4 Ng3+ 33. Kf3 Nf5 34. Ke4 Ng3+ 35. Kd3 Nh5 36. Ke3 Nf6 37. c4
+(37. Be4 e5) 37... Nd7 $1 {When the knight reaches c5, there is not much White
+can do.} 38. Kd4 Nc5 $11 39. Bf3 Nd7 40. Bh5 Nc5 41. Be8 Nb7 42. a4 Nc5 43. a5
+Nb7 44. c5+ Nxc5 45. Kc4 Na6 46. Bh5 Nc7 47. Bf3 Na6 48. Bg2 Nc7 49. Bb7 Ne8
+50. Kd4 Nf6 51. Bf3 Nd7 52. Bg2 e5+ 53. fxe5+ Nxe5 54. a6 Nd7 55. Bf1 Nc5 56.
+Bb5 Ne6+ 57. Ke4 Kc5 58. Ke5 Nc7 59. Bd3 Kb6 60. Kd6 g5 61. Be2 Nb5+ 62. Ke5
+Kxa6 63. Kf5 Kb6 64. Kxg5 Kc5 65. Kf4 Nc3 (65... a5 66. Bxb5 Kxb5 67. Ke3 $11)
+66. Ke3 a5 67. Kd2 Kb4 68. Bh5 a4 69. Kc1 a3 70. Bf7 Kc5 71. Bb3 Kd4 72. Bf7
+Ke3 73. Bb3 Kd4 1/2-1/2

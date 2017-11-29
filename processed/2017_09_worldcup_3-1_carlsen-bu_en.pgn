@@ -1,0 +1,51 @@
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi GEO"]
+[Date "2017.09.09"]
+[Round "3.1"]
+[White "Carlsen, Magnus"]
+[Black "Bu, Xiangzhi"]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteElo "2822"]
+[BlackElo "2710"]
+[Annotator "Sagar Shah"]
+[PlyCount "72"]
+[EventDate "2017.09.03"]
+
+1. e4 e5 2. Bc4 {Carlsen most probably chose this move order to avoid the
+Petroff.} Nf6 3. d3 Nc6 4. Nf3 Be7 5. O-O O-O 6. Bb3 d6 7. c3 Be6 8. Re1 Qd7 9.
+Nbd2 Rab8 $5 {This move surprised me. What was the idea of this move? When I
+asked Bu Xiangzhi this question after the game, he replied, "The idea is to
+defend b7 after Bxb3 and Qxb3. And after d5, if White plays Ba4 then I can
+play b5."} (9... Bxb3 10. Qxb3 Rab8 11. d4 $14) (9... d5 10. Ba4 $1 $16) 10.
+Bc2 (10. Ba4 b5 $1) (10. d4 exd4 11. cxd4 Bg4 $1 $132) 10... d5 11. h3 $6 {
+Perhaps Magnus should take on d5 immediately.} (11. exd5 $1 {Black is already
+in some difficulty.} Nxd5 (11... Bxd5 12. Nxe5 Nxe5 13. Rxe5 Bd6 14. Re1 Rbe8
+15. f3 $14) (11... Qxd5 12. Qe2 {It is not so easy to defend e5.} Rbe8 13. Nxe5
+Bd6 14. Nxc6 Qxc6 15. Ne4 Nxe4 16. dxe4 $14) 12. Nxe5 Nxe5 13. Rxe5 $16 {
+With no pawn on h3, I cannot see Black having too much compensation.}) 11... h6
+12. exd5 Nxd5 13. Nxe5 Nxe5 14. Rxe5 Bd6 15. Re1 Bxh3 $1 {It's basically now
+or never. Black is a pawn down and taking this pawn helps him to create some
+counterplay.} 16. gxh3 Qxh3 17. Nf1 (17. Qf3 {Carlsen could have made this
+move and agreed to a draw. But of course, he was much more ambitious.} Bh2+ $11
+18. Kh1 Bg3+ 19. Kg1 Bh2+ $11) 17... Rbe8 $1 {The compensation for Black is a
+lot like the Marshall Gambit.} 18. d4 (18. Bd2 {was another option, but after something
+like g5 Black should be doing fine.} g5 $1) 18... f5 $1 19. Bb3 (19. Rxe8 Rxe8
+20. Qd3 Qg4+ 21. Ng3 Re1+ 22. Kg2 Rxc1 $19) 19... c6 20. f4 (20. c4 Rxe1 21.
+Qxe1 Rf6 22. Qe8+ Kh7 23. Bd1 Rg6+ 24. Qxg6+ Kxg6 25. cxd5 f4 {And Black is
+for choice.}) 20... Kh7 21. Bxd5 $2 (21. Re2 {Moving the rook to h2 or g2
+would give White good defensive chances.} Nxf4 (21... Rxe2 22. Qxe2 Rf6 (22...
+Nxf4 23. Bxf4 Bxf4 24. Re1 $1 {Bringing the last piece in the game.} Rf6 25.
+Qg2 $1 Qh4 (25... Rg6 26. Bg8+ $1 $18) 26. Re6 $1 $18 {And the move Re1 is
+justified.}) (22... Bxf4 $2 23. Bxd5 Bxc1 24. Bg2 $18) 23. Bxd5 cxd5 24. Nh2
+Rg6+ 25. Kh1 Qg3 26. Bd2 $16) 22. Rh2 Qg4+ 23. Qxg4 fxg4 24. Bxf4 Bxf4 25. Rh4
+$16) 21... cxd5 $17 22. Re3 Rxe3 23. Bxe3 g5 $1 {Perhaps Magnus underestimated
+this move. There is no good way to hold the f4 point.} 24. Kf2 gxf4 25. Qf3
+fxe3+ 26. Nxe3 Qh2+ 27. Kf1 {Black is in complete control and doesn't have
+worry.} Rg8 (27... Qxb2 28. Re1 Qxc3 29. Qxd5 Bg3 $19) 28. Qxf5+ Rg6 $1 {
+Bu Xiangzhi was a little tense at this point. But when he found that he could
+play h5 followed by Kh6 and h4, he relaxed a bit again.} 29. Ke1 h5 30. Kd1 (
+30. Rd1 {would have given White good holding chances.}) 30... Kh6 31. Nc2 h4
+32. Ne1 h3 33. Nf3 Qg2 34. Ne1 Qg4+ 35. Qxg4 Rxg4 36. Nf3 Rg1+ $1 {A very nice
+rook sacrifce to seal the game.} 0-1
+

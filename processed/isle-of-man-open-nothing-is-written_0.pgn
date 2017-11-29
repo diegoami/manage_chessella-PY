@@ -1,0 +1,72 @@
+[Event "Chess.com Isle of Man"]
+[Site "Isle of Man, England"]
+[Date "2017.09.28"]
+[Round "6"]
+[White "Eljanov, Pavel"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "B00"]
+[Annotator "GM Elshan Moradiabadi"]
+[PlyCount "58"]
+[EventDate "2017.??.??"]
+1. Nf3 b6 $5 {when I became a GM, 1...b6 was considered a dubious move against
+almost all of White's decent choices (1.e4, 1.d4, 1.Nf3, 1.c4). So far, I have
+eliminated the last two from the list of good choices to prevent 1..b6 as Black
+is just fine playing it! We now see in the last decade or so what modern theory
+tells us about 1.e4 b6 and 1.d4 b6 !} 2. e4 Bb7 3. Nc3 e6 4. d4 Bb4 { I have
+played this positions *hundreds* of times!.... in bullet and 3+0 internet
+blitz! That is why most of the reference games here are from blitz or internet
+games!} 5. Bd3 Nf6 (5... d5 6. e5 {is a horrible French with an already 'dead'
+French bishop on b7.}) 6. Qe2 (6. e5 $6 Ne4 7. Bd2 Nxd2 8. Qxd2 Bxf3 9. gxf3
+Qh4 {looks actually very promising for Black!}) 6... d5 7. exd5 { This is the
+best according to ChessBase 14 online reference.} (7. e5 Ne4 8. O-O {Not the
+soundest pawn sacrifice. Nakamura got himself into some trouble against the
+flamboyant master of blindfold Timur Gareev!} (8. Bd2 Bxc3 9. bxc3 c5 10. dxc5
+Nxc5 11. h4 Nbd7 12. Rh3 Qc7 13. Kf1 Ne4 14. Re1 {and Black is actually better!
+Donchekno however lost this game! So it seems that our 1...b6 is pretty
+justifiable at least to the extend we covered!} Nxe5 15. Nxe5 Qxe5 16. Bb5+ Kf8
+17. Bc1 Rc8 18. Bd3 f6 19. c4 Kf7 20. Kg1 Qd6 21. cxd5 exd5 22. Re3 Rhe8 23.
+Ba3 Qd7 24. c4 f5 25. cxd5 Qxd5 26. f3 Nc3 27. Re7+ Rxe7 28. Qxe7+ Kg8 29. Re5
+Qd4+ 30. Kh1 h6 31. Bxf5 Nd5 32. Qe6+ Kh8 33. Qe8+ {1-0 (33) Bachmann,A
+(2646)-Donchenko,A (2563) Chartres 2017}) 8... Nxc3 9. bxc3 Bxc3 10. Rb1 Nc6
+11. Qe3 Bb4 {And Timur got his bishop back to his camp safe and sound!} 12. Qf4
+h6 13. Bb5 Be7 14. Qg4 g6 15. c3 Qd7 16. Ne1 a6 17. Ba4 b5 18. Bd1 Na5 19. Nd3
+Qc6 20. Qe2 Qxc3 {This is a draw offer. Black could keep on playing with Nc4.}
+21. Bd2 Qa3 22. Bc1 Qc3 23. Bd2 Qa3 24. Bc1 {1/2-1/2 (24) Nakamura, H
+(2798)-Gareev,T (2604) Saint Louis 2015}) 7... Qxd5 $1 {I guess Carlsen had
+some deep preparation here! This moves follows with a series of forced moves
+and definitely Carlsen had thoroughly reviewed them before!} (7... Nxd5 8. Bd2
+Nxc3 9. bxc3 Be7 10. O-O {with a lot of initiative for White. This would not
+have made Carlsen happy at all!}) 8. O-O Bxc3 9. bxc3 Nbd7 $1 {My engine says
+the most accurate again!} 10. c4 Qh5 11. Bf4 Rc8 (11... c5 {1/2-1/2 (11)
+Vukovic,Z (2410)-Velimirovic,D (2530) Niksic 1994} 12. d5 {and White is
+slightly better.}) 12. a4 (12. Ne5 $1 {seems like the right move to me in terms
+of tournament plans. With a healthy +4 score at this point, playing with a
+little less ambition against Carlsen could not be a bad idea, especially when
+you are caught in the opening. Don't you think? Additionally, Ne5 does not mean
+that you are making a draw right away. White still has a pair of bishops and a
+little bit more space, which offers him tangible chances to outplay his
+opponent.} Nxe5 13. Bxe5 Qg5 $2 (13... Qxe2 14. Bxe2 Nd7 15. Bg3 $14) 14. f4)
+12... a5 13. Rab1 $6 (13. Ne5 {I still prefer this move!}) 13... O-O 14. Rb5 c5
+15. dxc5 {Eljanov counts too much on his dark-squared bishop and he voluntarily
+shatters his pawn structure. Carlsen's provocative strategy is paying off.}
+Rxc5 16. Bd6 Rxb5 17. cxb5 $2 (17. axb5 {makes a lot more sense. It is
+extremeley important to restrict Black's piece activity. Now, Black will soon
+land a monsterous knight on d5.}) 17... Rc8 18. c4 Nc5 {a4 is a target now.
+White controlled d5 but there are too many good squares that Black can use.}
+19. Bc2 Nce4 20. Bf4 $2 { [#] White should have put his bishop on g3 and avoid
+exposing himself to the coming nasty tactics. After this tactical mistake White
+is doomed.} Nc3 $1 { And Carlsen does not miss it.} 21. Qd3 Qg4 $6 {This was
+not the point!} (21... Bxf3 $1 22. gxf3 {[#]} (22. Qxf3 Qxf3 23. gxf3 Ne2+)
+(22. Qxc3 Nd5 23. Qd2 Qg4 24. Bg3 Qxc4 25. Bd3 (25. Bb1 Be4 $19) 25... Qc3 26.
+Qxc3 Rxc3 $19 27. Bb1 Be2 28. Re1 Bd3) 22... Qg6+ 23. Kh1 (23. Qxg6 hxg6 24.
+Be3 Rxc4 25. Bd3 Rxa4 26. Bxb6 Nxb5 27. Bxb5 Rb4 28. Bxa5 Rxb5 29. Bd2 Nd5 $17)
+23... Qxd3 24. Bxd3 Nxa4 $17) 22. Be5 $2 {This loses at once!} (22. Qxc3 Qxf4
+23. Nd2 Ng4 24. g3 Qe5 $1 25. Qxe5 Nxe5 26. Rd1 g5 27. Bb3 {looks terrible but
+was Eljanov's last chance. At least the queen's are off the board and he is not
+down on material!}) 22... Qxc4 23. Qxc4 Rxc4 24. Bd3 Rc8 {The rest is a piece
+of cake no matter if it is a Carlsen in shape or a Carlsen out of shape!} 25.
+Ra1 Nfd5 26. Nd2 f6 27. Bd6 Nb4 28. Bc4 Bd5 29. Bf1 Nba2 $1 {Greedy and without
+any mercy. Black's pieces are dominating the board and soon both the a and
+b-pawns will fall. An important victory for Carlsen who is on his way to win
+his first classical tournament of the year!} 0-1

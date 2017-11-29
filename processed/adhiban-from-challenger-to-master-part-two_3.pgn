@@ -1,0 +1,38 @@
+[Event "78th Tata Steel GpB"]
+[Site "Wijk aan Zee NED"]
+[Date "2016.01.29"]
+[Round "11.2"]
+[White "Nisipeanu, Liviu-Dieter"]
+[Black "Adhiban, Baskaran"]
+[Result "1/2-1/2"]
+[ECO "B50"]
+[WhiteElo "2679"]
+[BlackElo "2653"]
+[Annotator "Adhiban,B"]
+[SetUp "1"]
+[FEN "8/8/5kP1/1pr4K/1R6/5P2/8/8 w - - 0 54"]
+[PlyCount "16"]
+[EventDate "2016.01.16"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "13"]
+54. Kh6 Rf5 $1 55. f4
+$2 {A most natural but decisive mistake, after which I can save the game
+with a study like defence!} ({Just when I thought I had made a draw, I
+found this amazing resource. As it turns out in the post mortem analysis,
+even this move is drawn.} 55. Rg4 $1 Rxf3 56. Kh7 Rh3+ 57. Kg8 b4 $1 (57...
+Kf5 $2 {This was my inspired defence, but it loses to} 58. g7 $18) 58.
+g7 b3 59. Rf4+ Ke7 60. Rf7+ Ke6 61. Kf8 Rg3 62. g8=Q Rxg8+ 63. Kxg8 Kd5
+$11) 55... Rd5 $1 {It is important to prevent a Rd4-d6 plan.} 56. Rb1
+Rd8 $1 (56... Rd2 57. Rxb5 $18) 57. g7 Rd3 $1 {Now this is much stronger,
+since White can't capture the b5-pawn anymore.} 58. g8=N+ Kf5 59. Rb4
+(59. Rf1 {was winning on the spot (or so I thought)! But the computer
+disagrees as usual.} b4 $1 (59... Rd4 60. Ne7+ Kf6 61. Ng6 $18) 60. Kg7
+(60. Ne7+ {achieves nothing due to} Kf6) 60... Rd7+ $1 (60... b3 61. Ne7+)
+61. Kf8 b3 62. Nh6+ Ke4 (62... Kf6 63. Ng4+ Kf5 64. Ne5 Rb7 {is a more
+complicated draw.}) 63. Ng4 Ra7 $1 {[%cal Gb3b2]} 64. f5 b2 {with a easy
+draw.}) 59... Re3 $1 {Now White can't hold onto his pawn anymore! A miraculous
+escape!} 60. Rd4 Re4 61. Rd5+ (61. Rxe4 Kxe4 62. Kg5 b4 63. f5 b3 64.
+f6 b2 65. f7 b1=Q 66. f8=Q {I thought would have been more fun.}) 61...
+Kxf4 {and we drew after some time.} 1/2-1/2

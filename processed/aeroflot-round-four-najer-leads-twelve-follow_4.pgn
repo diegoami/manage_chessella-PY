@@ -1,0 +1,58 @@
+[Event "Aeroflot Open B 2016"]
+[Site "?"]
+[Date "2016.03.04"]
+[Round "4"]
+[White "Sagar, Shah"]
+[Black "Mirzoyan, David"]
+[Result "1-0"]
+[ECO "E41"]
+[WhiteElo "2425"]
+[BlackElo "2241"]
+[PlyCount "39"]
+1. d4
+{Best by test, at least for me!} Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 {
+Much better known.} (4... Bxc3+ {My opponent had played this once which
+made me choose this line with white.}) 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3
+d6 8. O-O e5 {I must say that I have more experience playing the Huebner
+Wall setup (c5-d6-e5) with black than white. But overall it is a rich
+formation which can be worth playing from both sides.} 9. Nd2 $5 {The
+modern approach. More normal is to play e4 followed by d5. Remember
+the Spassky-Fischer 1972 match?!!} O-O $6 10. Rb1 {White tries to make
+as many useful moves as possible before clarifying the situation in
+the center.} cxd4 {A slightly premature release in the center. It would
+have been much better to play the waiting game with the move b6.} (10...
+b6 $5) 11. cxd4 exd4 12. exd4 Nxd4 $6 {This is just crossing the limits,
+opening up the position to the maximum for the opponent's bishops. A
+pawn is a small price to pay for that.} (12... d5 {is relatively better
+but here too White keeps an edge.}) 13. Ne4 $1 Nxe4 (13... Bf5 $5 {This
+could be a good defence.} 14. Nxf6+ (14. Bg5 Bxe4 15. Bxe4 Ne6 $11)
+(14. Ng3 Bxd3 15. Qxd3 $14) 14... Qxf6 15. Bb2 Qg6 $1 $15) (13... Ne6
+14. Nxd6 $16) 14. Bxe4 {Two bishops on an open board and a lonely black
+king in the corner! Things do not looks so great for Black.} Ne6 15.
+Qh5 h6 $2 (15... f5 16. Bd5 $1 (16. Bxf5 $6 g6 17. Bxe6+ Bxe6 {gives
+Black some chances to defend although in the ensuing opposite coloured
+bishop position White has the better attacking chances.}) 16... Kh8
+17. Re1 $40 {With a strong attack.}) (15... g6 16. Qh6 {It looks scary
+to weaken the dark squares but was the lesser evil.}) {[#]} 16. Bxh6
+$1 { Of course this is as natural as a baby's smile, but I had to calculate
+a few details before playing it.} gxh6 17. Qxh6 Ng5 {This was the move
+that my opponent was banking on, but I had seen a bit further.} (17...
+f5 18. Qg6+ $1 ( 18. Bd5 $2 Qf6 $15) 18... Kh8 19. Bxb7 $1 {A nice little
+move that wins the house.} (19. Rb3 Qh4 $1) 19... Bxb7 20. Qh6+ $1 Kg8
+21. Qxe6+ (21. Rxb7 { is stronger.}) 21... Rf7 22. Rxb7 $18) 18. Rb5
+$1 {Rb3 is easy to see but fifth rank lifts are not so common. My opponent
+was surprised to see this move and rest of his time was spent on kicking
+himself for missing it.} f5 (18... Nxe4 19. Rh5 $18 {With a forced mate
+either on h7 or h8 is the neat point.}) 19. Bd5+ Rf7 (19... Ne6 20.
+Bxe6+ Bxe6 21. Qxe6+ Rf7 22. Rxb7 $18) 20. Re1 $1 { A silent move that
+shows how helpless Black is. My opponent thought for a while before
+stretching his hand out in resignation. It is always a nice feeling
+to win your game in twenty moves!} (20. f4 Ne6 21. Rf3 $5 {A nice idea
+suggested by Sasikiran when we were casually discussing the game (without
+a board).} (21. Bxe6 Bxe6 22. Qxe6 Qd7 23. Qg6+ Rg7 24. Qxf5 Qxf5 25.
+Rxf5 $18 { is the boring long way to win.}) 21... Qe7 (21... Rh7 $1
+{The best defence which forces White to take on e6.}) 22. Rg3+ Rg7 23.
+Rbb3 $1 $18 {A nice idea by Sasi. There is no way to deal with Rxg7
+followed by Rg3.}) (20. Re1 a6 ( 20... Bd7 21. Rxb7 {[%cal Gb7d7,Gd5a8]})
+21. Rb3 f4 22. h4 Ne6 23. Rxe6 Bxe6 24. Qxe6 Qe8 25. Qg6+ Kf8 26. Qh6+
+Kg8 27. Rxb7 $18) 1-0

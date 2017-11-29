@@ -1,0 +1,50 @@
+[Event "European Team Championship"]
+[Site "?"]
+[Date "2017.11.01"]
+[Round "5"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Navara, David"]
+[Result "1-0"]
+[ECO "D28"]
+[WhiteElo "2791"]
+[BlackElo "2726"]
+[Annotator "DF"]
+[PlyCount "73"]
+[EventDate "2017.11.02"]
+[WhiteClock "0:05:57"]
+[BlackClock "0:01:26"]
+
+{A second hack, this time of... our hero from last time.} 1. d4 d5 2. c4 dxc4
+3. e3 Nf6 4. Bxc4 e6 5. Nf3 c5 6. O-O a6 7. Qe2 b5 8. Bd3 cxd4 9. Rd1 (9. exd4
+{is most played but White was in gambit mode!}) 9... Be7 10. a4 bxa4 11. Rxa4 (
+11. Nxd4 {is given as +/= by the engine, but all sensible humans know that
+White's b-pawn is just as bad as Black's a6 pawn, so there is a strong chance
+of play petering out.}) 11... dxe3 (11... Nc6 {would have been a conservative
+reaction, in keeping with the last note.} 12. Nxd4 Nb4 13. Bb5+ Bd7 $11) 12.
+Bxe3 Nbd7 13. Nc3 O-O 14. Bg5 Bb7 (14... Qb6 {was called for.}) 15. Rd4 $5 (15.
+Ne5 $5 {The tactical weakness of the d-file might begin to be an issue here;
+presumably White saw this but decided he didn't want to take the
+queen-for-stuff trade and didn't see an alternative. Black now has to play} h6
+16. Be4 $1 {Not obvious unless you are looking for a trick.} (16. Bxf6 {
+White can take the queen if he likes but after} Nxf6 17. Bh7+ Kxh7 18. Rxd8
+Raxd8 {he may not even be better.}) 16... Nxe4 17. Bxe7 Nxc3 18. bxc3 Qxe7 19.
+Rxd7 Qe8 $1 20. Rf4 Rb8 21. h4 $14 {Black is in trouble.}) 15... Bxf3 $5 (15...
+Qe8 {avoids giving concessions.}) 16. Qxf3 Ne5 17. Qe3 Qb8 18. Bf4 {Suddenly
+Black finds himself being tied up, though he still has a route to equality:}
+Neg4 $6 (18... Nfg4 19. Qe2 Bc5 20. Rc4 $5 (20. Bc4 Bxd4 21. Rxd4 Rc8 $11)
+20... Ba7 21. Bg3 Nxf2 22. Bxf2 Bxf2+ 23. Qxf2 Nxc4 24. Bxc4 Qb4 {with dynamic
+balance.}) 19. Qe2 e5 20. Bg3 h5 21. Nd5 {If not for this move, Black's 18th
+could be best. But now he is slightly worse again.} Re8 22. h3 $1 (22. Nxe7+
+Rxe7 23. Rd6 e4 {risks getting bogged down in tricks.}) 22... h4 23. Nxf6+ (23.
+Rxg4 {is also tempting but all else being equal we would like to keep our
+bishops in the rapidly opening position.}) 23... Bxf6 24. Qe4 g6 25. Bc4 $1 {
+Threatening Qxg6 so that Black can't take any of his pieces.} Kg7 26. Rd7 Re7
+27. Bxh4 Bxh4 28. Qxg4 Bf6 (28... Qc8 $1 $16 {may have been the best
+last-ditch defence, holding the position together by a thread.}) 29. R7d6 Rc7 (
+29... Raa7 {was a more natural 7th rank defence, but after} 30. Rd8 $1 Qxb2 31.
+Rg8+ $3 {Black is again toast.}) 30. Qf3 Bh4 31. Rd7 {Now the 7th rank
+collapses and Black is finished.} Rxd7 32. Rxd7 Qb4 33. Qxf7+ Kh6 34. Qh7+ Kg5
+35. f4+ Kf5 36. Qf7+ Ke4 37. Qxg6+ {An absolute demolition job! This attack
+was so crisp, I might even have considered letting White play mate on the
+board.} 1-0
+

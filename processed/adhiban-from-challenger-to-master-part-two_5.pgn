@@ -1,0 +1,26 @@
+[Event "78th Tata Steel GpB"]
+[Site "Wijk aan Zee NED"]
+[Date "2016.01.31"]
+[Round "13.5"]
+[White "Sevian, Samuel"]
+[Black "Adhiban, Baskaran"]
+[Result "1/2-1/2"]
+[ECO "B94"]
+[WhiteElo "2578"]
+[BlackElo "2653"]
+[Annotator "Adhiban,B"]
+[SetUp "1"]
+[FEN "r3k2r/5p2/p2R1bpp/2n1p3/1p2bP2/5NP1/PPP3BP/2K4R w kq - 0 20"]
+[PlyCount "4"]
+[EventDate "2016.01.16"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "13"]
+20. Rxf6
+{[%tqu "With two strong moves black can take over, Can you find it?",
+"","",exf4,"",10]} exf4 $1 21. Rxf4 {[%tqu "How to prevent white from
+coordinating his pieces and also take advantage of the badly placed rook
+on f4? ","","",Rc8,"Now white is in a difficult situation since the threat
+to c2 is not easy to defend against.",10]} Rc8 $1 {Now White is in a difficult
+situation since the threat to c2 is not easy to defend against.} 1/2-1/2

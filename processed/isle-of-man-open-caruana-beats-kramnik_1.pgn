@@ -1,0 +1,100 @@
+[Event "IOM Open-Masters 2017"]
+[Site "Douglas"]
+[Date "2017.09.22"]
+[Round "1"]
+[White "Caruana, Fabiano"]
+[Black "Kramnik, Vladimir"]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "2799"]
+[BlackElo "2803"]
+[Annotator "Tiger"]
+[PlyCount "133"]
+[EventDate "2017.09.23"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. cxd5 exd5 5. Bg5 c6 6. Qc2 (6. e3 Bf5 $1 (6...
+Be7 7. Bd3 {is a clear improvement on the main game (for White) as} h6 8. Bh4
+Nbd7 9. Nge2 Nh5 10. Bxe7 Qxe7 11. Qd2 {is more dangerous for Black than it
+would be had White already committed the queen to c2.} Nb6 12. f3 $14 {
+Mamedyarov,S (2765)-Adams,M (2750) Sharjah Grand Prix 2017, can be found on the
+Chessbase homepage with my comments.}) 7. Qf3 Bg6 8. Bxf6 Qxf6 9. Qxf6 gxf6 10.
+Nf3 Nd7 11. Nh4 Be7 12. Ne2 Nb6 13. Ng3 Bb4+ 14. Kd1 Na4 $2 15. Ngf5 { lead to
+a nice win for White in Carlsen,M (2851)-Kramnik,V (2801) Stavanger 2016, a
+game that has been extensively commented on by Mihail Marin in CBM. Is if fair
+to believe that Kramnik had an improvement prepared here? I believe so. }) 6...
+h6 7. Bh4 Be7 8. e3 O-O ({I always thought the point of this line is to
+continue} 8... Nbd7 9. Bd3 Nh5 10. Bxe7 Qxe7 {aiming to meet 0-0-0 with 0-0-0,
+and after having played h6 it seems a bit dangerous to invite opposite side
+castling.}) 9. Bd3 Re8 10. Nge2 Nh5 (10... Ne4 $6 11. Bxe7 Qxe7 12. Bxe4 dxe4
+13. Ng3 f5 {Horrible but necessary...} 14. O-O {and in Kuzubov,Y -
+Hayrapetyan,H Al Ain 2015, faced with the threat of f3, Black self-destructed
+with} Qg5 $6 (14... Na6 {is the better move here, when White has too keep up
+the pressure in order to gain some advantage:} 15. f3 $1 (15. a3 Nc7 16. f3
+exf3 17. Rxf3 Rf8 18. Qf2 Be6 19. Re1 Rad8 20. Nxf5 Bxf5 21. Rxf5 Rxf5 22. Qxf5
+Rxd4) 15... Nb4 16. Qd2 exf3 17. Rxf3 Be6 18. Re1 Rf8 19. a3 Nd5 20. Nxd5 cxd5
+21. Ne2 g5 22. Nc1 $1 {and with the knight arriving at e5, White can look
+forward to the somewhat easier game.}) 15. Rae1 h5 {, allowing} 16. Qb3+ Be6
+17. Qxb7 {with a winning advantage for White.}) 11. Bxe7 Qxe7 12. h3 (12. O-O
+Nd7 13. Rae1 Nf8 14. Nc1 Nf6 15. Nb3 Ne6 16. f3 a5 17. Na4 Qd8 18. Nbc5 Nf8 $1
+{Both White's knights strive to occupy c5, so there is no need to exchange one
+of them.} 19. Qb3 $1 b5 $5 20. Nc3 Ne6 21. Nxe6 Bxe6 22. Qc2 (22. Rc1) 22...
+Qb6 23. Qf2 a4 24. Rc1 b4 25. Ne2 Ra5 26. h3 c5 $1 {was a high level
+instruction in how to play this line with Black, although White eventually won,
+in Nepomniachtchi,I (2750)-Kramnik,V (2810) Zurich Korchnoi CC Blitz 2017.})
+12... a5 {This move and the next is the start of a cat and mouse game, where
+Black is trying to give away as little information as possible, while
+discouraging White from castling long, whereas White is trying to set the stage
+for a good moment to do just that.} 13. a3 (13. g4 Nf6 14. Ng3 c5 $1 { as in
+Novotny,M (2219)-Konopka,M (2424) Zdar nad Sazavou 2007, showed the downside of
+evacuating the knight from e2.}) (13. O-O-O $6 b5 14. Kb1 Nf6 { leaves White
+quite discoordinated and vulnerable to Nb8-a6-b4.}) 13... Nd7 14. Na4 Qh4 15.
+g3 Qd8 16. g4 Nhf6 17. Ng3 {Black cannot play c5, so the knight can move.} Nf8
+18. O-O-O {Ambitious.} b6 {Kramnik is looking for a way to get counterplay
+without leaving a weak square on c5. I completely symphatize with this.} (18...
+b5 $5 19. Nc5 N6d7 20. Kb1 Nxc5 21. Qxc5 {looks like a nightmare for Black, as
+the queenside will be blockaded. But looking at the whole board situation it is
+far from clear:} Qf6 $1 (21... b4 22. a4) 22. Rh2 b4 23. a4 Ba6 {and Black's
+counterplay is no slower than than White's.}) 19. Kb1 Bd7 20. Nf5 c5 $6 {This
+natural move is the right one, but the timing is wrong:} ({The engine suggests}
+20... Rb8 {with "a small advantage" and it seems correct. The point is that it
+is hard to find a good move for White:} 21. Rhg1 (21. Ka1 { is again the
+engine, but if we accept that this move is the best, then indeed Rb8 must be an
+improvement.}) (21. Nc3 b5 22. Ne2 b4 23. a4 b3 $1 {With the idea of ...Rb4})
+21... c5 $1 22. dxc5 Bxa4 23. Qxa4 bxc5 {is a crucial attacking-tempo better
+for Black, compared to the game.}) 21. dxc5 Bxa4 22. Qxa4 bxc5 23. Bb5 (23. h4
+c4 $1 24. Bxc4 Re4 25. g5 $1 N8d7 $1 {is messy. After } 26. gxf6 Rxc4 27. Ne7+
+Kf8 28. Qb3 Rb8 29. Qd3 Nxf6 30. Nxd5 Rc5 31. Nf4 { the game is still
+unclear.}) 23... Re6 24. Qc2 Rb6 $5 {This allows Caruana to set the bishop on
+b5 in a cement foundation, but Black can deal with it.} ({ The only way to
+avoid this scenario is to play} 24... a4 $1 {and the only reason not to play
+this move is that one is afraid of} 25. Qxc5 {Perhaps Kramnik calculated that}
+Rc8 26. Qa7 (26. Qb4 Rb8 $36) 26... Ra8 27. Qc5 { is a draw!?}) 25. a4 $1 Ne6
+26. h4 {White's attack hits first.} Nc7 27. Qxc5 $1 {This wins a pawn, but more
+important; the d4-square for the knight.} Nxb5 28. axb5 Qb8 $6 {This is the
+first mistake in the game. With the queen behind the rook the threat against b2
+is not strong enough to distract White's forces from attacking:} (28... Rab8 $1
+29. Ne7+ $1 (29. Nd4 Ne4 30. Qc2 Nd6 31. Ka1 Nxb5 32. Nc6 Qc7 33. Rc1 Re8 34.
+Rhd1 Re4 $132) 29... Kh8 30. Nc6 Qc8 $1 (30... Qc7 31. Qd4 R8b7 32. Nxa5 Rb8
+33. Rc1 Qd7 34. Nc6 R8b7 35. g5 $40) 31. Qd4 R8b7 32. Nxa5 Rb8 33. Rc1 Qxg4 34.
+Qxg4 Nxg4 35. Nc6 R8b7 (35... Re8 36. f3 Nxe3 37. Rc5) 36. Nd4 Nxf2 37. Rc8+
+Kh7 38. Rhc1 $14 {I'm not sure how to evaluate this position with precision.
+The doubled b-pawn is very dangerous, but Black will have counterplay.}) 29. g5
+Rxb5 30. Qc2 Ne4 31. Ne7+ Kh8 32. Rxd5 $1 Rxd5 33. Nxd5 Qe5 34. Rd1 Rd8 35. Rd4
+Rxd5 36. Rxe4 Rd1+ $1 37. Ka2 Qd5+ 38. Qc4 hxg5 ( 38... Kh7 {immediately, might
+have been strong, in order to leave the (weak-er) h4-pawn on the board.}) 39.
+hxg5 Kh7 40. Qxd5 Rxd5 $16 {I'm not sure about the details in the rest of the
+endgame, but it seems that Black had a tough job to defend it.} 41. f4 Kg6 42.
+Rd4 Rb5 43. Ka3 Kf5 44. b3 f6 45. Ka4 Rb7 46. Rc4 Ra7 (46... fxg5 47. Rc5+) 47.
+Rc5+ Ke4 48. Rxa5 {This looks like the losing move.} Re7 $2 ({Instead} 48...
+Rf7 49. g6 (49. gxf6 gxf6 50. b4 Kxe3 51. f5 Kd4 52. Rc5 Ra7+ 53. Kb3 Ra1 $11)
+49... Rb7 50. f5 Kxe3 51. Rc5 Kd4 52. b4 Rb8 { leads to a position from where I
+see no way forward for White.} 53. Kb3 (53. Rc7 Ke5 54. Rxg7 Kxf5 55. b5 Kg5
+56. Ka5 f5 57. b6 Kf6) 53... Rb7 54. Rc1 Ke5 55. Rf1 Rb8 56. Ka4 Ra8+ 57. Kb5
+Rb8+ 58. Kc5 Rc8+) 49. gxf6 gxf6 50. Ra6 Kf5 ( 50... Rf7 51. Re6+ Kf5 52. Re8
+Ra7+ 53. Kb4 Rb7+ 54. Kc3 Rc7+ 55. Kb2 Rb7 56. Rc8 Ke4 57. Rc3 {and it seems to
+me that Black is in a kind of zugzwang (although those with more time at their
+hands will have to find the truth about that).}) 51. Rd6 $18 Ra7+ 52. Kb5 Rb7+
+53. Kc4 Rc7+ 54. Kd4 Rb7 55. e4+ Kxf4 56. Rxf6+ Kg5 57. Rf5+ Kg4 58. Kc4 Re7
+59. Rd5 Kf4 60. e5 $1 Kf5 61. b4 Ke6 62. b5 Ra7 63. b6 Rb7 64. Rb5 Kd7 65. Kd5
+Kc8 66. e6 Kd8 67. Kc6 1-0

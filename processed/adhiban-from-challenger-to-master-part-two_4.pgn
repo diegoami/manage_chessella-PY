@@ -1,0 +1,51 @@
+[Event "78th Tata Steel GpB"]
+[Site "Wijk aan Zee NED"]
+[Date "2016.01.30"]
+[Round "12.4"]
+[White "Adhiban, Baskaran"]
+[Black "Batsiashvili, Nino"]
+[Result "1/2-1/2"]
+[ECO "E31"]
+[WhiteElo "2653"]
+[BlackElo "2485"]
+[Annotator "Adhiban,B"]
+[SetUp "1"]
+[FEN "4R3/8/3p1k2/2pP2p1/2P2pb1/8/5K2/8 b - - 0 50"]
+[PlyCount "12"]
+[EventDate "2016.01.16"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "13"]
+50... Bh3 {[%tqu "White
+can force a draw now, can you find how?","","",Kf3, "Literally forcing
+her to improve the placement of the bishop.",0,Rf8+,"It was high time
+to launch the rook attack since the bishop is placed on the worse square
+possible!",10]} 51. Kf3 $6 {Literally forcing her to improve the placement
+of the bishop.} (51. Rf8+ $1 {It was high time to launch the rook attack,
+since the bishop is placed on the worst square possible!} Ke5 52. Re8+
+Kd4 (52... Kf6 53. Rf8+ $11) 53. Re6 g4 54. Rxd6 g3+ 55. Kf3 Bf5 56. Re6
+{ with an easy draw.}) 51... Bf5 (51... Bf1 {would be very bad due to}
+52. Kg4) 52. Re1 {I need to prevent the king from entering the queenside
+via e5, since the bishop is really on the best square available.} (52.
+Rf8+ Ke5 53. Re8+ Kd4 54. Re6 Kxc4 55. Rxd6 Kd4 {and Black wins the d5-pawn
+and I think Black should be winning here.}) 52... Bd7 $1 (52... Bd3 53.
+Kg4 {is the simplest, forcing} Bf5+ 54. Kf3 {returning to the game position.})
+53. Ke4 $1 {Preventing Kf5.} ( 53. Re2 Kf5 $1 {It is suicidal to allow
+the black king to support the advance of the pawns.} 54. Re7 g4+ 55. Kf2
+Bc8 $1 (55... Ba4 56. Re6 (56. Rf7+ $1 Ke5 57. Re7+ $11) 56... g3+ 57.
+Kg2 Bc2 58. Rxd6 Kg4 {and the pawns roll on!}) 56. Re8 Ba6 57. Rf8+ Ke4
+58. Re8+ Kd3 $17) 53... Bg4 $1 {Catching the king and putting White in
+a difficult situation, since moving the rook from e-file would allow
+penetration
+and also moving the king away from the pawns cannot be a good idea! So
+once you put through all these things you hit upon...} 54. Re2 $3 {Definitely
+one of the most beautiful moves I have ever played! A study like defence!
+And importantly I keep my control of the e5-square.} Bf5+ (54... Bxe2
+{is one of the prettiest stalemate position I have seen so far, at least
+in my games!}) (54... Bh5 55. Re1 {Maintaining the position.}) (54...
+Bh3 $1 55. Kf3 Kf5 56. Re6 {Since the bishop is badly placed on h3 it
+is time to go after the pawns.} g4+ 57. Kf2 g3+ 58. Kf3 Bf1 59. Rxd6 {(I
+was confident that this was a draw)} Bd3 $1 {(As usual the computer laughs
+at my calculations)} ( 59... Bxc4 60. Rd8 {with a draw.}) 60. Re6 Bxc4
+$19) 55. Kf3 Bh3 56. Re8 $1 { and I brought home the half-point!} 1/2-1/2

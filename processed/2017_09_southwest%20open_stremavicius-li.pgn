@@ -1,0 +1,39 @@
+[Event "SW Open International"]
+[Site "?"]
+[Date "2017.09.02"]
+[Round "4"]
+[White "Stremavicius, Titas"]
+[Black "Li, Ruifeng"]
+[Result "0-1"]
+[ECO "A77"]
+[WhiteElo "2426"]
+[BlackElo "2548"]
+[Annotator "RL"]
+[PlyCount "68"]
+[EventDate "2017.09.02"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Re8 10. O-O Nbd7 11. Re1 a6 12. a4 Ne5 13. Qc2 $6 {Played by hand,
+but seriously underestimating black's dynamic resources.} (13. Nf1 {is the
+best and most popular move.}) 13... Nfg4 $1 14. Nf1 ({One key point is} 14. h3
+Nxf2 $1 15. Kxf2 Qh4+ 16. Kf1 Bxh3 $1) 14... f5 (14... Qh4 {is always a
+tempting move to play, but after} 15. g3 Qh3 {Her Majesty is rather stuck.} 16.
+Bd2 f5 17. f4 Nf7 18. Bxg4 Qxg4 {is actually quite similar to the game.}) 15.
+f4 $5 {A bold and good move. Unable to think up any combinations, I played a
+normal move.} Nf7 (15... c4 16. a5 $1 (16. fxe5 Qb6+) 16... Nd3 17. Bxd3 cxd3
+18. Qxd3 fxe4 19. Nxe4 Bf5 20. Nfg3 Qh4 21. h3 Rxe4 22. Rxe4 Bxe4 23. Qxe4 Qxg3
+24. hxg4 Qxg4 25. Bd2) (15... Qb6 16. a5 Qa7 17. Na4 c4+ 18. Nb6 Nd3 19. Bxd3
+Bd4+ 20. Ne3 cxd3 21. Qxd3 Bxb6 22. axb6 Qxb6) 16. Bxg4 Qh4 $5 ({There is
+nothing wrong with} 16... fxg4 {except for the pawn structure. Also the text
+looks fancier.}) 17. Bd2 Qxg4 18. Ne3 Qh5 19. exf5 Bxf5 20. Nxf5 gxf5 21. Qd1
+$2 {A poor move accompanied by a draw offer.} (21. Be3 $1 {was mandatory,
+controlling the d4 square. Evidently White severely underestimated his issues.}
+) 21... Bd4+ 22. Kh1 Qxd1 23. Raxd1 Nh6 24. h3 Kf7 $17 {Now Black's sidelined
+knight will re-enter the game via g8.} 25. Rf1 Re7 (25... Ng8 {was more
+consistent, but g4 concerned me more than it should have.} 26. g4 b5 27. axb5
+Bxc3 28. Bxc3 axb5 29. gxf5 b4 30. Bd2 Re2 $17) 26. Be1 Ng8 27. Bf2 Bxf2 28.
+Rxf2 Nf6 29. Kg1 Rae8 30. Kf1 Re3 31. Re2 {This allows black to penetrate
+everywhere.} (31. a5 {was a tougher defense, but the position is of course
+technically winning after something like} h5 {.}) 31... Rxe2 32. Nxe2 Re4 33.
+b3 Re3 $1 34. Nc1 Rc3 $1 $19 {[%cal Yf6h5,Yh5f4] As white is tied down
+completely, he resigned.} 0-1

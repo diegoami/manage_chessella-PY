@@ -1,0 +1,39 @@
+[Event "1st Innsbruck Open 2017"]
+[Site "Innsbruck AUT"]
+[Date "2017.09.02"]
+[Round "9.5"]
+[White "Teske, H."]
+[Black "Spornberger, M."]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2471"]
+[BlackElo "2273"]
+[Annotator "Alex Yermolinsky"]
+[SetUp "1"]
+[FEN "8/2r4p/pp3p2/4kp2/PK3R2/1P3PP1/7P/8 w - - 0 50"]
+[PlyCount "43"]
+[EventDate "2017.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+{Long grind culminates in a difficult-to-figure-out pawn ending. [#]} 50. Rc4
+$5 Rxc4+ 51. Kxc4 Kd6 52. Kd4 Kc6 53. h4 Kd6 54. b4 Kc6 55. g4 fxg4 56. fxg4
+Kd6 57. Ke4 Ke6 $2 ({Black can only save himself by planning a counterattack:}
+57... a5 $1 58. b5 (58. bxa5 bxa5 59. Kd4 Ke6 60. Kc5 Ke5 61. Kb5 Kf4 $11)
+58... Kc5 59. Kf5 Kb4 $11) 58. Kf4 $2 {Henrik misses his chance.} ({Winning was
+} 58. a5 $1 bxa5 (58... b5 59. Kd4 Kd6 60. g5 fxg5 61. hxg5 {Zugzwang}) 59.
+bxa5 Kd6 (59... h6 60. Kd4 Kd6 61. h5 Kc6 62. Ke4 {heading to g6.}) 60. Kf5 Ke7
+61. h5 Kf7 62. g5 $18 {is similar to the game continuation.}) 58... Ke7 (58...
+b5 $1 59. a5 (59. axb5 axb5 60. Ke4 Kd6 61. Kf5 Ke7 62. h5 Kf7 63. g5 fxg5 64.
+Kxg5 Kg7) 59... Kd5 60. Kf5 Kc4 61. Kxf6 Kxb4 62. g5 Kxa5) 59. Kf5 Kf7 $2 ({
+Already} 59... a5 60. b5 Kf7 61. g5 fxg5 62. hxg5 Kg7 {is not quite a draw as
+White will keep the a-pawn with the new queens on while avoiding perpetual.}
+63. Ke6 Kg6 64. Kd6 Kxg5 65. Kc6 h5 66. Kxb6 h4 67. Kxa5 h3 68. b6 h2 69. b7
+h1=Q 70. b8=Q {Computers can show zeroes all they want, but defending such a
+position in real life is another story.}) 60. b5 $2 (60. a5 $1 bxa5 (60... b5
+61. Ke4 Ke6 62. Kd4 Kd6 63. g5) 61. bxa5 Ke7 62. h5 Kf7 63. g5 fxg5 64. Kxg5
+Kg7 65. h6+ Kf7 66. Kf5 {winning the opposition and the game with it.}) 60...
+axb5 $2 (60... a5) 61. axb5 Ke7 (61... Kg7 62. Ke6 Kg6 63. Kd6 h5 64. gxh5+
+Kxh5 65. Ke6 Kg6 66. h5+) 62. g5 fxg5 63. Kxg5 $1 {I think Black missed this
+idea.} Kf7 64. Kf5 Ke7 65. Ke5 h5 66. Kf5 Kd6 67. Kg5 Ke5 68. Kxh5 Kf5 69. Kh6
+Kf6 70. h5 Kf7 71. Kg5 1-0

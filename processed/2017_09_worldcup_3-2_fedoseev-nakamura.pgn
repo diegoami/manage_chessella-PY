@@ -1,0 +1,50 @@
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi GEO"]
+[Date "2017.09.10"]
+[Round "3.2"]
+[White "Fedoseev, Vladimir"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[ECO "C48"]
+[WhiteElo "2731"]
+[BlackElo "2792"]
+[Annotator "Vladimir Fedoseev"]
+[PlyCount "85"]
+[EventDate "2017.09.03"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:10]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:11]} 3. Nc3 {[%emt 0:00:00]} Nf6 {[%emt 0:00:35]} 4. Bb5 {[%emt 0:
+00:00]} Nd4 {[%emt 0:01:05]} 5. Bc4 {[%emt 0:00:01]} Bc5 {[%emt 0:01:25]} 6. d3
+{[%emt 0:01:11]} c6 {[%emt 0:07:40]} 7. Nxe5 {[%emt 0:09:48]} O-O {[%emt 0:25:
+17]} (7... d5 8. exd5 cxd5 (8... Bd6 9. Nf3 Nxf3+ 10. Qxf3 O-O 11. h3 Re8+ 12.
+Ne2 cxd5 13. Bb3 $11) 9. Bb3 O-O 10. O-O Re8 11. Bf4 Bd6 12. Re1 Qc7 13. Nxd5
+Nxd5 14. Bxd5 Bxe5 15. c3 $16) 8. Nxf7 {[%emt 0:03:14]} (8. O-O d5 $44 (8... d6
+)) 8... Rxf7 {[%emt 0:01:33]} 9. Bxf7+ {[%emt 0:00:06]} Kxf7 {[%emt 0:00:04]}
+10. Be3 {[%emt 0:00:44]} Ne6 $2 {[%emt 0:16:53]} (10... d5 11. Na4 Qa5+ 12. c3
+Bg4 13. f3 Nxf3+ 14. gxf3 Bxe3 15. fxg4 dxe4 $13) (10... d6 $5) 11. Bxc5 {
+[%emt 0:02:06]} Nxc5 {[%emt 0:00:02]} 12. e5 {[%emt 0:00:25]} Ne8 {[%emt 0:00:
+05]} 13. d4 {[%emt 0:07:07]} Ne6 {[%emt 0:01:41]} 14. O-O {[%emt 0:04:25]} d6 {
+[%emt 0:02:36]} 15. f4 {[%emt 0:00:53]} dxe5 {[%emt 0:12:36]} 16. fxe5+ {
+[%emt 0:06:58]} (16. dxe5 $16) 16... Kg8 {[%emt 0:00:07]} 17. d5 {[%emt 0:01:
+09]} cxd5 {[%emt 0:01:02]} 18. Nxd5 {[%emt 0:11:00]} N8c7 {[%emt 0:00:42]} 19.
+c4 {[%emt 0:02:00]} Bd7 {[%emt 0:01:05]} 20. Qg4 {[%emt 0:00:48]} Nf8 {[%emt 0:
+12:13]} (20... Kh8 21. Rf7 Be8 22. Qxg7+ Nxg7 23. Rf8#) 21. Qf3 {[%emt 0:00:26]
+} Ng6 {[%emt 0:00:15]} (21... Be6 22. Qxf8+ Qxf8 23. Rxf8+ Rxf8 24. Nxc7 Bxc4
+25. e6 Rc8 26. Rd1 $18) 22. Rad1 {[%emt 0:10:01]} (22. Nxc7 Qxc7 23. Qf7+ Kh8
+24. e6 Qb6+ $11) 22... Ne6 {[%emt 0:00:07]} 23. h4 $5 {[%emt 0:02:24]} Nxh4 {
+[%emt 0:10:03]} 24. Qf7+ {[%emt 0:00:42]} Kh8 {[%emt 0:00:01]} 25. Nf6 {
+[%emt 0:02:13]} Qb6+ {[%emt 0:00:45]} 26. Rf2 {[%emt 0:01:10]} Ba4 {[%emt 0:02:
+36]} 27. Rd6 {[%emt 0:06:19]} (27. b3 Ng5 28. Qh5 gxf6 29. Qxh4 Rg8 $13) (27.
+Nd5 Qd8 28. b3 $1 $18) 27... Ng5 {[%emt 0:01:00]} 28. Qe7 {[%emt 0:02:40]} Nf5
+{[%emt 0:00:25]} 29. Rxb6 {[%emt 0:00:12]} Nxe7 {[%emt 0:00:01]} 30. Rxb7 {
+[%emt 0:00:09]} Ng6 {[%emt 0:00:01]} 31. Nh5 {[%emt 0:00:23]} Ne6 {[%emt 0:01:
+40]} 32. Rff7 {[%emt 0:01:44]} Be8 {[%emt 0:01:15]} (32... Nd8 33. Rxa7 $18)
+33. Rxa7 {[%emt 0:00:15]} Rd8 {[%emt 0:00:03]} 34. Rf1 {[%emt 0:02:35]} Kg8 {
+[%emt 0:00:16]} 35. Ng3 {[%emt 0:02:43]} h5 $6 {[%emt 0:01:37]} 36. Nf5 {
+[%emt 0:02:58]} Kh7 {[%emt 0:00:16]} 37. b4 {[%emt 0:01:38]} h4 {[%emt 0:00:52]
+} 38. b5 {[%emt 0:00:32]} Rd2 {[%emt 0:00:24]} 39. Nd6 {[%emt 0:00:29]} h3 {
+[%emt 0:00:29]} 40. gxh3 {[%emt 0:00:00]} Bd7 {[%emt 0:00:01]} 41. Rxd7 {
+[%emt 0:00:25]} Ng5 {[%emt 0:00:20]} (41... Nxe5 42. Re7 Rxd6 43. c5 $18) 42.
+Rf5 {[%emt 0:00:10]} Nh4 {[%emt 0:00:05]} (42... Nxe5 43. Rxg7+ Kxg7 44. Rxg5+
+Kf6 45. Ne4+) 43. Rxg7+ {[%emt 0:00:28]} 1-0
+

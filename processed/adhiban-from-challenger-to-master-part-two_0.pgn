@@ -1,0 +1,33 @@
+[Event "Tata Steel Challengers"]
+[Site "?"]
+[Date "2016.01.24"]
+[Round "8"]
+[White "L'Ami, Erwin"]
+[Black "Adhiban, B."]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[WhiteElo "2627"]
+[BlackElo "2653"]
+[Annotator "Adhiban,B"]
+[SetUp "1"]
+[FEN "2n2k2/4rp2/1p3rp1/p1pPR2p/P1P2P1P/3BR1P1/6K1/8 b - - 0 40"]
+[PlyCount "18"]
+40... Rd6 $1 {[%cal Rf7f5] Preparing f5 and completely
+locking down the kingside.} {[%tqu "Can you find the win for
+white?","","",f5,"Losing
+some more advantage.",0,g4,"",15,Kf3,"I thought this was the best winning
+attempt.",0]} 41. f5 $6 {Losing some more advantage.} ({I thought I had
+it covered and was confident about holding it, until in the post-mortem
+Moiseenko came up with} 41. g4 $1 hxg4 42. Kg3 {So easy!} f5 (42... Rdd7
+43. Kxg4 {looks quite sad.}) 43. h5 $18) {[%tqu "White still has the advantage
+but find the strongest defence for black?","","",Rf6,"",0,Rxe5,"was probably
+more accurate since it takes one move less for the knight to reach d6.",10]}
+41... Rf6 $6 (41... Rxe5 $5 {was probably more accurate since it takes
+one move less for the knight to reach d6.} 42. Rxe5 Rf6 {[%cal Gc8d6]
+with a possible fortress, although White can keep trying.}) 42. Rxe7 Nxe7
+43. fxg6 fxg6 44. Rf3 Kg7 {Avoiding any d6 tricks.} (44... Kf7 45. d6
+Nf5 46. Bxf5 gxf5 47. Rd3 $16) {[%tqu "White has one final chance to gain
+the advantage!","","",Re3,"",0,Rxf6,"",10]} 45. Re3 ({ Apparently White
+was still winning after} 45. Rxf6 Kxf6 46. d6 Nf5 (46... Nc6 47. d7) 47.
+Bxf5 gxf5 48. Kf3 Ke6 49. Kf4 $18) 45... Kf7 46. Re2 Nc8 $1 { [%cal Gc8d6]}
+47. Rb2 Ke7 {[%cal Ge7d6]} 48. Re2+ Kf7 49. Rb2 1/2-1/2

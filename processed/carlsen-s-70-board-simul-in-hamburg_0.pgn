@@ -1,0 +1,32 @@
+[Event "Simul - 70 Years DIE ZEIT"]
+[Site "?"]
+[Date "2016.02.20"]
+[Round
+"?"]
+[White "Carlsen, Magnus"]
+[Black "Schneider, Jana"]
+[Result "1-0"]
+[ECO "E08"]
+[WhiteElo "2844"]
+[BlackElo "2112"]
+[Annotator "Schneider,Jana"]
+[PlyCount "67"]
+[EventDate "2016.??.??"]
+1. Nf3 d5 2. c4 e6 3. g3 Nf6
+4. Bg2 Be7 5. O-O O-O 6. d4 Nbd7 7. Qc2 Ne4 8. Nc3 Nxc3 9. Qxc3 Nf6 10.
+Bf4 c6 11. Rac1 Ne4 12. Qb3 g5 $5 13. Be3 f5 {Too optimistic, weakens
+the position of the king.} (13... f6 {was probably better.} ) 14. Ne5
+{An unpleasant position for Black.} Qe8 (14... Bf6 {[%cal Yf6e5] in order
+to exchange the knight.}) 15. f4 h6 (15... g4 16. Bxe4 dxe4 17. d5 $16)
+16. cxd5 exd5 17. Bxe4 fxe4 18. fxg5 hxg5 19. Rxf8+ Qxf8 20. Rf1 Qe8 (20...
+Qd8 21. Nf7 Qb6 $16 {in order to exchange the queens. The king is too
+weak.}) 21. g4 (21. Nf7 g4 22. Bg5 $18 {[%cal Rb3e3,Re3h6,Re3g5]}) 21...
+Rb8 (21... Qd8 { [%csl Re5][%cal Ye7f6,Yf6e5]} 22. Nf7) 22. Bd2 {[%cal
+Yb3e3,Yb3h3]} Be6 23. Qh3 (23. h4 gxh4 24. Qe3) 23... Kg7 $8 24. Qg3 Kh7
+$2 (24... Qd8 25. Nxc6 bxc6 26. Qe5+ $16) 25. h4 gxh4 26. Qe3 Bf8 $8 27.
+Qg5 Bg7 28. Qxh4+ Kg8 29. Bh6 Qd8 ( 29... Bxe5 30. Qg5+ Kh7 31. Qxe5 Kxh6
+32. Rf6+ {Also lost for Black.}) 30. Qh5 Bxe5 $2 (30... Qe7 31. Qg6 $18
+{The bishops on e6 and g7 are too weak. The threat is} -- 32. Rf7 ({and}
+32. Bxg7 Qxg7 33. Qxe6+)) 31. Qxe5 {Black can resign.} Qd7 32. Qxb8+ Kh7
+33. Qf8 Qc7 {[%cal Yc7g3] Threatening ...Qg3 and perpetual.} 34. Kg2 {[%cal
+Yf1h1] Resigns.} 1-0

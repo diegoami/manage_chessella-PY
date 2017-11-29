@@ -1,0 +1,69 @@
+[Event "Spice Cup"]
+[Site "?"]
+[Date "2017.10.25"]
+[Round "7"]
+[White "Yermolinsky, Alex"]
+[Black "Li, Ruifeng"]
+[Result "1-0"]
+[ECO "D43"]
+[WhiteElo "2490"]
+[BlackElo "2570"]
+[Annotator "Yermo"]
+[PlyCount "93"]
+[EventDate "2017.??.??"]
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 c6 5. Bg5 h6 6. Bxf6 Qxf6 7. Qb3 Qe7 $5 {
+This move is the latest addition to a list of known options.} (7... Nd7 8. e4
+dxe4 9. Nxe4 Qf4 10. Bd3 {was the World Cup winning game in the Aronian-Ding
+Liren match.}) (7... a5 8. e3 a4 {Navara-Ding Liren, Blitz 2016}) (7... dxc4 8.
+Qxc4 Nd7 9. Rd1 {Akobian-Shankland, US Championship 2017.}) 8. e4 {I didn't
+hesitate much on this one. The main theme of the Moscow Variation is to push
+e2-e4 in one move.} g6 $5 {A novelty.} ({Naturally,} 8... dxe4 9. Nxe4 Qb4+ {
+is the most solid reply.} 10. Nc3 ({I thought of a strange possibility of} 10.
+Kd1 {that got me thinking about early king's moves. Soon you will see what came
+out of that idle speculation.}) 10... Qxb3 11. axb3 g5 { Sargissian-Karjakin,
+World Team Championship 2015.}) 9. exd5 {I just couldn't resist the
+temptation.} ({Both} 9. e5) ({and} 9. Bd3 {were normal, solid choices.}) 9...
+exd5+ 10. Kd2 $5 {[#] Here it is, I move my king.} Bg7 $2 { Ruifeng spent some
+time on this one, but it follows the main line of my calculations.} ({Instead,
+the best answer was to sac a pawn:} 10... Qd6 $1 { to complete his development
+with} 11. cxd5 Be7 12. Bd3 O-O 13. Rae1 Kg7 $1 ( 13... Rd8 {allows some
+unnecessary fireworks:} 14. Bxg6 $1 {etc.}) 14. Kc2 cxd5 15. Qxd5 Rd8 {Black
+isn't risking much in this situation.}) 11. Re1 Be6 12. cxd5 cxd5 13. Nxd5 Qd6
+{Black must take away that f4-square.} (13... Qd7 $2 14. Nf4 $18) 14. Rxe6+ $6
+{"Everything is proceeding as I have foreseen" to quote Emperor Palpatine. We
+all know where it got him.} ({The engines show the right path:} 14. Qxb7 O-O
+15. Rxe6 fxe6 16. Ne7+ $1 ({I only saw} 16. Qxa8 exd5 { which is highly
+unclear.}) 16... Kf7 17. Qxa8 Qxe7 18. Bd3 {is easily winning for White.})
+14... fxe6 15. Qxb7 Qxd5 16. Qxg7 Rf8 {[#] This is the position I had in mind
+before embarking on this whole thing. Contrary to my great expectations, it
+isn't so decisively winning for White.} 17. Bd3 {I figured getting my pieces
+out was more important than gorging on the pawns.} ({ although,} 17. Qxg6+ Ke7
+18. Qxh6 Nd7 19. Bd3 Qxa2 20. Qg5+ Kd6 21. Ke3 { doesn't look too bad for
+White.}) 17... Nd7 18. Rc1 {I saw the following exchange sacrifice coming and
+hoped to keep my advantage.} ({The alternative,} 18. Ke3 {would allow Black to
+intercept the c-file.} Rc8 19. Bxg6+ Kd8 20. Ne5 Rc7 $16 21. Nxd7 $2 Qg5+)
+18... Rxf3 $1 19. gxf3 Qg5+ 20. f4 Qxf4+ 21. Kd1 Qxf2 {[#] Amazingly, I
+couldn't see a clean path to victory.} 22. Qxh6 {Finally I settled on a line
+that leads to further simplifications.} (22. Bxg6+ Kd8 23. Qg8+ Nf8 24. Bd3)
+(22. Rc3 $5) 22... Qxd4 23. Qxg6+ Ke7 24. Rc4 Qxb2 25. Qh7+ Kd6 26. Qe4 Rh8 27.
+Rc6+ Ke7 28. Rxe6+ Kd8 29. Qa8+ {Bailing out too soon.} ( 29. h4 $1 Qa1+ (29...
+Kc7 30. Qd5) 30. Bb1 Qb2 31. Qa8+ Qb8 32. Qxb8+ Nxb8 33. Re4 $16) 29... Qb8 30.
+Qxb8+ Nxb8 31. Re2 {Under normal circumstances Black should be able to hold,
+but Ruifeng misjudged the upcoming minor piece ending.} Kc7 $6 (31... Nc6 $14)
+32. Re7+ Kd6 33. Rh7 Rxh7 $2 (33... Rg8 $1) 34. Bxh7 { [#] This position may
+seem drawish based on one dangerous assumption that Black is going to be able
+to give his knight for the a-pawn. In my experience, it is not always the case.
+Fischer-Taimanov, Candidates Match (2), Vancouver 1971 comes to mind first, and
+then I had a similar endgame against Pavel Blatny in the 2002 National Open.}
+Nc6 35. Kd2 Ke5 ({There is a defensive plan of assigning the knight the duty of
+stopping the h-pawn and keeping the king in the center to impede the progress
+of the white king:} 35... Nb4 36. a3 Nd5 37. h4 Ke5 38. Kd3 Nf6 39. Bg6 Kd5 40.
+h5 Ng4 41. Kc3 Kc5 42. Kb3 Kb5 {[#] but then White will operate with
+Zugzwangs:} 43. Bf5 Nh6 44. Be6 $1 a5 (44... Ka5 45. Kc4 Ka4 46. Kd4 Kxa3 47.
+Ke5 Kb4 48. Kf6 Kc5 49. Kg5 Kd6 50. Ba2 Ke7 51. Kxh6 $18) (44... Kc5 45. Ka4
+Kb6 46. Kb4 a6 47. a4 a5+ 48. Kc4 Kc6 49. Bd5+ Kd6 50. Bf3 Nf5 51. Be4 Nh6 52.
+Kb5 $18) 45. Kc3 Kc5 46. Kd3 Kd6 47. Bb3 Ng4 48. Kc4) 36. Kc3 Kf4 37. Bg8 a5 $2
+{This only makes White's task easier.} 38. Kc4 Nb4 39. a4 Kg4 40. Be6+ Kh4
+{[#]} 41. Kd4 $18 {Clearing out the c4-square for the bishop.} Nc2+ 42. Kc5 Nb4
+43. Bc4 {Total domination: d5, d3 and a2-squares all have been taken away from
+the hapless knight.} Nc2 44. Kb6 Ne3 45. Bb3 Nf1 46. Kxa5 Nxh2 47. Kb6 1-0

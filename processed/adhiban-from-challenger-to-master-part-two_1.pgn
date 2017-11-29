@@ -1,0 +1,25 @@
+[Event "Tata Steel Challengers"]
+[Site "?"]
+[Date "2016.01.26"]
+[Round "9"]
+[White "Adhiban, B."]
+[Black "Van Foreest, Jorden"]
+[Result "0-1"]
+[ECO "A40"]
+[WhiteElo "2653"]
+[BlackElo "2541"]
+[Annotator "Adhiban,B"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp1b1ppp/2n1pn2/5P2/PpBP3N/4P3/1P4PP/R1BQ1RK1 w - - 0 15"]
+[PlyCount "16"]
+15. Bd2 $2 {Missing a basic tactic!} (15.
+b3 {was better.}) {[%tqu "White just missed a easy tactic, can you spot
+it and also humiliate me?","","",exf5,"",10] } 15... exf5 16. Bd3 (16.
+Nxf5 Bxf5 17. Rxf5 Nxd4 18. Rxf6 Qxf6 19. Bxb4 { was finally equal is
+what I thought until I saw} Rfc8 $1) 16... g6 17. Nxf5 $5 {An interesting
+practical decision, but more out of desperation than inspiration!} Bxf5
+18. Bxf5 gxf5 19. Rxf5 Qe7 {[%tqu "Black threatens Ne4 how would you prevent
+it?","","",Qf3,"",10]} 20. Qf3 Ne4 {[%tqu "I hope you saw the
+continuation...","","",Bxb4,"",10]}
+21. Bxb4 $1 Qxb4 (21... Nxb4 22. Re5) 22. Qxe4 Rae8 {But even after missing
+this Bb4 tactic Black is just clearly better.} 0-1

@@ -1,0 +1,25 @@
+[Event "Tata Steel Challengers"]
+[Site "?"]
+[Date "2016.01.22"]
+[Round "6"]
+[White "Antipov, Mikhail"]
+[Black "Adhiban, B."]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[WhiteElo "2567"]
+[BlackElo "2653"]
+[Annotator "Adhiban"]
+[SetUp "1"]
+[FEN "r2q3k/pp3p1p/5pr1/2pp4/5Q2/1P3P1b/P1PP2PK/R4R2 w - - 0 23"]
+[PlyCount "13"]
+23. gxh3 (23. Kxh3 Qd7+ 24. Kh2 Rag8 25. Rf2 Qe6 $17 {[%cal Ge6e5]}) {[%tqu
+"Which is the best way to continue?","","",Qd7,"",10,Qb6,"This was my
+opponent's suggestion and possibly the best way to continue.",0]} 23... Qd7 (
+23... Qb6 $5 {This was my opponent's suggestion and possibly the best way to
+continue.} 24. Rae1 Rag8) 24. Rg1 Re8 25. Rae1 Kg7 26. h4 {[%tqu "White is
+threatening h5 would you tempt white to proceed with his plans or prevent it?",
+"","",b6,"Provoking h5 but it was probably not a good decision.",10,Rxe1,"",0]}
+b6 $5 {Provoking h5. But it was probably not a good decision.} (26... Rxe1 $1
+27. Rxe1 b6 $17) 27. h5 Rxe1 28. h6+ $1 Kh8 (28... Kg8 29. Rxe1 Qd8 30. Re2 (
+30. Rg1 Kf8 31. Rg2)) 29. Rxe1 {The pawn on h6 turned out to be strong force
+which helped White to achieve a draw.} 1/2-1/2

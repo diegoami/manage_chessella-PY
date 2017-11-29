@@ -1,0 +1,23 @@
+[Event "5th Zurich Opening Blitz"]
+[Site "Zurich SUI"]
+[Date "2016.02.12"]
+[Round "2"]
+[White "Aronian, L."]
+[Black "Shirov, A."]
+[Result "0-1"]
+[ECO "A11"]
+[WhiteElo "2792"]
+[BlackElo "2684"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[SetUp "1"]
+[FEN "8/8/5k2/2q5/p4p2/P4R2/5PBK/8 b - - 0 55"]
+[PlyCount "19"]
+[EventDate "2016.02.12"]
+[EventType "blitz"]
+55... Kg5 56. Bh3 Qd4 57. Kg1 $2 (57. Bf1 $11) 57... Qd1+ $1 58. Kg2 Qd5 $1 59.
+Bc8 Kh4 $2 (59... Qc6 60. Bh3 {leads to the game.}) 60. Bh3 $2 (60. Ba6 $1 {
+Aronian didn't realize his bishop was in danger!}) 60... Kg5 61. Bc8 Qc6 $1 62.
+Bh3 Kh5 $2 {the triangulation idea is cool, with a zugzwang, but the execution
+was not correct} (62... Kg6 63. Bg4 Kf6 {is the correct triangulation, not
+letting the bishop out.}) 63. Bf5 Kh4 64. Bh3 $4 (64. Bd3 $11) 64... Kg5 {
+suddenly White is completely stuck!} 0-1

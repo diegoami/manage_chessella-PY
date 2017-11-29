@@ -1,0 +1,53 @@
+[Event "ETCC Women 2017"]
+[Site "Hersonissos"]
+[Date "2017.11.05"]
+[Round "8"]
+[White "Muzychuk, Anna"]
+[Black "Vega Gutierrez, Sabrina"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2576"]
+[BlackElo "2405"]
+[Annotator "ikhasu"]
+[SetUp "1"]
+[FEN "r7/8/4k3/3p1p1p/PK2pP2/R5P1/7P/8 w - - 0 45"]
+[PlyCount "28"]
+[EventDate "2017.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Ukraine"]
+[BlackTeam "Spain"]
+[WhiteTeamCountry "UKR"]
+[BlackTeamCountry "ESP"]
+[TimeControl "40/5400+30:1800+30"]
+
+{The Spanish Champion had the upper hand, but her misses gave Muzychuk a
+chance to breath and finally draw the game.} 45. a5 {[%emt 0:00:44] Black only
+has two tasks here: first is to improve the central pawns and second is to
+bring the king closer to White's a-pawn. All these things must be done in a
+timely manner.} Rb8+ $2 {[%emt 0:09:02]} (45... Kd6 46. Kc3 Kc5 47. Ra4 Rd8 48.
+Rd4 (48. a6 d4+ 49. Kd2 Kb5 50. Ra1 Ra8) 48... Rd6 49. h3 Rg6) ({Black should
+stop wasting a time and focus on the advantage instead which is the central
+pawns. Timing is really important here, therefore pushing} 45... d4 {is a must.
+} 46. Kc4 (46. a6 Kd6 47. a7 Kc6 48. Kc4 d3 49. Kc3 Kb6 {With this sequence of
+moves, not only has Black improved her central pawn, but also she successfully
+brought the king as another attacker to White's only source of counterplay.
+Mission accomplished.}) 46... Rd8 (46... d3 $1 {does the job as well.} 47. Kc3
+Kd5 48. Kd2 Kc5 49. Ra4 Kb5 $19) 47. a6 d3 48. a7 d2 49. Ra1 e3 50. a8=Q Rxa8
+51. Rxa8 e2 $19) 46. Kc3 $11 {[%emt 0:03:16]} Rc8+ {[%emt 0:00:06]} (46... Kd6
+47. a6 Rc8+ (47... Kc6 $2 48. a7 Ra8 49. Ra5 $1 Kb6 50. Rxd5) 48. Kd4 Rc4+ 49.
+Ke3 d4+ 50. Kd2 Rc8 51. a7 Ra8) 47. Kd2 {[%emt 0:01:00]} d4 {[%emt 0:00:03]}
+48. a6 {[%emt 0:00:12]} Kd5 {[%emt 0:00:33]} 49. Ra5+ {[%emt 0:04:28]} Ke6 {
+[%emt 0:06:45]} (49... Kc4 50. Ra4+ Kc5 51. Ra5+ Kb4 52. Ra1 Kb5 53. h3 $1 Ra8
+54. a7 Kb6 55. Rb1+ Kxa7 56. Ra1+ Kb7 57. Rxa8 Kxa8 58. g4 hxg4 59. hxg4 fxg4
+60. f5 g3 61. f6 g2 62. f7 g1=Q 63. f8=Q+ $11) 50. h3 {[%emt 0:03:11]} Ra8 {
+[%emt 0:00:17]} 51. Re5+ {[%emt 0:02:08]} Kf6 {[%emt 0:00:07]} 52. Ra5 {
+[%emt 0:00:04]} Ra7 {[%emt 0:00:09]} 53. Ra4 {[%emt 0:00:05]} Ke6 {[%emt 0:02:
+49]} 54. Ra5 {[%emt 0:00:07]} d3 {[%emt 0:03:20]} 55. Ke3 {[%emt 0:01:02]} Kf6
+{[%emt 0:00:01]} 56. Ra2 {[%emt 0:00:49]} Ke6 {[%emt 0:00:47]} 57. Ra5 {
+[%emt 0:00:05]} Kf6 {[%emt 0:00:46]} 58. Ra2 {[%emt 0:00:05]} Ke6 {[%emt 0:00:
+28] No improvement could be made and draw was agreed.} 1/2-1/2
+

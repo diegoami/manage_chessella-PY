@@ -1,0 +1,71 @@
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.17"]
+[Round "5.4"]
+[White "Svidler, Peter"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[ECO "A34"]
+[WhiteElo "2756"]
+[BlackElo "2804"]
+[Annotator "Sagar Shah"]
+[PlyCount "68"]
+[EventDate "2017.??.??"]
+[EventType "k.o."]
+[EventCountry "GEO"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "1500+10"]
+
+1. c4 {[%emt 0:00:00]} c5 {[%emt 0:00:01]} 2. Nf3 {[%emt 0:00:00]} Nf6 {
+[%emt 0:00:03]} 3. Nc3 {[%emt 0:00:00]} d5 {[%emt 0:00:02]} 4. cxd5 {[%emt 0:
+00:00]} Nxd5 {[%emt 0:00:02]} 5. e4 {[%emt 0:00:00] The players continue their
+debate in this topical line of the English.} Nb4 {[%emt 0:00:01]} 6. Bc4 {
+[%emt 0:00:01]} Nd3+ {[%emt 0:00:04]} 7. Ke2 {[%emt 0:00:02]} Nf4+ {[%emt 0:00:
+01]} 8. Kf1 {[%emt 0:00:01]} Ne6 {[%emt 0:00:02] I have always found this line
+to be very interesting. One knight moves around the board for six out of the
+first eight moves, and yet Black is doing absolutely fine.} 9. h4 {[%emt 0:00:
+08] Peter believes in his preparation, just like MVL did in game one he sticks
+to his opening.} Nd4 {[%emt 0:00:02]} 10. d3 {[%emt 0:00:04]} e6 {[%emt 0:00:
+01] A new move.} ({In their first classical game of this match MVL had gone for
+} 10... Nbc6 11. Nb5 Be6 12. Bf4 Nxb5 13. Bxb5 Qb6 14. Ba4 Qa6 15. Rc1 b5 16.
+Bb3 Bxb3 17. Qxb3 e6 18. Be3 Na5 19. Qc3 b4 20. Qc2 Nb7 21. Qc4 $14 {1/2-1/2 
+(41) Svidler,P (2756)-Vachier-Lagrave,M (2804) Tbilisi GEO 2017}) 11. Bf4 {
+[%emt 0:04:21]} a6 {[%emt 0:01:09] controlling the critical b5 square.} 12.
+Nxd4 {[%emt 0:01:39]} cxd4 {[%emt 0:00:01]} 13. Ne2 {[%emt 0:00:07]} Nc6 {
+[%emt 0:00:03] Already Black is to be preferred. If you were to keep the king
+back on e1 and the pawn on h2, White's position would be preferable. But two
+problems are just too much to rectify. It's not that White is worse. I just
+feel that Black's moves are natural, while White's plans are not so easy to
+find, at least in a rapid game.} 14. a3 {[%emt 0:00:39]} Bd6 {[%emt 0:01:08]}
+15. Bxd6 {[%emt 0:01:15]} Qxd6 {[%emt 0:00:02]} 16. Qd2 {[%emt 0:00:46]} Bd7 {
+[%emt 0:01:17]} 17. f4 {[%emt 0:00:39]} e5 {[%emt 0:00:25]} 18. f5 {[%emt 0:00:
+14]} g6 {[%emt 0:01:15]} 19. Ng3 {[%emt 0:01:08]} Ne7 {[%emt 0:00:40]} 20. Qh6
+{[%emt 0:00:54] As Peter said after the game, when he was chatting with MVL -
+he didn't believe in this idea, but saw that it was interesting and went for
+it.} O-O-O $1 {[%emt 0:00:19] The king will be well placed on b8.} 21. h5 {
+[%emt 0:02:06]} Kc7 $3 {[%emt 0:03:08] "Kc7 was such a nasty move", were
+Svidler's words after the game ended. In one stroke MVL is able to kill two
+birds. First of all he is able to get his king off the eighth rank, so that
+hxg6 hxg6 Qxh8 Rxh8 Rxh8 doesn't come with a check. And secondly the queen on
+d6 is defended and gxf5 becomes possible. This move is easy to dismiss, as one
+sees Rc1 and thinks that the king is misplaced on c7, but it is not as MVL
+shows in the game.} 22. Bxf7 {[%emt 0:04:03]} (22. hxg6 hxg6 23. Qxh8 Rxh8 24.
+Rxh8 gxf5 25. exf5 Nxf5 $19 {Black is just better.}) (22. Rc1 {The key idea is
+revealed after this move.} gxf5 $1 {Black is absolutely fearless against the
+discovered check.} 23. Bxf7+ Bc6 $15 {White has no way to take advantage.})
+22... gxf5 {[%emt 0:00:47]} 23. Qxd6+ {[%emt 0:00:19]} (23. Rc1+ Bc6 24. Qxd6+
+Rxd6 25. Bb3 (25. exf5 Rf8 $17) 25... Rf8 26. Ke1 $15 {might have been White's
+best chance.}) 23... Kxd6 {[%emt 0:00:02]} 24. exf5 {[%emt 0:00:02]} Nxf5 {
+[%emt 0:00:35]} 25. Ne4+ {[%emt 0:01:12]} (25. Nxf5+ Bxf5 26. Ke2 Rd7 27. Bb3
+Rg7 $19 {White is already in big trouble.}) 25... Ke7 {[%emt 0:00:06]} 26. Bb3
+{[%emt 0:00:01]} Ne3+ {[%emt 0:01:52] The knight on e3 is a monster.} 27. Ke2 {
+[%emt 0:00:10]} Bc6 {[%emt 0:01:03]} 28. Rac1 {[%emt 0:01:49]} Rhf8 {[%emt 0:
+01:12]} 29. Rh3 {[%emt 0:02:07]} Nxg2 {[%emt 0:01:56] With simple and strong
+moves, Black has a completely winning position. Now Svidler becomes desperate.}
+30. Rxc6 {[%emt 0:01:38]} bxc6 {[%emt 0:00:25]} 31. Rg3 {[%emt 0:00:02]} Nf4+ {
+[%emt 0:00:02]} 32. Ke1 {[%emt 0:00:34]} Rb8 {[%emt 0:00:52]} 33. Rg7+ {
+[%emt 0:00:30]} Kd8 {[%emt 0:00:01]} 34. Bf7 {[%emt 0:00:57]} Rb7 {[%emt 0:00:
+15] An excellent game by MVL, particularly the move Kc7.} 0-1
+

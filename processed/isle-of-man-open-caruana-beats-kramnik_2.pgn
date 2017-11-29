@@ -1,0 +1,57 @@
+[Event "IOM Open-Masters 2017"]
+[Site "Douglas"]
+[Date "2017.09.22"]
+[Round "1"]
+[White "Carlsen, Magnus"]
+[Black "Birkisson, Bardur Orn"]
+[Result "1-0"]
+[ECO "E52"]
+[WhiteElo "2827"]
+[BlackElo "2164"]
+[Annotator "Tiger"]
+[PlyCount "73"]
+[EventDate "2017.09.23"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 O-O 5. Nf3 ({This slightly unusual move
+order looks slighty less flexible than} 5. Bd3 {, but that's all. There is no
+real downside to it otherwise.}) 5... b6 6. Bd3 Bb7 ({One of the most critical
+lines against the Rubinstein system is seen after} 6... d5 $1 7. cxd5 exd5 8.
+O-O Ba6 {This position has been played a lot in the last years. The most
+ambitious try was seen in Wojtaszek,R -Harikrishna,P Huaian 2016:} 9. Bxa6 Nxa6
+10. Bd2 Re8 11. Rc1 Bf8 12. Ne5 $1 c5 13. Be1 Nc7 {with a balanced position.})
+7. O-O d5 8. cxd5 exd5 9. Ne5 $5 Nbd7 {This natural move seems slightly inexact
+to me.} ({I prefer} 9... Bd6 {, when} 10. f4 c5 11. Ne2 Nc6 $1 { is a clear
+improvement on the game (for Black) since the d4-pawn comes under direct
+attack, thus making it harder for White to continue with Ne2-g3.}) (9... c5 {is
+similar, when} 10. f4 Nc6 11. Ne2 {, but here Black needs to find a way to deal
+with the bishops awkward position on b4. In a recent game Black did not deal
+with it in the best manner:} c4 {(I don't like playing such a move unless Black
+is able to get a clear grip on e4 in such a way that it is possible to jump in
+with the knight and take back with a piece.)} 12. Bc2 Ne7 13. Ng3 Nc8 {This is
+logical and strives to set in motion the kind of idea that I mentioned in the
+parenthesis above, but it also seems too slow.} 14. Nh5 Be7 15. b3 cxb3 16.
+axb3 Nd6 17. Nxf6+ Bxf6 18. Ba3 Bc8 $6 19. Qf3 {was cruching, in Caruana,F
+(2805)-Karjakin,S (2770) Saint Louis Rapid 2017. After Bb7 there is no defence
+against Qh3/Rf1-f3-g3.}) 10. f4 Ne4 $6 11. Nxe4 dxe4 12. Bc4 {White's set-up is
+ideal and it is almost impossible for Black to expel the knight from e5.} Qe7
+13. a3 Bd6 14. b4 Nf6 15. Bb2 c6 {Built on the assumption that the d5-square
+can be used for the knight, but this is easier said than done. Still, it's hard
+for Black to come up with a decent remedy against Qb3, Rc1, etc.} 16. Qc2 b5 $1
+{Black is rightly seeking counterplay and this is what is to be got.} (16... a5
+17. bxa5 Rxa5 18. a4 $16) 17. Bb3 a5 $1 18. h3 $6 {Perhaps I'm missing
+something, but this seems rather too cool.} ( {The direct} 18. bxa5 $1 Rxa5 19.
+Rfc1 {looks much better. Black has problems with c6, f7 and e4. The best
+continuation} Nd5 20. Qxe4 Bxa3 21. Rxa3 Rxa3 22. Bxa3 Qxa3 23. Rb1 {,leaves
+White clearly better, although Black can still fight on with} Bc8 {hoping for}
+24. Nxc6 $4 Nc3 $19) 18... axb4 19. axb4 Bxb4 ( {After} 19... Rac8 $1 {the
+c-pawn is safely defended and it is very unclear how White can build up more
+pressure.} 20. Ra7 (20. g4 {is quite messy after} Nd5 21. Qxe4 f6 (21... Nxb4
+22. Ra7 Rc7 $13) 22. Qf3 Kh8 $1 23. Bxd5 cxd5 24. Nd3 {when} Rfe8 {is terribly
+ugly for both sides and still balanced.}) 20... Bb8 {is a dead end}) 20. Rxa8
+Bxa8 21. Ra1 {White is threatening to take on f7. } Nd5 $2 (21... Bb7 22. Ra7
+c5 23. Nc6 Qd7 24. Nxb4 cxb4 25. d5 $16 Nxd5 $2 26. Qxe4 $18) 22. Rxa8 $1 Rxa8
+23. Qxc6 Nc7 24. Bxf7+ Kh8 25. Qxe4 Rf8 26. d5 (26. Bb3 {, followed by rolling
+the pawns, also wins easily.}) 26... Rxf7 27. Nxf7+ Qxf7 28. Qxb4 Nxd5 29. Qxb5
+Nxe3 30. Qb8+ Qg8 31. Bxg7+ {A nice final touch.} Kxg7 32. Qe5+ Kf7 33. Qxe3
+Qg6 34. Kh2 h5 35. Qb3+ Kf8 36. Qb8+ Kg7 37. Qe5+ 1-0
