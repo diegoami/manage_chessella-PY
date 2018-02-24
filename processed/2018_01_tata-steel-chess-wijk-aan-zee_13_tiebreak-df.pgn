@@ -1,0 +1,138 @@
+[Event "Tata Steel Masters TB"]
+[Site "Wijk aan Zee"]
+[Date "2018.01.28"]
+[Round "14"]
+[White "Carlsen, Magnus"]
+[Black "Giri, Anish"]
+[Result "1-0"]
+[ECO "A13"]
+[WhiteElo "2834"]
+[BlackElo "2752"]
+[Annotator "DF"]
+[PlyCount "109"]
+[EventDate "2018.01.28"]
+[WhiteClock "0:01:16"]
+[BlackClock "0:00:54"]
+
+1. Nf3 Nf6 2. c4 e6 3. b3 d5 4. Bb2 Be7 5. e3 {Sparing me another annotation
+of a b3 Catalan.} O-O 6. Nc3 c5 (6... b6 $1 $11 {would have been more in
+keeping with the logic of Anish's main game today- avoiding potentially
+awkward hanging-pawns formations.}) 7. cxd5 {Just as theorised in the notes to
+the main game, this is the way White should play. Obviously d4 is fine
+immediately, but why not make Black play with a central structure he doesn't
+like?} Nxd5 8. Nxd5 exd5 (8... Qxd5 9. Bc4 Qd6 10. O-O Nc6 $11 {still looks
+fine for Black, if a bit passive}) 9. d4 Qa5+ {Technically the novelty.} (9...
+Nc6 10. dxc5 Bxc5 11. a3 Bg4 12. Be2 a5 13. O-O Qd6 14. Qd3 Bh5 15. Rfd1 Rfd8
+16. Nh4 Bxe2 17. Qxe2 Qe6 18. Nf3 $14 {Votava,J -Froewis,G Austria 2016}) 10.
+Qd2 Qxd2+ 11. Kxd2 Nc6 12. dxc5 Bxc5 13. Bb5 {So the position is still fine
+for Black, but White is taking no risks, and can choose to play against the
+IQP 'as is' or maybe with some kind of Bxc6, Rfc1, Bd4-c5 thing. Ideal for
+blitz.} Bb4+ 14. Ke2 Be6 (14... Ne7 $14 {might not have been a terrible idea
+under the circumstances}) 15. Rac1 Rac8 16. Rhd1 (16. Bxc6 bxc6 17. Ne5 {
+was a useful tactical chance: Black can either sacrifice the pawn or allow} c5
+18. Nd3 {but in either case he is definitely suffering.}) 16... Be7 17. h3 a6
+18. Bd3 Nb4 19. Bb1 Rxc1 20. Rxc1 Rc8 21. Rd1 Nc6 22. g4 {Thinking about Bf5,
+and also restricting Black's kingside pawns, allowing for a future f4-f5
+thrust.} h6 23. Nd4 Nxd4+ 24. Bxd4 Ba3 25. f4 {Like that.} f6 26. Bg6 (26. e4
+dxe4 27. Bxe4 $14 {looked quite convincing, even though it liquidates the most
+immediate target of White's pressure.}) 26... Kf8 27. Kf3 Ke7 28. h4 (28. b4 $5
+{was worth noticing, but after} Bxb4 29. Rb1 a5 30. a3 Bd6 31. Rxb7+ Rc7 32.
+Rb8 Rc8 33. Rb5 a4 $11 {it all just fizzles out a bit}) 28... Bb4 29. Bd3 Bd7
+30. e4 {Eventually White had to make this break, though he has spent enough
+time in the process that Black is probably objectively fine again.} Bc3 $6 (
+30... dxe4+ 31. Bxe4 Bc6 32. h5 Bxe4+ 33. Kxe4 Ke6 $1 $11 (33... Rc2 $2 34. Kf5
+$36)) 31. Bf2 Bc6 32. exd5 Bxd5+ 33. Be4 Bxe4+ 34. Kxe4 Ke6 $6 {Just like the
+previous note, except Black's pieces are now out of sync.} (34... Bb4 35. Be3 (
+35. Kf5 Rc2 36. Bd4 Kf7 $1 $11) 35... Ke6 36. a4 $14 {Black has not completely
+equalised here, but it's better than the game.}) 35. f5+ Ke7 36. Rc1 {Forcing
+a favourable bishop endgame.} Rc6 $2 {Definitely losing and almost certainly
+the decisive mistake.} (36... Kd7 37. Kd3 Bb4 38. Rxc8 Kxc8 39. Kc4 Bd6 40. Kd5
+Kd7 41. a4 $16 {might also be winning, or it might not- but White can play
+with various ideas, like Bd4 and then g5, or Bc5 at the right moment. I
+suspect Black has just enough answers.}) 37. Kd3 Bb4 38. Rxc6 bxc6 39. Kc4 Bd6
+40. Bc5 Kd7 41. h5 Bf4 (41... Kc7 42. Bxd6+ Kxd6 43. b4 $18) 42. Bf8 Ke8 {
+The last idea is to try and trap this bishop, but White can just go back and
+pick a better time for the incursion.} 43. Bc5 Kd7 (43... Bc7 {was another
+place to try and defend from.} 44. Kb4 Bd8 (44... a5+ 45. Ka4 Bd8 46. b4 axb4
+47. Kxb4 Bc7 48. a4 $18) 45. Bd6 Bb6 46. a4 {However, it is now zugwang. Black
+has to play ...a5, and then the game is almost over.} a5+ 47. Kc4 Be3 48. b4
+axb4 49. Kxb4 {White can walk the pawn to a6 and then play Bc5.}) 44. Kb4 Bd2+
+45. Ka4 Kc7 46. b4 {The black king is now caught trying to do two jobs at the
+same time.} Bf4 47. Bf8 Kb6 ({of course, after} 47... Kd7 48. Ka5 Ke8 {White
+is not obliged to take on g7, but can conserve his bishop with} 49. Bc5 $18)
+48. Bxg7 Bg5 49. Bf8 Bf4 50. Be7 Bg5 51. Kb3 {Heading back to win with Be3.} (
+51. Bd8+ Kb7 52. Ka5 Bh4 53. Be7 Bg5 54. Bc5 Bf4 55. Bd4 Bg5 56. a3 $18 {
+is another zugzwang idea to win}) 51... Kc7 52. Kc4 Kd7 53. Bc5 Kc7 54. Kd3 Kd7
+55. Be3 1-0
+
+[Event "Tata Steel Masters TB"]
+[Site "Wijk aan Zee"]
+[Date "2018.01.28"]
+[Round "15"]
+[White "Giri, Anish"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2834"]
+[Annotator "DF"]
+[PlyCount "75"]
+[EventDate "2018.01.28"]
+[WhiteClock "0:00:08"]
+[BlackClock "0:00:20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 ({Anish isn't interested in
+going} 5. d4 {like Gawain Jones against Karjakin!}) 5... d6 {The risky
+positions with ...d5 pushes can wait for another day.} 6. O-O a6 7. Re1 (7. a4
+{is the main move, just in case Black wants ...b5.} Ba7 8. Re1 O-O (8... h6 9.
+Nbd2 g5 10. b4 Nh5 11. Nb3 g4 12. b5 {led to a messy, but possibly prepared,
+draw in Karjakin,S -Carlsen,M London 2017}) 9. h3 h6 10. Nbd2 Re8 11. b4 Be6
+12. Bxe6 Rxe6 13. Nf1 {White has acheived his opening goals, which are however
+so modest that we are not left sure as to whether he has an advantage.
+Nevertheless, this was a rare Carlsen loss: Vachier Lagrave,M-Carlsen,M Paris
+2017}) 7... Ba7 8. Bb3 O-O 9. h3 h6 {Most solid and least committal. It is in
+general useful to control the g5-square, either to push a pawn there or just
+to prevent Bg5 and Ng5 ideas.} (9... Ne7 $5 {is a maximalist idea: Black does
+not need to make kingside pawn pushes, at least right now, to exploit White's.}
+10. Nbd2 Ng6 11. Nf1 Nh5 $5 (11... c6 {is a valid change of direction used by
+Carlsen before.} 12. Ng3 d5 13. exd5 Nxd5 14. d4 exd4 15. Nxd4 h6 16. Bc2 Re8
+$11 {Leko,P-Carlsen,M Doha 2016}) 12. d4 Nhf4 $5 13. Ng3 Be6 $5 (13... Nh4 14.
+Bxf4 exf4 15. Nh5 $16 {Ganguly,S-Aronian,L Doha 2016}) (13... h6 14. Nf5 Qf6
+15. Bc2 Re8 $132 {might improve, e.g. Onischuk,V-Bogdanovich,S Lutsk 2016}) 14.
+Bc2 (14. Nf5 $5 exd4 15. cxd4 d5 $132) 14... Qd7 15. Nf5 $14 {Sivokho,S-Sepman,
+V St Petersburg 2000}) 10. Nbd2 Re8 11. Nf1 Be6 12. Bc2 (12. Bxe6 Rxe6 13. Qc2
+{is similar to MVL-Carlsen given above; Black has nominally a worse bishop but
+probably equalises anyway with} d5 $11) 12... d5 13. Qe2 dxe4 14. dxe4 Qe7 15.
+Ng3 {In principle if one wants to win in this opening one should keep both
+bishops alive.} (15. Be3 {would have been a slightly challenging, if not very
+inventive try.} Bxe3 16. Qxe3 Rad8 17. Ng3 {and now Black has to find some
+idea. Maybe a good one is} Nd7 $5 $11 {with ...Qc5 to come.}) 15... Rad8 16.
+Nh4 Qf8 17. Nhf5 (17. Qf3 $5 {was a useful intermezzo, to make Black worry
+about Bxh6.} Kh7 18. Ngf5 (18. Nhf5 Ng8 $11 {is a bit more of a brick wall})
+18... Ng8 19. g4 $5 g6 20. g5 {The attack turns out to be rather strong if
+Black takes the piece, so he should maybe consider a move like} Nce7 $1 $11 {
+to de-fang it a bit first.}) 17... Ne7 18. Ne3 Ng6 19. Ngf5 Nf4 20. Qf3 c6 $6 {
+Allowing White a reasonably dangerous piece sacrifice.} (20... g6 21. Ng3 Nh7
+$1 $17 {and suddenly Black is White!}) 21. Ng4 $1 Nxg4 22. hxg4 g6 {There
+isn't really an alternative but to give up the piece now, but thankfully for
+White he doesn't mind doing so.} 23. Bxf4 (23. Nd4 Nxg2 24. Kxg2 exd4 $15 {
+is just a pawn and there isn't much to show for it.}) 23... exf4 24. Qxf4 gxf5
+25. gxf5 Qg7 $1 {A good instinct.} (25... Bc8 26. f6 $18 {is unsurprisingly
+terrible for Black}) 26. fxe6 Rxe6 (26... fxe6 27. Bb3 Rd3 $14 {gave better
+counterplay, but White is probably still better.}) 27. Rad1 Rde8 28. Re2 Qg5
+29. Qf3 (29. Qxg5+ hxg5 30. g3 $16 {is just a pawn, and White could have taken
+his time to try and convert, in the manner of Magnus himself.}) 29... Rf6 30.
+Qh3 Qf4 31. Rf1 Re5 {Now Black has enough play for his material.} 32. Qh2 Qg5 {
+Most natural and perfectly fine.} (32... Qg4 $5 33. Qxe5 Rg6 34. Qe8+ Kg7 35.
+Qe5+ Kh7 $44 {could even be a winning try, despite initial appearances.}) 33.
+g3 (33. Rd1 {was White's paradoxical last way to play for something, but in
+practice and especially in blitz Black's compensation is tremendous.} Rf4 $44)
+33... Qg4 34. Rd2 Rg5 35. e5 $2 (35. Qg2 $15 {was by now best}) 35... Rxe5 $2 {
+One can hardly be too critical of this move, but it isn't best.} (35... Rf3 {
+was hardly rocket science and won on the spot:} 36. Kg2 Rh5 37. Qg1 Rf4 $1 {
+and White's pieces are by now so awkwardly placed that mate is unavoidable.})
+36. Bd1 Qg5 37. Rd3 {Responding to the threat of ...Rf3 three moves late, and
+by now it is ...Re3 instead, but White's position is bad anyway.} (37. Qh4 {
+was probably the way to execute the idea.}) 37... Ref5 38. Qh4 {With a draw
+offer, which presumably was only accepted to let the opponent save face,
+because Black has a vast advantage and two extra pawns here.} 1/2-1/2
+

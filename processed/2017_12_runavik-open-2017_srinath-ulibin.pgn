@@ -1,0 +1,49 @@
+[Event "Runavik Open"]
+[Site "Runavik"]
+[Date "2017.11.22"]
+[Round "4"]
+[White "Srinath, Narayanan"]
+[Black "Ulybin, Mikhail"]
+[Result "1-0"]
+[ECO "C14"]
+[WhiteElo "2517"]
+[BlackElo "2526"]
+[Annotator "Srinath,Narayanan"]
+[PlyCount "105"]
+[EventDate "2017.11.??"]
+[EventCountry "FAI"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 O-O 8.
+Nf3 c5 9. Qd2 Nc6 10. dxc5 Nxc5 11. Qe3 a6 12. a3 $5 Rd8 13. Rd1 b5 14. b4 Ne4
+$1 (14... Nd7 {is too passive, and White would get a slight advantage after}
+15. Ne2 Bb7 16. Ned4 Nxd4 17. Nxd4 $14 {[%cal Gf1d3,Ge1g1]}) 15. Nxe4 dxe4 16.
+Rxd8+ Nxd8 $2 (16... Qxd8 $142 $1 17. Qxe4 Bb7 18. Bd3 g6 19. O-O a5 $11 {
+Black has enormous compensation and winning the pawn back will only be a
+matter of time.}) 17. Ng5 Bb7 18. Nxe4 a5 {[#] I took a longtime here, but I
+was unable to solve the problem of which was the best move.} 19. Nd6 $2 (19.
+Qc5 $142 $1 Qxc5 20. Nxc5 axb4 21. axb4 Bd5 (21... Ra1+ 22. Kf2 Bd5 23. Rg1 $16
+) 22. Kf2 Nc6 (22... Ra2 23. Bxb5 $1 Rxc2+ 24. Ke3 Rxg2 25. Rc1 Rxh2 26. Na4
+$16) 23. Bxb5 Nxb4 24. c4 Ra2+ 25. Ke3 Bxg2 26. Rb1 Nc2+ 27. Kd3 Na3 28. Rd1
+$14) (19. Bxb5 axb4 20. a4 Rc8 $1 (20... Qc7 21. Qc5 Qxc5 22. Nxc5 Bxg2 23. Rg1
+$16) 21. Bd3 Bxe4 22. Bxe4 Nb7 23. Qa7 Qc5 24. Qxc5 Nxc5 25. Bf3 Nxa4 26. Kd2
+g6 $11) 19... axb4 20. axb4 Bd5 21. Kf2 Ra1 {Now, the game got into mutual
+time scramble territory, with we both having lesser time than the amount of
+moves to make.} 22. h4 Nc6 (22... f6 23. Nxb5 Qxb4 24. Nc3 Bc6 25. exf6 gxf6
+26. Rh3 Nf7 27. Kg1 $132) 23. Rh3 f6 $2 {the decisive mistake.} (23... Nxb4
+$142 {It's near impossible to calculate the consequences of this move with the
+amount of time my opponent had.} 24. Qc5 Rc1 $1 25. Qc8+ (25. Qxb4 Qa7+ 26. Re3
+Rxf1+ 27. Kxf1 Qxe3 $19) 25... Qf8 26. Rc3 Bc4 27. Bxc4 Qxc8 28. Nxc8 bxc4 29.
+Rxc4 Rxc2+ 30. Rxc2 Nxc2 $11) 24. Bxb5 Nxb4 25. Qc5 (25. Qc3 {was more
+tempting, as after} Qa7+ {White always has} 26. Re3 {but I saw that Qc5 was
+going into a winning endgame, and I preferred to take the safer way.}) 25...
+Qa7 26. Rc3 Qxc5+ 27. Rxc5 h5 28. Rc8+ Kh7 29. exf6 gxf6 30. Rc7+ Kh6 31. f5
+Ra2 32. Nf7+ Kg7 33. Ng5+ Kh8 34. Rc8+ Kg7 35. Nxe6+ (35. Rc7+ {was the
+sensible thing to do in time trouble, but I was a bit nervous about repeating
+three times by mistake.}) 35... Kf7 36. Rc7+ Kg8 37. Nd4 (37. Nf4 Bf7 38. Nxh5
+{I just missed that White can take Nh5.}) 37... Rb2 38. Be2 Bf7 {My initial
+instinct was to improve my king's position with Ke3, but we know what happens
+there.} 39. Rc8+ Kg7 40. Rc7 Kf8 {Phew. I am surprised at the accurace I
+showed in 30 seconds play, but unusual things do happen in life.} 41. Bf3 Nd3+
+42. Kg3 Ne5 43. Ne6+ Kg8 44. Be2 Ra2 45. Nf4 Ra3+ 46. c3 Nc4 47. Rxc4 Bxc4 48.
+Bxc4+ Kh7 49. Nd5 Kh6 50. Be2 Ra2 51. Bf3 Ra6 52. c4 Rc6 53. Ne3 1-0
+

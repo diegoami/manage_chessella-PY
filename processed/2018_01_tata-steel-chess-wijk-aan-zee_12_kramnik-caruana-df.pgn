@@ -1,0 +1,53 @@
+[Event "Tata Steel Masters"]
+[Site "Wijk aan Zee"]
+[Date "2018.01.27"]
+[Round "12"]
+[White "Kramnik, Vladimir"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[WhiteElo "2787"]
+[BlackElo "2811"]
+[Annotator "DF"]
+[PlyCount "103"]
+[EventDate "2018.01.27"]
+[WhiteClock "0:29:23"]
+[BlackClock "0:22:00"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nf6 5. Ne5 Nc6 {There can be nothing
+wrong with Black's position after this, but it does vaguely give in to White's
+stated ambition of winning the bishop pair.} (5... e6 {is normal, and then
+Black can castle before challenging the e5-knight. Another alternative was to
+play 4...Nc6.}) 6. Bb5 Bd7 7. Nxd7 Qxd7 (7... Nxd7 8. c3 a6 9. Bd3 b5 10. O-O
+e6 {is one conceivable way to launch a plausible minority attack.}) 8. c3 {
+Objectively, White has nothing, but his position is laughably easy to play.
+Nd2-f3, short castling, bishop back to d3, other one probably to g5...} e6 9.
+O-O Bd6 10. Nd2 O-O 11. Re1 a6 12. Bd3 e5 (12... Rfe8 13. Nf3 e5 14. dxe5 Nxe5
+15. Bg5 (15. Nxe5 Bxe5 {is nothing here since Black can play with a quick ...
+d4.}) 15... Nfg4 16. h3 Nxf3+ 17. Qxf3 Ne5 18. Qf5 Qxf5 19. Bxf5 h6 $11 {
+For tactical reasons Black wins back one of the pair for his knight.}) 13. dxe5
+Nxe5 14. Nf3 Nfg4 {Giving White something.} (14... Rfe8 {transposes to the
+last note.}) 15. Nxe5 Nxe5 16. Bc2 Rfe8 (16... Ng4 $5 17. h3 Bh2+ 18. Kf1 Ne5 {
+looks quite contrived, though it may be that White has nothing better than
+diving into mess with} 19. g4 $13) 17. Bf4 Bc7 18. g3 {A great 'little move',
+creating a hideaway on g2 and protecting the f4-bishop just in case.} Rad8 (
+18... Nc4 19. Rxe8+ Rxe8 20. Bxc7 Qxc7 21. Qxd5 g6 (21... Nxb2 22. Rb1 Qxc3 23.
+Qb3 {is a great knight trap- even though it contains a small flaw:} Re1+ $8 24.
+Rxe1 Qxe1+ 25. Kg2 Qe5 26. Qxb7 $16) 22. Bb3 $14 {This +/= is smaller than a
+few others in this analysis, because the knight is a tricky beast.}) 19. Bxh7+
+{Winning a clear pawn.} Kxh7 20. Bxe5 Bxe5 21. Qh5+ Kg8 22. Rxe5 Rxe5 (22... d4
+{was principled}) 23. Qxe5 Re8 24. Qd4 Qb5 (24... Re2 25. c4 $1 $16) 25. b3 Re2
+26. h4 b6 27. Rd1 $5 Rxa2 28. Re1 Qc6 (28... Re2 29. Rxe2 Qxe2 30. Qxb6 Qe1+
+31. Kh2 Qxc3 32. Qd8+ Kh7 33. Qxd5 Qf6 34. Kg2 $16 {leads to a queen ending
+which may be a draw with best play, but that is very hard to demonstrate.}) 29.
+Re5 (29. Qd1 $5 $16 {is a bizarre computer recommendation, using the fact that
+Black will find it hard to defend against Qf3 and Re7.}) 29... Qf6 (29... Ra1+
+30. Kh2 Ra2 $14 {now keeps White a bit tied down to his weak pawns, even
+though he is still better.}) 30. Qe3 Ra1+ 31. Kg2 Ra5 32. h5 (32. b4 Rb5 33.
+Re8+ Kh7 34. Qd3+ g6 35. h5 {was maybe a more direct way to prise open the
+Black king position.}) 32... d4 (32... Rc5 $5 $16 {limited the damage}) 33.
+cxd4 Rxe5 34. Qxe5 $1 $18 {The rest is quite simple by the standards of elite
+games.} Qd8 (34... Qxe5 35. dxe5 a5 36. Kf3 b5 37. Ke4 $18) 35. d5 a5 36. d6
+Qd7 37. Qe7 Qc6+ 38. Kg1 Qc1+ 39. Kh2 Qc5 40. Qe8+ Kh7 41. Qe4+ g6 42. hxg6+
+Kg7 43. Qd3 Qxf2+ 44. Kh1 Qf6 45. d7 Qd8 46. Qc3+ Kxg6 47. Qc6+ Kh5 48. Qf3+
+Kh6 (48... Kg6 49. Qg4+ Kh7 50. Qh4+ $18) 49. Qxf7 Qh8 50. Kg2 Qa8+ 51. Kh2 Qh8
+52. Qe8 1-0

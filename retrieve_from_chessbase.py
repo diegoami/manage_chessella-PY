@@ -55,7 +55,7 @@ def downoad_pgns(pgn_texts, page_link):
 
 def process_page(page_link):
 
-    page_link = page_link if ROOT_POST_PAGE in page_link else ROOT_POST_PAGE + page_link
+  #  page_link = page_link if ROOT_POST_PAGE in page_link else ROOT_POST_PAGE + page_link
     pgnlinks = get_pgnlinks_from_page(page_link, debug=True)
     print(pgnlinks)
     data_urls = [x["data-url"] for x in pgnlinks if "data-url" in x]

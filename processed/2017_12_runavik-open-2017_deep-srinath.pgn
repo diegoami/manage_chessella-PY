@@ -1,0 +1,38 @@
+[Event "Runavik Open"]
+[Site "Runavik"]
+[Date "2017.11.22"]
+[Round "5"]
+[White "Sengupta, Deep"]
+[Black "Srinath, Narayanan"]
+[Result "0-1"]
+[ECO "B68"]
+[WhiteElo "2587"]
+[BlackElo "2517"]
+[Annotator "Srinath,Narayanan"]
+[PlyCount "78"]
+[EventDate "2017.11.??"]
+[EventCountry "FAI"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Be7 9. f4 Bd7 10. Nf3 b5 11. e5 {Played after a 18 minute think.} b4 12.
+exd6 {This came as a surprise to me.} bxc3 13. Qxc3 Bf8 14. Bc4 {The first
+moment where I really had to think and make a decision.} h6 15. Bh4 Qa5 (15...
+g5 16. fxg5 hxg5 17. Bxg5 Bg7 $132 {was my initial intention, bringing out the
+pieces.}) 16. Qd3 $6 (16. Bxf6 $142 gxf6 17. Qxf6 Rg8 18. Ne5 Nxe5 19. fxe5 Rg6
+20. Qf3 Rc8 21. Rhf1 Rg7 22. Qf4 Rc5 $132) 16... Nb4 17. Qb3 Rb8 18. Ne5 Ne4 (
+18... Qc5 $142 {was very strong and was my initial intention. I don't quite
+remember what I calculated here.} 19. Nxd7 Kxd7 20. f5 Bxd6 21. fxe6+ fxe6 22.
+Bxe6+ Kc7 $17) 19. a3 Bxd6 20. Be1 Bxe5 21. fxe5 Na2+ $2 (21... Ba4 $142 22.
+Qf3 Qc7 $1 {I had missed this move completely.} 23. axb4 Qxc4 24. b3 Qc7 25.
+bxa4 Qxe5 26. c3 Rc8 $17) 22. Qxa2 Qxe5 23. Bxa6 {I had missed that my
+opponent had this, and I had assumed that I was just better due to the
+exclusion of White's Queen.} Nc5 24. Bc4 O-O $4 25. Bg3 $4 ({I saw} 25. b4 $142
+{only after playing 0-0... and I had no idea how to react to b4.} Na4 26. Rxd7
+Nb6 {[%cal Ge5f4]} 27. Rxf7 $1 Kxf7 28. Bxe6+ Ke7 29. Bb3 $18) 25... Qg5+ 26.
+Kb1 Rb7 27. Rhe1 Rc8 28. Rd4 Qg6 (28... Na4 29. Bb3 Nc5 {would be a draw, but
+we both were trying to win.}) 29. Red1 Ba4 30. Rd8+ Rxd8 31. Rxd8+ Kh7 32. Ka1
+$4 {The decisive mistake.} (32. b4 $142 $1 {Had to be played at some point.}
+Ne4 33. Bd3 {is close to winning according to the comp, but it's quite hard
+for us humans to make such accurate evaluations.}) 32... Qg5 33. Rd1 Bxc2 34.
+Re1 Nb3+ 35. Bxb3 Rxb3 36. Rg1 h5 37. Bd6 Qe3 38. Rh1 Qd4 39. Rc1 Rd3 0-1
+

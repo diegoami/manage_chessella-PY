@@ -1,0 +1,78 @@
+[Event "London Chess Classic"]
+[Site "Olympia"]
+[Date "2017.12.11"]
+[Round "9"]
+[White "Caruana, Fabiano"]
+[Black "Adams, Michael"]
+[Result "1-0"]
+[ECO "A29"]
+[WhiteElo "2799"]
+[BlackElo "2715"]
+[Annotator "DF"]
+[PlyCount "135"]
+[EventDate "2017.12.11"]
+[WhiteClock "0:01:04"]
+[BlackClock "0:15:18"]
+
+{Saving the best to last, here is the effort by Fabiano Caruana, who needed to
+win in order to again catch 'the man who knows nothing' in the tournament lead.
+As such, the game begins with a reversed Dragon.} 1. c4 Nf6 2. Nc3 e5 3. Nf3
+Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Bc5 7. O-O O-O 8. d3 (8. Nxd5 Qxd5 9. Ng5 {
+had already been seen by Caruana from the other side of the table, and the
+game may have inspired him.} Qd8 10. Nxh7 Re8 11. Ng5 {The knight is protected
+by d4-tricks!} Qxg5 12. Bxc6 (12. d4 Qe7 13. dxc5 Qxc5 14. Qa4 {could be a new
+direction for White to investigate}) 12... bxc6 13. d4 Qh5 (13... Qe7 14. dxc5
+Qxc5 15. Be3 $14) 14. dxc5 e4 15. h4 Qg4 (15... Bg4 $11 {is best according to
+our silicon friends- Black can take back on c5 if he chooses in a better
+version than 13...Qe7.}) 16. Bf4 Qh3 17. Qd4 Bg4 18. Qe3 Rad8 19. Rad1 $14 {
+The compensation was close to vanishing into thin air in Aronian,L-Caruana,F,
+Saint Louis 2017}) 8... Re8 9. Ng5 Nf6 (9... Nxc3 {These structures are always
+evaluated as equal by the machine, but in my experience they are always better
+for one side or the other. A good indicator of whether Black is better is
+whether he has traded his dark square bishop for the knight.} 10. bxc3 Be7 {
+Now here are 2 sample lines, one where Black ends up better and one where
+White does. The point is not that Ne4 is better or that Nf3 is but that the
+position contains a vast number of apparently minor nuances, such that one
+side will on balance of probabilities understand them better over the next 5
+moves.} 11. Ne4 (11. Nf3 Be6 12. Rb1 b6 13. Qa4 Qd7 14. Ng5 Nd4 15. Qd1 Bxg5
+16. Bxg5 Nc6 17. Qa4 Bd5 18. f3 $14 {Every rule has an exception.}) 11... Be6 (
+11... Rb8 12. Be3 b6 13. c4 Bb7 14. Nc3 Nd4 15. Nd5 Qd7 16. Nxe7+ Rxe7 $15) 12.
+Be3 f6 13. Nd2 Bd5 14. Bxd5+ Qxd5 15. Qb3 Qxb3 16. Nxb3 Kf7 $11 {A genuinely
+equal position, but maybe Black is easier to play as in the Wesley So game.})
+10. Qb3 Qe7 {Black holds the balance well.} 11. Nd5 Nxd5 12. Bxd5 Nd8 13. Qc4
+Bd4 14. Bg2 h6 15. Nf3 Nc6 16. Be3 {A violent winning attempt.} (16. Nxd4 {
+As before, trading the knight for the dark square bishop is not often a good
+idea.} Nxd4 17. Re1 Bg4 $15) (16. e3 $11) 16... Bxe3 17. fxe3 e4 (17... Nd8 {
+is an interesting option, trying to set up the stereotypical arrangement with .
+..Be6(-f7) and ...f6.}) 18. dxe4 a5 19. a3 Ra6 20. Rac1 Rb6 21. Rc2 Be6 22. Qc3
+Rb3 23. Qd2 Rd8 24. Qc1 a4 25. Rc5 {Black still has compensation, but the
+problem is that he is now 'likely' to 'forget' to take the material back.} (25.
+Rc3 Qd6 26. Rxb3 Bxb3 27. Qc3 {made sense too}) 25... Rd7 26. h3 Qd8 27. g4 g6
+28. Kh1 Kg7 29. e5 Bd5 30. Kg1 Be6 31. Kf2 Qe7 32. Kg1 Rd5 33. Rc4 Ra5 (33...
+Nxe5 34. Rxc7 Nxf3+ 35. Bxf3 Rd7 $11) 34. Rc2 Bd5 {Getting maybe a little
+carried away with strategic purity. It turns out that for tactical reasons
+White can now keep the pawn.} 35. Nd4 Nxd4 36. exd4 Rg3 37. Rf3 $1 $14 {
+That's just it. The rook is entombed and White's pawns have been untripled (!)}
+Bxf3 38. exf3 c6 (38... Rb5 39. Kh2 Qh4 40. Qf4 Rxg2+ 41. Kxg2 c6 $14 {was the
+most sophisticated way of giving back the exchange, setting up an outpost for
+the rook on b3 and the queen on d5.}) 39. Kh2 Rxg2+ 40. Kxg2 Rd5 41. Rc4 c5 42.
+Rxc5 Rxd4 43. Qc3 {Now White has almost solved all his structural issues and
+Black's best bet is in fact the queen ending.} Qd8 (43... Rd3 44. Qxd3 Qxc5 45.
+Qc3 Qb6 $16) 44. Rc8 Qb6 45. Re8 {Leaving Black's pieces stuck and introducing
+the idea of Rxb7 in various lines.} (45. Rb8 Rd1 {is not a good way to
+introduce that idea}) 45... g5 46. Re7 Kg8 (46... Kf8 47. Rxb7 {leads to
+another probably-winning queen ending.}) 47. e6 $1 {The best conversion,
+forcing a queen rather than rook ending on pain of mate.} fxe6 48. Qc2 Kf8 49.
+Rh7 Qc6 {The only way to defuse the pressure.} 50. Qxc6 {With a
+probably-winning rook ending, but see Black's 58th.} (50. Rh8+ Ke7 51. Qh7+ Kd6
+52. Rd8+ Kc5 53. Qc2+ Rc4 {is not an obvious win, so Black takes the queens off
+}) 50... bxc6 51. Rxh6 Kf7 52. Kg3 Rd2 53. Rh7+ Kf6 54. Rb7 Ke5 55. h4 (55. Rb4
+{may have been more precise to cut out Kf4}) 55... gxh4+ 56. Kxh4 Kf4 57. Rf7+
+Ke3 58. Kg3 Rd1 (58... Rxb2 59. Re7 {was Black's best chance:} c5 60. Rxe6+ Kd4
+$16 {and the jury may still be out}) 59. g5 $18 Rg1+ 60. Kh4 Rg2 61. Rf6 e5 62.
+g6 Rxb2 63. Kg5 Rg2+ 64. Kh6 Rh2+ 65. Kg7 c5 66. Kf7 c4 67. g7 Rh7 68. Ra6 {
+More moves could have been played, but White has shown enough. This move
+eliminates the pawn at a4 and gets back to cover the c-pawn just in time.} 1-0
+
+
+
