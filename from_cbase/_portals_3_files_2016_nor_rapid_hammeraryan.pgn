@@ -1,0 +1,71 @@
+[Event "Norwegian Rapid Championship"]
+[Site "?"]
+[Date "2016.01.10"]
+[Round "7"]
+[White "Hammer, Jon Ludvig"]
+[Black "Tari, Aryan"]
+[Result "0-1"]
+[ECO "A35"]
+[WhiteElo "2695"]
+[BlackElo "2556"]
+[Annotator "Aryan, Tari"]
+[PlyCount "86"]
+[SourceDate "2014.11.03"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 g6 4. e3 Nf6 5. d4 cxd4 6. exd4 d5 7. cxd5 Nxd5 8.
+Qb3 e6 9. Bb5 Bg7 10. O-O O-O 11. Bxc6 bxc6 12. Na4 Qc7 {This posistion has
+arisen three times before. All the games have been played by Grandmasters.} 13.
+Nc5 $146 (13. Bd2 {The move that happened in all the games} Ne7 $5 $146 {
+Black wants to move his knight to f5 to arrange counterplay against the
+d4-pawn.} (13... Rb8 14. Qa3 {Played  successfully by Nepomniachtchi recently
+against Areschenko in European teams.} (14. Qc2 {is also possible})) 14. Rac1
+Nf5 15. Qc3 Rd8 16. Be3 a5 $13 {is a possible line}) 13... Rb8 {Seemed logical
+to improve the rook and gain a tempo on the queen.} 14. Qd1 {Came as a
+surprise. Based on the games I've seen White usually puts the queen  on c2 or
+a3 in these variatons.} (14. Qa3 Nb4 $5) 14... Ne7 {I played this move
+instantly. My plan was  basically go to f5 with the knight and start pressing
+on d4.} (14... Rd8 {was also possible}) 15. Nd3 $5 Nd5 (15... Rb5 $1 {was more
+to prefer, but I didn't like White getting in Bf4, but Black seems to have no
+problems after:} 16. Bf4 Qd8 {and Black still have the easy plan on Nf5 and it
+is difficult for White to defend the d4-pawn in a comfortabel way.} {For
+instance:} 17. Be5 (17. Rc1 Nf5 $15) 17... f6 18. Bg3 g5 $1 $15 {[%cal Ge7f5]
+Where things have gone wrong for White.}) 16. Re1 Rd8 17. Bg5 {Provoking a
+weakness before playing Bd2.} f6 18. Bd2 Bf8 19. Rc1 {So far both of us have
+done quite natural moves. In this posistion I thought for some minutes and
+found it difficult to find a plan. The way Black usually gets counterplay is
+by the pawn breaks e5 or c5, but here White is controlling everything.} Rb5 {
+I want to play a5 and basically ask White how he is going to improve his
+posistion.} ({I refused} 19... a5 {In account of} 20. Qa4 Rb5 $2 21. Qxb5 $1
+cxb5 22. Rxc7 Nxc7 23. Bxa5 $18) 20. b3 a5 21. a4 Rb8 22. Nc5 Kf7 $2 {I
+thought this move was natural to defend the e6-pawn in this way. But the king
+is just misplaced on f7 in many variatons! For instance:} (22... Re8 {was a
+better move. The game is about unclear, but the posistion should be more easy
+to play with White. He has more space and nice coordination of the pieces.} 23.
+h4 Qb6 24. h5 g5 $1) 23. h4 $14 {Also strong. White should basically try to
+arrange an attack.} (23. g4 $1 {[%cal Gg4g5] would punish me. Threatening the
+deadly g5!} g5 24. h4 h6 25. Rc4 $16 {[%csl Rc6][%cal Gd1c2]}) 23... Qb6 {
+Trying to get counterplay by threatening Bxc5 followed by Qxb3 in some
+variatons.} 24. Nh2 $2 {This move surprised me, and is a big mistake. The
+knight was perfectly placed on f3 and there was no reason to remove it.} (24.
+h5 {[%cal Gd1e2,Ge2e4] White should have continued pushing his pawn, and the
+posistion is difficult for Black.} Bxc5 (24... e5 25. Ne4 Qxb3 26. Qe2 $18 {
+[%csl Rf7]}) 25. Rxc5 Qxb3 26. Qe2 $1 $40 {Just ignoring the queen on b3 and
+planning Qe4, where the queen joins the attack against Black's king.}) 24... e5
+$1 $15 {[%csl Rc5] This now works as White misplaced his knight.} 25. Ng4 $6 (
+25. Rc4 $1 {was much stronger} exd4 26. Qc1 {And White has compensation. But
+of course difficult to find such moves under the pressure in rapid.}) 25...
+exd4 26. Ne4 Qxb3 (26... c5 $1 $17 {[%cal Gb6f6] Would have also been strong
+and just keeps a healthy pawn up.}) 27. Qe2 $6 (27. Ngxf6 $1 Nxf6 28. Nxf6 Qxd1
+29. Rexd1 Bb4 {But still Black is having a large advantage.}) 27... Bf5 $6 (
+27... d3 28. Qf3 Bxg4 29. Qxg4 f5 {simple} 30. Ng5+ Kg8 $19 {[%cal Gd8e8]
+Where Black is just two pawns up, with no compensation for White.}) 28. Rxc6
+Re8 $2 29. Nh6+ $4 {After this move White is just lost.} (29. Ngxf6 $1 Nxf6 30.
+Rxf6+ Kg7 31. Rxf8 $1 {What I missed} Kxf8 (31... Rxf8 32. Nd6 $18 {[%cal
+Ge2e5] Where Black cannot defend his king without giving material.}) 32. Bh6+
+Ke7 $1 {looks extremely dangrous, but White has no useful checks with the
+knight.} 33. Rc1 Rb6 $13 {with unclear play}) 29... Kg7 30. f3 Bb4 31. Qf2 Bxe4
+32. fxe4 Bxd2 33. Qxd2 Qg3 $1 34. Ng4 (34. exd5 $2 Rxe1+) 34... Rb2 $1 35. Qxb2
+Qxe1+ 36. Kh2 Qxh4+ 37. Kg1 Qe1+ 38. Kh2 Qh4+ 39. Kg1 Qxg4 40. exd5 Qd1+ 41.
+Kh2 Qh5+ 42. Kg1 Re1+ 43. Kf2 Qh4+ {This was a very important win for me to
+have the chance of becoming the champion :)} 0-1
+

@@ -1,0 +1,69 @@
+[Event "5th Shamkir Chess 2018"]
+[Site "Shamkir"]
+[Date "2018.04.26"]
+[Round "7"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Radjabov, Teimour"]
+[Result "1/2-1/2"]
+[ECO "A49"]
+[WhiteElo "2814"]
+[BlackElo "2748"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "71"]
+[EventDate "2018.??.??"]
+[EventType "tourn"]
+[EventCountry "AZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. b3 {I have never been a particularly
+great fan of playing d4 in the middle of a double-fianchetto setup; it is
+usually a concession that Black goes to some lengths to force. If given it for
+free, as here, Black may be able to arrange some quick ...c5 and equalise
+completely without problems.} Bg7 6. Nf3 O-O 7. O-O dxc4 8. bxc4 c5 $1 9. Bb2 {
+White feels obliged to play with the isolated c-pawn, which is an interesting
+structure in that if Black tries to simply play for its blockade, he will be
+at a disadvantage almost automatically. Note that we are still in heavy-duty
+theory here.} (9. e3 cxd4 10. exd4 Nc6 $132 {reaches a standard 'hanging
+pawns' position- here, I think Black has very easy play against the pawns. For
+instance ...Bg4, ...Rc8, ...Qb6.}) 9... cxd4 10. Nxd4 Qb6 {The main move, and
+it seems like a solid equaliser.} (10... Nc6 $5 {was chosen last year by
+Grischuk. The idea is clearly motivated in no small part by the Yugoslav
+Gambit (many orders, including 1.Nf3 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 c5 5.0-0 0-0 6.
+Nc3 Nc6 7.d4 cxd4 8.Nxd4 d6) and seems to provide Black with relatively easy
+equality too.} 11. Nxc6 bxc6 12. Nd2 (12. Bxc6 Rb8 13. Be5 Bh3 14. Bxb8 Bxf1
+15. Qxd8 Rxd8 16. Kxf1 Rd1+ 17. Kg2 Ng4 $11 {and Black will regain all the
+material}) 12... Qc7 13. Qa4 Rb8 14. Nb3 Bg4 (14... c5 $1 $11) 15. Bc3 (15. c5
+$5 $40) 15... Rfc8 16. h3 Bd7 17. Ba5 Qe5 18. Rad1 Qh5 $132 {Rapport,
+R-Grischuk,A chess.com INT 2017}) 11. Qc1 Bd7 12. Nd2 (12. Nc3 $5 {is possible,
+offering a truly intriguing material balance.} Qxd4 (12... Nc6 {is playable,
+but only if Black has advance knowledge of} 13. Nxc6 Bxc6 14. Nd5 Nxd5 15. Bxg7
+Nf4 $1 $11 {which is the only way to keep equality!}) 13. Nd5 Qc5 14. Ba3 Qa5
+15. Nxe7+ Kh8 16. Nxg6+ hxg6 17. Bxf8 Bxf8 18. Bxb7 Bc6 19. Qb2 Bg7 20. Bxc6
+Nxc6 21. Qb7 Re8 22. Qxc6 Rxe2 $132 {I would slightly prefer to be White here,
+but either way there is a high probability of the game being decisive within a
+handful of moves!}) 12... Nc6 13. e3 (13. Nc2 Rac8 14. Rb1 Qa6 15. Bc3 b6 16.
+Ne3 Rfd8 $11 {did not trouble Black greatly either in Giri,A-So,W chess.com
+INT 2017}) 13... Rac8 14. Bc3 Nxd4 {Surprising, although quite likely best,
+especially from the point of view of locking down, in the minimum time
+possible, a draw with Black against a higher-rated player.} (14... Qa6 {
+was played in the precedent, and the isolated c-pawn is so weak that White's
+position, while fine or even better according to engines, is practically the
+harder to play. The game continued:} 15. Qb2 b6 16. a4 Na5 17. Rfc1 (17. Qb5 $5
+Qxb5 18. axb5 Nxc4 19. Rxa7 Nxe3 20. fxe3 Rxc3 21. Rxf6 Bxf6 22. Rxd7 Rxe3 $44)
+17... Nxc4 18. Nxc4 Qxc4 $5 19. Bb4 (19. Bb7 Qd3 20. Bxc8 Rxc8 $44) 19... Qa6
+20. Bxe7 Rxc1+ 21. Qxc1 Re8 22. Qa3 Ng4 $11 {Black went on to win a
+complicated game in Yu,Y-Nepomniachtchi,I Doha 2016}) 15. exd4 Bf5 16. Qa3 Bd3
+(16... e5 $5 {shows a bit of ambition, though the jury is still out on whether
+this is good or not.}) 17. Rfe1 Bxc4 18. Nxc4 Rxc4 19. Rab1 Qa6 20. Qxa6 bxa6
+21. Bb4 Rxd4 22. Bxe7 {The writing is on the wall: the game will be drawn with
+3v3 on the kingside and at most two pieces each.} Re8 23. Bc5 Rxe1+ 24. Rxe1
+Rd2 25. Rb1 Nd7 26. Bxa7 Bd4 (26... Rxa2 27. Rb7 Rd2 28. Be3 Rd1+ 29. Bf1 {
+fails to change the ultimate verdict, since Black is too poorly co-ordinated
+to keep the a6-pawn for long, and in fact he runs considerably greater risk by
+leaving his opponent with the pair of bishops.}) 27. Bxd4 Rxd4 28. Bf1 Ra4 29.
+Rb7 Nf8 30. Rb6 Rxa2 31. Rxa6 Rxa6 32. Bxa6 Ne6 {Now, nobody was going to win,
+but in true elite style it was necessary to engineer a repetition in order to
+sign the scoresheets as fast as possible.} 33. Bf1 Nf8 34. Ba6 Ne6 35. Bf1 Nf8
+36. Ba6 1/2-1/2

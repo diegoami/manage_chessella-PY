@@ -1,0 +1,576 @@
+[Event "53rd Capablanca Memorial 2018"]
+[Site "Havana"]
+[Date "2018.05.09"]
+[Round "1"]
+[White "Anton Guijarro, David"]
+[Black "Bruzon Batista, Lazaro"]
+[Result "1/2-1/2"]
+[ECO "D87"]
+[WhiteElo "2646"]
+[BlackElo "2664"]
+[Annotator "TA"]
+[PlyCount "40"]
+[EventDate "2018.??.??"]
+[EventType "tourn"]
+[EventCountry "CUB"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,40,7,14,4,4,4,11,7,22,19,18,9,16,0,0,-13,-2,0,-9,-11,0]} 1. d4 Nf6 2.
+c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8. Ne2 Nc6 9. Be3
+O-O 10. O-O Na5 11. Bb5 {D87: Exchange GrÃ¼nfeld: Classical Line: Variations
+without ...cxd4} b6 {LiveBook: 4 Games. The position is equal.} 12. Qd2 $146 ({
+Predecessor:} 12. Rc1 Bd7 13. Bd3 Rc8 14. Qd2 e5 15. dxe5 Bxe5 16. f4 Bg7 17.
+f5 Re8 18. Bh6 Be5 {1-0 (68) Sjugirov,S (2649)-Ponkratov,P (2603) Sochi 2017})
+12... Bb7 13. f3 Rc8 14. d5 a6 15. Bd3 e6 16. dxe6 fxe6 17. Rfd1 Rf7 18. Bc2
+Qxd2 19. Bxd2 Bc6 20. Kf2 Rd7 1/2-1/2
+
+[Event "53rd Capablanca Memorial 2018"]
+[Site "Havana"]
+[Date "2018.05.09"]
+[Round "1"]
+[White "Rakhmanov, Aleksandr"]
+[Black "Shankland, Samuel"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[WhiteElo "2635"]
+[BlackElo "2701"]
+[Annotator "TA"]
+[PlyCount "99"]
+[EventDate "2018.??.??"]
+[EventType "tourn"]
+[EventCountry "CUB"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 22,99,18,0,19,0,36,27,7,3,0,0,22,0,0,0,0,11,39,39,79,78,78,78,78,77,78,
+78,77,78,78,78,78,78,78,14,13,14,14,14,78,6,9,0,6,3,37,37,37,37,37,37,37,37,37,
+37,34,40,147,49,49,49,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. Nf3
+d5 3. c4 e6 4. e3 b6 5. b3 Bb7 6. Bd3 dxc4 7. bxc4 c5 8. O-O cxd4 9. exd4 Be7
+10. Bb2 O-O 11. Nbd2 Nc6 12. Qe2 {LiveBook: 6 Games} Re8 {E14: Queen's Indian:
+Classical Variation (4 e3)} (12... Rc8 13. Rad1 Nb4 14. Bb1 b5 15. d5 exd5 16.
+cxb5 Re8 17. Nd4 Qb6 18. N2b3 Ne4 19. a3 Bd6 20. Qg4 {1-0 (31) Mirzoev,A (2557)
+-Abdulov,O (2371) Nakhchivan 2013}) 13. Rad1 g6 $146 ({Predecessor:} 13... Rc8
+14. Rc1 Ba6 15. Rfd1 Rc7 16. Nf1 Qc8 17. Ne3 Nb4 18. Bb1 Qb7 19. Ne5 Qc8 20.
+Qf3 Nc6 21. d5 exd5 22. Nxd5 Nxe5 23. Bxe5 Nxd5 {1-0 (29) Alvarado Ascanio,F 
+(2230)-Navarro Molina,D (1967) Gran Canaria 2010}) 14. Rfe1 Bf8 {White has an
+edge.} 15. Ne4 Nxe4 16. Bxe4 Bg7 17. Ne5 Qc7 {[%cal Rc6e5]} 18. Nxc6 Bxc6 19.
+d5 $1 $36 {[%cal Rd5c6][%mdl 2048] White has some pressure.} exd5 20. cxd5 {
+[%cal Bc4d5,Bd5d6][%mdl 32]} Ba4 {[#]} 21. d6 $1 {[%cal Rd6c7]} Qd7 {White
+must now prevent ...Bxb2.} 22. Bxg7 Kxg7 23. Qb2+ Kg8 24. Bxa8 Bxd1 25. Rxd1 {
+Hoping for Bf3.} Rxa8 $16 {[%mdl 4096] Endgame KQR-KQR} 26. h4 h5 27. Qd4 Re8
+28. Rc1 (28. Rd3 $16) 28... Rd8 $11 29. Re1 {Strongly threatening Re7.} Qc6 30.
+Rd1 Qd7 (30... Kh7 $11) 31. Qf4 (31. Kh2 $16) 31... Qe6 32. a3 Rd7 33. Qd4 Qg4
+(33... b5 {with more complications.} 34. Qc5 Kg7 35. Kh2 a5 36. f3 Kh7) 34.
+Qxg4 hxg4 $14 {KR-KR} 35. Kh2 f5 36. Kg3 Kf7 37. Kf4 {aiming for Ke5.} Kf6 $1
+38. Rd2 b5 39. Rd5 a5 {[#]} (39... a6 $14) 40. Rxb5 ({Better is} 40. h5 $1 $16)
+40... Rxd6 41. Rxa5 Rd4+ 42. Ke3 Re4+ {The position is equal.} 43. Kd2 g3 44.
+fxg3 Rg4 $1 45. Ke2 {Threatens to win with Ra6+.} Rxg3 46. Kf2 Rg4 47. g3 f4
+48. gxf4 Rxf4+ 49. Kg3 Rc4 50. a4 {Precision: White = 57%, Black = 61%.}
+1/2-1/2
+
+[Event "53rd Capablanca Memorial 2018"]
+[Site "Havana"]
+[Date "2018.05.09"]
+[Round "1"]
+[White "Bacallao Alonso, Yusnel"]
+[Black "Dreev, Aleksey"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[WhiteElo "2594"]
+[BlackElo "2653"]
+[Annotator "TA"]
+[PlyCount "81"]
+[EventDate "2018.??.??"]
+[EventType "tourn"]
+[EventCountry "CUB"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,81,11,17,6,2,0,1,0,3,0,14,6,16,21,29,4,-2,4,6,0,31,34,59,60,58,35,53,
+56,44,47,56,54,29,33,36,37,44,0,28,19,48,47,47,56,57,54,54,59,156,58,59,58,58,
+54,59,0,59,0,62,56,59,57,51,0,49,0,58,0]} 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3
+Nf6 5. Ne5 g6 (5... Nc6 6. Bb5 Bd7 7. Nxd7 Qxd7 8. c3 e6 9. O-O Bd6 10. Nd2 O-O
+11. Re1 a6 12. Bd3 e5 13. dxe5 Nxe5 {1-0 (52) Kramnik,V (2787)-Caruana,F (2811)
+Wijk aan Zee 2018}) 6. Bb5+ {B13: Caro-Kann: Exchange Variation and
+Panov-Botvinnik Attack} Nbd7 7. O-O Bg7 8. c3 O-O {LiveBook: 7 Games} 9. Nxd7
+Bxd7 10. Bd3 Qc7 $146 ({Predecessor:} 10... e5 11. dxe5 Ng4 {1-0 (27) Arenas
+Vanegas,D (2443)-Lora,J (2169) Pamplona 2012}) 11. Nd2 Bc6 12. Re1 Rae8 13. Nf3
+Nd7 14. Be3 f6 15. c4 e6 16. Rc1 dxc4 17. Bxc4 {Hoping for Qb3.} Nb6 (17... Qd6
+{is more complex.} 18. d5 exd5 19. Bb3 a6 20. Nd4 Kh8) 18. Bb5 Qd6 19. Bxc6
+bxc6 20. Rc5 Rc8 {[%cal Be8c8,Bc8c7,Bc7b7][%mdl 32]} 21. Qc2 Rc7 22. Rc1 Rfc8
+23. g3 {aiming for Bf4.} Nd5 24. Bd2 Bf8 25. Ba5 Qd7 26. Rc4 Rb7 27. a3 Bh6 28.
+Bd2 Bf8 29. b4 Rbc7 30. Qe4 Re8 31. h4 Bg7 {[#]} ({Black should try} 31... Rec8
+$14) 32. Kg2 ({White should play} 32. b5 $1 $16 {[%mdl 512]}) 32... Rec8 $14
+33. R4c2 Re8 34. Qe2 Bf8 35. Qe4 Bg7 $1 36. Qe2 Bf8 $1 37. Re1 Rcc8 38. Qe4 Rc7
+39. Qe2 Rcc8 $1 40. Qe4 Rc7 41. Rec1 {Precision: White = 47%, Black = 62%.} (
+41. Bf4 $14 Rcc8 42. Rec1) 1/2-1/2
+
+[Event "53rd Capablanca Memorial 2018"]
+[Site "Havana"]
+[Date "2018.05.10"]
+[Round "2"]
+[White "Bruzon Batista, Lazaro"]
+[Black "Shankland, Samuel"]
+[Result "0-1"]
+[ECO "C07"]
+[WhiteElo "2664"]
+[BlackElo "2701"]
+[Annotator "TA"]
+[PlyCount "99"]
+[EventDate "2018.??.??"]
+[EventType "tourn"]
+[EventCountry "CUB"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,99,7,10,10,0,20,8,8,0,0,-20,-14,-60,-60,-56,-54,-59,-59,-67,-51,-62,
+-54,-56,-40,-43,0,0,0,-24,-30,-45,0,-11,0,-59,-43,-63,-53,-85,-94,-84,-89,-73,
+-82,-110,-130,-142,-130,-142,-102,-98,-89,-112,-81,-133,-125,-125,-114,-239,
+-80,-289,-282,-288,-295,-290,-278,-242,-204,-201,-202,-195,-184,-183,-155,-155,
+-121,-252,-235,-267,-287,-296,-295,-279]} 1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5
+Qxd5 5. dxc5 Nf6 6. Ngf3 {C07: French Tarrasch: 3...c5, 4 Ngf3 and 4 exd5 Qxd5}
+Qxc5 7. Bd3 Nbd7 8. O-O Qc7 9. Re1 Be7 10. Ne4 {LiveBook: 5 Games} b6 11. Nxf6+
+Nxf6 12. Ne5 {Bf4 is the strong threat.} O-O 13. Qf3 {[#]} Bd6 $146 14. Qg3 (
+14. Qxa8 Bb7 $15) 14... Bb7 15. Bh6 {[%csl Gh6][%cal Rg3g7]} Nh5 16. Qg5 f5 17.
+Qxh5 {Strongly threatening Bf4.} Bxe5 18. Bc1 Rf6 19. Bf1 Rg6 20. c3 $1 Rd8 21.
+Bg5 Rd5 22. Rad1 b5 23. h4 Bh2+ 24. Kh1 {With the idea Rxd5.} Bf4 (24... Bd6 {
+with more complications.} 25. Be2 Qb6 26. Kg1 Bc5 27. Rf1 Rxd1 28. Bxd1 b4) 25.
+Kg1 a6 26. a3 (26. Bxf4 $11 Qxf4 27. Re3) 26... Bxg5 27. hxg5 Qe7 $1 28. Rd4
+Rxd4 (28... Rxg5 $6 29. Rxe6 $1 {[%mdl 512]} Qxe6 30. Qxg5 $11) (28... Qxg5 $6
+29. Qxg5 Rxg5 30. Rxe6 $11) 29. cxd4 Qd8 ({Don't play} 29... Qxg5 30. Qxg5 Rxg5
+31. Rxe6 $11) ({Of course not} 29... Rxg5 $6 30. Rxe6 $1 {[%mdl 512]} Qxe6 31.
+Qxg5 $11) 30. Qh2 Bd5 $1 ({Reject} 30... Rxg5 31. Rxe6 Rg4 32. d5 $11) 31. Rc1
+Rxg5 32. Qe5 h5 {[%cal Bh7h5,Bh5h4][%mdl 32]} 33. Rc3 Rg4 34. f3 Rg6 35. Qf4 h4
+36. Kf2 (36. Be2 $142) 36... Qf6 $17 37. Rc8+ Kh7 38. Rc7 {[#]} (38. Rc3 $17 {
+might work better.}) 38... Rh6 $2 (38... h3 $1 $19 {[%mdl 512] is more deadly.}
+39. b4 (39. gxh3 e5) 39... hxg2 40. Bxg2 Rh6) 39. Ke3 $2 {[#]} (39. Rd7 $17)
+39... h3 $1 $19 {[%mdl 512]} 40. gxh3 Rh4 41. Qe5 {White threatens Qxf6 and
+mate.} Qg5+ 42. Kf2 Qd2+ 43. Be2 {[%csl Gc7][%cal Re5g7]} Qxd4+ 44. Qxd4 Rxd4 {
+[%mdl 4096] Endgame KRB-KRB} 45. Ke3 Rh4 46. Bf1 Kg6 47. b4 (47. f4 $17) 47...
+f4+ $1 48. Kf2 {[#]} Rh8 $1 49. Ra7 {[#]} Ra8 $1 {[%cal Ra8a7]} 50. Rc7 {
+Precision: White = 44%, Black = 73%.} 0-1
+
+[Event "53rd Capablanca Memorial 2018"]
+[Site "Havana"]
+[Date "2018.05.10"]
+[Round "2"]
+[White "Dreev, Aleksey"]
+[Black "Rakhmanov, Aleksandr"]
+[Result "1-0"]
+[ECO "D27"]
+[WhiteElo "2653"]
+[BlackElo "2635"]
+[Annotator "TA"]
+[PlyCount "88"]
+[EventDate "2018.??.??"]
+[EventType "tourn"]
+[EventCountry "CUB"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 22,88,38,16,22,19,28,10,80,62,81,73,67,66,97,93,85,78,81,72,97,97,94,95,
+97,96,95,98,99,102,105,99,121,77,83,79,99,87,89,90,88,91,116,47,100,101,110,
+116,112,116,110,55,55,55,55,55,55,55,55,58,83,58,44,22,44,7,7,13,1274]} 1. d4
+Nf6 2. Nf3 e6 3. c4 a6 4. e3 d5 5. b3 dxc4 6. Bxc4 c5 7. O-O cxd4 8. Nxd4 Bd7
+9. Bb2 Nc6 10. Nd2 {[%cal Bb1d2,Bd2c4,Bc4b6][%mdl 32]} Nxd4 {D27: Queen's
+Gambit Accepted: Classical main line: 7 e4!? and 7 a4} 11. Bxd4 Bc6 12. Be2 {
+LiveBook: 5 Games} Bb4 $146 ({Predecessor:} 12... Be7 13. Bf3 Bd5 14. Nc4 O-O
+15. Rc1 Rc8 {1/2-1/2 (15) Novikov,I (2590)-Sturua,Z (2540) Yerevan 1996}) 13.
+Nc4 O-O 14. Bf3 Nd5 (14... Bxf3 $11 15. Qxf3 Qd5) 15. Bxd5 $16 Bxd5 ({Don't
+play} 15... exd5 $6 16. Nb6 $16) 16. Qg4 {[%csl Gd4][%cal Rg4g7] [#]} g6 17.
+Nb6 f5 18. Qg3 {Threatens to win with Qe5.} Bd6 19. f4 Rb8 20. Rad1 Rf7 21.
+Nxd5 exd5 22. Qf3 Rc8 23. Qxd5 {[#] aiming for Bb2.} Bf8 24. Qxd8 Rxd8 25. Bb6
+Re8 26. a4 Rc8 27. Rd3 Rc6 28. Ba5 Rc2 29. Rfd1 Bc5 30. R1d2 Rc1+ 31. Kf2 Re7
+32. Bd8 (32. b4 $16 Ba7 33. Bd8) 32... Re8 (32... Re4 $14) 33. Bf6 Bb4 34. Rd1
+Rxd1 35. Rxd1 {[%mdl 4096] Endgame KRB-KRB} Kf7 36. Bd4 ({Better is} 36. Bb2
+$16) 36... Rc8 $1 $14 37. Kf3 Rc2 38. h3 h5 39. g3 Ke6 40. e4 Bc3 41. exf5+
+gxf5 42. Ke3 {Hoping for Kd3.} Ba5 43. Be5 {And now Rd6+ would win.} Bb6+ 44.
+Kd3 Ba5 $2 {[%mdl 8192] Precision: White = 67%, Black = 59%.} (44... Rg2 $11)
+1-0
+
+[Event "53rd Capablanca Memorial 2018"]
+[Site "Havana"]
+[Date "2018.05.10"]
+[Round "2"]
+[White "Anton Guijarro, David"]
+[Black "Bacallao Alonso, Yusnel"]
+[Result "1/2-1/2"]
+[ECO "D51"]
+[WhiteElo "2646"]
+[BlackElo "2594"]
+[Annotator "TA"]
+[PlyCount "24"]
+[EventDate "2018.??.??"]
+[EventType "tourn"]
+[EventCountry "CUB"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,24,21,30,38,30,21,48,43,52]} 1. Nf3 Nf6 2. c4 e6 3. d4 d5 4. Nc3 Nbd7
+5. cxd5 exd5 6. Bg5 c6 7. Qc2 {D51: Queen's Gambit Declined: 4 Bg5 Nbd7
+sidelines} (7. e3 Be7 8. Bd3 Ne4 9. Bxe4 Bxg5 10. Bd3 Be7 11. O-O g6 12. Rb1
+O-O 13. b4 a6 14. a4 Nb6 15. a5 Nd7 16. Na4 Bd6 17. Qc2 Nf6 {1-0 (94) Bu,X 
+(2730)-Sjugirov,S (2650) Riadh 2017}) 7... h6 8. Bh4 g5 9. Bg3 Nh5 {LiveBook:
+3 Games} 10. O-O-O Nxg3 11. hxg3 Nb6 12. e4 $146 ({Predecessor:} 12. Ne5 Be6
+13. f4 Qf6 14. e3 {1/2-1/2 (68) Pelletier,Y (2557)-Studer,N (2462) Flims 2016})
+12... Be6 1/2-1/2
+
+[Event "53rd Capablanca Memorial 2018"]
+[Site "Havana"]
+[Date "2018.05.11"]
+[Round "3"]
+[White "Shankland, Samuel"]
+[Black "Dreev, Aleksey"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[WhiteElo "2701"]
+[BlackElo "2653"]
+[Annotator "TA"]
+[PlyCount "62"]
+[EventDate "2018.??.??"]
+[EventType "tourn"]
+[EventCountry "CUB"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,62,9,29,0,47,47,59,57,51,55,83,73,77,66,68,65,75,74,87,86,69,79,87,
+64,67,75,75,58,64,57,69,67,60,45,38,39,41,8,8,0,0,0,0]} 1. d4 d5 2. c4 c6 3.
+Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 b6 7. b3 Bb7 8. Bb2 Bd6 9. Bd3 O-O 10. O-O
+Qe7 {D45: Semi-Slav: 5 e3} 11. Rad1 Rfe8 {LiveBook: 4 Games} (11... Rac8 12.
+Qb1 c5 13. cxd5 exd5 14. Bf5 Rcd8 15. Rfe1 Rfe8 16. Bh3 Ne4 17. dxc5 Ndxc5 18.
+Nb5 {1-0 (36) Karjakin,S (2785)-Lu,S (2627) Doha 2016}) 12. e4 dxc4 13. Bxc4 {
+[#] Strongly threatening e5.} b5 14. Bd3 {e5 is the strong threat.} e5 15. Ne2
+{[#]} c5 $146 ({Predecessor:} 15... g6 16. Qc1 Rad8 17. h3 {1/2-1/2 (17)
+Llanos,G (2360)-Sorokin,M (2535) Potrero de los Funes 1995}) 16. dxe5 Nxe5 17.
+Nxe5 ({Much weaker is} 17. Bxb5 Bxe4 18. Qd2 Red8 $15) 17... Bxe5 18. Bxe5 Qxe5
+19. Bxb5 Qxe4 20. Qxe4 Rxe4 21. Nc3 Re5 22. Rfe1 Rxe1+ 23. Rxe1 a6 24. Bc4 {
+Hoping for Re7.} Kf8 $1 25. Na4 Rc8 26. f3 Nd7 27. Kf2 Bc6 28. Nc3 a5 29. Bb5
+Nb6 {The position is equal.} 30. a4 Bxb5 31. Nxb5 Rd8 {Precision: White = 54%,
+Black = 65%.} 1/2-1/2
+
+[Event "53rd Capablanca Memorial 2018"]
+[Site "Havana"]
+[Date "2018.05.11"]
+[Round "3"]
+[White "Rakhmanov, Aleksandr"]
+[Black "Anton Guijarro, David"]
+[Result "1-0"]
+[ECO "A28"]
+[WhiteElo "2635"]
+[BlackElo "2646"]
+[Annotator "TA"]
+[PlyCount "83"]
+[EventDate "2018.??.??"]
+[EventType "tourn"]
+[EventCountry "CUB"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,83,0,15,23,26,28,31,48,14,14,14,18,18,16,2,8,0,22,11,19,22,29,-14,0,
+0,0,0,25,-9,7,-8,0,0,0,0,4,-92,0,0,0,0,80,89,124,125,118,91,198,193,201,207,
+284,285,272,250,273,260,380,381,383,311,301,316,282,278]} 1. c4 Nf6 2. Nc3 e5
+3. e3 Nc6 4. Nf3 Be7 5. d4 exd4 6. Nxd4 O-O 7. Be2 Bb4 8. O-O {A28: English
+Opening: Four Knights Variation} (8. Qb3 Qe7 9. a3 Nxd4 10. exd4 Bxc3+ 11. Qxc3
+d5 12. c5 Bg4 13. Qc2 Rfe8 14. Be3 Bxe2 15. Qxe2 Qe4 {0-1 (31) Glavina,P (2400)
+-Anton Guijarro,D (2654) Linares 2017}) 8... Bxc3 9. bxc3 d6 10. Nxc6 bxc6 11.
+Bf3 {LiveBook: 5 Games} Bd7 12. c5 d5 13. c4 Rb8 $146 ({Predecessor:} 13... Be6
+14. Bb2 Rb8 15. Bd4 Ne4 {0-1 (59) Lesiege,A (2375)-Mueller,K (2460) Oakham 1992
+}) 14. cxd5 cxd5 15. Qd4 Re8 16. Bb2 c6 17. h3 Bf5 18. Bc3 Re6 19. Qf4 Bg6 20.
+Bd4 Rb7 21. g4 h6 22. Bg2 {[%cal Bf3g2,Bg2f1,Bf1e2,Be2a6,Ba6c8][%mdl 32]} Rb5
+23. Rfc1 Ne4 24. Bf1 Rb7 25. f3 Nd2 26. Be2 Rb4 27. Rd1 $1 $40 {[%cal Rd1d2]
+[%mdl 128] White is up to no good.} Nb1 28. Qh2 (28. e4 $11 {keeps the balance.
+} Na3 29. Rac1) 28... Na3 ({Black should try} 28... Qe7 $1 $17 {Strongly
+threatening ...Rxd4!} 29. Qf2 Rxd4 $1 {[%mdl 512]} 30. Rxd4 Rxe3) 29. Bc3 $11
+Rb7 30. e4 $1 Qe7 (30... Nb5 $11 31. Rab1 Nxc3 32. Rxb7 Qa5) 31. Ba6 $1 $16 {
+[%cal Ra6b7]} Nb5 32. Be1 $1 (32. Bb4 Nd4 $1 $17 {[%mdl 512]}) 32... Rd7 {[#]}
+33. Bc8 $1 Qxc5+ (33... Rf6 $16) 34. Qf2 Qxf2+ 35. Kxf2 Rc7 36. Bxe6 fxe6 37.
+Rac1 Rf7 {Threatening ...Bxe4.} 38. Kg3 ({Not} 38. Rxc6 Bxe4 39. Kg1 Rxf3 $11)
+38... dxe4 (38... e5 {is a better defense.} 39. Rxc6 Kh7) 39. f4 $18 Nc7 40.
+Rd8+ Kh7 {and the idea ...Nd5 leaves Black hopeful.} 41. Rxc6 e3 42. Rcd6 {
+Precision: White = 69%, Black = 32%.} 1-0
+
+[Event "53rd Capablanca Memorial 2018"]
+[Site "Havana"]
+[Date "2018.05.11"]
+[Round "3"]
+[White "Bacallao Alonso, Yusnel"]
+[Black "Bruzon Batista, Lazaro"]
+[Result "1/2-1/2"]
+[ECO "D32"]
+[WhiteElo "2594"]
+[BlackElo "2664"]
+[Annotator "TA"]
+[PlyCount "138"]
+[EventDate "2018.??.??"]
+[EventType "tourn"]
+[EventCountry "CUB"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,138,6,31,32,32,27,35,39,33,20,26,16,13,20,19,20,19,16,16,16,13,11,14,
+27,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-33,-33,-41,-41,-62,-62,-74,-74,-74,-74,-73,
+-64,-65,-65,-74,-49,-74,-61,-74,-68,-74,-46,-59,-46,-59,-58,-58,-47,-74,-74,
+-74,-58,-74,-56,-68,-50,-68,-58,-70,-45,-74,-74,-74,-74,-74,-74,-80,-58,-58,
+-58,-58,-58,-58,-58,-58,-58,-58,0,-58,-18,-58,0,-58,-58,-58,-51,-51,-27,-58,
+-33,-33,-33,-33,-26,-26,-26,-70,-70,-70,-70,-70,-70]} 1. Nf3 c5 2. c4 Nf6 3.
+Nc3 Nc6 4. e3 e6 5. d4 d5 6. cxd5 exd5 7. Bb5 cxd4 8. Nxd4 Bd7 9. O-O Bd6 {
+D32: Tarrasch Defence: Sidelines and lines without g3} 10. Nf3 a6 {LiveBook:
+10 Games} (10... Bf5 {looks sharper.} 11. Bd3 Be4 12. b3 O-O 13. Bb2 Re8) (
+10... Be6 11. b3 O-O 12. Bb2 a6 13. Bd3 Bg4 14. h3 Bh5 15. Be2 Re8 16. Nh4 Bg6
+17. Nxg6 hxg6 {1/2-1/2 (56) Carlsen,M (2832)-Grischuk,A (2750) chess.com INT
+2017}) 11. Bxc6 Bxc6 {White is slightly better.} 12. b3 O-O 13. Bb2 {[#]} Re8
+$146 ({Predecessor:} 13... Qe7 14. Qd4 Bc5 15. Qh4 Ba3 16. Bxa3 Qxa3 17. Qd4 {
+1/2-1/2 (42) Ruban,V (2535)-Kharlov,A (2555) Novosibirsk 1995}) 14. Ne2 Ne4 15.
+Ng3 Nxg3 16. hxg3 Qe7 17. Rc1 Rad8 18. Qc2 f6 19. Nd4 Bd7 20. Nf5 Qe6 21. Nxd6
+Qxd6 22. Qc7 Qxc7 23. Rxc7 Bc6 24. Rd1 h5 25. Kh2 Rc8 26. Rxc8 Rxc8 $11 {
+[%mdl 4096] Endgame KRB-KRB} 27. g4 hxg4 28. Kg3 Kf7 29. Kxg4 Bd7+ 30. Kg3 Rc2
+31. Bc1 Ke6 32. a3 Rc3 33. b4 Rc2 34. Bd2 Ra2 35. Bc1 Ra1 $1 36. f3 Ba4 37. Rf1
+b6 38. Re1 Ra2 39. Rg1 Kf5 40. Re1 Kg6 41. Rf1 Rc2 42. Rg1 Kf5 43. Re1 Ke6 44.
+Rg1 Kf7 45. Rf1 g5 46. Rg1 Kg6 47. Rf1 Bb5 48. Rd1 Bc4 49. Rg1 a5 50. bxa5 bxa5
+51. Rd1 a4 52. Rg1 f5 53. Rd1 Kf7 54. Re1 Ke6 55. Rd1 Bb3 56. Re1 Ra2 57. Rf1
+Rc2 58. Re1 $1 Kd7 59. Rd1 Ke6 60. Re1 $1 Kf7 61. Rf1 Ke7 62. Re1 Kd6 (62...
+Kf6 {keeps more tension.} 63. Kh3 Bc4 64. Kg3 Be2 65. Rh1 Ke5) 63. Rd1 Rxg2+ (
+63... Kc5 {is interesting.} 64. Bd2 Kb6 65. Bc1 Kb5 66. Re1 Kc4) 64. Kxg2 Bxd1
+$15 {KB-KB} 65. Bb2 Kc5 66. Bf6 g4 67. f4 Kc4 {Black is slightly better.} 68.
+Kg3 Bf3 69. Be5 Be4 {Precision: White = 50%, Black = 62%.} 1/2-1/2
+
+[Event "53rd Capablanca Memorial 2018"]
+[Site "Havana"]
+[Date "2018.05.12"]
+[Round "4"]
+[White "Bruzon Batista, Lazaro"]
+[Black "Dreev, Aleksey"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "2664"]
+[BlackElo "2653"]
+[Annotator "TA"]
+[PlyCount "50"]
+[EventDate "2018.??.??"]
+[EventType "tourn"]
+[EventCountry "CUB"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 24,50,24,24,17,25,25,25,26,20,22,20,21,18,27,29,22,16,24,3,31,6,5,0,1,2,
+12,0,0]} 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 cxd4 7. Nxd4
+Ne7 8. O-O Nbc6 9. Bb5 {B12: Caro-Kann: Advance Variation} a6 10. Bxc6+ Nxc6 (
+10... bxc6 11. c4 Qd7 12. Nc3 dxc4 13. Na4 Nd5 14. Nxf5 exf5 15. Rc1 c3 16. Qc2
+Be7 17. Nxc3 Nxe3 18. fxe3 {1-0 (26) Nepomniachtchi,I (2733)-Laznicka,V (2654)
+Heraklio 2017}) 11. Nxf5 exf5 12. c3 Be7 13. Nd2 {[%cal Bb1d2,Bd2f1,Bf1e3]
+[%mdl 32] LiveBook: 4 Games} Nxe5 14. Bd4 f6 15. Re1 Nc6 16. Nf1 Kf7 17. Ne3
+$146 f4 18. Nf5 g6 19. Nxe7 Nxe7 20. Bc5 $36 {[%mdl 2048] White has good play.}
+Re8 21. Qf3 Rc8 22. Ba3 Qd7 {The position is equal.} 23. Qxf4 Nf5 24. h3 h5 25.
+Rad1 h4 {Precision: White = 69%, Black = 89%.} 1/2-1/2
+
+[Event "53rd Capablanca Memorial 2018"]
+[Site "Havana"]
+[Date "2018.05.12"]
+[Round "4"]
+[White "Anton Guijarro, David"]
+[Black "Shankland, Samuel"]
+[Result "1/2-1/2"]
+[ECO "A34"]
+[WhiteElo "2646"]
+[BlackElo "2701"]
+[Annotator "TA"]
+[PlyCount "117"]
+[EventDate "2018.??.??"]
+[EventType "tourn"]
+[EventCountry "CUB"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,117,25,36,0,11,-9,-11,-40,37,32,70,56,89,-7,-20,-31,-17,-25,10,10,8,
+8,8,7,7,8,17,15,30,34,35,35,35,29,44,35,62,60,60,59,57,56,88,95,81,45,47,51,47,
+39,49,49,57,73,64,53,60,64,95,96,103,103,118,103,103,0,95,22,22,5,103,103,103,
+45,39,50,166,141,275,280,268,262,253,253,248,241,232,74,119,13,13,0,12,13,40,
+40,40,23,120,120,120,120,120,120,120,120]} 1. Nf3 c5 2. c4 Nf6 3. Nc3 Nc6 4. e3
+d5 5. cxd5 Nxd5 6. Bb5 Nxc3 7. bxc3 Bd7 {LiveBook: 28 Games. A34: Symmetrical
+English: 2 Nc3, lines with ...d5} 8. h4 $146 ({Predecessor:} 8. O-O e6 9. d4
+Be7 10. Rb1 O-O 11. Re1 Qc7 12. e4 Rfd8 13. g3 Bf6 14. Bf4 Qa5 15. Bf1 cxd4 16.
+cxd4 b6 17. Bc7 {0-1 (42) Ganguly,S (2657)-Xiong,J (2640) Saint Louis 2018})
+8... a6 9. Be2 e5 {The position is equal.} 10. Qb3 b5 (10... Be7 $15) 11. Qd5 (
+{Much weaker is} 11. Ng5 c4 $15) 11... f6 12. a4 b4 13. Bb2 (13. d4 $1 $16)
+13... Qc8 $11 14. Bc4 Nd8 {Strongly threatening ...Bc6.} 15. Qd3 Be6 (15... b3
+{looks sharper.} 16. h5 Bf5 17. e4 Be6 18. a5 Nf7) 16. cxb4 Bxc4 17. Qxc4 {
+next b5 is good for White.} cxb4 18. Rc1 Qxc4 19. Rxc4 Ne6 20. Ke2 Bd6 21. d4
+$36 {[%mdl 2048] Black is under pressure.} exd4 22. Nxd4 Nxd4+ 23. Bxd4 a5 24.
+h5 Kf7 25. Rc6 Rhd8 26. Rhc1 Rd7 27. Rb6 Be7 28. Rcc6 Re8 29. Rb5 Bd8 {Hoping
+for ...Rxd4.} 30. Kf3 Re6 31. Rc8 Red6 32. g4 Rd5 33. Rxd5 Rxd5 $14 {[%mdl
+4096] Endgame KRB-KRB} 34. Ke4 Rd7 35. f4 {[%cal Bf2f4,Bf4f5][%mdl 32]} Ke6 36.
+f5+ Kf7 37. Ra8 Ke7 38. Bc5+ Kf7 39. Bd4 Ke7 $1 40. Rb8 (40. Kd3 $1 $16) 40...
+h6 $11 41. Bc5+ Kf7 (41... Ke8 $1 $11) 42. Ra8 $16 Be7 43. Bd4 (43. Rxa5 $16 {
+Threatens to win with Bd4.} Bxc5 44. Rxc5) 43... Bd8 $14 44. Kd3 Ke7 (44... Bb6
+$1 $14) 45. Kc4 $18 Rb7 (45... Kd6 $16 {was called for.}) 46. Kb3 $1 Rd7 {[#]}
+47. Bc5+ $1 Kf7 48. Kc4 Rd1 49. Ra7+ Kg8 {[#]} 50. Bd4 $2 (50. Rb7 $1 $18)
+50... Bc7 51. Kb5 ({White should try} 51. Ra8+ $16 Kf7 52. Bc5) 51... Rc1 $11
+52. Rb7 b3 53. Ka6 Rc4 54. Rxb3 Rxa4 55. Kb5 Rb4+ (55... Ra2 $11) 56. Rxb4 $16
+{White is better.} axb4 57. Kxb4 Kf7 58. Kc5 Bg3 59. Kd5 {Precision: White =
+57%, Black = 42%.} 1/2-1/2
+
+[Event "53rd Capablanca Memorial 2018"]
+[Site "Havana"]
+[Date "2018.05.12"]
+[Round "4"]
+[White "Bacallao Alonso, Yusnel"]
+[Black "Rakhmanov, Aleksandr"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2594"]
+[BlackElo "2635"]
+[Annotator "TA"]
+[PlyCount "142"]
+[EventDate "2018.??.??"]
+[EventType "tourn"]
+[EventCountry "CUB"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,142,25,17,13,8,20,17,17,8,26,12,25,21,25,17,22,13,24,22,19,17,20,15,
+27,18,28,28,22,24,22,27,35,19,26,0,0,0,0,0,0,-11,-8,-7,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,17,0,14,8,7,0,0,0,0,0,0,0,0,0,65,0,0,0,32,0,0,0,0,0,0,0,0,
+0,0,-199,-125,-764,-27,-13,-12,-18,-21,-51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. c4 e6 2. Nf3 d5 3. d4 a6 4. cxd5 exd5 5. Nc3 Nf6
+6. Qb3 {LiveBook: 11 Games. D37: Queen's Gambit Declined: 5 Bf4} (6. Bg5 Be6 7.
+e3 Nbd7 8. Bd3 Bd6 9. Bf4 Qe7 10. O-O O-O 11. h3 Rfe8 12. Qc2 {1/2-1/2 (12)
+Aronian,L (2805)-Carlsen,M (2837) Riadh 2017}) 6... h6 7. Bf4 Bd6 8. Be5 $146 (
+{Predecessor:} 8. Bxd6 Qxd6 9. e3 Nc6 10. Bd3 O-O 11. h3 Be6 12. Rc1 Ne7 13.
+O-O b6 {1/2-1/2 (35) Erdos,V (2628)-Kovalyov,A (2641) Linares 2017}) 8... c6 9.
+e3 Bxe5 10. Nxe5 Nbd7 11. Nxd7 Qxd7 12. Qa3 Qe7 13. Qxe7+ Kxe7 14. Bd3 Be6 15.
+Kd2 Nd7 16. Rhc1 Kf6 17. f3 g5 18. Rf1 Ke7 19. Rae1 f5 20. Rh1 Nf6 21. h4 Rag8
+22. Rh2 g4 23. Ne2 gxf3 24. gxf3 Nh5 25. Rg1 (25. Nf4 {keeps more tension.}
+Nxf4 26. exf4 Kf6 27. Rhe2 Bc8 28. h5) 25... Rxg1 26. Nxg1 Rg8 27. Ne2 a5 28.
+a3 Kf6 29. Ke1 f4 30. Nxf4 Nxf4 31. exf4 $11 {[%mdl 4096] Endgame KRB-KRB} Bf5
+32. Bf1 $1 b6 33. Rd2 Rd8 34. Re2 c5 35. Re5 c4 36. a4 $1 Be6 37. Kf2 Bf5 38.
+h5 Bc2 39. Bh3 {Threatens to win with Re6+.} Rd6 40. Ke3 Bxa4 41. Rf5+ Kg7 {
+[#] aiming for ...Bd7.} 42. Re5 Bc6 43. Re7+ Kf8 $1 {[%cal Rf8e7]} 44. Ra7 Be8
+(44... Ke8 $11) 45. Bg4 (45. f5 $1 $14) 45... Bf7 46. Bd7 Be6 47. Bb5 Bf5 48.
+Rb7 Re6+ 49. Kf2 Bd3 50. Kg3 Re2 51. f5 Rxb2 52. Bd7 $2 (52. Rb8+ $1 $11 {
+and White has nothing to worry.} Kg7 53. Rb7+ Kf8 54. Rb8+ Ke7 55. Rb7+ Kf8)
+52... c3 $19 {[#] Strongly threatening ...c2.} 53. Rc7 $2 {[%mdl 8192]} (53.
+Be6 $17 Re2 54. Rb8+ Ke7 55. Rb7+ Kd8 56. Rb8+ Kc7 57. Rc8+ Kd6 58. Rxc3) 53...
+Re2 $2 ({Better is} 53... c2 $19 {Hoping for ...Bc4.} 54. Ba4 b5 55. Rc8+ Kf7
+56. Bxc2 Rxc2) 54. Rxc3 $11 Bc4 $1 {And now ...b5 would win.} 55. Ra3 $1 Ke7
+56. Be6 $1 Kf6 (56... Rd2 $15 57. Re3 Kf6) 57. Ra1 $1 {The position is equal.}
+Rd2 58. Bd7 $1 Kg5 59. Rb1 b5 $1 {[%cal Rb5b4]} ({Avoid the trap} 59... Rxd4 $2
+60. Rxb6 Kxh5 61. f6 $18) 60. Bxb5 Bxb5 61. Rxb5 Rxd4 62. Rxa5 Kxf5 {KR-KR} 63.
+Ra6 Kg5 64. Rg6+ Kxh5 65. Rg8 Ra4 66. Rd8 Ra5 67. Rg8 Ra6 {White must now
+prevent ...Rg6+.} 68. Rd8 Rg6+ 69. Kh3 Rg5 70. f4 Rf5 71. Rd6 Rxf4 {Precision:
+White = 66%, Black = 64%.} 1/2-1/2
+
+[Event "53rd Capablanca Memorial 2018"]
+[Site "Havana"]
+[Date "2018.05.13"]
+[Round "5"]
+[White "Shankland, Samuel"]
+[Black "Bacallao Alonso, Yusnel"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2701"]
+[BlackElo "2594"]
+[Annotator "TA"]
+[PlyCount "63"]
+[EventDate "2018.??.??"]
+[EventType "tourn"]
+[EventCountry "CUB"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,63,1,32,19,63,29,47,35,35,32,46,32,36,27,21,24,25,7,42,0,0,0,0,0,0,0,
+70,90,140,212,204,200,179,157,321,333,664,643,635,545,997,989,966,908,29985,
+29982]} 1. e4 {[%cal Be2e4,Be4e5][%mdl 32]} c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5.
+Nf3 Bxc5 6. a3 {B12: Caro-Kann: Advance Variation} (6. Bd3 Ne7 7. O-O Ng6 8. a3
+O-O 9. Nbd2 Nc6 10. b4 Bb6 11. Bb2 Nf4 12. Nb3 a5 13. Qd2 Nxd3 14. cxd3 {
+1/2-1/2 (38) Vitiugov,N (2735)-Anand,V (2776) Karlsruhe/Baden-Baden 2018}) 6...
+Ne7 7. b4 Bb6 8. Bd3 a5 9. b5 Nd7 10. O-O Ng6 {LiveBook: 3 Games} 11. Bb2 Qc7 {
+[%cal Rd7e5]} 12. Re1 a4 13. Nbd2 $146 Nc5 14. Bxg6 $1 fxg6 15. Qe2 O-O 16. Bd4
+Ba5 17. Rec1 b6 18. c4 Qe7 19. Qe3 Bb7 20. cxd5 Bxd5 21. Bxc5 bxc5 22. Rab1 Qb7
+(22... Rab8 $11) 23. Nc4 $14 Bxf3 24. gxf3 Rxf3 25. Qxc5 Qe4 {[#] aiming for ..
+.Qg4+.} 26. Nxa5 {Strongly threatening b6.} Rf4 $2 (26... Qg4+ $16 {is a
+better defense.} 27. Kh1 Rxa5) 27. h3 $18 Qf5 $2 (27... Rf5 28. Qe3 Qxe3 29.
+fxe3 Rxa5) 28. Rb4 Qg5+ 29. Kh2 Rf3 {intending ...Qf5.} 30. Rc3 Rxc3 31. Qxc3
+Rxa5 32. b6 {Precision: White = 60%, Black = 25%.} 1-0
+
+[Event "53rd Capablanca Memorial 2018"]
+[Site "Havana"]
+[Date "2018.05.13"]
+[Round "5"]
+[White "Dreev, Aleksey"]
+[Black "Anton Guijarro, David"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "2653"]
+[BlackElo "2646"]
+[Annotator "TA"]
+[PlyCount "67"]
+[EventDate "2018.??.??"]
+[EventType "tourn"]
+[EventCountry "CUB"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,67,18,12,20,15,15,8,20,0,39,23,23,10,54,44,54,54,54,58,78,77,72,72,
+75,70,107,91,102,103,120,114,158,97,136,105,109,110,121,107,195,177,222,222,
+210,213,215,215,439,433,345,318,408,406,374,360,900,884]} 1. d4 Nf6 2. Nf3 d5
+3. c4 e6 4. Bg5 h6 5. Bxf6 Qxf6 6. Nbd2 {D30: Queen's Gambit Declined: Systems
+without Nc3} Qd8 7. g3 {LiveBook: 3 Games} g6 $146 ({Predecessor:} 7... c5 8.
+Bg2 dxc4 9. Qa4+ Nd7 10. O-O a6 11. dxc5 Bxc5 12. Qxc4 b5 13. Qc3 Qf6 {1/2-1/2
+(46) Navara,D (2725)-Movsesian,S (2673) Prague 2016}) 8. Bg2 {The position is
+equal.} Bg7 9. O-O O-O 10. Qc2 Nd7 11. Rac1 c6 12. e4 $36 {[%cal Be2e4,Be4e5]
+[%mdl 2080] White has some pressure.} Qb6 13. Rfd1 Rd8 14. e5 a5 15. h4 Nf8 16.
+Nf1 Bd7 17. Ne3 Be8 18. a3 Rac8 19. Qd2 h5 20. Bh3 {cxd5 is the strong threat.}
+Bh6 21. Ng5 $1 {aiming for cxd5.} Ra8 22. Rc3 (22. g4 $142 $1) 22... Nh7 23. f4
+dxc4 24. Nxc4 Qa7 {[#]} 25. Ne4 $1 c5 (25... Bf8 $16) 26. Ncd6 $18 cxd4 27. Rc7
+(27. Qxd4 $6 Qxd4+ 28. Rxd4 Bc6 $16) 27... d3+ {[#]} 28. Qf2 $1 {[%cal Rf2a7]}
+Qxf2+ 29. Kxf2 Ra6 $2 (29... Bf8 30. Nxe8 (30. Rxb7 Bc6 $16) (30. Nxb7 Rdb8 $16
+) (30. Rxd3 Bc6 $18) 30... Rxe8 31. Rxd3 Rac8 32. Rxb7 Re7) 30. Nxe8 Rxe8 31.
+Nd6 ({Resist} 31. Rxb7 Raa8 $18) 31... Rb8 32. Nxf7 Bf8 33. Rxd3 Rb6 $2 (33...
+Rc6) 34. Nd8 {Precision: White = 81%, Black = 48%.} 1-0
+
+[Event "53rd Capablanca Memorial 2018"]
+[Site "Havana"]
+[Date "2018.05.13"]
+[Round "5"]
+[White "Rakhmanov, Aleksandr"]
+[Black "Bruzon Batista, Lazaro"]
+[Result "1/2-1/2"]
+[ECO "A49"]
+[WhiteElo "2635"]
+[BlackElo "2664"]
+[Annotator "TA"]
+[PlyCount "37"]
+[EventDate "2018.??.??"]
+[EventType "tourn"]
+[EventCountry "CUB"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,37,4,-8,20,12,24,10,17,0,14,14,20,17,20,0,11,0,0,-22,-26,-18,-17,-30,
+0,0,0,-36]} 1. d4 Nf6 2. Nf3 g6 3. g3 c5 4. c3 Na6 5. Bg2 Bg7 6. O-O O-O 7. Bg5
+{LiveBook: 4 Games. A49: 1 d4 Nf6 2 Nf3 g6 3 g3: Anti-King's Indian systems} (
+7. a3 b6 8. Ne5 d5 9. Be3 Bb7 10. Nd2 Nd7 11. f4 f6 12. Nef3 e6 13. g4 e5 14.
+f5 gxf5 15. gxf5 Qe7 16. dxe5 fxe5 17. Ng5 Nc7 {1/2-1/2 (17) Sargissian,G 
+(2677)-Kovalev,V (2641) Moscow 2018}) 7... h6 8. Bxf6 Bxf6 9. Qd2 $146 {
+White has an edge.} ({Predecessor:} 9. e3 Rb8 10. Nbd2 Bg7 11. a4 d6 12. Qe2 b6
+13. Rfd1 Nc7 14. Nb3 Qe8 {1/2-1/2 (39) Vidit,S (2508)-Deepan Chakkravarthy,J 
+(2470) Aurangabad 2011}) 9... Bg7 10. c4 d5 11. cxd5 Qxd5 {[%cal Rc5d4]} 12.
+Nc3 Qh5 13. dxc5 Qxc5 14. Rac1 Be6 15. Rfd1 Qb6 16. Na4 Qb4 17. Nc3 Qb6 18. Na4
+Qb4 19. Nc3 {Precision: White = 45%, Black = 50%.} 1/2-1/2
+

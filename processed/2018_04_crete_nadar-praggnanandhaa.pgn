@@ -1,0 +1,61 @@
+[Event "Fischer Memorial GM"]
+[Site "Crete"]
+[Date "2018.04.14"]
+[Round "?"]
+[White "Anand Nadar"]
+[Black "Praggnanandhaa R"]
+[Result "0-1"]
+[ECO "D07"]
+[WhiteElo "2359"]
+[BlackElo "2520"]
+[Annotator "DF"]
+[PlyCount "78"]
+[EventDate "2018.??.??"]
+
+1. d4 d5 2. c4 Nc6 {Black plays to win from move 2. It takes some nerve to
+play this in an important game - to me this game, played in round 6, was where
+the young Indian talent truly demonstrated to me that he had the full skill
+set of a grandmaster, and not just a particular aptitude for calculation or
+concentration.} 3. Nf3 Bg4 4. cxd5 Bxf3 5. gxf3 (5. dxc6 Bxc6 6. Nc3 {would
+likely be my choice versus a higher rated opponent, on the basis that given
+that the struggle is of a strategic nature I would rather it be simple.}) 5...
+Qxd5 6. e3 e5 7. Nc3 Bb4 8. Bd2 (8. a3 {is surprisingly seldom played at high
+levels considering what an ambitious move it is.} Bxc3+ 9. bxc3 Nf6 (9... Nge7
+$5 {is slow but could be interesting, e.g.} 10. e4 Qd6 11. d5 Nb8 12. a4 Nd7
+13. Ba3 Nc5 $132) 10. Rb1 O-O-O 11. c4 Qd6 12. d5 Nb8 13. Qa4 $14 {As with
+most of this opening, properly speaking White is better but he has to be
+careful of ideas that centre around ...e4 or ...Nc5.}) 8... Bxc3 9. bxc3 Qd6 {
+The modern theoretical favourite. Deprived of Ba3, it is not clear how White
+should proceed.} (9... Qd7 10. Rb1 O-O-O 11. Bg2 Nge7 (11... f5 $5) 12. Qb3 b6
+13. Qxf7 $16 {Nakamura,H-Rapport,R Sharjah 2017}) 10. Rb1 b6 11. Bb5 Nge7 {
+Black has equalised.} 12. c4 $6 (12. O-O O-O {was called for, and here we have
+three valid assessments: the computer thinks White is better, the human player
+in a game thinks Black has the easier position to play, and the human analyst
+working with a computer has no recourse but to take an average...}) 12... exd4
+13. Bb4 Qf6 14. Bxe7 (14. Qxd4 Qxd4 15. exd4 O-O-O $1 $15) 14... Kxe7 {The
+weakness of Black's king is an illusion. In actual fact he is already
+marginally better.} 15. Bxc6 Qxc6 16. Qxd4 (16. exd4 Qxc4 17. Rc1 Qe6+ $1 $17)
+16... Qxf3 (16... Rad8 $1 17. Qe5+ Kf8 18. Rg1 f6 19. Qe4 $15 {looks a lot
+less clear, but in reality it is better!}) 17. Rg1 Qf6 18. Qe4+ Qe6 19. Qxe6+ (
+19. Qf4 $1 {encourages Black to offer more favourable terms for the return of
+the pawn.} Kf8 20. Qxc7 g6 21. Qf4 Kg7 {and Black still has a small edge on
+pawn-structure grounds, but the ladies are still on the board, so lots of
+things are possible.}) 19... Kxe6 20. Rxg7 Rag8 21. Rg3 h5 22. Ke2 (22. Rb3 $5
+h4 23. Rxg8 Rxg8 24. Ra3 a5 25. c5 $15 {may be called for, trying simply to
+reduce the pawn count so as to draw even if Black finds a way of winning one.})
+22... h4 23. Rgg1 Rxg1 24. Rxg1 Rh5 {An obvious move, but a good sign of chess
+maturity in children is the ability to play these rook endgames well!} 25. Rd1
+(25. Rg4 $5 $15 {forces pawn trades as the price of Black's rook activation.})
+25... Ra5 26. Rd2 Ra4 27. Kd3 Ra3+ 28. Ke2 Ra4 29. Rc2 Kd6 30. c5+ $2 {Could
+be the decisive error.} (30. Kf3 {looks appealing, but for the critical detail}
+Kc5 31. Kg4 b5 $1 (31... Rxc4+ 32. Rxc4+ Kxc4 33. Kxh4 c5 34. Kg4 Kd5 35. h4
+Ke6 36. f4 $11) 32. f4 $8 {Now:} bxc4 33. Kxh4 Ra3 34. Kg5 Rxe3 35. h4 Rh3 36.
+h5 Kd4 $17 {and the technical fight continues, though White probably still has
+a narrow path to a draw.}) 30... bxc5 31. f3 c4 $1 32. Kd2 Ra3 {It made
+practical sense to play this and the next in the other order, though perhaps
+the capture on c4 doesn't hold either.} 33. Ke2 (33. Rxc4 Rxa2+ 34. Kd3 h3 $1 (
+{After} 34... Rxh2 $4 {the only way to escape harrassment is to run to the
+kingside- but the king is too passive there to do damage.} 35. Rd4+ Kc6 36.
+Rc4+ Kd7 37. Rf4 Ke6 38. Re4+ Kf5 39. Rf4+ Kg6 40. Rg4+ Kh6 41. Ke4 $11) 35.
+Rd4+ Kc6 36. Rc4+ Kb7 37. Rb4+ Kc8 $19) 33... Kc5 34. Kd2 h3 35. Ke2 Kb4 36.
+Kd2 Rd3+ 37. Ke2 Rd6 38. Rb2+ Kc3 39. Rb7 Rd2+ 0-1

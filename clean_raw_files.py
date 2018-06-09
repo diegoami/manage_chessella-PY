@@ -20,7 +20,7 @@ def retrieve_file(fileIn):
         lines = handle.readlines()
         pgnStr = '\n'.join([line.strip() for line in lines if len(line.strip()) > 0]).strip()
         return pgnStr
-d
+
 
 
 def remove_comments(pgnStr):

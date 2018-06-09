@@ -1,0 +1,61 @@
+[Event "Land of the Sky"]
+[Site "Asheville, NC"]
+[Date "2018.01.27"]
+[Round "3"]
+[White "Moradiabadi, Elshan"]
+[Black "Yermolinsky, Alex"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2528"]
+[BlackElo "2507"]
+[Annotator "Yermo"]
+[PlyCount "79"]
+[EventDate "2018.01.26"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 d6 {I knew I was making a bad choice.
+This is not the 1990's anymore. There's no mystery left in classic Bogo
+structures, and everybody knows how to handle them with White.} 5. g3 Nc6 $6 (
+5... O-O 6. Bg2 Qe7 7. O-O e5 {is a relatively better choice. At least White
+can't win tempi with d4-d5, while} 8. Nb3 exd4 9. Nfxd4 a5 10. a3 Bc5 {is
+quite acceptable for Black.}) 6. Bg2 e5 7. d5 Bxd2+ 8. Nxd2 Ne7 $6 {A real
+error.} ({I forgot my own game with Ljubo Ftacnik where I went} 8... Nb8 9. O-O
+O-O 10. Qc2 a5 {and more or less stayed afloat.}) 9. e4 O-O 10. O-O Ng6 11. Qc2
+Ne8 (11... c6 {is typical for the Bogo, but here White is hardly bothered by
+it. He can simply go} 12. dxc6 ({The line} 12. b3 cxd5 13. cxd5 b6 14. Nc4 Ba6
+15. a4 Rc8 16. Ba3 {illustrates Black's problem with his Ng6, which should
+have been on or near the key c5-square.}) 12... bxc6 13. c5 d5 14. exd5 cxd5
+15. Nb3 Bb7 16. Bd2 Qc7 17. Rac1 $14 {with great prospects on the Q-side,
+while Black isn't getting much out of his central pawn pair.}) 12. c5 $1 {[#]}
+dxc5 {I was already fishing in troubled waters.} (12... f5 13. exf5 Bxf5 14.
+Ne4 {only helps White to complete his development.}) 13. Qxc5 Nd6 14. b3 b6 15.
+Qc2 f5 16. Bb2 f4 17. Nf3 Qe7 (17... Bg4 18. Nxe5 Nxe5 19. Bxe5 f3 20. Bh1 Qe7
+21. Bxd6 cxd6 {hardly offers sufficient compensation for a pawn. Still, it was
+preferable to what I did}) 18. Rac1 Rf7 19. h4 Bg4 20. Ng5 f3 21. Nxf7 $6 {
+Elshan played it quickly, but the resulting positions offer Black some
+fighting chances he didn't deserve.} ({Instead,} 21. Bh1 {just clinches it:}
+Raf8 22. Rfe1 h6 23. Nxf7 Rxf7 24. Re3 $18) 21... fxg2 22. Kxg2 Nxf7 23. Qxc7 {
+[#]} ({Here Elshan discovered that} 23. f3 Bd7 24. Qxc7 {runs into} Rc8 {
+forcing White to sac the queen:} 25. Qxc8+ Bxc8 26. Rxc8+ Nf8 27. Rfc1 {
+Then if Black hits on the active plan of counterplay,} g5 28. Ra8 Qb4 29. Rcc8
+Qd2+ 30. Kh3 h5 31. Rxf8+ Kg7 {he will earn himself a draw by perpetual check.}
+) {For better of worse I had to sacirifice.} 23... Nxh4+ {There was no going
+back anyway.} 24. gxh4 Qxh4 25. Qc3 {A timely retreat.} (25. Rc3 $2 Rc8) (25.
+Rh1 Bf3+ 26. Kxf3 Ng5+ 27. Ke2 Qxe4+ 28. Kd2 Nf3+ 29. Kc3 Qd4+ 30. Kc2 Qe4+)
+25... Be2 {He admitted to missing this one as well, but fortunately for Elshan
+his position remains much superior.} 26. Rfe1 Qxe4+ 27. f3 Qg6+ 28. Kf2 Bb5 29.
+Rg1 $2 ({Here he calculated} 29. Qb4 Rf8 30. Qxb5 Ng5 {and became a bit
+nervous. In reality} 31. Re3 Ne4+ 32. Rxe4 Qxe4 33. Qe2 {beats it off with
+ease.}) 29... Qf5 {Perhaps, not the best square.} ({In case of} 29... Qf6 {
+I was annoyed by} 30. Qe3 Rd8 31. f4) 30. Qe3 Rd8 31. Qe4 Qf6 32. Rc7 {[#]} Ng5
+$138 ({All my efforts were spent on calculating} 32... Rxd5 33. Rc8+ (33. Qxd5
+Qh4+ 34. Rg3 Qh2+ {is a suprising draw.}) 33... Rd8 34. Bxe5 Nxe5 35. Rxd8+
+Qxd8 36. Qxe5 Qd2+ 37. Kg3 $18 {and naturally, I could see a way out of this.})
+(32... Bd7 33. Rxa7 b5 {had to be played, and the outcome wouldn't have been
+settled just yet.}) 33. Qg4 h6 ({I knew I had to go} 33... Rf8 {but the
+endgame after} 34. Rxg7+ Kxg7 35. Qxg5+ Qxg5 36. Rxg5+ Kh6 37. Rxe5 Rf7 38. Ke3
+Bd7 {is practically lost for Black.}) 34. Bc1 $1 {Just in time. White is
+winning.} e4 (34... Rxd5 35. Bxg5 hxg5 36. Qxg5) 35. Bxg5 hxg5 36. Qe6+ Qxe6
+37. dxe6 Rd2+ 38. Kg3 exf3 39. Kxf3 Rd3+ 40. Ke4 1-0

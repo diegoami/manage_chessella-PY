@@ -1,0 +1,59 @@
+[Event "FIDE World Blitz-ch Men 2017"]
+[Site "Riyadh"]
+[Date "2017.12.29"]
+[Round "3"]
+[White "Li, Chao b"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[ECO "D71"]
+[WhiteElo "2732"]
+[BlackElo "2789"]
+[Annotator "Alex Yermolinsky"]
+[SetUp "1"]
+[FEN "8/1k5p/2p5/1p6/1P2P2P/3K1pr1/8/5R2 b - - 0 46"]
+[PlyCount "45"]
+[EventDate "2017.??.??"]
+[EventType "blitz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+
+{[#] Look at the technique here.} 46... f2+ 47. Ke2 (47. Kd4 Rf3 48. e5 Kc7 49.
+Ke4 Rf8 $19) 47... Rb3 48. Rxf2 Rxb4 49. Ke3 Rb3+ $1 50. Kd4 (50. Kf4 {would
+not have helped a whole lot.} b4 51. e5 Rb1 $1 52. e6 (52. Re2 Kc7 53. e6 Kd8)
+52... Re1 53. Kf5 c5) 50... Kb6 $1 51. e5 Rb4+ 52. Kd3 Kc5 {The black king is
+out, and it spells the end.} 53. Re2 Rd4+ 54. Kc2 Rd7 55. Rf2 Re7 56. Rf5 Kd4
+57. Rf6 c5 58. e6 Ke5 59. Rh6 Rxe6 60. Rxh7 Kd4 61. h5 Re2+ 62. Kb3 Re3+ 63.
+Kc2 Rh3 64. h6 Kc4 65. Kd2 b4 66. Ke2 Kb3 67. Rc7 Rxh6 68. Rxc5 Rd6 0-1
+
+[Event "FIDE World Blitz-ch Men 2017"]
+[Site "Riyadh"]
+[Date "2017.12.29"]
+[Round "4"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Kravtsiv, Martyn"]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "2789"]
+[BlackElo "2672"]
+[Annotator "Alex Yermolinsky"]
+[SetUp "1"]
+[FEN "r4rk1/2p2ppp/3p4/1pn1P3/p2p1P2/P2P2QP/BPq3P1/R3R1K1 w - - 0 21"]
+[PlyCount "27"]
+[EventDate "2017.??.??"]
+[EventType "blitz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+
+{[#]} 21. f5 $1 {MVL is in his element!} Qxd3 (21... dxe5 {leads to a forced
+line} 22. f6 g6 23. Rac1 Qxb2 24. Rxc5 Qxa2 25. Qg5 Ra6 (25... Qe6 26. Rf1 Kh8
+27. Rxe5 Qd6 28. Re7) 26. Rcxe5 Qxa3 27. Re8 {where White threatens R1e7, and
+there's no lotion for that!} h6 28. Qxh6 Rxf6 29. R1e7 $18) 22. Qg5 dxe5 $2 ({
+Martyn had to defend with} 22... h6 23. Qg4 Qd2) 23. Rad1 Qc2 24. Rd2 $2 {
+The black queen is trapped, but there was an unexpected resource.} ({Better was
+} 24. Rc1 Ne4 25. Rxc2 Nxg5 {leading to the game continution.}) 24... Ne4 ({
+There it is:} 24... Qe4 $3 {and Black gets enough material. The best line
+appears to be} 25. Rxe4 Nxe4 26. Qh5 Nxd2 27. f6 gxf6 28. Qh6 Ne4 29. Bb1 f5
+30. Bxe4 fxe4 31. Qg5+ Kh8 $11) 25. Rxc2 Nxg5 26. h4 d3 27. Rd2 Rae8 28. hxg5
+e4 29. g6 Re5 30. gxf7+ Rxf7 31. Rxd3 Kf8 32. Bxf7 Kxf7 33. Rd7+ Kf6 34. Rxc7
+1-0
+

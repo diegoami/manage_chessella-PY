@@ -1,0 +1,3025 @@
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Grandelius, Nils"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[ECO "A33"]
+[WhiteElo "2646"]
+[BlackElo "2793"]
+[Annotator "ChessBase"]
+[PlyCount "111"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Hamburg SK"]
+[BlackTeam "Baden-Baden"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. Nf3 {[%emt 0:00:00]} c5 {[%emt 0:00:05]} 2. c4 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:03]} 3. d4 {[%emt 0:00:00]} cxd4 4. Nxd4 {[%emt 0:00:05]} Nf6 {
+[%emt 0:00:07]} 5. Nc3 {[%emt 0:00:07]} e6 {[%emt 0:00:03]} 6. g3 {[%emt 0:00:
+39]} Qb6 {[%emt 0:00:13]} 7. Ndb5 {[%emt 0:00:38]} Ne5 {[%emt 0:00:38]} 8. Bg2
+{[%emt 0:00:52]} a6 {[%emt 0:01:56]} 9. Qa4 {[%emt 0:01:12]} Neg4 {[%emt 0:21:
+08]} 10. O-O {[%emt 0:08:19]} Rb8 {[%emt 0:00:13]} 11. b4 {[%emt 0:26:47]} axb5
+12. Nxb5 {[%emt 0:00:07]} Kd8 {[%emt 0:00:13]} 13. h3 {[%emt 0:09:18]} Ne5 {
+[%emt 0:01:09]} 14. Bf4 {[%emt 0:06:36]} d6 {[%emt 0:00:05]} 15. Qb3 {[%emt 0:
+03:37]} Bd7 {[%emt 0:04:37]} 16. a4 {[%emt 0:00:26]} Nxc4 {[%emt 0:05:49]} 17.
+Qxc4 {[%emt 0:01:43]} Bxb5 {[%emt 0:00:12]} 18. Qxb5 {[%emt 0:09:26]} Qxb5 {
+[%emt 0:00:47]} 19. axb5 {[%emt 0:00:02]} Be7 {[%emt 0:01:48]} 20. Rfd1 {
+[%emt 0:05:22]} Kd7 {[%emt 0:01:40]} 21. Ra7 {[%emt 0:02:16]} Nd5 {[%emt 0:03:
+26]} 22. Bxd5 {[%emt 0:00:38]} exd5 {[%emt 0:00:07]} 23. Rxd5 {[%emt 0:00:58]}
+Rhc8 {[%emt 0:01:08]} 24. Ra2 {[%emt 0:06:06]} Ke6 {[%emt 0:01:02]} 25. Rad2 {
+[%emt 0:00:25]} Rd8 {[%emt 0:03:19]} 26. e4 {[%emt 0:00:27]} Rbc8 {[%emt 0:00:
+44]} 27. h4 {[%emt 0:03:37]} f6 {[%emt 0:07:25]} 28. R5d4 {[%emt 0:01:54]} h5 {
+[%emt 0:03:23]} 29. Kg2 {[%emt 0:00:56]} g6 {[%emt 0:00:38]} 30. Kf3 {[%emt 0:
+02:32]} Rc3+ {[%emt 0:03:23]} 31. Ke2 {[%emt 0:00:37]} Rb3 {[%emt 0:01:01]} 32.
+Rc4 {[%emt 0:03:44]} Rd7 {[%emt 0:01:36]} 33. Be3 {[%emt 0:01:27]} f5 {[%emt 0:
+04:04]} 34. b6 {[%emt 0:07:30]} fxe4 {[%emt 0:00:12]} 35. Rxe4+ {[%emt 0:00:27]
+} Kf7 {[%emt 0:00:04]} 36. Rd5 {[%emt 0:01:59]} Bf6 {[%emt 0:01:20]} 37. Kf3 {
+[%emt 0:04:05]} Rc3 {[%emt 0:03:04]} 38. g4 {[%emt 0:01:18]} hxg4+ {[%emt 0:00:
+34]} 39. Kxg4 {[%emt 0:00:02]} Re7 {[%emt 0:01:38]} 40. Rf4 {[%emt 0:02:18]}
+Ke6 {[%emt 0:51:16]} 41. Rd1 {[%emt 0:11:04]} Rb3 {[%emt 0:00:00]} 42. Rxf6+ {
+[%emt 0:08:35]} Kxf6 {[%emt 0:00:00]} 43. Bg5+ {[%emt 0:00:03]} Kf7 {[%emt 0:
+00:00]} 44. Bxe7 {[%emt 0:00:04]} Rxb4+ {[%emt 0:00:00]} 45. f4 {[%emt 0:00:30]
+} Kxe7 {[%emt 0:00:00]} 46. Kg5 {[%emt 0:00:03]} d5 {[%emt 0:00:00]} 47. Rxd5 {
+[%emt 0:05:22]} Rxb6 {[%emt 0:00:00]} 48. Rc5 {[%emt 0:00:06]} Kf7 {[%emt 0:00:
+00]} 49. Rc7+ {[%emt 0:00:10]} Kf8 {[%emt 0:00:00]} 50. Rd7 {[%emt 0:00:11]}
+Kg8 {[%emt 0:00:00]} 51. Kh6 {[%emt 0:02:49]} Rf6 {[%emt 0:00:00]} 52. Rxb7 {
+[%emt 0:00:05]} Rxf4 {[%emt 0:00:00]} 53. Kxg6 {[%emt 0:00:04]} Rg4+ {[%emt 0:
+00:00]} 54. Kh5 {[%emt 0:00:08]} Ra4 {[%emt 0:00:00]} 55. Kg6 {[%emt 0:00:08]}
+Rg4+ {[%emt 0:00:00]} 56. Kh5 {[%emt 0:00:05]} 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Adams, Michael"]
+[Black "Svane, Rasmus"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[WhiteElo "2709"]
+[BlackElo "2586"]
+[Annotator "ChessBase"]
+[PlyCount "131"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Baden-Baden"]
+[BlackTeam "Hamburg SK"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. c4 e6 2. g3 d5 3. Bg2 a6 4. b3 dxc4 5. bxc4 Qd4 6. Nc3 Qxc4 7. Nf3 Bd6 8.
+Bb2 Nf6 9. O-O e5 10. d4 exd4 11. Nxd4 Be5 12. Nb3 O-O 13. Rc1 Qg4 14. f4 Bxc3
+15. Bxc3 Qg6 16. e4 Nxe4 17. Bb4 Qb6+ 18. Qd4 c5 19. Rxc5 Nxc5 20. Bxc5 Qd8 21.
+Bxf8 Qxd4+ 22. Nxd4 Kxf8 23. Rb1 Ra7 24. a4 Bd7 25. a5 Nc6 26. Nxc6 Bxc6 27.
+Bxc6 bxc6 28. Rb6 c5 29. Kf2 c4 30. Ke3 Rd7 31. Rxa6 Rd3+ 32. Ke4 Ra3 33. f5 c3
+34. Kd3 h5 35. Ra7 Ke8 36. a6 Kf8 37. h3 f6 38. Ra8+ Ke7 39. a7 Kf7 40. Kc2
+Ra2+ 41. Kxc3 Ra3+ 42. Kd4 Ra4+ 43. Kc5 Ra2 44. Kd5 Ra5+ 45. Kc6 Ra2 46. g4
+hxg4 47. hxg4 Ra1 48. Kd5 Ra4 49. Kc5 Ra1 50. Kd4 Ra4+ 51. Ke3 Ra3+ 52. Kf4
+Ra4+ 53. Kg3 Ra1 54. g5 fxg5 55. Kg4 Rg1+ 56. Kh5 Rh1+ 57. Kxg5 Rg1+ 58. Kf4
+Rf1+ 59. Ke3 Ra1 60. Kd4 Ra2 61. Kc5 Ra1 62. f6 Rc1+ 63. Kb4 Rb1+ 64. Kc3 Ra1
+65. Kb3 Ra6 66. Kb4 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Huschenbeth, Niclas"]
+[Black "Bacrot, Etienne"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[WhiteElo "2581"]
+[BlackElo "2722"]
+[Annotator "ChessBase"]
+[PlyCount "56"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Hamburg SK"]
+[BlackTeam "Baden-Baden"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:04]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:04]} 3. Bc4 {[%emt 0:00:00]} Bc5 {[%emt 0:00:18]} 4. O-O {[%emt 0:
+00:00]} Nf6 {[%emt 0:00:15]} 5. d3 {[%emt 0:00:00]} d6 {[%emt 0:01:32]} 6. c3 {
+[%emt 0:00:08]} a6 {[%emt 0:00:12]} 7. Bb3 {[%emt 0:00:15]} O-O {[%emt 0:01:11]
+} 8. Nbd2 {[%emt 0:00:06]} h6 {[%emt 0:01:32]} 9. Re1 {[%emt 0:02:24]} Be6 {
+[%emt 0:00:48]} 10. Bxe6 fxe6 {[%emt 0:00:06]} 11. Nf1 {[%emt 0:01:45]} Qd7 {
+[%emt 0:05:49]} 12. b4 {[%emt 0:04:45]} Ba7 {[%emt 0:01:23]} 13. Be3 {[%emt 0:
+00:21]} Bxe3 14. Rxe3 {[%emt 0:00:12]} Ne7 {[%emt 0:04:50]} 15. a4 {[%emt 0:03:
+03]} Kh8 {[%emt 0:06:54]} 16. Re1 {[%emt 0:16:05]} Rf7 {[%emt 0:07:47]} 17.
+N1d2 {[%emt 0:13:30]} Raf8 {[%emt 0:10:54]} 18. g3 {[%emt 0:08:56]} g5 {
+[%emt 0:13:41]} 19. Rf1 {[%emt 0:06:25]} Ng6 {[%emt 0:04:35]} 20. Ne1 {[%emt 0:
+06:47]} Qc6 {[%emt 0:02:05]} 21. c4 {[%emt 0:05:22]} Rg7 {[%emt 0:15:30]} 22.
+Nc2 {[%emt 0:01:51]} h5 {[%emt 0:03:00]} 23. Ne3 {[%emt 0:08:52]} Nf4 {[%emt 0:
+02:53]} 24. Nf3 {[%emt 0:13:34]} Nh3+ {[%emt 0:09:31]} 25. Kg2 {[%emt 0:00:05]}
+Nf4+ {[%emt 0:06:09]} 26. Kh1 {[%emt 0:00:44]} Nh3 {[%emt 0:00:35]} 27. Kg2 {
+[%emt 0:00:57]} Nf4+ {[%emt 0:01:49]} 28. Kh1 {[%emt 0:00:06]} Nh3 {[%emt 0:00:
+48]} 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Kasimdzhanov, Rustam"]
+[Black "Heinemann, Thies"]
+[Result "0-1"]
+[ECO "E44"]
+[WhiteElo "2683"]
+[BlackElo "2495"]
+[Annotator "ChessBase"]
+[PlyCount "72"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Baden-Baden"]
+[BlackTeam "Hamburg SK"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nge2 c5 6. a3 Ba5 7. Rb1 Na6 8. Bd2
+O-O 9. Ng3 cxd4 10. exd4 Bxc3 11. bxc3 Nc7 12. Be2 Ba6 13. O-O d5 14. cxd5 Qxd5
+15. Bf4 Bxe2 16. Qxe2 Rfc8 17. Rfc1 Nce8 18. Nf1 Qa5 19. c4 Qxa3 20. Ne3 Qe7
+21. Qf3 Qd7 22. Be5 Qc6 23. d5 exd5 24. Nf5 Qe6 25. Re1 dxc4 26. Bg3 Qd7 27.
+Rbd1 Qb5 28. Ne7+ Kf8 29. Nxc8 Rxc8 30. Qb7 Qc5 31. Qxa7 c3 32. Qa2 b5 33. Re5
+c2 34. Rc1 Qd4 35. Qb3 Qd2 36. Ree1 Qxe1+ 0-1
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Rogozenco, Dorian"]
+[Black "Gustafsson, Jan"]
+[Result "0-1"]
+[ECO "D16"]
+[WhiteElo "2479"]
+[BlackElo "2638"]
+[Annotator "ChessBase"]
+[PlyCount "106"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Hamburg SK"]
+[BlackTeam "Baden-Baden"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 e6 6. e3 c5 7. Bxc4 cxd4 8. exd4
+Nc6 9. O-O Be7 10. Qe2 O-O 11. Rd1 Nb4 12. Ne5 b6 13. Ne4 Bb7 14. Ng5 Bd5 15.
+b3 Rc8 16. Bb2 Nd7 17. Ngf3 Nxe5 18. Nxe5 Bd6 19. Rac1 Qg5 20. g3 Qe7 21. Ba3
+Ba8 22. Bxb4 Bxb4 23. Ba6 Rc7 24. Qe3 Ba3 25. Rc3 Rd8 26. Rb1 Rxc3 27. Qxc3 Bb4
+28. Qc4 Qd6 29. Rc1 Ba3 30. Rc2 Be4 31. Re2 Qxe5 32. f3 Rxd4 33. Rxe4 Rd1+ 34.
+Kg2 Qb2+ 35. Re2 Qb1 36. Rc2 Bc5 37. Qe4 g6 38. Bc4 Re1 39. Qd3 Qa1 40. Qc3 Qb1
+41. Qd2 Rg1+ 42. Kh3 Rd1 43. Qe2 a5 44. Rd2 Re1 45. Qd3 Qa1 46. Re2 Rd1 47. Rd2
+Rg1 48. Qd8+ Kg7 49. f4 Qe1 50. Qd3 Bf2 51. Qe2 Rxg3+ 52. Kh4 Rg2+ 53. Kh3
+Rxh2+ 0-1
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Naiditsch, Arkadij"]
+[Black "Hansen, Sune Berg"]
+[Result "1-0"]
+[ECO "C77"]
+[WhiteElo "2705"]
+[BlackElo "2581"]
+[Annotator "ChessBase"]
+[PlyCount "61"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Baden-Baden"]
+[BlackTeam "Hamburg SK"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:35]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:04]} 3. Bb5 {[%emt 0:00:00]} a6 {[%emt 0:00:40]} 4. Ba4 {[%emt 0:00:
+00]} Nf6 {[%emt 0:01:40]} 5. d3 {[%emt 0:00:08]} d6 {[%emt 0:08:21]} 6. c3 {
+[%emt 0:01:48]} g6 {[%emt 0:03:53]} 7. O-O {[%emt 0:00:59]} Bg7 {[%emt 0:00:36]
+} 8. Re1 {[%emt 0:00:12]} O-O {[%emt 0:00:38]} 9. Nbd2 {[%emt 0:00:09]} Nd7 {
+[%emt 0:02:24]} 10. Nf1 {[%emt 0:01:47]} Nc5 {[%emt 0:01:14]} 11. Bxc6 bxc6 {
+[%emt 0:00:24]} 12. d4 {[%emt 0:03:06]} exd4 13. cxd4 {[%emt 0:00:27]} Nd7 {
+[%emt 0:18:39]} 14. Bg5 {[%emt 0:02:34]} Qe8 {[%emt 0:00:31]} 15. Rc1 {[%emt 0:
+06:46]} Bb7 {[%emt 0:01:34]} 16. Ng3 {[%emt 0:02:23]} Qe6 {[%emt 0:03:21]} 17.
+d5 {[%emt 0:05:14]} cxd5 {[%emt 0:02:48]} 18. Rxc7 {[%emt 0:00:12]} Nc5 {
+[%emt 0:15:16]} 19. b4 {[%emt 0:00:42]} Nxe4 {[%emt 0:00:46]} 20. Rxb7 {
+[%emt 0:02:52]} Qc8 {[%emt 0:01:42]} 21. Re7 {[%emt 0:01:08]} Nxg5 {[%emt 0:00:
+20]} 22. Nxg5 {[%emt 0:00:11]} Bf6 {[%emt 0:00:03]} 23. Qxd5 {[%emt 0:03:46]}
+Bxe7 {[%emt 0:02:14]} 24. Rxe7 {[%emt 0:00:16]} Qc1+ {[%emt 0:06:21]} 25. Nf1 {
+[%emt 0:00:20]} Rac8 {[%emt 0:05:53]} 26. Rxf7 {[%emt 0:04:51]} Qc4 {[%emt 0:
+00:35]} 27. Rxf8+ {[%emt 0:00:19]} Kxf8 {[%emt 0:00:06]} 28. Qxd6+ {[%emt 0:00:
+39]} Kg8 {[%emt 0:01:37]} 29. Qd7 {[%emt 0:01:20]} Qc7 {[%emt 0:00:41]} 30.
+Qe6+ {[%emt 0:00:07]} Kg7 {[%emt 0:03:10]} 31. Qh3 {[%emt 0:00:35]} 1-0
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Nielsen, Peter Heine"]
+[Black "Carlstedt, Jonathan"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[WhiteElo "2637"]
+[BlackElo "2423"]
+[Annotator "ChessBase"]
+[PlyCount "94"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Baden-Baden"]
+[BlackTeam "Hamburg SK"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:07]} 2. Nf3 {[%emt 0:00:00]} e6 {
+[%emt 0:00:08]} 3. Bf4 {[%emt 0:00:00]} c5 {[%emt 0:05:14]} 4. e3 {[%emt 0:00:
+00]} Nc6 {[%emt 0:01:44]} 5. c3 {[%emt 0:02:53]} Nh5 {[%emt 0:05:14]} 6. Bg5 {
+[%emt 0:03:14]} Be7 {[%emt 0:00:33]} 7. Bxe7 Qxe7 {[%emt 0:00:07]} 8. Bd3 {
+[%emt 0:04:22]} d6 {[%emt 0:04:34]} 9. O-O {[%emt 0:03:03]} g6 {[%emt 0:03:17]}
+10. Nbd2 {[%emt 0:06:46]} O-O {[%emt 0:06:15]} 11. Re1 {[%emt 0:01:40]} e5 {
+[%emt 0:01:48]} 12. dxe5 {[%emt 0:00:30]} dxe5 {[%emt 0:00:45]} 13. Qc2 {
+[%emt 0:07:38]} Bd7 {[%emt 0:11:07]} 14. Bf1 {[%emt 0:04:29]} Rae8 {[%emt 0:13:
+31]} 15. e4 {[%emt 0:02:25]} Nf4 {[%emt 0:03:04]} 16. Nc4 {[%emt 0:06:11]} Rc8
+{[%emt 0:05:51]} 17. Qd2 {[%emt 0:11:22]} Rcd8 {[%emt 0:07:53]} 18. Qe3 {
+[%emt 0:10:29]} f6 {[%emt 0:04:23]} 19. a3 {[%emt 0:01:04]} Be6 {[%emt 0:01:49]
+} 20. b4 {[%emt 0:01:57]} b5 {[%emt 0:02:09]} 21. Ncd2 {[%emt 0:03:59]} c4 {
+[%emt 0:03:26]} 22. a4 {[%emt 0:01:49]} Nd3 {[%emt 0:01:55]} 23. Reb1 {[%emt 0:
+08:50]} a6 {[%emt 0:09:51]} 24. axb5 {[%emt 0:01:48]} axb5 {[%emt 0:00:04]} 25.
+Ra6 {[%emt 0:00:38]} Nb8 {[%emt 0:01:45]} 26. Rb6 {[%emt 0:05:02]} Bd7 {
+[%emt 0:06:39]} 27. Rb7 {[%emt 0:06:55]} Qd6 {[%emt 0:00:25]} 28. Qa7 {[%emt 0:
+03:46]} Rf7 {[%emt 0:01:34]} 29. Ra1 {[%emt 0:00:57]} Rdf8 {[%emt 0:03:55]} 30.
+Qe3 {[%emt 0:03:50]} Bc6 {[%emt 0:00:50]} 31. Rxf7 {[%emt 0:03:23]} Rxf7 {
+[%emt 0:00:05]} 32. h4 {[%emt 0:00:30]} h5 {[%emt 0:01:56]} 33. g3 {[%emt 0:01:
+03]} Kg7 {[%emt 0:00:09]} 34. Ra7 {[%emt 0:02:25]} Nb2 {[%emt 0:01:08]} 35.
+Rxf7+ {[%emt 0:01:41]} Kxf7 {[%emt 0:00:05]} 36. Qa7+ {[%emt 0:00:53]} Nd7 {
+[%emt 0:00:30]} 37. Qa6 {[%emt 0:00:52]} Ke7 {[%emt 0:02:12]} 38. Qa7 {[%emt 0:
+00:38]} Qb8 {[%emt 0:00:58]} 39. Qa3 {[%emt 0:01:03]} Na4 {[%emt 0:01:53]} 40.
+Nxc4 {[%emt 0:01:08]} bxc4 {[%emt 0:50:17]} 41. b5+ {[%emt 0:50:32]} Ndc5 {
+[%emt 0:00:53]} 42. bxc6 {[%emt 0:00:00]} Qb3 {[%emt 0:00:00]} 43. Qc1 {
+[%emt 0:00:00]} Qxc3 {[%emt 0:00:00]} 44. Qd1 {[%emt 0:00:00]} Nb6 {[%emt 0:00:
+00]} 45. c7 {[%emt 0:00:00]} Ne6 {[%emt 0:00:00]} 46. Nd2 {[%emt 0:00:00]} Nxc7
+{[%emt 0:00:00]} 47. Qe2 {[%emt 0:00:00]} Ne6 {[%emt 0:00:00]} 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Kollars, Dmitrij"]
+[Black "Movsesian, Sergei"]
+[Result "1-0"]
+[ECO "B41"]
+[WhiteElo "2509"]
+[BlackElo "2649"]
+[Annotator "ChessBase"]
+[PlyCount "51"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Hamburg SK"]
+[BlackTeam "Baden-Baden"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. Be2 b6 8. O-O
+Bb7 9. Qd3 d6 10. f4 Nbd7 11. b4 d5 12. exd5 Bxb4 13. dxe6 Nc5 14. exf7+ Kxf7
+15. Qh3 Rad8 16. Nd5 Nxd5 17. cxd5 Bxd5 18. Nc2 Ba5 19. Ne3 Ne4 20. Bb2 Bd2 21.
+Bh5+ Kg8 22. Nxd5 Qc5+ 23. Kh1 Qxd5 24. Rad1 Qxa2 25. Rxd2 Nxd2 26. Qc3 1-0
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Bindrich, Falko"]
+[Black "McShane, Luke J"]
+[Result "0-1"]
+[ECO "B36"]
+[WhiteElo "2604"]
+[BlackElo "2643"]
+[Annotator "ChessBase"]
+[PlyCount "151"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Aachen"]
+[BlackTeam "Werder Bremen"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. Nf3 {[%emt 0:00:00]} c5 {[%emt 0:00:34]} 2. c4 {[%emt 0:00:07]} Nc6 {
+[%emt 0:02:04]} 3. d4 {[%emt 0:01:33]} cxd4 {[%emt 0:00:08]} 4. Nxd4 {[%emt 0:
+00:03]} g6 {[%emt 0:01:01]} 5. e4 {[%emt 0:02:04]} Nf6 {[%emt 0:00:07]} 6. Nc3
+{[%emt 0:00:04]} Nxd4 {[%emt 0:00:04]} 7. Qxd4 {[%emt 0:00:02]} d6 {[%emt 0:00:
+06]} 8. Bg5 {[%emt 0:01:09]} Bg7 {[%emt 0:00:08]} 9. Qd2 {[%emt 0:00:07]} O-O {
+[%emt 0:00:08]} 10. Bd3 {[%emt 0:00:11]} a5 {[%emt 0:02:14]} 11. a4 {[%emt 0:
+01:54]} Be6 {[%emt 0:11:31]} 12. b3 {[%emt 0:01:18]} Nd7 {[%emt 0:11:57]} 13.
+O-O {[%emt 0:01:19]} Qb6 {[%emt 0:01:58]} 14. Rab1 {[%emt 0:09:43]} Qb4 {
+[%emt 0:19:07]} 15. Rfc1 {[%emt 0:11:00]} Nc5 {[%emt 0:00:31]} 16. Qc2 {
+[%emt 0:01:59]} Bxc3 {[%emt 0:09:02]} 17. Qxc3 {[%emt 0:00:15]} f6 {[%emt 0:00:
+07]} 18. Bh6 {[%emt 0:01:27]} Qxc3 {[%emt 0:00:48]} 19. Rxc3 {[%emt 0:00:08]}
+Rfc8 {[%emt 0:03:17]} 20. h4 {[%emt 0:03:34]} Nxd3 {[%emt 0:03:35]} 21. Rxd3 {
+[%emt 0:00:09]} Rc5 {[%emt 0:00:09]} 22. Be3 {[%emt 0:07:06]} Rc6 {[%emt 0:05:
+05]} 23. Re1 {[%emt 0:00:28]} Kg7 {[%emt 0:01:00]} 24. f4 {[%emt 0:02:20]} Kf7
+{[%emt 0:09:07]} 25. Bf2 {[%emt 0:01:15]} Rcc8 {[%emt 0:04:13]} 26. Red1 {
+[%emt 0:03:50]} Bd7 {[%emt 0:06:07]} 27. Bg3 {[%emt 0:16:18]} Bc6 {[%emt 0:02:
+01]} 28. e5 {[%emt 0:11:45]} dxe5 {[%emt 0:00:27]} 29. fxe5 {[%emt 0:00:05]} f5
+{[%emt 0:00:53]} 30. Bf4 {[%emt 0:02:36]} Rh8 {[%emt 0:05:15]} 31. Bh6 {
+[%emt 0:01:33]} Ke6 {[%emt 0:00:41]} 32. R1d2 {[%emt 0:00:55]} Rag8 {[%emt 0:
+05:03]} 33. Bf4 {[%emt 0:00:29]} h6 {[%emt 0:01:49]} 34. Rg3 {[%emt 0:01:57]}
+Rh7 {[%emt 0:02:10]} 35. Re2 {[%emt 0:01:16]} Be4 {[%emt 0:01:20]} 36. Ree3 {
+[%emt 0:08:43]} Kf7 {[%emt 0:00:23]} 37. Re2 {[%emt 0:00:43]} Rhh8 {[%emt 0:01:
+56]} 38. Bd2 {[%emt 0:00:38]} Ke6 {[%emt 0:01:46]} 39. Bxa5 {[%emt 0:00:57]} g5
+{[%emt 0:00:47]} 40. h5 {[%emt 0:06:23]} f4 {[%emt 0:51:12]} 41. Rc3 {[%emt 0:
+50:38]} Bc6 {[%emt 0:00:00]} 42. Re1 {[%emt 0:00:00]} g4 {[%emt 0:00:00]} 43.
+b4 {[%emt 0:00:00]} Ra8 {[%emt 0:00:00]} 44. Bb6 {[%emt 0:00:00]} Rxa4 {
+[%emt 0:00:00]} 45. b5 {[%emt 0:00:00]} Be8 {[%emt 0:00:00]} 46. Rf1 {[%emt 0:
+00:00]} Rg8 {[%emt 0:00:00]} 47. Rxf4 {[%emt 0:00:00]} Bxb5 {[%emt 0:00:00]}
+48. Kh2 {[%emt 0:00:00]} Be8 {[%emt 0:00:00]} 49. Kg3 {[%emt 0:00:00]} Bxh5 {
+[%emt 0:00:00]} 50. Be3 {[%emt 0:00:00]} Be8 {[%emt 0:00:00]} 51. Rxg4 {
+[%emt 0:01:01]} Rxg4+ {[%emt 0:00:00]} 52. Kxg4 {[%emt 0:00:04]} Bb5 {[%emt 0:
+00:09]} 53. Bxh6 {[%emt 0:01:10]} Bxc4 {[%emt 0:00:04]} 54. Bf8 {[%emt 0:08:12]
+} Bd5+ {[%emt 0:04:11]} 55. Kh5 {[%emt 0:01:53]} Ra8 {[%emt 0:00:56]} 56. Bg7 {
+[%emt 0:00:25]} Bxg2 {[%emt 0:00:09]} 57. Rc7 {[%emt 0:02:42]} Be4 {[%emt 0:01:
+23]} 58. Bh6 {[%emt 0:00:46]} Rg8 {[%emt 0:00:58]} 59. Kh4 {[%emt 0:00:19]} Rh8
+{[%emt 0:00:57]} 60. Kg5 {[%emt 0:00:05]} Bc6 {[%emt 0:00:36]} 61. Kg6 {
+[%emt 0:00:48]} Rg8+ {[%emt 0:00:54]} 62. Kh5 {[%emt 0:02:00]} Bf3+ {[%emt 0:
+00:42]} 63. Kh4 {[%emt 0:00:05]} Bc6 {[%emt 0:00:35]} 64. Bg5 {[%emt 0:01:47]}
+Rg7 {[%emt 0:00:28]} 65. Kg4 {[%emt 0:00:15]} Bd5 {[%emt 0:00:13]} 66. Kf4 {
+[%emt 0:00:51]} b5 {[%emt 0:00:18]} 67. Ra7 {[%emt 0:00:56]} Bc4 {[%emt 0:00:
+48]} 68. Ra6+ {[%emt 0:00:22]} Kd5 {[%emt 0:00:05]} 69. Ra7 {[%emt 0:00:01]}
+Rxg5 {[%emt 0:01:09]} 70. Kxg5 {[%emt 0:00:22]} e6 {[%emt 0:00:26]} 71. Kf4 {
+[%emt 0:01:02]} Kd4 {[%emt 0:00:06]} 72. Rb7 {[%emt 0:01:49]} Kc3 {[%emt 0:00:
+17]} 73. Ke3 {[%emt 0:01:00]} b4 {[%emt 0:00:10]} 74. Ra7 {[%emt 0:00:13]} b3 {
+[%emt 0:00:09]} 75. Ra3 {[%emt 0:00:03]} Kb4 {[%emt 0:00:46]} 76. Kd4 0-1
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Fressinet, Laurent"]
+[Black "Parligras, Mircea-Emilian"]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "2662"]
+[BlackElo "2638"]
+[Annotator "ChessBase"]
+[PlyCount "125"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Werder Bremen"]
+[BlackTeam "Aachen"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:13]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:07]} 3. Bb5 {[%emt 0:00:00]} Nf6 {[%emt 0:00:23]} 4. d3 {[%emt 0:00:
+00]} Bc5 {[%emt 0:00:25]} 5. Bg5 {[%emt 0:00:20]} h6 {[%emt 0:04:18]} 6. Bh4 {
+[%emt 0:00:57]} d6 {[%emt 0:02:25]} 7. c3 {[%emt 0:01:06]} Bd7 {[%emt 0:02:01]}
+8. Nbd2 {[%emt 0:01:58]} a6 {[%emt 0:09:06]} 9. Bxc6 {[%emt 0:12:46]} Bxc6 {
+[%emt 0:01:05]} 10. Nc4 {[%emt 0:02:38]} g5 {[%emt 0:08:08]} 11. Bg3 {[%emt 0:
+00:07]} Nh5 {[%emt 0:00:28]} 12. Na5 {[%emt 0:06:13]} O-O {[%emt 0:05:11]} 13.
+O-O {[%emt 0:12:09]} Nxg3 {[%emt 0:03:32]} 14. hxg3 {[%emt 0:00:44]} Qd7 {
+[%emt 0:07:16]} 15. Nxc6 {[%emt 0:12:40]} Qxc6 {[%emt 0:00:35]} 16. g4 {
+[%emt 0:04:49]} Qd7 {[%emt 0:09:18]} 17. Nd2 {[%emt 0:02:14]} Kg7 {[%emt 0:05:
+51]} 18. Re1 {[%emt 0:04:55]} h5 {[%emt 0:18:08]} 19. gxh5 {[%emt 0:02:10]} f5
+{[%emt 0:00:04]} 20. d4 {[%emt 0:03:31]} exd4 {[%emt 0:00:49]} 21. Nb3 {
+[%emt 0:03:21]} fxe4 {[%emt 0:00:31]} 22. cxd4 {[%emt 0:05:05]} Qf5 {[%emt 0:
+09:01]} 23. Qc2 {[%emt 0:00:19]} Bb6 {[%emt 0:01:44]} 24. Rxe4 {[%emt 0:02:07]}
+Rae8 {[%emt 0:02:09]} 25. Rae1 {[%emt 0:02:09]} Rf7 {[%emt 0:04:08]} 26. R1e2 {
+[%emt 0:10:10]} Rxe4 {[%emt 0:00:09]} 27. Qxe4 {[%emt 0:00:31]} g4 {[%emt 0:01:
+33]} 28. Qxf5 {[%emt 0:04:43]} Rxf5 {[%emt 0:00:04]} 29. Re4 {[%emt 0:00:08]}
+Rg5 {[%emt 0:00:05]} 30. a4 {[%emt 0:10:11]} Kh6 {[%emt 0:01:09]} 31. Kf1 {
+[%emt 0:01:06]} Kxh5 {[%emt 0:00:18]} 32. Ke2 {[%emt 0:00:26]} Rd5 {[%emt 0:06:
+20]} 33. Kd3 {[%emt 0:00:46]} Kg5 {[%emt 0:01:13]} 34. Re8 {[%emt 0:00:57]} Rf5
+{[%emt 0:00:43]} 35. Rg8+ {[%emt 0:01:14]} Kf6 {[%emt 0:02:17]} 36. Rf8+ {
+[%emt 0:04:56]} Ke6 {[%emt 0:01:39]} 37. Rxf5 {[%emt 0:00:24]} Kxf5 {[%emt 0:
+00:03]} 38. a5 {[%emt 0:00:04]} Ba7 {[%emt 0:00:03]} 39. Nd2 {[%emt 0:00:13]}
+b6 {[%emt 0:04:27]} 40. Nc4 {[%emt 0:00:34]} bxa5 {[%emt 0:51:27]} 41. Nxa5 {
+[%emt 0:03:26]} c5 {[%emt 0:00:00]} 42. d5 {[%emt 0:06:07]} c4+ {[%emt 0:00:00]
+} 43. Nxc4 {[%emt 0:01:21]} Bc5 {[%emt 0:00:00]} 44. f3 {[%emt 0:04:57]} gxf3 {
+[%emt 0:00:00]} 45. gxf3 {[%emt 0:00:07]} Kf4 {[%emt 0:00:00]} 46. Kc3 {
+[%emt 0:05:54]} Kxf3 {[%emt 0:00:00]} 47. b4 {[%emt 0:00:23]} Bf2 {[%emt 0:00:
+00]} 48. Nxd6 {[%emt 0:00:18]} Kf4 {[%emt 0:00:00]} 49. Nb7 {[%emt 0:03:49]}
+Ke5 {[%emt 0:00:00]} 50. Kc4 {[%emt 0:00:20]} Be1 {[%emt 0:00:00]} 51. Nc5 {
+[%emt 0:00:38]} Kd6 {[%emt 0:00:00]} 52. Nxa6 {[%emt 0:00:36]} Bd2 {[%emt 0:00:
+00]} 53. b5 {[%emt 0:00:36]} Be3 {[%emt 0:00:00]} 54. Nb4 {[%emt 0:00:09]} Bf2
+{[%emt 0:00:00]} 55. Nd3 {[%emt 0:01:52]} Be3 {[%emt 0:00:00]} 56. Nb2 {
+[%emt 0:00:35]} Bb6 {[%emt 0:00:00]} 57. Na4 {[%emt 0:01:08]} Bf2 {[%emt 0:00:
+00]} 58. b6 {[%emt 0:03:37]} Bg1 {[%emt 0:00:00]} 59. b7 {[%emt 0:01:53]} Kc7 {
+[%emt 0:00:00]} 60. Nc5 {[%emt 0:00:07]} Bh2 {[%emt 0:00:00]} 61. Kb5 {[%emt 0:
+00:42]} Bd6 {[%emt 0:00:00]} 62. Ne4 {[%emt 0:00:19]} Be5 {[%emt 0:00:00]} 63.
+Ka6 {[%emt 0:00:42]} 1-0
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Areshchenko, Alexander"]
+[Black "Iturrizaga Bonelli, Eduardo"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2645"]
+[BlackElo "2650"]
+[Annotator "ChessBase"]
+[PlyCount "75"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Werder Bremen"]
+[BlackTeam "Aachen"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} c6 {[%emt 0:00:29]} 2. d4 {[%emt 0:00:00]} d5 {[%emt 0:
+00:11]} 3. e5 {[%emt 0:00:00]} Bf5 {[%emt 0:00:09]} 4. Nf3 {[%emt 0:00:00]} e6
+{[%emt 0:00:07]} 5. Be2 {[%emt 0:00:13]} Nd7 {[%emt 0:00:26]} 6. O-O {[%emt 0:
+00:27]} Bb4 {[%emt 0:00:16]} 7. Nbd2 {[%emt 0:11:42]} Ba5 {[%emt 0:00:38]} 8.
+c4 {[%emt 0:03:28]} h6 {[%emt 0:05:18]} 9. Qb3 {[%emt 0:02:05]} Rb8 {[%emt 0:
+06:33]} 10. Qa3 {[%emt 0:09:26]} Ne7 {[%emt 0:02:03]} 11. cxd5 {[%emt 0:05:27]}
+cxd5 {[%emt 0:08:53]} 12. Nb3 {[%emt 0:06:34]} Bb6 {[%emt 0:03:33]} 13. Bd2 {
+[%emt 0:00:53]} Be4 {[%emt 0:05:49]} 14. Bb4 {[%emt 0:05:48]} Nc6 {[%emt 0:00:
+27]} 15. Bd6 {[%emt 0:06:55]} Bxf3 {[%emt 0:09:33]} 16. Bxf3 {[%emt 0:02:28]}
+Bxd4 {[%emt 0:00:50]} 17. Nxd4 {[%emt 0:05:48]} Nxd4 {[%emt 0:00:43]} 18. Qd3 {
+[%emt 0:06:40]} Nc6 {[%emt 0:11:41]} 19. Rfe1 {[%emt 0:01:15]} Rc8 {[%emt 0:00:
+07]} 20. Rad1 {[%emt 0:11:03]} Nb6 {[%emt 0:02:40]} 21. b3 {[%emt 0:06:09]} Qd7
+{[%emt 0:09:29]} 22. Qd2 {[%emt 0:08:57]} Rd8 {[%emt 0:04:08]} 23. a4 {[%emt 0:
+02:41]} Nc8 {[%emt 0:00:25]} 24. Ba3 {[%emt 0:00:24]} N8e7 {[%emt 0:00:29]} 25.
+b4 {[%emt 0:01:47]} Ng6 {[%emt 0:04:21]} 26. b5 {[%emt 0:02:52]} Ncxe5 {
+[%emt 0:02:08]} 27. Be2 {[%emt 0:00:32]} Rc8 {[%emt 0:08:02]} 28. Qd4 {[%emt 0:
+01:54]} Nc4 {[%emt 0:00:43]} 29. Bb4 {[%emt 0:01:43]} Nd6 {[%emt 0:13:11]} 30.
+Qxg7 {[%emt 0:00:38]} Nf5 {[%emt 0:00:04]} 31. Qb2 {[%emt 0:01:21]} Rg8 {
+[%emt 0:00:23]} 32. g3 {[%emt 0:01:23]} Kd8 {[%emt 0:02:10]} 33. b6 {[%emt 0:
+01:07]} axb6 {[%emt 0:01:46]} 34. Bb5 {[%emt 0:00:12]} Rc6 {[%emt 0:00:02]} 35.
+a5 {[%emt 0:00:45]} d4 {[%emt 0:01:19]} 36. Bxc6 {[%emt 0:01:46]} Qxc6 {
+[%emt 0:01:42]} 37. Rc1 {[%emt 0:00:11]} Qd7 {[%emt 0:00:44]} 38. axb6 {
+[%emt 0:00:51]} 1-0
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Van Foreest, Jorden"]
+[Black "Dubov, Daniil"]
+[Result "0-1"]
+[ECO "B31"]
+[WhiteElo "2636"]
+[BlackElo "2694"]
+[Annotator "ChessBase"]
+[PlyCount "70"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Aachen"]
+[BlackTeam "Werder Bremen"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:06]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:05]} 3. Bb5 {[%emt 0:00:02]} g6 {[%emt 0:00:06]} 4. Bxc6 {[%emt 0:
+00:11]} bxc6 {[%emt 0:00:02]} 5. O-O {[%emt 0:00:20]} Bg7 {[%emt 0:00:08]} 6.
+Re1 {[%emt 0:00:16]} Nh6 {[%emt 0:00:18]} 7. c3 {[%emt 0:00:14]} O-O {[%emt 0:
+00:08]} 8. d4 {[%emt 0:00:07]} cxd4 {[%emt 0:00:09]} 9. cxd4 {[%emt 0:00:05]}
+d5 {[%emt 0:00:10]} 10. e5 {[%emt 0:00:15]} f6 {[%emt 0:00:09]} 11. Nbd2 {
+[%emt 0:00:20]} fxe5 {[%emt 0:04:26]} 12. Nxe5 {[%emt 0:00:19]} Bxe5 {[%emt 0:
+00:28]} 13. dxe5 {[%emt 0:00:06]} Qb6 {[%emt 0:04:12]} 14. Nf3 {[%emt 0:00:38]}
+Nf5 {[%emt 0:00:21]} 15. h3 {[%emt 0:00:40]} c5 {[%emt 0:07:24]} 16. g4 {
+[%emt 0:23:50]} Ng7 {[%emt 0:01:31]} 17. Bg5 {[%emt 0:00:45]} Qe6 {[%emt 0:04:
+54]} 18. Bh4 {[%emt 0:19:41]} h6 {[%emt 0:12:02]} 19. Nd2 {[%emt 0:16:54]} g5 {
+[%emt 0:14:12]} 20. Bg3 {[%emt 0:00:13]} c4 {[%emt 0:00:10]} 21. Nf3 {[%emt 0:
+01:01]} d4 {[%emt 0:00:32]} 22. Nxd4 {[%emt 0:00:57]} Qb6 {[%emt 0:00:22]} 23.
+e6 {[%emt 0:07:15]} Bb7 {[%emt 0:01:01]} 24. Be5 {[%emt 0:00:26]} Rad8 {
+[%emt 0:01:03]} 25. Rc1 {[%emt 0:09:14]} Rxd4 {[%emt 0:15:41]} 26. Qxd4 {
+[%emt 0:03:18]} Qc6 {[%emt 0:00:02]} 27. Re4 {[%emt 0:09:29]} Qxe4 {[%emt 0:00:
+27]} 28. Qxe4 {[%emt 0:00:04]} Bxe4 {[%emt 0:00:04]} 29. Rxc4 {[%emt 0:00:03]}
+Bd5 {[%emt 0:00:21]} 30. Rc7 {[%emt 0:00:06]} Nxe6 {[%emt 0:00:10]} 31. Rxa7 {
+[%emt 0:01:49]} Rf3 {[%emt 0:01:22]} 32. Kf1 {[%emt 0:06:20]} Rxh3 {[%emt 0:02:
+44]} 33. a4 {[%emt 0:00:52]} Rd3 {[%emt 0:01:13]} 34. Rxe7 {[%emt 0:01:26]} Bf3
+{[%emt 0:01:26]} 35. Kg1 {[%emt 0:00:13]} Nc5 {[%emt 0:03:02]} 0-1
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Efimenko, Zahar"]
+[Black "Nijboer, Friso"]
+[Result "1-0"]
+[ECO "B92"]
+[WhiteElo "2636"]
+[BlackElo "2510"]
+[Annotator "ChessBase"]
+[PlyCount "73"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Werder Bremen"]
+[BlackTeam "Aachen"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:11]} c5 {[%emt 0:00:12]} 2. Nf3 {[%emt 0:00:10]} d6 {[%emt 0:
+00:13]} 3. d4 {[%emt 0:00:35]} cxd4 {[%emt 0:00:13]} 4. Nxd4 {[%emt 0:00:04]}
+Nf6 {[%emt 0:00:15]} 5. Nc3 {[%emt 0:00:08]} a6 {[%emt 0:00:09]} 6. Be2 {
+[%emt 0:02:30]} e5 {[%emt 0:01:52]} 7. Nb3 {[%emt 0:00:09]} Be7 {[%emt 0:01:04]
+} 8. Be3 {[%emt 0:02:57]} Be6 {[%emt 0:12:55]} 9. Nd5 {[%emt 0:01:09]} Nbd7 {
+[%emt 0:07:27]} 10. Qd3 {[%emt 0:00:55]} Bxd5 {[%emt 0:07:18]} 11. exd5 {
+[%emt 0:00:16]} Rc8 {[%emt 0:00:15]} 12. c4 {[%emt 0:04:31]} O-O {[%emt 0:02:
+25]} 13. O-O {[%emt 0:01:28]} Ne8 {[%emt 0:02:34]} 14. Rac1 {[%emt 0:11:57]} g6
+{[%emt 0:26:12]} 15. Qd2 {[%emt 0:09:52]} Ng7 {[%emt 0:09:27]} 16. Na5 {
+[%emt 0:02:50]} Qc7 {[%emt 0:21:12]} 17. Bd3 {[%emt 0:08:16]} f5 {[%emt 0:02:
+41]} 18. f3 {[%emt 0:00:38]} e4 {[%emt 0:02:07]} 19. fxe4 {[%emt 0:03:08]} Ne5
+{[%emt 0:00:33]} 20. b4 {[%emt 0:06:01]} b6 {[%emt 0:01:21]} 21. Nc6 {[%emt 0:
+03:05]} Nxc6 {[%emt 0:00:04]} 22. dxc6 {[%emt 0:00:04]} Qxc6 {[%emt 0:00:04]}
+23. b5 {[%emt 0:03:29]} axb5 {[%emt 0:05:59]} 24. cxb5 {[%emt 0:02:01]} Qb7 {
+[%emt 0:00:01]} 25. Rxc8 {[%emt 0:02:49]} Rxc8 {[%emt 0:05:16]} 26. exf5 {
+[%emt 0:00:42]} Nxf5 {[%emt 0:00:04]} 27. Bxf5 {[%emt 0:01:14]} gxf5 {[%emt 0:
+00:01]} 28. Rxf5 {[%emt 0:00:16]} Qe4 {[%emt 0:00:04]} 29. Qd5+ {[%emt 0:10:19]
+} Qxd5 {[%emt 0:00:04]} 30. Rxd5 {[%emt 0:00:03]} Rb8 {[%emt 0:00:05]} 31. Kf2
+{[%emt 0:04:44]} Kf7 {[%emt 0:00:32]} 32. Kf3 {[%emt 0:00:04]} Bf8 {[%emt 0:02:
+13]} 33. Rh5 {[%emt 0:02:49]} Kg6 34. g4 Bg7 {[%emt 0:02:07]} 35. Ke4 {[%emt 0:
+04:42]} Re8+ {[%emt 0:00:05]} 36. Kd3 {[%emt 0:00:11]} Be5 {[%emt 0:00:50]} 37.
+Kc4 {[%emt 0:05:31]} 1-0
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Van Foreest, Lucas"]
+[Black "Edouard, Romain"]
+[Result "0-1"]
+[ECO "B30"]
+[WhiteElo "2485"]
+[BlackElo "2613"]
+[Annotator "ChessBase"]
+[PlyCount "74"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Aachen"]
+[BlackTeam "Werder Bremen"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:04]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:09]} 3. Bb5 {[%emt 0:00:00]} e6 {[%emt 0:00:27]} 4. Bxc6 {[%emt 0:
+00:57]} bxc6 {[%emt 0:02:02]} 5. b3 {[%emt 0:00:01]} f6 {[%emt 0:08:22]} 6. Bb2
+{[%emt 0:07:50]} Nh6 {[%emt 0:05:13]} 7. c4 {[%emt 0:08:02]} e5 {[%emt 0:01:40]
+} 8. Nc3 {[%emt 0:04:40]} d6 {[%emt 0:00:41]} 9. Ne2 {[%emt 0:08:35]} Nf7 {
+[%emt 0:05:09]} 10. O-O {[%emt 0:01:50]} g5 {[%emt 0:04:39]} 11. Ne1 {[%emt 0:
+00:05]} h5 {[%emt 0:00:32]} 12. Nc2 {[%emt 0:01:41]} g4 {[%emt 0:08:48]} 13.
+Ng3 {[%emt 0:12:38]} h4 {[%emt 0:06:05]} 14. Nf5 {[%emt 0:00:05]} Bxf5 {
+[%emt 0:00:03]} 15. exf5 {[%emt 0:00:03]} Nh6 {[%emt 0:02:23]} 16. b4 {[%emt 0:
+01:36]} Qd7 {[%emt 0:03:20]} 17. bxc5 {[%emt 0:01:59]} dxc5 {[%emt 0:02:21]}
+18. Ne3 {[%emt 0:00:20]} Rg8 {[%emt 0:06:25]} 19. Qc2 {[%emt 0:03:09]} Kf7 {
+[%emt 0:10:22]} 20. Bc3 {[%emt 0:02:14]} Rg5 {[%emt 0:01:49]} 21. Rab1 {
+[%emt 0:04:29]} Nxf5 {[%emt 0:03:31]} 22. Nxf5 {[%emt 0:00:17]} Qxf5 {[%emt 0:
+00:11]} 23. Rb7+ {[%emt 0:00:44]} Kg6 {[%emt 0:03:46]} 24. Qxf5+ {[%emt 0:01:
+13]} Rxf5 {[%emt 0:00:12]} 25. Rfb1 {[%emt 0:04:16]} Rf4 {[%emt 0:04:34]} 26.
+Rb8 {[%emt 0:09:20]} Rxb8 {[%emt 0:00:06]} 27. Rxb8 {[%emt 0:00:02]} Kf7 {
+[%emt 0:07:01]} 28. d3 {[%emt 0:06:51]} h3 {[%emt 0:00:17]} 29. Rb7+ {[%emt 0:
+01:23]} Ke6 {[%emt 0:06:07]} 30. Rxa7 {[%emt 0:00:24]} hxg2 {[%emt 0:00:05]}
+31. Ra3 {[%emt 0:03:45]} Rf3 {[%emt 0:02:23]} 32. Bb2 {[%emt 0:03:31]} Bh6 {
+[%emt 0:00:59]} 33. Rb3 {[%emt 0:06:04]} Bd2 {[%emt 0:02:49]} 34. Ba3 {[%emt 0:
+03:52]} Kd6 {[%emt 0:00:14]} 35. Kxg2 {[%emt 0:07:10]} Be1 {[%emt 0:00:12]} 36.
+Bb2 {[%emt 0:00:50]} Rxf2+ {[%emt 0:01:26]} 37. Kg1 {[%emt 0:00:12]} Rc2 {
+[%emt 0:00:35]} 0-1
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Donchenko, Alexander"]
+[Black "Zumsande, Martin"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "2583"]
+[BlackElo "2453"]
+[Annotator "ChessBase"]
+[PlyCount "89"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Aachen"]
+[BlackTeam "Werder Bremen"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. Nf3 {[%emt 0:00:00]} d5 {[%emt 0:00:08]} 2. g3 {[%emt 0:00:00]} Nf6 {
+[%emt 0:00:21]} 3. Bg2 {[%emt 0:00:01]} e6 {[%emt 0:00:48]} 4. O-O {[%emt 0:00:
+06]} b5 {[%emt 0:04:20]} 5. a4 {[%emt 0:00:25]} b4 {[%emt 0:01:13]} 6. c4 {
+[%emt 0:00:13]} bxc3 {[%emt 0:02:42]} 7. bxc3 {[%emt 0:00:12]} Ba6 {[%emt 0:05:
+46]} 8. Na3 {[%emt 0:01:07]} Be7 {[%emt 0:05:09]} 9. c4 {[%emt 0:00:44]} c6 {
+[%emt 0:03:36]} 10. d4 {[%emt 0:02:12]} Nbd7 {[%emt 0:05:06]} 11. c5 {[%emt 0:
+06:13]} O-O {[%emt 0:16:01]} 12. Nc2 {[%emt 0:01:44]} Qc8 {[%emt 0:05:40]} 13.
+Nb4 {[%emt 0:07:30]} Rb8 {[%emt 0:13:59]} 14. Nd3 {[%emt 0:11:39]} Bd8 {
+[%emt 0:07:51]} 15. Qc2 {[%emt 0:03:50]} Bc7 {[%emt 0:01:21]} 16. Rd1 {[%emt 0:
+05:07]} Bxd3 {[%emt 0:06:14]} 17. Qxd3 {[%emt 0:07:22]} e5 {[%emt 0:00:04]} 18.
+Qc2 {[%emt 0:00:20]} Qb7 {[%emt 0:02:08]} 19. dxe5 {[%emt 0:06:07]} Nxe5 {
+[%emt 0:00:53]} 20. Nd4 {[%emt 0:00:12]} Rfe8 {[%emt 0:02:08]} 21. Bg5 {
+[%emt 0:03:32]} Ned7 {[%emt 0:03:18]} 22. Nb5 {[%emt 0:18:08]} Ne4 {[%emt 0:08:
+04]} 23. Rxd5 {[%emt 0:14:54]} Be5 {[%emt 0:11:44]} 24. Bxe4 {[%emt 0:02:09]}
+cxd5 {[%emt 0:00:57]} 25. c6 {[%emt 0:02:01]} dxe4 {[%emt 0:01:44]} 26. cxb7 {
+[%emt 0:00:09]} Bxa1 {[%emt 0:00:03]} 27. Qd1 {[%emt 0:03:01]} Bf6 {[%emt 0:01:
+18]} 28. Qxd7 {[%emt 0:00:12]} Bxg5 {[%emt 0:00:03]} 29. Nd6 {[%emt 0:00:07]}
+Rf8 {[%emt 0:01:10]} 30. Qc7 {[%emt 0:00:08]} Bf6 {[%emt 0:01:00]} 31. Nc8 {
+[%emt 0:00:49]} Be5 {[%emt 0:00:11]} 32. Qxe5 {[%emt 0:00:22]} Rxb7 {[%emt 0:
+00:05]} 33. Qxe4 {[%emt 0:00:12]} Rc7 {[%emt 0:00:22]} 34. Ne7+ {[%emt 0:00:14]
+} Kh8 {[%emt 0:00:04]} 35. Nd5 {[%emt 0:00:12]} Rd7 {[%emt 0:00:07]} 36. Qf5 {
+[%emt 0:00:47]} Rfd8 {[%emt 0:00:30]} 37. e4 {[%emt 0:00:07]} h6 {[%emt 0:00:
+19]} 38. Kg2 {[%emt 0:00:10]} Kg8 {[%emt 0:00:22]} 39. h4 {[%emt 0:00:26]} Rd6
+{[%emt 0:00:17]} 40. Ne7+ {[%emt 0:01:01]} Kf8 {[%emt 0:50:33]} 41. Nc8 {
+[%emt 0:50:19]} Ra6 {[%emt 0:02:42]} 42. Qb5 {[%emt 0:02:20]} Re6 {[%emt 0:00:
+00]} 43. Nxa7 {[%emt 0:00:00]} Rxe4 {[%emt 0:00:00]} 44. a5 {[%emt 0:00:00]}
+Ra8 {[%emt 0:00:00]} 45. a6 {[%emt 0:00:00]} 1-0
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Markgraf, Rolf-Alexander"]
+[Black "Zaragatski, Ilja"]
+[Result "1/2-1/2"]
+[ECO "B48"]
+[WhiteElo "2514"]
+[BlackElo "2495"]
+[Annotator "ChessBase"]
+[PlyCount "88"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Werder Bremen"]
+[BlackTeam "Aachen"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:12]} 2. Nf3 {[%emt 0:00:00]} e6 {[%emt 0:
+00:12]} 3. d4 {[%emt 0:00:00]} cxd4 {[%emt 0:00:08]} 4. Nxd4 {[%emt 0:00:00]}
+Nc6 {[%emt 0:00:08]} 5. Nc3 {[%emt 0:00:09]} Qc7 {[%emt 0:00:07]} 6. Be3 {
+[%emt 0:03:36]} a6 {[%emt 0:00:28]} 7. Qd2 {[%emt 0:00:07]} Nf6 {[%emt 0:00:08]
+} 8. O-O-O {[%emt 0:00:27]} b5 {[%emt 0:00:36]} 9. Bf4 {[%emt 0:08:52]} Qb6 {
+[%emt 0:07:57]} 10. Nb3 {[%emt 0:02:46]} Bb4 {[%emt 0:12:19]} 11. f3 {[%emt 0:
+03:56]} O-O {[%emt 0:00:40]} 12. g4 {[%emt 0:37:21]} Rd8 {[%emt 0:29:43]} 13.
+g5 {[%emt 0:03:42]} Ne8 {[%emt 0:00:39]} 14. h4 {[%emt 0:04:32]} Bb7 {[%emt 0:
+10:37]} 15. g6 {[%emt 0:06:33]} d5 {[%emt 0:14:55]} 16. gxf7+ {[%emt 0:01:07]}
+Kxf7 {[%emt 0:00:05]} 17. exd5 {[%emt 0:01:30]} Rxd5 {[%emt 0:08:39]} 18. Bd3 {
+[%emt 0:00:42]} a5 {[%emt 0:04:28]} 19. Qe2 {[%emt 0:14:34]} Bxc3 {[%emt 0:00:
+44]} 20. bxc3 {[%emt 0:00:15]} Nf6 {[%emt 0:05:09]} 21. Rhe1 {[%emt 0:02:57]}
+Re8 {[%emt 0:00:48]} 22. Be3 {[%emt 0:01:12]} Qc7 {[%emt 0:00:45]} 23. Bxb5 {
+[%emt 0:00:49]} Rxd1+ {[%emt 0:05:43]} 24. Rxd1 {[%emt 0:00:11]} Nd5 {[%emt 0:
+00:26]} 25. Bd2 {[%emt 0:00:59]} a4 {[%emt 0:02:17]} 26. Nc5 {[%emt 0:01:16]}
+Ba8 {[%emt 0:01:33]} 27. Ne4 {[%emt 0:08:15]} Qe7 {[%emt 0:00:59]} 28. Kb1 {
+[%emt 0:01:31]} Rb8 {[%emt 0:00:29]} 29. Ka1 {[%emt 0:00:15]} a3 {[%emt 0:01:
+24]} 30. Bg5 {[%emt 0:03:06]} Qc7 {[%emt 0:00:40]} 31. Bc1 {[%emt 0:01:43]} Ne5
+{[%emt 0:01:24]} 32. Bd2 {[%emt 0:02:00]} Kg8 {[%emt 0:00:58]} 33. f4 {[%emt 0:
+00:53]} Nxf4 {[%emt 0:01:08]} 34. Bxf4 {[%emt 0:01:04]} Bxe4 {[%emt 0:00:02]}
+35. c4 {[%emt 0:00:08]} Rxb5 {[%emt 0:00:39]} 36. Qxe4 {[%emt 0:00:01]} Qxc4 {
+[%emt 0:00:35]} 37. Qa8+ {[%emt 0:01:20]} Kf7 {[%emt 0:00:04]} 38. Qa7+ {
+[%emt 0:00:26]} Kf6 {[%emt 0:00:44]} 39. Bg5+ {[%emt 0:00:40]} Kg6 {[%emt 0:00:
+23]} 40. Qxa3 Qxc2 {[%emt 0:51:02]} 41. Rg1 {[%emt 0:12:41]} Ng4 {[%emt 0:00:
+00]} 42. Be3 {[%emt 0:06:57]} h5 {[%emt 0:00:00]} 43. Bd4 {[%emt 0:00:43]} Qe4
+{[%emt 0:00:00]} 44. Bxg7 {[%emt 0:16:11]} Kxg7 {[%emt 0:00:00]} 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Dragnev, Valentin"]
+[Black "Bluebaum, Matthias"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2461"]
+[BlackElo "2635"]
+[Annotator "ChessBase"]
+[PlyCount "158"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Bayern Muenchen"]
+[BlackTeam "SF Deizisau"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. Nf3 {[%emt 0:00:00]} d5 {[%emt 0:00:20]} 2. d4 {[%emt 0:00:00]} Nf6 {
+[%emt 0:00:20]} 3. c4 {[%emt 0:00:00]} e6 {[%emt 0:01:11]} 4. g3 {[%emt 0:00:
+00]} Bb4+ {[%emt 0:03:28]} 5. Bd2 {[%emt 0:00:05]} Be7 {[%emt 0:00:05]} 6. Bg2
+{[%emt 0:00:05]} c6 {[%emt 0:00:14]} 7. O-O {[%emt 0:00:08]} Nbd7 {[%emt 0:00:
+03]} 8. Qc2 {[%emt 0:01:05]} b6 {[%emt 0:00:21]} 9. cxd5 {[%emt 0:03:03]} cxd5
+{[%emt 0:00:20]} 10. Bf4 {[%emt 0:00:15]} O-O {[%emt 0:09:39]} 11. Rc1 {
+[%emt 0:00:51]} Bb7 {[%emt 0:00:02]} 12. Qb3 {[%emt 0:00:16]} Rc8 {[%emt 0:00:
+05]} 13. Rxc8 {[%emt 0:00:05]} Qxc8 {[%emt 0:00:01]} 14. Nc3 {[%emt 0:00:13]}
+Nh5 {[%emt 0:00:05]} 15. Bg5 {[%emt 0:00:05]} Bxg5 {[%emt 0:01:12]} 16. Nxg5 {
+[%emt 0:00:01]} Nhf6 {[%emt 0:00:09]} 17. e3 {[%emt 0:00:26]} Ba6 {[%emt 0:03:
+33]} 18. a4 {[%emt 0:10:20]} Qb8 {[%emt 0:12:16]} 19. Bf1 {[%emt 0:44:17]} Bxf1
+{[%emt 0:00:53]} 20. Kxf1 {[%emt 0:02:08]} Rc8 {[%emt 0:06:49]} 21. Nf3 {
+[%emt 0:00:41]} Ne4 {[%emt 0:15:22]} 22. Rc1 {[%emt 0:07:50]} Ndf6 {[%emt 0:04:
+12]} 23. Rc2 {[%emt 0:06:43]} Nxc3 {[%emt 0:06:25]} 24. Rxc3 {[%emt 0:01:05]}
+Ne4 {[%emt 0:00:04]} 25. Rc2 {[%emt 0:01:12]} Rc7 {[%emt 0:01:21]} 26. Ne1 {
+[%emt 0:03:52]} Rc4 {[%emt 0:07:55]} 27. Ke2 {[%emt 0:04:33]} Nd6 {[%emt 0:05:
+07]} 28. Qa2 {[%emt 0:12:03]} b5 {[%emt 0:11:07]} 29. b3 {[%emt 0:03:16]} Rxc2+
+{[%emt 0:00:05]} 30. Qxc2 {[%emt 0:00:19]} bxa4 {[%emt 0:00:04]} 31. bxa4 {
+[%emt 0:00:03]} h6 {[%emt 0:01:04]} 32. Nf3 {[%emt 0:03:34]} Nc4 {[%emt 0:02:
+56]} 33. Ne1 {[%emt 0:03:14]} a5 {[%emt 0:09:30]} 34. Nd3 {[%emt 0:00:26]} Qb6
+{[%emt 0:02:29]} 35. h4 {[%emt 0:00:43]} h5 {[%emt 0:01:09]} 36. Kf1 {[%emt 0:
+01:02]} g6 {[%emt 0:00:18]} 37. Kg2 {[%emt 0:00:22]} Kg7 {[%emt 0:00:28]} 38.
+Kg1 {[%emt 0:01:22]} Qd6 {[%emt 0:01:23]} 39. Qc1 {[%emt 0:00:46]} Qb8 {
+[%emt 0:00:53]} 40. Nc5 {[%emt 0:01:36]} Qb4 {[%emt 0:51:36]} 41. Kg2 {[%emt 0:
+07:56]} e5 {[%emt 0:00:00]} 42. Qd1 {[%emt 0:13:30]} e4 {[%emt 0:00:00]} 43.
+Qb3 {[%emt 0:01:14]} Qd2 {[%emt 0:00:00]} 44. Nxe4 {[%emt 0:24:38]} Nxe3+ {
+[%emt 0:00:00]} 45. Qxe3 {[%emt 0:00:01]} Qxe3 {[%emt 0:00:00]} 46. fxe3 {
+[%emt 0:00:04]} dxe4 {[%emt 0:00:00]} 47. Kf2 {[%emt 0:00:12]} Kf6 {[%emt 0:00:
+00]} 48. Ke2 {[%emt 0:01:47]} Ke6 {[%emt 0:00:00]} 49. Kd2 {[%emt 0:00:02]} Kd5
+{[%emt 0:00:00]} 50. Kc3 {[%emt 0:00:07]} f6 {[%emt 0:00:00]} 51. Kb3 {[%emt 0:
+00:04]} g5 {[%emt 0:00:00]} 52. Kc3 {[%emt 0:00:03]} gxh4 {[%emt 0:00:00]} 53.
+gxh4 {[%emt 0:00:03]} f5 {[%emt 0:00:00]} 54. Kb3 {[%emt 0:00:12]} f4 {[%emt 0:
+00:00]} 55. exf4 {[%emt 0:00:04]} Kxd4 {[%emt 0:00:00]} 56. Kc2 {[%emt 0:00:22]
+} e3 {[%emt 0:00:46]} 57. f5 {[%emt 0:00:14]} Ke5 {[%emt 0:00:11]} 58. Kd3 {
+[%emt 0:00:20]} Kxf5 {[%emt 0:00:20]} 59. Kxe3 {[%emt 0:00:02]} Kg4 {[%emt 0:
+01:16]} 60. Ke4 {[%emt 0:00:15]} Kh3 {[%emt 0:00:48]} 61. Kf3 {[%emt 0:00:12]}
+Kxh4 {[%emt 0:00:10]} 62. Kf4 {[%emt 0:00:02]} Kh3 {[%emt 0:00:04]} 63. Kf3 {
+[%emt 0:00:04]} Kh2 {[%emt 0:00:18]} 64. Kf2 {[%emt 0:00:31]} h4 {[%emt 0:00:
+23]} 65. Kf3 {[%emt 0:00:47]} Kh3 {[%emt 0:00:17]} 66. Kf2 {[%emt 0:00:11]} Kg4
+{[%emt 0:00:04]} 67. Kg2 {[%emt 0:00:02]} Kf4 {[%emt 0:00:26]} 68. Kh3 {
+[%emt 0:00:02]} Kg5 {[%emt 0:00:31]} 69. Kh2 {[%emt 0:00:16]} Kg4 {[%emt 0:00:
+21]} 70. Kg2 {[%emt 0:00:03]} Kf4 {[%emt 0:00:41]} 71. Kh3 {[%emt 0:00:04]} Ke3
+{[%emt 0:00:02]} 72. Kxh4 {[%emt 0:00:04]} Kd4 {[%emt 0:00:03]} 73. Kg3 {
+[%emt 0:00:05]} Kc4 {[%emt 0:00:03]} 74. Kf2 {[%emt 0:00:04]} Kb4 {[%emt 0:00:
+03]} 75. Ke2 {[%emt 0:00:02]} Kxa4 {[%emt 0:00:04]} 76. Kd1 {[%emt 0:00:03]}
+Kb3 {[%emt 0:00:04]} 77. Kc1 {[%emt 0:00:03]} a4 {[%emt 0:00:04]} 78. Kb1 {
+[%emt 0:00:03]} a3 {[%emt 0:00:02]} 79. Ka1 {[%emt 0:00:03]} a2 {[%emt 0:00:02]
+} 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Meier, Georg"]
+[Black "Studer, Noel"]
+[Result "1-0"]
+[ECO "B51"]
+[WhiteElo "2647"]
+[BlackElo "2481"]
+[Annotator "ChessBase"]
+[PlyCount "71"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "SF Deizisau"]
+[BlackTeam "Bayern Muenchen"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:02:05]} 2. Nf3 {[%emt 0:00:00]} d6 {[%emt 0:
+00:06]} 3. Bb5+ {[%emt 0:00:14]} Nd7 {[%emt 0:00:42]} 4. d4 {[%emt 0:02:15]}
+cxd4 {[%emt 0:00:23]} 5. Qxd4 {[%emt 0:00:09]} a6 {[%emt 0:01:16]} 6. Bxd7+ {
+[%emt 0:00:13]} Bxd7 {[%emt 0:00:01]} 7. Bg5 {[%emt 0:00:47]} h6 {[%emt 0:07:
+26]} 8. Bh4 {[%emt 0:00:06]} Nf6 {[%emt 0:00:07]} 9. Bxf6 {[%emt 0:01:22]} gxf6
+{[%emt 0:00:03]} 10. Nc3 {[%emt 0:01:48]} e6 {[%emt 0:01:20]} 11. O-O-O {
+[%emt 0:01:12]} Be7 {[%emt 0:01:02]} 12. Qe3 {[%emt 0:00:36]} Qa5 {[%emt 0:03:
+49]} 13. Nd4 {[%emt 0:03:16]} O-O-O {[%emt 0:19:24]} 14. Kb1 {[%emt 0:07:11]}
+Kb8 {[%emt 0:02:26]} 15. Nb3 {[%emt 0:00:05]} Qc7 {[%emt 0:02:00]} 16. Rd4 {
+[%emt 0:00:23]} h5 {[%emt 0:10:21]} 17. h4 {[%emt 0:00:05]} Rc8 {[%emt 0:15:10]
+} 18. Rhd1 {[%emt 0:00:02]} f5 {[%emt 0:00:32]} 19. exf5 {[%emt 0:10:52]} e5 {
+[%emt 0:00:06]} 20. R4d2 {[%emt 0:00:19]} Bxf5 {[%emt 0:00:13]} 21. g3 {
+[%emt 0:02:12]} Bf8 {[%emt 0:04:03]} 22. Qe2 {[%emt 0:02:04]} Qc6 {[%emt 0:04:
+51]} 23. Nd5 {[%emt 0:01:48]} Bg4 {[%emt 0:06:40]} 24. f3 {[%emt 0:00:03]} Be6
+{[%emt 0:00:04]} 25. Rd3 {[%emt 0:01:52]} Qc4 {[%emt 0:03:35]} 26. Nb6 {
+[%emt 0:01:41]} Qb5 {[%emt 0:06:43]} 27. Nxc8 {[%emt 0:00:49]} Bc4 {[%emt 0:00:
+01]} 28. Rc1 {[%emt 0:02:23]} f6 {[%emt 0:05:32]} 29. Nd2 {[%emt 0:13:24]} Bxd3
+{[%emt 0:05:27]} 30. cxd3 {[%emt 0:01:40]} d5 {[%emt 0:00:03]} 31. Nb3 {
+[%emt 0:09:35]} Rh7 {[%emt 0:07:34]} 32. Qc2 {[%emt 0:02:32]} Bh6 {[%emt 0:00:
+48]} 33. Nd6 {[%emt 0:00:43]} Qd7 {[%emt 0:00:04]} 34. Qc8+ {[%emt 0:00:53]}
+Ka7 {[%emt 0:00:03]} 35. Qc5+ {[%emt 0:01:30]} Kb8 {[%emt 0:00:01]} 36. Rc2 {
+[%emt 0:00:46]} 1-0
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Zilka, Stepan"]
+[Black "Unzicker, Ferdinand"]
+[Result "1-0"]
+[ECO "E66"]
+[WhiteElo "2527"]
+[BlackElo "2323"]
+[Annotator "ChessBase"]
+[PlyCount "121"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "SF Deizisau"]
+[BlackTeam "Bayern Muenchen"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:22]} 2. c4 {[%emt 0:00:00]} g6 {[%emt 0:
+00:07]} 3. g3 {[%emt 0:01:12]} Bg7 {[%emt 0:00:14]} 4. Bg2 {[%emt 0:00:04]} d6
+{[%emt 0:00:20]} 5. Nf3 {[%emt 0:00:50]} O-O {[%emt 0:00:26]} 6. O-O {[%emt 0:
+00:10]} c5 {[%emt 0:01:23]} 7. Nc3 {[%emt 0:05:16]} Nc6 {[%emt 0:03:43]} 8. d5
+{[%emt 0:04:20]} Na5 {[%emt 0:00:42]} 9. Qd3 {[%emt 0:02:08]} a6 {[%emt 0:00:
+36]} 10. Bd2 {[%emt 0:08:27]} b5 {[%emt 0:10:12]} 11. b3 {[%emt 0:00:43]} b4 {
+[%emt 0:16:56]} 12. Ne4 {[%emt 0:00:07]} Nxe4 {[%emt 0:00:18]} 13. Qxe4 {
+[%emt 0:00:04]} Bxa1 {[%emt 0:01:03]} 14. Rxa1 {[%emt 0:00:09]} f6 {[%emt 0:03:
+14]} 15. h4 {[%emt 0:03:11]} Bf5 {[%emt 0:04:09]} 16. Qf4 Qd7 {[%emt 0:06:29]}
+17. Nh2 {[%emt 0:05:13]} Bh3 {[%emt 0:05:03]} 18. Bxh3 {[%emt 0:07:52]} Qxh3 {
+[%emt 0:00:17]} 19. Ng4 {[%emt 0:00:15]} Rae8 {[%emt 0:20:37]} 20. e4 {[%emt 0:
+11:54]} Nb7 {[%emt 0:05:20]} 21. a3 {[%emt 0:09:16]} a5 {[%emt 0:01:02]} 22. a4
+{[%emt 0:02:19]} Nd8 {[%emt 0:02:22]} 23. Re1 {[%emt 0:10:08]} Kh8 {[%emt 0:02:
+49]} 24. Qf3 {[%emt 0:07:39]} Nf7 {[%emt 0:02:04]} 25. Ne3 {[%emt 0:02:40]} Ne5
+{[%emt 0:03:28]} 26. Qg2 {[%emt 0:00:06]} Qxg2+ {[%emt 0:00:27]} 27. Kxg2 {
+[%emt 0:00:05]} f5 {[%emt 0:02:19]} 28. exf5 {[%emt 0:03:40]} gxf5 {[%emt 0:00:
+07]} 29. Nf1 {[%emt 0:00:10]} h5 {[%emt 0:04:10]} 30. Bg5 {[%emt 0:06:14]} Kh7
+{[%emt 0:01:48]} 31. f4 {[%emt 0:01:33]} Ng6 {[%emt 0:02:12]} 32. Re6 {[%emt 0:
+00:12]} Rf7 {[%emt 0:00:10]} 33. Ne3 {[%emt 0:03:55]} Nf8 {[%emt 0:01:06]} 34.
+Rh6+ {[%emt 0:00:28]} Kg7 {[%emt 0:00:04]} 35. Rxh5 {[%emt 0:01:06]} e6 {
+[%emt 0:00:40]} 36. Kf3 {[%emt 0:06:32]} exd5 {[%emt 0:08:10]} 37. cxd5 {
+[%emt 0:00:01]} Rxe3+ {[%emt 0:02:56]} 38. Kxe3 {[%emt 0:00:06]} c4 {[%emt 0:
+00:19]} 39. bxc4 {[%emt 0:01:08]} b3 {[%emt 0:00:39]} 40. Kd2 {[%emt 0:00:16]}
+Rb7 {[%emt 0:50:56]} 41. Kc1 {[%emt 0:51:04]} Nd7 {[%emt 0:00:00]} 42. Bd8 {
+[%emt 0:00:00]} Nc5 {[%emt 0:00:00]} 43. Bxa5 {[%emt 0:00:00]} Nd3+ {[%emt 0:
+00:00]} 44. Kb1 {[%emt 0:00:00]} Re7 {[%emt 0:00:00]} 45. Bc3+ {[%emt 0:00:00]}
+Kg6 {[%emt 0:00:00]} 46. Rh8 {[%emt 0:00:00]} Re4 {[%emt 0:00:00]} 47. h5+ {
+[%emt 0:00:00]} Kf7 {[%emt 0:00:00]} 48. Rh7+ {[%emt 0:00:00]} Kg8 {[%emt 0:00:
+00]} 49. Rg7+ {[%emt 0:00:00]} Kf8 {[%emt 0:00:00]} 50. Rb7 {[%emt 0:00:00]}
+Rxc4 {[%emt 0:00:00]} 51. Rxb3 {[%emt 0:00:00]} Nc5 {[%emt 0:00:00]} 52. Rb8+ {
+[%emt 0:00:00]} Kf7 {[%emt 0:00:00]} 53. Ba1 {[%emt 0:00:00]} Rxa4 {[%emt 0:00:
+00]} 54. Rb6 {[%emt 0:00:00]} Ra3 {[%emt 0:00:00]} 55. Rxd6 {[%emt 0:00:00]}
+Rxg3 {[%emt 0:00:00]} 56. Rc6 {[%emt 0:00:00]} Ne4 {[%emt 0:00:00]} 57. Rc7+ {
+[%emt 0:00:00]} Kg8 {[%emt 0:00:00]} 58. Be5 {[%emt 0:00:00]} Rb3+ {[%emt 0:00:
+00]} 59. Kc2 {[%emt 0:00:00]} Rb6 {[%emt 0:00:00]} 60. d6 {[%emt 0:00:00]} Nxd6
+{[%emt 0:00:00]} 61. h6 {[%emt 0:00:00]} 1-0
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Johansson, Linus"]
+[Black "Heimann, Andreas"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2452"]
+[BlackElo "2582"]
+[Annotator "ChessBase"]
+[PlyCount "140"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Bayern Muenchen"]
+[BlackTeam "SF Deizisau"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:06]} 2. c4 {[%emt 0:00:00]} g6 {[%emt 0:
+00:04]} 3. Nc3 {[%emt 0:00:00]} d5 {[%emt 0:00:05]} 4. cxd5 {[%emt 0:00:00]}
+Nxd5 {[%emt 0:00:04]} 5. e4 {[%emt 0:00:00]} Nxc3 {[%emt 0:00:04]} 6. bxc3 {
+[%emt 0:00:00]} Bg7 {[%emt 0:00:05]} 7. Qa4+ {[%emt 0:00:00]} Nd7 {[%emt 0:00:
+28]} 8. Nf3 {[%emt 0:00:02]} O-O {[%emt 0:00:07]} 9. Be2 {[%emt 0:00:03]} Nb6 {
+[%emt 0:00:06]} 10. Qa5 {[%emt 0:00:08]} Bg4 {[%emt 0:01:19]} 11. Bg5 {[%emt 0:
+00:33]} Qe8 {[%emt 0:03:44]} 12. Rb1 {[%emt 0:00:05]} e5 {[%emt 0:17:02]} 13.
+dxe5 {[%emt 0:00:13]} Bxf3 {[%emt 0:09:03]} 14. gxf3 {[%emt 0:00:12]} Qxe5 {
+[%emt 0:00:04]} 15. Qxe5 {[%emt 0:22:28]} Bxe5 {[%emt 0:00:07]} 16. Kd2 {
+[%emt 0:00:17]} Rab8 {[%emt 0:30:30]} 17. Rb5 {[%emt 0:09:00]} Bd6 {[%emt 0:12:
+27]} 18. Ra5 {[%emt 0:18:44]} Nd7 {[%emt 0:06:28]} 19. h4 {[%emt 0:04:50]} b6 {
+[%emt 0:07:30]} 20. Rxa7 {[%emt 0:04:51]} Ra8 {[%emt 0:00:09]} 21. Rxa8 {
+[%emt 0:00:08]} Rxa8 {[%emt 0:00:07]} 22. Ra1 {[%emt 0:00:47]} Ra3 {[%emt 0:03:
+30]} 23. Kc2 {[%emt 0:12:56]} Nc5 {[%emt 0:04:06]} 24. Bf6 {[%emt 0:02:19]} Na4
+{[%emt 0:00:02]} 25. Bc4 {[%emt 0:02:55]} Be7 {[%emt 0:03:46]} 26. Be5 {
+[%emt 0:05:08]} Bd6 {[%emt 0:00:07]} 27. Bd4 {[%emt 0:01:01]} Nxc3 {[%emt 0:01:
+24]} 28. e5 {[%emt 0:01:41]} Bb4 {[%emt 0:00:04]} 29. e6 {[%emt 0:00:23]} fxe6
+{[%emt 0:01:01]} 30. Bxe6+ {[%emt 0:00:54]} Kf8 {[%emt 0:00:04]} 31. Bb3 {
+[%emt 0:06:10]} Ra5 {[%emt 0:00:43]} 32. Kd3 {[%emt 0:06:23]} Rf5 {[%emt 0:01:
+37]} 33. Kc4 {[%emt 0:03:36]} Ba5 {[%emt 0:01:38]} 34. Bxc3 {[%emt 0:03:21]}
+Rc5+ {[%emt 0:00:09]} 35. Kd3 {[%emt 0:00:07]} Rxc3+ {[%emt 0:00:35]} 36. Ke4 {
+[%emt 0:00:24]} c5 {[%emt 0:03:31]} 37. Bd5 {[%emt 0:01:10]} Rc2 {[%emt 0:00:
+31]} 38. h5 {[%emt 0:03:55]} Re2+ {[%emt 0:01:07]} 39. Kf4 {[%emt 0:00:15]}
+Bd2+ {[%emt 0:00:06]} 40. Kg3 {[%emt 0:01:43]} Re5 {[%emt 0:50:08]} 41. Be4 {
+[%emt 0:51:34]} Rg5+ {[%emt 0:02:15]} 42. Kh3 {[%emt 0:00:10]} Rxh5+ {[%emt 0:
+00:05]} 43. Kg2 {[%emt 0:00:00]} c4 {[%emt 0:00:00]} 44. a4 {[%emt 0:00:00]}
+Ke7 {[%emt 0:00:00]} 45. Rd1 {[%emt 0:00:00]} Ba5 {[%emt 0:00:00]} 46. f4 {
+[%emt 0:00:00]} c3 {[%emt 0:00:00]} 47. Bc2 {[%emt 0:00:00]} Rc5 {[%emt 0:00:
+00]} 48. Rh1 {[%emt 0:00:00]} Rh5 {[%emt 0:00:00]} 49. Rxh5 {[%emt 0:00:00]}
+gxh5 {[%emt 0:00:00]} 50. Kg3 {[%emt 0:00:00]} Kd6 {[%emt 0:00:00]} 51. Kh4 {
+[%emt 0:00:00]} Kc5 {[%emt 0:00:00]} 52. f5 {[%emt 0:00:00]} Kb4 {[%emt 0:00:
+00]} 53. f6 {[%emt 0:00:00]} Ka3 {[%emt 0:00:00]} 54. Kxh5 {[%emt 0:00:00]} Bb4
+{[%emt 0:00:00]} 55. Kh6 {[%emt 0:00:00]} Kb2 {[%emt 0:00:00]} 56. Be4 {
+[%emt 0:00:00]} Bc5 {[%emt 0:00:53]} 57. f7 {[%emt 0:00:00]} Kb3 {[%emt 0:04:
+39]} 58. Kxh7 {[%emt 0:00:00]} Kxa4 {[%emt 0:00:04]} 59. Kg8 {[%emt 0:00:00]}
+b5 {[%emt 0:00:06]} 60. f4 {[%emt 0:00:00]} b4 {[%emt 0:00:07]} 61. f5 {
+[%emt 0:00:00]} b3 {[%emt 0:00:08]} 62. f8=Q {[%emt 0:00:00]} Bxf8 {[%emt 0:00:
+06]} 63. Kxf8 {[%emt 0:00:00]} c2 {[%emt 0:00:11]} 64. Bxc2 {[%emt 0:00:00]}
+bxc2 {[%emt 0:00:05]} 65. f6 {[%emt 0:00:00]} c1=Q {[%emt 0:00:05]} 66. f7 {
+[%emt 0:00:00]} Kb5 {[%emt 0:01:16]} 67. Kg8 {[%emt 0:00:00]} Qg5+ {[%emt 0:00:
+04]} 68. Kh8 {[%emt 0:00:00]} Qf6+ {[%emt 0:00:05]} 69. Kg8 {[%emt 0:00:00]}
+Qg6+ {[%emt 0:00:04]} 70. Kh8 {[%emt 0:00:00]} Qxf7 {[%emt 0:00:04]} 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Kozul, Zdenko"]
+[Black "Fedorovsky, Michael"]
+[Result "0-1"]
+[ECO "E01"]
+[WhiteElo "2625"]
+[BlackElo "2469"]
+[Annotator "ChessBase"]
+[PlyCount "54"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "SF Deizisau"]
+[BlackTeam "Bayern Muenchen"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:06]} 2. c4 {[%emt 0:00:05]} e6 {[%emt 0:
+00:04]} 3. g3 {[%emt 0:00:39]} d5 {[%emt 0:00:21]} 4. Bg2 {[%emt 0:00:08]} dxc4
+{[%emt 0:01:08]} 5. Qa4+ {[%emt 0:05:09]} Nbd7 {[%emt 0:00:17]} 6. Bg5 {
+[%emt 0:07:00]} a6 {[%emt 0:05:07]} 7. Qxc4 {[%emt 0:03:14]} c5 {[%emt 0:01:48]
+} 8. e3 {[%emt 0:16:34]} Qa5+ {[%emt 0:12:15]} 9. Nc3 {[%emt 0:02:15]} Nb6 {
+[%emt 0:05:26]} 10. Qe2 {[%emt 0:26:52]} Nfd5 {[%emt 0:03:28]} 11. dxc5 {
+[%emt 0:01:54]} Bxc5 {[%emt 0:02:31]} 12. O-O-O {[%emt 0:02:51]} f6 {[%emt 0:
+25:13]} 13. Nxd5 {[%emt 0:02:20]} exd5 {[%emt 0:04:37]} 14. Bxf6 {[%emt 0:15:
+40]} gxf6 {[%emt 0:00:19]} 15. Qh5+ {[%emt 0:00:06]} Ke7 {[%emt 0:02:00]} 16.
+Ne2 {[%emt 0:00:07]} Be6 {[%emt 0:02:41]} 17. Kb1 {[%emt 0:01:45]} Bf7 {
+[%emt 0:12:42]} 18. Qh6 {[%emt 0:00:46]} Rad8 {[%emt 0:04:31]} 19. Nd4 {
+[%emt 0:05:11]} Bg6+ {[%emt 0:02:06]} 20. Ka1 {[%emt 0:04:30]} Kf7 {[%emt 0:00:
+06]} 21. h4 {[%emt 0:01:19]} Ba3 {[%emt 0:06:41]} 22. Rc1 {[%emt 0:05:00]}
+Bxb2+ {[%emt 0:06:58]} 23. Kxb2 {[%emt 0:00:08]} Na4+ {[%emt 0:00:09]} 24. Ka1
+{[%emt 0:01:04]} Nc3 {[%emt 0:00:20]} 25. Kb2 {[%emt 0:05:14]} Qxa2+ {[%emt 0:
+00:10]} 26. Kxc3 {[%emt 0:00:04]} Rc8+ {[%emt 0:00:13]} 27. Kb4 {[%emt 0:00:10]
+} a5+ {[%emt 0:00:26]} 0-1
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Dautov, Rustem"]
+[Black "Bezold, Michael"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[WhiteElo "2596"]
+[BlackElo "2494"]
+[Annotator "ChessBase"]
+[PlyCount "42"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "SF Deizisau"]
+[BlackTeam "Bayern Muenchen"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:01:26]} 2. Nf3 {[%emt 0:00:32]} e6 {
+[%emt 0:01:42]} 3. c4 {[%emt 0:04:22]} c5 {[%emt 0:03:13]} 4. g3 {[%emt 0:05:
+39]} cxd4 {[%emt 0:06:30]} 5. Nxd4 {[%emt 0:00:20]} a6 {[%emt 0:03:24]} 6. Bg2
+{[%emt 0:02:35]} Qc7 {[%emt 0:01:09]} 7. b3 {[%emt 0:06:54]} Bb4+ {[%emt 0:01:
+40]} 8. Bd2 {[%emt 0:00:43]} Be7 {[%emt 0:00:32]} 9. Nc3 {[%emt 0:11:11]} O-O {
+[%emt 0:07:27]} 10. O-O {[%emt 0:03:18]} Nc6 {[%emt 0:01:36]} 11. e3 {[%emt 0:
+10:06]} Re8 {[%emt 0:04:14]} 12. f4 {[%emt 0:06:46]} d5 {[%emt 0:08:39]} 13.
+Qe2 {[%emt 0:11:14]} Nxd4 {[%emt 0:10:14]} 14. exd4 {[%emt 0:00:02]} dxc4 {
+[%emt 0:00:12]} 15. bxc4 {[%emt 0:07:54]} Bd7 {[%emt 0:00:44]} 16. Rab1 {
+[%emt 0:03:08]} Bc6 {[%emt 0:01:25]} 17. c5 {[%emt 0:07:59]} Rad8 {[%emt 0:18:
+03]} 18. Bxc6 {[%emt 0:03:04]} Qxc6 {[%emt 0:00:54]} 19. Rb6 {[%emt 0:00:24]}
+Qc8 {[%emt 0:03:41]} 20. Be3 {[%emt 0:00:18]} Nd7 {[%emt 0:02:03]} 21. Rb3 {
+[%emt 0:16:33]} Nb8 {[%emt 0:02:58]} 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Lindgren, Philip"]
+[Black "Graf, Alexander"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2405"]
+[BlackElo "2585"]
+[Annotator "ChessBase"]
+[PlyCount "76"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Bayern Muenchen"]
+[BlackTeam "SF Deizisau"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. Nf3 {[%emt 0:00:00]} g6 {[%emt 0:09:21]} 2. d4 {[%emt 0:02:52]} Bg7 {
+[%emt 0:00:50]} 3. c4 {[%emt 0:04:25]} d6 {[%emt 0:00:08]} 4. Nc3 {[%emt 0:01:
+28]} Nd7 {[%emt 0:00:33]} 5. g3 {[%emt 0:08:05]} e5 {[%emt 0:01:08]} 6. Bg2 {
+[%emt 0:02:02]} Ne7 {[%emt 0:01:25]} 7. O-O {[%emt 0:05:26]} O-O {[%emt 0:00:
+17]} 8. Qd2 {[%emt 0:15:05]} Nc6 {[%emt 0:29:22]} 9. dxe5 {[%emt 0:18:28]} dxe5
+{[%emt 0:00:57]} 10. Rd1 {[%emt 0:00:56]} Re8 {[%emt 0:10:42]} 11. Ng5 {
+[%emt 0:11:55]} h6 {[%emt 0:19:47]} 12. Nge4 {[%emt 0:07:26]} Nd4 {[%emt 0:02:
+51]} 13. e3 {[%emt 0:03:08]} Ne6 {[%emt 0:00:28]} 14. Ne2 {[%emt 0:07:06]} Qe7
+{[%emt 0:05:56]} 15. b3 {[%emt 0:01:55]} f5 {[%emt 0:01:08]} 16. N4c3 {[%emt 0:
+00:24]} e4 {[%emt 0:01:52]} 17. Nd5 {[%emt 0:03:50]} Qf7 {[%emt 0:00:27]} 18.
+Bb2 {[%emt 0:00:24]} Ne5 {[%emt 0:00:30]} 19. Qc2 {[%emt 0:04:20]} g5 {[%emt 0:
+03:47]} 20. Nd4 {[%emt 0:01:49]} c6 {[%emt 0:00:45]} 21. Nxe6 {[%emt 0:01:53]}
+Bxe6 {[%emt 0:00:08]} 22. Bxe5 {[%emt 0:01:03]} Bxe5 {[%emt 0:00:12]} 23. Nc3 {
+[%emt 0:00:04]} b5 {[%emt 0:01:03]} 24. cxb5 {[%emt 0:02:49]} Rec8 {[%emt 0:04:
+11]} 25. Rac1 {[%emt 0:01:02]} cxb5 {[%emt 0:00:18]} 26. Qd2 {[%emt 0:00:11]}
+a6 {[%emt 0:03:44]} 27. Ne2 {[%emt 0:00:43]} Qf6 {[%emt 0:00:32]} 28. Nd4 {
+[%emt 0:00:45]} Bf7 {[%emt 0:02:42]} 29. Bf1 {[%emt 0:00:38]} Rxc1 {[%emt 0:01:
+36]} 30. Rxc1 {[%emt 0:01:53]} Rd8 {[%emt 0:00:34]} 31. Qa5 {[%emt 0:02:09]}
+Bxd4 {[%emt 0:00:53]} 32. exd4 {[%emt 0:00:14]} Rxd4 {[%emt 0:01:12]} 33. Rc8+
+{[%emt 0:00:52]} Kg7 {[%emt 0:00:43]} 34. Qc3 {[%emt 0:00:47]} Rd1 {[%emt 0:01:
+08]} 35. Qc5 {[%emt 0:00:45]} f4 {[%emt 0:00:41]} 36. Qf8+ {[%emt 0:00:29]} Kg6
+{[%emt 0:00:13]} 37. Rc5 {[%emt 0:00:35]} Rxf1+ {[%emt 0:00:31]} 38. Kxf1 {
+[%emt 0:00:18]} Bc4+ {[%emt 0:00:06]} 0-1
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Rafiee, Makan"]
+[Black "Schlosser, Philipp"]
+[Result "1/2-1/2"]
+[ECO "B48"]
+[WhiteElo "2348"]
+[BlackElo "2515"]
+[Annotator "ChessBase"]
+[PlyCount "50"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Bayern Muenchen"]
+[BlackTeam "SF Deizisau"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:01:49]} 2. Nf3 {[%emt 0:00:00]} e6 {[%emt 0:
+00:26]} 3. d4 {[%emt 0:00:00]} cxd4 {[%emt 0:00:07]} 4. Nxd4 {[%emt 0:00:00]}
+Nc6 {[%emt 0:00:10]} 5. Nc3 {[%emt 0:01:18]} Qc7 {[%emt 0:01:59]} 6. Be3 {
+[%emt 0:00:17]} a6 {[%emt 0:00:03]} 7. Bd3 {[%emt 0:00:16]} b5 {[%emt 0:00:46]}
+8. Nxc6 {[%emt 0:00:26]} Qxc6 {[%emt 0:00:03]} 9. a4 {[%emt 0:00:34]} b4 {
+[%emt 0:00:47]} 10. Na2 {[%emt 0:00:08]} Nf6 {[%emt 0:03:13]} 11. c3 {[%emt 0:
+03:37]} Nxe4 {[%emt 0:06:20]} 12. Nxb4 {[%emt 0:01:34]} Qb7 {[%emt 0:00:19]}
+13. O-O {[%emt 0:04:21]} Be7 {[%emt 0:02:38]} 14. a5 {[%emt 0:06:37]} O-O {
+[%emt 0:05:08]} 15. Re1 {[%emt 0:14:08]} d5 {[%emt 0:11:58]} 16. Bb6 {[%emt 0:
+02:42]} Nc5 {[%emt 0:15:05]} 17. Bc2 {[%emt 0:02:11]} Nd7 {[%emt 0:07:59]} 18.
+Nxd5 {[%emt 0:11:44]} Qxd5 {[%emt 0:00:16]} 19. Qxd5 {[%emt 0:00:04]} exd5 {
+[%emt 0:00:10]} 20. Rxe7 {[%emt 0:00:04]} Nxb6 {[%emt 0:00:10]} 21. axb6 {
+[%emt 0:00:03]} Rb8 {[%emt 0:00:14]} 22. Bb3 {[%emt 0:00:26]} Rxb6 {[%emt 0:00:
+44]} 23. Bxd5 {[%emt 0:00:07]} Rxb2 {[%emt 0:00:09]} 24. h3 {[%emt 0:00:23]}
+Rc2 {[%emt 0:06:09]} 25. Rae1 {[%emt 0:07:02]} Be6 {[%emt 0:01:44]} 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Eljanov, Pavel"]
+[Black "Schroeder, Jan-Christian"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "2710"]
+[BlackElo "2556"]
+[Annotator "ChessBase"]
+[PlyCount "61"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Dresden"]
+[BlackTeam "SV Hofheim"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:05]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:05]} 3. Bc4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:11]} 4. d3 {[%emt 0:00:
+00]} Bc5 {[%emt 0:01:01]} 5. a4 {[%emt 0:00:11]} d6 {[%emt 0:04:20]} 6. c3 {
+[%emt 0:00:28]} a5 {[%emt 0:02:13]} 7. Bg5 {[%emt 0:00:21]} h6 {[%emt 0:10:07]}
+8. Bh4 {[%emt 0:00:04]} g5 {[%emt 0:02:07]} 9. Bg3 {[%emt 0:00:05]} Ba7 {
+[%emt 0:19:46]} 10. Na3 {[%emt 0:06:41]} Be6 {[%emt 0:11:02]} 11. Bxe6 {
+[%emt 0:17:01]} fxe6 {[%emt 0:00:04]} 12. Nb5 {[%emt 0:00:24]} Bb6 {[%emt 0:02:
+24]} 13. Qe2 {[%emt 0:11:13]} Qd7 {[%emt 0:02:47]} 14. Nd2 {[%emt 0:10:21]} O-O
+{[%emt 0:12:23]} 15. Nc4 {[%emt 0:16:45]} Bc5 {[%emt 0:00:08]} 16. Rd1 {
+[%emt 0:00:10]} Qh7 {[%emt 0:07:49]} 17. h4 {[%emt 0:03:05]} g4 {[%emt 0:02:38]
+} 18. O-O {[%emt 0:00:19]} h5 {[%emt 0:05:37]} 19. d4 {[%emt 0:03:38]} exd4 {
+[%emt 0:00:04]} 20. cxd4 {[%emt 0:00:14]} Bb4 {[%emt 0:00:04]} 21. e5 {[%emt 0:
+01:58]} dxe5 {[%emt 0:01:43]} 22. Nxe5 {[%emt 0:00:19]} Nxe5 {[%emt 0:16:10]}
+23. Qxe5 {[%emt 0:02:12]} Nd5 {[%emt 0:01:00]} 24. Qxe6+ {[%emt 0:02:45]} Qf7 {
+[%emt 0:00:09]} 25. Qh6 {[%emt 0:02:33]} Ra6 {[%emt 0:01:58]} 26. Qg5+ {
+[%emt 0:03:44]} Kh7 {[%emt 0:01:02]} 27. Nc3 {[%emt 0:07:17]} Nxc3 {[%emt 0:02:
+45]} 28. bxc3 {[%emt 0:00:05]} Bxc3 {[%emt 0:00:03]} 29. Rc1 {[%emt 0:01:51]}
+Rc6 {[%emt 0:02:15]} 30. d5 {[%emt 0:00:24]} Rc4 {[%emt 0:01:58]} 31. Qe3 {
+[%emt 0:00:32]} 1-0
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Ginsburg, Gennadi"]
+[Black "Almasi, Zoltan"]
+[Result "0-1"]
+[ECO "B42"]
+[WhiteElo "2442"]
+[BlackElo "2689"]
+[Annotator "ChessBase"]
+[PlyCount "54"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "SV Hofheim"]
+[BlackTeam "Dresden"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:12]} 2. Nf3 {[%emt 0:00:36]} e6 {[%emt 0:
+00:15]} 3. d4 {[%emt 0:01:06]} cxd4 {[%emt 0:00:04]} 4. Nxd4 {[%emt 0:00:02]}
+a6 {[%emt 0:00:08]} 5. Bd3 {[%emt 0:00:28]} Nf6 {[%emt 0:00:20]} 6. Qe2 {
+[%emt 0:01:49]} d6 {[%emt 0:05:14]} 7. f4 {[%emt 0:02:39]} e5 {[%emt 0:21:17]}
+8. Nf3 {[%emt 0:08:39]} Nc6 {[%emt 0:00:16]} 9. Nc3 {[%emt 0:01:21]} Bg4 {
+[%emt 0:00:45]} 10. h3 {[%emt 0:12:32]} Nd4 {[%emt 0:08:02]} 11. Qf2 {[%emt 0:
+05:59]} Bxf3 {[%emt 0:00:14]} 12. gxf3 {[%emt 0:00:07]} Be7 {[%emt 0:00:04]}
+13. Bd2 {[%emt 0:15:05]} Qb6 {[%emt 0:09:02]} 14. Na4 {[%emt 0:15:21]} Qc6 {
+[%emt 0:01:27]} 15. Nc3 {[%emt 0:01:40]} Ne6 {[%emt 0:25:49]} 16. f5 {[%emt 0:
+03:59]} Nc5 {[%emt 0:00:26]} 17. O-O-O {[%emt 0:03:31]} d5 {[%emt 0:01:25]} 18.
+Kb1 {[%emt 0:09:51]} d4 {[%emt 0:00:51]} 19. Ne2 {[%emt 0:00:56]} Rc8 {[%emt 0:
+12:10]} 20. Bc1 {[%emt 0:04:40]} O-O {[%emt 0:02:12]} 21. Rhg1 {[%emt 0:01:44]}
+Nh5 {[%emt 0:00:23]} 22. Ka1 {[%emt 0:02:46]} g6 {[%emt 0:02:03]} 23. Qh2 {
+[%emt 0:01:40]} Nxd3 {[%emt 0:06:01]} 24. cxd3 {[%emt 0:00:11]} Bf6 {[%emt 0:
+02:40]} 25. f4 {[%emt 0:08:17]} exf4 {[%emt 0:00:12]} 26. Nxf4 {[%emt 0:00:45]}
+Qd6 {[%emt 0:01:25]} 27. Bd2 {[%emt 0:06:05]} Be5 {[%emt 0:01:53]} 0-1
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Nisipeanu, Liviu-Dieter"]
+[Black "Perske, Thore"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "2682"]
+[BlackElo "2451"]
+[Annotator "ChessBase"]
+[PlyCount "72"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Dresden"]
+[BlackTeam "SV Hofheim"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. Nf3 {[%emt 0:00:00]} Nf6 {[%emt 0:00:16]} 2. g3 {[%emt 0:00:00]} g6 {
+[%emt 0:00:33]} 3. b3 {[%emt 0:00:00]} Bg7 {[%emt 0:00:32]} 4. Bb2 {[%emt 0:00:
+01]} O-O {[%emt 0:01:31]} 5. Bg2 {[%emt 0:00:04]} d5 {[%emt 0:18:11]} 6. c4 {
+[%emt 0:08:09]} c6 {[%emt 0:14:22]} 7. O-O {[%emt 0:00:52]} a5 {[%emt 0:02:38]}
+8. d3 {[%emt 0:16:57]} Re8 {[%emt 0:04:50]} 9. Nbd2 {[%emt 0:04:12]} Nbd7 {
+[%emt 0:01:52]} 10. d4 {[%emt 0:01:51]} a4 {[%emt 0:02:28]} 11. e3 {[%emt 0:08:
+17]} b5 {[%emt 0:09:56]} 12. Ne5 {[%emt 0:05:02]} bxc4 {[%emt 0:15:42]} 13.
+bxc4 {[%emt 0:01:36]} a3 {[%emt 0:09:07]} 14. Bc3 {[%emt 0:05:53]} Nxe5 {
+[%emt 0:00:06]} 15. dxe5 {[%emt 0:00:04]} Ng4 {[%emt 0:00:17]} 16. cxd5 {
+[%emt 0:07:06]} cxd5 {[%emt 0:00:05]} 17. Nf3 {[%emt 0:00:06]} Ba6 {[%emt 0:01:
+58]} 18. Re1 {[%emt 0:00:31]} h5 {[%emt 0:05:38]} 19. Bf1 {[%emt 0:09:37]} Bxf1
+{[%emt 0:01:25]} 20. Rxf1 {[%emt 0:00:04]} Qc8 {[%emt 0:03:26]} 21. Qd3 {
+[%emt 0:13:32]} Qe6 {[%emt 0:02:22]} 22. Rad1 {[%emt 0:00:11]} Nxe5 {[%emt 0:
+00:29]} 23. Bxe5 {[%emt 0:00:32]} Bxe5 {[%emt 0:00:05]} 24. Nxe5 {[%emt 0:00:
+03]} Qxe5 {[%emt 0:00:04]} 25. Qxd5 {[%emt 0:00:05]} Qxd5 {[%emt 0:00:25]} 26.
+Rxd5 {[%emt 0:00:04]} Reb8 {[%emt 0:00:28]} 27. f3 {[%emt 0:11:10]} Rb2 {
+[%emt 0:05:38]} 28. Rf2 {[%emt 0:00:21]} Rab8 {[%emt 0:00:10]} 29. Rdd2 {
+[%emt 0:00:16]} Rxd2 {[%emt 0:02:08]} 30. Rxd2 {[%emt 0:00:04]} Rb2 {[%emt 0:
+00:09]} 31. Rf2 {[%emt 0:00:49]} Kg7 {[%emt 0:01:00]} 32. Kf1 {[%emt 0:00:04]}
+Kf6 {[%emt 0:01:00]} 33. Ke1 {[%emt 0:00:05]} Rb1+ {[%emt 0:03:03]} 34. Kd2 {
+[%emt 0:00:11]} Rb2+ {[%emt 0:00:02]} 35. Ke1 {[%emt 0:00:05]} Rb1+ {[%emt 0:
+03:37]} 36. Kd2 {[%emt 0:00:04]} Rb2+ {[%emt 0:00:05]} 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Bartel, Mateusz"]
+[Black "Gurevich, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[WhiteElo "2610"]
+[BlackElo "2472"]
+[Annotator "ChessBase"]
+[PlyCount "42"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Dresden"]
+[BlackTeam "SV Hofheim"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:01:18]} c5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:06]} a6 {[%emt 0:
+00:23]} 3. Nc3 {[%emt 0:01:02]} e6 {[%emt 0:01:23]} 4. d4 {[%emt 0:00:13]} cxd4
+{[%emt 0:00:20]} 5. Nxd4 {[%emt 0:00:07]} Qc7 {[%emt 0:00:25]} 6. Bd3 {[%emt 0:
+05:09]} Nc6 {[%emt 0:07:39]} 7. Nb3 {[%emt 0:04:15]} d6 {[%emt 0:04:01]} 8. Be3
+{[%emt 0:00:15]} Nf6 {[%emt 0:03:56]} 9. f4 {[%emt 0:02:27]} b5 {[%emt 0:04:07]
+} 10. Qf3 {[%emt 0:01:44]} Bb7 {[%emt 0:01:01]} 11. O-O {[%emt 0:02:13]} Be7 {
+[%emt 0:06:15]} 12. a4 {[%emt 0:03:22]} b4 {[%emt 0:03:38]} 13. Nb1 {[%emt 0:
+00:40]} O-O {[%emt 0:05:51]} 14. a5 {[%emt 0:08:04]} e5 {[%emt 0:13:58]} 15. f5
+{[%emt 0:00:17]} d5 {[%emt 0:04:15]} 16. N1d2 {[%emt 0:00:07]} Nb8 {[%emt 0:08:
+10]} 17. Rae1 {[%emt 0:11:23]} Nbd7 {[%emt 0:00:47]} 18. g4 {[%emt 0:07:41]}
+dxe4 {[%emt 0:03:56]} 19. Nxe4 {[%emt 0:00:08]} Nxe4 {[%emt 0:00:30]} 20. Bxe4
+{[%emt 0:00:05]} Bxe4 {[%emt 0:00:13]} 21. Qxe4 {[%emt 0:00:06]} Rac8 {[%emt 0:
+01:09]} 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Lobzhanidze, Davit"]
+[Black "Gajewski, Grzegorz"]
+[Result "1-0"]
+[ECO "B92"]
+[WhiteElo "2416"]
+[BlackElo "2601"]
+[Annotator "ChessBase"]
+[PlyCount "81"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "SV Hofheim"]
+[BlackTeam "Dresden"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:02:53]} 2. Nf3 {[%emt 0:00:00]} d6 {[%emt 0:
+00:05]} 3. d4 {[%emt 0:08:02]} cxd4 {[%emt 0:00:05]} 4. Nxd4 {[%emt 0:00:05]}
+Nf6 {[%emt 0:00:04]} 5. Nc3 {[%emt 0:00:14]} a6 {[%emt 0:00:04]} 6. Be2 {
+[%emt 0:04:26]} e5 {[%emt 0:00:14]} 7. Nb3 {[%emt 0:00:08]} Be7 {[%emt 0:00:05]
+} 8. O-O {[%emt 0:03:25]} O-O {[%emt 0:00:20]} 9. a4 {[%emt 0:03:55]} b6 {
+[%emt 0:01:35]} 10. Re1 {[%emt 0:08:05]} Bb7 {[%emt 0:08:20]} 11. Bf3 {[%emt 0:
+19:51]} Nc6 {[%emt 0:03:21]} 12. Bg5 {[%emt 0:05:50]} Nb4 {[%emt 0:03:38]} 13.
+Qd2 {[%emt 0:05:01]} Rc8 {[%emt 0:02:53]} 14. Rac1 {[%emt 0:16:55]} Rc4 {
+[%emt 0:07:00]} 15. Qe2 {[%emt 0:08:24]} Qc8 {[%emt 0:21:09]} 16. Bxf6 {
+[%emt 0:07:31]} Bxf6 {[%emt 0:00:15]} 17. Bg4 {[%emt 0:00:38]} Qc7 {[%emt 0:04:
+43]} 18. Nd2 {[%emt 0:00:24]} Rc5 {[%emt 0:00:11]} 19. Nf1 {[%emt 0:03:48]} d5
+{[%emt 0:11:13]} 20. exd5 {[%emt 0:00:39]} Nxd5 {[%emt 0:06:16]} 21. Nxd5 {
+[%emt 0:00:48]} Bxd5 {[%emt 0:00:07]} 22. Ne3 {[%emt 0:02:40]} Bb7 {[%emt 0:03:
+08]} 23. c4 {[%emt 0:00:32]} e4 {[%emt 0:04:11]} 24. Rcd1 {[%emt 0:01:05]} Bg5
+{[%emt 0:17:01]} 25. Rd7 {[%emt 0:00:42]} Qb8 {[%emt 0:01:50]} 26. Red1 {
+[%emt 0:00:58]} Bc6 {[%emt 0:00:29]} 27. b4 {[%emt 0:02:54]} Re5 {[%emt 0:00:
+53]} 28. R7d4 {[%emt 0:01:10]} Bxa4 {[%emt 0:00:34]} 29. Ra1 {[%emt 0:00:11]}
+b5 {[%emt 0:05:11]} 30. c5 {[%emt 0:03:20]} f5 {[%emt 0:01:17]} 31. Nxf5 {
+[%emt 0:01:06]} Rexf5 {[%emt 0:00:11]} 32. Bxf5 {[%emt 0:00:03]} Rxf5 {[%emt 0:
+00:24]} 33. Rxe4 {[%emt 0:01:04]} Rf8 {[%emt 0:00:41]} 34. h4 {[%emt 0:00:46]}
+Bf6 {[%emt 0:00:19]} 35. Ra3 {[%emt 0:00:07]} Rc8 {[%emt 0:04:08]} 36. Rae3 {
+[%emt 0:00:41]} Kf8 {[%emt 0:00:52]} 37. g4 {[%emt 0:00:53]} Rd8 {[%emt 0:01:
+26]} 38. g5 {[%emt 0:00:45]} Bd1 {[%emt 0:00:02]} 39. Qa2 {[%emt 0:00:27]} Bd4
+{[%emt 0:01:54]} 40. Rd3 {[%emt 0:01:20]} Bxc5 {[%emt 0:50:48]} 41. Rxd8+ {
+[%emt 0:50:27]} 1-0
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Margolin, Boris"]
+[Black "Vogel, Roven"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[WhiteElo "2388"]
+[BlackElo "2437"]
+[Annotator "ChessBase"]
+[PlyCount "63"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "SV Hofheim"]
+[BlackTeam "Dresden"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:08]} 2. Nf3 {[%emt 0:00:36]} Nc6 {
+[%emt 0:00:09]} 3. Bb5 {[%emt 0:01:46]} a6 {[%emt 0:00:09]} 4. Ba4 {[%emt 0:00:
+52]} Nf6 {[%emt 0:00:09]} 5. d3 {[%emt 0:01:14]} b5 {[%emt 0:00:32]} 6. Bb3 {
+[%emt 0:00:02]} Be7 {[%emt 0:00:35]} 7. a4 {[%emt 0:02:41]} Bb7 {[%emt 0:05:22]
+} 8. Nc3 {[%emt 0:01:29]} Nd4 {[%emt 0:05:29]} 9. Ba2 {[%emt 0:06:07]} d5 {
+[%emt 0:19:40]} 10. Nxd4 {[%emt 0:10:00]} exd4 {[%emt 0:00:57]} 11. Nxd5 {
+[%emt 0:00:07]} Nxd5 {[%emt 0:00:14]} 12. Bxd5 {[%emt 0:00:20]} Bxd5 {[%emt 0:
+00:09]} 13. exd5 {[%emt 0:00:03]} Qxd5 {[%emt 0:02:01]} 14. O-O {[%emt 0:00:36]
+} O-O {[%emt 0:01:19]} 15. Re1 {[%emt 0:04:51]} Bd6 {[%emt 0:01:27]} 16. Bd2 {
+[%emt 0:04:07]} Qc6 {[%emt 0:04:47]} 17. Re4 {[%emt 0:12:43]} Bc5 {[%emt 0:04:
+44]} 18. b4 {[%emt 0:16:00]} f5 {[%emt 0:15:45]} 19. Re1 {[%emt 0:01:54]} Bd6 {
+[%emt 0:00:22]} 20. Qb1 {[%emt 0:00:31]} Qd5 {[%emt 0:01:21]} 21. h3 {[%emt 0:
+04:19]} Rfb8 {[%emt 0:04:22]} 22. Qa2 {[%emt 0:03:04]} Qxa2 {[%emt 0:00:35]}
+23. Rxa2 {[%emt 0:00:02]} a5 {[%emt 0:00:45]} 24. axb5 {[%emt 0:11:38]} axb4 {
+[%emt 0:00:30]} 25. Rxa8 {[%emt 0:00:17]} Rxa8 {[%emt 0:00:01]} 26. b6 {
+[%emt 0:00:27]} cxb6 {[%emt 0:01:56]} 27. Rb1 {[%emt 0:02:10]} b3 {[%emt 0:10:
+20]} 28. cxb3 {[%emt 0:02:15]} Ra2 {[%emt 0:00:07]} 29. Be1 {[%emt 0:00:37]}
+Bf4 {[%emt 0:04:54]} 30. g3 {[%emt 0:04:11]} Bd2 {[%emt 0:00:15]} 31. Rd1 {
+[%emt 0:01:36]} Bxe1 {[%emt 0:13:04]} 32. Rxe1 {[%emt 0:00:07]} 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Maiwald, Jens-Uwe"]
+[Black "Zude, Arno"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2437"]
+[BlackElo "2373"]
+[Annotator "ChessBase"]
+[PlyCount "116"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Dresden"]
+[BlackTeam "SV Hofheim"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. Nf3 {[%emt 0:00:00]} d5 {[%emt 0:00:10]} 2. g3 {[%emt 0:00:00]} c6 {[%emt 0:
+01:23]} 3. Bg2 {[%emt 0:00:00]} Nf6 {[%emt 0:01:12]} 4. O-O {[%emt 0:00:07]}
+Bf5 {[%emt 0:01:48]} 5. d3 {[%emt 0:01:15]} h6 {[%emt 0:01:36]} 6. c4 {[%emt 0:
+01:15]} e6 {[%emt 0:00:17]} 7. cxd5 {[%emt 0:01:16]} exd5 {[%emt 0:06:40]} 8.
+Nc3 {[%emt 0:11:16]} Be7 {[%emt 0:01:58]} 9. Nd4 {[%emt 0:01:52]} Bh7 {[%emt 0:
+11:15]} 10. e4 {[%emt 0:00:27]} dxe4 {[%emt 0:04:40]} 11. dxe4 {[%emt 0:00:08]}
+Nbd7 {[%emt 0:09:24]} 12. Re1 {[%emt 0:08:39]} Ne5 {[%emt 0:05:15]} 13. Bf4 {
+[%emt 0:05:24]} Nfd7 {[%emt 0:03:44]} 14. Qe2 {[%emt 0:11:09]} O-O {[%emt 0:08:
+49]} 15. Rad1 {[%emt 0:00:39]} Qc7 {[%emt 0:05:15]} 16. Bh3 {[%emt 0:23:37]}
+Nb6 {[%emt 0:09:39]} 17. Nf5 {[%emt 0:02:08]} Rad8 {[%emt 0:06:22]} 18. Nxe7+ {
+[%emt 0:02:58]} Qxe7 {[%emt 0:00:02]} 19. f3 {[%emt 0:01:33]} Bg6 {[%emt 0:01:
+44]} 20. Bf1 {[%emt 0:07:56]} f6 {[%emt 0:02:36]} 21. Kg2 {[%emt 0:00:18]} Bh5
+{[%emt 0:00:43]} 22. g4 {[%emt 0:00:20]} Bf7 {[%emt 0:00:12]} 23. b3 {[%emt 0:
+00:33]} h5 {[%emt 0:04:02]} 24. h3 {[%emt 0:00:09]} hxg4 {[%emt 0:00:28]} 25.
+hxg4 {[%emt 0:00:05]} Rd7 {[%emt 0:04:56]} 26. Qe3 {[%emt 0:05:01]} Rfd8 {
+[%emt 0:01:16]} 27. Be2 {[%emt 0:08:40]} Nc8 {[%emt 0:03:13]} 28. Rxd7 {
+[%emt 0:03:59]} Rxd7 {[%emt 0:00:14]} 29. Bg3 {[%emt 0:00:11]} Be6 {[%emt 0:02:
+45]} 30. g5 {[%emt 0:02:04]} Ng6 {[%emt 0:07:34]} 31. f4 {[%emt 0:07:31]} f5 {
+[%emt 0:00:17]} 32. Bh5 {[%emt 0:01:19]} Nf8 {[%emt 0:01:11]} 33. exf5 {
+[%emt 0:02:36]} Bxf5 {[%emt 0:00:02]} 34. Qf2 {[%emt 0:00:56]} Qb4 {[%emt 0:00:
+41]} 35. Re3 {[%emt 0:00:59]} Ne7 {[%emt 0:00:48]} 36. Be2 {[%emt 0:00:28]} b5
+{[%emt 0:00:47]} 37. Bf3 {[%emt 0:00:02]} Nfg6 {[%emt 0:00:14]} 38. Kg1 {
+[%emt 0:01:02]} Kf8 {[%emt 0:00:58]} 39. Bg2 {[%emt 0:00:31]} Rd4 {[%emt 0:00:
+28]} 40. Rf3 {[%emt 0:01:00]} Kg8 {[%emt 0:54:17]} 41. Bf1 {[%emt 0:15:53]} a6
+{[%emt 0:00:00]} 42. Bc4+ {[%emt 0:01:57]} Rxc4 {[%emt 0:00:00]} 43. bxc4 {
+[%emt 0:00:03]} Qxc4 {[%emt 0:00:00]} 44. Qd2 {[%emt 0:13:25]} b4 {[%emt 0:00:
+00]} 45. Nd1 {[%emt 0:00:38]} Be4 {[%emt 0:00:00]} 46. Rf2 {[%emt 0:05:56]} Nf5
+{[%emt 0:00:00]} 47. Ne3 {[%emt 0:00:51]} Qc5 {[%emt 0:00:00]} 48. Nxf5 {
+[%emt 0:00:58]} Bxf5 {[%emt 0:00:00]} 49. Kh2 {[%emt 0:00:26]} Ne7 {[%emt 0:00:
+00]} 50. Qd8+ {[%emt 0:01:42]} Kh7 {[%emt 0:00:00]} 51. Qf8 {[%emt 0:02:14]}
+Qe3 {[%emt 0:00:00]} 52. g6+ {[%emt 0:04:11]} Bxg6 {[%emt 0:00:00]} 53. f5 {
+[%emt 0:00:13]} Nxf5 {[%emt 0:00:00]} 54. Rxf5 {[%emt 0:00:10]} Bxf5 {[%emt 0:
+00:00]} 55. Qxf5+ {[%emt 0:00:01]} Kg8 {[%emt 0:00:00]} 56. Qc8+ {[%emt 0:00:
+23]} Kh7 {[%emt 0:00:00]} 57. Qxa6 {[%emt 0:01:10]} b3 {[%emt 0:02:10]} 58.
+axb3 {[%emt 0:00:22]} Qxb3 {[%emt 0:00:09]} 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Brendel, Oliver"]
+[Black "Moehn, Hans"]
+[Result "1-0"]
+[ECO "A37"]
+[WhiteElo "2341"]
+[BlackElo "2365"]
+[Annotator "ChessBase"]
+[PlyCount "117"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "SV Hofheim"]
+[BlackTeam "Dresden"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. c4 {[%emt 0:00:00]} g6 {[%emt 0:00:15]} 2. g3 {[%emt 0:00:00]} Bg7 {[%emt 0:
+00:10]} 3. Bg2 {[%emt 0:00:09]} c5 {[%emt 0:00:07]} 4. Nf3 {[%emt 0:00:30]} Nc6
+{[%emt 0:00:06]} 5. Nc3 {[%emt 0:00:44]} d6 {[%emt 0:00:17]} 6. a3 {[%emt 0:02:
+10]} e6 {[%emt 0:01:12]} 7. b4 {[%emt 0:02:50]} Nge7 {[%emt 0:00:24]} 8. Rb1 {
+[%emt 0:00:30]} b6 {[%emt 0:00:19]} 9. h4 {[%emt 0:04:56]} Bb7 {[%emt 0:01:47]}
+10. h5 {[%emt 0:05:44]} Nf5 {[%emt 0:01:10]} 11. g4 {[%emt 0:17:39]} Nfd4 {
+[%emt 0:06:09]} 12. h6 {[%emt 0:06:24]} Nxf3+ {[%emt 0:05:17]} 13. Bxf3 {
+[%emt 0:00:08]} Be5 {[%emt 0:01:18]} 14. b5 {[%emt 0:29:18]} Na5 {[%emt 0:00:
+21]} 15. Bxb7 {[%emt 0:00:34]} Nxb7 {[%emt 0:00:06]} 16. Bb2 {[%emt 0:01:34]}
+Qe7 {[%emt 0:17:36]} 17. e3 {[%emt 0:00:52]} Rf8 {[%emt 0:05:27]} 18. f4 {
+[%emt 0:00:30]} Bh8 {[%emt 0:02:31]} 19. Qf3 {[%emt 0:00:42]} O-O-O {[%emt 0:
+03:11]} 20. g5 {[%emt 0:04:05]} f5 {[%emt 0:02:10]} 21. Kf2 {[%emt 0:03:58]} d5
+{[%emt 0:06:02]} 22. cxd5 {[%emt 0:04:50]} Bxc3 {[%emt 0:00:45]} 23. Bxc3 {
+[%emt 0:01:02]} Rxd5 {[%emt 0:00:27]} 24. Kg3 {[%emt 0:05:11]} Qd7 {[%emt 0:06:
+25]} 25. a4 {[%emt 0:04:54]} Nd6 {[%emt 0:05:23]} 26. d3 {[%emt 0:02:21]} c4 {
+[%emt 0:07:17]} 27. Bg7 {[%emt 0:01:49]} Rd8 {[%emt 0:03:04]} 28. Rbc1 {
+[%emt 0:00:44]} Qb7 {[%emt 0:02:34]} 29. Be5 {[%emt 0:04:12]} Rxd3 {[%emt 0:11:
+37]} 30. Bxd6 {[%emt 0:00:06]} Qxf3+ {[%emt 0:01:58]} 31. Kxf3 {[%emt 0:00:06]}
+R3xd6 {[%emt 0:00:42]} 32. Rxc4+ {[%emt 0:00:07]} Kd7 {[%emt 0:00:13]} 33. Rhc1
+{[%emt 0:00:49]} Ke7 {[%emt 0:00:09]} 34. Rc7+ {[%emt 0:01:58]} R8d7 {[%emt 0:
+06:05]} 35. Rc8 {[%emt 0:00:12]} Rd8 {[%emt 0:00:05]} 36. R8c4 {[%emt 0:03:08]}
+R8d7 {[%emt 0:03:50]} 37. R1c2 {[%emt 0:00:49]} Rd1 {[%emt 0:05:00]} 38. Rc8 {
+[%emt 0:01:28]} Rd8 {[%emt 0:00:50]} 39. R8c7+ {[%emt 0:01:09]} R8d7 {[%emt 0:
+01:58]} 40. Rc8 {[%emt 0:00:13]} Rd8 {[%emt 0:50:04]} 41. R8c6 {[%emt 0:12:34]}
+R8d7 {[%emt 0:00:00]} 42. a5 {[%emt 0:03:00]} bxa5 {[%emt 0:00:00]} 43. Ra6 {
+[%emt 0:05:30]} R1d6 {[%emt 0:00:00]} 44. Rxa5 {[%emt 0:00:56]} Rb7 {[%emt 0:
+00:00]} 45. Ra6 {[%emt 0:05:58]} Rdd7 {[%emt 0:00:00]} 46. Rc8 {[%emt 0:03:48]}
+Rd8 {[%emt 0:00:00]} 47. Rxd8 {[%emt 0:00:16]} Kxd8 {[%emt 0:00:00]} 48. Rxe6 {
+[%emt 0:00:10]} Kd7 {[%emt 0:00:00]} 49. Re5 {[%emt 0:00:26]} Rc7 {[%emt 0:00:
+00]} 50. e4 {[%emt 0:07:30]} Rc3+ {[%emt 0:00:00]} 51. Ke2 {[%emt 0:00:08]}
+fxe4 {[%emt 0:00:00]} 52. Rxe4 {[%emt 0:00:16]} Rc5 {[%emt 0:00:00]} 53. Ra4 {
+[%emt 0:00:25]} Rc7 {[%emt 0:00:00]} 54. Ra6 {[%emt 0:00:35]} Ke8 {[%emt 0:02:
+47]} 55. f5 {[%emt 0:07:15]} gxf5 {[%emt 0:00:56]} 56. g6 {[%emt 0:00:17]} hxg6
+{[%emt 0:02:51]} 57. b6 {[%emt 0:00:14]} Re7+ {[%emt 0:00:53]} 58. Kf2 {
+[%emt 0:00:18]} axb6 {[%emt 0:01:09]} 59. Ra8+ {[%emt 0:00:13]} 1-0
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Piorun, Kacper"]
+[Black "Howell, David W L"]
+[Result "0-1"]
+[ECO "C65"]
+[WhiteElo "2659"]
+[BlackElo "2682"]
+[Annotator "ChessBase"]
+[PlyCount "120"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "SFR Berlin"]
+[BlackTeam "Hockenheim"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:22]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:12]} 3. Bb5 {[%emt 0:00:00]} Nf6 {[%emt 0:00:29]} 4. d3 {[%emt 0:00:
+05]} Bc5 {[%emt 0:00:10]} 5. Bxc6 {[%emt 0:00:20]} dxc6 {[%emt 0:00:13]} 6.
+Nbd2 {[%emt 0:00:15]} O-O {[%emt 0:01:03]} 7. O-O {[%emt 0:03:40]} Nd7 {
+[%emt 0:02:04]} 8. Nc4 {[%emt 0:04:41]} Re8 {[%emt 0:01:23]} 9. Kh1 {[%emt 0:
+01:55]} b5 {[%emt 0:14:23]} 10. Na5 {[%emt 0:10:44]} Qf6 {[%emt 0:00:50]} 11.
+Bg5 {[%emt 0:04:10]} Qd6 {[%emt 0:05:11]} 12. Nh4 {[%emt 0:11:13]} Nf8 {
+[%emt 0:05:39]} 13. Nb3 {[%emt 0:13:26]} Bb6 {[%emt 0:02:05]} 14. Nf5 {[%emt 0:
+05:52]} Bxf5 {[%emt 0:10:33]} 15. exf5 {[%emt 0:00:01]} e4 {[%emt 0:00:19]} 16.
+d4 {[%emt 0:00:14]} Qd5 {[%emt 0:28:57]} 17. Qg4 {[%emt 0:01:17]} h5 {[%emt 0:
+00:06]} 18. Qf4 {[%emt 0:12:00]} Nh7 {[%emt 0:04:07]} 19. a4 {[%emt 0:14:56]}
+a5 {[%emt 0:04:16]} 20. Bh4 {[%emt 0:04:31]} Bxd4 {[%emt 0:01:20]} 21. Nxd4 {
+[%emt 0:05:37]} Qxd4 {[%emt 0:00:08]} 22. b3 {[%emt 0:01:15]} Qe5 {[%emt 0:08:
+12]} 23. Bg3 {[%emt 0:00:39]} Qxf4 {[%emt 0:03:33]} 24. Bxf4 {[%emt 0:00:02]}
+Nf6 {[%emt 0:00:10]} 25. c4 {[%emt 0:00:30]} bxc4 {[%emt 0:06:20]} 26. bxc4 {
+[%emt 0:00:07]} Ng4 {[%emt 0:00:18]} 27. Bxc7 {[%emt 0:03:37]} Nh6 {[%emt 0:00:
+55]} 28. f6 {[%emt 0:00:32]} gxf6 {[%emt 0:00:07]} 29. h3 {[%emt 0:03:38]} Kg7
+{[%emt 0:04:12]} 30. Rab1 {[%emt 0:06:02]} Nf5 {[%emt 0:00:17]} 31. Rb6 {
+[%emt 0:01:48]} e3 {[%emt 0:06:12]} 32. fxe3 {[%emt 0:00:04]} Nxe3 {[%emt 0:00:
+06]} 33. Rf4 {[%emt 0:02:01]} Re6 {[%emt 0:01:24]} 34. Rb8 {[%emt 0:00:45]}
+Rxb8 {[%emt 0:00:33]} 35. Bxb8 {[%emt 0:00:02]} Re7 {[%emt 0:01:12]} 36. Bd6 {
+[%emt 0:01:23]} Rb7 {[%emt 0:00:18]} 37. Bc5 {[%emt 0:00:30]} Rb1+ {[%emt 0:00:
+40]} 38. Kh2 {[%emt 0:00:01]} Nf1+ {[%emt 0:00:17]} 39. Kg1 {[%emt 0:00:03]}
+Nd2+ {[%emt 0:00:08]} 40. Kf2 {[%emt 0:01:30]} Kg6 {[%emt 0:51:12]} 41. Ke2 {
+[%emt 0:07:42]} Nb3 {[%emt 0:00:00]} 42. Be7 {[%emt 0:06:39]} f5 {[%emt 0:00:
+00]} 43. Kd3 {[%emt 0:00:43]} Re1 {[%emt 0:00:00]} 44. Bf8 {[%emt 0:00:33]}
+Nc1+ {[%emt 0:00:00]} 45. Kd2 {[%emt 0:01:31]} Re8 {[%emt 0:00:00]} 46. Bd6 {
+[%emt 0:04:46]} Ne2 {[%emt 0:00:00]} 47. Rf2 {[%emt 0:13:38]} Rd8 {[%emt 0:00:
+00]} 48. c5 {[%emt 0:02:49]} Ng3 {[%emt 0:00:00]} 49. Ke3 {[%emt 0:00:28]} Ne4
+{[%emt 0:00:00]} 50. Rc2 {[%emt 0:01:07]} Rd7 {[%emt 0:02:09]} 51. Be5 {
+[%emt 0:06:56]} h4 {[%emt 0:02:54]} 52. Bd4 {[%emt 0:02:02]} Ng5 {[%emt 0:00:
+53]} 53. Rc4 {[%emt 0:00:54]} Ne4 {[%emt 0:00:26]} 54. Rc2 {[%emt 0:00:35]} Rd5
+{[%emt 0:00:32]} 55. Rc4 {[%emt 0:01:34]} Kg5 {[%emt 0:00:03]} 56. Rc2 {
+[%emt 0:00:56]} Ng3 {[%emt 0:00:46]} 57. Rc4 {[%emt 0:01:28]} f4+ {[%emt 0:00:
+20]} 58. Kf3 {[%emt 0:00:46]} Kf5 {[%emt 0:00:41]} 59. Kf2 {[%emt 0:00:59]} Rd7
+{[%emt 0:00:43]} 60. Ke1 {[%emt 0:02:08]} Re7+ {[%emt 0:00:26]} 0-1
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Moiseenko, Alexander"]
+[Black "Mista, Aleksander"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[WhiteElo "2660"]
+[BlackElo "2575"]
+[Annotator "ChessBase"]
+[PlyCount "119"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Hockenheim"]
+[BlackTeam "SFR Berlin"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:04]} 2. c4 {[%emt 0:00:00]} e6 {[%emt 0:
+00:05]} 3. Nf3 {[%emt 0:00:35]} d5 {[%emt 0:00:09]} 4. Nc3 {[%emt 0:00:24]}
+Nbd7 {[%emt 0:00:05]} 5. cxd5 {[%emt 0:07:20]} exd5 {[%emt 0:00:04]} 6. Bf4 {
+[%emt 0:02:29]} Nb6 {[%emt 0:09:08]} 7. e3 {[%emt 0:11:31]} Bf5 {[%emt 0:06:40]
+} 8. Ne5 {[%emt 0:03:35]} Bd6 {[%emt 0:04:32]} 9. Bb5+ {[%emt 0:17:11]} c6 {
+[%emt 0:03:47]} 10. Nxc6 {[%emt 0:00:38]} bxc6 {[%emt 0:00:04]} 11. Bxc6+ {
+[%emt 0:00:04]} Bd7 {[%emt 0:07:01]} 12. Bxa8 {[%emt 0:00:20]} Bxf4 {[%emt 0:
+00:06]} 13. exf4 {[%emt 0:05:12]} Qe7+ {[%emt 0:01:24]} 14. Qe2 {[%emt 0:03:14]
+} Nxa8 {[%emt 0:00:15]} 15. Qe5 {[%emt 0:02:10]} Nc7 {[%emt 0:22:32]} 16. O-O {
+[%emt 0:02:28]} Kd8 {[%emt 0:00:38]} 17. Rac1 {[%emt 0:02:19]} Qe6 {[%emt 0:06:
+46]} 18. b3 {[%emt 0:10:24]} Re8 {[%emt 0:04:56]} 19. Na4 {[%emt 0:05:11]} Qxe5
+{[%emt 0:00:40]} 20. fxe5 {[%emt 0:04:27]} Bxa4 {[%emt 0:00:07]} 21. bxa4 {
+[%emt 0:01:01]} Nd7 {[%emt 0:00:04]} 22. Rc6 {[%emt 0:01:17]} Re6 {[%emt 0:01:
+51]} 23. Rfc1 {[%emt 0:06:37]} Rxc6 {[%emt 0:00:28]} 24. Rxc6 {[%emt 0:00:01]}
+Nb6 {[%emt 0:06:09]} 25. f4 {[%emt 0:01:21]} Nc4 {[%emt 0:12:13]} 26. f5 {
+[%emt 0:06:54]} Kd7 {[%emt 0:01:12]} 27. Rc5 {[%emt 0:00:51]} Ne3 {[%emt 0:01:
+10]} 28. e6+ {[%emt 0:02:58]} fxe6 {[%emt 0:00:05]} 29. fxe6+ {[%emt 0:00:02]}
+Nxe6 {[%emt 0:00:07]} 30. Ra5 {[%emt 0:00:19]} Nc7 {[%emt 0:03:31]} 31. Rxa7 {
+[%emt 0:00:16]} Kc6 {[%emt 0:00:47]} 32. Ra5 {[%emt 0:03:02]} Nf5 {[%emt 0:00:
+05]} 33. Rc5+ {[%emt 0:00:26]} Kd6 {[%emt 0:00:04]} 34. Kf2 {[%emt 0:01:27]}
+Nxd4 {[%emt 0:00:08]} 35. Rc3 {[%emt 0:00:19]} Nc6 {[%emt 0:01:15]} 36. Ke1 {
+[%emt 0:03:06]} d4 {[%emt 0:00:17]} 37. Rb3 {[%emt 0:01:05]} Na5 {[%emt 0:02:
+04]} 38. Rb8 {[%emt 0:00:54]} Nc4 {[%emt 0:03:23]} 39. Rd8+ {[%emt 0:01:46]}
+Kc5 {[%emt 0:00:14]} 40. Rc8 {[%emt 0:00:21]} Kc6 {[%emt 0:50:45]} 41. Ke2 {
+[%emt 0:51:08]} Kd7 {[%emt 0:05:19]} 42. Rh8 {[%emt 0:01:19]} Ne6 {[%emt 0:01:
+05]} 43. Rxh7 {[%emt 0:01:05]} Kc6 {[%emt 0:01:37]} 44. g3 {[%emt 0:02:27]} Nc5
+{[%emt 0:02:48]} 45. Rh8 {[%emt 0:00:00]} d3+ {[%emt 0:00:00]} 46. Kd1 {
+[%emt 0:00:00]} Kd5 {[%emt 0:00:00]} 47. Rd8+ {[%emt 0:00:00]} Ke4 {[%emt 0:00:
+00]} 48. a5 {[%emt 0:00:00]} Nxa5 {[%emt 0:00:00]} 49. Kd2 {[%emt 0:00:00]}
+Nc4+ {[%emt 0:00:00]} 50. Kc3 {[%emt 0:00:00]} Ne5 {[%emt 0:00:00]} 51. Re8 {
+[%emt 0:00:00]} Na4+ {[%emt 0:00:00]} 52. Kd2 {[%emt 0:00:00]} Nb2 {[%emt 0:00:
+00]} 53. Kc3 {[%emt 0:00:00]} Nbc4 {[%emt 0:00:00]} 54. a4 {[%emt 0:00:00]} g6
+{[%emt 0:00:00]} 55. h4 {[%emt 0:00:00]} Kf5 {[%emt 0:00:00]} 56. Rd8 {[%emt 0:
+00:00]} Nb6 {[%emt 0:00:00]} 57. Rd4 {[%emt 0:00:00]} Ke6 {[%emt 0:00:00]} 58.
+a5 {[%emt 0:00:00]} Nd5+ {[%emt 0:00:00]} 59. Kb3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:06:52]} 60. Rxd3 {[%emt 0:00:00]} 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Schreiner, Peter"]
+[Black "Buhmann, Rainer"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2452"]
+[BlackElo "2597"]
+[Annotator "ChessBase"]
+[PlyCount "31"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "SFR Berlin"]
+[BlackTeam "Hockenheim"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. Nf3 {[%emt 0:02:14]} d5 {[%emt 0:00:17]} 2. g3 {[%emt 0:00:24]} Nf6 {
+[%emt 0:01:36]} 3. Bg2 {[%emt 0:00:11]} e6 {[%emt 0:00:05]} 4. O-O {[%emt 0:00:
+23]} Be7 {[%emt 0:00:13]} 5. d4 {[%emt 0:00:32]} b5 {[%emt 0:01:38]} 6. a4 {
+[%emt 0:05:15]} b4 {[%emt 0:02:18]} 7. c4 {[%emt 0:00:05]} bxc3 {[%emt 0:03:40]
+} 8. bxc3 {[%emt 0:00:08]} Ba6 {[%emt 0:03:05]} 9. Ne5 {[%emt 0:02:22]} Nfd7 {
+[%emt 0:06:53]} 10. Nd3 {[%emt 0:01:34]} O-O {[%emt 0:35:57]} 11. Re1 {[%emt 0:
+08:58]} Nf6 {[%emt 0:11:27]} 12. Ne5 {[%emt 0:25:35]} Nfd7 {[%emt 0:03:12]} 13.
+Nd3 {[%emt 0:02:57]} Nf6 {[%emt 0:00:05]} 14. Ne5 {[%emt 0:00:14]} Nfd7 {
+[%emt 0:00:44]} 15. Nd3 {[%emt 0:00:17]} Nf6 {[%emt 0:00:12]} 16. Ne5 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Wagner, Dennis"]
+[Black "Schneider, Ilja"]
+[Result "1-0"]
+[ECO "A11"]
+[WhiteElo "2557"]
+[BlackElo "2519"]
+[Annotator "ChessBase"]
+[PlyCount "107"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Hockenheim"]
+[BlackTeam "SFR Berlin"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. c4 {[%emt 0:00:00]} c6 {[%emt 0:00:14]} 2. Nf3 {[%emt 0:00:00]} d5 {[%emt 0:
+00:16]} 3. g3 {[%emt 0:00:00]} Nf6 {[%emt 0:01:55]} 4. Bg2 {[%emt 0:00:12]} Bg4
+{[%emt 0:01:03]} 5. Ne5 {[%emt 0:00:09]} Be6 {[%emt 0:01:07]} 6. cxd5 {[%emt 0:
+00:08]} Bxd5 {[%emt 0:00:04]} 7. Nf3 {[%emt 0:00:08]} c5 {[%emt 0:00:05]} 8.
+Nc3 {[%emt 0:00:37]} Bc6 {[%emt 0:00:06]} 9. O-O {[%emt 0:00:10]} e6 {[%emt 0:
+00:39]} 10. Qc2 {[%emt 0:00:18]} Nbd7 {[%emt 0:15:44]} 11. e4 {[%emt 0:03:10]}
+e5 {[%emt 0:04:35]} 12. d3 {[%emt 0:01:23]} Be7 {[%emt 0:00:50]} 13. a4 {
+[%emt 0:04:01]} O-O {[%emt 0:01:05]} 14. Nd2 {[%emt 0:00:45]} Ne8 {[%emt 0:18:
+35]} 15. Nc4 {[%emt 0:15:11]} Nc7 {[%emt 0:00:28]} 16. Bh3 {[%emt 0:06:05]} Na6
+{[%emt 0:05:06]} 17. Qe2 {[%emt 0:15:06]} Bf6 {[%emt 0:04:00]} 18. Be3 {
+[%emt 0:13:55]} b6 {[%emt 0:09:05]} 19. f4 {[%emt 0:17:56]} Nb4 {[%emt 0:00:42]
+} 20. Bxd7 {[%emt 0:15:30]} Qxd7 {[%emt 0:00:20]} 21. fxe5 {[%emt 0:00:04]} Be7
+{[%emt 0:00:19]} 22. Rad1 {[%emt 0:00:06]} Rad8 {[%emt 0:02:02]} 23. b3 {
+[%emt 0:01:44]} Qe6 {[%emt 0:01:10]} 24. Na2 {[%emt 0:04:47]} Nxa2 {[%emt 0:10:
+28]} 25. Qxa2 {[%emt 0:00:02]} Rd7 {[%emt 0:00:37]} 26. Qe2 {[%emt 0:02:48]}
+Rfd8 {[%emt 0:00:27]} 27. Bc1 {[%emt 0:00:49]} Bb7 {[%emt 0:00:42]} 28. Bb2 {
+[%emt 0:00:22]} Ba6 {[%emt 0:00:56]} 29. Rf3 {[%emt 0:02:06]} Bf8 {[%emt 0:01:
+24]} 30. Rdf1 {[%emt 0:00:29]} Qc6 {[%emt 0:05:13]} 31. Qc2 {[%emt 0:01:45]}
+Qe6 {[%emt 0:02:13]} 32. Qc3 {[%emt 0:00:21]} Bxc4 {[%emt 0:03:31]} 33. bxc4 {
+[%emt 0:00:31]} Qc6 {[%emt 0:00:26]} 34. Qc2 {[%emt 0:00:42]} Re8 {[%emt 0:02:
+12]} 35. Bc3 {[%emt 0:02:04]} Qc7 {[%emt 0:00:40]} 36. Qf2 {[%emt 0:00:36]} g6
+{[%emt 0:00:37]} 37. Rf6 {[%emt 0:03:11]} Bg7 {[%emt 0:00:29]} 38. Rd6 {
+[%emt 0:00:34]} Bxe5 {[%emt 0:00:42]} 39. Bxe5 {[%emt 0:00:28]} Rxe5 {[%emt 0:
+00:05]} 40. Rd5 {[%emt 0:00:15]} Re8 {[%emt 1:07:53]} 41. a5 {[%emt 0:04:31]}
+Rxd5 {[%emt 0:00:00]} 42. cxd5 {[%emt 0:05:46]} c4 {[%emt 0:00:00]} 43. d6 {
+[%emt 0:03:20]} Qd7 {[%emt 0:00:00]} 44. axb6 {[%emt 0:11:26]} cxd3 {[%emt 0:
+00:00]} 45. bxa7 {[%emt 0:00:47]} Ra8 {[%emt 0:00:00]} 46. e5 {[%emt 0:03:40]}
+Qxa7 {[%emt 0:00:00]} 47. Qxa7 {[%emt 0:02:37]} Rxa7 {[%emt 0:00:00]} 48. Kf2 {
+[%emt 0:06:08]} Ra5 {[%emt 0:00:00]} 49. Ke3 {[%emt 0:01:29]} Rxe5+ {[%emt 0:
+00:00]} 50. Kd4 {[%emt 0:00:04]} Ra5 {[%emt 0:00:00]} 51. d7 {[%emt 0:03:12]}
+Ra8 {[%emt 0:00:00]} 52. Kc5 {[%emt 0:00:54]} f5 {[%emt 0:00:00]} 53. Rd1 {
+[%emt 0:08:17]} Kf7 {[%emt 0:00:00]} 54. Kd6 {[%emt 0:00:05]} 1-0
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Seyb, Alexander"]
+[Black "Banusz, Tamas"]
+[Result "0-1"]
+[ECO "C45"]
+[WhiteElo "2393"]
+[BlackElo "2640"]
+[Annotator "ChessBase"]
+[PlyCount "117"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "SFR Berlin"]
+[BlackTeam "Hockenheim"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:11]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:04]} 3. d4 {[%emt 0:00:00]} exd4 {[%emt 0:00:07]} 4. Nxd4 {[%emt 0:
+00:00]} Nf6 {[%emt 0:00:06]} 5. Nxc6 {[%emt 0:00:00]} bxc6 {[%emt 0:00:04]} 6.
+e5 {[%emt 0:00:01]} Qe7 {[%emt 0:00:05]} 7. Qe2 {[%emt 0:00:05]} Nd5 {[%emt 0:
+00:05]} 8. c4 {[%emt 0:00:06]} Nb6 {[%emt 0:00:08]} 9. Nc3 {[%emt 0:00:06]} Qe6
+{[%emt 0:00:06]} 10. Qe4 {[%emt 0:00:07]} g6 {[%emt 0:00:05]} 11. f4 {[%emt 0:
+00:19]} d5 {[%emt 0:00:37]} 12. cxd5 {[%emt 0:00:10]} cxd5 {[%emt 0:00:05]} 13.
+Qc2 {[%emt 0:00:07]} a6 {[%emt 0:00:52]} 14. Be2 {[%emt 0:02:54]} c5 {[%emt 0:
+05:39]} 15. O-O {[%emt 0:04:43]} Be7 {[%emt 0:03:49]} 16. Bf3 {[%emt 0:07:25]}
+Bb7 {[%emt 0:08:43]} 17. a4 {[%emt 0:15:17]} Rb8 {[%emt 0:08:52]} 18. a5 {
+[%emt 0:00:55]} Nd7 {[%emt 0:00:18]} 19. Bd2 {[%emt 0:22:42]} O-O {[%emt 0:11:
+44]} 20. Rae1 {[%emt 0:01:25]} d4 {[%emt 0:02:56]} 21. Ne4 {[%emt 0:05:30]} c4
+{[%emt 0:01:13]} 22. Kh1 {[%emt 0:13:02]} Rfd8 {[%emt 0:13:14]} 23. f5 {
+[%emt 0:10:20]} Qxf5 {[%emt 0:03:01]} 24. Qxc4 {[%emt 0:00:18]} Nxe5 {[%emt 0:
+02:48]} 25. Qc7 {[%emt 0:00:07]} Nxf3 {[%emt 0:06:45]} 26. Rxf3 {[%emt 0:01:34]
+} Qd7 {[%emt 0:01:40]} 27. Nf6+ {[%emt 0:06:38]} Bxf6 {[%emt 0:00:14]} 28. Qxd7
+{[%emt 0:00:02]} Rxd7 {[%emt 0:00:08]} 29. Rxf6 {[%emt 0:00:04]} Kg7 {[%emt 0:
+06:22]} 30. Rf2 {[%emt 0:03:30]} f5 {[%emt 0:03:15]} 31. Bf4 {[%emt 0:00:39]}
+Rc8 {[%emt 0:00:43]} 32. Rd2 {[%emt 0:00:36]} d3 {[%emt 0:04:32]} 33. Be5+ {
+[%emt 0:01:10]} Kf7 {[%emt 0:00:07]} 34. Bc3 {[%emt 0:00:03]} Be4 {[%emt 0:01:
+46]} 35. Kg1 {[%emt 0:02:14]} Ke6 {[%emt 0:03:32]} 36. Kf2 {[%emt 0:00:08]} Kd5
+{[%emt 0:00:21]} 37. Ra1 {[%emt 0:01:54]} f4 {[%emt 0:06:12]} 38. Rdd1 {
+[%emt 0:03:55]} Re7 {[%emt 0:00:55]} 39. Re1 {[%emt 0:01:01]} Rc4 {[%emt 0:02:
+04]} 40. h4 {[%emt 0:04:31]} Rb7 {[%emt 0:53:35]} 41. Ra2 {[%emt 0:50:07]} h6 {
+[%emt 0:01:04]} 42. Rh1 {[%emt 0:02:24]} Ke6 {[%emt 0:02:28]} 43. Rg1 {[%emt 0:
+01:14]} Kf5 {[%emt 0:08:36]} 44. g4+ {[%emt 0:00:23]} Ke6 {[%emt 0:00:08]} 45.
+Rga1 {[%emt 0:00:00]} Kd5 {[%emt 0:00:00]} 46. Ra4 {[%emt 0:00:00]} Rxb2+ {
+[%emt 0:00:00]} 47. Bxb2 {[%emt 0:00:00]} Rc2+ {[%emt 0:00:00]} 48. Kf1 {
+[%emt 0:00:00]} Rxb2 {[%emt 0:00:00]} 49. R4a2 {[%emt 0:00:00]} Rxa2 {[%emt 0:
+00:00]} 50. Rxa2 {[%emt 0:00:00]} Kd4 {[%emt 0:00:00]} 51. g5 {[%emt 0:00:00]}
+h5 {[%emt 0:00:00]} 52. Ke1 {[%emt 0:00:00]} Ke3 {[%emt 0:00:00]} 53. Rb2 {
+[%emt 0:00:00]} Kf3 {[%emt 0:00:00]} 54. Rb4 {[%emt 0:00:00]} Bf5 {[%emt 0:00:
+00]} 55. Kd2 {[%emt 0:00:00]} Kg3 {[%emt 0:00:00]} 56. Rd4 {[%emt 0:00:00]} f3
+{[%emt 0:00:00]} 57. Ke3 {[%emt 0:00:00]} Bg4 {[%emt 0:00:00]} 58. Rxd3 {
+[%emt 0:00:00]} f2 {[%emt 0:00:00]} 59. Kd4+ 0-1
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Tomczak, Jacek"]
+[Black "Balogh, Csaba"]
+[Result "1/2-1/2"]
+[ECO "B41"]
+[WhiteElo "2579"]
+[BlackElo "2633"]
+[Annotator "ChessBase"]
+[PlyCount "60"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "SFR Berlin"]
+[BlackTeam "Hockenheim"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:23]} 2. Nf3 {[%emt 0:00:00]} e6 {[%emt 0:
+00:09]} 3. d4 {[%emt 0:00:00]} cxd4 {[%emt 0:00:05]} 4. Nxd4 {[%emt 0:00:00]}
+a6 {[%emt 0:00:09]} 5. Be2 {[%emt 0:00:07]} b5 {[%emt 0:14:46]} 6. O-O {
+[%emt 0:00:43]} Bb7 {[%emt 0:00:22]} 7. c4 {[%emt 0:00:09]} b4 {[%emt 0:03:47]}
+8. Qd3 {[%emt 0:01:54]} Ne7 {[%emt 0:01:29]} 9. Be3 {[%emt 0:15:32]} Ng6 {
+[%emt 0:09:05]} 10. Nd2 {[%emt 0:02:37]} Qc7 {[%emt 0:05:15]} 11. Rac1 {
+[%emt 0:19:48]} Nf4 {[%emt 0:05:26]} 12. Bxf4 {[%emt 0:00:48]} Qxf4 {[%emt 0:
+00:05]} 13. c5 {[%emt 0:00:36]} Nc6 {[%emt 0:00:30]} 14. Nxc6 {[%emt 0:01:28]}
+Bxc6 {[%emt 0:00:14]} 15. Qd4 {[%emt 0:00:36]} Be7 {[%emt 0:11:27]} 16. g3 {
+[%emt 0:04:56]} Bf6 {[%emt 0:05:01]} 17. Qxb4 {[%emt 0:07:21]} a5 {[%emt 0:00:
+14]} 18. gxf4 {[%emt 0:09:44]} axb4 {[%emt 0:00:20]} 19. e5 {[%emt 0:00:03]}
+Be7 {[%emt 0:00:07]} 20. Bf3 {[%emt 0:00:12]} Bxf3 {[%emt 0:02:00]} 21. Nxf3 {
+[%emt 0:00:12]} Rxa2 {[%emt 0:01:06]} 22. b3 {[%emt 0:05:42]} Ra5 {[%emt 0:05:
+31]} 23. c6 {[%emt 0:02:14]} dxc6 {[%emt 0:00:35]} 24. Nd4 {[%emt 0:01:01]} c5
+{[%emt 0:05:49]} 25. Nc6 {[%emt 0:00:49]} Ra3 {[%emt 0:00:49]} 26. Rfd1 {
+[%emt 0:09:34]} Rxb3 {[%emt 0:00:56]} 27. Rxc5 {[%emt 0:01:01]} Rb1 {[%emt 0:
+00:49]} 28. Rxb1 {[%emt 0:05:02]} Bxc5 {[%emt 0:00:11]} 29. Nxb4 {[%emt 0:00:
+09]} Bxb4 {[%emt 0:02:28]} 30. Rxb4 {[%emt 0:00:08]} O-O {[%emt 0:00:22]}
+1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Baramidze, David"]
+[Black "Abel, Dennes"]
+[Result "1-0"]
+[ECO "B10"]
+[WhiteElo "2615"]
+[BlackElo "2469"]
+[Annotator "ChessBase"]
+[PlyCount "105"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Hockenheim"]
+[BlackTeam "SFR Berlin"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} c6 {[%emt 0:00:44]} 2. Nc3 {[%emt 0:00:00]} d5 {[%emt 0:
+00:36]} 3. Nf3 {[%emt 0:00:00]} dxe4 {[%emt 0:04:58]} 4. Nxe4 {[%emt 0:00:00]}
+Nf6 {[%emt 0:00:05]} 5. Nxf6+ {[%emt 0:01:27]} exf6 {[%emt 0:00:26]} 6. Bc4 {
+[%emt 0:00:24]} Bd6 {[%emt 0:01:35]} 7. Qe2+ {[%emt 0:00:31]} Qe7 {[%emt 0:02:
+39]} 8. Qxe7+ {[%emt 0:00:17]} Kxe7 {[%emt 0:02:00]} 9. O-O {[%emt 0:03:11]}
+Bf5 {[%emt 0:09:36]} 10. Re1+ {[%emt 0:03:08]} Kf8 {[%emt 0:00:08]} 11. d3 {
+[%emt 0:10:50]} g5 {[%emt 0:10:49]} 12. a4 {[%emt 0:02:13]} Kg7 {[%emt 0:10:18]
+} 13. a5 {[%emt 0:03:18]} Na6 {[%emt 0:11:05]} 14. Bxa6 {[%emt 0:09:42]} bxa6 {
+[%emt 0:00:06]} 15. Be3 {[%emt 0:00:05]} c5 {[%emt 0:10:02]} 16. Nd2 {[%emt 0:
+04:13]} Rac8 {[%emt 0:01:46]} 17. Nc4 {[%emt 0:03:51]} Bb8 {[%emt 0:00:45]} 18.
+f3 {[%emt 0:06:28]} Be6 {[%emt 0:03:47]} 19. Bf2 {[%emt 0:01:28]} f5 {[%emt 0:
+03:57]} 20. Re2 {[%emt 0:01:51]} Rhe8 {[%emt 0:04:33]} 21. Rae1 {[%emt 0:00:23]
+} Kf6 {[%emt 0:00:55]} 22. Be3 {[%emt 0:03:47]} Red8 {[%emt 0:05:01]} 23. b3 {
+[%emt 0:03:33]} f4 {[%emt 0:02:07]} 24. Bd2 {[%emt 0:00:49]} h6 {[%emt 0:00:57]
+} 25. Bc3+ {[%emt 0:00:52]} Kf5 {[%emt 0:00:18]} 26. Kf2 {[%emt 0:11:07]} Rc6 {
+[%emt 0:01:24]} 27. Ne5 {[%emt 0:01:49]} Bxe5 {[%emt 0:04:21]} 28. Rxe5+ {
+[%emt 0:00:18]} Kg6 {[%emt 0:00:06]} 29. Bb2 {[%emt 0:00:21]} Rb8 {[%emt 0:00:
+34]} 30. Bc3 {[%emt 0:00:07]} Rd8 {[%emt 0:00:32]} 31. R1e2 {[%emt 0:01:44]}
+Rd7 {[%emt 0:00:39]} 32. h4 {[%emt 0:01:22]} Rd8 {[%emt 0:03:36]} 33. Re1 {
+[%emt 0:00:37]} Rd7 {[%emt 0:01:20]} 34. hxg5 {[%emt 0:01:33]} hxg5 {[%emt 0:
+00:06]} 35. Rh1 {[%emt 0:00:03]} Rd8 {[%emt 0:03:43]} 36. Ree1 {[%emt 0:00:48]}
+Rcc8 {[%emt 0:03:34]} 37. Rh2 {[%emt 0:01:52]} Rg8 {[%emt 0:01:12]} 38. Reh1 {
+[%emt 0:01:04]} Kf5 {[%emt 0:00:08]} 39. Rh7 {[%emt 0:01:09]} Bd5 {[%emt 0:01:
+35]} 40. Bb2 {[%emt 0:02:54]} Rce8 {[%emt 0:54:21]} 41. R7h6 {[%emt 0:58:07]}
+Rg6 {[%emt 0:03:41]} 42. Ba3 {[%emt 0:03:32]} Rc8 {[%emt 0:00:00]} 43. Rxg6 {
+[%emt 0:00:00]} fxg6 {[%emt 0:00:00]} 44. Re1 {[%emt 0:00:00]} Bc6 {[%emt 0:00:
+00]} 45. Re7 {[%emt 0:00:00]} g4 {[%emt 0:00:00]} 46. Rf7+ {[%emt 0:00:00]} Ke6
+{[%emt 0:00:00]} 47. Rxf4 {[%emt 0:00:00]} gxf3 {[%emt 0:00:00]} 48. gxf3 {
+[%emt 0:00:00]} g5 {[%emt 0:00:00]} 49. Rc4 {[%emt 0:00:00]} Rf8 {[%emt 0:00:
+00]} 50. Rxc5 {[%emt 0:00:00]} Bxf3 {[%emt 0:00:00]} 51. Rxg5 {[%emt 0:00:00]}
+Rf7 {[%emt 0:00:00]} 52. Ke3 {[%emt 0:00:00]} Bb7 {[%emt 0:00:00]} 53. Bc5 {
+[%emt 0:00:00] Kd5 Ke4+} 1-0
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Braun, Arik"]
+[Black "Schmidek, Emil"]
+[Result "1/2-1/2"]
+[ECO "A16"]
+[WhiteElo "2590"]
+[BlackElo "2387"]
+[Annotator "ChessBase"]
+[PlyCount "70"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Hockenheim"]
+[BlackTeam "SFR Berlin"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. c4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:07]} 2. Nc3 {[%emt 0:00:00]} d5 {
+[%emt 0:00:06]} 3. cxd5 {[%emt 0:00:00]} Nxd5 {[%emt 0:00:06]} 4. g3 {[%emt 0:
+00:04]} g6 {[%emt 0:00:15]} 5. Bg2 {[%emt 0:00:07]} Nxc3 {[%emt 0:00:13]} 6.
+bxc3 {[%emt 0:00:05]} Bg7 {[%emt 0:00:12]} 7. Rb1 {[%emt 0:00:08]} Nc6 {
+[%emt 0:00:14]} 8. h4 {[%emt 0:00:36]} h6 {[%emt 0:00:28]} 9. Nf3 {[%emt 0:00:
+12]} O-O {[%emt 0:00:21]} 10. O-O {[%emt 0:00:13]} Rb8 {[%emt 0:01:58]} 11. d3
+{[%emt 0:04:40]} Bf5 {[%emt 0:09:55]} 12. Qc2 {[%emt 0:10:41]} e5 {[%emt 0:04:
+44]} 13. Nd2 {[%emt 0:09:07]} Qd7 {[%emt 0:24:21]} 14. Rd1 {[%emt 0:03:38]} b6
+{[%emt 0:09:58]} 15. Qa4 {[%emt 0:02:15]} Na5 {[%emt 0:00:37]} 16. Qxd7 {
+[%emt 0:00:15]} Bxd7 {[%emt 0:00:11]} 17. Nb3 {[%emt 0:00:14]} Nxb3 {[%emt 0:
+10:43]} 18. axb3 {[%emt 0:00:04]} c5 {[%emt 0:01:34]} 19. b4 {[%emt 0:04:55]}
+cxb4 {[%emt 0:03:41]} 20. cxb4 {[%emt 0:00:25]} Rfc8 {[%emt 0:06:41]} 21. Bd2 {
+[%emt 0:01:16]} Rc2 {[%emt 0:06:17]} 22. Ra1 {[%emt 0:08:52]} e4 {[%emt 0:06:
+35]} 23. Rxa7 {[%emt 0:09:52]} Bg4 {[%emt 0:00:17]} 24. Bxe4 {[%emt 0:05:20]}
+Bxe2 {[%emt 0:00:38]} 25. Bf4 {[%emt 0:00:10]} Bxd1 {[%emt 0:02:10]} 26. Bxb8 {
+[%emt 0:00:04]} Bd4 {[%emt 0:00:19]} 27. Bf4 {[%emt 0:04:30]} g5 {[%emt 0:18:
+26]} 28. hxg5 {[%emt 0:02:32]} hxg5 {[%emt 0:00:07]} 29. Bxg5 {[%emt 0:03:20]}
+Bxf2+ {[%emt 0:01:04]} 30. Kh1 {[%emt 0:00:08]} Bxg3 {[%emt 0:01:12]} 31. Bf6 {
+[%emt 0:00:37]} Bg4 {[%emt 0:01:13]} 32. Bd4 {[%emt 0:04:10]} Bd6 {[%emt 0:00:
+54]} 33. Ra8+ {[%emt 0:10:23]} Rc8 {[%emt 0:00:19]} 34. Rxc8+ {[%emt 0:00:43]}
+Bxc8 {[%emt 0:00:02]} 35. Bxb6 {[%emt 0:00:32]} Bxb4 {[%emt 0:00:33]} 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Landa, Konstantin"]
+[Black "Harikrishna, Pentala"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2604"]
+[BlackElo "2745"]
+[Annotator "ChessBase"]
+[PlyCount "161"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Muelheim"]
+[BlackTeam "Solingen"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. Nf3 {[%emt 0:00:00]} d5 {[%emt 0:00:50]} 2. g3 {[%emt 0:00:05]} g6 {[%emt 0:
+01:58]} 3. Bg2 {[%emt 0:00:26]} Bg7 {[%emt 0:00:10]} 4. d4 {[%emt 0:00:09]} Nf6
+{[%emt 0:00:45]} 5. O-O {[%emt 0:00:28]} c6 {[%emt 0:01:15]} 6. b3 {[%emt 0:06:
+42]} c5 {[%emt 0:11:42]} 7. Bb2 {[%emt 0:04:39]} cxd4 {[%emt 0:03:30]} 8. Nxd4
+{[%emt 0:12:57]} e5 {[%emt 0:03:52]} 9. Nb5 {[%emt 0:15:29]} a6 {[%emt 0:02:16]
+} 10. N5c3 {[%emt 0:01:38]} d4 {[%emt 0:03:16]} 11. Na4 {[%emt 0:03:04]} O-O {
+[%emt 0:01:17]} 12. c3 {[%emt 0:03:17]} Nh5 {[%emt 0:03:03]} 13. cxd4 {[%emt 0:
+08:07]} exd4 {[%emt 0:00:07]} 14. Nd2 {[%emt 0:00:20]} Nc6 {[%emt 0:05:59]} 15.
+Re1 {[%emt 0:12:23]} Bg4 {[%emt 0:20:53]} 16. Nc4 {[%emt 0:14:05]} b5 {[%emt 0:
+05:26]} 17. Bxc6 {[%emt 0:01:52]} Rc8 {[%emt 0:00:19]} 18. Bb7 {[%emt 0:02:09]}
+Rc7 {[%emt 0:08:52]} 19. Bxa6 {[%emt 0:01:05]} bxa4 {[%emt 0:00:20]} 20. Ba3 {
+[%emt 0:00:59]} Re8 {[%emt 0:06:48]} 21. Bb5 {[%emt 0:00:13]} Re6 {[%emt 0:00:
+57]} 22. Qd3 {[%emt 0:04:06]} axb3 {[%emt 0:06:00]} 23. axb3 {[%emt 0:00:53]}
+Rb7 {[%emt 0:01:30]} 24. Ba4 {[%emt 0:02:27]} Qb8 {[%emt 0:05:26]} 25. Rad1 {
+[%emt 0:01:02]} h6 {[%emt 0:01:27]} 26. Bc5 {[%emt 0:01:58]} Bf5 {[%emt 0:01:
+11]} 27. Qd2 {[%emt 0:02:49]} Rxb3 {[%emt 0:04:30]} 28. Bxb3 {[%emt 0:01:58]}
+Qxb3 {[%emt 0:00:07]} 29. Rc1 {[%emt 0:01:05]} d3 {[%emt 0:02:59]} 30. exd3 {
+[%emt 0:00:26]} Ra6 {[%emt 0:02:22]} 31. Rb1 {[%emt 0:02:30]} Qa4 {[%emt 0:01:
+24]} 32. Rb8+ {[%emt 0:02:58]} Kh7 {[%emt 0:00:08]} 33. Nd6 {[%emt 0:01:15]}
+Be6 {[%emt 0:01:33]} 34. Qb4 {[%emt 0:00:48]} Qc2 {[%emt 0:01:43]} 35. Bd4 {
+[%emt 0:00:27]} Ra4 {[%emt 0:02:11]} 36. Qb2 {[%emt 0:00:07]} Qxd3 {[%emt 0:00:
+28]} 37. Bxg7 {[%emt 0:00:24]} Nxg7 {[%emt 0:00:04]} 38. Ne8 {[%emt 0:02:51]}
+Nxe8 {[%emt 0:00:08]} 39. Rxe8 {[%emt 0:00:07]} Qd4 {[%emt 0:00:04]} 40. Qxd4 {
+[%emt 0:01:04]} Rxd4 {[%emt 0:50:05]} 41. Kg2 {[%emt 0:50:37]} Bd5+ {[%emt 0:
+01:59]} 42. f3 {[%emt 0:00:26]} h5 {[%emt 0:00:50]} 43. Kf2 {[%emt 0:00:00]}
+Ra4 {[%emt 0:00:00]} 44. R8e5 {[%emt 0:00:00]} Be6 {[%emt 0:00:00]} 45. Kg2 {
+[%emt 0:00:00]} Bc4 {[%emt 0:00:00]} 46. h3 {[%emt 0:00:00]} Ra2+ {[%emt 0:00:
+00]} 47. Kg1 {[%emt 0:00:00]} Kg7 {[%emt 0:00:00]} 48. g4 {[%emt 0:00:00]} hxg4
+{[%emt 0:00:00]} 49. hxg4 {[%emt 0:00:00]} Rd2 {[%emt 0:00:00]} 50. R1e4 {
+[%emt 0:00:00]} Bd5 {[%emt 0:00:00]} 51. Rf4 {[%emt 0:00:00]} Be6 {[%emt 0:00:
+00]} 52. Kf1 {[%emt 0:00:00]} Rc2 {[%emt 0:00:00]} 53. Ke1 {[%emt 0:00:00]} Ra2
+{[%emt 0:00:00]} 54. Re2 {[%emt 0:00:00]} Rxe2+ {[%emt 0:00:00]} 55. Kxe2 {
+[%emt 0:00:00]} f6 {[%emt 0:00:00]} 56. Rd4 {[%emt 0:00:00]} g5 {[%emt 0:00:00]
+} 57. Rd6 {[%emt 0:00:00]} Kf7 {[%emt 0:00:00]} 58. Kd3 {[%emt 0:00:00]} Ke7 {
+[%emt 0:00:00]} 59. Ra6 {[%emt 0:00:00]} Kf7 {[%emt 0:00:00]} 60. Kd4 {[%emt 0:
+00:00]} Ke7 {[%emt 0:00:00]} 61. Ra7+ {[%emt 0:00:00]} Kf8 {[%emt 0:00:00]} 62.
+Kc5 {[%emt 0:00:00]} Bb3 {[%emt 0:00:00]} 63. Kd6 {[%emt 0:00:00]} Bc4 {
+[%emt 0:00:00]} 64. Rc7 {[%emt 0:00:00]} Bb3 {[%emt 0:00:00]} 65. Rb7 {[%emt 0:
+00:00]} Bc4 {[%emt 0:00:00]} 66. Rb4 {[%emt 0:00:00]} Ba2 {[%emt 0:00:00]} 67.
+Rb8+ {[%emt 0:00:00]} Kf7 {[%emt 0:00:00]} 68. Rb7+ {[%emt 0:00:00]} Kf8 {
+[%emt 0:00:00]} 69. Rb4 {[%emt 0:00:00]} Kf7 {[%emt 0:00:00]} 70. Rb8 {[%emt 0:
+00:00]} Bc4 {[%emt 0:00:00]} 71. Rb7+ {[%emt 0:00:00]} Kf8 {[%emt 0:00:00]} 72.
+Rb4 {[%emt 0:00:00]} Ba2 {[%emt 0:00:00]} 73. f4 {[%emt 0:00:00]} gxf4 {
+[%emt 0:00:00]} 74. Rxf4 {[%emt 0:00:00]} Kg7 {[%emt 0:00:00]} 75. Ke7 {
+[%emt 0:00:00]} Kg6 {[%emt 0:00:00]} 76. Rxf6+ {[%emt 0:00:00]} Kg5 {[%emt 0:
+00:00]} 77. Rf2 {[%emt 0:00:00]} Bb3 {[%emt 0:00:00]} 78. Rg2 {[%emt 0:00:00]}
+Bd1 {[%emt 0:00:00]} 79. Ke6 {[%emt 0:00:00]} Bxg4+ {[%emt 0:00:00]} 80. Ke5 {
+[%emt 0:00:00]} Kh5 {[%emt 0:00:00]} 81. Rxg4 {[%emt 0:00:00]} 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Ragger, Markus"]
+[Black "Zelbel, Patrick"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "2666"]
+[BlackElo "2441"]
+[Annotator "ChessBase"]
+[PlyCount "103"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Solingen"]
+[BlackTeam "Muelheim"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:01:08]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:04]} 3. Bc4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:06]} 4. d3 {[%emt 0:00:
+00]} Bc5 {[%emt 0:00:14]} 5. O-O {[%emt 0:00:02]} O-O {[%emt 0:00:03]} 6. a4 {
+[%emt 0:00:04]} a6 {[%emt 0:00:32]} 7. c3 {[%emt 0:00:05]} d5 {[%emt 0:00:35]}
+8. exd5 {[%emt 0:00:16]} Nxd5 {[%emt 0:00:02]} 9. Re1 {[%emt 0:00:14]} Bg4 {
+[%emt 0:07:51]} 10. h3 {[%emt 0:00:34]} Bh5 {[%emt 0:00:11]} 11. Nbd2 {[%emt 0:
+00:05]} f6 {[%emt 0:15:27]} 12. a5 {[%emt 0:21:23]} Bf7 {[%emt 0:18:52]} 13.
+Ne4 {[%emt 0:17:30]} Ba7 {[%emt 0:02:47]} 14. Qb3 {[%emt 0:00:11]} Qd7 {
+[%emt 0:05:39]} 15. Bd2 {[%emt 0:01:59]} Kh8 {[%emt 0:02:37]} 16. d4 {[%emt 0:
+09:06]} Bg8 {[%emt 0:06:50]} 17. Red1 {[%emt 0:11:11]} Nce7 {[%emt 0:09:40]}
+18. Be1 {[%emt 0:05:19]} c6 {[%emt 0:02:48]} 19. Nc5 {[%emt 0:04:05]} Bxc5 {
+[%emt 0:01:49]} 20. dxc5 {[%emt 0:00:01]} Qc7 {[%emt 0:04:41]} 21. Nd2 {
+[%emt 0:02:45]} f5 {[%emt 0:01:18]} 22. Qc2 {[%emt 0:00:06]} e4 {[%emt 0:01:42]
+} 23. Bf1 {[%emt 0:00:30]} Ng6 {[%emt 0:10:17]} 24. Nc4 {[%emt 0:01:53]} Qe7 {
+[%emt 0:03:15]} 25. Nd6 {[%emt 0:02:03]} Nh4 {[%emt 0:00:52]} 26. c4 {[%emt 0:
+03:25]} Nf4 {[%emt 0:04:45]} 27. Ra3 {[%emt 0:00:48]} Ne6 {[%emt 0:01:58]} 28.
+b4 {[%emt 0:01:07]} Ng5 {[%emt 0:00:11]} 29. Rg3 {[%emt 0:07:22]} Be6 {[%emt 0:
+01:18]} 30. Ra3 {[%emt 0:03:46]} Ng6 {[%emt 0:03:03]} 31. Qe2 {[%emt 0:03:27]}
+f4 {[%emt 0:02:29]} 32. Qh5 {[%emt 0:05:17]} f3 {[%emt 0:00:45]} 33. g3 {
+[%emt 0:01:15]} Nf7 {[%emt 0:02:38]} 34. Nxe4 {[%emt 0:00:31]} Nfe5 {[%emt 0:
+00:27]} 35. Ng5 {[%emt 0:01:49]} Bg8 {[%emt 0:00:26]} 36. Nxf3 {[%emt 0:00:34]}
+Nxc4 {[%emt 0:00:11]} 37. Rc3 {[%emt 0:03:14]} Nce5 {[%emt 0:00:55]} 38. Nxe5 {
+[%emt 0:00:03]} Qxe5 {[%emt 0:00:28]} 39. Qxe5 {[%emt 0:00:14]} Nxe5 {[%emt 0:
+00:02]} 40. f4 {[%emt 0:00:17]} Ng6 {[%emt 0:50:31]} 41. Rd7 {[%emt 0:50:36]}
+Rae8 {[%emt 0:00:59]} 42. Rc1 {[%emt 0:05:32]} Re7 {[%emt 0:00:00]} 43. Rcd1 {
+[%emt 0:00:00]} Bd5 {[%emt 0:00:00]} 44. Rxe7 {[%emt 0:00:00]} Nxe7 {[%emt 0:
+00:00]} 45. Bc3 {[%emt 0:00:00]} h5 {[%emt 0:00:00]} 46. Re1 {[%emt 0:00:00]}
+Nf5 {[%emt 0:00:00]} 47. Bd3 {[%emt 0:00:00]} Kg8 {[%emt 0:00:00]} 48. Kf2 {
+[%emt 0:00:00]} g6 {[%emt 0:00:00]} 49. Re5 {[%emt 0:00:00]} Rf7 {[%emt 0:00:
+00]} 50. g4 {[%emt 0:00:00]} hxg4 {[%emt 0:00:00]} 51. hxg4 {[%emt 0:00:00]}
+Nh6 {[%emt 0:00:00]} 52. Kg3 {[%emt 0:00:00]} 1-0
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Nikolic, Predrag"]
+[Black "Buckels, Valentin"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2591"]
+[BlackElo "2335"]
+[Annotator "ChessBase"]
+[PlyCount "107"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Solingen"]
+[BlackTeam "Muelheim"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:26]} 2. c4 {[%emt 0:00:00]} e6 {[%emt 0:
+00:10]} 3. Nf3 {[%emt 0:00:00]} Bb4+ {[%emt 0:00:07]} 4. Bd2 {[%emt 0:00:09]}
+c5 {[%emt 0:00:16]} 5. Bxb4 {[%emt 0:00:36]} cxb4 {[%emt 0:00:06]} 6. g3 {
+[%emt 0:00:10]} b6 {[%emt 0:00:12]} 7. Bg2 {[%emt 0:00:09]} Bb7 {[%emt 0:00:05]
+} 8. O-O {[%emt 0:00:09]} O-O {[%emt 0:00:03]} 9. a3 {[%emt 0:03:41]} bxa3 {
+[%emt 0:00:22]} 10. Nxa3 {[%emt 0:00:12]} a5 {[%emt 0:04:23]} 11. Ne1 {[%emt 0:
+09:15]} Bxg2 {[%emt 0:03:14]} 12. Nxg2 {[%emt 0:00:06]} d5 {[%emt 0:08:55]} 13.
+cxd5 {[%emt 0:03:31]} exd5 {[%emt 0:03:14]} 14. Rc1 {[%emt 0:02:16]} Na6 {
+[%emt 0:04:23]} 15. Nf4 {[%emt 0:01:36]} Qe7 {[%emt 0:09:48]} 16. Qb3 {[%emt 0:
+04:23]} Nb4 {[%emt 0:03:59]} 17. Nc2 {[%emt 0:01:48]} Nxc2 {[%emt 0:00:56]} 18.
+Rxc2 {[%emt 0:00:15]} Qe4 {[%emt 0:01:50]} 19. Rc6 {[%emt 0:18:34]} b5 {
+[%emt 0:09:38]} 20. e3 {[%emt 0:11:54]} b4 {[%emt 0:12:31]} 21. Rc5 {[%emt 0:
+07:59]} Rfb8 {[%emt 0:06:53]} 22. Qa4 {[%emt 0:07:21]} g5 {[%emt 0:08:09]} 23.
+Ng2 {[%emt 0:01:26]} b3 {[%emt 0:03:19]} 24. Rxa5 {[%emt 0:09:27]} Rxa5 {
+[%emt 0:00:40]} 25. Qxa5 {[%emt 0:00:05]} Qc2 {[%emt 0:01:38]} 26. Ne1 {
+[%emt 0:02:21]} Qe2 {[%emt 0:04:17]} 27. Qc7 {[%emt 0:01:41]} Re8 {[%emt 0:02:
+06]} 28. Qc3 {[%emt 0:06:07]} Ne4 {[%emt 0:01:41]} 29. Qd3 {[%emt 0:00:08]}
+Qxb2 {[%emt 0:01:08]} 30. Qb5 {[%emt 0:00:46]} Rd8 {[%emt 0:01:37]} 31. Nd3 {
+[%emt 0:08:07]} Qe2 {[%emt 0:02:08]} 32. Qb6 {[%emt 0:03:28]} Rd6 {[%emt 0:12:
+09]} 33. Qb8+ {[%emt 0:01:18]} Kg7 {[%emt 0:00:01]} 34. Nc1 {[%emt 0:00:14]}
+Qf3 {[%emt 0:01:58]} 35. Qxb3 {[%emt 0:01:56]} Qh5 {[%emt 0:03:47]} 36. Qc2 {
+[%emt 0:03:52]} g4 {[%emt 0:00:48]} 37. h4 {[%emt 0:01:47]} gxh3 {[%emt 0:00:
+19]} 38. Qe2 {[%emt 0:00:27]} Qg5 {[%emt 0:00:46]} 39. Kh2 {[%emt 0:00:22]} Rg6
+{[%emt 0:00:57]} 40. Rg1 {[%emt 0:00:23]} h5 {[%emt 0:50:47]} 41. Nd3 {[%emt 0:
+06:01]} h4 {[%emt 0:00:00]} 42. g4 {[%emt 0:00:46]} Qf6 {[%emt 0:00:00]} 43.
+Nf4 {[%emt 0:03:56]} Qd6 {[%emt 0:00:00]} 44. Kxh3 {[%emt 0:02:15]} Rg5 {
+[%emt 0:00:00]} 45. Nh5+ {[%emt 0:05:51]} Kh6 {[%emt 0:00:00]} 46. f3 {[%emt 0:
+03:11]} Rxh5 {[%emt 0:00:00]} 47. fxe4 {[%emt 0:01:15]} Rg5 {[%emt 0:00:00]}
+48. e5 {[%emt 0:00:31]} Qe6 {[%emt 0:00:00]} 49. Rf1 {[%emt 0:02:24]} Kg7 {
+[%emt 0:00:00]} 50. Rf6 {[%emt 0:01:57]} Qd7 {[%emt 0:00:00]} 51. Qf3 {[%emt 0:
+00:12]} Rg6 {[%emt 0:00:00]} 52. Rxg6+ {[%emt 0:00:38]} Kxg6 {[%emt 0:00:00]}
+53. Qf6+ {[%emt 0:00:08]} Kh7 {[%emt 0:00:00]} 54. Qf5+ {[%emt 0:00:16]} 1-0
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Hausrath, Daniel"]
+[Black "Van Wely, Loek"]
+[Result "0-1"]
+[ECO "A06"]
+[WhiteElo "2499"]
+[BlackElo "2656"]
+[Annotator "ChessBase"]
+[PlyCount "76"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Muelheim"]
+[BlackTeam "Solingen"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. Nf3 {[%emt 0:00:00]} d5 {[%emt 0:00:37]} 2. g3 {[%emt 0:00:00]} c6 {[%emt 0:
+02:30]} 3. Bg2 {[%emt 0:00:06]} Bf5 {[%emt 0:00:33]} 4. c4 {[%emt 0:04:00]} e6
+{[%emt 0:00:11]} 5. Qb3 {[%emt 0:00:44]} Qb6 {[%emt 0:10:10]} 6. d3 {[%emt 0:
+01:52]} Nd7 {[%emt 0:01:36]} 7. Be3 {[%emt 0:04:44]} Bc5 {[%emt 0:14:13]} 8.
+Bxc5 {[%emt 0:12:35]} Nxc5 {[%emt 0:01:33]} 9. Qxb6 {[%emt 0:00:30]} axb6 {
+[%emt 0:00:07]} 10. Nc3 {[%emt 0:07:03]} Ne7 {[%emt 0:02:56]} 11. O-O {[%emt 0:
+07:48]} O-O {[%emt 0:01:56]} 12. Nd4 {[%emt 0:09:06]} Rfd8 {[%emt 0:06:32]} 13.
+cxd5 {[%emt 0:14:18]} exd5 {[%emt 0:00:32]} 14. Rfc1 {[%emt 0:00:33]} Ne6 {
+[%emt 0:02:51]} 15. Nb3 {[%emt 0:12:13]} Bg6 {[%emt 0:08:40]} 16. Re1 {[%emt 0:
+13:55]} Nf5 {[%emt 0:12:24]} 17. a3 {[%emt 0:04:01]} Nc5 {[%emt 0:12:27]} 18.
+Nxc5 {[%emt 0:05:15]} bxc5 {[%emt 0:00:12]} 19. Rac1 {[%emt 0:00:12]} Nd4 {
+[%emt 0:04:27]} 20. h3 {[%emt 0:02:50]} Nb3 {[%emt 0:09:38]} 21. Rcd1 {[%emt 0:
+01:19]} b5 {[%emt 0:00:56]} 22. e4 {[%emt 0:00:40]} d4 {[%emt 0:01:48]} 23. Ne2
+{[%emt 0:01:43]} c4 {[%emt 0:00:18]} 24. Nf4 {[%emt 0:01:13]} c3 {[%emt 0:01:
+26]} 25. Re2 {[%emt 0:01:04]} c5 {[%emt 0:01:00]} 26. e5 {[%emt 0:03:33]} Rab8
+{[%emt 0:05:59]} 27. e6 {[%emt 0:01:25]} fxe6 {[%emt 0:00:34]} 28. Nxe6 {
+[%emt 0:00:30]} Rd6 {[%emt 0:00:38]} 29. Nf4 {[%emt 0:00:27]} Bf7 {[%emt 0:00:
+55]} 30. h4 {[%emt 0:00:48]} b4 {[%emt 0:00:34]} 31. axb4 {[%emt 0:00:14]} cxb4
+{[%emt 0:00:07]} 32. Rde1 {[%emt 0:00:19]} Rc8 {[%emt 0:02:25]} 33. Rc2 {
+[%emt 0:00:46]} Nc5 {[%emt 0:02:14]} 34. Re7 {[%emt 0:00:42]} b3 {[%emt 0:00:
+47]} 35. Rce2 {[%emt 0:00:20]} Na4 {[%emt 0:01:07]} 36. Re1 {[%emt 0:00:41]}
+cxb2 {[%emt 0:00:55]} 37. Kh2 {[%emt 0:00:30]} Nc3 {[%emt 0:00:32]} 38. Bh3 {
+[%emt 0:00:24]} Rf8 {[%emt 0:00:49]} 0-1
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "L'Ami, Erwin"]
+[Black "Dinstuhl, Volkmar"]
+[Result "1-0"]
+[ECO "D39"]
+[WhiteElo "2625"]
+[BlackElo "2386"]
+[Annotator "ChessBase"]
+[PlyCount "53"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Solingen"]
+[BlackTeam "Muelheim"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. d4 {[%emt 0:00:00]} d5 {[%emt 0:00:06]} 2. c4 {[%emt 0:00:00]} e6 {[%emt 0:
+00:07]} 3. Nf3 {[%emt 0:00:57]} Nf6 {[%emt 0:00:20]} 4. Nc3 {[%emt 0:01:04]}
+Bb4 {[%emt 0:01:37]} 5. Bg5 {[%emt 0:03:20]} dxc4 {[%emt 0:00:39]} 6. e4 {
+[%emt 0:01:01]} b5 {[%emt 0:01:05]} 7. a4 {[%emt 0:05:48]} c5 {[%emt 0:12:30]}
+8. axb5 {[%emt 0:02:52]} cxd4 {[%emt 0:03:15]} 9. Nxd4 {[%emt 0:00:38]} O-O {
+[%emt 0:16:25]} 10. Bxc4 {[%emt 0:16:29]} Qc7 {[%emt 0:26:42]} 11. Bxf6 {
+[%emt 0:12:57]} Qxc4 {[%emt 0:17:27]} 12. Qg4 {[%emt 0:00:53]} Bxc3+ {[%emt 0:
+00:42]} 13. bxc3 {[%emt 0:00:13]} g6 {[%emt 0:00:09]} 14. Qe2 {[%emt 0:17:47]}
+Qxc3+ {[%emt 0:04:08]} 15. Qd2 {[%emt 0:00:18]} Qxd2+ {[%emt 0:02:16]} 16. Kxd2
+{[%emt 0:00:16]} Bb7 {[%emt 0:02:16]} 17. Rhc1 {[%emt 0:06:24]} Nd7 {[%emt 0:
+10:29]} 18. e5 {[%emt 0:12:38]} Nxf6 {[%emt 0:05:17]} 19. exf6 {[%emt 0:00:14]}
+Bxg2 {[%emt 0:00:08]} 20. Rc7 {[%emt 0:04:59]} Bd5 {[%emt 0:02:33]} 21. Raxa7 {
+[%emt 0:03:05]} Rxa7 {[%emt 0:00:04]} 22. Rxa7 {[%emt 0:00:07]} g5 {[%emt 0:00:
+08]} 23. Nc6 {[%emt 0:03:58]} Bg2 {[%emt 0:02:48]} 24. Ne5 {[%emt 0:02:10]} Bd5
+{[%emt 0:00:20]} 25. b6 {[%emt 0:01:20]} h6 {[%emt 0:00:06]} 26. Rc7 {[%emt 0:
+00:40]} Rb8 {[%emt 0:00:44]} 27. Rxf7 {[%emt 0:00:12]} 1-0
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Bok, Benjamin"]
+[Black "Saltaev, Mihail"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2613"]
+[BlackElo "2471"]
+[Annotator "ChessBase"]
+[PlyCount "63"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Solingen"]
+[BlackTeam "Muelheim"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} c6 {[%emt 0:00:09]} 2. d4 {[%emt 0:00:08]} d5 {[%emt 0:
+00:06]} 3. e5 {[%emt 0:00:07]} Bf5 {[%emt 0:00:07]} 4. Nf3 {[%emt 0:00:20]} e6
+{[%emt 0:00:06]} 5. Be2 {[%emt 0:00:04]} c5 {[%emt 0:00:15]} 6. Be3 {[%emt 0:
+03:02]} Qb6 {[%emt 0:00:19]} 7. Nc3 {[%emt 0:00:14]} Nc6 {[%emt 0:00:12]} 8.
+Na4 {[%emt 0:00:14]} Qa5+ {[%emt 0:02:04]} 9. c3 {[%emt 0:01:16]} cxd4 {
+[%emt 0:14:23]} 10. Nxd4 {[%emt 0:00:03]} Nxd4 {[%emt 0:06:32]} 11. Bxd4 {
+[%emt 0:00:06]} Ne7 {[%emt 0:00:46]} 12. b4 {[%emt 0:07:13]} Qc7 {[%emt 0:01:
+58]} 13. O-O {[%emt 0:08:54]} Nc6 {[%emt 0:07:22]} 14. Rc1 {[%emt 0:02:49]} Be7
+{[%emt 0:04:16]} 15. b5 {[%emt 0:02:42]} Nxd4 {[%emt 0:06:57]} 16. cxd4 {
+[%emt 0:00:35]} Qa5 {[%emt 0:01:45]} 17. Nc5 {[%emt 0:01:44]} O-O {[%emt 0:18:
+47]} 18. Nxb7 {[%emt 0:08:40]} Qxa2 {[%emt 0:03:39]} 19. Bd3 {[%emt 0:03:28]}
+Bxd3 {[%emt 0:03:07]} 20. Qxd3 {[%emt 0:02:16]} Rfc8 {[%emt 0:01:47]} 21. Rc6 {
+[%emt 0:20:02]} a5 {[%emt 0:08:23]} 22. Rfc1 {[%emt 0:08:50]} Rcb8 {[%emt 0:02:
+25]} 23. Nd6 {[%emt 0:10:38]} a4 {[%emt 0:15:51]} 24. Rb1 {[%emt 0:14:12]} Bd8
+{[%emt 0:09:10]} 25. b6 {[%emt 0:08:23]} Bxb6 {[%emt 0:00:18]} 26. Rcxb6 {
+[%emt 0:00:29]} Rxb6 {[%emt 0:00:02]} 27. Rxb6 {[%emt 0:00:07]} a3 {[%emt 0:00:
+26]} 28. g3 {[%emt 0:04:23]} h6 {[%emt 0:00:02]} 29. Kg2 {[%emt 0:00:55]} Qa1 {
+[%emt 0:00:08]} 30. Rb1 {[%emt 0:01:20]} Qa2 {[%emt 0:00:03]} 31. Rb7 {[%emt 0:
+01:14]} Qa1 {[%emt 0:02:42]} 32. Rxf7 {[%emt 0:00:19]} 1-0
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Vrolijk, Liam"]
+[Black "Smeets, Jan"]
+[Result "1/2-1/2"]
+[ECO "D15"]
+[WhiteElo "2427"]
+[BlackElo "2608"]
+[Annotator "ChessBase"]
+[PlyCount "67"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Muelheim"]
+[BlackTeam "Solingen"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. d4 {[%emt 0:00:00]} d5 {[%emt 0:00:03]} 2. c4 {[%emt 0:00:00]} c6 {[%emt 0:
+00:03]} 3. Nf3 {[%emt 0:00:00]} Nf6 {[%emt 0:00:05]} 4. Nc3 {[%emt 0:00:00]} a6
+{[%emt 0:04:51]} 5. c5 {[%emt 0:02:38]} g6 {[%emt 0:02:01]} 6. Bf4 {[%emt 0:05:
+10]} Nh5 {[%emt 0:06:56]} 7. Bd2 {[%emt 0:05:02]} Nf6 {[%emt 0:01:24]} 8. Bf4 {
+[%emt 0:01:59]} Bg7 {[%emt 0:11:26]} 9. h3 {[%emt 0:11:11]} O-O {[%emt 0:07:07]
+} 10. e3 {[%emt 0:02:57]} b6 {[%emt 0:23:07]} 11. cxb6 {[%emt 0:08:53]} Qxb6 {
+[%emt 0:00:57]} 12. Qb3 {[%emt 0:00:41]} Qa7 {[%emt 0:21:09]} 13. Be2 {[%emt 0:
+03:18]} Nfd7 {[%emt 0:09:40]} 14. O-O {[%emt 0:03:21]} a5 {[%emt 0:01:00]} 15.
+Rac1 {[%emt 0:19:30]} Ba6 {[%emt 0:02:36]} 16. Bxa6 {[%emt 0:05:44]} Nxa6 {
+[%emt 0:00:45]} 17. Na4 {[%emt 0:05:16]} Rfc8 {[%emt 0:04:15]} 18. a3 {[%emt 0:
+01:19]} e6 {[%emt 0:04:50]} 19. Qc3 {[%emt 0:06:20]} Qb7 {[%emt 0:02:26]} 20.
+Qxa5 {[%emt 0:09:47]} Nab8 {[%emt 0:03:47]} 21. Nc5 {[%emt 0:00:32]} Nxc5 {
+[%emt 0:00:06]} 22. Qxc5 {[%emt 0:00:05]} Qxb2 {[%emt 0:00:06]} 23. Rb1 {
+[%emt 0:02:27]} Qe2 {[%emt 0:02:37]} 24. Rxb8 {[%emt 0:01:56]} Raxb8 {[%emt 0:
+00:09]} 25. Bxb8 {[%emt 0:00:09]} Rxb8 {[%emt 0:00:03]} 26. Qxc6 {[%emt 0:00:
+13]} Bf6 {[%emt 0:00:38]} 27. a4 {[%emt 0:06:18]} Rb2 {[%emt 0:00:22]} 28. Ne5
+{[%emt 0:03:50]} Bxe5 {[%emt 0:00:55]} 29. dxe5 {[%emt 0:00:07]} Ra2 {[%emt 0:
+00:40]} 30. Qe8+ {[%emt 0:01:01]} Kg7 {[%emt 0:00:02]} 31. Qd8 {[%emt 0:00:13]}
+Qb2 {[%emt 0:01:08]} 32. Qf6+ {[%emt 0:00:37]} Kg8 {[%emt 0:00:05]} 33. Qf4 {
+[%emt 0:02:08]} Qc2 {[%emt 0:00:10]} 34. Qg5 {[%emt 0:00:43]} 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Rezasade, Amir"]
+[Black "Andersen, Mads"]
+[Result "1/2-1/2"]
+[ECO "E70"]
+[WhiteElo "2354"]
+[BlackElo "2606"]
+[Annotator "ChessBase"]
+[PlyCount "105"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Muelheim"]
+[BlackTeam "Solingen"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. c4 {[%emt 0:00:00]} g6 {[%emt 0:00:30]} 2. Nc3 {[%emt 0:00:08]} Bg7 {
+[%emt 0:00:54]} 3. d4 {[%emt 0:02:02]} Nf6 {[%emt 0:00:18]} 4. e4 {[%emt 0:00:
+05]} d6 {[%emt 0:00:05]} 5. Nge2 {[%emt 0:01:13]} Nbd7 {[%emt 0:12:17]} 6. f3 {
+[%emt 0:03:08]} e5 {[%emt 0:14:44]} 7. d5 {[%emt 0:00:31]} h5 {[%emt 0:01:53]}
+8. Bg5 {[%emt 0:01:21]} Bh6 {[%emt 0:09:20]} 9. Bxh6 {[%emt 0:01:08]} Rxh6 {
+[%emt 0:00:01]} 10. Qd2 {[%emt 0:00:22]} Rh8 {[%emt 0:00:20]} 11. h4 {[%emt 0:
+01:49]} a5 {[%emt 0:01:27]} 12. Ng3 {[%emt 0:07:55]} Nc5 {[%emt 0:01:07]} 13.
+Be2 {[%emt 0:05:38]} Bd7 {[%emt 0:04:59]} 14. Rd1 {[%emt 0:08:53]} Qe7 {
+[%emt 0:00:50]} 15. Nf1 {[%emt 0:00:38]} Qf8 {[%emt 0:10:26]} 16. Qg5 {[%emt 0:
+09:26]} Nh7 {[%emt 0:01:39]} 17. Qe3 {[%emt 0:00:07]} Nf6 {[%emt 0:01:08]} 18.
+b3 {[%emt 0:18:41]} Qh6 {[%emt 0:03:16]} 19. Rb1 {[%emt 0:00:42]} Ke7 {[%emt 0:
+02:32]} 20. Qxh6 {[%emt 0:06:40]} Rxh6 {[%emt 0:03:09]} 21. Ne3 {[%emt 0:00:01]
+} Rhh8 {[%emt 0:04:00]} 22. a3 {[%emt 0:00:46]} Rhc8 {[%emt 0:11:22]} 23. b4 {
+[%emt 0:05:11]} axb4 {[%emt 0:00:19]} 24. axb4 {[%emt 0:00:02]} Na4 {[%emt 0:
+00:12]} 25. Kd2 {[%emt 0:02:05]} Nxc3 {[%emt 0:08:05]} 26. Kxc3 {[%emt 0:00:02]
+} c6 {[%emt 0:00:17]} 27. Ra1 {[%emt 0:05:56]} cxd5 {[%emt 0:02:23]} 28. exd5 {
+[%emt 0:00:02]} Ne8 {[%emt 0:01:56]} 29. Kb2 {[%emt 0:11:12]} b6 {[%emt 0:02:
+30]} 30. b5 {[%emt 0:00:59]} Kd8 {[%emt 0:07:44]} 31. Nc2 {[%emt 0:00:25]} Kc7
+{[%emt 0:00:26]} 32. Nb4 {[%emt 0:00:13]} Ng7 {[%emt 0:01:53]} 33. g4 {[%emt 0:
+09:33]} Kb7 {[%emt 0:00:24]} 34. Nc6 {[%emt 0:03:50]} Rh8 {[%emt 0:00:18]} 35.
+Rxa8 {[%emt 0:04:05]} Rxa8 {[%emt 0:00:03]} 36. Rf1 {[%emt 0:01:55]} Kc7 {
+[%emt 0:03:05]} 37. Bd3 {[%emt 0:01:04]} Re8 {[%emt 0:02:08]} 38. Ra1 {[%emt 0:
+00:27]} Bc8 {[%emt 0:00:15]} 39. Kc3 {[%emt 0:00:39]} Bb7 {[%emt 0:00:56]} 40.
+Rf1 {[%emt 0:00:30]} Bc8 {[%emt 0:50:39]} 41. Bc2 {[%emt 0:09:19]} Rh8 {
+[%emt 0:00:00]} 42. g5 {[%emt 0:06:35]} Re8 {[%emt 0:00:00]} 43. Be4 {[%emt 0:
+00:01]} Bh3 {[%emt 0:00:00]} 44. Rh1 {[%emt 0:01:35]} Bd7 {[%emt 0:00:00]} 45.
+Ra1 {[%emt 0:00:31]} Bc8 {[%emt 0:00:00]} 46. Ra7+ {[%emt 0:00:37]} Bb7 {
+[%emt 0:00:00]} 47. Ra2 {[%emt 0:02:27]} Bc8 {[%emt 0:00:00]} 48. Rf2 {[%emt 0:
+01:06]} Bd7 {[%emt 0:00:00]} 49. Ra2 {[%emt 0:11:06]} Bc8 {[%emt 0:00:00]} 50.
+Ra7+ {[%emt 0:03:49]} Bb7 {[%emt 0:00:00]} 51. Ra1 {[%emt 0:00:56]} Bc8 {
+[%emt 0:00:00]} 52. Bd3 {[%emt 0:02:19]} Bb7 {[%emt 0:00:00]} 53. Be4 {[%emt 0:
+04:08]} 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Krause, Benedict"]
+[Black "Shytaj, Luca"]
+[Result "0-1"]
+[ECO "B97"]
+[WhiteElo "2455"]
+[BlackElo "2448"]
+[Annotator "ChessBase"]
+[PlyCount "120"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Norderstedt"]
+[BlackTeam "Speyer"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:12]} 2. Nf3 {[%emt 0:00:00]} d6 {[%emt 0:
+00:09]} 3. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:17]} 4. Nc3 {[%emt 0:00:00]}
+cxd4 5. Nxd4 {[%emt 0:00:00]} a6 {[%emt 0:00:20]} 6. Bg5 {[%emt 0:00:00]} e6 {
+[%emt 0:02:21]} 7. f4 {[%emt 0:00:22]} Qb6 {[%emt 0:05:26]} 8. Qd2 {[%emt 0:01:
+53]} Nc6 {[%emt 0:11:25]} 9. Bxf6 gxf6 {[%emt 0:00:12]} 10. Nb3 {[%emt 0:01:37]
+} h5 {[%emt 0:03:50]} 11. O-O-O {[%emt 0:02:57]} Bd7 {[%emt 0:04:39]} 12. Be2 {
+[%emt 0:03:07]} O-O-O {[%emt 0:09:16]} 13. Rhf1 {[%emt 0:00:53]} Kb8 {[%emt 0:
+10:52]} 14. Rf3 {[%emt 0:06:03]} Ne5 {[%emt 0:05:50]} 15. Rh3 {[%emt 0:07:47]}
+h4 {[%emt 0:01:54]} 16. Kb1 {[%emt 0:06:20]} Ng6 {[%emt 0:05:28]} 17. Rf3 {
+[%emt 0:28:54]} Bh6 {[%emt 0:16:00]} 18. g3 {[%emt 0:05:07]} Bf8 {[%emt 0:03:
+47]} 19. Rd3 {[%emt 0:11:23]} hxg3 {[%emt 0:03:08]} 20. hxg3 {[%emt 0:00:12]}
+Rh2 {[%emt 0:00:47]} 21. a3 {[%emt 0:03:33]} Be7 {[%emt 0:02:16]} 22. Rd4 {
+[%emt 0:01:44]} d5 {[%emt 0:13:44]} 23. exd5 {[%emt 0:07:30]} e5 {[%emt 0:00:
+21]} 24. Rc4 {[%emt 0:05:38]} Bd6 {[%emt 0:02:04]} 25. Na4 {[%emt 0:09:02]}
+Bxa4 {[%emt 0:03:58]} 26. Rxa4 {[%emt 0:00:05]} exf4 {[%emt 0:00:06]} 27. gxf4
+{[%emt 0:03:59]} Re8 {[%emt 0:00:26]} 28. Re1 {[%emt 0:01:08]} Qe3 {[%emt 0:01:
+17]} 29. Qxe3 {[%emt 0:03:54]} Rxe3 {[%emt 0:00:07]} 30. Nc1 {[%emt 0:00:07]}
+Nxf4 {[%emt 0:01:03]} 31. Rxf4 {[%emt 0:00:05]} Bxf4 {[%emt 0:00:05]} 32. Rf1 {
+[%emt 0:00:02]} Be5 {[%emt 0:01:52]} 33. Bg4 {[%emt 0:00:09]} Rg3 {[%emt 0:00:
+53]} 34. Bf5 {[%emt 0:00:15]} Rhg2 {[%emt 0:00:34]} 35. Nd3 {[%emt 0:01:14]}
+Rg1 {[%emt 0:00:22]} 36. Rxg1 {[%emt 0:00:03]} Rxg1+ {[%emt 0:00:05]} 37. Ka2 {
+[%emt 0:00:03]} Rg5 {[%emt 0:00:39]} 38. Bh3 {[%emt 0:01:36]} Rg3 {[%emt 0:01:
+47]} 39. Bf5 {[%emt 0:00:05]} b5 {[%emt 0:01:17]} 40. Kb3 {[%emt 0:01:35]} Kc7
+{[%emt 0:50:37]} 41. c4 {[%emt 0:04:27]} Rg5 {[%emt 0:00:00]} 42. Bh3 {[%emt 0:
+02:30]} Rh5 {[%emt 0:00:00]} 43. Bg2 {[%emt 0:08:37]} Rh2 {[%emt 0:00:00]} 44.
+d6+ {[%emt 0:04:04]} Kxd6 {[%emt 0:00:00]} 45. c5+ {[%emt 0:00:58]} Kc7 {
+[%emt 0:00:00]} 46. Bd5 {[%emt 0:02:52]} Rd2 {[%emt 0:00:00]} 47. Be4 {[%emt 0:
+00:25]} Bd4 {[%emt 0:00:00]} 48. a4 {[%emt 0:08:14]} Re2 {[%emt 0:00:00]} 49.
+Bd5 {[%emt 0:11:08]} f5 {[%emt 0:00:00]} 50. axb5 {[%emt 0:01:58]} axb5 {
+[%emt 0:00:00]} 51. Bxf7 {[%emt 0:02:25]} Rd2 {[%emt 0:00:00]} 52. Nf4 {
+[%emt 0:04:01]} Bxc5 {[%emt 0:00:00]} 53. Kc3 {[%emt 0:00:29]} Rf2 {[%emt 0:00:
+00]} 54. Nd3 {[%emt 0:00:40]} Rf3 {[%emt 0:00:00]} 55. Be8 {[%emt 0:00:43]} Kb6
+{[%emt 0:00:00]} 56. Kd2 {[%emt 0:00:23]} Bd4 {[%emt 0:00:00]} 57. Bh5 {
+[%emt 0:00:17]} Rh3 {[%emt 0:00:00]} 58. Bg6 {[%emt 0:00:09]} f4 {[%emt 0:00:
+00]} 59. Be4 {[%emt 0:02:29]} Rh2+ {[%emt 0:00:00]} 60. Kd1 {[%emt 0:00:47]}
+Be3 {[%emt 0:00:00]} 0-1
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Olszewski, Michal"]
+[Black "Oleksiyenko, Mykhaylo"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "2540"]
+[BlackElo "2609"]
+[Annotator "ChessBase"]
+[PlyCount "60"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Norderstedt"]
+[BlackTeam "Speyer"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. Nf3 Nf6 2. c4 c6 3. e3 g6 4. b3 Bg7 5. Bb2 O-O 6. d4 d6 7. Nbd2 Nbd7 8. Qc2
+a5 9. Rc1 Re8 10. c5 d5 11. h3 b6 12. cxb6 Bb7 13. Be2 Qxb6 14. O-O Rec8 15.
+Qb1 c5 16. Qa1 Ba6 17. Bxa6 Qxa6 18. Ne5 Nxe5 19. dxe5 Nd7 20. e6 Bxb2 21.
+exf7+ Kxf7 22. Qxb2 a4 23. Qc3 axb3 24. axb3 e5 25. Rfd1 Qe6 26. Nf3 h6 27. Qd2
+Nf6 28. Qb2 Nd7 29. Qd2 Nf6 30. Qb2 Nd7 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Neiksans, Arturs"]
+[Black "Trent, Lawrence"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2582"]
+[BlackElo "2436"]
+[Annotator "ChessBase"]
+[PlyCount "56"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Speyer"]
+[BlackTeam "Norderstedt"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:03:24]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:03]} 3. Bc4 {[%emt 0:00:00]} Bc5 {[%emt 0:00:06]} 4. c3 {[%emt 0:03:
+24]} Nf6 {[%emt 0:00:13]} 5. d3 {[%emt 0:00:44]} a6 {[%emt 0:00:37]} 6. Nbd2 {
+[%emt 0:00:55]} d6 {[%emt 0:00:50]} 7. Bb3 {[%emt 0:00:08]} Ba7 {[%emt 0:03:06]
+} 8. Nf1 {[%emt 0:10:05]} h6 {[%emt 0:21:55]} 9. Ng3 {[%emt 0:01:32]} O-O {
+[%emt 0:00:33]} 10. O-O {[%emt 0:01:01]} Be6 {[%emt 0:03:52]} 11. d4 {[%emt 0:
+05:04]} exd4 {[%emt 0:13:13]} 12. cxd4 {[%emt 0:01:46]} Bg4 {[%emt 0:00:42]}
+13. Be3 {[%emt 0:02:25]} d5 {[%emt 0:14:05]} 14. e5 {[%emt 0:01:38]} Ne4 {
+[%emt 0:03:12]} 15. Bc2 {[%emt 0:21:25]} f5 {[%emt 0:24:17]} 16. exf6 {[%emt 0:
+00:50]} Qxf6 {[%emt 0:02:17]} 17. Nxe4 {[%emt 0:02:52]} dxe4 {[%emt 0:00:01]}
+18. Bxe4 {[%emt 0:00:09]} Kh8 {[%emt 0:08:47]} 19. Qb3 {[%emt 0:23:19]} Bxf3 {
+[%emt 0:00:48]} 20. Bxf3 {[%emt 0:01:26]} Nxd4 {[%emt 0:01:05]} 21. Bxd4 {
+[%emt 0:00:18]} Bxd4 {[%emt 0:00:10]} 22. Qxb7 {[%emt 0:13:10]} Rab8 {[%emt 0:
+00:17]} 23. Qxc7 {[%emt 0:00:06]} Rxb2 {[%emt 0:00:03]} 24. Rad1 {[%emt 0:00:
+22]} Qb6 {[%emt 0:03:29]} 25. Qxb6 {[%emt 0:06:54]} Bxb6 {[%emt 0:00:01]} 26.
+a4 {[%emt 0:00:05]} a5 {[%emt 0:01:39]} 27. Rc1 {[%emt 0:02:55]} Rf4 {[%emt 0:
+01:12]} 28. Bc6 {[%emt 0:06:40]} Rfxf2 {[%emt 0:00:15]} 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Meskovs, Nikita"]
+[Black "Kopylov, Michael"]
+[Result "1-0"]
+[ECO "A13"]
+[WhiteElo "2546"]
+[BlackElo "2422"]
+[Annotator "ChessBase"]
+[PlyCount "61"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Speyer"]
+[BlackTeam "Norderstedt"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. c4 {[%emt 0:00:00]} e6 {[%emt 0:00:27]} 2. Nf3 {[%emt 0:00:12]} d5 {[%emt 0:
+00:18]} 3. g3 {[%emt 0:00:10]} dxc4 {[%emt 0:05:15]} 4. Na3 {[%emt 0:05:37]} a6
+{[%emt 0:09:26]} 5. Nxc4 {[%emt 0:08:34]} b5 {[%emt 0:01:16]} 6. Ne3 {[%emt 0:
+00:06]} Bb7 {[%emt 0:00:07]} 7. Bg2 {[%emt 0:00:06]} Nf6 {[%emt 0:01:51]} 8. b3
+{[%emt 0:00:13]} Be7 {[%emt 0:02:10]} 9. Bb2 {[%emt 0:00:11]} O-O {[%emt 0:02:
+17]} 10. Rc1 {[%emt 0:02:54]} Nbd7 {[%emt 0:05:43]} 11. Nd4 {[%emt 0:11:12]}
+Bxg2 12. Nxg2 {[%emt 0:00:07]} Nb8 {[%emt 0:08:27]} 13. O-O {[%emt 0:01:02]} c5
+{[%emt 0:01:42]} 14. Nf3 {[%emt 0:00:06]} Nc6 {[%emt 0:00:50]} 15. Bxf6 {
+[%emt 0:07:56]} gxf6 {[%emt 0:02:13]} 16. Nf4 {[%emt 0:02:18]} Ne5 {[%emt 0:22:
+53]} 17. Rc3 {[%emt 0:13:44]} Ng6 {[%emt 0:06:54]} 18. Nd3 {[%emt 0:02:43]} e5
+{[%emt 0:19:42]} 19. Nxc5 {[%emt 0:01:51]} Bxc5 {[%emt 0:00:17]} 20. Rxc5 {
+[%emt 0:00:03]} e4 {[%emt 0:00:08]} 21. Ne1 {[%emt 0:00:50]} Qd4 {[%emt 0:00:
+46]} 22. Qc2 {[%emt 0:00:50]} Ne5 {[%emt 0:04:01]} 23. e3 {[%emt 0:09:49]} Qd6
+{[%emt 0:00:46]} 24. b4 {[%emt 0:00:31]} Rad8 {[%emt 0:06:02]} 25. Qxe4 {
+[%emt 0:01:49]} Qxd2 {[%emt 0:00:10]} 26. Nf3 {[%emt 0:00:24]} Nxf3+ {[%emt 0:
+02:31]} 27. Qxf3 {[%emt 0:00:12]} Qxb4 {[%emt 0:00:05]} 28. Rh5 {[%emt 0:00:04]
+} Kg7 {[%emt 0:03:51]} 29. Rh4 {[%emt 0:01:33]} Qd6 {[%emt 0:01:19]} 30. Qg4+ {
+[%emt 0:00:07]} Kh8 {[%emt 0:00:15]} 31. Qf5 {[%emt 0:00:06]} 1-0
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Ostrovskiy, Andrey"]
+[Black "Kantans, Toms"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2441"]
+[BlackElo "2487"]
+[Annotator "ChessBase"]
+[PlyCount "50"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Norderstedt"]
+[BlackTeam "Speyer"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:05]} 2. Nf3 {[%emt 0:00:00]} d6 {[%emt 0:
+00:06]} 3. d4 {[%emt 0:00:00]} cxd4 4. Nxd4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:
+13]} 5. Nc3 {[%emt 0:00:00]} a6 {[%emt 0:00:06]} 6. h3 {[%emt 0:00:25]} e5 {
+[%emt 0:00:06]} 7. Nde2 {[%emt 0:00:05]} h5 {[%emt 0:00:07]} 8. Bg5 {[%emt 0:
+00:06]} Be6 {[%emt 0:00:06]} 9. Bxf6 Qxf6 {[%emt 0:00:03]} 10. Nd5 {[%emt 0:00:
+11]} Qd8 {[%emt 0:00:06]} 11. Nec3 {[%emt 0:00:58]} g6 {[%emt 0:00:06]} 12. Bc4
+{[%emt 0:04:15]} Bh6 {[%emt 0:00:07]} 13. O-O {[%emt 0:00:07]} O-O {[%emt 0:00:
+07]} 14. Bb3 {[%emt 0:15:10]} Nc6 {[%emt 0:01:01]} 15. Qd3 {[%emt 0:01:33]} Kg7
+{[%emt 0:02:05]} 16. Rad1 {[%emt 0:06:51]} Nd4 {[%emt 0:01:34]} 17. Ne2 {
+[%emt 0:16:21]} Nxe2+ 18. Qxe2 {[%emt 0:00:05]} Rc8 {[%emt 0:14:44]} 19. Rd3 {
+[%emt 0:13:59]} Bg5 {[%emt 0:12:22]} 20. Nc3 {[%emt 0:07:51]} b5 {[%emt 0:05:
+43]} 21. Rfd1 {[%emt 0:01:44]} Be7 {[%emt 0:00:29]} 22. Nd5 {[%emt 0:07:11]}
+Bg5 {[%emt 0:03:41]} 23. Ne3 {[%emt 0:02:14]} Be7 {[%emt 0:02:22]} 24. Nd5 {
+[%emt 0:00:59]} Bg5 {[%emt 0:00:07]} 25. Ne3 {[%emt 0:00:05]} Be7 {[%emt 0:00:
+05]} 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Yankelevich, Lev"]
+[Black "Parvanyan, Ashot"]
+[Result "1-0"]
+[ECO "E71"]
+[WhiteElo "2446"]
+[BlackElo "2370"]
+[Annotator "ChessBase"]
+[PlyCount "85"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Speyer"]
+[BlackTeam "Norderstedt"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:06]} 2. c4 {[%emt 0:00:00]} g6 {[%emt 0:
+00:15]} 3. Nc3 {[%emt 0:00:00]} Bg7 {[%emt 0:00:05]} 4. e4 {[%emt 0:00:00]} d6
+{[%emt 0:00:12]} 5. h3 {[%emt 0:00:44]} O-O {[%emt 0:00:18]} 6. Be3 {[%emt 0:
+00:04]} c5 {[%emt 0:03:48]} 7. Nf3 {[%emt 0:00:08]} cxd4 8. Nxd4 {[%emt 0:00:
+17]} b6 {[%emt 0:04:19]} 9. g3 {[%emt 0:00:09]} Bb7 {[%emt 0:01:32]} 10. Bg2 {
+[%emt 0:00:07]} a6 {[%emt 0:14:51]} 11. O-O {[%emt 0:00:14]} Ra7 {[%emt 0:00:
+10]} 12. a4 {[%emt 0:19:21]} Nfd7 {[%emt 0:07:22]} 13. a5 {[%emt 0:06:08]} Ra8
+{[%emt 0:03:14]} 14. Qb3 {[%emt 0:32:45]} Nc5 {[%emt 0:10:28]} 15. Qxb6 {
+[%emt 0:00:19]} Qxb6 {[%emt 0:00:14]} 16. axb6 {[%emt 0:00:04]} Bxd4 {[%emt 0:
+03:14]} 17. Bxd4 {[%emt 0:01:03]} Nb3 {[%emt 0:00:06]} 18. Rad1 {[%emt 0:00:42]
+} Nxd4 {[%emt 0:02:59]} 19. Rxd4 {[%emt 0:00:14]} Nd7 {[%emt 0:00:17]} 20. Re1
+{[%emt 0:00:52]} Nxb6 {[%emt 0:05:21]} 21. e5 {[%emt 0:01:09]} Bxg2 {[%emt 0:
+02:08]} 22. Kxg2 {[%emt 0:00:07]} dxe5 {[%emt 0:34:49]} 23. Rxe5 {[%emt 0:00:
+09]} Rfd8 {[%emt 0:02:31]} 24. Rxd8+ {[%emt 0:01:37]} Rxd8 {[%emt 0:00:03]} 25.
+c5 {[%emt 0:00:12]} Nc8 {[%emt 0:06:37]} 26. Rd5 {[%emt 0:05:57]} Rxd5 {
+[%emt 0:01:03]} 27. Nxd5 {[%emt 0:00:29]} e6 {[%emt 0:03:00]} 28. Nb4 {[%emt 0:
+01:27]} a5 {[%emt 0:00:05]} 29. Nc6 {[%emt 0:00:06]} a4 {[%emt 0:00:04]} 30.
+Kf3 {[%emt 0:00:03]} Kf8 {[%emt 0:03:06]} 31. Ke4 {[%emt 0:00:11]} f6 {[%emt 0:
+01:13]} 32. Kd4 {[%emt 0:00:19]} Ke8 {[%emt 0:00:05]} 33. Kc4 {[%emt 0:00:48]}
+Kd7 {[%emt 0:00:05]} 34. Kb5 {[%emt 0:00:35]} e5 {[%emt 0:00:34]} 35. Nb8+ {
+[%emt 0:00:07]} Kc7 {[%emt 0:00:30]} 36. Na6+ {[%emt 0:00:10]} Kb7 {[%emt 0:00:
+08]} 37. Nb4 {[%emt 0:00:57]} f5 {[%emt 0:00:57]} 38. Kxa4 {[%emt 0:00:24]} Ne7
+{[%emt 0:00:51]} 39. Kb5 {[%emt 0:00:08]} g5 {[%emt 0:00:16]} 40. c6+ {[%emt 0:
+00:15]} Kc7 {[%emt 0:50:57]} 41. Kc5 {[%emt 0:50:07]} Ng6 {[%emt 0:00:04]} 42.
+Na6+ {[%emt 0:00:34]} Kc8 {[%emt 0:00:17]} 43. b4 {[%emt 0:00:07]} 1-0
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Powierski, Emil"]
+[Black "Hoolt, Sarah"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2315"]
+[BlackElo "2400"]
+[Annotator "ChessBase"]
+[PlyCount "109"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Norderstedt"]
+[BlackTeam "Speyer"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:04]} 2. Nf3 {[%emt 0:00:09]} Nc6 {
+[%emt 0:00:09]} 3. d4 {[%emt 0:00:27]} cxd4 4. Nxd4 {[%emt 0:00:03]} Qb6 {
+[%emt 0:00:43]} 5. Nb3 {[%emt 0:00:15]} Nf6 {[%emt 0:00:13]} 6. Nc3 {[%emt 0:
+00:32]} e6 {[%emt 0:00:06]} 7. a3 {[%emt 0:00:38]} Be7 {[%emt 0:00:40]} 8. Bf4
+{[%emt 0:05:36]} e5 {[%emt 0:06:04]} 9. Be3 {[%emt 0:02:30]} Qd8 {[%emt 0:01:
+39]} 10. Be2 {[%emt 0:02:48]} d6 {[%emt 0:01:41]} 11. Qd3 {[%emt 0:02:32]} O-O
+{[%emt 0:03:34]} 12. O-O {[%emt 0:00:25]} Be6 {[%emt 0:24:14]} 13. Nd5 {
+[%emt 0:06:59]} Ne8 {[%emt 0:01:37]} 14. f3 {[%emt 0:29:54]} f5 {[%emt 0:05:53]
+} 15. c4 {[%emt 0:07:55]} f4 16. Bd2 {[%emt 0:06:40]} Rf7 {[%emt 0:07:23]} 17.
+Rac1 {[%emt 0:03:25]} b6 {[%emt 0:09:17]} 18. Na1 {[%emt 0:03:08]} Bh4 {
+[%emt 0:02:31]} 19. b4 {[%emt 0:05:03]} Qg5 {[%emt 0:12:07]} 20. Rfd1 {[%emt 0:
+03:14]} Qh5 {[%emt 0:06:20]} 21. Nb3 {[%emt 0:02:01]} Rb8 {[%emt 0:11:41]} 22.
+Rb1 {[%emt 0:14:20]} Rd7 {[%emt 0:04:04]} 23. c5 {[%emt 0:06:08]} bxc5 {
+[%emt 0:03:11]} 24. bxc5 {[%emt 0:00:07]} Bd8 {[%emt 0:01:36]} 25. Qa6 {
+[%emt 0:02:52]} Rdb7 {[%emt 0:00:50]} 26. Qxc6 {[%emt 0:02:11]} Bd7 {[%emt 0:
+02:47]} 27. Qa6 {[%emt 0:00:38]} Rxb3 {[%emt 0:00:05]} 28. Rxb3 {[%emt 0:00:12]
+} Rxb3 {[%emt 0:00:04]} 29. Bc4 {[%emt 0:01:21]} Kh8 {[%emt 0:04:06]} 30. Bxb3
+{[%emt 0:00:15]} g5 {[%emt 0:00:38]} 31. cxd6 {[%emt 0:01:27]} g4 {[%emt 0:00:
+26]} 32. fxg4 {[%emt 0:01:03]} Bxg4 {[%emt 0:00:04]} 33. d7 {[%emt 0:00:43]}
+Bxd7 {[%emt 0:01:38]} 34. Bc3 {[%emt 0:00:35]} f3 {[%emt 0:00:26]} 35. Qd3 {
+[%emt 0:00:29]} Bg4 {[%emt 0:01:09]} 36. Rf1 {[%emt 0:00:37]} Qg5 {[%emt 0:00:
+28]} 37. Rxf3 {[%emt 0:00:37]} Bxf3 {[%emt 0:00:09]} 38. Qxf3 {[%emt 0:00:13]}
+Qc1+ {[%emt 0:00:48]} 39. Qf1 {[%emt 0:00:41]} Qxa3 {[%emt 0:00:43]} 40. Bxe5+
+{[%emt 0:00:08]} Ng7 {[%emt 0:50:27]} 41. Qc4 {[%emt 0:03:31]} a5 {[%emt 0:00:
+00]} 42. Qc3 {[%emt 0:02:21]} Qf8 {[%emt 0:00:00]} 43. Bxg7+ {[%emt 0:00:16]}
+Qxg7 {[%emt 0:00:00]} 44. Qxg7+ {[%emt 0:00:16]} Kxg7 {[%emt 0:00:00]} 45. Kf2
+{[%emt 0:00:11]} Kg6 {[%emt 0:00:00]} 46. Kf3 {[%emt 0:00:15]} Kg5 {[%emt 0:00:
+00]} 47. g3 {[%emt 0:00:13]} Kh5 {[%emt 0:00:00]} 48. Ba4 {[%emt 0:00:23]} Kg6
+{[%emt 0:00:00]} 49. Kf4 {[%emt 0:00:21]} Kf7 {[%emt 0:00:00]} 50. Kf5 {
+[%emt 0:00:16]} Kg7 {[%emt 0:00:00]} 51. e5 {[%emt 0:01:09]} Kf7 {[%emt 0:00:
+00]} 52. e6+ {[%emt 0:00:58]} Kf8 {[%emt 0:00:00]} 53. Ke5 {[%emt 0:00:55]} h5
+{[%emt 0:00:00]} 54. Kd6 {[%emt 0:02:15]} h4 {[%emt 0:00:00]} 55. e7+ {[%emt 0:
+00:19]} 1-0
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Commercon, Simon"]
+[Black "Polischuk, Viktor"]
+[Result "1/2-1/2"]
+[ECO "A37"]
+[WhiteElo "2257"]
+[BlackElo "2284"]
+[Annotator "ChessBase"]
+[PlyCount "44"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Speyer"]
+[BlackTeam "Norderstedt"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. c4 {[%emt 0:00:00]} c5 {[%emt 0:01:17]} 2. Nf3 {[%emt 0:00:04]} Nc6 {
+[%emt 0:00:14]} 3. Nc3 {[%emt 0:00:17]} g6 {[%emt 0:00:42]} 4. g3 {[%emt 0:01:
+23]} Bg7 {[%emt 0:00:05]} 5. Bg2 {[%emt 0:00:06]} e5 {[%emt 0:00:50]} 6. a3 {
+[%emt 0:01:34]} Nge7 {[%emt 0:00:30]} 7. Rb1 {[%emt 0:02:10]} a5 {[%emt 0:07:
+59]} 8. d3 {[%emt 0:03:22]} O-O {[%emt 0:01:04]} 9. O-O {[%emt 0:05:43]} d6 {
+[%emt 0:05:50]} 10. Nd5 {[%emt 0:07:16]} Nxd5 {[%emt 0:04:23]} 11. cxd5 {
+[%emt 0:00:07]} Nd4 {[%emt 0:00:30]} 12. Nxd4 exd4 {[%emt 0:01:05]} 13. b4 {
+[%emt 0:12:26]} cxb4 {[%emt 0:21:25]} 14. axb4 {[%emt 0:00:53]} b5 {[%emt 0:00:
+17]} 15. bxa5 {[%emt 0:01:41]} Qxa5 {[%emt 0:01:01]} 16. Bd2 {[%emt 0:03:59]}
+Qb6 {[%emt 0:02:03]} 17. Qb3 {[%emt 0:06:06]} Bd7 {[%emt 0:00:46]} 18. Rfc1 {
+[%emt 0:00:53]} Rfb8 {[%emt 0:10:45]} 19. Bb4 {[%emt 0:01:28]} Bf8 {[%emt 0:07:
+52]} 20. h3 {[%emt 0:01:38]} Ra7 {[%emt 0:03:59]} 21. Kh2 {[%emt 0:01:57]} Rba8
+{[%emt 0:06:29]} 22. Rc2 {[%emt 0:00:51]} Bc8 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Laznicka, Viktor"]
+[Black "Kindermann, Stefan"]
+[Result "1/2-1/2"]
+[ECO "A90"]
+[WhiteElo "2658"]
+[BlackElo "2495"]
+[Annotator "ChessBase"]
+[PlyCount "73"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Schwaebisch Hall"]
+[BlackTeam "Zugzwang Muenchen"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. d4 {[%emt 0:00:00]} e6 {[%emt 0:00:17]} 2. c4 {[%emt 0:00:14]} f5 {[%emt 0:
+00:10]} 3. g3 {[%emt 0:03:58]} Nf6 {[%emt 0:00:27]} 4. Bg2 {[%emt 0:00:05]} d5
+{[%emt 0:01:17]} 5. Nh3 {[%emt 0:01:11]} Bd6 {[%emt 0:03:41]} 6. Bf4 {[%emt 0:
+01:48]} Be7 {[%emt 0:01:57]} 7. Qc2 {[%emt 0:11:04]} c6 {[%emt 0:02:37]} 8. Nd2
+{[%emt 0:00:33]} O-O {[%emt 0:02:43]} 9. O-O {[%emt 0:00:46]} h6 {[%emt 0:11:
+51]} 10. f3 {[%emt 0:02:54]} g5 {[%emt 0:09:00]} 11. Be3 {[%emt 0:01:29]} Bd7 {
+[%emt 0:03:45]} 12. Nf2 {[%emt 0:02:13]} Be8 {[%emt 0:02:40]} 13. Nd3 {[%emt 0:
+00:14]} Nbd7 {[%emt 0:01:12]} 14. Bf2 {[%emt 0:05:11]} Bg6 {[%emt 0:06:10]} 15.
+Rae1 {[%emt 0:02:28]} Qc7 {[%emt 0:14:37]} 16. Qc3 {[%emt 0:04:28]} Rae8 {
+[%emt 0:03:09]} 17. e4 {[%emt 0:05:46]} dxe4 {[%emt 0:02:35]} 18. fxe4 {
+[%emt 0:00:42]} Ng4 {[%emt 0:00:48]} 19. c5 {[%emt 0:00:39]} Ndf6 {[%emt 0:03:
+53]} 20. Re2 {[%emt 0:13:56]} fxe4 {[%emt 0:04:16]} 21. Nxe4 {[%emt 0:00:40]}
+Nd5 {[%emt 0:00:45]} 22. Qe1 {[%emt 0:00:48]} Bf6 {[%emt 0:08:13]} 23. Qd2 {
+[%emt 0:13:09]} Qg7 {[%emt 0:04:26]} 24. Nxf6+ {[%emt 0:02:41]} Rxf6 {[%emt 0:
+00:43]} 25. h3 {[%emt 0:03:53]} Bxd3 {[%emt 0:02:48]} 26. Qxd3 {[%emt 0:00:05]}
+Nxf2 {[%emt 0:00:09]} 27. Rfxf2 {[%emt 0:00:26]} Ref8 {[%emt 0:01:26]} 28. Rxf6
+{[%emt 0:00:12]} Qxf6 {[%emt 0:01:12]} 29. Re5 {[%emt 0:01:45]} Rf7 {[%emt 0:
+03:47]} 30. Qe2 {[%emt 0:04:46]} Nc7 {[%emt 0:00:29]} 31. b4 {[%emt 0:02:52]}
+Kf8 {[%emt 0:03:24]} 32. a4 {[%emt 0:03:03]} a6 {[%emt 0:00:10]} 33. Kh2 {
+[%emt 0:03:16]} Qf2 {[%emt 0:05:10]} 34. Qe4 {[%emt 0:02:08]} Kg7 {[%emt 0:00:
+36]} 35. h4 {[%emt 0:00:27]} gxh4 {[%emt 0:00:28]} 36. Qxh4 {[%emt 0:06:26]}
+Rf6 {[%emt 0:01:30]} 37. Qe4 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Mons, Leon"]
+[Black "Rodshtein, Maxim"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2529"]
+[BlackElo "2689"]
+[Annotator "ChessBase"]
+[PlyCount "64"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Zugzwang Muenchen"]
+[BlackTeam "Schwaebisch Hall"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. Nf3 {[%emt 0:00:00]} d5 {[%emt 0:00:32]} 2. e3 {[%emt 0:00:00]} Nf6 {
+[%emt 0:00:36]} 3. c4 {[%emt 0:00:04]} e6 {[%emt 0:00:46]} 4. b3 {[%emt 0:02:
+37]} b6 {[%emt 0:00:43]} 5. d4 {[%emt 0:02:19]} Bb7 {[%emt 0:00:16]} 6. Bd3 {
+[%emt 0:00:12]} Nbd7 {[%emt 0:00:27]} 7. O-O {[%emt 0:01:26]} Bd6 {[%emt 0:01:
+43]} 8. cxd5 {[%emt 0:04:02]} exd5 {[%emt 0:00:15]} 9. Ba3 {[%emt 0:00:10]} c5
+{[%emt 0:09:41]} 10. Nc3 {[%emt 0:01:23]} O-O {[%emt 0:00:08]} 11. Rc1 {
+[%emt 0:06:15]} g6 {[%emt 0:02:21]} 12. Qe2 {[%emt 0:13:07]} Re8 {[%emt 0:04:
+53]} 13. Ba6 {[%emt 0:11:01]} Bxa6 {[%emt 0:04:57]} 14. Qxa6 {[%emt 0:00:06]}
+cxd4 {[%emt 0:00:05]} 15. exd4 {[%emt 0:10:16]} Bf4 {[%emt 0:00:48]} 16. Rce1 {
+[%emt 0:01:11]} Qc7 {[%emt 0:04:23]} 17. Qd3 {[%emt 0:05:09]} a6 {[%emt 0:07:
+20]} 18. g3 {[%emt 0:01:27]} Bh6 {[%emt 0:01:35]} 19. Bb2 {[%emt 0:06:16]} Qb7
+{[%emt 0:03:30]} 20. Ne5 {[%emt 0:01:34]} Bg7 {[%emt 0:03:10]} 21. Re2 {
+[%emt 0:04:44]} b5 {[%emt 0:11:08]} 22. Nxd7 {[%emt 0:11:17]} Qxd7 {[%emt 0:01:
+17]} 23. Re5 {[%emt 0:01:53]} b4 {[%emt 0:14:02]} 24. Na4 {[%emt 0:01:05]} Qb5
+{[%emt 0:10:50]} 25. Nc5 {[%emt 0:00:58]} Ne4 {[%emt 0:06:26]} 26. Rxe8+ {
+[%emt 0:03:04]} Rxe8 {[%emt 0:00:08]} 27. Qxb5 {[%emt 0:00:05]} axb5 {[%emt 0:
+00:02]} 28. Na6 {[%emt 0:10:41]} Bf8 {[%emt 0:12:20]} 29. Nc7 {[%emt 0:01:53]}
+Rc8 {[%emt 0:00:05]} 30. Rc1 {[%emt 0:01:52]} Nc3 {[%emt 0:04:16]} 31. Bxc3 {
+[%emt 0:00:07]} Rxc7 {[%emt 0:00:50]} 32. Bd2 {[%emt 0:00:06]} Ra7 {[%emt 0:04:
+03]} 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Gerigk, Erasmus"]
+[Black "Zeller, Frank"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2344"]
+[BlackElo "2382"]
+[Annotator "ChessBase"]
+[PlyCount "167"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Zugzwang Muenchen"]
+[BlackTeam "Schwaebisch Hall"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:52]} 2. c3 {[%emt 0:00:00]} d5 {[%emt 0:
+00:22]} 3. exd5 {[%emt 0:00:00]} Nf6 {[%emt 0:00:22]} 4. d4 {[%emt 0:02:13]}
+Nxd5 {[%emt 0:01:19]} 5. Nf3 {[%emt 0:02:19]} e6 {[%emt 0:02:30]} 6. Be2 {
+[%emt 0:04:30]} Qc7 {[%emt 0:04:56]} 7. O-O {[%emt 0:03:32]} Nd7 {[%emt 0:01:
+26]} 8. Re1 {[%emt 0:02:27]} Be7 {[%emt 0:03:23]} 9. c4 {[%emt 0:09:29]} Nf4 {
+[%emt 0:04:42]} 10. Bf1 {[%emt 0:01:47]} O-O {[%emt 0:10:42]} 11. Nc3 {[%emt 0:
+06:26]} cxd4 {[%emt 0:16:20]} 12. Nxd4 {[%emt 0:19:51]} Ng6 {[%emt 0:05:04]}
+13. Be3 {[%emt 0:10:09]} a6 {[%emt 0:08:46]} 14. a3 {[%emt 0:12:19]} Nde5 {
+[%emt 0:02:13]} 15. Qe2 {[%emt 0:03:09]} Bd7 {[%emt 0:03:50]} 16. f4 {[%emt 0:
+17:01]} Nc6 {[%emt 0:00:41]} 17. Nxc6 {[%emt 0:00:11]} Bxc6 {[%emt 0:01:02]}
+18. Qf2 {[%emt 0:00:14]} Rae8 {[%emt 0:22:42]} 19. b4 {[%emt 0:04:42]} f5 {
+[%emt 0:02:05]} 20. Bb6 {[%emt 0:03:44]} Qxf4 {[%emt 0:08:20]} 21. Rxe6 {
+[%emt 0:00:15]} Bf6 {[%emt 0:01:30]} 22. Rxe8 {[%emt 0:00:42]} Rxe8 {[%emt 0:
+00:07]} 23. Qxf4 {[%emt 0:00:16]} Nxf4 {[%emt 0:00:03]} 24. Rc1 {[%emt 0:00:14]
+} Bxc3 {[%emt 0:05:23]} 25. Rxc3 {[%emt 0:00:05]} Ne2+ {[%emt 0:00:57]} 26.
+Bxe2 {[%emt 0:00:09]} Rxe2 {[%emt 0:00:01]} 27. Bf2 {[%emt 0:01:09]} Rb2 {
+[%emt 0:01:26]} 28. h4 {[%emt 0:01:19]} Kf7 {[%emt 0:00:42]} 29. Rg3 {[%emt 0:
+01:43]} g6 {[%emt 0:00:59]} 30. h5 {[%emt 0:02:46]} Rc2 {[%emt 0:01:07]} 31.
+hxg6+ {[%emt 0:00:18]} hxg6 {[%emt 0:00:01]} 32. c5 {[%emt 0:00:20]} f4 {
+[%emt 0:01:20]} 33. Rg4 {[%emt 0:01:08]} Rc4 {[%emt 0:00:06]} 34. Bh4 {[%emt 0:
+00:33]} Bd7 {[%emt 0:00:41]} 35. Rg5 {[%emt 0:00:04]} Bf5 {[%emt 0:00:26]} 36.
+Kf2 {[%emt 0:01:14]} Be4 {[%emt 0:00:59]} 37. Re5 {[%emt 0:01:24]} Rc2+ {
+[%emt 0:00:15]} 38. Ke1 {[%emt 0:00:08]} Bxg2 {[%emt 0:00:38]} 39. Bg5 {
+[%emt 0:00:09]} Bc6 {[%emt 0:00:59]} 40. Bxf4 {[%emt 0:00:30]} Kf6 {[%emt 0:50:
+33]} 41. Rg5 {[%emt 0:10:27]} Rc4 {[%emt 0:00:00]} 42. Bd2 {[%emt 0:03:38]}
+Re4+ {[%emt 0:00:00]} 43. Kf2 {[%emt 0:08:15]} Rh4 {[%emt 0:00:00]} 44. Rg3 {
+[%emt 0:03:23]} Rh2+ {[%emt 0:00:00]} 45. Ke3 {[%emt 0:02:12]} g5 {[%emt 0:00:
+00]} 46. Kd3 {[%emt 0:03:02]} Rh5 {[%emt 0:00:00]} 47. Rg1 {[%emt 0:01:01]}
+Bb5+ {[%emt 0:00:00]} 48. Ke3 {[%emt 0:10:52]} Kf5 {[%emt 0:00:00]} 49. a4 {
+[%emt 0:01:03]} Bxa4 {[%emt 0:00:00]} 50. Rf1+ {[%emt 0:00:12]} Ke6 {[%emt 0:
+00:00]} 51. Kf3 {[%emt 0:03:04]} Bb5 {[%emt 0:00:00]} 52. Rf2 {[%emt 0:02:59]}
+Kf5 {[%emt 0:00:00]} 53. Kg3+ {[%emt 0:00:18]} Kg6 {[%emt 0:00:00]} 54. Rf8 {
+[%emt 0:00:46]} Bc4 {[%emt 0:01:10]} 55. Re8 {[%emt 0:02:34]} Rh1 {[%emt 0:02:
+37]} 56. Re5 {[%emt 0:01:13]} Rg1+ {[%emt 0:00:14]} 57. Kf2 {[%emt 0:00:39]}
+Rg4 {[%emt 0:00:17]} 58. Kf3 {[%emt 0:00:16]} Kh5 {[%emt 0:01:00]} 59. Be1 {
+[%emt 0:01:51]} Bb5 {[%emt 0:00:25]} 60. Re7 {[%emt 0:00:37]} Bc6+ {[%emt 0:00:
+07]} 61. Kf2 {[%emt 0:00:56]} Rg2+ {[%emt 0:00:21]} 62. Kf1 {[%emt 0:00:45]}
+Kg4 {[%emt 0:00:40]} 63. Re6 {[%emt 0:01:19]} Rc2 {[%emt 0:00:46]} 64. Rd6 {
+[%emt 0:00:53]} Bg2+ {[%emt 0:01:23]} 65. Kg1 {[%emt 0:00:06]} Be4 {[%emt 0:00:
+07]} 66. Rd2 {[%emt 0:00:22]} Rc1 {[%emt 0:00:18]} 67. Kf2 {[%emt 0:00:11]} Kf5
+{[%emt 0:02:32]} 68. Rd8 {[%emt 0:00:36]} g4 {[%emt 0:01:37]} 69. Bd2 {[%emt 0:
+00:40]} Rh1 {[%emt 0:00:29]} 70. Rf8+ {[%emt 0:00:17]} Ke6 {[%emt 0:00:27]} 71.
+Ke3 {[%emt 0:00:59]} Bf3 {[%emt 0:00:18]} 72. Rd8 {[%emt 0:00:39]} Rh7 {
+[%emt 0:01:03]} 73. Bc3 {[%emt 0:00:44]} Rf7 {[%emt 0:00:20]} 74. Be1 {[%emt 0:
+00:53]} Kf5 {[%emt 0:00:40]} 75. Bh4 {[%emt 0:00:25]} Rh7 {[%emt 0:00:18]} 76.
+Rf8+ {[%emt 0:00:43]} Ke6 {[%emt 0:00:12]} 77. Bg3 {[%emt 0:00:08]} Kd5 {
+[%emt 0:00:56]} 78. Rf4 {[%emt 0:00:10]} Re7+ {[%emt 0:00:37]} 79. Kd3 {
+[%emt 0:00:21]} Be2+ {[%emt 0:00:13]} 80. Kd2 {[%emt 0:00:05]} Bf3 {[%emt 0:00:
+30]} 81. Kd3 {[%emt 0:00:01]} Be2+ {[%emt 0:00:46]} 82. Kd2 {[%emt 0:00:05]}
+Kc6 {[%emt 0:00:44]} 83. Bh4 {[%emt 0:00:27]} Re8 {[%emt 0:00:31]} 84. Rf6+ {
+[%emt 0:00:01] Bf3} 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Womacka, Mathias"]
+[Black "Hoffmeyer, Falk"]
+[Result "1-0"]
+[ECO "B18"]
+[WhiteElo "2436"]
+[BlackElo "2345"]
+[Annotator "ChessBase"]
+[PlyCount "102"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Schwaebisch Hall"]
+[BlackTeam "Zugzwang Muenchen"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. e4 {[%emt 0:00:00]} c6 {[%emt 0:00:04]} 2. d4 {[%emt 0:00:00]} d5 {[%emt 0:
+00:08]} 3. Nd2 {[%emt 0:00:00]} dxe4 {[%emt 0:00:25]} 4. Nxe4 {[%emt 0:00:19]}
+Bf5 {[%emt 0:00:06]} 5. Ng3 {[%emt 0:00:15]} Bg6 {[%emt 0:00:06]} 6. h4 {
+[%emt 0:00:44]} h6 {[%emt 0:00:07]} 7. Nf3 {[%emt 0:00:20]} e6 {[%emt 0:00:50]}
+8. Ne5 {[%emt 0:04:46]} Bh7 {[%emt 0:00:21]} 9. Bd3 {[%emt 0:02:06]} Bxd3 {
+[%emt 0:00:08]} 10. Qxd3 {[%emt 0:00:03]} Nd7 {[%emt 0:00:28]} 11. f4 {[%emt 0:
+02:22]} Be7 {[%emt 0:00:49]} 12. Bd2 {[%emt 0:03:33]} Nxe5 {[%emt 0:02:07]} 13.
+fxe5 {[%emt 0:00:11]} Bxh4 {[%emt 0:00:27]} 14. O-O-O {[%emt 0:04:19]} Bxg3 {
+[%emt 0:00:23]} 15. Qxg3 {[%emt 0:00:05]} Ne7 {[%emt 0:00:11]} 16. Qxg7 {
+[%emt 0:14:30]} Rg8 {[%emt 0:00:24]} 17. Qxh6 {[%emt 0:08:35]} Qd5 {[%emt 0:01:
+00]} 18. Kb1 {[%emt 0:12:15]} O-O-O {[%emt 0:03:18]} 19. Qf6 {[%emt 0:11:56]}
+Rxg2 {[%emt 0:16:28]} 20. Qxe7 {[%emt 0:02:12]} Rxd2 {[%emt 0:00:43]} 21. Qxd8+
+{[%emt 0:00:46]} Kxd8 {[%emt 0:05:08]} 22. Rh8+ {[%emt 0:00:08]} Ke7 {[%emt 0:
+11:54]} 23. Rxd2 {[%emt 0:00:17]} c5 {[%emt 0:00:15]} 24. c3 {[%emt 0:04:15]}
+Qe4+ {[%emt 0:04:57]} 25. Kc1 {[%emt 0:00:25]} Qe1+ {[%emt 0:01:40]} 26. Rd1 {
+[%emt 0:01:41]} Qe3+ {[%emt 0:01:22]} 27. Kb1 {[%emt 0:00:27]} Qe4+ {[%emt 0:
+01:51]} 28. Ka1 {[%emt 0:00:28]} cxd4 {[%emt 0:10:37]} 29. cxd4 {[%emt 0:00:18]
+} f6 {[%emt 0:01:21]} 30. exf6+ {[%emt 0:13:54]} Kxf6 {[%emt 0:00:07]} 31. Rhh1
+{[%emt 0:00:10]} Qd5 {[%emt 0:04:51]} 32. Rhe1 {[%emt 0:03:31]} Kf7 {[%emt 0:
+08:13]} 33. a3 {[%emt 0:11:31]} a6 {[%emt 0:07:05]} 34. Re5 {[%emt 0:02:16]}
+Qd6 {[%emt 0:02:20]} 35. Rf1+ {[%emt 0:04:38]} Ke7 {[%emt 0:01:22]} 36. Rf4 {
+[%emt 0:00:05]} Qc6 {[%emt 0:04:51]} 37. Rfe4 {[%emt 0:01:06]} Qc1+ {[%emt 0:
+00:51]} 38. Ka2 {[%emt 0:00:04]} Qc4+ {[%emt 0:02:32]} 39. Kb1 {[%emt 0:00:04]}
+Qd3+ {[%emt 0:07:17]} 40. Kc1 {[%emt 0:00:56]} Qc4+ {[%emt 0:51:22]} 41. Kb1 {
+[%emt 0:52:05]} Qd3+ {[%emt 0:00:27]} 42. Ka1 {[%emt 0:00:40]} Kd7 {[%emt 0:05:
+25]} 43. Rxe6 {[%emt 0:00:43]} Qc4 {[%emt 0:00:00]} 44. R6e5 {[%emt 0:00:00]}
+Qc1+ {[%emt 0:00:00]} 45. Ka2 {[%emt 0:00:00]} Qc4+ {[%emt 0:00:00]} 46. Kb1 {
+[%emt 0:00:00]} Qd3+ {[%emt 0:00:00]} 47. Ka1 {[%emt 0:00:00]} Qf1+ {[%emt 0:
+00:00]} 48. Re1 {[%emt 0:00:00]} Qd3 {[%emt 0:00:00]} 49. Re7+ {[%emt 0:00:00]}
+Kc8 {[%emt 0:00:00]} 50. Rc1+ {[%emt 0:00:00]} Kb8 {[%emt 0:00:00]} 51. Rd7 {
+[%emt 0:00:00]} Qc4 1-0
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Michalik, Peter"]
+[Black "Hertneck, Gerald"]
+[Result "1-0"]
+[ECO "A57"]
+[WhiteElo "2548"]
+[BlackElo "2493"]
+[Annotator "ChessBase"]
+[PlyCount "103"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Schwaebisch Hall"]
+[BlackTeam "Zugzwang Muenchen"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:07]} 2. c4 {[%emt 0:00:00]} c5 {[%emt 0:
+00:07]} 3. d5 {[%emt 0:00:00]} b5 {[%emt 0:00:04]} 4. cxb5 {[%emt 0:00:00]} a6
+{[%emt 0:00:05]} 5. b6 {[%emt 0:01:12]} e6 {[%emt 0:00:06]} 6. Nc3 {[%emt 0:00:
+06]} Nxd5 {[%emt 0:00:04]} 7. Nxd5 {[%emt 0:00:09]} exd5 {[%emt 0:00:03]} 8.
+Qxd5 {[%emt 0:00:11]} Nc6 {[%emt 0:00:03]} 9. Nf3 {[%emt 0:02:13]} Rb8 {
+[%emt 0:00:04]} 10. e4 {[%emt 0:01:36]} Be7 {[%emt 0:00:04]} 11. Bc4 {[%emt 0:
+00:19]} O-O {[%emt 0:00:06]} 12. O-O {[%emt 0:00:20]} Rxb6 {[%emt 0:00:03]} 13.
+Bd2 {[%emt 0:00:27]} d6 {[%emt 0:01:49]} 14. b3 {[%emt 0:03:03]} Be6 {[%emt 0:
+08:44]} 15. Qd3 {[%emt 0:00:13]} Nb4 {[%emt 0:00:19]} 16. Qe2 {[%emt 0:18:29]}
+Bxc4 {[%emt 0:00:24]} 17. Qxc4 {[%emt 0:00:18]} d5 {[%emt 0:00:12]} 18. exd5 {
+[%emt 0:00:19]} Qxd5 {[%emt 0:00:05]} 19. Qxd5 {[%emt 0:01:17]} Nxd5 {[%emt 0:
+00:06]} 20. Ne5 {[%emt 0:09:37]} Re6 {[%emt 0:02:26]} 21. Rae1 {[%emt 0:12:53]}
+Nb4 {[%emt 0:17:42]} 22. Nc4 {[%emt 0:09:13]} Nxa2 {[%emt 0:09:28]} 23. Rxe6 {
+[%emt 0:00:07]} fxe6 {[%emt 0:00:04]} 24. Ra1 {[%emt 0:00:06]} Nb4 {[%emt 0:00:
+04]} 25. Bxb4 {[%emt 0:00:07]} cxb4 {[%emt 0:00:04]} 26. Rxa6 {[%emt 0:00:30]}
+Bc5 {[%emt 0:00:39]} 27. Ra2 {[%emt 0:00:38]} Bd4 {[%emt 0:00:21]} 28. Kf1 {
+[%emt 0:08:01]} e5 {[%emt 0:01:06]} 29. Nd6 {[%emt 0:00:36]} h6 {[%emt 0:05:31]
+} 30. f3 {[%emt 0:07:41]} Rf6 {[%emt 0:00:42]} 31. Ne4 {[%emt 0:00:17]} Rc6 {
+[%emt 0:00:04]} 32. Ke2 {[%emt 0:00:09]} Kf7 {[%emt 0:00:07]} 33. Kd3 {[%emt 0:
+03:34]} Ke6 {[%emt 0:00:07]} 34. Kd2 {[%emt 0:07:36]} Kf5 {[%emt 0:04:46]} 35.
+Ra4 {[%emt 0:01:48]} Bg1 {[%emt 0:11:04]} 36. h4 {[%emt 0:04:51]} Bb6 {[%emt 0:
+03:44]} 37. Kd3 {[%emt 0:01:51]} Bd8 {[%emt 0:00:34]} 38. Ng3+ {[%emt 0:05:56]}
+Ke6 {[%emt 0:01:01]} 39. Rxb4 {[%emt 0:00:10]} Rd6+ {[%emt 0:03:11]} 40. Ke3 {
+[%emt 0:02:18]} Rd4 {[%emt 0:52:58]} 41. Rxd4 {[%emt 0:50:36]} exd4+ {[%emt 0:
+00:04]} 42. Kxd4 {[%emt 0:02:06]} Bxh4 {[%emt 0:00:04]} 43. Ne4 {[%emt 0:01:04]
+} Be7 {[%emt 0:05:26]} 44. Nc5+ {[%emt 0:05:54]} Kf5 {[%emt 0:03:41]} 45. Kd5 {
+[%emt 0:00:00]} Kf4 {[%emt 0:00:00]} 46. b4 {[%emt 0:00:00]} Kg3 {[%emt 0:00:
+00]} 47. b5 {[%emt 0:00:00]} Bd8 {[%emt 0:00:00]} 48. Ne6 {[%emt 0:00:00]} Ba5
+{[%emt 0:00:00]} 49. Nxg7 {[%emt 0:00:00]} Kxg2 {[%emt 0:00:00]} 50. f4 {
+[%emt 0:00:00]} Kf3 {[%emt 0:00:00]} 51. f5 {[%emt 0:00:00]} Kg4 {[%emt 0:00:
+00]} 52. f6 {[%emt 0:00:00]} 1-0
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Zpevak, Pavel"]
+[Black "Lammers, Markus"]
+[Result "1/2-1/2"]
+[ECO "A33"]
+[WhiteElo "2341"]
+[BlackElo "2305"]
+[Annotator "ChessBase"]
+[PlyCount "56"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Schwaebisch Hall"]
+[BlackTeam "Zugzwang Muenchen"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. c4 {[%emt 0:00:00]} c5 {[%emt 0:01:06]} 2. Nf3 {[%emt 0:00:34]} Nf6 {
+[%emt 0:00:10]} 3. Nc3 {[%emt 0:00:35]} Nc6 {[%emt 0:00:48]} 4. d4 {[%emt 0:00:
+34]} cxd4 {[%emt 0:00:06]} 5. Nxd4 {[%emt 0:00:06]} e6 {[%emt 0:03:02]} 6. a3 {
+[%emt 0:01:28]} Be7 {[%emt 0:02:18]} 7. e4 {[%emt 0:04:14]} d6 {[%emt 0:01:19]}
+8. Be2 {[%emt 0:01:30]} O-O {[%emt 0:00:55]} 9. O-O {[%emt 0:00:31]} Nxd4 {
+[%emt 0:11:36]} 10. Qxd4 {[%emt 0:00:35]} a6 {[%emt 0:00:48]} 11. Be3 {[%emt 0:
+04:44]} Bd7 {[%emt 0:00:28]} 12. Rfd1 {[%emt 0:04:05]} Qb8 {[%emt 0:03:08]} 13.
+f3 {[%emt 0:11:23]} Bc6 {[%emt 0:13:57]} 14. Rac1 {[%emt 0:06:28]} Rd8 {
+[%emt 0:04:18]} 15. Kh1 {[%emt 0:02:39]} Rd7 {[%emt 0:13:44]} 16. Rd2 {[%emt 0:
+15:40]} Qe8 {[%emt 0:07:45]} 17. Rdd1 {[%emt 0:07:01]} Rdd8 {[%emt 0:01:35]}
+18. Qd2 {[%emt 0:06:03]} h6 {[%emt 0:11:02]} 19. Bb6 {[%emt 0:05:31]} Rdc8 {
+[%emt 0:00:03]} 20. b4 {[%emt 0:04:47]} Nd7 {[%emt 0:01:33]} 21. Be3 {[%emt 0:
+02:42]} Ne5 {[%emt 0:01:51]} 22. f4 {[%emt 0:08:39]} Ng6 {[%emt 0:00:02]} 23.
+Qd3 {[%emt 0:02:05]} Rd8 {[%emt 0:03:14]} 24. Bf1 {[%emt 0:01:46]} Bf6 {
+[%emt 0:05:23]} 25. Re1 {[%emt 0:01:19]} Bh4 {[%emt 0:01:41]} 26. Red1 {
+[%emt 0:00:35]} Bf6 {[%emt 0:03:45]} 27. Re1 {[%emt 0:00:06]} Bh4 {[%emt 0:01:
+14]} 28. Red1 {[%emt 0:00:05]} Bf6 {[%emt 0:02:35]} 1/2-1/2
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Bromberger, Stefan"]
+[Black "Cornette, Matthieu"]
+[Result "0-1"]
+[ECO "E36"]
+[WhiteElo "2482"]
+[BlackElo "2612"]
+[Annotator "ChessBase"]
+[PlyCount "44"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Zugzwang Muenchen"]
+[BlackTeam "Schwaebisch Hall"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:11]} 2. c4 {[%emt 0:00:00]} e6 {[%emt 0:
+00:03]} 3. Nc3 {[%emt 0:00:00]} Bb4 {[%emt 0:00:04]} 4. Qc2 {[%emt 0:00:00]} d5
+{[%emt 0:00:49]} 5. a3 {[%emt 0:08:06]} Bxc3+ {[%emt 0:00:26]} 6. Qxc3 {
+[%emt 0:00:04]} c5 {[%emt 0:00:29]} 7. dxc5 {[%emt 0:03:34]} d4 {[%emt 0:00:21]
+} 8. Qg3 {[%emt 0:00:07]} Nc6 {[%emt 0:00:46]} 9. Nf3 {[%emt 0:00:38]} e5 {
+[%emt 0:00:49]} 10. b4 {[%emt 0:12:52]} e4 {[%emt 0:10:56]} 11. b5 {[%emt 0:13:
+35]} Na5 {[%emt 0:27:45]} 12. Nd2 {[%emt 0:00:06]} O-O {[%emt 0:00:07]} 13. Bb2
+{[%emt 0:04:14]} Re8 {[%emt 0:08:06]} 14. e3 {[%emt 0:03:44]} d3 {[%emt 0:10:
+25]} 15. f3 {[%emt 0:14:55]} Bf5 {[%emt 0:10:18]} 16. O-O-O {[%emt 0:09:45]}
+Bg6 {[%emt 0:04:21]} 17. h4 {[%emt 0:10:25]} Nxc4 {[%emt 0:03:04]} 18. Nxc4 {
+[%emt 0:01:22]} Qd5 {[%emt 0:00:07]} 19. Kb1 {[%emt 0:16:48]} Qxc4 {[%emt 0:02:
+00]} 20. Ka1 {[%emt 0:01:13]} Qb3 {[%emt 0:03:32]} 21. Bxd3 {[%emt 0:01:09]}
+exd3 {[%emt 0:00:25]} 22. h5 {[%emt 0:00:03]} Nxh5 {[%emt 0:01:06]} 0-1
+
+[Event "BL 2017-18"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "8"]
+[White "Zysk, Robert"]
+[Black "Le Roux, Jean-Pierre"]
+[Result "1/2-1/2"]
+[ECO "A38"]
+[WhiteElo "2416"]
+[BlackElo "2555"]
+[Annotator "ChessBase"]
+[PlyCount "45"]
+[EventDate "2018.??.??"]
+[EventType "team-tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Zugzwang Muenchen"]
+[BlackTeam "Schwaebisch Hall"]
+[TimeControl "40/6000+30:3000+30"]
+
+1. d4 {[%emt 0:01:26]} Nf6 {[%emt 0:00:26]} 2. Nf3 {[%emt 0:00:24]} g6 {
+[%emt 0:00:46]} 3. c4 {[%emt 0:00:39]} Bg7 {[%emt 0:00:06]} 4. g3 {[%emt 0:00:
+53]} c5 {[%emt 0:00:09]} 5. Bg2 {[%emt 0:00:26]} cxd4 {[%emt 0:02:48]} 6. Nxd4
+{[%emt 0:00:41]} O-O {[%emt 0:00:07]} 7. O-O {[%emt 0:00:04]} Nc6 {[%emt 0:02:
+10]} 8. Nc3 {[%emt 0:02:08]} Qa5 {[%emt 0:00:11]} 9. Nc2 {[%emt 0:08:04]} d6 {
+[%emt 0:06:34]} 10. Nd5 {[%emt 0:03:32]} Nxd5 {[%emt 0:03:16]} 11. cxd5 {
+[%emt 0:01:03]} Ne5 {[%emt 0:00:06]} 12. Bd2 {[%emt 0:01:17]} Qa6 {[%emt 0:05:
+40]} 13. Bc3 {[%emt 0:01:55]} Bd7 {[%emt 0:03:06]} 14. f4 {[%emt 0:10:04]} Ng4
+{[%emt 0:05:04]} 15. Bxg7 {[%emt 0:01:41]} Kxg7 {[%emt 0:00:17]} 16. Qd4+ {
+[%emt 0:01:34]} Kg8 {[%emt 0:06:01]} 17. Nb4 {[%emt 0:05:15]} Qa5 {[%emt 0:09:
+02]} 18. Rfc1 {[%emt 0:06:14]} Rac8 {[%emt 0:13:52]} 19. h3 {[%emt 0:15:28]}
+Nf6 {[%emt 0:12:29]} 20. a3 {[%emt 0:11:58]} Rc5 {[%emt 0:04:53]} 21. Nd3 {
+[%emt 0:02:16]} Rxc1+ {[%emt 0:02:35]} 22. Rxc1 {[%emt 0:00:24]} Rc8 {[%emt 0:
+11:28]} 23. Rxc8+ {[%emt 0:02:31]} 1/2-1/2
+

@@ -1,0 +1,71 @@
+[Event "5th GRENKE Chess Classic 2018"]
+[Site "Karlsruhe"]
+[Date "2018.03.31"]
+[Round "1"]
+[White "Caruana, Fabiano"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[WhiteElo "2804"]
+[BlackElo "2843"]
+[Annotator "AlexYermo"]
+[PlyCount "117"]
+[EventDate "2018.??.??"]
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. e3 O-O 5. Be2 {The modern Anti-Grunfeld setup.
+} d6 $5 {A Kings Indian from Magnus!} 6. Nc3 Nc6 7. d5 Nb4 8. a3 $6 {Helping
+the black knight to re-route to c5 feels wrong.} (8. e4 {is the way to go.})
+8... Na6 {[#]} 9. Nd4 {This only invites action in the center.} ({It's already
+a bit uncomfortable for White to rely on trusted setups, e.g} 9. e4 e6 10. dxe6
+(10. O-O Nc5 11. Qc2 exd5 12. cxd5 Re8 13. Nd2 c6 $1) 10... Bxe6 11. Nd4 Nc5
+12. f3 {as the counterplay with} Nh5 {arrives too soon to his taste. Black has
+a direct threat of Bxd4, followed by Nb3, along with the Qh4 stuff.}) 9... e5
+10. dxe6 ({Keeping the position closed with} 10. Nb3 $5 {is more in tune with
+White's normal play in the King's Indian.}) 10... fxe6 11. O-O e5 12. Nb3 (12.
+Nf3 c6 13. b4 {feels more natural, although with the time White has wasted it's
+hard to expect him to get any advantage.}) 12... c6 13. e4 Nc7 14. f4 $5 {
+Fabiano sends a message to Magnus by not backing down, even if the opening was
+far from perfect for him.} Ne6 15. f5 {[#]} Nd4 ({Carlsen rejected} 15... Qb6+
+{likely on the grounds of} 16. c5 Nxc5 17. Bc4+ $1 (17. Be3 $2 Qxb3 18. Qxb3+
+Nxb3 19. Bc4+ Kh8 20. Bxb3 gxf5 21. Rad1 Ne8 {and the two extra pawns ensure
+Black's victory.}) 17... d5 18. Be3 dxc4 19. Nxc5 Qc7 20. Qe2 Qf7 21. g4 { The
+resulting position is rather complex. White should have some compensation.} b6
+22. N5a4 h6 23. h4 {etc.}) 16. Be3 $6 ({The line} 16. Nxd4 exd4 17. Qxd4 {
+would invite a repetition of moves:} Ng4 18. Qd3 Qb6+ 19. Kh1 Nf2+ 20. Rxf2
+Qxf2 21. Be3 Qh4 22. g3 Qh3 23. Bf1 Qh5 24. Be2) ({Also,} 16. Bd3 Qb6 17. Nxd4
+Qxd4+ 18. Kh1 gxf5 19. exf5 e4 {is quite playable for both sides.}) 16... Nxe2+
+17. Qxe2 gxf5 18. exf5 d5 {Black emerges with a better game.} 19. cxd5 cxd5 20.
+Rad1 d4 21. Bg5 ({Computers entertain the idea of a piece sacrifice,} 21. Nxd4
+exd4 22. Bxd4 {but it's rather insufficient.}) 21... Qb6 22. Qc4+ Rf7 23. Na4
+Qc7 24. Qxc7 Rxc7 25. Nac5 b6 {[#]} 26. Bxf6 {Fabiano fights on from the worse
+position while low on time.} (26. Nd3 Ba6 27. Rfe1 Nd7 {is bad for White, just
+look at his Nb3.}) 26... bxc5 27. Bxg7 Kxg7 28. Nd2 Bb7 29. f6+ Kf8 $5 {
+Perhaps, a little too fancy.} ({Black had} 29... Kf7 30. Nc4 Ke6 31. Rfe1 e4
+32. b4 Rd8 {as a perfectly acceptable alternative.}) 30. Rde1 Re8 31. Ne4 ({Now
+} 31. Nc4 {is answered by} Ba6) 31... Bxe4 32. Rxe4 c4 {[#] By all rules this
+endgame should be winning for Black, and we would expect Carlsen's technique to
+do the job.} 33. g4 Rb8 ({Possible was} 33... d3 34. h4 ({In four rooks endings
+the king sometimes is no help, as seen from} 34. Kf2 Rb8 35. Rxe5 Rxb2+ 36. Kg3
+c3 $19) 34... Kf7 35. g5 Ke6 36. h5 Rg8 37. Rg4 {based on the counterintuitive
+idea of inviting the white pawns to go forward:} Rb7 38. g6 hxg6 39. hxg6 {and
+suddenly the black rook returns} Rf7 $3 {with decisive effect.}) 34. Rxe5 Rxb2
+35. Rd5 c3 36. Rd8+ Kf7 37. Rh8 $1 Rbb7 38. Rxh7+ Kg6 39. Rxc7 Rxc7 40. Kf2 c2
+41. Rc1 d3 42. Ke3 Rd7 43. Kd2 Kxf6 {[#] An unusual endgame. Black's more
+advanced pawns give him reasonable winning chances.} 44. h4 Ke5 45. Rf1 Kd4 46.
+h5 Re7 {This is where Carlsen began to go wrong.} (46... a5 $1 47. h6 Re7 48.
+Rf4+ Kd5 49. Rf1 Kc4 50. Rf4+ Kb3 {would have stopped White's defensive idea of
+Rb4+, but then Black had to see it through to the end:} 51. Rf1 Re2+ 52. Kxd3
+Rh2 53. g5 Rh5 $1) 47. Rf4+ Kd5 48. Rf1 Kc4 49. Rf4+ Kd5 50. Rf1 Kc4 51. Rf4+
+Kb3 {Having repeated moves once Magnus now goes for his main plan.} 52. Rb4+
+Kxa3 53. Rc4 Kb3 54. Rc8 {[#]} a5 $2 (54... Rh7 $3 {wins, but how does one play
+a move like this? The rook goes passive and abandons its d-pawn. The point is,
+Black doesn't need that pawn, as he facilitates the race with his a-pawn being
+the main horse.} 55. Kxd3 {White cannot do anything else. His pawns are stopped
+and the a-pawn is ready to start its march.} (55. Rb8+ Ka2 56. Rc8 a5 57. Kxd3
+Kb1 58. Rb8+ Kc1 59. Rc8 Kd1 {and it's over.}) 55... Rd7+ 56. Ke4 a5 $1 (56...
+Rd1 {is not good enough:} 57. h6 c1=Q 58. Rxc1 Rxc1 59. g5 Rh1 60. Kf5 a5 61.
+Kg6 a4 62. Kh7 a3 63. g6 a2 64. g7 {and White saves a draw by one tempo.}) 57.
+h6 a4 58. g5 a3 59. g6 {[#]} Rd8 $3 {The only move that wins!} (59... a2 60. g7
+a1=Q 61. g8=Q+ {with check!} ) 60. Rxc2 Kxc2 61. g7 a2 62. h7 a1=Q 63. g8=Q
+Qa8+ {I'm far from blaming Magnus Carlsen for missing an"easy" win, as some
+commentators proclaimed. To me this winning line is anything but easy.}) 55. h6
+Re2+ 56. Kxd3 Rh2 57. g5 Rh3+ 58. Kd2 Rh2+ 59. Kd3 1/2-1/2

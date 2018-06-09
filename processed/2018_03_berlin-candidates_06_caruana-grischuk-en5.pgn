@@ -1,0 +1,93 @@
+[Event "Candidates tournament"]
+[Site "Berlin GER"]
+[Date "2018.03.16"]
+[Round "6"]
+[White "Caruana, F."]
+[Black "Grischuk, A."]
+[Result "1/2-1/2"]
+[Title "Caruana, F. (2784) vs. Grischuk, A. (2767)"]
+[WhiteElo "2784"]
+[BlackElo "2767"]
+
+1. d4 {[%clk 0:00:00]} Nf6 {[%clk 0:00:00]} 2. c4 {[%clk 0:00:00]} g6 {[%clk
+0:00:00]} 3. Nf3 {[%clk 0:00:00]} Bg7 {[%clk 0:00:00]} 4. e3 $5 {An interesting
+sideline that spoils any plans for a Gruenfeld by delaying the move Nc3.[%clk
+0:00:00]} O-O {[%clk 0:00:00]} 5. Be2 {[%clk 0:00:00]} c5 {as with Aronian's
+anti-Gruenfeld with 3.f3, Grischuk does not shy away from a Benoni
+structure.[%clk 0:00:00]} (5... d5 {now makes less sense, since after} 6. cxd5
+Nxd5 7. e4 {the knight cannot swap with its counterpart on c3, and White can
+enjoy his space advantage unimpeded.}) (5... d6 {Of course a King's Indian style
+of play is also possible, which Caruana tried against Grischuk in the same
+position several years ago. Grischuk said afterwards that it felt strange to play
+against a variation he helped popularise (4.e3) and he cited a game against
+Nepomniachtchi as one of his "top three" in his career.} 6. Nc3 Nbd7 7. O-O e5 8.
+Qc2 Re8 9. Rd1 e4 10. Nd2 Qe7 11. b4 Nf8 12. Bb2 h5 13. Rac1 $14 {1/2-1/2 (59)
+Grischuk,A (2785)-Caruana,F (2779) Elancourt 2013 CBM 157 [Krasenkow,M]}) 6. d5
+{[%clk 0:00:00]} e6 {[%clk 0:00:00]} 7. Nc3 {[%clk 0:00:00]} exd5 {[%clk
+0:00:00]} 8. cxd5 {[%clk 0:00:00]} d6 {Black has a good Benoni due to the modest
+choice of e3 (if there is such a thing as "a good Benoni"). The fact that
+computers nowadays find the opening dubious was a topic of discussion throughout
+the day. Grischuk is of the opinion that White's structural advantages are
+counterbalanced by Black's active dark-squared bishop.[%clk 0:00:00]} 9. Nd2
+{[%clk 0:00:00]} Na6 {[%clk 0:00:00]} 10. O-O {[%clk 0:00:00]} Nc7 {[%clk
+0:00:00]} 11. e4 {[%clk 0:00:00]} Re8 {Black attacks the pawn on e4 and threatens
+an immediate b5.[%clk 0:00:00]} 12. a4 {[%clk 0:00:00]} Rb8 {[%clk 0:00:00]} 13.
+f3 $5 {Caruana completes his g2-d5 pawn chain to secure e4 at the cost of
+weakening the dark squares. But the players are still in their preparation
+here.[%clk 0:00:00]} (13. Qc2 $6 {The natural Qc2 fails to} Nfxd5 $1 14. exd5
+Bxc3 15. bxc3 Rxe2 $15 {when White should have compensation for the pawn but not
+more.}) (13. Re1 13... a6 14. a5 Bd7 {and Black would have similar counterplay as
+in the game.}) 13... a6 {[%clk 0:00:00]} 14. a5 {[%clk 0:00:00]} (14. Rb1 $2 {is
+a typical response to the black plan, and there might follow} b5 15. axb5 axb5
+{but here} 16. b4 {would only work if White can bring a knight to the dream
+square of d4. Instead Black is much better after} Nh5 $1 {with immediate
+threats.} 17. Qc2 Bd4+ {could end badly for White} 18. Kh1 $2 Ng3+ $1 19. hxg3
+Qg5 {and White is getting mated.}) 14... Bd7 {[%clk 0:00:00]} 15. Nc4 {[%clk
+0:00:00]} Bb5 {The c8-bishop is technically the "good bishop" but with White's
+massive light-squared pawn chain it makes sense to exchange it.[%clk 0:00:00]}
+16. Bg5 {[%clk 0:00:00]} Bxc4 {[%clk 0:00:00]} 17. Bxc4 {[%clk 0:00:00]} b5
+{[%clk 0:00:00]} 18. axb6 {[%clk 0:00:00]} Rxb6 {So far, Grischuk and Caruana
+have both been making natural moves. White has the bishop pair and a solid
+centre, while black has two pawn weaknesses on d6 and a6 but activity on the
+b-file and a good grip on the dark squares. A knight jump c7-b5-d4 is also in the
+air. Engines give the edge to White, but in practice it could be easier to play
+for Black.[%clk 0:00:00]} 19. Na4 {[%clk 0:00:00]} (19. Qc2 {was tried previously
+in 2015, in a game where GM Rinat Jumabayev played agressively and went on to win
+thanks to his dark-squared control.} h6 20. Bh4 g5 $5 21. Bf2 Nd7 22. Ra2 Qf6 23.
+Be2 Reb8 24. Be3 Ne5 25. g3 $1 Rb4 $13 {0-1 (62) Hamitevici,V (2430) -Jumabayev,R
+(2599) London 2015}) 19... Rb4 {[%clk 0:00:00]} (19... Rb8 {focusing on the plan
+of Nc7-b5-d4} 20. Ra2 Nb5 $13 {The problem for Black is that he now has trouble
+covering the a6 pawn.} 21. Kh1 Qc8 {and here Black should be a bit faster than in
+the game.}) (19... Rb7 {was the suggestion of Caruana, with a similar idea to
+Rb8, keeping the b5-d4 route available.}) 20. b3 {[%clk 0:00:00]} Qc8 {[%clk
+0:00:00]} (20... Nb5 $6 {would now lose the exchange to} 21. Bd2 Nd7 22. Ra2
+{although Black still gets some compensation on the dark squares.}) 21. Bf4 $5
+{The computer's first choice although Caruana said that he started to dislike his
+position after this move.[%clk 0:00:00]} Qd7 {[%clk 0:00:00]} (21... Nh5 $6 22.
+Bxd6 Bxa1 $2 {Grischuk wouldn't have considered this move for a second, however
+22...Nb5 is interesting and double-edged} (22... Nb5 $5 {The bishop on d6 is
+loose, but the tactics work in White's favour} 23. Nb6 $1 Qb7 24. Bxc5 Nc3 25.
+Qd2 Rxb6 26. Kh1 $16 {and White then has enough pawns to be better than Black's
+uncoordinated extra minor piece.}) 23. Qxa1 {leaves Black's position in chaos,
+and his kingside full of holes.}) 22. Ra2 {[%clk 0:00:00]} Nh5 {[%clk 0:00:00]}
+23. Be3 {[%clk 0:00:00]} Rbb8 {Grischuk now realises he's not getting anywhere
+without Nb5.[%clk 0:00:00]} 24. Qd2 {[%clk 0:00:00]} Nb5 {threatening to come to
+d4 and provoking Caruana to temporarily switch the diagonal for his dark squared
+bishop and bring his a4-knight back into play. But black has made progress.[%clk
+0:00:00]} 25. g4 {[%clk 0:00:00]} Nf6 {[%clk 0:00:00]} 26. Nb2 {[%clk 0:00:00]}
+Qc8 {[%clk 0:00:00]} 27. Bf4 {[%clk 0:00:00]} Nd7 $5 {Grischuk is willing to give
+up a pawn in order to regroup his knight and repair his queenside structure. His
+c-pawn suddenly becomes dangerous.[%clk 0:00:00]} 28. Bxb5 {[%clk 0:00:00]} axb5
+{[%clk 0:00:00]} 29. Bxd6 {[%clk 0:00:00]} Rb6 {[%clk 0:00:00]} 30. Bg3 {[%clk
+0:00:00]} c4 {All Black's pieces are now in position to support the c-pawn and
+White must play accurately, especially since Caruana was surprisingly low on time
+â€” normally it has been Grischuk behind on the clock.[%clk 0:00:00]} 31. bxc4
+{[%clk 0:00:00]} bxc4 {[%clk 0:00:00]} 32. Qe2 $1 {Grischuk missed this move when
+he played 26...Qc8, and more or less forced this position. The comical knight on
+b2 suddenly threatens to pounce on c4, therefore...[%clk 0:00:00]} Rb4 $1
+{Caruana reluctantly bails out with a move repetition. He still has the advantage
+after Rc1, but didn't see a clear path and was playing on the increment at this
+point. A draw ensured he would retain the tournament lead.[%clk 0:00:00]} (32...
+c3 $2 33. Nc4 Rb4 34. Na5) 33. Bd6 {[%clk 0:00:00]} Rb6 {[%clk 0:00:00]} 34. Bg3
+{[%clk 0:00:00]} Rb4 {[%clk 0:00:00]} 35. Bd6 {[%clk 0:00:00]} Rb6 {[%clk
+0:00:00]} 36. Bg3 {[%clk 0:00:00]} 1/2-1/2

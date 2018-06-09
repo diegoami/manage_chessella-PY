@@ -1,0 +1,34 @@
+[Event "78th Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2016.01.16"]
+[Round "1"]
+[White "Caruana, F."]
+[Black "Eljanov, P."]
+[Result "1-0"]
+[ECO "D24"]
+[WhiteElo "2787"]
+[BlackElo "2760"]
+[PlyCount "75"]
+[EventDate "2016.01.15"]
+
+1. Nf3 d5 2. c4 e6 3. d4 Nf6 4. Nc3 dxc4 5. e4 {Steering towards a well-known
+gambit.} Bb4 6. Bxc4 Nxe4 7. O-O Nf6 8. Bg5 O-O 9. Qe2 h6 10. Bh4 Be7 11. Rad1
+{White is a pawn down but has attacking chances on the white squares on the
+kingside.} Nbd7 12. Ne5 Nb6 13. Bd3 Nfd5 14. Bg3 Bd7 15. Ne4 Ba4 16. Rc1 Nd7
+17. b3 Nxe5 18. dxe5 Bc6 19. Rfd1 a5 20. a4 Qe8 21. h4 Rd8 22. h5 Nb4 23. Bb1
+Kh8 {A prophylactic move. Black does not want to give White's knight the
+chance to land on f6 with check.} ({Here's a sample line:} 23... Rxd1+ 24. Rxd1
+Qa8 25. Nf6+ gxf6 $2 ({Better is} 25... Kh8 26. Rd7 Bc5 27. Rxc7 {and
+according to Fritz 15 White has a slight advantage.}) 26. Qg4+ Kh8 27. Qf4 Kg7
+28. Bh4 {and White is winning.}) 24. Bf4 Rg8 25. Bd2 Rd5 26. Bxb4 axb4 27. Rxd5
+exd5 28. Ng3 Bg5 29. Re1 g6 30. Qg4 Qe7 31. Qd4 b6 $2 {The decisive mistake as
+Caruana indicated after the game.} ({But} 31... Qe6 32. Qxb4 {White finally
+regained his pawn and has a comfortable game.}) 32. e6+ Bf6 ({After} 32... Rg7
+{White has} 33. exf7 Qxe1+ 34. Kh2 Qe7 35. hxg6 {and the threats of 36.Nf5 or
+36.Nh5 give White a winning position. One crazy sample line is} Bf6 36. Nf5
+Bxd4 37. Nxe7 Be5+ 38. Kh3 Bd7+ 39. g4 Rxf7 40. gxf7 Kg7 41. f8=Q+ Kxf8 42.
+Ng6+ Kg7 43. Nxe5 $18) ({After} 32... Kh7 {White also has} 33. Nf5 {with a
+winning attack, e.g.} Qf6 34. exf7 Qxf7 35. hxg6+ Rxg6 36. Nh4 $18) 33. Qf4 g5
+34. Qf5 Rg7 35. Qc2 $1 {A powerful retreat. White attacks the bishop on c6 and
+threatens 36.Nf5.} Qc5 36. Qxc5 bxc5 37. Nf5 Rg8 38. exf7 1-0
+

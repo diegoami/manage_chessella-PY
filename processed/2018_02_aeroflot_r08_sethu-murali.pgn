@@ -1,0 +1,63 @@
+[Event "15th Aeroflot Open 2018"]
+[Site "Moscow"]
+[Date "2018.02.27"]
+[Round "8"]
+[White "Sethuraman, S.P."]
+[Black "Karthikeyan, Murali"]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "2646"]
+[BlackElo "2585"]
+[Annotator "TA"]
+[PlyCount "183"]
+[EventDate "2018.??.??"]
+[EventType "swiss"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,183,39,54,51,52,52,57,46,68,63,70,45,72,31,36,34,68,16,18,0,92,10,49,
+44,48,33,37,28,21,22,33,22,26,31,17,27,20,28,28,16,46,35,86,82,112,95,98,93,93,
+93,100,96,116,116,116,116,129,121,156,104,112,97,95,96,101,101,179,150,178,147,
+194,194,208,209,253,249,213,186,278,247,221,133,227,220,256,287,183,263,279,
+263,254,0,0,0,212,0,8,0,0,0,0,0,8,8,8,8,22,25,50,22,23,23,30,0,0,0,0,0,0,0,14,
+0,288,288,288,288,288,288,281,281,280,271,242,239,224,202,202,183,407,337,514,
+484,431,568,518,510,417,368,934,922,903,903,575,656,987,910,929,907,12812,5281,
+5327,5216,2308,2065,29985,29986]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5.
+O-O d6 6. c3 g6 7. d4 Qe7 8. Re1 Bg7 9. Nbd2 {[%cal Bb1d2,Bd2f1,Bf1g3][%mdl 32]
+} O-O 10. h3 Bd7 11. Nf1 {C55: Two Knights: 4 d3, 4 d4 exd4 5 e5 and Max Lange
+Attack} Rfe8 $146 ({Predecessor:} 11... Rae8 12. Ng3 Kh7 13. a4 Na5 14. Bf1 c5
+15. dxe5 dxe5 16. b4 Nc6 17. Ba3 Rc8 18. bxc5 Rfd8 {1-0 (48) Lenic,L (2662)
+-Gretarsson,H (2565) chess.com INT 2018}) 12. Ng3 Qf8 13. Bd2 {White is
+slightly better.} Rad8 14. a3 Bc8 15. Bb5 Bd7 {...Nxd4 would now be nice for
+Black.} 16. Qb3 Na5 17. Qa4 Bxb5 18. Qxa5 (18. Qxb5 $14 b6 19. Rab1) 18... c6
+$11 19. dxe5 Nd7 (19... dxe5 $11 20. Qxa7 Qe7) 20. a4 (20. exd6 $1 $16 {
+With the idea Rad1.} Qxd6 21. Be3 (21. Qxa7 Ne5 $11)) 20... Ba6 21. exd6 Qxd6
+22. Be3 c5 23. Rad1 Qc6 {Threatening ...Qc8.} 24. b3 Qc8 $1 {...b6 is the
+strong threat.} 25. c4 b6 26. Qd2 $36 {[%mdl 2048] White is pushing.} Ne5 27.
+Qe2 Nxf3+ 28. Qxf3 Bb7 29. Qf4 Rxd1 30. Rxd1 Be5 (30... Rd8 $14 31. Qg4 Qb8)
+31. Qh4 $16 h5 32. f3 Qe6 33. Ne2 f5 34. exf5 Qxf5 35. Qg5 Qf7 36. Rd8 Rxd8 37.
+Qxd8+ Kh7 38. Bd2 Qg7 39. Qd3 (39. Bf4 $142) 39... Bc8 40. Bc3 Bf5 41. Qd2 h4
+42. Kf2 Qe7 (42... Bxc3 $16 43. Nxc3 (43. Qxc3 Qxc3 44. Nxc3 Bc2 $11) 43... g5)
+43. Bxe5 $18 Qxe5 44. a5 Kg7 45. Qd8 $1 bxa5 46. Qxa5 Bd3 47. Qxa7+ Kf6 48.
+Qa6+ Kg7 (48... Kf7 {was necessary.}) 49. Qa2 Kf6 50. f4 Qb8 (50... Qe4 $16 {
+keeps fighting.}) 51. Ke3 Bxe2 52. Qb2+ ({Weaker is} 52. Kxe2 Qxf4 53. Qd2 Qe4+
+54. Kf2 Qf5+ 55. Ke3 Qe5+ 56. Kd3 Qf5+ 57. Kc3 Qe5+ 58. Kc2 Qe4+ 59. Kc1 Ke6
+$16) (52. Qxe2 Qxb3+ 53. Qd3 Qb6 $16) 52... Kf7 {Threatens to win with ...Bxc4!
+} 53. Qxe2 Qxb3+ {[%mdl 4096] Endgame KQ-KQ} 54. Qd3 Qb7 55. Qe4 $2 (55. f5 $1
+$18) 55... Qb3+ $11 56. Qd3 $2 (56. Kd2 $11) 56... Qb7 $1 $18 57. Qc2 $2 (57.
+f5 $1 $18) 57... Qb4 58. Ke2 {Black must now prevent f5.} Qb7 59. Kf2 {
+Strongly threatening f5.} Qd7 60. Kf3 Qd4 61. Qb3 Qd7 62. Qb1 Qc6+ 63. Qe4 Qd7
+$1 64. Ke2 (64. f5 $5 gxf5 65. Qxh4 Qd3+ 66. Kf2 $14) 64... Qf5 $1 {[%cal
+Rf5e4]} 65. Qb7+ Kf6 66. Qc6+ Kg7 67. Ke3 Qb1 68. Qd7+ Kh6 69. Qd2 Qf1 70. Qe2
+(70. Qf2 {is interesting.} Qc1+ 71. Kd3 Qb1+ 72. Qc2 Qe1 73. Qb2) 70... Qc1+ $2
+{[%mdl 8192]} (70... Qa1 $11 {and Black stays safe.}) 71. Ke4 Qc3 72. Kd5 $1
+Qd4+ 73. Kc6 Qxf4 74. Kxc5 Qc7+ 75. Kb4 Qb6+ 76. Kc3 Qa5+ {[#]} 77. Kb3 $1 Qb6+
+{[#]} 78. Kc2 $1 g5 $2 (78... Qc6 79. Qd2+ Kh7) 79. Qd2 Qa6 (79... Qc5 $142 80.
+Qd5 Qf2+ 81. Kd3 Qf1+ 82. Kd4 Qf6+ 83. Kc5 Qh8) 80. Qd5 Qa2+ 81. Kc3 Kg6 82.
+Kb4 Kf6 83. Kb5 Qb2+ $2 (83... g4 84. hxg4 Qb2+ 85. Ka5 Qa2+ 86. Kb6 Qb2+ 87.
+Kc7 Qc3) 84. Kc6 Qa2 85. Kb6 Qb2+ 86. Kc7 Qa2 87. Qc6+ Ke5 88. c5 {[%cal Bc4c5,
+Bc5c6,Bc6c7][%mdl 32]} Qa5+ 89. Kd7 Qa2 90. Qd6+ Kf5 91. c6 Qxg2 92. c7 {
+Precision: White = 67%, Black = 46%.} 1-0
+

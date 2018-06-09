@@ -1,0 +1,68 @@
+[Event "5th Shamkir Chess 2018"]
+[Site "Shamkir"]
+[Date "2018.04.26"]
+[Round "7"]
+[White "Navara, David"]
+[Black "Ding, Liren"]
+[Result "0-1"]
+[ECO "C90"]
+[WhiteElo "2745"]
+[BlackElo "2778"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "72"]
+[EventDate "2018.??.??"]
+[EventType "tourn"]
+[EventCountry "AZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a3
+{This has always been a poor relation of the main moves, of which the most
+principled remains 8.c3, in spite of allowing the Marshall Gambit.} d6 {
+The most principled and popular move.} (8... Bc5 $5 {creates a strange
+impression but has been chosen by Aronian; it makes sense in that in the
+Arkhangelsk variation White would typically like to play a4, and in this case
+Black will regain his tempo and rejoin main lines.} 9. c3 Bb6 10. d4 Re8 $1 {
+and now the Aronian game continued:} 11. Bg5 d6 12. Qd3 Na5 13. Bd5 c6 14. Ba2
+c5 $5 15. dxc5 dxc5 16. Qxd8 Rxd8 17. b4 Nb7 18. c4 (18. Nxe5 c4 $132 {is of
+course the key test, but I think Black has enough here.}) 18... bxc4 19. Bxc4
+cxb4 20. axb4 {Here the game Grischuk,A-Aronian,L Sharjah 2017 was agreed
+drawn; one possible continuation is} h6 21. Bxf6 gxf6 22. Rxa6 Rxa6 23. Bxa6
+Nd6 $44 {and it would be hard to fault White for believing the compensation
+here.}) 9. c3 Na5 10. Ba2 c5 11. d4 $6 {White's sole idea in this variation
+was to keep the light-squared bishop on a more active diagonal. After the text,
+Black has a completely logical reply, which negates this gain and leaves White
+objectively suffering.} (11. b4 $5 {is interesting here.} Nc6 12. d3 (12. d4 $2
+exd4 13. cxd4 Bg4 $15) 12... Be6 13. Bxe6 fxe6 14. Nbd2 $13 {Here the
+pawn-structure does not make it clear who should be playing for what, or where.
+The position is about equal, but the player who finds even a marginally better
+plan will find himself with a better position in no time.}) 11... c4 $1 {
+Black lays claim to a small edge at this point. From here on in, Ding Liren
+demonstrates some really crisp and clean chess.} (11... Qc7 12. b4 cxb4 13.
+axb4 Nc4 14. Nbd2 {may also be playable, but it gives White some of what he
+wants.}) 12. Bg5 (12. dxe5 $2 dxe5 13. Qxd8 Rxd8 14. Nxe5 {is obviously not
+free, due to} Nxe4 15. Nf3 $6 Nc5 $3 $17) 12... h6 13. Bh4 Bg4 (13... Nh5 $15 {
+is the most thematic move, and after this too Black seems to be marginally
+better already.}) 14. h3 Bxf3 15. Qxf3 Nc6 16. d5 Na5 17. Bxf6 (17. Bg3 Nd7 18.
+Nd2 Nc5 $15 {is not encouraging}) 17... Bxf6 18. Nd2 Bg5 19. Nf1 g6 {Alongside
+White's numerous objective problems is the stylistic one that Black's moves
+suggest themselves immediately. Some cosmetic improvements on the kingside, a
+bit of 'hinting' at the idea of ...f5, and then the inevitable breakthrough
+with ...b4.} 20. a4 Qe7 21. Bb1 Nb3 22. Ra2 Nc5 23. Bc2 Rfb8 24. g3 h5 25. h4
+Bh6 {All according to plan. White had no active alternatives.} 26. axb5 axb5
+27. Rea1 Rxa2 28. Rxa2 Kg7 29. Qe2 Rb7 30. Qe1 Qc7 31. Kg2 Qb6 {It was never
+going to be possible to hold back ...b4 in the long term, not least because
+the c2-bishop needs to stay where it is to prevent immediate incursions by the
+Black knight (thus, White never has Ne3-c2-b4.) One thing that is, however,
+slightly surprising is that White crumbles in a further 5 moves.} 32. Kf3 $2 {
+Maybe White was trying for g4, or maybe the king was just wandering to e2 via
+the front route. We shall never know, because on the next move it went
+straight back.} Rc7 {Still thinking of ...Nd3, but possibly in conjunction
+with ...Rc4 after the pawn has vacated that square.} (32... Nd3 33. Bxd3 cxd3
+34. Qd1 f5 {was the engine solution, relying on ...Rf7 ideas like} 35. Qxd3 $2
+fxe4+ 36. Qxe4 Rf7+ $19) 33. Kg2 $2 (33. Qd1 b4 34. cxb4 Qxb4 35. Kg2 $17 {
+was possible and Black still needs to find an idea that doesn't simplify too
+much}) 33... b4 {Now Ding finishes crisply.} 34. cxb4 Nd3 35. Bxd3 cxd3 {
+Both ...Rc1 and ...Rc2 are extremely dangerous threats and White has no answer
+to both.} 36. Ra1 (36. Qd1 Rc2 37. Qf3 d2 $19) 36... Rc2 0-1

@@ -1,0 +1,130 @@
+[Event "Fischer Memorial GM"]
+[Site "?"]
+[Date "2018.04.11"]
+[Round "3"]
+[White "Mitsis, G..."]
+[Black "Arkell, Keith C"]
+[Result "1-0"]
+[ECO "A43"]
+[WhiteElo "2258"]
+[BlackElo "2418"]
+[Annotator "DF"]
+[PlyCount "129"]
+[EventDate "2018.??.??"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 b5 4. Bg5 ({There are of course other moves, such as
+} 4. a4 b4 5. c4 {bringing about the standard 'Benko declined' structure.})
+4... Qb6 {A major theoretical continuation and one which demands great
+originality from both players if White goes down a particular route.} ({
+In a previous encounter with one of the other players in my section, I chose} 
+4... g6 $5 5. Bxf6 exf6 {which is a sharp and (in my opinion) fully correct
+line.} 6. e4 (6. e3 a6 7. a4 b4 {should also be approximately equal, and was
+chosen by the Black player of the main game when he had the White pieces.} 8.
+a5 d6 9. Nbd2 Bg7 $132 {Arkell,K-Degraeve,R chess.com INT 2017}) 6... a6 7. a4
+b4 8. Bd3 Bg7 9. Nbd2 O-O 10. O-O Bb7 11. Nc4 f5 $1 $132 {Black is completely
+fine although I later went on to lose in Ider,B-Fernandez,D Porto 2015}) 5. a4
+(5. Bxf6 {is surprisingly popular, especially given that by contrast to the
+last note Black doesn't even have any structural problems.} Qxf6 6. c3 Qb6 7.
+e4 g6 8. a4 b4 9. Nbd2 Bg7 10. a5 Qb7 $132 {Gelfand,B-Svidler,P Moscow 2018})
+5... bxa4 $6 {Not absolutely terrible, but rather unusual and not thematic.} (
+5... b4 6. a5 Qd6 {is the correct way to play, and now the only high-profile
+test for some time continued} 7. c4 Ne4 $1 8. Bh4 e6 $2 (8... Qh6 $5 $36) 9. e3
+(9. Qd3 $1 f5 10. Nbd2 Nxd2 11. Qxd2 Be7 12. Bg3 Qa6 13. e4 $14) 9... Bb7 10.
+a6 $5 {An exceedingly messy game ensued and was eventually drawn. Nabaty,T
+-Sadler,M London 2017}) 6. Nc3 d6 (6... Qxb2 7. Bd2 Qb6 8. e4 $16 {gives White
+a vast amount of compensation, though finishing the job is always still
+difficult.}) (6... g6 $14 {does nothing about the structural deficiencies, but
+Black should survive the opening.}) 7. e4 Nbd7 $6 {For Keith Arkell, allowing
+further structural problems would feel worse than death itself, so he opts to
+prevent e5 rather than getting on with castling immediately.} 8. Be2 $6 {
+This is slightly slack.} (8. Bb5 $1 h6 9. Bd2 $16 {isn't something that
+usually happens within 10 moves: White will get e5, possibly prefaced with Qe2
+and/or castling.}) 8... h6 9. Be3 g6 10. O-O Bg7 11. Nxa4 (11. Rxa4 {was maybe
+marginally better, keeping open the option of Qd2 and Rfa1.}) 11... Qc7 12. Nd2
+O-O {Now at least on a human level there is a feeling that Black has rather
+survived the worst.} 13. Nc3 Nb6 (13... a5 $1 $14 {somehow gives Black
+reasonable Benko-type counterplay, even without the odd tempo here and there.})
+14. f4 a6 (14... a5 $1 $14 {was good again. The idea is ...a4 to gain space,
+then either ...Ba6 or ...Bd7 and ...Rfb8.}) 15. Kh1 e6 16. dxe6 fxe6 (16...
+Bxe6 17. f5 {has the same evaluation, but looks a lot less fun.}) 17. Nc4 Rd8
+18. Nxb6 Qxb6 19. Bf3 Bb7 (19... Rb8 $1 $14 {was Black's last chance to be
+only slightly worse.}) 20. Qe2 d5 $2 {Now Black gets bound up in a truly
+awful-looking structure.} (20... Rab8 21. e5 dxe5 22. fxe5 Nd7 23. Bxb7 Qxb7
+24. b3 $16 {is already quite seriously annoying, but probably still best.}) 21.
+e5 (21. Na4 Qc7 22. exd5 Nxd5 23. Bxc5 $16 {would have been what I was tempted
+to do, trying to win a position with the centre as clarified as possible.})
+21... Nd7 22. Na4 Qc7 23. Bg4 Re8 24. Qd3 $1 {Machine-like play by Mitsis, not
+getting worried about ...d4, which would look a bit too much like counterplay
+to most players.} (24. c3 {is also possible, but unnecessary, and Black may
+get the chance to sacrifice an exchange with} h5 25. Bf3 Rf8 {and then just
+leaving it on f5.}) 24... d4 25. Bd2 Nf8 (25... Kh7 26. Bh5 Nf8 27. Bf3 $16 {
+is similar}) 26. b4 h5 27. Bf3 Bxf3 28. Rxf3 cxb4 29. Bxb4 Kh7 $2 (29... Rac8
+$5 {was Black's last chance, even if it looks like a truly terrible idea to
+give up g6.} 30. Bxf8 Rxf8 31. Qxg6 Qxc2 32. Qxe6+ Kh8 $16 {and there is a bit
+of counterplay.}) 30. Bd6 Qf7 31. Nc5 $1 $18 {The trap slams shut. The rest of
+the game is interesting only from the perspective of seeing how to put away a
+Grandmaster in a winning position.} a5 32. Qxd4 Rec8 33. c4 Rc6 34. Ne4 Kg8 35.
+c5 Qb7 36. Nd2 Rca6 37. Rb3 Qc6 38. Ra4 h4 39. Qc4 R8a7 40. Qe4 Qd7 41. Rb8 h3
+42. gxh3 Rc6 43. Nf3 Rc8 44. Rb6 Qd8 45. Kg2 Bh6 46. h4 Rf7 47. Ng5 Bxg5 48.
+hxg5 Rf5 49. h4 Nd7 50. Rb5 Nb8 51. Raxa5 Nc6 52. Ra6 Ne7 53. c6 Nd5 54. Rxd5
+exd5 55. Qxd5+ Kh8 56. Kg3 Qe8 57. c7 Kh7 58. Ra7 Kh8 59. Qc4 Qd7 60. Rb7 Kh7
+61. Rb8 Kg7 62. Rxc8 Qxc8 63. e6 Kh7 64. Be5 Rf8 65. Qc6 1-0
+
+[Event "Capablanca Memorial GM"]
+[Site "?"]
+[Date "2018.04.10"]
+[Round "?"]
+[White "Poetsch, Hagen"]
+[Black "Fernandez, Daniel Howard"]
+[Result "1-0"]
+[ECO "B94"]
+[WhiteElo "2484"]
+[BlackElo "2483"]
+[Annotator "DF"]
+[PlyCount "69"]
+[EventDate "2018.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Bg5 b5 $5 {I decided to
+mix it up a bit and play a line I looked at a few months ago. Unfortunately it
+turns out White can play more slowly than I originally thought.} 7. Bxf6 (7.
+Qf3 {was my main move.} Qb6 $1 (7... Nbd7 8. e5 $1 $32) (7... Bb7 8. Bxf6 gxf6
+9. Nd5 {makes it difficult for Black to develop. Best is} Nc6 10. Nxc6 Bxc6 {
+but White gets an edge with the accurate} 11. a4 $14) 8. Bxf6 gxf6 9. O-O-O e6
+$1 10. Qxf6 (10. e5 Bb7 11. Qxf6 Rg8 12. exd6 Nd7 $11) 10... Rg8 $44 {White
+has an extra pawn but Black's play is easy and obvious: ...Nd7, ...b4, ...Bg7
+etc.}) 7... gxf6 8. Qh5 (8. a4 $6 b4 9. Nd5 e6 10. Nxb4 $6 d5 11. Nbc6 Nxc6 12.
+Nxc6 Qb6 13. exd5 exd5 14. Nd4 Qxb2 $15) 8... e6 9. O-O-O Qb6 {Not the most
+accurate.} (9... Bg7 $5 {was one idea that occurred to me, but I didn't dare
+to play it. The main idea is that after} 10. Rd3 b4 11. Nce2 O-O $3 $132 {
+Black somehow contrives not to get mated, but if you misremember the position,
+it could be mate in 5 or so...}) 10. f4 Nc6 11. Nxc6 Qxc6 12. f5 $1 $14 {
+White has probably acheived quite a favourable Rauzer.} Qc5 13. Bd3 {Setting
+up various ideas of e5.} Qe5 $6 (13... b4 14. Ne2 Ke7 $14 {is thematic, and
+could have been better, keeping open the option of ...e5, however unlikely
+Black is to actually use it.}) 14. Rhe1 Bg7 15. Nd5 $1 {This is the right idea
+to play, either immediately or not.} (15. Kb1 Bb7 {and now White should
+probably play Nd5-e3-g4, or else Black will get developed.}) 15... Kf8 16. Ne3
+Bd7 $2 (16... Bb7 {was the right bishop move, because the x-ray on the d-file
+proves to be more important than the resource ...Be8, for concrete reasons.}
+17. Kb1 $1 (17. Ng4 Qf4+ 18. Kb1 exf5 19. exf5 Bxg2 $1 $44) 17... Re8 18. Ng4
+Qc5 $16 {White has a more comfortable position, but the immediate breaks
+aren't working yet.}) 17. Ng4 Qc5 18. Qh4 $3 {A very strong idea which I had
+completely missed. White obliges me to play ...Ke7 and thus forces through e5.}
+Ke7 19. e5 $1 {White is close to winning.} dxe5 20. Rxe5 $6 (20. Nxe5 Rad8 21.
+Kb1 $18 {is the engine choice, and Black's f7 and e6 pawns look extremely
+shaky.}) 20... Qc7 21. fxe6 Bxe6 22. Rf1 {Reaching the final critical juncture.
+} h5 $2 (22... Rad8 $1 {was the best defence, counterattacking the bishop on
+d3.} 23. Rxf6 $1 (23. Nxf6 {is still a three result game.} Bh6+ $1 (23... Qxe5
+24. Ng4+ Bf6 25. Rxf6 $16) 24. Qxh6 Qxe5 25. Qh4 h6 $14) 23... Bxf6 24. Nxf6 (
+24. Qxf6+ Kd7 25. b4 Qd6 $14 {and White has good compensation but Black has
+answers.}) 24... Kf8 $1 25. Qh6+ $1 (25. Nxh7+ $2 Rxh7 26. Bxh7 Qxe5 27. Qxd8+
+Kg7 $11) 25... Ke7 26. Qg5 h6 27. Nd5+ Kf8 28. Qf6 $1 Rxd5 29. Rxd5 Bxd5 30.
+Qxh8+ Ke7 31. Qxh6 Qc5 $16 {With good play from both sides, we have reached an
+endgame where Black has a small amount of compensation for 2 pawns, but White
+should still win in practice.}) 23. Rxe6+ $1 {The only move, but if White
+finds it he wins.} (23. Nxf6 Bh6+ 24. Kb1 Qxe5 $44 {is nothing for White.}) (
+23. Rxf6 hxg4 $1 24. Rfxe6+ Kf8 25. Qg3 Bxe5 26. Rxe5 Qb6 $44) 23... fxe6 24.
+Nxf6 Bh6+ 25. Kb1 Qe5 26. Ng8+ $1 {An accurate find in a position which is
+objectively winning for various reasons. The rest is just a torturous king
+hunt.} Kd6 27. Nxh6 Rxh6 28. Qb4+ Kc7 29. Rf7+ Kb6 30. a4 Rd8 31. a5+ Kc6 32.
+Be4+ Rd5 33. Qe7 Rh8 34. b4 Qxe4 35. Qc7# 1-0

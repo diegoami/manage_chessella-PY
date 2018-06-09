@@ -1,0 +1,24 @@
+[Event "US-ch Open 2018"]
+[Site "Saint Louis"]
+[Date "2018.04.28"]
+[Round "10"]
+[White "Lenderman, Aleksandr"]
+[Black "Xiong, Jeffery"]
+[Result "0-1"]
+[ECO "A20"]
+[WhiteElo "2599"]
+[BlackElo "2665"]
+[Annotator "AlexYermo"]
+[SetUp "1"]
+[FEN "6k1/1p3pp1/p2p1nb1/P2P3p/1P1QP3/4P1PP/2qN1KB1/8 b - - 0 36"]
+[PlyCount "39"]
+[EventDate "2018.??.??"]
+
+{[#]} 36... Bxe4 37. Bxe4 Qxd2+ 38. Qxd2 Nxe4+ 39. Ke2 Nxd2 40. Kxd2 f5 (40...
+Kh7 41. e4 Kg6 42. Ke3 f5 43. h4 fxe4 44. Kxe4 Kf6 45. Kf4 g5+ 46. Ke4 Kg6) 41.
+Kd3 (41. h4 $3 Kf7 42. Kd3 Kf6 43. Kd4 g5 (43... g6 44. b5 g5 45. b6 Kg6 46.
+Kd3 $11) 44. b5 $1 axb5 (44... Kg6 45. bxa6 bxa6 46. Kd3 $11) 45. Kc3 gxh4 46.
+gxh4 Ke5 47. Kb4 Ke4 48. Kxb5 Kxe3 49. Kb6 f4 50. Kxb7 f3 51. a6 $11) 41... Kf7
+42. Kd4 $2 Kf6 $2 43. b5 $2 (43. h4 $11) 43... Kg5 $19 44. e4 fxe4 45. bxa6
+bxa6 46. Kxe4 g6 $22 47. Ke3 Kf5 48. Kd4 g5 49. h4 g4 50. Kd3 Ke5 51. Ke3 Kxd5
+52. Kd3 Ke5 53. Kc3 d5 54. Kd3 d4 55. Kc4 Ke4 0-1

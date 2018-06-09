@@ -1,0 +1,80 @@
+[Event "FIDE World Blitz-ch Men 2017"]
+[Site "Riyadh"]
+[Date "2017.12.30"]
+[Round "13"]
+[White "Amonatov, Farrukh"]
+[Black "Artemiev, Vladislav"]
+[Result "0-1"]
+[ECO "B42"]
+[WhiteElo "2636"]
+[BlackElo "2691"]
+[Annotator "AlexYermo"]
+[SetUp "1"]
+[FEN "b2r2k1/2r2ppp/p2Np1n1/2P1P1b1/3B4/Pq1B3P/4Q1P1/3R1RK1 b - - 0 31"]
+[PlyCount "55"]
+[EventDate "2017.??.??"]
+[EventType "blitz"]
+
+{Worse position, low on time. Artemiev decides to gamble. [#]} 31... Nf4 $6 32.
+Qg4 Bxg2 (32... Nxd3 {loses a piece to} 33. Qxg5 Rf8 34. Qe3 Nxc5 35. Rc1) 33.
+Rxf4 Bxf4 34. Kxg2 Qa2+ 35. Kf3 Bh6 36. Qe4 {It seemed Amonatov was setting up
+a decisive shot.} g6 {[#] then inexplicably came} 37. Be3 $4 ({It's painful to
+watch good players miss elementary double attacks they have known since grade
+school.} 37. Qh4 $18) 37... Bxe3 38. Qxe3 Qd5+ 39. Kf2 Qxc5 40. Bxa6 $2 {
+Keeping the queens on when your king is open like this...} (40. Qxc5 Rxc5 41.
+Nb7 Rxd3 42. Rxd3 Rxe5 43. Rd7 Rb5 44. Nd8 Kf8 45. Ra7 Rd5 46. Nc6 $14) 40...
+Qc2+ 41. Be2 Rc3 42. Qf4 Rf8 43. Ne4 Rxh3 44. Nf6+ Kg7 45. Rc1 Qb2 46. Rc7 $2 {
+Another bad blunder.} (46. Kg2 $11 Rxa3 $140 47. Nh5+) 46... Qb6+ 47. Kg2 Qxc7
+48. Kxh3 Qc3+ 49. Qg3 $2 {equals resignation.} (49. Bf3 Rc8 50. Ng4 $17) 49...
+Qxg3+ 50. Kxg3 Ra8 51. Bf3 Rxa3 52. Kf4 Ra4+ 53. Be4 h6 54. Ke3 Ra5 55. Kd4 h5
+56. Bd3 Kh6 57. Be4 Kg5 58. Nd7 Kf4 0-1
+
+[Event "FIDE World Blitz-ch Men 2017"]
+[Site "Riyadh"]
+[Date "2017.12.30"]
+[Round "14"]
+[White "Grischuk, Alexander"]
+[Black "Fressinet, Laurent"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "2772"]
+[BlackElo "2662"]
+[Annotator "AlexYermo"]
+[SetUp "1"]
+[FEN "8/2K5/2B5/k7/2R5/8/8/r7 b - - 0 91"]
+[PlyCount "8"]
+[EventDate "2017.??.??"]
+[EventType "blitz"]
+
+91... Ka6 $4 {Hardly a tournament goes by without top players butchering this
+endgame.} (91... Ra2 {is a draw.}) 92. Rc5 $18 Ra3 93. Rh5 $4 ({The win is not
+as trivial as in the Philidor position.} 93. Bg2 $1 {First order of business
+is to push the black king to a7.} Ra1 94. Bh3 Ka7 95. Bf1 Ra3 96. Rc6 Ra5 {[#]}
+(96... Ka8 97. Bb5 Ra7+ 98. Kc8 Ra5 99. Rb6 $1 Ka7 100. Rb7+ Ka8 101. Bc6 {
+is an important theme.}) {And now} 97. Rc3 $1 {is the key move to keep the
+black rook from the a3-square, where it becomes safe when the black king comes
+out via a5-b4} Ra1 98. Bb5 Ra2 (98... Ra5 99. Rf3 $1) 99. Rh3 Ra1 100. Bc6 Ka6
+101. Rh8 $18) 93... Ra1 $4 {Laurent had no clue.} (93... Rc3 $11) 94. Rh8 Ka5
+95. Ra8+ 1-0
+
+[Event "FIDE World Blitz-ch Men 2017"]
+[Site "Riyadh"]
+[Date "2017.12.30"]
+[Round "13"]
+[White "Fedoseev, Vladimir"]
+[Black "Leko, Peter"]
+[Result "0-1"]
+[ECO "A30"]
+[WhiteElo "2718"]
+[BlackElo "2691"]
+[Annotator "AlexYermo"]
+[PlyCount "61"]
+[EventDate "2017.??.??"]
+[EventType "blitz"]
+
+1. Nf3 Nf6 2. c4 c5 3. b3 e6 4. Bb2 b6 5. Nc3 Bb7 6. e3 Be7 7. Be2 O-O 8. O-O
+a6 9. d4 cxd4 10. exd4 d5 11. Rc1 Nbd7 12. Ne5 dxc4 13. Nxd7 Qxd7 14. bxc4 Rfd8
+15. Qb3 Rab8 16. Rfd1 h6 17. d5 exd5 18. Nxd5 Nxd5 19. cxd5 Qd6 20. Bf3 b5 21.
+Re1 Bf6 22. Bxf6 Qxf6 23. Rc7 Rdc8 24. Rd7 Rd8 25. Rde7 Qd6 26. h4 Ba8 27. Qd3
+Rf8 28. Qf5 Rbd8 29. Ra7 Bxd5 30. Bxd5 Qxd5 31. Qxd5 {White lost on time??} 0-1
+

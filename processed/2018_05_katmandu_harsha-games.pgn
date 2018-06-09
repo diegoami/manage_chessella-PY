@@ -1,0 +1,98 @@
+[Event "Kathmandu Open International GM Chess T"]
+[Site "Park Village Hotel, Budhanilk"]
+[Date "2018.04.15"]
+[Round "6.1"]
+[White "Harsha, Bharathakoti"]
+[Black "Tarlev, Konstantin"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[WhiteElo "2424"]
+[BlackElo "2549"]
+[SetUp "1"]
+[FEN "2r2rk1/pbqn1ppp/4p3/4P3/PbpP4/5N2/1BB1QPPP/3R1RK1 b - - 0 18"]
+[PlyCount "35"]
+[EventDate "2018.04.13"]
+[EventRounds "9"]
+[EventCountry "NEP"]
+
+18... Be7 (18... Bxf3 $1 {This is the most dangerous pal - Black realized it
+much later!} 19. Qxf3 Nb6 20. Bc1 Nd5 {with a solid position.}) 19. Bc1 Qd8 20.
+h4 $3 {Before White's last move, Black was enjoying the position's nature:)}
+Bxh4 {C'mon, I'll take it!} 21. Kh2 $3 {OUCH!:)} Be7 (21... f5 22. exf6 Qxf6
+23. Be4 Bd5 24. Kh3 $1 (24. Rh1 g5 25. Kg1 Rf7) 24... g5 25. Nh2 $1 {Was
+considered lost by Black during the game, and even after the suggestion of the
+relentless piece of metal-} Qh6 26. Ng4 Qh5 27. g3 Bxg3+ 28. Kxg3 Qh4+ 29. Kg2
+Rf4 $3 30. Nh6+ $3 Qxh6 31. Bxd5 exd5 32. Bxf4 gxf4 33. Qg4+ {I'm not sure
+Black could get dry out of the water)}) 22. Rh1 f5 $2 (22... Re8 $1 23. Kg1 $5
+(23. Bxh7+ Kxh7 24. Kg1+ Kg8 25. Ng5 Bxg5 26. Qh5 f6 27. Qh8+ Kf7 28. Qh5+ $11)
+23... Nf8 24. Rh3 $13) 23. exf6 Rxf6 24. Kg1 Bxf3 $2 (24... Nf8 25. Ne5 Rf5 $3
+$13) 25. Bxh7+ Kf7 26. gxf3 g6 (26... Nb6 27. Bg5 Nd5 28. Bxf6 Bxf6 29. Qe4 $16
+) 27. d5 Rc5 28. Bg5 Rxd5 29. Rxd5 exd5 30. Bxf6 Bxf6 31. Qc2 ({During the
+game (in a mutual time trouble) White overlooked that after} 31. f4 $1 Qe7 32.
+Bxg6+ {is winning.} Kxg6 33. Qg4+ Kf7 34. Rh7+) 31... Ne5 32. Bxg6+ (32. f4 Nd3
+33. f5 Qe7 34. Bxg6+ Kg8 $13) 32... Nxg6 33. Rh7+ Bg7 34. Qf5+ Qf6 35. Qxd5+
+Kf8 1/2-1/2
+
+[Event "Kathmandu Open International GM Chess T"]
+[Site "Park Village Hotel, Budhanilk"]
+[Date "2018.04.16"]
+[Round "8.1"]
+[White "Sengupta, Deep"]
+[Black "Harsha, Bharathakoti"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2579"]
+[BlackElo "2424"]
+[SetUp "1"]
+[FEN "5rk1/1pp2r2/p3pq2/4p1pp/PP2Pn1n/2P1RN1P/3R1PPN/5QK1 w - - 0 26"]
+[PlyCount "50"]
+[EventDate "2018.04.13"]
+[EventRounds "9"]
+[EventCountry "NEP"]
+
+26. Ne1 $2 {The safe road is not always the safest way) After the cold -
+blooded} (26. g3 $1 {Black is in trouble -} Nhg2 (26... Nxf3+ 27. Rxf3 g4 28.
+hxg4 hxg4 29. Nxg4 Qg5 30. Nxe5 Qxe5 31. gxf4 $18) (26... g4 27. hxg4 Nxf3+ 28.
+Rxf3 hxg4 29. Nxg4) 27. Red3 $1 Nxd3 28. Rxd3 Nf4 29. gxf4 exf4 30. e5 Qg6 31.
+h4 $16) 26... Rg7 $6 (26... Rd8 $5 27. Rxd8+ Qxd8 28. Kh1 $1 Qd1 $3 29. g3 Nhg2
+$3 30. Nxg2 Nxh3 31. Qxd1 Nxf2+ 32. Kg1 Nh3+ {is the funny drawish line.}) (
+26... Qh6 $5 27. g3 (27. Kh1 $6 g4 $1 {- the idea of Qh6}) 27... Nhg2 28. gxf4
+Nxe3 29. fxe3 gxf4 {is unclear.}) 27. Rg3 (27. g3 $2 Nhg2 $1 28. Nxg2 Nxh3+ 29.
+Kh1 Nxf2+ 30. Rxf2 Qxf2 31. Qxf2 Rxf2) ({Prophylactical} 27. Kh1 $1 {was still
+bit better for White.}) 27... Qh6 28. Rd1 Qf6 29. a5 Kh8 30. c4 $2 {Cutting
+the Queen} Qg6 31. f3 $2 {And now - the Rook.} ({The highly unpleasant} 31.
+Nef3 {was the last chance} Nfxg2 32. Rxg2 Nxf3+ 33. Nxf3 Rxf3 34. Rd3 Rf4 35.
+Re3) 31... Qf6 $19 32. c5 Rd8 33. Nc2 c6 34. Ne3 Rgd7 35. Rxd7 Rxd7 36. Qe1 Qd8
+37. Nhf1 Rd4 38. Kh1 Kh7 39. Kh2 Kh6 40. Qa1 Ne2 41. Qa2 Nf4 42. Qb2 Kg6 43.
+Nc2 Kf6 44. Nfe3 Rd2 45. Kh1 Qd4 46. Qc1 Qc3 47. Qb1 Ne2 48. Kh2 Nxg3 49. Kxg3
+Nxg2 50. Qg1 Nf4 0-1
+
+[Event "Kathmandu Open International GM Chess T"]
+[Site "Park Village Hotel, Budhanilk"]
+[Date "2018.04.17"]
+[Round "9.1"]
+[White "Harsha, Bharathakoti"]
+[Black "Mirzoev, Azer"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[WhiteElo "2424"]
+[BlackElo "2504"]
+[SetUp "1"]
+[FEN "1nr2rk1/pbqnbppp/1p2p3/3pP3/3P4/P4NP1/1P1N1PBP/R1BQR1K1 w - - 0 15"]
+[PlyCount "58"]
+[EventDate "2018.04.13"]
+[EventRounds "9"]
+[EventCountry "NEP"]
+
+15. Nb1 $1 {Typical idea, protecting the weak squares along the c-file.} a5 ({
+After the naive} 15... Qc2 16. Qxc2 Rxc2 17. Nc3 {Black's rook is not going to
+survive the night.}) 16. Nc3 Ba6 17. Ng5 Nc6 18. Qg4 Kh8 $2 ({Better was} 18...
+Bxg5 {, though after} 19. Bxg5 Kh8 20. Rac1 {Black is in a world of positional
+pain.}) 19. Be3 $2 ({Bharathakoti is the last one who can be accused of
+cowardice, but the last round has its own laws) After} 19. Nxf7+ Rxf7 20. Qxe6
+Rcf8 21. Nxd5 Qc8 {White's pawns are on the feast.} 22. Be3 $18) 19... Bxg5 {
+Black survived the worst and managed to hold.} 20. Bxg5 Rfe8 21. Rad1 Nf8 22.
+h4 h6 23. Bf4 Ne7 24. Qf3 Kg8 25. Qg4 Kh8 26. Qf3 Qd7 27. h5 Bc4 28. Rd2 Nh7
+29. Nd1 Ba6 30. Ne3 Rc7 31. g4 Rec8 32. Qg3 Rc1 33. Red1 Rxd1+ 34. Rxd1 Qd8 35.
+Qh4 Nc6 36. Qxd8+ Rxd8 37. Bf1 Bxf1 38. Kxf1 Kg8 39. Ke2 Kf8 40. Kd3 Ke7 41.
+Bg3 Rc8 42. f4 Kd7 43. Bh4 f6 1/2-1/2

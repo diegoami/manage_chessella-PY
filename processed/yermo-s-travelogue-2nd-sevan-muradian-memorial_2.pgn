@@ -1,0 +1,23 @@
+[Event "Muradian Memorial"]
+[Site "?"]
+[Date "2017.11.25"]
+[Round "3"]
+[White "Yermolinsky, Alex"]
+[Black "Mangalam, Shreya"]
+[Result "1-0"]
+[ECO "A13"]
+[WhiteElo "2490"]
+[BlackElo "1884"]
+[Annotator "AlexYermo"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp1nn2p/2p1ppp1/3p2PP/2qP1Q2/2N2N2/PP2PPB1/2KR3R b - - 0 16"]
+[PlyCount "20"]
+[EventDate "2017.??.??"]
+{[#]} 16... f5 $2 {A losing move.} ({It would still be tough to defend after}
+16... fxg5 17. Qxg5 Qb4 18. e4 dxe4 19. Nxe4 Rf5 20. Qh6 Rb5 21. Rd2 Nf5 22.
+Qf4 $16 {as Bc8 and Ra8 remain on the sidelines.}) 17. Qd6 Rf7 {here I was able
+to spot a pretty idea.} 18. Ne5 $1 $18 Nxe5 19. Qd8+ $1 Rf8 20. Qxe7 Rf7 21.
+Qd6 (21. Qd8+ Rf8 22. Qd6 Nf7 23. Qe7 {also does it.}) 21... Nd7 22. hxg6 hxg6
+23. Rh4 ({Alternately, White can also win with} 23. Qxe6 Nf8 24. Rh8+ Kxh8
+(24... Kg7 25. Qe5+ Rf6 26. Qxf6#) 25. Qxf7) 23... Nf8 24. Rdh1 Rg7 25. Rh8+
+Kf7 26. Qxf8# 1-0

@@ -1,0 +1,85 @@
+[Event "GRENKE Chess Classic 2018"]
+[Site "Baden-Baden"]
+[Date "2018.04.07"]
+[Round "7"]
+[White "Aronian, Levon"]
+[Black "Vitiugov, Nikita"]
+[Result "1/2-1/2"]
+[ECO "A11"]
+[WhiteElo "2767"]
+[BlackElo "2735"]
+[Annotator "DF"]
+[PlyCount "80"]
+[EventDate "2018.??.??"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. c4 c6 2. g3 d5 3. Nf3 Nf6 4. Bg2 dxc4 {I didn't really get the raison
+d'etre of this move, since both ...Bf5 and ...Bg4 are more 'conventional' Slav
+choices, and both should equalise. So annotating this game and finding Black's
+equalising methods was a learning experience for me too.} 5. O-O Nbd7 (5... b5
+{would be consistent, but likely not that great, e.g.} 6. a4 Bb7 7. b3 cxb3 8.
+Qxb3 a6 9. Ba3 $14 {Harika,D-Danielian,E Beijing 2011}) 6. Na3 Nb6 7. Qc2 g6 (
+7... Be6 {is the main 'consistent' way to play this system. Black typically
+cedes the bishop pair but keeps his pawn. Some brief theoretical notes follow,
+though I have not found any significant improvement on the main 'draw line'-
+these things tend to be rather thoroughly checked.} 8. Ng5 Bg4 $1 (8... Qd7 $6
+9. Nxe6 Qxe6 10. b3 (10. e4 g6 11. b3 cxb3 12. axb3 Bg7 13. Bb2 $44 {is
+compensation, but not more}) 10... cxb3 11. axb3 g6 (11... Qxe2 12. Nc4 Nbd7
+13. Ba3 $14 {and White has at least sufficient compensation for 2 pawns, which
+is always a worrying sign.}) 12. Nc4 Nxc4 13. bxc4 Bg7 14. d4 O-O 15. e3 $14 {
+Black faces an unenviable defence against the Catalan bishop and its colleague.
+}) 9. Nxc4 Bxe2 10. Ne5 Bh5 11. Re1 $1 (11. b4 {is 'independent' but White
+should not get anything this way.} Nfd7 (11... Nbd7 12. d4 h6 $6 13. Nh3 Nd5
+14. b5 $1 $40 {Dranov,A-Van Kampen,R Germany 2012}) (11... e6 $5 12. b5 Bd6 13.
+Bb2 Bxe5 14. Bxe5 Bg6 15. Qb3 Rc8 16. bxc6 $11 {Nepomniachtchi,I-Karjakin,S
+Moscow 2018}) 12. Bf3 Nxe5 13. Bxh5 Qd5 $1 (13... g6 $6 14. Bb2 Bg7 15. f4 $14)
+14. d4 $1 (14. f4 Qd4+ 15. Kg2 Qd5+ $11) 14... h6 $1 15. dxe5 hxg5 16. Qe2 g6
+17. Bf3 Qc4 {White can choose between the pawn back or compensation but is not
+better in either case.}) 11... h6 (11... Nbd7 $6 {may be playable but is
+extremely risky if White works out the attack in detail, i.e.} 12. d4 e6 13.
+Nexf7 Bxf7 14. Nxe6 $14) 12. Ne4 e6 13. Nxf6+ (13. Nc5 $5 {could be an
+interesting route to look at:} Bxc5 14. Qxc5 Qe7 15. Qxe7+ Kxe7 16. b3 $44)
+13... gxf6 14. Nxc6 bxc6 15. Bxc6+ Nd7 16. Qf5 Bg6 17. Rxe6+ Be7 (17... fxe6
+18. Qxg6+ Ke7 19. b3 {and White has a dangerous attack despite trailing by a
+whole rook and not having his own forces completely mobilised. It bears
+mentioning that playable for Black here is} Kd6 $5 20. Bg2 Ne5 $14) 18. Qxf6
+Rg8 19. Re1 Kf8 20. Qf4 (20. Qc3 Rc8 21. d4 Kg7 $15 {is not really a way to
+try for anything}) 20... Rc8 21. Qxh6+ Rg7 {Of course, if White wants there is
+a repetition here for the taking, but it is also possible to play on with} 22.
+d4 Kg8 23. d5 $44 {when the position is dynamically level.}) 8. Nxc4 Nxc4 9.
+Qxc4 Bg7 10. d3 O-O 11. Bd2 {Initially, looking at this position I thought
+White must have something. However, then my inner Grunfeld fan got involved
+and I realised this was not so.} Nd5 ({Black's counterplay must be associated
+with either ...e5 or ...a5, so it makes sense to consider the immediate push} 
+11... a5 {. Here, White should save on Qc1 and play} 12. e4 a4 13. Bb4 $1 (13.
+a3 Be6 14. Qc2 Bb3 15. Qb1 Nd7 $15) (13. Bc3 a3 $1 14. b3 Be6 15. Qb4 b6 $36)
+13... Ne8 14. d4 Nd6 15. Qd3 Bg4 $132 {White has his big, imposing centre, but
+Black has typical Grunfeld-like play against it, so he should not be that
+worried. There are ideas like ...f5 or ...b5/...Nc4 in the pipeline.}) 12. Qc1
+a5 (12... e5 $5 13. Bh6 Re8 14. Bxg7 Kxg7 15. Rd1 Bg4 $11 {Srdjanov,S-Adzic,M
+Kragujevac 2010}) 13. Bh6 Bg4 (13... Nc7 14. d4 a4 15. e4 a3 $132 {could be a
+slightly more active strategy for Black}) 14. Bxg7 Kxg7 15. Ne5 Be6 16. d4 Nf6
+(16... f6 {is playable, but gaining tempi is less important than keeping an
+essentially flawless pawn structure in most cases, especially when one is
+facing the Catalan bishop.}) 17. Rd1 Qb6 18. e4 Rfd8 19. Qc3 Kg8 20. Rd3 {
+Today being the day after producing my annotations to Mamedyarov-Ding from the
+Candidates, my respect for the Black construction in such positions is higher
+than normal!} Rd6 21. Rad1 Rad8 {There hasn't been much wrong with either
+side's play since move 15 but Black has drifted ever so slightly.} (21... Bxa2
+$5 {is a move people only notice was playable retrospectively. During the game,
+the ghost of Fischer tends to be a strong enough deterrent.}) 22. b3 (22. a3 $5
+{could be a better try, since Black's generally desirable reply ...a4 might
+eventually play badly with his bishop in an endgame.}) 22... Qb4 23. Qa1 (23.
+Qxb4 axb4 24. f4 {is probably harder for Black to play in spite of White's
+pawns being the more hampered.}) 23... a4 24. h3 ({Following the desirable} 24.
+a3 Qb5 25. b4 {Black is on time with} Nd7 $11) 24... axb3 25. axb3 Nd7 26. Nxd7
+R6xd7 27. d5 {White realises that the static elements of the position favour
+Black, and takes action quickly.} cxd5 28. exd5 Bf5 29. Re3 ({Of course, one
+looks at ways to try and trap the f5-bishop starting with} 29. Rd4 {but they
+simply don't work out.} Qxb3 30. g4 Bc2 31. Rc1 Rc8 $1 $44) 29... Be6 30. Rde1
+Bxd5 31. Bxd5 Rxd5 32. Rxe7 Qxe7 $1 {Clinching the draw. Now the players just
+have to wait for move 40.} 33. Rxe7 Rd1+ 34. Qxd1 Rxd1+ 35. Kg2 b6 36. Kf3 Rd3+
+37. Re3 Rd2 38. Re4 Rd3+ 39. Re3 Rd2 40. Re4 Rd3+ 1/2-1/2

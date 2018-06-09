@@ -1,0 +1,106 @@
+[Event "Reykjavik Open 2018"]
+[Site "Reykjavik ISL"]
+[Date "2018.03.07"]
+[Round "3.3"]
+[White "Yilmaz, Mustafa"]
+[Black "Perelshteyn, Eugene"]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "2619"]
+[BlackElo "2513"]
+[SetUp "1"]
+[FEN "8/2r1p1kp/p3Bpp1/1p1P4/2n1PP2/3R2PK/P3Q2P/2q5 w - - 0 33"]
+[PlyCount "21"]
+[EventDate "2018.03.06"]
+
+{Yilmaz Mustafa had an excellent tournament and his final shared 2nd place
+speaks for itself. What drew my attention was a moment from his R3 game, when
+White played:} 33. e5 $1 {Taking such a straightforward decision requires
+precise calculation since after} Nxe5 {White is stepping on a mine field. But
+so does Black.} 34. Rd1 {the only move} (34. fxe5 {is a bad idea} Rc2 $19 {
+[%cal Gc1h6]}) 34... Qc4 35. Qe1 {again, the only move} (35. Qe3 {runs into}
+Qa4 $15 {[%cal Ge5c4] and the knight is safe.}) (35. Qd2 {allows Black to
+safely retreat the knight} Nf7 {and the d6-resource is not longer available,
+due to the hanging bishop on e6.}) 35... Nf3 {The most natural continuation
+but it proved to be the wrong direction - the knight was taken as a hostage.} (
+35... Nd3 {doesn't change much} 36. Qe3 Nb4 37. d6 $18) ({But} 35... Qxa2 $1 {
+is an incredibly strong resource, after which I am not even sure who is
+fighting for a win.} 36. fxe5 Rc2 37. Qg1 h5 {[%csl Rh3][%cal Gg6g5] With
+correct play however, the game should end peacefully. As always.}) 36. Qe3 Qc3
+37. Rd3 Ng1+ 38. Kg2 Qb2+ ({If} 38... Qc1 39. Qxc1 Rxc1 40. Rd2 {and the
+knight is still trapped.}) 39. Rd2 Qc1 40. Bg4 Kf8 41. Bd1 {Beautiful cage.}
+Rc5 42. Qf2 Qc4 43. Rd4 1-0
+
+[Event "Reykjavik Open 2018"]
+[Site "Reykjavik ISL"]
+[Date "2018.03.07"]
+[Round "2.5"]
+[White "L'Ami, Erwin"]
+[Black "Haria, Ravi"]
+[Result "0-1"]
+[ECO "C10"]
+[WhiteElo "2634"]
+[BlackElo "2424"]
+[SetUp "1"]
+[FEN "r5k1/p2r1pp1/2pNpqp1/2Pn4/1P1R4/P5Q1/5PPP/3R2K1 w - - 0 36"]
+[PlyCount "20"]
+[EventDate "2018.03.06"]
+
+{It is not the first nor the last time this will happen: taking a terrible
+decision during the massive time trouble of your opponent.} 36. Rh4 {planning
+Qh3} g5 {and now} 37. Rg4 {came without thought. Instead, it was not too late
+to settle for Rhd4 or Rc4 or Ne4, where Black has the practical problem of the
+30 seconds on the clock.} Nc3 $1 ({Erwin calculated only} 37... Nf4 38. Qf3 {
+with h4 idea in mind, where White is indeed pressing.}) 38. Qd3 {what else?} (
+38. Re1 {is losing on the spot} Ne2+ 39. Rxe2 Qa1+ {that was not very much
+appreciated by Erwin's wife either.}) 38... Nxd1 39. Qxd1 a5 40. h3 axb4 41.
+Rxb4 Qc3 42. Qh5 Qxa3 43. Rc4 Qa1+ 44. Kh2 Qe5+ 45. g3 Qd5 {After the 37. Rg4
+blunder there was nothing White could have done. But the off-moment Erwin
+suffered as early as R2 didn't spoil his mood, except the first half hour,
+which is incredibly little if you think about it. AD's influence is contagious:
+) The Dutch GM still minimized the damages and finished on the 5th place.} 0-1
+
+[Event "Reykjavik Open 2018"]
+[Site "Reykjavik ISL"]
+[Date "2018.03.14"]
+[Round "9.9"]
+[White "Christiansen, Johan-Sebastian"]
+[Black "Adly, Ahmed"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2486"]
+[BlackElo "2643"]
+[PlyCount "25"]
+[EventDate "2018.03.06"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. cxd4 d6 7. Bc4 Nb6 8. Bb5
+Bd7 9. Nc3 a6 10. Be2 Bf5 11. Nh4 {After a rather unconventional approach of
+the 2.c3 Sicilian, Black blacked-out with} Bd7 $2 12. e6 Bxe6 (12... fxe6 {
+is not an option} 13. Bh5+ g6 14. Nxg6 $18) 13. d5 $18 {What is remarkable
+though, is that the Egyptian GM still put up a fight and lost only after 40
+moves!} 1-0
+
+[Event "Reykjavik Open 2018"]
+[Site "Reykjavik ISL"]
+[Date "2018.03.08"]
+[Round "4.3"]
+[White "Eljanov, Pavel"]
+[Black "Hjartarson, Johann"]
+[Result "0-1"]
+[ECO "E97"]
+[WhiteElo "2713"]
+[BlackElo "2513"]
+[PlyCount "72"]
+[EventDate "2018.03.06"]
+
+{While the other top seeds were blundering or making too many draws, Eljanov
+had his share of difficulties, particularly against Iceland's former Candidate.
+} 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 a5 10. Ba3 Re8 11. bxa5 Rxa5 12. Bb4 Ra8 13. a4 c5 14. Ba3 Ra6 15.
+Nd2 Rf8 16. Bb2 Ne8 17. Nb5 f5 18. exf5 gxf5 19. f4 Ng6 20. fxe5 Nxe5 21. Ra3
+Bd7 22. Qa1 Qe7 23. Re1 Qh4 {Typical King's Indian 'nonsense', where we can
+spend years trying to figure out what's going on. But probably this is the
+turning point which started White's decline.} 24. g3 {handing Black
+breakthrough ideas with f4.} ({Instead,} 24. Rh3 Qg5 25. Qd1 $13) 24... Qh6 25.
+Nf3 Ng4 26. Bxg7 Nxg7 27. Bf1 f4 28. gxf4 Rxf4 29. Re7 Nf6 30. Nc7 Rb6 31. Re2
+Rxc4 32. Ne6 Rc1 33. Qa2 Rb4 34. Rg2 Rg4 35. Rb3 Nxe6 36. dxe6 Bxe6 0-1

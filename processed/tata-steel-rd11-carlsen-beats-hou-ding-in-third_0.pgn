@@ -1,0 +1,17 @@
+[Event "78th Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2016.01.29"]
+[Round "11"]
+[White "Carlsen, M."]
+[Black "Hou Yifan"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2844"]
+[BlackElo "2673"]
+[SetUp "1"]
+[FEN "8/1p1k4/p1p2q1p/2Pp1p2/P4P2/1P4QP/1KP5/8 w - - 0 44"]
+[PlyCount "21"]
+[EventDate "2016.01.15"]
+44. Qc3 Qxc3+ 45. Kxc3 h5 $4 (45... a5 46. b4 h5 {and all the roads lead to
+draw.}) 46. Kb4 $1 {and now Black is lost.} Kc8 47. Ka5 Kc7 48. h4 Kb8 49. Kb6
+Kc8 50. b4 Kb8 51. b5 cxb5 52. axb5 axb5 53. Kxb5 Kc7 54. c3 1-0

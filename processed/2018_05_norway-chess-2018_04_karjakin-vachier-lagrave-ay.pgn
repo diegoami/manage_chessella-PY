@@ -1,0 +1,48 @@
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.01"]
+[Round "4.3"]
+[White "Karjakin, Sergey"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[ECO "D86"]
+[WhiteElo "2782"]
+[BlackElo "2789"]
+[Annotator "AlexYermo"]
+[PlyCount "75"]
+[EventDate "2018.05.28"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 Nc6 9. Be3 O-O 10. O-O b6 11. dxc5 Qc7 12. Nd4 Ne5 13. Nb5 Qb8 14. Be2 bxc5
+{[#]} 15. Rb1 {Karjakin's preparation.} ({The stem game in this line was
+Aronian-Grischuk, Candidates 2011} 15. f4 Ng4 16. Bxc5 a6 17. Na3 Qc7 18. Bd4
+e5 19. fxe5 Nxe5 {Alexander managed to save himself by the slimmest of margins,
+but Maxime figured out some improvements and confidently drew against So in
+2015.}) 15... a6 16. Na3 {And the novelty.} (16. Nd4 Qc7 17. Nb3 Rd8 18. Qc2 c4
+19. Nc5 Nd3 {gave Black an easy game in Ganguly-Giri, 2012.}) 16... Qc7 {
+Now White who has avoided the aimless hopping around with the knight, gets
+down to business.} 17. f4 $1 Rd8 18. Qc2 Ng4 (18... Qa5 19. fxe5 Qxa3 20. Bc4
+Be6 {may be enough to hold, but lacking proper research MVL didn't judge it
+reliable.}) 19. Bxg4 Bxg4 20. f5 $1 {[#] This is a typical idea of isolating
+the bishop. It may not end up lost, but only trapped behind its own pawns.
+Anyway, a great concept from Sergey.} gxf5 ({The aggressive} 20... Qe5 21. Rf4
+gxf5 22. h3 Bh5 ({Not} 22... Bh6 {as} 23. Nc4 Qc7 24. Rbf1 {does look
+extremely threatening.}) 23. Rxf5 Qg3 24. Bf2 Qg6 25. g4 Bxg4 26. hxg4 Qxg4+
+27. Kf1 Rd6 {getting that rook over to g6 may have been the best way for Black.
+}) 21. Nc4 e6 22. h3 Bh5 23. exf5 exf5 24. Bg5 f4 {True his uncompromising
+style, Maxime seeks counterplay.} (24... Re8 {would allow White to establish a
+bind with} 25. Nb6 Ra7 26. Nd5 Qd6 27. c4) 25. Qf2 f3 26. Bxd8 Rxd8 27. Qh4 $1
+fxg2 28. Rfe1 {[#]On the face of it, Black has a great game: two pawns for the
+exchange with a bishop pair and an open White king. Truth is, he's
+significantly worse, if not outright lost. What gives? The key factor is the
+activity of White's pieces. In a few moves he will achive a dominating
+position.} Bf3 ({The white king is actually quite safe behind that pawn, and
+the only way to bother it can be a check from d4. However, the try} 28... Bxc3
+29. Qxh5 Qg3 30. Qg4+ Qxg4 31. hxg4 Bxe1 32. Rxe1 Rd4 33. Ne3 {comes way short.
+The resulting ending is similar to the Aronian-Mamedyarov game played the next
+table over and analyzed below.}) 29. Re3 Bc6 30. Rbe1 Rf8 31. Ne5 Bd5 32. Rg3
+$1 {Power play from Karjakin.} f6 33. Nd3 {[#]} ({He even turned down a safe
+advantage after} 33. c4 fxe5 34. cxd5 Qf7 35. Rxg2 Qxd5 36. Qg3 Qf7 37. Qxe5 c4
+) 33... Bxa2 $2 {A decisive error, leaving the bishop out of play.} (33... Kh8
+34. Nf4 Bf7 35. Rxg2 $16) 34. c4 $1 Qd6 35. Nf4 Qd4+ 36. Kh2 Bxc4 37. Qh6 f5
+38. Nh5 1-0

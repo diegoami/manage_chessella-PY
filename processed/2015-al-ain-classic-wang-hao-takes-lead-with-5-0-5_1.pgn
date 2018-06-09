@@ -1,0 +1,46 @@
+[Event "Al Ain Classic 2015"]
+[Site "?"]
+[Date "2015.12.26"]
+[Round "5.2"]
+[White "Gupta, Abhijeet"]
+[Black "Shirov, Alexei"]
+[Result "0-1"]
+[ECO "E04"]
+[WhiteElo "2613"]
+[BlackElo "2676"]
+[Annotator "Mokal,Prathamesh"]
+[PlyCount "82"]
+[EventDate "2015.12.24"]
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. g3 dxc4 6. Bg2 b5 7. Ne5 a6 8. O-O
+Bb7 9. b3 b4 10. Na4 c3 11. Nc4 a5 12. a3 Ba6 13. axb4 axb4 14. Nc5 Bxc5 15.
+dxc5 Qxd1 16. Rxd1 O-O 17. Bf4 Nd5 {Shirov's novelty.} ({Previously Black had
+played} 17... Nbd7 18. Bxc6 {and the erred with} Bxc4 $2 {giving White an easy
+win after} 19. Rxa8 Rxa8 20. Bxa8 Bxb3 21. Rd4 $18 g5 22. Rxb4 Nxc5 23. Bxg5
+Kg7 24. Kf1 Nfd7 25. Ke1 f5 26. Be3 c2 27. Kd2 Ba4 28. Bxc5 Nxc5 29. Rc4 { 1-0
+Gleizerov,E (2546)-Solodovnichenko,Y (2543)/Koge 2013/CBM 154 Extra}) 18. Bxd5
+(18. Bd6 {is a decent alternative.}) 18... cxd5 (18... exd5 {also looks as
+Black keeps his pawn mass without allowing White a passed pawn in the c-file.})
+19. Nb6 Nc6 (19... Bxe2 {involved complex calculations, ideal for the engines,
+but probably a bit too much for mortals.} 20. Rxa8 (20. Nxa8 Bxd1 21. Rxd1 Na6
+22. Nb6 Nxc5) 20... Bxd1 21. Rxb8 Rxb8 22. Bxb8 f6 23. c6 (23. Nxd5 exd5 24. c6
+Kf7 25. Bd6 Ke6 26. Bxb4 d4) (23. Bf4 e5 24. Bc1 Bxb3 25. c6 d4) 23... e5
+(23... c2 24. Bf4) 24. f3 (24. c7 Bg4 $19) 24... c2 (24... Bxf3 25. Kf2 c2 26.
+Kxf3 c1=Q 27. c7 $13) 25. c7 c1=Q 26. c8=Q+ Qxc8 27. Nxc8 Bxb3 28. Bd6 Bd1 29.
+Bxb4 Bxf3 $11) 20. Nxa8 Rxa8 21. Ra2 Bb7 22. Rxa8+ Bxa8 23. Bc7 (23. Ra1 Bb7
+{and the Rook does not get an entry.}) 23... e5 $1 {As Rxd5 does not work, it
+is time to get the pawns rolling.} 24. Kf1 (24. Rxd5 c2 $19) 24... f6 25. Ke1
+d4 ({The problem with} 25... Nd4 {is the opposite coloured Bishop endgame.} 26.
+Rxd4 exd4 27. Ba5 $11) 26. Ra1 Bb7 27. Ba5 e4 28. Ra4 Nxa5 29. Rxa5 d3 30. c6
+{White covers d5.} (30. Ra7 d2+ 31. Kd1 Bd5 $19) 30... Bxc6 31. Rc5 Bd7 32. Rc4
+Bb5 33. Rc5 (33. Rxb4 c2 34. Kd2 e3+ $1 35. fxe3 dxe2 $19) (33. Rxe4 dxe2
+{keeps the White pieces tied down for a while as} 34. Rxb4 $2 { loses to} c2)
+33... Ba6 34. Rc6 Bb7 35. Rc4 $2 {Decisive mistake. The d5-square had to be
+covered.} (35. Rd6 {was better}) (35. Rc5 {was also possible.}) 35... Bd5 $1
+36. Rxb4 Kf7 {Black now thretens ...c2, Kd2 de2 and even if that threat is
+stopped White will soon end up in zugzwang as the Black King makes his presence
+felt.} 37. e3 (37. Rd4 $2 c2 38. Kd2 dxe2 $19) (37. Rb8 Ke6 {will be somewhat
+similar to the ga,e.} (37... c2 38. Rc8)) 37... Ke6 38. h3 h5 39. Kd1 Kd6 40.
+Kc1 Kc5 41. Rb8 Be6 (41... Be6 42. Rb7 Kc6 43. Rb4 g6 $22 {Zugzwang} 44. h4
+{leaves the g4-square for the Bishop.} (44. Kd1 {drops the h3-pawn and then
+again Black Bishop will use the g4-square.} Kc5 45. Rb7 Bxh3 $19) 44... Kc5 45.
+Rb7 d2+) 0-1

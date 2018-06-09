@@ -1,0 +1,52 @@
+[Event "Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2018.05.13"]
+[Round "5"]
+[White "Shankland, Samuel"]
+[Black "Bacallao Alonso, Yusnel"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2671"]
+[BlackElo "2594"]
+[Annotator "Golubev"]
+[PlyCount "63"]
+[EventDate "2018.05.09"]
+[EventType "tourn"]
+[EventCountry "CUB"]
+[EventCategory "16"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. Nf3 ({The aggressive} 5. Qg4 $5 {
+is known since Tal vs Botvinnik 1961 Wch match games}) ({and} 5. Be3 {the most
+common move}) 5... Bxc5 6. a3 {This line was almost not developed in the 20th
+century, but nowadays it can be seen at the professional level.} Ne7 (6... Bb6
+$5) (6... a6 $5) 7. b4 Bb6 8. Bd3 a5 $5 9. b5 (9. Bb2 axb4 10. axb4 Rxa1 11.
+Bxa1 Na6 12. Bc3 d4 (12... Nc7 {Kollars-Landa, Bundesliga 2017/18}) 13. Bxd4
+Nxb4 14. Bxb6 Qxb6 15. O-O Nxd3 16. Qxd3 O-O 17. Rd1 {1/2 Packroff-Tornow,
+ICCF cr 2017.}) (9. Nc3 $5 {Ozolin-Grishchenko, Tula 2009.}) 9... Nd7 10. O-O {
+An interesting position, which needs more practical tests.} Ng6 ({After} 10...
+O-O {does not seem to be advisable} 11. Bxh7+ $6 Kxh7 12. Ng5+ Kg6 $1 13. Re1 (
+13. Qd3+ $2 Nf5 14. g4 Nxe5 15. gxf5+ exf5 16. Qg3 Ng4 $1 $17) {because} 13...
+f6 $5 14. Nxe6 Bxf2+ $1 15. Kh1 (15. Kxf2 $2 Qb6+) 15... Qb6 16. exf6 Nxf6 $1
+17. Nxf8+ Kf7 18. Rxe7+ Kxf8 $5 19. Qe2 (19. Re2 $6 Bg4) 19... Bg4 20. Be3 $8
+Bxe2 21. Bxb6 Kxe7 22. Bxf2 {is slightly better for Black.}) ({Another option
+is} 10... a4) 11. Bb2 (11. Bxg6 $5 hxg6 (11... fxg6 12. c4 $1) 12. c4 Rh5 $1
+13. Bb2 dxc4 14. Nbd2 Bc5 15. Nxc4 b6 16. Bd4 Be7) (11. Qe2 $5 O-O 12. a4 {
+Devereaux-Elsness, TCh-NOR 2018.}) 11... Qc7 $2 {A mistake that remained
+unpunished.} (11... a4 $5 12. Re1 (12. c4 $5) 12... Nc5 13. Bd4 Bd7 14. Nc3 Qc7
+{was Leko-Khenkin, Riyadh WCh rapid 2017}) 12. Re1 $2 ({It was a good time for
+} 12. c4 $1 {(planning exd5, Nc3)} Ndxe5 (12... dxc4 13. Bxg6 hxg6 14. Nbd2 $16
+) (12... Nf4 13. cxd5 $1 $16) 13. Nxe5 Nxe5 14. cxd5 Qd6 (14... O-O $2 15. d6
+$1 $18) {and now, possibly,} 15. Be2 $5 O-O 16. Nc3 Rd8 17. Ne4 $1 Qxd5 18. Qa4
+$5 f5 19. Ng3 $16) 12... a4 13. Nbd2 Nc5 $146 14. Bxg6 fxg6 $5 15. Qe2 O-O {
+Black is doing not badly now.} 16. Bd4 $5 Ba5 17. Rec1 b6 18. c4 $5 Qe7 (18...
+Bb7 $1 19. cxd5 exd5 $1) 19. Qe3 (19. cxd5 $1 exd5 20. Qe3 $1) 19... Bb7 20.
+cxd5 Bxd5 $1 21. Bxc5 bxc5 22. Rab1 {In this tense but, perhaps, approximately
+equal position Black goes astray.} Qb7 $2 23. Nc4 $1 Bxf3 $6 ({Consistent. But
+instead} 23... h6 {was worth trying.}) 24. gxf3 Rxf3 25. Qxc5 Qe4 26. Nxa5 $1 {
+And it turns that Black's counterplay on the kingside is rather illusory.} Rf4
+(26... Rxa5 27. Qb4 $18 (27. Rb4 $18)) (26... Qg4+ 27. Kh1 Rxa5 28. Qb4 (28.
+Rb4 Qh3 $8 29. Qc8+ Rf8 30. Rf4 $1 Qf1+ 31. Rxf1 Rxc8 32. Rb1 $16) 28... Qxb4
+$8 29. Rxb4 Rxf2 30. Rc8+ Rf8 31. Rxf8+ Kxf8 32. b6 Ra8 33. Rxa4 $1 Rb8 34. Ra6
+$1 $18 {/\ a3-a4, a4-a5.}) 27. h3 $8 $18 Qf5 (27... Rf5 28. Qe3 $1 $18) 28. Rb4
+Qg5+ 29. Kh2 Rf3 30. Rc3 Rxc3 31. Qxc3 Rxa5 32. b6 1-0
+

@@ -1,0 +1,45 @@
+[Event "Gibraltar Masters 2016"]
+[Site "Caleta ENG"]
+[Date "2016.01.26"]
+[Round "9.3"]
+[White "Nakamura, Hikaru"]
+[Black "Gupta, Abhijeet"]
+[Result "1-0"]
+[ECO "D70"]
+[PlyCount "53"]
+[EventDate "2016.01.26"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Be3 Bg7 7. Nc3 O-O 8. Qd2
+{White played a set-up against the Grünfeld that recently has become popular.}
+e5 (8... Nc6 9. O-O-O f5 10. e5 Nb4 11. Nh3 Qe8 12. Kb1 a5 13. Be2 c6 14. Rc1
+Kh8 15. Ka1 Be6 16. Nf4 Qf7 17. h4 Bxa2 18. h5 Kg8 19. hxg6 hxg6 20. g4 Bb3 21.
+Bd1 a4 22. Qh2 Rfd8 23. Qh7+ Kf8 24. d5 Nc4 25. Nxg6+ Ke8 26. e6 a3 27. exf7+
+Kd7 28. Ne5+ Bxe5 29. Qxf5+ Kc7 30. Qxe5+ Nxe5 31. Bxb3 axb2+ 32. Kxb2 Nbd3+
+33. Kb1 Nxc1 34. Rxc1 Kc8 35. dxc6 bxc6 36. f4 {1-0 (36) Carlsen,M (2834)-Li,C
+(2750) Doha 2015}) 9. d5 c6 10. h4 cxd5 11. exd5 N8d7 12. h5 Nf6 13. hxg6 fxg6
+14. O-O-O Qd6 (14... Bd7 15. Kb1 Rc8 16. Ka1 e4 17. Bd4 Na4 18. Nge2 Qa5 19.
+Nxe4 Qxd2 20. Nxf6+ Rxf6 21. Rxd2 Rf5 22. Bxg7 Kxg7 23. d6 Rfc5 24. Rd1 a5 25.
+Rh4 Rc2 26. b3 Nb2 27. Rb1 Nd3 28. Nd4 Rd2 29. Bxd3 Rxd3 30. Re1 Rd2 31. Kb1
+Bf5+ 32. Nxf5+ gxf5 33. Re7+ Kg6 34. Rc7 Re8 35. Rh1 Ree2 36. d7 Rb2+ 37. Kc1
+Rxa2 {1/2-1/2 (37) Anand,V (2791)-Gelfand,B (2727) Moscow 2012}) 15. Kb1 Bf5+
+16. Ka1 Rac8 (16... h5 17. Nh3 e4 18. Bh6 Rad8 19. Bxg7 Kxg7 20. Nf4 Rfe8 21.
+Bb5 e3 22. Qd4 Re5 23. Bd3 Nbxd5 24. Nfxd5 Bxd3 25. Rxd3 Nxd5 26. f4 Nxc3 27.
+Qxd6 Rxd6 28. Rxd6 Rd5 29. Rxd5 Nxd5 30. g3 Kf6 31. Rd1 Ke6 32. Kb1 h4 33. gxh4
+e2 34. Re1 Nxf4 35. Kc2 Kf5 36. Kd2 Ke4 37. b4 Kf3 38. a4 Kf2 39. b5 b6 40. Rh1
+Ng2 {0-1 (40) Sasikiran,K (2682)-Wei,Y (2706) Hyderabad 2015}) 17. g4 {[#]}
+Rxc3 $5 {With this exchange sacrifice Black gains time to build up his attack
+but all in all his compensation is inadequate.} ({However, after} 17... Bd7 18.
+g5 (18. Qh2 {with the idea Ne4} Qb4 19. Ne4 Nbxd5) 18... Nh5 19. Ne4 Qc7 20.
+Qe1 $16 {the engines favor White. (After 20...Nc4? White wins with 21.Bc5).}
+Nc4 $2 21. Bc5) 18. Qxc3 Rc8 19. Qe1 Bc2 20. Rc1 e4 $6 (20... Nfxd5 21. Bh6
+Bxh6 22. Rxh6 Rc7 23. Qd2 Ba4 24. Rxc7 Qxc7 25. Nh3 $16 {and White is an
+exchange up while Black has to fight with a weak kingside.}) 21. Bd4 Qxd5 22.
+Bc3 Bd3 23. Nh3 {[#]} Na4 $2 {This attempt at counterplay turns out to be an
+illusion.} ({After} 23... Bxf1 24. Rxf1 exf3 25. Nf4 {White has the better
+chances but the game is not over yet.}) 24. Nf4 (24. Bxd3 {also wins:} Nxc3 25.
+Rxc3 Rxc3 26. Qxc3 exd3 (26... Qxd3 27. Qc8+ Bf8 28. Qe6+ Kg7 29. Ng5 $18) 27.
+Nf4 Qf7 28. Qc8+ Bf8 29. Nxd3 $18) 24... Qd6 25. Nxd3 exd3 26. Bxd3 Qb6 (26...
+Qxd3 $2 27. Qe6+ $18 {and White picks up the rook on c8.}) 27. Bc2 (27. Bc2
+Nxc3 28. Bb3+ Kh8 29. Rxc3 Rxc3 30. Qxc3 $18 {and White dominates completely.})
+1-0
+

@@ -1,0 +1,98 @@
+[Event "FIDE Candidates"]
+[Site "London"]
+[Date "2013.03.31"]
+[Round "13"]
+[White "Radjabov, Teimour"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "E32"]
+[WhiteElo "2793"]
+[BlackElo "2872"]
+[Annotator "Krasenkow,M"]
+[PlyCount "178"]
+[EventDate "2013.03.15"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ENG"]
+[EventCategory "22"]
+[SourceTitle "CBM 154"]
+[Source "ChessBase"]
+[SourceDate "2013.05.15"]
+[SourceVersion "1"]
+[SourceVersionDate "2013.05.15"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d6 5. Nf3 Nbd7 6. g3 {A rare plan in the
+4.Qc2 system.} O-O 7. Bg2 e5 8. O-O (8. dxe5 Nxe5 9. Nxe5 dxe5 10. O-O c6 11.
+Rd1 Qe7 12. Bg5 h6 13. Bxf6 Qxf6 14. Ne4 Qe7 15. c5 Bf5 16. Rd6 Bxe4 17. Bxe4
+Rfd8 18. Rad1 $14 {1-0 (59) Rajlich,I (2399)-Lomineishvili,M (2437) St
+Petersburg 2009}) 8... c6 (8... exd4 9. Nxd4 c6 10. a3 Bc5 11. Rd1 Ne5 12. Na4
+Qe7 13. Nxc5 dxc5 {1/2 (46) Foisor,O (2495)-Hergott,D (2320) Saint John 1988}
+14. Nf3 $14) 9. Rd1 Re8 (9... Qe7 $5 {is probably more accurate} 10. dxe5 $140
+Nxe5) 10. dxe5 $1 {Otherwise 10...e4.} (10. Bg5 Bxc3 11. Qxc3 e4 12. Ne1 h6 13.
+Bf4 Nf8 14. Nc2 Ng6 15. Be3 d5 16. b3 Be6 17. h3 Qd7 18. Kh2 h5 $36 {0-1 (43)
+Vitiugov,N (2594)-Tomashevsky,E (2646) Moscow 2007}) 10... dxe5 11. a3 (11. Ng5
+h6 12. Nge4 {is positionally wrong: White should not trade knights as Black's
+minor pieces get in each other's way.} Qc7 13. a3 Bf8 14. b4 Nxe4 15. Nxe4 f5
+16. Nd2 Nf6 17. e4 a5 18. Rb1 axb4 19. axb4 Qf7 $132 {0-1 (46) Paulsen,D (2240)
+-Kuzmin,G (2545) Dortmund 1981}) 11... Bxc3 (11... Bf8 {deprives Black's
+d7-knight of a comfortable square.} 12. b4 a5 13. Rb1 $14) 12. Qxc3 Qe7 13. b4
+{A courageous move, active but weakening the c4-pawn (square).} Nb6 14. Be3 $6
+(14. a4 $5 e4 $140 15. Ng5 h6 16. a5 Nbd7 17. Nh3 $14) 14... Ng4 15. Nd2 ({
+It is hard to say whether White missed} 15. Bc5 $2 Na4 $1 {or simply made a
+mistake in evaluation but after the exchange of his important dark-squared
+bishop the position roughly equalises.}) 15... f5 16. h3 Nxe3 17. Qxe3 e4 (
+17... Qf7 $5 18. Rac1 Be6) 18. Rac1 $6 (18. c5 Nd5 19. Qd4 {[%cal Yd2c4,Yc4d6]}
+b5 $5 {leads to complex play. After the passive text move Black seizes the
+initiative.}) 18... Be6 19. Qc3 (19. c5 Nd5 20. Qd4 Rad8 21. Qe5 Nc7 $1 {
+, and White's knight can't get to c4 anymore.}) (19. f3 exf3 20. exf3 {(S.
+Zagrebelny) is hardly enough: after} Qf6 21. Bf1 Bf7 22. Qf2 Na4 {White's
+position is very unpleasant.}) 19... Rad8 20. Bf1 (20. c5 Nd5 21. Qe5 {was
+relatively better after all.}) 20... c5 $6 {Black fails to demonstrate
+prophylactic thinking (how to anticipate White's idea 21.e3 ?) and misses a
+strong resource:} (20... Bf7 $1 21. e3 {(what else?)} Bh5 22. Re1 Nd7 $17 {
+[%cal Yd7e5] (indicated by S.Zagrebelny and other commentators)}) 21. bxc5 Na4
+22. Qb4 Nxc5 23. Nb3 {After this the position nearly equalises.} Rxd1 24. Rxd1
+Na6 (24... Nxb3 25. Qxb3 Rc8 26. e3 {is hardly enough, too.}) 25. Qxe7 Rxe7 26.
+e3 Kf7 27. Be2 b6 28. Rd8 Nc5 29. Nd4 (29. Nxc5 bxc5 30. Rb8 {was good enough.
+But after the text move White obtains a strong outpost on d4, compensating for
+Black's c5 stronghold.}) 29... Kf6 30. Kf1 Rd7 31. Rf8+ Bf7 32. Ke1 g6 33. h4
+h6 34. Rc8 Be6 35. Rf8+ Rf7 36. Rh8 Rc7 37. Nb5 Rd7 38. Nd4 h5 {Otherwise
+h4-h5 could be an issue.} 39. Rf8+ Bf7 40. Rc8 Ke5 41. Ra8 a6 42. Rc8 Rd6 43.
+Nc6+ Kf6 44. Nd4 Be6 45. Rf8+ Ke7 46. Ra8 Rd7 47. Rb8 (47. Kd2 {was simpler.})
+47... Rb7 48. Rxb7+ {Why? White's rook was more active, and Black couldn't
+make any progress. The minor piece endgame should also be drawn but it
+requires accuracy from White as Black has ways to improve his position.} Nxb7 {
+[%mdl 4096]} 49. Kd2 Kd6 50. Kc3 Bf7 51. Nb3 Ke5 52. Bf1 a5 53. Be2 Be6 54. Bf1
+Bd7 55. Be2 Ba4 56. Nd4 Nc5 57. Kb2 Be8 58. Kc3 Bf7 59. Nc6+ Kd6 60. Nd4 Nd7 {
+Black finds a plan: ...Ke5, Nc5 and ...a4 with a semblance of zugzwang.} 61.
+Nb5+ Kc5 62. Nd4 Ne5 63. Nb3+ Kc6 64. a4 $6 {A move, which amazed spectators
+and commentators. In normal circumstances a strong GM would never make such a
+move (creating a new serious weakness in his camp) even at gunpoint. GM
+Teimour Radjabov was probably in extremely bad shape. Meanwhile, the zugzwang
+was just an illusion; White simply needs to realise that he can play f2-f3 at
+some point:} (64. Nd4+ Kd6 65. Nb3 a4 66. Nd2 Kc5 {Zugzwang?} 67. f3 $1 (67.
+Bd1 Ng4 68. Bxa4 Nxf2 {is indeed risky}) 67... exf3 68. Nxf3 Nxf3 (68... Nxc4
+69. Bxc4 Bxc4 70. Ne5) 69. Bxf3 Bxc4 {- White loses a pawn but after} 70. e4
+Be6 71. exf5 Bxf5 72. Bg2 {Black can never break through.}) (64. Kd4 Kd6 65.
+Nd2 Nc6+ 66. Kc3 {[%cal Yf2f3] was possible, too.}) 64... Kd7 65. Nd4 Kd6 66.
+Nb5+ Kc5 67. Nd4 Be8 68. Nb3+ (68. Kb3 Bd7 {This is indeed zugzwang!} 69. f3 (
+69. Bf1 Ng4) (69. Nc2 Nd3) 69... exf3 70. Nxf3 Ng4 $19 {is now a completely
+different story!}) 68... Kd6 69. c5+ Kc7 $1 (69... bxc5 70. Nxa5 Bxa4 71. Nc4+
+{is a draw.}) 70. Kd4 Nc6+ 71. Kc3 Ne7 $1 72. cxb6+ Kxb6 73. Nd2 Bxa4 74. Nc4+
+Ka6 $1 75. Na3+ Kb7 76. Nc4 Ka6 77. Na3+ Ka7 $1 {Black holds his extra pawn
+and gets fair winning chances.} 78. Kd4 (78. Nc4 Bb5) 78... Nc6+ 79. Kc5 Ne5 (
+79... Nb4 $5 80. Nb5+ Kb7 81. Nc3 Bb3) 80. Nc4 $2 {Probably the decisive
+mistake.} (80. Kd4 $1 {was the right way although even after} Nd3 {
+(recommended by Alexey Dreev during a live broadcast)} (80... Nc6+ 81. Kc5 Nb4
+{is possible, too}) 81. Bxd3 exd3 82. Kxd3 Bb3 {we can't assume it is a clear
+draw.}) 80... Nd3+ 81. Kd4 ({Now} 81. Bxd3 exd3 82. Kd4 Bc2 83. Kc3 a4 {
+is hardly enough for a draw - both White's pieces are paralysed, and Black's
+king goes forward.}) 81... Nc1 $1 ({White probably expected something like} 
+81... Nxf2 82. Nxa5 Nh1 83. Ke5 Nxg3 84. Bc4 Kb6 85. Nb3 {with good chances to
+recapture one of Black's pawns and survive}) 82. Bf1 Bb5 83. Nxa5 $2 {
+Desperation under time pressure.} (83. Kc3 a4 84. Kb2 Nd3+ (84... Nb3 $5) 85.
+Bxd3 exd3 86. Nd2 Kb6 {leads to a setup mentioned in the comment to White's
+81st move.}) 83... Bxf1 84. Nc6+ Kb6 85. Ne7 Nd3 86. Nxg6 Kc7 87. Ne7 Bh3 88.
+Nd5+ Kd6 89. Nf6 Bg4 0-1
+

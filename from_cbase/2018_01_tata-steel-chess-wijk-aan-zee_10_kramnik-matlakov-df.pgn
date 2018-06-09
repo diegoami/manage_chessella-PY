@@ -1,0 +1,78 @@
+[Event "Tata Steel Masters"]
+[Site "Wijk aan Zee"]
+[Date "2018.01.24"]
+[Round "10"]
+[White "Kramnik, Vladimir"]
+[Black "Matlakov, Maxim"]
+[Result "1-0"]
+[WhiteElo "2787"]
+[BlackElo "2718"]
+[Annotator "DF"]
+[PlyCount "77"]
+[EventDate "2018.01.24"]
+[WhiteClock "0:00:06"]
+[BlackClock "0:00:34"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. Bg5 {Opting, oddly
+enough, for a similar strategy to the one Anand used against Matlakov in the
+first round, despite that opening beginning with 3.Bb5. Here it seems like the
+immediate idea is probably to prevent Black using a setup with ...d5.} h6 7.
+Bh4 Be7 (7... g5 {led to a draw in a recent high-profile game.} 8. Bg3 d6 9. a4
+a6 10. Qd2 Nh5 11. h4 Nxg3 12. fxg3 g4 13. Qxh6 gxf3 14. Qg6+ Kh8 15. Qh6+ Kg8
+16. Qg6+ Kh8 $11 {Vachier Lagrave,M-Karjakin,S Paris 2017}) 8. Nbd2 d6 (8...
+Na5 $5 {is not a completely pointless gambit:} 9. Nxe5 Nxc4 10. Nexc4 (10. dxc4
+Nxe4 $15) 10... d5 11. Ne3 dxe4 12. Bxf6 Bxf6 13. Nxe4 Be7 $132 {With two
+bishops for two knights and a pawn, Black has very reasonable counterplay,
+analogous perhaps to the Gajewski line of the Ruy Lopez.}) 9. Bb3 (9. a4 {
+was faced by Kramnik himself from the other side of the board recently.} Nh5
+10. Bg3 Nxg3 (10... Nb8 $5 {could have been played immediately, not giving
+White the needed clarity on what is happening on the h-file.} 11. Nf1 (11. Nxe5
+{is obvious, but following} Nxg3 12. Nxf7 Rxf7 13. hxg3 Qf8 $13 {White will
+soon have nothing better than to enter a double-edged material balance of two
+pawns plus rook against two bishops, which probably should ultimately favour
+the bishops.}) 11... c6 12. Ne3 Nd7 $11 {Playing for ...Ndf6 and ...d5. White
+should probably castle short, but the moment he does that, he will no longer
+ever use the h-file.}) 11. hxg3 Nb8 12. Nf1 c6 13. Ne3 Na6 14. g4 (14. Bxa6
+bxa6 15. d4 $14) 14... Nc7 $11 {Following a slightly complicated opening
+battle Black had equalised in Vachier Lagrave,M-Kramnik,V Leuven 2017}) 9...
+Nh5 (9... Na5 10. Bc2 c5 $132 {is another standard plan, and Black will
+probably continue with ...Be6, ...Nc6 and consider ...d5.}) 10. Bxe7 Qxe7 11.
+Nc4 Qf6 {Telegraphing a kingside attack rather clearly, but this then prompts
+White's overreaction.} (11... Be6 12. Ne3 Nf6 {was solid in Baramidze,
+D-Fressinet,L Germany 2009}) 12. Ne3 Nf4 13. Bc2 (13. O-O {followed by g3
+could have been one way to go.} Ne7 14. d4 g5 15. g3 $132) 13... Ne7 14. g3 Nh3
+15. Qe2 {Now we can see what Kramnik is playing for: a sharp opposite-side
+castling position.} c5 16. O-O-O (16. Ng1 $11 {or something was technically
+still legal, but who plays chess like this?}) 16... Be6 17. d4 (17. Kb1 $5 {
+is almost always useful preparation, and that holds here too.} Rfc8 18. d4 cxd4
+19. cxd4 $132) 17... cxd4 18. cxd4 Rac8 {Missing a chance.} (18... Bxa2 $5 {
+is possible here according to the machines, and it seems to get an edge! The
+critical line is} 19. b3 a5 20. Kb2 $6 a4 21. Kxa2 $2 axb3+ 22. Kxb3 d5 $19)
+19. Kb1 Rc7 (19... Rxc2 {was another noteworthy chance, though not obvious if
+you're not looking for it. The point is the non-trivial} 20. Kxc2 $6 Qg6 $3 $17
+) 20. Rd2 Rfc8 21. dxe5 dxe5 22. Rhd1 {Now everything is under control, and
+just like in Anand-Matlakov from round 1, the position is just easier for
+White, even if not actually better.} g6 (22... b5 $5 {is a little bit faster.})
+23. Rd6 Rc6 24. Bb3 Rf8 $2 (24... Rxd6 25. Rxd6 h5 {survives according to the
+machine, but White is definitely significantly better after even the simple}
+26. a3 $36) 25. R1d3 $2 ({If I had to guess I would say Black's last move was
+based on using the f-file after} 25. Bxe6 {but neither order quite works:} Rxd6
+(25... fxe6 26. Rd8 $1 $16) 26. Bxh3 $1 $18 (26. Rxd6 fxe6 $14)) 25... Rfc8 26.
+Rd1 Rf8 27. a3 {Missing the same idea again.} h5 {It is generally useful to
+avoid Ng4 motifs.} 28. Bxe6 fxe6 29. Rd7 Nc8 $2 (29... Qxf3 30. Qxf3 Rxf3 31.
+Rxe7 Rf7 {almost equalises, and so should be preferred.}) 30. Nc4 (30. Nh4 $16
+{is another option, cuing up interesting Nd5 ideas.}) 30... Nxf2 31. Ncxe5 {
+An alluring and practically tricky option, but not objectively best.} (31. Rf1
+$5 Rxc4 32. Rxf2 {leaves Black with bizarrely few options against Qe3-h6. The
+only move is} Rd4 $8 {but now if nothing else White acheives a large advantage
+with} 33. Nxd4 Qxf2 34. Qxf2 Rxf2 35. Nxe6 Rxh2 36. Rxb7 $16) 31... Nxd1 32.
+Qxd1 Rc5 (32... Rb6 33. Qd2 g5 $11 {is the machine defence.}) 33. Qd4 {This is
+now practically impossible to defend, but the errors understandably continue
+from both sides.} Nb6 (33... Rb5 34. Rc7 {might look like a lethal battery,
+but Black can execute the text move now:} Nb6 $14 {and Black has gained a
+tempo over the text.}) 34. Rxb7 Rb5 35. Rxa7 Rd8 36. Qc3 (36. Rf7 $3 $16) 36...
+Rc8 (36... Nd7 $3 $132) 37. Rc7 {No further accidents.} Rd8 38. Qc6 Rb3 (38...
+Rxe5 39. Nxe5 Qxe5 40. Qxb6 Qxe4+ 41. Ka2 Qd5+ 42. Qb3 $16 {is basically over
+too.}) 39. Rf7 $1 {Enough to force resignation even if this was a time
+scramble.} (39. Rf7 Qxf7 40. Nxf7 Kxf7 41. Ng5+ {wins a rook with the next
+check.}) 1-0

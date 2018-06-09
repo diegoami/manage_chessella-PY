@@ -1,0 +1,57 @@
+[Event "Tata Steel Masters"]
+[Site "Wijk aan Zee"]
+[Date "2018.01.23"]
+[Round "?"]
+[White "Matlakov, Maxim"]
+[Black "Giri, Anish"]
+[Result "0-1"]
+[WhiteElo "2718"]
+[BlackElo "2752"]
+[Annotator "DF"]
+[PlyCount "78"]
+[EventDate "2018.01.23"]
+[WhiteClock "0:01:03"]
+[BlackClock "0:10:36"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 {One of the great things about these slightly
+unassuming openings is that an annotator can start to make meaningful comments
+right from the word 'go'.} c6 4. O-O Nd7 5. h3 (5. c4 Bxf3 6. Bxf3 Ne5 $11 {
+is a motif worth bearing in mind}) 5... Bh5 {Perhaps nothing at this level,
+but nevertheless an indication that Black is not trying to hold a draw.} 6. d4
+e6 7. c4 Be7 8. Nc3 (8. cxd5 exd5 9. Nc3 Ngf6 10. Nh4 {could be one way to
+introduce the bishop-for-knight imbalance anyway, as in Vachier-Lagrave,
+M-Gunina,V Gibraltar 2016}) 8... dxc4 {But this is the really comment-worthy
+point. Anish Giri has decided to play for a win.} (8... Ngf6 {was normal,
+obviously}) 9. b3 cxb3 10. Qxb3 Qb6 (10... Ngf6 {was a slightly strange
+reaction from a top player a year ago, considering the strategic importance of
+the b7-pawn. Following} 11. Qxb7 O-O 12. Bf4 Qa5 13. g4 Bg6 14. g5 Nh5 15. Bd2
+Rfd8 16. Qxc6 (16. Rfc1 $14) 16... Rac8 17. Qb5 Qxb5 18. Nxb5 a6 $11 {Black
+nevertheless equalised in Eljanov,P-So,W Shamkir 2017}) 11. Qa4 Ngf6 12. Rb1
+Qc7 13. Bf4 Qc8 14. Rfc1 (14. Qb3 {was better immediately.} {After} Bg6 15. Rb2
+Nb6 16. Ne5 $44 {for instance Black's position is slightly unpleasant and
+White has at least full compensation.}) 14... O-O 15. Qb3 {Seemingly forcing
+some concessions, but there is a relatively clever tactical defence of the
+b7-pawn available.} Bg6 16. Rb2 Rd8 $1 {Black has already equalised. There is
+no easy way to disentangle the White pieces. So White goes for a slow one.} 17.
+a4 $1 (17. Nh4 Nb6 18. Be5 Nfd7 $15) (17. Nd2 {is no good immediately:} Nb6 $15
+) 17... a5 18. Nd2 Nh5 $6 (18... Nf8 $5 19. Nc4 (19. Be5 N6d7 20. Bf4 Bb4 $132)
+19... Rxd4 $1 {A natural exchange sacrifice. Now} 20. Nb6 Qd8 21. Nxa8 Rb4 22.
+Qa2 Qxa8 $44 {is easier for Black to play, even if objectively equal.}) 19. Be3
+Nhf6 20. Nc4 $14 {White gets ambitious, and right now it seems justifiable.}
+Nd5 21. Qxb7 Bb4 22. Qxc8 Raxc8 $6 {An objectively dubious but competitively
+understandable move.} (22... Rdxc8 23. Na2 c5 24. dxc5 Bxc5 25. Bxc5 Rxc5 26.
+Rb7 $36 {might not be so terrible, but Black lacks winning chances.}) 23. Na2
+Nxe3 24. fxe3 c5 25. Nd6 (25. Rd1 $1 {was the computer-precise move, adding to
+the pawn-tension in the centre and threatening to open the c-file since there
+is now longer a pin there. For instance:} Nf6 (25... cxd4 26. Nxb4 axb4 27.
+Rxb4 dxe3 28. Nxe3 Nc5 29. Rxd8+ Rxd8 30. a5 $16) 26. Nxb4 cxb4 27. Nxa5 $16)
+25... Ba3 $1 26. Nxc8 Bxb2 27. Ne7+ Kf8 28. Nxg6+ hxg6 29. Rc2 Ba3 30. Bc6 (30.
+Nc3 {and Nb5 looks natural to me, and White is probably still equal or as near
+as makes no difference. Presumably the scare was over} cxd4 31. exd4 Rc8 {
+but White has the calm} 32. Be4 $11 {and then Nb5 anyway.}) 30... cxd4 31. exd4
+Rc8 32. e3 Ke7 33. Kf1 Bd6 34. g4 Nb6 35. Rc1 $2 {The finish is now clinical
+in what was until now just a slightly unpleasant position.} (35. Ke2 Rh8 $1 $15
+{illustrates one problem.}) (35. Kf2 f5 36. Nc1 Nd5 37. Nd3 Kf6 $15 {is also
+gradually getting worse for White}) 35... Ba3 36. Rc3 Bb4 37. Nxb4 axb4 38. Rc5
+b3 $19 {Black is winning a piece. White played one more move:} 39. a5 Nd7 {
+and then promptly resigned.} 0-1

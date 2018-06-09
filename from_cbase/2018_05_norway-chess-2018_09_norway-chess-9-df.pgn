@@ -1,0 +1,272 @@
+[Event "6th Altibox Norway Chess 2018"]
+[Site "Stavanger"]
+[Date "2018.06.07"]
+[Round "9.3"]
+[White "Caruana, Fabiano"]
+[Black "So, Wesley"]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "2822"]
+[BlackElo "2778"]
+[Annotator "DF"]
+[PlyCount "95"]
+[EventDate "2018.05.26"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 {Berlin invited and declined. Now Black
+has a reasonable range of options.} Bc5 (4... Ne7 $5 {is a nice 'tricky' line,
+trying to play as if this was an Italian and not a Spanish. Black will
+continue ...Ng6, ...Bc5, ...0-0, ...a6, ...d6 if allowed, and abstain from ...
+c6.}) (4... d6 {is of course normal:} 5. c3 g6 6. O-O Bg7 7. Re1 O-O 8. Nbd2 a6
+(8... Nb8 $5 {is playable, and according to my database has been chosen
+exclusively by the Soviet grandmaster Yemelin (a total of 5 occurrences!)}) 9.
+Ba4 b5 10. Bc2 Bb7 11. Nf1 Nb8 $5 {For me this is a trademark Howell manoeuvre.
+Black went on to win in McShane,L -Howell,D London 2017.}) 5. O-O Nd4 $5 {
+Partly 'telegraphed' by the previous move (though 4...d6 is still more common.)
+My understanding used to be that Black was slightly worse after this move, but
+maybe after annotating the present game and seeing a comprehensive list of
+world elite players having taken the Black side, that will have to change.} (
+5... O-O $2 6. Bxc6 dxc6 7. Nxe5 $16 {is now essentially just a pawn.}) 6. Nxd4
+Bxd4 7. Ba4 {Presumably there is some move-order subtlety going on here
+beneath the surface. My best guess is that White is 'threatening' Nd2 with
+this move, and Black faces problems preserving his d4-bishop.} (7. c3 Bb6 8.
+Na3 O-O (8... c6 $5 {would be the 'Yugoslav approach':} 9. Ba4 h6 10. d4 d6 $11
+{and as usual Black should not really fear the misplacement of his king in
+such lines with a queen exchange.}) 9. Bg5 c6 10. Ba4 h6 11. Bh4 d6 (11... d5
+$5 {seems to equalise, though it is harder to play Black with the loose
+central pawns:} 12. exd5 cxd5 13. Re1 Bc7 $132) 12. Nc4 Bc7 13. Ne3 Bb6 14. Qf3
+$14 {Karjakin as Black limped to a draw a pawn down against Anand here in the
+blitz section of last year's Norway chess event.}) 7... c6 (7... O-O {looks
+perfectly playable: while it is usually advisable for Black to go ...c6 in
+such lines, it is not a biblical commandment.} 8. Nd2 d6 $1 9. c3 Bb6 10. Nc4
+$1 {Presumably this was Black's problem- these configurations with a bishop
+pair that White can take 'on demand' are generally a little inauspicious.
+However in this case, I doubt Black is worse after} Be6 11. Nxb6 axb6 {and now
+White's most natural choice} 12. f4 {is met by the computerish} b5 $1 13. Bxb5
+c6 14. Ba4 Qb6+ 15. Kh1 Ng4 $11) 8. c3 Bb6 9. Na3 d6 (9... O-O {transposes to
+the note to White's 7th.}) 10. Bc2 (10. Bb3 {is very 'Italian', but does seem
+like a second semi-waste of a tempo, this bishop not having been obligated to
+move at all.} a5 11. Nc4 Ba7 $1 {Also in Italian style.} 12. a4 O-O 13. Bg5 h6
+14. Bxf6 $6 (14. Bh4 g5 15. Bg3 Bg4 $11) 14... Qxf6 15. Nxa5 d5 $1 $36 {
+Black had obtained his preparation and was ultimately successful in
+Carlsen-Aronian, European Team Championships 2015.}) 10... Be6 11. Qe2 h6 (
+11... O-O {was more modest, and probably best, since a madcap kingside attack
+is unlikely to work well at this level, but the text does make the game
+interesting.}) 12. Kh1 g5 13. Nc4 Bc7 14. Ne3 {Around this phase I was unable
+to find many reasons to play one move first rather than another, since in any
+case it is impossible to discourage Black from playing ...d5.} (14. a4 {
+is another generally useful move that features in most of White's plans.}) (14.
+Rd1 $5 {followed by d4 is independent, but maybe now Black would revert to the
+original plan and play} O-O 15. Ne3 (15. d4 Bxc4 16. Qxc4 d5 $11) 15... d5 $11)
+14... d5 15. Re1 Qe7 (15... d4 16. Nf5 Bxf5 17. exf5 Kf8 $11 {was the engine
+suggestion, the rationale being that Black is probably going to eventually
+trade this pair of minor pieces on f5 in any case.}) 16. a4 O-O-O 17. Rb1 $6 (
+17. exd5 Nxd5 18. Nxd5 Bxd5 19. Be3 $11 {might have been better, with
+approximate equality. The text was an indication that White believed himself
+to be better, possibly significantly so.}) 17... d4 18. Nf1 Bb6 $6 {This is a
+hard move to explain with any sort of rationale other than possibly being
+excessively obsessed with how to take back on d4.} (18... Nd7 $15 {is my
+engine choice, maybe thinking about an eventual ...f5. The irony of this
+position is that it is Black's c7-bishop rather than White's c2-bishop which
+might be opened soon in a 'Spanish' way.}) (18... g4 $1 {is the move that
+makes most sense to me. Probably what Wesley didn't like was} 19. cxd4 exd4 20.
+f4 $6 {when it looks like there is a risk of being outflanked, but after a
+solid continuation like} gxf3 21. Qxf3 Ng4 $1 $17 {Black is doing extremely
+well.}) 19. Bd2 Bg4 20. f3 Be6 21. Ng3 $14 {So Black has created his 'hook' in
+White's position, but it is all a bit slow and there is a real risk of getting
+outflanked along the f-file.} Rhg8 (21... Ne8 22. c4 Ng7 23. b4 h5 {might have
+been an interesting race, but the engine opines that White can play} 24. Nf5 {
+anyway and be better.}) 22. b4 {Now White has near-total control over the
+events to come.} g4 23. a5 (23. cxd4 Bxd4 24. f4 $14 {is another way, and
+maybe the best one.}) 23... dxc3 $1 {A very good practical decision.} (23...
+Bc7 24. Rf1 $14) 24. Bxc3 Bd4 25. Bxd4 Rxd4 26. b5 {Losing claim to an
+advantage in my opinion.} (26. f4 exf4 27. Qf2 Rgd8 28. Ne2 g3 29. Qxf4 Nh5 30.
+Qe5 Qh4 31. Nxg3 Nxg3+ 32. Qxg3 Qxg3 33. hxg3 $11 {Black is not totally out of
+the woods yet, even if he might appear to have great compensation.}) 26... c5 (
+26... cxb5 27. Rxb5 Rb4 $11 {is relatively okay for Black.}) 27. Bb3 (27. b6 a6
+28. Rf1 $14 {led to a significant plus, as after the feared} c4 {there is} 29.
+f4 $1 {among other things.}) 27... h5 28. Nf5 Bxf5 29. exf5 Re8 (29... gxf3 30.
+Qxf3 Ng4 {was a scary option to choose in a game, as White can choose no fewer
+than three pawns to push to the 6th rank, but the engine is unfazed and claims
+Black has equalised.}) 30. Rbc1 gxf3 $6 {Now this is a dubious decision. Chess
+is such a fickle game sometimes.} (30... Kb8 31. Bc4 Nd5 $14) 31. Qxf3 Red8 32.
+Bc4 (32. a6 $1 Rxd3 33. axb7+ Kb8 34. Qc6 Rxb3 35. Rxc5 $16 {White wins back
+the piece with a strong attack.}) 32... e4 33. dxe4 Qe5 (33... Rxe4 34. Be6+ $1
+$16) 34. Bxf7 Rd3 35. Qf2 R8d4 36. Bd5 Kd7 37. b6 $6 {Now Black gets back in
+the game a little.} (37. Rxc5 $1 {was playable, quite natural, and very close
+to winning.}) 37... axb6 38. axb6 Ng4 (38... Rd2 39. Qg1 Nxd5 40. exd5 Qxd5 $16
+{is the engine choice.}) 39. Qg1 Kd8 {Possibly quite a big objective mistake,
+but move 40 was still to come...} (39... Rd2 40. Rf1 h4 41. h3 Qg3 {White
+might still win somehow, but it will be hard with his queen boxed in in this
+way.}) 40. h3 $4 (40. Bxb7 $18 {was safe for instance.}) 40... Rxh3+ 41. gxh3
+Rd3 $4 {Black had a miracle draw.} (41... Rd2 $3 42. hxg4 hxg4 {and White has
+no way to avoid mate other than giving up his queen.} 43. Qg2 Qh8+ 44. Kg1
+Rxg2+ 45. Kxg2 Qh3+ $11) 42. Qg2 Rg3 43. hxg4 Rxg2 44. Kxg2 h4 45. Kf3 $1 {
+Now there is no perpetual check and White converts without problems.} Qg3+ 46.
+Ke2 h3 47. Rg1 Qh4 48. e5 {A truly dramatic game!} 1-0
+
+[Event "6th Altibox Norway Chess 2018"]
+[Site "Stavanger"]
+[Date "2018.06.07"]
+[Round "9.4"]
+[White "Karjakin, Sergey"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "D37"]
+[WhiteElo "2782"]
+[BlackElo "2760"]
+[Annotator "DF"]
+[PlyCount "64"]
+[EventDate "2018.05.26"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 {Straight into one
+of the thematic battlegrounds of the world champions! Both Anand and Nakamura
+played this way yesterday, and it is not clear who was copying whom.} 7. dxc5
+Bxc5 8. Qc2 (8. cxd5 Nxd5 9. Nxd5 exd5 10. a3 Nc6 11. Bd3 {seems to me a
+completely logical question: Black has an IQP, and probably will do for the
+rest of the game. It is a difficult problem to resolve by dynamic means, as
+White will simply meet . ..d4 with e4 (even if there is no trick such as
+taking and then Be3.) For instance, White was successful in the following
+encounter:} Bb6 12. O-O Bg4 13. h3 Bh5 14. b4 a6 15. Rc1 d4 16. g4 Bg6 17. e4
+Re8 18. Re1 Rc8 19. Bc4 $1 $14 {Svidler,P-Harikrishna,P Shenzhen 2017}) 8...
+Nc6 9. a3 {I do not believe that this move (if followed by the next) is
+White's most critical idea.} ({Previously I commentated on a Tata Steel game
+for this site:} 9. Rd1 Qa5 10. a3 Re8 (10... Be7 {is more common now, and then}
+11. Be2 {has a huge score for White; indeed I suspect White is probably
+slightly better following} Ne4 12. cxd5 Nxc3 13. bxc3 exd5 14. O-O $14) 11. Nd2
+(11. Be2 e5 $15 {is the point}) 11... e5 12. Bg5 Nd4 13. Qb1 $1 (13. Qc1 Bf5 {
+is liable to lead to a forced draw.} 14. Bxf6 Nc2+ 15. Ke2 Nd4+ $11 {Carlsen,
+M-Nakamura,H Douglas 2017}) 13... Bf5 14. Bd3 $14 {Mamedyarov,S-Anand,V Wijk
+aan Zee 2018}) 9... Qa5 10. O-O-O {Possibly White thinks that because he has
+previously found a good idea for Black in this line that he knows it better
+than his opponent, but this was proven incorrect.} ({Of course,} 10. Rd1 {
+was still possible.}) (10. Ra2 $5 {was the move chosen in a Topalov game, and
+it might be a good try for an edge.} Be7 11. b4 Qd8 12. h3 b6 (12... d4 $1 $11)
+13. cxd5 exd5 14. Be2 Be6 15. Ng5 Rc8 $6 16. Nxe6 fxe6 17. Ba6 $14 {Topalov,
+V-Nakamura,H Saint Louis 2017}) (10. Nd2 Bb4 $5 11. cxd5 exd5 12. Nb3 Bxc3+ 13.
+bxc3 Qd8 $132 {could have been a decent try for an edge in Topalov,V-Nakamura,
+H Paris 2017, notwithstanding that it ultimately failed}) 10... Ne4 (10... Bd7
+{is logical, but here the thematic} 11. cxd5 Nxd5 12. Ng5 {might objectively
+give White a little something (despite the terribly un-human nature of opening
+a file with one's queen and king on.)}) 11. Nb5 (11. Nxe4 dxe4 12. Qxe4 Bxa3
+13. bxa3 Qxa3+ 14. Kd2 Rd8+ 15. Ke2 Qb2+ 16. Rd2 Rxd2+ 17. Nxd2 e5 18. Bg3 Bg4+
+$3 19. f3 (19. Qxg4 Rd8 20. Kf3 Qxd2 21. Bh4 f5 22. Qg5 Rd4 $1 $11 {leads to
+perpetual check.}) 19... Rd8 20. Be1 Bh5 $13 {In January I wrote: The mess
+continues, and White has a few moves now, but I don't think there will be any
+way found for him to keep an edge. I retain the same opinion.}) 11... a6 12.
+Nc7 e5 $1 {Originally played by Karjakin and also mentioned in my notes to the
+above-referenced game.} 13. Rxd5 $1 (13. Nxd5 {is tricky, but probably
+eventually nothing for White.} Nxf2 $1 (13... exf4 14. Qxe4 fxe3 15. fxe3 h6
+16. Nd4 $16 {Ivanchuk,V-Karjakin, S Medias 2017}) 14. Ng5 $1 (14. Qxf2 exf4 15.
+Nxf4 b5 $40) 14... Bf5 $1 15. Qxf2 (15. Qxf5 g6 $17) 15... f6 16. Nh3 exf4 17.
+Nhxf4 Ne5 $44 {Black has full compensation for the pawn.}) 13... exf4 $1 (13...
+Nxf2 14. Qxf2 Qxc7 15. Nxe5 Nxe5 16. Bxe5 Qc6 17. Bd4 $1 $14) (13... f5 $2 14.
+Rxe5 Nxe5 15. Bxe5 Ra7 16. Nd5 $16 {Kasparov,G-Vaganian,R Debrecen 1992}) 14.
+Qxe4 Qxc7 15. Rxc5 fxe3 16. Bd3 {So far it is quite encouraging to see that
+both players agree with my analysis!} (16. Qxe3 b6 17. Rh5 Bg4 18. Rg5 Rfe8 $1
+$11) 16... g6 17. fxe3 {The new move, but not a particularly amazing one.} (17.
+Qxe3 b6 18. Rg5 (18. Rh5 Bg4 19. Rh4 Bxf3 20. gxf3 Ne5 $132) 18... Na5 $13 {
+Black will follow up by hitting the c4-pawn repeatedly, and White does not
+have enough attacking firepower to ignore the threats. Therefore he must
+retreat and admit to equality.}) 17... Be6 $1 18. Qh4 (18. Ng5 Qd6 19. Nxe6
+fxe6 20. Rh5 Rf5 $1 $11) 18... Rae8 (18... Qd6 {is most natural, of course.
+I'm not sure what the evaluation should be after} 19. Ng5 h5 20. Qe4 (20. Ne4
+Qxd3 21. Nf6+ Kg7 22. Nxh5+ gxh5 23. Rg5+ Qg6 $15) 20... Rfe8 $1 {but it is
+axiomatic that with such bad pawns White cannot be better. For instance:} 21.
+Nxe6 Rxe6 22. Rd5 Qe7 23. Qf4 Rxe3 $11) 19. Be4 $5 (19. Rd1 {could have been
+better.} Bc8 20. e4 b6 21. Rd5 Ne7 {and now there are various repetitions, but
+to play on White could maybe try the unclear exchange sacrifice} 22. Kb1 $5)
+19... Qb6 $5 {Initiating forced lines.} 20. Qh6 f5 21. Ng5 Rf7 22. Bd5 Bxd5 23.
+Rxd5 Qxe3+ 24. Kb1 Rfe7 25. Rhd1 Qe2 26. h4 $4 {A bad mistake, perhaps the
+fault of memory, because it is a very strange miscalculation for this level.} (
+26. Rd6 Qxc4 27. Rxg6+ hxg6 28. Qxg6+ Kh8 $11 {is simply a draw.}) 26... Ne5 $1
+{Now Black is essentially winning.} 27. Nf3 Qe4+ 28. Ka2 Qxc4+ 29. Ka1 Ng4 30.
+Qc1 Qxc1+ 31. Rxc1 Kg7 32. h5 $2 {A second bad move with the same pawn, but
+this time the position was of course already bad.} Nf6 {Black will soon have
+two extra pawns and so White resigned.} 0-1
+
+[Event "6th Altibox Norway Chess 2018"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Carlsen, Magnus"]
+[Site "Stavanger"]
+[Round "9.2"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2018.06.07"]
+[WhiteElo "2789"]
+[BlackElo "2843"]
+[PlyCount "33"]
+
+1. e4 {} e5 2. Nf3 Nc6 3. Bb5 {} a6 4. Ba4 Nf6 5. 0-0 Be7 6. d3 b5 7. Bb3 d6 8. a3 0-0 9. Nc3 Na5 {C77: Spanische Partie (Anderssen-Variante)} 10. Ba2 Be6 11. b4 Bxa2 12. Rxa2 Nc6 13. Bg5 Ng4 {LiveBook: 3 Partien} 14. Bd2 Nf6 {[#]} 15. Bg5 $146 ({Vorgänger:} 15. Re1 Qd7 16. Nd5 Nxd5 17. exd5 {1/2-1/2 (46) Vachier Lagrave,M
+(2796)-Aronian,L (2801) Palma de Mallorca 2017} )Ng4 16. Bd2 Nf6 17. Bg5 1/2-1/2
+
+[Event "6th Altibox Norway Chess 2018"]
+[Site "Stavanger"]
+[Date "2018.06.07"]
+[Round "9.5"]
+[White "Aronian, Levon"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2764"]
+[BlackElo "2769"]
+[Annotator "DF"]
+[PlyCount "84"]
+[EventDate "2018.05.26"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. Qc2
+Nc6 9. Rd1 Qa5 10. a3 Re8 11. Nd2 e5 12. Bg5 Nd4 13. Qb1 Bf5 14. Bd3 {So far,
+nothing that interesting has happened. We have covered many of the subtleties
+in the annotated games Karjakin-Anand (this page) and Mamedyarov-Anand (Tata
+Steel 2018 round 13.) I believe White is slightly better in this position, but
+it is of course non-trivial to prove.} Bxd3 $1 (14... e4 $6 {is well met by}
+15. Bf1 $1 {giving up a queen for three pieces.} (15. Bc2 {was nevertheless
+enough for a slight edge in one of the classics.} Nxc2+ 16. Qxc2 Qa6 17. Bxf6
+Qxf6 18. Nb3 $14 {Kortschnoj,V-Karpov,A Baguio City 1978}) 15... Ng4 16. cxd5
+$1 Ne5 17. exd4 Nf3+ 18. gxf3 exf3+ 19. Be3 Bxb1 20. Nc4 $1 Qc7 21. dxc5 $16)
+15. Qxd3 Ne4 16. Nxd5 (16. Ndxe4 {Maybe not the most precise, but safe enough.}
+dxe4 17. Qd2 Ne6 18. Bh4 (18. Nxe4 Qxd2+ 19. Rxd2 f5 20. Nxc5 Nxc5 $13 {
+leads to an imbalance and likely quite a good one for Black, who is likely to
+recover the c4-pawn quite soon.}) 18... Qa6 19. Qe2 Rac8 20. O-O Bf8 21. Qg4
+Qxc4 (21... Rxc4 $11 {equalised more reliably}) 22. Nxe4 Kh8 23. h3 Nc5 24.
+Nxc5 Qxg4 25. hxg4 Rxc5 26. Rd7 $14 {Now White could potentially have a small
+something again. Mamedyarov,S-Anand,V Tata Steel Masters 2018}) (16. cxd5 Nxc3
+17. Qxc3 Qxc3 18. bxc3 Nc2+ 19. Ke2 f6 20. Bh4 Nxa3 21. Ne4 Rac8 $11) (16.
+Ncxe4 dxe4 17. Qxe4 Qb6 {could well become another theoretical battleground,
+because I believe White is probably a bit better.} 18. O-O (18. Qb1 Ne6 $1 19.
+Bh4 Bxe3 {is a very dangerous sacrifice and indeed Black soon triumphed in
+Tarjan,J -Zumsande,M Douglas 2015}) (18. Rb1 $5 h6 19. Bh4 g5 20. b4 Bf8 21.
+Bg3 Rad8 $1 22. exd4 (22. Rd1 f5 23. Qb1 f4 $11) 22... exd4 23. Be5 Bg7 24. O-O
+Rxe5 25. Qd3 Qg6 26. Rb3 g4 $132 {We had a three result position in Ding,
+L-Nakamura,H Sharjah 2017, though soon the players agreed a draw.}) 18... Ne2+
+19. Kh1 Qxb2 {Black lacks real alternatives. Now the hard move is:} 20. Nb1 $1
+Nc3 21. Nxc3 Qxc3 22. Rd7 Bxa3 23. Qd5 Rf8 24. Rxb7 {White has extremely good
+compensation, probably more than is needed.}) 16... Nxg5 17. b4 Qd8 18. bxc5
+Nde6 19. O-O Nxc5 20. Qb1 Nge6 (20... Qd6 {might improve slightly, but it is
+much of a muchness.}) 21. Nf3 Nf8 {In spite of White's activity, there isn't
+an advantage for him here, because of Black's amazing outpost on c5 for one or
+other knight.} 22. Rd2 Rc8 23. Rfd1 Qd6 (23... e4 24. Nd4 Ng6 {is ambitious,
+but this could just as easily backfire.}) 24. Nc3 Qg6 25. Rd5 Qxb1 26. Rxb1 f6
+27. Nb5 Ne4 (27... Red8 $5 28. Nxa7 Rxd5 29. cxd5 Rd8 30. Rd1 Na4 $132 {
+is actually ambitious for Black, based on White's bad knights (especially f3)
+but I'm not sure how successful he will be.}) 28. Nd2 Nxd2 29. Rxd2 Re7 $11 {
+It is already clear that the game will be drawn, now it is just a question of
+how!} 30. Nxa7 Rxc4 31. Nb5 Rd7 32. Rxd7 Nxd7 33. Nd6 Rc3 34. Nxb7 Rxa3 35. h3
+Ra8 36. Rd1 Nf8 37. Nc5 Rc8 38. Ne4 Rc7 39. Kf1 Ne6 40. Rd6 Kf7 41. Rb6 Nc5 42.
+Nxc5 Rxc5 1/2-1/2
+

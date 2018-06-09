@@ -1,0 +1,41 @@
+[Event "78th Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2016.??.??"]
+[Round "?"]
+[White "Carlsen, M."]
+[Black "Hou Yifan"]
+[Result "1-0"]
+[Annotator "GM Lubomir Kavalek/The Huffington Post"]
+[SetUp "1"]
+[FEN "8/1p1k4/p1p4p/2Pp1p2/P4P2/1PK4P/2P5/8 b - - 0 45"]
+[PlyCount "11"]
+[EventDate "2016.01.15"]
+{Instead of the faulty 45...h5, Hou Yifan could have blocked the entrance to
+the square b6 with} 45... a5 $1 ({The game Carlsen - Hou Yifan continued:}
+45... h5 $2 {Hou played this blunder rather quickly, allowing the white king to
+sneak to the square b6.} 46. Kb4 Kc8 47. Ka5 Kc7 48. h4 Kb8 49. Kb6 Kc8 50. b4
+Kb8 51. b5 cxb5 52. axb5 axb5 53. Kxb5 Kc7 54. c3 {and Hou resigned. She is in
+zugzwang and has to surrender the square b6. White wins the pawn d5 after } Kd7
+55. Kb6 Kc8 56. c6 $18) 46. b4 {The only way to open the queenside.} (46. h4 h5
+47. b4 {just transposes.}) {It seems that Black now has two ways to make a draw
+but only one solves it with precise play.} 46... Ke7 $1 (46... axb4+ $6 {This
+comes deceptively close to a draw, but White can continue playing.} 47. Kxb4
+Kd8 $1 {Black’s defense is based on a stalemate and zugzwang.} (47... h5 $2 48.
+Ka5 Kc7 49. h4 Kc8 50. Kb6 Kb8 51. a5 Ka8 52. a6 Kb8 53. axb7 $18) 48. Ka5 (48.
+Kc3 Ke7 49. a5 Kd7 $11) 48... Kc7 49. h4 h5 50. c3 {Unfortunately, White has to
+move his c-pawn to make progress. White wins with the pawn on c2.} Kc8 $1 ({One
+square makes a difference:} 50... Kb8 51. Kb6 Kc8 52. a5 Kb8 53. a6 bxa6 54.
+Kxa6 {and White wins the c6 pawn.}) 51. Kb6 Kb8 52. a5 Ka8 $1 ( 52... Kc8 $2
+53. Ka7 Kc7 54. a6 $18) 53. Kc7 $1 (53. a6 Kb8 $1 54. axb7 d4 55. cxd4 $11
+({But not} 55. Kxc6 $2 dxc3 56. Kb6 c2 57. c6 c1=Q $19)) 53... Ka7 54. Kd6 Ka6
+55. Ke5 Kb5 $1 56. Kxf5 Kc4 $1 57. Kg6 (57. Kg5 Kxc3 58. f5 d4 59. f6 d3 60. f7
+d2 61. f8=Q d1=Q $11) 57... Kxc3 58. f5 d4 59. f6 d3 60. f7 d2 61. f8=Q d1=Q
+62. Qh8+ Kc4 63. Qxh5 {and I am sure Magnus would still try to win it from
+here.}) 47. bxa5 {A critical position. The defense is based on the resistance
+equilibrium: Black has only one move to hold a draw.} Kd7 $1 { [%csl Rc3,Rd7] A
+position with a mutual zugzwang: White to move: draw; Black to move: White
+wins.} (47... Kd8 $2 48. Kd4 Ke7 49. Ke5 $18) 48. Kb4 {Two other examples show
+how Black has to find the only one correct square for his king:} (48. Kd3 Ke7
+$1 $11 {[%csl Gd3,Ge7]} (48... Ke6 $2 49. Kd4 Kf6 50. Kc3 Ke6 51. Kb4 Kd7 52.
+a6 bxa6 53. Ka5 $18)) (48. Kd4 Ke6 $1 {[%csl Yd4,Ye6]}) 48... Kc7 49. Kb3 Kc8
+({or} 49... Kd8) 50. Kc3 Kd7 $1 {Draw.} 1-0

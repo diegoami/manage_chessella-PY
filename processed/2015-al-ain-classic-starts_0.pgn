@@ -1,0 +1,22 @@
+[Event "Al Ain Classic 2015"]
+[Site "Al Ain"]
+[Date "2015.12.23"]
+[Round "1.1"]
+[White "Hesham, Abdelrahman"]
+[Black "Kryvoruchko, Yuriy"]
+[Result "0-1"]
+[ECO "E16"]
+[WhiteElo "2398"]
+[BlackElo "2711"]
+[Annotator "Prathamesh Mokal"]
+[SetUp "1"]
+[FEN "r1r3k1/1b3ppp/3p2q1/p1nP4/1p1B4/1P4P1/R3PPBP/3Q1RK1 w - - 0 22"]
+[PlyCount "28"]
+[EventDate "2015.12.23"]
+[EventRounds "9"]
+[EventCountry "UAE"]
+22. Qb1 $2 {The top seed easily spotted the tactic that followed. Can you?}
+Qxb1 $1 23. Rxb1 Nxb3 24. Rxb3 Rc1+ 25. Bf1 Bxd5 {and Black is winning.} 26.
+Rxa5 (26. Rab2 Bxb3 27. Rxb3 Rb8 $19 {and the pawns will soon roll over.})
+26... Rxa5 27. Rxb4 {The rest was easy.} h5 28. f3 Ra2 29. Rb5 Rxe2 30. Rxd5
+Ree1 31. Rxd6 Rxf1+ 32. Kg2 Rfd1 33. Be5 Rc2+ 34. Kh3 Rxd6 35. Bxd6 Rf2 0-1

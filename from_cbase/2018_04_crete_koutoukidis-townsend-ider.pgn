@@ -1,0 +1,73 @@
+[Event "Capablanca Memorial GM"]
+[Site "?"]
+[Date "2018.04.12"]
+[Round "?"]
+[White "Koutoukidis, Panagiotis"]
+[Black "Townsend, M Paul"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "2332"]
+[BlackElo "2211"]
+[Annotator "DF"]
+[PlyCount "33"]
+[EventDate "2018.??.??"]
+[Source "ChessPublishing"]
+[SourceDate "2015.08.21"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 {Not trying to prove any opening
+advantage outright, just claiming to be a better player.} exd5 5. Bd3 {If one
+is playing this line one may as well try and pretend to play against the
+c8-bishop...} Nf6 ({My single experience with this position continued:} 5...
+Ne7 6. Qh5 Nbc6 7. Nge2 Be6 8. a3 Bxc3+ 9. bxc3 Qd7 10. Ng3 {and while I had
+successfully neutralised the idea of ...Bf5 for a while to come, Black's
+Nimzo-type nonchalance towards my posession of the bishop pair ultimately
+resulted in real counterplay and a full point: Fernandez,D-Medina,W Jakarta
+2013}) 6. Nge2 Nc6 7. O-O O-O 8. Bg5 Be7 ({I am finding it a bit hard to
+decide whether} 8... Bxc3 $5 {also equalises. If it does, then it is much more
+logical to me.} 9. Nxc3 h6 10. Bxf6 (10. Be3 Nb4 11. Be2 Bf5 12. Rc1 Re8 13. a3
+Nc6 $11) 10... Qxf6 11. Nxd5 Qd6 12. Be4 Re8 13. Bf3 (13. Qd3 $5 Be6 14. Qg3
+Bxd5 15. Qxd6 cxd6 16. Bxd5 Nxd4 $132) 13... Be6 14. c4 (14. Nf6+ gxf6 15. d5
+Bxd5 16. Bxd5 f5 $132) 14... Bxd5 15. Bxd5 (15. cxd5 Ne7 16. Re1 Nxd5 17. Qb3
+c6 $11) 15... Rad8 $14 {Black isn't regaining the pawn by force, but White's
+pieces are tied up in quite an awkward way. Nevertheless, this still doesn't
+look like completely full compensation.}) 9. Qd2 (9. a3 {seems more accurate,
+because of the next note. If White gives up one bishop for a knight, it should
+probably be the one on g5.}) 9... Re8 (9... Nb4 {would be automatic for me.}
+10. Ng3 Nxd3 11. Qxd3 c6 $11 {and now White has to be slightly cautious not to
+end up worse in the next few moves, which a careless man could do, for
+instance by} 12. Nce2 $6 Re8 13. Rfe1 h6 14. Bd2 Qb6 15. Rab1 c5 $1 $15) 10. a3
+Na5 {With this and the next few moves Black drifts a little bit. This is
+especially true since I don't believe ...Nc4 was ever a genuinely desirable
+thing for him.} 11. b3 (11. Nf4 c6 12. Rfe1 $14 {is also surprisingly
+uncomfortable.}) 11... b6 12. Rfe1 c6 13. Ng3 Nb7 $2 {Even if Black had time
+for ...Nd6 his position would still be slightly worse, in a 'cramped Petroff'
+kind of way. However, there is a more immediate tactical issue, and one which
+I am impressed with the White player for pointing out.} (13... g6 14. Re2 Nb7
+15. Rae1 Nd6 $14 {is close to being an exact transposition to a Petroff with 6.
+..Nd6.}) 14. Rxe7 $3 Qxe7 $2 (14... Rxe7 15. Bxf6 gxf6 16. Nh5 Qf8 {was how I
+expected Black to defend, and this would keep three results on the table due
+to the accuracy White needs.} 17. Nxf6+ Kh8 18. Nxh7 Qg7 19. Qf4 Re6 $1 20. Ne2
+$1 Rh6 21. Ng5 Nd6 22. Ng3 Bd7 $16) 15. Nh5 $1 Nxh5 {Essentially throwing in
+the towel, though the technical phase took a while.} 16. Bxe7 Rxe7 17. Re1 $18
+1-0
+
+[Event "Capablanca Memorial GM"]
+[Site "?"]
+[Date "2018.04.10"]
+[Round "?"]
+[White "Ider, Borya"]
+[Black "Townsend, M Paul"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2510"]
+[BlackElo "2211"]
+[Annotator "DF"]
+[PlyCount "52"]
+[EventDate "2018.??.??"]
+[Source "ChessPublishing"]
+[SourceDate "2015.08.21"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. g3 Bd7 6. Ne2 f6 7. f4 Nh6 8. Bh3 Be7
+9. O-O O-O 10. Be3 cxd4 11. cxd4 Qb6 12. Nbc3 fxe5 13. Na4 Qa6 14. dxe5 d4 15.
+Bf2 Nxe5 16. fxe5 Bxa4 17. Qd2 Bb5 18. Rfe1 Rad8 19. Rac1 Bxe2 20. Rxe2 Bg5 21.
+Bxe6+ Kh8 22. Qxg5 Qxe2 23. Rf1 Rde8 24. Bh3 Nf7 25. Qc1 Nxe5 26. Qd1 Rxf2 0-1

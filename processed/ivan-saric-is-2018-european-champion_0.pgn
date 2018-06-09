@@ -1,0 +1,53 @@
+[Event "19th EICC 2018"]
+[Site "Batumi"]
+[Date "2018.03.28"]
+[Round "11"]
+[White "Saric, Ivan"]
+[Black "Navara, David"]
+[Result "1-0"]
+[ECO "B39"]
+[WhiteElo "2657"]
+[BlackElo "2737"]
+[Annotator "Albert Silver"]
+[PlyCount "133"]
+[EventDate "2018.??.??"]
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Bg7 5. c4 Nc6 6. Be3 Nf6 7. Nc3 Ng4 8.
+Qxg4 Nxd4 9. Qd1 e5 10. Bd3 d6 11. O-O O-O 12. a4 Be6 {So far, so theory in
+this well-trodden line in the Maroczy.} ({Black has also tried to prevent
+White's idea by playing} 12... a5 {himself, but this just left too many
+concessions on the light squares.} 13. Nb5 Bd7 14. Bxd4 Bxb5 15. Be3 Bc6 16. f3
+f5 17. Qc2 Qf6 18. Rad1 Qe6 19. Rd2 Kh8 20. Rfd1 {1-0 (35) Van Wely,L (2663)
+-Edouard,R (2640) Chartres 2017}) 13. a5 $146 Qd7 {[#] If you ask the engines,
+there are plenty of choices here. Personally 13...f5 seemed like the natural
+choice.} 14. Qa4 {An interesting choice. White clearly feels the endgame favors
+him enough to invite it. This was by no means an unspoken draw offer.} Qxa4
+{White is slightly better.} 15. Rxa4 Rfc8 16. Nd5 Bxd5 17. exd5 $5 { White's
+plan is now made clear: he wishes to use his rook and bishop pair to push forth
+his new 4 vs 3 pawn majority on the queenside.} Re8 18. Re1 f5 19. Kf1 Kf7 20.
+b4 Rac8 21. Rc1 e4 22. Be2 Be5 23. g3 {Though there is nothing decisive yet,
+Black is having trouble drumming up counterplay. His logical means would be to
+push his own center and kingside pawns, but they are all tied down due to
+threats.} Rc7 {[#] Black overlooks white's next shot.} 24. c5 $1 Rec8 (24...
+dxc5 {is just a disaster for Black.} 25. bxc5 Nxe2 (25... Nb3 $2 26. Rcc4 {and
+instead of becoming a threat, the knight has become a liability.} ) 26. Kxe2
+Rd8 27. d6 Rcd7 28. Rb4 {followed by Rcb1 is decisive.}) 25. Bxd4 Bxd4 26. c6
+{A clever move that becomes clear with White's follow-up.} bxc6 27. b5 $1 c5
+({Black's best chance was to grab as many pawns with} 27... Bxf2 $5 28. Kxf2
+cxb5 29. Rxc7+ Rxc7 30. Bxb5 Rc2+ 31. Be2 Kf6 $14 32. Rc4 Rxc4 33. Bxc4 Ke5 34.
+Ke3 g5 {and Black can hold since the White's bishop alone cannot create a
+passed pawn, and Black's two passers, supported by his king, are too strong for
+just the king or just the bishop.} 35. Bb3 f4+ 36. gxf4+ gxf4+ 37. Ke2 Kd4 38.
+a6 Ke5 39. h3 Kd4 40. Kf2 Kd3 41. Ba4 $11) 28. b6 axb6 29. axb6 Rb7 $1 {The
+point of White's line: the Bd4 will be lost.} 30. Rxd4 $1 cxd4 31. Rxc8 Rxb6
+{This endgame is better for White, bu not at all obvious to covert.} 32. Ke1 g5
+33. Bd1 Rb1 {[#]} 34. g4 $1 $16 {Attacking Black's pawns, since the rook is on
+the 8th, trying to keep White's bishop pinned, which leaves White's rook free
+rein.} fxg4 (34... f4 35. Rc4 Kf6 36. Rxd4) 35. Rc4 $1 Kf6 36. Rxd4 Ke5 37. Ra4
+h5 38. Kd2 Kxd5 $2 39. Bc2 $2 (39. Ra5+ {and the rest is easy.} Kd4 40. Rxg5)
+39... Rg1 $2 (39... Rf1 $16 {was necessary.}) 40. Ra5+ $1 $18 ({ Less strong
+is} 40. Bxe4+ Ke5 $16) ({Also, if} 40. Rxe4 $2 Rh1 $11) 40... Kd4 41. Bb3 e3+
+42. fxe3+ Ke4 43. Bc2+ Kf3 {intending ...Rg2+.} 44. Rf5+ Kg2 45. Rxg5 Kxh2 46.
+Rxh5+ Kg3 47. Bd1 Rg2+ 48. Be2 Rf2 49. Ke1 Rg2 50. Rd5 Rg1+ 51. Kd2 Ra1 52. Rd4
+Ra2+ 53. Ke1 $1 Ra1+ {[#]} 54. Bd1 $1 Kh3 55. Rxd6 g3 56. Kf1 g2+ 57. Kg1 Rb1
+58. Rd2 Rc1 59. e4 Kg3 {[#]} 60. e5 $1 Rc6 61. Rd4 Rc5 62. Rg4+ Kh3 63. Re4 Rc3
+64. e6 Rd3 65. Re1 Rd4 66. e7 Rh4 67. Re3# 1-0

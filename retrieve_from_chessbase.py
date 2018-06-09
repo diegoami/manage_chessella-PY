@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import os
-ROOT_PAGE='http://en.chessbase.com'
+ROOT_PAGE='https://en.chessbase.com'
 ROOT_POST_PAGE=ROOT_PAGE+'/post/'
 import traceback
 

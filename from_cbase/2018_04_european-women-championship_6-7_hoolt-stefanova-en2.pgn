@@ -1,0 +1,30 @@
+[Event "19th ch-EUR Indiv w 2018"]
+[Site "Vysoke Tatry SVK"]
+[Date "2018.04.13"]
+[Round "6.7"]
+[White "Hoolt, Sarah"]
+[Black "Stefanova, Antoaneta"]
+[Result "0-1"]
+[ECO "C45"]
+[WhiteElo "2393"]
+[BlackElo "2479"]
+[Annotator "Marco Baldauf"]
+[SetUp "1"]
+[FEN "r4rk1/1bppn1pp/p1q5/1p2Pp2/1P3P2/2PBR3/P1N2QPP/5RK1 b - - 0 20"]
+[PlyCount "17"]
+[EventDate "2018.04.08"]
+[Source "GM Rep 1 - 1.d4"]
+[SourceDate "2011.01.01"]
+
+{[#]} 20... a5 {black makes a play for the initiative} (20...
+Nd5 {would have taken a more solid approach. After} 21. Rg3 {The
+white attack looks dangerous, whereas black's
+queenside play appears too slow.} Nxc3 22. Nd4 Qb6 23. Nxf5 $40) 21. Nd4
+Qb6 22. Bxb5 $2 {Now Stefanova's attack develops rapidly. Suddenly
+all black pieces are well coordinated while white has tactical
+vulnerabilities at every turn.} (22. Nxb5 axb4 (
+22... Be4 23. Rg3 $16) 23. cxb4 Bc6 24. Re2 $1 $16 {and with this trick Hoolt could save her pawn}) 22... axb4 23. Bxd7 Bd5 {[%csl Gd5,Rd7][%cal
+Ga8a2] dominates the white bishop on d7 and creates a big threat of ...Rxa2.} 24. Nb3 $2 (24. Ra1 {still holds the fort, but you do not like to play such a move} Rfd8 25. e6 Be4 $17)
+24... Rxa2 $1 25. Nd2 (25. Qxa2 Qxe3+ 26. Kh1 Qxc3 $19) 25... bxc3 26. Rxc3
+Rxd2 $1 {The rook arrives on the second rank and is in position for a roundhouse kick.} 27. Qxb6 Rxg2+ 28. Kh1 Rg6+ 0-1
+

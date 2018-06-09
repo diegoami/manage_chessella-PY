@@ -1,0 +1,67 @@
+[Event "Summer Chess Classic A 2018"]
+[Site "Saint Louis"]
+[Date "2018.05.23"]
+[Round "9"]
+[White "Durarbayli, Vasif"]
+[Black "Sevian, Samuel"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[WhiteElo "2618"]
+[BlackElo "2613"]
+[Annotator "DF"]
+[PlyCount "145"]
+[EventDate "2018.??.??"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. O-O g6 6. c4 {It is well worth
+asking why this line exists. Surely White wasn't hoping for a structure with
+Bxc6 and a Closed-Sicilian or Exchange-Ruy like clamp with lots of pawns on
+light squares?} (6. d4 {is the main move, even having lost one tempo.} Bd7 7.
+d5 Ne7 8. Bxd7+ Qxd7 9. Re1 Bg7 10. c4 O-O 11. Nc3 $14 {and both sides have
+more or less what they were looking for.}) 6... Bg7 7. Nc3 O-O 8. Be3 {So we
+have our answer. At the first moment when the option was serious, White chose
+not to take on c6.} (8. Bxc6 bxc6 $15 {looks interesting until we realise that
+Black wants to play with ...c5 and that he will additionally have time for any
+space-gaining or reorganising moves that he needs, like ...Nd7-b8-c6-d4 or ...
+f5-f4.}) 8... Ng4 9. Bg5 f6 10. Bd2 f5 {I wonder how much inspiration the
+players were drawing from the game Prohaszka-Zherebukh at this moment?} (10...
+Nd4 $15 {was a slightly better choice, not giving White the chance to take
+decisive strategic action himself in the centre.}) 11. Bg5 (11. c5 $5 {makes
+Black's opening triumph look quite a bit more ambiguous}) (11. h3 Nf6 12. Bxc6
+bxc6 13. b4 {is the engine recommendation, and after} f4 $132 {we get a
+standard race for play on opposite wings.}) 11... Nf6 {Black drifts over the
+next few moves.} (11... Bf6 $1 {was the most principled decision.} 12. Bd2 f4
+$1 {and the race continues}) 12. Nd5 (12. c5 $5 {is again an interesting call,
+although White made it soon enough.}) 12... fxe4 13. dxe4 Bg4 (13... a6 14.
+Bxc6 bxc6 15. Nxf6+ Bxf6 {would have been an interesting call for Black, which
+he probably rejected in view of} 16. Bxf6 Qxf6 17. c5 $132) 14. c5 $2 {This is
+clearly a miscalculation of some kind, because Black now obtains a monster
+knight.} (14. Bxc6 bxc6 15. Ne3 Bxf3 16. Qxf3 Qb8 $1 $11 {and Black has to
+play a few more accurate moves in order to hold equality with the worse minor
+pieces}) 14... Bxf3 $1 15. Qxf3 Nd4 $15 {Black has clearly won the opening
+battle.} 16. Qd3 (16. Qe3 $5 {The computer suggests some downright confusing
+moves sometimes. From my perspective, this gains nothing after Black plays} Kh8
+{when he will be threatening the b5-bishop for real.}) 16... c6 17. Nxf6+ Bxf6
+18. Bc4+ Kg7 19. Bxf6+ Qxf6 20. cxd6 Qxd6 21. Rad1 Rad8 22. a3 g5 23. Qe3 Qg6
+24. f3 Rf4 25. Rd2 h5 (25... b5 26. Ba2 g4 $15 {clarifies the situation more})
+26. Rdf2 Rdf8 {Somewhere around here, Black's control of the game starts to
+slip.} (26... b5 27. Ba2 a5 $15) 27. b4 Qh6 28. a4 Qd6 $6 29. b5 (29. g3 {
+and now presumably Black's idea was to retreat his pieces and prepare ...g4,
+when he can use the f3-square, however there isn't time.} Qg6 30. Kh1 R4f6 31.
+f4 $1 $36) 29... Qc5 30. Bd3 Kh7 {Black once more looks like he is controlling
+the game but bishops often demonstrate a remarkable propensity for playing
+'around' opponents' pieces.} 31. bxc6 bxc6 32. Kh1 Qe7 33. g3 R4f7 34. f4 $1 {
+The correct idea to break out of the bind. Black now has to think hard about
+the possibility of being worse.} gxf4 35. gxf4 Qh4 $1 36. Qg3 $1 {Ensuring
+that at least White won't lose.} Qxg3 37. hxg3 Rg7 38. Rg2 h4 $1 {Black in his
+turn ensures that he won't lose!} 39. gxh4 Rxg2 40. Kxg2 exf4 41. Kh3 Kh6 42.
+e5 f3 43. Rg1 f2 44. Rg6+ Kh5 45. Rf6 Rxf6 46. exf6 f1=Q+ 47. Bxf1 Kg6 $11 {
+The draw is now totally ensured.} 48. Kg4 Kxf6 49. Bc4 Nf5 50. Ba6 Nd4 51. Kh5
+Ne6 52. Bc4 Ng7+ 53. Kg4 Nf5 54. Bd3 Nd6 55. Kh5 Kg7 56. Kg5 Nb7 57. h5 Nc5 58.
+Bc2 a5 59. h6+ Kh8 60. Kf6 Nd7+ 61. Kf7 Nc5 62. Kg6 Kg8 63. Kf6 Kh8 64. Kg6 Kg8
+65. Kf5 Kh7 66. Kg5+ Kg8 67. Kg6 Kh8 68. h7 Nxa4 69. Bxa4 c5 70. Bb3 c4 71.
+Bxc4 a4 72. Bd5 a3 73. Ba2 1/2-1/2

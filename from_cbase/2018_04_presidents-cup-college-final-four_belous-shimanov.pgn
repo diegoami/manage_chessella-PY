@@ -1,0 +1,40 @@
+[Event "College Final Four 2018"]
+[Site "New York USA"]
+[Date "2018.03.31"]
+[Round "2.1"]
+[White "Belous, V."]
+[Black "Shimanov, A."]
+[Result "1-0"]
+[ECO "D41"]
+[WhiteElo "2575"]
+[BlackElo "2641"]
+[Annotator "Priyadharshan,K"]
+[SetUp "1"]
+[FEN "1r6/p1R2p2/1p1N1pkp/4p3/7P/3n4/P4PP1/6K1 w - - 0 27"]
+[PlyCount "63"]
+[EventDate "2018.03.31"]
+[EventType "team"]
+[EventRounds "3"]
+[EventCountry "USA"]
+[WhiteTeam "UTRGV"]
+[BlackTeam "Webster University"]
+
+{[#]} {The mood in the Webster camp was a happy one here, as Black has no
+chances to lose this position} 27. Rxa7 Rd8 28. Nxf7 Rd4 29. f3 Rxh4 $4 {
+Black falls for the only trap in the position, and Shimanov later told that,
+he thought that he didn't see Rg7+ in the following line} (29... h5 {Only
+Black can push for a win}) 30. Nh8+ Kg5 (30... Kf5 31. g4+ Ke6 32. Ng6 Rh3 33.
+Kg2 $18) 31. Rg7+ Kf5 32. g4+ Ke6 33. Ng6 Rh3 $18 34. Kg2 Nf2 {When we think
+it's all over! It's not yet, as White starts blitzing out his moves, and makes
+a lot of terrible ones} 35. a4 h5 36. Kxf2 hxg4 37. Nf8+ Kd6 38. Rxg4 ({
+The simplest win was} 38. fxg4 Ra3 39. Rf7 Rxa4 40. Rxf6+ Ke7 41. g5 $18) 38... f5
+39. Rb4 e4 40. Rxb6+ Kc7 41. a5 Rxf3+ 42. Ke2 Ra3 43. Ne6+ Kc8 44. a6 Kd7 45.
+Nc5+ $4 {After this check, amazingly White cannot win!} (45. Nf4 Ra2+ 46. Ke3
+Ra3+ 47. Kd4 Ra4+ 48. Kc5 $4 $18) 45... Kc7 46. Rf6 f4 $1 47. Rxf4 Kb6 48. Rf5
+Kc6 49. Kd2 Kb6 50. Re5 Kc6 51. Kc2 e3 (51... Kb6 52. Kb2 Rg3 53. Rf5 Rf3 54.
+Rg5 Rh3 $11) 52. Kb2 Ra5 53. Kc3 e2 54. Kd2 Ra2+ 55. Ke1 Kb6 56. Kf2 Rc2 (56...
+e1=Q+ 57. Kxe1 Rh2 58. Rd5 Ra2 59. Kd1 Rh2 60. Kc1 Ra2 61. Kb1 Rh2 62. Rg5 Re2
+$11) 57. Nd3 Rc4 58. Re6+ (58. Re6+ Kb5 59. Kxe2 Rc7 {Shimanov had
+hallucinated at the board, that the following position was reached, and he
+touched the rook on move 58 only to realize that he is under check and the
+only move is Rc6, which loses instantly.}) 1-0

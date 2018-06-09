@@ -1,0 +1,60 @@
+[Event "5th GRENKE Chess Classic 2018"]
+[Site "Karlsruhe"]
+[Date "2018.03.31"]
+[Round "1"]
+[White "Anand, Viswanathan"]
+[Black "Hou, Yifan"]
+[Result "1/2-1/2"]
+[ECO "A17"]
+[WhiteElo "2776"]
+[BlackElo "2657"]
+[Annotator "AlexYermo"]
+[PlyCount "95"]
+[EventDate "2018.??.??"]
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. e3 $5 {The modern move order. White plans on
+spicing it up with a mix of ideas, some of which involve an early g2-g4.} Bd6 (
+{Nepomniatchi-Anand, London Classic 2017 saw} 4... a6 5. b3 Bd6 6. Bb2 O-O 7.
+g4 $5 {That game may have inspired Vishy to try this whole thing with White!})
+({In a similar vein Grischuk-Kramnik, Tal Memorial Blitz 2018 featured} 4...
+Be7 5. b3 O-O 6. Bb2 dxc4 7. bxc4 c5 8. Rg1 $5 Nc6 9. g4) ({Black also has a
+couple of solid options:} 4... c5 5. cxd5 exd5 6. d4 Nc6 7. Bb5 {is a reverse
+Nimzo-Indian,}) ({while} 4... c6 5. b3 Nbd7 6. Bb2 Be7 {may lead to a Semi-Slav
+should White finally settle on} 7. d4) 5. b3 O-O 6. Bb2 c5 {Hou chooses the
+most principled continuation as she had a surprise prepared.} ({ Again,} 6...
+b6 {leads to a more standard pawn formation:} 7. Qc2 c6 8. Be2 Bb7 9. cxd5 exd5
+{So-Caruana, GCT Paris Blitz 2017}) 7. g4 d4 $5 {[#] Played for the first time
+in Loxine-Santos Ruiz, Bundesliga 2017-18, this sharp move poses a set of
+interesting problems for White to solve. At the very least White doesn't just
+get to push Black back for free, as happened in some of the games mentioned
+above.} 8. exd4 cxd4 9. Nxd4 e5 10. Nf5 Bxf5 11. gxf5 Nc6 { A new move.
+Clearly, Hou was well-prepared.} ({Santos Ruiz chose} 11... e4) 12. Bg2 Nb4 13.
+Qe2 $3 {An absolutely amazing concept from Anand. He's willing to give up the
+exchange and lose the right to castle, all in return for long-term positional
+compensation.} ({The main line runs as follows:} 13. d3 Bc5 14. Be4 Nxe4
+({Should they find themselves in a more adventurous mood Black can even think
+of} 14... Bd4 $5) 15. Nxe4 Nxd3+ 16. Ke2 Nxb2 17. Qxd8 Rfxd8 18. Nxc5 b6 19.
+Na6 Rd4 $11) 13... Nc2+ 14. Kd1 Nxa1 15. Bxa1 Qd7 ({Possibly that b-pawn could
+have been retained with} 15... Rb8 {and then put into good use in case of } 16.
+Nd5 b5 $1) 16. Ne4 Qxf5 17. Nxf6+ Qxf6 18. Bxb7 Rad8 19. Kc2 Rfe8 20. Bc3 Bc5
+(20... Bb4 {would have accomplished the same goal of trading bishops a bit
+faster.}) 21. f3 Bd4 22. Re1 g6 23. Qe4 Kg7 24. Bd5 {[#] No doubt Anand was
+inspired by Karjakin's win over Caruana at the Candidates. Is Bd5 really worth
+a rook?} Qb6 $2 {Ineffective.} ({Instead,} 24... Bxc3 25. dxc3 Qf4 {seemed the
+right plan.} 26. Qxf4 ({Better is} 26. Qe2 $1) 26... exf4 27. Rxe8 Rxe8 28. c5
+(28. b4 Re2+ 29. Kb3 (29. Kd3 Rxa2 30. c5 Kf6 {and the king can stop the
+c-pawn.}) 29... Rxh2 {is a dangerous situation for White, whose bishop is
+unable to stop the h-pawn.} 30. c5 Re2 31. b5 h5) 28... g5 29. b4 h5 30. a4 g4
+31. fxg4 hxg4 {[#] Black appears to be ahead in the race, as the White king
+remains a non-factor.} 32. b5 Kf6 33. c4 Ke5 34. Kc3 $1 {but he saves the day
+at the last moment!} (34. a5 $2 Kd4 35. c6 f3 36. c7 f2 37. Bg2 Kc5) 34... f3
+35. b6 Rg8 $3 36. Kb4 $1 (36. a5 g3 37. hxg3 f2 38. Bg2 Rxg3+) 36... f2 37. Bg2
+Ke6 38. Kb5 {etc. I admit my analysis is grossly inconclusive. The fact is, Hou
+should have gone for this line.}) 25. b4 f5 26. Qd3 Bxc3 27. dxc3 Qd6 28. a4 a5
+29. Kb3 Rb8 30. b5 Qc5 {[#] Having wasted some time Hou Yifan finds the
+strength to admit her mistake and return to the correct plan of welcoming a
+queen trade. Black can no longer win the game, but at least she won't lose.}
+31. h4 Rbd8 32. h5 Kf6 33. hxg6 hxg6 34. Qe3 Qxe3 35. Rxe3 $11 Rd6 36. Re1 Rc8
+{No path for the white king to support the pawns.} 37. Rh1 Kg7 38. Kc2 g5 39.
+Rd1 Kf6 {Same thing here: Black has to stay put and prevent the white rook from
+getting through.} 40. Kd3 Rb6 41. Rh1 Kg7 42. Rg1 Kf6 43. Ke3 Rd6 44. Rb1 Rb6
+45. Ke2 Kg6 46. Kf2 Kf6 47. Rh1 Kg7 48. Re1 1/2-1/2

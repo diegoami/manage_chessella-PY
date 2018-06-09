@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Eisert/Rehm, S/H."]
+[Black "Mate in six"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1K4B1/B1Npp3/P1kp2pn/1p1p2r1/6r1/2pN4/5R1P/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1995.??.??"]
+[SourceDate "2016.02.05"]
+1. h3 $3 (1. Nxd5 b4 $1 (1... Rxd5 2. Nb4+ (2. Rf8 b4) 2... Rxb4 3. Rf8
+Nxg8 4. Rc8#)) (1. Nb4+ Rxb4 2. Nxd5 Re4 $1) 1... Ra4 2. Rf4 d4 3. Nb4+
+Rxb4 4. Nd5 Rxd5 5. Rf8 Nxg8 6. Rc8# 1-0

@@ -1,0 +1,271 @@
+[Event "FIDE Berlin Candidates"]
+[Date "2018.03.15"]
+[Round "5.2"]
+[White "Caruana, Fabiano"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2784"]
+[BlackElo "2763"]
+[Annotator "DF"]
+[PlyCount "61"]
+[EventDate "2018.??.??"]
+[Source "ChessPublishing"]
+[SourceDate "2015.08.21"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. Qb3 {Opting for a
+relative backwater of the Catalan complex.} c6 (6... c5 {is often played but
+my guess is that Black didn't want to allow his opponent an IQP type position.}
+) 7. O-O dxc4 {I'm not sure whether it's permissible to give this '?!',
+however one thing is certain, this move deserts the centre a bit and Black
+isn't forcing through ...c5, which normally constitutes compensation for that.}
+(7... Nbd7 {is the main move, intending sensible development with ...b6 or
+else some Dutch-type thing. There could follow, for instance,} 8. Bf4 a5 9. Rc1
+h6 10. a4 Ne4 $5 $132 {as played in an Olympiad game between two people who
+are currently in Berlin, though for different reasons! Giri,A-Aronian,L
+Istanbul 2012}) 8. Qxc4 b5 9. Qc2 Bb7 10. Nbd2 {This is not terribly incisive.}
+(10. Bg5 $1 {should be a virtually automatic pick- I don't see what Black's
+way of arranging ...c5 could be.} Nbd7 11. Bxf6 Nxf6 (11... Bxf6 12. Nbd2 Qc7
+13. Rfc1 Rfc8 14. Ne4 Be7 15. a4 $14 {and Black will be suffering for a while})
+(11... gxf6 12. Nc3 Qb6 13. a4 b4 14. a5 Qa6 15. Na4 {is painful to look at,
+even if it is somehow sound for Black.}) 12. Nbd2 a5 (12... c5 $6 13. dxc5 Rc8
+14. b4 a5 15. a3 $16 {was the rather anticlimatic continuation in the only
+practical test, Shvidler,E -Kundin,A Tel Aviv 1995}) 13. Nb3 Nd7 14. a4 Qb6 15.
+Rfc1 $36 {White has continuing pressure against the Black queenside.}) 10... c5
+$1 {Just like that, White's opening ideas are all neutralised. Neither can
+this have been a great secret to either player- it's been seen multiple times
+before.} 11. dxc5 Na6 12. Nb3 Be4 13. Qc3 Rc8 14. Be3 (14. Qa5 Qxa5 15. Nxa5 {
+is one way of trying to squeeze blood from a stone (15...Nxc5 16.Nd4 etc)
+however Black has decent answers, one of which is} Bxc5 $11) 14... Nd5 15. Qd2
+Bxf3 16. Bxf3 Nxe3 17. Qxe3 Nxc5 18. Nxc5 Bxc5 19. Qb3 Qb6 {By this point,
+everyone in the commentary room, and for that matter the world, was already
+aware that the game would be a draw.} 20. e3 Be7 21. Rfd1 Rc7 22. Rac1 Rfc8 23.
+Rxc7 Rxc7 24. Kg2 g6 25. Rd2 Kg7 26. Rc2 Rxc2 27. Qxc2 Qc5 28. Qxc5 Bxc5 29. b3
+f5 30. a4 bxa4 31. bxa4 {The requisite 30 moves have been made.} 1/2-1/2
+
+[Event "FIDE Berlin Candidates"]
+[Date "2018.03.15"]
+[Round "5.3"]
+[White "So, Wesley"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "D41"]
+[WhiteElo "2799"]
+[BlackElo "2800"]
+[Annotator "DF"]
+[PlyCount "114"]
+[EventDate "2018.??.??"]
+[Source "ChessPublishing"]
+[SourceDate "2015.08.21"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "RUS"]
+
+1. c4 e6 2. Nf3 d5 3. d4 Nf6 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4 8.
+cxd4 Bb4+ {The pseudo-Grunfeld lines are always a little bit difficult for
+both sides to play, but when played correctly they are level.} 9. Bd2 Bxd2+ 10.
+Qxd2 O-O 11. Bc4 (11. Rc1 $5 {is a nice subtlety, the point being that Bd3 is
+good against ...Nd7 but less so against ...Nc6. Here, Black has to commit
+first.} b6 12. Bd3 $32) 11... Nd7 12. O-O b6 13. Rad1 Bb7 14. Rfe1 Rc8 15. Bb3
+{We have arrived at a tabiya.} Re8 {Not a novelty, but a sign of preparation
+nevertheless.} (15... Qf6 {is the most common move- the idea is just to play
+down the long diagonal with ...Qg6, intending maybe ...f5 under certain
+circumstances, and ...Nf6 under others.} 16. d5 $5 {To my mind this is the
+only move worth being afraid of.} (16. Qe3 Rfd8 $11 {isn't too troublesome, e.
+g. Wang,Y-Li,C China 2017}) 16... Nc5 17. Nd4 Rfd8 (17... e5 18. Nf5 $1 Nxe4
+19. Nh6+ $1 Qxh6 20. Qxh6 gxh6 21. Rxe4 Rfd8 22. f4 $1 $16 {Ruck,R-Korpa,B
+Zalakaros 2015}) 18. f4 $5 exd5 19. e5 Qe7 20. Nf5 $44) (15... h6 $5 {is one
+other move which makes total sense- against White's Qf4 Black will be able to
+play ...Qf6 with tempo.}) 16. h3 Nf6 17. Qf4 Nh5 18. Qe5 Nf6 19. Qf4 Nh5 20.
+Qh2 h6 21. d5 (21. Ne5 $5 {could actually be a better try for an edge.
+Depending on circumstances, White intends either Nc4-d6 or f4-f5.} Qd6 (21...
+Nf6 22. Qf4 Qc7 23. h4 $36) 22. Ng4 (22. f4 Rc3 {drums up too much counterplay}
+) 22... Qxh2+ 23. Kxh2 Kf8 $11 {White still has his space, and I think the odd
+dance of the knights at the edge of the board can only be to his benefit.})
+21... exd5 22. exd5 (22. e5 $5 {was a remarkable idea suggested on chess24.
+Black has to be quite careful his knight doesn't end up trapped.} g6 23. Nd4
+Qd7 $1 {Black needs to blockade on e6.} (23... a6 {is too slow:} 24. Re3 {
+followed by e6 gives White really good compensation.}) 24. g4 Ng7 25. Qf4 Kh7
+26. Qf6 Rc7 $1 $15 {Next Black comes to e6. It can't be stopped.}) 22... Rxe1+
+23. Nxe1 Qf6 24. Nd3 Ba6 {Right here the feeling was that Black was doing well,
+but a bit of sober computer-aided analysis indicates otherwise.} 25. Qe5 $1
+Bxd3 26. Qxh5 (26. Qxf6 Nxf6 27. Rxd3 Kf8 $1 $15 {is a nasty squeeze.}) 26...
+Bc2 (26... Qf5 27. Qg4 Qxg4 28. hxg4 Bc4 $11 {is safer}) 27. Rc1 (27. Qg4 $5 {
+requires some accurate play to defuse:} Qf5 (27... Bf5 28. Qf4 $14) 28. Rc1 $5
+Qxg4 29. hxg4 Bf5 $1 30. Re1 $1 Bxg4 31. Re7 Kf8 $1 32. Rxa7 Bd1 $3 $11) 27...
+Bf5 28. Rxc8+ (28. Rc6 $5 {might just give White a tiny something:} Qa1+ (28...
+Rxc6 29. dxc6 g6 30. Qf3 $14) 29. Kh2 Qe5+ 30. g3 Rd8 $1 31. d6 $5 $36 {
+and Black will have to play some very precise chess to neutralise all the
+tricks}) 28... Bxc8 29. d6 g5 {At this point, I realised that it was Kramnik
+pressing for the win, based on the purist's definition of a better bishop!} 30.
+Qd1 Bd7 31. Qd5 Kg7 32. Qb7 Qa1+ 33. Kh2 Qe5+ 34. Kg1 Qxd6 35. Qxa7 h5 36. Qb7
+h4 37. Qf3 Qe7 38. Qc3+ f6 {Black has completed his mission and can install
+his queen on e5 in various ways to pretend that he's pressing.} 39. Qc4 Qe8 40.
+Qb4 b5 41. a3 Qe5 42. Bd1 Bc6 43. Bf3 Be8 44. Kf1 Bf7 45. Be2 Be8 46. Bf3 f5 {
+This was the only real try in the position- Black is going to try and arrange .
+..g4 by fair means or otherwise.} 47. Kg1 Bf7 48. Qd2 Kg6 49. Qc1 Be6 50. Qc6
+Kf6 51. Qe8 (51. Qb6) 51... Qa1+ 52. Kh2 Qxa3 53. Qd8+ $1 (53. Qxb5 g4 $1 {
+was the point of all the maneouvring. Now Black is at least posing some
+questions to his opponent, e.g.} 54. hxg4 fxg4 55. Be2 g3+ 56. Kg1 Qa1+ 57. Bf1
+Qd4 $15 {although it will be impossible to ever win against reasonable play.})
+53... Qe7 54. Qh8+ Qg7 55. Qd8+ Kg6 56. Qe8+ Qf7 57. Qxb5 Qc7+ {Here Kramnik
+offered a draw, having stretched the limits of human endurance in terms of how
+long he tried to conjure something out of thin air. Alternatively, maybe the
+patch of paint behind Wesley's head had finally finished drying.} 1/2-1/2
+
+[Event "FIDE Berlin Candidates"]
+[Date "2018.03.15"]
+[Round "5.1"]
+[White "Aronian, Levon"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[ECO "A65"]
+[WhiteElo "2794"]
+[BlackElo "2767"]
+[Annotator "DF"]
+[PlyCount "83"]
+[EventDate "2018.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. f3 c5 4. d5 d6 5. e4 e6 6. Nc3 exd5 7. cxd5 Bg7 8. Nge2
+Nbd7 9. Ng3 h5 10. Be2 Nh7 11. Bf4 {This is a new try for Aronian, however it
+also doesn't seem to bring him an advantage.} (11. Be3 {was an older move
+played by Aronian.} h4 12. Nf1 O-O 13. Qd2 Re8 14. Bh6 Bd4 $1 15. Ne3 $5 a6 $1
+{Now, it is important to cover the b5-square for its own sake, and not just
+because a pawn wants to go there.} (15... g5 $6 16. Nf5 Ne5 17. Ng7 Re7 18. Nh5
+f6 19. Nb5 $1 $40 {was pointed out by the annotations of the time as a reason
+why the b5-square was important}) 16. Nc2 (16. a4 $6 g5 17. Nf5 Ne5 18. Ng7 Re7
+19. Nh5 f6 $1 {is now good for Black, whose minor pieces are not in any
+trouble at all, while the same cannot be said for White.}) 16... Be5 17. Bf4 $1
+{White had to escape with his bishop. However, now Black has acheived the
+desired advance.} b5 $11 {Aronian,L-Li,C Geneva 2017}) 11... Qe7 12. Qd2 h4 13.
+Nf1 g5 14. Be3 Ne5 15. g3 (15. Bf2 $5 {is positionally well motivated, but it
+kind of encourages an active move that perhaps White was not that keen on
+seeing:} f5 $1 $132) 15... Bd7 {Not a bad move, but Black has to be more on
+guard here.} (15... g4 $5 16. f4 Nf3+ 17. Bxf3 gxf3 18. e5 $13 {would have
+been a great mess.}) (15... Bh3 $5 {was the move Aronian expected, but maybe
+here his} 16. f4 {is still strong:} Ng6 17. e5 gxf4 18. Bb5+ Kf8 19. gxf4 $44)
+16. gxh4 {A good practical decision, because Black's most natural reply is no
+good.} (16. f4 {was suggested in the Spanish commentary, and it seems a more
+accurate order than the one used in the game if Black has to take. However,}
+Ng6 $1 (16... gxf4 17. gxf4 {is dangerous, since e5 is coming next}) 17. e5
+gxf4 18. gxf4 dxe5 {and now White has to play ever more incisive moves to stay
+in the opening battle:} 19. f5 $1 Bxf5 20. d6 Qd8 21. O-O-O $132) 16... gxh4 $6
+(16... g4 $3 {was the unexpected extra option that kept Black fighting for
+opening success.} 17. f4 Nf3+ 18. Bxf3 gxf3) 17. Rg1 $1 (17. f4 {was possible,
+as in the note to move 16. Black is in considerable trouble following} Ng4 18.
+e5 $3 $14 {since eventually d6 must give way, possibly following Ne4 or Nc4
+from White.}) 17... f5 (17... Ng6 {could have been the lesser evil, and after}
+18. f4 {perhaps the depressing pawn sacrifice} Bd4 19. Bxd4 cxd4 20. Qxd4 Qf6
+21. Qxf6 Nxf6 $14) 18. f4 $1 Ng4 19. e5 $1 {The centre is now cracked open by
+force and Black is already close to dead.} dxe5 (19... O-O-O 20. e6 $16 {
+is not something any sane GM would sign up for.}) 20. d6 Qe6 (20... Qf6 $5 {
+at least cuts out Nb5 and almost obligates White to sacrifice a second pawn.}
+21. Nd5 (21. Nb5 exf4 22. Bxf4 O-O $1 $13 {is now just as hard to play with
+White as with Black.}) 21... Qxd6 22. O-O-O Rd8 $5 23. h3 Bc6 $16 {Black is
+still in trouble, but the point is up for grabs due to the sheer mess in the
+position and the lack of a d6-pawn for White.}) 21. Nb5 {Now White trivially
+wins an exchange, and the d-pawn remains alive. The former is the least of
+Black's worries, but the latter is a matter for grave concern.} Rc8 (21... O-O
+22. Nc7 Qf7 23. h3 $1 Nxe3 24. Nxe3) 22. Nc7+ {Aronian pondered this move for
+a considerable length of time, possibly trying to recall to mind some fragment
+of preparation done in the dim and distant past.} (22. Bxg4 {is also possible,
+but is not as good:} fxg4 23. Nc7+ Rxc7 24. f5 $1 (24. dxc7 $2 exf4 $1 $17)
+24... Qxf5 25. dxc7 {and now Black can keep the position messy with (inter
+alia)} Nf6 $16) 22... Rxc7 23. dxc7 exf4 24. Rd1 $2 (24. O-O-O $3 {was the
+winning move, as everyone and their dog (and its engine) knows by now.} fxe3
+25. Nxe3 (25. Qxd7+ $4 Qxd7 26. Bb5 Bxb2+ $1 $19) 25... Bh6 (25... Qxe3 26.
+Qxe3+ Nxe3 27. Rxg7 Nxd1 28. Bb5 $18) (25... Bd4 $6 {was what stopped Aronian
+in his tracks, not noticing the next move:} 26. Nxf5 $18) 26. Bb5 $3 O-O $5 (
+26... Bxb5 27. Qd8+ Kf7 28. Qxh8 Bxe3+ 29. Kb1 Bxg1 30. Qxh7+ Kf6 31. Qh8+ Kg5
+32. c8=Q Qxc8 33. Qxc8 $18) 27. Bxd7 $1 Qxe3 28. Bxf5 Qxd2+ 29. Rxd2 $18) 24...
+Ng5 (24... fxe3 $5 {is interesting, but more so for White.} 25. Qxd7+ $1 Qxd7
+26. Bb5 Qxb5 27. c8=Q+ Kf7 28. Qxf5+ Ngf6 29. Qg6+ Ke6 30. Rg4 $3 $16) 25.
+c8=Q+ Bxc8 26. Qd8+ Kf7 27. Qc7+ $6 {This is a really remarkable position and
+close to impossible to play well for either side!} ({Objectively, White should
+have played} 27. Qxg5 {, whereupon there is a draw:} fxe3 28. Rxg4 fxg4 29.
+Qf4+ Qf6 30. Bc4+ $11) 27... Kg8 $2 (27... Qe7 $1 {It was Black's turn to find
+a narrow path to an advantage.} 28. Bc4+ Kf6 $1 29. Qxe7+ (29. Qxf4 Nh3 $3 30.
+Qd6+ (30. Rd6+ Be6 31. Rxe6+ Qxe6 32. Qxg4 Qxe3+ 33. Nxe3 fxg4 $17 {is almost
+peaceful by comparison}) 30... Qxd6 31. Rxd6+ Ke5 $1 $15 {There is no mate and
+Black emerges blinking with confusion from all the complications, but with a
+significant plus to his name. And yes, after Rd5+ Black is obliged to dive
+deeper with ...Ke4.}) 29... Kxe7 30. Bxc5+ Ke8) (27... Kg6 {is vaguely
+playable as well- the point is that the c8-bishop is protected by a rook,
+unlike in the game continuation.} 28. Rd6 Be5 (28... fxe3 29. Bxg4 fxg4 30.
+Rxg4 $1 $16) 29. Rxe6+ Bxe6 30. Qxb7 fxe3 $44 {Black gets excellent
+compensation, particularly of the practical variety.}) 28. Rd6 $1 {Suddenly
+White is winning again.} Qf7 29. Qd8+ $2 (29. Qxc8+ {is the obvious move, but
+a little more calculation brings you to the critical position. The press room
+was pretty unanimous that Aronian reached it but didn't see move 31.} Kh7 30.
+Qxc5 Ne4 {and now it's important to notice} 31. Rxg4 $3 {which wins on the
+spot! For instance,} Nxc5 32. Rxh4+ Kg8 33. Rd8+ Bf8 34. Rxh8+ Kxh8 35. Bxc5
+$18) 29... Qf8 30. Bxf4 Ne6 $1 31. Bc4 $1 (31. Qxf8+ Kxf8 32. Bd2 Bd4 $17)
+31... Qxd8 32. Rxd8+ Kh7 (32... Kf7 $6 33. Rxc8 Rxc8 34. h3) 33. Rxh8+ Bxh8 34.
+Bd6 (34. Bb8 $1 $11) 34... Ng5 35. Rg2 Ne4 (35... b6 $15 {is maybe the
+simplest move in the position, bringing Black's 4th minor piece fully into the
+struggle. White faces an uphill task trying to draw this.}) 36. Bb8 Bd4 37. h3
+Ne5 38. Bd5 {It is impossible to not make minor inaccuracies even here.} (38.
+Bxe5 Bxe5 39. Rg8 Bd7 40. Rd8 $11) 38... Nd3+ 39. Ke2 Nc1+ (39... Nxb2 {
+is a clean pawn, though seeing this with less than a minute remaining is
+non-trivial!} 40. Bg8+ Kh8 41. Bf7 Bd7 $1 $15) 40. Kd1 Nd3 41. Nd2 {On move 41,
+White decides not to repeat, possibly thinking that Black still wanted to play
+on.} Nf6 42. Bf3 (42. Bf3 Nf2+ 43. Ke1 Nxh3 44. Rh2 Ng5 45. Rxh4+ Kg6 $11 {
+was the line mentioned in the press conference.}) 1/2-1/2
+
+[Event "FIDE Berlin Candidates"]
+[Date "2018.03.15"]
+[Round "5.4"]
+[White "Ding, Liren"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[ECO "E05"]
+[WhiteElo "2769"]
+[BlackElo "2809"]
+[Annotator "DF"]
+[PlyCount "61"]
+[EventDate "2018.??.??"]
+[WhiteTeam "China"]
+[BlackTeam "Azerbaijan"]
+[WhiteTeamCountry "CHN"]
+[BlackTeamCountry "AZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. a4 (
+8. Qxc4 b5 9. Qc2 Bb7 {is the absolute main line, and now nobody quite
+understands what White should be doing with his dark-squared bishop!}) 8... Bd7
+9. Qxc4 (9. Ne5 {has always seemed to me to be a cleaner move.} Nc6 $1 (9...
+Bc6 10. Nxc6 Nxc6 11. e3 Na5 12. Nd2 {and White regains the pawn while keeping
+the bishop-pair. It is important to note the wrinkle} c5 13. dxc5 Rc8 14. b4 $1
+cxb3 15. Nxb3 Nxb3 16. Qxb3 Rxc5 (16... Nd7 17. c6 bxc6 18. Rd1 $44) 17. Qxb7
+a5 18. Bb2 $14) 10. Qxc4 Nd5 $1 (10... Nxe5 11. dxe5 Nd5 12. Nc3 $14) 11. Nxd7
+Na5 $1 12. Qd3 Nb4 13. Qc3 Qxd7 14. Nd2 Rfd8 $11 {Black has enough
+compensation for the bishop-pair, when we consider the short-term factors.})
+9... Bc6 10. Bf4 Bd6 11. Bg5 (11. Qc1 $5 {is the main move, fighting for the
+dark squares and at the same time avoiding various tempo-gainers that Black
+had. Nevertheless, by following a strategy remarkably like the one in the
+present encounter, Black managed to squeeze his opponent to death in another
+top game:} Nbd7 12. Nc3 Qe7 13. Re1 (13. a5 $5) 13... Bxf3 14. Bxf3 Bxf4 15.
+Qxf4 c6 16. a5 e5 $1 $11 17. dxe5 Nxe5 18. Bg2 Rad8 19. b4 (19. Red1 $11) 19...
+Rd7 20. Bh3 Rd6 $36 {Inarkiev,E-Leko,P Riadh 2017}) 11... Nbd7 12. Nc3 h6 13.
+Bc1 {Even the official commentary stream was powerless to explain this move,
+which seems to rely on considerations that are so long-term as to be
+practically non-existent.} (13. Bxf6 Nxf6 14. Rfd1 {really does seem like a
+better try for an advantage, even if it should also not work.} Qe7 15. Nd2 (15.
+Ne5 Bxg2 16. Kxg2 c5 $11 {Kuzubov,Y-Bologan,V Plovdiv 2012}) 15... Bxg2 16.
+Kxg2 Bb4 $1 $11) 13... a5 14. b3 Qe7 15. Bb2 Rfd8 16. Rac1 $6 {On one level
+there is nothing so wrong with this, and on another it signs away most of
+White's winning chances. As Mamedyarov commented in his press conference, ...
+Bxf3 is often a terrible idea when White has both bishops, but after one pair
+has been traded off, Black can worry less and can perhaps even think about
+winning the battle of minor pieces.} (16. e3 {was a little more ambitious- it
+is still not completely clear to me how Black intends to deploy his pieces.
+White's queen can retreat to e2 and he can consider playing for e4, or even
+Bh3 and Nd2-c4.} Nd5 {can for instance be met.} 17. Nxd5 Bxd5 18. Qc2 f5 19.
+Nd2 $32) 16... Ba3 $1 17. Bxa3 Qxa3 18. Nb5 Qe7 $1 19. Qc2 (19. Nxc7 $4 Nb6 $19
+{is a rather useful detail}) 19... Bxf3 20. Bxf3 c6 21. Nc3 Nb6 22. e3 e5 {
+After this move, neither side can really dodge the draw.} (22... Nbd5 $11 {
+was slightly more ambitious- certainly having equalised with Black I might
+well be tempted to play for a bit more, especially since '0.00' is likely an
+overestimation of the bishop.}) 23. dxe5 Qxe5 24. Rfd1 g6 25. Rd2 Rd7 26. Rxd7
+Nbxd7 27. Rd1 h5 28. Rd4 Nc5 29. h4 Kg7 30. Kg2 Ne6 31. Rd1 1/2-1/2
+

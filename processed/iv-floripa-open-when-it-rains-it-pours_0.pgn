@@ -1,0 +1,41 @@
+[Event "IV Floripa Chess Open 2018"]
+[Site "?"]
+[Date "2018.01.24"]
+[Round "8.2"]
+[White "Delgado Ramirez, Neuris"]
+[Black "Fier, Alexandr"]
+[Result "1-0"]
+[ECO "B30"]
+[Annotator "Albert Silver"]
+[PlyCount "91"]
+[EventDate "2018.??.??"]
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 Nf6 6. a4 a6 7. Bxc6 Bxc6 8. e5
+dxe5 9. Nxe5 Rc8 10. d3 b6 $146 ({Previously known was} 10... e6 11. Nd2 Be7
+12. Ndc4 O-O 13. Nxc6 Rxc6 14. Bg5 Nd5 15. Bxe7 Nxe7 {1-0 (26) Chernyshov,K
+(2470)-Lutsko,I (2410) Minsk 1996}) 11. Nxc6 $16 Rxc6 12. Qf3 Qd5 13. Qg3 e6
+14. Nc3 $1 $36 {This emphasizes the issues with Black's position: his
+underdeveloped kingside and king still in the center.} Qd7 15. Ne4 Nd5 16. Bd2
+Qc7 17. f4 $1 h5 {Black has come to terms that he will not be castling anytime
+soon, and unless he wants to be completely bogged down in a poor and passive
+position, strikes out with . ..h5.} (17... Ne7 $142) 18. Qf3 {White moves the
+queen out of the way and prepares to smoke out Black's king with f5.} Ne7 19.
+f5 exf5 {[#]} (19... Nxf5 $2 {would be a losing blunder as White would have the
+shot} 20. Qxf5 $3 { winning the piece since taking the queen would lead to mate
+after} exf5 21. Nf6+ {double-check!} Kd8 22. Re8#) 20. Qxf5 $1 {Just as in the
+previous note, this move still gets the pawn on f5, but at least Black does not
+concede a piece for the 'pleasure'. Though the engines do not hesitate to
+declare White winning, it is hardly cut and dry just yet.} Re6 ({And not} 20...
+Nxf5 21. Nf6+ Kd8 22. Re8#) (20... h4 $16 {might work better.} 21. a5 (21. Ng5
+f6 $16) 21... h3) 21. Qf3 $18 {Threatens to win with Ng5.} Qc6 22. Qf4 f6 23.
+Nc3 {Not best. White's idea is logical, and wants to trade off what few Black
+pieces are actually participating in the battle, but there was no need to rush
+to this just yet, and he could have worked on debilitating Black's position
+still while the latter is tied up.} (23. a5 $1) 23... Ng6 24. Qc4 (24. Rxe6+
+$142 Qxe6 25. Qc7 (25. Qb8+ Kf7 $16)) 24... Ne5 $16 25. Qxa6 Bd6 26. Qb5 Kf7
+27. Qxc6 Nxc6 28. Nd5 Nd4 29. Rxe6 (29. Nxb6 $6 Bxh2+ 30. Kxh2 Rxb6 $14) 29...
+Kxe6 30. Nxb6 Nxc2 31. Rc1 Nd4 {Threatening ...Ne2+.} 32. Re1+ Kf7 33. Be3 ({
+Better is} 33. Nc4 $16 Bc7 34. Ra1) 33... Nb3 34. Bf2 Bc7 35. Nd5 Be5 36. Bg3
+Bxb2 37. Re7+ Kg6 38. Rb7 $1 Bd4+ 39. Kf1 Nc1 40. Ne7+ Kg5 $2 (40... Kh7 $14)
+41. Be1 $1 $18 Nxd3 $2 (41... h4 42. Bd2+ Kh5 43. Bxc1 Ra8) 42. Bd2+ Kg4 (42...
+Nf4 $142 43. Bxf4+ Kxf4 44. Ng6+ Ke3 45. Nxh8 c4) 43. h3+ Kg3 {[#]} 44. Rb3 $1
+c4 {[#]} (44... Kh2 $142 45. Rxd3 g5) 45. Rxd3+ $1 cxd3 46. Ng6 1-0

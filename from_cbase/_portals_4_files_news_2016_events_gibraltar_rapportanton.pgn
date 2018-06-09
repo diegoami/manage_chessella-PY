@@ -1,0 +1,31 @@
+[Event "Gibraltar Masters 2016"]
+[Site "Caleta ENG"]
+[Date "2016.01.26"]
+[Round "7.4"]
+[White "Rapport, Richard"]
+[Black "Anton Guijarro, David"]
+[Result "0-1"]
+[ECO "A00"]
+[PlyCount "82"]
+[EventDate "2016.01.26"]
+
+1. g3 c5 2. Bg2 Nc6 3. e4 g6 4. d3 Bg7 5. f4 d6 6. Nh3 Nf6 7. O-O O-O 8. Nf2
+Nd7 9. Nd2 {With a knight on c3 the position would resemble a Closed Sicilian.}
+Rb8 10. h4 b5 11. h5 b4 12. Nf3 Nf6 13. hxg6 hxg6 14. Nh4 Nh5 15. Nf5 e5 16.
+fxe5 dxe5 ({Another option was} 16... Nxg3 $5 {sacrificing a piece to get an
+attack:} 17. Nxg3 Qh4 18. Nfh1 Bxe5) ({The engines like} 16... Nxe5 $5 17. Nxg7
+Nxg3 18. Bh6 Nxf1 19. Kxf1 Qf6 $17) 17. c3 c4 18. Nxg7 Kxg7 (18... Nxg3 $5) 19.
+Qf3 cxd3 20. Nxd3 bxc3 21. bxc3 Ba6 22. Rd1 Bxd3 23. Rxd3 Qe7 24. Be3 Na5 25.
+Rad1 Nc4 26. Rd7 Qf6 27. Bxa7 Rb2 {[#] The crucial position.} 28. Qd3 $2 ({
+This loses. Better was} 28. Qxf6+ Nxf6 29. Rc7 Rxa2 30. Bc5 Rfa8 31. Bh3 {
+and although the exposed position of White's king gives Black the better
+chances, White is not lost yet.}) 28... Nb6 $1 $19 {White probably overlooked
+this move. Black blocks the diagonal a7-f2, threatening to mate with ...Qf2+
+and ...Qxg2#.} 29. Rf1 {[#]} Nxd7 ({Strong was} 29... Qc6 30. Rd5 (30. Bxb6
+Qxb6+ 31. Kh2 Nf6 32. Rd5 Rh8#) 30... Ra8 31. Bxb6 Qxb6+ 32. Kh2 Rh8 $19) 30.
+Qxd7 (30. Rxf6 Nhxf6 31. Be3 Ra8 32. Bh3 Raxa2 $19 {is also good for Black.})
+30... Qe6 (30... Qg5 $1 {with the idea} 31. -- Rxg2+ 32. Kxg2 Qxg3+ 33. Kh1 Nf4
+{and White is mated.}) 31. Qxe6 fxe6 32. Rxf8 Kxf8 33. Kh2 Rxa2 34. Bb8 Nf6 35.
+Kh3 Nd7 36. Bd6+ Kf7 37. Bf1 Rd2 38. Bc7 Rc2 39. Ba5 Nc5 40. Bc7 Nxe4 41. Bxe5
+Rc1 0-1
+

@@ -1,0 +1,77 @@
+[Event "5th Shamkir Chess 2018"]
+[Site "Shamkir"]
+[Date "2018.04.26"]
+[Round "7"]
+[White "Wojtaszek, Radoslaw"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "E00"]
+[WhiteElo "2744"]
+[BlackElo "2778"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "92"]
+[EventDate "2018.??.??"]
+[EventType "tourn"]
+[EventCountry "AZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{Today, Karjakin's was possibly the most interesting draw of the round.} 1. d4
+Nf6 2. c4 e6 3. g3 Bb4+ 4. Nd2 c5 5. a3 Bxd2+ 6. Qxd2 cxd4 {Unusually for
+Bogo-type openings, here Black needs to not cling on to his c5-pawn, not
+because d5 was such a big threat but because dxc5 was.} 7. Nf3 d5 (7... b6 8.
+Bg2 (8. Nxd4 Bb7 9. f3 $132 {is another option I've pointed out before}) 8...
+Bb7 {This is another big line, and also quite thematic.} 9. Qxd4 (9. O-O {
+is also playable, but White needs to be fine with the pawn not coming back
+immediately. For instance} Bxf3 10. Bxf3 (10. exf3 $5 Nc6 11. f4 Rc8 12. b4 d6
+$44) 10... Nc6 11. b3 O-O 12. Bb2 Rc8 13. Bxd4 Nxd4 14. Qxd4 Rc5 $11 {
+Tomashevsky,E-Eljanov,P Wijk aan Zee 2016}) 9... Nc6 10. Qc3 (10. Qf4 $5 {
+will be a future direction, as even though after} O-O 11. O-O Na5 $11 {Black
+may have managed objective equality, there are still issues surrounding his
+d-pawn.}) 10... Rc8 11. b4 Ne7 $132 {Bhat,V-Kovalyov,A Montreal 2009}) 8. Bg2
+dxc4 9. Qxd4 Qxd4 10. Nxd4 O-O {Reaching a type of position which is very
+standard for the Catalan and related openings. On this site I annotated one
+precedent to the present game, from Tata Steel this year.} 11. Be3 Nd5 12. Rc1
+Nxe3 13. fxe3 Nd7 ({In my annotations to Giri-Karjakin, Tata Steel 2018 I gave
+} 13... e5 14. Nb5 Nd7 15. Nd6 $14 {and commented that the then-played 12...c3
+was preferable to 12...Nxe3, awarding that move an exclamation mark!}) 14. Rxc4
+Nf6 15. O-O Rd8 (15... e5 $5 {is a reasonable improvement if Black must play
+12...Nxe3, but as mentioned, I was convinced enough that 12...c3 equalises.})
+16. Rc7 $6 (16. Nf3 $5 {is a reasonable attempt to justify my previous
+optimism about White's game: Ne5 is a strong idea, as is e4-e5. Even Rf4
+deserves note. When they reach good depth, engines suggest} Ne8 {as an attempt
+to solve Black's issues, but White must be better after} 17. Rfc1 f6 18. Nd4
+$14 (18. Rd4 {may also be enough, and undoubling the pawns is certainly
+appealing.} Rxd4 19. exd4 Bd7 20. Nd2 $36)) 16... Rb8 17. b4 Rd7 18. Rc4 Rd8
+19. Rc7 e5 {So White might be fine with a repetition, but...Black isn't? What
+can have gone wrong in these 20 innocuous moves?} 20. Nb5 Bg4 21. Re1 (21. Nxa7
+e4 $36 {is a mess, and probably a good one for Black, who (unusually for the
+Catalan) has a better bishop.}) 21... a6 22. Nc3 Rbc8 23. Rxc8 Rxc8 $15 {
+This is the point; as soon as Black has even vaguely untangled, then as long
+as knights remain on the board his position is to be preferred. However he now
+drifts a little bit.} 24. Na4 Rc7 25. h3 Bc8 26. Nb6 Be6 27. a4 h5 28. a5 g6 (
+28... e4 $5 {suggests itself to me; certainly this is one of the most
+classical moves in the position, shutting down White's g2-bishop and preparing
+...g5 and an eventual king walk to e5. Also, after this move Black need never
+worry about trading knights- in fact, it will almost invariably be in his
+favour to do so.}) 29. Kf2 Kg7 (29... Bf5 {followed by ...Be4 is one
+interesting way of trying to grow the advantage.}) 30. Rd1 Bf5 31. Rd6 Be6 32.
+Rd1 g5 33. Ke1 Kf8 {Black is holding off on decisive attempts, perhaps due to
+lack of time.} 34. h4 (34. Na8 $5 {tries to simplify quickly, and I think it
+works.} Rc4 35. Bxb7 Rxb4 36. Nb6 (36. Bxa6 Ra4 $17) 36... Rb3 37. Bxa6 Ra3 38.
+Bc4 Rxa5 39. Bxe6 fxe6 40. Nd7+ {Both sides have the same bad structure so
+Black is not still trying to be better.}) 34... gxh4 35. gxh4 Ke7 36. e4 $1 {
+White grows tired of the games surrounding if and when Black will push ...e4.}
+(36. Rb1 e4 $15 {and Black's advantage is back.}) 36... Nd7 (36... Rc3 37. Rd3
+{gains nothing; White's point is that if the rooks come off in any way
+whatsoever then he will have a fortress.}) 37. Nd5+ $1 {White plays well in
+this part of the game to neutralise Black's winning ideas.} Bxd5 38. Rxd5 (38.
+exd5 $2 Kd6 $17 {would of course be a massive conceptual error from White.})
+38... Rc4 39. Bh3 Nf6 40. Rxe5+ Kd6 {It looks like Black is generating tricks,
+but at the same time pawns are flying off the board left, right and centre, so
+Black's better co-ordination never translates into anything more meaningful.}
+41. Rf5 Nxe4 42. Kd1 Nc3+ 43. Ke1 Rxh4 44. Bg2 Rxb4 45. Rxf7 Nd5 (45... b5 $5 {
+was maybe worth a try:} 46. Rf6+ Ke5 47. Rxa6 Rb2 48. Bf3 Ra2 49. Bxh5 Kd4 {
+and with ideas like ...Ne4 about to come, White could still just about mess
+this up.}) 46. Rh7 Rb5 1/2-1/2

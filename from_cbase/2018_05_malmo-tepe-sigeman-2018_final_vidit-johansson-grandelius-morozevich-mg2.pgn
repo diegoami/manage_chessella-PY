@@ -1,0 +1,138 @@
+[Event "Tepe Sigeman Chess"]
+[Site "Malmo SWE"]
+[Date "2018.05.08"]
+[Round "5"]
+[White "Vidit, Santosh Gujrathi"]
+[Black "Johansson, Linus"]
+[Result "1-0"]
+[ECO "E06"]
+[WhiteElo "2707"]
+[BlackElo "2457"]
+[Annotator "Golubev"]
+[PlyCount "105"]
+[EventDate "2018.05.04"]
+
+{This victory in the final round allowed the tournament Elo favorite
+Vidit Gujrathi to share the first place with Nils Grandelius. I would not call it an
+easy game!} 1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7.
+Qc2 {This is, indeed, a very important direction of the Catalan. Black's
+absolutely dominating choice in practice remains to be 7...a6, while the most
+known alternative to it is 7...b5. But this year trends are changing a bit...}
+c6 $5 8. Qxc4 b5 $1 {This side line for Black was first played at GM level,
+possibly, by Anatoli Vaisser in the 1990s.} 9. Qd3 $5 ({A more common} 9. Qc2
+Bb7 {had been twice tested in the 2018 Candidates tournament, Caruana-Karjakin
+and So-Mamedyarov.}) ({One more option is} 9. Qb3 $5 {with the point that in
+the variation} Bb7 10. Rd1 Nbd7 11. Ne5 Nxe5 12. dxe5 {Black must play} Nd7)
+9... Bb7 ({Makes sense also} 9... Nbd7 $5 {where} 10. Ne5 {is harmless:} Nxe5
+11. dxe5 Qxd3 12. exd3 Nd5 $11) 10. Nc3 ({Not too dangerous for Black is} 10.
+Be3 Nbd7 11. Nbd2 $5 Nd5 12. Nb3 {Sumets-Bellahcene, Wasselonne 2012} a5 $5) ({
+or} 10. a4 b4 $5) ({But} 10. Ne5 $5 {deserves atttention.}) 10... Nbd7 11. Be3
+$5 {Probably, this is already the fresh position. White is just a bit better,
+nothing special. As it, generally, should be in the Catalan!} a6 ({One
+alternative was} 11... b4 $5 12. Ne4 Nxe4 13. Qxe4 Rc8) ({And another -} 11...
+Qc8 $5 {, which could have been tried also on the next move.}) 12. a4 ({
+Engines prefer} 12. Ne4 $5 {at this point.}) 12... Nd5 13. Ne4 ({And here
+White can hope to keep some slight plus rather in other lines:} 13. Nxd5 cxd5
+$1 14. axb5 Qb6) ({or} 13. axb5 $5 cxb5 14. Nxd5 Bxd5) 13... Qb6 ({More
+precise was} 13... bxa4 $1 $11 {intending to follow with 14...a5 <=>.}) 14. a5
+$5 Qc7 15. Rfc1 ({White could have fought for some edge by} 15. Bg5 $1 Bxg5 ({
+or} 15... Bb4 16. Bd2) 16. Nexg5 $1 N5f6 $1 17. b4 $1 {, stopping Black's
+c-pawn, which is typical Catalan theme.}) 15... h6 $1 $11 {Covering g5. The
+overall picture becomes quite suitable for Black.} 16. Bd2 Rad8 17. Qb1 e5 $1
+$132 18. dxe5 Nxe5 ({Also possible was} 18... c5 $5) 19. Nxe5 Qxe5 20. Bf3 Bc8
+$1 21. Nc5 $1 ({Not} 21. Rxc6 $6 Bf5 $1 {where White's knight is firmly pinned.
+}) 21... Qd4 22. Nb3 Qf6 23. Qc2 Bd7 $5 24. Be1 $5 Rfe8 {The position is
+approximately equal. White's dubious next move could have led him into trouble.
+} 25. Kg2 $6 Bf8 ({Even better could have been a more active} 25... Bd6 $5) 26.
+Nc5 $2 Bxc5 $2 ({Missing a good opportunity} 26... Bf5 $1 27. Qb3 (27. e4 $2 {
+fails to} Bh3+ $1 28. Kxh3 Qxf3 29. exd5 Rxd5 $19) 27... Qg6 $5 {planning ...
+Bxc5, ...Be4 with a strong initiative.}) 27. Qxc5 Qxb2 $5 28. e4 $1 {Probably,
+Black underestimated this move which gives White sufficient compensation for
+the pawn.} Nf6 ({A decent alternative was} 28... Ne7 $5 $11) 29. Bc3 Qb3 30.
+Bxf6 ({I would really think about} 30. e5 $5 {though it's not a proven fact
+that White gets more than equality there.}) 30... gxf6 $11 31. Ra3 $5 Qe6 (
+31... Qb2 $5 {may look riskier, but it was possible too.}) 32. Rd3 Bc8 ({
+There was also} 32... Qh3+ 33. Kg1 Be6 {and Black shouldn't be afraid of} 34.
+Rxd8 Rxd8 35. Qe7 Rd3 $5 36. Qxf6 c5 $1 $132 {where White can't go for} 37.
+Rxc5 $2 Bc4 $1 $19) 33. Rcd1 $5 ({Avoiding the likely drawn endgame,} 33. Rxd8
+Rxd8 34. Qxc6 Qxc6 35. Rxc6 Kg7) 33... Rxd3 34. Rxd3 Qc4 $5 35. Qe3 {And again
+White avoids simplifications.} Kg7 36. Rd6 $2 ({Aggressive but wrong;
+objectively he had to play} 36. Rc3 $1 $11) 36... Be6 $2 {An obvious but very
+unfortunate decision.} ({Black had several stronger moves and} 36... b4 $1 {
+was best of all.} 37. Qb6 c5 $1 ({rather than} 37... b3 38. e5 $1 fxe5 39. Qe3
+$132 {and if} Be6 40. Bxc6 $1) 38. Rc6 b3 39. Rxc5 Qd3 $1 40. Rd5 $1 Bh3+ $1
+41. Kxh3 Qxf3 42. Rf5 Qc3 43. e5 ({also after} 43. Rf4 $5 b2 44. Rg4+ Kh8 $1
+45. e5 $8 Qxe5 46. Rb4 Qh5+ 47. Kg2 Qd5+ 48. Kh3 Re6 $1 {the draw is not
+guaranteed for White}) 43... Re6 $1 44. exf6+ Kg6 45. Qxe6 fxe6 46. f7 Qd3 $3 (
+{not} 46... Kxf5 $2 47. f8=Q+ Ke4 48. Qa8+ $1 Kd4 49. Qxa6 Qc5 50. Qe2 $1 $11)
+47. Rf4 e5 48. f8=Q exf4 $17 {threatening with ...Qf5+}) 37. e5 $1 {From now
+on White will remain a stronger side in the game.} f5 $6 ({The lesser evil was
+} 37... fxe5 $1 38. Qxe5+ (38. Rxc6 Qd4 $1) (38. Bxc6 Re7 $11) 38... Kg8 $1 {
+where Black probably can survive opponent's initiative even if it can be not
+particularly easy.}) 38. Rxc6 Qb3 {Now Black's position is very difficult, but
+the game is not decided yet.} 39. Rxa6 {White had a complex choice here.} ({
+After} 39. Qxb3 Bxb3 40. Rxa6 Rxe5 41. Rb6 Bc4 42. a6 Re1 $1 {there's no time
+for} 43. a7 $4 {because of} Bf1+) ({One more important option was} 39. Qd2 $5)
+39... Qxe3 40. fxe3 Rd8 ({More logical is an immediate} 40... Rc8 {where} 41.
+Rc6 $2 Rxc6 42. Bxc6 {gives White nothing after} b4 43. a6 b3 44. a7 ({or} 44.
+Ba4 b2 45. Bc2 Bd5+ 46. Kh3 Be4) 44... b2 45. a8=Q b1=Q $11) 41. Rd6 Rc8 42.
+Bd5 $6 ({Instead,} 42. Rb6 $5 {(for example)} Rc2+ 43. Kg1 {seems to be an
+objectively better winning chance.}) 42... b4 $2 ({Correct was} 42... Bxd5+ 43.
+Rxd5 b4 $1 44. Rb5 Rc2+ 45. Kf3 (45. Kh3 Ra2) 45... Rxh2 $1 46. Rxb4 Ra2 47.
+Rb5 (47. Rb7 Rxa5 48. e6 Re5 49. exf7 Kf8 $11) 47... Ra4 $5 48. Ke2 Ra3 $1 {
+and it's doubtful that White can win.}) 43. Bxe6 fxe6 44. Rxe6 Ra8 $6 ({If} 
+44... Rc2+ 45. Kf3 Rxh2 46. e4 $5 fxe4+ 47. Kxe4 b3 (47... Ra2 48. a6 b3 49.
+Kd3 $1 $18) 48. Kd3 $1 Rg2 49. Rb6 Rxg3+ 50. Kc4 {and so on.}) 45. a6 b3 46.
+Rb6 $18 {Black is doomed.} b2 47. Rxb2 Rxa6 48. Kf3 Ra4 49. Rb7+ Kg6 50. Rb6+
+Kg5 51. h4+ Kh5 52. Rf6 Rf4+ 53. gxf4 $1 1-0
+
+
+[Event "Tepe Sigeman Chess"]
+[Site "Malmo SWE"]
+[Date "2018.05.08"]
+[Round "5.2"]
+[White "Grandelius, Nils"]
+[Black "Morozevich, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C91"]
+[WhiteElo "2651"]
+[BlackElo "2665"]
+[Annotator "Golubev"]
+[PlyCount "65"]
+[EventDate "2018.05.04"]
+
+{The Swedish grandmaster was leading solely before the final round, and
+perhaps did not try hard enough to defeat a former world number two (who was even briefly number one
+on the unofficial live rating!) in a not badly played game.} 1. e4 e5 2. Nf3
+Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. d4 ({A
+well-known alternative to} 9. h3 {, which leads to the most researched systems
+of the Ruy Lopez.}) 9... Bg4 $1 10. Be3 Bh5 ({More common is} 10... exd4 11.
+cxd4 Na5 {and if} 12. Bc2 c5 $1) 11. h3 ({The alternative is} 11. Nbd2) 11...
+a5 {This is already a rare move, first used by Ragozin more than sixty years
+ago.} ({Also here} 11... exd4 12. cxd4 Na5 {is what's usually played.}) 12. a4
+exd4 $146 13. Bxd4 $5 ({The obvious} 13. cxd4 $1 {is more principled. But
+indeed Morozevich could have been prepared for it, and should have expected it
+in any case.}) 13... b4 $6 ({Preferable is} 13... bxa4 14. Bxa4 (14. Rxa4 Bxf3
+15. Qxf3 Nd7 $5 $11) 14... Nxd4 15. cxd4 d5 $5 16. exd5 Bb4 17. Re5 Bd6 18. Nc3
+Rb8 {where White may insist on the exchange sacrifice, but it's not clear
+whether he is any better.}) 14. Nbd2 Rb8 15. Rc1 $5 Nd7 16. Qc2 ({There were
+more aggressive ideas:} 16. g4 $5 Bg6 17. Bd5 $1) ({or an immediate} 16. Bd5 $5
+) 16... bxc3 17. bxc3 ({Perhaps, more advisable is} 17. Qxc3 $1 Nxd4 18. Nxd4
+$8 Bf6 $8 19. Qe3 Bxd4 20. Qxd4 Nc5 21. Bd5 {and if} Kh8 22. e5 {is slightly
+better for White.}) 17... Nce5 ({Does not equalize fully also} 17... Nde5 18.
+Nxe5 Nxd4 $1 19. cxd4 dxe5 20. d5 $1) ({Maybe the most precise was} 17... Bxf3
+$5 18. Nxf3 Nce5 $1 $11) 18. Nxe5 dxe5 19. Ba7 $1 {This is a bit stronger than
+a banal immediate retreat to e3.} Rb7 20. Be3 {The idea of Bd5 can be
+unpleasant in many variations, so Black prevents it now.} c6 $1 21. Rb1 ({More
+challenging is} 21. Nc4 $1 Bc5 $5 ({if} 21... Qc7 22. Ba2 Bc5 23. Qd2 $1) 22.
+g4 Bg6 23. Rcd1 $1 Bxe3 24. Rxe3 Qc7 25. Qd2 $1 Nc5 $5 26. Bc2 f6 27. Qd6 $1
+Qxd6 28. Rxd6 {and Black still has problems to solve.}) 21... Qc7 22. Ba2 Rfb8
+$6 ({He could have played} 22... Rxb1 $1 23. Rxb1 {and now, for example,} Bc5 (
+{or} 23... h6 $5 $11)) 23. Rxb7 Rxb7 24. Rb1 $6 ({Some initiative could have
+been developed by} 24. Nb3 $1 {planning f3, Rd1 and then maybe Qe2 or Of2.})
+24... Rxb1+ 25. Qxb1 Bc5 $11 {With a complete equality. Black's light squared
+bishop is a bit out of play yet, but it still defends the f7 pawn, while
+White's own light squared bishop does not help to create threats also to the
+opponent's queenside pawns.} 26. Qd3 h6 27. Nc4 Kh7 28. Bxc5 Nxc5 29. Qe3 Nd7
+30. Qd2 Nc5 31. Qe3 Nd7 32. Qd2 Nc5 33. Qe3 1/2-1/2
+

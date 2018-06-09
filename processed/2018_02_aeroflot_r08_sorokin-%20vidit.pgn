@@ -1,0 +1,38 @@
+[Event "15th Aeroflot Open 2018"]
+[Site "Moscow"]
+[Date "2018.02.27"]
+[Round "8"]
+[White "Sorokin, Aleksey"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "0-1"]
+[ECO "A62"]
+[WhiteElo "2511"]
+[BlackElo "2723"]
+[Annotator "TA"]
+[PlyCount "72"]
+[EventDate "2018.??.??"]
+[EventType "swiss"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 25,72,0,43,25,36,27,28,29,41,0,0,0,49,35,26,26,26,26,32,-28,-7,-16,-7,0,
+0,-5,-10,-23,-19,-12,-5,0,34,-178,-154,-220,-210,-263,-265,-268,-289,-259,-278,
+-274,-266,-656,-647,-871,-851]} 1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5
+d6 6. Nc3 g6 7. Nf3 Bg7 8. Bg2 O-O 9. O-O Re8 10. Bf4 h6 {A62: Modern Benoni:
+Fianchetto Variation without early ...Nbd7} (10... Bf5 11. Bg5 h6 12. Bxf6 Bxf6
+13. Nd2 Bc8 14. Nc4 Bxc3 15. bxc3 b5 16. Nd2 Nd7 17. Re1 a5 18. Qc2 {1/2-1/2 
+(29) Tomashevsky,E (2702)-Svidler,P (2763) Palma de Mallorca 2017}) 11. Re1 Bf5
+12. Nh4 Bc8 13. Nf3 g5 {LiveBook: 3 Games} 14. Bc1 Nbd7 15. Qc2 a6 16. a4 {[#]}
+Rb8 $146 ({Predecessor:} 16... b6 17. h3 Nf8 18. Nd2 Ng6 19. Nc4 Rb8 20. Bd2 {
+0-1 (99) Khismatullin,D (2566)-Najer,E (2623) Krasnoyarsk 2007}) 17. h4 g4 18.
+Nd2 Ne5 19. b3 b5 20. axb5 axb5 21. Bb2 Nh5 22. Be4 (22. e3 $14) 22... Qd7 23.
+e3 Nf6 {...b4 is the strong threat.} 24. Bg2 Qf5 $36 {[%mdl 2048] Black has
+some pressure.} 25. e4 Qg6 26. Ra5 Bd7 27. Ra7 Rbd8 28. Qb1 h5 29. Nd1 $2 {[#]}
+(29. Ne2 $14 {stays ahead.}) 29... Nxd5 $1 $19 {[%cal Bf6d5,Bd5b4,Bb4d3][%mdl
+544]} 30. Nf1 ({Not} 30. exd5 $2 {[#]} Nf3+ $1 {[%mdl 512]} 31. Bxf3 Rxe1+ 32.
+Kh2 Qxb1 $19) (30. Bxe5 $17 Rxe5 31. Bf1) 30... Nb4 31. Nfe3 Nbd3 32. Rf1 Nxb2
+33. Nxb2 Nf3+ 34. Bxf3 gxf3 35. Rd1 $2 (35. Nd3) 35... Rxe4 36. Nd5 Qe6 {
+Precision: White = 37%, Black = 83%.} 0-1
+

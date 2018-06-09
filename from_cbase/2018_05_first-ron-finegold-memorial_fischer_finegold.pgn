@@ -1,0 +1,94 @@
+[Event "Western open-ch"]
+[Site "Bay City"]
+[Date "1963.07.06"]
+[Round "5"]
+[White "Fischer, Robert James"]
+[Black "Finegold, Ronald"]
+[Result "1-0"]
+[ECO "C15"]
+[Annotator "Nastasio,Davide"]
+[PlyCount "107"]
+[EventDate "1963.07.04"]
+[EventRounds "8"]
+[EventCountry "USA"]
+
+1. e4 e6 {One of the funny stories GM Finegold told me was about Judit Polgar.
+It seems in 1989 they played a game, in that time there was no Chessbase for
+preparing, so she had a printout of a lot of games, and one of the games was
+this one. So she couldn't understand how GM Finegold played with Fischer,
+because the name of the Player was "Finegold" without showing the first name,
+and she imagined he couldn't be alive in 1963...} 2. d4 d5 3. Nc3 Bb4 4. a3 (4.
+e5 {Maybe more common nowadays...}) 4... Bxc3+ 5. bxc3 dxe4 6. Qg4 {These
+moves are reasonable. One can play them also without knowing opening theory.
+The exchange of the dark squares bishop, created a weakness in G7, and of
+course the Pe4 is unprotected, so Qg4 attacks them both.} Nf6 7. Qxg7 Rg8 8.
+Qh6 Rg6 9. Qe3 b6 {The problem of the French, which is also the reason many
+players switch to the Caro-Kann, is how to develop the Bc8, which is boxed-in
+by the Pe6. Here Black is trying to develop the Bc8 in A6, or B7.} (9... c5 {
+Could be an interesting idea for Black.}) 10. Bb2 Bb7 11. O-O-O {White could
+have chosen to develop, one common maneuver is Ng1-e2-f4.} Nbd7 12. h3 {
+To prevent Ng4.} Qe7 {Black could try to attack the queenside, since he still
+didn't castle. Maybe something like Pa6 and Pb5. GM Lombardy in his book:
+"Understanding Chess - My system, My Games, My life." warns of the dangers of
+castling too soon, because it can give a clear plan to the opponent, like in
+this case.} 13. Ne2 O-O-O 14. c4 {White's dark squares bishop is not so good,
+boxed in by pawns, he is like a pawn himself! This is the reason why White
+played Pc4, he is trying to activate the Bb2.} e5 $6 {Black misunderstand the
+needs of the position. White has the bishop pair, which today, as well as in
+1963, was considered an advantage, it can be an advantage ONLY if the position
+opens. If it is closed the knights are better. Pe5 helps White to open the
+position, and activate the Bb2. From what GM Finegold said, it seems someone
+told his dad Fischer wasn't good in the endgame, before the game, so Black
+following such advice is trying to exchange the pieces, and reach the endgame,
+in order to draw.} 15. dxe5 Nxe5 16. Rxd8+ Kxd8 17. Nf4 {Pay attention to the
+importance of this move. White needs to finish the development, but how to
+develop the Bf1, when that piece is protecting the Pg2 which is attacked by
+the Rg6? Nf4 is the answer!} Rg8 18. Be2 Kc8 19. Rd1 Rd8 20. Rxd8+ Kxd8 {
+Exchanging all the rooks wasn't a good idea if we evaluate the value of the
+pieces. For example now the Bb2 is very strong, controls lots of squares.
+Could someone imagine such bright future for a bishop when was developed at
+move 10?} 21. Qg3 Ng6 22. h4 {White doesn't play Nxg6, because he wants to
+keep the Ph7 alone and isolated.} Nxf4 23. Qxf4 Ne8 24. h5 (24. Bh5 {Notice
+how when the position opens, one needs to use the bishops to attack.} f6 {
+Now Black has a problem. The Ne8 needs to be there to protect the Pf6,
+otherwise White could play Bxf6, and the game is over. While White is free to
+create more problems, till the moment Black makes a decisive mistake.} 25. c5
+$16 {This move would damage Black's pawn structure, while getting rid of a
+doubled pawn.}) 24... Bc8 25. h6 $6 $11 {White wants to fix Black's pawns on
+squares he can attack, thanks to his bishop pair. But the problem is: White
+doesn't have enough tempi to make it happen!} Qd6 $6 $14 (25... f5 $1 {This
+move supports the Pe4, and blocks White. Now Bh5 doesn't have the same
+strength it had before.}) 26. Qg5+ Qe7 27. Qd5+ Qd6 $2 (27... Bd7 28. Qa8+ Bc8
+29. Kb1 (29. Qxa7 $4 Qc5 30. Qa8 (30. f3 $4 Qe3+ 31. Kd1 (31. Kb1 Qxe2 $19)
+31... Qg1+ 32. Kd2 e3+ 33. Kd3 Bf5+ 34. Kd4 Qf2 35. Ke5 Qxe2 36. Kxf5 Qxc2+ {
+game over...}) 30... Qxf2 $17) 29... Qe6 30. Bc1 Qe5 31. Qd5+ Qxd5 32. cxd5 $16
+) 28. Qg5+ (28. Be5 $5 Qxd5 29. cxd5 Bf5 30. Kd2 $16) 28... Qe7 29. Qg3 $6 $11
+Bf5 30. Qf4 Qe6 $6 $14 (30... Bg6 $5 {Maybe this was better, than the move
+played in the game.}) (30... Qc5 {This is another move worth considering.} 31.
+g4 (31. Qg5+ Kd7 32. g4 Be6 33. Qxc5 bxc5 34. Kd2 $11) 31... Bg6 $11) 31. g4
+Bg6 32. Qg5+ Qe7 33. Qd5+ Qd6 $2 $16 {For GM Finegold this is the losing move.
+GM Finegold rationale is based upon the evaluation of pawn structures and
+piece activity. Here GM Finegold says White needs to ask himself: What should
+he do in order to eliminate the doubled pawn on the C file?  Answering that
+question leads to an improved pawn structure.} (33... Qd7 {For GM Finegold
+this was the right move to play.} 34. Qa8+ Ke7 35. c5 $11 (35. Qxa7 $2 $17 Qd6
+36. Qa4 Qf4+ 37. Kd1 Qxf2 $17)) 34. Be5 Qxd5 35. cxd5 {One can notice how
+White's bishop pair became more powerful, and active with all these lines open.
+Compare it to Black's piece activity. Let's not mention the possible
+difference in King's activity. White king can travel all around the board...}
+f6 36. Bg3 Ke7 $2 37. Kd2 Nd6 38. Ke3 b5 {Black missed White next move out of
+the dogmatic idea that the Bishop pair is an advantage. I've noticed in many
+Fischer's games he gets rid of the bishop pair, if it helps him enter a
+position he considers a won endgame, also if such won endgame is not clear to
+many.} 39. Bxd6+ Kxd6 40. Kd4 {Now the endgame is quite instructive, and GM
+Finegold says it has been used in many books and magazines. It would be good
+for the amateur to play it from Fischer's side against an engine and see if he
+can win.} a6 41. c4 bxc4 42. Bxc4 a5 43. Ba2 {A waiting move which obliges
+Black to move!} f5 44. gxf5 Bxf5 45. Bb3 Bg6 46. Ba4 Bf5 47. Be8 Ke7 48. Ke5
+Bg4 49. Bg6 {Now the game is over. GM Finegold told another interesting story
+relative to this tournament. This is the famous tournament in which Fischer
+fell asleep against Bisguier.  Bisguier woke him up, and obviously lost the
+game. Many think Blitz is bad for chess, well the reason Fischer fell asleep
+was that he played blitz all night long!} Bd7 50. Bxh7 c6 51. dxc6 Bxc6 52.
+Bxe4 Bxe4 53. Kxe4 Kf6 54. f4 1-0
+

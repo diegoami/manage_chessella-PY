@@ -1,0 +1,56 @@
+[Event "London Chess Classic"]
+[Site "Olympia"]
+[Date "2017.12.11"]
+[Round "9"]
+[White "Karjakin, Sergey"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteElo "2760"]
+[BlackElo "2781"]
+[Annotator "DF"]
+[PlyCount "62"]
+[EventDate "2017.12.11"]
+[WhiteClock "0:15:27"]
+[BlackClock "0:32:10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 (6... Nbd7 {
+is of course also played...}) 7. dxc5 Bxc5 8. cxd5 Nxd5 9. Nxd5 exd5 10. a3 {
+Today will be one of those days: no massively special preparation, just a
+brief attempt to prove a static-based plus and if it doesn't work then agree a
+draw.} Nc6 11. Bd3 Bb6 12. O-O Qf6 (12... Bg4 {has been Nakamura's previous
+choice in this position.} 13. h3 Bh5 14. b4 a6 15. Be2 $1 {The move the
+engines want, with the visually appealing idea of Ra2-d2. It also ties down
+the Qd8 and prevents d4. It is not unreasonable to suspect that this may have
+been a wrinkle Karjakin had in mind. It has been played in a smattering of
+2500 or low 2600 games but no elite ones.} (15. Rc1 d4 16. g4 Bg6 17. e4 $13 {
+White eventually prevailed in a strategically extremely murky game in Svidler,
+P (2741)-Harikrishna,P (2758) Shenzhen 2017. At one point Black channeled his
+inner Petrosian and actively sacrificed an exchange on e6...}) (15. Rb1 d4 {
+was seen in the previous Nakamura game. This move initiates simplifications
+and equalises.} 16. b5 axb5 17. Rxb5 Bxf3 18. Qb1 Bc7 19. Bxh7+ Kh8 20. gxf3
+Bxf4 21. exf4 Ne7 22. Rh5 Ra5 23. Bf5+ {Â½-Â½ Inarkiev,E-Nakamura,H Moscow 2017
+}) 15... d4 $6 16. exd4 Bxf3 17. Bxf3 Qxd4 18. Be3 {Maximalism, trying to get
+the position with the weakened Black queenside structure without allowing ...
+Qxf4.} ({If we're honest about it, even} 18. Bxc6 {leads to a slight plus.}
+Qxf4 (18... bxc6 19. Qxd4 Bxd4 20. Rac1 Rac8 21. Rfd1 $16) 19. Bxb7 Rad8 20.
+Qg4 $14 {and Black may have something for the pawn but 1) it's not enough and
+2) a6 is also under attack.}) 18... Qxd1 19. Rfxd1 Bxe3 20. fxe3 Rfe8 (20...
+Rfd8 $14) 21. Kf2 Re7 (21... Kf8 $14) 22. Bxc6 bxc6 23. Rd6 $16 {Dreev,A
+-Chandler,M, Hastings 2000}) 13. b4 h6 (13... Bf5 {seems a bit more natural to
+me}) 14. b5 Nd4 {Notwithstanding the very last note, it is clear that this
+visually impressive move was preparation. I suspect from the reaction that
+White was not in preparation.} 15. h3 (15. Nxd4 Bxd4 16. Rc1 {Critical.} Bb2 $8
+(16... Bb6 17. Bb1 d4 18. Qd3 {and Black drops a pawn}) (16... Be5 17. Qa4 Bxf4
+18. Qxf4 Qxf4 19. exf4 $14 {and Black's position looks nasty to have to defend
+in an actual game}) 17. Rc7 Bxa3 18. Bb1 (18. Qa4 $5 Bd6 19. Bxd6 Qxd6 20. Rfc1
+$14 {Personally, I think White's compensation here is more than adequate, and
+so this ...Nd4 idea is not an equaliser. There is of course room for debate.})
+18... Bd6 19. Qc2 g6 20. Bxd6 Qxd6 21. Ba2 Bf5 22. Qc5 Qxc5 23. Rxc5 $11 {
+Flores,D-Onischuk,A Khanty-Mansiysk 2009}) 15... g5 (15... Be6 $11) 16. Nxd4 {
+Notwithstanding minor evaluation shifts later, the game was now essentially
+guaranteed to be drawn. The weakness of the Black pawn structure is mitigated
+by ...Bxd4 and then fully compensated for by the open g file.} gxf4 17. Qf3
+Bxd4 18. exd4 Be6 $11 19. Rfe1 Kh8 20. Re5 Rg8 (20... Rac8 21. Bf5 $14 {
+was the wrinkle White intended, but at 2700 level this is essentially a cheapo.
+}) 21. Rae1 Rg7 22. g4 Rag8 23. Kf1 Rg5 24. Bc2 Rc8 25. Qd3 Kg8 26. Bd1 Kg7 27.
+Bf3 b6 28. Kg2 Rh8 29. Qd2 Rc8 30. Qd3 Rh8 31. Qd2 Rc8 1/2-1/2

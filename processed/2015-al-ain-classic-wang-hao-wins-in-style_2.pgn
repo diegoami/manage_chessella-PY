@@ -1,0 +1,20 @@
+[Event "Al Ain Classic 2015"]
+[Site "Al Ain"]
+[Date "2015.12.29"]
+[Round "8.12"]
+[White "Mchedlishvili, Mikheil"]
+[Black "Malakhatko, Vadim"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2635"]
+[BlackElo "2531"]
+[Annotator "Mokal,Prathamesh"]
+[SetUp "1"]
+[FEN "5rk1/3r2q1/2p1ppp1/1p2PP2/1P1P2P1/3R3R/5Q1K/8 w - - 0 47"]
+[PlyCount "1"]
+[EventDate "2015.12.23"]
+[EventRounds "9"]
+[EventCountry "UAE"]
+47. g5 $1 {Irrespective of which pawn Black captures, a White pawn will end up
+on f6...} ({For example,} 47. g5 fxe5 48. f6 {and after the Queen moves White
+makes decisive inroads on the h-file.} Qf7 49. Rh6 $18) 1-0

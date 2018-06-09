@@ -1,0 +1,47 @@
+[Event "Fischer Memorial GM"]
+[Site "Crete"]
+[Date "2018.04.14"]
+[Round "6"]
+[White "Anagnostopoulos, K."]
+[Black "Taylor, Adam C"]
+[Result "1-0"]
+[ECO "A39"]
+[WhiteElo "2329"]
+[BlackElo "2318"]
+[Annotator "DF"]
+[SetUp "1"]
+[FEN "3r2k1/p2q1p1p/6p1/4Q3/5PP1/1b3B2/7P/6RK b - - 0 34"]
+[PlyCount "20"]
+[EventDate "2018.??.??"]
+
+{[#]} 34... Qd3 (34... Bd5 $5 {seems an easy enough way to reach an endgame
+with the standard '3+1 v 3.' In practice, this is very often winning,
+especially since White has no way to prevent Black getting behind the pawn,
+apart from going right in front of it himself. In practice, I would do this
+first and think about the ending later.} 35. Bxd5 Qxd5+ 36. Qxd5 Rxd5 37. Ra1
+$1 a5 38. Kg2 Kf8 39. Kf3 Ke7 40. Ke4 Kd6 41. g5 $1 {White has to fix the
+pawns this way, or else he will lose trivially to ...f5+ followed by a king
+walk. As it is, his position is extremely close to being indefensible following
+} Rf5 $1 $17) (34... Qd2 $1 {is the high-depth Stockfish recommendation. The
+plan is, in vague terms: support ...a5-a4, then return the queen to f8, from
+where it can co-ordinate operations easily and threaten ...Qg7 at useful
+moments.}) 35. Kg2 Qd2+ 36. Kg3 {White tries for practical chances based on
+king walks up the chain of dark squares.} a5 37. Rg2 Qb4 $1 {Black has begun
+the plan alluded to earlier.} 38. h4 $6 (38. Re2 {is objectively better,
+followed by Qe7 at some moment and trying to save an endgame, but this is hard
+to play.}) 38... a4 39. h5 Qd6 (39... a3 $1 {was consistent, not getting
+unncessarily worried by} 40. h6 (40. hxg6 fxg6 {is also solid}) 40... Qf8 $1
+41. Qc3 a2 $19 {when White has a mate motif set up but Black's pawn is only a
+single square from promotion and ...Rd3 overloading ideas are constantly in
+the pipeline.}) 40. Qa5 Qd3 $2 {Giving White genuine practical chances.} (40...
+h6 $1 41. hxg6 fxg6 {is basically winning, because White doesn't have a
+constructive way to avoid ...g5. There is a little bit of mess but not more.
+For instance,} 42. Kh3 a3 43. f5 Bc4 $1 $17) 41. h6 $1 Bd1 $2 {A variety of
+moves were okay, starting with ...Qd4 or ...Qd6, or even ...f6.} 42. Qe5 $1 $11
+{White is tactically alert. The best Black can do now is admit to the
+perpetual check.} Qd4 $4 {This would bring the position back to close to
+winning, if not for a very cute motif.} (42... Qxf3+ 43. Kh4 Kf8 44. Qh8+ Ke7
+45. Qe5+ Kd7 46. Qb5+ $1 $11) 43. Rd2 $3 {A very nice, if basic, tactic. Black
+played one more move with an utterly despondent air, and then left the room,
+the better to drink (with the author of these lines) and forget about this
+painful game.} Qg1+ 44. Kh4 1-0

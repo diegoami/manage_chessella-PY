@@ -1,0 +1,59 @@
+[Event "World Chess Candidates 2018"]
+[Site "?"]
+[Date "2018.03.18"]
+[Round "7.4"]
+[White "Aronian, Levon"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[ECO "D39"]
+[WhiteElo "2794"]
+[BlackElo "2784"]
+[Annotator "AlexYermo"]
+[PlyCount "76"]
+[EventDate "2018.??.??"]
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 {An interesting ploy from Caruana. He
+goes for the Vienna Variation, the line championed by Aronian himself.} 5. e4
+Bb4 6. Bg5 h6 ({Karjakin-Aronian from earlier in this tournament, and countless
+other games, saw} 6... c5) 7. Bxf6 Qxf6 {This line didn't use to be so hot
+until lately, when efforts of Nisipeanu, Pelletier and Vallejo Pons finally
+gained recognition.} 8. Bxc4 ({The almost forgotten idea} 8. Qa4+ { makes some
+sense here. At least the black c-pawn won't be able to hit the white centre
+right away. After} Nc6 9. Bxc4 O-O 10. O-O Bd7 11. Qb3 Ba5 12. Rad1 Bb6 13. e5
+Qe7 14. Qc2 Nb4 15. Qe2 Bc6 16. a3 {White is hoping to translate his spatial
+gains into something meaningful.}) 8... c5 $1 9. O-O { White states his
+intention to play for quick development.} ({Alternatively,} 9. e5 Qd8 10. a3
+Bxc3+ 11. bxc3 cxd4 12. cxd4 Nc6 13. O-O O-O 14. Qd3 b6 {would lead to a
+standard pawn structure Kramnik doesn't mind defending as Black.}) 9... cxd4
+10. e5 Qd8 11. Ne4 O-O 12. Qe2 Be7 (12... Bd7) 13. Rad1 Qc7 14. Bd3 ( {A
+straight-forward pawn sac} 14. Nd6 Bxd6 15. exd6 Qxd6 16. Rxd4 Qe7 17. Rfd1 Nc6
+18. Rd6 {may succeed but only in blitz.}) 14... Nd7 {This move underlines a
+general problem with White's concept: his e5-pawn is insufficiently protected
+due to the absence of his dark-squared bishop. Granted, Black is behind in
+development, but his kingside defences are quite solid.} 15. Rc1 Qa5 {[#]} 16.
+g4 $6 {It's hard to blame Levon for trying to turn his luck around, but such
+moves tend to backfire on you more often than not.} (16. Ng3 Nc5 17. Bb1 d3
+{forces White to part with the bishop, effectively ending his attacking
+chances.}) 16... Nxe5 17. Nxe5 Qxe5 18. f4 Qa5 19. g5 Qd8 $6 {Caruana shows his
+willingness to defend tough.} ({There's something to be said in favour of the
+counterattacking plan} 19... Bd7 20. gxh6 Rfc8 ({Fabiano must have seen} 20...
+g6 21. Nc5 $5 Bxc5 22. Qe5 f6 23. Qxc5 Qxc5 24. Rxc5 {and found this endgame
+troublesome.}) 21. hxg7 Rxc1 22. Rxc1 Bc6 {but leaving his king without shelter
+is unnerving.}) 20. h4 Bd7 21. gxh6 g6 22. h5 Kh8 23. Kh2 { Aronian just
+couldn't stop. Clearly, he was thinking attack, when in reality White should be
+looking to escape with a draw.} ({The obvious} 23. hxg6 fxg6 24. Nc5 {offers
+White compensation, albeit Black can survive:} Rc8 {etc.}) 23... Bc6 24. Rf3
+Bd6 $1 {The engines may not rate this move as the strongest, but from a human
+point of view it's more than good enough. Caruana's play is very consistent.}
+25. Qf2 Bc7 26. Kh3 Qe7 (26... gxh5 27. Rg3 f5 {Again, the engines try to lead
+us astray.}) 27. Ng5 e5 28. Rxc6 $5 {Probably, the best chance, although White
+cannot count on more than a draw in all lines.} bxc6 29. Nxf7+ Rxf7 30. hxg6
+Rf6 $2 {Fabiano's only mistake in the overall very solidly played game.} ({He
+must have rejected} 30... Rxf4 {on account of} 31. Rxf4 exf4 32. Qxd4+ Qe5 33.
+g7+ Kg8 34. Bc4+ Kh7 35. Qd3+ Kxh6 36. g8=Q Rxg8 37. Bxg8 { and indeed, it
+seemed White could survive, but only until Black finds} Qh8 $1 38. Bb3 Kg5+ 39.
+Kg2 Qxb2+ 40. Bc2 Qf6 {with decent winning chances.}) 31. g7+ $2 {In time
+trouble Levon misses his chance.} (31. Qh4 $3 Qe6+ (31... e4 32. Bxe4) 32. f5
+Qe7 33. Be4 {would lead to a crazy position. Black is up a whole rook, but,
+positionally speaking, White is doing just fine.}) 31... Kg8 32. Bc4+ $2
+({Again,} 32. Qh4 $1) 32... Kh7 33. Qh4 e4 34. Rg3 Bxf4 35. g8=Q+ Rxg8 36.
+Bxg8+ Kh8 37. Rg7 Qf8 38. Rh7+ Kxg8 0-1

@@ -1,0 +1,69 @@
+[Event "84th BRA-ch 2017"]
+[Site "Rio de Janeiro"]
+[Date "2018.02.14"]
+[Round "4.3"]
+[White "Mekhitarian, Krikor Sevag"]
+[Black "Fier, Alexandr"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2529"]
+[BlackElo "2557"]
+[Annotator "Albert Silver"]
+[PlyCount "211"]
+[EventDate "2018.??.??"]
+[EventType "k.o."]
+[EventCountry "BRA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+1. Nf3 Nf6 2. c4 c5 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. Re1 d6 8. e4 a6
+9. d4 cxd4 10. Nxd4 Qc7 11. Be3 Nbd7 12. Rc1 Ne5 {Play has resulted in a
+classic hedgehog.} (12... Rc8 13. f4 Qb8 14. g4 h5 15. g5 Ng4 16. g6 Rxc4 17.
+gxf7+ Kxf7 18. Bf1 Nxe3 19. Rxe3 Rxd4 20. Qxd4 b5 21. Rg3 Bf6 22. e5 Bd8 23.
+Ne4 Bb6 {0-1 (23) Ding,L (2774)-Carlsen, M (2837) Saint Louis 2017}) 13. Bf4
+$146 ({Naiditsch once played the hyper-aggressive} 13. Nd5 exd5 14. cxd5 Qd7
+15. Nf5 O-O 16. f4 Ng6 17. h4 Nxd5 18. Bd4 Nf6 19. h5 Rfe8 20. hxg6 hxg6 21.
+Nxe7+ Rxe7 22. Bxf6 gxf6 {1/2-1/2 (53) Naiditsch,A (2700)-Meier,G (2644)
+Dortmund 2012}) 13... Ng6 14. Bd2 Ne5 {White is slightly better.} 15. Bf1 Rc8
+16. b3 O-O 17. h3 Qb8 18. Qe2 Rfe8 19. Bg2 Ned7 20. g4 g6 21. Bh6 e5 22. Nc2
+Bf8 23. Bd2 Nc5 24. Qf3 Nfd7 25. Nd5 Ne6 26. Be3 Bg7 27. Qd1 b5 28. cxb5 axb5
+29. Bf1 Ndc5 30. f3 {While nothing is decided, the imbalanced position is
+exactly what White wants in order to be able to leave the chair with a full
+point on the board.} (30. Bxc5 {keeps more tension.} Rxc5 31. b4 Rxc2 32. Rxc2
+Nd4 33. Rc3) 30... Bxd5 31. Qxd5 Nd4 $1 {Krikor's fans watching with the help
+of an engine probably had minor heart attacks here. Not only is this move very
+strong, but Black might even have taken the advantage.} 32. Nxd4 exd4 33. Bxd4
+Bxd4+ 34. Qxd4 Ne6 $2 {Missing his chance!} ({Black missed a prime chance to
+really hit back with} 34... d5 $5 {not only would it attack White's stronghold
+in the center, but it threatens alll manner of nastiness with Qg3+. In fact
+White would lose a rook by taking d5 here with} 35. exd5 Qg3+ 36. Bg2 Rxe1+)
+35. Qf2 Nf4 36. Red1 g5 37. Qd4 Ne6 38. Qe3 Nf4 39. Kh1 Rxc1 40. Rxc1 d5 41.
+Qc5 $36 {White smells blood} Qe5 42. exd5 $1 Ne2 {[#]} 43. d6 $1 {This nice
+little tactic will yield a strong endgame for White.} Nxc1 44. d7 ({And not}
+44. Qxc1 Rd8 $17) 44... Qxc5 45. dxe8=Q+ Kg7 46. Qxb5 Qe3 {Avoiding the
+exchange of queens while keeping an eye on the g5 pawn and the knight on c1.}
+47. Qd5 {[#]} Nxa2 48. Bc4 Qf4 49. Qe4 Qf6 50. Kg2 h6 51. Qf5 ({Better is} 51.
+f4 $16 {with a significant edge for White.}) 51... Qxf5 $14 52. gxf5 {White has
+finally gotten his exchanges.} Kf6 53. Kg3 Kxf5 54. Bxf7 Nb4 55. Bg8 Kg6 56.
+Bc4 Kf5 57. Bb5 Nd5 58. Bc6 Nb4 59. Be4+ Ke5 60. Kg4 Kf6 61. Kh5 Kg7 62. h4 Kf6
+63. Kg4 Na6 64. Bd3 Nb4 65. Be4 Na6 $1 66. f4 gxf4 $2 (66... gxh4 $16 { is a
+better defense.} 67. Bb1 (67. Kxh4 Nc5 $16) 67... Nc7) 67. Kxf4 {As promising
+as it might seem, this endgame is a tablebase draw. One of the key aspects is
+the matter of the bishop and h-pawn. If the b-pawn is removed, White cannot win
+even if black lost all his material since the bishop is the wrong color and
+does not control the h8-square.} Nb4 68. Bf3 Nc2 $2 {This is a tremendous
+blunder that gives White a winning position.} 69. Bd1 Nb4 70. Ke4 Na6 71. Kd5
+Nb4+ 72. Kc4 Nc6 73. Kc5 Ne5 74. Bc2 Nf3 75. h5 Ke5 76. b4 Nd4 77. Bg6 $2 {This
+is the blunder that now allows Black to save the game.} ({The only move that
+still won for White is} 77. Bd3 {which wins still according to 7-piece
+tablebases. However, as to explaining it over other moves, that would take
+considerable analysis.}) 77... Ne6+ 78. Kc4 Kd6 79. Bf7 Nf4 80. b5 Ne2 81. Bd5
+Nf4 82. Bf3 Kc7 83. Kc5 Ne6+ 84. Kd5 Ng7 {White was still in shock as it dawned
+on him the win had slipped away, and the next 20 odd moves were a reflection of
+this rather than renewed attempts at a swindle. Mekhitarian was clearly upset
+at the board, and playing more to calm his nerves than anything. Fier was
+playing all his moves almost instantly.} 85. Kc5 Ne6+ 86. Kd5 Ng7 $1 87. Kc4
+Kb6 88. Bg4 Ne8 89. Kb4 Nf6 90. Bf3 Ne8 91. Bd5 Nf6 92. Bf7 Ne4 93. Bg6 Ng3 94.
+Kc4 Ne2 95. Be8 Nf4 96. Bg6 Ne2 97. Bf7 Nf4 98. Be8 Ne2 99. Bd7 Ng3 100. Bg4
+Ne4 101. Be2 Nf6 102. Bf3 Ne8 103. Be2 Nf6 104. Kd4 Nxh5 105. Bxh5 Kxb5 106.
+Ke4 1/2-1/2

@@ -1,0 +1,33 @@
+[Event "68th Superfinal RUS-ch Men"]
+[Site "Chita"]
+[Date "2015.08.13"]
+[Round "5"]
+[White "Bukavshin, Ivan"]
+[Black "Khairullin, Ildar"]
+[Result "1-0"]
+[ECO "E18"]
+[WhiteElo "2655"]
+[BlackElo "2662"]
+[Annotator "Sagar Shah"]
+[SetUp "1"]
+[FEN "8/pR3p1k/5npp/P2p4/6P1/1Q2PN1P/r3qPK1/8 w - - 0 56"]
+[PlyCount "7"]
+[EventDate "2015.??.??"]
+[EventCountry "RUS"]
+56. Nd2 $3 {A brilliant move which interferes the action of the queen and the
+rook on the seventh rank.} Kg8 (56... Qxd2 57. Rxf7+ Kg8 58. Rxf6 $18) (56...
+Kg7 57. Qxa2 $18) 57. Qxa2 $6 {Bukavshin must have thought that the game is
+over but here Black still had chances to resist.} (57. Rb8+ {was the computer
+way to win, quite difficult for humans to see when a rook is hanging on a2.}
+Kg7 (57... Kh7 58. Qb7 $1 Kg7 59. Qb4 $1 {transposes.}) 58. Qb4 {and there is
+simply no way to prevent the mate on f8.} Nd7 59. Qc3+ f6 (59... Nf6 60. Qc8
+$18) 60. Qc7 $18) 57... Ne4 $2 (57... Nxg4 $3 {would have made White's task
+extremely difficult to convert the position.} 58. Rxf7 $1 {The only way to play
+for a win.} (58. hxg4 Qxg4+ 59. Kf1 Qd1+ 60. Kg2 Qg4+ 61. Kh1 Qh3+ 62. Kg1 Qg4+
+$11 {White cannot escape the perpetual checks!}) 58... Nxe3+ $1 (58... Kxf7 59.
+Qxd5+ Ke7 60. hxg4 Qxg4+ 61. Kh2 Qh4+ 62. Kg1 Qg4+ 63. Qg2 Qd1+ 64. Nf1 $18
+{and White is a piece up.}) 59. Kh1 $1 (59. Kg1 Kxf7 60. fxe3 Qxe3+ 61. Kg2
+Qe2+ $11) (59. Kg3 Nf1+ 60. Kg2 Ne3+ {White has to find another way to win. })
+(59. Kh2 Kxf7 $19) 59... Kxf7 60. fxe3 Ke6 61. e4 $16 {White has excellent
+chances to win this position.}) 58. Rxf7 $1 Nxd2 (58... Kxf7 59. Qxd5+ $18) 59.
+Qxd5 1-0
