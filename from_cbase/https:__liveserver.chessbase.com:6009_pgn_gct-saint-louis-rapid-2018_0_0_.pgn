@@ -1,0 +1,1849 @@
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.11"]
+[Round "1"]
+[White "So, Wesley"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "0-1"]
+[ECO "C47"]
+[WhiteElo "2852"]
+[BlackElo "2754"]
+[Annotator "TA"]
+[PlyCount "60"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,60,7,4,-16,-19,-14,-6,-15,-14,-83,-79,-101,-118,-109,-60,-58,-47,-51,
+-57,-58,-41,-33,-35,-37,0,0,0,-220,-220,-330,-331,-334,-331,-314,-300,-458,
+-454,-439,-460,-376,-447,-449,-447,-422,-439]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6
+4. Nc3 Nxe4 5. Nxe4 d5 6. Bd3 dxe4 7. Bxe4 Bd6 8. O-O O-O 9. Re1 {C55: Two
+Knights: 4 d3, 4 d4 exd4 5 e5 and Max Lange Attack} Bg4 {LiveBook: 6 Games} (
+9... Re8 10. d3 Bg4 11. h3 Bh5 12. c3 Bg6 13. Be3 Qd7 14. Nh4 f5 15. Bxc6 Qxc6
+16. Nxg6 hxg6 {1/2-1/2 (57) Ivanchuk,V (2739)-Karjakin,S (2723) Moscow 2009})
+10. h3 Bh5 $1 11. g4 {The position is equal.} Bg6 12. d3 $146 ({Predecessor:} 
+12. Bxc6 bxc6 13. Nxe5 Qh4 14. Kg2 Bxe5 15. Rxe5 f5 16. f3 fxg4 17. hxg4 {
+1/2-1/2 (28) Llanes Hurtado,M (2285)-Gonzalez Diaz,D (2250) Santiago 1995})
+12... f5 13. gxf5 (13. Bxc6 $11 bxc6 14. Bg5 (14. Nxe5 Qh4 $15)) 13... Bxf5 $17
+14. Bxf5 Rxf5 15. Be3 Bc5 16. Bxc5 Qd5 17. Nd2 {[#] And now Ne4 would win.}
+Qxc5 18. Ne4 Qe7 19. c3 Raf8 20. Qb3+ Kh8 {...Qh4 is the strong threat.} 21.
+Qxb7 Nd8 $36 {[%cal Bc6d8,Bd8e6,Be6g5][%mdl 2080] Black has some pressure.} 22.
+Qb4 $2 {[#]} (22. Qxa7 $11 Ne6 23. Re3) 22... Qh4 $1 $19 23. Ng3 (23. Re3 {
+was the only chance.} Ne6 24. Rg3) 23... Rf4 24. Re4 {Black must now prevent
+Qxf8+!} Ne6 25. Rxf4 exf4 26. Re1 (26. Kg2 $142 Qg5 27. h4 Qxh4 28. Rh1) 26...
+a5 27. Qe4 Ng5 28. Qe7 {[%cal Re7f8]} Kg8 29. Re4 Nxh3+ 30. Kg2 Ng5 {Precision:
+White = 54%, Black = 79%.} 0-1
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.11"]
+[Round "1"]
+[White "Dominguez Perez, Leinier"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "2826"]
+[BlackElo "2798"]
+[Annotator "TA"]
+[PlyCount "71"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,71,56,47,56,54,51,43,43,46,46,46,46,47,50,43,43,43,43,43,43,44,44,43,
+46,47,50,43,45,40,40,40,41,37,41,30,89,91,106,98,112,72,89,52,99,102,103,60,82,
+75,58,0,72,0,74,0]} 1. Nf3 c5 2. c4 Nc6 3. Nc3 e5 {[%cal Be7e5,Be5e4][%mdl 32]}
+4. e3 Nf6 5. d4 e4 6. d5 {A34: Symmetrical English: 2 Nc3, lines with ...d5}
+exf3 7. dxc6 fxg2 8. cxd7+ Bxd7 9. Bxg2 g6 10. b3 {LiveBook: 6 Games} Bg7 11.
+Qd6 Qb6 12. Qe5+ Kf8 13. Bb2 {[#] Black must now prevent Nd5.} Nh5 $146 14. Qd5
+Bc6 15. Qd6+ Kg8 16. Bxc6 {aiming for Nd5.} Rd8 $1 {[%cal Rd8d6]} 17. Qe7 bxc6
+18. Rd1 Rxd1+ 19. Kxd1 Bf6 $1 {[%cal Rf6e7]} 20. Qe4 Kg7 21. Kc2 Qc7 22. h3 Rd8
+23. Qf3 Kg8 24. Rd1 Rxd1 25. Nxd1 Be7 26. Bc3 Ng7 (26... f5 $11 {keeps the
+balance.}) 27. Nb2 $16 Nf5 28. Nd3 f6 29. Nf4 Kf7 30. Qg4 Bd6 31. Nd3 Be7 32.
+Kd2 Qd6 33. Ke2 Qe6 34. Kd2 Qd6 $1 35. Ke2 Qe6 $1 36. Kd2 {Precision: White =
+55%, Black = 75%.} ({White should try} 36. Bb2 $16) 1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.11"]
+[Round "1"]
+[White "Karjakin, Sergey"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "2793"]
+[BlackElo "2806"]
+[Annotator "TA"]
+[PlyCount "101"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,101,21,10,39,32,36,30,41,30,30,30,20,23,30,30,29,25,21,0,0,0,0,0,0,0,
+0,0,11,3,4,3,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,0,0,0,0,0,-8]} 1. Nf3 Nf6 2. g3 d5 3.
+Bg2 Bf5 4. c4 c6 5. O-O e6 6. cxd5 cxd5 7. Qb3 Qb6 8. Qxb6 axb6 9. d3 Nc6 10.
+Nc3 Bc5 {A11: Reti-Eröffnung} 11. Bd2 {LiveBook: 8 Partien} (11. Nh4 Bg6 12.
+Nxg6 hxg6 13. a3 Kd7 14. Bd2 Nd4 15. Rad1 Nb3 16. Bf4 Bd4 17. Nb5 Rhc8 18. Nxd4
+Nxd4 {1/2-1/2 (55) Vachier Lagrave,M (2789)-Aronian,L (2764) Leuven 2018})
+11... Ke7 12. Rfc1 Rhc8 {Weiß steht etwas besser.} 13. Nb5 Bg4 14. a3 Ne8 15.
+h3 $146 ({Vorgänger:} 15. e3 f6 16. Ne1 Nc7 17. Nxc7 Rxc7 18. Rc3 {1/2-1/2 (30)
+Maedler,J-Zinn,L Magdeburg 1964}) 15... Bxf3 $1 16. Bxf3 Nd6 17. Nxd6 Bxd6 18.
+e3 b5 19. d4 {Die Stellung ist ausgeglichen.} b4 20. axb4 Rxa1 21. Rxa1 {
+zielt auf b5 ab.} Bxb4 22. Bc3 Bxc3 23. bxc3 $11 {[%mdl 4096] Endspiel KTL-KTS}
+b5 24. Rb1 Rb8 25. Be2 b4 26. cxb4 Rxb4 27. Rxb4 (27. Ra1 {is interesting.} g6
+28. g4 g5 29. Ra6 Nb8 30. Ra7+) 27... Nxb4 {KL-KS} 28. Kf1 Kd6 29. Ke1 e5 30.
+dxe5+ Kxe5 31. h4 d4 32. exd4+ Kxd4 33. Kf1 Nc6 34. Bf3 Ne5 35. Be2 Kc3 36. Ba6
+Kd2 37. Bb5 f6 38. Ba6 h6 39. Bb5 g6 40. Be8 g5 $1 41. hxg5 hxg5 42. f4 gxf4
+43. gxf4 Nd3 44. f5 Ke3 45. Bd7 Nc5 46. Bc8 Ne4 47. Kg2 Kf4 48. Be6 Ng3 49. Kf2
+Nxf5 50. Bxf5 Kxf5 51. Kf3 {Precision: Weiß = 78%, Schwarz = 84%.} 1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.11"]
+[Round "1"]
+[White "Anand, Viswanathan"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "2758"]
+[BlackElo "2824"]
+[Annotator "TA"]
+[PlyCount "69"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,69,9,9,20,-15,0,0,5,0,2,0,96,95,95,87,74,85,106,118,142,149,439,404,
+411,426,420,429,430,426,538,554,554,549,544,545,545,293,537,533,532,528,524,
+492,558,541,522,504,521,516,511,501]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5
+5. O-O Nd4 6. Nxd4 Bxd4 7. c3 {C65: Ruy Lopez: Berlin Defence (3...Nf6),
+unusual lines and 4 0-0 Bc5} (7. Ba4 O-O 8. Nd2 d5 9. exd5 Qxd5 10. Bb3 Qc6 11.
+Qf3 Bd7 12. h3 Rae8 13. Re1 b5 14. Qxc6 Bxc6 {1/2-1/2 (78) Caruana,F (2816)
+-Karjakin,S (2782) Paris 2018}) (7. Nd2 a6 8. Ba4 b5 9. Bb3 d6 10. a4 Bb6 11.
+axb5 Bg4 12. Nf3 axb5 13. Rxa8 Qxa8 14. h3 Be6 15. Bxe6 fxe6 {1/2-1/2 (28)
+Anand,V (2762)-Nakamura,H (2790) Moscow 2016}) 7... Bb6 8. Na3 c6 9. Ba4 d6 10.
+Nc4 Bc7 11. Bb3 {LiveBook: 11 Games} h6 12. Ne3 d5 13. exd5 cxd5 14. d4 e4 $1
+15. f3 $146 Qd6 (15... Be6 $11) 16. g3 $16 O-O 17. fxe4 dxe4 18. Nf5 Bxf5 19.
+Rxf5 Rae8 20. Be3 h5 $2 {[%mdl 8192]} (20... Qa6 $16 {keeps fighting.} 21. Qf1
+Qxf1+ 22. Raxf1 Kh7) 21. Bf4 $18 Qd7 {[#]} 22. Rxf6 $1 {[%mdl 512]} gxf6 23.
+Bxc7 Qxc7 24. Qxh5 {Threatens to win with Rf1.} e3 25. Qg6+ Kh8 26. Qxf6+ Kg8
+27. Qg6+ Kh8 28. Qh6+ Kg8 29. Bc2 {[%csl Gc2][%cal Rh6h7] [#] White is clearly
+winning.} f5 30. Bb3+ Rf7 31. Re1 Qe7 32. Qg6+ Kf8 33. Qxf7+ Qxf7 34. Bxf7 Kxf7
+35. Kg2 {Precision: White = 81%, Black = 47%.} 1-0
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.11"]
+[Round "1"]
+[White "Grischuk, Alexander"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[ECO "A06"]
+[WhiteElo "2751"]
+[BlackElo "2738"]
+[Annotator "TA"]
+[PlyCount "62"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,62,39,26,28,9,23,28,39,23,37,36,64,62,54,52,79,35,25,22,59,0,0,0,0,0,
+0,-87,0,0,0,-71,-81,-88,-51,-117,-101,-106,-121,-116,-132,-89,-103,-282,-354,
+-620,-633,-922,-910,-29995,-5685,-4612,-3187,-29997,-29998]} 1. Nf3 d5 2. b3 c5
+3. e3 Nc6 4. Bb2 f6 (4... Nf6 5. Bb5 e6 6. Bxc6+ bxc6 7. d3 Bd6 8. Nbd2 O-O 9.
+e4 Nd7 10. e5 Be7 11. O-O Rb8 12. Re1 Qc7 13. c4 Rd8 {1-0 (38) Nakamura,H 
+(2777)-Hou,Y (2658) chess.com INT 2018}) 5. d4 cxd4 6. exd4 {LiveBook: 3
+Partien. A06: Zukertort-Eröffnung} Bg4 7. Be2 Qd7 8. O-O {Weiß hat minimalen
+Vorteil.} e6 9. Re1 $146 ({Vorgänger:} 9. c4 Bd6 10. Nc3 Nge7 11. Re1 O-O 12.
+Qd2 Bxf3 13. Bxf3 dxc4 14. bxc4 Nxd4 {0-1 (54) Radnaev,A (2040)-Baglaev,E 
+(2090) Ulan Ude 2013}) 9... O-O-O 10. Nbd2 Bd6 11. a3 Nge7 12. c4 Bf4 13. c5 h5
+$1 14. b4 a6 $1 15. Qa4 (15. b5 $14 axb5 16. Bxb5) 15... Qc7 $11 16. b5 axb5 $1
+17. Bxb5 g5 18. Bc3 (18. g3 $11 {bleibt in der Remisbreite.} Bxd2 19. Nxd2)
+18... Bf5 (18... h4 $1 $17) 19. Nf1 h4 {[%cal Bh5h4,Bh4g3,Bg3g2][%mdl 32]} 20.
+Qa8+ (20. Ne3 $11 Bxe3 21. fxe3 (21. Rxe3 g4 $11)) 20... Kd7 $1 $17 21. Qa4 {
+Droht La5.} Ra8 $36 {[%mdl 2048] Schwarz hat Druck.} 22. Qd1 ({Lieber} 22. Qb3
+$15) 22... g4 23. N3d2 g3 24. fxg3 hxg3 25. h3 Rag8 26. Ne3 $2 {[#]} (26. Nf3
+$17) 26... Bxh3 $1 $19 {[%mdl 512]} 27. gxh3 $2 {[#]} (27. Qf3 Bxe3+ 28. Qxe3)
+27... g2 $1 ({Und nicht} 27... Bxe3+ 28. Rxe3 Nf5 29. Qf3 $15) 28. Ng4 {
+Und De2 würde nun gewinnen.} Rxh3 29. Qe2 Rxg4 (29... Bh2+ $142 30. Kxg2 Qg3+
+31. Kh1 Bg1+ 32. Nh2 Rxh2+ 33. Qxh2 Qxh2#) 30. Qxe6+ Kd8 {( -> ...Le3+!)} 31.
+Qxg4 Be3+ {Precision: Weiß = 31%, Schwarz = 69%.} 0-1
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.11"]
+[Round "2"]
+[White "Nakamura, Hikaru"]
+[Black "So, Wesley"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "2812"]
+[BlackElo "2794"]
+[Annotator "TA"]
+[PlyCount "117"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 26,117,0,0,36,-108,28,28,45,29,37,22,35,16,50,50,45,14,21,0,0,0,15,2,58,
+62,54,54,63,57,68,31,43,47,35,33,32,36,44,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-34,
+8,8,10,18,66,68,64,53,63,60,60,29,61,48,4,0,60,53,54,58,62,74,74,75,164,124,
+124,131,29976,29977,12795,9942,29973,29974,29992,29993,29993,29994]} 1. e4 e5
+2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8. exd5
+cxd5 9. O-O O-O 10. Bg5 c6 11. Na4 h6 12. Bh4 Be6 13. c3 {C47: Schottisches
+Vierspringerspiel} Bd6 (13... Be7 14. Re1 Re8 15. Bc2 Nd7 16. Bxe7 Qxe7 17. f4
+Qf6 18. Qd4 Qxd4+ 19. cxd4 g6 20. Rac1 Rab8 21. a3 Nb6 22. Nxb6 axb6 23. Ba4
+Bd7 24. Re5 Ra8 25. Bb3 f6 26. Ree1 Kf7 27. Kf2 g5 {1/2-1/2 (27) Polgar,J 
+(2701)-Giri,A (2722) Hoogeveen 2011}) 14. Bc2 {LiveBook: 3 Partien} Re8 15. Qd3
+{[#]} ({Viel schlechter ist} 15. Bxf6 Qxf6 16. Re1 Rab8 $17) (15. Qd4 $14 {
+behält die Oberhand.}) 15... g5 $146 ({Lieber} 15... Bxh2+ $1 $17 {[%mdl 512]}
+16. Kh1 (16. Kxh2 Ng4+ 17. Kg3 g5 $17) 16... Bb8) ({Vorgänger:} 15... Bxh2+ 16.
+Kxh2 Ng4+ 17. Kg3 g5 18. Qh7+ Kf8 19. Bf5 gxh4+ {1-0 (34) Diril,D (1754)-Komut,
+B (2008) Konya 2012}) 16. Bg3 $11 Bxg3 17. hxg3 Qd6 18. Qd4 Bg4 19. Rfe1 Be2
+20. Nc5 Re7 21. Nb3 Rae8 22. Qc5 Qxc5 23. Nxc5 Nd7 24. Nb3 Nb6 (24... Bc4 $11
+25. Rxe7 Rxe7) 25. Nd4 $1 $14 c5 $1 {[%cal Rc5d4]} 26. Nf5 Re6 27. b4 cxb4 28.
+cxb4 Bh5 29. Nxh6+ Kf8 30. Rxe6 fxe6 31. g4 Bf7 $1 32. Bd3 Rc8 33. Nxf7 Kxf7
+$11 {[%mdl 4096] Endspiel KTL-KTS} 34. a4 Rc3 35. Be2 Nc4 36. b5 Na5 37. g3 e5
+38. Kg2 {Weiss will Th1 spielen.} Rc2 39. Bd3 Rd2 40. Bf1 Rc2 {[%mdl 1024]
+Schwarz hat Kompensation.} 41. Rd1 Ke6 42. Bd3 Rb2 43. Bf5+ Kd6 44. Be4 $1 d4
+45. Rc1 Re2 46. Bd3 Ra2 47. Rc8 Rxa4 48. f4 Ra2+ (48... gxf4 $11 49. gxf4 Ra3
+50. fxe5+ Kxe5) 49. Kf3 $1 $14 Nb3 $1 {[%cal Rb3d2]} 50. Rc6+ Ke7 {Und ...Sd2+
+würde nun gewinnen.} 51. Ke4 exf4 52. gxf4 gxf4 (52... Nd2+ $16 {war einen
+Versuch wert.} 53. Kxd4 gxf4) 53. Kxf4 Rf2+ {[#]} 54. Ke5 $1 {Und weiter mit
+Tc7+ wäre nett.} Rg2 $2 {[%mdl 8192]} (54... Rf3 $16) 55. Rc7+ Kd8 56. Rxa7
+Rxg4 57. b6 {Weiß setzt Matt.} Rg5+ 58. Kd6 {[%cal Ra7a8]} Kc8 59. Be4 {
+Precision: Weiß = 65%, Schwarz = 53%.} 1-0
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.11"]
+[Round "2"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[ECO "C67"]
+[WhiteElo "2796"]
+[BlackElo "2771"]
+[Annotator "TA"]
+[PlyCount "113"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,113,15,7,20,20,19,16,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,26,26,33,14,13,12,
+12,12,20,16,24,14,20,12,12,0,20,21,80,81,79,67,72,73,89,60,60,60,90,90,90,90,
+88,88,90,90,90,90,90,90,128,128,146,146,137,137,143,143,143,142,325,339,334,
+295,417,290,281,280,469,466,2094,1908,4602,1844,29979,29980,29979,29980,29979,
+29980]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7.
+dxe5 Nf5 8. Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 b6 {C67: Ruy Lopez: Berlin Defence: 4
+0-0 Nxe4} 11. Rd1 Bb4 12. Ne2 Bb7 {LiveBook: 4 Games. The position is equal.}
+13. Ned4 Nxd4 $1 14. Nxd4 Bc5 15. Nf5 Rg8 {[#]} 16. Be3 $146 ({Predecessor:} 
+16. g4 h5 17. Be3 {1/2-1/2 (43) Anand,V (2770)-Topalov,V (2761) Saint Louis
+2016}) 16... Bc8 17. Nd4 Bd7 18. Rd3 Bxd4 19. Rxd4 c5 20. Rd2 Bc6 21. Rad1 Ke7
+22. Bg5+ f6 23. Bh4 Kf7 24. Bg3 Rae8 25. exf6 gxf6 26. Kh2 Re7 27. f3 a5 28.
+Bf4 a4 29. c4 h5 30. h4 Rge8 31. Kg1 Re1+ (31... Ke6 $11) 32. Rxe1 $16 Rxe1+ {
+[%mdl 4096] Endgame KRB-KRB} 33. Kf2 Re7 34. Rd8 Be8 35. b3 axb3 36. axb3 c6
+37. Rb8 b5 38. cxb5 cxb5 39. Bd6 Re6 40. Bxc5 Bc6 41. b4 Re8 42. Rb6 Re6 43.
+Kg3 Be8 44. Rb7+ Kg6 45. Kf4 Re5 46. g4 {[%cal Bg2g4,Bg4g5][%mdl 32]} Rd5 47.
+Rb6 {Black must now prevent g5.} Bd7 $2 {[#]} (47... hxg4 $16 48. fxg4 Bd7) 48.
+g5 $1 $18 Rf5+ 49. Kg3 Kf7 (49... Kh7 $142 50. f4 (50. Rxf6 Rxf6 51. gxf6 Kg6
+$16) (50. gxf6 Kg6 $18) 50... fxg5 51. fxg5 Be8) 50. f4 {[%cal Bf3f4,Bf4f5]
+[%mdl 32]} fxg5 51. hxg5 {[%cal Bh4g5,Bg5g6][%mdl 32]} Rd5 $2 {[#]} (51... h4+
+{keeps fighting.} 52. Kf3 (52. Kxh4 Rxf4+ 53. Kh5 Bc8 $18) 52... h3) 52. Kh4
+Rd3 (52... Kg7 $142 53. Bd6 (53. Kxh5 Rd2 $18) 53... Kg6 54. Be5+ Kf5) 53. f5
+Rf3 54. Rb7 (54. g6+ $142 Kg7 55. Bd4+ Kh6 56. Be5) 54... Ke8 55. Rb8+ {
+White mates.} Kf7 56. g6+ Kf6 57. Rf8+ {Precision: White = 67%, Black = 49%.}
+1-0
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.11"]
+[Round "2"]
+[White "Aronian, Levon"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[ECO "B13"]
+[WhiteElo "2794"]
+[BlackElo "2785"]
+[Annotator "TA"]
+[PlyCount "70"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,70,3,11,0,0,0,0,-23,-17,-9,-10,-118,-83,-153,-48,-139,-83,-313,-306,
+-313,-308,-783,-379,-509,0,-500,-504,-488,-510,-491,-502,-493,-468,-626,-614,
+-644,-521,-971,-945,-986,-935,-1243,-1250,-2443,-2020,-29989,-29990,-29967,
+-29970]} 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4 Bg4 7. Qb3
+Qd7 8. Nd2 e6 9. Ngf3 Bd6 10. Bxd6 Qxd6 11. Qxb7 {B13: Caro-Kann: Exchange
+Variation and Panov-Botvinnik Attack} (11. O-O O-O 12. Rfe1 Nd7 13. a4 Qc7 14.
+Qa3 Bh5 15. a5 Rfe8 16. a6 b6 17. Bb5 Rec8 18. Re3 h6 {0-1 (70) Jumabayev,R 
+(2612)-Riazantsev,A (2650) Riadh 2017}) 11... Rb8 12. Qa6 O-O {LiveBook: 5
+Games} ({But not} 12... Rxb2 $6 13. Bb5 $16) 13. Bb5 {The position is equal.}
+Rb6 14. Qa4 Ne7 15. Ne5 Ng6 $146 ({Predecessor:} 15... Qb8 16. Bd3 Rxb2 17. Nb3
+Ng6 18. O-O Be2 19. Bxe2 Rxe2 {0-1 (50) Larsson,A (2351)-Eriksson,A (2394)
+Sweden 2001}) 16. Nxg4 Nxg4 17. h3 (17. g3 $1 $11 {keeps the balance.}) 17...
+Nf6 $36 {[%cal Bg4f6,Bf6h5,Bh5g3][%mdl 3104] Strongly threatening ...Rfb8.
+Black has strong compensation. Black is on the roll.} 18. Nb3 (18. c4 $142 Qb8
+19. Nb3) 18... e5 (18... Rfb8 $17 19. Be2 Nf4) 19. O-O (19. O-O-O $15) 19... e4
+(19... Nf4 $142 $1 {White must now prevent ...Ne4.} 20. g3 Nxh3+ 21. Kg2 Ng5
+22. dxe5 Qxe5) 20. Rfe1 $2 (20. c4 $17 Qb8 21. Nc5) 20... Nh5 $19 21. Bf1 Nh4
+22. Qa5 $2 ({And not} 22. Qxa7 Nf4 $11) (22. Re3 Qf4 23. Nc5) 22... Qg6 (22...
+Qf4 $142 {( -> ...Nf3+!)} 23. a4 Rxb3 24. Qxd5 Rxb2) 23. Qxd5 {[#]} Nf3+ $1 24.
+Kh1 {[#]} Ng3+ $1 {[%mdl 512]} 25. fxg3 Qxg3 {[%csl Gf3][%cal Rg3h2]} 26. Qe5
+Nxe5 27. dxe5 Qxe5 28. Rad1 f5 {[%cal Bf7f5,Bf5f4][%mdl 32]} 29. Rd7 Rd6 30.
+Rxa7 Qg3 31. Rb1 f4 {aiming for ...f3.} 32. Nc5 Qe3 33. b4 f3 34. Re7 fxg2+ 35.
+Bxg2 Rh6 {Precision: White =  5%, Black = 76%.} 0-1
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.11"]
+[Round "2"]
+[White "Karjakin, Sergey"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "2791"]
+[BlackElo "2754"]
+[Annotator "TA"]
+[PlyCount "55"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,55,15,-18,0,0,0,11,0,0,0,-8,3,1,35,16,58,63,152,161,156,18,50,52,54,
+0,0,0,0,-65,89,105,352,342,769,762,759,712,760,748,743,727]} 1. c4 e6 2. Nc3 d5
+3. d4 Nf6 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Rb1 Be7 {D35: Queen's Gambit
+Declined: Exchange Variation} 8. Nf3 O-O 9. h4 {LiveBook: 3 Games} Nc6 $146 {
+The position is equal.} ({Predecessor:} 9... cxd4 10. cxd4 Nc6 11. h5 f5 12.
+exf5 Qa5+ 13. Bd2 Qxf5 14. Bc3 h6 15. Bd3 {1-0 (41) Karjakin,S (2763)-Kramnik,
+V (2800) Berlin 2018}) 10. h5 h6 11. Bb5 Qc7 12. Rh3 Rd8 {Hoping for ...cxd4.}
+13. Rg3 {Threatens to win with Bxh6.} Kh8 (13... Bd6 $5 14. e5 $8 Nxe5 15. dxe5
+Bxe5 16. Qxd8+ Qxd8 17. Nxe5 Qd5 18. Bxh6 Qxe5+ 19. Be2 Qxg3 20. fxg3 gxh6 $11)
+14. Kf1 a6 15. Bd3 cxd4 16. cxd4 {[%cal Bc3d4,Bd4d5][%mdl 32]} e5 (16... Bf8
+$14) 17. d5 $1 $16 {[%cal Rd5c6]} Nb4 18. Nxe5 (18. Be2 $1 $16) 18... Bd6 $1
+$11 (18... Qxe5 $2 19. Bb2 $18) 19. Rxb4 {Rc4 is the strong threat.} Bxe5 ({
+Much weaker is} 19... Bxb4 $6 20. Bb2 $16) 20. Re3 (20. Rc4 $14 Qd6 21. Re3)
+20... Qe7 $1 {[%cal Re7b4]} 21. Bb2 $1 $36 {[%mdl 2048] White fights for an
+advantage.} Bf4 22. Qa1 (22. Qf3 $11 Qxb4 23. Bxg7+ $1 {[%mdl 512]} Kxg7 24.
+Qxf4) 22... f6 $2 {[#]} (22... Qxb4 $2 {loses.} 23. Bxg7+ Kh7 24. Qf6 $18) (
+22... Bxe3 $15 {stays ahead.} 23. Bxg7+ Kg8 24. fxe3 Qxb4 25. Bxh6 f6 $1 {
+[%mdl 512]} 26. Qxf6 Rf8 27. Bxf8 (27. Qxf8+ Qxf8+ 28. Bxf8 Kxf8 $15) 27...
+Qxf8 28. Qxf8+ Kxf8) 23. Rf3 $1 $16 {[%cal Rf3f4]} Bg5 $2 (23... Qd6 $16) 24.
+Rb6 $18 Rf8 $2 (24... Qc7) 25. e5 {White is clearly winning.} fxe5 26. Rxf8+
+Qxf8 27. Bxe5 {Intending Rg6 and mate.} Be3 {[#]} 28. Bxg7+ $1 {[%mdl 512]
+Precision: White = 61%, Black = 39%.} 1-0
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.11"]
+[Round "2"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[ECO "D71"]
+[WhiteElo "2782"]
+[BlackElo "2782"]
+[Annotator "TA"]
+[PlyCount "104"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,104,16,23,9,14,0,0,0,8,-41,-33,-25,-8,-56,-44,-60,-59,-49,-35,-35,
+-34,-51,-14,-26,0,0,11,0,0,0,0,0,0,0,4,0,0,0,35,0,48,40,243,264,336,331,310,
+370,366,356,350,337,518,514,518,518,510,503,447,432,389,262,249,237,231,0,0,0,
+0,0,0,0,0,0,0,0,0,-15,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 {Mekhitarian,K} Nf6 2. c4
+g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 Nc6 6. Nf3 d5 7. cxd5 Nxd5 8. O-O e5 {D74:
+Fianchetto Grünfeld: Main Line (5 Nf3 0-0 6 cxd5 Nxd5 7 0-0)} (8... Bf5 9. Nh4
+Be6 10. Nf3 Nb6 11. e3 Bc4 12. Re1 e5 13. Nxe5 Nxe5 14. dxe5 Bxe5 15. Bxb7 Rb8
+16. Bg2 {1/2-1/2 (62) So,W (2778)-Vachier Lagrave,M (2789) Stavanger 2018}) 9.
+Bg5 f6 {LiveBook: 3 Games} 10. Bd2 Nxc3 11. bxc3 $146 ({Predecessor:} 11. Bxc3
+e4 12. Nd2 f5 13. Qb3+ Kh8 14. e3 Ne7 15. Bb4 Re8 16. Nc4 {1/2-1/2 (63)
+Michalik,P (2586)-Mekhitarian,K (2568) Tromsoe 2014 CBM 162 [Mekhitarian,K]})
+11... e4 12. Ne1 f5 13. Qb3+ Kh8 14. Rd1 b6 15. Nc2 Na5 16. Qb1 Ba6 17. Rfe1
+Nc4 18. Bc1 Qd7 19. f3 exf3 20. exf3 Rae8 21. Bf1 c5 22. dxc5 Qc6 23. Nd4 Qxc5
+24. Kg2 {Threatening Ne6.} Qc8 25. Qb4 Ne5 26. Bxa6 Qxa6 27. Qb5 Qxa2+ 28. Re2
+(28. Rd2 $5 {[%cal Rd2a2]} Qf7 29. Rde2 $16) 28... Qf7 29. Rde1 $1 $36 {
+[%cal Re2e5][%mdl 3072] White has compensation. Black is under pressure.} Nd7
+$2 (29... a6 $1 $14 30. Qxa6 Nd7) 30. Ne6 $18 a6 31. Qc6 Rc8 32. Qd6 Nc5 33.
+Nxf8 Bxf8 34. Re7 ({Don't take} 34. Qxb6 Kg8 $18) 34... Qa2+ (34... Kg8 {
+might work better.} 35. Rxf7 Bxd6) 35. Kh3 {[#] Intending Bh6 and mate.} Kg8
+36. Re8 Rxe8 37. Rxe8 {[%csl Ge8][%cal Rd6f8]} Qf7 38. Ra8 {Threatening mate
+with Bh6.} f4 39. Bxf4 {[#] aiming for Kg2.} g5 40. Bxg5 Qxf3 41. Rb8 $2 (41.
+Rd8 $18 Qh5+ 42. Bh4 (42. Kg2 Qe2+ 43. Kh3 Ne6 $14) 42... Qf5+ 43. Kg2) 41...
+Qh5+ $1 $11 {The position is equal.} 42. Bh4 {[%csl Gb8][%cal Rd6f8]} Qf5+ 43.
+Kg2 {Hoping for Qf4.} Qe4+ 44. Kf1 {[%csl Gb8][%cal Rd6f8]} Qf3+ 45. Ke1 {
+Qd1 is the strong threat.} Qxc3+ 46. Ke2 {[%csl Gb8][%cal Rd6f8]} Qc4+ 47. Ke1
+{[%csl Gb8][%cal Rd6f8]} Qe4+ 48. Kd2 {[%csl Gb8][%cal Rd6f8]} Qb4+ 49. Kd1 {
+[%csl Gb8][%cal Rd6f8]} Qb1+ 50. Ke2 {[%csl Gb8][%cal Rd6f8]} Qe4+ 51. Kd1 {
+[%csl Gb8][%cal Rd6f8]} Qb1+ 52. Ke2 {[%csl Gb8][%cal Rd6f8]} Qe4+ {Precision:
+White = 72%, Black = 58%.} 1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.11"]
+[Round "3"]
+[White "So, Wesley"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "2794"]
+[BlackElo "2796"]
+[Annotator "TA"]
+[PlyCount "67"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 24,67,18,0,0,0,19,11,12,12,12,12,13,7,6,8,9,10,8,9,9,8,10,0,0,0,0,0,6,0,
+0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. Nf3 c5 2. b3 b6 3. Bb2 Bb7 4. c4 Nf6 5. g3
+e6 6. Bg2 Be7 7. d4 cxd4 8. Qxd4 O-O 9. Nc3 d6 10. O-O Nbd7 11. Ng5 Bxg2 12.
+Kxg2 Qc7 {A30: Symmetrical English: Double Fianchetto and Hedgehog} 13. Rfd1 {
+LiveBook: 3 Games. The position is equal.} (13. Kg1 Qc6 14. Nge4 Nc5 15. Nxc5
+bxc5 16. Qf4 Rfd8 17. Rfd1 a5 18. Rd3 Ne8 19. Qf3 Qxf3 20. Rxf3 {1/2-1/2 (94)
+Kolbus,D (2306)-Arkell,K (2424) Llandudno 2017}) 13... Rfd8 14. Nge4 Nc5 15. f3
+$146 ({Predecessor:} 15. Nxf6+ Bxf6 16. Qe3 Rac8 17. Rac1 Qc6+ {1-0 (55)
+Sienczewski,Z (2055)-Siaparinas,K (1881) Athens 2013}) 15... Ncxe4 16. Nxe4 d5
+17. cxd5 Rxd5 18. Qe3 Rxd1 19. Rxd1 Nd5 20. Qd4 {[%csl Gb2][%cal Rd4g7] [#]}
+Bf8 21. Nc3 Rd8 22. Rd3 Rd7 (22... Qe7 {with more complications.} 23. a3 Rd7
+24. Qa4 Rd8 25. Nxd5 Rxd5 26. Qe4 Rxd3 27. Qxd3 Qd6) 23. Nxd5 Rxd5 24. Qe4 Rxd3
+25. Qxd3 f6 26. Qc3 (26. g4 {looks sharper.} Qd6 27. Bd4 Kf7 28. Qe4 Qb4 29. a4
+) 26... Qxc3 27. Bxc3 $11 {[%mdl 4096] Endgame KB-KB} Kf7 28. e4 e5 29. Kf2 b5
+30. Ke2 a6 31. a4 Ke6 32. axb5 axb5 33. g4 g5 34. h3 {Precision: White = 46%,
+Black = 86%.} 1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.11"]
+[Round "3"]
+[White "Caruana, Fabiano"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1-0"]
+[ECO "C80"]
+[WhiteElo "2785"]
+[BlackElo "2782"]
+[Annotator "TA"]
+[PlyCount "111"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 29,111,38,56,51,58,27,57,33,26,46,18,0,0,0,0,0,0,0,0,0,0,0,12,16,15,0,
+29,-57,0,-85,-73,-141,-156,-158,-128,-140,0,0,0,0,182,183,239,216,476,475,476,
+476,469,467,427,419,547,448,12827,12834,12834,12835,12836,12836,12836,12836,
+12838,12837,12838,12839,12839,12839,12840,12840,12841,12841,12844,12844,12845,
+12845,12845,12844,12846,12846,12847,12847,12848,12848]} 1. e4 e5 2. Nf3 Nc6 3.
+Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 {[%cal Bd7d5,Bd5d4,Bd4d3]
+[%mdl 32]} 8. dxe5 Be6 9. Nbd2 Nc5 10. c3 Be7 11. Bc2 d4 12. Nb3 {C83: Open
+Ruy Lopez: 9 c3 Be7} d3 13. Bb1 Nxb3 14. axb3 Bf5 15. b4 (15. Re1 O-O 16. Be3
+Qd5 17. b4 Qd7 18. h3 Rfd8 19. g4 Be6 {1/2-1/2 (40) Caruana,F (2808)
+-Mamedyarov,S (2736) Baku 2015}) 15... O-O {LiveBook: 11 Games} 16. h3 Qd7 17.
+Bf4 Rfd8 18. g4 Bg6 $1 19. Bg3 h5 {[#]} 20. Nd2 $146 hxg4 21. hxg4 {[#]} Nxb4
+$1 {[%mdl 512]} 22. cxb4 Bxb4 23. Ba2 c5 $1 24. e6 fxe6 25. Nf3 $1 {[%cal
+Rf3e5] Ne5 is the strong threat.} c4 {And now ...Be4 would win.} 26. Ne5 Qe8
+27. Kg2 Rd5 28. f3 (28. Qf3 $11) 28... Rad8 (28... Bd6 $15 29. Re1 a5) 29. Rh1
+{[#]} (29. Qc1 $1 $11) 29... Bd6 $1 $17 {[%cal Rd6e5]} 30. Qe1 (30. Nxg6 $142
+Qxg6 31. Bxd6 R8xd6 32. Qd2) 30... d2 31. Qe3 {[#]} Bc2 $1 {Strongly
+threatening ...Bxe5.} 32. Rad1 Bxd1 ({Black should play} 32... Bb8 $17 33. Qe2
+Bxe5 34. Bxe5 Qd7) 33. Rxd1 $11 Bxe5 34. Bxe5 Rd3 $2 (34... Qc6 $11) 35. Qe4
+$40 {[%mdl 128] White wants a kill.} R8d5 (35... R3d5 $142) 36. Bb1 Qf7 $2 (
+36... Rxe5 37. Qxe5 Rd8) 37. Bxd3 Rxd3 38. Qa8+ Qf8 39. Qxf8+ Kxf8 {[%mdl 4096]
+Endgame KRB-KR} 40. Bc3 Ke7 41. Kf2 {White is clearly winning.} g6 (41... Rd7
+$142 42. Bxg7 a5) 42. Rxd2 Rxd2+ 43. Bxd2 {KB-KP} Kd6 44. Bb4+ Kd5 45. Ke3 Ke5
+46. Bd2 Kd5 47. f4 Kc5 48. Ke4 b4 49. Ke5 a5 50. Kxe6 Kd4 51. f5 gxf5 52. gxf5
+Kd3 53. Bf4 a4 54. f6 {[%cal Bf5f6,Bf6f7][%mdl 32]} b3 55. f7 c3 56. bxc3 {
+Precision: White = 67%, Black = 45%.} 1-0
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.11"]
+[Round "3"]
+[White "Grischuk, Alexander"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2782"]
+[BlackElo "2812"]
+[Annotator "TA"]
+[PlyCount "39"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,39,15,11,38,19,38,27,38,0,6,6,17,6,6,14,8,0,0,10,12,0]} 1. d4 Nf6 2.
+c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. cxd5 Nxd5 9.
+Nxd5 exd5 10. Bd3 Bb4+ {D37: Queen's Gambit Declined: 5 Bf4} 11. Nd2 {LiveBook:
+30 Games} d4 {[#] And now ...dxe3 would win.} (11... Nc6 12. O-O Be7 13. Rc1
+Bf6 14. Nf3 Qe7 15. h3 g6 16. Bb5 Bd7 17. Qxd5 Be6 18. Qe4 Bxb2 19. Bxc6 {
+1/2-1/2 (94) Carlsen,M (2822)-Nakamura,H (2792) Saint Louis 2017 CBM 180 
+[Krasenkow,M]}) 12. Qc2 Nc6 $146 ({Predecessor:} 12... dxe3 13. Bxe3 Qh4 14.
+O-O h6 15. Nf3 Qf6 16. Bd4 Qc6 17. Qb3 Qd6 18. a3 Nc6 19. Bxg7 Kxg7 20. axb4
+Qxb4 21. Qc2 Rd8 22. Ra4 Qd6 23. Qc3+ Qf6 24. Qxf6+ Kxf6 25. Be4 {1-0 (25)
+Peltier,J (2163)-Ralls,R (2151) IECC email 2000}) 13. O-O g6 14. Ne4 Bf5 {
+The position is equal.} 15. Rad1 Be7 16. Qb3 Qb6 17. Qxb6 axb6 18. a3 dxe3 19.
+Bxe3 Rfd8 {Strongly threatening ...Rxd3!} 20. Bb1 1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.11"]
+[Round "3"]
+[White "Anand, Viswanathan"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[WhiteElo "2771"]
+[BlackElo "2791"]
+[Annotator "TA"]
+[PlyCount "57"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,57,14,44,12,24,16,14,19,17,11,25,1,1,13,10,0,0,0,0,0,1,0,0,-19,0,0,
+34,21,16,7,17,18,16,14,20,0,5,0,0,0,0,4,12,0,0,0]} 1. e4 {Stohl,I} e5 2. Nf3
+Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Be3 {C65: Ruy Lopez: Berlin Defence 
+(3...Nf6), unusual lines and 4 0-0 Bc5} Bd6 7. h3 c5 {LiveBook: 12 Games} 8.
+Nc3 {White is slightly better.} Nd7 9. O-O Nf8 10. Nd2 Ng6 11. Nc4 O-O $146 ({
+Predecessor:} 11... Be6 12. Ne2 Qd7 13. Nxd6+ cxd6 {1-0 (47) Carlsen,M (2872)
+-Caruana,F (2782) Zuerich 2014 CBM 159 [Stohl,I]}) 12. Ne2 Be6 13. b3 Be7 14.
+f4 exf4 15. Nxf4 Nxf4 16. Bxf4 b5 17. Ne3 Bf6 18. Rb1 Qd4 19. Kh1 Be5 {[#]
+aiming for ...Bxf4.} 20. c3 Qd6 {The position is equal.} 21. Nf5 Bxf5 $1 22.
+Bxe5 Qxe5 23. Rxf5 Qe7 24. b4 cxb4 25. Rxb5 bxc3 26. Qc2 Rfd8 27. Qxc3 h6 28.
+Rb7 Rd7 29. Rc1 {Precision: White = 46%, Black = 74%.} 1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.11"]
+[Round "3"]
+[White "Dominguez Perez, Leinier"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[WhiteElo "2754"]
+[BlackElo "2794"]
+[Annotator "TA"]
+[PlyCount "45"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 22,45,42,18,7,24,59,59,63,52,64,16,31,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4
+Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 b6 {E05: Open
+Catalan: 5 Nf3 Be7} (7... c6 8. Qxc4 b5 9. Qc2 Bb7 10. Nc3 Nbd7 11. Rd1 Qb6 12.
+Ne5 Rfd8 13. Be3 Nd5 14. Nxd5 cxd5 15. Rac1 Rac8 16. Qd3 b4 17. Rxc8 Bxc8 {
+1/2-1/2 (41) So,W (2799)-Mamedyarov,S (2809) Berlin 2018}) 8. Ne5 Qxd4 9. Bxa8
+Qxe5 10. Bf3 Nd5 11. Qxc4 Ba6 12. Qa4 {LiveBook: 4 Games} Bf6 13. Re1 {[#]} Qd4
+$146 ({Predecessor:} 13... c5 14. Nd2 b5 15. Qc2 {1/2-1/2 (52) Meier,G (2648)
+-Deac,B (2572) Batumi 2018}) 14. Qxd4 Bxd4 15. Rd1 Nc6 16. e3 Bf6 17. Bxd5 exd5
+{The position is equal.} 18. Rxd5 Ne5 19. Nc3 Nf3+ 20. Kg2 Ne1+ 21. Kg1 Nf3+
+22. Kg2 Ne1+ 23. Kg1 1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.12"]
+[Round "4"]
+[White "Nakamura, Hikaru"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2812"]
+[BlackElo "2785"]
+[Annotator "TA"]
+[PlyCount "70"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,70,-4,-7,-11,-9,-7,-8,-10,-9,0,-5,0,0,-10,0,-8,0,-20,-22,-29,-21,-34,
+-31,-32,-25,-25,-31,-27,-18,-20,-17,-8,-8,-8,-8,-10,-6,-6,-6,-6,-10,-10,-10,
+-14,-13,-24,-10,-12,-10,-14,-13,-12,-10,-23,-17]} 1. Nf3 d5 2. g3 g6 3. Bg2 Bg7
+4. d4 Nf6 5. O-O O-O 6. c4 dxc4 7. Na3 {[%cal Bb1a3,Ba3c4,Bc4e5][%mdl 32]} c5
+8. Nxc4 Be6 {D77: Fianchetto Grünfeld: 6 0-0: Replies other than 6...c6} 9.
+Nce5 cxd4 {LiveBook: 3 Games} 10. Qxd4 Qxd4 {The position is equal.} 11. Nxd4
+Bd5 $146 12. Rd1 Bxg2 13. Kxg2 Rd8 14. Bf4 Nd5 15. Ndf3 Na6 16. Bd2 Rac8 17.
+Ba5 b6 18. Be1 f6 19. Nd3 e5 {[#] ...e4 is the strong threat.} 20. e4 Ndc7 21.
+Ng1 {[%cal Bf3g1,Bg1e2,Be2c3,Bc3d5][%mdl 32]} Ne6 22. Ne2 Kf7 23. Nc3 Bf8 24.
+f3 Nb4 25. Nxb4 Bxb4 26. Rxd8 Rxd8 27. Nd5 Bxe1 28. Rxe1 $11 {[%mdl 4096]
+Endgame KRN-KRN} Rc8 {Hoping for ...Rc2+.} 29. Ne3 Nd4 30. Rd1 Ke6 31. Kf2 b5
+32. a3 a5 33. f4 a4 34. h4 h5 35. Kg2 Rc6 {Precision: White = 68%, Black = 66%.
+} 1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.12"]
+[Round "4"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Grischuk, Alexander"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "2796"]
+[BlackElo "2782"]
+[Annotator "ChessBase"]
+[PlyCount "121"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[Tiebreak "Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "1500"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:02]} g6 {
+[%emt 0:00:34]} 3. Bf4 {[%emt 0:00:00]} Bg7 {[%emt 0:00:00]} 4. e3 {[%emt 0:00:
+00]} O-O {[%emt 0:00:05]} 5. Be2 {[%emt 0:00:00]} d6 {[%emt 0:01:35]} 6. O-O {
+[%emt 0:00:00]} c5 {[%emt 0:00:32]} 7. c3 {[%emt 0:00:05]} b6 {[%emt 0:06:13]}
+8. h3 {[%emt 0:00:14]} Bb7 {[%emt 0:00:00]} 9. Nbd2 {[%emt 0:00:00]} Nbd7 {
+[%emt 0:00:00]} 10. a4 {[%emt 0:00:11]} a6 {[%emt 0:00:00]} 11. Bh2 {[%emt 0:
+00:29]} Ne4 {[%emt 0:03:48]} 12. Nxe4 {[%emt 0:00:50]} Bxe4 {[%emt 0:00:00]}
+13. Bd3 {[%emt 0:00:29]} Bxd3 {[%emt 0:00:25]} 14. Qxd3 {[%emt 0:00:00]} Qc7 {
+[%emt 0:00:10]} 15. Rfd1 {[%emt 0:00:26]} Rfc8 {[%emt 0:00:42]} 16. Qe2 {
+[%emt 0:01:00]} Qb7 {[%emt 0:01:25]} 17. e4 {[%emt 0:00:22]} cxd4 {[%emt 0:00:
+44]} 18. cxd4 {[%emt 0:00:09]} Rc7 {[%emt 0:02:45]} 19. e5 {[%emt 0:01:33]} Qd5
+{[%emt 0:00:00]} 20. exd6 {[%emt 0:00:46]} exd6 {[%emt 0:00:00]} 21. Rac1 {
+[%emt 0:00:07]} Rxc1 {[%emt 0:01:05]} 22. Rxc1 {[%emt 0:00:00]} b5 {[%emt 0:02:
+58]} 23. axb5 {[%emt 0:02:17]} axb5 {[%emt 0:00:00]} 24. Qe7 {[%emt 0:00:00]}
+Nb6 {[%emt 0:00:04]} 25. Qxd6 {[%emt 0:00:00]} Qxd6 {[%emt 0:00:00]} 26. Bxd6 {
+[%emt 0:00:00]} Nc4 {[%emt 0:00:00]} 27. Bc7 {[%emt 0:01:12]} Nxb2 {[%emt 0:00:
+52]} 28. Rb1 {[%emt 0:00:00]} Na4 {[%emt 0:00:33]} 29. Rxb5 {[%emt 0:00:18]}
+Nc3 {[%emt 0:00:00]} 30. Rb2 {[%emt 0:00:00]} h6 {[%emt 0:00:07]} 31. Rc2 {
+[%emt 0:00:35]} Nb5 {[%emt 0:00:09]} 32. Bb6 {[%emt 0:00:00]} Ra1+ {[%emt 0:00:
+01]} 33. Kh2 {[%emt 0:00:00]} Rd1 {[%emt 0:00:00]} 34. Rc8+ {[%emt 0:00:33]}
+Kh7 {[%emt 0:00:00]} 35. Rd8 {[%emt 0:00:00]} Nc3 {[%emt 0:00:00]} 36. Re8 {
+[%emt 0:00:41]} Nb5 {[%emt 0:00:00]} 37. Re7 {[%emt 0:00:13]} Kg8 {[%emt 0:00:
+00]} 38. Bc5 {[%emt 0:00:50]} Bf6 {[%emt 0:00:00]} 39. Rb7 {[%emt 0:00:31]} Nc3
+{[%emt 0:00:00]} 40. Ne5 {[%emt 0:00:00]} Bxe5+ {[%emt 0:00:00]} 41. dxe5 {
+[%emt 0:00:00]} Ne4 {[%emt 0:00:00]} 42. Be3 {[%emt 0:00:06]} g5 {[%emt 0:00:
+00]} 43. Rb8+ {[%emt 0:01:39]} Kg7 {[%emt 0:00:00]} 44. Rb2 {[%emt 0:00:44]}
+Rd5 {[%emt 0:00:00]} 45. g3 {[%emt 0:00:43]} Kg6 {[%emt 0:00:00]} 46. Rb6+ {
+[%emt 0:00:00]} Kg7 {[%emt 0:00:00]} 47. Kg2 {[%emt 0:00:15]} Nc3 {[%emt 0:00:
+00]} 48. Rd6 {[%emt 0:00:32]} Rxd6 {[%emt 0:00:01]} 49. exd6 {[%emt 0:00:00]}
+Kf8 {[%emt 0:00:00]} 50. Bd4 {[%emt 0:00:00]} Ne4 {[%emt 0:00:00]} 51. Bg7+ {
+[%emt 0:00:00]} Ke8 {[%emt 0:00:00]} 52. Bxh6 {[%emt 0:00:00]} f6 {[%emt 0:00:
+00]} 53. Bg7 {[%emt 0:00:00]} f5 {[%emt 0:00:00]} 54. Be5 {[%emt 0:00:00]} Nc5
+{[%emt 0:00:00]} 55. f4 {[%emt 0:00:27]} Nd7 {[%emt 0:00:01]} 56. h4 {[%emt 0:
+00:10]} gxh4 {[%emt 0:00:00]} 57. gxh4 {[%emt 0:00:00]} Kf7 {[%emt 0:00:00]}
+58. Kf3 {[%emt 0:00:28]} Kg6 {[%emt 0:00:00]} 59. Ke3 {[%emt 0:00:00]} Kh5 {
+[%emt 0:00:00]} 60. Kd4 {[%emt 0:00:00]} Kxh4 {[%emt 0:00:00] Ke4} 61. Kd5 1-0
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.12"]
+[Round "4"]
+[White "Aronian, Levon"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[WhiteElo "2794"]
+[BlackElo "2782"]
+[Annotator "TA"]
+[PlyCount "73"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 24,73,21,29,40,-24,-39,-35,-21,-39,-42,-41,-43,-39,-7,-30,-42,-51,0,8,
+39,0,0,0,0,-10,-12,-19,0,-70,-58,-97,-97,-96,-60,-67,0,-137,0,-49,0,-137,-137,
+-137,-133,-145,-70,-73,0,-143,0,-83]} 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c3 Nf6
+5. Bf4 Nc6 6. Bd3 Bg4 7. Qb3 Qd7 8. Nd2 e6 9. Ngf3 Bd6 10. Bxd6 Qxd6 11. O-O {
+B13: Caro-Kann: Exchange Variation and Panov-Botvinnik Attack} O-O 12. Rae1 (
+12. Rfe1 Nd7 13. a4 Qc7 14. Qa3 Bh5 15. a5 Rfe8 16. a6 b6 17. Bb5 Rec8 18. Re3
+h6 {0-1 (70) Jumabayev,R (2612)-Riazantsev,A (2650) Riadh 2017}) 12... Rab8 13.
+Ne5 {LiveBook: 3 Games} b5 14. Bxb5 $146 (14. Qc2 $14) ({Predecessor:} 14. a3
+Bh5 15. f4 a5 16. Qc2 Bg6 17. f5 exf5 18. Bxf5 b4 19. axb4 axb4 {0-1 (40)
+Luchan,J (2073)-Norowitz,Y (2429) Indianapolis 2016}) 14... a6 $1 $11 15. Bxc6
+{Hoping for Qa3.} Rxb3 16. axb3 Bf5 17. b4 Ng4 18. Ba4 $1 h5 {...Bd3! is the
+strong threat.} 19. h3 Nxe5 20. Rxe5 f6 (20... a5 $15 21. bxa5 Qc7) 21. Re3 e5
+22. Nb3 Bc2 23. Ra1 h4 24. Nc5 Bxa4 $1 25. Rxa4 exd4 26. cxd4 (26. Rxa6 $11 Qb8
+27. Rd3 (27. cxd4 Qxb4 28. Re7 Kh7 $15)) 26... Qb6 27. b3 Ra8 $1 {[%mdl 1024]
+Black has strong compensation.} 28. Re7 Qd6 29. Rd7 Qc6 (29... Qb8 $1 $15) 30.
+Rb7 {[#]} (30. Ra1 $1 $11) 30... Qd6 ({Black should play} 30... Qe8 $1 $17 {
+[%cal Re8e1] White must now prevent ...Qe1+.} 31. Ra1 Rb8) 31. Rd7 $15 Qc6 (
+31... Qb8 $15) 32. Rb7 $17 {[#]} Qe8 $1 {[%cal Re8e1]} 33. Ra1 Rb8 {Strongly
+threatening ...Rxb7.} 34. Rd7 Rd8 (34... Rxb4 $17 35. Rxd5 Qe2) 35. Rb7 {
+next b5 is good for White.} Rb8 (35... Kh7 $142) 36. Rd7 Rd8 ({Black should try
+} 36... Rxb4 37. Rxd5 Kh7) 37. Rb7 $1 {Precision: White = 58%, Black = 44%.}
+1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.12"]
+[Round "4"]
+[White "Karjakin, Sergey"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[WhiteElo "2791"]
+[BlackElo "2794"]
+[Annotator "TA"]
+[PlyCount "88"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,88,17,24,0,11,0,18,6,20,18,25,0,14,8,18,18,18,6,23,13,37,30,34,20,15,
+18,10,16,17,11,8,0,28,2,31,30,26,30,32,31,27,32,34,38,43,10,14,5,6,0,0,1,2,2,6,
+0,0,0,0,0,0,0,0,0,2,2,4,0,0,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4.
+d3 Nf6 5. c3 O-O 6. a4 {C54: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and
+5 d3} (6. O-O d6 7. Re1 h6 8. Nbd2 a5 9. Nf1 Bb6 10. Be3 Bxe3 11. Nxe3 Be6 12.
+Bb5 Ne7 13. Ba4 Ng6 14. Bc2 Re8 15. d4 {1-0 (54) Vachier Lagrave,M (2789)
+-Caruana,F (2816) Paris 2018}) 6... d5 7. exd5 Nxd5 {LiveBook: 6 Games} 8. Nbd2
+{White has an edge.} Nb6 $146 ({Predecessor:} 8... Bf5 9. O-O Nf6 10. Re1 Re8
+11. b4 Bd6 12. Nf1 h6 13. Ng3 Bg6 14. Nh4 Bh7 15. Nhf5 Bxf5 16. Nxf5 Qd7 17.
+Qf3 Rab8 18. Nxh6+ {1-0 (18) Wenzel,C (1613)-Engert,K (1291) Bad Homburg 2015})
+9. Ba2 a5 (9... Bf5 {is more complex.} 10. Ne4 Bxe4 11. dxe4 Qxd1+ 12. Kxd1
+Nxa4 13. Bd5 Nb6) 10. Ne4 Be7 11. O-O Bg4 12. Re1 Qd7 13. h3 Be6 14. Bxe6 Qxe6
+15. Be3 Nd5 16. Qb3 Qd7 17. Rad1 Rad8 18. d4 exd4 19. Bxd4 Nxd4 20. Rxd4 {
+[#] c4 is the strong threat.} Qc6 $1 21. g3 Qb6 22. Qc2 c6 23. Neg5 Bxg5 24.
+Nxg5 {[%csl Gg5][%cal Rc2h7] [#]} Nf6 25. Rf4 {Threatens to win with Rxf6!} Rd5
+26. Rxf6 {[%csl Gg5][%cal Rc2h7]} Rxg5 27. Rf3 {[%cal Bf6f3,Bf3e3,Be3e7][%mdl
+32]} Qc7 28. Rfe3 Rd5 29. Re7 Rd7 {The position is equal.} 30. Qe4 g6 31. Qe5
+Rxe7 32. Qxe7 Qxe7 33. Rxe7 $11 {[%mdl 4096] Endgame KR-KR} Rb8 $1 34. b3 b5
+35. Ra7 bxa4 36. bxa4 Rb3 37. c4 Rb4 38. Rxa5 Rxc4 39. Kf1 Rc2 40. Ra8+ Kg7 41.
+a5 c5 42. a6 c4 43. a7 Ra2 44. Rc8 Rxa7 {Precision: White = 55%, Black = 70%.}
+1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.12"]
+[Round "4"]
+[White "Dominguez Perez, Leinier"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[WhiteElo "2754"]
+[BlackElo "2771"]
+[Annotator "ChessBase"]
+[PlyCount "74"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[Tiebreak "Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "1500"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} d5 {
+[%emt 0:00:00]} 3. c4 {[%emt 0:00:00]} e6 {[%emt 0:00:00]} 4. g3 {[%emt 0:00:
+00]} dxc4 {[%emt 0:00:00]} 5. Bg2 {[%emt 0:00:00]} c5 {[%emt 0:00:00]} 6. O-O {
+[%emt 0:00:00]} Nc6 {[%emt 0:00:00]} 7. dxc5 {[%emt 0:00:00]} Qxd1 {[%emt 0:00:
+00]} 8. Rxd1 {[%emt 0:00:00]} Bxc5 {[%emt 0:00:00]} 9. Nfd2 {[%emt 0:00:00]}
+Na5 {[%emt 0:00:40]} 10. Na3 {[%emt 0:00:00]} Bxa3 {[%emt 0:00:09]} 11. bxa3 {
+[%emt 0:00:00]} O-O {[%emt 0:00:43]} 12. Ne4 {[%emt 0:00:00]} Nxe4 {[%emt 0:01:
+36]} 13. Bxe4 {[%emt 0:00:00]} e5 {[%emt 0:00:00]} 14. Bb2 {[%emt 0:00:31]} Nc6
+{[%emt 0:00:49]} 15. f3 {[%emt 0:02:00]} Re8 {[%emt 0:01:16]} 16. Rab1 {
+[%emt 0:03:50]} f6 {[%emt 0:03:43]} 17. Bc3 {[%emt 0:01:11]} Nd8 {[%emt 0:03:
+24]} 18. a4 {[%emt 0:04:47]} Rb8 {[%emt 0:02:20]} 19. a5 {[%emt 0:00:49]} Be6 {
+[%emt 0:01:15]} 20. a4 {[%emt 0:05:04]} a6 {[%emt 0:01:57]} 21. Rb6 {[%emt 0:
+00:29]} Bf7 {[%emt 0:00:42]} 22. Rd7 {[%emt 0:00:53]} Be6 {[%emt 0:00:54]} 23.
+Rc7 {[%emt 0:01:22]} Rc8 {[%emt 0:00:05]} 24. Rxc8 {[%emt 0:01:27]} Bxc8 {
+[%emt 0:00:00]} 25. Bd5+ {[%emt 0:00:01]} Be6 {[%emt 0:00:18]} 26. Bxb7 {
+[%emt 0:00:05]} Nxb7 {[%emt 0:00:00]} 27. Rxb7 {[%emt 0:00:00]} Ra8 {[%emt 0:
+00:20]} 28. Kf2 {[%emt 0:00:32]} Bf7 {[%emt 0:00:00]} 29. Rc7 {[%emt 0:00:07]}
+Be8 {[%emt 0:00:00]} 30. Rxc4 {[%emt 0:00:03]} Bd7 {[%emt 0:00:00]} 31. Rb4 {
+[%emt 0:00:32]} Rc8 {[%emt 0:00:27]} 32. Bd2 {[%emt 0:00:00]} Rc2 {[%emt 0:00:
+46]} 33. Ke1 {[%emt 0:00:00]} Ra2 {[%emt 0:00:00]} 34. Rb6 {[%emt 0:00:42]}
+Ra1+ {[%emt 0:00:00]} 35. Kf2 {[%emt 0:00:00]} Ra2 {[%emt 0:00:00]} 36. Ke1 {
+[%emt 0:00:19]} Ra1+ {[%emt 0:00:00]} 37. Kf2 {[%emt 0:00:00]} Ra2 {[%emt 0:00:
+00]} 1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.12"]
+[Round "5"]
+[White "So, Wesley"]
+[Black "Dominguez Perez, Leinier"]
+[Result "0-1"]
+[ECO "E06"]
+[WhiteElo "2794"]
+[BlackElo "2754"]
+[Annotator "TA"]
+[PlyCount "100"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,100,4,12,0,61,37,47,36,18,18,12,7,7,31,28,51,264,246,235,133,128,63,
+47,0,135,45,39,12,8,9,9,5,5,0,0,0,0,-10,53,55,54,46,108,116,117,83,233,225,195,
+198,211,0,142,0,228,214,263,260,222,144,243,264,222,27,27,0,0,0,0,0,0,0,0,0,0,
+0,0,-12843,-12843]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O
+dxc4 7. Qc2 a6 8. a4 c5 9. dxc5 Bxc5 {E05: Open Catalan: 5 Nf3 Be7} 10. Nbd2 (
+10. Qxc4 b6 11. Ne5 Ra7 12. Nd3 Be7 13. Bf4 Bb7 14. Bxb7 Rxb7 15. Rc1 Nd5 16.
+Bxb8 b5 17. axb5 axb5 {1/2-1/2 (39) Aronian,L (2794)-Hou,Y (2654) Karlsruhe/
+Baden-Baden 2018}) 10... b5 11. Ng5 Ra7 12. Nde4 Nxe4 {LiveBook: 4 Games} 13.
+Qxe4 $146 {[%csl Gg5][%cal Re4h7]} ({Predecessor:} 13. Nxe4 Bb6 14. Bf4 e5 15.
+Bxe5 Nc6 16. Rfd1 Rd7 17. Bd6 {1-0 (42) Sargissian,G (2650)-Blomqvist,E (2546)
+Minsk 2017}) 13... g6 (13... f5 $11 14. Qe5 Qb6) 14. axb5 axb5 {[#]} 15. Qh4 $3
+{[%csl Gg5][%cal Rh4h7][%mdl 512]} h5 16. Rxa7 Bxa7 17. g4 f6 $132 {[%mdl 2048]
+Black is not keeping still} 18. Ne4 Nc6 19. g5 fxg5 $2 (19... Nd4 $14) 20. Bxg5
+$18 Qc7 21. Bh6 (21. e3 $1 $18) 21... Rf5 $16 22. Ng3 (22. e3 $1 $16) 22... Rf7
+$14 23. Nxh5 Bd4 (23... gxh5 $11 24. Qg5+ Kh8 25. Qxh5 Rf5 26. Bg5+ Kg8 27.
+Bxc6 Qxc6 28. Qg6+ Kf8 29. Qh6+ Kg8 30. Qg6+ Kf8 31. Bh6+ Ke7 32. Qg7+ Rf7 33.
+Bg5+ Ke8 34. Qg8+ Rf8 35. Qg6+ Rf7 36. Qg8+ Rf8 37. Qg6+ Rf7 38. Qg8+) 24. Nf4
+({But not} 24. Bxc6 $6 Qxc6 25. Qxd4 gxh5 $11) (24. Qg4 $1 $16 {[%cal Rg4g6]}
+Kh7 25. Be4) 24... Ne7 {Strongly threatening ...Nf5.} 25. Nxe6 (25. Nxg6 $5 Nf5
+26. Qg4 Nxh6 27. Qxd4 $16) 25... Bxf2+ $1 26. Rxf2 {Bg7 would kill now.} Bxe6
+27. Rxf7 Bxf7 28. Qf6 {[%csl Gh6][%cal Rf6g7]} Nf5 29. Bd2 Qc5+ (29... b4 {
+is more complex.} 30. Bxb4 Qa7+ 31. e3 Qxe3+ 32. Kf1 Qc1+) 30. e3 {[%cal Be2e3,
+Be3e4][%mdl 32]} Qd6 (30... b4 $11) 31. Qxd6 Nxd6 {[%mdl 4096] Endgame KBB-KBN}
+32. Bb4 Nf5 ({Black should play} 32... Ne8 $14) 33. Kf2 $16 Be8 34. Bd5+ $1 Kg7
+(34... Kh7 $16) 35. e4 $1 $18 {[%cal Re4f5]} Nh6 36. Bc3+ Kf8 37. Bb4+ Kg7 38.
+Bc3+ (38. Kf3 $16) 38... Kf8 39. Kg3 Nf7 40. Kf4 $1 Bd7 41. Bf6 Ke8 (41... Bh3
+$16 42. Bc6 b4) 42. e5 {And now e6 would win.} Nd8 {[#]} 43. Kg5 $2 (43. Bxd8
+$1 $18 {Black must now prevent Bf6.} Kxd8 44. e6) 43... Ne6+ $11 44. Kh6 (44.
+Bxe6 $5 Bxe6 45. Kxg6 $11) 44... Nf4 45. Be4 Bf5 46. Bc6+ Bd7 47. Be4 Bf5 48.
+Bxf5 gxf5 49. Kg5 b4 50. Kxf5 $2 {[%mdl 8192] [#]} ({Don't blunder} 50. Kxf4 $2
+c3 $19) (50. e6 $11 Nd5 51. Bd4 (51. Kxf5 $2 Nxf6 52. Ke5 c3 $19)) 50... c3 $1
+{Precision: White = 39%, Black = 49%.} 0-1
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.12"]
+[Round "5"]
+[White "Caruana, Fabiano"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[ECO "B96"]
+[WhiteElo "2785"]
+[BlackElo "2796"]
+[Annotator "TA"]
+[PlyCount "102"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 25,102,21,32,0,0,0,7,-9,16,26,31,15,51,20,28,16,19,0,0,-13,0,-50,0,-1,
+-1,-54,-54,-54,-50,-73,-71,-65,-79,-101,-89,-91,-95,-99,-61,-61,0,-43,0,-45,0,
+-42,0,0,62,55,63,0,0,0,54,64,201,0,84,77,234,0,0,0,0,0,0,0,0,0,0,-212,0,0,0,
+-210,0,0,0]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7.
+f4 h6 8. Bh4 Qb6 9. a3 Be7 {B96: Sicilian Najdorf: 6 Bg5 e6 7 f4, lines other
+than 7...Qb6 and 7...Be7} 10. Bf2 Qc7 11. Qf3 (11. Bd3 e5 12. Nde2 b5 13. Qd2
+Nbd7 14. O-O-O Rb8 15. h3 b4 16. axb4 Rxb4 17. g4 {0-1 (57) Najer,E (2693)
+-Wojtaszek,R (2741) Czech Republic 2018}) 11... Nbd7 {[%cal Bb8d7,Bd7c5,Bc5e4]
+[%mdl 32]} 12. O-O-O b5 13. g4 Bb7 {LiveBook: 27 Games} 14. h4 {With the idea
+g5.} Nc5 {[%cal Rc5e4]} 15. Bd3 d5 {[%cal Rd5e4]} 16. e5 Nfe4 17. Bxe4 Nxe4 18.
+Rh3 $146 h5 19. Be1 g6 $1 20. gxh5 Rxh5 21. Qg4 {Black must now prevent Nxe6!}
+Qb6 $1 22. Nce2 Rc8 23. Kb1 Rc4 24. b3 Rc8 $36 {[%cal Bc4c8,Bc8a8,Ba8a4][%mdl
+2080] White is under pressure.} 25. Kb2 (25. f5 $11 exf5 26. Qg1) 25... a5 $15
+26. b4 axb4 27. axb4 Ra8 28. Ra1 Ra4 29. Rb3 Bc8 30. Qh3 Bd7 31. Raa3 Qd8 {
+[%cal Re7h4]} 32. Qd3 Qb6 (32... Qb8 $1 $15 33. Nf3 Kf8) 33. Nf3 Qc6 34. Ned4 (
+34. Ng5 $5) 34... Qb6 35. Ng5 Bxg5 36. fxg5 Qb8 (36... Rh8 $11) 37. Nf3 $14 Ke7
+38. Bc3 (38. Qd4 $1 $14) 38... Rh8 39. Bd4 Rc8 (39... Ke8 $11) 40. Nd2 Bc6 {[#]
+} ({Better is} 40... Qc7 $14) 41. Nb1 $2 (41. h5 $1 $18 {[%mdl 512]}) 41... Rh8
+(41... Be8 $11) 42. Nc3 $16 Rxh4 $2 (42... Kf8 $16) 43. Nxa4 $2 (43. Nxe4 $18
+dxe4 44. Qc3) 43... bxa4 $11 44. b5 $1 {[%cal Rb5c6]} axb3 45. bxc6 bxc2+ (
+45... Nxg5 46. Bc5+ Kd8 {[#]} 47. c7+ $1 {[%mdl 512]} Kxc7 48. Bd6+ Kc8 49.
+Bxb8 $18) 46. Rb3 {[#]} c1=Q+ $1 47. Kxc1 Rh1+ 48. Kc2 $2 (48. Kb2 $1 $11 Rh2+
+49. Kc1) 48... Rh2+ $2 ({Black should try} 48... Qa8 $19 49. Rb7+ Kf8) 49. Kc1
+$1 Rh1+ $2 (49... Qa8 $11 50. Rb7+ Kf8) 50. Kc2 $19 Rh2+ $2 (50... Qa8 $19 {
+( -> ...Qa2+)} 51. Rb7+ Kf8) 51. Kc1 $1 $11 Rh1+ {Precision: White = 38%,
+Black = 40%.} 1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.12"]
+[Round "5"]
+[White "Grischuk, Alexander"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "D39"]
+[WhiteElo "2782"]
+[BlackElo "2791"]
+[Annotator "TA"]
+[PlyCount "66"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 32,66,8,7,33,0,0,0,0,-35,-30,-60,0,-25,-12,-50,17,0,386,392,29993,0,0,0,
+0,-104,401,402,357,0,0,-1324,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3
+Bb4 5. Bg5 dxc4 6. e4 c5 7. Bxc4 cxd4 8. Nxd4 Bxc3+ 9. bxc3 Qa5 10. Bb5+ Nbd7 {
+[%cal Bb8d7,Bd7e5,Be5g6,Bg6f4][%mdl 32]} 11. Bxf6 Qxc3+ 12. Kf1 gxf6 13. h4 Qb4
+{D39: Queen's Gambit Declined: Ragozin Defence with 5 Bg5 dxc4} 14. Rh3 a6 15.
+Be2 Ne5 16. Rb1 Qd6 17. Rc3 {LiveBook: 5 Games} O-O {[#]} 18. Qd2 $146 {
+[%mdl 1024] White has compensation.} ({Predecessor:} 18. h5 Rd8 19. Qb3 Bd7 20.
+Rd1 Qf8 21. Rc7 {1/2-1/2 (41) Giri,A (2769)-Harikrishna,P (2758) Shenzhen 2017}
+) 18... Ng6 $1 19. h5 Nf4 20. Qe3 e5 21. Nc2 ({Avoid the trap} 21. Qg3+ $2 Kh8
+$17) 21... b5 22. Rd1 Qe7 $1 23. Qb6 (23. g3 $5 {[%cal Rg3f4]} Nxe2 24. Qxe2
+$15) 23... Qe6 (23... Nxe2 $15 24. Kxe2 Qe6) 24. Rd6 $1 $36 {[%cal Rd6e6][%mdl
+2048] Black is under pressure.} ({Reject} 24. Rg3+ Kh8 $15) 24... Qxa2 $2 {
+[%mdl 8192]} (24... Qe8 $1 $11 {and Black stays safe.}) 25. Rg3+ $1 $18 Kh8 $2
+{[#]} (25... Ng6 $18) 26. Qc7 $2 (26. Qd8 $1 {[%mdl 512] mates} Bg4 (26... Rxd8
+27. Rxd8#) 27. Qxf6+ Kg8 28. h6 Qb1+ 29. Rd1 Qxd1+ 30. Bxd1 Nh5 31. Rxg4+ Ng7
+32. Qxg7#) 26... Nxe2 $17 27. Qe7 $1 {[%cal Re7f8]} Nxg3+ 28. fxg3 {[%cal
+Re7f8]} Qb1+ $2 {[%mdl 8192]} (28... Qc4+ $1 $17 {stays on course.} 29. Kg1
+Qc5+ 30. Kh2 Qxd6 $1 {[%mdl 512]} 31. Qxd6 Be6) 29. Ne1 $18 {[%cal Re7f8]} Kg8
+{[#]} 30. Rd8 $2 ({White must play} 30. h6 $1 $18 Qxe4 31. Rd8 Qe2+ 32. Kxe2
+Bg4+ 33. Ke3 Rfxd8 34. Qxf6) 30... Rxd8 $11 31. Qxd8+ Kg7 {[#]} 32. h6+ $1 {
+[%mdl 512]} Kg6 (32... Kxh6 33. Qxf6+) 33. Qg8+ Kxh6 {Precision: White = 32%,
+Black = 26%.} 1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.12"]
+[Round "5"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2782"]
+[BlackElo "2812"]
+[Annotator "TA"]
+[PlyCount "59"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 25,59,0,18,0,0,-22,21,0,-2,-28,-20,-28,-27,-47,-47,-37,-58,-49,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. Nf3 d5 2. e3 Nf6 3. c4 e6 4. Nc3 Be7 5. b3 c5
+6. Bb2 O-O 7. Rc1 dxc4 8. bxc4 b6 9. g3 Bb7 10. Bg2 Nc6 11. O-O Rc8 12. Qe2 Qc7
+13. Rfd1 Qb8 {LiveBook: 15 Partien. A14: Reti-Eröffnung} (13... a6 14. Ba1 Rfd8
+15. d3 h6 16. Rb1 Ba8 17. Ne1 Rb8 18. f4 Ne8 19. f5 Bf6 20. fxe6 fxe6 21. Bh3 {
+1/2-1/2 (58) Zherebukh,Y (2632)-Akobian,V (2661) Saint Louis 2017}) 14. d4 cxd4
+15. exd4 Rfe8 16. d5 exd5 17. Nxd5 (17. cxd5 {looks sharper.} Bf8 18. Qb5 Nb4
+19. Nd4 a6 20. Qxb6 Nfxd5 21. Nxd5 Rxc1 22. Bxc1 Bxd5 23. Qxb8 Rxb8 24. a3)
+17... Nxd5 18. cxd5 Bg5 $1 19. Qxe8+ Rxe8 20. dxc6 $146 {[%cal Bd5c6,Bc6c7]
+[%mdl 32]} ({Vorgänger:} 20. Nxg5 Nb4 21. Ba3 {0-1 (42) Helbig,P (2250)
+-Collier,D Bristol 1991}) 20... Bxc1 21. Be5 $1 {[%cal Re5b8]} Rxe5 22. Nxe5 {
+Die Stellung ist ausgeglichen.} Ba6 23. Rd7 $1 Bg5 $1 24. c7 $1 {[%cal Rc7b8]}
+Qc8 $1 {[#] Droht ...h5 und aus.} 25. Bd5 Bf6 {Und weiter mit ...h5 wäre nett.}
+26. Bxf7+ Kf8 27. Be6 {zielt auf Tf7+ ab.} Ke8 28. Bf7+ Kf8 29. Be6 {[#] Und
+Tf7+ würde nun gewinnen.} Ke8 30. Bf7+ 1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.12"]
+[Round "5"]
+[White "Anand, Viswanathan"]
+[Black "Aronian, Levon"]
+[Result "0-1"]
+[ECO "C67"]
+[WhiteElo "2771"]
+[BlackElo "2794"]
+[Annotator "TA"]
+[PlyCount "78"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 25,78,10,14,14,13,14,13,13,25,23,39,40,40,34,27,30,33,29,50,31,42,29,37,
+33,60,54,54,51,55,61,61,61,66,65,72,76,69,73,258,245,253,250,372,133,129,122,
+154,138,143,0,0,-437,-434,-434,-433]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O
+Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8. Rxe5 O-O 9. Nc3 {[%cal Bb1c3,Bc3d5,
+Bd5e3,Be3f5,Bf5e7][%mdl 32] C67: Ruy Lopez: Berlin Defence: 4 0-0 Nxe4} Ne8 10.
+Nd5 Bd6 11. Re1 c6 12. Ne3 Bc7 (12... Be7 13. c4 Nc7 14. d4 d5 15. cxd5 Nxd5
+16. Nxd5 cxd5 {1/2-1/2 (54) Anand,V (2759)-Aronian,L (2764) Leuven 2018}) 13.
+Nf5 d5 {LiveBook: 94 Games} 14. Ne7+ Kh8 {Hoping for ...Be6.} 15. Nxc8 Rxc8 16.
+d3 {[%cal Bd2d3,Bd3d4][%mdl 32]} Qf6 {[#]} 17. Qg4 $146 Bb6 18. Qf4 Qd8 19. c3
+Nc7 20. d4 Ne6 21. Qf3 Ng5 22. Bxg5 (22. Qf5 {is more complex.} Ne6 23. Bd3 g6
+24. Qf3 Kg8 25. g3) 22... Qxg5 23. Re5 Qd8 24. Rae1 Kg8 25. g3 Rc7 26. h4 $36 {
+[%cal Bh2h4,Bh4h5][%mdl 2080] White has some pressure.} f6 27. Re6 f5 28. Bd3
+Rcf7 29. h5 Qg5 30. Kg2 Bc7 31. c4 g6 $2 (31... Qd8 $16 {keeps fighting.}) 32.
+hxg6 $18 hxg6 33. cxd5 cxd5 34. Bb5 $2 (34. Qxd5 $18 Bxg3 35. fxg3 Qd2+ 36.
+R1e2 Qxd3 37. Rxg6+ Kh8 38. Kf2) 34... f4 $16 {[#]} 35. g4 $1 {Strongly
+threatening Be8.} Rh7 36. Bd3 Qh4 37. Rxg6+ (37. Bxg6 $16 Qh2+ 38. Kf1 Qh1+ 39.
+Ke2 Qxf3+ 40. Kxf3 Rh3+ 41. Kg2) 37... Kh8 $11 {...Qh2+ is the strong threat.}
+38. g5 $2 {[%mdl 8192] [#]} (38. Rg1 $11 {and White stays safe.}) 38... Qh2+ $1
+$19 ({Not} 38... Ba5 39. Rb1 $14) 39. Kf1 {Threatens to win with Rh6.} Qh1+ {
+Precision: White = 71%, Black = 42%.} 0-1
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.12"]
+[Round "6"]
+[White "Dominguez Perez, Leinier"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[ECO "B81"]
+[WhiteElo "2826"]
+[BlackElo "2751"]
+[Annotator "TA"]
+[PlyCount "93"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,93,21,27,35,32,26,47,24,36,46,62,43,43,50,63,0,63,65,59,32,58,46,104,
+13,56,40,35,29,45,75,49,-18,-16,-12,-22,-50,-41,-50,-29,-44,-41,-60,-58,-55,
+-29,-19,-20,-18,18,-33,-41,-36,-29,-87,-87,-88,-89,-87,-85,-104,9,5,8,8,16,0,0,
+0,0,0,0,0,0,0]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7.
+g4 Nfd7 {B81: Sizilianisch (Keres-Angriff)} 8. Bg2 Be7 9. Be3 (9. g5 b5 10. e5
+d5 11. f4 b4 12. Nce2 a5 13. Be3 Ba6 14. h4 Bc5 15. h5 Qb6 16. g6 hxg6 17. hxg6
+Rxh1+ 18. Bxh1 fxg6 {1/2-1/2 (44) Karjakin,S (2782)-Grischuk,A (2766) Leuven
+2018}) 9... Nc6 10. h4 O-O 11. g5 Nde5 {LiveBook: 9 Partien} 12. Qe2 Nxd4 13.
+Bxd4 b5 14. f4 Nc6 15. Be3 Qa5 16. Qf2 {[#]} Rb8 $146 17. O-O Qc7 18. f5 (18.
+Ne2 $14) 18... Re8 (18... f6 $11) 19. f6 $14 Bf8 20. h5 Ne5 21. Qg3 Rb7 (21...
+b4 $14 22. Nd1 a5) 22. Bd4 (22. Rad1 $16) 22... gxf6 23. Rxf6 ({Doch nicht} 23.
+gxf6+ Kh8 $15) 23... Bg7 24. Raf1 Qc4 25. Bxe5 Qc5+ 26. Kh2 (26. Kh1 $14 Qxe5
+27. Qxe5 dxe5 28. R6f3) 26... Qxe5 $11 27. Qxe5 dxe5 28. R6f2 Bf8 29. Nd1 Be7
+30. Rxf7 Bxg5 31. Rxb7 Bxb7 32. Nf2 Rf8 33. Kg3 Bf4+ 34. Kh4 Kg7 35. Ng4 (35.
+Nd3 $11) 35... Rd8 $15 36. Bf3 b4 37. Rf2 (37. Nf2 $11 {bleibt in der
+Remisbreite.}) 37... a5 $17 38. Rg2 Kf7 39. Nf2 Ba6 40. Nh3 {[#]} Kf6 (40...
+Bd2 $1 $17 41. Be2 Be1+ 42. Kg4 Bxe2+ 43. Rxe2 Rg8+ 44. Ng5+ Kf6 45. Rxe1 Rxg5+
+46. Kf3 Rxh5) 41. Nxf4 $11 {Die Stellung ist ausgeglichen.} exf4 {[%mdl 4096]
+Endspiel KTL-KTL} 42. Rg5 $1 {Droht e5+ und aus.} Rd2 43. Rxa5 Be2 44. Kg4 {
+Droht stark e5+.} Bxf3+ 45. Kxf3 Rxc2 46. Kxf4 Rf2+ 47. Ke3 {Precision: Weiß =
+61%, Schwarz = 41%.} 1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.12"]
+[Round "6"]
+[White "Aronian, Levon"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2806"]
+[BlackElo "2824"]
+[Annotator "TA"]
+[PlyCount "96"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 32,96,39,15,15,15,34,41,60,-9,0,-1,0,-20,0,-16,-14,-36,-24,-55,-37,-62,
+0,0,176,155,388,385,375,-225,-203,-438,-454,-452,-420,-539,-339,-445,-431,-674,
+-679,-660,-634,-1155,-1140,-1108,-1002,-954,-972,-12833,-12834,-12833,-12834,
+-12834,-12835,-12835,-12835,-12834,-12835,-12835,-12835,-12839,-12839,-12840,
+-12840,-12841,-12841]} 1. e4 c5 2. Nf3 d6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Nf6 6.
+Be3 Ng4 7. Bc1 Nf6 8. f3 e5 9. Nb3 Be6 10. Be3 h5 11. Qd2 Nbd7 12. O-O-O Rc8
+13. Kb1 {B90: Sicilian Najdorf: Unusual White 6th moves, 6 Be3 Ng4 and 6 Be3 e5
+} b5 (13... Be7 14. h4 b5 15. Bg5 Qb6 16. Nd5 Nxd5 17. exd5 Bf5 18. Bd3 Bxd3
+19. Qxd3 Qd8 20. Be3 Rc4 21. Nd2 Rxh4 22. Rxh4 Bxh4 {1-0 (44) Yu,Y (2751)-Zhou,
+J (2597) Shenzhen 2017}) 14. g3 Be7 15. Nd5 Bxd5 16. exd5 Nb6 17. Bxb6 {
+LiveBook: 9 Games} Qxb6 18. Bh3 Rc7 19. Rhe1 h4 $146 ({Predecessor:} 19... Nd7
+20. f4 Bf6 21. Nd4 O-O {1-0 (39) Corrales Jimenez,F (2585)-Benitah,Y (2377)
+Metz 2010}) 20. Qg2 (20. Bg2 $14) 20... a5 {[%cal Ba6a5,Ba5a4,Ba4a3][%mdl 32]
+Black wants to play ...a4.} 21. f4 a4 $1 {[%cal Ra4b3]} 22. Nc1 {[%cal Bb3c1,
+Bc1d3,Bd3f2,Bf2e4][%mdl 32]} O-O 23. fxe5 dxe5 24. gxh4 a3 {...axb2 is the
+strong threat.} 25. Rg1 {[%csl Gg1][%cal Rg2g7]} Ne8 $1 {White must now
+prevent ...axb2.} 26. Nd3 Bf6 (26... e4 $15 27. Qxe4 axb2) 27. Nf2 $11 {
+Hoping for Ne4.} e4 $2 (27... Rc4 $1 $11 {and Black is okay.}) 28. Nxe4 $18
+Bxb2 $2 (28... Rc4 $16 {keeps fighting.}) 29. d6 Rc4 {[%cal Bc7c4,Bc4b4,Bb4e4]
+[%mdl 32] [#]} 30. d7 $4 {[%mdl 8192] [#]} (30. c3 $1 $18 {[%mdl 512] was the
+only winning move.} Rxe4 (30... Bxc3 31. Nxc3) 31. d7 Bxc3 32. Qxe4 (32. d8=Q
+$2 Rb4+ 33. Kc1 Qe3+ 34. Rd2 Bxd2+ 35. Qdxd2 Qc5+ 36. Kd1 Rd4 $19)) 30... Rb4
+$1 $40 {[%mdl 128] aiming for ...Be5+. White is in trouble.} 31. Rd3 $2 (31.
+Nd2 Nd6 32. Rgf1) 31... Bf6+ $1 32. Kc1 Rxe4 $1 33. Rgd1 Rxh4 34. Bg4 Nc7 {
+Black is clearly winning.} 35. d8=Q (35. Qg1 $142 Qxg1 36. Rxg1) 35... Bxd8 ({
+Weaker is} 35... Rxd8 36. Rxd8+ Bxd8 37. Rxd8+ Kh7 38. Bf5+ g6 39. Qg3 $17) 36.
+Rxd8 Qe3+ 37. Kb1 Qc3 {[%csl Ga3][%cal Rc3b2]} 38. Rxf8+ Kxf8 {[%csl Ga3][%cal
+Rc3b2]} 39. Rd8+ Ne8 40. Rxe8+ Kxe8 {[%csl Ga3][%cal Rc3b2][%mdl 4096] Endgame
+KQR-KQB} 41. Qe4+ Kf8 {[%csl Ga3][%cal Rc3b2]} 42. Qa8+ Ke7 {[%csl Ga3][%cal
+Rc3b2]} 43. Qe4+ Kd6 {[%csl Ga3][%cal Rc3b2]} 44. Qf4+ Qe5 45. Qb4+ Kc6 {
+( -> ...Qe3)} 46. Qxa3 Rxg4 47. Qa6+ Kd7 {[%cal Rg4g1]} 48. Qb7+ Kd8 {
+Precision: White = 35%, Black = 36%.} 0-1
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.12"]
+[Round "6"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteElo "2798"]
+[BlackElo "2754"]
+[Annotator "TA"]
+[PlyCount "70"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,70,24,15,-56,-49,-102,-101,-94,-50,-135,-130,-207,-209,-220,-212,
+-214,-218,-215,-188,-172,-105,-113,-110,-124,-103,-104,-127,-108,-112,-142,
+-147,-270,-151,-133,-154,-360,-328,-310,-180,-608,-528,-564,-557,-525,-523,
+-579,-559,-600,-589,-1335,-641,-635,-648,-483,-631,-621,-566,-682,-663,-727,
+-724]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. O-O d6 6. Re1 g5 {[%cal
+Bg7g5,Bg5g4][%mdl 32] LiveBook: 4 Games. C55: Two Knights: 4 d3, 4 d4 exd4 5
+e5 and Max Lange Attack} 7. d4 (7. Nfd2 $11) (7. Nc3 Bg7 8. d4 O-O 9. dxe5 dxe5
+10. Be3 Bg4 11. Bc5 Re8 12. Bb5 a6 13. Bxc6 bxc6 14. Qxd8 Raxd8 {1/2-1/2 (63)
+Aronian,L (2764)-Mamedyarov,S (2808) Leuven 2018}) 7... g4 $15 8. dxe5 ({
+White should try} 8. Nh4 $15) 8... gxf3 $17 {Black is better.} 9. exf6 {
+Black must now prevent e5.} Ne5 $146 {Threatens to win with ...Rg8.} ({
+Predecessor:} 9... Rg8 10. g3 Ne5 11. Bf1 Qxf6 12. Nc3 c6 13. Be3 h5 14. Qd2 {
+0-1 (25) Sebastian,D (2445)-Beerdsen,T (2413) chess.com INT 2017}) 10. Nd2 (10.
+Na3 $15) 10... Qxf6 11. gxf3 (11. Bb5+ $17 c6 12. Bf1 fxg2 13. Bxg2) 11... Rg8+
+$19 12. Kh1 Nxc4 13. Nxc4 Bh3 $1 {[%cal Rh3g2]} 14. Ne3 h5 15. Bd2 {[#]} O-O-O
+(15... Bh6 $1 $19 {[%cal Rh6e3]} 16. Bc3 Bxe3 17. Bxf6 Bg2+ 18. Kg1 Bh3+ 19.
+Kh1 Bg2+ 20. Kg1 Bh3+ 21. Kh1) 16. Qe2 $17 d5 17. Rg1 Rxg1+ 18. Rxg1 dxe4 19.
+fxe4 Qxb2 20. Qxh5 Be6 $36 {[%mdl 2048] White is under strong pressure.} 21.
+Rg8 (21. Bc1 $17 Qxa2 22. Qb5) 21... f6 ({Worse is} 21... Qxa2 22. Qh8 $11) (
+21... f5 $19 22. Rg5 Qd4) 22. Rh8 Qd4 ({Weaker is} 22... Qxa2 23. Bc3 $14) 23.
+Qa5 $2 (23. Be1 $17 {is the only way for White.}) 23... Qxe4+ $19 24. Kg1 a6 (
+24... b6 $142 25. Qxa7 f5) 25. Bc3 $2 (25. Qh5) 25... Bd5 {Black is clearly
+winning.} 26. Nxd5 Rxd5 27. Rxf8+ {[#]} Kd7 $1 28. Rf7+ Ke8 {Strongly
+threatening ...Rd1+.} 29. Re7+ Kxe7 30. Qxc7+ {[%mdl 4096] Endgame KQR-KQB} Rd7
+(30... Ke8 $142 31. Qc8+ Rd8 32. Qxd8+ Kxd8) 31. Qc5+ Kf7 {( -> ...Rd1+)} 32.
+Qh5+ Qg6+ 33. Qxg6+ Kxg6 34. Bb4 Rc7 35. c3 b6 {Precision: White = 19%, Black
+= 86%.} 0-1
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.12"]
+[Round "6"]
+[White "Karjakin, Sergey"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2793"]
+[BlackElo "2738"]
+[Annotator "TA"]
+[PlyCount "95"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,95,35,39,33,25,41,0,33,22,25,28,53,47,41,39,41,47,53,5,24,25,29,14,
+16,5,18,12,33,0,0,0,0,7,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 a6
+5. cxd5 exd5 6. Bg5 {D37: Queen's Gambit Declined: 5 Bf4} Be6 7. e3 Nbd7 8. Bd3
+h6 (8... Bd6 9. O-O O-O 10. Rc1 c6 11. Bf4 Bxf4 12. exf4 Bg4 13. Be2 Bxf3 14.
+Bxf3 {1-0 (122) Nakamura,H (2769)-Caruana,F (2816) Paris 2018}) 9. Bf4 g5 10.
+Bg3 $1 {LiveBook: 47 Games} Nh5 11. Be5 (11. Nd2 Nxg3 12. hxg3 {1-0 (46)
+Karjakin,S (2753)-Caruana,F (2811) Wijk aan Zee 2018}) 11... Nhf6 12. Bg3 Nh5
+$1 13. Qb3 Nxg3 14. hxg3 {[#]} b5 $146 15. Qc2 Bg7 16. Ne2 Rc8 17. Qc6 O-O 18.
+Rc1 Nb8 19. Qc2 Nd7 20. O-O c5 21. dxc5 Nxc5 22. Ned4 Qd7 23. Qb1 Nxd3 {
+The position is equal.} 24. Qxd3 Rxc1 25. Rxc1 Rc8 26. Rd1 Bg4 27. a4 bxa4 28.
+Qxa6 Rc4 29. b3 axb3 30. Nxb3 Rc3 31. Nbd4 Rc4 32. Qa8+ Rc8 33. Qa5 Bxd4 34.
+Rxd4 Qf5 {[#] Threatens to win with ...Rc1+.} 35. Ne1 (35. Rxd5 $2 Rc1+ 36. Ne1
+{[#]} (36. Kh2 $2 Qb1 $19) 36... Rxe1+ $1 {[%mdl 512]} 37. Qxe1 Qxd5 $19) 35...
+Qb1 36. f3 ({Not} 36. Rxg4 $2 Rc1 $19) 36... Be6 37. Kf2 Rb8 38. Rd2 Rc8 39.
+Qa3 Rb8 40. Qc3 Rc8 41. Qb2 (41. Qe5 {feels hotter.} Kh7 42. g4 Rc4 43. Qb2
+Qxb2 44. Rxb2 d4 45. exd4 Rxd4 46. Ke3) 41... Qxb2 42. Rxb2 $11 {[%mdl 4096]
+Endgame KRB-KRN} Bf5 43. g4 Bg6 44. Rb5 Rd8 $1 45. Ke2 Kg7 46. Nd3 Bxd3+ 47.
+Kxd3 Ra8 48. Rxd5 {Precision: White = 68%, Black = 80%.} 1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.12"]
+[Round "6"]
+[White "Anand, Viswanathan"]
+[Black "So, Wesley"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2758"]
+[BlackElo "2852"]
+[Annotator "TA"]
+[PlyCount "90"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 25,90,-8,0,-7,-7,-20,0,-17,-18,-12,1,6,16,0,10,-32,0,-61,-42,-100,-95,
+-80,-90,-136,-112,-111,-111,-121,-123,-143,-128,-142,-104,-104,-97,-104,-100,
+-110,-110,-105,-109,-123,-128,-126,-121,-152,-161,-244,-248,-246,-237,-275,
+-268,-278,-273,-341,-321,-333,-331,-381,-371,-380,-373,-367,-362,-354,-347]} 1.
+e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. c3 d5 7. exd5 Nxd5 8. Re1
+Bg4 9. h3 Bh5 10. Nbd2 Nb6 11. Bb5 Bd6 12. Bxc6 {C55: Two Knights: 4 d3, 4 d4
+exd4 5 e5 and Max Lange Attack} (12. Ne4 f5 13. Ng3 Bxf3 14. Qxf3 Ne7 15. Qxb7
+c6 16. Bc4+ Nxc4 17. Qb3 Kh8 18. Qxc4 Qd7 19. Bd2 Nd5 {1/2-1/2 (52) Vachier
+Lagrave,M (2789)-Giri,A (2782) Leuven 2018}) 12... bxc6 13. Ne4 Re8 {LiveBook:
+3 Games} 14. c4 {aiming for c5.The position is equal.} Nd7 $146 ({Predecessor:
+} 14... Bb4 15. Rf1 Bf8 16. b3 Qd7 17. Bb2 f6 18. g4 Bf7 19. Qe2 Nc8 {0-1 (57)
+Schachinger,M (2426)-Menezes,C (2299) Pinkafeld 2015}) 15. Bd2 c5 16. Ng3 Bg6
+17. Bc3 f6 18. Nh4 Bf7 19. Nhf5 Bf8 20. Qe2 a5 {[%cal Ba7a5,Ba5a4][%mdl 32]}
+21. b3 (21. Qd2 $11) 21... a4 $15 22. Qc2 ({Better is} 22. Qd2 $15) 22... Nb8
+$17 {[%cal Bd7b8,Bb8c6,Bc6b4][%mdl 32]} 23. Ne4 Nc6 24. Nfg3 Nb4 25. Bxb4 cxb4
+26. Rad1 Qd7 27. Nd2 axb3 28. axb3 Bc5 29. Nf3 Ra3 30. Ne4 Bd4 31. Rb1 Rea8 32.
+Nxd4 Qxd4 33. Qd2 Ra2 34. Qe3 Qxe3 35. fxe3 Bg6 36. Nf2 (36. Nc5 $142) 36...
+R8a3 $19 37. e4 Rc2 38. Ra1 Rb2 ({Don't take} 38... Rxb3 39. Ra8+ Kf7 40. Rc8
+$17) 39. g4 Rbxb3 40. Reb1 Rxb1+ 41. Rxb1 c5 42. Rb2 Ra1+ {Black is winning.}
+43. Kg2 Be8 44. Kf3 Ba4 45. Ke2 Kf7 {Precision: White = 33%, Black = 78%.} 0-1
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.12"]
+[Round "7"]
+[White "So, Wesley"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[WhiteElo "2852"]
+[BlackElo "2806"]
+[Annotator "TA"]
+[PlyCount "109"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,109,18,9,6,-14,-21,-14,-8,-18,41,31,39,19,33,25,40,34,37,-23,20,0,0,
+-25,0,-12,-14,-4,0,-83,-60,-71,-69,-58,-48,-56,-49,-142,-139,-149,-82,-108,-81,
+-68,-89,-87,-70,-72,-31,-26,-25,-27,-24,-26,-8,-34,-34,-73,-69,-78,-70,-83,-34,
+-81,-84,-70,-8,-12,0,-8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1.
+Nf3 Nf6 2. c4 e6 3. b3 d5 4. Bb2 c5 5. cxd5 exd5 6. g3 {A13: English Opening:
+1...e6} Nc6 7. Bg2 d4 8. O-O Be7 9. Na3 {[%cal Bb1a3,Ba3c4,Bc4e5][%mdl 32]} O-O
+10. Nc4 {LiveBook: 3 Games} (10. e3 Bg4 11. h3 Bh5 12. Re1 Rc8 {1/2-1/2 (44)
+So,W (2778)-Aronian,L (2764) Stavanger 2018}) 10... Bf5 (10... Be6 11. e3 Rc8
+12. exd4 cxd4 {1/2-1/2 (69) Giri,A (2777)-Ding,L (2778) Shamkir 2018}) 11. Rc1
+Rc8 12. Nfe5 Nxe5 13. Nxe5 Be4 $146 (13... Nd7 $11 14. Nd3 Qb6) 14. Bh3 $14 Rc7
+15. f3 Qd5 16. fxe4 Qxe5 17. d3 Ne8 18. Kg2 (18. Rf5 $14 Qd6 19. Rc2) 18... Qd6
+19. Rc2 Bf6 20. Qd2 Be5 21. Rfc1 b6 22. a3 f5 23. exf5 (23. Bxf5 $11 {remains
+equal.} Qf6 24. Kh1) 23... Nf6 24. e4 dxe3 $1 25. Qxe3 Bxb2 26. Rxb2 {With the
+idea Qe6+.} Re7 27. Qf4 {[#]} ({White should try} 27. Qd2 $15) 27... Qxf4 $1
+$17 28. gxf4 Rd8 ({Better is} 28... Re3 29. Rd2 Rd8) 29. Kg1 Rd4 30. b4 cxb4 $1
+31. axb4 Rxf4 32. Ra1 Nd5 33. Rba2 $1 Rxb4 {[#] Strongly threatening ...a5.}
+34. Rxa7 {aiming for Bg2.} Kf7 35. Bg2 Nc3 36. Rxe7+ Kxe7 $11 {[%mdl 4096]
+Endgame KRB-KRN} 37. Ra3 Nb5 38. Ra2 Kf6 39. Be4 Nc3 40. Rc2 Rb3 41. Kf2 b5 (
+41... Ke5 $15 42. Bc6 Kxf5) 42. Ke3 {The position is equal.} b4 43. Kd4 Nb5+
+44. Ke3 Rc3 45. Rb2 b3 46. Bd5 Nd6 47. Bxb3 Nxf5+ 48. Ke4 Rc7 49. Bc4 Re7+ 50.
+Kf4 {Rb6+ would kill now.} g5+ 51. Kg4 {Rb6+ is the strong threat.} Ne3+ 52.
+Kh5 Nxc4 53. dxc4 Re4 {[%csl Gg5][%cal Re4h4]} 54. Rf2+ Kg7 {( -> ...h6)} 55.
+Kxg5 {Precision: White = 56%, Black = 57%.} 1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.12"]
+[Round "7"]
+[White "Nakamura, Hikaru"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[ECO "B51"]
+[WhiteElo "2824"]
+[BlackElo "2798"]
+[Annotator "TA"]
+[PlyCount "135"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,135,0,0,0,0,0,0,0,31,27,14,27,27,36,52,39,56,61,60,62,75,65,63,73,
+123,130,180,172,182,175,168,187,168,182,216,179,201,179,183,183,183,183,223,
+228,219,221,328,359,439,418,456,425,510,502,672,655,623,314,316,151,200,187,
+197,129,140,140,134,145,147,145,163,149,171,143,299,291,445,267,445,443,437,
+421,437,402,309,260,1324,1176,1433,714,714,706,584,549,6085,6085,6085,6085,
+6085,6085,5350,5347,5193,4089,2605,2210,6085,917,6079,5608,6085,6070,5825,5825,
+5620,5528,5575,5331,5057,4710]} 1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5.
+Qxd4 a6 6. Be2 {B51: Sicilian: Moscow Variation (3 Bb5+) without 3...Bd7} Ngf6
+7. c4 g6 8. Nc3 Bg7 9. O-O O-O {LiveBook: 5 Games} 10. Qe3 $146 ({Predecessor:
+} 10. Qd3 Nc5 11. Qc2 b5 12. cxb5 axb5 13. Bxb5 Bb7 {1/2-1/2 (59) Neiksans,A 
+(2560)-Cheparinov,I (2672) Warsaw 2013}) 10... b6 11. Rd1 Bb7 12. Ng5 Qc7 13.
+f3 Rac8 14. Bd2 Ne5 15. b3 e6 16. Rac1 h6 17. Nh3 g5 18. Na4 Ned7 19. Bc3 Rfd8
+20. Nf2 Nc5 21. Nxc5 bxc5 {[#]} 22. f4 $1 gxf4 23. Qxf4 Qe7 24. Rd3 {Black
+must now prevent Rg3.} e5 25. Qh4 Rd7 26. Bf3 Kh7 27. Rf1 Rg8 28. Bd2 Bf8 29.
+Nh1 Nd5 30. Qxe7 Nxe7 31. Ng3 f5 (31... Nc6 $142 32. Bh5 Nd8) 32. exf5 $18 Rxg3
+33. hxg3 e4 34. Bg4 exd3 35. f6 $1 {[%csl LRd7,LRe7]} Rc7 36. fxe7 Bxe7 37.
+Bf5+ Kg7 38. Bxd3 (38. Ba5 $18 {and the rest is easy.} Bd8 39. Bxc7 Bxc7 40.
+Rd1) 38... Rc8 39. Bc3+ Kg8 40. Bh7+ (40. Re1 $18 Bg5 41. Re6) 40... Kxh7 $16
+41. Rf7+ Kg8 42. Rxe7 {[%mdl 4096] Endgame KRB-KRB} Bc6 43. Re6 Rd8 44. Rxh6
+Kf7 45. Be5 dxe5 $2 (45... Be4 $16) 46. Rxc6 {KR-KR} Rd2 (46... Rd1+ $142 47.
+Kf2 Rd2+ 48. Kf3 Rxa2 49. Rc7+ (49. Rxc5 Ra3 $18) 49... Ke6 50. Rxc5 Ra3 51.
+Rc6+ Kd7) 47. Rxa6 $18 e4 48. a4 e3 {...Rd1+ is the strong threat.} 49. Kf1
+Rf2+ 50. Ke1 Rxg2 51. Rc6 Rxg3 $2 (51... Rg1+ 52. Ke2 Rg2+ 53. Kd3 Rb2 54. Rxc5
+e2) 52. Rxc5 {White is clearly winning.} Ke6 53. Rb5 (53. b4 $142 Rg2 54. a5)
+53... Rg2 54. Rd5 Rb2 55. Rd3 e2 56. c5 Ke5 57. c6 Rc2 58. c7 Ke4 59. Rd8 Rxc7
+60. Kxe2 Rc2+ {[#]} 61. Kd1 $1 {[%cal Rd1c2]} Rb2 62. Rb8 Kd3 63. Kc1 Rh2 64.
+Rc8 Rg2 65. Kb1 Rh2 66. Rc5 Rg2 67. Rc4 Rh2 68. a5 {Precision: White = 78%,
+Black = 34%.} 1-0
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.12"]
+[Round "7"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Karjakin, Sergey"]
+[Result "1-0"]
+[ECO "A13"]
+[WhiteElo "2754"]
+[BlackElo "2793"]
+[Annotator "TA"]
+[PlyCount "55"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,55,0,7,-22,-10,-65,-37,-91,-8,-60,-75,-55,0,0,0,-98,0,0,112,99,157,
+139,97,115,165,64,208,200,196,56,245,177,192,178,594,584,646,641,662,553,630,
+611,614,599,608,598]} 1. c4 Nf6 2. Nf3 e6 3. e3 Be7 (3... d5 4. b3 c5 5. Bb2
+Nc6 6. cxd5 exd5 7. d4 cxd4 8. Nxd4 Bb4+ 9. Bc3 Qb6 10. Bb5 O-O 11. Nxc6 Bxc3+
+12. Nxc3 bxc6 13. Be2 c5 14. O-O Be6 15. Na4 {1/2-1/2 (81) Sambuev,B (2522)
+-Wei,Y (2753) Tbilisi 2017}) 4. Nc3 O-O 5. b3 b6 6. Bb2 {A13: English Opening:
+1...e6} Bb7 {LiveBook: 19 Games} 7. Qc2 c5 8. Ng5 $146 (8. Be2 $11) ({
+Predecessor:} 8. Be2 Nc6 9. Rd1 Rc8 10. O-O a6 11. Qb1 {0-1 (31) Gaehler,M 
+(2341)-Kurmann,O (2426) Switzerland 2016}) 8... h6 9. h4 (9. Nf3 $15) 9... Re8
+(9... Nc6 $17) 10. O-O-O ({Better is} 10. Bd3 $1 $11) 10... Nc6 11. a3 Kf8 12.
+Nh7+ Kg8 13. Ng5 Kf8 (13... Na5 $17 14. d4 cxd4 15. Rxd4 Rc8) 14. f4 Rc8 ({
+Much weaker is} 14... hxg5 $6 15. hxg5 Ng8 16. Rh8 $16) (14... Na5 $11 {
+keeps the balance.}) 15. Bd3 $1 $16 d5 {[#]} (15... Qc7 $142) 16. Bg6 $1 hxg5
+17. hxg5 {And now Nxd5 would win.} Ng8 {[#] Hoping for ...d4.} 18. Bh7 $40 {
+[%mdl 128] White mounts an attack.} (18. Nxd5 $1 $18 {Intending Bxg7+! and
+mate.} Nd4 19. exd4 fxg6 20. Ne3) 18... Nf6 (18... d4 $1 $14) 19. gxf6 Bxf6 20.
+g4 ({White must play} 20. cxd5 $18 exd5 21. Bf5) 20... Ke7 $2 (20... dxc4 $14
+21. bxc4 Nd4 22. exd4 Bxh1) 21. g5 Bxc3 22. dxc3 {[%cal Bd2c3,Bc3c4][%mdl 32]}
+Rh8 $2 (22... Qd6 {is more resistant.} 23. cxd5 exd5) 23. cxd5 $18 {White is
+clearly winning.} exd5 24. c4 d4 25. Qe4+ Kd6 26. exd4 {[%cal Be3d4,Bd4c5]
+[%mdl 32]} Kc7 27. dxc5 {White threatens Be5+ and mate.} Qe8 28. Bxg7 {
+Precision: White = 38%, Black = 20%.} 1-0
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.12"]
+[Round "7"]
+[White "Grischuk, Alexander"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2751"]
+[BlackElo "2758"]
+[Annotator "TA"]
+[PlyCount "79"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 25,79,23,17,11,19,17,59,56,63,70,62,17,13,0,0,-10,-3,0,0,-8,0,0,4,0,4,6,
+4,4,4,4,0,0,7,0,9,8,8,8,15,12,25,13,18,0,9,0,0,0,2,0,0,0,0,0,0,0]} 1. d4 {
+Krasenkow,M} Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5
+8. cxd5 Nxd5 9. Nxd5 exd5 10. Bd3 Bb4+ {D37: Damengambit (5.Lf4)} 11. Nd2 Nc6
+12. O-O Be7 13. Rc1 Bf6 {[#] LiveBook: 4 Partien} 14. Nb3 $146 ({Vorgänger:} 
+14. Nf3 Qe7 15. h3 g6 16. Bb5 Bd7 17. Qxd5 Be6 18. Qe4 Bxb2 19. Bxc6 {1/2-1/2 
+(94) Carlsen,M (2822)-Nakamura,H (2792) Saint Louis 2017 CBM 180 [Krasenkow,M]}
+) 14... g6 15. Qd2 Qb6 16. Bd6 {Droht stark Lc5.} Rd8 17. Bc5 Qc7 18. Bd4 Bxd4
+19. exd4 Qd6 20. Rfe1 b6 21. Bb5 Ne7 22. Qg5 Be6 23. Qf6 Rac8 24. a3 Rxc1 25.
+Nxc1 Nf5 26. Ne2 Bc8 27. Qxd6 Nxd6 28. Nc3 Nf5 29. Rd1 Ng7 30. f3 Bb7 31. Kf2
+Ne6 32. h4 Kg7 33. g3 Kf6 {Die Stellung ist ausgeglichen.} 34. Bf1 Ke7 35. Nb5
+a6 36. Nc3 Kd6 37. Bh3 Nc7 38. Re1 Bc8 39. Bf1 Bd7 40. Rc1 {Precision: Weiß =
+59%, Schwarz = 67%.} 1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.12"]
+[Round "7"]
+[White "Caruana, Fabiano"]
+[Black "Dominguez Perez, Leinier"]
+[Result "0-1"]
+[ECO "D41"]
+[WhiteElo "2738"]
+[BlackElo "2826"]
+[Annotator "TA"]
+[PlyCount "108"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,108,35,33,-9,-14,-12,-4,-27,-25,-44,-43,-50,-29,-35,0,-15,0,0,0,-26,
+33,29,42,27,86,66,74,0,0,0,47,57,62,62,68,65,70,74,82,90,87,74,163,183,183,124,
+172,170,162,58,56,-136,0,0,0,0,85,0,0,0,0,0,0,0,13,12,30,5,1285,1333,29977,
+29978,29975,29974,29975,5688,29973,5688,5469,5408,5391,5401,4830,4674,4682,
+4690,4690,4618,4606,-1114,-1099]} 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 Nxd5 5.
+e4 Nxc3 6. bxc3 c5 7. Nf3 cxd4 8. cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O {
+LiveBook: 1190 Games} 11. h4 $146 {D41: Queen's Gambit Declined: Semi-Tarrasch
+with 5 cxd5} ({Predecessor:} 11. Bc4 Nd7 12. O-O b6 13. Rfe1 Bb7 14. Rad1 Rc8
+15. Bb3 Re8 16. h4 h6 17. Qf4 Qc7 18. Qxc7 Rxc7 19. d5 Nc5 20. d6 Rd7 21. Bc4
+a6 22. e5 {1-0 (51) Vachier Lagrave,M (2789)-Giri,A (2782) Leuven 2018}) 11...
+b6 {[%cal Bb7b6,Bb6b5][%mdl 32]} 12. h5 h6 13. g4 {The position is equal.} Bb7
+14. Qe3 Nc6 15. a3 b5 16. Be2 a6 17. Rd1 $1 Qa5+ 18. Kf1 f6 $1 19. Rg1 Ne7 (
+19... Rae8 $11) 20. d5 $14 exd5 21. exd5 Nxd5 (21... Rf7 $1 $11) 22. Qe6+ $16
+Kh8 23. Nh4 (23. Qf5 $1 $16 Ne7 24. Qc5) 23... Nf4 $1 $11 {[%cal Rf4e6]} 24.
+Qe7 Qc3 25. Qxb7 Qh3+ 26. Ng2 Nxe2 27. Kxe2 Qxg4+ 28. Qf3 Qc4+ 29. Qd3 {
+And now Qxc4 would win.} Qg4+ 30. Kf1 Rad8 (30... Rac8 $16) 31. Qxd8 $18 Rxd8
+32. Rxd8+ Kh7 33. Ne3 Qxh5 34. Ra8 (34. Rg4 $18 Qh1+ 35. Ke2) 34... Qc5 $14 {
+...Qc1+ is the strong threat.} 35. Rb8 $2 {[#]} (35. Rg4 $14 {keeps the upper
+hand.}) 35... Qc7 (35... f5 $1 $17 {[%cal Rf5f4]} 36. Rd8 Qxa3) 36. Rf8 $11 Qe7
+37. Rc8 Qd7 (37... Qxa3 $11 38. Rc7 Qa1+ 39. Kg2 Qe5) 38. Rc2 (38. Rc5 $16)
+38... f5 {White must now prevent ...f4.} 39. f4 Qd4 40. Ke2 {aiming for Rc7.}
+Qxf4 {Hoping for ...Qe5.} 41. Rc5 Qh2+ 42. Rg2 Qh5+ 43. Kd2 Qf3 $2 {[%mdl 8192]
+[#]} (43... Qf7 $11) 44. Rc7 $1 $18 {[%cal Rc7g7]} h5 45. Rcxg7+ Kh8 46. Rg8+
+Kh7 47. R2g7+ Kh6 48. Rg5 (48. Rg3 $142 Qf2+ 49. Kd3 Kh7 50. R3g7+ Kh6 51. Rg2
+Qxg2 52. Nxf5+ Kh7 53. Rxg2) 48... Qf4 49. R8g6+ Kh7 50. Rg7+ Kh8 51. Rg8+ Kh7
+52. R5g7+ Kh6 53. Ke2 Qe4 54. Re7 $4 {[%mdl 8192]} (54. Rg1 $18 Qe5 55. R8g6+
+Kh7 56. R6g5 (56. Rxa6 f4 $11)) 54... Qxe7 {Precision: White = 51%, Black =
+45%.} 0-1
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.13"]
+[Round "8"]
+[White "So, Wesley"]
+[Black "Grischuk, Alexander"]
+[Result "1-0"]
+[ECO "A05"]
+[WhiteElo "2852"]
+[BlackElo "2751"]
+[Annotator "TA"]
+[PlyCount "107"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 27,107,50,61,32,28,29,54,47,43,20,27,27,16,0,0,3,12,4,33,0,0,0,0,-12,0,
+0,321,314,331,332,318,331,299,295,306,194,197,190,197,205,244,225,227,231,214,
+154,414,435,424,407,539,407,487,487,522,456,445,439,531,531,677,417,368,0,658,
+586,634,595,984,684,646,593,557,537,2075,2065,29982,29983,29983,29984,29982,
+29981]} 1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 {[%cal Bd2d4,Bd4d5][%mdl
+32]} O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12.
+f3 f4 13. Rc1 g5 14. c5 Ng6 {[#] LiveBook: 217 Games} 15. Kh1 $146 {E99:
+King's Indian: Classical Main Line: 9 Ne1 Nd7 10 f3 f5} ({Predecessor:} 15. Nb5
+Rf7 16. Ba5 b6 17. cxd6 cxd6 18. Be1 a6 19. Nc3 a5 20. Nf2 h5 21. Nb5 Bf8 22.
+Rc3 Rg7 23. h3 Nh4 24. a4 Ne8 25. b4 axb4 {1-0 (58) Mareco,S (2635)-Amin,B 
+(2662) Doha 2016}) 15... Rf7 16. Rg1 Bf8 17. g3 {White is slightly better.} Rg7
+18. cxd6 cxd6 19. gxf4 gxf4 20. Bf1 Bd7 21. Be1 Kh8 22. Qb3 Nh5 23. Nb5 Nh4 24.
+Rxg7 Nxg7 25. Nf2 Qb6 26. Nh3 Be7 $2 {[%mdl 8192]} (26... Nxf3 $1 $11 27. Qxf3
+Bxb5) 27. Bf2 $18 Qd8 {[#]} 28. Bxh4 $1 ({Weaker is} 28. Nxa7 Rb8 $16) 28...
+Bxh4 29. Nxd6 Qe7 30. Qxb7 Rg8 31. Rc7 Qxd6 32. Rxd7 $40 {[%mdl 128] White has
+strong attack.} Qc5 33. Rc7 Qe3 34. Qb3 ({Not} 34. Qxa7 Qxf3+ 35. Bg2 Qd1+ 36.
+Ng1 Qe1 $11) 34... Qe1 35. Qd3 Ne8 36. Rc6 Bf2 $2 {[#]} (36... Bd8 $16 37. Qe2
+Qh4) 37. Qe2 Qxe2 38. Bxe2 Bd4 39. d6 Nf6 40. Bc4 Rb8 41. b3 h6 42. Be6 Kg7 43.
+Rc7+ Kg6 44. Bf7+ Kg7 45. Be6+ $2 (45. Kg2) 45... Kg6 46. Bf5+ Kh5 47. d7 Rd8
+48. Rc8 Bb6 49. b4 {[%cal Bb3b4,Bb4a5][%mdl 32]} Ng8 50. a4 a5 51. Rc6 Bd4 52.
+bxa5 {White mates.} Rb8 53. Rc8 Rb1+ 54. Kg2 {Precision: White = 67%, Black =
+41%.} 1-0
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.13"]
+[Round "8"]
+[White "Dominguez Perez, Leinier"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[WhiteElo "2826"]
+[BlackElo "2754"]
+[Annotator "TA"]
+[PlyCount "83"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,83,43,27,46,47,41,33,33,27,50,8,68,84,70,80,87,92,150,129,217,212,
+197,222,201,193,272,78,77,72,70,78,74,72,90,34,46,65,52,35,27,36,34,33,31,27,
+76,88,85,27,18,8,8,8,8,8,6,6,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 e5 2.
+Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. c3 d6 6. Nbd2 {[%cal Bb1d2,Bd2f1,Bf1e3][%mdl 32]
+LiveBook: 62 Games} g5 {C55: Two Knights: 4 d3, 4 d4 exd4 5 e5 and Max Lange
+Attack} (6... g6 7. Bb3 Bg7 8. Nc4 Be6 9. O-O O-O 10. Re1 Re8 11. a4 a5 12. h3
+Qd7 13. Ne3 d5 14. exd5 Nxd5 {1/2-1/2 (44) Wan,Y (2499)-Yu,Y (2759) Hangzhou
+2018}) 7. h3 {[%cal Bh2h3,Bh3h4][%mdl 32]} Bg7 8. Bb3 O-O $146 {White is
+slightly better.} ({Predecessor:} 8... b5 9. a4 b4 10. a5 a6 11. Nf1 Qe7 12.
+Ne3 bxc3 13. bxc3 g4 14. hxg4 Nxg4 {1-0 (35) Efremova,D (2047)-Mohammad,N St
+Petersburg 2007}) 9. Nf1 Ne7 10. Ne3 Be6 (10... a5 $11) 11. h4 $14 {And now
+Bxe6 would win.} g4 12. Nh2 $1 h5 13. f3 d5 ({Black should try} 13... gxf3 14.
+Nxf3 Bxb3 15. axb3 Qd7) 14. fxg4 $16 hxg4 (14... dxe4 $16 15. g5 Nd7) 15. Nhxg4
+Nxg4 16. Nxg4 f5 {[#]} 17. Nh6+ $1 Kh7 (17... Kh8 $142 18. exf5 Nxf5 19. Nxf5
+Bxf5) 18. Qh5 $2 (18. Bg5 $18 {is more deadly.}) 18... Qe8 {[#]} 19. Qxe8 $1
+Raxe8 20. Nxf5 Nxf5 21. exf5 Rxf5 22. Rf1 (22. Bg5 $16) 22... c6 23. Be3 Rg8
+24. Rxf5 Bxf5 25. Ke2 Bh6 26. Bxh6 Kxh6 $14 {[%mdl 4096] Endgame KRB-KRB} 27.
+Rg1 Kh5 28. g3 Rf8 29. Bd1 (29. Kd2 $16) 29... Bg4+ $1 $11 30. Ke3 {The
+position is equal.} Bxd1 31. Rxd1 {KR-KR} Kg4 32. Rg1 Rf3+ 33. Ke2 d4 34. cxd4
+exd4 35. b4 Rf5 36. a3 a5 37. Rb1 Rb5 38. Kd2 Kxg3 39. a4 Rf5 (39... Rxb4 40.
+Rxb4 Kxh4 41. Rxb7 $18) 40. bxa5 Rxa5 41. Rxb7 Rxa4 42. Kc2 {Precision: White
+= 60%, Black = 62%.} 1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.13"]
+[Round "8"]
+[White "Aronian, Levon"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2806"]
+[BlackElo "2798"]
+[Annotator "TA"]
+[PlyCount "93"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 32,93,10,17,27,23,24,29,23,23,33,33,29,24,87,77,62,37,75,36,42,64,35,30,
+31,-92,-85,-235,-241,-516,-504,-512,-508,-499,0,0,0,0,677,0,29985,458,472,468,
+435,442,447,419,346,237,251,241,235,234,234,232,363,216,380,376,370,330,795,
+795]} 1. e4 c5 2. Nc3 d6 3. Nge2 Nf6 4. d4 cxd4 5. Nxd4 a6 6. Be3 Ng4 7. Bc1
+Nf6 8. f3 e5 9. Nb3 Be6 10. Be3 h5 11. Qd2 Nbd7 12. O-O-O b5 {B90: Sicilian
+Najdorf: Unusual White 6th moves, 6 Be3 Ng4 and 6 Be3 e5} 13. Kb1 Rc8 (13...
+Be7 14. h4 O-O 15. Bg5 Rc8 16. a3 Qc7 17. g4 hxg4 18. fxg4 Nb6 19. Bxf6 Bxf6
+20. g5 {1/2-1/2 (70) Yu,Y (2751)-Vachier Lagrave,M (2789) Riadh 2017}) 14. g3
+Be7 15. Nd5 Nxd5 16. exd5 Bf5 17. Bd3 {LiveBook: 5 Games} Bxd3 18. Qxd3 O-O 19.
+Rhg1 f5 $146 ({Predecessor:} 19... Bg5 20. f4 Bh6 21. Bd2 Re8 {1/2-1/2 (40)
+Santamaria Perez,T (2364)-Jimenez Ariza,J (2379) ICCF email 2016}) 20. h3 Qc7
+21. c3 Qc4 22. Qc2 Qa4 (22... Qc7 $11 {remains equal.}) 23. g4 $1 $16 fxg4 24.
+fxg4 Rf3 25. Bc1 (25. Bh6 $5) 25... h4 26. g5 Nf8 27. Qe2 Rxh3 28. Rg4 (28. Nd2
+$14 {stays ahead.}) 28... Rc4 $17 29. Nc5 (29. Rdg1 $17) 29... Rh2 $1 $19 {
+[%cal Rh2e2]} ({And not} 29... dxc5 30. b3 $16) 30. Qd3 $2 (30. Nxa4 {was
+worth a try.} Rxe2 31. Rxc4 bxc4 32. Rh1) 30... dxc5 (30... Rxg4 $2 {loses.}
+31. Nxa4 e4 32. Qf1 $18) 31. d6 Bxd6 32. Qd5+ Kh7 $2 {[#]} ({Black should play
+} 32... Kh8 $19 33. Rxc4 Qxc4 34. Qxd6 Qe4+ 35. Ka1 Rf2 36. Qxc5 Qf3) 33. g6+
+$1 $11 {[%mdl 512]} Nxg6 34. Rg5 $1 $36 {[%cal Rg5h5][%mdl 2048] White has
+some pressure.} Qc2+ 35. Ka1 {[%cal Rg5h5]} Kh6 $2 {[%mdl 8192]} (35... Nf4 $11
+36. Qf7 Bf8 37. Qxf8 Ne6 38. Rh5+ Kg6 39. Qe8+ Kf6 40. Bg5+ Kf5 41. Bc1+ Kf6
+42. Bg5+ Kf5 43. Bc1+ Kf6) 36. Rg2+ (36. Qf3 $142 Qxc1+ 37. Rxc1 Nf4 38. Rcg1
+Rxc3 39. bxc3 b4 40. Rxg7 Rg2 41. R1xg2 Bf8 {[#]} 42. Qg4 $1 {[%mdl 512]} Be7
+43. Rh7+ $1 {[%mdl 512]} Kxh7 44. Qg7#) 36... Qxc1+ $18 37. Rxc1 {Intending
+Rcg1 and mate.} Rxg2 38. Qxg2 {White threatens Rg1 and mate.} Rf4 39. Rg1 {
+[%csl Gg1][%cal Rg2g6]} Rf6 40. Qg5+ Kh7 41. a4 Kg8 42. Qh5 {[%mdl 1024] White
+has strong compensation.} Kf7 43. a5 c4 (43... Be7 $142 44. c4 b4) 44. Ka2 (44.
+Rg5 $142) 44... Bc7 $2 (44... Be7 {was necessary.} 45. b4 Re6 46. Rf1+ Bf6) 45.
+Qg4 {Black must now prevent Qd7+.} Bxa5 46. Qd7+ Ne7 $2 (46... Kg8 47. Rg5 e4)
+47. Rg5 {Precision: White = 58%, Black = 62%.} 1-0
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.13"]
+[Round "8"]
+[White "Karjakin, Sergey"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2793"]
+[BlackElo "2824"]
+[Annotator "TA"]
+[PlyCount "54"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,54,0,0,0,0,0,81,0,0,0,0,0,0,0,0,0,28,0,8,0,0,0,0,0,14,4,0,0,0,0,0,0,
+0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5
+Bxc5 8. Qc2 Nc6 9. a3 Qa5 10. O-O-O Be7 11. Kb1 a6 {LiveBook: 34 Games. D37:
+Queen's Gambit Declined: 5 Bf4} 12. g4 (12. Nd2 b5 13. Nb3 Qb6 14. cxd5 exd5
+15. Bg5 Be6 16. Bxf6 Bxf6 17. Nxd5 Bxd5 18. Rxd5 Rac8 19. Bd3 {0-1 (33)
+Topalov,V (2749)-Nakamura,H (2780) Saint Louis 2017}) 12... dxc4 13. Bxc4 b5 {
+[#]} 14. g5 (14. Bd3 $1 $16 {Strongly threatening g5.} h6 15. g5 hxg5 16. Bxg5
+(16. Nxg5 Bb7 $16)) 14... bxc4 $11 15. gxf6 Bxf6 16. Ne4 Be7 17. Rhg1 $1 {
+And now Bh6 would win.} Rd8 18. Rxd8+ Nxd8 $146 ({Predecessor:} 18... Qxd8 19.
+Rd1 {1-0 (46) Paredes,C (2333)-Paessler,H (2239) ICCF email 2012}) 19. Qxc4 {
+Black must now prevent Ka1.} Qd5 {The position is equal.} 20. Qxd5 $40 {
+[%mdl 128] White attacks.} exd5 21. Nc3 Bb7 22. Nd4 Ne6 23. Be5 {[#] Hoping
+for Nxe6.} g6 24. Nxe6 fxe6 25. Ne2 Bh4 26. f4 Bf2 27. Rc1 Rc8 {Precision:
+White = 76%, Black = 84%.} 1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.13"]
+[Round "8"]
+[White "Anand, Viswanathan"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2758"]
+[BlackElo "2738"]
+[Annotator "TA"]
+[PlyCount "96"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,96,42,37,6,16,0,8,0,15,0,0,0,0,-6,11,12,8,13,21,0,0,-34,0,0,0,0,10,0,
+24,22,25,11,11,13,16,0,0,0,3,0,0,0,0,0,0,0,8,8,8,17,6,0,0,0,0,0,0,0,0,0,0,0,0,
+0,11,0,0,0,0,0,0,0,0,0,0,0,2,0,0,-19,-18,-22,0,0,0,-30,0]} 1. e4 e5 2. Nf3 Nf6
+3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 {LiveBook: 1501 Games} 7. Nbd2 {
+C42: Petroff Defence: 3 Nxe5 and unusual White 3rd moves} (7. O-O O-O 8. c4 c6
+9. Nc3 Nxc3 10. bxc3 dxc4 11. Bxc4 Bf5 12. Ng5 h6 13. Qf3 Bg6 14. Ne4 Bxh2+ 15.
+Kxh2 Qh4+ 16. Qh3 Qxh3+ 17. gxh3 Bxe4 18. Rg1 Re8 19. Bxh6 g6 {1/2-1/2 (40)
+Vachier Lagrave,M (2789)-Caruana,F (2822) Stavanger 2018}) (7. O-O O-O 8. c4 c6
+9. Qc2 Na6 10. a3 Bg4 11. Ne5 Bf5 12. b4 Nc7 13. f3 Bg6 14. c5 Bxe5 15. dxe5
+Ng5 16. Bb2 d4 17. f4 Nd5 18. fxg5 Ne3 {1-0 (42) Anand,V (2767)-Caruana,F 
+(2811) Wijk aan Zee 2018}) 7... Bf5 8. O-O O-O 9. Re1 {[%cal Rd2e4] The
+position is equal.} Re8 10. Nf1 Bg6 11. Ne3 c6 12. c4 Nf6 $146 ({Predecessor:} 
+12... Bb4 13. Rf1 dxc4 14. Bxc4 b5 15. Be2 Bd6 16. d5 a6 {1-0 (38) Dragicevic,
+D (2052)-Stupak,K (2161) Budva 2003}) 13. Bxg6 hxg6 14. Qb3 {[#] Threatens to
+win with c5.} Qb6 15. Qxb6 axb6 {[%cal Ba7b6,Bb6b5][%mdl 32]} 16. Bd2 b5 17.
+cxd5 cxd5 18. a3 Nc6 19. Bc3 Rad8 20. g3 Bc7 21. Nd2 Bb6 22. Nb3 g5 23. f3 g6
+24. Kg2 Kg7 25. Nc2 g4 26. fxg4 Nxg4 27. Nb4 Nxb4 28. axb4 Nf6 29. Nc5 Rxe1 $1
+30. Rxe1 Bxc5 31. dxc5 $11 {[%mdl 4096] Endgame KRB-KRN} d4 32. Bd2 Rd7 33. Kf3
+Nd5 34. h4 f5 35. g4 fxg4+ 36. Kxg4 Ne7 37. Kf3 Nc6 38. Re6 Kf7 39. Re4 Rd5 40.
+Rf4+ Ke6 41. Re4+ Kd7 42. Rg4 Rf5+ 43. Ke2 Rf6 44. Rg5 Ke6 45. Kd3 Rf3+ 46. Ke2
+Rf6 47. Kd3 Rf3+ 48. Ke2 Rf6 {Precision: White = 56%, Black = 78%.} 1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.13"]
+[Round "9"]
+[White "Nakamura, Hikaru"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1-0"]
+[ECO "C67"]
+[WhiteElo "2824"]
+[BlackElo "2826"]
+[Annotator "TA"]
+[PlyCount "95"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 24,95,19,15,23,6,9,4,3,6,7,9,6,2,5,1,0,0,13,14,23,16,15,7,26,27,67,22,
+50,50,43,20,22,13,13,15,54,38,24,25,49,43,52,35,25,10,46,46,45,50,116,115,125,
+128,121,0,141,146,235,241,245,235,279,253,370,249,562,259,570,444,1424,1371,
+1386,1380]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7
+7. Bf1 Nxe5 8. Rxe5 O-O 9. Nc3 {[%cal Bb1c3,Bc3d5,Bd5e3,Be3f5][%mdl 32] C67:
+Ruy Lopez: Berlin Defence: 4 0-0 Nxe4} Ne8 10. Nd5 Bd6 11. Re1 c6 12. Ne3 Be7
+13. Nf5 {LiveBook: 4 Games} Bg5 14. Qe2 d5 15. Ne7+ Kh8 {Threatens to win with
+...Be6.} 16. Nxc8 Rxc8 {[#]} 17. b3 $146 Nf6 18. Bb2 Ne4 19. d3 $36 {[%mdl
+2048] Black is under pressure.} Bf6 20. c4 Bxb2 21. Qxb2 Nf6 22. Qa3 a5 23. Re7
+Rb8 24. Rae1 Kg8 25. g3 Re8 26. Rxe8+ Nxe8 27. cxd5 Qxd5 28. Bg2 Qd8 29. Qc5
+Nf6 30. Qa7 g6 31. d4 Qd6 32. Rd1 Qd8 33. h3 Kg7 34. Re1 Nd7 35. d5 cxd5 36.
+Bxd5 Nf6 {[#]} (36... Qb6 $14 37. Qxb6 Nxb6) 37. Bf3 $1 $16 (37. Bxb7 $6 Qc7
+$11) 37... Qc7 {[#]} 38. Kg2 $1 h5 39. h4 ({Better is} 39. a4 $16) 39... Qd8 (
+39... Rd8 $11 {remains equal.}) 40. Re5 ({Much worse is} 40. Bxb7 $6 Qc7 $11)
+40... Ng4 (40... Rc8 $16) 41. Rd5 $18 (41. Rxa5 $6 b5 $16) 41... Qc7 42. Qxa5 (
+{Don't do} 42. Rxa5 $6 Ne5 $16) 42... b6 43. Qd2 Nf6 (43... Re8 {might work
+better.} 44. Bxg4 hxg4 45. Qd4+ Kh7 46. Qxg4 Re6) 44. Qd4 b5 $2 (44... Re8 {
+is tougher.} 45. a4 (45. Rd6 Re6 $18) 45... Re6) 45. Bxh5 (45. Rd6 $142 Qe7 46.
+a4) 45... Ra8 $2 (45... Qb6) 46. Bf3 {White is clearly winning.} Rxa2 (46...
+Qa7 $142 47. Rc5 Qd7 48. Qxd7 Nxd7) 47. Rd6 Qe7 48. g4 {Precision: White = 53%,
+Black = 28%.} 1-0
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.13"]
+[Round "9"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2798"]
+[BlackElo "2793"]
+[Annotator "TA"]
+[PlyCount "74"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 27,74,0,20,0,0,0,8,0,0,0,46,48,87,87,87,54,52,39,41,13,9,8,8,8,16,8,10,
+6,6,0,0,0,0,0,0,-8,-8,-12,-8,-8,-8,-8,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3.
+Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8 9. h3 Ke8
+10. Nc3 h5 {C67: Ruy Lopez: Berlin Defence: 4 0-0 Nxe4} 11. Bf4 Be7 12. Rad1
+Be6 13. Ng5 Rh6 14. Rfe1 Bb4 {LiveBook: 19 Games} 15. a3 Bxc3 16. bxc3 {[#]}
+Rd8 $146 ({Predecessor:} 16... Ne7 17. Nf3 Rh8 18. Nd4 {1/2-1/2 (43) Topalov,V
+(2749)-Radjabov,T (2748) Shamkir 2018}) 17. Rxd8+ Kxd8 18. g4 hxg4 19. hxg4 Ne7
+{[#]} 20. Nxf7+ $1 {[%mdl 512]} Bxf7 21. Bxh6 gxh6 22. e6 Bg6 23. Rd1+ Ke8 $1 {
+The position is equal.} 24. Rd7 Bxc2 25. Rxc7 b5 26. f4 Nd5 27. Rc8+ Ke7 $132 {
+[%mdl 2048] Black is fighting back} 28. f5 Bd1 29. Rg8 Nf6 $1 {[%cal Rf6g8]}
+30. Rg7+ Ke8 $1 31. g5 hxg5 32. Rxg5 a5 33. Rg7 Bg4 34. Rc7 Nd5 35. Rxc6 {
+And now Rc5 would win.} Bxf5 36. Rc5 Bxe6 37. Rxb5 Nxc3 {Precision: White =
+63%, Black = 77%.} 1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.13"]
+[Round "9"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[ECO "A22"]
+[WhiteElo "2754"]
+[BlackElo "2758"]
+[Annotator "TA"]
+[PlyCount "75"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,75,10,18,13,31,0,2,0,11,0,3,3,10,4,0,-62,0,0,0,-95,-78,-70,19,18,96,
+37,119,104,166,158,185,175,157,128,234,239,239,253,244,237,261,251,226,236,352,
+358,360,350,333,244,240,237,258,264,270,250,291,275,367,309,389,363,346,319]} 
+1. c4 e5 2. g3 Nf6 3. Bg2 Bc5 4. Nc3 O-O 5. e3 Re8 6. Nge2 d6 {A22: Englische
+Eröffnung} 7. O-O (7. d3 c6 8. O-O a6 9. d4 Ba7 10. h3 Nbd7 11. b4 exd4 12.
+exd4 Nb6 13. c5 Nbd5 14. Bg5 {1/2-1/2 (43) Safarli,E (2639)-Godena,M (2505)
+Batumi 2018}) 7... c6 {LiveBook: 8 Partien} 8. b3 Bb6 {Die Stellung ist
+ausgeglichen.} 9. Ba3 Bf5 10. d4 e4 11. h3 $146 {Weiss will g4 spielen.} ({
+Vorgänger:} 11. Rc1 Qd7 12. Qd2 Bc7 13. d5 c5 14. Nb5 {0-1 (42) Odendahl,R 
+(2379)-Klyuner,V (2423) Germany 2002}) 11... h6 12. g4 Bh7 13. Ng3 d5 14. h4 (
+14. Rc1 $11) 14... Bg6 (14... Ba5 $1 $15 15. Rc1 Nfd7) 15. Rc1 $36 {[%mdl 2048]
+Weiss hat gut koordiniertes Spiel.} Bc7 16. f4 (16. h5 $11 Bh7 17. cxd5) 16...
+exf3 $1 $17 17. Qxf3 {[%cal Rc4d5]} Nbd7 ({Günstiger ist} 17... dxc4 $1 $15 18.
+bxc4 Na6) 18. cxd5 $11 cxd5 (18... Nb6 $11) 19. g5 (19. Nf5 $16) 19... hxg5 (
+19... Bxg3 $1 $14 20. Qxg3 (20. gxf6 Bxh4 21. Be7 Qb8 $14) 20... Nh5) 20. hxg5
+$16 {[#] Droht stark Sf5.} Nh7 (20... Ne4 $16 21. Ngxe4 (21. Ncxe4 dxe4 22. Qg4
+Bxg3 $11) 21... dxe4) 21. Nxd5 Nxg5 22. Qg4 Bxg3 23. Qxg3 {Und Dc7 würde nun
+gewinnen.} Ne4 (23... Nb6 $16 24. Nc7 Ne4 25. Bxe4 Rxe4) 24. Qc7 $18 Nb6 25.
+Ne7+ Rxe7 26. Bxe7 ({Viel schwächer ist} 26. Qxe7 Qxe7 27. Bxe7 Nd5) 26... Qe8
+27. Qxb7 Rb8 28. Qc7 Nd5 (28... f6 {war angesagt.} 29. Bxe4 Bxe4) 29. Qe5 ({
+Weniger gut wäre} 29. Qxa7 Nxe3 30. d5 Nxg2 $18) 29... Ndc3 {[#] ...Tb5 ist
+eine echte Drohung.} 30. Bxe4 Nxe4 31. Bh4 Qxe5 32. dxe5 Re8 33. Rc7 Rxe5 34.
+Rxa7 Rh5 35. Rf4 f6 36. Re7 Nc3 {zielt auf ...Se2+ ab.} 37. Rg4 Nd5 38. Ra7 {
+Precision: Weiß = 44%, Schwarz = 41%.} ({Schwächer ist} 38. Rxg6 Nxe7 39. Rg4
+Kf7 $16) 1-0
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.13"]
+[Round "9"]
+[White "Grischuk, Alexander"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[ECO "A16"]
+[WhiteElo "2751"]
+[BlackElo "2806"]
+[Annotator "TA"]
+[PlyCount "83"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,83,4,0,39,41,34,30,39,49,71,73,79,48,54,60,74,77,95,56,60,47,74,51,
+54,39,72,65,59,62,56,51,52,51,52,41,46,35,32,22,13,18,22,0,46,64,60,66,49,67,
+131,0,0,0,0,0,0,0,0,0,122,142,151,0,0,0,131,0,0,0]} 1. Nf3 Nf6 2. g3 g6 3. c4
+Bg7 4. Nc3 O-O 5. Bg2 c6 {[%cal Bc7c6,Bc6d5][%mdl 32]} 6. e4 d5 {A16: English
+Opening: 1...Nf6 with ...d5} 7. cxd5 cxd5 8. e5 Ne4 9. O-O {LiveBook: 8 Games}
+Qa5 (9... Nc6 10. d4 Nxc3 11. bxc3 Bg4 12. h3 Bxf3 13. Qxf3 e6 14. h4 {1-0 (47)
+Bacrot,E (2696)-Nataf,I (2535) Chartres 2017}) 10. Ne2 $146 ({Predecessor:} 10.
+d4 Nxc3 11. Qe1 Bf5 12. Qxc3 Qxc3 13. bxc3 Rc8 14. Ba3 {0-1 (51) Lahr,M (2050)
+-Lisanti,A (2291) Frankfurt 2005}) 10... Nc6 11. d3 {[%cal Bd2d3,Bd3d4][%mdl
+32]} Nc5 12. d4 Ne6 13. Be3 Rd8 14. h4 h5 15. Re1 Bd7 16. Nc3 Nc7 17. a3 {
+[%cal Ba2a3,Ba3a4][%mdl 32]} Nb5 18. Ne2 Bg4 19. b4 {[%cal Bb2b4,Bb4b5][%mdl
+32]} Qb6 $1 20. Qd2 a5 21. a4 Nc7 22. b5 Nb4 23. Rec1 Ne6 24. Ra3 Rdc8 25. Rac3
+Rxc3 26. Rxc3 Qd8 27. Nf4 Nxf4 28. Bxf4 Rc8 29. Ng5 Bf5 30. Qc1 Rxc3 31. Qxc3
+e6 32. Bh3 $36 {[%mdl 2048] White fights for an advantage.} Bc2 {[#]} ({
+Black should try} 32... Bd3 $1 $14) 33. Bxe6 ({Only move:} 33. b6 $1 $16) 33...
+fxe6 $11 34. Nxe6 Qd7 35. Nxg7 Kxg7 36. e6 Qxe6 {[#] ...Kf7 is the strong
+threat.} 37. Qc7+ Kf8 (37... Kg8 $11 38. Be5 Qf7 39. Qc8+ Qf8 40. Qe6+ Kh7) 38.
+Bd6+ $16 {[%mdl 1024] White has strong compensation.} Ke8 39. Qb8+ Kd7 40. Qc7+
+Ke8 41. Qb8+ (41. Bxb4 $1 $16 {And now Qb8+ would win.} axb4 42. Qxc2) 41...
+Kd7 $11 {( -> ...Qe1+)} 42. Qc7+ {Precision: White = 61%, Black = 65%.} 1/2-1/2
+
+[Event "GCT Saint Louis Rapid 2018"]
+[Site "Saint Louis"]
+[Date "2018.08.13"]
+[Round "9"]
+[White "Caruana, Fabiano"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[WhiteElo "2738"]
+[BlackElo "2852"]
+[Annotator "TA"]
+[PlyCount "37"]
+[EventDate "2018.08.11"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,37,9,2,11,3,16,12,18,0,6,0,0,0,10,0,0,0,-2,-3,0,0,0,0,0,0,0,0]} 1. d4
+Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. Qb3 {E06: Katalanisch} c5 7.
+cxd5 {LiveBook: 5 Partien. Die Stellung ist ausgeglichen.} Qxd5 8. dxc5 Qxb3 9.
+axb3 Nc6 10. Nc3 Nd7 $146 ({Vorgänger:} 10... Bxc5 11. O-O e5 12. Bg5 Be6 13.
+Nd2 Rfd8 {1/2-1/2 (35) Caruana,F (2816)-Nakamura,H (2769) Leuven 2018}) 11. Bg5
+Bxg5 12. Nxg5 Nxc5 13. Bxc6 bxc6 14. b4 Na6 15. b5 cxb5 16. Nxb5 Rb8 17. Nxa7
+Rxb2 {[#] Und weiter mit ...Lb7 wäre nett.} 18. Nxc8 Rxc8 19. O-O 1/2-1/2
+

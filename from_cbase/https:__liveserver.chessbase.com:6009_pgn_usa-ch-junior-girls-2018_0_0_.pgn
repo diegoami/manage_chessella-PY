@@ -1,0 +1,2340 @@
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.12"]
+[Round "1"]
+[White "Yu, Jennifer"]
+[Black "Feng, Maggie"]
+[Result "1-0"]
+[ECO "C03"]
+[WhiteElo "2358"]
+[BlackElo "2236"]
+[Annotator "TA"]
+[PlyCount "101"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,101,0,0,0,0,99,100,95,85,92,91,150,151,182,183,183,188,183,121,150,
+141,135,141,145,118,112,126,126,123,131,137,144,144,175,165,167,171,156,143,
+131,141,151,143,196,155,223,228,235,239,270,260,330,335,335,334,424,417,393,
+385,520,382,350,345,594,620,985,582,727,780,798,755,787,793,762,766,1747,1638,
+6017,5627,6195,6195,29989,29990,29990,29991,29991,29992,29992,29993,29993,
+29994]} 1. e4 e6 2. d4 d5 3. Nd2 Be7 4. e5 c5 5. Qg4 Kf8 6. Ndf3 {C03: French
+Tarrasch: Unusual Black 3rd moves} (6. dxc5 Nc6 7. Ngf3 Bxc5 8. Nb3 Be7 9. Bd3
+h5 10. Qf4 Nh6 11. O-O Kg8 12. Re1 Nb4 13. Nbd4 Nxd3 14. cxd3 {1-0 (32) Short,
+N (2646)-Forcen Esteban,D (2565) Madrid 2016}) 6... Nc6 7. Bd3 {LiveBook: 10
+Games} h5 8. Qf4 {The position is equal.} g5 (8... Nh6 $11 {remains equal.}) 9.
+Nxg5 $16 Bxg5 10. Qxg5 Qxg5 11. Bxg5 cxd4 $146 (11... c4 $142) ({Predecessor:} 
+11... Nxd4 12. Be3 f6 13. Bxd4 cxd4 {1/2-1/2 (38) Federovski,A (1947)-Lahav,M 
+(2178) Tiberias 2016}) 12. f4 f6 13. exf6 Kf7 14. Nf3 Nxf6 {[%cal Bg8f6,Bf6g4,
+Bg4e3][%mdl 32]} 15. Bb5 ({White should play} 15. O-O-O $18) 15... Ng4 16. O-O
+Ne3 17. Rf2 Nf5 18. Bxc6 bxc6 19. Ne5+ Kg7 20. Nxc6 Bb7 21. Ne5 Rac8 22. Nf3
+Rc6 23. h3 h4 24. Rd1 Rhc8 25. Nxd4 Nxd4 26. Rxd4 Rxc2 27. Rb4 R2c7 (27... Ba8
+$16 {was called for.} 28. Bxh4 R2c4) 28. Bxh4 {And now f5 would win.} Rd7 (
+28... Ba6 $16 {keeps fighting.} 29. Rf3 Rc4 30. Rxc4 Rxc4) 29. Rd2 $18 Kg6 30.
+Bf2 Ba6 31. Bd4 Rb7 32. Rxb7 Bxb7 {[%mdl 4096] Endgame KRB-KRB} 33. g4 a6 34.
+Kh2 Rc1 35. h4 Bc8 36. Kg3 e5 37. h5+ ({But not} 37. Bxe5 Rg1+ 38. Kf2 Rxg4 $18
+) 37... Kh6 $2 {[#]} (37... Kh7 38. fxe5 Be6) 38. fxe5 Re1 39. Rd3 Re4 40. Be3+
+Kg7 41. Bf4 d4 42. Rd1 Be6 43. b3 Kh7 44. g5 {[%cal Bg4g5,Bg5g6][%mdl 32]} Bd5
+45. g6+ Kg7 46. Rc1 {[#] Threatening mate with Rc7+.} d3 47. Rc7+ {White mates.
+} Kf8 48. h6 {[%cal Bh5h6,Bh6h7][%mdl 32]} Re1 49. h7 Rg1+ 50. Kf2 Rg2+ 51. Ke3
+{Precision: White = 91%, Black = 39%.} 1-0
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.12"]
+[Round "1"]
+[White "Nguyen, Emily"]
+[Black "Morris-Suzuki, Sophie"]
+[Result "1-0"]
+[ECO "D25"]
+[WhiteElo "2215"]
+[BlackElo "1980"]
+[Annotator "TA"]
+[PlyCount "93"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,93,28,0,28,24,17,20,58,15,27,22,22,14,16,15,25,9,81,86,97,100,100,93,
+237,177,503,500,488,442,1008,1005,848,1059,1042,1015,1251,1216,29983,1291,1238,
+1222,29988,29989,29984,816,779,773,884,884,853,853,946,920,901,885,1468,1164,
+1479,1468,1392,1389,29992,1207,1754,1675,29975,29978,29980,5173,5173,5165,4133,
+4133,2337,1313,29983,29984,29983,29983]} 1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3
+b5 5. a4 b4 6. Bxc4 {D25: Queen's Gambit Accepted: 4 e3: sidelines and 4...Bg4}
+e6 7. Nbd2 Be7 8. O-O O-O 9. Nb3 {LiveBook: 3 Games} a5 10. Ne5 Bb7 11. f3 Nbd7
+12. Nxd7 Nxd7 13. e4 $146 c5 14. Be3 $36 {[%mdl 2048] White is pushing.} cxd4
+$1 15. Bxd4 Qc7 16. Rc1 {Black should prevent Bb5.} Qf4 (16... Bg5 $11 {
+keeps the balance.}) 17. Qe2 Bf6 18. Be3 Qb8 19. Bb5 Ne5 (19... Rd8 $16) 20.
+Nc5 $18 {Black must now prevent f4.} g5 $2 (20... Bc8 {is more resistant.} 21.
+f4 Ng6) 21. f4 gxf4 22. Bxf4 Bd8 (22... Bc8 $142 23. Kh1 Qb6) 23. Nd7 Nxd7 24.
+Bxb8 Nxb8 25. Rf3 Na6 26. Rh3 Bf6 27. e5 (27. Qg4+ $142 Kh8 28. e5 $1 {[%mdl
+512]} Bg7 29. Bd3 h6 30. Qg5 f5 31. Rxh6+ Kg8 32. Bxa6) 27... Bg7 28. Bd3 h6
+29. Rg3 Kh8 {[#]} 30. Be4 (30. Rxg7 $142 $1 Kxg7 31. Qg4+ Kh8 32. Qh4 Kg8 33.
+Qxh6 Be4 34. Bxe4 f5 35. Qxe6+ Kg7 36. Bxa8) 30... Bxe4 31. Qxe4 Rac8 32. Rxc8
+Rxc8 33. Rf3 Nc5 34. Qd4 Nxa4 35. Rxf7 Rc1+ 36. Rf1 Rc5 37. Qd8+ Kh7 38. Qd3+
+Kg8 39. Qb3 (39. Qg6 $142 Rc7 40. Rd1 Rc1 41. Rxc1 Nc3 42. bxc3 Kf8 43. Rd1 Ke7
+44. Qxg7+ Ke8 45. Qf6 bxc3 46. Rd8#) 39... Nxb2 40. Qxb2 Bxe5 41. Qf2 Rc7 42.
+Qf8+ (42. Qb6 $142 Kh8 43. Re1 Kg7 44. Rxe5 Rc1+ 45. Kf2 Rc2+ 46. Re2 Rxe2+ 47.
+Kxe2) 42... Kh7 43. Rf7+ Rxf7 44. Qxf7+ Bg7 45. Qxe6 a4 46. Qe4+ Kg8 47. Qxb4 {
+Precision: White = 66%, Black = 21%.} 1-0
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.12"]
+[Round "1"]
+[White "Cervantes Landeiro, Thalia"]
+[Black "Matus, Nastassja"]
+[Result "1/2-1/2"]
+[ECO "D26"]
+[WhiteElo "2208"]
+[BlackElo "1960"]
+[Annotator "TA"]
+[PlyCount "78"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 26,78,0,5,29,0,30,22,39,30,27,6,5,12,9,12,96,29,84,27,50,14,63,6,5,0,
+108,83,158,14,20,0,0,-12,0,-7,0,0,0,0,0,0,0,0,0,0,0,-14,0,0,0,-5,0,0,0]} 1. d4
+d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 a6 6. O-O c5 7. Bb3 Nc6 8. Nc3 cxd4
+9. exd4 Be7 10. Re1 O-O 11. Bf4 {D27: Queen's Gambit Accepted: Classical main
+line: 7 e4!? and 7 a4} Na5 (11... Nb4 12. Ne5 Nbd5 13. Bg3 Nxc3 14. bxc3 Bd7
+15. c4 Rc8 16. Qd3 Nh5 17. Rad1 Nxg3 18. Qxg3 Qc7 {0-1 (45) Wojtaszek,R (2734)
+-Karjakin,S (2762) Berlin 2015}) 12. d5 Nxb3 13. Qxb3 exd5 14. Rad1 {[%cal
+Rc3d5] LiveBook: 9 Games} Bc5 15. Bg5 $146 {[%cal Rc3d5]} ({Predecessor:} 15.
+Be5 Bg4 16. Qxb7 Bxf3 17. gxf3 Re8 18. Nxd5 Nxd5 19. Qxd5 {1/2-1/2 (54)
+Benkovic,P (2463)-Moldovan,D (2444) Bucharest 2003}) 15... Qd6 16. Bxf6 Qxf6
+17. Nxd5 Qh6 18. Qd3 Bg4 19. h3 Bxf3 20. Qxf3 Qg5 (20... Rfe8 $11 {keeps the
+balance.}) 21. Nc3 (21. Re4 $16) 21... Qg6 (21... b6 $11) 22. Rd7 (22. Qxb7 $16
+Rab8 23. Qd5) 22... b5 23. Red1 h6 24. Ne4 (24. Nd5 $14) 24... Rac8 $11 25. a3
+{Black must now prevent b4.} a5 (25... Rfe8 $11 26. Nxc5 Rxc5) 26. R7d5 Qb6 {
+[#]} (26... Be7 $142) 27. Qd3 ({Don't take} 27. Nxc5 $6 Rxc5 28. Qf5 Rfc8 $14)
+(27. Qf5 $1 $16 Be7 28. Rxb5) 27... b4 {The position is equal.} 28. axb4 Bxb4
+29. Rd7 Qc6 30. b3 Rce8 (30... Qe6 {is more complex.} 31. Rd5 Rc6 32. Qd4 Re8
+33. Ng3 Qf6) 31. Nd2 Qc3 32. Qxc3 Bxc3 33. Rd3 Bb4 34. Nc4 Re2 35. Ra1 Ra8 36.
+Rd5 Bc3 37. Rc1 Bb4 38. Ra1 Bc3 39. Rc1 Bb4 {Precision: White = 32%, Black =
+36%.} 1/2-1/2
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.12"]
+[Round "1"]
+[White "Wu, Rochelle"]
+[Black "Yip, Carissa"]
+[Result "0-1"]
+[ECO "D91"]
+[WhiteElo "2110"]
+[BlackElo "2364"]
+[Annotator "ChessBase"]
+[PlyCount "48"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:00]} g6 {[%emt 0:
+00:00]} 3. Nc3 {[%emt 0:00:00]} d5 {[%emt 0:00:00]} 4. Nf3 {[%emt 0:00:09]} Bg7
+{[%emt 0:00:03]} 5. Bg5 {[%emt 0:00:13]} Ne4 {[%emt 0:00:20]} 6. cxd5 {[%emt 0:
+00:26]} Nxg5 {[%emt 0:00:16]} 7. Nxg5 {[%emt 0:00:07]} e6 {[%emt 0:00:02]} 8.
+Nf3 {[%emt 0:00:14]} exd5 {[%emt 0:00:04]} 9. b4 {[%emt 0:00:15]} O-O {[%emt 0:
+02:21]} 10. e3 {[%emt 0:00:11]} Be6 {[%emt 0:03:21]} 11. Qb3 {[%emt 0:02:55]}
+Nd7 {[%emt 0:01:54]} 12. a4 {[%emt 0:04:12]} Rc8 {[%emt 0:04:45]} 13. Bd3 {
+[%emt 0:04:03]} c5 {[%emt 0:12:20]} 14. Qa3 {[%emt 0:12:52]} cxd4 {[%emt 0:06:
+59]} 15. Nxd4 {[%emt 0:00:27]} Bxd4 {[%emt 0:02:55]} 16. exd4 {[%emt 0:00:26]}
+Qg5 {[%emt 0:00:07]} 17. g3 {[%emt 0:06:57]} Bh3 {[%emt 0:08:23]} 18. Ne2 {
+[%emt 0:04:52]} Rfe8 {[%emt 0:00:21]} 19. Qb2 {[%emt 0:03:20]} Qg4 {[%emt 0:03:
+46]} 20. Rg1 {[%emt 0:10:13]} Re7 {[%emt 0:01:18]} 21. Rd1 {[%emt 0:08:36]}
+Rce8 {[%emt 0:03:03]} 22. Rd2 {[%emt 0:03:54]} Nb6 {[%emt 0:04:35]} 23. Qb3 {
+[%emt 0:12:32]} Qf3 {[%emt 0:00:25]} 24. a5 {[%emt 0:02:19]} Rxe2+ {[%emt 0:00:
+17]} 0-1
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.12"]
+[Round "1"]
+[White "Vittal, Sanjana"]
+[Black "Samadashvili, Martha"]
+[Result "1/2-1/2"]
+[ECO "B48"]
+[WhiteElo "1947"]
+[BlackElo "2040"]
+[Annotator "NA RC"]
+[PlyCount "82"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+{[%evp 26,82,0,-36,0,32767,32767,32767,7,0,85,68,78,-2,22,-14,32767,32767,
+32767,32767,32767,-20,0,-25,0,-44,-14,-16,0,-9,0,32767,32767,32767,32767,-165,
+-149,-144,-111,-150,-132,-115,-72,-31,0,-31,0,-45,0,0,0,-53,-30,-42,0,0,0,-46,
+0]} 1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:00]} 2. Nc3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:00]} 3. Nf3 {[%emt 0:00:00]} e6 {[%emt 0:01:12]} 4. d4 {[%emt 0:00:
+02]} cxd4 {[%emt 0:00:04]} 5. Nxd4 {[%emt 0:00:04]} Qc7 {[%emt 0:00:05]} 6. Be3
+{[%emt 0:00:04]} a6 {[%emt 0:00:04]} 7. f4 {[%emt 0:00:07]} d6 {[%emt 0:03:46]}
+8. Qf3 {[%emt 0:00:49]} Nf6 {[%emt 0:03:45]} 9. O-O-O {[%emt 0:10:36]} Nxd4 {
+[%emt 0:10:12] B82: Sicilian Scheveningen: 6 f4} (9... Bd7 10. g4 h6 11. Rg1
+Rc8 12. Kb1 b5 13. a3 Be7 14. Be2 Nxd4 15. Bxd4 e5 16. Be3 Bc6 17. g5 hxg5 18.
+fxg5 {1-0 (33) David,A (2574)-Brunello,S (2557) Rome 2016}) 10. Rxd4 {[%emt 0:
+00:56]} b5 {[%emt 0:12:52]} 11. Rd2 $146 {[%emt 0:12:46]} ({Predecessor:} 11.
+e5 Bb7 12. Qg3 dxe5 13. fxe5 Nd5 14. Nxb5 axb5 15. Bxb5+ Bc6 16. Rc4 Nb4 17.
+Qf3 {1-0 (65) Ashwin,J (2425)-Panagiotopoulos,A (2200) Paleochora 2009}) 11...
+Bb7 {[%emt 0:02:26]} 12. Bd3 {[%emt 0:00:46]} Qa5 {[%emt 0:06:21]} 13. Kb1 {
+[%emt 0:06:31]} Be7 {[%emt 0:03:30]} 14. g4 {[%emt 0:02:35]} Nd7 {[%emt 0:03:
+10]} 15. g5 {[%emt 0:17:34]} Rc8 {[%emt 0:23:28]} 16. Ne2 {[%emt 0:03:21]} Nc5
+{[%emt 0:03:34]} 17. Nd4 {[%emt 0:05:01]} d5 {[%emt 0:07:16] [#]} (17... Qa4
+$11) 18. e5 $1 {[%emt 0:02:11]} Ne4 {[%emt 0:00:30]} 19. Bxe4 {[%emt 0:01:19]}
+(19. Rdd1 $16) 19... dxe4 {[%emt 0:00:02]} 20. Qf2 {[%emt 0:02:05]} Bd5 {
+[%emt 0:04:42]} 21. Nb3 {[%emt 0:03:00]} Qc7 {[%emt 0:00:17]} 22. Rhd1 {
+[%emt 0:04:06]} g6 {[%emt 0:03:09]} 23. Bb6 {[%emt 0:08:16]} Qb8 {[%emt 0:01:
+08]} 24. Qe3 {[%emt 0:04:46]} Qa8 {[%emt 0:03:01]} 25. Nd4 {[%emt 0:08:02]} Qb7
+{[%emt 0:02:05]} 26. Nb3 {[%emt 0:00:18]} Qa8 {[%emt 0:00:32]} 27. Nd4 {
+[%emt 0:00:08]} Qb7 {[%emt 0:00:04]} 28. Nb3 {[%emt 0:00:04]} Rc6 {[%emt 0:02:
+49]} 29. Bd4 {[%emt 0:01:04]} Qc7 {[%emt 0:00:29]} 30. Bc3 $2 {[%emt 0:02:12] 
+[#]} (30. h4 $11) 30... b4 $1 {[%emt 0:00:46]} 31. Bd4 {[%emt 0:00:26]} O-O {
+[%emt 0:00:56]} 32. Qf2 {[%emt 0:01:22]} (32. Qe2 $142) 32... Rc8 {[%emt 0:00:
+13]} 33. Be3 {[%emt 0:00:31]} Qb8 {[%emt 0:02:00]} (33... a5 $19 {has better
+winning chances.} 34. Nd4 Ra6) 34. h4 $1 {[%emt 0:00:54] [#]} Bf8 {[%emt 0:00:
+22]} (34... a5 $1 $17) 35. Qe2 {[%emt 0:01:04]} Qa8 {[%emt 0:00:51]} (35... a5
+$5) 36. h5 {[%emt 0:00:30]} R6c7 {[%emt 0:00:17]} 37. hxg6 {[%emt 0:00:27]}
+fxg6 {[%emt 0:00:25]} 38. Nd4 {[%emt 0:01:46]} Bc5 {[%emt 0:00:26]} 39. Nb3 {
+[%emt 0:01:07]} Bf8 {[%emt 0:00:19]} 40. Nd4 {[%emt 0:00:00]} Bc5 {[%emt 0:00:
+00]} 41. Nb3 {[%emt 0:03:42]} Bf8 $11 {[%emt 0:07:37]} 1/2-1/2
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.13"]
+[Round "2"]
+[White "Yip, Carissa"]
+[Black "Vittal, Sanjana"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "2364"]
+[BlackElo "1947"]
+[Annotator "TA"]
+[PlyCount "79"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 22,79,41,30,75,72,82,39,56,59,80,80,74,29,20,14,56,60,81,76,88,79,47,43,
+111,17,173,151,443,456,488,486,480,459,547,520,627,531,691,698,690,695,693,681,
+683,672,796,790,933,933,933,933,925,925,925,915,915,827,1818,1594]} 1. Nf3 d5
+2. g3 Bg4 3. Bg2 Nd7 4. c4 e6 5. O-O Bd6 6. Nc3 c6 7. cxd5 exd5 8. d3 Ngf6 9.
+Qc2 O-O 10. h3 {A11: English Opening: 1...c6} (10. e4 Re8 11. h3 Bxf3 12. Bxf3
+dxe4 13. dxe4 Qe7 14. Bg2 Bc5 15. Kh2 Bd4 16. Bf4 Qc5 17. Rad1 Rad8 {1-0 (42)
+Rapport,R (2720)-Gretarsson,H (2572) Reykjavik 2016}) 10... Bh5 11. e4 dxe4 12.
+dxe4 {LiveBook: 5 Games. White is slightly better.} Qe7 13. Nh4 $1 Bg6 14. Be3
+$146 Bc5 15. Rae1 Bxe3 16. Rxe3 Qc5 17. Rfe1 Nd5 {[%cal Bf6d5,Bd5b4,Bb4d3]
+[%mdl 32]} 18. R3e2 {[%cal Rc3d5]} Nb4 19. Qb1 Ne5 20. a3 $1 {[%cal Ra3b4]}
+Nbd3 21. Rd1 Rad8 22. Red2 $36 {[%cal Rd2d3][%mdl 2048] [#] White has good
+play.} Qb6 (22... Nxf2 $1 $14 {[%mdl 512]} 23. Rxf2 Qe3) 23. b4 {[#]} ({
+White should try} 23. Qc2 $16) 23... Qd4 $2 (23... Nxf2 $1 $11 {[%mdl 512] and
+Black has nothing to worry.} 24. Rxf2 Qe3) 24. Na4 {Nc5! is the strong threat.}
+({Weaker is} 24. Nf3 Qxc3 25. Nxe5 Qxe5 $11) 24... f5 $2 (24... Bxe4 $16 25.
+Bxe4 Qxe4) 25. Nxf5 $18 {White is clearly winning.} Bxf5 26. exf5 Rxf5 27. Qa2+
+Kh8 {[#] With the idea ...Rdf8.} 28. Nc5 $1 {[%mdl 512]} Qc3 (28... Nxc5 29.
+Rxd4) 29. Qb1 Qd4 {[%cal Rf5f2]} 30. Nxd3 Nxd3 31. Qxd3 Qxd3 32. Rxd3 Rxd3 33.
+Rxd3 {[%mdl 4096] Endgame White wants to mate with Rd8+. KRB-KR} Kg8 34. Rd8+
+Rf8 35. Rxf8+ Kxf8 36. Kf1 Ke7 37. Ke2 Kd6 38. Kd3 b6 39. Kc4 g6 40. h4 {
+Precision: White = 79%, Black = 18%.} 1-0
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.13"]
+[Round "2"]
+[White "Yu, Jennifer"]
+[Black "Wu, Rochelle"]
+[Result "0-1"]
+[ECO "D12"]
+[WhiteElo "2358"]
+[BlackElo "2110"]
+[Annotator "TA"]
+[PlyCount "124"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 24,124,12,7,7,0,14,26,29,0,43,47,58,45,132,114,106,43,58,3,13,0,81,81,
+119,119,119,112,112,113,119,65,121,90,110,81,123,123,104,41,123,123,122,87,86,
+-13,-13,-13,-16,-87,-71,-71,222,-477,-520,-518,-478,-605,-606,-791,-789,-763,
+-722,-657,-636,-797,-751,-1022,-1055,-985,-878,-1021,-872,-1140,-1135,-1023,
+-997,-1152,-1122,-2074,-2042,-2210,-2099,-2110,-1928,-2870,-4520,-6523,-6134,
+-4134,-29969,-29972,-29973,-8311,-7144,-5595,-6008,-2412,-994,-29977,-29978,
+-29980,-29980]} 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Be4 7.
+f3 Bg6 8. Qb3 Qc7 9. Bd2 {D12: Slav Defence: 3 Nf3 Nf6 4 e3 Bf5} Be7 10. cxd5 (
+10. g3 Nbd7 11. cxd5 exd5 12. O-O-O a5 13. Nxg6 hxg6 14. Qc2 a4 15. e4 a3 16.
+e5 axb2+ {0-1 (59) Le,Q (2737)-Mamedov,R (2709) Huaian 2017}) 10... cxd5 11.
+Nxg6 hxg6 12. O-O-O Nc6 13. Kb1 {LiveBook: 49 Games} a6 14. Rc1 Na5 15. Qa4+
+Nc6 16. h4 O-O $146 ({Predecessor:} 16... Nd7) 17. g4 b5 18. Qd1 Qb6 (18... Qb7
+$14) 19. f4 $16 Bb4 20. g5 (20. h5 $16) 20... Bxc3 21. Bxc3 (21. gxf6 $14 Bxd2
+22. Qxd2) 21... Ne4 $11 22. Be1 Ne7 (22... Rfc8 $11) 23. Bb4 $16 Rfe8 24. Bxe7
+Rxe7 25. Rh2 $1 {[%cal Bh1h2,Bh2c2,Bc2c5][%mdl 32]} Rc7 26. Rxc7 $1 Qxc7 27.
+Bd3 (27. h5 $1 $16) 27... Ng3 (27... Rc8 $14) 28. Rc2 Qa5 29. Rc5 Rb8 30. Qc1
+Qd8 31. Qg1 (31. Rc7 $16) 31... Nh5 ({Better is} 31... Nf5 $14) 32. Be2 Qa5 33.
+Bxh5 gxh5 {[%mdl 4096] Endgame KQR-KQR} 34. g6 ({White should try} 34. Qd1 $16)
+34... fxg6 $11 35. Rc3 Kh7 36. Qg5 (36. f5 $1 $11 gxf5 37. Qg5) 36... b4 37.
+Rc5 Rb5 $2 {[%mdl 8192] [#]} (37... Qb6 $17 {and life is bright.}) 38. Qe7 $4 {
+[%mdl 8192]} (38. f5 $1 $18 {[%cal Rf5g6][%mdl 512] is the narrow road to win.}
+exf5 39. Rc6) 38... b3 $19 39. axb3 Qe1+ 40. Rc1 Qxe3 41. Qd8 Qd3+ 42. Rc2 Rxb3
+43. Qc8 Rb4 44. Qxe6 Rxd4 45. Qe2 Qxe2 46. Rxe2 Rxf4 {KR-KR} 47. Rh2 a5 {
+[%cal Ba6a5,Ba5a4][%mdl 32]} 48. Kc2 a4 49. Kd3 Kh6 50. Ke3 Rb4 51. Kf3 g5 52.
+hxg5+ Kxg5 {( -> ...Rb3+)} 53. Rd2 Kh6 54. Rxd5 Rxb2 55. Ra5 Rb3+ 56. Kf4 a3
+57. Kf5 g6+ {[%cal Bg7g6,Bg6g5][%mdl 32]} 58. Kf4 {[#]} g5+ $1 59. Kf5 (59.
+Rxg5 Rb4+) 59... Rf3+ 60. Ke4 Rf4+ 61. Ke5 h4 62. Rxa3 Kh5 {Precision: White =
+34%, Black = 51%.} 0-1
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.13"]
+[Round "2"]
+[White "Feng, Maggie"]
+[Black "Matus, Nastassja"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "2236"]
+[BlackElo "1960"]
+[Annotator "TA"]
+[PlyCount "119"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,119,-7,0,0,18,8,56,65,43,47,65,62,99,117,104,117,110,103,108,105,91,
+104,132,107,145,149,118,77,89,75,116,101,192,191,188,197,202,168,215,94,88,0,
+187,175,177,163,162,147,183,168,238,225,270,266,254,258,401,392,388,0,307,281,
+456,342,503,453,593,590,654,598,585,563,456,315,305,293,557,333,508,501,522,
+587,729,697,29982,29983,29993,29990,29994,29984,29984,29985,29994,29995,29997,
+29994,29994,29991,29991,29992]} 1. Nf3 d5 2. g3 Nf6 3. Bg2 g6 4. b3 {[%cal
+Bb2b3,Bb3b4][%mdl 32]} Bg7 5. Bb2 c5 6. c4 d4 7. b4 Nfd7 8. bxc5 Nc6 9. O-O O-O
+10. d3 Nxc5 11. Nbd2 {[%cal Bb1d2,Bd2e4,Be4d6][%mdl 32]} Re8 {LiveBook: 7 Games
+} 12. Rb1 {A05: Réti Opening: 1 Nf3 Nf6} e5 13. Ba3 $146 ({Predecessor:} 13.
+Ne1 Qc7 14. Ba3 Qa5 15. Bxc5 Qxc5 16. Rb5 Qe7 17. Qb1 Qc7 18. Nc2 Rb8 19. c5
+Be6 {1-0 (29) Brunello,S (2553)-Hansen,M (2347) Katowice 2017}) 13... Qa5 14.
+Bxc5 $1 {White is slightly better.} Qxc5 15. Ne4 Qe7 16. c5 $1 Be6 17. Nd6 $36
+{[%mdl 2048] White is on the roll.} Reb8 {[#]} 18. Nd2 $1 Qc7 19. Qa4 Bf8 20.
+Rxb7 Rxb7 21. Nxb7 ({Don't play} 21. Bxc6 Rb2 $15) ({But not} 21. Qxc6 $6 Qxc6
+22. Bxc6 Rb2 $15) 21... Bd7 22. Nd6 Bxd6 23. cxd6 Qxd6 24. Rc1 Rc8 25. Qa6 Qe6
+26. Nb3 {Threatens to win with Nc5.} Nb4 (26... Ne7 $16 27. Qxa7 Rxc1+ 28. Nxc1
+Qd6) 27. Rxc8+ $18 ({Resist} 27. Qxa7 $6 Rxc1+ 28. Nxc1 Qe8 $16) 27... Bxc8 28.
+Qxa7 Kg7 29. Qa5 Na6 30. Qd2 (30. Bd5 $18 {and White stays clearly on top.} Qg4
+31. Qb6) 30... Qd6 $16 31. Qa5 (31. Bf3 $16) 31... Be6 $2 {[#]} (31... Qe6 $1
+$11 {and Black is okay.}) 32. Nd2 $1 $18 {[%cal Rd2e4] Ne4 is the strong
+threat.} Nc5 33. Ne4 Nxe4 34. Bxe4 Qb8 35. Kg2 Kf6 (35... Bg4 $142) 36. Bd5 Qd6
+37. Bxe6 Kxe6 {[%mdl 4096] Endgame KQ-KQ} 38. Qa8 f5 (38... Qc7 $142 39. a4 Ke7
+) 39. Qg8+ Kf6 40. Qa8 Ke6 $1 41. Qb7 h5 $2 (41... h6 {keeps fighting.} 42. Qg7
+Kd5 43. Qxh6 Qc6) 42. f3 {[%cal Bf2f3,Bf3f4][%mdl 32]} Kf6 (42... Qd8 {was
+worth a try.} 43. a4 Qd7 44. Qa6+ Qd6 45. Qc8+ Qd7 46. Qg8+ Kf6) 43. a4 {
+[%cal Ba2a4,Ba4a5,Ba5a6][%mdl 32]} Qc5 44. Qa6+ Kg7 45. Qb5 Qe7 46. a5 {
+And now a6 would win.} e4 47. f4 {Strongly threatening Qe5+.} exd3 48. Qxd3 {
+aiming for a6.} Qb7+ $2 (48... Qb4 49. Qa6 d3) 49. Kf2 Qa7 (49... Qb4 $142 50.
+a6 Qa4) 50. a6 Kh6 51. Kg2 Qa8+ 52. Kh3 Qh1 53. Qxd4 {[%cal Rd4h8] White mates.
+} Qf1+ 54. Kh4 {[%cal Rd4h8]} Kh7 55. Qd7+ Kh6 56. Qe8 {[%cal Re8h8]} Kg7 57.
+Kg5 Qh3 58. Qxg6+ Kf8 59. Qxf5+ Qxf5+ 60. Kxf5 {Precision: White = 70%, Black
+= 26%.} 1-0
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.13"]
+[Round "2"]
+[White "Samadashvili, Martha"]
+[Black "Nguyen, Emily"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "2040"]
+[BlackElo "2215"]
+[Annotator "TA"]
+[PlyCount "112"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,112,0,10,0,7,6,6,6,5,3,17,-12,8,0,33,-8,22,-28,0,0,0,-8,0,0,0,0,0,0,
+7,0,0,-5,0,-25,-24,-33,-24,-20,-18,-38,0,0,0,-88,0,-7,-15,-14,0,-107,-104,-942,
+-811,-739,-501,-374,-71,-71,-69,-42,0,-79,-35,-374,-51,-225,-46,-341,-343,
+-1270,-1188,-2172,-1947,-29963,-29968,-29972,-29973,-29973,-29974,-29974,
+-29975,-29974,-29973,-29977,-29978,-29978,-29979,-29979,-29980,-29980,-29981,
+-29981,-29982,-29982,-29983,-29983,-29984]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4.
+O-O d6 5. h3 Nf6 6. d3 h6 7. a4 {C50: Hungarian Defence and Giuoco Pianissimo}
+a5 8. c3 O-O 9. Na3 Be6 {LiveBook: 4 Games} (9... Ba7 10. Nb5 Bb6 11. Re1 Ne7
+12. d4 exd4 13. Nbxd4 Ng6 14. Bb3 {0-1 (36) Nepomniachtchi,I (2751)-Karjakin,S
+(2783) chess.com INT 2017}) 10. Bxe6 fxe6 11. Nc4 Qe8 $146 ({Predecessor:} 
+11... Ba7 12. Qb3 Qd7 13. Qb5 Rfb8 14. Kh1 Qf7 15. Bd2 {0-1 (34) Beinenson,K 
+(1933)-Kusenkova,N (2112) Minsk 2018}) 12. Be3 Bxe3 13. fxe3 Qh5 14. Nh2 Qg5
+15. Nf3 Qh5 16. Nh2 Qg6 17. Ng4 Nd7 18. Nd2 Nc5 19. d4 Rxf1+ 20. Qxf1 Rf8 21.
+Qb1 Nd7 22. Qd3 h5 23. Nh2 Nf6 24. Nhf3 d5 $36 {[%cal Rf6e4][%mdl 2048] Black
+has good play.} 25. Nxe5 (25. Qb5 $5 {[%cal Rb5b7]}) 25... Nxe5 26. dxe5 Nxe4
+27. Nxe4 dxe4 $11 {[%mdl 4096] Endgame KQR-KQR} 28. Qe2 Qf5 29. Rd1 Qxe5 30.
+Rf1 (30. Qc4 $11) 30... Qd5 (30... Qg5 $17) 31. Rxf8+ Kxf8 {KQ-KQ} 32. Qf2+ $1
+Kg8 33. Qe2 (33. Qf4 $11) 33... Qd3 34. Qxd3 $4 {[%mdl 8192]} (34. Kf2 $17)
+34... exd3 $17 {KP-KP} 35. Kf2 Kf7 36. Ke1 Kf6 $2 (36... c5 $19 {Threatens to
+win with ...Kf6.} 37. b3 Kf6) 37. Kd2 Ke5 {...Ke4 is the strong threat.} 38.
+Kxd3 h4 39. b3 (39. b4 $1 $11) 39... b6 40. Ke2 $2 {[%mdl 8192]} (40. b4 $1 $15
+) 40... c6 $2 (40... Ke4 $1 $19 41. Kd2 c6) 41. Kd3 $2 ({White has to play} 41.
+Kf3 $15) 41... Kd5 $2 ({Black should try} 41... g6 $1 $19 42. b4 Kf5) 42. b4 $2
+{[%mdl 8192]} (42. e4+ $1 $15 Kc5 43. Ke3) 42... Ke5 $1 $19 43. Ke2 $2 {[#]} (
+43. bxa5 bxa5 44. c4) 43... Ke4 $1 44. Kd2 c5 45. bxa5 bxa5 {Black mates.} 46.
+c4 g6 47. Ke2 g5 48. Kd2 Kf5 49. Ke2 {[#]} g4 $1 {[%cal Rg4h3]} 50. hxg4+ Kxg4
+51. Kf1 Kg3 52. Kg1 e5 {[%cal Be6e5,Be5e4][%mdl 32]} 53. Kf1 e4 54. Kg1 h3 55.
+gxh3 Kxh3 56. Kf2 Kh2 {Precision: White = 27%, Black = 46%.} 0-1
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.13"]
+[Round "2"]
+[White "Morris-Suzuki, Sophie"]
+[Black "Cervantes Landeiro, Thalia"]
+[Result "0-1"]
+[ECO "D71"]
+[WhiteElo "1980"]
+[BlackElo "2208"]
+[Annotator "NA"]
+[PlyCount "78"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:00]} g6 {[%emt 0:
+00:00]} 3. g3 {[%emt 0:00:05]} c6 {[%emt 0:00:00]} 4. Bg2 {[%emt 0:00:36]} d5 {
+[%emt 0:00:00]} 5. cxd5 {[%emt 0:00:16]} cxd5 {[%emt 0:00:04]} 6. Nf3 {[%emt 0:
+00:19]} Bg7 {[%emt 0:00:07]} 7. O-O {[%emt 0:00:13]} Nc6 {[%emt 0:01:07]} 8.
+Ne5 {[%emt 0:03:21]} O-O {[%emt 0:04:02]} 9. Nc3 {[%emt 0:02:07]} Bf5 {[%emt 0:
+10:02]} 10. Bf4 {[%emt 0:06:43]} Rc8 {[%emt 0:08:56] D79: Fianchetto Grünfeld:
+Symmetrical Variation (6 0-0 c6 7 cxd5 cxd5)} 11. Nxc6 {[%emt 0:03:18]} bxc6 {
+[%emt 0:05:00]} 12. Na4 {[%emt 0:03:33]} Ne4 {[%emt 0:02:31]} 13. f3 $146 {
+[%emt 0:04:28]} ({Predecessor:} 13. Rc1 Qa5 14. a3 Nd6 15. Bd2 Qd8 16. e3 h5
+17. Qe2 Ne4 18. Be1 e5 19. dxe5 Bxe5 {0-1 (34) Gagunashvili,M (2560)-Mamedov,R
+(2660) Nakhchivan 2014}) 13... Nd6 {[%emt 0:01:32]} 14. Nc5 {[%emt 0:03:42]}
+Qb6 {[%emt 0:10:06]} 15. e3 {[%emt 0:15:40]} Qxb2 {[%emt 0:10:35]} 16. Rf2 {
+[%emt 0:02:38]} Qb4 {[%emt 0:01:57]} 17. g4 {[%emt 0:04:29]} Be6 {[%emt 0:00:
+31]} 18. Rb1 {[%emt 0:03:01]} Qa5 {[%emt 0:01:43]} 19. Bf1 {[%emt 0:04:29]} ({
+Much worse is} 19. Nxe6 fxe6 20. Bg5 Qc7 $15) 19... Rb8 {[%emt 0:07:23]} 20.
+Rfb2 {[%emt 0:01:33]} Rxb2 {[%emt 0:00:32]} 21. Rxb2 {[%emt 0:00:12]} Nc4 {
+[%emt 0:04:56]} 22. Rc2 {[%emt 0:05:11]} Bc8 {[%emt 0:05:53]} 23. Bxc4 {
+[%emt 0:12:19]} dxc4 {[%emt 0:00:09]} 24. Rxc4 {[%emt 0:04:14]} Qxa2 {[%emt 0:
+00:52]} 25. Ra4 {[%emt 0:05:35]} Qd5 {[%emt 0:02:13]} 26. Bc7 {[%emt 0:03:01]}
+(26. e4 $11 Qd8 27. Qd2) 26... f5 {[%emt 0:03:48]} 27. gxf5 {[%emt 0:03:33]}
+Qxf5 {[%emt 0:01:15]} 28. Rxa7 {[%emt 0:04:24]} Qg5+ {[%emt 0:05:04]} ({
+Much less strong is} 28... Qxf3 29. Qxf3 Rxf3 30. Ra8 $17) 29. Kf2 {[%emt 0:02:
+07]} h5 {[%emt 0:05:37]} 30. Ne4 {[%emt 0:02:23]} Qd5 {[%emt 0:01:49]} 31. Kg1
+$19 {[%emt 0:01:09]} (31. Ke1 $11 {und Weiss steht sicher.}) 31... Bg4 {
+[%emt 0:03:06]} 32. Ra5 {[%emt 0:00:50]} Qxe4 {[%emt 0:01:01]} 33. fxg4 {
+[%emt 0:00:16]} Qxe3+ {[%emt 0:00:25]} 34. Kh1 {[%emt 0:00:11]} Qe4+ {[%emt 0:
+00:08]} 35. Kg1 {[%emt 0:00:05]} Bxd4+ {[%emt 0:00:06]} 36. Qxd4 {[%emt 0:00:
+09]} Qxd4+ {[%emt 0:00:10]} 37. Kg2 {[%emt 0:00:05]} Rf2+ {[%emt 0:00:21]} 38.
+Kg3 {[%emt 0:00:38]} Re2 {[%emt 0:01:32]} 39. Ra3 {[%emt 0:00:11]} Qxg4# {
+[%emt 0:00:08]} 0-1
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.14"]
+[Round "3"]
+[White "Nguyen, Emily"]
+[Black "Yip, Carissa"]
+[Result "1/2-1/2"]
+[ECO "D70"]
+[WhiteElo "2215"]
+[BlackElo "2364"]
+[Annotator "ChessBase"]
+[PlyCount "101"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. d4 {[%emt 0:00:00]} g6 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:00]} Nf6 {[%emt 0:
+00:00]} 3. Nf3 {[%emt 0:00:00]} Bg7 {[%emt 0:00:00]} 4. g3 {[%emt 0:00:00]} d5
+{[%emt 0:00:00]} 5. cxd5 {[%emt 0:00:00]} Nxd5 {[%emt 0:00:02]} 6. Bg2 {
+[%emt 0:00:02]} Nb6 {[%emt 0:00:05]} 7. Nc3 {[%emt 0:00:05]} Nc6 {[%emt 0:00:
+04]} 8. e3 {[%emt 0:00:05]} O-O {[%emt 0:00:05]} 9. O-O {[%emt 0:00:04]} Re8 {
+[%emt 0:00:09]} 10. Nh4 {[%emt 0:00:07]} e5 {[%emt 0:00:24]} 11. d5 {[%emt 0:
+00:09]} Nb4 {[%emt 0:00:12]} 12. Qb3 {[%emt 0:00:10]} Qe7 {[%emt 0:02:06]} 13.
+e4 {[%emt 0:11:04]} c6 {[%emt 0:05:30]} 14. Be3 {[%emt 0:03:42]} Nd3 {[%emt 0:
+06:28]} 15. Bxb6 {[%emt 0:13:46]} axb6 {[%emt 0:00:03]} 16. Qxb6 {[%emt 0:05:
+06]} Nb4 {[%emt 0:14:21]} 17. a3 {[%emt 0:20:33]} Nc2 {[%emt 0:00:24]} 18. Rac1
+{[%emt 0:01:27]} Nd4 {[%emt 0:00:50]} 19. Nf3 {[%emt 0:00:53]} Bg4 {[%emt 0:05:
+27]} 20. Nxd4 {[%emt 0:02:50]} exd4 {[%emt 0:00:05]} 21. Nb1 {[%emt 0:03:35]}
+Ra6 {[%emt 0:03:48]} 22. Qb3 {[%emt 0:01:48]} cxd5 {[%emt 0:00:22]} 23. f3 {
+[%emt 0:11:34]} Bd7 {[%emt 0:19:28]} 24. Qxd5 {[%emt 0:03:39]} Bc6 {[%emt 0:00:
+07]} 25. Qb3 {[%emt 0:00:54]} Bh6 {[%emt 0:00:07]} 26. Rce1 {[%emt 0:04:06]}
+Qc5 {[%emt 0:04:56]} 27. f4 {[%emt 0:02:13]} Rb6 {[%emt 0:00:18]} 28. Qa2 {
+[%emt 0:01:31]} d3+ {[%emt 0:06:08]} 29. Rf2 {[%emt 0:00:04]} Bd5 {[%emt 0:00:
+04]} 30. Qa1 {[%emt 0:00:43]} Bg7 {[%emt 0:01:21]} 31. e5 {[%emt 0:00:20]} Bxg2
+{[%emt 0:00:28]} 32. Kxg2 {[%emt 0:00:04]} f6 {[%emt 0:00:05]} 33. Qa2+ {
+[%emt 0:03:06]} Kh8 {[%emt 0:00:19]} 34. b4 {[%emt 0:03:56]} Qc6+ {[%emt 0:02:
+17]} 35. Kg1 {[%emt 0:00:27]} fxe5 {[%emt 0:01:02]} 36. fxe5 {[%emt 0:00:12]}
+Rb5 {[%emt 0:00:27]} 37. Qd2 {[%emt 0:03:27]} Rd5 {[%emt 0:21:38]} 38. Rf3 {
+[%emt 0:00:53]} Qc2 {[%emt 0:02:02]} 39. e6 {[%emt 0:04:53]} Qxd2 {[%emt 0:00:
+29]} 40. Nxd2 {[%emt 0:00:00]} Bc3 {[%emt 0:00:00]} 41. Rd1 {[%emt 0:04:35]}
+Rxe6 {[%emt 0:01:09]} 42. Kf1 {[%emt 0:05:00]} Bxd2 {[%emt 0:10:56]} 43. Rxd2 {
+[%emt 0:01:45]} Red6 {[%emt 0:00:04]} 44. Ke1 {[%emt 0:06:12]} Kg7 {[%emt 0:00:
+41]} 45. Rb2 {[%emt 0:04:31]} Ra6 {[%emt 0:01:19]} 46. Rb3 {[%emt 0:01:49]} d2+
+{[%emt 0:00:44]} 47. Kd1 {[%emt 0:00:08]} Rad6 {[%emt 0:03:06]} 48. Rb2 {
+[%emt 0:00:45]} b5 {[%emt 0:00:48]} 49. Rf2 {[%emt 0:00:11]} Ra6 {[%emt 0:00:
+10]} 50. Rb3 {[%emt 0:00:54]} Rad6 {[%emt 0:00:09]} 51. Rb2 {[%emt 0:02:56]}
+1/2-1/2
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.14"]
+[Round "3"]
+[White "Cervantes Landeiro, Thalia"]
+[Black "Samadashvili, Martha"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[WhiteElo "2208"]
+[BlackElo "2040"]
+[Annotator "ChessBase"]
+[PlyCount "169"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:00]} e6 {[%emt 0:
+00:00]} 3. Nc3 {[%emt 0:00:00]} Bb4 {[%emt 0:00:00]} 4. Nf3 {[%emt 0:00:00]} d5
+{[%emt 0:00:28]} 5. cxd5 {[%emt 0:00:17]} exd5 {[%emt 0:00:05]} 6. Bg5 {
+[%emt 0:04:21]} c6 {[%emt 0:00:50]} 7. Qb3 {[%emt 0:03:19]} Be7 {[%emt 0:05:40]
+} 8. e3 {[%emt 0:01:54]} h6 {[%emt 0:01:09]} 9. Bh4 {[%emt 0:00:25]} Ne4 {
+[%emt 0:04:16]} 10. Bxe7 {[%emt 0:02:22]} Qxe7 {[%emt 0:00:06]} 11. Bd3 {
+[%emt 0:00:19]} O-O {[%emt 0:11:48]} 12. Qc2 {[%emt 0:01:50]} Re8 {[%emt 0:01:
+51]} 13. O-O {[%emt 0:01:47]} Nd7 {[%emt 0:10:49]} 14. Rae1 {[%emt 0:02:34]}
+Ndf6 {[%emt 0:06:15]} 15. Ne5 {[%emt 0:02:07]} Nxc3 {[%emt 0:08:26]} 16. bxc3 {
+[%emt 0:00:36]} c5 {[%emt 0:01:03]} 17. f3 {[%emt 0:16:31]} Be6 {[%emt 0:06:07]
+} 18. Qf2 {[%emt 0:06:12]} c4 {[%emt 0:06:35]} 19. Bb1 {[%emt 0:01:04]} b5 {
+[%emt 0:03:10]} 20. e4 {[%emt 0:02:04]} Qb7 {[%emt 0:02:11]} 21. Qc2 {[%emt 0:
+10:30]} g6 {[%emt 0:04:41]} 22. exd5 {[%emt 0:02:56]} Bxd5 {[%emt 0:02:27]} 23.
+f4 {[%emt 0:03:27]} Kg7 {[%emt 0:06:15]} 24. f5 {[%emt 0:06:01]} g5 {[%emt 0:
+00:53]} 25. Qf2 {[%emt 0:00:25]} Kh8 {[%emt 0:01:49]} 26. Qg3 {[%emt 0:01:52]}
+Qb6 {[%emt 0:04:17]} 27. Ng4 {[%emt 0:03:37]} Nxg4 {[%emt 0:01:55]} 28. Qxg4 {
+[%emt 0:00:32]} Qf6 {[%emt 0:00:40]} 29. Qg3 {[%emt 0:10:46]} Rad8 {[%emt 0:01:
+53]} 30. Re5 {[%emt 0:01:29]} b4 {[%emt 0:02:47]} 31. cxb4 {[%emt 0:03:16]} Qb6
+{[%emt 0:00:19]} 32. Qf2 {[%emt 0:05:05]} f6 {[%emt 0:00:38]} 33. Rxe8+ {
+[%emt 0:02:27]} Rxe8 {[%emt 0:00:03]} 34. a3 {[%emt 0:00:14]} a5 {[%emt 0:01:
+39]} 35. bxa5 {[%emt 0:03:27]} Qxa5 {[%emt 0:00:10]} 36. Qb2 {[%emt 0:00:48]}
+c3 {[%emt 0:01:09]} 37. Qf2 {[%emt 0:01:56]} Qxa3 {[%emt 0:01:24]} 38. Bd3 {
+[%emt 0:00:10]} Rb8 {[%emt 0:01:35]} 39. Qe1 {[%emt 0:00:00]} Qb4 {[%emt 0:00:
+00]} 40. Qe3 {[%emt 0:00:00]} Qa4 {[%emt 0:00:00]} 41. Rc1 {[%emt 0:10:49]} Re8
+{[%emt 0:18:53]} 42. Qf2 {[%emt 0:02:06]} Bc4 {[%emt 0:02:41]} 43. Qc2 {
+[%emt 0:10:46]} Qxc2 {[%emt 0:04:13]} 44. Bxc2 {[%emt 0:00:02]} Re2 {[%emt 0:
+02:11]} 45. Ba4 {[%emt 0:01:20]} Ra2 {[%emt 0:02:02]} 46. Bc6 {[%emt 0:01:36]}
+c2 {[%emt 0:00:47]} 47. Be4 {[%emt 0:00:38]} Bb3 {[%emt 0:00:11]} 48. Kf2 {
+[%emt 0:00:26]} Kg7 {[%emt 0:00:57]} 49. Ke3 {[%emt 0:00:55]} Kf8 {[%emt 0:00:
+49]} 50. Kd2 {[%emt 0:00:29]} Ke7 {[%emt 0:00:12]} 51. Kc3 {[%emt 0:00:28]} Bf7
+{[%emt 0:00:32]} 52. Bxc2 {[%emt 0:02:27]} Kd6 {[%emt 0:00:13]} 53. Rb1 {
+[%emt 0:01:22]} Bd5 {[%emt 0:00:12]} 54. Rb6+ {[%emt 0:00:18]} Ke7 {[%emt 0:00:
+05]} 55. g3 {[%emt 0:00:53]} Ra1 {[%emt 0:00:14]} 56. Rb2 {[%emt 0:03:33]} Rf1
+{[%emt 0:00:48]} 57. Bd3 {[%emt 0:01:05]} Rf3 {[%emt 0:00:08]} 58. Re2+ {
+[%emt 0:00:19]} Kd6 {[%emt 0:01:03]} 59. Kd2 {[%emt 0:00:52]} Rf1 {[%emt 0:00:
+50]} 60. Ke3 {[%emt 0:00:37]} Bc6 {[%emt 0:00:36]} 61. Bc4 {[%emt 0:00:43]}
+Rxf5 {[%emt 0:01:01]} 62. Kd3 {[%emt 0:00:25]} Bd7 {[%emt 0:00:55]} 63. Rb2 {
+[%emt 0:00:52]} Rf3+ {[%emt 0:00:25]} 64. Ke2 {[%emt 0:01:16]} Rc3 {[%emt 0:00:
+17]} 65. Bd3 {[%emt 0:00:45]} Kd5 {[%emt 0:01:44]} 66. Rb6 {[%emt 0:00:34]} Bc6
+{[%emt 0:01:56]} 67. Ke3 {[%emt 0:00:23]} Ra3 {[%emt 0:00:41]} 68. h4 {[%emt 0:
+00:42]} f5 {[%emt 0:00:55]} 69. hxg5 {[%emt 0:00:16]} hxg5 {[%emt 0:00:05]} 70.
+Ke2 {[%emt 0:00:41]} f4 {[%emt 0:00:57]} 71. gxf4 {[%emt 0:00:02]} gxf4 {
+[%emt 0:00:03]} 72. Bg6 {[%emt 0:00:42]} Bd7 {[%emt 0:00:48]} 73. Bh5 {[%emt 0:
+00:33]} Bc8 {[%emt 0:01:05]} 74. Bf3+ {[%emt 0:00:37]} Kxd4 {[%emt 0:00:09]}
+75. Rb4+ {[%emt 0:00:01]} Ke5 {[%emt 0:00:09]} 76. Rb5+ {[%emt 0:00:08]} Kf6 {
+[%emt 0:00:11]} 77. Rb6+ {[%emt 0:00:08]} Kg5 {[%emt 0:00:19]} 78. Rb5+ {
+[%emt 0:00:42]} Bf5 {[%emt 0:00:18]} 79. Kf2 {[%emt 0:00:32]} Ra2+ {[%emt 0:00:
+07]} 80. Be2 {[%emt 0:00:33]} Kf6 {[%emt 0:00:58]} 81. Rb6+ {[%emt 0:01:05]}
+Be6 {[%emt 0:01:08]} 82. Kf3 {[%emt 0:00:19]} Ra4 {[%emt 0:00:13]} 83. Bd1 {
+[%emt 0:00:32]} Rd4 {[%emt 0:01:26]} 84. Bb3 {[%emt 0:00:44]} Rd3+ {[%emt 0:00:
+05]} 85. Kxf4 {[%emt 0:00:04]} 1/2-1/2
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.14"]
+[Round "3"]
+[White "Wu, Rochelle"]
+[Black "Feng, Maggie"]
+[Result "1/2-1/2"]
+[ECO "C18"]
+[WhiteElo "2110"]
+[BlackElo "2236"]
+[Annotator "TA"]
+[PlyCount "62"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,62,0,0,-137,0,-25,-19,-13,-30,-71,-91,-98,45,47,44,54,58,58,58,60,66,
+63,83,45,47,-17,-18,-27,-18,-46,-31,-38,-29,-45,-45,-76,-69,-110,-104,-106,0,
+-78,0,-95,0]} 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7.
+Qg4 O-O 8. Bd3 Nbc6 9. Nf3 f5 10. exf6 Rxf6 {LiveBook: 219 Games} 11. Ng5 {
+[#] C18: French: 3 Nc3 Bb4: Main line: 7 h4 and 7 Qg4} (11. Bg5 $11 Rf7 12.
+Bxe7 Rxe7 13. Qh4) (11. Ne5 c4 12. Bg5 Nxe5 13. dxe5 Rf7 14. Bxe7 Rxe7 15. Be2
+Qa5 16. Qd4 Bd7 17. h4 Rf8 18. g3 Be8 {1/2-1/2 (49) Kryvoruchko,Y (2671)-Vidit,
+S (2625) Al Ain 2014}) 11... Nf5 (11... h6 $1 $17 12. Nh7 Rf7 13. Bxh6 Nf5) 12.
+Qh5 ({Of course not} 12. dxc5 h6 $17) 12... h6 {...Qa5 is the strong threat.}
+13. Nf3 $1 {The position is equal.} c4 14. Be2 Nd6 15. g4 Qe8 $146 ({Black
+should play} 15... Ne4 $17 {Hoping for ...Bd7.} 16. g5 Rf5) ({Predecessor:} 
+15... Ne4 16. g5 Rf5 17. Rg1 Bd7 18. Qh4 Qa5 {1/2-1/2 (35) Hakimifard,R (2001)
+-Alinasab,M (1881) Teheran 2014}) 16. Qxe8+ $14 Nxe8 17. Ne5 Nd6 18. f3 Nf7 19.
+f4 Nd6 20. Bf3 Rf8 21. Bg2 Nxe5 22. fxe5 (22. dxe5 $14 Nb5 23. Bd2) 22... Ne4
+$11 23. Bxe4 dxe4 24. Ke2 Bd7 25. Be3 Ba4 26. Kd2 Rf3 27. Rae1 Raf8 28. Rhg1
+Rh3 29. Rg2 Rhf3 30. Rgg1 $1 Rh3 31. Rg2 $1 Rhf3 {Precision: White = 50%,
+Black = 50%.} (31... Rff3 $17 32. g5 h5) 1/2-1/2
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.14"]
+[Round "3"]
+[White "Matus, Nastassja"]
+[Black "Morris-Suzuki, Sophie"]
+[Result "1-0"]
+[ECO "A28"]
+[WhiteElo "1960"]
+[BlackElo "1980"]
+[Annotator "NA RC"]
+[PlyCount "123"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+{[%evp 33,122,1,-2,-58,14,-80,-89,-87,-71,-70,-72,-115,-89,-129,-107,-133,-59,
+-75,-60,-50,-62,-69,-53,-79,-90,-639,-64,-652,-760,-698,-796,32767,32767,32767,
+32767,-1916,-577,-654,-187,-187,-194,-151,-154,-341,-379,-333,0,0,0,0,0,0,0,0,
+0,0,0,0,429,0,0,0,0,0,0,0,0,0,182,0,0,0,0,0,0,0,0,0,809,816,943,12835,29994,
+29995,29996,29997,29997,29997,29998,29999,29999]} 1. c4 {[%emt 0:00:00]} e5 {
+[%emt 0:00:00]} 2. Nc3 {[%emt 0:00:00]} Nf6 {[%emt 0:00:06]} 3. Nf3 {[%emt 0:
+00:02]} Nc6 {[%emt 0:00:07]} 4. e3 {[%emt 0:00:59]} Bb4 {[%emt 0:04:07]} 5. Qc2
+{[%emt 0:05:46]} O-O {[%emt 0:00:45]} 6. Nd5 {[%emt 0:01:03]} Bc5 {[%emt 0:00:
+37] A28: English Opening: Four Knights Variation} (6... Be7 7. a3 d6 8. Be2 Be6
+9. Ng5 Bxd5 10. cxd5 Nb8 11. Qb3 Nbd7 12. d3 h6 13. Nf3 c6 14. dxc6 bxc6 {
+1/2-1/2 (39) Cheparinov,I (2710)-Kryvoruchko,Y (2689) Riadh 2017}) 7. Ng5 {
+[%emt 0:00:19]} g6 {[%emt 0:01:23]} 8. Nxf6+ {[%emt 0:00:14]} Qxf6 {[%emt 0:00:
+07]} 9. Ne4 {[%emt 0:00:05]} Qe7 {[%emt 0:06:44]} 10. Nxc5 {[%emt 0:00:24]}
+Qxc5 {[%emt 0:00:11]} 11. a3 {[%emt 0:00:09]} a5 {[%emt 0:01:38]} 12. b3 {
+[%emt 0:00:52]} d5 {[%emt 0:02:06]} 13. Be2 {[%emt 0:06:45]} d4 $146 {[%emt 0:
+08:03]} ({Predecessor:} 13... Bf5 14. d3 {0-1 (41) Daley,E-Rach,J ICCF email
+2007}) 14. Bf3 {[%emt 0:33:27]} Bf5 {[%emt 0:17:23]} 15. e4 {[%emt 0:11:34]} d3
+{[%emt 0:08:56]} 16. Qxd3 {[%emt 0:03:50]} Be6 {[%emt 0:00:10]} 17. Bb2 {
+[%emt 0:10:47]} a4 {[%emt 0:11:55]} 18. Be2 {[%emt 0:09:56]} (18. b4 $11 Bxc4
+19. Qe3) 18... Rfd8 {[%emt 0:09:22]} 19. Qe3 {[%emt 0:05:17] [#]} (19. b4 $11
+Rxd3 20. bxc5) 19... Nd4 $1 {[%emt 0:00:50]} 20. Bxd4 {[%emt 0:01:23]} exd4 {
+[%emt 0:00:25]} 21. Qd3 {[%emt 0:00:46] [#]} axb3 $1 {[%emt 0:00:41]} 22. Qxb3
+{[%emt 0:01:13] [#]} d3 $1 {[%emt 0:07:25]} 23. Bxd3 {[%emt 0:01:10]} Qd4 {
+[%emt 0:02:24]} ({Black should play} 23... Qd6 $19 24. Ke2 Rd7) 24. Ke2 {
+[%emt 0:00:47]} Ra4 {[%emt 0:01:14]} (24... Qc5 $17 25. Rhd1 Rd4) 25. Rhc1 {
+[%emt 0:01:54]} b5 $1 {[%emt 0:02:57]} 26. Qc3 {[%emt 0:00:37]} Qc5 {[%emt 0:
+00:46]} 27. cxb5 {[%emt 0:00:40]} Qh5+ {[%emt 0:00:39]} 28. Kf1 {[%emt 0:01:22]
+} Qxh2 {[%emt 0:00:56]} 29. Qxc7 $2 {[%emt 0:01:20]} (29. f3 $17 Rad4 30. Qxc7)
+29... Qh1+ {[%emt 0:07:11]} 30. Ke2 {[%emt 0:00:01] [#]} Bg4+ $1 {[%emt 0:01:
+03]} 31. Ke3 {[%emt 0:00:10]} Qh6+ {[%emt 0:01:23]} 32. f4 {[%emt 0:00:09]}
+Rad4 {[%emt 0:00:52]} 33. Rc3 {[%emt 0:00:42]} Qh4 {[%emt 0:00:25]} 34. f5 {
+[%emt 0:01:11]} Qg5+ {[%emt 0:01:31]} (34... R4d6 $142 {[%cal Rh4g3]} 35. Be2
+Rxd2) 35. Kf2 {[%emt 0:01:05]} Qxd2+ $2 {[%emt 0:00:31]} (35... Rxd3 36. Rxd3
+Rxd3) 36. Kg1 {[%emt 0:00:09]} Rxd3 {[%emt 0:00:27]} 37. Rxd3 {[%emt 0:00:19]}
+Qxd3 {[%emt 0:00:17]} 38. b6 {[%emt 0:00:53] [#]} (38. Rf1 {was necessary.}
+Qd4+ 39. Kh2) 38... Qd4+ $1 {[%emt 0:00:42]} ({Weaker is} 38... gxf5 39. b7 $11
+) 39. Kh2 {[%emt 0:00:02]} Re8 $2 {[%emt 0:02:06]} ({Stronger than} 39... gxf5
+40. b7 $16) (39... Rd6 $19 40. Re1 Qxb6 41. Qxb6 Rxb6) 40. Rc1 {[%emt 0:00:00]}
+gxf5 {[%emt 0:00:00]} 41. b7 {[%emt 0:05:24]} Qd2 $1 {[%emt 0:11:54]} 42. Rc3 {
+[%emt 0:11:02]} Kg7 {[%emt 0:01:51]} 43. Rb3 {[%emt 0:07:17]} Re6 {[%emt 0:13:
+05]} 44. b8=Q {[%emt 0:07:08]} Rh6+ {[%emt 0:00:19]} 45. Kg3 {[%emt 0:00:03]}
+Qe1+ {[%emt 0:00:36]} 46. Kf4 {[%emt 0:00:04]} Qxe4+ $11 {[%emt 0:00:35] and
+Black has nothing to worry.} 47. Kg3 {[%emt 0:00:03]} Qe1+ {[%emt 0:00:50]} 48.
+Kf4 {[%emt 0:00:03]} Qe4+ {[%emt 0:02:36]} 49. Kg3 {[%emt 0:00:07]} Qe1+ {
+[%emt 0:03:10]} 50. Kf4 {[%emt 0:00:06]} Qf2+ $2 {[%emt 0:00:24] [#]} 51. Rf3
+$2 {[%emt 0:03:14]} ({Weiss kommt nicht vorbei an} 51. Ke5 $1 $18 Qd2 52. Qbc8)
+51... Qd2+ {[%emt 0:00:14]} 52. Kg3 {[%emt 0:01:27]} Qe1+ {[%emt 0:00:06]} 53.
+Kf4 {[%emt 0:00:14]} Qe4+ {[%emt 0:00:29]} 54. Kg3 {[%emt 0:00:25]} Rh3+ {
+[%emt 0:00:50]} 55. Kf2 {[%emt 0:00:24]} Qd4+ $2 {[%emt 0:00:26]} (55... Rxf3+
+$11 56. gxf3 Qxf3+ 57. Kg1 Qe3+ 58. Kg2 Qd2+ 59. Kg1 Qe3+ 60. Kg2 Bf3+ 61. Kh3
+Bg4+ 62. Kg2) 56. Ke2 {[%emt 0:00:39]} Bxf3+ {[%emt 0:01:30]} 57. gxf3 {
+[%emt 0:00:21]} Qg1 {[%emt 0:00:37]} 58. Qe5+ {[%emt 0:00:51]} Kh6 {[%emt 0:00:
+23]} 59. Qf8+ {[%emt 0:00:25]} Kh5 {[%emt 0:00:01]} 60. Qxf7+ {[%emt 0:00:31]}
+Kh4 {[%emt 0:00:21]} 61. Qf4+ {[%emt 0:00:26]} Qg4 {[%emt 0:00:02]} 62. Qxh7# {
+[%emt 0:00:18]} 1-0
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.14"]
+[Round "3"]
+[White "Vittal, Sanjana"]
+[Black "Yu, Jennifer"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "1947"]
+[BlackElo "2358"]
+[Annotator "TA"]
+[PlyCount "96"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,96,-41,18,7,41,45,83,83,108,60,76,-41,-61,-155,-160,-153,-150,-170,
+-159,-106,-135,-118,110,-405,-419,-381,-268,-264,-258,-357,-347,-339,-338,-339,
+-210,-323,-329,-270,-268,-272,-258,-255,-226,-221,-189,-201,-100,-128,-64,-62,
+-33,-63,-70,-85,-77,-103,-75,-137,-140,-136,-122,-129,-120,-176,-145,-216,-187,
+-274,-274,-323,-338,-504,-486,-810,-711,-799,-781,-1393,-1376]} 1. d4 d5 2. Bf4
+Nf6 3. Nf3 e6 4. e3 Bd6 5. Nbd2 O-O 6. Bg3 c5 7. c3 Nc6 8. Bd3 b6 9. e4 {
+D02: 1 d4 d5 2 Nf3 sidelines, including 2...Nf6 3 g3 and 2...Nf6 3 Bf4} Be7 10.
+e5 Nd7 {LiveBook: 4 Games} (10... Nh5 $1 $15) (10... Nh5 11. Nf1 cxd4 12. Nxd4
+Nxd4 13. cxd4 g6 14. Ne3 f5 15. exf6 Bxf6 16. Be2 Nxg3 17. hxg3 {1/2-1/2 (37)
+Nakamura,H (2787)-Svidler,P (2760) Moscow 2018}) 11. h4 {Threatening Bxh7+!The
+position is equal.} f5 $146 ({Predecessor:} 11... h6 12. a3 a5 13. Qe2 Bb7 14.
+Bf4 Re8 15. Rh3 f5 16. Qe3 Bf8 {1-0 (41) Papadopoulos,G (2301)-Tilicheev,V 
+(2513) Athens 2018}) 12. exf6 Rxf6 13. Qe2 cxd4 14. cxd4 Nb4 {[#]} 15. Bb1 ({
+White should try} 15. O-O $1 $16) 15... Ba6 $15 16. Qe3 (16. Qd1 $15) 16... Rc8
+$17 {[%cal Rc8c1]} 17. Kd1 {[#]} e5 $1 {[%mdl 512]} 18. Nxe5 (18. dxe5 Rfc6)
+18... Nxe5 19. Bxe5 Rfc6 $40 {[%csl Gc8][%cal Rc6c1][%mdl 128] Black wants a
+kill.} 20. Bf5 Bf8 $2 (20... g6 $17 21. Qg3 Qf8 22. Bxc8 Qxc8) 21. Bxc8 $4 {
+[%mdl 8192]} (21. Qf3 $16 {stays on course.}) 21... Qxc8 $19 22. Qh3 {
+Threatens to win with Qxc8.} Nd3 23. Qxc8 Rxc8 24. Rh2 Nxf2+ 25. Ke1 Nd3+ 26.
+Kd1 Nxb2+ 27. Ke1 Bb4 28. g3 Bc3 29. Rb1 Rf8 {[%csl Ga6][%cal Rf8f1]} 30. Bf4
+Nd3+ 31. Kd1 Nxf4 32. gxf4 Bxd4 ({Don't do} 32... Rxf4 33. Rb3 $17) (32... Bc8
+$19 {and Black stays clearly on top.} 33. Rb5 Be6) 33. Rb4 $17 Bc3 (33... Rxf4
+$17 {aiming for ...Bc8.} 34. Ra4 Bc8 35. Rxa7 Bg4+ 36. Kc2 Bf5+ 37. Kc1 Be3)
+34. Ra4 $15 Bb5 35. Rxa7 Rxf4 36. Rh3 Bf6 37. h5 h6 38. Kc1 (38. Rb7 $142)
+38... Bg5 39. Rh2 Bd3 40. Kb2 Bf6+ 41. Kc1 (41. Kb3 $17) 41... Bf5 42. Re2 (42.
+Ra3 $17) 42... Bg4 43. Re8+ (43. Rh2 $142) 43... Kh7 $19 44. Rb7 Bxh5 45. Re6 (
+45. Rf8 $142) 45... Bg5 {Black is clearly winning.} 46. Rc7 (46. Re5 $142 Rf1+
+47. Kb2) 46... Rf1+ 47. Kc2 Rf2 48. Rxb6 Bxd2 {Precision: White = 32%, Black =
+57%.} 0-1
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.15"]
+[Round "4"]
+[White "Yip, Carissa"]
+[Black "Cervantes Landeiro, Thalia"]
+[Result "1-0"]
+[ECO "A09"]
+[WhiteElo "2364"]
+[BlackElo "2208"]
+[Annotator "TA"]
+[PlyCount "75"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,75,-11,-10,-43,-20,-45,-15,-47,-3,-37,-29,-34,-31,-41,-27,-37,-30,
+-53,-40,-47,-39,-51,-25,-27,-17,-30,-27,-27,16,-29,106,95,89,103,120,112,340,
+366,345,364,357,364,460,473,452,453,453,457,518,337,589,507,682,683,697,692,
+874,909,954,920,868,852]} 1. Nf3 {Mokal,P} d5 2. c4 d4 3. g3 c5 4. Bg2 Nc6 5.
+O-O e5 6. d3 Bd6 7. e3 Nf6 {A09: Réti Opening: 1 Nf3 d5 2 c4} 8. exd4 cxd4 {
+LiveBook: 21 Games} 9. Bd2 $146 ({Predecessor:} 9. Bg5 h6 10. Bxf6 Qxf6 11.
+Nbd2 Bc7 12. Qa4 O-O 13. b4 Bf5 14. Qb3 Rab8 15. Rfe1 {1-0 (30) Caruana,F 
+(2810)-Buhmann,R (2653) Dortmund 2016 CBM 174 [Mokal,P]}) 9... a5 {Black is
+slightly better.} 10. Na3 O-O 11. Nb5 Bb8 12. b3 Bf5 13. Qc2 h6 14. a3 Qd7 15.
+Rad1 Rc8 16. Qb1 a4 17. Rfe1 Bg4 18. Rc1 Qf5 19. Nh4 Qh7 20. Bb4 g5 21. Nf3 $1
+Bf5 ({Much weaker is} 21... Nxb4 $6 22. axb4 Qf5 23. Nfxd4 $1 $14 {[%mdl 512]})
+22. Rcd1 Nxb4 (22... Rd8 $11 {remains equal.}) 23. axb4 $16 Nd7 24. bxa4 Rxa4 {
+Threatens to win with ...Rxc4!} 25. Qb3 Ra6 $2 {[#]} (25... Ra8 $16) 26. Nfxd4
+$1 $18 {[%mdl 512]} exd4 27. Bxb7 Ne5 28. Bxa6 Nf3+ 29. Kg2 Nxe1+ 30. Rxe1 Rd8
+{[#]} 31. Nxd4 $1 {[%mdl 512]} Bxd3 (31... Rxd4 32. Re8+) 32. Nc6 Rf8 $2 (32...
+Be4+ {is a better defense.} 33. Rxe4 Qxe4+ 34. Qf3 Qxf3+ 35. Kxf3 Rd3+ 36. Ke4
+Rb3 37. Nxb8 Rxb4) 33. Ne7+ {White is clearly winning.} Kg7 34. Bb7 f6 35. Bd5
+Be5 36. Nc6 Qf5 37. b5 h5 38. Nb4 {Precision: White = 54%, Black = 29%.} 1-0
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.15"]
+[Round "4"]
+[White "Yu, Jennifer"]
+[Black "Nguyen, Emily"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "2358"]
+[BlackElo "2215"]
+[Annotator "TA"]
+[PlyCount "81"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,81,33,20,57,53,55,66,66,65,62,70,64,62,71,65,70,48,89,54,65,49,94,83,
+133,128,156,157,206,202,199,186,184,167,181,188,248,253,230,192,241,224,268,
+282,266,261,338,337,404,391,430,423,431,419,414,414,477,502,486,477,534,513,
+503,474]} 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. Nc3
+Bb4 {D11: Slav Defence: 3 Nf3 sidelines and 3...Nf6 4 e3 Bg4} (7... Nbd7 8. Bd3
+Bb4 9. O-O O-O 10. Qd1 Re8 11. Bd2 dxc4 12. Bxc4 Qe7 13. a3 Bd6 14. Qc2 Rad8
+15. Rfd1 h5 16. b4 h4 {0-1 (35) So,W (2815)-Carlsen,M (2832) chess.com INT 2017
+}) 8. Bd2 Nbd7 {[%cal Bb8d7,Bd7b6,Bb6c4][%mdl 32]} 9. Bd3 O-O 10. cxd5 cxd5 11.
+a3 {LiveBook: 7 Games} Bxc3 12. Bxc3 Re8 13. O-O Nb6 $146 ({Predecessor:} 13...
+e5 14. dxe5 Nxe5 15. Qf5 g6 {1-0 (42) Khademalsharieh,S (2437)-Zahedifar,A 
+(2055) Teheran 2017}) 14. Rfc1 Rc8 15. g4 Nc4 16. Qe2 Ne4 17. Be1 {[#] Black
+must now prevent Bxe4.} Ned6 18. b3 Nb6 19. f3 Nd7 20. Rxc8 Qxc8 21. Bg3 Qc3 {
+[#]} 22. Ra2 $1 $36 {[%mdl 2048] Black is under strong pressure.} e5 23. Qc2
+Qxc2 24. Rxc2 e4 25. Bxe4 Nxe4 26. fxe4 dxe4 $18 {[%mdl 4096] Endgame KRB-KRN}
+27. Rc7 Nb6 (27... Nf6 $142 28. Rxb7 a6) 28. Rxb7 Nd5 29. Bf2 a6 30. Ra7 h5 31.
+Rxa6 ({Don't take} 31. gxh5 Re6 $18) 31... hxg4 32. hxg4 {[%cal Bh3g4,Bg4g5]
+[%mdl 32]} Rc8 33. Ra5 Nf6 34. Rc5 Ra8 35. g5 Nd7 36. Rd5 Nf8 37. a4 Rb8 38.
+Bg3 {White is clearly winning.} Ra8 39. Re5 Ne6 40. d5 {[%cal Bd4d5,Bd5d6]
+[%mdl 32]} Nc5 41. d6 {Precision: White = 75%, Black = 46%.} 1-0
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.15"]
+[Round "4"]
+[White "Feng, Maggie"]
+[Black "Morris-Suzuki, Sophie"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "2236"]
+[BlackElo "1980"]
+[Annotator "TA"]
+[PlyCount "113"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,113,36,18,31,25,21,12,23,0,12,0,57,52,52,34,30,8,11,10,62,47,95,90,
+90,93,104,108,89,110,106,19,21,21,25,16,27,0,13,0,18,0,11,0,94,110,113,104,325,
+321,326,320,307,303,318,308,294,268,1911,1705,1687,995,1527,1504,1468,1338,
+2200,1839,2991,2002,5925,29944,5522,5302,2593,1950,29976,29970,29979,29981,
+29980,29982,29988,29980,29979,29980,29986,29987,29990,29988,29991,29986,29986,
+29987,29987,29988,29988,29989]} 1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O c5 5. c4
+dxc4 6. Na3 Be7 7. Nxc4 Nc6 8. b3 O-O 9. Bb2 Qc7 {A13: English Opening: 1...e6}
+(9... Bd7 10. d4 cxd4 11. Nxd4 Rc8 12. Nb5 a6 13. Nbd6 Rc7 14. Rc1 Qb8 15. e4
+b5 16. e5 Nd5 17. Bxd5 exd5 {1-0 (31) Wei,Y (2743)-Yu,Y (2751) Shenzhen 2017})
+10. Rc1 {LiveBook: 7 Games} b5 11. Nce5 Bb7 {White has an edge.} 12. Nxc6 Bxc6
+13. d4 Rad8 $146 ({Predecessor:} 13... Qb6 14. dxc5 Bxc5 15. Qc2 Bxf3 16. Bxf3
+Rac8 17. e3 {1/2-1/2 (47) Sunye Neto,J (2480)-Diaz,J (2365) Havana 1986}) 14.
+Qe1 {[#]} Qb6 (14... c4 $1 $11 {[%mdl 512]}) 15. dxc5 $14 Bxc5 16. Qc3 $36 {
+[%mdl 2048] Black is under pressure.} Bxf3 17. Qxf3 Bd4 18. Bxd4 Qxd4 (18...
+Rxd4 $11 19. Rcd1 Rxd1 20. Rxd1 Qa5) 19. Qb7 Qe5 20. Qxa7 Qxe2 21. a4 Nd5 22.
+Qc5 bxa4 23. bxa4 Qa6 24. Qa3 (24. a5 $16) 24... Ra8 $1 $11 25. Ra1 Qa5 $1 26.
+Rfc1 Rac8 27. Bf1 g6 28. Qb2 h5 29. h4 Rfd8 30. Qb5 Qd2 {[#]} (30... Ra8 $11 {
+remains equal.}) 31. Rd1 $1 $16 {[%cal Rd1d2]} Qc3 32. a5 Ne3 $2 (32... Rc5 $16
+33. Qd3 Ra8) 33. fxe3 $18 Qxe3+ 34. Kh2 Rc2+ 35. Bg2 Rxd1 36. Rxd1 Qf3 {
+[%csl Gc2][%cal Rf3g2]} 37. Rg1 Qa3 $2 (37... Ra2 38. a6 Qa8) 38. a6 Ra2 39.
+Qe8+ Kg7 40. Rf1 Qf8 41. Qc6 Qe7 42. Qb7 Kf8 43. Rd1 g5 44. Rd7 Qe8 45. a7 Kg7
+46. Rc7 gxh4 47. a8=Q {White mates.} hxg3+ 48. Kxg3 Rxa8 49. Qxa8 Qb5 50. Qe4
+Qg5+ 51. Kh3 e5 52. Rc3 Kh6 53. Rf3 f6 54. Qf5 Qxf5+ 55. Rxf5 Kg6 56. Be4 Kg7
+57. Rxh5 {Precision: White = 52%, Black = 35%.} 1-0
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.15"]
+[Round "4"]
+[White "Wu, Rochelle"]
+[Black "Vittal, Sanjana"]
+[Result "1/2-1/2"]
+[ECO "C79"]
+[WhiteElo "2110"]
+[BlackElo "1947"]
+[Annotator "TA"]
+[PlyCount "60"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 26,60,9,-44,-6,-47,0,0,0,0,0,0,0,0,0,0,0,-25,22,17,37,0,66,-50,-73,-120,
+-22,-97,-75,-120,-121,-126,-120,-168,-137,-141,-134]} 1. e4 e5 2. Nf3 Nc6 3.
+Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. c3 Bd7 7. Re1 g6 8. d4 b5 9. Bb3 Bg7 10. Nbd2 {
+C79: Ruy Lopez: Steinitz-type lines with 3...a6 4 Ba4 Nf6 5 0-0 d6} (10. a4 O-O
+11. h3 Re8 12. d5 Na5 13. Bc2 c6 14. b4 Nc4 15. dxc6 Bxc6 16. Nbd2 Nxd2 17.
+Bxd2 d5 18. axb5 axb5 19. Rxa8 Qxa8 20. exd5 Bxd5 {1-0 (29) Ni,H (2671)
+-Safarli,E (2639) Riadh 2017}) 10... O-O 11. Nf1 exd4 12. cxd4 Bg4 13. Be3 Na5
+14. Bc2 {LiveBook: 3 Games} (14. h3 $11 Bxf3 15. Qxf3) 14... Nc4 15. Bc1 {[#]}
+Nh5 $146 ({Predecessor:} 15... c5 16. d5 Nd7 {0-1 (44) Alekseenko,K (2563)
+-Triapishko,O (2508) Sochi 2017}) 16. b3 Bxf3 17. gxf3 Nb6 18. Ng3 Qh4 19. Nxh5
+Qxh5 20. f4 Qh4 21. e5 Rfe8 22. Qf3 f6 {[%cal Rf6e5]} 23. Bb2 f5 ({Black
+should try} 23... fxe5 $11 24. fxe5 Rad8) 24. Rac1 (24. Qg3 $14 Qe7 25. Bd1)
+24... Bh6 $15 25. Bb1 Rac8 (25... dxe5 $17 26. fxe5 Bxc1 27. Rxc1 Qg5+ 28. Kf1
+Rad8 29. Rxc7 Nd5) 26. h3 (26. Qg3 $11 Qxf4 27. Rc6) 26... Qxf4 $17 27. Qxf4
+Bxf4 28. Rc6 {[#]} Kf7 $1 29. Kf1 Re6 30. Bc1 Bxc1 {Precision: White = 25%,
+Black = 38%.} 1/2-1/2
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.15"]
+[Round "4"]
+[White "Samadashvili, Martha"]
+[Black "Matus, Nastassja"]
+[Result "1-0"]
+[ECO "B52"]
+[WhiteElo "2040"]
+[BlackElo "1960"]
+[Annotator "NA RC"]
+[PlyCount "99"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+{[%evp 33,87,-62,-48,-52,-63,-60,-44,-61,-71,-72,-67,-64,-45,-48,-16,-22,4970,
+12832,2016,12838,2145,12840,1848,599,619,532,545,560,548,536,403,585,641,688,
+700,794,719,814,718,910,1091,1148,806,891,809,1211,1030,5006,1001,6168,1575,
+29972,29978,29982,29983,29985]} 1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:00]} 2.
+Nf3 {[%emt 0:00:00]} d6 {[%emt 0:00:00]} 3. Bb5+ {[%emt 0:00:00]} Bd7 {[%emt 0:
+04:45]} 4. Bxd7+ {[%emt 0:00:02]} Qxd7 {[%emt 0:02:36]} 5. c4 {[%emt 0:01:15]}
+Nc6 {[%emt 0:03:12]} 6. O-O {[%emt 0:03:14]} g6 {[%emt 0:02:25]} 7. d4 {
+[%emt 0:03:19]} cxd4 {[%emt 0:01:37]} 8. Nxd4 {[%emt 0:00:04]} Bg7 {[%emt 0:00:
+46]} 9. Be3 {[%emt 0:00:40]} Nf6 {[%emt 0:02:47]} 10. f3 {[%emt 0:00:41]} O-O {
+[%emt 0:01:59]} 11. Nc3 {[%emt 0:00:10]} Rac8 {[%emt 0:04:51]} 12. Rc1 {
+[%emt 0:00:31] B52: Sicilian: Moscow Variation with 3...Bd7} (12. b3 a6 13. a4
+e6 14. Rc1 Rfd8 15. Kh1 d5 16. exd5 exd5 17. c5 Re8 18. Bf2 Ne5 19. Nce2 Bh6
+20. Rc2 Bf8 21. Bh4 {0-1 (30) Hansen,E (2573)-Jones,G (2623) Berlin 2015})
+12... Nxd4 {[%emt 0:06:38]} 13. Bxd4 {[%emt 0:02:17]} Rxc4 {[%emt 0:02:27]} 14.
+Bxa7 {[%emt 0:02:21]} Bh6 $146 {[%emt 0:10:27]} ({Predecessor:} 14... b5 15.
+Be3 b4 16. Qb3 Rfc8 17. Ne2 Qb5 18. Qd3 Qc6 19. Rxc4 Qxc4 20. Qxc4 Rxc4 {
+1-0 (41) Fendrik,L (2244)-Kosztolanczi,G (2183) Hungary 2006}) 15. Rb1 {
+[%emt 0:01:23]} Rfc8 {[%emt 0:14:20]} 16. Qd3 {[%emt 0:13:33]} b5 {[%emt 0:05:
+54]} 17. Be3 {[%emt 0:14:20]} Bxe3+ {[%emt 0:11:26]} 18. Qxe3 {[%emt 0:00:06]}
+b4 {[%emt 0:01:00]} 19. Ne2 {[%emt 0:13:21]} Qb7 {[%emt 0:06:16]} 20. Rfc1 {
+[%emt 0:07:49]} Qa6 {[%emt 0:04:07]} 21. Rxc4 {[%emt 0:04:55]} Rxc4 {[%emt 0:
+00:25]} 22. a3 {[%emt 0:00:26]} bxa3 {[%emt 0:02:05]} 23. bxa3 {[%emt 0:00:27]}
+Rc2 {[%emt 0:00:50]} 24. Nd4 {[%emt 0:02:49]} Ra2 $2 {[%emt 0:00:57]} (24...
+Rc8 $11) 25. Rb8+ {[%emt 0:01:34]} Ne8 {[%emt 0:01:13]} 26. Rxe8+ {[%emt 0:00:
+58]} Kg7 {[%emt 0:00:02] [#]} 27. Nf5+ $1 {[%emt 0:01:12]} Kf6 {[%emt 0:00:12]}
+28. Qd4+ {[%emt 0:03:02]} e5 {[%emt 0:02:06]} 29. Qxd6+ {[%emt 0:00:57]} Qxd6 {
+[%emt 0:00:08]} 30. Nxd6 {[%emt 0:00:05]} Rxa3 {[%emt 0:00:14]} 31. Nc4 {
+[%emt 0:00:06]} Ra1+ {[%emt 0:01:07]} 32. Kf2 {[%emt 0:00:05]} Kg5 {[%emt 0:01:
+01]} 33. Rxe5+ {[%emt 0:00:34]} f5 {[%emt 0:00:55]} 34. exf5 {[%emt 0:00:31]}
+Ra2+ {[%emt 0:00:27]} 35. Kg3 {[%emt 0:00:17]} gxf5 {[%emt 0:00:25]} 36. Ne3 {
+[%emt 0:00:16]} Re2 {[%emt 0:01:13]} 37. Rxf5+ {[%emt 0:00:28]} Kg6 {[%emt 0:
+00:10]} 38. Re5 {[%emt 0:00:18]} Ra2 {[%emt 0:00:37]} 39. Kf4 {[%emt 0:00:32]}
+Ra4+ {[%emt 0:00:31]} 40. Re4 {[%emt 0:00:00]} Ra5 {[%emt 0:00:00]} 41. g4 {
+[%emt 0:00:13]} Rb5 {[%emt 0:00:51]} 42. h4 {[%emt 0:00:15]} Ra5 {[%emt 0:00:
+17]} 43. h5+ {[%emt 0:00:18]} Kf6 {[%emt 0:00:24] [#]} 44. g5+ {[%emt 0:00:43]}
+Kf7 {[%emt 0:00:28]} 45. Ng4 {[%emt 0:00:07]} Rb5 {[%emt 0:00:21]} 46. Ra4 {
+[%emt 0:00:18]} Rb7 {[%emt 0:00:37]} 47. Ne5+ {[%emt 0:00:04]} Ke7 {[%emt 0:00:
+16]} 48. Kf5 {[%emt 0:00:04]} Rc7 {[%emt 0:00:21]} 49. g6 {[%emt 0:00:31]} Kf8
+{[%emt 0:00:31]} 50. h6 {[%emt 0:00:35]} 1-0
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.16"]
+[Round "5"]
+[White "Nguyen, Emily"]
+[Black "Wu, Rochelle"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[WhiteElo "2215"]
+[BlackElo "2110"]
+[Annotator "TA"]
+[PlyCount "111"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,111,8,23,0,10,6,16,0,26,22,41,-45,25,22,41,10,16,6,7,5,18,14,57,56,
+70,61,66,75,54,73,72,0,8,0,138,141,200,203,202,195,320,138,146,130,138,143,158,
+74,70,0,0,0,-5,0,20,0,15,15,16,16,16,0,16,15,27,15,48,0,14,0,50,12,12,4,6,0,0,
+0,0,0,0,0,0,0,0,-5,-5,-14,-14,-14,-16,-21]} 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3
+e6 5. e3 a6 6. c5 Nbd7 7. Qc2 {D45: Semi-Slav: 5 e3} g6 (7... Be7 8. Bd3 O-O 9.
+O-O Qc7 10. Na4 h6 11. b4 e5 12. Nxe5 Nxe5 13. dxe5 Qxe5 14. Bb2 Qc7 {1-0 (25)
+Le,Q (2737)-Eljanov,P (2711) Riadh 2017}) 8. b4 Bg7 9. Bb2 O-O 10. Be2 Qc7 11.
+O-O e5 {LiveBook: 4 Games} 12. dxe5 Nxe5 13. Nxe5 Qxe5 14. Nb5 Qe7 {[#] Hoping
+for ...Bf5.} 15. Nd4 $146 ({Predecessor:} 15. Nd6 Ne8 16. Nxe8 Rxe8 17. Bd3
+Bxb2 18. Qxb2 Be6 19. Rfe1 {1/2-1/2 (19) Dunis,A (2510)-Malakhatko,V (2617)
+France 2006}) 15... Ne4 16. a4 (16. Nb3 $14) 16... f5 (16... a5 $1 $15 17. b5
+Qxc5 18. Qxc5 Nxc5) 17. Bd3 $11 Rf7 18. b5 Bd7 19. bxa6 bxa6 20. a5 f4 21. Bxe4
+dxe4 22. exf4 Rxf4 23. Rae1 Rb8 24. Bc1 Rh4 25. Be3 Rh5 26. Bf4 ({Better is} 
+26. Qc4+ $16 Rd5 27. Ne2) 26... Re8 27. Bd6 $36 {[%mdl 2048] White has some
+pressure.} Qh4 {[#]} (27... Be5 $11 {keeps the balance.} 28. Bxe7 Bxh2+ 29. Kh1
+Bg3+ 30. Bh4 Rxh4+ 31. Kg1 Bh2+ 32. Kh1 Bg3+ 33. Kg1 Bh2+ 34. Kh1 Bg3+) 28.
+Qc4+ $1 $16 Rd5 (28... Kh8 $16 {is a better defense.}) 29. Nc2 $18 Kh8 30. Ne3
+Rd2 (30... Rh5 $142 31. Rb1 (31. Qxa6 Be5 $11) 31... Bf8) 31. Qf7 ({Weaker is} 
+31. Qxa6 Ra2 $18) (31. Rd1 $18 {and White stays clearly on top.} Rb2 32. Qxa6)
+31... Qd8 $16 32. Rb1 Be6 33. Qf4 g5 {[#]} 34. Qxe4 (34. Qg3 $142 $1) 34... Ba2
+35. Qxe8+ (35. Qb4 $14 Rd4 36. Qb7 Bxb1 37. Rxb1) 35... Qxe8 $11 36. Rb8 Qxb8
+37. Bxb8 Rb2 38. Ba7 Bc3 39. Nd1 Rc2 40. Nxc3 Rxc3 {[%mdl 4096] Endgame KRB-KRB
+} 41. Re1 Kg7 42. f3 Kf7 43. Kf2 Rc2+ 44. Kg1 Bc4 45. Bb8 Re2 46. Rd1 Bd5 {
+The position is equal.} 47. Rb1 Ra2 48. Bc7 g4 49. Rb4 gxf3 50. gxf3 Kg6 51.
+Rg4+ Kf6 52. Rh4 Kg6 53. f4 Be6 54. Bd8 Bf5 55. Bg5 h5 56. Bd8 $1 {Precision:
+White = 44%, Black = 42%.} 1/2-1/2
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.16"]
+[Round "5"]
+[White "Cervantes Landeiro, Thalia"]
+[Black "Yu, Jennifer"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "2208"]
+[BlackElo "2358"]
+[Annotator "TA"]
+[PlyCount "193"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,192,-11,-9,-9,-13,-9,-9,0,-20,-17,-20,-12,-27,-27,-33,-34,-36,-8,-14,
+-8,-25,0,0,20,0,13,17,22,0,6,18,29,0,0,0,0,-12,0,-2,-29,-21,0,-9,-13,-9,-26,
+-102,-28,-60,-42,-25,-27,-104,-103,-159,-155,-158,-26,-77,-58,-53,-8,-118,-73,
+-73,-65,-71,-73,-65,-68,-102,-99,-128,-87,-93,0,0,0,0,0,0,327,293,578,578,571,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-35,-11,-64,-64,-64,-64,-64,-64,
+-64,-64,-64,0,-74,-31,-74,-73,-73,-74,-74,-74,-80,-77,-84,-74,-80,-93,-101,
+-101,-134,-80,-80,0,0,0,0,0,0,0,-80,0,-80,0,-80,-73,-73,0,0,0,0,0,0,0,-169,0,0,
+0,-158,0,0,0,0,0,0,29995,29996,29996,29997,29999]} 1. d4 d5 2. c4 e6 3. Nc3 c6
+4. cxd5 exd5 5. Qc2 Bd6 6. Nf3 Ne7 7. Bg5 f6 8. Bh4 Bf5 9. Qd2 Na6 {D31:
+Damengambit (Halbslawisch)} (9... g5 10. Bg3 Ng6 11. Bxd6 Qxd6 12. e3 Be4 {
+0-1 (12) Barcenilla,R (2446)-Azarov,S (2556) Saint Louis 2017}) 10. e3 {
+LiveBook: 4 Partien} Nc7 11. Bd3 Qd7 {Die Stellung ist ausgeglichen.} 12. Bg3
+O-O 13. O-O $146 ({Vorgänger:} 13. Na4 Ne6 14. Rc1 Bxd3 15. Qxd3 {1/2-1/2 (60)
+Njobvu,I (2220)-Domingos,C (2240) Lusaka 2005}) 13... Bxg3 14. hxg3 g5 15. e4
+dxe4 16. Nxe4 b6 17. Rac1 Ncd5 18. b4 Bg6 19. a4 {[%cal Ba2a4,Ba4a5][%mdl 32]}
+Kg7 20. Rfe1 Rad8 21. b5 cxb5 22. Bxb5 Qb7 23. Qe2 h6 24. a5 Qb8 25. Nfd2 Nf5 (
+{Viel schlechter ist} 25... bxa5 $6 26. Nc5 $16) 26. Qc4 Rf7 27. Qa4 Nc7 28.
+Nb3 Nxb5 29. Qxb5 bxa5 30. Qxa5 Nxd4 31. Nec5 Kh7 32. Rcd1 (32. Nxd4 $11 Rxd4
+33. Ne6) 32... Nc6 (32... Ne2+ $17 33. Kh2 Rxd1 34. Rxd1 Qc8) 33. Qa4 Rxd1 34.
+Rxd1 Ne5 35. Qa2 (35. Ne4 $11) 35... Qb6 $17 36. Qd2 (36. Qa4 $142) 36... Rc7
+37. Qd8 Nf7 (37... Bf7 $17 38. Na6 Rc6 39. Qxb6 Rxb6) 38. Qd5 (38. Qf8 $11)
+38... Re7 $1 39. Ra1 Qd6 40. Qa8 (40. Qxd6 $11 {bleibt in der Remisbreite.}
+Nxd6 41. Ra6) 40... Bc2 41. Qf3 Ne5 42. Qc3 Bxb3 43. Nxb3 Rc7 44. Qe1 Rd7 $1
+45. Rc1 Kg7 46. Nc5 Nd3 ({Besser ist} 46... Re7 $17 {Droht stark ...Sf3+!} 47.
+Qc3 Qd5) 47. Nxd3 $11 Qxd3 {[%mdl 4096] Endspiel KDT-KDT} 48. Qe8 $36 {[%mdl
+2048] Weiss hat gut koordiniertes Spiel.} Rb7 49. Rc8 {[%csl Gc8][%cal Re8g8]}
+Qd1+ $2 {[%mdl 8192]} (49... Qb1+ $11 50. Kh2 Qh7) 50. Kh2 $18 {[%csl Gc8]
+[%cal Re8g8]} Qd5 $2 (50... h5 {war angesagt.} 51. f4 gxf4 52. gxf4 Qd7) 51.
+Qh8+ Kg6 52. Rf8 $2 (52. Rg8+ $1 $18 Kf5 53. g4+ $1 {[%mdl 512]} Ke4 54. Re8+
+Kd3 55. Qxf6) 52... Rg7 $11 53. Ra8 Qd7 54. Rd8 Qe6 55. Ra8 h5 56. Qb8 Qd7 57.
+Qb1+ Qf5 58. Qa2 Qd7 59. Qb1+ Kh6 60. Qa1 Rf7 61. Qc1 Qc7 62. Qb1 h4 63. Qf5 {
+Weiss will mit Th8+ Matt setzen.} Kg7 64. Qe4 (64. f4 $11) 64... Rf8 65. Rxf8
+hxg3+ 66. fxg3 {Droht Matt per De8.} Kxf8 $15 {KD-KD} 67. Qf5 Kg7 68. Qb5 a5 (
+68... Qc8 $15) 69. Kh3 (69. Qa6 $11) 69... Kg6 {( -> ...Dh7+)} (69... Kf8 {
+seems wilder.} 70. Qf5 Qe5 71. Qc8+ Kf7 72. Qd7+ Qe7) 70. Kh2 Qh7+ 71. Kg1 Qa7+
+$1 72. Kh2 a4 73. Qd3+ Kg7 74. Qa3 Qd7 75. Qb4 Kg6 {...Dh7+ ist eine echte
+Drohung.} 76. Qb1+ Kh6 {zielt auf ...a3 ab.} 77. Qb4 Qe8 (77... Kg7 $142 78.
+Qc5 Qe8 79. Qa7+ Kf8) 78. g4 $17 Qe5+ (78... Kg7 $17 {Droht ...Kg6 und aus.}
+79. Kh1 Qd7) 79. Kh1 $1 $11 Qa1+ 80. Kh2 Kg6 {Und weiter mit ...De5+ wäre nett.
+} (80... a3 $5) 81. Qf8 Qe5+ 82. Kh1 (82. Kh3 $11 {hält das Gleichgewicht.})
+82... Qe1+ 83. Kh2 Qe5+ 84. Kh1 {[#]} Qe6 $1 85. Kh2 {[#]} Qf7 ({Doch nicht} 
+85... Qxg4 86. Qg8+ Kf5 87. Qd5+ Kg6 88. Qg8+ Kh6 89. Qh8+ Kg6 90. Qg8+ $11) (
+85... a3 $1 $17 {[%cal Ra3a2] Und ...a2 würde nun gewinnen.} 86. Qxa3 Qxg4 87.
+Qd3+ f5) 86. Qa8 $1 Qc7+ 87. Kh1 Qc1+ 88. Kh2 Qf4+ 89. Kg1 $2 (89. Kh1 $11 {
+und Weiss steht sicher.}) 89... Kf7 $2 ({Minderwertig wäre} 89... Qxg4 90. Qe8+
+Kg7 91. Qe7+ Kg6 92. Qe8+ Kg7 93. Qe7+ Kg6 94. Qe8+ $11) (89... Qd4+ $19 90.
+Kh1 Kg7 91. Qb7+ Kg6) 90. Qa7+ Kg6 $2 (90... Ke8 $11 91. Qa8+ Kd7 92. Qd5+ Ke8
+93. Qc6+ Kd8 94. Qd5+ Ke7 95. Qb7+ Ke6 96. Qc6+ Ke7 97. Qb7+ Kf8 98. Qc8+ Kg7
+99. Qd7+ Kh6) 91. Qa8 $1 $17 Qxg4 $2 ({Günstiger ist} 91... Qd4+ $17 92. Kh1
+Kg7 93. Qb7+ Kf8 94. Qa8+ Kg7 95. Qb7+ Kg8 96. Qb8+ Kf7 97. Qb7+ Ke8 98. Qc8+
+Kf7 99. Qb7+ Ke8 100. Qc8+ Kf7 101. Qc7+ Ke6 102. Qc6+ Kf7 103. Qb7+) 92. Qg8+
+$11 Kf5 {Weiss muss nun ...Dd4+ beachten.} 93. Qc8+ Kf4 94. Qc4+ Kg3 $2 {
+[%mdl 8192]} (94... Kf5 $11 95. Qc8+ Kf4 96. Qc4+ Kf5 97. Qc8+) 95. Qc7+ {
+Weiß setzt Matt.} Qf4 96. Qc3+ Kg4 97. Qh3# {Precision: Weiß = 60%, Schwarz =
+42%.} 1-0
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.16"]
+[Round "5"]
+[White "Morris-Suzuki, Sophie"]
+[Black "Samadashvili, Martha"]
+[Result "0-1"]
+[ECO "B47"]
+[WhiteElo "1980"]
+[BlackElo "2040"]
+[Annotator "NA RC"]
+[PlyCount "168"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+{[%evp 19,155,10,32767,8,21,16,19,32767,23,32767,32767,32767,32767,32767,32767,
+32767,32767,32767,32767,3,0,32767,32767,32767,-9,-11,0,32767,32767,0,13,32767,
+0,-20,14,-16,2,0,31,12,25,0,34,17,24,7,68,0,40,10,54,-17,-20,-38,-41,-41,-28,
+-52,-44,-27,-53,32767,32767,32767,-31,-85,-41,-43,-57,-53,-55,-81,0,-132,-142,
+-133,-126,-132,-70,-97,-62,-82,-53,-173,-128,-243,-256,32767,-265,-341,-163,
+-316,-247,-161,-49,32767,-138,-196,-104,-264,-211,-556,-61,-335,-122,-152,-157,
+-293,-316,-361,-377,-441,-250,-215,-182,-216,-150,-359,-170,32767,-46,-369,
+-343,-408,-345,-304,32767,-306,0,-325,-352,-311,-311,-329,-241,-1518,-2600,
+-12845]} 1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:26]} e6
+{[%emt 0:00:00]} 3. d4 {[%emt 0:01:14]} cxd4 {[%emt 0:00:00]} 4. Nxd4 {[%emt 0:
+00:11]} Nc6 {[%emt 0:00:00]} 5. Nc3 {[%emt 0:00:47]} Qc7 {[%emt 0:00:00]} 6.
+Be2 {[%emt 0:00:35]} a6 {[%emt 0:00:00]} 7. O-O {[%emt 0:00:15]} Nf6 {[%emt 0:
+00:19]} 8. Kh1 {[%emt 0:03:51]} Be7 {[%emt 0:02:03]} 9. f4 {[%emt 0:02:34]} d6
+{[%emt 0:00:08]} 10. Be3 {[%emt 0:01:32]} O-O {[%emt 0:00:14]} 11. Qe1 {
+[%emt 0:01:29]} Nxd4 {[%emt 0:00:28]} 12. Bxd4 {[%emt 0:00:10]} b5 {[%emt 0:00:
+12]} 13. Qg3 {[%emt 0:02:27]} Bb7 {[%emt 0:11:49] LiveBook: 114 Games} 14. a3 {
+[%emt 0:03:36]} Bc6 {[%emt 0:05:53]} 15. Rae1 {[%emt 0:02:44]} Rad8 {[%emt 0:
+01:08]} 16. Bd3 {[%emt 0:00:16]} Qd7 {[%emt 0:03:27]} 17. Nd1 {[%emt 0:01:03]}
+g6 {[%emt 0:10:37]} 18. Nf2 {[%emt 0:10:39]} Nh5 {[%emt 0:08:47]} 19. Qe3 {
+[%emt 0:04:23]} f6 {[%emt 0:09:33]} 20. Bc3 {[%emt 0:10:46]} e5 {[%emt 0:03:04]
+} 21. Nh3 {[%emt 0:03:18]} Ng7 {[%emt 0:05:47]} 22. Ba5 {[%emt 0:14:36]} Rc8 {
+[%emt 0:01:53]} 23. c4 {[%emt 0:03:15]} Qb7 {[%emt 0:03:25]} 24. cxb5 {[%emt 0:
+06:04]} axb5 {[%emt 0:00:18]} 25. Qg3 {[%emt 0:01:01]} Nh5 {[%emt 0:11:57]} 26.
+Qg4 {[%emt 0:12:42]} Ng7 {[%emt 0:02:33]} 27. Bc3 {[%emt 0:02:52]} Bd7 {
+[%emt 0:07:19]} 28. Qf3 {[%emt 0:00:02]} Rce8 {[%emt 0:03:04]} 29. Bb1 {
+[%emt 0:00:30]} Be6 {[%emt 0:01:23]} 30. Rd1 {[%emt 0:01:42]} Kh8 {[%emt 0:01:
+55]} 31. Bb4 {[%emt 0:00:34]} Rd8 {[%emt 0:00:35]} 32. Nf2 {[%emt 0:05:36]} Ne8
+{[%emt 0:00:56]} 33. Qg3 {[%emt 0:00:32]} (33. Ng4 $16) 33... Bg8 {[%emt 0:00:
+39]} 34. Ng4 {[%emt 0:00:45]} Ng7 {[%emt 0:01:05]} 35. fxe5 {[%emt 0:00:55]}
+Nh5 {[%emt 0:01:50]} 36. Qh3 {[%emt 0:01:28]} dxe5 {[%emt 0:01:11]} 37. Bxe7 {
+[%emt 0:01:49]} Qxe7 {[%emt 0:00:05]} 38. Qc3 {[%emt 0:01:23]} Be6 {[%emt 0:00:
+46]} 39. Ne3 {[%emt 0:00:08]} Nf4 {[%emt 0:00:17]} 40. Rfe1 {[%emt 0:00:00]}
+Rc8 {[%emt 0:00:00]} 41. Qa5 {[%emt 0:03:02]} Qc5 {[%emt 0:08:28]} 42. Qd2 {
+[%emt 0:06:12]} Bb3 {[%emt 0:04:49]} 43. Rc1 {[%emt 0:00:29]} Qd4 {[%emt 0:01:
+06]} 44. Qf2 {[%emt 0:04:33]} Rxc1 {[%emt 0:04:17]} 45. Rxc1 {[%emt 0:00:03]}
+f5 {[%emt 0:05:44]} (45... Nd3 $15 46. Bxd3 Qxd3) 46. Qf3 {[%emt 0:07:20]} (46.
+exf5 $11 {remains equal.} gxf5 47. Rf1) 46... Qxb2 {[%emt 0:01:25]} 47. Rf1 {
+[%emt 0:01:59]} fxe4 {[%emt 0:01:01]} 48. Qxe4 {[%emt 0:00:50]} Qd4 {[%emt 0:
+02:12]} (48... Be6 $17 49. a4 bxa4 50. Qxa4 Kg7) 49. g3 {[%emt 0:06:28]} Ne6 {
+[%emt 0:00:28]} 50. Rxf8+ {[%emt 0:02:32]} Nxf8 {[%emt 0:00:04]} 51. Qa8 {
+[%emt 0:02:51]} ({White should play} 51. Kg2 $15) 51... Kg7 {[%emt 0:00:46]}
+52. Qb7+ {[%emt 0:00:29]} (52. Qf3 $17) 52... Bf7 {[%emt 0:01:15]} 53. Qe4 {
+[%emt 0:00:56]} Nd7 {[%emt 0:03:18]} 54. Kg2 Nc5 {[%emt 0:01:39]} (54... Qb2+
+$142 55. Bc2 Qxa3) 55. Qf3 {[%emt 0:01:01]} (55. Qxd4 {ist der einzige Weg für
+Weiss..} exd4 56. Ng4) 55... Qb2+ {[%emt 0:00:46]} 56. Bc2 {[%emt 0:00:02]} Bb3
+$2 {[%emt 0:01:20]} ({Lieber} 56... Nb3 $19 57. Qg4 Nc5) 57. Qf2 {[%emt 0:00:
+20]} Qd4 {[%emt 0:01:10]} 58. Bb1 {[%emt 0:00:54]} (58. Bxb3 $17 Nxb3 59. Qf3)
+58... Bd5+ {[%emt 0:00:42]} (58... Be6 $19 {bietet bessere Gewinnchancen.} 59.
+Bc2 Qc3) 59. Kg1 $2 {[%emt 0:00:42]} (59. Nxd5 $17 Qxd5+ 60. Kg1) 59... Be4 {
+[%emt 0:00:50]} 60. Ba2 $2 {[%emt 0:00:29]} (60. Bxe4 Nxe4 61. Qe2) 60... Bf5
+$2 {[%emt 0:00:47]} ({Besser ist} 60... Nd3 $19 61. Qd2 b4) 61. g4 $2 {[%emt 0:
+00:27]} (61. Nxf5+ $17 {was called for.} gxf5 62. Qxd4 exd4 63. Bb1) 61... Be6
+{[%emt 0:00:42]} (61... Bxg4 $19 {has better winning chances.} 62. Nf1 Ne4 63.
+Qxd4 exd4) 62. Bxe6 {[%emt 0:00:36]} Nxe6 {[%emt 0:00:05]} 63. Kg2 {[%emt 0:00:
+11]} (63. h4 $142) 63... Nf4+ {[%emt 0:00:18]} 64. Kg3 {[%emt 0:00:12]} Nd3 {
+[%emt 0:01:30]} 65. Qd2 {[%emt 0:00:03]} Qf4+ {[%emt 0:00:16]} (65... e4 $142
+66. Nf1 Qg1+ 67. Qg2 Qc5) 66. Kg2 {[%emt 0:00:06]} Qe4+ {[%emt 0:00:06]} 67.
+Kg3 {[%emt 0:00:08]} Nc5 {[%emt 0:00:51]} 68. Kf2 $2 {[%emt 0:01:14]} (68. Qe2
+{might work better.}) 68... Qf4+ {[%emt 0:00:31]} (68... Qh1 $142 69. Ke2 Qxh2+
+70. Kd1 Qxd2+ 71. Kxd2 Kf6) 69. Kg2 {[%emt 0:00:06]} Qd4 {[%emt 0:00:41]} ({
+Black should try} 69... Ne4 $19 70. Qe2 Nf6) 70. Qf2 $2 {[%emt 0:01:26]} (70.
+Qxd4 $17 exd4 71. Nd5) 70... Nd3 {[%emt 0:00:13]} 71. Qg3 {[%emt 0:01:04]} Nf4+
+{[%emt 0:00:23]} 72. Kf3 {[%emt 0:00:17]} Qd2 {[%emt 0:00:38]} 73. Ke4 {
+[%emt 0:00:33]} (73. Qf2 {was forced.} Qd6 74. Qc2) 73... Qd4+ $2 {[%emt 0:00:
+33]} (73... Qd6 $19 74. g5 Nd3) 74. Kf3 {[%emt 0:00:06]} Qd3 {[%emt 0:00:32]}
+75. g5 {[%emt 0:01:08]} Qxa3 {[%emt 0:01:11]} 76. Qg4 {[%emt 0:00:01]} Qd6 {
+[%emt 0:00:33]} 77. Qh4 $2 {[%emt 0:00:21]} (77. Qc8) 77... Qc6+ $19 {[%emt 0:
+00:45]} 78. Kg3 {[%emt 0:00:50]} Qc3 {[%emt 0:01:01]} 79. Kf2 {[%emt 0:00:32]}
+Qxe3+ {[%emt 0:00:12]} 80. Kxe3 {[%emt 0:00:04]} Ng2+ {[%emt 0:00:02]} 81. Ke4
+{[%emt 0:00:05]} Nxh4 {[%emt 0:00:04]} 82. Kxe5 {[%emt 0:00:02]} Nf3+ {[%emt 0:
+00:20]} 83. Kf4 {[%emt 0:00:11]} b4 {[%emt 0:00:08]} 84. Kxf3 {[%emt 0:00:05]}
+b3 {[%emt 0:00:03]} 0-1
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.16"]
+[Round "5"]
+[White "Matus, Nastassja"]
+[Black "Yip, Carissa"]
+[Result "0-1"]
+[ECO "E72"]
+[WhiteElo "1960"]
+[BlackElo "2364"]
+[Annotator "TA"]
+[PlyCount "80"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,79,47,37,57,54,70,60,83,29,76,30,29,35,28,0,7,0,0,0,0,-63,-77,-35,
+-81,-160,-139,-161,-124,-222,31,39,57,-34,0,-2,58,0,129,-13,-7,-4,-3,-110,-103,
+-83,-56,-110,-119,-126,-123,-192,-187,-322,-284,-597,-631,-628,-622,-627,-620,
+-621,-616,-631,-627,-1268,-1247,-1212,-1208,-1205,-1189,-29999]} 1. d4 Nf6 2.
+c4 g6 3. Nc3 Bg7 4. e4 d6 5. g3 c6 6. Bg2 {LiveBook: 26 Games} Qa5 {E61:
+King's Indian: Early deviations for White, including Smyslov System} (6... Nbd7
+7. Nf3 e5 8. O-O O-O 9. h3 exd4 10. Nxd4 Re8 11. Re1 Nb6 12. b3 d5 13. cxd5
+cxd5 14. e5 Ne4 15. Nxe4 dxe4 16. Rxe4 Be6 17. Re1 Bd5 18. Nf3 Bxf3 19. Qxf3
+Bxe5 {1-0 (33) Tan,Z (2517)-Abdumalik,Z (2449) Riadh 2017}) 7. Nge2 Nbd7 $146 (
+{Predecessor:} 7... O-O 8. h3 e5 9. O-O Nbd7 10. d5 cxd5 11. cxd5 b5 12. b4
+Qxb4 13. Rb1 Qc4 14. Nxb5 {1/2-1/2 (22) Andres Gonzalez,A (2195)-Sanchez
+Guirado,F (2395) Spain 1998}) 8. O-O h5 {White is slightly better.} 9. f4 (9.
+h3 $16) 9... e5 10. Rb1 exd4 11. Qxd4 h4 12. Bd2 Qh5 13. Be1 hxg3 14. Bxg3 Qh6
+15. e5 (15. Rfd1 $11) 15... dxe5 $15 16. fxe5 Nh5 17. Ne4 (17. Rbe1 $142) 17...
+O-O 18. Nf6+ Ndxf6 19. exf6 Nxg3 $2 (19... Nxf6 $19 {And now ...Bf5 would win.}
+20. Rxf6 Bf5) 20. Nxg3 $14 Bh8 21. b4 (21. Rbe1 $14) 21... Be6 22. Rbd1 Rfc8 (
+22... a5 $11) 23. a4 (23. Ne4 $1 $14) 23... Qf8 {[#]} (23... a5 $11 {remains
+equal.}) 24. Qc3 (24. Qh4 $1 $16 Qxb4 25. Ne4 Qxc4 26. Rf4) 24... Rd8 $11 25.
+Rde1 {Strongly threatening Rxe6!} Qd6 $1 {[%cal Rd6d4] next ...Qd4+ is good
+for Black.} 26. Ne2 (26. Re4 $11 {keeps the balance.}) 26... Qd2 27. c5 Rac8
+28. Qxd2 ({White should try} 28. Rf4 $15) 28... Rxd2 $17 29. Nc3 Rd4 30. Rb1 (
+30. Ne4 $17) 30... Bf5 $19 31. Rb3 (31. Ne2 {is a better defense.} Rh4 32. Rxf5
+gxf5 33. Ng3) 31... Bxf6 32. Ne4 $2 (32. Ne2 {is more resistant.} Rd2 33. Ng3)
+32... Rxe4 (32... Bxe4 $2 33. Rxf6 Bf5 34. Rd6 $19) 33. Bxe4 Bd4+ 34. Kg2 Bxe4+
+35. Kg3 Bd5 36. Rbb1 Be5+ 37. Kh3 Kg7 {[#] ( -> ...f5)} 38. Rbe1 Rh8+ 39. Kg4
+f5+ 40. Kg5 Rh5# {Precision: White = 16%, Black = 60%.} 0-1
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.16"]
+[Round "5"]
+[White "Vittal, Sanjana"]
+[Black "Feng, Maggie"]
+[Result "0-1"]
+[ECO "C18"]
+[WhiteElo "1947"]
+[BlackElo "2236"]
+[Annotator "NA RC"]
+[PlyCount "136"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+{[%evp 20,134,29,23,63,32767,73,61,55,55,58,32767,32767,32767,32767,32767,
+32767,32767,32767,32767,146,136,141,130,32767,90,97,57,32767,32767,84,56,102,
+75,106,32767,32767,95,121,127,133,146,146,143,153,145,146,152,159,152,150,152,
+32767,32767,152,71,116,100,98,76,81,0,19,-113,-127,-123,-125,-116,-112,-125,
+-106,-196,-201,-208,-204,-253,-272,-252,-269,-258,-254,-312,-288,-344,-345,
+-379,-424,-518,-539,-537,32767,-555,-618,-729,-1055,-1127,-1037,-1006,-1073,
+-1414,-1196,-1717,-2278,-2272,-9800,-6563,32767,-29984,-29982,-6559,-29986,
+-29991,-29990,-29991,-29992,-29992,-29993]} 1. e4 {[%emt 0:00:00]} e6 {[%emt 0:
+00:00]} 2. d4 {[%emt 0:00:00]} d5 {[%emt 0:00:00]} 3. Nc3 {[%emt 0:00:00]} Bb4
+{[%emt 0:00:09]} 4. e5 {[%emt 0:00:00]} Ne7 {[%emt 0:00:31]} 5. a3 {[%emt 0:00:
+00]} Bxc3+ {[%emt 0:00:40]} 6. bxc3 {[%emt 0:00:00]} c5 {[%emt 0:00:11]} 7. Qg4
+{[%emt 0:00:00]} O-O {[%emt 0:00:42]} 8. Bd3 {[%emt 0:00:06]} Nbc6 {[%emt 0:00:
+12]} 9. Nf3 {[%emt 0:00:04]} f5 {[%emt 0:00:14]} 10. Qh3 {[%emt 0:00:09]} Qa5 {
+[%emt 0:04:46] LiveBook: 11 Games} 11. Bd2 $1 {[%emt 0:00:18]} Qa4 {[%emt 0:02:
+39]} 12. dxc5 {[%emt 0:00:17] C18: French: 3 Nc3 Bb4: Main line: 7 h4 and 7 Qg4
+} (12. Rg1 cxd4 13. g4 dxc3 14. Bxc3 Bd7 15. gxf5 Nxf5 16. Rg4 d4 17. Bd2 Nce7
+18. Nxd4 h5 19. Nxf5 Qxg4 20. Nxe7+ Kf7 21. Qxg4 hxg4 22. Bg6+ Kxe7 23. Bb4+ {
+1-0 (23) Garakov,M (2439)-Rustemov,A (2547) Novokuznetsk 2008}) 12... Qg4 {
+[%emt 0:05:29]} 13. O-O $146 {[%emt 0:04:47]} ({Predecessor:} 13. Qg3 Ng6 14.
+Be3 Ngxe5 15. Nxe5 Qxg3 16. hxg3 Nxe5 17. Bd4 Nc6 18. f4 Nxd4 19. cxd4 b6 20.
+cxb6 axb6 {1/2-1/2 (54) Selkovski,Z (1939)-Jacimovic,D (2407) Ohrid 2016})
+13... Qxh3 {[%emt 0:10:33]} 14. gxh3 {[%emt 0:00:06]} Na5 {[%emt 0:00:39]} 15.
+Rab1 {[%emt 0:04:34]} Nec6 {[%emt 0:13:05]} 16. Rfe1 {[%emt 0:02:28]} Bd7 {
+[%emt 0:02:08]} 17. Nd4 {[%emt 0:07:34]} Rfc8 {[%emt 0:04:17]} 18. Nb5 {
+[%emt 0:04:11]} Nd8 {[%emt 0:04:38]} 19. Be3 {[%emt 0:01:26]} Nc4 {[%emt 0:05:
+58]} ({Better is} 19... f4 $14 20. Bxf4 Rxc5) 20. Bxc4 $1 {[%emt 0:10:48]} dxc4
+{[%emt 0:00:02]} 21. Nd6 {[%emt 0:00:20]} Rc7 {[%emt 0:00:37]} 22. Bd4 {
+[%emt 0:02:35]} Bc6 {[%emt 0:01:21]} 23. Rb4 {[%emt 0:04:02]} Bd5 {[%emt 0:01:
+28]} 24. Reb1 {[%emt 0:03:48]} Rd7 {[%emt 0:07:53]} 25. R4b2 {[%emt 0:15:25]}
+Rc7 {[%emt 0:01:29]} 26. a4 {[%emt 0:03:07]} Rd7 {[%emt 0:00:32]} 27. a5 {
+[%emt 0:01:19]} a6 {[%emt 0:08:44]} 28. f4 {[%emt 0:05:40]} Rb8 {[%emt 0:03:08]
+} 29. Bf2 {[%emt 0:04:50]} Nf7 {[%emt 0:08:28]} 30. Rb6 {[%emt 0:02:38]} Nxd6 {
+[%emt 0:05:00]} 31. cxd6 {[%emt 0:01:46]} Rc8 {[%emt 0:00:18]} 32. Be3 {
+[%emt 0:03:15]} Kf7 {[%emt 0:00:19]} 33. Kf2 {[%emt 0:00:38]} Be4 {[%emt 0:00:
+22]} 34. R1b2 {[%emt 0:00:32]} Ra8 {[%emt 0:00:10]} 35. R6b4 {[%emt 0:01:20]}
+Rc8 {[%emt 0:00:21]} 36. Bb6 {[%emt 0:03:46]} h6 {[%emt 0:06:21]} 37. h4 {
+[%emt 0:01:19]} (37. Be3 $142) 37... g5 $1 {[%emt 0:03:23]} 38. hxg5 {[%emt 0:
+11:14]} hxg5 {[%emt 0:00:01]} 39. fxg5 {[%emt 0:00:44]} Kg6 {[%emt 0:01:03]}
+40. Be3 {[%emt 0:00:00]} (40. h4 $16) 40... Rh8 {[%emt 0:00:00]} 41. Kg3 {
+[%emt 0:25:18]} (41. Rxc4 $11 Rxh2+ 42. Kf1) 41... Rdh7 {[%emt 0:03:01]} 42.
+Bg1 {[%emt 0:01:58] [#]} Bd5 $1 {[%emt 0:07:59]} ({Don't play} 42... Kxg5 $6
+43. Rxc4 Rg8 44. Rb1 $15) 43. Rb1 {[%emt 0:01:01]} Kxg5 {[%emt 0:00:07]} 44.
+Kf2 {[%emt 0:06:18]} Kf4 {[%emt 0:02:03]} 45. Ke2 {[%emt 0:00:58]} (45. Re1 $17
+{was worth a try.}) 45... Rg8 {[%emt 0:03:58]} ({Don't do} 45... Kxe5 46. Bd4+
+Kxd6 47. Bxh8) 46. Rf1+ {[%emt 0:01:33]} Kxe5 {[%emt 0:00:19]} 47. Rb6 {
+[%emt 0:00:27]} f4 {[%emt 0:04:16]} 48. Kd1 {[%emt 0:00:32]} Kf5 {[%emt 0:02:
+57]} 49. Kc1 {[%emt 0:00:19]} e5 {[%emt 0:01:03]} 50. Rd1 {[%emt 0:00:11]} Bc6
+{[%emt 0:00:07]} 51. h4 {[%emt 0:00:56]} e4 {[%emt 0:00:29]} 52. Bd4 {[%emt 0:
+00:30]} e3 {[%emt 0:00:24]} 53. Rf1 {[%emt 0:01:02]} e2 {[%emt 0:01:06]} 54.
+Re1 {[%emt 0:00:00]} f3 {[%emt 0:00:04]} 55. Kd2 {[%emt 0:00:14]} Rxh4 {
+[%emt 0:00:21]} 56. d7 {[%emt 0:00:47]} Rd8 {[%emt 0:04:56]} 57. Rbb1 {[%emt 0:
+00:37]} Rxd7 {[%emt 0:00:24]} 58. Ke3 {[%emt 0:00:23]} Re7+ {[%emt 0:00:13]}
+59. Kd2 {[%emt 0:00:28]} Rh2 {[%emt 0:01:48]} 60. Be3 {[%emt 0:00:36]} Rd7+ {
+[%emt 0:01:08]} 61. Bd4 {[%emt 0:00:27]} Kf4 {[%emt 0:00:33]} 62. Ra1 {[%emt 0:
+00:32]} Be4 {[%emt 0:01:03]} 63. Rab1 {[%emt 0:00:19]} Bf5 {[%emt 0:00:17]} 64.
+Ra1 {[%emt 0:00:30]} Bg4 {[%emt 0:00:07]} 65. Rg1 {[%emt 0:00:49]} f2 {[%emt 0:
+00:42]} 66. Rxg4+ {[%emt 0:00:13]} Kxg4 {[%emt 0:00:05]} 67. Kxe2 {[%emt 0:00:
+07]} Re7+ {[%emt 0:00:08]} 68. Kd2 {[%emt 0:00:24]} f1=Q+ {[%emt 0:00:16]} 0-1
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.18"]
+[Round "6"]
+[White "Yip, Carissa"]
+[Black "Morris-Suzuki, Sophie"]
+[Result "0-1"]
+[ECO "A05"]
+[WhiteElo "2364"]
+[BlackElo "1980"]
+[Annotator "TA"]
+[PlyCount "96"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 29,96,30,50,5,13,6,21,-16,-20,-22,-9,-5,0,-2,0,8,0,0,0,16,7,0,21,0,6,
+-13,47,46,40,39,45,46,54,50,54,50,61,-300,-300,-301,-289,-383,-378,-593,-87,
+-73,-44,-369,-125,-397,-397,-449,-479,-899,-887,-875,-864,-856,-837,-814,-767,
+-911,-909,-871,-873,-817,-787,-29990,-29991]} 1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4.
+O-O e6 5. c4 Be7 6. b3 O-O 7. Bb2 c5 8. d4 cxd4 9. Qxd4 d6 10. Nc3 a6 11. Rfd1
+Nbd7 12. Rac1 Qc7 13. h3 Rfe8 {A30: Symmetrical English: Double Fianchetto and
+Hedgehog} 14. e4 Bf8 15. Qe3 Rad8 {[#] LiveBook: 6 Games. White has an edge.}
+16. Kh1 $146 ({Predecessor:} 16. Nd4 Qb8 17. Qd3 Ba8 18. a4 g6 19. Qb1 Bg7 20.
+Ba3 Ne5 21. Rc2 d5 22. cxd5 exd5 {1/2-1/2 (128) Sanal,V (2551)-Georgiev,K 
+(2623) Riadh 2017}) 16... Qb8 17. Qe2 g6 18. Re1 Bg7 19. Ba1 Nc5 20. Nd2 d5 {
+Threatening ...d4.} 21. e5 Nh5 22. b4 $36 {[%mdl 2048] White has the
+initiative.} Nd7 $1 {[%cal Rg7e5]} 23. Ncb1 Bf8 24. a3 Qa8 25. Kh2 a5 26. Bc3 (
+26. Nc3 {feels hotter.} axb4 27. axb4 d4 28. Bxb7 Qxb7 29. Nb5) 26... axb4 27.
+axb4 d4 ({Better is} 27... Ng7 $11) 28. Bxb7 $14 Qxb7 29. Bxd4 Bxb4 30. Nc3 Ng7
+31. g4 Qb8 32. Kg1 Nc5 33. Qe3 $2 {[%mdl 8192] [#]} (33. Nb5 $14 {keeps the
+upper hand.}) 33... Rxd4 $1 $19 {[%mdl 512]} 34. Qxd4 {Hoping for Qe3.} Rd8 35.
+Qf4 {Strongly threatening Nde4.} Nd3 $1 {[%csl LRc1,LRe1,LRf4]} 36. Qh6 (36.
+Qe4 {is a better defense.} Nxc1 37. Rxc1 Rxd2 38. Ra1) 36... Bf8 $2 (36... Nxe1
+$19 {is more deadly.} 37. Nce4 Bxd2 38. Nxd2 Qxe5) 37. Nce4 {White wants to
+mate with Nf6+.} Nh5 {[%mdl 1024] Black has strong compensation.} (37... Ne8 $5
+{[%cal Rf8h6]} 38. Qh4 Nxc1 39. Rxc1 Rd3 $15) 38. Qg5 $2 {[%mdl 8192] [#]} (38.
+Qe3 $15 Nhf4 39. Rb1) 38... h6 $2 (38... Nhf4 $1 $19 {[%cal Rf4h3] and Black
+stays clearly on top.} 39. Kf1 (39. Nf6+ $2 Kh8 $19) 39... h6) 39. Qh4 $2 {
+[%mdl 8192]} (39. Qe3 $17 Nhf4 40. Rb1) 39... Nhf4 40. Nf6+ Kh8 41. Nb3 (41.
+Nfe4 $142 Nxc1 42. Qf6+ Bg7 43. Qxf4) 41... Nxe1 42. Rxe1 g5 43. Qg3 Rd3 44.
+Re3 {[#]} Rxb3 $1 {[%mdl 512]} 45. Qf3 {[#]} (45. Rxb3 Ne2+) 45... Qxe5 $1 {
+[%mdl 512]} 46. Rxb3 (46. Rxe5 Rxf3) 46... Qa1+ 47. Kh2 Bd6 {( -> ...Ne2+)} 48.
+Rb1 Ng6+ {Precision: White = 34%, Black = 59%.} 0-1
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.18"]
+[Round "6"]
+[White "Yu, Jennifer"]
+[Black "Matus, Nastassja"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "2358"]
+[BlackElo "1960"]
+[Annotator "TA"]
+[PlyCount "63"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 26,62,37,32,35,39,50,59,51,46,62,59,54,40,75,36,90,68,108,115,269,156,
+368,254,369,352,1557,1543,2044,1173,2328,3327,29993,29984,29998,29997,29998,
+29999,29999]} 1. c4 c6 2. d4 d5 3. Nf3 Nf6 4. e3 e6 5. b3 Nbd7 6. Bd3 Bd6 7.
+Bb2 O-O 8. O-O b6 9. Nc3 Bb7 10. Qc2 h6 {D45: Semi-Slav: 5 e3} (10... Qe7 11.
+Rad1 Rfe8 12. e4 dxc4 13. Bxc4 b5 14. Bd3 e5 15. Ne2 c5 16. dxe5 Nxe5 17. Nxe5
+Bxe5 18. Bxe5 Qxe5 19. Bxb5 Qxe4 20. Qxe4 Rxe4 {1/2-1/2 (31) Shankland,S (2671)
+-Dreev,A (2653) Havana 2018}) 11. Rad1 Rc8 12. e4 dxe4 13. Nxe4 Nxe4 14. Bxe4 {
+LiveBook: 3 Games} Nf6 15. Bd3 Qc7 16. c5 $146 ({Predecessor:} 16. Rfe1 Rfd8
+17. c5 Be7 18. b4 {1-0 (72) Dovramadjiev,T (2342)-Deviatkin,A (2528) playchess.
+com INT 2006}) 16... Be7 $1 17. Ne5 Nd5 18. a3 Bf6 19. Rfe1 Rfd8 20. g3 Rb8 ({
+Better is} 20... Bxe5 $14 21. Rxe5 (21. dxe5 bxc5 22. Qxc5 Qb6 $14) 21... Rd7)
+21. Ng4 $16 Qc8 22. Qe2 Ba8 $2 (22... h5 $16 23. Nxf6+ Nxf6) 23. Bc2 (23. Qe4
+$18) 23... Qc7 $2 (23... Be7 $16 {was worth a try.} 24. Kg2 f5) 24. Qe4 {
+[#] Strongly threatening Qh7+.} Kf8 (24... g6 $142 25. Nxf6+ (25. Nxh6+ Kh8 $16
+) 25... Nxf6) 25. Qh7 $18 Ke7 $2 (25... Qd7 26. Nxf6 Nxf6 27. Qh8+ Ke7 28. Qxg7
+Qd5) 26. Nxf6 {White threatens Rxe6+! and mate.} Nxf6 27. Qxg7 Rg8 {[#]} 28.
+Rxe6+ $1 {[%mdl 512]} Kxe6 29. Re1+ {White mates.} Kd5 30. Qxf6 {[%cal Rf6f3]}
+Rbe8 31. Qf3+ Re4 32. Qxe4# {Precision: White = 73%, Black =  2%.} 1-0
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.18"]
+[Round "6"]
+[White "Feng, Maggie"]
+[Black "Samadashvili, Martha"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2236"]
+[BlackElo "2040"]
+[Annotator "TA"]
+[PlyCount "86"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,86,8,4,22,24,27,23,33,30,31,25,50,42,51,42,59,2,46,45,56,17,41,39,46,
+42,55,36,26,35,25,31,45,23,38,35,59,31,40,25,43,20,22,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. Nf3 {Krasenkow,M} d5 2. g3 g6 3. Bg2 Bg7 4. d4
+Nd7 5. c4 dxc4 6. Qa4 Ngf6 7. O-O O-O 8. Qxc4 Nb6 {D73: Fianchetto Grünfeld: 5
+Nf3} 9. Qb3 Be6 10. Qd1 c6 11. Nc3 {LiveBook: 3 Games} Bd5 $146 ({Predecessor:
+} 11... Nbd5 12. Na4 Ne4 13. Ne5 Ndf6 14. f3 Nd6 15. Nc5 Bc8 16. e4 b6 17. Ncd3
+Bb7 18. Be3 Nb5 19. Qa4 Nd7 {1-0 (54) Sargissian,G (2658)-Svidler,P (2740)
+Rogaska Slatina 2011 CBM 145 [Krasenkow,M]}) 12. Nxd5 cxd5 13. b3 Ne4 14. Bb2
+e6 15. Ne5 f5 16. f3 Nd6 17. Qd2 Nd7 18. Qb4 (18. Rfc1 $14) 18... Qb6 19. Qxb6
+Nxb6 20. Rac1 Rfc8 21. Kf2 Rxc1 22. Rxc1 Rc8 23. e3 Rxc1 24. Bxc1 Bxe5 25. dxe5
+$14 {[%mdl 4096] Endgame KBB-KNN} Nf7 26. Bb2 Nd7 27. f4 Kf8 28. Bd4 a6 29. h3
+Nd8 30. g4 Nc6 {The position is equal.} 31. Bb2 Nb4 32. Ba3 a5 33. Ke2 Kf7 34.
+Bxb4 axb4 $11 {KB-KN} 35. g5 Nc5 36. Kd2 Ke7 37. h4 b6 38. Bf3 Na6 39. Kc2 Nc7
+40. Kb2 Nb5 41. Be2 Nc3 42. Bf3 Nb5 43. Be2 Nc3 {Precision: White = 53%, Black
+= 70%.} 1/2-1/2
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.18"]
+[Round "6"]
+[White "Wu, Rochelle"]
+[Black "Cervantes Landeiro, Thalia"]
+[Result "1-0"]
+[ECO "D70"]
+[WhiteElo "2110"]
+[BlackElo "2208"]
+[Annotator "TA"]
+[PlyCount "77"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 26,77,48,63,48,58,62,48,64,60,64,49,70,83,64,64,95,95,111,104,144,142,
+197,175,212,176,239,218,219,213,200,83,75,76,77,35,102,116,237,263,218,200,460,
+453,448,422,418,397,29995,29984,29984,29985,29979,29950]} 1. d4 Nf6 2. c4 g6 3.
+f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2 Nc6 9. O-O-O f5 {
+D70: Grünfeld: Unusual White 3rd moves (met by ...d5)} (9... Qd6 10. Kb1 Rd8
+11. Nb5 Qd7 12. d5 a6 13. Nc3 Qe8 14. Qc1 Na5 15. h4 e6 16. Bf4 Rd7 17. Bh6
+Bxh6 18. Qxh6 exd5 {1/2-1/2 (35) Aronian,L (2809)-Svidler,P (2749) Geneva 2017}
+) 10. e5 Nb4 11. Nh3 Be6 12. Kb1 Qd7 13. Nf4 Rfd8 14. a3 {LiveBook: 8 Games} a5
+15. d5 (15. axb4 axb4 16. Bb5 c6 $17) 15... N4xd5 16. Ncxd5 Nxd5 17. Bc4 c6
+$146 {[#]} 18. Bb6 $1 {[%cal Rb6d8][%mdl 512]} Re8 (18... Nxb6 19. Bxe6+) 19.
+Nxe6 Qxe6 20. f4 $36 {[%cal Rc4d5][%mdl 2048] White has the initiative.} Qf7
+21. Bxd5 cxd5 22. Qxd5 e6 23. Qb5 a4 (23... Re7 $16 24. Bxa5 Qe8 25. Qxe8+
+Rexe8) 24. Rd4 $18 g5 25. Rd7 ({Don't play} 25. fxg5 $6 f4 $16) ({Resist} 25.
+Rxa4 $6 Rxa4 26. Qxa4 gxf4 $14) 25... Re7 (25... Qh5 $142) 26. Rhd1 $1 Rxd7 27.
+Rxd7 Qe8 28. g3 (28. fxg5 $18 Bxe5 29. h4) 28... gxf4 $16 29. gxf4 Bh6 30. Ba5
+Bxf4 (30... b6 $1 $14 31. Bd2 (31. Bxb6 Bxf4 32. Bc7 Bxh2 $14) 31... Rd8 32.
+Rxd8 Qxd8) 31. Qxb7 {White wants to mate with Rg7+.} Bxe5 {[#]} (31... Rxa5 $16
+{is a better defense.} 32. Rg7+ Kf8) 32. Re7 $1 $18 {[%cal Re7e8]} Qf8 {[#]}
+33. Bb4 $1 {[%mdl 1024] Threatens to win with Qg2+. White has strong
+compensation.} Qc8 $2 (33... Rb8 34. Qg2+ Bg7) 34. Qg2+ Kh8 35. Qh3 {[%csl Ge7]
+[%cal Rh3h7]} Bg7 36. Bc3 Qg8 $2 (36... Qd8 $18 37. Bxg7+ Kg8) 37. Bxg7+ {
+White mates.} Qxg7 38. Rxg7 Kxg7 39. Qg2+ {Precision: White = 85%, Black = 29%.
+} 1-0
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.18"]
+[Round "6"]
+[White "Vittal, Sanjana"]
+[Black "Nguyen, Emily"]
+[Result "0-1"]
+[ECO "B81"]
+[WhiteElo "1947"]
+[BlackElo "2215"]
+[Annotator "TA"]
+[PlyCount "86"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,86,19,44,16,18,10,37,27,30,-133,-156,-155,-148,-240,-268,-237,-243,
+-253,-164,-135,-68,-212,-89,-101,-104,-162,-138,-135,-97,-116,-122,-127,-110,
+-241,-237,-276,-289,-316,-316,-441,-459,-456,-460,-447,-450,-543,-546,-552,
+-554,-543,-512,-848,-506,-29989,-29990,-29990,-29991,-29991,-29990,-29990,
+-29977,-29977,-29977,-29977,-29977,-29962,-6829]} 1. e4 c5 2. Nf3 e6 3. d4 cxd4
+4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. h4 Nc6 8. Rg1 d5 9. exd5 Nxd5 {B81: Sicilian
+Scheveningen: Keres Attack} 10. Nxd5 Qxd5 (10... exd5 11. Be3 Qxh4 12. Qf3 Nxd4
+13. Bxd4 Qe7+ 14. Be2 Qe4 15. Qc3 Be6 16. f3 Qf4 17. Be5 Qa4 18. b3 Qb4 19.
+Bxg7 Rg8 20. Bd4 Qxc3+ 21. Bxc3 h5 {1/2-1/2 (21) Maze,S (2615)-Duda,J (2724)
+Brest 2018}) 11. Be3 Bd7 {LiveBook: 6 Games. The position is equal.} 12. Bg2
+Qa5+ 13. c3 Rd8 $146 ({Predecessor:} 13... Be7 14. g5 hxg5 15. hxg5 Nxd4 16.
+Qxd4 e5 17. Qd5 Qxd5 18. Bxd5 {1/2-1/2 (34) Roganovic,M (2474)-Tompa,J (2406)
+Hungary 2009}) 14. Nb3 Qa6 15. Nc5 $2 (15. Bf1 $11 Qa4 16. Nc5 Qxd1+ 17. Rxd1)
+15... Bxc5 $1 $17 16. Bxc5 Ne5 $1 {[%cal Re5d3] Strongly threatening ...Nd3+.}
+17. Bd4 (17. Qd6 $17 {was the only defense.} Nd3+ 18. Kd2 Nxc5 19. Qxc5) 17...
+Nd3+ $19 18. Kd2 Nxb2 19. Qb3 Nc4+ ({Resist} 19... Qd3+ 20. Kc1 $17) 20. Kc1
+Na5 ({Better is} 20... b5 $17 {Threatens to win with ...e5.} 21. Bf1 O-O) 21.
+Qc2 {[#]} (21. Qa3 $15 Rg8 22. Bf1) 21... Kf8 (21... e5 $1 $19 {[%mdl 512] is
+more deadly.} 22. Bxe5 O-O) 22. Bf1 Qd6 23. Qe2 (23. Be2 $17) 23... Nc6 $36 {
+[%mdl 2048] Black is on the roll.} 24. Be3 Rc8 {White must now prevent ...Ne5.}
+25. Qd2 Qa3+ 26. Qb2 {[#]} Qa5 $1 27. f4 (27. Qb3 $17 {might work better.})
+27... Ne7 28. Bd2 Qc5 29. Rg2 Bc6 30. Be1 Bxg2 31. Bxg2 Nd5 32. Bxd5 Qxd5 ({
+Don't do} 32... exd5 33. Rb1 $19) 33. Qb4+ Kg8 34. Rb1 b6 35. Qa4 Qf3 36. Qxa7
+(36. Kb2 $142) 36... Qxf4+ 37. Bd2 (37. Kb2 $19) 37... Rxc3+ {Black mates.} 38.
+Kb2 Qxd2+ 39. Ka1 Rc1 {[%cal Rd2d4]} 40. Qxb6 Qc3+ 41. Qb2 Qxb2+ 42. Kxb2 Rxb1+
+43. Kxb1 Kf8 {Precision: White = 35%, Black = 54%.} (43... Kh7 $142 44. g5 hxg5
+45. hxg5 Rc8 46. a3 e5 47. Kb2 e4 48. a4 e3 49. Kb1 e2 50. Ka2 e1=Q 51. g6+
+fxg6 52. Ka3 Rb8 53. Ka2 Qf2+ 54. Ka3 Qb2#) 0-1
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.19"]
+[Round "7"]
+[White "Nguyen, Emily"]
+[Black "Feng, Maggie"]
+[Result "1-0"]
+[ECO "C05"]
+[WhiteElo "2215"]
+[BlackElo "2236"]
+[Annotator "TA"]
+[PlyCount "165"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,164,29,10,21,13,14,24,54,54,56,63,91,97,98,88,97,58,100,88,69,60,181,
+84,79,84,76,75,82,81,84,87,79,79,78,77,73,72,88,85,77,61,97,96,107,100,100,100,
+115,93,172,170,169,163,195,195,195,188,195,177,177,175,175,175,172,168,168,168,
+168,0,168,168,168,168,179,183,206,155,211,216,258,262,421,412,387,430,385,296,
+715,309,514,0,650,495,681,597,564,775,761,895,769,726,6203,10120,3221,2398,
+29979,29980,5635,2660,6644,3506,29983,29985,29983,29984,29986,29987,29988,
+29966,29988,29989,29989,29987,29987,29988,29988,29989,29989,29990,29990,29990,
+29991,29991,29992,29992,29993,29992,29992,29993,29993,29994,29995,29996,29996,
+29997,29998,29997,29998,29998,29998,29999,29999]} 1. d4 e6 2. e4 d5 3. Nd2 Nf6
+4. e5 Nfd7 5. Bd3 c5 6. c3 b6 7. Ne2 Ba6 8. Bc2 {LiveBook: 3 Partien} cxd4 {
+C06: Französische Verteidigung (Tarrasch-Variante)} 9. cxd4 Nc6 {...Lxe2 ist
+eine echte Drohung.} 10. Nf3 $1 Nb4 {Weiß hat minimalen Vorteil.} (10... Qc7
+11. O-O Rc8 12. Ba4 b5 13. Bb3 b4 14. Re1 Be7 15. Nf4 O-O 16. h4 {1-0 (53)
+Escobar Forero,A (2477)-Rodriguez Vila,A (2547) Cali 2007}) 11. Bb1 Qc7 12. a3
+Bxe2 13. Kxe2 Qc4+ {[#]} 14. Ke3 $1 g6 $146 ({Vorgänger:} 14... Qa6 15. Bd2 Nc6
+16. Bd3 {1-0 (47) Petrov,A (2157)-Sviridova,O (1993) Tambov 2012}) 15. h4 Bh6+
+16. Ng5 Nc6 17. f4 Ne7 (17... O-O $14) 18. g4 (18. Nf3 $18 {ist viel giftiger.}
+) 18... f6 $16 19. exf6 Nxf6 20. Bd3 ({Natürlich nicht} 20. Nxe6 Qc8 $15) 20...
+Qc6 21. Kf3 {zielt auf De2 ab.} O-O {[#]} 22. Qe2 $1 {[%cal Re2e6]} Bxg5 23.
+hxg5 Ne4 24. Bxe4 dxe4+ 25. Qxe4 Nd5 26. Bd2 Rf7 27. Kg3 Raf8 28. Rhf1 Re7 29.
+Rae1 Qb5 30. Re2 Rc8 31. Rfe1 Qb3+ (31... a5 $16) 32. Qf3 $18 Qxf3+ 33. Kxf3
+Rc2 34. Bc3 Rxe2 35. Rxe2 {[%mdl 4096] Endspiel KTL-KTS} Kf7 36. Rh2 Ke8 37.
+Ke4 Kd7 38. Be1 Rf7 39. Bg3 Ne7 40. Rf2 Rf8 41. Rh2 Rf7 $1 42. Rc2 Nd5 43. Rf2
+Ne7 44. Rf3 a5 45. Be1 Kd6 (45... Nc8 $16 {war einen Versuch wert.} 46. Rc3
+Nd6+ 47. Ke3 Rf8) 46. b4 a4 47. b5 Nd5 $2 (47... Kd7 48. Ke5 Nc8) 48. Bg3 Ke7
+49. f5 gxf5+ 50. gxf5 Rf8 $2 (50... Ke8 51. Be5 (51. fxe6 Rxf3 52. Kxf3 Ke7 $16
+) 51... Nc7 52. Bxc7 exf5+ 53. Rxf5 Rxc7) 51. Bh4 (51. Be5 $142 Rf7 52. Rh3
+Rxf5 53. Rxh7+ Kf8 54. g6 Nf6+ 55. Kd3) 51... Kd6 $2 (51... Ke8 {ist wohl
+besser.} 52. Bg3 (52. fxe6 Rxf3 53. Kxf3 Nc7 $18) 52... Rf7) 52. Bg3+ Ke7 53.
+Be1 Kd6 {Wenn Schwarz jetzt Zeit für ...exf5+ hätte...} 54. f6 Rf7 55. Bg3+ Kd7
+56. Be5 Ke8 57. Bd6 Rd7 58. Ke5 Kf7 59. Rh3 Rd8 60. Rxh7+ Kg6 61. Rg7+ Kh5 62.
+f7 Nc3 63. f8=Q {Weiß setzt Matt.} Rxf8 64. Bxf8 Nxb5 65. Kf6 Nxd4 66. Rh7+ Kg4
+67. g6 Nf5 68. g7 Nxg7 69. Rxg7+ Kf4 70. Kxe6 Ke4 71. Rg4+ Kf3 72. Rxa4 Ke3 73.
+Rb4 Kd3 74. Rxb6 Kc4 75. a4 Kd4 76. a5 Kc4 77. a6 Kd4 78. a7 Kc4 79. a8=Q Kd4
+80. Qd5+ Kc3 81. Rb3+ Kc2 82. Qd3+ Kc1 83. Ba3# {Precision: Weiß = 73%,
+Schwarz = 50%.} 1-0
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.19"]
+[Round "7"]
+[White "Cervantes Landeiro, Thalia"]
+[Black "Vittal, Sanjana"]
+[Result "1-0"]
+[ECO "E40"]
+[WhiteElo "2208"]
+[BlackElo "1947"]
+[Annotator "TA"]
+[PlyCount "171"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,171,-19,0,-9,-3,-8,7,-19,-18,-18,-20,-25,-15,-15,-15,-22,-8,-27,-18,
+-22,-28,-31,-26,-34,-15,-16,0,0,27,0,0,-5,10,10,10,-8,0,0,8,15,45,14,18,10,46,
+43,66,66,59,59,81,81,74,74,74,74,74,74,74,74,74,74,74,67,66,0,74,59,66,66,157,
+157,157,157,157,156,157,157,157,157,157,157,157,157,157,157,157,157,157,157,
+157,157,170,177,198,180,180,184,304,301,504,509,488,487,502,477,548,522,765,
+738,958,952,947,943,919,896,905,940,911,893,1228,1215,6120,1154,5185,3870,6837,
+6283,5297,2018,1818,1313,29982,29983,29982,29983,29983,29983,29981,4642,29980,
+29978,29989,29990,29992,29993,29993,29987,29987,29988,29983,29984,29989,29990,
+29990,5481]} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. cxd5 exd5 6. Bd3 O-O 7.
+Nge2 Re8 8. O-O Bd6 9. Bd2 {E48: Nimzo-Indian: Rubinstein: 5 Bd3 d5 including
+6 Ne2, but excluding 6 a3} a6 {LiveBook: 10 Games} (9... Nbd7 10. Rc1 a6 11.
+Ng3 Nf8 12. Nf5 Bxf5 13. Bxf5 c6 14. f3 Ne6 15. Be1 c5 16. Kh1 cxd4 17. exd4 {
+1/2-1/2 (52) Navara,D (2739)-Kryvoruchko,Y (2714) Chartres 2017}) 10. a3 b6
+$146 ({Predecessor:} 10... Nbd7 11. Qb3 Ne4 12. Be1 Nxc3 13. bxc3 Nf6 14. h3 b5
+15. a4 Bd7 16. axb5 axb5 17. Rxa8 Qxa8 {1-0 (43) Aleksandrov,A (2568)
+-Yeritsyan,A (2114) St Petersburg 2016}) 11. b4 {The position is equal.} Bb7
+12. Nf4 Nbd7 13. Qf3 {[%cal Rf4d5]} Ne4 14. Rfd1 Nxd2 15. Rxd2 Nf6 16. Rc2 Qd7
+17. Kh1 {[%cal Rf4d5]} Bf8 18. Nh5 Nxh5 19. Qxh5 {[%csl Gd3][%cal Rh5h7]} g6
+20. Qh4 Rac8 21. Ne2 Bg7 22. Rb1 Qd6 23. Rbc1 (23. Qg3 {keeps more tension.}
+Qd8 24. h4 c6 25. h5 Qf6 26. Qf4) 23... c6 24. Qg3 Qxg3 25. hxg3 Bf8 26. Nf4
+Ra8 27. Be2 Bd6 28. Rb1 Re7 29. Nd3 Rc7 30. a4 Bc8 31. a5 b5 32. g4 Bd7 33. Nc5
+Bxc5 34. Rxc5 Re8 35. Bf3 Rcc8 36. Rbc1 Kf8 37. Kg1 Kg7 38. Kf1 Kf6 39. g3 h6
+40. Kg2 Kg7 41. Kf1 Kf6 $1 42. R1c3 Kg7 43. Ke2 f5 (43... Rcd8 $14) 44. gxf5
+$16 gxf5 45. Rc1 Rh8 46. Kd3 Kf6 47. Rh1 Rcg8 48. Rh4 Ke7 49. Rc1 Rg6 50. Rch1
+Kd6 51. Bh5 Rg7 52. Bd1 Rg6 53. Bc2 Ke7 54. Ke2 Kf7 55. Kf3 Kf6 56. Kf4 Kg7 57.
+Rh5 Rg5 (57... Rf8 $142 58. Bd3 Rgf6) 58. Ke5 $18 Kg6 $2 (58... Rg6 59. Bxf5
+Bxf5 60. Rxf5 Rf8 61. Rxf8 Kxf8) 59. Rxg5+ Kxg5 {[%mdl 4096] Endgame KRB-KRB}
+60. Kd6 Rh7 61. Kc5 Kf6 62. Kb6 Ke7 63. Kxa6 Kd6 64. Kb6 Rh8 65. a6 Rb8+ 66.
+Ka7 Rh8 67. Kb7 Bc8+ 68. Kb6 Rh7 {[#]} 69. g4 $1 {[%mdl 512]} Rh8 (69... fxg4
+70. Bxh7) 70. Bxf5 (70. a7 $142 Bd7 {[#]} 71. Rxh6+ $1 {[%mdl 512]} Rxh6 72.
+a8=Q) 70... Bxf5 71. gxf5 {KR-KR} Rb8+ 72. Ka5 Rh8 73. Rg1 (73. a7 $142 Kc7 74.
+Rxh6 Rxh6 75. a8=Q) 73... h5 74. Rg6+ Kc7 75. Rg7+ Kd6 76. Kb6 h4 77. a7 h3 78.
+Rg1 (78. Rh7 $142 Rd8 79. Kb7 h2 80. a8=Q Rxa8 81. Kxa8 h1=Q 82. Rxh1 Ke7 83.
+Kb7) 78... h2 79. Rh1 {White mates.} Kd7 {[#]} 80. Rxh2 $1 {[%mdl 512]} Rxh2
+81. a8=Q {KQ-KR} Ke7 82. Qb7+ Kf6 83. Qxc6+ Kxf5 84. Qxd5+ Kg4 85. Qe4+ Kh3 86.
+Qf3+ {Precision: White = 62%, Black = 43%.} 1-0
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.19"]
+[Round "7"]
+[White "Samadashvili, Martha"]
+[Black "Yip, Carissa"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "2040"]
+[BlackElo "2364"]
+[Annotator "TA"]
+[PlyCount "122"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,122,16,34,17,39,32,21,3,47,0,-5,-27,-39,-30,-51,-66,-62,-62,-63,-69,
+-60,-137,-119,-122,-120,-124,-84,-134,-142,-156,-154,-139,-163,-176,-176,-171,
+-163,-170,-157,-240,-242,-272,-258,-373,-357,-343,-357,-393,-237,-254,-245,
+-352,-332,-307,-192,-188,-188,-182,-189,-339,-330,-303,-308,-192,0,0,0,-205,
+-226,-209,-222,-334,-322,-300,0,0,0,-646,0,0,0,0,0,-107,0,-652,-617,-885,-886,
+-806,-491,-881,-927,-839,-763,-1657,-2381,-1866,-1629,-2214,-2160,-1758,-1142,
+-1985,-1401,-4686,-8126,-6203,-5784,-29984,-29984,-29989,-29978]} 1. e4 e5 2.
+Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. a4 {C50: Hungarian Defence and
+Giuoco Pianissimo} (6. c3 d5 7. exd5 Nxd5 8. Re1 Be6 9. Nbd2 Bd6 10. Ne4 h6 11.
+b4 a6 12. a4 Re8 13. Qb3 Nf6 14. Bxe6 Rxe6 15. Be3 Ne7 16. Rad1 {1-0 (25)
+Kramnik,V (2800)-Anand,V (2776) Moscow 2018}) 6... a6 {LiveBook: 59 Games} 7.
+a5 d5 $146 ({Predecessor:} 7... h6 8. h3 d6 9. Nc3 Bb4 10. Nd5 Bxa5 11. Be3 Bd7
+12. c3 Bb6 13. Nxb6 cxb6 {1-0 (67) Hoolt,S (2405)-Shen,Y (2465) Riadh 2017}) 8.
+exd5 {White is slightly better.} Nxd5 9. Re1 Bg4 10. h3 (10. c3 $14) 10... Bh5
+$11 11. g4 Bg6 12. Bg5 f6 13. Be3 Bb4 {[%cal Bc5b4,Bb4a5,Ba5b6][%mdl 32]} 14.
+c3 Bxa5 15. Bc5 Re8 16. b4 ({White should play} 16. d4 $15 e4 17. Nh4) 16...
+Bb6 $17 17. Qb3 Bf7 18. d4 e4 19. Nbd2 Bxc5 $1 20. bxc5 b5 ({Worse is} 20...
+exf3 21. Rxe8+ Qxe8 22. Bxd5 $14) 21. cxb6 cxb6 {White must now prevent ...b5.}
+22. Rxe4 Rxe4 23. Nxe4 Na5 $36 {[%mdl 2048] Black is on the roll.} 24. Rxa5
+bxa5 25. Nc5 (25. Nfd2 $17) 25... Rb8 $19 26. Qa2 Qb6 {...Qb1+ is the strong
+threat.} 27. Qa4 (27. Nd2 $142 Qb2 28. Bxd5 Qxa2 29. Bxa2 Bxa2 30. Kf1) 27...
+Qb1+ 28. Kh2 Qb2 29. Ne4 Qb6 30. Nfd2 h5 31. g5 (31. Qa3 $142) 31... f5 32. Ng3
+Qc7 33. g6 Be6 34. Kg1 h4 35. Ngf1 (35. Ne2 $142) 35... Rc8 36. Ne3 Qd6 {
+aiming for ...Nxe3.} 37. Qa2 {[%cal Rc4d5]} Rd8 $2 ({Better is} 37... Nf4 $19
+38. Nxf5 Nxh3+ 39. Kg2 Qc6+ 40. d5 Nf4+ 41. Kh2 Qb6 42. Ne7+ Kf8) 38. Nf3 $11 {
+Hoping for Ng5.} Nf4 {Threatens to win with ...Rc8.} 39. Ne5 $2 (39. Ng5 $1 $11
+{and White is okay.} Bxc4 40. Qxc4+ Nd5 41. Nxd5 Qxd5 42. Qc7) 39... Bxc4 $19 (
+{Not} 39... Nxh3+ 40. Kh2 $11) 40. Qxc4+ Qe6 41. Qc7 (41. Qxe6+ $142 Nxe6 42.
+Nc6) 41... Rf8 42. d5 Nxd5 $2 ({Black should try} 42... Qe8 $19 43. Nc6 Qe4 44.
+Ne7+ Kh8 45. N7xf5 Rg8) 43. Nxd5 $11 Qxd5 $19 {[%mdl 4096] Endgame KQR-KQN} 44.
+Nf7 $2 {[%mdl 8192] [#]} (44. Qe7 $11 Rd8 45. Nf7) 44... Qd1+ $2 (44... Re8 $1
+$19 {[%cal Re8e1] ( -> ...Re1+)} 45. Kh2 Qe6 46. Nh6+ Kf8) 45. Kh2 $11 {
+Intending Nh6+! and mate.} Qd2 46. Kg2 {White wants to mate with Qc4.} Qd5+ 47.
+Kh2 {[#]} (47. Kg1 $1 $11 {remains equal.}) 47... Re8 (47... Rxf7 $1 $17 48.
+gxf7+ Kf8) 48. c4 $2 {[%mdl 8192]} (48. Nd6 $11 Rf8 49. Qe7) 48... Qe6 $19 49.
+c5 Qxg6 {And now ...Re1 would win.} 50. Nd6 Rf8 51. Qd7 (51. Qxa5 $142 Qe6 52.
+Qa3 Qe5+ 53. Kg1) 51... f4 {[%cal Bf5f4,Bf4f3][%mdl 32]} 52. Nc4 Qf5 53. Qe7 f3
+54. Ne3 Qf7 55. Qxh4 Qf4+ 56. Qxf4 Rxf4 {KR-KN} 57. c6 Rf8 58. Nd5 a4 {[%cal
+Ba5a4,Ba4a3][%mdl 32]} 59. c7 a3 60. Ne7+ Kh7 61. Nc6 Rc8 {Precision: White =
+34%, Black = 75%.} 0-1
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.19"]
+[Round "7"]
+[White "Morris-Suzuki, Sophie"]
+[Black "Yu, Jennifer"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "1980"]
+[BlackElo "2358"]
+[Annotator "TA"]
+[PlyCount "82"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,81,18,14,21,35,28,41,17,-3,-23,-24,-13,-26,-18,-23,-37,-29,-31,-33,
+-78,-65,-262,-25,-29,-8,-17,0,-97,-97,-66,-71,-828,-799,-750,-333,-743,-731,
+-1416,-543,-520,-12,-501,-487,-556,-558,-548,-565,-556,-553,-525,-385,-425,
+-410,-1226,-523,-564,-546,-660,-651,-5102,-5022,-29983,-29984,-29992,-29993,
+-29996,-29990,-29999]} 1. d4 g6 2. e4 Bg7 3. c4 e5 4. d5 d6 5. Nc3 Ne7 6. g3 {
+A42: Modern Defence: Averbakh Variation} (6. Be3 Nd7 7. Qd2 f5 8. f3 Nf6 9. h3
+f4 10. Bf2 O-O 11. c5 g5 12. O-O-O h5 13. cxd6 cxd6 14. Kb1 Bd7 15. Bb5 g4 16.
+Bxd7 Qxd7 17. hxg4 hxg4 18. fxg4 Qxg4 {1-0 (37) Le,Q (2693)-Mamedyarov,S (2726)
+Astana 2012}) 6... O-O 7. Bg2 f5 8. Nge2 Nd7 {LiveBook: 4 Games} 9. O-O h6 10.
+exf5 gxf5 $146 ({Predecessor:} 10... Nxf5 11. Ne4 Nd4 12. Nxd4 exd4 {1/2-1/2 
+(48) Pychova,N (2201)-Arda,C (2124) Rymanow Zdroj 2017}) 11. f4 e4 12. g4 fxg4
+13. Ng3 Nc5 14. Ncxe4 Nf5 15. Qxg4 Ne3 16. Qg6 Nxf1 17. Kxf1 Rf7 18. Nh5 $2 {
+[#]} (18. Be3 $15) 18... Qf8 $2 (18... Nxe4 $1 $19 19. Bxe4 Qh4) 19. Neg3 $11
+Bf5 $36 {[%mdl 2048] Black has some pressure.} 20. Nxf5 Rxf5 21. Nxg7 (21. Bf3
+$11) 21... Rf6 $17 22. Qc2 Qxg7 23. Kg1 $2 {[%mdl 8192]} (23. a4 $17) 23... Re8
+$19 24. b4 Re1+ 25. Kf2 Rg6 26. Kf3 Rxg2 (26... Ne4 $142 {( -> ...Rg3+!)} 27.
+Be3 Rxg2 28. Rxe1 Rxc2) 27. Qxg2 Qxg2+ 28. Kxg2 {[%mdl 4096] Endgame KRB-KRN}
+Nd3 29. Bb2 Re2+ 30. Kf3 Rxb2 {KRN-KR} 31. a3 Rxh2 32. Ke4 Nb2 33. Rc1 Kf7 34.
+Kf5 (34. c5 $142 Ke7 35. Rg1) 34... Rf2 {[#] ...Nd3 is the strong threat.} 35.
+Rc3 Re2 36. c5 Nd1 37. Rc1 Re1 38. c6 b6 {Black mates.} 39. Rc5 bxc5 40. bxc5
+Re8 {[%cal Rd1e3]} 41. cxd6 Ne3# {Precision: White = 32%, Black = 62%.} 0-1
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.19"]
+[Round "7"]
+[White "Matus, Nastassja"]
+[Black "Wu, Rochelle"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "1960"]
+[BlackElo "2110"]
+[Annotator "NA RC"]
+[PlyCount "113"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. d4 {[%emt 0:00:00]} d5 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:00]} c6 {[%emt 0:
+00:00]} 3. Nf3 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 4. Qb3 {[%emt 0:00:00]}
+dxc4 {[%emt 0:01:04]} 5. Qxc4 {[%emt 0:00:00]} Bg4 {[%emt 0:00:45]} 6. Nbd2 {
+[%emt 0:00:21]} Nbd7 {[%emt 0:00:54] D23: Queen's Gambit Accepted: 3 Nf3 Nf6
+sidelines} 7. g3 {[%emt 0:00:35]} e6 {[%emt 0:00:54]} 8. Bg2 {[%emt 0:00:35]}
+Be7 {[%emt 0:00:33]} 9. O-O {[%emt 0:00:26]} O-O {[%emt 0:00:51]} 10. Re1 {
+[%emt 0:14:20]} Rc8 {[%emt 0:06:04] LiveBook: 7 Partien} 11. Qb3 {[%emt 0:01:
+21]} Qb6 {[%emt 0:03:38]} 12. Nc4 {[%emt 0:11:07]} Qa6 {[%emt 0:01:30]} 13. Bf4
+{[%emt 0:04:51] [#]} Nd5 $146 {[%emt 0:05:23]} ({Predecessor:} 13... c5 14.
+Nfe5 {1/2-1/2 (39) Krasenkow,M (2607)-Khairullin,I (2638) Jurmala 2012}) 14.
+Bd6 {[%emt 0:04:03]} N7b6 {[%emt 0:10:38]} 15. Bxe7 {[%emt 0:02:20]} Nxe7 {
+[%emt 0:01:23]} 16. Nce5 {[%emt 0:13:21]} Bh5 {[%emt 0:03:56]} 17. Nd3 {
+[%emt 0:05:54]} Qc4 {[%emt 0:04:33]} 18. Qxc4 {[%emt 0:04:36]} Nxc4 {[%emt 0:
+00:06]} 19. Rac1 {[%emt 0:00:21]} Nd6 {[%emt 0:01:40]} 20. Nf4 {[%emt 0:01:31]}
+Bxf3 {[%emt 0:01:26]} 21. Bxf3 {[%emt 0:00:35]} Rfd8 {[%emt 0:01:03]} 22. Red1
+{[%emt 0:01:37]} g6 {[%emt 0:05:17]} 23. Nd3 {[%emt 0:03:33]} Nd5 {[%emt 0:07:
+08]} 24. Nc5 {[%emt 0:08:02]} b6 {[%emt 0:02:09]} 25. Nd3 {[%emt 0:02:56]} Ne7
+{[%emt 0:07:08]} 26. e3 {[%emt 0:06:14]} Rc7 {[%emt 0:03:36]} 27. Nb4 {[%emt 0:
+04:19]} Rdc8 {[%emt 0:01:26]} 28. Na6 {[%emt 0:00:32]} Rd7 {[%emt 0:00:15]} 29.
+Rc2 {[%emt 0:01:05]} Nb7 {[%emt 0:01:24]} 30. Rdc1 {[%emt 0:01:45]} Rd6 {
+[%emt 0:01:23]} 31. b4 {[%emt 0:01:49]} b5 {[%emt 0:12:34]} 32. Nc5 {[%emt 0:
+01:43]} Nd8 {[%emt 0:01:27]} 33. Ne4 {[%emt 0:00:46]} Rd5 {[%emt 0:00:43]} 34.
+Nf6+ {[%emt 0:00:08]} Kg7 {[%emt 0:00:05]} 35. Nxd5 {[%emt 0:00:18]} exd5 {
+[%emt 0:00:22]} 36. Rc3 {[%emt 0:01:47]} f5 {[%emt 0:00:50]} 37. Be2 {[%emt 0:
+00:47]} Rb8 {[%emt 0:00:16]} 38. Ra1 {[%emt 0:00:43]} a6 {[%emt 0:00:40]} 39.
+a4 {[%emt 0:00:49]} Nf7 {[%emt 0:00:25]} 40. axb5 {[%emt 0:00:00]} axb5 {
+[%emt 0:00:00]} 41. Ra7 {[%emt 0:01:31]} Kf6 {[%emt 0:00:18]} 42. Rca3 {
+[%emt 0:02:21]} Nd6 {[%emt 0:00:21]} 43. Kg2 {[%emt 0:05:13]} Ke6 {[%emt 0:00:
+30]} 44. h4 {[%emt 0:03:41]} h5 {[%emt 0:02:57]} 45. Ra1 {[%emt 0:03:35]} Ndc8
+{[%emt 0:01:36]} 46. R7a3 {[%emt 0:01:28]} Nd6 {[%emt 0:00:29]} 47. Kh3 {
+[%emt 0:02:43]} Kf6 {[%emt 0:01:26]} 48. R3a2 {[%emt 0:02:19]} Rb7 {[%emt 0:01:
+03]} 49. Bd3 {[%emt 0:00:17]} Rb8 {[%emt 0:01:00]} 50. f3 {[%emt 0:01:07]} Rh8
+$18 {[%emt 0:00:28]} 51. Rf1 {[%emt 0:01:19]} Ke6 {[%emt 0:00:42]} 52. Ra7 {
+[%emt 0:03:14]} Rh6 {[%emt 0:04:44]} 53. Re1 {[%emt 0:00:26]} Kf6 {[%emt 0:01:
+36]} 54. Rc7 {[%emt 0:01:58]} Rh8 {[%emt 0:01:04]} 55. e4 {[%emt 0:04:14]} dxe4
+{[%emt 0:00:37]} 56. fxe4 {[%emt 0:00:05]} fxe4 {[%emt 0:00:23]} 57. Bxe4 {
+[%emt 0:00:04]} 1-0
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.20"]
+[Round "8"]
+[White "Yu, Jennifer"]
+[Black "Samadashvili, Martha"]
+[Result "1/2-1/2"]
+[ECO "A25"]
+[WhiteElo "2358"]
+[BlackElo "2040"]
+[Annotator "TA"]
+[PlyCount "133"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,133,16,0,42,46,50,-1,0,0,62,4,29,19,18,0,11,0,14,18,29,0,0,0,28,37,
+88,82,93,81,146,127,152,45,93,54,66,36,61,37,75,38,107,41,32,14,14,14,26,26,36,
+29,39,15,70,0,0,0,7,0,4,0,0,0,51,0,62,15,151,45,49,0,0,0,0,0,8,8,89,8,8,0,0,0,
+0,0,4,0,0,-25,8,8,8,8,8,8,8,8,8,8,8,0,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8]} 1. c4
+e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 d6 5. e3 Bg7 6. Nge2 Nf6 7. d3 O-O 8. O-O Be6 9.
+Nd5 Qd7 10. f4 {LiveBook: 6 Partien. A25: Englische Eröffnung (Sizilianisch im
+Anzug)} (10. Nec3 Ne8 11. f4 f5 12. Qa4 Kh8 13. Bd2 Nd8 14. Qxd7 Bxd7 15. Ne2
+c6 16. Ndc3 Ne6 17. b4 a6 18. Rab1 {0-1 (38) Ivanchuk,V (2726)-Mchedlishvili,M
+(2603) Riadh 2017}) 10... Ne8 11. Rb1 Bh3 12. b4 (12. Bxh3 $14 Qxh3 13. Bd2)
+12... Bxg2 $11 13. Kxg2 Nf6 $146 (13... Ne7 $11) ({Vorgänger:} 13... Nd8 14. e4
+f5 15. fxe5 dxe5 16. b5 c6 17. bxc6 bxc6 {0-1 (26) Hanken,J (2230)-Manion,J 
+(2335) Chicago 1994}) 14. b5 (14. f5 $14) 14... Ne7 15. Nxf6+ Bxf6 16. fxe5
+Bxe5 17. e4 $36 {[%mdl 2048] Weiss hat gut koordiniertes Spiel.} f5 18. Bh6
+Rfe8 19. Qb3 Kh8 20. Rbe1 c6 21. Ng1 Bg7 (21... a6 $14) 22. Bxg7+ $16 Kxg7 23.
+Nh3 cxb5 (23... Rad8 $142) 24. cxb5 d5 25. Ng5 (25. Nf4 $16) 25... h6 26. Nf3 (
+26. Ne6+ {seems wilder.} Qxe6 27. exf5 Qd7 28. f6+ Kh8 29. fxe7 Rxe7 30. Rxe7
+Qxe7 31. Qxd5 Rd8 32. Qe4) 26... Rf8 27. Rf2 Rae8 28. e5 d4 29. Qa4 Rd8 (29...
+f4 $14) 30. Qxa7 (30. e6 $16 Qc7 31. Qxa7) 30... Qxb5 $14 31. Nxd4 Qd5+ 32. Nf3
+Ra8 33. Qd4 {Und weiter mit Db4 wäre nett.} Rfd8 {[#] Weiss muss nun ...Dxf3+!
+beachten.} 34. Qxd5 (34. Qb2 {feels hotter.} Qe6 35. d4 Rd7 36. Kg1 Nd5 37. Qb3
+) 34... Rxd5 35. Rb1 b5 ({Günstiger ist} 35... Rxd3 $11 36. Rxb7 Kf8) 36. Rc2 (
+{Lieber} 36. d4 $14) 36... g5 $11 37. d4 Ra4 38. Rf1 Kf7 39. h3 Ke6 40. g4 Ra6
+(40... b4 $11) 41. Rfc1 (41. Rb2 $14) 41... Ra3 (41... b4 $11) 42. Rf2 Ra6 {[#]
+} (42... f4 $11) 43. Rc7 (43. Nd2 $1 $16) 43... Rd7 $14 44. Rxd7 (44. Rc5 {
+with more complications.} Rd5 45. Rc1 Rd8 46. Rb1 Rb8 47. Rb3) 44... Kxd7 {
+[%mdl 4096] Endspiel KTS-KTS} 45. Ne1 {Und Sd3 würde nun gewinnen.} fxg4 46.
+hxg4 Ra4 47. Rd2 Nc6 (47... Ke6 $11) 48. Nf3 ({Besser ist} 48. Kf3 $16) 48...
+Ne7 $11 49. Rb2 Nd5 50. Kg3 Nc3 51. d5 Nxd5 52. Rxb5 Ne3 53. Rb7+ Ke6 54. Rb6+
+{Die Stellung ist ausgeglichen.} Ke7 55. Rxh6 Nxg4 56. Rh7+ Ke6 57. Nxg5+ Kxe5
+58. Nf3+ Kf5 59. Rf7+ Ke6 60. Rf4 Rxf4 $1 61. Kxf4 {KS-KS} Nf6 62. Ke3 Kd5 63.
+Kd3 Nd7 64. Kc3 Kc5 65. Kb3 Kb5 66. Nd4+ Ka5 67. Nc6+ {Precision: Weiß = 30%,
+Schwarz = 41%.} 1/2-1/2
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.20"]
+[Round "8"]
+[White "Feng, Maggie"]
+[Black "Yip, Carissa"]
+[Result "0-1"]
+[ECO "A05"]
+[WhiteElo "2236"]
+[BlackElo "2364"]
+[Annotator "TA"]
+[PlyCount "74"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,74,7,5,56,0,28,17,21,22,27,14,22,0,3,-10,-12,-21,-8,-10,-18,-26,-29,
+-45,-25,-30,0,0,0,0,0,0,0,0,0,0,112,120,110,-100,-114,-260,-257,-352,-272,-514,
+-472,-633,-577,-556,-569,-1004,-985,-2316,-2227,-29967,-12829,-7037,-6740,
+-3026,-2918,-29992,-6960]} 1. Nf3 Nf6 2. g3 b5 3. Bg2 Bb7 4. O-O e6 5. d3 Be7
+6. e4 d6 7. Na3 {A05: Réti Opening: 1 Nf3 Nf6} (7. Nd4 a6 8. Nb3 c5 9. e5 Bxg2
+10. exf6 Bxf1 11. fxe7 Qxe7 12. Qxf1 Nc6 13. Be3 O-O 14. Nc3 f5 {1-0 (39)
+Aronian,L (2801)-Ipatov,A (2630) Antalya 2013}) 7... a6 8. c4 {LiveBook: 12
+Games} b4 (8... O-O $11) 9. Nc2 ({Better is} 9. Qa4+ $1 $14 Nc6 10. Nc2) 9...
+a5 10. Nd2 $146 ({Predecessor:} 10. b3 O-O 11. Bb2 c5 12. Nh4 Nfd7 13. f4 Bxh4
+14. gxh4 Qxh4 {1/2-1/2 (62) Karasev,V (2408)-Monin,N (2359) St Petersburg 2001}
+) 10... e5 11. f4 Nbd7 12. Nf3 O-O 13. Kh1 Re8 14. Be3 Bf8 15. Qd2 c6 16. Rae1
+Qc7 17. Bg1 Rad8 18. Re2 Ba6 19. b3 d5 20. exd5 cxd5 {And now ...e4 would win.}
+21. fxe5 dxc4 22. bxc4 ({Much weaker is} 22. exf6 Rxe2 23. Qxe2 cxd3 $17) 22...
+Nxe5 23. Nxe5 Rxe5 24. Bd4 Rh5 (24... Rxe2 $11 25. Qxe2 Qd7) 25. Bxf6 $16 gxf6
+26. Qe3 $2 {[#]} (26. Ne3 $1 $16) 26... Re5 $1 $17 {[%cal Re5e3]} 27. Qf3 {[#]}
+(27. Qf2 $17 {is a better defense.}) 27... Rxd3 $1 $19 {[%mdl 512]} 28. Qg4+ (
+28. Qxd3 $2 {loses.} Bxc4 29. Qd2 Rxe2 $19) 28... Rg5 29. Qe4 $2 (29. Qf4 {
+is the only way for White.} Qxf4 30. gxf4) 29... Qxc4 30. Rfe1 Qxe4 31. Bxe4
+Rc3 32. Rd2 Re5 33. Bg2 {[#]} Rxc2 $1 34. Rxe5 (34. Rxc2 Rxe1+) 34... Rc1+ ({
+Weaker is} 34... fxe5 35. Rxc2 Bd3 36. Rc1 $11) 35. Bf1 fxe5 36. Kg2 Bxf1+ 37.
+Kf2 Bc4 {Precision: White = 28%, Black = 62%.} (37... Bc5+ $142 38. Kf3 f5 39.
+Rd3 e4+ 40. Kf4 exd3 41. g4 d2 42. h3 d1=Q 43. a4 Bxh3 44. Ke5 Bxg4 45. Kf6
+Qd8+ 46. Ke6 Re1#) 0-1
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.20"]
+[Round "8"]
+[White "Nguyen, Emily"]
+[Black "Cervantes Landeiro, Thalia"]
+[Result "0-1"]
+[ECO "D21"]
+[WhiteElo "2215"]
+[BlackElo "2208"]
+[Annotator "ChessBase"]
+[PlyCount "210"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. d4 {[%emt 0:00:00]} d5 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:00]} dxc4 {
+[%emt 0:00:00]} 3. Nf3 {[%emt 0:00:00]} a6 {[%emt 0:00:00]} 4. e3 {[%emt 0:08:
+09]} Bg4 {[%emt 0:00:12]} 5. Bxc4 {[%emt 0:00:46]} e6 {[%emt 0:00:12]} 6. O-O {
+[%emt 0:01:56]} Nc6 {[%emt 0:00:25]} 7. b3 {[%emt 0:02:26]} Nf6 {[%emt 0:01:03]
+} 8. Bb2 {[%emt 0:01:08]} Bd6 {[%emt 0:06:13]} 9. Nbd2 {[%emt 0:01:07]} O-O {
+[%emt 0:01:33]} 10. Be2 {[%emt 0:08:30]} Nd7 {[%emt 0:17:06]} 11. Nc4 {[%emt 0:
+02:45]} Be7 {[%emt 0:01:14]} 12. e4 {[%emt 0:06:15]} Nf6 {[%emt 0:10:02]} 13.
+Ne3 {[%emt 0:01:59]} Bh5 {[%emt 0:03:01]} 14. d5 {[%emt 0:02:21]} exd5 {
+[%emt 0:02:50]} 15. e5 {[%emt 0:01:11]} Nd7 {[%emt 0:06:32]} 16. Qxd5 {[%emt 0:
+02:36]} Nb6 {[%emt 0:01:50]} 17. Qe4 {[%emt 0:00:20]} Bg6 {[%emt 0:00:23]} 18.
+Nf5 {[%emt 0:05:56]} Qc8 {[%emt 0:06:36]} 19. Nxe7+ {[%emt 0:02:48]} Nxe7 {
+[%emt 0:00:07]} 20. Qe3 {[%emt 0:06:16]} Nbd5 {[%emt 0:02:39]} 21. Qc1 {
+[%emt 0:00:22]} Rd8 {[%emt 0:01:47]} 22. Rd1 {[%emt 0:05:05]} Nc6 {[%emt 0:04:
+20]} 23. Bc4 {[%emt 0:06:07]} Nce7 {[%emt 0:04:25]} 24. Be2 {[%emt 0:09:39]} c5
+{[%emt 0:06:27]} 25. Nh4 {[%emt 0:02:24]} Qc7 {[%emt 0:07:50]} 26. Nxg6 {
+[%emt 0:06:44]} Nxg6 {[%emt 0:01:21]} 27. Bf3 {[%emt 0:00:34]} Nb4 {[%emt 0:02:
+29]} 28. Be4 {[%emt 0:07:39]} Rxd1+ {[%emt 0:07:16]} 29. Qxd1 {[%emt 0:00:06]}
+Rd8 {[%emt 0:00:10]} 30. Qf3 {[%emt 0:04:27]} Nc6 {[%emt 0:05:02]} 31. Qg3 {
+[%emt 0:01:51]} Nd4 {[%emt 0:00:26]} 32. Bxd4 {[%emt 0:02:19]} Rxd4 {[%emt 0:
+01:34]} 33. Re1 {[%emt 0:00:48]} Qa5 {[%emt 0:00:36]} 34. Qe3 {[%emt 0:00:21]}
+Qc7 {[%emt 0:00:42]} 35. Bxg6 {[%emt 0:01:10]} hxg6 {[%emt 0:00:28]} 36. e6 {
+[%emt 0:00:04]} fxe6 {[%emt 0:00:07]} 37. Qxe6+ {[%emt 0:00:03]} Qf7 {[%emt 0:
+00:01]} 38. Qc8+ {[%emt 0:00:06]} Kh7 {[%emt 0:00:04]} 39. Qxc5 {[%emt 0:01:36]
+} Rd2 {[%emt 0:00:52]} 40. h3 {[%emt 0:00:00]} Rxa2 {[%emt 0:00:00]} 41. Re4 {
+[%emt 0:05:25]} Qf6 {[%emt 0:13:31]} 42. g3 {[%emt 0:03:29]} b6 {[%emt 0:04:39]
+} 43. Qe3 {[%emt 0:00:08]} Ra5 {[%emt 0:00:55]} 44. Kg2 {[%emt 0:05:56]} Qc6 {
+[%emt 0:01:41]} 45. Kh2 {[%emt 0:02:26]} Rh5 {[%emt 0:02:45]} 46. g4 Rc5 47. b4
+{[%emt 0:07:48]} Rc3 {[%emt 0:02:58]} 48. Qd4 Rc2 49. Kg1 {[%emt 0:06:45]} Rc1+
+{[%emt 0:03:00]} 50. Kh2 Qc7+ {[%emt 0:01:02]} 51. Kg2 {[%emt 0:00:26]} b5 {
+[%emt 0:02:42]} 52. g5 {[%emt 0:01:11]} Qc6 {[%emt 0:00:35]} 53. Kh2 Qc7+ {
+[%emt 0:00:39]} 54. Kg2 {[%emt 0:00:29]} Qb7 {[%emt 0:00:34]} 55. f3 {[%emt 0:
+01:37]} Rc2+ {[%emt 0:00:44]} 56. Kg1 {[%emt 0:00:14]} Rc8 {[%emt 0:01:03]} 57.
+Qe3 {[%emt 0:00:35]} Qf7 {[%emt 0:00:33]} 58. Kg2 {[%emt 0:02:18]} Qa2+ {
+[%emt 0:00:38]} 59. Kg3 {[%emt 0:00:07]} Qd5 {[%emt 0:00:26]} 60. Rd4 {[%emt 0:
+00:38]} Qf7 {[%emt 0:00:24]} 61. Rf4 {[%emt 0:00:27]} Qc7 {[%emt 0:00:26]} 62.
+Kg2 {[%emt 0:00:41]} Qc2+ {[%emt 0:00:35]} 63. Kg3 {[%emt 0:00:02]} Rc4 {
+[%emt 0:00:42]} 64. Rd4 {[%emt 0:02:05]} Rxd4 {[%emt 0:01:00]} 65. Qxd4 {
+[%emt 0:00:02]} Qc1 {[%emt 0:00:15]} 66. h4 {[%emt 0:00:31]} Qe1+ {[%emt 0:00:
+27]} 67. Kg2 {[%emt 0:00:03]} a5 {[%emt 0:00:54]} 68. bxa5 {[%emt 0:00:21]}
+Qxa5 {[%emt 0:00:03]} 69. Qd5 {[%emt 0:01:17]} Qa4 {[%emt 0:01:05]} 70. h5 {
+[%emt 0:00:14]} Qc2+ {[%emt 0:00:16]} 71. Kg3 {[%emt 0:00:09]} b4 {[%emt 0:00:
+45]} 72. hxg6+ {[%emt 0:00:15]} Qxg6 {[%emt 0:00:34]} 73. f4 {[%emt 0:00:06]}
+Qb1 {[%emt 0:00:32]} 74. f5 {[%emt 0:01:15]} Qg1+ {[%emt 0:00:40]} 75. Kf4 {
+[%emt 0:00:05]} Qh2+ {[%emt 0:00:28]} 76. Kg4 {[%emt 0:00:25]} Qe2+ {[%emt 0:
+00:33]} 77. Kf4 {[%emt 0:00:06]} Qf1+ {[%emt 0:00:03]} 78. Kg4 {[%emt 0:00:12]}
+Qg1+ {[%emt 0:00:58]} 79. Kf4 {[%emt 0:00:10]} Qf2+ {[%emt 0:00:51]} 80. Kg4 {
+[%emt 0:00:06]} Qe2+ {[%emt 0:01:01]} 81. Kf4 {[%emt 0:00:08]} Qh5 {[%emt 0:00:
+52]} 82. g6+ {[%emt 0:02:26]} Kh6 {[%emt 0:00:06]} 83. Qd3 {[%emt 0:02:15]}
+Qh4+ {[%emt 0:00:30]} 84. Ke5 {[%emt 0:00:03]} Qe7+ {[%emt 0:00:13]} 85. Kf4 {
+[%emt 0:00:03]} Qg5+ {[%emt 0:00:11]} 86. Ke4 {[%emt 0:01:18]} Qe7+ {[%emt 0:
+00:23]} 87. Kf4 {[%emt 0:00:27]} Qh4+ {[%emt 0:00:07]} 88. Ke5 {[%emt 0:00:05]}
+Qe7+ {[%emt 0:01:21]} 89. Kf4 {[%emt 0:00:06]} Qg5+ {[%emt 0:00:53]} 90. Ke5 {
+[%emt 0:01:11]} Qf6+ {[%emt 0:00:31]} 91. Kf4 {[%emt 0:00:10]} Qc3 {[%emt 0:00:
+29]} 92. Qe4 {[%emt 0:01:13]} Qh3 {[%emt 0:00:46]} 93. Ke5 {[%emt 0:00:28]} b3
+{[%emt 0:00:26]} 94. Qb1 {[%emt 0:00:34]} Qe3+ {[%emt 0:00:23]} 95. Kd5 {
+[%emt 0:00:30]} Kg5 {[%emt 0:00:26]} 96. Qb2 {[%emt 0:00:12]} Qf3+ {[%emt 0:00:
+08]} 97. Kd6 {[%emt 0:00:43]} Qd3+ {[%emt 0:00:46]} 98. Ke7 {[%emt 0:00:26]}
+Qe4+ {[%emt 0:00:41]} 99. Kd6 {[%emt 0:00:15]} Qb4+ {[%emt 0:00:44]} 100. Ke6 {
+[%emt 0:00:48]} Qb6+ {[%emt 0:00:30]} 101. Kd5 {[%emt 0:00:17]} Qb5+ {[%emt 0:
+00:09]} 102. Kd6 {[%emt 0:00:22]} Qxf5 {[%emt 0:00:56]} 103. Qxb3 {[%emt 0:00:
+18]} Qxg6+ {[%emt 0:00:07]} 104. Ke5 {[%emt 0:00:50]} Qf6+ {[%emt 0:00:05]}
+105. Ke4 {[%emt 0:00:09]} Qf4+ {[%emt 0:00:08]} 0-1
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.20"]
+[Round "8"]
+[White "Wu, Rochelle"]
+[Black "Morris-Suzuki, Sophie"]
+[Result "0-1"]
+[ECO "D25"]
+[WhiteElo "2110"]
+[BlackElo "1980"]
+[Annotator "NA RC"]
+[PlyCount "66"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. d4 {[%emt 0:00:00]} d5 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:00]} dxc4 {
+[%emt 0:00:00]} 3. Nf3 {[%emt 0:00:03]} Nf6 {[%emt 0:00:00]} 4. e3 {[%emt 0:00:
+23]} Bg4 {[%emt 0:00:00]} 5. Bxc4 {[%emt 0:00:41]} e6 {[%emt 0:00:00]} 6. O-O {
+[%emt 0:04:35]} a6 {[%emt 0:00:05]} 7. b3 {[%emt 0:05:14]} Nc6 {[%emt 0:00:44]
+D22: Queen's Gambit Accepted: 3 Nf3 a6 4 e3} (7... c5 8. dxc5 Qxd1 9. Rxd1 Bxc5
+10. Bb2 Nc6 11. Nbd2 h6 12. Rac1 Be7 13. Be2 O-O 14. h3 Bh5 15. g4 {1/2-1/2 
+(36) Eljanov,P (2678)-Korobov,A (2702) Moscow 2013}) 8. Bb2 {[%emt 0:02:55]}
+Bd6 {[%emt 0:00:22]} 9. Nbd2 {[%emt 0:02:45]} O-O {[%emt 0:01:40]} 10. Be2 {
+[%emt 0:02:32]} Qe8 {[%emt 0:00:48]} 11. Nc4 {[%emt 0:02:00]} Rd8 {[%emt 0:01:
+36]} 12. Nxd6 {[%emt 0:01:53]} cxd6 {[%emt 0:00:13]} 13. Rc1 $146 {[%emt 0:06:
+08]} ({Predecessor:} 13. Nd2 Bf5 14. f3 Nd5 15. Nc4 {1/2-1/2 (33) Lundin,J 
+(2284)-Rabiega,R (2560) Berlin 2008}) 13... e5 {[%emt 0:10:50]} 14. dxe5 {
+[%emt 0:05:00]} dxe5 {[%emt 0:00:22]} 15. Qe1 {[%emt 0:03:15]} Qe7 {[%emt 0:03:
+46]} 16. Rc4 {[%emt 0:03:49]} (16. h3 $5 {[%cal Rh3g4]} Bh5 17. Rxc6 bxc6 18.
+g4 $11) 16... Rfe8 {[%emt 0:12:25]} 17. h3 {[%emt 0:08:32]} Be6 {[%emt 0:20:33]
+} 18. Ra4 {[%emt 0:05:27]} Nd5 {[%emt 0:07:21]} 19. Qa1 {[%emt 0:11:19]} ({
+But not} 19. Nxe5 Nxe5 20. Bxe5 Bd7 $15) 19... Nb6 {[%emt 0:10:50]} 20. Rh4 {
+[%emt 0:01:22]} f6 {[%emt 0:03:34]} 21. Qb1 {[%emt 0:04:20]} f5 {[%emt 0:00:31]
+} 22. g3 {[%emt 0:03:24]} Qf6 {[%emt 0:00:00]} 23. Nxe5 $19 {[%emt 0:06:17]} (
+23. e4 $11 {and White has nothing to worry.}) 23... Nxe5 {[%emt 0:05:17]} 24.
+f4 {[%emt 0:00:04]} Qg6 {[%emt 0:04:34]} 25. Kf2 {[%emt 0:02:05]} Nc6 {[%emt 0:
+02:00]} 26. Qe1 {[%emt 0:02:00]} Bf7 {[%emt 0:03:12]} 27. Bh5 {[%emt 0:04:27]}
+Qd6 {[%emt 0:00:13]} 28. Bxf7+ {[%emt 0:00:55]} Kxf7 {[%emt 0:00:01]} 29. Bc3 {
+[%emt 0:00:46]} Nd5 {[%emt 0:01:02]} 30. Ba1 {[%emt 0:01:04]} Nxe3 {[%emt 0:00:
+52]} 31. Rxh7 {[%emt 0:00:54]} Qd2+ {[%emt 0:00:52]} 32. Qxd2 {[%emt 0:00:13]}
+Rxd2+ {[%emt 0:00:11]} 33. Kf3 {[%emt 0:00:05]} Nxf1 {[%emt 0:00:22]} 0-1
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.20"]
+[Round "8"]
+[White "Vittal, Sanjana"]
+[Black "Matus, Nastassja"]
+[Result "1/2-1/2"]
+[ECO "B11"]
+[WhiteElo "1947"]
+[BlackElo "1960"]
+[Annotator "NA RC"]
+[PlyCount "120"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} c6 {[%emt 0:00:00]} 2. Nc3 {[%emt 0:00:00]} d5 {[%emt 0:
+00:00]} 3. Nf3 {[%emt 0:00:00]} Bg4 {[%emt 0:00:00]} 4. h3 {[%emt 0:00:00]}
+Bxf3 {[%emt 0:00:00]} 5. Qxf3 {[%emt 0:00:00]} e6 {[%emt 0:00:00]} 6. d3 {
+[%emt 0:00:10]} g6 {[%emt 0:00:40] B11: Caro-Kann (Zweispringer-Variante)} (
+6... Nd7 7. Bd2 Qb6 8. O-O-O Bd6 9. h4 Ne7 10. h5 Be5 11. h6 g6 12. Na4 Qc7 13.
+Nc3 Rc8 14. Ne2 c5 15. exd5 Nxd5 {0-1 (25) Liang,A (2572)-Mamedyarov,S (2804)
+chess.com INT 2018}) 7. Bd2 {[%emt 0:09:21]} Bg7 {[%emt 0:00:21]} 8. O-O-O {
+[%emt 0:04:10]} Nd7 {[%emt 0:00:28]} 9. g4 {[%emt 0:04:40]} Ne7 {[%emt 0:04:21]
+} 10. Qg3 {[%emt 0:01:36]} a5 $146 {[%emt 0:01:48]} ({Vorgänger:} 10... Qb8 11.
+f4 g5 12. Qh2 gxf4 13. Bxf4 Be5 14. Bxe5 Qxe5 15. Qxe5 Nxe5 {0-1 (56) Heinz,A 
+(2317)-Mchedlishvili,M (2515) Pulvermuehle 2005}) 11. exd5 {[%emt 0:08:19]}
+cxd5 {[%emt 0:13:34]} (11... Nxd5 $11 {hält das Gleichgewicht.} 12. Nxd5 cxd5)
+12. Nb5 {[%emt 0:02:20]} O-O {[%emt 0:02:07]} 13. d4 {[%emt 0:04:07]} Nc6 {
+[%emt 0:04:49]} 14. Bc3 {[%emt 0:04:55]} (14. Bf4 $16) 14... Nb6 {[%emt 0:05:
+07]} 15. h4 {[%emt 0:09:59]} Na4 {[%emt 0:12:49]} 16. Kb1 {[%emt 0:04:57]} ({
+White should try} 16. Be1 $14) 16... Nxc3+ {[%emt 0:02:28]} 17. Qxc3 {[%emt 0:
+00:33]} Qb6 {[%emt 0:05:52]} 18. h5 {[%emt 0:05:56]} Rfc8 {[%emt 0:09:34]} 19.
+Qe3 {[%emt 0:01:45]} a4 {[%emt 0:04:29]} 20. c3 {[%emt 0:11:28]} Na5 {[%emt 0:
+01:44]} 21. Na3 {[%emt 0:01:14]} Rc7 {[%emt 0:07:57]} 22. Qd3 {[%emt 0:03:23]}
+Nc4 {[%emt 0:04:17]} 23. Nxc4 {[%emt 0:00:06]} dxc4 {[%emt 0:00:13]} 24. Qc2 {
+[%emt 0:01:06]} a3 {[%emt 0:00:35]} 25. d5 $2 {[%emt 0:04:58]} (25. hxg6 $17 {
+ist zäher.} hxg6 26. Ka1) 25... exd5 {[%emt 0:02:06]} 26. Rxd5 {[%emt 0:00:07]}
+Qe6 {[%emt 0:02:39]} 27. Rd1 {[%emt 0:08:59]} Qxg4 {[%emt 0:03:24]} 28. hxg6 {
+[%emt 0:00:15]} Qxg6 {[%emt 0:02:13]} 29. Qxg6 {[%emt 0:00:52]} hxg6 {[%emt 0:
+00:42]} 30. Rh4 {[%emt 0:00:36]} axb2 {[%emt 0:01:53]} 31. Kxb2 {[%emt 0:00:46]
+} b5 {[%emt 0:00:22]} 32. Bg2 {[%emt 0:00:22]} Re8 {[%emt 0:00:29]} 33. Bf1 {
+[%emt 0:03:14]} b4 {[%emt 0:03:59]} 34. Rxc4 {[%emt 0:01:11]} Bxc3+ {[%emt 0:
+00:24]} 35. Kb1 {[%emt 0:01:19]} Ra7 {[%emt 0:01:06]} 36. Rc6 {[%emt 0:00:20]}
+Kg7 {[%emt 0:00:46]} 37. Bc4 {[%emt 0:00:56]} Re4 {[%emt 0:00:44]} 38. f3 {
+[%emt 0:03:47]} Rh4 {[%emt 0:01:01]} 39. Bb3 {[%emt 0:00:52]} Rh2 {[%emt 0:00:
+28]} 40. Kc1 {[%emt 0:00:00]} Rf2 {[%emt 0:00:00]} 41. Rd3 {[%emt 0:04:25]}
+Bb2+ {[%emt 0:07:54]} 42. Kd1 {[%emt 0:02:35]} Re7 {[%emt 0:00:53]} 43. Rc4 {
+[%emt 0:04:54]} Rf1+ {[%emt 0:02:56]} 44. Kc2 {[%emt 0:00:41]} Re2+ {[%emt 0:
+01:03]} 45. Rd2 {[%emt 0:00:05]} Rxd2+ {[%emt 0:00:22]} 46. Kxd2 {[%emt 0:00:
+04]} Rxf3 {[%emt 0:00:20]} 47. Ke2 {[%emt 0:00:06]} Rf5 {[%emt 0:02:30]} 48.
+Rxb4 {[%emt 0:00:10]} Bc3 {[%emt 0:00:31]} 49. Rc4 {[%emt 0:01:49]} Ba5 {
+[%emt 0:00:18]} 50. a4 $15 {[%emt 0:00:19]} Kh6 {[%emt 0:02:08]} 51. Rc6 {
+[%emt 0:01:43]} Kg5 {[%emt 0:01:27]} 52. Ra6 {[%emt 0:01:52]} f6 {[%emt 0:00:
+42]} 53. Bc2 {[%emt 0:01:15]} Rc5 {[%emt 0:01:11]} 54. Bd3 {[%emt 0:01:02]} Bc3
+{[%emt 0:00:27]} 55. Bb5 {[%emt 0:03:12]} Kf4 {[%emt 0:03:24]} 56. Kd3 {
+[%emt 0:01:05]} Kf5 {[%emt 0:01:51]} 57. Bc4 {[%emt 0:03:16]} Be1 {[%emt 0:00:
+39]} 58. Bb5 {[%emt 0:02:39]} Bc3 {[%emt 0:07:21]} 59. Bc4 {[%emt 0:00:32]} Be1
+{[%emt 0:01:05]} 60. Bb5 {[%emt 0:00:06]} Bc3 1/2-1/2
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.21"]
+[Round "9"]
+[White "Yip, Carissa"]
+[Black "Yu, Jennifer"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2364"]
+[BlackElo "2358"]
+[Annotator "RC"]
+[PlyCount "62"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. Nf3 {[%emt 0:00:00]} d5 {[%emt 0:00:18]} 2. g3 {[%emt 0:00:00]} Nf6 {
+[%emt 0:00:39]} 3. Bg2 {[%emt 0:00:00]} e6 {[%emt 0:00:36]} 4. O-O {[%emt 0:00:
+08]} Bd6 {[%emt 0:00:32]} 5. d4 {[%emt 0:03:43]} O-O {[%emt 0:01:24]} 6. c4 {
+[%emt 0:00:53]} b6 {[%emt 0:02:23]} 7. Nc3 {[%emt 0:03:30]} Bb7 {[%emt 0:03:51]
+} 8. cxd5 {[%emt 0:02:04]} exd5 {[%emt 0:00:08]} 9. Nb5 {[%emt 0:00:07]} Be7 {
+[%emt 0:06:03]} 10. Bf4 {[%emt 0:01:05]} Na6 {[%emt 0:00:05]} 11. Rc1 {[%emt 0:
+00:29]} c6 {[%emt 0:00:39]} 12. Nc3 {[%emt 0:00:05]} Nc7 {[%emt 0:00:53]} 13.
+Bd2 {[%emt 0:11:42]} Ne6 {[%emt 0:02:54]} 14. e3 {[%emt 0:00:06]} Ne4 {[%emt 0:
+05:27]} 15. Nxe4 {[%emt 0:14:36]} dxe4 {[%emt 0:00:19]} 16. Ne5 {[%emt 0:00:34]
+} c5 {[%emt 0:00:14]} 17. dxc5 {[%emt 0:00:04]} Nxc5 {[%emt 0:03:46]} 18. b4 {
+[%emt 0:00:35]} Ne6 {[%emt 0:05:36]} 19. Nc6 {[%emt 0:00:53]} Bxc6 {[%emt 0:07:
+53]} 20. Rxc6 {[%emt 0:00:04]} Qd5 {[%emt 0:00:31]} 21. Qc2 {[%emt 0:01:29]}
+Rad8 {[%emt 0:00:46]} 22. Bc1 {[%emt 0:03:28]} Ng5 {[%emt 0:02:06]} 23. a3 {
+[%emt 0:07:01]} Nf3+ {[%emt 0:13:11]} 24. Bxf3 {[%emt 0:04:00]} exf3 {[%emt 0:
+00:09]} 25. Rc4 {[%emt 0:00:10]} Qh5 {[%emt 0:07:19]} 26. h4 {[%emt 0:03:02]}
+Rd6 {[%emt 0:15:43]} 27. Bb2 {[%emt 0:05:10]} Rg6 {[%emt 0:03:57]} 28. Rf4 {
+[%emt 0:00:31]} Rg4 {[%emt 0:07:49]} 29. Qf5 {[%emt 0:01:18]} Qxf5 {[%emt 0:00:
+13]} 30. Rxf5 {[%emt 0:00:04]} Bxh4 {[%emt 0:00:55]} 31. Rxf3 {[%emt 0:00:09]}
+Be7 {[%emt 0:03:44]} 1/2-1/2
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.21"]
+[Round "9"]
+[White "Cervantes Landeiro, Thalia"]
+[Black "Feng, Maggie"]
+[Result "0-1"]
+[ECO "E00"]
+[WhiteElo "2208"]
+[BlackElo "2236"]
+[Annotator "RC"]
+[PlyCount "88"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. d4 {[%emt 0:00:00]} e6 {[%emt 0:00:18]} 2. c4 {[%emt 0:00:00]} Bb4+ {
+[%emt 0:01:41]} 3. Nc3 {[%emt 0:00:00]} Bxc3+ {[%emt 0:01:09]} 4. bxc3 {
+[%emt 0:00:00]} f5 {[%emt 0:00:07]} 5. Nf3 {[%emt 0:03:53]} Nf6 {[%emt 0:00:09]
+} 6. e3 {[%emt 0:01:12]} O-O {[%emt 0:01:14]} 7. Bd3 {[%emt 0:00:38]} b6 {
+[%emt 0:01:37]} 8. O-O {[%emt 0:00:11]} Ba6 {[%emt 0:04:45]} 9. Nd2 {[%emt 0:
+03:08]} Nc6 {[%emt 0:01:32]} 10. Qe2 {[%emt 0:02:22]} Na5 {[%emt 0:05:44]} 11.
+e4 {[%emt 0:11:35]} fxe4 {[%emt 0:12:12]} 12. Nxe4 {[%emt 0:00:15]} Nxe4 {
+[%emt 0:01:33]} 13. Qxe4 {[%emt 0:00:17]} g6 {[%emt 0:00:16]} 14. Qg4 {[%emt 0:
+14:17]} Qf6 {[%emt 0:02:41]} 15. Bg5 {[%emt 0:09:56]} Qf7 {[%emt 0:01:41]} 16.
+Bh6 {[%emt 0:02:21]} Rfe8 {[%emt 0:01:24]} 17. Rfe1 {[%emt 0:07:51]} Bxc4 {
+[%emt 0:06:01]} 18. Re3 {[%emt 0:03:22]} Bxd3 {[%emt 0:07:49]} 19. Rxd3 {
+[%emt 0:00:09]} Qf5 {[%emt 0:05:45]} 20. Qg3 {[%emt 0:00:24]} Qh5 {[%emt 0:00:
+53]} 21. Qf4 {[%emt 0:00:55]} Qf5 {[%emt 0:00:53]} 22. Qh4 {[%emt 0:05:34]} e5
+{[%emt 0:05:18]} 23. Rf3 {[%emt 0:07:55]} Qe6 {[%emt 0:01:04]} 24. d5 {[%emt 0:
+01:43]} Qd6 {[%emt 0:01:06]} 25. Rd1 {[%emt 0:06:31]} e4 {[%emt 0:02:29]} 26.
+Rf6 {[%emt 0:03:51]} Qe5 {[%emt 0:00:51]} 27. Rd4 {[%emt 0:03:38]} Nb7 {
+[%emt 0:01:37]} 28. Bf4 {[%emt 0:05:42]} Qh5 {[%emt 0:05:22]} 29. Qxh5 {
+[%emt 0:01:33]} gxh5 {[%emt 0:00:07]} 30. Bxc7 {[%emt 0:02:44]} Rac8 {[%emt 0:
+00:59]} 31. d6 {[%emt 0:00:20]} Re5 {[%emt 0:04:55]} 32. h4 {[%emt 0:01:26]}
+Nc5 {[%emt 0:01:52]} 33. f4 {[%emt 0:01:54]} Ree8 {[%emt 0:04:40]} 34. Kf1 {
+[%emt 0:00:48]} e3 {[%emt 0:01:52]} 35. Ke2 {[%emt 0:00:09]} Ne4 {[%emt 0:00:
+09]} 36. Rxe4 {[%emt 0:00:47]} Rxe4 {[%emt 0:00:06]} 37. Rf5 {[%emt 0:00:27]}
+Rce8 {[%emt 0:00:52]} 38. g3 {[%emt 0:00:08]} Ra4 {[%emt 0:00:18]} 39. Rg5+ {
+[%emt 0:00:28]} Kf7 {[%emt 0:01:09]} 40. Rf5+ {[%emt 0:00:00]} Kg6 {[%emt 0:00:
+45]} 41. Rg5+ {[%emt 0:01:04]} Kf6 {[%emt 0:03:05]} 42. Re5 {[%emt 0:01:09]}
+Rxe5 {[%emt 0:00:16]} 43. fxe5+ {[%emt 0:00:10]} Kxe5 {[%emt 0:00:05]} 44. Kxe3
+{[%emt 0:00:04]} Rxa2 {[%emt 0:00:08]} 0-1
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.21"]
+[Round "9"]
+[White "Samadashvili, Martha"]
+[Black "Wu, Rochelle"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[WhiteElo "2040"]
+[BlackElo "2110"]
+[Annotator "NA"]
+[PlyCount "163"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:08]} 2. Nf3 {[%emt 0:00:00]} d6 {[%emt 0:
+00:04]} 3. Bb5+ {[%emt 0:00:00]} Bd7 {[%emt 0:00:21]} 4. Bxd7+ {[%emt 0:00:00]}
+Qxd7 {[%emt 0:00:30]} 5. c4 {[%emt 0:00:15]} Nf6 {[%emt 0:00:22]} 6. Nc3 {
+[%emt 0:00:06]} g6 {[%emt 0:00:36] B52: Sicilian: Moscow Variation with 3...Bd7
+} 7. d4 {[%emt 0:00:39]} cxd4 {[%emt 0:00:30]} 8. Nxd4 {[%emt 0:00:04]} Bg7 {
+[%emt 0:00:31]} 9. f3 {[%emt 0:00:20]} (9. h3 Qc7 10. b3 Qa5 11. Bd2 Nxe4 12.
+Nxe4 Qe5 13. Qb1 f5 14. Bc3 Qxe4+ 15. Qxe4 fxe4 {1-0 (47) Malakhov,V (2691)
+-Timofeev,A (2579) Sochi 2018}) 9... O-O {[%emt 0:00:28]} 10. O-O {[%emt 0:00:
+09]} Rc8 {[%emt 0:00:32]} 11. b3 {[%emt 0:00:38]} d5 {[%emt 0:01:01]} 12. e5 {
+[%emt 0:26:23]} Ne8 {[%emt 0:03:07]} 13. Nxd5 {[%emt 0:07:18]} e6 {[%emt 0:01:
+09]} 14. Nc3 {[%emt 0:06:40]} Bxe5 {[%emt 0:01:46]} 15. Be3 {[%emt 0:03:45]}
+Rd8 {[%emt 0:01:56]} 16. Nde2 {[%emt 0:01:38]} Qc7 {[%emt 0:02:48]} 17. Qc2 {
+[%emt 0:06:31]} Bxh2+ {[%emt 0:00:44]} 18. Kh1 $146 {[%emt 0:00:33]} Qe5 {
+[%emt 0:01:11]} 19. Qe4 {[%emt 0:03:22]} Qh5 {[%emt 0:01:44]} 20. Qg4 {[%emt 0:
+00:56]} Qxg4 {[%emt 0:00:05]} 21. fxg4 {[%emt 0:00:04]} Be5 {[%emt 0:00:30]}
+22. Rad1 {[%emt 0:00:21]} Nc6 {[%emt 0:00:16]} 23. Ne4 {[%emt 0:01:31]} Bg7 {
+[%emt 0:05:38]} 24. g5 {[%emt 0:05:47]} b6 {[%emt 0:06:33]} 25. c5 {[%emt 0:04:
+07]} bxc5 {[%emt 0:03:47]} 26. Bxc5 {[%emt 0:00:13]} Be5 {[%emt 0:02:23]} 27.
+b4 {[%emt 0:04:26]} a6 {[%emt 0:00:13]} 28. a4 {[%emt 0:01:48]} Nc7 {[%emt 0:
+03:06]} 29. N2c3 {[%emt 0:03:57]} Rxd1 {[%emt 0:09:41]} 30. Rxd1 {[%emt 0:00:
+14]} Rd8 {[%emt 0:01:29]} 31. Rb1 {[%emt 0:05:05]} Bxc3 {[%emt 0:05:52]} 32.
+Nxc3 {[%emt 0:00:06]} Nd5 {[%emt 0:01:15]} 33. Ne4 {[%emt 0:08:24] [#]} (33.
+Nxd5 $1 $11 {bleibt in der Remisbreite.} Rxd5 34. Be3) 33... Rb8 $2 {[%emt 0:
+14:07]} (33... Ncxb4 $1 $17 {[%mdl 512] hält den Druck.} 34. Rxb4 (34. Bxb4 $2
+Rb8 $19) 34... Nxb4 35. Bxb4 Rd4 36. Nf6+ Kh8) 34. b5 {[%emt 0:01:08]} axb5 {
+[%emt 0:00:10]} 35. axb5 {[%emt 0:00:21]} Kg7 {[%emt 0:02:44]} 36. b6 {[%emt 0:
+02:04]} Nd8 {[%emt 0:01:14]} 37. Bd6 {[%emt 0:02:36]} Rb7 {[%emt 0:05:26]} 38.
+Nc5 {[%emt 0:01:19]} Rxb6 {[%emt 0:00:05]} 39. Rxb6 {[%emt 0:00:07]} Nxb6 {
+[%emt 0:00:03]} 40. Be5+ {[%emt 0:00:00]} Kg8 {[%emt 0:00:32]} 41. Bc7 {
+[%emt 0:01:13]} Nd5 {[%emt 0:00:21]} 42. Bxd8 {[%emt 0:00:06]} Kg7 {[%emt 0:01:
+09]} 43. Ne4 {[%emt 0:01:50]} h6 {[%emt 0:05:34]} 44. Kh2 {[%emt 0:01:49]} hxg5
+{[%emt 0:00:05]} 45. Nxg5 {[%emt 0:00:27]} Ne3 {[%emt 0:00:15]} 46. Kg3 {
+[%emt 0:00:43]} Nf5+ {[%emt 0:00:21]} 47. Kf4 {[%emt 0:00:33]} Nd4 {[%emt 0:00:
+42]} ({Lieber} 47... Nd6 48. Ke5 Nc4+ 49. Kd4 Nd6) 48. Ne4 {[%emt 0:05:21]} e5+
+{[%emt 0:07:13]} 49. Ke3 {[%emt 0:00:33]} f5 {[%emt 0:00:56]} 50. Bf6+ {
+[%emt 0:02:30]} Kh6 {[%emt 0:01:11]} 51. Bxe5 {[%emt 0:01:43]} Ne6 {[%emt 0:00:
+11]} 52. Nd6 {[%emt 0:01:16]} Kh5 {[%emt 0:00:54]} 53. Kf3 {[%emt 0:00:44]} Nc5
+{[%emt 0:01:32]} 54. Bf6 {[%emt 0:02:46]} Nd7 {[%emt 0:00:56]} 55. Bd4 {
+[%emt 0:00:19]} Nf8 {[%emt 0:00:28]} 56. Be3 {[%emt 0:02:31]} Ne6 {[%emt 0:00:
+37]} 57. g3 $2 {[%emt 0:01:52]} (57. Bb6 $142) 57... Nc7 $1 {[%emt 0:00:48]}
+58. Nf7 {[%emt 0:01:06]} Ne6 {[%emt 0:00:26]} 59. Nd6 {[%emt 0:02:41]} ({Lieber
+} 59. Ne5 $16) 59... Nc7 {[%emt 0:00:08]} 60. Bc1 {[%emt 0:01:11]} Ne6 {
+[%emt 0:00:42]} 61. Bb2 {[%emt 0:00:57]} Ng5+ {[%emt 0:00:26] [#]} 62. Kf4 $2 {
+[%emt 0:00:48]} Nh3+ $11 {[%emt 0:00:23]} 63. Kf3 {[%emt 0:00:45]} Ng5+ {
+[%emt 0:00:06] [#]} {Weiss braucht} 64. Kg2 $1 $18 {[%emt 0:00:02]} Ne6 {
+[%emt 0:00:45]} 65. Bc1 {[%emt 0:04:42]} f4 {[%emt 0:01:18]} 66. Ne8 {[%emt 0:
+01:28]} g5 {[%emt 0:00:36]} 67. gxf4 {[%emt 0:00:18]} gxf4 {[%emt 0:00:12]} 68.
+Kf3 {[%emt 0:00:38]} Kg6 {[%emt 0:00:14]} 69. Kg4 {[%emt 0:00:20]} Nd4 {
+[%emt 0:00:55]} 70. Bxf4 {[%emt 0:00:14]} Nb5 {[%emt 0:00:23]} 71. Be5 {
+[%emt 0:00:30]} Na7 {[%emt 0:00:24]} 72. Nd6 {[%emt 0:00:19]} Nc6 {[%emt 0:00:
+07]} 73. Bb2 {[%emt 0:00:08]} Ne7 {[%emt 0:00:34]} 74. Nc4 {[%emt 0:00:23]} Kf7
+{[%emt 0:00:13]} 75. Kf4 {[%emt 0:00:31]} Ke6 {[%emt 0:00:05]} 76. Ke4 {
+[%emt 0:00:02]} Nf5 {[%emt 0:00:10]} 77. Be5 {[%emt 0:00:21]} Ne7 {[%emt 0:00:
+13]} 78. Na5 {[%emt 0:00:09]} Ng8 {[%emt 0:00:28]} 79. Nb7 {[%emt 0:00:23]}
+Nf6+ {[%emt 0:00:23]} 80. Kd4 {[%emt 0:00:04]} Nd7 {[%emt 0:00:26]} 81. Bg3 {
+[%emt 0:00:41]} Nf6 {[%emt 0:00:09]} 82. Nc5+ {[%emt 0:00:09]} 1/2-1/2
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.21"]
+[Round "9"]
+[White "Morris-Suzuki, Sophie"]
+[Black "Vittal, Sanjana"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "1980"]
+[BlackElo "1947"]
+[Annotator "NA RC"]
+[PlyCount "101"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. d4 {[%emt 0:00:00]} d5 {[%emt 0:00:04]} 2. c4 {[%emt 0:00:00]} e6 {[%emt 0:
+00:04]} 3. Nc3 {[%emt 0:00:00]} Bb4 {[%emt 0:00:09]} 4. a3 {[%emt 0:00:08]}
+Bxc3+ {[%emt 0:00:06]} 5. bxc3 {[%emt 0:00:07]} Nf6 {[%emt 0:00:09]} 6. e3 {
+[%emt 0:00:42]} c6 {[%emt 0:00:31]} 7. Bd3 {[%emt 0:01:44]} O-O {[%emt 0:01:23]
+} 8. cxd5 {[%emt 0:01:57]} exd5 {[%emt 0:01:23]} 9. f3 {[%emt 0:00:11]} Re8 {
+[%emt 0:03:08]} 10. Ne2 {[%emt 0:00:20]} b6 {[%emt 0:05:45]} 11. O-O {[%emt 0:
+00:36] E27: Nimzo-Indian: Sämisch: 5...0-0 6 f3} Ba6 {[%emt 0:01:11]} 12. Ng3 {
+[%emt 0:00:45]} c5 {[%emt 0:08:21]} 13. Ra2 {[%emt 0:00:37]} Bxd3 {[%emt 0:06:
+19]} 14. Qxd3 {[%emt 0:00:10]} Nc6 {[%emt 0:00:14]} 15. Re2 {[%emt 0:06:19]}
+Qd7 {[%emt 0:06:15]} 16. Bb2 {[%emt 0:32:35]} Rad8 {[%emt 0:05:49]} 17. Nf5
+$146 {[%emt 0:01:43]} ({Predecessor:} 17. Rd1) 17... Ne7 {[%emt 0:07:45]} 18.
+Ng3 {[%emt 0:01:52]} h5 {[%emt 0:06:57]} 19. e4 {[%emt 0:02:42]} h4 {[%emt 0:
+02:20]} 20. Nh1 {[%emt 0:01:06]} Ng6 {[%emt 0:01:42]} 21. Ree1 {[%emt 0:05:20]}
+Nh5 {[%emt 0:09:48]} 22. Nf2 {[%emt 0:02:06]} Nhf4 {[%emt 0:01:38]} 23. Qd2 {
+[%emt 0:00:52]} Qc7 {[%emt 0:15:20]} 24. Ng4 {[%emt 0:03:55]} c4 {[%emt 0:05:
+18]} 25. Nf2 {[%emt 0:02:11]} Qe7 {[%emt 0:01:27]} 26. Nh3 {[%emt 0:09:32] [#]}
+(26. Bc1 $15) 26... Nxh3+ $1 {[%emt 0:00:25]} 27. gxh3 {[%emt 0:00:01]} Qd7 {
+[%emt 0:00:52]} ({Besser ist} 27... dxe4 $17 28. Rxe4 {[#]} Ne5 $1 {[%mdl 512]}
+) 28. Kg2 {[%emt 0:00:35]} (28. e5 $17) 28... Qc6 {[%emt 0:01:33]} 29. e5 {
+[%emt 0:00:57]} Qe6 {[%emt 0:00:23]} 30. Qg5 {[%emt 0:00:43]} Qe7 {[%emt 0:05:
+11]} 31. Qg4 {[%emt 0:00:01]} Qd7 {[%emt 0:00:35]} 32. f4 {[%emt 0:00:01]}
+Qxg4+ {[%emt 0:01:44]} 33. hxg4 {[%emt 0:00:01]} f5 {[%emt 0:01:15]} 34. gxf5 {
+[%emt 0:03:04]} Ne7 {[%emt 0:00:06]} 35. f6 {[%emt 0:00:01]} gxf6 {[%emt 0:00:
+07]} 36. f5 {[%emt 0:00:01]} Kf7 {[%emt 0:01:15]} 37. e6+ {[%emt 0:06:17]} Kg7
+{[%emt 0:00:21]} 38. a4 {[%emt 0:00:01]} Rh8 {[%emt 0:01:22]} 39. Ba3 {[%emt 0:
+02:45]} Rde8 {[%emt 0:00:09]} 40. Kh3 {[%emt 0:00:00]} Rh5 {[%emt 0:00:54]} 41.
+Rg1+ {[%emt 0:03:14]} Rg5 {[%emt 0:04:51]} 42. Bxe7 {[%emt 0:01:28]} Rxe7 {
+[%emt 0:00:36]} 43. Kxh4 {[%emt 0:00:30]} Rxg1 {[%emt 0:01:23]} 44. Rxg1+ {
+[%emt 0:00:02]} Kf8 {[%emt 0:00:24]} 45. Rg6 {[%emt 0:06:07]} Rh7+ {[%emt 0:00:
+18]} 46. Kg4 {[%emt 0:02:04]} Ke7 {[%emt 0:00:15]} 47. h4 {[%emt 0:00:55]} a5 {
+[%emt 0:06:01]} 48. h5 {[%emt 0:00:29]} b5 {[%emt 0:00:07]} 49. axb5 {[%emt 0:
+03:16]} a4 {[%emt 0:00:52]} 50. h6 {[%emt 0:02:34]} Kd6 {[%emt 0:00:28]} 51.
+Rg7 {[%emt 0:00:37]} 1-0
+
+[Event "USA-ch Junior Girls 2018"]
+[Site "Saint Louis"]
+[Date "2018.07.21"]
+[Round "9"]
+[White "Matus, Nastassja"]
+[Black "Nguyen, Emily"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "1960"]
+[BlackElo "2215"]
+[Annotator "RC"]
+[PlyCount "88"]
+[EventDate "2018.07.12"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. d4 {[%emt 0:00:00]} d5 {[%emt 0:00:10]} 2. Bf4 {[%emt 0:00:00]} c5 {[%emt 0:
+00:11]} 3. e3 {[%emt 0:00:00]} Nc6 {[%emt 0:00:37]} 4. Nf3 {[%emt 0:00:31]} Nf6
+{[%emt 0:00:13]} 5. Nbd2 {[%emt 0:00:23]} Bg4 {[%emt 0:00:50]} 6. c3 {[%emt 0:
+02:15]} e6 {[%emt 0:00:16]} 7. Be2 {[%emt 0:00:45]} Bd6 {[%emt 0:04:54]} 8. Ne5
+{[%emt 0:11:23]} Bxe2 {[%emt 0:02:25]} 9. Qxe2 {[%emt 0:00:08]} Qc7 {[%emt 0:
+02:02]} 10. Nxc6 {[%emt 0:12:35]} Bxf4 {[%emt 0:05:35]} 11. Nxa7 {[%emt 0:12:
+42]} Rxa7 {[%emt 0:00:50]} 12. exf4 {[%emt 0:00:08]} cxd4 {[%emt 0:01:55]} 13.
+cxd4 {[%emt 0:00:37]} Qxf4 {[%emt 0:03:44]} 14. Qb5+ {[%emt 0:07:15]} Nd7 {
+[%emt 0:00:49]} 15. Nf3 {[%emt 0:02:24]} Qe4+ {[%emt 0:02:21]} 16. Kd2 {
+[%emt 0:07:55]} Qf4+ {[%emt 0:01:18]} 17. Ke2 {[%emt 0:01:12]} Qe4+ {[%emt 0:
+02:15]} 18. Kd2 {[%emt 0:00:10]} b6 {[%emt 0:00:28]} 19. Rhc1 {[%emt 0:06:25]}
+O-O {[%emt 0:01:01]} 20. Qd3 {[%emt 0:04:10]} Qf4+ {[%emt 0:04:03]} 21. Qe3 {
+[%emt 0:00:16]} Qd6 {[%emt 0:00:09]} 22. a3 {[%emt 0:00:59]} b5 {[%emt 0:03:10]
+} 23. Qc3 {[%emt 0:11:36]} g6 {[%emt 0:18:33]} 24. g3 {[%emt 0:02:53]} Rfa8 {
+[%emt 0:02:29]} 25. Rab1 {[%emt 0:02:49]} Nb6 {[%emt 0:02:21]} 26. Qc5 {
+[%emt 0:02:01]} Qb8 {[%emt 0:00:09]} 27. Ne5 {[%emt 0:01:23]} Qb7 {[%emt 0:06:
+46]} 28. Ke2 {[%emt 0:03:05]} Nc4 {[%emt 0:01:09]} 29. Nxc4 {[%emt 0:02:10]}
+bxc4 {[%emt 0:08:49]} 30. h3 {[%emt 0:05:24]} Ra5 {[%emt 0:01:26]} 31. Qd6 {
+[%emt 0:00:21]} Rb5 {[%emt 0:00:06]} 32. Rc2 {[%emt 0:00:52]} Rb3 {[%emt 0:00:
+26]} 33. h4 {[%emt 0:00:57]} c3 {[%emt 0:03:10]} 34. Qc5 {[%emt 0:00:18]} Qa6+
+{[%emt 0:01:56]} 35. Ke3 {[%emt 0:00:10]} Rc8 {[%emt 0:00:16]} 36. Rxc3 {
+[%emt 0:00:44]} Rxc3+ {[%emt 0:00:39]} 37. bxc3 {[%emt 0:00:36]} Rxc5 {[%emt 0:
+00:05]} 38. dxc5 {[%emt 0:00:05]} Qxa3 {[%emt 0:00:28]} 39. Rb8+ {[%emt 0:00:
+44]} Kg7 {[%emt 0:00:04]} 40. Kd4 {[%emt 0:00:00]} Qa2 {[%emt 0:00:38]} 41. Ke3
+{[%emt 0:10:57]} Qc4 {[%emt 0:00:20]} 42. Rc8 {[%emt 0:02:12]} Qxc3+ {[%emt 0:
+00:10]} 43. Ke2 {[%emt 0:00:09]} d4 {[%emt 0:00:11]} 44. c6 {[%emt 0:00:19]}
+d3+ {[%emt 0:00:03]} 0-1
+

@@ -1,0 +1,100 @@
+[Event "CIV INVITATIONAL RAPID 2018"]
+[Site "Abidjan   "]
+[Date "2018.07.25"]
+[Round "2.1"]
+[White "Belkhodja, Slim"]
+[Black "El Adnani, Mokliss"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "2398"]
+[BlackElo "2363"]
+[PlyCount "56"]
+[EventDate "2018.07.25"]
+[EventType "rapid"]
+[EventRounds "9"]
+
+{With a large experience at top level chess after having played many Olympiads
+and having met the likes of Vaganian or Shirov, the strongest Tunisian player
+didn't find his best shape in the Rapid part. He had good positions but
+converting them was not an easy road. It is thus remarkable that after having
+scored 1 point out of 9 games, Slim cleaned the dust from his fall and raised
+to a 5th position in the Blitz. In the following game though, El Adnani proved
+too tricky!} 1. e4 c5 2. Ne2 Nc6 3. Nbc3 Nf6 4. g3 h5 5. h3 e5 6. Bg2 d6 7. d3
+Be7 8. O-O Nd4 9. f4 {A closed Sicilian in which Black already said A by
+pushing his pawn to h5. His next move signals 'B'.} h4 10. g4 Nxg4 11. hxg4
+Bxg4 12. Kh2 exf4 {The position Mokliss must have envisioned when he went 9...
+h4. White should indeed treat the position carefully here as things can easily
+get out of control. What should White do next?} 13. Rxf4 (13. Bxf4 {is not the
+answer either} g5 14. Be3 h3 15. Bh1 d5 $1 {with good compensation as Qd6+ is
+incoming. Instead}) (13. Bh3 $1 {gives White a large advantage. If Black now
+takes on h3 it would mean he loses his best attacking piece, but} Bh5 14. Qe1 {
+reveals the other point behind White's 13th move. Here} Nf3+ ({but} 14... Nxc2
+15. Qf2 Nxa1 16. Nxf4 {promises no easy life either.}) ({Maybe} 14... Nxe2 15.
+Nxe2 g5 {is relatively best, when I like} 16. Nxf4 gxf4 17. Bxf4 {with
+tremendous compensation.}) 15. Rxf3 Bxf3 16. Qf2 Bxe2 17. Qxe2 {is just
+winning for White. He will easily block the king-side pawns before
+infiltrating on the light squares.}) 13... Bh5 14. Be3 g5 15. Rf1 Bf6 {Black
+has full compensation.} 16. Bxd4 cxd4 (16... Bxd4 $5) 17. Nd5 Be5+ {Where to?}
+18. Kg1 ({The illogical looking} 18. Kh1 $1 {would allow White to meet} h3 {
+with} 19. Bf3 g4 20. Ng3 $1 Bxg3 21. Bxg4 {when the tables would have turned.})
+18... h3 19. Bxh3 ({Now} 19. Bf3 g4 20. Ng3 gxf3 21. Nxh5 Qg5+ $1 {is just
+mate.}) 19... Bxe2 20. Qxe2 Rxh3 21. Rxf7 ({The curse of rapid is the lack of
+time. Slim decided to go all in on f7 but the combination backfires. Instead} 
+21. Rf3 {should give White excellent chances to hold. The knight on d5 is
+phenomenal.}) 21... Rg3+ $1 ({This in between move ends the game,} 21... Kxf7
+22. Qf1+ {was the point.}) 22. Kf2 Kxf7 23. Qh5+ Kg7 24. Rh1 Qh8 {Shutting the
+door.} 25. Ne7 Qxh5 26. Rxh5 Rf8+ 27. Nf5+ Rxf5+ 28. exf5 g4 {White resigned.}
+0-1
+
+[Event "CIV INVITATIONAL RAPID 2018"]
+[Site "Abidjan   "]
+[Date "2018.07.26"]
+[Round "4.4"]
+[White "Amin, Bassem"]
+[Black "Rakotomaharo, Fy"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "2633"]
+[BlackElo "2190"]
+[SetUp "1"]
+[FEN "3n1rk1/1b1Qp1bp/1p3pp1/2p5/1qN1P3/1P2B2P/2P1NPP1/5RK1 b - - 0 20"]
+[PlyCount "4"]
+[EventDate "2018.07.25"]
+[EventType "rapid"]
+[EventRounds "9"]
+
+{The pride of Madagascar called tongue in cheek "the weakest strongest player
+in the field" due to the serious gap between his classical rating and the
+Rapid & Blitz ones, finished on a 4th position in the Rapid but got pulled
+down in the subsequent Blitz event. Here Bassem poses his young Malagasy
+opponent a problem that proves too hard to solve.} 20... Bxe4 21. Bd2 {Quo
+Vadis?} Bc6 {The faster time controls obviously make for a lot of excitement
+and little time to calculate.} (21... Bf5 $1 22. Qxe7 Qb5 {would have kept
+Black in the game.}) 22. Qa7 $1 ({(} 22. Qa7 {) Now Fy realized that after} Qb5
+23. Nc3 {it is his own bishop that blocks the road to freedom.}) 1-0
+
+[Event "CIV INVITATIONAL RAPID 2018"]
+[Site "Abidjan   "]
+[Date "2018.07.27"]
+[Round "9.5"]
+[White "Silva, David"]
+[Black "Amin, Bassem"]
+[Result "0-1"]
+[ECO "E68"]
+[WhiteElo "2241"]
+[BlackElo "2633"]
+[SetUp "1"]
+[FEN "r3r1k1/1p3pb1/2pp2p1/2n3Pp/PqPNPPbP/8/1BQR4/R4B1K w - - 0 26"]
+[PlyCount "12"]
+[EventDate "2018.07.25"]
+[EventType "rapid"]
+[EventRounds "9"]
+
+{Bassem decided the rapid part of the event with a model King's Indian game
+against David Silva, the triple African junior champion and Angola's hope for
+its upcoming future in chess. The Egyptian GM finished things off avec une
+petite tactique.} 26. Bc3 {Back with the queen?} Bf3+ {No, and the following
+line was sharply calculated by the tournament winner.} 27. Kh2 Bxe4 $1 28. Bxb4
+Bxc2 29. Bxc5 dxc5 30. Nxc2 Bxa1 31. Nxa1 Re1 {About to lose a piece, White
+resigned.} 0-1
+

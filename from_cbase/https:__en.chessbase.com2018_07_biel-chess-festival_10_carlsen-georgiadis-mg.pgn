@@ -1,0 +1,85 @@
+[Event "ACCENTUS Biel GMT"]
+[Site "Biel SUI"]
+[Date "2018.08.01"]
+[Round "10"]
+[White "Carlsen, Magnus"]
+[Black "Georgiadis, Nico"]
+[Result "1-0"]
+[ECO "B20"]
+[WhiteElo "2842"]
+[BlackElo "2526"]
+[Annotator "Golubev"]
+[PlyCount "93"]
+[EventDate "2018.07.22"]
+
+1. e4 c5 2. Na3 $5 {This move remained to be virtually unknown until
+Zvjaginsev used it three times in the Russian Superfinal 2005. Still, there
+were almost no followers among the strong GMs afterwards. By using such an
+offbeat move, the world champion probably expressed his disappointment with
+the loss in the previous round - and also avoided the main theory, indeed.} g6
+({Quite a decent recipe is} 2... d6 3. c3 Nf6 4. g3 Nc6 5. Bg2 e5 $1 $11 {
+Welling-Swinkels, Hilversum 2008.}) 3. Nf3 Bg7 4. c3 $1 d5 ({An alternative is
+} 4... Nc6 $5 5. d4 cxd4 6. cxd4 Nf6 $1 7. d5 Nb4 8. Bd3 ({or} 8. Qa4 a5) 8...
+O-O {, Zvjaginsev-Bocharov, Tomsk 2006.}) 5. exd5 Qxd5 {Now it transposed to a
+sideline of the Alapin system, where Na3 is a useful/typical move.} 6. Bc4 ({
+After the rare} 6. Qb3 {Black can play} Nf6 $5 ({but not} 6... Be6 $2 7. Bc4 $1
+Qe4+ 8. Kd1 $1 {and if} Bxc4 9. Nxc4 Qd5 10. Nb6 $3 $18 {Smyslov-Zhu Chen,
+Amsterdam 2001})) ({A sensitive alternative is} 6. d4 cxd4 7. Bc4 ({or} 7. Nb5
+Na6 8. Nbxd4 Nf6 9. Bb5+ Bd7 {where GM Karpatchev advocated} 10. Bxa6 $5 bxa6
+11. O-O O-O 12. Re1 {and if} Rfe8 13. Ne5) 7... Qe4+ 8. Be3 {and now} Nh6 $1 ({
+avoiding the trap} 8... dxe3 $4 9. Bxf7+)) 6... Qe4+ 7. Kf1 $5 ({In a number
+of games the "Alapin" expert GM Sveshnikov preferred} 7. Be2 Nf6 8. O-O {,
+which is a more common choice generally. Now it makes sense to play} Nc6 $1 {
+first} ({avoiding the line} 8... O-O 9. d4 cxd4 10. Nxd4 $1 {,
+Sveshnikov-Miezis, ch-LAT Riga 2005})) 7... Be6 $1 {Clearly the best way to
+parry the Bxf7+ threat.} ({Instead,} 7... e6 $4 8. d3 Qf5 9. Nb5 $18 {was
+already lost for Black in Cherniaev-Vasquez Schroder, Wch blitz
+Khanty-Mansiysk 2013.}) 8. Qa4+ $6 $146 ({After} 8. Bb5+ Bd7 9. d3 (9. Bc4 Be6
+$11 {repeats}) 9... Bxb5 10. Nxb5 Qc6 $8 11. Qa4 {(Peptan-Uta, ROM-ch wom
+Amara 2007)} Nd7 12. Bf4 Kf8 $1 {Black is fine.}) (8. Qe2 $5 $11 {can be not
+overly attractive.}) ({But White can also try} 8. Be2 $5 {where Black, likely,
+has to allow Ng5 by} Nf6 ({or} 8... Nc6)) 8... Nd7 ({There was nothing wrong
+with} 8... Nc6 $5 {as well.}) 9. d4 $6 {Another overly optimistic move.} Ngf6
+10. Bg5 Bxc4+ 11. Qxc4 Qd5 $6 ({More promising was} 11... Qf5 $1 {and Black is
+somewhat better.}) 12. Re1 e6 13. Bxf6 $5 Nxf6 $1 14. Qb5+ $6 ({After} 14. Qxc5
+Qxc5 15. dxc5 {Black is fine, but at least White can hope to be no worse.})
+14... Nd7 $1 15. Ne5 $6 a6 $2 ({A sharp, principled continuation was} 15...
+Bxe5 16. dxe5 Qxa2 $1 {which looks very risky, but Black is doing well here.}
+17. Rd1 ({or} 17. Nc4 O-O $1 $17 {and then, for example,} 18. b3 Rfd8 19. h4
+Rab8 {with the idea of 20...a6}) 17... O-O-O $1 ({rather than} 17... O-O 18.
+Qxd7 Rad8 19. Qxd8 Rxd8 20. Rxd8+ Kg7 21. Nc2 $1 {, etc. where White probably
+holds}) 18. Nc4 {(otherwise 18...a6)} Nxe5 $1 19. Qxc5+ Nc6 $17) 16. Qc4 $6 ({
+Normally, White had to play} 16. Qxd7+ Qxd7 17. Nxd7 Kxd7 18. Nc4 $11 {. While
+after Carlsen's move Black is better.}) 16... Nxe5 17. dxe5 Rd8 18. Qxd5 Rxd5
+19. f4 g5 $6 ({Two stronger moves were} 19... Bh6 $5 20. g3 g5) ({and} 19...
+O-O $5 {preparing ...f6}) 20. fxg5 $8 Ke7 21. h4 $1 Rxe5 ({If} 21... Rhd8 $5
+22. Rh3 $1 ({rather than} 22. Nc4 b5 23. Na5 Rc8 $1)) 22. Rxe5 Bxe5 {The
+ending is equal, more or less.} 23. Ke2 b5 24. Nc2 Rd8 25. Ne1 c4 26. Nf3 Bg7
+27. Nd2 $6 h6 28. Ne4 hxg5 29. hxg5 Rd5 30. a3 a5 31. Re1 Be5 32. g3 $6 Kf8 $1
+33. Kf3 $6 Kg7 {After several inaccurate moves, the world champion's position
+became unpleasant.} 34. Kg4 Kg6 35. Rf1 Rd3 ({The Swiss grandmaster could have
+tried} 35... Bg7 $5 {. The following illustrative lines show some ideas:} 36.
+Rf2 Re5 37. Kf4 Rf5+ 38. Kg4 Rxf2 39. Nxf2 a4 (39... Bf8 $5 40. Nh3 Bd6 41.
+Nf4+ Bxf4 42. gxf4 a4 43. Kg3 Kf5 44. Kf3 e5 45. fxe5 Kxe5 46. Kg4 Ke4 47. Kh5
+Kd3 48. Kh6 Kc2 49. Kg7 Kxb2 50. Kxf7 b4) 40. Ne4 (40. Nh3 b4 $1) 40... Bf8 $1
+41. Kf4 Be7 42. Kg4 $2 (42. Ke5 $1) 42... e5 $1 {(Zugzwang)} 43. Kf3 Bxg5 44.
+Nd6 Bc1 45. Ke4 Bxb2 46. Nxb5 f6 $1 47. Kd5 Kg5 48. Kxc4 Kg4 49. Kd3 Kxg3 50.
+Kc2 Ba1 $1 51. Kb1 f5 $1 52. Kxa1 f4 53. c4 f3 54. Nc3 Kf4 $1 55. Nd1 e4 {and
+wins.}) 36. Rf3 Rd1 37. Rf2 Rd5 $2 {Georgiadis allows White to regroup.} 38.
+Nd2 $5 (38. Nf6 $1 Bxf6 {(otherwise White can play 39.Nh5)} 39. Rxf6+ Kg7 40.
+Rf2 {is drawish.}) 38... Bc7 39. Nf3 Bd8 40. Nh4+ Kg7 41. Nf3 Bb6 ({Avoiding
+the repetition,} 41... Kg6 {. But White is already OK.}) 42. Re2 Bc7 43. Re4 $1
+Bd6 44. Rd4 $1 Rxd4+ 45. Nxd4 b4 46. a4 {The position is a draw, after many of
+Black's moves. But he blunders terribly.} b3 $4 ({Quite normal would have been,
+for example,} 46... Be5 47. Nc2 $1 (47. Nb5 $2 Kg6 $1 48. cxb4 axb4 49. a5 Bxb2
+50. a6 c3 51. Nd4 c2 52. Nxc2 b3) 47... bxc3 48. bxc3 Bxc3 49. Ne3 $11) 47. Nf3
+$1 $18 {Threatening with 48.Nd2.} ({Instead of giving up (after quite a long
+think) after} 47. Nf3 {Black could have tried} Ba3 48. bxa3 b2 49. Nd2 {and now
+} Kg6 {but there are not many practical chances for him. For example,} 50. Kf4
+Kh5 51. Ke3 Kxg5 52. Kd4 (52. Ke2 Kg4 53. Kd1 $1 Kxg3 54. Kc2 {win as well})
+52... Kg4 53. Kxc4 e5 54. Kb3 ({after} 54. Kd5 $4 Kxg3 55. Kxe5 Kf2 {Black
+saves the game}) 54... e4 55. Kxb2 e3 56. Nc4 e2 57. Ne3+ Kxg3 58. Nc2 f5 59.
+c4 f4 60. Kc3 f3 61. Kd2 $18 {. I suspect that this Carlsen's win will never
+be included in his best games collections. He played quite poorly and was just
+very lucky in the end.}) 1-0
+

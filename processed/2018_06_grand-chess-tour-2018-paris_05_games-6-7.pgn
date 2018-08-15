@@ -1,0 +1,43 @@
+[Event "Paris GCT 2018-Blitz"]
+[Site "Paris"]
+[Date "2018.06.24"]
+[Round "11"]
+[White "Kramnik, Vladimir"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "0-1"]
+[ECO "C70"]
+[WhiteElo "2787"]
+[BlackElo "2808"]
+[Annotator "AlexYermo"]
+[SetUp "1"]
+[FEN "5rk1/5pb1/pr1pb2p/2pB4/5Pq1/1PPR1QN1/6P1/4R1K1 w - - 0 29"]
+[PlyCount "6"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+
+{[#]} 29. Qe4 {I bet Kramnik thought he was winning here.} ({Much better was} 
+29. Qxg4 Bxg4 30. Re7) 29... Re8 30. Nf5 Rbb8 31. Rg3 $4 {Logically, this had
+to be the concluding move, forcing Black's resignation.} ({In reality White
+had to be looking for a bailout:} 31. Nxd6 Bxd5 32. Qxe8+ Rxe8 33. Rxe8+ Kh7
+34. Rxd5 Bxc3 35. Ne4 Bg7 36. Nxc5 Qxf4 37. Re4) {However....} 31... Qxf5 0-1
+
+[Event "Paris GCT 2018-Blitz"]
+[Site "Paris"]
+[Date "2018.06.24"]
+[Round "14"]
+[White "Nakamura, Hikaru"]
+[Black "Kramnik, Vladimir"]
+[Result "1-0"]
+[ECO "A14"]
+[WhiteElo "2769"]
+[BlackElo "2787"]
+[Annotator "AlexYermo"]
+[PlyCount "37"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+
+1. Nf3 Nf6 2. b3 d5 3. Bb2 e6 4. g3 Be7 5. Bg2 O-O 6. O-O c5 7. d4 Nc6 8. e3 b6
+9. c4 Ba6 10. Ne5 Rc8 11. Nd2 cxd4 12. Nxc6 Rxc6 13. Bxd4 Rc7 14. Qe2 Bb4 15.
+Rfd1 Qe7 16. a3 Bxd2 17. Qxd2 dxc4 18. Be5 {[#]} Rd7 $4 ({Even I was looking at
+} 18... c3 {as the only move.} 19. Qc2 Rd7 20. Rxd7 Nxd7 21. Bxc3 $14) 19. Bxf6
+1-0

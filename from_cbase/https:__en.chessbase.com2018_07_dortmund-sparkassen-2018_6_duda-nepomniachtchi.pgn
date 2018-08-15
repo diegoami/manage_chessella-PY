@@ -1,0 +1,41 @@
+[Event "46. Sparkassen Chess-Meeting 2018"]
+[Site "Dortmund"]
+[Date "2018.07.21"]
+[Round "6"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[WhiteElo "2737"]
+[BlackElo "2757"]
+[Annotator "Lawrence"]
+[SetUp "1"]
+[FEN "1rrbq3/1p3bpk/p2p1p1p/P1nNpP2/2P1P1P1/1PN1B3/R1Q3KP/R7 w - - 0 42"]
+[PlyCount "34"]
+[EventDate "2018.07.14"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[#]} {We join game of the round after move 42 where it was the young Polish
+phenom who had masterfully outplayed the tournament leader to get the
+following wonderful position. White has every trump you could hope for in this
+line of the Sicilian; a beautifully supported knight on d5, a clamp on the
+queenside, a potential break on the kingside and Black has got close to no
+active plan. Nepo quite understandbly took drastic measures} 42. h4 b5 {
+probably forced, what else?} 43. axb6 Bxb6 44. Nxb6 $6 (44. g5 $1 {with the
+bishop having departed d8, this is now an extremely strong move} Bxd5 45. g6+
+$1 Kh8 46. Nxd5 $18 {and Black is unlikely to be able to cover the multiple
+weaknesses in his position (a6, d6, f6&h6 potential sacrifices etc)}) 44...
+Rxb6 45. Bxc5 dxc5 46. Rxa6 {Winning a pawn like this can hardly be
+over-criticised, but it does give Black greater chances to counter compared to
+the previous line.} Rcb8 47. Rxb6 Rxb6 48. Ra7 Rb8 49. Na4 $6 {a serious
+innacuracy} (49. Qd1 $1 Rd8 50. Nd5 $16 {and White maintains control}) 49...
+Rd8 $5 {Nepo spots a nice swindle attempt} 50. Nxc5 Rd4 51. Kf3 $2 (51. g5 $1 {
+should still be good enough e.g.} fxg5 52. hxg5 hxg5 53. Qc1 {[%cal Rc1g5] is
+completely over}) 51... Qc6 $1 52. Na4 $4 {White completely loses control and
+misses a nice shot} Bxc4 $1 {ouch} 53. bxc4 Rxc4 {now White can't
+simultaneously defend e4 and a4 and the game simply peters out.} 54. Qb1 Rxa4
+55. Rxa4 Qxa4 56. Qd3 Qa1 57. Kg2 Qc1 58. h5 Qf4 1/2-1/2

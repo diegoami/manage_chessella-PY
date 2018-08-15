@@ -1,0 +1,51 @@
+[Event "WTCC-50 2018"]
+[Site "?"]
+[Date "2018.07.12"]
+[Round "6"]
+[White "Boensch, Uwe"]
+[Black "Benjamin, Joel"]
+[Result "0-1"]
+[ECO "E16"]
+[WhiteElo "2560"]
+[BlackElo "2544"]
+[Annotator "gmjoel"]
+[PlyCount "94"]
+[EventDate "2007.07.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 ({Thirty years ago in Lugano I
+beat Boensch with a line I created,} 5. b3 Bb4+ 6. Bd2 c5 $5 {We were both a
+lot younger then.}) 5... Bb7 (5... Bb4 6. Qc2 Bb7 7. Bg2 Be4 {is more normal
+for me, but I decided to branch out.}) 6. Bg2 Be7 7. O-O O-O 8. Re1 d5 9. cxd5
+exd5 10. Ne5 c5 11. dxc5 bxc5 12. b3 Bd6 {[#] I wasn't sure about this move,
+but I felt I needed to prevent e2-e4} (12... Na6 13. e4 dxe4 14. Bb2) 13. Bb2
+Re8 ({Originally I intended} 13... Qe7 {but I saw it would be killed by} 14. e4
+) 14. Nd3 (14. Nec4 {is interesting} Bf8 (14... Bc7) 15. Bxf6 Qxf6 16. Na5 {
+is bad, so I should go to c7 with the bishop}) 14... Nbd7 15. Rc1 Qb6 16. e3 {
+Played after a long thought. I was ready for} (16. e4 c4 {The position seems
+dynamically balanced.}) 16... a5 17. Nf4 Bxf4 ({I almost fell for} 17... Rad8
+$2 18. Nxd5 Bxd5 19. Bxd5 Nxd5 20. Nc4 Qc6 21. e4) 18. gxf4 {certainly risky,
+but} (18. exf4 Rxe1+ 19. Qxe1 d4 {looks comfortable for Black}) 18... a4 19.
+Qc2 axb3 20. axb3 Rab8 {[#] sitting on the b-pawn to keep White from
+maneuvering his knight} 21. Be5 {I didn't see this move, but fortunately it's
+not that strong.} ({I thought} 21. Qf5 {was good, though the computer does not
+believe this move does anything.}) 21... Nxe5 22. fxe5 Nd7 (22... Rxe5 23. Qxc5
+{the queen penetrates too fast for me to organize a kingside attack}) 23. f4 f6
+(23... Qe6) 24. Qd3 {I didn't see this move} (24. Bh3 Rbd8 25. Bxd7 (25. e6
+Rxe6) 25... Rxd7 26. Qxc5 Qe6 27. Qd4 Qg4+ 28. Kh1 fxe5 29. fxe5 Qh5 {with
+initiative to Black}) 24... fxe5 (24... Qc6 25. e4 d4 {computer says I'm
+better, but I couldn't evaluate this position at all.}) 25. Bxd5+ Bxd5 (25...
+Kh8 {looked too risky. The other boards were going well, so there;s no reason
+to refuse the endgame which is quite comfortable for me.}) 26. Qxd5+ Qe6 27.
+Qxe6+ Rxe6 28. f5 Rf6 29. e4 (29. Rf1 {looks better to me}) 29... Rd6 30. Re2
+Rd3 31. Ra1 h5 32. h4 {This move sets up more potential mating patterns, but
+it certainly weakens around the king.} Nf6 33. Ra5 Rbd8 34. Nc4 Ng4 {[#]} 35.
+Kg2 $2 {Played instantly to play on my time shortage, but after} (35. Rxc5 {
+I don't see more than a draw for Black}) 35... Rxb3 36. Rxc5 Rc3 {the pin is
+decisive} 37. Rc6 Rdd3 38. Rc8+ Kh7 39. Nb6 (39. Nd6 Rg3+ 40. Kf1 Rcf3+ 41. Ke1
+Rd3 $19) 39... Rg3+ (39... Rb3 {is the cleanest} 40. Nc4 Rg3+ 41. Kf1 Rb1+ 42.
+Re1 Rf3+) 40. Kf1 Rcf3+ {The last move of the time control} (40... Rb3 41. Nd7
+Rb1+ 42. Re1 Rf3+ 43. Kg2 Rf2+ 44. Kg3 Rxe1 ({I didn't see} 44... Rb3+) 45.
+Nf8+ $11) 41. Ke1 Rd3 {This was my plan, and it still wins comfortably} 42.
+Rec2 Rge3+ 43. Re2 Rh3 44. Rg2 {I think this is slightly easier than} (44. Rec2
+{but Black should win anyway}) 44... Rh1+ 45. Ke2 Re3+ 46. Kd2 Rxe4 47. Rc4 Rf4
+{First win over a grandmaster in a meaningful game in a long time for me.} 0-1

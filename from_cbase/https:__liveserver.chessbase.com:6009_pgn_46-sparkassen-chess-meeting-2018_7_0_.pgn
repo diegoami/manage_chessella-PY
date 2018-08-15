@@ -1,0 +1,184 @@
+[Event "46. Sparkassen Chess-Meeting 2018"]
+[Site "Dortmund"]
+[Date "2018.07.22"]
+[Round "7"]
+[White "Giri, Anish"]
+[Black "Duda, Jan-Krzysztof"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[WhiteElo "2782"]
+[BlackElo "2737"]
+[Annotator "TA"]
+[PlyCount "94"]
+[EventDate "2018.07.14"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,94,37,40,58,64,86,76,91,91,77,55,134,116,122,98,139,120,139,143,191,
+212,209,221,212,206,358,344,314,136,121,114,158,106,125,79,90,0,53,44,32,37,54,
+63,56,33,55,-33,-33,-28,-30,-29,-28,-23,-19,-35,-35,-58,-29,-29,-34,-40,-16,
+-94,-16,-34,-16,-16,0,0,0,-17,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 d6 2. d4 Nf6 3. Nc3
+g6 4. Nf3 Bg7 5. Be3 O-O 6. Qd2 Nc6 {B08: Pirc Defence: Classical System} 7. d5
+Nb8 8. Bh6 {LiveBook: 3 Games} (8. h3 c6 9. g4 b5 10. a3 Qa5 11. Rb1 b4 12.
+axb4 Qxb4 13. Bd3 cxd5 {1/2-1/2 (57) Bacrot,E (2714)-Hera,I (2620) Brest 2018})
+8... e5 {White is slightly better.} 9. dxe6 Bxe6 10. Bxg7 Kxg7 11. O-O-O $146 (
+{Predecessor:} 11. Nd4 Re8 12. O-O-O Nbd7 {1-0 (48) Gomes,M (2331)-Kotepalli,S
+(1978) Mysore 2017}) 11... Nc6 12. h3 Re8 (12... a6 $14) 13. g4 $1 $16 a6 14.
+Bg2 Nd7 {[%cal Bf6d7,Bd7b6,Bb6c4][%mdl 32]} 15. Ng5 Nb6 16. f4 Nc4 17. Qd3 b5
+18. e5 Nb4 19. Qg3 d5 $2 (19... c6 20. b3 Qa5) 20. a3 (20. Qh4 h6 $11) 20... a5
+21. Qh4 (21. axb4 $6 axb4 22. Nb1 (22. Qh4 bxc3 23. Qxh7+ Kf8 $11) 22... Ra2
+$18) (21. Nxb5 Qb8 $18) (21. h4 $18) 21... h6 22. Nxe6+ fxe6 23. Qxd8 (23. Qg3
+$142) 23... Rexd8 24. Rde1 d4 {[#]} 25. Nxb5 ({Much weaker is} 25. axb4 $6 dxc3
+26. Bxa8 (26. bxc3 Ra6 $15) 26... cxb2+ 27. Kb1 Rxa8 $11) ({Better is} 25. Ne4
+$1 $16 {[%cal Re4c5] Threatens to win with Nc5.} Nd5 26. Nc5) 25... d3 (25...
+Rab8 $11 26. axb4 (26. Nxc7 Na2+ 27. Kd1 Kf7 $17) 26... Rxb5) 26. axb4 $14 ({
+Don't play} 26. Bxa8 d2+ 27. Kb1 dxe1=R+ 28. Rxe1 Nd2+ 29. Kc1 Na2+ 30. Kd1
+Nf3+ 31. Ke2 Nxe1 $17) 26... d2+ 27. Kb1 dxe1=Q+ 28. Rxe1 Rab8 $1 {[%cal Rb8b5]
+} 29. Nxc7 Rd2 30. Nxe6+ (30. Be4 $1 $14 Rxb4 31. b3) 30... Kf7 $15 31. Bf1
+Rxb4 32. Kc1 {Hoping for Bxc4.} Rf2 $36 {[%mdl 2048] ( -> ...Ra4). Black is
+more active.} 33. Nd4 {And now b3 would win.} Nxe5 34. fxe5 Rxd4 $11 {[%mdl
+4096] Endgame KRR-KRB} 35. Bd3 g5 {[%mdl 1024] Black has compensation.} 36. Re3
+$1 Rdf4 37. Be2 Ke7 38. Kb1 {[#]} (38. b3 $1 $11 {keeps the balance.}) 38...
+Rf8 (38... Rh2 $1 $17 {[%cal Rh2h1]} 39. Bd3 Rh1+ 40. Ka2 Ra4+ 41. Kb3 Raa1)
+39. Ka2 R2f4 40. Ka3 {The position is equal.} Rb8 41. b3 Rc8 42. Bc4 (42. c4 {
+is interesting.} Rc5 43. Bf3 Rc8 44. Ka4 Rc5 45. Ka3) 42... Rcxc4 43. bxc4 Rxc4
+44. c3 a4 45. e6 Rf4 46. Kb2 Rf2+ 47. Ka3 Rf4 {Precision: White = 61%, Black =
+44%.} 1/2-1/2
+
+[Event "46. Sparkassen Chess-Meeting 2018"]
+[Site "Dortmund"]
+[Date "2018.07.22"]
+[Round "7"]
+[White "Nepomniachtchi, Ian"]
+[Black "Meier, Georg"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2757"]
+[BlackElo "2628"]
+[Annotator "TA"]
+[PlyCount "53"]
+[EventDate "2018.07.14"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,53,17,19,13,25,15,16,10,8,12,23,20,17,11,66,65,61,62,54,62,67,47,81,
+69,66,40,135,137,245,214,461,451,478,489,650,222,647,635,765,718,29989,29990]} 
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Ne5 Bd6
+{LiveBook: 4 Games. C10: French with 3 Nc3: Unusual Black 3rd moves and 3...
+dxe4} (7... Nd7 8. Bf4 Nxe5 9. Bxe5 f6 10. Bg3 c5 11. Bc4 cxd4 12. O-O Bd6 13.
+Re1 Bxg3 14. hxg3 O-O 15. Re4 {1-0 (50) Dominguez Perez,L (2739)-Meier,G (2628)
+chess.com INT 2018}) 8. Bg5 h6 9. Bh4 O-O {The position is equal.} 10. Bd3 c5
+11. Qe2 $146 ({Predecessor:} 11. Nc4 g5 12. Nxd6 Qxd6 13. dxc5 Qe5+ 14. Qe2
+Qxe2+ 15. Kxe2 gxh4 16. a3 {0-1 (51) Fuss,J (1688)-Pieczka,R (1922) Germany
+2012}) 11... Qa5+ 12. c3 {[%cal Bc2c3,Bc3d4][%mdl 32] And now Bxf6 would win.}
+cxd4 13. Nc4 Qc5 (13... Qd5 $11) 14. Bxf6 $14 gxf6 15. Qg4+ Kh8 16. cxd4 Qb4+
+17. Kf1 {Hoping for Qe4.} Bc7 18. Qe4 $40 {[%csl Gd3][%cal Re4h7][%mdl 128]
+Black needs to defend precisely.} f5 19. Qh4 Kg7 ({Black should try} 19... Kh7
+$14) 20. g4 $16 f4 (20... Bd8 $16 {is a better defense.} 21. Qh5 (21. Qg3 Rg8
+$14) 21... Qe7) 21. Rg1 {Threatens to win with g5.} Bd7 $2 (21... Rg8 22. g5 h5
+) 22. Qh5 $1 $18 ({Weaker is} 22. g5 h5 $14) 22... Rh8 23. g5 hxg5 24. Qxg5+
+Kf8 25. Qf6 (25. a3 Qb3 $11) 25... Rxh2 {[#]} 26. Rg7 $1 {[%csl Gg7][%cal
+Rf6f7]} Be8 {[#]} 27. Bh7 $1 {Precision: White = 96%, Black = 30%.} (27. Rg1
+Bc6 $11) 1-0
+
+[Event "46. Sparkassen Chess-Meeting 2018"]
+[Site "Dortmund"]
+[Date "2018.07.22"]
+[Round "7"]
+[White "Nisipeanu, Liviu-Dieter"]
+[Black "Wojtaszek, Radoslaw"]
+[Result "1/2-1/2"]
+[ECO "D38"]
+[WhiteElo "2672"]
+[BlackElo "2733"]
+[Annotator "TA"]
+[PlyCount "67"]
+[EventDate "2018.07.14"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,67,9,16,16,20,27,25,16,22,22,22,22,22,22,23,28,18,1,16,0,0,0,0,0,0,0,
+0,0,0,0,0,7,14,14,14,14,14,15,15,15,15,17,25,0,25,0,25,0,25,0]} 1. d4 Nf6 2. c4
+e6 3. Nf3 d5 4. Nc3 Bb4 5. Qb3 c5 6. dxc5 Na6 {D38: Queen's Gambit Declined:
+Ragozin Defence (4 Nf3 Bb4)} 7. a3 Bxc3+ 8. Qxc3 Nxc5 9. cxd5 Qxd5 10. Be3 Nce4
+{LiveBook: 26 Games} 11. Qe5 Qxe5 12. Nxe5 Nd5 13. Bc1 Bd7 14. f3 {[#]} Nc5
+$146 15. e4 Nb3 16. Rb1 Nb6 17. Be3 Rc8 18. Nxd7 Kxd7 19. Be2 Ke7 20. O-O Rhd8
+21. Rfd1 Rxd1+ 22. Bxd1 Nc4 23. Bxb3 Nxe3 $11 {[%mdl 4096] Endgame KRB-KRN} 24.
+Kf2 Nc4 {[#] Strongly threatening ...Nd2.} 25. Rc1 Nb6 26. Rxc8 Nxc8 {KB-KN}
+27. e5 f6 28. f4 fxe5 29. fxe5 Kd7 30. Ba4+ Kc7 31. Bb3 Kd7 32. Ba4+ Kc7 33.
+Bb3 Kd7 34. Ba4+ {Precision: White = 57%, Black = 85%.} 1/2-1/2
+
+[Event "46. Sparkassen Chess-Meeting 2018"]
+[Site "Dortmund"]
+[Date "2018.07.22"]
+[Round "7"]
+[White "Kovalev, Vladislav"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "C44"]
+[WhiteElo "2655"]
+[BlackElo "2792"]
+[Annotator "TA"]
+[PlyCount "208"]
+[EventDate "2018.07.14"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,208,0,0,0,0,0,8,0,14,-16,-16,-27,-27,-25,0,-14,-4,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,447,448,424,423,573,531,563,415,610,636,
+943,933,712,976,872,886,984,827,477,420,251,259,1949,1947,2007,1748,1387,1349,
+1602,1365,2201,1787,6200,4985,12846,12850,29943,29944,12849,2151,29944,12849,
+11440,0,1337,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,
+28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,0,28,
+28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,22,20,28,28,28,
+28,28,28,28,28,28,0,28,28,28,20,28,28,28,22,28,28,28,28,28,22,28,0,28,0,28,20,
+20,0,0]} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. Ng5 Nh6 6. Nxf7 Nxf7 7.
+Bxf7+ Kxf7 8. Qh5+ g6 9. Qxc5 d5 {LiveBook: 7 Games. C44: Ponziani Opening and
+Scotch Gambit} (9... d6 10. Qb5 Kg7 11. O-O Qe7 12. Qd3 Re8 13. f3 Be6 14. c3
+Qf6 15. cxd4 Qxd4+ 16. Qxd4+ Nxd4 17. Nc3 {0-1 (80) Bernabeu Lopez,C (2335)
+-Blanco,C (2345) Linares 2017}) 10. O-O dxe4 11. c3 Re8 12. cxd4 Nxd4 $146 ({
+Predecessor:} 12... Qxd4 13. Qa3 Qb4 14. Qe3 Bf5 15. Bd2 Qd4 16. Qb3+ Be6 17.
+Qg3 {1-0 (31) Dannenberg/Schellenberg-Seidel/Schmid Dresden 1873}) 13. Nc3 b6
+$1 {[%cal Rb6c5]} 14. Qc4+ Be6 15. Qa4 c5 16. Nxe4 Bd5 17. f3 Bxe4 18. fxe4+
+Kg7 19. Qc4 Kh8 (19... Rxe4 $2 20. Qf7+ Kh8 21. Bh6 $18) 20. b4 Rxe4 21. Bb2
+Qg8 22. Rf7 Rf8 23. Rxf8 $1 Qxf8 24. bxc5 $40 {[%mdl 128] White attacks.} bxc5
+25. Rf1 Qe7 26. Qd5 Kg7 27. h3 g5 28. Bc3 a6 29. Kh1 Kh6 30. Rb1 Nb5 $2 {
+[%mdl 8192] [#]} (30... Rf4 $11 {and Black stays safe.}) 31. Bf6 $1 $18 {
+[%mdl 512]} Qxf6 32. Qxe4 {[%mdl 4096] Endgame KQR-KQN} Nc3 {[#]} 33. Qf3 $1 {
+[%cal Rf3f6]} Qxf3 34. Rb6+ Kh5 (34... Kg7 $142 35. gxf3 Nxa2) 35. gxf3 Nxa2 {
+KR-KN} 36. Rc6 Nb4 37. Rxc5 Nd3 38. Ra5 Kh4 39. Kh2 Nf4 40. Rxa6 {White wants
+to mate with Rh6+.} Kh5 41. Rd6 Ne2 $2 (41... h6 42. Kg3 Ne2+ 43. Kg2 Nf4+ 44.
+Kh2 Ne2) 42. Rd2 Nf4 43. Kg3 Ng6 44. Rd7 {[%cal Rd7h7]} h6 45. Rf7 Ne5 46. Rf5
+Ng6 47. Ra5 Nf4 48. h4 Ne2+ 49. Kf2 Nf4 50. hxg5 hxg5 51. Ke3 Ng2+ 52. Kf2 (52.
+Ke4 $142 Kh4 53. Rc5) 52... Nf4 53. Ra8 $2 (53. Ra6 $18 Nd5 54. Ra5) 53... Kg6
+$11 54. Ke3 Ng2+ $1 55. Ke4 Nh4 $1 56. Ra6+ Kf7 57. Ra2 (57. Ra7+ Kf6 $18)
+57... Kf6 58. Ra1 (58. Ra6+ Kg7 $18) 58... Ke6 59. Rh1 (59. Ra6+ Kf7 $18) 59...
+Ng6 60. Rh6 Kf6 61. Rh7 Nh4 62. Ke3 (62. Rh6+ Ng6 $18) 62... Ng6 63. Ra7 Nh4
+64. Ra6+ Kf5 65. Kf2 (65. Ra5+ Kg6 $18) 65... Ng6 66. Kg3 Ne5 67. Ra8 Ng6 68.
+Rg8 Ne5 69. Rf8+ Ke6 70. Kf2 Ng6 71. Rb8 (71. Rd8 {is more complex.} Ke5 72.
+Rg8 Kf5 73. Rb8 Nf4 74. Rb7) 71... Kf5 72. Rb5+ Kf6 73. Ra5 Ne5 74. Ke2 (74.
+Ra6+ Kf5 $18) 74... Ng6 75. Ra6+ Kf5 76. Ke3 Nh4 $1 77. Ra5+ Kf6 78. Ke4 (78.
+Ra6+ Kf5 $18) 78... Kg6 $1 79. Ra1 (79. Ra6+ Kh5 $18) 79... Kf6 80. Rg1 ({
+Less strong is} 80. Ra6+ Kf7 $18) 80... Nf5 81. Rg2 Nh4 82. Rh2 {Strongly
+threatening Rb2.} Ng6 83. Rh5 Nf4 84. Rh8 Ng6 $1 {[%cal Rg6h8]} 85. Rb8 Nh4 $1
+86. Rg8 Ng6 87. Kd4 Kf5 88. Ke3 {Hoping for Ra8.} Kf6 89. Ke4 Kf7 90. Rb8 Nh4
+$1 91. Rc8 ({Weaker is} 91. Rb7+ Kg6 $18) 91... Kf6 92. Rc1 {Rc6+ is the
+strong threat.} Ke6 93. Ke3 {Threatens to win with Ke4.} (93. Rc6+ Kf7 $18)
+93... Kf5 94. Rc5+ Kf6 95. Rb5 {aiming for Ke4.} ({Not} 95. Rc6+ Kf5 $18) 95...
+Ng6 96. Ke4 Nh4 $1 97. Rd5 {Black must now prevent Rc5.} Kg6 98. f4 gxf4 99.
+Kxf4 {And now Kg4 would win.} Kf7 100. Kg5 Nf3+ 101. Kf4 Nh4 102. Kg5 Nf3+ 103.
+Kg4 Ke6 104. Kxf3 {Ke4 would kill now.} Kxd5 {Precision: White = 74%, Black =
+70%.} 1/2-1/2
+

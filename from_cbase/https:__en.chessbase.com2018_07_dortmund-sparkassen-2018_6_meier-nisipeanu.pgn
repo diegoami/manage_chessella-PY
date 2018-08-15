@@ -1,0 +1,71 @@
+[Event "46. Sparkassen Chess-Meeting 2018"]
+[Site "Dortmund"]
+[Date "2018.07.21"]
+[Round "6"]
+[White "Meier, Georg"]
+[Black "Nisipeanu, Liviu-Dieter"]
+[Result "1-0"]
+[ECO "E06"]
+[WhiteElo "2628"]
+[BlackElo "2672"]
+[Annotator "Lawrence"]
+[PlyCount "97"]
+[EventDate "2018.07.14"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. Nf3 Be7 5. d4 O-O 6. Nc3 $5 {an interesting
+move order. The heavily analysed mainline begins with 6.0-0} (6. O-O dxc4 7.
+Ne5 Qd6 8. Na3 Rd8 9. Naxc4 Qa6 10. Qc2 Rxd4 11. Bg5 Nbd7 12. Rfd1 Rxd1+ 13.
+Rxd1 Nxe5 14. Nxe5 Qa5 15. Bf4 Nd5 16. Be4 g6 17. Bh6 Qc5 18. Qd2 Qb4 19. Qc2
+Qc5 20. Qd3 Qd6 21. Nc4 Qc5 22. Qf3 c6 23. Bd3 Nf6 24. e4 e5 25. Be3 Qb4 26.
+Nxe5 Qxb2 27. Bf4 Be6 28. Rb1 Qxa2 29. Rxb7 Bc5 30. Kg2 Re8 31. h3 Bxf2 32.
+Qxf2 Bxh3+ 33. Kg1 Qxf2+ 34. Kxf2 Rxe5 35. Bxe5 Ng4+ 36. Kg1 Nxe5 37. Be2 Kg7
+38. Rxa7 Kf6 39. Ra5 Bd7 40. Kf2 Ke6 41. Ke3 Kd6 42. Ra1 h5 43. Rd1+ Ke7 44.
+Kd4 f6 45. Kc5 Bh3 46. Ra1 Bg2 47. Ra4 Ke6 48. Rd4 Nf3 49. Rd8 Ng5 50. Bc4+ Ke7
+51. Rg8 Nxe4+ 52. Kxc6 Nd6+ 53. Kc5 Nxc4 54. Kxc4 Kf7 {1/2-1/2 (54) Kramnik,V 
+(2800)-Mamedyarov,S (2809) Berlin 2018}) 6... dxc4 7. Ne5 Qd6 $5 {this idea
+was seen most recently by Mamedyarov in the Candidates (with 0-0 instead of
+Nc3). Black avoids mass exchanges and puts the Queen on a6. Meier, a strong
+theoretician, seems to believe that this move order benefits White and by the
+looks of this game, he is absolutely right.} (7... c5 8. dxc5 Qxd1+ 9. Nxd1
+Bxc5 10. Nc3 Nc6 11. Nxc4 Rd8 12. Be3 Bxe3 13. Nxe3 Rb8 14. f4 e5 15. f5 Nd4
+16. g4 b6 17. Rc1 Bb7 18. Bxb7 Rxb7 19. Kf2 h6 20. h4 g5 21. fxg6 fxg6 22. Rhg1
+Ne6 23. g5 hxg5 24. hxg5 Nh7 25. Ne4 Kg7 26. Rc6 Nd4 27. Rc3 Ne6 28. Rc6 Nd4
+29. Rc3 Ne6 {1/2-1/2 (29) Giri,A (2793)-Topalov,V (2780) Moscow 2016}) (7...
+Nc6 8. Bxc6 bxc6 9. Nxc6 Qe8 10. Nxe7+ Qxe7 11. Qa4 c5 12. dxc5 Qxc5 13. Be3
+Qc7 14. Rd1 Bb7 15. O-O Nd5 16. Bd4 Rfd8 17. Nxd5 Rxd5 18. Bc3 h5 19. Rxd5 Bxd5
+20. Rd1 a6 21. Rd4 Qe5 22. Rg4 Qxe2 23. Rxg7+ Kf8 24. Rg5 Qf3 25. Bb4# {
+1-0 (25) Bai,J (2594)-Lu,S (2630) Tianjin 2018}) 8. O-O $5 (8. Nxc4 {is most
+played} Qa6 9. Qb3 Nc6 10. e3 Rb8 11. Qb5 Qxb5 12. Nxb5 Nb4 13. O-O Bd7 14. Nc3
+Rfc8 {and Black was more than ok and indeed went on to win: 0-1 (45) Svidler,P
+(2727)-Kramnik,V (2777) Skopje 2015 CBM 169 [Roiz,M]}) 8... Qa6 {so White
+sacrifices a pawn but has an idea up his sleeve} 9. a4 $5 {threatening to
+simply play Nb5 and exploit the weakness on c7} Rd8 $5 (9... Nc6 $5 10. Nb5
+Nxe5 11. dxe5 Rd8 12. Qc2 Nd5 13. Qxc4 c6 14. Nd6 Qxc4 15. Nxc4 b6 16. Bd2 Ba6
+17. Rfc1 {seemed like perfectly acceptable play in Â½-Â½ (17) Efimenko,Z (2647)
+-Kravtsiv,M (2623) Lvov 2015. It would be interesting to know what improvement
+Georg had found.}) 10. Nb5 Ne8 11. Qc2 Nc6 12. Qxc4 $5 Nxd4 13. Be3 Nf5 14. Bc5
+Bxc5 15. Qxc5 {White sacrifices another pawn to maintain decent pressure and
+it seems to work out very well.} Qb6 (15... Bd7 $5 16. Nxc7 Nxc7 17. Qxc7 Qd6
+18. Rfc1 Rac8 19. Qxd6 Nxd6 20. Rxc8 Bxc8 {was a way to cleanly equalise.}) 16.
+Qxb6 axb6 17. Rfd1 Nfd6 18. Rac1 $36 f6 19. Nc4 Bd7 $6 (19... Rxa4 $5 20. b3
+Rxc4 21. Rxc4 Rd7 $1 22. Nxd6 Nxd6 23. Ra4 Re7 24. Ra8 Re8 {seemed like a
+decent attempt for Black to construct a fortress of sorts.}) 20. Nxc7 $1 Bxa4
+21. Rxd6 $1 Nxd6 22. Nxd6 {the point, White wins two pieces for the rook} Ra7
+23. Nc4 Rd1+ 24. Rxd1 Bxd1 {the dust has settled and White is clearly better.
+What's more, Georg loves playing these positions so it is no surprise he
+managed to convert from here.} 25. Nxe6 Ra1 26. Bd5 Bxe2+ 27. Kg2 Bxc4 28. Bxc4
+Kf7 29. Nd4+ Ke7 30. Nf5+ Kf8 31. b3 Rd1 32. Ne3 Rd2 33. h4 g6 34. g4 Rb2 35.
+Nd1 Rd2 36. Nc3 Rd4 37. Kg3 Rd8 38. f3 Kg7 39. Kf4 Rd2 40. Ne4 Rd1 {Black is
+simply helpless and White can improve his positions slowly but surely.} 41. h5
+b5 42. Be6 Rh1 43. Bd5 b6 44. hxg6 hxg6 45. Nc3 b4 46. Na2 g5+ $2 {a critical
+mistake under huge pressure. It seems as though Black still had chances to
+hold after} (46... Re1 $1 47. Be4 g5+ 48. Kf5 Re3 49. Nxb4 Rxb3 50. Nd5 $16 {
+and even though this is no fun, Black should probably be able to hold with
+correct play.}) 47. Ke3 {now b4 falls and Black can't even win the b3 pawn} Kf8
+48. Nxb4 Ke7 49. Be4 {Nd5 is coming next and either b6 or f6 falls so Black
+understandbly threw in the towel.} 1-0

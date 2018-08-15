@@ -1,0 +1,81 @@
+[Event "105th British-ch 2018"]
+[White "Adams, Michael"]
+[Black "McShane, Luke J"]
+[Site "Hull"]
+[Round "10.1"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2018.08.05"]
+[WhiteElo "2706"]
+[BlackElo "2669"]
+[PlyCount "89"]
+
+1. e4 {} e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. 0-0 d6 6. c3 0-0 7. a4 a5 8. Bg5 {LiveBook: 25
+Games. C54: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} (8. Na3 Be6 9. Bxe6 fxe6 10. Nc2 Qe8 11. Be3 Bxe3 12. Nxe3 Rd8 13. Qe2 d5 14. Rfe1 Qg6 15. Nf1 Nh5 {1/2-1/2 (38) Anand,V (2782)-Ding,L (2777) Riadh 2017} )Qe7 9. Nbd2 Be6 10. Qb3 {White is slightly better.} Rab8 11. Rad1 $146 ({Predecessor:
+} 11. Bd5 Rfe8 12. h3 Nd8 13. Bxe6 Nxe6 14. Bxf6 Qxf6 15. Qc2 Nf4 16. Kh1 Re6 17. Nb3 Qg6 18. Rg1 Qh5 19. Nh2 Bb6 20. d4 Rf6 {1/2-1/2 (20) Klimenko,
+V-Wilkins,M Canberra 1995} )h6 {...Bxc4 is the strong threat.} 12. Bh4 (12. Bxe6 {keeps more tension.} fxe6 13. Be3 Nd7 14. Qb5 Qf7 15. Nc4 )Ba7 (12... g5 {is more complex.} 13. Bg3 Nh5 14. Bd5 Qf6 15. Kh1 Bd7 )13. Bxe6 Qxe6 (13... fxe6 {feels hotter.} 14. h3 g5 15. Bg3 Nh5 16. Kh1 Nf4 )14. Bxf6 $1 Qxb3 15. Nxb3 {Hoping for Bh4.} gxf6 16. Nbd2 Rfd8 17. Nh4 Ne7 18. Nc4 b5 $1 {
+} 19. Nxa5 {Black must now prevent Nf5.} Bb6 20. b4 {Strongly
+threatening Nf5.} Bxa5 21. bxa5 b4 22. cxb4 Rxb4 23. g3 Ra8 24. Rb1 Rxa4 25. Rfc1 c5 26. Rb6 $36 { White fights for an advantage.} Rd8 27. a6 f5 (27... Kg7 $16 )28. Nxf5 $18 Nxf5 29. exf5 { Endgame KRR-KRR} Kg7 30. Kf1 Ra2 31. g4 Kf6 32. Rxc5 {aiming for Kg2.} Kg5 {[#]} 33. Rc4 $1 d5 $2 {
+ [#]} (33... Ra8 $16 )34. h4+ $1 Kxh4 35. Rxh6+ Kg5 36. Rh5+ Kf6 37. Rc6+ Ke7 38. Rh7 Rb8 39. Re6+ Kf8 40. Rh8+ Kg7 41. Rxb8 fxe6 42. fxe6 {White
+wants to mate with e7.} Kf6 43. Ra8 {White mates.} Kxe6 44. a7 Kf7 45. Rh8 {
+Precision: White = 72%, Black = 32%.} 1-0
+
+[Event "105th British-ch 2018"]
+[White "McShane, Luke J"]
+[Black "Adams, Michael"]
+[Site "Hull"]
+[Round "11.1"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2018.08.05"]
+[WhiteElo "2669"]
+[BlackElo "2706"]
+[PlyCount "139"]
+
+1. e4 {} e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. 0-0 0-0 6. h3 h6 7. c3 d6 8. Re1 a6 {C54: Italienische Partie 
+(Hauptvariante)} (8... a5 9. Nbd2 Be6 10. Bb5 Qb8 11. Nf1 Qa7 12. Re2 a4 13. Ng3 Qa5 14. Bxc6 bxc6 15. Nh4 Rfe8 16. Re1 {1/2-1/2 (28) Mamedyarov,S (2808)
+-Karjakin,S (2782) Stavanger 2018} )9. Bb3 Re8 10. Nbd2 Be6 11. Nf1 Bxb3 12. axb3 d5 {LiveBook: 5 Partien} 13. Qe2 Qd7 14. b4 Bf8 15. Ng3 Rad8 {[#]} 16. Kf1 $146 ({Vorgänger:} 16. Nh2 dxe4 17. dxe4 Qd3 18. Ng4 Nxg4 19. Qxg4 {1-0 (55)
+Andriasian,Z (2598)-Pashikian,A (2607) Yerevan 2013} )g6 17. Qc2 Re6 18. Qa4 dxe4 19. dxe4 Qd3+ 20. Kg1 Red6 21. Be3 Qc4 (21... Nxe4 $6 22. Nxe4 Qxe4 23. Bg5 $16 )22. Rac1 Kh7 ({Viel schlechter ist} 22... Nxe4 $6 23. Nxe4 Qxe4 24. Bg5 $16 )23. b3 Qe6 24. c4 {Schwarz sollte b5 verhindern.} R6d7 25. c5 Rd3 26. Rc4 Na7 27. Bc1 {[#]} (27. Ne2 $17 )Nd7 ({Besser ist} 27... Rxf3 $1 $19 {} 28. gxf3 Qxh3 )28. Qa2 $17 Nb8 {
+} 29. Bd2 (29. Qc2 $17 )Nbc6 30. Nf1 {[#]} (30. Kh2 $142 )Nb5 (30... Rxf3 $142 $1 {} 31. gxf3 Qxh3 )31. Ne3 (31. Re3 $142 )Nbd4 (31... f5 $19 32. Rd1 Nbd4 33. Nxd4 Nxd4 34. exf5 gxf5 )32. Nxd4 Nxd4 ({Und nicht} 32... R3xd4 33. Nd5 $11 )33. Bc3 Nb5 $1 {} 34. Bb2 c6 35. Ba1 h5 36. Rc2 Bh6 37. Nc4 Nd4 38. Bxd4 R8xd4 ({Keinesfalls} 38... exd4 39. e5 $11 )39. Qb2 h4 40. Rce2 Bf4 41. Qc2 Kg7 42. Rf1 Kg8 43. Ree1 Qd7 44. Nd6 $2 { [#]} (44. Nb6 $17 {leistet mehr Widerstand.} Qd8 45. Nc4 )Rd2 $2 (44... Rxh3 $1 {} 45. Ne8 (45. gxh3 Qxh3 )Qe6 )45. Qc3 $2 (45. Qb1 )R2d3 46. Qc2 {[#]} Rd2 $2 ({Günstiger ist} 46... Rxh3 $1 $19 {} 47. Ne8 (47. gxh3 Qxh3 )Qe6 )47. Qb1 $2 (47. Qc3 $11 )Rxb4 $19 48. Nc4 {[#]} Rd4 $1 {} 49. Rd1 {[#]} Rb5 $1 50. b4 a5 51. Rxd4 Qxd4 $4 {} (51... exd4 $19 {und Schwarz kann
+entspannen.} 52. Nxa5 Qe6 )52. Nd6 $18 Qxb4 53. Nxb5 Qxc5 (53... cxb5 {kämpft
+weiter.} 54. Qxb4 axb4 )54. Nc7 b5 55. Rd1 a4 56. Qd3 Bg5 57. Qd7 Qc4 (57... Be7 $142 58. Na6 Qc2 )58. Qe8+ Kh7 59. Qxe5 {Weiss will mit Se8 Matt setzen.} Qc2 60. Rf1 Qd2 61. Ne8 {} Bh6 62. Nf6+ Kg7 63. Ng4+ Kh7 64. Qf6 Bg7 65. Qxh4+ Kg8 66. Nf6+ Bxf6 67. Qxf6 a3 68. e5 Qc3 69. Rd1 Kh7 70. Rd8 {Precision: Weiß = 44%, Schwarz = 47%.} 1-0
+
+[Event "105th British-ch 2018"]
+[White "Adams, Michael"]
+[Black "McShane, Luke J"]
+[Site "Hull"]
+[Round "12.1"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2018.08.05"]
+[WhiteElo "2706"]
+[BlackElo "2669"]
+[PlyCount "105"]
+
+1. e4 {} e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 {
+} Bd7 6. d4 g6 7. Bg5 {C76: Ruy Lopez: Deferred
+Steinitz: 5 c3 Bd7 6 d4 g6} (7. dxe5 dxe5 8. 0-0 Bg7 9. Be3 Nf6 10. Nbd2 0-0 11. Re1 Qe7 12. h3 h6 13. b4 b6 14. Bb3 Kh7 15. a4 a5 16. b5 Nd8 17. Nc4 Be6 18. Ncxe5 Nxe4 {1-0 (29) Lu,S (2630)-Yu,Y (2759) Tianjin 2018} )f6 8. Be3 {LiveBook: 66 Games} Qe7 9. 0-0 $146 {White is slightly better.} ({Predecessor:
+} 9. d5 Nd8 10. Nfd2 b5 11. Bb3 f5 12. f3 Bh6 13. Qe2 Bxe3 14. Qxe3 Nf6 {
+1-0 (40) Nikitenko,M (2365)-Tsaruk,M (2106) Rogachev 2018} )Bh6 10. c4 (10. Qc1 {is interesting.} Bg7 11. Re1 0-0-0 12. Nbd2 Kb8 13. Qc2 )exd4 11. Bxh6 Nxh6 12. Nxd4 Nxd4 13. Bxd7+ Kxd7 14. Qxd4 Qe5 15. Qd3 {Qh3+ is the
+strong threat.} Ng4 {} (15... Qxb2 16. Nc3 $18 )16. Qh3 Qe6 (16... Qxb2 $6 17. Nc3 $16 )17. Nc3 {} Ne5 18. Qh6 c6 ({Don't blunder} 18... Qxc4 $2 19. Nd5 $18 )19. b3 g5 20. Rad1 Kc7 21. f3 Rag8 22. Ne2 Qf7 23. Nd4 Rg6 24. Qh5 Rd8 25. Nf5 Rd7 26. Rd2 g4 27. fxg4 $1 Nxg4 (27... Rxg4 $14 28. Qh6 Qg6 )28. Qh3 (28. Qh4 $16 )Qe6 $2 {[#]} ({Black should play} 28... Qe8 $1 $14 )29. Qf3 $2 ({White must play} 29. Rxd6 $1 $18 {} Rxd6 30. Qxh7+ Rd7 31. Qxg6 Qxe4 32. h3 )Qe5 $14 {} 30. g3 Qc5+ 31. Kg2 Ne5 32. Qe2 Rg8 33. Rfd1 (33. Nd4 $1 $16 { And now Ne6+ would win.} Re7 34. Rxf6 )Rgd8 (33... Nf7 $11 )34. Nd4 $16 Re8 {[#]} 35. Qf2 $1 h5 36. h3 Qb4 ({Better is} 36... Rde7 )37. Qxf6 Qc3 38. Qf2 (38. Rc2 $142 Qe3 39. Re2 (39. Qf4 Qxf4 40. gxf4 Rg7+ 41. Kh2 Nd7 $16 ))Nf7 (38... Rf7 $142 39. Nf5 Rg8 )39. Rd3 $36 { White has strong initiative.} Qa5 {[#]} 40. Rf3 $1 {} Ng5 (40... Ree7 $142 41. Rf5 c5 )41. Rf5 $18 Re5 42. Re1 $2 (42. Rxg5 $18 Rxg5 43. Ne6+ Kb8 44. Qf8+ (44. Nxg5 Qxg5 45. c5 d5 $16 )Ka7 45. Nxg5 Qxg5 46. Rxd6 )Rde7 $16 {Strongly threatening ...Rxf5.
+} 43. Re2 (43. Nf3 $16 Rxf5 44. exf5 Rxe1 45. Qxe1 Qxa2+ 46. Nd2 )Kd7 $2 {} (43... Qc3 $11 )44. h4 $18 Ne6 {White must now prevent ...Nxd4.} 45. Nf3 Rxf5 46. exf5 Nc5 (46... Nf8 $142 47. Nd4 Re5 )47. f6 {} Rf7 $2 (47... Rxe2 $18 48. Qxe2 Qd8 )48. Ng5 Rf8 49. f7 Qc3 50. Qf3 $2 (50. Nh7 Rd8 51. Nf6+ Kc8 52. Qf5+ Kb8 53. Re8 Qd2+ 54. Kh3 )Nd3 $2 (50... Qxf3+ $18 51. Kxf3 Nd3 )51. Kh2 (51. Qf5+ $142 Kc7 52. Ne6+ Kb6 53. Nxf8 Nc5 54. Ng6 Qg7 55. f8=Q Qxf8 56. Qxf8 )Qd4 52. Qf5+ Kc7 53. Ne6+ {Precision: White = 48%, Black = 27%.} 1-0
+
+[Event "105th British-ch 2018"]
+[White "McShane, Luke J"]
+[Black "Adams, Michael"]
+[Site "Hull"]
+[Round "13.1"]
+[Annotator "TA"]
+[Result "0-1"]
+[Date "2018.08.05"]
+[WhiteElo "2669"]
+[BlackElo "2706"]
+[PlyCount "88"]
+
+1. e4 {} e5 2. Nf3 Nc6 3. Bc4 Bc5 4. 0-0 Nf6 5. d3 d6 6. c3 h6 7. Nbd2 {
+} 0-0 8. h3 Re8 {C54: Italienische Partie (Hauptvariante)} 9. Re1 a5 (9... a6 10. Nf1 b5 11. Bb3 Bb6 12. Ng3 Be6 13. Bc2 d5 14. exd5 Bxd5 15. Be3 Qd7 16. a3 {1/2-1/2 (24) Aronian,L (2785)-Adams,M (2751) Sharjah 2017} )10. Nf1 {
+LiveBook: 3 Partien} Ba7 {Weiß hat minimalen Vorteil.} 11. Ng3 Be6 12. Bb5 Bd7 13. Ba4 Ne7 14. Bc2 Ng6 $146 15. d4 b5 16. Be3 c5 17. dxe5 dxe5 18. Qc1 ({
+Lieber} 18. Nf5 $14 )c4 $11 19. Nf5 Bxe3 20. Qxe3 Qc7 21. Rad1 Rad8 22. Rd6 Be6 23. Ra6 Ra8 24. Rxa8 Rxa8 25. Rd1 b4 26. Ba4 (26. Rd2 $15 )Rb8 27. g3 Qb6 ({Besser ist} 27... bxc3 $17 28. bxc3 Rb2 )28. Qxb6 Rxb6 29. Rd8+ Kh7 30. Nd2 (30. Ne3 $1 $11 {bleibt in der Remisbreite.} )bxc3 $17 31. bxc3 Rb2 32. a3 {[#]} (32. Ne3 $142 )Rxd2 $1 {} 33. Rxd2 {
+Und Sd6 würde nun gewinnen.} Nxe4 34. Rd8 (34. Rb2 $17 )Bxf5 $19 35. Bc2 {[#]} Nxg3 $1 {Und weiter mit ...Se2+ wäre nett.} 36. Bxf5 (36. fxg3 Bxc2 )Nxf5 37. Ra8 Nf4 38. Rxa5 Ne2+ 39. Kf1 (39. Kh2 $142 Nxc3 40. Rc5 )Nxc3 40. Rc5 Nd6 41. Rc6 $2 (41. Kg2 {ist eine bessere Verteidigung.} )Nde4 42. Ke1 Na4 43. Rxc4 Nec5 44. Rb4 $2 (44. h4 )Nd3+ {Precision: Weiß
+= 42%, Schwarz = 68%.} 0-1
+

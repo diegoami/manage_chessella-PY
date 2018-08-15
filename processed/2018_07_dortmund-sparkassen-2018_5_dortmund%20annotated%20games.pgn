@@ -1,0 +1,94 @@
+[Event "46. Sparkassen Chess-Meeting 2018"]
+[Site "Dortmund"]
+[Date "2018.07.20"]
+[Round "5"]
+[White "Nepomniachtchi, Ian"]
+[Black "Kramnik, Vladimir"]
+[Result "1-0"]
+[ECO "C78"]
+[WhiteElo "2757"]
+[BlackElo "2792"]
+[Annotator "Lawrence Trent"]
+[PlyCount "81"]
+[EventDate "2018.07.14"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:00]} 3. Bb5 {[%emt 0:00:03] Nepo single-handedly brought the Scotch
+back to fashion over the past few years, but it seems as though he has
+switched to a more classical approach over the past year or so.} a6 {[%emt 0:
+00:00]} (3... Nf6 {No Berlin from Kramnik today who makes his intentions clear.
+}) 4. Ba4 {[%emt 0:00:06]} Nf6 {[%emt 0:00:00]} 5. O-O {[%emt 0:00:31]} Bc5 {
+[%emt 0:00:00] A real surprise! According to my database Kramnik has only
+played the Neo-Archangel once and the classical Archangel (5...b5 6.Bb3 Bc5)
+twice!} 6. c3 {[%emt 0:05:18] the mainline} (6. Nc3 b5 7. Bb3 O-O 8. Nd5 Nxe4
+9. d3 Nf6 10. Bg5 Be7 11. Nxe7+ Qxe7 12. Re1 h6 13. Bh4 Bb7 14. c3 Rfe8 15. d4
+e4 16. Nd2 Na5 17. Bc2 g5 18. Bg3 Nc4 19. Nxc4 bxc4 20. b3 Bd5 21. Be5 d6 22.
+Bxf6 Qxf6 23. bxc4 Bxc4 24. Rxe4 Rxe4 25. Bxe4 Re8 26. Bd3 Qe6 27. Bxc4 Qxc4
+28. Qb3 Qd3 29. h3 Kg7 30. Rd1 Qe2 31. Rf1 Re6 32. Qd5 Qd2 33. Qc4 a5 34. Qxc7
+Qxa2 35. c4 Qd2 36. Qb6 a4 37. Qa7 Qb4 38. f4 Re1 39. fxg5 Rxf1+ 40. Kxf1 hxg5
+41. Kg1 Qxc4 42. Kh2 Qb4 43. Qe7 Qd2 44. Qa7 Qf4+ 45. Kh1 Qc1+ 46. Kh2 a3 47.
+Qa5 Qf4+ 48. Kh1 Qc1+ 49. Kh2 Qe3 50. Kh1 f6 51. Qa4 Qc1+ 52. Kh2 Qf4+ 53. Kh1
+Qe3 54. Kh2 Kf7 55. Kh1 Kg6 56. Qa8 Kg7 57. Qb7+ Kg6 58. Qa8 Qb3 59. Qe4+ Kg7
+60. Qe7+ Qf7 {0-1 (60) Anand,V (2786)-Kramnik,V (2808) Stavanger 2017}) 6... b5
+{[%emt 0:00:29]} 7. Bb3 $5 {[%emt 0:10:06]} (7. Bc2 {Is the other main move
+which I myself have had plenty of interesting games against}) 7... d6 {[%emt 0:
+00:06]} 8. a4 $1 {[%emt 0:03:07]} ({The issue with playing the natural} 8. d4
+Bb6 {and only now} 9. a4 {is the idea of} Bg4 $5 10. h3 Bxf3 11. Qxf3 exd4 12.
+axb5 Ne5 13. Qd1 d3 14. bxa6 Nxe4 15. Bd5 Nxf2 16. Rxf2 c6 17. Bb3 Qh4 18. Qf1
+Qg3 19. Nd2 O-O 20. Ra4 d5 $1 {Barzen-Trent (0-1) Grenke Chess Open 2018,
+improving on my game vs GM Saric in 2018. With Nepo's move order 8...Bg4 can
+be met by the calm 9.d3! and Black fails to put pressure on the White centre.})
+8... b4 {[%emt 0:00:05] this move is rarely played and I have to say I don't
+quite believe in it.} (8... Rb8 {may transpose to more Classical Archangel
+lines}) (8... Bg4 9. d3 {as previously commented} (9. h3 $5 {is also good})) 9.
+d4 {[%emt 0:00:58]} Ba7 {[%emt 0:00:05]} 10. Bg5 $146 {[%emt 0:04:31] I like
+this} (10. dxe5 {has been seen before} dxe5 11. Qxd8+ Nxd8 12. cxb4 {[%csl Rb4]
+[%cal Ra8b8,Rb8b3] ½-½ (32) Zhao,Z (2567)-Paciencia,E (2440) Dresden 2008}
+Rb8 {[%csl Rb4]}) 10... Rb8 {[%emt 0:00:39]} 11. Bd5 $5 {[%emt 0:19:31]} (11.
+dxe5 Nxe5 12. Nxe5 dxe5 13. Qxd8+ Kxd8 14. Bxf7 bxc3 15. Nxc3 Rxb2 16. Rad1+
+Bd7 {and Black holds on}) 11... Ne7 {[%emt 0:00:18]} 12. dxe5 {[%emt 0:03:17]}
+Nfxd5 $8 {[%emt 0:00:08]} (12... dxe5 13. Nxe5 Nfxd5 14. exd5 Qxd5 15. Bxe7
+Qxd1 16. Rxd1 Kxe7 17. Nc6+ $18) 13. exd5 {[%emt 0:01:33]} O-O {[%emt 0:00:05]
+a curious position has been reached. White clearly has some initiative in the
+centre while Black is banking on being able to activate his two bishops and
+punish White for his blatent aggression. Objectively White is probably a tad
+better and Nepo chooses and interesting continuation.} 14. exd6 $5 {[%emt 0:04:
+14]} (14. Re1 $5) 14... Qxd6 {[%emt 0:00:17]} 15. c4 {[%emt 0:00:16]} Nf5 {
+[%emt 0:01:00]} 16. Nbd2 $6 {[%emt 0:03:50]} (16. Qc1 $1 {is a great move. The
+idea is to simply be able to hit the queen with Bf4 after f6/h6 keeping Black
+on the back foot.} f6 17. Bf4 Qd7 18. Nbd2 $14 {[%csl Rc8]}) 16... f6 $1 {
+[%emt 0:04:44] now the Bishop is in an awkward spot} 17. Bh4 {[%emt 0:01:27]}
+Qf4 $6 {[%emt 0:13:04] Kramnik attempts to complicate matters but Nepo is up
+to the task} (17... Nxh4 18. Nxh4 Re8 {preventing Ne4 and if} 19. Nb3 Re4 $5 {
+feels as though Black is doing more than ok}) 18. Bg3 {[%emt 0:01:48]} Nxg3 {
+[%emt 0:01:01]} 19. hxg3 {[%emt 0:00:04]} Qxg3 {[%emt 0:00:14]} 20. c5 $1 {
+[%emt 0:00:05] I doubt Kramnik missed this but this continuation does feel
+like it hands White back the initiative.} Qg6 {[%emt 0:00:50]} (20... Bxc5 $4
+21. Ne4 $18 {is the point}) 21. Rc1 $1 {[%emt 0:00:35]} Qf7 {[%emt 0:25:50]} (
+21... Bh3 $2 22. Nh4 Qg4 $8 (22... Qg5 $4 23. Ndf3 Qg4 24. Kh2 $18) 23. Rc4 $1
+Qxd1 24. Rxd1 $16) 22. Ne4 {[%emt 0:02:21]} (22. Nb3 {was possibly stronger})
+22... Re8 {[%emt 0:04:19]} 23. Re1 {[%emt 0:05:02]} Bf5 {[%emt 0:03:21]} 24.
+Ng3 {[%emt 0:04:18]} Rxe1+ $6 {[%emt 0:06:27] Kramnik starts to falter} (24...
+Bg6 {and things are still very complicated}) 25. Qxe1 {[%emt 0:01:44]} Bg4 {
+[%emt 0:10:32] Kramnik's idea but} 26. Qe4 $1 $16 {[%emt 0:02:14] is very
+strong. Now White is firmly in the driving seat.} h5 {[%emt 0:03:04]} 27. Nf5 {
+[%emt 0:04:13]} Re8 {[%emt 0:01:04]} 28. Qd3 {[%emt 0:00:19] White's pieces
+are well coordinated whereas Black suffers especially due to the poor bishop
+on a7 and weak pawns on the queenside.} Bb8 {[%emt 0:08:28]} 29. N3h4 {[%emt 0:
+02:35]} Be2 {[%emt 0:03:44]} 30. Qd2 {[%emt 0:01:24]} Bg4 {[%emt 0:04:30]} 31.
+Ne3 {[%emt 0:01:32]} Bd7 {[%emt 0:02:58]} 32. Qxb4 {[%emt 0:00:57] White nets
+a pawn and Black has no counterplay.} a5 {[%emt 0:01:03]} 33. Qxa5 {[%emt 0:04:
+17]} c6 {[%emt 0:05:44]} 34. d6 {[%emt 0:02:39] condemning the dark-squared
+bishop to further misery. Black is effectively a piece down and Nepo finishes
+cleanly.} Qb3 {[%emt 0:00:24]} 35. Qc3 {[%emt 0:02:26]} Qxa4 {[%emt 0:00:05]}
+36. Nhf5 {[%emt 0:00:22]} Qe4 {[%emt 0:04:22]} 37. Ne7+ {[%emt 0:01:07]} Kh8 {
+[%emt 0:00:10]} 38. Qb3 {[%emt 0:01:22]} Rf8 {[%emt 0:04:05]} 39. Qc2 {[%emt 0:
+00:47]} Qxc2 {[%emt 0:00:18]} 40. Nxc2 {[%emt 0:00:00]} Kh7 {[%emt 0:00:00]}
+41. Nd4 {[%emt 0:00:28]} 1-0
+

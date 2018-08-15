@@ -36,7 +36,12 @@ def get_pgnlinks_from_page(pageLink,debug=True):
 
 def downoad_files(data_urls ):
     for data_url in data_urls:
-        r =requests.get(ROOT_PAGE+data_url)
+        if (data_url.startswith('//')):
+            data_url = 'https:' + data_url
+        elif (data_url.startswith('/')):
+            data_url = ROOT_PAGE+data_url
+        print("Trying {} :".format(data_url))
+        r = requests.get(data_url)
         if not os.path.exists("from_cbase"):
             os.makedirs("from_cbase")
         dfile = "from_cbase/"+ data_url.lower().replace('/','_').replace('\\','_').replace('_portals_all_','')

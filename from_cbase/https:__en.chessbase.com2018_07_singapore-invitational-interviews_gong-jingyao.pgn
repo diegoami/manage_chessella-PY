@@ -1,0 +1,59 @@
+[Event "QCD-Prof Lim Kok Ann GM 2018"]
+[Site "Singapore"]
+[Date "2018.06.12"]
+[Round "9"]
+[White "Gong, Qianyun"]
+[Black "Tin, Jingyao"]
+[Result "1-0"]
+[ECO "C59"]
+[WhiteElo "2300"]
+[BlackElo "2445"]
+[Annotator "Junior Tay"]
+[PlyCount "97"]
+[EventDate "2018.??.??"]
+[EventType "tourn"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 22,97,2,0,33,38,44,31,39,32,36,45,30,-44,-33,-35,27,23,38,19,92,86,133,
+122,237,229,252,236,237,195,225,229,256,237,211,203,303,289,379,377,367,365,
+366,351,470,460,942,333,318,326,317,197,209,205,800,744,852,827,1416,1364,1281,
+1343,1650,1625,5879,1416,12843,3570,29985,29986,29986,29986,29988,29989,29990,
+29991,29992,29993]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6.
+Bb5+ c6 7. dxc6 bxc6 8. Be2 h6 9. Nh3 Bc5 (9... g5 $5 {is a tricky sideline
+analysed by Davies in Chesspublishing.com.}) 10. d3 O-O 11. O-O Nd5 {[%emt 0:
+00:07]} ({The theoretical continuation is} 11... Bxh3 12. gxh3 Qd7 13. Bg4 (13.
+Bf3 $5 {was successfully played in Fischer,R-Bisguier,A Poughskeepie 1963.})
+13... Nxg4 14. Qxg4 f5 15. Qg2 Rf6 16. Kh1 Re8 17. Nc3 Nb7 18. Rg1 Nd8 19. Be3
+Bf8 20. Rae1 Ne6 21. f3 Nd4 22. Bxd4 Qxd4 {and Black has sufficient
+compensation for material deficit according to Brenjo.}) 12. Nc3 Qh4 13. Bd2 (
+13. Nxd5 cxd5 14. d4 Bxd4 15. c3 Bb6 16. Qxd5 Bxh3 17. gxh3 Rfe8 18. Qg2 Rad8
+19. Qg3 Qf6 20. Be3 Qc6 21. Rfd1 $14 {and Black has insufficient compensation
+for material deficit (Brenjo)}) 13... Nb7 $146 ({The Chessbase live telecast
+demonstrated the game} 13... Bb6 14. Bf3 Bxh3 15. gxh3 Rad8 16. Bg2 f5 17. Qe1
+e4 18. Nxd5 Rxd5 19. dxe4 fxe4 20. Bxa5 Rxa5 21. Qxe4 {1-0 (27) Mednis,E (2435)
+-Westerinen,H (2485) Budapest 1976}) 14. Bf3 Be6 15. Kh1 $1 Rae8 {Wei Ming's
+prep with Qianyun ended around here. The ironical part about this system is
+that Black essentially has no time to win back the pawn on h3 and 'damaging'
+the White pawn cover would basically give White the g-file to attack from.} 16.
+Ne4 Bxh3 17. Nxc5 ({Note that after} 17. gxh3 {there is no time for} Qxh3 {as}
+18. Bg4 Qh4 19. Bd7 {gives White a strong game.}) 17... Nxc5 18. gxh3 Re6 $6 ({
+Jingyao misses his chance to complicate matters with} 18... e4 $1 19. dxe4 Nxe4
+{with active play. Typically, the player with the two knights versus the
+bishop pair would keep the position closed but as Watson showed in Secrets of
+Modern Chess Strategy (Gambit 1999), the holder of the knight pair sometimes
+need to use the knights aggressively and speedily before the bishop pair
+holder consolidates and the prelates exert themselves meaningfully.}) 19. b4 $1
+{Qianyun is going to make her queenside majority count if Black is unable to
+do anything concrete in the centre and kingside.} Nd7 20. b5 {[%mdl 2048]} Ne7
+$6 (20... N7f6 $1 {is a better try but the Singaporean schoolboy prefers not
+to block his f-pawn. In this line, once again, Black aims for ...e4.}) 21. a4
+$16 c5 22. Bg2 f5 (22... Ng6 {to prevent f2-f4 would have put up more
+resistance but Qianyun already has the upper hand.}) 23. f4 $1 $18 {With this
+block, Black's counterplay has been extinguished.} exf4 24. Bxf4 Qf6 25. Re1
+Rxe1+ 26. Qxe1 g5 27. Bd2 $1 f4 28. Bf3 Nf5 29. Bd5+ Kg7 30. Bc3 Nd4 31. Qe4
+Nb6 32. a5 Nxd5 33. Qxd5 Qe7 34. Bxd4+ $2 cxd4 35. Qxd4+ {[%mdl 4096]} Rf6 36.
+Kg1 f3 37. Rf1 Qe2 $2 38. Qxa7+ Kg6 39. Qf2 Qe6 40. a6 Qxh3 41. a7 Qg4+ 42. Kh1
+Qa4 43. b6 Qa6 44. c4 g4 45. Qd4 g3 46. hxg3 {[%cal Bh2g3,Bg3g4][%mdl 32]} Qc8
+47. Qe4+ Kh5 48. g4+ $1 Kh4 49. a8=Q 1-0
+

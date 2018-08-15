@@ -1,0 +1,47 @@
+[Event "Commonwealth-ch GM 2018"]
+[Site "Delhi"]
+[Date "2018.06.27"]
+[Round "2"]
+[White "Sengupta, Deep"]
+[Black "Bhambure, Shantanu"]
+[Result "1-0"]
+[ECO "A46"]
+[WhiteElo "2565"]
+[BlackElo "2183"]
+[Annotator "Sagar Shah"]
+[PlyCount "95"]
+[EventDate "2018.06.26"]
+[EventType "swiss"]
+[EventCountry "IND"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "5400+30"]
+
+1. d4 {0} Nf6 {24} 2. Nf3 {0} e6 {79} 3. Bf4 {37} d5 {75} 4. e3 {5} c5 {58} 5.
+c3 {5} Bd6 {105} 6. Bb5+ $5 {1010} (6. Bg3 O-O 7. Nbd2 Qc7 8. Bd3 Nbd7 {
+Black is doing very well in this line.}) 6... Nc6 {259} 7. Qa4 $5 {1029} (7.
+Bg3 Bxg3 (7... O-O 8. Nbd2 {Transposes to the Carlsen Anand game from World
+Blitz 2016. I like White's chances here.}) 8. hxg3 Qb6 9. Qa4 O-O 10. Nbd2 (10.
+Bxc6 Qxb2) 10... Bd7 $11 {Black should be doing well here.}) 7... Bxf4 {847} 8.
+exf4 {11} Qb6 {207} (8... O-O 9. Bxc6 bxc6 10. Qxc6 (10. dxc5 Ne4 $13) 10...
+Rb8 $36) 9. Nbd2 {558} O-O {301} 10. Bxc6 {405} bxc6 {118} 11. dxc5 {54} Qxc5 {
+457} 12. Ne5 {25} Bb7 {357} 13. Nb3 {214} Qb6 {352} 14. Qd4 {8} Rad8 {962} (
+14... Rac8 {The threat now is to play c5.} 15. Nc5 (15. Qc5 $5 {This is a
+compromise because a knight would stand well here, but it seems like an
+interesting position nonetheless} Ba6 $5 $13) 15... Qxb2 16. O-O {I have a
+feeling that Deep was aiming for this position. I have to say that White is
+doing really well with this complete dark square clamp.}) 15. Nc5 {168} Ba6 {
+565} (15... Ne4 $5 {Why not?} 16. b4 Nxc5 17. bxc5 Qc7 18. O-O {I would Prefer
+White here, but the computer thinks it's just equal.}) 16. O-O-O $1 $16 {
+565 White is now just positionally better.} Rb8 {236} 17. Rd2 {460} Rfd8 {102}
+18. Rhd1 {215} Bc8 {131} 19. Re2 {531} Ne8 {165} 20. Qb4 {381} Qc7 {187} 21.
+Qa4 {5} Rb5 {79} 22. Nb3 {6} Rb6 {191} 23. Qa5 {147} Nd6 {82} 24. Nc5 {127} f6
+{88} 25. Ned3 {1} Nc4 {43} 26. Qa4 {6} Re8 {93} 27. Rde1 {84} Qf7 {13} 28. h3 {
+79} Rb5 {50} 29. g4 {38} a5 {33} 30. b3 {63} Nd6 {31} 31. f3 {52} h6 {29} 32.
+Qa3 {29} Nb7 {27} 33. Na4 {36} Qc7 {39} 34. c4 {19} dxc4 {18} 35. bxc4 {1} Rb4
+{39} 36. Nxb4 {31} Qxf4+ {6} 37. Re3 {60} axb4 {17} 38. Qxb4 {5} e5 {29} 39.
+Nb2 {35} Rd8 {64} 40. Kb1 {26} c5 {36} 41. Qb6 {16} Rd4 {17} 42. Rd3 {77} Rxd3
+{36} 43. Nxd3 {2} Qd2 {7} (43... Qxf3 $1 44. Nxc5 Nxc5 45. Qxc5 Qd3+ 46. Kb2
+Qd2+ 47. Kb3 Qxe1 48. Qxc8+ $11) 44. Qb3 {51} Be6 {38} 45. Rd1 {32} Qe2 {31}
+46. Nc1 {16} Qxc4 47. Qxb7 {14} Qa4 {80} 48. Rd8+ {11} 1-0

@@ -1,0 +1,138 @@
+[Event "105th British-ch 2018"]
+[Site "Hull"]
+[Date "2018.08.05"]
+[Round "10.1"]
+[White "Adams, Michael"]
+[Black "McShane, Luke J"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2706"]
+[BlackElo "2669"]
+[Annotator "DF"]
+[PlyCount "89"]
+[EventDate "2018.07.28"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{I was privileged to watch this game live: Adams' technique was quite
+something, even at this time control.} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6
+5. O-O d6 6. c3 O-O 7. a4 a5 (7... a6 {is marginally more played, and for some
+reason here White no longer plays with Bg5. A fairly recent high-level test
+continued} 8. Nbd2 Ba7 9. h3 Ne7 10. Re1 Ng6 11. Bb3 Re8 12. d4 h6 13. Bc2 {
+and now Black may have gone slightly astray with} c6 $6 14. Nf1 d5 {This is
+always a double-edged idea; there are lots of examples from all over the Ruy
+Lopez where it immediately equalises, and equally many where it ends up
+weakening the dark squares to a crippling extent.} 15. Nxe5 Nxe5 16. dxe5 Nxe4
+17. Bxe4 dxe4 18. Qxd8 Rxd8 19. Ng3 $14 {Anand,V-Aronian,L Saint Louis 2016})
+8. Bg5 Qe7 9. Nbd2 ({Black's idea is that after} 9. d4 Bb6 10. d5 Nb8 {White
+has gained space in the typical Ruy fashion, but the a5-pawn anchors the
+b6-bishop in position, and consolidates a grip on the c5-square, and therefore
+it is White who should think about hurriedly equalising the position.}) 9...
+Be6 10. Qb3 Rab8 11. Rad1 h6 {Around here, the psychology behind the two
+players' alternating decisions becomes quite interesting. As an educated
+outsider, the only thing I can say is that Black probably started thinking
+about winning the game at an inopportune time.} 12. Bh4 ({Following} 12. Bxe6 {
+Black would probably (correctly) recapture immediately with the pawn:} fxe6 13.
+Be3 Nd7 $11) 12... Ba7 13. Bxe6 Qxe6 {Morally committing to the doubled f-pawn
+structure.} (13... fxe6 $11 {was still the correct recapture, in my opinion.})
+14. Bxf6 $1 Qxb3 (14... Qxf6 15. Nc4 $14 {is unpleasant- White will follow up
+with Qb5 and be material up before Black even gets started; or alternatively
+play d4; or finally there is Ne3-d5 to think about.}) 15. Nxb3 gxf6 16. Nbd2
+Rfd8 17. Nh4 Ne7 {The position is still objectively almost balanced, but the
+momentum has moved over to White, in any game between competent players of
+equal strength.} 18. Nc4 b5 19. Nxa5 Bb6 $6 (19... bxa4 20. Rd2 a3 $5 21. bxa3
+Rb5 22. Nc4 d5 $11 {was the machine prescription.}) 20. b4 Bxa5 (20... bxa4 21.
+Ra1 Ra8 22. Rxa4 Ra7 23. g4 $14) 21. bxa5 b4 22. cxb4 Rxb4 23. g3 (23. Rc1 $14)
+(23. f4 $5) (23. Rb1 $14 Rxa4 24. Rfc1 {is sensible, implementing the game
+line without delay.}) 23... Ra8 (23... Rdb8 $5 $11 {is a bizarre computer move
+that seems to improve- delaying taking either a-pawn until after Black has
+made some more useful moves, such as ...c6 or ...Kg7.}) 24. Rb1 Rxa4 25. Rfc1 {
+At this point Luke took a good 4 minutes or so to make his choice, lowering
+his time from 7 to 3 minutes...} c5 {The braver decision, but the pawn move
+would be obligated sooner or later.} (25... Ra7 26. Rb8+ Kg7 27. Re8 c5 28. Rb1
+Rb4 29. Ra1 Kh7 $8 $14 {White has a very annoying pull here. Even the likely
+set of endgames with every pawn west of the half-way line being swept away is
+no panacea for Black.}) 26. Rb6 Rd8 (26... R8xa5 27. Rxd6 Ra1 28. Rxa1 Rxa1+
+29. Kg2 Kg7 30. Rd7 Nc6 31. Nf5+ Kg6 32. Nd6 $14) 27. a6 f5 28. Nxf5 $1 {
+Now White is close to winning, but in a blitz finish anything can happen.} Nxf5
+29. exf5 Kg7 30. Kf1 Ra2 (30... h5 $5 31. Ke2 e4 $16) 31. g4 Kf6 32. Rxc5 Kg5
+33. Rc4 d5 $2 (33... Ra8 34. Rxd6 R8xa6 35. Rxa6 Rxa6 $16 {would be a pain,
+but possibly holdable.}) (33... h5 $5 $16) 34. h4+ $1 {Now it is over.} Kxh4
+35. Rxh6+ Kg5 36. Rh5+ Kf6 37. Rc6+ Ke7 38. Rh7 {Not necessary, but nice-
+White threatens Re6+.} Rb8 39. Re6+ Kf8 40. Rh8+ Kg7 41. Rxb8 fxe6 42. fxe6 Kf6
+43. Ra8 Kxe6 44. a7 Kf7 45. Rh8 1-0
+
+[Event "105th British-ch 2018"]
+[Site "Hull"]
+[Date "2018.08.05"]
+[Round "11.1"]
+[White "McShane, Luke J"]
+[Black "Adams, Michael"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2669"]
+[BlackElo "2706"]
+[Annotator "DF"]
+[PlyCount "139"]
+[EventDate "2018.07.28"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. O-O O-O {Same opening with
+reversed colours! The English Olympiad team, less Jones (and sometimes even
+him) are known for their classical approach.} (5... d6 6. c3 a6 7. a4 h6 8.
+Nbd2 O-O 9. Re1 Re8 10. h3 Be6 11. Bxe6 Rxe6 12. b4 Ba7 13. Qc2 Qd7 14. Nf1 d5
+{Now we reach a position that could plausibly be reached from 11.Bxe6.} 15. Bd2
+Rae8 $6 (15... Rd8 $1 16. b5 Ne7 $132) 16. Ng3 (16. b5 Ne7 17. c4 $14) 16...
+dxe4 17. dxe4 Ne7 18. Red1 $14 {White was slightly better in an
+Aronian-Mamedyarov game, but there was no need for Black to crumble in 10
+moves:} Qc8 19. c4 Ng6 20. c5 c6 21. Nf5 Bb8 22. Be3 Ne7 23. Ng3 Nd7 24. Nd2
+Nf8 25. Nc4 Rg6 26. Nd6 {1-0 Aronian,L-Mamedyarov,S Stavanger 2018}) 6. h3 h6
+7. c3 d6 8. Re1 a6 9. Bb3 Re8 10. Nbd2 Be6 {Forcing one of the biggest
+decisions in the Italian.} 11. Nf1 (11. Bxe6 {might have been better on this
+occasion, though both have seen high-level tests.} Rxe6 (11... fxe6 {This
+makes little sense when Black has played ...Re8.} 12. b4 Ba7 13. a4 Qd7 14. Nc4
+$14) 12. b4 Ba7 13. a4 d5 14. Qc2 d4 {Black's hand was being forced by the
+imminent Bb2 and b5.} 15. Bb2 (15. Nc4 $5 dxc3 16. Qxc3 Bd4 17. Nxd4 Qxd4 18.
+Bb2 {White seems to be getting some pressure.}) 15... dxc3 16. Bxc3 Nd4 17.
+Bxd4 Bxd4 18. Nxd4 Qxd4 19. Nf3 $11 {Salgado Lopez,I-Adams,M Caleta 2013})
+11... Bxb3 12. axb3 (12. Qxb3 d5 13. Be3 Bf8 14. Rad1 Na5 15. Qc2 c5 $11 {
+somehow led to a relatively painless Black win in So,W-Carlsen,M Paris 2017})
+12... d5 13. Qe2 Qd7 $11 {Black has equalised.} 14. b4 (14. Ng3 {made sense
+immediately, so that Black can't play ...g6 in response, but ...Qd3 will be a
+good answer.} Rad8 15. Nf5 dxe4 16. dxe4 Qd3 $11) (14. Nh4 Bf8 15. Nf5 {
+is very thematic but accomplishes little:} Ne7 16. N1g3 c5 17. Qf3 Nxf5 18.
+Nxf5 Re6 {The ...g6 break is irrepressible in the medium term (3-5 moves.)})
+14... Bf8 15. Ng3 Rad8 16. Kf1 {Perhaps anticipating the queen trade too much,
+but it isn't clear what else White can deploy in the meantime.} (16. Nh2 {
+makes sense to me, for what it's worth.}) 16... g6 17. Qc2 Re6 18. Qa4 dxe4 19.
+dxe4 Qd3+ 20. Kg1 Red6 21. Be3 Qc4 22. Rac1 Kh7 {Somewhere around here it
+becomes clear that Black has everything he wanted from the opening and White
+should take care to not be worse. However, in a must-win position, Luke
+doesn't really mind that.} 23. b3 Qe6 24. c4 $6 (24. b5 $11) 24... R6d7 $1 {
+Forcing one or other pawn weakness.} 25. c5 (25. b5 axb5 26. cxb5 Nb4 $15)
+25... Rd3 26. Rc4 Na7 $15 27. Bc1 Nd7 28. Qa2 Nb8 {In about 5 moves White has
+gone from a playable position to one where he may be about to lose up to 2
+pawns. Every single move now is supposedly an inaccuracy, but I don't feel up
+to the thankless task of trying to improve his play.} 29. Bd2 Nbc6 (29... Rxf3
+30. gxf3 Qxh3 $17 {is interesting but unncessary.}) 30. Nf1 Nb5 (30... Rxf3 31.
+gxf3 Qxh3 $19 {is now basically winning.}) 31. Ne3 Nbd4 32. Nxd4 Nxd4 33. Bc3
+Nb5 34. Bb2 c6 35. Ba1 h5 $17 36. Rc2 Bh6 37. Nc4 Nd4 {Objectively maybe okay,
+but I would be cautious about exchanging off my knight in what has now become
+a blitz game!} 38. Bxd4 R8xd4 39. Qb2 h4 40. Rce2 Bf4 41. Qc2 Kg7 42. Rf1 Kg8
+43. Ree1 Qd7 44. Nd6 Rd2 45. Qc3 R2d3 46. Qc2 Rd2 47. Qb1 Rxb4 48. Nc4 Rd4 49.
+Rd1 Rb5 50. b4 a5 (50... Rxd1 51. Rxd1 Rxb4 {was one of a great many ways to
+win without fuss.}) 51. Rxd4 Qxd4 $4 {Suddenly it comes! Black doesn't think
+the passive White pieces are capable of much, and makes a natural recapture
+which almost loses on the spot.} 52. Nd6 $1 {Lightning from a clear blue sky!
+Or, in the more poetic Serbo-Croatian, "grom iz vedra neba"...} Qxb4 53. Nxb5
+Qxc5 {Making a practical decision to play with pawns rather than pieces, but
+Black is toast in any case.} 54. Nc7 b5 55. Rd1 a4 56. Qd3 Bg5 57. Qd7 Qc4 58.
+Qe8+ Kh7 59. Qxe5 Qc2 60. Rf1 Qd2 61. Ne8 Bh6 62. Nf6+ Kg7 63. Ng4+ Kh7 64. Qf6
+Bg7 65. Qxh4+ Kg8 66. Nf6+ Bxf6 67. Qxf6 a3 68. e5 Qc3 69. Rd1 Kh7 70. Rd8 1-0

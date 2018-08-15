@@ -1,0 +1,41 @@
+[Event "11th International Open"]
+[Site "Paleochora"]
+[Date "2018.07.21"]
+[Round "5.3"]
+[White "Theodorou, Nikolas"]
+[Black "Pashikian, Arman"]
+[Result "1-0"]
+[ECO "E20"]
+[WhiteElo "2513"]
+[BlackElo "2603"]
+[Annotator "Jan"]
+[PlyCount "75"]
+[EventDate "2018.07.18"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Nc3 d5 5. Bg2 O-O 6. Nf3 dxc4 7. O-O Nc6 8.
+Qa4 (8. Bg5 h6 9. Bxf6 Qxf6 10. e3 Bxc3 11. bxc3 Rb8 12. Nd2 Na5 13. Qa4 b6 14.
+Qb5 Qf5 15. a4 c6 16. Qb4 Ba6 17. e4 Qg5 18. f4 Qd8 19. Rad1 Qc7 20. Qa3 c5 21.
+d5 exd5 22. exd5 Nb7 23. Nf3 Nd6 $15 {0-1 (23) Perelshteyn,E (2509)-Giri,A 
+(2771) Reykjavik ISL 2017}) 8... Nd5 9. Qc2 h6 10. e4 Nb6 11. Rd1 Bd6 12. Be3
+f5 13. Ne5 Bd7 14. f4 Be8 15. Qe2 Na5 16. d5 exd5 17. exf5 (17. Nxd5 $5 {
+As Nikolas pointed out, 17.Nxd5 might objectively a better choice, supported
+by the engine's evaluation. Nonetheless no human being could disagree with him
+opting for a very dangerous pawn majority on the kingside!} fxe4 18. Bxe4 Nxd5
+19. Rxd5 Nc6 20. Qxc4 Kh8 21. Bc2 {and Black is hopelessly lost after White
+sets up the battery Qe4-Bc2.}) 17... c6 (17... Rxf5 18. Nxd5 Rf8 {and due to
+Theodorou's active pieces in the centre, he has more than enough compensation.}
+) 18. g4 Qe7 19. Re1 Bc5 20. Rad1 Nd7 21. Qf2 Bxe3 22. Rxe3 Nxe5 23. fxe5 Rd8
+24. Ne2 {Here we find the well-known moment which the defender should aim for:
+a chance to shake up the position!} b6 (24... c3 $1 {Nikolas told me that he
+was afraid that Pashikian would come up with this counter. White keeps the
+upper hand, but Black will be back in the game.} 25. bxc3 $6 (25. b3 c2 26. Rc1
+d4 {and things are getting upside down for White.}) 25... Nc4 $1 {[%csl Gc4]})
+25. Nd4 {Black missed his chance. Since all White's pieces are optimally
+placed, and he has two strong pawns on e5 and f5, the onslaught will follow in
+short order.} Nb7 26. f6 $1 {The next execution needs no further commentary.}
+gxf6 27. Nf5 {[%csl Gf5,Rg8]} Qh7 28. e6 $1 {Game over.} Ra8 29. Rh3 h5 30. e7
+Rf7 31. Rxh5 Qg6 32. Rh6 Qxg4 33. Rd4 Qg5 34. Rdh4 Rg7 35. Rh8+ Kf7 36. Nxg7
+Kxg7 37. R4h7+ Kg6 38. h4 1-0
+

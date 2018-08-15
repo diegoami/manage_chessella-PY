@@ -1,0 +1,66 @@
+[Event "Dortmund GM"]
+[Site "Dortmund"]
+[Date "2018.07.22"]
+[Round "7"]
+[White "Kovalev, Vladislav"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "C44"]
+[WhiteElo "2655"]
+[BlackElo "2792"]
+[Annotator "Efstratios Grivas"]
+[PlyCount "208"]
+[EventDate "2018.07.22"]
+[EventCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. Ng5 Nh6 6. Nxf7 Nxf7 7. Bxf7+ Kxf7
+8. Qh5+ g6 9. Qxc5 d5 10. O-O dxe4 11. c3 Re8 12. cxd4 Nxd4 13. Nc3 b6 14. Qc4+
+Be6 15. Qa4 c5 16. Nxe4 Bd5 17. f3 Bxe4 18. fxe4+ Kg7 19. Qc4 Kh8 20. b4 Rxe4
+21. Bb2 Qg8 22. Rf7 Rf8 23. Rxf8 Qxf8 24. bxc5 bxc5 25. Rf1 Qe7 26. Qd5 Kg7 27.
+h3 g5 28. Bc3 a6 29. Kh1 Kh6 30. Rb1 Nb5 {(D) [#] Looks like Black is doing
+fine, except that White has a nice tactical continuation at his disposal.} 31.
+Bf6 $1 Qxf6 32. Qxe4 Nc3 {(D) [#] Black was depending on this fork...} 33. Qf3
+$1 Qxf3 34. Rb6+ $1 {The point of the combination that started with 31.Bf6! -
+White wins the exchange.} Kh5 35. gxf3 Nxa2 36. Rc6 $1 Nb4 37. Rxc5 Nd3 38. Ra5
+Kh4 39. Kh2 Nf4 40. Rxa6 {(D) [#] So White got a winning ending. Well, it is
+not such an easy one as someone might think. White has to exchange his h-pawn
+and then invade with his king. Black has a drawing set-up with his king on e6/
+f6/g6 and his knight on h4- or on e5-squares, controlling important invasion
+squares and putting pressure on the white f3-pawn.} Kh5 (40... h5 41. Ra4 $18 {
+, loses on the spot.}) 41. Rd6 (41. Ra4 Kh4 42. Ra7 h6 43. Ra2 Kh5 44. Kg3 Nd5
+45. Ra8 Nf4 46. h4 $1 Ne2+ 47. Kf2 Nf4 48. hxg5 hxg5 49. Ke3 $18 {, was
+another way to prevail.}) 41... Ne2 42. Rd2 Nf4 43. Kg3 Ng6 44. Rd7 h6 45. Rf7
+Ne5 46. Rf5 Ng6 47. Ra5 Nf4 {(D) [#]} (47... Nh4 {, loses to} 48. f4 Ng6 49. f5
+Nh4 50. Rb5 $18 {.}) 48. h4 $1 Ne2+ 49. Kf2 Nf4 50. hxg5 hxg5 51. Ke3 $1 {
+White must invade with his king before Black would set-up his defensive method.
+} Ng2+ 52. Kf2 ({Not drawing yet, but of course the natural} 52. Ke4 Kg6 53.
+Ra6+ Kh5 54. Ra2 Nh4 55. Rh2 $18 {, was curtains.}) 52... Nf4 {(D) [#]} 53. Ra8
+$2 ({But this is a serious mistake, throwing the win away. Good was} 53. Ke3
+Kg6 54. Ke4 Ng2 55. Ra6+ Kh5 56. Ra2 Nh4 (56... Nf4 57. Kf5 $18) 57. Rh2 Kh6
+58. f4 Kg6 59. Rh1 $1 Nf5 (59... Kf6 60. f5 $18) 60. Rg1 Nd6+ 61. Ke5 Nf7+ 62.
+Ke6 Nd8+ 63. Kd6 Nf7+ 64. Ke7 $18 {.}) 53... Kg6 $1 {V. Kramnik is quite
+experianced and his knowledge is huge, so he couldn't missed his chance - the
+position is now drawn.} 54. Ke3 Ng2+ $1 {Again the only move - the knight has
+to be placed on h4.} 55. Ke4 Nh4 56. Ra6+ Kf7 (56... Kg7 {was the other
+drawing move.}) 57. Ra2 Kf6 58. Ra1 Ke6 59. Rh1 Ng6 60. Rh6 Kf6 61. Rh7 Nh4 62.
+Ke3 Ng6 63. Ra7 Nh4 64. Ra6+ Kf5 65. Kf2 Ng6 66. Kg3 {(D) [#]} Ne5 $1 ({
+The only drawing move here. Bad was} 66... Nh4 $2 67. f4 $18 {.}) 67. Ra8 Ng6
+68. Rg8 Ne5 69. Rf8+ {(D) [#]} Ke6 $1 ({Accurate, as} 69... Kg6 $2 {was losing
+to} 70. Kf2 $1 Nf7 71. Ke3 {, as Black cannot place his knight on h4.}) 70. Kf2
+Ng6 71. Rb8 Kf5 72. Rb5+ Kf6 73. Ra5 {(D) [#]} Ne5 $1 (73... Nh4 $2 {was
+losing to} 74. Kg3 $18 {. As a guide, when the white king goes to the g-file,
+the black knight should be around the e5-square, while when the white king
+goes to the e-file, the knight should go around the h4-square.}) 74. Ke2 Ng6
+75. Ra6+ Kf5 76. Ke3 Nh4 $1 (76... Ne5 $2 77. Ra5 Kf6 78. Ke4 $18 {.}) 77. Ra5+
+Kf6 78. Ke4 Kg6 $1 (78... Ng2 $2 79. Ra6+ Kf7 80. Kf5 Nh4+ 81. Kg4 $18 {.}) 79.
+Ra1 Kf6 80. Rg1 Nf5 81. Rg2 Nh4 82. Rh2 Ng6 83. Rh5 Nf4 $1 (83... Nh4 $2 84. f4
+$18 {.}) 84. Rh8 (84. Rh6+ Ng6 $1 {, was good as well.}) 84... Ng6 $1 85. Rb8 {
+(D) [#]} Nh4 $1 86. Rg8 Ng6 87. Kd4 Kf5 88. Ke3 Kf6 89. Ke4 Kf7 (89... Nh4 {
+, was good as well.}) 90. Rb8 Nh4 $1 91. Rc8 Kf6 92. Rc1 Ke6 93. Ke3 Kf5 94.
+Rc5+ Kf6 95. Rb5 Ng6 96. Ke4 Nh4 $1 97. Rd5 {(D) [#]} Kg6 $1 (97... Ng2 $2 98.
+Rd6+ Kf7 99. Kf5 $18 {.}) 98. f4 {A last try...} gxf4 99. Kxf4 Kf7 100. Kg5
+Nf3+ 101. Kf4 Nh4 102. Kg5 Nf3+ 103. Kg4 {(D) [#]} Ke6 $1 ({The last accurate
+move, so the knight can be placed in a central square next to its king. Losing
+was} 103... Ne1 $2 104. Rd2 $18 {.}) 104. Kxf3 (104. Ra5 Ne5+ $11 {.}) 104...
+Kxd5 1/2-1/2
+

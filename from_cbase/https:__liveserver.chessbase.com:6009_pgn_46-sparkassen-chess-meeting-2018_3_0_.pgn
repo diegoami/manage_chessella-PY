@@ -1,0 +1,176 @@
+[Event "46. Sparkassen Chess-Meeting 2018"]
+[Site "Dortmund"]
+[Date "2018.07.17"]
+[Round "3"]
+[White "Kramnik, Vladimir"]
+[Black "Meier, Georg"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[WhiteElo "2792"]
+[BlackElo "2628"]
+[Annotator "TA"]
+[PlyCount "97"]
+[EventDate "2018.07.14"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,97,27,33,25,31,25,33,40,36,37,25,27,28,26,29,25,28,34,28,35,35,24,35,
+23,30,28,33,4,2,0,2,0,0,0,12,10,10,8,11,5,11,5,2,0,0,-37,0,-21,0,0,0,0,14,8,52,
+48,53,55,62,9,0,0,57,55,58,0,0,0,0,0,0,0,8,-22,0,0,8,-22,0,0]} 1. e4 e6 2. d4
+d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. c3 c5 8. Be3 {C10:
+French with 3 Nc3: Unusual Black 3rd moves and 3...dxe4} Qc7 (8... cxd4 9. Bxd4
+Be7 10. Bd3 O-O 11. Qc2 h6 12. O-O-O Qa5 13. Kb1 Rd8 14. Ne5 Bd7 15. Qe2 Bc6
+16. Rhe1 Bd5 17. c4 Bxg2 18. Bc3 Qb6 19. Rg1 Bc6 20. Nxf7 Kxf7 21. Rxg7+ Kxg7
+22. Qxe6 Qxf2 23. Qxe7+ Kg8 24. Bh7+ {1-0 (24) So,W (2773)-Akobian,V (2615)
+Saint Louis 2016 CBM 172 [Roiz,M]}) 9. Bb5+ Bd7 10. Bxd7+ Nxd7 {LiveBook: 6
+Games} 11. d5 exd5 $146 ({Predecessor:} 11... e5 12. Qc2 Bd6 13. Nd2 O-O 14.
+Ne4 c4 15. Rd1 Rfd8 {0-1 (89) Svetushkin,D (2618)-Drozdovskij,Y (2567) Port
+Erin 2007}) 12. Qxd5 {aiming for 0-0-0.} Nf6 13. Qc4 {[#] Threatens to win
+with 0-0-0.} Bd6 14. Bg5 Qe7+ 15. Kf1 O-O 16. Re1 Qd8 17. g3 h6 18. Bxf6 Qxf6
+19. Kg2 Rfd8 20. Re4 Qf5 21. Rd1 Qc8 22. Rd5 Qc7 23. g4 Bf8 24. Rde5 g6 25. h4
+Bd6 26. Rd5 Bf8 27. Rxd8 Rxd8 28. h5 {Black must now prevent hxg6.} gxh5 29.
+gxh5 Qc6 30. Rg4+ Bg7 31. Rg3 Rd5 32. Qh4 b5 33. b3 Qe6 34. c4 bxc4 35. bxc4
+Rd3 36. Rg4 Rc3 37. Qg3 $1 Qf6 38. Qb8+ Kh7 39. Qb1+ ({White should play} 39.
+Rf4 $14 Qe7 40. Qb1+ Kh8 41. Qf5) 39... Kh8 $11 40. Qb8+ (40. Nh4 $11 Qc6+ 41.
+Kg1) 40... Kh7 $14 41. Rf4 $1 {[%cal Rf4f6]} Qe6 42. Qb1+ (42. Qxa7 $14 Rxc4
+43. Qxf7 Qxf7 44. Rxf7) 42... Kg8 $11 {The position is equal.} 43. Re4 Qc8 44.
+a4 Bd4 45. Rf4 Be5 46. Rf5 Bg7 47. Rf4 Be5 48. Rf5 Bg7 49. Rf4 {Precision:
+White = 64%, Black = 49%.} 1/2-1/2
+
+[Event "46. Sparkassen Chess-Meeting 2018"]
+[Site "Dortmund"]
+[Date "2018.07.17"]
+[Round "3"]
+[White "Giri, Anish"]
+[Black "Kovalev, Vladislav"]
+[Result "0-1"]
+[ECO "B29"]
+[WhiteElo "2782"]
+[BlackElo "2655"]
+[Annotator "TA"]
+[PlyCount "146"]
+[EventDate "2018.07.14"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,146,24,22,38,31,35,24,46,26,30,0,0,0,0,0,0,-4,27,19,21,0,24,30,31,14,
+27,25,12,22,27,27,35,27,29,20,31,18,18,18,21,14,21,18,21,15,20,0,22,21,21,21,
+21,0,21,22,23,-69,-67,-68,-76,-70,-74,-75,-81,-81,-81,-91,-50,-43,0,-83,-70,
+-157,-141,-146,-62,-62,-10,-18,0,0,0,0,0,0,0,0,0,0,0,0,0,-59,0,0,0,-59,-59,-84,
+-89,-112,-112,-112,0,0,0,-93,-92,-107,-85,-93,-93,-88,-79,-93,-87,-91,-108,
+-500,-512,-488,-490,-409,-362,-425,-411,-29966,-29967,-29967,-29968,-29967,
+-29968,-29962,-29949]} 1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Nxd5 exd5 6.
+d4 Nc6 7. c3 cxd4 {B29: Sizilianisch (Rubinstein-Variante)} (7... d6 8. Bb5 Be7
+9. exd6 Bxd6 10. dxc5 Bxc5 11. Qe2+ Be6 12. Be3 Bxe3 13. Qxe3 O-O 14. O-O Bg4
+15. Rad1 Re8 {1-0 (40) Salgado Lopez,I (2615)-Kantans,T (2514) Reykjavik 2015})
+8. Nxd4 {LiveBook: 4 Partien} d6 9. Bb5 Bd7 {Weiß steht etwas besser.} 10. exd6
+Bxd6 11. O-O O-O 12. Nb3 $146 ({Vorgänger:} 12. f4 Re8 13. Kh1 Bf8 14. Nf3 Bg4
+15. h3 Bf5 {1-0 (34) Repa,J-Lukic,L Winnipeg 1997}) 12... a6 13. Be2 Qc7 14. h3
+Rfe8 15. Re1 Re5 16. Be3 Rae8 17. Bd3 g6 18. Qd2 Qd8 19. Nd4 Nxd4 20. Bxd4
+Rxe1+ 21. Rxe1 Rxe1+ 22. Qxe1 Qe8 23. Qd2 Be5 24. Be3 Qe6 25. f4 Bf6 26. a3 h5
+27. Bc2 Bc6 28. Bf2 Qe7 29. Bd1 Qe6 30. Bc2 Qe7 31. Bb6 Qe6 32. Qf2 Qe8 33. Qd2
+Qe6 34. Bc5 Qe8 35. Qd1 (35. Kf2 $11) 35... d4 $1 $15 36. Qd2 $1 (36. Bxd4 $2
+Bxd4+ 37. cxd4 Qe3+ 38. Kh2 Qxf4+ 39. Kh1 Qg5 $19) 36... dxc3 37. bxc3 Qe6 38.
+Bd4 Bxd4+ 39. cxd4 Qa2 {Und ...Le4! würde nun gewinnen.} 40. Qc3 Qd5 {[%csl
+Gc6][%cal Rd5g2]} 41. Qd2 Qa2 {Und weiter mit ...Le4! wäre nett.} 42. Qc3 $1 h4
+43. Kh1 {[#]} (43. Qd3 $15) 43... a5 $1 $17 {[%mdl 512]} 44. a4 (44. Qxa5 Qxc2)
+44... Qd5 ({Günstiger ist} 44... Bxa4 $17 45. Bxa4 Qxa4) 45. Qd2 $15 b6 (45...
+Kg7 $15) 46. f5 $1 $11 Kg7 47. fxg6 fxg6 48. Bd1 Qf5 49. Kg1 Bd5 50. Bc2 Qf6
+51. Qe3 g5 52. Bd3 Kh6 53. Bc2 ({Besser ist} 53. Be2 $11) 53... Kg7 (53... Qf4
+$15 54. Qf2 Qxf2+ 55. Kxf2 Kg7) 54. Bd3 Kh6 (54... Bc6 $11) 55. Bc2 $15 Qf4 56.
+Qd3 {[%csl Gc2][%cal Rd3h7]} Kg7 57. Qg6+ Kf8 58. Qd3 Kg7 59. Qg6+ $1 Kf8 {
+( -> ...De3+)} 60. Qd3 Ke7 61. Bd1 Qe4 {[%csl Gd5][%cal Re4g2]} 62. Qd2 Kd6 63.
+Bc2 Qf4 64. Qd3 Kc7 65. Qh7+ Kb8 66. Qd3 $2 {[%mdl 8192] [#]} (66. Qh8+ $17 {
+war die entscheidende Verteidigung.} Ka7 67. Qh7+ Bb7 68. Qd3) 66... g4 $1 $19
+67. hxg4 Qxg4 {[%csl Gd5][%cal Rg4g2]} 68. Qg6 Qxd4+ 69. Kh1 Bb7 70. Qe8+ (70.
+Kh2 $19) 70... Ka7 {Schwarz setzt Matt.} 71. Bf5 Qd1+ 72. Kh2 Qd6+ 73. Kh1 Qg3
+{Precision: Weiß = 44%, Schwarz = 69%.} 0-1
+
+[Event "46. Sparkassen Chess-Meeting 2018"]
+[Site "Dortmund"]
+[Date "2018.07.17"]
+[Round "3"]
+[White "Nepomniachtchi, Ian"]
+[Black "Nisipeanu, Liviu-Dieter"]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "2757"]
+[BlackElo "2672"]
+[Annotator "TA"]
+[PlyCount "99"]
+[EventDate "2018.07.14"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 24,99,17,29,33,0,13,0,20,-7,34,31,28,24,35,0,10,0,11,3,35,33,38,37,35,
+29,94,81,82,85,94,100,108,99,99,96,95,100,130,121,165,162,160,145,162,143,148,
+141,169,168,164,173,169,162,167,166,189,192,199,199,217,221,221,214,310,304,
+311,290,399,401,462,611,587,587,510,590,473,517]} 1. c4 e6 2. Nc3 d5 3. d4 Nf6
+4. cxd5 exd5 5. Bg5 c6 6. Qc2 Be7 7. e3 Nbd7 8. Bd3 h6 9. Bh4 Nh5 10. Bxe7 {
+D36: Queen's Gambit Declined: Exchange Variation: Main line (5 Bg5 c6 6 Qc2)}
+Qxe7 11. O-O-O {[%cal Be1c1,Bc1b1,Bb1a1][%mdl 32]} Nb6 12. Nf3 (12. Kb1 Nf6 13.
+Rc1 Be6 14. Nf3 O-O-O 15. Na4 Nfd7 16. Nc5 Nxc5 17. dxc5 Nc4 {1-0 (45)
+Rodshtein,M (2695)-Brunello,S (2555) Douglas 2017}) 12... Nf6 13. Kb1 {
+LiveBook: 4 Games} Be6 {[#]} 14. Ka1 $146 ({Predecessor:} 14. Nd2 O-O-O 15. Nb3
+{1/2-1/2 (25) Werle,J (2526)-Stern,R (2522) Germany 2018}) 14... O-O-O 15. Na4
+Kb8 16. Rc1 Rhe8 17. Nc5 Bc8 18. b4 Ne4 19. a4 {[%cal Ba2a4,Ba4a5][%mdl 32]}
+Nd6 20. Nd2 Qf6 21. Rhf1 Bf5 (21... Qe7 {is more complex.} 22. Qb2 Nd7 23. Rg1
+Ka8 24. a5 a6) 22. Bxf5 Qxf5 23. Qxf5 Nxf5 24. a5 Nd7 {[#]} (24... Na8 $1 $11 {
+keeps the balance.}) 25. a6 $1 $16 Nxc5 26. bxc5 Kc7 27. axb7 Rb8 28. Kb2 Rxb7+
+29. Kc3 Rb5 30. Ra1 Kb7 31. Ra2 Ne7 32. Rfa1 Ra8 33. Nb1 Kb8 34. Ra6 Kb7 {
+[#] ...Rxb1! is the strong threat.} 35. R6a4 {Strongly threatening Na3.} Kb8
+36. Na3 Rb7 37. Ra6 Kc7 38. Nc2 Kd7 39. Nb4 f6 40. f3 f5 41. Nd3 Ke6 42. Ne5
+Rc7 43. g4 fxg4 (43... Kf6 {was called for.} 44. h4 g6 45. gxf5 Kxf5) 44. fxg4
+$18 h5 45. h3 {[%cal Bh2h3,Bh3g4,Bg4g5,Bg5g6][%mdl 32]} hxg4 46. hxg4 Kf6 47.
+Rf1+ {White is clearly winning.} Ke6 48. Rf7 Rg8 49. g5 Rb7 50. g6 {Precision:
+White = 72%, Black = 43%.} 1-0
+
+[Event "46. Sparkassen Chess-Meeting 2018"]
+[Site "Dortmund"]
+[Date "2018.07.17"]
+[Round "3"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Wojtaszek, Radoslaw"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2737"]
+[BlackElo "2733"]
+[Annotator "TA"]
+[PlyCount "79"]
+[EventDate "2018.07.14"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,79,20,18,34,31,23,14,22,15,14,-14,-14,-25,0,0,0,0,0,-5,0,-56,0,0,27,
+25,35,27,29,29,16,22,17,8,112,106,274,271,277,273,292,197,251,250,238,214,234,
+221,216,180,274,249,254,238,269,268,274,274,274,274,268,258,283,277,303,297,
+496,480,466,322]} 1. d4 Nf6 2. Bg5 d5 3. Bxf6 gxf6 4. c4 dxc4 5. e3 c5 6. d5 {
+D00: 1 d4 d5: Unusual lines} (6. Nc3 cxd4 7. Bxc4 Bg7 8. Qh5 e6 9. O-O-O f5 10.
+exd4 Qc7 11. Bb5+ Bd7 12. Bxd7+ Nxd7 {0-1 (57) Fier,A (2614)-Gajewski,G (2621)
+St Petersburg 2016}) 6... Bg7 7. Bxc4 {LiveBook: 3 Games} f5 8. Nc3 {White is
+slightly better.} Nd7 9. Nge2 a6 10. a4 Ne5 11. Ba2 O-O 12. O-O $146 ({
+Predecessor:} 12. Qc2 e6 {0-1 (32) Haigh,T (1810)-Scott,L (2016) Novi Sad 2016}
+) 12... Rb8 13. Ng3 b5 14. axb5 axb5 15. Qc2 Qd6 16. Nce2 ({White should play} 
+16. Nxf5 $11 Nf3+ 17. gxf3 Qg6+ 18. Kh1 Bxf5 19. e4) 16... b4 (16... Ra8 $1 $15
+) 17. Rac1 $11 b3 18. Bxb3 c4 19. Bxc4 {And now b3 would win.} Rxb2 $1 20. Qd1
+$1 ({Don't play} 20. Qxb2 Nf3+ 21. gxf3 Bxb2 $15) 20... Qb4 21. Nd4 Nxc4 22.
+Nc6 $1 {[%cal Rc6b4]} Qc5 (22... Qb5 $11 23. Nxe7+ Kh8) 23. Qa4 $16 Rd2 $2 {[#]
+} (23... Rb7 $16) 24. Rxc4 $18 ({Less strong is} 24. Qxc4 Qxc4 25. Nxe7+ (25.
+Rxc4 Ba6 $16) 25... Kh8 $16) 24... Qd6 25. Qa7 Bf6 26. Nh5 Kh8 (26... Bd7 $142
+27. Nxf6+ exf6) 27. Nxf6 exf6 28. Rd4 Rc2 29. Nb4 Rc5 30. Rfd1 Bd7 (30... Rb5
+$142) 31. Qa6 Qxa6 32. Nxa6 Rb5 33. h4 Rc8 34. Nb4 Kg7 35. Kh2 Kf8 36. R1d2
+Rcb8 37. Nd3 Ke7 38. Nf4 Rb2 $2 {[#]} (38... Rd8 39. d6+ Kf8) 39. d6+ Kf8 40.
+Nh5 {Precision: White = 82%, Black = 38%.} 1-0
+

@@ -1,0 +1,78 @@
+[Event "Grandmaster & WomenGrand Master"]
+[White "Anton, Demchenko"]
+[Black "Anh Dung, Nguyen"]
+[Site ""]
+[Round "8.2"]
+[Annotator "AA"]
+[Result "1-0"]
+[Date "2018.05.01"]
+[PlyCount "60"]
+[Setup "1"]
+[FEN "r4r2/1ppnqp1k/1b1pbn1p/pP2p1p1/P2PP3/2PB1NB1/3N1PPP/1R1QR1K1 b - - 0 17"]
+
+{Already faced with unpleasant pressure on her centre, Black errs.} 17... Nh5 18. Nxe5 $1 Nxe5 (18... Nxg3 {can even be answered with} 19. Nec4 {since
+the g3-knight simply has no squares!} )19. Bxe5 dxe5 20. Qxh5 exd4 21. e5+ Kg7 {The whole operation wouldn't be bad for Black at all, if not for the next
+move.} 22. c4 $1 {Closing the b6-bishop.} Bc5 23. Ne4 Bb4 24. Re2 Bf5 25. Qf3 Bg6 26. Nf6 $1 {Modelplay by Demchenko. Unfortunately the remainder of the
+game is not flawless but I felt the sequence starting on move 17 should not
+miss in this report.} c6 27. bxc6 bxc6 28. Rd1 Qe6 29. h4 gxh4 30. Nh5+ Bxh5 31. Qxh5 f5 32. exf6+ Qxf6 33. Qg4+ Kh8 34. Re6 Qxf2+ 35. Kh1 Qf4 36. Qg6 Ra7 37. Qh5 Rf6 38. Rxf6 Qxf6 39. Rf1 Qg5 40. Qe8+ Kg7 41. Qe4 Kh8 42. Qe8+ Kg7 43. c5 Bxc5 44. Bc4 h5 45. Qg8+ Kh6 46. Qh8+ Rh7 47. Rf6+ 1-0
+
+[Event "Japfa IGM"]
+[White "Gareyev, Timur"]
+[Black "Taher, Yoseph Theolifus"]
+[Site ""]
+[Round ""]
+[Annotator "AA"]
+[Result "1-0"]
+[Date "2018.04.29"]
+[WhiteElo "2592"]
+[BlackElo "2375"]
+[PlyCount "70"]
+[Setup "1"]
+[FEN "2brr1k1/1p2qpp1/p1pbnn1p/2Np4/1P1P3B/P2BP1NP/2Q2PP1/3R1R1K b - - 0 19"]
+
+{An instructive example of handling the Carlsbad structure.} 19... Nc7 $2 (19... Nxc5 {was a must when I would challenge the reader to determine for
+himself how to take back on c5 before reading on.} 20. dxc5 (20. bxc5 $6 g5 21. cxd6 Rxd6 22. Bxg5 hxg5 {(} 23. Bf5 Ne4 $1 {)} )g5 21. cxd6 Rxd6 22. Bxg5 hxg5 {and now} 23. Bf5 {is very
+strong since} Ne4 {can now be met with the simple} 24. Bxe4 dxe4 25. Rxd6 Qxd6 26. Rd1 Qg6 27. Qc5 {with a winning positional advantage.} )20. f4 $1 {
+Powerplay.} b6 (20... Qxe3 21. Rf3 Qe7 22. Nh5 {is the reason the e3-pawn is
+taboo.} )21. Nh5 $1 {Of course, as taking on c5 would anyway trap the
+d6-bishop.} Nxh5 22. Bxe7 Bxe7 23. Na4 Ng3+ 24. Kg1 Nxf1 25. Rxf1 {And with
+this big material advantage Gareyev easily converted.} Nb5 26. Nxb6 Nxa3 27. Qxc6 Bxb4 28. Nxd5 Bf8 29. f5 Nb5 30. Bxb5 axb5 31. Qxb5 Bd7 32. Qb7 Bc8 33. Qb3 Bd6 34. g4 Ba6 35. Ra1 Rb8 36. Qxb8 Rxb8 37. Rxa6 Bf8 38. Kg2 Rb5 39. Nf4 Bb4 40. Kf3 Bd2 41. Ra2 Bc3 42. h4 Rb3 43. Ke4 Rb8 44. h5 Re8+ 45. Kf3 Rb8 46. Rc2 Be1 47. Nd3 Bh4 48. e4 Rb3 49. Rc8+ Kh7 50. Ke2 Bg5 51. Ne5 Rb2+ 52. Kd3 Rd2+ 53. Kc3 Rd1 54. Rf8 1-0
+
+[Event "Japfa IGM"]
+[White "Priasmoro, Novendra"]
+[Black "Aulia, Medina Warda"]
+[Site ""]
+[Round ""]
+[Annotator "AA"]
+[Result "1-0"]
+[Date "2018.04.27"]
+[WhiteElo "2449"]
+[BlackElo "2380"]
+[PlyCount "39"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. Nb5 Bxd2+ 7. Qxd2 0-0 8. f4 a6 9. Nd6 cxd4 10. Nf3 Nec6 11. Bd3 {Which one would you choose: f6 or f5?} f5 ({This meets a very energetic refutation. It was essential to undermine
+White's centre and the knight on d6 with} 11... f6 $1 12. 0-0 Nd7 {when White
+is faced with some real questions. An example is} 13. Qe1 fxe5 14. fxe5 (14. Bxh7+ Kxh7 15. Ng5+ Kg8 16. Qh4 Nf6 17. Rf3 g6 $1 18. Rh3 Nh5 {repels White's
+attack.} )Rxf3 $5 15. gxf3 Ndxe5 16. Nxc8 Qxc8 {with two pawns for the
+exchange.} )12. g4 $1 Nd7 (12... fxg4 13. Ng5 g6 14. h4 {plays itself. White's
+attack is unstoppable.} )13. gxf5 Ndxe5 14. fxe5 Nxe5 15. Nxe5 Qxd6 16. Qf4 Qb4+ 17. Kf2 exf5 18. Rhg1 Re8 19. Rxg7+ Kxg7 20. Qg5+ {and with mate incoming,
+Black resigned. The difference between one or the other pawn move...!} 1-0
+
+[Event "Grandmaster & WomenGrand Master"]
+[White "Yoseph Theolifus, Taher"]
+[Black "Ming Kevin, Goh Wei"]
+[Site ""]
+[Round "8.4"]
+[Annotator "AA"]
+[Result "1-0"]
+[Date "2018.05.01"]
+[PlyCount "10"]
+[Setup "1"]
+[FEN "3rk2r/1b2b3/p3p1Q1/q3P3/Pp3P1p/4B2P/1P4P1/R1R3K1 b k - 0 28"]
+
+{In the category: how one move can turn a game upside-down. How would you
+continue: Kf8 or Kd7?} 28... Kd7 (28... Kf8 $1 {was the right square, when} 29. f5 Qxe5 30. Bh6+ Rxh6 31. Qxh6+ Kf7 32. Qg6+ {would lead to a draw.} )29. f5 $1 {easy to miss!} Rdg8 30. Qxe6+ Ke8 31. Bb6 Rxg2+ 32. Kf1 Rh6 33. Rc8+ (33. Rc8+ {Black resigned. After} Bxc8 34. Qxc8+ Kf7 35. Bxa5 {there is nothing left
+fighting for.} )1-0
+
+
+

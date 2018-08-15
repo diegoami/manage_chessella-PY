@@ -1,0 +1,69 @@
+[Event "105th British-ch 2018"]
+[Site "Hull"]
+[Date "2018.08.04"]
+[Round "8"]
+[White "Adams, Michael"]
+[Black "Pert, Nicholas"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2706"]
+[BlackElo "2544"]
+[Annotator "DF"]
+[PlyCount "89"]
+[EventDate "2018.07.28"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 {Perhaps a predictable opening, given
+some of Adams' games from about a decade ago...} g6 {Almost entirely a modern
+construction.} (4... Qc7 5. d3 a6 6. Bxc6 dxc6 7. a4 a5 8. Be3 e5 9. h3 Bd6 10.
+Nd2 Be6 11. b3 Nd7 12. O-O f6 13. Nc4 Bxc4 14. bxc4 g6 15. Qg4 $14 {Adams,M-Ni,
+H Liverpool 2007}) (4... Nd4 {was a big move before, but White is basically
+just better after} 5. e5 Nxb5 6. Nxb5 Nd5 7. Ng5 a6 8. Qf3 f6 9. Qxd5 fxg5 10.
+Nc3 $14) 5. h3 Bg7 6. e5 Ng8 7. Bxc6 dxc6 8. d3 {Not knowing an awful lot
+about the Rossolimo, it wasn't clear to me what Black had gained in exchange
+for spending two tempi on ...Nf6-g8. However, looking at it a bit, it seems to
+me that Black is okay after the text.} Nh6 (8... h5 9. Ne4 $14) (8... b6 9. Qe2
+h5 10. Bg5 $14) 9. g4 $5 {An ambitious move, but this isn't a position that
+rewards half-baked play.} (9. Qe2 Nf5 $132 {or something will just be fine for
+Black as in the Berlin.}) 9... O-O 10. Qe2 (10. Be3 f5 11. exf6 exf6 12. Qd2
+Nf7 13. O-O-O Qa5 $11 {Harikrishna,P-Alsina Leal,D Leon 2012}) 10... Qb6 $6 {
+Presumably Nick regretted this move.} (10... f5 11. g5 Nf7 12. Bf4 Qa5 $13 {
+The position is extremely concrete, and bears a strange resemblance to the
+McCutcheon variation in the French. I suspect Black is okay here, but will
+leave the definitive assessment to the cloud engines. One of Black's cooler
+ideas is ...Nd8-e6-d4.}) (10... f6 $6 {is the more controlled version, but it
+suffers from a crucial defect in that Black may not actually want to take on
+e5 if given the chance.} 11. Be3 Nf7 $1 (11... fxe5 12. Nd2 $16 (12. Bxc5 Nxg4
+$3 $17)) 12. Bxc5 $14) 11. Nd2 Qc7 12. Nb3 $1 (12. f4 f6 {must be okay for
+Black, who is now fine to take on e5 with a pawn, even if my machine does have
+a bizarre fixation with} 13. Rg1 $5 fxe5 14. f5 $40) 12... f5 {Understandable,
+but this makes things worse.} (12... f6 13. Nxc5 Nf7 $14) 13. g5 Nf7 14. f4 $1
+b6 15. Be3 Be6 16. Nd2 Bd5 17. Nf3 $14 {White has completed his clamp.} Nd8 18.
+h4 Ne6 19. h5 Bxf3 20. Qxf3 Nd4 21. Qf2 Rfd8 22. O-O-O e6 23. Rh4 Qd7 (23... a5
+$5 {was a move I wanted, looking at the demonstration board, but it is
+actually plausible that Black didn't like} 24. Na4 $5 {which jams his
+queenside pawns together in a slightly awkward way.}) 24. Ne2 Nxe2+ 25. Qxe2
+Kf7 26. c4 {A double-edged decision, and probably the right one. White sets in
+motion a plan to eventually break with b4, and open a second front.} (26. Rdh1
+Qd5 27. Kb1 a5 {As in the Stonewall Dutch, Black has an awful bishop and some
+disgusting structural issues, but there is nothing that badly wrong with his
+position in reality, because White can't break through on the side where he is
+that much stronger.}) 26... Qc7 27. Rdh1 Rg8 28. R1h3 Rad8 29. Kc2 Qc8 30. Qf3
+a5 31. Rh2 Qd7 32. Rd2 Qc7 33. Qh1 Qc8 (33... a4 {immediately might improve,
+getting ...b5 in a little bit faster to try and get moving.}) 34. Rh3 Qd7 35.
+Qf3 Qc8 36. Rh1 Rd7 37. Kd1 Rgd8 38. Ke2 a4 39. Rb1 Ra7 40. b4 $1 {In my mind
+there is little question that this move brings the position from +/= to +/-.
+However, it also very suddenly sharpens matters, leaving both sides chances to
+go badly wrong.} axb3 41. Rxb3 Qc7 42. Rdb2 $6 {Now Black can counter-attack a
+bit.} (42. Qh1 $1 $16 {The queen belongs on b1, where it attacks b6 and a2.
+Nick might still be defending this now if White had played this way.}) 42...
+Rda8 (42... Bf8 $5) 43. Rxb6 (43. a4 $1 $16 {is a computer move to keep the
+advantage.}) 43... Rxa2 $1 {Now Black is fully in the game, and in many lines
+he is sacrificing on e5. White wasn't able to find the silicon-esque 44.Kf1!?
++/= and simply played a move that allowed the draw.} 44. R6b3 $6 Bxe5 $1 45.
+fxe5 (45. fxe5 Qxe5 46. Rxa2 Rxa2+ 47. Ke1 $11 {and Black has no better than
+perpetual.}) 1/2-1/2

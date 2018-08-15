@@ -1,0 +1,110 @@
+[Event "CIV INVITATIONAL BLITZ 2018"]
+[Site "Abidjan Cote d'Ivoire"]
+[Date "2018.07.28"]
+[Round "1.3"]
+[White "Haddouche, Mohamed"]
+[Black "Amin, Bassem"]
+[Result "0-1"]
+[ECO "C49"]
+[WhiteElo "2428"]
+[BlackElo "2695"]
+[SetUp "1"]
+[FEN "8/3bn1pk/Q2p1p1p/2pPp1nP/2p1P1P1/2P2PN1/Pq1B2K1/3B4 w - - 0 38"]
+[PlyCount "10"]
+[EventDate "2018.07.28"]
+[EventType "blitz"]
+[EventRounds "18"]
+
+38. Nf1 {I don't think blitz games should be overanalysed but to have a look
+at a few interesting positions is always fun. Here we see the top see in big
+trouble. d6 is about to fall and realizing just that, Black decided to sac a
+piece.} Bxg4 39. Qxd6 ({And Black gets rewarded!} 39. fxg4 Nxe4 40. Qa4 $1 Nxd2
+41. Qc2+ {would have forced Bassem's resignation... but that is blitz!}) 39...
+Nc8 (39... Bh3+ 40. Kf2 Bxf1 {wins material, but seconds were ticking away...})
+40. Qxc5 Bh3+ 41. Kg1 Bxf1 42. Bxg5 Qg2# {Mate! The Algerian GM had a shaky
+first part of the Blitz section but, faster than a tumbler toy, he readjusted
+his position in the standings after a raging 5/5 in the final rounds. A second
+place for Mohamed in the combined standings and a prize of US$ 4,000.} 0-1
+
+[Event "CIV INVITATIONAL BLITZ 2018"]
+[Site "Abidjan Cote d'Ivoire"]
+[Date "2018.07.28"]
+[Round "3.3"]
+[White "Ssegwanyi, Arthur"]
+[Black "El Adnani, Mokliss"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2269"]
+[BlackElo "2458"]
+[SetUp "1"]
+[FEN "1br1k1nr/1p1b1pp1/pq2p1n1/3pP1Np/3N3P/2PB2B1/PP2QPP1/4RRK1 w k - 0 19"]
+[PlyCount "14"]
+[EventDate "2018.07.28"]
+[EventType "blitz"]
+[EventRounds "18"]
+
+{Getting ten of the strongest players in Africa to face each other will
+inevitably lead to some of them having a less desirable result. It was the
+case of Arthur but the scores are rarely presenting the full story, as he did
+have a couple of very well conducted games. But the clock is mercilessly
+ticking...} 19. Nxf7 $1 Kxf7 20. Qf3+ Nf6 21. exf6 gxf6 22. Bxb8 {the
+beginning of the down trend.} ({Instead} 22. Re3 {would have been preferable}
+Rce8 (22... Bxg3 {runs straight into} 23. fxg3 $18 {and the black king os too
+exposed.}) 23. Rfe1 Bxg3 24. Qxg3 Rhg8 25. Qf3 Rh8 26. Bxg6+ Kxg6 27. Ne2 e5
+28. Qxd5 $18 {It is obviously not a forced line but a sample of how could have
+White kept the pressure and the massive initiative.}) 22... Rxb8 23. Qe3 Rbg8
+24. Nf3 {exchanging queens solved all Black's problems.} ({As much as I like} 
+24. f4 {suggested by computers, that is not an easy human decision to make.}
+Nxh4 25. Rf2 $44) 24... Qxe3 25. fxe3 Ke7 {the remainder of the game presents
+no more interest for the purpose of this particular excerpt. Black turned the
+tables and won the resulting endgame.} 0-1
+
+[Event "CIV INVITATIONAL BLITZ 2018"]
+[Site "Abidjan Cote d'Ivoire"]
+[Date "2018.07.28"]
+[Round "8.1"]
+[White "Silva, David"]
+[Black "El Adnani, Mokliss"]
+[Result "1-0"]
+[ECO "B45"]
+[WhiteElo "2293"]
+[BlackElo "2458"]
+[SetUp "1"]
+[FEN "r3k2r/3p3p/1q1Pp1p1/2pbPpQ1/p2b1P1P/1P4K1/P5P1/1RB2B1R b kq - 0 21"]
+[PlyCount "18"]
+[EventDate "2018.07.28"]
+[EventType "blitz"]
+[EventRounds "18"]
+
+{The revelation of the Blitz portion was without a shadow of doubt the young
+Angolan IM, David Silva. He finished right behind Bassem, which brought him to
+a 4th place in the combined standings. In this example though, he felt the
+danger blowing in his neck.} 21... Qd8 {A natural defensive move, especially
+for a Blitz encounter, but objectively not the strongest response.} ({Weirdly
+enough, the 'unnatural'} 21... O-O {running straight into White's attack after}
+22. h5 Qd8 23. Qh6 {is the safest path to victory, as Black has the very
+beautiful} g5 $1 $19) 22. bxa4 Qxg5+ 23. hxg5 Bxa2 {the beginning of the end.}
+({Once again,} 23... O-O {would have kept Black's slight advantage.}) 24. Rb7
+Bd5 25. Rc7 Bb3 26. Bb5 Rd8 27. Bd2 c4 28. Ba5 h5 29. Bxc4 Bxa4 30. Bxe6 {
+White won a few moves later.} 1-0
+
+[Event "CIV INVITATIONAL BLITZ 2018"]
+[Site "Abidjan Cote d'Ivoire"]
+[Date "2018.07.29"]
+[Round "15.1"]
+[White "Amin, Bassem"]
+[Black "Silva, David"]
+[Result "1-0"]
+[ECO "B03"]
+[WhiteElo "2695"]
+[BlackElo "2293"]
+[PlyCount "37"]
+[EventDate "2018.07.28"]
+[EventType "blitz"]
+[EventRounds "18"]
+
+{A miniature to end the chess part on a high note.} 1. e4 Nf6 2. e5 Nd5 3. d4
+d6 4. Bc4 Nb6 5. Bb3 dxe5 6. Qh5 e6 7. dxe5 a5 8. a4 Na6 9. Nc3 Nc5 10. Bg5 Qd4
+11. Nf3 Qb4 12. Rd1 Nbd7 13. O-O c6 14. Rd4 Qb6 15. Rfd1 g6 16. Qh4 Bg7 17. Be7
+h6 18. Bxc5 Qxc5 19. Ne4 {[%cal Ge4d6,Gd6c8,Gd4d7]} 1-0
+

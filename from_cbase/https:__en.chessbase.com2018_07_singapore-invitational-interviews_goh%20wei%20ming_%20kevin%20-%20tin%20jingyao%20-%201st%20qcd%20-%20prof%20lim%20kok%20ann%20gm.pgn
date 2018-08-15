@@ -1,0 +1,102 @@
+[Event "1st QCD - Prof Lim Kok Ann GM"]
+[Site "?"]
+[Date "2018.06.08"]
+[Round "3"]
+[White "Goh Wei Ming, Kevin"]
+[Black "Tin Jingyao"]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "2477"]
+[BlackElo "2445"]
+[Annotator "Goh,Kevin"]
+[PlyCount "89"]
+[EventDate "2018.??.??"]
+
+{After my debacle in round 2 where I struggled badly against the tournament's
+bottom seed but somehow managed to survive with a draw, this was a really
+critical game for me if I want to preserve reasonable chances of making a GM
+norm. My confidence was pretty low but I badly wanted a win as I knew that
+would bring me back on track.} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 {
+This came as a surprise. Fortunately, I had spent a fair bit of time in this
+variation that I knew reasonably what to do.} ({These days, the Italian game
+starting with} 4... Bc5 {is by far the more popular approach, and Jingyao's
+main opening weapon.}) 5. O-O O-O 6. Re1 {This prevents Black from playing the
+liberating ...d5 move.} (6. Bb3 {with the idea of c3 and rerouting the queen's
+knight to the f1 square with Nbd2, Re1 and Nf1 is the traditional plan.}) 6...
+d6 7. a4 {An important prophalactic move, preserving White's important square
+bishop as it addresses the threat of ...Na5. As we will see, one of the most
+complex structures generally in the Italian arises after Black goes ...Be6 and
+recaptures on the bishop with ...fe6. While the engine always likes White, it
+can be difficult to cope with Black's practical chances on the kingside and I
+find myself getting mated many times during my own analysis.} (7. a3 {seems to
+be a popular move these days}) 7... Na5 {This is the most popular move on my
+database but Black can choose from many different set-ups. During the game, I
+was quite happy to see this move as the typical middlegames arising from this
+set-up are risk-free for White.} ({For example, Black can start with} 7... Be6
+8. Nbd2 ({The doubled e-pawn structure seems to work well with Black's room on
+f8:} 8. Bxe6 fxe6 9. c3 Qe8 {and Black will start to bring his pieces over to
+the queenside.})) 8. Ba2 c5 9. c3 Nc6 10. Na3 h6 11. Bd2 Re8 {I thought that
+this was a preparatory move for ...Bf8 and ...Be6, following by recapturing
+with the rook. I am slightly relieved that Jingyao was not trying to mate me
+on the kingside!} ({In general, White wants to meet ...Be6 with Bxe6 followed
+by Nc4. The knights on c4 and f3 dominate the centre and prevent Black from
+breaking with ...d5 easily. As such, it makes sense for Black to find a useful
+move and see if White would move his a3 knight away before committing ...Be6.
+In that respect,} 11... a6 $5 {speaks for itself. I was ready to play} 12. h3 (
+12. Nc2 Be6 13. Bxe6 fxe6 {helps Black as we already discussed.}) 12... Rb8 13.
+Nc4 Be6 14. b4 cxb4 15. cxb4 b5 16. axb5 axb5 17. Na5 $14 {as played in the
+model game Vocaturo,D (2606)-Satyapragyan,S (2462) Sitges 2016}) 12. Nc2 Be6 $2
+{This was an important strategic error after which White gets an easy
+advantage by force.} (12... Bf8 {was by far more consistent but I would still
+like my chances of getting an edge after} 13. Ne3) 13. Bxe6 fxe6 14. b4 ({
+I was choosing between the game continuation and the central break with} 14. d4
+{but I did not like} exd4 15. cxd4 d5 $5 {which messes up the game somewhat.})
+14... cxb4 15. cxb4 Qd7 $2 {This was another strange decision from my opponent.
+Manoeuvring the knight to d8 and then to f7 hardly improves its prospect.} (
+15... Rc8 {was much more natural although White is still better after} 16. Qb1
+$5 {with the idea of playing Qb3 and Rad1.}) 16. b5 Nd8 17. Na3 $1 {A nice
+manoeuvre to bring the knight back to where it belongs. It is important not to
+commit to any changes in this pawn structure before White's piece placements
+are optimised.} Nf7 18. Nc4 Nh7 {Black's idea is clearly to exchange pieces in
+view of his lack of space.} 19. Bc3 (19. h4 {was possible but I did not like}
+Nf6 {and suddenly Black has the g4 square at his disposal. Hence, I wanted to
+wait and see if Black would play something like ...Bf6 before pushing Harry.
+That will slow Black down if he wants to bring a knight to the g4 square after
+I had played h4.}) 19... Nhg5 20. Nfd2 $1 Bf6 {Bingo!} 21. h4 Nh7 22. Nf3 Rac8
+23. g3 $1 {A nice restraining move, and not committing anything yet to the
+placement of my queen and the a1 rook.} g6 $2 {Jingyao was in poor form for
+this game but to be fair, he had to handle a very difficult position where he
+is extremely cramped and lacks active plans.} ({The tactical point is that} 
+23... d5 {does not work due to} 24. Ncxe5 Qc7 25. Rc1 $18 {and White defends
+the e5 knight tactically.}) ({I was considering} 23... Bd8 {, with the idea of
+...Nf6 but perhaps Jingyao did not want to keep moving his pieces up and down.
+Here, I was probably going to play} 24. Kg2 {followed by some random rook move.
+White can pleasantly take his time in choosing a good plan.}) 24. Qd2 $2 {
+This allowed unnecessary counterplay.} (24. Bb2 {, getting out of any tactical
+mess on the c-file was safer.}) 24... Bg7 $2 (24... d5 25. exd5 $1 exd5 26.
+Ncxe5 $18) (24... g5 $1 {would have create some kind of a mess on the kingside:
+} 25. hxg5 Nhxg5 26. Nxg5 Nxg5 27. Qe2 Bg7 {followed by Rf8. White can
+probably defend this easily but there was no need to even allow a single shred
+of counterplay.}) 25. Qe3 $1 {Poking at the queenside. Now, I was sure Black
+would not defend passively with ...Ra8 with leaves only 1 plausible reply.} b6
+26. a5 $1 {At this moment, I was already feeling confident of breaking through
+successfully.} Qxb5 $6 (26... Rb8 27. axb6 axb6 28. Nxb6 Qxb5 29. Rab1 Qc6 30.
+Rec1 $16 {was the lesser evil.}) 27. axb6 $2 {I had thought this would win
+immediately but Black in fact had a miraculous defence in hand....} (27. Reb1
+$1 Qc5 28. Qxc5 Rxc5 29. axb6 axb6 30. Rxb6 d5 31. Ra7 $1 dxc4 32. Rbb7 $1 Rf8
+33. Bb4 {was a convincing finish that I had missed.}) 27... d5 $2 {A tactical
+oversight after which White wins pretty much by force} ({I had calculated} 
+27... axb6 $1 28. Reb1 (28. Ra7 $1 {apparently keeps an edge.}) 28... Qc5 29.
+Qxc5 bxc5 30. Rb7 Rf8 (30... Ra8 31. Rxf7) 31. Raa7 {but had missed that after
+the stunning} Ra8 $3 {,} 32. Rxf7 {was not winning in view of the hanging f3
+knight!}) 28. b7 (28. Reb1 Qc6 29. b7 Rb8 30. Bxe5 dxc4 31. Bxb8 Rxb8 32. Qxa7
+{was a simpler win - something I only saw while Black was considering his 29th
+move.}) 28... Qxb7 29. Rxa7 Qb8 30. Rxf7 $1 Kxf7 31. Bxe5 Bxe5 32. Ncxe5+ Kg7
+33. Ng4 $1 {The finish of a long tactical line. The fact that White started a
+breakthrough on the queenside followed by a kingside attack was rather
+pleasing. The combination of the queen and 2 knights was simply overwhelming
+and Black had no chances to hold this.} Qb2 34. Qxh6+ Kh8 35. Nfe5 Rc7 36. exd5
+Qb4 37. Re4 Qc3 38. Kg2 (38. Nf6 $4 Qc1+ {would have been a really sad finish
+to the game.}) 38... Qc1 39. Rf4 Qc3 (39... exd5 40. Nxg6+) 40. Nxg6+ Kg8 41.
+Nf6+ Qxf6 (41... Nxf6 42. Qh8+ Kf7 43. Qh7#) 42. Rxf6 Nxf6 43. Qh8+ Kf7 44.
+Ne5+ Ke7 45. d6+ 1-0
