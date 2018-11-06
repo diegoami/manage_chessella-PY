@@ -1,0 +1,55 @@
+[Event "CCSCATL"]
+[Site "?"]
+[Date "2018.10.05"]
+[Round "6"]
+[White "Duncan, Andre Sr."]
+[Black "Potula , Kapish"]
+[Result "1-0"]
+[ECO "A47"]
+[WhiteElo "1479"]
+[BlackElo "2025"]
+[Annotator "Nastasio,Davide"]
+[PlyCount "87"]
+[SourceVersionDate "2018.04.22"]
+
+{Now we come to the most important game. The result would create the winner of
+the tournament.} 1. d4 e6 {I noticed Potula was unlucky, because he got Black
+twice in a row.} 2. Nf3 Nf6 3. e3 b6 4. Bd3 Bb7 5. Nbd2 d6 6. b3 Nbd7 7. Bb2
+Be7 8. c4 c5 9. Qc2 O-O 10. O-O Rc8 11. Rae1 d5 12. Qb1 {Obviously White
+removes the queen from the Rc8 fire!} h6 13. Ne5 cxd4 14. exd4 dxc4 15. bxc4
+Nxe5 16. Rxe5 Bd6 17. Re2 {At this point White has 3 minutes and 32 seconds,
+and Black has 4 minutes and 10 seconds.} Bxh2+ $4 $18 {Black took 6 seconds to
+decide on this sacrifice, also known as Greek gift. There is an entire book of
+games and exercises on such sacrifice, and often it is extremely difficult to
+see if it is correct in long time control games. In Blitz I guess nearly
+impossible, but at this point White began to think, and likely found the move
+which would refute it.} 18. Kxh2 {White took about 35 seconds to decide to
+take.} Ng4+ 19. Kg3 Qg5 $6 20. f4 $1 {Here White took another 20 seconds to
+verify the correctness of this move, and from this point on, he is winning.}
+Qf6 {Black took over 1 minute for this move, showing he didn't see Pf2-f4
+refuting the sacrifice.} 21. Kxg4 {Quite amazing to have the king so exposed,
+and Black cannot win!} h5+ 22. Kh3 (22. Kxh5 Qh6+ 23. Kg4 Qh2 {Obviously to
+take wasn't really good, also if White is still winning.}) 22... Rfd8 23. Be4 {
+White has 1 minute and 30 seconds left, and Black 2 minutes and 28 seconds.}
+Ba6 24. Qd3 Qe7 25. Rc1 Qd7 26. Kh2 f5 27. Bf3 g6 {this move creates a complex
+of weak dark squares which White will use to give checkmate.} 28. Qe3 {here we
+can see the beginning of transfering the pieces on the dark squares to enter
+the enemy castle and kill the king!} Re8 29. Ree1 {Notice how White, before
+launching the attack, cover his weaknesses.} Qe7 30. g3 (30. d5 $1 e5 31. fxe5
+Rcd8 32. Qd4 {White is winning.}) 30... Qf6 (30... h4 31. d5 hxg3+ 32. Kxg3 e5
+33. Bxe5 {White is winning.}) 31. Ba1 {Once more White, before attacking,
+prefers protect all hanging pieces, and avoid giving Black a chance to
+counter- attack.} Qd8 32. d5 exd5 33. Bxd5+ {The engine finds a checkmate in 8
+moves.} ({Komodo 11 64-bit:} 33. Qd4 Re5 34. Rxe5 Qf6 35. Re8+ Rxe8 36. Qxf6 d4
+37. Bxd4 Re5 38. Bxe5 Kh7 39. Qg7# {#7/25}) 33... Kh7 34. Qc3 Qc7 35. Nf3 (35.
+Qf6 {Komodo 11 64-bit:} Rg8 36. Re7+ Qxe7 37. Qxe7+ Kh6 38. Bf6 g5 39. fxg5+
+Rxg5 40. Bxg5+ Kg6 41. Qf6+ Kh7 42. Qh6# {#7/22}) 35... Bb7 36. Qf6 {By this
+move White has 35 seconds left, and Black has 1 minute.} Rcd8 ({Komodo 11
+64-bit:} 36... Bxd5 37. cxd5 Rg8 38. Rxc7+ Rxc7 39. Re7+ Rxe7 40. Qxe7+ Kh6 41.
+Ng5 b5 42. Qh7# {#6/29}) 37. Ng5+ ({Komodo 11 64-bit:} 37. Rxe8 Rxe8 38. Re1
+Bxd5 39. Rxe8 Kh6 40. Rh8+ Qh7 41. Qg5# {#5/35}) 37... Kh6 38. Nf7+ Qxf7 39.
+Bxf7 Rg8 40. Qg5+ Kh7 41. Re7 Rd2+ 42. Kg1 Rg2+ 43. Kf1 {White has 18 seconds
+left, Black 15.} Rh2 44. Bxg6# {This move is checkmate, but Black didn't see
+it, White neither. Black continued with Rg7, to which White played Rxg7, Black
+played Kh8 and finally White gave checkmate for the second time with Qd8.} 1-0
+

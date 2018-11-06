@@ -1,0 +1,119 @@
+[Event "Batumi Chess Olympiad | Open"]
+[Site "?"]
+[Date "2018.10.03"]
+[Round "9.1"]
+[White "Nisipeanu, Liviu-Dieter"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2661"]
+[BlackElo "2780"]
+[Annotator "Surya Sekhar Ganguly"]
+[PlyCount "110"]
+[EventDate "2018.??.??"]
+[SourceVersionDate "2018.09.24"]
+[WhiteTeam "Germany"]
+[BlackTeam "France"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "FRA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 {MVL mainly
+plays this move nowadays against English attack. It is not a difficult task to
+predict what MVL might play in the opening but it is challenging to out
+prepare him. Things get more difficult to actually win the game even after out
+preparing him as he is very tricky and able to swindle from difficult
+situations. In this game Dieter managed to do both. First out prepared him and
+then once he got advantage he kept control over the game throughout.} 7. Bg5 h6
+8. Bc1 Nf6 {That is modern chess nowadays! After playing three consecutive
+moves with same piece and getting it back to its initial square all white has
+achieve is now the black pawn is placed on h6 instead of h7. In pre-computer
+era such moves would have been considered as coffeehouse chess but thanks to
+strong computers our perspective has changed a lot and we now see such lines
+at top level. Is h6 is a weakness or a useful move? That depends on which
+setup white is going to take next. For instance, if he plays now Be2 then
+black will play e5 and surely then h6 will be useful as it stops Bg5.
+Basically, now if black can play e5 without concession then h6 is useful. If
+he has to play e6 then the debate will be on if h6 can be called as a
+potential weakness in future for kingside attack.} 9. Bc4 {The most popular
+follow up which makes a lot of sense as it practically forces black to opt for
+e6 setup. White can now try to prove that h6 can be a target.} (9. Bd3 {
+Grischuk played this twice. Once against Duda in online blitz and and once
+against MVL at Moscow GP 2017.} e5 (9... Nc6 10. Nxc6 bxc6 11. O-O {0-1 (45)
+Grischuk,A (2766)-Duda,J (2737) chess.com INT 2018}) 10. Nde2 Be7 11. O-O O-O
+12. Ng3 {1/2-1/2 (66) Grischuk,A (2750)-Vachier Lagrave,M (2795) Moscow 2017})
+9... e6 10. Bb3 Be7 11. Be3 (11. O-O {Magnus tried this against Grischuk in
+online blitz. This time Grischuk was on the black side.} O-O 12. f4 b5 {
+1/2-1/2 (38) Carlsen,M (2857)-Grischuk,A (2754) chess.com INT 2016}) 11... Nc6
+12. Nxc6 $5 $146 {Completely new direction. All the games that reached this
+position saw 12.f4. Judging by the time consumed I would guess this was cooked
+over the board.} bxc6 13. Qf3 {Such things would not have worked with the pawn
+on h7 as then black can simply castle without fearing any kind of kingside
+attack.} Qc7 $6 {A natural reaction for stopping e5 but it is due to this
+innocent looking move black king will now lack a safe place for rest of the
+game. It was time to bite the bullet and simply castle on kingside.} (13... O-O
+$1 {It does look a bit like inviting white for a quick kingside attack and
+hence so not easy to take this decision over the board. Even with the engines
+on I feel a bit skeptical about this whole process.} 14. g4 (14. O-O-O d5 {
+[%cal Ga6a4,Ge7b4] Black has his own way to create a quick counter play.})
+14... d5 $1 15. h4 (15. O-O-O Bb4 {Gets very complicated very fast and would
+require much depth to draw any conclusion. Numbers are 0.00 which doesn't mean
+much in a practical game but at least it shows that black is not getting
+crushed through.}) 15... Bb4 16. exd5 exd5 17. g5 Bg4 (17... Ng4 $5 {also
+doable}) 18. Qg2 Bh5 $1 19. gxf6 Qxf6 {gives black great compensation}) 14. Qg3
+$1 {[%csl Re8] A very nice move which will start a never-ending problem for
+black from now on. Where to put the king?} Bb7 (14... Kf8 $14 {Top choice of
+machine but for sure no one would like to play like this}) 15. O-O-O {Dieter
+plays most natural move. Black is unable to run to queenside now as then white
+can take on g7 and f7 will be hanging next. Computer insists that white could
+actually have just started to collect some pawns without fearing any counter
+attack by black.} (15. Qxg7 $1 Rg8 16. Qxh6 O-O-O 17. O-O-O c5 (17... d5 18.
+Bf4 $16) 18. Qf4 $1 $16) 15... g5 $6 {This just weakens the position further.
+It was already a tough position for black and now it just gets further worse.}
+(15... O-O-O 16. Qxg7 {[%csl Rf7]}) (15... Rg8 16. f4 d5 {Black remains worse
+but not as worse as it became after g5}) 16. h4 $1 {Charging immediately on
+the weakness.} gxh4 (16... g4 17. f3 gxf3 18. Qxf3 $16 {[%cal Gg2g4,Gg4g5]})
+17. Rxh4 O-O-O (17... h5 18. Na4 $1 {[%cal Ge3b6]} Rg8 (18... c5 19. Nxc5) 19.
+Qh2 $1 Ng4 20. Rxg4 $1 hxg4 (20... Rxg4 21. Bxe6 $1 $18) 21. Bb6 $16 {followed
+by Qh7 would be crushing}) 18. Rxh6 {White is not only a pawn up but also
+better from every other aspect.} Rxh6 19. Bxh6 c5 20. e5 {Dieter switches his
+play from direct attack to slow strategic play. There were faster and stronger
+ways than this.} (20. Bc4 $1 Nxe4 21. Nxe4 Bxe4 22. Bxa6+ Bb7 23. Bb5 $16) (20.
+f3 $5) 20... dxe5 (20... Rg8 21. exd6 (21. exf6 Rxg3 22. fxe7 Qxe7 23. fxg3 d5
+$14) 21... Rxg3 22. dxc7 Rxg2 23. Bf8 $3 {a nice little trick to keep the
+advantage.} Ng8 24. Na4 $1 $16 {[%csl Rc5]}) 21. Rxd8+ Bxd8 (21... Qxd8 22. Qg7
+) 22. Bc4 $16 {Material balance is even now. White in return enjoys a much
+better structure and with black's center broken there are no more pawn rolling
+ideas to be worried about.} Nd5 23. Bd2 {Once again Dieter choses the most
+solid approach. Not to create any weakness and play simply for black's
+weaknesses} (23. Qg8 {Engine way} Nxc3 24. bxc3 {[%cal Gh6g5]} Qe7 25. Be3 {
+I personally would also have not opted for this line even though it gives huge
+advantage.}) 23... Kb8 24. Qg8 (24. Na4 Ka7 25. Qg7 $1 {Queen on g7 is better
+than on g8 as it stops black's counter with e4} e4 $2 26. Bxd5 exd5 27. Nxc5
+Qxc5 28. Be3 {is the point of keeping the queen on g7 instead of g8}) 24... Ka7
+25. Na4 (25. g3 $16) 25... Qe7 (25... e4 {This was the chance to create little
+counter} 26. b3 $5 {is more human and still strong} (26. Bxd5 $1 {This counter
+intuitive move by computer would have been difficult to find.} exd5 27. g3 $1
+d4 28. Bf4 Qe7 29. Nxc5 e3 30. fxe3 dxe3 31. Nd3 $16) 26... e3 (26... Bf6 27.
+Qf8) 27. fxe3 Nf6 28. Qf8 Ne4 29. Bd3 Nxd2 30. Kxd2 Be7 {black is still
+clearly worse but the openness of white's king and having double bishop could
+have given some practical chance to swindle}) 26. b3 $1 {Keeps everything
+under control} Nb6 27. Nxb6 Bxb6 28. Qg7 e4 29. g4 $1 {Now that both bishops
+are locked it is time to advance on kingside and aim for the f7 pawn.} Bd5 30.
+g5 $1 {A nice little tactics.} Qb7 (30... Bxc4 31. g6 $1 $18 {being the point})
+31. Be3 Bxc4 32. bxc4 {[%csl Rb6,Rc5]} a5 33. a4 {Just being professional.} Qc7
+34. Qh7 {Black has too many weaknesses to cover.} Qb7 35. Kd1 {Bringing the
+king to a safer place before attacking further.} Qd7+ 36. Ke1 Qxa4 (36... Qb7
+37. Ke2 {would slowly lead to some sort of a zugzwang.}) 37. Qxf7+ (37. g6 $18)
+37... Ka6 38. Qxe6 {Once again the most human and safe choice.} (38. g6 {
+This is the strongest but can be played only if white sees a concrete way to
+stop black's perpetual.} Qxc2 39. Qd7 $1 {Only move. White takes away two very
+important square 'd3' and 'd1' which were essential to give any kind of
+perpetual. Now white keeping the queen on d7 white will simply queen his pawn.}
+a4 40. g7 Ba5+ 41. Kf1 Qxc4+ 42. Kg2 $18) 38... Qxc2 39. Qc8+ Ka7 40. Qd7+ {
+The key file. Once again d3 and d1 square are taken away from black leaving
+with no hope of perpetual.} Ka6 41. Qd5 (41. g6 Qxc4 42. g7 {was also winning})
+41... Ka7 42. g6 a4 43. Kf1 (43. g7 $4 Qc3+) 43... a3 44. g7 a2 45. g8=Q Qd3+ (
+45... a1=Q+ 46. Kg2 {leads to mate.}) 46. Kg2 Qxd5 47. Qxd5 a1=Q 48. Qd7+ $1 {
+first takes care of Qg7+} Ka6 49. Bxc5 Bxc5 50. Qb5+ Ka7 51. Qxc5+ Kb7 52. Qd5+
+Kb6 53. Qxe4 Qg7+ 54. Kf3 Qf6+ 55. Qf4 Qc6+ 1-0
+

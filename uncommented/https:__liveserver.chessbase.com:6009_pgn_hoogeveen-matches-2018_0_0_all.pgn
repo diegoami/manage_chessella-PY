@@ -1,0 +1,627 @@
+[Event "Hoogeveen Matches 2018"]
+[Site "Hoogeveen"]
+[Date "2018.10.21"]
+[Round "1"]
+[White "Shankland, Samuel"]
+[Black "Svidler, Peter"]
+[Result "1-0"]
+[ECO "E60"]
+[WhiteElo "2722"]
+[BlackElo "2756"]
+[Annotator "TA"]
+[PlyCount "105"]
+[EventDate "2018.10.21"]
+[EventType "swiss"]
+[EventCountry "NED"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,105,11,14,0,20,0,0,0,0,0,42,34,39,31,39,25,26,0,16,18,43,37,45,33,22,
+39,42,43,57,53,84,79,105,96,98,100,113,116,110,110,110,77,109,99,124,120,120,
+124,129,74,229,189,218,228,211,112,116,100,108,106,122,114,117,103,103,93,91,
+71,71,71,110,71,74,71,90,102,107,105,97,75,84,84,84,84,260,250,246,197,197,196,
+225,221,219,221,219,197,343,343]} 1. d4 Nf6 2. c4 g6 3. f3 c5 4. dxc5 e6 5. Be3
+b6 6. cxb6 {E60: King's Indian: Unusual lines and Fianchetto Variation without
+Nc3} axb6 7. Bg5 $146 ({Predecessor:} 7. Nc3 Bc5 8. Bxc5 bxc5 9. Qd6 Qe7 10.
+Qxe7+ Kxe7 11. e4 {1/2-1/2 (34) Bocharov,D (2595)-Swiercz,D (2665) Moscow 2016}
+) 7... h6 8. Bh4 {The position is equal.} d5 9. cxd5 exd5 10. e3 Bc5 11. Bb5+
+Bd7 $1 {[%cal Rd7b5]} 12. Bxd7+ Nbxd7 13. Nc3 O-O 14. Nge2 Qe8 15. Bf2 Bxe3 16.
+Bxe3 Qxe3 17. Qd4 $36 {[%mdl 2048] White has some pressure.} Qe7 18. O-O Rfc8
+19. Rfd1 Ne5 20. Nf4 (20. Qxb6 $6 Nc4 $11) 20... Rc4 21. Nfxd5 (21. Ncxd5 Nxd5
+22. Qxd5 Rac8 $14) 21... Nxd5 22. Qxd5 Ra5 23. Qd8+ Qxd8 24. Rxd8+ Kg7 25. Rad1
+Rc6 26. Rb8 Nc4 27. Rdd8 {Intending Ne4 and mate.} Kf6 28. b3 Ne5 29. Ne4+ (29.
+Nd5+ $142 Ke6 30. Nf4+ (30. Nxb6 $2 Rc1+ 31. Kf2 Rxa2+ 32. Kg3 Rcc2 $19) 30...
+Ke7 31. Re8+ Kd6 32. Rbd8+ Nd7 33. Re2) 29... Kf5 $2 (29... Ke6 $16) 30. Rd2
+Kf4 31. Kf2 Ng4+ 32. fxg4 ({White should try} 32. Ke2 $1 $18) 32... Kxe4 $18 {
+[%mdl 4096] Endgame KRR-KRR} 33. a4 Rac5 34. h3 Rc3 35. Re8+ Kf4 36. Rd4+ Kg5
+37. Re5+ Kf6 38. Rb5 Rc2+ 39. Kg3 Re6 40. Rd3 Kg7 41. Kh2 Rb2 42. h4 {[%cal
+Bh3h4,Bh4h5][%mdl 32]} Ree2 {[#]} 43. Rg3 $1 ({Don't play} 43. Rxb6 $6 Rxg2+
+44. Kh3 Rh2+ 45. Kg3 Rbg2+ 46. Kf3 Rf2+ 47. Ke3 Re2+ 48. Kd4 Rxh4 $11) 43...
+Re6 44. h5 Rd6 45. Rb4 g5 46. Rb5 f6 $2 (46... Re6 $16 {might work better.})
+47. Rc3 Re2 48. Rb4 Kf7 49. Rbc4 Ke6 {[#]} 50. Rc8 $1 {[%cal Rc8e8] Re8+ is
+the strong threat.} Rdd2 51. Rg3 Kf7 52. Rh8 Rf2 (52... Kg7 $142 53. Rb8 Rd6)
+53. Rh7+ {Precision: White = 75%, Black = 39%.} ({Weaker is} 53. Rxh6 Kg7 $16)
+1-0
+
+[Event "Hoogeveen Matches 2018"]
+[Site "Hoogeveen"]
+[Date "2018.10.21"]
+[Round "1"]
+[White "Fedoseev, Vladimir"]
+[Black "Van Foreest, Jorden"]
+[Result "1/2-1/2"]
+[ECO "E46"]
+[WhiteElo "2713"]
+[BlackElo "2617"]
+[Annotator "TA"]
+[PlyCount "132"]
+[EventDate "2018.10.21"]
+[EventType "swiss"]
+[EventCountry "NED"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,132,0,8,-22,-25,-18,14,16,20,21,18,10,24,24,23,-35,-6,-6,-6,-1,-2,-7,
+0,0,0,0,0,0,12,8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,-12,-12,-12,
+-8,-19,12,8,9,7,14,8,39,11,18,12,69,45,110,114,127,137,137,142,125,135,149,95,
+93,94,169,160,243,234,243,240,208,70,94,59,57,63,63,58,63,63,67,8,8,8,10,8,8,0,
+0,0,0,0,0,0,1,-8,0,-8,0,0,0,-8,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O
+5. Nge2 Re8 {LiveBook: 706 Games} 6. Bd2 {E46: Nimzo-Indian: Rubinstein: 4 e3
+0-0 5 Ne2 without early Bd3} (6. a3 Bf8 7. d5 d6 8. g3 exd5 9. cxd5 c5 10. Bg2
+Nbd7 11. O-O c4 12. Nd4 Nc5 13. Qe2 Nd3 14. b3 Nxc1 15. Rfxc1 cxb3 {1/2-1/2 
+(74) Caruana,F (2822)-So,W (2780) Saint Louis 2018}) 6... d5 7. Ng3 $146 ({
+Predecessor:} 7. cxd5 exd5 8. g3 a5 9. Bg2 Na6 10. O-O Bf8 11. a3 c6 12. h3 Nc7
+13. Qc2 {0-1 (36) Aleksandrov,A (2639)-Lopez Martinez,J (2570) Lugo 2009}) 7...
+c5 8. a3 Bxc3 9. Bxc3 cxd4 10. Qxd4 e5 11. Qd2 Nc6 {And now ...d4 would win.}
+12. b4 (12. cxd5 $11 Qxd5 13. Qxd5 Nxd5 14. Rc1) 12... Be6 13. b5 d4 14. bxc6 {
+[%cal Re3d4]} dxc3 15. Qxc3 bxc6 (15... Qc8 {looks sharper.} 16. cxb7 Qxb7 17.
+f3 Rac8 18. Bd3 h5) 16. Be2 Qc7 17. O-O Rab8 18. h3 h6 19. Rfd1 Red8 20. Bd3
+Nd7 21. Bf5 Bxf5 22. Nxf5 Nc5 23. Rxd8+ Rxd8 24. Qb4 Ne6 25. Rb1 Kh7 26. h4 Qd7
+27. Ng3 Qd3 28. Rc1 Qd2 29. Qb1+ Qd3 30. Qb4 Qd2 31. Qb1+ Qd3 32. h5 Qxb1 33.
+Rxb1 $11 {[%mdl 4096] Endgame KRN-KRN} Nc5 34. Nf5 Rd7 35. Rb8 g6 36. hxg6+
+fxg6 37. Nh4 Nd3 38. Rc8 c5 39. Rc6 Rg7 (39... Rf7 $11) 40. f3 h5 (40... e4 $1
+$14) 41. Kf1 $16 e4 42. fxe4 Re7 43. Nf3 ({Don't play} 43. Rxg6 $6 Rxe4 44. Rd6
+Rxe3 $11) 43... Kg7 44. Ke2 Rd7 45. Ng5 ({White should try} 45. e5) 45... Nc1+
+46. Kf3 Kh6 (46... Nd3 $16 47. Ne6+ Kh6) 47. Rxc5 $18 Nb3 (47... Rd1 $16 48.
+Nf7+ Kg7) 48. Rb5 Nd2+ 49. Kf4 Nxc4 {[#]} 50. Rb8 (50. e5 $1 $18) 50... Ne5 51.
+Rh8+ Kg7 52. Re8 Nd3+ 53. Kg3 $1 Kf6 54. Nf3 Re7 {[#]} 55. e5+ $1 {[%mdl 512]}
+Kf7 $11 {The position is equal.} (55... Nxe5 56. Rxe7) 56. Rxe7+ Kxe7 {KN-KN}
+57. Kh4 Nb2 $1 58. Nd2 Nd3 59. Nc4 Ne1 60. Kg3 Ke6 61. Na5 Nc2 62. Nc4 Ne1 63.
+a4 Nd3 64. Kh4 Ne1 ({Don't blunder} 64... Nxe5 $2 65. Nxe5 Kxe5 66. Kg5 $18)
+65. Kg3 Nd3 66. Kh4 Ne1 {Precision: White = 62%, Black = 66%.} ({Not} 66...
+Nxe5 $2 67. Nxe5 Kf5 68. Nc6 $18) 1/2-1/2
+
+[Event "Hoogeveen Matches 2018"]
+[Site "Hoogeveen"]
+[Date "2018.10.22"]
+[Round "2"]
+[White "Svidler, Peter"]
+[Black "Shankland, Samuel"]
+[Result "1-0"]
+[ECO "A35"]
+[WhiteElo "2756"]
+[BlackElo "2722"]
+[Annotator "TA"]
+[PlyCount "67"]
+[EventDate "2018.10.21"]
+[EventType "swiss"]
+[EventCountry "NED"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,67,22,43,0,0,0,16,0,0,0,44,10,58,49,31,55,35,17,26,38,73,43,93,43,
+191,205,200,178,266,137,149,141,262,278,275,265,370,385,370,362,298,60,145,116,
+375,370,558,442,710,713]} 1. c4 c5 2. Nf3 Nc6 3. Nc3 g6 4. e3 Nf6 5. d4 cxd4 6.
+exd4 d5 7. cxd5 Nxd5 8. Qb3 Nxc3 9. Bc4 e6 10. bxc3 Bd7 {[#] LiveBook: 22
+Partien. ...Sa5 ist eine echte Drohung.} 11. Bb5 {A35: Englische Eröffnung 
+(Symmetrische Variante)} ({Nicht} 11. Qxb7 $2 Rb8 $19) (11. Bd3 Na5 12. Qb1 Bg7
+13. h4 Rc8 14. h5 Bc6 15. Ng5 Bxg2 16. hxg6 Bxh1 17. gxf7+ Kd7 18. Qb4 Qb6 {
+0-1 (54) Grischuk,A (2766)-So,W (2780) Saint Louis 2018}) 11... a6 12. Be2 $146
+({Vorgänger:} 12. Bxc6 Bxc6 13. O-O Rc8 14. Ne5 Qd5 15. Nxc6 Qxc6 {0-1 (31)
+Pogosian,G (2201)-Shushpanov,V (2364) Soukhumi 2007}) 12... Na5 13. Qb1 {
+Die Stellung ist ausgeglichen.} Rc8 14. O-O f6 15. c4 b6 16. c5 bxc5 17. dxc5
+Bxc5 18. Bxa6 Rb8 19. Qc2 Qb6 20. Bd3 {Und weiter mit Lxg6+! wäre nett.} Ke7
+21. Bf4 Bd6 ({Natürlich nicht} 21... e5 $6 {[#]} 22. Nxe5 $1 {[%mdl 512]} fxe5
+23. Bxe5 $16) (21... Rbc8 $14) 22. Bxd6+ Qxd6 23. Rfd1 {Droht stark Lb5!} Qb6 (
+23... Rhc8 {kämpft weiter.} 24. Qd2 Ba4) 24. Rab1 ({Günstiger ist} 24. Qd2 $18)
+24... Qa7 $16 25. Qd2 Ba4 (25... Kf7 $16 26. Rxb8 Rxb8) 26. Rxb8 Rxb8 27. Qh6
+Rf8 28. Rc1 Rf7 29. Qf4 Nc6 30. Be4 $2 $40 {[%mdl 128] Schwarz muss sich nun
+genau verteidigen.} (30. Rc3 $18) 30... g5 (30... e5 $14 31. Qd2 Qd7) 31. Qd2
+Qb6 $2 {[%mdl 8192]} (31... Nd8 $16 {war angesagt.} 32. Rc8 Qb6) 32. Qc3 $18
+Kd7 (32... Rf8 $142 33. Rb1 (33. Bxh7 Rd8 $16) 33... Qa6) 33. Qd3+ Kc7 (33...
+Ke7 $142 34. Qc3 Rg7) 34. Qc4 {Precision: Weiß = 66%, Schwarz = 20%.} 1-0
+
+[Event "Hoogeveen Matches 2018"]
+[Site "Hoogeveen"]
+[Date "2018.10.22"]
+[Round "2"]
+[White "Van Foreest, Jorden"]
+[Black "Fedoseev, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[WhiteElo "2617"]
+[BlackElo "2713"]
+[Annotator "TA"]
+[PlyCount "96"]
+[EventDate "2018.10.21"]
+[EventType "swiss"]
+[EventCountry "NED"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,96,16,20,0,11,0,16,0,0,0,0,-25,0,0,33,-55,-53,-52,34,24,54,0,56,39,
+66,54,55,51,49,49,46,50,81,42,18,10,20,35,40,43,95,86,105,93,94,61,85,12,23,14,
+17,7,88,96,83,0,45,40,37,25,7,0,0,0,0,0,116,97,114,0,0,0,0,0,40,0,8,0,0,0,0,0,
+0]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. f4 Be7 8.
+Be3 O-O 9. Qd2 {B84: Sicilian Scheveningen: 6 Be2 a6, lines without early Be3}
+Qc7 (9... Nc6 10. O-O-O Qc7 11. g4 Nxd4 12. Qxd4 e5 13. Qd3 exf4 14. Bxf4 Bxg4
+15. Bxg4 Nxg4 16. Nd5 Qd8 17. Rhg1 Ne5 18. Bxe5 dxe5 19. Qg3 g6 20. Qxe5 {
+1/2-1/2 (33) Ivanchuk,V (2733)-Van Wely,L (2685) Novi Sad 2016}) 10. g4 d5 11.
+exd5 $146 ({Predecessor:} 11. e5 Ne4 12. Nxe4 dxe4 13. g5 Nd7 14. c3 b6 15. h4
+Rd8 16. h5 Nf8 {1-0 (26) Enders,G (1681)-Hoeck,R (1857) Hanau 2011}) 11... Bb4
+12. d6 Qxd6 13. Bf3 $1 Nd5 14. Bxd5 exd5 15. a3 (15. h3 $14) 15... Bxc3 $1 $15
+16. Qxc3 Bd7 (16... Bxg4 $15 17. h3 Bd7) 17. Rg1 Rc8 18. Qb4 ({Better is} 18.
+Qd2 $14) 18... Qc7 (18... Qxb4+ $11 19. axb4 Nc6 20. Nxc6 Bxc6) 19. O-O-O $14
+Re8 20. Nf5 {Ne7+ is the strong threat.} Nc6 21. Qc3 $1 {[%csl Gf5][%cal Rc3g7]
+} Bxf5 22. gxf5 {[%csl Gg1][%cal Rc3g7]} f6 $1 23. Rxd5 Kh8 24. Kb1 Rad8 25.
+Rgd1 (25. Rd3 {with more complications.} Rxd3 26. Qxd3 Qd8 27. Qb3 Qd7 28. Bc5)
+25... Rxd5 26. Rxd5 Qe7 27. Rd3 Qe4 (27... h6 $14) 28. Qb3 $1 $16 {[%cal Rb3b7]
+} Qe7 29. Bb6 h6 30. Re3 Qd7 31. Rxe8+ (31. Qd3 $16 Re7 32. Rxe7 Qxe7 33. Be3)
+31... Qxe8 $11 32. Qe6 Qh5 33. b4 Qd1+ (33... Kh7 $1 $11 {keeps the balance.})
+34. Kb2 $16 {Black must now prevent Qc8+.} Kh7 {[#]} 35. Qf7 ({White should
+play} 35. Qe4 $1 $16) 35... Nd4 36. Qg6+ Kh8 37. Qe8+ Kh7 38. Qg6+ Kh8 39. Qe8+
+Kh7 40. Qe4 Nc6 (40... Ne2 $11 {remains equal.}) 41. a4 Qd7 {[#]} 42. b5 (42.
+Bc5 $1 $16) 42... axb5 $11 43. axb5 Ne7 44. c4 Nxf5 45. Kc3 Kg6 {The position
+is equal.} 46. Bc5 Qd1 47. Qg2+ Kh7 48. Qxb7 {And now Qe4 would win.} Qc1+ {
+Precision: White = 49%, Black = 42%.} 1/2-1/2
+
+[Event "Hoogeveen Matches 2018"]
+[Site "Hoogeveen"]
+[Date "2018.10.23"]
+[Round "3"]
+[White "Shankland, Samuel"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "A49"]
+[WhiteElo "2722"]
+[BlackElo "2756"]
+[Annotator "TA"]
+[PlyCount "55"]
+[EventDate "2018.10.21"]
+[EventType "swiss"]
+[EventCountry "NED"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 22,55,19,22,36,43,44,31,68,69,79,83,86,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 c6 5. Bg2 d5 6. b3 dxc4 7.
+bxc4 c5 8. Bb2 cxd4 9. Nxd4 O-O 10. O-O Nc6 {A49: 1 d4 Nf6 2 Nf3 g6 3 g3:
+Anti-King's Indian systems} 11. Nxc6 bxc6 12. Nd2 {LiveBook: 3 Games} Bg4 $146
+({Predecessor:} 12... Qc7 13. Qa4 Rb8 14. Nb3 Bg4 15. Bc3 Rfc8 16. h3 Bd7 17.
+Ba5 Qe5 18. Rad1 {0-1 (32) Rapport,R (2698)-Grischuk,A (2750) chess.com INT
+2017}) 13. Bxc6 Rc8 14. Bf3 {Black must now prevent Bxf6.} Bxf3 15. exf3 Qd3 {
+[#]} 16. Rc1 $1 Rfd8 17. Bc3 (17. Nb3 $16) 17... Bh6 $1 $36 {[%cal Rh6d2][%mdl
+2048] The position is equal. Black has some pressure.} 18. f4 Ne4 $1 {[%cal
+Re4c3]} 19. Nxe4 Qxe4 20. Qa4 Rxc4 21. Qxa7 Ra8 22. Qd7 Rxa2 23. Rfe1 Qf3 24.
+Bd4 Rxc1 25. Rxc1 Bf8 26. Rc8 {[#] Rxf8+! would kill now.} Ra8 27. Rxa8 Qxa8
+28. Be3 {Precision: White = 50%, Black = 71%.} 1/2-1/2
+
+[Event "Hoogeveen Matches 2018"]
+[Site "Hoogeveen"]
+[Date "2018.10.23"]
+[Round "3"]
+[White "Fedoseev, Vladimir"]
+[Black "Van Foreest, Jorden"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[WhiteElo "2713"]
+[BlackElo "2617"]
+[Annotator "TA"]
+[PlyCount "103"]
+[EventDate "2018.10.21"]
+[EventType "swiss"]
+[EventCountry "NED"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,103,0,0,12,0,8,2,22,27,21,-8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,-12,-7,-8,0,-8,-8,-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4
+5. Bg2 c5 6. O-O Nc6 7. dxc5 Qxd1 {E04: Open Catalan: 5 Nf3} 8. Rxd1 Bxc5 9.
+Nfd2 Na5 10. Na3 Bxa3 11. bxa3 {LiveBook: 14 Games. next Bb2 is good for White.
+} O-O 12. Ne4 Nxe4 13. Bxe4 e5 14. Bb2 Re8 {[#]} 15. f3 $146 {The position is
+equal.} ({Predecessor:} 15. Bc3) 15... f5 16. Bd5+ Be6 17. Bxe6+ Rxe6 18. Rd7
+Nc6 19. Rad1 Re7 20. Rxe7 Nxe7 $11 {[%mdl 4096] Endgame KRB-KRN} 21. Rd7 Kf7
+22. Rxb7 Ke6 23. Rb5 Nc6 24. Rc5 Rb8 $1 {[#] And now ...Kd6 would win.} 25. Bc1
+Nd4 26. Kf2 Rb1 27. Rxc4 Ra1 28. Bb2 Rxa2 29. Rb4 Nc2 30. Rb7 g6 31. f4 exf4
+32. gxf4 Nxa3 33. Bd4 a6 34. Rxh7 Nb5 35. Bh8 Nd6 36. Rg7 Ne4+ 37. Kf1 Kf6 38.
+Ra7+ Ke6 39. Rg7 Kf6 40. Rb7+ Ke6 41. Rb6+ Kf7 42. Be5 Nd2+ 43. Ke1 Ne4 44.
+Rb7+ Ke6 45. Rb6+ Kf7 46. h4 Ra3 47. Rb7+ Ke6 48. Kd1 a5 49. Rb6+ Kf7 50. Rb7+
+Ke6 51. Rb6+ Kf7 52. Rb7+ {Precision: White = 88%, Black = 69%.} 1/2-1/2
+
+[Event "Hoogeveen Matches 2018"]
+[Site "Hoogeveen"]
+[Date "2018.10.25"]
+[Round "4"]
+[White "Svidler, Peter"]
+[Black "Shankland, Samuel"]
+[Result "1-0"]
+[ECO "D29"]
+[WhiteElo "2756"]
+[BlackElo "2722"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2018.10.21"]
+[EventType "swiss"]
+[EventCountry "NED"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 25,61,-14,-23,-15,8,5,47,11,33,0,0,0,56,30,218,240,217,234,192,201,496,
+472,480,481,1025,329,926,922,910,896,29979,29980,29980,29981,29979,29980,29986,
+5414]} 1. Nf3 d5 2. e3 Nf6 3. c4 e6 4. Nc3 dxc4 5. Bxc4 a6 6. O-O b5 7. Bb3 Bb7
+8. d4 Nbd7 9. Qe2 c5 10. Rd1 Qb8 11. e4 cxd4 12. Nxd4 Bd6 13. g3 O-O {LiveBook:
+6 Partien. D29: Angenommenes Damengambit (Hauptvariante 7.De2 nebst Sbd7)} 14.
+f3 {[#]} Rc8 $146 ({Vorgänger:} 14... Nc5 15. Bc2 Rd8 16. Be3 Qc7 17. a3 Rac8
+18. Rd2 Ncd7 19. Rad1 b4 20. axb4 Bxb4 21. Rc1 {0-1 (28) Meyer,M (2348)
+-Guliyev,N (2510) Germany 2011}) 15. Be3 Nf8 {Die Stellung ist ausgeglichen.}
+16. Rac1 h5 17. Qd2 {Droht stark Sxe6.} Rd8 18. Nce2 h4 (18... Bc7 $11) 19. Bg5
+$14 {Und weiter mit Lxf6 wäre nett.} ({Ein No Go ist} 19. gxh4 Bxh2+ 20. Kg2 (
+20. Kf1 $2 e5 $17) 20... Ng6 $15) 19... hxg3 $2 (19... Be7 $11) 20. Bxf6 $1 $18
+gxf6 (20... gxh2+ 21. Kh1 $16) 21. Qh6 $1 Be5 {[#]} ({Und nicht} 21... gxh2+
+22. Kh1 $16) 22. Kh1 $1 $40 {[%mdl 128] Weiss hat starken Angriff.} g2+ $2 (
+22... Nh7 {war angesagt.}) 23. Kxg2 Bxd4 24. Nxd4 ({Nicht} 24. Rxd4 Rxd4 25.
+Nxd4 Qe5 $18) 24... Qe5 {[#]} (24... Rxd4 $142 25. Rxd4 Qe5) 25. Kh1 $2 (25.
+Nf5 $1 {[%mdl 512]} exf5 26. Kh1 Rxd1+ 27. Rxd1) 25... Bxe4 $2 (25... Rxd4 26.
+Rxd4 Qxd4) 26. Rg1+ Bg6 {[#]} 27. Nxe6 $1 {[%mdl 512]} fxe6 28. Rxg6+ {Weiß
+setzt Matt.} Nxg6 29. Qxg6+ Kf8 30. Qh6+ Ke7 31. Qh7+ {Precision: Weiß = 63%,
+Schwarz = 25%.} (31. Qg7+ $142 Ke8 32. Bc2 Rdc8 33. Bg6+ Kd8 34. Rd1+ Qd5 35.
+Rxd5+ exd5 36. Bf5) 1-0
+
+[Event "Hoogeveen Matches 2018"]
+[Site "Hoogeveen"]
+[Date "2018.10.25"]
+[Round "4"]
+[White "Van Foreest, Jorden"]
+[Black "Fedoseev, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[WhiteElo "2617"]
+[BlackElo "2713"]
+[Annotator "TA"]
+[PlyCount "138"]
+[EventDate "2018.10.21"]
+[EventType "swiss"]
+[EventCountry "NED"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,138,32,24,30,35,42,-7,-11,-9,-17,-31,-27,-59,-18,-16,-35,-82,0,-85,
+-68,-121,-93,-91,-143,-97,-85,-88,-85,-112,-108,-105,-92,-147,-60,-60,-60,-58,
+-58,-69,-59,-56,-59,-62,-62,-112,-55,-51,-33,-39,-39,-39,-33,-33,-33,-33,-34,
+-39,-30,-29,-22,-25,-27,-39,-28,-70,-70,-70,-69,-83,-69,-87,-86,-86,-87,-97,
+-87,-91,-70,-74,-68,-80,-58,-77,-61,-68,-69,-68,-50,-69,-69,-70,-70,-69,-69,
+-71,-69,-70,-68,-66,-8,-8,0,0,0,0,0,-8,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 c5 2.
+Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. Be3 Qc7 8. Qd2 b5 9. f3 {
+B84: Sicilian Scheveningen: 6 Be2 a6, lines without early Be3} Nbd7 (9... Bb7
+10. a4 b4 11. Na2 d5 12. e5 Nfd7 13. f4 Nc5 14. O-O Ne4 15. Qe1 Qb6 16. a5 Qxa5
+{1/2-1/2 (41) Sjugirov,S (2652)-Navara,D (2737) Batumi 2018}) 10. a3 h5 11.
+O-O-O {LiveBook: 3 Games. White is slightly better.} Bb7 12. Kb1 Be7 13. h4
+$146 ({Predecessor:} 13. Ncxb5 axb5 14. Nxb5 Qb8 15. Nxd6+ Kf8 16. Qb4 Bc6 17.
+Qxb8+ Rxb8 {1/2-1/2 (41) Romanov,R (2393)-Zemlyanov,S (2380) ICCF email 2011})
+13... O-O 14. Bg5 Rfc8 15. Bd3 Rab8 16. Rh3 Ba8 17. Rg3 Ne5 18. Bh6 Ne8 (18...
+g6 $1 $17) 19. Bg5 (19. Bxg7 $11 Nxg7 20. Qh6) 19... Bf8 20. f4 (20. Nce2 $1
+$15) 20... Nxd3 21. Rxd3 b4 22. axb4 f6 23. Nxe6 Qc4 24. Nxf8 Qxb4 {[%csl Gb8]
+[%cal Rb4b2]} 25. b3 Kxf8 26. Bh6 {[#]} (26. Kb2 $142) 26... Bxe4 ({Much
+weaker is} 26... gxh6 $6 27. e5 $15) (26... a5 $1 $17 {White must now prevent .
+..a4.} 27. e5 (27. f5 a4 $17) 27... a4 28. exf6 Nxf6) 27. Nxe4 $15 Qxe4 28. f5
+$1 gxh6 29. Qxh6+ Ng7 $1 30. Qxf6+ Kg8 31. Qxd6 Qxf5 32. Qd5+ {[#]} Qxd5 (32...
+Kh7 $1 $17 33. Qxf5+ Nxf5) 33. Rxd5 Rc6 {Strongly threatening ...Rg6.} 34. g4
+hxg4 35. Rg5 {Threatens to win with Rd7.} Kh7 {Hoping for ...Rb4.} 36. Rxg4 Kh6
+37. Rd5 Rf8 38. Kb2 Rf2 39. Rc4 Re6 40. Rdc5 Rff6 41. b4 Rb6 42. b5 Ne6 (42...
+axb5 $2 43. Rb4 $17) 43. Rc6 Rxb5+ 44. Ka3 Rf3+ 45. c3 Re3 {And now ...Re1
+would win.} 46. Rxa6 Kg6 47. Rcc6 Kf5 48. Rab6 Ra5+ 49. Kb4 Ra1 50. Rb5+ Kg4
+51. h5 Rh1 52. Ka5 Nf4 53. Kb6 Rd3 54. h6 Re3 55. Rb4 Kg3 {...Nd5+ is the
+strong threat.} 56. c4 Ne6 57. c5 Rxh6 58. Rc8 Nf4+ 59. Kb7 Re7+ (59... Rh7+
+$15 60. Kb8 Ng6) 60. Kb8 $11 {The position is equal.} Nd5 61. Rb3+ Kf4 62. c6
+Ke5 63. c7 Rd6 64. Rh8 Rxc7 65. Rh5+ Kd4 {[%cal Rd6d8] [#]} 66. Rxd5+ $1 {
+[%mdl 512]} Rxd5 (66... Kxd5 67. Kxc7) 67. Kxc7 Rc5+ 68. Kb6 Rc3 69. Rxc3 Kxc3
+{Precision: White = 61%, Black = 54%.} 1/2-1/2
+
+[Event "Hoogeveen Matches 2018"]
+[Site "Hoogeveen"]
+[Date "2018.10.26"]
+[Round "5"]
+[White "Shankland, Samuel"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "D79"]
+[WhiteElo "2722"]
+[BlackElo "2756"]
+[Annotator "TA"]
+[PlyCount "48"]
+[EventDate "2018.10.21"]
+[EventType "swiss"]
+[EventCountry "NED"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,48,27,21,27,18,18,54,15,17,0,0,5,16,0,0,-8,0,-31,0,0,0,0,0,0,0,0,0,
+-4,0]} 1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 c6 5. Nc3 d5 6. cxd5 cxd5 7. Ne5 O-O
+8. Bg2 b6 9. O-O Bb7 10. Qa4 {D79: Fianchetto Grünfeld: Symmetrical Variation 
+(6 0-0 c6 7 cxd5 cxd5)} a6 11. Bf4 (11. Bg5 Ne4 12. Be3 Nxc3 13. bxc3 b5 14.
+Qb3 Nd7 15. a4 Nxe5 16. dxe5 Bxe5 17. axb5 axb5 18. Qxb5 Bxc3 19. Rac1 Ba6 20.
+Qxd5 Qxd5 21. Bxd5 Rac8 {1/2-1/2 (21) Xiong,J (2652)-Vachier Lagrave,M (2795)
+chess.com INT 2017}) 11... e6 {LiveBook: 5 Games} 12. Rfc1 Nfd7 13. Nf3 {[#]}
+Qe7 $146 ({Predecessor:} 13... Nc6 14. e4 b5 15. Qd1 Ne7 16. e5 Nb6 17. Qd2 Nc4
+{1/2-1/2 (58) Raznikov,D (2506)-Xiong,J (2609) Dallas 2016}) 14. Qd1 Rc8 15.
+Qd2 Nf6 16. Ne5 Nbd7 17. a4 Nxe5 18. Bxe5 Bf8 19. Qd1 Bh6 20. Bxf6 {The
+position is equal.} Qxf6 21. e3 Qd8 22. Qb3 Bf8 23. Ne2 Rxc1+ 24. Rxc1 Rc8 {
+Precision: White = 61%, Black = 42%.} 1/2-1/2
+
+[Event "Hoogeveen Matches 2018"]
+[Site "Hoogeveen"]
+[Date "2018.10.26"]
+[Round "5"]
+[White "Fedoseev, Vladimir"]
+[Black "Van Foreest, Jorden"]
+[Result "1/2-1/2"]
+[ECO "B91"]
+[WhiteElo "2713"]
+[BlackElo "2617"]
+[Annotator "TA"]
+[PlyCount "124"]
+[EventDate "2018.10.21"]
+[EventType "swiss"]
+[EventCountry "NED"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,124,14,12,12,29,31,15,20,12,14,14,14,13,18,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,-72,0,0,0,0,0,-12,-12,-72,-73,-83,-70,-73,0,-87,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6
+6. h3 g6 7. g3 Bg7 8. Bg2 O-O 9. O-O Nc6 10. Be3 {LiveBook: 43 Games. B91:
+Sicilian Najdorf: 6 g3} Nxd4 (10... Nd7 11. b3 Nxd4 12. Bxd4 Bxd4 13. Qxd4 b6
+14. Nd5 Bb7 {1/2-1/2 (40) Carlsen,M (2832)-Nakamura,H (2785) Stavanger 2017
+CBM 179 [Ramirez Alvarez,Alejandro]}) 11. Bxd4 b5 $146 ({Predecessor:} 11...
+Be6 12. Re1 Rc8 13. Nd5 Bxd5 14. exd5 Re8 15. Re2 Nd7 16. Bxg7 Kxg7 17. Qd4+
+Nf6 {1-0 (28) Mista,A (2609)-Areshchenko,A (2701) Warsaw 2014}) 12. Nd5 {
+White is slightly better.} Bb7 13. Bxf6 (13. Qd2 {feels hotter.} Nd7 14. Bxg7
+Kxg7 15. a4 Bxd5 16. exd5 Qb6 17. Rfe1) 13... Bxf6 14. Nxf6+ exf6 15. c3 Re8
+16. Re1 Re6 17. Re3 Qc7 18. Qd2 Rae8 {[%cal Rb7e4]} 19. Rae1 Bc6 20. h4 Qb7 21.
+Bh3 (21. Qd4 {is more complex.} f5 22. exf5 Rxe3 23. Rxe3 Rxe3 24. Qxe3 Bxg2
+25. f6) 21... Rxe4 22. Rxe4 Rxe4 23. Rxe4 Bxe4 24. Qxd6 Kg7 25. Qd7 Qb6 $1 26.
+a3 h5 27. Bf1 Qc5 28. Be2 Bc6 29. Qd3 Bb7 30. Kf1 Qc6 {[%cal Rc6h1] [#]} 31. f3
+Qe6 {...Qh3+ is the strong threat.} 32. Kf2 Qh3 {Strongly threatening ...Qh2+.}
+33. Bf1 Qe6 34. Qe3 Qa2 35. Qd2 Qb3 36. Be2 Qe6 37. Qf4 Qa2 38. Qb4 Bd5 39. Qd6
+Be6 40. Qxa6 Qxb2 {Hoping for ...Bc4.} 41. Qxb5 Qxa3 42. Qb4 Qa1 43. Qd4 (43.
+Bf1 $11 {remains equal.}) 43... Qb2 (43... Qh1 $17 {Threatens to win with ...
+Qh2+.} 44. Qd6 Qh2+ 45. Kf1 Bh3+ 46. Ke1 Qg1+ 47. Kd2 Qh2) 44. Qb4 Qd2 45. Qc5
+Qc1 46. Qe3 Qh1 {And now ...Qh2+ would win.} 47. Qf4 (47. f4 $1 $11) 47... Qh2+
+$17 48. Ke1 Qg1+ 49. Kd2 Qa1 (49... Qf2 $17 50. Qc7 Bd5) 50. Qb4 {[#]} (50. g4
+$11) 50... Qg1 (50... Qh1 $1 $17 51. Qb8 Qh2) 51. g4 $11 {The position is
+equal.} hxg4 52. fxg4 Qg3 53. h5 $1 Qe5 54. Qd4 Qxd4+ 55. cxd4 {[%mdl 4096]
+Endgame KB-KB} f5 56. gxf5 Bxf5 57. hxg6 fxg6 58. Bd3 Kf6 59. Bxf5 gxf5 60. Ke3
+Ke6 61. Kf4 Kd5 62. Kxf5 Kxd4 {Precision: White = 69%, Black = 82%.} 1/2-1/2
+
+[Event "Hoogeveen Matches 2018"]
+[Site "Hoogeveen"]
+[Date "2018.10.27"]
+[Round "6"]
+[White "Svidler, Peter"]
+[Black "Shankland, Samuel"]
+[Result "1/2-1/2"]
+[ECO "D78"]
+[WhiteElo "2756"]
+[BlackElo "2722"]
+[Annotator "TA"]
+[PlyCount "92"]
+[EventDate "2018.10.21"]
+[EventType "swiss"]
+[EventCountry "NED"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,92,15,3,24,22,23,35,31,20,15,18,20,6,8,6,8,11,11,11,10,11,11,11,11,
+10,11,5,8,8,8,8,8,8,8,8,5,6,6,5,16,4,0,0,17,0,0,9,25,25,37,37,37,37,37,37,39,
+39,39,37,37,37,37,37,66,37,66,37,43,37,37,37,37,0,38]} 1. c4 {CB} g6 2. d4 Nf6
+3. g3 c6 4. Bg2 d5 5. Qa4 dxc4 6. Qxc4 Bg7 7. Nf3 O-O 8. O-O Bf5 9. Nc3 Nbd7
+10. Qb3 {D78: Fianchetto Grünfeld: 6 0-0 c6} Qb6 11. Re1 {LiveBook: 3 Games} a5
+$146 ({Predecessor:} 11... Qxb3 12. axb3 Be6 13. b4 Nd5 14. b5 Nb4 15. bxc6
+bxc6 16. Ra5 c5 17. Ng5 cxd4 18. Nxe6 fxe6 19. Bxa8 dxc3 20. bxc3 Bxc3 {
+1/2-1/2 (41) Giri,A (2797)-Vachier Lagrave,M (2775) Tbilisi 2015 CBM 165 [CB]})
+12. e4 {White has an edge.} Qxb3 $1 13. axb3 Be6 14. Bf4 h6 15. h3 g5 16. Bc7
+Rfc8 17. Bxa5 b6 18. Bb4 Rxa1 $1 19. Rxa1 c5 20. dxc5 bxc5 21. Ba3 Rb8 22. Nd2
+Bxb3 23. Nxb3 Rxb3 24. Rd1 e6 25. Bf1 Rb8 26. Bb5 Ne5 27. Bxc5 {[#] Black must
+now prevent Bd6.} Bf8 28. Ba7 Rb7 29. Bd4 Nf3+ 30. Kg2 Nxd4 31. Rxd4 Bc5 32.
+Rd8+ Kg7 33. e5 Nd5 (33... Nh7 {looks sharper.}) 34. Nxd5 {Nf6 is the strong
+threat.} exd5 35. Rxd5 Rxb5 {[#]} 36. b4 $1 {[%cal Rb4c5][%mdl 512]} Rxb4 {
+Hoping for ...Bb6.} 37. Rxc5 $14 {[%mdl 4096] Endgame KR-KR} Re4 38. Kf3 Ra4
+39. Ke3 Rb4 40. Ra5 Kg6 41. Ra6+ Kg7 42. Rf6 Ra4 43. Kf3 Rb4 44. Kg2 h5 45. Rf5
+Kg6 46. Rf6+ Kg7 {Precision: White = 68%, Black = 86%.} 1/2-1/2
+
+[Event "Hoogeveen Matches 2018"]
+[Site "Hoogeveen"]
+[Date "2018.10.27"]
+[Round "6"]
+[White "Van Foreest, Jorden"]
+[Black "Fedoseev, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2617"]
+[BlackElo "2713"]
+[Annotator "TA"]
+[PlyCount "132"]
+[EventDate "2018.10.21"]
+[EventType "swiss"]
+[EventCountry "NED"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,132,4,-1,4,0,4,4,10,6,5,20,11,4,14,0,0,-1,0,0,0,0,7,2,24,1,5,10,9,0,
+0,0,0,0,0,0,20,-8,-3,-29,-26,-17,-17,-25,-25,-25,-25,-25,-25,-25,-22,-49,-49,
+-54,-49,-49,-52,-49,-20,-36,-8,-15,-12,-13,-12,-16,-20,-22,-17,-18,-20,-35,-20,
+-24,-12,-12,-12,-12,-32,-32,-12,-14,-12,-20,-26,-36,-3,-24,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4
+Nf6 5. Nc3 a6 6. Be2 e5 7. Nf3 Be7 8. Bg5 Be6 {B92: Sicilian Najdorf: 6 Be2} (
+8... Nbd7 9. a4 h6 10. Be3 Ng4 11. Bc1 Ngf6 12. O-O Nc5 13. Nd2 Be6 14. b3 O-O
+15. Bb2 Qc7 16. Bf3 Rfd8 {0-1 (72) Grischuk,A (2766)-Vachier Lagrave,M (2779)
+Saint Louis 2018}) 9. Bxf6 Bxf6 10. Qd2 {LiveBook: 5 Games} O-O 11. O-O Qc7 12.
+Rfd1 $146 ({Predecessor:} 12. Nd5 Bxd5 13. Qxd5 Nd7 14. c3 Be7 15. Nd2 Nf6 16.
+Qd3 {1/2-1/2 (78) Zhao,J (2616)-Gao,R (2543) China 2017}) 12... Be7 13. Nd5
+Bxd5 $1 14. Qxd5 Nd7 15. Nd2 {[%cal Bf3d2,Bd2f1,Bf1e3,Be3d5][%mdl 32]} b5 16.
+c4 b4 (16... Nf6 $5 17. Qd3 $8 Rfc8 $11) 17. g3 a5 18. Nf1 g6 19. h4 Kh8 20.
+Ne3 Nc5 21. Bg4 a4 22. Bf3 b3 23. Qd2 a3 24. Nd5 Qb7 25. bxa3 Rxa3 {[#] White
+must now prevent ...b2.} 26. Rab1 Rfa8 27. axb3 Rxb3 28. Rxb3 Qxb3 29. Kg2 Ra3
+30. Qe3 Qxe3 31. Nxe3 Kg7 32. Nd5 Bd8 33. Ne3 Bc7 34. Rd2 h5 35. Kf1 Kf8 36.
+Kg2 Bb8 37. Nd5 Ke8 38. Re2 Ra4 39. Rb2 Ba7 40. Nc3 Ra1 {[#] And now ...Nd3
+would win.} 41. Rd2 Ke7 42. Rd1 Ra3 43. Nb5 Ra6 44. Rd2 Ne6 45. Nc3 Bd4 (45...
+Kd7 {is more complex.} 46. g4 Bd4 47. Nd5 hxg4 48. Bxg4 Ra3) 46. Ra2 Rxa2 47.
+Nxa2 $11 {[%mdl 4096] Endgame KBN-KBN} Nc5 48. Nb4 Kd8 49. Kf1 Nb3 50. Ke2 Bc5
+51. Nd3 Kc7 52. Bg2 Na5 53. Nxc5 {The position is equal.} dxc5 {KB-KN} 54. Kd3
+Nc6 55. Bh3 Nd4 56. Ke3 Kd6 57. Bc8 Ke7 58. Bb7 f6 59. Bc8 g5 60. Bf5 Kf7 61.
+Bd7 Kg7 62. Be8 Kh6 63. Bd7 Kg6 64. Be8+ Kh6 65. Bd7 Kg6 66. Be8+ Kh6 {
+Precision: White = 76%, Black = 63%.} 1/2-1/2
+
+[Event "Hoogeveen Matches 2018"]
+[Site "Hoogeveen"]
+[Date "2018.10.27"]
+[Round "7"]
+[White "Fedoseev, Vladimir"]
+[Black "Van Foreest, Jorden"]
+[Result "0-1"]
+[ECO "A01"]
+[WhiteElo "2713"]
+[BlackElo "2617"]
+[Annotator "TA"]
+[PlyCount "60"]
+[EventDate "2018.10.21"]
+[EventType "swiss"]
+[EventCountry "NED"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,60,13,20,17,16,29,31,35,30,21,19,31,22,54,49,75,75,70,62,62,64,79,52,
+104,94,136,133,106,90,99,46,108,112,199,208,237,68,79,50,86,71,191,72,139,46,
+60,39,42,8,7]} 1. b3 e5 2. Bb2 Nc6 3. e3 g6 4. c4 Bg7 5. Nf3 Nge7 (5... d6 6.
+d4 exd4 7. Nxd4 Nxd4 8. Bxd4 Nf6 9. Be2 O-O 10. O-O Re8 11. Bf3 c6 {1-0 (55)
+Fedoseev,V (2707)-Vitiugov,N (2730) Satka 2018}) 6. d4 {A01:
+Nimzowitsch-Larsen Opening} exd4 7. Nxd4 {LiveBook: 3 Games} O-O 8. Be2 Nxd4 9.
+Bxd4 d5 $146 ({Predecessor:} 9... Bxd4 10. Qxd4 Nf5 11. Qb2 d5 12. cxd5 Nh4 {
+1-0 (30) Vittorino,C (2315)-Guerrero,J (2225) Medellin 2011}) 10. Bxg7 Kxg7 11.
+Qd4+ Kg8 12. Nc3 {[%cal Rc3d5]} Be6 13. Rd1 {[%cal Rc4d5]} dxc4 14. Qc5 $36 {
+[%mdl 2048] White is on the roll.} Qe8 15. Ne4 {Black must now prevent Nf6+.}
+f6 $1 16. Bxc4 Nc6 17. O-O Qf7 ({Black should try} 17... b6 $14 18. Qb5 a6) 18.
+Bb5 $16 Ne5 19. f4 Ng4 20. h3 Nh6 21. Qc3 (21. g4 $16) 21... a6 {[#]} (21... c6
+$14 22. Nd6 Qe7) 22. Be2 $1 Rae8 (22... Qe7 $16 {might work better.}) 23. Nc5
+$18 Kh8 24. e4 $2 (24. Nxb7 $18 {Strongly threatening e4.} Bd5 25. Bxa6) 24...
+Bc8 $1 $14 25. Bf3 Qe7 26. Rfe1 Nf7 {[#]} (26... Qg7 $16 {was called for.}) 27.
+Nd3 (27. Bg4 $1 $18 {is more deadly.}) 27... Rd8 ({Better is} 27... c6) 28. Rc1
+(28. e5 $16 fxe5 29. Nxe5 (29. fxe5 Ng5 $11) 29... Nxe5 30. Rxd8 (30. Qxe5+
+Qxe5 31. fxe5 Kg7 $11) (30. fxe5 Rxd1 31. Rxd1 c6 $11) 30... Rxd8 31. Rxe5 (31.
+Qxe5+ Qxe5 32. Rxe5 b6 $16) (31. fxe5 Kg8 $14)) 28... c6 29. e5 fxe5 30. fxe5 {
+And now e6+ would win.} Ng5 {[%mdl 32768] Precision: White = 41%, Black = 36%.
+. Loss on Time!?} 0-1
+
+[Event "Hoogeveen Matches 2018"]
+[Site "Hoogeveen"]
+[Date "2018.10.27"]
+[Round "8"]
+[White "Van Foreest, Jorden"]
+[Black "Fedoseev, Vladimir"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "2617"]
+[BlackElo "2713"]
+[Annotator "TA"]
+[PlyCount "110"]
+[EventDate "2018.10.21"]
+[EventType "swiss"]
+[EventCountry "NED"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,110,53,54,62,52,99,91,102,32,19,13,36,23,75,74,77,76,82,66,75,75,75,
+-6,224,202,210,193,191,172,119,53,80,80,143,143,145,140,144,135,119,120,144,
+144,144,144,141,119,163,125,152,106,118,105,107,118,165,172,175,160,168,131,
+215,202,193,197,244,156,175,181,162,31,626,586,476,187,183,168,149,-24,-24,-26,
+-27,-375,-358,-713,-702,-689,-628,-647,-655,-29983,-29984,-29984,-29985]} 1. e4
+d6 2. d4 g6 3. Nf3 Bg7 4. Bc4 e6 5. Bb3 Nd7 6. O-O {B06: Modern Defence} h6 7.
+Re1 Ne7 8. c3 a6 9. Nbd2 b6 10. Nf1 {LiveBook: 3 Games} Bb7 11. Ng3 Kf8 $146 ({
+Predecessor:} 11... Nf6 12. h3 Qc8 13. Bc2 Bc6 {1/2-1/2 (61) Fressinet,L (2712)
+-Shoker,S (2484) Montpellier 2015}) 12. Bf4 Kg8 13. e5 ({White should play} 13.
+Qe2 $16) 13... dxe5 $14 14. Nxe5 Nxe5 15. Bxe5 Nd5 (15... Bxe5 $11 16. Rxe5 h5)
+16. Qf3 $16 {Bxg7 is the strong threat.} Rb8 17. Rad1 Nf6 18. Qf4 Rc8 19. c4
+Nd7 20. Ba4 (20. Bxg7 $1 $16 Kxg7 21. d5) 20... c6 $2 (20... Nxe5 $11 {and
+Black stays safe.} 21. dxe5 Qg5) 21. Bxg7 Kxg7 22. Ne4 $1 {[%cal Re4d6]
+Strongly threatening Nd6.} Rb8 23. Nd6 {[%csl Gd6][%cal Rf4f7]} Qf6 24. Qxf6+ (
+24. Qg3 $16) 24... Nxf6 25. Nxb7 b5 (25... Rxb7 $142 26. Bxc6 Rc7) 26. Nc5 $1 {
+Threatens to win with cxb5.} bxa4 27. Nxa4 Rhd8 28. b3 a5 29. f3 h5 30. Re5 Ra8
+31. Kf2 Nd7 32. Ree1 Nb8 33. Nc5 Ra7 34. Rxe6 fxe6 35. Nxe6+ Kf6 36. Nxd8 {
+aiming for d5.} Rd7 37. Nxc6 $1 Nxc6 $18 {[%mdl 4096] Endgame KRN-KR} 38. d5
+Nb4 39. Rd2 Ke5 (39... Re7 $16 40. f4 Na6) 40. Ke3 $1 Re7 41. a3 Kd6+ 42. Kf4
+Na6 {[#]} 43. Kg5 $1 Re3 {[#]} 44. b4 ({Don't do} 44. Kxg6 $6 Rxb3 45. Kxh5
+Rxa3 $14) (44. h4 $1 $18) 44... a4 $2 {[%mdl 8192]} (44... axb4 $14 45. axb4
+Nxb4) 45. c5+ Kd7 46. Ra2 $2 (46. c6+ Kd6 47. b5 (47. Kxg6 Nc7 $16)) 46... Nc7
+47. d6 Nb5 48. Rc2 $2 (48. Rd2 $16) 48... Rxa3 $11 {And now ...Rb3 would win.}
+49. Kxg6 Rb3 {White must now prevent ...a3.} 50. c6+ $2 {[%mdl 8192]} (50. Rd2
+$11 {and White has nothing to worry.}) 50... Kxd6 $19 51. Rc5 $2 (51. f4 a3 52.
+f5) 51... Rxb4 52. c7 Nxc7 53. Ra5 Kc6 54. Kxh5 Rb5+ 55. Rxb5 Nxb5 {Precision:
+White = 47%, Black = 49%.} 0-1
+
+[Event "Hoogeveen Matches 2018"]
+[Site "Hoogeveen"]
+[Date "2018.10.27"]
+[Round "9"]
+[White "Fedoseev, Vladimir"]
+[Black "Van Foreest, Jorden"]
+[Result "1-0"]
+[ECO "A01"]
+[WhiteElo "2713"]
+[BlackElo "2617"]
+[Annotator "TA"]
+[PlyCount "75"]
+[EventDate "2018.10.21"]
+[EventType "swiss"]
+[EventCountry "NED"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,75,-24,-41,-24,-53,-37,-41,-24,-41,-24,-19,-15,-15,-11,-11,-12,-23,0,
+0,16,23,37,22,16,0,15,-83,66,72,83,62,60,0,0,0,0,-27,43,0,0,0,0,0,0,0,961,959,
+942,942,942,942,1054,971,920,828,1625,1611,1520,1496,29965,29956,29994,1063]} 
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. c4 d5 5. cxd5 Nxd5 6. a3 Bd6 7. Nc3 {A01:
+Nimzowitsch-Larsen Opening} (7. d3 O-O 8. Nf3 Qe7 9. b4 a5 10. b5 Na7 11. d4 e4
+12. Ne5 Be6 13. Nd2 f6 14. Nec4 f5 15. Nxd6 cxd6 {0-1 (23) Sviridov,V (2513)
+-Motylev,A (2659) Yaroslavl 2018}) 7... Nxc3 8. Bxc3 {LiveBook: 4 Games} a5
+$146 ({Predecessor:} 8... O-O 9. Qc2 Qe7 10. Bc4 Bxa3 11. Nf3 Bd6 12. h4 h6 13.
+Qe4 Kh8 14. g4 f5 15. gxf5 Bxf5 {1-0 (56) Ternault,M (2361)-Kosteniuk,A (2552)
+Paris 2017}) 9. Nf3 {Black has an edge.} Qe7 10. Qc2 O-O 11. Bd3 f5 12. Bc4+
+Be6 13. Bxe6+ Qxe6 14. d3 Rae8 15. O-O Rf6 16. d4 e4 {[#]} 17. d5 $1 {[%cal
+Rd5e6][%mdl 512]} Qxd5 18. Bxf6 exf3 19. Rfd1 Qf7 20. Bh4 {[#]} (20. Bb2 $1 $11
+) 20... fxg2 ({Black should try} 20... g5 $1 $17 {[%cal Rg5h4]} 21. Bxg5 Qg6
+22. Qc4+ Kg7) 21. Bg3 $14 Ne5 22. Kxg2 Qh5 23. Rac1 (23. Qd2 $14) 23... Qf3+
+$11 24. Kg1 Qg4 25. f4 Ng6 ({Black should play} 25... Nf7 $11) 26. Kf2 h5 {
+White should prevent ...h4.} ({Reject} 26... Bxa3 $6 27. Qc4+ Kf8 {[#]} 28. Rd7
+$1 $16 {[%mdl 512]}) 27. h3 $36 {[%mdl 2048] White is more active.} Qxh3 {
+aiming for ...h4.} 28. Rh1 Qg4 {White must now prevent ...Rxe3!} 29. Rcg1 h4 $2
+{[%mdl 8192]} (29... Be7 $11) 30. Bxh4 $18 Qxh4+ 31. Rxh4 Nxh4 32. Qc3 {
+[%csl Gg1][%cal Rc3g7]} g6 33. Qf6 Be7 34. Qe5 c6 35. Rd1 Kf7 36. Rd7 g5 37.
+fxg5 Ng6 38. Qf6+ {Precision: White = 64%, Black = 32%.} 1-0
+

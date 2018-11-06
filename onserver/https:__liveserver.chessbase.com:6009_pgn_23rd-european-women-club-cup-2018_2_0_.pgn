@@ -1,0 +1,1122 @@
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Muzychuk, Anna"]
+[Black "Mammadzada, Gunay"]
+[Result "1-0"]
+[ECO "B51"]
+[WhiteElo "2555"]
+[BlackElo "2438"]
+[Annotator "TA"]
+[PlyCount "75"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Monte-Carlo"]
+[BlackTeam "Odlar Yurdu"]
+
+{[%evp 9,75,18,24,28,36,31,39,33,45,40,29,33,20,44,56,31,50,17,27,57,50,40,16,
+10,27,20,27,19,89,92,156,147,132,116,171,161,228,219,370,375,426,147,169,150,
+147,158,168,173,167,155,486,468,449,480,477,476,472,470,452,452,907,411,418,0,
+891,860,12833,12831]} 1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bd3 Ngf6 6.
+c3 {B51: Sicilian: Moscow Variation (3 Bb5+) without 3...Bd7} g6 (6... b5 7. a4
+b4 8. Bc2 Bb7 9. Re1 Qc7 10. d3 e6 11. a5 bxc3 12. bxc3 Be7 {1/2-1/2 (62)
+McShane,L (2672)-Nepomniachtchi,I (2768) Batumi 2018}) 7. Bc2 Bg7 8. d4 {
+[%cal Bd2d4,Bd4c5][%mdl 32] White is slightly better.} O-O 9. e5 Ne8 10. e6
+fxe6 11. Ng5 Nc7 12. dxc5 $1 d5 $1 (12... Nxc5 $6 13. Nxh7 $1 {[%mdl 512]} Rf5
+14. Ng5 $16 (14. Bxf5 exf5 15. Ng5 e5 $16)) 13. f4 $146 {[%cal Bf2f4,Bf4f5,
+Bf5g6][%mdl 32]} (13. c4 $5) 13... e5 14. Nxh7 $1 Kxh7 15. Qh5+ $1 Kg8 16. Bxg6
+{[%csl Gg6][%cal Rh5h7]} Nf6 17. Qh4 $1 e4 {And now ...Bd7 would win.} 18. f5
+Bd7 (18... e6 $1 $11 {keeps the balance.}) 19. g4 $1 $16 Be8 {[#]} (19... e5
+$142) 20. g5 $1 {[%cal Rg5f6]} Bxg6 21. fxg6 Nh5 (21... e5 $16) 22. Rxf8+ $40 {
+[%mdl 128] White is out for blood.} ({Much less strong is} 22. Qxh5 Rxf1+ 23.
+Kxf1 Ne6 $16) 22... Qxf8 (22... Kxf8 $142 23. Qxh5 d4) 23. Qxh5 $18 {[%csl Gg6]
+[%cal Rh5h7]} Qf5 $2 (23... Qf3 24. Qxf3 exf3) 24. Be3 Ne6 25. Nd2 $2 (25. Qh7+
+$18 {and the rest is easy.} Kf8 26. Nd2 Nxg5 27. Bxg5 (27. Qh4 Bf6 $16) 27...
+Qxg5+ 28. Kh1 Qxd2 29. Rf1+ Ke8 30. Qg8+ Kd7 31. Qxa8 Qxb2 32. Qg8) 25... Nf8
+$16 26. Rf1 Qe6 {[#]} 27. Nb3 $1 {[%cal Rb3d4] Strongly threatening Nd4.} Nxg6
+28. Nd4 Bxd4 29. Bxd4 {Threatening mate with Qh6.} Rf8 $2 (29... e3 $16 {
+is tougher.}) 30. Rf6 $1 $18 Rxf6 31. gxf6 ({Not} 31. Bxf6 Qf5 $11) 31... Qf7
+32. fxe7 Qe6 {[#]} 33. e8=Q+ $1 Qxe8 34. Qxd5+ Kh7 (34... Kf8 $142 35. Qxb7 Qe6
+) 35. Qh5+ (35. Qxb7+ $142 Ne7 36. Kh1) 35... Kg8 36. Qd5+ (36. Qh6 $142 Qf7
+37. Qg5) 36... Kh7 $1 37. Qxb7+ Kh6 38. Be3+ {Precision: White = 74%, Black =
+45%.} 1-0
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Gunina, Valentina"]
+[Black "Injac, Teodora"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "2525"]
+[BlackElo "2258"]
+[Annotator "TA"]
+[PlyCount "60"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Pentole Agnelli"]
+[BlackTeam "Maribor"]
+
+{[%evp 9,60,15,17,10,0,0,10,10,10,10,6,8,12,2,6,16,16,15,27,32,44,11,11,-25,15,
+-268,-266,-262,-281,-300,-305,-303,-297,-280,-281,-285,-286,-352,-353,-354,
+-355,-326,-326,-347,-316,-716,-692,-1115,-1119,-29991,-29992,-29992,-29993]} 1.
+d4 Nf6 2. Nf3 g6 3. b3 Bg7 4. Bb2 O-O 5. e3 d5 6. c4 {D04: Colle System} c5 7.
+dxc5 Na6 (7... Qa5+ 8. Nbd2 Qxc5 9. Rc1 Nc6 10. a3 a5 11. Be2 Rd8 12. O-O dxc4
+13. Nd4 Nxd4 14. Bxd4 Qxa3 15. Nxc4 {0-1 (57) Nakamura,H (2769)-Mamedyarov,S 
+(2808) Paris 2018}) 8. Bd4 {The position is equal.} Qa5+ 9. Nbd2 Nxc5 10. a3
+Nce4 $146 ({Predecessor:} 10... Ne6 11. b4 Qd8 12. Be5 b6 13. Be2 Bb7 {1/2-1/2
+(30) Simon,R (2441)-Pentzien,V (2385) ICCF email 2010}) 11. b4 Qd8 12. Nxe4
+dxe4 13. Nd2 $1 Bf5 14. Be2 h5 15. O-O Qc7 16. Qc2 Rad8 {Threatens to win with
+...Rxd4!} 17. Rfd1 $2 {[%mdl 8192] [#]} (17. Bxf6 $11 Bxf6 18. Rad1) 17... Rxd4
+$1 $19 {[%mdl 512]} 18. exd4 {[#]} e3 $1 {[%cal Re3f2][%mdl 512]} 19. Bd3 (19.
+fxe3 Bxc2) 19... Bxd3 (19... exd2 20. Bxf5 gxf5 21. Qxd2 $17) 20. Qxd3 exd2 21.
+Rxd2 Ng4 22. g3 Rd8 23. Re1 Rxd4 ({Much less strong is} 23... Bxd4 24. Qb3 $19)
+24. Qe2 Rxd2 25. Qxd2 Qxc4 26. Rxe7 Bd4 27. Kg2 $2 (27. Re2) 27... Nxf2 28. Qe2
+Qc1 {[%csl Gf2][%cal Rc1h1]} 29. Qe1 Qc6+ 30. Kf1 Qf3 {Precision: White = 33%,
+Black = 75%.} 0-1
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Girya, Olga"]
+[Black "Osmak, Iulija"]
+[Result "1-0"]
+[ECO "A81"]
+[WhiteElo "2479"]
+[BlackElo "2405"]
+[Annotator "TA"]
+[PlyCount "194"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Ugra"]
+[BlackTeam "Kyiv"]
+
+{[%evp 11,194,27,76,39,79,70,75,77,67,62,74,65,65,68,106,70,85,68,71,74,74,81,
+87,95,93,65,117,76,87,72,86,83,96,97,181,181,259,235,225,239,234,223,236,194,
+199,210,203,216,186,151,179,189,161,140,144,113,118,118,115,0,130,102,118,110,
+137,135,134,141,124,113,131,87,127,137,125,118,494,491,455,416,395,392,336,257,
+237,124,122,122,132,110,112,0,133,112,187,186,178,143,143,139,179,151,150,171,
+12841,12842,12842,12843,12843,12843,12845,12845,12845,12843,12844,12844,12845,
+12846,12847,12844,12846,12843,12845,12845,12845,0,0,0,0,0,12851,12851,12851,
+12851,12851,12851,12851,12851,12851,12851,12851,0,0,0,12851,12851,12851,12851,
+12851,12851,12851,12851,12851,12851,12851,12851,12851,12851,12851,12851,12851,
+29965,12851,29950,12851,12851,12851,12851,12851,12851,12851,12851,12851,12851,
+12851,12851,29986,29987,12851,29988,12851,29990,12851,29992,12851]} 1. d4 f5 2.
+g3 Nf6 3. Bg2 g6 4. c3 Bg7 5. Nd2 Nc6 6. Nh3 {A81: Dutch Defence: 2 g3} e6 {
+LiveBook: 5 Games} (6... d6 7. O-O e5 8. dxe5 dxe5 9. e4 O-O 10. exf5 gxf5 11.
+Qe2 Qe8 12. Nc4 f4 13. gxf4 Qg6 {0-1 (27) Paciencia,E (2335)-Borisek,J (2578)
+Batumi 2018}) 7. O-O d6 8. e4 {White is better.} fxe4 9. Nxe4 Nxe4 10. Bxe4 O-O
+11. Ng5 $146 ({Predecessor:} 11. Bg2 Kh8 12. Bd2 Bd7 13. Qe2 Qf6 {1-0 (31)
+Summermatter,D (2315)-Preiss,M (2270) Switzerland 1996}) 11... Ne7 12. f4 d5
+13. Bg2 Qd6 14. Be3 Bd7 15. Bf2 b6 16. Re1 Bf6 17. Nf3 Rac8 18. Ne5 Bxe5 ({
+Black should try} 18... c5 $14) 19. Rxe5 c5 20. dxc5 bxc5 21. Qd2 Nc6 22. Re2
+Nd8 (22... a5 $16 {might work better.}) 23. b4 $1 $18 Nb7 {[#]} (23... cxb4 {
+is a better defense.} 24. cxb4 Bb5) 24. c4 $1 {[%cal Bc3c4,Bc4d5][%mdl 544]}
+cxb4 (24... dxc4 25. Bxb7) 25. cxd5 Nd8 26. Bxa7 Bb5 27. Rf2 Bc4 28. dxe6 Qxd2
+29. Rxd2 {Threatens to win with e7.} Bxe6 30. Rd6 b3 31. axb3 Bxb3 32. Rb1 Nf7
+33. Rf6 Bc4 34. Rc1 Bb3 35. Rb1 Bc4 36. h3 Rfd8 37. Rc1 Bb3 38. Rxc8 Rxc8 39.
+Rb6 Bc4 40. Kf2 Rd8 41. Rb4 Bd5 42. Bb6 Rd7 43. Ba5 Bxg2 $4 {[%mdl 8192]} (
+43... h5 $16 44. Rd4 Be6 45. Rxd7 Bxd7) 44. Rb8+ (44. Kxg2 Rd2+ 45. Kf1 Rd3 $16
+) 44... Kg7 {[#]} 45. Bc3+ $1 ({Less strong is} 45. Kxg2 Kf6 $16) 45... Kh6 46.
+Kxg2 {[%mdl 4096] Endgame KRB-KRN} Rd3 47. Bf6 Rd6 {[#]} 48. Be7 ({White must
+play} 48. Bb2 $1 $18) 48... Rd2+ $16 49. Kf3 Kg7 50. Bf8+ Kg8 51. Be7+ Kg7 52.
+g4 h6 (52... Nd6 $16 53. Rd8 Nc4 54. Rxd2 Nxd2+ 55. Ke3 Nc4+ 56. Kd4 Nb2) 53.
+Bf8+ Kh7 54. Rb7 Kg8 55. Bc5 Rd5 56. Be3 h5 57. Rb8+ Rd8 $2 (57... Kh7 58. Rb7
+Kg8) 58. Rxd8+ $18 Nxd8 59. gxh5 gxh5 {KB-KN} 60. Ke4 Kf7 61. Kf5 Ne6 62. Bc1
+Nd4+ 63. Kg5 Ne2 64. Be3 Ng3 65. Bd4 Ne2 66. Be5 Ke6 67. Bb8 Ng3 68. Kh4 $2 (
+68. Kg6 $18 {And now h4 would win.} h4 69. Bc7) 68... Ne4 69. Kxh5 {Black must
+now prevent Kg6.} Kf5 70. Kh4 $2 {[%mdl 8192]} (70. h4 $11 Ng3+ 71. Kh6) 70...
+Nf6 $2 {[%mdl 8192]} (70... Nc3 $11) 71. Kg3 Nd7 72. Bc7 Nf6 73. Kf3 Nd5 74.
+Be5 Ne7 75. Bd6 Nc6 76. h4 {[%cal Bh3h4,Bh4h5,Bh5h6][%mdl 32]} Nd4+ 77. Ke3
+Nc2+ $2 {[%mdl 8192]} (77... Nb5 $11) 78. Kd2 Nd4 79. h5 Nc6 80. Ke3 Nd8 81. h6
+Kg6 82. Bf8 Nf7 83. Ke4 Nd8 84. f5+ Kh7 85. Ke5 Nc6+ 86. Kd5 (86. Kf6 $18 Nd4
+87. Ke5 Nc6+ 88. Kf6) 86... Nd8 87. Kd6 Nf7+ 88. Ke7 Ng5 89. Bg7 Nf7 90. Bf8
+Ng5 91. Ke8 Ne4 92. Kd7 Kg8 93. Ke7 Ng3 94. f6 Nf5+ 95. Ke8 Kh7 96. f7 Nh4 97.
+Bg7 (97. Ba3 $18 Ng6 98. f8=Q Nxf8 99. Bxf8 Kg6 100. Bg7 Kh7 101. Kf8 Kg6 102.
+Kg8) 97... Ng6 {Precision: White = 64%, Black = 45%.} 1-0
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Javakhishvili, Lela"]
+[Black "Petraki, Evaggelia"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2475"]
+[BlackElo "1769"]
+[Annotator "ChessBase"]
+[PlyCount "77"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Nona"]
+[BlackTeam "Thessaloniki"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. Nf3 {[%emt 0:00:00]} c5 {[%emt 0:00:00]} 2. g3 {[%emt 0:00:34]} g6 {[%emt 0:
+01:12]} 3. Bg2 {[%emt 0:00:07]} Bg7 {[%emt 0:00:06]} 4. O-O {[%emt 0:00:07]}
+Nc6 {[%emt 0:00:34]} 5. c4 {[%emt 0:00:19]} Nf6 {[%emt 0:00:41]} 6. d4 {
+[%emt 0:02:16]} cxd4 {[%emt 0:00:38]} 7. Nxd4 {[%emt 0:00:08]} O-O {[%emt 0:00:
+35]} 8. Nc3 {[%emt 0:00:31]} Qb6 {[%emt 0:09:34]} 9. Nb3 {[%emt 0:04:37]} d6 {
+[%emt 0:07:02]} 10. Be3 {[%emt 0:08:48]} Qd8 {[%emt 0:00:18]} 11. Rc1 {[%emt 0:
+03:26]} Be6 {[%emt 0:05:49]} 12. c5 {[%emt 0:08:01]} d5 {[%emt 0:02:04]} 13.
+Rc2 {[%emt 0:09:17]} Ne5 {[%emt 0:07:01]} 14. Bd4 {[%emt 0:05:06]} Qc7 {
+[%emt 0:03:59]} 15. Nb5 {[%emt 0:08:51]} Qb8 {[%emt 0:00:14]} 16. Bc3 {[%emt 0:
+01:01]} Bd7 {[%emt 0:07:04]} 17. N5d4 {[%emt 0:00:44]} e6 {[%emt 0:02:40]} 18.
+Nd2 {[%emt 0:04:00]} Qc7 {[%emt 0:04:49]} 19. b3 {[%emt 0:07:54]} Rfc8 {
+[%emt 0:02:43]} 20. Bb2 {[%emt 0:00:53]} Bc6 {[%emt 0:10:13]} 21. Qa1 {[%emt 0:
+01:06]} Ned7 {[%emt 0:01:34]} 22. a4 {[%emt 0:06:24]} Qd8 {[%emt 0:04:25]} 23.
+b4 {[%emt 0:05:04]} a6 {[%emt 0:00:08]} 24. e4 {[%emt 0:01:25]} e5 {[%emt 0:05:
+22]} 25. Nxc6 {[%emt 0:00:56]} bxc6 {[%emt 0:00:05]} 26. exd5 {[%emt 0:00:29]}
+Nxd5 {[%emt 0:00:15]} 27. Qa3 {[%emt 0:06:53]} Nf8 {[%emt 0:05:51]} 28. Nc4 {
+[%emt 0:00:09]} Rab8 {[%emt 0:01:31]} 29. Rd1 {[%emt 0:00:59]} Qc7 {[%emt 0:05:
+38]} 30. Bxd5 {[%emt 0:00:24]} cxd5 {[%emt 0:00:03]} 31. Rxd5 {[%emt 0:00:09]}
+Rd8 {[%emt 0:00:27]} 32. Nd6 {[%emt 0:03:09]} Qc6 {[%emt 0:01:14]} 33. Rdd2 {
+[%emt 0:01:31]} Bh6 {[%emt 0:01:50]} 34. Rd3 {[%emt 0:02:50]} Rxd6 {[%emt 0:05:
+46]} 35. Rxd6 {[%emt 0:00:09]} Qe4 {[%emt 0:00:04]} 36. Qc3 {[%emt 0:00:44]}
+Ne6 {[%emt 0:00:37]} 37. Qxe5 {[%emt 0:00:54]} Qxe5 {[%emt 0:00:06]} 38. Bxe5 {
+[%emt 0:00:05]} Rxb4 {[%emt 0:00:10]} 39. Rxe6 {[%emt 0:01:20]} 1-0
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Socko, Monika"]
+[Black "Balajayeva, Khanim"]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[WhiteElo "2451"]
+[BlackElo "2326"]
+[Annotator "TA"]
+[PlyCount "48"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Monte-Carlo"]
+[BlackTeam "Odlar Yurdu"]
+
+{[%evp 20,48,45,28,40,39,49,36,66,59,106,98,169,169,163,166,173,86,97,0,0,0,0,
+0,0,0,0,0,0,0,0]} 1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 exd4 5. Bxc4 Nc6 6. O-O
+Be6 7. Bxe6 fxe6 8. Qb3 Qd7 9. Qxb7 Rb8 10. Qa6 Nf6 11. Nbd2 Bd6 {D20: Queen's
+Gambit Accepted: 3 e3 and 3 e4} (11... Bb4 12. Qd3 Bxd2 13. Bxd2 Rxb2 14. Rac1
+O-O 15. Rc5 Rfb8 16. Rfc1 R8b6 17. h3 h6 18. a4 Ne8 19. Bc3 R2b3 {1-0 (48)
+Wojtaszek,R (2746)-Socko,B (2604) Czech Republic 2016}) 12. b3 O-O 13. Ba3 Bxa3
+{White is slightly better.} 14. Qxa3 {[#]} e5 $146 ({Predecessor:} 14... Qd6
+15. Qa6 Rb6 16. Qc4 Rb4 17. Qd3 Ng4 18. Rac1 Nce5 19. Nxe5 Nxe5 {1/2-1/2 (34)
+Roubaud,D (2559)-Fleetwood,D (2576) ICCF email 2016}) 15. Rac1 Nh5 (15... Rfe8
+$16) 16. Qc5 $18 Nf4 {[%cal Bh5f4,Bf4h3,Bh3f2][%mdl 32] Threatening ...Ne2+.}
+17. Qxc6 Qg4 {[%csl Gf4][%cal Rg4g2] [#]} 18. Qc4+ (18. g3 $1 $18 Nh3+ 19. Kg2
+Rxf3 20. Nc4 (20. Nxf3 Nf4+ 21. Kg1 Ne2+ 22. Kg2 Nf4+ 23. Kg1 Nh3+ 24. Kg2 Nf4+
+$11) (20. Qxc7 Rbf8 $11) 20... Nf4+ 21. Kh1) 18... Kh8 $16 {[%csl Gf4][%cal
+Rg4g2]} 19. Ne1 ({Better is} 19. g3 $16 Nh3+ 20. Kh1 (20. Kg2 Rxf3 21. Nxf3
+Nf4+ 22. Kg1 Qxf3 $11) 20... Rxf3 21. Qe2) 19... Nh3+ $1 $11 {The position is
+equal.} 20. Kh1 Nxf2+ 21. Kg1 Nh3+ $1 22. Kh1 Nf2+ 23. Kg1 Nh3+ $1 24. Kh1 Nf2+
+{Precision: White = 62%, Black = 59%.} 1/2-1/2
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Ushenina, Anna"]
+[Black "Muzychuk, Mariya"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[WhiteElo "2451"]
+[BlackElo "2533"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Ugra"]
+[BlackTeam "Kyiv"]
+
+{[%evp 12,61,17,15,30,30,28,24,31,29,30,14,20,30,80,35,52,13,25,17,21,21,29,0,
+0,0,14,16,13,11,8,10,16,0,5,3,15,3,43,18,49,49,49,49,51,60,43,52,64,70,75,70]} 
+1. d4 d5 2. c4 c6 {[%cal Bc7c6,Bc6d5][%mdl 32]} 3. cxd5 cxd5 4. Bg5 Qb6 (4...
+Nf6 5. Bxf6 gxf6 6. Nc3 e6 7. e3 Nd7 8. Bd3 f5 9. h3 h5 10. h4 Nf6 11. Nge2 Bd6
+{0-1 (32) Mamedyarov,S (2808)-Aronian,L (2764) Paris 2018}) 5. Nc3 e6 6. Qd2 {
+D10: Damengambit (Slawische Verteidigung)} Nc6 7. e3 {LiveBook: 8 Partien} Bd6
+8. Bd3 {Weiß hat minimalen Vorteil.} Nge7 9. Bh4 $146 ({Vorgänger:} 9. Bxe7
+Bxe7 10. f4 Bd7 11. Nf3 Rc8 {0-1 (35) Sorokin,A (2511)-Schekachikhin,M (2371)
+Moscow 2018}) 9... Bd7 10. Nf3 h6 11. Bg3 Bxg3 12. hxg3 O-O-O 13. Rc1 Kb8 14.
+Na4 Qb4 15. Nc5 Qxd2+ $1 16. Kxd2 f6 17. Rc3 e5 18. Rb3 b6 {zielt auf ...e4 ab.
+} 19. Nxd7+ Rxd7 20. Bb5 e4 21. Ng1 Kb7 22. Ne2 (22. Ra3 {is interesting.} Rd6
+23. Ne2 f5 24. Ba6+ Kb8 25. Rb3) 22... a6 23. Bxc6+ $1 Nxc6 24. Rh5 Rc8 25. Rc3
+Ne7 26. Rxc8 Kxc8 27. g4 Kb7 28. f3 exf3 29. gxf3 Nc8 30. Kd3 Kc6 31. Ng3 {
+Precision: Weiß = 73%, Schwarz = 47%.} 1/2-1/2
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Gaponenko, Inna"]
+[Black "Nechaeva, Marina"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2409"]
+[BlackElo "2409"]
+[Annotator "TA"]
+[PlyCount "148"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Kyiv"]
+[BlackTeam "Ugra"]
+
+{[%evp 9,148,23,34,27,43,35,43,6,39,28,62,8,9,0,4,0,0,0,7,0,11,-16,-11,-18,-22,
+-32,-30,-16,-5,-31,-10,-27,-7,-36,-25,-38,-32,-81,-54,-68,-66,-227,-27,-66,-7,
+-56,-56,-94,-75,-75,-87,-85,-73,-75,-79,-106,-87,-87,-64,-89,-85,-64,-33,-80,
+-79,-86,-83,-145,-152,-154,-157,-161,-163,-163,-154,-400,-400,-378,-378,-389,
+-390,-700,-648,-887,-876,-1279,-1228,-1783,-1728,-1661,-1558,-1310,-1303,-5177,
+-3815,-3861,-2722,-3671,-2322,-1795,-1619,-29951,-464,-442,-29952,-29948,
+-29953,-29953,-29954,-29958,-29960,-29958,-29960,-29961,-29962,-29963,-29962,
+-29957,-29960,-29964,-29965,-29962,-29965,-29967,-29969,-29969,-29970,-29971,
+-29972,-29972,-29973,-29978,-29978,-29978,-29976,-29974,-29975,-29977,-29975,
+-29976,-29976]} 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. c3 {
+B12: Caro-Kann: Advance Variation} Bg6 7. O-O Nd7 8. Na3 {White is slightly
+better.} Nf5 9. Nc2 Be7 10. Nfe1 $146 (10. g4 $14) ({Predecessor:} 10. Nce1 c5
+11. Nd3 cxd4 12. cxd4 Bh5 13. Nf4 Bxf3 14. Bxf3 Qb6 15. Bg4 {1-0 (34)
+Shevchenko,K (2443)-Navara,D (2745) Pardubice 2016}) 10... O-O 11. g3 {[%cal
+Bg2g3,Bg3g4][%mdl 32]} c5 12. Ng2 cxd4 13. cxd4 Rc8 14. Bd3 Nb8 15. g4 Nh4 16.
+Nxh4 Bxh4 17. f4 Bxd3 18. Qxd3 Be7 19. f5 Nc6 20. Bd2 (20. Be3 {seems wilder.}
+f6 21. fxe6 fxe5 22. Rxf8+ Bxf8 23. Qf5) 20... f6 21. fxe6 (21. exf6 {is
+interesting.} Rxf6 22. g5 Rf8 23. fxe6 Rxf1+ 24. Rxf1 Bxg5 25. Bc3) 21... fxe5
+{Hoping for ...Qd6.} 22. Rxf8+ Bxf8 23. dxe5 Nxe5 24. Qf5 {[#]} Nxg4 $1 {
+[%mdl 512] aiming for ...Qh4.} 25. Nd4 $2 (25. Rf1 $15) (25. Qxg4 Rxc2) 25...
+Nf6 $2 (25... Qh4 $1 $19 26. Nf3 Bc5+ 27. Kg2 Qf2+ 28. Kh1 Nxh2 $1 {[%mdl 512]}
+29. Qf7+ Kh8 30. Nxh2 Qxd2 31. Qxb7 Rg8) 26. Kh1 $11 Bc5 (26... g6 $15 27. Qf3
+Ne4 28. Qf7+ Kh8) 27. Bc3 (27. e7 $5 Bxe7 28. Rg1 $11) 27... Qe7 28. Nb3 Bb6
+29. Bxf6 Qxf6 30. Qxd5 Re8 31. Re1 Qf2 $40 {[%mdl 128] Black is out for blood.}
+({Not} 31... Qxb2 32. e7+ Kh8 33. Qf7 h6 34. Qxe8+ Kh7 35. Qf7 Bc7 36. Qf5+ g6
+37. Qf7+ Qg7 38. e8=Q) 32. Rc1 {[#]} Bc7 $1 {[%csl Gc7][%cal Rf2h2][%mdl 512]}
+33. Qg2 (33. Rxc7 Qf1#) 33... Qxg2+ 34. Kxg2 $17 {[%mdl 4096] Endgame KRB-KRN}
+Be5 35. Nc5 b6 36. Nd3 Rxe6 37. Nxe5 Rxe5 {KR-KR} 38. Rc7 ({White should try} 
+38. Kf3) 38... Re2+ 39. Kg1 a6 (39... Rxb2 40. Rxa7 h6 41. a4 $17) 40. Ra7 a5
+$1 ({Much less strong is} 40... Rxb2 41. Rxa6 g5 42. a4 $17) 41. b3 Rxa2 {
+Strongly threatening ...Rb2.} 42. Ra8+ $2 (42. Rb7 $17) 42... Kf7 $19 43. Ra7+
+Kf8 44. Ra8+ Ke7 $1 45. Ra7+ $2 (45. Ra6 Rb2 46. Rxb6) 45... Kd6 46. Rxg7 Rb2
+47. Rxh7 Rxb3 48. h4 a4 49. h5 Kc5 50. Kg2 Re3 51. h6 Re6 52. Rc7+ Kb5 53. h7
+Rh6 54. Kf3 a3 55. Ke3 Rh3+ (55... a2 $142 56. Ra7 Kc4 57. Rxa2 Rxh7 58. Rc2+
+Kb3 59. Rc1 Rh3+ 60. Ke2 b5 61. Rb1+ Kc4 62. Rc1+ Kb3 63. Rb1+ Kc4 64. Rc1+ Kb3
+) 56. Kd4 a2 (56... Kb4 $19 57. Rc4+ Ka5) 57. Ra7 {[#]Black mates.} Rxh7 $1 {
+[%mdl 512]} 58. Rxa2 (58. Rxh7 a1=Q+) 58... Rh4+ 59. Kc3 Rh3+ 60. Kd4 {[#]} Kb4
+$1 61. Ra1 b5 {[%cal Bb6b5,Bb5b4,Bb4b3,Bb3b2][%mdl 32]} 62. Rb1+ Rb3 63. Ra1
+Rb2 64. Kd3 Kb3 65. Rh1 b4 66. Ra1 Rh2 67. Rb1+ {[#]} Ka3 $1 68. Rg1 b3 69.
+Ra1+ Kb2 70. Rg1 Ka2 71. Rg8 b2 72. Ra8+ Kb1 73. Rc8 Rh7 74. Kd2 Ra7 {
+Precision: White = 30%, Black = 58%.} 0-1
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Zhukova, Natalia"]
+[Black "Pogonina, Natalija"]
+[Result "0-1"]
+[ECO "D31"]
+[WhiteElo "2403"]
+[BlackElo "2485"]
+[Annotator "TA"]
+[PlyCount "86"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Kyiv"]
+[BlackTeam "Ugra"]
+
+{[%evp 9,86,14,17,9,10,9,9,8,1,0,14,0,3,3,7,0,7,8,12,-2,0,0,202,174,195,-140,
+-139,-129,-133,-135,-139,-150,-145,-147,-130,-141,-131,-154,-154,-180,-133,
+-169,-107,-176,-126,-112,-90,-131,-103,-210,-210,-224,-214,-320,-145,-605,-599,
+-565,-569,-841,-797,-1385,-1377,-1275,-1207,-5377,-12105,-12807,-11575,-6201,
+-6070,-29936,-6594,-29970,-29968,-12840,-11575,-6482,-6175]} 1. d4 d5 2. c4 e6
+3. Nc3 Be7 4. Bf4 Nf6 5. e3 O-O 6. a3 {D35: Queen's Gambit Declined: Exchange
+Variation} b6 7. cxd5 Nxd5 8. Nxd5 {The position is equal.} exd5 9. Bd3 {
+[%cal Bf1d3,Bd3c2,Bc2h7][%mdl 32]} c5 10. Ne2 Bb7 11. O-O $36 {[%mdl 2048]
+White has some pressure.} Nd7 12. Nc3 $146 ({Predecessor:} 12. dxc5 bxc5 {
+1/2-1/2 (36) Grandelius,N (2643)-Bacrot,E (2695) Grosseto Prugna 2016}) 12...
+c4 13. Bc2 a6 14. b3 b5 15. bxc4 bxc4 $2 {[#]} (15... dxc4 $11 16. e4 Nf6) 16.
+Bxh7+ $1 $18 {[%mdl 512]} Kh8 (16... Kxh7 17. Qb1+) 17. Be5 $2 (17. Bc2 $18 {
+Qh5+ would kill now.} Kg8 18. Rb1 (18. Qh5 Nf6 $16)) 17... Nxe5 $17 18. Qh5 {
+[#] White wants to mate with Bg6+.} Ng4 $1 {[%cal Rg4f6][%mdl 512] And now ...
+Nf6 would win.} 19. Be4+ (19. Qxg4 Kxh7) 19... Nh6 20. Bxd5 Bxd5 21. Nxd5 Bd6
+22. g4 f6 23. Rfc1 Rc8 24. Rc3 Rc6 25. Rac1 Qc8 ({Black should play} 25... f5
+$19 26. g5 Bxa3 $1 {[%mdl 512]}) 26. f3 (26. a4 $17) 26... Qe6 27. e4 Rfc8 28.
+Ne3 {d5 is the strong threat.} R6c7 {Threatens to win with ...Bf4.} 29. Nd5 {
+[#]} (29. R1c2 $17) 29... Rb7 $1 $19 30. R1c2 Rb3 31. a4 (31. Kg2 {was worth a
+try.}) 31... a5 (31... Bb8 $19 {is more deadly. Hoping for ...Rxc3.} 32. Kh1
+Rxc3 33. Nxc3 Qb6) 32. Ne3 $2 {[%mdl 8192]} (32. Qg6 $17) 32... Rxc3 33. Rxc3
+Bf4 34. Qxa5 Qd6 $1 {[%csl LRd4,LRh2]} 35. Qd5 Bxe3+ 36. Rxe3 Qf4 37. Rc3 Qd2
+38. Qb7 Qxd4+ 39. Kg2 Qd2+ 40. Kh3 Qxc3 41. Qxc8+ Kh7 42. Kg3 Qe1+ 43. Kg2 c3 {
+Precision: White = 42%, Black = 73%.} 0-1
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Tsolakidou, Stavroula"]
+[Black "Mar, Karmen"]
+[Result "1-0"]
+[ECO "B52"]
+[WhiteElo "2393"]
+[BlackElo "2107"]
+[Annotator "NA"]
+[PlyCount "61"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Pentole Agnelli"]
+[BlackTeam "Maribor"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} d6 {[%emt 0:
+00:00]} 3. Bb5+ {[%emt 0:00:00]} Bd7 {[%emt 0:00:00]} 4. Bxd7+ {[%emt 0:00:07]}
+Qxd7 {[%emt 0:00:04]} 5. O-O {[%emt 0:00:08]} Nc6 {[%emt 0:02:15]} 6. c3 {
+[%emt 0:00:14]} Nf6 {[%emt 0:00:43]} 7. d4 {[%emt 0:00:29]} Nxe4 {[%emt 0:00:
+49]} 8. d5 {[%emt 0:00:16]} Ne5 {[%emt 0:00:12]} 9. Re1 {[%emt 0:00:17]} Nf6 {
+[%emt 0:00:18]} 10. Nxe5 {[%emt 0:00:17]} dxe5 {[%emt 0:00:06]} 11. c4 {
+[%emt 0:00:23]} e6 {[%emt 0:06:52]} 12. Nc3 {[%emt 0:02:26]} O-O-O {[%emt 0:14:
+31]} 13. Bg5 {[%emt 0:02:34]} h6 {[%emt 0:08:13] LiveBook: 7 Partien} 14. Bh4 {
+[%emt 0:00:37]} Be7 {[%emt 0:05:37]} 15. Qf3 {[%emt 0:06:23]} e4 {[%emt 0:13:
+50]} 16. Nxe4 {[%emt 0:19:28]} Nxe4 {[%emt 0:08:03]} 17. Bxe7 $16 {[%emt 0:02:
+27]} ({But not} 17. Qxe4 $6 Bxh4 18. Qxh4 exd5 $11) 17... Qxe7 {[%emt 0:01:00]}
+18. Rxe4 {[%emt 0:00:34]} Rd6 {[%emt 0:07:09]} 19. Rae1 {[%emt 0:02:07]} Re8 {
+[%emt 0:03:04]} 20. Re5 {[%emt 0:07:13]} Ra6 {[%emt 0:07:55]} 21. a3 {[%emt 0:
+12:17]} Rb6 {[%emt 0:03:01]} 22. b4 {[%emt 0:10:01]} cxb4 {[%emt 0:03:11]} 23.
+c5 {[%emt 0:00:20]} Qxc5 {[%emt 0:07:37]} 24. dxe6 {[%emt 0:01:00]} Qf8 {
+[%emt 0:05:23]} 25. exf7 {[%emt 0:04:27]} Rxe5 {[%emt 0:01:28]} 26. Rxe5 {
+[%emt 0:00:07]} bxa3 {[%emt 0:00:45]} 27. Re8+ {[%emt 0:01:30]} Kc7 {[%emt 0:
+00:12]} 28. g3 {[%emt 0:05:25]} a2 {[%emt 0:01:06]} 29. Qc3+ {[%emt 0:00:33]}
+Rc6 {[%emt 0:00:30]} 30. Qa5+ {[%emt 0:00:24]} Kd7 {[%emt 0:00:18]} 31. Qd8# {
+[%emt 0:00:09]} 1-0
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Melia, Salome"]
+[Black "Nikolaki, Dimitria"]
+[Result "1-0"]
+[ECO "B21"]
+[WhiteElo "2387"]
+[BlackElo "1327"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Nona"]
+[BlackTeam "Thessaloniki"]
+
+{[%evp 9,61,-10,-6,-16,15,25,27,26,37,44,59,74,165,162,167,172,165,158,254,258,
+314,237,358,358,354,349,358,320,355,355,372,360,361,325,508,482,553,537,620,
+619,720,708,713,554,904,883,788,596,860,845,965,914,2696,2606]} 1. e4 c5 2. f4
+Nc6 3. Nf3 e6 4. c3 Nge7 (4... d5 5. e5 Bd7 6. Na3 Qb6 7. Nc2 d4 8. Bd3 Nge7 9.
+Qe2 Nd5 10. g3 Be7 11. Be4 O-O-O 12. cxd4 Nxd4 13. Nfxd4 cxd4 {1/2-1/2 (47)
+Glek,I (2377)-Alekseev,E (2636) Sochi 2016}) 5. Bd3 d5 6. e5 {B21:
+Sizilianisch (Morra-Gambit 2.d4 und 2.f4)} c4 7. Bc2 Bd7 8. O-O {Weiß hat
+minimalen Vorteil.} Ng6 9. d4 $146 ({Vorgänger:} 9. d3 cxd3 10. Bxd3 Bc5+ 11.
+Kh1 O-O 12. Ng5 f6 13. Nxh7 f5 {1-0 (38) Pluschkat,G (1970)-Vieira,T Joinville
+2013}) 9... Be7 10. Ng5 Bxg5 (10... Qa5 $16) 11. fxg5 $18 Qe7 12. b3 cxb3 13.
+axb3 a6 (13... b5 $16 14. Be3 a5) 14. Qg4 O-O-O 15. Nd2 Rdf8 (15... h5 $142 16.
+gxh6 gxh6) 16. Ba3 Qd8 17. Bxf8 Rxf8 18. Kh1 Qe7 19. b4 Na7 20. Nb3 Nb5 21. Bd3
+Bc6 (21... Nc7 $142 22. Nc5 Bb5 23. Bxb5 Nxb5) 22. Na5 {Weiß steht klar auf
+Gewinn.} Bd7 23. c4 dxc4 24. Be4 Kb8 25. Nxb7 Bc8 26. Na5 {[%cal Bb7a5,Ba5c4,
+Bc4b6,Bb6a4,Ba4c5][%mdl 32] [#] Sc6+ ist eine echte Drohung.} Bd7 27. Nxc4 Bc8
+28. Nb6 Bb7 29. Na4 Bxe4 30. Qxe4 {[#] Droht Sc5 und aus.} Qa7 31. Nc5 {
+Precision: Weiß = 78%, Schwarz = 21%.} 1-0
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Shvayger, Yuliya"]
+[Black "Heinemann, Josefine"]
+[Result "1-0"]
+[ECO "D05"]
+[WhiteElo "2375"]
+[BlackElo "2308"]
+[Annotator "TA"]
+[PlyCount "161"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Beer Sheva"]
+[BlackTeam "Mulhouse"]
+
+{[%evp 9,161,10,36,33,39,35,41,32,101,34,72,66,101,99,114,110,100,99,110,109,
+115,123,121,119,106,47,33,34,45,52,46,21,27,22,43,0,9,0,29,7,18,9,58,17,46,39,
+47,39,39,53,93,70,120,103,135,122,123,123,156,109,109,109,124,66,66,66,78,45,
+76,59,70,63,61,27,27,39,43,16,116,62,497,497,497,497,490,483,483,483,483,475,
+458,424,1042,2312,1990,1557,1239,966,29940,29942,29941,29943,29944,29945,29947,
+29946,29948,29950,29950,29951,29947,29950,29960,29959,29958,29959,29962,29962,
+29960,29959,29963,29967,29970,29972,29970,29969,29964,29970,29970,29971,29973,
+29974,29974,29973,29974,29975,29973,29976,29976,29975,29988,29989,29989,29990,
+29992,29993,29993,29993,29993,29990,29990,29991,29996,5026]} 1. d4 d5 2. Nf3
+Nf6 3. e3 e6 4. Bd3 b6 5. O-O Ba6 (5... Bb7 6. b3 Bd6 7. c4 O-O 8. cxd5 exd5 9.
+Ba3 c5 10. Nc3 Nbd7 11. Rc1 Re8 12. Bf5 Bf8 13. dxc5 Nxc5 14. Bb2 g6 15. Bh3 {
+0-1 (55) Dominguez Perez,L (2739)-So,W (2788) Saint Louis 2017}) 6. Bxa6 {
+D05: Colle System with ...e6} Nxa6 7. c4 {Threatens to win with Qa4+.} Nb8 8.
+Nc3 {White is slightly better.} Nbd7 (8... Bd6 $14) 9. Qd3 (9. cxd5 $16 Nxd5
+10. Nxd5 exd5 11. Qc2) 9... Be7 $146 ({Predecessor:} 9... c6 10. b3 Be7 11. Re1
+O-O 12. Bb2 Re8 13. a3 Qc7 14. e4 dxe4 15. Nxe4 Nxe4 16. Qxe4 {1/2-1/2 (25)
+Jerabkova,J (1596)-Doskar,M (1661) Valasska Bystrice 2016}) 10. cxd5 exd5 11.
+Ne5 {aiming for Nc6.} O-O {[#]} 12. Nc6 $1 {[%cal Rc6d8]} Qe8 13. Qf5 Bd6 14.
+Nxd5 Nxd5 15. Qxd5 Nf6 16. Qc4 Qe4 17. f4 (17. h3 $16) 17... Nd5 $14 18. Rf3 b5
+19. Qxb5 a6 20. Qb3 Nxf4 21. exf4 Qxc6 22. d5 Qd7 23. Be3 Rfe8 24. Qd3 Re7 25.
+Bd4 (25. b3 {keeps more tension.} Qb5 26. Rd1 Rae8 27. a4 Qb4 28. Kh1) 25...
+Rae8 26. Raf1 (26. Qxa6 {looks sharper.} Re4 27. Bc3 Bc5+ 28. Kh1 Bd4 29. Qd3)
+26... Re4 27. Be5 $36 {[%mdl 2048] Black is under pressure.} f5 28. Qxa6 Bxe5
+29. fxe5 R4xe5 30. Qc4 {Black must now prevent d6+.} Kh8 31. Qc6 Qxc6 32. dxc6
+$16 {[%mdl 4096] Endgame KRR-KRR} g6 33. b4 Re4 34. Rb1 Rc4 35. b5 Kg7 36. Rf2
+(36. Rb2 $16) 36... Kf6 37. Rd2 h5 38. Ra1 Ree4 39. Rb2 Red4 40. Re1 h4 41. h3
+Rb4 42. Reb1 Rbc4 43. a3 Rd3 (43... Rc5 $11 {keeps the balance.}) 44. Ra2 ({
+Better is} 44. Ra1 $16) 44... Ra4 $2 {[%mdl 8192]} ({Black should try} 44...
+Rdd4 $1 $14) 45. b6 $18 cxb6 {[#]} 46. Rc2 $1 {Strongly threatening c7.} Rd8
+47. c7 Rc8 48. Rxb6+ Ke7 49. Rxg6 Rxa3 50. Rc4 Ra7 (50... Rg3 $142) 51. Rxh4
+Kf7 52. Rc6 Kg7 53. Rf4 Raxc7 54. Rxc7+ {White mates.} Rxc7 55. Rxf5 {KR-KR}
+Kg6 56. Rf3 Kg5 57. Kh2 Rc5 58. Kg3 Ra5 59. h4+ {[%cal Bh3h4,Bh4h5,Bh5h6][%mdl
+32]} Kh5 60. Kh3 Rb5 61. Rc3 Rb6 62. g4+ Kh6 63. Kg3 Ra6 64. h5 Rb6 65. Kh4 Rb7
+66. g5+ Kh7 67. Rc4 Ra7 68. Kg4 Rb7 69. h6 Ra7 70. Kh5 Ra5 71. Rc7+ Kg8 72. Re7
+Rb5 73. Kg6 {[%cal Re7e8]} Rb6+ 74. Kf5 Rb5+ 75. Kf6 Rb6+ 76. Re6 Rb8 77. g6 {
+[%cal Bg5g6,Bg6f7][%mdl 32]} Kh8 78. Rd6 Re8 79. Kf7 Rf8+ 80. Ke7 Rf7+ 81. gxf7
+{Precision: White = 71%, Black = 38%.} 1-0
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Ovod, Evgenija"]
+[Black "De Rosa, Mariagrazia"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2363"]
+[BlackElo "2131"]
+[Annotator "TA"]
+[PlyCount "53"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "SSHOR"]
+[BlackTeam "Banca Alpi Marittime"]
+
+{[%evp 19,53,0,0,0,0,0,0,0,0,0,35,0,2,0,0,0,0,8,66,28,394,377,454,457,454,454,
+432,436,510,507,510,510,1564,1564,1494,1475]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4.
+Nxd4 Nf6 5. Nc3 a6 6. f3 e6 {[%cal Be7e6,Be6e5][%mdl 32]} 7. Be3 b5 {[%cal
+Bb7b5,Bb5b4][%mdl 32]} 8. a4 {B80: Sicilian Scheveningen: 6 g3 and 6 Be3,
+including English Attack} (8. Qd2 Bb7 9. g4 Nfd7 10. O-O-O Nb6 11. Nb3 N8d7 12.
+Na5 Rb8 13. Bd4 Ba8 14. h4 Qc7 15. g5 b4 16. Nb1 e5 17. Bxb6 Rxb6 18. Nc4 Rc6
+19. Ne3 {1-0 (70) Aronian,L (2767)-Nakamura,H (2777) Saint Louis 2018}) 8... b4
+9. Na2 e5 10. Nb3 d5 {LiveBook: 7 Games} 11. exd5 Nxd5 12. Bf2 Be6 13. Bc4 Nc6
+14. O-O Nf4 $146 ({Predecessor:} 14... Ne3 15. Qxd8+ Rxd8 16. Bxe6 Nxf1 {
+1/2-1/2 (27) Macs,O (2158)-Graudins,I (2418) ICCF email 2011}) 15. Bxe6 Nxe6
+16. Qe2 Be7 17. c3 {[%cal Bc2c3,Bc3b4][%mdl 32]} O-O 18. Qe4 $36 {[%mdl 2048]
+White has some pressure.} Qc7 ({Black should play} 18... bxc3 $1 $11 19. Qxc6
+cxb2) 19. cxb4 {And now Rfc1 would win.} Rab8 $2 {[%mdl 8192]} (19... Ncd4 $11
+20. Rac1 (20. Nxd4 exd4 21. Nc1 Bxb4 $11) 20... Qd6 21. Nxd4 exd4) 20. Rac1
+Rfc8 {[#]} 21. Na5 $1 {[%mdl 512] White is clearly winning.} Ned8 (21... Nxa5
+22. Rxc7) 22. Rfd1 Bd6 23. Qd5 Bxb4 24. Nxc6 Nxc6 25. Nxb4 Rxb4 {[#]} (25...
+Nxb4 $142 26. Rxc7 Nxd5 27. Rxc8+ Rxc8 28. Rxd5 Rc1+ 29. Be1 f6) 26. Rxc6 $1
+$18 {[%mdl 512]} Qxc6 27. Qxc6 {Precision: White = 70%, Black = 33%.} 1-0
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Mamedjarova, Zeinab"]
+[Black "Cramling, Pia"]
+[Result "0-1"]
+[ECO "D94"]
+[WhiteElo "2358"]
+[BlackElo "2465"]
+[Annotator "TA"]
+[PlyCount "96"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Odlar Yurdu"]
+[BlackTeam "Monte-Carlo"]
+
+{[%evp 13,96,13,13,32,10,7,15,-1,22,5,55,-18,-4,-11,-11,-13,32,18,33,26,29,16,
+41,0,20,17,191,22,20,28,22,6,6,15,30,7,42,12,40,0,0,0,0,0,0,-71,-57,-37,-43,
+-38,-17,-80,0,-68,-46,-85,-84,-74,-70,-113,-93,-84,-74,-97,-75,-60,-69,-69,-22,
+-190,-194,-232,-220,-221,-183,-440,-422,-784,-847,-29992,-1857,-29993,-29994,
+-29998,-29999]} 1. d4 d5 2. e3 Nf6 3. Nf3 g6 4. c4 Bg7 5. Nc3 O-O 6. Be2 b6 7.
+O-O Bb7 8. Qc2 {D94: Grünfeld: 4 Nf3 Bg7 5 e3} e6 9. Rd1 (9. cxd5 Nxd5 10. Nxd5
+exd5 11. b4 Nd7 12. a4 a5 13. b5 {0-1 (54) Dominguez Perez,L (2739)-Vachier
+Lagrave,M (2779) chess.com INT 2018}) 9... Nbd7 10. b3 {The position is equal.}
+c6 11. a4 a6 12. e4 $146 (12. a5 $14) ({Predecessor:} 12. Ba3 Re8 13. Rac1 Rc8
+14. e4 Bh6 15. e5 Nh5 16. Rb1 Nf4 {1-0 (81) Benidze,D (2475)-Bayram,Y (2236)
+Izmir 2016}) 12... Nxe4 $11 13. Nxe4 dxe4 14. Qxe4 Re8 15. Ra2 Qc8 16. Qh4 c5
+17. Bh6 Nf6 18. dxc5 bxc5 19. Rad2 Rb8 $2 (19... Bxh6 $11 20. Qxh6 Qc7) 20. Bf4
+$2 (20. Ne5 $1 $18) 20... Bxf3 21. Bxf3 e5 $1 {[%cal Re5f4]} 22. Bg5 e4 23. Be2
+Rb6 24. Qf4 Rbe6 25. h3 h5 (25... e3 $5 26. fxe3 h6 27. Bxf6 (27. Bxh6 Re4 $14)
+27... Rxf6 $14) 26. Rd6 Nh7 {White must now prevent ...Rxd6.} 27. Rd8 Qc6 28.
+Bh4 {And now R1d7 would win.} Be5 29. Qc1 (29. Qd2 $11 {remains equal.}) 29...
+Rxd8 $17 30. Rxd8+ Kg7 31. Rd5 $1 Nf6 32. Rd1 (32. Bxf6+ $1 $11 Bxf6 33. Qe3)
+32... Nh7 (32... Qb6 $17) 33. Kh1 (33. Rd5 $11) 33... Bd4 $15 34. Bg3 Qb7 35.
+Qc2 Nf8 36. Rf1 Rb6 37. Bd1 Qe7 38. Re1 Re6 39. Bf4 f5 {[%cal Bf7f5,Bf5f4]
+[%mdl 32]} 40. Qd2 Nh7 41. g4 $2 (41. b4 $11 {and White stays safe.}) 41...
+hxg4 $19 42. hxg4 {[#]} g5 $1 {[%cal Rg5f4]} 43. Be3 Bxe3 44. fxe3 $2 {[#]} (
+44. Qxe3 f4 45. Qc3+ Nf6 46. Bc2) 44... f4 $1 {[%mdl 512]} 45. Bc2 (45. Qb2+
+$142 Kg8 46. Qg2) (45. exf4 gxf4) 45... f3 46. Qd5 Rh6+ 47. Kg1 Qc7 48. Qxe4
+Qg3+ {Precision: White = 31%, Black = 57%.} 0-1
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Mammadova, Gulnar"]
+[Black "Cornette, Deimante"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2355"]
+[BlackElo "2462"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Odlar Yurdu"]
+[BlackTeam "Monte-Carlo"]
+
+{[%evp 15,61,19,12,0,0,0,0,0,0,0,8,-13,10,5,5,5,5,20,0,0,0,0,16,19,12,13,25,31,
+25,7,17,14,30,14,30,8,20,12,15,0,9,0,0,0,0,0,0,0]} 1. e4 c5 2. Nf3 Nc6 3. Bb5
+e6 4. O-O Nge7 {[%cal Bg8e7,Be7c6,Bc6d4][%mdl 32]} 5. Re1 Nd4 6. Nxd4 cxd4 7.
+c3 a6 8. Bf1 {B30: Sicilian: 2...Nc6 3 Bb5, lines without ...g6} Nc6 {LiveBook:
+43 Games} 9. cxd4 (9. a4 Bc5 10. b4 Bb6 11. Na3 O-O 12. Nc4 Bc7 13. cxd4 d5 14.
+exd5 Qxd5 15. Ba3 Nxd4 {1/2-1/2 (56) Ragger,M (2657)-Fedorov,A (2573) Katowice
+2017}) 9... Nxd4 10. Nc3 Bc5 11. d3 d6 $146 ({Predecessor:} 11... O-O 12. Be3
+e5 13. Rc1 d6 14. Ne2 Qb6 15. Bxd4 Bxd4 16. Nxd4 Qxd4 {1/2-1/2 (42) Plenca,J 
+(2440)-Ponizil,C (2480) Balatonszarszo 2017}) 12. Be3 {[#] Bxd4 is the strong
+threat.} e5 13. Ne2 Nxe2+ 14. Rxe2 Bg4 15. f3 Bxe3+ 16. Rxe3 Qb6 17. Qd2 Be6
+18. d4 Qxd4 19. Qxd4 exd4 20. Rd3 Rc8 21. Rxd4 Ke7 22. Bd3 Rhd8 23. Kf2 f6 24.
+h4 h6 25. a3 Rc6 {The position is equal.} 26. Rd1 Rb6 27. Rd2 Rc8 28. Be2 Rc1
+29. f4 Rb1 30. b4 Rb3 31. R4d3 {Precision: White = 49%, Black = 58%.} 1/2-1/2
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Balaian, Alina"]
+[Black "Guerini, Silvia jr"]
+[Result "1-0"]
+[ECO "B81"]
+[WhiteElo "2238"]
+[BlackElo "1977"]
+[Annotator "NA"]
+[PlyCount "57"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "SSHOR"]
+[BlackTeam "Banca Alpi Marittime"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} e6 {[%emt 0:
+00:00]} 3. d4 {[%emt 0:00:00]} cxd4 {[%emt 0:00:00]} 4. Nxd4 {[%emt 0:00:00]}
+Nf6 {[%emt 0:00:30]} 5. Nc3 {[%emt 0:00:00]} d6 {[%emt 0:00:16]} 6. g4 {
+[%emt 0:00:15]} h6 {[%emt 0:00:12]} 7. Be3 {[%emt 0:01:47]} Nc6 {[%emt 0:04:31]
+} 8. h3 {[%emt 0:00:15]} a6 {[%emt 0:00:50]} 9. Bg2 {[%emt 0:00:19]} Qc7 {
+[%emt 0:03:42]} 10. Qe2 {[%emt 0:01:38]} Be7 {[%emt 0:03:54]} 11. f4 {[%emt 0:
+04:42]} Na5 {[%emt 0:03:38]} 12. Rd1 {[%emt 0:01:33]} Nc4 {[%emt 0:06:39]} 13.
+Bc1 {[%emt 0:00:10]} Bd7 $14 {[%emt 0:07:40]} (13... g5 $5 {[%cal Rg5f4]}) 14.
+O-O {[%emt 0:01:21]} Nh7 {[%emt 0:14:40]} 15. b3 {[%emt 0:05:47]} Na5 {[%emt 0:
+03:12]} 16. Bb2 {[%emt 0:05:25]} Nc6 {[%emt 0:02:00]} 17. Qe3 {[%emt 0:10:12]}
+Nf6 {[%emt 0:18:27]} 18. Nce2 {[%emt 0:02:25]} Rg8 {[%emt 0:04:32]} 19. c4 {
+[%emt 0:00:49]} Nxd4 {[%emt 0:02:41]} 20. Nxd4 {[%emt 0:04:12]} Bc6 {[%emt 0:
+02:43]} 21. g5 {[%emt 0:04:17]} Nd7 {[%emt 0:01:39]} 22. g6 {[%emt 0:00:21]}
+Nf8 {[%emt 0:05:59]} 23. gxf7+ {[%emt 0:00:41]} Kxf7 {[%emt 0:00:06]} 24. Nxc6
+{[%emt 0:04:52]} bxc6 {[%emt 0:00:22]} 25. e5 {[%emt 0:00:41]} d5 {[%emt 0:06:
+03]} 26. f5 {[%emt 0:02:10]} Rd8 {[%emt 0:02:26]} 27. fxe6+ {[%emt 0:02:35]}
+Kxe6 {[%emt 0:00:34]} 28. Qd4 {[%emt 0:06:36]} Bg5 {[%emt 0:04:16]} 29. cxd5+ {
+[%emt 0:00:42] Kxd5} 1-0
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Haussernot, Cecile"]
+[Black "Klinova, Masha"]
+[Result "1-0"]
+[ECO "B13"]
+[WhiteElo "2204"]
+[BlackElo "2288"]
+[Annotator "NA"]
+[PlyCount "65"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Mulhouse"]
+[BlackTeam "Beer Sheva"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} c6 {[%emt 0:00:00]} 2. d4 {[%emt 0:00:00]} d5 {[%emt 0:
+00:00]} 3. exd5 {[%emt 0:01:06]} cxd5 {[%emt 0:00:00]} 4. Bd3 {[%emt 0:00:06]}
+Nc6 {[%emt 0:00:57]} 5. c3 {[%emt 0:00:17]} Nf6 {[%emt 0:03:12]} 6. Nf3 {
+[%emt 0:05:41]} Bg4 {[%emt 0:06:47]} 7. O-O {[%emt 0:00:44]} Bxf3 {[%emt 0:04:
+04]} 8. Qxf3 {[%emt 0:00:05]} e6 {[%emt 0:00:04]} 9. Qg3 $14 {[%emt 0:18:09]}
+Bd6 {[%emt 0:29:47]} 10. f4 {[%emt 0:00:25]} O-O {[%emt 0:01:13]} 11. Nd2 {
+[%emt 0:00:36]} Ne7 {[%emt 0:04:47]} 12. Nf3 {[%emt 0:00:25]} Ng6 {[%emt 0:07:
+38]} 13. Ne5 {[%emt 0:07:48]} Qc7 {[%emt 0:02:52]} 14. h4 {[%emt 0:09:06]} Rfe8
+{[%emt 0:07:02]} 15. Qh3 {[%emt 0:00:34]} Ne4 {[%emt 0:03:36]} 16. h5 {[%emt 0:
+01:03]} Nf8 {[%emt 0:01:13]} 17. h6 {[%emt 0:06:31]} g6 {[%emt 0:01:18]} 18.
+Be3 {[%emt 0:07:12]} f6 {[%emt 0:01:41]} 19. Ng4 {[%emt 0:10:34]} Nd7 {[%emt 0:
+03:06]} 20. Rac1 {[%emt 0:00:57]} f5 {[%emt 0:01:11]} 21. Ne5 {[%emt 0:00:18]}
+Nxe5 {[%emt 0:02:50]} 22. fxe5 {[%emt 0:00:14]} Bf8 {[%emt 0:02:26]} 23. c4 {
+[%emt 0:03:54]} Qd7 {[%emt 0:00:04]} 24. g4 {[%emt 0:02:38]} Rac8 {[%emt 0:02:
+43]} 25. b3 {[%emt 0:02:40]} dxc4 {[%emt 0:01:50]} 26. bxc4 {[%emt 0:01:34]}
+Kh8 {[%emt 0:00:29]} 27. gxf5 {[%emt 0:02:01]} gxf5 {[%emt 0:00:48]} 28. Bxe4 {
+[%emt 0:01:49]} fxe4 {[%emt 0:00:06]} 29. Kh1 {[%emt 0:00:08]} Ba3 {[%emt 0:03:
+30]} 30. Bg5 {[%emt 0:01:50]} Be7 {[%emt 0:00:48]} 31. Rf7 {[%emt 0:00:20]}
+Qxd4 {[%emt 0:00:58]} 32. Qxe6 {[%emt 0:03:11]} Bxg5 {[%emt 0:00:29]} 33. Qf5 {
+[%emt 0:00:06]} 1-0
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Vidic, Teja"]
+[Black "Zimina, Olga"]
+[Result "0-1"]
+[ECO "B14"]
+[WhiteElo "2116"]
+[BlackElo "2431"]
+[Annotator "NA"]
+[PlyCount "66"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Maribor"]
+[BlackTeam "Pentole Agnelli"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} c6 {[%emt 0:00:00]} 2. d4 {[%emt 0:00:00]} d5 {[%emt 0:
+00:00]} 3. exd5 {[%emt 0:00:00]} cxd5 {[%emt 0:00:00]} 4. c4 {[%emt 0:00:00]}
+Nf6 {[%emt 0:00:00]} 5. Nc3 {[%emt 0:00:04]} g6 {[%emt 0:00:01]} 6. Qb3 {
+[%emt 0:00:10]} Bg7 {[%emt 0:00:05]} 7. cxd5 {[%emt 0:00:04]} O-O {[%emt 0:00:
+06]} 8. Be2 {[%emt 0:00:03]} b6 {[%emt 0:00:05]} 9. Bf3 {[%emt 0:01:42]} Bb7 {
+[%emt 0:00:16]} 10. Nge2 {[%emt 0:04:43]} Qd7 {[%emt 0:00:34]} 11. O-O {
+[%emt 0:02:32]} Na6 {[%emt 0:03:02]} 12. a4 {[%emt 0:08:08]} Nc7 {[%emt 0:09:
+08]} 13. Nf4 {[%emt 0:10:56]} Rab8 {[%emt 0:00:45]} 14. Re1 {[%emt 0:05:57]}
+Rfd8 {[%emt 0:04:12]} 15. a5 {[%emt 0:07:15]} bxa5 {[%emt 0:14:31]} 16. Qa3 {
+[%emt 0:00:04]} Bf8 {[%emt 0:00:19]} 17. Qxa5 {[%emt 0:01:41]} Ncxd5 {[%emt 0:
+07:03]} 18. Nd3 $11 {[%emt 0:10:38]} ({Of course not} 18. Qxa7 Nxc3 19. bxc3
+Ra8 $17) 18... Qf5 {[%emt 0:16:30]} 19. Nc5 {[%emt 0:03:42]} Bc6 {[%emt 0:04:
+39]} 20. Re5 {[%emt 0:04:00]} Qc8 {[%emt 0:00:26]} 21. Na6 {[%emt 0:00:44]} Rb6
+{[%emt 0:01:35]} 22. Nxd5 {[%emt 0:09:56]} Bxd5 {[%emt 0:05:44]} 23. Bxd5 {
+[%emt 0:13:59]} Rxd5 {[%emt 0:10:57]} 24. Nc5 {[%emt 0:02:12]} Rxd4 {[%emt 0:
+06:48]} 25. Be3 {[%emt 0:01:12]} Rd8 {[%emt 0:00:40]} 26. Rc1 {[%emt 0:04:11]}
+Ng4 {[%emt 0:02:15]} 27. Re4 {[%emt 0:04:39]} Nxe3 {[%emt 0:00:52]} 28. fxe3 {
+[%emt 0:00:04]} Rxb2 {[%emt 0:00:48]} 29. Qa1 {[%emt 0:04:22]} Rdd2 {[%emt 0:
+00:33]} 30. Ne6 {[%emt 0:01:11]} Rxg2+ {[%emt 0:00:34]} 31. Kh1 {[%emt 0:00:11]
+} Rxh2+ {[%emt 0:02:59]} 32. Kg1 {[%emt 0:00:03]} Rbg2+ {[%emt 0:00:19]} 33.
+Kf1 {[%emt 0:00:04]} Rc2 {[%emt 0:00:21]} 0-1
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Neuhauser, Salome"]
+[Black "Buzukashvili, Sofia"]
+[Result "1-0"]
+[ECO "B84"]
+[WhiteElo "2115"]
+[BlackElo "1936"]
+[Annotator "NA"]
+[PlyCount "90"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Mulhouse"]
+[BlackTeam "Beer Sheva"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} d6 {[%emt 0:
+00:00]} 3. d4 {[%emt 0:00:16]} cxd4 {[%emt 0:00:01]} 4. Nxd4 {[%emt 0:00:02]}
+Nf6 {[%emt 0:00:14]} 5. Nc3 {[%emt 0:00:04]} a6 {[%emt 0:00:21]} 6. Be2 {
+[%emt 0:02:58]} e6 {[%emt 0:01:01]} 7. Be3 {[%emt 0:09:11]} Qc7 {[%emt 0:02:08]
+} 8. g4 b5 (8... d5 $11 {remains equal.}) 9. g5 {[%emt 0:16:39]} Nfd7 {[%emt 0:
+10:45]} 10. a3 $14 {[%emt 0:00:19] LiveBook: 23 Games} Nc5 {[%emt 0:03:22]} 11.
+f4 {[%emt 0:07:11]} Bb7 {[%emt 0:07:28]} 12. Bf3 {[%emt 0:01:27]} Nc6 {[%emt 0:
+05:00]} 13. Nxc6 {[%emt 0:31:20]} Qxc6 {[%emt 0:07:00]} 14. Qe2 {[%emt 0:03:09]
+} O-O-O {[%emt 0:04:20]} 15. O-O-O {[%emt 0:00:56]} Kb8 {[%emt 0:05:22]} 16.
+Rhf1 {[%emt 0:01:33]} Be7 {[%emt 0:02:34]} 17. f5 {[%emt 0:03:12]} e5 {[%emt 0:
+12:41]} 18. Nd5 {[%emt 0:01:53]} Rhe8 {[%emt 0:06:28]} 19. f6 {[%emt 0:01:28]}
+gxf6 {[%emt 0:01:02]} 20. gxf6 {[%emt 0:00:01]} Bf8 {[%emt 0:00:07]} 21. Kb1 {
+[%emt 0:00:29]} a5 {[%emt 0:06:15]} 22. Qg2 {[%emt 0:01:57]} Ba6 {[%emt 0:05:
+08]} 23. Be2 {[%emt 0:02:48]} Rc8 {[%emt 0:03:28]} 24. Bg4 {[%emt 0:01:28]} Ne6
+{[%emt 0:02:35]} 25. Rf2 {[%emt 0:01:09]} Qb7 {[%emt 0:02:49]} 26. Qh3 {
+[%emt 0:03:41]} Rc4 {[%emt 0:06:06]} 27. Qxh7 {[%emt 0:02:04]} Nc5 {[%emt 0:00:
+24]} 28. Bxc5 {[%emt 0:02:14]} Rxc5 {[%emt 0:00:36]} 29. Bh5 {[%emt 0:00:26]}
+Rec8 {[%emt 0:02:27]} 30. Qxf7 {[%emt 0:00:30]} Qc6 {[%emt 0:00:18]} 31. c3 {
+[%emt 0:00:30]} b4 {[%emt 0:00:38]} 32. axb4 {[%emt 0:00:22]} axb4 {[%emt 0:00:
+08]} 33. Be2 {[%emt 0:04:37]} Bxe2 34. Rxe2 Qa4 {[%emt 0:02:46]} 35. Rd3 {
+[%emt 0:01:07]} b3 {[%emt 0:02:12]} 36. Qh5 {[%emt 0:01:39]} Ra5 {[%emt 0:00:
+56]} 37. Kc1 {[%emt 0:00:17]} Qa1+ {[%emt 0:00:13]} 38. Kd2 {[%emt 0:00:01]}
+Qxb2+ {[%emt 0:00:42]} 39. Ke1 {[%emt 0:00:03]} Ra1+ {[%emt 0:00:28]} 40. Kf2 {
+[%emt 0:00:00]} Qc1 {[%emt 0:00:00]} 41. Qg4 {[%emt 0:23:16]} b2 {[%emt 0:05:
+39]} 42. Ne7 {[%emt 0:06:21]} Bxe7 {[%emt 0:04:47]} 43. fxe7 {[%emt 0:00:01]}
+Qf1+ {[%emt 0:01:17]} 44. Kg3 {[%emt 0:00:59]} Qf4+ {[%emt 0:00:24]} 45. Qxf4 {
+[%emt 0:00:17]} exf4+ {[%emt 0:00:05]} 1-0
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Grapsa, Georgia"]
+[Black "Batsiashvili, Nino"]
+[Result "0-1"]
+[ECO "A40"]
+[WhiteElo "2085"]
+[BlackElo "2482"]
+[Annotator "TA"]
+[PlyCount "70"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Thessaloniki"]
+[BlackTeam "Nona"]
+
+{[%evp 26,70,20,16,62,64,77,-46,0,0,-7,-10,0,-110,-102,-146,-129,-221,-115,
+-141,-93,-595,-589,-1616,-1513,-1701,-1113,-1097,-1068,-1530,-1508,-1611,-781,
+-1330,-1267,-1242,-1252,-29973,-29975,-29950,-6279,-29983,-29984,-29992,-29990,
+-29990,-29991]} 1. d4 Nf6 2. c4 e6 {[%cal Be7e6,Be6e5][%mdl 32]} 3. g3 c5 4.
+Nf3 cxd4 5. Nxd4 d5 6. Bg2 e5 7. Nf3 d4 8. O-O Nc6 9. e3 Be7 10. exd4 exd4 11.
+Bf4 O-O 12. Ne5 Qb6 13. Re1 {E01: Catalan: Early deviations} Be6 14. Nd2 {
+LiveBook: 13 Games} Nxe5 (14... Qxb2 $6 15. Rb1 $16) (14... Rad8 15. Qb3 Qa6
+16. Ndf3 d3 17. Rad1 Ng4 18. Rxd3 Rxd3 19. Qxd3 Rd8 20. Qb3 Ncxe5 21. Nxe5 {
+1/2-1/2 (38) Bok,B (2611)-Moiseenko,A (2674) Germany 2018}) 15. Rxe5 {White is
+slightly better.} a6 16. Ne4 $146 ({White should try} 16. Qb3 $16 Qxb3 17. Nxb3
+) ({Predecessor:} 16. Qb3 Qa7 17. Qxb7 Ng4 18. Rxe6 fxe6 19. Qc6 e5 20. Qe6+
+Rf7 {1-0 (29) Kvisvik,B (2313)-Prieto Aranguren,A (2211) Bilbao 2016}) 16...
+Nxe4 17. Bxe4 {Hoping for Qh5.} Bf6 18. c5 Qxb2 {[#]} 19. Rb1 (19. Rxe6 $1 $11
+{[%mdl 512] remains equal.} fxe6 20. Rb1) 19... Qxa2 $17 20. Rh5 g6 21. Rxb7 (
+21. Be5 $17 Bxe5 22. Rxe5) 21... Bg7 (21... gxh5 22. Qxh5 h6 23. Qxh6 Qa1+ 24.
+Kg2 Qf1+ 25. Kxf1 Bc4+ 26. Kg1 Rfc8 27. Qh7+ Kf8 28. Bh6+ Ke8 29. Qg8#) (21...
+d3 $19 {White must now prevent ...Qe2.} 22. Be5 Qe2 23. Qxd3 Qxh5 24. Bxf6 Qxc5
+) 22. c6 d3 $36 {[%mdl 2048] [#] Threatens to win with ...Qe2. Black has
+strong initiative.} 23. Be5 $2 {[%mdl 8192]} (23. Rh4 $17) 23... Qe2 $19 (23...
+gxh5 24. Qxh5 h6 25. Bxg7 $11) 24. Qa1 Qxe4 25. Bxg7 gxh5 26. Bh6 Qg6 27. Bxf8
+Rxf8 28. c7 Bc8 29. Rb8 Qd6 30. Qd1 Qxc7 31. Qxh5 Qc1+ ({Worse is} 31... Qxb8
+32. Qg5+ Kh8 33. Qf6+ Kg8 34. Qg5+ Kh8 35. Qf6+ Kg8 36. Qg5+ $11) 32. Kg2 Qc6+
+33. Kg1 h6 {Black mates.} 34. Qa5 Qc1+ 35. Kg2 d2 {Precision: White = 31%,
+Black = 54%.} 0-1
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Andolfatto, Maria"]
+[Black "Semenova, Elena"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "2068"]
+[BlackElo "2263"]
+[Annotator "ChessBase"]
+[PlyCount "118"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Banca Alpi Marittime"]
+[BlackTeam "SSHOR"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. Nf3 {[%emt 0:00:00]} d5 {[%emt 0:00:00]} 2. d4 {[%emt 0:00:05]} Nf6 {
+[%emt 0:00:06]} 3. g3 {[%emt 0:00:16]} e6 {[%emt 0:02:34]} 4. Bg2 {[%emt 0:00:
+19]} b5 {[%emt 0:04:02]} 5. O-O {[%emt 0:04:09]} Nbd7 {[%emt 0:01:46]} 6. a4 {
+[%emt 0:03:35]} b4 {[%emt 0:01:30]} 7. a5 {[%emt 0:03:03]} Rb8 {[%emt 0:13:27]}
+8. Nbd2 {[%emt 0:07:35]} Be7 {[%emt 0:03:05]} 9. c4 {[%emt 0:06:11]} bxc3 {
+[%emt 0:01:02]} 10. bxc3 {[%emt 0:00:21]} c5 {[%emt 0:09:04]} 11. c4 {[%emt 0:
+04:17]} O-O {[%emt 0:03:31]} 12. Ba3 {[%emt 0:04:25]} Ba6 {[%emt 0:07:26]} 13.
+Qc2 {[%emt 0:03:36]} cxd4 {[%emt 0:06:27]} 14. Nxd4 {[%emt 0:12:30]} Rc8 {
+[%emt 0:02:08]} 15. Qa4 {[%emt 0:03:37]} Bxa3 {[%emt 0:02:37]} 16. Rxa3 {
+[%emt 0:01:11]} Nc5 {[%emt 0:03:21]} 17. Qd1 {[%emt 0:01:09]} dxc4 {[%emt 0:07:
+14]} 18. Nc6 {[%emt 0:06:56]} Rxc6 {[%emt 0:08:02]} 19. Bxc6 {[%emt 0:02:22]}
+Qd6 {[%emt 0:00:06]} 20. Nxc4 {[%emt 0:06:00]} Qxc6 {[%emt 0:00:33]} 21. Qd4 {
+[%emt 0:02:13]} Ncd7 {[%emt 0:05:59]} 22. Ne5 {[%emt 0:03:06]} Nxe5 {[%emt 0:
+01:04]} 23. Qxe5 {[%emt 0:00:11]} Bb7 {[%emt 0:03:18]} 24. f3 {[%emt 0:00:39]}
+Nd5 {[%emt 0:01:05]} 25. Raa1 {[%emt 0:02:08]} Qc3 {[%emt 0:04:49]} 26. Qxc3 {
+[%emt 0:09:27]} Nxc3 {[%emt 0:00:03]} 27. a6 {[%emt 0:01:49]} Bc6 {[%emt 0:02:
+52]} 28. Kf2 {[%emt 0:03:10]} Bb5 {[%emt 0:01:17]} 29. Rfe1 {[%emt 0:00:42]}
+Rd8 {[%emt 0:01:42]} 30. Rac1 {[%emt 0:02:01]} Nd5 {[%emt 0:00:57]} 31. Red1 {
+[%emt 0:01:07]} Ra8 {[%emt 0:00:29]} 32. e4 {[%emt 0:03:03]} Nb6 {[%emt 0:00:
+30]} 33. Rc7 {[%emt 0:01:26]} Kf8 {[%emt 0:00:17]} 34. Ra1 {[%emt 0:00:24]} Ke8
+{[%emt 0:01:05]} 35. Ra5 {[%emt 0:00:32]} Bd7 {[%emt 0:00:37]} 36. Rac5 {
+[%emt 0:02:41]} Bc8 {[%emt 0:02:29]} 37. Ra5 {[%emt 0:00:50]} Nd7 {[%emt 0:00:
+47]} 38. Ke3 {[%emt 0:00:51]} Kd8 {[%emt 0:00:12]} 39. Rc3 {[%emt 0:00:18]} Rb8
+{[%emt 0:00:23]} 40. h4 {[%emt 0:00:00]} Rb6 {[%emt 0:00:00]} 41. Kd4 {[%emt 0:
+07:20]} Rd6+ {[%emt 0:04:59]} 42. Ke3 {[%emt 0:00:38]} Nb8 {[%emt 0:07:43]} 43.
+Rb3 {[%emt 0:09:33]} Kc7 {[%emt 0:03:23]} 44. Rc5+ {[%emt 0:03:26]} Rc6 {
+[%emt 0:00:40]} 45. Rcb5 {[%emt 0:00:40]} Nxa6 {[%emt 0:00:37]} 46. Kd4 {
+[%emt 0:00:13]} Rd6+ {[%emt 0:01:01]} 47. Ke3 {[%emt 0:00:53]} Rb6 {[%emt 0:00:
+38]} 48. Rc3+ {[%emt 0:00:38]} Rc6 {[%emt 0:00:41]} 49. Ra3 {[%emt 0:00:46]}
+Rb6 {[%emt 0:03:29]} 50. Rba5 {[%emt 0:02:38]} Kc6 {[%emt 0:03:31]} 51. Rc3+ {
+[%emt 0:00:38]} Kb7 {[%emt 0:00:32]} 52. Rca3 {[%emt 0:00:22]} Kb8 {[%emt 0:01:
+03]} 53. R3a4 {[%emt 0:03:04]} Bb7 {[%emt 0:00:40]} 54. Rd4 {[%emt 0:01:20]}
+Kc7 {[%emt 0:00:57]} 55. Rda4 {[%emt 0:01:05]} Rb3+ {[%emt 0:01:42]} 56. Kf4 {
+[%emt 0:00:53]} Kb6 {[%emt 0:01:55]} 57. Ra1 {[%emt 0:02:14]} f6 {[%emt 0:00:
+16]} 58. Rh5 {[%emt 0:01:25]} e5+ {[%emt 0:00:20]} 59. Kg4 {[%emt 0:00:32]}
+Bc8+ {[%emt 0:00:04]} 0-1
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Kumanska, Olena"]
+[Black "Richard, Emma"]
+[Result "0-1"]
+[ECO "A46"]
+[WhiteElo "2054"]
+[BlackElo "2127"]
+[Annotator "NA"]
+[PlyCount "70"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Beer Sheva"]
+[BlackTeam "Mulhouse"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} e6 {
+[%emt 0:00:00]} 3. Bf4 {[%emt 0:00:01]} c5 {[%emt 0:00:53]} 4. e3 {[%emt 0:00:
+25]} Nc6 {[%emt 0:01:56]} 5. c3 {[%emt 0:00:17]} cxd4 {[%emt 0:04:30]} 6. exd4
+{[%emt 0:00:20]} Be7 {[%emt 0:01:13]} 7. Bd3 {[%emt 0:00:20]} d6 {[%emt 0:01:
+50]} 8. O-O {[%emt 0:00:18]} O-O {[%emt 0:00:22]} 9. Qe2 {[%emt 0:01:17]} Re8 {
+[%emt 0:07:53]} 10. Bg3 {[%emt 0:02:58]} Nh5 {[%emt 0:12:39]} 11. Nfd2 $15 {
+[%emt 0:04:25]} (11. Na3 $11) 11... g6 {[%emt 0:03:42]} 12. b4 {[%emt 0:02:38]}
+a6 {[%emt 0:01:34]} 13. a4 {[%emt 0:00:15]} f5 {[%emt 0:06:54]} 14. f4 {
+[%emt 0:01:40]} Bf6 {[%emt 0:03:04]} 15. Qf2 {[%emt 0:04:48]} Nxg3 {[%emt 0:00:
+34]} 16. hxg3 {[%emt 0:00:15]} e5 {[%emt 0:02:04]} 17. d5 {[%emt 0:02:00]} e4 {
+[%emt 0:19:34]} 18. dxc6 {[%emt 0:01:16]} exd3 {[%emt 0:00:05]} 19. Nc4 {
+[%emt 0:12:01]} bxc6 {[%emt 0:01:59]} 20. Qf3 {[%emt 0:03:07]} d5 {[%emt 0:02:
+45]} 21. Na5 {[%emt 0:15:35]} Qb6+ {[%emt 0:02:15]} 22. Kh2 {[%emt 0:00:50]}
+Re3 {[%emt 0:04:54]} 23. Qf2 {[%emt 0:00:34]} Bd7 {[%emt 0:00:30]} 24. Ra2 {
+[%emt 0:03:14]} Rae8 {[%emt 0:05:37]} 25. Rd2 {[%emt 0:02:42]} c5 {[%emt 0:05:
+17]} 26. Nb3 {[%emt 0:01:36]} cxb4 {[%emt 0:01:01]} 27. Rxd3 {[%emt 0:01:30]}
+bxc3 {[%emt 0:00:27]} 28. a5 {[%emt 0:02:53]} Qxb3 {[%emt 0:02:10]} 29. Rxe3 {
+[%emt 0:00:05]} d4 {[%emt 0:00:52]} 30. Rxe8+ {[%emt 0:00:18]} Bxe8 {[%emt 0:
+00:04]} 31. Qf3 {[%emt 0:01:24]} Qe6 {[%emt 0:00:47]} 32. Na3 {[%emt 0:07:59]}
+Bc6 {[%emt 0:00:18]} 33. Qd1 {[%emt 0:00:29]} Qd5 {[%emt 0:00:58]} 34. Rf2 {
+[%emt 0:01:06]} d3 {[%emt 0:00:21]} 35. Qb1 {[%emt 0:01:13]} d2 {[%emt 0:00:24]
+} 0-1
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Santeramo, Alessia"]
+[Black "Belenkaya, Dina"]
+[Result "0-1"]
+[ECO "B19"]
+[WhiteElo "2054"]
+[BlackElo "2329"]
+[Annotator "NA"]
+[PlyCount "112"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Banca Alpi Marittime"]
+[BlackTeam "SSHOR"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} c6 {[%emt 0:00:00]} 2. d4 {[%emt 0:00:00]} d5 {[%emt 0:
+00:00]} 3. Nc3 {[%emt 0:00:00]} dxe4 {[%emt 0:00:00]} 4. Nxe4 {[%emt 0:00:00]}
+Bf5 {[%emt 0:00:01] LiveBook: 13049 Games} 5. Ng3 {[%emt 0:00:17]} Bg6 {
+[%emt 0:00:06]} 6. h4 {[%emt 0:00:21]} h6 {[%emt 0:00:26]} 7. Nf3 {[%emt 0:00:
+12]} Nd7 {[%emt 0:00:26]} 8. h5 {[%emt 0:00:14]} Bh7 {[%emt 0:00:11]} 9. Bd3 {
+[%emt 0:00:13]} Bxd3 {[%emt 0:00:05]} 10. Qxd3 {[%emt 0:00:06]} e6 {[%emt 0:00:
+15]} 11. Bd2 {[%emt 0:01:07]} Ngf6 {[%emt 0:00:12]} 12. O-O-O {[%emt 0:00:18]}
+Be7 {[%emt 0:00:06]} 13. Ne4 {[%emt 0:00:25]} Nxe4 {[%emt 0:02:56]} 14. Qxe4 {
+[%emt 0:00:07]} Nf6 {[%emt 0:00:04] B19: Classical Caro-Kann: 4...Bf5 main line
+} 15. Qd3 {[%emt 0:00:46]} c5 {[%emt 0:06:14]} 16. Qb5+ {[%emt 0:01:10]} Qd7 {
+[%emt 0:00:25]} 17. Qxd7+ {[%emt 0:00:18]} Nxd7 {[%emt 0:00:11]} 18. Be3 {
+[%emt 0:00:20] [#]} c4 $146 {[%emt 0:08:06]} ({Predecessor:} 18... cxd4 19.
+Bxd4 Bf6 20. Rhe1 Ke7 21. Ne5 Bxe5 22. Bxe5 Nxe5 23. Rxe5 {1-0 (49) Chigaev,M 
+(2551)-Dreev,A (2660) Sochi 2016}) 19. d5 {[%emt 0:05:42]} e5 {[%emt 0:04:06]}
+20. d6 {[%emt 0:07:06]} Bd8 {[%emt 0:04:24]} 21. Rd5 {[%emt 0:14:01]} f6 {
+[%emt 0:03:00]} 22. Nh4 {[%emt 0:01:23]} Kf7 {[%emt 0:03:51]} 23. Rhd1 {
+[%emt 0:09:22]} Bb6 {[%emt 0:12:09]} 24. Nf5 {[%emt 0:04:48]} Rhd8 {[%emt 0:06:
+16]} 25. Bxb6 {[%emt 0:12:28]} axb6 {[%emt 0:01:31]} 26. Kb1 {[%emt 0:01:55]}
+Rac8 {[%emt 0:07:13]} 27. c3 {[%emt 0:10:53]} Rc5 {[%emt 0:01:44]} 28. Rxc5 {
+[%emt 0:06:08]} Nxc5 {[%emt 0:03:15]} 29. d7 {[%emt 0:01:23]} Nd3 {[%emt 0:19:
+09]} 30. Nd6+ {[%emt 0:00:58]} Ke7 {[%emt 0:01:14]} 31. Nxc4 {[%emt 0:00:47]}
+Nxf2 {[%emt 0:00:25]} 32. Rd5 {[%emt 0:02:03]} Rxd7 {[%emt 0:05:27]} 33. Nxb6 {
+[%emt 0:00:06]} Rxd5 {[%emt 0:00:38]} 34. Nxd5+ {[%emt 0:00:02]} Ke6 {[%emt 0:
+04:44]} 35. c4 {[%emt 0:00:06]} Ne4 {[%emt 0:01:23]} 36. Kc2 {[%emt 0:03:10]}
+Ng3 {[%emt 0:00:11]} 37. a4 {[%emt 0:00:41]} Nxh5 {[%emt 0:00:18]} 38. a5 {
+[%emt 0:00:07]} Kd6 {[%emt 0:03:06]} 39. b4 {[%emt 0:00:36]} Ng3 {[%emt 0:01:
+16]} 40. Kd3 {[%emt 0:00:00]} f5 {[%emt 0:00:00]} 41. b5 {[%emt 0:11:22]} Ne4 {
+[%emt 0:03:55]} 42. Nb4 {[%emt 0:06:19]} Nc5+ {[%emt 0:01:39]} 43. Kc3 {
+[%emt 0:00:46]} f4 {[%emt 0:09:36]} 44. a6 {[%emt 0:03:39]} bxa6 {[%emt 0:00:
+20]} 45. bxa6 {[%emt 0:00:06]} Kc7 {[%emt 0:02:22]} 46. Nd5+ {[%emt 0:09:10]}
+Kc6 {[%emt 0:01:57]} 47. Ne7+ {[%emt 0:00:49]} Kb6 {[%emt 0:01:24]} 48. a7 {
+[%emt 0:00:13]} Kb7 {[%emt 0:01:10]} 49. Nc6 {[%emt 0:04:07]} e4 {[%emt 0:03:
+33]} 50. Kd4 {[%emt 0:03:43]} e3 {[%emt 0:00:29]} 51. Ne5 {[%emt 0:00:35]} Na4
+{[%emt 0:04:38]} 52. Kd3 {[%emt 0:02:08]} Kxa7 {[%emt 0:02:02]} 53. Ng6 {
+[%emt 0:06:28]} Nc5+ {[%emt 0:00:58]} 54. Ke2 {[%emt 0:00:10]} Ne6 {[%emt 0:00:
+19]} 55. g3 {[%emt 0:00:12]} Nd4+ {[%emt 0:00:47]} 56. Kd3 {[%emt 0:00:24]} e2
+{[%emt 0:00:25]} 0-1
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Mihevc-Mohr, Narcisa"]
+[Black "Brunello, Marina"]
+[Result "0-1"]
+[ECO "B91"]
+[WhiteElo "1983"]
+[BlackElo "2294"]
+[Annotator "NA"]
+[PlyCount "66"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Maribor"]
+[BlackTeam "Pentole Agnelli"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} d6 {[%emt 0:
+00:00]} 3. d4 {[%emt 0:00:00]} cxd4 {[%emt 0:00:01]} 4. Nxd4 {[%emt 0:00:00]}
+Nf6 {[%emt 0:00:05]} 5. Nc3 {[%emt 0:00:04]} a6 {[%emt 0:00:07]} 6. g3 {
+[%emt 0:00:19]} e5 {[%emt 0:01:53]} 7. Nb3 {[%emt 0:00:26]} Be7 {[%emt 0:00:35]
+} 8. a4 {[%emt 0:02:47]} Nc6 {[%emt 0:04:02]} 9. Bg2 {[%emt 0:04:35]} O-O {
+[%emt 0:00:23]} 10. O-O {[%emt 0:00:11]} Bg4 {[%emt 0:02:46]} 11. f3 {[%emt 0:
+04:33]} Be6 {[%emt 0:00:17]} 12. Bg5 {[%emt 0:05:05]} Nxe4 {[%emt 0:05:47]} 13.
+Nxe4 {[%emt 0:36:18]} Bxg5 {[%emt 0:00:10]} 14. Qxd6 {[%emt 0:00:50]} Qb6+ {
+[%emt 0:01:51]} 15. Kh1 {[%emt 0:02:42]} Be7 {[%emt 0:01:07]} 16. Qd3 {[%emt 0:
+05:35]} Nb4 {[%emt 0:08:40]} 17. a5 {[%emt 0:16:54]} Qc7 {[%emt 0:02:38]} 18.
+Qc3 {[%emt 0:02:27]} Qxc3 {[%emt 0:00:51]} 19. bxc3 {[%emt 0:00:05]} Nxc2 {
+[%emt 0:00:09]} 20. Rab1 {[%emt 0:01:09]} Rac8 {[%emt 0:04:52]} 21. Rfc1 {
+[%emt 0:05:43]} Ne3 {[%emt 0:00:30]} 22. Nbd2 {[%emt 0:01:47]} Bd5 {[%emt 0:00:
+50]} 23. Nf1 {[%emt 0:04:20]} Nxg2 {[%emt 0:03:55]} 24. Kxg2 {[%emt 0:00:04]}
+f5 {[%emt 0:00:22]} 25. Ned2 {[%emt 0:01:23]} Bc5 {[%emt 0:03:25]} 26. Re1 {
+[%emt 0:01:31]} Rce8 {[%emt 0:00:50]} 27. Ne3 {[%emt 0:00:57]} Bc6 {[%emt 0:00:
+05]} 28. Nb3 {[%emt 0:01:29]} Ba7 {[%emt 0:01:58]} 29. Nd2 {[%emt 0:01:13]} Rd8
+{[%emt 0:01:49]} 30. Ndc4 {[%emt 0:00:07]} Rd3 {[%emt 0:02:32]} 31. Rbc1 {
+[%emt 0:00:35]} f4 {[%emt 0:00:30]} 32. Red1 {[%emt 0:01:25]} Rxe3 {[%emt 0:00:
+37]} 33. Nxe3 {[%emt 0:00:04]} fxe3 {[%emt 0:00:39]} 0-1
+
+[Event "23rd European Women Club Cup 2018"]
+[Site "Halkidiki"]
+[Date "2018.10.13"]
+[Round "2"]
+[White "Tsivelekidou, Anthoula Elpida"]
+[Black "Khotenashvili, Bela"]
+[Result "0-1"]
+[ECO "A40"]
+[WhiteElo "1147"]
+[BlackElo "2469"]
+[Annotator "TA"]
+[PlyCount "76"]
+[EventDate "2018.10.12"]
+[EventType "team-tourn"]
+[EventCountry "GRE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeam "Thessaloniki"]
+[BlackTeam "Nona"]
+
+{[%evp 9,76,-12,54,-57,-53,-77,-72,-78,-98,-87,-85,-119,-119,-114,-56,-106,
+-106,-106,-97,-95,-99,-110,-114,-126,-125,-149,-148,-154,-155,-162,-156,-202,
+-191,-197,-191,-252,-254,-252,-258,-262,-266,-262,-250,-356,-356,-357,-364,
+-368,-365,-522,-530,-555,-548,-570,-568,-580,-580,-756,-739,-754,-698,-820,
+-808,-963,-902,-1112,-1110,-1073,-1077]} 1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. Be3 (
+4. d5 d6 5. e4 Nf6 6. Nge2 O-O 7. Ng3 a6 8. a4 h5 9. Be2 e5 10. Bg5 Qe8 11. Qd2
+Nbd7 12. a5 Nh7 13. Bh6 Rb8 14. Bxh5 Bxh6 15. Qxh6 b6 {0-1 (41) Ding,L (2774)
+-Carlsen,M (2837) Saint Louis 2017}) 4... Qa5 $146 ({Vorgänger:} 4... cxd4 5.
+Bxd4 Nf6 6. Nd5 O-O 7. Nxf6+ exf6 8. Bc3 Nc6 9. Nf3 Ne5 10. e3 Qc7 11. Qd5 Qc6
+{1-0 (72) Zahorsky,R (1919)-Varga,A (1986) Slovakia 2005}) 5. g3 Nh6 (5... Nf6
+$11) 6. Nf3 {A40: Verschiedene (seltene) Antworten auf 1.d4} ({Viel schlechter
+ist} 6. dxc5 Bxc3+ 7. bxc3 Ng4 $11) (6. Bh3 $14) 6... Nf5 $15 7. Qd2 Nxe3 8.
+Qxe3 {Schwarz steht besser.} cxd4 9. Nxd4 Nc6 10. Ndb5 O-O {Droht ...a6 und
+aus.} 11. Bg2 Qb4 ({Lieber} 11... a6 $17 12. Na3 b5 $1 {[%mdl 512]} 13. cxb5
+axb5) 12. c5 {[#]} Nd4 $1 {[%cal Rd4c2]} ({Schlechter ist} 12... Qxb2 13. Rb1
+$14) 13. Nxd4 Bxd4 14. Qd2 Qxc5 ({Natürlich nicht} 14... Bxc5 15. O-O $11) 15.
+e3 Bxc3 $1 16. bxc3 d6 17. Rb1 Rb8 18. O-O b6 19. Qd4 Bf5 20. Rb2 Rfc8 {
+[%cal Bf8c8,Bc8c7,Bc7c5,Bc5a5][%mdl 32]} 21. Rc1 Rc7 22. Qxc5 (22. Qd2 $142)
+22... Rxc5 $19 23. Kf1 Rbc8 24. Rb3 Ra5 25. Rb2 Ra3 26. c4 {[#]} (26. Bd5 {
+ist eine bessere Verteidigung.}) 26... Rxc4 $1 {[%mdl 512]} 27. Rxc4 {Schwarz
+muss nun Tc7 beachten.} Bd3+ 28. Ke1 Bxc4 {[%mdl 4096] Endspiel KTL-KTL} 29.
+Rc2 (29. Bf1 $142 Rxa2 30. Rxa2 Bxa2 31. e4) 29... d5 {Schwarz steht klar auf
+Gewinn.} 30. e4 e6 {[%cal Be7e6,Be6d5][%mdl 32]} 31. exd5 exd5 32. Kd2 Kf8 33.
+Rc3 Rxa2+ 34. Ke3 Ke7 35. Bh3 Kd6 36. Kf3 b5 37. Re3 d4 38. Re1 Bd5+ {
+Precision: Weiß = 27%, Schwarz = 85%.} 0-1
+

@@ -1,0 +1,80 @@
+[Event "Batumi Chess Olympiad | Open"]
+[Site "?"]
+[Date "2018.10.05"]
+[Round "11.4"]
+[White "Tomczak, Jacek"]
+[Black "Adhiban, B..."]
+[Result "1/2-1/2"]
+[ECO "B68"]
+[WhiteElo "2614"]
+[BlackElo "2668"]
+[Annotator "Surya Sekhar Ganguly"]
+[PlyCount "109"]
+[EventDate "2018.??.??"]
+[SourceVersionDate "2018.09.24"]
+[WhiteTeam "Poland"]
+[BlackTeam "India"]
+[WhiteTeamCountry "POL"]
+[BlackTeamCountry "IND"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 {India needed a win and
+the most natural strategy would have been to play solid as black and try with
+white side. Anand and Vidit had white while Adhiban and Hari had black. Such
+strategies won’t work with Adhiban on team ;-) Adhiban will be the last
+person to shy away from taking risk or avoiding playing a complicated game. It
+is pity that he could not win this game but one must give full credit to him
+for trying his absolute best right from the very beginning. For today Mr.
+Unpredictable Beast decided to play Classical Sicilian and looking forward for
+a complex Rauzer battle.} 6. Bg5 e6 7. Qd2 Be7 8. O-O-O a6 9. f4 Bd7 {One of
+the oldest line in Rauzer.} 10. Nb3 {I don't recall seeing this at top level.
+This whole line with Be7-Bd7 lost its popularity mainly due to the mainline 10.
+Nf3 followed by Bf6} (10. Nf3 b5 11. Bxf6 gxf6 {White has number of tries here.
+What Adhiban had in mind as black will remain a secret for now.}) 10... b5 11.
+Bxf6 gxf6 {With the knight oddly placed on b3 now black has no issues.} 12. Bd3
+Qb6 13. Qe1 Nb4 {Aiming to exchange queens and get a normal comfortable
+position. I felt with the knight far away at b3 black could have perhaps
+started playing on queenside as white's play in center is not yet visible.} (
+13... b4 $5 14. Ne2 (14. Na4 Qc7 {[%csl Ra4]}) 14... a5 {[%csl Rb3]} (14... Rb8
+$5) 15. Kb1 a4 16. Nd2 Qc5 {White will eventually have to trade queens and
+thus black would have gained some tempos compared to the game.}) 14. Be2 (14.
+Kb1 a5) 14... Qe3+ 15. Qd2 Qxd2+ 16. Rxd2 h5 (16... Bd8 $5 {was an interesting
+idea to make nice space for black king on e7 and activating the dark square
+bishop little bit.} 17. Rhd1 Bc7 $132 {[%cal Ge8e7]}) 17. Bf3 h4 18. Kb1 Nc6
+19. Rhd1 O-O-O {Not a big fan of this move in this situation. Why the king
+will be safer on queenside and why the rook is better placed on d8 than on a8
+is not at all clear to me.} (19... Rg8 20. Ne2 a5 {Position remains balanced})
+20. a4 Na7 (20... b4 21. Ne2 Kc7 22. Rc1) 21. axb5 axb5 22. Ka2 $6 {I failed
+to understand purpose of this move. Probably white wants to remove the knight
+from b3 and then put his king on b3? I am not sure but it looks vague and
+impractical.} (22. Nd4 Kc7 (22... b4 23. Na2 {[%csl Rb4]}) 23. b4 {[%cal Gb1b2]
+} d5 24. exd5 Bxb4 25. Kb2 Bxc3+ 26. Kxc3 exd5 27. Re1 {was one possibility}) (
+22. f5 {[%cal Gf3g4,Gb3d4] I like this thematic move as well.} Rhg8 23. h3 $14
+{[%cal Gf3g4]}) (22. Na5 $5 Kc7 23. f5 Kb6 24. b4 {also looked interesting for
+white.}) 22... b4 23. Ne2 Nc6 $6 {Something must have gone wrong here. Clearly
+Adhiban's idea could not have been to meet Nd4 with Na7 back. He does make
+many weird looking moves at times but this is too much even for his standards!}
+(23... Kc7) (23... e5) 24. Ned4 Na7 {Seriously this could not have been a part
+of his plan :)} (24... e5 25. Nf5 Be6 {Engine feels this is better than Na7
+and it does make sense.}) (24... Kb7 25. Nb5) 25. c3 {White could have
+prepared a bit more} (25. Rd3 $5 Kb8 26. Na5 $14) 25... bxc3 26. Rc2 Kb8 27.
+Na5 (27. Rxc3 Rc8) 27... Rc8 28. Rb1 Rc5 {Now black is fine again} 29. b4 $6 (
+29. bxc3+ Kc8 30. Ndb3 Rb5 (30... Rc7 31. Nd4) 31. Be2 Rb8 32. Nd4 $11) 29...
+Rcc8 30. b5 Rc5 $1 31. Rb3 (31. Be2 Bd8) 31... Nxb5 {Super tempting but most
+likely fizzles out.} (31... Bd8 $5 32. Nac6+ Kb7 33. e5 (33. Nxa7 Kxa7 34.
+Rbxc3 Bb6 $36) 33... d5 34. Nxd8+ Rxd8 35. exf6 Rc4 $1 36. Nc6 Ra4+ 37. Kb1
+Bxc6 38. bxc6+ Kc7 $15) 32. Be2 Kc7 $1 {The tactical justification of
+Adhiban's play.} 33. Nxb5+ Bxb5 34. Bxb5 (34. Rxb5 Rxb5 35. Bxb5 Kb6 $36) 34...
+Ra8 35. Rcxc3 Rxc3 (35... Rxa5+ 36. Kb2 {Hard to imagine black can win this
+opposite color bishop endgame.}) 36. Rxc3+ Kb6 37. Kb2 Kxb5 (37... Rxa5 38. Be8
+f5 39. Rc6+ $1 Kb7 40. Rc4 fxe4 41. Rxe4 Rf5 42. g4 hxg3 43. hxg3 d5 44. g4 Rf6
+45. g5 Rf5 46. Re2 Rxf4 47. g6 {is one sample variation to show the draw.}) 38.
+Rb3+ Kc5 39. Rc3+ Kb6 40. Rb3+ Kc5 41. Rc3+ {Just when everyone thought it
+would now end in a draw Adhiban tried his best to keep the game and medal
+chances alive!} Kd4 $5 42. Nc6+ Kxe4 43. Nxe7 Kxf4 {Unfortunately despite
+having three pawns for knight and white king being far away, black doesn't
+really have any advantage as the pawns are not going to roll that fast.} 44.
+Rc4+ Kg5 45. Nc6 d5 46. Rc2 e5 47. Rc5 h3 (47... Rc8 48. Kc2 f5 49. Kd2 $11)
+48. gxh3 Rc8 49. Kc2 d4 50. Kd3 Kh4 51. Ke4 Kxh3 52. Rc2 Rg8 53. Rf2 Rg4+ 54.
+Kd3 Rf4 55. Rxf4 {Great try by Adhiban as black pieces who kept on fighting
+until the very end.} 1/2-1/2
+

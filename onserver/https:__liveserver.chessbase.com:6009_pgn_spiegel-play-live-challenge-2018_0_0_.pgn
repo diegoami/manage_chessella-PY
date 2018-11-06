@@ -1,0 +1,457 @@
+[Event "Spiegel Play Live Challenge 2018"]
+[Site "Hamburg"]
+[Date "2018.10.08"]
+[Round "1.1"]
+[White "Carlsen, Magnus"]
+[Black "Poniewasz, Justus"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2839"]
+[Annotator "TA"]
+[PlyCount "43"]
+[EventDate "2018.10.08"]
+[EventType "simul"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,42,22,23,8,27,27,169,160,197,191,777,766,755,751,1566,1548,29991,
+29992,29992,29993,29997,29994,29994,29995,29995,29996,29996,29997,29997,29998,
+29998,29999,29999,29999,29999]} 1. e4 e6 2. d4 d6 3. Nf3 Nf6 4. Nc3 Be7 5. Be3
+(5. Bd3 Nc6 6. h3 O-O 7. a3 e5 8. Be3 exd4 9. Nxd4 Nd7 10. Nd5 Nb6 11. Nxc6
+bxc6 12. Nxe7+ Qxe7 {0-1 (31) Daulyte,D (2429)-Lenderman,A (2581) London 2016})
+5... O-O 6. Bd3 {B07: Pirc-Ufimzew-Verteidigung} Bd7 7. h4 $146 {[%cal Bh2h4,
+Bh4g5,Bg5g6][%mdl 32]} ({Vorgänger:} 7. O-O Nc6 8. d5 Nb4 9. dxe6 Bxe6 10. Be2
+Re8 11. a3 Nc6 12. Ng5 Bd7 13. Nd5 Nxd5 14. exd5 Na5 15. Qd3 Bxg5 16. Bxg5 Qxg5
+17. b4 c6 18. bxa5 cxd5 19. h3 d4 {1-0 (19) Willis,C (786)-Jacobs,J (626)
+Gauteng 2017}) 7... Nc6 {[#]} (7... Ng4 $11 {und Schwarz ist OK.}) 8. e5 $1 $18
+{[%cal Re5f6] Weiß steht deutlich besser.} Ng4 {[#]} 9. Bxh7+ $1 {[%mdl 512]}
+Kxh7 $2 (9... Kh8) 10. Ng5+ Bxg5 11. hxg5+ Kg8 12. Qxg4 {Beabsichtigt Dh5 und
+Matt.} f6 13. g6 {Weiß setzt Matt.} Rf7 14. Rh7 f5 {[#]} 15. Rh8+ $1 {[%mdl
+512]} Kxh8 16. Qh5+ Kg8 17. Qh7+ Kf8 18. Qh8+ Ke7 19. Bg5+ Rf6 20. Bxf6+ gxf6
+21. Qxf6+ Ke8 22. Qf7# {Precision: Weiß = 90%, Schwarz = 24%.} 1-0
+
+[Event "Spiegel Play Live Challenge 2018"]
+[Site "Hamburg"]
+[Date "2018.10.08"]
+[Round "1.2"]
+[White "Carlsen, Magnus"]
+[Black "Kempsey, Joseph"]
+[Result "1-0"]
+[ECO "D38"]
+[WhiteElo "2839"]
+[Annotator "TA"]
+[PlyCount "63"]
+[EventDate "2018.10.08"]
+[EventType "simul"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,63,36,20,47,51,48,37,58,42,45,49,68,57,74,82,87,43,189,168,172,156,
+242,249,257,262,262,258,260,252,300,300,327,280,378,370,364,354,412,413,497,
+463,589,576,6397,6395,6349,6252,6317,6299,6079,1936]} 1. d4 Nf6 2. c4 e6 3. Nf3
+d5 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 O-O 7. e3 c5 {D38: Queen's Gambit Declined:
+Ragozin Defence (4 Nf3 Bb4)} (7... h6 8. Bh4 Bf5 9. Qb3 Bxc3+ 10. bxc3 Nbd7 11.
+Be2 c5 12. dxc5 g5 13. Nd4 Bg6 14. c6 bxc6 15. Nxc6 {1/2-1/2 (46) So,W (2792)
+-Karjakin,S (2753) Wijk aan Zee 2018}) 8. Bd3 {LiveBook: 47 Games} cxd4 9. Nxd4
+Bxc3+ {White is slightly better.} 10. bxc3 h6 $146 ({Predecessor:} 10... Nbd7
+11. O-O Ne5 12. Bc2 Ng6 13. Qf3 Be6 14. Bb3 Rc8 15. Bxf6 gxf6 16. Nxe6 fxe6 17.
+e4 Ne5 18. Qe3 Qd6 19. exd5 exd5 {1-0 (29) Shalamberidze,A (2381)-Patsia,Z 
+(2145) Tbilisi 2009}) 11. Bh4 Nc6 12. O-O Re8 13. Rb1 Nxd4 14. cxd4 b6 15. Bb5
+Bd7 ({Black should play} 15... Re6 $14) 16. Bxf6 $1 $18 gxf6 17. Qf3 Bxb5 (
+17... f5 $16 18. a3 (18. Qxd5 Bxb5 19. Qxb5 f4 $18) 18... Rc8) 18. Rxb5 Qe7 19.
+Rxd5 Qe4 20. Qxe4 Rxe4 {[%mdl 4096] Endgame KRR-KRR} 21. Rc1 Re7 22. g3 Rb7 23.
+Kg2 a5 24. a4 Re8 25. Rb5 Ree7 26. Rcb1 Kf8 27. Rxb6 {White is clearly winning.
+} Rxb6 28. Rxb6 Re6 29. Rxe6 fxe6 30. e4 Ke7 31. Kf3 Kf7 32. Ke3 {Precision:
+White = 86%, Black = 31%.} (32. Kg4 $142 Kg6 33. h4) 1-0
+
+[Event "Spiegel Play Live Challenge 2018"]
+[Site "Hamburg"]
+[Date "2018.10.08"]
+[Round "1.3"]
+[White "Carlsen, Magnus"]
+[Black "Rottwilm, Christoph"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "2839"]
+[Annotator "TA"]
+[PlyCount "71"]
+[EventDate "2018.10.08"]
+[EventType "simul"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,71,14,26,21,26,26,28,30,51,37,52,45,66,33,38,39,59,42,52,51,86,62,76,
+64,82,54,60,48,46,40,36,37,37,46,51,48,42,44,89,41,43,24,24,11,96,101,141,138,
+165,161,260,256,260,260,322,320,320,320,320,320,500,499]} 1. Nf3 d5 2. c4 e6 3.
+b3 Nf6 4. Bb2 c5 5. e3 Be7 6. cxd5 exd5 7. d4 {A13: English Opening: 1...e6} b6
+8. Bb5+ Bd7 9. Bxd7+ {White has an edge.} Nbxd7 10. O-O O-O 11. Nc3 {[%cal
+Bb1c3,Bc3b5,Bb5d4,Bd4c6][%mdl 32]} Rc8 12. dxc5 Nxc5 13. Rc1 Re8 14. Qe2 Ne6
+$146 ({Predecessor:} 14... Qd7 15. Rfd1 Qb7 16. Nd4 g6 17. Rc2 Bd6 18. Rdc1 {
+1/2-1/2 (37) Bezgodov,A (2494)-Yuzhakov,O (2354) Tyumen 2014}) 15. Rfd1 Bb4 16.
+Nb5 Rxc1 17. Rxc1 a5 18. Qd1 Ne4 19. h3 Qd7 20. Nbd4 Rc8 21. Ne5 Rxc1 22. Qxc1
+Qc7 23. Qxc7 Nxc7 24. Ndc6 Bc5 25. Nd7 f6 $1 26. Nxc5 Nxc5 $14 {[%mdl 4096]
+Endgame KBN-KNN} 27. Ba3 Kf7 {[#]} (27... Ne4 $11 {keeps the balance.}) 28.
+Nxa5 $1 $16 {[%mdl 512]} Ne4 (28... bxa5 29. Bxc5) 29. Nc6 Nc3 {[#]} 30. Nb4 $1
+d4 (30... Ke6 $142 31. Bb2 Ne4) 31. Bb2 $18 ({Don't play} 31. exd4 $6 Ke6 $16)
+31... Ke6 32. Kf1 ({Don't take} 32. exd4 $6 N7d5 $16) 32... N3d5 33. Nxd5 Kxd5
+34. Bxd4 b5 35. Ke2 f5 (35... Kc6 $142 36. Kd3 Ne6) 36. Bxg7 {Precision: White
+= 76%, Black = 32%.} 1-0
+
+[Event "Spiegel Play Live Challenge 2018"]
+[Site "Hamburg"]
+[Date "2018.10.08"]
+[Round "1.4"]
+[White "Carlsen, Magnus"]
+[Black "Ellingsen, Robert"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "2839"]
+[Annotator "TA"]
+[PlyCount "31"]
+[EventDate "2018.10.08"]
+[EventType "simul"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,31,32,31,71,64,134,144,137,125,128,153,140,116,853,854,29997,29998,
+29998,29999]} 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Bb4 6. e3 O-O 7.
+Bd3 h6 8. Bh4 {LiveBook: 15 Games. D35: Queen's Gambit Declined: Exchange
+Variation} Nc6 9. Nge2 {[%cal Bg1e2,Be2f4,Bf4h5][%mdl 32]} Ne7 $146 (9... Be7
+$14) ({Predecessor:} 9... a6 10. O-O g5 11. Bg3 Re8 12. a3 Bf8 13. Qc2 Nh5 14.
+Rad1 Ng7 15. b4 Ne7 {1-0 (40) Bocharov,D (2600)-Popov,A (2229) Izhevsk 2012})
+10. Bxf6 $16 {White is clearly better.} gxf6 11. Nf4 c6 12. Qh5 Kg7 13. Qh4 {
+[#] And now Nh5+ would win.} Bf5 $2 {[%mdl 8192]} (13... Ng6 $16 14. Nh5+ Kh8
+15. Qxf6+ Qxf6 16. Nxf6 Be7) 14. Nh5+ $18 Kg8 15. Qxf6 {[%csl Gh5][%cal Rf6g7]}
+Bxc3+ 16. bxc3 1-0
+
+[Event "Spiegel Play Live Challenge 2018"]
+[Site "Hamburg"]
+[Date "2018.10.08"]
+[Round "1.5"]
+[White "Carlsen, Magnus"]
+[Black "Bjorkedal, Anna Sylvi"]
+[Result "1-0"]
+[ECO "C57"]
+[WhiteElo "2839"]
+[Annotator "TA"]
+[PlyCount "63"]
+[EventDate "2018.10.08"]
+[EventType "simul"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,62,73,92,463,470,770,767,759,753,787,702,732,737,731,716,747,733,791,
+790,842,844,902,914,961,947,1001,1001,1229,1210,1496,1498,1498,1497,29980,
+29979,29989,29990,29992,29993,29993,29994,29994,29995,29995,29996,29996,29997,
+29997,29997,29997,29998,29998,29999,29999]} 1. e4 e5 2. Nf3 {[%cal Bg1f3,Bf3g5,
+Bg5f7][%mdl 32]} Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 {[#]} 6. Nxf7 $1 {
+[%mdl 512]} Qf6 $2 {[%mdl 8192] C57: Two Knights: Wilkes-Barre/Traxler and 4
+Ng5 d5 5 exd5, unusual Black 5th moves} (6... Kxf7 $16 {is tougher.} 7. Qf3+
+Qf6 8. Bxd5+ Ke7) (6... Kxf7 7. Qf3+ Ke6 8. Nc3 Nce7 9. O-O c6 10. d4 Kd6 11.
+Bg5 Be6 12. Rfe1 exd4 13. Ne4+ Kc7 14. Qg3+ Kb6 15. Qb3+ Kc7 16. Qg3+ Kb6 17.
+Nd6 {1-0 (26) Zhigalko,S (2671)-Agdestein,S (2602) Doha 2016}) 7. Bxd5 $18 Be6
+(7... Bc5 $142 8. O-O Rf8) 8. Bxe6 Qxe6 {White is clearly winning.} 9. Nxh8
+O-O-O 10. O-O Bd6 11. Nc3 Rxh8 12. d3 Nd4 $146 ({Predecessor:} 12... Rg8 13.
+Ne4 g5 14. Nxd6+ Qxd6 {1-0 (30) Franceschini,F (1670)-Rota Graziosi,F (1200)
+St Chely d'Aubrac 2010}) 13. Ne4 Be7 14. Be3 h6 15. c3 Nf5 16. Bxa7 Qa6 17. Bc5
+Bxc5 18. Nxc5 Qd6 19. Qa4 {[%cal Ra4a8] [#]} Qxc5 20. Qa8+ Kd7 21. Qxh8 Ne3 22.
+fxe3 {White mates.} Qxe3+ 23. Kh1 Qxd3 24. Rad1 Qd6 25. Rf7+ Kc6 26. Rxd6+ Kxd6
+27. Qd8+ Kc6 28. Qxc7+ Kd5 29. Qxb7+ Kd6 30. b4 {[%csl Gf7][%cal Rb7d7]} e4 31.
+Qd7+ Ke5 32. Rf5# 1-0
+
+[Event "Spiegel Play Live Challenge 2018"]
+[Site "Hamburg"]
+[Date "2018.10.08"]
+[Round "1.6"]
+[White "Carlsen, Magnus"]
+[Black "Ehlers, Nils"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2839"]
+[Annotator "TA"]
+[PlyCount "15"]
+[EventDate "2018.10.08"]
+[EventType "simul"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,14,335,847,847,1403,1403,29999]} 1. Nf3 f6 2. e4 e5 3. Nxe5 fxe5 4.
+Qh5+ g6 5. Qxe5+ Be7 $2 (5... Qe7 6. Qxh8 Qxe4+ 7. Kd1 Ne7) (5... Qe7 6. Qxh8
+Qxe4+ 7. Kd1 Ne7 8. Nc3 Qf5 9. Qxh7 d5 10. f3 Be6 11. Nb5 {1-0 (44) Sanchez
+Huerga,A (2375)-Millstone,M (2412) ICCF email 2016}) 6. Qxh8 $18 {C40: Latvian
+and Elephant Gambits} Kf8 7. Bc4 {[%csl Gc4][%cal Rh8g8] [#]} d6 $146 ({
+Predecessor:} 7... Qe8 8. Qxg8# {1-0 (8) Leite,T (1743)-Lima,M (1744) Manaus
+2016}) 8. Qxg8# 1-0
+
+[Event "Spiegel Play Live Challenge 2018"]
+[Site "Hamburg"]
+[Date "2018.10.08"]
+[Round "1.7"]
+[White "Carlsen, Magnus"]
+[Black "Maini, Nitish"]
+[Result "1-0"]
+[ECO "A41"]
+[WhiteElo "2839"]
+[Annotator "TA"]
+[PlyCount "28"]
+[EventDate "2018.10.08"]
+[EventType "simul"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,28,229,295,275,344,340,364,363,402,268,372,320,325,318,316,293,351,
+321,388,391,385]} 1. d4 d6 2. e4 h5 (2... Nf6 3. Nc3 g6 4. Nf3 c6 5. Be3 Nbd7
+6. Qd2 e5 7. O-O-O Qa5 8. Kb1 Bg7 9. Bh6 O-O 10. h4 b5 11. h5 b4 12. Ne2 Nxe4
+13. Qe3 Ndf6 14. Bxg7 Kxg7 15. hxg6 fxg6 16. dxe5 dxe5 {1/2-1/2 (67) Giri,A 
+(2782)-Mamedyarov,S (2801) chess.com INT 2018}) 3. Nf3 e6 4. Nc3 Rh6 $146 ({
+Predecessor:} 4... Nf6 5. Bg5 a5 6. d5 Be7 7. Bb5+ c6 8. dxc6 bxc6 9. Bd3 Ng4
+10. Bxe7 Qxe7 11. O-O d5 12. h3 {1-0 (12) Sandaogo,E-Atepor,E ICCF email 2006})
+5. Bxh6 gxh6 6. Qd2 {B07: Pirc Defence: Miscellaneous Systems} Be7 7. O-O-O a6
+8. e5 Nc6 9. Qd3 f5 10. exf6 Bxf6 11. Qg6+ Kf8 12. Ne4 Bh8 13. Qxh5 a5 14. Nfg5
+{[%csl Gg5][%cal Rh5f7] [#]} Qe7 1-0
+
+[Event "Spiegel Play Live Challenge 2018"]
+[Site "Hamburg"]
+[Date "2018.10.08"]
+[Round "1.8"]
+[White "Carlsen, Magnus"]
+[Black "Wulf, Constanze"]
+[Result "1-0"]
+[ECO "B54"]
+[WhiteElo "2839"]
+[Annotator "TA"]
+[PlyCount "67"]
+[EventDate "2018.10.08"]
+[EventType "simul"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,67,34,62,37,62,58,58,52,93,93,153,141,136,140,161,151,215,201,204,
+210,253,231,227,190,213,215,192,181,196,76,246,256,243,238,289,276,283,258,258,
+258,258,251,437,429,445,441,608,610,643,604]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4.
+Nxd4 Nf6 5. f3 a6 6. c4 g6 7. Nc3 Bg7 8. Be3 Nc6 9. Be2 O-O 10. O-O Bd7 11. Nb3
+{B38: Sicilian: Maroczy Bind with 5...Bg7 and 7...0-0} Na5 12. Rc1 Rc8 13. Nd2
+{White is slightly better.} b6 14. b4 Nb7 ({Black should try} 14... Nc6) 15.
+Nb3 {[%cal Bd2b3,Bb3d4,Bd4c6][%mdl 32]} a5 16. a3 Be6 $146 ({Predecessor:} 
+16... axb4 17. axb4 Ra8 18. Qd2 Ba4 19. Nd4 e5 20. Ndb5 Bxb5 21. Nxb5 Ne8 22.
+Ra1 f5 23. Qd5+ Rf7 24. c5 bxc5 25. Bc4 {1-0 (25) Maksimenko,A (2507)-Roversi,
+S (2043) Genova 2002}) 17. Nd5 Nxd5 (17... b5 $16 18. Nd4 (18. cxb5 Bxd5 19.
+exd5 axb4 $16) 18... bxc4) 18. cxd5 $18 (18. exd5 $6 Bd7 $16) 18... Bd7 19. Nd4
+e6 20. Nc6 Qe8 {Threatening ...exd5.} 21. Ba6 $36 {[%mdl 2048] White is in
+control.} (21. Bxb6 $6 exd5 22. exd5 Bxc6 $16) 21... exd5 22. Bxb7 Rxc6 23.
+Bxc6 Bxc6 24. Bd4 (24. Re1 $18 {and White stays clearly on top.}) 24... dxe4 $2
+{[#]} (24... Bh6 $16 {was worth a try.}) 25. Bxg7 ({Weaker is} 25. Bxb6 axb4
+26. Qxd6 Bb5 $14) 25... Kxg7 26. Qxd6 Ba4 27. Rfe1 ({Don't play} 27. Qxb6 axb4
+28. Qxb4 exf3 $18) 27... Qd8 28. Qxd8 Rxd8 29. bxa5 ({Resist} 29. fxe4 axb4 30.
+axb4 Rd7 $18) 29... bxa5 30. Rxe4 {KRR-KRB} Bb5 $2 {[#]} (30... Bb3 {might
+work better.} 31. a4 Rd5) 31. Re5 {White is clearly winning.} Ba4 32. Rxa5 Be8
+33. a4 Kf8 34. Ra1 {Precision: White = 70%, Black = 27%.} 1-0
+
+[Event "Spiegel Play Live Challenge 2018"]
+[Site "Hamburg"]
+[Date "2018.10.08"]
+[Round "1.9"]
+[White "Carlsen, Magnus"]
+[Black "Ziegenfuss, Antonia"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "2839"]
+[Annotator "TA"]
+[PlyCount "79"]
+[EventDate "2018.10.08"]
+[EventType "simul"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,79,36,31,37,26,44,34,36,38,40,9,38,24,93,22,59,-2,95,84,96,90,95,96,
+108,109,151,130,129,142,109,129,179,150,166,173,397,393,466,470,458,369,461,
+472,505,457,568,463,721,716,1443,1422,1292,1613,1575,1566,1481,1517,1413,1318,
+6135,6087,2398,2273]} 1. Nf3 c5 2. e4 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6.
+Nxc6 bxc6 7. e5 Nd5 8. Ne4 f5 9. Nd6+ {B45: Sicilian Four Knights} (9. exf6
+Nxf6 10. Nd6+ Bxd6 11. Qxd6 Ba6 12. Bxa6 Qa5+ 13. b4 Qxa6 14. Bb2 Nd5 15. a3
+O-O-O 16. O-O-O Rhf8 17. f3 Rf5 18. Rhe1 Nc7 19. Qe7 Nd5 20. Qxg7 {1-0 (20)
+Shirov,A (2683)-Di Berardino,D (2499) Florianopolis 2017}) 9... Bxd6 10. exd6 {
+LiveBook: 6 Games} O-O 11. c4 {White is slightly better.} Nf6 12. Be2 Bb7 13.
+O-O c5 14. Be3 Rc8 15. f3 $146 ({Predecessor:} 15. Qa4 Ne4 16. Qxa7 Bc6 {
+1-0 (43) Spiess,M (2128)-Wuerdinger,A (2077) Bayern 2007}) 15... Qb6 (15... e5
+$11) 16. b4 ({Better is} 16. Bf4 $16) 16... Qxb4 $11 17. Qb3 ({White should try
+} 17. Rb1 $14 Qa3 18. Rb3) 17... Qxb3 (17... Qb6 $11 {remains equal.}) 18. axb3
+$16 a6 19. Ra5 Rc6 20. Bxc5 Rfc8 21. b4 e5 22. Bd1 Re8 23. Ba4 Rcc8 24. Bb6 Bc6
+25. Bc7 {aiming for Bxc6.} Bb7 26. Re1 Re6 $2 {[#]} (26... e4 {keeps fighting.}
+) 27. Rexe5 $18 Rce8 28. Rxe6 Rxe6 29. Rxf5 Bc8 30. Kf2 {White is clearly
+winning.} g6 31. Rc5 Re8 32. Bb6 Kg7 (32... Kf7 $142 33. Rc7 Ke6) 33. Rc7 Kh6
+34. Bd4 Kg5 35. h4+ Kf5 36. Bxf6 Kxf6 37. Bxd7 Bxd7 38. Rxd7 Ke6 {[#]} 39. Re7+
+$1 Rxe7 40. dxe7 {Precision: White = 60%, Black = 30%.} 1-0
+
+[Event "Spiegel Play Live Challenge 2018"]
+[Site "Hamburg"]
+[Date "2018.10.08"]
+[Round "1.10"]
+[White "Carlsen, Magnus"]
+[Black "Colin, Eric"]
+[Result "1-0"]
+[ECO "E47"]
+[WhiteElo "2839"]
+[Annotator "TA"]
+[PlyCount "46"]
+[EventDate "2018.10.08"]
+[EventType "simul"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,46,25,40,21,87,82,78,68,85,78,143,150,166,166,166,166,184,166,177,
+177,317,335,304,306,355,362,362,359,1179,1176,1179,1174,1166,1173,1147]} 1. d4
+Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 Nc6 6. Nge2 d5 7. cxd5 exd5 8. O-O {
+E48: Nimzo-Indian: Rubinstein: 5 Bd3 d5 including 6 Ne2, but excluding 6 a3}
+Bg4 $146 (8... Bd6 $11 {remains equal.}) ({Predecessor:} 8... Ne7 9. Qc2 Bd6
+10. Nb5 Bg4 11. f3 Bh5 12. e4 dxe4 13. fxe4 Bxe2 14. Qxe2 c6 15. Nxd6 Qxd6 {
+1/2-1/2 (43) Astaneh Lopez,A (2442)-Erturan,Y (2384) Budapest 2018}) 9. f3 $16
+Be6 10. Bc2 {White is better.} Qd7 11. a3 Bd6 {[#]} ({Black should try} 11...
+Ba5) 12. e4 $1 Rae8 13. e5 Nxe5 14. dxe5 Bxe5 15. Bf4 Bxf4 16. Nxf4 Bf5 (16...
+Qd6 {was worth a try.}) 17. Nfxd5 $18 Nxd5 18. Nxd5 Qe6 {White should prevent .
+..Bxc2.} 19. Bxf5 ({Less strong is} 19. Nxc7 Qb6+ 20. Kh1 Rd8 $18) 19... Qxf5
+20. Qd4 Rd8 $2 (20... c6 21. Nc3 (21. Qxa7 Qxd5 22. Rfe1 Qb3 $11) 21... Qa5)
+21. Ne7+ {White is clearly winning.} Kh8 22. Nxf5 {[%csl Gf5][%cal Rd4g7] [#]}
+Rxd4 23. Nxd4 Kg8 {Precision: White = 88%, Black =  7%.} 1-0
+
+[Event "Spiegel Play Live Challenge 2018"]
+[Site "Hamburg"]
+[Date "2018.10.08"]
+[Round "1.10"]
+[White "Carlsen, Magnus"]
+[Black "Colin, Eric"]
+[Result "*"]
+[WhiteElo "2839"]
+[Annotator "TA"]
+[PlyCount "23"]
+[EventDate "2018.10.08"]
+[EventType "simul"]
+[EventRounds "1"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,23,-15,-26,27,23,20,21,25,0,0,0,0,0,0,-5]} 1. Nf3 $146 d5 2. Nc3 Nf6
+3. d4 e6 4. Bf4 a6 5. e3 c5 6. Bd3 {LiveBook: 21 Games. D00: 1 d4 d5: Unusual
+lines} cxd4 (6... c4 $142 7. Be2 Bb4) 7. exd4 $11 Nc6 {[%cal Bb8c6,Bc6b4,Bb4d3]
+[%mdl 32]} 8. O-O Be7 9. Ne2 Nb4 {The position is equal.} 10. c3 Nxd3 11. Qxd3
+O-O 12. Ne5 *
+
+[Event "Spiegel Play Live Challenge 2018"]
+[Site "Hamburg"]
+[Date "2018.10.08"]
+[Round "1.11"]
+[White "Carlsen, Magnus"]
+[Black "Encinas, Pedro"]
+[Result "1-0"]
+[ECO "C88"]
+[WhiteElo "2839"]
+[Annotator "TA"]
+[PlyCount "63"]
+[EventDate "2018.10.08"]
+[EventType "simul"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,63,51,59,75,49,39,39,45,53,54,58,48,44,48,40,58,57,119,104,132,130,
+139,28,27,0,29,14,10,7,94,64,204,114,121,120,108,102,116,102,575,411,620,601,
+934,908,1055,1003]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3
+Be7 7. Re1 O-O 8. c3 Na5 9. Bc2 {C89: Closed Ruy Lopez: Marshall Attack} d6 (
+9... d5 10. exd5 e4 11. Bxe4 Nxe4 12. Rxe4 Bb7 13. d3 Bxd5 14. Re1 Re8 15. Nbd2
+c5 16. Ne4 f6 {1/2-1/2 (78) Savchenko,B (2612)-Ragger,M (2687) Minsk 2015}) 10.
+d4 {LiveBook: 5 Games} Bg4 11. dxe5 {White is better.} (11. h3 $5 {[%cal Rh3g4]
+} Bxf3 12. Qxf3 $14) 11... Bxf3 $1 12. Qxf3 dxe5 13. Nd2 {[%cal Bb1d2,Bd2f1,
+Bf1e3][%mdl 32]} Qd7 14. Nf1 $146 ({Predecessor:} 14. h3 c6 15. Nf1 Nc4 16. Rd1
+Qc7 17. Ng3 {1/2-1/2 (46) Floricelovic,M (2067)-Lukic,L (1757) Paracin 2014})
+14... Qg4 15. Qd3 Rad8 16. Ne3 Qd7 17. Qe2 Nc6 (17... Qc6 $14) 18. Qf3 Bc5 19.
+Nf5 Ne7 {[#]} 20. g4 ({Better is} 20. Nh6+ $1 $16 {[%mdl 512]} Kh8 (20... gxh6
+21. Qxf6) 21. Rd1) 20... Nxf5 21. gxf5 Be7 22. Kh1 Kh8 23. Rg1 {[%cal Be1g1,
+Bg1g3,Bg3h3][%mdl 32]} Ng8 (23... Qc6 $11 {remains equal.}) 24. Be3 {[%cal
+Bc1e3,Be3c5,Bc5e7][%mdl 32]} (24. Qg3 {is more complex.} Bf6 25. Be3 Ne7 26.
+Qf3 Qd6 27. Rg3) 24... Bf6 {[#]} (24... Nf6 $14) 25. Bb3 (25. Rg3 $1 $18) 25...
+Qe7 26. Rg3 c5 27. Bd5 Bh4 28. Rh3 {Threatens to win with Qh5.} Rd6 $2 {
+[%mdl 8192]} (28... Bg5 $16) 29. Bxc5 Rfd8 (29... Bg5 $142 30. Rg1 Rfd8) 30.
+Qh5 $18 {White is clearly winning.} Rh6 31. Bxe7 Rxh5 32. Bxd8 {Precision:
+White = 52%, Black = 32%.} 1-0
+
+[Event "Spiegel Play Live Challenge 2018"]
+[Site "Hamburg"]
+[Date "2018.10.08"]
+[Round "1.12"]
+[White "Carlsen, Magnus"]
+[Black "Hagner, Bennet"]
+[Result "1-0"]
+[ECO "A59"]
+[WhiteElo "2839"]
+[Annotator "TA"]
+[PlyCount "43"]
+[EventDate "2018.10.08"]
+[EventType "simul"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 22,43,69,63,87,27,111,95,137,85,243,195,217,200,360,357,343,307,297,279,
+785,675,29998,29999]} 1. d4 {[%cal Bd2d4,Bd4d5][%mdl 32]} Nf6 2. c4 c5 3. d5 b5
+4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8. Kxf1 d6 9. g3 Bg7 10. Kg2 O-O
+11. Nf3 Na6 12. Re1 {LiveBook: 12 Partien} Qa5 {A59: Wolga/Benkö-Gambit} (12...
+Qb6 13. Qe2 Qb7 14. a4 Nc7 15. Ra3 Rfe8 16. Nd2 Nd7 17. Nc4 Ne5 18. Nxe5 Bxe5
+19. h4 e6 20. dxe6 Rxe6 {1-0 (32) Sychev,K (2445)-Zvjaginsev,V (2673) Moscow
+2016}) 13. e5 $146 (13. Bf4 $16) ({Vorgänger:} 13. a3 Rfb8 14. Rb1 Nd7 15. Bd2
+Nc7 16. Qc2 Nb5 17. Nxb5 Qxb5 18. Bc3 Nb6 19. Bxg7 Kxg7 20. Nd2 {1/2-1/2 (20)
+Brzezinka,K (1768)-Zhou,W (1719) Osnabrueck 2010}) 13... Nd7 (13... dxe5 $11
+14. Nxe5 (14. Rxe5 Rfe8 $16) 14... Nb4) 14. Bf4 Rfb8 {Weiß steht besser.} 15.
+Rb1 (15. exd6 $142 exd6 16. Rb1 (16. Bxd6 Rxb2 17. Re7 Qxc3 $11)) 15... Rb6 $2
+{[#]} (15... c4 $16) 16. exd6 exd6 17. Re7 Nf8 $2 (17... Nf6 {ist eine bessere
+Verteidigung.} 18. Ng5 Rf8) 18. Ng5 $18 {[%cal Bf3g5,Bg5f7,Bf7h6][%mdl 32]} Bf6
+19. Qe1 ({Nicht} 19. Rxf7 Bxg5 20. Rxf8+ Rxf8 $11) 19... Nb4 20. Nxf7 Bxe7 $2 (
+20... Nd3) 21. Qxe7 {[#] Droht Matt per Sh6+.} Ra7 22. Nh6+ {Precision: Weiß =
+67%, Schwarz = 11%.} 1-0
+
+[Event "Spiegel Play Live Challenge 2018"]
+[Site "Hamburg"]
+[Date "2018.10.08"]
+[Round "1.12"]
+[White "Carlsen, Magnus"]
+[Black "Wulf, Constanze"]
+[Result "*"]
+[WhiteElo "2839"]
+[Annotator "TA"]
+[PlyCount "30"]
+[EventDate "2018.10.08"]
+[EventType "simul"]
+[EventRounds "1"]
+[EventCountry "GER"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 1,1,28]} 1. Nf3 {Predecessor:} Nf6 $146 2. d4 e6 3. c4 d5 4. Nc3 Be7 5.
+Bf4 O-O 6. e3 b6 7. Bd3 dxc4 8. Bxc4 Ba6 9. Qe2 Bxc4 10. Qxc4 c5 11. dxc5 bxc5
+12. O-O Nc6 13. Rac1 Rc8 14. Ne5 Qb6 15. Nxc6 Rxc6 {1-0 (97) Carlsen,M (2842)
+-Nakamura,H (2777) Saint Louis 2018} *
+

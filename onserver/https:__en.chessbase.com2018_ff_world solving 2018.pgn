@@ -1,0 +1,129 @@
+[Event "Die Schwalbe"]
+[Site "?"]
+[Date "1987.09.10"]
+[Round "?"]
+[White "Ahlheim, Karl-Heinz"]
+[Black "Mate in four"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "4Nb2/1R6/p4P2/2P1Kp2/2k5/3N4/bPnP2P1/5B2 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1987.??.??"]
+[SourceVersionDate "2018.09.10"]
+
+{The key is} 1. g3 {with the lines} (1. g4 $2 fxg4) (1. Be2 $2 f4 2. Ke4 f3)
+1... f4 (1... a5 2. b3+ Bxb3 3. Nb4+ Kxc5 4. Rb5#) (1... Bb3 2. Nc1+ Kxc5 3.
+Nxb3+ Kc6 4. Bg2#) 2. Ke4 {Threat: 3.Bh3 and 4.Be6#.} a5 3. Ne5+ Kxc5 4. Rb5# {
+This problem proved unexpectedly difficult, with just 12 solvers scoring the
+full 5 points (points are dropped if you do not give all the variations
+correctly).} *
+
+[Event "Stratford Express, 1st HM"]
+[Site "?"]
+[Date "1950.09.10"]
+[Round "?"]
+[White "Volkmann, Albert"]
+[Black "Mate in two"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "2n5/1Q6/P1p5/1Nk1P3/5P2/Pp2p2b/1Kn1B1q1/2RR4 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1950.??.??"]
+[SourceVersionDate "2018.09.10"]
+
+{The solution is} 1. Nd4 $1 {with the threat: 2 Nxb3#. It's a surprising move
+because it allows Black's king to escape to d5, but the variations show that
+Black cannot avoid mate next move:} (1. Na7 $2 Qe4) (1. Nd6 $2 Nb6) (1. Nc3 $2
+Qxe2) 1... Kd5 (1... Qd5 2. Qb4#) (1... Qxe2 2. Qxc6#) (1... Be6 2. Nxe6#) 2.
+Qxc6# *
+
+[Event "Münchener Zeitung"]
+[Site "?"]
+[Date "1928.09.10"]
+[Round "?"]
+[White "Fuss/Möller, Otto/Ferdinand"]
+[Black "Mate in three"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "5rb1/1p1P1pbr/1p5p/5N2/PP2k3/1Np3QB/6K1/8 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1928.??.??"]
+[SourceVersionDate "2018.09.10"]
+
+1. Kf1 $1 {Threat: 2.Ne7 with mate by Bg2 or Bf5.} (1. Ne3 $2 f5) 1... Bf6 (
+1... Be5 2. Qg2+ Kd3 (2... Kf4 3. Qg4#) 3. Qe2#) (1... f6 2. Bg2+ Kxf5 3. Nd4#)
+(1... Re8 2. dxe8=Q+ Kd5 3. Ne3#) (1... c2 2. Nd2+ Kd5 3. Qd6#) (1... Kd5 2.
+Ne3+ Kc6 (2... Ke4 3. Bf5#) 3. b5#) 2. Ne3 {followed by Bf5#} *
+
+[Event "Orig for Ceskoslovensky sach"]
+[Site "?"]
+[Date "2019.09.10"]
+[Round "?"]
+[White "Minski, Martin"]
+[Black "White to play and win"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "1R6/pP1K4/k1N5/1p6/b7/N7/1P3p2/r7 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "2019.??.??"]
+[SourceVersionDate "2018.09.10"]
+
+1. Kc7 $1 ({Moving the rook is wrong since Black simply takes on b7; for
+example} 1. Rf8 $2 Kxb7 2. Rb8+ (2. Nd8+ Kb6 3. Rxf2 b4+ {is also safe for
+Black}) 2... Ka6 3. Nb4+ Ka5 4. Nc6+ {is only a draw. I toyed with this line
+for a few minutes and then realised that it couldn't be right, since 1 Ra8?
+Kxb7 2 Rb8+ leads to the same position and this would contradict the
+uniqueness of White's moves, an essential feature of chess compositions.}) 1...
+f1=Q 2. Rf8 ({After} 2. Nb4+ $2 Ka5 {White should take the draw, since} 3. Rf8
+$2 Rc1+ $19 {even loses}) 2... Qxf8 {Black has no viable checks, so this is
+forced} 3. b8=N+ $1 (3. Nb4+ Ka5 4. Nc6+ Ka6 {only wastes time}) 3... Qxb8+ 4.
+Nxb8+ Ka5 5. Nc6+ Ka6 6. Nc2 $1 {The final finesse, blocking the c-file. The
+immediate} (6. b4 $2 {loses to} Rc1) 6... Bxc2 ({After} 6... b4 7. Nxa1 Kb5 {
+White eventually wins on material, for example} 8. Nxa7+ Kc5 9. Kb7 Be8 10. Nc8
+Ba4 11. Ka6) 7. b4 {and Black cannot prevent 8.Nb8#.} *
+
+[Event "1st Comm. Thema Danicum"]
+[Site "?"]
+[Date "1998.09.10"]
+[Round "?"]
+[White "Garai, Toma"]
+[Black "Helpmate in 3 (3 solutions)"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "8/1K1n4/8/P2npp2/2kqNpb1/2pr2p1/1P6/6N1 b - - 0 1"]
+[PlyCount "6"]
+[EventDate "1998.??.??"]
+[SourceVersionDate "2018.09.10"]
+
+1... Ne3 (1... Qe3 2. Nh3 Kd4 3. bxc3+ Kxe4 4. Ng5#) (1... Re3 2. Nxg3 Kd3 3.
+Nh1 Ke4 4. Nf2#) 2. Nc5 Kd5 3. Nxd7 Ke4 4. Nf6# {In fact, the b2-pawn only
+plays a part in one solution, and the a5-pawn is only there to stop an
+alternative solution 1...Bd1 2 Ka6 Bb3 3 Ka5 Nc5 4 Nd6#.} *
+
+[Event "Probleemblad"]
+[Site "?"]
+[Date "1991.09.10"]
+[Round "?"]
+[White "Szabo, Tibor"]
+[Black "Selfmate in three"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "bb3Q2/2p5/2n1k1P1/1p3np1/q1P3B1/3N1K2/4NP1p/1rBRR2r w - - 0 1"]
+[PlyCount "6"]
+[EventDate "1991.??.??"]
+[SourceVersionDate "2018.09.10"]
+
+1. Bb2 {Threat: 2.Qf7+ Kd6 3.Be5+ Nxe5#.} Qa1 {It's easy to overlook this
+sneaky defence by the queen, covering e5 through the white bishop. This third
+line is less relevant to the theme of the problem, but it's attractive that
+the knight has to retreat to c1 to stop Black meeting the check by ...Rxd1.} (
+1... Rxb2 {is met by} 2. Nd4+ Kd7 3. Ne5+ Nxe5# {as anticipated, while}) (1...
+Kd7 {runs into} 2. Ne5+ Ke6 3. Nd4+ Ncxd4# {- the key point is that White's
+second and third moves are reversed in this line}) 2. Nef4+ Kd7 3. Nc1+ Ncd4# *
+

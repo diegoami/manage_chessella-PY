@@ -40,13 +40,14 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--debug')
     parser.add_argument('--out')
+    parser.add_argument('--startFrom')
 
     args = parser.parse_args()
     if (args.out) and os.path.isfile('chessbase_links/'+args.out):
         print('{} file exists...Exiting'.format(args.out))
         exit(0)
     read_links = read_all_links('chessbase_links')
-    page_num = 0
+    page_num = 0 if not args.startFrom else int(args.startFrom)
     found = False
     to_parse_links = []
     while not found:
@@ -60,7 +61,10 @@ if __name__ == "__main__":
             else:
                 to_parse_links.append(post)
                 print(post)
-        page_num += 1
+        if args.startFrom:
+            page_num -= 1
+        else:
+            page_num += 1
     if args.out:
         fout = open('chessbase_links/'+args.out,'a')
     else:

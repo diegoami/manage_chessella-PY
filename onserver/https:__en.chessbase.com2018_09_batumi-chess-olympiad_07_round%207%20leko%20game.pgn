@@ -1,0 +1,118 @@
+[Event "Batumi Chess Olympiad | Open"]
+[Site "?"]
+[Date "2018.10.01"]
+[Round "7.1"]
+[White "Leko, Peter"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2690"]
+[BlackElo "2780"]
+[Annotator "Surya Sekhar Ganguly"]
+[PlyCount "142"]
+[EventDate "2018.??.??"]
+[SourceVersionDate "2018.09.24"]
+[WhiteTeam "Hungary"]
+[BlackTeam "France"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "FRA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 {What else to expect from
+the brave MVL!} 6. f3 e5 7. Nb3 Be6 8. Be3 h5 9. Qd2 Nbd7 10. Nd5 Bxd5 11. exd5
+g6 12. Be2 Bg7 {This is one the main position in h5 system of the Najdorf
+English attack. Huge number of top games have reached here and exclusively
+white always went for 13.0-0 while few players tried 13. Na5. MVL himself had
+this position as black twice and one of them was against Magnus in 2018 Biel.
+Peter shows an entirely different approach to play from white side.} 13. O-O-O
+$5 {It was never seen at top level before although there are many games at
+correspondence chess.} (13. O-O a5 14. a4 O-O 15. Bb5 Qc7 16. c4 $14 {1/2-1/2 
+(49) Carlsen,M (2842)-Vachier Lagrave,M (2779) Biel 2018}) 13... O-O $146 {
+Both 13...b5 and 13...Qc7 are critical reply and mostly will gain more
+popularity in future.} 14. g4 (14. Kb1 {All correspondence games that reached
+this position went this way.}) 14... a5 (14... e4 15. gxh5 exf3 16. Bxf3 Ne5
+17. Be2 {White is faster here.}) 15. a4 Nb6 16. gxh5 Nxh5 17. Bb5 {Peter was
+playing very fast till here showing the depth of his preparation. Outcome of
+the opening has been a clear success for Peter who now enjoys an overwhelming
+position with almost no risk.} Nf6 $2 {Problem with this move is it doesn’t
+really create a threat and Peter after a long thought comes up with an
+excellent antidote.} (17... Qc7 {[%cal Gb6c4] would have been better} 18. Qc3
+$5 {Unsual way to swap the queens.} (18. Qd3 Rfc8 {[%cal Gb6c4]}) 18... Qxc3
+19. bxc3 Nc8 20. Nd2 $14 {White keeps some pressure}) 18. h4 $1 {Peter thought
+for an impressive 48min here and found the strongest move.} Qc7 (18... Nbxd5 {
+runs into} 19. Bg5 $16 {and black must either allow h5 or simply give up d6
+pawn and get into a horrible endgame.}) (18... Nfxd5 {There are simply too
+many options for white to crush through.} 19. Bxb6 (19. Bh6 $16) (19. Bf2 $16)
+19... Nxb6 20. Qxd6 {Would be the perfect Leko-way to win the game.}) 19. h5 $1
+{Another 18min of thought and once again the strongest move. Now white is
+winning} Nxh5 20. Bh6 $2 {Ironically Peter just spent less than one minute to
+play this move while he could have finished the game right away with a
+Non-Leko move.} (20. Rxh5 $1 {It’s true that Peter doesn't sacrifice much in
+his games but in this particular case it all came down if he could spot one
+particular move.....} gxh5 21. Bh6 f5 {It is for sure that Peter considered 20.
+Rh5 but didn't see a concrete way here.} (21... f6 {also leads to the same
+tactics mentioned below.} 22. Bxg7 Qxg7 23. Qe3 Qc7 24. Rg1+ Kh8 25. Bd3 $1 $18
+) 22. Bxg7 (22. Rg1 Rf7) 22... Qxg7 {While considering 20.Rh5 unless the
+following trick is spotted it is not possible to enter this line.} (22... Kxg7
+{Clearly this didn't bother Peter} 23. Qg5+ Kh8 24. Qh6+ Qh7 25. Qxd6 $18) 23.
+Qe3 $1 {[%cal Ge3b6,Gd1g1]} (23. Qf2 $2 Qh6+ {allows black to get away from
+the pin with a check!}) 23... Qc7 24. Rg1+ Kh7 25. Rg5 $1 $18 {Unless this is
+seen it is not really possible to enter the Rh5 line.}) 20... Nf4 $8 21. Bxf4
+exf4 22. Qxf4 {White is still better but very slightly.} Rfc8 (22... Qe7 $5 {
+[%cal Ge7e5]} 23. c3 Qe5 24. Qd2 $14) 23. Qe4 {no other ways to protect} Nxa4 {
+After 16 min of thought MVL went for the human way. This indeed looks very
+tempting. Machine has other way to solve black's problem but psychologically
+it is almost impossible to find such ideas during a game. It is much more easy
+to find Na4 which comes more naturally.} (23... Nc4 {This is the very first
+move that anyone would consider} 24. Nd4 {However, upon seeing Nd4 one has to
+now justify the previous move as nothing seems to make big progress.} Ne3 (
+24... Qc5 25. c3 Nxb2 26. Kxb2 Qxc3+ 27. Ka2 Qb4 {[%cal Gc8c3]} 28. Qb1 $1 {
+white consolidates.}) 25. Rd2 (25. Qxe3 Bxd4 {This wont be an issue of course})
+25... Nc4 {Weird move but still will come to mind just to see if this forces
+repetition.} 26. Rg2 $1 (26. Rdh2 Qc5 {Now that d4 knight is hanging} 27. Rd1
+Qb4 28. c3 Na3 $3 29. Rc2 (29. Bc6 bxc6 30. cxb4 cxd5+ $19) 29... Nxc2 30. cxb4
+Nxd4+ 31. Kb1 Nxb5 32. axb5 Re8 {Not at all human way of thinking}) 26... Qc5
+27. Rd1 (27. Rxg6 {also looks scary but not with the engine on.} fxg6 28. Qe6+
+Kf8 29. Rh4 Qxd4) 27... Nb6 (27... Qb4 28. c3 Na3 29. Bc6 bxc6 30. Rxg6 $1 {
+The point of having the rook on g2 instead of h2}) 28. Kb1 (28. Ne6 Qb4) 28...
+Qxd5 29. Qxd5 Nxd5 30. Nf5 Nf4 31. Rg4 gxf5 32. Rxf4 $14 {There are many more
+complex lines and it could easily be possible that white has improvement
+somewhere. What MVL did in the game is a practical choice where all of a
+sudden white now had to defend.}) 24. Bxa4 b5 25. Bxb5 a4 26. Nd4 a3 27. Bc6 $1
+{Peter keeps his cool and starts defending. White is clearly better and just
+needs to consolidate further, something that Peter is extremely good at.} axb2+
+(27... a2 28. Kd2 Rab8 {is once again some bizarre computer suggestion which
+makes zero sense in human brain.} 29. b3 $16) 28. Kd2 Ra2 (28... Ra3 $5) 29.
+Rb1 Qa5+ 30. c3 Ra4 $1 {Not the best move but the best practical choice
+specially with time pressure approaching.} (30... Ra3 31. Qd3) 31. Bxa4 Qxc3+
+32. Kd1 $6 (32. Ke2 $1 {It would have been better to play this directly} Qc4+ {
+Tranposes to the game}) 32... Qc1+ (32... Bxd4 $1 33. Bc6 (33. Bc2 Bf6 $44)
+33... Rb8 $1 {Black's compensation is good enough to hold the balance.} 34. Ke2
+Qc5 $1 $44) 33. Ke2 Qc4+ 34. Qd3 Qxa4 {Until now Peter played almost all the
+best moves and showed huge class but now things starts to drift a bit due to
+time pressure.} 35. Nc6 $2 (35. Rh4 $1 {would have sealed black's fate but
+this once again doesn't fit in to human logic easily. The point is as soon as
+once sees 35.Rh4 he also sees the counter 35...Rc4} Rc4 {Why would someone
+voluntarily pin himself in such a way that the piece is lost immediately!} 36.
+Rxb2 $1 Bxd4 (36... Rxd4 37. Rb8+ {is not difficult to see}) 37. Rd2 $1 {
+This move however could be very difficult to spot in time pressure. Instead of
+giving a check on b8 white simply threatens the d4 bishop which can't be saved.
+Suddenly now black is pinned!} (37. Rb8+ Kg7) 37... Qe8+ 38. Re4 $18 {The
+final touch.}) 35... Re8+ 36. Kf2 {[%cal Gf2g3] If the king gets to g3 it
+would be difficult to form any kind of counter play} Qf4 $3 {Prophylaxis are
+important everywhere. Being a rook down black doesn't rush. First Kg3 is
+stopped and now Bf6-Bh4 is coming. All white's advantage has evaporated by now.
+} 37. Rbe1 $2 {Probably already under time pressure and a bit frustrated by
+getting into this mess from total domination Peter now makes the final blunder
+after which there will be no return.} (37. Rh3 {was time to bailout. There are
+many moves to do so and this is one of them.} Qc1 (37... Bf6 38. Kg2) 38. Rh1
+Qf4) (37. Rbg1 $5) 37... Rxe1 38. Rxe1 Qh2+ 39. Kf1 Qh1+ {Professional
+approach. First getting rid of 40 moves and then deciding if to make a draw or
+look for something more!} 40. Kf2 Qh2+ 41. Kf1 Bf6 $1 $19 {[%cal Gf6h4] Now
+after consuming some more time MVL figured out he is now on driver’s seat.}
+42. Rd1 Bh4 43. Qd4 Bg3 $1 {[%cal Gb2b1] Black now gets back the piece. Rest
+of the game was just mere formality.} 44. Nb4 b1=Q 45. Rxb1 Qh1+ 46. Ke2 Qxb1
+47. Nd3 Qc2+ 48. Kf1 Qd2 49. Qe4 Bh4 50. f4 Qd1+ 51. Kg2 Qg4+ 52. Kf1 Kf8 53.
+Qe3 Qf5 54. Qf3 g5 55. Ke2 g4 56. Qg2 Qg6 57. Qh1 Bf6 58. Ke3 Kg7 59. Qg2 Bd8
+60. Qb2+ Kh7 61. Qh2+ Kg8 62. Qb2 Ba5 63. Qg2 Bb6+ 64. Ke2 g3 65. Ne1 Ba5 66.
+Nd3 Kf8 67. Ke3 Bb6+ 68. Kd2 Qg4 69. Kc3 Be3 70. Kc2 Bxf4 71. Ne1 Be5 0-1
+

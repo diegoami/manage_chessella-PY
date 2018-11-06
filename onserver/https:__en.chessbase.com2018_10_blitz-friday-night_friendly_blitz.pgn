@@ -1,0 +1,131 @@
+[Event "CCSCATL"]
+[Site "?"]
+[Date "2018.10.05"]
+[Round "?"]
+[White "Duncan, Andre Sr."]
+[Black "Meruga, Shanmukha"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "1479"]
+[BlackElo "2186"]
+[Annotator "Nastasio,Davide"]
+[PlyCount "91"]
+[SourceVersionDate "2018.04.22"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 Bg4 4. c4 c6 5. Nc3 e6 6. Qb3 Qb6 7. c5 Qc7 (7...
+Qxb3 $6 {This move opens the A file for White, who will begin to exert
+pressure on the Pa7.} 8. axb3 Bf5 9. b4 Be7 10. b5 {White has the initiative.})
+8. Ne5 Bf5 9. Be2 Nbd7 10. Nxd7 Nxd7 11. g4 $1 {A very strong move. White is
+keeping the king in the center, and letting Black guess what he'll do next,
+while gaining space on the kingside.} Bg6 12. h4 h6 13. f4 {Gaining space is a
+way to win a game, because one is more free to shuffle the pieces around. At
+the same time the other side of the coin are the weaknesses created with each
+pawn push.} b6 14. cxb6 axb6 15. Bd2 Bd6 16. a3 {This is a waiting game. White
+is waiting to see where Black will move the king, but Black doesn't want to
+move it, to avoid to give White a clear plan. At the same time White is
+thinking to use the semi-open C file, and to play Rc1, he needs to have the
+Pa2 protected, but if also the Qb3 would be needed elsewhere, the Pa2 would be
+left hanging, hence this move which could seem a waste of time.} Nf6 17. Rc1 {
+Threatening a fork with Nb5 at the right moment.} Be4 $2 18. Rg1 (18. Nb5 $1
+Qd8 19. Nxd6+ Qxd6 20. Rxc6 Qxc6 21. Bb5 Qd7 22. Bxd7+ Nxd7 23. Rg1 $18 {
+White has a decisive advantage.}) 18... Ke7 $2 {While both players are keeping
+the king in the center, one must ask which of the two is safe.} 19. g5 $1 {
+Now the space advantage can transform itself into an open position where White
+can attack the enemy king.} hxg5 20. hxg5 Nd7 21. Nb5 $2 $11 {This move which
+was giving White a material advantage before, is not the same played now.} ({
+It was better to play:} 21. Nxe4 $1 dxe4 22. Qc2 {With double attack on the
+Pe4 and Pc6.} c5 23. Qxe4 {White is better.}) 21... Qb7 $6 (21... Qc8 $11 {
+This move would keep equality for the engine, but obviously we are humans, and
+this is a blitz game.} 22. Nxd6 Kxd6 23. Bb4+ c5 24. dxc5+ bxc5 {Now White
+must be very careful, while it is true the Pc5 is pinned, also the Bb4 can be
+pinned by Rb8. Probably it's still equal.}) 22. Nxd6 Kxd6 23. Bb4+ $6 (23. Qb4+
+$1 {This was stronger, because it would allow the White queen to enter Black's
+territory, and create havoc.} Kc7 24. Qe7 Rae8 25. Qxf7 $14) 23... Kc7 24. Bb5
+c5 $6 25. Bxd7 $6 $11 (25. dxc5 $1 Nxc5 26. Bxc5 bxc5 27. Rxc5+ {White is
+better.}) 25... Kxd7 26. dxc5 bxc5 27. Rxc5 {What is the difference with the
+line shown above,and relative evaluation? Here we have oppositve color bishops,
+while before they were the same color.} Rhc8 $6 28. Qc3 Rxc5 29. Bxc5 $6 $11 (
+29. Qxc5 {This seems stronger, because asks for exchanging the queens, and
+avoiding possible blunders.} Qc7 30. Qxc7+ Kxc7 31. Bc3 {Notice now the
+problem. White has 2 passed pawns on the queenside, but opposite color bishops
+requires precise play for winning, and this is a blitz game.}) 29... Qb5 {
+Whose king is weakest?} 30. Kf2 Rc8 31. b4 Ra8 $4 32. Qxg7 $1 $18 Bg6 {At this
+point White thought a lot, a little more than 15 seconds, which for a game
+with time control 3 minutes is a lot. By now White has 57 seconds left, and
+Black 2 minutes.} 33. Rc1 (33. Qf6 $1 {exploiting the weak dark squares
+complex for a possible mating attack, which in order to be thwarted Black
+would have to give material.} Re8 34. f5 $1 Bh5 (34... exf5 35. Qd6+ Kc8 36.
+Rc1 Re4 37. Bd4+ Kb7 38. Qc7+ Ka6 39. Qa7#) 35. g6 Qe2+ {Obviously only an
+engine would enter such line without being scared of getting checkmated, or
+draw by repetition.} 36. Kg3 Qg4+ 37. Kh2 Qxf5 38. Qxf5 exf5 39. g7 Rg8 {
+And now Black is going to lose, because the Rg8 is employed to stop White from
+promoting, and White has 2 pieces which can help advance his 2 passed pawn on
+the queenside.}) 33... Qd3 {Black tries to enter White's territory, and is
+threatening a double attack like Qd2.} 34. Qb2 $6 {White returns back. A very
+important concept, especially in blitz, is prophylaxis. We must not think only
+about our plan, but also about our opponent's plan.} (34. Qe5 Qd2+ 35. Kg3 Qxc1
+36. Qd6+ Kc8 37. Qc6+ Kd8 38. Qxa8+ {and the engine sees a checkmate in 15
+moves, but a human would play Bb6 instead of taking the Ra8, winning the queen
+and the game.}) 34... Qxa3 35. Qe5 Qxc1 $4 36. Qd6+ {at this point White is
+winning, but he has only 45 seconds left on the clock. Clearly one can feel
+there is a checkmate here, but how to calculate it, with only 45 seconds left??
+} Kc8 37. Qc6+ {Here Shanmukha thought to see the checkmate, his opponent
+didn't. The engine calculates in a fraction of a second a checkmate in 16
+moves.} Kd8 38. Bb6+ {this move doesn't give checkmate.} (38. Qxa8+ Kc7 39.
+Qa7+ Kc8 40. Qa6+ Kc7 41. Qd6+ Kb7 42. Qb6+ Kc8 43. Qc6+ Kd8 44. Bb6+ Ke7 45.
+Qxc1 {And White wins.}) 38... Ke7 39. Qxc1 Ra2+ 40. Kg3 Rc2 41. Qa1 Be4 42. Qa8
+Rg2+ 43. Kh3 f5 44. Qd8+ Kf7 45. Qf6+ Kg8 46. g6 {and here Shanmukha stopped
+the clock.} ({Komodo 11 64-bit:} 46. Qg6+ Kh8 47. Bd4+ e5 48. Bxe5# {#3/99})
+1-0
+
+[Event "CCSCATL"]
+[Site "?"]
+[Date "2018.10.05"]
+[Round "?"]
+[White "Meruga, Shanmukha"]
+[Black "Duncan, Andre Sr."]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2186"]
+[BlackElo "1479"]
+[Annotator "Nastasio,Davide"]
+[PlyCount "74"]
+[SourceVersionDate "2018.04.22"]
+
+1. e4 d5 2. exd5 Qxd5 3. d4 Nc6 4. Nf3 Bg4 5. c3 (5. Nc3 {I think this is more
+played. But maybe White was afraid to lose the Pd4.} Qh5 (5... Bxf3 $2 6. Nxd5
+Bxd1 7. Nxc7+ {White has a good advantage.}) 6. Be3 O-O-O 7. Be2 $11) 5...
+O-O-O 6. Be2 Nf6 7. Bf4 $6 g5 $11 (7... e5 $1 8. Bxe5 Nxe5 9. Nxe5 Bxe2 10.
+Qxe2 Qxg2 {Black is slightly better.}) 8. Nxg5 $2 Bxe2 $1 9. Qxe2 Qxg2 $6 $11 (
+9... Bh6 $1 {Black missed this strong move.} 10. h4 e5 11. Bg3 Qxg2 12. Rh2 Qd5
+13. dxe5 Bxg5 14. hxg5 Ne4 {Black is better.}) 10. Qf3 $1 $11 Qxf3 11. Nxf3 Nd5
+12. Bg3 f6 {This move, made with the idea of avoiding Ng5, gives the tempo
+needed to White for developing one more piece.} 13. Nbd2 Bh6 14. Ne4 Nf4 15.
+Bxf4 Bxf4 16. Nc5 Rd6 17. Rg1 b6 18. Ne4 $4 {After this blunder Black is
+winning.} (18. Nd3 $1 $11 Bh6 19. Rg4 e5 20. Rh4 Bg7 21. Kd2 exd4 22. Nxd4 Nxd4
+23. Rxd4 $11) 18... Re6 19. Rg4 Rxe4+ 20. Kd1 e5 21. d5 f5 $6 (21... Rd8 $1 22.
+c4 Rxc4 23. Ke2 Rc2+ {Black is winning.}) 22. Rg7 Na5 23. Nh4 {Vishal balyan
+here commented: White allowed the easiest tactic in chess." But since he said
+it, Duncan didn't play it! And maybe it wasn't the best move! Which move are
+we talking about? Bh6.} Rd8 $1 {Komodo was going to play this move too! As
+Morphy taught us, one needs to go for the checkmate. The enemy king is in the
+center, the Ra1 out of the game (this is a +5 advantage the engine would give
+us in this position) and not enough time to use it for protecting the White
+king. Congratulations to Mr. Duncan for playing a la Morphy!} (23... Bh6 {
+Is this the real winning move? Or Black's in the game played a better one?} 24.
+Re7 Rxh4 {Black is still winning.}) 24. c4 (24. Nxf5 {Let's say White would
+bring away the knight from H4 to avoid the discovery with Bh6.} Rxd5+ 25. Kc2
+Re2+ 26. Kb1 Rd1#) 24... Nxc4 25. Nxf5 Rxd5+ 26. Kc2 Rd2+ 27. Kc3 {the
+tournament would start in few minutes, and Shanmukha was saying: "I'm just
+going to withdraw..." how prophetic would that be?} Rxb2 $6 (27... Nxb2 {
+for a human is impossible to see, but the engine calculated a checkmate in 15
+moves after this.}) 28. Rd1 Bd2+ 29. Kd3 b5 $4 $11 {Here Mr. Duncan was likely
+distracted by the noiseful commentary all around the table. A good game
+damaged.} 30. Kxe4 Bf4 (30... Rxa2 $5) 31. Ne7+ Kb7 32. Nd5 Nd6+ $6 {White is
+better now.} 33. Kf3 Nf5 34. Rxc7+ Kb8 35. Rg1 Nd4+ 36. Kg2 {now Duncan had
+only 4 seconds left on the clock, while Shanmukha 1 minute and 7 seconds.} Be3
+{pieces began flying over the board! Here White has a checkmate in 5 moves.}
+37. Kh1 {And Duncan resigned.} ({Komodo 11 64-bit:} 37. Kh3 Bg5 38. Rxg5 Rb3+
+39. axb3 Ne6 40. Rg8+ Nd8 41. Rxd8# {#5/99}) 37... Z0 (37... Bg5 38. Rxg5 Rb1+
+39. Kg2 Rg1+ 40. Kxg1 Nf3+ 41. Kg2 Nxg5 {White wins.}) 1-0
+

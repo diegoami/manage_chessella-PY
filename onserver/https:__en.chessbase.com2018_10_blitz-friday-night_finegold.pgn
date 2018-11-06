@@ -1,0 +1,56 @@
+[Event "CCSCATL"]
+[Site "?"]
+[Date "2018.10.05"]
+[Round "?"]
+[White "Meruga, Shanmukha"]
+[Black "Finegold, Benjamin"]
+[Result "0-1"]
+[ECO "D11"]
+[Annotator "Nastasio,Davide"]
+[PlyCount "70"]
+[SourceVersionDate "2018.04.22"]
+
+{This game had as time control 2 minute for the entire game.} 1. Nf3 Nf6 2. g3
+d5 3. Bg2 c6 4. O-O Bg4 5. Ne5 Bh5 6. c4 e6 7. d4 Nbd7 8. cxd5 exd5 9. Nc3 Bd6
+10. Nd3 O-O 11. Re1 Re8 12. Qc2 $6 (12. Bf4 $11) 12... Bg6 13. Bg5 h6 14. Bf4
+Bf8 (14... Bxf4 15. gxf4 $15) 15. Qd1 {White realized the square C2 wasn't
+good for the queen, and tries to unpin the Nd3.} Ne4 16. Ne5 Nxc3 17. bxc3 Nxe5
+18. Bxe5 Qa5 19. Qb3 Qb6 20. Bf1 Kh7 21. e3 f6 22. Bf4 Bf5 {By this move White
+had 50 seconds on the clock, and GM Finegold 1 minute and 22 seconds. Black is
+trying to trap the Bf4.} 23. h3 $6 g5 24. g4 gxf4 25. gxf5 Bd6 26. Qxb6 {
+White tries to eliminate a dangerous piece, which could easily switch to the
+kingside.} axb6 27. exf4 b5 28. Re6 $6 Rxe6 29. fxe6 Bxf4 30. Bd3+ Kg7 31. Kg2
+$2 Kf8 (31... Bd2 {and Black is better.}) 32. Kf3 Bd2 33. Kg4 $4 Ke7 (33...
+Bxc3 34. Rc1 Bxd4 {All White's pawns are isolated, easy prey for the Black
+pieces.}) 34. Kf5 Rg8 35. a4 {White totally missed the mate in 1.} Rg5# {
+White 22 seconds left, Black 53 seconds.} 0-1
+
+[Event "CCSCATL"]
+[Site "?"]
+[Date "2018.10.05"]
+[Round "?"]
+[White "Finegold, Benjamin"]
+[Black "Piper, Alan"]
+[Result "1-0"]
+[ECO "E38"]
+[Annotator "Nastasio,Davide"]
+[PlyCount "55"]
+[SourceVersionDate "2018.04.22"]
+
+1. d4 {This game had a time control of 3 minutes for playing the entire game.}
+Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 {Finegold is an expert of the Nimzo-Indian,
+I've seen many videos in which he comments his games with White against the
+Nimzo. Maybe it was better to try on something he wasn't so well prepared.} c5
+5. dxc5 Bxc5 6. Nf3 Be7 7. Bf4 {4 pieces developed against Black 2, the
+opening went quite well for White.} d6 $6 8. Rd1 a6 {Probably it was better
+for Black to remove the queen from the line of fire!} 9. e4 (9. Bxd6 $1 Bxd6
+10. c5 Nbd7 11. cxd6 {White is better.}) 9... Qc7 10. e5 dxe5 11. Nxe5 Qa5 12.
+Be2 O-O 13. O-O {Black has the queenside totally undeveloped.} Rd8 14. Rxd8+
+Qxd8 15. Rd1 Qf8 16. Bf3 Ra7 $4 {and now the game is over!} 17. Nxf7 $1 Qxf7
+18. Bxb8 Ra8 19. Bd6 Ne8 20. c5 Nxd6 21. cxd6 Bf6 22. Ne4 Be5 23. Ng5 Bxh2+ $2
+{Black tries a last attempt to muddy the waters!} 24. Kh1 {Here White had 2
+minutes and 7 seconds, and Black had 1 minute and 24 seconds.} Qf5 {Black
+spent more than 20 seconds trying to find a good move in this situation.} 25.
+Qxf5 exf5 26. Bd5+ Kf8 27. Re1 Bxd6 {Patzer sees pawn, patzer takes pawn!} 28.
+Nxh7# 1-0
+

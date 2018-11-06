@@ -1,0 +1,98 @@
+[Event "Batumi Chess Olympiad | Open"]
+[Site "?"]
+[Date "2018.10.05"]
+[Round "11.2"]
+[White "Nepomniachtchi, Ian"]
+[Black "Bacrot, Etienne"]
+[Result "1-0"]
+[ECO "A13"]
+[WhiteElo "2768"]
+[BlackElo "2678"]
+[Annotator "Surya Sekhar Ganguly"]
+[PlyCount "47"]
+[EventDate "2018.??.??"]
+[SourceVersionDate "2018.09.24"]
+[WhiteTeam "Russia"]
+[BlackTeam "France"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "FRA"]
+
+1. Nf3 d5 2. e3 {Nowadays this system in hugely popular. Kramnik mainly tried
+e3 setups in almost every possible move order. Magnus went one step further
+and even started his first move with 1.e3 thrice :)} Nf6 3. c4 e6 4. Nc3 Be7 {
+A lot depends on a player's opening repertoire what setup he will choose here
+as anytime what can just transpose with d4. The main idea for white however is
+rather not to play d4 and keep the a1-h8 diagonal open for a possible kingside
+attack.} 5. b3 O-O 6. Bb2 c5 (6... b6 {Got popular recently. The idea is that
+black doesn't commit c5 early in order not to get a hanging or isolated pawn
+which typically happens after cd5-ed5-d4 with the pawn on c5.}) 7. cxd5 Nxd5 (
+7... exd5 8. d4 {Is another setup where black mostly ends up with either an
+isolated pawn or hanging pawns. Here the h4 ideas are stopped which happened
+in the game but on the other hand white keeps little upper hand in such
+structure. This is why b6 instead of c5 have been tried number of times as
+well.}) 8. h4 {A new move based on a well-known idea. White tried mainly Qc2
+followed by h4 in number of games.} (8. Qc2 Nc6 9. h4 {Was first seen in
+Moscow Candidates 2016 between Karjakin - Anand. Then next time it occurred
+after a few months when Magnus played this against me in world rapid 2016 at
+Doha. This was one of the game in which he started with 1.e3!?} b6 (9... h6 {
+Was not a good reaction and I immediately got into serious trouble} 10. g4 $1
+Nxc3 11. dxc3 e5 12. g5 h5 13. Bc4 {was better for white in: 1/2-1/2 (40)
+Carlsen,M (2840)-Ganguly,S (2668) Doha 2016}) 10. a3 {This is an obligation
+with the queen on c2 hence some player tried Qb1 instead of Qc2.} (10. Bb5 Ncb4
+) 10... f5 $132 {1-0 (43) Karjakin,S (2760)-Anand,V (2762) Moscow 2016}) (8.
+Qb1 {Was tried by Mamedyarov in a blitz game} b6 9. Nxd5 exd5 10. d4 $6 {
+1-0 (43) Mamedyarov,S (2801)-So,W (2780) Saint Louis 2018} cxd4 {[%cal Ge7b4]})
+8... b6 9. Qb1 {So that was the point! Similar to Magnus idea but with the
+queen on b1 in order to avoid any Ncb4 tricks.} h6 {After 38 min of thought
+Bacrot reacted exactly the way I reacted against Magnus which in my opinion is
+not the best way to stop white's initiative here. First of all, Ng5 is not a
+threat as long as black keeps his bishop on c8 thus ready to meet Ng5 with f5.
+Unless black plays h6 there is no g4-g5 attack so there is no need to rush yet.
+Hence black can continue developing on queenside.} (9... Bb7 $6 {would lead to
+disaster} 10. Ng5 g6 11. Nxh7 {Probably some other moves are possible too but
+this is most thematic and direct} Kxh7 12. h5 f5 13. hxg6+ Kxg6 14. Nxd5 Bxd5
+15. Qd1 $1 Bh4 16. Bc4 Nc6 17. Bxd5 exd5 18. g3 $18 {One of the many ways
+black can get crushed in this line.}) (9... Nc6 $1 {This is similar to
+Karjakin - Anand from Moscow Candidates 2016 with one exception that white
+queen is on b1 instead of c2 which means white doesn’t have to waste time
+with a3 for now.} 10. g4 $5 {[%cal Gf3g5] without h6 this looks a bit empty at
+first sight but things are not that trivial here.} (10. Ng5 $6 {with the
+bishop on c8 this makes little sense} f5 $15) (10. Rh3 f5) (10. Bb5 {This can
+be one point behind keeping the queen on b1 but black has enough resources to
+stop white's attack.} Nxc3 {Now this works with the queen on b1! A move that
+would not have been possible with queen on c2 due to Bc6 but now the b1 queen
+hangs.} (10... Bb7 $6 {By now we know why black should not pay this move :)}
+11. Ng5 $1 g6 12. Nxh7 $1 {of course!} Kxh7 (12... Nxc3 13. Bxc3 Kxh7 14. h5 {
+would lead to similar lines given below.}) 13. Nxd5 $1 (13. h5 $2 Nf6) 13...
+exd5 (13... f5 {This is the top choice of computer which shows how pathetic
+black's position is.} 14. Nf4) 14. h5 f5 15. hxg6+ Kxg6 16. Qd1 $18) (10... Na5
+{These moves are always psychologically difficult to make. To put the knight
+on edge when white has some potential of attacking on other wing.} 11. Bd3 (11.
+Nxd5 exd5 12. Ng5 f5 13. Qd1 Bxg5 14. hxg5 Qxg5 {apparently black is fine here.
+}) 11... f5 12. Nxd5 exd5 13. h5 Bf6 $132) 11. Bxc3 Nb4 12. Rh3 Bf6 {and black
+is doing fine.}) 10... f5 (10... Bb7 11. Ng5 {is always risky.}) (10... Nxc3
+11. Bxc3 f5 {also doable}) 11. gxf5 Rxf5 12. Rg1 $5 {[%csl Rg7]} Bf6 (12...
+Rxf3 13. Nxd5 Bf8 14. Qd1 $3 Rf7 (14... Qxd5 15. Bg2) 15. Nf4 $36) 13. Qe4 {
+in general, these lines would require a lot more analyses to draw any kind of
+conclusion. Anyhow it’s pretty much certain that Nc6 was a far better move
+than h6.}) 10. g4 {Just like what Magnus did against me.} Bb7 11. Rh3 $1 Nd7 (
+11... Nxc3 12. Bxc3 Nd7 13. g5 h5 14. g6 Bf6 15. Ng5 $1 Bxg5 16. hxg5 Qxg5 17.
+Rg3 {gives white good attack for a sacrificed pawn.}) 12. g5 h5 13. Bd3 (13. g6
+{Engine prefers this move over Bd3} f5 14. Qd1 N7f6 15. Ng5 Qd6 {However I
+don't see why white should aim for this position than what he got in the game.}
+) 13... Nb4 $6 {This is almost suicidal. Knight is getting too far away from
+the game and white's knight on c3 could easily be more powerful than black's
+knight on b4.} (13... Nxc3 {was called for} 14. Bxc3 Qc7 15. Bh7+ Kh8 16. Be4 {
+White probably still keeps some edge but nowhere close to what he got in the
+game.}) 14. Bh7+ $1 Kh8 15. Be4 Nd5 {This already shows Nb4 was a poor
+decision.} (15... Bxe4 16. Nxe4 {[%csl Rb4,Ge4] The difference between two
+knights are visible now.}) 16. Ne2 $1 {[%csl Rh5][%cal Ge2g3]} f5 $2 {This was
+truly unthinkable. Now it’s totally lost.} (16... Bd6 17. Ng3 Bxg3 18. Rxg3 {
+Depressing position but not dead lost yet.}) 17. gxf6 N7xf6 18. Ng5 {[%cal
+Ge4d5,Ge2f4] Now pretty much anything and everything will eventually lead to
+mate.} Nxe4 19. Qxe4 Bxg5 20. hxg5 Nf4 (20... Qxg5 21. Rg3 {[%csl Rg7]}) 21.
+Qxb7 {[%csl Rg7]} Nd3+ 22. Kf1 Nxb2 (22... Rxf2+ 23. Kg1 Qxg5+ 24. Rg3 $18) (
+22... Qxg5 23. Rxh5+ Qxh5 24. Qxg7#) 23. Rxh5+ Kg8 24. g6 {[%cal Gh5h8,Gb7h1]
+Both Rh8 and Qh1 are deadly threat for which there are no defense. A fantastic
+miniature by Nepo in an extremely important match.} 1-0
+

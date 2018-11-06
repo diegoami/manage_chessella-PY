@@ -1,0 +1,49 @@
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1991.10.??"]
+[Round "4"]
+[White "Short, Nigel D"]
+[Black "Timman, Jan H"]
+[Result "1-0"]
+[ECO "B04"]
+[WhiteElo "2660"]
+[BlackElo "2630"]
+[Annotator "Ian Rogers"]
+[PlyCount "67"]
+[EventDate "1991.10.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "NED"]
+[EventCategory "17"]
+[Source "ChessBase"]
+[SourceVersion "1"]
+[SourceVersionDate "2000.04.19"]
+[SourceQuality "1"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 Nb6 6. Bb3 Bg7 7. Qe2 Nc6 8. O-O
+O-O 9. h3 {By preventing ...Bg4 White ensures that Black will be unable to lay
+siege to the e5 pawn, keeping Black's bishop on g7 permanently out of play.} a5
+10. a4 dxe5 11. dxe5 Nd4 12. Nxd4 Qxd4 13. Re1 e6 14. Nd2 Nd5 15. Nf3 Qc5 16.
+Qe4 Qb4 {Black is trying to prevent the transfer of White's queen to h4 but
+Short is prepared to ruin his pawn structure and give up the bishop pair just
+to gain h4 for his queen.} 17. Bc4 Nb6 18. b3 Nxc4 19. bxc4 Re8 20. Rd1 Qc5 21.
+Qh4 b6 (21... Bxe5 $2 22. Ba3 $18) 22. Be3 Qc6 {Now White is free to pursue
+his kingside attack without hindrance.} (22... Qe7 $2 23. Qxe7 Rxe7 24. Rd8+
+Bf8 25. Bh6 Bb7 26. Bxf8 $18) (22... Qf8 {was necessary.} 23. Ng5 h6 (23... h5
+$1) 24. Ne4 g5 25. Bxg5 $1 hxg5 26. Qxg5 Kh7 (26... Qe7 27. Nf6+ Kf8 28. Rd4 {
+followed by Rh4-h7(h8+)}) 27. Qh5+ $1 Bh6 (27... Kg8 28. Nf6+ Bxf6 29. exf6 $18
+{and the Rd1 will swing over to the g-file to mate Black's king.}) 28. Nf6+ Kg7
+(28... Kh8 29. Rd4 {followed by Rg4-g8+}) 29. Rd4 Qh8 30. Rg4+ Kf8 31. Qxh6+ $1
+Qxh6 32. Rg8+ Ke7 33. Rxe8#) 23. Bh6 Bh8 24. Rd8 $1 Bb7 25. Rad1 Bg7 26. R8d7
+$1 ({Against other moves} 26. Qe7 {(now answered by} Bxh6 {) would have been
+very strong.}) 26... Rf8 (26... Qe4 27. Rxf7 $1 {Rogers,I: 'Timman saw this
+move too late (Anand). ' (Short), with the idea} Qxh4 (27... Kxf7 28. Ng5+) 28.
+Rxg7+ Kh8 29. Nxh4 $18) (26... Bxe5 27. Rxf7 $1 {(Short) is also crushing.}) ({
+After} 26... Bxh6 27. Qxh6 {White threatens 28.Rxf7!.}) 27. Bxg7 Kxg7 28. R1d4
+Rae8 29. Qf6+ Kg8 30. h4 $1 h5 31. Kh2 $1 Rc8 $6 {Now White has a fine
+attacking position but the immobility of his knight on f3 prevents an
+immediate knockout. However Short finds a phenomenal idea -to use his king as
+part of the mating attack.} 32. Kg3 $1 Rce8 33. Kf4 $1 Bc8 34. Kg5 $1 {After
+34... Bxd7 35.Kh6 or 34...Kh7 35.Rxf7+ Rxf7 36.Qxf7+ Kh8 37.Kh6 White mates.}
+1-0
+

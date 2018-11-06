@@ -1,0 +1,105 @@
+[Event "Batumi Chess Olympiad | Open"]
+[Site "?"]
+[Date "2018.10.03"]
+[Round "9.4"]
+[White "Martirosyan, Haik M."]
+[Black "Sasikiran, Krishnan"]
+[Result "1-0"]
+[ECO "D38"]
+[WhiteElo "2597"]
+[BlackElo "2672"]
+[Annotator "Surya Sekhar Ganguly"]
+[PlyCount "95"]
+[EventDate "2018.??.??"]
+[SourceVersionDate "2018.09.24"]
+[WhiteTeam "Armenia"]
+[BlackTeam "India"]
+[WhiteTeamCountry "ARM"]
+[BlackTeamCountry "IND"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Bb4 {Sasi added Ragozin to his already
+broad opening arsenal very recently in 2018.} 5. Bg5 h6 6. Bxf6 Qxf6 7. Qa4+
+Nc6 8. e3 O-O 9. Be2 {A well known setup in Ragozin. White plays for black's
+c8 bishop and misplaced knight on c6. Black has many ways to play here and
+different players have tried different plans from black side. Usually black is
+doing fine here as per the current theory.} Bd7 (9... dxc4 {This move is
+Aronian's favorite. He tried it four times as black.} 10. O-O Bd7 11. Bxc4 Bxc3
+12. bxc3 Rfd8 {Last time he played this was against Karjakin in 2018.} 13. Qa3
+Qe7 14. Qxe7 Nxe7 {the game was drawn eventually ½-½ (39) Karjakin,S (2782)
+-Aronian,L (2764) Stavanger 2018}) 10. Qb3 dxc4 11. Qxc4 Qe7 (11... Qg6 12. O-O
+Bd6 {This is Chinese style. Many top Chinese player are doing this. Mainly Yu
+Yangi has played this a lot. Idea is to simply play Na5 next and change queens.
+} 13. Rfd1 Na5 14. Qd3 Qxd3 15. Bxd3 {Yu Yangi tried this from black side
+number of times with good result. It was also played twice successfully by
+Eesha when she drew against Diptayan and Vidit.}) (11... Bd6 12. O-O Qg6 {
+Another move order to get the same position discussed above.}) 12. O-O Bd6 {
+I am not sure if Sasi mixed up his preparation or willingly opted for this
+setup. Somehow, I don't like this idea. It’s a bit too late and little
+passive to play for Bd6-e5 now. White will be in time to create some pressure
+in the meantime.} (12... Na5 $1 {Wojtaszek played this move thrice which in my
+opinion is the most critical in this position.} 13. Qxc7 {otherwise c5 was
+coming} Rac8 14. Qe5 Bxc3 15. bxc3 Qa3 16. Nd2 (16. Rac1 Rxc3 17. Rxc3 Qxc3 18.
+d5 Qc2 {Soon it will fizzle down to a drawn endgame.}) 16... Qxc3 17. Ne4 Qa3
+18. Bf3 Nc4 19. Qg3 Bc6 20. Nf6+ Kh8 21. Nh5 Rg8 {was fine for black in 1/2 
+(52)-1/2 (52) Vachier Lagrave,M (2758)-Wojtaszek,R (2724) Saint-Quentin 2014})
+13. Ne4 $14 {I already like white's position.} Rfc8 (13... e5 14. d5 Nb8 {
+with the bishop on d7 black now will have to waste few more moves to get the
+knight into game. Clearly this is not the way black wants to play.}) (13... a5
+14. Rfc1) 14. Rfc1 $146 (14. Rac1 {was seen previously: 1/2 (73)-1/2 (73)
+Moiseenko,A (2677)-Michalik,P (2558) Minsk 2017}) 14... e5 15. d5 Nd8 {It
+already looks like something has gone wrong for black. The knight clearly
+doesn't belong to d8.} 16. Nxd6 (16. Qb3 $1 $14 {would have been stronger})
+16... cxd6 (16... Qxd6 17. Qe4 $16) 17. Qb4 b6 {[%cal Gd8b7,Gb7c5]} 18. Nd2 (
+18. Ba6 $142 Rc5 {but then where will the d8 knight go?} 19. Nd2 {As black is
+not able to take on d5 yet} Bc8 (19... Rxd5 20. Qe4 Be6 21. Bc4 Qb7 22. Bxd5
+Bxd5 23. Qg4 Ne6 24. Rc2 $16) 20. Bc4 Nb7 21. Qa3 $1 {[%cal Gb2b4]} b5 22. Be2
+Rxd5 23. Ne4 $14 {[%csl Rd5]}) 18... Nb7 {Sasi thought for quite some time
+here so I assume he was probably considering if to play Nb7 directly or after
+taking on c1.} (18... Rxc1+ 19. Rxc1 Nb7 {[%cal Gb7c5]} 20. Rc7 {Just a
+temporary placement for the rook} (20. Qa3 Qd8 {not fun to play like this but
+white is not able to put immediate pressure.} 21. Ba6 Nc5 22. b4 Nxa6 23. Qxa6
+Bc8 24. Qd3 Bd7) 20... Nc5 {[%cal Ge7d8]} 21. Qa3 {[%cal Gb2b4,Gc7a7]} a5 22.
+b4 Qd8 $1 23. bxc5 Qxc7 24. c6 Bxc6 25. dxc6 Qxc6 $132 {the position remains
+dynamically balanced.}) 19. Rxc8+ Bxc8 (19... Rxc8 $142 20. Ba6 Rc7 21. Bxb7
+Rxb7 22. Rc1 {Doesn't look very appealing with the rook on c7 and no control
+on 'c' file but engine holds without much trouble.}) 20. Rc1 Nc5 $6 (20... Bd7
+{would have been better to play this which transpose to a line we just saw
+before.}) 21. Qa3 $1 {now b4 is unstoppable.} Bf5 (21... a5 22. b4 $16) (21...
+Bd7 22. b4 Na4 23. Ba6 $16) 22. b4 Ne4 {Both Nd7 or Nb7 was bad as well. At
+least this will create some complications.} 23. Bd3 $1 Nxd2 24. Bxf5 Qg5 (24...
+b5 25. Qa6 $18) (24... e4 25. Bc8 $1 {[%cal Ga3c3]} b5 26. Qc3 Nc4 27. Ba6 $18)
+25. Qxa7 $1 {I am absolutely certain that Sasi didn't miss this. Under the
+given circumstances this is all he could do to make things messy in order to
+provoke white to make some mistakes. He even succeeded in doing so by changing
+the nature of the position but unfortunately couldn't encash on opponents
+mistake when it actually came.} Rf8 26. Bh3 $6 (26. Bd7 $1 {simply would not
+have allowed the tactics which occurred in the game.} Nf3+ 27. Kh1 Nh4 28. Bh3
+$18) 26... Nf3+ 27. Kh1 Qh4 $1 {[%csl Rh3] Thanks to the bishop on 'h3' this
+move is possible and black will also gain few more tempos due to Ng5} 28. Qxb6
+Ng5 $1 {[%cal Gg5h3,Gg5e4,Gh4f2]} 29. Kg1 Nxh3+ $2 {It was understandably very
+tempting to shatter white's kingside in order to fish for some perpetual but
+this was the precise moment where it was possible to launch a concrete attack.}
+(29... Ne4 $1 30. Rc2 {This must be the move which bothered Sasi. Now black
+had two ways to create counter attack but both needed very precise calculation.
+} (30. Rf1 Nd2 31. Re1 Ne4 32. Re2 Nc3 (32... f5 $132 {[%cal Ge4g5,Gg5h3]}) 33.
+Rd2 Qc4 $132) 30... Qh5 {This is very direct but easy to miss the nice
+geometry here.} (30... f5 {[%csl Rh3][%cal Ge4g5,Gg7g5] I would think this is
+very human. As normal play will surely lose why not to just throw everything
+on kingside?} 31. Qc7 (31. b5 g5 {at least creats a mess. For what it is worth.
+..engine calls it 0.00.}) 31... Ng5 {[%cal Gg5h3]} 32. Qxd6 Qe4 $44 {[%cal
+Gg5h3,Gf8f6]}) 31. f3 Ng5 32. Bd7 (32. Bg4 Qg6) 32... Nxf3+ $1 {Not at all
+easy to spot! Specially while having the option of 29...Nh3 which can shatter
+the kingside at one shot.} 33. gxf3 Qg6+ 34. Rg2 Qb1+ 35. Kf2 Qc2+ 36. Kg3 Qg6+
+37. Bg4 f5 $11) 30. gxh3 Qxh3 31. Qxd6 Qg4+ 32. Kf1 Qe4 (32... Qh3+ 33. Ke1
+Qxh2 34. Qc5 $18) 33. Qc6 $6 (33. Qc5 Ra8 {the only reason why white must not
+have played this move} 34. Qc4 {simplest} (34. a4 $5 Rxa4 35. Qc8+ Kh7 36. Qc4
+{+3 as per my engine!}) 34... Qxc4+ (34... Qh1+ 35. Ke2 Qxh2 36. Rc2 $18) 35.
+Rxc4 Rxa2 36. d6 $18) 33... Qxb4 34. d6 Qd2 $2 (34... Rd8 $1 {would have still
+given black tremendous chance to escape with a draw.} 35. Rd1 (35. d7 Qd2)
+35... Qg4 $1 36. Qd5 (36. f3 Qe6) 36... Qh3+ 37. Ke1 Qxh2 38. d7 Qg1+ $132) 35.
+Qc7 $1 $18 {[%csl Rf8] Now its all over. Black rook will not come into game
+again.} g6 (35... Ra8 36. d7) (35... Kh7 36. Qc2+ Qxc2 37. Rxc2 {would just
+prolong the game but white will win anyways}) 36. d7 h5 37. Qc8 Kh7 38. Rc4
+Qd1+ 39. Kg2 e4 40. Rc1 Qg4+ 41. Kf1 Qh3+ 42. Ke1 Qxh2 43. Qxf8 Qg1+ 44. Ke2
+Qg4+ 45. Kd2 Qxd7+ 46. Ke1 Qd5 47. Rc8 g5 48. Qc5 1-0
+
