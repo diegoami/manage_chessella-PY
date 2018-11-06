@@ -1,0 +1,31 @@
+[Event "COPA INDEPENDENCIA 2015"]
+[Site "DF"]
+[Date "2015.09.13"]
+[Round "5.6"]
+[White "OBREGON, JUAN CARLOS."]
+[Black "MORALES, SERGIO."]
+[Result "0-1"]
+[ECO "C92"]
+[Annotator "l'Ami,Alina"]
+[SetUp "1"]
+[FEN "4rrk1/2p3pp/2Nq4/3P1p2/P3p3/3nR2P/1P3PP1/R2Q2K1 w - - 0 25"]
+[PlyCount "16"]
+[EventDate "2015.??.??"]
+[SourceDate "2004.09.20"]
+[WhiteClock "0:35:46"]
+[BlackClock "0:09:28"]
+
+{This game hides a couple of interesting, tactical and positional sacrifices,
+starting with:} 25. Rxd3 $1 {where Black was hoping to get the initiative after
+} exd3 26. Qxd3 Re4 27. a5 Rfe8 28. Rf1 Re1 29. g3 R1e2 30. a6 R8e3 $1 {which
+indeed happened and White collapsed under pressure; but he did have a very
+strong counter-move!} 31. Qxf5 ({Instead,} 31. Ne7+ $1 {would have not only
+saved White but would have also brought him advantage.} Rxe7 ({If} 31... Qxe7 {
+then} 32. fxe3 {is possible, as the Qxg3 threat is no longer valid.}) ({In
+case of} 31... Kf7 32. Qxf5+ Kxe7 {and} 33. Qg5+ {with a winning position.})
+32. a7 Re8 33. Qxe2 Rxe2 34. a8=Q+ Kf7 {White is a pawn up but quite some work
+needs to be done to convert the advantage. I don't think it is actually
+winning, yet it was certainly preferable to what happened in the game.  White
+missed that after:}) 31... Rxg3+ 32. Kh1 g6 $1 {is forcing the white lady to
+stop protecting the d5-pawn.} 0-1
+

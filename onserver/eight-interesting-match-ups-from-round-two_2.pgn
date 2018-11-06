@@ -1,0 +1,22 @@
+[Event "FIDE World Cup 2015"]
+[Site "Baku AZE"]
+[Date "2015.09.13"]
+[Round "1.64"]
+[White "Zhigalko, Sergei"]
+[Black "Bukavshin, Ivan"]
+[Result "1-0"]
+[ECO "B85"]
+[WhiteElo "2656"]
+[BlackElo "2657"]
+[Annotator "Sagar Shah"]
+[SetUp "1"]
+[FEN "3rnrk1/4qppp/p3p3/1p2P3/6N1/P4RQ1/1PP3PP/4R2K w - - 0 24"]
+[PlyCount "31"]
+[EventDate "2015.09.11"]
+24. Nf6+ {Not a very difficult move to see, but the follow-up is important.}
+Kh8 25. Qh4 $1 h6 (25... gxf6 26. Rh3 $18 {is terminal.}) (25... Nxf6 26. exf6
+gxf6 27. Rh3 $18) 26. Qe4 $1 {This is an important move that needs to be seen.}
+Nxf6 (26... gxf6 27. Qh4 $1 {[%cal Gh4e7] Not letting the f-pawn advance.} Kh7
+28. Rh3 $18) 27. exf6 Qd6 28. Rd3 Qb6 29. fxg7+ Kxg7 30. Rg3+ {The attack on
+the black king crashes through.} Kh8 31. Qf4 e5 32. Qxe5+ f6 33. Qh5 Qc7 34.
+Qxh6+ Qh7 35. Qf4 Qxc2 36. Rh3+ Kg8 37. Qg4+ Kf7 38. Qe6+ Kg7 39. Qe7+ 1-0

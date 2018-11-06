@@ -1,0 +1,22 @@
+[Event "World Blitz-ch 2015"]
+[Site "Berlin"]
+[Date "2015.10.13"]
+[Round "9.2"]
+[White "Karjakin, Sergey"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[ECO "A05"]
+[WhiteElo "2762"]
+[BlackElo "2758"]
+[Annotator "Sagar Shah"]
+[SetUp "1"]
+[FEN "4r3/pp5k/1np1r1qp/7p/4R3/2N2P1Q/PP4P1/3R2K1 w - - 0 30"]
+[PlyCount "2"]
+[EventDate "2015.??.??"]
+[EventCountry "GER"]
+{A game of blitz can make you do many illogical things for which you would have
+no explanation. For example, in this perfectly fine position, one of the best
+blitz players of our generation blunders an entire rook.} 30. Rd6 $4 {But why?}
+Rxd6 {There is just no reason. Maybe he thought the e8 rook was undefended or
+he just saw that Rxe4 was not possible because the queen would be hanging. Such
+oversights happen all the time in blitz.} 0-1

@@ -1,0 +1,28 @@
+[Event "FIDE World Chess Cup 2015"]
+[Site "Baku"]
+[Date "2015.09.11"]
+[Round "1.1"]
+[White "So, Wesley"]
+[Black "Maghsoodloo, Parham"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2773"]
+[BlackElo "2447"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[SetUp "1"]
+[FEN "6k1/2q4p/2p2QpP/2Nb1p2/8/5P2/r5P1/4R1K1 b - - 0 38"]
+[PlyCount "10"]
+[EventDate "2015.??.??"]
+[EventCountry "AZE"]
+38... Ra8 {A crucial position. So has built up his position, and now is the
+time to strike.} 39. Nd7 $2 {I believe this move should end in a draw, but it
+is still tough to calculate.} (39. Re7 Ra1+ 40. Kf2 Ra2+ 41. Ke3 Ra3+ 42. Nd3
+$1 {otherwise it is unclear} Qb6+ 43. Kf4 {Black has no good queen checks on
+the fourth rank} Ra4+ (43... Qb8+ 44. Ne5 Rxf3+ 45. gxf3 Qb4+ 46. Nc4 $1 {only
+move} Qxc4+ 47. Kg3 f4+ 48. Kh4 {and White wins}) 44. Kg3 $18) 39... Qxd7 40.
+Re7 Qxe7 $4 {So's young opponent is unable to find the correct resource} (40...
+Qa7+ 41. Rxa7 (41. Kh2 Qa1 $1 42. Re8+ Rxe8 {is similar.}) 41... Rxa7 42. Qe5
+Rf7 {And even though I'm not 100% sure about this, I simply don't see how White
+breaks through Black's defenses:} 43. Kf2 Kf8 44. Kg3 Kg8 45. Kf4 Kf8 46. Kg5
+{perhaps the king can go around through the queenside? But then what? It seems
+unlikely to me.}) 41. Qxe7 Bf7 42. Qf6 Kf8 43. Qh8+ 1-0

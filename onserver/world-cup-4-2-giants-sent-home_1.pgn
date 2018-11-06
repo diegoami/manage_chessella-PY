@@ -1,0 +1,30 @@
+[Event "FIDE World Cup 2015"]
+[Site "Baku AZE"]
+[Date "2015.09.21"]
+[Round "4.2"]
+[White "Wei, Yi"]
+[Black "Ding, Liren"]
+[Result "1-0"]
+[ECO "C84"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[SetUp "1"]
+[FEN "8/4r2k/3p1R2/1p1P2qp/1P1QP3/6P1/7K/8 w - - 0 53"]
+[PlyCount "55"]
+[EventDate "2015.09.11"]
+[SourceDate "2015.02.07"]
+53. Qf2 Kg7 54. Rxd6 h4 $1 {Resilience!} 55. Kh3 (55. gxh4 Qe5+ 56. Qg3+ Qxg3+
+57. Kxg3 Rxe4 58. h5 Rxb4 {is not that clear.}) 55... hxg3 56. Qf5 Qxf5+ 57.
+exf5 Re4 58. Rg6+ Kf7 59. Rxg3 Rxb4 60. Rd3 Rc4 61. d6 Rc8 $2 {Perhaps the
+losing move.} (61... Ke8 62. f6 (62. d7+ Kd8 63. f6 (63. Kg3 Rc7 $11) 63... Rf4
+$11) 62... Rf4 63. d7+ Kd8 64. Rd6 b4 65. Kg3 Rf1 66. Kg4 b3 67. Rb6 Kxd7 $11)
+62. Kg4 Kf6 63. Kf4 b4 64. Ke4 Rb8 65. Kd5 $2 (65. Rb3 $1 $18 {was far easier.
+The point is to first play d7 and Kd5-c6, only then take on b4.}) 65... b3 66.
+d7 b2 67. Rb3 Rxb3 68. d8=Q+ Kxf5 {it is amazing, but White has no way of
+winning the rook. Wei Yi tries to create as many problems as possible.} 69.
+Qd7+ Kg5 70. Qe7+ Kg4 71. Qe4+ Kg3 72. Qg6+ Kh4 $2 (72... Kf4 $1 {is a draw. I
+cannot explain why, it all comes down to a forced series of check sequences
+that humans are incapable of properly calculating. The computers understand
+these kind of positions, we simply don't.}) 73. Qb1 {The chess board is big,
+but not big enough for the rook to hide.} Kg5 74. Kc4 Rb8 75. Qg1+ Kf5 76. Qc5+
+Kg4 77. Qd4+ Kf3 78. Qf6+ Ke4 79. Qe6+ Kf3 80. Qf5+ {White picks up the rook
+very soon.} 1-0

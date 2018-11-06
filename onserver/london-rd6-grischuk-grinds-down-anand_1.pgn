@@ -1,0 +1,86 @@
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.10"]
+[Round "6.1"]
+[White "Grischuk, Alexander"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[ECO "A20"]
+[WhiteElo "2750"]
+[BlackElo "2803"]
+[Annotator "Sagar Shah"]
+[PlyCount "107"]
+[EventDate "2015.12.04"]
+1. c4 e5 2. d3 $5 {After the game Grischuk mentioned that he had prepared this
+move, which mainly leads to original game without much theory. In the past he
+had played 1.c4 and his opponents had replied with 1...Nf6 and hence he
+couldn't use this idea. But today Anand went 1...e5 and Grischuk could push his
+pawn to d3 which is much less common than Nc3, Nf3, g3 or even e3.} Nc6 3. Nf3
+f5 $5 {Seeing that White hasn't gone for the most ambitious move order, Vishy
+chooses an aggressive setup.} 4. g3 Nf6 5. Bg2 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 O-O 8.
+Nc3 d6 {Usually in this opening the bishop on b4 takes the knight on c3 and
+White is left with the dark squared bishop. But here the knight on c3 remains
+and it is much more useful than the bishop because the knight can jump to d5
+and attack the c7 pawn. If it is taken then after cxd5 the c-file is opened up
+and the c7 pawn is weak.} 9. O-O Bd7 (9... Qe8 {[%cal Ge8h5,Gf5f4, Gc8h3,Gf6g4]
+is the usual idea in this opening with the plan being Qh5, f4, Bh3 and Ng4 with
+a strong attack. But here we can see the usefulness of the knight on c3.} 10.
+Nd5 $1 $14 {[%cal Gd5c7]}) 10. Nd5 Nxd5 11. cxd5 Ne7 12. Qb4 $5 Nxd5 (12... a5
+$5 {could have been an interesting option.} 13. Qxb7 Rb8 14. Qa6 Rxb2 15. Rab1
+$1 Rxe2 $2 16. Qc4 $16 {[%cal Gf1c1] The rook on e2 feels very uncomfortable.})
+13. Qxb7 c6 14. Nd2 Nb6 15. Qa6 (15. Bxc6 Rb8 $19) 15... d5 16. Rac1 f4 17. Nf3
+Qf6 18. Qa5 {As Grischuk correctly pointed out after the game: Black has a
+perfectly sound position. His only defect is that the knight on b6 is quite
+passive. If that were not the case then Black would have had the advantage.}
+Kh8 (18... g5 $5 {Followed by a pawn storm could have led to a very tense
+battle with mutual chances.}) 19. b3 Bg4 20. Qc3 $1 {This move was missed by
+Vishy. Now the e5 pawn is attacked and so is the one on c6. Black has to make
+the concession of giving up his bishop on f3.} e4 $6 { But Vishy doesn't
+believe in taking a slightly inferior position. He tries to complicate the
+matters.} (20... Bxf3 21. Bxf3 Rac8 {Would have been better although here White
+has a clear edge.} 22. e3 $1 $14) 21. Qxf6 Rxf6 22. Nd4 $1 {The e4 pawn is
+falling and so is the one on c6. Black has to play sharply to keep things
+together.} f3 (22... exd3 23. exd3 Rc8 24. Rfe1 $1 $16) 23. exf3 exf3 24. Bh1
+{The bishop on h1 is not going to be trapped forever. So next up is h3 and it
+will be released from the prison.} Rc8 25. Rfe1 h6 26. b4 $1 { Cementing
+everything before going for h3.} Na4 27. Re3 Rcf8 28. h3 Bxh3 29. Rxf3 Bd7 30.
+Bg2 g5 31. Rxf6 Rxf6 {Material is equal but White is clearly better. Let us try
+to understand why: 1. The knight on d4 is excellently posted. In fact Grischuk
+improves it further with Nf3-e5 maneuvre. The knight on e5 is extremely strong
+hitting the weak c6 pawn. 2. The bishop on d7 is highly passive and stuck to
+the task of defending the sickly looking c6 pawn. 3. The knight on a4 doesn't
+really have a good square where it can go to. All these things put together
+consitutes White's clear edge.} 32. Nf3 $1 {[%cal Gf3e5]} Kg7 33. Ne5 Be8 34.
+Bh3 h5 35. d4 Nb6 36. Rc3 (36. Rc5 {would have been even stronger as now Nc4 is
+not possible.} Nc4 37. Nxc4 dxc4 38. Rxg5+ $16 ) 36... Nc4 $5 {Vishy
+understands that the knight on e5 cannot be tolerated for long and gets rid of
+it even at the cost of a pawn.} 37. Nxc4 dxc4 38. Rxc4 Rd6 39. a3 Bf7 40. Rc5
+Rxd4 (40... Kf6 41. Bg2 Rxd4 42. Rxc6+ Be6 $16 {would have made White's task a
+little more difficult than in the game.}) 41. Rxg5+ Kf6 42. Rf5+ Kg6 43. Rc5
+Rd1+ 44. Kh2 Bd5 45. Bg2 Rd2 46. Bxd5 cxd5 47. Kg2 { Of course to get a precise
+assessment of this position would require hours of analysis, ideally by Karsten
+Müller. But I will try my best to give you an idea whether Black could have
+held this rook ending or not.} Kf5 {This move looks completely natural trying
+to use the king to shepherd the d5 pawn.} 48. Ra5 {White meanwhile tries to win
+the a7 pawn.} (48. Kf3 {was not yet possible due to} Rd3+ {[%cal Gd3a3]}) 48...
+Ke4 49. Rxa7 d4 {Of course White's queenside pawns are extremely threatening,
+but we cannot discount the d4 pawn which is just three steps away from
+queening.} 50. b5 Rb2 51. a4 $2 {A pretty bad mistake by Grischuk which gives
+Anand excellent drawing chances.} (51. Re7+ $1 {was a very important check
+forcing the king on to the d-file.} Kd5 (51... Kd3 {would be too slow as after}
+52. a4 Kc3 (52... Rb4 53. f4 $1 Rxa4 54. b6 Rb4 55. b7 Kc3 56. Rc7+ Kb3 57. f5
+d3 58. f6 d2 59. Rd7 Kc2 60. Rxd2+ Kxd2 61. f7 $18) 53. Rc7+ Kb4 54. b6 Kxa4
+55. b7 d3 56. Rd7 $18 {White simply wins.}) 52. Rb7 $1 d3 (52... Ra2 53. Rd7+
+Kc5 54. b6 Kxb6 55. Rxd4 $18) 53. b6 d2 54. Rd7+ Kc6 55. Rd8 $1 Kxb6 56. Kf3
+$18 {White will win the d2 pawn and later the one on h5 and will finish off the
+game.}) 51... Kd3 $2 {An extremely bad move which throws away the chance given
+to Anand. He shouldn't have brought the king in front of the d-pawn. Instead he
+should have pushed his pawn to d3.} ( 51... d3 $1 52. Rb7 Kd4 $1 {The most
+accurate move to secure the half point.} ( 52... d2 $2 53. Rd7 $1 $18) (52...
+Rb4 $5 53. b6 Rxa4 54. Rb8 Rb4 55. b7 d2 56. Rd8 Rxb7 57. Rxd2 Rb1 {Here Black
+has some chances to hold.}) 53. a5 d2 54. Rd7+ Kc3 55. b6 Kc2 $11 {Black's
+counterplay is strong enough to make a draw here.}) 52. Rb7 $1 Ra2 53. b6 Rxa4
+54. Rb8 {Anand threw in the towel. A very nice game by Grischuk who started
+with the non theoretical 1.c4 2.d3 and later played a nearly flawless
+middlegame.} (54. Rb8 Rb4 55. b7 Kd2 56. Kh3 d3 57. f4 Kd1 58. Rd8 Rxb7 59.
+Rxd3+ {followed by Kh4 and Rd5 picking up the h5 pawn.}) 1-0

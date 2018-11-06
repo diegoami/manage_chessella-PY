@@ -1,0 +1,63 @@
+[Event "Komodo Odds Match"]
+[Site "Prague"]
+[Date "2015.08.04"]
+[Round "1"]
+[White "Komodo 1460.00 64-bit"]
+[Black "Neuman, Petr"]
+[Result "1/2-1/2"]
+[WhiteElo "3300"]
+[BlackElo "2468"]
+[SetUp "1"]
+[FEN "r2q1rk1/1p1nbp2/2p2np1/p2p1pBp/3P3N/2N1P2P/PPQ3P1/1R3RK1 w - - 0 17"]
+[PlyCount "39"]
+[EventDate "2015.??.??"]
+[TimeControl "2700+15"]
+17. Nxf5 {-1.60/29 67} (17. Nxf5 gxf5 18. Rxf5 Kh8 19. e4 dxe4 20. Qd2 Nh7 21.
+Nxe4 Rg8 22. Bxe7 Qxe7 23. Re1 Rae8 24. Re2 Ndf6 25. Re5 Qb4 26. Qxb4 axb4 27.
+Nd6 Rxe5 28. dxe5 Nd5 29. Nxf7+ Kg7 30. Nd6 Ra8 31. Nxb7 Ng5 32. a3 bxa3 33.
+bxa3 Rxa3 34. Rc2 Rc3 35. Rxc3 Nxc3 36. Kf2 Kg6 37. Na5 c5 38. Ke3 Nd5+ 39. Kd3
+) 17... gxf5 18. Rxf5 {-1.74/29 80} (18. Rxf5 Kh8 19. Qf2 Rg8 20. Qh4 Qf8 21.
+Bxf6+ Nxf6 22. Rxf6 Bxf6 23. Qxf6+ Qg7 24. Qf3 Qg6 25. Rf1 Rae8 26. Rf2 Rg7 27.
+Nd1 Qh7 28. Re2 Qd3 29. Re1 Qg6 30. Rf1 h4 31. Kh1 Qe4 32. Qe2 Kg8 33. Rf2 Re6
+34. Qd2 Qb1 35. Rf1 Qxa2 36. Nc3 Qc4 37. Rf4) 18... Nh7 19. Bf4 {-1.36/30 94} (
+19. Bf4 Bg5 20. Rf1 Bxf4 21. R1xf4 Ndf6 22. e4 dxe4 23. Qf2 Ne8 24. Nxe4 Ng7
+25. Rxf7 Rxf7 26. Rxf7 Qd5 27. Rxb7 Rf8 28. Nc3 Qc4 29. Qe3 Nf5 30. Qe5 Qxd4+
+31. Qxd4 Nxd4 32. Rd7 Nf5 33. Kf2 Ng5 34. Ra7 Nd4+ 35. Kg3 Rf5 36. Kh4 Nge6 37.
+g4 hxg4 38. hxg4 Rf2 39. Ne4 Rf4 40. Nd6 Nf3+ 41. Kh3 Nfg5+ 42. Kh4 Rf2 43.
+Rxa5 Rh2+ 44. Kg3 Rxb2 45. Ra6) 19... Bg5 20. Rf1 {-1.36/30 0} (20. Rf1 Bxf4
+21. R1xf4 Ndf6 22. e4 dxe4 23. Qf2 Ne8 24. Nxe4 Ng7 25. Rxf7 Rxf7 26. Rxf7 Qd5
+27. Rxb7 Rf8 28. Nc3 Qc4 29. Qe3 Nf5 30. Qe5 Qxd4+ 31. Qxd4 Nxd4 32. b4 Rf5 33.
+bxa5 Rxa5 34. Rd7 Nb5 35. Nd5 cxd5 36. Rxd5 Nf6 37. Rg5+ Kf7 38. a4 Rxa4 39.
+Rxb5 h4 40. Kf2 Ne4+ 41. Kf3 Kg6 42. Ke3 Ng3 43. Kf3 Kf6 44. Rd5 Nf5 45. Rd8
+Ra2 46. Rf8+ Kg6 47. Rd8 Rb2) 20... Qe7 21. e4 {-0.52/27 42} (21. e4 Rae8 22.
+Bxg5 Nxg5 23. exd5 f6 24. dxc6 bxc6 25. Rxa5 Qe3+ 26. Kh2 Rf7 27. a4 h4 28. Qf2
+Qxf2 29. Rxf2 Ne4 30. Rf4 Nxc3 31. bxc3 Rg7 32. Ra6 c5 33. Rf2 Re3 34. dxc5
+Rxc3 35. c6 Ne5 36. c7 Rgxc7 37. Raxf6 Ra3 38. R2f4 Rc4 39. R4f5 Kg7) 21...
+Rae8 22. Bxg5 {-0.52/27 2} (22. Bxg5) 22... Nxg5 23. exd5 {-0.45/22 32} (23.
+exd5 f6 24. h4 Qe3+ 25. Kh2 Ne4 26. R1f3 Qxd4 27. dxc6 Ne5 28. Nxe4 Ng4+ 29.
+Kh3 Qxe4 30. Qxe4 Rxe4 31. cxb7 Rb8 32. Rb3 Re7 33. Rxa5 Rbxb7 34. Rxb7 Rxb7
+35. Rxh5 Nf2+ 36. Kg3 Rxb2 37. a4 Ne4+ 38. Kf4 Nc3 39. a5 Rf2+ 40. Kg3 Ra2)
+23... f6 24. dxc6 {-0.45/22 3} (24. dxc6 bxc6 25. Rxa5 Kg7 26. Qf2 Qe3 27. Qxe3
+Rxe3 28. a4 Ne4 29. Ra7 Rd8 30. Rc1 Nxc3 31. bxc3 Kg6 32. a5 c5 33. Ra6 cxd4
+34. cxd4 Re2 35. Rd6 Kf7 36. Kf1 Ra2 37. a6 Ke7 38. Rcc6 Rc8 39. Re6+ Kd8 40.
+Kg1 Rxc6) 24... bxc6 25. Rxa5 {-0.63/25 20} (25. Rxa5 Kg7 26. Qf2 Qe3 27. Qxe3
+Rxe3 28. Ra6 Rd3 29. h4 Nf7 30. Ne2 Re8 31. Nf4 Rxd4 32. Nxh5+ Kg6 33. Nf4+ Kh6
+34. Rxc6 Nfe5 35. Rcc1 Nc4 36. b3 Ne3 37. Rf3 Nf5 38. Rf2 Nxh4 39. a4 Ng6 40.
+Ne2 Rd2 41. Nc3 Rxf2 42. Kxf2 Nge5) 25... Qh7 26. Raf5 {-0.34/28 125} (26. Raf5
+Kh8 27. Qf2 Qg6 28. Qg3 Rg8 29. h4 Ne4 30. Qxg6 Rxg6 31. Rxh5+ Kg7 32. Ra5 Rg4
+33. Ra7 Rd8 34. Re1 f5 35. Nxe4 fxe4 36. Rc1 Rg6 37. a4 Kh6 38. a5 Nf6 39. Re7
+Rxd4 40. a6 Rd2 41. Rxc6 Rd1+ 42. Kf2 Ng4+ 43. Ke2) 26... Qg7 27. Kh2 {0.00/26
+86} (27. Kh2 Rf7 28. Qd3 h4 29. R1f4 Qh7 30. d5 cxd5 31. Qxd5 Qg6 32. Rxh4 Ne5
+33. Rhf4 Kg7 34. Qb5 Rd8 35. Nd5 Ne6 36. Rxe5 Rxd5 37. Rxf6 Qxf6 38. Qxd5 Qf4+
+39. Kg1 Qc1+ 40. Kh2 Qf4+) 27... Kh8 28. a4 {0.00/28 70} (28. a4 Nb6 29. Rc5
+Rg8 30. a5 Nd7 31. Rcf5 Qg6 32. Qf2 Ne6 33. Rd1 Ng7 34. Rf3 f5 35. Qg3 Qf6 36.
+d5 h4 37. Qf4 Nh5 38. Qxf5 Qd6+ 39. Kg1 Qc5+ 40. Kh2 Qd6+) 28... Nb6 29. Rc5 {
+0.00/28 0} (29. Rc5 Qc7+ 30. Kh1 Qg3 31. Qg6 Re1 32. Rxe1 Qxe1+ 33. Kh2 h4 34.
+Rxc6 Qg3+ 35. Kh1 Qe1+ 36. Kh2) 29... Qc7+ 30. Kh1 {0.00/35 32} (30. Kh1 Qd6
+31. Qg6 Nd5 32. Qh6+ Kg8 33. Nxd5 cxd5 34. Qg6+ Kh8 35. Rfc1 Ne4 36. Qxh5+ Kg7
+37. Rxd5 Ng3+ 38. Kg1 Ne2+ 39. Kh1 Ng3+) 30... Qd6 31. Qg6 {0.00/34 5} (31. Qg6
+Nd5 32. Nxd5 cxd5 33. Qh6+ Kg8 34. Qg6+ Kh8) 31... Nd5 32. Nxd5 {0.00/38 32} (
+32. Nxd5 cxd5 33. Qh6+ Kg8 34. Qg6+ Kh8) 32... cxd5 33. Qh6+ {0.00/39 21} (33.
+Qh6+ Kg8 34. Qg6+ Kh8) 33... Kg8 34. Qg6+ {0.00/51 51} (34. Qg6+ Kh8) 34... Kh8
+35. Qh6+ {0.00/52 146} (35. Qh6+) 35... Kg8 36. Qg6+ {0.00/43 101} (36. Qg6+)
+1/2-1/2

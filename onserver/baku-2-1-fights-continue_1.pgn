@@ -1,0 +1,22 @@
+[Event "FIDE World Cup 2015"]
+[Site "Baku AZE"]
+[Date "2015.09.14"]
+[Round "2.9"]
+[White "Eljanov, Pavel"]
+[Black "Ipatov, Alexander"]
+[Result "1-0"]
+[ECO "E60"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[SetUp "1"]
+[FEN "6k1/5p1p/p5p1/2n1P3/1p5P/6P1/PP1r1PB1/2R3K1 b - - 0 29"]
+[PlyCount "16"]
+[EventDate "2015.09.11"]
+[SourceDate "2015.02.07"]
+29... Nd3 {White's a pawn uo but Black is rather active and comes up with a
+clever resource.} 30. Rc8+ Kg7 31. Rd8 $1 Rd1+ {Otherwise Black is just stuck}
+32. Bf1 Nxf2 $6 (32... Nxb2 33. Rxd1 Nxd1 34. Bxa6 {It is hard to believe that
+Black will survive with a pawn down and bishop vs. knight, but this was the
+only chance.}) 33. Rd6 $1 {A beautiful idea. Black cannot move his knight
+because he loses the rook, and can't move the rook because it loses the knight,
+and can't trade because he can't stop the pawn!} Nh3+ 34. Kg2 Ra1 35. Bc4 {now
+the knight is just stuck on h3.} Rc1 36. b3 Ng1 37. Rf6 1-0

@@ -1,0 +1,23 @@
+[Event "World Disabled 2015"]
+[Site "?"]
+[Date "2015.10.21"]
+[Round "4"]
+[White "Wassin, Sergej"]
+[Black "Babarykin, Stanislav"]
+[Result "0-1"]
+[WhiteElo "2290"]
+[BlackElo "2369"]
+[Annotator "Sagar Shah"]
+[SetUp "1"]
+[FEN "4r1k1/pp4p1/3b1q1p/QB1p1p1b/3Pr3/5N2/PP3PPP/4RRK1 b - - 0 21"]
+[PlyCount "13"]
+[EventDate "2015.??.??"]
+{[%csl Re8][%cal Ge2b5,Rb5e8]} 21... Bxf3
+$1 {Babarykin was tactically alert and took his chance.} 22. Bxe8 {White
+has to take the rook but Black has prepared some fireworks in the position.}
+(22. gxf3 $2 Qh4 $19) 22... Rg4 $1 { One of the many ways to win and also
+the most thematic.} (22... Bxh2+ 23. Kxh2 Qh4+ 24. Kg1 Rg4 {was also winning.})
+23. Bf7+ Kxf7 (23... Kh7 {is equally good.}) 24. g3 Qh4 $1 {The entire
+point of the combination. The threat is Qxh2+ followed by Rh4 and Rh1#.
+At the same time Qh3 is also threatened.} 25. Re5 Bxe5 26. dxe5 Qh3 27.
+Qc7+ Kg6 {The checks come to an end and White resigned.} 0-1

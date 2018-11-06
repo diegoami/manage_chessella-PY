@@ -1,0 +1,30 @@
+[Event "FIDE World Chess Cup 2015"]
+[Site "Baku"]
+[Date "2015.09.13"]
+[Round "1.6"]
+[White "Jakovenko, Dmitry"]
+[Black "Iljiushenok, Ilia"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[WhiteElo "2748"]
+[BlackElo "2491"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[SetUp "1"]
+[FEN "8/1k1q2p1/2p4p/1pPp4/1N1PpQn1/1PK1P1P1/6P1/8 w - - 0 48"]
+[PlyCount "48"]
+[EventDate "2015.??.??"]
+[EventCountry "AZE"]
+48. Qf1 {After a lot of maneuvering, the position on the board should be
+roughly equal. White has a subtle threat, and Iljiushenko misses it!} Qc7 (
+48... Kc7 49. Qa1 Qc8 $11) 49. Qa1 $1 {Now Black's position cannot be held. Qa6
+is too strong.} Kc8 50. Qa8+ Kd7 51. Nxd5 $2 (51. Qf8 $1 Qxg3 52. Qf7+ Kc8 53.
+Qe8+ {takes all the pawns with check.}) 51... cxd5 52. Qxd5+ Kc8 53. Qe6+ Qd7
+54. Qxe4 Kd8 (54... Nf6 55. Qa8+ Kc7 {should be a drawn endgame.}) 55. Qa8+ Ke7
+56. e4 Nf2 $5 (56... Nf6 $1) 57. Qd5 Qxd5 58. exd5 {A bizarre endgame. A
+computer can usually navigate the complications, but humans living only on
+increment? not so much!} g5 $2 (58... Ne4+ 59. Kb4 Nd2 $1 60. Kxb5 Nxb3 $11)
+59. Kb4 g4 60. Kxb5 Ne4 61. Kc6 Kd8 62. d6 (62. b4 $1 Nxg3 63. b5 Nf5 64. b6
+$18) 62... Nxg3 63. Kd5 $2 (63. b4 Nf5 64. Kd5 Ne3+ (64... h5 65. b5 {is faster
+for White.})) 63... h5 64. b4 Ne2 $1 65. Ke4 h4 $1 66. Ke3 Nxd4 $1 {Now Black
+draws!} 67. Kf4 h3 68. gxh3 gxh3 69. Kg3 Kd7 70. Kxh3 Nf5 71. Kg4 Nxd6 { What a
+save!} 1/2-1/2

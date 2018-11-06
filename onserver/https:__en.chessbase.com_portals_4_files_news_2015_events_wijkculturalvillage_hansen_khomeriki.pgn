@@ -1,0 +1,53 @@
+[Event "CVST"]
+[Site "Wijk aan Zee"]
+[Date "2015.11.23"]
+[Round "7.3"]
+[White "Hansen, Eric"]
+[Black "Khomeriki, Nino"]
+[Result "0-1"]
+[ECO "A67"]
+[Annotator "AS"]
+[PlyCount "40"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 (8... Nbd7 {has been considered to be a serious mistake for a long time
+but seems to be playable after all.} 9. e5 dxe5 10. fxe5 Nh5 11. e6 Qh4+ {etc.}
+) 9. Nf3 ({The main line runs} 9. a4 O-O 10. Nf3 Na6 11. O-O Nc7 12. Bd3 a6 {
+etc.}) 9... O-O 10. O-O (10. a4) 10... a6 11. Bd3 b5 12. Qe1 $5 ({The most
+popular move is} 12. Kh1) 12... Re8 {[#]} 13. Qg3 {Hansen apparently follows a
+game Salem-Docx, in which Black now played 13...c4 14.Bc4 and only then
+continued with 14...b4. But the young Georgian plays ...b4 immediately. An
+important different because now the white bishop is on d3 and not on c2.} b4 ({
+In Salem-Docx followed:} 13... c4 14. Bc2 b4 15. Na4 Nf6 16. f5 Bd7 17. Ng5 b3
+18. axb3 cxb3 19. fxg6 hxg6 20. e5 Rxe5 21. Nxf7 Kxf7 22. Bxg6+ Kg8 23. Qh4
+Bxa4 24. Bh7+ Kh8 25. Bg6+ Kg8 26. Rxa4 Qb6+ 27. Kh1 Qb5 $4 (27... Nbd7 $11)
+28. Raf4 ({Stronger was} 28. Rxf6 $1 Re1+ (28... Bxf6 29. Qh7+ Kf8 30. Qf7#)
+29. Qxe1 Qd7 30. Qh4 Bxf6 31. Qxf6 {and White mates soon.}) 28... Qxd5 29. Bh7+
+$2 ({White again had the chance to win with} 29. Rxf6 $1 Bxf6 30. Qh7+ Kf8 31.
+Bh6#) 29... Nxh7 30. Qd8+ Nf8 31. Rxf8+ Kh7 32. R8f3 a5 $2 ({It is better to
+play} 32... Ra7 {immediately:} 33. Qxb8 Rf7 $1 34. Rxf7 Qxf7 $11) 33. Rg3 $2 ({
+White wins with} 33. Rh3+ Rh5 34. Rxh5+ Qxh5 35. Rf3 $18) 33... Ra7 34. Qxb8
+Rf7 35. Rg1 a4 $11 36. Qc8 Rh5 37. Qe8 Qc4 (37... Rh4 $11) 38. Bg5 a3 39. Rf3
+Rxg5 40. Rxf7 a2 {The pawn on a2 is strong but Black's king is exposed.} 41.
+Rf3 Qd4 $2 (41... Bxb2 $2 42. Rh3+ Kg7 43. Qe7+ Kg8 44. Qxg5+ {and Black is
+mated.}) ({correct is} 41... Rg6 $11) 42. Rgf1 (42. Rh3+ Bh6 43. Qd7+ Rg7 44.
+Qf5+ Rg6 45. Re1 {was more forcing.}) 42... Qxb2 43. Rh3+ Bh6 44. Qe4+ Kg8 45.
+Qe6+ {1-0 (45) Salem,A (2564)-Docx,S (2468) Caleta 2014}) 14. Na4 ({Another
+game continued} 14. Nd1 Nf6 15. f5 Nxe4 16. Bxe4 Rxe4 17. Ng5 Bxf5 18. Rxf5
+gxf5 19. Nxe4 fxe4 20. Bh6 Qf6 21. Bxg7 Qxg7 22. Qxd6 Qd4+ 23. Kh1 a5 24. Qd8+
+Kg7 25. Qg5+ Kh8 26. Qd8+ Kg7 27. Qg5+ Kh8 28. Qd8+ {1/2-1/2 (28) Gil Capape,J
+(2434) -Glavina,P (2427) Aragon 2003}) 14... Nf6 {[#]} (14... Qa5 $5 15. Bc2
+Nf6) 15. f5 ({Worth considering was} 15. e5 $5 dxe5 16. fxe5 Nxd5 17. Be4 Be6
+18. Nxc5 Nd7 $44 {but White follows the game Salem-Docx.}) 15... Bd7 {[#]} 16.
+Ng5 (16. e5 $5 dxe5 17. Ng5 e4 $13) 16... Bxa4 {Ups - there is no bishop on c2,
+protecting Na4.} 17. e5 $2 ({The right continuation of the attack was} 17. fxg6
+fxg6 18. Nxh7 Nxh7 19. Qxg6 {After} Ra7 20. e5 Qh4 21. Rf4 Qh6 22. Qg3 dxe5 23.
+Rh4 {Black has to give the queen:} Qxh4 24. Qxh4 e4 25. Be2 Bd4+ 26. Kh1 Kh8
+$13 {Black has a rook and two knights for the queen and seems to have the
+better chances.}) 17... Rxe5 18. fxg6 fxg6 ({But not} 18... hxg6 $2 19. Nxf7
+Kxf7 20. Qxg6+ Kf8 21. Bh6 $18) 19. Nxh7 ({Black is also better after} 19. Ne6
+Qe7 20. Nxg7 Qxg7 21. Bf4 Nbd7 $19) 19... Nxh7 20. Qxg6 Qh4 {and Eric Hansen
+did not want to continue the game.} (20... Qh4 21. Bf4 Nf8 22. Qxd6 Nbd7 {and
+White no longer has an attack.}) 0-1
+

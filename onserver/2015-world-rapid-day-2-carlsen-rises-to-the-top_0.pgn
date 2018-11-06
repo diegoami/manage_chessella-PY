@@ -1,0 +1,24 @@
+[Event "World Rapid 2015"]
+[Site "Berlin GER"]
+[Date "2015.10.11"]
+[Round "7.2"]
+[White "Guseinov, Gadir"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Annotator "Sagar Shah"]
+[SetUp "1"]
+[FEN "8/8/6p1/8/2kRK2p/4p2P/6r1/8 b - - 0 68"]
+[PlyCount "16"]
+[EventDate "2015.10.10"]
+[EventType "rapid"]
+{Black has to decide where to go with his king - to c5 or to c3.} 68... Kc5 $2
+{This costs the half point.} (68... Kc3 $1 69. Rd3+ {Karjakin might have not
+liked that White can take the pawn on e3 with the rook and defend his h3 pawn.
+But he is simply winning after} Kc2 $1 70. Rxe3 Kd2 $1 {The king will slowly
+inch towards h2 and there is absolutely nothing that White can do about it.}
+71. Ra3 Ke2 72. Kf4 Kf2 73. Ra2+ Kg1 74. Rxg2+ (74. Ra1+ Kh2 75. Ra3 Rg3 76.
+Ra2+ Kxh3) 74... Kxg2 75. Kg4 g5 $1 76. Kxg5 Kxh3 77. Kf4 Kg2 $19) 69. Kxe3 {
+Now it is just a draw.} g5 (69... Rg3+ 70. Ke4 Rxh3 71. Rd5+ Kc4 72. Rg5 $11)
+70. Rd8 {And now it's just a draw.} Rg3+ 71. Ke4 Kc4 72. Kf5 Kc3 73. Rd7 Rxh3
+74. Kxg5 Rh1 75. Kg4 h3 76. Kg3 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "FIDE World Cup 2015"]
+[Site "Baku AZE"]
+[Date "2015.09.13"]
+[Round "1.3"]
+[White "Zaibi, Amir"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2330"]
+[BlackElo "2808"]
+[Annotator "Amruta Mokal"]
+[SetUp "1"]
+[FEN "4rrk1/1pq3b1/2p1p2p/N1Pp1bp1/PP1Pnn2/4B2P/4BPPN/2RQ1RK1 b - - 0 21"]
+[PlyCount "29"]
+[EventDate "2015.09.11"]
+21... e5 {While Caurana's move is not bad, he clearly had a stronger
+continuation at his disposal.} (21... Nxh3+ 22. gxh3 {doesn't really work.}) (
+21... Bxh3 $1 $17 {was the winning move with the following tactics.} 22. gxh3 (
+22. Bf3 Bf5 $17) (22. Bxf4 Qxf4 23. gxh3 Nxf2 $19) 22... Nxh3+ 23. Kg2 (23. Kh1
+Rxf2 $1 24. Ng4 (24. Bxf2 Nhxf2+ 25. Rxf2 Nxf2+ 26. Kg2 Nxd1) 24... Ng3#) 23...
+Nhxf2 24. Bxf2 Rxf2+ $1 25. Rxf2 Qg3+ $19) 22. Bxf4 gxf4 23. Nb3 Ng5 24. dxe5
+Qxe5 25. Bg4 Bxg4 26. Qxg4 f3 27. Nxf3 Nxf3+ 28. gxf3 Rf4 29. Qg3 Qf6 30. Rfe1
+Rxe1+ 31. Rxe1 Rxf3 32. Qb8+ Kh7 33. Nc1 Qg5+ 34. Kf1 Qh4 35. Qh2 Rxh3 0-1

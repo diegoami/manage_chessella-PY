@@ -1,0 +1,57 @@
+[Event "World Blitz-ch 2015"]
+[Site "Berlin"]
+[Date "2015.10.13"]
+[Round "9.4"]
+[White "Korobov, Anton"]
+[Black "Petrosian, Tigran L"]
+[Result "0-1"]
+[ECO "A41"]
+[WhiteElo "2700"]
+[BlackElo "2625"]
+[Annotator "Sagar Shah"]
+[SetUp "1"]
+[FEN "8/8/3b4/8/8/2K5/4k1n1/8 w - - 0 95"]
+[PlyCount "64"]
+[EventDate "2015.??.??"]
+[EventCountry "GER"]
+{The first day of the blitz saw surprisingly high number of games ending with
+the material balance that we have on the board. Strong GMs like Sethuraman and
+Motylev unable to execute the mate with very little time on the clock. It was
+nice to see Petrosian having absolutely no problems in mating his opponent.
+Let's learn from the Armenian.} 95. Kc4 Ke3 96. Kd5 Bg3 97. Kc4 Nf4 98. Kc5 Ke4
+99. Kc6 Bf2 {It always makes sense to place your knight and bishop on the same
+coloured squares so that they can control different colours.} 100. Kd6 Kd4 101.
+Kc6 Nd5 102. Kd6 Bg3+ 103. Kc6 Nb4+ 104. Kb5 Bd6 105. Kb6 Kc4 106. Kb7 {
+Korobov does the right thing trying to go towards the wrong coloured corner
+square.} Kc5 107. Ka8 (107. Kc8 Kc6 108. Kd8 Nd5 $1 {The knight is on the right
+circuit. The way I remember this circuit is - the a8 square can only be
+controlled by a knight and the best square for it to do that is c7. From c7, as
+we have read in numerous books the right movement is to move in W shape i.e
+c7-d5-e7-f5.} 109. Ke8 Ne7 110. Kf7 Kd7 111. Kf6 Bf4 {And this is a typical way
+to lock the opponent's king.}) 107... Kc6 (107... Kb6 {would be painful!}) 108.
+Ka7 Nd5 109. Ka8 Nb6+ {Now Petrosian will push his king to the a1 square. From
+this point onwards you should remember the mating pattern.} 110. Ka7 Bc7 { A
+waiting move to push the king to a6 and then control the a7 square with Bb8.}
+111. Ka6 Bb8 112. Ka5 Nd5 {The knight moves in the W circuit. Now the b4 square
+is controlled. This is essentially the forking of roads. Beginners are most
+afraid of Ka4 as then it seems the king runs away. In the game Korobov went for
+the other option with Ka6.} 113. Ka6 (113. Ka4 {It seems the king is running
+away to freedom but looks how the knight and bishop will co-ordinate to lock
+the white king.} Kc5 114. Kb3 Nb4 {Taking control of the important c2 square
+and staying on the W circuit.} 115. Kc3 {c2 and d3 are controlled. We only need
+to protect d2.} Bf4 $1 {This is the formation that you must engrave in your
+head. The knight and bishop control all the squares and White king has to
+retreat.} 116. Kb2 Bd2 {The cage is made smaller.} 117. Kb3 Kb5 118. Ka3 Kc4
+119. Ka4 Nd3 120. Ka3 Bb4+ 121. Ka2 (121. Ka4 Nb2#) 121... Kc3 122. Kb1 Kb3
+123. Ka1 Kc2 124. Ka2 Nc1+ 125. Ka1 Bc3#) 113... Nb4+ 114. Ka5 Kc5 115. Ka4 Kc4
+$1 116. Ka5 Bc7+ {There is no escape. Once again this is a typical move not
+letting the king get away.} 117. Ka4 Bb6 (117... Nd3 {continuing the circuit
+leads to a similar line as in the game.} 118. Ka3 Bb6 {a waiting move.} 119.
+Ka4 (119. Ka2 Kb4 120. Kb1 Kb3 121. Ka1 Kc2 122. Ka2 Bc5 {and the king is boxed
+in.}) 119... Nb2+ {The final move in the W.} 120. Ka3 Kc3 121. Ka2 Kc2 122. Ka3
+Bc5+ {The same pattern.} 123. Ka2 Nd3 124. Ka1 Bd6 {A waiting move} 125. Ka2
+Nc1+ 126. Ka1 Be5#) 118. Ka3 Nd3 119. Ka4 Nb2+ {Tigran has perfectly executed
+the W manoeuvre.} 120. Ka3 Kc3 121. Ka2 Kc2 122. Ka3 Bc5+ {The same theme of
+king above the knight and bishop checking to push the white king.} 123. Ka2 Nd3
+124. Ka1 Bf8 {A waiting move.} 125. Ka2 Nc1+ 126. Ka1 Bg7# {Great play by
+Tigran Petrosian who made it look very easy!} 0-1

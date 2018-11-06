@@ -1,0 +1,107 @@
+[Event "FIDE World Cup 2015"]
+[Site "Baku AZE"]
+[Date "2015.09.23"]
+[Round "5.4"]
+[White "Svidler, Peter"]
+[Black "Wei, Yi"]
+[Result "1/2-1/2"]
+[ECO "D42"]
+[PlyCount "42"]
+[EventDate "2015.09.11"]
+[SourceDate "2015.02.07"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. e3 e6 5. d4 d5 6. cxd5 Nxd5 7. Bd3 Be7 8. O-O
+O-O 9. Qe2 cxd4 10. exd4 Bd7 11. Qe4 g6 12. Bh6 Re8 13. Rac1 Bf6 14. Nxd5 exd5
+15. Qf4 Bh8 16. Rfe1 Rxe1+ 17. Rxe1 Qf6 18. Qc7 Qd8 19. Qf4 Qf6 20. Qc7 Qd8 21.
+Qf4 Qf6 1/2-1/2
+
+[Event "FIDE World Cup 2015"]
+[Site "Baku AZE"]
+[Date "2015.09.23"]
+[Round "5.4"]
+[White "Eljanov, Pavel"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[ECO "E06"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[PlyCount "115"]
+[EventDate "2015.09.11"]
+[SourceDate "2015.02.07"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Qxc4 Bc6 10. Bg5 Bd5 11. Qc2 Be4 12. Qc1 h6 13. Bxf6 Bxf6 14. Rd1 a5 15.
+Nbd2 Bh7 {A novelty. Before this Bxf3 was played universally.} (15... Bxf3 16.
+Bxf3 c6 17. Nc4 Nd7 {is a typical Catalan position for this variation. White
+has a bit more space and a bit more pleasant position, but Black is ultra
+solid. This was, among others, Sasikirian-Svetushkin from earlier this year.})
+16. Nb3 c6 17. Qc3 Be7 18. Nc5 Qc7 19. Ne5 Na6 20. Nxb7 $5 {In my opinion the
+only real try for an advantage, but it's hard to look at this and say White
+will emerge with a better position. Black's two pieces are very active.} Qxb7
+21. Bxc6 Qc7 $2 (21... Qa7 $1 22. Bxa8 Bb4 23. Qc6 Qxa8 {Black's knight on a6
+is awkward, but Black shouldn't have real problems.}) 22. Bxa8 Qxc3 23. bxc3
+Rxa8 24. Nc6 {Now White definitely has some chances to push. He has a passed
+pawn, the a6 knight is bad and the h7 bishop will soon be bullied out of the
+game by White's pawns.} Bd8 (24... Kf8 $5 {going for active play.} 25. Nxa5 Rc8
+) 25. Nxd8 Rxd8 26. f3 Rc8 27. Ra3 Bg6 28. Kf2 Rb8 29. Rd2 f6 30. Raa2 $1 $16 {
+Gaining control of the open file. The a5 pawn will be hard to defend. Nakamura
+takes the c3 pawn in return, but Black's pieces simply don't coordinate well.}
+Rb3 31. Rab2 Rxc3 32. Rb5 Bc2 33. Rxa5 Nc7 34. Ra7 f5 35. a5 {Look how
+difficult it is to play with Black. White simply has to push his pawn,
+Nakamura has to try to get his pieces to play together. That is easier said
+than done.} Kh7 {That being said, it is strange to go to h7 instead of towards
+the queenside.} 36. Rb7 Rc4 37. Rb6 Ba4 38. a6 Bc6 39. a7 Bd5 40. Ra2 $1 {A
+timely move. The threat is Ra5-c5.} Rxd4 41. Rc2 Na8 42. Ra6 Rd1 (42... g5 43.
+Rb2 Kg6 44. Rb8 Kf6 45. Ra5 Kg7 $18) 43. h4 h5 44. Ke3 $18 {The king marches
+in since Black can't do anything.} Rg1 45. Kf4 Rg2 46. Rd6 Rg1 47. Rc8 Ra1 48.
+Kg5 $1 Rxa7 49. Rdd8 g6 50. Rh8+ {The only blemish in Eljanov's otherwise
+perfect play.} (50. Kf6 Kh6 51. Rh8+ Rh7 52. Rcg8 {would have finished the
+game off in fewer moves.}) 50... Kg7 51. Rcg8+ Kf7 52. Rxg6 Ra6 53. Rh7+ Kf8
+54. Kxh5 Nb6 55. Kg5 {White is simply and obviously winning. Black's pieces
+aren't playing and the h-pawn is unstoppable.} Nc4 56. h5 Nd6 57. Rf6+ Kg8 58.
+Rd7 1-0
+
+[Event "FIDE World Cup 2015"]
+[Site "Baku AZE"]
+[Date "2015.09.23"]
+[Round "5.4"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[PlyCount "52"]
+[EventDate "2015.09.11"]
+[SourceDate "2015.02.07"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O
+8. Qd2 Nd7 9. O-O-O c6 10. Kb1 d5 11. c4 Nb6 12. cxd5 Nxd5 13. Bc4 Be6 14. Rhe1
+Bb4 15. c3 Be7 16. Bb3 Qa5 17. Nd4 Bd7 18. Bc2 Rfe8 19. Nb3 Qc7 20. Bc5 Bxc5
+21. Nxc5 Rxe1 22. Rxe1 Re8 23. Rxe8+ Bxe8 24. Qe2 Kf8 25. g3 Nf6 26. Qe3 b6
+1/2-1/2
+
+[Event "FIDE World Cup 2015"]
+[Site "Baku AZE"]
+[Date "2015.09.23"]
+[Round "5.1"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[PlyCount "176"]
+[EventDate "2015.09.11"]
+[SourceDate "2015.02.07"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. e3 Bb7 6. Bd3 O-O 7. O-O d5 8. cxd5
+exd5 9. a3 Bd6 10. b4 a6 11. Qb3 Qe7 12. Ra2 Nbd7 13. Re2 b5 14. Nd2 Ne4 15.
+Nxd5 Bxd5 16. Qxd5 Nc3 17. Qc6 Nxe2+ 18. Bxe2 Nb6 19. e4 a5 20. Bxb5 axb4 21.
+a4 Qe6 22. Qc2 Bf4 23. d5 Qe7 24. Bc6 Ra7 25. g3 Be5 26. Nf3 Bc3 27. Bg5 Qd6
+28. Be3 Ra5 29. Nd4 Nc4 30. Bf4 Qf6 31. Nb3 Ra6 32. Bb5 Na3 33. Qe2 Nxb5 34.
+Qxb5 Rfa8 35. Bxc7 Rxa4 36. d6 Be5 37. Nc5 Bxd6 38. Bxd6 Ra2 39. Bf4 Qc3 40.
+Be3 h6 41. Rc1 Ra1 42. Rxa1 Rxa1+ 43. Kg2 Kh7 44. Qe8 Qc4 45. Nd7 Qf1+ 46. Kf3
+Qd1+ 47. Kf4 Qd6+ 48. Kf3 Qd1+ 49. Kf4 Qd6+ 50. e5 g5+ 51. Kg4 Qe6+ 52. Qxe6
+fxe6 53. Nc5 Kg6 54. Kf3 Kf7 55. Ke2 Rh1 56. Bd2 Rb1 57. Kd3 b3 58. Be3 Kg6 59.
+Nxe6 Kf5 60. Nd4+ Kxe5 61. Kc3 Ke4 62. Nxb3 Rh1 63. Nd2+ Kf5 64. Nf3 Ke4 65.
+Nd2+ Kf5 66. Kd3 Rxh2 67. Ke2 Rh1 68. Nf1 h5 69. f3 h4 70. g4+ Kg6 71. f4 gxf4
+72. Bxf4 Rg1 73. Ne3 Ra1 74. Nf5 h3 75. Nh4+ Kf6 76. Nf3 Ra2+ 77. Ke3 Rg2 78.
+Nh2 Kg6 79. Kf3 Rg1 80. Be3 Rg2 81. Nf1 Kh7 82. Bf2 Kg6 83. Ne3 Rh2 84. Kg3 Rh1
+85. Nf5 h2 86. Nh4+ Kh7 87. Nf3 Rg1+ 88. Kxh2 Rxg4 1/2-1/2
+

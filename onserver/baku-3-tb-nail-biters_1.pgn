@@ -1,0 +1,26 @@
+[Event "FIDE World Chess Cup 2015"]
+[Site "Baku"]
+[Date "2015.09.19"]
+[Round "3.4"]
+[White "Svidler, Peter"]
+[Black "Radjabov, Teimour"]
+[Result "1-0"]
+[ECO "D80"]
+[WhiteElo "2727"]
+[BlackElo "2738"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[SetUp "1"]
+[FEN "2rr1k2/1pnbpp1p/1q3bp1/pN1P4/2BN4/PP2P2P/2R1QPP1/3R2K1 w - - 0 25"]
+[PlyCount "27"]
+[EventDate "2015.??.??"]
+[EventCountry "AZE"]
+25. Nxc7 Rxc7 {White has an excellent position. Up a pawn and trying to
+convert. Svidler, however, goes for the kill when it was not ready} 26. Ne6+ $2
+Bxe6 $2 (26... fxe6 $1 27. dxe6 {it looks like Black loses the bishop, but this
+is not the case} Rxc4 $1 28. Rxc4 (28. Rxd7 Rxc2 29. Qxc2 {is an extra piece
+for Black.}) 28... Bxe6 29. Rxd8+ Qxd8 {gives Black two beautiful bishops and a
+winning position against the rook.}) 27. dxe6 Rxd1+ 28. Qxd1 fxe6 $6 29. Qd8+
+{Now White's attack is decisive.} Kg7 30. Bxe6 Rc6 31. Qg8+ Kh6 32. Qf8+ (32.
+h4 $1 Rxc2 33. Qf8+ Bg7 34. Qf4+ Kh5 35. Qg5#) 32... Bg7 33. Rxc6 Qxc6 34. Qxe7
+g5 35. Bf5 Qc3 36. g3 b5 37. h4 Qf6 38. hxg5+ {The endgame is trivially winning
+with three extra pawns.} 1-0

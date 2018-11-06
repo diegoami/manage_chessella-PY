@@ -1,0 +1,43 @@
+[Event "WJCC 2015"]
+[Site "?"]
+[Date "2015.09.10"]
+[Round "8.3"]
+[White "Antipov, Mikhail Al"]
+[Black "Van Foreest, Jorden"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2538"]
+[BlackElo "2541"]
+[Annotator "Mikhail Antipov"]
+[PlyCount "53"]
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. O-O O-O 6. c3 d5 (6... d6 {is
+another way to play this position.}) 7. exd5 Nxd5 8. b4 Be7 9. b5 Na5 10. Bxd5
+(10. Nxe5 Bf6 11. f4 Nxc3 $1 12. Nxc3 Qd4+ $15 {has been scoring dismally for
+White.}) 10... Qxd5 11. c4 Qd7 $5 (11... Qd8 $6 12. Bd2 e4 13. Bxa5 exf3 14.
+Qxf3 a6 15. a4 $1 $14 axb5 16. axb5 $14 Bb4 $2 17. Bxc7 {That's one of the
+reasons why the queen is not well placed on d8.}) 12. Nc3 (12. Bd2 e4 13. Bxa5
+exf3 14. Qxf3 a6 $15 15. a4 Rd8 $1 16. Rd1 axb5 17. axb5 Bb4 $17) 12... f6 $6 (
+12... b6 $5 13. Nd5 (13. Nxe5 Qd4 14. Bd2 Qxe5 (14... Bd6 $1 15. Nf3 Qxd3 $17)
+15. Re1 Qd6 16. Nd5 Bd8 17. Bb4 Qd7 18. Bxf8 Kxf8 19. Re5 $36) 13... Bd6 14.
+Bd2 c6 15. bxc6 Nxc6 $15) 13. Nd5 Bd8 14. Ba3 Re8 15. Rc1 $5 (15. Qa4 $2 b6 $1
+$17) (15. Rb1 $6 a6 16. b6 cxb6 17. Nxb6 (17. Rxb6 $5 Qf7 $15) 17... Bxb6 18.
+Rxb6 e4 19. Rd6 Qf7 20. dxe4 Nxc4 21. Rd8 Bg4 $17) 15... a6 $1 {Black is
+already better. The position is opening up and the two bishops are going to get
+into the game.} 16. b6 $5 cxb6 $2 (16... c6 $5 {followed by Bxb6 would have
+been better though White retains compensation.} 17. Ne3 Bxb6 18. c5 Bc7 19. Bb4
+$44) 17. Nd2 f5 18. f4 e4 $6 (18... exf4 19. Qf3 $36) (18... b5 $5) 19. Re1 b5
+$6 (19... exd3 20. Qh5 Re2 $1 (20... g6 $2 21. Qh6 Qf7 22. Rxe8+ Qxe8 23. Nf3
+d2 24. Nxd2 $18) 21. Rxe2 dxe2 22. Qxe2 Qf7 $13) (19... e3 $2 20. Nf3 $16) 20.
+dxe4 fxe4 $2 (20... Qf7 $1 $13) (20... Nxc4 21. Nxc4 bxc4 22. Rxc4 $14 ) 21.
+Nxe4 Nxc4 {Diagram [#] The position is completely crazy. White is a pawn down
+but that is hardly the most important factor here. His development is better.
+Look at the rook on a8 and the bishop on c8. White must do something quickly.}
+22. Qh5 $1 Re6 (22... Nxa3 23. Nef6+ $18 {[%cal Ge1e8]}) (22... g6 23. Qh6 $1
+Qf7 24. Nef6+ Bxf6 25. Nxf6+ Qxf6 26. Rxe8+ Kf7 27. Qf8#) 23. f5 $3 (23. Rcd1
+Qf7 24. Ndf6+ Bxf6 25. Nxf6+ Qxf6 $19) 23... Qxd5 (23... Re5 24. Nd6 $1 $18
+(24. Ng5 Bxg5 25. Rxe5 Nxe5 26. Rc7 Qd8 (26... Bd8 27. Rxd7 Bxd7 28. Bb2 $18)
+27. f6 $18) 24... Rxe1+ (24... Nxa3 25. Rxe5 $18) 25. Rxe1 Nxd6 26. Bxd6 $1 $18
+{There is absoutely no way to prevent Re8#.}) 24. Ng5 $1 (24. Nf6+ gxf6 25.
+Rxe6 Bb6+ 26. Rxb6 Bxf5 27. Rd1 Qe5 28. Rxb7 $18) (24. fxe6 $4 Qxh5 $19) 24...
+Bxg5 (24... Rxe1+ 25. Rxe1 Bb6+ 26. Kh1 Bxf5 27. Re8+ Rxe8 28. Qxe8#) 25. Qe8+
+$3 {A very nice finish.} Rxe8 26. Rxe8+ Kf7 27. Rf8# 1-0

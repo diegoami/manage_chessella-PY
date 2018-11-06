@@ -1,0 +1,50 @@
+[Event "COPA INDEPENDENCIA 2015"]
+[Site "DF"]
+[Date "2015.09.14"]
+[Round "6.1"]
+[White "CORDOVA, EMILIO."]
+[Black "HEVIA, CARLOS."]
+[Result "1-0"]
+[ECO "E15"]
+[Annotator "l'Ami,Alina"]
+[SetUp "1"]
+[FEN "r4rk1/1b4np/p2p2p1/1ppP3q/4P3/4QP2/PP2N1BP/3R1RK1 w - - 0 26"]
+[PlyCount "25"]
+[EventDate "2015.??.??"]
+[SourceDate "2004.09.20"]
+[WhiteClock "0:01:25"]
+[BlackClock "0:02:25"]
+
+26. b4 $1 {The tournament winner's trademark, inspired pawn moves!} Rac8 ({
+Obviously,} 26... c4 {or cxb4 run into} 27. Qb6) 27. Rc1 {A difficult
+situation for Black: between the devil and the deep blue sea...} Qe5 (27...
+cxb4 {is met by the same} 28. Qb6 {where the d6-pawn plays a more strategic
+role than its white pale compensation that was taken on b4.}) 28. bxc5 dxc5 29.
+Rxc5 Nf5 {Trying to mud the crystaline winning waters.} 30. Qc3 Qe7 31. Rxc8
+Rxc8 32. Qb2 {Given the little time on the clock, this seemed to me the best
+practical way to continue. What could be more tempting than controlling the
+a1-h8 diagonal, followed soon by Bh3 and even mating ideas?} ({However, the
+silicon valley shouts} 32. Qd2 {and after} Qc5+ 33. Rf2 {with no more threats,
+pawn up and big advantage.}) 32... Ne3 33. Bh3 {Pretty grim for Black but
+there was a good defensive idea; try to find it!} Qg5+ {was played, which was
+not the winner ticket.} (33... Rc2 $1 {What follows in this line is quite
+difficult to grasp and I will surely invest more time to properly comprehend
+everything that my engine is suggesting. In practical play though and having
+to make your moves on the 30 seconds increament, interesting things could have
+happened had Black chosen for this mess.} 34. Qd4 Qg5+ 35. Kf2 Bc8 $1 36. Qxe3
+Qh4+ 37. Kg1 Bxh3 38. Rd1 Rxa2 39. d6 Rc2 {These machines have zero fears!} 40.
+Qb3+ (40. d7 {doesn't work} Bxd7 {and if} 41. Rxd7 Qe1+ {oups!}) 40... Rc4 41.
+Ng3 Bd7 {Asses this if you can! (I would always choose White)} 42. e5 Qg5 43.
+e6 Bxe6 44. d7 Qd8 {I am thouroughly enjoying the "only" moves that my
+computer is throwing in! I must say I don't have the strongest laptop ever but
+it gives an idea on how difficult to win a game became these days. At least we
+play humans, which gives hopes:)}) 34. Kf2 Nxf1 35. Be6+ Kf8 36. Bxc8 {When
+time is running out, the usual path to victory is to keep it simple, forget
+about calculating sharp lines (if you can!).} ({Even stronger was} 36. Qh8+ Ke7
+37. Qxh7+ Kd6 38. f4 ({or} 38. Qxb7) 38... Qd8 39. Qxb7 {And everything falls
+apart, the knight on f1 is hanging, as well as the rook on c8 and the pawn on
+a6, while the threat of e5 is floating in the air-->impossible for Black to
+save his army.}) 36... Bxc8 37. Qh8+ Ke7 38. Qxc8 {Pawn up and close to
+queening was more than enough for White to convert the advantage into a full
+point.} 1-0
+

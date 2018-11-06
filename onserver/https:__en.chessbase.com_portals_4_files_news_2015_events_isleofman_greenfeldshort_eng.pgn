@@ -1,0 +1,43 @@
+[Event "PokerStars IoM Masters"]
+[Site "Douglas ENG"]
+[Date "2015.10.07"]
+[Round "5.5"]
+[White "Greenfeld, Alon"]
+[Black "Short, Nigel D"]
+[Result "0-1"]
+[ECO "A09"]
+[WhiteElo "2534"]
+[BlackElo "2678"]
+[Annotator "Johannes Fischer"]
+[PlyCount "44"]
+[EventDate "2015.10.03"]
+
+1. Nf3 d5 2. c4 d4 3. b4 Bg4 4. g3 ({More common is} 4. Qb3) 4... f6 {
+Technically a new move - though the idea to play ...e5 is well-known.} 5. Bg2
+e5 6. O-O Nd7 7. Qb3 a5 8. e3 {White decides to give the b-pawn to open files
+and exploit the fact that Black is behind in development and that the black
+king is still in the middle of the board.} dxe3 9. fxe3 axb4 10. d4 Be6 11. Bb2
+Nh6 12. dxe5 fxe5 13. Nbd2 {Instead of winning back the sacrificed pawn White
+decides to increase the pressure and develops another piece.} ({After} 13. Nxe5
+Nxe5 14. Bxe5 Ng4 15. Bd4 c5 16. Bb2 {the position remains dynamic and is
+roughly equal.}) 13... Nf7 14. Nd4 $1 {An inspired piece sacrifice. White
+opens the e-file to attack Black's king.} exd4 15. exd4 {Die Öffnung der
+a-Linie garantiert den Figurenrückgewinn.} Nde5 {Black is ready to give
+material back.} ({Being greedy does not pay off: After} 15... Be7 16. Rae1 Ra6
+17. d5 Bg4 18. Bxg7 Rg8 19. Bd4 {the black king remains stuck in the center
+and White has ample compensation for his piece.}) 16. Rae1 {White does not
+want to take the offered knight but insists to continue with his attack.
+However, he is in for a surprise: [#]} Bc5 $3 {A brillant idea. Black develops
+the bishop - even though he sacrifices it - and suddenly has threats of his
+own.} 17. Qe3 $2 {A very human reaction. But not the best.} ({The computer
+prefers} 17. Bd5 $1 {and likes White's position, e.g.:} Bxd5 (17... O-O 18.
+dxc5 (18. Bxe6 $2 Bxd4+ $11) 18... Re8 19. Nf3 $16) 18. cxd5 O-O 19. dxc5 $18)
+(17. dxc5 {leads to complications with chances for both sides:} Qxd2 18. Bxe5 (
+18. c6 $5 b5 19. Bxe5 O-O 20. Bf4 Qd4+ 21. Rf2 Bxc4 22. Qxb4 Rxa2 23. Be3 Qd6
+$11) 18... Rxa2 19. Qf3 O-O 20. Bd6 $11) 17... Rxa2 18. dxc5 Rxb2 19. Rxf7 {
+Perhaps White relied on this move when calculating the complications a few
+moves earlier. Now, if Black had to take the rook things would be fine for
+White. But Black has other options.} Qxd2 $1 {With a winning position for
+Black.} 20. Qxd2 Rxd2 21. Rf4 Nd3 22. Rxe6+ Kd7 ({White loses material, e.g.} 
+22... Kd7 23. Rfe4 Rd1+ 24. Bf1 b3 $19) 0-1
+

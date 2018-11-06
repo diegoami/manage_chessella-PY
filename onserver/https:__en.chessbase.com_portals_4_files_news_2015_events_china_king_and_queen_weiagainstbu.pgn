@@ -1,0 +1,55 @@
+[Event "1st China King Match 2015"]
+[Site "Taizhou"]
+[Date "2015.11.30"]
+[Round "3.2"]
+[White "Wei, Yi"]
+[Black "Bu, Xiangzhi"]
+[Result "1-0"]
+[ECO "C92"]
+[WhiteElo "2737"]
+[BlackElo "2710"]
+[Annotator "Johannes Fischer"]
+[PlyCount "111"]
+[EventDate "2015.??.??"]
+[EventCountry "CHN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Ng5 Rf8 12. Nf3 Re8 13. Nbd2 exd4 14. cxd4 Nd7 15.
+Nf1 Na5 16. Bc2 Bf6 17. N1h2 c5 18. d5 Nc4 19. Rb1 {Still theory. Black will
+play on the queenside, White will play on the kingside. Black's attack is
+usually quicker but White's attack is more dangerous. All in all chances are
+equal.} Nde5 {The first new move.} 20. Nxe5 Bxe5 21. b3 Nb6 22. Ng4 Bd4 23. Be3
+Bc3 24. Re2 b4 {To advance with the a-pawn and open the a-file. But how should
+White proceed with his attack?} 25. Bf4 $1 {Regrouping his pieces to bring the
+rook to the g-file.} a5 26. Re3 Bc8 {Wanting to exchange one attacking piece.}
+27. Rg3 Bxg4 28. hxg4 $5 {This seems paradoxical at first. Why does White
+bring his rook to g3 if he now blocks its view? But White does not want to
+attack on the g- but on the h-file.} a4 29. g5 axb3 30. axb3 g6 31. Be3 c4 32.
+Rh3 {White needs more time than Black to create concrete threats. However, he
+wants to mate, Black "only" wants to win material.} Ra2 ({Black also needs to
+find a way to create concrete threats. 32...Ra2 looks natural but maybe it was
+better to play} 32... cxb3 33. Rxb3 Nc4 {After for instance} 34. Bf4 (34. Bd4
+Ra1 35. Bb1 Qxg5 36. Rbxc3 bxc3 37. Bxc3 Ra3 $17) 34... Ra1 35. Rb1 Rxb1 36.
+Bxb1 Qb6 {Black's position looks promising. White's attack seems to be less
+dangerous than Black's b-pawn.}) 33. g3 $1 {Remarkably cold-blooded. Black's
+rook entered White's position but White takes his time to create potential
+threats on the h-file.} Qc7 34. Kg2 Rea8 35. Rc1 Rb2 ({Again a natural move
+but the engines prefer} 35... Ra1 {e.g.} 36. Bb1 cxb3 37. Qxb3 (37. Rxh7 Kxh7
+38. Qh1+ Kg8 39. Bd4 Bxd4 40. Rxc7 b2 41. Rc6 Rxb1 42. Qxb1 Ra1 $19) 37... Qc4
+38. Qc2 Nd7 {and Black's threats are more real.}) 36. Bd4 f6 37. gxf6 Bxd4 38.
+Qxd4 Raa2 {[#] Threatening 39... cxb3. But White now wins with a surprising
+combination:} 39. Rxh7 $3 Qxh7 (39... Kxh7 40. Rh1+ Kg8 41. f7+ Kxf7 42. Rh7+
+Ke8 43. Qh8#) 40. Qxb6 {After this right-left combination White is an exchange
+down, his bishop on c2 is hanging and the pawn on f6 looks vulnerable. However,
+Black's king is exposed - too exposed.} Qf7 (40... Rxc2 $2 41. Qd8+ Kf7 42.
+Qe7+ Kg8 43. Qe8#) 41. Rh1 Ra8 ({After} 41... Qxf6 {White wins with} 42. Qb8+
+Qf8 43. Rh8+ Kxh8 44. Qxf8+ Kh7 45. Qf7+ Kh8 46. e5 $18) 42. Bd1 Qxf6 43. Bg4
+Re8 ({After the surprising counter-sacrifice} 43... Qxf2+ 44. Qxf2 Raa2 45.
+Qxb2 Rxb2+ 46. Kf3 Rxb3+ 47. Kf4 Kg7 48. e5 dxe5+ 49. Kxe5 {the white bishop
+and the d-pawn are too strong. White is winning.}) 44. Qa7 {Threatening 45.
+Be6+ Kf8 46.Rh8+ Qxh8 47. Qf7#} Qe5 45. Rh7 Rxf2+ {The only way to avoid being
+mated.} 46. Kxf2 Rf8+ 47. Kg2 Qxe4+ 48. Kh2 Rf2+ 49. Qxf2 Kxh7 50. Qf7+ Kh8 51.
+Qf4 Qc2+ 52. Kh3 Kg7 (52... cxb3 53. Qh6+ Kg8 54. Be6#) 53. Qd4+ Kh7 54. Qxc4
+Qf2 55. Qf4 Qg1 56. Qf3 {Black resigned. An impressive attacking game by Wei
+Yi.} 1-0
+

@@ -1,0 +1,26 @@
+[Event "FIDE World Cup 2015"]
+[Site "Baku AZE"]
+[Date "2015.09.14"]
+[Round "2.8"]
+[White "Ding, Liren"]
+[Black "Inarkiev, Ernesto"]
+[Result "1-0"]
+[ECO "D35"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[SetUp "1"]
+[FEN "2nr1r1k/1p3qnp/p1p2p2/6p1/PP1PPN2/1B1R3Q/6PP/5RK1 b - - 0 27"]
+[PlyCount "24"]
+[EventDate "2015.09.11"]
+[SourceDate "2015.02.07"]
+27... Qe8 {Obviously, White has the initiative, but now his knight is attacked,
+and if he moves it to e6 the knight will get traded and White will lose some of
+his advantage.} 28. Qh6 $1 {No fear!} Qxe4 (28... gxf4 29. Rh3 Qxe4 {leads to
+lines considered below}) 29. Rh3 Ne7 (29... gxf4 30. Rxf4 $1 Qb1+ 31. Rf1 Qe4
+32. Rh4 Qd3 33. Bc4 {The queen gets kicked around - h7 must remain defended.}
+Qc2 34. Ba2 $1 {And there is no good defense against Bb1. Best is:} Rxd4 35.
+Bb1 $1 Rxh4 36. Qxh4 Nf5 37. Qh3 $1 $18 {and after White takes on f5 there will
+be a fork on c8 and h7.}) 30. Bc2 $1 {Most precise!} Qxc2 31. Nd3 {Beautiful
+block. h7 cannot be defended.} Kg8 32. Qxh7+ Kf7 33. Ne5+ Ke6 34. Qxc2 {The
+queen is lost and with it the game. Inarkiev keeps fluttering around for only a
+few more moves.} fxe5 35. Rh6+ Kd7 36. Rxf8 Rxf8 37. dxe5 Ne6 38. Rf6 Re8 39.
+Qh7 1-0

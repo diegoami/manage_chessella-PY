@@ -1,0 +1,25 @@
+[Event "RH Ch Sydney"]
+[Site "?"]
+[Date "2015.11.09"]
+[Round "?"]
+[White "Ibrahim, Victor"]
+[Black "Stipic, Stephen"]
+[Result "1/2-1/2"]
+[Annotator "Karsten Müller"]
+[SetUp "1"]
+[FEN "6R1/8/4rK1p/7k/3R4/8/7P/8 w - - 0 2"]
+[PlyCount "20"]
+[EventDate "2015.11.16"]
+
+{Giant slalom  Sometimes the king has to go a long way to cope with a rook
+that went berserk:} 2. Kf5 (2. Kf7 $6 {fails to make any progress because of}
+Re7+ 3. Kf8 Re8+ 4. Kg7 Re7+ 5. Kf6 (5. Kh8 $2 Rh7+ {stalemate}) 5... Re6+ {
+and White is back to where he started.}) 2... Re5+ 3. Kf4 Rf5+ 4. Ke4 Re5+ 5.
+Kd3 Re3+ 6. Kc4 Rc3+ 7. Kd5 $1 {The only way.} (7. Kb5 $2 Rc5+ 8. Kb6 (8. Kb4
+Rc4+ $11) 8... Rc6+ 9. Kb7 Rc7+ 10. Kb8 Rb7+ 11. Kc8 Rb8+ $11) 7... Rc5+ 8. Kd6
+Rc6+ 9. Kd7 Rc7+ 10. Kd8 $2 {Just before reaching his goal the king stumbles.}
+(10. Ke8 Re7+ (10... Rc8+ 11. Rd8 $18) 11. Kd8 Rd7+ (11... Re8+ 12. Rxe8 $18)
+12. Rxd7 $18) 10... Rc8+ 11. Ke7 Rxg8 {Many thanks to Dr Victor Ibrahim for
+this instructive example and the permission to show it in the CBM blog!}
+1/2-1/2
+

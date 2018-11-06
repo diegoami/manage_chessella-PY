@@ -1,0 +1,108 @@
+[Event "Qatar Masters Open 2015"]
+[Site "Doha"]
+[Date "2015.12.21"]
+[Round "2"]
+[White "Aravindh, Chithambaram VR"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "B20"]
+[WhiteElo "2486"]
+[BlackElo "2834"]
+[PlyCount "74"]
+[EventDate "2015.??.??"]
+[EventCountry "QAT"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:00]} 2. b3 {[%emt 0:03:20]} g6 {[%emt 0:
+01:45]} 3. Bb2 {[%emt 0:00:46]} Nf6 {[%emt 0:00:02]} 4. e5 {[%emt 0:39:10]} (4.
+Bxf6 $6 exf6 5. Nc3 {[%csl Gd5]} Bg7 {[%cal Rd7d6,Rf6f5]}) 4... Nd5 {[%emt 0:
+00:18]} 5. e6 {[%emt 0:02:31][%cal Gb2h8]} f6 {[%emt 0:00:08]} 6. exd7+ {
+[%emt 0:00:33]} (6. h4 dxe6 7. h5 Bg7 8. hxg6 hxg6 9. Rxh8+ Bxh8 10. Qg4 Kf7
+11. Nf3 Nc6 {1-0 (29) Paichadze,L (2426)-Zinchenko,Y (2523) Pardubice 2008})
+6... Qxd7 {[%emt 0:00:11][%cal Rb8c6,Re7e5]} 7. Nc3 {[%emt 0:02:00]} Nc6 {
+[%emt 0:06:21]} (7... Nxc3 8. Bxc3 Nc6 9. Nf3 e5 {0-1 (58) Lokasto,A (2330)
+-Milov,L (2400) Alushta 1992}) 8. Bb5 {[%emt 0:11:57]} (8. Bc4 {[%csl Rf6]
+[%cal Rc4g8]}) 8... Nc7 {[%emt 0:08:44]} 9. Bxc6 {[%emt 0:07:24]} (9. Bc4 {
+[%cal Rc4g8]} Bg7 10. Nf3 b6 {[%cal Rc8b7,Re8c8]}) 9... Qxc6 {[%emt 0:02:35]}
+10. Qf3 {[%emt 0:00:28]} Bd7 {[%emt 0:00:29][%csl Rf3]} 11. O-O-O {[%emt 0:01:
+24]} e5 {[%emt 0:01:33]} 12. Qxc6 {[%emt 0:15:28]} Bxc6 {[%emt 0:01:12]} 13. f3
+{[%emt 0:01:08]} Ne6 {[%emt 0:00:13]} 14. Nge2 {[%emt 0:00:41][%cal Rf8g7,
+Re8g8,Ra8d8,Rf6f5]} Be7 {[%emt 0:01:28]} (14... h5) (14... Bh6) (14... Bg7 15.
+Ne4 Rd8) 15. Rhf1 {[%emt 0:03:26]} b5 {[%emt 0:03:08]} (15... h5) (15... Kf7)
+16. Rde1 {[%emt 0:01:39][%cal Rf3f4]} Kf7 {[%emt 0:04:25]} 17. Nd1 {[%emt 0:00:
+43][%csl Rb5][%cal Rd1e3,Re3g2,Rf3f4]} a5 {[%emt 0:04:12][%cal Ra7a5]} 18. Ne3
+{[%emt 0:01:05]} Bd6 {[%emt 0:00:50][%csl Rf4]} (18... a4 19. f4 $1 {[%cal
+Re5e4,Rf4f5]} exf4 20. Nxf4 Nxf4 21. Rxf4 {[%csl Re3,Rf6][%cal Rb2f6]}) (18...
+g5 {[%csl Rf4]} 19. Ng3 a4 20. Ngf5) 19. Nc3 {[%emt 0:01:16]} h5 {[%emt 0:06:
+17]} 20. a4 {[%emt 0:01:02]} b4 {[%emt 0:01:46]} (20... bxa4 21. Nxa4 Be7 22.
+Nc4 Ra6 23. Bc3 {[%cal Rc3a5,Rc4a5,Rh8a8]}) 21. Ne4 {[%emt 0:00:32]} Bc7 {
+[%emt 0:00:07]} 22. Nc4 {[%emt 0:00:25]} h4 {[%emt 0:04:57][%csl Rf2,Rh3]} 23.
+g4 {[%emt 0:03:59]} (23. Nxf6 Kxf6 24. Nxe5 Bd5 25. Ng4+ Kf7 26. Bxh8 Rxh8) (
+23. h3) (23. Rf2) 23... hxg3 {[%emt 0:00:29]} 24. hxg3 {[%emt 0:00:10]} Rh3 {
+[%emt 0:02:28]} 25. g4 {[%emt 0:00:50]} (25. f4 Bxe4 26. Rxe4 exf4 27. gxf4
+Rah8) 25... Rd8 {[%emt 0:03:13][%csl Rd6]} (25... Bxe4 26. fxe4 (26. Rxe4 Rah8)
+26... Kg7 $15) (25... g5 26. Ne3 Rah8 $36 {[%csl Re3,Re4]}) (25... Rah8 $2 26.
+g5) (25... Kg7 $2 26. g5 {[%cal Rb2g7]}) (25... Ke7 $2 26. g5 f5 27. Nf2) 26.
+g5 {[%emt 0:00:30]} Bxe4 {[%emt 0:04:21][%cal Re1e4,Re6g5]} (26... Nxg5 27.
+Bxe5) (26... fxg5 27. Bxe5) 27. fxe4 {[%emt 0:00:05]} (27. Rxe4 $2 Nxg5) 27...
+Nf4 {[%emt 0:00:05]} (27... Nxg5 28. Bxe5 Bxe5 29. Nxe5+ Kg7 30. Nc4 {[%cal
+Rc4a5]} Ra8 {[%csl Rc4][%cal Re4e5]}) 28. gxf6 {[%emt 0:00:20]} Ke6 {[%emt 0:
+00:01][%csl Re5,Gf6]} (28... Kxf6 29. Rxf4+ {[%cal Rb2f6]}) 29. Ne3 {[%emt 0:
+00:56][%csl Rd5,Rg4]} g5 {[%emt 0:01:12][%csl Rg5]} 30. Nd5 {[%emt 0:00:34]
+[%cal Rf4d5,Rf6f7]} Bd6 {[%emt 0:00:12]} 31. Rg1 {[%emt 0:00:35][%cal Rg1g5]}
+Rg8 {[%emt 0:00:37][%csl Rb1,Rd1][%cal Rg8g5]} (31... Nxd5 32. exd5+ Kxf6 {
+[%cal Rf6g5]} 33. Ref1+ Kg6 34. Re1) 32. Rg4 {[%emt 0:00:31]} (32. Kd1) (32.
+Kb1) 32... Rh4 {[%emt 0:01:10]} 33. Rgg1 {[%emt 0:00:31]} (33. Rxh4 gxh4 34.
+Nxf4+ exf4 {[%csl Re6][%cal Rf4f2,Rh4h2]}) 33... g4 {[%emt 0:00:21]} 34. Ne3 {
+[%emt 0:00:21]} (34. Nxf4+ exf4 {[%csl Rf4,Rg4]} 35. e5 Bc7) 34... g3 {[%emt 0:
+03:24]} 35. Nf5 $2 {[%emt 0:00:36][%csl Rd6,Rf5,Rg3,Rh4][%cal Rf6f7]} (35. f7
+Rg5 36. Bxe5 (36. Nf5 Rh8 37. d4) 36... Rxe5 37. Nc4 g2 38. Nxd6 Rh8 39. Nf5
+Kxf7 40. d3 Re6 $15) 35... Rhh8 {[%emt 0:00:38][%csl Rh8]} 36. f7 {[%emt 0:00:
+31]} (36. Nxg3 Rxg3 37. Rxg3 Ne2+ {[%csl Rc1,Rg3][%cal Rh8h1,Re2g3,Re2c1]}) (
+36. Rxg3 Ne2+) 36... Rg6 {[%emt 0:00:02][%csl Rg6,Rh8][%cal Rf5d6,Re6d6,Rh8f8,
+Rg6g3]} 37. Kd1 {[%emt 0:00:32]} g2 {[%emt 0:00:25]} (37... g2 38. d3 (38. Re3
+Bc7 {[%cal Re6f7,Rf4h3]} (38... Nh3 39. Rxh3 Rxh3 40. Nxd6)) 38... Nh3 {
+[%cal Rh3g1]}) 0-1
+
+[Event "Qatar Masters Open 2015"]
+[Site "Doha"]
+[Date "2015.12.21"]
+[Round "2"]
+[White "Grandelius, Nils"]
+[Black "Giri, Anish"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2632"]
+[BlackElo "2784"]
+[PlyCount "80"]
+[EventDate "2015.??.??"]
+[EventCountry "QAT"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} d6 {[%emt 0:
+00:00]} 3. d4 {[%emt 0:00:51]} cxd4 {[%emt 0:00:00]} 4. Nxd4 {[%emt 0:00:06]}
+Nf6 {[%emt 0:00:00]} 5. Nc3 {[%emt 0:00:06]} a6 {[%emt 0:00:00]} 6. h3 {
+[%emt 0:02:05]} e5 {[%emt 0:03:16]} 7. Nb3 {[%emt 0:01:54]} Be6 {[%emt 0:07:34]
+} 8. f4 {[%emt 0:00:57]} Be7 {[%emt 0:02:35]} 9. f5 {[%emt 0:04:05]} Bd7 {
+[%emt 0:03:16]} 10. Be3 {[%emt 0:02:16]} b5 {[%emt 0:17:30]} 11. Qf3 {[%emt 0:
+15:20]} b4 {[%emt 0:01:19]} 12. Nd5 {[%emt 0:00:42]} Nxd5 {[%emt 0:00:08]} 13.
+exd5 {[%emt 0:00:05]} Bg5 {[%emt 0:00:57]} 14. Bxg5 {[%emt 0:07:09]} Qxg5 {
+[%emt 0:00:10]} 15. Bd3 {[%emt 0:00:09]} Bb5 {[%emt 0:07:21]} 16. h4 {[%emt 0:
+24:36]} Qd8 {[%emt 0:03:59]} 17. g4 {[%emt 0:01:05]} Nd7 {[%emt 0:09:31]} 18.
+g5 {[%emt 0:00:45]} h6 {[%emt 0:02:27]} 19. Rg1 {[%emt 0:04:07]} hxg5 {[%emt 0:
+03:36]} 20. hxg5 {[%emt 0:00:02]} Bxd3 {[%emt 0:01:56]} 21. Qxd3 {[%emt 0:00:
+02]} Rh5 {[%emt 0:04:48]} 22. Qg3 {[%emt 0:01:02]} Qc7 {[%emt 0:03:08]} 23.
+O-O-O {[%emt 0:07:19]} Rc8 {[%emt 0:00:08]} 24. Rd2 {[%emt 0:00:26]} a5 {
+[%emt 0:04:53]} 25. Kb1 {[%emt 0:00:24]} a4 {[%emt 0:00:47]} 26. Nc1 {[%emt 0:
+01:21]} Qc4 {[%emt 0:03:45]} 27. Qf3 {[%emt 0:03:21]} Rh4 {[%emt 0:01:07]} 28.
+f6 {[%emt 0:00:32]} g6 {[%emt 0:00:17]} 29. Rh1 {[%emt 0:00:10]} Nc5 {[%emt 0:
+01:20]} 30. Rdh2 {[%emt 0:05:48]} Ne4 {[%emt 0:01:22]} 31. Qd1 {[%emt 0:04:24]}
+Rxh2 {[%emt 0:02:05]} 32. Rxh2 {[%emt 0:00:03]} Kd7 {[%emt 0:02:32]} 33. Qg1 {
+[%emt 0:04:12]} Qxd5 {[%emt 0:02:01]} 34. Qa7+ {[%emt 0:00:44]} Ke6 {[%emt 0:
+00:54]} 35. Qg1 {[%emt 0:01:59]} Kd7 {[%emt 0:01:53]} 36. Qa7+ {[%emt 0:00:01]}
+Ke6 {[%emt 0:02:45]} 37. Qg1 {[%emt 0:00:02]} Qc4 {[%emt 0:03:34]} 38. Re2 {
+[%emt 0:06:13][%csl Ge6]} b3 {[%emt 0:01:53]} 39. axb3 {[%emt 0:01:03]} (39.
+cxb3 axb3 40. a3) (39. Qg4+ Kd5) 39... axb3 {[%emt 0:00:07]} 40. cxb3 {[%emt 0:
+00:00]} (40. Nxb3 Qxe2) 40... Qxe2 {[%csl Ge2]} (40... Qxe2 41. Nxe2 Nd2+ 42.
+Ka2 Ra8+) 0-1
+
