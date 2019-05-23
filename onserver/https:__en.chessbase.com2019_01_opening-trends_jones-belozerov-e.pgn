@@ -1,0 +1,41 @@
+[Event "FIDE World Rapid-ch Open 2018"]
+[Site "St. Petersburg"]
+[Date "2018.12.27"]
+[Round "8.63"]
+[White "Jones, Gawain C B"]
+[Black "Belozerov, Andrei"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2682"]
+[BlackElo "2528"]
+[Annotator "Thorsten Cmiel"]
+[PlyCount "57"]
+[EventDate "2018.12.19"]
+[EventType "swiss"]
+[EventCountry "RUS"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,57,1,30,-8,45,7,28,9,34,-5,9,-32,-13,-48,-26,-54,7,0,38,-2,43,5,67,44,
+175,142,195,186,316,223,404,423,520,485,622,624,785,788,907,892,975,970,951,
+951,857,774,1039,775,762,643]} 1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3
+6. Qxd3 Qa5+ $5 {This move is directed against the Morozevich system with Bg5.}
+(6... e6 {is the main move.}) 7. Nd2 e6 8. Ne2 Qa6 9. c4 Nh6 (9... Nd7 10. b3
+Ne7 11. O-O Nf5 12. g3 {is known.}) 10. Ng3 {This move is directed against Nf5
+but is too slow when Black plays actively.} (10. Qc3 $5 {Unpins the c-pawn and
+is directed against the immediate counter that occurred in the game.} c5 $6 11.
+dxc5 $16) 10... c5 $1 11. O-O (11. Nxh5 $6 Nc6 $132) 11... Nc6 12. dxc5 O-O-O
+$6 {Castling queenside gives White unnecessary counterplay and after another
+inaccuracy quickly leadst to a catastrophe. Black had at least three better
+moves which all should have led to a much better game for Black.} (12... Rd8) (
+12... Bxc5) (12... Ng4) 13. b4 $1 $36 Nxb4 14. Qc3 Nc6 15. cxd5 exd5 $6 (15...
+Rxd5 16. Nde4 Ng4 17. Nd6+ Kb8 18. Rb1 Ngxe5 19. Nxb7 $13) 16. Nf3 d4 $2 {
+After this move White is clearly better.} ({Black had to try} 16... Ng4 {.})
+17. Qb3 $1 Bxc5 18. Bg5 Rd7 (18... Qa3 19. Bxd8 Qxb3 20. axb3 Kxd8 21. Nxh5 Nf5
+{still offers resistance but is also lost.}) 19. Rac1 Be7 (19... Qb6 20. e6 $5
+fxe6 21. Qxe6 {is similar to the game.}) 20. e6 $1 fxe6 21. Ne5 (21. Qxe6 Qa5
+22. Nxd4 {was even more convincing.}) 21... Bxg5 22. hxg5 Nf7 23. Nxd7 Kxd7 24.
+Ne4 Qb6 25. Nc5+ Kc7 26. Qxe6 Nfe5 27. Rfe1 Qb2 28. Na4 Qb5 29. Qxe5+ 1-0
+

@@ -1,0 +1,26 @@
+[Event "19th Bangkok Open 2019"]
+[Site "Bangkok"]
+[Date "2019.04.10"]
+[Round "5.1"]
+[White "Karthik Venkataraman"]
+[Black "Gustafsson, Jan"]
+[Result "0-1"]
+[ECO "A06"]
+[WhiteElo "2505"]
+[BlackElo "2633"]
+[PlyCount "46"]
+[EventDate "2019.04.06"]
+[EventType "swiss"]
+[EventCountry "THA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. b3 c5 3. e3 Nf6 4. Bb2 Nc6 5. Bb5 Bd7 6. O-O e6 7. d3 Be7 8. Nbd2
+O-O 9. Bxc6 Bxc6 10. Ne5 Be8 11. f4 d4 12. e4 Nd7 13. Nef3 Rc8 14. a4 Nb8 15.
+b4 cxb4 16. Nxd4 Nc6 17. N4b3 f6 18. Nc4 Bf7 19. Qg4 e5 20. fxe5 Nxe5 21. Nxe5
+fxe5 22. Bxe5 {By plucking the pawn on e5 White is threatening a mate on g7.}
+Qb6+ 23. Rf2 $4 {It's quite surprising that Karthik played this move which
+loses on the spot.} (23. Kh1 Qg6 $11) (23. Nd4 $1 Qg6 24. Qe2 Bc5 25. Kh1 Rfe8
+26. Nf3 {White is better.}) 23... Qxf2+ $1 (23... Qxf2+ 24. Kxf2 Be6+ $19) 0-1
+

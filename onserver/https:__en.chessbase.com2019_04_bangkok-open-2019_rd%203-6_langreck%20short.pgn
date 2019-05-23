@@ -1,0 +1,27 @@
+[Event "19th Bangkok Open 2019"]
+[Site "Bangkok"]
+[Date "2019.04.09"]
+[Round "4.8"]
+[White "Langreck, John"]
+[Black "Short, Nigel D"]
+[Result "0-1"]
+[ECO "B21"]
+[WhiteElo "2203"]
+[BlackElo "2636"]
+[PlyCount "44"]
+[EventDate "2019.04.06"]
+[EventType "swiss"]
+[EventCountry "THA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 0,44,5,25,32,21,23,2,19,36,31,29,54,7,24,39,4,-22,-14,-16,-38,-52,-26,
+-44,-35,-43,-37,-81,-104,-118,-97,-109,-54,-170,-175,-185,-176,-182,-177,-167,
+-173,-188,-192,-246,-239,-242,-648]} 1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6
+5. Nf3 a6 6. Bc4 b5 7. Bb3 Bb7 8. Qe2 Ne7 9. O-O Nbc6 10. Bg5 h6 11. Bh4 g5 12.
+Bg3 Ng6 13. Nd5 Rc8 14. Qe3 g4 15. Nd2 Nce5 16. Nc3 Bc5 17. Qe2 Qg5 18. Kh1 Nf4
+19. Bxf4 Qxf4 20. Rac1 h5 21. a4 b4 22. Nd1 Nf3 $3 {A bolt from the blue!} (
+22... Nf3 23. gxf3 (23. Nxf3 gxf3 24. Qxf3 Qxc1 $19) (23. g3 Qxd2 $19) 23...
+Bd6 {leads to a forced mate.}) 0-1
+

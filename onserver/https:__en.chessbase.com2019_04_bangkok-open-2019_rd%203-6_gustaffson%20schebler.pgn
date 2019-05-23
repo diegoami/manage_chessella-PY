@@ -1,0 +1,33 @@
+[Event "19th Bangkok Open 2019"]
+[Site "Bangkok"]
+[Date "2019.04.09"]
+[Round "4.1"]
+[White "Gustafsson, Jan"]
+[Black "Schebler, Gerhard"]
+[Result "1-0"]
+[ECO "E14"]
+[WhiteElo "2633"]
+[BlackElo "2385"]
+[Annotator "TA"]
+[PlyCount "69"]
+[EventDate "2019.04.06"]
+[EventType "swiss"]
+[EventCountry "THA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,69,36,38,26,46,39,67,66,73,72,68,64,67,62,70,70,64,74,78,61,74,84,78,
+50,101,105,97,69,106,84,85,51,81,77,99,88,93,70,100,93,108,101,125,121,135,137,
+168,160,162,180]} 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. a3 Bxd2+ 6. Qxd2
+Bb7 7. e3 O-O 8. Be2 d6 9. O-O Nbd7 10. b4 Qe7 11. Bb2 a5 12. Qc2 {E14:
+Queen's Indian: Classical Variation (4 e3)} axb4 13. axb4 Rxa1 14. Rxa1 {
+White is slightly better.} Ra8 15. Rxa8+ Bxa8 {[#]} 16. Qa4 $146 (16. Nd2 c5
+17. Qa4 Qd8 18. Qa3 {1-0 (39) Korobov,A (2652)-Andersson,U (2523) Sanem 2017})
+16... Qd8 17. Nd2 Bb7 18. f3 c5 19. Nb3 h6 20. Ba3 {[%cal Rd4c5]} cxd4 21. exd4
+Qc8 {next ...b5! is good for Black.} 22. Nd2 (22. b5 {seems wilder.} Qc7 23.
+Qb4 Ne8 24. Bd3 Qd8 25. Qc3) 22... Qa8 (22... h5 $14) 23. Qxa8+ $16 Bxa8 24.
+Kf2 Ne8 25. Ke3 Kf8 26. Nb1 Ke7 27. Nc3 Kd8 28. h4 Bb7 29. Bd3 Ba6 30. g4 g6
+31. Bc1 Ndf6 32. Be2 h5 33. Kf4 {White is clearly better.} Bc8 34. Be3 Bd7 35.
+b5 {Accuracy: White = 60%, Black = 20%.} 1-0
+

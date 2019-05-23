@@ -1,0 +1,64 @@
+[Event "Shamkir Chess"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "4"]
+[White "Giri, A.."]
+[Black "Radjabov, T.."]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "80"]
+[EventDate "2019.04.04"]
+
+{[%evp 0,80,29,29,21,0,-11,-3,-3,6,14,15,9,13,60,10,46,21,10,5,-11,-13,-11,-11,
+-1,1,18,8,15,5,31,27,22,4,24,-20,-21,-27,-20,-19,-12,-19,-19,-23,-19,-37,-15,
+-27,-22,-24,-18,-18,4,-2,5,4,16,0,0,0,10,19,10,10,14,26,21,0,-2,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 (
+{In recent elite practice,} 6... c5 {has dominated rather, and indeed I have
+analysed the line in some depth on these pages.}) 7. c5 {The main move.} (7.
+Be2 {Notwithstanding that this 'loses a tempo' in the standard sense of the
+Queen's Gambit, it's quite popular.} dxc4 8. O-O a6 9. a4 b6 10. Bxc4 (10. Nd2
+$5) 10... Bb7 11. Qe2 Nh5 12. Rad1 Nxf4 13. exf4 Nf6 14. Rfe1 Bb4 15. Ne5 Nd5
+16. Qd2 Rc8 17. Nd3 Bd6 18. Ne4 Nf6 $15 {Black had extracted some small
+concessions in Harikrishna,P-Caruana,F Saint Louis 2019}) (7. Qc2 c5 8. Rd1
+cxd4 9. Rxd4 Qa5 10. Bg3 Nb6 11. Nd2 dxc4 12. Bxc4 Nxc4 13. Nxc4 Qa6 $11 {
+Mamedyarov,S-Giri,A Shamkir 2018}) (7. g4 {I'm not sure whether elite
+imitation levels are quite high enough to encompass this kind of irony, but
+here is one of the numerous positions where g4 is a reasonable idea in the
+Queen's Gambit. As in Ding-Anand, the best reply is probably based on ....Ne4
+at some moment.} c5 (7... Bb4 8. a3 Bxc3+ 9. bxc3 dxc4 10. Bxc4 b6 11. h4 Bb7
+12. h5 $13) 8. g5 Nh5 9. Be5 dxc4 10. dxc5 Bxc5 11. Bd6 $132) 7... Nh5 ({
+I'm far more a fan of an ambitious move, which tries to hunt down the
+f4-bishop with ...f5 and ...g5 instead.} 7... Ne4 8. Rc1 Nxc3 (8... g5 9. Bg3
+f5 10. Nxe4 fxe4 11. Ne5 Nxe5 12. Bxe5 Bf6 $11) 9. Rxc3 b6 10. c6 Nf6 11. a3
+Ne4 12. Rc2 a5 13. Bd3 f6 14. Qe2 g5 $5 $13 {Nakamura,H-Carlsen,M chess.com
+INT 2018}) 8. Bd3 Nxf4 9. exf4 b6 10. b4 a5 11. a3 c6 12. O-O Qc7 13. g3 Ba6 {
+This position is alright for Black, but rather uninspiring.} 14. Kg2 (14. Bxa6
+Rxa6 15. Qe2 {was a relatively obvious tactical possibility; the idea is f5.}
+Raa8 {Black needs the rooks to connect round the back.} (15... Rfa8 $2 16. b5
+cxb5 17. Nxd5 exd5 18. Qxe7 $14) (15... Ra7 16. f5 e5 (16... bxc5 17. fxe6 fxe6
+18. Qxe6+ Kh8 19. Qxe7 Rxf3 20. Qe2 $1 Rf8 21. bxc5 $16) 17. dxe5) 16. f5 $5
+bxc5 17. fxe6 (17. bxc5 e5 18. Nxe5 Nxe5 19. Qxe5 Qxe5 20. dxe5 Bxc5 21. Ne2
+Rfe8 22. Rfc1 Rxe5 23. Rxc5 Rxe2 24. Rxc6 $11) 17... fxe6 18. Qxe6+ Kh8 19.
+Qxe7 Rae8 20. Qxe8 $5 Rxe8 21. bxc5 $44 {Normally, this wouldn't be considered
+a good deal for White, but here the Black queen is particularly lacking in
+entry points.}) 14... Bxd3 15. Qxd3 Ra7 16. Rfc1 Rfa8 17. Qd1 (17. cxb6 Qxb6
+18. b5 a4 19. bxc6 Qxc6 20. f5 {might have led to some advantage}) 17... b5 {
+There's not a whole lot Black can do, and this is a (very) natural move, but
+something like ...g6 might have been better, as now White regroups in a very
+logical way.} 18. Rab1 {Threatening a4, so Black needs to react.} axb4 19. axb4
+Ra3 20. Rb3 R3a7 21. Qe2 Bf6 22. h4 h5 23. Rc2 g6 24. Ra2 Rxa2 25. Nxa2 Qa7 26.
+Rb2 Qa3 27. Qd2 Qa6 28. Nc1 Qb7 29. Nd3 {This focuses in on e5, but cedes the
+a-file for the time being.} ({Something like} 29. Ne5 $5 {also came into
+consideration, trying to clear the d4-square for a knight. The question then
+is really whether Black has some kind of fortress after} Nxe5 30. dxe5 Bd8 31.
+Ra2 $14 {: it looks plausible, but it seems to me more likely that in the very
+long run, White can probably break with g4.}) 29... Ra7 30. Nde5 Qa8 31. Qe3
+Kg7 32. Rb3 Kg8 33. Ng5 (33. Nxd7 Rxd7 34. Ra3 Ra7 35. Rxa7 Qxa7 36. f5 $5 {
+keeps some intrigue in the position.} gxf5 $8 37. Qh6 Qe7 38. Kh3 Qd8 39. Qxh5
+Qf8 40. g4 {and the game somehow continues.}) 33... Nxe5 34. fxe5 Bxg5 35. Qxg5
+Ra3 $1 $11 {Black only needs to see that in the worst case where White plays 
+(at some moment) Qxc6, it will be possible to give a psuedo-perpetual with ...
+Qe4+ and ...Qc2.} 36. Rxa3 Qxa3 37. Qd8+ Kg7 38. Qf6+ Kg8 39. Qd8+ Kg7 40. Qf6+
+Kg8 1/2-1/2
+

@@ -1,0 +1,46 @@
+[Event "US-ch Open 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.28"]
+[Round "8.2"]
+[White "Caruana, Fabiano"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[WhiteElo "2828"]
+[BlackElo "2762"]
+[Annotator "AlexYermo"]
+[PlyCount "70"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 c5 6. O-O Nc6 7. Ne5 {
+Unsatisfied with the standard 7.Qa4, Caruana tries a rare line which involves a
+temporary pawn sacrifice.} Bd7 8. Nxc4 ({There's a sister line:} 8. Na3 cxd4 9.
+Naxc4 Be7 ({or} 9... Bc5 10. Qb3 O-O 11. Bf4 Rc8) 10. Qb3 Qc7 11. Nxc6 Bxc6 12.
+Bf4 Qd8 {All that has been tried in practice.}) 8... cxd4 9. Bf4 {[#] The
+point of White's play is to get access to the d6-square.} Nd5 ({More
+enterprising is} 9... Be7 10. Nd6+ Kf8 11. Nxb7 Qb6 12. Nd6 Qc5 13. b4 Qxb4 14.
+a3 Qc5 15. Qb3 {and now a new move,} Qh5 $5 {Arnaudov-Fridman, 2019.}) 10. Nd6+
+Bxd6 11. Bxd6 Nde7 12. Nd2 O-O 13. Qb3 b6 14. Nc4 Rc8 15. Qa3 $6 {It's
+possible Fabiano mixed his lines.} (15. Ba3 Rb8 16. Nd6 e5 17. Qb5 {could be
+an improvement.}) 15... b5 $1 {[#] A great way to liberate Black's game.} 16.
+Nd2 ({In case of} 16. Ne5 Re8 17. Rfd1 f6 18. Nxd7 Qxd7 {Black may keep his
+extra pawn, although White always has compensation.}) 16... b4 17. Qa6 $5 ({
+Caruana wanted no part of} 17. Bxb4 Nxb4 18. Qxb4 Bc6 $11) 17... e5 18. Rac1
+Be6 19. Bxe7 Nxe7 20. Qxa7 {[#]} Nd5 21. Rc5 Qb6 22. Qxb6 Nxb6 23. Rb5 ({
+Again Caruana rejects the obvious line} 23. Rxe5 Rc2 24. Nb3 Rxb2 25. Nxd4 Bxa2
+$11) 23... Rc2 24. Nf3 ({And for the third time!} 24. Rxb6 Rxd2 25. Rxb4 Bxa2
+26. f4 exf4 27. Rxf4 $11) 24... Nd7 25. Rxb4 Bxa2 26. Re1 Be6 27. h3 f6 $15 {
+[#] It's clear that White's stubborn attempts to keep the game going have
+earned him a worse position.} 28. e3 d3 $1 {It's time for Wesley So to show
+his own ambition.} 29. Rd1 (29. Bf1 e4 30. Rxe4 (30. Nd4 Rc4) 30... Bd5 31.
+Bxd3 Bxe4 32. Bxe4 Rxb2 {Perhaps White will hold a draw, but Black certainly
+has chances.}) 29... Rb8 {Too bad So's fighting spirit couldn't last one more
+move.} (29... Rfc8 {was tactically sound:} 30. Rxd3 e4 31. Rxe4 Nc5 32. Rdd4
+Nxe4 33. Rxe4 {and now Black can get to work up the exchange, particularly if
+he finds} Ba2 $1 34. Rb4 $2 Rc1+ 35. Kh2 R8c2) 30. Rxb8+ Nxb8 31. Ne1 Rxb2 32.
+Nxd3 Rb5 33. Nc5 Rxc5 34. Rd8+ Kf7 35. Rxb8 Rc1+ 1/2-1/2

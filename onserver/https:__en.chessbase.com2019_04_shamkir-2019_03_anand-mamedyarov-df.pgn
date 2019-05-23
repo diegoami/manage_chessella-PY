@@ -1,0 +1,83 @@
+[Event "Shamkir Chess"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "3"]
+[White "Anand, V.."]
+[Black "Mamedyarov, S.."]
+[Result "1-0"]
+[ECO "C54"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "125"]
+[EventDate "2019.04.03"]
+
+{[%evp 0,125,19,38,25,7,30,8,7,0,4,13,6,11,9,31,34,0,38,33,35,28,47,30,37,18,
+24,29,30,24,30,12,28,35,23,13,1,21,0,0,7,21,52,17,26,-18,2,-41,-29,-27,-11,-20,
+-22,-61,-45,-73,-45,-42,-42,-86,-53,-110,-90,-55,-37,-118,-104,-88,-30,-61,20,
+-38,-52,-52,-53,-63,-63,-44,-44,-38,9,-4,83,102,84,112,118,120,108,118,118,118,
+110,136,136,128,117,109,125,111,121,88,116,67,61,69,86,87,83,87,86,93,115,113,
+91,95,113,160,169,169,140,55,249,292,322,306,408,428]} 1. e4 e5 2. Nf3 Nc6 3.
+Bc4 Bc5 {It is worth elaborating at least once on the differences between this
+move and ...Nf6. The text allows the sideline with c3 and d4, as well as 
+(incidentally) the Evans Gambit. It also commits to playing ...d6 rather than .
+..d5, at least initially. However, it does not allow Ng5- which is still, well
+into the 21st century, a genuine try for an advantage.} 4. O-O Nf6 5. d3 (5. d4
+$6 Bxd4 6. Nxd4 Nxd4 7. f4 d6 8. fxe5 dxe5 9. Bg5 {was one of the old gambit
+lines, but it was defanged a while ago.}) 5... d6 6. c3 a6 7. a4 Ba7 8. Na3 Ne7
+{This move isn't geared so much towards a kingside attack- those tend to need .
+..g5 in the mix to be successful- but rather towards the simple ...c6, ...f5
+plan.} (8... h6 {is more common, with the idea being that after} 9. Nc2 O-O {
+Black is prepared to play ...Be6 next, and White lacks an obvious continuation
+that isn't} 10. Be3 Bxe3 11. Nxe3 Be6 12. Bxe6 fxe6 $11 {Adams,M-Eljanov,P
+Shamkir 2017}) 9. Nc2 Ng6 10. Be3 Bxe3 11. Nxe3 O-O 12. Qc2 {This allows Black
+to get ...d5 without fuss. The position being basically equal, there wasn't a
+whole lot that could be done, but one interesting option is suggested.} ({
+The unstereotyped} 12. Nd2 $5 {merited attention, to try and leave Black with
+an isolated d-pawn in the event of ...d5.} c6 (12... Bd7 13. a5 Nf4 14. Re1 Qe7
+15. d4 $132) 13. d4 exd4 (13... d5 $6 14. exd5 Nxd5 (14... cxd5 15. dxe5 Nxe5
+16. Be2 $14) 15. Bxd5 cxd5 16. dxe5 Nxe5 17. Nf3 $14) 14. cxd4 d5 $1 (14... Qb6
+15. Nc2 Re8 16. a5 Qd8 17. Re1 d5 18. exd5 Rxe1+ 19. Qxe1 Nxd5 20. Bxd5 cxd5
+21. Nb3 $14 {and White is getting a nibble}) 15. exd5 cxd5 16. Bb3 Ne7 $1 {
+The knight returns. There was little prospect of a kingside attack and the
+c-file needs guarding.} 17. Nf3 Nc6 $11 {Black seems fine, if only because of
+the b4-square.}) 12... c6 13. a5 (13. d4 exd4 14. cxd4 {is still technically
+possible but White's pieces are quite vulnerable to tactics after} Re8 15. Ng5
+(15. Nd2 Qb6 $15) 15... d5 16. exd5 cxd5 $36) 13... d5 14. Bb3 Be6 (14... Qd6 {
+was more comfortable, but hindsight is a wonderful thing. Black could think
+about ...Ng4 soon.}) 15. exd5 cxd5 (15... Nxd5 {tends to lead to better static
+outcomes in the centre for Black, e.g.} 16. d4 exd4 17. Nxd5 Bxd5 18. Bxd5 Qxd5
+19. Rfd1 c5 20. cxd4 c4 $132) 16. d4 e4 17. Ne5 Qd6 18. f4 (18. Nxg6 hxg6 19.
+Ra4 $11 {is interesting}) 18... exf3 19. Nxf3 Rae8 20. Rfe1 {The position has
+stabilised. Black has reasonable chances, but he has to act quite quickly, or
+else the static disadvantages of his position (the b7- and d5-pawns) will tell
+sooner or later.} Bd7 $1 (20... Ne4 {with the intention of ...f5 is another
+way to go; White should probably then break with} 21. c4 dxc4 22. Nxc4 Bxc4 23.
+Bxc4 Qc6 {with a level position}) 21. g3 h6 22. Qg2 $5 {The point of this
+ambitious regrouping is to attack the d5-pawn as many times as possible.} (22.
+Qd3 {followed by c4 was safe equality}) 22... Re7 $1 {Black continues to react
+well.} (22... b5 $5 {was a slightly odd option that probably didn't occur to
+either player: after} 23. axb6 Qxb6 24. Nd2 Bc6 {Black obtains counterplay
+with ...Re6, ...Rb8 and probably ...a5-a4.}) 23. Nc2 Rfe8 24. Nb4 Bb5 25. Rxe7
+Rxe7 26. Bd1 $6 {At this moment White seems to suddenly realise he probably
+stands worse, and abandons ship. Thus, seemingly without making huge errors he
+ends up in a lost position.} (26. Re1 Rxe1+ 27. Nxe1 Ne7 $15 {was consistent,
+when despite White's significant pressure on d5 and much 'better' bishop, it
+is his position which is at greater risk of crumbling as a result of some
+simple move like ...Qd8.}) 26... h5 27. Qh3 Bd7 28. Qg2 Bb5 29. Qh3 h4 30. Bc2
+hxg3 (30... Re3 $1 $19) 31. Qxg3 Nf4 32. Kh1 Re3 33. Rg1 g6 34. Qf2 Re2 35. Qh4
+Ne4 $2 {Now Black is no longer winning, and because of the pawn-structure, he
+also needs to worry about being worse.} (35... N6h5 $19 {was called for, when
+White is practically in zugzwang.}) 36. Bxe4 dxe4 37. Ne5 Nd3 38. Qh8+ {
+After Petrosian.} Kxh8 39. Nxf7+ Kh7 40. Nxd6 Bd7 $2 {An unfortunate move-40
+puts Black into the red zone: this bishop can now be forked.} (40... Nxb4 41.
+Nxb5 Nc6 42. d5 Nxa5 43. Nd6 Kg7 $11) 41. Nxe4 Bf5 $2 {Now White exchanges
+knights and is completely winning.} (41... Nxb4 42. Nf6+ Kg7 43. Nxd7 Nd3 44.
+b4 {and it transpires that the various tricks relating to White's poor king
+safety are enough only to recover one of the two pawns.}) 42. Ng5+ Kh6 43. Nxd3
+Bxd3 44. Rg3 Re1+ 45. Kg2 Re2+ 46. Kg1 Re1+ 47. Kf2 Re2+ 48. Kf3 Rxb2 49. Kf4
+Bf5 50. Ke5 (50. h3 {is also fine, making Black work a bit harder for material
+equality.}) 50... Rxh2 51. Nf7+ (51. Kf6 $5) 51... Kg7 52. Nd6 Re2+ 53. Kd5 Kf6
+54. c4 Re7 55. Rf3 Rd7 56. c5 {White intends to simply swap minor pieces at
+some stage and win with the d-pawn.} Re7 57. Rf2 Rh7 58. Nxf5 gxf5 59. Kd6 Rh8
+60. Rd2 f4 61. Kc7 Rh7+ 62. Kc8 f3 63. d5 {A hard-fought game and one with
+which Mamedyarov will be deservedly very disappointed.} 1-0
+

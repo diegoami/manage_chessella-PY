@@ -1,0 +1,62 @@
+[Event "IOM chesscom Masters 2018"]
+[Site "Douglas"]
+[Date "2018.10.24"]
+[Round "5"]
+[White "Karjakin, Sergey"]
+[Black "Sevian, Samuel"]
+[Result "*"]
+[ECO "C88"]
+[WhiteElo "2760"]
+[BlackElo "2634"]
+[Annotator "Karsten Mueller"]
+[SetUp "1"]
+[FEN "8/5k2/8/2NK4/6p1/6N1/8/8 w - - 0 81"]
+[PlyCount "20"]
+[EventDate "2018.??.??"]
+[SourceTitle "1009"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+{[%evp 0,180,27,25,25,25,25,25,30,7,2,5,17,12,13,15,1,14,14,14,0,9,15,15,20,20,
+11,0,18,18,16,2,16,25,39,47,26,22,27,24,23,41,25,43,26,32,32,30,37,21,21,25,25,
+25,32,32,38,37,60,60,61,70,124,110,189,73,79,64,82,90,137,135,117,117,126,97,
+93,93,106,106,106,111,109,107,107,103,143,143,143,144,161,160,138,167,152,134,
+141,106,98,116,182,173,210,192,167,167,167,159,148,146,129,178,136,55,54,55,56,
+56,55,56,55,55,56,54,56,54,54,56,56,54,55,55,55,55,56,55,55,56,56,56,56,56,56,
+56,56,56,56,53,53,55,56,55,56,55,55,56,56,55,56,56,56,55,56,56,56,55,56,56,56,
+56,56,56,56,56,56,56,56,55,55,55,55,55,55]} 81. Kd6 {It is strange but two
+knights can force no mate. However, things are different when the defending
+side still has a pawn. If White manages to block the enemy pawn when the pawn
+is standing on the squares a4-b6-c5-d4-e4-f5-g6-h4 or further back (the
+so-called Troitzky-line) White always wins - however, in some cases by
+ignoring the 50-move-rule. But if the pawn passed the Troitzky-line - as in our
+example - things are less clear. But Black loses if his king happens to be on
+the wrong squares. These losing zones are close to the corner of the board, in
+this case h8 and a1.} {[%tqu "En","Black to play and draw","","","f7f6",
+"Karjakins Kampfgeist wird belohnt. Nun kann der schwarze König aus der
+Verlustzone rings um die Ecke h8 nicht mehr entkommen.",0,"f7e8","",3,"f7f8",
+"",0,"De","Schwarz zieht und hält remis","","","f7f6","Karjakins Kampfgeist
+wird belohnt. Nun kann der schwarze König aus der Verlustzone rings um die
+Ecke h8 nicht mehr entkommen.",0,"f7e8","",3,"f7f8","",0]} Ke8 $1 {The king
+has to move away from the losing zone as far as possible.} ({In the game
+Sevian played} 81... Kf6 $2 {[%csl Ga4,Gb6,Gc5,Gd4,Ge4,Gf5,Gg6,Gh4] and
+Karjakin's tenacity was rewarded - the black king is stuck in the losing zone.}
+82. Nce4+ {[%csl Gf5,Yf6,Yf7,Yf8,Gg5,Yg6,Yg7,Yg8,Gh5,Yh6,Yh7,Yh8] White takes
+care to keep the black king in the losing zone.} Kf7 83. Kd7 Kf8 84. Nd6 Kg7
+85. Ke6 Kg6 (85... Kf8 86. Kf6 Kg8 87. Ne8 Kf8 88. Ng7 Kg8 89. Ne6 $18 {
+[%csl Gf7,Gf8,Gg5,Gg6,Gg7,Gh5]}) 86. Nde4 {The knight that does not block the
+pawn helps to weave a mating net.} Kg7 87. Ke7 Kg8 (87... Kg6 88. Kf8 Kh7 89.
+Kf7 Kh6 90. Kf6 Kh7 91. Nf5 g3 92. Kf7 g2 93. Ng5+ Kh8 94. Ne7 g1=Q 95. Ng6#)
+88. Kf6 Kh7 (88... Kf8 89. Nd6 Kg8 90. Ne8 Kf8 91. Ng7 Kg8 92. Ne6 Kh7 93. Nf5
+g3 94. Kf7 g2 95. Ng5+ Kh8 96. Ne7 g1=Q 97. Ng6#) 89. Nf5 {Now the blockading
+knight joins the mating attack.} Kg8 (89... g3 90. Kf7 g2 91. Ng5+ Kh8 92. Ne7
+g1=Q 93. Ng6#) 90. Ke7 g3 91. Nf6+ Kh8 92. Kf8 {1-0 and Black resigned.} (92.
+Kf8 g2 93. Nd6 g1=Q 94. Nf7#)) (81... Kf8 $2 82. Kd7 Kf7 83. Nce4 $18 {
+transposes to the game.}) 82. Ke6 (82. Ne6 Kf7 83. Nc7 Kf6 84. Nd5+ Kf7 85. Kd7
+Kg6 $1 86. Ke6 Kg5 $1 87. Ke5 (87. Kf7 Kh4 $1 $11) 87... Kh4 88. Kf4 Kh3 $11) (
+82. Kc7 Ke7 83. Nce4 Ke6 84. Kc6 Ke5 85. Kc5 Kf4 $11) 82... Kd8 $1 83. Kd6 Kc8
+84. Kc6 Kb8 85. Nd7+ Ka7 ({The a8-corner is safe:} 85... Ka8 86. Kc7 Ka7 87.
+Nc5 Ka8 $11) 86. Ne5 Ka6 87. Nd3 Ka5 88. Kc5 Ka4 89. Kc4 Ka3 90. Kc3 Ka4 $11 ({
+After} 90... Ka2 $2 91. Kb4 {[%csl Ya1,Ya2,Yb1] Black is stuck again in the
+losing zone:} Ka1 92. Kb3 Kb1 93. Ne2 g3 94. Nc3+ Ka1 95. Nb4 g2 96. Nc2#) *
+

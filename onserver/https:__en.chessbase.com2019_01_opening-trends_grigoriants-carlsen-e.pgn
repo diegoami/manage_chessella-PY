@@ -1,0 +1,35 @@
+[Event "FIDE World Blitz-ch Open 2018"]
+[Site "St. Petersburg"]
+[Date "2018.12.29"]
+[Round "2.1"]
+[White "Grigoriants, Sergey"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2540"]
+[BlackElo "2835"]
+[Annotator "Thorsten Cmiel"]
+[SetUp "1"]
+[FEN "8/1P4q1/8/8/4Q1K1/8/8/6k1 w - - 0 66"]
+[PlyCount "7"]
+[EventDate "2018.12.19"]
+[EventType "swiss"]
+[EventCountry "RUS"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[#] In the second round of the Blitz World Championship Carlsen was clearly
+losing. However, in this position both players were playing only on increment 
+(3 seconds per move). The World Champion managed to save himself in a
+remarkable way.} 66. Kh3 Qh6+ 67. Qh4 $4 (67. Kg3 {and according to the
+computer White mates in 32 moves.}) 67... Qe3+ $1 68. Qg3+ Kh1 $3 {Played by
+Magnus without missing a beat. Grigoriants seemed to be paralysed and finally
+took the queen and stalemated Black. Converting the b-pawn into a queen might
+have cost too much time. The position after queening is also drawn: Black has
+a typical perpetual.} (68... Kf1 $4 {loses because White's king can escape.}
+69. b8=Q Qh6+ 70. Qh4 Qe3+ 71. Qbg3 Qe6+ 72. Kh2 $18) 69. Qxe3 (69. b8=Q Qe6+
+$1 70. Qg4 Qe3+ 71. Qbg3 Qh6+ 72. Q4h4 Qe6+ 73. Qgg4 Qe3+ 74. Qhg3 Qh6+ $11)
+1/2-1/2
+

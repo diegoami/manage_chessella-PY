@@ -1,0 +1,35 @@
+[Event "Paris-ch 91st"]
+[Site "Paris"]
+[Date "2016.07.14"]
+[Round "6"]
+[White "Louis, Thibault"]
+[Black "Mohammad, Fahim"]
+[Result "0-1"]
+[ECO "B27"]
+[WhiteElo "2307"]
+[BlackElo "2244"]
+[Annotator "Tactical Analysis 2.10 (5s)"]
+[PlyCount "44"]
+[EventDate "2016.??.??"]
+
+{[%evp 11,44,23,60,26,47,1,35,-8,51,-8,43,-19,55,19,34,21,59,0,17,-88,-33,-97,
+-55,-329,-320,-271,-47,-152,-192,-678,-677,-29992,-29993,-29993,-29994]} 1. e4
+c5 2. Nf3 g6 3. c3 Bg7 4. d4 cxd4 5. cxd4 d5 6. e5 Nc6 7. Bb5 {B27: Sicilian:
+2 Nf3, unusual Black 2nd moves} Nh6 (7... Bd7 8. Nc3 a6 9. Bxc6 Bxc6 10. O-O e6
+11. Bg5 Qd7 12. Qd2 h6 13. Bh4 g5 14. Bg3 Ne7 {1-0 (53) Nepomniachtchi,I (2705)
+-Zvjaginsev,V (2660) Moscow 2015}) 8. Bxc6+ (8. h3 $14 {deserves consideration.
+}) 8... bxc6 $11 9. O-O {White is slightly better.} O-O 10. h3 (10. Bf4 $14)
+10... f6 $1 11. exf6 (11. Re1 $14) 11... Rxf6 ({Black should try} 11... exf6
+$11 12. Re1 Re8) 12. Re1 $146 ({Predecessor:} 12. Bg5 Rf7 13. Qc1 Nf5 14. Qxc6
+Rb8 15. Nc3 Rxb2 16. Rab1 Rxb1 17. Rxb1 Nxd4 18. Nxd4 Bxd4 19. Nxd5 Bxf2+ 20.
+Kh1 Qd7 {0-1 (20) Bonilla Torrero,F-Zamora,R ICCF email 2015}) 12... Nf7 13.
+Nc3 Bf5 14. b3 (14. Na4 $14) 14... Qd7 15. Bd2 {[#]} (15. Be3 $11 {keeps the
+balance.}) 15... Rf8 (15... Bxh3 $1 $17 {[%mdl 512]} 16. Ne5 (16. gxh3 Qxh3)
+16... Nxe5 17. dxe5 Rf7) 16. Rc1 {[#]} ({Better is} 16. Nh2 $15) 16... Bxh3 $1
+$17 {[%mdl 512]} 17. gxh3 $2 {[%mdl 8192]} (17. Nh2 $15) 17... Qxh3 $19 18. Re3
+Nh6 $2 (18... Qg4+ $19 19. Kh1 {[#]} Ne5 $1 {[%mdl 512]}) 19. Nh2 (19. Ng5 $15
+Qh4 {[%mdl 64] Double Attack} 20. Rh3 Qxf2+ 21. Kh1) 19... Qh4 $40 {[%mdl 192]
+Double Attack. Black is out for blood.} 20. Be1 $2 (20. f3) 20... Rxf2 $19 {
+[%csl Gf2][%cal Rh4h2]} 21. Rh3 Qg5+ 22. Ng4 Rf1+ {Accuracy: White = 16%,
+Black = 54%.} 0-1
+

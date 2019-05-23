@@ -1,0 +1,53 @@
+[Event "Shamkir Chess"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "6"]
+[White "Ding, L."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[Annotator "DF"]
+[PlyCount "78"]
+[EventDate "2019.04.07"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Nf3 Bg7 7. Ne5 O-O {
+Black breaks the symmetry earlier than Grischuk did, only to restore it again.
+In this game, we are reminded that liquidation to a draw is by no means the
+only way that symmetrical positions can go.} (7... Ne4 8. Nc3 Nxc3 9. bxc3 O-O
+10. O-O Nc6 11. Nxc6 bxc6 12. Qa4 {Reaching the position alluded to in a
+couple of moves time.} Qb6 13. e4 (13. Ba3 $5 Qa6 14. Qxa6 Bxa6 15. Rfb1 (15.
+Rfe1 $5) 15... Bxe2 $1 (15... Bf6 16. Bf1 Rfb8 17. Bc5 Bc4 18. e3 Bxf1 19. Kxf1
+a5 20. Ke2 $14) 16. Bxe7 Rfe8 17. Rb7 Ba6 $1 $11) 13... Qa6 14. Qb4 dxe4 15.
+Bxe4 e5 16. dxe5 Bxe5 17. Be3 Be6 18. Qc5 Bg7 19. Rfd1 Rad8 20. Rxd8 Rxd8 $11 {
+Karjakin,S-Grischuk,A Shamkir Chess 2019}) 8. Nc3 Bf5 9. O-O Ne4 {Perfect.} 10.
+Bf4 (10. g4 $5 {Bizarrely, I've looked at this position before, and noticed a
+way to belatedly discover some latent ambition within oneself as White.} Nxc3
+11. bxc3 Be6 12. f4 $5 f6 13. Nd3 Bxg4 14. f5 Bxf5 15. Rxf5 gxf5 16. Nf4 $44 {
+Thus far as in the old game Delchev,A-Stevic,H Pula 2000}) 10... Nxc3 11. bxc3
+Nc6 12. Nxc6 bxc6 {Some days ago the same position (without the development of
+either queen's bishop) was reached, as above. This version seems, if anything,
+less ambitious because Black doesn't even have to defend c6.} 13. Qa4 e6 14.
+Qxc6 ({White can't mirror back with} 14. e3 {because his bishop gets trapped
+on f4!} g5 $1 {There are some advantages to having your queen at home...}) ({
+After} 14. f3 {one assumes that Black would play} g5 {before White got e4 in.
+The position has the potential to still become quite interesting, for instance}
+15. Bd2 Bg6 16. e4 c5 $5 $13) 14... Rc8 15. Qa4 Rxc3 16. Rfc1 Rxc1+ {Half an
+innacuracy.} (16... Qc8 $1 {A better way to trade rooks, probably.} 17. Qxa7
+Qc4 $11 {and White won't keep the extra pawn for long at all.}) 17. Rxc1 Qb6
+18. e3 Qb2 19. Qd1 h5 {The other half of an innacuracy.} ({Maybe it was better
+to install this bishop on c4 first, and if White wanted to exchange it then
+the a-pawns would also come off.} 19... Bd3) 20. a4 Bg4 21. Qe1 Be2 22. Bf1
+Bxf1 23. Kxf1 $14 {Now it seems that White has something, though it could very
+easily fizzle out at any moment- as indeed it did.} Re8 24. Qc3 Qxc3 25. Rxc3
+e5 $2 {This gives White a real chance.} ({After} 25... Bf8 $14 {Black's
+position is uninspiring but seemingly not breakable.}) 26. dxe5 Bxe5 27. Rd3 $2
+{Missing a golden chance.} (27. Bxe5 Rxe5 28. Rc5 $1 $16 {was called for, when
+the world champion would have had to defend a bad rook ending a pawn down.
+There is simply no way to deal with the threat of Ra5, and even if there were,
+White could also just bring his king to d3 and hint at playing f4. As it's not
+a garden-variety '4v3', I'm not sure Black's holding chances are good at all.
+Probably White only considered 28.Rc7, after which Black has ...d4 to 
+(probably) hold.}) 27... Bxf4 28. gxf4 (28. exf4 {is slightly more problematic
+as ...d4 comes without 'tempo'.} Rd8 29. Rb3 Rd7 30. Rb5 Kf8 31. Ra5 Ke7 32.
+Ra6 $14) 28... Rd8 29. a5 Kf8 30. Ke2 Ke7 {Black has solved his problems.} 31.
+Rb3 Kd6 32. Kd3 Rd7 33. h4 Rc7 34. Rb8 Rc5 35. Rb7 Rxa5 36. Rxf7 Ra3+ 37. Kd4
+Ra4+ 38. Kd3 Ra3+ 39. Kd4 Ra4+ 1/2-1/2

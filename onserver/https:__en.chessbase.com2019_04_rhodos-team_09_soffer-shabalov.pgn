@@ -1,0 +1,79 @@
+[Event "Rhodes"]
+[Site "?"]
+[Date "2019.04.22"]
+[Round "7"]
+[White "Soffer, Ram"]
+[Black "Shabalov, Alexander"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[Annotator "Shabalov,Alexander"]
+[PlyCount "110"]
+[SourceVersionDate "2019.03.16"]
+
+{[%evp 0,110,28,28,65,75,74,69,69,34,62,45,91,58,99,79,79,75,65,14,2,12,28,17,
+55,16,34,46,50,31,16,3,49,47,49,37,43,-5,21,21,12,16,11,-51,-22,-37,-37,-37,
+-37,-37,3,-41,-10,-10,-10,-10,-10,-10,-10,0,-26,-81,-79,-84,-77,-85,-73,-88,
+-81,-95,-70,-79,-79,-88,-70,-88,-90,-92,-102,-120,-100,-100,-72,-67,-40,-114,
+-85,-83,-68,-68,-68,-185,-181,-150,-95,-116,-81,-126,0,-2,-2,-2,-2,-54,-54,-54,
+-54,-57,9,9,9,9,14]} 1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 Qc8
+7. Be2 (7. Bh3 e6 8. Nce2 c5 9. c3 Nc6 10. Nf3 Qc7 11. a3 f6 12. Nf4 Nge7 13.
+exf6 gxf6 14. Nh5 Ng8 15. b4 c4 16. Ra2 O-O-O 17. Re2 Bd6 18. O-O Kb8 19. Rfe1
+Bc8 20. b5 Na5 21. a4 Nb3 22. Qc2 Nxc1 23. Qxc1 Rh7 24. Qc2 Re7 25. Qg6 e5 26.
+Nd2 Rf8 27. Nf1 Be6 28. Ne3 e4 29. Nf5 Rd7 30. Nfg7 Bf7 31. Qf5 Re7 32. f3 Qa5
+33. fxe4 Qxc3 34. Bg2 Qxd4+ 35. Kh1 Re5 36. Qf3 Bxh5 37. Nxh5 Rfe8 38. Ng3 Qc5
+39. exd5 Rxe2 40. Rxe2 Rxe2 41. Nxe2 Qb4 42. Qe4 Qe1+ 43. Ng1 Qxh4+ 44. Nh3 Ne7
+45. Qxc4 Qg3 46. Kg1 Ng6 47. Kf1 Ne5 48. Qe2 Nxg4 49. Qe8+ Kc7 50. b6+ Kxb6 51.
+a5+ Kxa5 {0-1 (51) Morozevich,A (2683)-Rozum,I (2559) Kazan 2016}) (7. f3 h5)
+7... e6 8. Be3 c5 9. dxc5 (9. f4 cxd4 10. Qxd4 Nc6 11. Qd2 Bb4 12. a3 Bxc3 13.
+Qxc3 d4 14. Bxd4 Nxd4 15. Qxd4 Qxc2 16. Rh3 Ne7 17. Rc3 Qa4 18. Rc4 Qa5+ 19. b4
+Qb6 20. Rd1 Nd5 21. Bf3 O-O 22. Rc5 Bc6 23. g5 hxg5 24. hxg5 Rfd8 25. Bxd5 Bxd5
+26. Rc3 Bb3 27. Qxd8+ Rxd8 28. Rxd8+ Qxd8 29. Rxb3 Qd5 30. Rf3 Kf8 31. Kf2 Qd4+
+32. Kf1 Ke7 33. Ne2 Qe4 34. Rc3 Kd7 35. Ke1 b6 36. Kd2 Qg2 37. Rg3 Qh1 38. Rc3
+Qb7 39. Ke3 Qh1 40. Kd2 Qe4 41. Ke1 Qb7 42. Kd2 Ke7 43. Ke1 Kf8 44. Kf2 Kg8 45.
+Rh3 Qe4 46. Rc3 a6 47. Re3 Qh1 48. Rg3 Kh7 49. Rg1 Qe4 50. Rg3 Kg6 51. Rh3 Qc2
+52. Rc3 Qd2 53. Kf3 Qe1 54. Rc1 Qd2 55. Rc3 Qd1 56. Kf2 Qa1 57. Rf3 Kf5 58.
+Ng3+ Kg4 59. Ne2 Qh1 60. Rg3+ Kf5 61. g6 Qh2+ 62. Ke3 Qxg3+ 63. Nxg3+ Kxg6 64.
+Kf3 f6 65. Kg4 Kf7 66. Ne2 {1-0 (66) Henriquez Villagra,C (2517)-Dreev,A (2652)
+Doha 2016}) (9. Nf3 a6 10. a3 b6 11. h5 Ne7 12. Nh4 Nec6 13. Nf3 cxd4 14. Bxd4
+Qc7 15. Na4 Nxd4 16. Qxd4 Ra7 17. Nc3 Nc6 18. Qf4 f6 19. Bd3 Nxe5 20. Nxe5
+Qxe5+ 21. Qxe5 fxe5 22. Bg6+ Kd8 23. O-O-O Bc5 24. Rhf1 Rf8 25. f3 Rc7 26. Kb1
+b5 27. Ne2 b4 28. axb4 Bxb4 29. f4 e4 30. Nd4 Ke7 31. g5 Bc5 32. Nb3 Be3 33.
+gxh6 gxh6 34. f5 Bb5 35. Rh1 Be2 36. Rde1 Bf3 37. Rh2 Bf4 38. Rh3 Bg2 39. Rc3
+Rxc3 40. bxc3 Be5 41. fxe6 Bxc3 42. Re3 d4 43. Rg3 Bf3 44. Nc5 e3 45. Nd3 Kxe6
+46. Rg1 Bd5 47. Nc5+ Kd6 48. Nxa6 e2 {0-1 (48) Cigan,J (2100)-Dreev,A (2651)
+chess.com INT 2017}) 9... Bxc5 10. Qd2 Ne7 (10... h5 11. gxh5 Ne7 (11... Nh6
+12. Bxc5 Qxc5 13. O-O-O Nc6 14. Ne4 dxe4 15. Qxd7+ Kf8 16. Rh3 Qe7 17. Rb3 Nxe5
+18. Qxb7 Qxb7 19. Rxb7 Nf5 20. Rc7 Nxh4 21. Nh3 Nhf3 22. Nf4 Rh6 23. Ba6 Rf6
+24. Nh3 Rh6 25. Nf4 Ng5 26. Rc5 Nef3 27. Ra5 Rf6 28. Ne2 Nh3 29. Bb7 Rb8 30.
+Rxa7 Nxf2 31. Rd7 Rf5 32. b3 Rxh5 33. Ng3 Rh4 34. Nxe4 Nxe4 35. Bxe4 Ne5 36.
+Rdb7 Rd8 37. Bd3 g5 38. Ra5 Nxd3+ 39. cxd3 g4 40. Ra4 Rxd3 41. Rf4 f5 42. Rc4
+Rd8 43. Rcc7 Kg8 44. Rg7+ Kh8 45. Rbe7 f4 46. Rg5 f3 47. Rf7 Rg8 48. Rxg8+ Kxg8
+49. Rf4 e5 50. Rf5 Kg7 51. a4 Rh5 52. Rxh5 f2 53. Rf5 g3 54. Kd2 g2 55. Ke2
+g1=Q 56. Rxf2 Qb1 57. Rf3 Qc2+ 58. Ke3 Qxb3+ 59. Ke4 Qb7+ 60. Ke3 Qb4 61. Rf5
+Qd4+ {0-1 (61) Vasiesiu,V (2267)-Morozov,N (2461) Mamaia 2017}) 12. Nf3 Nf5 13.
+O-O-O) 11. h5 b6 {The first original move of the game} (11... a6 12. f4 b5 13.
+Nd1 Bxe3 14. Nxe3 Qc5 15. Nf3 Nbc6 16. O-O-O Qb4 17. Qxb4 Nxb4 18. a3 Nbc6 19.
+g5 O-O-O 20. c3 Kc7 21. gxh6 Rxh6 22. Ng5 Rf8 23. Ng4 Rhh8 24. Bd3 Ng8 25. Nh7
+Re8 26. Rdg1 Re7 27. h6 gxh6 28. Nxh6 Nxh6 29. Rxh6 Ree8 30. Rg7 Nd8 31. Rh3
+Rhg8 32. Rhg3 Rxg7 33. Rxg7 Bc6 34. Kd2 Re7 35. Ke3 Kc8 36. Ng5 Be8 37. Rg8 Bd7
+38. Be2 Re8 39. Rg7 Rf8 40. Nh7 Re8 41. Bh5 Re7 42. Kf3 a5 43. Kg4 b4 44. axb4
+axb4 45. Kg5 Be8 46. Rg8 bxc3 47. bxc3 Bb5 48. Kf6 Rd7 49. Ng5 d4 50. cxd4 Kc7
+51. Nxf7 Rxd4 52. Rxd8 Rxf4+ 53. Ke7 Rf5 54. Bg6 {1-0 (54) Perez Candelario,M 
+(2576)-Burmakin,V (2518) La Roda 2017}) (11... Bb4 12. f4 Nbc6 13. Nf3 Na5 14.
+O-O Nc4 15. Bxc4 Qxc4 16. Nd4 Rc8 17. Qf2 Bxc3 18. bxc3 f6 19. Rab1 Qa6 20. Bd2
+O-O 21. exf6 Rxf6 22. Qg2 Rcf8 23. Rfe1 Nc6 24. g5 hxg5 25. fxg5 Rf2 26. Qxf2
+Rxf2 27. Kxf2 Nxd4 28. cxd4 Qc4 29. c3 Qd3 30. Be3 Qf5+ 31. Ke2 Qc2+ 32. Kf3
+Qe4+ 33. Ke2 Qg2+ 34. Kd3 {0-1 (34) Vasiesiu,V (2267)-Svetushkin,D (2546)
+Corund 2017}) 12. f4 Bxe3 13. Qxe3 Qc5 14. Qd2 b5 15. a3 b4 (15... a6) 16. axb4
+Qxb4 17. b3 Nbc6 (17... O-O 18. Nf3) 18. Nb5 (18. Nf3 Rb8) 18... Qxd2+ 19. Kxd2
+O-O 20. Nf3 f6 21. Ke3 d4+ 22. Nfxd4 (22. Kd2 fxe5) 22... Nd5+ 23. Kd2 Nxf4 24.
+exf6 Nxe2 (24... Rad8) 25. fxg7 Nexd4 (25... Rfb8 26. Kxe2 a6 $17) 26. gxf8=Q+
+Kxf8 27. Nxd4 Nxd4 28. Ra5 Ke7 29. Rha1 Nc6 30. R5a4 a5 31. Ke3 Rg8 32. Rg1 Rg5
+33. c3 Be8 34. Raa1 Rc5 35. Rac1 Rb5 36. Rb1 Bf7 37. Kd2 Bg8 38. c4 Rg5 39. Ke3
+Bh7 40. Rb2 Re5+ 41. Kf2 Nd4 42. b4 axb4 43. Rxb4 Re2+ 44. Kf1 Be4 45. Rb3 Rc2
+{Starting from here black started to go the wrong on every move.} (45... Kf6 {
+was an easy win.}) 46. Re3 Bb7 (46... Nf3 {was too late} 47. Rxe4 Nd2+ 48. Ke2
+Nxe4+ 49. Kd3) 47. g5 Nf5 (47... Nf3 $2 48. gxh6) 48. Ra3 Rxc4 49. gxh6 Nxh6
+50. Rg7+ Nf7 51. h6 Kf6 52. Rh3 Rc1+ 53. Kf2 Rh1 54. Rxh1 Bxh1 55. Rg4 Nxh6
+1/2-1/2
+

@@ -1,0 +1,21 @@
+[Event "IV. Internationales Senator-Max-Gutmann"]
+[Site "Augsburg"]
+[Date "2013.12.31"]
+[Round "5.5"]
+[White "Arnaudov, G.Petar"]
+[Black "Moser, Eva"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2442"]
+[BlackElo "2436"]
+[Annotator ",Eva"]
+[SetUp "1"]
+[FEN "rr4k1/N1p1q1n1/Q1Pp1b2/P2Pp3/R3Pp1p/1N3Pp1/K5P1/6B1 w - - 0 38"]
+[PlyCount "32"]
+[EventDate "2013.12.27"]
+
+{[#]Diagramm} 38. Qb7 $5 Qf7 (38... Rxb7 $4 39. cxb7 Qf8 40. Nc6 $18) 39. a6 h3
+40. gxh3 Qh5 41. Nb5 Ne8 42. Nxc7 Nxc7 43. Qxc7 Qxf3 44. Bb6 Qg2+ 45. Ka3 Qxh3
+46. a7 Re8 47. Qb7 f3 48. Bc7 f2 49. Bb8 f1=Q 50. Qxa8 g2 51. Qb7 g1=Q 52. a8=Q
+{[#]Diagramm} Qc5+ 53. Qb4 (53. Ka2 Qhg2+) 53... Qa1# 0-1
+

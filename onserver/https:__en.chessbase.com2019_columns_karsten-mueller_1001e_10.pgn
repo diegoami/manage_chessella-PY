@@ -1,0 +1,38 @@
+[Event "41st Barbera Open 2018"]
+[Site "Barbera del Valles ESP"]
+[Date "2018.07.05"]
+[Round "2.42"]
+[White "Horton, Ju"]
+[Black "Kadam, Om Manish"]
+[Result "0-1"]
+[ECO "D58"]
+[WhiteElo "2066"]
+[BlackElo "1836"]
+[Annotator "Karsten Müller"]
+[SetUp "1"]
+[FEN "8/p7/8/1P2kP2/2K3P1/8/5b2/8 w - - 0 70"]
+[PlyCount "26"]
+[EventDate "2018.07.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[SourceTitle "1001"]
+[Source "Mark Crowther"]
+[SourceDate "2018.07.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.07.09"]
+[SourceQuality "1"]
+
+70. Kd3 $2 {Two connected passed pawns are strong but a good bishop is often
+stronger.} {[%tqu "En","Black to move and win","","","e5d5","",2,"De","Schwarz
+zieht und gewinnt","","","e5d5","",2]} Kd5 $1 {This bodycheck prevents an
+invasion of White's king.} ({But not} 70... Bh4 $2 71. Kc4 Kf4 72. b6 axb6 73.
+Kb5 Bf2 74. f6 Kxg4 75. f7 Bc5 76. f8=Q Bxf8 77. Kxb6 $11) 71. Ke2 ({After} 71.
+g5 Bh4 72. g6 Bf6 {the passed pawns are safely blocked, and after} 73. Ke3 Kc5
+74. Ke4 Kc4 $19 {White's king is also well under control.}) (71. f6 Ke6 72. g5
+Bh4 73. Kc4 Bxg5 74. b6 axb6 75. Kb5 Be3 $19) 71... Bh4 72. Kf3 Bg5 {[%cal
+Gd5e4,Gd5d4,Gd5c4,Gg5f4,Gg5h4] Giving White's king no entry.} 73. Kg2 Kc5 74.
+Kf3 Kxb5 75. Ke4 Kc5 76. Ke5 a5 77. f6 a4 (77... Bxf6+ {also wins:} 78. Kxf6 a4
+79. g5 a3 80. g6 a2 81. g7 a1=Q+ $19) 78. f7 Be7 79. g5 a3 80. Ke6 Bf8 81. g6
+a2 82. g7 Bxg7 0-1
+

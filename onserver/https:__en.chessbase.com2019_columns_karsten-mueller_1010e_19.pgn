@@ -1,0 +1,41 @@
+[Event "IOM chesscom Masters 2018"]
+[Site "Douglas"]
+[Date "2018.10.22"]
+[Round "3.53"]
+[White "House, Glenn L"]
+[Black "Kolosowski, Mateusz"]
+[Result "*"]
+[ECO "C00"]
+[WhiteElo "2180"]
+[BlackElo "2447"]
+[Annotator "Karsten Müller"]
+[SetUp "1"]
+[FEN "8/8/4PK2/3k1P2/8/6P1/8/4r3 w - - 0 76"]
+[PlyCount "10"]
+[EventDate "2018.??.??"]
+[SourceTitle "1010"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+76. g4 {Far advanced passed pawns can be really powerful and sometimes they
+are even more powerful than a rook.} {[%tqu "En","Black to play and draw","",
+"","d5d6","The king takes the wrong direction because Black now is helpless
+against the advance of the g-pawn.",0,"d5e4","",6,"e1e5","",0,"e1e2","",0]} Ke4
+{The king has to become active.} ({In the game Black played} 76... Kd6 $2 {
+But this is the wrong direction because Black now is helpless against the
+advance of the g-pawn.} 77. g5 Ra1 78. g6 Ra8 79. g7 Rb8 80. Kf7 Rb7+ 81. Kg6
+Rb8 82. Kh7 Rb7 83. Kh8 {1-0 and Black resigned.}) (76... Re5 $2 77. Kg7 (77.
+e7 $2 Kd6 78. g5 Rxe7 79. g6 Re1 80. g7 Rg1 81. Kf7 Ke5 82. f6 Kf5 $11) 77...
+Kd6 78. Kf7 Re1 79. g5 Re5 80. Kf6 Kd5 81. g6 Ke4 82. g7 Rxf5+ 83. Kg6 Ke5 84.
+g8=Q Rf6+ 85. Kg5 Rxe6 86. Qg7+ $18) (76... Re2 $2 77. g5 Re5 78. g6 Ke4 79. g7
+Rxf5+ 80. Kg6 $18) 77. Ke7 (77. e7 Kf4 78. Kf7 Kxg4 79. f6 Kf5 80. e8=Q Rxe8
+81. Kxe8 Kxf6 $11) ({After} 77. g5 Rf1 {White loses the f-pawn:} 78. e7 (78. g6
+Rxf5+ 79. Kg7 Re5 $11) 78... Rxf5+ 79. Kg6 Re5 80. Kf7 Rxe7+ 81. Kxe7 Kf5 $11)
+(77. Kg7 Kf4 78. f6 Rxe6 79. f7 Re7 $11) (77. Kf7 Kf4 78. e7 Kxg4 79. f6 Kf5
+$11) 77... Ke5 $1 (77... Kd5 $2 78. g5 Ke5 79. f6 Kf5 80. f7 Rxe6+ 81. Kd7 $18)
+78. Kf7 (78. f6 Kd5 (78... Ra1 79. Kf7 Ra6 80. g5 (80. Kg7 $2 Kxe6 $19) 80...
+Rxe6 81. Kg7 Ra6 (81... Kf5 $2 82. f7 Re7 83. g6 Kg5 84. Kg8 Kxg6 85. f8=Q $18)
+82. f7 Ra8 83. g6 Kf5 $11) 79. g5 (79. Kf7 Rxe6 80. g5 Ke5 $11) (79. f7 Rxe6+
+80. Kd7 Rd6+ 81. Ke7 Re6+ 82. Kf8 Rg6 $11) 79... Rxe6+ 80. Kd7 Rd6+ $11) 78...
+Kf4 79. f6 Kxg4 80. e7 Kf5 $11 {and the king has everything under control.} *
+

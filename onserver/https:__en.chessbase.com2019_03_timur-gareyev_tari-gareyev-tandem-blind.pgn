@@ -1,0 +1,19 @@
+[Event "?"]
+[Site "?"]
+[Date "2017.11.28"]
+[Round "?"]
+[White "Tari and Gareyev (blindfolded)"]
+[Black "Blitz opponent"]
+[Result "1-0"]
+[PlyCount "33"]
+
+{[%evp 9,32,33,84,47,91,-34,177,177,181,179,29993,29994,29995,29996,29996,
+29996,29996,29997,29997,29997,29997,29998,29998,29999,29999]} 1. e4 e6 2. d4 d5
+3. Nc3 a6 4. Bf4 dxe4 5. Nxe4 Bd7 $146 6. Nf3 $16 {C10: French with 3 Nc3:
+Unusual Black 3rd moves and 3...dxe4} Bc6 7. Neg5 ({Better is} 7. Bd3 $16) 7...
+h6 $2 {[#]} (7... Bd6 $15 {stays ahead.} 8. Bxd6 cxd6) 8. Nxf7 $1 $18 {[%mdl
+512] White is clearly better.} Kxf7 9. Ne5+ Ke8 $2 (9... Kf6 $18 10. Qh5 Qe8
+11. Qh4+ g5 12. Bxg5+ hxg5 13. Qxh8+ Bg7 14. Qh7 $18) 10. Qh5+ {White mates.}
+Ke7 11. Qf7+ Kd6 12. Nf3+ Kd5 13. c4+ Ke4 14. Qg6+ Kxf4 15. g3+ Kxf3 16. Qh5+
+Ke4 17. Qg4# 1-0
+

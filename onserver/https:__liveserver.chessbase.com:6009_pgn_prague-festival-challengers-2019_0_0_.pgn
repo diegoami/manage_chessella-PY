@@ -1,0 +1,1847 @@
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.06"]
+[Round "1.1"]
+[White "Nguyen, Thai Dai Van"]
+[Black "Ju, Wenjun"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2546"]
+[BlackElo "2580"]
+[Annotator "TA"]
+[PlyCount "73"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,73,14,0,0,28,-6,50,21,20,25,17,23,19,7,16,25,25,29,19,0,0,0,44,38,39,
+29,33,0,0,7,6,0,19,19,15,6,19,19,19,19,19,7,19,19,19,19,19,19,19,19,19,19,20,
+19,19,20]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7
+7. Be3 O-O 8. Qd2 Nd7 9. O-O-O c6 10. Bd3 d5 11. h4 {C42: Petroff Defence: 3
+Nxe5 and unusual White 3rd moves} Re8 12. Rde1 $146 ({Predecessor:} 12. Kb1 Bc5
+13. Bd4 Bxd4 14. cxd4 Nf6 15. Rde1 Ne4 {1/2-1/2 (34) Karjakin,S (2782)-Giri,A 
+(2782) Leuven 2018}) 12... Bc5 (12... Nc5 $11) 13. Ng5 {White is slightly
+better.} h6 14. Bh7+ Kf8 15. Bxc5+ Nxc5 16. Rxe8+ Qxe8 17. Re1 Qd8 18. Qe3 Ne6
+19. Nxe6+ Bxe6 20. Qf4 {[#] And now Rxe6 would win.} Qf6 21. Qxf6 gxf6 $14 {
+[%mdl 4096] Endgame KRB-KRB} 22. Bd3 Ke7 23. c4 dxc4 {The position is equal.}
+24. Bxc4 f5 25. g3 Rd8 26. Bd3 Kf6 27. b3 b6 28. Re3 Rd4 29. c3 Rg4 30. f4 Rg8
+31. c4 c5 32. Bf1 Rd8 33. Kc2 Rd7 34. Bg2 Rd8 35. Bf3 a5 36. Rd3 Rxd3 37. Kxd3
+{Accuracy: White = 57%, Black = 58%.} 1/2-1/2
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.06"]
+[Round "1.2"]
+[White "Paravyan, David"]
+[Black "Stocek, Jiri"]
+[Result "1-0"]
+[ECO "B62"]
+[WhiteElo "2627"]
+[BlackElo "2592"]
+[Annotator "TA"]
+[PlyCount "45"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,45,50,48,59,46,60,45,91,51,100,100,196,203,233,233,292,275,225,108,
+112,116,124,123,102,102,118,94,189,182,1787,1701]} 1. e4 c5 2. Nf3 d6 3. d4
+cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd3 a6 8. Nxc6 {B62: Sicilian:
+Richter-Rauzer: 6...e6: Unusual White 7th moves} bxc6 9. O-O-O {LiveBook: 7
+Games. e5! is the strong threat.} Qa5 (9... Be7 10. Bxf6 gxf6 11. f4 Bb7 12. f5
+exf5 13. exf5 d5 14. Qe3 Qc7 15. Be2 O-O-O {1/2-1/2 (34) Brkic,A (2563)
+-Demchenko,A (2679) Skopje 2018}) 10. Qg3 {White is slightly better.} Rb8 11.
+Bc4 h6 $146 ({Predecessor:} 11... Be7 12. Bd2 Qc5 13. Bb3 O-O 14. f4 e5 15. f5
+Rd8 {1-0 (81) Lagno,K (2530)-Soumya,S (2375) Caleta 2017}) 12. Be3 Nd7 13. Bb3
+c5 (13... Rb7 $16) 14. Bf4 $18 e5 15. Bd2 Qc7 16. Nd5 Qb7 {intending ...c4.}
+17. Ba5 (17. Bc3 $18 {has better winning chances.}) 17... c4 $16 18. Nc7+ ({
+Don't do} 18. Bxc4 Qxb2+ 19. Kd2 Qd4+ 20. Bd3 Nc5 $11) 18... Ke7 19. Bxc4 $40 {
+[%mdl 128] Black is in trouble.} Qxb2+ 20. Kd2 Qd4+ 21. Qd3 Qc5 {[#]} (21...
+Bb7 $16) 22. Qd5 $1 $18 {[%cal Rd5f7]} Qxf2+ $2 (22... Qxd5+ 23. Nxd5+ Ke8) 23.
+Kc3 {Precision: White = 73%, Black = 15%.} 1-0
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.06"]
+[Round "1.3"]
+[White "Praggnanandhaa, R."]
+[Black "Bartel, Mateusz"]
+[Result "0-1"]
+[ECO "C77"]
+[WhiteElo "2532"]
+[BlackElo "2600"]
+[Annotator "TA"]
+[PlyCount "68"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,68,26,12,10,15,9,10,12,9,17,14,13,0,0,-6,0,-38,-23,-68,-22,-35,-39,
+-26,-40,-46,-24,-91,-89,-133,-139,-140,-137,-129,-129,-206,-178,-353,-333,-483,
+-478,-476,-453,-574,-565,-585,-569,-902,-662,-677,-817,-817,-817,-817,-817,
+-1336,-1201,-1180,-657,-643,-632]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5.
+d3 d6 6. c4 Be7 {C77: Ruy Lopez: 3...a6 4 Ba4 Nf6, unusual lines} 7. h3 O-O 8.
+O-O Nd4 {The position is equal.} (8... Nd7 9. Be3 Bf6 10. c5 Ne7 11. cxd6 cxd6
+12. Nc3 b5 13. Bb3 Bb7 14. a3 Nc5 15. Ba2 {1/2-1/2 (24) Van Foreest,J (2629)
+-Amin,B (2693) Wijk aan Zee 2018}) 9. Nxd4 exd4 10. Nd2 Rb8 11. f4 b5 12. Bb3
+c5 13. e5 $146 ({Predecessor:} 13. Nf3 bxc4 14. Bxc4 {0-1 (47) Cornette,D 
+(2439)-Gozzoli,Y (2565) chess.com INT 2018}) 13... Ne8 14. Qh5 bxc4 15. Bxc4 d5
+$36 {[%mdl 2048] White must now prevent ...g6. Black is pushing.} 16. Bb3 g6
+17. Qf3 Be6 18. f5 (18. g4 $11) 18... gxf5 $17 19. Qe2 Kh8 20. Nf3 Rg8 21. Kh2
+Rg6 22. Bf4 {[#]} (22. Ne1 $17 {might work better.}) 22... Ng7 $1 $19 23. Nd2
+$2 (23. Ne1) 23... Bg5 24. Rac1 (24. Rf2 {was worth a try.}) 24... Bxf4+ {
+Black is clearly winning.} 25. Rxf4 Qg5 26. Rf2 Nh5 ({Not} 26... c4 27. dxc4
+dxc4 28. Bxc4 $17) 27. Qf3 Rbg8 28. Rxc5 Qh4 29. Nf1 f4 30. Rfc2 {[#]} Rg3 $1 {
+[%mdl 512]} 31. Nxg3 Rxg3 32. Qf1 {[#]} f3 $1 {[%mdl 512]} 33. Bxd5 (33. gxf3
+Bxh3) 33... Bxd5 34. Rxd5 fxg2 {Accuracy: White = 39%, Black = 86%.} 0-1
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.06"]
+[Round "1.4"]
+[White "Shirov, Alexei"]
+[Black "Anton Guijarro, David"]
+[Result "0-1"]
+[ECO "C77"]
+[WhiteElo "2667"]
+[BlackElo "2643"]
+[Annotator "TA"]
+[PlyCount "60"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,60,9,7,15,0,0,-8,0,-12,12,8,24,-30,-24,-20,-22,-18,-2,-7,-12,-18,-6,
+-8,-17,-21,-18,-216,-160,-178,-146,-129,-129,-328,-342,-332,-315,-328,-317,
+-392,-385,-369,-367,-364,-370,-363,-347,-403,-375,-392,-391]} 1. e4 e5 2. Nf3
+Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 Bc5 6. c3 d6 7. O-O Ba7 {C78: Ruy Lopez:
+Archangelsk and Möller Defences} 8. Bg5 (8. Re1 O-O 9. h3 Ne7 10. Nbd2 Ng6 11.
+Nf1 c6 12. Ng3 d5 13. Bb3 dxe4 14. dxe4 Qxd1 15. Rxd1 {1/2-1/2 (15) Grischuk,A
+(2750)-Tomashevsky,E (2696) Moscow 2017}) 8... h6 9. Bh4 g5 {The position is
+equal.} 10. Bg3 h5 $146 {[#] And now ...b5 would win.} ({Predecessor:} 10...
+Bg4 11. Nbd2 Nh5 12. Bxc6+ bxc6 13. Qa4 Nxg3 14. hxg3 Bd7 15. Nc4 h5 16. d4 c5
+17. Qxa6 cxd4 18. Qb7 Qb8 19. Qd5 Be6 20. Qc6+ Bd7 21. Qd5 Be6 {1/2-1/2 (21)
+Czarnota,P (2575)-Buhmann,R (2583) Polanica Zdroj 2007}) 11. h4 (11. Nxg5 $2 h4
+$19) 11... Nh7 12. Nbd2 (12. d4 $142) 12... g4 $11 13. Ne1 Nf8 14. d4 exd4 15.
+Bxc6+ bxc6 {[%cal Bb7c6,Bc6c5][%mdl 32]} 16. cxd4 Ng6 17. Qa4 Bd7 18. e5 d5 19.
+f3 $2 (19. Nd3 $11 {and White stays safe.}) 19... c5 $36 {[%mdl 2048] Black is
+in control.} 20. Qa3 c4 (20... cxd4 21. Nd3 $17) 21. Nc2 Bf5 22. Nb4 $2 (22.
+Qc3 $17) 22... Bxd4+ $19 {[%mdl 64] [#] Double Attack} 23. Kh2 {Strongly
+threatening Nc6.} Qd7 ({Less strong is} 23... Nxe5 24. Rfe1 $17) (23... Bxe5
+24. Bxe5 Nxe5 25. Rfe1 $11) 24. Nxa6 Ra7 25. Rad1 Qc8 26. Qa4+ Bd7 ({Resist} 
+26... c6 27. Nxc4 dxc4 28. Rxd4 $19) 27. Qa5 Be6 ({Don't take} 27... Qxa6 28.
+Qxd5 c5 29. Ne4 $19) (27... Bc6 $2 28. Nxc7+ Qxc7 29. Qxc7 $19) 28. Nxc4 {
+Nxc7+! is the strong threat.} Qxa6 29. Rxd4 Qxa5 30. Nxa5 Rxa5 {Accuracy:
+White = 40%, Black = 89%.} 0-1
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.06"]
+[Round "1.5"]
+[White "Krejci, Jan"]
+[Black "Michalik, Peter"]
+[Result "0-1"]
+[ECO "D31"]
+[WhiteElo "2570"]
+[BlackElo "2565"]
+[Annotator "TA"]
+[PlyCount "116"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,116,19,5,0,-10,-14,-18,-22,-18,58,-15,-16,-20,-16,-22,-20,-44,-26,
+-18,-25,-46,-41,-50,-48,-120,-51,-124,-49,-112,-95,-96,-94,-114,-104,-114,-85,
+-83,-81,-72,-82,-104,-99,-108,-108,-109,-103,-511,0,-107,-102,-79,-87,-85,-23,
+-28,-10,-87,-87,-91,-62,-85,-85,-93,-82,-145,-129,-129,-124,-222,-216,-223,
+-238,-190,-174,-190,-125,-131,-107,-171,-175,-174,-168,-224,-224,-224,-216,
+-212,-179,-179,-175,-212,-90,-664,-614,-657,-610,-697,-681,-664,-636,-582,-559,
+-416,-394,-655,-475]} 1. c4 e6 2. Nc3 d5 3. d4 Be7 4. Bf4 Nf6 5. e3 O-O 6. Rc1
+{D35: Queen's Gambit Declined: Exchange Variation} (6. Nf3 c5 7. dxc5 Bxc5 8.
+cxd5 Nxd5 9. Nxd5 exd5 10. Bd3 Bb4+ 11. Nd2 Nc6 12. O-O Be7 13. a3 Bf6 14. Rb1
+Re8 15. Nf3 Bg4 16. h3 Bh5 17. g4 Bg6 18. Bxg6 hxg6 {1/2-1/2 (39) Hammer,J 
+(2662)-Akobian,V (2641) Saint Louis 2018}) 6... b6 7. cxd5 {LiveBook: 3 Games}
+Nxd5 8. Nxd5 {The position is equal.} Qxd5 9. a3 Qa5+ 10. Qd2 Qxd2+ 11. Kxd2 c5
+$1 12. Be2 $146 {Bf3 is the strong threat.} ({Predecessor:} 12. Nf3 Bb7 13.
+dxc5 {1-0 (56) Girya,O (2444)-Khotenashvili,B (2454) Chengdu 2016}) 12... Nc6 {
+[%cal Bb8c6,Bc6a5,Ba5b3][%mdl 32]} 13. Bf3 Bd7 14. Ne2 Rac8 15. dxc5 Na5 {
+And now ...Nb3+ would win.} 16. Ke1 {White wants to play b4.} Nb3 17. Rd1 Nxc5
+{Threatens to win with ...Ba4.} 18. Nc3 (18. Bd6 $15 Bxd6 19. Rxd6) 18... Rfd8
+(18... Bf6 $1 $17 19. Bb7 Bxc3+ 20. bxc3 Rcd8) 19. Bd6 (19. Be5 $15) 19... Kf8
+({Black should play} 19... Bf6 $1 $17 {White must now prevent ...Na4.} 20. Bxc5
+bxc5) 20. h4 ({Better is} 20. Bxe7+ $15 Kxe7 21. g3) 20... Bxd6 $17 21. Rxd6
+Ke7 22. Rd2 Na4 $1 {[%cal Ra4c3]} 23. Nd1 Rc1 24. h5 Nc5 25. Rh4 e5 26. Rb4 g5
+27. hxg6 hxg6 28. Rd5 Rc2 29. Be4 $2 {[%mdl 8192]} (29. Rxe5+ $17 {is tougher.}
+Be6 30. Be4) 29... Rc1 $2 (29... Nxe4 $19 {is more deadly.} 30. Rxe5+ Kf6 31.
+Rexe4 Bb5 $1 {[%mdl 512]}) 30. Bf3 $1 Bf5 {aiming for ...Nd3+.} 31. Rxd8 Kxd8
+32. Be2 Be6 ({Black should try} 32... Rc2 $17 33. e4 Be6) 33. Kd2 Ra1 34. Nc3 (
+34. Rh4 $11 {keeps the balance.}) 34... Nb3+ 35. Kc2 Rc1+ 36. Kd3 Rg1 37. g3
+Rg2 38. Nd1 (38. Bd1 $142 Na5 39. Ke2) 38... Nc5+ 39. Kd2 g5 $1 40. Bf3 (40.
+Ke1 $17) 40... Rh2 $19 41. a4 Kc7 42. a5 Nb3+ 43. Ke1 Nxa5 (43... f5 $1 $19 44.
+axb6+ axb6) 44. Nc3 $17 Nb7 45. Bxb7 (45. Ra4 $17 Kb8 46. b4) 45... Kxb7 {
+[%mdl 4096] Endgame KRB-KRN} 46. Ne4 Bd5 47. Nxg5 (47. Nc3 {might work better.}
+Bc6 48. e4) 47... f6 $19 48. Ne4 a5 49. Nxf6 axb4 50. Nxd5 {KR-KN} b3 51. Nf6 {
+[#]} Rh8 (51... Rh6 $1 $19 {[%cal Rh6f6]} 52. Ne4 Rc6) 52. g4 $2 {[%mdl 8192] 
+[#]} (52. Ne4 $17) 52... Rc8 $1 {[%cal Rc8c1]} 53. Ne4 {Hoping for Nd6+.} Rc2
+54. g5 Rxb2 55. Nd2 Kc6 56. g6 Ra2 57. Nxb3 Kd5 58. g7 $2 (58. Nd2 Ra1+ 59. Ke2
+) 58... Ra8 {Precision: White = 36%, Black = 67%.} 0-1
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.07"]
+[Round "2.1"]
+[White "Anton Guijarro, David"]
+[Black "Krejci, Jan"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[WhiteElo "2643"]
+[BlackElo "2570"]
+[Annotator "TA"]
+[PlyCount "76"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 26,76,24,4,12,0,27,18,20,21,36,38,32,28,54,39,50,0,0,0,0,0,0,0,0,0,33,
+33,187,10,92,0,58,37,32,41,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. c4 e6 2. Nc3
+d5 3. d4 Nf6 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Nf3 cxd4 8. cxd4 Bb4+ 9. Bd2
+Bxd2+ 10. Qxd2 O-O 11. Bc4 b6 12. O-O Bb7 13. Rfe1 Nd7 14. Rad1 Rc8 {D41:
+Queen's Gambit Declined: Semi-Tarrasch with 5 cxd5} 15. Bb3 Qe7 (15... Re8 16.
+h3 Nf6 17. Qf4 Nh5 18. Qh2 h6 19. d5 exd5 20. e5 g6 21. Nd4 Ng7 22. Nb5 {
+1/2-1/2 (54) Mamedyarov,S (2820)-Ding,L (2804) Batumi 2018}) 16. d5 {[%cal
+Bd4d5,Bd5d6][%mdl 32]} Nc5 17. d6 Qd8 $146 ({Predecessor:} 17... Qf6 18. e5
+Nxb3 19. axb3 Qg6 20. Re3 f6 21. exf6 Rxf6 {1/2-1/2 (138) Brunello,S (2566)
+-Naiditsch,Y (2405) Douglas 2016}) 18. e5 Bxf3 19. gxf3 Qd7 20. f4 f6 21. f5 (
+21. Bc4 {with more complications.} Qc6 22. Rc1 Qf3 23. Qe3 Qg4+ 24. Qg3) 21...
+Nxb3 22. axb3 {[#] aiming for exf6.} fxe5 23. Rxe5 Rxf5 24. Rxf5 exf5 $11 {
+[%mdl 4096] Endgame KQR-KQR} 25. Re1 f4 26. Qxf4 Rf8 $2 {[#]} (26... Qf7 $1 $14
+27. Qxf7+ Kxf7) 27. Qg3 $2 (27. Qd4 $1 $18 {Strongly threatening Re7.} Qf7 28.
+Re7 Qg6+ 29. Kf1 Qb1+ {[%mdl 64] Double Attack} 30. Re1 Qxb3 31. d7 Qb5+ 32.
+Kg1 Qg5+ 33. Kh1) 27... Re8 (27... Qc6 $11) 28. Rc1 (28. Rxe8+ $16 Qxe8 29. Qg4
+) 28... g6 ({Black should try} 28... Qf5 $11) 29. Qf4 {Black must now prevent
+Rc7.} Qe6 30. Qd4 Qf5 {And now ...Qg5+ would win.} 31. h4 {Hoping for Rc7.} Re4
+{The position is equal.} 32. Rc8+ $1 Qxc8 33. Qxe4 {KQ-KQ} Qd7 34. Qf4 a5 35.
+Qc4+ Kf8 36. Qd4 {Threatens to win with Qh8+.} Kf7 37. Qxb6 Qg4+ 38. Kf1 Qd1+ {
+Accuracy: White = 38%, Black = 39%.} 1/2-1/2
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.07"]
+[Round "2.2"]
+[White "Ju, Wenjun"]
+[Black "Michalik, Peter"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "2580"]
+[BlackElo "2565"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,61,15,19,12,21,25,24,26,32,22,31,56,53,45,16,75,77,74,76,95,101,107,
+41,20,0,0,0,0,22,14,6,105,98,106,94,91,95,179,166,533,552,560,558,606,593,839,
+824]} 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. h3 Nf6 7. Nc3 Nd7
+8. Be3 e5 9. Qd2 h6 {B31: Sicilian: 2...Nc6 3 Bb5 g6} 10. O-O Qe7 (10... b6 11.
+a3 Nf8 12. b4 Ne6 13. bxc5 f5 14. exf5 gxf5 15. Qe1 O-O 16. Rb1 e4 17. dxe4 {
+0-1 (36) Wang,H (2730)-Carlsen,M (2835) St Petersburg 2018}) 11. Nh2 Nf8 {
+White has an edge.} 12. f4 exf4 13. Bxf4 g5 14. Bg3 Ng6 15. e5 Be6 (15... Nxe5
+$11 16. Rae1 O-O) 16. Rae1 O-O-O 17. Nf3 Kb8 $146 18. Ne4 Ka8 19. Qc3 (19. Qe3
+$16) 19... Rd5 $14 20. a3 g4 21. hxg4 Bxg4 22. Nf6 Bxf6 $1 23. exf6 Qd7 (23...
+Qf8 $11 {keeps the balance.}) 24. Nh4 $1 $36 {[%cal Rh4g6][%mdl 2048] And now
+Nxg6 would win. White is in control.} Nxh4 25. Re7 ({But not} 25. Bxh4 $6 Be6
+$11) 25... Qc8 {...Nf5 is the strong threat.} 26. Bxh4 Be6 {[#]} (26... Bh5 $16
+) 27. Re1 $1 $18 Rf5 $2 {[#]} (27... Rd6 {is a better chance.} 28. Qxc5 Rd5)
+28. R1xe6 $1 {[%mdl 512] White is clearly winning.} fxe6 {[#]} (28... Qxe6 29.
+Rxe6) 29. f7 $1 {Threatening mate with Qxh8!} e5 30. Qxc5 {Strongly
+threatening Bf2.} b6 31. Qd6 {Accuracy: White = 70%, Black = 40%.} 1-0
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.07"]
+[Round "2.3"]
+[White "Bartel, Mateusz"]
+[Black "Shirov, Alexei"]
+[Result "0-1"]
+[ECO "C77"]
+[WhiteElo "2600"]
+[BlackElo "2667"]
+[Annotator "TA"]
+[PlyCount "62"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,62,3,5,0,10,4,1,20,8,7,20,-25,-4,-14,-12,-24,-12,-13,-2,-2,-6,-4,-10,
+-6,-15,-27,-39,-32,-24,-44,-16,-59,-65,-63,-58,-51,-52,-155,-145,-109,-112,
+-129,-141,-223,-212,-274,-275,-608,-615,-744,-744,-1273,-1229]} 1. e4 e5 2. Nf3
+Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 Be7 6. d3 d6 7. a3 {C77: Ruy Lopez: 3...a6 4
+Ba4 Nf6, unusual lines} (7. Bxc6+ bxc6 8. d4 exd4 9. Nxd4 Bd7 10. Qf3 c5 11.
+Nf5 Bxf5 12. Qxf5 Qd7 13. Qxd7+ Kxd7 14. Bf4 Rhe8 {1/2-1/2 (46) Horvath,A 
+(2481)-Horvath,D (2429) Budapest 2018}) 7... O-O 8. h3 Nd4 $146 ({Predecessor:
+} 8... h6 9. Bb3 Be6 10. Nd5 Bxd5 11. exd5 Nb8 12. Be3 Nbd7 13. Ba2 Re8 14. O-O
+Bf8 {0-1 (41) Gonen,M (1634)-Hanci,I (1615) Antalya 2019}) 9. Nxd4 {The
+position is equal.} exd4 10. Ne2 d5 11. exd5 (11. e5 $5 {[%cal Re5f6]} Nd7 12.
+Bxd7 Bxd7 13. Nxd4 $11) 11... Nxd5 12. O-O c5 13. Bb3 Be6 14. Re1 Bd6 15. Ng3
+Bxg3 16. fxg3 b5 {[%cal Bb7b5,Bb5c4,Bc4c3][%mdl 32]} 17. Qf3 Rc8 18. Kh2 c4 19.
+Ba2 h6 20. dxc4 bxc4 21. Rd1 Qb6 22. Qf2 Ne3 $36 {[%mdl 2048] Black has good
+play.} 23. Re1 c3 24. b4 (24. b3 $15) 24... Bxa2 $17 25. Rxa2 {[%cal Rc1e3]}
+Rfe8 {aiming for ...Qe6.} 26. Bxe3 dxe3 ({Resist} 26... Rxe3 27. Raa1 $15) 27.
+Qf3 {[#]} (27. Qf1 $17) 27... Rc6 $1 $19 {[%cal Bc8c6,Bc6f6,Bf6f2][%mdl 32]}
+28. Raa1 Rf6 29. Qg4 $2 (29. Qe2 Qc6 30. Rf1) 29... Rf2 {Black is clearly
+winning.} 30. Re2 Qb5 31. Rae1 h5 {Accuracy: White = 43%, Black = 73%.} 0-1
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.07"]
+[Round "2.4"]
+[White "Nguyen, Thai Dai Van"]
+[Black "Paravyan, David"]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "2546"]
+[BlackElo "2627"]
+[Annotator "TA"]
+[PlyCount "65"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,65,31,27,50,44,44,33,33,0,0,0,0,0,10,8,60,65,44,29,205,205,209,193,
+302,297,320,313,302,297,336,277,262,237,328,292,555,417,1082,1069,949,923,1386,
+1340,29990,29991,29991,29992]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O
+d6 6. c3 O-O 7. h3 a6 {C65: Ruy Lopez: Berlin Defence (3...Nf6), unusual lines
+and 4 0-0 Bc5} 8. Bxc6 bxc6 9. d4 Bb6 10. Re1 exd4 11. cxd4 {LiveBook: 3 Games}
+d5 12. e5 Ne4 13. Nc3 $146 ({Predecessor:} 13. Be3 f6 14. Nbd2 f5 15. Nb3 {
+1/2-1/2 (63) Karjakin,S (2785)-Jakovenko,D (2722) Moscow 2012}) 13... c5 14.
+Be3 Nxc3 15. bxc3 c4 16. Qc2 Qd7 17. g4 Qe7 (17... Qe6 $11) 18. Ng5 $40 {
+[%csl Gg5][%cal Rc2h7][%mdl 128] White attacks.} g6 19. Nf3 f5 $2 {[#]} (19...
+Be6 $11 {and Black has nothing to worry.}) 20. exf6 $1 $18 Qxf6 21. Ne5 Be6 (
+21... c6 {is a better defense.} 22. Bh6 Rd8) 22. Qd2 Rfe8 23. Re2 c6 24. Bg5
+Qf8 25. Nxc6 Rac8 26. Ne5 Ba5 27. Rae1 Qa3 $2 (27... Qg7 {keeps fighting.} 28.
+Qc1 Bc7 29. Nxc4 Qf7) 28. Re3 Rb8 (28... Qd6 $142 29. Bh6 Bc7) 29. Nc6 Rb2 30.
+Qc1 Qxa2 31. Rf3 ({Inferior is} 31. Rxe6 Rxe6 32. Rxe6 Rb1 $11) 31... Bxc3 {[#]
+} 32. Qf4 $1 {[%mdl 512]} Qa3 {[#]} 33. Rxe6 $1 {[%mdl 512] Precision: White =
+85%, Black = 35%.} 1-0
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.07"]
+[Round "2.5"]
+[White "Stocek, Jiri"]
+[Black "Praggnanandhaa R"]
+[Result "1/2-1/2"]
+[ECO "A21"]
+[WhiteElo "2592"]
+[BlackElo "2532"]
+[Annotator "TA"]
+[PlyCount "105"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,105,22,21,20,13,15,11,14,31,33,29,33,26,29,35,20,33,10,27,20,22,15,15,
+20,21,12,10,8,22,-18,37,36,60,89,87,53,66,76,123,72,111,99,142,139,189,170,179,
+64,55,37,62,0,0,-88,-79,-89,-87,-93,-85,-82,-54,-62,-62,-66,-47,-51,0,-8,-8,-8,
+-8,-8,0,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,0,0,8,8,8,8,8,8,8,8,8,0,0,0]} 1. c4 e5
+2. Nc3 Bb4 3. Nd5 Bc5 4. Nf3 c6 5. Nc3 d6 6. e3 {A21: English Opening: 1...e5
+2 Nc3} Bb4 7. d4 e4 8. Nd2 Bxc3 9. bxc3 Nf6 10. Ba3 O-O 11. c5 d5 12. Be2 Re8
+13. O-O $146 b6 14. c4 Ba6 15. cxb6 axb6 16. Qb3 Nbd7 17. Rfc1 dxc4 18. Nxc4
+Re6 19. f4 c5 (19... exf3 $11 20. Bxf3 Nd5) 20. dxc5 $14 Nxc5 21. Bxc5 bxc5 22.
+a4 Rb8 23. Rd1 Qc7 {[#]} 24. Qc2 (24. Qa2 $142 $1) 24... h5 25. a5 Rb4 26. h3
+h4 27. Nb6 c4 {[#]} 28. Qc3 ({White should try} 28. Rd4 $1 $18) 28... Rb3 29.
+Qd4 {[%cal Re2c4]} Rc6 30. Rac1 ({Better is} 30. Kh2 $14) 30... Ra3 $11 31.
+Qd8+ (31. Qe5 $11 {keeps the balance.} Qxe5 32. fxe5 Rxa5 33. Rd6 Rxb6 34. Rxb6
+) 31... Qxd8 $17 32. Rxd8+ Kh7 33. Nd7 Nxd7 34. Rxd7 Rxe3 35. Kf2 Ra3 36. Rxf7
+e3+ 37. Kf3 Rg6 ({Black should play} 37... Rxa5 $15 38. Bd1 Ra3) 38. g4 $132 {
+[%mdl 2048] The position is equal. White is not holding back} hxg3 {And now ...
+g2 would win.} 39. f5 Rc6 40. Kxg3 Rxa5 41. Kf4 {Black should prevent Rg1.} Rf6
+42. Rxf6 gxf6 $11 {[%mdl 4096] Endgame KRB-KRB} 43. Rc3 Re5 44. Rxe3 Rxe3 45.
+Kxe3 {KB-KB} Kh6 46. h4 Bc8 47. Bg4 Bxf5 48. Bxf5 {KB-KPP} Kh5 (48... Kg7 {
+seems wilder.} 49. Kd4 Kh6 50. Kc3 Kg7 51. h5 Kh6) 49. Kd4 Kxh4 50. Kxc4 {
+Bc2 is the strong threat.} Kg5 51. Bc2 {aiming for Kd4.} f5 52. Bxf5 Kxf5 53.
+Kd4 {Accuracy: White = 59%, Black = 53%.} 1/2-1/2
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.08"]
+[Round "3.1"]
+[White "Paravyan, David"]
+[Black "Ju, Wenjun"]
+[Result "0-1"]
+[ECO "C42"]
+[WhiteElo "2627"]
+[BlackElo "2580"]
+[Annotator "TA"]
+[PlyCount "88"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,88,29,41,23,21,15,27,16,37,25,39,16,29,9,14,18,12,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,-39,-39,-39,-27,-40,-48,-56,-50,-93,-96,-133,-160,-287,-274,-272,
+-260,-327,-327,-282,-227,-357,-283,-416,-429,-503,-512,-548,-542,-639,-614,
+-816,-802,-785,-838,-814,-791,-5803,-5816,-5185,-5277]} 1. e4 e5 2. Nf3 Nf6 3.
+Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bf5 7. O-O Be7 8. Re1 Nc6 9. c4 O-O 10. Nc3
+{C42: Petroff Defence: 3 Nxe5 and unusual White 3rd moves} (10. cxd5 {feels
+hotter.} Qxd5 11. Nc3 Nxc3 12. bxc3 Rfe8 13. Bf4) 10... Nxc3 11. bxc3 Bxd3 12.
+Qxd3 {White has an edge.} Re8 (12... dxc4 13. Qxc4 Qd7 14. d5 Na5 15. Qd3 Rae8
+16. Bd2 b6 17. Ne5 Qc8 {1/2-1/2 (28) Kobalia,M (2620)-Zvjaginsev,V (2642) Tula
+2019}) 13. cxd5 Qxd5 14. Bf4 Bd6 15. Ng5 g6 16. Ne4 {[#] Strongly threatening
+Nf6+.} Re6 $146 ({Predecessor:} 16... Kg7 17. Qf3 Bxf4 18. Qxf4 {1/2-1/2 (48)
+Iljiushenok,I (2516)-Iljin,A (2528) Sochi 2018}) 17. Qf3 {aiming for Nf6+!} (
+17. Nxd6 {looks sharper.} cxd6 18. Rxe6 fxe6 19. Rb1 Na5 20. a4) 17... Kg7 $1 {
+Threatens to win with ...Rae8.} 18. Nxd6 Qxf3 19. gxf3 cxd6 20. Rxe6 fxe6 21.
+Bxd6 $11 {[%mdl 4096] Endgame KRB-KRN} Rd8 22. Bg3 Rc8 23. c4 Rd8 24. Rb1 Rd7
+25. Be5+ Nxe5 26. dxe5 $15 {KR-KR} g5 27. Kf1 Kg6 {[%mdl 1024] Black has
+compensation.} 28. Ke2 Kf5 29. Rb5 b6 30. a4 {[#]} Rc7 $1 31. a5 {[#]} (31. Kd3
+$17 {is a better defense.}) 31... Rc5 $1 $19 {[%cal Rc5b5] Hoping for ...Rxb5.}
+({Less strong is} 31... Rxc4 32. axb6 axb6 33. Kf1 $17) 32. Rb1 Rxe5+ 33. Kf1
+Rxa5 34. Rd1 Ra4 35. Rd7 (35. Rc1 {was the only chance.}) 35... a5 {[%cal
+Ba7a5,Ba5a4][%mdl 32]} (35... Rxc4 $2 36. Rxa7 h6 37. Rf7+ Kg6 38. Rb7 $17) 36.
+Rc7 (36. Rb7 $142) 36... Ke5 37. c5 {Black is clearly winning.} b5 38. Rxh7 Rc4
+39. f4+ Kxf4 40. h4 a4 41. c6 Rxc6 42. h5 Kg4 43. Kg2 Ra6 44. f3+ Kh4 {
+Accuracy: White = 32%, Black = 86%.} 0-1
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.08"]
+[Round "3.2"]
+[White "Praggnanandhaa R"]
+[Black "Nguyen, Thai Dai Van"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2532"]
+[BlackElo "2546"]
+[Annotator "TA"]
+[PlyCount "120"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,120,33,39,19,24,20,16,17,36,22,27,33,20,14,17,14,16,19,19,19,20,0,23,
+9,16,29,14,22,22,0,19,19,45,46,46,32,77,70,77,77,73,73,74,71,90,108,102,91,91,
+83,83,91,91,91,91,67,91,41,41,41,49,14,14,14,91,91,91,91,91,0,0,0,91,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,8,93,93,93,93,93,242]} 1. e4 e5 2. Nf3
+Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bf5 7. O-O Be7 8. Re1 O-O 9. c4 Nc6
+10. cxd5 {C42: Petroff Defence: 3 Nxe5 and unusual White 3rd moves} Qxd5 11.
+Nc3 Nxc3 12. bxc3 {The position is equal.} Bxd3 13. Qxd3 Rfe8 14. Bf4 Bd6 15.
+c4 Qh5 16. Bg3 {[#]} b6 $146 ({Predecessor:} 16... Bxg3 17. hxg3 {1-0 (59)
+Lagno,K (2547)-Ju,W (2567) Huaian 2017}) 17. Bxd6 cxd6 18. Qa3 Qg6 19. Rxe8+
+Rxe8 20. Qa4 Rc8 $1 21. d5 Na5 $1 22. Qd7 {[%cal Rd7c8]} Rf8 23. Qc7 Qf6 24.
+Re1 Qd8 25. Qxa7 Nxc4 26. Qa4 $36 {[%mdl 2048] White has the initiative.} Ne5
+27. Nxe5 dxe5 28. Rxe5 $16 {[%mdl 4096] Endgame KQR-KQR} f6 {[#]} 29. Re6 $1
+Qxd5 30. Rxb6 Ra8 {[#]} 31. Ra6 $1 {[%cal Ra6a8]} Rd8 {( -> ...Qd1+)} 32. h4
+Qd1+ 33. Kh2 Qxa4 34. Rxa4 {KR-KR} h5 35. Ra5 Kf7 36. g3 Rd3 37. Kg2 Kg6 38. a4
+{[%cal Ba2a4,Ba4a5,Ba5a6][%mdl 32]} Ra3 39. Ra8 Kf5 40. a5 Ra2 (40... Ra4 $11 {
+keeps the balance.}) 41. a6 Kg4 42. Ra7 Kf5 43. Kf1 (43. Re7 $16) 43... Kg4 $11
+44. Kg2 (44. Re7 $11) 44... Kf5 $1 $16 45. Kf3 ({Better is} 45. Rxg7 $16 {
+And now a7 would win.} Rxa6 46. Rd7) 45... g5 $11 46. hxg5 fxg5 47. Ra8 Kg6 48.
+Ke4 Kg7 49. Kf3 Ra3+ 50. Kg2 Ra2 51. Kg1 {Threatens to win with a7.} Ra1+ 52.
+Kg2 Ra2 53. a7 g4 54. Kf1 Ra1+ 55. Ke2 Ra3 56. Kd2 {Black must now prevent Kc2.
+} Ra2+ 57. Ke3 {Kd4 is the strong threat.} Kh7 58. Kf4 {Hoping for Ke5.} Rxf2+
+{White is better.} 59. Kg5 {White wants to mate with Rc8.} Ra2 60. Kxh5 Ra4 {
+Accuracy: White = 63%, Black = 70%.} 1/2-1/2
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.08"]
+[Round "3.3"]
+[White "Michalik, Peter"]
+[Black "Anton Guijarro, David"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2565"]
+[BlackElo "2643"]
+[Annotator "TA"]
+[PlyCount "133"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,133,15,39,32,36,44,41,48,47,33,43,34,45,27,27,21,42,28,41,35,41,25,47,
+47,49,46,54,49,63,65,192,197,190,191,237,247,243,239,283,282,264,271,349,343,
+335,350,364,358,358,337,586,277,351,356,353,355,329,174,302,234,237,225,227,
+228,227,230,215,168,164,132,133,131,156,162,147,152,212,193,184,187,173,181,
+165,161,210,188,206,19,19,19,18,18,22,22,22,20,212,193,275,268,262,220,220,220,
+220,195,195,180,751,751,713,713,1524,1489,1027,861,29967,29968,29962,29961,
+29975,29975,29975,29975,29973,29969]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4
+5. e4 b5 6. e5 {D24: Queen's Gambit Accepted: 3 Nf3 Nf6 4 Nc3} Nd5 7. Nxb5 Nb6
+8. Be2 {White is slightly better.} Be7 9. O-O O-O 10. Qd2 Nc6 11. Qf4 Rb8 {
+Threatens to win with ...Nd5.} 12. Nc3 Kh8 $146 ({Predecessor:} 12... f5 13.
+Qg3 {1-0 (38) Ding,L (2804)-Duda,J (2739) Batumi 2018}) 13. Rd1 Nb4 14. Qg4
+N4d5 15. Qh5 Bb7 16. Ng5 Bxg5 $1 17. Bxg5 f6 18. Bd2 $40 {[%mdl 128] White
+attacks.} Nb4 19. Qh4 f5 ({Better is} 19... fxe5 $14 20. Bg5 Qe8) 20. Bg5 $18
+Qd7 21. Be7 $1 {[%cal Re7b4]} a5 22. Bxf8 Rxf8 23. d5 exd5 24. Bxc4 Qe6 25. Bb3
+c5 26. a3 Na6 27. Ne2 c4 28. Nf4 Qe8 29. Bc2 Nc5 $2 {[#]} (29... Kg8 {might
+work better.} 30. g4 Nc7) 30. Rd4 (30. Bxf5 $142 $1 {[%mdl 512]} Rxf5 31. Ng6+
+$1 {[%mdl 576] Pin} Kg8 32. Ne7+ {[%mdl 64] Double Attack} Kh8 33. Ng6+ Kg8 34.
+Ne7+ {[%mdl 64] Double Attack} Kh8 35. Nxf5) 30... Kg8 31. Re1 Ne4 32. f3 Qxe5
+{[#]} 33. Ne2 (33. Rd2 $142 $3 {[%mdl 512]}) 33... Nd6 (33... Nc5 {keeps
+fighting.} 34. Rdd1 Qf6) 34. Nc3 Qf6 35. Qxf6 Rxf6 36. b3 Kf7 37. Kf2 g6 38. h4
+Bc6 39. Rc1 Ke6 40. a4 Rf8 41. Re1+ Kd7 42. Red1 Rb8 (42... Ke6 $16 43. Re1+
+Kd7) 43. Kg3 Re8 44. bxc4 Ndxc4 45. Bb3 {And now Bxc4 would win.} Ne3 46. Rc1
+Kd6 47. Rd3 Nd7 {[#]} 48. Kf2 $2 (48. Ne2 $1 $18) 48... Nc5 $11 {[%mdl 64]
+Double Attack} 49. Rxe3 Rxe3 50. Kxe3 d4+ $1 51. Ke2 {Nb5+ is the strong
+threat.} Nxb3 52. Rb1 dxc3 $2 (52... Nc5 $11 {and Black is okay.} 53. Rd1 Nb3)
+53. Rxb3 {[%mdl 4096] Endgame KR-KB} c2 (53... Bxa4 {is a better defense.} 54.
+Rxc3 Bb5+ 55. Kd2 Bc6) 54. Kd2 $18 Bxa4 55. Ra3 Bb5 56. Rxa5 Bf1 57. g3 Be2 58.
+Ra3 Kd5 $2 (58... Bd1 59. Ra7 h5) 59. Kxc2 Kd4 60. Kd2 Bc4 61. Ra7 Bd5 62. Ke2
+f4 63. gxf4 {White mates.} Bc4+ 64. Kf2 h5 65. Rd7+ Kc5 {[#]} 66. f5 $1 gxf5
+67. Ke3 {Accuracy: White = 70%, Black = 45%.} 1-0
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.08"]
+[Round "3.4"]
+[White "Shirov, Alexei"]
+[Black "Stocek, Jiri"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2667"]
+[BlackElo "2592"]
+[Annotator "TA"]
+[PlyCount "80"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,80,12,-4,25,-12,0,0,0,7,18,0,0,0,18,28,18,26,52,35,50,16,116,-24,0,0,
+16,0,4,-29,-14,-115,-101,-122,-112,-127,-50,-179,-168,-171,-175,-253,-248,-364,
+-382,-375,-369,-364,-370,-339,-323,-331,-268,-328,-322,-277,-218,-303,-279,
+-539,-535,-1820,-1773,-1661,-427,-1541,-1395,-6078,-6070,-4133,-1659]} 1. e4 e6
+2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 f6 7. O-O fxe5 {C02: French:
+Advance Variation} 8. dxe5 Nh6 9. c4 d4 {The position is equal.} 10. b4 cxb4
+$146 ({Predecessor:} 10... Nf7 11. bxc5 Bxc5 12. Bf4 Qe7 13. Nbd2 g5 14. Bg3 h5
+15. h3 {1/2-1/2 (50) Yu,L (2417)-Nguyen,N (2662) Beijing 2012}) 11. Bd3 Nf7 12.
+Re1 Be7 13. Nbd2 Qc7 {[%cal Rf7e5]} 14. Nb3 O-O-O {[%cal Rf7e5]} 15. a3 (15.
+Nfxd4 $6 Nxd4 16. Nxd4 Nxe5 $11) 15... Kb8 16. axb4 Nxb4 (16... Bxb4 $11 17.
+Bd2 Bc3 18. Bxc3 dxc3) 17. Nfxd4 (17. Bb2 $16) 17... Nxe5 18. Bf1 Rhf8 19. Be3
+{aiming for Rxa7!} a6 20. Qh5 (20. c5 $5) 20... g6 21. Qe2 (21. Qd1 $11 {
+keeps the balance.}) 21... Ned3 $17 {Threatens to win with ...e5.} 22. Red1 e5
+(22... Qxc4 23. Nc1 $14 (23. Rxd3 Qxd3 24. Qxd3 Nxd3 $11)) 23. Nc2 e4 (23...
+Nf4 $17 24. Bxf4 Rxf4) 24. c5 (24. Nxb4 $1 $15 Bxb4 25. g3) 24... Nd5 $36 {
+[%mdl 2048] Black is really pushing.} ({Avoid the trap} 24... Nxc5 $2 25. Nxb4
+Nxb3 {[#]} 26. Nxa6+ $1 {[%mdl 512]} bxa6 27. Qxa6 $18) 25. Bd4 Bf6 (25... Bxc5
+26. Nxc5 Nxc5 27. Qc4 $16) 26. Qxe4 (26. Bxf6 {is a better defense.} Nxf6 27.
+Ne3) 26... Bf5 27. Qf3 (27. Qe2 $142 Bxd4 28. Ncxd4) 27... Ne5 28. Bxe5 Bxe5
+29. Ncd4 {[#]} Bc2 $1 {[%mdl 512]} 30. Qh3 (30. Nxc2 Bxh2+) 30... Bxd1 31. Rxd1
+Bxd4 ({Don't do} 31... Qf7 32. Rd2 $19) 32. Nxd4 Qf4 ({Weaker is} 32... Qxc5
+33. Qg3+ Ka7 34. Ne6 $15) 33. Nf3 g5 34. Rd4 Qc1 {White must now prevent ...
+Nf4.} 35. Qxh7 $2 {[#]} (35. Qe6 {was forced.} Rfe8 36. Qf5) 35... Ne3 $1 {
+[%csl Ge3][%cal Rc1f1][%mdl 512] Black is clearly winning.} 36. Rxd8+ (36. fxe3
+Qxe3+) 36... Rxd8 {[%csl Ge3][%cal Rc1f1]} 37. fxe3 Qxe3+ 38. Kh1 Rd1 39. Qh8+
+Ka7 40. Nd2 Qxd2 {Accuracy: White = 35%, Black = 60%.} 0-1
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.08"]
+[Round "3.5"]
+[White "Krejci, Jan"]
+[Black "Bartel, Mateusz"]
+[Result "1-0"]
+[ECO "E16"]
+[WhiteElo "2570"]
+[BlackElo "2600"]
+[Annotator "TA"]
+[PlyCount "67"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,67,25,8,29,23,28,4,29,22,35,18,42,35,62,44,58,59,66,69,53,39,94,96,
+100,77,108,88,104,90,106,84,87,85,72,72,89,76,67,73,110,111,177,185,189,192,
+185,177,338,345,466,443,431,429,423,414]} 1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2
+a5 5. Bg2 O-O 6. Nf3 b6 7. O-O Bb7 8. Nc3 Bxc3 {E16: Queen's Indian: 4 g3 Bb7
+5 Bg2 Bb4+} 9. Bxc3 Be4 10. e3 $146 ({Predecessor:} 10. b3) 10... d6 {The
+position is equal.} 11. Qe2 Nbd7 12. Rfd1 Qb8 13. Bf1 Qb7 14. Ne1 d5 15. f3 Bg6
+16. Rac1 c6 17. g4 Ne8 (17... dxc4 $14 18. Qxc4 b5) 18. Ng2 $16 Nd6 19. cxd5
+exd5 20. Be1 Rfd8 21. Bg3 Nf8 22. Nf4 h6 23. e4 (23. Bg2 {keeps more tension.}
+Bh7 24. e4 a4 25. Re1 Nb5 26. exd5 Nxd4 27. Qc4) 23... dxe4 24. Nxg6 Nxg6 25.
+fxe4 Ne8 26. Bg2 Nf6 27. d5 cxd5 (27... Rac8 $16) 28. Rc7 $36 {[%mdl 2048]
+Keeping Black busy.} Qa6 29. Qxa6 Rxa6 30. exd5 Nxg4 $2 {[#]} (30... b5 {
+is a better defense.} 31. Bf3 b4) 31. d6 $1 {[%cal Rd6d7]} N4e5 32. d7 {
+White is clearly winning.} Kf8 33. Be4 b5 34. Rd5 {Accuracy: White = 73%,
+Black = 40%.} 1-0
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.09"]
+[Round "4.1"]
+[White "Ju, Wenjun"]
+[Black "Anton Guijarro, David"]
+[Result "1/2-1/2"]
+[ECO "C72"]
+[WhiteElo "2580"]
+[BlackElo "2643"]
+[Annotator "TA"]
+[PlyCount "74"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,74,29,29,37,17,24,7,12,2,0,9,4,0,0,0,0,0,0,-11,-13,-19,-14,-12,-13,
+-23,-12,-12,-8,-8,-16,-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,30,43,34,17,0,10,11,
+27,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bd7 6. d4 exd4 7.
+Nxd4 b5 8. Nxc6 Bxc6 9. Bb3 Nf6 10. Nc3 Be7 {C72: Ruy Lopez: Deferred Steinitz:
+5 0-0} 11. Re1 (11. f3 {keeps more tension.} O-O 12. Be3 Nd7 13. Nd5 Re8 14.
+Qd2) 11... O-O 12. Nd5 (12. a3 Re8 13. Qf3 a5 14. Bd2 Rb8 15. g4 {1-0 (58)
+Wang,H (2709)-Fressinet,L (2662) Riadh 2017}) 12... Nxd5 13. Bxd5 Qd7 14. c3
+Bf6 15. Bf4 Rfe8 16. Qd2 $146 ({Predecessor:} 16. Bg3 Rad8 17. h3 Bxd5 18. Qxd5
+c6 19. Qd3 Qe6 20. f3 g6 21. Kh1 Qe7 {1/2-1/2 (21) Habada,J (1915)-Ling,B 
+(2050) Ostrava 2007}) 16... Rab8 17. a3 a5 18. Rad1 Bxd5 19. exd5 Qf5 20. h3 h5
+21. Re3 Rxe3 22. Bxe3 g6 23. Qd3 Qxd3 24. Rxd3 $11 {[%mdl 4096] Endgame KRB-KRB
+} Kg7 25. f4 h4 26. Kf2 Kf8 27. Kf3 Ke7 28. Kg4 Rh8 29. f5 g5 30. Rd1 ({But not
+} 30. Bxg5 $2 Rg8 $19) 30... Rg8 31. Rf1 b4 32. axb4 axb4 33. cxb4 Bxb2 34. b5
+f6 35. Rb1 Be5 36. b6 cxb6 37. Rxb6 {[#] Black must now prevent Rb7+.} Rc8 {
+Accuracy: White = 76%, Black = 84%.} 1/2-1/2
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.09"]
+[Round "4.2"]
+[White "Bartel, Mateusz"]
+[Black "Michalik, Peter"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2600"]
+[BlackElo "2565"]
+[Annotator "ChessBase"]
+[PlyCount "97"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:00]} 3. Bb5 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 4. O-O {[%emt 0:
+00:00]} Nxe4 {[%emt 0:00:00]} 5. Re1 {[%emt 0:00:00]} Nd6 {[%emt 0:00:00]} 6.
+Nxe5 {[%emt 0:00:00]} Nxe5 {[%emt 0:00:13]} 7. Rxe5+ {[%emt 0:00:08]} Be7 {
+[%emt 0:00:05]} 8. Bf1 {[%emt 0:00:05]} O-O {[%emt 0:00:06]} 9. d4 {[%emt 0:00:
+05]} Bf6 {[%emt 0:00:17]} 10. Re1 {[%emt 0:00:05]} Re8 {[%emt 0:01:21]} 11.
+Rxe8+ {[%emt 0:00:08]} Nxe8 {[%emt 0:00:24]} 12. d5 {[%emt 0:00:05]} d6 {
+[%emt 0:03:10]} 13. Nd2 {[%emt 0:00:04]} Be7 {[%emt 0:02:07]} 14. Nc4 {[%emt 0:
+12:19]} Nf6 {[%emt 0:05:47]} 15. Bf4 {[%emt 0:00:20]} Bf5 {[%emt 0:02:29]} 16.
+Ne3 {[%emt 0:13:33]} Bg6 {[%emt 0:00:24]} 17. Be2 {[%emt 0:00:38]} Nd7 {
+[%emt 0:08:56]} 18. c3 {[%emt 0:03:13]} Nc5 {[%emt 0:03:54]} 19. g3 {[%emt 0:
+06:16]} a5 {[%emt 0:02:22]} 20. h4 {[%emt 0:01:28]} h6 {[%emt 0:00:05]} 21. Ng4
+{[%emt 0:04:11]} Qd7 {[%emt 0:04:20]} 22. Be3 {[%emt 0:03:56]} Ne4 {[%emt 0:14:
+05]} 23. a4 {[%emt 0:10:55]} Nf6 {[%emt 0:03:33]} 24. Bd4 {[%emt 0:09:05]} Nxg4
+{[%emt 0:10:50]} 25. Bxg4 {[%emt 0:00:00]} Bf5 {[%emt 0:00:04]} 26. Bxf5 {
+[%emt 0:00:32]} Qxf5 {[%emt 0:00:06]} 27. Qe2 {[%emt 0:00:04]} Qd7 {[%emt 0:08:
+07]} 28. Re1 {[%emt 0:01:55]} Bf8 {[%emt 0:00:06]} 29. b3 {[%emt 0:03:04]} c5 {
+[%emt 0:01:09]} 30. Be3 {[%emt 0:03:02]} Qf5 {[%emt 0:03:37]} 31. c4 {[%emt 0:
+00:28]} Re8 {[%emt 0:00:49]} 32. Kg2 {[%emt 0:00:06]} h5 {[%emt 0:05:42]} 33.
+Qf3 {[%emt 0:00:13]} Qxf3+ {[%emt 0:00:22]} 34. Kxf3 {[%emt 0:00:02]} b6 {
+[%emt 0:01:13]} 35. g4 {[%emt 0:04:05]} hxg4+ {[%emt 0:00:14]} 36. Kxg4 {
+[%emt 0:00:04]} Re4+ {[%emt 0:00:50]} 37. f4 {[%emt 0:00:32]} g6 {[%emt 0:05:
+20]} 38. h5 {[%emt 0:10:06]} Bg7 {[%emt 0:00:25]} 39. hxg6 {[%emt 0:10:18]}
+fxg6 {[%emt 0:00:17]} 40. Bf2 {[%emt 0:00:00]} Rxe1 {[%emt 0:00:00]} 41. Bxe1 {
+[%emt 0:00:16]} Bf6 {[%emt 0:07:08]} 42. f5 {[%emt 0:00:47]} gxf5+ {[%emt 0:00:
+44]} 43. Kxf5 {[%emt 0:00:09]} Kf7 {[%emt 0:00:02]} 44. Bg3 {[%emt 0:00:26]}
+Be7 {[%emt 0:00:03]} 45. Bf4 {[%emt 0:00:42]} Bf8 {[%emt 0:00:04]} 46. Bg5 {
+[%emt 0:00:19]} Bg7 {[%emt 0:00:05]} 47. Bd8 {[%emt 0:03:20]} Bc3 {[%emt 0:00:
+05]} 48. Bxb6 {[%emt 0:00:06]} Ke7 {[%emt 0:00:03]} 49. Ke4 {[%emt 0:00:31]}
+1/2-1/2
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.09"]
+[Round "4.3"]
+[White "Nguyen, Thai Dai Van"]
+[Black "Shirov, Alexei"]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[WhiteElo "2546"]
+[BlackElo "2667"]
+[Annotator "TA"]
+[PlyCount "115"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,115,32,45,0,0,0,0,0,10,26,7,6,0,0,0,0,20,23,38,29,27,12,28,21,28,21,
+27,25,20,0,0,0,0,0,-9,-56,-19,-25,-33,-16,0,0,0,0,0,0,53,56,58,58,55,53,75,75,
+75,75,75,75,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5.
+O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. c3 d6 9. d4 Bb6 10. a5 {C78: Ruy Lopez:
+Archangelsk and Möller Defences} Ba7 $1 11. h3 O-O 12. Be3 Ra8 13. Nbd2 h6 {[#]
+} 14. Qe2 $146 ({Predecessor:} 14. Re1 Re8 15. Qc2 exd4 16. Nxd4 Nxd4 17. cxd4
+c5 {1-0 (63) Saric,I (2689)-Maghsoodloo,P (2649) Batumi 2018}) 14... exd4 15.
+cxd4 Re8 16. Rfd1 Qe7 17. d5 Nb4 18. Bxa7 Rxa7 19. Nd4 Bd7 (19... Nxe4 $2 20.
+Nxe4 Qxe4 21. Qd2 $18) 20. Qe3 {[#] Black must now prevent Qc3.} c5 $1 {
+[%cal Rf6e4]} ({Avoid the trap} 20... Nxe4 $2 21. Re1 $18) 21. dxc6 Nxc6 22.
+Rdc1 Ne5 23. Nf1 {[%cal Bd2f1,Bf1g3,Bg3f5][%mdl 32]} Rb7 24. Ng3 Nc4 25. Bxc4
+bxc4 26. Ndf5 Bxf5 (26... Qe5 {feels hotter.} 27. Rxc4 d5 28. Rc5 Rxb2 29. Nd4
+Qb8) 27. Nxf5 Qe5 28. Rxc4 Rxb2 {...d5 is the strong threat.} ({Reject} 28...
+Nxe4 $6 {[#]} 29. Rxe4 $1 {[%mdl 512]} (29. Qxe4 Qxe4 30. Rxe4 Rxe4 $16) 29...
+Qxe4 30. Qxe4 $16 (30. Nxd6 Qxe3 31. fxe3 Reb8 $14)) 29. Qg3 $36 {[%mdl 2048]
+White fights for an advantage.} Qxg3 30. Nxg3 Re5 31. Rd4 Rbb5 (31... Ne8 $11)
+32. Rxd6 $14 Rxa5 33. Rxa5 Rxa5 {[%mdl 4096] Endgame KRN-KRN} 34. f3 Nh5 35.
+Nxh5 Rxh5 36. Rxa6 $16 {KR-KR} Rb5 37. h4 g6 38. g4 Rb2 39. Ra5 Kg7 40. Rd5 Kf6
+41. h5 g5 42. Rd6+ Kg7 43. Kf1 Ra2 44. Ke1 (44. Rb6 {is more complex.} Rc2 45.
+Ra6 Rb2 46. Ra7 Rb3 47. Kf2) 44... Rb2 45. Rd2 (45. Ra6 $16) 45... Rxd2 $1 $11
+{The position is equal.} 46. Kxd2 {KP-KP} Kf6 47. Kd3 Ke5 48. Ke3 f6 49. Ke2
+Kf4 50. Kf2 Ke5 51. Ke3 Ke6 52. f4 gxf4+ 53. Kxf4 {K3P-KPP} Ke7 $1 54. e5 {
+Hoping for Kf5.} Ke6 55. exf6 Kxf6 56. g5+ hxg5+ 57. Kg4 Kg7 58. Kxg5 {
+Accuracy: White = 71%, Black = 71%.} 1/2-1/2
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.09"]
+[Round "4.4"]
+[White "Stocek, Jiri"]
+[Black "Krejci, Jan"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[WhiteElo "2592"]
+[BlackElo "2570"]
+[Annotator "TA"]
+[PlyCount "62"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 24,62,0,0,13,15,10,20,47,38,45,48,82,38,43,0,0,-20,0,0,21,0,0,0,0,0,7,0,
+34,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Bg5 Bb7 5. Nc3 Bb4
+6. e3 h6 7. Bh4 g5 8. Bg3 Ne4 9. Nd2 Bxc3 10. bxc3 Nxg3 11. hxg3 d6 {E13:
+Queen's Indian/Nimzo-Indian hybrid: 4 Nc3 Bb7 5 Bg5 h6 6 Bh4 Bb4} 12. Rh2 (12.
+a4 Nd7 13. a5 Nf6 14. f3 h5 15. Bd3 g4 16. e4 gxf3 17. gxf3 Ke7 18. Rh4 Qg8 19.
+Nf1 {1-0 (82) Bareev,E (2643)-Bologan,V (2692) Moscow 2010}) 12... Nd7 13. Be2
+{[#] LiveBook: 4 Games} c5 $146 ({Predecessor:} 13... Qf6 14. Qa4 a6 15. Bf3
+O-O-O 16. Qc2 h5 17. Ke2 Bxf3+ 18. Nxf3 g4 19. Nd2 {1/2-1/2 (26) Summerscale,A
+(2509)-Speelman,J (2583) Torquay 2002}) 14. Bf3 Qc7 15. a4 a5 16. Rb1 O-O-O 17.
+Bxb7+ Qxb7 18. Qf3 f5 19. Ke2 Nf6 20. Qxb7+ (20. Rbh1 {looks sharper.} d5 21.
+Rxh6 Rxh6 22. Rxh6 Qg7 23. Rh1) 20... Kxb7 21. f3 Kc6 22. e4 fxe4 23. Nxe4 Nxe4
+24. fxe4 $11 {[%mdl 4096] Endgame KRR-KRR} Rdf8 25. Rhh1 Rf6 26. Rhf1 Rhf8 $1 {
+The position is equal.} 27. Rxf6 Rxf6 28. Ke3 e5 29. d5+ Kc7 30. g4 Rf4 31. g3
+Rf6 {Precision: White = 54%, Black = 51%.} ({Avoid the trap} 31... Rxg4 $2 32.
+Kf3 $18) 1/2-1/2
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.09"]
+[Round "4.5"]
+[White "Paravyan, David"]
+[Black "Praggnanandhaa R"]
+[Result "1/2-1/2"]
+[ECO "A21"]
+[WhiteElo "2627"]
+[BlackElo "2532"]
+[Annotator "TA"]
+[PlyCount "89"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,89,22,21,19,23,18,9,21,18,16,21,-2,10,-10,27,2,41,33,46,0,16,0,91,-38,
+-43,-51,-58,-39,0,-20,0,-4,0,-9,89,0,143,-66,16,-39,-48,-39,-56,-56,-54,-106,0,
+0,0,0,0,-32,0,0,0,0,0,0,0,0,0,0,0,0,0,-186,-194,-201,-111,-100,-72,-100,-44,
+-49,-31,-46,0,0,0,-29,0,0]} 1. c4 e5 2. Nc3 Bb4 3. Nd5 Bc5 4. b4 Bf8 5. Bb2 c6
+6. Ne3 {A21: English Opening: 1...e5 2 Nc3} d6 7. g3 Nf6 8. Bg2 Ng4 $146 ({
+Predecessor:} 8... Be7 9. Nf3 O-O 10. O-O Ng4 11. Qb3 a5 12. Nxg4 Bxg4 13. bxa5
+{1-0 (35) Azmaiparashvili,Z (2610)-Kurajica,B (2585) San Sebastian 1992}) 9.
+Nxg4 Bxg4 10. d4 Nd7 11. h3 Bh5 12. Nf3 a5 13. b5 {[%cal Rd4e5]} cxb5 14. dxe5
+dxe5 15. O-O bxc4 (15... f6 $1 $11) 16. Qd5 (16. g4 $16 e4 17. gxh5 exf3 18.
+exf3) 16... f6 $1 $15 {aiming for ...Bf7.} 17. Qxc4 Bf7 $36 {[%mdl 2048] Black
+has the initiative.} 18. Qe4 Nc5 19. Qe3 $1 Be7 20. Rfd1 Qc8 21. Rac1 Ra6 (
+21... O-O $11) 22. g4 (22. Ba3 $16 b6 23. Nxe5 fxe5 24. Qxe5) 22... b6 {[#]} (
+22... Bxa2 $11 23. Bxe5 fxe5 24. Qxe5 Be6 25. Qxg7 Rf8) 23. g5 $2 (23. Nxe5 $1
+$16 {[%mdl 512]} fxe5 24. Qxe5) 23... Qe6 (23... Ra7 $15) 24. Kh1 (24. Nh4 $11)
+24... Ra7 (24... Qxa2 $2 {[#]} 25. Nxe5 $1 {[%mdl 512]} Rg8 26. gxf6 $18) 25.
+gxf6 gxf6 26. Nh4 Rd7 27. f4 (27. Qf3 $15 Rxd1+ 28. Rxd1) 27... Rxd1+ (27...
+Qxa2 28. Rxd7 Nxd7 29. fxe5 $14) (27... e4 $17 28. Bd4 Rg8 29. Bxc5 Bxc5 30.
+Qxe4 Qxe4 31. Bxe4 Rxd1+ 32. Rxd1 Bxa2) 28. Rxd1 $11 {Threatens to win with f5.
+} e4 {And now ...Rg8 would win.} ({Don't go for} 28... Qxa2 $2 29. Bc6+ Kf8 30.
+fxe5 $18) 29. f5 $1 {[%cal Rf5e6]} Qxa2 30. Qf4 {Qb8+ would kill now.} Bb3 ({
+Don't play} 30... O-O $6 31. Rg1 $14) 31. Qb8+ {[%mdl 64] Double Attack} Kf7
+32. Qxh8 Bxd1 33. Qxh7+ Ke8 34. Ng6 {[%csl Gg6][%cal Rh7e7]} Qf7 35. Qh8+ Kd7
+36. Qb8 {Strongly threatening Ba3.} Bd8 37. Qa7+ $2 (37. Ba3 $11 Qd5 38. Nf8+
+Ke7 39. Ne6) 37... Ke8 $19 38. Qa8 Qb7 (38... Bc2 $19 39. h4 Qb7 40. Qxb7 Nxb7)
+39. Qxb7 $17 Nxb7 40. Bxe4 Nd6 ({Better is} 40... Nc5 $17 41. Bc6+ Kf7) 41.
+Bc6+ $15 Kf7 42. Bd5+ Ke8 43. Bc6+ Kf7 44. Bd5+ $1 Ke8 45. Bc6+ {Accuracy:
+White = 48%, Black = 33%.} 1/2-1/2
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.10"]
+[Round "5.1"]
+[White "Praggnanandhaa, R."]
+[Black "Ju, Wenjun"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2532"]
+[BlackElo "2580"]
+[Annotator "TA"]
+[PlyCount "113"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,113,12,6,5,20,17,27,6,15,6,6,13,20,8,10,15,39,32,37,28,35,37,35,41,
+61,58,60,60,62,68,64,63,69,56,54,54,49,50,70,72,83,60,60,60,54,57,78,73,91,89,
+91,90,102,102,110,102,100,99,93,100,92,97,204,196,206,224,199,146,195,162,196,
+196,196,196,196,196,196,196,275,274,273,291,297,290,313,313,375,362,377,344,
+313,310,302,301,29980,29980,29980,29981,29988,29984,29980,29981]} 1. e4 e5 2.
+Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O 8. Qd2 {
+C42: Petroff Defence: 3 Nxe5 and unusual White 3rd moves} Nd7 9. O-O-O c6 10.
+Kb1 {White has an edge.} Re8 (10... d5 11. Bd3 Nc5 12. h4 Nxd3 13. Qxd3 Qd6 14.
+c4 Rd8 15. cxd5 Qxd5 16. Qxd5 cxd5 17. Nd4 Bd7 18. Nb3 Bf5 19. Nd4 Bd7 20. Nb3
+Bf5 21. Nd4 {1/2-1/2 (21) Aronian,L (2765)-Caruana,F (2832) London 2018}) 11.
+Bd3 d5 12. h4 Bc5 13. Bf4 Nf6 14. Rde1 Ne4 $146 ({Predecessor:} 14... Rxe1+ 15.
+Rxe1 Bd7 {1/2-1/2 (36) Cvak,R (2292)-Istomin,A (2157) ICCF email 2017}) 15.
+Bxe4 $1 dxe4 16. Rxe4 Be6 {[#] ...Bxa2+! is the strong threat.} 17. Qxd8 Raxd8
+18. Be3 Bf8 {aiming for ...Bxa2+!} 19. b3 c5 20. Bf4 f6 21. Rhe1 Kf7 22. c4 Bd7
+23. Rxe8 (23. Nd2 {is interesting.} Be7 24. R4e2 Bc6 25. f3 Rd4 26. Ne4) 23...
+Bxe8 24. Kc1 Bc6 25. Re3 h5 26. Ne1 Kg6 27. Bc7 Rc8 28. Bg3 Kf5 29. f3 g6 30.
+Kd1 b6 31. Nd3 Rd8 32. Ke2 g5 33. Kf2 Be8 34. hxg5 fxg5 35. Re5+ Kf6 36. Rd5
+Be7 37. f4 Ke6 (37... Rxd5 $16 {is a better defense.} 38. cxd5 Kf5) 38. Re5+
+$18 ({Don't take} 38. fxg5 $6 Rxd5 39. Nf4+ (39. cxd5+ Kxd5 40. g6 Ke6 $14)
+39... Kd7 $16) 38... Kd7 39. fxg5 Bg6 40. Rd5+ (40. Kg1 $18) 40... Kc8 41.
+Rxd8+ Bxd8 {[%mdl 4096] Endgame KBB-KBN} 42. Bf4 h4 43. Kf3 Bf5 44. g3 hxg3 45.
+Kxg3 Kd7 (45... Bg6 $142 46. Kg4 a6) 46. Kh4 Ke8 47. Kh5 Kf8 48. Kh6 Kg8 49.
+Bd6 Kf7 50. Nf4 Bxc2 51. g6+ Kg8 52. Nd5 Be4 53. Bf4 Bxd5 $2 {[#]} (53... b5
+$18 54. Nc3 Bd3 55. Nxb5 Bf6 56. Nxa7 Bb1) 54. cxd5 {White mates.} Bf6 55. d6
+Kf8 56. d7 Ke7 57. Bg5 {Accuracy: White = 82%, Black = 47%.} 1-0
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.10"]
+[Round "5.2"]
+[White "Michalik, Peter"]
+[Black "Stocek, Jiri"]
+[Result "1/2-1/2"]
+[ECO "E16"]
+[WhiteElo "2565"]
+[BlackElo "2592"]
+[Annotator "TA"]
+[PlyCount "102"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,101,31,26,14,21,0,0,0,0,0,0,-25,-24,-19,-25,0,25,25,22,35,24,3,7,6,
+17,8,36,0,19,-91,-104,-120,-53,-70,-69,-118,-119,-82,0,0,0,0,0,-17,-25,-11,-17,
+-17,-10,-95,-87,-304,-291,-263,-51,-54,-55,-54,-54,-54,-65,-58,-18,-10,-16,-50,
+-25,-56,-46,-62,-11,-22,-10,-48,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. Nf3 e6
+3. c4 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2 a5 7. O-O O-O 8. Bf4 Be7 9. Nc3 Ne4 10.
+Nb5 {E16: Queen's Indian: 4 g3 Bb7 5 Bg2 Bb4+} (10. Qd3 Nxc3 11. bxc3 Qc8 12.
+e4 d6 13. Rfe1 a4 14. Rad1 Ra5 15. h4 Nd7 16. Nd2 Rd8 17. Nf1 h6 {0-1 (72)
+Sargissian,G (2689)-Predke,A (2622) St Petersburg 2018}) 10... c6 11. Nc3 Nxc3
+12. bxc3 d5 13. Nd2 Nd7 {[#]} 14. Re1 $146 ({Predecessor:} 14. Rb1 a4 15. cxd5
+cxd5 16. c4 g5 17. Be3 f5 18. cxd5 {1-0 (38) Bocharov,D (2576)-Samojlov,A 
+(2329) Sochi 2017}) 14... g5 15. Be3 f5 16. f3 Qe8 17. Bf2 Qf7 18. e4 Rae8 19.
+e5 Rc8 20. Rb1 Rc7 21. f4 Qe8 22. Nf1 dxc4 23. Ne3 {[#]} (23. Qa4 $11) 23... b5
+$1 $17 24. a4 Nb6 (24... gxf4 $17 25. gxf4 Nb6) 25. axb5 $15 cxb5 {Threatens
+to win with ...gxf4.} 26. d5 gxf4 {[#]} 27. Nxf5 $1 {[%mdl 512] Black must now
+prevent Qg4+.} Rxf5 (27... Nxd5 $17 28. Bxd5 Bxd5 29. Qg4+ {[%mdl 64] Double
+Attack} Qg6 30. Qxg6+ hxg6 31. Nxe7+ Rxe7) (27... exf5 28. Bxb6) 28. Bxb6 $11
+Bc5+ 29. Bxc5 Rxc5 30. Qd4 Rxd5 31. Bxd5 Bxd5 32. Rf1 $1 {[%cal Rf1f4]} f3 33.
+Qg4+ (33. Qc5 $11 {keeps the balance.}) 33... Kh8 $17 34. Rbd1 $2 (34. Qd4 $17)
+34... Qf7 $19 {Strongly threatening ...f2+.} ({Don't blunder} 34... Rxe5 $2 35.
+Qd4 $18) 35. Rf2 Rxe5 $2 (35... b4 $19 {aiming for ...b3.} 36. Qh4 Qf8) 36. Qd4
+$1 $15 {[%cal Rd4e5]} Qf6 $1 37. Qb6 {[#]} b4 $1 38. cxb4 axb4 39. Qxb4 Re2 40.
+Qb6 Kg7 41. Rdf1 {And now Rxe2 would win.} Re5 42. Qc7+ Kg6 43. Qc8 h5 (43...
+Re3 $15) 44. h4 $11 Kh6 45. Kh2 Re4 46. Rxf3 {The position is equal.} Re2+ 47.
+Kh3 $1 Bxf3 {[#]} 48. Rxf3 $1 {[%mdl 512]} Qxf3 {[%cal Rf3h1]} 49. Qh8+ Kg6 {
+[%cal Rf3h1]} 50. Qh7+ Kf6 51. Qf7+ Kxf7 {Accuracy: White = 47%, Black = 52%.}
+1/2-1/2
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.10"]
+[Round "5.3"]
+[White "Krejci, Jan"]
+[Black "Nguyen, Thai Dai Van"]
+[Result "1-0"]
+[ECO "A22"]
+[WhiteElo "2570"]
+[BlackElo "2546"]
+[Annotator "TA"]
+[PlyCount "71"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 26,71,0,0,3,-24,-17,-2,-19,-21,0,0,20,20,33,27,56,42,52,38,39,43,69,51,
+121,110,97,40,50,37,197,166,311,310,311,102,593,593,596,577,699,692,691,691,
+691,691,599,591]} 1. c4 Nf6 2. Nc3 e5 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nb6 6. d3
+Be7 7. Be3 O-O 8. Rc1 Re8 9. Nf3 Nc6 10. O-O Bf8 11. Ne4 Nd4 {A29: English
+Opening: Four Knights Variation with 4 g3} 12. Nxd4 (12. Qd2 a5 13. Nc5 Nxf3+
+14. Bxf3 Nd5 15. a3 b6 16. Na4 Bb7 17. Rfe1 Rb8 18. Bg2 Qd7 19. Nc3 Nxe3 20.
+Qxe3 {1/2-1/2 (32) Anand,V (2803)-Adams,M (2744) London 2015 CBM 170 [CB]})
+12... exd4 13. Bg5 f6 14. Bd2 {LiveBook: 3 Games} Be6 {[#]} 15. a4 $146 ({
+Predecessor:} 15. Qc2 c6 16. b4 Bd5 17. Rfe1 f5 18. Nc5 Bxg2 19. Kxg2 {1/2-1/2
+(29) Wunderlich,H (2622)-Zhak,B (2605) ICCF email 2015}) 15... Nd5 16. Nc5 Bxc5
+$1 17. Rxc5 c6 18. b4 Rc8 19. Qa1 $36 {[%mdl 2048] White is pushing.} b6 20.
+Rc2 c5 21. bxc5 bxc5 22. Rfc1 Qd6 23. a5 {[%cal Ba4a5,Ba5a6][%mdl 32]} Nb4 24.
+Rb2 Bg4 ({Better is} 24... g5 $14) 25. h3 $16 Bf5 26. Bf4 ({White should try} 
+26. Bb7 $16 Rcd8 27. a6) 26... Qd7 $14 27. g4 Bg6 $2 {[#]} (27... Be6 $14) 28.
+a6 $1 $18 Re6 (28... Bxd3 $142 29. Bb7 (29. exd3 Nxd3 30. Rb7 Qe6 $14) 29...
+Bxe2) 29. Bb7 Rce8 30. Qa5 $2 (30. Rxc5 $18 Nxd3 {[#]} 31. Bc8 $1 {[%mdl 512]}
+Nxc5 32. Bxd7 Nxd7 33. Rb7) 30... Rxe2 $2 {[%mdl 8192]} (30... Rb6 $16) 31.
+Rxe2 {White is clearly winning.} Rxe2 32. Qxc5 Nxd3 33. Bd5+ Bf7 34. Qc8+ Qe8
+35. Bxf7+ Kxf7 36. Qc4+ {Precision: White = 58%, Black = 28%.} 1-0
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.10"]
+[Round "5.4"]
+[White "Anton Guijarro, David"]
+[Black "Bartel, Mateusz"]
+[Result "1-0"]
+[ECO "A21"]
+[WhiteElo "2643"]
+[BlackElo "2600"]
+[Annotator "TA"]
+[PlyCount "119"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,119,19,17,14,19,20,29,29,29,28,59,50,89,85,95,90,78,86,93,82,105,76,
+137,115,136,127,147,152,143,147,186,189,195,192,195,189,197,207,302,231,220,
+218,247,247,246,247,254,249,295,272,303,288,361,258,264,208,346,324,312,300,
+355,337,314,166,199,199,199,208,332,332,397,382,372,364,493,490,479,438,509,
+519,515,503,504,472,422,401,627,601,678,647,790,791,773,758,741,728,689,608,
+593,586,563,530,1338,1268,1297,1295,1171,1008,1877,1710,1396,1361]} 1. c4 e5 2.
+Nc3 Bb4 3. Nd5 a5 4. a3 Be7 5. d4 d6 6. Nf3 {A21: English Opening: 1...e5 2 Nc3
+} (6. e4 Nf6 7. Nxe7 Qxe7 8. f3 Nfd7 9. Ne2 O-O 10. d5 Nc5 11. Be3 f5 12. Nc3
+fxe4 13. Bxc5 dxc5 14. Nxe4 {1/2-1/2 (35) Matlakov,M (2700)-Yu,Y (2764) Caleta
+2019}) 6... e4 7. Nd2 c6 8. Nxe7 {White has an edge.} Qxe7 9. Nb1 h6 $146 ({
+Predecessor:} 9... f5 10. Nc3 Nf6 11. Bg5 Be6 12. e3 O-O 13. Be2 {1-0 (13) Liu,
+Z (2300)-Dinev,D (2240) Novi Sad 2019}) 10. Bf4 Nf6 11. e3 O-O 12. Nc3 Rd8 13.
+Be2 Nbd7 14. b4 Nf8 15. c5 d5 (15... Ne8 $142) 16. b5 Ng6 17. Bg3 Bf5 18. bxc6
+bxc6 19. Rb1 h5 20. Bxh5 Nxh5 21. Qxh5 Bc8 22. Rb6 Ra6 {White should prevent ..
+.Rxb6.} 23. Rb8 Bb7 (23... Ra7 $142 24. O-O Ba6) 24. Rxd8+ Qxd8 25. O-O Ra8 26.
+Rb1 Ba6 27. Rb6 Qd7 28. h3 Nf8 29. Qg4 Ne6 30. Be5 Bc8 31. Qg3 Kh7 32. Bd6 Bb7
+(32... Qe8 {was worth a try.} 33. Ne2 f6 34. Qh4+ Kg8) 33. Qh4+ Kg8 34. Qe7 Bc8
+35. Qxd7 Bxd7 36. a4 (36. Rb7 $142 Bc8 37. Rb6) 36... Nd8 37. Rb8 Rxb8 38. Bxb8
+$18 {[%mdl 4096] Endgame KBN-KBN} Bc8 (38... Ne6 $142 39. Ba7 Bc8) 39. Bc7 Nb7
+40. Na2 Kf8 41. Nc1 Ke7 42. Nb3 Kd7 43. Bb6 Nd8 44. Bxd8 Kxd8 45. Nxa5 {KB-KN}
+Kc7 {If Black can now play ...Ba6 this consolidates a bit.} 46. Nb3 Ba6 47. Nd2
+Bd3 (47... Be2 $142 48. f3 exf3 49. Nxf3 (49. gxf3 Bd1 $16) 49... f6) 48. Nf1 {
+White is clearly winning.} Bc2 49. a5 Kb7 50. Ng3 g6 51. h4 Bd1 52. h5 gxh5 53.
+Nf5 Ka6 54. Nh6 f6 55. Ng8 Kxa5 56. Nxf6 Kb4 57. Nd7 Kc3 58. Ne5 Ba4 59. f4
+exf3 60. gxf3 {Accuracy: White = 84%, Black = 24%.} 1-0
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.10"]
+[Round "5.5"]
+[White "Shirov, Alexei"]
+[Black "Paravyan, David"]
+[Result "1-0"]
+[ECO "C48"]
+[WhiteElo "2667"]
+[BlackElo "2627"]
+[Annotator "TA"]
+[PlyCount "128"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,10,17,0,0,0,0,0,0,0,0,0,
+4,0,11,7,11,24,106,106,110,104,110,110,110,110,108,108,91,96,110,75,85,0,113,0,
+79,98,116,121,127,134,175,158,131,160,150,129,142,89,77,53,58,51,31,14,14,14,
+14,12,25,39,116,125,125,114,148,145,145,117,132,144,529,524,509,489,494,500,
+347,347,408,0,642,635,627,627,620,620,568,587,461,443,1895,1303,7225,6588,6516,
+5462,1306]} 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Bc4 Bc5 6. d3 d6 7.
+Na4 {C48: Four Knights: 4 Bb5, replies other than 4...Bb4} b5 8. Nxd4 bxc4 ({
+Reject} 8... Bxd4 9. Bxb5+ Bd7 10. Bxd7+ Qxd7 11. c3 $14) 9. Nf5 {The position
+is equal.} Bxf5 $1 10. exf5 cxd3 11. Nxc5 dxc5 12. Qxd3 (12. cxd3 Qd7 13. Qf3
+O-O 14. Bg5 Rab8 {1/2-1/2 (30) Kovalev,V (2664)-Ragger,M (2686) Batumi 2018})
+12... Qxd3 $146 ({Predecessor:} 12... O-O 13. Be3 Qc8 14. O-O-O e4 {1-0 (45)
+Baenziger,F (2379)-Kranz,A (2054) Austria 2018}) 13. cxd3 O-O-O 14. Ke2 Nd5 15.
+Rd1 Rhe8 16. g3 Rd6 17. Bd2 e4 18. dxe4 Rxe4+ 19. Kf3 Rd4 20. Be1 Nf6 21. Rxd4
+cxd4 $11 {[%mdl 4096] Endgame KRB-KRN} 22. Rc1 Kb7 23. Bb4 Rb6 24. Bf8 Ne8 (
+24... g6 $11) 25. b3 $16 h5 26. h3 Ra6 27. Rc2 Ra5 28. g4 Rd5 29. Re2 hxg4+ 30.
+hxg4 Rd8 31. Be7 Rd7 32. Bf8 Rd8 33. Be7 Rd7 $1 {White must now prevent ...d3.}
+34. Bc5 Nf6 35. Rd2 d3 36. g5 Ne8 37. Ke4 Kc6 38. b4 ({But not} 38. Bxa7 $6 Rd5
+$14) 38... Nd6+ 39. Bxd6 $1 cxd6 40. Rxd3 {KR-KR} (40. Kxd3 $142 Re7 41. f4)
+40... Re7+ 41. Kd4 {Threatens to win with Rc3+.} Re5 $1 42. Rf3 a5 43. a3 axb4
+44. axb4 Rb5 45. Kc4 g6 46. Kb3 gxf5 (46... Re5 $14) 47. Rc3+ Kb6 48. Kc4 $1 {
+Strongly threatening Rd3.} Kc6 49. Ra3 d5+ 50. Kb3 $1 {And now Ra7 would win.}
+Kd6 51. Ra7 Ke5 $2 {[%mdl 8192]} (51... Ke6 $16) 52. Rxf7 $18 Rb6 53. Rf6 $1 {
+[%cal Rf6b6]} Rb7 54. Rc6 $1 d4 {[#]} 55. g6 $1 d3 {[#]} 56. Rc1 $2 (56. Rc5+
+$1 $18 Ke6 57. Rc1) 56... Kf6 $2 {[%mdl 8192]} (56... Ke4 $11 57. Kc3 Rg7) 57.
+Rg1 {White is clearly winning.} d2 58. Kc3 Kg7 59. Rb1 Kxg6 60. Kxd2 Kf6 61. b5
+{[%cal Bb4b5,Bb5b6][%mdl 32]} Ke5 (61... Rb6 $142 62. Kc3 Ke5) 62. b6 Kd4 63.
+Ke2 Kc5 64. Kf3 Kd5 {Accuracy: White = 87%, Black = 53%.} 1-0
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.11"]
+[Round "6.1"]
+[White "Nguyen, Thai Dai Van"]
+[Black "Michalik, Peter"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[WhiteElo "2546"]
+[BlackElo "2565"]
+[Annotator "TA"]
+[PlyCount "66"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,66,14,18,18,12,14,21,8,8,10,11,12,7,12,14,14,6,18,18,15,18,18,10,16,
+10,8,12,6,11,9,0,22,22,22,20,31,2,35,25,37,36,46,0,0,0,27,34,31,0,15,8,8,8,16,
+8,21]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O d6 6. c3 O-O 7. Nbd2 a6
+{C65: Ruy Lopez: Berlin Defence (3...Nf6), unusual lines and 4 0-0 Bc5} 8. Bxc6
+bxc6 9. d4 exd4 10. cxd4 Bb6 11. Qc2 Re8 12. Re1 c5 13. d5 Bg4 14. b3 Ba5 {
+[#] Strongly threatening ...Bxf3.} 15. Re3 Bxf3 16. Nxf3 Qe7 {[%cal Rf6e4]} 17.
+Bd2 Bxd2 18. Nxd2 Ng4 {[#] ...Qe5 is the strong threat.} 19. Ree1 Qf6 20. Nc4
+a5 {[#]} 21. Rad1 $146 ({Predecessor:} 21. Rac1 a4 22. bxa4 {1/2-1/2 (22)
+Turkov,V (2529)-Olofsson,D (2550) ICCF email 2016}) 21... Qh4 22. h3 Ne5 23.
+Re3 g6 24. Rf1 Qf4 25. Nb2 f5 26. exf5 Qxf5 27. Qxf5 (27. Qe2 {seems wilder.}
+Rf8 28. f4 Nd7 29. Na4 Nb6 30. Nxb6 cxb6 31. Qc4) 27... gxf5 28. Rfe1 {Hoping
+for f4.} f4 29. Re4 Rf8 $1 30. Nc4 Nd3 {The position is equal.} 31. Rd1 Nb4 32.
+Re7 Rf7 33. Re2 $1 f3 {Accuracy: White = 68%, Black = 73%.} 1/2-1/2
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.11"]
+[Round "6.2"]
+[White "Ju, Wenjun"]
+[Black "Bartel, Mateusz"]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[WhiteElo "2580"]
+[BlackElo "2600"]
+[Annotator "TA"]
+[PlyCount "69"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,69,16,18,12,12,21,10,36,41,41,31,35,21,16,8,9,0,9,9,48,18,47,49,47,
+46,49,17,11,17,91,51,51,51,48,50,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 e5 2.
+Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d3 Be7 8. a4 O-O 9. Nc3
+Na5 10. axb5 Nxb3 11. cxb3 axb5 {C84: Closed Ruy Lopez: Unusual White 6th moves
+} 12. Rxa8 Bxa8 13. Nxb5 c5 14. Nc3 d6 15. Bg5 {[#]} Nh5 $146 ({Predecessor:} 
+15... h6 16. Bxf6 Bxf6 {1/2-1/2 (70) Edouard,R (2565)-Fedorchuk,S (2635) Paris
+2009}) 16. Bxe7 Qxe7 17. Nd2 Nf4 18. Nc4 d5 19. Nb6 $36 {[%mdl 2048] White
+fights for an advantage.} d4 20. Ne2 Ne6 21. Nc4 Qc7 22. Qd2 Rb8 23. f4 exf4
+24. Nxf4 Bc6 (24... Nxf4 $11 {remains equal.} 25. Qxf4 (25. Rxf4 Bc6 $11) 25...
+Qxf4 26. Rxf4 g6) 25. Nxe6 fxe6 26. Qg5 Be8 $1 27. Ra1 h6 28. Qg3 (28. Qg4 {
+is interesting.} Qe7 29. Ra3 Bb5 30. Ne5 Qd6 31. Qf4) 28... Qxg3 {The position
+is equal.} 29. hxg3 $11 {[%mdl 4096] Endgame KRB-KRN} Kf8 30. Ra3 Bb5 31. Ne5
+Ke7 $1 32. Ra7+ Kd6 33. Nf7+ Kc6 34. Ne5+ {[%mdl 64] [#] Discovered Attack} Kd6
+35. Nf7+ {Accuracy: White = 74%, Black = 67%.} 1/2-1/2
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.11"]
+[Round "6.3"]
+[White "Stocek, Jiri"]
+[Black "Anton Guijarro, David"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[WhiteElo "2592"]
+[BlackElo "2643"]
+[Annotator "TA"]
+[PlyCount "122"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,121,0,0,0,-12,0,0,-13,0,-29,-29,-36,-31,-28,-19,-12,-20,-13,-20,-41,
+-43,-59,-56,-47,-41,-54,-48,-47,-41,-60,-6,-4,-7,-7,0,-7,-10,0,-20,-13,0,-78,
+-78,-147,-39,-46,-47,-45,-44,-52,-51,-51,-41,-83,-80,-82,-46,-52,-50,-58,-25,
+-34,-30,-30,-29,-30,-30,-50,-53,-58,-50,-52,-29,-66,-27,-27,-27,-27,-27,-27,
+-27,-27,-27,-32,-25,-28,-19,-22,-20,-19,-17,-25,-12,-12,-12,-14,-22,-23,0,0,0,
+0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Nc3 dxc4 6. Bg2
+O-O 7. O-O Nc6 8. Qa4 {E20: Nimzo-Indian: 4 g3 and 4 f3} Nd5 9. Qc2 Be7 10. Rd1
+f5 (10... Ncb4 11. Qd2 c5 12. dxc5 Nxc3 13. bxc3 Nc6 14. Qc2 Qa5 15. Ng5 Bxg5
+16. Bxg5 Qxc5 {1/2-1/2 (44) Cheparinov,I (2709)-Gelfand,B (2673) St Petersburg
+2018}) 11. b3 $146 ({Predecessor:} 11. Qa4 Nb6 12. Qc2 Bf6 13. h4 Nb4 14. Qb1
+Qe7 15. Bf4 N4d5 16. Be5 Nxc3 17. bxc3 Nd5 18. Qb2 a6 19. a4 Bd7 {0-1 (18)
+Kolehmainen,K-Elmeranta,M Finland 1994}) 11... Ncb4 12. Qb2 cxb3 13. Qxb3 Nxc3
+14. Qxc3 Nd5 15. Qb3 b6 16. Bb2 Bb7 17. Rac1 Bd6 18. Nd2 a5 19. a4 f4 20. Nc4
+Qf6 21. Rf1 Qg5 ({Black should try} 21... Bb4 $15) 22. Nxd6 $11 cxd6 23. Ba3
+Rad8 24. e4 fxe3 25. fxe3 Rxf1+ 26. Rxf1 h5 27. Rf2 (27. Bh3 $11 Qg6 28. Qb1)
+27... Rc8 $36 {[%mdl 2048] Hoping for ...Rc3. Black is on the roll.} 28. e4 {
+[#]} (28. Bb2 $142) 28... Qe3 (28... Rc3 $1 $17 {[%cal Rc3b3]} 29. Qb2 Qe3 30.
+exd5 Rxa3 31. dxe6 Bxg2 32. Kxg2 Qe4+ 33. Kg1 Re3) 29. Qxe3 $15 Nxe3 30. Bh3
+Ng4 31. d5 exd5 32. exd5 Bxd5 {...Rc3 is the strong threat.} 33. Rd2 Rc3 34.
+Bxg4 {Black must now prevent Bb2.} hxg4 35. Bxd6 $17 {[%mdl 4096] Endgame
+KRB-KRB} Bf3 36. Be5 Ra3 37. Rd4 Ra1+ 38. Kf2 {Strongly threatening Rd8+.} Ra2+
+39. Ke3 Rxh2 40. Bc7 Rb2 41. Kf4 Kf7 42. Kf5 g6+ 43. Kg5 Bc6 44. Rxg4 b5 45.
+Rf4+ Ke7 46. Bxa5 bxa4 47. Bb4+ Ke6 48. Kxg6 Rb3 {aiming for ...a3.} 49. g4 $1
+Ke5 50. Rf5+ Kd4 51. Bc5+ Kc4 {And now ...Be4 would win.} 52. Re5 a3 53. Bxa3
+$1 Rxa3 $11 {KRB-KR} 54. g5 Kd4 55. Kf6 Be4 {[#]} 56. Rxe4+ $1 {[%mdl 576]
+Remove Defender. The position is equal.} Kxe4 {KR-KP} 57. g6 Ra6+ 58. Kf7 Kf5 {
+( -> ...Ra7+)} 59. g7 Ra7+ 60. Kg8 Kg6 {[%cal Ra7a8]} 61. Kh8 Rxg7 {Accuracy:
+White = 74%, Black = 69%.} 1/2-1/2
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.11"]
+[Round "6.4"]
+[White "Paravyan, David"]
+[Black "Krejci, Jan"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[WhiteElo "2627"]
+[BlackElo "2570"]
+[Annotator "TA"]
+[PlyCount "120"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,120,13,23,17,27,14,21,25,29,31,30,22,28,14,25,10,27,27,22,17,9,6,6,0,
+30,25,41,21,35,-59,-29,-29,-29,-29,-36,-42,-36,-35,-31,-37,-38,-108,8,25,17,
+-94,24,0,0,0,0,-196,-195,-194,-195,-194,-194,-194,-179,-211,-217,-361,-31,-21,
+0,0,0,-22,-22,-23,-23,-37,-37,-37,-37,-53,-52,-52,-53,-55,-55,-79,-63,-63,-63,
+-63,-63,-63,-63,-70,-36,-44,-8,-64,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,
+-8,-8,-8]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 a6 7. a4 {
+C54: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} Ba7 (7... O-O 8.
+Bg5 h6 9. Bh4 g5 10. Bg3 Ba7 11. Nbd2 Nh7 12. h3 h5 13. d4 h4 14. Bh2 g4 15.
+hxg4 Bxg4 16. dxe5 dxe5 {1-0 (45) Duda,J (2738)-Kramnik,V (2777) Wijk aan Zee
+2019}) 8. Re1 h6 9. Nbd2 {[%cal Bb1d2,Bd2f1,Bf1g3][%mdl 32]} Be6 10. Bxe6 fxe6
+11. Nf1 O-O 12. Ng3 $146 ({Predecessor:} 12. b4 Nh5 13. Be3 Bxe3 14. Rxe3 {
+0-1 (41) Svetushkin,D (2563)-Nikolov,M (2561) Achaia 2017}) 12... Qd7 13. h3
+Rf7 14. b4 Raf8 15. b5 Ne7 16. bxa6 bxa6 17. d4 exd4 18. cxd4 Ng6 19. Be3 Nh7
+20. Qe2 ({Better is} 20. d5 $14 Bxe3 21. Rxe3) 20... Rxf3 21. gxf3 Ng5 22. Bxg5
+$1 (22. Qxa6 $2 Nxf3+ 23. Kf1 Bxd4 $17) 22... hxg5 23. Red1 Nf4 24. Qf1 e5 25.
+dxe5 Nxh3+ 26. Kh2 (26. Kg2 $1 $15 Nf4+ 27. Kg1) 26... g4 (26... Rxf3 $17 27.
+Qc4+ Kh7) 27. Qc4+ $11 Kh7 28. exd6 ({Not} 28. Qxa6 $2 Bxf2 29. Nf5 Nf4 $19) (
+28. Nf5 $11 Qe8 29. Rh1 (29. exd6 $2 Nxf2 30. Kg2 Nxd1 $19) (29. Qxc7 Rxf5 30.
+Qxa7 Qxe5+ 31. f4 Qxf4+ {[%mdl 64] Double Attack} 32. Kg2 Qf3+ 33. Kh2 Nf4 34.
+Qxg7+ Kxg7 35. exf5 Qg2#) (29. fxg4 Nxf2 {[%mdl 64] Double Attack} 30. Rh1 Nxh1
+$11)) 28... Nxf2 (28... Bxf2 $17 29. Nh5 (29. dxc7 Bxg3+ 30. Kxg3 Rxf3+ 31. Kg2
+Rf2+ 32. Kg3 Qe7 $19) (29. Nf5 Nf4 $19) 29... cxd6) 29. Rd5 gxf3 30. Rh5+ Kg6
+31. Rf1 $2 (31. Qxc7 $11 Ng4+ 32. Kh1 Nf2+ 33. Kh2 Ng4+ 34. Kh3 Nf2+ {[%mdl 64]
+Discovered Attack (Double check)} 35. Kh2) 31... Ng4+ $19 32. Kh1 {[#]} Ne3 $1
+{[%cal Re3c4]} 33. Qxa6 Qxd6 34. Qxd6+ cxd6 35. Rf2 {[#]} Ng4 $1 {[%mdl 1024]
+Black has strong compensation.} 36. Rd2 (36. Rf1 {was the only defense.}) 36...
+Nf2+ $2 (36... Rc8 $19 {( -> ...Rc1+)} 37. Rxd6+ Kf7 38. Rf5+ Ke7 39. Rxf3 Kxd6
+) 37. Kh2 $15 Ng4+ 38. Kh3 Nf2+ 39. Rxf2 Bxf2 $11 {[%mdl 4096] Endgame KRB-KRN}
+40. Rf5 Ra8 41. Rxf3 Bc5 42. Nf5 Rxa4 43. Rg3+ Kf6 44. Nxg7 Rxe4 45. Nh5+ Kf5
+46. Rd3 Re1 47. Rd5+ Ke4 48. Nf6+ Kf4 49. Nh5+ Kf3 {[%cal Re1h1]} 50. Rf5+ Ke3
+51. Rd5 Rf1 {next ...Ke4 is good for Black.} 52. Ng3 (52. Kg4 $1 $11) 52... Rf6
+({Black should play} 52... Rf4 $15) 53. Kg4 {The position is equal.} Rf4+ 54.
+Kg5 Rf8 {With the idea ...Kf3.} 55. Kg4 Rg8+ (55... Ba3 {looks sharper.} 56.
+Rf5 Rg8+ 57. Rg5 Ra8 58. Rd5 Bc5) 56. Rg5 $1 {[%cal Rg5g8]} Rxg5+ 57. Kxg5 d5 {
+aiming for ...Kf3.} 58. Kf6 d4 {Threatens to win with ...d3.} 59. Nf5+ $1 Ke4 {
+White must now prevent ...d3.} 60. Nxd4 $1 Bxd4+ {Accuracy: White = 44%, Black
+= 40%.} (60... Kxd4 $2 61. Ke6 $19) 1/2-1/2
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.11"]
+[Round "6.5"]
+[White "Praggnanandhaa, R."]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2532"]
+[BlackElo "2667"]
+[Annotator "TA"]
+[PlyCount "119"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,119,35,36,37,43,39,70,78,92,85,149,158,167,162,166,154,175,172,162,
+134,150,136,149,115,181,173,172,188,179,187,180,182,230,141,126,36,95,62,193,
+183,192,145,186,133,167,171,178,168,225,179,202,0,215,195,308,300,321,334,286,
+219,270,0,224,0,269,204,207,204,203,191,190,173,190,150,151,154,166,76,117,77,
+106,105,197,197,197,197,182,189,386,383,597,587,619,619,616,572,489,470,29970,
+29972,12309,8445,29974,29974,29993,29994]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3
+Nf6 5. d3 O-O 6. O-O d5 7. exd5 Nxd5 8. Re1 Bg4 9. Nbd2 {C54: Giuoco Piano: 4
+c3 Nf6, main lines with 5 d4 and 5 d3} Bb6 (9... Nb6 10. h3 Bh5 11. Bb3 Kh8 12.
+Ne4 Bd6 13. g4 Bg6 14. d4 exd4 15. Nxd4 Nxd4 16. Qxd4 Be7 {1-0 (48) Giri,A 
+(2783)-Inarkiev,E (2693) St Petersburg 2018}) 10. a4 a6 $146 ({Predecessor:} 
+10... Bh5 11. Ne4 f6 12. b4 a6 13. Bd2 Kh8 14. h3 Nce7 15. Rb1 a5 16. b5 c5 17.
+bxc6 bxc6 18. Ng3 Bf7 {1/2-1/2 (18) Ruefenacht,M (2460)-Rost,D (2463) ICCF
+email 2013}) 11. Ne4 {White is slightly better.} f6 12. d4 {Black must now
+prevent dxe5.} Kh8 (12... Bxf3 $142 13. Qxf3 Kh8) 13. dxe5 $16 Bxf3 14. gxf3
+Nce7 15. exf6 gxf6 16. a5 Ba7 17. Ng3 Rg8 18. f4 c6 19. Bd3 Qd7 (19... Ng6 $16)
+20. c4 $1 $18 {[%cal Rc4d5]} Nb4 21. Be4 Rad8 22. Qxd7 Rxd7 23. Ra4 Bc5 24. b3
+Bd4 25. Re2 (25. Rxb4 $6 Bc3 $14) (25. Ba3 $16 c5 26. Kf1 (26. Bxb4 cxb4 27.
+Ra2 h5 $14)) 25... c5 (25... Bc3 $14 26. Kg2 Ng6) 26. Kg2 Nec6 ({Black should
+try} 26... f5 $14 27. Bb1 Nbc6) 27. Bd2 $1 Rgd8 28. Be1 Rg7 29. h3 ({White
+should play} 29. Kf3 $18) 29... Rgd7 30. Kf1 Kg7 31. Nf5+ Kf7 (31... Kh8 $142
+32. Rd2 Re8) 32. Rd2 Re8 33. Re2 Red8 $1 34. h4 Kf8 (34... h5 {was called for.}
+35. f3 Kg8 36. Rg2+ Kf8) 35. h5 Rc7 36. h6 Kf7 37. Ng7 Re7 38. Nf5 $2 ({
+Don't do} 38. Bxh7 $6 Rxe2 39. Kxe2 Bb2 $16) (38. f3 $18) 38... Red7 $2 (38...
+Rc7 $1 $11 {and Black stays safe.}) 39. Ng7 Re7 $1 40. f5 ({Resist} 40. Bxh7 $6
+Rxe2 41. Kxe2 Bb2 $18) 40... Be5 {[#]} 41. f4 $1 {[%mdl 576] Decoy} Bxf4 42.
+Ne6 Rxe6 43. fxe6+ {[%mdl 64] Discovered Attack} Ke7 44. Bc3 Rd1+ 45. Re1 Rd8
+46. Bxh7 (46. Ke2 $18) 46... Bxh6 47. Be4 Bd2 48. Bxb4 $1 Bxb4 {[#]} (48...
+Nxb4 $16 49. Rd1 Rd4) 49. Re3 $1 Rd1+ 50. Kg2 Rd2+ {[#]} 51. Kh3 $1 Nxa5 $2 (
+51... Rd8 52. Ra2 Bd2) 52. Bd5 Rb2 (52... Rc2 $142 53. Ra1 Rc3 54. Rxc3 Bxc3)
+53. Ra1 Bd2 54. Rg3 Rxb3 55. Rxb3 Nxb3 {KRB-KBN} 56. Rb1 Nd4 (56... Na5 $18 57.
+Kg4 (57. Bxb7 Nxb7 58. Rxb7+ Kxe6 $11) 57... Ke8) 57. Rxb7+ Ke8 58. Kg4 f5+ 59.
+Kh5 Be1 60. e7 {Accuracy: White = 66%, Black = 31%.} 1-0
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.12"]
+[Round "7.1"]
+[White "Shirov, Alexei"]
+[Black "Ju, Wenjun"]
+[Result "1-0"]
+[ECO "E10"]
+[WhiteElo "2667"]
+[BlackElo "2580"]
+[Annotator "TA"]
+[PlyCount "47"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,47,-6,20,14,32,18,39,27,47,64,40,33,86,47,91,84,139,129,151,159,165,
+166,162,145,134,139,200,200,192,179,191,198,196,-718,188,188,186,201,409,401]} 
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Bd6 (5... Be7 6. Bg2 O-O 7. O-O
+c6 8. Qc2 Nbd7 9. Bf4 b6 10. Rd1 Ba6 11. cxd5 cxd5 12. Ne5 Nxe5 13. dxe5 Ng4
+14. Bf3 f5 15. exf6 Nxf6 16. Qa4 Bb7 17. Nd2 Qe8 18. Qxe8 Rfxe8 {1/2-1/2 (29)
+Giri,A (2783)-Ding,L (2813) Wijk aan Zee 2019}) 6. Nc3 {E01: Catalan: Early
+deviations} c6 7. Qc2 O-O 8. e4 {e5 is the strong threat.White is slightly
+better.} dxe4 9. Nxe4 Nxe4 10. Qxe4 Nd7 (10... c5 $14) 11. Bd3 $16 {[%csl Gd3]
+[%cal Re4h7]} Nf6 12. Qh4 $1 Re8 (12... g6 $142) 13. O-O-O $146 b5 14. c5 ({
+Much weaker is} 14. cxb5 $6 cxb5 15. Rhe1 Bb7 $11) 14... Bxc5 15. g4 $1 {
+[%cal Rg4g5]} Bxd4 16. g5 Bxb2+ 17. Kc2 $1 Qd5 (17... g6 $16) 18. gxf6 $40 {
+[%mdl 128] White is out for blood.} Bxf6 19. Qxh7+ Kf8 20. Bb4+ c5 21. Qh8+ Ke7
+{[#]} 22. Qxe8+ $1 {[%mdl 512]} Kxe8 23. Bxb5+ {[%mdl 64] [#] Discovered Attack
+} Kd8 $2 {[#]} (23... Qd7 $1 {[%mdl 512]} 24. Rxd7 (24. Bxd7+ Bxd7 25. Rxd7
+Kxd7 $16) 24... Bxd7 25. Bxd7+ Kxd7) 24. Bc6 $1 {[%mdl 64] Pin. Accuracy:
+White = 98%, Black = 39%.} ({Not} 24. Rxd5+ exd5 25. Ba5+ (25. Bxc5 Rb8 $14)
+25... Ke7 $16) 1-0
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.12"]
+[Round "7.2"]
+[White "Krejci, Jan"]
+[Black "Praggnanandhaa, R."]
+[Result "1-0"]
+[ECO "A05"]
+[WhiteElo "2570"]
+[BlackElo "2532"]
+[Annotator "TA"]
+[PlyCount "93"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,93,15,15,16,22,13,4,22,16,0,6,14,57,20,14,35,71,79,71,78,85,39,114,
+108,127,139,160,166,158,158,173,172,172,172,169,170,176,174,156,156,164,115,
+115,118,117,115,168,178,156,168,206,206,230,216,368,364,350,276,319,239,229,
+229,1317,417,29974,29976,29978,1234,5366,752,1772,722,29975,6243,6187,5181,
+29972,29965,29978,29979,29983,29984,29984,29985,29986,29987]} 1. Nf3 Nf6 2. g3
+b5 3. Na3 a6 4. c4 (4. b3 e6 5. c4 bxc4 6. bxc4 c5 7. Bg2 Bb7 8. Rb1 Bc6 9. O-O
+Be7 10. d3 O-O 11. Nc2 {1/2-1/2 (91) Duda,J (2717)-Georgiev,K (2623) Riadh 2017
+}) 4... b4 5. Nc2 a5 6. Bg2 {A05: Réti Opening: 1 Nf3 Nf6} Bb7 7. d4 g6 $146 ({
+Predecessor:} 7... Be4 8. a3 b3 9. Ne3 a4 10. g4 h6 11. Nf5 Nxg4 12. Ng3 Bc2
+13. Qd2 Nf6 14. e4 Bxe4 15. Nxe4 Nxe4 {0-1 (40) Zaragatski,I (2502)-Belezky,A 
+(2397) Germany 2017}) 8. O-O {The position is equal.} Bg7 9. b3 Na6 10. Bb2 c5
+11. a3 cxd4 12. axb4 (12. Qxd4 Nh5 $17) 12... Nxb4 13. Nxb4 axb4 14. Bxd4 Rb8
+15. Ba7 Rc8 ({Better is} 15... Ra8 $14) 16. Qe1 $36 {[%mdl 2048] White is on
+the roll.} Nh5 17. Qxb4 Bxf3 18. Bxf3 (18. exf3 $6 Bxa1 19. Rxa1 d6 $14) 18...
+Bxa1 19. Rxa1 O-O 20. Bb6 Qe8 21. Bb7 d6 22. Bxc8 Qxc8 23. c5 dxc5 24. Bxc5 Qe6
+25. e3 Nf6 26. Qb7 Re8 27. Bd4 h5 (27... Qe4 $16 28. Ra7 Qxb7 29. Rxb7 e5) 28.
+Ra8 $18 Rxa8 29. Qxa8+ Kh7 30. Bxf6 $1 exf6 {[%mdl 4096] Endgame [#] KQ-KQ} 31.
+Qa4 $1 g5 $2 (31... Kg7 32. Kg2 Kf8) 32. Qc4 {Strongly threatening Qxe6.} Qd7
+33. b4 {[%cal Bb3b4,Bb4b5,Bb5b6,Bb6b7][%mdl 32]} Kg7 34. h4 Qd1+ 35. Kg2 g4 $2
+(35... gxh4 36. Qxh4 (36. gxh4 Qa4 $16) 36... Qd5+ 37. Kh2 Qf5) 36. Qc6 (36. b5
+$142 Qf3+ 37. Kg1) 36... Qb1 (36... Qd3 $18 37. b5 f5) 37. b5 Qb3 38. Qc5 (38.
+b6 $142 Qb2 39. b7 Qe5 40. Qb6 Qb8 41. Qa6 Qe5 42. Qa7 Qe4+ 43. Kh2) 38... Kg6
+39. Kh2 (39. b6 $142 Qe6 40. Qc2+ Kg7 41. Qb2 Qe4+ 42. Kh2) 39... Qb1 40. b6
+Qb2 41. e4 (41. Kg2 $142 Qb1 42. Qc6 Kg7 43. b7 Qb3 44. Qc7 Qd5+ {[#]} 45. e4
+$1 {[%mdl 512]} (45. Kh2 Qf3 $11) 45... Qxe4+ 46. Kh2) 41... Kg7 42. Kg2 Qb1
+43. Qc6 {White mates.} Qb3 44. b7 Qb4 45. Qc7 Qxe4+ 46. Kh2 Qf3 47. Qb6 {
+Accuracy: White = 64%, Black = 35%.} ({Worse is} 47. b8=Q Qxf2+ 48. Kh1 Qf1+
+49. Kh2 Qf2+ 50. Kh1 Qf3+ 51. Kg1 Qd1+ 52. Kh2 Qe2+ 53. Kh1 (53. Kg1 Qd1+ 54.
+Kh2 Qe2+ 55. Kh1 Qf1+ 56. Kh2 Qf2+ $11) 53... Qf1+ 54. Kh2 Qf2+ $11) 1-0
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.12"]
+[Round "7.3"]
+[White "Michalik, Peter"]
+[Black "Paravyan, David"]
+[Result "0-1"]
+[ECO "B99"]
+[WhiteElo "2565"]
+[BlackElo "2627"]
+[Annotator "TA"]
+[PlyCount "92"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 24,92,21,21,18,13,17,29,8,44,37,37,48,41,33,14,53,1,22,0,25,0,12,0,0,
+-59,-49,-52,-12,-38,0,-17,-12,-16,0,-65,-47,-75,-79,-103,-97,-89,-77,-85,-91,
+-97,-83,-114,-98,-129,-102,-234,-227,-266,-281,-315,-306,-457,-426,-720,-740,
+-29975,-29976,-29978,-29979,-29979,-29980,-29980,-29980,-29981,-29982]} 1. e4
+c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9.
+O-O-O Nbd7 10. g4 b5 {[%cal Bb7b5,Bb5b4][%mdl 32]} 11. Bxf6 Nxf6 12. g5 Nd7 13.
+f5 O-O {Strongly threatening ...b4. B99: Sicilian Najdorf: 6 Bg5 e6 7 f4 Be7 8
+Qf3 Qc7 9 0-0-0 Nbd7} 14. Rg1 (14. f6 gxf6 15. gxf6 Nxf6 $17) (14. h4 b4 15.
+Nce2 Bb7 16. Kb1 Rac8 17. Bh3 e5 18. f6 exd4 19. fxe7 Rfe8 20. Nxd4 Rxe7 21.
+Nf5 Rxe4 22. Nxd6 Rd4 23. Qxf7+ Kh8 24. Nxc8 {1-0 (24) Sutovsky,E (2683)
+-Huschenbeth,N (2596) Douglas 2017}) 14... b4 $1 {[%cal Rb4c3]} 15. Nce2 {
+Black must now prevent f6.} e5 $1 {[%cal Re5d4] White has an edge.} 16. f6 $1 {
+[%cal Rf6e7]} exd4 17. fxe7 Re8 18. Nxd4 Ne5 19. Qf2 Be6 $146 ({Predecessor:} 
+19... Rxe7 20. Nf5 Re8 21. Qg3 Be6 22. Nxd6 Re7 23. Nf5 Ree8 24. Nd6 Re7 25.
+Nf5 Ree8 {1/2-1/2 (25) Senzacqua,F (2137)-Pasta,P (2123) ICCF email 2016}) 20.
+Kb1 (20. Nxe6 $14 fxe6 21. Be2) 20... Qc5 21. Rg2 Rxe7 22. h4 a5 (22... Bg4 {
+seems wilder.} 23. Be2 Bxe2 24. Qxe2 g6 25. h5 Nc4) 23. Nxe6 fxe6 24. Qd2 (24.
+Qxc5 $11 dxc5 25. Rgd2) 24... Rf8 25. Be2 Rd7 26. h5 a4 27. h6 g6 28. Qd4 Rf4
+29. Rgg1 (29. c3 $11) 29... Kf8 $15 30. Rg3 Ke7 31. a3 Rb7 $1 32. axb4 Rxb4 33.
+Qxc5 dxc5 34. Rc3 {[#]} c4 $1 ({Don't play} 34... Rfxe4 $6 35. Rxc5 Rxe2 36.
+Rc7+ Ke8 37. Rc8+ Kf7 38. Rc7+ Ke8 39. Rc8+ Kf7 40. Rc7+ Ke8 $11) 35. Re3 Rf2
+36. Ka2 Rb6 37. Rd4 (37. Kb1 $17 {was called for.}) 37... Rd6 $19 38. Rxd6 Kxd6
+{[%mdl 4096] Endgame KRB-KRN} 39. Kb1 Kc5 40. Kc1 {[#]} (40. c3 $142) 40... a3
+$1 {[%mdl 512]} 41. bxa3 (41. Bd1 $142 Nd3+ 42. cxd3) 41... Kd4 42. Kd2 {[#]}
+c3+ $1 {[%mdl 512] Black mates.} 43. Rxc3 {[#]} Rxe2+ $1 {[%mdl 576] Deflection
+} 44. Kxe2 Kxc3 45. a4 Nc4 46. e5 Kxc2 {Accuracy: White = 35%, Black = 69%.}
+0-1
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.12"]
+[Round "7.4"]
+[White "Anton Guijarro, David"]
+[Black "Nguyen, Thai Dai Van"]
+[Result "1-0"]
+[ECO "E20"]
+[WhiteElo "2643"]
+[BlackElo "2546"]
+[Annotator "TA"]
+[PlyCount "95"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,95,0,-12,-16,-8,0,0,0,0,0,0,0,0,16,1,8,0,28,23,28,43,59,43,59,59,59,
+59,50,32,79,80,97,97,97,100,93,93,93,92,98,105,102,83,83,87,116,95,127,133,133,
+127,126,125,129,124,135,137,141,104,136,135,148,136,151,156,148,153,152,142,
+242,217,282,289,312,258,325,323,314,277,297,266,260,237,347,333,418,412]} 1. d4
+Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 O-O 6. e4 b5 {E20: Nimzo-Indian: 4 g3
+and 4 f3} (6... d6 7. Bg5 exd5 8. cxd5 Nbd7 9. Bd3 Ne5 10. Nge2 c4 11. Bc2 Bc5
+12. Qd2 h6 13. Be3 Qb6 14. Bxc5 Qxc5 {1/2-1/2 (68) Mamedyarov,S (2817)-Aronian,
+L (2765) Kolkata 2018}) 7. Nh3 bxc4 8. Bxc4 exd5 {The position is equal.} 9.
+Bxd5 Nxd5 10. Qxd5 Ba6 11. Bf4 Nc6 {[%cal Bb8c6,Bc6b4,Bb4d3][%mdl 32]} 12. Kf2
+Ba5 $146 ({Predecessor:} 12... Nd4 13. Rhd1 Qb6 {1-0 (48) Berkes,F (2661)
+-Szabo,G (2563) Heraklio 2017}) 13. Rhd1 Nb4 14. Qd6 Re8 15. Kg1 $1 c4 16. Bg3
+$36 {[%mdl 2048] White has good play.} Re6 17. Qxd7 Nd3 18. Qxd8+ Rxd8 19. Rab1
+Ree8 20. Nf4 $1 Nxb2 21. Rxd8 Rxd8 22. Nfd5 Nd3 23. Bc7 Bxc7 24. Nxc7 Bc8 25.
+Rb8 {Black must now prevent N7b5.} Ne5 26. N7b5 Nc6 27. Ra8 g5 28. Nd5 a6 29.
+Na3 c3 30. Nxc3 Be6 {[#]} 31. Rxd8+ $1 Nxd8 $16 {[%mdl 4096] Endgame KBN-KNN}
+32. Kf2 Nc6 33. Nc2 f5 34. a3 Kf7 35. Ke3 f4+ {[#]} 36. Kd3 $1 a5 37. Nd5 Bc8
+38. Nc7 Ke7 39. Kc4 Kd6 (39... Ne5+ $16 {was worth a try.} 40. Kc5 Nd3+ 41. Kb5
+Kd6) 40. Nb5+ $18 Ke5 41. Kc5 Nd8 42. Ne1 Ne6+ 43. Kb6 a4 44. Nd3+ Kf6 45. e5+
+Ke7 46. Nb4 Nf8 (46... Nd8 $142 47. Nd4 Be6) 47. Nd4 Be6 48. Kc7 {Accuracy:
+White = 91%, Black = 49%.} 1-0
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.12"]
+[Round "7.5"]
+[White "Bartel, Mateusz"]
+[Black "Stocek, Jiri"]
+[Result "0-1"]
+[ECO "B52"]
+[WhiteElo "2600"]
+[BlackElo "2592"]
+[Annotator "TA"]
+[PlyCount "116"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,116,0,15,20,32,0,14,-12,-16,-14,-20,-26,0,-33,-29,-23,-9,-25,0,-25,-2,
+-41,0,0,0,0,0,0,0,-7,-14,-6,0,-3,0,-25,4,0,0,0,0,0,25,23,90,0,0,-86,-86,-86,
+-86,-94,-100,-88,-31,-31,-25,-22,-21,-88,-88,-137,-121,-160,-160,-160,-123,
+-160,-160,-160,-160,-160,-120,-129,-172,-182,-174,-472,-430,-365,-368,-1304,
+-576,-29972,-29973,-29974,-29975,-29978,-29979,-29978,-29979,-29980,-29981,
+-29981,-29978,-29978,-29979,-29979,-29980,-29980,-29981,-29981,-29982,-29982,
+-29983,-29983,-29984,-29984,-29985]} 1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. c4 Nf6
+5. Nc3 g6 (5... a6 $5 {[%cal Ra6b5]} 6. Bxd7+ Nbxd7 $11) 6. O-O {B52: Sicilian:
+Moscow Variation with 3...Bd7} Bg7 7. Re1 O-O 8. h3 $146 {The position is
+equal.} ({Predecessor:} 8. d4 cxd4 9. Nxd4 Nc6 10. Bxc6 bxc6 11. c5 dxc5 12.
+Nb3 c4 {0-1 (74) Onischuk,V (2594)-Bukavshin,I (2578) Taganrog 2014}) 8... a6
+9. Bxd7 Nfxd7 10. d4 Nc6 {[%cal Rc5d4]} 11. Be3 Qa5 12. a3 cxd4 13. Nxd4 Rac8
+14. Nd5 {Strongly threatening Nxc6.} Rfe8 15. b3 Qd8 16. Rb1 e6 {aiming for ...
+Bxd4.} 17. Nb4 {[%cal Bd5b4,Bb4c2,Bc2e3,Be3g4][%mdl 32] Black should prevent
+Ndxc6.} Nxd4 18. Bxd4 Ne5 19. Qd2 a5 20. Nc2 a4 21. Ne3 axb3 22. Rxb3 Bh6 23.
+Rxb7 Nxc4 24. Qd3 Qa5 25. Reb1 Qd2 26. Ng4 Bg7 {[#]} (26... Bg5 $1 $11 27. Qf3
+Rf8) 27. Qxd2 (27. Rxf7 $1 $16 {[%mdl 512]} Bxd4 (27... Kxf7 28. Qf3+) 28. Rbb7
+$1 {[%mdl 512]} Qc1+ 29. Kh2) 27... Nxd2 $11 28. Bxg7 (28. R1b4 $11) 28... Kxg7
+$17 ({Not} 28... Nxb1 $2 29. Bh6 $18) 29. Re1 h5 30. Nh2 Rc4 31. f3 Ra4 ({
+Better is} 31... Rc2 $17) 32. Nf1 $15 Nxf1 33. Kxf1 Rxa3 {[%mdl 4096] Endgame
+KRR-KRR} 34. Rc1 (34. Rd7 $11) 34... h4 $17 35. Rcc7 Rf8 36. Ra7 Rxa7 37. Rxa7
+{KR-KR} Kf6 38. g3 hxg3 39. Kg2 Ke5 40. Kxg3 f5 41. Ra5+ d5 42. exd5 exd5 43.
+f4+ $2 (43. Ra6 {was necessary.}) 43... Ke4 $19 44. Ra6 Re8 45. Rxg6 $2 (45.
+Ra1 Kd3 46. Rd1+ Kc4 47. Rc1+ Kd4 48. Rd1+ Kc4 49. Rc1+ Kb3 50. Rd1) 45... d4 (
+45... Ke3 $142 46. Kg2 d4) 46. h4 Ke3 {Black mates.} 47. h5 d3 48. h6 d2 49.
+Rd6 {[#]} Rg8+ $1 50. Kh4 Rg1 51. h7 d1=Q 52. Rxd1 Rxd1 {KR-KPP} 53. Kg5 Rh1
+54. Kxf5 Rxh7 55. Kg6 Rh1 56. f5 Rg1+ 57. Kf7 {[#]} Kf4 $1 58. f6 Kf5 {
+Accuracy: White = 37%, Black = 57%.} 0-1
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.13"]
+[Round "8"]
+[White "Shirov, Alexei"]
+[Black "Krejci, Jan"]
+[Result "1/2-1/2"]
+[ECO "C99"]
+[WhiteElo "2667"]
+[BlackElo "2570"]
+[Annotator "TA"]
+[PlyCount "68"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 34,68,28,20,19,19,19,29,21,29,19,0,0,0,16,9,0,11,14,4,25,8,0,0,0,-10,0,
+-9,-9,-9,-11,-8,-9,-9,0,-17,-16]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5.
+O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2
+cxd4 13. cxd4 Nc6 14. Nb3 a5 15. Be3 a4 16. Nbd2 Bd7 17. Rc1 Qb7 18. Qe2 Rfe8 {
+C99: Closed Ruy Lopez: Chigorin Defence: 11 d4 Qc7 12 Nbd2 cxd4} 19. Bd3 Rab8
+20. dxe5 Nxe5 {White has an edge.} 21. Nxe5 dxe5 22. Nf3 Bb4 23. Red1 Bc6 (
+23... h6 {looks sharper.} 24. a3 Ba5 25. Rc5 Bc7 26. Nh4 Bb6) 24. Bc5 Bxc5 25.
+Rxc5 Nd7 26. Rc3 Nf8 $146 27. Qc2 Bd7 $1 {The position is equal.} 28. b3 axb3
+29. axb3 Rbc8 30. b4 f6 31. Nd2 Rxc3 32. Qxc3 Rc8 33. Qb2 Be8 34. Bb1 Bf7 {
+Accuracy: White = 66%, Black = 77%.} 1/2-1/2
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.13"]
+[Round "8"]
+[White "Paravyan, David"]
+[Black "Guijarro, David Anton"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "2627"]
+[BlackElo "2643"]
+[Annotator "TA"]
+[PlyCount "82"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,82,20,6,-16,-2,-11,-14,-25,-9,-39,-29,-45,-40,-47,-54,-58,-42,-65,-77,
+-77,-60,-69,-77,-63,-69,-74,-55,-101,-101,-108,-109,-117,-114,-138,-65,-102,
+-71,-83,-91,-150,-87,-150,-100,-99,-111,-95,-138,-93,-94,-103,-94,-171,-170,
+-189,-177,-192,-201,-208,-177,-172,-173,-193,-168,-324,-318,-404,-365,-411,
+-410,-408,-407,-446,-439,-680,-674]} 1. d4 Nf6 2. Bg5 c5 3. d5 d6 4. Nc3 h6 5.
+Bd2 b5 6. Nxb5 {A45: Trompowsky Attack} Nxd5 7. e4 $146 ({Predecessor:} 7. Nc3
+Nb6 8. e4 g6 9. Nf3 Bg7 10. a4 O-O 11. a5 N6d7 {0-1 (32) Irgaliyev,A (2175)
+-Xiong,J (2672) chess.com INT 2019}) 7... Nb6 $1 8. a4 {The position is equal.}
+a6 9. Nc3 Nc6 10. f4 e6 11. Nf3 Be7 12. Bd3 O-O 13. a5 Nd7 $1 14. Ne2 d5 15. b3
+dxe4 16. Bxe4 Bb7 17. O-O Nf6 18. Bd3 Nb4 19. Bc4 Ne4 20. Be1 Bf6 21. c3 Nc6 (
+21... Nd5 $17 {Threatens to win with ...Ne3.} 22. Qc1 Qd6) 22. Qc2 Nxa5 23. Bd3
+Nd6 $1 ({And not} 23... Nxb3 24. Rb1 $16) 24. Ne5 {[#]} (24. Qa2 $142 Nc6 25.
+Bf2) 24... Qc7 ({Black should play} 24... c4 $1 {[%cal Rc4d3][%mdl 512]} 25.
+Nxc4 (25. bxc4 Bxe5) 25... Naxc4 26. bxc4 Qc7) 25. Ng4 (25. c4 $142 Nc6 26. Bc3
+) 25... Be7 26. c4 {[#]} Nc6 $1 27. Bc3 f5 28. Ne5 Bf6 29. Rae1 Rad8 ({Don't
+blunder} 29... Nxe5 $2 30. fxe5 Bg5 31. exd6 $18) 30. Ng3 {[#]} (30. Nxc6 $17
+Qxc6 31. Rf2) 30... Nb4 $1 $19 {[%cal Rb4c2]} 31. Bxb4 cxb4 32. c5 Nb5 {
+[%cal Bd6b5,Bb5d4,Bd4e2][%mdl 32] Strongly threatening ...Na3.} 33. Qc4 Bxe5
+34. Rxe5 Kh8 35. Be2 Nd4 $40 {[%mdl 128] Black attacks with force.} 36. Re3 $2
+(36. Rc1) 36... a5 37. Rf2 Nxe2+ 38. Rexe2 Bd5 39. Qc2 Rc8 40. Qb2 Qxc5 41. Rc2
+(41. Nf1 $142) 41... Qe3 {Accuracy: White = 32%, Black = 74%.} 0-1
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.13"]
+[Round "8"]
+[White "Ju, Wenjun"]
+[Black "Stocek, Jiri"]
+[Result "1-0"]
+[ECO "B52"]
+[WhiteElo "2580"]
+[BlackElo "2592"]
+[Annotator "TA"]
+[PlyCount "77"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,77,16,14,7,6,13,10,11,4,42,47,56,41,59,41,52,45,44,39,66,56,60,34,38,
+34,35,37,37,37,44,44,48,37,65,55,79,92,207,147,147,152,216,181,183,175,254,267,
+304,292,378,382,372,369,486,479,486,485,485,462,447,469,593,577,597,572,659,
+607]} 1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Qe2 e6 7. c3
+Rc8 {B52: Sicilian: Moscow Variation with 3...Bd7} 8. d4 cxd4 9. cxd4 d5 {
+The position is equal.} 10. e5 Ne4 11. Be3 Be7 (11... Nb6 12. Ne1 f5 13. f3 Ng5
+14. b3 Nf7 {1/2-1/2 (30) Mamedov,R (2680)-Ivanchuk,V (2729) Kocaeli 2017}) 12.
+Ne1 {Threatens to win with f3.} f5 13. f3 Ng5 14. Nd3 O-O 15. Nc3 Qb6 {[#]} 16.
+Rfc1 $146 ({Predecessor:} 16. Rac1 Qa6 17. Rc2 Rc6 18. Rfc1 Rfc8 19. Qd2 {
+1-0 (48) Guliyev,N (2549)-Gerber,R (2400) Geneve 2011}) 16... Nf7 17. Rc2 Rc6
+18. Na4 Qa6 19. Rxc6 Qxc6 20. b3 Ba3 21. Bc1 Be7 22. Bd2 b5 23. Rc1 {[%cal
+Ba1c1,Bc1c5,Bc5b5][%mdl 32]} Qa6 24. Nf4 Nb8 (24... Bg5 $16) 25. Nc5 Bxc5 26.
+Rxc5 Nd8 (26... Nd7 $16) 27. Rxb5 Nbc6 28. Be3 $36 {[%mdl 2048] Keeping Black
+busy.} g5 {[#]} (28... h6 $142 29. a4 Rf7) 29. Nh5 $1 $18 f4 30. Bf2 Rf7 31.
+Nf6+ Kh8 32. a4 Ne7 33. Qc2 {White is clearly winning.} Ndc6 34. h4 gxh4 35.
+Bxh4 Nf5 36. Bf2 Rf8 37. Qd2 Qc8 38. Qxf4 Qc7 39. Qd2 {Accuracy: White = 88%,
+Black = 37%.} 1-0
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.13"]
+[Round "8"]
+[White "Nguyen, Thai Dai Van"]
+[Black "Bartel, Mateusz"]
+[Result "1/2-1/2"]
+[ECO "B04"]
+[WhiteElo "2546"]
+[BlackElo "2600"]
+[Annotator "TA"]
+[PlyCount "78"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,78,42,60,46,13,34,20,35,35,52,55,56,38,60,29,37,22,33,33,35,42,43,36,
+54,43,114,0,4,10,7,17,5,-4,-20,-16,-14,-14,-25,-13,-20,-12,0,0,-4,-7,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bf5 5.
+Be2 e6 6. O-O Be7 7. c4 Nb6 8. Nc3 O-O {B04: Alekhine's Defence: 4 Nf3} 9. b3
+$146 ({Predecessor:} 9. Be3 dxe5 10. Nxe5 N8d7 11. Nf3 c6 12. Qd2 Nf6 13. h3
+Ne4 14. Nxe4 Bxe4 15. b3 Nd7 16. Rfd1 Qc7 17. Bf4 Bd6 18. Bxd6 Qxd6 {1-0 (37)
+Seils,J (2365)-Hetey,L (2322) Rostock 2005}) 9... dxe5 10. Nxe5 N8d7 11. Nf3
+Bf6 12. Be3 Nc8 13. Rc1 Ne7 14. Ne1 Bg6 15. g4 {[#] Strongly threatening g5.}
+h6 16. f4 c5 17. dxc5 Qc8 18. Na4 Rd8 19. Bd3 b6 {[#]} (19... Nb8 $14) 20. cxb6
+(20. g5 $1 $16 {[%cal Rg5f6]} hxg5 21. fxg5) 20... Nxb6 $11 21. Nxb6 axb6 22.
+Qe2 Bd4 23. Bxd4 Rxd4 24. Bxg6 Nxg6 25. Ng2 $1 Qc5 {White must now prevent ...
+Rd2+.} 26. Kh1 Qc6 {next ...Nxf4 is good for Black.The position is equal.} 27.
+Kg1 Qc5 {aiming for ...Rd2+.} 28. Kh1 Rad8 29. Rcd1 Rxd1 30. Rxd1 Rxd1+ 31.
+Qxd1 Qf2 32. h4 e5 33. Qd8+ Kh7 34. Qd3 {Threatens to win with h5.} exf4 35. h5
+f3 {[%csl Gf3][%cal Rf2g2]} 36. hxg6+ fxg6 {[%csl Gf3][%cal Rf2g2]} 37. Ne3 Qg3
+38. Qf1 Qh4+ 39. Kg1 Qg3+ {Precision: White = 71%, Black = 63%.} 1/2-1/2
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.13"]
+[Round "8"]
+[White "Praggnanandhaa, R."]
+[Black "Michalik, Peter"]
+[Result "0-1"]
+[ECO "D78"]
+[WhiteElo "2532"]
+[BlackElo "2565"]
+[Annotator "TA"]
+[PlyCount "144"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,144,12,2,0,4,0,32,10,2,6,43,39,51,42,58,70,90,32,38,32,45,5,54,47,52,
+50,69,54,58,54,62,53,56,50,72,45,57,63,53,47,62,36,68,0,1,0,0,0,-11,-4,-1,-8,
+-8,-12,-8,-8,-6,-1,0,-22,-20,-83,-60,-60,-51,-101,-101,-165,-159,-178,-178,
+-178,-178,-199,-172,-207,-226,-226,-226,-300,-296,-288,-295,-449,-375,-376,
+-373,-547,-550,-512,-511,-396,-12,-308,-308,-297,-182,-181,-180,-175,-179,-271,
+-248,-273,-273,-266,-253,-312,-222,-222,-219,-272,-265,-29972,-29973,-29974,
+-29975,-29975,-29976,-29969,-29970,-29997,-29993,-29993,-29994,-29994,-29978,
+-29993,-29984,-29997,-29997]} 1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 Nf6 5. O-O
+O-O 6. c4 c6 7. Qb3 Qb6 8. Nc3 Rd8 9. Rd1 {D78: Fianchetto Grünfeld: 6 0-0 c6}
+(9. Bd2 dxc4 10. Qxc4 Be6 11. Qa4 Bf5 12. Rfe1 Ne4 13. Nxe4 Bxe4 14. Ba5 Qa6
+15. Qa3 Re8 16. Bf1 c5 17. dxc5 Bxb2 {1/2-1/2 (17) Ding,L (2813)
+-Nepomniachtchi,I (2763) Wijk aan Zee 2019}) 9... Bf5 10. Ne1 Na6 11. Qxb6 {
+White is slightly better.} axb6 12. Na4 b5 13. cxb5 cxb5 14. Nb6 Ra7 15. Bf4
+Nb4 {[#]} 16. a3 $146 ({Better is} 16. Bc7 $16 Re8 17. e3) ({Predecessor:} 16.
+Bc7 Re8 {1/2-1/2 (38) Yilmaz,M (2543)-Gagunashvili,M (2578) Konya 2012}) 16...
+Nc6 $14 17. e3 e6 18. f3 Ne8 19. g4 {[%mdl 64] Trapped Piece} Ra6 20. gxf5 gxf5
+21. Nxd5 $1 Rxd5 22. Bg3 Rd8 23. Bf1 Rb6 24. Nd3 Na5 25. Bf2 Nc4 26. b3 Na5 27.
+Rab1 Nf6 28. Rdc1 Bh6 29. Rc5 (29. f4 $14) 29... Nc6 $11 30. Ne5 Nd5 31. Re1 ({
+Avoid the trap} 31. Rxb5 $2 Rxb5 32. Bxb5 Nxe5 $19) ({But not} 31. Bxb5 $2 Nxe5
+32. dxe5 Rxb5 $1 $19 {[%mdl 512]}) 31... Nxe5 32. dxe5 Bf8 33. Rc2 Rc6 34. Rxc6
+bxc6 35. a4 Bb4 $36 {[%mdl 2048] White is under pressure.} 36. Rc1 Nc3 37. axb5
+cxb5 38. Ra1 (38. h3 $11) 38... Bc5 39. b4 Bxb4 {Strongly threatening ...Bc5.}
+40. Be1 Nd5 41. Bxb5 (41. Bxb4 $17 Nxb4 42. Bxb5) 41... Bc5 $1 $19 42. Bh4 Rb8
+43. Bc6 Nb4 44. Bd7 Nc2 45. Ra5 Bxe3+ 46. Kg2 Nd4 47. Bf6 h6 48. Ra2 Kh7 {
+Hoping for ...Rg8+.} 49. h4 (49. Kh3 $142) 49... h5 50. Kh3 Nxf3 51. Ra3 (51.
+Bc6 $142 Nd4 52. Ba8) 51... Ng1+ 52. Kg2 Rb2+ 53. Kf1 Rb1+ 54. Kg2 f4 $1 {
+( -> ...Rb2+)} 55. Bc6 {aiming for Be4+.} f3+ 56. Bxf3 Rb2+ 57. Kg3 Nxf3 58.
+Kxf3 {[%mdl 4096] Endgame KRB-KRB} (58. Rxe3 $142 Nd4 59. Ra3) 58... Bh6 $1 59.
+Ra7 Kg6 60. Ra8 {[#]} Kf5 $1 61. Rh8 Rb3+ 62. Ke2 Bf4 63. Rxh5+ Ke4 {...Rb2+
+is the strong threat.} 64. Rh7 $2 (64. Rh8 $19) 64... Rb2+ {Black mates.} 65.
+Kd1 Kd3 {[%cal Rb2b1]} 66. Ke1 {[#]} Be3 $1 {[%cal Rb2b1]} 67. Kf1 Rf2+ 68. Ke1
+Rf5 69. Bg5 Bd4 70. Bd2 Rxe5+ 71. Kd1 Re2 72. Bg5 Rh2 {Accuracy: White = 54%,
+Black = 79%.} 0-1
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.14"]
+[Round "9"]
+[White "Anton Guijarro, David"]
+[Black "R Praggnanandhaa"]
+[Result "1/2-1/2"]
+[ECO "A21"]
+[WhiteElo "2643"]
+[BlackElo "2532"]
+[Annotator "TA"]
+[PlyCount "117"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,117,3,14,14,3,0,0,0,0,6,0,-4,-6,0,-6,0,90,51,82,85,97,86,81,70,154,
+112,112,87,241,224,216,213,219,226,186,195,254,208,246,171,178,143,153,150,145,
+145,145,147,152,144,175,169,178,161,157,164,179,181,174,166,241,240,238,228,
+227,225,346,243,274,281,298,254,312,243,251,235,232,222,246,222,211,80,106,108,
+108,95,118,100,115,76,86,66,76,0,86,66,57,37,39,22,22,11,13,14,25,11,13,18,31,
+16]} 1. c4 e5 2. Nc3 Bb4 3. Nd5 a5 4. Nf3 d6 5. a3 Bc5 6. e3 {A21: English
+Opening: 1...e5 2 Nc3} Nf6 7. d4 Nxd5 $1 8. cxd5 {The position is equal.} exd4
+9. exd4 Bb6 10. Bg5 f6 11. Be3 $36 {[%mdl 2048] White has the initiative.} O-O
+12. Bd3 $146 c6 (12... f5 $11 {keeps the balance.}) 13. Qc2 $16 f5 14. O-O h6
+15. Rfe1 Kh8 16. dxc6 bxc6 (16... Nxc6 $14 17. d5 Bxe3 18. Rxe3 Ne7) 17. d5 {
+Black must now prevent Bxb6.} Bxe3 18. Rxe3 ({Much worse is} 18. fxe3 $6 cxd5
+19. Nd4 Bd7 $14) 18... c5 $2 (18... f4 $16 19. Re2 cxd5) 19. Rae1 $18 Ra7 20.
+Bb5 {Hoping for Re8.} Qf6 21. Re8 Raf7 22. Qd2 f4 (22... Kh7 $142 23. Qxa5 Bd7)
+23. Qxa5 Bg4 24. Qc3 {aiming for R1e6.} Nd7 25. Bxd7 Bxd7 26. Rxf8+ Rxf8 27.
+Qxf6 Rxf6 {[%mdl 4096] Endgame [#] KRB-KRN} 28. Nd2 $1 Rf5 29. Nc4 Ba4 30. Nb6
+Bb3 31. f3 Bxd5 32. Rd1 Bb3 33. Rxd6 Re5 34. Kf2 c4 (34... Kh7 {keeps fighting.
+} 35. Rd8 g5) 35. Nd5 Rf5 36. Rd8+ Kh7 37. Nc3 Rh5 (37... Ra5 {was called for.}
+38. Rd7 Kg8) 38. h3 Re5 39. Rd5 Re8 40. h4 Rb8 41. Ke1 Bc2 42. Rd2 Bf5 43. h5
+g6 44. hxg6+ Kxg6 45. Kd1 (45. a4 $18) 45... Bd3 $16 46. Nd5 Kg5 {[#]} 47. Ke1
+$1 Rb3 48. Nc3 h5 49. Kf2 Kf5 50. Na2 Bb1 51. Nc3 Bd3 52. Ne2 Rb7 53. Nc1 {
+Strongly threatening b4.} Bb1 54. Kg1 Ke5 55. Kf1 Bf5 56. Na2 Rb3 $1 57. Kf2
+Bb1 58. Nc1 Rb7 59. Ne2 {Accuracy: White = 67%, Black = 56%.} 1/2-1/2
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.14"]
+[Round "9"]
+[White "Jan Krejci"]
+[Black "Wenjun Ju"]
+[Result "1/2-1/2"]
+[ECO "D38"]
+[WhiteElo "2570"]
+[BlackElo "2580"]
+[Annotator "TA"]
+[PlyCount "134"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,134,20,16,24,24,34,39,43,39,39,35,92,92,89,95,92,93,105,99,103,89,92,
+76,78,75,96,110,100,84,124,124,124,124,139,125,139,124,124,124,146,125,125,0,
+141,139,139,124,124,124,124,124,124,124,125,124,124,124,124,124,124,124,124,
+124,124,124,124,105,124,124,124,93,93,74,124,74,74,74,74,74,74,74,74,74,74,45,
+45,45,45,45,45,45,45,45,52,52,52,52,52,52,52,52,52,52,52,52,52,13,52,52,52,52,
+52,52,52,52,52]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6
+7. e3 O-O 8. Rc1 dxc4 9. Bxc4 c5 10. O-O cxd4 11. Nxd4 Qe7 {D38: Queen's
+Gambit Declined: Ragozin Defence (4 Nf3 Bb4)} (11... Bd7 12. Qb3 Nc6 13. Nxc6
+Bxc3 14. Rxc3 Bxc6 15. Bb5 Bd5 16. Bc4 Bc6 17. Bb5 {1/2-1/2 (17) Matlakov,M 
+(2709)-Dubov,D (2694) Moscow 2018}) 12. Qb3 Ba5 13. Rfd1 {[#]} Rd8 $146 ({
+Predecessor:} 13... a6 14. Be2 b5 15. Bf3 Ra7 16. a3 Bb7 17. Bxb7 Rxb7 18. Ne4
+Rd8 19. Nf3 Rxd1+ 20. Qxd1 {1/2-1/2 (31) Socko,M (2445)-Khotenashvili,B (2504)
+Beijing 2012}) 14. Be2 Nd7 15. Ne4 Ne5 (15... Nf8 $14) 16. Rc5 $16 Bc7 17. Qc2
+$36 {[%mdl 2048] Black is under strong pressure.} Nc6 18. Nxc6 bxc6 19. Rxc6
+Bb6 20. Rxd8+ Qxd8 21. Bf3 Bb7 22. Rc3 Bxe4 23. Bxe4 Rb8 24. g3 Qf6 25. b4 g6
+26. a4 Kg7 27. Kg2 h5 28. h4 Bd8 29. Rc4 Qe5 30. Rd4 Bb6 31. Rc4 Bd8 $1 32. Bf3
+a6 33. Bc6 Be7 34. b5 axb5 35. axb5 Bd8 36. Re4 Qd6 37. Rd4 Qe5 38. Rd7 Bb6 39.
+Qd2 Kg8 40. Qd3 Qf6 41. Qe4 Kg7 42. Qb4 Qe5 43. Qa3 Bc5 44. Qd3 Bb6 45. Be4 {
+[#] Black must now prevent Bxg6.} Qf6 46. Qc2 Ba5 47. Bc6 Rd8 48. Rxd8 Qxd8 49.
+Qe4 Bb6 50. Qe5+ Qf6 51. Qb8 Qd8 52. Qxd8 (52. Qf4 {is interesting.} Kg8 53.
+Bf3 Qc7 54. Qa4 Qd6 55. Qa8+) 52... Bxd8 {[%mdl 4096] Endgame KB-KB} 53. Kf3
+Kf6 54. Ke4 Bb6 55. f3 Ke7 56. Kd3 f5 57. Ke2 Bc7 58. Kf2 Bb6 59. Bb7 Bc5 60.
+Bc8 Bb6 61. Ke2 Bc7 62. f4 Bb6 63. Kd3 Bc5 64. Bb7 {White is slightly better.}
+Bb6 65. Bf3 Bc5 66. Bd1 Bb6 67. Bb3 Bc5 {Accuracy: White = 66%, Black = 68%.}
+1/2-1/2
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.14"]
+[Round "9"]
+[White "Jiri Stocek"]
+[Black "Thai Dai Van Nguyen"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[Annotator "NA RC"]
+[PlyCount "61"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. a3 d5 5. cxd5 Nxd5 6. Qc2 Nxc3 7. dxc3 Be7 8.
+e4 Be6 9. Be3 O-O 10. Rd1 Qe8 11. Nd2 f6 12. Bc4 Qf7 13. Bxe6 Qxe6 14. Qb3 Qxb3
+15. Nxb3 Rad8 16. Ke2 b6 17. a4 Rxd1 18. Rxd1 Rd8 19. Ra1 Kf7 20. Nd2 g6 21.
+Nc4 a5 22. f4 Ke6 23. Rf1 exf4 24. Bxf4 Rd7 25. h3 Nd8 26. Nd2 Nf7 27. Nb3 c5
+28. Nd2 Bd6 29. Be3 Be5 30. Nc4 Nd6 31. Nxd6 1/2-1/2
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.14"]
+[Round "9"]
+[White "Mateusz Bartel"]
+[Black "David Paravyan"]
+[Result "0-1"]
+[ECO "A01"]
+[Annotator "NA RC"]
+[PlyCount "48"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 g6 4. h4 Nf6 5. Nf3 e4 6. Ng5 d5 7. h5 Bh6 8. Nh3 O-O
+9. hxg6 fxg6 10. Nc3 Be6 11. Ne2 Bg4 12. a3 Qd6 13. d4 exd3 14. Qxd3 Ne5 15.
+Qd4 Rae8 16. O-O-O c5 17. Qa4 d4 18. Nhf4 Bxf4 19. exf4 Nc6 20. f3 Be6 21. Qb5
+Nd5 22. Qxb7 Nc7 23. b4 Rb8 24. bxc5 Qd7 0-1
+
+[Event "Prague Festival Challengers 2019"]
+[Site "Prague"]
+[Date "2019.03.14"]
+[Round "9"]
+[White "Peter Michalik"]
+[Black "Alexei Shirov"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[Annotator "NA RC"]
+[PlyCount "61"]
+[EventDate "2019.03.06"]
+[EventType "tourn"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. O-O d5 7. exd5 Nxd5 8.
+Re1 Bg4 9. h3 Bh5 10. Nbd2 Nb6 11. Bb3 Qxd3 12. Nxe5 Qf5 13. Nef3 Rad8 14. g4
+Bxg4 15. hxg4 Qxg4+ 16. Kh1 Qh3+ 17. Nh2 Bd6 18. f4 Bxf4 19. Re2 Ne5 20. Qf1
+Qxf1+ 21. Ndxf1 Nd3 22. Bxf4 Nxf4 23. Re7 Nbd5 24. Re5 Rfe8 25. Rxe8+ Rxe8 26.
+Rd1 c6 27. Nf3 Kf8 28. Rd4 Re2 29. N1d2 f5 30. Bc4 Re7 31. Bxd5 1/2-1/2
+

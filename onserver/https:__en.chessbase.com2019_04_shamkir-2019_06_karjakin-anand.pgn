@@ -1,0 +1,72 @@
+[Event "Shamkir Chess "]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "6"]
+[White "Karjakin, S.."]
+[Black "Anand, V.."]
+[Result "1-0"]
+[Annotator "DF"]
+[PlyCount "103"]
+[EventDate "2019.04.07"]
+
+{[#]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 {Finally we
+get to see one of these! No more ...Nbd7...} 7. dxc5 Bxc5 8. Qc2 Nc6 {I've
+elaborated on this position in, inter alia, a game between the same two
+players from Norway Chess 2018.} 9. Rd1 ({That game continued} 9. a3 {, which
+can obviously transpose, but here it didn't.} Qa5 10. O-O-O Ne4 (10... Bd7 11.
+cxd5 Nxd5 12. Ng5 $14) 11. Nb5 (11. Nxe4 {I can never resist including the
+variation that follows.} dxe4 12. Qxe4 Bxa3 13. bxa3 Qxa3+ 14. Kd2 Rd8+ 15. Ke2
+Qb2+ 16. Rd2 Rxd2+ 17. Nxd2 e5 18. Bg3 Bg4+ $3 19. f3 (19. Qxg4 Rd8 20. Kf3
+Qxd2 21. Bh4 f5 22. Qg5 Rd4 $1 $11 {leads to perpetual check.}) 19... Rd8 20.
+Be1 Bh5 $13) 11... a6 12. Nc7 e5 $1 {Originally played by Karjakin and also
+mentioned in my notes to the above-referenced game.} 13. Rxd5 $1 (13. Nxd5 {
+is tricky, but probably eventually nothing for White.} Nxf2 $1 (13... exf4 14.
+Qxe4 fxe3 15. fxe3 h6 16. Nd4 $16 {Ivanchuk,V-Karjakin, S Medias 2017}) 14. Ng5
+$1 (14. Qxf2 exf4 15. Nxf4 b5 $40) 14... Bf5 $1 15. Qxf2 (15. Qxf5 g6 $17)
+15... f6 16. Nh3 exf4 17. Nhxf4 Ne5 $44 {Black has full compensation for the
+pawn.}) 13... exf4 $1 (13... Nxf2 14. Qxf2 Qxc7 15. Nxe5 Nxe5 16. Bxe5 Qc6 17.
+Bd4 $1 $14) (13... f5 $2 14. Rxe5 Nxe5 15. Bxe5 Ra7 16. Nd5 $16 {Kasparov,
+G-Vaganian,R Debrecen 1992}) 14. Qxe4 Qxc7 15. Rxc5 fxe3 16. Bd3 (16. Qxe3 b6
+17. Rh5 Bg4 18. Rg5 Rfe8 $1 $11) 16... g6 17. fxe3 (17. Qxe3 b6 18. Rg5 (18.
+Rh5 Bg4 19. Rh4 Bxf3 20. gxf3 Ne5 $132) 18... Na5 $13 {Black will follow up by
+hitting the c4-pawn repeatedly, and White does not have enough attacking
+firepower to ignore the threats. Therefore he must retreat and admit to
+equality.}) 17... Be6 $1 $13 {Within not many moves at all Black was clearly
+better in Karjakin,S-Anand,V Stavanger 2018.}) 9... Qa5 10. a3 Rd8 11. Nd2 d4
+$5 {Now we follow the game Aronian-Caruana, LCC (Tiebreaks) 2018.} (11... dxc4
+12. Nxc4 Rxd1+ 13. Qxd1 Qd8 $14 {is solid enough}) 12. Nb3 Qb6 13. Na4 Bb4+ 14.
+axb4 Qxb4+ 15. Nd2 e5 16. Bg5 Qa5 17. Qb3 Nb4 18. Bxf6 gxf6 19. Be2 {Still
+following Aronian-Caruana. In light of the present game, the text move now
+seems better than my previous recommendation.} (19. exd4 $5 exd4 (19... Bf5 20.
+Be2 Nc2+ 21. Kf1 Nxd4 22. Qg3+ Kh8 23. Nc3 Bc2 24. Qh4 $1 $14) 20. Be2 Re8 $1 (
+20... Bd7 $6 21. Qg3+ Kh8 22. b3 {and now Black can't keep his opponent's king
+in the centre (which would be needed to generate counterplay) except by truly
+exceptional methods.} Re8 23. Kf1 Rxe2 24. Kxe2 Qf5 25. Rhe1 Rg8 $16 {Black
+has decent compensation, but not quite enough.}) 21. Qg3+ Kh8 22. O-O $1 $14 {
+This is the critical move, after which Black should be worried. I see no
+reason to revise my assessments or lines from 2018. However, the advantage is
+less clear than in the game.}) 19... Bd7 20. Ra1 dxe3 21. fxe3 b5 22. O-O bxa4
+23. Qc3 f5 24. Nf3 f6 25. Nh4 {Otherwise ...Nc6 in any case.} Nc6 26. Qa3 e4 (
+26... Qb4 $14 {is playable, but looks like an admission of being worse.}) 27.
+Bd1 $1 (27. c5 Rab8 28. Nxf5 Bxf5 29. Rxf5 Kg7 $14 {with continuing mess in
+which Black shouldn't be meaningfully worse- the most likely outcome is R+3 v
+R+2.}) 27... Ne5 (27... Be6 {was a genuine option according to my engine.}) 28.
+Bxa4 {Previously I wrote that 'now the game becomes less interesting', but
+Karjakin has looked even further...} (28. Qe7 $5) 28... Qxa4 29. Qxa4 Bxa4 30.
+Rxa4 f4 31. c5 $5 {Only this is the novelty!! Black faces practical problems.}
+(31. Rxf4 Rd1+ 32. Rf1 Rxf1+ 33. Kxf1 Rb8 34. b4 Nxc4 35. Nf5 Rb5 $11 {[%emt 0:
+00:01] Aronian, L-Caruana,F LCC Rapid 2018}) (31. exf4 Nd3 32. Nf5 Nxb2 (32...
+a5 $5) 33. Ra6 Nxc4 34. Rc1 Nb6 $11) 31... fxe3 32. Rxe4 Rab8 33. Rxe3 Rxb2 34.
+h3 Rc2 35. Rxf6 Rxc5 {If White took the trouble to memorise the Caruana game
+up to move 30, then probably he also anticipated the game up to this point.
+His advantage stems from greater king safety (a 2 pawn cover rather than 1)
+and a more stable knight.} 36. Ra6 $1 Nc6 37. Nf3 Rc8 38. Re6 Rc7 39. Kh2 Kg7
+40. Ra4 h5 41. Ra6 Ne7 42. Nd4 $14 {It's a difficult position to defend.} Nf5
+$6 {This seems to be a small slip.} (42... Rd7 {might be better}) 43. Ne2 {
+Biding his time.} (43. Rg6+ Kh7 44. Nf3 $16 {was a promising attacking
+continuation}) 43... Rc4 44. Rg6+ Kf8 45. Rg5 Ng7 46. Rf6+ Rf7 47. Rh6 Ke7 48.
+Ra5 Ke8 49. Rh8+ Rf8 50. Rh7 Rf7 51. Re5+ Kd8 52. Rexh5 $18 {And, like that,
+the game is over! A truly perplexing encounter. In terms of redefining opening
+theory, this is probably about as epoch-marking as the Carlsen-Kramnik game in
+the QGD, after which almost nobody played with the doubled f-pawns anymore!}
+1-0

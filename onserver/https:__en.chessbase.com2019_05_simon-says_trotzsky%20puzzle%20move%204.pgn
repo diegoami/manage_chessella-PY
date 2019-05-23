@@ -1,0 +1,16 @@
+[Event "?"]
+[Site "?"]
+[Date "1935.04.15"]
+[Round "?"]
+[White "Troitzky Study"]
+[Black "?"]
+[Result "*"]
+[Annotator "Simon"]
+[SetUp "1"]
+[FEN "3k4/3p4/P2P2P1/p1p1P3/K3p3/3P3B/P3p2P/3N3b w - - 0 1"]
+[PlyCount "19"]
+
+{[#]} 1. Nc3 e1=Q 2. g7 (2. a7 $2 exd3 3. g7 Qh4+) 2... Qg1 3. a7 exd3 4. Bg2
+$3 Qd4+ 5. Kb5 Qb4+ 6. Ka6 Qc4+ 7. Kb6 Bxg2 8. Nd5 $3 {'Novotny'} Qxd5 9. a8=Q+
+Qxa8 10. g8=R# *
+

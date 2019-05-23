@@ -1,0 +1,74 @@
+[Event "Shamkir Chess"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "3"]
+[White "Radjabov, T.."]
+[Black "Ding, L.."]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "86"]
+[EventDate "2019.04.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 {The Marshall hasn't been cool for a
+while, but nobody remembers quite why. Today, it seems Radjabov noticed that
+his opponent had a recent game in it, and decided to prepare something; for
+once, his opponent was happy to oblige.} 12. d3 (12. d4 Bd6 13. Re1 Qh4 14. g3
+Qh3 {This was the main position I remember going into detail in, back in the
+day when I was learning Marshall theory. (2009.)} 15. Re4 $5 {The most
+ambitious move.} (15. Be3 Bg4 16. Qd3 Rae8 17. Nd2 Qh5 $1 {This move-order
+refinement came as a response to a tactical trick of White's.} (17... Re6 18.
+Qf1 Qh5 19. f3 Nxe3 20. Qf2 $14) 18. a4 Re6 19. axb5 axb5 {From this position
+White normally ended up giving up the bishop-pair and drawing some pawn-up
+ending, or else receiving a perpetual check such as:} 20. Ne4 Bf5 21. Bd2 Rxe4
+22. Rxe4 Qg6 23. f3 Bxg3 24. hxg3 Qxg3+ 25. Kh1 Qh3+ $11) 15... g5 $1 16. Qf1
+Qh5 17. Nd2 Bf5 18. f3 Rae8 19. a4 $5 (19. Rxe8 Rxe8 20. Ne4 Bxe4 21. fxe4 Rxe4
+22. Bd1 g4 23. a4 Re6 24. axb5 axb5 $11 {White doesn't have enough targets to
+hit on the queenside.}) 19... Kg7 $5 {It seems to me that a new move is called
+for against 19.a4, and this is likely it.} (19... b4 20. Rxe8 Rxe8 21. Ne4 Bxe4
+22. fxe4 Rxe4 23. Bd1 g4 24. Bd2 Re6 25. Bb3 $14 {By contrast to the line
+without a4, ...b4 included, White is gaining tempo off the a6-pawn, which can
+be used to play Re1- neutralising Black's initiative. Thereafter he can play
+around with the bishop pair.}) (19... Bxe4 20. Nxe4 $1 (20. fxe4 f5 21. e5 f4
+22. Qd1 f3 23. Nxf3 {was a prep draw in So,W-Tomashevsky,E Tromsoe 2013}) 20...
+Re6 $8 21. axb5 axb5 22. Nxg5 Rg6 23. Ne4 (23. f4 {is a known line leading to
+various forced draws, e.g.} Bxf4 24. Bxf4 Nxf4 25. Nxf7 Nd5 26. Bd1 Qh4 27. Qg2
+Qe7 28. Ne5 Nf4 29. Qf1 Qe6 30. Kh1 Nh3 31. Qg2 Nf2+ $11) 23... Bb8 (23... Re8
+24. Ra7 Bb8 25. Rb7 Qf5 26. Bxd5 Qxd5 27. Qh3 $36 {White has an initiative
+which does not seem easy to boil down to a mere perpetual check.}) 24. f4 Qf5
+25. Nc5 $14 {Since Black cannot take on f4, it seems that White will
+inevitably manage to consolidate with Qf2, Bc2, Nd3.}) 20. axb5 axb5 21. Rxe8 (
+21. Qf2 Bxe4 22. Nxe4 Bb8 23. Nxg5 f6 24. Ne4 f5 25. Nc5 Rf7 $11) 21... Rxe8
+22. Ra7 $5 $13 {The position remains very complicated and warrants further
+investigation. My guess is that a detailed study of these lines are the main
+reason Black players have recently rejected the Marshall.}) 12... Bd6 13. Re1
+Bf5 14. Qf3 Qh4 {By contrast to the d4-lines, Black doesn't need to be in any
+great hurry to prove compensation here. It's possible, for instance, to just
+play ...Qf6-g6.} ({But swapping isn't good:} 14... Re8 15. Rxe8+ Qxe8 16. Nd2
+Qe1+ 17. Nf1 Bg6 18. g3 $1 {and White will unravel, e.g.} Re8 19. Bd1 Qe6 20.
+Bd2 $14) 15. g3 Qh3 16. Nd2 Rae8 17. Ne4 Bg4 18. Qg2 Qxg2+ 19. Kxg2 f5 20. h3
+$146 {A novelty, but it comes to nothing.} (20. Bf4 {was the predecessor game:}
+Bxf4 21. gxf4 fxe4 22. dxe4 Bf3+ 23. Kxf3 Rxf4+ 24. Kg3 Rfxe4 25. Rxe4 Rxe4 26.
+a4 (26. f3 $5 {is marginally more ambitious:} Re5 (26... Re2 $1 27. c4 bxc4 28.
+Bxc4 Rxb2 29. Bxa6 g5 {is like the game}) 27. c4 bxc4 28. Bxc4 a5 29. h4 Kf7
+30. Bd3 {Maybe White can try and prove something here.}) 26... Re2 27. axb5
+axb5 28. Rd1 Rxb2 29. Bxd5+ cxd5 30. Rxd5 Rb3 31. f3 Rxc3 32. Rxb5 {There is
+nothing left on the board for either player to try and win with, so a draw was
+agreed in Naroditsky,D-Ding,L chess.com INT 2019}) 20... Bh5 21. Bf4 Bxf4 22.
+gxf4 fxe4 23. dxe4 Bf3+ 24. Kxf3 Rxf4+ 25. Kg3 Rfxe4 26. Rxe4 Rxe4 27. f3 $5 {
+As in the note above.} Re2 {Now this is more strongly demanded than in the
+case without h3.} ({Now sitting tight with} 27... Re5 {is not such a great
+plan because White's king is closer to the rook and so Black can't ever repeat
+moves with ...Rg5+, ...Rh5.} 28. c4 bxc4 29. Bxc4 a5 30. Rc1 Rg5+ 31. Kf2 Kf8 (
+31... Rh5 32. Bb3 $16) 32. Bd3 Ne7 33. Be4 Rh5 34. Kg3 Rg5+ 35. Kf4 Rh5 36. Kg4
+$1 {This is what h3 was played for, 13 moves ago!} Rb5 37. a4 Rxb2 38. Rc5 Kf7
+39. Rxa5 h6 $14 {And the game continues, with miniscule winning chances for
+White.}) 28. c4 bxc4 29. Bxc4 Rxb2 30. Bxa6 g5 31. Bc4 Kg7 32. Bxd5 cxd5 33. a4
+h5 34. h4 (34. a5 $5 {This is more adventurous, but all the adventures are
+forced.} h4+ 35. Kg4 Kg6 36. f4 Rb4 37. Kf3 Rxf4+ 38. Ke3 Re4+ 39. Kd3 Kh5 40.
+a6 Re8 41. a7 Ra8 42. Kd4 g4 43. hxg4+ Kxg4 44. Kxd5 h3 45. Kc6 h2 46. Kb7
+Rxa7+ 47. Kxa7 Kg3 48. Kb6 Kg2 49. Kc5 h1=Q 50. Rxh1 Kxh1) 34... Kg6 35. a5 Rb7
+36. a6 Ra7 37. hxg5 Kxg5 38. Ra5 h4+ 39. Kh3 Kf4 40. Rxd5 Rxa6 41. Kxh4 Rh6+
+42. Rh5 Rxh5+ 43. Kxh5 Kxf3 1/2-1/2
+

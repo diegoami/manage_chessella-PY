@@ -1,0 +1,165 @@
+[Event "Sach, 2nd prize"]
+[Site "?"]
+[Date "1939.01.??"]
+[Round "?"]
+[White "Duras, Oldrich"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k7/2Kp2R1/5P2/8/2b4n/2p5/4p3/n7 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1939.??.??"]
+
+{This January 1939 study is more of a logical problem, but not in the sense of
+the "Neudeutsche Schule" ("New German School"). White is to move and win,
+which is done by checkmating Black. The "Saavedra checkmate" is achieved by
+cycling through Kc7-b6-c7 multiple times in some problems, but here we see
+this trick only once at the end. It received the 2nd prize, which suggests
+that the judge enjoyed it greatly. In its time this might have been rather
+novel, but nowadays such ideas have been seen many many times.} 1. f7 (1. Rg5
+$2 Nb3 $1) 1... Bxf7 {After this initial sacrifice to clear the 4th rank, the
+mating threats begin.} 2. Rg4 $1 Bb3 3. Rg1 $1 ({The blockade of b3 via
+"Roman" manoeuver (White is steering the bishop with his rook) is necessary,
+as the variation} 3. Rg5 $2 Bd5 $1 4. Rxd5 Nb3 $11 {tells us.}) 3... Nc2 ({
+Other main variation:} 3... e1=Q 4. Rxe1 Bd1 (4... Nc2 5. Re5 d5 6. Kb6 $18) 5.
+Kb6 $1 Bh5 6. Re7 $1 {and even with a move to spare, Black is helpless:} Kb8 7.
+Rg7 $18) (3... Bd1 4. Rg5 Nb3 5. Kb6 $18 {and this time the knight obstructs
+b3 when the bishop wants to enter it.}) 4. Rg5 $1 d5 5. Kb6 d4 6. Kc7 $18 {and
+Black is checkmated soon.} ({White only "loses" one move with} 6. Rh5 Ng6 7.
+Kc7 $18) 1-0
+
+[Event "Casopis Ceskoslovensky Sach, 4th prize"]
+[Site "?"]
+[Date "1923.10.??"]
+[Round "?"]
+[White "Duras, Oldrich"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/p7/8/1Pp2p2/2R1P1k1/8/1p6/1b1K4 w - - 0 1"]
+[PlyCount "16"]
+[EventDate "1923.??.??"]
+
+{This is one of the more game-like stalemate studies. White is to move and
+draw, a task that should not be too difficult if it wasn't for that pesky pawn
+on b2.} 1. exf5+ Be4 {The sacrifice has two ideas: First it steers the rook to
+the other side of the king, and second it vacates b1.} ({Here also is a second
+main variation, but this one contains no stalemate:} 1... Kg5 2. Rxc5 Bd3 3.
+Rc1 $1 ({White can't toy around:} 3. f6+ $2 Kxf6 4. Rc1 Ke5 5. Kd2 Kd4 $19)
+3... Kxf5 4. Kd2 Ke4 $1 5. Rb1 $1 ({sadly there is a Prokes manoeuver like
+dual:} 5. Rc4+ $11) 5... Bxb1 6. Kc3 $11) ({There is no issue if Black takes:} 
+1... Kxf5 2. Rxc5+ Ke4 {and now multiple moves draw, the easiest is} 3. Rc2 $1
+$11) 2. Rxe4+ Kxf5 $1 {White must create a vulnerability of Pc5 by forcing it
+to b4, otherwise Black wins easily:} 3. Rb4 $1 cxb4 4. Kc2 Ke4 5. Kxb2 Kd4 6.
+Kb3 Kc5 7. Ka4 ({Move order is important:} 7. b6 $2 axb6 $1 8. Ka4 b3 $1 9.
+Kxb3 Kb5 $19) 7... Kc4 $1 8. b6 $1 axb6 {with a nice stalemate. The final
+trick with knowledge of the correct move order should be in every player's
+repertoire.} 1/2-1/2
+
+[Event "Bohemia, 1st special prize"]
+[Site "?"]
+[Date "1906.12.27"]
+[Round "?"]
+[White "Duras, Oldrich"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/KPb5/8/P5p1/5p2/3k4/7P/2B5 w - - 0 1"]
+[PlyCount "29"]
+[EventDate "1906.??.??"]
+
+{This study, while fifteen moves long, is instructive, and its main idea is in
+the repertoire of most good players. White is to move and win, and for this
+either the a- or b-pawn must promote without being captured by the black
+bishop. White dedicates the entire play to setting up a zugzwang position.} 1.
+Ba3 ({It is too early for definitive action:} 1. b8=Q $2 Bxb8+ 2. Kxb8 f3 $11)
+1... Kc4 $1 ({Black wants to keep his pawns mobile:} 1... f3 2. Bc5 $18) 2. Be7
+$1 f3 3. Bd8 $1 Bxh2 ({Otherwise, as these two variations show, Black loses if
+he is a piece down in the queen endgame:} 3... f2 4. Bxc7 f1=Q 5. b8=Q $18) (
+3... Bb8+ 4. Kxb8 f2 5. Ka8 $18) 4. Bb6 Kb5 $1 {Getting the king closer
+prevents losing the bishop. White can't just promote on b8 and win by moving
+through with the a-pawn. So he has to find the zugzwang idea - the one he set
+up for the past few moves already.} (4... g4 5. a6 $18 {just changes the move
+order.}) 5. a6 $1 (5. b8=Q $2 Bxb8+ 6. Kxb8 Ka6 $1 $11 {Quod erat
+demonstrandum.}) 5... g4 ({It is important to know that a sacrifice is
+possible in case of} 5... Bg3 6. Bf2 $1 (6. Be3 $2 g4 $1 $11) (6. Bd4 $2 g4 $1
+$11) 6... Bxf2+ 7. Ka8 Bg3 8. a7 $18) 6. Bf2 $1 Bc7 $1 {and now the zugzwang
+begins to work:} 7. b8=Q+ $1 Bxb8+ 8. Kb7 $1 Ka5 $1 ({Faster is} 8... g3 9.
+Bxg3 Bxg3 10. a7 f2 11. a8=Q f1=Q 12. Qa6+ $18) 9. Bh4 $1 (9. Bg3 $2 Kb5 10.
+Bxb8 f2) 9... Kb5 10. Be1 $1 {Black has no moves left, he must bite the bitter
+fruit.} g3 (10... Kc5 11. Kxb8 $18) 11. Bxg3 Bxg3 ({White repeats his
+manoeuver if Black sacrifices all pawns:} 11... Ka5 12. Bh4 Kb5 13. Be1 f2 14.
+Bxf2 Ka5 15. Bh4 Kb5 16. Be1 $18) 12. a7 f2 13. a8=Q f1=Q {Both sides have a
+queen, Black is a bishop up, but White has a skewer:} 14. Qa6+ Kc5 15. Qxf1 $18
+1-0
+
+[Event "Sport a Hry"]
+[Site "?"]
+[Date "1909.09.24"]
+[Round "?"]
+[White "Duras, Oldrich"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "R4r2/8/8/4p3/8/6pk/R2B3p/7K w - - 0 1"]
+[PlyCount "16"]
+[EventDate "1909.??.??"]
+
+{I apologize to the readers for using a study that might have a well-known
+ending, but those that don't know it already should learn it as it might save
+half a point. White is to move and draw, and we get to the main idea after a
+three move introduction.} 1. Bf4 Rxa8 2. Rxh2+ gxh2 3. Bxe5 Ra2 {In the battle
+of rook vs. bishop, White only has one move to draw, and afterwards needs to
+threaten the pawn again.} 4. Bb2 $1 {It is important to know that this
+position is one of mutual zugzwang. In Alma Ata 1958 Gusev lost half a point
+for not knowing it, having a choice but running into the wrong end of the
+zugzwang.} Ra5 5. Be5 Ra2 6. Bb2 Kg3 7. Be5+ Kh3 8. Bb2 Rxb2 {. Black had
+nothing better than to eventually take the bishop - stalemate is achieved.}
+1/2-1/2
+
+[Event "Casopis Ceskoslovensky Sach"]
+[Site "?"]
+[Date "1917.10.??"]
+[Round "?"]
+[White "Duras, Oldrich"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k7/8/8/1p2P1p1/bK6/8/B7/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1917.??.??"]
+
+{The final study shows a battle for promotion. It is not very difficult, but
+has an echo variation and a third one where the black bishop is cut off.} {
+Black wants to use the route a4-c2-g6 or a4-d1-h5, so White cuts this off,
+forcing the bishop to use the "bad" diagonal a4-e8 where Pb5 obstructs the way.
+White can secure his win by being close enough with his king to cause trouble.
+} 1. Bf7 $1 Bc2 (1... Bd1 2. e6 Bf3 (2... Bg4 3. e7 Bd7 4. Kc5 $18 {see the
+main variation after 4. Kc5}) 3. Kc5 Bg4 (3... Kb7 4. e7 Bc6 5. Bd5 $18) 4. e7
+Bd7 5. Kd6 $18) 2. e6 Bf5 3. e7 Bd7 4. Kc5 {, and Black has three main
+variations, none of which can secure a draw.} {4.-} Kb8 ({Echo} 4... Kb7 5. Kd6
+Bc6 6. Bd5 $1 $18) ({The idea of vacating b5 fails as White can obstruct on c6:
+} 4... b4 5. Kd6 ({White can not exchange the move order:} 5. Bd5+ Kb8 6. Bc6
+Kc7 $1 $11) 5... Bb5 6. Bd5+ Kb8 7. Bc6 $18) 5. Kd6 Kc8 6. Be6 $1 $18 {This is
+echoed in the main variation marked with "Echo".} 1-0
+
+[Event "Alma Ata, 26th USSR ch, Quarterfinals"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Gusev, Nikolay Nikolaevich"]
+[Black "Zhukhovitsky, Samuil Markovich"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/8/8/8/4B3/1k6/p6r/K7 w - - 0 0"]
+[PlyCount "4"]
+
+{In this position from an USSR quarterfinal, White only had to make the
+correct 70th move, but lost by not knowing the Duras study (or a later version
+by Mouterde that added the thematic try seen here as actual play).} 1. Bg2 $2 (
+{Giving the check saved half a point as Black can't win a tempo:} 1. Bd5+ $1
+Ka3 2. Bg2 Kb3 3. Bd5+ Ka3 4. Bg2 Rh5 5. Bd5 $1 $11) 1... Ka3 {and White was
+lost. We don't know if time trouble played a role here, but as there were only
+two "candidate moves" and the other one draws, it is one of many explanations.}
+2. Bf1 Rc2 0-1
+

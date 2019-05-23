@@ -1,0 +1,33 @@
+[Event "NYS Scholastic Championship"]
+[Site "?"]
+[Date "2019.03.19"]
+[Round "4"]
+[White "Kong, Milo"]
+[Black "Adewumi, Tanitoluwa"]
+[Result "0-1"]
+[ECO "B00"]
+[WhiteElo "1371"]
+[BlackElo "1473"]
+[PlyCount "60"]
+[EventDate "2019.??.??"]
+
+{[%evp 9,60,-3,68,-42,-1,-25,13,-22,49,-120,-86,-146,-124,-240,-133,-303,-245,
+-323,-283,-289,-259,-297,-278,-311,-288,-299,-235,-239,-197,-257,-193,-255,
+-223,-260,-250,-319,-298,-338,-173,-173,-155,-160,-126,-151,-141,-151,-139,
+-139,-139,-149,-111,-198,-175]} 1. e4 b6 2. d4 Bb7 3. Bd3 Nf6 4. f3 e6 5. c4 d5
+(5... Nc6 $11) 6. e5 $146 {B00: Queen's Fianchetto Defence, Nimzowitsch Defence
+} (6. exd5 $14 exd5 7. Nc3) ({Predecessor:} 6. cxd5 exd5 7. e5 Nfd7 8. f4 c5 9.
+Nf3 Nc6 10. O-O cxd4 11. a3 {1/2-1/2 (58) Moiseenko,A (2692)-Mamedyarov,S 
+(2736) Berlin 2015}) 6... dxc4 $15 7. Bxc4 Nd5 8. Nc3 {The position is equal.}
+Bb4 (8... c5 $11) 9. Bd2 $2 (9. Nge2 $14 {keeps the upper hand.}) 9... Qh4+ $17
+{[%mdl 64] [#] Double Attack} 10. g3 (10. Kf1 $142) 10... Qxd4 {[%mdl 64]
+Double Attack} 11. Nxd5 (11. Bxd5 $17 exd5 12. Nge2) 11... Qxe5+ ({Much less
+strong is} 11... Bxd5 12. Bxd5 Bc5 13. Nh3) (11... Bxd2+ $19 12. Qxd2 Qxc4) 12.
+Ne3 $2 (12. Ne2 $17 Bxd2+ 13. Qxd2 exd5 14. O-O-O) 12... Qxe3+ $19 13. Be2
+Qxd2+ 14. Qxd2 Bxd2+ 15. Kxd2 Ke7 16. Rc1 Rd8+ 17. Ke3 Rd7 18. Nh3 h6 19. g4 (
+19. Nf2 $142) 19... g5 20. Rhd1 (20. Nf2 {keeps fighting.}) 20... Rxd1 21. Bxd1
+c5 22. Nf2 Nc6 23. Nd3 Nd4 (23... Rd8 $142 {Strongly threatening ...f5.} 24. h3
+f5) 24. b4 Rd8 25. bxc5 b5 26. Ne5 Rd5 27. c6 Rxe5+ 28. Kxd4 Rd5+ 29. Ke3 Bc8
+30. Be2 (30. Bb3 $17 Re5+ 31. Kd4) 30... Kd6 {and Black eventually won.
+Accuracy: White = 16%, Black = 38%.} 0-1
+

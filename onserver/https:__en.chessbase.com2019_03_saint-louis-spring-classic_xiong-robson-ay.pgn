@@ -1,0 +1,49 @@
+[Event "St Louis Spring A"]
+[Site "Saint Louis USA"]
+[Date "2019.03.10"]
+[Round "9"]
+[White "Xiong, Jeffery"]
+[Black "Robson, Ray"]
+[Result "1-0"]
+[ECO "D13"]
+[WhiteElo "2663"]
+[BlackElo "2667"]
+[Annotator "Alex Yermolinsky"]
+[PlyCount "109"]
+[EventDate "2019.03.02"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 a6 7. Rc1 Bf5 8. e3
+e6 9. Qb3 Nh5 10. Be5 f6 11. Bg3 Nxg3 12. hxg3 Bg6 13. Nh4 Bf7 14. Bd3 f5 15.
+g4 g6 16. gxf5 exf5 17. Nf3 Bd6 18. O-O O-O 19. Ne2 Na5 20. Qd1 Qf6 21. Qa4 Nc4
+22. Qc2 Na5 23. Ne5 $1 {An excellent positional pawn sacrifice.} Bxe5 24. dxe5
+Qxe5 25. Qc7 Qxc7 26. Rxc7 {[#]} Rfc8 $2 ({The way to solve problems lay in} 
+26... Rab8 27. b3 (27. Rfc1 Nc4 28. b3 Ne5 {and the stray knight returns.})
+27... Rfc8 28. Rfc1 Nc6 $1 {depriving White of all Bxa6 ideas.}) 27. Rfc1 Rxc7
+28. Rxc7 {[#]} d4 {Finding himself in a spot of trouble, Ray tries to
+counterattack, but everything becomes very forced and in the end White always
+stays on top.} ({Now} 28... Rb8 29. b3 Nc6 {is well met by} 30. Bxa6 {but
+still, the line continues:} Nd8 31. Bd3 Ne6 {evicting the offending rook with
+good prospects of defending successfully.}) 29. Nxd4 Bxa2 30. b4 Nc6 31. Nxc6
+bxc6 32. Rxc6 a5 33. b5 a4 (33... Kf8 34. b6 Rb8 35. Ba6 Bd5 36. Rc8+ {leads
+to the same thing: White is going to be up a piece.}) 34. b6 Rb8 35. Ba6 Kg7
+36. b7 Bd5 37. Rc5 Be6 38. Rc8 Rxb7 39. Bxb7 Bxc8 40. Bxc8 Kf6 41. Ba6 Ke5 {
+[#] The smoke has cleared and White is facing a difficult technical task.} 42. f3 $1 (
+{The direct} 42. f4+ Kd5 43. Bd3 a3 44. Bb1 Kc4 45. Ba2+ {works well in case of
+} Kc3 ({but not against the crafty} 45... Kd3 $1 46. Kf2 h5 47. g3 Kd2 48. Kf3
+Kd3 49. Bf7 Kd2 50. e4 fxe4+ 51. Kxe4 Ke2 $1) 46. Bf7 Kb2 47. e4 $1 fxe4 48.
+Kf2 a2 49. Bxa2 Kxa2 50. g4) 42... f4 $1 ({Another interesting line is} 42...
+Kd5 43. Bb5 (43. Bd3 a3 44. Bb1 Kc4 45. Ba2+ Kd3 {is the same thing.}) 43... a3
+44. Be8 Kc4 45. Kf2 Kd3 46. Bf7 {[#] and now it's not obvious how White wins
+after} h5 47. Bd5 g5 {The solution is} 48. Be6 $1 ({but not} 48. e4 Kd4 $1)
+48... Kc3 49. g3 h4 50. g4 $1 fxg4 51. fxg4 Kd3 (51... Kb4 52. e4 Kc5 53. Ke3
+Kd6 54. Ba2 Ke5 55. Bd5 {It's easy to zugzwang when you're up a bishop.}) 52.
+Bd5 Kc3 53. Ke2 Kb4 54. e4 Kc5 55. Ke3 Kd6 56. Kd4 Ke7 57. e5 Kd7 58. Kc3 {
+going after the a-pawn.}) 43. Kf2 a3 44. Bc4 h5 45. exf4+ Kxf4 46. g3+ Kf5 47.
+Ba2 g5 48. Ke3 {[#]} {Sorry to say that, but it's not the first time
+Robson goes wrong in the endgame.} Ke5 $2 {Waiting is hopeless.} ({Perhaps,
+salvation could have been found in} 48... g4 $1 49. Bb1+ Kg5 50. f4+ Kf6 51. Ke4 Ke6
+52. Ba2+ Kf6 53. Kd4 Ke7 54. Kc3 Kd6 $1 {taking control of d5, and therefore
+planning the break h5-h4. I don't see how White wins this. Maybe my dear
+readers can help.}) 49. Bb1 Kf6 ({Too late to try} 49... g4 {on account of} 50.
+fxg4 hxg4 51. Ba2) 50. Ke4 Ke6 51. Ba2+ Kf6 52. Bb3 Kg6 53. Ke5 Kg7 54. Kf5 Kh6
+55. Ba2 1-0

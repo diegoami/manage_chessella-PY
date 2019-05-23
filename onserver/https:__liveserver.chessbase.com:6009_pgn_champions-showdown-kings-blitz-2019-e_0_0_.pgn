@@ -1,0 +1,1151 @@
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.22"]
+[Round "1"]
+[White "Rapport, Richard"]
+[Black "Shankland, Samuel"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "2735"]
+[BlackElo "2731"]
+[Annotator "TA"]
+[PlyCount "98"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,98,-2,0,-8,-4,-32,-6,-25,-36,-33,-32,-11,-22,-32,-45,-74,-89,-57,-72,
+-88,-101,-248,-63,-65,-52,-213,-215,-333,-97,-91,-69,-122,-118,-106,-108,-115,
+-82,-83,-91,-84,-36,-48,-42,-46,-15,-77,-67,-116,-116,-116,-125,-121,-28,-29,
+-38,-131,-80,-68,-54,-52,-24,-27,-34,-28,-36,-28,-18,-41,-41,-90,-43,-122,-122,
+-514,-160,-149,-132,-132,-83,-83,-83,-83,-18,-18,0,-485,-445,-445,-443,-29996,
+-29997]} 1. d4 Nf6 2. Bg5 e6 3. Nc3 Bb4 (3... h6 4. Bxf6 Qxf6 5. Qd2 d6 6.
+O-O-O a6 7. g4 Nd7 8. f4 g5 9. e3 Qe7 10. h4 Bg7 11. hxg5 hxg5 12. Rxh8+ Bxh8 {
+1-0 (28) Rapport,R (2707)-Ponomariov,R (2694) Riadh 2017}) 4. e4 h6 5. Bd2 d5
+6. exd5 $146 {A45: Trompowsky Attack} ({Predecessor:} 6. e5 Bxc3 7. Bxc3 Ne4 8.
+Bb4 c5 9. Bxc5 Nxc5 10. dxc5 Qa5+ 11. Qd2 Qxd2+ 12. Kxd2 Nd7 13. Bb5 a6 14.
+Bxd7+ Bxd7 15. b4 Ke7 16. Ne2 f6 17. f4 fxe5 18. fxe5 Rhf8 {1-0 (33) Fletcher,
+A-Woodhouse,S (1644) ICCF email 2014}) 6... exd5 7. Bd3 O-O 8. Nge2 {The
+position is equal.} c5 9. dxc5 Bxc5 {Strongly threatening ...Ng4.} 10. O-O Nc6
+11. a3 Ne5 12. Nf4 Re8 13. Bb5 Bg4 14. Be2 d4 15. Na2 {[#]} (15. Na4 $17 Bd6
+16. Bxg4 Nexg4 17. h3) 15... Rc8 $2 (15... d3 $1 $19 {[%mdl 512]} 16. cxd3 Nxd3
+$1 {[%mdl 512]}) 16. Nc1 Bd6 17. f3 $2 ({White should try} 17. Bxg4 $15 Nexg4
+18. h3) 17... Bf5 18. Ncd3 (18. Bd3 $142 Nxd3 19. Ncxd3) 18... Nxd3 $2 (18...
+Nc4 $19 {has better winning chances.} 19. Rc1 Qb6) 19. Bxd3 $17 Qd7 20. a4 (20.
+Rc1 $15) 20... Bxd3 21. Nxd3 Nd5 22. Re1 Qf5 23. Rxe8+ Rxe8 24. Qf1 Qh5 25. g3
+Ne3 26. Bxe3 Rxe3 27. Kg2 (27. Re1 $1 $11) 27... Qa5 {Threatens to win with ...
+Qd2+.} 28. Re1 Qxa4 29. Rxe3 dxe3 30. Qe2 Qd4 (30... Bc7 $17 31. Qxe3 Qxc2+ 32.
+Kh3 Qc6) 31. c3 $11 Qb6 32. b4 (32. f4 $1 $15) 32... a6 (32... Qc6 $142 33.
+Qxe3 Qxc3 34. Qe8+ Bf8) 33. Nb2 $17 Bf8 $36 {[%mdl 2048] White is under
+pressure.} 34. Nd1 a5 35. bxa5 Qb3 36. Nxe3 Qxc3 37. Nc4 g6 38. h4 h5 39. Qe4
+Bc5 40. Qe8+ (40. f4 $15) 40... Kg7 41. Ne5 $2 {[%mdl 8192] [#]} (41. Qe2 $17 {
+is more resistant.}) 41... Qc2+ $2 (41... Qd2+ $1 $19 {is more deadly.} 42. Kh3
+Qd5) 42. Kh3 Qf5+ 43. Kg2 Bd6 44. f4 Qe4+ 45. Kh2 Qe2+ (45... Qc2+ $17 46. Kh3
+Qb3) 46. Kh3 $11 Bxe5 47. fxe5 $4 {[%mdl 8192]} (47. Qxe5+ $11 {and White has
+nothing to worry.} Qxe5 48. fxe5) 47... Qf1+ 48. Kh2 {[#]} Qf2+ $1 49. Kh3 (49.
+Kh1 $19 Qxg3 50. Qa4) 49... Qg1 {Precision: White = 24%, Black = 45%.} 0-1
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.22"]
+[Round "2"]
+[White "Shankland, Samuel"]
+[Black "Rapport, Richard"]
+[Result "0-1"]
+[ECO "E94"]
+[WhiteElo "2731"]
+[BlackElo "2735"]
+[Annotator "TA"]
+[PlyCount "99"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,99,77,39,70,69,102,105,106,104,104,90,92,93,100,70,70,59,89,88,89,83,
+124,82,125,112,118,115,128,109,103,9,8,11,11,0,0,-12,0,-196,-196,-630,-608,
+-622,-598,-580,-515,-29991,-29990,-29990,133,0,0,0,0,0,0,-435,200,183,267,249,
+353,370,783,467,897,883,937,925,1057,1024,1413,1386,1785,1406,1306,1098,985,
+291,315,0,0,0]} 1. d4 Nf6 2. c4 d6 3. Nf3 g6 4. Nc3 Bg7 5. e4 O-O 6. Be2 e5 7.
+O-O Nbd7 8. Qc2 Qe7 9. Be3 c6 10. Rad1 h6 {E94: King's Indian: Classical: 6
+Be2 e5 7 0-0: Various Black 7th moves} (10... a6 11. Rfe1 exd4 12. Nxd4 h6 13.
+Bf1 Ng4 14. Bf4 Nc5 15. Qd2 Qf6 16. h3 Qxd4 17. Qxd4 Bxd4 18. hxg4 {1/2-1/2 
+(35) Wojtaszek,R (2745)-Adhiban,B (2682) Sharjah 2017}) 11. d5 c5 12. Ne1 Kh8
+$146 {White is better.} ({Predecessor:} 12... Nh7 13. Qc1 h5 14. Nd3 h4 15. a3
+f5 16. exf5 gxf5 17. f4 exf4 18. Nxf4 {1-0 (52) Alshameary Puente,I (2369)
+-Rotstein,A (2476) Figueira da Foz 2018}) 13. Nd3 Ng8 14. a3 b6 15. b4 Ba6 16.
+bxc5 Nxc5 17. Nb4 Bc8 18. a4 f5 19. f3 Nf6 20. a5 Nh5 21. Ra1 {Threatens to
+win with axb6.} Bd7 22. Nc6 Qf6 23. Nb5 Nf4 24. g3 ({Of course not} 24. Nbxa7
+$6 fxe4 25. fxe4 Qg5 $11) (24. Kh1 $16) 24... Nh3+ $11 25. Kh1 f4 26. Bxc5 bxc5
+27. g4 h5 28. gxh5 $2 (28. Nbxa7 $11 hxg4 29. fxg4) 28... gxh5 $19 29. Ncxa7 $2
+(29. Bd3 a6 30. Rab1) 29... Bh6 30. Nc6 Rf7 31. a6 Rg7 32. a7 (32. Bd3 $19 Kh7
+33. a7 Bxc6 34. Qd2 (34. dxc6 {leads to mate.} Qg6 35. Qf2 Nxf2+ 36. Rxf2 Rag8
+37. h3 Qg3 {[%mdl 64] Double Attack} 38. Raf1 Qxh3+ 39. Rh2 Qxf1+ {[%mdl 64]
+Remove Defender, Back Rank} 40. Bxf1 Rg1#)) 32... Qg5 {[%csl Gg7][%cal Rg5g2]}
+33. Bd3 Qf6 $2 (33... Bxc6 $1 {mates} 34. dxc6 Kh7 35. Qf2 Rag8 36. Qg3 fxg3
+37. hxg3 Qxg3 38. Ra2 Bf4 39. Nxd6 Qxf3+ $1 {[%mdl 576] Deflection, Back Rank}
+40. Rxf3 Rg1#) 34. Nb8 (34. Qe2 $1 $16) 34... Bxb5 $11 35. cxb5 {Strongly
+threatening b6.} Raxa7 36. Rxa7 Rxa7 37. Nc6 $2 {[%mdl 8192]} (37. Qg2 $1 $11 {
+and White has nothing to worry.} Qh4 38. Nc6) 37... Rb7 $4 {[%mdl 8192] [#]} (
+37... Rg7 $19 {and all is fine. ( -> ...Qg6)} 38. Qg2 Rxg2 39. Kxg2 c4 $1 {
+[%mdl 512]} 40. Bxc4 Ng5) 38. Qg2 $1 $36 {[%cal Rg2h3][%mdl 2048] White is
+really pushing.} Ng5 (38... Qh4 {is a better defense.}) 39. Qa2 {Black must
+now prevent Qa8+.} Kh7 {[#]} (39... Qf8 $142 40. Qa6 Rg7) 40. b6 $1 {[%mdl 512]
+} Nh3 $2 (40... Qg6 41. Rg1 Qe8) (40... Rxb6 41. Qa7+) 41. Qg2 Ng5 (41... Qh4
+$142 42. Ba6 Rxb6) 42. Rb1 Bf8 43. Ba6 Rg7 44. Bc8 Nxe4 45. Qc2 {[%mdl 64] Pin}
+Qg5 46. fxe4 f3 47. Bf5+ Kh6 48. b7 $2 (48. Qf2) 48... Qe3 {intending ...f2.}
+49. b8=Q $2 (49. Nxe5 $18 f2 50. Qc1 Qxc1+ 51. Rxc1 Rxb7 52. Nc4) 49... f2 $11
+{[%cal Re3f3]} 50. Qc1 {[%mdl 32768] Accuracy: White = 50%, Black = 43%. .
+Loss on time!?} 0-1
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.22"]
+[Round "3"]
+[White "Rapport, Richard"]
+[Black "Shankland, Samuel"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2735"]
+[BlackElo "2731"]
+[Annotator "TA"]
+[PlyCount "82"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,82,0,0,0,0,-16,2,-2,0,0,7,13,34,16,37,42,122,127,237,45,60,4,67,16,17,
+18,21,-10,-14,-54,-50,-51,-50,-64,-43,-41,-48,-121,-107,-149,-136,-148,-124,
+-144,-148,-134,-114,-163,-170,-155,-153,-252,-180,-195,-185,-259,-252,-325,
+-178,-181,-112,-112,-112,-112,-112,-226,-123,-258,-6,-58,0,0,0,0,0]} 1. d4 Nf6
+2. Nc3 d5 3. Bf4 g6 (3... e6 4. Nb5 Na6 5. e3 Be7 6. Nf3 O-O 7. Bd3 c6 8. Nc3
+Nb4 9. h3 Nxd3+ 10. cxd3 b6 11. O-O Bb7 {0-1 (40) Rapport,R (2731)-Giri,A 
+(2783) Wijk aan Zee 2019}) 4. e3 Bg7 5. Nb5 Na6 6. Nf3 {D00: 1 d4 d5: Unusual
+lines} O-O 7. h3 Bf5 8. a3 $146 ({Predecessor:} 8. Be2 c6 9. Nc3 Qb6 10. Na4
+Qa5+ 11. c3 b5 12. Ne5 Rfc8 13. g4 {0-1 (39) Ladva,O (2522)-Gupta,A (2610)
+chess.com INT 2018}) 8... c5 9. Be2 Ne4 10. O-O Qb6 11. c3 Rfd8 12. a4 Rd7 (
+12... Rdc8 $14) 13. Ne5 $16 Rdd8 (13... Bxe5 $16 {was called for.} 14. Bxe5 f6)
+14. b3 $2 (14. f3 $18) 14... Bd7 15. Qe1 (15. Nxd7 $14 Rxd7 16. Qe1) 15... Be8
+(15... Bxb5 $1 $11 16. a5 (16. axb5 Nc7 $11) (16. Bxb5 cxd4 17. cxd4 Bxe5 $11)
+16... Qe6 17. Bxb5 Rac8) 16. Bd3 ({White should try} 16. f3 $14 Nf6 17. Qd2)
+16... Rdc8 $11 17. Bh2 Nd6 {[%cal Rd6b5]} 18. Qe2 cxd4 19. exd4 (19. cxd4 {
+with more complications.} Nb4 20. a5 Qd8 21. Nxd6 exd6 22. Qd2) 19... Nxb5 $1
+20. axb5 Nc7 {[%cal Rc7b5]} 21. Qf3 Nxb5 22. Bxb5 Qxb5 23. b4 (23. c4 $15 Qb6
+24. Qxd5) 23... b6 24. Rfe1 f6 25. Ng4 Qd7 26. Bf4 h5 27. Ne3 e6 28. Ra3 a5 29.
+bxa5 bxa5 30. g4 (30. Nc2 $17) 30... g5 31. Bh2 h4 32. c4 (32. Nd1 $142) 32...
+dxc4 $19 33. d5 Bf7 (33... e5 $142 34. Rd1 c3) 34. Nxc4 {Strongly threatening
+dxe6.} Rxc4 (34... Ra6 $19 35. dxe6 Rxe6) 35. dxe6 $17 {[#]} Qc6 $1 {And now ..
+.Be8 would win.} 36. exf7+ Kxf7 37. Qf5 (37. Qxc6 $17 Rxc6 38. Rea1) 37... Rc1
+({Black should play} 37... Re8 $19 {[%cal Re8e1]} 38. Rd1 Rc1) 38. Rae3 {[#]} (
+38. Rxc1 $17 {only move.} Qxc1+ {[%mdl 64] Double Attack} 39. Kg2) 38... Rxe1+
+$2 (38... a4 $1 $19 {[%cal Ra4a3] ...a3 is the strong threat.} 39. Qd3 Kg8 40.
+Rxc1 Qxc1+ 41. Kg2 Qc6+ 42. f3 Qb7) 39. Rxe1 $15 Re8 (39... a4 $1 $15 40. Qd3
+Ra7) 40. Qxa5 $11 Rxe1+ 41. Qxe1 Bf8 {Accuracy: White = 34%, Black = 38%.}
+1/2-1/2
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.22"]
+[Round "4"]
+[White "Shankland, Samuel"]
+[Black "Rapport, Richard"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "2731"]
+[BlackElo "2735"]
+[Annotator "ChessBase"]
+[PlyCount "91"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "900+10"]
+
+1. d4 {[%emt 0:12:06]} d6 {[%emt 0:12:06]} 2. e4 {[%emt 0:00:10]} Nf6 {[%emt 0:
+00:09]} 3. Bd3 {[%emt 0:00:09]} Nc6 {[%emt 0:00:12]} 4. Nf3 {[%emt 0:00:11]} e5
+{[%emt 0:00:11]} 5. c3 {[%emt 0:00:09]} Be7 {[%emt 0:00:13]} 6. O-O {[%emt 0:
+00:10]} O-O {[%emt 0:00:10]} 7. a3 {[%emt 0:00:10]} a5 {[%emt 0:00:16]} 8. h3 {
+[%emt 0:00:12]} Re8 {[%emt 0:00:13]} 9. Re1 {[%emt 0:00:16]} Bf8 {[%emt 0:00:
+11]} 10. Nbd2 {[%emt 0:00:16]} Bd7 {[%emt 0:00:10]} 11. Nf1 {[%emt 0:00:11]} a4
+{[%emt 0:00:09]} 12. Ng3 Na5 13. Be3 {[%emt 0:00:23]} c5 {[%emt 0:00:25]} 14.
+Nd2 {[%emt 0:00:27]} b5 {[%emt 0:00:13]} 15. f4 {[%emt 0:00:22]} cxd4 {[%emt 0:
+00:15]} 16. cxd4 {[%emt 0:00:09]} exd4 {[%emt 0:00:36]} 17. Bxd4 {[%emt 0:00:
+09]} g6 {[%emt 0:00:14]} 18. Rc1 {[%emt 0:00:10]} Bg7 {[%emt 0:00:10]} 19. Bc3
+{[%emt 0:00:22]} Rc8 {[%emt 0:00:11]} 20. Nf3 {[%emt 0:00:15]} Nb3 {[%emt 0:00:
+11]} 21. Rc2 {[%emt 0:00:08]} Nc5 {[%emt 0:00:28]} 22. Rd2 {[%emt 0:00:09]} Nb3
+{[%emt 0:00:10]} 23. Rde2 {[%emt 0:00:09]} Bh6 {[%emt 0:00:13]} 24. f5 {
+[%emt 0:00:29]} Bg7 {[%emt 0:00:12]} 25. Bc2 {[%emt 0:00:23]} Qb6+ {[%emt 0:00:
+19]} 26. Kh1 {[%emt 0:00:09]} Nc5 {[%emt 0:00:10]} 27. e5 {[%emt 0:00:15]} dxe5
+{[%emt 0:00:09]} 28. Nxe5 {[%emt 0:00:09]} Red8 {[%emt 0:00:18]} 29. Qc1 {
+[%emt 0:00:19]} Be8 {[%emt 0:00:14]} 30. fxg6 {[%emt 0:00:23]} hxg6 {[%emt 0:
+00:08]} 31. Qg5 {[%emt 0:00:14]} Nd5 {[%emt 0:00:09]} 32. Nxg6 {[%emt 0:00:16]}
+fxg6 {[%emt 0:00:10]} 33. Rxe8+ {[%emt 0:00:12]} Rxe8 {[%emt 0:00:09]} 34.
+Qxd5+ {[%emt 0:00:09]} Kh8 {[%emt 0:00:12]} 35. Rxe8+ {[%emt 0:00:12]} Rxe8 {
+[%emt 0:00:11]} 36. Qf7 {[%emt 0:00:17]} Rg8 {[%emt 0:00:10]} 37. Bxg6 {
+[%emt 0:00:13]} Qe6 {[%emt 0:00:08]} 38. Bxg7+ {[%emt 0:00:12]} Rxg7 {[%emt 0:
+00:09]} 39. Qf8+ {[%emt 0:00:09]} Qg8 {[%emt 0:00:09]} 40. Qf6 {[%emt 0:00:14]}
+Nd7 {[%emt 0:01:29]} 41. Qh4+ {[%emt 0:00:09]} Rh7 {[%emt 0:00:09]} 42. Bxh7 {
+[%emt 0:00:09]} Qxh7 {[%emt 0:00:09]} 43. Qd8+ {[%emt 0:00:09]} Qg8 {[%emt 0:
+00:09]} 44. Qxd7 {[%emt 0:00:23]} Qxg3 {[%emt 0:00:09]} 45. Qxb5 {[%emt 0:00:
+08]} Qf4 {[%emt 0:00:18]} 46. Qh5+ {[%emt 0:00:09]} 1-0
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.22"]
+[Round "5"]
+[White "Rapport, Richard"]
+[Black "Shankland, Samuel"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "2735"]
+[BlackElo "2731"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,61,-5,3,-16,0,0,12,1,23,27,18,19,16,0,4,0,10,17,0,0,30,10,69,56,62,
+35,59,0,57,0,0,-22,0,0,0,0,0,-9,54,48,70,0,0,0,0,-29,-40,-33,29985,29986]} 1.
+d4 Nf6 2. Nc3 d5 3. Bf4 g6 (3... e6 4. Nb5 Na6 5. e3 Be7 6. Nf3 O-O 7. Bd3 c6
+8. Nc3 Nb4 9. h3 Nxd3+ 10. cxd3 b6 11. O-O Bb7 {0-1 (40) Rapport,R (2731)-Giri,
+A (2783) Wijk aan Zee 2019}) 4. e3 Bg7 5. Nb5 Na6 6. Nf3 {D00: 1 d4 d5:
+Unusual lines} O-O 7. h3 Bf5 {LiveBook: 8 Games} 8. c3 {The position is equal.}
+c6 9. Na3 Nc7 $146 ({Predecessor:} 9... Qb6 10. Qb3 Nd7 11. Be2 f6 12. O-O e5
+13. Bg3 {1-0 (69) Markowski,T (2606)-Szelag,M (2474) Ustron 2008}) 10. Be2 Be4
+11. O-O Bxf3 12. Bxf3 Nd7 13. e4 e5 14. dxe5 Nxe5 15. Bxe5 Bxe5 16. exd5 cxd5
+17. Qb3 Qf6 (17... Qg5 $11 18. g3 Rfd8) 18. Bxd5 $14 Rad8 19. Rad1 b6 20. Bb7 (
+20. Qc4 $14) 20... Ne6 ({Reject} 20... Rxd1 $6 21. Rxd1 Rb8 22. Bd5 $16) (20...
+Rb8 $11 21. Bd5 Rbd8) 21. Rxd8 (21. Qc2 $14) 21... Rxd8 $11 22. Rd1 Nc5 23.
+Rxd8+ Qxd8 24. Qd5 Qg5 {( -> ...Qc1+)} 25. g3 $132 {[%mdl 2048] White is not
+keeping still} Qc1+ (25... Nxb7 $11 26. Nc4 Qc1+ 27. Kg2 {[#]} Bxg3 $1 {
+[%mdl 512]} 28. Qxb7 Bh4) 26. Kg2 $14 Bxc3 27. Nc4 ({Better is} 27. Qd8+ $1 $14
+Kg7 28. Bd5 Qxb2 29. Qe7) 27... Bxb2 $11 28. Bc8 {Threatens to win with Nd6.}
+Qc3 $1 29. Nd6 Qf6 30. Ba6 {And now Qa8+ would win.} Bd4 $2 {[%mdl 8192] [#]} (
+30... Ne6 $15 31. Bc4 Nd8) 31. Qa8+ {Precision: White = 49%, Black = 32%.} 1-0
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.22"]
+[Round "6"]
+[White "Shankland, Samuel"]
+[Black "Rapport, Richard"]
+[Result "1-0"]
+[ECO "E18"]
+[WhiteElo "2731"]
+[BlackElo "2735"]
+[Annotator "RC"]
+[PlyCount "115"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "900+10"]
+
+1. d4 {[%emt 0:12:06]} Nf6 {[%emt 0:12:06]} 2. c4 e6 3. Nf3 {[%emt 0:00:18]} b6
+{[%emt 0:00:18]} 4. g3 {[%emt 0:00:09]} Bb7 {[%emt 0:00:08]} 5. Bg2 Bb4+ 6. Bd2
+{[%emt 0:00:17]} Be7 {[%emt 0:00:19]} 7. Nc3 {[%emt 0:00:10]} O-O {[%emt 0:00:
+10]} 8. Bf4 {[%emt 0:00:10]} Na6 {[%emt 0:00:22]} 9. O-O {[%emt 0:00:10]} Ne4 {
+[%emt 0:00:09]} 10. Qa4 {[%emt 0:00:17]} Nxc3 {[%emt 0:00:12]} 11. bxc3 {
+[%emt 0:00:09]} Nb8 {[%emt 0:00:09]} 12. Rad1 {[%emt 0:00:09]} d6 {[%emt 0:00:
+10]} 13. Qc2 {[%emt 0:00:09]} f5 {[%emt 0:00:20]} 14. c5 {[%emt 0:00:26]} Be4 {
+[%emt 0:00:18]} 15. Qb3 {[%emt 0:00:09]} Qd7 {[%emt 0:00:11]} 16. cxd6 {
+[%emt 0:00:18]} cxd6 {[%emt 0:00:10]} 17. d5 {[%emt 0:00:09]} exd5 {[%emt 0:00:
+22]} 18. Nd4 {[%emt 0:00:32]} Kh8 {[%emt 0:00:19]} 19. f3 {[%emt 0:00:09]} Na6
+{[%emt 0:00:13]} 20. fxe4 {[%emt 0:00:11]} dxe4 {[%emt 0:00:09]} 21. Qe6 {
+[%emt 0:00:10]} Qxe6 {[%emt 0:00:12]} 22. Nxe6 {[%emt 0:00:09]} Rf6 {[%emt 0:
+00:08]} 23. Nd4 {[%emt 0:00:12]} Rf7 {[%emt 0:00:12]} 24. Nb5 {[%emt 0:00:13]}
+d5 {[%emt 0:00:16]} 25. Rxd5 {[%emt 0:00:12]} Rc8 {[%emt 0:00:09]} 26. Be5 {
+[%emt 0:00:14]} Kg8 {[%emt 0:00:10]} 27. Bd4 {[%emt 0:00:17]} g6 {[%emt 0:00:
+09]} 28. Nxa7 {[%emt 0:00:14]} Ra8 {[%emt 0:00:11]} 29. Nc6 {[%emt 0:00:11]}
+Bc5 {[%emt 0:00:09]} 30. g4 {[%emt 0:00:17]} Rc7 {[%emt 0:00:13]} 31. Ne5 {
+[%emt 0:00:12]} Bxd4+ {[%emt 0:00:15]} 32. cxd4 Nb4 33. Rd6 {[%emt 0:00:19]}
+Nc2 {[%emt 0:00:19]} 34. gxf5 {[%emt 0:00:11]} Ne3 {[%emt 0:00:10]} 35. fxg6 {
+[%emt 0:00:13]} Nxf1 {[%emt 0:00:10]} 36. Bxe4 {[%emt 0:00:21]} Rf8 {[%emt 0:
+00:09]} 37. gxh7+ {[%emt 0:00:11]} Kg7 {[%emt 0:00:09]} 38. h8=Q+ {[%emt 0:00:
+19]} Rxh8 {[%emt 0:00:12]} 39. Kxf1 {[%emt 0:00:13]} Rxh2 {[%emt 0:00:10]} 40.
+Rd7+ {[%emt 0:00:11]} Rxd7 41. Nxd7 {[%emt 0:00:09]} Rh4 {[%emt 0:00:19]} 42.
+Bd3 {[%emt 0:00:10]} Rxd4 {[%emt 0:00:10]} 43. Nxb6 {[%emt 0:00:08]} Kf6 {
+[%emt 0:00:12]} 44. Nc4 {[%emt 0:00:10]} Rd8 {[%emt 0:00:12]} 45. a4 {[%emt 0:
+00:09]} Ke6 {[%emt 0:00:10]} 46. a5 {[%emt 0:00:10]} Rf8+ {[%emt 0:00:11]} 47.
+Ke1 {[%emt 0:00:09]} Kd5 {[%emt 0:00:09]} 48. Kd2 {[%emt 0:00:09]} Kd4 {
+[%emt 0:00:08]} 49. e3+ {[%emt 0:00:09]} Kc5 {[%emt 0:00:09]} 50. Kc3 {[%emt 0:
+00:09]} Kb5 {[%emt 0:00:09]} 51. e4 {[%emt 0:00:09]} Kc5 {[%emt 0:00:11]} 52.
+a6 {[%emt 0:00:13]} Rc8 {[%emt 0:00:09]} 53. Nd2 {[%emt 0:00:17]} Kb6+ {
+[%emt 0:00:12]} 54. Kd4 {[%emt 0:00:09]} Rd8+ {[%emt 0:00:08]} 55. Ke3 {
+[%emt 0:00:09]} Kc5 {[%emt 0:00:09]} 56. Nf3 {[%emt 0:00:11]} Re8 {[%emt 0:00:
+12]} 57. e5 {[%emt 0:00:09]} Kd5 {[%emt 0:00:09]} 58. Be4+ {[%emt 0:00:09]} 1-0
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.22"]
+[Round "7"]
+[White "Rapport, Richard"]
+[Black "Shankland, Samuel"]
+[Result "0-1"]
+[ECO "D03"]
+[WhiteElo "2735"]
+[BlackElo "2731"]
+[Annotator "ChessBase"]
+[PlyCount "149"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "900+10"]
+
+1. d4 Nf6 2. c3 {[%emt 0:12:15]} g6 {[%emt 0:12:16]} 3. Bg5 {[%emt 0:00:09]}
+Bg7 {[%emt 0:00:08]} 4. Nd2 {[%emt 0:00:09]} O-O {[%emt 0:00:11]} 5. e3 {
+[%emt 0:00:09]} d5 {[%emt 0:00:11]} 6. Ngf3 {[%emt 0:00:12]} Nbd7 {[%emt 0:00:
+08]} 7. h3 {[%emt 0:00:09]} Re8 {[%emt 0:00:14]} 8. Bf4 {[%emt 0:00:09]} Nh5 {
+[%emt 0:00:09]} 9. Bh2 e5 10. dxe5 {[%emt 0:00:39]} Nxe5 {[%emt 0:00:18]} 11.
+Be2 {[%emt 0:00:09]} Nxf3+ {[%emt 0:00:13]} 12. Nxf3 {[%emt 0:00:10]} c6 {
+[%emt 0:00:16]} 13. O-O {[%emt 0:00:11]} Qb6 {[%emt 0:00:09]} 14. Qb3 {[%emt 0:
+00:10]} Nf6 {[%emt 0:00:12]} 15. Nd2 {[%emt 0:00:15]} Be6 {[%emt 0:00:13]} 16.
+Rfd1 {[%emt 0:00:21]} Nd7 {[%emt 0:00:13]} 17. a4 {[%emt 0:00:14]} Nc5 {
+[%emt 0:00:20]} 18. Qa3 {[%emt 0:00:15]} a5 {[%emt 0:00:09]} 19. Bd6 {[%emt 0:
+00:13]} Nd7 {[%emt 0:00:17]} 20. Qb3 {[%emt 0:00:10]} Bf5 {[%emt 0:00:19]} 21.
+Qxb6 {[%emt 0:01:03]} Nxb6 {[%emt 0:00:09]} 22. Bc7 {[%emt 0:00:10]} Nd7 {
+[%emt 0:00:17]} 23. Nf3 {[%emt 0:00:11]} Nc5 {[%emt 0:00:10]} 24. Nd4 {[%emt 0:
+00:10]} Bd7 {[%emt 0:00:17]} 25. Bd6 {[%emt 0:00:20]} Ne4 {[%emt 0:00:15]} 26.
+Bf4 {[%emt 0:00:12]} h6 {[%emt 0:00:22]} 27. Nb3 {[%emt 0:00:09]} b6 {[%emt 0:
+00:19]} 28. Nd4 {[%emt 0:00:12]} Rec8 {[%emt 0:00:20]} 29. Bd3 {[%emt 0:00:12]}
+Nc5 {[%emt 0:00:12]} 30. Bc2 {[%emt 0:00:09]} Ne6 {[%emt 0:00:10]} 31. Nxe6
+Bxe6 32. Bb3 {[%emt 0:00:25]} f5 {[%emt 0:00:21]} 33. Rac1 {[%emt 0:00:12]} Kf7
+{[%emt 0:00:09]} 34. h4 {[%emt 0:00:11]} Bf6 {[%emt 0:00:14]} 35. Bxh6 {
+[%emt 0:00:10]} Bxh4 {[%emt 0:00:09]} 36. Bf4 {[%emt 0:00:10]} Bf6 {[%emt 0:00:
+09]} 37. Kf1 {[%emt 0:00:12]} g5 {[%emt 0:00:14]} 38. Bg3 {[%emt 0:00:08]} Ra7
+{[%emt 0:00:18]} 39. Rd2 {[%emt 0:00:13]} Re7 {[%emt 0:00:16]} 40. c4 {[%emt 0:
+00:11]} d4 {[%emt 0:00:15]} 41. Rd3 {[%emt 0:00:46]} c5 {[%emt 0:00:19]} 42. f4
+{[%emt 0:00:10]} dxe3 {[%emt 0:00:18]} 43. Rxe3 {[%emt 0:00:09]} Bxb2 {[%emt 0:
+00:10]} 44. Rce1 {[%emt 0:00:18]} Bd4 {[%emt 0:00:12]} 45. fxg5 {[%emt 0:00:11]
+} Bxe3 {[%emt 0:00:10]} 46. Rxe3 {[%emt 0:00:09]} Kg6 {[%emt 0:00:13]} 47. Bf4
+{[%emt 0:00:11]} Rce8 {[%emt 0:00:12]} 48. Kf2 {[%emt 0:00:10]} Bg8 {[%emt 0:
+00:32]} 49. Rh3 {[%emt 0:00:09]} Rh7 {[%emt 0:00:15]} 50. Rd3 {[%emt 0:00:10]}
+Rhe7 {[%emt 0:00:13]} 51. Rd2 {[%emt 0:00:13]} Re4 {[%emt 0:00:10]} 52. g3 {
+[%emt 0:00:09]} Bxc4 {[%emt 0:00:12]} 53. Bd1 {[%emt 0:00:09]} Bf7 {[%emt 0:00:
+12]} 54. Bf3 {[%emt 0:00:16]} Rd4 {[%emt 0:00:09]} 55. Rb2 {[%emt 0:00:09]} Rb4
+{[%emt 0:00:11]} 56. Rd2 {[%emt 0:00:08]} Rxa4 {[%emt 0:00:10]} 57. Bc6 {
+[%emt 0:00:09]} Rd4 {[%emt 0:00:14]} 58. Rxd4 {[%emt 0:00:10]} cxd4 {[%emt 0:
+00:09]} 59. Bxe8 {[%emt 0:00:09]} Bxe8 {[%emt 0:00:09]} 60. Bc7 {[%emt 0:00:08]
+} a4 {[%emt 0:00:10]} 61. Bxb6 {[%emt 0:00:09]} d3 {[%emt 0:00:10]} 62. Ke3 {
+[%emt 0:00:12]} Bb5 {[%emt 0:00:12]} 63. Bd8 {[%emt 0:00:09]} a3 {[%emt 0:00:
+09]} 64. Bf6 {[%emt 0:00:09]} a2 {[%emt 0:00:09]} 65. Kd2 {[%emt 0:00:08]} Bc4
+{[%emt 0:00:09]} 66. Ke3 {[%emt 0:00:09]} Kh5 {[%emt 0:00:09]} 67. Kd2 {
+[%emt 0:00:15]} Kg4 {[%emt 0:00:09]} 68. g6 {[%emt 0:00:09]} Kxg3 {[%emt 0:00:
+11]} 69. g7 {[%emt 0:00:09]} f4 {[%emt 0:00:09]} 70. Be5 {[%emt 0:00:12]} Kg4 {
+[%emt 0:00:11]} 71. g8=Q+ {[%emt 0:00:12]} Bxg8 {[%emt 0:00:09]} 72. Kxd3 {
+[%emt 0:00:08]} f3 {[%emt 0:00:09]} 73. Ke3 {[%emt 0:00:14]} Bc4 {[%emt 0:00:
+11]} 74. Kf2 {[%emt 0:00:14]} Kf5 {[%emt 0:00:09]} 75. Bc3 {[%emt 0:00:14]} 0-1
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.22"]
+[Round "8"]
+[White "Shankland, Samuel"]
+[Black "Rapport, Richard"]
+[Result "1/2-1/2"]
+[ECO "E81"]
+[WhiteElo "2731"]
+[BlackElo "2735"]
+[Annotator "ChessBase"]
+[PlyCount "112"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "900+10"]
+
+1. d4 {[%emt 0:12:06]} Nf6 2. c4 g6 {[%emt 0:12:15]} 3. Nc3 {[%emt 0:00:19]}
+Bg7 {[%emt 0:00:09]} 4. e4 {[%emt 0:00:08]} d6 {[%emt 0:00:09]} 5. f3 {[%emt 0:
+00:10]} c6 {[%emt 0:00:12]} 6. Be3 {[%emt 0:00:15]} a6 {[%emt 0:00:09]} 7. c5 {
+[%emt 0:00:09]} O-O {[%emt 0:00:11]} 8. Nge2 {[%emt 0:00:11]} b5 {[%emt 0:00:
+09]} 9. cxd6 {[%emt 0:00:13]} exd6 {[%emt 0:00:09]} 10. Nf4 {[%emt 0:00:13]}
+Nbd7 {[%emt 0:00:12]} 11. Be2 {[%emt 0:00:10]} Re8 {[%emt 0:00:11]} 12. Qd2 {
+[%emt 0:00:10]} Nb6 {[%emt 0:00:13]} 13. O-O {[%emt 0:00:13]} Bb7 {[%emt 0:00:
+16]} 14. b3 {[%emt 0:00:11]} Qe7 {[%emt 0:00:30]} 15. Bf2 {[%emt 0:00:26]} Qf8
+{[%emt 0:00:12]} 16. a4 {[%emt 0:00:16]} b4 {[%emt 0:00:11]} 17. Nd1 {[%emt 0:
+00:12]} a5 {[%emt 0:00:09]} 18. Nb2 {[%emt 0:00:11]} Nfd7 {[%emt 0:00:16]} 19.
+Rac1 {[%emt 0:00:11]} Rac8 {[%emt 0:00:14]} 20. Rfd1 {[%emt 0:00:20]} Red8 {
+[%emt 0:00:21]} 21. Bh4 {[%emt 0:00:16]} Re8 {[%emt 0:00:09]} 22. Bg3 {[%emt 0:
+00:16]} Nf6 {[%emt 0:00:11]} 23. Bf2 {[%emt 0:00:24]} Nfd7 {[%emt 0:00:09]} 24.
+Be3 {[%emt 0:00:09]} Nf6 {[%emt 0:00:10]} 25. Nbd3 {[%emt 0:00:16]} Nfd7 {
+[%emt 0:00:12]} 26. h4 {[%emt 0:00:13]} c5 {[%emt 0:00:24]} 27. Nb2 {[%emt 0:
+00:10]} cxd4 {[%emt 0:00:10]} 28. Bxd4 {[%emt 0:00:09]} Nc5 {[%emt 0:00:17]}
+29. Qe3 {[%emt 0:00:26]} Bh6 {[%emt 0:00:21]} 30. Bxc5 {[%emt 0:00:39]} Rxc5 {
+[%emt 0:00:11]} 31. Rxc5 {[%emt 0:00:09]} dxc5 {[%emt 0:00:09]} 32. Bc4 {
+[%emt 0:00:19]} Rd8 {[%emt 0:00:20]} 33. Rxd8 Qxd8 34. g3 {[%emt 0:00:40]} Bg7
+{[%emt 0:00:23]} 35. e5 {[%emt 0:00:12]} Qd4 {[%emt 0:00:20]} 36. Qxd4 {
+[%emt 0:00:10]} cxd4 {[%emt 0:00:09]} 37. e6 {[%emt 0:00:16]} Nxc4 {[%emt 0:00:
+25]} 38. exf7+ {[%emt 0:00:14]} Kxf7 {[%emt 0:00:14]} 39. Nxc4 {[%emt 0:00:09]}
+Bxf3 {[%emt 0:00:10]} 40. Nxa5 {[%emt 0:00:09]} Bd1 {[%emt 0:00:13]} 41. Kf2 {
+[%emt 0:00:12]} h6 {[%emt 0:00:23]} 42. Ke1 {[%emt 0:00:09]} Bf3 {[%emt 0:00:
+12]} 43. Nc4 {[%emt 0:00:18]} g5 {[%emt 0:00:11]} 44. hxg5 {[%emt 0:00:09]}
+hxg5 {[%emt 0:00:09]} 45. Nd3 {[%emt 0:00:09]} Ke6 {[%emt 0:00:11]} 46. Nxb4 {
+[%emt 0:00:11]} Bf8 {[%emt 0:00:11]} 47. Nd3 {[%emt 0:00:09]} Be4 {[%emt 0:00:
+15]} 48. Kd2 {[%emt 0:00:10]} Kd7 {[%emt 0:00:14]} 49. a5 {[%emt 0:00:10]} Kc7
+{[%emt 0:00:10]} 50. b4 {[%emt 0:00:10]} Kc6 {[%emt 0:00:10]} 51. a6 {[%emt 0:
+00:16]} Kb5 {[%emt 0:00:09]} 52. Nce5 {[%emt 0:00:11]} Kxa6 {[%emt 0:00:13]}
+53. Nd7 {[%emt 0:00:09]} Bxd3 {[%emt 0:00:13]} 54. Kxd3 {[%emt 0:00:10]} Bxb4 {
+[%emt 0:00:09]} 55. Kxd4 {[%emt 0:00:08]} g4 {[%emt 0:00:10]} 56. Ne5 {[%emt 0:
+00:09]} Be1 1/2-1/2
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.22"]
+[Round "9"]
+[White "Rapport, Richard"]
+[Black "Shankland, Samuel"]
+[Result "1/2-1/2"]
+[ECO "D05"]
+[WhiteElo "2735"]
+[BlackElo "2731"]
+[Annotator "TA"]
+[PlyCount "80"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,80,0,0,-16,-9,-11,-9,-16,-11,-20,-12,-13,0,-36,-35,-48,-43,-54,-42,
+-36,-46,-44,-46,-75,-62,-104,-84,-104,-39,-95,-70,-70,-29,-34,-12,-49,-63,-81,
+-20,-54,-62,-55,-51,-53,151,158,159,144,181,63,71,-2,94,95,100,109,110,116,156,
+95,119,120,79,105,145,81,74,8,8,0,0,0,0]} 1. Nf3 d5 2. d4 Nf6 3. c3 e6 4. Nbd2
+c5 5. e3 b6 (5... Nbd7 6. Bd3 b6 7. Qe2 Bb7 8. O-O Be7 9. b3 O-O 10. Bb2 Rc8
+11. Rac1 Bd6 12. c4 cxd4 13. exd4 Qe7 14. Ne5 Ba3 15. Bxa3 Qxa3 {1/2-1/2 (44)
+Kramnik,V (2777)-Ding,L (2813) Wijk aan Zee 2019}) 6. Ne5 {D05: Colle System
+with ...e6} Bd6 7. Bd3 Bb7 8. O-O O-O (8... Nbd7 {looks sharper.} 9. f4 Rc8 10.
+b3 cxd4 11. cxd4 O-O) 9. b3 Nbd7 10. f4 Ne4 11. Bxe4 $146 ({Predecessor:} 11.
+Bb2 f6 12. Ng4 Qe8 13. Rf3 Qg6 14. Bxe4 dxe4 {0-1 (41) Velasco,L (1845)-Romero,
+D (1834) Puerto Boyaca 2012}) 11... dxe4 12. Bb2 cxd4 13. exd4 f6 $36 {[%mdl
+2048] Black has good play.} 14. Nec4 Be7 15. Ne3 f5 16. c4 Bf6 17. Qc2 Qe7 18.
+Rad1 Rfd8 (18... g5 $17 19. fxg5 Bxg5) 19. Kh1 (19. Nb1 $15) 19... g6 20. Nb1 {
+[%cal Bd2b1,Bb1c3,Bc3d5][%mdl 32]} Rac8 21. Nc3 a6 22. d5 Nc5 23. dxe6 Qxe6 (
+23... Nd3 $17 24. Ba1 Qxe6) 24. Ncd5 Bxb2 25. Qxb2 Nd3 26. Qd4 b5 $2 {[#]} (
+26... Rd6 $15 {keeps the upper hand.}) 27. g4 $1 $16 {[%cal Rg4f5][%mdl 512]
+Hoping for gxf5.} bxc4 ({Don't blunder} 27... fxg4 $2 28. f5 $18) 28. bxc4 {
+Threatens to win with gxf5.} Bxd5 ({Avoid the trap} 28... fxg4 $2 29. f5 $18)
+29. Nxd5 (29. cxd5 $18 {Strongly threatening Qxd3.} Qe7 30. gxf5) 29... fxg4
+30. Rd2 ({Better is} 30. Rb1 $16 Nc5 31. Nf6+ Kf7 32. Nd5) 30... Kf7 (30... Nb4
+$11 {remains equal.} 31. Re1 Nxd5 32. cxd5 Qf7) 31. Re2 Rxc4 32. Qxc4 {aiming
+for Ne3.} Qxd5 33. Rxe4 h5 {[#]} 34. f5 ({White should try} 34. Kg1 $1) 34...
+Qxc4 35. fxg6+ Kxg6 36. Rxc4 {KRR-KRN} Ne5 37. Ra4 ({White should play} 37. Rc5
+Nf3 38. Rb1) 37... Nf3 {[#] Threatening ...Rd2.} 38. Rxa6+ (38. Kg2 $1 $16)
+38... Kg5 $11 {White should prevent ...Rd2.The position is equal.} 39. Ra3 Rd2
+{[%csl Gf3][%cal Rd2h2]} 40. Raxf3 ({But not} 40. Ra5+ Kh4 $17) 40... gxf3 {
+Accuracy: White = 32%, Black = 41%.} 1/2-1/2
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.23"]
+[Round "10"]
+[White "Shankland, Samuel"]
+[Black "Rapport, Richard"]
+[Result "0-1"]
+[ECO "A28"]
+[WhiteElo "2731"]
+[BlackElo "2735"]
+[Annotator "TA"]
+[PlyCount "56"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,56,23,48,54,37,33,66,58,59,54,65,23,27,12,6,0,0,-33,-21,-55,-55,-62,
+-55,-119,-127,-119,-122,-131,-134,-134,-129,-152,-120,-124,-127,-166,-183,-402,
+-339,-496,-448,-454,-445,-454,-437,-436,-446,-895,-880]} 1. d4 Nf6 2. c4 d6 3.
+Nc3 e5 4. e3 Be7 5. Nf3 Nc6 6. d5 {A28: English Opening: Four Knights Variation
+} Nb8 7. e4 a5 8. h3 {White is slightly better.} Na6 9. Be3 O-O 10. g4 Nd7 $146
+({Predecessor:} 10... b6 11. Be2 Kh8 12. Qc2 Ng8 13. O-O-O g6 {1-0 (74) Lubbe,
+N (2506)-Degtiarev,E (2411) Germany 2016}) 11. Qd2 Ndc5 12. O-O-O c6 13. Kb1
+Bd7 14. Be2 cxd5 15. cxd5 b5 16. Bxc5 (16. Nxb5 $15 Nxe4 17. Qc2) 16... Nxc5
+$17 17. Bxb5 Nxe4 18. Nxe4 {[#] Black must now prevent Bxd7.} Bxb5 19. Rc1 Rb8
+20. Rc3 a4 21. Rhc1 Qb6 22. h4 Bd7 23. Rg1 $2 {[#]} (23. g5) 23... Rfc8 24. h5
+(24. Rxc8+ $142 Rxc8 25. Ka1) 24... Rxc3 {Black is clearly winning.} 25. Nxc3
+Qb4 26. Ka1 a3 27. bxa3 Qxa3 28. Ne4 (28. Qc1 $142 Qxc1+ 29. Rxc1) 28... Qxf3 {
+[%mdl 64] Double Attack. Accuracy: White = 24%, Black = 93%.} 0-1
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.22"]
+[Round "11"]
+[White "Rapport, Richard"]
+[Black "Shankland, Samuel"]
+[Result "1-0"]
+[ECO "A46"]
+[WhiteElo "2735"]
+[BlackElo "2731"]
+[Annotator "TA"]
+[PlyCount "87"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,87,1,24,0,0,0,5,0,0,-4,0,-11,0,-8,-12,-8,-12,-19,-23,-19,-4,-25,-14,
+-31,0,0,0,0,0,-6,0,-2,0,0,0,0,29,13,78,7,175,164,214,218,212,179,360,360,360,
+360,471,478,466,270,287,277,518,518,518,518,524,515,1231,274,1187,22,1062,966,
+1113,1018,974,919]} 1. d4 Nf6 2. Bg5 e6 3. e3 b6 4. c3 Bb7 5. Nd2 h6 6. Bh4 c5
+7. Ngf3 Be7 8. Bd3 O-O 9. O-O cxd4 10. Bxf6 {A46: 1 d4 Nf6 2 Nf3 e6: Torre,
+London and Colle Systems} (10. exd4 Nh5 11. Bxe7 Qxe7 12. Re1 d6 13. a4 a6 14.
+Qb3 Qc7 15. Ne4 Nf4 16. Bf1 Nc6 17. c4 d5 18. cxd5 Nxd5 {1-0 (63) Shimanov,A 
+(2591)-Fedorchuk,S (2669) Wroclaw 2014}) 10... Bxf6 11. exd4 Be7 12. Qe2 {
+The position is equal.} d6 13. Rfe1 Nd7 14. Ba6 $146 (14. Ne4 {is interesting.}
+Re8 15. a4 Qc7 16. Bc2 Bc6 17. h3) ({Predecessor:} 14. Be4 Bxe4 15. Nxe4 d5 16.
+Ned2 a6 17. a4 Qb8 {1-0 (71) Sergeev,V (2434)-Cvek,R (2498) Czechia 2006})
+14... Qc8 15. Bxb7 Qxb7 16. a4 a6 17. Nf1 b5 18. Ne3 Nf6 19. Nd2 d5 20. Qd3
+bxa4 21. Rxa4 Rfc8 22. Ra2 a5 23. Rea1 Nd7 24. b3 Bd8 25. g3 Rab8 26. c4 dxc4
+27. bxc4 Qc7 (27... Nf6 $11 {remains equal.}) 28. Ne4 (28. Rxa5 $16 {White
+wants to play Ra7.} Qxa5 29. Rxa5 Bxa5 30. Nf3) 28... Rb4 $2 {[#]} (28... Qc6
+$11) 29. Rxa5 $18 Qxa5 30. Rxa5 Bxa5 31. c5 {[%cal Bc4c5,Bc5c6][%mdl 32]} Ra8
+$2 (31... Rbb8 {was worth a try.} 32. Qa3 Ra8) 32. c6 Nb6 33. Nd6 Rd8 34. Nb7
+$1 {[%csl LRa5,LRd8]} Rdxd4 35. Qa6 (35. Qc2 $142) 35... Rb1+ 36. Kg2 Be1 $2 (
+36... Bd2) 37. c7 Rd2 38. Nc4 Rxf2+ 39. Kh3 Nc8 (39... Nxc4 $142 40. Qxc4 Rbb2
+41. c8=Q+ Kh7 42. Qe4+ g6) 40. Qa8 $2 (40. Nbd6 Kh7 41. Qxc8) 40... Rb5 $2 (
+40... Kh7 41. Nc5 Rc1) 41. Qxc8+ Kh7 {( -> ...Rh5+)} 42. Qd8 {White is clearly
+winning.} Rh5+ {[#]} 43. Qh4 $1 {[%cal Rh4h5][%mdl 576] Promotion} Rxh4+ 44.
+gxh4 {Accuracy: White = 57%, Black = 39%.} 1-0
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.22"]
+[Round "12"]
+[White "Shankland, Samuel"]
+[Black "Rapport, Richard"]
+[Result "1-0"]
+[ECO "A41"]
+[WhiteElo "2731"]
+[BlackElo "2735"]
+[Annotator "TA"]
+[PlyCount "133"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,133,10,0,0,0,1,0,19,0,8,0,0,0,10,0,0,-20,0,0,0,-19,0,-13,-19,-37,-29,
+-45,-10,-11,-27,-41,-33,-35,28,22,36,38,55,47,96,88,108,110,127,113,113,118,
+134,99,114,107,106,106,115,82,117,122,118,110,170,143,789,797,751,314,506,516,
+514,491,497,497,606,612,611,610,520,410,598,325,325,325,325,310,310,310,311,
+310,294,158,335,158,166,166,183,0,0,0,8,0,156,156,390,389,390,390,29977,29978,
+29974,9257,29979,6291,5600,4656,1766,431,607,424,29975,29977,29986,29978,29978,
+29978]} 1. d4 Nf6 2. c4 d6 3. Nf3 Nc6 4. d5 Ne5 5. Nxe5 dxe5 6. Nc3 e6 7. e4
+Bc5 {A41: 1 d4 d6: Tartakower System and Modern Defence} (7... Bd7 8. Be2 exd5
+9. cxd5 Bd6 10. Qb3 Qc8 11. Bg5 Be7 12. Rc1 O-O 13. O-O c6 14. Be3 Qb8 15. dxc6
+Bxc6 {1-0 (38) Rusev,K (2543)-Kosanovic,D (2324) Sunny Beach 2010}) 8. Bd3 O-O
+9. O-O h6 $146 {The position is equal.} ({Predecessor:} 9... a6 10. Kh1 exd5
+11. Nxd5 Ng4 {0-1 (33) Ramirez,H (2200)-Alonso,F (2090) Los Angeles 2006}) 10.
+Rb1 exd5 11. cxd5 c6 12. dxc6 bxc6 13. Qc2 Qe7 14. Bd2 Be6 15. b3 Rfd8 {
+Hoping for ...Qd6.} 16. Be2 Bd4 17. Na4 c5 18. Bc3 Rac8 19. Ba6 Rb8 (19... Rc6
+$5 {[%cal Rc6a6]} 20. Bxd4 Rxd4 $15) 20. Bxd4 cxd4 21. Qc5 Qd6 22. Bd3 Qxc5 ({
+Black should try} 22... Rbc8 $15 23. Qxd6 Rxd6) 23. Nxc5 $11 Bc8 24. Rfc1 g5
+25. b4 {[%cal Bb3b4,Bb4b5][%mdl 32]} Rd6 26. b5 Nd7 27. a4 {[%cal Ba2a4,Ba4a5]
+[%mdl 32]} Kg7 28. f3 Nf8 29. a5 h5 30. Kf2 h4 31. Bc4 Ng6 32. Nd3 Bd7 33. Ke1
+g4 {[#]} 34. fxg4 $1 Bxg4 35. Kd2 f5 (35... Bc8 $16 {was worth a try.}) 36. Bd5
+{Strongly threatening h3.} Rxd5 $4 {[%mdl 8192]} (36... h3 $16) 37. exd5 $18 e4
+38. Nc5 (38. b6 $142 axb6 39. Rxb6) 38... e3+ $2 (38... Nf4 39. Ne6+ Nxe6 40.
+dxe6 f4) 39. Kd3 Nf4+ 40. Kxd4 Ne2+ 41. Kxe3 Nxc1 42. Rxc1 Rxb5 {[%mdl 4096]
+Endgame KRB-KRN} 43. d6 Kf6 44. d7 Ke7 (44... f4+ {is a better defense.} 45.
+Kd4 (45. Kxf4 Rb4+ 46. Ne4+ Ke7 $18) 45... Bxd7 46. Nxd7+ Ke6 47. Nc5+ Kf5) 45.
+h3 f4+ 46. Kxf4 {Re1+ would kill now.} Bxd7 47. Re1+ Kd6 48. Nxd7 Kxd7 {KR-KR}
+49. Re5 Rb2 50. Rg5 (50. Rh5 $18) 50... Ke6 $2 (50... Ra2 $16 51. Kg4 Ra4+ 52.
+Kh5 Kd6) 51. Rg7 (51. Rg4 $18 {and White stays clearly on top.}) 51... Kf6 52.
+Rxa7 {Threatens to win with a6.} Rxg2 53. Rh7 $2 ({White should play} 53. Ra6+
+$18 Ke7 54. Rh6) 53... Kg6 $1 $11 {[%cal Rg6h7]} 54. Rh8 {White wants to mate
+with Rg8+.} Ra2 55. Ra8 {aiming for a6.} Ra3 $2 ({Better is} 55... Ra4+ $11 56.
+Ke5 Kf7) 56. a6 $16 {And now Ke4 would win.} Kg7 $2 (56... Kf6 $16 57. a7 Ra4+
+58. Ke3 Kg7) 57. Kg4 Ra4+ 58. Kg5 Kh7 $2 {[#]} (58... Kf7 $18 59. Kh6 Kf6) 59.
+Ra7+ $1 Kg8 60. Kf6 (60. Kg6 $142 Kf8 61. Rf7+ Kg8 62. Rg7+ Kf8 63. a7 Ra5 64.
+Rd7 Ra6+ 65. Kh7) 60... Rf4+ 61. Ke5 (61. Kg6 $142 Kf8 62. Ra8+ Ke7 63. a7 Ra4
+64. Rg8 Ra6+ 65. Kh7 Ra4 66. a8=Q Rxa8 67. Rxa8) 61... Ra4 $18 62. Kd5 Ra3 63.
+Kc4 Ra1 (63... Ra5 $142 64. Ra8+ Kf7) 64. Kb5 Ra3 (64... Rb1+ $18 65. Kc5 Rc1+
+66. Kb6 Rb1+ 67. Kc5 Ra1) 65. Rb7 {White mates.} Rb3+ 66. Kc4 Rxh3 67. a7 {
+Accuracy: White = 52%, Black = 35%.} 1-0
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.22"]
+[Round "13"]
+[White "Rapport, Richard"]
+[Black "Shankland, Samuel"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2735"]
+[BlackElo "2731"]
+[Annotator "TA"]
+[PlyCount "54"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,54,12,4,23,19,39,21,24,24,27,23,27,28,41,53,110,110,108,103,114,77,
+204,110,161,159,172,170,275,277,276,243,386,381,399,392,608,615,863,579,840,
+581,573,590,573,580,575]} 1. d4 Nf6 2. Bg5 e6 3. Nd2 h6 4. Bh4 Be7 (4... c5 5.
+e4 cxd4 6. e5 g5 7. Bg3 Nd5 8. h4 Nc6 9. hxg5 Qxg5 10. Ngf3 Qd8 11. Bc4 d6 12.
+Bxd5 exd5 {1-0 (27) Vitiugov,N (2734)-Hou,Y (2658) Belokurikha 2018}) 5. e4 d6
+6. Bd3 {LiveBook: 4 Games. A45: Trompowsky Attack} Nbd7 {[%cal Bb8d7,Bd7f8,
+Bf8g6][%mdl 32]} 7. Ne2 Nf8 $146 ({Predecessor:} 7... e5 8. c3 c6 9. O-O g5 10.
+Bg3 Qc7 11. f3 Nh5 12. Nc4 Rg8 13. Ne3 Ndf6 {0-1 (13) Bentivegna,F (2361)
+-Shytaj,L (2472) Rijeka 2010}) 8. f3 {White is slightly better.} Ng6 9. Bf2 e5
+10. O-O O-O 11. c3 d5 12. exd5 Nxd5 {[#]} (12... exd4 $14 13. c4 (13. Bxd4 Nxd5
+14. Bxg6 fxg6 $11) (13. Nxd4 Nxd5 14. Bxg6 fxg6 $14) 13... Ne5) 13. Bxg6 $1 $16
+fxg6 14. dxe5 g5 15. Ne4 Bf5 (15... g4 $16) 16. N4g3 ({White should play} 16.
+Qb3 $18 c6 17. Qxb7) 16... Bg6 {[#]} (16... c5 $16) 17. Qb3 $1 $18 c6 18. Qxb7
+Kh7 (18... Qc8 {was called for.} 19. Qxc8 Raxc8) 19. Qxc6 Rc8 20. Qa4 Nb6 (
+20... Qc7 $142 21. Rfe1 Qxe5 22. Qxa7 Qf6) 21. Qxa7 Nc4 22. Rad1 Qe8 (22... Qc7
+$142 23. Rd7 Qxa7 24. Bxa7 Bc5+ 25. Bxc5 Rxc5) 23. Rd7 {White is clearly
+winning.} Bd8 24. Rxg7+ Kh8 25. e6 {[%cal Be5e6,Be6e7][%mdl 32] Black must now
+prevent Nh5.} Bf6 26. Bd4 {aiming for Nh5!} Ne5 27. e7 Bxg7 {Precision: White
+= 35%, Black = 27%.} 1-0
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.24"]
+[Round "14"]
+[White "Shankland, Samuel"]
+[Black "Rapport, Richard"]
+[Result "0-1"]
+[ECO "A84"]
+[WhiteElo "2731"]
+[BlackElo "2735"]
+[Annotator "TA"]
+[PlyCount "94"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,94,26,77,36,54,54,43,0,15,8,12,5,24,-1,0,0,0,0,0,-14,-12,0,0,0,-1,-12,
+0,0,0,-4,-4,-4,-8,-12,-6,-46,-54,-61,-52,-83,-94,-77,-31,-89,-87,-114,-117,
+-121,-47,-55,-57,-58,-55,-85,-87,-167,-155,-807,-68,-61,-72,-135,-110,-126,
+-136,-132,-74,-208,-206,-199,-202,-214,-175,-191,-150,-270,-205,-860,-63,-120,
+-91,-175,-82,-441,-416,-589,-394]} 1. d4 e6 2. c4 f5 3. e3 Nf6 4. Bd3 Bb4+ 5.
+Nd2 c5 $146 (5... b6 $11 {remains equal.}) ({Predecessor:} 5... O-O 6. a3 Bxd2+
+7. Bxd2 d6 8. Qc2 Nc6 9. Ne2 Qe8 10. Bc3 Kh8 11. O-O Qg6 12. f3 {1-0 (41)
+Granda Zuniga,J (2628)-Glek,I (2512) El Sauzal 2008}) 6. Ngf3 {A84: Dutch
+Defence: 2 c4 Miscellaneous} (6. a3 $5 {[%cal Ra3b4]} Bxd2+ 7. Bxd2 $14) 6...
+O-O 7. O-O b6 8. d5 {White is slightly better.} Bxd2 9. Nxd2 exd5 10. cxd5 d6
+11. e4 Ba6 12. Bxa6 Nxa6 {[%cal Bb8a6,Ba6b4,Bb4d3][%mdl 32]} 13. exf5 Qd7 14.
+Nc4 Qxf5 15. Nxd6 Qxd5 16. Bf4 Nb4 17. Qe2 Nh5 18. Be5 {[#] Threatens to win
+with Rad1.} Nd3 19. Rad1 Nhf4 $40 {[%mdl 128] Black mounts an attack.} 20. Bxf4
+$1 Nxf4 {[%csl Gf4][%cal Rd5g2]} 21. Qg4 Qxa2 22. Nf5 {[%csl Gf5][%cal Rg4g7]}
+Ng6 23. Rd7 Rf7 24. Rxf7 Qxf7 25. Nd6 Qb3 26. h4 (26. Nc8 $15) 26... Rf8 $17
+27. h5 Ne5 28. Qe4 Qe6 (28... Qxb2 $17 29. Nf5 Kh8) 29. Nb5 Qf5 30. Qd5+ Kh8
+31. Nd6 Qf6 32. f4 (32. f3 $17) 32... Ng4 $19 33. Re1 $2 (33. Rf3 $17) 33...
+Qd4+ $2 (33... Qxf4 $19 {[%csl Gg4][%cal Rf4h2]} 34. Nf7+ Rxf7 35. Re8+ Rf8 36.
+Rxf8+ Qxf8) 34. Qxd4 $15 cxd4 {[%mdl 4096] Endgame KRN-KRN} 35. Re7 (35. g3
+$142) 35... d3 $17 36. Ne4 Rd8 37. Kf1 Nf6 (37... Kg8 $142 {Strongly
+threatening ...d2.} 38. Nc3 Rd4) 38. Nd2 (38. Ke1 $17) 38... Nxh5 $19 39. Rxa7
+Nxf4 40. Kf2 Re8 41. Kf3 Ng6 42. Nc4 (42. Ra4 $17 {might work better.}) 42...
+h6 43. Nxb6 $2 (43. Rd7) 43... Rd8 $2 (43... d2 $19 44. Ra1 Re1 45. Ra8+ Kh7)
+44. Ra1 ({White should try} 44. Ra8 $15 Nh4+ 45. Ke3 Nxg2+ 46. Kd2 Rxa8 47.
+Nxa8) 44... Ne5+ 45. Ke4 {[#]} (45. Ke3 $17) 45... d2 (45... Ng4 $1 $19 {
+is more deadly. And now ...d2 would win.} 46. Kf3 Rd4) 46. Nd5 $2 {[%mdl 8192]}
+(46. Rd1 $17 Ng4 47. Kf3) 46... Nc4 47. b3 (47. b4 {keeps fighting.} Re8+ 48.
+Kd4) 47... Nb2 {Accuracy: White = 23%, Black = 57%.} 0-1
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.22"]
+[Round "15"]
+[White "Rapport, Richard"]
+[Black "Shankland, Samuel"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "2735"]
+[BlackElo "2731"]
+[Annotator "TA"]
+[PlyCount "55"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,55,-6,2,0,0,0,0,0,-6,-145,-146,-104,-33,-109,-31,-107,-95,-257,-258,
+-265,-272,-239,-226,-264,-253,-544,-204,-208,-48,-41,-41,-40,-43,-39,-49,-93,
+-111,-135,-35,-54,364,365,578,556,550,547,545,536]} 1. d4 d5 2. Bg5 f6 3. Bf4
+Nc6 4. Bg3 (4. e3 e5 5. Bg3 exd4 6. exd4 h5 7. h3 Bd6 8. Bxd6 Qxd6 9. c3 {
+1/2-1/2 (9) Sedlak,N (2547)-Miladinovic,I (2535) Montenegro 2017}) 4... Nh6 5.
+e3 Nf5 6. c4 {D00: 1 d4 d5: Unusual lines} e5 {[%cal Re5d4]} 7. cxd5 $146 ({
+Predecessor:} 7. dxe5 d4 8. exd4 Qxd4 9. Nc3 Nxg3 10. hxg3 Qxe5+ 11. Be2 Bb4
+12. Rc1 Bg4 {1-0 (88) Stamenkovic,D (2423)-Hungaski,R (2379) Santos 2007}) 7...
+Qxd5 8. Nc3 {The position is equal.} Bb4 {[%cal Re5d4]} 9. a3 (9. dxe5 $11 {
+keeps the balance.} Qxd1+ 10. Rxd1) 9... Bxc3+ $1 $17 10. bxc3 Be6 (10... h5
+$17 {Threatens to win with ...h4.} 11. h3 Be6) 11. Nf3 (11. Qc2 $15) 11...
+O-O-O (11... Qa5 $1 $17 {[%cal Ra5c3]} 12. Qd2 e4) 12. Be2 (12. dxe5 $15 Qa5
+13. Qc2) 12... h5 $36 {[%mdl 2048] And now ...h4 would win. Black has strong
+initiative.} 13. dxe5 $2 (13. O-O $17 {is a better defense.}) 13... Qa5 $19 (
+13... fxe5 14. Qxd5 Bxd5 15. Nh4 $11) (13... Nxe5 14. Bxe5 fxe5 15. Qxd5 $16)
+14. Qc2 h4 (14... fxe5 15. Rb1 $11) (14... Nxe5 15. Bxe5 fxe5 16. Ng5 $14) 15.
+Bf4 {[#]} g5 $1 {[%cal Rg5f4][%mdl 64] Overworked Piece} ({Stronger than} 15...
+fxe5 16. Bg5 $11) (15... Nxe5 16. Bxe5 fxe5 17. Ng5 $16) 16. Bxg5 fxg5 17. Nxg5
+$2 {[#]} (17. O-O {was the only chance.} Bd7 18. Rfd1 Nxe5 19. c4 Nxf3+ 20.
+Bxf3) 17... Qxe5 $2 (17... Nfd4 $1 {[%mdl 512]} 18. Qb2 (18. exd4 $2 Nxd4 19.
+Qb2 Nxe2 $19) 18... Nxe2 19. Nxe6 Nxe5) 18. Nxe6 Nxe3 $2 (18... Qxe6 $19 19.
+Bg4 Rhf8) 19. fxe3 $15 Qxe6 20. O-O $1 Qxe3+ 21. Kh1 Kb8 22. Bg4 Ne5 23. Bh3
+Nd3 ({Better is} 23... a5 $17 24. Rab1 Rhf8) 24. Bf5 {Hoping for Rf3.} a6 $2 {
+[%mdl 8192]} (24... Nc5 $1 $15 {keeps the upper hand.} 25. Qf2 Rde8) 25. Rf3
+$18 Qe1+ (25... Qc5 $142 26. Bxd3 Rhe8) 26. Rxe1 {White is clearly winning.}
+Nxe1 27. Qb1 Nxf3 28. Be4 {Accuracy: White = 28%, Black = 36%.} 1-0
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.22"]
+[Round "16"]
+[White "Shankland, Samuel"]
+[Black "Rapport, Richard"]
+[Result "1-0"]
+[ECO "A95"]
+[WhiteElo "2731"]
+[BlackElo "2735"]
+[Annotator "TA"]
+[PlyCount "91"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,91,41,38,33,41,35,71,47,52,53,64,20,25,20,24,23,29,22,177,148,137,22,
+104,70,72,50,97,73,207,190,245,244,204,181,226,227,296,280,325,303,704,712,794,
+781,1456,1433,1423,1242,1312,1111,942,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,502,481,
+1480,1386,29986,29983,29982,29982]} 1. c4 e6 2. Nf3 d5 3. g3 Nf6 4. Bg2 Be7 5.
+O-O O-O 6. d4 Ne4 7. Qc2 c6 8. b3 Nd7 9. Bb2 Qe8 10. Nc3 {[%cal Bb1c3,Bc3e2,
+Be2d4][%mdl 32]} f5 11. e3 {A95: Classical Dutch: Classical Stonewall: 7 Nc3 c6
+} (11. Ne1 Nd6 12. Na4 Nf6 13. Nd3 Qh5 14. e3 Ng4 15. h3 Nf6 16. Ba3 Qe8 17.
+Ne5 Nfe4 18. Nb2 b6 {1-0 (80) Guberna,A (2366)-Ishemguzhin,I (2158) ICCF email
+2015}) 11... Bd6 12. Ne2 (12. Ne1 {seems wilder.} Qe7 13. c5 Bc7 14. Ne2 e5 15.
+Nd3) 12... g5 $146 ({Predecessor:} 12... Qh5 13. Nf4 Qh6 14. Ne5 Nxe5 15. dxe5
+Be7 16. f3 {1/2-1/2 (59) Holloway,N-Parr,F Eastbourne/ East Sussex 1973}) 13.
+Ne5 {White is better.} Nxe5 14. dxe5 Be7 $1 15. f3 {Strongly threatening cxd5.}
+Nc5 16. Nd4 Bd7 17. b4 Na6 18. a3 f4 $2 (18... c5 $11 {and Black stays safe.}
+19. bxc5 dxc4) 19. Bh3 $36 {[%mdl 2048] White has strong initiative.} Nc7 20.
+Rae1 (20. exf4 $16 {cxd5 is the strong threat.} dxc4 21. f5 (21. Qxc4 gxf4 22.
+Rad1 Kh8 $11)) 20... fxg3 (20... dxc4 $11 {remains equal.} 21. Qxc4 fxe3) 21.
+hxg3 {Black must now prevent cxd5.} dxc4 22. Qxc4 Qg6 23. e4 Kh8 (23... Rf7 $16
+{was called for.}) 24. Nf5 $18 exf5 (24... Bd8 $142 25. Rd1 g4) 25. e6+ $1 {
+[%mdl 64] Discovered Attack} Bf6 26. Bxf6+ ({And not} 26. exf5 Qh6 $17) 26...
+Qxf6 27. exd7 f4 28. e5 Qh6 29. Kg2 {Hoping for e6.} fxg3 $2 (29... Nd5 30. e6
+Qf6) 30. e6 Nd5 31. e7 Nf4+ {[#]} 32. Qxf4 $1 {[%mdl 512]} gxf4 (32... Rxf4 33.
+d8=Q+) 33. e8=Q Raxe8 34. Rxe8 Qf6 35. Rxf8+ $2 ({Only move:} 35. Rfe1 $18 {
+Threatening mate with Rxf8+.} Qd4 36. Rxf8+ Kg7 {[#]} 37. Bf5 $3 {[%mdl 512]} (
+37. Kh1 $2 Qd2 $19)) 35... Qxf8 {[%mdl 4096] Endgame KQ-KRB} 36. Re1 {White
+threatens Re8 and mate.} Qf6 {( -> ...Qb2+)} 37. Re2 Kg7 (37... Qd4 $5 38. Re8+
+$8 Kg7 $11) 38. Rd2 Qd8 {Threatens to win with ...h5.} 39. Bg4 h5 40. Bxh5 Kf6
+41. Bg4 Kg7 42. Rd4 Kg6 $2 {[%mdl 8192]} (42... Kh6 $11 {and Black is okay.})
+43. Rxf4 a5 (43... Qh8 $142 44. Bh3 Qb2+ 45. Kxg3 Qd2) 44. Re4 Qf8 45. Re6+ Kg5
+46. Re8 {Accuracy: White = 50%, Black = 23%.} 1-0
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.22"]
+[Round "17"]
+[White "Rapport, Richard"]
+[Black "Shankland, Samuel"]
+[Result "1-0"]
+[ECO "D01"]
+[WhiteElo "2735"]
+[BlackElo "2731"]
+[Annotator "TA"]
+[PlyCount "47"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,47,0,0,-7,0,0,0,-16,-14,-25,0,-47,-14,0,0,0,0,0,25,-63,-46,-156,-158,
+-181,-176,-179,-97,-93,278,262,611,583,600,591,598,588,637,637,666,636]} 1. d4
+d5 2. Nc3 Nf6 3. Bg5 Nbd7 4. e3 c6 5. Nf3 e6 6. Bd3 {D01: Veresov Opening} Be7
+7. O-O O-O 8. h3 {The position is equal.} c5 9. a3 a6 10. Ne5 $146 ({
+Predecessor:} 10. Re1 b5 11. Ne5 Nxe5 12. dxe5 Nd7 13. Bxe7 Qxe7 {0-1 (33)
+Bossi,N (1429)-Reede,A (1658) LSS email 2012}) 10... h6 11. Bf4 Nxe5 12. dxe5
+Nd7 13. Qg4 $36 {[%mdl 2048] [#] Hoping for Bxh6. White is pushing.} f5 14. Qg6
+(14. exf6 $1 $11 Rxf6 15. Bg3) 14... Rf7 $1 $15 15. Qxe6 (15. Qh5 $15) 15...
+Nf6 $1 $17 16. Bxf5 Bxe6 17. Bxe6 Ne8 (17... Ne4 $19 {And now ...Nxc3 would
+win.} 18. Nxd5 Qf8) 18. Nxd5 Nc7 $2 {[%mdl 8192] [#]} (18... Kf8 $17 19. Bg3
+Qa5) 19. Nxc7 Rb8 $2 (19... Qxc7 20. Bxf7+ Kh8) 20. Bxf7+ {White is clearly
+winning.} Kxf7 21. Rad1 Qf8 22. Rd7 Rd8 23. Rfd1 Rxd7 24. e6+ {Accuracy: White
+= 37%, Black = 24%.} 1-0
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.24"]
+[Round "18"]
+[White "Shankland, Samuel"]
+[Black "Rapport, Richard"]
+[Result "0-1"]
+[ECO "A37"]
+[WhiteElo "2731"]
+[BlackElo "2735"]
+[Annotator "TA"]
+[PlyCount "86"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,86,9,35,0,33,36,74,51,44,50,51,0,0,-43,-79,-72,-60,-37,0,0,24,-25,
+-26,-80,-80,-84,-86,-91,-95,-89,-86,-77,-76,-106,-114,-94,-102,-263,-266,-270,
+-266,-275,-275,-269,-266,-275,-273,-275,-268,-268,-259,-293,-284,-279,-258,
+-270,-238,-384,-381,-431,-341,-462,-462,-462,-443,-461,-456,-558,-458,-433,
+-445,-462,-383,-851,-826,-747,-691]} 1. c4 c5 2. g3 Nc6 3. Bg2 g6 4. Nf3 Bg7 5.
+Nc3 d6 6. O-O h5 7. e3 {A37: Symmetrical English vs ...g6: 4 Bg2 Bg7 5 Nf3}
+Bxc3 $146 ({Predecessor:} 7... Nh6 8. d4 Bg4 9. dxc5 dxc5 10. h3 Bd7 11. e4 Qc8
+12. Nd5 h4 13. Bf4 Kf8 14. g4 Bxb2 {1/2-1/2 (40) Gagare,S (2501)-Ivanisevic,I 
+(2583) St Petersburg 2018}) 8. bxc3 Qd7 9. d3 {White is better.} b6 10. e4 Bb7
+11. Ng5 (11. Qe2 $14) 11... h4 $11 12. f4 hxg3 13. hxg3 f6 14. Nf3 Qg4 15. Kf2
+f5 16. Ng5 Nf6 17. Be3 (17. Bd2 $11 {keeps the balance.}) 17... Qxd1 $17 18.
+Raxd1 Ng4+ 19. Ke2 Rh2 20. Rg1 fxe4 21. Nxe4 Na5 22. Kf3 Nf6 23. Rh1 {[#]} Rxg2
+$1 {[%mdl 576] Deflection} 24. Kxg2 $2 (24. Rh8+ $17 {was the only defense.}
+Kf7 25. Rxa8) 24... Nxe4 $19 25. dxe4 Bxe4+ 26. Kf2 Bxh1 ({Inferior is} 26...
+Nxc4 27. Rh8+ Kf7 28. Rxa8 $11) 27. Rxh1 {[%mdl 4096] Endgame Hoping for Rh8+.
+KRB-KRN} Kd7 28. Rh7 Rg8 29. Kf3 Nxc4 30. Bc1 Ke6 31. Kg4 Kf6 32. Kf3 d5 33. g4
+b5 34. g5+ (34. Be3 {might work better.} Nxe3 35. Kxe3) 34... Ke6 35. Kg4 Nd6
+36. Be3 {[#]} d4 $1 37. cxd4 Nf5 38. Bf2 cxd4 39. Kf3 Rd8 40. Rh1 a6 41. Rc1 d3
+42. Ke4 $2 (42. Rd1) 42... d2 43. Rd1 Nd6+ {Accuracy: White = 24%, Black = 71%.
+} 0-1
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.22"]
+[Round "19"]
+[White "Rapport, Richard"]
+[Black "Shankland, Samuel"]
+[Result "0-1"]
+[ECO "D01"]
+[WhiteElo "2735"]
+[BlackElo "2731"]
+[Annotator "TA"]
+[PlyCount "170"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,170,-19,-13,-22,0,-31,0,0,0,-8,0,0,0,0,0,0,0,-21,0,0,-17,-18,-16,-31,
+-6,-50,-11,-52,0,-62,-53,-94,0,-102,52,-95,89,-74,74,71,60,0,0,-35,-31,-45,-39,
+-33,-38,-58,-20,-40,-54,-62,-31,-39,-39,-35,-40,-41,-30,-132,0,0,0,0,18,0,25,
+26,20,0,0,0,0,0,0,-4,0,0,10,0,0,0,0,-65,-45,-85,-101,-122,-86,-96,0,-126,-122,
+-165,-75,-148,-72,-82,-82,-259,-68,-111,-50,-60,-27,-418,-8,-8,-8,-8,-8,-8,0,
+-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-1634,-1472,-1438,-1364,-29966,-29967,
+-29965,-29964,-29951,-29952,-29968,-29968,-29979,-29980,-29981,-29982,-29982,
+-29983,-29983,-29984,-29989,-29989,-29989,-29990,-29990,-29987,-29987,-29988,
+-29988,-29989,-29989,-29990,-29990,-29991,-29991,-29992]} 1. d4 d5 2. Nc3 Nf6
+3. Bg5 e6 4. e3 c5 5. Nf3 a6 (5... Nc6 6. a3 h6 7. Bh4 Be7 8. dxc5 Bxc5 9. Bd3
+O-O 10. O-O Be7 11. Re1 b6 12. Qe2 Bb7 {0-1 (54) Rapport,R (2707)-Andriasian,Z
+(2585) Riadh 2017}) 6. a3 {D01: Veresov Opening} Be7 7. Bd3 $146 ({Predecessor:
+} 7. b3 Nc6 8. dxc5 Bxc5 9. b4 Bd6 10. Bd3 Ne5 11. O-O Nxf3+ 12. Qxf3 {0-1 (39)
+Pavlovic,F-Funduk,D (1789) Croatia 2016}) 7... O-O 8. dxc5 {The position is
+equal.} Bxc5 9. O-O h6 10. Bxf6 Qxf6 11. e4 Rd8 12. e5 Qe7 13. Ne2 Nc6 14. Nf4
+b5 {[%cal Bb7b5,Bb5b4][%mdl 32]} 15. Re1 Bb7 16. Qd2 b4 17. Nh5 a5 {[%cal
+Rb4a3]} 18. Qf4 (18. Nf6+ $5 Kh8 19. axb4 axb4 20. Qf4 $15) 18... Qf8 (18...
+bxa3 $15 19. bxa3 Kh8) 19. Qg4 (19. g4 $11) 19... Kh8 20. Ng5 Ne7 (20... hxg5
+21. Nf6 $1 $16 {[%mdl 512]}) (20... bxa3 $17 21. bxa3 Ba6) 21. Nf4 (21. axb4
+$11 axb4 22. Nf3) 21... g6 $2 ({Better is} 21... bxa3 $17 22. bxa3 Bc6) 22. Qh3
+(22. Qh4 $1 $14 {was forced to keep a grip.}) 22... Qg7 $2 (22... bxa3 $17 23.
+bxa3 Rdb8) 23. Re2 $2 (23. axb4 $16 Bxb4 24. Nxf7+ Qxf7 25. Qxh6+ {[%mdl 64]
+Double Attack} Qh7 26. Qxh7+ Kxh7 27. c3 (27. Nxe6 Bxe1 28. Nxd8 Bxf2+ 29. Kxf2
+Rxd8 $15)) 23... Bc8 (23... bxa3 $17 {keeps the pressure on.} 24. bxa3 Rf8) 24.
+axb4 $16 Bxb4 25. c3 (25. Nxf7+ $1 $14 Qxf7 26. Qxh6+ Kg8 27. Nh5 $1 {[%mdl
+512]} (27. Nxg6 Nxg6 28. Re3 Qg7 $15) (27. Bxg6 Qg7 $11) 27... gxh5 28. Re3)
+25... Bc5 $11 26. Ra4 Bd7 27. Ra2 a4 (27... Kg8 $5 28. Nf3 $8 a4 $15) 28. Nf3
+Kg8 29. Bc2 Nc6 30. Nd3 Be7 31. Rxa4 Rxa4 32. Bxa4 Nxe5 $1 33. Ndxe5 Bxa4 34.
+Nd4 Bf6 35. Ng4 (35. Qg3 $11 {remains equal.}) 35... h5 (35... Bxd4 $17 36.
+Nxh6+ Kf8 37. cxd4 Qxd4) 36. Nxf6+ Qxf6 37. Qg3 Kg7 38. h4 Rc8 39. Re5 Kf8 40.
+Rg5 Bd7 41. Qd6+ Qe7 42. Qf4 {aiming for Rxg6.} Kg7 $1 43. Qg3 Kf8 44. Re5 Qf6
+45. Re3 Kg7 46. Rf3 Qe7 47. Qe5+ (47. Re3 $11 Kg8 48. Re1) 47... f6 $15 48. Qe3
+e5 49. Nc2 Bg4 50. Rg3 Bf5 (50... Qc5 $17 51. Qxc5 Rxc5) 51. Qd2 {[#]} (51. Nd4
+$1 $11 Bg4 52. f3) 51... d4 $1 $17 {[%mdl 512]} 52. Nb4 (52. cxd4 Rxc2) 52...
+dxc3 (52... Qb7 $19 {is more deadly.} 53. Qe2 Ra8) 53. bxc3 (53. Rxc3 $142 Rd8
+54. Nc6 Rxd2 55. Nxe7) 53... Rd8 ({Black should try} 53... Rc4 $1 54. Re3 Rxh4)
+54. Qe3 Qc7 55. Kh2 $2 {[#]} (55. Qe2 $17) 55... Qd6 $2 (55... Qc4 $1 $19 {
+[%cal Rc4h4]} 56. f4 Qxf4 57. Qxf4 exf4) 56. Qf3 Bg4 (56... e4 $17 57. Qe3 Qc7)
+57. Qe4 f5 58. Qc6 $2 {[%mdl 8192]} (58. Qe1 $1 $11 {and White is okay.}) 58...
+Qxc6 $2 ({Black should play} 58... f4 $19 59. Rxg4 hxg4) 59. Nxc6 $19 {[%mdl
+4096] Endgame KRB-KRN} Rd5 {White must now prevent ...f4.} 60. Re3 $132 {
+[%mdl 2048] White puts up resistance} Kf6 61. Nb4 Rd1 62. f3 f4 63. Rd3 Rxd3
+64. Nxd3 $11 {KB-KN} Bf5 65. Nf2 $1 Ke6 {With the idea ...Kd5.} 66. g3 Kd5 {
+next ...Kc4 is good for Black.} 67. gxf4 $1 exf4 {White should prevent ...Kc4.}
+68. Nd1 $2 {[%mdl 8192]} (68. Kg2 $11) 68... Kc4 $19 69. Kg2 {[#]} Kd3 $1 {
+[%cal Rd3c2]} 70. Kg1 Ke2 {[%mdl 64] Double Attack. Black mates.} 71. Nf2 Kxf3
+72. c4 Kg3 73. c5 Kxh4 74. c6 Kg3 75. c7 Kf3 76. Nd3 h4 77. Ne5+ Kg3 78. Nxg6
+f3 79. Kf1 h3 80. Ne7 Bd3+ 81. Ke1 f2+ 82. Kd2 Ba6 83. Nf5+ Kf4 84. Ne3 h2 85.
+Nd5+ Kf3 {Accuracy: White = 32%, Black = 44%.} 0-1
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.22"]
+[Round "20"]
+[White "Shankland, Samuel"]
+[Black "Rapport, Richard"]
+[Result "0-1"]
+[ECO "A26"]
+[WhiteElo "2731"]
+[BlackElo "2735"]
+[Annotator "TA"]
+[PlyCount "84"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 24,84,0,-6,21,21,32,-10,0,0,0,0,4,-31,-35,-30,-13,-25,0,-138,0,0,0,-58,
+-63,-83,-90,-70,0,0,0,0,132,-302,-329,-302,-320,-324,-163,-147,-164,-165,-165,
+-165,-165,-165,-165,-165,-165,-165,-165,-165,-165,-165,-166,-438,-412,-858,
+-840,-29974,-29975,-29979,-29970]} 1. Nf3 Nf6 2. c4 Nc6 3. g3 e5 4. d3 g6 5.
+Bg2 Bg7 6. O-O O-O 7. Nc3 d6 8. Rb1 a5 9. a3 Re8 10. Nd2 Nd4 11. e3 Ne6 12. b4
+axb4 13. axb4 h5 {A26: English Opening vs King's Indian with ...Nc6 and d3} (
+13... c6 14. Qb3 h5 15. h4 Ng4 16. Bb2 f5 17. b5 Bd7 18. Nf3 f4 19. exf4 exf4
+20. Ne4 fxg3 21. fxg3 {1/2-1/2 (43) Artemiev,V (2662)-Shirov,A (2675) Moscow
+2014}) 14. Bb2 $146 ({Predecessor:} 14. Nf3 c6 15. Bb2 Nc7 16. e4 d5 17. exd5
+cxd5 18. Re1 dxc4 19. dxc4 Bf5 20. Ra1 Qe7 21. Rxa8 Rxa8 22. Qb3 Nfe8 23. Nd5
+Nxd5 24. cxd5 f6 25. Nh4 Nd6 26. Nxf5 Nxf5 27. d6+ {1-0 (27) Jadoul,M (2395)
+-Lachique,F (2174) France 2001}) 14... h4 15. Qb3 hxg3 {The position is equal.}
+16. hxg3 Ng4 17. Ra1 Rb8 18. Ra7 Qg5 19. Nf3 Qh6 20. Rfa1 Bd7 21. Ne4 (21. Nd5
+$11 {keeps the balance.}) 21... b5 (21... f5 $17 22. Ned2 Nxe3 $1 {[%mdl 512]}
+23. fxe3 Qxe3+ 24. Kf1 e4) 22. c5 $1 $36 {[%cal Rc5d6][%mdl 2048] White has
+the initiative.} dxc5 23. bxc5 (23. Nxc5 $11 Nxc5 24. bxc5) 23... Bc6 $15 24.
+Qc2 f5 25. Ned2 Nxe3 ({Better is} 25... e4 $15 26. Bxg7 Nxg7 27. Qb3+ Kh8) 26.
+fxe3 $11 Qxe3+ {[%mdl 64] Double Attack} 27. Kf1 Nxc5 {[#]} (27... e4 $11 {
+remains equal.} 28. Re1 Qxd3+ 29. Qxd3 exd3 30. Bxg7 Kxg7) 28. Re1 $2 {[%mdl
+8192]} (28. R7a3 $1 $16 {is necessary to keep the advantage.} e4 29. dxe4 Bxe4
+30. Rxe3 (30. Nxe4 Qxe4 31. Rc1 b4 $17) 30... Bxc2 31. Rxe8+ Rxe8 32. Bxg7 Kxg7
+33. Rc1 Bd3+ 34. Kg1) 28... Qxd3+ $19 29. Qxd3 Nxd3 30. Rxc7 Rbc8 (30... Nxe1
+$142 31. Kxe1 Rbc8 32. Rxc8 Rxc8) 31. Rxc6 Rxc6 32. Nxe5 Rd6 33. Nxd3 Rxe1+ 34.
+Kxe1 {Hoping for Ne5.} Rxd3 35. Bf1 {Bxg7 is the strong threat.} Rxg3 36. Bxg7
+Kxg7 37. Bxb5 Kf6 38. Kf2 Ra3 39. Be2 $2 (39. Nc4 Rb3 40. Ba6) 39... g5 40. Nf1
+(40. Bc4 $142) 40... g4 41. Ne3 {[#]} g3+ $1 {[%mdl 512]} 42. Kf3 {[#]} (42.
+Kxg3 Rxe3+) 42... g2 $1 {[%mdl 512] Accuracy: White = 36%, Black = 49%.} 0-1
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.22"]
+[Round "21"]
+[White "Rapport, Richard"]
+[Black "Shankland, Samuel"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2735"]
+[BlackElo "2731"]
+[Annotator "TA"]
+[PlyCount "107"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,107,56,51,31,45,54,37,42,61,36,68,63,76,73,84,84,104,102,104,52,54,0,
+0,0,0,0,75,75,138,146,150,150,133,150,143,155,141,150,143,106,106,111,112,112,
+176,74,195,195,195,197,197,191,191,152,186,186,194,0,160,149,150,142,144,144,
+186,186,581,385,365,172,195,195,130,123,196,195,195,195,197,197,175,164,174,62,
+81,20,353,353,350,350,318,237,1128,1128,1107,1031,29988,29989]} 1. Nc3 c5 2.
+Nf3 d5 3. d4 e6 4. e4 Nf6 5. exd5 Nxd5 6. Nxd5 Qxd5 7. Be3 {C10: French with 3
+Nc3: Unusual Black 3rd moves and 3...dxe4} cxd4 8. Qxd4 Qxd4 9. Nxd4 {White is
+slightly better.} a6 10. O-O-O (10. Be2 Be7 11. O-O O-O 12. Nb3 Nc6 13. c3 e5
+14. Bc5 Re8 {1/2-1/2 (64) Misiano,F (2313)-Okhotnik,V (2464) Lugano 2015})
+10... Be7 11. Be2 O-O 12. Rhe1 $146 ({Predecessor:} 12. Rd2 Nd7 13. Nb3 Nf6 14.
+Bf3 e5 {1-0 (48) Holaszek,H-Gebauer,P Leysin 1967}) 12... Nd7 13. f4 Nf6 14.
+Bf3 Rd8 15. g4 (15. Nb3 $16) 15... Nd5 $14 16. Nf5 (16. Bd2 $14) 16... exf5 $11
+17. Bxd5 fxg4 18. Bb6 Re8 (18... Rd7 $11 {remains equal.}) 19. Bc5 $1 $36 {
+[%mdl 2048] White is in control.} Be6 (19... Kf8 $142 20. Bc6 Be6 21. Bxe8 Bxc5
+) 20. Bxe7 Rxe7 {[#]} 21. f5 $1 {[%cal Rf5e6][%mdl 512]} Bxd5 (21... Bxf5 22.
+Rxe7) 22. Rxe7 {[%mdl 4096] Endgame KRR-KRB} Bc6 23. Rd4 h5 24. Kd2 Kf8 25. Re5
+f6 26. Re6 Kf7 27. Ke3 $1 Rf8 (27... Rc8 $16 {might work better.}) 28. Rdd6 (
+28. c4 $18 {and White stays clearly on top.}) 28... Kg8 (28... Rc8 $16 {
+was worth a try.}) 29. Kf4 $18 Kh7 30. c4 Kh6 31. b4 Rc8 32. Re7 Bf3 33. c5 Bc6
+34. Re2 $2 (34. Rd3 $18) 34... Rf8 $2 (34... a5 $11) 35. Red2 $16 Re8 36. Re6 {
+Rxe8 is the strong threat.} Ra8 37. Re7 Rc8 38. a4 g5+ $2 (38... Rb8 {is more
+resistant.} 39. a5 Rg8) 39. fxg6 Kxg6 40. Rb2 (40. a5 $142 Rb8 41. Rd6) 40...
+Rd8 41. b5 axb5 42. axb5 Bh1 (42... Bf3 $16 {is a better defense.} 43. c6 bxc6)
+43. c6 bxc6 44. b6 Rd3 {[#] White must now prevent ...Rf3+.} 45. Re3 $1 {
+[%cal Re3d3][%mdl 1024] White has strong compensation.} Rd4+ 46. Kg3 Rd8 47.
+Ra3 ({White should try} 47. Re1 $18 Bf3 48. b7) 47... c5 $1 $14 48. Rc3 (48.
+Ra7 $16) 48... Kg5 $2 {[%mdl 8192]} (48... Bb7 $11 {and Black stays safe.}) 49.
+Rxc5+ $18 f5 {[#]} 50. h4+ $1 gxh3 51. Kxh3 Rd3+ $2 (51... Rb8 52. Kg3 Bb7) 52.
+Kh2 Be4 53. b7 Rd1 54. b8=Q {Accuracy: White = 58%, Black = 34%.} 1-0
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.24"]
+[Round "22"]
+[White "Shankland, Samuel"]
+[Black "Rapport, Richard"]
+[Result "1/2-1/2"]
+[ECO "A15"]
+[WhiteElo "2731"]
+[BlackElo "2735"]
+[Annotator "TA"]
+[PlyCount "109"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,109,17,29,19,34,-3,42,14,13,6,12,8,12,10,9,12,10,10,10,13,18,-31,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,28,108,87,97,8,168,121,171,119,153,77,70,29,35,
+15,78,79,77,70,132,0,19,17,16,24,24,17,15,20,180,118,122,104,117,0,0,0,0,0,0,0,
+0,-8,0,0,0,0,0,0,0,-12,-9,-9,-9,-9,-8,-9,0,0,0,0,0,0]} 1. Nf3 Nf6 2. g3 g6 3.
+Bg2 Bg7 4. O-O O-O 5. c4 c6 6. b3 {A15: English Opening: 1...Nf6} d6 (6... Ne4
+7. d4 d5 8. Bb2 a5 9. Nc3 Bf5 10. e3 Nxc3 11. Bxc3 Be4 12. Qe2 Nd7 13. Rfc1 e6
+14. Bh3 Bxf3 15. Qxf3 Qe7 16. Rab1 Rfc8 17. cxd5 exd5 18. b4 axb4 19. Bxb4 {
+1-0 (51) Oparin,G (2613)-Dubov,D (2703) St Petersburg 2018}) 7. Bb2 Qa5 8. h3 {
+White is slightly better.} e5 9. d3 Re8 10. e4 $146 ({Predecessor:} 10. Nbd2
+Qc7 11. Qc2 a5 12. a3 Na6 13. Rfe1 h6 14. e4 c5 {1-0 (25) Cvetkovic,S (2327)
+-Mihajlovic,M (2086) Belgrade 2015}) 10... Na6 11. Nc3 Nc5 12. a3 Qb6 13. b4
+Ne6 14. Rb1 a5 15. c5 Qd8 16. Na4 axb4 17. axb4 dxc5 18. bxc5 Nd7 $1 19. Qc2
+Ra5 {[%cal Rd7c5]} 20. Bc3 Rb5 21. Bd2 Qe7 {[%cal Rd7c5]} 22. Be3 Ra5 23. Rfc1
+f5 24. Bd2 Rb5 (24... Ra6 $11 {keeps the balance.}) 25. Rxb5 $16 cxb5 26. Nc3 (
+26. exf5 $1 $16 gxf5 27. Nb6) 26... Qxc5 $2 (26... Ndxc5 $11 {and Black has
+nothing to worry.} 27. Nd5 (27. Nxb5 Qd7 $11) 27... Qd8) 27. Qb3 Kh8 28. Nxb5 (
+28. exf5 $18 gxf5 29. Nxb5) 28... Qb6 29. Be3 (29. exf5 $142 gxf5 30. Qc4)
+29... Ndc5 30. Qc4 {[%cal Re3c5]} Bd7 31. Nc3 {[%cal Bb5c3,Bc3e4,Be4d6][%mdl
+32]} Rc8 (31... Qa6 $11 {remains equal.}) 32. exf5 gxf5 33. Qh4 $36 {[%mdl
+2048] White has good play.} f4 (33... Bc6 $1 $14) 34. Bxc5 ({White should play
+} 34. Nd5 $16 Qb2 35. gxf4 exf4 36. Nxf4) 34... Rxc5 ({Don't go for} 34... Nxc5
+$2 35. Nd5 $18) (34... Qxc5 $5 35. Ne2 $8 Qd6 $11) 35. Rb1 Qd8 {Threatens to
+win with ...Qxh4.} 36. Ne4 Qxh4 37. Nxh4 Rb5 38. Ra1 h6 $2 {[#]} (38... fxg3
+$11 {and Black stays safe.} 39. fxg3 Nc7) 39. Nd6 (39. Ra8+ $1 $18 Kh7 40. Nc3)
+39... Rb6 {[#]} 40. Ra8+ $1 ({Don't take} 40. Nxb7 Bf6 $14) 40... Bf8 41. Ng6+
+(41. Nxb7 $6 Kg7 $11) (41. Nf7+ $16 Kg7 42. Nxe5 Rb1+ 43. Kh2 fxg3+ 44. fxg3)
+41... Kg7 $11 {The position is equal.} 42. Nxf8 {And now Nf5+ would win.} Rxd6
+43. Nxe6+ Bxe6 {[%mdl 4096] Endgame KRB-KRB} 44. Ra7 Bc8 45. Ra5 ({Much weaker
+is} 45. Bxb7 Rd7 $17) 45... fxg3 46. fxg3 Rxd3 47. Rxe5 Rxg3 48. Kh2 Rc3 49.
+Bxb7 Kf6 50. Rb5 Rxh3+ 51. Kg2 Bd7 52. Rd5 Be6 53. Rd6 {Hoping for Rxe6+!} Rc3
+54. Bd5 Ke5 55. Rxe6+ {[%mdl 64] Double Attack. Accuracy: White = 56%, Black =
+46%.} 1/2-1/2
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.22"]
+[Round "23"]
+[White "Rapport, Richard"]
+[Black "Shankland, Samuel"]
+[Result "0-1"]
+[ECO "B20"]
+[WhiteElo "2735"]
+[BlackElo "2731"]
+[Annotator "TA"]
+[PlyCount "88"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,88,-34,-19,-15,-19,-29,-10,-11,11,-115,-99,-119,-120,-215,-197,-301,
+-253,-260,-274,-254,-134,-188,-145,-194,-154,-145,-140,-149,-149,-214,-201,
+-197,-131,-167,-122,-122,-118,-242,-243,-391,-358,-350,-325,-321,-311,-301,
+-262,-479,-247,-233,-231,-312,-289,-314,-331,-298,-295,-468,-468,-443,-411,
+-370,-370,-603,-603,-675,-675,-749,-708,-985,-981,-1791,-675,-1435,-1372,-6103,
+-5089,-29974,-29975,-29989,-29990]} 1. e4 c5 2. Qh5 Nf6 3. Qh4 d6 (3... Nc6 4.
+Nf3 d6 5. Bb5 Bd7 6. O-O g6 7. d3 h6 8. Bxc6 Bxc6 9. e5 dxe5 10. Nxe5 {0-1 (39)
+Rapport,R (2698)-Grischuk,A (2750) chess.com INT 2017}) 4. Nf3 e6 5. Bb5+ $146
+({Predecessor:} 5. e5 dxe5 6. Nxe5 Be7 7. Nc3 O-O 8. Bd3 Nbd7 9. Ng4 h6 10.
+Nxh6+ gxh6 11. Qxh6 {0-1 (68) Treger,E (2246)-Agaian,S (2162) New York 2003})
+5... Bd7 6. a4 {B20: Sicilian: Unusual White 2nd moves} Be7 7. d3 Nc6 8. O-O {
+The position is equal.} h6 9. Qg3 (9. e5 $11 {keeps the balance.} Nxe5 10. Nxe5
+dxe5 11. Qg3) 9... Nh5 $1 $17 {[%cal Rh5g3]} 10. Qh3 e5 $1 11. Bxc6 (11. Qxh5
+$17 g6 12. Qxh6 Rxh6 13. Bxh6) 11... bxc6 $19 12. Qxh5 (12. g4 {keeps fighting.
+} Nf6 13. Qg2) 12... g6 {[%mdl 64] Trapped Piece} 13. Qxh6 Rxh6 14. Bxh6 f6 ({
+Better is} 14... g5 $19 {Threatens to win with ...f6.} 15. h4 gxh4) 15. Be3 (
+15. Bc1 $17 {was worth a try.}) 15... Kf7 {[%mdl 1024] Black has strong
+compensation.} 16. Na3 Bg4 17. Nd2 g5 18. h3 Be6 19. g4 (19. f3 $17 {is a
+better defense.}) 19... d5 20. f3 {[#]} c4 $1 {[%mdl 512]} 21. dxc4 $17 d4 $36
+{[%mdl 2048] Black is really pushing.} 22. Bf2 Qa5 23. Rfd1 (23. Nab1 $17)
+23... Rb8 $19 24. Nb3 (24. b3 $142) 24... Qxa4 25. Kg2 Bxc4 26. Nd2 Be2 27. Re1
+Bb5 28. Nxb5 $2 (28. b3 Qb4 29. Nac4) 28... Qxb5 (28... Qxc2 $142 29. Nxd4 exd4
+) 29. b3 a5 30. Nc4 {[#]} Ra8 $1 31. Ra4 {[#]} d3 $1 {[%cal Rd3c2][%mdl 576]
+Deflection} 32. cxd3 Qxb3 33. Rxa5 (33. Rea1 $142 Qc3 34. R4a2) 33... Rxa5 34.
+Nxa5 Qc3 35. Nc4 Qxd3 36. Ne3 $2 (36. Rc1 Bb4 37. Nb6) 36... Bc5 37. Nf1 Qc2
+38. Ne3 Qa2 39. Kg3 Bd4 40. Rf1 c5 (40... Bxe3 $142 41. Bxe3 Qe2 {[%mdl 64]
+Double Attack}) 41. Nd5 Qe2 42. Kg2 c4 {[%cal Bc5c4,Bc4c3][%mdl 32]} 43. Nb4 c3
+44. Na2 Qxa2 {Accuracy: White = 38%, Black = 57%.} 0-1
+
+[Event "Champions Showdown Kings Blitz 2019-E"]
+[Site "Saint Louis"]
+[Date "2019.02.24"]
+[Round "24"]
+[White "Shankland, Samuel"]
+[Black "Rapport, Richard"]
+[Result "1/2-1/2"]
+[ECO "A15"]
+[WhiteElo "2731"]
+[BlackElo "2735"]
+[Annotator "TA"]
+[PlyCount "79"]
+[EventDate "2019.02.09"]
+[EventType "match"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 27,79,20,26,0,0,-17,-22,-16,0,0,0,-62,-51,-59,-58,-88,-87,-113,-50,-70,
+-45,-54,-47,-65,-64,-55,-58,-66,-51,-76,-75,-75,-15,-127,-75,-88,-77,-137,-128,
+-127,-129,-116,-116,-251,-37,-47,-27,-40,0,0,0,0,0,0]} 1. Nf3 Nf6 2. g3 g6 3.
+b3 Bg7 4. Bb2 O-O 5. Bg2 c6 6. c4 d6 7. Nc3 e5 8. O-O Re8 9. e4 Na6 10. d4 exd4
+11. Nxd4 Nc5 12. Re1 a5 13. h3 Qb6 14. Rb1 Nfd7 15. Re2 $146 {E69: King's
+Indian: Fianchetto: 6...Nbd7 7 0-0 e5 8 e4 c6 9 h3} ({Predecessor:} 15. Nf3 Qb4
+16. Qc2 a4 17. Nxa4 Nxa4 18. Bxg7 Kxg7 19. bxa4 Qxa4 20. Qd3 Kg8 21. Qxd6 Qxc4
+22. e5 Qxa2 {1/2-1/2 (46) Forcen Esteban,D (2457)-Suarez Uriel,A (2249)
+Salobrena 2012}) 15... a4 16. Nxa4 Nxa4 17. bxa4 Qc7 18. Bc3 Nb6 19. Qb3 (19.
+Rb4 $11) 19... Nxa4 $15 20. Ba1 Nc5 21. Qe3 Ra4 22. Rc2 Qe7 (22... f5 $17 {
+[%cal Rc5e4]} 23. Nb3 Nxe4 24. Bxg7 Qxg7) 23. Re1 Bd7 24. Nb3 Bxa1 25. Nxc5
+dxc5 26. Rxa1 Rea8 27. Rb1 Be6 28. Rcb2 R8a7 29. Qf4 Kg7 ({Better is} 29... Bc8
+$17) 30. Qb8 {[#]} (30. Qe5+ $1 $11 Qf6 31. Qxc5) 30... Rxa2 (30... Qf6 $142 $1
+31. e5 Qf5) 31. Rxa2 $17 Rxa2 32. Rxb7 (32. Qe5+ $142 Qf6 33. Qxc5) 32... Qf6
+33. Qf4 Qxf4 ({Resist} 33... Bxc4 34. Qxf6+ Kxf6 35. f4 $15) 34. gxf4 Bxc4 {
+[%mdl 4096] Endgame ...Bb5 is the strong threat. KRB-KRB} 35. Rc7 {[#]} (35. e5
+$17) 35... Ra6 $2 (35... Bd3 $1 $19 {Strongly threatening ...Ra6.} 36. Rxc6 c4)
+36. e5 $15 Be6 37. Bxc6 Bxh3 38. Bd5 {The position is equal.} Be6 39. Bxe6 Rxe6
+40. Rxc5 {Accuracy: White = 36%, Black = 35%.} 1/2-1/2
+

@@ -1,0 +1,38 @@
+[Event "Gibraltar Masters 2019"]
+[Site "Caleta"]
+[Date "2019.01.27"]
+[Round "6"]
+[White "Antipov, Mikhail Al"]
+[Black "Saric, Ivan"]
+[Result "0-1"]
+[ECO "A09"]
+[WhiteElo "2589"]
+[BlackElo "2690"]
+[Annotator "Reeh,Oliver"]
+[PlyCount "50"]
+[EventDate "2019.??.??"]
+
+1. Nf3 d5 2. g3 g6 3. c4 dxc4 4. Qa4+ Nc6 5. Bg2 Bg7 6. Qxc4 Nh6 7. d3 Nf5 8.
+Nbd2 O-O 9. O-O a5 10. Qa4 Ncd4 11. Re1 c6 12. Nxd4 Qxd4 13. Qc2 Rd8 14. Nf3
+Qb6 15. e3 c5 16. a4 Be6 17. Nd2 Rd7 18. Rb1 Rad8 19. Bf1 Qb4 20. Rd1 {In the
+diagram Black looks perfectly placed, yet he still has to find the way to make
+short work of White's position. Thirsty for action? Please go ahead!} {[%tqu
+"En","How would you tackle White's position as Black?","","","c5c4","Linien
+öffnen, wenn man selbst voll entwickelt ist - fast immer eine gute Idee!",10]}
+c4 $1 {[%csl Gc4] Opening lines when you are fully developed - nearly always a
+good idea! White can reply 21.dxc4 and 21.d4 - your answers ready for each
+case?} 21. dxc4 (21. Nxc4 Bxc4 {[%cal Gd7d1] and the d3-pawn is pinned.}) (21.
+d4 {[%tqu "En","The follow-up sac: 21...Nxd4 or 21...Bxd4 - what would be your
+choice?","","","f5d4","",10,"g7d4","",0]} Nxd4 $1 (21... Bxd4 22. Nxc4 $1) 22.
+exd4 Rxd4 {[%cal Ge6f5,Gg7h6,Gd8d1] and White is completely paralysed -
+Black's bishops will do the rest.}) {[%tqu "En","Black has made sure the
+knight d2 is pinned in the d-file. Continuaton?","","","f5e3","",10]} 21...
+Nxe3 $1 {Light-squared freedom for the Be6!} 22. fxe3 {[%tqu "En","A last
+little subtlety - best move with the Be6?","","","e6f5","",10,"e6g4","",0]} Bf5
+$1 {[%csl Gf5][%cal Gf5b1] Provoking the advance of White's e-pawn thereby
+creating additional dark-squared weaknesses in his camp.} 23. e4 {[%tqu "En",
+"And the final move, please!","","","f5g4","und Weiß gab auf angesichts von",
+10]} Bg4 {[%cal Gg4d1] Attacking the defensive rook in the d-file. White
+resigned on account of} 24. Re1 Rxd2 25. Bxd2 Rxd2 {[%csl Gd2][%cal Gd2c2,
+Gb4c5,Gc5f2] with annihilation.} 0-1
+

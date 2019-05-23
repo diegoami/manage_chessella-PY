@@ -1,0 +1,43 @@
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.23"]
+[Round "6"]
+[White "Harikrishna, P."]
+[Black "Jakovenko, D."]
+[Result "1-0"]
+[ECO "C67"]
+[WhiteElo "2723"]
+[BlackElo "2719"]
+[Annotator "Sagar Shah"]
+[PlyCount "87"]
+[EventDate "2019.04.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 {I have never
+really felt that White can seriously try to play for a win in this symmetrical
+system. Of course, I am mistaken as Harikrishna shows in the game!} Be7 7. Bf1
+Nxe5 8. Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 (10... Nf5 11. c3 (11. d5 {is also very
+popular now.}) 11... d5 {is another way to play.}) 11. c3 Rxe1 12. Qxe1 Ne8 13.
+d5 {This had been played by Nepomniachtchi against Kramnik at the Tata Steel
+Masters 2019. Before that Anish Giri had essayed it against Fabiano Caruana.}
+b6 14. c4 {This is the first new move of the game.} (14. Bf4 {was
+Nepomniachtchi's choice as he went on to beat Kramnik.}) 14... Qe7 $6 {This
+looks logical, but it allows White to complete his development and at the same
+time keep the space advantage intact.} (14... Ba6 15. Nc3 c6 {is another
+possible way for Black to play.}) 15. Qxe7 Bxe7 16. Nc3 Bf6 17. Bd2 c6 18. Re1
+{Somehow Harikrishna's play looks very easy.} Bb7 19. dxc6 dxc6 20. c5 $5 {
+The typical Harikrishna move! For the engines it doesn't matter because such a
+move doesn't change the evaluation of the position. But for humans, it matters
+because it creates some kind of a tension in the position that a player has to
+resolve.} Nc7 (20... bxc5 21. Na4 $16) 21. b4 Ba6 (21... Re8 22. Rxe8+ Nxe8 23.
+Ne4 $14 {would also be a small edge for White.}) 22. Ne4 Be7 (22... Bd4 $11 {
+was much more accurate.}) 23. Nd6 Kf8 (23... Bf8 {is once again a better
+choice.}) 24. Nf5 Bxf1 $6 (24... Bf6 25. Bxa6 Nxa6 26. Bf4 bxc5 27. bxc5 g6 28.
+Bd6+ Kg8 29. Ne7+ Bxe7 30. Rxe7 Nb4 31. a3 Nd5 $13) 25. Nxe7 Bc4 $6 (25... Ne6
+$1 26. Nxc6 Bb5 27. Ne5 Rd8 28. Be3 bxc5 29. bxc5 f6 30. Nf3 Rd3 {Black is
+close to equality.}) 26. Nxc6 Bxa2 27. Bf4 $1 Nd5 (27... Ne6 28. Bd6+ Ke8 29.
+Ra1 $16) 28. Bd6+ Kg8 29. Nb8 $1 {Threatening a backrank mate.} f6 30. c6 $1 {
+The c-pawn is extremely strong.} a5 31. bxa5 bxa5 32. c7 Nxc7 33. Bxc7 {
+White has won a piece and the rest is just a matter of technique which
+Harikrishna shows in good measure.} a4 34. Bd6 Bd5 35. Re3 Bb3 36. Re8+ Kf7 37.
+Rf8+ Ke6 38. Ba3 Kd5 39. Rc8 Ke4 40. Rd8 Bc4 41. h4 Bb5 42. Kh2 Ra7 43. f3+ Ke5
+44. Rd6 1-0

@@ -1,0 +1,260 @@
+[Event "Nuremberg"]
+[Site "?"]
+[Date "1883.??.??"]
+[Round "?"]
+[White "Mason, James"]
+[Black "Gunsberg, Isidor"]
+[Result "1-0"]
+[ECO "D00"]
+[Annotator "Platz"]
+[PlyCount "83"]
+[EventDate "1883.??.??"]
+
+1. d4 e6 2. Bf4 d5 3. e3 Nf6 4. Bd3 (4. c4 {
+transposes to the Queen's Gambit Declined.}) 4... Bd6 (4... c5 5. c3 Nc6 6. Nd2
+Bd6 $11) 5. Bg3 (5. Nf3 Bxf4 6. exf4 Qd6 7. Qc1 $11 ({or} 7. Qd2 $11)) 5... c5
+6. c3 c4 {Black can simply develop his pieces instead of advancing this pawn.
+Gunsberg wants to play b7-b5-b4 as early as possible. May be a little too
+early.} 7. Bc2 b5 8. Nf3 (8. a4 b4 $1) 8... a5 9. Nbd2 b4 $2 {At least this
+advance is premature, because Black can no longer castle after 10.Ba4+!} (9...
+Bb7 $11 {is better}) ({I don't like} 9... O-O 10. e4 $1 {, because White might
+get some attacking chances. The following variation shows, how easily White
+can win a pawn and break up Black's King's position, if Black is not careful
+enough:} Nh5 $2 11. Bxd6 Qxd6 12. Ng5 g6 (12... Nf6 $2 13. e5) 13. Nxh7 $1 Kxh7
+14. e5 Qe7 15. Qxh5+ {The pawn is pinned by Bc2 and therefore cannot recapture.
+}) 10. Ba4+ $1 Kf8 (10... Bd7 $2 {is a blunder, because after} 11. Bxd6 Bxa4
+12. Qxa4+ {the white queen recaptures giving check at the same time preventing
+Black from playing Qxd6.}) 11. Ne5 Bxe5 $6 12. Bxe5 bxc3 $2 {Opening the
+b-file is good for White because of his superior development. James Mason: "12.
+... PxP might have been deferred, or held 'in terrorem', as it were." (The
+Principles of Chess, 4th edition, London 1902, p. 307)} 13. bxc3 Qe7 (13... Bd7
+14. Bc2 $1 {The white bishop is much stronger than the black one, so why would
+he allow a trade?}) 14. O-O (14. Rb1 {
+seizing the open file is another good move.}) 14... Nbd7 15. Bg3 h6 (15... h5 {
+is a little better}) (15... Qa3 {is met by} 16. Qc2 Nb6 17. Bc6 $16 {
+White will soon play Rab1 and advance his pawn to e4 at a favourable moment.})
+16. e4 Nb6 17. e5 Ne8 (17... Nxa4 $2 18. exf6 Qd7 19. Qf3 $16 g6 $2 20. Nxc4 $1
+Ba6 21. Ne5 $18) 18. Bc2 g6 (18... Qa3 19. Rb1 $5 (19. Qf3 {is good, too})
+19... Ra6 20. f4 g6 (20... Qxa2 $2 21. Qc1 $1 {
+winning the queen, because Ra1 cannot be prevented:} Na4 22. Ra1 Nxc3 23. Rf2
+$1 $18) (20... Qxc3 $2 21. Rf3 $1 Qxd4+ 22. Bf2 {
+and again the black queen has no retreat}) 21. Bh4 $16) 19. a4 Bd7 20. f4 Ng7
+21. Nf3 Kg8 {An attempt to free Rh8 by playing Kh7.} 22. Bh4 Qe8 23. Bf6 Kh7
+24. Nh4 (24. g4 {looks good, too, followed by h4 or Nh4. Kh7 is poorly placed
+in the diagonal of Bc2.}) 24... Rg8 {Unpinning the knight.} 25. Rf3 Nh5 26. f5
+$1 {A pretty move which is possible, because g6 must protect Nh5.} exf5 27.
+Nxf5 $1 Nc8 (27... Bxf5 $2 28. Rxf5 $1 Ng7 (28... gxf5 29. Bxf5+ Rg6 30. Qxh5
+$18) 29. Rf3 $16) (27... gxf5 $2 28. Rxf5 $1 Ng7 29. Rh5+ Bf5 ({after} 29...
+Nf5 $2 30. Rxh6+ $1 Kxh6 31. Qf3 Qe6 32. Qh3+ Kg6 33. Qh4 $1 {Black is forced
+to sacrifice his queen or he will be mated. What a beautiful variation!}) (
+29... Kh8 $2 30. Rxh6#) 30. Bxg7 Bxc2 31. Qd2 $1 Qe6 32. Rxh6+ $18) 28. Ne3 ({
+Missing a brilliant win by} 28. Nxh6 $1 Nxf6 ({or} 28... Kxh6 29. Qd2+ Kh7 30.
+Qg5 Nxf6 31. exf6 Rh8 32. Rf4 $1 Qe3+ (32... Kg8 33. Bxg6 $1 fxg6 34. f7+) 33.
+Kh1 Kg8 34. Bxg6 $1 fxg6 35. f7+ $1 Kf8 (35... Kg7 36. Qf6+ Kh7 37. Qxh8+ $1
+Kxh8 38. f8=Q+) 36. Qd8+ Kg7 37. f8=Q+ Rxf8 38. Qxf8+ Kh7 39. Rf7#) 29. exf6
+Kxh6 30. Qd2+ Kh5 ({after} 30... g5 31. h4 $1 {
+White's attack is irresistable, e.g.} Kh5 32. hxg5 Rxg5 33. Kf2 $1 $18 {
+threatening Rh1+}) (30... Kh7 $2 31. Rf4 $18) 31. Bf5 $1 {
+best, but there are other winning moves, too} (31. h4 $18) (31. Re1 $18) 31...
+Bxf5 (31... gxf5 $2 32. Rh3+ Kg4 33. Qh6 $18) 32. h4 g5 33. Rxf5 Kxh4 34. Qf2+
+Kh5 35. g4+ $1 Kg6 (35... Kxg4 36. Qf3+ Kh4 37. Kg2 $18) 36. Rxg5+ $1 Kxg5 37.
+Qf5+ Kh4 (37... Kh6 38. Qh5#) 38. Kf2 {
+and there is no sufficient defence against the threatened mate by Rh1 or Qh5.})
+28... Nxf6 29. Rxf6 Be6 30. Rb1 Ne7 31. Rxe6 $5 {
+Sacrificing the exchange in order to bring his knight to f6.} (31. h4 $1 {
+is probably even better, because White has several threats, e.g. h5, Qf3, Rb5
+or Rb6.}) 31... fxe6 32. Ng4 {Nf6+ is a horrible threat now.} Kg7 33. Qf3 $2 (
+33. Qd2 $1 Rh8 34. Qf4 Qf7 35. Qf6+ $1 Kg8 (35... Qxf6 $2 36. exf6+ Kf7 37.
+fxe7 Kxe7 38. Ne5 $18) 36. Rb7 Re8 37. Qh4 Kg7 38. Nf6 $16 {
+Black must not move his Re8, e.g.} Ref8 $2 ({or} 38... Ra8 $2 39. Nh5+ $1 Kf8 (
+39... gxh5 40. Rxe7) 40. Bxg6 $1 Qxg6 (40... Nxg6 41. Rxf7+) 41. Qxe7+ Kg8 42.
+Nf6+ {and Black will be checkmated}) 39. Rxe7 $1 Qxe7 40. Nh5+ Kf7 (40... gxh5
+41. Qxe7+) 41. Bxg6+ $1 Kxg6 42. Qxe7 Kxh5 43. Qxe6 {White has a clear
+advantage in this endgame, because Black must not defend his pawn on d5:} Rd8
+$2 44. Qf5+ Kh4 45. g3#) 33... Rf8 $1 34. Nf6 Qc6 35. h4 Ra7 36. Rf1 Qc8 $2 (
+36... Kh8 $1 37. Qg4 $14) 37. Qg4 $2 ({White might have played} 37. Bxg6 $1 {
+, because Black must not recapture:} Kxg6 $2 38. Qg4+ Kf7 39. Ne4+ Ke8 ({or} 
+39... Nf5 40. Nd6+) 40. Nd6+ {winning the queen.}) 37... Nf5 $1 38. Rf3 Raf7 $2
+{After some mistakes on both sides Black had recovered a little, but this
+blunder gives White the opportunity to win at once by a pretty combination.} ({
+Black could have given back the exchange by} 38... Rxf6 $1 39. exf6+ Kxf6 {
+, but even then White is better, e.g.} 40. h5 $1 Rg7 41. Qf4 Kf7 42. Qxh6 Kg8
+43. Bxf5 gxf5 44. Qf6 $1 Kh7 45. h6 Rg8 46. Re3 Qd8 47. Qf7+ Kh8 48. Rxe6 Qg5
+49. Qf6+ Qxf6 50. Rxf6 Rg3 $1 51. Rxf5 Rxc3 52. Rxd5 Kh7 53. Rxa5 Kxh6 54. Rc5
+Rc2 55. Kh2 $16) (38... Qd8 {is another plausible move. White's best reply is}
+39. Nh5+ $1 {, e.g.} Kh7 40. Nf4 Qe8 41. h5 $1 gxh5 42. Nxh5 Kh8 43. Nf6 Rg7
+44. Qh3 Qg6 45. Bxf5 exf5 46. Rxf5 Rgf7 47. Kh2 $1 {
+avoiding Qb1+ when the white rook is removed from f5} Qg7 (47... Kg7 $2 48. Rf4
+$1) 48. Rh5 {and Black has no better option than playing} Rxf6 49. exf6 Rxf6
+50. Rxd5 {The endgame is in favour of White. Nf6 was stronger than a rook.})
+39. Qxg6+ $1 {A surprising queen sacrifice forcing checkmate.} Kh8 (39... Kxg6
+$2 40. Rg3#) 40. Bxf5 {
+and Black resigned. There is no defence against Qxh6+, e.g.} exf5 (40... Rxf6 {
+is of no use because of} 41. Qh7#) 41. Qxh6+ Rh7 42. Qxh7# 1-0
+
+[Event "USA-06 Congress Grand Tournament"]
+[Site "New York,NY"]
+[Date "1889.??.??"]
+[Round "26"]
+[White "Mason, James"]
+[Black "Chigorin, Michail"]
+[Result "1-0"]
+[ECO "D00"]
+[Annotator "Platz"]
+[PlyCount "27"]
+[EventDate "1889.03.25"]
+[EventType "tourn"]
+[EventRounds "38"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. d4 d5 2. Bf4 c5 3. Bxb8 ({Nowadays} 3. e3 {is most frequently played.}) 3...
+Rxb8 4. dxc5 {The great German chess teacher Dr. Tarrasch certainly would have
+critisized White's play. Exchanging a developed bishop for an inactive knight
+and giving up the centre - can this be good? But we know that it is not the
+single move itself, but the plan behind it which counts. If you have a good
+one, you can play almost everything.} Qa5+ ({Beware, a trap!} 4... e6 $1 5. Qd4
+(5. e3 {is better}) 5... Qc7 6. b4 $2 b6 $1 7. cxb6 Rxb6 8. c3 $2 (8. a3 $1)
+8... Rxb4 $1 9. cxb4 $2 Qc1+ 10. Qd1 Bxb4+ 11. Nd2 Bxd2#) 5. Nc3 e6 (5... Qxc5
+$2 6. Qxd5) 6. e4 ({Rb8 is undefended. This is why Black must be careful as we
+can learn from some of the following variations:} 6. a3 $5 Qxc5 (6... Bxc5 $2
+7. b4) 7. e4 d4 8. Nb5 e5 9. c3 $1 Bd7 (9... a6 $2 10. cxd4 Qb6 11. Qh5 $1 axb5
+$2 12. Qxe5+ Kd8 13. Qxb8 Bd6 14. Qa8 $18) (9... dxc3 10. Rc1 $1 Bg4 11. Nf3 $1
+(11. Qxg4 $2 cxb2 $1) 11... Bxf3 12. gxf3 (12. Qxf3 $2 cxb2 $1) 12... Rd8 13.
+Bd3 Qb6 14. Rxc3 Be7 15. Nc7+ Kf8 16. Nd5 Qxb2 17. Rb3 Qd4 ({after} 17... Qa2
+$2 18. Nc3 {the black queen is trapped}) 18. Rxb7 $14) 10. cxd4 Qb6 11. Qh5 ({
+perhaps even} 11. Qb3 $5 a6 12. Bc4 Bxb5 13. Bxf7+ {is playable}) 11... Bxb5 $2
+(11... Rc8) 12. Qxe5+ {winning Rb8 and one of Black's bishops.}) 6... Bxc5 (
+6... dxe4 $2 {leads to a quick defeat after} 7. Bb5+ Ke7 8. Qd6+) 7. exd5 Nf6 (
+7... Ba3 $5 8. Bb5+ Kf8 9. Qc1 $13) 8. Bb5+ Ke7 (8... Bd7 $2 9. Bxd7+ Nxd7 10.
+dxe6 fxe6 11. Qh5+ g6 12. Qe2 $16) 9. Nf3 (9. dxe6 {is not so good} Bb4 $1 10.
+Bd3 Bxc3+ 11. bxc3 Qxc3+ 12. Kf1 Bxe6 13. Ne2 Qc5 $15 {
+Rh1 is locked in, while Rh8 can easily be brought into play.}) 9... Nxd5 (9...
+Bb4 $5 10. d6+ $1 Bxd6 11. O-O Rd8 12. Qe2 $11) ({A tempting move is} 9... Ne4
+{, but after} 10. Qd3 $1 {neither N nor B can advantageously take the pawn:}
+Nxf2 $2 (10... Bxf2+ $2 11. Kf1 $1 Nxc3 12. d6+ Kf8 13. d7 $1 $16) (10... Nxc3
+$1 11. bxc3 Rd8 12. Bc4 exd5 13. Bb3 Kf8 14. O-O $1 $11 (14. Qxh7 $2 Qxc3+))
+11. d6+ $1 Kf8 (11... Kf6 $2 12. Qd2 $1 $18) 12. Qc4 Nxh1 (12... Qb6 13. Rf1
+$18) 13. Qxc5 {threatening d7+} Kg8 14. O-O-O $18) 10. Qd2 $1 Nxc3 $2 {
+This move looks good at first sight, but in reality it is a blunder. Chigorin
+either overlooked White's next move or miscalculated the resulting variations.}
+(10... Bb4 {could have been played, e.g.} 11. Qg5+ ({or} 11. Nxd5+ exd5 12. c3
+Qxb5 $1 13. Qg5+ Kf8 14. Qd8+ Qe8+ 15. Qxe8+ Kxe8 16. cxb4 $11) 11... Kf8 12.
+O-O $1 Bxc3 ({after} 12... Nxc3 13. bxc3 Bxc3 14. Qc5+ Kg8 15. Qe7 $1 h6 16.
+Rab1 {White's positional advantage is worth more than a pawn} Qxa2 $2 {
+must not be played on account of} 17. Qc7 $1 {attacking both Rc7 and Bc3}) 13.
+bxc3 f6 (13... Qxb5 $2 14. Qd8+ Qe8 15. Qd6+ {
+and again the undefended Rb8 gets lost}) 14. Qg3 (14. Qh4 $5 {intending} Qxb5
+15. c4 {might be preferable}) 14... Qc7 $1 {Black's development is still
+lagging behind, but he has a better pawn structure.}) 11. Qg5+ $1 f6 $2 (11...
+Kd6 $2 12. Qe5+ $1 Ke7 13. Qxc5+ Kd8 14. Qd6+ Bd7 15. Qxd7#) ({
+Maybe Chigorin had calculated} 11... Kf8 12. Qxc5+ Kg8 13. bxc3 a6 {
+and noticed too late that White can save his Bb5 by playing} 14. Qe5 {
+now Qe5 is protected by Nf3, Rb8 attacked and Bb5 no longer pinned. But} axb5 {
+does not help either because of} 15. Qxb8 Qxc3+ 16. Kd1 {
+and the black queen has only one more check, but this one loses right off}
+Qxa1+ $2 17. Kd2 $1 Qxh1 18. Qxc8#) 12. Qxc5+ ({This move is better than} 12.
+Qxg7+) 12... Kf7 (12... Kd8 13. Qd6+ Bd7 14. Qxd7#) 13. Be8+ $1 {
+and Chigorin resigned, because after} Rxe8 14. Qxa5 {his queen is lost.} 1-0
+
+[Event "Vienna"]
+[Site "?"]
+[Date "1882.05.30"]
+[Round "16"]
+[White "Mason, James"]
+[Black "Weiss, Miksa"]
+[Result "1-0"]
+[ECO "D00"]
+[PlyCount "69"]
+[EventDate "1882.05.10"]
+[EventType "tourn"]
+[EventRounds "34"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2001.11.25"]
+
+1. d4 d5 2. Bf4 Nf6 3. Nc3 a6 4. e3 e6 5. Bd3 c5 6. dxc5 Bxc5 7. Nge2 Nc6 8.
+Bg3 O-O 9. O-O Nh5 10. e4 Nxg3 11. Nxg3 d4 12. Nb1 Qh4 13. f4 b5 14. Nd2 Bb7
+15. Ne2 Rad8 16. Rf3 Nb4 17. Rh3 Qe7 18. Ng3 g6 19. Nf3 f6 20. a3 Nxd3 21. cxd3
+e5 22. f5 Rf7 23. fxg6 hxg6 24. Rh6 Rg7 25. Nh4 Qe8 26. Rc1 Bd6 27. Qg4 Bc8 28.
+Rxc8 Rxc8 29. Nxg6 Rc1+ 30. Kf2 Kf7 31. Nf5 Bf8 32. Qh5 Ke6 33. Nxf8+ Qxf8 34.
+Nxg7+ Qxg7 35. Qf5+ 1-0
+
+[Event "Vienna"]
+[Site "?"]
+[Date "1882.06.01"]
+[Round "18"]
+[White "Mason, James"]
+[Black "Wittek, Alexander"]
+[Result "1-0"]
+[ECO "D02"]
+[PlyCount "87"]
+[EventDate "1882.05.10"]
+[EventType "tourn"]
+[EventRounds "34"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2001.11.25"]
+
+1. d4 d5 2. Bf4 e6 3. e3 Nf6 4. Nf3 Be7 5. Bd3 b6 6. Nbd2 Bb7 7. Ne5 a6 8. c3
+Nbd7 9. O-O O-O 10. Qf3 Re8 11. Qh3 Nf8 12. Ndf3 Ne4 13. Qh5 Ng6 14. Rad1 Rf8
+15. Nd2 Qe8 16. f3 Nxd2 17. Rxd2 f5 18. Qh3 Bd6 19. Nxg6 hxg6 20. Bxd6 cxd6 21.
+f4 Kf7 22. g4 Rh8 23. Qg3 Qe7 24. Rg2 Qf6 25. Kh1 Rh7 26. g5 Qe7 27. h4 Ke8 28.
+Rh2 Kd7 29. Be2 Rah8 30. Kg2 Bc6 31. Rfh1 Kc7 32. Qf2 Qd7 33. Bf3 Qc8 34. Kg3
+Be8 35. Qe2 Kd8 36. Rc1 Bc6 37. c4 Bb7 38. Qg2 Kd7 39. Rc3 Qa8 40. Rh1 Rb8 41.
+cxd5 Bxd5 42. Rhc1 Ke8 43. Bxd5 exd5 44. Rc6 1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1883.??.??"]
+[Round "?"]
+[White "Mason, James"]
+[Black "Chigorin, Michail"]
+[Result "1-0"]
+[ECO "D02"]
+[PlyCount "123"]
+[EventDate "1883.04.26"]
+[EventType "tourn"]
+[EventRounds "26"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. d4 e6 2. Bf4 d5 3. e3 c5 4. Nf3 Nc6 5. Be2 Nf6 6. O-O Be7 7. dxc5 O-O 8.
+Nbd2 Bxc5 9. Nb3 Bb6 10. Nfd4 Ne7 11. Bd3 Ne8 12. Qh5 f5 13. Qe2 Ng6 14. Nf3
+Nxf4 15. exf4 Qf6 16. Ne5 Nd6 17. c3 Ne4 18. Nd4 Qh6 19. g3 Bc7 20. f3 Nc5 21.
+Bc2 b6 22. Rf2 Ba6 23. Qe3 Rfe8 24. Re1 Bxe5 25. Qxe5 Nd7 26. Qd6 Nf8 27. Qc6
+Rec8 28. Qa4 Bb7 29. Bd3 Rc7 30. Rfe2 Bc8 31. Ba6 Qh5 32. Bxc8 Rcxc8 33. Qc2
+Re8 34. Qd3 Qf7 35. Re5 Rac8 36. Qe2 g6 37. Kf2 Rc4 38. Rxd5 Ra4 39. a3 exd5
+40. Qxe8 Qxe8 41. Rxe8 Kf7 42. Rd8 Ra5 43. Ke3 Rc5 44. Rxf8+ Kxf8 45. Ne6+ Ke7
+46. Nxc5 bxc5 47. b4 Kd6 48. bxc5+ Kxc5 49. Kd3 h6 50. g4 h5 51. h3 h4 52. a4
+a6 53. a5 Kb5 54. Kd4 Kxa5 55. Kc5 Ka4 56. Kxd5 Kb5 57. c4+ Kb6 58. Kd6 Kb7 59.
+c5 Kc8 60. Kc6 a5 61. Kb5 Kc7 62. Kxa5 1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1883.??.??"]
+[Round "19"]
+[White "Mason, James"]
+[Black "Englisch, Berthold"]
+[Result "1-0"]
+[ECO "D02"]
+[PlyCount "105"]
+[EventDate "1883.04.26"]
+[EventType "tourn"]
+[EventRounds "26"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. d4 d5 2. Bf4 e6 3. Nf3 c5 4. e3 Nc6 5. c3 Nf6 6. Nbd2 Bd6 7. dxc5 Bxc5 8.
+Bd3 Bd6 9. Bg5 Qb6 10. Qb3 Qxb3 11. axb3 Bd7 12. b4 O-O 13. O-O a6 14. Nb3 Rfe8
+15. Rfd1 Be7 16. Bxf6 gxf6 17. e4 dxe4 18. Bxe4 Red8 19. b5 f5 20. Bxc6 bxc6
+21. Ne5 Be8 22. Rxd8 Bxd8 23. bxa6 Bb6 24. Nd2 f6 25. Nec4 Ba7 26. Nd6 Bd7 27.
+b4 Kf8 28. Nb3 Ke7 29. Nb7 Bc8 30. N7c5 Kd6 31. Kf1 Kc7 32. Ke2 e5 33. f3 Bxc5
+34. Nxc5 Kb6 35. Kd3 Ra7 36. g3 Rg7 37. c4 Ra7 38. Ra5 Bxa6 39. Rxa6+ Rxa6 40.
+Nxa6 Kxa6 41. g4 f4 42. Ke4 h6 43. h4 Kb7 44. g5 fxg5 45. hxg5 hxg5 46. Kxe5 g4
+47. Kxf4 gxf3 48. Kxf3 Kc7 49. Ke4 Kd6 50. Kf5 Ke7 51. Ke5 Kd7 52. Kf6 Kd6 53.
+c5+ 1-0
+

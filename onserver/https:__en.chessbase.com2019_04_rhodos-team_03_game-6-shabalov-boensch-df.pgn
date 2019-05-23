@@ -1,0 +1,70 @@
+[Event "50+ World Senior Team Championship"]
+[Site "?"]
+[Date "2019.04.16"]
+[Round "2.1"]
+[White "Shabalov, Alexander"]
+[Black "Boensch, Uwe"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2510"]
+[BlackElo "2525"]
+[Annotator "Fernandez,D"]
+[PlyCount "73"]
+[EventDate "2019.??.??"]
+[SourceVersionDate "2019.03.16"]
+
+{[%evp 0,73,19,9,26,0,-9,1,1,-3,24,29,12,3,65,44,50,30,53,44,57,57,40,46,40,42,
+67,59,76,63,84,21,43,63,63,39,84,41,15,15,27,-16,22,16,45,6,29,27,27,16,43,68,
+17,17,42,37,37,49,46,53,53,40,47,49,170,163,170,86,92,92,92,136,164,190,190,
+203]} 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5
+8. cxd5 Nxd5 9. Nxd5 exd5 10. Bd3 {Caruana decides that Wesley's opening
+choice against Anand was the right one, and deviates from that round 6 game
+only now.} Bb4+ 11. Nd2 (11. Ke2 $5 {deserves attention, and something tells
+me this would be Carlsen's choice.}) 11... Nc6 ({Anand does not feel like
+seeing where Caruana has improved upon his previous attempt to topple this
+system.} 11... d4 12. e4 Na6 13. O-O Nc5 14. Nb3 Be6 15. Nxc5 Bxc5 $14 {
+Caruana,F-Nakamura,H Saint Louis 2018; White was a little better, though he
+eventually lost.}) 12. O-O Be7 13. a3 ({Likewise, Caruana does not follow
+someone else's previous choice against Anand:} 13. Rc1 Qb6 14. Nb3 g6 15. Qd2
+Be6 $11 {Caruana,F-Nakamura,H Saint Louis 2018; and the pieces were swiftly
+vacuumed off.}) 13... Bf6 14. Rc1 g6 15. b4 a5 (15... Qe7 16. Nf3 (16. e4 Be6
+$1 {Black is solid as a rock.}) (16. Bb5 Ne5 17. Nb3 Bg4 18. f3 Be6 19. Nd4
+Rac8 20. Bxe5 Bxe5 21. Qd2 Rxc1 22. Rxc1 Rc8 23. Rxc8+ Bxc8 24. Be2 Qf6 25. f4
+Bxd4 26. Qxd4 Qxd4 27. exd4 f6 28. Bf3 Be6 29. f5 gxf5 30. Bd1 Kf8 31. Kf2 Bf7
+32. Kg3 Kg7 33. Kf4 Be6 34. Bc2 Kg6 35. g4 Bd7 36. h4 h6 37. Bd3 Kf7 38. Bxf5
+Bb5 39. Bc8 b6 40. Bf5 Ba4 41. Bd3 a5 42. bxa5 bxa5 43. Ba6 Bc2 44. Bb7 Ke6 45.
+Bc8+ Kf7 46. Bd7 Bb3 47. Bf5 Bd1 48. Bh7 Bb3 49. Bb1 Ke6 50. Bf5+ Kf7 51. Bd3
+Ke6 52. Bb5 Kf7 53. g5 fxg5+ 54. hxg5 hxg5+ 55. Kxg5 Bc2 56. Be2 Ke7 57. Bf3
+Ke6 58. Bg4+ Ke7 59. Bf5 Ba4 60. Bh7 Kf7 61. Kf4 Kf6 62. Bg8 Bb3 63. Bh7 {
+1/2-1/2 (63) Bindrich,F (2598)-Zatonskih,A (2424) Douglas 2017}) 16... Rd8 {
+Maybe this is not most accurate, for instance if Black has no idea of playing .
+..d4 in the near future.} (16... a5 $5 17. b5 Nd8 $132) 17. h3 (17. Qd2 Bg4 18.
+b5 Ne5 19. Nxe5 Bxe5 20. Bxe5 Qxe5 21. h3 Bd7 $14 {White should have a little
+something here, for instance with Be2-f3.}) 17... Ne5 18. Nxe5 Bxe5 19. Qd2 a5
+{A reasonable attempt to liquidate as many pawns as possible, however maybe
+White achieved some advantage after this.} (19... Bxf4 20. exf4 Bd7 21. Rfe1
+Qd6 $11) 20. bxa5 Bxf4 21. exf4 Qxa3 22. Ra1 Qd6 23. Rfb1 $1 Qf6 24. Ra2 Rd6
+25. Rc2 Rc6 26. Rxc6 $2 (26. Rb5 $1 $14 {This move gave White a little
+something to play with. Consider the line:} Be6 (26... Qd4 27. Qe3 Qxe3 28.
+fxe3 Be6 29. g4 $14) 27. Rxb7 Rxc2 28. Bxc2 Qa1+ 29. Kh2 {and now it is
+absolutely critical that Black can't take on a5.} Qa2 (29... Qxa5 $6 30. Rb8+
+Kg7 31. Qd4+ f6 32. Rb7+ Bf7 33. g4 $3 $16) 30. g4 Rc8 31. f5 Bxf5 $1 (31...
+Rxc2 32. f6 $18) (31... Qxc2 32. Qxc2 Rxc2 33. fxe6 fxe6 34. a6 $18) 32. gxf5
+Qxc2 33. Qe3 Qa2 $8 34. Qf3 {White has very real, continuing threats against
+Black's king, and the a-pawn isn't getting any less far advanced.}) 26... bxc6
+27. Qb4 Qd8 $1 {This move neutralises all White's ideas because of the reach
+of the black queen from this square.} 28. Ra1 Ba6 $1 {Now commentary isn't
+really required.} 29. Bxa6 Rxa6 30. f5 d4 31. fxg6 hxg6 32. Rd1 Rxa5 33. Rxd4
+Rd5 34. Re4 Rd1+ 35. Kh2 Qd6+ 36. Qxd6 Rxd6 37. Re7 Rd2 38. Rc7 Rxf2 39. Rxc6
+Ra2 {1/2-1/2 (39) Caruana,F (2822)-Anand,V (2768) Saint Louis 2018 CBM 186 
+[Fernandez,D]}) 16. b5 Ne5 17. Be2 a4 (17... Be6 18. Nb3 Qe7 19. a4 Rfd8 20.
+Nd4 Nc4 21. b6 Be5 22. Rxc4 Bxf4 23. Nxe6 dxc4 24. Nxd8 Rxd8 25. Qc2 Bd6 26.
+Bxc4 Bc5 27. Rb1 Bb4 28. Rd1 Rxd1+ 29. Qxd1 Kg7 30. g3 Qc5 31. Qb3 f6 32. Qd3
+Qd6 33. Qe4 Qxb6 34. Bd5 f5 35. Qe5+ Qf6 36. Qc7+ Qe7 37. Qb6 Qd7 38. Qxb7 Qxb7
+39. Bxb7 Kf6 40. f4 h6 41. Kf2 {1/2-1/2 (41) Kalinitschew,S (2426)-Meier,G 
+(2644) Apolda 2017}) 18. Nb1 Be6 19. Nc3 Rc8 20. Qxa4 Nc4 21. Ne4 Be7 22. Bxc4
+Rxc4 23. Rxc4 dxc4 24. Be5 $1 f6 (24... Qa8 25. Qd1) 25. Rd1 (25. Bd4 Qa8 26.
+Qd1 Qxa3 27. Qf3 Qa8 28. Ra1 Qc8 29. Nc3 $16) 25... Qa8 26. Qxa8 Rxa8 27. Bxf6
+Bxf6 28. Nxf6+ Kg7 29. Ne4 Rxa3 30. h4 Bf5 (30... Rb3 $1 31. Nc5 Bf5 32. Rc1 b6
+33. Na4 Rb4 34. Nxb6 Rxb5 35. Na4 Rb4 36. Nc3 $14) 31. Nd6 Bd3 32. Nxb7 c3 33.
+b6 c2 34. Rc1 Rc3 35. f3 Rc6 36. Kf2 Rxb6 37. Nc5 1-0

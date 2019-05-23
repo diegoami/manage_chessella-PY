@@ -1,0 +1,45 @@
+[Event "World Senior chT-65 2019"]
+[Site "Rhodes"]
+[Date "2019.04.19"]
+[Round "4"]
+[White "Buchal, Stephan"]
+[Black "Pushkov, Nikolai"]
+[Result "1-0"]
+[WhiteElo "2283"]
+[BlackElo "2295"]
+[Annotator "Thorsten Cmiel"]
+[SetUp "1"]
+[FEN "8/3k4/8/1K1P1p1p/4b1p1/4P1P1/1N5P/8 b - - 0 50"]
+[PlyCount "58"]
+[EventDate "2019.??.??"]
+
+{At this point of the match against tournament favourite Russia the Russians
+were leading 2-1. Stephan Buchal, who was captain of his team, had already
+missed two opportunities to get a clear advantage and now had to try to win an
+ending that is objectivlely rather equal. Of course, the white knight is more
+mobile and can target the pawns on f5 and h5 but Black has a lot of defensive
+ressources.} 50... Bxd5 51. Kc5 Bf7 52. Nd3 Ke6 53. Kd4 Kf6 54. Nf4 Kg5 55. Ke5
+{White threatens to give a check on e6 to bring his knight to d4 afterwards -
+after which Black would lose the pawn of f5.} Ba2 ({Most pawn endings are won
+for White.} 55... Bg8 56. Ne6+ Bxe6 57. Kxe6 Kg6 58. Kd5 Kf7 59. Ke5 Kg6 60.
+Ke6 Kg5 61. Kf7) ({But it might have been better to exchange the h-pawns to
+give Black's king a square on h5, e.g.} 55... h4 56. Ne6+ (56. gxh4+ Kxh4 57.
+Kxf5 {Black lost a pawn but he often can sacrifice his bishop against White's
+e-pawn, e.g.} Bc4 58. e4 Bb3 59. e5 Bc4 60. e6 Bxe6+ 61. Kxe6 g3 62. h3 g2)
+56... Bxe6 57. Kxe6 hxg3 58. hxg3 Kg6 59. Kd5 Kh5 $11) 56. Ng2 Bb1 57. Nh4 Bc2
+58. Ke6 Bb3+ 59. Ke7 Bd5 60. Kd6 Ba2 61. Ke7 Bd5 62. Kd6 Ba2 63. Ng2 Bb3 64.
+Ke5 Ba2 65. Nf4 Bb3 $2 (65... Bb1 {kept the balance.}) 66. Ne2 $2 ({Returning
+the compliment. Better was} 66. Ne6+ Kg6 67. Nd4 {and White wins the pawn on
+f5 because Black's bishop cannot go to c2.}) 66... Bc2 67. Nd4 Be4 $2 (67...
+Bb1 $11) 68. Ke6 ({Better is} 68. Ne6+ Kg6 69. Nf4+ Kg5 (69... Kf7 70. Nxh5)
+70. Ke6 {with the idea to bring White's king to g7.} Bc2 71. Kf7 Bb3+ 72. Ne6+
+Kh6 73. Kf6) 68... Bd3 $2 (68... h4 $5) 69. Kf7 $1 Bc4+ 70. Kg7 (70. Ne6+ {
+is the same as above:} Kh6 71. Kf6) 70... Bd5 $6 {[#]} (70... h4 {offered
+better chances to save the game.} 71. Nc6 hxg3 72. hxg3 Bd5) 71. Ne2 (71. Nb5
+$1 {The knight should move forward to harass Black with ideas to go to f7 and
+to checkmate Black's king.}) 71... h4 72. Nf4 hxg3 73. hxg3 Bc4 74. Ng6 f4 (
+74... Ba2 75. Ne5 f4 76. exf4+ Kf5 77. Kh6 Bd5 78. Kh5 Bb3 79. Kh4 Bd1 80. Nf7)
+75. exf4+ Kf5 {[#]} 76. Kh6 (76. Nh4+ $1 Ke4 77. f5 Ke3 78. f6 Kf2 79. Nf5 Kf3
+80. f7 Bxf7 81. Kxf7 Ke4 82. Kg6) 76... Ke4 77. Ne5 (77. Kg5 Kf3 78. Ne5+ Kxg3
+79. Nxc4) 77... Be6 78. Kg5 Bc8 79. Kh4 1-0
+

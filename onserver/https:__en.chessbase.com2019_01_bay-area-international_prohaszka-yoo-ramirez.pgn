@@ -1,0 +1,57 @@
+[Event "Bay Area International"]
+[White "Prohaszka, Peter"]
+[Black "Yoo, Christopher"]
+[Site ""]
+[Round "4"]
+[Annotator "Souleidis"]
+[Result "0-1"]
+[Date "2019.01.03"]
+[WhiteElo "2613"]
+[BlackElo "2388"]
+[PlyCount "100"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 0-0 5. Bg2 d5 6. c4 Nc6 7. cxd5
+Nxd5 8. Bxg7 Kxg7 9. 0-0 (9. d4 $1 {with occupying the centre is more
+logical and has occurred in some games.} )e5 $1 {Now grabs space in the
+centre and solves his problems.} 10. d4 exd4 (10... e4 $5 )11. Nxd4 Qf6
+$1 12. Nxc6 (12. Bxd5 Nxd4 $1 $17 )(12. Nc2 Rd8 {is very nice for
+Black.} )Qxa1 13. Qxd5 bxc6 14. Qxc6 Bf5 15. Nc3 Qb2 {Black has an
+exchange more and it's difficult to recommend a plan or even move for
+White.} 16. h3 h5 17. Nd5 Rae8 18. Nf4 Qe5 19. Rc1 Re7 (19... h4 $1 $17
+)20. e3 (20. Rc5 $1 Qd6 21. Nxh5+ gxh5 22. Rxf5 Qxc6 23. Bxc6 Rxe2 {is
+only slightly better for Black.} )Rd8 21. Rc5 Qb2 22. Kh2 Rd6 {According
+to the engines, Black is completely winning here, but there's more
+excitement to come.} 23. Qa8 Qxf2 24. Rxf5 $1 {With the courage of
+despair.} gxf5 25. Nxh5+ Kg6 26. Qh8 f6 $2 (26... Re4 $1 {with the idea
+to return the exchange, wins. A perpetual check is nowhere in sight.}
+27. Nf4+ (27. Qg8+ $2 Kxh5 28. Qxf7+ Kh6 29. Qf8+ Kg6 30. Qg8+ Kf6 $19
+)Rxf4 $1 28. exf4 Qe2 $19 )27. Nf4+ Kf7 28. Qh5+ $2 (28. Nd5 $1 {would have saved a half point.} Rxd5 (28... Re5 29. Qh7+ Kf8 30. Qh8+ Kf7
+31. Qh7+ $11 Ke8 $4 32. Qg8+ Kd7 33. Qf7+ Kd8 34. Qxc7+ Ke8 35. Qxd6 $18
+)29. Qh7+ Ke6 30. Qg8+ Kd7 31. Qxd5+ $11 )Kg8 29. Qg6+ Kf8 30. Qxf5 Ke8
+31. Qg6+ $2 (31. h4 Rxe3 32. Qc8+ Rd8 33. Qg4 {is
+surprisingly still not clear.} )Kd8 {The black King
+runs away and finds safety.} 32. e4 $2 (32. Nd5 $1 )c6 $1 $19 {Now the danger has passed.} 33. h4 Qxa2 34. Qg8+ Kc7 35. Qc4 Kd8 36. Qb4 Kc7 37.
+Qc4 Kc8 38. Qb4 Qd2 39. Qc5 Qd4 40. Qf5+ Kb7 41. Ng6 Rg7 42. h5 Qe3 43.
+b4 Qg5 44. Qh3 Rh7 45. Nf4 Rd1 46. Bf3 Rd2+ 47. Bg2 Rb2 48. Kg1 Rxb4 49.
+Bf3 Rb2 50. Kh1 Qc5 0-1
+
+[Event "Bay Area International"]
+[White "Yoo, Christopher Woojin"]
+[Black "Ramirez, Alejandro"]
+[Site ""]
+[Round "5"]
+[Annotator "Souleidis"]
+[Result "1/2-1/2"]
+[Date "2019.01.04"]
+[WhiteElo "2388"]
+[BlackElo "2567"]
+[PlyCount "54"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. c3 g6 6. 0-0 Bg7 7. Re1 0-0
+8. h3 Re8 9. Nbd2 a6 10. Ba4 b5 11. Bb3 (11. Bc2 $142 $1 )Na5 12. Bc2 c5
+13. d4 $6 {White has problems with his e4 pawn.} (13. Nf1 $11
+)exd4 14. cxd4 cxd4 15. Nxd4 Qb6 (15... Qc7 $1 {inhibits White's development.} 16. Re2 $5 (16. b3 $4 Qc3 $19 )(16. N4b3 Nxb3 17. Bxb3 Bb7
+$17 )(16. N2f3 Bb7 17. Bf4 Nxe4 $17 )Bb7 17. Qe1 Nc4 $17 )16. N4b3 Bb7
+17. Nxa5 Qxa5 18. a4 Rac8 (18... Qb4 $15 )19. Bd3 Qb4 20. axb5 axb5 21.
+Qb3 $1 {Whit is out of the woods after a queen trade and can hold the balance.} Qxb3 22. Nxb3 Nxe4 23. Bxb5 Re5 24.
+Be2 Nc5 25. Nxc5 Rexc5 26. Be3 Rc2 27. Rad1 Rxb2 1/2-1/2

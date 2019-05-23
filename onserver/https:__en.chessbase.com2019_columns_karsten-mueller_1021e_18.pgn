@@ -1,0 +1,31 @@
+[Event "Gibraltar Masters 2019"]
+[Site "Caleta"]
+[Date "2019.01.23"]
+[Round "2"]
+[White "Krysa, Leandro"]
+[Black "Saric, Ivan"]
+[Result "0-1"]
+[ECO "D37"]
+[WhiteElo "2499"]
+[BlackElo "2690"]
+[Annotator "Karsten Mueller"]
+[SetUp "1"]
+[FEN "4N3/5Kp1/8/5k2/5P1p/3p3P/6P1/8 w - - 0 54"]
+[PlyCount "10"]
+[EventDate "2019.??.??"]
+[SourceTitle "1021"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+54. Nc7 {Knights can be very agile and strong but against far advanced pawns
+they are sometimes surprisingly helpless.} {[%tqu "En","Black to move and win",
+"","","f5f4","",2,"d3d2","",0,"f5e4","",0,"De","Schwarz zieht und gewinnt","",
+"","f5f4","",2,"d3d2","",0,"f5e4","",0]} Kxf4 $1 {The direct way leads to
+success.} (54... d2 $2 55. Nd5 Ke4 56. Nc3+ Kxf4 57. Kxg7 Kg3 58. Ne4+ Kxg2 59.
+Nxd2 Kxh3 60. Nf3 $11) (54... Ke4 $2 55. Nb5 d2 56. Nc3+ Kxf4 57. Kxg7 Kg3 58.
+Ne4+ Kxg2 59. Nxd2 Kxh3 60. Nf3 $11) 55. Kg6 (55. Nd5+ Kg3 56. Kg6 d2 57. Ne3
+Kf2 58. Nd1+ Kxg2 59. Kg5 Kxh3 60. Nc3 Kg3 61. Ne4+ Kg2 62. Nxd2 h3 $19 {
+[%csl Gd2,Gg2] The king dominates the knight.}) 55... d2 56. Nd5+ Kg3 57. Ne3 (
+57. Nc3 Kxg2 58. Kg5 Kxh3 59. Ne4 Kg2 $1 60. Nxd2 h3 $19) 57... Kf2 58. Ng4+
+Ke2 {[%csl Ge2,Gg4] And the king dominates the knight again.} 0-1
+

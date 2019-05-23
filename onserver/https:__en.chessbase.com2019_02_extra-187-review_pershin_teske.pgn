@@ -1,0 +1,49 @@
+[Event "Wch Blitz"]
+[Site "St Petersburg"]
+[Date "2018.12.30"]
+[Round "16"]
+[White "Pershin, Denis"]
+[Black "Teske, Henrik"]
+[Result "0-1"]
+[ECO "B09"]
+[WhiteElo "2400"]
+[BlackElo "2483"]
+[Annotator "Nastasio,Davide"]
+[PlyCount "98"]
+[EventDate "2018.12.29"]
+[EventType "swiss (blitz)"]
+[EventRounds "21"]
+[EventCountry "RUS"]
+[SourceTitle "CBM 187 Extra"]
+[Source "ChessBase"]
+[SourceDate "2018.11.04"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.11.04"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nc3 g6 3. e4 d6 4. f4 Bg7 5. Nf3 c5 6. e5 Nfd7 7. Be3 cxd4 8. Bxd4
+dxe5 9. fxe5 Nc6 10. e6 Nxd4 11. exf7+ Kxf7 12. Nxd4 Ne5 13. Qd2 $2 {We can
+immediately see Black playing Qxd4 and then a discovered check with Nf3.} (13.
+Be2 {In the beginning I don't use engines to analyze a game, I try to find the
+moment where things went wrong. I feel this was probably the right move,
+because it could bring the Rh1 into play immediately, while developing and
+controlling better F3.} Qxd4 {Now this move doesn't work.} 14. Rf1+ Kg8 15.
+Qxd4 Nf3+ 16. Rxf3 Bxd4 17. O-O-O $16 {Black has the Rh8 out of the game, and
+the Ra8 blocked by the Bc8.}) 13... Qxd4 $1 14. Qxd4 Nf3+ {This game proves we
+need to do our tactics every day!} 15. gxf3 Bxd4 16. Bc4+ Kg7 17. O-O-O Be3+ $6
+{Very interesting, Black prefers to keep the bishop pair, than damage White's
+pawn structure exchanging on C3.} (17... Bxc3 {With the knowledge from having
+watched the entire game, also if Black won, I still think this move was more
+appropriate to the needs of the position.} 18. bxc3 Bf5 19. Rhe1 Kf6 $15) 18.
+Kb1 Bf5 19. Rde1 Bc5 20. Ne4 Rac8 {Now Black accept the idea of losing the
+bishop pair, but tries to gain activity for his rooks on an open file. The Ra8
+was out of the game for 20 moves, so it makes sense.} 21. Nxc5 Rxc5 22. Rxe7+
+Kf6 23. Rf7+ Kg5 {Steinitz: the king is a powerful piece. Repeat this mantra
+20 times a day!} 24. Bd3 Bxd3 25. cxd3 Rf5 26. Rxb7 a5 27. Rd1 Kf4 28. d4 Rd5
+29. Rb3 Re8 30. Rc3 Red8 31. Rcd3 g5 32. Kc2 h5 33. Kc3 Rc8+ 34. Kb3 Rb5+ 35.
+Ka4 Rxb2 36. d5 Rxa2+ 37. Kb5 Rb2+ 38. Ka4 Rcb8 39. d6 Rxh2 40. d7 Ra2+ 41. Ra3
+Rxa3+ 42. Kxa3 Rd8 43. Rd3 h4 44. Ka4 h3 45. Kb5 h2 46. Rd1 Rxd7 {typical
+tactic in the endgame.} 47. Rxd7 h1=Q 48. Rf7+ Kg3 49. Kxa5 Qxf3 {Now that the
+game is over, one should return to the beginning and analyze it with an engine,
+to see what was missed, and if one's own analysis are correct.} 0-1
+

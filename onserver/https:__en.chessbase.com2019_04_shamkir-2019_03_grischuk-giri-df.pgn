@@ -1,0 +1,46 @@
+[Event "Shamkir Chess"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "3"]
+[White "Grischuk, A.."]
+[Black "Giri, A.."]
+[Result "1/2-1/2"]
+[ECO "D38"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "43"]
+[EventDate "2019.04.03"]
+
+{[%evp 0,43,19,25,23,8,0,-4,6,6,20,-4,11,17,27,33,31,10,16,3,29,-35,-9,-12,-18,
+-19,3,11,1,1,13,10,2,-9,26,28,24,14,13,14,14,24,19,24,19,19]} 1. d4 Nf6 2. c4
+e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 (7. Qb3 {has always
+seemed a better way to try for an advantage.} c5 8. cxd5 exd5 9. e3 O-O 10.
+dxc5 Bxc3+ (10... Nc6 11. Bb5 d4 12. Bxc6 dxc3 13. Qxb4 cxb2 14. Rb1 a5 15. Qd4
+$14) 11. Qxc3 Qxc3+ 12. bxc3 Be6 13. Nd4 Rc8 14. Kd2 Nd7 15. Bd3 Nxc5 16. f3 {
+This is equal, but White has a few ideas.}) 7... O-O 8. a3 Bxc3+ 9. bxc3 c5 10.
+g4 $5 {This seems to be a novelty, the product of Grischuk's legendary
+creativity. In view of the slightly favourable endings that may arise, this
+could easily get tried again, and probably Black will find a reaction that
+avoids them, such as ...Qd8.} cxd4 (10... Qd8 $5 11. h4 (11. Rg1 Nc6 12. g5 h5
+$15) 11... Qa5 12. Qd2 dxc4 {was a more 'Gruenfeldian' way to try and make
+White look over-extended. However, if you play in this way you might get mated.
+} 13. g5 (13. Bxc4 b6 14. g5 Bb7 15. Be2 cxd4 16. gxh6 Qxc3 17. Rc1 Qxd2+ 18.
+Kxd2 Nd7 19. Rc7 Bxf3 20. Bxf3 Rad8 $132) 13... cxd4 14. cxd4 c3 15. Qd3 h5 16.
+Rc1 (16. Be2 b6 $15) 16... c2+ 17. Qd2 Qxa3 18. Rxc2 Nc6 $44 {Black has decent
+chances to consolidate.}) 11. cxd4 dxc4 12. Bxc4 b6 13. g5 $1 {Not giving
+Black time to play ...Bb7 in the way he wants.} hxg5 14. Rg1 Ba6 $1 {Good,
+precise defence. White is closer to landing a knockout blow, but his king is
+also susceptible to perpetual checks, as we soon see.} (14... Nd7 15. Nxg5 Bb7
+$13 {was vaguely possible as well, challenging White to give mate before Black
+develops with ...Rac8-c3 or something, but this would have been very hard to
+steel oneself to play.}) 15. Bxa6 Nxa6 16. Nxg5 Qf5 17. e4 ({After the very
+English} 17. Qb1 $5 {, trying to win a long ending by virtue of having more
+central pawns, there might follow the principled} Nc7 $1 18. Qxf5 exf5 19. Kd2
+Nd5 $11 {and White will, in general, need to undouble the f-pawns in order to
+make progress. Meanwhile Black is playing ...Rfc8 and ...f6.}) 17... Qa5+ 18.
+Kf1 Qb5+ 19. Ke1 (19. Qe2 {doesn't have quite the same feel to it as Qb1
+before, since d4 is now unprotected. It shouldn't be too hard for Black to
+liquidate, e.g.} Qxe2+ 20. Kxe2 Rfd8 21. Nf3 Nc7 22. a4 Rac8 23. Rgc1 Ne8 $1
+$11 {and soon he will solve his major problems with ...Nd6 and ...f5.}) 19...
+Qa5+ 20. Kf1 Qb5+ 21. Ke1 Qa5+ 22. Kf1 {"The players agreed to perpetual
+check", as a well-known American IM once wrote.} 1/2-1/2
+

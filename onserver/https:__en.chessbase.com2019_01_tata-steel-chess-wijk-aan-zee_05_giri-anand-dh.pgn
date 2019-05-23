@@ -1,0 +1,62 @@
+[Event "Tata Steel Masters"]
+[Site "?"]
+[Date "2019.01.16"]
+[Round "5"]
+[White "Giri, Anish"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2783"]
+[BlackElo "2773"]
+[Annotator "DH"]
+[PlyCount "43"]
+[EventDate "2019.??.??"]
+[WhiteClock "0:55:11"]
+[BlackClock "1:15:27"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a6 7. a4 O-O 8. Re1 a5
+$5 {A very modern idea in an opening that is evolving day by day. Grischuk is
+credited with this plan, although it was played in a slightly different move
+order. Black, bizarrely, moves the a-pawn for a second time in three moves. He
+argues that White's 'extra' a2-a4 move is not as useful as it looks, and the
+tempo was a worthwhile investment as he now takes the b4-square under control.}
+(8... Ba7 {and}) (8... h6 {are both regularly seen alternatives.}) 9. h3 h6 10.
+Nbd2 Be6 11. Bb5 Na7 12. d4 Nxb5 {This has all been seen before, with most of
+the games featuring Maxime Vachier-Lagrave on the White side. There is now a
+crossroads:} 13. axb5 {The most natural choice.} (13. dxc5 {Initially seems
+innocent, but some strategic complexities lurk beneath the surface:} Na7 14. b3
+$1 {An idea of MVL's.} Re8 (14... dxc5 15. Nxe5 $14) 15. cxd6 Qxd6 16. Ba3 {
+and White exerts a modicum of pressure. Vachier-Lagrave has scored 1.5/2
+against formidable opposition (Grischuk and Karjakin) from this position.})
+13... exd4 14. Nxd4 (14. cxd4 $6 Bb4 $15 {finally shows the idea behind
+Black's idea of playing 8...a5. The b4-square is a strong outpost for the
+bishop.}) 14... Re8 15. Nf1 {Giri follows a game in which Leko beat
+Kasimzhanov in the 2018 Olympiad.} (15. N2f3 {is also worth considering.})
+15... Bc4 {Anand's prepared improvement.} (15... Bd7 16. Ng3 c6 17. bxc6 Bxc6
+18. Qf3 d5 19. e5 {eventually led to a white win in Leko-Kasimzhanov, Batumi
+2018.}) 16. Ng3 d5 {Again this seems to be Anand's preparation, although I
+still find it hard to believe he had memorised the entire messy variation that
+we will see below (if White had played 20.Qg4).} (16... a4) ({or} 16... Qd7 {
+would have been sensible alternatives.}) 17. e5 Ne4 18. Nxe4 dxe4 19. Rxe4 Qd5
+{Anand was still playing his moves at a brisk pace, which clearly unnerved
+Giri. Here he paused for a deep think before opting for a suboptimal move:} 20.
+Qf3 $6 (20. Qg4 $1 {[%cal Gc1h6] was critical, and would have demanded great
+energy (and accuracy!) from Anand to prove equality:} h5 $1 21. Qf4 Bd3 {
+(other moves exist, but this is clearly the most forcing - in the style of
+Anand himself)} 22. Re3 Bxb5 23. Rg3 Rxe5 24. Qf6 Re1+ 25. Kh2 Bf8 26. Nf5 Qe5
+{and it appears that Black is fine, although further analysis shows that the
+position is still full of intrigue:} 27. Nh6+ Kh7 28. Qxf7 $1 Qe6 $8 29. Qxh5
+gxh6 30. Qxb5 (30. Bxh6 {leads to a beautiful variation:} Re5 31. Bg5+ Qh6 $8
+32. Qf7+ Qg7 33. Qh5+ Qh6 {with a draw}) 30... Bd6 31. f4 Rg8 32. Qd3+ Rg6 33.
+h4 Qf6 34. h5 Qh4+ 35. Rh3 Bxf4+ 36. Bxf4 Qxf4+ 37. Rg3 Qh4+ 38. Rh3 Qf4+ {
+with a draw. Could Anand really have analysed this deeply? Many of the above
+moves are forced, so it is quite possible, although it would have been a great
+feat of memory to get this far.}) 20... Bxd4 21. cxd4 (21. Rxd4 Qxf3 22. gxf3
+Bxb5 $15 {Is very pleasant for Black due to his superior pawn structure.})
+21... Re6 $1 {[%cal Ge6g6]} 22. Rf4 {And Giri offered a draw, which was
+quickly accepted. To be honest, I would have been very tempted to continue, as
+Black appears to be running no risk at all:} (22. Rf4 Qxb5 $1 23. Qg3 (23. Rxf7
+$2 {Perhaps Anand missed that this was impossible, otherwise he might have
+played on:} Rg6 $1 $19 {[%cal Gc4d5,Gd5f7] with ...Bxf7 or ...Bd5 to follow,
+Black is winning.}) 23... Rg6 24. Rg4 Raa6 $1 $15) 1/2-1/2
+

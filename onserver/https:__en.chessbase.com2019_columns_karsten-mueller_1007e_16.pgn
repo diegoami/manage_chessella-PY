@@ -1,0 +1,37 @@
+[Event "World Chess Olympiad 2018"]
+[Site "Batumi"]
+[Date "2018.09.25"]
+[Round "2"]
+[White "de Leon, Patricia"]
+[Black "Ravelomanana, Sabine"]
+[Result "*"]
+[ECO "D13"]
+[WhiteElo "1929"]
+[BlackElo "1821"]
+[Annotator "Karsten Mueller"]
+[SetUp "1"]
+[FEN "8/bP1k4/8/1K2Pp2/3P1P2/8/8/8 b - - 0 76"]
+[PlyCount "10"]
+[EventDate "2018.??.??"]
+[SourceTitle "1007"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+76... Kc7 {Passed pawns can be dangerous, especially in the endgame.} {[%tqu
+"En","White to play and win","","","e5e6","",0,"b5a6","",4,"d4d5","",0,"De",
+"Weiß zieht und gewinnt","","","e5e6","",0,"b5a6","",4,"d4d5","",0]} 77. Ka6
+$1 (77. e6 $2 {was the move played in the game. But it allowed Black to block
+the the pawns.} Kd6 78. d5 Bb8 79. Kb6 Ke7 80. Ka6 Bxf4 (80... Kd6 {also draws.
+}) 81. Ka7 Bd6 82. b8=Q Bxb8+ 83. Kxb8 Kd6 $2 {Just trying to block the pawns
+is not good enough.} ({Using one's own passed pawn was necessary:} 83... f4 $1
+{with a draw:} 84. Kc7 f3 85. d6+ Kxe6 86. d7 f2 87. d8=Q f1=Q 88. Qd6+ (88.
+Qd7+ Ke5 $11) 88... Kf7 $11) 84. Kc8 f4 85. Kd8 $1 (85. e7 $2 Kxe7 86. Kc7 f3
+87. d6+ Kf7 88. d7 f2 89. d8=Q f1=Q $11) 85... f3 86. e7 f2 87. e8=Q f1=Q 88.
+Qc6+ Ke5 89. Qe6+ Kd4 90. d6 Qf8+ 91. Kc7 Qa8 92. d7 Qa7+ 93. Kd8 Qa3 94. Ke8
+Qa4 95. Kf7 {1-0.} (95. Kf7 Qa7 96. Ke8 (96. Kg6 Qa8 97. Qf6+ Ke3 98. d8=Q $18)
+96... Qa4 97. Qg4+ $18) (95. Qg4+ $18)) (77. d5 $2 Kxb7 78. d6 Be3 79. e6 Kc8
+80. Kc6 Kd8 81. e7+ Ke8 82. Kd5 Bxf4 83. Ke6 Bxd6 84. Kxf5 $11) 77... Bxd4 (
+77... Bb8 78. d5 Kd7 79. Kb6 Kd8 80. d6 Kd7 81. Kc5 Ba7+ 82. Kd5 Ke8 83. Ke6
+$18) 78. e6 Bc5 79. e7 {Black cannot stop both pawns.} Bxe7 80. Ka7 Bc5+ 81.
+Ka8 $18 *
+

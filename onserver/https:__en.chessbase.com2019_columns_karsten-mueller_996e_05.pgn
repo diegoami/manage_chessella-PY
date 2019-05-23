@@ -1,0 +1,39 @@
+[Event "Quebec Open 2018"]
+[Site "Quebec CAN"]
+[Date "2018.07.21"]
+[Round "1.13"]
+[White "Ouellet, Maili-Jade"]
+[Black "Jacquet, S."]
+[Result "*"]
+[ECO "E76"]
+[WhiteElo "2197"]
+[BlackElo "1936"]
+[Annotator "Karsten Mueller"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/N3k2p/7P/5K2 w - - 0 95"]
+[PlyCount "13"]
+[EventDate "2018.07.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CAN"]
+[SourceTitle "996"]
+[Source "Mark Crowther"]
+[SourceDate "2018.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.07.30"]
+[SourceQuality "2"]
+
+95. Nc4+ {If a knight moves it always moves to a square of a different colour
+and in this sense cannot lose a tempo. This makes "zugzwang" so crucial.} {
+[%tqu "En","Black to play and draw","","","e3d4","",4,"e3f3","",0,"e3d3","",0]}
+Kd4 $1 (95... Kf3 $2 {was the move played in the game. But now the knight
+triumphed.} 96. Nd2+ Ke3 97. Ke1 {Mutual "zugzwang" with Black to move.} g3 (
+97... Kd3 98. Nf1 Ke4 99. Kf2 Kf4 100. Nd2 Kf5 101. Kg3 Kg5 102. Nf1 Kf5 103.
+Ne3+ $18) 98. Nf1+ Kf3 99. Nxg3 (99. hxg3 $2 h2 100. Nxh2+ Kxg3 $11) 99... Kg2
+100. Nf1 Kf3 101. Nd2+ Kg2 (101... Ke3 102. Nf1+ Kf3 103. Ng3 Ke3 104. Kf1 Kf3
+105. Nh1 Kg4 106. Nf2+ Kh4 107. Ke2 $18) 102. Ke2 Kxh2 (102... Kg1 103. Kf3
+Kxh2 104. Kf2 $18) 103. Kf2 {This lead's to Stamma's famous mate.} Kh1 104. Nf1
+h2 105. Ng3#) (95... Kd3 $2 96. Ne5+ $18) 96. Nd2 Kd3 97. Ke1 Ke3 {Again it's
+mutual "zugzwang". But now White is to move:} (97... g3 $11) 98. Nf1+ Kf3 99.
+Ng3 Kg2 100. Ke2 Kxh2 101. Kf2 {Stalemate} *
+

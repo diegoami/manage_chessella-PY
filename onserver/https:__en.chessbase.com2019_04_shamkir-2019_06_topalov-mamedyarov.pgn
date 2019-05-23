@@ -1,0 +1,72 @@
+[Event "Shamkir Chess"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "6"]
+[White "Topalov, V."]
+[Black "Mamedyarov, S."]
+[Result "1-0"]
+[Annotator "DF"]
+[PlyCount "65"]
+[EventDate "2019.04.07"]
+
+{[%evp 0,65,19,31,25,12,22,25,29,4,-6,-6,19,-14,0,5,10,-30,-16,-15,-13,-13,0,
+-13,-6,-6,-10,3,21,1,26,5,14,-9,5,26,27,-15,-21,-4,-4,4,-10,-19,-24,-37,-39,
+-22,-22,-40,-33,-62,80,-14,-40,-46,-46,-29,-7,8,42,92,126,126,165,171,169,169]
+} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 ({
+After} 7... O-O {-trying to keep a Marshall on the cards- the immediate h3
+becomes stronger, because after ...d6 White can also try setups with a4 and d3.
+} 8. a4) 8. c3 O-O 9. h3 Bb7 {This is popular enough- third, behind the main
+move ...Na5 and the Breyer line ...Nb8. Of note also is Karpov's 9...Nd7.} (
+9... Na5 10. Bc2 d5 $5 {was popular for a while in 2010, but soon it was
+realised that} 11. d4 dxe4 12. Nxe5 c5 13. Be3 $14 {is simply quite good for
+White.}) 10. d4 Re8 11. Ng5 Rf8 12. Nf3 Re8 13. Nbd2 Bf8 14. a3 {White seeks
+to prevent ...Nb4 ideas before taking his bishop back.} (14. Bc2 g6 15. Nf1 $6
+exd4 16. cxd4 Nb4 $15) 14... g6 (14... Nb8 {was seen in a game Topalov played
+last year against the 66-year-old Karpov:} 15. Ng5 Re7 16. Ndf3 Nbd7 17. Nxf7
+Rxf7 18. Ng5 d5 19. Nxf7 (19. exd5 Bd6 20. dxe5 Nxe5 21. Rxe5 Bxe5 22. d6 Qxd6
+23. Qxd6 Bxd6 24. Bxf7+ Kh8 25. Be3 $16 {is just a pawn}) 19... Kxf7 20. f4
+exd4 21. e5 dxc3 22. bxc3 Kg8 23. exf6 Nxf6 24. Be3 c5 $13 {Topalov,V-Karpov,A
+Salamanca 2018}) ({Refining Karpov's idea with} 14... h6 {and then ...Nb8-d7
+still seems playable, and has been seen numerous times, including in other
+Topalov games.} 15. Bc2 d5 $5 (15... Nb8 16. b3 Nbd7 17. Bb2 Rc8 18. a4 b4 $6 {
+This pawn sacrifice creates a very odd impression.} 19. cxb4 exd4 20. Bxd4 c5
+21. bxc5 Nxc5 22. Qb1 a5 23. b4 axb4 24. Qxb4 Ba8 25. a5 d5 26. Bxf6 Qxf6 27.
+e5 Qa6 28. Qg4 $40 {Topalov,V-Ding,L Saint Louis 2016}) 16. dxe5 Nxe5 17. Nxe5
+Rxe5 18. Nf3 Re8 19. e5 Ne4 20. Bf4 c5 21. a4 f5 22. Nd2 Qh4 $11 {Tari,A-Vidit,
+S Wijk aan Zee 2018}) 15. Ba2 Bg7 16. b4 {This is not, of course, a new idea
+for the Ruy Lopez- the point is to play a4 without Black being able to push
+past- but it creates a strange impression in this position because White is
+some way from being able to play a4.} exd4 17. cxd4 a5 ({The computer considers
+} 17... Nxd4 18. Nxd4 c5 19. N4f3 c4 20. Bb2 $16 {before rejecting it as the
+depth horizon sees the a2-bishop once more begin to play.}) 18. Rb1 {This is
+new, although the existing moves were satisfactory for White, so maybe the
+novelty was accidental.} (18. Qb3 Qd7 19. Bb2 axb4 20. axb4 (20. d5 $1 $14)
+20... Ra4 21. Bc3 Nh5 22. Bb1 Rxa1 23. Bxa1 Nf4 $13 {Inarkiev,E-Oparin,G
+Moscow 2017}) (18. Ng5 d5 $1 19. e5 Nxd4 (19... axb4 20. Nb3 $14 {is bad news.}
+) 20. Bb2 Nf5 21. Ndf3 $14 (21. exf6 $2 Rxe1+ 22. Qxe1 Bxf6 23. Bxf6 Qxf6 24.
+Ngf3 axb4 25. axb4 Qb2 {White can save his piece, but his remaining units will
+have essentially zero mobility, e.g.} 26. Rc1 $1 (26. Qb1 Qxb1+ 27. Nxb1 d4 28.
+Na3 Bxf3 29. gxf3 d3 30. Kf1 Kg7 31. Nxb5 c6 32. Nc3 Ra3 33. Nb1 Ra4 $44) 26...
+Rxa2 27. Qe8+ Kg7 28. Rxc7 Nd6 29. Qe7 Qa1+ $1 {Drawing the king to a square
+where the d2-knight can be forked.} 30. Nf1 (30. Kh2 $2 Qf6 31. Rxb7 Nxb7 32.
+Qxb7 Rxd2 33. Nxd2 Qf4+ 34. Kg1 Qxd2 35. Qxb5 Qe1+ 36. Kh2 Qxf2 37. Qxd5 Qf4+
+$15) 30... Qb2 31. N3d2 Qf6 32. Rxb7 Nxb7 33. Qxb7 Qd4 34. Qxb5 Rxd2 35. Nxd2
+Qxd2 $11)) 18... axb4 {A good reaction.} (18... Nd7 $5 {merited attention,
+heading to a4 with the knight.}) 19. d5 Ne5 20. Nxe5 dxe5 21. Rxb4 c6 22. dxc6
+Bxc6 {We can say that Black has comfortably equalised here. Mamedyarov has
+been playing extremely good chess in this event, but as we see, the results
+just aren't falling his way.} 23. Qf3 Bf8 24. Rb1 Ra4 ({Something more
+circumspect like} 24... Bh6 25. Rd1 Qe7 $11 {is also possible, and here too
+White has to think about how to not stand worse.}) 25. Nf1 Rxe4 26. Rd1 Qe7 27.
+Bg5 Bg7 28. Ne3 {White is also playing well in this stage, and it helps that
+his moves flow a bit more naturally and that his pieces aren't stuck in two
+pins.} Qxa3 $6 {Practically not the best call.} (28... Rc4 $1 $11 {is dead
+level with no possibility of White taking an exchange.}) 29. Ra1 Qc5 $2 (29...
+Qe7 {It is not immediately obvious that walking into the pin is fine: one has
+to see} 30. Bd5 Rxe3 $1 31. Qxe3 Bxd5 32. Bxf6 Qe6 $11 {or similar. White can
+press a little bit, but with a bishop on c4 Black is defending everything that
+needs defending.}) 30. Rdc1 $1 $16 Rc4 (30... Qd6 31. Rxc6 Qxc6 32. Bxf6 Bxf6
+33. Nd5 $1 {Paradoxically, the way to win the rook isn't to interpose here
+with the bishop, but rather with the knight!}) 31. Qd1 Ne4 32. Bxc4 bxc4 33.
+Rxc4 {It is possible to continue the game, but no doubt Black was disappointed,
+and rightly so.} 1-0

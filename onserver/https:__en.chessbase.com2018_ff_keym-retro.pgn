@@ -1,0 +1,103 @@
+[Event "Manchester Guardian"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Smullyan, Raymond"]
+[Black "Retrograde problem"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1r1b4/Bp6/1K6/2P5/3k4 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1957.??.??"]
+
+{[%evp 0,3,-23,-23,0,0]} 1. c4 bxc3+ 2. Kxc3+ {[#] The solution was: the
+missing king was on c3!} *
+
+[Event "Stuttgarter Zeitung"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Weeth, Günther"]
+[Black "Retrograde problem"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6nn/5P1k/8/5N2/8/8/K7/8 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2003.??.??"]
+[SourceVersionDate "2018.12.25"]
+
+{[%evp 0,1,29999,-30000]} 1. f8=N# {If the piece on g8 was a queen or bishop
+the promotion on f8 would be impossible (because of the check to the white
+king). If it were a rook then the position would not be mate.} (1. fxg8=N {
+[#] Retro problem: White has just played, but takes his move back and instead
+delivers mate in one. Try to find the position one move earlier and which move
+mates in one.}) *
+
+[Event "Morning Post"]
+[Site "?"]
+[Date "1910.??.??"]
+[Round "?"]
+[White "Baird, Frederick"]
+[Black "Retrograde Problem"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/6K1/3r3Q/8/8/8/8/8 b - - 0 1"]
+[PlyCount "2"]
+[EventDate "1910.??.??"]
+[SourceVersionDate "2018.12.25"]
+
+{[%evp 0,2,0,0,0]} 1... Rxh6 (1... Rd8 2. Qe6#) 2. Kxh6 {[#] Problem position:
+White and Black retract one move each, then Black helps White to mate him (=
+helpmate in one).} *
+
+[Event "Chess Amateur"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Sunyer, Julio"]
+[Black "Retrograde Problem"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k2r/8/6K1/7Q/8/8/8/8 b k - 0 1"]
+[PlyCount "2"]
+[SourceVersionDate "2018.12.25"]
+
+1... Rxh5 (1... O-O 2. Qh7#) 2. Kxh5 {[#] Problem position: White and Black
+retract one move each, then Black helps White to mate him (= helpmate in one).}
+*
+
+[Event "Skakbladet"]
+[Site "?"]
+[Date "1911.??.??"]
+[Round "?"]
+[White "Hjorth, H.."]
+[Black "Mate in three"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/5PpP/8/6K1/8/8/8/8 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1911.??.??"]
+[SourceVersionDate "2018.12.25"]
+
+{[%evp 0,5,29995,29996,29997,29998,29999,-30000]} 1. f8=N g6 2. Kh6 g5 3. Ng6#
+{This was the original intention of the composer. But after publication
+experienced solvers pointed out that in the problem position Black could not
+have made the last move. So it had to be Black to play...} *
+
+[Event "Skakbladet"]
+[Site "?"]
+[Date "1911.??.??"]
+[Round "?"]
+[White "Hjorth, H.."]
+[Black "Mate in three"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/5PpP/8/6K1/8/8/8/8 b - - 0 1"]
+[PlyCount "6"]
+[EventDate "1911.??.??"]
+[SourceVersionDate "2018.12.25"]
+
+{[%evp 0,6,29994,29995,29996,29997,29998,29999,-30000]} {Since it has to be
+Black to move the solution is different:} 1... Kxh7 2. f8=Q g6 3. Kf6 g5 4.
+Qg7# *
+

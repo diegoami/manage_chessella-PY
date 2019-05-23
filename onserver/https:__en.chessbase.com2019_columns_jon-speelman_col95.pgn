@@ -1,0 +1,110 @@
+[Event "Simul Game, 7m+15s"]
+[Site "Simuls with titled players"]
+[Date "2018.10.04"]
+[Round "?"]
+[White "GrandPatzer5"]
+[Black "Dbojkov"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2026"]
+[BlackElo "2650"]
+[Annotator "Speelman, Jonathan"]
+[PlyCount "71"]
+[EventDate "2018.10.04"]
+[SourceTitle "playchess.com"]
+
+1. b3 d5 2. Bb2 c5 3. e3 (3. Nf3 {is inaccuarate because of} f6) 3... Nc6 4.
+Bb5 Bd7 5. Nf3 Nf6 6. O-O e6 7. Bxc6 Bxc6 8. Ne5 Bd6 9. f4 O-O 10. d3 Nd7 11.
+Nxc6 bxc6 12. Nd2 a5 13. a4 e5 {[#]} 14. fxe5 {This makes it fairly easy for
+Black. Perahps he should try} (14. f5 {hoping for something like} Nf6 15. c4
+Qe7 16. e4) 14... Bxe5 15. Bxe5 Nxe5 16. Qh5 Qe7 17. e4 Rad8 18. Rae1 f6 19.
+Nf3 Nxf3+ 20. Qxf3 c4 {Dissolving the central pawn structure, this equalises}
+21. exd5 Qc5+ 22. Qe3 Qxe3+ 23. Rxe3 cxd5 (23... cxb3 24. dxc6 bxc2 25. Re2 (
+25. Rc1 Rd6 26. Rxc2 Rc8) 25... Rxd3 26. Rxc2 Rc8 {gives White much more to
+play for.}) 24. dxc4 dxc4 25. bxc4 ({I'd have tried to find a way to avoid
+this but} 25. Rf5 cxb3 26. cxb3 Rd1+ 27. Kf2 Ra8 {doesn't look especially
+scary for Black.}) 25... Rd4 26. Rc3 Rc8 27. Rf5 Rdxc4 28. Rxc4 Rxc4 29. Rxa5
+Rxc2 30. Ra7 (30. Rb5 Ra2 31. a5 {was safer when with the rook active, White is
+absolutely fine. This position is drawn, of course, without the a-pawn but as
+played, Peter starts to drift towards danger.}) 30... h5 31. h3 Kh7 32. a5 Ra2
+33. a6 Kg6 34. Ra8 h4 35. a7 {[#] The g7 pawn is very good here because if the
+white rook moves then ...Rxa7 will defend it.} Kf5 $6 (35... Kg5 36. Kf1 (36.
+Kh2 $2 Ra1) 36... f5 37. Kg1 Kf4 {keeps some winning chances though of course
+White can bail out with} 38. Kh2 Ra1 39. Rb8 Rxa7 40. Rb4+ Kg5) 36. Rh8 $1 {
+With the exchange of pawns it's dead equal so they agreed a draw.} 1/2-1/2
+
+[Event "Simul Game, 7m+15s"]
+[Site "Simuls with titled players"]
+[Date "2018.10.11"]
+[Round "?"]
+[White "GrandPatzer5"]
+[Black "Dbojkov"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[WhiteElo "2026"]
+[BlackElo "2650"]
+[Annotator "Speelman, Jonathan"]
+[PlyCount "57"]
+[EventDate "2018.10.11"]
+[SourceTitle "playchess.com"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. Ne5 {Not at all bad, of course, but
+certainly not a line that Caro-Kann players (who have plenty of challenging
+lines to counter) lie in bed worrying about.} Nf6 5. d4 g6 6. Bd3 Bg7 7. O-O
+O-O 8. c3 Nc6 9. f4 Bf5 {[#] Bojkov has played extremely sensibly and now
+offers an exchange of bishops which, when accepted, improves his central control.
+} 10. Bxf5 gxf5 11. Be3 Ne4 12. Nd2 Qb6 13. Nxe4 fxe4 14. Rf2 {[#]
+Intentionally or otherwise allowing a small combination which temporarily wins
+a pawn.} Nxe5 15. fxe5 Bxe5 16. dxe5 Qxe3 17. Qg4+ Kh8 18. Raf1 {[#]} Rg8 (
+18... f5 $1 {would have transformed the pawn structure in Black's favour.} 19.
+exf6 (19. Qh4 e6 20. Kh1 Rf7 {with a big advantage,}) 19... Rxf6 {is simply
+good for Black and if}) 19. Qd7 {Sow White gets enough play.} e6 20. Kh1 Rg7
+21. Rxf7 Qe2 22. Rg1 Rag8 23. Rxg7 Rxg7 {[#]} 24. Qd8+ {Deciding to bail out.}
+(24. Qe8+ Rg8 25. Qxe6 {would have been very hard to calculate but it's fairly
+clear that White isn't worse and indeed it turns out that he's better after
+for example} Qf2 26. Qxd5 e3 27. e6) 24... Rg8 25. Qf6+ Rg7 26. Qf8+ Rg8 27.
+Qf6+ Rg7 28. Qf8+ Rg8 29. Qf6+ 1/2-1/2
+
+[Event "Simul Game, 7m+15s"]
+[Site "Simuls with titled players"]
+[Date "2018.10.18"]
+[Round "?"]
+[White "Bojkov"]
+[Black "GrandPatzer5"]
+[Result "1/2-1/2"]
+[ECO "A14"]
+[WhiteElo "2650"]
+[BlackElo "2030"]
+[Annotator "Speelman, Jonathan"]
+[PlyCount "92"]
+[EventDate "2018.10.18"]
+[SourceTitle "playchess.com"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 e6 4. O-O Be7 5. c4 O-O 6. b3 (6. d4 {leads to the
+main line of the Catalan. Instead, b3 keeps more tension but White has to be
+happy to play against ...d4}) 6... b6 (6... d4 7. e3 c5 {With a Benoni reversed
+in which it's unclear just how useful b3 is.}) 7. Bb2 Bb7 8. d3 (8. cxd5 Nxd5 {
+Has been played many times but isn't scary for Black if he's careful.} 9. Nc3
+c5 10. Nxd5 Bxd5 {is one line.}) 8... c5 9. Nbd2 Nc6 10. Rc1 d4 11. Ne5 Qc7 12.
+Nxc6 Bxc6 13. b4 Bxg2 14. Kxg2 e5 15. b5 {[#] Black looks clearly better now
+though his next move is rather committal} a5 16. e4 dxe3 {This must be correct
+since otherwise White will be quite secure.} 17. fxe3 Rad8 18. Qe2 Qd6 19. Rc3
+Ne8 ({is the move I'd like to play, and if} 19... e4 20. Nxe4 Nxe4 21. dxe4 Bf6
+22. Rcc1 Bxb2 23. Qxb2 Rfe8 {with a slight, but pleasant, advantage.}) 20. Ne4
+Qg6 21. Rc2 Nf6 (21... f5 22. Nc3 Nc7 {As long as White can defend the d3 pawn
+painlessly then he will be alright.}) 22. Nxf6+ Bxf6 23. e4 Rd6 24. Rf5 Rfd8 $2
+(24... Re8) 25. Bxe5 Rxd3 (25... Bxe5 26. Rxe5 Rxd3 27. Qxd3) 26. Bxf6 (26. Bc7
+$1 {was very strong.} R8d7 27. Bxb6 Bg5 28. Bxa5 {defending d2}) 26... gxf6 27.
+Qf2 R8d6 28. Re2 {[#] With such active rooks, Black is fine though his next
+move looks a little weakening.} h6 29. Qf4 Kg7 30. Rf2 R3d4 31. h4 h5 32. Qf3
+Rd3 (32... Rxc4 $2 33. e5 {would be a disaster.}) 33. Qf4 R3d4 34. Kh2 $6 {
+A bit over-optimistic though I'd very likely have done the same when giving a
+simul.} (34. Qf3 Rd3 35. Qf4 {repeated.}) 34... Re6 35. Qc7 Rdxe4 36. Rd5 {
+[#] With a very compact position, Black should now be winning.} Re2 (36... Rxc4
+{was good though he'd have had to see that after} 37. Rd8 Re1 {Black's attack
+is first, for if} 38. Qc8 Rxh4+ 39. Kg2 Qe4+ {and mate follows.}) 37. Qf4 R6e4
+38. Qf3 Rxf2+ 39. Qxf2 Qg4 40. Rd2 Re5 (40... Rxc4 41. Rd6 Qg6) 41. Qf4 Re2+
+42. Rxe2 Qxe2+ 43. Kh3 Qe6+ 44. Kh2 {[#] Here Peter decided to force a draw
+though the ending is very good for Black:} Qe2+ 45. Kh3 Qe6+ 46. Kh2 Qe2+
+1/2-1/2
+

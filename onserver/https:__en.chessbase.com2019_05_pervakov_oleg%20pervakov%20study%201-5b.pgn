@@ -1,0 +1,120 @@
+[Event "64 Chess Review     "]
+[White "Oleg Pervakov"]
+[Black "White to play and draw"]
+[Date "2000"]
+[Annotator "Sergei Tkachenko"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO ""]
+[Result "1/2-1/2"]
+[FEN "8/1p6/5K2/5p2/k7/3P4/8/8 w - - 0 1"]
+
+1. Kg5 $3 {White's king moves as far away as possible from Black's b-pawn.}
+( {If} 1. Kxf5 $4  1... b5 2. d4 b4 3. d5 b3 4. d6 b2 5. d7 b1=Q ) ( {Or}
+1. Ke5 b5 2. d4 b4 3. d5 b3 4. d6 b2 5. d7 b1=Q 6. d8=Q Qe4 7. Kd6 ( 7. Kf6
+Qh4 $19 {and White loses the queen.} )  7... Qd4 $19 )  1... b5 ( {If} 
+1... Kb3 2. Kxf5 Kc3 3. Ke5 $1  3... Kxd3 4. Kd5 Kc3 5. Kc5 $18 ) 2. d4 b4
+3. d5 Kb5 4. d6 Kc6 5. Kxf5 Kxd6 6. Ke4 Kc5 7. Kd3 Kb5 8. Kc2 Ka4 9. Kb2 
+1/2-1/2
+
+[Event "Moscow Championship      "]
+[White "Oleg Pervakov"]
+[Black "White to play and win"]
+[Date "1987"]
+[Annotator "Sergei Tkachenko"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO ""]
+[Result "1-0"]
+[FEN "1k6/6p1/8/5B2/8/5p2/7P/4K3 w - - 0 1"]
+
+1. Kf2 Kc7 2. Bh7 $3 {Brilliantly foiling Black's plans and denying his
+king the critical g8 square-NSH} ( {Not} 2. Kxf3 $2  2... g6 $3 {The point
+of this pawn sacrifice is to vacate g7 for the Black king-NSH} 3. Kf4 (
+{The more obvious move} 3. Bxg6 $2 {allows the Black king to reach h8 and
+get a textbook draw. For example,}  3... Kd7 4. h4 Ke7 5. h5 Kf6 6. Bc2 Kg7
+7. Kg4 Kh8 $11 {NSH} )  3... Kd6 4. Kg5 gxf5 5. Kxf5 Ke7 $11 )  2... Kd6 ( 
+2... g6 {does not work as the bishop ignores the pawn and the king steadily
+moves towards h6.} 3. Kxf3 Kd6 4. Kf4 Ke6 5. Kg5 Kf7 6. Kh6 $18 {NSH} ) 3.
+Kxf3 Ke6 4. Kg4 Kf7 $1 ( {Not}  4... Kf6 $2 5. Kh5 g6 6. Kh6 Kf7 7. h4 $18
+) 5. Kg5 ( 5. Kh5 $2 {would be a mistake on account of}  5... g5 $1 6. Kh6
+g4 $1 $11 )  5... g6 6. Kh6 g5 7. h3 $1  7... Kf8 8. Kg6 $1 ( 8. Kxg5 $2
+{still allows}  8... Kg7 $11 {with the same draw that Black is hoping
+for-NSH} ) 
+1-0
+
+[Event "Hero Cities Match          "]
+[White "Oleg Pervakov"]
+[Black "White to play and win"]
+[Date "1995"]
+[Annotator "Sergei Tkachenko"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO ""]
+[Result "1-0"]
+[FEN "5b2/1P6/PB4qp/6kp/8/6rP/5N1K/8 w - - 0 1"]
+
+1. b8=Q Bd6 $1 2. Qxd6 $1 ( {If} 2. Qd8 Kf4 3. Qh4 ( {Or} 3. Qa8 Re3 4.
+Bxe3 Kxe3 5. Kh1 Kxf2 6. Qa7 Kf1 $19 )  3... Kf3 4. Qe4 Qxe4 5. Nxe4 Kxe4
+6. a7 Ra3 7. Kg2 Be5 $19 )  2... Rg2 (  2... Qxd6 3. Ne4 Kf4 4. Nxd6 Ra3 5.
+a7 Ra2 6. Kh1 Kg3 7. Nb5 Ra1 8. Bg1 Kxh3 9. Nc7 $18 ) 3. Kxg2 Kh4 $1 4. Ng4
+$1 {Diamond cuts diamond.} ( {After} 4. Qxg6 $2 {White has a queen, knight
+and bishop with the a-pawn close to promotion. However, Black has the last
+laugh with stalemate-NSH} )  4... Qxd6 5. Ne5 $3 {Domination!}  5... Qxe5 (
+ 5... Qxb6 6. Nf3 ) (  5... Qd2 6. Bf2 Kg5 7. Nf3 ) 6. Bd8 
+1-0
+
+[Event "Problemist of the South      "]
+[White "Oleg Pervakov"]
+[Black "White to play and win"]
+[Date "1996"]
+[Annotator "Sergei Tkachenko"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO ""]
+[Result "1-0"]
+[FEN "5R2/pr2P1k1/q2P2p1/P2pP3/8/K1p4P/P1pQ4/2r5 w - - 0 1"]
+
+
+1. Rf7 $3 ( {After} 1. Qxd5 $2  1... Qxa5 $1 2. Qxa5 Rd1 {White has to find
+a draw with perpetual check.} 3. Rg8 $1 ( {Not} 3. Qxc3 Rd3 $1 4. Ka4 Rxc3
+5. e8=Q Ra3 $1 6. Kxa3 c1=Q $19 )  3... Kh7 $1 (  3... Kxg8 $4 4. Qxc3 $18
+) 4. Rh8 Kg7 5. Rg8 $11 ) ( 1. Qxc3 $2  1... Rd1 2. Rf7 $1  2... Kh6 $1 ( 
+2... Kxf7 $2 3. e6 $18 ) 3. Qe3 g5 4. Rf6 $11 {Again White has no more than
+perpetual check.} )  1... Kxf7 2. Qxd5 Kg7 3. e8=Q {An extraordinary
+position! Two White queens battle against one Black queen and two rooks.} 
+3... Qxa5 $1 4. Qxa5 Rd1 (  4... Rg1 5. Qxc3 Rg3 $1 6. Qxg6 $3  6... Rxg6
+7. e6 Kh7 8. Qxc2 $18 {-NSH} ) (  4... Rf1 5. Qxc3 Rf3 $1 6. Qf8 $3  6...
+Rxf8 7. e6 Kh7 8. Qxc2 $18 {-NSH} ) (  4... Rh1 5. Qxc3 Rxh3 $1 6. Qh8 $3 
+6... Rxh8 7. e6 Kh7 8. Qxc2 $18 {The passed pawns carry the day-NSH} ) 5.
+Qxc3 Rd3 $1 6. Qxg6 $3  6... Kxg6 7. Qxd3 $18 
+1-0
+
+[White "Oleg Pervakov"]
+[Black "White to play and draw"]
+[Date "2017"]
+[Annotator ""]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO ""]
+[Result "1/2-1/2"]
+[FEN "4n2k/1p6/7K/1p4N1/4p3/6Rp/1P1qPn1P/7Q w - - 0 1"]
+
+
+1. Qe1 $3 {The White queeen attacked by the knight now allows herself to be
+captured by her counterpart.}  1... Qd6 $1 ( {If}  1... Qxe1 $4 2. Nf7 ) 2.
+Ne6 $1 ( {Not} 2. Kh5 $4  2... Ng7 3. Kh4 Qh6 )  2... Qxe6 3. Rg6 {The rook
+acts both as the attacker and the defender-NSH}  3... Nf6 4. Qc3 {This was
+the point of the queen move to e1. From c3 she targets the king via the
+back rank and also the dark diagonal-NSH} ( {If} 4. Qxf2 $4  4... Ng4 $1 5.
+Kg5 Qxg6 6. Kxg6 Nxf2 $19 )  4... Ng4 5. Rxg4 Qf5 $1 6. Rh4 ( {Not} 6. Rg5
+$4  6... Qh7 )  6... b4 $1 {The White queen has to be diverted from the
+diagonal and if Black succeeds, he can unpin the knight and play...Ng8
+mate-NSH} 7. Qd4 ( 7. Qxb4 $4  7... Ng8 )  7... b3 $1 {Nailing the b-pawn
+so that  White has no chance of playing b3, Qb2 and Qa1-NSH} 8. Qc3 e3 9.
+Qd4 b6 10. Qc3 b5 11. Qd4 b4 $1 12. Qd8 ( 12. Qxb4 $4  12... Ng8 )  12...
+Ng8 13. Qxg8 {Forced.}  13... Kxg8 {Now White only has a rook against the
+queen and his king is also exposed-NSH} 14. Rg4 Kf8 15. Rg8 $1 {The rook
+goes on rampage!}  15... Ke7 16. Rg7 Kd6 17. Rg6 Ke7 18. Rg7 {Draw by
+perpetual check.} 
+1/2-1/2

@@ -1,0 +1,234 @@
+[Event "Candidates Tournament"]
+[Site "Berlin"]
+[Date "2018.03.12"]
+[Round "3"]
+[White "Aronian, Levon"]
+[Black "Kramnik, Vladimir"]
+[Result "0-1"]
+[ECO "C65"]
+[WhiteElo "2794"]
+[BlackElo "2800"]
+[Annotator "Kramnik,V"]
+[PlyCount "54"]
+[EventDate "2018.03.10"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "GER"]
+[EventCategory "22"]
+[SourceTitle "CBM 184"]
+[Source "ChessBase"]
+[SourceDate "2018.05.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.05.16"]
+[SourceQuality "1"]
+
+1. e4 {A surprise on the very first move. I suspected that in this tournament
+overwhelmingly closed openings would be played against me. And least of all
+did I expect 1.e4 in my game against Aronian.} e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 {
+In our earlier encounters with 1.e4 played by Levon we continued into the main
+line of the Berlin Defence, but without much success – all these games ended
+as draws.} Bc5 5. Bxc6 dxc6 {I do not know for what reasons Levon selected
+this variation. It is all the more difficult to understand because he never
+again played 1.e4 in this tournament. He certainly had his reasons for this,
+but his decision seemed somewhat strange to me. On the other hand, if it had
+been justified it would have been called correct, far-sighted, etc.} 6. O-O {
+Such a treatment of the opening has always seemed dubious to me. Even after 3..
+.a6 the exchange on c6 is not considered dangerous for Black - and in the
+variation from our game White is playing free of any compulsion... It is clear
+to me that this line is very prevalent in practice and contains some
+subtleties, but I will never be able to believe that by playing like this
+White can lay claim to an opening advantage. Naturally in today's theory many
+variations have been analysed all the way to a draw, so that one feels the
+desire to deviate at some point and simply "play chess", but in concrete terms
+here White has, in my opinion, absolutely no preconditions for even a minimal
+advantage and with my classical chess education I cannot take this variation
+seriously. For that reason, moreover, I have also lost some games in this line;
+on the other hand, not a few of them ended in a win for me.} Qe7 {There are
+various possibilities for Black here, but I have often played and analysed
+such positions and come to the conclusion that this queen move is very
+interesting. If White delays h2-h3, then Black also holds back with the move
+Nf6-d7 and first develops his bishop. For example: 7.Nbd2 Bg4 8.h3 Bh5 9.Nc4
+Nd7 – in my opinion this is an ideal setup for Black, in which he has hardly
+any problems.} 7. h3 {I analysed this variation 10 years ago, then 7, then a
+few years ago – and each time something new revealed itself to me. Of course
+Black can simply castle – that is not really linked to any danger and should
+suffice for equality. But at some point I hit on the idea of punishing White
+for the move h2-h3 and started to analyse 7...h6 with the idea of attacking
+with g5-g4. For his part, White then begins with c3, d4 to play in the centre;
+I found no advantage for him, and sharp and complicated positions appear on
+the board.} {Not that I would be dissatisfied with that, but when I cam back
+to this variation a few years ago, Nicht, dass ich damit unzufrieden wäre,
+aber als ich vor ein paar Jahren zu dieser Variante wieder zurückkehrte, hat
+sich etwa als fünfter Computerzug...} Rg8 $1 {...had appeared as something
+like the fifth computer move (today's engines award it first or second place
+in their list of priorities). I thought about this and understood that
+although this continuation looks absurd at first glance, it makes perfect
+sense: Black will save a tempo. On further investigation it became clear to me
+that it is simply the "refutation" of White's whole system. After g7-g5 this
+pawn must not be taken under any circumstances, because Black then quickly
+obtains a mating attack. But even if White allows the opposing g-pawn to
+survive, Black pre-empts White with his threats – White's play in the centre
+is too late. I cannot say whether at that time I went into the position very
+deeply: Black was standing so well everywhere that I could not believe that I
+would ever meet the line in practice, though if I did – then in any case it
+is wonderful to get such a position. I did not go through the relevant
+variations in my preparation for the game against Aronian (as I said, I
+certainly wasn't expecting him to play 1.e4) and had almost nothing ready
+after 7...Rg8. Moreover, when I re-opened my earlier notes after the game I
+established that I had not written much at all about it.} 8. Kh1 {I could
+still remember that this is the best and practically the only move. If White
+does not play it he immediately gets a worse position. Levon took this in no
+way obvious decision very quickly. So far I have not yet talked to him on this
+subject, so I do not know if he had previously had a look at this variation,
+but could not believe the power of 7...Rg8, or whether he did not want to show
+that he was not prepared for this line.} Nh5 $5 ({At the board I could still
+remember that I had previously analysed} 8... h6 {here. After the game I
+established that I had then even somewhat preferred it over 8...Nh5. A modern
+computer shows the following variation:} 9. Nbd2 g5 10. Nc4 g4 11. Nfxe5 h5 {
+(a cold blooded attack)} 12. d4 Bd6 13. Re1 gxh3 {and White is still hanging
+on, the evaluation is approximately "=/+". But I preferred the knight move
+which appeared to be ambitious and principled. From this point on my knowledge
+was clearly at an end, from then on I was acting "independently". Fortunately
+there is no need to be Sherlock Holmes to deduce that if ...Nh5 was played,
+the a future g5-g4 is being planned. Play after this was not very complicated.}
+) 9. c3 $6 {The most natural but unfortunate reaction.} ({The computer
+recommends} 9. Nh2 {, but I do not like this panicky continuation. Black
+replies} g6 {and prepares to castle long; his position is simply one to dream
+about.}) ({Here, in my view,} 9. Nc3 {is the best move. As I later discovered,
+precisely this move was taken into account as the main continuation in my
+earlier notes. The play which follows is similar to the way the game went, but
+it is much better for White to have a knight on c3 rather than a pawn:} g5 10.
+Nxe5 g4 11. d4 Bd6 12. g3 Bxe5 13. dxe5 Qxe5 {Here White may not have the
+resource Qd4 available to him, but on the other hand his knight is already
+developed. After the further moves} 14. h4 Bd7 {the position is still more or
+less level, but playing it with Black is considerably more pleasant: he will
+castle long and have the initiative – White's king and light squares are
+weak.}) 9... g5 10. Nxe5 ({After} 10. d4 {the move} exd4 ({During the game the
+continuation} 10... g4 $5 11. hxg4 Bxg4 12. dxc5 Qf6 {with a subsequent
+activation of further reserves appeared to me to be interesting and I took the
+decision to think more seriously about it if 10.d4 were actually played. Of
+course, the computer first thinks that "White is a piece up", but then it
+begins to be less and less optimistic. I let it calculate until it had
+evaluated the position as level, then I stopped the analysis of this line.
+Probably 10...exd4 is stronger, but I cannot exclude the fact that Black also
+has a great game after 10...g4.}) 11. cxd4 Bb6 {(a wonderful place for the
+bishop) is the simplest. Moreover, the computer can find nothing better than}
+12. Nh2 Nf6 13. e5 Nd5 {It is irrelevant how great Black's advantage is here
+– it is absolutely clear that White has lost the opening duel.}) 10... g4 11.
+d4 {This is obviously the only move,} ({It is even somewhat embarrassing for
+me to point out the variation} 11. hxg4 Qh4+ 12. Kg1 Ng3 {with mate on h1.})
+11... Bd6 12. g3 {Once more, the only continuation according to the computer.}
+Bxe5 {I think it would not be really appropriate to criticise this move. I
+took in the facts that I was facing no threats, but from a human point of view
+it seems somewhat strange to be dealing with development when it is possible
+to recover the material and be able to remain with an excellent position.} ({
+In reality, after} 12... Be6 $1 {the computer begins to be very worried for
+White. In the event of} 13. hxg4 $2 Bxe5 {White will soon be mated. Otherwise
+Black plays 0-0-0 and obtains a powerful attack in return for the pawn.}) 13.
+dxe5 Qxe5 14. Qd4 {The most logical continuation.} ({There is still the
+possibility of} 14. Kh2 {but it looks rather eccentric.}) ({And if} 14. h4 {
+then} Be6 {– the threat is the capture on g3, when} 15. Kh2 {can at least be
+met with} Qxe4 {winning a pawn.}) 14... Qe7 $5 {The decision, which is
+characteristic of my play in Berlin. In this case the plan brought me success;
+in a few other encounters it did not work, and in consequence I sometimes lost
+half a point, sometime the whole point. Be that as it may, this game turned
+out to be rather beautiful, which partially compensates for my losses.} ({
+My seconds wondered why I did not steer the struggle into an endgame with an
+extra pawn:} 14... Qxd4 15. cxd4 gxh3 16. Kh2 Be6 {Of course, I had also
+planned specifically this liquidation a few moves before. Black gets in f7-f5,
+White exchanges on f5, plays Nc3, Be3 and reacts to ...Nf6 with f2-f3. Of
+course Black has an advantage but his win is still a long way away and in view
+of the bishops of opposite colours White has chances of a draw.  During the
+game I got into a "reckless mood" and after the moves ...Rg8 and ...Nh5 I felt
+it a pity to go into an endgame. I noticed that after the retreat of the queen
+to e7 Black had good chances of gradually developing a dangerous attack. To
+put it like this: after the exchange of queens Black's advantage is
+objectively greater but after 14...Qe7 it is harder for White to play. If
+Black is lucky, the game can "win itself". That is what actually happened –
+my opponent did not manage to find the best defence.}) 15. h4 {As good as
+forced. If Black were to get in ...gxh3, he would then not only have a file
+for the attack but also have obtained an extra pawn.} c5 {The idea behind this
+move is to transfer the bishop to c6, to castle and to start the attack with
+f7-f5. The knight does not look best placed on h5, but in the event of play on
+the light squares it will not be possible for White to hold on to the pawn on
+e4, whilst the white king is very weak. I was of the opinion that Black has
+very good prospects here.} 16. Qc4 $2 {This is practically speaking the
+decisive mistake.} (16. Qd5 {would fail to} Nf6 {.}) ({but during the game I
+had seen that} 16. Qd3 Bd7 17. c4 {is ok. It is probably the only defensive
+idea here: plant the knight on d5 so that it fulfils the role of a barrier
+along the long diagonal even if after} O-O-O 18. Nc3 Rge8 19. Re1 Bc6 20. Nd5 {
+Black has without any doubt a wonderful position.} {At the board I thought that
+} Bxd5 ({I did, e.g., consider} 20... Qe5 {, but with precise moves the
+computer can to some extent hang on:} 21. Kg2 {because} f5 {is met with} (21...
+b6) (21... Rd7) 22. Bg5 {, it suggests for Black to instead simply improve his
+position with 21...b6 or 21...Rd7. Black is better, But White's position is
+capable of being defended – thus we can understand the evaluation of 0.5-0.6.
+}) 21. cxd5 Nf6 22. Bg5 Nxe4 $5 {was strong, but the computer starts to
+demonstrate some wonderful balancing acts:} 23. Kg1 $1 f6 24. Bf4 {with
+various tactical resources which allow White to save the game.} ({not} 24. Bxf6
+Qxf6 25. Rxe4 Qf5 26. Rae1 h5 {and after the fall of the d5-pawn White is
+losing.})) {I suppose that Levon did not particularly like all that and he
+found another, in itself very cunning, defensive option. He is planning Bg5,
+because Black will not now have the reply f7-f6.} 16... Be6 17. Qb5+ c6 18. Qa4
+{And now Black deprives his bishop of the c6-square, so that it cannot get on
+to the long diagonal. In addition Black cannot castle because then the a7-pawn
+is hanging. As I understand things, that was Aronian's idea and it would not
+be a bad one if the specific details did not reduce it to nothing..} ({18.Qa4
+could be regarded as the final mistake, but} 18. Qe2 f5 19. Bg5 Rxg5 20. hxg5
+f4 {would not help either – that would only be a slightly better version of
+what happened in the game.}) ({The computer recommends} 18. Qd3 {, but firstly,
+that does not fit in with White's last two moves and secondly his situation
+would have remained terrible even then:} Rd8 19. Qe3 (19. Qe2 f5) 19... Bc4 20.
+Rg1 (20. Re1 Rd3 21. Qh6 Qe5) 20... Rg6 21. Qe1 Bd3 {and White has major
+strategic, tactical and soon material problems. However, he would not lose
+immediately.}) 18... f5 $1 {This is a typical idea, but Levon overlooked it or
+did not notice in time its tactical justification – 19.exf5 Nxg3+!.  While
+he was thinking about his next move, I wondered what I would do in his place
+and suddenly I understood that White's position was absolutely hopeless. I was
+even amazed at how bad everything was for him. The computer also recognises
+that – if it is allowed some time, it gives roughly "-4" here. It was clear
+to me that the business was all over, but in a situation in which all ways
+appear to lead to Rome, it is also possible to make the wrong choice. So I
+used a lot of time for the rest of the game in order to check over several
+times even the simplest variations and not to do anything stupid – I have
+previously had sufficient negative experiences in this area. But fundamentally
+after f5-f4 Black's attack develops on its own.} 19. Bg5 (19. exf5 Nxg3+ $1 20.
+fxg3 Bd5+ 21. Kg1 Qe2 22. Rf2 Qe1+ {with mate.}) 19... Rxg5 {This move can
+hardly be considered a sacrifice.} 20. hxg5 f4 {White has no counterplay and
+is simply mated. Weiß hat kein Gegenspiel und wird einfach mattgesetzt.} 21.
+Qd1 Rd8 {Of course 21...fxg3 also wins.} 22. Qc1 fxg3 23. Na3 Rd3 $1 {I
+suppose that there were simpler ways, but I decided to bring the rook closer
+to the main theatre of action. It later turned out that this is the computer's
+first continuation.} 24. Rd1 Bd5 $1 {The only way to duff up such a position
+is by letting oneself be lulled to sleep by the plethora of available options.}
+({It was clear to me that after} 24... Rxd1+ 25. Qxd1 gxf2 {Black has an
+absolutely won position.  On the other hand, some of the variations arising
+after 24...Bd5 were so beautiful that I felt the urge to finish the game in
+style. And so at this point I spent my time above all not on uncomplicated
+calculations but on an inner battle with myself: "That is beautiful! / But why
+do you need to play it? Be a professional, take on d1 and f2 and win the game.
+" In the end the artist had the upper hand.}) 25. f3 ({When looking at the
+variation} 25. exd5 Qe4+ 26. Kg1 gxf2+ {for safety's sake I calculated it out
+to mate, which was not particularly difficult.}) 25... gxf3 26. exd5 ({I had
+been hoping for} 26. Rxd3 {:} Qxe4 $1 {of course I wanted to take with the
+queen, although 26...Bxe4 would also be more than sufficient:} 27. Re3 f2+ 28.
+Rxe4+ Bxe4# {, but that would have been somewhat too masochistic of Levon.  In
+the final position Black is down by a queen and an exchange. I found it a pity
+that the knight is still there on h5. It was even more impressive without it.
+When I discovered this variation I could no longer resist the wish to play 24..
+.Bd5.}) 26... Qe2 {This too I checked over some five times – in the end the
+queen is really pinned.} 27. Re1 ({Or} 27. Qc2 g2+ 28. Kh2 g1=Q+ 29. Kxg1 f2+
+30. Kh2 {and here the simplest is} Rh3+ $1 31. Kxh3 Qf3+ 32. Kh4 Qg3+ 33. Kxh5
+Qh3# {Again very beautiful.}) 27... g2+ {White resigned.} (27... g2+ 28. Kh2 ({
+After} 28. Kg1 {the number of black queens increases.} f2+ 29. Kxg2 (29. Kh2
+g1=Q+ 30. Rxg1 f1=Q+) 29... f1=Q# {a rare mating pattern. Taking on e1 would
+also be mate, but I would have chosen the double check.}) 28... g1=Q+ 29. Kxg1
+f2+ 30. Kh1 Rh3+ 31. Kg2 f1=Q# {This game pleased both experts and spectators.
+All in all it is not complicated, but impressive and the plan with ...Rg8 is
+rather "fresh" and unexpected. It brought me aesthetic enjoyment, though all
+that glitters is not gold: the game I won against Levon with White is more
+interesting and more complex, so that I rate it higher from the point of view
+of the art of chess. But I understand that the struggle we have just analysed
+looks very spectacular and thus is not really such a usual occurrence in
+supertournaments - that is why it attracted so much attention.}) 0-1
+

@@ -1,0 +1,54 @@
+[Event "Tata Steel Masters"]
+[Site "?"]
+[Date "2019.01.18"]
+[Round "6"]
+[White "Duda, J."]
+[Black "Giri, A."]
+[Result "0-1"]
+[Annotator "DF"]
+[PlyCount "88"]
+[EventDate "2019.01.18"]
+
+{[%evp 0,88,19,25,16,5,17,-22,-50,-91,-23,-10,24,-22,-11,-6,-12,-12,-16,-26,
+-32,-35,0,0,5,11,-9,2,18,-39,-39,-80,-43,-56,-33,-74,-74,-39,57,-25,-38,-84,
+-84,-94,-79,-95,-83,-77,-77,-77,-77,-76,-122,-145,-130,-118,-82,-122,-122,-127,
+-107,-116,-110,-138,-113,-110,-110,-142,-127,-118,-127,-112,-133,-164,-184,
+-190,-192,-229,-211,-238,-235,-215,-179,-183,-183,-230,-212,-188,-402,-515,
+-506]} 1. e4 e5 2. Nf3 (2. Nc3 Nf6 3. g3 Bc5 4. Bg2 Nc6 5. Nge2 {is the 'big
+brother' of the line White played here, e.g.} a6 6. O-O d6 7. Nd5 Nxd5 8. exd5
+Ne7 9. d4 Ba7 10. dxe5 dxe5 11. b3 O-O 12. Ba3 Re8 13. c4 Bg4 14. h3 Bxe2 15.
+Qxe2 Nf5 16. Kh2 $14 {Adhiban,B-Mikhalevski,V Berlin 2015}) 2... Nc6 3. g3 {
+For some reason, this Zviaginsev-espoused line hasn't attracted the cult
+following of the related Glek line, which involves the same fianchetto with
+the king's knight on e2 instead.} Nf6 4. d3 g6 5. Bg2 Bg7 6. c4 {This is some
+next-level Alpha Zero stuff.} d6 7. h3 O-O 8. Nc3 Nd7 9. Bg5 f6 10. Be3 f5 $6 {
+This makes the game interesting, but I believe White has an advantage here
+with best play.} (10... Nc5 $11 {is extremely comfortable for Black. White had
+better hurry if he ever wants to play d4, but} 11. d4 exd4 12. Nxd4 f5 13. Nxc6
+bxc6 14. exf5 Bxf5 15. O-O Rb8 {is just a position.}) 11. exf5 gxf5 12. Qd2 ({
+Astonishingly, the direct} 12. Ng5 Nf6 13. Qd2 {is good, mostly by virtue of
+having ruled out ...Nd7-c5-e6.} h6 14. Nf3 Kh7 15. O-O-O $132) (12. Bg5 Nf6 13.
+O-O {functions similarly.}) 12... Nc5 13. O-O Ne6 14. Nd5 $6 {It is difficult
+to foresee, when playing this, that the knight will become trappable in the
+near future.} (14. Ne2 {was the way to hold off ...f4, and after the very
+natural} Qf6 {the somewhat artificial} 15. Ng5 {works to some extent.} f4 16.
+Nxe6 Bxe6 (16... fxe3 17. fxe3 $1 $18 {is the point.}) 17. gxf4 Qh4 18. f5 Rxf5
+(18... Bxf5 19. Bg5 Qh5 20. Ng3 Qg6 21. Nxf5 Rxf5 22. Be3 Nd4 {is maybe a
+slight something too.}) 19. Rae1 Raf8 20. Ng3 Rf3 {Black has good play here,
+but White is solid for now.}) 14... f4 15. gxf4 Ncd4 16. Bxd4 exd4 17. Qa5 {
+White has to resort to ideas like this 'not to resign immediately', to quote
+Svidler. The point of course is that to force ...c6 through, Black must either
+trade queens or weaken the long diagonal.} b6 {A very human move.} (17... Kh8 {
+is given an astronomical -3.7 by Stockfish, presumably because the 22.Bxd5 of
+the game will no longer give check, and White lacks a useful waiting move. The
+continuation then might be} 18. Ng5 Nxg5 19. fxg5 Qxg5 20. f4 Qh5 21. Qxc7 Bxh3
+$19 {and mate is not far off.}) 18. Qe1 c6 19. Ng5 (19. f5 Rxf5 20. Qe4 {
+is another tricky continuation, but there isn't a good way to take the weak
+c6-pawn after} Rf7 21. Nb4 Qf8 $1 {so Black is simply much better.}) 19... Re8
+20. Qd1 Nxg5 21. fxg5 cxd5 22. Bxd5+ Be6 23. Bxa8 Qxa8 24. Qh5 Bf5 {There
+isn't actually a whole lot more to say. White's opening was disappointing and
+then he didn't quite deliver with enough tricks to stay afloat.} 25. Rad1 Re5
+26. Rd2 Qd8 27. h4 Bh3 28. Qf3 Bxf1 29. Kxf1 h6 30. gxh6 Bxh6 31. Re2 Qe7 32.
+Qg4+ Kf7 33. Qf3+ Kg7 34. Qg4+ Kf7 35. Qf3+ Qf6 36. Qb7+ Kg6 37. Rxe5 dxe5 38.
+Ke2 Qf4 39. Kf1 Kh5 40. b4 Qc1+ 41. Kg2 Kxh4 42. Qxa7 Qg5+ 43. Kf1 Kh3 44. Qh7
+Qh5 0-1

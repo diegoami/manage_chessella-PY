@@ -1,0 +1,205 @@
+[Event "28 Rijen"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Prokop, F. J."]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/rP2p3/8/8/2k5/6P1/1K3R2 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1924.??.??"]
+
+{White to move and win. This Prokop study from his early years shows a nice
+trick that should be known to every practical player in the rook endgame.} 1.
+Rc1+ Kd4 (1... Kb4 2. b7 ({but of course like n the main variation also} 2. Rc6
+{would work.}) 2... Rb6 3. Rc2 Ka3+ 4. Ka1 Rxb7 5. Ra2+ Kb4 6. Rb2+) 2. Rc6 Kd5
+{White can unpin now...} 3. b7 $1 Kxc6 {...and has to choose the correct
+promotion, as Black could exchange the queen on b6, but the knight only on a6
+losing a crucial tempo.} 4. b8=N+ $1 Kb7 5. Nxa6 Kxa6 6. g4 {and the pawn
+decides.} 1-0
+
+[Event "Narodny Listy (correction: July 1923)"]
+[Site "?"]
+[Date "1923.04.08"]
+[Round "?"]
+[White "Prokop, F. J."]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/K7/4N3/3k4/5R2/6n1/4p3/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1923.??.??"]
+
+{This study, as corercted by Prokop in July 1923, is a nice little puzzle.
+White has to find the right trick to secure the draw, but once found it is
+easy to equalize. Just as with the likely fictional tale of the egg of
+Columbus: Getting the idea is the real point, not executing it. The Spanish
+explorer was sitting together with Queen Isabella and some men and women of
+blue blood, and one of them asked why his expeditions were so great if
+everyone can do them. He took an egg and asked the audience to make it stand.
+Naturally, they tried but the egg always fell over. Columbus took the egg,
+pressed against the bottom, so the outer hull would crack but not break, and
+had it stand up like that by having flattened the egg. Then he said something
+among the lines of: "Doing is not the issue. Thinking is!"} 1. Rf6 $1 e1=Q (
+1... Nh5 2. Nc7+ Kd4 3. Re6) 2. Nf4+ {Here it should be easy to understand the
+idea: White has a perpetual check which can't be stopped without losing the
+queen by a fork on d3 (Kc5) or g2 (Ke3).} Kc4 3. Rc6+ Kb5 4. Rb6+ Ka5 5. Ra6+
+Kb5 6. Rb6+ Kc4 7. Rc6+ Kd4 8. Rd6+ Kc4 9. Rc6+ {and it is a perpetual check.}
+1/2-1/2
+
+[Event "FIDE Revue"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Prokop, F. J."]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k7/Bp6/1R6/P7/8/p7/r1b5/2K4R w - - 0 1"]
+[PlyCount "35"]
+[EventDate "1954.??.??"]
+
+{This work from Prokop's late years shows a "Pattwanderung", as the German
+term is, a long walk out of a stalemate. The theme was most famously worked on
+by the Swiss master Moriz Henneberger (16.x.1878-7.iv.1959), a strong player
+who was five times Swiss champion (of this three times jointly). It's unknown
+if this study was inspired by Henneberger's works, but at least it is in his
+style of having a little introduction prior to getting to the "meat" of the
+study.} 1. a6 Be4 $1 (1... bxa6 2. Rhh6 Kxa7 {and now something seems to be
+wrong in the database I use, as White supposedly wins after 3.Rbf6 when 3.-Be4
+is an easy draw. Probably 3.Rbe6 is meant, but White also can win Pa6 first:}
+3. Rxa6+ Kb8 4. Rab6+ Ka7 5. Rbe6 Bf5 6. Re7+ Kb8 7. Rh8+ Bc8 8. Ree8 $18) 2.
+axb7+ Bxb7 3. Rh7 Ra1+ 4. Kd2 (4. Kc2 $2 Be4+) 4... a2 5. Rbxb7 Rd1+ {and the
+walk out of stalemate begins. There might be several ways to walk, but White
+eventually needs to either interpose with Rb7 or his king on the seventh rank
+while being able to take the rook without causing a stalemate. Black having to
+get rid of Pa2 is his downfall, as it enables White to control f6 with the
+bishop.} 6. Ke3 Rd8 $1 7. Bd4 a1=Q 8. Bxa1 Rd3+ 9. Kf4 Rf3+ 10. Ke5 Re3+ 11.
+Kd6 Rd3+ 12. Kc7 Rc3+ 13. Kd7 $1 ({Careful! There is only a draw after} 13. Kd8
+$2 Rc8+ $11) 13... Rd3+ 14. Ke8 Rd8+ 15. Ke7 $1 Re8+ 16. Kf6 Re6+ 17. Kf7 Rf6+
+18. Bxf6 {and it is done. Not necessarily difficult, but in the one in a
+million case where it could become important in a game, it is good to know.}
+1-0
+
+[Event "Manchester Guardian"]
+[Site "?"]
+[Date "1950.04.27"]
+[Round "?"]
+[White "Prokop, F.J."]
+[Black "correction: Lommer, Harold"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k3K3/8/8/8/8/1Pp5/1nB5/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1950.??.??"]
+
+{Correction by Harold Lommer, British Chess Magazine/9 1950.. The original
+study lacked the black pawn on c3, allowing a stalemate defense (here: 5.-Ka5
+6.Kc5 Nd3+ 7.B:d3), which does not work anymore if Black still can move the
+pawn after his knight is taken. The study itself shows a nice fight for the
+opposition.} 1. Ke7 $1 ({White must be careful, for example} 1. Kd7 $2 Kb7 2.
+Kd6 Kb6 3. Kd5 Kb5 4. Kd4 Kb4 $11 {with mutual zugzwang and draw.}) 1... Ka7 $1
+({Seeing the mutual zugzwang above, it follows that the previous positions
+also must be mutual zugzwangs, so it does not work to play} 1... Kb7 2. Kd7 $1
+$18 {where White easily wins.}) 2. Ke6 $1 Ka6 3. Ke5 Ka5 $1 4. Ke4 $1 {(Black
+now lacks 4.-Ka4)} Kb5 5. Kd5 $1 {White has reached the zugzwang position with
+Black to move, and wins. A simple puzzle that has a basic motif often seen in
+endgames.} Kb4 6. Kd4 $1 Ka3 7. Kxc3 $18 1-0
+
+[Event "L'?chiquier (incorrect)"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Prokop, F. J."]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6R1/8/k1p1p3/p1P4P/pPrP4/4K3/8/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1926.??.??"]
+
+{This study from February 1926 stems from a game between Lasker and Spielmann,
+Moscow 1925. A year earlier, in 1924, Capablanca produced his famous double
+pawn sacrifice against Tartakower in New York. The both games are given in
+this list below without comments. So White is to move and win, reaching after
+the second move a position that would have been reached by Lasker if Spielmann
+had played 37.-Rb4 instead of 37.-Rc1. The study has a rich try-play, i.e.
+refutations if White makes a wrong first move, but to me seems to add not much
+over the game analysis. In all fairness, it was (according to Suetin) Prokop
+who had first found the move 38.Kf4 in the game's variation (here in the study:
+3.Kf4). As this shows the important point of Prokop's commentaries on master
+games and how such games can turn into endgame studies, I add the study here
+even as it seems to be incorrect - readers are invited to find improvements
+for White.} 1. Ra8+ $1 (1. h6 $2 Rc3+ $1 2. Ke4 Rh3 $11) (1. Rh8 $2 axb4 2. h6
+Rc3+ 3. Kd2 Rh3 4. h7 Kb7 $1 $19) (1. bxa5 $2 a3 2. Rg2 Rc3+ 3. Kf4 Kxa5 4. Kg4
+Rd3 5. h6 Rxd4+ 6. Kg5 Kb4 7. h7 Rd8 8. Kf6 Rh8 9. Kg7 Rxh7+ 10. Kxh7 Kxc5 $11
+{and Pa3 is so powerful that White almost can be glad about the easy draw.}) (
+1. Kd3 $2 Rxb4 2. Rg2 Rb3+ 3. Kc4 Rh3 $11) 1... Kb7 ({Critical is} 1... Kb5 2.
+Rb8+ Ka6 3. Rb6+ Ka7 4. bxa5 a3 5. Rb3 {which obviously makes no sense, as} a2
+6. Ra3 Rc3+ $19 {would win for Black. Possibly 5.Rb1 wins instead but the line
+isn't convincing either way.}) ({There also seems to be no cure here, for
+example} 1... Kb5 2. Rb8+ Ka6 3. Rb6+ Ka7 4. b5 cxb5 5. Rxb5 Ka6 6. Rb6+ Ka7 7.
+Rb2 e5 $1 8. dxe5 Rxc5 9. Kf4 a3 10. Rh2 Rc4+ 11. Kf5 Ra4 12. Ra2 Rh4 13. Kg6
+Rg4+ 14. Kf6 Rf4+ 15. Ke7 Rh4 16. Rxa3 Rxh5 $11 {with a draw according to the
+EGTB.}) 2. Rxa5 Rxb4 ({As White has an extra pawn, easier than in the game is} 
+2... Rc1 3. Kf4 Rh1 4. Kg5 Rg1+ 5. Kf6 Rh1 6. Kxe6 ({I believe} 6. Kg6 $18 {is
+better.}) 6... Rxh5 7. Rxa4 Rd5 ({Black should try to stay away from the
+poisoned square with} 7... Rg5 8. b5 cxb5 9. Ra5 Kc6 10. Ra6+ Kc7 11. Ra8 $1
+$16 {and I am uncertain if White actually will win.}) 8. b5 cxb5 9. Ra7+ Kxa7
+10. Kxd5 $18) 3. Kf4 $1 (3. Ke4 $2 Rb1 4. Kf4 Rh1 5. Kg5 Rg1+ 6. Kh6 Ra1 $1 7.
+Kh7 a3 8. h6 a2 $11 {and White can't make progress.}) (3. Kf2 $2 Rxd4 4. Kg3 e5
+5. h6 e4 6. h7 Rd8 7. Rxa4 Rh8 $11) 3... Rxd4+ 4. Kg5 Rd1 5. Rxa4 $1 ({White
+must take the pawn, as just pushing his pawn would fail:} 5. h6 $2 Rg1+ 6. Kf6
+Rh1 7. Kg7 Rg1+ 8. Kh8 Rh1 9. h7 Ra1 $11 {and again there is no progress for
+White as his rook is in a cage and the king has no squares.}) 1-0
+
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Spielmann, Rudolf"]
+[Result "1-0"]
+[ECO "D43"]
+[PlyCount "85"]
+[EventDate "1925.11.10"]
+[EventRounds "21"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "2004.01.01"]
+
+1. c4 e6 2. d4 d5 3. Nf3 Nf6 4. Bg5 h6 5. Bxf6 Qxf6 6. Nc3 c6 7. e3 Nd7 8. Bd3
+Bb4 9. O-O Bxc3 10. bxc3 dxc4 11. Bxc4 e5 12. dxe5 Nxe5 13. Nxe5 Qxe5 14. Qd4
+Qxd4 15. exd4 Be6 16. Rfe1 Kd7 17. Bxe6+ fxe6 18. Re5 Rhf8 19. Rae1 Rae8 20. f3
+Rf5 21. Kf2 Rxe5 22. Rxe5 b5 23. Ke3 Rb8 24. h4 Rb6 25. a4 a5 26. Kd3 Rb8 27.
+Kc2 Rb7 28. c4 bxa4 29. Rxa5 Rb4 30. Kd3 Kc7 31. c5 Kb7 32. Ke4 h5 33. g4 hxg4
+34. fxg4 g6 35. Ke5 Rc4 36. h5 gxh5 37. gxh5 Rc1 (37... Rb4 38. Kf4 $1 $18 {
+Prokop} (38. Kxe6 Rxd4 39. Kf6 $18 {also wins but is more difficult.})) 38.
+Rxa4 Rh1 39. Kd6 Rxh5 40. Rb4+ Kc8 41. Kxc6 Rd5 42. Ra4 Kb8 43. Kb6 1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1924.??.??"]
+[Round "6"]
+[White "Capablanca, Jose Raul"]
+[Black "Tartakower, Saviely"]
+[Result "1-0"]
+[ECO "A85"]
+[PlyCount "103"]
+[EventDate "1924.03.16"]
+[EventRounds "22"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2004.01.01"]
+
+1. d4 e6 2. Nf3 f5 3. c4 Nf6 4. Bg5 Be7 5. Nc3 O-O 6. e3 b6 7. Bd3 Bb7 8. O-O
+Qe8 9. Qe2 Ne4 10. Bxe7 Nxc3 11. bxc3 Qxe7 12. a4 Bxf3 13. Qxf3 Nc6 14. Rfb1
+Rae8 15. Qh3 Rf6 16. f4 Na5 17. Qf3 d6 18. Re1 Qd7 19. e4 fxe4 20. Qxe4 g6 21.
+g3 Kf8 22. Kg2 Rf7 23. h4 d5 24. cxd5 exd5 25. Qxe8+ Qxe8 26. Rxe8+ Kxe8 27. h5
+Rf6 28. hxg6 hxg6 29. Rh1 Kf8 30. Rh7 Rc6 31. g4 Nc4 32. g5 Ne3+ 33. Kf3 Nf5
+34. Bxf5 gxf5 35. Kg3 Rxc3+ 36. Kh4 Rf3 37. g6 Rxf4+ 38. Kg5 Re4 39. Kf6 Kg8
+40. Rg7+ Kh8 41. Rxc7 Re8 42. Kxf5 Re4 43. Kf6 Rf4+ 44. Ke5 Rg4 45. g7+ Kg8 46.
+Rxa7 Rg1 47. Kxd5 Rc1 48. Kd6 Rc2 49. d5 Rc1 50. Rc7 Ra1 51. Kc6 Rxa4 52. d6
+1-0
+

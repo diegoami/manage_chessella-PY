@@ -1,0 +1,39 @@
+[Event "World Junior U20 Girls 2018"]
+[Site "Gebze"]
+[Date "2018.09.07"]
+[Round "4"]
+[White "Schneider, Jana"]
+[Black "Hu, Yu A"]
+[Result "*"]
+[ECO "B90"]
+[WhiteElo "2190"]
+[BlackElo "2009"]
+[Annotator "Karsten Mueller"]
+[SetUp "1"]
+[FEN "1k6/2R5/8/1pPK4/1r6/8/8/8 w - - 0 78"]
+[PlyCount "17"]
+[EventDate "2018.??.??"]
+[SourceTitle "1003"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+78. Kc6 {Umbrellas are useful, in real life and in chess. In chess endgames
+pawns often work as an umbrella and protect the king from checks by the enemy
+rook.} {[%tqu "En","Black to play and draw","","","b4g4","",0,"b4a4","",3]} Ra4
+$1 {was necessary, e.g.} (78... Rg4 $2 {The game continuation. But this allows
+the white king to find shelter.} 79. Rb7+ $2 (79. Kb6 $1 {was the move to play:
+} b4 80. Rh7 Rg8 81. c6 b3 82. Rb7+ Kc8 83. Ra7 Kd8 (83... Kb8 84. c7+ Kc8 85.
+Ra8+ $18) 84. Ra8+ Ke7 85. Rxg8 b2 86. Rg1 $18) 79... Kc8 80. Kb6 b4 {Running
+from giving cover.} 81. Ra7 b3 82. Ra8+ (82. c6 $2 Rb4+ 83. Kc5 b2 84. Kxb4
+b1=Q+ 85. Ka5 Qg1 86. Ka6 Qd4 (86... Qc5 $2 87. Ra8+ Kc7 88. Ra7+ Kxc6 89. Rc7+
+Kxc7 {stalemate}) 87. Rd7 Qc5 88. Rc7+ Kb8 89. Rb7+ Ka8 90. Rc7 Qc4+ 91. Kb6
+Qd4+ 92. Kb5 Qd5+ 93. Ka4 Qd6 94. Rb7 Qxc6+ 95. Rb5 Ka7 $19) 82... Kd7 83. c6+
+Ke7 84. c7 b2 85. Re8+ $1 Kd6 (85... Kxe8 $2 86. c8=Q+ Ke7 87. Qc5+ Ke6 88.
+Qe3+ Kd5 89. Qb3+ Rc4 90. Qb5+ Kd4 91. Qxb2+ $18) 86. Rd8+ Ke7 87. Rd1 (87.
+c8=Q $4 b1=Q+ 88. Ka7 Ra4+ 89. Qa6 Rxa6+ 90. Kxa6 Kxd8 $19) 87... Rb4+ 88. Ka6
+Rc4 $1 89. Rb1 Kd7 {draw.}) 79. Kb6 (79. Kxb5 Kxc7 80. Kxa4 Kc6 $11) (79. Rh7
+Ra6+ 80. Kxb5 Rg6 {leads to a Philidor endgame. After} 81. c6 Rg1 82. Kb6 Rb1+
+$11 {the white c-pawn is too far advanced to proctect its king from the checks
+by Black's rook.}) 79... Ra6+ 80. Kxa6 Kxc7 81. Kxb5 Kb7 82. c6+ Kc7 83. Kc5
+Kc8 $1 84. Kd6 Kd8 85. c7+ Kc8 86. Kc6 {stalemate.} *
+

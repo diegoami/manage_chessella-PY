@@ -1,0 +1,43 @@
+[Event "Gibraltar Masters"]
+[Site "Caleta Hotel, Gibraltar"]
+[Date "2019.01.29"]
+[Round "8.46"]
+[White "Tsolakidou, Stavroula"]
+[Black "Tan, Zhongyi"]
+[Result "0-1"]
+[ECO "C42"]
+[WhiteElo "2414"]
+[BlackElo "2502"]
+[Annotator "Jan"]
+[SetUp "1"]
+[FEN "8/5p1p/5p2/1p1K1k2/8/b6P/3B1PP1/8 w - - 0 43"]
+[PlyCount "35"]
+[EventDate "2019.??.??"]
+
+43. g4+ $2 {The Greek prodigy plays a logical looking move, driving the black
+king away. However, black can now take the white g4-pawn under siege.} ({After
+} 43. Be3 $1 Bf8 44. Bd2 Ba3 45. Be3 Bf8 46. Bd2 b4 47. Kc4 Ke4 48. f3+ Ke5 {
+white acquired a fortress.}) 43... Kg6 44. Ke4 f5+ $1 45. Ke5 (45. gxf5+ Kh5 $1
+46. Bf4 Kh4 $19) 45... b4 46. Kd4 b3 47. Kd3 Bc5 48. f3 Bd4 49. Bf4 (49. Kxd4
+b2 $19) 49... Kf6 50. Bh6 Ke6 51. Bd2 Be5 52. Be3 f4 53. Bf2 {from here on the
+black king takes the pilgrimage route to Santiago de Compostela.} Kd5 54. Be1
+Kc5 55. h4 Kb5 56. Bd2 Ka4 57. g5 Ka3 58. Bc1+ Ka2 59. Ke4 Bd6 60. Kd4 0-1
+
+[Event "Gibraltar Masters 2019"]
+[Site "Caleta ENG"]
+[Date "2019.01.27"]
+[Round "6.17"]
+[White "Muzychuk, M."]
+[Black "Melkumyan, H."]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2540"]
+[BlackElo "2660"]
+[SetUp "1"]
+[FEN "2r3k1/1R3p1p/2P1b3/8/pp6/2b2P2/P2N1P1P/5RK1 w - - 0 29"]
+[PlyCount "31"]
+[EventDate "2019.01.22"]
+
+29. c7 $1 Bxd2 30. Rd1 Bc3 31. Rd8+ Kg7 32. Rxc8 Bxc8 33. Rb8 Bh3 34. c8=Q Bxc8
+35. Rxc8 Kf6 36. Rc5 a3 37. Kf1 Ke6 38. Ke2 Kd6 39. Rc4 Kd5 40. Kd3 Be1 41. Re4
+Bc3 42. Kc2 f5 43. Rh4 Be5 44. Kb3 1-0

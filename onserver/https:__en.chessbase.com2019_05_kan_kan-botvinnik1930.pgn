@@ -1,0 +1,51 @@
+[Event "Match/TradeUnions Leningrad-Moscow "]
+[Site "Leningrad"]
+[Date "1930.05.02"]
+[Round "2.2"]
+[White "Kan, Ilia Abramovich"]
+[Black "Botvinnik, Mikhail Moisevich"]
+[Result "1-0"]
+[ECO "D36"]
+[Annotator "Primel,D"]
+[PlyCount "79"]
+[EventDate "1930.05.01"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "URS"]
+[SourceTitle "EXT 2010"]
+[Source "ChessBase"]
+[SourceDate "2010.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2010.11.25"]
+[SourceQuality "1"]
+
+1. c4 e6 2. Nf3 Nf6 3. Nc3 d5 4. d4 Nbd7 5. Bg5 Be7 6. e3 O-O 7. Rc1 (7. Qc2 c6
+8. Rd1 {L'alternative}) 7... c6 8. Qc2 b6 $6 (8... a6 $142) (8... Re8 9. a3 $1
+{[%csl Gf1] L'idée est de retarder au maximum le développement du B afin de
+forcer dc4 sans perdre un tempo} a6 10. h3 h6 11. Bh4 dxc4 12. Bxc4 $14) (8...
+Ne4 9. Bxe7 Qxe7 10. Bd3 $5) 9. cxd5 $1 exd5 10. Bd3 $14 {[%csl Rc6]} h6 11.
+Bh4 $146 (11. Bf4 Bb7 (11... Nh5) 12. g4 $5 {Reti,R-Conde,A Hastings 2223 1922
+(2) 0-1}) (11. h4 $5 {[%csl Re1] Personne ne semble avoir tenté cette idée car
+les blancs n'ont plus la possibilité de jouer le 000 après Rc1} Re8 12. Ke2 Nf8
+{[%csl Gh7]} 13. Ne5 {[%cal Gf2f3,Gg2g4]} Bb7 14. g4 c5 $1 15. Bxf6 Bxf6 16. g5
+Bxe5 $1 $17) 11... Bb7 12. O-O Re8 13. Bg3 Nf8 14. h3 a6 15. Qb3 $5 $14 {
+[%csl Rb6][%cal Gb3b7] Empêche la libération noire par c6c5} Ne6 {[%cal Gc6c5]
+Les noirs espéraient se libérer par c5 après Ne6 mais Bf5 menace d'échanger le
+Ne6 pour empêcher le contre-jeu adverse} 16. Bf5 $1 (16. Rfd1 $143 c5 {[%cal
+Gc5c4]} 17. Bf5 c4 18. Qc2 b5 $132) 16... Nd7 (16... c5 $2 17. Bxe6 fxe6 18.
+dxc5 Bxc5 {[%csl Rd5]} 19. Na4 $36 {[%csl Rb6,Rc5,Rd5][%cal Gf1d1] Malgré la
+paire de B, les noirs ont des grosses faiblesses de structure.}) 17. Bxe6 (17.
+e4 $142 $1 {[%cal Gb3e6,Gf5e6]}) 17... fxe6 18. Ne5 (18. e4 $5 {Moins bon
+qu'au coup précédent mais les blancs gardent un petit avantage.}) 18... Nxe5
+19. Bxe5 a5 {[%cal Gb7a6]} 20. f4 $5 {[%csl Ge5]} (20. a4 $143 Ba6) 20... Ba6
+21. Rf3 Ra7 22. Qc2 Bh4 23. Qg6 Rf7 24. Rc2 Qe7 25. Nd1 (25. Na4 {[%csl Rb6]}
+Qb4 26. g3 Qxa4 27. b3 $1 Qb4 28. gxh4 {[%csl Rg7][%cal Gc2g2,Gg6h6]}) 25...
+Bf6 26. Rg3 $36 Bxe5 27. dxe5 (27. fxe5 $2 Rf1+) 27... d4 $1 28. Rxc6 Qb4 {
+[%cal Gb4e1,Ge1g1,Ge1d1]} 29. Qc2 (29. Rxe6 Qe1+ $2 {les noirs n'ont pas le
+temps de prendre la pièce.} 30. Kh2 Rxe6 31. Qxe6 Qxd1 32. Qe8+ Rf8 33. Qg6 $18
+{[%csl Ge5][%cal Ge5e8]}) 29... Qe1+ 30. Kh2 Be2 31. Rxe6 $1 Rd8 $2 (31... Rxe6
+$8 32. Qc8+ Kh7 33. Qxe6 Bh5 34. Qc8 $1 {[%cal Ge5e6]} Bxd1 35. e6 Re7 36. Qf8
+{[%cal Gf8e7,Gf8g7]} (36. Qd7 $2 Qb4) 36... Qb4 37. a3 Qc5 38. exd4 $1) 32.
+Rxh6 d3 33. Qb3 Bxd1 34. Qxb6 Re8 35. Qg6 Ba4 36. e6 Rxe6 37. Qh7+ Kf8 38. Rxe6
+Rd7 39. Qh8+ Kf7 40. Qe8# {Botvinnik s'est rarement fait maté!} 1-0
+

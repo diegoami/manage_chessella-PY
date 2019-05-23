@@ -1,0 +1,43 @@
+[Event "Tata Steel Masters"]
+[White "Vidit, S"]
+[Black "Carlsen, M"]
+[Site ""]
+[Round "3"]
+[Annotator "Daniel Fernandez"]
+[Result "1/2-1/2"]
+[Date "2019.01.14"]
+[PlyCount "261"]
+
+1. Nf3 {} Nf6 2. g3 g6 3. c4 Bg7 4. Bg2 0-0 5. Nc3 c5 6. d4 d6 7. dxc5 (7. 0-0 {is the main move and now most people prefer} Nc6 {over the
+'ICC Gambit' line of ...cxd4 and only then ...Nc6, although the latter is
+fully playable. Carlsen has lost a game on the Black side of this, albeit
+after playing some rather strange moves. 1-0 (55) Mamedyarov,S-Carlsen,M Biel
+2018} )dxc5 8. Qxd8 Rxd8 9. Ne5 Ne8 10. Nd3 Nd6 11. Bf4 (11. Nxc5 Nc6 12. 0-0 Nxc4 {is an excellent position for calculators, as the possibility of
+getting a +1 advantage with either side is quite strong.} )Na6 (11... Nxc4 12. Rc1 {now virtually obliges} Nc6 {in order to keep attacking b2 but
+defend against the threat of Nd5. However Black could be slightly worse after} 13. Bxc6 bxc6 14. Na4 $14 {and certainly Carlsen wouldn't enjoy the static
+disadvantage here.} )12. Rc1 {Safest. White's play gives the impression that
+he's content with a draw, and to be honest, most players under 2750 would
+agree with him.} (12. Nd5 Kf8 {covers all bases and Black can continue with ...
+Bf5 next, completing development.} )(12. Bxd6 exd6 (12... Bxc3+ $5 13. bxc3 Rxd6 $13 {could well be a position the engine doesn't get. I wouldn't be
+surprised if Black were slightly better here, due to some unstoppable chain of
+untangling moves.} )13. Nd5 Bd7 14. 0-0 Rab8 $11 )Bf5 13. 0-0 (13. Na4 {
+sensibly keeps the a6-knight in place for now, but with so many pieces on the
+board it isn't totally surprising that the game would continue, for instance
+after} Be4 14. Bxe4 Nxe4 15. 0-0 Nb4 $11 )Bxd3 14. exd3 Nb4 15. Rfd1 Rac8 16. a3 Nc6 17. Bxd6 (17. g4 {is possible, if rather maximalist. White would
+like to take on c6, exchange a pair of rooks, and then play b4 deep into some
+rook and minor piece ending. Unfortunately, Black has a few answers, like} e6 18. Bxc6 Rxc6 19. Ne4 Nxe4 20. dxe4 Rxd1+ 21. Rxd1 Bd4 $1 $11 )Rxd6 18. Ne4 Re6 19. Nxc5 (19. Rb1 {It isn't yet advisable to go passive with this many
+pieces on the board.} Nd4 20. Nc3 Rc7 21. b4 Ne2+ 22. Nxe2 Rxe2 23. bxc5 Bd4 24. Rxb7 Rxc5 {could still be protractedly unpleasant.} )Re2 20. b4 b6 21. Bxc6 Rxc6 22. Nb3 (22. Ne4 Bd4 {leaves White tied up: Rd2 loses the pawn
+back, ...Ra2 follows most moves, and} 23. Re1 {may simply be ignored.} Rb2 $1 $15 (23... Ra2 24. Nc3 $1 Rxa3 25. Nb5 Rxd3 26. Nxa7 Rf6 27. Re2 $132 {and
+both sides are playing on.} ))Ra2 23. d4 (23. c5 {was the simplest way
+to do things:} Rxa3 24. cxb6 Rxc1 25. Rxc1 $1 axb6 26. Rc8+ Bf8 27. Nd4 Rxd3 28. Nc6 e6 (28... b5 29. Nxe7+ Kg7 30. Nc6 Rc3 31. Na7 Rxc8 32. Nxc8 Bxb4 33. Na7 $11 )29. Rb8 $11 )Rxa3 24. d5 Rc7 25. Nd4 Bxd4 26. Rxd4 Ra4 27. c5 $15 {Leading almost by force to the 4-v-3 ending that arose in the game.} (27. Rb1 $11 {is possible, if passive. That being said, the rook on a4 doesn't
+contribute much right now.} )bxc5 28. Rdc4 Rd7 29. bxc5 Rxc4 30. Rxc4 Rxd5 31. c6 Rd8 32. Ra4 Ra8 33. c7 {White hurries to take the a-pawn, else it
+might not be there any longer.} Rc8 34. Rxa7 Kf8 35. g4 f6 36. Kg2 (36. h4 Ke8 37. g5 fxg5 38. hxg5 Kd7 39. Kg2 Rxc7 40. Ra8 {is perhaps the easiest way of
+setting up a drawing construct} )Ke8 37. Ra3 Rxc7 38. Ra8+ Kf7 39. Rh8 Kg7 40. Re8 h6 41. Kg3 Ra7 42. Kg2 h5 ({One possibility is to try and arrange
+to take on h5 with a rook instead. The timeline is roughly as in the main line
+I give.} 42... Kf7 43. Rh8 Ra4 $5 44. Kg3 (44. f3 $1 {could be better.} Ra2+ 45. Kg3 Kg7 46. Re8 Re2 47. h4 {and Black has no time for ...Re5- instead he
+has to play ...h5 as in the game.} )Kg7 45. Re8 Re4 46. f3 Re5 47. h3 h5 48. gxh5 $2 (48. Ra8 Rb5 49. Re8 Kf7 50. Rh8 Ke6 $15 {Black has freed his
+pieces without structural concessions.} )Kf7 $1 $17 {The position is
+still a draw, but has now become difficult.} )43. gxh5 gxh5 44. h4 e5 45. Rb8 Ra4 46. Kg3 Ra3+ 47. Kg2 Kg6 48. f3 Rd3 49. Rb6 Kf5 50. Ra6 Rd8 51. Kg3 Rg8+ 52. Kf2 Re8 53. Kg3 Rd8 54. Kg2 Re8 55. Kg3 Re6 56. Ra8 Rd6 57. Rh8 Kg6 58. Rg8+ Kh7 59. Re8 Kg7 60. Re7+ Kg6 61. Kh3 Kf5 62. Kg3 Rd3 63. Re8 Rc3 64. Re7 Re3 65. Rh7 Kg6 66. Re7 Rd3 67. Kf2 Kf5 68. Kg3 Rb3 69. Re8 Ra3 70. Re7 Rd3 71. Re8 Rd7 72. Ra8 Rg7+ 73. Kf2 Re7 74. Kg3 Rb7 75. Rc8 Rb1 76. Rc6 Rg1+ 77. Kf2 Rg8 78. Ra6 Rb8 79. Kg3 Kg6 80. Kg2 Rb2+ 81. Kg3 Rd2 82. Kh3 Kf7 83. Ra7+ Ke6 84. Ra6+ Rd6 85. Ra8 Rd3 86. Kg2 Kf5 87. Ra6 Rd4 88. Kg3 Rb4 89. Ra8 e4 {
+At some point Black had to make the decision to transform the game in this way.
+} 90. fxe4+ Rxe4 91. Rh8 Kg6 92. Rg8+ Kh7 93. Ra8 Rb4 94. Rc8 Rg4+ 95. Kh3 Rg8 96. Rc1 Ra8 97. Rg1 Rg8 98. Ra1 Kg6 99. Ra5 Rb8 100. Kg3 Rb3+ 101. Kg2 Re3 102. Rb5 Re5 103. Rb8 Kf5 104. Kf3 Ra5 105. Rb3 Ra4 106. Rb5+ Kg6 107. Kg3 Rg4+ 108. Kh3 Re4 109. Kg3 Rg4+ 110. Kh3 Rg1 111. Kh2 Re1 112. Kg3 Re5 113. Rb3 Kf5 114. Kf3 Ra5 115. Rc3 Ra4 116. Rc5+ Kg6 117. Kg3 Rg4+ 118. Kh3 Re4 119. Kg3 f5 120. Rc6+ Kg7 121. Rc7+ Kf6 122. Rc6+ Re6 123. Rc4 Ke5 124. Rc5+ Ke4 125. Rc4+ Ke3 126. Rc3+ Kd4 127. Rc8 Re4 128. Ra8 Rg4+ 129. Kf3 Ke5 130. Ra5+ Kf6 131. Ra6+ 1/2-1/2
+

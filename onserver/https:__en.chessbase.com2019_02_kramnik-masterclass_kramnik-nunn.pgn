@@ -1,0 +1,60 @@
+[Event "Olympiad-30"]
+[Site "Manila"]
+[Date "1992.06.24"]
+[Round "14.4"]
+[White "Kramnik, Vladimir"]
+[Black "Nunn, John DM"]
+[Result "1-0"]
+[ECO "E81"]
+[WhiteElo "2590"]
+[BlackElo "2615"]
+[Annotator "Chandler,M"]
+[PlyCount "65"]
+[EventDate "1992.06.08"]
+[EventType "team-swiss"]
+[EventRounds "14"]
+[EventCountry "PHI"]
+[SourceTitle "CBM 030"]
+[Source "ChessBase"]
+[SourceDate "1992.10.01"]
+[SourceVersion "1"]
+[SourceVersionDate "1992.10.01"]
+[SourceQuality "1"]
+[WhiteTeam "Russia"]
+[BlackTeam "England"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c5 $5 {Nunn's choice
+of defence involves Black giving up a pawn for unclear counterplay after the
+queens come off.} 7. dxc5 dxc5 8. Qxd8 Rxd8 9. Bxc5 Nc6 10. Ba3 (10. Nd5 Nd7
+11. Ba3 (11. Bxe7 Nxe7 12. Nxe7+ Kf8 13. Nd5 (13. Nxc8 $6 Bxb2 $1) 13... Bxb2
+14. Rb1 Bg7 15. Ne2 $5 (15. h4 Nc5 16. h5 g5 $44 {Vogt,L}) 15... Nc5 16. Nc1 (
+16. Nec3 Be6 17. Be2 Bxc3+ 18. Nxc3 Nd3+ $10) 16... Be6 17. Nd3 Rac8 $1 $44 {
+Gheorghiu,F-Gelfand,B/Palma GMA-op/1989/0-1/36/}) (11. Nxe7+ Nxe7 12. Bxe7 Bxb2
+$10 {Gunawan,Ro-Khalifman,A/Minsk/1986/}) 11... e6 12. Nc7 Rb8 13. O-O-O a6 14.
+f4 Bf8 15. Bxf8 Kxf8 16. Nf3 Nc5 17. Rxd8+ Nxd8 $13) (10. Nge2) (10. Rd1) 10...
+a5 (10... b6 11. Be2 (11. Nge2) (11. Rd1) 11... Nd7 12. O-O-O Bxc3 13. bxc3 Ba6
+14. c5 Bxe2 15. Nxe2 bxc5 16. Nf4 Nce5 $10) 11. Rd1 (11. Nd5 $6 Nxd5 12. cxd5
+Nb4 13. O-O-O e6 $1 14. Bc4 exd5 15. Bxb4 (15. exd5 $2 Bh6+ $1 16. Kb1 Bf5+ $19
+) 15... axb4 16. Rxd5 (16. Bxd5 Rxd5 17. Rxd5 (17. exd5 Rxa2 $17) 17... Be6 18.
+Rd6 Bh6+ 19. Kc2 Rc8+ 20. Kd3 Bc4+ 21. Kd4 Bf1 $17) 16... Be6 17. Rxd8+ Rxd8
+18. Bd5 (18. Bxe6 $2 Bh6+ 19. Kc2 Rd2+ $17) 18... Bh6+ 19. f4 Bxf4+ 20. Kb1
+Bxd5 21. exd5 Rxd5 22. Nf3 g5 23. h3 h5 24. Re1 Kg7 $17 {Beliavsky,A-Nunn,J/
+Amsterdam/1990/}) (11. Bc5 Nd7 12. Be3 a4 13. O-O-O a3 14. Nge2 axb2+ 15. Kxb2
+b6 16. Kb1 Ba6 17. Nd4 Na5 $13) 11... Be6 12. Nd5 Bxd5 13. cxd5 Nb4 14. Bb5 (
+14. Bd3 Nxd3+ 15. Rxd3 e6 16. Ne2 exd5 17. e5 Ne8 18. f4 b5 $1 19. Bc5 f6 20.
+Be7 Rd7 21. exf6 Nxf6 22. Bxf6 Bxf6 $15) 14... Nc2+ 15. Kf2 $5 (15. Ke2 Nxa3
+16. bxa3 Rac8 17. Nh3 Rc2+ 18. Rd2 Rxd2+ 19. Kxd2 e6 20. Ke2 exd5 21. Rd1 Bf8
+22. a4 Bd6 $10 {Andrianov-Glek,I/URS/1987/}) 15... Nxa3 16. bxa3 e6 (16... Rac8
+{! Knaak (CBM23-VC)} 17. Ne2 Rc2 18. Rc1 Rxa2 19. Rc7 Bf8 20. a4 $13) 17. d6 $1
+(17. Ne2 $5) 17... e5 18. Ne2 Bf8 19. d7 Bxa3 20. g4 $1 $146 {!? Knaak 
+(CBM23_VC)} (20. Rd3 Bc5+ {+/=/= Van der Sterren,J-Shirov,A/Kerteminde/1991/1/
+2-1/2/40/ -> CBM23 [Knaak]}) 20... h6 21. h4 a4 22. Rd3 Bb2 $1 23. g5 hxg5 24.
+hxg5 Nh7 25. f4 $1 Ra5 $2 (25... exf4 {Necessary} 26. Rd5 $1 Nf8 27. Nxf4 Kg7 {
+The passed pawn on d7 is still a throat in Black's throat, but White must
+still improve the position of his pieces to exploit it.}) 26. Rd5 f6 27. Rxh7
+$1 {Obtaining three very big connected passed pawns. Kramnik played all of his
+games with this decisivness and energy in Manila.} Kxh7 28. gxf6 exf4 29. e5
+Kh6 30. Nxf4 Bxe5 31. Rxe5 Rxd7 32. Bxd7 Rxe5 33. f7 1-0
+

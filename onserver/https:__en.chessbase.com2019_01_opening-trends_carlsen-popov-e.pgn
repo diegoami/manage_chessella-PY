@@ -1,0 +1,29 @@
+[Event "FIDE World Blitz-ch Open 2018"]
+[Site "St. Petersburg"]
+[Date "2018.12.29"]
+[Round "1.1"]
+[White "Carlsen, Magnus"]
+[Black "Popov, Ivan"]
+[Result "1-0"]
+[ECO "B29"]
+[WhiteElo "2835"]
+[BlackElo "2592"]
+[Annotator "Thorsten Cmiel"]
+[SetUp "1"]
+[FEN "4k3/6b1/4p2p/2p1P2P/2P2K1B/8/8/8 w - - 0 70"]
+[PlyCount "15"]
+[EventDate "2018.12.19"]
+[EventType "swiss"]
+[EventCountry "RUS"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[#]} 70. Bf6 {The World Champion lacked entry squares for his king. 70.Bf6
+was his last trick and Black fell for it. After Kf7 or Bf8 White cannot win.}
+Bxf6 $4 (70... Kf7 71. Bxg7 Kxg7 72. Ke4 Kf7 73. Kd3 Ke7 74. Kc3 Kd7 75. Kb3
+Kc6 76. Ka4 Kb6 {and Black's king moves from a6 to b6.}) 71. exf6 Kf8 72. Ke5
+Kf7 73. Kd6 Kxf6 74. Kxc5 {Now White has an easy win.} Ke7 75. Kc6 e5 76. Kd5
+Kf6 77. c5 1-0
+

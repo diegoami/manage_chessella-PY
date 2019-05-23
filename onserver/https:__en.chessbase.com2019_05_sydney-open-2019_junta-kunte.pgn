@@ -1,0 +1,150 @@
+[Event "Sydney International Open"]
+[Site "?"]
+[Date "2019.04.27"]
+[Round "8"]
+[White "Junta, Ikeda"]
+[Black "Kunte, Abhijit"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2441"]
+[BlackElo "2485"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "141"]
+[EventDate "2019.04.29"]
+
+{[%evp 0,90,19,25,23,-14,1,4,34,42,45,45,45,3,9,9,5,-3,-6,4,19,0,20,-4,-5,25,
+-9,-2,-23,-14,-17,-45,-56,-36,-36,-36,-36,-18,-8,-8,0,-26,0,0,-22,-6,-2,8,33,
+34,69,67,56,67,60,31,88,97,115,109,124,81,107,104,84,90,127,66,77,91,100,73,89,
+103,104,60,101,123,120,126,128,135,143,148,148,160,147,152,157,138,145,112,150]
+} 1. d4 ({One game I played in this tournament began:} 1. Nf3 e6 2. g3 b5 $5 3.
+Bg2 Bb7 4. d3 Nf6 5. c4 bxc4 6. dxc4 Bb4+ 7. Kf1 $5 {which gives a good idea
+of how much I dislike letting Black exchange his dark-squared bishop in such
+structures!}) 1... Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 a5 5. Nc3 ({It is slightly
+more common to leave the knight at home until Black's b4-bishop has made a
+decision:} 5. g3 b6 6. Bg2 Bb7 7. O-O O-O 8. Bg5 {Since the position is quite
+closed, White should generally be fine to take on f6.}) 5... b6 6. Bg5 Bb7 7.
+e3 a4 {Black commits to playing aggressively: ...h6 and ...g5 will usually be
+necessary to compensate for his lack of control elsewhere.} ({After the
+immediate} 7... h6 8. Bh4 {Black can choose between two quite different
+move-orders to try and reach the same position.} g5 (8... d6 9. Bd3 Nbd7 10.
+Qc2 {This is what White has to do here to avoid ...Ne4 ideas.} (10. O-O Bxc3
+11. bxc3 g5 12. Bg3 Ne4 13. Qc2 f5 {gets back to the game Bunzmann,D-Buhmann,R
+Leinfeld 2002}) 10... e5 $6 (10... g5 11. Bg3 Bxc3+ 12. bxc3 Nh5 {should be
+preferred}) 11. dxe5 Nxe5 12. Nxe5 dxe5 13. O-O-O Bxc3 14. Be4 Qc8 15. Bxb7
+Qxb7 16. Qxc3 $16 {White was somewhat better, but Black survived in Epishin,
+V-Smyslov,V Biel 1993}) 9. Bg3 Ne4 10. Qc2 d6 11. Nd2 $5 {On some kind of
+sophisticated level this move tries to claim that Black has wasted time on ...
+a5.} (11. Bd3 f5 12. O-O Bxc3 13. bxc3 Nd7 14. d5 Ndc5 15. Nd4 Qf6 16. f3 ({
+The position is definitely hard to handle, but the} 16. Bxe4 fxe4 17. f3 O-O-O
+18. fxe4 Qg6 19. e5 Qxc2 20. Nxc2 exd5 21. exd6 dxc4 22. Na3 Ba6 23. dxc7 Rd2
+24. Rab1 {of Dias,P-Fernando,D Santo Antonio 2002 should not have promised an
+advantage:} Nd7 $1 $146) 16... Nxg3 17. hxg3 O-O (17... exd5 $1 $11) 18. dxe6
+Nxd3 19. Qxd3 $14 {Bunzmann,D-Buhmann,R Leinfeld 2002}) 11... f5 (11... Bxc3 $5
+12. bxc3 Nxd2 13. Kxd2 Nd7 14. f3 Qe7 15. Bd3 O-O-O 16. e4 h5 $132 {led to a
+similar material balance to our main game in Damm,F-Lieb,H Bad Woerishofen 2001
+}) 12. f3 ({White would be slightly better in case of} 12. Ndxe4 Bxe4 13. Qd2 {
+because Black doesn't have enough time to stabilise his kingside against h4,
+as well as his queenside against c5.} h5 14. f3 (14. h4 $5) 14... h4 15. Bf2
+Bb7 16. a3 $14 {At least half the position will be opened and usually that is
+all that the player with the bishops needs.}) 12... Bxc3 13. bxc3 (13. fxe4
+Bxd2+ 14. Qxd2 Bxe4 {is a pawn}) 13... Nxg3 14. hxg3 Qf6 15. e4 {White
+correctly opens the centre before Black can get castled; he must almost
+inevitably go queenside because of the half-open h-file.} (15. Bd3 Nd7 16.
+O-O-O O-O-O $13) 15... f4 16. c5 dxc5 17. e5 $6 (17. Bb5+ $1 Nd7 18. Bxd7+ Kxd7
+19. dxc5 bxc5 20. Nc4 $14 {is given by Ftacnik.}) 17... Qg7 18. Bb5+ (18. Bd3
+fxg3 19. Bg6+ Kd8 20. Be4 Bd5 $13) 18... Nd7 (18... Bc6 19. a4 fxg3 20. Ne4 $14
+) 19. Bxd7+ (19. Rb1 Rd8 20. Bd3 Nf8 $11) 19... Kxd7 20. Ne4 Rad8 {The
+remainder of the messy game Sokolov,I-Movsesian,S Sarajevo 2005 can be found
+annotated in CBM 108 by Ftacnik.}) 8. a3 Bxc3+ 9. bxc3 Ra5 10. Bh4 d6 11. Bd3 {
+Consistent play from both sides.} ({The following game is instructive in its
+entirety:} 11. Nd2 Nbd7 12. f3 h5 13. Bd3 g5 14. Bf2 h4 15. h3 Nh5 16. Rb1 Qa8
+17. Qc2 Ke7 18. Kd1 Bc6 19. Re1 Bb7 20. Rb4 Bc6 21. Kc1 Bb7 22. Kb1 Bc6 23. Ka1
+Qg8 24. Bf1 Qh7 25. Bd3 Qg8 26. Reb1 Qa8 27. Qd1 Bb7 28. Be2 Bc6 29. R4b2 Qg8
+30. Bf1 Qg6 31. Rb4 Qh7 32. Be2 Qg6 33. Nf1 Qh7 34. Bd3 Qg8 35. Bc2 Qa8 36. Bg1
+Ra7 37. Qd2 Ra5 38. Bh2 Qg8 39. e4 Nf4 40. Ne3 Qg7 41. Ng4 Nh5 42. e5 dxe5 43.
+d5 exd5 44. Ne3 Kd8 45. cxd5 Bb7 46. d6 Qf6 47. dxc7+ Kxc7 48. Rc4+ Nc5 49. Ng4
+Rd8 50. Qe1 Qe6 51. Qxe5+ Qxe5 52. Bxe5+ Kd7 53. Rxb6 Bd5 54. Rd4 Ke7 55. Nf6
+Nb3+ 56. Bxb3 Bxb3 57. Rxd8 Kxd8 58. Rb8+ {1-0 Pinter,J -Turov,M Austria 2011})
+11... Nbd7 12. O-O Qa8 {This is as close as we can get to a formal 'end' to
+the opening- both sides have developed their pieces to the squares on which
+they will play their main middlegame roles, more or less. It is fair to say
+that Black has won the opening battle.} 13. Ne1 g5 14. Bg3 h5 15. f3 h4 16. Bf2
+g4 17. e4 gxf3 $6 {Looking over at this game from my own, I remember thinking
+that Black seemed to be better, but was surprised to see this move appear on
+the board.} (17... h3 $15 {is almost certainly the best move in the position,
+and simple enough to play from a human perspective, but not the move my
+attention was drawn to.}) (17... Rg5 $5 {This is an ambitious try to break up
+White's pawn structure. It rests upon the soundness of stuff like} 18. f4 Rgg8
+19. e5 g3 $5 $15) (17... g3 $5 {This risky pawn sacrifice was my first
+instinct- it is always easier to sacrifice others' pieces. And, in fact, to
+move their kings:} 18. hxg3 hxg3 19. Bxg3 {and now one idea could be} Ke7 $5 {
+White has a major defensive task ahead of him.} (19... Rah5 {and ...Qa5 is
+also sensible})) 18. gxf3 Rg5+ 19. Kh1 Ke7 20. Rg1 {With the g-file open,
+paradoxically it seems to be White's defensive chances that have increased.}
+Qg8 21. Rxg5 Qxg5 22. Qc1 Qh5 23. Qe3 Qa5 24. Rc1 Rh5 $6 {Now Black stands
+worse.} (24... h3 {was better played immediately. Black needs to radically
+rethink almost everything in his position in order to keep it playable-
+starting with ...e5.}) 25. Ng2 h3 26. Nf4 Rh8 27. Qd2 Nf8 28. Rg1 Ke8 29. Rg3
+Bc8 30. Rxh3 Rxh3 31. Nxh3 Qh5 32. Ng1 e5 33. Bc2 Bd7 34. Qd1 Ne6 35. Bxa4 {
+Affirming the advantage by claiming a second pawn.} Bxa4 36. Qxa4+ Ke7 37. Qc2
+Nh7 38. Be3 Nhf8 39. Qg2 Ng6 40. Qh3 Qh4 $1 {A good practical decision. The
+way Black handles the remainder of the game is admirable- the best he could
+have done under the circumstances.} 41. Qxh4+ Nxh4 42. Bf2 $6 {White will
+regret letting an enemy knight into f4, even if the position remains winning
+after this.} (42. h3 $1 {followed by Kh2-g3 seems like a clean enough way to
+remove the nuisance of the h4-knight and win}) 42... Ng6 43. Ne2 c5 44. Kg2 (
+44. d5 {should get the job done in the long run:} Nef4 45. Nc1 $1 {and White
+trades his bishop for the f4-knight instead of his knight, then plays for a5
+while activating his king slowly on the other side of the board. It isn't
+clear to me if Black can get any play at all.}) 44... Ngf4+ {Now Black is
+getting a knight to d3, and it will get into b2 from there. Any win now is
+likely to be quite tricky.} 45. Nxf4 Nxf4+ 46. Kf1 Nd3 47. Be3 Nb2 48. d5 ({
+It seems just about winning to do the same thing with a pair of pawns off the
+board:} 48. dxc5 dxc5 49. Bc1 Nxc4 50. a4 {The point is that White has gained
+a tempo for this move and so need not sacrifice a pawn to get it in.} Kf6 51.
+Ke2 Kg6 52. Kd3 Nd6 53. f4 f6 54. fxe5 fxe5 55. h4 $1 {Perhaps even the only
+move to win, but good enough. White wants Bg5-d8. In case of c4 Black was able
+to get his knight to c6 in time, but now there is no time for anything except}
+Kh5 56. Bg5 c4+ 57. Kc2 $1 Nxe4 58. Be3 {or similar, when the a-pawn wins the
+game.}) 48... Nxc4 49. Bc1 {Now Black has two more or less equivalent moves.
+The difference is that by delaying ...f5, Black makes sure White doesn't have
+time to react when it does happen if White plays the way he did.} b5 ({The
+computer suggests playing} 49... f5 {first, to gain a tempo in case White
+doesn't take. However, the move-order finesses are more tricky than even our
+silicon friend thinks.} 50. exf5 $1 (50. a4 f4 51. Ke2 Na5 {White's bishop is
+totally locked in and it seems he's out of tries.}) (50. Ke2 f4 51. Kd3 Na5 52.
+c4 Kf7 53. Bd2 Kg6 54. Bxa5 bxa5 55. Kc3 a4 $1) 50... b5 51. Ke2 $1 (51. h4 Kf6
+{transposes to 51.exf5}) 51... Nb6 52. h4 Nxd5 53. c4 bxc4 54. Bg5+ Kf7 55. Kd2
+c3+ 56. Kc2 Nb6 57. Bd8 (57. Kxc3 d5 {The jury is still out here, although I
+suspect it's winning.}) 57... Nc4 58. a4 Ne3+ 59. Kxc3 Ke8 60. Bg5 Nxf5 61. a5
+Kd7 62. h5 Kc6 63. h6 Nxh6 64. Bxh6 $18) 50. h4 (50. Ke2 $1 {transposes to all
+the favourable versions above.}) 50... f5 51. Bg5+ $2 {Now this throws away
+the win.} (51. Ke2 $1 {This is still probably best, although it's different to
+before because Black has ...f4.} f4 52. Kd3 Nb6 53. c4 $1 {Stopping Black from
+sealing up the position.} bxc4+ (53... Nxc4 54. a4 Nb6 55. axb5 {is similar,
+just with a b-pawn instead}) 54. Kc2 $1 Kf7 55. Bd2 Kg6 56. Ba5 {White is too
+fast on the queenside.}) ({White can try to play as in the game while
+economising on the check.} 51. exf5 Kf6 $1 (51... Nb6 52. h5 Nxd5 53. c4 {
+With 3 passed pawns White should be winning.}) 52. Ke2 Kxf5 53. Kd3 Nb6 54. c4
+bxc4+ (54... Nxc4 55. a4 Nb6 56. axb5 Nxd5 57. Bg5 $1 $18 {The knight is
+dominated.}) 55. Kc3 e4 $1 {The slight inaccuracy of White's h4 means that
+Black gets time to exchange a pair of pawns.} 56. fxe4+ Kxe4 57. h5 Kf5 {
+White has made his task quite complicated by leaving himself with 
+(realistically) only the wrong rook's pawn- but it seems even this is winning.}
+58. h6 Kg6 59. Bg5 Kh7 60. Bd8 Nxd5+ 61. Kxc4 Ne3+ 62. Kb5 {There is no way to
+stop the a-pawn.}) 51... Kf7 52. exf5 Nxa3 53. Ke2 Nc4 $6 {This gives White
+some hope again.} (53... b4 54. cxb4 cxb4 {While White chases down the rogue
+b-pawn Black will either obtain both White f-pawns or the following fortress:}
+55. Kd3 Nb5 56. Kc4 Nd4 57. Kxb4 Nxf5 58. h5 Nd4 59. f4 e4 60. Kc4 Nf5 $11) 54.
+h5 (54. Bd8 $5 {This is the last try White had. It cuts out ...Nb6 ideas.} b4
+55. cxb4 cxb4 56. Kd3 b3 57. Bg5 $5 {Otherwise there is ...Ne3.} Na3 $8 58. Kc3
+Nb5+ 59. Kxb3 Nd4+ 60. Kc4 Nxf5 61. Kd3 {Black needs a few nuts and bolts to
+hold this new fortress together- it isn't as watertight as the one where White
+has f4 and h5 instead of Kd3, and Black has ...e4.}) 54... Nb6 55. h6 Nxd5 56.
+Be7 Nxe7 $1 {Accurately calculating(or so I infer from the time usage stats)
+that the new queen on b1 will cover mate on g6. This is now a dead draw.} 57.
+h7 Ng6 58. fxg6+ Kg7 59. Ke3 d5 60. f4 d4+ 61. cxd4 cxd4+ 62. Ke4 exf4 63. Kxf4
+b4 64. Ke5 b3 ({My last note would be well illustrated by the line} 64... d3 $4
+65. Ke6 d2 66. h8=Q+ Kxh8 67. Kf7 d1=Q 68. g7+ Kh7 69. g8=Q+ Kh6 70. Qg6#) 65.
+Ke6 b2 66. h8=Q+ Kxh8 67. Kf7 b1=Q 68. g7+ Kh7 69. g8=Q+ Kh6 70. Qg7+ Kh5 71.
+Qxd4 1/2-1/2

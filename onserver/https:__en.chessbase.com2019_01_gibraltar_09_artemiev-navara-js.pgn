@@ -1,0 +1,49 @@
+[Event "Gibraltar International Chess Festival "]
+[Site "Caleta Hotel, Gibraltar"]
+[Date "2019.01.30"]
+[Round "9.1"]
+[White "Artemiev, Vladislav"]
+[Black "Navara, David"]
+[Result "1-0"]
+[ECO "A05"]
+[WhiteElo "2709"]
+[BlackElo "2738"]
+[Annotator "Saunders, John"]
+[PlyCount "73"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,73,19,20,15,-11,22,-30,-29,-9,-9,-15,-17,-26,-9,-28,7,0,6,11,-17,-17,
+-20,-16,-12,-3,11,0,-9,0,-2,-10,-9,-5,3,-19,-29,-41,-29,-38,-32,-74,-78,-78,
+-70,-73,-54,-60,-48,-54,-56,-59,130,136,134,144,144,146,133,140,140,140,217,
+141,217,218,218,137,301,290,300,299,299,306,305,306]} 1. Nf3 Nf6 2. g3 g6 3. b3
+d5 4. Bb2 c5 5. Bg2 Bg7 6. c4 d4 7. b4 O-O 8. bxc5 (8. O-O {was played by
+Artemiev in a game in the World Blitz Championship in 2016 so Black would have
+been ready for it.}) 8... Ne4 (8... Nc6 {was the continuation in
+Conquest-Grivas, Chalkidiki 1991, which was drawn.}) 9. O-O Nxc5 10. d3 e5 11.
+Ba3 Nba6 12. Nfd2 Re8 13. Ne4 Bf8 14. Nxc5 Nxc5 (14... Bxc5 {was played in
+Zaragatski-Stellwagen, Bundesliga 2012, and ended in a draw not many moves
+later.}) 15. Nd2 Rb8 16. Rb1 b6 17. Bxc5 {A bit surprising to give up bishop
+for knight like this, without being obliged to do so. I was momentarily
+reminded of Kurt Richter: I've been reading a splendid new biographical work
+on Richter, published by McFarland, and Richter had a thing about swapping
+bishops off for knights. More likely Artemiev was concerned about securing his
+grip on e4.} Bxc5 18. Qa4 Bg4 19. Bf3 Bh3 {[#]} 20. Qxa7 $5 {This exchange for
+pawn sacrifice is not foreseen by engines which prefer to preserve the f1 rook.
+But, with White's light-squared bishop patrolling the long diagonal it makes
+sense.} Bxf1 21. Kxf1 Re7 22. Qa4 Qd7 23. Rb5 Qa7 24. Qb3 Kg7 25. a4 Ra8 $2 {
+Watching the game in the press room, IM Tania Sachdev was incredulous when she
+saw this move on the board. It's become obvious that White has good
+compensation for the exchange for pawn sacrifice but giving back the material
+lands Black with the problem of being a pawn down and also some positional
+problems, such as the dark-squared bishop being little better than a big pawn.}
+26. Bxa8 Qxa8 27. f3 Ra7 ({Black hasn't time to keep the knight out of e4 with
+} 27... f5 {because of} 28. a5 $1 {and a second pawn is lost.}) 28. Ne4 {
+White can't save the a-pawn but he can retaliate by taking the b-pawn in two
+moves' time, and then retaining the extra pawn with a number of sharp threats.
+Black is already lost.} Rxa4 29. Nxc5 bxc5 30. Rxc5 Ra3 31. Qb4 Ra4 32. Qb6
+Ra1+ ({If} 32... Ra6 33. Qc7 {and the e5-pawn drops.}) 33. Kf2 e4 34. Rd5 ({
+Black's last move was a desperate trick hoping for} 34. dxe4 $2 Qa3 $1 {
+and Black escapes with half a point. But White is not obliged to take on e4.})
+34... e3+ 35. Kg2 Qa7 36. Qxa7 Rxa7 37. f4 {Black resigned as he will soon be
+two or even three pawns down for nothing.} 1-0
+

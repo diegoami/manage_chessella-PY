@@ -1,0 +1,63 @@
+[Event "Probleemblad"]
+[White "Martin Minski"]
+[Black ""]
+[Site ""]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date "2019.??.??"]
+[PlyCount "19"]
+[Setup "1"]
+[FEN "8/2p5/6p1/3P4/2k4P/8/4K3/3B4 w - - 0 1"]
+
+1. Bb3+ $1 (1. Kf3 $2 Kxd5 2. Kg4 Ke6 3. Kg5 Kf7 4. Kh6 Kg8 5. Bb3+ Kh8 {
+is a draw owing to the wrong bishop.} )Kxb3 2. Kd3 $1 ({Following} 2. d6 $2 cxd6 3. Kd3 Kb2 $1 4. Kd4 Kc2 5. Kd5 Kd3 6. Kxd6 Ke4 7. Ke6 Kf4 8. Kf6 Kg4 {
+Black is just in time.} )Kb4 3. d6 $1 (3. Kd4 $2 {fails to} Kb5 4. d6 Kc6 $1 5. dxc7 Kxc7 6. Ke5 Kd7 {/Kd8} 7. Kf6 Ke8 8. Kxg6 Kf8 9. Kh7 Kf7 {draws.} )cxd6 4. Kd4 Kb3 5. Kd5 Kc3 6. Kxd6 Kd4 7. Ke6 Ke4 8. Kf6 Kf4 9. Kxg6 Kg4 10. h5 {and wins.} 1-0
+
+[Event "The Problemist"]
+[White "Vladislav Tarasiuk"]
+[Black ""]
+[Site ""]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date "2019.??.??"]
+[PlyCount "15"]
+[Setup "1"]
+[FEN "8/8/1P6/rP6/k3Br2/2P5/P7/K3B3 w - - 0 1"]
+
+1. Bc6 $1 ({is premature owing to} 1. b7 $2 Rxe4 (1... Rxb5 $2 2. Bc6 $1 $18 {
+See main line} )2. Bg3 Rxb5 {draws.} )Ka3 $1 2. b7 (2. Kb1 $2 {allows a
+double-rook sacrifice.} Rxb5+ $1 3. Bxb5 Rb4+ $1 4. Kc1 Rb1+ $1 5. Kd2 Rxb5 6. Bf2 Rb2+ $1 7. Ke1 Ka4 {draws.} )Rxb5 $1 (2... Rf8 3. Kb1 Rb8 4. Bg3 $18 )3. Bxb5 Re4 $1 4. Be2 $3 ({All other attempts fail:} 4. Bd3 $2 Rxe1+ 5. Bb1 Re8 6. Be4 Rxe4 (6... Rb8 $2 7. Bc6 $18 )7. b8=Q Re1+ 8. Qb1 Rd1 $1 {zz} 9. Qxd1 {
+- stalemate} )(4. Kb1 $2 Rb4+ $1 5. cxb4 {- stalemate} )(4. Bd2 $2 Re1+ $1 5. Bxe1 {- stalemate} )Rxe2 5. Bd2 $3 ({Try:} 5. b8=Q $2 Rxe1+ 6. Qb1 Rd1 $1 7. Qxd1 {- stalemate} )Rxd2 6. b8=Q Rd1+ 7. Qb1 Rxb1+ 8. Kxb1 {
+winning.} 1-0
+
+[Event "The Problemist"]
+[White "Jan Timman"]
+[Black "After Alois Wotawa"]
+[Site ""]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date "2019.??.??"]
+[PlyCount "17"]
+[Setup "1"]
+[FEN "2r5/5p1p/K2P1p2/3k1P2/3B4/1P6/1P3P1P/8 w - - 0 1"]
+
+1. Kb7 $1 Rd8 2. Bc5 $1 Kxc5 3. Kc7 $1 Rxd6 {Here is where Wotawa and Timman
+meet.} 4. b4+ Kd5 5. b5 Ke5 6. f4+ $1 (6. b6 $2 Rd2 $19 )Kd5 7. b4 $3 h6 8. h3 h5 9. h4 {It's the final Zugzwang and White wins.} 1-0
+
+[Event "Bulletin  Problemistic"]
+[White "Martin Minski"]
+[Black ""]
+[Site ""]
+[Round ""]
+[Annotator ""]
+[Result "1/2-1/2"]
+[Date "2019.??.??"]
+[PlyCount "14"]
+[Setup "1"]
+[FEN "2R5/2PK4/8/5k1r/8/8/8/1qN5 w - - 0 1"]
+
+1. Rb8 $1 (1. Rf8+ $2 Ke5 {/Kg6/Kg5} 2. c8=Q Rh7+ 3. Kd8 Qb6+ $19 )Rh7+ $1 (1... Qe4 2. Rb5+ Kg6 3. Rxh5 $11 )2. Kd6 Rh6+ 3. Kd7 Qe4 $1 4. Rb5+ $1 ({Not} 4. c8=Q $2 Qe6+ 5. Kc7 Rh7+ 6. Kd8 Rh8+ 7. Kc7 Rxc8+ 8. Rxc8 Qe7+ 9. Kb6 Qb4+ 10. Kc6 Kf6 11. Rc7 Ke6 12. Rc8 Qd6+ 13. Kb7 Qb4+ 14. Kc6 Qc4+ 15. Kb7 Qb5+ 16. Kc7 Ke7 $1 {winning} )(4. Rf8+ $2 Kg5 $1 $19 )Kf4 $1 ({Or} 4... Kg4 5. c8=Q {battery} Qe6+ 6. Kc7 Rh7+ 7. Kb8 {draws.} )5. Rb4 $1 Rd6+ $1 6. Kc8 $1 Qxb4 7. Nd3+ $1 Rxd3 {model stalemate} 1/2-1/2
+

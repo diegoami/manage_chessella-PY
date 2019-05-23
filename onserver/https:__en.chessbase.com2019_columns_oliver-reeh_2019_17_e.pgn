@@ -1,0 +1,58 @@
+[Event "Candidates Tournament"]
+[Site "Budapest"]
+[Date "1950.05.09"]
+[Round "14"]
+[White "Kotov, Alexander"]
+[Black "Keres, Paul"]
+[Result "1-0"]
+[ECO "E24"]
+[Annotator "Reeh,Oliver"]
+[PlyCount "65"]
+[EventDate "1950.04.11"]
+[EventType "tourn"]
+[EventRounds "18"]
+[EventCountry "HUN"]
+[SourceTitle "Candidates"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[SourceVersion "2"]
+[SourceVersionDate "1999.07.01"]
+[SourceQuality "1"]
+
+1. c4 Nf6 2. d4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 Nc6 6. f3 b6 7. e4 Ba6 8. e5
+Ng8 9. Nh3 Na5 10. Qa4 Ne7 11. Bd3 O-O 12. Bg5 h6 13. Bh4 d5 {Playing 14.Bb1!
+in the diagram position, White prepared to create a queen-bishop battery on
+the diagonal to the enemy king. Black rushed in to block it with 14...g5 15.
+Qc2 Ng6, and then it will be your turn. Enjoy!} 14. Bb1 $1 {[%cal Gc4d5,Ga4c2,
+Gb1h7] Preparing to create a queen-bishop battery while also unpinning White's
+c4-pawn.} g5 15. Qc2 {[%csl Gc2][%cal Gb1h7]} Ng6 {[%tqu "En","Black has
+blocked the diagonal to h7 with his knight. What to do?","","","h3f4","",10,
+"De","Black has blocked the diagonal to h7 with his knight. What to do?","","",
+"h3f4","",10]} 16. Nf4 $1 {[%csl Gf4,Rg5,Rg6][%cal Gh4d8,Gc2h7] A beautiful
+move, exploiting the crossfire on two diagonals.} gxh4 (16... gxf4 17. Bxd8) (
+16... Nxf4 17. Qh7#) (16... Qe8 17. Nh5 $1 {[%csl Re8,Rg8,Gh5][%cal Gh5f6]})
+17. Nxg6 Re8 (17... fxg6 18. Qxg6+ Kh8 19. Qh7#) {[%tqu "En","White's knight
+g6 stands in the way, blocking the diagonal c2-h7. Where would you put it?","",
+"","g6h8","",10,"g6e7","",0,"De","White's knight g6 stands in the way,
+blocking the diagonal c2-h7. Where would you put it?","","","g6h8","",10,
+"g6e7","",0]} 18. Nh8 $1 {[%csl Gh8][%cal Gc2h7] A new cornerstone of White's
+attack!} ({Not} 18. Ne7+ $2 Kf8 $1 {with advantage to Black.} (18... Rxe7 19.
+Qh7+ Kf8 20. Qh8#)) 18... Re7 19. Qh7+ {[%csl Rg8,Gh7][%cal Gb1h7] Mission
+accomplished, the queen has arrived on its target square on the light-squared
+diagonal.} Kf8 {[%tqu "En","For a successul attack, it is always useful to
+open as many lines against the king as possible and to include as many pieces
+as possible. Can you find Kotov's move?","Pawns are the soul of the game of
+chess.","","f3f4","",10,"e1g1","",0,"De","For a successul attack, it is always
+useful to open as many lines against the king as possible and to include as
+many pieces as possible. Can you find Kotov's move?","Pawns are the soul of
+the game of chess.","","f3f4","",10,"e1g1","",0]} 20. f4 $1 {[%csl Gf4][%cal
+Gf4f5] (Grand-)masterly! White advances his f-pawn, making the opening of new
+files against the black king inevitable.} ({After} 20. O-O {White is delayed by
+} Bxc4 {[%cal Gc4f1] hitting the Rf1.}) 20... Nxc4 (20... Bxc4 21. f5 exf5 (
+21... Ke8 22. f6 $18 {[%csl Gf6]}) 22. Qxh6+ Ke8 23. Bxf5 $18 {[%csl Re8,Gf5]
+[%cal Gh6g7,Gg7g8]}) 21. f5 exf5 22. O-O $1 {[%cal Gf1f8] Castling short on
+move 20., with a decisive attack - a concept to emulate!} Bc8 23. Bxf5 Bxf5 24.
+Rxf5 Ke8 25. Rxf7 Kd7 26. Qf5+ Kc6 27. Qf6+ Kd7 28. e6+ Kc6 29. Rxe7 Qxh8 30.
+Rxc7+ $1 Kb5 (30... Kxc7 31. Qe7+ Kb8 (31... Kc6 32. Qd7#) 32. Rf1 $18 {
+[%csl Gf1][%cal Gf1f8]}) 31. Qe7 a5 32. Qd7+ Ka6 33. Rb1 1-0
+

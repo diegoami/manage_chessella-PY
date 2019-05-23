@@ -1,0 +1,193 @@
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.23"]
+[Round "10"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[ECO "C77"]
+[WhiteElo "2835"]
+[BlackElo "2773"]
+[Annotator "Tiger Hillarp-Persson"]
+[PlyCount "151"]
+[EventDate "2019.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5.
+Nc3 $5 {This move takes an immediate step off the Ruy Lopez main road. The
+conventional wisdom is that the knight should go to d2, and then after 0-0,
+Re1 and Nd2-f1, it is within reach of the kingside meadows. If such a move was
+played by a beginner in the 90s, a stronger opponent would probably have
+pointed out that it is a mistake (although it clearly is not). Still, Spassky
+used to play this way and in the last decade, Dominguez Perez has kept it among
+his big guns.} Bc5 {Black faces an important choice already here. Should b5 be
+played or not? Should the bishop go to c5 or not? 5.Nc3 is obviously not a
+slower move than the usual 5.0-0, so Black doesn't have time for extravagant
+alternatives. When you start playing chess you clearly prefer c5 to e7, if you
+are to plonk down the bishop somewhere, but then later you become aware that
+the bishop could be vulnerable to c3/d4 and Nxe5/d4-tricks, so you turn a bit
+more philosophical about which "the right square" is for the bishop, and might
+even swing over to the e7-side. I sometimes get the feeling that really strong
+GMs have had the pendulum swing back to where c5 is the "right square".} ({
+The other main line goes} 5... b5 6. Bb3 Be7 (6... Bc5 {Ah, anyway! Clearly
+the better move order if you prefer to avoid the exchange on c6.} 7. d3 h6 8.
+Nd5 Rb8 (8... O-O) 9. c3 d6 10. O-O O-O {and we come to a position where White
+has a wide choice. When Carlsen and Anand played each other in Sinquefield Cup
+2017, with opposite colours, their game reached this position and continued:}
+11. Re1 Ba7 12. Be3 Bxe3 13. Nxe3 Re8 14. a4 b4 15. a5 bxc3 16. bxc3 Be6 17.
+Bxe6 Rxe6 18. Nd5 Ne7 19. Nxf6+ Rxf6 20. d4 Ng6 21. g3 Qc8 22. Re3 Rb5 23. Nd2
+h5 $1 24. h4 Qh3 25. Qf1 Qg4 26. Qe2 Qxe2 27. Rxe2 Re6 {with a balanced game.})
+7. d3 d6 {Black is threatening to pick up the bishop pair with Na5 next, so
+White must do something about it. The usual way is...} 8. a3 O-O (8... Na5 9.
+Ba2 c5 10. b4 Nc6 11. Nd5 O-O 12. Be3 cxb4 13. axb4 Bb7 14. O-O Nxd5 15. Bxd5
+Qd7 16. Qb1 {and although White is not significantly better, this seems like
+the kind of position White is striving for, Rapport,R (2715)-Kollars,D (2530)
+GRENKE Chess Open 2018.}) 9. Nd5 Na5 10. Ba2 Nxd5 11. Bxd5 c6 12. Ba2 {This
+position is hard to avoid for White in the 5.Nc3-line, so if you intend to
+play it you should have a look at it. I'm not entirely clear about what went
+on in the following game:} Bf6 13. O-O Re8 14. b4 Nb7 15. c4 Be6 16. Bb2 c5 17.
+Bc3 Qd7 18. cxb5 axb5 19. Bxe6 Qxe6 20. a4 Qd7 21. axb5 Rxa1 22. Qxa1 Qxb5 23.
+Qb1 Rb8 {1/2-1/2 (23) Rapport,R (2690)-Aronian,L (2785) Sharjah Grand Prix 2017
+}) ({A third option is to play} 5... Bb4 {, in analogy to the four knights
+opening.} 6. O-O (6. Nd5 $5) 6... O-O 7. d3 {...a6 is not, generally speaking,
+a move that Black would play in the four knights, since White would take on c6,
+but it is not clear to me that Black has anything to be unhappy about here.}
+Bxc3 8. bxc3 d6 9. Nd2 (9. Bg5 {is standard in this position, but then it is
+usual for Black to play Bd7 in order to prepare for a6, so one might argue
+that a6 actually is a slight gain for Black here.} Qe7 10. Re1 (10. Nd2 $5)
+10... Nd8 {and suddenly we are in two-knights-land, by a long detour:} 11. Bb3
+Ne6 12. Bh4 Nf4 13. Nd2 b5 14. Nf1 Ng6 15. Bg3 c5 16. Ne3 Qc7 17. h4 Be6 18. h5
+Nf4 19. Bxf4 exf4 20. Nd5 Bxd5 21. Bxd5 Rae8 22. h6 Re5 $5 23. hxg7 Kxg7 24.
+Qd2 Rfe8 {and Black eventually won this rather unclear position, in Artemiev,V
+(2705)-Andreikin,D (2715) World Rapid 2018.}) 9... Re8 10. c4 Bd7 11. f4 Nd4
+12. Bxd7 Qxd7 13. c3 Ne6 14. f5 Nc5 15. Nb3 b5 {and Black had managed to land
+himself in a situation where a6 actually makes sense, in Adhiban,B (2680)
+-Stevic,H (2585) Tournament of Peace 2018.}) 6. Bxc6 {How very Magnus.} ({After
+} 6. O-O b5 (6... O-O 7. Nxe5 Nxe5 8. d4 Bd6 9. f4 Neg4 10. h3 Bb4 11. e5 d6
+12. exf6 Nxf6 13. Qf3 Bxc3 14. Qxc3 b5 15. Bb3 Bb7 16. f5 Re8 17. Bg5 Re2 18.
+d5 {and instead of taking the pawn, as in Vishnu,P (2535)-Grandelius,N (2640)
+CellaVision Cup 2017, Black could have played} c5 $1 19. Qd3 Qe7 20. Bxf6 gxf6
+21. Rae1 Re5 {with a balanced game. I'm prone to put some thought into this
+move order as (my compatriot) Nils usually knows what he is doing.}) 7. Bb3 O-O
+8. Nd5 $5 {is a spectacular way to try to make more sense of the 0-0 move
+order...} ({After} 8. d3 {we soon end up in a position that we looked at after
+5...b5 6.Bb3 Bc5.}) 8... Nxe4 (8... h6 9. c3 $1 {and White's d-pawn doesn't
+have to 'refuel' on d3.}) 9. d3 Nf6 10. Bg5 Be7 11. Nxe7+ Qxe7 12. Re1 $44 {
+Anand,V (2785)-Kramnik,V (2805) Norway 2017}) 6... dxc6 7. d3 {This position
+is very similar to one of the main lines of the Berlin Defence (of the Ruy
+Lopez); the only difference is that the pawn is on a6. Usually strong GMs
+have prefered to play h3, Qe2, or Nbd2, rather than Nc3, in this position, but
+Magnus has played a blitz game earlier where he had exactly the same position 
+(minus a6):} Qd6 {I presume Vishy was aiming to apply a similar set-up to the
+one Jakovenko used to win against Motylev (see comment after 9.0-0).} (7... O-O
+8. Be3 (8. Qe2 Re8 9. h3 Nd7 10. Nd1 {can hardly be the hidden meaning behind
+Nc3...} Nf8 11. Ne3 {Rapport,R (2675)-Ding Liren (2770) FIDE World Cup 2017})
+8... Bd6 9. Bg5 Re8 (9... h6 10. Bd2 {[%cal Gh2h3,Gg2g4]}) 10. h3 c5 11. Nd5
+Be7 12. Nxe7+ Qxe7 13. O-O h6 14. Be3 Nd7 15. Nd2 Nb8 16. f4 exf4 17. Rxf4 Nc6
+18. Qh5 b6 19. Raf1 Rf8 20. Nf3 Be6 21. Rh4 f6 22. Qg6 Qf7 23. Qg3 Nb4 24. Bxh6
+Nxc2 25. Ne5 fxe5 26. Rxf7 Rxf7 27. Qg6 Bxa2 28. Bg5 Rff8 29. Rh7 Rf7 30. Bf6 {
+1-0 Carlsen,M (2835)-Karjakin,S (2760) World Blitz 2017 (with pawn on a7
+instead of a6).}) 8. h3 Be6 9. Be3 $1 {Like I mentioned before; Black's bishop
+is on the "best square" and White's bishop has nowhere to go. It's simple
+maths that White wants them exchanged. (Magnus thought about the move for more
+than 10 minutes, so I guess my logic is somewhat over simplified...)} (9. O-O
+O-O-O 10. Ng5 Nd7 11. Kh1 f6 12. Nxe6 Qxe6 13. Ne2 Rhf8 (13... g6 $5) 14. Qe1
+g6 15. b4 Bd6 16. Be3 f5 17. f3 f4 18. Bg1 g5 19. Qf2 b6 20. Rfb1 h5 21. a4 g4
+{and Black went on to win, in Motylev,A (2686)-Jakovenko,D (2747) Yaroslavl
+2014 (again with a pawn on a7, rather than on a6).}) 9... Nd7 10. Bxc5 Nxc5 11.
+Qd2 {This position seems like nothing special for White and if Black gets to
+play Nd7 and c5, then White has nothing. So the next two moves seem like the
+only ambitious alternative.} ({After} 11. O-O O-O-O {White regrets having
+played h3 when Black launches the g-pawn.}) 11... Nd7 12. d4 $5 ({I don't see
+a good way for White to change the pawn structure after} 12. O-O-O c5 {One can
+try a plan with Nf3-somewhere, followed by f4, but it will only give Black a
+good square for the knight on e5.}) 12... exd4 13. Nxd4 c5 {Slightly
+surprising and the kind of move one regrets after losing. It could be taken as
+a statement, that: "I will take the d5-square from your knight and then you
+have nothing." (Although Anand most certainly would not put it like that.)} 14.
+Nxe6 fxe6 {Ergo, no d5-square for White's knight.} 15. O-O-O Qxd2+ 16. Kxd2 $1
+{The king belongs on e3 where it is centrally placed and can support White's
+extra kingside pawn.} (16. Rxd2 {is not completely bonkers either, since} Ke7 (
+16... O-O-O $1 {looks sensible, intending} 17. Rhd1 g5 18. b3 Rhg8 19. Ne2 Rg7
+{, followed by Rd8-f8. With both pairs of rooks still on the board, White's
+extra kingside pawn doesn't mean as much.}) 17. Rhd1 Rhd8 18. f4 {, forces
+Black to play a less than comfortable endgame.}) 16... Ne5 17. f4 $1 {Only by
+unsettling this knight, before it becomes a permanent feature on e5, can Black
+be challenged.} (17. b3 g5 $1 18. f3 Ke7 19. h4 h6 {is comfortable for Black.
+White cannot get a passed pawn without giving Black a ton of activity.}) 17...
+Nc4+ 18. Kc1 {King is back where it came from, but the knight is floating
+without a strong point.} Ke7 19. b3 Nd6 $1 20. e5 Nf5 21. Ne4 ({There is
+something to be said for} 21. g4 $1 {, since it forces Black's hand:} Nd4 (
+21... Nh4 $2 {fails to tactics:} 22. f5 $1 exf5 23. Nd5+ Kf7 24. e6+ $1 $18 Kg6
+25. Nxc7) 22. Rhf1 (22. Ne4 Ne2+ 23. Kb2 Nxf4 24. Nxc5 b6 25. Rd7+ Ke8 26. Rd4
+Rf8 27. Nd7 Rf7 28. Nf6+ gxf6 29. Rxf4 Ke7 {is a position that Black can hold,
+if I haven't missed something.}) 22... Rhf8 23. Rf2 b6 24. Rdf1 $36 {This
+looks promising for White, but I feel that it could be one of those positions
+that habitual Berlin-defenders could have all figured out (no, no, that's the
+position when the knight is on h4!). Still, Anand avoided something very
+similar on the second next move...}) 21... b6 22. g4 Nh4 $1 {The advantage of
+hanging out on h4, is that there are no pieces that can push it away. The
+downside is, you know, knight on the rim...} (22... Nd4 23. Rhf1 {is similar
+to the line above, which means that 21.g4 probably was stronger than 21.Ne4,
+at least from Anand's point of view. Perhaps Magnus didn't bother to stop the
+knight from going to h4.}) 23. Rhf1 {From now on, life will be hard for Black.}
+Rad8 $6 ({Instead,} 23... Rhf8 {holds the balance without too much difficulty:}
+24. Rf2 (24. Rd2 h6 25. Kd1 Rad8) 24... h6 {and I wonder how White will
+continue?} 25. Rfd2 (25. Ng3 Rad8 26. Nh5 Rxd1+ 27. Kxd1 g5) 25... Rad8 $1 26.
+Rxd8 Rxd8 27. Rxd8 Kxd8 28. Kd2 Ng2 29. f5 exf5 30. gxf5 Nh4 31. Ng3 Nf3+ 32.
+Ke3 Nxe5 33. Kf4 Nc6 34. Nh5 Ke7 35. Nxg7 Nb4 {and White should force a draw
+before things get out of hand.}) 24. Rxd8 Rxd8 25. f5 $1 {It seems that White
+got to play e5, f4, g4 and f5 a bit too easily. Considering what happens later,
+I wonder if Black felt the same thing here?} exf5 26. gxf5 Rf8 (26... Rd5 $5
+27. Rf4 Ng2 28. f6+ gxf6 29. exf6+ Kf8 $1 (29... Kf7 30. Rg4 Re5 31. Rg7+ Ke8
+32. Ng5 $18) 30. Rg4 Rd4 31. Rxg2 Rxe4 32. Rg7 c4 33. Rxc7 cxb3 34. axb3 Rh4
+35. Rc6 b5 36. Rxa6 Rxh3 {and although Black is struggling, it seems that he
+has good chances to hold.}) 27. f6+ gxf6 28. exf6+ Kf7 $6 {This looks natural
+and Ng5+ can be met with Kg6. There is only one (well, actually two) problem(s)
+.} (28... Kd7 29. Rg1 h6 30. Rg7+ Kc6 31. Rh7 Kd5 32. Nc3+ Kd4 33. Na4 Rxf6 34.
+Rxc7) 29. Rf4 $5 {Forcing Black to block the king's road to the kingside.} (29.
+Rg1 $5 {looks even better. The point is that} Rg8 (29... Nf5 30. Ng5+ Ke8 31.
+Re1+ Kd7 32. Nxh7 Rf7 33. Rf1 Ng3 34. Rf2 Ne4 35. Rf4 Ng3 36. Kd1 Nh5 37. Rf5
+Ng3 38. Rg5 $18) (29... Ng6 30. Ng5+ Ke8 31. Nxh7 Rf7 32. Rxg6 Rxh7 33. Rg8+
+Kf7 34. Rg7+ Rxg7 35. fxg7 Kxg7 36. Kd2 $18) 30. Ng5+ Kxf6 31. Nxh7+ Kf7 32.
+Rxg8 Kxg8 33. Nf6+ Kf7 34. Nd5 {should win for White.}) 29... Ng6 30. Ng5+ Ke8
+31. Rf1 h6 32. Ne6 Rf7 33. Rd1 $1 Rxf6 34. Nxc7+ Kf8 35. Nxa6 Nf4 36. h4 Ng6
+37. Rh1 Rf7 38. h5 $2 {I cannot see how this helps White. The knight becomes
+more active on f4, so why force it to go there?} (38. a4 $1 {seems better to
+me.} {One way to make sense of h5 is that Magnus was worried about} Ra7 (38...
+h5 39. Kb2 Kg7 40. Rd1 Nxh4 41. Rh1 Nf5 42. Rxh5 {and White has a hard defence
+ahead.}) 39. Nb8 Rb7 40. Nc6 Rc7 {, but after} 41. Rf1+ Rf7 42. Re1 Nxh4 43.
+Rh1 {there is no good way to hold on to the pawn:} Nf5 (43... Rf4 44. Ne5 Kg7
+45. Nc4 $18) 44. Ne5 Rg7 45. Nc4 $1 Rg6 $2 46. Rf1 $18) 38... Nf4 39. a4 Ke7
+40. Nc7 Kf6 41. Nb5 Kg5 {Black has almost managed to equalize, or, wait, is it
+only a mirage? Has the king been deviously lured away from the queenside, so
+that White can continue with his insidious ways? No, not really, but it is
+still more difficult to play Black. White's knight is a bit more jumpy for the
+time being.} 42. Nd6 Re7 43. Kb2 Re6 (43... Nxh5 $1 44. Rg1+ Kf6 45. Rh1 Kg6
+46. Rg1+ Kf6 {is very equal indeed.}) 44. Nf7+ Kf5 45. Rd1 $1 {To help the
+knights return to the queenside.} Kg4 46. Kc3 Kxh5 47. Rh1+ Kg6 48. Nxh6 {
+So, White is a pawn up again, but the knight is misplaced. Black needs to find
+a way to make a net that will keep it from getting out.} Re4 $1 {This stops
+the king from advancing further and keeps an eye on g4, from where Nh6 will
+try to stage its reentry into the game.} 49. Kb2 (49. Rh2 Nd5+ 50. Kb2 c4 $11)
+49... Re2 $1 50. Ng4 Nd3+ $6 {Another slight mistake puts Black under pressure
+again.} (50... Kf5 $1 {was the way to keep the knight in the cage:} 51. Nh6+
+Kg6 52. Kb1 Nd5 53. Ng4 Kg5 54. Rg1 Kf4 {and there is not way for White to
+gain coordination.}) 51. Kc3 Nb4 $6 {And with this the pressure becomes quite
+hard to bear, again.} (51... Ne1 $1 52. Rh2 Re4 53. Nf2 Re2 54. Kc4 Rxc2+ 55.
+Kb5 c4 56. bxc4 Rb2+ 57. Kc6 Nf3 58. Rg2+ Kf7 59. Kb7 Ne5 $11) 52. Rh2 $1 Rxh2
+53. Nxh2 Kf5 54. Nf3 Ke4 55. Ne1 Kd5 56. Nd3 Nc6 (56... Na2+ 57. Kb2 Nb4 58.
+c4+ $1 (58. Nxb4+ $2 cxb4 59. c3 bxc3+ 60. Kxc3 Kc5 $11) 58... Ke4 59. Nxb4
+cxb4 60. Kc2 Kd4 61. Kd2 Ke4 62. Ke2 Kd4 63. Kf3 Kc3 64. a5 $1 bxa5 65. c5 Kxb3
+66. c6 {and White wins.}) 57. Nf4+ $1 Kd6 (57... Ke5 $2 {loses to} 58. Kc4 $1
+Kxf4 (58... Na7 59. Nd5) 59. Kb5 Nb4 60. Kxb6 Nxc2 61. a5 Nb4 62. Kxc5 {
+and the knight is unable to stop both pawns.}) 58. Kc4 Na7 59. Nd5 Kc6 60. Ne7+
+Kd6 61. Nf5+ Kc6 62. Kd3 Kc7 (62... b5 $1 {is a good start, exchanging one of
+the pawns.}) 63. Ke4 Nc6 64. Ne3 Kd6 65. Nc4+ Kc7 66. c3 Ne7 67. Ke5 Ng6+ 68.
+Kf5 Ne7+ 69. Ke6 Ng6 {On one hand, Black's position is awful, but on the other;
+there is no way for White to go forward.} 70. a5 b5 $4 {A terrible blunder in
+a drawn position.} (70... bxa5 $1 71. Kd5 (71. Nxa5 Nf4+ 72. Ke5 Ne2 73. c4 Kb6
+$11 74. b4) 71... Nf4+ 72. Kxc5 Ne2 73. Na3 Nc1 74. Kc4 Kb6 75. Nc2 Ne2 76. Nd4
+(76. Ne3 Nc1) 76... Nf4 77. Nf5 Ne6 {and there is no way for White to make
+progress.}) 71. Ne3 Nf4+ 72. Ke5 Ne2 73. Nd5+ Kc6 74. b4 Nxc3 75. Nxc3 cxb4 76.
+Ne2 {a rather tragic end to an exciting game.} 1-0
+

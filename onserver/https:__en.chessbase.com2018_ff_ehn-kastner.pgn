@@ -1,0 +1,116 @@
+[Event "Traité élémentaire du jeu des échecs"]
+[Site "?"]
+[Date "1863.??.??"]
+[Round "?"]
+[White "Wasmann, D.E.L.."]
+[Black "Mate in three moves"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3K4/8/8/p2k4/pp1B4/N5N1/P2Q4/8 w - - 0 1"]
+[PlyCount "3"]
+[SourceVersionDate "2018.12.27"]
+
+1. Qd1 $3 {Unbelievable, but this is the only move that leads to mate in three.
+} bxa3 {or 1...Kd6} (1... Kd6 2. Qxa4 {[%cal Ra4d7]}) (1... Ke6 2. Qxa4 Kf7 3.
+Qe8#) (1... Kc6 2. Qg4 Kb7 3. Qc8#) 2. Qxa4 {[%cal Ra4d7] and mate on d7 on
+the next move.} *
+
+[Event "Reading Observer"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Heathcote, Godfrey"]
+[Black "Mate in three moves"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4p3/4P1KB/1pN1k3/1p6/1Q6 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1904.??.??"]
+[SourceVersionDate "2018.12.27"]
+
+1. Na2 $1 (1. Nd5+ $2 Kd2 $1 2. Kf3 {
+is stalemate.}) 1... bxa2 (1... Kd2 2. Kf3 bxa2 3. Be1#) (1... Kd4 2. Bf2+ Kc4
+3. Qf1#) (1... Ke2 2. Nb4 Kd2 (2... Ke3 3. Qd3# {This is the only position
+that is not a model mate (in which all flight squares are covered by only one
+piece). Here f3 is covered by the queen and the white king.}) 3. Qe1#) 2. Qc2 {
+[%cal Rh4f2]} *
+
+[Event "Deutsches Wochenschach"]
+[Site "?"]
+[Date "1917.??.??"]
+[Round "?"]
+[White "Palitzsch, Friedrich Martin"]
+[Black "Mate in two moves"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R3/8/8/7Q/8/8/3k4/B5K1 w - - 0 1"]
+[PlyCount "3"]
+[SourceVersionDate "2018.12.27"]
+
+1. Re1 $1 Kxe1 (1... Kc2 2. Qd1#) (1... Kd3 2. Qe2#) 2. Bc3# *
+
+[Event "Nordiske Schachbund"]
+[Site "?"]
+[Date "1905.??.??"]
+[Round "?"]
+[White "Hoeg, Niels"]
+[Black "Mate in three moves"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/R7/4kPP1/3ppp2/3B1P2/1K1P1P2/8/8 w - - 0 1"]
+[PlyCount "5"]
+[SourceVersionDate "2018.12.27"]
+
+1. f7 $1 {Threatens 2.f8Q and 3.Qe7#.} Kd6 (1... exf4 2. f8=R {(to avoid
+stalemate after a queen promotion)} Kd6 3. Rf6#) (1... exd4 2. f8=B {(to avoid
+stalmate after a queen promotion)} Kf6 3. Ra6#) (1... Kf6 2. f8=N exd4 3. Rf7#)
+2. f8=Q+ Kc6 (2... Ke6 3. Qe7#) 3. Qc5# *
+
+[Event "London Era"]
+[Site "?"]
+[Date "1861.??.??"]
+[Round "?"]
+[White "Loyd, Sam"]
+[Black "Mate in five moves"]
+[Result "*"]
+[SetUp "1"]
+[FEN "n1rb4/1p3p1p/1p6/1R5K/8/p3p1PN/1PP1R3/N6k w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1861.??.??"]
+
+1. b4 $1 ({
+Why not immediately} 1. Rd5 {or Rf5 and mate on d1 or f1 on the next move?
+Because Black can pin the rook with} Rc5 {preventing a mate in five moves.}) {
+Still, Black plays} 1... Rc5+ (1... Rxc2 2. Nxc2 a2 3. Rf5 a1=Q 4. Nxa1 {
+and 5.Rf1#}) 2. bxc5 {Threat: 3.Rb1 mate.} a2 {The only move to counter the
+threat.} 3. c6 (3. cxb6 $2 Bc7 {[%cal Gc7f4,Gc7g3] give Black the chance, to
+prevent mate in five with ...Bf4 or ...Bxg3.}) 3... Bc7 4. cxb7 {nebst 5.bxa8D
+(L) matt} Bxg3 5. bxa8=Q# {or 5.bxa8B#. It is really the pawn on b2 that
+delivers mate!} *
+
+[Event "Magyar Sakkélet"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Benko, Pal"]
+[Black "White to play and win"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/6pB/6K1/8/8/5Pn1/1P6/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1988.??.??"]
+[SourceVersionDate "2018.12.27"]
+
+1. b4 Ne2 {The only chance...} ({... because after} 1... Ne4 2. Kf5
+$1 (2. fxe4 $2 {is stalemate}) 2... Nd2 3. Bg6 Nxf3 4. Ke4 {the knight is no
+longer able to prevent the promotion of the b-pawn.}) 2. b5 Nd4 3. b6 Nc6 4. b7
+Nd8 $1 ({After} 4... Nb8 5. f4 Nd7 6. f5 Nb8 7. f6 gxf6 8. Kh6 f5 9. Bxf5 {
+[%cal Gh8g8,Gg8f8,Gf8e8,Ge8d8,Rh6g6,Rg6f6,Rf6e6,Re6d6] the white king can move
+unhindered to d6 and win the game.}) 5. b8=B {The white pawn advanced all the
+way to b8 just to promote into a "weak" bishop. But anything else would have
+resulted in stalemate or a drawn ending.} Nc6 6. Bg3 $1 {The best square,
+since the bishop now controls h4.} (6. Bf4 $2 Ne7+ 7. Kf7 Ng6 8. Be3 Kxh7 9. f4
+Nh4 {is a draw.}) 6... Ne7+ 7. Kf7 Ng6 $1 {What a move! The knight cannot be
+taken because of stalemate.} 8. Bg8 $1 Ne5+ 9. Ke8 $1 {and White has a
+theoretical win.} *
+

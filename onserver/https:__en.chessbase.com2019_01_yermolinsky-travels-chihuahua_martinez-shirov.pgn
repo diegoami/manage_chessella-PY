@@ -1,0 +1,45 @@
+[Event "Chiahuahua Bionext"]
+[Site "?"]
+[Date "2018.10.14"]
+[Round "6"]
+[White "Martinez, Carlos"]
+[Black "Shirov, Alexei"]
+[Result "0-1"]
+[ECO "D44"]
+[WhiteElo "2166"]
+[BlackElo "2636"]
+[Annotator "AlexYermo"]
+[PlyCount "62"]
+[EventDate "2018.??.??"]
+[SourceVersionDate "2018.10.22"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 {"He sticks to
+his guns he takes the road as it comes" describes Shirov's way of life and
+chess, courtesy of Dire Straits.} 7. e4 {Kudos to Shirov's unknown opponent
+for taking up the challenge.} b5 8. e5 g5 9. Nxg5 hxg5 10. Bxg5 Nbd7 11. g3 Bb7
+12. Bg2 Qb6 13. exf6 O-O-O 14. O-O c5 15. d5 b4 16. Rb1 Qa6 17. dxe6 Bxg2 18.
+e7 Bxf1 19. Qd5 Re8 {A relatively new path Alexei took lately.} ({Prior to
+that there had been many games featuring} 19... Bh6 20. Bxh6 Bd3 21. Qa8+ Nb8
+22. exd8=Q+ Rxd8 23. Re1 bxc3 24. Bf4) ({and} 19... Bxe7 20. fxe7 Rdg8 21. Ne4
+Rg6 22. Qa8+ Nb8 23. Rxf1 Qc6 24. Rd1 {While I used to be well versed in those
+matters, having invented this whole 19.Qd5 thing during my game with Ivanchuk,
+USSR Ch Qualifier Pinsk 1986, these days I don't think I have anything to add.}
+) 20. Ne4 Bh6 {[#] Crossroads} 21. Nd6+ ({I'm curious about this one:} 21. Rd1
+Bxg5 22. Qxd7+ Kb8 23. Nxc5 Qb6 24. Qd5 Bh3 25. Qe5+ Kc8 26. Qxg5 Qc6 27. Rd5 {
+Does White have enough for a rook?}) ({Known is} 21. Bxh6 Rxh6 22. Nd6+ (22.
+Qxf7 Rhh8 23. Rxf1 Qc6 {Once the black queen intercepts this vital long
+diagonal White will be reduced to searching for a draw.}) 22... Qxd6 23. Qxd6
+Rxf6 24. Qd5 Bd3 ({Engines say} 24... Be2 $1) 25. Re1 Kc7 {Kopasov-Arslanov,
+2012 and Grigorian-Shirov, 2016.}) 21... Kc7 22. Bxh6 $2 {This is where the
+local kid went wrong.} (22. Nxe8+ Rxe8 23. Bxh6 Bh3 $1 ({It's a safe bet we
+won't see} 23... Qc6 {again:} 24. Qxc6+ Kxc6 25. Kxf1 Nxf6 26. Re1 Nd5 27. h4
+$16 {Pacher-Shirov, Avicenna Open 2017}) 24. Bf4+ Kb6 {White is still in the
+game, albeit I'd trust Shirov's analysis more.}) 22... Qxd6 $1 23. Bf4 Qxf4 24.
+gxf4 {The queen sac was rather obvious and forced, but this whole thing is
+about the next move.} Bh3 $1 25. f3 Reg8+ 26. Kf2 Be6 {In the Botvinnik, Black
+can give up anything, but the f7-pawn. Here it is safe.} 27. Qe4 {[#] As
+expected Shirov's calculations were impeccable.} Rh5 $1 (27... Rxh2+ 28. Ke3
+Rh5 29. Qxe6 $1 fxe6 30. f7 Rhh8 31. Rh1 {and White might escape with a draw
+in the resulting rook endgame.}) 28. f5 ({Now} 28. Qxe6 fxe6 29. f7 {meets with
+} Rxh2+ 30. Ke3 (30. Kf1 Rf8 31. e8=Q Rh1+ 32. Kf2 Rxb1 $19) 30... Rgg2 $1 31.
+Re1 Nb6 {mating.}) 28... Rxf5 29. Qh4 Ne5 30. Rg1 Rxf3+ 31. Ke2 Rxg1 0-1

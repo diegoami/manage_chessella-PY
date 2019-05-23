@@ -1,0 +1,110 @@
+[Event "Sydney International Open"]
+[Site "?"]
+[Date "2019.04.27"]
+[Round "7"]
+[White "Padmini, Rout"]
+[Black "Fernandez, Daniel"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2364"]
+[BlackElo "2467"]
+[Annotator "DF"]
+[PlyCount "105"]
+[EventDate "2019.04.29"]
+
+{[%evp 0,105,19,31,34,19,13,3,44,32,31,-7,2,-18,48,15,65,56,60,60,69,51,97,69,
+82,75,63,23,55,55,62,51,70,38,36,26,18,18,62,46,35,29,57,-8,6,-8,41,32,43,17,2,
+2,1,-13,-15,-30,-37,-30,-28,-27,-34,-28,-35,-33,-38,-94,-77,-81,-67,-143,-43,
+-67,-51,-60,-7,-29,-30,-26,-41,-41,-41,-41,-41,-43,-29,-42,-39,-48,-38,-44,-44,
+-31,-11,-41,-28,-25,-30,-30,0,-13,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5
+d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nd6 {A system which I have played on
+numerous occasions, dating back to 2013. It avoids heavy theory and Black's
+ideas are incredibly easy to remember.} 8. Re1 O-O 9. Bf4 (9. Nbd2 {Now the
+following game gives a good illustration of another of Black's freeing
+mechanisms, i.e. ...Bg5:} Re8 10. Nf1 c6 11. Ng3 Nd7 12. c3 Bf6 (12... Nf8 $11
+{improves slightly}) 13. Bf4 Rxe1+ 14. Qxe1 Nf8 15. Qe2 Ng6 16. Be3 Bg4 17. h3
+Bxf3 18. Qxf3 Bg5 $11 {In McPhillips,J-Fernandez,D Coulsdon 2017 I tried for a
+long time to win a drawn knight endgame but could not.}) 9... Re8 (9... Bg4 $6
+{This was my choice against Nigel Short, but it leaves the b7-pawn weak.} 10.
+Nbd2 Nd7 11. c3 (11. c4 {Here this isn't good because Black is too active.}
+dxc4 12. Nxc4 Nxc4 13. Bxc4 Nb6 14. Bb3 c6 $11) 11... Nf6 12. Qb3 Rb8 13. Re2
+Re8 14. Rae1 $14 {White has consolidated his opening edge.} Bf8 $6 15. Rxe8
+Ndxe8 16. Ne5 Bh5 $6 17. h3 Bg6 18. Nxg6 hxg6 19. c4 Bd6 20. Bg5 c6 21. c5 $16
+{White had a serious advantage already in Short,N-Fernandez,D London 2016}) 10.
+Nbd2 {Here, on my DVD from last year, I commented that the text is the most
+challenging way for White to meet my system, keeping the option of c4 open.}
+Nd7 11. c3 {This, however, is not especially testing.} (11. c4 $1 {After this
+critical move, I include a large chunk of my analysis from the DVD, but to get
+it in readable format you will have to buy the work.} dxc4 12. Nxc4 {Now Black
+has three logical moves with the d7-knight, of which 2 seem to equalise.} Nf6
+$5 (12... Nxc4 13. Bxc4 Nb6 (13... Rf8 14. Rc1 c6 15. d5 $16) 14. Bxf7+ $3 {
+The point of 11.c4.} Kxf7 15. Ng5+ Bxg5 16. Qh5+ Kf8 17. Bxg5 Qd7 18. Qxh7 $18)
+(12... Nb6 13. Nxd6 Bxd6 14. Qd2 Rxe1+ (14... Rf8 $5 {is not as stupid as it
+looks}) 15. Rxe1 Bxf4 16. Qxf4 g6 {Now the only way I can think of to stop ...
+Be6 completing development for more than a move is} 17. Ng5 f6 18. Ne4 (18. Nf3
+{but still, after the cold-blooded} Qd6 {Black should be fine.}) (18. Ne6 Bxe6
+19. Rxe6 Nd5 20. Qf3 c6 21. Bc4 Kf7 22. Bxd5 cxd5 23. Re5 Rc8 $1 {Black is on
+time with the counterplay}) 18... Bf5 19. Bc2 Kh8 20. g4 Bxe4 21. Qxe4 c6 $11)
+13. Rc1 (13. Nxd6 Bxd6 14. Rxe8+ Qxe8 15. Be5 (15. Bxd6 cxd6) 15... Qe7 16. Qb3
+b6 $11 {Once it reaches high depth, the engine realises that after ...Be6
+comes, Black will be completely fine.}) 13... h6 (13... Nd5 14. Nxd6 Bxd6 15.
+Rxe8+ Qxe8 16. Bxd6 cxd6 17. Qb3) 14. Qb3 (14. Nxd6 Bxd6 15. Rxe8+ Nxe8 $11 {
+is still nothing}) (14. Ne3 {is logical, trying to prevent ...Nd5, but Black
+can bring more pieces to bear on this square.} c6 15. Be5 Be6 16. Bb1 Nd5 17.
+Qd2 Qd7 $11 {As so often in the Petroff, Black is fine if he only stays calm.})
+14... Bf8 15. Rxe8 (15. Nxd6 Rxe1+ 16. Rxe1 cxd6 17. Bc4 ({White cannot rely
+on a static advantage either, e.g.} 17. h3 Qb6 18. Qxb6 axb6 19. a3 Be6 $132)
+17... Qc7 18. d5 Bf5 $11) 15... Ndxe8 16. Ne3 {A wide variety of moves are
+possible, but we need only consider the ones which impede Black's developing
+plan of ...Nd5, ... c6, . ..Nd6 etc.} (16. Be5 a5 17. Bxf6 Nxf6 18. Nce5 Nd5
+$11) 16... Be6 17. Qxb7 (17. Bc4 Bxc4 18. Rxc4 Nd5 19. Bg3 Nxe3 20. fxe3 Nd6
+21. Bxd6 cxd6 $1 22. Qxb7 (22. Rc3 Qd7 {with dynamic equality}) 22... Rb8 23.
+Qxa7 Qe8 $1 24. d5 Rxb2 $11) 17... Nd5 $1 18. Nxd5 (18. Be5 Rb8 19. Qxa7 Ra8 (
+19... Rxb2 20. a4) 20. Qb7 Nd6 21. Bxd6 Bxd6 22. Ne5 Bxe5 23. dxe5 Nxe3 24.
+fxe3 Rxa2 $11) 18... Bxd5 19. Qa6 Bxf3 20. gxf3 Qxd4 21. Qc4 Rd8 (21... Qxb2
+22. Qe4) 22. Qxd4 Rxd4 23. Be4 Bd6 24. Be3 Rb4 25. b3 Nf6 26. Bc6 a6 $11 {
+Both sides have wrecked pawn structures and safe kings.}) 11... Nf8 12. Qc2 g6
+13. Re2 $146 {Only this is new in my practice, but of course the idea is
+natural.} (13. b3 c6 14. c4 Bf5 15. c5 (15. Bxd6 Bxd3 16. Bxe7 Bxc2 17. Bxd8
+Raxd8 18. cxd5 cxd5 19. Rxe8 Rxe8 20. Rc1 {fails to get an edge:} Bf5 21. Rc7
+Bc8 $1 {and if anything Black is for choice}) 15... Bxd3 16. Qxd3 Nf5 17. g4
+Ng7 18. h3 a5 (18... h5 $15) 19. a3 $132 {Jablonicky,M-Fernandez,D Budapest
+2018}) (13. h3 c6 14. Re2 Bf5 15. Bxf5 Nxf5 16. Rae1 Ne6 {Black was slightly
+more comfortable in Anderson, J-Fernandez,D Hastings 2013}) (13. Rac1 c6 14. h3
+{[%cal Gf8e6,Ge6g7]} Be6 $6 (14... Ne6 {Black should have stuck to the plan
+with} 15. Be5 Ng7 $11 {and here it bears mentioning that after} 16. g4 {
+Black can usually justify extreme measures like} f5 $5 $13) 15. Nf1 f6 16. Ng3
+Kg7 17. h4 $40 {Schroeder,J-Pap,M Ditzingen 2017}) 13... c6 14. Rae1 Ne6 15.
+Bg3 Ng7 16. h3 Bf5 17. Be5 Bxd3 18. Qxd3 Qd7 {The final stereotyped move for
+this opening. Now, I was perfectly ready to offer a draw, had White not fallen
+into a small positional trap:} 19. Bxg7 $6 {Here, the bishop is considerably
+stronger than the knight, particularly if it can get onto the h6-c1 diagonal.}
+({Any number of moves like} 19. Nf1 {are just equal.}) 19... Kxg7 20. Ne5 Qc7
+21. Qf3 Bg5 22. Qd3 Be7 23. g3 Bf8 24. Kg2 f6 25. Nef3 Qd7 26. Re3 {
+Prophylaxis against ...Kf7- White sets up Ne5 tricks. However, Black can
+choose to place his king somewhere else.} Kg8 {Now Black is probably slightly
+better.} 27. Rxe8 Rxe8 28. Rxe8 Qxe8 29. h4 Qe6 30. b3 Bh6 31. a4 Kf7 32. h5
+Ne4 33. hxg6+ hxg6 {Black has made all his natural moves. Anything more (like .
+..a5) will entail a possible opening of the position.} 34. Nf1 $2 {This move
+gives me a massive chance, which I failed to take.} Nd6 $2 (34... Qh3+ $3 {
+This would have been the logical culmination of Black's strategy and is a
+tactic well worth bearing in mind. Of course after} 35. Kg1 {the follow-up is
+the no less spectacular} Qh1+ {forcing the win of the f2-pawn.}) ({I was only
+looking at ideas of} 34... Qf5 {which threatens ...Nxg3. Now due to the pin on
+the f3-knight White has to play} 35. Ne3 Bxe3 36. Qxe3 {and here Black can
+probably try and press with his slightly more active pieces in some line like}
+g5 37. Ne1 Nd6 $15 {This would also have been better than the game.}) 35. N1d2
+a5 36. c4 {Here too, Black has various options but I wasn't able to find an
+advantageous one.} Qf5 (36... Bxd2 $5 37. Nxd2 Ne4 (37... dxc4 38. bxc4 b5 $5)
+(37... Qf5 {Even this straight knight ending is not necessarily trivial.})) (
+36... Ne4 {It's also still possible to just go back to e4, though who's to
+know whether I'd have found ...Qh3 if given any more (or even arbitrarily many)
+chances.}) 37. Qxf5 Nxf5 38. cxd5 cxd5 ({This was my last chance to make the
+game interesting- by removing the imbalance, ironically- albeit White has more
+options than before.} 38... Bxd2 39. dxc6 bxc6 40. Nxd2 Nxd4 $11 {White is
+fine and faces only practical problems. Usually these relate to Black
+obtaining a well-placed knight on e7 and king on b4.}) 39. Nb1 Ke6 40. Nc3 Nd6
+41. Kf1 g5 42. g4 f5 43. gxf5+ Nxf5 44. Nb5 $1 {The last precise move to make
+sure there is no play left in the position. Now this is a dead draw.} g4 45.
+Ne1 g3 46. Nc2 b6 47. Kg2 gxf2 48. Kxf2 Ne7 49. b4 Nc6 50. bxa5 Nxa5 51. Nb4
+Nc4 52. Nc7+ Kd6 53. Nb5+ 1/2-1/2

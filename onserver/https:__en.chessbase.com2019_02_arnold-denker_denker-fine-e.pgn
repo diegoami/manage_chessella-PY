@@ -1,0 +1,48 @@
+[Event "USA-ch"]
+[Site "New York,NY"]
+[Date "1944.??.??"]
+[Round "7"]
+[White "Denker, Arnold Sheldon"]
+[Black "Fine, Reuben"]
+[Result "1-0"]
+[ECO "E43"]
+[Annotator "Johannes Fischer"]
+[PlyCount "49"]
+[EventDate "1944.??.??"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceVersion "1"]
+[SourceVersionDate "2005.11.24"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 Ne4 7. O-O {Denker
+liked to attack and does not mind to give a pawn in the opening.} Nxc3 8. bxc3
+Bxc3 9. Rb1 Ba5 10. Ba3 d6 {White has compensation for the pawn: Black's
+bishop on a5 is out of play, Black has not castled yet, and Black still has to
+develop his queenside. The engines evaluate the position as roughly equal.} 11.
+c5 O-O 12. cxd6 cxd6 13. e4 Re8 14. e5 dxe5 15. Nxe5 {Eying f7 and h7 but
+Black's next move seems to parry White's attack.} Qg5 16. g3 {White weakens
+the white squares around his king and the pawn on g3 makes it more difficult
+for the white rooks to position themselves for an attack against Black's king.
+But White has other threats.} g6 $6 {Black secures his position on the
+kingside but neglects to develop his queenside. However, White's has more
+threats than it seems at first sight.} ({After e.g.} 16... Nc6 {White can
+sacrifice with} 17. Nxf7 $5 {and now the engines propose the following wild
+line:} Kxf7 18. Rb5 Qh6 19. Rh5 Qf6 20. Rh4 Bb4 21. Bxb4 Nxb4 22. Rf4 Qxf4 23.
+gxf4 Nxd3 24. Qxd3 Kg8 25. Re1 Bd5 {with equality.}) 17. Qa4 Qd8 {Black is in
+great danger, e.g.} (17... Rc8 18. Rfc1 Rxc1+ 19. Rxc1 Qd8 20. d5 Bxd5 21. Qf4
+f5 22. Nxg6 $1 hxg6 23. Qh6 {with a winning attack for White.}) 18. Rfc1 b5 {
+A creative counter which White counters creatively.} ({The best move was} 18...
+Na6 {and after} 19. Bb5 Qd5 20. Bc6 Bxc6 21. Nxc6 Qd7 22. Qc4 Nb8 23. Nxa5 bxa5
+24. Rb5 {the engines give White a slight plus.}) 19. Bxb5 Qd5 20. f3 Bb6 {
+That's the counter Black had in mind.} 21. Rc5 {A nice countermove.} ({However,
+as the engines note without sense or feeling for beauty, White also had the
+prosaic} 21. Bxe8 {though he should see that after} Bxd4+ 22. Kg2 Bxe5 23. Qb3
+Qd2+ 24. Kh1 Bd5 {he has the "zwischenzug"} 25. Rd1 {after which White is
+winning.}) 21... Bxc5 22. Bxc5 $1 {Suddenly, all the black pieces are in
+danger. Black loses material.} Rf8 23. Bc4 Bc6 {Otherwise Black loses the
+bishop on b7.} 24. Bxd5 Bxa4 25. Bxa8 {White is simply a piece up. Black
+resigned.} 1-0
+

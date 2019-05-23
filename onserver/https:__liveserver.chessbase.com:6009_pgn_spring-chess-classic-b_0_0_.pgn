@@ -1,0 +1,1931 @@
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.02"]
+[Round "1.1"]
+[White "Bai, Jinshi"]
+[Black "Steingrimsson, Hedinn"]
+[Result "1-0"]
+[ECO "E06"]
+[WhiteElo "2593"]
+[BlackElo "2558"]
+[Annotator "TA"]
+[PlyCount "74"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,74,0,0,0,0,0,0,0,0,0,2,27,16,41,36,36,46,42,10,32,10,98,92,97,83,83,
+85,91,99,102,108,77,88,137,149,227,233,211,215,210,224,274,321,420,420,433,412,
+389,266,521,472,29968,4647,29986,29987,29987,29988,29985,29984,29985,29986,
+29989]} 1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. Qc2 c5 7. dxc5
+Qa5+ 8. Nc3 dxc4 {E06: Closed Catalan: Early deviations} 9. O-O Nc6 10. Bg5
+Qxc5 {The position is equal.} 11. Bxf6 Bxf6 12. Ne4 $40 {[%mdl 128] White has
+some attack.} Qe7 13. Nfd2 {[#]} c3 $146 ({Predecessor:} 13... Bd7 14. Nxc4 Nd4
+15. Qd3 Bb5 16. Nxf6+ Qxf6 17. Bxb7 {1/2-1/2 (31) Bindrich,F (2600)-Nisipeanu,
+L (2674) Austria 2019}) 14. Nxf6+ Qxf6 15. Ne4 Qg6 16. bxc3 Rb8 17. Qa4 e5 (
+17... Qh5 $11 {remains equal.}) 18. Rfd1 $16 Bg4 19. Rd2 Qh5 20. Nc5 Bxe2 {[#]}
+21. Nxb7 $1 {[%mdl 512]} Rxb7 22. Qxc6 Rbb8 23. Re1 Rfc8 {[#]} 24. Rb2 $3 {
+[%mdl 512]} h6 (24... g6 $16 {was necessary.}) (24... Rxb2 25. Qxc8#) 25. Rxb8
+$1 $18 Rxb8 {[#]} 26. h3 $1 Bb5 27. Qc7 Re8 {[#]} 28. c4 $1 {[%cal Rc4b5]} ({
+Not} 28. Qxa7 Qg6 $16) 28... Ba6 29. Qc6 Re6 30. Qa8+ Kh7 31. Qxa7 {Hoping for
+g4.} f5 $2 (31... Bxc4 {is a better defense.} 32. g4 Qg5 33. Be4+ (33. Qxf7 Qf4
+$16) 33... Rg6) 32. Bd5 Rf6 (32... Qg6 $18 33. Bxe6 Qxe6) 33. Qb8 (33. Qa8 $142
+Qxh3 34. Qg8+ Kg6 35. Rxe5 Bb7 36. Re7 Bxd5 37. Rxg7+ Kh5 38. cxd5) 33... Qxh3
+34. Qg8+ {White mates.} Kg6 35. Qe8+ Kg5 36. Qxe5 h5 37. Qe8 h4 {Accuracy:
+White = 80%, Black = 31%.} 1-0
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.02"]
+[Round "1.2"]
+[White "Baryshpolets, Andrey"]
+[Black "Chirila, Ioan-Cristian"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2589"]
+[BlackElo "2566"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,61,13,15,-7,10,14,16,-17,0,0,0,-2,0,-11,-21,-18,-7,-16,-9,-7,0,0,0,
+-12,-2,-12,-10,-11,-10,-11,-7,-7,-7,-7,-7,-7,-7,-7,-7,-8,-2,-3,0,0,2,2]} 1. d4
+Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Qa4+ Nd7 8. Nf3
+O-O 9. Be2 c5 {The position is equal.} 10. O-O {D85: Exchange Grünfeld:
+Unusual White 7th moves and lines with 7 Nf3} Nb6 11. Qa3 cxd4 12. Nxd4 $146 ({
+Predecessor:} 12. cxd4 Bg4 13. Rd1 Bxf3 14. gxf3 Bxd4 15. Bg5 Bxa1 16. Rxd8
+Rfxd8 17. Qxe7 Rd7 {1-0 (39) Riazantsev,A (2671)-Navara,D (2751) Montpellier
+2015}) 12... e5 13. Nb5 Be6 14. Rd1 Qc8 15. Be3 Nc4 16. Bxc4 $1 Qxc4 17. Qb4
+Rfd8 18. Nxa7 (18. h3 {looks sharper.} a6 19. Qxc4 Rxd1+ 20. Rxd1 Bxc4 21. Nc7)
+18... Qxb4 19. cxb4 {[#]} Bxa2 $1 {[%mdl 512]} 20. Bb6 (20. Rxa2 Rxd1#) 20...
+Rxd1+ 21. Rxd1 Bf8 22. Rd7 Bxb4 23. Rxb7 Be6 24. h3 Bd6 25. Be3 Rb8 26. Rxb8+
+Bxb8 27. Nc6 Bd6 28. Bd2 Bd7 29. Bb4 Bxc6 30. Bxd6 Bxe4 31. Bxe5 {Accuracy:
+White = 79%, Black = 63%.} 1/2-1/2
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.02"]
+[Round "1.3"]
+[White "Kaidanov, Gregory"]
+[Black "Kadric, Denis"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[WhiteElo "2540"]
+[BlackElo "2547"]
+[Annotator "TA"]
+[PlyCount "90"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,90,10,0,0,4,3,0,-3,-12,-4,-12,-1,-17,-8,-20,-14,-19,-13,-18,-24,-39,
+-15,-35,-33,-33,-35,-14,-23,-28,-33,-26,-21,-28,0,-11,-12,-11,-16,-37,-38,-38,
+-14,-14,-14,-14,-14,-14,-18,-18,-17,-15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0]} 1. Nf3 d6 2. d4 g6 3. e4 Bg7 4. Nc3 a6 5. a4 Nf6 6. Be2 O-O 7. O-O
+Nc6 8. Be3 e5 9. dxe5 dxe5 10. h3 Qe7 {B08: Pirc Defence: Classical System} (
+10... Be6 11. Ng5 Nd4 12. Nxe6 fxe6 13. Bd3 Qe7 14. Ne2 Rad8 15. c3 Nc6 16. Qc2
+Nh5 17. g3 Bf6 18. Bc4 {1-0 (45) Caruana,F (2811)-Shabalov,A (2544) chess.com
+INT 2018}) 11. Nd5 Nxd5 12. exd5 Nd4 13. Nxd4 exd4 14. Bf4 Qc5 15. c4 $146 ({
+Predecessor:} 15. Qd2 Bf5 16. b4 Qxd5 17. c4 Qd7 18. Bf3 {0-1 (37) Forgues,F 
+(2111)-Chatalbashev,B (2507) Creon 2006}) 15... dxc3 16. bxc3 Re8 (16... Bxc3
+17. Rc1 $14) 17. Bf3 Qc4 18. Bg3 Bf5 19. d6 c6 ({Don't blunder} 19... Qxc3 $2
+20. Rc1 $18 (20. dxc7 Qxa1 21. Qxa1 Bxa1 $11)) 20. Ra3 Rad8 21. Qb3 Bd3 22.
+Qxc4 Bxc4 23. Rb1 Rd7 24. a5 Bf8 25. Ra4 Bb5 26. Rab4 {c4 is the strong threat.
+} c5 ({Reject} 26... Bxd6 $6 27. Rd4 $16) 27. Rxb5 axb5 28. Rxb5 Bxd6 29. Bxd6
+Re1+ 30. Kh2 {[#] Threatens to win with Bg3.The position is equal.} Rxd6 31.
+Bxb7 $11 {[%mdl 4096] Endgame KRR-KRB} Rd2 32. a6 Ra1 33. f4 h5 {aiming for ...
+h4.} 34. h4 $1 Rd6 35. Rxc5 Kg7 36. f5 Kf6 37. fxg6 fxg6 38. Rc4 Ra5 39. Re4
+Rd3 40. Rc4 Rd6 41. Rf4+ Ke5 42. Re4+ Kf5 43. Re7 Kf6 44. Re4 Kf5 45. Re7 Kf6 {
+Accuracy: White = 74%, Black = 73%.} 1/2-1/2
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.02"]
+[Round "1.4"]
+[White "Erenburg, Sergey"]
+[Black "Mista, Aleksander"]
+[Result "1/2-1/2"]
+[ECO "B80"]
+[WhiteElo "2576"]
+[BlackElo "2592"]
+[Annotator "TA"]
+[PlyCount "94"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,94,31,2,18,22,34,0,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,8,8,8,
+0,0,-19,-11,-24,-14,-25,0,0,0,-8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6
+6. Be3 a6 7. f3 b5 8. Qd2 Nbd7 9. g4 h6 10. O-O-O b4 {B80: Sicilian
+Scheveningen: 6 g3 and 6 Be3, including English Attack} 11. Nce2 (11. Na4 Ne5
+12. Kb1 Bd7 13. b3 Bxa4 14. bxa4 Qc7 15. Be2 Be7 16. h4 Nc4 17. Bxc4 Qxc4 18.
+Qd3 {1-0 (49) Caruana,F (2802)-Hou,Y (2652) chess.com INT 2017}) 11... Qc7 12.
+h4 d5 13. g5 hxg5 14. exd5 Nxd5 15. Bxg5 N7f6 16. Nf4 Bd6 {[%cal Rd6f4]} 17.
+Nxd5 Nxd5 {[#]} 18. Bd3 $146 Bf4 19. Bxf4 Qxf4 20. Qxf4 Nxf4 21. Be4 Ra7 $1 22.
+Nc6 {[%csl Gc6][%cal Rd1d8] [#]} Rd7 23. Rxd7 Bxd7 24. Nxb4 f5 25. Bb7 a5 26.
+Nd3 Nxd3+ 27. cxd3 $11 {[%mdl 4096] Endgame KRB-KRB} g5 28. h5 Kf7 29. h6 {
+The position is equal.} Kg6 30. Kd2 Kh7 31. Rc1 {[#] Threatens to win with Rc7.
+} Rd8 32. Bc6 Kxh6 33. Bxd7 Rxd7 {KR-KR} 34. Rc6 g4 35. fxg4 fxg4 36. Rxe6+ Kh5
+37. Ke3 g3 38. Kf3 Rxd3+ 39. Kg2 Kg4 {Hoping for ...Rd2+.} 40. Re4+ Kf5 41. Ra4
+Rd2+ 42. Kxg3 Rxb2 43. Rxa5+ Ke6 44. a4 Kd6 45. Rb5 Rxb5 46. axb5 Kc5 47. b6
+Kxb6 {Accuracy: White = 80%, Black = 87%.} 1/2-1/2
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.02"]
+[Round "1.5"]
+[White "Theodorou, Nikolas"]
+[Black "Sorokin, Aleksey"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2551"]
+[BlackElo "2531"]
+[Annotator "TA"]
+[PlyCount "107"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,107,0,0,0,11,11,9,-18,19,13,79,69,95,14,91,97,97,87,90,91,106,93,97,
+106,163,66,62,66,67,68,69,67,68,28,32,14,43,59,110,68,87,87,79,67,67,53,53,50,
+48,54,81,82,83,63,59,59,75,51,83,83,85,85,143,126,213,202,213,212,359,294,590,
+577,912,822,748,564,556,308,1243,720,1239,1185,1185,1185,620,605,595,560]} 1.
+d4 Nf6 2. c4 e6 3. g3 c5 4. Nf3 cxd4 5. Nxd4 d5 6. Bg2 e5 7. Nf3 d4 8. O-O Nc6
+9. e3 Be7 10. exd4 exd4 11. a3 a5 12. Re1 {E01: Catalan: Early deviations} (12.
+Bf4 O-O 13. Ne5 Qb6 14. Re1 Be6 15. Nd2 Rfd8 16. Nd3 a4 17. Rc1 h6 18. c5 Qb5
+19. Ne4 Nd5 {0-1 (56) Melkumyan,H (2622)-Perunovic,M (2622) Berlin 2015}) 12...
+O-O 13. Bf4 Ra6 14. Ne5 {The position is equal.} Be6 $146 ({Predecessor:} 14...
+Nxe5 15. Bxe5 Re6 16. Nd2 Ng4 17. Qxg4 Rxe5 18. Qf3 Qc7 19. Rxe5 Qxe5 {0-1 (62)
+Sabuk,P (2371)-Klekowski,M (2448) Krakow 2017}) 15. Nd2 Rb6 (15... Nd7 $11 {
+keeps the balance.}) 16. Nd3 $16 Nd7 17. Bd5 (17. Rc1 $16) 17... g5 (17... Nc5
+$1 $11 18. Nxc5 Bxc5) 18. Bxe6 fxe6 19. Qg4 {Ne4 is the strong threat.} Kh8 20.
+c5 $1 {[%cal Rc5b6]} Rb5 21. Bd6 Bxd6 22. cxd6 e5 (22... Nde5 $16 23. Nxe5 Nxe5
+24. Qxe6 (24. Qxd4 Rd5 $14 {[%mdl 64] Double Attack}) 24... Re8) 23. a4 ({
+White should try} 23. Rac1 $18) 23... Rd5 $1 $14 24. Ne4 Nf6 $1 {[%cal Rf6g4]}
+25. Qe6 Qd7 26. Qxd7 Nxd7 27. Ra3 g4 28. Rb3 b6 29. Rc1 Nb4 (29... Nd8 $1 $14)
+30. Nxb4 axb4 31. Rxb4 {aiming for Rc7.} d3 32. Kg2 h5 33. h3 gxh3+ $1 34. Kxh3
+Nc5 35. Kg2 Kg7 36. Rb5 Rd4 37. Nxc5 bxc5 38. Rbxc5 $16 {[%mdl 4096] Endgame
+KRR-KRR} Kf6 39. Rd1 Ke6 {[#]} 40. f3 $1 Rb8 {[#]} 41. Rd2 $1 Rxd6 (41... Rbb4
+$142) 42. Rc3 Rdb6 (42... Kf5 $16 {was necessary.} 43. Kf2 (43. Rcxd3 Rxd3 44.
+Rxd3 Rxb2+ 45. Kh3 Ra2 $14) (43. Rdxd3 Rxb2+ 44. Kh3 Rxd3 $14) 43... Rdb6) 43.
+Rcxd3 $18 Rxb2 44. Kh3 Rxd2 (44... Rb1 $142 45. Rd6+ Kf5) 45. Rxd2 {KR-KR} Rb3
+$2 (45... Ra8 46. Ra2 Kf5) 46. Ra2 Rxf3 47. a5 {[%cal Ba4a5,Ba5a6][%mdl 32]}
+Rf7 48. a6 {Threatens to win with a7.} Ra7 49. Kg2 Kf5 $2 (49... Kd7 50. Kf3
+Kc7) 50. Ra4 {White is clearly winning.} e4 51. Kf2 Kg5 52. Ra5+ Kg4 53. Kg2 e3
+54. Ra4+ {Accuracy: White = 64%, Black = 44%.} 1-0
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.03"]
+[Round "2.1"]
+[White "Steingrimsson, Hedinn"]
+[Black "Sorokin, Aleksey"]
+[Result "1-0"]
+[ECO "E46"]
+[WhiteElo "2558"]
+[BlackElo "2531"]
+[Annotator "TA"]
+[PlyCount "45"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,45,-1,7,-4,0,0,18,14,14,12,3,0,13,18,16,-12,0,-7,-3,-10,0,-1,54,51,
+52,51,50,36,37,40,31,37,289,288]} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5.
+Nge2 Re8 6. a3 Bf8 7. Ng3 d5 8. Be2 {E46: Nimzo-Indian: Rubinstein: 4 e3 0-0 5
+Ne2 without early Bd3} dxc4 (8... b6 9. cxd5 exd5 10. O-O Bb7 11. b4 Nbd7 12.
+Qb3 c6 13. Bf3 a5 14. b5 c5 15. Nxd5 a4 {1/2-1/2 (53) Shankland,S (2671)-Ding,
+L (2778) Liaocheng 2018}) 9. O-O c5 10. dxc5 {The position is equal.} Bxc5 11.
+Bxc4 Nbd7 12. b4 Be7 13. Bb2 a5 {[#]} 14. bxa5 $146 ({Predecessor:} 14. Qb3
+axb4 15. axb4 Rxa1 16. Rxa1 Nb6 17. Rd1 Bd7 18. Be2 Qb8 19. b5 {1/2-1/2 (19)
+Zakhartsov,V (2539)-Stocek,J (2583) Riga 2017}) 14... Rxa5 15. Nb5 Nb6 16. Bd3
+Bd7 17. Qe2 Nfd5 (17... Nbd5 $11) 18. Nh5 $1 $36 {[%cal Rh5g7][%mdl 2048]
+White is more active.} g6 {[#] aiming for ...Na4.} 19. e4 Nc7 20. Nxc7 Qxc7 21.
+Nf6+ $1 Bxf6 $1 22. Bxf6 e5 $2 {[%mdl 8192] [#]} ({Black should try} 22... Bc6
+$14) 23. Qd2 $1 {Accuracy: White = 76%, Black = 29%.} 1-0
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.03"]
+[Round "2.2"]
+[White "Mista, Aleksander"]
+[Black "Theodorou, Nikolas"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[WhiteElo "2592"]
+[BlackElo "2551"]
+[Annotator "TA"]
+[PlyCount "90"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,90,11,6,25,16,9,18,6,14,10,20,11,18,4,9,5,18,22,3,9,110,108,98,102,98,
+74,111,42,164,160,149,160,156,160,181,193,180,103,103,96,96,96,96,96,100,97,89,
+14,17,3,5,23,97,89,89,81,77,72,87,79,116,123,2436,2237,2822,2821,1895,1342,
+1254,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5.
+c3 d5 6. exd5 {C65: Ruy Lopez: Berlin Defence (3...Nf6), unusual lines and 4
+0-0 Bc5} Qxd5 {White must now prevent ...Bxf2+!} 7. Bc4 Qd6 8. b4 Bb6 9. O-O {
+next Ba3 is good for White.} O-O 10. Nbd2 Bf5 11. Qc2 $1 Rad8 {[%cal Rf5d3]}
+12. a4 $36 {[%mdl 2048] With the idea a5. White has the initiative.} a5 ({
+Don't play} 12... Bxd3 13. Bxd3 Qxd3 14. Qxd3 $16) 13. b5 Ne7 {[%cal Rf5d3] [#]
+} 14. Qb3 $146 {White wants to play Ba3.} Bc5 {[#]} (14... Ng6 $11) 15. Nxe5 $1
+$16 {[%mdl 576] Decoy} Qxe5 16. d4 Qf4 17. Nf3 Qg4 {Hoping for ...Bd6.} 18.
+dxc5 (18. Ne5 $1 $16 Qh5 19. dxc5) 18... Be4 {[#]} ({Better is} 18... Ng6 $1
+$14) 19. Bxf7+ $1 $18 {[%mdl 576] Decoy} Rxf7 {[#]} 20. Qxf7+ $1 {[%mdl 512]}
+Kxf7 21. Ne5+ {[%mdl 64] Double Attack} Ke8 {[%csl Ge4][%cal Rg4g2]} 22. Nxg4
+Nxg4 23. f3 ({White should play} 23. Bf4 $1 $18) 23... Bd3 $16 24. fxg4 Bxf1
+25. Kxf1 {[%mdl 4096] Endgame KRB-KRN} Rd1+ 26. Ke2 Rg1 27. Kf3 Ng6 28. h3 (28.
+c4 $16) 28... Ne5+ $11 29. Ke4 Nd7 30. Kd4 Kf7 (30... c6 $1 $11 {keeps the
+balance.}) 31. c6 bxc6 32. bxc6 Rd1+ 33. Kc4 Ne5+ {[%mdl 64] Double Attack} 34.
+Kb5 Nd3 {[#]} 35. Ka6 $1 {[%cal Ra6b7] Strongly threatening Kb7.} Rxc1 $2 {
+[%mdl 8192]} ({Avoid the trap} 35... Nxc1 $2 36. Kb7 $18) (35... Nc5+ $16 36.
+Ka7 Rd6) 36. Rxc1 $18 Nxc1 $16 {KN-KP} 37. Kb7 Ne2 38. Kxc7 Nxc3 {[#]} 39. Kb7
+$2 (39. Kb8 $1 $18) 39... Ne4 $11 {The position is equal.} 40. Kb6 Ke7 {
+Threatens to win with ...Kd6.} 41. Kxa5 Kd6 42. Kb6 Nc3 43. a5 Na4+ 44. Kb5
+Nc3+ 45. Kb6 Na4+ {Accuracy: White = 77%, Black = 55%.} 1/2-1/2
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.03"]
+[Round "2.3"]
+[White "Kadric, Denis"]
+[Black "Erenburg, Sergey"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "2547"]
+[BlackElo "2576"]
+[Annotator "TA"]
+[PlyCount "76"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,76,0,-7,0,0,0,0,9,0,0,0,0,0,0,-18,0,0,0,-46,-28,-28,-17,-39,-31,-82,
+-82,-229,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,8]} 1.
+e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 {B12: Caro-Kann:
+Advance Variation} Nd7 8. Ng3 Bg6 9. Bg5 Qb6 10. Rc1 {LiveBook: 7 Games} f6 11.
+exf6 $1 gxf6 12. Be3 $1 Qxb2 13. cxd5 Nxd5 14. Nxd5 exd5 {[#]} 15. Bd3 $146
+Qb4+ 16. Ke2 Bxd3+ 17. Qxd3 {And now Rb1 would win.} O-O-O 18. Rc2 Qa4 19. Rb1
+Nb6 20. Rb3 Nc4 21. Qf5+ ({White should try} 21. Kf1 $15) 21... Kb8 $17 22.
+Nxh5 {[#]} (22. Kf1 $17) 22... Qa6 $2 (22... Na5 $1 $19 23. Rbb2 (23. Qxf6 $2
+Ba3 $19) 23... Ba3) 23. Kf3 $11 {The position is equal.} Bd6 {[%cal Bf8d6,
+Bd6g3,Bg3h4][%mdl 32]} 24. g4 Nxe3 25. fxe3 Qf1+ 26. Rf2 Qh1+ 27. Ke2 Qxh4 28.
+Nxf6 Bg3 29. Rg2 Qh1 30. Qf1 ({But not} 30. Rxg3 $2 Rh2+ 31. Qf2 Rxf2+ 32. Kxf2
+Rh8 $19) 30... Qxf1+ 31. Kxf1 Bh4 32. g5 Rdf8 33. Ke2 Kc8 34. Rb1 Bxg5 $1 35.
+Nxd5 cxd5 36. Rxg5 Rh2+ 37. Kd3 Rxa2 38. Rc1+ Kb8 {Precision: White = 58%,
+Black = 72%.} 1/2-1/2
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.03"]
+[Round "2.4"]
+[White "Chirila, Ioan-Cristian"]
+[Black "Kaidanov, Gregory"]
+[Result "0-1"]
+[ECO "A08"]
+[WhiteElo "2566"]
+[BlackElo "2540"]
+[Annotator "TA"]
+[PlyCount "64"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,64,50,42,31,37,0,26,8,2,8,8,-18,57,25,31,-20,-18,-42,-52,-45,-36,-58,
+-59,-58,-31,-39,-38,-137,-135,-112,-31,-110,-106,-125,-101,-94,-125,-424,-410,
+-806,-839,-835,-793,-813,-819,-797,-802,-778,-731,-29990,-29991]} 1. Nf3 d5 2.
+g3 c5 3. Bg2 Nc6 4. d4 Nf6 5. O-O cxd4 6. Nxd4 e5 7. Nxc6 bxc6 8. c4 Be6 9. Qa4
+{[#] Black must now prevent cxd5. D02: 1 d4 d5 2 Nf3 sidelines, including 2...
+Nf6 3 g3 and 2...Nf6 3 Bf4} Qd7 10. Bg5 (10. Nc3 Rc8 11. cxd5 cxd5 12. Qxd7+
+Kxd7 13. Rd1 Bc5 14. Nxd5 Nxd5 15. Bxd5 Bxd5 16. Rxd5+ Ke6 {1/2-1/2 (16)
+Andersen,M (2605)-Kravtsiv,M (2685) Batumi 2018}) 10... Rc8 11. Nd2 {White has
+an edge.} (11. Bxf6 $5 gxf6 12. e3 $11) 11... Ng4 $146 ({Predecessor:} 11...
+Bd6 12. Rac1 Ke7 13. e4 d4 14. c5 Bb8 15. f4 Bg4 16. fxe5 Bxe5 {1-0 (24)
+Gasanov,Z (2220)-Podgornova,A (1817) St Petersburg 2018}) 12. Nb3 h6 13. Bd2
+Be7 (13... dxc4 $11 14. Rac1 e4 15. Rxc4 Bxc4 16. Qxc4 Nf6) 14. Rfd1 Nf6 $1 15.
+Qa5 (15. cxd5 $14 cxd5 16. Qxd7+ Nxd7 17. e3) 15... O-O $11 16. Nc5 Bxc5 $1 17.
+Qxc5 Rfe8 18. Be1 Bh3 19. Bh1 h5 20. Rac1 h4 21. Rc3 (21. f3 $15) 21... hxg3
+22. hxg3 {[#]} e4 ({Black should try} 22... d4 $1 $17) 23. Ra3 ({White should
+play} 23. f3 $15) 23... Qg4 $17 24. f3 exf3 25. Bxf3 {[%mdl 64] Double Attack}
+Qg6 $36 {[%mdl 2048] Black is really pushing.} 26. Rxa7 $2 {[%mdl 8192]} (26.
+Qf2 $17) 26... Ne4 $19 27. Qd4 (27. Bxe4 $142 Rxe4 {[%mdl 64] Double Attack}
+28. Re7) 27... Nxg3 28. Kh2 Nxe2 29. Qf2 Bg4 30. Bxg4 Qxg4 31. Qxf7+ Kh8 {
+( -> ...Qg1+)} 32. Qf2 Re5 {Accuracy: White = 16%, Black = 60%.} 0-1
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.03"]
+[Round "2.5"]
+[White "Bai, Jinshi"]
+[Black "Baryshpolets, Andrey"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[WhiteElo "2593"]
+[BlackElo "2589"]
+[Annotator "TA"]
+[PlyCount "69"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,69,16,9,16,14,14,14,15,14,18,17,20,7,20,19,0,10,0,12,8,8,12,8,8,12,8,
+8,8,8,8,12,25,25,25,25,25,25,25,25,0,25,25,26,0,0,0,0,0,0,0]} 1. d4 d5 2. c4 e6
+3. Nc3 Be7 4. Nf3 Nf6 5. g3 O-O 6. Bg2 dxc4 7. Ne5 Nc6 8. Bxc6 bxc6 9. Nxc6 Qe8
+10. Nxe7+ Qxe7 11. Qa4 c5 12. dxc5 {E06: Closed Catalan: Early deviations} Qxc5
+13. Be3 Qc7 14. Rd1 (14. O-O-O Ng4 15. Rd2 Nxe3 16. fxe3 Rb8 17. Rhd1 a5 18.
+Kb1 h6 19. Ka1 Rb4 {1-0 (49) Caruana,F (2822)-Nakamura,H (2777) Saint Louis
+2018}) 14... Bb7 15. O-O Nd5 16. Bd4 Rfd8 17. f3 e5 18. Nxd5 Rxd5 {[#]} 19. Be3
+$146 ({Predecessor:} 19. Bc3 Qc5+ {1/2-1/2 (31) Hawkins,J (2569)-Taylor,A 
+(2356) Hastings 2019}) 19... a6 20. Rc1 Rc8 21. Rfd1 h6 22. Rxd5 Bxd5 23. Rd1
+Be6 24. Qxa6 c3 25. bxc3 Qxc3 26. Kf2 {[#] Black must now prevent Rc1.} Qb2 27.
+a4 e4 28. Qb6 Qa2 29. Rd8+ Rxd8 30. Qxd8+ Kh7 31. a5 exf3 32. Kxf3 Bc4 {
+The position is equal.} 33. Qd2 {aiming for Qxa2.} Qb1 34. Kf2 Qf5+ 35. Ke1 {
+Accuracy: White = 77%, Black = 88%.} 1/2-1/2
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.04"]
+[Round "3.1"]
+[White "Baryshpolets, Andrey"]
+[Black "Steingrimsson, Hedinn"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2589"]
+[BlackElo "2558"]
+[Annotator "TA"]
+[PlyCount "252"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,252,22,10,15,13,0,0,8,9,9,9,9,9,15,9,7,9,9,9,45,44,78,70,68,76,70,84,
+72,70,72,74,78,38,43,42,68,16,69,81,115,118,118,117,111,115,113,70,67,44,41,48,
+54,41,43,45,42,34,28,0,34,13,17,8,13,14,27,30,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,
+-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,
+-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,0,-8,0,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,
+-8,-8,-8,-8,-8,-8,-8,0,-8,0,-8,0,-8,0,-8,0,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,
+-8,-8,-8,0,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,0,-8,-8,-8,-8,-8,
+-8,-8,-8,-8,0,-8,0,0,0,-8,0,-8,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4
+5. e4 Bb4 6. Bg5 c5 7. Bxc4 cxd4 8. Nxd4 Bxc3+ 9. bxc3 Qa5 10. Nb5 Nxe4 {
+[%mdl 64] [#] ...a6 is the strong threat. Double Attack. D39: Queen's Gambit
+Declined: Ragozin Defence with 5 Bg5 dxc4} 11. Bf4 (11. Qd4 O-O 12. Qxe4 a6 13.
+Be7 axb5 14. Bb4 Qc7 15. Bxf8 Kxf8 16. Bb3 Qxc3+ 17. Ke2 Qb2+ 18. Ke3 Qc3+ 19.
+Ke2 Qb2+ 20. Ke3 Qc3+ 21. Ke2 Qb2+ {1/2-1/2 (21) Zhou,J (2613)-Wei,Y (2727)
+China 2017}) 11... O-O $1 12. O-O $1 Nc6 $132 {[%mdl 2048] Black puts up
+resistance} 13. Bc7 b6 14. Qf3 f5 $1 15. Rfe1 a6 {[#]} 16. Nd4 $146 Ne5 17.
+Bxe5 Qxe5 18. Qe3 b5 19. Bb3 $1 Qc5 20. f3 ({Of course not} 20. Bxe6+ $6 Bxe6
+21. Nxe6 Qxe3 $15) 20... Nf6 21. Nxe6 Qxe3+ 22. Rxe3 Bxe6 23. Rxe6 Kh8 24. Rd1
+Rfc8 25. Rdd6 a5 $1 26. Re5 a4 $1 {[%cal Ra4b3]} 27. Bd1 (27. Be6 $14 Rxc3 28.
+Rxf5 (28. Bxf5 b4 $11)) 27... Rab8 ({Black should try} 27... Rd8 $11 28. Rxd8+
+Rxd8) 28. Be2 $14 b4 29. cxb4 Rxb4 30. Rb5 Rxb5 31. Bxb5 $16 {[%mdl 4096]
+Endgame KRB-KRN} a3 32. Ba4 h5 33. Kf2 h4 34. Bb3 Ra8 35. Ke3 Kh7 36. Kf4 Kg6
+37. Bc2 Ra5 38. Bb3 Kh6 39. Ke3 Kg5 40. Rd4 g6 41. Rd6 {[#] And now f4+ would
+win.} Ne8 42. Rc6 Ra7 43. Kd4 Ng7 {The position is equal.} 44. Bc4 (44. g3 {
+feels hotter.} hxg3 45. hxg3 Nh5 46. f4+ Kh6 47. Rc3) 44... Nh5 45. Ra6 (45.
+Rb6 {keeps more tension.} Rd7+ 46. Ke3 Re7+ 47. Kd2 Rd7+ 48. Kc2) 45... Rxa6
+46. Bxa6 $11 {KB-KN} Kf4 47. Bb7 g5 48. Bc6 Nf6 49. Bb7 Nh5 50. Kc4 Ke3 51. Kb4
+Kf2 52. Kxa3 f4 53. Kb4 $1 Kxg2 54. a4 Kxh2 55. a5 Kg3 (55... h3 $5 56. Bc8 $8
+Nf6 $11) 56. Bc8 {aiming for a6.} Nf6 57. Kc5 g4 ({Don't go for} 57... Kxf3 $2
+58. a6 $18) 58. a6 {Black must now prevent a7.} h3 59. Bb7 $1 h2 60. fxg4 {
+Hoping for a7.} f3 61. Bxf3 $1 Kxf3 {KN-KPP} 62. a7 Ne4+ 63. Kb6 h1=Q (63...
+Kxg4 $2 64. a8=Q $19) 64. a8=Q Qg1+ 65. Kc7 Qh2+ 66. Kb6 Qb2+ 67. Ka7 Qd4+ 68.
+Kb8 Qd6+ 69. Ka7 Qc5+ 70. Kb8 Kf4 71. Qb7 Nd6 72. Qc7 Qb4+ 73. Ka7 Ke5 (73...
+Kxg4 $2 74. Qg7+ Kf3 75. Qf6+ Kg2 76. Qg5+ Kf2 77. Qf6+ Ke2 78. Qe5+ Kf3 79.
+Qh5+ Kg3 80. Qe5+ Kh4 81. Qh2+ Kg5 82. Qg3+ Kf6 83. Qf3+ Ke7 84. Qe3+ Kf7 85.
+Qf3+ Kg7 86. Qg2+ Kf6 87. Qf2+ Kg7 88. Qg2+ Kf6 89. Qf2+ Ke7 90. Qe3+ Kf6 91.
+Qh6+ Kf5 92. Qh5+ Kf6 93. Qh6+ Ke7 94. Qe3+ $19) 74. Qc6 Qa5+ (74... Qxg4 $2
+75. Qc5+ Ke6 76. Qe3+ Kd7 77. Qd3 $19) 75. Kb8 Ke6 76. g5 $1 Qxg5 (76... Qb4+ {
+with more complications.} 77. Kc7 Qa3 78. Kb8 Ke5 79. g6 Qb4+) 77. Kc7 Qg7+ 78.
+Kb6 Qd4+ 79. Ka6 Qd3+ 80. Kb6 Qe3+ 81. Ka6 Qa3+ 82. Kb6 Qb2+ 83. Kc7 Qg7+ 84.
+Kb6 Qd4+ 85. Ka6 Qb4 86. Ka7 Qa5+ 87. Qa6 Qc7+ 88. Ka8 Qd8+ 89. Ka7 Qd7+ 90.
+Ka8 Qe8+ 91. Ka7 Qf7+ 92. Ka8 Qf3+ 93. Kb8 Qb3+ 94. Kc7 Qc3+ 95. Qc6 Qg7+ 96.
+Kb6 Qd4+ 97. Ka6 Qb4 98. Ka7 Qa5+ 99. Qa6 Qc7+ 100. Ka8 Qc5 101. Kb8 Qc2 102.
+Ka8 Qe4+ 103. Kb8 Kd7 104. Qa7+ Ke8 105. Qb6 Qd5 106. Qe3+ Kd7 {[%csl Gd6]
+[%cal Rd5b7]} 107. Qa7+ Ke8 108. Qe3+ Ne4 109. Qb6 Nc5 110. Qg6+ Kd7 {[%csl
+Gc5][%cal Rd5b7]} 111. Qg7+ Kc6 112. Qf6+ Kb5 {[%csl Gc5][%cal Rd5b7]} 113.
+Qb2+ Nb3 114. Qe2+ Kb6 {[%cal Rd5d8]} 115. Qf2+ Nd4 {[%cal Rd5d8]} 116. Qb2+
+Nb3 {[%cal Rd5g8]} 117. Qf2+ $1 Kc6 118. Qf6+ Kb5 119. Qf1+ Ka5 120. Kc7 Qe5+
+121. Kd8 Nc5 122. Qf7 Kb6 123. Qg6+ Kb7 {Threatens to win with ...Qd5+.} 124.
+Qf7+ Kb8 {( -> ...Nb7+)} 125. Qg6 Ne6+ 126. Ke7 Nf4+ {Accuracy: White = 75%,
+Black = 58%.} 1/2-1/2
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.04"]
+[Round "3.2"]
+[White "Kaidanov, Gregory"]
+[Black "Bai, Jinshi"]
+[Result "0-1"]
+[ECO "A05"]
+[WhiteElo "2540"]
+[BlackElo "2593"]
+[Annotator "TA"]
+[PlyCount "94"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,94,35,35,29,30,18,27,27,19,27,13,22,27,31,16,8,6,7,10,3,5,20,1,0,0,0,
+0,0,0,0,0,0,0,0,0,0,-10,-10,-18,-10,-14,-15,-14,-4,-4,-4,-23,-37,-76,-75,-77,
+-75,-75,-82,-389,-374,-378,-370,-942,-839,-1512,-1370,-2090,-1962,-29975,
+-29976,-29973,-29976,-29976,-29979,-29977,-29980,-29983,-29984,-29983,-29983,
+-29989,-29978,-29985,-29986,-29987,-29988]} 1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4.
+d4 d5 5. O-O O-O 6. c4 c5 7. dxc5 dxc4 8. Na3 c3 {D77: Fianchetto Grünfeld: 6
+0-0: Replies other than 6...c6} 9. Nb5 Na6 {[%cal Bb8a6,Ba6c5,Bc5e4][%mdl 32]}
+10. Nxc3 Nxc5 {White has an edge.} 11. Be3 Nfe4 12. Nxe4 Nxe4 13. Bd4 Bf5 14.
+Bxg7 Qxd1 15. Rfxd1 Kxg7 16. Nd4 {[#] Threatens to win with g4!} Nd6 $146 17.
+Rac1 Rac8 18. Kf1 Bd7 19. Ke1 Rxc1 20. Rxc1 Rc8 21. Rxc8 Bxc8 $11 {[%mdl 4096]
+Endgame KBN-KBN} 22. Kd2 e5 23. Nc2 Be6 24. a3 g5 25. Ne3 f5 26. Bd5 Kf6 {
+White must now prevent ...f4.} 27. Bxe6 {And now Bd7 would win.} Kxe6 {KN-KN}
+28. Kd3 h5 29. Nd1 f4 30. Nc3 Kf5 31. gxf4 exf4 ({Reject} 31... gxf4 32. Nd5
+$11) 32. Kd4 g4 33. Kd5 Ne8 34. e4+ $2 {[%mdl 8192]} (34. Kd4 $17 {is tougher.}
+) 34... fxe3 $1 $19 35. fxe3 h4 {Strongly threatening ...g3.} 36. e4+ $2 {[#]}
+(36. Kd4 g3 37. hxg3) 36... Kf4 $1 37. e5 Ke3 38. Ke6 g3 39. hxg3 hxg3 {
+Black mates.} 40. Nd5+ Kf3 41. Kf7 g2 42. Kxe8 g1=Q 43. e6 Ke4 44. Nc7 Ke5 45.
+e7 Kd6 {[%cal Rg1g8]} 46. Kd8 Qg5 47. Ne8+ Kc6 {Accuracy: White = 48%, Black =
+85%.} 0-1
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.04"]
+[Round "3.3"]
+[White "Erenburg, Sergey"]
+[Black "Chirila, Ioan-Cristian"]
+[Result "0-1"]
+[ECO "B32"]
+[WhiteElo "2576"]
+[BlackElo "2566"]
+[Annotator "TA"]
+[PlyCount "106"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 33,106,-28,-33,-22,-14,-16,0,0,27,0,0,0,0,-66,-60,-69,-95,-152,-133,
+-118,-89,-94,-94,-94,-112,-201,-200,-481,-69,-329,-328,-317,-252,-248,-168,
+-218,-147,-110,-21,-31,228,226,807,-543,-544,-449,-62,-947,-847,-6285,-5795,
+-29974,-6238,-1719,-556,-1381,-1382,-1381,-1383,-1197,-1056,-1270,-1259,-1147,
+-1077,-29977,-29978,-29983,-29984,-29984,-29985,-29994,-29995,-29995,-29996]} 
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 Nf6 6. Nc3 e6 7. Bd3 a6 8.
+Be3 Qc7 9. f4 d6 10. Qf3 Be7 11. g4 b5 12. g5 Nd7 13. O-O-O Nb4 {B33: Sicilian:
+Pelikan and Sveshnikov Variations} (13... Bb7 14. Kb1 Nb4 15. h4 Nxd3 16. cxd3
+b4 17. Ne2 a5 18. Rc1 Qb8 19. Nbd4 Nc5 20. f5 e5 21. f6 exd4 22. fxe7 dxe3 {
+1-0 (33) Najer,E (2679)-Kulaots,K (2556) Tallinn 2016}) 14. Kb1 Nxd3 15. cxd3
+b4 16. Ne2 a5 {[%cal Ba6a5,Ba5a4,Ba4a3][%mdl 32]} 17. Rc1 Qb7 {LiveBook: 7
+Games} 18. h4 a4 19. Nd2 a3 $146 {...axb2 is the strong threat.} ({Predecessor:
+} 19... Qa6 20. Bd4 e5 21. fxe5 dxe5 {0-1 (39) Antoniou,A (2163)-Haznedaroglu,
+K (2468) Heraklio 2007}) 20. b3 $1 d5 21. Bd4 O-O $1 22. h5 Qb5 23. g6 (23.
+exd5 $11 Qxd5 24. Ne4) 23... h6 $1 $15 24. gxf7+ Rxf7 25. Qg3 ({Better is} 25.
+exd5 e5 26. Bf2) 25... Ba6 26. Rh3 Nc5 {[%cal Rb5d3]} 27. Qg6 {Strongly
+threatening Rg3.} Nxe4 28. Nxe4 dxe4 29. Rg1 (29. Qxe4 $17 Qd5 30. Qxd5 exd5
+31. Rg1) 29... Qf5 $19 ({And not} 29... exd3 30. Bxg7 Qf5 31. Bd4+ Qxg6 32.
+hxg6 $11) 30. Qg2 $2 (30. Qxh6 {was the only chance.} Bf6 31. Bxf6 Qxf6 32.
+Qxf6 Rxf6 33. Nc1) 30... Bf8 $2 (30... Bxd3+ $19 31. Rxd3 exd3 32. Qxa8+ Bf8)
+31. dxe4 $2 {[%mdl 8192]} (31. Be5 $1 $15) 31... Qb5 32. Nc1 Rd8 33. Be5 Bb7
+34. Rg3 {[%cal Re5g7]} Qc6 35. Re1 Rdd7 (35... Ba6 $17) 36. Rg6 $1 $11 {[#]}
+Bc5 $2 {[%mdl 8192] [#]} (36... Rf5 $1 $15 {[%mdl 512]} 37. exf5 Qxg2 38. Rxg2
+Bxg2 39. fxe6 Rd5) 37. f5 $1 $18 {[%cal Rf5e6]} Bd4 $2 (37... Rfe7 38. fxe6 Rc7
+39. Bxc7 Qxc7) 38. Rxe6 $4 {[%mdl 8192]} (38. fxe6 $18 Rfe7 39. exd7 Qxd7 40.
+Rd6) 38... Qc3 $1 $19 {[%csl LRe1,LRe5]} 39. Bxd4 Rxd4 $2 $40 {[%mdl 128]
+White needs to defend precisely.} (39... Qxe1 $19 40. Qe2 Qxe2 41. Nxe2 Rfe7
+42. Rxe7 Rxe7) 40. Re8+ $2 {[%mdl 8192]} (40. Re2 $15 Qc8 41. Qg6) 40... Rf8
+41. f6 {[#]} Rd7 $1 42. Rxf8+ Kxf8 43. Re2 Qxf6 (43... gxf6 $142 {( -> ...Rd1)}
+44. Qh2 Rc7 45. Qd6+ Kf7) 44. Qg4 {intending e5.} Rd4 45. e5 Rxg4 46. exf6 {
+[%mdl 4096] Endgame KRB-KRN} Be4+ 47. Ka1 gxf6 (47... Rg1 $2 48. fxg7+ Kxg7 49.
+Re1 $19) 48. Rf2 Kf7 49. Ne2 f5 {Black mates.} 50. Ng3 Rxg3 51. Rxf5+ Ke6 52.
+Re5+ Kd6 {[%cal Rg3g1]} 53. Re6+ Kc5 {Precision: White = 22%, Black = 50%.} 0-1
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.04"]
+[Round "3.4"]
+[White "Theodorou, Nikolas"]
+[Black "Kadric, Denis"]
+[Result "1-0"]
+[ECO "A41"]
+[WhiteElo "2551"]
+[BlackElo "2547"]
+[Annotator "TA"]
+[PlyCount "59"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,59,56,56,54,42,42,45,43,47,30,46,61,81,62,81,45,57,39,42,31,46,0,0,0,
+0,0,0,0,64,66,58,56,61,56,169,178,186,183,175,176,198,197,264,265,446,431,438,
+434,540,540]} 1. d4 d6 2. Nf3 g6 3. c4 Bg7 4. Nc3 e5 5. dxe5 dxe5 6. Qxd8+ Kxd8
+7. g3 {A41: 1 d4 d6: Tartakower System and Modern Defence} (7. Bg5+ f6 8.
+O-O-O+ Nd7 9. Be3 Nh6 10. Bxh6 Bxh6+ 11. e3 c6 12. Ne4 Ke7 13. g4 Bg7 14. Rg1
+Nf8 15. h4 h5 16. gxh5 Rxh5 {0-1 (50) Li,C (2732)-Onischuk,V (2637) Riadh 2017}
+) 7... c6 8. Bg2 Kc7 9. O-O {White is slightly better.} Be6 10. b4 $146 ({
+Predecessor:} 10. b3 f6 11. Rd1 Nh6 12. Ba3 Nf7 13. Rac1 Nd7 14. Nd2 f5 15.
+Nd5+ {1/2-1/2 (34) Wen,Y (2549)-Ma,Z (2369) Beijing 2012}) 10... Nd7 11. b5 h6
+12. Rd1 Nb6 13. bxc6 bxc6 14. Nd2 Rd8 15. Bb2 Ne7 16. c5 Nc4 17. Nxc4 Bxc4 18.
+Ne4 {[#] aiming for Nd6.} Rxd1+ 19. Rxd1 Rd8 ({Better is} 19... Bxe2 $11 20.
+Rd2 Bg4) 20. Nd6 $1 $14 {Threatens to win with Bc3.} Bxe2 21. Re1 $36 {[%mdl
+2048] White has the initiative.} Ba6 $1 22. Bc3 {Hoping for Ba5+.} Rb8 ({
+Black should try} 22... Rf8 $14) 23. Nxf7 $18 Nd5 24. Bxe5+ Bxe5 25. Nxe5 Rb5 {
+[#]} 26. Nxc6 $1 ({But not} 26. Nxg6 Rxc5 27. f4 Nc3 $16) 26... Rxc5 (26...
+Kxc6 {keeps fighting.} 27. Re6+ {[%mdl 64] Double Attack} Kxc5 28. Rxa6 Rb1+
+29. Bf1 Nc3 30. Rxa7 (30. Rxg6 Ne4 $16) 30... Ne4) 27. Nd4 ({Not} 27. Nxa7 Kb6
+$11) 27... Bc8 $2 (27... Rc4) 28. Nb3 {White is clearly winning.} Rb5 29. Rc1+
+Kb8 30. Nd4 {Accuracy: White = 83%, Black = 60%.} 1-0
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.04"]
+[Round "3.5"]
+[White "Sorokin, Aleksey"]
+[Black "Mista, Aleksander"]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "2531"]
+[BlackElo "2592"]
+[Annotator "TA"]
+[PlyCount "53"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,53,0,16,3,15,13,9,20,28,17,23,2,0,-50,-49,-66,-47,-127,-133,-131,84,
+78,66,66,92,100,431,437,475,491,471,454,2402,1789]} 1. d4 Nf6 2. c4 g6 3. Nc3
+d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8. Be3 O-O 9. Rc1 Qa5 10. Qd2
+Rd8 11. d5 e6 12. Bg5 {D85: Exchange Grünfeld: Unusual White 7th moves and
+lines with 7 Nf3} f6 13. Be3 Nc6 14. Bd3 {The position is equal.} b6 (14... Ne7
+15. c4 Qxd2+ 16. Bxd2 b6 17. O-O Ba6 18. Rfe1 Rac8 19. Bf1 exd5 20. exd5 {
+1-0 (46) Yu,Y (2759)-Svidler,P (2753) Shenzhen 2018}) 15. O-O ({Of course not} 
+15. dxc6 c4 $15) 15... Ba6 16. Bxa6 (16. Be2 {seems wilder.} Rd7 17. c4 Qxd2
+18. Bxd2 Nd8 19. Rfd1) 16... Qxa6 17. Rfd1 exd5 $1 18. exd5 Qc4 $1 {[#]} 19.
+dxc6 $146 (19. Bf4 $15) ({Predecessor:} 19. Bf4 Rd7 {1/2-1/2 (36) Istratescu,A
+(2589)-Gledura,B (2600) Corund 2017}) 19... Rxd2 $17 20. Rxd2 {Strongly
+threatening c7.} Bf8 $2 {[#]} (20... Rc8 $17 {and life is bright. aiming for ..
+.Bf8.} 21. Rcd1 Qb5 22. Rd8+ Rxd8 23. Rxd8+ Kf7 24. Rd7+ {[%mdl 64] Double
+Attack} Ke6) 21. c7 $1 $16 {[%mdl 1024] White has strong compensation.} Be7 {
+...Rc8 is the strong threat.} 22. Rcd1 $1 $36 {[%mdl 2048] White is pushing.}
+Kf7 {White must now prevent ...Rc8.} 23. Rd8 $1 {[%cal Rd8a8]} Qa4 $2 {[%mdl
+8192]} (23... Bxd8 $16 24. cxd8=Q Rxd8 25. Rxd8 Qxc3) 24. R1d7 $18 {White is
+clearly winning.} Qe4 25. h4 Ke6 26. Rb8 Bd6 {[#]} (26... Qc6 $142) 27. Rxd6+
+$1 {[%mdl 576] Promotion. Accuracy: White = 57%, Black = 29%.} 1-0
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.05"]
+[Round "4.1"]
+[White "Steingrimsson, Hedinn"]
+[Black "Mista, Aleksander"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2558"]
+[BlackElo "2592"]
+[Annotator "TA"]
+[PlyCount "64"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,64,22,24,28,28,36,32,46,45,46,49,58,43,59,50,44,45,51,36,53,0,49,0,
+73,56,104,68,91,-28,-29,-351,-378,-372,-366,-379,-375,-884,-889,-882,-860,-952,
+-950,-966,-890,-897,-883]} 1. Nf3 g6 2. e4 c5 3. c4 Nc6 4. d4 cxd4 5. Nxd4 Nf6
+6. Nc3 d6 7. Nc2 Bg7 8. Be2 Nd7 9. Bd2 O-O 10. O-O Nc5 11. f3 Nd4 {B37:
+Sicilian: Maroczy Bind with 5...Bg7, sidelines} 12. Nxd4 Bxd4+ 13. Kh1 Bg7 {
+White is slightly better.} 14. Rc1 a5 15. b3 Be6 $146 ({Predecessor:} 15... Bd7
+16. Bg5 Bc6 17. Qd2 Re8 18. Rfd1 b6 19. Rb1 {1-0 (48) Van Oosterom,J (2776)
+-Baumbach,F (2495) ICCF email 2006}) 16. Re1 Qb6 17. Bf1 Rfc8 18. Rc2 Qd8 19.
+Bg5 h6 20. Bh4 (20. Bd2 $14) 20... g5 21. Bf2 Qf8 (21... a4 $1 $11) 22. Qd2 Bf6
+23. g3 Qg7 24. Bg2 (24. Nd5 $16) 24... a4 $1 $11 {[%cal Ba5a4,Ba4b3,Bb3b2]
+[%mdl 32]} 25. b4 $2 {[%mdl 8192] [#]} (25. bxa4 $11 {and White stays safe.}
+Bxc4 26. Bxc5 Bxc3 27. Rxc3 Rxc5 28. a5) 25... Nb3 $1 $19 {[%cal Rb3d2][%mdl
+512]} 26. axb3 axb3 27. Rcc1 Rxc4 28. Ne2 $2 (28. Nb1 Ra2 29. Rxc4 Rxd2 30.
+Nxd2 Bxc4 31. Nxc4) 28... Rxc1 {Black is clearly winning.} ({Not} 28... Ra2 29.
+Qe3 $17) 29. Qxc1 b2 30. Qc2 Ra1 31. f4 Ba2 32. e5 Rxe1+ {Accuracy: White =
+45%, Black = 49%.} 0-1
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.05"]
+[Round "4.2"]
+[White "Kadric, Denis"]
+[Black "Sorokin, Aleksey"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2547"]
+[BlackElo "2531"]
+[Annotator "TA"]
+[PlyCount "54"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,54,0,0,2,18,27,55,34,45,34,47,40,38,47,34,35,95,2,45,0,0,0,0,0,0,-67,
+-47,-132,-127,-412,-402,-387,-383,-364,-380,-575,-145,-595,-579,-607,-605,-583,
+-572,-439,-412]} 1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7.
+Nge2 {B12: Caro-Kann: Advance Variation} Bg4 8. Bg5 Qb6 9. Qd2 {White is
+slightly better.} (9. c5 Qc7 10. f3 Bf5 11. Ng3 f6 12. Bf4 Nd7 13. exf6 Qxf4
+14. Nce2 Qh6 15. fxe7 Bxe7 16. Nxf5 exf5 {1/2-1/2 (27) Sutovsky,E (2647)
+-Artemiev,V (2704) Poikovsky 2018}) 9... Nd7 10. cxd5 Nxd5 11. Nxd5 exd5 12.
+Nc3 f6 $146 ({Predecessor:} 12... a5 13. a3 a4 14. Rc1 g6 {1/2-1/2 (45) Roques,
+P (2381)-Murden,C (2442) ICCF email 2015}) 13. exf6 gxf6 (13... Nxf6 $14 14.
+Bd3 O-O-O) 14. Be3 (14. Bf4 $16) 14... O-O-O {[%cal Ba8d8,Bd8e8,Be8g8][%mdl 32]
+} 15. Rc1 {aiming for Nxd5.} Kb8 16. Bf4+ Ka8 {With the idea ...Re8+.} 17. f3
+Bf5 18. a3 ({White should play} 18. g3 $11) 18... Re8+ $15 19. Kf2 {[#]} ({
+Better is} 19. Be2 $15) 19... Nc5 $1 $17 {[%mdl 512]} 20. dxc5 $2 {[%mdl 8192]}
+(20. Re1 $17 {was worth a try.} Rxe1 21. Kxe1) 20... Bxc5+ $19 21. Kg3 {
+Strongly threatening Na4.} Bg1 22. Rxg1 Qxg1 23. Bb5 (23. Bc4 {might work
+better.} Rhg8+ 24. Bg5) 23... Reg8+ 24. Bg5 Qb6 {Black is clearly winning.} 25.
+Qf4 fxg5 26. Qxf5 gxh4+ 27. Kh2 d4 {Accuracy: White = 50%, Black = 63%.} ({Not
+} 27... cxb5 28. Nxd5 Qd6+ 29. f4 $19) 0-1
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.05"]
+[Round "4.3"]
+[White "Chirila, Ioan-Cristian"]
+[Black "Theodorou, Nikolas"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2566"]
+[BlackElo "2551"]
+[Annotator "TA"]
+[PlyCount "79"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,79,35,33,9,27,43,52,36,38,25,37,24,37,8,83,87,87,30,25,25,25,25,64,19,
+22,14,28,0,0,0,16,14,25,0,165,151,220,223,251,227,227,227,326,325,313,322,304,
+312,307,180,180,180,180,180,180,176,176,160,167,179,239,234,220,214,400,391,
+497,469,2197,2222,1580,284]} 1. d4 Nf6 2. Bf4 e6 3. e3 Nc6 {[%cal Bb8c6,Bc6e7,
+Be7f5][%mdl 32]} (3... c5 4. Nd2 cxd4 5. exd4 Be7 6. Ngf3 O-O 7. Bd3 b6 8. O-O
+Bb7 9. Re1 d6 10. c3 a6 11. Ng5 h6 12. Nge4 Nxe4 13. Nxe4 Bxe4 14. Bxe4 d5 15.
+Bc2 Bg5 16. Qd3 g6 17. Rxe6 {1-0 (17) Aronian,L (2767)-Giri,A (2782) chess.com
+INT 2018}) 4. Nf3 Ne7 5. h4 $146 ({Predecessor:} 5. h3 Ng6 6. Bh2 Be7 7. Be2 b6
+8. O-O Bb7 9. c4 O-O 10. Nc3 d6 11. Qc2 c5 {1/2-1/2 (38) Pakleza,Z (2503)
+-Efimov,I (2430) Presolana 2018}) 5... b6 6. c4 {A45: Trompowsky Attack} Bb7 7.
+Nc3 Nf5 8. h5 {White is slightly better.} Bd6 9. Ne5 Ne4 10. Nxe4 Bxe4 11. f3
+f6 (11... Bb7 $1 $11 {remains equal.}) 12. fxe4 $16 fxe5 13. exf5 (13. dxe5 $16
+Bb4+ 14. Ke2) 13... exf4 $11 14. Qf3 O-O 15. exf4 Bb4+ 16. Kf2 Qf6 {[%mdl 64]
+Double Attack} 17. Rd1 Rae8 18. h6 exf5 19. hxg7 Qxg7 20. Rh5 {Hoping for Rg5.}
+Kh8 21. g3 Be7 $2 (21... Be1+ $11 22. Kg2 (22. Rxe1 Qxd4+ 23. Re3 Re7 $17)
+22... Rg8) 22. Bh3 $18 Qg6 (22... Bf6 $16) 23. Rh1 Bf6 24. Bxf5 (24. Rd1 h6 $14
+) 24... Bxd4+ 25. Kg2 Qc6 (25... Rxf5 {was called for.} 26. Rxh7+ (26. Rh6 Rxf4
+27. Rxg6 Rxf3 $14) 26... Kg8) 26. Rxh7+ Kg8 {[#] Strongly threatening ...Re2+.}
+27. Qxc6 $1 dxc6 28. Bd7 Re2+ {[#]} 29. Kf3 (29. Kf1 $142 $1 {[%cal Rf1e2]} Rf7
+30. Kxe2 Rxh7 31. Rxh7 (31. Bxc6 Rxh1 32. Bxh1 Bxb2 $18) 31... Kxh7 32. b3 (32.
+Bxc6 Bxb2 33. g4 Kg6 $18)) 29... Re3+ 30. Kg4 Rf7 31. Rxf7 Kxf7 {[%mdl 4096]
+Endgame KRB-KRB} 32. b3 c5 33. Bc6 Kg7 34. Rh5 Re2 (34... Bc3 {was necessary.}
+35. Rd5 Kf6) 35. Rd5 Kf6 36. Rd7 Rxa2 $2 (36... Re7 {keeps fighting.} 37. Rxe7
+Kxe7) 37. Rxc7 Rb2 38. Bd5 {White is clearly winning.} Rxb3 (38... Ra2 $142 39.
+Rf7+ Kg6 40. f5+ Kh6) 39. Kh5 {[%csl Gd5][%cal Rc7f7]} Kf5 40. Rf7+ {Accuracy:
+White = 75%, Black = 41%.} 1-0
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.05"]
+[Round "4.4"]
+[White "Bai, Jinshi"]
+[Black "Erenburg, Sergey"]
+[Result "1-0"]
+[ECO "D10"]
+[WhiteElo "2593"]
+[BlackElo "2576"]
+[Annotator "TA"]
+[PlyCount "83"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,83,29,28,25,28,0,2,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,177,169,148,
+167,142,105,100,89,89,90,97,89,88,93,101,100,101,103,112,107,123,119,125,112,
+117,116,136,138,136,135,236,233,227,217,215,218,383,396,396,395,393,397,393,
+394,386,388,692,687]} 1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Bf4 Nc6 5. e3 Nf6 6.
+Nc3 Bf5 7. Qb3 Na5 8. Bb5+ {D10: Slav Defence: 3 cxd5 (without early Nf3) and
+3 Nc3} (8. Qa4+ Bd7 9. Qc2 e6 10. Bd3 Be7 11. Nf3 Rc8 12. O-O Nc6 13. Qe2 Nh5
+14. Be5 O-O 15. h3 f5 {1-0 (38) Korobov,A (2694)-Rodshtein,M (2674) Czech
+Republic 2018}) 8... Bd7 $1 9. Qd1 e6 10. Bd3 {The position is equal.} Nc4 11.
+Qe2 Bb4 12. Nf3 Rc8 13. Rc1 Ne4 $146 ({Predecessor:} 13... Qa5 14. O-O O-O 15.
+Bxc4 Rxc4 {0-1 (41) Gundavaa,B (2492)-Munguntuul,B (2428) Ulaanbaatar 2016})
+14. Bxe4 dxe4 15. Ng5 {[#]} e5 $1 {[%mdl 512]} 16. dxe5 {[#] Black must now
+prevent 0-0.} Bg4 $1 {[%cal Rg4e2][%mdl 512]} 17. f3 $1 {[%cal Rf3g4]} (17.
+Qxg4 Qd2+) 17... exf3 18. gxf3 Bh5 $2 {[#]} (18... Bf5 $1 $11 {and Black has
+nothing to worry.}) 19. Kf2 $1 $18 O-O 20. Rhd1 $36 {[%mdl 2048] White is in
+control.} Qa5 21. Nd5 Nb6 {And now ...Rxc1 would win.} 22. Rxc8 ({But not} 22.
+Qd3 Bg6 $14) 22... Rxc8 23. Nxb4 ({Much weaker is} 23. Qd3 $6 Bg6 $11) 23...
+Qxb4 24. Qd3 Bg6 {[#]} 25. Qd8+ $1 {[%mdl 512]} Qf8 (25... Rxd8 26. Rxd8+) 26.
+Qxf8+ Kxf8 27. e4 Ke7 28. Nh3 Nd7 29. Rd2 h6 30. Bg3 Bh7 31. Ke3 g5 32. Nf2 Bg6
+33. h4 f6 (33... Nb6 $16) 34. exf6+ Nxf6 35. hxg5 hxg5 36. Nh3 g4 $2 {[#]} (
+36... Nh7 37. Nxg5 Nxg5) 37. Nf4 $1 {[%cal Rf4g6]} Bf7 38. e5 Nh5 39. Bh4+ Kf8
+40. Nxh5 Bxh5 41. f4 Bg6 $2 {[#]} (41... Bf7 42. f5 Bxa2) 42. f5 $1 {[%mdl 512]
+Accuracy: White = 90%, Black = 51%.} 1-0
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.05"]
+[Round "4.5"]
+[White "Baryshpolets, Andrey"]
+[Black "Kaidanov, Gregory"]
+[Result "1/2-1/2"]
+[ECO "D52"]
+[WhiteElo "2589"]
+[BlackElo "2540"]
+[Annotator "TA"]
+[PlyCount "125"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,125,10,10,0,13,0,13,-14,0,-10,-5,-5,5,0,0,0,0,0,0,0,0,0,0,0,-6,-6,-7,
+-40,-40,-41,-33,-50,-29,-52,-29,-39,-37,-49,-41,-54,-21,-20,18,-11,-14,-16,-17,
+-61,-61,-61,0,0,0,-61,-61,-59,-59,-50,0,-91,-101,-96,-94,-72,-82,-108,-39,-85,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c6 5. Bg5 Nbd7 6. e3 Qa5 7. cxd5 exd5 8.
+Bd3 Ne4 9. Qc2 Nxg5 10. Nxg5 h6 11. Nf3 Bd6 12. h3 {D52: Queen's Gambit
+Declined: Cambridge Springs Variation} Nf6 13. O-O O-O (13... Qc7 14. Rab1 Qe7
+15. Rfe1 O-O 16. a3 Bd7 17. Nh4 Rfe8 18. Nf5 Bxf5 19. Bxf5 {1/2-1/2 (31)
+Diermair,A (2451)-Godena,M (2528) Ruzomberok 2014}) 14. a3 Qc7 15. b4 Qe7 16.
+Rfe1 Re8 $146 ({Predecessor:} 16... Be6 17. Ne5 Rfc8 18. f4 a5 19. bxa5 Bxa3
+20. a6 b5 21. Qb3 Bb4 {1/2-1/2 (31) Schroter,T (2280)-Fodre,S (2255) Hungary
+1998}) 17. e4 dxe4 18. Nxe4 Nxe4 19. Bxe4 {Black must now prevent Bh7+.} Be6
+20. b5 Rac8 (20... cxb5 $2 21. d5 $18) 21. Qa4 {[%cal Rb5c6]} Qc7 22. bxc6 bxc6
+23. Rac1 {Hoping for d5!} Bd7 24. Bb1 Rxe1+ 25. Rxe1 c5 26. Qc2 g6 27. dxc5
+Bxc5 28. Ba2 Bf5 29. Qd2 Kh7 ({Of course not} 29... Bxa3 $6 30. g4 $11 (30.
+Qxh6 Bb4 $11)) 30. Ne5 Re8 (30... Rd8 $5 {[%cal Rd8d2]} 31. Qc1 Bxf2+ $1 {
+[%mdl 512]} 32. Kxf2 Qxc1 33. Rxc1 Rd2+ {[%mdl 64] Double Attack} 34. Ke3 Rxa2
+35. Nxf7 Rxa3+ 36. Kd4 Kg7 $17) 31. Nxf7 Rxe1+ 32. Qxe1 Qf4 33. Ne5 Bxa3 34.
+Qa5 {White wants to mate with Qc7+.} Qc1+ 35. Kh2 Qf4+ 36. Kg1 {Qc7+ would
+kill now.} Qc1+ 37. Kh2 Qc5 $1 {[%cal Rc5a5]} 38. Qe1 Bb4 $36 {[%mdl 2048]
+White is under pressure.} 39. Qe2 $1 Qd4 40. Ng4 (40. Nf3 $11 Qc5 41. Qe8)
+40... Bd6+ $17 41. g3 {Threatening mate with Qe8.} h5 42. Ne3 Be4 43. h4 Bd3 (
+43... a5 $17 44. Nc2 Qd3 45. Qxd3 Bxd3) 44. Qd1 {[#]} Qxh4+ (44... Be5 $1 $17
+45. Kg2 Be4+ 46. Kf1 a5) 45. Kg1 $11 {The position is equal.} Bxg3 $1 46. fxg3
+Qxg3+ {[%mdl 64] Double Attack} 47. Ng2 Be4 {[%csl Ge4][%cal Rg3g2]} 48. Qe2
+Qxg2+ (48... Qf3 {keeps more tension.} 49. Qd2 Qf6 50. Qd7+ Kh6 51. Qxa7 g5)
+49. Qxg2 Bxg2 50. Kxg2 {[%mdl 4096] Endgame KB-K3P} a5 {...a4 is the strong
+threat.} 51. Bb3 $1 g5 52. Ba4 Kg7 53. Be8 h4 {Threatens to win with ...g4.}
+54. Kh3 Kf6 55. Kg4 Ke5 56. Ba4 $1 Kd6 (56... h3 $5 57. Kg3 (57. Kxh3 Kd4 $11)
+57... Kd5 $11) 57. Be8 Kc5 58. Bd7 $1 Kd6 59. Be8 Ke6 60. Ba4 $1 Kf6 61. Be8
+Ke5 62. Ba4 Kd6 63. Be8 {Accuracy: White = 62%, Black = 51%.} 1/2-1/2
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.06"]
+[Round "5.1"]
+[White "Kaidanov, Gregory"]
+[Black "Steingrimsson, Hedinn"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "2540"]
+[BlackElo "2558"]
+[Annotator "TA"]
+[PlyCount "105"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,105,20,21,27,8,38,10,11,-6,25,-11,0,-9,47,13,87,81,62,95,147,141,172,
+101,204,207,296,160,153,22,17,11,15,14,19,20,14,7,18,0,32,32,68,-27,88,31,31,
+23,37,0,0,0,35,58,47,0,0,0,6,18,180,158,318,315,1036,977,1568,1530,1293,1097,
+5594,5546,4935,1261,2265,1909,2094,2154,29974,988,4133,2200,29982,29983,29982,
+29983,29984,29985,29976,2228,29987,29988]} 1. Nf3 d5 2. g3 Bg4 3. Bg2 c6 4. O-O
+Nd7 5. h3 Bh5 6. d3 e5 {A07: Réti Opening: New York and Capablanca Systems} (
+6... e6 7. c4 Bd6 8. Nc3 Ne7 9. b3 O-O 10. Bb2 f6 11. cxd5 cxd5 12. e4 dxe4 13.
+dxe4 Ne5 14. Nb5 Bxf3 15. Bxf3 {1/2-1/2 (40) So,W (2778)-Anand,V (2760)
+Stavanger 2018}) 7. e4 dxe4 8. dxe4 Bc5 9. Nbd2 {[%cal Bb1d2,Bd2c4,Bc4e3][%mdl
+32] LiveBook: 7 Games} Qc7 10. Qe1 $146 ({Predecessor:} 10. a4 Ngf6 11. Qe1 O-O
+12. Nh4 Rfe8 13. Nb3 Bf8 14. Bg5 {0-1 (63) Mueller,K (2527)-Hector,J (2515)
+Hamburg 2000}) 10... Ne7 11. a4 O-O 12. Nc4 b5 13. Ne3 a5 14. Bd2 Bb6 (14... b4
+$11) 15. Nh4 f6 (15... b4 $11 {keeps the balance.}) 16. axb5 $16 cxb5 17. Nhf5
+Nxf5 (17... Nc6 $142) 18. exf5 Bxe3 19. fxe3 ({Don't play} 19. Qxe3 Ra7 $16) (
+19. Bxa8 $18 Rxa8 20. Qxe3 (20. Bxe3 Bf3 $16)) 19... Rac8 (19... e4 $16) 20.
+Bxa5 $18 ({Don't do} 20. Rxa5 $6 Qxc2 21. Bb4 (21. Rxb5 Nc5 $14) 21... Nc5 $14)
+20... Qxc2 {[#]} (20... Qb8 $142 21. Bb4 Nc5) 21. Bb4 (21. Rf2 $1 $18 {[%cal
+Rf2c2]} Qc5 22. Bb4) 21... Rfd8 22. Bd5+ (22. Bb7 $16) 22... Bf7 $11 23. Rf2
+Qc7 $1 24. Bxf7+ Kxf7 25. Ba5 Nb6 26. Qb4 {aiming for Qb3+.} Rd5 27. e4 Rd6 (
+27... Rd4 $5 {[%cal Rd4b4]} 28. Qxb5 Rb8 $14) 28. Qxb5 Kg8 29. Rf3 ({White
+should play} 29. Rff1 $14) 29... Qd8 (29... Qa7 $11 {remains equal.}) 30. Qb3+
+(30. Kg2 $16) 30... Kh8 $14 31. Rc3 Rb8 32. Rac1 h6 33. h4 Kh7 34. Kh2 $36 {
+[%mdl 2048] White has the initiative.} Qe8 {White must now prevent ...Na4.} 35.
+Qc2 Na4 36. Rb3 {Strongly threatening Rxb8.} Rxb3 37. Qxb3 Rd4 $2 {[#]} (37...
+Ra6 $1 $11 {and Black has nothing to worry.} 38. Bb4 Qa8) 38. Kh3 $1 $18 {
+And now Rc7 would win.} Qa8 $2 (38... Rxe4 $16 39. Qb7 Re3) 39. Qf7 Rxe4 $2 (
+39... Qa6 40. Qg6+ Kh8) 40. Qg6+ Kh8 41. Rc7 {[%csl Gc7][%cal Rg6g7]} Rxh4+ 42.
+gxh4 {[%csl Gc7][%cal Rg6g7]} Qh1+ 43. Kg3 {[%csl Gc7][%cal Rg6g7]} Qg1+ 44.
+Kf3 {[%cal Rc7c8]} Qf1+ 45. Ke3 {[%csl Gc7][%cal Rg6g7]} Qf4+ 46. Ke2 {[%csl
+Gc7][%cal Rg6g7]} Qh2+ 47. Kf1 (47. Kd3 $142 Nxb2+ 48. Kc3 Nd1+ 49. Kb3 Qb2+
+50. Ka4 Qa2+ 51. Kb4 Qg8 52. Rd7 Qb8+ 53. Ka3 Qf8+ 54. Ka2 Qg8+ 55. Ka1) 47...
+Qh1+ 48. Qg1 Qf3+ 49. Ke1 {[%csl Gc7][%cal Rg1g7]} Qe4+ 50. Kd2 {[%csl Gc7]
+[%cal Rg1g7]} Qf4+ 51. Kc2 {[%csl Gc7][%cal Rg1g7]} Qxf5+ 52. Kb3 (52. Kc1 $142
+g5 53. Qh1 e4 54. Qd1 Qf4+ 55. Kb1 Qxc7 56. Bxc7 Nc5 57. hxg5 hxg5 58. Qd4)
+52... g5 53. Kxa4 {Precision: White = 45%, Black = 21%.} 1-0
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.06"]
+[Round "5.2"]
+[White "Erenburg, Sergey"]
+[Black "Baryshpolets, Andrey"]
+[Result "0-1"]
+[ECO "C81"]
+[WhiteElo "2576"]
+[BlackElo "2589"]
+[Annotator "TA"]
+[PlyCount "112"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 22,112,27,18,23,7,0,0,6,15,104,109,131,118,156,151,193,135,128,111,135,
+113,116,123,162,173,139,0,123,0,0,0,0,0,0,-110,-96,-184,-168,-227,-226,-233,
+-229,-297,-225,-210,-215,-240,-211,-212,-218,-219,-194,-235,-235,-245,-249,
+-272,-304,-345,-345,-339,-338,-447,-454,-458,-456,-454,-445,-475,-458,-443,
+-486,-499,-485,-487,-483,-487,-481,-560,-554,-601,-604,-668,-523,-587,-579,
+-29954,-29954,-29955,-29955,-5884,-1994]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4
+Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. Qe2 Nc5 10. Rd1 Nxb3 11. axb3
+Be7 12. c4 {And now cxd5 would win.} b4 {C81: Open Ruy Lopez: Keres Variation 
+(9 Qe2)} 13. cxd5 Bxd5 {[#]} 14. Qd3 $146 ({Predecessor:} 14. Rxa6 Rxa6 15.
+Qxa6 O-O 16. Qb5 Bc4 17. Rxd8 Bxb5 18. Rxf8+ Kxf8 {1/2-1/2 (54) Jones,G (2666)
+-Anton Guijarro,D (2652) Linares 2018}) 14... Be6 {The position is equal.} 15.
+Qc2 Bd7 (15... Bd5 $11 {remains equal.}) 16. Nbd2 $16 Qc8 17. Ne4 Nd8 18. Bg5
+Bxg5 19. Nfxg5 ({White should play} 19. Nexg5 $18 h6 20. e6 Nxe6 21. Nxf7)
+19... h6 20. e6 Bxe6 21. Rxd8+ $1 Kxd8 22. Rd1+ $1 ({Stronger than} 22. Nxe6+
+Qxe6 23. Nc5 Qc6 $15) 22... Ke8 23. Qc6+ Ke7 24. Qc5+ Ke8 {[#]} 25. Qc6+ (25.
+Nf6+ $1 $16 gxf6 26. Ne4) 25... Ke7 $1 $11 26. Nxe6 Qxe6 $40 {[%mdl 128] Black
+mounts an attack.} 27. Qc5+ $1 ({Don't play} 27. Qxc7+ Kf8 $17) 27... Ke8 28.
+Qxb4 {[#]} (28. Re1 $11) 28... a5 $1 $17 {[%cal Ra5b4]} 29. Qd4 (29. Qb7 $17
+Qc8 30. Qd5) 29... Kf8 $19 30. Nc5 {[#]} (30. Rc1 {was necessary.}) 30... Qd6
+$1 31. Nd7+ (31. Qxd6+ cxd6) 31... Kg8 32. Qg4 Qe6 33. Qxe6 fxe6 {[%mdl 4096]
+Endgame KRR-KRN} 34. Nc5 Kf7 35. Rd7+ Kf6 36. f3 Rhd8 {aiming for ...Rxd7.} 37.
+Ne4+ Kg6 38. Rxc7 Rab8 39. h4 Rxb3 40. h5+ Kh7 41. Ra7 Rb5 ({Don't take} 41...
+Rxb2 42. Rxa5 Rd1+ 43. Kh2 $19) 42. Kf2 Rxb2+ 43. Kg3 Rb5 44. Kh4 Kg8 45. Kg4
+Kf8 46. Kh4 Rdd5 47. Ra8+ Ke7 48. Ra7+ Kd8 49. g4 Rd7 50. Ra6 Rd3 51. Ra8+ Kc7
+52. Ra7+ Kc6 53. Kg3 Rbb3 54. Kf4 Rxf3+ 55. Ke5 Rb5+ 56. Kxe6 Re3 {Accuracy:
+White = 46%, Black = 67%.} (56... Rf4 $142 57. Ra6+ Kb7) 0-1
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.06"]
+[Round "5.3"]
+[White "Theodorou, Nikolas"]
+[Black "Bai, Jinshi"]
+[Result "0-1"]
+[ECO "D78"]
+[WhiteElo "2551"]
+[BlackElo "2593"]
+[Annotator "TA"]
+[PlyCount "108"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,108,0,0,0,11,9,13,13,4,0,7,9,0,0,0,8,0,-17,0,-18,0,-16,-12,-28,-25,
+-80,-81,-85,-95,-114,-120,-95,-106,-113,-113,-114,-114,-122,-124,-143,-156,
+-155,-137,-141,-41,-75,-15,-18,-18,-29,-26,-87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,-95,-95,-95,-95,-416,-379,-958,-958,-1477,-1398,-4118,-2757,-5443,-5439,
+-29963,-29961,-29964,-29962,-29945,-12844,-29982,-29983,-29983,-29980]} 1. Nf3
+Nf6 2. c4 c6 3. g3 d5 4. Bg2 g6 5. O-O Bg7 6. d4 O-O 7. Qb3 Qb6 8. Nc3 {
+[%cal Bb1c3,Bc3a4,Ba4c5][%mdl 32]} Bf5 9. Ne5 Be6 10. Qd1 {D78: Fianchetto
+Grünfeld: 6 0-0 c6} dxc4 11. Na4 $1 {[%cal Ra4b6]} Qd8 12. Nc5 {The position
+is equal.} Qc8 13. Qc2 Bh3 14. Qxc4 Bxg2 15. Kxg2 Nbd7 16. Ncd3 {[#]} Ne4 $146
+({Predecessor:} 16... Nxe5 17. dxe5 Nd5 {1-0 (36) Nakamura,H (2787)-Kramnik,V 
+(2800) Moscow 2018}) 17. Rd1 Nd6 18. Qa4 Nf5 19. Nxd7 Qxd7 20. Nc5 Qc8 21. Qc4
+(21. Bf4 $11) 21... Rd8 $36 {[%mdl 2048] Black has strong initiative.} 22. Nb3
+b5 23. Qc2 Nxd4 24. Nxd4 Bxd4 25. e3 Bf6 26. Rxd8+ Qxd8 27. e4 Bd4 28. Bh6 c5
+29. h4 Qd7 30. Rd1 Qe6 (30... Rd8 $17 31. Qd2 Qc6) 31. b4 $1 $15 Qc4 (31... Qb6
+$17 {...c4 is the strong threat.} 32. bxc5 Qxc5 33. Qxc5 Bxc5) 32. Qxc4 $11
+bxc4 33. bxc5 $1 {[%mdl 4096] Endgame KRB-KRB} e5 34. f4 {[#]} (34. Rb1 $1 $11)
+34... f6 ({Of course not} 34... Bxc5 $6 35. Rc1 $11) ({Black should play} 34...
+Rc8 $1 $17 35. fxe5 Bxc5) 35. fxe5 fxe5 36. Rf1 Rc8 37. c6 $1 c3 38. Rf8+ Rxf8
+39. Bxf8 {KB-KB} Bb6 ({Wrong is} 39... Kxf8 $2 40. c7 $18) 40. Ba3 Kf7 41. g4
+Ke6 {Hoping for ...Be3.} 42. Kf3 Bd8 43. Ke2 (43. g5 $1 $11) 43... Bxh4 $17 44.
+Kd3 {[#]} Be1 $1 45. c7 $2 {[%mdl 8192]} (45. g5 $17) 45... Kd7 $19 46. Bd6 $2
+(46. g5 Kxc7 47. Bc1) 46... h5 47. gxh5 gxh5 48. Bxe5 h4 49. Bd6 Bg3 50. e5 Kc8
+51. Bc5 h3 52. e6 Kxc7 53. Bxa7 h2 54. Bb8+ Kc6 {Accuracy: White = 38%, Black
+= 72%.} 0-1
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.06"]
+[Round "5.4"]
+[White "Sorokin, Aleksey"]
+[Black "Chirila, Ioan-Cristian"]
+[Result "1-0"]
+[ECO "D90"]
+[WhiteElo "2531"]
+[BlackElo "2566"]
+[Annotator "TA"]
+[PlyCount "113"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,113,3,29,0,29,31,27,26,27,13,28,21,29,27,22,18,47,25,34,21,20,0,13,
+-23,-34,-33,-29,-16,-19,-25,-19,-61,0,-52,0,-18,-25,-167,-60,-58,-59,-68,-64,
+-74,-43,-41,0,-2,115,123,154,131,188,59,123,126,125,125,163,164,217,212,272,
+229,228,237,251,251,370,396,403,352,396,396,380,372,370,340,452,458,827,814,
+768,785,777,760,969,644,703,658,950,912,1785,1736,1736,1645,2153,1910]} 1. d4
+Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. h4 (5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Nc6 8.
+Be2 e5 9. d5 Nd4 10. Nxd4 exd4 11. Qxd4 c6 12. Qc4 b5 13. Qxc6 Bd7 14. Qd6 Re8
+15. Bg5 Rb8 16. a3 {1/2-1/2 (31) Giri,A (2783)-Mamedyarov,S (2817) Wijk aan
+Zee 2019}) 5... c6 6. cxd5 {D90: Grünfeld: 4 Nf3 Bg7 sidelines} cxd5 7. Bf4 Nc6
+8. e3 O-O 9. Qb3 a6 {LiveBook: 3 Games} 10. Ne5 Nxe5 $146 ({Predecessor:} 10...
+Ng4 11. Nxg4 Bxg4 12. Qxd5 {1/2-1/2 (69) Stull,N (2602)-Cardelli,G (2538) ICCF
+corr 2004}) 11. Bxe5 e6 12. Be2 h5 13. a4 b6 14. g3 Bb7 15. Rc1 Ne8 16. O-O Nd6
+17. Qb4 Nf5 18. Bxg7 Kxg7 19. a5 b5 20. Bd3 Ne7 $1 21. Ne2 Nc6 22. Qe1 Qxa5 23.
+Qd1 e5 24. Bb1 Qb4 (24... Rae8 $15) 25. dxe5 (25. f4 $1 $11) 25... Nxe5 (25...
+Rae8 $15) 26. Rc7 Rab8 27. Qc2 {[#]} (27. f4 $11 Ng4 28. Qd3) 27... Qd2 ({
+Black should play} 27... Qd6 $1 $19 {Threatens to win with ...Nc4.} 28. Rd1 Nc4
+29. Qc3+ Kg8 30. Rxb7 Rxb7) 28. Qxd2 $15 ({Don't go for} 28. Rxf7+ $2 Rxf7 29.
+Rd1 Qxc2 $19) 28... Nf3+ 29. Kg2 Nxd2 30. Rd1 Nc4 31. b3 Nd6 32. Nf4 $1 {
+And now Rd7 would win.} Rfe8 (32... Kh6 $11) 33. Bxg6 $1 $16 ({Worse is} 33.
+Nxd5 Re5 $15) 33... Rbc8 34. Rd7 $36 {[%mdl 2048] White is in control.} d4+ (
+34... Rcd8 $16 {was worth a try.} 35. Rxd8 Rxd8 36. Bxh5 d4+ 37. Bf3 dxe3) 35.
+e4 (35. f3 $18 Rcd8 36. Rxd8 Rxd8 37. Rxd4) 35... Rcd8 (35... Bxe4+ $14 36.
+Bxe4 Nxe4) 36. Rxd8 Rxd8 37. Rxd4 Kf6 38. Bxh5 Ke5 (38... Bxe4+ $142 39. Bf3
+Ke5) 39. Rd1 f5 40. f3 {aiming for exf5.} fxe4 41. fxe4 Bxe4+ 42. Bf3 Nf7 (
+42... Rg8 {is a better defense.} 43. Bxe4 Nxe4 44. Rd5+ Kf6) 43. Re1 $18 Rd2+
+44. Kh3 Nd6 45. Kg4 a5 46. h5 {[%cal Bh4h5,Bh5h6][%mdl 32]} Rh2 {[#]} 47. h6 $1
+{[%mdl 512]} Kd4 (47... Rxh6 48. Bxe4) 48. Bxe4 {White is clearly winning.}
+Nxe4 {[%mdl 4096] Endgame KRN-KRN} (48... Rxh6 $142 49. Bg6 Kc5) 49. Nh5 {
+Black must now prevent h7.} Nf6+ 50. Nxf6 Rxh6 {KRN-KR} 51. Kf5 Kc3 52. Re3+
+Kb2 53. g4 Rh2 54. Nd7 Rh7 55. Nc5 Rf7+ 56. Kg6 Rc7 57. Re5 {Precision: White
+= 62%, Black = 41%.} 1-0
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.06"]
+[Round "5.5"]
+[White "Mista, Aleksander"]
+[Black "Kadric, Denis"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[WhiteElo "2592"]
+[BlackElo "2547"]
+[Annotator "TA"]
+[PlyCount "62"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,62,43,39,39,29,25,32,29,16,25,41,22,41,25,22,21,27,0,0,0,0,-24,0,-8,
+-7,-7,-14,-14,-11,-4,-7,-12,-7,-16,-18,-19,0,0,0,-6,-2,-7,0,-8,-8,-8,-8]} 1. e4
+d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. a4 O-O 7. O-O c6 8. h3 h6 9.
+Re1 Re8 10. Be3 {C41: Philidor Defence} (10. Ba2 exd4 11. Nxd4 Bf8 12. Be3 Nxe4
+13. Nxe4 Rxe4 14. Qf3 d5 15. Rad1 Ne5 16. Qg3 Ng6 17. c4 Bd6 {0-1 (38) Saric,I
+(2695)-Ivanisevic,I (2603) Skopje 2018}) 10... exd4 11. Qxd4 Qa5 $146 ({
+Predecessor:} 11... Nf8 12. Rad1 Be6 13. Bxe6 Nxe6 14. Qc4 Qa5 15. Nd4 Bf8 16.
+Nf5 Qe5 17. f4 Nxf4 {1/2-1/2 (56) Kanmazalp,O (2458)-Ivanisevic,I (2575) Izmir
+2018}) 12. Bf4 {White is slightly better.} Ne5 13. Be2 Bf8 14. Rad1 Qc7 15. Bg3
+a6 16. Nd2 b5 17. axb5 axb5 18. b4 Bd7 19. Nb3 Rab8 20. f4 {The position is
+equal.} Nc4 21. Bxc4 bxc4 {[%mdl 64] [#] Discovered Attack} 22. Qxc4 d5 23.
+exd5 Rxb4 24. Qd3 cxd5 25. Nxd5 Nxd5 26. Qxd5 Qxc2 27. Qxd7 Rxe1+ 28. Rxe1 Rxb3
+29. Bf2 Rd3 30. Qa7 Rd1 31. Rxd1 Qxd1+ {Accuracy: White = 62%, Black = 63%.}
+1/2-1/2
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.07"]
+[Round "6.1"]
+[White "Steingrimsson, Hedinn"]
+[Black "Kadric, Denis"]
+[Result "0-1"]
+[ECO "E98"]
+[WhiteElo "2558"]
+[BlackElo "2547"]
+[Annotator "TA"]
+[PlyCount "88"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 29,88,65,69,32,45,34,42,0,22,0,-16,24,20,20,24,25,17,24,51,54,62,59,64,
+56,126,-33,-31,-28,-33,-49,-40,-37,-29,-49,-20,-45,-30,-35,-18,-39,-32,-118,
+-104,-209,-100,-787,-945,-891,-837,-779,-776,-29964,-29969,-7096,-6516,-29987,
+-29988,-29988,-29989,-29989,-29990]} 1. d4 d6 2. Nf3 g6 3. c4 Bg7 4. Nc3 Nf6 5.
+e4 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Ne1 Nd7 10. Be3 f5 11. f3 f4 12. Bf2
+g5 13. Rc1 Ng6 14. Nd3 Nf6 15. c5 Rf7 16. a4 {[%cal Ba2a4,Ba4a5][%mdl 32] E99:
+King's Indian: Classical Main Line: 9 Ne1 Nd7 10 f3 f5} (16. Kh1 Bf8 17. Rg1
+Rg7 18. b4 h5 19. Qd2 g4 20. g3 fxg3 21. Rxg3 a5 22. a3 axb4 23. axb4 c6 24.
+dxc6 bxc6 25. cxd6 Qxd6 {1/2-1/2 (41) Lenderman,A (2599)-Nakamura,H (2787)
+Saint Louis 2018}) 16... Bf8 17. a5 h5 18. b4 {White is slightly better.} g4
+19. cxd6 cxd6 20. Nb5 b6 21. axb6 axb6 22. Rc6 Rb8 $146 ({Predecessor:} 22...
+Bb7 23. fxg4 Nxe4 24. gxh5 {1/2-1/2 (64) Foulds,E (2358)-Koch,H (2257) ICCF
+email 2015}) 23. Qc2 Ne8 24. Bxb6 $1 {[%mdl 64] Deflection} Rxb6 25. Rxc8 Qd7
+26. Ne1 $1 Ne7 (26... Rg7 $14) 27. Rxe8 $2 ({White has to play} 27. Ra8 $16)
+27... Qxe8 $15 28. Nc7 Qc8 $36 {[%mdl 2048] Black is more active.} 29. b5 g3
+30. Ne6 h4 31. Qd2 Qa8 32. Nd3 Nc8 {[%cal Be7c8,Bc8a7,Ba7b5,Bb5c3][%mdl 32]}
+33. Nb4 Na7 34. Ra1 {Nc6 is the strong threat.} Qe8 35. Nc6 ({Better is} 35.
+Ra6 $1 $15 Rfb7 36. Nxf8) 35... Nxb5 $17 36. Ned8 (36. Qa5 $17 {was called for.
+} Rfb7 37. Rc1) 36... Rg7 (36... Rh7 $19 {has better winning chances. Hoping
+for ...h3.} 37. h3 {[#]} Nd4 $1 {[%mdl 512]}) 37. Qa5 $2 {[%mdl 8192]} (37. h3
+$17 Nc7 38. Qa2) 37... gxh2+ $19 38. Kh1 {[#]} Qg6 $1 {[%csl Gg7][%cal Rg6g2]
+[%mdl 512]} 39. Bf1 {[#]} h3 $1 {[%cal Rh3g2]} 40. Ra2 {[#]} (40. gxh3 Qg1#)
+40... Nc3 $1 {[%mdl 512]} 41. Qxb6 (41. Qxc3 Rb1) 41... Nxa2 42. Qf2 Nc3 {
+Black mates.} 43. Ne6 Nd1 44. Qe2 {[#]} Qg3 $1 {Accuracy: White = 30%, Black =
+66%.} 0-1
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.07"]
+[Round "6.2"]
+[White "Chirila, Ioan-Cristian"]
+[Black "Mista, Aleksander"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "2566"]
+[BlackElo "2592"]
+[Annotator "TA"]
+[PlyCount "114"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,114,4,-11,0,0,-6,-20,-11,-20,-4,-10,-9,-9,-6,-13,-12,-19,-18,-15,-22,
+-21,-12,-31,-3,-2,-2,-22,-19,-37,-5,-22,-6,-52,-57,-63,-41,-52,-39,-37,-32,-36,
+-44,-58,-59,-82,-75,-104,-87,-94,-93,-121,-78,-84,-84,-80,-9,-25,-13,-34,-32,
+-36,-33,-113,-109,-108,-103,-108,-97,-216,-205,-251,-253,-258,-264,-297,-294,
+-275,-270,-583,-611,-559,-555,-649,-630,-2026,-1550,-1654,-483,-411,-75,-72,
+-40,-55,-19,-22,-29,-263,-75,-72,-74,-78,-78,-183,-210,-29982,-29983]} 1. d4
+Nf6 2. Bf4 d5 3. e3 e6 4. Nf3 Bd6 5. Bg3 O-O 6. Nbd2 c5 {D02: 1 d4 d5 2 Nf3
+sidelines, including 2...Nf6 3 g3 and 2...Nf6 3 Bf4} (6... b6 7. c3 c5 8. Bd3
+Ba6 9. Bxa6 Nxa6 10. O-O Bxg3 11. hxg3 Qc7 12. Qe2 Nb8 13. e4 dxe4 14. Nxe4
+Nbd7 {1-0 (55) Duda,J (2738)-Giri,A (2783) St Petersburg 2018}) 7. c3 Qc7 8.
+Be2 Nbd7 {The position is equal.} 9. O-O $146 ({Predecessor:} 9. dxc5 Nxc5 10.
+Bxd6 Qxd6 11. Nb3 Bd7 12. Nxc5 Qxc5 13. Qd4 Qxd4 14. cxd4 Rfc8 15. Bd3 Rc7 16.
+Kd2 Rac8 17. Ne5 Be8 {1/2-1/2 (17) Marzaduri,R (2104)-Favaloro,A (2209)
+Gioiosa Marea 2018}) 9... b6 10. c4 Bxg3 11. hxg3 Bb7 12. Rc1 dxc4 13. Bxc4
+Rac8 14. Bb5 Qb8 15. Qe2 Rfd8 16. Rfd1 e5 17. Bc4 h6 18. dxc5 Nxc5 19. Nh4 e4
+20. Nb3 Rxd1+ 21. Rxd1 {[#]} b5 $1 {[%mdl 512]} 22. Bxb5 Nxb3 23. axb3 Qe5 24.
+g4 g6 $36 {[%mdl 3072] Black has compensation. Black is pushing.} 25. Bc4 {
+Threatens to win with Nxg6.} Kg7 26. g3 Rc7 27. Rd8 Bc8 28. Qd2 Bxg4 29. Ng2 g5
+30. Qd4 Rc5 31. b4 Qxd4 32. Rxd4 Rc8 (32... Rc7 $1 $17) 33. Ne1 $11 h5 34. Kg2
+h4 35. gxh4 gxh4 36. f3 (36. b3 $15) 36... h3+ $1 $17 37. Kg3 Rh8 {And now ...
+h2 would win.} 38. Kh2 exf3 {...f2 is the strong threat.} 39. Rf4 (39. Nd3 $17)
+39... Re8 $1 $19 40. Nxf3 Rxe3 41. Nd4 Kg6 42. Bf1 Bd7 43. Be2 Kg5 44. Rf1 $2 (
+44. Rf2 {nothing else works.}) 44... Ng4+ 45. Bxg4 Bxg4 46. Rxf7 {[%mdl 4096]
+Endgame KRB-KRN} Rd3 $1 47. Rg7+ Kh5 48. Nb5 Kh4 (48... Rd2+ $142 49. Kg3 Rg2+
+50. Kf4 Kh6 51. Rxa7 h2 52. Ra6+ Kh7 53. Ra7+ Kg6 54. Ra6+ Kh5) 49. Rh7+ Bh5 $2
+(49... Kg5 $19 {aiming for ...Rd2+.} 50. Rg7+ Kh5 51. Rxa7 Rd2+ 52. Kg3 Rg2+
+53. Kf4 h2 54. Rh7+ Kg6 55. Rxh2 Rxh2 56. Kxg4 Rxb2) 50. Nc3 $17 Rd2+ (50...
+Rd4 $5 {[%cal Rd4b4]} 51. Kh1 a6 $17) 51. Kh1 Rd4 52. b5 Rf4 53. Ne2 $2 {[#]} (
+53. Kg1 $11) 53... Rf1+ $2 (53... Rf2 $1 $19 {[%cal Rf2e2] is more deadly.} 54.
+Nc3 Rxb2) 54. Ng1 Rb1 55. Rh8 Kg4 (55... Rxb2 $2 56. Nxh3 Kg4 57. Nf4 $17) 56.
+Rg8+ {[#]} (56. Rh7 $17) 56... Kf4 $1 $19 {White must now prevent ...Bg4.} 57.
+Rg7 $2 (57. Kh2 $19) 57... Bg4 {Accuracy: White = 33%, Black = 60%.} 0-1
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.07"]
+[Round "6.3"]
+[White "Bai, Jinshi"]
+[Black "Sorokin, Aleksey"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2593"]
+[BlackElo "2531"]
+[Annotator "TA"]
+[PlyCount "64"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,64,11,19,0,0,0,0,0,0,0,0,0,21,27,33,18,33,10,49,45,58,59,55,58,77,40,
+66,63,67,72,62,64,66,68,95,78,89,87,99,91,103,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4
+g6 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Bg7 6. Bg2 Nb6 7. Nf3 Nc6 8. O-O Nxd4 9. Nxd4
+Qxd4 10. a4 {D71: Fianchetto Grünfeld: 3 g3 d5 sidelines and 5 cxd5 (without
+Nf3)} (10. Nb5 Qc4 11. a4 O-O 12. b3 Qg4 13. Ra2 c6 14. Nc7 Rb8 15. a5 Na8 16.
+Nxa8 Rxa8 17. a6 bxa6 18. Bxc6 {1/2-1/2 (40) Sviridov,V (2513)-Kokarev,D (2603)
+Yaroslavl 2018}) 10... Qxd1 11. Rxd1 Bxc3 12. bxc3 a5 13. Bf4 $40 {[%mdl 128]
+White mounts an attack.} c6 14. e4 O-O 15. Bf1 Nd7 $146 ({Predecessor:} 15...
+Kg7 16. f3 f6 17. Be3 Nd7 {1/2-1/2 (66) Delorme,A (2455)-Andersen,M (2382)
+Chotowa 2010}) 16. Be3 b6 17. Rab1 Ra7 18. Bxb6 Nxb6 19. Rxb6 Bg4 20. Rd2 Rc8
+21. e5 Be6 22. f4 Kg7 23. Kf2 f6 24. exf6+ exf6 25. Rd6 Bd5 {[#]} 26. c4 $1 {
+[%cal Rc4d5]} Be4 27. Bg2 Bxg2 28. Kxg2 Re8 29. Rbxc6 ({Don't play} 29. Rdxc6
+Re2+ 30. Kh3 f5 $11) ({Better is} 29. Kf2 $16) 29... Re2+ $11 {The position is
+equal.} 30. Kh3 f5 31. c5 Rc2 32. Ra6 Rxa6 {Accuracy: White = 67%, Black = 49%.
+} 1/2-1/2
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.07"]
+[Round "6.4"]
+[White "Baryshpolets, Andrey"]
+[Black "Theodorou, Nikolas"]
+[Result "1-0"]
+[ECO "E62"]
+[WhiteElo "2589"]
+[BlackElo "2551"]
+[Annotator "TA"]
+[PlyCount "73"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,73,50,44,25,14,17,26,17,33,10,24,6,24,0,0,0,34,24,29,33,31,28,33,31,
+31,31,26,26,41,28,29,19,8,0,31,0,8,-18,19,11,51,0,133,127,254,245,250,250,357,
+348,360,356,330,166,297,293,590,581,29991,29992]} 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7
+4. g3 O-O 5. Bg2 d6 6. Nf3 Nc6 7. O-O e5 8. d5 Nb8 9. c5 {E62: King's Indian:
+Fianchetto: 6...c6 and Panno Variation (6...Nc6) without ...a6} (9. e4 a5 10.
+Ne1 Na6 11. Bg5 h6 12. Be3 Ng4 13. Bd2 f5 14. Nd3 b6 15. f3 Nf6 16. Be3 Nc5 17.
+Nxc5 bxc5 {0-1 (26) Ivanchuk,V (2714)-Amin,B (2709) Zagreb 2018}) 9... Ne8 10.
+cxd6 Nxd6 11. e4 {White has an edge.} a5 $146 ({Predecessor:} 11... Nd7 12. b3
+Nc5 13. Ba3 b6 14. Bxc5 bxc5 15. Nd2 Ba6 16. Re1 Qb8 {1-0 (41) Marovic,D-De
+Rooi,P Amsterdam 1967}) 12. Re1 Na6 13. b3 Bd7 14. Bb2 Qe7 15. Rc1 Rae8 16. Qd2
+Qd8 17. Na4 b6 18. Ba3 {With the idea Nxb6!} Nb4 19. Bxb4 axb4 20. Qxb4 f5 21.
+exf5 gxf5 22. Nc3 ({Of course not} 22. Nxb6 Qb8 $15) 22... Rf7 23. Ne2 Ne4 24.
+Qc4 Bc8 25. Red1 Nd6 26. Qb4 f4 27. gxf4 Bg4 28. Re1 (28. h3 $14 Bxf3 29. Bxf3)
+28... e4 (28... Bxf3 $1 $11 {remains equal.} 29. Bxf3 Qh4) 29. Ng5 $16 Rxf4 (
+29... Rf6 $16 30. Nxe4 Nxe4) 30. Ne6 $1 $18 {[%cal Re6d8]} ({Worse is} 30. Nxf4
+Qxg5 31. Rxc7 Qxf4 $17) 30... Rxe6 31. dxe6 Bxe2 (31... Rf8 {was called for.}
+32. Rc2 Bxe6) 32. Rxe2 Rg4 {[#] Hoping for ...Qg5.} 33. Qd2 Qf6 {( -> ...Qf3)}
+34. h3 (34. Kh1 $142) 34... Rg6 (34... Bh6 {keeps fighting.} 35. Qc3 (35. hxg4
+Bxd2 36. Rxd2 Qxe6 $16) 35... Rxg2+ {[%mdl 64] Decoy} 36. Kxg2 Qg5+ 37. Qg3
+Qxg3+ 38. Kxg3 Bxc1) 35. Qd5 Qf3 $2 (35... Rg5 36. Qa8+ Bf8) 36. e7+ Kh8 {
+[%csl Gg6][%cal Rf3g2] [#]} 37. Qa8+ {Accuracy: White = 54%, Black = 43%.} 1-0
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.07"]
+[Round "6.5"]
+[White "Kaidanov, Gregory"]
+[Black "Erenburg, Sergey"]
+[Result "0-1"]
+[ECO "A07"]
+[WhiteElo "2540"]
+[BlackElo "2576"]
+[Annotator "TA"]
+[PlyCount "80"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,80,9,7,11,6,2,23,9,13,0,6,0,0,-79,-87,-84,-71,-76,-75,-73,-78,-137,
+-145,-144,-134,-146,-130,-145,-142,-122,-134,-138,-127,-129,-129,-120,-115,
+-115,-126,-123,-132,-147,-133,-173,-162,-166,-130,-124,-120,-407,-408,-408,
+-309,-400,-389,-404,-412,-423,-376,-360,-327,-457,-457,-453,-446,-469,-411,
+-525,-519,-585,-512]} 1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. O-O Nf6 5. c4 e6 6. d4
+Be7 7. Nc3 {D11: Slav Defence: 3 Nf3 sidelines and 3...Nf6 4 e3 Bg4} O-O 8. Ne5
+Bh5 9. Qb3 {White has an edge.} Qb6 10. Bf4 Nbd7 11. Nxd7 Nxd7 12. e4 {[#]} (
+12. cxd5 $11 cxd5 13. e4) 12... e5 $1 $17 {[%cal Re5f4]} (12... dxe4 13. Nxe4
+Rfd8 14. Rfe1 Nf6 {1-0 (38) Carlsen,M (2843)-So,W (2778) Stavanger 2018}) 13.
+Bxe5 Nxe5 14. dxe5 {Threatens to win with Qxb6.} dxc4 $146 ({Predecessor:} 
+14... d4 15. Nb1 {1-0 (56) Hartoch,R (2405)-Balshan,A (2415) Amsterdam 1978})
+15. Qxc4 Rfd8 16. h3 (16. Na4 $142 Qd4 17. Qc2) 16... Rd4 $36 {[%mdl 2048]
+Black is on the roll.} 17. Qb3 Rb4 18. Qc2 Rxb2 19. Qc1 {[#] Strongly
+threatening Na4.} Rb4 $1 20. g4 Bg6 21. Rb1 Qd4 22. Ne2 Qxe5 23. Rxb4 Bxb4 24.
+Qb1 Qe7 25. Rd1 Bc5 26. Nf4 Bb6 27. a4 Re8 {[%cal Rg6e4]} 28. Qa2 Rd8 29. Rxd8+
+Qxd8 30. e5 $2 {[%mdl 8192]} (30. Nxg6 $17 hxg6 31. e5) 30... Qd1+ $19 31. Bf1
+Bb1 32. Qb2 {intending e6.} Qc2 33. Qxc2 Bxc2 {[%mdl 4096] Endgame KBB-KBN} 34.
+e6 {Threatening mate with e7.} Kf8 35. exf7 Bb3 ({Less strong is} 35... Bxa4
+36. Bc4 $19) 36. Nd3 Bxa4 37. Ne5 Bb3 38. Bd3 g6 39. h4 Bd4 40. Nc4 b6 {
+Accuracy: White = 46%, Black = 79%.} 0-1
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.08"]
+[Round "7.1"]
+[White "Erenburg, Sergey"]
+[Black "Steingrimsson, Hedinn"]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "2576"]
+[BlackElo "2558"]
+[Annotator "TA"]
+[PlyCount "115"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,115,12,16,16,27,12,20,20,16,20,19,2,31,11,52,31,31,32,33,22,39,38,32,
+0,6,0,38,29,72,39,44,0,74,0,38,25,69,59,58,61,227,232,256,216,264,260,287,281,
+384,351,351,314,873,869,869,854,810,747,737,684,863,877,850,868,845,850,851,
+858,778,756,1343,1306,1205,1172,1156,618,740,729,633,526,1247,1077,1068,1052,
+1052,956,1116,916,4133,3652,2020,2176,1510,1434,29980,29981,29980,29981,29983,
+29984,29984,29985]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3
+b5 7. Bb3 d6 8. a4 Bd7 9. c3 {C84: Closed Ruy Lopez: Unusual White 6th moves}
+O-O (9... Na5 10. Bc2 c5 11. d4 Qb8 12. Bg5 h6 13. Bh4 Be6 14. axb5 axb5 15.
+Nbd2 O-O 16. Re1 Rc8 {1/2-1/2 (56) Karjakin,S (2753)-Aronian,L (2765) Kolkata
+2018}) 10. Bc2 b4 11. Re1 {The position is equal.} Rb8 12. Nbd2 d5 13. h3 $146
+({Predecessor:} 13. a5 h6 14. Ba4 Bd6 15. exd5 Nxd5 16. Ne4 bxc3 17. bxc3 {
+1/2-1/2 (31) Quesada Perez,Y (2630)-Swiercz,D (2649) Saint Louis 2017}) 13...
+Re8 14. a5 Bf8 15. exd5 Nxd5 16. Ne4 h6 17. Bb3 Be6 18. Ba4 Bd7 $1 19. Bb3 Be6
+20. Ba4 Bd7 $1 21. Bd2 Kh8 22. Bb3 (22. Nfg5 $5 Kg8 23. Bb3 bxc3 24. Bxd5 cxd2
+25. Bxf7+ Kh8 26. Re3 $16) 22... Be6 {next ...bxc3 is good for Black.} 23. Ba4
+Bd7 24. Bb3 (24. Nfg5 $5 Kg8 25. Qf3 hxg5 26. Nxg5 $11) 24... Be6 $1 {White
+should prevent ...bxc3.} 25. Bc4 $36 {[%mdl 2048] White has the initiative.}
+Nf4 26. Bxa6 {And now Bxf4 would win.} Nxd3 27. Bg5 hxg5 $2 (27... Nxb2 $14 28.
+Bxd8 Nxd1 29. Bxc7 {[%mdl 64] Double Attack} Nxc3) 28. Bxd3 $18 ({And not} 28.
+Qxd3 Qxd3 29. Bxd3 Red8 $14) 28... Be7 29. Ng3 Bf6 30. Qe2 bxc3 31. bxc3 Qd5
+32. Ne4 g4 33. Nfg5 gxh3 $2 (33... Bxg5 34. Nxg5 Nxa5) 34. Qh5+ Kg8 35. Nxf6+
+gxf6 36. Ne4 Kg7 37. Re3 Ne7 38. Rg3+ Ng6 {[#]} 39. Nxf6 $1 {[%mdl 576] Remove
+Defender} Kxf6 40. Qg5+ Kg7 41. Bxg6 Kf8 42. Bh7 Red8 43. Qh4 {[%csl Gh7][%cal
+Rg3g8]} Ke8 44. Be4 Qd6 45. Rd3 Qa6 46. Rad1 {[%cal Rd3d8]} Rxd3 47. Bxd3 Qa7 {
+[#]} 48. Bb5+ $1 {[%mdl 512]} Kf8 (48... Rxb5 49. Qd8#) 49. Qh8+ Ke7 50. Qxe5
+h2+ 51. Kxh2 {Threatening mate with Rd7+.} Rxb5 52. Qxb5 {White wants to mate
+with Qg5+.} Qxf2 {[%mdl 4096] Endgame KQR-KQB} 53. Qg5+ f6 54. Qg3 Qc5 55. Qg7+
+{White mates.} Ke8 56. Re1 Qh5+ 57. Kg3 Qf5 58. Qg8+ {Accuracy: White = 63%,
+Black = 39%.} 1-0
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.08"]
+[Round "7.2"]
+[White "Theodorou, Nikolas"]
+[Black "Kaidanov, Gregory"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[WhiteElo "2551"]
+[BlackElo "2540"]
+[Annotator "TA"]
+[PlyCount "71"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,71,27,20,25,31,28,45,33,33,23,37,25,26,20,22,28,20,6,34,37,14,7,6,7,
+10,0,13,0,0,-16,-17,-17,-17,-20,19,17,17,22,22,21,30,9,11,11,11,11,11,8,12,0,
+11,11,11,0,1,1,11,11,11,11]} 1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. g3 dxc4 5. Bg2 a6
+6. O-O Nc6 7. e3 Bd7 8. Qe2 {E04: Open Catalan: 5 Nf3} Bd6 9. Qxc4 Rb8 (9...
+O-O 10. Rd1 Qe7 11. Nc3 b5 12. Qd3 e5 13. dxe5 Bxe5 14. e4 Bg4 15. Bg5 Qe6 {
+1/2-1/2 (33) Gelfand,B (2725)-Oparin,G (2616) Moscow 2016}) 10. Re1 {White is
+slightly better.} O-O 11. Nbd2 $146 ({Predecessor:} 11. e4 e5 12. d5 Ne7 13.
+Nh4 b5 14. Qd3 h6 15. Nd2 c6 {1/2-1/2 (40) Khlichkova,T (2231)-Lugovskoy,M 
+(2405) St Petersburg 2018}) 11... Qe7 12. e4 {[#] And now e5 would win.} e5 $1
+13. dxe5 Nxe5 14. Nxe5 Qxe5 15. Nf3 Qc5 16. Qxc5 Bxc5 17. Be3 Bxe3 18. Rxe3
+Rfe8 19. Nd4 Rbd8 20. Ree1 Ba4 21. e5 Rxd4 22. exf6 Rxe1+ 23. Rxe1 gxf6 $11 {
+[%mdl 4096] Endgame KRB-KRB} 24. b3 Bd7 $1 25. Bxb7 Rd2 26. a4 {[%cal Ba2a4,
+Ba4a5,Ba5a6][%mdl 32]} a5 27. Rc1 Be6 {The position is equal.} 28. Rc5 Bxb3 29.
+Rxa5 Kg7 30. Ra8 c5 31. a5 Ra2 32. a6 Be6 33. Rd8 c4 {With the idea ...Ra1+.}
+34. Rd1 c3 35. Rc1 Bc4 36. Rxc3 {Accuracy: White = 61%, Black = 67%.} 1/2-1/2
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.08"]
+[Round "7.3"]
+[White "Sorokin, Aleksey"]
+[Black "Baryshpolets, Andrey"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2531"]
+[BlackElo "2589"]
+[Annotator "TA"]
+[PlyCount "31"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,31,13,17,16,20,20,19,19,26,10,20,0,0,0,0,-22,0,0,0,-6,11,0]} 1. d4 d5
+2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 {D37: Queen's
+Gambit Declined: 5 Bf4} Ne4 8. Qc2 f5 9. Ne5 Bf6 10. Nxd7 Bxd7 {The position
+is equal.} 11. Nxe4 $146 ({Predecessor:} 11. f3 Ng5 12. Bxg5 Bxg5 13. f4 Bf6
+14. b4 g5 {1/2-1/2 (30) Fressinet,L (2714)-Ponomariov,R (2734) Istanbul 2012})
+11... fxe4 12. Qc3 Bg5 13. Be5 Bf6 14. Bf4 Bg5 15. Be5 Bf6 16. Bf4 1/2-1/2
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.08"]
+[Round "7.4"]
+[White "Mista, Aleksander"]
+[Black "Bai, Jinshi"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2592"]
+[BlackElo "2593"]
+[Annotator "TA"]
+[PlyCount "84"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,84,43,35,35,35,22,39,21,20,17,31,14,21,25,24,29,21,11,15,13,18,11,35,
+22,25,0,8,-16,-16,-14,-19,-39,-24,-35,-27,-79,-81,-112,-114,-114,-112,-100,-97,
+-103,-100,-110,-115,-115,-109,-114,-104,-128,-99,-129,-125,-126,-126,-126,-126,
+-126,-125,-124,-115,-124,0,-123,0,-125,0]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4.
+Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Bf5 8. Re1 O-O 9. c4 Nc6 10. cxd5 {C42:
+Petroff Defence: 3 Nxe5 and unusual White 3rd moves} Qxd5 11. Nc3 Nxc3 12. bxc3
+{[%cal Bb2c3,Bc3c4][%mdl 32] White is slightly better.} Rae8 13. Bf4 Bd8 14. c4
+{[#]} Rxe1+ $146 ({Predecessor:} 14... Qd7 15. Bxf5 Qxf5 16. Qd2 Na5 17. Rec1
+Re4 {1/2-1/2 (58) Anand,V (2776)-Li,C (2728) Germany 2017}) 15. Qxe1 Qd7 16.
+Bxf5 Qxf5 17. Bg3 Bf6 18. Rd1 Qd7 {[%cal Rc6d4]} 19. d5 Re8 20. Qd2 Ne5 21.
+Bxe5 Bxe5 22. Qa5 Bd6 23. Qxa7 b6 24. Qa6 Bc5 25. Re1 g6 {Hoping for ...Rxe1+.}
+26. Rxe8+ (26. Qb5 $1 $11 Qxb5 27. cxb5) 26... Qxe8 $17 27. Kf1 Qe4 $36 {
+[%mdl 3072] ( -> ...Qd3+). Black has strong compensation. White is under
+strong pressure.} 28. Qa4 Qd3+ 29. Ke1 {And now Qe8+ would win.} Qb1+ 30. Ke2 {
+[#]} Qb2+ $1 31. Kd3 Qxf2 32. Qe8+ {[#]} Bf8 $1 33. Qe2 Qc5 34. Nd4 h5 35. Nb3
+Qg1 36. h3 Qb1+ 37. Qc2 Qf1+ 38. Qe2 Qf6 39. Qf3 Qb2 40. Qe2 Qf6 41. Qf3 $1 {
+[%cal Rf3f6]} Qb2 {Threatens to win with ...Bb4.} 42. Qe2 Qf6 {Accuracy: White
+= 62%, Black = 76%.} (42... Qa3 $17 43. g4 hxg4 44. hxg4 Qd6) 1/2-1/2
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.08"]
+[Round "7.5"]
+[White "Kadric, Denis"]
+[Black "Chirila, Ioan-Cristian"]
+[Result "1/2-1/2"]
+[ECO "B35"]
+[WhiteElo "2547"]
+[BlackElo "2566"]
+[Annotator "TA"]
+[PlyCount "191"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,191,22,27,0,-16,0,10,-65,-45,-55,-39,-145,-136,-130,-125,-132,-134,
+-174,-189,-177,-189,-183,0,0,82,101,91,103,89,33,58,29,58,0,0,0,0,0,0,0,0,0,58,
+45,145,141,738,727,692,677,29966,29967,29965,29968,29965,29969,29968,29970,
+29970,29969,29969,29970,29970,29971,29972,29974,29974,29975,29973,29970,29970,
+29969,29971,29973,29971,29973,29973,29972,29972,29971,29971,29972,29973,29974,
+29974,29974,29973,29971,29971,29968,29965,29970,29968,29971,29988,29989,29989,
+29981,29981,29982,29982,29980,29980,29970,29969,29974,29975,29971,29971,29972,
+29972,29973,29973,29974,29974,29975,29975,29976,29978,29977,29978,29979,29979,
+29980,29980,29981,29981,29979,29979,29980,29980,29981,29981,29982,29982,29982,
+29982,29983,29984,29984,29981,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0]} 1. e4 c5 2. Nc3 Nc6 3. Nge2 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7.
+Bc4 O-O 8. Bb3 d6 9. f3 Bd7 10. h4 h5 11. Qd2 Rc8 12. Nxc6 {B77: Sicilian
+Dragon: Yugoslav Attack, 9 Bc4 sidelines} (12. O-O-O Ne5 13. Bg5 Rc5 14. Kb1
+Re8 15. g4 hxg4 16. f4 Nc4 17. Qd3 Na5 18. Bxf6 exf6 19. Bd5 Nc6 20. Nxc6 bxc6
+21. Bxf7+ Kxf7 22. Qxd6 Rxc3 23. Qxd7+ Qxd7 24. Rxd7+ {1/2-1/2 (47) Vachier
+Lagrave,M (2789)-Nakamura,H (2781) London 2017 CBM 182 [Yermolinsky,A]}) 12...
+bxc6 {LiveBook: 6 Games} 13. g4 (13. Bxa7 c5 $17) 13... c5 {With the idea ...
+c4.} 14. Bc4 $146 ({Predecessor:} 14. g5 Ne8 15. Bc4 Rb8 16. Rb1 Nc7 17. O-O
+Bc6 18. b3 Qd7 19. Kg2 e6 {1/2-1/2 (34) Keinanen,T (2402)-Yang,C (2198) Batumi
+2018}) 14... Rb8 (14... hxg4 15. h5 $1 $15 {[%mdl 512]}) 15. e5 (15. Bh6 $11)
+15... dxe5 $15 {[%cal Bd6e5,Be5e4][%mdl 32]} 16. g5 Ne8 $1 17. Ne4 (17. Bxc5
+$15 Nd6 18. Bxd6 exd6 19. O-O-O) 17... Nd6 $1 $17 {[%cal Rd6c4]} 18. Nxd6 exd6
+19. Qxd6 Rxb2 20. O-O-O {[#]} e4 $1 {[%mdl 512]} 21. Bxc5 {And now Qxg6 would
+win.} (21. Qxd7 Qa5 $15) (21. fxe4 Qa5) 21... Qa5 {( -> ...Rxc2+!)} 22. Bd4 Rb6
+$2 (22... Bxd4 $1 $19 23. Rxd4 (23. Qxg6+ $2 Bg7 $19) 23... Rb6 24. Qxd7 Qc3
+25. Rxe4 Qxf3) 23. Qc5 (23. Qxd7 $2 Qa3+ 24. Kd2 Rd6 $19) 23... Bb5 (23... Qb4
+$11 24. a3 (24. fxe4 Bxd4 25. Qxb4 Rxb4 $17) 24... Qb1+ 25. Kd2 Bxd4 26. Qxd4 (
+26. Rxb1 $2 e3+ 27. Ke2 Bxc5 $19) 26... e3+ 27. Kd3 Bf5+ 28. Kxe3 Qb2) 24. Bxg7
+$16 Kxg7 25. Bb3 Qa6 26. fxe4 (26. Rhe1 $16) 26... Rc6 27. Qd4+ Kg8 28. Rh3 (
+28. Bd5 $14) 28... Bc4 $11 29. Kb2 Rfc8 30. Rd2 Qb7 31. Kc1 a5 32. Rc3 Bxb3 (
+32... Qb4 $11) 33. Rxc6 $1 $14 ({Of course not} 33. Rxb3 Qc7 $15) 33... Rxc6 (
+33... Qxc6 $14 34. axb3 Qc7) 34. axb3 $16 Qxb3 $2 $11 {[%mdl 12288] Endgame
+KQR-KQR} (34... Kh7 $16) 35. Qd8+ $18 Kh7 36. Qf8 {White wants to mate with
+Qh6+.} Rxc2+ 37. Rxc2 Qe3+ 38. Kb1 Qb3+ {[#]} 39. Rb2 $1 Qd3+ 40. Ka1 Qd1+ {[#]
+} 41. Ka2 $1 ({Weaker is} 41. Rb1 Qa4+ 42. Kb2 Qd4+ 43. Ka3 Qc3+ 44. Ka2 Qc4+
+45. Ka3 Qc3+ 46. Ka2 Qc4+ 47. Ka3 Qc3+ $11) 41... Qa4+ 42. Qa3 Qxe4 43. Rf2 Kg8
+44. Qb3 Qe7 45. Qc4 Qd7 46. Rf4 Qd2+ 47. Ka3 Qd6+ 48. Ka4 Qd7+ 49. Kxa5 Qa7+
+50. Kb5 Qb8+ 51. Kc6 Qc8+ 52. Kd5 Qe6+ 53. Kd4 Qd6+ 54. Ke4 Qe7+ 55. Kf3 Qd7
+56. Kg3 Qe7 57. Qc8+ Kh7 58. Qc3 Kg8 59. Rc4 Qd6+ 60. Kf3 Qd5+ 61. Kf2 Qf5+ 62.
+Kg1 Kh7 63. Kg2 Qd5+ 64. Kf2 Qf5+ 65. Ke1 Qe6+ 66. Kd2 Qd5+ 67. Kc2 Qf5+ 68.
+Kb3 Qd5 69. Qf6 Qb5+ 70. Kc3 Qd7 71. Kb4 Qb7+ 72. Kc5 Qc7+ 73. Qc6 Qe5+ 74. Kb6
+Qb8+ 75. Qb7 Qd6+ 76. Ka7 Qa3+ 77. Qa6 Qe7+ 78. Kb8 Qf8+ 79. Qc8 Qd6+ 80. Qc7
+Qd5 81. Rf4 Kg7 82. Rxf7+ $2 (82. Qc3+ {mates} Kg8 83. Rc4 Qd6+ 84. Ka7 Kh7 85.
+Rc7 Qd5 86. Qc4 Qxc4 87. Rxc4) 82... Qxf7 $11 {KQ-KQ. The position is equal.}
+83. Kc8 {aiming for Qxf7+.} Kh8 $1 84. Qd8+ Kh7 85. Qd7 Kh8 $1 86. Kd8 {
+Qe8+ is the strong threat.} Qf8+ 87. Qe8 Kh7 $1 88. Kd7 Qf4 (88... Qf5+ {
+with more complications.} 89. Kc6 Qc2+ 90. Kb7 Qf5 91. Kc6) 89. Qe7+ Kg8 90.
+Qd6 Qxh4 91. Qxg6+ Kf8 92. Qh6+ Kg8 93. Qe6+ Kg7 94. Qe5+ Kf7 95. Qe7+ Kg8 96.
+Qe8+ {Precision: White = 62%, Black = 63%.} 1/2-1/2
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.09"]
+[Round "8.1"]
+[White "Steingrimsson, Hedinn"]
+[Black "Chirila, Ioan-Cristian"]
+[Result "1-0"]
+[ECO "A34"]
+[WhiteElo "2558"]
+[BlackElo "2566"]
+[Annotator "TA"]
+[PlyCount "79"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,79,33,41,6,8,0,87,86,96,92,109,85,72,68,146,82,124,92,83,86,63,64,89,
+80,123,126,169,171,170,156,152,161,168,160,163,173,165,170,155,106,215,176,253,
+245,245,254,243,210,220,225,329,329,326,312,320,316,631,623,609,601,971,947,
+4818,2610,29958,5339,29977,29977]} 1. Nf3 Nf6 2. c4 c5 3. Nc3 d5 4. cxd5 Nxd5
+5. e3 Nxc3 6. bxc3 g6 7. Bb5+ Nd7 8. Ba3 {A34: Symmetrical English: 2 Nc3,
+lines with ...d5} Qc7 9. d4 Bg7 (9... a6 $11 10. Bxd7+ Bxd7) (9... a6 10. Bxd7+
+Bxd7 11. Bxc5 b6 12. Ne5 bxc5 13. Qf3 Rb8 14. Qxf7+ Kd8 15. O-O Be8 16. Qc4 e6
+17. Rab1 Ke7 18. Qxa6 Kf6 19. Ng4+ Kf7 20. Ne5+ Kf6 21. Ng4+ Kf7 22. Ne5+ {
+1/2-1/2 (22) Fressinet,L (2702)-Nepomniachtchi,I (2705) Baku 2015}) 10. Bxc5 $1
+$16 {White is better.} b6 $146 ({Predecessor:} 10... O-O 11. Bb4 a6 12. Be2 a5
+13. Bxe7 Re8 14. Bh4 Qxc3+ 15. Nd2 Nf6 {1-0 (34) Smejkal,J (2550)-Jansa,V 
+(2495) Trencianske Teplice 1979}) 11. Bb4 a6 12. Qa4 Bb7 13. Bd3 e5 (13... O-O
+$14) 14. Qc2 (14. Qb3 $142) 14... Qc6 15. e4 exd4 16. cxd4 {And now Rc1 would
+win.} Qxc2 17. Bxc2 Rc8 18. Kd2 Nf6 19. Rhe1 $1 Ng4 {Threatens to win with ...
+Bh6+.} 20. Re2 $1 a5 21. Ba4+ Kd8 22. Bd6 Ba6 {[#]} 23. Rb1 $1 {[%cal Rb1b6]}
+Bh6+ 24. Ke1 {Hoping for Reb2.} Bxe2 25. Kxe2 $40 {[%mdl 128] Black must now
+prevent h3. White is out for blood.} Rc4 26. Bb3 Rc6 (26... Rc1 $16 27. Rxc1
+Bxc1) 27. e5 Bf8 (27... Rc1 $142 28. Rxc1 Bxc1 29. Bxf7 Nh6) 28. Ng5 $18 Nh6
+29. Bxf8 Rxf8 30. Nxh7 Rh8 {[#]} 31. Ng5 $1 Ke7 (31... Rc7 {keeps fighting.}
+32. Kd3 Kc8) 32. d5 {[%cal Bd4d5,Bd5d6,Bd6d7][%mdl 32]} Rcc8 33. d6+ Kf8 34. f4
+Nf5 $2 (34... b5 35. h3 Rc3) 35. d7 Rb8 36. Nxf7 Nd4+ 37. Ke3 Nxb3 38. Nxh8 Nc5
+39. Nxg6+ Kf7 40. f5 {Accuracy: White = 78%, Black = 33%.} 1-0
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.09"]
+[Round "8.2"]
+[White "Bai, Jinshi"]
+[Black "Kadric, Denis"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "2593"]
+[BlackElo "2547"]
+[Annotator "TA"]
+[PlyCount "47"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,47,14,22,16,22,14,42,0,0,0,0,-1,15,-12,-17,-17,-11,-11,-10,-14,-15,
+-18,-21,-21,-16,-20,-5,-5,0,0,0,-11,0,0,0,-9,0,0,0,-6]} 1. Nf3 d6 2. d4 g6 3.
+g3 Bg7 4. Bg2 c5 5. O-O cxd4 6. Nxd4 {A41: 1 d4 d6: Tartakower System and
+Modern Defence} h5 (6... Qb6 7. Be3 Qa5 8. Qd2 Qxd2 9. Nxd2 a6 10. c4 Nf6 11.
+h3 e5 12. N4b3 Nc6 {1/2-1/2 (42) Agdestein,S (2628)-Caruana,F (2791) Stavanger
+2014}) 7. h4 Qb6 $146 ({Predecessor:} 7... a6 8. c3 Qc7 9. Nd2 Nh6 10. Ne4 Nd7
+11. Bg5 Ne5 12. Qb3 Rb8 {0-1 (59) Konik,M (2076)-Libuda,T (1923) Hanau 2012})
+8. Nb3 {White is slightly better.} Nc6 {The position is equal.} 9. Nc3 Nf6 10.
+Bg5 Be6 11. Bxf6 Bxf6 12. Nd5 Bxd5 $1 13. Qxd5 O-O 14. c3 Rfd8 15. a4 e6 16.
+Qb5 Qc7 17. e4 Rac8 18. Qe2 Qb6 19. Qb5 Qc7 20. Qe2 Qb6 21. Qb5 Qc7 22. Qe2 Qb6
+23. Qb5 Qc7 24. Qe2 {Accuracy: White = 86%, Black = 76%.} 1/2-1/2
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.09"]
+[Round "8.3"]
+[White "Baryshpolets, Andrey"]
+[Black "Mista, Aleksander"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2589"]
+[BlackElo "2592"]
+[Annotator "TA"]
+[PlyCount "89"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 25,89,0,20,14,18,22,18,25,25,14,20,9,27,15,4,18,20,0,0,-30,-29,-28,-27,
+-68,-12,-57,-57,-58,-57,-52,0,0,0,-52,-52,-55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4
+Nxc3 6. bxc3 Bg7 7. Nf3 c5 8. Be3 Qa5 9. Qd2 Nc6 10. Rb1 a6 11. Rc1 cxd4 12.
+cxd4 Qxd2+ 13. Kxd2 f5 14. e5 {D85: Exchange Grünfeld: Unusual White 7th moves
+and lines with 7 Nf3} O-O 15. Bc4+ e6 {[#] aiming for ...f4.} 16. Ke2 Bd7 17.
+h4 Rfc8 {[#]} (17... Rac8 18. Bd2 h6 19. Bb3 Kf7 20. Rhg1 Rfd8 21. g4 Ne7 {
+0-1 (53) So,W (2815)-Giri,A (2785) chess.com INT 2017}) 18. d5 $146 ({
+Predecessor:} 18. Ng5 Nd8 19. Bb3 h6 20. Nh3 Rxc1 21. Rxc1 Rc8 22. Rxc8 Bxc8 {
+0-1 (49) Akobian,V (2641)-Durarbayli,V (2618) Saint Louis 2018}) 18... Na5 19.
+dxe6 Bc6 $36 {[%mdl 2048] Black has some pressure.} 20. Bd3 {Threatening Bb6.}
+Bd5 $1 21. e7 Nc6 22. Bc5 Nxe5 23. Nxe5 Bxe5 24. h5 Bf6 ({Much worse is} 24...
+Bxa2 $6 25. g4 $11) ({Much weaker is} 24... Bxg2 $6 25. Rhg1 $11) (24... Bb2
+$15 25. Rc2 Bf6) 25. hxg6 hxg6 26. Bb4 Rxc1 27. Rxc1 Re8 (27... Bxe7 $15 28.
+Bxe7 Re8) 28. Rc7 $11 Kf7 {[%cal Rf6e7]} 29. a3 (29. Ke3 $11) 29... Bxe7 $15
+30. g4 Kf6 (30... fxg4 $15 31. Bxg6+ Kxg6 32. Rxe7 Bf3+ 33. Ke3 Rc8) 31. Rxe7 {
+The position is equal.} Rxe7+ 32. Bxe7+ Kxe7 33. gxf5 $11 {[%mdl 4096] Endgame
+KB-KB} g5 34. Ke3 Kd6 35. Kd4 b5 36. f6 Bf7 37. Be2 Ke6 38. Kc5 Kxf6 39. Bf3 {
+Bb7 is the strong threat.} Be8 40. Kb6 Ke5 41. Kxa6 Kd4 42. Be2 Kc5 43. Ka5 Bc6
+44. Bf1 Bd7 45. Be2 {Accuracy: White = 72%, Black = 67%.} 1/2-1/2
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.09"]
+[Round "8.4"]
+[White "Kaidanov, Gregory"]
+[Black "Sorokin, Aleksey"]
+[Result "1-0"]
+[ECO "A05"]
+[WhiteElo "2540"]
+[BlackElo "2531"]
+[Annotator "TA"]
+[PlyCount "131"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,131,12,14,24,22,33,25,29,27,27,-7,25,22,37,38,37,40,50,65,71,79,66,
+77,100,101,119,105,135,42,150,91,192,150,163,69,151,133,168,70,65,0,147,189,
+155,160,154,148,137,122,123,121,121,108,114,112,114,90,195,145,154,103,157,87,
+410,161,468,340,297,108,799,111,176,156,160,169,336,332,276,228,199,113,139,
+139,149,149,147,149,264,264,268,244,302,302,324,0,126,0,325,325,319,236,237,
+225,325,325,325,325,325,325,332,325,492,325,325,318,539,499,539,534,842,801,
+822,822]} 1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 O-O 5. Bg2 d5 6. c4 Nc6 {
+A05: Réti Opening: 1 Nf3 Nf6} 7. cxd5 Qxd5 8. Nc3 Qh5 {White has an edge.} 9.
+h3 Rd8 10. Qc1 $146 ({Predecessor:} 10. d3 Ne4 11. Qc1 Nd6 12. Qg5 Qxg5 13.
+Nxg5 Nd4 14. Rc1 {0-1 (45) Song,R (2329)-Safarli,E (2681) chess.com INT 2019})
+10... Be6 11. Na4 Nd7 12. Bxg7 Kxg7 13. Qc3+ f6 14. Rc1 a5 15. Qe3 Bf7 16. O-O
+Qb5 17. d4 Nb6 18. Nc5 $1 Nd5 19. Qe4 (19. Qd2 $1 $16) 19... Rd6 (19... Ncb4 $1
+$14) 20. Rfe1 ({White should try} 20. Qb1) 20... b6 (20... Ndb4 $16 {was
+called for.}) 21. Na4 Qb4 22. e3 (22. Qb1 $1 $18) 22... e5 (22... Qa3 $1 $14)
+23. Rc4 $16 Qa3 ({Not} 23... f5 $2 24. Qh4 $18) 24. dxe5 (24. Nc3 $1 $18 {
+[%cal Rc3b5]} Nxc3 25. Rxc3) 24... Re8 $14 {[%cal Rc6e5]} 25. Qb1 (25. Qc2 $14
+Nxe5 26. Nxe5 Rxe5 27. Bxd5 Rexd5 28. Rxc7) 25... b5 (25... Nxe5 $11 {keeps
+the balance.} 26. Nxe5 Rxe5) 26. exd6 $16 bxc4 27. bxc4 Ndb4 28. d7 Rd8 29. Nc5
+{And now Nd4 would win.} Nc2 30. Qxc2 Qxc5 31. Rd1 Be6 32. Nd4 Nxd4 33. exd4
+Qb4 (33... Qxc4 $16 34. Qxc4 Bxc4) 34. d5 Bxd7 {aiming for ...Ba4.} 35. Qd2 (
+35. Rb1 $142 Qc5 36. Qc3) 35... Qc5 ({Better is} 35... Qxd2 36. Rxd2 Bc8) 36.
+Qd4 ({White should play} 36. Rb1) 36... Qa3 $2 {[%mdl 8192]} (36... Qxd4 $16 {
+is a better chance.} 37. Rxd4 Kf7) 37. c5 $2 (37. Qa7) 37... Re8 $2 (37... Qb4
+{is more resistant.} 38. Qxb4 axb4) 38. c6 Bf5 39. d6 $2 (39. Qa7 $1 $18 Qd6
+40. Qxa5) 39... cxd6 $2 {[%mdl 8192]} (39... Qxd6 $16 40. Qxd6 cxd6) 40. Qxd6
+$2 (40. Qa7+ $18 Kf8 41. Qxh7) 40... Re1+ (40... Qxd6 $16 41. Rxd6 Kf7) 41. Kh2
+$18 Qxd6 42. Rxd6 $16 {[%mdl 4096] Endgame KRB-KRB} Re2 $2 (42... Kf7 43. Rd5
+Re2) 43. g4 $18 Bc8 44. Rd8 Be6 45. Kg3 (45. Bd5 $18 Bxd5 46. Rxd5) 45... Rxa2
+46. c7 $1 {Strongly threatening Re8.} Ra3+ {[#]} 47. Kh2 $1 {Black must now
+prevent Re8.} Rc3 48. Bd5 Bxg4 (48... Bxd5 $16 49. c8=Q Rxc8 50. Rxc8 a4 51.
+Rc7+ Kg8) 49. hxg4 Rxc7 $16 {KRB-KR} 50. Ra8 Rc5 {[#]} 51. Ra7+ $1 Kh8 52. Ra8+
+$2 (52. Be4 $18 {and the rest is easy.}) 52... Kg7 53. Ra7+ $2 (53. Be6 $16)
+53... Kh8 $1 $18 54. Be4 Rg5 55. Bf3 Rc5 56. Kg3 Rb5 (56... Rg5 {was necessary.
+} 57. Rf7 a4) 57. Be4 Rb3+ 58. f3 Rb5 59. Kf4 Re5 60. Rf7 Re6 (60... a4 $142
+61. Ra7 Rc5 62. Rxa4 Rc7) 61. Bd3 Rd6 62. Ke4 Re6+ $2 (62... a4 63. Ra7 Kg8 64.
+Bc4+ Kh8) 63. Kd5 {White is clearly winning.} Rb6 64. Kc5 Re6 65. Bc4 Re3 66.
+Rxf6 {Accuracy: White = 52%, Black = 21%.} 1-0
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.09"]
+[Round "8.5"]
+[White "Erenburg, Sergey"]
+[Black "Theodorou, Nikolas"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2576"]
+[BlackElo "2551"]
+[Annotator "TA"]
+[PlyCount "134"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,134,14,8,13,11,14,14,20,14,22,20,21,16,42,42,37,38,58,20,32,0,8,0,5,
+0,0,0,23,21,16,11,36,0,36,0,22,7,25,0,0,0,0,0,0,0,0,0,0,0,0,27,41,-54,-34,-67,
+-64,-125,-43,-102,-93,-91,-16,-13,-5,-12,-5,-5,-5,-29,-26,-26,-29,-29,-20,-46,
+-50,-52,-38,-72,-27,-86,-86,-86,-86,-86,-5,-6,-8,-5,-5,-8,0,-8,-8,-8,-8,-8,-8,
+-9,-9,-9,-9,-9,-9,-9,-9,-9,-2,-9,-9,-9,-9,-9,-2,-2,-2,-2,-2]} 1. e4 e5 2. Nf3
+Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8 9.
+h3 Ke8 10. Nc3 b6 {C67: Ruy Lopez: Berlin Defence: 4 0-0 Nxe4} (10... h5 11.
+Ne2 b6 12. Bg5 c5 13. Nc3 Bb7 14. Rfd1 Bxf3 15. gxf3 c6 16. Rd3 Be7 17. Ne4 Rd8
+18. Rad1 Rxd3 19. Rxd3 Bxg5 20. Nxg5 {1/2-1/2 (33) Vachier Lagrave,M (2781)
+-Nakamura,H (2746) London 2018}) 11. Rd1 Bb4 12. Ne2 Be7 13. Bf4 h5 $146 ({
+Predecessor:} 13... Bb7 14. Ned4 Nxd4 15. Nxd4 g5 16. Bg3 Rd8 17. c3 Rg8 18.
+Re1 Rd5 19. e6 Bd6 20. Bxd6 Rxd6 21. b4 Bc8 22. exf7+ Kxf7 23. Re5 Bd7 {
+1/2-1/2 (23) Fajs,B (2473)-Martin Sanchez,C (2367) ICCF email 2010}) 14. a4 Rg8
+15. Bg5 f6 16. exf6 gxf6 17. Bf4 c5 18. Ng3 (18. Bxc7 {is more complex.} Bb7
+19. Kf1 Kf7 20. a5 b5 21. Ng3) 18... Nxg3 19. Bxg3 Bb7 20. Ne1 Rc8 21. Kh2 a5
+22. f3 Bc6 23. c4 Kf7 24. b3 Rge8 25. Nd3 Bf8 26. Kg1 Re3 27. Bf4 Re7 28. Rd2
+h4 29. Rad1 Kg6 30. Bh2 Kf5 31. Nf4 Bh6 32. Nd5 Bxd5 33. Rxd5+ Kg6 34. Rd7 Re3
+35. Rxc7 (35. Rb1 $14) 35... Rce8 $15 36. Rc6 Rxb3 37. Bc7 (37. Kf1 $1 $15)
+37... Rb2 (37... Be3+ $17 38. Kf1 Rb4) 38. Rxb6 (38. Kh1 $15) 38... Rc2 39. Kh1
+Ree2 (39... Rxc4 $17 40. Rb5 Re2) 40. Bd8 $11 Rcd2 41. Rbb1 Ra2 42. Rd6 Bg7 43.
+Bxa5 (43. Rc6 {is interesting.} Rxg2 44. Rg1 Rxg1+ 45. Kxg1 Rxa4 46. Rxc5 Bh6
+47. Rxa5 Rxc4 48. Bb6) 43... Rxg2 44. Rg1 Rxg1+ 45. Kxg1 Rxa4 {[%mdl 4096]
+Endgame KRB-KRB} 46. Be1 Rxc4 47. Kf1 Bh6 48. Rc6 Bg5 49. Ke2 (49. Bf2 $1 $11)
+49... Kf5 $17 50. Kd3 {[#]} Rc1 $1 {[%cal Rc1e1]} 51. Bc3 Rd1+ ({Better is} 
+51... Rh1 $17 52. Rxc5+ Kf4 53. Bd2+ Kxf3 54. Rf5+ Kg3 55. Bxg5 fxg5 56. Rxg5+
+Kxh3) 52. Ke2 $1 $11 {[%cal Re2d1] The position is equal.} Rh1 53. Rxc5+ Kg6
+54. Kf2 Rxh3 {[#] aiming for ...Rh2+.} 55. Kg2 $1 {[%cal Rg2h3]} Rg3+ 56. Kf2
+f5 57. Rc6+ Kf7 58. Be5 f4 {White must now prevent ...h3.} 59. Rc4 h3 60. Bxf4
+h2 61. Kxg3 h1=Q {( -> ...Qh4+)} 62. Bxg5 {KQ-KRB} Qg1+ 63. Kf4 Qh2+ 64. Kf5
+Qd6 {...Qe6+ is the strong threat.} 65. Re4 Qd5+ 66. Kg4 Kg6 67. Be3 Qd7+ {
+Accuracy: White = 59%, Black = 43%.} 1/2-1/2
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.10"]
+[Round "9.1"]
+[White "Theodorou, Nikolas"]
+[Black "Steingrimsson, Hedinn"]
+[Result "0-1"]
+[ECO "E20"]
+[WhiteElo "2551"]
+[BlackElo "2561"]
+[Annotator "TA"]
+[PlyCount "74"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,74,0,18,10,7,18,18,14,11,35,0,0,0,66,65,75,63,63,63,78,-76,-53,-73,
+-72,-102,-101,-101,-101,-106,-97,-163,-151,-148,-151,-156,-156,-289,-296,-380,
+-380,-400,-408,-393,-393,-391,-328,-387,-372,-429,-366,-508,-502,-602,-614,
+-582,-275,-257,-257,-312,-266,-354,-325,-340,-347,-352,-352]} 1. d4 Nf6 2. c4
+e6 3. g3 Bb4+ 4. Nc3 O-O 5. Bg2 Bxc3+ 6. bxc3 Nc6 {E20: Nimzo-Indian: 4 g3 and
+4 f3} 7. Nf3 d6 (7... b6 8. Ne5 Bb7 9. Bg5 Na5 10. Bxb7 Nxb7 11. Qa4 Nd6 12.
+Bxf6 gxf6 13. Nd3 c5 14. dxc5 bxc5 {1-0 (78) Rapport,R (2692)-Riazantsev,A 
+(2671) Sharjah 2017}) 8. Qd3 Na5 $146 {The position is equal.} ({Predecessor:} 
+8... e5 9. Nd2 Re8 10. O-O Rb8 11. Rb1 Ne7 12. Rd1 b6 13. e4 Nc6 {1/2-1/2 (34)
+Novak,V (2449)-Williams,T (2420) ICCF email 2016}) 9. Nd2 Qd7 10. O-O Qa4 11.
+Rb1 c5 (11... Rb8 $1 $11) 12. dxc5 $14 dxc5 13. Nb3 Qxa2 14. Nxc5 {Rb4 is the
+strong threat.} Qxc4 15. Qd6 $2 ({Much weaker is} 15. Bxb7 Qxd3 16. exd3 Nxb7
+$15) (15. Rb5 $16 {and life is bright.} Qxd3 16. exd3) 15... Qxe2 16. Rb2 {[#]}
+Qh5 $1 {Threatens to win with ...Nc4.} 17. Rb5 Nc4 18. Qf4 a6 19. Rb4 Ne5 20.
+Re1 (20. Rb3 $17) 20... Neg4 21. h3 Qxc5 22. hxg4 Nd5 ({Don't do} 22... Qxc3
+23. Bd2 $17) 23. Qg5 (23. Qc4 $17 Qxc4 24. Rxc4) 23... f6 $19 ({Resist} 23...
+Qxc3 24. Bd2 $19) 24. Qh5 g6 25. Qh6 Nxb4 26. cxb4 Qxb4 {[%mdl 64] Double
+Attack} 27. Re4 Qb1 28. Re1 {Strongly threatening Qxf8+!} Rf7 29. Be4 Qb4 30.
+Rd1 {Rd8+ would kill now.} Bd7 31. Qf4 Bc6 32. Bxg6 {[#]} Qxf4 (32... Rd7 $142
+$1 {[%mdl 512]} 33. Bf7+ Kg7 34. Qh6+ Kxf7 35. Qxh7+ Ke8 36. Qg8+ Qf8 37. Qxe6+
+Re7) 33. Bxf7+ Kxf7 34. Bxf4 {KRB-KRB} Rg8 35. f3 e5 36. Be3 Bxf3 {[%mdl 64]
+Double Attack} 37. Rd6 Rxg4 {Accuracy: White = 34%, Black = 69%.} 0-1
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.10"]
+[Round "9.2"]
+[White "Sorokin, Aleksey"]
+[Black "Erenburg, Sergey"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2531"]
+[BlackElo "2586"]
+[Annotator "TA"]
+[PlyCount "60"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,60,0,12,0,18,23,12,0,1,-2,0,0,15,7,8,0,1,-12,-12,-25,-23,-2,0,0,0,11,
+0,-32,-33,-171,-179,-509,-500,-486,-503,-532,-528,-583,-392,-429,-390,-390,
+-400,-381,-366,-719,-696,-810,-763]} 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5.
+Be2 Ne7 6. O-O c5 7. c4 Nbc6 8. Na3 {B12: Caro-Kann: Advance Variation} (8.
+dxc5 dxc4 9. Bxc4 Ng6 10. Be3 Be7 11. Nc3 O-O 12. Be2 Qb8 13. Nd2 Rd8 14. f4
+Nb4 15. Rc1 b6 {1-0 (42) Harikrishna,P (2729)-Mamedyarov,S (2817) Kolkata 2018}
+) 8... a6 9. dxc5 d4 10. Qa4 {White wants to play Rd1.The position is equal.}
+Ng6 11. Rd1 Bxc5 12. b4 Ba7 $1 13. c5 {[#] Nxd4 is the strong threat.} O-O 14.
+Nc4 d3 {[#] Hoping for ...Nd4.} 15. Qb3 $146 {[%cal Re2d3]} ({Predecessor:} 15.
+Bg5 Qd7 {1/2-1/2 (26) Sasikiran,K (2674)-Tari,A (2596) Moscow 2017}) 15...
+Ngxe5 16. Bb2 Nxf3+ $1 17. Bxf3 Qe7 18. Qc3 {[%csl Gb2][%cal Rc3g7] [#]} f6 19.
+Nd6 Bg6 20. h4 Ne5 21. Bxb7 (21. Be4 $15) 21... Rad8 $19 22. f4 $2 (22. Qd4 {
+is more resistant.}) 22... Ng4 23. Bf3 Qxd6 24. Bxg4 Qxf4 25. h5 Qxg4 26. hxg6
+Bb8 ({Less strong is} 26... hxg6 27. Rab1 $19) 27. gxh7+ Kh8 {White must now
+prevent ...Qg3.} 28. Rxd3 Be5 29. Qc2 $2 (29. Rxd8 Rxd8 30. Qf3 Qxf3 31. gxf3
+Bxb2 32. Rb1) 29... Bxb2 30. Rxd8 {[%cal Rd8f8]} Bd4+ {Accuracy: White = 39%,
+Black = 90%.} 0-1
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.10"]
+[Round "9.3"]
+[White "Mista, Aleksander"]
+[Black "Kaidanov, Gregory"]
+[Result "1-0"]
+[ECO "C82"]
+[WhiteElo "2592"]
+[BlackElo "2540"]
+[Annotator "TA"]
+[PlyCount "141"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,141,16,16,53,51,48,44,54,43,61,47,51,43,79,82,79,81,79,80,73,82,72,
+79,77,80,80,81,72,82,93,81,79,93,84,77,77,75,67,60,66,59,68,63,66,49,65,62,50,
+58,59,50,52,55,91,78,97,113,97,103,254,241,249,228,266,268,258,174,190,168,274,
+270,290,290,306,268,332,246,214,176,168,143,140,139,135,131,133,0,138,138,278,
+278,409,412,289,309,411,271,406,397,428,421,424,309,436,422,414,414,315,312,
+312,300,1621,1591,1877,1510,12837,7405,29941,6506,29978,29979,29979,29978,
+29984,29983]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7.
+Bb3 d5 8. dxe5 Be6 9. c3 Bc5 10. Qd3 Ne7 {C82: Open Ruy Lopez: 9 c3 without 9..
+.Be7} (10... O-O 11. Be3 f6 12. exf6 Qxf6 13. Nbd2 Nxd2 14. Qxd2 Bxe3 15. fxe3
+Na5 16. Bxd5 Nc4 17. Bxc4 Bxc4 18. Rf2 Rad8 19. Nd4 Qg6 20. Rxf8+ Rxf8 {
+1-0 (41) Giri,A (2782)-Anand,V (2759) Leuven 2018}) 11. Nbd2 Bf5 12. Qe2 O-O {
+White is slightly better.} 13. Nd4 Bg6 14. Nxe4 Bxe4 15. Bg5 $146 ({
+Predecessor:} 15. Be3 Bb6 16. Bc2 c5 17. Nf3 Qc7 18. Rad1 {0-1 (117) Steinberg,
+N (2466)-Nabaty,T (2644) Palic 2016}) 15... Re8 16. Rad1 $1 Qd7 17. e6 fxe6 {
+[#]} 18. Qxe4 $1 {[%mdl 512]} dxe4 19. Bxe6+ {[#]} Qxe6 $1 {[%mdl 512]} 20.
+Nxe6 Bd6 21. Rfe1 h6 22. Bc1 Kf7 23. Rxe4 Ng8 24. Rde1 Nf6 25. R4e2 Ng4 26. h3
+Ne5 {aiming for ...Nd3.} 27. Nd4 Nd3 28. Rd1 Nxc1 29. Rxc1 c5 30. Rxe8 Rxe8 $14
+{[%mdl 4096] Endgame KRB-KRN} 31. Nf3 Re2 32. Rd1 Ke6 33. Re1 Rxe1+ 34. Nxe1 {
+KB-KN} Kd5 35. Kf1 $1 Kc4 36. Ke2 b4 37. Nc2 bxc3 38. b3+ Kd5 $2 (38... Kb5 $16
+) 39. Kd3 $18 Be5 40. Ne3+ Ke6 41. Nd1 $1 {[%cal Rd1c3]} Bd4 42. f3 c2 43. Kxc2
+Kf5 (43... h5 $142) 44. g3 $1 h5 45. h4 Bg1 46. Kd3 Ke5 47. Ne3 Bf2 48. f4+ Ke6
+49. Nf1 Kd5 50. Ke2 Bd4 51. Nd2 $1 Bc3 52. Nb1 (52. Ke3 $16) 52... Bd4 {[#]} (
+52... Bb4 $1 $11 {remains equal.}) 53. Kd3 $1 $16 Ke6 {[#]} (53... Bf2 $16) 54.
+Ke4 $1 $18 g6 (54... Bf2 $142) 55. Nd2 Bf2 56. Kf3 Be1 57. Nc4 Kf5 (57... Bc3
+$142 58. Ke4 Bb4) 58. Ne5 Bc3 59. g4+ hxg4+ 60. Nxg4 Be1 (60... Ke6 {might
+work better.} 61. Ke4 Be1) 61. Ne3+ Ke6 62. Kg4 Kf6 63. Nd5+ Kf7 64. Nb6 Bf2 $2
+(64... Bb4 65. Nd7 Ke6) 65. Kg5 Ke6 66. Nc4 Kd5 67. Ne5 Bd4 68. Nxg6 c4 69.
+bxc4+ {White mates.} Kxc4 70. h5 Kb4 71. h6 {Accuracy: White = 90%, Black =
+38%.} 1-0
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.10"]
+[Round "9.4"]
+[White "Kadric, Denis"]
+[Black "Baryshpolets, Andrey"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2545"]
+[BlackElo "2589"]
+[Annotator "TA"]
+[PlyCount "98"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,98,0,7,16,8,32,12,14,2,17,0,0,0,0,0,0,0,0,-3,0,0,0,0,-2,-11,38,30,30,
+33,41,33,53,28,59,29,86,55,60,52,356,368,356,366,351,352,321,228,225,225,228,
+222,259,239,344,344,337,326,355,355,352,352,253,253,352,352,311,311,520,518,
+518,311,468,421,568,550,545,481,464,464,862,824,2654,2033,1809,1652,4133,1533,
+1124]} 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. Nf3 Qa5
+{C11: French: Classical System: 4 e5 and 4 Bg5 dxe4} (7... Be7 8. a3 a5 9. Nf4
+a4 10. Bd3 cxd4 11. cxd4 Qb6 12. Bc2 g5 13. Ne2 g4 14. Nfg1 Qa5+ 15. Bd2 Qa6 {
+1-0 (29) Dominguez Perez,L (2739)-Meier,G (2628) chess.com INT 2018}) 8. Bf4 a6
+$146 ({Predecessor:} 8... cxd4 9. Nexd4 Be7 10. Bd3 Qb6 11. Rb1 Nc5 12. Bc2 f5
+13. exf6 gxf6 14. O-O e5 15. Nxc6 Qxc6 16. Bxe5 fxe5 17. Nxe5 {1/2-1/2 (33) Li,
+R (2574)-Nyzhnyk,I (2610) Saint Louis 2017}) 9. Qd2 Nb6 {The position is equal.
+} 10. b3 Nd7 11. dxc5 Bxc5 12. Ned4 Nxd4 13. Nxd4 {[#] Threatens to win with
+b4.} Qc7 14. Qe3 Ba7 15. Be2 Bb8 {[%cal Rd7e5]} 16. Bg3 Nxe5 17. O-O-O O-O 18.
+Rhe1 f6 19. f4 Nf7 20. Nxe6 Bxe6 21. Qxe6 {[#] aiming for Kb2.} Qxc3+ 22. Kb1
+Ba7 {And now ...Bd4 would win.} ({Avoid the trap} 22... Rc8 $2 23. Rc1 $18) 23.
+Rc1 $36 {[%mdl 3072] White has compensation. White fights for an advantage.}
+Qa5 (23... Qd4 $1 $11) 24. Bf3 Rad8 25. f5 Bd4 $2 {[%mdl 8192]} (25... Bc5 $14)
+26. Bc7 $18 Qa3 {[%csl Gd4][%cal Ra3b2]} 27. Rc2 Rc8 28. Bd6 $1 {[%cal Rd6a3]}
+Qxd6 29. Rxc8 {Rec1 is the strong threat.} Qxe6 30. Rxf8+ Kxf8 31. Rxe6 {
+[%mdl 4096] Endgame KRB-KBN} Ng5 32. Rd6 Nxf3 (32... Ke7 $142 33. Rxd5 Nxf3)
+33. gxf3 {KR-KB} Be5 34. Rxd5 Bxh2 35. Rd8+ Ke7 36. Rh8 h6 37. Kc2 a5 38. Kd3
+b6 39. Ke4 Kf7 $2 (39... Bd6 {was necessary.} 40. Ra8 Bc5) 40. f4 Bg1 41. Rb8
+Bc5 (41... h5 $142 42. Rh8 Bc5 43. Rxh5 Kg8) 42. Kf3 {White is clearly winning.
+} g5 43. fxg6+ Kxg6 44. Ke4 h5 45. Rg8+ Kf7 (45... Kh7 $142 46. Rg2 Bb4) 46.
+Rg2 Ke6 47. f5+ Kd6 48. Rg6 Ke7 49. Rh6 Bb4 {Accuracy: White = 81%, Black =
+34%.} 1-0
+
+[Event "Spring Chess Classic-B"]
+[Site "Saint Louis"]
+[Date "2019.03.10"]
+[Round "9.5"]
+[White "Chirila, Ioan-Cristian"]
+[Black "Bai, Jinshi"]
+[Result "1-0"]
+[ECO "D10"]
+[WhiteElo "2566"]
+[BlackElo "2593"]
+[Annotator "TA"]
+[PlyCount "89"]
+[EventDate "2019.03.01"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,89,7,7,10,12,10,7,8,11,8,19,18,17,18,10,15,8,10,30,11,52,58,56,44,60,
+45,58,62,52,10,23,21,10,0,37,33,39,45,70,57,69,46,12,12,27,14,12,0,0,0,0,0,22,
+0,388,385,368,379,381,379,388,363,382,-168,374,344,419,415,511,501,461,388,586,
+549,7239,6111,4181,4181]} 1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Bf4 Nc6 5. e3 Nf6
+6. Nc3 Bf5 7. Qb3 Na5 $1 {[%cal Ra5b3]} 8. Qa4+ {D10: Slav Defence: 3 cxd5 
+(without early Nf3) and 3 Nc3} Bd7 9. Qc2 e6 10. Bd3 {The position is equal.}
+Be7 11. h3 (11. Nf3 Rc8 12. O-O Nc6 13. Qe2 Nh5 14. Be5 O-O 15. h3 f5 {1-0 (38)
+Korobov,A (2694)-Rodshtein,M (2674) Czech Republic 2018}) 11... Rc8 12. Nf3 b5
+{Hoping for ...b4.} 13. a3 O-O 14. O-O a6 15. Ne5 h6 16. Qe2 $146 ({
+Predecessor:} 16. Rac1 Ne8 17. Qe2 {1-0 (44) Gralka,P (2208)-Jankowiak,T (2107)
+Jastrzebia Gora 2018}) 16... Qb6 17. g4 {Strongly threatening h4.} Be8 18. g5
+hxg5 19. Bxg5 Qd8 20. Kh1 $1 (20. Bxf6 Bxf6 21. f4 (21. Qh5 g6 $15) 21... g6
+$11) 20... Nd7 21. Nxd7 (21. Qh5 f5 $17) (21. Rg1 {feels hotter.} f5 22. Bh6
+Bf6 23. Ng6 Bxg6 24. Rxg6 Rf7 25. Rag1) 21... Qxd7 22. Rg1 {White threatens
+Bh7+! and mate.} f5 23. Rg3 Bxg5 24. Rxg5 Rc7 25. Rag1 Qd6 26. Qf3 Nc4 27. Ne2
+{And now Nf4 would win.} Nxb2 28. Nf4 {Qg3 is the strong threat.} Nxd3 29. Nxd3
+Rf6 $1 ({But not} 29... Qxa3 $6 30. Qg3 $16) 30. Nf4 {next Qg3 is good for
+White.} Rh6 31. Qg3 {[%cal Rg5g7]} Qe7 32. Kh2 a5 33. Nd3 Rh5 $2 {[%mdl 8192]}
+(33... Rb7 $11 {and Black is okay.}) 34. Rxh5 $18 Bxh5 {[#]} 35. Nf4 $1 {
+[%cal Rf4h5]} Be8 {[#]} 36. Nxe6 $1 {[%mdl 512]} Rc6 (36... Qxe6 37. Qxc7) 37.
+Qxg7+ Qxg7 38. Rxg7+ {[%mdl 4096] Endgame KRB-KRN} ({Less strong is} 38. Nxg7
+Bf7 $16) 38... Kh8 39. Re7 Bh5 40. Kg3 b4 41. axb4 axb4 42. Kh4 Bd1 (42... Bf7
+$142 43. Rxf7 Rxe6) 43. Kg5 {White is clearly winning.} Rb6 44. Nf4 Kg8 45. Ng6
+{Accuracy: White = 78%, Black = 63%.} 1-0
+

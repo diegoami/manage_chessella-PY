@@ -1,0 +1,228 @@
+[Event "4NCL: Guildford-Alba"]
+[Site "?"]
+[Date "2018.??.??"]
+[Round "?"]
+[White "Paehtz, E"]
+[Black "White, S"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r1k3/p1b1rpp1/1p2p2p/2pbP3/q1N3Q1/2PP2PP/1P6/2BR1RK1 w - - 0 1"]
+[PlyCount "4"]
+[EventDate "2017.??.??"]
+[SourceTitle "Chess 2019 #03"]
+[SourceDate "2019.02.26"]
+
+1. Nd6+ $1 Bxd6 2. Qxa4+ Bc6 1-0
+
+[Event "4NCL: White Rose 2-Jorvik"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "?"]
+[White "Burnett, J"]
+[Black "Carpenter, J"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rnb1q1k1/pp3rb1/2p4p/4p1p1/2P1B2N/BP4P1/P1Q2P1P/R4RK1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "2019.??.??"]
+[SourceTitle "Chess 2019 #03"]
+[SourceDate "2019.02.26"]
+
+1. Bh7+ $1 Kh8 2. Ng6+ ({It's going to be mate with} 2. Ng6+ Kxh7 3. Nf8+ Kg8
+4. Qh7# {.}) 1-0
+
+[Event "4NCL: Manticores 2-Bradford Knights C"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "?"]
+[White "Hymer, B"]
+[Black "Bramson, M"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2q1rk1/pppnbppp/4p3/3nNbB1/2BP3Q/2N5/PPP3PP/4RRK1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "2019.??.??"]
+[SourceTitle "Chess 2019 #03"]
+[SourceDate "2019.02.26"]
+
+1. Rxf5 $1 exf5 ({or} 1... Bxg5 2. Rxg5 f6 3. Qh6 $1 {and wins, as shown by}
+fxg5 4. Qxe6+ Kh8 5. Ng6+ hxg6 6. Qh3+ Kg8 7. Nxd5) 2. Bxe7 (2. Nxf7 $1 {
+would have been even more clinical}) 2... Nxe7 (2... Qxe7 3. Qxe7 Nxe7 4. Nxd7
+Rfe8 5. Ne5 {is also quite lost for Black}) 3. Nxf7 Rxf7 4. Rxe7 Nb6 5. Bxf7+
+1-0
+
+[Event "Reykjavik"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "?"]
+[White "Kjartansson, D"]
+[Black "Bergsson, S"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r4rk1/pppqn1pp/3pbn2/2bNp1B1/2B1P3/2P2N2/PP3PPP/R2Q1RK1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2019.??.??"]
+[SourceTitle "Chess 2019 #03"]
+[SourceDate "2019.02.26"]
+
+1. Nxe5 $1 ({Black gave up in view of} 1. Nxe5 Qd8 ({and} 1... dxe5 2. Nxf6+
+gxf6 3. Qxd7) 2. Nxf6+ gxf6 3. Bxe6+ Kg7 4. Qh5 {.}) 1-0
+
+[Event "Harrogate"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "?"]
+[White "Bennett, E"]
+[Black "Dobson, G"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "rb6/1p3k2/1Pp1p2p/p1P2p2/P2PpPrq/6P1/1B5P/2Q1RRK1 b - - 0 1"]
+[PlyCount "13"]
+[EventDate "2019.??.??"]
+[SourceTitle "Chess 2019 #03"]
+[SourceDate "2019.02.26"]
+
+1... Rxg3+ $1 2. hxg3 ({or if} 2. Kh1 Rg4 {and 3...Bxf4}) 2... Qxg3+ 3. Kh1
+Qh3+ 4. Kg1 Bxf4 $1 {(the star move, freeing the dormant rook for action)} 5.
+Rxf4 Rg8+ 6. Kf2 Rg2+ 7. Kf1 Qh1# 0-1
+
+[Event "4NCL: Shropshire 1-Bradford Knights B"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "?"]
+[White "Higgie, C"]
+[Black "Baxter, H"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/pp3q1p/1n4pB/5B2/2p2R2/2P3KP/6P1/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "2019.??.??"]
+[SourceTitle "Chess 2019 #03"]
+[SourceDate "2019.02.26"]
+
+1. Bg4 $1 {(to win White must keep an eye on d7)} ({instead, the game saw a
+cruel role reversal:} 1. Be4 $2 Qc7 2. Kf3 Nd7 3. Rf7 $2 Ne5+ {0-1}) 1... Qc7
+2. Kf3 Qc6+ 3. Kf2 Qc5+ 4. Kf1 {and with Black out of checks, Rf8+ will net
+White a piece.} *
+
+[Event "4NCL: Manx Liberty 1-3Cs 1"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "?"]
+[White "Gonda, L"]
+[Black "Ashton, A"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2r3k/2n1b2p/p1q1p3/2p1Pp2/npP2P2/1N1PN2P/P3Q2K/B2R1R2 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "2018.??.??"]
+[SourceTitle "Chess 2019 #03"]
+[SourceDate "2019.02.26"]
+
+1. Nxf5 $1 exf5 (1... Bf8 2. Rg1 {followed by Qg4 is no less crushing}) 2. e6+
+Kg8 3. Rg1+ Kf8 4. Bg7+ (4. Bg7+ Kg8 ({or} 4... Ke8 5. Qh5#) 5. Bh6+ Kh8 6.
+Qe5+ {follows.}) 1-0
+
+[Event "London (rapid)"]
+[Site "?"]
+[Date "2018.??.??"]
+[Round "?"]
+[White "Kasparov & Chapman, G & T"]
+[Black "Sadler & Hassabis, M & D"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5rk1/5qp1/1pR4p/3npN2/4Q3/1P4P1/5PKP/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "2018.??.??"]
+[SourceTitle "Chess 2019 #03"]
+[SourceDate "2019.02.26"]
+
+1. Nxh6+ $1 (1. Rxh6 $2 Nf6 {defends, and if} 2. Qh4 $2 Qb7+ 3. Kg1 gxh6) 1...
+gxh6 2. Rg6+ Kh8 3. Rxh6+ Kg8 4. Rg6+ ({The black queen is lost in view of} 4.
+Rg6+ Kh8 5. Qh4+ Qh7 6. Rh6 {.}) 1-0
+
+[Event "4NCL: Grantham Sharks 1-Manx Liberty 1"]
+[Site "?"]
+[Date "2018.??.??"]
+[Round "?"]
+[White "Daskalov, D"]
+[Black "Galyas, M"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/1bP5/8/P4p2/4p3/2kpB3/8/4K3 b - - 0 1"]
+[PlyCount "25"]
+[EventDate "2017.??.??"]
+[SourceTitle "Chess 2019 #03"]
+[SourceDate "2019.02.26"]
+
+1... d2+ $1 (1... Ba6 2. Kd1 d2 $1 3. Bxd2+ Kd3 {also does the trick and
+reveals why White earlier had to place his king on d2 and keep Black's out of
+c3}) 2. Bxd2+ Kd3 3. Bg5 e3 4. Kf1 Ke4 {(material is level, but the connected
+passed pawns prove decisive)} 5. Kg2 f4 6. Bh4 f3+ 7. Kf1 Ba6+ 8. Kg1 Kd3 9.
+c8=Q Bxc8 10. Kf1 Kd2 11. Be1+ Kd1 12. Bf2 Ba6+ 13. Kg1 Ke2 0-1
+
+[Event "4NCL: Sussex Martlets 1-Barbican 2"]
+[Site "?"]
+[Date "2018.??.??"]
+[Round "?"]
+[White "Willson, O"]
+[Black "Chapman, T"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r5k1/1pp2p2/2b3p1/2PNb1Bp/3nP3/3P2P1/2r3BP/1RR4K b - - 0 1"]
+[PlyCount "25"]
+[EventDate "2018.??.??"]
+[SourceTitle "Chess 2019 #03"]
+[SourceDate "2019.02.26"]
+
+1... Rxg2 $1 2. Kxg2 (2. Ne7+ Kg7 3. Nxc6 {is also hopeless, in view of} Raa2
+4. Nxe5 Rxh2+ 5. Kg1 Rag2+ 6. Kf1 Rf2+ 7. Ke1 Re2+ 8. Kf1 Rh1#) 2... Ra2+ 3.
+Kf1 Bd7 $1 {(the key move)} ({as pointed out by the winner,} 3... Nf3 $2 4. Nb4
+Rxh2 5. Nxc6 bxc6 6. Rb8+ Kg7 7. Be3 Bxg3 8. Rcb1 {wouldn't be so clear-cut})
+4. Be3 Nf3 5. Ne7+ Kh7 6. Nf5 {(desperation, if the only way to try and escape
+the mating net)} Nxh2+ 7. Ke1 Nf3+ 8. Kf1 Nh2+ 9. Ke1 Nf3+ 10. Kf1 gxf5 11. c6
+bxc6 12. Bf2 Nd2+ 13. Kg2 Nxb1 0-1
+
+[Event "London"]
+[Site "?"]
+[Date "2018.??.??"]
+[Round "?"]
+[White "Simpson, D"]
+[Black "Forster, M"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rq3k1r/1b1R2p1/p4b1p/1p2pQ2/4P2B/2N5/PP3PPP/6K1 b - - 0 1"]
+[PlyCount "8"]
+[EventDate "2018.??.??"]
+[SourceTitle "Chess 2019 #03"]
+[SourceDate "2019.02.26"]
+
+{Play concluded:} 1... Qe8 $2 ({instead,} 1... Bc8 $1 {was the only defence:}
+2. Rd8+ (2. Bxf6 $2 Bxd7 3. Qg6 Rg8 $1 {wins for Black}) 2... Ke7 3. Bxf6+ gxf6
+4. Nd5+ Kxd8 5. Qxf6+ Kd7 6. Qe7+ {(this looks scary, but White has no more
+than perpetual check)} Kc6 7. Nb4+ Kb6 {, and if} 8. Qf6+ ({or} 8. Nd5+ Kc6 9.
+Nb4+) 8... Kb7 9. Qc6+ Ka7 10. Nd5 $1 Qb7 11. Qc5+ Kb8 12. Qd6+ {etc}) 2. Rxb7
+$2 (2. Bxf6 {is a simple win}) 2... Rd8 $2 ({both players overlooked} 2... Qc6
+3. Rd7 Ke8 $1) 3. Bxf6 gxf6 4. Qxf6+ Kg8 5. Qg7# 1-0
+
+[Event "Israeli Ch., Maalot-Tarshiha"]
+[Site "?"]
+[Date "2018.??.??"]
+[Round "?"]
+[White "Zanan, E"]
+[Black "Mikhalevski, V"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/p7/2PK2k1/rP6/7p/1R6/8 b - - 0 1"]
+[PlyCount "8"]
+[EventDate "2018.??.??"]
+[SourceTitle "Chess 2019 #03"]
+[SourceDate "2019.02.26"]
+
+1... a5 $1 (1... Ra1 $2 2. c6 Rc1 3. Kd6 Kg4 4. c7 Kg3 5. Kd7 {wins}) 2. bxa5 (
+{the main concept is} 2. b5 Rb4 $1 {, when White cannot exchange rooks and} 3.
+Rh2 Kg4 4. b6 Kg3 5. Ra2 h2 6. Ra1 a4 {is fine for Black, as shown by Victor
+Mikhalevski's line} 7. Kc6 Kg2 8. b7 h1=Q 9. Rxh1 Kxh1 10. Kc7 a3 11. b8=Q Rxb8
+12. Kxb8 a2 13. c6 a1=Q 14. c7) 2... Rxa5 3. Kd6 Kg4 4. c6 Ra6 5. Kd7 (5. Kd7
+Kg3 6. c7 Ra7 7. Kd8 Rxc7 8. Kxc7 h2 {is an obvious draw.}) 1/2-1/2
+

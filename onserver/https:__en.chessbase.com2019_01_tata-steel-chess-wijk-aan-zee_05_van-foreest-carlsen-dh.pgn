@@ -1,0 +1,92 @@
+[Event "Tata Steel Masters"]
+[Site "?"]
+[Date "2019.01.16"]
+[Round "5"]
+[White "Van Foreest, Jorden"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2612"]
+[BlackElo "2835"]
+[Annotator "DH"]
+[PlyCount "66"]
+[EventDate "2019.??.??"]
+[WhiteClock "0:09:00"]
+[BlackClock "1:12:10"]
+
+1. e4 c5 2. Nf3 Nc6 {Carlsen sticks to his repertoire from the recent World
+Championship match.} 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 {
+The first surprise of the game. Van Foreest is a very principled player who
+often favours direct openings, especially with White. However it seems
+excessively brave to take on Carlsen in this line. While Van Foreest might
+have spent several hours preparing this position, it is likely that Carlsen
+and his team (assisted by powerful engines) had spent many weeks analysing the
+following labyrinthine varitions for the World Championship. In hindsight it
+would have been wiser to choose something which would have been less fresh in
+Carlsen's memory.} (7. Bg5 {is the main line of the Sveshnikov Sicilian. Play
+could then continue:} a6 8. Na3 b5 9. Nd5 (9. Bxf6 gxf6 10. Nd5 {leads to many
+long complex variations with chances for both sides.}) 9... Be7 10. Bxf6 Bxf6
+11. c4 ({or} 11. c3) 11... b4 12. Nc2 {with a strategic battle ahead.}) 7...
+Nxd5 8. exd5 Ne7 {This was played twice by Carlsen in his recent match against
+Caruana.} (8... Nb8 {also featured in two games from the World Championship
+match.}) 9. c4 Ng6 10. Qa4 Bd7 11. Qb4 Qb8 {Carlsen shows his ambitious
+intentions.} (11... Bf5 {featured in Game 12 of the World Championship, but it
+allows a repetition of moves:} 12. Qa4 Bd7 13. Qb4 Bf5 14. Qa4 (14. h4 {
+was Caruana's choice in the aforementioned game and was also played by Kramnik
+at the 2018 Olympiad.})) 12. h4 h5 {With the inclusion of the h-pawn moves it
+appears that neither king will find a safe haven on this side of the board.}
+13. Be3 a6 14. Nc3 f5 $5 {Not quite a novelty, but Carlsen displays his
+opening expertise by unleashing a rare idea.} (14... a5 {was Carlsen's choice
+in one of the decisive tie-break games against Caruana:} 15. Qb3 a4 16. Qd1 Be7
+17. g3 Qc8 18. Be2 Bg4 19. Rc1 Bxe2 20. Qxe2 Qf5 {and despite Carlsen's
+victory, White holds the upper hand.} 21. c5 (21. O-O $14 {would have left
+White with a long-term edge due to his structural superiority on the queenside.
+}) 21... O-O $1 22. c6 bxc6 23. dxc6 Rfc8 24. Qc4 Bd8 25. Nd5 e4 $2 26. c7 Bxc7
+$1 27. Nxc7 Ne5 28. Nd5 $2 Kh7 $1 {0-1, Caruana-Carlsen, London 2018.}) 15.
+O-O-O $146 {A natural choice, if somewhat risky.} (15. g3 {looks like a safe
+option}) ({while} 15. Be2 {is also playable.}) (15. Na4 $5 {was mentioned by
+Van Foreest after the game, and indeed this move would have led to interesting
+positions which would have suited his style:} f4 $1 16. Bd3 Nxh4 $1 {
+(apparently this was suggested by Carlsen in the post mortem. Further proof of
+the depth of his preparation)} 17. Rxh4 fxe3 18. Bg6+ Kd8 {with a very
+double-edged position. As usual, the engine eventually assesses this as 0.00
+but neither king is safe and fireworks are likely to ensue.}) 15... Be7 16. g3
+O-O $5 {An interesting pawn sacrifice, most likely still part of Carlsen's
+preparation.} (16... e4 {would have been my first thought. Black intends to
+land the knight on e5 as quickly as possible.}) ({Meanwhile the immediate} 
+16... b5 $5 {is also worthy of consideration.}) 17. Be2 {Now the h5-pawn is
+indefensible.} e4 18. Bd4 $6 {A step in the wrong direction.} ({Snatching the
+pawn with} 18. Bxh5 {was of course critical:} Ne5 19. Be2 b5 20. cxb5 axb5 $44
+{[%cal Gf8c8,Ge7d8,Gd8a5] it is clear that Black has compensation here. There
+is a simple plan of ...Rf8-c8 and ...Be7-d8-a5 while the white king is a
+target. However, the b5-pawn will soon fall and if an attack fails then White
+should convert his extra pawn.} 21. Bg5 $1 {looks like White's most accurate
+move to nullify the black initiative.}) ({If White was too afraid to capture
+on h5, then} 18. f4 {was another option:} exf3 19. Bxf3 Ne5 20. Be2 b5 21. cxb5
+axb5 22. Bd4 $132 {and, compared to the game, Black's e5-knight lacks
+stability.}) 18... Bf6 19. Bxf6 Rxf6 20. Qb6 $2 {Van Foreest's plan is
+understandable; he wishes to prevent Black from opening the queenside.
+Unfortunately queens are known to be poor blockaders, and this short-term
+measure soon fails.} (20. Bxh5 {was now essential. Play could continue:} Ne5
+21. Be2 b5 22. cxb5 Bxb5 $1 {(forcing the exchange of White's strong knight)}
+23. Nxb5 axb5 24. a3 (24. Kb1 $6 Qa7 $15 {[%cal Ga7a2,Ga7f2]}) 24... Rf8 25.
+Bxb5 Qc7+ 26. Kb1 Rfb8 $44 {with yet another position that is difficult to
+evaluate. Objectively chances are still equal, although in practical terms it
+feels easier to play Black.}) 20... Ne5 21. Kb1 Be8 $1 $15 {[%cal Ge8g6,Ge5d7]
+Black re-routes the bishop and intends to kick the white queen away from b6.}
+22. Rd2 Nd7 23. Qd4 Qc7 24. Nd1 {The start of a poor manoeuvre, but it is not
+easy to offer any constructive alternatives. White's position is strategically
+dubious - it lacks purpose, while Black can slowly prepare the b7-b5 or f5-f4
+pawn breaks.} Ne5 {Black's knight is incredibly powerful here. It simply
+cannot be challenged.} 25. Ne3 f4 $1 {Simple and strong.} 26. gxf4 Rxf4 27. Rg1
+(27. Ng2 {does not help:} Rf8 28. Qe3 Qf7 {[%csl Gf2]} 29. Rf1 (29. Qxe4 Qxf2
+$19) 29... Rc8 $17 {and Black holds an obvious advantage.}) 27... Bg6 28. Ka1 (
+{It is a sad situation when the engine suggests jettisoning material with
+moves such as} 28. Rxg6 {although Black's conversion task is not so easy:} Nxg6
+29. Ng2 Rf5 $17 30. Qxe4 Qf7 31. Bd3 {and the game continues.}) 28... Raf8 29.
+c5 {Desperation, but otherwise f2 falls without compensation.} Rxf2 {Black
+simply gobbles the pawn.} (29... dxc5 {is also sufficient:} 30. Qc3 Qd6 $17)
+30. Qc3 (30. c6 $5 {would have been my final attempt at creating confusion.})
+30... Qxc5 31. Qxc5 dxc5 32. d6 Kh7 33. d7 Nf3 {Winning material. A brutal
+victory from Carlsen, who pounced upon his opponent's indecisiveness to score
+his first win of the tournament.} 0-1

@@ -1,0 +1,49 @@
+[Event "World Chess Championship 2018"]
+[White "Carlsen, Magnus"]
+[Black "Caruana, Fabiano"]
+[Site "London"]
+[Round "13.1"]
+[Annotator ""]
+[Result "1-0"]
+[Date "2018.11.28"]
+[WhiteElo "2835"]
+[BlackElo "2832"]
+[PlyCount "35"]
+[Setup "1"]
+[FEN "8/2R3p1/p7/5P1p/4k2P/r5P1/6K1/8 w - - 0 38"]
+
+{[#]} 38. Re7+ Kxf5 39. Rxg7 Kf6 40. Rg5 a5 41. Rxh5 a4 42. Ra5 Ra1 43. Kf3 a3 44. Ra6+ Kg7 45. Kg2 Ra2+ 46. Kh3 Ra1 47. h5 Kh7 48. g4 Kg7 49. Kh4 a2 50. Kg5 Kf7 51. h6 Rb1 52. Ra7+ Kg8 53. Rxa2 Rb5+ 54. Kg6 Rb6+ 55. Kh5 1-0
+
+[Event "46th GM 2018"]
+[White "Nepomniachtchi, I"]
+[Black "Nisipeanu, LD"]
+[Site "Dortmund GER"]
+[Round "3.2"]
+[Annotator ""]
+[Result "1-0"]
+[Date "2018.07.17"]
+[WhiteElo "2757"]
+[BlackElo "2672"]
+[PlyCount "53"]
+[Setup "1"]
+[FEN "1k1rr3/pp3pp1/1np4p/2Np1n2/PP1P4/4P3/3N1PPP/K1R2R2 w - - 0 24"]
+
+{[#]} 24. a5 Nd7 25. a6 Nxc5 26. bxc5 Kc7 27. axb7 Rb8 28. Kb2 Rxb7+ 29. Kc3 Rb5 30. Ra1 Kb7 31. Ra2 Ne7 32. Rfa1 Ra8 33. Nb1 Kb8 34. Ra6 Kb7 35. R6a4 Kb8 36. Na3 Rb7 37. Ra6 Kc7 38. Nc2 Kd7 39. Nb4 f6 40. f3 f5 41. Nd3 Ke6 42. Ne5 Rc7 43. g4 fxg4 44. fxg4 h5 45. h3 hxg4 46. hxg4 Kf6 47. Rf1+ Ke6 48. Rf7 Rg8 49. g5 Rb7 50. g6 1-0
+
+
+[Event "FIDE Candidates"]
+[White "Kramnik, Vladimir"]
+[Black "Caruana, Fabiano"]
+[Site "Berlin"]
+[Round "4"]
+[Annotator ""]
+[Result "0-1"]
+[Date "2018.03.14"]
+[WhiteElo "2800"]
+[BlackElo "2784"]
+[PlyCount "99"]
+[Setup "1"]
+[FEN "r3rk2/pp3ppp/2pp1b2/4nb2/5B2/1BP4P/PPPN1PP1/2KRR3 b - - 0 17"]
+
+{[#]} 17... g5 18. Bh2 Kg7 19. c4 g4 20. Ne4 Bxe4 21. Rxe4 Bg5+ 22. Kb1 gxh3 23. c5 f5 24. Rb4 hxg2 25. Rxb7+ Kh8 26. cxd6 Nf3 27. Ba4 Nxh2 28. Bxc6 Rad8 29. d7 Re2 30. Bxg2 Rxf2 31. Bc6 Ng4 32. Rxa7 Ne3 33. Rg1 h6 34. Rc7 Kg7 35. a4 Kf7 36. Bb5 Ke7 37. a5 Rf4 38. c3 Kd6 39. Rb7 Rg4 40. Re1 f4 41. a6 h5 42. a7 Ra8 43. b4 h4 44. c4 h3 45. c5+ Ke5 46. Rb8 Rxa7 47. Rg8 Bf6 48. d8=Q Bxd8 49. Rxg4 Bf6 50. Rg6 Rb7 51. Be2 Rxb4+ 52. Ka2 Nc2 53. Rc1 Nd4 54. Bd3 Ra4+ 55. Kb1 Nb3 56. Re1+ Kd5 57. Kc2 Nd4+ 58. Kb1 Nf3 59. Rd1 Ra1+ 60. Kc2 Rxd1 61. Ba6 Rd2+ 62. Kc1 Bb2+ 63. Kb1 Kxc5 64. Bb7 Ne5 65. Rf6 f3 66. Rf5 f2 0-1
+

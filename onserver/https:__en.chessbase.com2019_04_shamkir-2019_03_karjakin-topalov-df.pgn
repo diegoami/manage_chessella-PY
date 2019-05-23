@@ -1,0 +1,46 @@
+[Event "Shamkir Chess"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "3"]
+[White "Karjakin, S.."]
+[Black "Topalov, V.."]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "64"]
+[EventDate "2019.04.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Bb5 Ne4 8. cxd4
+Bb6 9. Nc3 O-O 10. Be3 Ba5 {In this system, Black generally has to be quite
+willing to part with the bishop pair. However, considering the prospectless 
+(though not worse!) position Black ended up in after a few moves, I think I
+prefer offering the other bishop first!} (10... Bg4 {was picked in a European
+Championship game from last week.} 11. h3 Bh5 12. Qc2 Ba5 13. Be2 (13. O-O Nxc3
+14. bxc3 Bxf3 15. gxf3 $13) 13... f6 $1 {Black was definitely not worse in
+Kovalenko,I-Esipenko,A European Championship 2019}) ({Black could also
+consider going after the central pawn wedge immediately with} 10... Nxc3 11.
+bxc3 f6 $11) 11. Qb3 Bxc3+ 12. bxc3 Na5 13. Qb4 b6 14. O-O Bf5 15. Rfc1 Rc8 16.
+Ba6 Rb8 17. Bd3 Re8 18. h3 c6 (18... c5 {was playable, but comes closer to
+opening up the position for the bishop-pair.}) 19. Bf4 Rb7 20. Qb2 b5 (20...
+Nd6 $6 21. exd6 Bxd3 22. Re1 $14) 21. Qe2 Nc4 22. Ng5 ({White didn't have the
+appetite to allow Black a queenside passed pawn with something double-edged
+like} 22. a4 a5 23. axb5 cxb5 24. Ng5 Nxg5 25. Bxf5 Ne6 26. Be3 $13) 22... Nxg5
+23. Bxf5 Ne6 24. Bg3 b4 25. Qg4 Qb8 26. h4 a5 27. h5 Qa7 28. Rab1 Nd2 (28...
+Na3 29. Rb2 Nb5 {is suggested by the engine, but after the calm} 30. cxb4 $1
+Nbxd4 31. Bxe6 Nxe6 32. Rxc6 Rxb4 33. Rxb4 axb4 34. h6 $44 {it might be White
+who has practical chances}) 29. Rb2 Nc4 (29... bxc3 30. Rxb7 Qxb7 31. Rxc3 Qb2
+32. Rxc6 Nxd4 {is the obvious way to try and play against White's centre, but
+as so often, winning those pawns just ends up clearing space for the
+bishop-pair behind them. So Black's main way of continuing here will be to rid
+the world of that bishop-pair first. The following is of course computer
+analysis and I'm not sure it's wise to try and play this way over the board.}
+33. Rc7 (33. h6 g6 34. Bxg6 hxg6 35. Rxg6+ Kh8 36. Rb6 Qc1+ 37. Kh2 Rg8 $13 {
+is just a mess, but Black is okay}) (33. Rc5 Qa1+ 34. Kh2 Nf1+ 35. Kh3 Nxg3 36.
+Kxg3 Nxf5+ 37. Qxf5 Qxa2 38. f3 $1 Qe2 $1 39. Rc8 $1 $11) 33... Qa1+ 34. Kh2
+Nf1+ 35. Kh3 Nxg3 36. Kxg3 Ne6 $1 37. Bxe6 Qxe5+ 38. Qf4 Qxe6 39. Ra7 h6 40.
+Rxa5 Qd7 $36 {Black is somewhat trying to win here, though it is tenuous.}) 30.
+Rb3 ({White, in his turn, has an option to keep the game going with} 30. Re2
+bxc3 31. Bxe6 fxe6 $1 32. Rxc3 {but it seems like he is worse after} c5 $15 {
+when all the Black pieces do just about the optimal amount of work.}) 30... Nd2
+31. Rb2 Nc4 32. Rb3 Nd2 1/2-1/2
+

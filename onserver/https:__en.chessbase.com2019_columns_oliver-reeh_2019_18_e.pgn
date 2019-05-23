@@ -1,0 +1,47 @@
+[Event "Asia-ch U16"]
+[Site "Teheran"]
+[Date "2008.07.17"]
+[Round "3"]
+[White "Adhiban, Baskaran"]
+[Black "Sethuraman, SP."]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[WhiteElo "2422"]
+[BlackElo "2425"]
+[Annotator "Reeh,Oliver"]
+[PlyCount "66"]
+[EventDate "2008.07.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRI"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qf6 6. d4 exd4 7. Bg5 Qd6 8.
+Nxd4 Bd7 9. Nc3 Ne7 10. Bh4 O-O-O 11. Bg3 Qf6 {A standard position from the
+Ruy Lopez Exchange Variation, with a quiet positional fight ahead? Well, not
+after White's stunning continuation from the diagram - it will soon be mate
+alert. Have fun!} {[%tqu "En","How would you activate White's queen?","","",
+"d1h5","",10]} 12. Qh5 $1 {[%csl Rd4,Gh5] A surprising queen sortie - White
+just leaves his knight d4 unguarded. "Here I uncorked the sexy 12.Qh5, only to
+be met by 12...Qxd4 immediately under the pretence that I had blundered... 
+(Later on it was concluded to be the easiest way for Black. :-))" - Baskaran
+Adhiban.} Qxd4 {[%tqu "En","Continuation?","","","h5a5","Mate alert - White
+threatens 14.Qxc7++!",10]} 13. Qa5 $1 {[%csl Gc7][%cal Ga5c7,Gg3c7] There we
+are - mate alert! White threatens 14.Qxc7++.} Qb6 $1 {The only way.} (13... b6
+$4 {loses:} 14. Qxa6+ Kb8 15. Rad1 Qc5 16. Bxc7+ $1 Kxc7 17. Qa7+ Kc8 18. Na4 {
+[%csl Rc8][%cal Ga4c5,Ga4b6]}) (13... Nd5 14. Nxd5 $1 $18) 14. Qxb6 cxb6 {
+[%tqu "En","The queen's are gone, but White's attack isn't. Continuation?","",
+"","c3a4","That was White's initial idea: his two minor pieces put the screws
+on Black's king.",10]} 15. Na4 $1 {[%cal Gg3b8,Ga4b6] That was White's initial
+idea: his two minor pieces are putting the screws on Black's king.} {[%tqu
+"En","Changeover - now you are to defend as Black. Your move please.","","",
+"e7d5","",10,"c6c5","",0,"d8e8","",0]} Nd5 {[%cal Gd5b6] Black returns the
+piece, to defend b6 and... develop!} ({Just for the beauty of it:} 15... c5 16.
+Nxb6# {[%csl Rc8][%cal Gb6c8,Gg3b8]}) (15... Re8 16. Nxb6+ Kd8 17. Rad1 $18 {
+[%csl Gd7][%cal Gd1d8]}) 16. exd5 {[%tqu "En","And the final move for Black.",
+"","","f8c5","",10]} Bc5 {[%csl Gc5][%cal Gc5b6] Developing the bishop and
+safeguarding b6 once more. Now the game peters out to a draw.} 17. d6 (17. b4
+cxd5 {[%cal Gd7a4] and Black is out of danger.}) 17... Bf5 18. Nxc5 bxc5 19. c3
+Rhe8 20. Rfe1 Kd7 21. f3 Rxe1+ 22. Rxe1 Re8 23. Rxe8 Kxe8 24. Kf2 Kd7 25. h4 h5
+26. Ke3 b5 27. b4 c4 28. Kd4 Bd3 29. Bh2 Bf1 30. g4 hxg4 31. fxg4 Bh3 32. g5 g6
+33. Kc5 Bf5 1/2-1/2
+

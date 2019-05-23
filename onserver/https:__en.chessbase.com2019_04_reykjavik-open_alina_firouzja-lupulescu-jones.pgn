@@ -1,0 +1,149 @@
+[Event "?"]
+[Site "?"]
+[Date "2019.04.14"]
+[Round "?"]
+[White "Firouzja, Alireza"]
+[Black "Lupulescu, Constantin"]
+[Result "0-1"]
+[ECO "C11"]
+[Annotator "Costi"]
+[PlyCount "62"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2
+O-O 9. dxc5 Qa5 10. O-O-O b6 {While checking Alireza's games, I was really
+impressed by his handling of the white pieces lately. So I decided that for
+this game, rather than just defending, I would give myself some winning
+chances as well.} 11. Bb5 (11. cxb6 $143 axb6 {opening the a file looks quite
+dangerous for White}) 11... Nb4 12. a3 bxc5 {the point of Black's previous play
+} 13. Bxd7 {after a long think my opponent chose the most principled reply} (
+13. Kb1 {was a more cautios reply played in the game Kovacevic-Cabarkapa, 2018}
+Rb8 14. axb4 (14. Bxd7 $2 Bxd7 15. axb4 Qxb4 16. b3 c4 $17 {White is really
+trying to get mated}) 14... cxb4 15. Nxd5 exd5 16. Bxd7 Bxd7 17. Qxd5 Qxd5 18.
+Rxd5 Bc6 19. Ra5 Rfc8 20. Rxa7 Bf8 {and here a draw was agreed; even with two
+pawns down Black has a lot of compensation thanks to his very active pieces})
+13... Bxd7 14. axb4 cxb4 15. Nb1 Rfc8 {Being caught off guard, several strong
+players with White couldn't believe this wasn't a mere bluff. Actually Black
+is more than fine as he will be making fast progress on the queenside and
+White's piece up will prove to be no more than a consolation prize.} 16. Nd4 (
+16. f5 {trying to have some play against Black's king fails miserably after}
+Ba4 17. Nd4 Rxc2+ 18. Nxc2 Rc8 $19 {once White's queen leaves the scene, her
+king will be at Black's queen mercy.}) 16... Qa2 (16... Qa1 $5 {was another
+tempting option that worked very well in the following game} 17. Qd3 a5 18. f5
+exf5 19. e6 fxe6 20. Nxf5 exf5 21. Qxd5+ Kh8 22. Qxd7 Bf6 $19 {0-1 (27) Santos
+Ruiz,M (2560)-Edouard,R (2658) Skopje MKD 2019}) 17. f5 (17. Qd3 a5 18. Kd2 (
+18. b3 Rc3 $1 19. Nxc3 bxc3 20. Qxc3 Bb4 $19 {was one of the ways White could
+lose quickly}) 18... Qxb2 19. Ke2 a4 20. Nd2 $3 Rc3 21. Rb1 Qa3 22. Ra1 Rxd3
+23. cxd3 Qc3 24. Rhc1 Qb2 25. Rab1 {was a typical engine draw}) 17... exf5 (
+17... Ba4 {was actually what I had prepared before but} 18. Qd3 {was what
+really worried me during the game} f6 $3 {Of course the machine immediately
+realizes this is completely winning as after the d4 N will be removed, White's
+position will fall to pieces. For me f6 was rather counterintuitive, to say
+the least.} (18... Rxc2+ 19. Nxc2 Rc8 20. Rd2 b3 21. Nc3 $16 {and White is
+still alive and well})) 18. Rhf1 a5 19. Nxf5 Bxf5 (19... Bf8 $2 {I would
+prefer to keep my d7 B alive but time is of the essence} 20. Bd4 $16) 20. Rxf5
+a4 21. Bd4 (21. Qxd5 {I think that when going for this line, my opponent was
+pinning his hopes on this move; however} Rxc2+ $1 {is crushing} 22. Kxc2 Rc8+
+23. Bc5 Rxc5+ 24. Qxc5 Bxc5 $19 {and the Bc5 keeps Black's king alive. The
+same cannot be said about his counterpart who will not survive for long.})
+21... a3 (21... b3 {was also interesting but after} 22. c3 {I was afraid my
+play could be blocked} a3 23. bxa3 Bxa3+ 24. Nxa3 Qa1+ $1 {this was an idea I
+missed} 25. Nb1 Ra2 26. Rf2 Rc2+ $1 (26... Rxd2 27. Rfxd2 $13) 27. Qxc2 bxc2
+28. Kxc2 Rb8 $17 {finally the clumsy Nb1 leaves the scene}) 22. e6 $1 {my
+talented opponent finds a very strong defensive resource, trying to muddy the
+waters} f6 $1 {the right decision to block White's play. However, now I will
+no longer have the vital Bg5+ in some lines.} (22... fxe6 {was my initial idea
+but after} 23. Qe3 {I realized White also becomes quite active} (23. Rg5 $2
+Bxg5 24. Qxg5 Ra7 {simply kills the fun})) 23. Qd3 b3 24. Rf2 {and we got to
+the the most important moment of the game. If I don't find something now,
+White is ready to repel Black's attack with simple moves.} Ra4 $1 {after a
+very long thought I finally hit on the right idea - if I eliminate White's
+strongest defender I can finally break through} (24... Qa1 {doesn't quite work
+as after} 25. bxa3 Bxa3+ 26. Kd2 Rxc2+ 27. Ke1 $16 {White's king runs away}) (
+24... axb2+ 25. Bxb2 bxc2 (25... d4 $1 {is another amazing engine move that
+makes little sense to me}) 26. Rxc2 Rxc2+ 27. Qxc2 {Black got nowhere}) 25. c3
+Rxd4 26. Qxd4 Bc5 27. Qd2 (27. Qxd5 Be3+ 28. Rdd2 axb2+ 29. Kd1 Qxb1+ 30. Ke2
+h6 $1 {to give my king a much needed breathing space was not easy to find. I
+ended my calculation here and concluded that at least in practical play it is
+much easier to play with Black}) 27... Bxf2 $2 {a bad miss spoiling it all. I
+saw in advance 28...Qa1 which looked promising and didn't bother to check for
+other candidates} (27... axb2+ 28. Qxb2 Bxf2 $19 {I completely missed this
+simple winning idea}) 28. Qxf2 Qa1 29. e7 $2 {with little time left my
+opponent also goes wrong} (29. Rxd5 a2 30. Qf5 g6 31. Qe4 {and because of the
+e6 pawn Black cannot make much progress. Also White has his problems so a draw
+here would have been a normal result}) 29... a2 30. e8=Q+ (30. Qf5 Rxc3+ {
+could be what he missed} (30... axb1=Q+ 31. Qxb1 Rxc3+ $4 32. Kd2 {and White
+even wins}) 31. Kd2 Qxb2+ 32. Ke1 Re3+ $19) 30... Rxe8 31. Qf5 d4 {This
+important victory brought me a one point lead in the tournament. Then I
+decided to push my luck and lost the 8th round with White against Gawain Jones
+making the tournament situation a little more entertaining.} 0-1
+
+[Event "GAMMA Reykjavik Open 2019"]
+[Site "Reykjavik ISL"]
+[Date "2019.04.15"]
+[Round "8.1"]
+[White "Lupulescu, C."]
+[Black "Jones, G."]
+[Result "0-1"]
+[ECO "D85"]
+[WhiteElo "2634"]
+[BlackElo "2698"]
+[Annotator "Alina"]
+[PlyCount "168"]
+[EventDate "2019.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+
+{Seems that Black became the new White in Reykjavik, which reminds me of the
+#MoveForEquality message: colour doesn't grant advantage. If in the previous
+7th round Costica won a hot point with Black, R8 brought him a cold zero with
+White.} 1. d4 Nf6 2. c4 g6 3. Nc3 d5 {The never ending discussion of the
+principled Grunfeld, opening which was employed by both players with both
+colours. As a GM friend of mine would say:"just pick a line against this
+Grunfeld and hope that your opponent remembers less than you".} 4. cxd5 Nxd5 5.
+e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8. h3 {A rather rare line which was considered
+to be closed, got resurrected as of recently, promising White to catch Black
+off guard and thus hoping to get the advantage. The move h3 is very logical,
+stopping Bg4, but also it could slow down White's typical attack which starts
+with h4, followed by h5.} O-O 9. Be3 Qa5 10. Bd2 {Quite a few strong GMs
+tested this line and with good results but mostly in Rapid and Blitz.} e6 11.
+Be2 Qc7 12. Rc1 {All the other games from the database continued 12.0-0 but I
+would try the immediate} (12. h4 Nc6 ({If} 12... h5 13. Rc1 {and in case Black
+continues like in the game with} b6 {there is a new idea in the house} 14. Ng5
+$1 {The idea is to meet} Nc6 {with the good looking} 15. Bxh5 cxd4 16. cxd4
+Bxd4 17. Bg4 $16) 13. Be3 Rd8 (13... cxd4 14. cxd4 Qa5+ 15. Kf1 h5 16. Rg1 $40)
+14. h5 (14. O-O {is the more restrained option} b6 15. Rc1 Bb7 16. Qd2 Ne5 17.
+Bg5 Nxf3+ 18. Bxf3 f6 19. Be3 f5 20. Bg5 fxe4 21. Bxd8 Rxd8 22. Bg4 Qe7 $44 {
+The line is of course not a forced one but it gives an idea on how the
+position could be played.}) 14... Qa5 (14... cxd4 15. cxd4 Nxd4 16. Nxd4 Qc3+
+17. Kf1 Bxd4 18. Rc1 Qb2 19. hxg6 fxg6 20. Rc7 Bf6 21. Qa4 Qa1+ 22. Rc1 Bd7 23.
+Qb3 Qb2 24. Qxb2 Bxb2 25. Rc7 Rac8 26. Rxb7 Bd4 27. Kg1 Bxe3 28. fxe3 Rc2 29.
+Bf3 Rxa2 30. Kh2 $11) 15. hxg6 hxg6 16. Kf1 Qxc3 17. Bd2 Qb2 18. Rb1 Qxa2 (
+18... Qa3 {is not a good idea} 19. Bh6 Bxh6 20. Rxh6 cxd4 21. Qd2 $40) 19. Ra1
+Qb2 20. Rb1 $11) 12... b6 13. h4 ({If White doesn't play something more
+aggressive and fast, Black will face no problems to comfortably equalize.} 13.
+O-O Bb7 14. Bd3 Qd6 15. e5 Qd7 16. Be3 cxd4 17. cxd4 Nc6 18. Be4 Ne7 19. Bxb7
+Qxb7 $11 {I would in fact prefer Black here.}) 13... Bb7 14. e5 Nc6 (14... h5 {
+Cutting the grass from under your own feet is usually not a good idea} 15. Rg1
+Nc6 16. g4 $36) 15. h5 Rfd8 16. hxg6 hxg6 17. Rc2 {From this moment on,
+White's position starts deteriorating.} (17. Qb3 Ne7 18. Bg5 {Black's play
+feels somewhat easier though.} Rdc8 $13) 17... cxd4 18. cxd4 Qe7 19. Bg5 Qb4+
+20. Kf1 Nxd4 21. Bxd8 {White missed the 25...Qa1 resource.} (21. Rd2 Bxf3 22.
+Bxf3 Qb5+ 23. Be2 Qxe5 24. Bxd8 Rxd8 $15) 21... Nxc2 22. Bf6 Bxf3 {Jones goes
+for the technical line.} ({The cold blooded computer suggests} 22... Rc8 23.
+Qd7 (23. Bxg7 {doesn't work} Kxg7 24. Qc1 Kg8 25. Qh6 Qb1+ $19) 23... Nd4 24.
+Ne1 Nxe2 25. Qxb7 Qc4 26. Rh4 Nd4+ 27. Kg1 Bxf6 28. exf6 Rd8 $17) 23. gxf3 Qc3
+24. Qc1 Bxf6 25. exf6 Qa1 26. Qxa1 Nxa1 27. Rh4 Rc8 28. Rd4 Nc2 29. Rd7 Nb4 30.
+Rxa7 Nd5 31. Ke1 Nxf6 32. Ba6 Rc3 {Pure hell for White but the Romanian GM is
+well known for how many defensive rabbits he is able to pull out of his magic
+hat. It took 50 more moves to finally sign the scoresheets.} 33. Bb7 Rc7 34.
+Ra8+ Kg7 35. Ba6 Nd5 36. Rb8 Rc1+ 37. Kd2 Rc3 38. Bb7 Rxf3 39. Ke1 Rf5 40. Bxd5
+Re5+ 41. Kf1 Rxd5 42. Rxb6 Ra5 43. Rb2 g5 44. Ke2 Ra3 45. Kd2 g4 46. Kc1 f5 47.
+Re2 Kf6 48. Kb2 Rh3 49. a4 Rh2 50. Rc2 f4 51. a5 g3 52. a6 gxf2 53. a7 f1=Q 54.
+a8=Q Qb5+ 55. Ka1 Qe5+ 56. Kb1 Qe1+ 57. Kb2 Qb4+ 58. Kc1 Rxc2+ 59. Kxc2 Qc5+
+60. Kb2 Kf5 61. Qb7 Qe5+ 62. Kc1 Qe1+ 63. Kb2 Qd2+ 64. Kb1 Qd1+ 65. Kb2 Qe2+
+66. Kc1 Kg4 67. Qg7+ Kf3 68. Qh6 Qc4+ 69. Kd2 Qd5+ 70. Ke1 Qe5+ 71. Kd2 Kg2 72.
+Qg6+ Kf2 73. Qh6 f3 74. Qh4+ Qg3 75. Qd4+ Kg2 76. Qe4 Qg5+ 77. Kc3 Qf5 78. Qb7
+Qe5+ 79. Kc2 Kg3 80. Qb3 Qe4+ 81. Kb2 Kg2 82. Qc3 f2 83. Qg7+ Kf3 84. Qf7+ Ke3
+{An important win for Gawain which eventually made him tie for the 1st place.}
+0-1

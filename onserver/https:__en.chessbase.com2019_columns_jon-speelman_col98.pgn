@@ -1,0 +1,147 @@
+[Event "London Simpsons Dinner"]
+[Site "?"]
+[Date "2010.12.15"]
+[Round "?"]
+[White "GM Collective"]
+[Black "JS + table 3"]
+[Result "1-0"]
+[ECO "B13"]
+[Annotator "Jon Speelman"]
+[PlyCount "35"]
+[EventDate "2010.??.??"]
+
+{[%evp 0,35,21,25,74,47,47,47,47,45,45,17,17,33,35,29,29,26,-5,-149,-94,-175,
+-140,-121,-135,-121,-130,-138,-140,-88,-107,-538,0,-187,29997,29998,29999,
+-30000]} 1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nc6 5. c4 Nf6 6. Nc3 a6 7. cxd5
+Nxd5 8. Bc4 Be6 9. Ng5 Nxc3 10. Bxe6 Nxd1 11. Bxf7+ Kd7 12. Be6+ Ke8 13. Bf7+
+Kd7 14. Be6+ Ke8 {[#]} 15. Bf4 $5 {As I said, I would have been happy to get
+back to my wine but the world champion had the chutzpah to continue.} Qxd4 $2 (
+15... Nxd4 16. Bf7+ Kd7 17. Rxd1 e5 $1 {is given as about -5.5 by my engine.})
+16. Rxd1 $1 {played by David Howell} Qxf4 $4 (16... Qxd1+ 17. Kxd1 h6 18. Bf7+
+Kd7 19. Be6+ Ke8 {would still be a draw.}) 17. Bd7+ Kd8 18. Ne6# 1-0
+
+[Event "Correspondence"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Krol, W.."]
+[Black "Mercadal, J.."]
+[Result "1-0"]
+[ECO "B21"]
+[Annotator "Speelman,Jonathan"]
+[PlyCount "89"]
+[EventDate "2003.??.??"]
+[SourceVersionDate "2019.05.18"]
+
+{[%mdl 32768][%evp 0,89,17,12,52,28,13,-27,-16,-37,-57,-69,-92,-112,-112,-113,
+-118,-113,-97,-104,-122,-112,-77,-116,-116,-121,-131,-141,-57,-56,-31,-80,-103,
+-72,-74,-148,-95,-61,-54,-58,-39,-64,-41,-53,-31,-28,-9,-9,-9,-9,-9,-13,-9,-14,
+0,0,0,0,0,0,9,3,28,20,58,76,85,130,135,112,155,50,117,76,90,76,90,206,207,207,
+207,207,207,207,207,207,207,207,207,215,215,205]} 1. e4 c5 2. f4 d5 3. Nf3 dxe4
+4. Ng5 Nf6 5. Bc4 Bg4 6. Bxf7+ Kd7 7. Qxg4+ Nxg4 8. Be6+ Kc6 9. Bxg4 e6 10. Nc3
+Na6 11. a3 Bd6 12. O-O Nc7 13. Ncxe4 Rf8 14. d3 {[#] This looks like a very
+decent version for White to me.} h6 15. Nf3 Nd5 16. g3 Qe7 17. b4 Nf6 18. Nxd6
+Qxd6 (18... Nxg4 19. bxc5 {and if} Kxc5 20. a4 $1) 19. Bh3 Kc7 20. Bb2 Nd7 21.
+bxc5 Qxc5+ 22. Bd4 Qd6 23. Rae1 Rae8 24. Bxg7 Rg8 25. Bb2 {[#] My engine still
+gives this as equal but it's much easier to play as White than Black.} Re7 26.
+Re4 Kb8 27. Rfe1 Rge8 28. Bd4 Ka8 29. Nd2 $1 {By keeping the knights on, White
+gets a lovely attack.} h5 (29... Nb6 {must be better, though after} 30. c3 {
+White has lots of play.}) 30. Nc4 Qc7 31. Bg2 h4 32. Rb1 hxg3 33. hxg3 e5 34.
+fxe5 Kb8 35. Be3 (35. Nd6 b6 36. Be3) 35... Nc5 36. Rh4 b6 37. Na5 Kc8 38. Bh3+
+Kb8 39. Rc4 Rg7 {[#]} 40. Bxc5 $1 {A lot easier to play in a correspondence
+game than over the board.} Rxg3+ 41. Kf2 Ka8 42. Bd6 Qg7 43. Bf5 Rg2+ 44. Kf1
+Rg1+ 45. Ke2 (45. Ke2 {[#] Here Black resigned. You certainly wouldn't do this
+over the board but the lines are clear.} Rg2+ (45... Qg2+ 46. Ke3 Qg5+ (46...
+Rxb1 47. Be4+ Qxe4+ 48. Kxe4 bxa5 49. d4) 47. Rf4 Rg3+ 48. Ke4 bxa5 49. Bd7)
+46. Kd1 Rg1+ 47. Kd2 Qg5+ 48. Kc3 Qxf5 49. Rxg1 bxa5 50. Rb1) 1-0
+
+[Event "Correspondence"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Krol, W..."]
+[Black "Robson, N..."]
+[Result "0-1"]
+[ECO "B21"]
+[Annotator "Speelman,Jonathan"]
+[PlyCount "80"]
+[EventDate "2019.??.??"]
+[SourceVersionDate "2019.05.18"]
+
+{[%mdl 32768][%evp 0,80,30,9,51,4,4,-5,-32,-63,-39,-72,-109,-103,-111,-100,
+-110,-102,-105,-136,-133,-127,-91,-131,-110,-124,-79,-98,-27,-32,-28,-17,-30,
+-22,0,0,0,-27,-46,-28,9,-17,-19,-42,-7,-25,-32,-46,-47,-96,-110,-80,-66,-66,
+-51,-75,-76,-93,-171,-182,-139,-241,-244,-208,-243,-244,-253,-307,-331,-363,
+-390,-382,-414,-414,-434,-459,-481,-517,-525,-517,-533,-550,-571]} 1. e4 c5 2.
+f4 d5 3. Nf3 dxe4 4. Ng5 Nf6 5. Bc4 Bg4 6. Bxf7+ Kd7 7. Qxg4+ Nxg4 8. Be6+ Kc6
+9. Bxg4 e6 10. Nc3 Na6 11. a3 Bd6 12. O-O Qe7 13. Ncxe4 h6 14. Nxe6 Nc7 {
+[#] Things are happening a bit too quickly for White. It looks to me as though
+the cad playing Black had had the temerity to prepare for the Bryntse. Indeed
+since Nigel Robson has a correspondence rating in the 2500s, I think we can
+take it that he had.} 15. Nxc7 Kxc7 16. d3 g5 $1 17. fxg5 Raf8 18. Rxf8 Rxf8
+19. g3 Qg7 20. c3 hxg5 21. Be3 ({If} 21. Bxg5 c4 $1 {destabilizes White
+because if} 22. dxc4 $2 Qg6 23. Re1 Re8 24. Bf3 Rxe4 {wins}) 21... Qe5 22. b4
+cxb4 23. axb4 Bxb4 24. Bxg5 Qd5 25. Rd1 Bd6 26. Be3 a5 {[#] The passed a-pawn
+is now a big problem for White.} 27. c4 Qe5 28. Kg2 a4 29. c5 Be7 30. Rd2 Qd5
+31. Bf3 Rxf3 $1 32. Kxf3 a3 33. d4 a2 34. Rd1 Qb3 35. Rg1 Qb1 36. h4 Qxg1 37.
+Bxg1 a1=Q 38. Be3 Kc6 39. Nf2 Bf6 40. Ke4 Qb1+ 0-1
+
+[Event "Correspondence"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[White "Krol, W.."]
+[Black "Boehme, S.."]
+[Result "0-1"]
+[ECO "B21"]
+[Annotator "Speelman,Jonathan"]
+[PlyCount "92"]
+[EventDate "2010.??.??"]
+[SourceVersionDate "2019.05.18"]
+
+{[%mdl 32768][%evp 0,92,19,28,52,27,36,-17,-11,-28,-28,-82,-61,-109,-117,-110,
+-110,-110,-102,-112,-50,-56,-27,-151,-155,-132,-116,-109,-96,-122,-133,-153,
+-157,-122,-75,-64,-81,-154,-136,-131,-132,-178,-178,-190,-147,-147,-143,-121,
+-142,-134,-142,-146,-146,-146,-116,-113,-121,-135,-116,-151,-142,-141,-135,-86,
+-78,-87,-78,-107,-143,-143,-54,-68,-15,-43,-39,-193,-150,-114,-113,-113,-152,
+-187,-145,-135,-165,-176,-159,-275,-185,-284,-214,-208,-260,-252,-243]} 1. e4
+c5 2. f4 d5 3. Nf3 dxe4 4. Ng5 Nf6 5. Bc4 Bg4 6. Bxf7+ Kd7 7. Qxg4+ Nxg4 8.
+Be6+ Kc6 9. Bxg4 e5 {[#] This is my instinctive reaction. A Black pawn on e6
+blocks the rooks and the importnat thing for Black is get active before White
+can establish a bind. As well as e6, they sometimes also try g6 here.} 10. Nf7
+Qe8 11. Nxe5+ Kc7 12. Nc3 Bd6 13. O-O h5 14. Bf5 Rf8 15. Bg6 Qe6 16. Nb5+ Kd8
+17. Nxd6 Qxd6 {White is one tempo away from having a perfectly good game (if
+say he could play both b3 and Bb2 before Black replied). But it's a big tempo
+and he's in some trouble.} 18. d3 Qd4+ 19. Rf2 (19. Kh1 $2 Qxe5) 19... e3 20.
+Rf3 e2+ 21. Be3 Qxb2 22. Re1 Nd7 23. Nxd7 Kxd7 24. Rxe2 b6 {[#] With White's
+queenside shattered, he really doesn't have enough for the queen.} 25. Bxh5
+Rad8 26. Rf1 Qxa2 27. d4 c4 28. Bg4+ Kc7 29. Be6 Kb7 30. f5 a5 31. d5 c3 32.
+Rd1 Qc4 33. Rd3 a4 34. Re1 Rd6 35. Bd4 Rfd8 36. Bxg7 Rxd5 37. Rxc3 Qb4 38.
+Bxd5+ Rxd5 39. Rce3 Qg4 40. Bc3 Qxf5 41. Re7+ Ka6 42. R7e4 Qd7 43. R1e3 Rc5 44.
+Be1 Qb5 45. h4 Rc4 46. Re8 Rxc2 {[#]} 0-1
+
+[Event "Correspondence"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "?"]
+[White "Krol, W.."]
+[Black "Santo, M.."]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[Annotator "Speelman,Jonathan"]
+[PlyCount "54"]
+[EventDate "2019.??.??"]
+[SourceVersionDate "2019.05.18"]
+
+{[%evp 0,54,19,28,52,28,12,-9,-27,-39,-55,-83,-82,-131,-141,-122,-121,-122,
+-110,-100,-24,-14,-17,-135,-135,-143,-128,-156,-156,-156,-153,-160,-140,-143,
+-90,-106,-110,-113,-93,-93,-80,-90,-97,-115,-75,-86,-86,-82,-81,-87,-86,-96,
+-86,-93,-55,-97,-46]} 1. e4 c5 2. f4 d5 3. Nf3 dxe4 4. Ng5 Nf6 5. Bc4 Bg4 6.
+Bxf7+ Kd7 7. Qxg4+ Nxg4 8. Be6+ Kc6 9. Bxg4 e5 10. Nf7 Qe8 11. Nxe5+ Kc7 12.
+Nc3 Bd6 {[#]} 13. Nc4 {An improvement on 13.0-0 in the previous game.} Na6 14.
+a3 Rd8 15. O-O Kb8 16. Bf5 Rf8 17. Nxd6 Rxd6 18. Bxe4 c4 19. f5 Nc5 20. d3 Ka8
+21. Be3 Qe5 22. Rf2 Nxe4 23. dxe4 Rd7 24. Re1 Qf6 25. Bf4 Re8 26. Bc1 h5 27. h3
+Rf7 {[#] Here they agreed a draw. Houdini likes Black but it doesn't look
+particularly clear to me. White has a good centre and a completely sound
+position.} 1/2-1/2
+

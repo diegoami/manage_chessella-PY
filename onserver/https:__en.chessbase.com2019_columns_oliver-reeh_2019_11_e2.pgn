@@ -1,0 +1,45 @@
+[Event "Gibraltar Masters 2019"]
+[Site "Caleta ENG"]
+[Date "2019.01.28"]
+[Round "7.1"]
+[White "Artemiev, Vladislav"]
+[Black "Nakamura, Hikaru"]
+[Result "*"]
+[ECO "A14"]
+[WhiteElo "2709"]
+[BlackElo "2749"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "68"]
+[EventDate "2019.01.22"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 e6 4. O-O Be7 5. c4 O-O 6. b3 c5 7. Bb2 Nc6 8. e3 b6
+9. Nc3 dxc4 10. bxc4 Bb7 11. Qe2 Rc8 12. Rad1 Qc7 13. Ne1 Ne8 14. f4 Nd6 15.
+Nf3 a6 16. a4 f5 17. d3 Bf6 18. h3 Nb4 19. g4 g6 20. e4 fxe4 21. dxe4 Nxe4 22.
+Nxe4 Bxb2 23. Neg5 Bxf3 24. Rxf3 Bd4+ 25. Kh1 Rce8 26. Nxe6 Qc6 27. f5 Qxa4 28.
+fxg6 Rxf3 29. gxh7+ Kh8 {With hindsight it's easy to claim that 30.Qxf3! in
+the diagram position is the right way to recapture for White, but can you also
+spot the downside of the actual game move 30.Bxf3?} 30. Bxf3 $2 (30. Qxf3 $1 {
+unpins the Ne6 and leaves Black no chance, e.g.} Rxe6 31. Qf8+ Kxh7 32. Rf1 $1
+{[%csl Gf1][%cal Gf1f7,Ya4d1]} Bg7 33. Qf5+ Rg6 34. Be4 $18 {[%csl Rh7][%cal
+Ge4h7]}) {[%tqu "En","White threatens the killing 31.Rxd4 cxd4 32.Qe5+. In the
+game Black missed a chance here playing 30...Nc6? Can you do better?","Moving
+the knight b4 is actually the right idea...","","b4c6","",0,"b4d3","",10,
+"a4d7","",0]} 30... Nd3 $3 {[%csl Gd3,Re6][%cal Yd1d4] Shielding the bishop d4
+and initiating a saving trade of knights.} (30... Nc6 $2 {[%tqu "En",
+"Changeover - White to play and win!","Who says the the Ne6 cannot move!?","",
+"e6c5","and Black resigned since after",10]} 31. Nxc5 $1 {[%csl Gc5][%cal
+Ge2e8,Gc5a4] Double Gardez! The knight is unleashed, and now the e-file
+line-up turns out to be the winning factor for White. Black resigned since
+after} Rxe2 32. Nxa4 {[%cal Gf3c6,Gf3e2,Gd1d4] he loses material. 1-0.}) (30...
+Qd7 $2 {allows the blow} 31. Rxd4 $1 cxd4 32. Qe5+ {[%csl Ge5][%cal Ge5h8]}
+Kxh7 33. Be4+ {[%csl Ge4,Ge5,Ge6,Rh7][%cal Ge4h7] and Black's naked king is
+helpless against the force of White's three attackers, e.g.} Kg8 34. Qg5+ Kh8 (
+34... Kf7 35. Qg7+ Kxe6 36. Bf5+) 35. Qh5+ Kg8 36. Bh7+ $1 Qxh7 37. Qxe8#) 31.
+Rxd3 (31. Qxd3 Rxe6 32. Qf5 Qe8 $11 {White is chief on the light squares,
+Black on the dark ones.}) {[%tqu "En","Black's point, please.","","","a4c4",
+"and Black picks up the knight e6 with equal chances. The attempt",10]} 31...
+Qxc4 {[%csl Gc4,Re6][%cal Gc4e6,Ge8e2] and Black picks up the knight e6 with
+equal chances. The attempt} 32. Rxd4 $2 Qxe2 33. Bxe2 cxd4 34. Nxd4 ({or even
+worse} 34. Bc4 $2 b5 35. Bb3 d3 {[%cal Gd3d1]}) 34... Re4 {[%csl Ge4][%cal
+Ge4d4,Ge4e2] could only backfire for White.} *
+

@@ -1,0 +1,58 @@
+[Event "EU-Cup 19th"]
+[Site "Rethymnon"]
+[Date "2003.10.04"]
+[Round "7.1"]
+[White "Carlsen, Magnus"]
+[Black "Gretarsson, Helgi Ass"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2385"]
+[BlackElo "2513"]
+[Annotator "Reeh,Oliver"]
+[PlyCount "65"]
+[EventDate "2003.09.28"]
+[EventType "team-swiss"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[SourceTitle "CBM 098"]
+[Source "ChessBase"]
+[SourceDate "2004.02.03"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.02.03"]
+[SourceQuality "1"]
+[WhiteTeam "Asker"]
+[BlackTeam "Reykjavik Hellir"]
+[WhiteTeamCountry "NOR"]
+[BlackTeamCountry "ISL"]
+
+{[%evp 0,65,31,38,32,-16,26,19,41,10,50,46,43,21,25,-30,-39,-45,5,10,10,-19,4,
+0,0,-88,-46,-126,-114,-114,-108,-108,-108,-108,-102,-101,-101,-87,-81,-108,
+-108,-99,-71,-112,-112,-259,-57,0,0,-10,15,0,0,-45,-57,-16,0,0,0,0,267,235,239,
+230,29997,29998,29999,-30000]} 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3
+Nbd7 6. Qc2 Bd6 7. g4 Nxg4 8. Rg1 Qf6 9. Rxg4 Qxf3 10. Rxg7 Nf6 11. Bg2 Qh5 12.
+e4 dxe4 13. Bg5 Bf8 14. Bxf6 Bxg7 15. Bxg7 Rg8 16. Nxe4 Qa5+ 17. Kf1 Rxg7 18.
+Qc1 Qd8 19. Qf4 Kf8 20. Qe5 Rg6 21. Qh8+ Ke7 22. Qxh7 Qg8 23. Qh4+ f6 24. Bf3
+e5 25. b3 exd4 26. Ng3 Bg4 27. Re1+ Kf7 28. Be4 Rg7 29. h3 {In the diagram
+position Black's attacked bishop must retreat onto the right square. 29...Bd7
+or 29...Be6 - what would you have played against the future world champion?}
+Bd7 $4 {The bishop definitely had to block the e-file!} ({Following} 29... Be6
+$1 {[%cal Ge1e8]} 30. Qh5+ {[%csl Gh5][%cal Gh5f7]} Kf8 (30... Ke7 31. Bf5 $18
+{[%cal Gf5e6,Ge1e7]}) 31. Qc5+ Kf7 (31... Re7 32. Bf5 $1 {[%cal Gc5e7,Ge1e7]}
+Kf7 33. Bg4 $1 {[%cal Gc5e7,Gg3f5,Gg4h5] with many threats.}) 32. Qh5+ {
+the game would have ended with perpetual check.}) {[%tqu "En","White to play
+and win. First step?","","","h4h5","",10]} 30. Qh5+ $1 {[%csl Gh5][%cal Gh5f7]
+The queen makes contact with the black king.} Kf8 {[%tqu "En","Step 2?","","",
+"h5c5","",10]} 31. Qc5+ $1 {[%csl Gc5][%cal Gc5f8] Reestablishing contact,
+this time on a dark square. Do you already see the knockout blow following 31..
+.Kf7 now?} Kf7 ({An important variation was} 31... Re7 {[%tqu "En","How does
+White win now?","Best move with the Be4?","","e4f5","und aufgrund der
+Mattdrohung auf e7 erobert Weiß den Läufer d7!",10]} 32. Bf5 $1 {[%csl Re7]
+[%cal Ge1e7,Gc5e7,Gf5d7] and White thanks to the mate threat on e7 conquers
+material:} Qf7 33. Bxd7 $18 {[%csl Gd7,Re7][%cal Gc5f8]}) {[%tqu "En","With
+the bishop on e6 things would be fine for Black, but the way things are...
+White to play and checkmate!","The mate squares for the white queen are e7 and
+h5!","","e4g6","und Schwarz gab auf angesichts von",10]} 32. Bg6+ $1 {and
+Black resigned on account of} Kxg6 (32... Rxg6 33. Qe7# {[%csl Ge7,Rf7][%cal
+Ge1e7]}) {[%tqu "En","Please show the young Viking's mate!","","","c5h5","",10]
+} 33. Qh5# {[%csl Rg6,Gh5][%cal Gc5h5] Welcome back!} 1-0
+

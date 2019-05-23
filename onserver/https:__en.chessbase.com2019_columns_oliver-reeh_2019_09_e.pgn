@@ -1,0 +1,49 @@
+[Event "17th Asian Continental-ch Open 2018"]
+[Site "Makati City"]
+[Date "2018.12.16"]
+[Round "7"]
+[White "Wang, Hao"]
+[Black "Ganguly, Surya Shekhar"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2730"]
+[BlackElo "2621"]
+[Annotator "Reeh,Oliver"]
+[PlyCount "66"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. O-O O-O 6. Nbd2 d6 7. c3 a6 8. Bb3
+Be6 9. Bc2 d5 10. exd5 Bxd5 11. h3 Re8 12. Re1 h6 13. b4 Bf8 14. a4 g6 15. Ne4
+Bg7 16. Bd2 Nd7 17. b5 Ne7 18. Bb3 axb5 19. Bxd5 Nxd5 20. axb5 Rxa1 21. Qxa1
+Nf8 22. c4 Nf4 23. Bxf4 exf4 24. d4 Ne6 25. Qc1 Nxd4 26. Qxf4 {26...f5! 27.
+Nxd4 Bxd4 28.Qxh6 leads to clear advantage for Black - with the right
+continuation at hand. Are you ready to follow in (five of) his footsteps then?}
+f5 $1 27. Nxd4 (27. Ned2 Rxe1+ 28. Nxe1 {unleases Black's knight:} Ne2+ {
+[%csl Ge2][%cal Ge2g1,Ge2f4]}) 27... Bxd4 ({White has his fork too:} 27... Qxd4
+$4 28. Nf6+ {[%csl Rg8][%cal Ge1e8,Gf6g8,Gf4d4]}) 28. Qxh6 {[%tqu "En","Please
+show Black's key move.","","","e8e6","",10,"f5e4","",0,"d4g7","",0]} Re6 $3 {
+[%csl Ge6][%cal Ge6e1,Ge6g6] The sixth rank defender - the rook maintains the
+pin, protects g6 and prepares a little but important sidestep. Seen it?} (28...
+fxe4 29. Qxg6+ Bg7 30. Rxe4 {gives White three pawns for the piece.}) (28...
+Bg7 29. Qxg6 {[%cal Gg6e4,Ge1e4] is similar.}) 29. Rd1 {[%csl Gd1,Rd4][%cal
+Gd1d8,Ge1d1] The rook steps out of the e-file, creating a counter pin.} (29. g3
+fxe4 30. Rxe4 Qd6 $19 {- two pawns for the piece is just not enough.}) {
+[%tqu "En","Take on e4 or move away the bishop d4 - what would be your
+choice?","","","f5e4","",10,"d4f2","",0]} 29... fxe4 $1 {Black captures the
+piece, avoiding a little trap.} (29... Bxf2+ $4 {[%csl Gf2][%cal Gd8d1]} 30.
+Nxf2 {[%cal Gf2d1] and the rook is protected.}) 30. Qe3 {[%tqu "En","But what
+now?","","","e6d6","The sixth rank defender again - the rook safeguards the
+black bishop, and now the d-file line-up proves killing for White.",10,"d4e3",
+"",0]} Rd6 $1 {[%csl Gd6][%cal Gd6d4,Gd4g1] The sixth rank defender again -
+the rook safeguards the black bishop, and now the d-file line-up proves
+killing for White.} (30... Bxe3 $4 31. Rxd8+ Kf7 32. fxe3 $18) 31. Qxe4 {
+[%tqu "En","31...Bxf2+! wins for Black, but after 32.Kxf2 he needs one more
+precise move. Can you see it already here?  (Please play 31...Bxf2+!)","","",
+"d4f2","",10]} Bxf2+ 32. Kxf2 {[%tqu "En","Continuation?","","","d8f6","The
+queen steps in as the new sixth rank defender. White resigned in view of",10,
+"d6d1","",0]} Qf6+ $1 {[%csl Gf6][%cal Gf6f2,Gf6g6] The queen steps in as the
+new sixth rank defender.} (32... Rxd1 33. Qxg6+ {gives White (too) many checks.
+}) {White resigned in view of} 33. Ke2 (33. Kg3 Rxd1) (33. Qf3 Qxf3+ 34. Kxf3
+Rxd1) {[%tqu "En","The coup de grâce, please.","","","d6e6","",10]} 33... Re6
+$19 {[%csl Re4,Ge6][%cal Ge6e2,Gd6e6] Welcome back!} 0-1
+

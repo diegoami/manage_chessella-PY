@@ -1,0 +1,31 @@
+[Event "Gibraltar Masters 2019"]
+[Site "Caleta"]
+[Date "2019.01.25"]
+[Round "4"]
+[White "Jones, Gawain C B"]
+[Black "Ramirez, Alejandro"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[WhiteElo "2691"]
+[BlackElo "2567"]
+[Annotator "Thorsten Cmiel"]
+[PlyCount "54"]
+[EventDate "2019.??.??"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,54,18,24,25,20,17,8,25,0,0,0,0,0,0,0,0,-102,-106,-107,-107,-92,-101,
+-81,-104,-96,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7
+5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. g3 b6 8. Bb5+ Bd7 9. a4 a6 10. Be2 Bc6 11. O-O Nd7
+$146 ({Predecessor:} 11... Be7 12. Ne5 Bb7 13. c4 Nd7 14. Bf3 Bxf3 15. Qxf3
+Nxe5 16. dxe5 {1-0 (86) Nepomniachtchi,I (2733)-Meier,G (2655) Heraklio 2017})
+12. Bc4 Be7 13. d5 $5 exd5 14. Nd4 (14. Bxd5 {gives White a spatial advantage
+that should guarantee him a slight edge. But Jones was more ambitious.}) 14...
+Bb7 15. Nf5 $5 dxc4 16. Nxg7+ Kf8 17. Bh6 Kg8 18. Re1 $6 {Objectively better
+was} (18. Ne6 $1 fxe6 19. Qg4+ Kf7 20. Qh5+ Kg8 21. Qg4+ Kf7 22. Qh5+ Kg8 23.
+Qg4+ $11) (18. Nf5 Ne5 19. Re1 f6 20. Qh5 (20. Rxe5 $6 Qxd1+ $1)) 18... Bf8 $1
+$17 19. Re8 Qf6 $1 20. Qxd7 Rxe8 $1 (20... Qxh6 $6 21. Nf5 $11) (20... Qxb2 $2
+21. Rae1 $18) (20... Qf3 $6 21. Kf1 $11) 21. Nxe8 Qxh6 22. Qg4+ Qg6 (22... Bg7
+$1 23. Rd1 Qg6 24. Rd8 Bxb2 {and the engine favours Black.} (24... Qxg4 $4 25.
+Nf6#)) 23. Nf6+ Kg7 24. Ne8+ Kg8 25. Nf6+ Kg7 26. Ne8+ Kg8 27. Nf6+ Kg7 1/2-1/2
+

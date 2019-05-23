@@ -1,0 +1,32 @@
+[Event "SPICE Cup Open 2018"]
+[Site "Saint Louis USA"]
+[Date "2018.10.24"]
+[Round "2.6"]
+[White "Gledura, Benjamin"]
+[Black "Santarius, Erik"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2621"]
+[BlackElo "2404"]
+[Annotator "Reeh,Oliver"]
+[PlyCount "73"]
+[EventDate "2018.10.23"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. a3 Bxc5 6. Nf3 Ne7 7. Be2 Ng6 8. O-O
+Nd7 9. b4 Be7 10. Bb2 a5 11. b5 Nf4 12. c4 Nb6 13. Nbd2 Bd7 14. cxd5 Nxe2+ 15.
+Qxe2 Nxd5 16. a4 O-O 17. Nc4 Bb4 18. Nfd2 Qg5 19. Ne4 Qg6 20. Ned6 b6 21. Rad1
+Qg5 22. Rd4 Qe7 23. Rg4 f5 24. exf6 Nxf6 25. Bxf6 Rxf6 26. Ne4 Rf5 27. Nxb6
+Raf8 28. Nxd7 Qxd7 29. h4 h6 30. Rc1 R8f7 31. Rc6 Qd4 32. Rxe6 Qa1+ 33. Kh2
+Qxa4 34. Re8+ Kh7 {In the diagram position White is of course clearly winning.
+But beauty does matter in chess - can you see the neatest way for him to take
+the game home?} {[%tqu "En","Please make short work of Black's position.","",
+"","e4g5","",10]} 35. Ng5+ $1 {[%csl Gg5,Rh7][%cal Yh6g5] Black has no choice
+and must open his king's position.} hxg5 ({A nice (though completely
+irrevelant line) is} 35... Rxg5 36. hxg5 Bd6+ 37. g3 Rxf2+ 38. Kh3 $1 Rxe2 39.
+g6# {[%csl Gg6,Rh7][%cal Ge8h8]}) {[%tqu "En","Continuation?","What could
+White play if it weren't for the Rg4?","","g4b4","and Black resigned on
+account of",10]} 36. Rxb4 $1 {[%csl Ra4,Gb4] The remote queen on a4 helps
+White's attack on the kingside. Black resigned on account of} Qxb4 {[%tqu "En",
+"Enjoy!","","","e2h5","",10]} 37. Qh5# {[%csl Rh7][%cal Gh5h7,Ge8h8] Checkmate!
+} 1-0
+

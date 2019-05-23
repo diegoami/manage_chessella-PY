@@ -1,0 +1,33 @@
+[Event "6th Shamkir Chess 2019"]
+[Site "Shamkir"]
+[Date "2019.04.07"]
+[Round "7.3"]
+[White "Carlsen, Magnus"]
+[Black "Giri, Anish"]
+[Result "1-0"]
+[ECO "A29"]
+[WhiteElo "2845"]
+[BlackElo "2797"]
+[Annotator "TA"]
+[PlyCount "76"]
+[EventDate "2019.??.??"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Bc5 7. O-O O-O 8.
+d3 h6 9. Nxd5 {[%emt 0:00:04] A29: English Opening: Four Knights Variation
+with g3} (9. Bd2 Be6 10. Na4 Bb6 11. a3 f5 12. Qc2 Qd6 13. Rac1 Rad8 14. Nxb6
+axb6 15. e3 f4 16. gxf4 exf4 {0-1 (24) Zupe,M (2260)-Fenil,S (2346) Skopje 2018
+}) 9... Qxd5 10. a3 a5 $146 ({Predecessor:} 10... Bg4 11. b4 Be7 12. Be3 Qe6
+13. Qc2 a6 14. Rfd1 Rad8 15. Qc4 Qxc4 16. dxc4 Bf6 17. Rxd8 Rxd8 {0-1 (52)
+Bordes Guasch,J (1774)-Mari Copa,A (2016) Eivissa 2015}) 11. Bd2 {The position
+is equal.} Qe6 12. Rc1 Qe7 13. Bc3 Nd4 14. e3 Nxf3+ 15. Qxf3 Bd6 16. Qh5 c6 17.
+f4 exf4 18. gxf4 Qxe3+ (18... Kh7 $11) 19. Kh1 $16 {aiming for Be4.} Rd8 $2 (
+19... f6 $1 $14) 20. Rce1 $18 Qc5 {[#]} (20... Qxd3 21. f5 $18) 21. f5 $1 Bf8
+22. Be4 Rd5 23. Rf3 b5 24. Rg1 Ra7 25. Bf6 g6 (25... Rd6 $142 26. d4 Rxd4) 26.
+Qh3 Rd6 27. Qh4 (27. d4 $18 Rxd4 28. fxg6 Rxe4 29. Qxc8 fxg6 30. Bc3) 27...
+Rxf6 $16 28. Qxf6 $40 {[#] Double Attack. White has strong attack.} Be7 29.
+Qxc6 Qxc6 30. Bxc6 Kg7 31. fxg6 fxg6 32. d4 a4 (32... Bd6 $16 33. Bd5 Re7) 33.
+d5 $18 b4 (33... Bd6 $142 34. Bxb5 Re7) 34. Be8 Bg5 35. h4 ({But not} 35. axb4
+Re7 $18) 35... Bxh4 (35... Re7 {might work better.} 36. hxg5 Rxe8 37. gxh6+
+Kxh6) 36. Rxg6+ {White is clearly winning.} Kh7 37. Rc6 Bg4 38. Rf4 Rg7 {
+Accuracy: White = 70%, Black = 44%.} 1-0
+

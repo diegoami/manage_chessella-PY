@@ -1,0 +1,218 @@
+[Event "Western States Open"]
+[Site "?"]
+[Date "2006.10.08"]
+[Round "?"]
+[White "Mackenzie, Dana"]
+[Black "Pruess, David"]
+[Result "1-0"]
+[ECO "B21"]
+[WhiteElo "2116"]
+[BlackElo "2461"]
+[Annotator "Mackenzie,Dana"]
+[PlyCount "91"]
+[EventDate "2006.??.??"]
+[SourceVersionDate "2015.07.13"]
+
+{[%evp 0,27,28,31,46,20,40,-9,-16,-54,-45,-96,-83,-135,-116,-111,-112,-112,
+-111,-111,-124,-128,-57,-116,-110,-138,-132,-121,-115,-99]} 1. e4 c5 2. f4 d5 {
+Usually White plays 2. Nc3 before 3. f4, and this move by Black is supposed to
+be the reason why. However, I had a secret variation planned.} 3. Nf3 dxe4 4.
+Ng5 {White is playing a Budapest Gambit a tempo ahead. Is the extra tempo
+spent on f2-f4 helpful or harmful?} Nf6 5. Bc4 Bg4 $6 {[#] The psychology of
+this move is fascinating. In the post-mortem, someone asked David if he saw
+the queen sac coming, and why he had walked into it? He said that, "I refuse to
+be intimidated into playing a move that's not the best, just because my
+opponent might get a few threats."} (5... e6 {is much safer. White continues}
+6. Nc3 {and wins back his pawn.  JS Personally, I would play e6 instantly in a
+blitz game and almost certainly after some thought at longer time limits too.
+I love playing with two pieces for a queen and White's long-term advantages
+make the gambit line very difficult and very possibly dispiriting to play as
+Black. In contrast, after 5...e6 Black gets a perfectly pleasant position with
+a nice safe king and good chances of playing for the advantage later. Indeed
+the possibility of Black refusing it looks to me like the main downside of the
+gambit.}) 6. Qxg4 $3 {A queen sac on move six! I had been playing this move
+against the computer for two years. It is a fantastic anti-computer variation,
+because computers can never understand White's compensation. White gets
+ongoing pressure that typically lasts 30, 40, 50 moves -- beyond any
+computer's threshold. But this was my first "serious" game against a human in
+this line. I believe that I am the first person ever to play this queen sac in
+an OTB game. However, I later discovered that it had been played several times
+in the 1960s by a former Swedish correspondence champion, Arne Bryntse, and
+therefore should be known as the Bryntse Gambit.} Nxg4 7. Bxf7+ Kd7 8. Be6+ Kc6
+(8... Ke8 9. Bf7+ {would draw; clearly Black will not go for this if he
+"refuses to be intimidated."}) (8... Kc7 9. Bxg4 Qe8 10. Ne6+ {is a variation
+I have played a few times against the computer, but is mostly unexplored.}) 9.
+Bxg4 e6 ({An important trap is} 9... e5 10. Nf7 Qh4+ ({JS} 10... Qe8 $1 11.
+Nxe5+ (11. Nxh8 exf4) 11... Kc7 12. Nc3 Bd6 {is a pretty sensible way for
+Black to play if he insists on taking the queen.}) 11. g3 Qxg4 $4 12. Nxe5+ {
+This is how my first tournament game with the Bryntse Gambit went (Mackenzie -
+Drayton Harrison, Reno 2006). My opponent grabbed the bishop to take it on
+move 11, then he saw the fork. By the touch-move rule he had to play 11. ...
+Qxg4, but he sat there with the bishop in his hand for five minutes before
+finally completing the move. He resigned immediately after 12. Nxe5+.}) 10. Nc3
+Na6 11. a3 $1 {GM Jesse Kraai, who was watching the game, was particularly
+impressed by this slow move. You might expect White, after sacrificing his
+queen, to try a blazing attack. But actually the strategy I had perfected
+against the computer was a slow, "creeping" strategy, in which White's more-numerous pieces keep Black's position tied up in knots.  JS a3 seems
+completely normal to me. The whole point is that White is playing chess and
+claims that his two pieces and pawn or two are worth the queen so it makes
+sesne to stop Nb4} Bd6 {After this move I had used only 2 minutes, while David
+had used more than an hour. He was somewhat unlucky that Fritz 9 (my sparring
+partner at the time) usually chose the same plan -- 9. ... e6, 10. ... Na6, 11.
+... Bd6 -- so I was well prepared.} 12. O-O Nc7 (12... Bxf4 13. Nxe6 Bxh2+ 14.
+Kxh2 Qh4+ 15. Bh3 g5 16. d4 $1 g4 17. d5+ {Every king move allows White to
+escape, for example} Kd7 18. Bg5 Qh5 19. Nxe4 {This line is a beautiful
+example of the kind of piece coordination White is looking for.}) 13. Ncxe4 Qe7
+14. Nxd6 Qxd6 15. d3 {[#] In my games against the computer, I had developed
+five principles for playing this variation: 1) Coordinate my pieces (the line
+we just saw is a good example). 2) Keep files closed as long as possible. This
+is necessary because Black has a 3-2 majority in straight-moving pieces. My
+advantage lies in diagonals for the bishops and squares for the knight. 3)
+Trade a knight for bishop if possible. This gives White two unopposed bishops, a huge
+advantage. Two bishops plus two pawns are very nearly full compensation for a Q. Note
+that my last move accomplished this part of the strategy. 4) Do not cash in
+too early. Black will often try to give back an exchange to relieve the
+pressure, but if White agrees too early his advantage will dissipate. 5) Keep
+Black's queen under lock and key.  JS Interestingly my engine, Houdini, is
+perfectly happy with White by now.} Raf8 16. Bf3+ (16. Be3 {would violate
+principles 3 and 5: it gives away one of my two bishops, and allows Black's
+queen to start running rampage after} Nd5 17. Rae1 Nxe3 18. Rxe3 Qd4 19. Rfe1
+Qxb2) 16... Kd7 17. c3 {GM Victor Mikhalevski, who watched the game, wanted me
+to play 17. Bxb7 here. However, this violates principle 4: "Do not cash in too
+early." Instead I played 17. c3, in accordance with principle 5: "Keep
+Black's queen under lock and key."} Nd5 18. g3 {As before I am in no hurry,
+and play a simple defensive move to keep lines closed.} h6 19. Ne4 Qc7 20. b4
+$1 cxb4 $2 {In my opinion, this is Black's only significant mistake after move
+5. He should play 20. ... b6. The text move opens some lines, but in a really
+good way for White.} 21. axb4 b6 (21... Nxc3 22. Nc5+) 22. Bd2 Rf7 23. c4 {
+The "creeping forward" strategy begins. Black's pieces struggle to find safe
+squares.} Nf6 24. Bc3 Ke7 (24... Nxe4 25. Bxe4 {and White's bishops dominate
+the board. With no open files, Black's rooks are almost useless.}) 25. Be5 Qd7
+26. Nd6 Rd8 {[#]} (26... Qxd6 27. Bxd6+ Kxd6 28. Ra6 {will win a second pawn
+after R1a1 and c5+.}) 27. Nxf7 $6 {Oh, no! I violated principle 4, "Don't cash
+in too soon!" Better was 27. b5, continuing to build my advantage. There is no
+hurry to win Black's pitiful rook.} Kxf7 28. d4 Kg6 {David said that he felt
+as if his position was lost after move 24 and he was now just playing to
+confuse me. A better way to confuse the issue might have been 28. ... b5.} 29.
+g4 Rc8 30. c5 Qb5 (30... Nd5 31. Be4+ Kf7 32. f5) 31. Rxa7 Qd3 (31... Qxb4 $2
+32. Be4+ Nxe4 33. Rxg7# {would be a picturesque conclusion.}) 32. h4 h5 33. g5
+Ne8 ({The most attractive finish would have been} 33... Ng4 {when White wins
+with the beautiful sweeper-sealer} 34. f5+ $1 {This dual-purpose move seals
+the square f5 so that Rxg7 mate is threatened. It also opens the diagonal of
+the bishop on e5 so that it defends g3 -- an important point after.} Kh7 (34...
+Kxf5 35. Be2+) 35. Rxg7+ Kh8 36. Bxg4 hxg4 37. Rg6+ Kh7 38. Rh6+ Kg8 39. fxe6
+Qe3+ 40. Rf2) 34. Kg2 b5 35. Re1 {Mate is threatened, so Black has to give up
+his queen.} Kf5 {[#]} 36. Be4+ ({JS It seems a little sad to cash in this way
+and indeed Rf8 was totally winning though White does have to be a little
+careful.} 36. Rf7+ Kg6 37. Rf8 Nd6 38. Bxd6 ({Not} 38. cxd6 $2 Rc2+ 39. Kg3 $2
+Rc3 {and Black wins!}) 38... Rxf8 {and either Be4+ or simply Bxf8}) 36... Qxe4+
+37. Rxe4 {Thirty-one moves after sacrificing my queen, I win it back, with
+interest.} Kxe4 38. Ra5 Nc7 39. Bxg7 Kxf4 40. Be5+ Kg4 41. g6 Kxh4 42. g7 Rg8
+43. Ra7 (43. Bxc7 $2 Rxg7+) 43... Nd5 44. Rf7 Ne3+ 45. Kf3 Ng4 46. c6 {[#] JS
+What a lovely game! The queen is the most powerful piece on the chessboard but
+only effective if she has something to attack. Here Dana defended all of his
+pieces and left her looking singularly useless.} 1-0
+
+[Event "Western States Open"]
+[Site "?"]
+[Date "2014.10.19"]
+[Round "?"]
+[White "Mackenzie, Dana"]
+[Black "Kudrin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[WhiteElo "2164"]
+[BlackElo "2608"]
+[Annotator "Mackenzie,Dana"]
+[PlyCount "94"]
+[EventDate "2014.??.??"]
+[SourceVersionDate "2015.07.13"]
+
+{[%evp 0,101,36,26,52,10,10,-17,-27,-27,-35,-80,-65,-129,-107,-94,-94,-94,-104,
+-112,-116,-124,-72,-125,-23,-16,-16,1,-4,-147,-101,-102,-87,-89,-82,-87,-88,
+-121,-112,-117,-124,-91,-72,-70,-69,-74,-102,-98,-98,-104,-72,-91,-42,-115,-90,
+-74,-42,-67,-44,-67,-26,-46,-64,-65,-58,-66,-58,-59,-58,-61,-54,-61,-61,-64,
+-55,-61,10,-62,-46,-46,0,0,0,0,0,0,22,57,65,61,56,56,64,64,73,94,147,145,143,
+147,584,584,29999,-30000] Eight years after the game against Pruess, I got my
+next opportunity to play the Bryntse queen sacrifice. The situation was almost
+identical: Same tournament, same round (the last round), and again a match
+against a titled player (this time a GM instead of an IM).} 1. e4 c5 2. f4 d5
+3. Nf3 dxe4 4. Ng5 Nf6 5. Bc4 Bg4 6. Qxg4 Nxg4 7. Bxf7+ Kd7 8. Be6+ Kc6 9. Bxg4
+e6 10. Nc3 Nd7 {[#]} 11. Ncxe4 ({Rybka says} 11. Bxe6 {is equal but after, say,
+} Nf6 12. Nf7 (12. Ngxe4 Nxe4 13. Nxe4 Qe7 14. f5 Qh4+ 15. Nf2 Bd6 {is great
+for Black}) 12... Qe7 13. Ne5+ Kd6 14. Bc4 a6 {it feels as if White has lost
+the thread. In general it is better to win the e4 pawn and blockade the e6
+pawn than the other way around!}) (11. d3 h6 12. Ngxe4 Qh4+ 13. Nf2 Re8 {
+also seems inaccurate for White.}) 11... Nf6 12. Bf3 Nxe4 13. Bxe4+ (13. Nxe4 {
+is also possible but I liked the check better because it forces Black to spend
+time on an awkward king move, 13. ... Kb6.}) 13... Kb6 14. d3 Qe8 15. Be3 Kc7
+16. O-O h6 17. Nf3 Bd6 18. Rae1 ({Here was a good opportunity to play more
+dynamically with} 18. d4 $1 cxd4 19. Bxd4 Bxf4 20. g3 Bd6 21. Ne5 Rf8 22. Rxf8
+Qxf8 23. Rf1 Qe8 24. Rf7+) 18... Rd8 ({Black is not tempted by the naked pawn
+grab} 18... Qa4 {. It is worse than pointless after} 19. d4) (18... g5 $5 {
+would have been an excellent way for Black to create counterplay:} 19. fxg5 $6
+hxg5 20. Bxg5 Qh5 21. h4 Bg3 {and White is really tied up. But GM Kudrin was,
+I think, more interested in making calm consolidating moves and did not
+perceive any need to stir up the pot.}) 19. g3 Kb8 {So far I think that GM
+Kudrin's play has been exemplary. He has finished his development and castled
+by hand.} 20. Bd2 {Repositioning to take control of the e5 square.} Qe7 21. Bc3
+Rhf8 22. Ne5 Bxe5 23. Bxe5+ Ka8 {[#] Which do you like better: White's bishops
+or Black's rooks? JS: Houdini is clearly a fan of rooks and gives this as
+almost a pawn to Black - 0, 98. Interestingly Fritz 15 gives it as just -.26
+after 24 h4 and Komodo 10 gives h4 as -0.6. One important lesson is that these
+assessments are just all numbers and you shouldn't take too much notice of
+them unless they become really definite.} 24. Bg6 $6 {Missing a tactical shot.
+Perhaps 24. c3 was better, but I was focused on keeping Black's rooks bottled
+up.} Rd7 ({GM Kudrin misses his one chance for a clear advantage.} 24... c4 $1
+25. d4 Qb4 26. b3 cxb3 27. axb3 Rxd4 $1 28. Bxd4 Qxd4+ {and White is, at best,
+fighting for a draw.}) 25. Re4 a6 {Black takes care of his back-rank problem.}
+({If} 25... Rf6 {I was going to play} 26. Bxf6 Qxf6 27. f5 {and Black's back
+rank is really sensitive, e.g.} exf5 28. Rxf5 $1) 26. h4 Qd8 27. a4 Rf6 28. h5
+{Now I am no longer interested in taking the rook. This move keeps Black
+bottled up.} Qb6 ({I was hoping for} 28... Rxg6 29. hxg6 Qe8 30. f5 exf5 31.
+Rxf5 Qxg6 32. Rf8+ Ka7 33. Bb8+ Kb6 34. Rfe8 {and Black is in deep trouble.})
+29. Kg2 Rd4 30. b3 $1 {Probably my favorite move of the game (except for move
+6, of course)! GM Kudrin is desperately trying to give his rooks away, but I
+won't bite. Again, remember the principles of playing the Bryntse Variation:
+Don't cash in too soon.} Rxe4 31. Bxe4 Rf7 32. Bc3 Qd8 33. Re1 Rd7 34. Bf3 Re7
+{It becomes clear that White is still the one with the initiative. 28 moves
+since the queen sacrifice, and counting.} 35. Re5 Qd6 36. Bb2 Rc7 ({Maybe
+Black has to try something crazy like} 36... c4 $5 37. dxc4 Qd2+ 38. Re2 Qd1 {
+But I think White is still doing fine after 39.f5.}) 37. Re4 Re7 {[#]} 38. Re5
+$6 {An interesting moment psychologically. Because of the tournament situation,
+Kudrin has to play for a win and cannot allow a threefold repetition. So he is
+"forced" to play something different from 38...Rc7.} ({If it weren't for
+the psychology, a much stronger move for me would have been} 38. Be5 $1 {
+which basically forces the win of a pawn. For example,} Qb6 39. Rc4 Qa5 40. b4
+Qxa4 (40... cxb4 41. Rc8+ Ka7 42. Bd4+) 41. bxc5 Qb5 {JS This is a mistake
+though e.g.} (41... Qa2 42. c6 {is of course absolutely fine for White at the
+very worst.}) 42. c6 {and Black is in desperate straits.}) 38... a5 39. Bc3 Ka7
+$2 {After 39...Qb6 it's still a fight. I think that more than thirty moves
+of constant defense, plus time pressure, finally got the better of Kudrin.} 40.
+Bxa5 Qd4 {Time control reached. You can see why Kudrin decided to give up his
+a-pawn -- his queen is now active and his king is mostly out of danger of
+checkmate. But not completely, as we'll see!} 41. Be1 b6 42. a5 $1 {I really
+thought the game was over now. If 42...bxa5 43.Bf2 is lights out.} Qb2 43.
+axb6+ (43. Bf2 Rc7 {transposes to the game.}) (43. b4 bxa5 44. Bf2 Kb8 {
+(Rybka) is so complicated that it probably defies human comprehension.}) 43...
+Kxb6 44. Bf2 Rc7 (44... Qxc2 45. b4 {is winning for White.}) 45. Rxe6+ Kb5 46.
+Re2 Qa1 47. Be1 (47. Re4 Qc1 48. Rc4 {with the idea of 49...b4 was
+suggested after the game. It's tough for Black to deal with White's armada of
+three pawns.}) 47... Qf6 (47... Qf6 {[#] Here Kudrin offered a draw and I
+accepted -- in a completely winning position! Argh! This would have been my
+first win ever over a GM, and a fitting sequel to the Pruess game. Why did I
+accept? Because a draw would clinch the under-2300 prize for me (a very nice
+chunk of money). Because I did not grasp how strong 48.c4+ was. Because my
+emotions got the better of me. Because I was worried about getting into time
+trouble and messing up the endgame. I accepted the draw in the full knowledge
+that I was taking the easy way out, and this game would forever be "what might
+have been." It was a moment of cowardice, and very appropriate for the Agony
+column. Here's how the game could have ended: JS It's a real shame that Dana
+didn't find the nerve to refuse the draw. But draw offers do change the
+dynamic of the battle and if he'd refused and failed to see c4+ and b4 then he
+could have got into trouble later by feeling that he had to press or
+regretting refusing the offer.} 48. c4+ Kb6 (48... Ka6 49. Ra2+ Kb6 50. Ba5+
+Ka7 51. Bxc7+) 49. b4 $1 cxb4 50. Bf2+ Ka5 (50... Rc5 51. Re5) 51. Ra2# {
+Kudrin's only comment after the game was: "Two bishops, very strong."}) ({
+Houdini still claims that Qb1 is okay for Black} 47... Qb1) 1/2-1/2
+

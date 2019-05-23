@@ -1,0 +1,125 @@
+[Event "Moscow FIDE GP"]
+[Site "?"]
+[Date "2019.05.20"]
+[Round "2"]
+[White "Nakamura, H.."]
+[Black "Dubov, D.."]
+[Result "1/2-1/2"]
+[ECO "D33"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "55"]
+[EventDate "2019.05.21"]
+
+1. c4 Nf6 {Obviously it is a matter of taste, but normally if people want to
+play a Symmetrical English structure they would do it immediately: ...c5, so
+as to keep the option of ...Ne7 open in the case of a kingside fianchetto.
+However, Dubov really does not mind Tarrasch-related move orders, because
+that's what he wants to play.} 2. Nc3 c5 3. g3 e6 4. Nf3 d5 (4... b6 {is
+actually a more common move, so terrible is the reputation of the Tarrasch
+these days. Now, we are quite likely to get a Hedgehog structure, though
+nothing is for sure yet. On the White side Dubov went} 5. Bg2 Bb7 6. O-O Be7 7.
+d3 $5 d5 8. Ne5 O-O 9. d4 $5 {but this originality did not correspond to an
+advantage.} Nbd7 10. cxd5 Nxd5 11. Nxd5 exd5 12. Ng4 Nf6 13. Ne3 Qd7 $11 {
+Dubov,D-Yu,Y St Petersburg 2018}) 5. cxd5 exd5 6. d4 Nc6 7. Bg2 cxd4 (7... Be7
+8. O-O O-O 9. Bg5 {is the old main line- 9.dxc5 is also possible- but now
+everyone has moved over to meeting it with Ntirlis'} c4 {which I believe gives
+equality.}) 8. Nxd4 Bc5 $5 {This move is uncommon, because it offers either
+the bishop-pair or a pawn.} (8... Be7 9. O-O O-O 10. Bf4 Bg4 {is the main line,
+and noteworthy is the following bit of -presumably-preparation from a top
+French player:} 11. h3 Bh5 12. Nf5 d4 13. Nb5 Bc5 14. Rc1 Bb6 15. Nfd6 $5 {
+Double-edged, but it seems not to work so well. Maybe the same idea works with
+g4 inserted?} Qd7 16. Nxb7 Nb4 17. Qa4 Nbd5 18. Nc5 Bxc5 19. Rxc5 Nxf4 20. gxf4
+Bxe2 $1 {This is the point, and White is in deep trouble.} 21. Qxd4 Bxb5 22.
+Qxd7 Bxd7 23. Bxa8 Rxa8 $17 {Le Roux,J-Edouard,R Warsaw 2012}) 9. Nb3 Bb6 10.
+O-O ({Perhaps, if Nakamura had guessed at the absurd depth of his opponent's
+preparation, he would have instead opted for the simplifying} 10. Nxd5 Be6 $1 (
+10... Nxd5 $6 11. Qxd5 Qxd5 (11... Be6 12. Qxd8+ Rxd8 {and now even} 13. Be3 $5
+$14) 12. Bxd5 $14 {The computer is fine with this, but doesn't show anything
+especially convincing.}) 11. Nc3 $5 (11. Nxb6 Qxd1+ 12. Kxd1 axb6 13. Bxc6+ (
+13. Nd2 O-O 14. Bxc6 bxc6 15. b3 $11 {Black has reasonable compensation, but
+should take care to recoup the pawn as fast as possible, because the
+compensation won't last forever.}) 13... bxc6 14. Kc2 Bf5+ 15. Kd1 $11 {
+Likely draw by repetition.}) (11. e4 $5 {This is most principled, but the
+light squares are weakened a bit.} Bg4 12. Qc2 (12. Qd2 Nxd5 13. Qxd5 Qf6 14.
+O-O O-O $44 {Black's compensation takes on a long-term nature due to ideas
+like ...Ne5-f3 which can recur in many lines.}) 12... Rc8 $5 (12... Nxd5 13.
+exd5 Ne5 14. O-O O-O 15. Qc3 Re8 16. Be3 Rc8 17. Bxb6 Qxb6 18. Qd4 Qxd4 19.
+Nxd4 Rc4 20. Nb3 $14) 13. O-O Nb4 14. Qd2 Nbxd5 15. exd5 O-O $44 {White still
+has a lot of untangling to do.}) 11... Qe7 12. Bf4 Rd8 13. Qc1 Nb4 $1 (13...
+Bxb3 14. Bxc6+ bxc6 15. axb3 h6 16. Be3 O-O $14 {White should be slightly
+better here.}) 14. O-O O-O {Black is clinging on for compensation here.}) (10.
+Bg5 $6 Bxf2+ 11. Kxf2 Ng4+ 12. Ke1 Qxg5 13. Qxd5 Qe3 14. Qc5 Nce5 $11 {is
+strategically undesirable for White}) 10... d4 11. Na4 O-O 12. Bg5 Re8 (12...
+h6 13. Bxf6 Qxf6 14. Nxb6 axb6 15. Bxc6 bxc6 16. Qxd4 $14 {is known, and not
+considered especially promising.}) 13. Nxb6 axb6 14. e3 {The most principled,
+and definitely still within Dubov's preparation. At some point- now, or in the
+next 5 moves- he was at 1:35, i.e. a gain of 5 minutes!} (14. Bxc6 bxc6 15.
+Qxd4 Qxd4 16. Nxd4 c5 $1 {The position is extremely tricky, but it seems that
+White has no concrete way to make any of the back-rank/knight-fork tricks work,
+for instance after} 17. Nb5 Rxe2 18. Rfe1 Rxa2 $1 19. Bxf6 gxf6 20. Nc3 Rxe1+
+21. Rxe1 Ra8 $11 {it could even be White who needs to demonstrate a bit more
+care.}) 14... d3 $5 ({One does not prepare such lines just to play} 14... dxe3
+{although in theory it could be okay, e.g.} 15. Bxe3 Bd7 16. Re1 h6 $132 {
+with ideas like ...Ng4 or ...Re5-h5.}) 15. Bxf6 gxf6 (15... Qxf6 16. Qxd3 Qxb2
+17. Rfb1 Qf6 18. Nd4 {is also playable, but I would tend to believe the engine
+verdict that White is slightly better. In practice what this means is that
+Black will be lucky to trade off the queenside pawns in the ending that is
+almost certainly coming.} Nxd4 19. Qxd4 Qxd4 20. exd4 Rd8 $14 {At a minimum,
+White needs to play a3 before going for the ending with an extra a-pawn, but
+it may be possible to arrange this, since Black needs many moves (like ...Rd6,
+...Ra7, ...Kf8, ...Bd7, ...b5) to obtain a solid structure.}) 16. a3 {This is
+the move which Yuffa & Miroshnichenko expected would be played. White is not
+able to play (not knowing the position) anything maximalist- for mate, or for
+the win of the d3-pawn- so instead he just brings the rook to c3.} (16. Qh5 Re5
+17. Qh4 $13 {If White has an advantage against this system it is likely to be
+with moves like these, but personally it seems to me like ...b5 and ...Ra4!?
+is an adequate counter.}) 16... Be6 $1 {Still preparation.} ({It was possible
+to play similar ideas after} 16... Bf5 17. Rc1 Rc8 {but maybe it is relevant
+that Nd4 would be a 'real' tempo on the f5-bishop in that case.}) 17. Rc1 Rc8
+18. Rc3 (18. Bxc6 $5 {Again this is a somewhat critical continuation.} Rxc6 (
+18... bxc6 $2 19. Rc3 c5 20. Rxd3 Qe7 21. Nc1 $16) 19. Nd4 Bh3 $5 {is a useful
+tactical resource to know about. I was considering the mate attempts like} (
+19... Rxc1 20. Qxc1 Qd5 21. Rd1 $14) 20. Qh5 $2 {but every single one of them
+fails for some funny reason. Here, that reason is} (20. Qxd3 Qd5 21. f3 Bxf1
+22. Rxf1 Rec8 $15 {It seems like Black is a bit better here, if nothing else
+because he alone has the right to equalise the material when he feels like it.}
+) 20... Rxc1 21. Rxc1 d2 $1 22. Rd1 Qxd4 $3 23. Qxh3 Rxe3 $3 {and White is
+totally lost.}) 18... Ne5 19. Nd4 Rxc3 20. bxc3 {Here, it seems preparation
+ended and Dubov had to decide which square to place his queen on. The
+alternatives like ...Bd5 don't work so well.} Qc7 $5 (20... Bg4 21. f3 Bh5 22.
+g4 Bg6 23. e4 $14 {You would be hard-pressed to find a Russian player who
+willingly took on a bishop as classically bad as the one on g6. Indeed, this
+will usually lead to bad endings where Black has to sacrifice it for 2 or (if
+lucky) 3 pawns.}) (20... Qe7 21. Qd2 Ra8 $132 {seems valid too, with similar
+play to the game.}) (20... Bd5 21. e4 (21. Re1 $1 $14 {is the odd computer
+suggestion for an edge}) 21... Bc4 22. Qh5 b5 $13 {This is an interesting way
+in which Black could have played directly for a win if he'd had further
+analysis after move 20.}) 21. Qd2 Bd7 (21... Qc4 22. Bxb7 Bd5 23. Bxd5 Qxd5 24.
+Qd1 Qe4 $13 {This is a perfectly decent pawn sacrifice, but if the tricks fail
+Black will really suffer.}) 22. Re1 {White lacks an improving move, since he'd
+like to play both Rb1 and Bxb7 in one move each in the event of pawn trades,
+but h4 is too weakening and nothing else can move.} (22. Be4 Qc5 $11) (22. Rc1
+Qc5 23. Bxb7 Qxa3 24. Rb1 Rb8 25. Be4 Rc8 26. Bxd3 Nxd3 27. Qxd3 Rxc3 28. Qd2
+Rd3 29. Qe2 Rc3 30. h4 $132 {Maybe this kind of thing is the best try if White
+really wants to win.}) 22... Rc8 23. Rc1 Qc5 24. f4 Nc4 25. Qxd3 Qxa3 26. Rb1
+Nd6 ({I wondered about going after c3 directly with} 26... Nb2 $5 {but the
+computer indicates that} 27. Nb5 $1 Nxd3 28. Nxa3 Rxc3 29. Nb5 Bxb5 30. Rxb5 {
+is fine for White. Still, maybe there was a way for Black to get in a few more
+moves of chess here if he can activate the king while giving up only one of
+the b-pawns.}) 27. Ne2 $2 ({The position is such that White should be
+proactively repeating moves before Black gets something like ....b5 in.} 27.
+Rb3 Qc5 $5 28. h3 {Now to try and win the c3-pawn Black has to play his bishop
+out first with} Ba4 $5 {but here} 29. Rb4 b5 30. Ne2 $1 $11 {is an option.})
+27... Bf5 $6 {A forgiving move, but to be honest Black's preparation had
+succeeded anyway.} (27... Bg4 $1 {Black has great winning chances after this
+move, because of the co-ordination of queen and knight. Probably White should
+give up a pawn and grovel.} 28. h3 (28. Rxb6 $6 Bxe2 29. Qxe2 (29. Qxd6 $2 Qc1+
+30. Kf2 Qc2 $1 $19 {For me, this move is a non-obvious detail at a distance of
+3 moves.}) 29... Rxc3 $17 {Black's co-ordination is superb and he wins at
+least a pawn by force.}) 28... Bxe2 29. Qxe2 Rxc3 30. Qb2 $1 b5 31. Qxa3 Rxa3
+32. e4 $1 {Black can ask a few more tricky questions here, and the
+time-pressure could also play a factor, though the position should really be a
+draw, e.g.} Rxg3 33. Kf2 Ra3 34. e5 Ra2+ 35. Kg1 fxe5 36. fxe5 Nc4 37. Rxb5 Ra5
+38. Rxb7 Nxe5 $15 {and Black can play this for a while}) 28. e4 {With a
+sensible draw offer- probably Black would play ...Qc5+ and ...Be6 in case it
+wasn't made.} 1/2-1/2

@@ -1,0 +1,50 @@
+[Event "28th Czech Open E 2018"]
+[Site "Pardubice CZE"]
+[Date "2018.07.15"]
+[Round "6.1"]
+[White "Starek, Stanislav"]
+[Black "Konopka, M."]
+[Result "1/2-1/2"]
+[ECO "D93"]
+[WhiteElo "2179"]
+[BlackElo "2359"]
+[Annotator "Karsten Müller"]
+[SetUp "1"]
+[FEN "8/3k4/8/p2p1p2/P7/4P3/3K4/8 b - - 0 77"]
+[PlyCount "19"]
+[EventDate "2018.07.12"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "CZE"]
+[SourceTitle "994"]
+[Source "Mark Crowther"]
+[SourceDate "2018.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.07.30"]
+[SourceQuality "2"]
+[WhiteTeam "KS 1925 RICANY A (MCR)"]
+[BlackTeam "SK ZIKUDA TURNOV A (MCR)"]
+
+77... Kd6 {Pawn endings are more often decided than other endgames. They
+require precise play and good theoretical knowledge.} {[%tqu "En","White to
+play and draw","","","d2c2","",3,"d2d3","",0,"d2c3","",0,"De","Weiß zieht und
+hält remis","","","d2c2","",3,"d2d3","",0,"d2c3","",0]} 78. Kc2 $1 {White has
+to avoid the no-go squares d3 and c3:} (78. Kd3 $2 {is countered by} Ke5 79.
+Kd2 Ke4 80. Ke2 d4 81. exd4 Kxd4 82. Kf3 Kc3 $19) ({and after} 78. Kc3 $2 {
+Black has} Kc5 79. Kd3 Kb4 80. Kd4 Kxa4 81. Kxd5 Kb4 82. Ke5 a4 83. Kxf5 a3 $19
+) 78... Kc6 {The alternatives do not help, e.g.} (78... d4 79. exd4 Kd5 80. Kd3
+{transposes to the game.}) (78... Ke5 79. Kd3 Kf6 80. Kd4 Ke6 81. Kc3 $1 $11) (
+78... Kc5 79. Kc3 $11) 79. Kd3 Kc5 80. Kc3 d4+ $5 {A last try.} 81. exd4+ Kd5
+82. Kd3 f4 83. Ke2 $1 (83. Kc3 $2 Ke4 84. d5 Kxd5 85. Kd3 Kc5 $19) 83... Kxd4
+84. Kf3 Ke5 85. Kf2 Ke4 86. Ke2 $1 {[%cal Ga4c2,Gc2h7] White draws according
+to Bähr's rule because Black's passed pawn crossed the diagonal c2-h7. When
+the kings stand as they do here the rule is: with blocked outside pawns and a
+passed pawn that is on the d-, e-, f-, g- or h-file and has not crossed the
+middle of the board the diagonal is drawn from the outside pawn of the
+defender to one's own c-file and then the diagonal is drawn towards the
+attacker's back rank. If the passed pawn crossed this diagonal - as in this
+example - the position is drawn, otherweise it is won (if, e.g., the pawn
+would be on f5 and the kings on e3 and e5 the position would be won for Black).
+} Kd4 (86... Kd4 87. Kf3 Kc4 88. Kxf4 Kb4 89. Ke3 Kxa4 90. Kd2 Kb3 91. Kc1 $11)
+1/2-1/2
+

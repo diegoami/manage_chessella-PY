@@ -1,0 +1,69 @@
+[Event "Varsity Match"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "?"]
+[White "Hou, Y."]
+[Black "Wadsworth, M."]
+[Result "1/2-1/2"]
+[WhiteElo "2662"]
+[BlackElo "2396"]
+[Annotator "DF"]
+[PlyCount "83"]
+[EventDate "2019.03.05"]
+
+{[%evp 0,83,19,31,40,41,41,40,29,31,26,39,72,87,88,70,59,53,53,37,53,37,11,0,
+-5,-4,52,21,7,0,30,24,34,0,19,-1,35,19,48,24,46,20,7,-22,-11,-27,-27,-27,-31,
+-21,-20,-17,-18,-37,8,16,15,18,18,13,10,12,10,0,0,-13,-14,-37,-36,-36,-26,-25,
+-25,-26,-24,-19,-17,-17,-17,-19,-20,-20,-18,-18,-18,-18]} 1. e4 c5 2. Nf3 e6 3.
+d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Be2 {One of several significant
+moves, but perhaps not the most poisonous.} (7. Qf3 {could be the most
+positional approach: the queen is typically headed for g3, whereupon it will
+be exchanged and White will try for a small endgame edge. Black has a few
+ambitious options though, including the} Nf6 8. O-O-O Ne5 9. Qg3 b5 10. f4 Neg4
+11. Bg1 h5 $13 {of Karjakin,S-Caruana,F London 2017}) (7. Qd2 {is the only
+move I've annotated a game in before: see Radjabov-Rapport, Tata Steel 2019
+for 7...b5, Carlsen-Matlakov, Tata Steel 2018 for 7..Nf6 8.f4, or Das-Adhiban,
+Reykjavik 2018 for 7...Nf6 8.0-0-0. Having looked at the line fairly
+extensively I think 7...b5 is very playable.}) (7. Bd3 Nf6 8. O-O {Now Black
+has a move which is both principled (exploiting the placement of White's
+light-squared bishop) and cynical (somewhat simplistic for a Sicilian.)} Nxd4
+$5 {(There is also ...Ne5, as you would expect.)} 9. Bxd4 Bc5 {As played by,
+for instance, Svidler.} 10. Bxc5 (10. Be2 d6 11. Qd2 Bxd4 12. Qxd4 e5 13. Qb4
+Be6 14. Rad1 Ke7 $11) (10. Bxf6 gxf6 11. Qg4 Qe5 $13) 10... Qxc5 11. Na4 (11.
+Kh1 d6 12. f4 Bd7 13. Qd2 Bc6 14. Rae1 Rd8 15. e5 dxe5 16. fxe5 Nd7 17. Qf4 O-O
+$11 {Vachier Lagrave,M-Svidler,P Riadh 2017}) 11... Qc7 12. c4 d6 13. Nc3 {
+The question for me is whether White has an advantage in this Maroczy-esque
+position. If not, then 8...Nxd4 is simply alright.}) 7... Nf6 8. O-O Bb4 {
+Best by test.} (8... b5 {This is possible, but Black has to continue in a
+counter-intuitive way.} 9. Nxc6 dxc6 10. f4 Bb7 (10... e5 11. fxe5 Qxe5 12. Bf4
+Qc5+ 13. Kh1 Be6 14. e5 Nd5 15. Nxd5 Bxd5 16. Bd3 $14 {White has a small plus
+due to the greater clarity of his plans.}) 11. e5 Nd5 12. Nxd5 cxd5 {We have
+now a position that does not inspire great confidence, but in fact to prevent
+Black's game from becoming freed White must swap both dark-squared bishops and
+queens, leading to a more or less equal endgame, as in the 3.Nc3 Nf6 4.e5
+French.}) 9. Na4 Be7 (9... Nxe4 10. Nxc6 Qxc6 (10... bxc6 11. Qd4 $18) 11. Nb6
+Rb8 12. Bf3 d5 13. Qd4 $18 {leads to Black getting tied in all kinds of knots:
+there could be mate on d8, a Bf4-type motif, or simply carnage after White
+takes on g7.}) 10. c4 {This move is known but not especially harmful.} (10.
+Nxc6 bxc6 11. Nb6 Rb8 12. Nxc8 Qxc8 13. Bd4 c5 14. Be5 Rb6 {This is the
+'tabiya' of the 7.Be2 Taimanov, in which White has generally been able to
+prove a little something.}) 10... Nxe4 11. c5 O-O 12. g3 Nf6 (12... e5 $5 {
+tries to be better here.} 13. Bf3 $5 (13. Nb3 d5 14. Nb6 Be6 15. Nxd5 Qd7 $36)
+(13. Nf5 d5 $1 {Whichever side ends up material down will have compensation
+for it, e.g.} 14. cxd6 Nxd6 15. Bb6 Qd7 16. Nxe7+ Qxe7 17. Bc5 Rd8 18. Nb6 Rb8
+19. Nc4 Nd4 20. Nxd6 Rxd6 $44) 13... Nxd4 (13... exd4 14. Bf4 d6 15. Bxe4 Be6
+$11) 14. Bxe4 d5 15. Bg2 (15. Bxd5 Bh3 16. Bxd4 Bxf1 17. Qxf1 exd4 18. Qc4 Rad8
+$15) 15... Nf5 $1 16. Nb6 Be6 17. Nxa8 Rxa8 18. b4 Nxe3 19. fxe3 Rd8 $44) 13.
+Nb6 Rb8 14. Rc1 g6 {Black is clearly trying to play ...e5, but this will now
+take more work than previously.} (14... Rd8 $11 {followed by the brazen ...e5
+and ...d5 was still enough to equalise.}) 15. Bg5 Rd8 16. Bf3 h6 17. Bxh6 e5
+18. Nxc6 (18. Nxc8 Qxc8 19. Nxc6 dxc6 20. Qe2 $11) 18... dxc6 19. Qe2 Be6 20.
+Rfe1 Nd7 $1 {Keeping it solid.} 21. b4 Nxb6 22. cxb6 Qxb6 23. Qxe5 Qd4 24. Bf4
+Qxe5 25. Bxe5 Rbc8 26. Bc3 (26. a3 Rd3 27. Rc3 $11 {was now the depressing
+reality of the position.}) 26... Rd3 (26... Bg5 $5 $15) 27. Bg4 Bxg4 28. Rxe7
+Bf3 29. h3 Rcd8 30. Kh2 R3d7 31. Rce1 ({Personally, I would have found} 31.
+Rxd7 Rxd7 32. g4 Rd3 33. Bf6 {worth trying, if nothing else because the plan
+of Bg5-e3 and Kg3 is the only constructive one I can see.}) 31... f5 32. g4
+fxg4 33. Kg3 Rxe7 34. Rxe7 Rd3 35. Re3 Rxe3 36. fxe3 Bd5 37. hxg4 Bxa2 38. Kf4
+Kf7 39. Ke5 Ke7 40. Bd4 Bb1 41. g5 Kd7 42. Bb6 {A good hold by Black- at some
+points he was equalising so well that he might even have been better.} 1/2-1/2

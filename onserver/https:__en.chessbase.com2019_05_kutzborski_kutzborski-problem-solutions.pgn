@@ -1,0 +1,105 @@
+[Event "Memorial Graseman, 1st prize 1988"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dieter Kutzborski"]
+[Black "Problem 1"]
+[Result "*"]
+[Annotator "Satanick Mukhuty"]
+[SetUp "1"]
+[FEN "6n1/1pR1pp1q/1K1k4/1P1PpnN1/2Bp2N1/7r/1B2rP2/5b2 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1988.??.??"]
+[SourceVersionDate "2019.05.06"]
+
+{[#] This is a masterwork on the so called Wurzburg-Plachutta interference
+theme. The key,} 1. Ne3 {(a Plachutta sacrifice) demonstrates the theme.
+Notice how capturing the knight en prise on e3 creates fatal mutual
+interferences: Therefore} e4 {is the optimal continuation for Black, giving
+some room to the king. The mainline continues with} (1... Rhxe3 2. Ne4+ Rxe4 3.
+Ba3#) (1... Rexe3 2. Ba3+ Rxa3 3. Ne4#) ({and of course,} 1... dxe3 {runs into}
+2. Ba3#) (1... Nxe3 2. Ba3#) 2. f4 $1 exf3 3. Ng4 {threat 4.Ba3#} f2 4. Bc1 $1
+{threat 5.Bf4#} e5 5. Ne3 {a second plachutta} e4 6. Ng4 {and now there is no
+defense against a simple a mate-in-two. Why?} Qg7 (6... Rf3 7. Bd2 $1 {
+threatens Bb4# and Black can't defend both f4 & b4}) (6... Rhe3 7. Nxe4+ Rxe4
+8. Ba3#) (6... Ree3 7. Ba3+ Rxa3 8. Nxe4#) ({and of course} 6... Ne3 {is lame,
+simply runs into} 7. Ba3#) 7. Bf4+ Qe5 8. Nxf7# {Watch how the wNg4 performs
+stunning switchbacks (g4 to e3) twice, this is many layers of concealed logic
+unfurling through exciting play - a typical Kutzborski masterpiece!} *
+
+[Event "Schweizerische Schachzeitun, 1st prize"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Dieter Kutzborski"]
+[Black "Problem 2"]
+[Result "*"]
+[Annotator "Satanick Mukhuty"]
+[SetUp "1"]
+[FEN "4k3/r1pp2p1/p7/3B2B1/5R1K/3p3p/3p2pr/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1974.??.??"]
+[SourceVersionDate "2019.05.06"]
+
+{[#] It requires imagination to solve a Kutzborski problem as this brilliant
+example illustrates. Imagine if there was no black pawn on g7 then White could
+have immediately registered mate with 1.Re4+ Kf8 2.Bh6#, but with the bPg7
+what does White do? Well, he prepares to realize just that!} {First,} 1. Rb4 {
+threatening 2.Rb8#, the idea is to push the bRa7 to the last rank. The
+main-line now continues with} Ra8 2. Re4+ Kf8 3. Rf4+ Ke8 4. Bf7+ Kf8 5. Bb3+
+Ke8 6. Bd1 {threat: 7.Bh5+} g6 {and White successfully removes the bPg7} 7. Bb3
+{threat 8.Re4+ Kf8 9.Bh6#} d5 8. Ba4+ c6 9. Bxc6# {and it is with this last
+move that the point behind 1.Rb4! becomes clear, the idea was to deprive the
+7th rank of the black rook's defense. This kind of work in non-linear logic
+isn't uncommon in Kutzborski's rich oeuvre.} *
+
+[Event "Schach-Aktiv, 1st prize 2007"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dieter Kutzborski"]
+[Black "Problem 3"]
+[Result "*"]
+[Annotator "Satanick Mukhuty"]
+[SetUp "1"]
+[FEN "r4b1K/qp2pNn1/8/2PPPp1n/3B1k1p/1R5P/2p4p/1b5B w - - 0 1"]
+[PlyCount "27"]
+[EventDate "2007.??.??"]
+[SourceVersionDate "2019.05.06"]
+
+{[#]} {This is another classy gem. One would like to try 1.Bb2? (threatening
+Bc1#) or 1.e6? (threatening Be5#) but these are refuted by 1...Qa3! & 1...Qa1!
+respectively. The trick lies in first driving the bQ out of the a-file and
+only then Bb2 followed by Bc1# will be the coup de grace! First a few checks
+to bring the white rook to a better square} 1. Be3+ Kg3 2. Bg1+ Kf4 3. Rf3+ Ke4
+4. Rc3+ Kf4 5. Be3+ Kg3 6. Bd4+ Kf4 7. e6 {threatening Be5#} Qb8 {is the only
+move as Qa1 is meaningless now; next, the white rook prepares again to return
+to its initial square:} 8. Be3+ Kg3 9. Bg1+ Kf4 10. Rf3+ Ke4 11. Rb3+ Kf4 12.
+Be3+ Kg3 13. Bd4+ Kf4 {and finally now} 14. Bb2 {works, there is no defense
+against 15. B(x)c1#} *
+
+[Event "Schach-Aktiv, 1st prize"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Dieter Kutzborski and, Hans Peter Rehm"]
+[Black "Problem 4"]
+[Result "*"]
+[Annotator "Satanick Mukhuty"]
+[SetUp "1"]
+[FEN "8/K4BNp/pp6/bp2B1p1/r1pPk1p1/rp6/4PP2/1b6 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1994.??.??"]
+[SourceVersionDate "2019.05.06"]
+
+{[#] Kutzborski is remembered to be a kind-hearted gentleman among his fellow
+colleagues and kin. He co-authored "Logische Phantasien. Herbert Grasemann und
+seine Schachaufgaben" with Wolfang Dittman and Armin Geister and composed
+several problems in collaboration. This is one of his successful
+co-productions with Hans Peter Rehm, another exemplary German composer of
+modern times. When you work through the solution of this problem, do take
+notice of the black pawn on c4 - it is the proverbial Achilles' heel in
+Black's structure.} 1. Ne8 {Threatens 2.Nd6# and forces Bb4, an important
+interference} Bb4 2. Nf6+ Kf5 3. Nh5 {Threat: 4.Ng3#} b2 4. Ng7+ Ke4 5. Be8 {
+Threat: 6.Bd7#} Kd5 6. Kb7 c3 7. Bf7+ Ke4 8. Nh5 c2 {and finally} 9. Nf6+ Kf5
+10. e4# {- a beautiful pawn-mate} *

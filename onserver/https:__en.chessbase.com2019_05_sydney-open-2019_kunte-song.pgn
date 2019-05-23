@@ -1,0 +1,48 @@
+[Event "Sydney International Open"]
+[Site "?"]
+[Date "2019.04.26"]
+[Round "5"]
+[White "Kunte, Abhijit"]
+[Black "Song, Raymond"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2485"]
+[BlackElo "2329"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "87"]
+[EventDate "2019.04.29"]
+
+{[%evp 0,87,28,29,32,-5,24,23,0,7,38,30,31,20,23,20,8,13,20,20,19,12,27,27,28,
+25,25,21,26,38,32,23,30,21,23,-6,-9,-1,-3,2,12,2,13,15,15,17,11,21,26,15,42,0,
+-2,-28,-9,-8,69,75,86,102,86,105,112,85,96,100,120,115,129,150,161,163,171,174,
+271,199,326,326,510,521,670,695,695,694,697,701,708,708,708,708]} 1. Nf3 d5 2.
+g3 g6 3. Bg2 Bg7 4. d4 Nd7 5. O-O Ngf6 6. b3 O-O 7. Bb2 e6 8. c4 b6 {In a few
+moves this setup will end up looking quite passive, and the main place Black
+needs to watch out in the short/ medium-term is the c-file.} 9. Nc3 Bb7 10. Ne5
+Qc8 $6 {In our Facebook conversation, Raymond criticised this move, saying
+that he is almost lost after it, and in fact I agree with his assessment.} (
+10... Ne4 $1 {Black needs to stop marking time and exchange some pieces to
+ease his defensive task.} 11. cxd5 Nxc3 12. Bxc3 Nxe5 13. dxe5 Bxd5 14. Bxd5
+Qxd5 15. Qxd5 exd5 16. Rfd1 $11 {White's position is more pleasant to play,
+but nothing more than that.}) 11. cxd5 {This is the problem: Black is never
+able to arrange ...c5 now, because the hanging pawns are just chronically weak.
+} Nxd5 12. Nxd5 exd5 13. Nd3 a5 14. Rc1 Qd8 15. e3 $16 {Black's position is
+very unpleasant, perhaps at the elite-GM level it could already be considered
+as lost. The rest is one-way traffic to a great extent.} Re8 (15... c5 {
+will never work tactically again, e. g.} 16. Nf4 Nf6 17. Ba3) 16. Qc2 c6 17. b4
+{Maybe this wasn't strictly necessary but it does give Black something extra
+to think about.} axb4 ({After} 17... a4 {we can only assume the intention was
+to go} 18. b5 cxb5 19. Qc7 {and this pattern will be repeated throughout the
+game.}) 18. Nxb4 Re6 19. a4 Ra5 20. Bc3 {Continuing to build pressure.} ({
+Here it wasn't totally stupid to think about} 20. Nxd5 $2 {even though it
+doesn't work right away due to} cxd5 21. Qc7 Qxc7 22. Rxc7 Bc6 {and there's an
+escape for the bishop on a4.}) 20... Qa8 21. Ra1 Re8 22. Rfb1 Ra7 23. Qb3 Rc8
+24. Rd1 Bf8 25. Nd3 Ba6 26. Ne5 $1 Nxe5 27. dxe5 Bc4 28. Qxb6 Bg7 29. a5 Rb7
+30. Qd4 Qa6 ({On} 30... c5 {I am sure White would have at least been tempted
+by the spectacular} 31. Qxc4 dxc4 32. a6 Rb6 33. Bxa8 Rxa8 34. Ra5 {when the
+endgame should be relatively trivial.}) 31. Qd2 Rd8 32. Rdb1 c5 33. Rxb7 Qxb7
+34. Qb2 Qa7 35. Qb6 $1 {To play this, White had to calculate to the end.} (35.
+a6 {is possible, but not as convincing.}) 35... Qxb6 36. axb6 d4 37. exd4 cxd4
+38. b7 dxc3 (38... Bxe5 39. Ra8 Rb8 40. Bxd4 $18) 39. Ra8 c2 40. Rxd8+ Bf8 41.
+Rxf8+ Kg7 42. Rg8+ $1 {A cute move to finish the job and leave White a whole
+rook up.} Kh6 43. h4 c1=Q+ 44. Kh2 1-0

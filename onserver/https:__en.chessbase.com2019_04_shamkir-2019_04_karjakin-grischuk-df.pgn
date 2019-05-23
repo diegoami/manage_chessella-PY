@@ -1,0 +1,42 @@
+[Event "Shamkir Chess"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "4"]
+[White "Karjakin, S.."]
+[Black "Grischuk, A.."]
+[Result "1/2-1/2"]
+[ECO "D79"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "64"]
+[EventDate "2019.04.04"]
+
+{[%evp 0,64,19,29,23,-8,32,23,12,4,18,21,21,7,11,-9,28,26,23,25,33,12,38,-6,11,
+25,34,49,33,37,49,18,18,49,31,21,43,22,36,38,14,-1,-9,8,17,45,45,65,16,7,34,8,
+6,0,1,2,20,17,14,0,0,0,0,0,0,0,0]} 1. Nf3 d5 2. g3 g6 {I've generally thought
+this move-order was good for encouraging White to re-enter symmetry with d4.}
+3. Bg2 Bg7 4. d4 Nf6 5. c4 c6 6. cxd5 cxd5 7. Ne5 (7. O-O O-O 8. Nc3 {leads to
+the position where Black can choose ...e6, ...Nc6 or ...Ne4, in all cases with
+a level position.}) 7... Ne4 8. Nc3 Nxc3 9. bxc3 O-O 10. O-O Nc6 11. Nxc6 bxc6
+12. Qa4 Qb6 13. e4 {White tries to make something happen, breaking the strict
+symmetry. However, there being few open lines as yet, nothing comes of it.} (
+13. Ba3 $5 Qa6 14. Qxa6 Bxa6 {Believe it or not, 8000 people have analysed
+this position on their computers.} 15. Rfb1 (15. Rfe1 f5 (15... Rfe8 $11) 16.
+Bxe7 Rfe8 17. Bc5 Bxe2 18. Bf1 Bxf1 19. Kxf1 Rxe1+ 20. Rxe1 Bf8 21. Re6 (21.
+Rb1 $14) 21... Bxc5 (21... Rc8 $11) 22. dxc5 Rc8 23. Rd6 $1 $16 {Pert,
+N-Hawkins,J Ascot 2014}) 15... Bxe2 {An accurate move.} ({After the symmetrical
+} 15... Rfb8 {Black is a bit worse:} 16. Bxe7 Bxe2 17. Bd6 $14) (15... Bf6 16.
+Bf1 Rfb8 17. Bc5 Bc4 18. e3 Bxf1 19. Kxf1 a5 20. Ke2 $14) 16. Bxe7 Rfe8 17. Rb7
+Ba6 $1 18. Rc7 Rec8 19. Rxc8+ Rxc8 {Now White should accept equality after (e.
+g.) Bf1, because otherwise the e-file will become at least as important as the
+b-file.} 20. Rb1 Re8 21. Bc5 Bd3 $36) 13... Qa6 14. Qb4 dxe4 15. Bxe4 e5 16.
+dxe5 Bxe5 17. Be3 Be6 18. Qc5 Bg7 19. Rfd1 Rad8 20. Rxd8 Rxd8 21. h4 (21. a4 {
+at least seemingly threatens to take a pawn for free.} Bh3 $1 22. Qxc6 (22.
+Qxa7 Qe2 $19) 22... Qxc6 23. Bxc6 Bxc3 24. Rc1 a5 $1 $11 {If you ignore some-
+mostly imaginary- concerns about this pawn being on the wrong coloured square,
+the position is a total draw.}) 21... Qc4 22. Qxc4 Bxc4 23. Bxa7 Bxc3 24. Rc1
+Bd4 25. Bxd4 Rxd4 26. Bxc6 Bxa2 27. Kg2 Bd5+ 28. Bxd5 Rxd5 {An amusing nugget
+is that this game could easily have reproduced the position from
+Topalov-Carlsen. As there, a few unncessary moves were made, possibly because
+the rules demanded a repetition rather than an offered draw?} 29. Rh1 h5 30.
+Rg1 Kg7 31. Rh1 Kg8 32. Rg1 Kg7 1/2-1/2
+

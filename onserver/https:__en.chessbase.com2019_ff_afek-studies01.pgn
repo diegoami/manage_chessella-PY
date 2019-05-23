@@ -1,0 +1,51 @@
+[Event "Zadachy i Etyudy"]
+[Site "?"]
+[Date "2006.12.25"]
+[Round "?"]
+[White "Afek, Yochanan"]
+[Black "White to play and draw"]
+[Result "1/2-1/2"]
+[Annotator "Yochanan Afek"]
+[SetUp "1"]
+[FEN "8/5P1n/6p1/6P1/k5P1/8/1K6/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "2006.??.??"]
+
+{[%evp 0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} {It's a royal race to the
+main scene. Who arrives first?} 1. Kc3 Kb5 2. Kd4 Kc6 3. Ke5 (3. f8=Q $2 {
+is premature.} Nxf8 4. Ke5 Nd7+ $1 5. Ke6 Kc7 6. Ke7 Ne5 7. Ke6 Nxg4 8. Kf7
+Ne5+ 9. Ke6 Nf3 10. Kf6 Nh4 {and Black wins.}) 3... Kd7 (3... Nf8 4. Kf6 Kd6 5.
+Kg7 Ke7 6. Kh6 {draws in a similar fashion to the main line because} Kxf7 {
+is stalemate.}) 4. f8=Q $1 {Just before the gae is closed for good. Promotion
+ot any other piece comes to the same thing.} Nxf8 5. Kf6 Ke8 6. Kg7 Ke7 7. Kh6
+$1 {[#]} Ke6 (7... Kf7 {is stalemate.}) 8. Kg7 Ke7 9. Kh6 {The white king is
+safe in his fortress.} 1/2-1/2
+
+[Event " EG"]
+[Site "?"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "Afek, Yochanan"]
+[Black "White to play and win"]
+[Result "1-0"]
+[Annotator "Yochanan Afek"]
+[SetUp "1"]
+[FEN "k1B1K3/P1p4r/8/8/8/8/8/2R5 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "2012.??.??"]
+
+{[%evp 0,15,358,509,509,507,29243,29954,29955,29956,29957,29958,29959,29960,
+29967,29968,29969,29970]} {Can white maintain his fragile material advantage
+to emerge victorious? Paradoxically white is forced to give away all his
+material advantage in order to secure a win.} 1. Ra1 $1 {First of all, White
+defends his pawn and threatens to disloge the black king, forcing the
+following sequence:} Rh8+ (1... c5 {makes things easier:} 2. Bd7 $18) 2. Kd7
+Rg8 $1 {This innocent looking waiting move sets a devious trap.[#]} 3. Bb7+ $3
+({Avoiding a pair of stalemate pitfalls:} 3. Kxc7 $2 Rxc8+ $1 4. Kxc8 {
+Stalemate!}) ({Or} 3. Ba6 $2 Rg7+ (3... Kxa7 $4 4. Bc4+) 4. Kc6 Rg6+ $1 5. Kxc7
+Rxa6 $1 6. Rxa6 {Stalemate!}) 3... Kxb7 4. a8=Q+ $1 Rxa8 {A well known
+position has been reached where Black is dominated by minimal means.} 5. Rb1+
+Ka6 6. Kc6 $1 Ka7 7. Kxc7 Ka6 8. Ra1+ {White is finally winning the rook by a
+skewer.The final sequence has been published before, but the double sacrifice
+beforehand is original as far as I know.} 1-0
+

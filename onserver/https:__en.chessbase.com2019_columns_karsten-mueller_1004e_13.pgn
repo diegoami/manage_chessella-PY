@@ -1,0 +1,38 @@
+[Event "World Junior U20 Open 2018"]
+[Site "Gebze"]
+[Date "2018.09.15"]
+[Round "11.51"]
+[White "Cadilhac, Igor Tokuichi Kikuc"]
+[Black "Wong, Yinn Long"]
+[Result "*"]
+[ECO "B74"]
+[WhiteElo "2286"]
+[BlackElo "2261"]
+[Annotator "Karsten Mueller"]
+[SetUp "1"]
+[FEN "8/8/4P3/6R1/1b5p/kp1K4/8/8 w - - 0 68"]
+[PlyCount "15"]
+[EventDate "2018.??.??"]
+[SourceTitle "1004"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+68. Rg7 {"Passed pawns have to run" is a good rule of thumb in the endgame.
+But there are exceptions.} {[%tqu "En","Black to play and draw","","","h4h3",
+"",0,"a3a2","",3,"b3b2","",0,"De","Schwarz zieht und hält remis","","","h4h3",
+"",0,"a3a2","",3,"b3b2","",0]} Ka2 {It is the king who should run.} (68... h3
+$2 {Here, the passed pawn should not (yet) run.} 69. Ra7+ Kb2 70. e7 (70. e7 {
+The game was drawn here but White is winning:} Bxe7 (70... h2 71. e8=Q h1=Q 72.
+Qe5+ Kc1 73. Ra1#) 71. Rxe7 h2 72. Re1 {The rook has everything under control
+and Black gets into "zugzwang":} Ka2 73. Rh1 b2 74. Kc2 $18)) ({Neither should
+the other passed storm blindly ahead:} 68... b2 $2 69. Kc2 Ka2 70. Ra7+ Ba3 71.
+Rb7 (71. Rxa3+ $2 Kxa3 72. e7 Ka2 73. e8=Q b1=Q+ 74. Kd2 $11) 71... h3 72.
+Rxb2+ Bxb2 73. e7 h2 74. e8=Q h1=Q 75. Qa4+ Ba3 76. Qb3+ Ka1 77. Qxa3#) 69. Kc4
+(69. e7 b2 70. Rg2 Bxe7 71. Rxb2+ Kxb2 72. Ke2 $11) (69. Ra7+ Ba3 70. e7 b2 71.
+Rb7 Bxe7) {Now, the b-pawn is ready to go:} 69... b2 (69... h3 $2 70. Kxb4 b2
+71. Ra7+ Kb1 72. e7 h2 73. e8=Q h1=Q 74. Qg6+ Kc1 75. Rc7+ Kd2 76. Qg5+ Ke2 77.
+Re7+ Kd1 78. Qg4+ Kd2 79. Qe2+ $18) 70. Rg1 (70. Ra7+ Ba3 71. e7 b1=Q 72. e8=Q
+Qb3+ 73. Kd4 Qb6+ 74. Kc3 Qxa7 75. Qe6+ $11) 70... h3 ({Even} 70... b1=Q {
+is playable:} 71. Rxb1 Kxb1 72. Kxb4 h3 73. e7 h2 74. e8=Q h1=Q $11) 71. Kxb4
+h2 72. Rh1 b1=Q+ 73. Rxb1 Kxb1 74. e7 h1=Q 75. e8=Q $11 *
+

@@ -1,0 +1,92 @@
+[Event "CCRL 40/40"]
+[Site "CCRL"]
+[Date "2018.12.21"]
+[Round "134.3"]
+[White "Komodo 12.3 MCTS 64-bit 4CPU"]
+[Black "Stockfish 10 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "B48"]
+[WhiteElo "3295"]
+[BlackElo "3464"]
+[Annotator "Platz"]
+[PlyCount "127"]
+[EventDate "2018.??.??"]
+
+{The following game of the "giants" Komodo 12.3 MCTS and Stockfish 10 shows
+computer chess at the highest level:} 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6
+5. Nc3 Qc7 (5... a6 6. Be2 Qc7 {
+is also played and often means only a transposition of moves.}) 6. Be3 (6. Ndb5
+{loses time after} Qb8 {, because the knight will soon be driven away by a7-a6.
+}) 6... a6 7. Qd2 Nf6 8. O-O-O Bb4 {Pinning Nc3 and threatening 9. ..Nxe4} (
+8... Be7 9. f3 O-O 10. g4 b5 11. g5 Ne8 12. h4 Ne5 13. Kb1 Bb7 14. h5 Rc8 15.
+Qg2 $13 {Karjakin - Morozevich (Wijk aan Zee 2009). You'll find this
+interesting game in the Mega Database annotaded by Sergey Karjakin himself.})
+9. f3 Ne5 10. g4 O-O (10... h6 $5) (10... Bxc3 $5) 11. g5 Nh5 12. Kb1 Rb8 13.
+Qe1 Bxc3 {Black waited with this exchange until White had moved his queen in
+order to gain a tempo.} 14. Qxc3 (14. bxc3 $2 b5 {is better for Black.}) 14...
+Qxc3 15. bxc3 b5 16. Bc1 Re8 17. Nb3 g6 (17... Nxf3 $2 18. Be2 $1 $18) 18. Be2
+Nc4 19. Rhe1 Rb6 20. Ka1 Rc6 21. h4 f6 22. Bf1 $1 (22. gxf6 Nxf6 {this only places the black knight on a better square. By playing 22.Bf1! Komodo is planning
+a positional pawn sacrifice, as we shall see soon.}) 22... Ne5 {
+Now two white pawns are attacked at the same time: c3 and f3.} 23. gxf6 (23.
+Nd4 $5 Rxc3 24. gxf6 Nxf3 (24... Nxf6 $2 25. Bb2 Rc4 26. Nxb5 $1 Nxf3 27. Nd6
+Nxe1 28. Bxc4 Nxc2+ 29. Kb1 Ne3 30. Rc1 Nxc4 31. Rxc4 Rf8 32. Bxf6 Rxf6 33.
+Rxc8+ $18) (24... Rc7 $5 25. Ba3 $1 $11 Nxf6 $2 26. Bd6 $18) 25. Kb2 $1 Nxe1
+26. Kxc3 e5 27. Nxb5 $1 axb5 28. Rxe1 Nxf6 29. Bxb5 Bb7 30. Kd3 Ra8 31. a4 $14)
+23... Nxf3 $1 (23... Nxf6 $6 24. Na5 Rc7 25. Bf4 d6 26. Rxd6 Nxf3 27. Re3 Nxh4
+28. Bg5 $1 Nd5 $1 29. Rg3 ({this is better than} 29. exd5 Nf5) 29... Nxc3 30.
+Bd3 $1 {Nh4 has no safe retreat now, and one of the two black knights is lost.}
+) 24. f7+ $1 {A nice intermediate move, forcing the black king to take f7
+which is an unfavourable square for him. The f6-pawn would have been lost
+anyway.} (24. Re3 Ne5 25. Na5 Rb6 26. Ba3 Nxf6 27. Bc5 Rb8 28. Bd6 Neg4 $1 $13)
+24... Kxf7 25. Re3 Nh2 (25... Ne5 26. Na5 Rc7 27. Be2 Nf6 28. Ba3 Neg4 29. Bxg4
+Nxg4 30. Rf3+ Kg7 (30... Kg8 31. Bd6 Ra7 32. Rdf1 Ra8 $44) 31. Bd6 Ra7 32. Bc5
+Ra8 33. Nb7 $1 Bxb7 34. Rxd7+ Kh6 35. Rff7 Rh8 36. Rxb7 {
+looks unpleasent for Black.}) 26. Na5 {All three knights are now on the edges
+of the board, and that under the responsibility of two Elo giants!} Rc7 27. Bh3
+$1 {Nh2 has no safe retreat now. White is threatening 28.Rh1 or Rd2.} Nf4 (
+27... Nf6 $2 28. Re2 Nhg4 (28... Nf3 $2 29. Rf1 Rxc3 30. Bb2 Nd4 31. Bxc3 Nxe2
+32. Rxf6+ $18 {
+this variation is another proof that the black king is poorly placed on f7})
+29. e5 $1 Rxc3 30. Rd3 Rxd3 31. cxd3 Nxe5 32. Rxe5 {
+Black has three pawns for his bishop but the white pieces are dominating.}
+) 28. Ba3 $1 {A strong move threatening 29.Bd6. It can easily be seen that
+there are three weak black pieces on the diagonal b8-h2.} (28. Rh1 Nxh3 29.
+Rxh3 Ng4 30. h5 gxh5 31. Rxh5 h6 $13) 28... e5 29. Bd6 Ra7 30. c4 Ra8 ({
+The white knight is well placed on a5 preventing the development of the c8-bishop even
+if the d7-pawn were not attacked by Bh3:} 30... Bb7 $2 31. Bc5 $1 {
+attacking the bishop's defender}) ({what about luring the knight to c4?} 30...
+bxc4 $2 31. Nxc4 {unfortunately e5 is attacked twice now} Kf6 ({or} 31...
+Nxh3 32. Rxh3 Ng4 33. Bc5 $1 $18) 32. Rd2 Nxh3 {avoiding the loss of a knight}
+33. Rxh2 $1 Nf4 34. Rf3 Bb7 {at last the black queen's bishop has been
+developed (move 34!) attacking e4, but now White wins the exchange thus:} 35.
+Bxe5+ $1 Rxe5 36. Rxf4+ Ke6 37. Nxe5 Kxe5 38. Rf7 Bxe4 39. Rxh7) 31. Rde1 {
+Black cannot really enjoy his extra pawn. Neither the rook on a8, nor the bishop on c8 can intervene
+in the game. Now Stockfish exchanges the only well-placed black piece in order
+to bring the knight stranded on h2 to safety.} Nxh3 {
+Once more there are three knights on the edges of the board.} 32. Rxh3 Ng4 33.
+Rf3+ Kg8 34. Kb2 Ra7 (34... Re6 35. c5 $1 Re8 (35... Ra7 $2 36. Rf8+) 36. h5 $1
+gxh5 37. Rh1 Kg7 38. Rxh5 Kg6 39. Rff5 h6 $1 {This move holds the black
+position together, just barely, but in any case White now regains his sacrificed pawn
+with a better position:} 40. Rh4 Nf6 41. Rxe5 {, etc.}) 35. Ref1 Ra8 36. a4 $1
+{Another surpising pawn move by Komodo.} bxa4 (36... bxc4 37. Kc3 $1) 37. c5 {
+A positional masterpiece by Komodo MTCS. Black is completely outsmarted. The
+white king can be distracted temporarily, but that will only cause a slight
+delay:} a3+ 38. Kc3 a2 39. Kb2 a1=Q+ 40. Kxa1 h5 41. Ka2 Kh8 42. Rf7 Kg8 (42...
+Ne3 $2 43. Bxe5+ $1 Kg8 ({or} 43... Rxe5 44. Rf8+ Kg7 45. R1f7+ Kh6 46. Rh8#)
+44. Rg7+ Kh8 45. Re7+ Kg8 46. Rxe8+ Kh7 47. Rh8#) 43. Kb2 Ne3 44. Rf8+ $1 Rxf8
+45. Rxf8+ Kg7 46. Re8 Ng4 47. Re7+ Kf6 48. Nc4 Bb7 (48... g5 {
+is an attempt to get a passed pawn on the h-file:} 49. hxg5+ Kxg5 50. c6 $1
+dxc6 ({or} 50... h4 51. Nb6 $18) 51. Nb6 $1 h4 52. Nxa8 h3 53. Bxe5 Nxe5 54.
+Rxe5+ Kf4 55. Re8 h2 56. Rh8 Kg3 57. Rxh2 $1 Kxh2 58. e5 Kg3 59. Nc7 Kf4 60. e6
+$18) 49. Nb6 $1 Bxe4 (49... Rd8 50. Nxd7+ Rxd7 51. Rxd7 Bxe4 52. Bc7 Ne3 53.
+Bd8+ Kf5 54. Ra7 $18 Nxc2 $2 55. c6 $1) (49... g5 50. hxg5+ Kxg5 51. Rxd7 Bxe4
+52. Be7+ Kf5 53. Nxa8 Bxa8 54. Ra7 $18) 50. Nxa8 Bxa8 51. Rxd7 a5 ({After} 
+51... Bc6 52. Be7+ Ke6 53. Rd6+ $1 Kxe7 54. Rxc6 Kf7 55. Rxa6 $18 {
+White wins easily with his rook against the knight.}) 52. Be7+ Kf5 (52... Ke6
+53. Rd8 $1 Kxe7 54. Rxa8 Nh6 55. Ra7+ Kd8 56. Rxa5 Nf5 57. Ra4 $18) 53. Rd6 $1
+(53. Ra7 {is good enogh, too.}) 53... Ne3 54. Rf6+ Ke4 (54... Kg4 55. Rxg6+ {
+and Be7 is defending h4.}) 55. Rxg6 Kf5 56. Rh6 Bf3 57. c6 $1 Nd5 58. Bd8 Ne3
+59. Bxa5 Kg4 60. Bd8 Kf5 61. Kc1 (61. c7 $5 Bb7 62. Kc3 $1 $18 (62. Rb6 $2 Nc4+
+)) 61... Bg4 62. c7 Ke4 63. Rxh5 $1 Kf3 (63... Bxh5 $2 64. c8=Q {
+, but there are no more saving moves.}) 64. Rxe5 {
+and Black resigned. What an impressive game!} 1-0

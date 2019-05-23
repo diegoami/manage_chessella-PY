@@ -1,0 +1,133 @@
+[Event ""] [Site "London"] [Round "2"] [Date "2018"] [White "Magnus
+Carlsen"] [Black "Fabiano Caruana"] [Result "*"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Nc3 Be7 5.Bf4 0-0 6.e3 c5 7.dxc5 Bxc5 8.Qc2
+Nc6 9.a3 Qa5 10.Rd1 Rd8 ( {This rare choice from Caruana was not
+AlphaZero's main choice, which preferred the standard main line}
+10...Be7 {. AlphaZero - like most commentators - recommended} 11.Nd2 {,
+with a fairly positive expected score of 65-70_percent_. Still closer to
+a draw than a win but definitely chances for White. Let's take a look at
+some of the lines that AlphaZero looked at in building up this
+assessment.} ) 11.Nd2 dxc4 {AlphaZero's main continuation.} ( 11...d4
+{is great fun, but (impressively) AlphaZero's 1-millisecond line is
+essentially the main line you find after analysing with other engines:
+Black sacrifices a piece, gets it back and ends up a bit worse with a
+terrible pawn structure:} 12.Nb3 Qb6 13.Na4 Bb4+ 14.axb4 Qxb4+ 15.Nd2
+Qa5 16.Qb3 e5 17.Bg5 Nb4 18.Bxf6 gxf6 19.Be2 Bd7 20.Ra1 dxe3 21.fxe3 b5
+22.0-0 bxa4 23.Qc3 f5 24.Nf3 f6 25.Nh4 Nc6 26.Qa3 e4 27.c5 Rab8 28.Nxf5
+Bxf5 29.Rxf5 Kg7 30.Bc4 Rd2 {is AlphaZero's main line, with an
+almost 60_percent_ expected score. We suppose that with deep preparation
+of this middlegame as Black, you might be able to get away with this
+line if you're happy fighting for a draw.} ) 12.Nxc4 {AlphaZero's
+preferred choice, though we were keener on the more aggressive 12. Bxc4,
+keeping more pieces on the board.} ( 12.Bxc4 Be7 {, and now:} 13.0-0 (
+13.Bd3 {was an almost equivalent move, according to AlphaZero. Again we
+like this move a little more than AlphaZero's main line, as it keeps
+more pieces on the board:} 13...e5 14.Nc4 Qc7 15.Nb5 Qb8 16.Bg3 Bg4
+17.f3 Be6 18.Nd4 Bxc4 19.Bxc4 Qc8 {, when you feel that White should
+have a path to a small annoying edge. This is AlphaZero's main
+line:} 20.Nxc6 Qxc6 21.Rxd8+ Rxd8 22.Qb3 Kf8 23.0-0 Nd5 24.Bf2 a6 25.Rd1
+Nb6 26.Rxd8+ Bxd8 27.Qd1 Bf6 28.Ba2 {- wouldn't Magnus have enjoyed this
+as White? -} 28...Na4 29.Qd2 e4 30.Bd5 Qd7 31.Qb4+ Kg8 32.Qxb7 Qxb7
+33.Bxb7 Bxb2 34.Bc6 Nc5 35.a4 {, ending with a 59_percent_ expected
+score for White.} ) 13...Qf5 { (the only move AlphaZero spent any time
+on) } 14.Nde4 Nd5 15.Qc1 ( 15.Bg3 Nxc3 16.bxc3 Rxd1 ( 16...Ne5
+17.Rxd8+ Bxd8 18.Qd1 Bb6 19.Nd6 Qf6 20.Bb5 {was good for White in
+Graf-Dobrev, Leipzig 2007 (1-0, 34) } ) 17.Rxd1 e5 {made AlphaZero less
+happy than the main line} ) 15...Nxf4 ( 15...Nxc3 16.Nxc3 e5 17.Nd5 Be6
+18.Bd3 Qh5 19.Nxe7+ Nxe7 20.Bg3 Rac8 21.Bc2 {, with a 62_percent_
+expected score for White} ) 16.Rxd8+ Nxd8 ( 16...Bxd8 17.exf4 Bc7 18.g3
+Bd7 19.Rd1 Be8 {, with a 63_percent_ expected score for White - the
+ideas are very similar to the main line} ) 17.exf4 Bd7 {, and now a main
+line that feels tactically very fraught, but was more or less the only
+line that AlphaZero seriously considered (!) :} 18.b4 Rc8 19.Rd1 Ba4 (
+19...Rxc4 20.Rxd7 Qxe4 21.Qd2 Qc6 22.Rxe7 {wins for White} ) 20.Nd6 Bxd6
+21.Rxd6 Qc2 22.Qe3 Be8 23.Bf1 Nc6 24.Rd2 Qb3 25.Ne4 Qxe3 26.fxe3 Kf8
+27.Nd6 Rc7 28.e4 f6 29.Bb5 Ke7 30.e5 {, with a 59_percent_ expected
+score for White. This line is an example of why analysing with AlphaZero
+in the opening is an unusually instructive experience. Out of a mass of
+possibilities, it invariably takes a clear, coherent view on one path
+and pursues it with enormous focus and vigour. It's like having Karpov
+or Kramnik on tap and asking them for a clear opinion about any
+position! The resulting line is a wonderful framework around which to
+build your own understanding of the position and develop your own ideas.
+It's going too far to claim that AlphaZero's view on the position
+represents perfection and to accept it without question, but it is
+unfailingly interesting and challenging for the opponent.} ) 12...Rxd1+
+13.Qxd1 Qd8 14.Qxd8+ Nxd8 15.Be2 {Black has two
+approaches in this position: quiet development with 15...Bd7, or the
+more forceful 15...Nd5, which aims to achieve immediate liquidation. We
+decided to take on AlphaZero from this position using some help from
+engines where required.} ( 15.Na4 Bf8 16.Nab6 {is a surprising idea that
+was first tried by Euwe in 1954 but seems insufficient for an
+advantage:} 16...axb6 17.Nxb6 Ra5 18.Nxc8 Rc5 19.Nb6 g5 20.Bg3 Rc2
+21.Na4 Ne4 {, Gerusel-Eisinger, Bad Aibling 1965, was drawn in 35
+moves.} ) 15...Bd7 ( {AlphaZero likes} 15...Nd5 {less, moving to a solid
+71_percent_ expected score for White:} 16.Nxd5 exd5 17.Nd6 Bd7 ( {the
+favourite move of the engines, completing development before trying to
+liquidate Black's isolated d-pawn with ...d5-d4. On} 17...d4 {White
+plays} 18.e4) 18.b4 ( 18.Kd2 d4 19.e4 Ne6 20.Bg3 Bc6 21.f3 Rd8 22.e5 a5
+23.Bc4 a4 {was assessed by AlphaZero as a 54_percent_ expected score for
+White} ) 18...Bb6 19.0-0 19...Ne6 { (as Black, AlphaZero was
+keener on plans with ...a5, to swap off as many pawns as possible) }
+20.Bg3 d4 21.Bf3 Bc6 ( 21...dxe3 22.Bxb7 Rf8 23.fxe3 Bxe3+ 24.Kh1 Bb6
+25.Bd5 {- AlphaZero is starting to get very positive about this, moving
+to a 75_percent_ expected score} ) 22.Bxc6 bxc6 23.Nc4 dxe3 24.fxe3 Ng5
+25.Rd1 Ne4 26.Rd7 Kf8 {was a 65_percent_ expected score for White.} )
+16.0-0 Bc6 {This was my (Matthew) favoured solid approach, and the
+engines were very happy with it, too.} 17.Rc1 Bf8 18.Bg3 Nd5 {Black
+starts to exchange minor pieces.} 19.Na5 {Playing the knight to a5 is a
+recurring plan in these positions. It makes Black's light-squared bishop
+insecure and ties down a black piece to the defence of the b7-pawn. If
+Black plays ...b6, then White gets some extra weak light squares to work
+with.} 19...Nxc3 20.Rxc3 Bd5 21.f3 f6 22.e4 Ba2 {DIAGRAM ... and that's
+why you need engines to help you! We were extremely nervous about this
+move, but it seems crucial to keeping Black's position together.} 23.Kf1
+( 23.b3 b6 24.Nc4 Rc8 {and the bishop is impossible to catch!} ) 23...b6
+24.Nc6 e5 25.Bf2 Be6 {Here AlphaZero's evaluation starts to drop from
+68_percent_ evaluation to 62_percent_.} 26.Bb5 Bf7 27.Nxd8 Rxd8 28.Ke2
+Bd6 29.Bc4 h5 30.b4 Bxc4+ 31.Rxc4 Kf8 32.a4 {AlphaZero's evaluation is
+at a 66_percent_ expected score, but White's advantage feels manageable
+for Black. All-in-all, Black's position is not fun to play - Black is
+only playing for two results - but backed by some accurate computer
+preparation (for example, a few ideas like 22...Ba2 in our main line)
+Black should be able to count on navigating to an endgame in which
+White's advantage probably cannot be realized.} *
+
+
+[Event ""] [White "Queen's Gambit Declined 5.Bf4"] [Black "AlphaZero
+analysis 10.0-0-0"] [Result "*"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Nc3 Be7 5.Bf4 0-0 6.e3 c5 7.dxc5 Bxc5 8.Qc2
+Nc6 9.a3 Qa5 10.0-0-0 Ne4 {DIAGRAM Yes indeed, this is the move when we
+ask AlphaZero for its reaction after a short thinking time. Simon
+Williams mentioned in his recent ChessBase DVD on the 5.Bf4 Queen's
+Gambit Declined that he didn't know why this wasn't played more often,
+and AlphaZero agrees!} 11.Nb5 a6 12.Nc7 e5 13.Rxd5 Qxc7 14.Qxe4 exf4
+15.Rxc5 fxe3 16.fxe3 {DIAGRAM This is AlphaZero's main line.} ( {Or}
+16.Bd3 g6 {, and now:} 17.fxe3 ( 17.Qxe3 b6 18.Rh5 {appealed greatly,
+but AlphaZero felt that Black did not have too much to worry about:}
+18...Bg4 19.Rh4 Bxf3 20.gxf3 ( 20.Qxf3 Ne5 21.Qg3 Nxd3+ 22.Qxd3 Rad8
+23.Qc2 Qc6 24.Re4 f5 {, with a 57_percent_ expected score for White} )
+20...Rad8 21.Kb1 ( 21.Rd1 f5 22.c5 b5 23.Bc2 Rxd1+ 24.Bxd1 f4 25.Qe4 Kg7
+26.Bc2 Ne5 27.Kb1 Qxc5 {is assessed by AlphaZero as a 55_percent_
+expected score for White} ) 21...f5 22.c5 b5 {. DIAGRAM It looks a
+little fraught for Black, but AlphaZero sees no more than a slight
+advantage for White:} 23.Bc2 ( 23.Rg1 Rfe8 24.Qh6 Qg7 25.Qxg7+ Kxg7
+26.Bxf5 Re2 27.Re4 Rxf2 28.Re6 Nd4 {, with a 54_percent_ expected score
+for White} ) 23...Rfe8 24.Bb3+ Kh8 25.Qc3+ Qg7 26.Bf7 Re2 27.Bxg6 Qxc3
+28.bxc3 Ne7 29.Bf7 Kg7 30.Bb3 Rd3 {is another spectacular line, with
+close to a 55_percent_ expected score for White.} ) 17...Be6 18.Ng5 (
+18.Qh4 {was Karjakin's unsuccessful game at Stavanger 2018 against Vishy
+Anand:} 18...Rae8 19.Be4 Qb6 20.Qh6 f5 21.Ng5 Rf7 22.Bd5 Bxd5 23.Rxd5
+Qxe3+ 24.Kb1 Rfe7 {and Black was already quite comfortable.
+Karjakin-Anand, Stavanger 2018 (0-1, 32) } ) 18...Qe7 19.Qh4 h5 20.Qe4
+Qxc5 21.Nxe6 Qd6 22.Nxf8 Kxf8 23.Rd1 Qxh2 24.Qf4 Qxf4 25.exf4 {, with a
+58_percent_ expected score for White but you would expect the game to
+end in a draw.} ) 16...g6 17.Be2 ( 17.Nd4 Bd7 18.Rd5 Nxd4 19.Rxd4 Bc6
+20.Qf4 Qe7 {with a 55_percent_ expected score for White: the e3-pawn
+will be hard to hold.} ) 17...Be6 18.Qh4 Rae8 19.Ng5 f6 20.Nxe6 Rxe6
+21.Rd5 Rxe3 22.Rhd1 Rf7 23.Bf1 Re5 24.Kb1 Kg7 25.g3 {With a 59_percent_
+expected score for White.} *
+
+

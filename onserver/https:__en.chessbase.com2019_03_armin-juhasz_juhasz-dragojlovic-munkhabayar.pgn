@@ -1,0 +1,43 @@
+[Event "Montebelluna IM-A Tournament"]
+[White "Juhász, Ármin"]
+[Black "Dragojlovic, Andjelko"]
+[Site ""]
+[Round "1"]
+[Annotator ""]
+[Result "1-0"]
+[Date "2017.01.03"]
+[WhiteElo "2380"]
+[BlackElo "2339"]
+[PlyCount "13"]
+[Setup "1"]
+[FEN "5r2/3qp2k/1r2p1p1/pP1pR1Bp/1n1P3P/1Q6/1P3PP1/4R1K1 w - - 0 28"]
+
+{The
+position is unclear. White has a weak b5 pawn and his d4 pawn is isolated, too.
+Black's pawn structure is not very impressive, either, but is it important
+now? No! The biggest problem in the black's camp is the lonely king on h7. How
+can we attack him? What is the correct plan?} 28. Bd2 $1 $18 { We need to transpose the position of the queen and the bishop to get
+closer to h7 king.} Rf6 29. Qe3 Kg8 30. Qh6 (30. Rc1 $5 Rxb5 31. Qh6 Rb8 32. Rg5 {Also strong} )Nd3 31. Rg5 Qe8 (31... Nxe1 32. Rxg6+ Rxg6 33. Qxg6+ Kh8 34. Bh6 $18 )32. Re3 Nxf2 (32... Nf4 33. Rf3 $18 {} )33. Rf3 {
+Eliminate the defender piece.} (33. Reg3 $5 Ng4 34. Qxh5 Rf1+ $5 {Black's only
+tactical chance.} 35. Kxf1 Qf7+ 36. Ke2 (36. Rf3 Nh2+ 37. Ke2 Nxf3 38. Rxg6+ )Qf2+ 37. Kd1 Qf1+ 38. Kc2 Qc4+ 39. Kb1 Qf1+ 40. Ka2 Qc4+ 41. Ka3 $18 {
+The white monarch has escaped.} )Ng4 34. Qxh5 1-0
+
+[Event "World Youth Chess Olympiad"]
+[White "Juhász, Ármin"]
+[Black "Munkhabayar, Gijir"]
+[Site ""]
+[Round "1.2"]
+[Annotator ""]
+[Result "1-0"]
+[Date "2014.12.13"]
+[WhiteElo "2268"]
+[BlackElo "1967"]
+[PlyCount "15"]
+[Setup "1"]
+[FEN "r2qr1k1/2pb1pbp/1p1p1np1/p1nP2N1/2PN1P2/1P2p1P1/PBQ1P1BP/3R1RK1 w - - 0 17"]
+
+{
+What is the ideal plan for White? Should we attack or we need to fight against
+the e3 pawn?} 17. f5 $1 $18 Qe7 {Diagram [#]} (17... Rf8 18. Nge6 fxe6 19. dxe6 Be8 20. e7 $1 Qxe7 21. Bxa8 )18. Nge6 $3 fxe6 19. dxe6 { All
+of a sudden, both of my bishops are extremely powerful.} Bxe6 (19... Rac8 20. exd7 Ncxd7 21. fxg6 hxg6 22. Nc6 Qe6 23. Bxf6 Nxf6 24. Qxg6 $18 )20. fxe6 Rac8 21. Nc6 Qf8 (21... Qxe6 $2 22. Bxf6 )22. Bd5 $1 Kh8 (22... Rxe6 23. Rxf6 Bxf6 24. Rf1 $18 {} )23. Rxf6 Bxf6 24. Rf1 {This game has
+received The Most Beautiful Game Prize of the round.} (24. Rf1 Kg7 25. Rxf6 Qxf6 26. Bxf6+ Kxf6 27. Qc3+ Kg5 28. Qxe3+ Kg4 29. Qf4+ Kh3 30. Qh4# )1-0

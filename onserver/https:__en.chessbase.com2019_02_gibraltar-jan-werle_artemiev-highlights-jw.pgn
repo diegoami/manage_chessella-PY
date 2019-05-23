@@ -1,0 +1,71 @@
+[Event "Gibraltar Masters"]
+[Site "Caleta Hotel, Gibraltar"]
+[Date "2019.01.23"]
+[Round "2.9"]
+[White "Artemiev, Vladislav"]
+[Black "Gallego Alcaraz, Andres Felipe"]
+[Result "1-0"]
+[ECO "A16"]
+[WhiteElo "2709"]
+[BlackElo "2502"]
+[Annotator "Jan"]
+[SetUp "1"]
+[FEN "3r4/pp1r2kp/2p2ppb/4p3/2RnPP2/1P1PB1PP/P4RK1/5B2 b - - 0 30"]
+[PlyCount "34"]
+[EventDate "2019.??.??"]
+
+30... g5 $2 {gives up the square f5, which is gratefully used by Artemiev.} 31.
+Bxd4 Rxd4 32. fxe5 fxe5 33. Rc5 Re8 34. Rf5 Rd7 35. Rcxe5 Rxe5 36. Rxe5 g4 37.
+h4 Be3 38. Be2 Kg6 39. Bxg4 Rxd3 40. Bh5+ Kf6 41. Rf5+ Ke6 42. Be2 Rd2 43. Kf3
+Bd4 44. a4 Be5 45. Rh5 Rd7 46. Rh6+ Bf6 47. Kf4 1-0
+
+[Event "Gibraltar Masters"]
+[Site "Caleta Hotel, Gibraltar"]
+[Date "2019.01.25"]
+[Round "4.10"]
+[White "Artemiev, Vladislav"]
+[Black "Vaibhav, Suri"]
+[Result "1-0"]
+[ECO "C13"]
+[WhiteElo "2709"]
+[BlackElo "2590"]
+[SetUp "1"]
+[FEN "rn1qk2r/1bp1bp1p/p3pp2/1p6/3PN3/4Q3/PPP2PPP/2KR1BNR w kq - 0 10"]
+[PlyCount "79"]
+[EventDate "2019.??.??"]
+
+10. c4 $5 bxc4 ({It was better not to react on this pawn, proceeding with the
+development.} 10... Nd7 $5 11. Nh3 (11. Nf3 bxc4 12. Bxc4 Nb6 $15) 11... f5 12.
+Nc3 bxc4 13. Bxc4 Bd6 14. Kb1 Bxg2 15. Rhg1 Bb7 16. d5 e5) 11. Bxc4 f5 12. Nc3
+Qd6 13. d5 $1 e5 14. Nf3 Nd7 15. Rhe1 f6 16. Nh4 Qb4 17. Qe2 Nb6 18. Qh5+ Kd8
+19. Be2 Bc8 20. Nxf5 Qf4+ 21. Ne3 f5 (21... Qxf2 22. Bf3 f5 23. g3 Rf8 24. Re2
+$18) 22. g3 Qg5 23. d6 $1 cxd6 24. Rxd6+ Kc7 25. Rh6 (25. Rxb6 $1 Kxb6 26.
+Ncd5+ Ka7 27. Qf7 $18) 25... Bb7 26. Re6 Qxh5 27. Bxh5 Bb4 28. Rxe5 f4 29. Nc2
+Bd6 30. Rg5 Rhg8 31. Nd4 Rxg5 32. Ne6+ Kd7 33. Nxg5 fxg3 34. hxg3 Nd5 35. Nxh7
+Nxc3 36. bxc3 Bc5 37. Nf6+ Kc7 38. Re5 Ba3+ 39. Kc2 Rf8 40. Ne8+ Kd8 41. f4 Rg8
+42. g4 Bc6 43. Nf6 Rf8 44. g5 Bd6 45. g6 Bxe5 46. fxe5 Ke7 47. g7 Be4+ 48. Nxe4
+Rg8 49. Nd6 1-0
+
+[Event "Gibraltar Masters"]
+[Site "Caleta Hotel, Gibraltar"]
+[Date "2019.01.30"]
+[Round "9.1"]
+[White "Artemiev, Vladislav"]
+[Black "Navara, David"]
+[Result "1-0"]
+[ECO "A05"]
+[WhiteElo "2709"]
+[BlackElo "2738"]
+[PlyCount "73"]
+[EventDate "2019.??.??"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 d5 4. Bb2 c5 5. Bg2 Bg7 6. c4 d4 7. b4 O-O 8. bxc5
+Ne4 9. O-O Nxc5 10. d3 e5 11. Ba3 Nba6 12. Nfd2 Re8 13. Ne4 Bf8 14. Nxc5 Nxc5
+15. Nd2 Rb8 16. Rb1 b6 17. Bxc5 Bxc5 18. Qa4 Bg4 19. Bf3 Bh3 20. Qxa7 $1 Bxf1
+21. Kxf1 Re7 22. Qa4 Qd7 (22... f5 23. Bd5+ Kg7 24. Kg2 Qd6 25. Qa6 Bb4) 23.
+Rb5 Qa7 24. Qb3 Kg7 25. a4 Ra8 $2 {in the upcoming variation, Navara imagined
+a position with sufficient counterplay. Things turn out differently.} 26. Bxa8
+Qxa8 27. f3 Ra7 28. Ne4 Rxa4 29. Nxc5 bxc5 30. Rxc5 Ra3 31. Qb4 Ra4 32. Qb6 $1
+Ra1+ 33. Kf2 e4 {Navara pulls the emergency brake. What did he miss in the
+following lines?} (33... Rh1 34. Ra5 $1 $18) (33... Qa3 34. Qc7 Qc1 35. Qxe5+
+Kh6 36. Qf4+ $18) 34. Rd5 e3+ 35. Kg2 Qa7 36. Qxa7 Rxa7 37. f4 1-0

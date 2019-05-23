@@ -1,0 +1,47 @@
+[Event "19th Bangkok Open 2019"]
+[Site "Bangkok"]
+[Date "2019.04.06"]
+[Round "1.6"]
+[White "Wongsawan, Thoetsak"]
+[Black "Stella, Andrea"]
+[Result "0-1"]
+[ECO "D85"]
+[WhiteElo "1827"]
+[BlackElo "2512"]
+[Annotator "Tactical Analysis 2.10 (6s)"]
+[PlyCount "136"]
+[EventDate "2019.??.??"]
+
+{[%evp 26,136,51,23,40,35,45,33,50,-12,21,4,14,-54,-6,-48,-30,-33,-37,-43,-30,
+-95,-40,-62,-45,-61,-44,-58,-38,-58,-39,-45,-30,-109,-89,-100,-124,-101,-95,
+-99,-71,-88,-72,-77,-49,-53,-44,-95,-66,-92,-71,-85,-70,-84,-73,-82,-67,-78,
+-73,-89,-74,-92,-74,-86,-54,-104,-84,-105,-91,-102,-95,-103,-83,-101,-61,-97,
+-65,-92,-82,-90,-64,-100,-82,-98,-94,-87,-63,-94,-7,-97,-95,-161,-100,-100,-9,
+-4,-4,-29945,-29946,-29946,-29944,-29951,-29951,-722,-722,-29957,-29958,-29960,
+-29961,-29961,-29963,-29977,-29980]} 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5
+5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8. Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Qd2
+Qxd2+ 12. Bxd2 e6 13. O-O b6 14. Rfd1 Bb7 {D85: Exchange Grünfeld: Unusual
+White 7th moves and lines with 7 Nf3} 15. d5 exd5 16. exd5 Nd7 {[#] White is
+slightly better.} 17. Bc4 $146 (17. d6 $14) ({Predecessor:} 17. Bb4 Rfc8 18.
+Be7 Bf6 19. d6 Kg7 20. Re1 Rc5 21. Bb5 Bc6 22. Bxc6 Rxc6 {1/2-1/2 (36) Karpov,
+A (2700)-Kasparov,G (2740) Seville 1987}) 17... Rfd8 18. Bf4 Rac8 19. Bb3 (19.
+Rbc1 $11) 19... h6 (19... Nc5 $15 {is superior.} 20. d6 Nxb3 21. Rxb3 Rc4) 20.
+Rbc1 (20. d6 $11) 20... Rxc1 21. Rxc1 Nc5 22. Bc4 $1 Ne4 23. Bc7 (23. Re1 $11
+g5 24. Rxe4 gxf4 25. Rxf4) 23... Rd7 $36 {[%mdl 2048] Black has the initiative.
+} (23... Rc8 $17 24. d6 Nxd6 $1 {[%mdl 512]} 25. Bxd6 Bd5 {[%mdl 64] Back Rank}
+) 24. Bb8 $15 Bxd5 25. Bxd5 Rxd5 26. Bxa7 Nc3 27. Kf1 Rb5 28. a3 Rb2 29. g3 {
+[#]} (29. Re1 $11) 29... Ne4 $1 $17 30. Re1 Rxf2+ {[%mdl 64] Double Attack} 31.
+Kg1 Rxf3 32. Rxe4 {[%mdl 4096] Endgame KRB-KRB} b5 33. Bc5 Rc3 34. Bb4 Rc2 35.
+Re8+ Kh7 36. Rd8 (36. Rb8 $15) 36... g5 37. g4 Rc4 38. h3 Bc3 39. Bf8 Bd4+ 40.
+Kg2 Bc5 41. Bxc5 Rxc5 $15 {KR-KR} 42. Rb8 Kg7 43. Rb7 Kf6 44. Rb6+ Ke5 45. Kf3
+(45. Rxh6 $15 f6 46. h4) 45... Rc3+ $17 46. Kg2 Rb3 47. Kh2 Rb2+ 48. Kg3 Rb3+
+49. Kg2 f6 50. Kh2 f5 ({Much weaker is} 50... Rxa3 51. Rxb5+ Kd6 52. Rb7 $11)
+51. gxf5 Kxf5 52. Rxh6 Rxa3 53. Rb6 Rb3 54. Kg2 b4 55. Rb8 Ke4 56. Rg8 Re3 (
+56... Rb2+ $17 57. Kg3 Rb1) 57. Rxg5 $11 b3 58. Rb5 Kd4 (58... Rc3 $19 {
+...Kd3 is the strong threat.} 59. Rb4+ Ke3) 59. h4 $17 {[#]} Kc4 ({Black
+should play} 59... Kc3 $1 $17 60. h5 b2) 60. Rb8 (60. Rb7 {feels hotter.} Re4
+61. h5 Rh4 62. Rc7+ Kb4 63. Rb7+) 60... Re5 {Threatens to win with ...Rb5.} (
+60... Kc3 $5 61. h5 $8 b2 $11) 61. Rf8 $2 {[%mdl 8192]} (61. Kg3 $11) 61... b2
+62. Rf1 Re4 63. Kg3 Kb3 64. h5 Ka2 65. Rf2 Ka1 {Black mates.} 66. Rf1+ b1=Q 67.
+Rxb1+ Kxb1 68. Kf3 Rh4 {Accuracy: White = 40%, Black = 74%.} 0-1
+

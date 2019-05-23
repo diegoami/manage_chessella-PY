@@ -1,0 +1,64 @@
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.12"]
+[Round "1"]
+[White "Giri, A."]
+[Black "Nepomniachtchi, I."]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2783"]
+[BlackElo "2763"]
+[Annotator "Adhiban"]
+[PlyCount "52"]
+[EventDate "2019.01.11"]
+
+1. e4 d6 {An interesting choice by Nepo to avoid mainstream theory which is
+Anish's forte!} ({The only other winner of this round was} 1... c6 2. d4 d5
+3. exd5 cxd5 4. Bd3 Nf6 5. c3 Qc7 6. h3 g6 7. Nf3 Bf5 8. Ne5 Nc6 9. Bf4 Qb6 10.
+Bxf5 gxf5 11. Nd3 e6 12. Nd2 Rg8 13. O-O O-O-O 14. a4 Ne4 15. Rc1 Bd6 16. Bxd6
+Nxd6 17. b4 Kb8 18. Qe2 Qc7 19. Qe3 Ne7 20. f3 Ng6 21. Ne5 f4 22. Qe1 Nf5 23.
+Nxg6 Rxg6 24. Rf2 Rdg8 25. c4 Ne3 26. cxd5 Nxg2 27. Qe5 Qxe5 28. dxe5 Ne1+ {
+0-1 (28) Van Foreest,J (2612)-Anand,V (2773) Wijk aan Zee NED 2019}) 2. d4 Nf6
+3. Nc3 g6 {The fabled Pirc Defence!} 4. Be3 a6 5. Qd2 b5 6. f3 {This has never
+occured in the practice of Giri, while Nepo has some experience in this system
+trying out couple of ideas in shorter formats.} Nbd7 (6... Bb7 {is premature
+and was convincingly met by} 7. a4 $1 b4 8. Nd1 a5 9. c3 Na6 {(Fressinet-Nepomniachtchi
+W Blitz Berlin 2015)} 10. Nf2 $16) (6... Bg7 7. h4 (7. Bh6 Bxh6 8. Qxh6 Nbd7) (
+7. a4 b4 8. Nd1 O-O (8... a5 9. c3) 9. Qxb4 c5 10. dxc5 Nc6 11. Qd2 d5 12. Nf2
+Rb8 13. Rb1) 7... h5 8. Nh3 (8. a4 $5 b4 9. Nd1 O-O $1 10. Qxb4 (10. Bd3 c5 $1
+11. dxc5 Nc6 12. Ne2 dxc5 13. Bxc5 Nd7 {with good compensation for the pawn.})
+10... c5 {with active play for the pawn.}) 8... Bxh3 9. Rxh3 Nbd7 10. O-O-O Nb6
+{(Leko-Nepomniachtchi Rapid Beijing CHN 2014)} ({Better was} 10... c6 $5 11. Bd3 Qc7 {
+followed by c5 with a good game.}) 11. Bd3 $16) (6... b4 {is even more
+premature than Bb7 :).} 7. Nd1 a5 8. a3 $1 bxa3 9. Rxa3 c6 10. Bd3 Bg7 11. Ne2
+O-O {(Fressinet-Nepomniachtchi World Rapid 2014)} {the simple} 12. O-O {
+offered a clear advantage.} ({Comp likes the greedy} 12. b4 {winning the
+a-pawn.})) 7. O-O-O Nb6 8. g4 ({Morozevich chose} 8. h4 $5 b4 9. Nb1 a5 {with a
+complex battle.} 10. g4 (10. Nh3 $5 {offered better chances to fight for
+advantage.}) ({Comp's insane preference is} 10. c4 $5 bxc3 11. Nxc3) 10... h5
+$1 {A typical idea to fight against the expansion.} 11. g5 Nfd7 {Black was
+already superior in (Moro-Zvjaginsev Rapid 2018)}) 8... Bb7 ({Nepo missed an
+interesting possibility in form of} 8... h5 $1 9. g5 (9. e5 Nfd5 10. Nxd5 Nxd5
+{with a nice position for Black.}) (9. gxh5 Nxh5 {now Black can focus on the
+queenside.}) 9... Nfd7 10. f4 Bg7 11. f5 gxf5 12. Nh3 (12. exf5 {doesn't work
+due to} Bb7 13. d5 b4) 12... b4 13. Nd5 fxe4 14. Nxb4 Nf8 {Black comes out
+slightly better out of the mess.}) 9. Nh3 (9. a3 {was better although Black
+could continue in the same spirit with} h5 $1) 9... Nfd7 10. Be2 e6 {I wonder
+if this move is really required.} (10... b4 11. Nb1 a5 {was a better way to
+fight for the intiative.}) 11. Bg5 ({More to the point was} 11. Nf2 {though
+Black is completely fine after} b4 12. Nb1 a5) 11... Be7 12. Qe3 {Slowly White
+is losing track.} Bxg5 ({Once again} 12... b4 $1 {was stronger.} 13. Nb1 h5 $5
+{with better position.}) 13. Nxg5 h6 14. Nh3 Qh4 15. Nf2 O-O-O {Now we have an
+equal position according to comp, although I feel black's position is easier
+to handle as he has more potential to create something.} 16. f4 {A huge error.}
+(16. Nd3 {was better maintaining the balance, though Black can fight for
+something with} f5 $5 ({Also possible is the dark-squared positional approach
+with} 16... e5 17. d5 Qg5 18. Qd2 {with equal endgame.})) 16... f5 $1 {White's
+over extended pawn structure start to feel the heat!} 17. Bf3 b4 18. exf5 {
+Desperation.} (18. Nb1 fxe4 {here both} 19. Nxe4 ({and} 19. Bxe4 Bxe4 20. Nxe4
+Qxg4) 19... Nd5 {looks pretty hopeless for White.}) 18... bxc3 19. fxe6 cxb2+
+20. Kb1 Nf6 {White doesn't have enough compensation...} 21. Bxb7+ Kxb7 22. Qf3+
+d5 23. Nd3 Ne4 24. Nc5+ Ka7 25. Qa3 Nxc5 26. Qxc5 Kb7 {An important win for
+Nepo putting him and Vishy tied for the first spot...although the middlegame
+phase could have been played better by both the "Masters"!} 0-1
+

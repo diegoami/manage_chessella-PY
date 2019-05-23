@@ -1,0 +1,136 @@
+[Event "21st Dubai Open 2019"]
+[Site "Dubai"]
+[Date "2019.04.02"]
+[Round "2.7"]
+[White "Adly, Ahmed"]
+[Black "Raghunandan, Kaumandur Srihari"]
+[Result "0-1"]
+[ECO "A05"]
+[WhiteElo "2620"]
+[BlackElo "2370"]
+[Annotator "TA"]
+[PlyCount "106"]
+[EventDate "2019.04.01"]
+[EventType "swiss"]
+[EventCountry "UAE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,106,-10,-8,-20,-18,-14,1,0,-8,0,0,0,9,9,9,5,6,9,4,10,13,16,47,31,17,
+0,46,0,0,0,0,0,0,-5,0,-12,-15,-56,-50,-18,0,-6,0,0,0,0,0,-9,0,-12,-5,0,0,-75,
+-84,-145,-149,-226,-224,-210,-218,-203,-217,-236,-219,-238,-241,-367,-365,-367,
+-367,-367,-362,-375,-379,-367,-341,-566,-562,-1060,-1034,-1900,-1382,-29972,
+-29973,-29970,-29972,-29980,-29981,-29980,-29981,-29978,-29979]} 1. Nf3 Nf6 2.
+g3 g6 3. Bg2 Bg7 4. c4 O-O 5. d4 c5 6. O-O cxd4 7. Nxd4 d5 8. Na3 {D73:
+Fianchetto Grünfeld: 5 Nf3} e5 {LiveBook: 3 Games} 9. Nf3 e4 10. Nd4 {The
+position is equal.} Qe7 $146 ({Predecessor:} 10... Nc6 11. Nxc6 bxc6 12. Be3
+Re8 13. Bd4 Be6 14. Qa4 Qd7 15. Rfd1 Qb7 {1-0 (44) Malakhov,V (2721)-Gao,R 
+(2464) China 2010}) 11. b3 Rd8 12. Bb2 e3 13. f4 Nc6 14. Nxc6 bxc6 15. cxd5 $1
+Nxd5 16. Bxg7 Kxg7 17. Qc1 $1 Bg4 18. Nc4 Qf6 19. Ne5 Bxe2 20. Re1 Ba6 21. Qxc6
+Rac8 22. Qxf6+ Nxf6 23. Rxe3 Rc2 24. Nf3 Nd5 25. Re5 Nc3 26. Re7 Ne2+ (26...
+Kf8 $5 {[%cal Rf8e7]} 27. Rxa7 Ne2+ 28. Kh1 Nc1 $15) 27. Kh1 {Threatens to win
+with Ng5.} Nc1 {next ...Be2 is good for Black.} 28. Re1 $1 $132 {[%mdl 2048]
+White is not keeping still} ({Don't go for} 28. Rxa7 $2 Rd1+ 29. Ng1 Nd3 $19)
+28... Nxa2 29. Re7 {Hoping for Ne5.} Bc8 30. Rae1 Rd7 31. h4 Rc1 32. Kh2 Rxe1
+33. Rxe1 Bb7 34. Bh3 (34. Ra1 $11 {keeps the balance.} Rd3 35. Rxa2 Bxf3 36. b4
+) 34... Rd3 $17 35. Ne5 (35. Ra1 $142) 35... Rxb3 36. Rd1 (36. Nc4 $17) 36...
+Rb2+ 37. Kg1 Nc3 38. Rd7 {[#]} Bd5 $1 39. Bg4 Rb7 40. Rxb7 Bxb7 $19 {[%mdl
+4096] Endgame KBN-KBN} 41. h5 (41. Bd7 {was called for.}) 41... a5 {[%cal
+Ba7a5,Ba5a4][%mdl 32]} 42. hxg6 hxg6 43. Nc4 {[#]} a4 $1 44. Bd7 Bd5 45. Na3
+Kf6 46. Kh2 $2 (46. Bg4) 46... Ke7 47. Bh3 Kd6 48. g4 Kc5 49. Bf1 Bb3 {Black
+mates.} 50. Bd3 Kb4 51. Nb1 Nxb1 52. Bxb1 a3 53. Kg3 Kc3 {Precision: White =
+38%, Black = 78%.} 0-1
+
+[Event "21st Dubai Open 2019"]
+[Site "Dubai"]
+[Date "2019.04.03"]
+[Round "3.14"]
+[White "Raghunandan, Kaumandur Srihari"]
+[Black "Sanal, Vahap"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "2370"]
+[BlackElo "2513"]
+[Annotator "TA"]
+[PlyCount "97"]
+[EventDate "2019.04.01"]
+[EventType "swiss"]
+[EventCountry "UAE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,97,28,3,13,7,19,13,15,25,16,18,10,16,93,88,88,44,89,80,74,22,91,90,
+82,89,72,85,130,125,127,111,525,520,516,501,680,676,669,667,645,632,583,566,
+558,549,560,544,517,461,522,510,527,523,601,564,567,539,625,617,808,798,766,
+749,775,918,5239,5147,1759,887,988,988,927,922,879,859,5381,5432,29970,29971]} 
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. c3 d5 7. exd5 Nxd5 8.
+Re1 Bg4 9. Nbd2 {C54: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} (
+9. h3 Bh5 10. a4 a5 11. Nbd2 Nb6 12. Bb5 Bd6 13. Ne4 Na7 14. d4 exd4 15. Nxd6
+Qxd6 16. Qxd4 Nxb5 17. axb5 Qxd4 18. Nxd4 {1/2-1/2 (32) Harikrishna,P (2730)
+-Vidit,S (2711) Prague 2019}) 9... Nb6 10. h3 Bh5 11. Bb3 {LiveBook: 7 Games.
+White has an edge.} Qxd3 12. Nxe5 Qf5 13. Nef3 $1 Rfe8 14. g4 $1 {[%cal Rg4f5]
+[#]} Bxg4 $1 {[%mdl 512]} 15. hxg4 Qxg4+ 16. Kh1 {[#]} Qh3+ $146 {[#]} (16...
+Ne5 $1 $11 {[%mdl 512]} 17. Rxe5 (17. Nxe5 Qh3+ 18. Kg1 Qg3+ 19. Kh1 Qh3+ 20.
+Kg1 Qg3+ 21. Kh1 Qh3+ $11) 17... Qh3+ 18. Kg1 Qg3+ 19. Kh1 Qh3+ 20. Kg1 Qg3+
+21. Kh1 Qh3+) ({Predecessor:} 16... Ne5) 17. Nh2 $1 $16 {Strongly threatening
+Ne4.} Ne5 {...Ng4! is the strong threat.} 18. Qe2 Ng4 {[%csl Gg4][%cal Rh3h2]}
+19. Qxe8+ Rxe8 20. Rxe8+ Bf8 {[%csl Gg4][%cal Rh3h2]} 21. Ndf3 Nxf2+ 22. Kg1
+Qg3+ 23. Kf1 {Threatens to win with Ng5.} Ng4 24. Nxg4 Qxf3+ 25. Nf2 Nd5 $2 {
+[%mdl 8192] [#]} (25... Qf5 $16 {is more resistant.}) 26. Bg5 $1 $18 Qf5 27.
+Rd1 Nf6 28. Bxf6 $1 {White wants to mate with Rxf8+!} Qb5+ 29. Re2 gxf6 30. Rd5
+Qc6 31. Ne4 {White threatens Rg2+ and mate.} Be7 32. Ng3 Kf8 33. Nf5 Bd6 34.
+Ke1 a6 35. Kd1 b5 36. a3 Qb6 37. Nxd6 cxd6 38. Red2 Qg1+ 39. Kc2 h5 40. Rxd6
+Qg6+ 41. Kc1 h4 42. Rd7 h3 43. Rxf7+ Ke8 44. Rfd7 {Threatening mate with Rd8+.}
+Qg1+ 45. Kc2 {Intending Rd8+ and mate.} Qg6+ 46. R7d3 Qe4 47. Rh2 a5 48. Rhxh3
+Qg2+ 49. Kb1 {Precision: White = 85%, Black = 42%.} 1-0
+
+[Event "21st Dubai Open 2019"]
+[Site "Dubai"]
+[Date "2019.04.04"]
+[Round "4.5"]
+[White "Pichot, Alan"]
+[Black "Raghunandan, Kaumandur Srihari"]
+[Result "0-1"]
+[ECO "A49"]
+[WhiteElo "2566"]
+[BlackElo "2370"]
+[Annotator "TA"]
+[PlyCount "98"]
+[EventDate "2019.04.01"]
+[EventType "swiss"]
+[EventCountry "UAE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,98,14,15,12,17,16,14,14,14,14,6,14,0,16,-61,-57,-71,-70,-62,-64,-62,
+0,-7,-21,-10,-10,-181,-193,-197,-200,-197,-208,-207,-201,-211,-212,-210,-211,
+-211,-215,-212,-212,-216,-214,-265,-216,-300,-283,-401,-375,-350,-295,-302,
+-297,-275,-216,-229,-217,-243,-229,-461,-463,-458,-461,-458,-448,-428,-443,
+-428,-441,-441,-437,-403,-394,-352,-361,-10092,-9470,-6851,-6851,-6087,-6087,
+-1664,-1664,-888,-692]} 1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6.
+b3 e5 7. dxe5 dxe5 8. Ba3 Qxd1 {A49: 1 d4 Nf6 2 Nf3 g6 3 g3: Anti-King's
+Indian systems} 9. Rxd1 Re8 10. c4 e4 {The position is equal.} (10... c6 11.
+Nc3 Na6 12. Rac1 Bh6 13. e3 Bf8 14. Bxf8 Kxf8 15. Rd6 Ke7 16. Rd2 {1/2-1/2 (28)
+Esipenko,A (2584)-Kovalev,V (2687) Wijk aan Zee 2019}) 11. Nd4 $1 Ng4 12. Nc3 {
+next Ndb5 is good for White.} e3 $1 {And now ...Nc6 would win.} 13. Nd5 Na6 14.
+Ne7+ (14. fxe3 $11 Nxe3 15. Nxe3 Rxe3 16. Rab1) 14... Kh8 $1 $15 15. f4 $1 Nf2
+$1 $36 {[%mdl 2048] Black is more active.} 16. Nxc8 Raxc8 17. Bxb7 Nxd1 (17...
+Rcd8 $15 18. Bd5 Bxd4 19. Rxd4 c5) 18. Rxd1 $11 ({Much worse is} 18. Bxc8 Rxc8
+19. Rxd1 Rd8 $17) 18... Rcd8 $146 19. Bd5 Nb8 {...c6! is the strong threat.}
+20. Bc5 $2 {[#]} (20. Nf3 $11 {and White is okay.} f6 21. Rc1) 20... c6 $1 $19
+{[%cal Rc6d5][%mdl 512]} 21. Bf3 (21. Nxc6 Nxc6) 21... Rd7 22. Rd3 Na6 23. Bxc6
+Nxc5 24. Bxd7 Nxd3 ({Inferior is} 24... Nxd7 25. b4 $11) 25. Bxe8 {Black must
+now prevent Nc2.} Bxd4 26. Bxf7 Nc1 27. Kf1 Kg7 28. Bd5 Nxa2 29. Be4 Kf6 30.
+Bc2 Ke7 31. Kg2 (31. c5 {was worth a try.}) 31... Kd6 32. Kf3 Kc5 33. Ke4 Nc1
+34. Bd1 a5 35. g4 Bc3 36. Kxe3 {[#]} Kb4 $1 37. Ke4 $2 (37. f5 {only move.})
+37... Nxb3 38. Bxb3 Kxb3 {[%mdl 4096] Endgame KB-KP} 39. c5 a4 {Hoping for ...
+a3.} 40. c6 {[#] Threatens to win with c7.} Ba5 $1 41. f5 {intending f6.} a3
+42. f6 {and the idea f7 leaves White hopeful.} a2 43. f7 {White hopes to
+continue with c7.} a1=Q {( -> ...Qh1+)} 44. f8=Q Qa4+ 45. Ke5 $2 (45. Kf3)
+45... Bc3+ {Black is clearly winning.} 46. Ke6 Qxg4+ {[%mdl 64] Double Attack}
+47. Kf7 Qc4+ {[%mdl 64] Double Attack} 48. Ke8 Qxc6+ 49. Kf7 Qc4+ {Accuracy:
+White = 51%, Black = 87%.} 0-1
+

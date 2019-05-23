@@ -1,0 +1,32 @@
+[Event "World Chess Olympiad 2018"]
+[Site "Batumi"]
+[Date "2018.09.25"]
+[Round "2"]
+[White "Bullen, Alex"]
+[Black "Nxumalo, Vuyo"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2098"]
+[BlackElo "1525"]
+[Annotator "Karsten Mueller"]
+[SetUp "1"]
+[FEN "4Bn2/7k/4p2p/3pPp2/5P1P/4P1K1/8/8 b - - 0 82"]
+[PlyCount "24"]
+[EventDate "2018.??.??"]
+[SourceTitle "1005"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+82... Kg7 {Knights like tactics and need a concrete task. And you should take
+care to give your knights room to manoeuvre.} {[%tqu "En","White to move and
+win","","","h4h5","",3,"g3f2","kann der Springer ausbrechen:",0]} 83. h5 $1 {
+Closing all escape routes.} ({After} 83. Kf2 $2 {Black's knight can come back
+to freedom:} Ng6 84. h5 Nh8 85. Ke2 Kf8 86. Bb5 Nf7 87. Kd3 Ke7 88. Kd4 Kd8 89.
+Kc5 Kc7 90. Be8 Nd8 $11) 83... Nh7 84. Kf2 Kf8 85. Bg6 $1 {White needs to be
+precise.} (85. Ba4 $2 {fails to} Ke7 86. Ke2 Nf8 87. Kd3 Nd7 88. Kd4 Kd8 $11)
+85... Kg7 86. Ke2 {The knight stays imprisoned.} ({However, the direct} 86.
+Bxh7 {also wins:} Kxh7 87. Ke2 Kg7 88. Kd3 Kf7 89. Kd4 Ke7 90. Kc5 Kd7 91. Kb6
+$18 {[%csl Gb6,Gb7,Gc6,Gd6] The white king reached a key square.}) 86... Nf8
+87. Be8 Nh7 88. Kd3 Nf8 89. Kd4 Kg8 90. Kc5 Kg7 91. Kd6 Kg8 92. Ke7 Kg7 93. Bf7
+Nh7 94. Bxe6 1-0
+

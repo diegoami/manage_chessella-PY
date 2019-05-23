@@ -1,0 +1,32 @@
+[Event "SPICE Cup Open 2018"]
+[Site "Saint Louis USA"]
+[Date "2018.10.23"]
+[Round "1.5"]
+[White "Lenderman, Aleksandr"]
+[Black "Williams, Justus"]
+[Result "1-0"]
+[ECO "A13"]
+[WhiteElo "2626"]
+[BlackElo "2344"]
+[Annotator "Reeh,Oliver"]
+[PlyCount "53"]
+[EventDate "2018.10.23"]
+
+1. Nf3 d5 2. e3 g6 3. c4 e6 4. g3 Bg7 5. Bg2 Ne7 6. d4 Nbc6 7. O-O O-O 8. Na3
+a5 9. Bd2 b6 10. Qb3 Ba6 11. Rfd1 Qd7 12. Rac1 Rfd8 13. cxd5 exd5 14. Nb5 h6
+15. a4 Rac8 16. h4 Kh8 17. Kh2 Ng8 18. Ne5 Nxe5 19. dxe5 Bxe5 20. Bc3 Bg7 21.
+Bxg7+ Kxg7 22. Rxd5 Qe6 {The capture 23.Nxc7! is White's best in the diagram
+position, provided he has the right answer ready to 23...Rxc7 24.Rxc7 Nf6 then.
+What about you?} 23. Nxc7 $1 {[%csl Gc7][%cal Gc7e6,Gc7a6,Gc1c7] If it works,
+it works!} Rxc7 24. Rxc7 Nf6 {[%csl Rb3,Rd5,Gf6][%cal Ye6b3,Gf6g4,Gf6d5]} {
+[%tqu "En","Black has played ...Nf6, hitting the rook d5 and toying with ideas
+like ...Ng4+. What now?","Move the right rook!","","c7c6","",10,"d5b5","",0]}
+25. Rc6 $1 {[%csl Gc6,Re6][%cal Gc6e6,Ye6b3] The point - White's rook hits the
+pinning queen on e6!} ({Not} 25. Rb5 $2 Ng4+ $1 (25... Bxb5 $4 26. Qxe6 $18 {
+[%cal Gc7g7]}) {and White must allow the perpetual with 26.Kh3 Nxf2+ 27.Kh2
+Ng4+ since} 26. Kg1 $4 {loses to} Qxb3 27. Rxb3 Rd1+ $1 {[%csl Rg1][%cal Gd1g1,
+Gg4h2]}) 25... Rxd5 (25... Qxc6 {[%tqu "En","Continuation?","","","d5d8","",10]
+} 26. Rxd8 {[%csl Gd8] Sure thing - this rook is not pinned anymore, and there
+are no back rank tricks for Black:} Ng4+ 27. Kg1 Qc1+ 28. Qd1 $1) 26. Rxe6 Ng4+
+27. Kg1 {[%cal Gb3d1,Rd5d1]} 1-0
+

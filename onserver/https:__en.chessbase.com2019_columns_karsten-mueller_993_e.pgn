@@ -1,0 +1,36 @@
+[Event "ESP-chT"]
+[Site "Cordoba"]
+[Date "1995.??.??"]
+[Round "2"]
+[White "Rahal, Michael"]
+[Black "Alcazar Jimenez, Jesus Alberto"]
+[Result "*"]
+[ECO "C77"]
+[WhiteElo "2330"]
+[Annotator "Karsten Müller"]
+[SetUp "1"]
+[FEN "8/3k4/1P6/2P5/2N1bp2/6p1/5KP1/8 w - - 0 61"]
+[PlyCount "12"]
+[EventDate "1995.??.??"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[SourceTitle "993"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+61. Kg1 {Far advanced passed pawns are usually very strong. However, in the
+following case they could be stopped.} {[%tqu "En","Black to move and draw","",
+"","d7d8","",0,"d7c6","",10,"d7c8","",0,"e4d5","",0]} Kc6 $1 (61... Kd8 $2 {
+was the move played in the game. But it was not good enough.} 62. Ne5 Kc8 63.
+c6 Kb8 (63... Bf5 {fails to} 64. Nd7 Bxd7 65. b7+ Kc7 66. cxd7 $18) 64. Nd7+ {
+[%cal Gb6b8] 1-0}) (61... Kc8 $2 62. Nd6+ $18) (61... Bd5 $2 62. Ne5+ Ke6 63.
+c6 Kxe5 64. b7 Bxc6 65. b8=Q+ $18) 62. Na5+ (62. b7 Kc7 $11) 62... Kd7 $3 {
+was necessary, e.g.} ({After} 62... Kxc5 $2 63. b7 Bxb7 64. Nxb7+ Kd4 65. Nd6 {
+the knight returns in time:} Ke3 66. Nf5+ Ke2 67. Nh4 Ke3 68. Kf1 Kd2 69. Nf3+
+Kd3 70. Ke1 Ke3 71. Ne5 Ke4 72. Nc4 Kd3 73. Nd2 Ke3 74. Nf3 Kd3 75. Kf1 Ke3 76.
+Ne1 Kd2 77. Nc2 Kd3 78. Ke1 Kxc2 79. Ke2 $18) 63. c6+ (63. Nc4 Kc6 $11) 63...
+Kc8 $1 (63... Bxc6 $2 64. Nxc6 Kxc6 65. Kf1 Kxb6 66. Ke2 Kc5 67. Kf3 $18) 64.
+c7 Bd5 $1 {[%cal Gd5a8,Gd5a2,Gd5g2] The bishop has everything under control.}
+65. Kf1 Kd7 66. Ke2 Bxg2 $11 *
+

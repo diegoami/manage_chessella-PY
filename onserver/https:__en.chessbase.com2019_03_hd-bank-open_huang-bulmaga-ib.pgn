@@ -1,0 +1,50 @@
+[Event "9th HDBank Open 2019"]
+[Site "Ho Chi Minh City"]
+[Date "2019.03.11"]
+[Round "7.23"]
+[White "Huang, Renjie"]
+[Black "Bulmaga, Irina"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "2335"]
+[BlackElo "2424"]
+[Annotator "Irina"]
+[PlyCount "62"]
+[EventDate "2019.03.07"]
+[EventType "swiss"]
+[EventCountry "VIE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "5400+30"]
+
+1. e4 {[%emt 0:00:00]} c6 {[%emt 0:00:34]} 2. d4 {[%emt 0:00:00]} d5 {[%emt 0:
+00:16]} 3. Nc3 {[%emt 0:00:00]} dxe4 {[%emt 0:00:10]} 4. Nxe4 {[%emt 0:00:02]}
+Bf5 {[%emt 0:00:11]} 5. Ng3 {[%emt 0:00:06]} Bg6 {[%emt 0:00:06]} 6. Nh3 {
+[%emt 0:00:18]} Nf6 {[%emt 0:00:47]} 7. Nf4 {[%emt 0:00:11]} Nbd7 {[%emt 0:00:
+24]} 8. c3 {[%emt 0:01:04]} Qc7 {[%emt 0:00:47]} 9. Bc4 {[%emt 0:02:02]} e6 {
+[%emt 0:00:34]} 10. O-O {[%emt 0:02:33]} (10. h4 $5 {another possibility})
+10... Bd6 {[%emt 0:00:54]} 11. Qf3 {[%emt 0:00:26]} O-O-O {[%emt 0:00:45]
+Black's idea is simple - to force White take on g6 and open the "h" file and
+then create an attack using it.} 12. Be3 $6 {[%emt 0:04:52]} (12. b4 $5 {
+[%csl Rc5][%cal Ga2a4,Gb4c5] would maybe be a better way to start some
+counterplay}) 12... Nb6 {[%emt 0:09:44]} 13. Bb3 {[%emt 0:00:58]} Nbd5 {
+[%emt 0:00:09]} 14. Nxg6 $6 {[%emt 0:00:09]} (14. Nxd5 exd5 15. Bg5 h5 $13)
+14... hxg6 {[%emt 0:04:07][%cal Gh8h2,Gc7h2]} 15. Bg5 {[%emt 0:08:42]} Bf4 {
+[%emt 0:01:25]} 16. Bxf4 {[%emt 0:01:50]} Nxf4 {[%emt 0:05:57]} 17. Rfe1 {
+[%emt 0:08:34]} Rh4 {[%emt 0:06:43] Black succeeded in his plan and the attack
+promises to be very dangerous!} 18. Rad1 $2 {[%emt 0:01:23]} (18. h3 Rdh8 19.
+Ne4) 18... Rdh8 $6 {[%emt 0:10:29]} (18... g5 $1 $17 19. Nf1 Rdh8 20. g3 Nh3+
+21. Kg2 g4) 19. h3 {[%emt 0:07:21]} Nh7 {[%emt 0:03:31]} 20. Qe3 {[%emt 0:10:
+20]} Ng5 {[%emt 0:06:17][%csl Rh3]} 21. Bc4 {[%emt 0:05:56]} Qd8 {[%emt 0:01:
+43]} 22. Bf1 {[%emt 0:04:07]} Qf6 {[%emt 0:09:16]} 23. a4 $2 {[%emt 0:00:06]} (
+23. d5 $5 cxd5 24. Qxa7 Nfxh3+ 25. gxh3 Nf3+ 26. Kh1 $11) 23... Nfxh3+ {
+[%emt 0:00:32]} (23... Nf3+ $3 24. gxf3 (24. Kh1 Nxe1) 24... Rxh3 $1 25. Bxh3
+Nxh3+ 26. Kf1 Nf4 $19 {[%cal Gf6h4]}) 24. gxh3 {[%emt 0:00:50]} Nf3+ {[%emt 0:
+05:54]} 25. Kh1 {[%emt 0:07:06]} g5 {[%emt 0:02:26]} 26. Rd3 {[%emt 0:02:47]} (
+26. Ne4 Rxh3+ 27. Bxh3 Rxh3+ 28. Kg2 Nxe1+ 29. Kxh3 Qh6+ 30. Kg3 Qh4#) 26... g4
+{[%emt 0:01:22]} 27. Red1 $4 {[%emt 0:00:04]} (27. Qe4 Nxe1 28. Qxe1 gxh3 29.
+Re3 $13) 27... Rxh3+ {[%emt 0:00:12]} 28. Bxh3 {[%emt 0:03:20]} Qh4 29. Qxf3 {
+[%emt 0:00:02]} Qxh3+ {[%emt 0:00:43]} 30. Kg1 {[%emt 0:00:04]} gxf3 31. Rxf3
+f5 {[%emt 0:00:26]} 0-1
+

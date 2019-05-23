@@ -1,0 +1,185 @@
+[Event "European Championship"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "8"]
+[White "Artemiev, V."]
+[Black "Hracek, Z."]
+[Result "1-0"]
+[WhiteElo "2736"]
+[BlackElo "2578"]
+[Annotator "DF"]
+[PlyCount "57"]
+[EventDate "2019.03.27"]
+
+1. c4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. e3 e6 5. d4 d5 6. cxd5 exd5 7. Bb5 $5 {
+Normally, the stronger player would try and force a structural imbalance, such
+as the isolated queen's pawn. This represents an alternative approach.} cxd4 8.
+exd4 Be7 (8... Bd6 {is more active.}) 9. O-O O-O 10. Ne5 Bd7 11. Bg5 Rc8 12.
+Re1 Re8 13. Rc1 a6 14. Bxc6 Bxc6 15. Qf3 {Through both sides playing natural
+moves, Black has come under some degree of pressure. Now, Black had to take
+active measures to get out.} Qd6 {Now White gets time to build up.} (15... h6
+$1 16. Bh4 (16. Bxh6 gxh6 17. Qg3+ Kh7 18. Nxf7 Qd7 $11 {looks way too scary,
+but is in fact completely playable.}) 16... Qb6 $1 17. Nxc6 (17. Bxf6 Bxf6 18.
+Nxd5 Bxd5 19. Qxd5 Bxe5 20. Qxe5 Rxe5 21. Rxc8+ Kh7 22. dxe5 Qxb2 23. Rc7 Kg8
+$11 {is harder to play for Black, but still essentially level.}) 17... bxc6 18.
+Rxe7 Rxe7 19. Bxf6 Qxb2 $3 $11) 16. h3 $1 {The top move of cloud engines at
+high depth, for reasons that are not immediately clear to me.} Bd8 (16... h6
+17. Bf4 Qb4 18. Rcd1 Qxb2 19. Bxh6 gxh6 20. Rd3 $16) 17. Re3 Rf8 (17... h6 18.
+Bf4 Qf8 $14 {was now obligatory, going into full defensive move: next can come
+...Bc7 or ...Bb6, and then perhaps trying to double on the e-file.}) 18. Rce1
+Qb4 $6 {Black is mixing and matching his defensive and attacking moves in a
+way that does not inspire confidence.} (18... Nd7 $14) 19. Qf5 Ra8 20. Rd1 (20.
+Bh6 $3 gxh6 21. Qf4 $1 {is winning, and there are some beautiful lines.}) 20...
+Ne8 21. Bf4 Nf6 22. Rg3 Kh8 23. Rdd3 Be8 24. a3 $6 (24. Rxg7 {works
+immediately as well.}) 24... Qxb2 $2 (24... Qe7 $16) 25. Rxg7 $1 Kxg7 26. Rg3+
+Kh8 27. Nxd5 Nxd5 28. Bh6 {We can see the rationale for asking Black to take
+on b2 first: now there is no way for the Black queen to protect f8.} Bf6 29.
+Qxf6+ $1 {A nice finishing touch for what, in all honesty, was a bit of a rout.
+} 1-0
+
+[Event "European Championship"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "8"]
+[White "Korobov, A."]
+[Black "Erdos, V."]
+[Result "1-0"]
+[WhiteElo "2686"]
+[BlackElo "2612"]
+[Annotator "DF"]
+[PlyCount "73"]
+[EventDate "2019.03.27"]
+
+1. d4 Nf6 2. c4 g6 3. f3 {Every so often, this move makes an appearance when
+White wants to try and cut out a Grunfeld, at the expense of committing to a
+Saemisch.} e6 {Besides the obvious ...Bg7 and ...d6 (acquiescing to White's
+plans) there are of course some other moves, of which this is one.} (3... e5 $5
+4. dxe5 Nh5 {is a gambit line once tried against me by the English GM Danny
+Gormally; White seems to get a good game in various ways, including} 5. Nh3 $14
+{. The fact that Kramnik lost the pioneer game with White had nothing to do
+with the opening. Kramnik,V-Leko,P Tilburg 1998}) (3... d5 4. cxd5 Nxd5 5. e4
+Nb6 {If it were possible to play like this, White's construction would have no
+point at all, but it seems pretty much beyond dispute that White is better
+following} 6. Nc3 Bg7 7. Be3 $14) (3... c5 4. d5 b5 5. e4 d6 6. cxb5 a6 7. Nc3
+Bg7 8. a4 O-O 9. Be3 {seems like a good Benko version for White, but one can
+never be entirely sure!}) 4. Nc3 c5 5. d5 d6 6. e4 exd5 7. cxd5 ({I was always
+taught that if you can recapture with the e-pawn, then you should, because
+Black's compensation for his lack of space revolves around dynamic pawn play,
+of which there is necessarily less in a symmetrical structure. That being said,
+the computer now produces the interesting line} 7. exd5 Bg7 8. Qe2+ $5 Kd7 $3
+9. Qc2 Re8+ 10. Be2 Ke7 $1 {when White has a slight problem developing his
+kingside!}) 7... Bg7 8. Nge2 a6 9. a4 Nbd7 10. Ng3 Nh5 $6 {This is a lot more
+standard when White is about to take it with a bishop. In the present case, it
+yields interesting play, but not necessarily in a way that advantages Black.} (
+10... h5 {is a lot more stereotyped, and after} 11. Be2 Nh7 {threatens ...h4
+followed by ...f5.}) 11. Nxh5 gxh5 12. Be3 O-O 13. Qd2 f5 14. Be2 {It is
+possible for White to play in more challenging ways, but he reasons that with
+Black's bad structure it is his opponent who needs to prove something right
+now.} fxe4 (14... Ne5 15. O-O Ng6 $5 {is an interesting idea, trying to
+establish dominion over the dark sqaures. Black is still a bit worse due to
+poor development after} 16. f4 fxe4 17. Bxh5 Qe7 $14 {but he has solved his
+structural issues.}) 15. Nxe4 Nf6 16. Ng5 Re8 17. O-O Qe7 {Now White has
+consololidated his advantage to some extent.} (17... Ng4 $5 {was an
+interesting possibility that must have occurred to Black, and it forces fairly
+precise play from his opponent.} 18. Bf4 $1 Ne3 $1 19. Bd3 $1 $14) 18. Ra3 Bd7
+19. Re1 {White places trust in e-file tricks.} (19. a5 {seems more natural,
+though it doesn't leave White with as big an edge after} Bb5 20. Re1 $14) 19...
+b5 {This is consistent, so even if it doesn't work Black should try it.} (19...
+h6 $2 {is too depressing:} 20. Ne6 Bxe6 21. dxe6 Qxe6 22. Bxh6 $16 {leaves
+White with a large advantage via auto-pilot methods.}) 20. axb5 axb5 21. Rxa8
+Rxa8 22. Bd3 Qe5 (22... Re8 {prevents Bxc5, but strangely, an almost equal
+amount of damage will be done by taking the Black bishop-pair:} 23. Bf2 Qf8 24.
+Ne6 Bxe6 25. dxe6 $16) 23. Bxc5 Qxd5 24. Bxh7+ Kh8 25. Bd4 $1 {Slowly does it-
+the idea is b4 and then either Re7 or Qf4.} ({A different player might have
+tried to grind the endgame after} 25. Qxd5 Nxd5 26. Bxd6 $16) 25... Ra4 (25...
+Re8 26. Rxe8+ Bxe8 27. Bc2 $18 {leaves White with no immediately obvious
+tactical threats, but in view of the general looseness of Black's position
+it's still a '+3'.}) 26. b4 Ra2 27. Qe3 (27. Qf4 $2 Nxh7 28. Bxg7+ Kxg7 $11 {
+doesn't work immediately because the back-rank mates keep White's e1-rook
+honest.}) 27... Ra3 28. Qf4 $1 {Now White had to find this- nothing else is
+good enough. It suffices, though, to see that his king gets to g3. Then, he
+can win in a rook ending if truly necessary.} Nxh7 29. Bxg7+ Kxg7 30. Re7+ (30.
+Nxh7 Kxh7 31. Qf6 {looks more clinical to me, but this is purely stylistic.
+Black has no checks and to avoid Re7+ he must walk into Qd8+.}) 30... Kg6 31.
+Nxh7 Ra1+ 32. Kf2 Ra2+ 33. Kg3 h4+ 34. Qxh4 {The checks are at an end and now
+White gives mate.} Qd2 35. Nf8+ Kf5 36. Rf7+ Ke5 37. Qe4# 1-0
+
+
+[Event "European Championship"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "8"]
+[White "Zvjaginsev, V."]
+[Black "Ter-Sahakyan, S."]
+[Result "1/2-1/2"]
+[WhiteElo "2642"]
+[BlackElo "2590"]
+[Annotator "DF"]
+[PlyCount "116"]
+[EventDate "2019.03.27"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 {I am always interested in the progress
+of the openings in Zvjaginsev's games, and this one is no exception.} Nf6 $5 {
+This move isn't common, mostly due to a misplaced fear of the e5-based tricks.
+However, it is the maximalist move: Bb5 isn't good now because of ...Bd7, and
+anything like the text move allows Black to play ...Nc6 under more auspicious
+circumstances than before.} (4... a6 5. h3 {tends to be quite a reliable plus
+for White.}) (4... Nc6 {is the main line, and now people have started meeting
+it with} 5. Bb5 Bd7 6. Qd3 $5) 5. Be2 (5. e5 $6 Nc6 6. Bb5 {Now Black has no
+fewer than three playable moves, but only one that convinces me. It is the one
+played against me by Indian wunderkind Gukesh, and after it, only Black plays
+for an advantage.} Qa5+ $1 (6... Nd7 $5 7. Bxc6 bxc6 8. exd6 e5 9. Qc3 Qf6 {
+In spite of the enthusiasm of the engines for Black's position, I find myself
+mistrusting it because of the split queenside pawns.}) (6... dxe5 7. Bxc6+ bxc6
+8. Qxd8+ Kxd8 9. Nxe5 Ke8 10. O-O Bb7 11. Nd2 $14 {Black has avoided losing a
+pawn, and there are good chances of the usual ...f6/...e5 bulwark emerging in
+the following moves, but for now I think White might just have something.}) 7.
+Nc3 Qxb5 8. Nxb5 Nxd4 9. Nbxd4 (9. Nfxd4 $6 dxe5 10. Nc7+ Kd7 $1 (10... Kd8 11.
+Nxa8 exd4 12. Bf4 Bf5 13. Bb8 $6 (13. O-O-O d3 14. Nc7 e6 15. Nb5 $11) 13...
+Kc8 $5 (13... Bxc2 $15) 14. Bxa7 b6 15. Bxb6 Kb7 16. Bxd4 Kxa8 $13 {is a cute
+but flawed line}) 11. Nxa8 exd4 12. Bf4 e5 $1 13. Bxe5 Bd6 14. f4 Kc6 15. O-O-O
+Be6 16. Bxd6 Kxd6 17. Rxd4+ Kc5 $15) 9... dxe5 10. Nxe5 {Now Black has several
+moves that give good chances, of which} g6 $36 {looks like a reliable one.}) (
+5. c4 {is the only 'normal' advantage-seeking move at White's disposal. This
+will be similar to the game after} g6 6. Be2 Nc6 7. Qd3 Bg7 8. Nc3 Bg4 $11)
+5... Nc6 6. Qe3 Bg4 $6 {Maybe it is better not to hurry with this move, White
+could end up winning the bishop pair in a favourable way relatively often.} 7.
+O-O g6 8. Rd1 {This is White's big idea. Black needs to make some concession
+in view of the idea of e5.} Qc8 (8... h5 $5 9. Ng5 $1 $14 (9. e5 Bh6 10. Qb3
+Bxf3 $15)) 9. c4 {This move and the next could be slightly inaccurate.} (9. h3
+Bxf3 10. Qxf3 Bg7 11. Nc3 $14) 9... Bg7 10. Nc3 $5 {Inviting Black to take on
+f3.} Bxf3 11. Qxf3 (11. gxf3 O-O 12. f4 $132) 11... Ne5 12. Qg3 Nxc4 13. Bg5
+O-O (13... Nb6 $5 {was the move to try and win.} 14. Bb5+ (14. a4 O-O 15. a5
+Nbd7 $15) 14... Kf8 15. Rac1 Qe6 $44) 14. Bxf6 {Ensuring that even though
+White might not get anything in an objective sense, a variety of
+slightly-more-pleasant endings with 4 healthy kingside pawns against 4
+unhealthy ones will be available.} Bxf6 15. Nd5 Ne5 16. Nxf6+ exf6 17. f4 $6 {
+Now the d6-pawn becomes less easy to take cleanly.} (17. Rac1 $1 $11) 17... Nc6
+18. Rxd6 Qc7 19. Rad1 (19. Rd2 Rad8 20. Rad1 Qb6+ 21. Qf2 Rxd2 22. Rxd2 Qb4 23.
+Bd3 Rd8 $15) 19... Qb6+ 20. Qf2 Qxb2 21. Bf3 Qc3 22. R6d3 (22. Qd2 $44) 22...
+Qb4 23. h4 Rfd8 24. Rd5 Qb6 {Black cedes most of his winning chances in order
+to run less risk. In what follows, the game stays within the drawing margin,
+but both sides commit small practical inaccuracies that increase or diminish
+their chances of drawing respectively.} (24... Kg7 25. h5 Rxd5 26. exd5 Ne7 27.
+d6 Nf5 28. d7 Rd8 $15 {is better for Black, but slightly messy.}) 25. Qxb6 axb6
+26. Rxd8+ Nxd8 (26... Rxd8 27. Rb1 Ra8 28. Rxb6 Rxa2 29. Rxb7 Nd4 30. h5 $11)
+27. Rd7 ({White needs to be unafraid of rook swaps.} 27. Rd6 Kg7 28. Bd1 $1 (
+28. Rxb6 Rxa2 $15) 28... Nc6 29. Bb3 Rd8 30. Rxd8 Nxd8 31. Kf2 $11) 27... Kf8
+$1 (27... Ne6 $5 28. Rxb7 Nxf4 29. Rxb6 Rxa2 30. Rxf6 Ne6 31. Bg4 Nc5 32. Bf3
+Kg7 33. Rb6 Ra4 {White will have to draw the 3v2 or 2v1.}) 28. Be2 Ke8 $6 (
+28... Rxa2 $1 29. Rxd8+ Ke7 30. Rd4 Rxe2 31. Rb4 Kf8 32. g3 b5 33. Rxb5 Rxe4
+34. Rxb7 $15) 29. Bb5 Ra5 30. Rd5+ Ke7 31. Rd7+ Ke8 32. Rd5+ Nc6 33. Bxc6+ $6 (
+33. a4 Ke7 34. Kf2 $11 {is difficult to bring yourself to play.} (34. g4 {
+is also a move and now it really isn't clear what Black tries.})) 33... bxc6
+34. Rd6 Rc5 (34... f5 35. exf5 Rxf5 36. Rxc6 Rxf4 37. g3 Rb4 $15 {is a much
+more reasonable winning attempt since White can't easily swap the queenside
+pawns.}) 35. Rxf6 Ke7 36. e5 b5 37. a3 Rc2 38. h5 $2 (38. Kh2 h5 {Presumably
+this was Black's plan, but after} 39. f5 Rf2 40. Rxc6 Rxf5 41. Rc5 $11 {
+The queenside pawns will be swapped.}) 38... c5 (38... gxh5 $1 $15 {While
+White is taking back a pawn, Black can make progress elsewhere.}) 39. hxg6 hxg6
+40. Rc6 c4 41. Kh2 Rb2 ({After} 41... Rc3 42. Rc5 Ke6 43. Rxb5 Kf5 44. a4 Kxf4
+45. a5 Ke4 {White needs to find} 46. Rb4 $3 {in order to draw.}) 42. a4 $1 {
+White seizes his chance and the game is objectively drawn.} bxa4 43. Rxc4 a3
+44. Ra4 a2 45. Ra6 Kd7 46. Kh3 Kc7 47. g4 Kb7 48. Ra4 Kc6 49. Kh4 Kb5 50. Ra8
+Kc4 51. f5 gxf5 52. gxf5 Rb4 53. Kg5 Kb3 54. e6 fxe6 55. fxe6 Ra4 56. Rxa4 Kxa4
+57. e7 a1=Q 58. e8=Q+ Kb3 1/2-1/2

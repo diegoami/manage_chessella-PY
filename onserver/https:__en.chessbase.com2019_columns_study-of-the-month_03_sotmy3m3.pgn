@@ -1,0 +1,217 @@
+[Event "Wiener Schachzeitung"]
+[Site "?"]
+[Date "1924.01.??"]
+[Round "?"]
+[White "Mandler, Artur"]
+[Black "König, Imre"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/5P1k/8/2K5/pr2r3/4R3/2R5 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1924.??.??"]
+
+{In Vienna, Mandler met many great chess players and this coproduction with
+Imre König is among my favorites for its fourfold echo, light setting and
+ultimately humor, showing that already in January 1924 Mandler's talent could
+get him a chuckle. White to move and win.} 1. f7 $1 ({White can try other
+ideas, and while Mandler's defenses aren't the only ones, ultimately they
+easily draw.} 1. Rf2 $2 Rf3 $1 ({Among this study's more extended analysis, i.
+e. not written by Mandler or reprints but if readers analyze the position, the
+pawn sacrifice on a2 is also often working.} 1... a2 2. f7 Rbc3+ $1 3. Rxc3
+Rxc3+ 4. Kb4 Rc8 $11) 2. Rcf1 Rxf2 3. Rxf2 Rb2 4. Rf1 a2 5. f7 Rb8 $11) (1. Rg2
+$2 Rh3 2. Rf1 Rbf3 $1 3. Rgf2 Rxf2 4. Rxf2 a2 $1 $11) 1... Kg7 2. f8=Q+ $1 Kxf8
+3. Rf1+ Kg7 $1 ({Other main variation:} 3... Rf3 4. Ref2 Rbc3+ 5. Kb4 Rb3+ 6.
+Ka4 $18) ({Other main variation:} 3... Ke8 4. Rfe1 Rbc3+ 5. Kb4 Rb3+ 6. Ka4 $18
+) (3... Ke7 4. Rfe1 $1 Rbc3+ 5. Kb4 Rb3+ 6. Ka4) 4. Rg2+ Kh6 ({Other main
+variation (not given as main in the original source apparently):} 4... Rg3 5.
+Rfg1 $18) 5. Rh1+ Rh3 6. Rgh2 $1 Rbc3+ 7. Kb4 Rb3+ 8. Ka4 $18 {and after being
+pinned on e3, f3, g3 or h3 the rook can't defend his brother while saving
+himself. A very curious position where White wins an endgame that materially
+should otherwise be a dead draw.} 1-0
+
+[Event "Tidskrift for Schack (incorrect)"]
+[Site "?"]
+[Date "1967.11.??"]
+[Round "?"]
+[White "Mandler, Artur"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "krb5/1N6/2B5/1r6/K7/8/P7/8 w - - 0 1"]
+[PlyCount "8"]
+[EventDate "1967.??.??"]
+
+{I would like to take this November 1967 study from "TfS", as it is commonly
+abbreviated, to show how an incorrectness and correction of an idea can spawn
+something new. Mandler's original solution and the "cook" (unintended solution)
+are shown here, the correction split this study into two positions to show
+both solutions. Another idea would have been to keep the position but make the
+stipulation into "Draw. 2 solutions", although such multiple solutions are
+usually used in helpmates, rarely in directmate problems and almost never in
+endgame studies. White is to move and draw.} 1. Na5+ ({The unintended solution
+runs} 1. Nd6+ $1 R5b7 2. Ka5 Ka7 3. Bxb7 Bxb7 4. Nb5+ Ka8 5. Nc7+ $11) 1...
+R5b7 2. Ka3 Ka7 3. Bxb7 Bxb7 4. Nc6+ Bxc6 {with a stalemate. Note that for the
+sake of this article, this study and its twin correction will be treated as a
+single study, so the higher number of studies this month is mostly due to this.
+} 1/2-1/2
+
+[Event "Tidskrift for Schack (twin A) 2nd prize"]
+[Site "?"]
+[Date "1969.01.??"]
+[Round "?"]
+[White "Mandler, Artur"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "krb5/1N6/2B5/1r6/K7/8/8/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1967.??.??"]
+
+{There is a convention that composers can participate in tourneys with
+corrected studies. In this case, the corrected study won the 2nd prize in
+Tidskrift for Schack 1969. This is the first part of a twin: White to move and
+draw.} 1. Nd6+ ({The stalemate sequence would work after} 1. Nd8+ {. However,
+Black will not play the rook but rather the bishop:} Bb7 $1 $19 (1... R5b7 $2
+2. Ka5 Ka7 3. Bxb7 Bxb7 4. Nc6+ Bxc6 $11)) 1... R5b7 2. Ka5 Ka7 3. Bxb7 Bxb7 4.
+Nb5+ Ka8 5. Nc7+ {and the initially unintended solution is the intended one
+here.} 1/2-1/2
+
+[Event "Tidskrift for Schack (twin B) 2nd prize"]
+[Site "?"]
+[Date "1969.01.??"]
+[Round "?"]
+[White "Mandler, Artur"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "krb5/1N6/2B5/8/K7/1r6/P7/8 w - - 0 1"]
+[PlyCount "8"]
+[EventDate "1967.??.??"]
+
+{See the previous entry for the explanation. To be added here is that Mandler
+was extremely lucky to have b3 as a square that corrects the study, as the
+rook remains incredibly attacked but not able to be taken. White to move draws
+in the originally intended way instead. Readers will easily figure out why the
+perpetual check won't work here (remember what refuted the try in the other
+twin).} 1. Na5+ R3b7 2. Ka3 $1 Ka7 3. Bxb7 Bxb7 4. Nc6+ Bxc6 $11 1/2-1/2
+
+[Event "Ceskoslovensky Sach"]
+[Site "?"]
+[Date "1932.01.??"]
+[Round "?"]
+[White "Mandler, Artur"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/6R1/8/4n3/8/8/p7/k1K5 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1932.??.??"]
+
+{This study originally was published with a different solution, but it was
+changed later. As this makes the study the most extensive of the entire
+Mandler research into this position (further research was done for example by
+Werner Speckmann in the field of moremovers), it was included here as just one
+example of the many subtleties of this endgame. Here White is to move and win.
+We give all the complicated variations of the later changed solution here.} 1.
+Re7 (1. Rg1 $2 Nf3 $1 $11) (1. Kc2 $2 Nf3 $1 $11) 1... Nd3+ 2. Kc2 Nb4+ $1 (
+2... Nc1 3. Rh7 $18 (3. Rf7 $18)) 3. Kb3 Nd3 (3... Nc2 4. Rd7 $18) 4. Re3 Nc1+
+(4... Nc5+ 5. Kc3 $18) 5. Kc2 Ne2 (5... Nd3 6. Re2 Nb4+ 7. Kb3 Nd3 8. Rd2 Kb1
+9. Rxd3 a1=Q (9... a1=N+ 10. Kc3 $18 ({I leave the win (by al-Adli?) after} 10.
+Ka3 Kc1 11. Rc3+ Kb1 12. Rc5 Nc2+ 13. Kb3 Ne3 14. Kc3 Nd1+ 15. Kd2 Nb2 {as an
+exercise for readers.})) 10. Rd1#) 6. Re4 $1 Nd4+ 7. Kc3 Nf3 (7... Nc2 8. Rh4
+Na3 9. Kb3 Nb1 10. Rd4) 8. Rb4 Nd2 (8... Ng1 9. Rb2 Nf3 10. Rf2) 9. Rh4 Nb1+
+10. Kc2 Na3+ 11. Kb3 Nb1 12. Rh2 $18 {and it is done.} 1-0
+
+[Event "Práce, 1st prize"]
+[Site "?"]
+[Date "1949.12.25"]
+[Round "?"]
+[White "Mandler, Artur"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1K6/2pp4/2k5/5p2/2PP1p2/5P2/8/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1949.??.??"]
+
+{Before we get to the fun conclusion, we will show the entire depth of
+Mandler's ideas in a simple-looking pawn endgame. Readers are welcome to play
+through all the variations, or just skip them and only watch the main
+variation of this study if they feel intimidated. White is to move and win.} 1.
+Ka7 ({The obvious move does not win:} 1. Kc8 $2 d6 2. Kd8 Kb7 3. d5 ({The
+opposition or rather White being unable to maintain it is important also:} 3.
+Kd7 Kb6 $11) (3. Ke7 Ka6 $11) 3... Kb6 4. Kd7 Kb7 5. Ke6 Kb6 6. Kxf5 Kc5 7.
+Kxf4 Kxc4 {and it looks completely won for White, but...} 8. Ke4 Kc5 9. f4 c6
+$11) 1... Kd6 ({A symphony of opposition and countersquares runs after} 1... d6
+2. Ka6 (2. Ka8 $2 Kb6 3. Kb8 c6 4. Kc8 Ka5 5. Kc7 Kb4 6. Kxc6 Kxc4 7. d5 Kd4 8.
+Kxd6 Ke3 9. Ke5 Kxf3 10. d6 Kg3 $11) 2... Kd7 3. Kb7 Kd8 4. Ka7 Ke7 $1 (4...
+Kd7 5. Kb8 $18) (4... Kc8 5. Ka8 $18) (4... Ke8 5. c5 $18) 5. Ka8 Ke6 (5... Kd7
+6. Kb8 $1 Kc6 7. Kc8 Kb6 8. Kd7 $1 (8. d5 $2 c6 9. Kd7 cxd5 10. cxd5 Kc5 11.
+Ke6 Kd4 12. Kxd6 Ke3 13. Ke5 Kxf3 14. d6 Kg3 15. d7 f3 16. d8=Q f2 $11 {and
+despite the extra pawn for Black, White can't win as he needs the checking
+field g4. This is an interesting position to show to pupils in a chess club
+when they know the h-/f-pawn draw vs. queen.}) 8... Kb7 9. c5 dxc5 10. dxc5 c6
+11. Kd6 $18) (5... Ke8 6. c5 $18) (5... Kd8 6. Kb7 $18) (5... Kf6 6. Kb7 c5 7.
+d5 Ke5 8. Kc6 Kd4 9. Kxd6 Kxc4 (9... Ke3 10. Kxc5 $18) 10. Kc6 $18) 6. Kb7 Kd7
+7. c5 dxc5 8. dxc5 c6 (8... Kd8 9. c6 $18) 9. Kb6 $18) (1... d5 2. c5 Kb5 3.
+Kb7 Kc4 4. Kxc7 Kxd4 5. Kd6 ({Of course White can also reverse the move order,
+so here or in the previous move pushing the pawn also wins:} 5. c6 $18) 5...
+Ke3 6. c6 Kxf3 7. Ke5 ({I leave it as a small exercise to readers to figure
+out the win after} 7. c7 Kg2 8. c8=Q f3 $18 {. It is not taking on f5 here.})
+7... Kg3 (7... d4 8. c7 $18) 8. c7 f3 9. c8=Q f2 10. Qxf5 Kg2 11. Qg4+ Kh2 12.
+Qf3 Kg1 13. Qg3+ Kf1 14. Kd4 $18 ({Faster is however} 14. Kf4 $18)) 2. Kb7 c6 (
+2... c5 3. d5 Ke5 (3... Ke7 4. Kc7 $18) 4. Kc7 Kd4 5. Kxd7 Kxc4 (5... Ke3 6.
+Kc6 Kxf3 7. d6 Ke2 8. d7 f3 9. d8=Q $18) 6. Kc6 Kd4 7. d6 Ke3 8. d7 Kxf3 9.
+d8=Q $18) 3. Kb8 $1 (3. Kc8 $2 Ke7 $11) 3... Ke6 (3... Ke7 4. Kc8 d5 (4... Kd6
+5. Kd8 Ke6 6. Kc7 $1 (6. c5 $2 d6 7. Kc7 dxc5 8. dxc5 Kd5 9. Kb6 Kd4 10. Kxc6
+Ke3 11. Kd5 Kxf3 12. c6 Kg2 13. c7 f3 14. c8=Q f2 $11) 6... Ke7 7. d5 $1 $18)
+5. c5 Kf6 6. Kd7 Kg5 7. Kxc6 Kh4 8. Kxd5 Kg3 9. c6 $18) 4. Kc7 Ke7 5. d5 cxd5
+6. cxd5 d6 (6... Ke8 7. d6 $18) 7. Kc6 $18 {and White wins. Congratulations if
+you replayed everything, and I understand if you didn't.} 1-0
+
+[Event "Ceskoslovensky Sach, 6th hon. mention"]
+[Site "?"]
+[Date "1964.11.??"]
+[Round "?"]
+[White "Mandler, Artur"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "3k2B1/K7/1p6/8/p1P5/4p3/4P3/1b6 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1964.??.??"]
+
+{For our last study or rather two studies, we show side by side two bishop
+endgames from the same era. Mandler used the same trick in both studies but it
+wind only in one while in the other one there is just a draw. So here White is
+to move and draw.} 1. c5 (1. Kxb6 $2 Bd3 $1 {There is the trick. Or rather it
+will be in the fourth move of the main variation, but here it would be if
+White does not anticipate it.} 2. c5 Bxe2 3. c6 Bg4 $19) 1... bxc5 2. Kb6 c4 $1
+3. Bxc4 a3 4. Kc5 Bd3 $3 {An incredible move. And yet White can draw.} 5. Ba2
+$1 Bxe2 6. Kd4 Bc4 $1 {Often in endgames with this material just sacrificing
+the bishop wins. Here the bad luck of remaining with the wrong pawn prevents
+it.} 7. Kxe3 $1 Bxa2 8. Kd2 (8. Kd3 $2 Bb3 $19) 8... Bb3 9. Kc1 Ba2 10. Kc2 $11
+{and the black king is just too far away to protect b4 before White arrives
+there.} 1/2-1/2
+
+[Event "Pionyrske Noviny"]
+[Site "?"]
+[Date "1964.11.??"]
+[Round "?"]
+[White "Mandler, Artur"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/4p3/2p5/kP2PP2/8/8/5b1K/B7 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1964.??.??"]
+
+{I don't know this source. From the name it likely was a magazine for young
+people (called "pioneers" in the Eastern Block, not to be confused with the
+military pioneer occupation). White is to move and win here.} 1. f6 exf6 2. e6
+Bc5 3. bxc6 Kb6 {This runs into a pin.} ({The other main variation runs into a
+variation of the other study's trick, just more unexpected due to the
+"unguarded guard" theme, as Tim Krabbé dubbed blocking a check with an
+unprotected piece.} 3... Bd6+ 4. Be5 {and White wins, for example} fxe5 5. e7 (
+{or} 5. c7 Bxc7 6. e7 $18) 5... Bxe7 6. c7 $18) 4. Bd4 Bxd4 5. e7 $18 1-0
+

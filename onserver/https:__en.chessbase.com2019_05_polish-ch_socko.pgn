@@ -1,0 +1,87 @@
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.11"]
+[Round "1.4"]
+[White "Socko, Bartosz"]
+[Black "Tomczak, Jacek"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2627"]
+[BlackElo "2631"]
+[Annotator "TA"]
+[PlyCount "79"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,79,-8,0,0,0,0,0,18,0,0,0,14,3,10,8,3,4,8,3,6,7,12,0,6,0,7,8,32,5,7,0,
+65,-2,76,72,72,73,66,70,140,126,154,165,172,154,399,322,325,308,308,302,323,
+301,310,320,317,306,313,285,295,299,286,277,266,291,331,322,790,670]} 1. d4 d5
+2. Nf3 Nf6 3. g3 c5 4. Bg2 cxd4 5. O-O h6 6. Nxd4 e5 7. Nb3 Be6 {D02: 1 d4 d5
+2 Nf3 sidelines, including 2...Nf6 3 g3 and 2...Nf6 3 Bf4} (7... Be7 8. c4 d4
+9. e3 Nc6 10. exd4 exd4 11. N1d2 O-O 12. Nf3 d3 13. Be3 Bg4 14. h3 Bh5 15. Rc1
+{1/2-1/2 (41) Papin,V (2569)-Zvjaginsev,V (2663) Olginka 2011}) 8. c4 Nc6 ({
+Wrong is} 8... dxc4 $2 9. Qxd8+ (9. Bxb7 Nbd7 $11) 9... Kxd8 10. Bxb7 $18) 9.
+cxd5 Bxd5 {The position is equal.} 10. Nc3 {[%cal Rc3d5]} Bxg2 11. Kxg2 Be7 12.
+Be3 O-O 13. Rc1 Rc8 $146 ({Predecessor:} 13... Qc8 14. Nd5 Qf5 15. Nxe7+ Nxe7
+16. Bc5 {1/2-1/2 (75) Gyorkos,L (2435)-Zelic,M (2365) Split 1998}) 14. Qxd8
+Rfxd8 15. Rfd1 Rxd1 16. Rxd1 b6 17. a3 Kf8 18. h3 Rd8 19. Rc1 Ke8 20. Nb5 Kd7
+21. Rd1+ Ke8 (21... Kc8 $1 $11 22. Rxd8+ Bxd8) 22. Nc7+ $1 $14 Kf8 23. Rc1 Rd6
+24. f4 Ne4 25. fxe5 Rg6 ({Black should play} 25... Nxe5 $14 26. Nb5 Rc6) 26.
+Bf4 Bd8 27. Nb5 Ke8 {[#]} 28. h4 $1 {[%mdl 512] aiming for h5.} Kd7 $2 (28...
+Nxg3 $16 29. Bxg3 Bxh4) (28... Bxh4 29. Nd6+) 29. Kf3 Nc5 30. Nxc5+ bxc5 31.
+Rxc5 Re6 32. Rd5+ Ke7 33. e3 Bb6 34. Nd6 Kf8 35. b4 g5 36. hxg5 hxg5 37. Bxg5
+Nxe5+ 38. Ke2 Bc7 39. Nf5 Ra6 $2 {[#]} (39... f6) 40. Bd8 {Accuracy: White =
+67%, Black = 53%.} 1-0
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.13"]
+[Round "3.3"]
+[White "Socko, Bartosz"]
+[Black "Sadzikowski, Daniel"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "2627"]
+[BlackElo "2522"]
+[Annotator "TA"]
+[PlyCount "101"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,100,26,21,32,23,40,27,30,27,31,32,27,-5,0,0,0,-41,-18,-33,-2,-47,19,
+-4,0,-24,10,-16,37,34,23,10,35,0,26,13,24,24,133,128,154,89,200,215,197,111,
+176,149,162,167,156,158,162,141,187,185,227,214,211,86,92,81,91,85,78,79,104,
+100,110,110,124,120,123,123,285,272,290,291,392,392,377,365,792,784,765,660,
+29999]} 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. h3 Nf6 7. Nc3
+Nd7 8. Be3 e5 9. Qd2 h6 {B31: Sicilian: 2...Nc6 3 Bb5 g6} 10. O-O (10. a3 b6
+11. b4 Nf8 12. bxc5 Ne6 13. cxb6 axb6 14. Qc1 f5 15. a4 f4 16. Bd2 O-O 17. Qb2
+{0-1 (51) Meier,G (2628)-Caruana,F (2819) Karlsruhe/Baden Baden 2019}) 10... b6
+11. Nh2 Nf8 {White has an edge.} 12. f4 exf4 13. Bxf4 Ne6 14. Bg3 Qg5 $36 {
+[%mdl 2048] Black fights for an advantage.} 15. Qe1 Nd4 {[#]} 16. Bf4 $146 ({
+Predecessor:} 16. Nf3 Qd8 17. Qd2 {1-0 (62) Kobalia,M (2620)-Zagrebelny,S 
+(2485) Tula 2019}) 16... Qd8 (16... Nxc2 $2 17. Qc1 $18) (16... Qe7 {with more
+complications.} 17. Qf2 O-O 18. Rae1 Be6 19. e5 g5) 17. Qd2 g5 18. Be3 a5 (
+18... Qc7 $15) 19. Rae1 Ra7 20. Kh1 Be5 21. Ne2 f6 (21... Nxe2 $11 22. Rxe2 O-O
+) 22. c3 Nxe2 23. Qxe2 O-O 24. Rd1 Bb8 25. Qh5 Qd6 {[%csl Gb8][%cal Rd6h2]} 26.
+Bg1 f5 (26... Re7 $11 {keeps the balance.}) 27. d4 $1 $16 {[%cal Rd4c5]} c4 ({
+Don't go for} 27... fxe4 $2 28. dxc5 Qe6 29. Ng4 $18) 28. d5 (28. exf5 $142 $1
+{And now Ng4 would win.} Bxf5 29. Rxf5 $1 {[%mdl 512]} Rxf5 30. Ng4) 28... Kh7
+(28... Rg7 $16) 29. Nf3 $18 Rg7 {With the idea ...g4.} 30. e5 (30. exf5 $1 $18
+{Threatens to win with Bh2.} Bxf5 31. Bh2) 30... Qd8 (30... Qd7 $16) 31. dxc6
+Qe7 32. Bxb6 {Strongly threatening c7.} g4 33. hxg4 fxg4 {[#]} 34. Nh2 $1 {
+Black must now prevent Rxf8.} Rxf1+ 35. Rxf1 {Rf6 is the strong threat.} Qxe5
+36. Qxe5 Bxe5 37. Rf8 ({But not} 37. Bxa5 $6 Kg6 $16) (37. Bd4 $18 {is the
+precise move to win.} Bxd4 38. cxd4) 37... Rg8 $16 38. Rxg8 Kxg8 39. Bxa5 {
+[%mdl 4096] Endgame KBB-KBN} Kf7 40. Nf1 Be6 41. Bb6 Ke7 42. Bf2 h5 43. Bg3 Bf6
+44. Bf4 Bd5 $2 (44... Kd8 $16 45. a4 Kc8) 45. c7 $18 Kd7 {[#]} 46. Ng3 $1 h4
+47. Nf5 Bb7 48. Ne3 h3 $2 (48... Be7 49. Nxc4 Bc5) 49. Nxc4 hxg2+ 50. Kh2 Kc8
+51. Nb6# {Accuracy: White = 59%, Black = 36%.} 1-0
+

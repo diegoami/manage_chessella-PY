@@ -1,0 +1,63 @@
+[Event "Moscow FIDE GP"]
+[Site "?"]
+[Date "2019.05.21"]
+[Round "2"]
+[White "Wojtaszek, R."]
+[Black "Svidler, P."]
+[Result "1-0"]
+[ECO "A65"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "83"]
+[EventDate "2019.05.22"]
+
+{[%evp 0,83,26,26,26,-17,46,-8,6,45,48,48,45,63,58,47,56,27,36,35,50,21,59,55,
+60,48,79,68,44,46,42,31,26,20,56,58,66,69,51,42,50,32,53,47,42,42,65,34,33,-11,
+35,11,80,80,80,48,75,53,88,80,118,134,186,98,148,150,267,238,325,318,257,258,
+339,315,315,358,350,253,333,362,399,447,439,307,339,341] [#]} 1. d4 Nf6 2. c4
+g6 3. f3 {The first sign of an interesting game. Svidler is well-known for his
+expertise in the Grunfeld, and this move more or less avoids those structures.}
+e6 4. e4 c5 5. d5 d6 6. Nc3 Bg7 7. Nge2 ({It might seem to make sense to
+develop the f1-bishop first with} 7. Bd3 {, however more often than not it is
+in Black's interest to target this bishop.} exd5 8. cxd5 O-O 9. Nge2 a6 10. a4
+Nbd7 11. O-O Rb8 $1 12. Ng3 $1 {Here too, this move makes sense- negating one
+of the economies of playing Bd3 first. The point is that Black wanted ...Ne5
+and ...b5, so White would much rather retreat the d3-bishop to e2.} h5 13. Bg5
+$13) 7... O-O 8. Ng3 exd5 9. cxd5 a6 (9... Nh5 $5 10. Nxh5 gxh5 11. Qd2 $5 (11.
+Be3 Nd7 12. Qd2 Ne5 13. Be2 f5 14. O-O Ng6 15. f4 h4 16. Bd3 Qf6 17. e5 dxe5
+18. fxe5 Nxe5 19. Bxc5 Re8 20. Nb5 h3 21. Nc7 $16 {Sanikidze,T-Jones,G St
+Petersburg 2018}) (11. Bf4 f5 12. Qd2 a6 13. a4 Qf6 $132 {Dearing,E-Jones,G
+Hinckley Island 2008}) 11... Qh4+ 12. g3 Qf6 13. Be2 Bh3 14. Qg5 Qg6 15. Qh4
+Bc8 16. O-O Bf6 17. Qf4 Be5 18. Qg5 Bh3 19. Rd1 $14 {Here Black blundered- it
+was a blitz game- but the moral stands anyway, which is that Black doesn't
+easily obtain the dynamic play for which he is hoping by playing ...Nh5. Gupta,
+A-Jones,G chess.com INT 2018}) 10. a4 h5 (10... Nh5 {is possible here too, but
+I think White is again better. Maybe the best version is on move 10, with ...
+Nbd7 instead of ...0-0 for Black. See for instance Korobov-Erdos in these
+pages.}) 11. Bg5 (11. Bd3 h4 12. Nge2 Nh5 {Black has good dark-square control
+here: a good reason to draw the knight to h7 instead.}) 11... Qe8 12. Bd3 Nh7
+13. Bf4 Qe7 14. Nge2 ({Since the knight has no particular purpose on e2 either,
+maybe it was reasonable to play} 14. O-O {directly, followed by a5 et cetera.})
+14... Nd7 15. O-O Ne5 16. Bc2 Rb8 17. a5 b5 $6 {This is a strange move to be
+making when the standard King's Indian play was still available.} (17... f5 {
+White has to be very careful not to get steamrollered here; probably the best
+policy from a practical perspective is} 18. exf5 Bxf5 19. Bxf5 Rxf5 20. Qc2 $13
+) 18. axb6 Rxb6 19. Bc1 $14 h4 20. f4 (20. h3 {is also interesting, stalling
+Black's attack for the foreseeable future unless he commits to a piece
+sacrifice.}) 20... Ng4 21. h3 Ngf6 22. Ra2 {Returning the position to the
+realm of dynamic equality.} (22. e5 dxe5 {deserves consideration from White on
+grounds of principle, even if the position after} 23. f5 e4 24. fxg6 fxg6 $13 {
+is a total tactical slugfest.}) 22... Bd7 23. Qe1 Nh5 24. Be3 Rfb8 (24... f5 $5
+) 25. b3 Rxb3 26. Bxb3 Rxb3 27. Bd2 {On a practical level, it seems that White
+still doesn't particularly mind a draw, or perhaps he is insinuating that just
+so that Svidler will continue to throw the kitchen sink.} Bd4+ ({The patient} 
+27... Bc8 {keeping the a6-pawn alive was also possible.}) 28. Kh2 N7f6 29. Rf3
+Rb4 $2 {The engine doesn't mind this immediately, but it will transpire that
+there are just too many tactics along the a-file and long diagonal for Black
+to survive long.} 30. Rxa6 $16 Rc4 31. Ra7 Qd8 32. Qa1 $1 {Now the whole
+queen's flank has opened up for White's major pieces, and he has one more of
+them.} Nxe4 $2 ({After} 32... Rb4 33. Nxd4 cxd4 {the position should also be
+lost, but White still needs to think about, for instance, rook versus knight
+endings which are drawn because of Black's favourable structure.}) 33. Ra8 {
+White simply takes at least a piece for free, and the game is over.} Bc8 34.
+Qa6 Nxd2 35. Rxc8 Nxf3+ 36. gxf3 Qxc8 37. Qxc8+ Kg7 38. Nxd4 Rxd4 39. Qd8 Rd2+
+40. Kg1 Nxf4 41. Qxd6 Nxh3+ 42. Kf1 1-0

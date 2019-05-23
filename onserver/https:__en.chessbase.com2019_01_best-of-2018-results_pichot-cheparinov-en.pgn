@@ -1,0 +1,18 @@
+[Event "Gibraltar Masters 2018"]
+[White "Pichot, Alan"]
+[Black "Cheparinov, Ivan"]
+[Site ""]
+[Round "5.15"]
+[Annotator "Reeh,Oliver"]
+[Result "0-1"]
+[Date "2018.01.27"]
+[WhiteElo "2552"]
+[BlackElo "2699"]
+[PlyCount "15"]
+[Setup "1"]
+[FEN "r1b1kbr1/1R6/p3pP1p/q7/8/2N2P1p/P1PQ3P/4R2K b q - 0 21"]
+
+{[#]} 21... Rg1+ $1 (21... Bxb7 22. Rxe6+ Kf7 23. Qd7+ Kg6 24. f7+ $18 {
+} )22. Kxg1 (22. Rxg1 Bxb7 23. f7+ Ke7 $19 )Qc5+ $1 {
+} 23. Kh1 Bxb7 {Finally!} 24. Rxe6+ Kf7 25. Qd7+ Kg8 26. f7+ Kg7 $1 { Covering g6.} (26... Kh8 27. Qxb7 Qf2 28. Rg6 $1 $18 {} )27. Qd3 Qg5 $1 {} 28. Qd4+ Kxf7 0-1
+

@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1895.04.15"]
+[Round "?"]
+[White "Troitzky Study"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Simon"]
+[SetUp "1"]
+[FEN "8/1p3pp1/3k2p1/7P/pq3P2/3B3P/P1PN2P1/3K4 w - - 0 1"]
+[PlyCount "5"]
+[SourceVersionDate "2019.04.15"]
+
+{[#]} 1. h6 (1. c3 Qxf4 2. g3 Qh6) 1... gxh6 2. c3 Qxf4 3. g3 $1 1-0
+

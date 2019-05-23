@@ -1,0 +1,724 @@
+[Event "26th Bunratty Masters 2019"]
+[White "Howell, David W L"]
+[Black "Machin, Guillaume"]
+[Site "Bunratty"]
+[Round "1.1"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.02.23"]
+[WhiteElo "2689"]
+[BlackElo "2159"]
+[PlyCount "77"]
+
+1. b3 {} e5 2. Bb2 d6 3. e3 Nf6 4. g3 c6 (4... Be7 5. Bg2 0-0 6. c4 Nc6 7. Nc3 d5 8. Nxd5 Nxd5 9. cxd5 Nb4 10. Qb1 Nxd5 11. Nf3 f6 12. 0-0 {1-0 (31) McShane,L (2657)-Mok,T (2416) Khanty-Mansiysk 2010} )5. Bg2 Bg4 6. Ne2 {A01: Nimzowitsch-Larsen Opening} Nbd7 7. h3 Bh5 $146 ({Predecessor:
+} 7... Be6 8. d4 Bd5 9. f3 Qa5+ 10. Qd2 Qxd2+ 11. Nxd2 exd4 12. Nxd4 {1/2-1/2 
+(33) Pastar,S (2218)-Lajthajm,B (2435) Novi Sad 2016} )8. 0-0 {White is
+slightly better.} e4 9. d3 exd3 10. cxd3 Bxe2 11. Qxe2 Be7 12. Nd2 0-0 13. e4 Re8 14. f4 Bf8 15. Rae1 Qa5 16. a3 g6 (16... Qb5 $14 )17. d4 d5 18. e5 Nh5 19. Qd3 f5 ({Don't blunder} 19... Nxg3 $2 20. Bc3 $18 )20. g4 Ng7 21. gxf5 Nxf5 22. h4 Qd8 ({Black should try} 22... Qa6 $14 23. Qxa6 bxa6 )23. Nf3 (23. Bh3 $18 )Bh6 $1 $14 24. Bh3 Qe7 $2 { [#]} (24... Ng3 $11 )25. Bxf5 $18 gxf5 26. Qxf5 Kh8 {intending ...Rf8.} 27. Ng5 Rg8 28. Kh1 Raf8 29. Qg4 Bxg5 30. hxg5 ({Less strong is} 30. fxg5 Rxf1+ 31. Rxf1 Rf8 $18 )Rg6 31. Rf3 $2 {
+[#]} (31. Qh3 )Rfg8 $2 (31... Nf6 {keeps fighting.} 32. Qh3 (32. gxf6 Rfxf6 33. Qc8+ Rf8 $17 )Ne4 )32. Rh3 {White is clearly winning.} Nf8 33. Re2 R6g7 (33... Ne6 $142 34. Bc1 R6g7 )34. Rh6 Rg6 35. Rh5 R6g7 36. Bc1 c5 37. f5 Qe8 38. e6 Qe7 39. Bf4 {Accuracy: White = 58%, Black = 38%.} 1-0
+
+[Event "26th Bunratty Masters 2019"]
+[White "Walton, Alan J"]
+[Black "McShane, Luke J"]
+[Site "Bunratty"]
+[Round "1.2"]
+[Annotator "TA"]
+[Result "0-1"]
+[Date "2019.02.23"]
+[WhiteElo "2140"]
+[BlackElo "2663"]
+[PlyCount "96"]
+
+1. d4 {} Nf6 2. Bg5 d5 3. e3 c5 4. c3 Nc6 5. Nf3 Qb6 (5... Ne4 6. Bh4 Qb6 7. Qc1 Bf5 8. Nbd2 e6 9. Be2 Rc8 10. 0-0 h6 11. Nxe4 Bxe4 12. Nd2 Bg6 13. dxc5 Bxc5 14. b4 Bd6 15. Qb2 0-0 {
+1/2-1/2 (66) Sjugirov,S (2665)-Ehlvest,J (2524) Almaty 2016} )6. Qb3 {D02: 1
+d4 d5 2 Nf3 sidelines, including 2...Nf6 3 g3 and 2...Nf6 3 Bf4} c4 7. Qxb6 axb6 8. Nbd2 {The position is equal.} b5 9. Be2 e6 10. 0-0 b4 11. cxb4 $146 ({
+Predecessor:} 11. Bxf6 gxf6 12. e4 bxc3 13. bxc3 {1/2-1/2 (76) Cebalo,M (2407)
+-Shyam,S (2530) Zalakaros 2016} )Bxb4 12. a3 Be7 13. Rfc1 {[#]} b5 $1 14. h3 Bd7 15. g4 h5 16. Ne5 hxg4 17. Bxf6 ({Better is} 17. Nxd7 Kxd7 18. hxg4 )gxf6 $17 18. Nxc6 Bxc6 19. hxg4 Kd7 20. Kg2 f5 21. Rh1 Rhg8 22. Rh7 Raf8 ({Resist} 22... fxg4 23. Rxf7 b4 24. Nf1 $17 )23. f3 {[#]} (23. Kh3 $17 {
+was worth a try.} )e5 $1 {} 24. dxe5 d4 25. exd4 Rxg4+ $1 {
+ Double Attack} 26. Kh3 $2 (26. Kf2 Rxd4 27. Rd1 )Rxd4 $19 27. Rd1 Ke6 28. Rh6+ f6 29. exf6 Bxf6 30. Nf1 (30. a4 $142 )Rxd1 {
+Discovered Attack} 31. Bxd1 Rh8 32. Rxh8 Bxh8 { Endgame KBB-KBN} 33. b3 Ke5 34. bxc4 bxc4 35. Ne3 c3 36. Bc2 f4 37. Ng4+ (37. Nd1 $142 Bd7+ 38. Kh4 Bf6+ 39. Kh5 )Kd6 $2 (37... Kd4 $19 {is more deadly.} 38. Kg2 Bb5 )38. Kg2 (38. Kh4 $17 {is a better defense.} )Bd4 (38... Bg7 $19 {and Black
+stays clearly on top.} 39. Kf2 Kc5 )39. Nf2 $17 Bxf2 40. Kxf2 {KB-KB} Kc5 41. Ke2 Kc4 42. Kf2 Kd4 {Strongly threatening ...Bb5.} 43. a4 $2 { [#]} (43. Ke2 $17 )Bxa4 $1 { Black mates.} 44. Bxa4 Kd3 45. Kg2 c2 46. Bxc2+ Kxc2 47. Kh3 Kd3 48. Kh4 {[#]} Ke2 $1 {Accuracy: White = 31%, Black
+= 74%.} 0-1
+
+[Event "26th Bunratty Masters 2019"]
+[White "Short, Nigel D"]
+[Black "Moran, Stephen"]
+[Site "Bunratty"]
+[Round "1.3"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.02.22"]
+[WhiteElo "2648"]
+[BlackElo "2155"]
+[PlyCount "41"]
+
+1. e4 {} e6 2. d4 d5 3. Nc3 Nf6 4. exd5 exd5 5. Bg5 Be7 6. Qd2 0-0 {C01: French: Exchange Variation} 7. 0-0-0 Nc6 8. f3 $146 ({Predecessor:} 8. h4 Bf5 9. Qf4 Bg6 10. Bxf6 Bxf6 11. Nf3 Re8 12. Bd3 Bxd3 13. Rxd3 Nb4 14. Re3 Rxe3 15. fxe3 {1/2-1/2 (50) Short,N (2678)
+-Harikrishna,P (2737) Douglas 2015} )a6 {The position is equal.} 9. h4 b5 {} 10. Re1 Rb8 11. g4 b4 12. Na4 Na5 (12... Re8 $11 )13. b3 $14 Bd7 {[#]} (13... Re8 $14 )14. Nc5 $1 $16 Bb5 15. Ne2 ({Don't take} 15. Nxa6 Bxa6 16. Bxa6 c5 $14 )({Much worse is} 15. Qxb4 $6 Nxb3+ 16. axb3 Bxf1 $11 )Nb7 16. Nxb7 Rxb7 17. Ng3 Bd7 18. Bd3 ({Much weaker is} 18. Bxa6 $6 Ra7 $11 )a5 $2 { [#]} (18... Re8 $16 )19. Rxe7 $1 $18 {
+ White is clearly winning.} Qxe7 {[#]} 20. Nh5 $1 {Black must now
+prevent Bxf6.} Rb6 (20... Re8 $142 21. Bxf6 gxf6 )21. Bxf6 $1 {Accuracy: White
+= 92%, Black = 31%.} 1-0
+
+[Event "26th Bunratty Masters 2019"]
+[White "O'Connor, Jonathan"]
+[Black "Turner, Matthew J"]
+[Site "Bunratty"]
+[Round "1.4"]
+[Annotator "TA"]
+[Result "0-1"]
+[Date "2019.02.23"]
+[WhiteElo "2208"]
+[BlackElo "2519"]
+[PlyCount "122"]
+
+1. e4 {} e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Qf3 Nxc3 6. bxc3 Qh4+ 7. g3 {C29: Vienna Game:
+2...Nf6 3 f4} Qe4+ 8. Qxe4 dxe4 9. Bg2 {White has an edge.} Nc6 10. Bxe4 Nxe5 11. Rb1 (11. d4 Nc4 12. Nf3 Be7 13. 0-0 0-0 14. Bd5 Nb6 {1/2-1/2 (33) Antal,G 
+(2450)-Vajda,S (2369) Austria 2005} )Bd6 $146 ({Predecessor:} 11... c6 12. Ne2 Bd6 13. 0-0 0-0 14. Re1 Rb8 {1/2-1/2 (26) Nebel,J (2144)-Hinkmann,J 
+(2103) Herne 2016} )12. Nf3 Nd7 (12... f5 $11 13. Bd5 c6 )13. d4 Nb6 14. 0-0 0-0 15. Bd3 Bg4 {[#]} (15... Be6 $11 {remains equal.} )16. Ng5 (16. c4 $1 $16 )h6 $11 17. Ne4 $36 { White is more active.} Be6 18. a4 {
+} Bd5 $2 (18... Rfb8 $14 )19. a5 Nc4 20. Rb5 Bxe4 21. Bxe4 Rab8 22. Bd3 c6 23. Rbf5 b5 24. axb6 $1 Nxb6 25. Ra5 Rb7 26. Ba3 (26. Bd2 $142 )Bxa3 $16 27. Rxa3 Re8 28. Rfa1 Ree7 29. Kf2 Nd5 30. Re1 Rxe1 31. Kxe1 { Endgame KRB-KRN} g6 32. Ra6 Rc7 33. Kd2 Kg7 34. Be4 ({
+Better is} 34. c4 Nb4 35. Ra5 )Nb6 35. Kd3 c5 36. Ra5 f5 37. Bg2 Nd7 38. Ra6 c4+ 39. Kd2 Nf6 40. Ra4 g5 41. Ra5 Kg6 42. Ra6 f4 (42... h5 $11 )43. gxf4 gxf4 44. Ra5 ({White should try} 44. Ke2 $16 )Re7 $11 45. Ra6 Kf5 46. Ra5+ Kg6 47. Ra6 Kg7 48. Rc6 Ng4 49. h4 Nh2 50. Ra6 $2 {} (50. Bh3 $11 )f3 $19 51. Bh3 f2 52. Ra1 $2 {[#]} (52. Kc1 $19 )Nf3+ {
+ Double Attack. Black mates.} 53. Kc1 Re1+ 54. Kb2 Rxa1 55. Kxa1 {
+KB-KN} Nd2 56. Kb2 f1=Q 57. Bxf1 Nxf1 58. Ka3 Kf6 59. Kb4 Ne3 60. Kc5 Ke7 61. d5 a5 {Accuracy: White = 43%, Black = 60%.} 0-1
+
+[Event "26th Bunratty Masters 2019"]
+[White "Williams, Simon K"]
+[Black "Melaugh, Shane"]
+[Site "Bunratty"]
+[Round "1.5"]
+[Annotator "ChessBase"]
+[Result "1-0"]
+[Date "2019.02.22"]
+[WhiteElo "2471"]
+[BlackElo "2118"]
+[PlyCount "69"]
+[TimeControl "60"]
+
+1. d4 {[%emt 0:11:3]} Nf6 {[%emt 0:0:8]} 2. Nc3 {[%emt 0:0:30]} d5 {[%emt 0:0:21]
+} 3. Bf4 {[%emt 0:0:26]} c5 {[%emt 0:1:12]} 4. e3 {[%emt 0:0:0]} a6 {[%emt 0:0:43]} 5. dxc5 {[%emt 0:1:45]} Nc6 {[%emt 0:1:58]} 6. Nf3 {[%emt 0:5:3]
+} e6 {[%emt 0:1:27]} 7. Na4 {[%emt 0:1:33]} Ne4 {[%emt 0:3:26]
+} 8. Bd3 {[%emt 0:5:58]} Nxc5 {[%emt 0:4:43]} 9. Nxc5 {[%emt 0:0:21]} Bxc5 {[%emt 0:0:19]
+} 10. 0-0 {[%emt 0:0:23]} Qe7 {[%emt 0:3:1]} 11. e4 {[%emt 0:0:0]} d4 {[%emt 0:9:16]} 12. e5 {[%emt 0:0:46]} h6 {[%emt 0:1:7]} 13. a3 {[%emt 0:1:47]} g5 {[%emt 0:0:59]} 14. Bg3 {[%emt 0:0:22]} b5 {[%emt 0:0:0]} 15. Nd2 {[%emt 0:2:34]} Bb6 {[%emt 0:2:53]} 16. f4 {[%emt 0:11:25]} Bc7 {[%emt 0:1:25]} 17. Qh5 {[%emt 0:5:17]} Bb7 {[%emt 0:8:33]} 18. fxg5 {[%emt 0:0:31]
+} 0-0-0 {[%emt 0:1:6]} 19. gxh6 {[%emt 0:0:49]} Nxe5 {[%emt 0:0:0]} 20. Bxe5 {[%emt 0:1:10]} Qc5 {[%emt 0:0:22]} 21. Rae1 {[%emt 0:1:44]
+} Rhg8 {[%emt 0:3:17]} 22. g3 {[%emt 0:3:22]} Rd5 {[%emt 0:1:37]} 23. h7 {[%emt 0:0:56]
+} Rh8 {[%emt 0:0:24]} 24. Qxf7 {[%emt 0:1:52]} Rxe5 {[%emt 0:0:0]} 25. Qg8+ {[%emt 0:1:11]} Bd8 {[%emt 0:0:54]} 26. Qxh8 {[%emt 0:0:29]
+} Re3 {[%emt 0:5:14]} 27. Qxd8+ {[%emt 0:1:3]} Kxd8 {[%emt 0:0:24]} 28. h8=Q+ {[%emt 0:0:22]} Kc7 {[%emt 0:0:22]} 29. Rf7+ {[%emt 0:0:40]} Kb6 {[%emt 0:0:27]
+} 30. Qd8+ {[%emt 0:0:39]} Ka7 {[%emt 0:0:25]} 31. Rxb7+ {[%emt 0:0:24]
+} Kxb7 {[%emt 0:0:22]} 32. Rf1 {[%emt 0:0:25]} Qe5 {[%emt 0:0:0]} 33. Rf7+ {[%emt 0:0:34]} Kc6 {[%emt 0:0:21]} 34. Qc8+ {[%emt 0:0:57]} Kb6 {[%emt 0:0:42]} 35. Qb7+ {[%emt 0:0:25]} 1-0
+
+[Event "26th Bunratty Masters 2019"]
+[White "Voiteanu, Gabriel"]
+[Black "Baburin, Alexander"]
+[Site "Bunratty"]
+[Round "1.6"]
+[Annotator "ChessBase"]
+[Result "1-0"]
+[Date "2019.02.23"]
+[WhiteElo "2121"]
+[BlackElo "2432"]
+[PlyCount "96"]
+[TimeControl "60"]
+
+1. d4 {[%emt 0:0:7]} d5 {[%emt 0:18:46]} 2. Nf3 {[%emt 0:0:31]} Nf6 {[%emt 0:0:37]
+} 3. g3 {[%emt 0:0:24]} c6 {[%emt 0:1:28]} 4. Bg2 {[%emt 0:0:0]} Bf5 {[%emt 0:3:0]} 5. c4 {[%emt 0:4:36]} e6 {[%emt 0:1:19]} 6. Nc3 {[%emt 0:10:16]
+} Nbd7 {[%emt 0:0:53]} 7. Nh4 {[%emt 0:1:27]} Bg4 {[%emt 0:0:0]} 8. h3 {[%emt 0:5:49]} Bh5 {[%emt 0:0:23]} 9. g4 {[%emt 0:4:6]} Bg6 {[%emt 0:2:35]
+} 10. cxd5 {[%emt 0:8:31]} exd5 {[%emt 0:8:18]} 11. Nxg6 {[%emt 0:3:36]
+} hxg6 {[%emt 0:0:27]} 12. Bf4 {[%emt 0:2:44]} Nb6 {[%emt 0:0:0]} 13. Qd3 {[%emt 0:7:21]} Bd6 {[%emt 0:2:52]} 14. Qe3+ {[%emt 0:5:9]} Kf8 {[%emt 0:2:41]} 15. Qg3 {[%emt 0:2:51]} Bxf4 {[%emt 0:6:3]} 16. Qxf4 {[%emt 0:0:18]
+} Nc4 {[%emt 0:1:3]} 17. b3 {[%emt 0:5:9]} Qd6 {[%emt 0:0:0]} 18. Qxd6+ {[%emt 0:6:1]} Nxd6 {[%emt 0:0:47]} 19. Rc1 {[%emt 0:1:48]} Re8 {[%emt 0:7:47]} 20. f3 {[%emt 0:6:14]} Nd7 {[%emt 0:8:44]} 21. Kd2 {[%emt 0:6:7]
+} f5 {[%emt 0:0:46]} 22. e3 {[%emt 0:0:50]} Nf6 {[%emt 0:0:57]
+} 23. Rcf1 {[%emt 0:2:21]} Kg8 {[%emt 0:1:8]} 24. Kd3 {[%emt 0:2:34]} g5 {[%emt 0:0:46]
+} 25. Re1 {[%emt 0:1:49]} g6 {[%emt 0:1:17]} 26. e4 {[%emt 0:0:0]} fxe4+ {[%emt 0:1:15]} 27. fxe4 {[%emt 0:0:21]} dxe4+ {[%emt 0:0:22]} 28. Nxe4 {[%emt 0:0:33]} Nfxe4 {[%emt 0:4:31]} 29. Bxe4 {[%emt 0:0:18]} Nxe4 {[%emt 0:0:20]} 30. Rxe4 {[%emt 0:0:18]} Rxe4 {[%emt 0:0:19]} 31. Kxe4 {[%emt 0:0:16]
+} Kf7 {[%emt 0:0:20]} 32. Rf1+ {[%emt 0:2:6]} Ke6 {[%emt 0:0:0]} 33. Rf3 {[%emt 0:0:16]} Re8 {[%emt 0:1:34]} 34. Kd3 {[%emt 0:0:34]} Rh8 {[%emt 0:1:15]} 35. Kc4 {[%emt 0:0:31]} b6 {[%emt 0:0:16]} 36. Re3+ {[%emt 0:1:0]
+} Kf6 {[%emt 0:0:16]} 37. d5 {[%emt 0:0:38]} cxd5+ {[%emt 0:0:0]} 38. Kxd5 {[%emt 0:0:16]} Rc8 {[%emt 0:0:33]} 39. Kd6 {[%emt 0:0:32]} Rd8+ {[%emt 0:1:3]} 40. Kc6 {[%emt 0:0:44]} Rd4 {[%emt 0:1:8]} 41. Kb7 {[%emt 0:15:45]
+} Rd7+ {[%emt 0:15:18]} 42. Ka6 {[%emt 0:0:27]} Rc7 {[%emt 0:0:0]} 43. b4 {[%emt 0:0:41]} Rd7 {[%emt 0:0:26]} 44. b5 {[%emt 0:0:40]} Rc7 {[%emt 0:0:18]
+} 45. a4 {[%emt 0:0:56]} Kf7 {[%emt 0:0:25]} 46. Re5 {[%emt 0:0:0]} Kf6 {[%emt 0:0:37]} 47. Re8 {[%emt 0:0:21]} Rd7 {[%emt 0:0:57]} 48. Ra8 {[%emt 0:0:28]} Ke7 {[%emt 0:0:57]} 1-0
+
+[Event "26th Bunratty Masters 2019"]
+[White "Fitzsimons, David"]
+[Black "Howell, David W L"]
+[Site "Bunratty"]
+[Round "2.1"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.02.23"]
+[WhiteElo "2301"]
+[BlackElo "2689"]
+[PlyCount "99"]
+
+1. e4 {} e6 2. d4 d5 3. Nd2 h6 (3... c5 4. Ngf3 cxd4 5. Nxd4 Nc6 6. Bb5 Bd7 7. Nxc6 bxc6 8. Bd3 Qc7 9. Qe2 Ne7 10. 0-0 Ng6 11. Nf3 Bd6 12. c4 dxe4 13. Bxe4 0-0 14. Rd1 Rad8 15. h3 c5 16. b3 Bc6 {0-1 (40) Nepomniachtchi,I (2763)-Vitiugov,N (2719)
+St Petersburg 2018} )4. c3 c5 5. exd5 exd5 6. Ngf3 {C03: French Tarrasch:
+Unusual Black 3rd moves} Nc6 7. Bb5 cxd4 8. 0-0 {White is slightly better.} Bd6 $146 ({Predecessor:} 8... Bd7 9. Nb3 Nf6 10. Re1+ Be7 11. Bxc6 bxc6 12. Qxd4 {
+1-0 (40) Conquest,S (2563)-Bricard,E (2461) Reykjavik 2000} )9. Nxd4 Nge7 10. N2b3 0-0 11. Be3 Qc7 12. h3 a6 {White must now prevent ...Nxd4.} 13. Bd3 Ne5 14. Bf4 Re8 15. Re1 Bd7 16. Bxe5 Bxe5 17. Qh5 Bh2+ 18. Kf1 Bf4 19. Re2 g6 20. Qf3 Bg5 21. Kg1 Qd6 22. Rae1 Kg7 23. a3 Rab8 24. Na1 Nc6 $36 {
+Black is pushing.} 25. Nxc6 (25. Nac2 $11 )bxc6 26. Rxe8 Bxe8 27. Qe2 (27. b4 $15 )c5 $17 28. Rd1 Ba4 (28... Qe6 $19 {and Black stays clearly
+on top.} 29. b3 a5 )29. b3 Bxb3 (29... Bc6 {with more complications.} 30. Bxa6 Ra8 31. Bd3 Qf6 32. Qb2 Bf4 )30. Nxb3 Rxb3 { Double Attack} 31. Bc4 $1 {} Rxa3 32. Bxd5 Rxc3 {[#]} 33. Bxf7 $1 { [#]} Rc1 (33... Qxd1+ $1 $15 {} 34. Qxd1 Rc1 35. Qxc1 Bxc1 )(33... Kxf7 34. Rxd6 )34. Rxc1 $11 Bxc1 35. Bc4 {Qf3 is the strong threat.} a5 {[#]} (35... h5 $11 {
+remains equal.} )36. Qf3 $1 $16 { Threatening mate with Qf7+.} Qf4 ({Better is} 36... Qf6 )37. Qb7+ Kf8 38. Qc8+ Ke7 39. Qxc5+ (39. Qe6+ $142 Kd8 40. Qb6+ Ke7 41. Qxc5+ Qd6 42. Qa7+ (42. Qxa5 Bf4 $18 )Qd7 43. Qc5+ Qd6 44. Qa7+ (44. Qxa5 Bf4 $18 )Ke8 45. Bf7+ (45. Qxa5 Ba3 $16 )Kd8 46. Qxa5+ Ke7 47. Bxg6 )Qd6 40. Qxa5 {Threatens to win with Qe1+.} Bg5 41. Qa7+ Kd8 42. g3 {aiming for Qa8+.} Bf6 43. Qa8+ Kc7 44. Qe4 (44. Ba6 $16 {
+Intending Qc8+ and mate.} Kd7 45. Qb7+ Kd8 46. h4 )Bd4 $14 45. Qf3 (45. Kf1 {is more complex.} Qf6 46. Qc2 Qc6 47. Qd3 Qf6 48. Qd2 )Qf6 46. Qxf6 Bxf6 47. f4 Kd6 48. Kg2 Ke7 49. h4 Kf8 50. Kf3 {Accuracy: White = 45%, Black =
+65%.} 1/2-1/2
+
+[Event "26th Bunratty Masters 2019"]
+[White "McShane, Luke J"]
+[Black "Connell, Blair N"]
+[Site "Bunratty"]
+[Round "2.2"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.02.23"]
+[WhiteElo "2663"]
+[BlackElo "2239"]
+[PlyCount "117"]
+
+1. e4 {} e5 2. Nf3 Nc6 3. Bc4 g6 4. d3 (4. d4 exd4 5. c3 d3 6. 0-0 d6 7. Qb3 Qd7 8. Ng5 Nh6 9. Bxd3 Bg7 10. f4 0-0 11. Na3 Ng4 12. Bd2 b6 {
+1/2-1/2 (54) Van Kampen,R (2643)-Granda Zuniga,J (2662) Linares 2017} )Bg7 5. h4 {} h6 6. Nc3 {C50: Hungarian Defence and
+Giuoco Pianissimo} d6 7. Be3 Nf6 8. a3 $146 {The position is equal.} ({
+Predecessor:} 8. Qd2 Na5 9. Nh2 Nxc4 10. dxc4 Be6 11. b3 Qd7 {1/2-1/2 (59)
+Backman,A (2177)-Blomstrom,L (2108) Tylosand 2015} )a6 9. Qd2 Ng4 10. h5 Nxe3 11. fxe3 g5 12. Nh2 Be6 13. Nd5 Ne7 14. 0-0 Ng8 15. Qa5 ({White should try
+} 15. Qf2 $14 )Rc8 $11 16. Rf2 c6 17. Nb6 {Black must now prevent Qb4.} Rc7 (17... Nf6 $1 $15 {keeps the upper hand.} )18. Bxe6 $16 fxe6 19. Ng4 $1 {
+And now Raf1 would win.} Nf6 20. Nxf6+ Bxf6 21. Raf1 0-0 {[#]} (21... Rf8 $1 $14 )22. Nc4 $2 (22. Nd7 $1 $18 {} Qxd7 (22... Rxd7 23. Qxd8 )23. Rxf6 Rxf6 24. Rxf6 )Bg7 23. Rxf8+ Bxf8 24. d4 b5 25. Nd2 Bg7 (25... exd4 $11 26. exd4 Qc8 )26. c3 ({White should play} 26. dxe5 $14 Rc8 27. Qxd8+ Rxd8 28. Nf3 )Qc8 27. Qb6 (27. Nf3 {feels hotter.} Qb7 28. dxe5 Bxe5 29. Nxe5 dxe5 30. c4 )Qb7 28. Qxb7 Rxb7 $11 { Endgame KRB-KRN} 29. Nb3 Rc7 30. Kf2 Kf7 31. Ke2+ Ke7 32. Kd3 exd4 33. exd4 c5 {Strongly threatening ...
+c4+.} 34. Na1 cxd4 35. cxd4 a5 36. Nc2 Rc4 37. Ra1 Kd7 38. g4 Rc8 {[#]} (38... Bh8 $11 {keeps the balance.} )39. a4 $1 $16 {} Rb8 (39... Kc6 $16 )40. axb5 $18 Rxb5 {[#]} 41. Kc3 $2 (41. b4 $1 $18 {} )d5 $11 42. Rf1 {Threatens to win with Rf7+.} Ke7 43. e5 a4 $2 (43... Ke8 $11 )44. Nb4 $18 Bf8 $2 (44... Rb7 {was necessary.} 45. Ra1 Rc7+ 46. Kd3 Bf8 47. Rxa4 Kf7 )45. Ra1 Kd7 46. Rxa4 Rb7 47. Nd3 Rc7+ 48. Kd2 Rc4 $2 (48... Rc8 49. b4 Rc4 )49. Rxc4 dxc4 {KB-KN} 50. Nf2 Bb4+ 51. Ke3 c3 52. bxc3 {White mates.} Bxc3 53. Ke4 Bb4 54. Nd3 Ba3 55. d5 exd5+ 56. Kxd5 Ke7 57. Ne1 Bb4 58. Nc2 Bd2 59. Nd4 {
+Precision: White = 54%, Black = 33%.} 1-0
+
+[Event "26th Bunratty Masters 2019"]
+[White "Li, Henry"]
+[Black "Short, Nigel D"]
+[Site "Bunratty"]
+[Round "2.3"]
+[Annotator "TA"]
+[Result "0-1"]
+[Date "2019.02.23"]
+[WhiteElo "2287"]
+[BlackElo "2648"]
+[PlyCount "76"]
+
+1. e4 {} e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. 0-0 Be7 6. Re1 b5 7. Bb3 d6 8. c3 0-0 9. h3 Na5 10. Bc2 c5 11. d4 Nd7 12. Nbd2 {} cxd4 13. cxd4 Nc6 14. d5 {C96: Closed Ruy Lopez: Chigorin Defence: 11 d4, replies
+other than 11...Qc7} Nb4 15. Bb1 {Strongly threatening a3.} a5 {[#]} 16. b3 $146 {The position is equal.} ({Predecessor:} 16. a3 Na6 17. b4 Nb6 18. bxa5 Na4 19. Nb3 N6c5 20. Nxc5 {1/2-1/2 (20) Timoshenko,G (2572)-Erdos,V (2608)
+Trieste 2011} )Nc5 17. Nf1 Bd7 18. Be3 {And now Bxc5 would win.} Qc7 19. Qd2 Rfc8 20. Ng3 Nba6 21. Nf5 Bf8 (21... Bxf5 $5 22. exf5 Qb7 $15 )22. Nh2 b4 23. f4 Bxf5 24. exf5 f6 25. Bc2 {[#]} (25. Nf1 $11 {remains equal.} )Na4 $1 $17 {} 26. Bd3 (26. bxa4 Qxc2 )Nc3 $1 27. Bc4 Kh8 28. a4 Nc5 29. Rec1 {[#]} (29. Bxc5 $1 $15 Qxc5+ 30. Kh1 )Qd7 $1 $19 30. g4 {[#]} N5xa4 $1 {} 31. Nf3 (31. Rxa4 Rxc4 )Nc5 32. Nh4 (32. Kh2 $142 )Qe8 33. fxe5 (33. Ng2 $142 )N5e4 ({Inferior is} 33... dxe5 34. d6 $11 )({Less strong is} 33... fxe5 34. Kg2 $17 )(33... Qxe5 34. Nf3 $15 )34. Qe1 dxe5 (34... fxe5 $2 35. Nf3 $19 )35. Bd3 Bd6 36. Rc2 Nc5 {Black is clearly
+winning.} 37. Bc4 a4 38. Bxc5 Rxc5 {Accuracy: White = 26%, Black = 80%.} ({Not
+} 38... Bxc5+ 39. Kh1 $19 )0-1
+
+[Event "26th Bunratty Masters 2019"]
+[White "Turner, Matthew J"]
+[Black "Delaney, Killian"]
+[Site "Bunratty"]
+[Round "2.4"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.02.23"]
+[WhiteElo "2519"]
+[BlackElo "2234"]
+[PlyCount "51"]
+
+1. c4 {} e5 2. g3 c6 3. d4 exd4 4. Qxd4 d5 5. Bg2 Nf6 6. Nf3 Be7 7. 0-0 0-0 8. cxd5 cxd5 9. Nc3 Nc6 10. Qd3 h6 {
+A20: English Opening: 1...e5} 11. Bf4 Be6 (11... Nb4 12. Qb1 Be6 13. Nb5 Rc8 14. Nxa7 Rc4 15. a4 Nc2 16. b3 Rc5 17. Ra2 Bf5 18. Qb2 {1-0 (40) Yang,K (2415)
+-Belous,V (2567) Philadelphia 2017} )12. Nd4 Nxd4 {White has an edge.} 13. Qxd4 Qa5 14. Qa4 $146 ({White should try} 14. Be5 $14 )({Predecessor:} 14. a3 Rac8 15. b4 Qa6 16. Bxd5 Rfd8 17. e4 Nxd5 18. Nxd5 Bxd5 19. exd5 Bf6 20. Be5 Rc4 21. Qe3 Rxd5 22. Bxf6 Qxf6 {1/2-1/2 (23) Gierse,H-Demuth,K Germany 1987} )Qxa4 $11 15. Nxa4 Rac8 16. Rac1 b5 17. Nc3 b4 18. Nb5 Ne4 19. Be5 Bc5 {[#]
+White must now prevent ...Bxf2+.} 20. Bd4 Bxd4 21. Nxd4 Rxc1 ({Better is} 21... a5 $14 )22. Rxc1 $16 Rc8 23. Rxc8+ {White is clearly better.} Bxc8 24. Nc6 {
+[#] aiming for Ne7+.} Kf8 25. Nxb4 Be6 26. Nc6 1-0
+
+[Event "26th Bunratty Masters 2019"]
+[White "O'Gorman, Tom"]
+[Black "Williams, Simon K"]
+[Site "Bunratty"]
+[Round "2.5"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.02.23"]
+[WhiteElo "2248"]
+[BlackElo "2471"]
+[PlyCount "113"]
+
+1. e4 {} c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 a6 7. Be2 Nbd7 { B92: Sicilian Najdorf: 6
+Be2} (7... Bg7 8. Qd2 Nbd7 9. g4 d5 10. exd5 Nb6 11. 0-0-0 Bxg4 12. f3 Bd7 13. Nb3 Nc8 14. Ne4 Nd6 15. Nbc5 0-0 16. Nxf6+ Bxf6 {1/2-1/2 (58) Eljanov,P (2755)
+-Jobava,B (2713) Malmo 2017} )8. g4 h5 $146 ({Predecessor:} 8... d5 9. exd5 Ne5 10. Rg1 Nxd5 11. Nxd5 Qxd5 12. Nb3 Qxd1+ 13. Rxd1 Bg7 {1/2-1/2 (61) Gomez
+Garrido,C (2546)-Morovic Fernandez,I (2572) Varadero 2016} )9. g5 Ng4 $1 {
+White is slightly better.} 10. Bxg4 hxg4 11. Qxg4 Ne5 (11... Nb6 $5 {} 12. Qe2 Bh3 $11 )12. Qe2 $36 { White has the initiative.} Rh3 13. f3 b5 14. 0-0-0 Bb7 (14... Nc4 $14 )15. Nd5 $16 Nc4 16. Kb1 $1 Bg7 17. Bc1 $1 e6 18. Ne3 (18. Nf4 $16 Rh7 19. b3 )Rc8 (18... Qc7 $14 )19. Ng4 Qb6 20. Nf6+ Bxf6 21. gxf6 e5 22. Qg2 Rh8 23. Ne2 b4 24. b3 Na3+ 25. Bxa3 $1 bxa3 26. Rd3 d5 27. exd5 Qxf6 {Threatening ...e4!} 28. Qg4 (28. c3 $142 $1 )Rh4 {[#]} 29. Qg1 $1 Rb4 {[#]} (29... Rh3 $16 )30. Qc1 $1 $18 Rb5 (30... a5 {might work better.} 31. Qxa3 Ba6 )31. Nc3 ({Weaker is} 31. Qxa3 Rxd5 32. Rxd5 Bxd5 $11 )Ra5 (31... Rxc3 {was necessary.} 32. Rxc3 Rxd5 33. Qxa3 Qd8 )32. Ne4 Qd8 33. d6 {Hoping for d7+.} Kd7 34. Qh6 Bxe4 35. fxe4 Qf6 36. Qh3+ Qe6 {If only Black now had time for ...Qxh3....} 37. Qxe6+ (37. Qh4 $142 )Kxe6 { Endgame KRR-KRR} 38. d7 Rd8 39. Rhd1 f5 $2 (39... Ke7 {
+was worth a try.} 40. Rd6 Rb5 41. Rxa6 Rxd7 42. Rxd7+ Kxd7 43. Rxa3 Rb4 )40. Rd6+ Kf7 41. exf5 gxf5 42. R6d5 Rxd5 $2 (42... Rb5 43. Rd6 Ke7 )43. Rxd5 {
+KR-KR. White is clearly winning.} Ke6 44. c4 f4 45. Kc2 e4 46. h4 f3 47. Kd2 f2 48. Ke2 e3 49. h5 Rf8 50. d8=N+ {KRN-KR} (50. Rd1 $142 a5 51. c5 )Kf6 51. Rd1 Kf5 52. Kxe3 Kg4 53. Ke2 f1=N 54. Rxf1 Re8+ 55. Kd3 Rxd8+ 56. Kc3 a5 57. Rh1 {Accuracy: White = 78%, Black = 44%.} 1-0
+
+[Event "26th Bunratty Masters 2019"]
+[White "Steil-Antoni, Fiona"]
+[Black "Lalic, Bogdan"]
+[Site "Bunratty"]
+[Round "2.6"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.02.23"]
+[WhiteElo "2166"]
+[BlackElo "2406"]
+[PlyCount "40"]
+
+1. e4 {} c5 2. Nf3 e6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 b6 7. Bd3 Ba6 8. 0-0 Bxd3 9. Qxd3 Be7 10. Nc3 Nxc3 11. bxc3 d5 12. Ne1 $146 {B22: Sicilian: 2 c3} ({White should try
+} 12. exd6 $1 $14 Bxd6 13. Ng5 )({Predecessor:} 12. exd6 Qxd6 13. Qe4 Qc6 14. Qg4 Bf6 15. Ba3 Nd7 16. Rfe1 Qxc3 17. Qe4 Rd8 18. Bd6 Qc8 19. Rac1 Qa8 {
+1-0 (37) Seidl,S (2211)-Krejci,J (2533) Czechia 2015} )0-0 {The position
+is equal.} 13. f4 Nc6 14. f5 {[#] f6! is the strong threat.} f6 15. exf6 Rxf6 16. fxe6 Rxe6 17. Nf3 Qd7 18. Bf4 Bf6 19. Rae1 Rxe1 20. Rxe1 Re8 ({Better is} 20... Rf8 $11 )1/2-1/2
+
+[Event "26th Bunratty Masters 2019"]
+[White "Wells, Peter K"]
+[Black "McShane, Luke J"]
+[Site "Bunratty"]
+[Round "3.1"]
+[Annotator "ChessBase"]
+[Result "0-1"]
+[Date "2019.02.23"]
+[WhiteElo "2415"]
+[BlackElo "2663"]
+[PlyCount "69"]
+[TimeControl "60"]
+
+1. d4 {[%emt 0:6:58]} Nf6 {[%emt 0:0:19]} 2. c4 {[%emt 0:0:28]} c5 {[%emt 0:0:0]} 3. Nf3 {[%emt 0:2:55]} cxd4 {[%emt 0:6:9]} 4. Nxd4 {[%emt 0:0:40]} b6 {[%emt 0:0:19]} 5. Nc3 {[%emt 0:4:3]} Bb7 {[%emt 0:1:9]} 6. Bg5 {[%emt 0:2:2]
+} a6 {[%emt 0:3:36]} 7. Bxf6 {[%emt 0:7:17]} gxf6 {[%emt 0:0:0]} 8. e3 {[%emt 0:0:18]} e6 {[%emt 0:0:51]} 9. Be2 {[%emt 0:26:19]} Bxg2 {[%emt 0:0:24]
+} 10. Rg1 {[%emt 0:0:18]} Bc6 {[%emt 0:3:31]} 11. Bh5 {[%emt 0:0:0]} Qe7 {[%emt 0:4:37]} 12. Qe2 {[%emt 0:5:29]} f5 {[%emt 0:4:34]} 13. 0-0-0 {[%emt 0:3:25]} Qf6 {[%emt 0:2:20]} 14. f4 {[%emt 0:9:15]} Bb4 {[%emt 0:5:33]
+} 15. Qd3 {[%emt 0:1:1]} Ra7 {[%emt 0:15:40]} 16. Rg5 {[%emt 0:0:0]} h6 {[%emt 0:3:22]} 17. Rg3 {[%emt 0:0:35]} Rf8 {[%emt 0:3:54]} 18. a3 {[%emt 0:2:3]} Be7 {[%emt 0:16:30]} 19. Nf3 {[%emt 0:2:41]} Bxf3 {[%emt 0:8:34]
+} 20. Bxf3 {[%emt 0:0:21]} Rc7 {[%emt 0:0:20]} 21. Kb1 {[%emt 0:0:37]
+} d6 {[%emt 0:9:41]} 22. Na4 {[%emt 0:1:12]} Nd7 {[%emt 0:0:0]} 23. Qb3 {[%emt 0:1:15]} b5 {[%emt 0:3:51]} 24. cxb5 {[%emt 0:0:49]} axb5 {[%emt 0:0:18]} 25. Qxb5 {[%emt 0:0:30]} d5 {[%emt 0:0:42]} 26. Rgg1 {[%emt 0:1:54]
+} Bd6 {[%emt 0:1:5]} 27. Nb6 {[%emt 0:5:19]} Rb7 {[%emt 0:0:0]} 28. Nxd7 {[%emt 0:0:49]} Rxd7 {[%emt 0:0:19]} 29. Bxd5 {[%emt 0:4:5]} exd5 {[%emt 0:0:20]} 30. Rxd5 {[%emt 0:0:17]} Ke7 {[%emt 0:0:32]} 31. Rgd1 {[%emt 0:0:26]
+} Qe6 {[%emt 0:0:49]} 32. Rxf5 {[%emt 0:2:49]} Rb8 {[%emt 0:0:0]} 33. Qd3 {[%emt 0:0:45]} Rb3 {[%emt 0:0:49]} 34. Qc2 {[%emt 0:1:8]} Rdb7 {[%emt 0:0:37]} 35. Rxd6 {[%emt 0:1:12]} 0-1
+
+[Event "26th Bunratty Masters 2019"]
+[White "Short, Nigel D"]
+[Black "Bates, Richard A"]
+[Site "Bunratty"]
+[Round "3.2"]
+[Annotator "ChessBase"]
+[Result "1-0"]
+[Date "2019.02.23"]
+[WhiteElo "2648"]
+[BlackElo "2351"]
+[PlyCount "71"]
+[TimeControl "60"]
+
+1. e4 {[%emt 0:0:34]} c5 {[%emt 0:0:17]} 2. Nf3 {[%emt 0:0:20]} d6 {[%emt 0:0:0]} 3. d4 {[%emt 0:0:22]} cxd4 {[%emt 0:0:24]} 4. Nxd4 {[%emt 0:0:20]} Nf6 {[%emt 0:0:51]} 5. Nc3 {[%emt 0:0:21]} a6 {[%emt 0:0:34]} 6. a4 {[%emt 0:1:5]
+} Nc6 {[%emt 0:4:3]} 7. Be2 {[%emt 0:0:28]} e5 {[%emt 0:1:20]
+} 8. Nxc6 {[%emt 0:1:51]} bxc6 {[%emt 0:0:28]} 9. f4 {[%emt 0:0:17]} a5 {[%emt 0:2:38]
+} 10. 0-0 {[%emt 0:0:29]} Be7 {[%emt 0:3:27]} 11. Kh1 {[%emt 0:0:0]} 0-0 {[%emt 0:1:17]} 12. Qe1 {[%emt 0:0:56]} Rb8 {[%emt 0:14:8]} 13. fxe5 {[%emt 0:7:21]} dxe5 {[%emt 0:0:24]} 14. Qg3 {[%emt 0:0:20]} Rb4 {[%emt 0:4:13]
+} 15. Bh6 {[%emt 0:1:50]} Ne8 {[%emt 0:1:15]} 16. Rad1 {[%emt 0:0:23]
+} Qc7 {[%emt 0:4:8]} 17. b3 {[%emt 0:1:8]} Be6 {[%emt 0:0:0]} 18. Bg4 {[%emt 0:4:59]} Qc8 {[%emt 0:13:21]} 19. Bxe6 {[%emt 0:2:57]} Qxe6 {[%emt 0:0:27]} 20. Bc1 {[%emt 0:0:42]} Nf6 {[%emt 0:3:11]} 21. Qf3 {[%emt 0:1:8]
+} Rd4 {[%emt 0:3:57]} 22. Be3 {[%emt 0:1:1]} Rd7 {[%emt 0:0:0]} 23. Rxd7 {[%emt 0:2:58]} Nxd7 {[%emt 0:0:37]} 24. Nb1 {[%emt 0:0:37]} g6 {[%emt 0:8:8]} 25. g4 {[%emt 0:9:43]} Bc5 {[%emt 0:2:18]} 26. Bh6 {[%emt 0:0:51]
+} Rd8 {[%emt 0:4:48]} 27. Nd2 {[%emt 0:0:24]} Nb6 {[%emt 0:0:0]} 28. h3 {[%emt 0:2:11]} Bb4 {[%emt 0:1:58]} 29. Qf2 {[%emt 0:2:30]} Nd7 {[%emt 0:4:21]} 30. Nc4 {[%emt 0:4:47]} Nc5 {[%emt 0:2:47]} 31. Qf3 {[%emt 0:2:26]
+} Rd4 {[%emt 0:1:28]} 32. Nxe5 {[%emt 0:4:51]} Rxe4 {[%emt 0:0:0]} 33. Nxc6 {[%emt 0:3:35]} Nd7 {[%emt 0:2:15]} 34. Nd8 {[%emt 0:2:53]} Qe7 {[%emt 0:0:59]} 35. Nxf7 {[%emt 0:3:24]} Re1 {[%emt 0:0:17]} 36. Ng5 {[%emt 0:0:26]
+} 1-0
+
+[Event "26th Bunratty Masters 2019"]
+[White "O'Gorman, Tom"]
+[Black "Turner, Matthew J"]
+[Site "Bunratty"]
+[Round "3.3"]
+[Annotator "ChessBase"]
+[Result "0-1"]
+[Date "2019.02.23"]
+[WhiteElo "2248"]
+[BlackElo "2519"]
+[PlyCount "55"]
+[TimeControl "60"]
+
+1. e4 {[%emt 0:0:2]} e5 {[%emt 0:0:7]} 2. Nf3 {[%emt 0:0:20]} Nc6 {[%emt 0:0:21]
+} 3. Bb5 {[%emt 0:0:18]} a6 {[%emt 0:0:18]} 4. Ba4 {[%emt 0:0:0]} Nf6 {[%emt 0:0:21]} 5. 0-0 {[%emt 0:0:21]} Be7 {[%emt 0:0:58]} 6. Re1 {[%emt 0:0:20]
+} b5 {[%emt 0:0:26]} 7. Bb3 {[%emt 0:0:18]} d6 {[%emt 0:0:22]} 8. c3 {[%emt 0:0:19]} 0-0 {[%emt 0:0:23]} 9. h3 {[%emt 0:0:18]} Be6 {[%emt 0:0:42]
+} 10. d4 {[%emt 0:1:43]} Bxb3 {[%emt 0:0:55]} 11. axb3 {[%emt 0:0:44]
+} exd4 {[%emt 0:0:35]} 12. cxd4 {[%emt 0:0:25]} Nb4 {[%emt 0:0:0]} 13. Nc3 {[%emt 0:3:51]} c5 {[%emt 0:1:17]} 14. Bg5 {[%emt 0:4:11]} Re8 {[%emt 0:4:24]} 15. e5 {[%emt 0:8:35]} dxe5 {[%emt 0:2:38]} 16. Rxe5 {[%emt 0:2:9]
+} cxd4 {[%emt 0:2:27]} 17. Qxd4 {[%emt 0:2:7]} Qxd4 {[%emt 0:0:0]} 18. Nxd4 {[%emt 0:0:32]} h6 {[%emt 0:0:36]} 19. Bh4 {[%emt 0:3:12]} g5 {[%emt 0:3:50]} 20. Bg3 {[%emt 0:3:42]} Bf8 {[%emt 0:0:28]} 21. Rae1 {[%emt 0:8:24]
+} Rxe5 {[%emt 0:2:33]} 22. Bxe5 {[%emt 0:1:4]} Nd7 {[%emt 0:0:0]} 23. Bg3 {[%emt 0:3:2]} Nc5 {[%emt 0:2:28]} 24. Ne4 {[%emt 0:5:35]} Nbd3 {[%emt 0:2:11]} 25. Re3 {[%emt 0:2:3]} Nxe4 {[%emt 0:0:49]} 26. Rxd3 {[%emt 0:1:1]
+} Nxg3 {[%emt 0:10:19]} 27. Rxg3 {[%emt 0:0:33]} Rd8 {[%emt 0:0:0]} 28. Rg4 {[%emt 0:6:49]} 0-1
+
+[Event "26th Bunratty Masters 2019"]
+[White "Howell, David W L"]
+[Black "Vicas, Marijus"]
+[Site "Bunratty"]
+[Round "3.4"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.02.23"]
+[WhiteElo "2689"]
+[BlackElo "2212"]
+[PlyCount "65"]
+
+1. c4 {} e5 2. Nc3 d6 3. d4 exd4 4. Qxd4 Nc6 5. Qd2 g6 6. b3 {A21: English Opening: 1...e5 2 Nc3} Bg7 7. Bb2 Nf6 8. e3 {The position is equal.} (8. g3 0-0 9. Bg2 Re8 10. Nh3 d5 11. cxd5 Bxh3 12. Bxh3 Nxd5 13. Nxd5 Bxb2 14. Rd1 Nd4 15. Qxb2 Qxd5 16. 0-0 Rad8 17. Bg2 Qe5 18. Kh1 Qxe2 {1-0 (58) Mamedyarov,S (2736)-Onischuk,V (2612)
+Berlin 2015} )0-0 9. Nge2 a5 10. Nf4 Ne5 11. Be2 Bf5 $146 ({Predecessor:} 11... Bd7 12. a3 Bf5 13. Nfd5 Nfd7 {1-0 (27) Kazakovskiy,V (2342)-Laurusas,T 
+(2441) Kaunas 2016} )12. 0-0 Ne4 13. Nxe4 Bxe4 14. f3 Bc6 15. Rac1 b6 16. a3 Re8 17. Nd5 Ra7 18. e4 Bxd5 19. cxd5 Nd7 20. Bxg7 Kxg7 21. Bb5 Rf8 22. Rc3 {
+} f5 {[#]} 23. exf5 $1 Rxf5 24. Re1 (24. Bxd7 $6 Qxd7 25. Re1 Ra8 $16 )Rf7 25. f4 ({Resist} 25. Bxd7 $6 Qxd7 26. Rc4 Kg8 $14 )Nc5 $2 (25... Ra8 $16 26. Re6 (26. Bxd7 Qxd7 27. Qd4+ Kg8 $14 )Kh8 )26. Rce3 $18 Qf6 27. b4 axb4 28. axb4 Nd7 $2 {[#]} (28... Qxf4 {
+is a better chance.} 29. g3 Qf6 30. bxc5 bxc5 )29. Bxd7 Rxd7 30. Re6 Qf5 31. Qd4+ Kh6 32. R6e3 ({Less strong is} 32. Re7 Rxe7 33. Rxe7 Qb1+ 34. Kf2 Ra2+ 35. Kg3 Qb3+ 36. Kh4 Qb2 $16 )g5 33. Rh3+ {Accuracy: White = 89%, Black =
+29%.} 1-0
+
+[Event "26th Bunratty Masters 2019"]
+[White "O'Donnell, Conor"]
+[Black "Hebden, Mark L"]
+[Site "Bunratty"]
+[Round "3.5"]
+[Annotator "NA"]
+[Result "0-1"]
+[Date "2019.02.23"]
+[WhiteElo "2377"]
+[BlackElo "2417"]
+[PlyCount "82"]
+[TimeControl "60"]
+
+1. d4 {[%emt 0:9:19]} Nf6 {[%emt 0:0:25]} 2. c4 {[%emt 0:0:21]} g6 {[%emt 0:0:0]} 3. Nc3 {[%emt 0:0:23]} Bg7 {[%emt 0:0:20]} 4. e4 {[%emt 0:0:24]} d6 {[%emt 0:0:19]} 5. f3 {[%emt 0:0:25]} 0-0 {[%emt 0:0:28]} 6. Be3 {[%emt 0:0:0]} c5 {[%emt 0:1:28]} 7. Nge2 {[%emt 0:0:39]} Nc6 {[%emt 0:1:30]} 8. d5 {[%emt 0:0:34]} Ne5 {[%emt 0:1:20]} 9. Ng3 {[%emt 0:0:40]} e6 {[%emt 0:0:0]} 10. Be2 {[%emt 0:2:13]} exd5 {[%emt 0:0:41]} 11. cxd5 {[%emt 0:0:35]} h5 {[%emt 0:0:33]} 12. 0-0 {[%emt 0:7:37]} Nh7 {[%emt 0:1:37]} 13. Qd2 {[%emt 0:3:10]
+} h4 {[%emt 0:10:30]} 14. Nh1 {[%emt 0:0:22]} f5 {[%emt 0:0:46]
+} 15. exf5 {[%emt 0:2:49]} gxf5 {[%emt 0:6:49]} 16. Nf2 {[%emt 0:1:29]} Bd7 {[%emt 0:1:52]} 17. a4 {[%emt 0:4:15]} Qf6 {[%emt 0:4:0]} 18. Nh3 {[%emt 0:0:0]} Rae8 {[%emt 0:3:8]} 19. Nf4 {[%emt 0:6:34]} Ng6 {[%emt 0:1:7]} 20. Nh5 {[%emt 0:20:32]} Qe7 {[%emt 0:4:14]} 21. Bh6 {[%emt 0:5:57]} Bxh6 {[%emt 0:3:44]
+} 22. Qxh6 {[%emt 0:0:22]} Qe3+ {[%emt 0:0:29]} 23. Qxe3 {[%emt 0:0:21]
+} Rxe3 {[%emt 0:0:19]} 24. Kf2 {[%emt 0:2:26]} Re7 {[%emt 0:0:0]} 25. Nb5 {[%emt 0:4:44]} f4 {[%emt 0:5:47]} 26. Rfe1 {[%emt 0:8:52]} Bxb5 {[%emt 0:2:8]} 27. axb5 {[%emt 0:1:30]} Ne5 {[%emt 0:6:29]} 28. g4 {[%emt 0:3:30]
+} fxg3+ {[%emt 0:3:55]} 29. hxg3 {[%emt 0:0:17]} Rf5 {[%emt 0:0:0]} 30. f4 {[%emt 0:1:7]} Rxh5 {[%emt 0:0:39]} 31. Bxh5 {[%emt 0:1:13]} Nd3+ {[%emt 0:0:23]} 32. Kf1 {[%emt 0:0:37]} Rxe1+ {[%emt 0:0:26]} 33. Rxe1 {[%emt 0:0:21]} Nxe1 {[%emt 0:0:19]} 34. Kxe1 {[%emt 0:0:31]} hxg3 {[%emt 0:0:0]} 35. Kf1 {[%emt 0:1:53]} Nf6 {[%emt 0:1:38]} 36. Bf3 {[%emt 0:0:21]} Ne8 {[%emt 0:0:29]} 37. Be2 {[%emt 0:1:40]} Nf6 {[%emt 0:0:55]} 38. Bf3 {[%emt 0:2:2]
+} Kg7 {[%emt 0:0:30]} 39. Kg2 {[%emt 0:0:26]} Kg6 {[%emt 0:0:0]} 40. Kxg3 {[%emt 0:0:24]} Kf5 {[%emt 0:0:21]} 41. Bg2 {[%emt 0:17:6]} Nh5+ {[%emt 0:15:36]} 0-1
+
+[Event "26th Bunratty Masters 2019"]
+[White "Lalic, Bogdan"]
+[Black "Fitzsimons, David"]
+[Site "Bunratty"]
+[Round "3.6"]
+[Annotator "NA"]
+[Result "1/2-1/2"]
+[Date "2019.02.23"]
+[WhiteElo "2406"]
+[BlackElo "2301"]
+[PlyCount "29"]
+[TimeControl "60"]
+
+1. d4 {[%emt 0:12:3]} Nf6 {[%emt 0:0:6]} 2. c4 {[%emt 0:0:31]} e6 {[%emt 0:0:0]} 3. Nc3 {[%emt 0:0:20]} Bb4 {[%emt 0:0:19]} 4. Qc2 {[%emt 0:0:20]} d5 {[%emt 0:0:56]} 5. cxd5 {[%emt 0:1:3]} Qxd5 {[%emt 0:0:26]} 6. e3 {[%emt 0:0:0]} c5 {[%emt 0:0:26]} 7. Bd2 {[%emt 0:0:24]} Bxc3 {[%emt 0:0:33]} 8. Bxc3 {[%emt 0:0:24]} cxd4 {[%emt 0:0:23]} 9. Bxd4 {[%emt 0:0:21]} Nc6 {[%emt 0:0:37]
+} 10. Bxf6 {[%emt 0:1:31]} gxf6 {[%emt 0:0:20]} 11. Ne2 {[%emt 0:0:55]
+} Bd7 {[%emt 0:1:26]} 12. Nc3 {[%emt 0:0:29]} Qc5 {[%emt 0:0:0]} 13. Be2 {[%emt 0:5:19]} Rc8 {[%emt 0:3:39]} 14. 0-0 {[%emt 0:0:53]} 0-0 {[%emt 0:0:36]} 15. Rfd1 {[%emt 0:1:59]} 1/2-1/2
+
+[Event "26th Bunratty Masters 2019"]
+[White "McShane, Luke J"]
+[Black "Short, Nigel D"]
+[Site "Bunratty"]
+[Round "4.1"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.02.23"]
+[WhiteElo "2663"]
+[BlackElo "2648"]
+[PlyCount "73"]
+
+1. e4 {} e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. 0-0 Bg7 8. Re1 0-0 9. Nbd2 Re8 {C77: Ruy Lopez: 3...a6 4 Ba4 Nf6,
+unusual lines} (9... Nh5 10. Nf1 f5 11. Bb3+ Kh8 12. Ng5 Qf6 13. exf5 Bxf5 14. Be3 Nf4 15. Bxf4 exf4 16. Ne4 Bxe4 17. Rxe4 {1/2-1/2 (45) Carlsen,M (2835)
+-Shirov,A (2643) St Petersburg 2018} )10. Nf1 h6 11. h3 b5 12. Bc2 d5 13. a4 {
+With the idea axb5.} Bb7 14. b4 $146 ({Predecessor:} 14. Qe2 d4 15. Bd2 {
+1/2-1/2 (55) Kosintseva,T (2496)-Koneru,H (2607) Beijing 2013} )Nb8 15. Ng3 Nbd7 16. Be3 Qe7 17. Qb1 dxe4 18. dxe4 Nb6 19. Nd2 Nxa4 20. Bxa4 bxa4 21. Rxa4 h5 22. Ra5 Qe6 23. Nf3 Nh7 24. Nf1 Rad8 25. N1d2 f5 ({Black should play} 25... Nf8 $14 )26. exf5 ({Better is} 26. Bg5 $1 )gxf5 {[#]} (26... Qxf5 $16 27. b5 Qxb1 28. Rxb1 axb5 )27. Bf4 $2 (27. Bd4 $1 $18 {} )Qg6 $1 $14 28. Qa2+ Kh8 29. Rexe5 Bxe5 (29... Rxe5 $14 30. Bxe5 Bxe5 31. Rxe5 Rg8 )30. Bxe5+ (30. Rxe5 $18 Nf6 31. Rxe8+ Rxe8 32. c4 )Rxe5 31. Rxe5 Ng5 (31... Rg8 $16 32. g3 f4 )32. Nh4 (32. Nxg5 $18 Qxg5 33. f3 )Nxh3+ $16 {
+[#]} 33. Kh2 (33. Kf1 $1 $16 Qg4 34. Qf7 { Double Attack} Qxh4 35. gxh3 )Qg4 $36 { The position is equal. Black has the
+initiative.} 34. Qe6 {Black must now prevent Qf6+.} Qxh4 35. Qh6+ Kg8 36. Qg6+ { Double Attack} Kh8 {( -> ...Nf4+)} 37. Qh6+ {Accuracy: White = 39%,
+Black = 41%.} 1/2-1/2
+
+[Event "26th Bunratty Masters 2019"]
+[White "Turner, Matthew J"]
+[Black "Howell, David W L"]
+[Site "Bunratty"]
+[Round "4.2"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.02.23"]
+[WhiteElo "2519"]
+[BlackElo "2689"]
+[PlyCount "111"]
+
+1. d4 {} Nf6 2. Bg5 d5 3. Nd2 c5 4. dxc5 (4. e3 Nc6 5. Ngf3 cxd4 6. exd4 Bg4 7. c3 e6 8. Qb3 Qb6 9. Bf4 Nd7 10. Bd3 Be7 11. 0-0 Bh5 {0-1 (52) Artemiev,V (2709)-Giri,A 
+(2783) St Petersburg 2018} )Qa5 5. Bxf6 gxf6 6. e3 {D00: 1 d4 d5: Unusual
+lines} Nc6 7. Ngf3 Qxc5 $146 ({Predecessor:} 7... Bg7 8. c4 Qxc5 9. cxd5 Qxd5 10. Bc4 Qa5 11. 0-0 0-0 12. Qb3 Rb8 {1/2-1/2 (20) Schmidt,P (2383)-Schnider,G 
+(2419) Austria 2017} )8. a3 {White has an edge.} Rg8 9. g3 Bg4 10. h3 Bh5 11. g4 {Nb3 is the strong threat.} Bg6 12. c4 dxc4 13. Bxc4 0-0-0 14. Rc1 $1 Qb6 15. Qb3 Qxb3 16. Nxb3 Kb8 17. Ke2 e6 18. Bb5 Ne5 19. Nxe5 fxe5 20. Rhd1 (20. Nc5 {with more complications.} Bxc5 21. Rxc5 f6 22. Rcc1 h5 23. Rhd1 )Rxd1 21. Rxd1 a6 $132 { Black puts up resistance} 22. Bd3 e4 23. Bb1 Bg7 24. Nc5 Bxb2 25. Rd7 Bxa3 26. Rxb7+ Kc8 27. Ra7 Kb8 28. Rb7+ Ka8 29. Rc7 Bxc5 30. Rxc5 $11 { Endgame KRB-KRB} Kb7 31. h4 {Black must now
+prevent h5.} h6 32. Re5 Kc6 33. h5 Kd6 34. Ra5 Bh7 35. Rxa6+ Ke7 36. Ba2 $1 Kf6 37. f3 $1 exf3+ 38. Kxf3 Bc2 {Threatens to win with ...Bd1+.} 39. Rd6 Rc8 40. Rd2 Rc7 41. Rd8 Kg5 42. Rg8+ {[#]} Kh4 $1 43. Rd8 Ba4 44. Rd4 Ra7 45. Kf4 Ra5 46. Rd2 {} e5+ 47. Kf5 Ra7 $2 (47... Bd7+ $11 48. Rxd7 Rxa2 )48. g5 $1 $18 {} ({Weaker is} 48. Kxe5 Kg5 $11 )hxg5 49. h6 f6 $2 (49... Bd7+ $18 50. Kxe5 Bh3 )50. h7 {White mates.} Rxh7 51. Rh2+ Kg3 52. Rxh7 Bc2+ 53. e4 g4 54. Rg7 Bd1 55. Bf7 Kh4 {[#]} 56. Bh5 $1 { Accuracy:
+White = 65%, Black = 47%.} 1-0
+
+[Event "26th Bunratty Masters 2019"]
+[White "Hebden, Mark L"]
+[Black "Heidenfeld, Mark"]
+[Site "Bunratty"]
+[Round "4.3"]
+[Annotator "NA"]
+[Result "1-0"]
+[Date "2019.02.23"]
+[WhiteElo "2417"]
+[BlackElo "2358"]
+[PlyCount "69"]
+[TimeControl "60"]
+
+1. d4 {[%emt 0:0:25]} d6 {[%emt 0:0:44]} 2. e4 {[%emt 0:1:51]} e5 {[%emt 0:0:0]} 3. Nf3 {[%emt 0:2:22]} Nc6 {[%emt 0:4:48]} 4. Bb5 {[%emt 0:1:52]} Bd7 {[%emt 0:2:45]} 5. Nc3 {[%emt 0:2:18]} exd4 {[%emt 0:2:47]} 6. Nxd4 {[%emt 0:0:56]
+} Nge7 {[%emt 0:4:15]} 7. Be3 {[%emt 0:1:43]} Nxd4 {[%emt 0:0:0]} 8. Qxd4 {[%emt 0:2:12]} Bxb5 {[%emt 0:4:29]} 9. Nxb5 {[%emt 0:0:31]} a6 {[%emt 0:1:28]} 10. Nc3 {[%emt 0:0:53]} Nc6 {[%emt 0:0:27]} 11. Qd2 {[%emt 0:0:51]
+} Be7 {[%emt 0:0:58]} 12. 0-0-0 {[%emt 0:0:39]} Qd7 {[%emt 0:0:0]} 13. Nd5 {[%emt 0:1:52]} 0-0 {[%emt 0:3:24]} 14. g4 {[%emt 0:4:32]} Rfe8 {[%emt 0:6:9]} 15. f3 {[%emt 0:2:20]} b5 {[%emt 0:1:19]} 16. h4 {[%emt 0:2:53]
+} Ne5 {[%emt 0:2:38]} 17. Qg2 {[%emt 0:1:22]} Nc4 {[%emt 0:0:0]} 18. Bg5 {[%emt 0:5:46]} f6 {[%emt 0:1:49]} 19. Bf4 {[%emt 0:0:46]} c6 {[%emt 0:1:17]
+} 20. Ne3 {[%emt 0:0:40]} Nxe3 {[%emt 0:2:24]} 21. Bxe3 {[%emt 0:0:21]
+} Qe6 {[%emt 0:0:34]} 22. Kb1 {[%emt 0:1:28]} d5 {[%emt 0:0:0]} 23. Bc1 {[%emt 0:8:10]} dxe4 {[%emt 0:1:14]} 24. Rhe1 {[%emt 0:55:17]} exf3 {[%emt 0:5:51]} 25. Qxf3 {[%emt 0:0:0]} Qc8 {[%emt 0:0:58]} 26. g5 {[%emt 0:0:0]
+} f5 {[%emt 0:8:58]} 27. Re5 {[%emt 0:0:0]} Bf8 {[%emt 0:0:0]} 28. Rxf5 {[%emt 0:0:0]} Qe6 {[%emt 0:0:50]} 29. h5 {[%emt 0:0:0]} Be7 {[%emt 0:6:45]} 30. g6 {[%emt 0:0:0]} Rf8 {[%emt 0:4:1]} 31. Rxf8+ {[%emt 0:0:0]
+} Rxf8 {[%emt 0:0:28]} 32. Qg3 {[%emt 0:0:0]} hxg6 {[%emt 0:0:0]} 33. hxg6 {[%emt 0:0:0]} Rf6 {[%emt 0:0:21]} 34. Re1 {[%emt 0:0:0]} Qd6 {[%emt 0:1:0]} 35. Qh4 {[%emt 0:0:0]} 1-0
+
+[Event "26th Bunratty Masters 2019"]
+[White "Hunt, Adam C"]
+[Black "Collins, Sam E."]
+[Site "Bunratty"]
+[Round "4.4"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.02.23"]
+[WhiteElo "2397"]
+[BlackElo "2429"]
+[PlyCount "97"]
+
+1. e4 {} e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. 0-0 Be7 6. Re1 b5 7. Bb3 d6 8. c3 0-0 9. h3 Bb7 10. d4 Nd7 11. Nbd2 {} exd4 {C92: Closed Ruy Lopez: 9...Be6, Karpov and
+Flohr-Zaitsev Variations} 12. cxd4 Bf6 13. Nf1 Na5 { White has an edge.} 14. Bc2 Re8 15. Ng3 (15. Ne3 Bxe4 16. Bd2 Bxc2 17. Qxc2 Nc4 18. Nxc4 Rxe1+ 19. Rxe1 bxc4 20. Qxc4 {1/2-1/2 (60)
+Shankland,S (2671)-Bu,X (2725) Liaocheng 2018} )g6 $1 16. Bf4 c5 17. Rb1 Nc4 $146 ({Predecessor:} 17... cxd4 18. Nxd4 Rc8 19. Nde2 {0-1 (32) Otikova,E 
+(2049)-Semenova,E (2212) Riga 2017} )18. b3 Na3 19. Rc1 Nxc2 20. Rxc2 Qb6 {
+} 21. d5 a5 22. Nh2 a4 23. Ng4 Bg7 24. Bh6 axb3 25. axb3 Bd4 26. Be3 Bg7 27. Bh6 (27. b4 $5 )Bd4 28. Be3 Bh8 29. Bd2 Ra1 30. Rc1 Rxc1 $1 31. Qxc1 Ne5 {Hoping for ...Nd3.} 32. Nxe5 Bxe5 33. Bc3 Bxc3 34. Qxc3 b4 35. Qd2 Qd8 36. Ra1 h5 {Threatens to win with ...h4.} 37. Qf4 Kg7 38. Ra7 Qb6 39. Ra1 Ra8 $2 {} (39... Qd8 $11 {and Black has nothing to worry.} )40. Rxa8 $18 Bxa8 41. Qg5 Kh7 {[#]} (41... Kf8 {is a better defense.} )42. Qf6 $1 {
+} Qc7 43. Nf1 Bb7 $2 (43... c4 )44. Ne3 Ba6 {[#]} 45. e5 $1 {
+} c4 (45... Qd7 $142 46. g4 (46. Qxd6 Qxd6 47. exd6 Bb5 $11 )(46. exd6 Be2 $18 )Bc8 47. exd6 Kg8 48. gxh5 Qxh3 )(45... dxe5 46. Qxa6 )46. exd6 {White is clearly winning.} Qd7 47. Qe7 Bb5 48. Qxd7 {
+Overworked Piece} Bxd7 49. Nxc4 {Accuracy: White = 66%, Black = 34%.} 1-0
+
+[Event "26th Bunratty Masters 2019"]
+[White "Pein, Malcolm"]
+[Black "Williams, Simon K"]
+[Site "Bunratty"]
+[Round "4.5"]
+[Annotator "TA"]
+[Result "0-1"]
+[Date "2019.02.23"]
+[WhiteElo "2313"]
+[BlackElo "2471"]
+[PlyCount "40"]
+
+1. e4 {} e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2 0-0 9. Be2 {C11: French:
+Classical System: 4 e5 and 4 Bg5 dxe4} (9. dxc5 Qa5 10. a3 Bxc5 11. Bxc5 Nxc5 12. Bd3 Bd7 13. 0-0 Nxd3 14. cxd3 Rac8 15. Qf2 Qa6 16. Rad1 b5 17. f5 exf5 18. Nxd5 {1-0 (37) Anand,V (2773)-Christiansen,J (2555) St Petersburg 2018} )b6 10. 0-0-0 (10. 0-0 $11 )c4 $1 $15 11. f5 {Black is better.} b5 $1 12. fxe6 fxe6 13. Nxb5 Nb4 $146 ({Black should play} 13... Rb8 $1 $17 {
+} 14. Nd6 Bxd6 15. exd6 Nf6 )({Predecessor:} 13... Rb8 14. Nd6 Bxd6 15. exd6 Nb4 16. Kb1 Nf6 {0-1 (26) Galindo Rodriguez,F (2235)-Garcia Roman,D (2390)
+Linares 2014} )14. Bg5 {And now Bxe7 would win.} Rb8 {Hoping for ...Bxg5.} 15. Nc3 $2 { [#]} (15. Bxe7 $11 {and White stays safe.} Qxe7 16. Nc3 )Qb6 $1 $19 {( -> ...Nxa2+!)} 16. b3 $2 {[#]} (16. Kb1 Bxg5 17. Nxg5 Nxa2 18. Na4 )Nxa2+ $1 { Black is clearly winning.} 17. Nxa2 {[#]} Ba3+ $1 ({Stronger than} 17... cxb3 18. Bxe7 bxa2 19. Qc3 $16 )18. Kb1 cxb3 19. Nc3 Ba6 20. Bxa6 Qxa6 {Accuracy: White = 19%, Black = 71%.} 0-1
+
+[Event "26th Bunratty Masters 2019"]
+[White "Connell, Blair N"]
+[Black "Astaneh Lopez, Alex"]
+[Site "Bunratty"]
+[Round "4.6"]
+[Annotator "TA"]
+[Result "0-1"]
+[Date "2019.02.23"]
+[WhiteElo "2239"]
+[BlackElo "2427"]
+[PlyCount "100"]
+
+1. d4 {} Nf6 2. Nc3 d5 3. Bf4 Bf5 4. e3 e6 5. f3 (5. Nf3 Bd6 6. Ne5 Nbd7 7. Bd3 Bxd3 8. cxd3 0-0 9. 0-0 a6 10. a4 Qe7 11. e4 dxe4 12. dxe4 Rfd8 13. Nxd7 Bxf4 14. Nxf6+ Qxf6 {1/2-1/2 
+(49) Atabayev,Y (2453)-Dominguez Perez,L (2720) Baku 2016} )c5 6. g4 {
+D00: 1 d4 d5: Unusual lines} Bg6 $1 7. Nb5 {Threatens to win with h4.} Na6 8. c3 {The position is equal.} Be7 9. h4 {Hoping for h5.} h6 10. Bg3 $146 ({
+Predecessor:} 10. Bd3 Bxd3 11. Qxd3 Nd7 {1-0 (36) Azimov,I (2162)-Sorokin,A 
+(1701) St Petersburg 2018} )0-0 11. Nh3 Ne8 12. Nf4 (12. g5 $5 )Bh7 13. g5 hxg5 $2 (13... c4 $11 {and Black has nothing to worry.} )14. hxg5 $18 Bxg5 15. Bd3 $1 {} g6 (15... Bxd3 $16 16. Qxd3 Nf6 )16. Qe2 cxd4 17. exd4 $40 { White is out for blood.} ({Resist} 17. Qh2 $6 Nf6 $16 )Kg7 18. Qh2 Rh8 19. Kf2 $1 ({Not} 19. Bxg6 Nf6 $16 )Kg8 $2 {[#]} (19... Kf8 {is a better defense.} 20. Rae1 Bf6 )20. Rae1 $2 (20. Nxe6 $1 $18 {
+ and White stays clearly on top.} fxe6 21. Bxg6 $1 {} )Bf6 $16 21. Ng2 Nb8 (21... Kf8 $16 {might work better.} )22. Ne3 $18 a6 (22... Nc6 {was called for.} )23. Nc7 Nxc7 $2 (23... Nc6 24. Nxa8 Qxa8 )24. Bxc7 Qf8 25. Ng4 Bg7 26. Bd6 Qd8 27. Be5 Nd7 28. Bxg7 Kxg7 29. Qh6+ Kg8 {[#]} 30. Qf4 $2 (30. Bxg6 $1 {} fxg6 31. Rxe6 )Qe7 31. Qc7 {
+White has strong compensation.} Kg7 {[#]} 32. Qh2 $2 ({Better is} 32. Ne5 $1 $18 )Qg5 $2 (32... Qd8 $1 $11 )33. Re2 $2 (33. f4 $18 Qxg4 34. Qh6+ Kg8 35. Reg1 { Trapped Piece} )Rac8 (33... Qh5 $1 $11 )34. Qd6 Nf6 35. Nxf6 Qxf6 {[#]} 36. Qh2 $1 Kf8 37. Qd6+ Kg7 38. Qh2 Kf8 $1 39. Qd6+ ({
+White should play} 39. Ke3 $16 )Kg7 $11 40. Ree1 (40. Qh2 $1 $11 )g5 $1 $15 41. Bxh7 Rxh7 42. Rxh7+ Kxh7 { Endgame KQR-KQR} 43. Rh1+ Kg7 44. Qh2 Rg8 45. Qc7 (45. Ke2 $15 )g4 $17 46. f4 (46. Ke1 $17 )Qf5 47. Qe5+ Kg6 48. Kg3 f6 49. Qc7 $2 {} (49. Qe2 $17 )Qd3+ (49... Rg7 $142 50. Qxg7+ Kxg7 )50. Kxg4 f5+ {Accuracy: White = 49%, Black =
+48%.} 0-1
+
+[Event "26th Bunratty Masters 2019"]
+[White "McShane, Luke J"]
+[Black "Turner, Matthew J"]
+[Site "Bunratty"]
+[Round "5.1"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.02.24"]
+[WhiteElo "2663"]
+[BlackElo "2519"]
+[PlyCount "143"]
+
+1. e4 {
+} e5 2. Nf3 Nc6 3. Bc4 Bc5 4. 0-0 Nf6 5. d3 d6 6. c3 Bb6 7. a4 h6 8. Nbd2 a6 9. b4 0-0 10. Ra2 {C54: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5
+d3} (10. Bb3 d5 11. Bb2 Be6 12. exd5 Nxd5 13. g3 Re8 14. Re1 Nf6 15. Bxe6 Rxe6 16. Nc4 e4 17. dxe4 Nxe4 18. Nxb6 cxb6 {1/2-1/2 (55) Ganguly,S (2615)-Efimenko,
+Z (2635) Germany 2018} )Ne7 11. Re1 Ng6 12. d4 $146 {The position is
+equal.} ({Predecessor:} 12. a5 Ba7 13. Bb3 Nh5 14. Nc4 Nhf4 15. Ne3 Be6 16. Nd5 Bg4 17. Nxf4 exf4 {0-1 (49) Eide,J (1819)-Zielinski,S (2131) LSS email 2010} )exd4 13. cxd4 Re8 14. Bf1 Bg4 15. Qc2 Qe7 16. h3 Bxf3 17. Nxf3 Nxe4 18. a5 Ba7 19. b5 axb5 20. a6 bxa6 21. Rxa6 d5 $1 22. Bxb5 Bb6 23. Rxa8 Rxa8 24. Bc6 Rd8 25. Bxd5 $1 Rxd5 26. Rxe4 Qd7 27. Qc4 Qb5 28. Qa2 Rd8 29. Be3 Qd5 30. Re8+ Kh7 31. Qxd5 Rxd5 32. Kf1 Rd7 33. g3 f6 34. Ke2 Ne7 35. g4 Kg6 36. Ra8 h5 37. gxh5+ Kf7 38. Ra4 Nf5 39. Rc4 Ke6 40. Rc1 Rd5 41. Rg1 Kf7 42. h6 gxh6 43. Kd3 h5 44. Ke4 Ke6 45. Rg6 Nd6+ 46. Kd3 c5 47. Rg1 (47. Rg8 $15 )cxd4 $17 48. Bd2 (48. Bc1 $17 {was called for.} )Rb5 49. Ke2 Ne4 50. Rg8 Rb3 51. Be1 $2 (51. Rb8 Rb2 52. h4 )d3+ 52. Kf1 {next Re8+ is good for White.} Rb1 $2 (52... Kf7 $19 53. Rb8 Rb1 54. Rb7+ Ke8 55. Rb8+ Kd7 )53. Re8+ $1 $11 Kf5 {[#]} 54. Rxe4 $1 { Hoping for Ra4.} Bxf2 $2 {} (54... Ba5 $11 55. Rd4 Rd1 )(54... Kxe4 55. Nd2+ )55. Kxf2 $18 Rb2+ 56. Nd2 Rxd2+ 57. Bxd2 {White mates.} Kxe4 { Endgame KB-K3P} 58. Kg3 h4+ 59. Kf2 f5 60. Bc1 Kd4 61. Bg5 Kc3 62. Ke1 Kc2 63. Bd2 Kb3 64. Kd1 Kc4 65. Bg5 Kd4 66. Kd2 Ke4 67. Bxh4 f4 68. Be1 Kd4 69. Bf2+ Ke4 70. Bb6 Kf3 {[#]} 71. h4 $1 Kg4 {[#]} 72. Bf2 $1 {Accuracy: White = 48%, Black = 69%.} 1-0
+
+[Event "26th Bunratty Masters 2019"]
+[White "Short, Nigel D"]
+[Black "Hebden, Mark L"]
+[Site "Bunratty"]
+[Round "5.2"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.02.24"]
+[WhiteElo "2648"]
+[BlackElo "2417"]
+[PlyCount "112"]
+
+1. d4 {} Nf6 2. Bg5 d5 3. e3 Ne4 4. Bf4 c5 5. Bd3 Nf6 6. Nc3 {A45: Trompowsky Attack} a6 7. h3 Nc6 8. Nf3 e6 9. 0-0 b5 $146 (9... c4 $5 10. Be2 $8 b5 $11 )({Predecessor:} 9... c4 10. Be2 b5 11. Ne5 Bb7 12. Bf3 Bb4 13. a4 Qb6 14. axb5 axb5 15. Rxa8+ Bxa8 {
+1-0 (56) Andreikin,D (2722)-Dominguez Perez,L (2751) Baku 2014} )10. a3 Bb7 (10... c4 $5 {} 11. Be2 Bd6 $11 )11. Re1 Rc8 12. dxc5 Bxc5 13. e4 dxe4 14. Nxe4 Be7 15. c3 Nxe4 16. Bxe4 Qxd1 $1 17. Raxd1 Na5 18. Bxb7 Nxb7 19. b4 Bf6 20. Ne5 Bxe5 21. Bxe5 f6 22. Bd4 Kf7 23. f4 Rhd8 24. a4 Rd5 25. axb5 axb5 26. Ra1 Rc7 27. Ra6 Rd6 28. Rea1 Rcd7 29. g4 h6 30. h4 h5 31. gxh5 Rd5 32. Ra8 Rxh5 33. R1a7 $36 { Black is under pressure.} Kg6 ({Wrong is} 33... Rxh4 $2 34. Rb8 $18 )34. Rb8 Rxd4 (34... e5 $14 35. fxe5 fxe5 )35. cxd4 $14 { Endgame KRR-KRN} Nd6 36. Rd7 Nf5 37. Rxb5 Rxh4 38. Rbb7 (38. Rb8 $16 )Rxf4 39. b5 {Black must now prevent Ra7.} Nxd4 {[#]} (39... Ne3 $16 )40. Rxg7+ $2 (40. b6 $1 $18 )Kf5 $11 {The position is equal.} 41. b6 Ne2+ 42. Kg2 {Threatens to win with Rbd7.} Rb4 43. Rb8 {Hoping for b7.} Nf4+ 44. Kf2 {[#] Strongly threatening Rd7.} Rb2+ 45. Ke1 e5 46. b7 Nd3+ 47. Kf1 Nc5 48. Rf7 {next Rxf6+ is good for White.} Ke4 49. Rxf6 {Rf7 is the strong threat.
+} (49. Rg8 {is more complex.} Rxb7 50. Rxf6 Nd3 51. Rg3 Rb2 52. Ra6 )Rxb7 (49... Nd7 {is interesting.} 50. Rc8 Rb1+ 51. Kf2 Rb2+ 52. Kg3 Rb3+ )50. Rxb7 (50. Rg8 {keeps more tension.} Nd3 51. Rg3 Rb2 52. Rf7 Rd2 53. Rff3 )Nxb7 {KR-KN} 51. Ke2 Nc5 52. Rh6 {aiming for Rh4+.} Nd3 53. Rh4+ Nf4+ 54. Kf2 Kd3 55. Rh1 {And now Kf3 would win.} Ne6 56. Rd1+ Ke4 {Accuracy: White = 56%,
+Black = 58%.} 1/2-1/2
+
+[Event "26th Bunratty Masters 2019"]
+[White "Astaneh Lopez, Alex"]
+[Black "Hunt, Adam C"]
+[Site "Bunratty"]
+[Round "5.3"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.02.24"]
+[WhiteElo "2427"]
+[BlackElo "2397"]
+[PlyCount "87"]
+
+1. c4 {} g6 2. g3 Bg7 3. Bg2 d6 4. Nf3 Nf6 5. d4 0-0 6. 0-0 Nc6 7. b3 a6 8. Bb2 Rb8 {E60: King's Indian:
+Unusual lines and Fianchetto Variation without Nc3} 9. d5 (9. Qc1 Bd7 10. Rd1 b5 11. d5 Na5 12. c5 dxc5 13. Qxc5 Nc4 14. Bd4 Ne4 15. Qb4 e5 16. Ba7 {1-0 (56)
+Dreev,A (2657)-Eminov,O (2291) Konya 2018} )Na5 10. e4 c5 {White is
+slightly better.} 11. e5 Nd7 12. Re1 $146 ({Predecessor:} 12. Qe2 b5 13. cxb5 axb5 14. e6 Nf6 15. exf7+ Rxf7 {1-0 (36) Olarasu,G (2311)-Mammadova,N (2104)
+Dresden 2004} )Nxe5 13. Nxe5 dxe5 14. Bxe5 Bxe5 15. Rxe5 Nc6 16. Re1 Nd4 17. Nd2 Bf5 18. g4 Bd7 19. h3 Re8 20. Nf3 Nxf3+ $1 21. Qxf3 Qc7 22. Re4 Qd6 23. Rae1 b6 24. Re5 e6 25. Qg3 Kg7 26. f4 (26. dxe6 $16 Rxe6 27. Rxe6 Qxg3 {[#]} 28. Rxg6+ $1 {} (28. fxg3 Bxe6 29. Rc1 Rd8 $11 )hxg6 29. fxg3 )f6 $11 {The position is equal.} 27. R5e3 exd5 28. Bxd5 Rxe3 29. Rxe3 Re8 30. g5 (30. Rxe8 {seems wilder.} Bxe8 31. Qe3 Bd7 32. a4 Bc6 33. Qe4 )fxg5 31. fxg5 Qxg3+ 32. Rxg3 { Endgame KRB-KRB} Re2 33. Rg2 Re5 34. h4 h6 35. Kf2 hxg5 36. hxg5 Kf8 37. Kf3 Ke7 38. Rg1 Kd6 39. Kf4 Rf5+ 40. Ke3 Re5+ 41. Kf4 Rf5+ 42. Ke3 Re5+ 43. Kf4 Rf5+ 44. Ke4 {Accuracy: White = 57%,
+Black = 68%.} 1/2-1/2
+
+[Event "26th Bunratty Masters 2019"]
+[White "Williams, Simon K"]
+[Black "Bates, Richard A"]
+[Site "Bunratty"]
+[Round "5.4"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.02.24"]
+[WhiteElo "2471"]
+[BlackElo "2351"]
+[PlyCount "33"]
+
+1. d4 {} Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 0-0 5. a3 Bxd2+ 6. Bxd2 d6 7. Qc2 Qe7 8. Bc3 Nc6 9. e3 a5 10. h3 {E33: Nimzo-Indian: Classical: 4...Nc6} (10. Be2 e5 11. dxe5 dxe5 12. h3 Rd8 13. 0-0 e4 14. Nd4 Nxd4 15. Bxd4 c5 16. Bc3 a4 17. f4 Bd7 {1-0 (41)
+Wojtaszek,R (2736)-Nisipeanu,L (2683) Dortmund 2017} )e5 11. Be2 Re8 12. dxe5 {White has an edge.} dxe5 13. b3 {[#]} b6 $146 ({Predecessor:} 13... e4 14. Nd2 Bf5 15. g4 Bg6 16. h4 h6 17. h5 Bh7 {0-1 (51) Yankelevich,L (2407)
+-Sanikidze,T (2503) Vandoeuvre 2016} )14. 0-0 Bb7 15. Nd2 Nd4 16. exd4 exd4 {
+ [#] Discovered Attack} 17. Bf3 1/2-1/2
+
+[Event "26th Bunratty Masters 2019"]
+[White "Wells, Peter K"]
+[Black "Fitzsimons, David"]
+[Site "Bunratty"]
+[Round "5.5"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.02.24"]
+[WhiteElo "2415"]
+[BlackElo "2301"]
+[PlyCount "79"]
+
+1. d4 {} Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 Bb4+ 6. Nbd2 {} Nbd7 {E04: Open Catalan: 5 Nf3} (6... b5 $11 )(6... b5 7. 0-0 a5 8. a4 c6 9. b3 cxb3 10. Nxb3 bxa4 11. Rxa4 Ba6 12. Bd2 Bb5 13. Ra1 Nbd7 14. Bxb4 axb4 15. Qd2 0-0 16. Rxa8 Qxa8 17. Ra1 Qb8 18. Ne1 Qb6 {1/2-1/2 (18) Ipatov,A (2649)-Bruzon
+Batista,L (2664) Burlingame 2018} )7. a3 $16 Ba5 $146 ({Predecessor:} 7... Bxd2+ 8. Nxd2 Nb6 9. Nxc4 0-0 10. Ne5 Nfd7 11. Nxd7 Qxd7 12. 0-0 Rd8 13. Bf4 Nd5 {1-0 (44) Likavsky,T (2486)-Kastelic,M (2286) Skopje 2012} )8. 0-0 c3 {
+White is better.} 9. Nc4 cxb2 10. Bxb2 c6 (10... Bb6 $16 )11. Nd6+ $18 Ke7 12. Ne5 Nxe5 13. dxe5 Nd7 $2 (13... Ne8 14. Nc4 Qxd1 15. Rfxd1 (15. Raxd1 Bb6 $16 )Bb6 )14. Qd4 Kf8 15. Rfd1 Bb6 16. Qd3 Nc5 (16... g6 $142 17. Nxc8 {
+ Discovered Attack} Rxc8 18. Qxd7 Qxd7 19. Rxd7 Rb8 )17. Qf3 { [#]} Qe7 18. a4 Na6 19. Ne4 Ba5 20. Rab1 Bb4 21. Qd3 g6 22. Qf3 Bd7 23. Bc1 h6 24. Nf6 Be8 25. h4 Kg7 (25... Rd8 $142 26. Rxd8 Qxd8 )26. Qf4 $40 { Black is in trouble.} Rd8 $2 (26... Bc5 {was necessary.} 27. Ne4 b6 )27. Rxd8 Qxd8 28. Nxe8+ Qxe8 29. Rxb4 Nxb4 30. Qxb4 Qd7 {[#] ...
+Qd1+ is the strong threat.} 31. Be3 b6 32. Qf4 c5 33. Qf6+ Kg8 34. Be4 h5 35. Bxg6 fxg6 36. Qxg6+ Qg7 37. Qe8+ Qf8 38. Qg6+ Qg7 39. Qe8+ Qf8 40. Qg6+ $2 {
+Accuracy: White = 72%, Black = 37%.} (40. Qxe6+ $18 Qf7 41. Qc6 )1/2-1/2
+
+[Event "26th Bunratty Masters 2019"]
+[White "Howell, David W L"]
+[Black "Li, Henry"]
+[Site "Bunratty"]
+[Round "5.6"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.02.24"]
+[WhiteElo "2689"]
+[BlackElo "2287"]
+[PlyCount "71"]
+
+1. e3 {} Nf6 2. Nf3 g6 3. b3 {} Bg7 4. Bb2 0-0 5. d4 c5 6. dxc5 {A48: 1 d4 Nf6 2 Nf3 g6: Torre, London
+and Colle Systems} Qa5+ 7. c3 Nc6 (7... Qxc5 8. Ba3 Qb6 9. Bxe7 Re8 10. Bxf6 Bxf6 11. Be2 Nc6 12. 0-0 a5 13. Nd4 d5 {1-0 (38) Nakamura,H (2769)-Mamedyarov,
+S (2808) Leuven 2018} )8. b4 {White is slightly better.} Qc7 9. Be2 $146 ({
+Predecessor:} 9. Na3 a5 10. Nb5 Qd8 11. a3 b6 12. cxb6 Qxb6 13. Qb3 d5 {
+1/2-1/2 (35) Kovari,E (2354)-Povchanic,D (2320) Slovakia 2002} )Rd8 10. 0-0 d6 11. cxd6 Rxd6 12. Qb3 Be6 13. c4 h6 14. Na3 {Black must now prevent Nb5.
+} a6 15. Bc3 b5 (15... Qc8 $16 {might work better.} 16. Qb2 Rd7 )16. Qb2 $18 bxc4 17. Nxc4 Rdd8 18. Rac1 Qb7 19. Nd4 Bxc4 20. Bxc4 Ne5 {[#]} 21. Be2 $1 Ne4 22. Qa3 Rdb8 (22... Nxc3 $16 23. Rxc3 Rab8 )23. Be1 e6 24. f4 Nd7 25. Nc6 {
+Bf3 is the strong threat.} Re8 26. Bf3 f5 27. Bxe4 fxe4 28. Bc3 e5 (28... Rac8 $142 )29. Qb3+ Kh8 30. Nxe5 Nxe5 31. Bxe5 {[#] aiming for Rc7.} ({Don't take} 31. fxe5 Qd7 )Bxe5 32. fxe5 Qe7 $2 (32... Rac8 33. Rxc8 Qxc8 )33. Rf7 {
+White is clearly winning.} Qxe5 34. Rcc7 {} Re6 35. Rc5 Qa1+ 36. Rf1 {Accuracy: White = 92%, Black = 38%.} 1-0
+
+[Event "26th Bunratty Masters 2019"]
+[White "Hunt, Adam C"]
+[Black "McShane, Luke J"]
+[Site "Bunratty"]
+[Round "6.1"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.02.24"]
+[WhiteElo "2397"]
+[BlackElo "2663"]
+[PlyCount "140"]
+
+1. e4 {} e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. 0-0 Nd4 6. Nxd4 Bxd4 7. Nd2 {C65: Ruy
+Lopez: Berlin Defence (3...Nf6), unusual lines and 4 0-0 Bc5} (7. c3 Bb6 8. Ba4 0-0 9. Bg5 h6 10. Bh4 d6 11. Nd2 g5 12. Bg3 Bg4 13. Qe1 Nh5 14. Bd1 Bxd1 15. Qxd1 Nxg3 16. hxg3 {1/2-1/2 (47) Caruana,F (2828)-Robson,R (2667) chess.com
+INT 2019} )c6 8. Ba4 d6 9. c3 Bb6 10. Nc4 Bc7 {[#] White must now prevent
+...b5.} 11. Ne3 Be6 $146 ({Predecessor:} 11... 0-0 12. Qf3 g6 13. Bb3 Kg7 14. h3 Qe7 {1/2-1/2 (117) Fedorchuk,S (2648)-Leko,P (2691) Riadh 2017} )12. Bb3 0-0 13. Bxe6 fxe6 14. Ng4 Nd7 15. Bd2 d5 16. Qe2 Qe8 17. f3 Qg6 18. Kh1 a5 19. Rad1 a4 20. Be1 Rae8 21. Bg3 h5 22. Nf2 Bd8 {Hoping for ...h4.} 23. Nh3 b5 24. b3 a3 25. b4 Bb6 26. Qc2 Qh6 27. c4 bxc4 28. dxc4 {} Bd4 29. c5 (29. Bf2 $16 )Nf6 30. Bh4 Qg6 31. Nf4 exf4 32. Rxd4 Rb8 ({Black should try} 32... e5 $11 33. Rdd1 dxe4 )33. Qb3 $14 Kh7 34. e5 Nd7 {[#]} (34... Ng8 $1 $11 {
+remains equal.} )35. Be7 $1 $36 { White is really pushing.} Nxe5 {
+next ...Rf5 is good for Black.} 36. Bxf8 ({Stronger than} 36. Qxa3 Ra8 $17 )Rxf8 37. Qxa3 Nc4 38. Qd3 e5 39. Qxg6+ Kxg6 { Endgame KRR-KRN} 40. Rd3 Ra8 41. Ra1 (41. b5 $1 $16 )Na3 $1 $14 42. Rc1 Nb5 43. a3 Kf5 44. Kg1 g5 45. Kf2 $2 (45. Ra1 $11 )e4 $17 46. fxe4+ dxe4 47. Rb3 (47. Rd7 $17 Rxa3 48. Kf1 )e3+ $19 { Black has strong compensation.} 48. Ke1 (48. Kf1 {is a better defense.} )Ke4 49. Rc4+ Kd5 50. Rc1 g4 (50... Nxa3 $17 51. Rd3+ Ke5 )51. g3 $1 $15 Nd4 (51... h4 $5 52. gxf4 Ke4 $11 )52. Rd1 Kc4 {The position is equal.} 53. Rxd4+ $1 Kxd4 54. gxf4 $11 {KR-KR} Ke4 {Strongly threatening ...Kf3.} 55. Ke2 Kxf4 56. Rxe3 h4 57. Kf2 Rd8 58. a4 Rd2+ 59. Re2 g3+ 60. hxg3+ hxg3+ 61. Kf1 Rd3 62. Kg2 {Ra2 is the strong threat.} Rb3 63. b5 cxb5 64. axb5 Rxb5 65. Rc2 Rb7 66. c6 (66. Ra2 {seems wilder.} Rb8 67. Ra4+ Ke5 68. Rg4 Kd5 69. Rg5+ )Rc7 67. Rc4+ Ke5 68. Kxg3 Kd5 69. Rc1 Rxc6 70. Rxc6 Kxc6 {Accuracy: White = 59%, Black = 54%.} 1/2-1/2
+
+[Event "26th Bunratty Masters 2019"]
+[White "Turner, Matthew J"]
+[Black "Short, Nigel D"]
+[Site "Bunratty"]
+[Round "6.2"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.02.24"]
+[WhiteElo "2519"]
+[BlackElo "2648"]
+[PlyCount "40"]
+
+1. Nf3 {} d5 2. d4 Nc6 3. c4 Bg4 4. cxd5 Bxf3 5. gxf3 Qxd5 6. e3 e6 7. Nc3 Qh5 8. f4 Qxd1+ 9. Kxd1 0-0-0 10. Bg2 Nf6 11. Bd2 Ne7 {D07: Queen's Gambit: Chigorin
+Defence} 12. Rc1 (12. Ke2 Kb8 13. Na4 Nf5 14. Rhd1 Nd5 15. b4 h6 16. Nc5 g5 17. fxg5 hxg5 18. h3 Be7 19. a4 {1-0 (49) Ding,L (2772)-Stevic,H (2616) Antalya
+2017} )Kb8 13. Ke2 Nf5 {White has an edge.} 14. Rhd1 h6 15. Ne4 Nxe4 16. Bxe4 c6 17. d5 $146 ({Predecessor:} 17. Bc3 Nd6 18. Bf3 Be7 19. Rg1 {1/2-1/2 
+(19) Campbell,S (1975)-Hebels,A (1926) IECG email 1999} )cxd5 18. Bxf5 exf5 19. Bc3 {And now Be5+ would win.} f6 20. Rd3 Be7 1/2-1/2
+
+[Event "26th Bunratty Masters 2019"]
+[White "Hebden, Mark L"]
+[Black "Williams, Simon K"]
+[Site "Bunratty"]
+[Round "6.3"]
+[Annotator "TA"]
+[Result "*"]
+[Date "2019.02.24"]
+[WhiteElo "2417"]
+[BlackElo "2471"]
+[PlyCount "44"]
+
+1. d4 {} e6 2. Nf3 f5 3. g3 Nf6 4. Bg2 Be7 5. 0-0 0-0 6. c4 d6 7. Nc3 Ne4 8. Nxe4 {A96: Classical Dutch: Fluid Systems: Early
+deviations} (8. Qc2 Nxc3 9. bxc3 Nc6 10. d5 Na5 11. dxe6 Bxe6 12. Nd4 Bxc4 13. Nxf5 Bf6 14. Ne3 Bf7 15. Be4 h6 16. Rb1 Kh8 17. c4 {1/2-1/2 (25) Ding,L (2777)
+-Kravtsiv,M (2665) Tbilisi 2017} )fxe4 9. Nd2 d5 10. f3 {White is
+slightly better.} Nc6 11. fxe4 {Strongly threatening Rxf8+.} Rxf1+ 12. Nxf1 {
+} (12. Kxf1 {is more complex.} dxc4 13. Nf3 a5 14. a4 g5 15. Be3 )dxc4 13. Be3 Bd7 14. Bf2 b5 15. e5 Rb8 {[#]} 16. Nd2 $146 Be8 17. Ne4 Nb4 18. b3 Nd5 19. Qc2 cxb3 (19... Nb6 $14 )20. axb3 $16 a5 21. Nc5 (21. Bh3 $16 )Bxc5 22. Qxc5 a4 {Accuracy: White = 41%, Black = 35%.} (22... Rb6 $16 )*
+
+[Event "26th Bunratty Masters 2019"]
+[White "Collins, Sam E."]
+[Black "Howell, David W L"]
+[Site "Bunratty"]
+[Round "6.4"]
+[Annotator "TA"]
+[Result "0-1"]
+[Date "2019.02.24"]
+[WhiteElo "2429"]
+[BlackElo "2689"]
+[PlyCount "106"]
+
+1. e4 {} e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. 0-0 Be7 6. Re1 b5 7. Bb3 d6 8. c3 0-0 9. h3 Na5 10. Bc2 c5 11. d4 Nd7 12. Nbd2 exd4 13. cxd4 Nc6 14. d5 Nce5 15. a4 {C96: Closed Ruy Lopez: Chigorin Defence:
+11 d4, replies other than 11...Qc7} (15. Nxe5 Nxe5 16. f4 Ng6 17. Nf3 Bh4 18. Nxh4 Qxh4 19. Rf1 f5 20. e5 dxe5 21. fxe5 Nxe5 22. Bf4 Nc4 {0-1 (52) Steinberg,
+N (2532)-Jakovenko,D (2735) St Petersburg 2018} )Bb7 16. Nxe5 Nxe5 17. f4 {White has an edge.} Ng6 18. Nf3 Re8 19. f5 Nf8 $1 20. Bf4 Nd7 21. Kh2 $146 ({
+Predecessor:} 21. Qe2 Qb6 22. Qf2 Bf6 {1/2-1/2 (36) Pheby,I (2248)-Kreuzer,M 
+(2627) ICCF email 2010} )Qb6 22. b3 Bf6 23. Ra2 Rac8 24. Qd2 b4 25. Qf2 {
+[#]} (25. a5 $1 $11 Qc7 26. Re3 )a5 $1 $17 26. Qg3 {[#]} ({White should
+try} 26. Bd3 )Ne5 (26... c4 $1 $17 {Threatens to win with ...cxb3.} 27. Bxd6 cxb3 28. Bxb3 Bc3 )27. Bxe5 Bxe5 28. Nxe5 Rxe5 29. f6 {} g6 30. Bd3 Kh8 31. Rc2 Rce8 32. Bb5 Rg8 33. Bd3 Rge8 34. Bb5 Rg8 {
+} 35. Bd3 Bc8 36. Rec1 {Black must now
+prevent Rxc5!} Qb8 37. Qf3 Bd7 38. Rh1 g5 39. g4 Rg6 40. Rf1 Qd8 41. Rff2 Rh6 42. Kg1 Rg6 43. Kf1 Qe8 44. Ra2 Rh6 45. Rac2 Rg6 46. Ra2 Rh6 47. Rac2 Rh4 48. Rh2 Qd8 49. Rhf2 (49. Rhg2 $15 )Qe8 (49... h5 $17 {} 50. Rg2 Qc8 )50. Ra2 (50. Rh2 $1 $11 {remains equal.} )h6 51. Rae2 Kh7 52. Re3 (52. Rg2 $17 {was the only chance.} )h5 $19 53. Qe2 (53. Rg2 $142 )hxg4 {Accuracy: White = 32%, Black = 66%.} 0-1
+
+[Event "26th Bunratty Masters 2019"]
+[White "Fitzsimons, David"]
+[Black "Astaneh Lopez, Alex"]
+[Site "Bunratty"]
+[Round "6.5"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.02.24"]
+[WhiteElo "2301"]
+[BlackElo "2427"]
+[PlyCount "145"]
+
+1. e4 {} c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 g6 6. Nf3 Bg7 7. 0-0 Nf6 8. Bf4 Bf5 {B13: Caro-Kann: Exchange Variation and
+Panov-Botvinnik Attack} (8... 0-0 9. Ne5 Bf5 10. Bxf5 gxf5 11. Nd2 e6 12. Nd3 Kh8 13. h3 Rg8 14. Kh1 Ne4 15. f3 Nxd2 16. Qxd2 Ne7 17. g4 Ng6 18. gxf5 Nxf4 19. Qxf4 {1/2-1/2 (34) Kovalev,V (2636)-Popov,I (2609) Sochi 2017} )9. Bxf5 gxf5 {LiveBook: 6 Games} 10. Qb3 Qd7 {White is slightly better.} 11. Be5 $146 ({Predecessor:} 11. Ne5 Nxe5 12. Bxe5 0-0 13. Nd2 Ne4 14. Nxe4 fxe4 15. Bxg7 Kxg7 16. Rae1 {1-0 (66) Cobo Garrido,D (2070)-Ramiro Ovejero,J (2386) Aragon
+2017} )e6 12. Nbd2 0-0 13. Bxf6 Bxf6 14. Ne1 b5 15. Qxb5 Rfb8 16. Qd3 (16. Qe2 $1 $16 )Rxb2 $11 17. Nb3 {Hoping for Qd1.} Qc7 18. Qd1 {Black
+must now prevent Nd3.} Na5 $1 { aiming for ...Nxb3.} 19. Nd3 {
+Threatens to win with Nxa5.} Nxb3 20. axb3 Qxc3 21. Nxb2 Qxb2 22. Ra4 Rc8 23. Qa1 Rc2 24. Qxb2 Rxb2 { Endgame KRR-KRB} 25. Rd1 Rxb3 26. Kf1 h5 27. Ke2 Kg7 28. Rd3 Rb2+ 29. Kf3 a5 30. g3 Bd8 31. Ke3 Kg6 32. Kf3 Bb6 33. Kg2 Kg5 34. h4+ Kg6 35. Rda3 {[#]} f4 $1 {} 36. gxf4 Kf5 37. Kf3 Bd8 38. Kg3 Be7 39. Rd3 Bb4 40. Kf3 (40. Ra1 $15 )Be1 41. Ra1 ({White should play} 41. Rd1 Rb3+ 42. Kg2 )Bxf2 $17 42. Rxa5 (42. Rad1 $17 )Bxh4 $19 43. Ra7 f6 44. Rh7 Kg6 $2 ({Black should try} 44... Rf2+ $1 $19 45. Ke3 Rh2 )45. Rh8 $11 Bf2 $2 { [#]} (45... Rh2 $11 )46. Rg8+ $1 $18 Kf5 47. Rg2 Bxd4 48. Rxd4 Rb3+ {[#]} 49. Kf2 $1 h4 $2 (49... Rb8 50. Rh2 Rb2+ 51. Kg1 Rb1+ 52. Kf2 Rb2+ 53. Kg3 Rb3+ 54. Kh4 Rf3 )50. Rg7 Rb2+ 51. Kf3 Rb3+ 52. Kg2 h3+ 53. Kh2 Rf3 54. Rh7 Kg4 (54... Rb3 $142 55. Rxh3 Rb2+ 56. Kg3 Rb3+ 57. Kg2 Rb2+ 58. Kf1 Ra2 )55. f5+ Kxf5 56. Rxh3 Rf2+ 57. Kg3 Ra2 58. Rh5+ Kg6 59. Rh1 Ra3+ 60. Kg4 Re3 (60... Ra5 $142 61. Rhd1 Rb5 )61. Rg1 {White wants to mate with
+Kf4+.} Ra3 62. Re1 f5+ $2 (62... Ra6 63. Rf1 Ra8 )63. Kh4 Kf6 64. Rb4 Ra6 65. Rb5 Rd6 66. Reb1 Ra6 67. Kg3 Rc6 68. R1b3 Ke5 69. Kf3 Kf6 (69... f4 $142 70. Rb8 Rc1 )70. Rb6 Rc8 71. Re3 Re8 72. Kf4 d4 73. Re5 {Precision: White = 61%,
+Black = 45%.} (73. Rh3 $142 Kg6 74. Ke5 Kg5 75. Rg3+ Kh4 76. Rbb3 d3 77. Rbxd3 f4 78. Rg7 )1-0
+
+[Event "26th Bunratty Masters 2019"]
+[White "Bates, Richard A"]
+[Black "Lalic, Bogdan"]
+[Site "Bunratty"]
+[Round "6.6"]
+[Annotator "NA RC"]
+[Result "0-1"]
+[Date "2019.02.24"]
+[WhiteElo "2351"]
+[BlackElo "2406"]
+[PlyCount "52"]
+[TimeControl "60"]
+
+1. d4 {[%emt 0:5:24]} Nf6 {[%emt 0:7:15]} 2. Nf3 {[%emt 0:0:55]} g6 {[%emt 0:0:23]
+} 3. c4 {[%emt 0:2:14]} Bg7 {[%emt 0:0:30]} 4. g3 {[%emt 0:0:0]} c5 {[%emt 0:0:26]} 5. Bg2 {[%emt 0:2:45]} Qa5+ {[%emt 0:3:30]} 6. Nc3 {[%emt 0:10:39]
+} Ne4 {[%emt 0:0:36]} 7. Qd3 {[%emt 0:2:10]} cxd4 {[%emt 0:0:0]} 8. Nxd4 {[%emt 0:0:43]} Nc5 {[%emt 0:0:31]} 9. Qe3 {[%emt 0:5:57]} Nc6 {[%emt 0:1:6]} 10. Nxc6 {[%emt 0:1:45]} dxc6 {[%emt 0:0:26]} 11. 0-0 {[%emt 0:9:18]
+} Qb4 {[%emt 0:12:50]} 12. Bd2 {[%emt 0:13:52]} Qxc4 {[%emt 0:0:0]} 13. Rac1 {[%emt 0:7:57]} Ne6 {[%emt 0:5:51]} 14. Nb1 {[%emt 0:12:11]} Qxa2 {[%emt 0:4:18]} 15. Bc3 {[%emt 0:8:44]} 0-0 {[%emt 0:6:21]} 16. Nd2 {[%emt 0:0:29]
+} Bxc3 {[%emt 0:1:33]} 17. Qxc3 {[%emt 0:0:50]} Nc7 {[%emt 0:0:0]} 18. Qe5 {[%emt 0:3:50]} Nb5 {[%emt 0:2:28]} 19. Qxe7 {[%emt 0:3:1]} Qxb2 {[%emt 0:5:41]} 20. Ne4 {[%emt 0:0:45]} f5 {[%emt 0:0:50]} 21. Ng5 {[%emt 0:3:47]
+} Qg7 {[%emt 0:0:23]} 22. Qb4 {[%emt 0:1:12]} h6 {[%emt 0:0:0]} 23. Nf3 {[%emt 0:1:6]} Be6 {[%emt 0:0:48]} 24. Rc5 {[%emt 0:0:48]} Rad8 {[%emt 0:0:56]} 25. Re5 {[%emt 0:0:17]} Rfe8 {[%emt 0:2:1]} 26. Qh4 {[%emt 0:1:31]
+} Bd5 {[%emt 0:1:30]} 0-1
+

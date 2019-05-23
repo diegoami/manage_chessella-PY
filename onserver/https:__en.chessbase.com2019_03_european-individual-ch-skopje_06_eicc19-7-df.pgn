@@ -1,0 +1,230 @@
+[Event "European Championship"]
+[Site "?"]
+[Date "2019.03.26"]
+[Round "7"]
+[White "Predke, A."]
+[Black "Grandelius, N."]
+[Result "0-1"]
+[WhiteElo "2611"]
+[BlackElo "2694"]
+[Annotator "DF"]
+[PlyCount "88"]
+[EventDate "2019.03.26"]
+
+{[%evp 0,88,16,25,29,36,65,28,19,23,34,-9,7,-21,9,23,24,25,71,-17,2,-9,25,7,55,
+62,62,62,165,134,142,142,110,121,91,89,66,66,82,0,0,-63,-61,-75,-76,-76,-72,
+-76,-72,-72,-85,-103,-117,-108,-58,-97,-90,-37,-74,-65,-49,-95,-67,-58,-95,
+-104,-42,-93,-94,-96,-96,-165,-54,-227,-205,-209,-202,-282,-290,-287,-296,-305,
+-290,-340,-331,-341,-280,-515,-533,-529,-539]} 1. d4 Nf6 2. Nf3 g6 3. g3 d5 4.
+c4 dxc4 {Unlike Esipenko against Rodshtein, Nils has no problem going for the
+typical Grunfeld structure with one central pawn against two.} 5. Bg2 Bg7 6.
+Na3 c3 7. bxc3 O-O 8. O-O c5 9. Re1 Nc6 10. Bb2 (10. e4 Bg4 11. Bb2 cxd4 $1 (
+11... Qb6 12. Nc4 Qa6 13. Ne3 $1 $14 {is now much less successful than the
+game version.}) (11... e5 $6 12. d5 Na5 13. c4 Ne8 14. Qa4 Bxf3 15. Bxf3 Nd6
+16. Rac1 a6 17. Qc2 Rb8 18. Be2 Qc7 19. Nb1 b6 20. Nd2 Rbe8 21. Bc3 $14 {
+Yu,Y-Savchenko,B Riadh 2017}) 12. cxd4 Nd7 13. Nc2 Nb6 $132) 10... Qb6 $5 {
+This is the main move against Bb2; it makes sense that the queen would be well
+posted on a6.} 11. Nc4 Qb5 {But this is slightly odd, especially for such a
+high level. Presumably it is the result of preparation and the realisation
+that White's queen is actually not great on b3.} (11... Qa6 12. Nce5 Rd8 13. e3
+Be6 14. a4 Bd5 15. Ba3 (15. Bf1 $5) 15... Nxe5 16. Nxe5 Bxg2 17. Kxg2 Nd5 18.
+Qf3 Bxe5 19. dxe5 Qc4 $15 {Dreev,A-Hansen,E chess.com INT 2018}) 12. Qb3 Qa6
+13. e4 $6 {Now Black gets to show his idea.} (13. Nce5 $1 Be6 {As above, this
+is a developing move that Black wanted to play anyway. However, there is a
+slight complication: White has the extra option} 14. Qa3 {which gives validity
+to his setup.} Qxa3 15. Bxa3 Nxe5 16. Nxe5 cxd4 17. cxd4 Nd5 18. Rab1 $14)
+13... Be6 14. d5 Nxd5 15. exd5 Bxd5 16. Nfd2 Bxg2 17. Kxg2 b5 18. Ne3 Ne5 19.
+c4 (19. Qc2 Qc6+ (19... c4 {was probably Black's positional idea: once the
+trap clamps shut with ...Qc6 and ...Nd3 White will be struggling for the rest
+of the game. Therefore, it is imperative to break out now, even at the cost of
+material:} 20. a4 Qc6+ 21. Qe4 $1 Qxe4+ 22. Nxe4 Nd3 23. axb5 $1 Nxb2 24. Reb1
+Nd3 25. Nd5 $14) 20. Qe4 Qxe4+ 21. Nxe4 Nd3 22. Ba3 $1 f5 (22... b4 23. Red1
+$11) 23. Nxc5 Nxe1+ 24. Rxe1 Bxc3 25. Rb1 b4 26. Bxb4 Rab8 27. Na6 Bxb4 28.
+Nxb8 Rxb8 29. Nd5 $11) 19... Nxc4 20. Ndxc4 $6 {Now White is worse.} (20. Bxg7
+Nxd2 21. Qd1 Qc6+ 22. f3 Qxf3+ 23. Qxf3 Nxf3 24. Kxf3 Kxg7 25. Rad1 $11 {
+The piece is a match for the four pawns, at least right now.}) 20... bxc4 21.
+Nxc4 (21. Qxc4 Qc6+ 22. Qd5 Qxd5+ 23. Nxd5 Bxb2 24. Rab1 Rab8 25. Nxe7+ Kg7 26.
+Nc6 Rb6 $17 {is not better.}) 21... Rab8 22. Qa3 Qb7+ 23. Kg1 Bxb2 24. Nxb2
+Qxb2 25. Qxa7 c4 26. Qxe7 {Now the limit of White's dreams is a liquidation of
+the queenside pawns, but this is harder to achieve than normal.} Rfc8 (26... c3
+$15 {was fine immediately.}) 27. a4 c3 28. Qf6 Qb4 29. a5 $2 (29. Qe7 $11 {
+White badly needs to trade queens. With them on, having his rooks tied down
+will lead to some kind of disaster.}) 29... c2 30. Qf4 Rc4 31. Qe3 Qb2 32. Qc1
+Qc3 $6 (32... Qd4 $5 {prevents} 33. a6 $4 {due to} Ra4 $19 {and, very suddenly,
+the game is over. Then, Black could play ...Rbc8 threatening ...Qxa1 as in the
+game, without worrying about the White a-pawn.}) 33. a6 Rbc8 (33... Rc7 $15 {
+was a good idea immediately, so that Black could play the check after Kg2.})
+34. Kg2 R4c7 35. a7 Ra8 36. Qh6 $2 {This move is really hard to explain- did
+White simply forget that the queen check on c6 would cover e8?} (36. Qf4 $11 {
+was the only move, and should be sufficient to hold.}) 36... Rcxa7 37. Rac1 (
+37. Rxa7 Qc6+ $19 {is the point}) 37... Qc6+ 38. Kg1 Rd7 39. Qe3 Rad8 40. Qb3
+Rd2 41. h4 h5 {Especially after the time control, there is no way this can be
+held.} 42. Rf1 Qe4 43. Rfe1 Qd4 44. Qf3 Rd3 0-1
+
+[Event "European Championship"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "7"]
+[White "Esipenko, A."]
+[Black "Gelfand, B."]
+[Result "1-0"]
+[WhiteElo "2603"]
+[BlackElo "2655"]
+[Annotator "DF"]
+[PlyCount "83"]
+[EventDate "2019.03.26"]
+
+{[%evp 0,83,25,30,38,62,40,13,-11,26,16,55,47,60,44,35,29,29,64,13,19,32,34,26,
+34,7,15,3,22,12,12,13,38,27,51,34,51,-1,43,-2,56,56,47,38,58,51,98,74,74,61,94,
+126,119,81,100,92,105,108,107,115,115,69,114,67,81,0,101,548,836,894,894,894,
+894,894,916,918,946,968,968,990,982,999,999,1021,1023,857]} 1. e4 c5 2. Nf3 Nc6
+3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 ({As a side note, the old 'clever' move order
+which I used to know and love,} 5... e6 {, has become essentially unsound due
+to} 6. Nxc6 bxc6 7. e5 Nd5 8. Ne4 Qc7 9. f4 Qb6 10. c4 Bb4+ 11. Ke2 $1 f5 12.
+Nf2 ({Or} 12. exf6 Nxf6 13. Be3 $14) 12... Ba6 13. Kf3 {although, of course,
+this is not a new idea and its top level following dates back at least to
+Shirov,A-Krasenkow,M Polanica Zdroj 1998!}) 6. Ndb5 d6 7. Nd5 {Of course, it
+would be remiss of me to not mention the context of last year's world
+championship match, which featured this move several times.} Nxd5 8. exd5 Nb8 {
+This is the old move, although Magnus did choose it one time out of 3.} (8...
+Ne7 9. c4 Ng6 10. Qa4 Bd7 11. Qb4 Qb8 {Magnus' choice in the playoffs.} (11...
+Bf5 {was played in the 12th standard game, and after some messing around play
+took an independent trajectory:} 12. h4 h5 13. Qa4 Bd7 14. Qb4 Bf5 15. Be3 a6
+16. Nc3 Qc7 17. g3 Be7 18. f3 Nf8 $1 $132 {Caruana, F-Carlsen,M WC(12) London
+2018}) 12. h4 h5 13. Be3 a6 14. Nc3 a5 (14... f5 $5 15. Na4 f4 16. Bd3 Nxh4 17.
+Rxh4 fxe3 18. Nb6 $13 {is simply a mess rather than necessarily favouring one
+side or another.}) 15. Qb3 (15. Qa3 f5 16. g3 Be7 17. Be2 Kf7 18. Na4 $14)
+15... a4 16. Qd1 Be7 (16... Ne7 $5) 17. g3 Qc8 $14 {Caruana,F-Carlsen,M WC
+Playoffs 2018}) 9. a4 Be7 10. Be2 O-O 11. O-O Nd7 12. Bd2 {Seemingly, an
+improvement over what Fabiano played.} ({The problem with} 12. b4 a6 13. Na3 a5
+14. bxa5 Rxa5 15. Nc4 Ra8 {is that Black has all the ideas; the best case
+scenario for White on the queenside is to liquidate everything, whereas the
+best case scenario for Black on the kingside is to give mate.} 16. Be3 f5 17.
+a5 f4 $13 {Caruana,F-Carlsen,M WC(10) London 2018}) 12... a6 13. Na3 a5 14. c3
+{White needs to do something while Black is planning ...f5, and lining up the
+idea of Nc2-d4-e6 against ...e4(...exf4) is as good as any.} f5 15. f4 Nc5 ({
+Notwithstanding the last note, Black retained an equal game with} 15... exf4 $5
+16. Bxf4 g5 17. Be3 f4 18. Bd4 Bf6 19. Nb5 Ne5 $11) 16. Be3 {Starting to apply
+pressure to Black's queenside. If he shores up the dark squares with ...b6,
+then the other complex becomes weak and susceptible to Bb5-c6.} exf4 17. Bxc5
+dxc5 18. Rxf4 Bd6 19. Rf3 Qh4 20. Rh3 Qe7 21. Nc4 {At this stage, we can say
+that White has a real advantage.} f4 $6 {But this makes things a lot worse,
+and White's response could not have possibly come as a surprise.} 22. Bg4 Bf5
+23. Bxf5 Rxf5 24. Rd3 (24. Qe1 $1 $16) 24... f3 $2 {This simplifying
+combination is not well-advised, but it is hard to suggest anything better. In
+all likelihood White would somehow have been winning in the next few moves
+anyway.} 25. Rxf3 Bxh2+ 26. Kxh2 Qh4+ 27. Kg1 Rxf3 28. Qxf3 Qxc4 29. Rf1 h6 30.
+Qf7+ Kh8 31. Re1 $18 Qxa4 32. d6 Rd8 33. b3 Qg4 34. Re8+ Rxe8 35. Qxe8+ Kh7 36.
+d7 Qd1+ 37. Kh2 Qd6+ 38. g3 Qd2+ 39. Kh3 Qd5 40. d8=Q Qf5+ 41. Kg2 Qc2+ 42. Kf3
+1-0
+
+[Event "European Championship"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "7"]
+[White "Mamedov, R."]
+[Black "Azarov, S."]
+[Result "0-1"]
+[WhiteElo "2701"]
+[BlackElo "2585"]
+[PlyCount "152"]
+[EventDate "2019.03.26"]
+
+{[%evp 0,152,28,26,25,21,21,8,8,21,2,2,37,15,63,-10,-4,-28,2,-17,-17,-11,-9,-8,
+0,0,14,-3,15,-51,-57,-17,-20,-17,-21,-18,-18,-74,61,61,80,86,70,70,53,65,60,38,
+35,47,43,8,15,15,58,33,49,55,95,74,93,89,59,98,97,90,78,95,157,29,43,65,20,19,
+0,3,0,0,0,-92,-108,-99,-105,-105,-105,-102,-102,-116,-130,-153,-121,-117,-128,
+-124,-119,-155,-170,-165,-179,-179,-174,-206,-150,-156,-171,-178,-148,-148,
+-147,-148,-151,-155,-151,-151,-155,-153,-128,-166,-148,-164,-164,-163,-178,
+-172,-156,-161,-157,-257,-281,-306,-296,-291,-295,-307,-347,-358,-296,-277,
+-271,-288,-295,-295,-295,-287,-315,-342,-274,-274,-274,-274,-274,-270,-374,
+-381,-381]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a5 ({In view of
+Black's 12th we note the following precedent:} 5... d6 6. O-O O-O 7. Re1 a5 8.
+Bg5 h6 9. Bh4 g5 10. Bg3 ({Several versions of the obvious piece sacrifice
+force draws, but not this one:} 10. Nxg5 hxg5 11. Bxg5 Kg7 12. Qf3 Rh8 $17)
+10... Nh7 $5 (10... Ba7 11. Na3 Bg4 $11 {has been known since Giri, A-Eljanov,
+P Stavanger 2016, where Black soon made a terrible mistake.}) 11. d4 Bb6 12.
+dxe5 h5 $13 {Van Foreest,J-Ding,L Tata Steel Masters 2019}) 6. O-O d6 7. a4 O-O
+8. Bg5 h6 9. Bh4 g5 10. Bg3 Kg7 ({It is not clear whether a4 is more useful
+than Re1 in the line} 10... Nh7 $5 11. d4 Bb6 12. dxe5 h5 13. h4 Bg4 14. exd6
+gxh4 15. Bh2 h3 $13) 11. Nbd2 Ba7 {It makes sense to tuck this bishop out of
+harm's way!} ({Again, in the only precedent game Black immediately chose} 11...
+Nh7 12. Nb3 Bb6 13. d4 h5 14. h4 g4 $40 {Mammadova,G-Zhao,X Khanty-Mansiysk
+2017}) 12. Re1 Nh7 13. Nf1 {This idea is of course from the Ruy Lopez; here it
+seems a bit slow. Not for nothing does White usually go for a fast d4 in this
+line.} (13. d4 $11) 13... h5 14. h3 h4 15. Bh2 g4 16. hxg4 Bxg4 $15 17. Ne3
+Bxe3 18. fxe3 Ne7 $6 (18... Ng5 $15) 19. d4 Ng6 20. dxe5 Nxe5 21. Bxe5+ {
+Losing claim to the advantage, and now the doubled, isolated pawns will give
+Black chances to press.} ({After} 21. Be2 {Black's tactical issues mean that
+he will be left with a worse minor piece.} Qe7 (21... Bxf3 22. gxf3 Rg8 23. f4
+Nc6 24. Kh1 $14) (21... f6 $5 22. Nxh4 Be6 23. Nf5+ Bxf5 24. exf5 Rh8 $14 {
+Probably this is what Black intended, but against calm play (Bf4, Qc2, Kf2,
+Rh1 type ideas) the compensation is not enough.}) 22. Nxe5 Bxe2 23. Qxe2 dxe5
+24. Qg4+ Kh8 25. Rf1 $14) 21... dxe5 22. Qxd8 Raxd8 23. Nxe5 Bh5 24. Nf3 (24.
+Be2 Bg6 $1 $11 {is no different; at some moment the front e-pawn will fall.})
+24... h3 25. Nd4 hxg2 26. Kxg2 Rfe8 27. Rg1 c5 $6 {This allows White to
+consolidate.} (27... Nf6 $5) 28. Nf5+ Kh8 29. Bd5 Bg6 30. Rad1 (30. c4 $16)
+30... Nf6 31. Bxb7 Rb8 32. Rh1+ Kg8 33. Bc6 Re6 34. Bb5 $2 ({It was critical
+to use two fairly elementary tactics- a fork and a back-rank skewer- to
+protect the extra pawn. Where things get complicated, of course, is in the
+fact that they must be applied together.} 34. Kf3 $1 Rxc6 (34... Bxf5 35. exf5
+Rxc6 36. Rdg1+ $18) 35. Ne7+ Kf8 36. Nxc6 Bxe4+ 37. Kf4 Bxc6 (37... Bxh1 38.
+Nxb8 $18) 38. Rh8+ Ng8 39. Rg1 Rxb2 40. Rgxg8+ Ke7 41. Rc8 $16 {The position
+seems to be technically winning.}) 34... Rxe4 35. Nh4 {Now White drifts.} (35.
+Rd6 $5 $14) 35... Bh5 36. Rdf1 Rg4+ 37. Kh3 Ne4 38. Nf5 Kf8 {Maybe not the
+best way to avoid the fork.} (38... Kh7 $5 $15 {asks slightly more difficult
+questions since in addition to ...Rd8-d2 Black also has ...Rh8 ideas.}) 39.
+Rhg1 $2 {A fairly big error to finish off the time-trouble phase.} (39. Kh2 Rg5
+40. Rf4 {still sees White struggling on a practical level, but objectively
+it's level.}) 39... Ng5+ 40. Kh2 Nf3+ 41. Rxf3 Rxg1 {The game ended with good
+technique from Black.} 42. Rh3 Rg5 43. Ng3 Bf3 44. Kg1 Ke7 45. Kf2 Bg4 46. Rh4
+Rbg8 47. Bc6 R8g6 48. Bb5 Rf6+ 49. Ke1 Bf3 50. Nf1 Rg2 51. Nd2 Bg4 52. Bf1 Rg3
+53. Be2 Rg1+ 54. Bf1 Rg3 55. Be2 Rg1+ 56. Bf1 Bc8 57. Re4+ Kd8 58. Rh4 Ba6 59.
+c4 Bc8 60. Rh5 Be6 61. b3 Ke7 62. Re5 Rf5 63. Re4 Rh1 64. Rf4 Rxf4 65. exf4 Bh3
+66. Ke2 Rh2+ 67. Ke3 Rxd2 68. Bxh3 Rb2 69. Ke4 Rxb3 70. Bc8 Rb8 71. Ba6 Ke6 72.
+Bb5 f5+ 73. Kf3 Rd8 74. Ke2 Kf6 75. Ke3 Kg6 76. Bc6 Kh5 0-1
+
+[Event "European Championship"]
+[Site "?"]
+[Date "2019.03.26"]
+[Round "7"]
+[White "Piorun, K."]
+[Black "Rodshtein, M."]
+[Result "1/2-1/2"]
+[WhiteElo "2631"]
+[BlackElo "2673"]
+[Annotator "DF"]
+[PlyCount "43"]
+[EventDate "2019.03.26"]
+
+{[%evp 0,43,16,28,79,69,76,25,36,36,67,57,36,59,65,34,38,38,33,33,22,4,24,8,35,
+29,42,35,56,10,5,-15,24,23,21,24,-2,16,45,132,110,122,122,130,122,124]} 1. e4
+c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 ({It is not all that
+well-known that people play h4 first in order that Black cannot simply give up
+the bishop pair and recapture with the h-pawn.} 6. Nf3 Nf6 7. h4 Nh5 $1 $11)
+6... h6 7. Nf3 e6 8. Ne5 Bh7 9. Bd3 Bxd3 10. Qxd3 Nd7 11. Bf4 (11. f4 $5 {
+is a more adventurous move}) 11... Nxe5 12. Bxe5 Qa5+ 13. c3 Nf6 14. O-O (14.
+Ne4 Nxe4 15. Qxe4 Qd5 16. f3 {White actually has something to play for in this
+ending, surprisingly.}) 14... Ng4 15. Rad1 $5 Qd8 $6 (15... Qxa2 $6 16. Qf3
+Nxe5 17. dxe5 Be7 18. Qg4 g6 19. Ne4 $14 {It might seem as if White has no
+threats or that Black can just castle away at a moment of his choosing, but
+this is not true; in fact White is better.}) (15... Nxe5 16. dxe5 Rd8 $11 {
+is called for, simplifying the position without further ado.}) 16. Ne4 $5 Qxh4
+({Note that now after} 16... Nxe5 17. dxe5 Qxd3 18. Rxd3 Rd8 19. Rfd1 $1 $14 {
+it is crucially not so easy for the h8-rook to play a part, and that's why
+White is better.}) 17. Bg3 (17. c4 {with the idea of Qb3, or Bg3 followed by
+d5, seems to give White an advantage.} O-O-O $6 18. Bg3 Qh5 19. d5 $1 exd5 20.
+Qd4 $1 b6 21. cxd5 Rxd5 22. Qa4 Kb7 23. Rxd5 Qxd5 24. Rd1 Qe6 25. Rd8 $18)
+17... Qh5 $6 (17... Qd8 18. c4 $14) 18. d5 Qxd5 19. Qe2 Qf5 20. Qd3 (20. Qd2 $1
+{Considering how well-established this kind of idea is (for instance, see the
+5.dxe5 Berlin) it is surprising that White didn't find it. The move wins a
+pawn by force. The main explanation I can think of is that he didn't see
+anything concrete after ...e5.} e5 (20... Qd5 21. Qf4 $1 {is the main point.}
+Qf5 (21... Qa5 22. Qxg4 $18) 22. Qc7 $18) (20... Be7 21. Qd7+ {Clearly, White
+wanted to give this check, so if he'd seen a way to do so it would have been
+done.} Kf8 22. Qxb7 Re8 23. Qxc6 $16) 21. Rfe1 $1 {The quiet move is lethal.
+Black needs to, at some point, protect his e5-pawn with ...f6, but this will
+cause his knight to be trapped on g4. And there isn't time either for} h5 {
+, not least because of} 22. Bxe5 Nxe5 23. Ng3 $1 {with mate on d7.}) 20... Qd5
+21. Qe2 Qf5 22. Qd3 1/2-1/2
+

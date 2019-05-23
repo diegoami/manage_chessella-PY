@@ -1,0 +1,67 @@
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.19"]
+[Round "7"]
+[White "Radjabov, Teimour"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "1-0"]
+[ECO "D38"]
+[WhiteElo "2757"]
+[BlackElo "2695"]
+[Annotator "AlexYermo"]
+[PlyCount "71"]
+[EventDate "2019.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Qa4+ {In search of a new weapon
+against the Ragozin defence, White revisits the 1930's theory.} ({Both} 5. Bg5)
+({and} 5. cxd5 exd5 6. Bg5 {are topical.}) 5... Nc6 {It's all about the
+placement of the black knight ahead of its c-pawn, which according to the
+classical principles of the Queens Gambit puts Black in disadvantage.
+Vyacheslav Ragozin made an important contribution by arguing the point.} 6. e3
+O-O 7. Qc2 {[#] Sooner or later White has to return the queen to her proper
+spot, so it can be done right away.} (7. Bd2 {is best answered by the immediate
+} dxc4 $1 8. Bxc4 Bd6 {getting ready for e6-e5, which is the main idea in the
+Ragozin.} 9. O-O e5 10. h3 a6 11. Qc2 exd4 12. exd4 b5 $1 13. Be2 Nb4 14. Qd1
+Bb7 {Yermolinsky-D.Zilberstein, San Francisco 2007}) 7... Re8 {Vidit settles
+on one of the most popular choices.} ({Others include} 7... dxc4 {which may
+eventually transpose to the game,}) (7... Ne7 {which I view as admission of
+guilt, as Black is trying to reposition the "badly placed" knight,}) ({and,
+finally my personal favorite} 7... b6) 8. Bd2 Bd6 {Black's idea is to wait for
+the white light-squared bishop to come out before taking on c4. I wonder if
+it's worth the trouble.} 9. h3 ({The point of Black's early rook move is
+visible after} 9. c5 Bf8 {where the threat of e6-e5 forces White into} 10. Bb5
+Bd7 11. Bxc6 Bxc6 12. Ne5 {which, incidentally, might not be so bad for him.})
+9... a6 10. a3 Bd7 11. Be2 dxc4 12. Bxc4 h6 {[#] So, Black has won a local
+battle for a tempo (Bf1-e2xc4), but what are his accomplishments? The Bd7 move
+might have made sense when the white queen was on a4, but now it looks like a
+waste of time. In the meantime, thanks to the Re8 move Black must guard the
+g5-square before moving the e-pawn forward.} 13. g4 $3 {No matter what your
+engines say I absolutely admire Radjabov's concept. If Black can be punished
+for his opening transgressions it must be done in a resolute fashion.} (13. O-O
+e5 14. Rae1 Qe7 15. Nh4 {Aronian-Giri, 2017}) 13... e5 {A classic strategy of
+meeting a flank attack with counterstrike in the centre, but it's wrought with
+dangers of opening the diagonal for the white bishop.} (13... b5 14. Ba2 b4 {
+deserved attention.}) 14. g5 b5 ({Here and on the next move Vidit should have
+tried a a piece sacrifice:} 14... Nxd4 15. exd4 exd4+ 16. Ne2 b5 17. Bd3 hxg5
+18. Nxg5 c5) 15. Ba2 exd4 {This will meet with a devastating response. [#]} ({
+Still,} 15... Nxd4 16. exd4 exd4+ 17. Ne2 Qe7 18. Nfxd4 hxg5 {was there for
+the taking.}) 16. gxh6 $3 {Guess who's coming to dinner - White threatens Qg6!}
+dxc3 ({The only way to deal with it was} 16... Bf4 17. O-O-O Bxh6 (17... dxc3
+18. exf4 cxd2+ 19. Rxd2 Qe7 20. Qg6 {is White's signature attacking line.}) 18.
+exd4 Bxd2+ 19. Qxd2 {and now counterattack -} b4 $1) 17. Bxc3 Be6 ({Now} 17...
+Bf4 18. Qg6 Bxh6 {still saves the king, but at the cost of a piece.} 19. Rd1 $1
+({Not} 19. O-O-O Qe7 20. Bxf6 {as} Qc5+ 21. Bc3 Be6 {turns the tables.}) 19...
+Qe7 20. Bxf6 Qxf6 21. Qxf6 gxf6 22. Rxd7 {with large advantage to White.}) 18.
+Bxe6 ({Aesthetically White doesn't want to put his rook on a2, but} 18. Rg1
+Bxa2 19. Rxg7+ Kf8 20. Rxa2 Be5 21. Ng5 {actually works for him.}) 18... Rxe6
+19. Rg1 {[#]} Ne8 {Clearing out that square was one of the ideas of 17...Be6,
+but just focusing on the defense isn't going to cut it.} ({Black needed to
+introduce an element of counterplay:} 19... Nh5 20. Bxg7 Bg3 $3 {albeit White
+has a choice of good responses to it, the most efficient being} 21. Rd1 Qe7 22.
+Ke2 Re8 23. Bc3 Rxe3+ 24. Kf1) 20. Bxg7 Nxg7 21. Rxg7+ Kf8 22. Qh7 {From this
+point on White's attack is irresistable.} Qf6 23. Ng5 Rxe3+ 24. Kf1 Nd8 25.
+Qg8+ Ke7 26. h7 Bg3 {[#]} 27. Ne4 $1 {Still, Teimour had to see this one and
+keep his nerve in the face of time trouble.} Rxe4 (27... Qf3) 28. Rxg3 Rh4 29.
+Rd1 {A final stroke in this truly brilliant game. Black is forced to part with
+a rook.} Rxh7 30. Re3+ Ne6 31. Qxa8 Rh8 32. Qc6 Kf8 33. Rxe6 Qxe6 34. Rd8+ Kg7
+35. Qc3+ f6 36. Qxc7+ 1-0

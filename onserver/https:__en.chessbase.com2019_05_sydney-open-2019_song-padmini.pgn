@@ -1,0 +1,78 @@
+[Event "Sydney International Open"]
+[Site "?"]
+[Date "2019.04.26"]
+[Round "4"]
+[White "Song, Raymond"]
+[Black "Padmini, Rout"]
+[Result "1-0"]
+[ECO "E05"]
+[WhiteElo "2329"]
+[BlackElo "2364"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "89"]
+[EventDate "2019.04.29"]
+
+{[%evp 0,89,28,27,29,-14,3,-14,-17,-9,10,19,19,2,-2,0,-9,-2,-26,-17,15,16,11,
+-20,-13,-15,7,-35,-22,-24,12,16,72,78,44,59,44,44,41,21,14,22,55,11,-3,-5,-25,
+-19,5,26,-12,8,21,21,44,44,44,21,22,67,71,46,61,68,71,88,87,103,106,106,47,48,
+120,112,120,126,133,132,124,100,108,104,130,142,204,216,242,235,261,265,305,
+320]} 1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 {
+Raymond Song's opening versatility in this tournament was commendable.} 8. a4 (
+{Obviously the main move is still} 8. Qxc4 b5 9. Qc2 Bb7 {and now one of three
+moves with the c1-bishop}) 8... Bd7 9. Qxc4 (9. Ne5 Nc6 $1 (9... Bc6 10. Nxc6
+Nxc6 11. e3 Na5 12. Nd2 {and White regains the pawn while keeping the
+bishop-pair. It is important to note the wrinkle} c5 13. dxc5 Rc8 14. b4 $1 $14
+) 10. Qxc4 Nd5 $1 (10... Nxe5 11. dxe5 Nd5 12. Nc3 $14) 11. Nxd7 Na5 $1 12. Qd3
+Nb4 13. Qc3 Qxd7 14. Nd2 Rfd8 $11 {Black has enough compensation for the
+bishop-pair, when we consider the short-term factors.}) 9... Bc6 10. Bf4 Bd6
+11. Qc1 $1 ({A recent elite game went:} 11. Bg5 Nbd7 12. Nc3 h6 13. Bc1 {
+Even the official commentary stream was powerless to explain this move, which
+seems to rely on considerations that are so long-term as to be practically
+non-existent.} (13. Bxf6 Nxf6 14. Rfd1 {really does seem like a better try for
+an advantage, even if it should also not work.} Qe7 15. Nd2 (15. Ne5 Bxg2 16.
+Kxg2 c5 $11 {Kuzubov,Y-Bologan,V Plovdiv 2012}) 15... Bxg2 16. Kxg2 Bb4 $1 $11)
+13... a5 14. b3 Qe7 15. Bb2 Rfd8 16. Rac1 $6 {On one level there is nothing so
+wrong with this, and on another it signs away most of White's winning chances.
+As Mamedyarov commented in his press conference, ... Bxf3 is often a terrible
+idea when White has both bishops, but after one pair has been traded off,
+Black can worry less and can perhaps even think about winning the battle of
+minor pieces.} (16. e3 {was a little more ambitious- it is still not
+completely clear to me how Black intends to deploy his pieces. White's queen
+can retreat to e2 and he can consider playing for e4, or even Bh3 and Nd2-c4.}
+Nd5 {can for instance be met.} 17. Nxd5 Bxd5 18. Qc2 f5 19. Nd2 $32) 16... Ba3
+$1 17. Bxa3 Qxa3 18. Nb5 Qe7 $1 19. Qc2 (19. Nxc7 $4 Nb6 $19 {is a rather
+useful detail}) 19... Bxf3 20. Bxf3 c6 $11 {Black was very much fine in Ding,
+L-Mamedyarov,S Shamkir Chess 2018}) 11... Nbd7 12. Nc3 Qe7 13. Bg5 $5 {An
+interesting and very logical move, threatening e4-e5, which I hadn't
+previously considered.} (13. Re1 Bxf3 14. Bxf3 Bxf4 15. Qxf4 c6 16. a5 e5 $1
+$11 17. dxe5 Nxe5 18. Bg2 Rad8 19. b4 (19. Red1 $11) 19... Rd7 20. Bh3 Rd6 $36
+{Inarkiev,E-Leko,P Riadh 2017}) (13. a5 $5) 13... h6 14. Bh4 {Consistent.} (14.
+Bxf6 Nxf6 15. Rd1 a5 16. Nh4 Bxg2 17. Kxg2 c5 18. Nf3 {was agreed drawn in the
+rather less inspiring Hillarp Persson,T-Sjodahl,P Norrkoeping 2016}) 14... Bxf3
+$6 (14... Qe8 $1 {Since I really don't like the text, there's only really one
+other way to stop White from playing e4-e5. The hope here is that the
+awkwardness of White's bishop being on h4 will counterbalance that of Black's
+queen being on e8.}) (14... g5 $4 {simply doesn't work immediately:} 15. Nxg5
+Bxg2 16. Kxg2 hxg5 17. Qxg5+ Kh7 18. Ne4 {and Black loses at least his
+f6-knight.}) 15. Bxf3 g5 $6 ({The lesser evil, as in the examples above where
+Black also took on f3, was} 15... c6 $5 16. Ne4 (16. e4 e5) 16... a5 {This is
+a position I don't really know how to assess, except that Black isn't better.
+Probably White, after messing around to some extent, will find there is no
+better alternative than swapping both pairs of minor pieces and then playing
+for b4 somewhere deep in an ending, and Black should hold.}) 16. Bxg5 hxg5 17.
+Qxg5+ Kh8 18. Bxb7 Ra7 ({For me,} 18... Rab8 19. Bxa6 Rxb2 {is a lot more
+natural, but Black is still worse.}) 19. Bg2 Nh7 20. Qd2 $14 {White's plan of
+f4 and e4-e5 is extremely simple and hard to combat, though maybe White would
+have been better served with the bishop on c6 than on g2.} f5 $6 ({Maybe
+Black's best shot at counterplay was to try and establish a pawn presence in
+the centre immediately with} 20... c5 {and if} 21. d5 {then perhaps} Rb8 {
+or ...Ndf6 with the idea of ...e5.}) 21. e4 f4 22. e5 Bb4 23. Rfe1 f3 ({
+I remember being a bit surprised Black didn't immediately go} 23... c5 {
+, and the computer bears out this assessment.}) 24. Bf1 Nb6 25. Re4 c5 26. Rh4
+cxd4 ({The position was definitely closer to being recoverable if Black traded
+the other rook:} 26... Rd7 27. Rd1 Rxd4 28. Rxd4 cxd4 29. Qxd4 Bc5 $14) 27.
+Qxd4 Bc5 28. Qe4 {Now White obtains a 4th pawn for the piece by force and the
+game is practically over.} Rd7 29. Rd1 Rxd1 30. Nxd1 a5 31. Bd3 Rf7 32. Nc3 Rg7
+33. Kf1 Nd7 34. Qa8+ Qf8 35. Qxa5 Nxe5 36. Bxh7 Rxh7 37. Qc7 Nf7 38. Rxh7+ Kxh7
+39. Qb7 Kg7 40. Qxf3 Qd6 41. Ne4 Qd4 42. Nxc5 Qxc5 43. Qc3+ Qxc3 44. bxc3 Ne5
+45. a5 1-0

@@ -1,0 +1,50 @@
+[Event "105th ch-GBR 2018"]
+[Site "Hull ENG"]
+[Date "2018.07.29"]
+[Round "2.8"]
+[White "Adair, J."]
+[Black "Fitzsimons, D."]
+[Result "*"]
+[ECO "C11"]
+[WhiteElo "2492"]
+[BlackElo "2328"]
+[Annotator "Karsten Müller"]
+[SetUp "1"]
+[FEN "5k2/6p1/6P1/7P/4r3/6P1/4p2K/4R3 w - - 0 53"]
+[PlyCount "20"]
+[EventDate "2018.07.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "995"]
+[Source "Mark Crowther"]
+[SourceDate "2018.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.07.30"]
+[SourceQuality "2"]
+
+53. Kg2 {Some endgames contain surprising possibilities to save seemingly lost
+positions. And sometimes these possibilities are not difficult to find -
+because sometimes there are hardly any alternatives left.} {[%tqu "En","Black
+to play and draw","","","f8e7","Schwarz verpasst den Moment.",0,"e4e5","",6,
+"e4e3","",0,"De","Schwarz zieht und hält remis","","","f8e7","Schwarz
+verpasst den Moment.",0,"e4e5","",6,"e4e3","",0]} Re5 $1 (53... Ke7 $2 {
+was played in the game in which Black missed his chance.} 54. Kf3 Ra4 (54...
+Rd4 55. Rxe2+ Kf8 56. g4 Ra4 57. Re4 Ra1 58. Rf4+ Kg8 59. Rc4 Kf8 60. Kf4 Ke7
+61. Rc7+ Kf8 62. Rc8+ Ke7 63. h6 $18) ({Now} 54... Re5 {comes too late:} 55.
+Rxe2 Rxe2 56. Kxe2 Kf6 57. Kf3 Kg5 58. g4 Kh6 59. Ke4 Kg5 60. Ke5 Kh6 61. Ke6
+Kg5 62. Kf7 Kh6 63. Kg8 $18) 55. Rxe2+ Kf6 56. Re4 Ra5 (56... Rxe4 57. Kxe4 Kg5
+58. g4 Kxg4 59. h6 $18) 57. Kg4 Ra7 58. Rf4+ Ke6 59. h6 {1-0} (59. h6 gxh6 60.
+Kh5 Ra3 61. Kxh6 Rxg3 62. g7 Rh3+ 63. Kg6 Rg3+ 64. Kh7 Rh3+ 65. Kg8 Ke7 {
+The so-called "Lucena position" in which White wins by "building a bridge":}
+66. Re4+ Kd7 67. Kf7 Rf3+ 68. Kg6 Rg3+ 69. Kf6 Rf3+ 70. Kg5 Rg3+ 71. Rg4 $18 {
+and the bridge with Kg5 and Rg4 as pillars stands.})) (53... Re3 $2 54. Kf2 Re5
+55. g4 $18) 54. g4 Ke7 55. Kf3 Kf6 56. Rxe2 Ra5 {White has no way to break
+through.} 57. Kf4 (57. Re4 Kg5 58. Ke3 Kh6 59. Kf4 Rg5 60. Re8 Rxg4+ 61. Kxg4 {
+stalemate}) 57... Rxh5 $1 {The saving stalemate idea!} (57... Ra4+ $2 58. Re4
+Ra5 59. g5+ Rxg5 60. Re6+ Kxe6 61. Kxg5 Ke7 62. h6 $18) (57... Rf5+ $2 58. Kg3
+Ra5 59. Rf2+ Kg5 60. Rf5+ Kh6 61. g5+ Kxh5 62. Rxa5 $18) 58. Re6+ (58. gxh5 {
+stalemate}) 58... Kxe6 59. gxh5 Ke7 $1 (59... Kf6 $2 60. Kg4 Ke7 61. h6 gxh6 (
+61... Kf8 62. h7 $18) 62. Kh5 Kf8 63. Kxh6 Kg8 64. g7 Kf7 65. Kh7 $18) 60. Kg5
+Kf8 61. h6 Kg8 62. h7+ Kh8 $11 *
+

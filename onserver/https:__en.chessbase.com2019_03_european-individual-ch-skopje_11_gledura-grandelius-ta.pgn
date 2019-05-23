@@ -1,0 +1,32 @@
+[Event "EICC 2019"]
+[Site "Skopia"]
+[Date "2019.03.29"]
+[Round "11.2"]
+[White "Gledura, Benjamin"]
+[Black "Grandelius, Nils"]
+[Result "0-1"]
+[ECO "A37"]
+[WhiteElo "2630"]
+[BlackElo "2694"]
+[Annotator "Tactical Analysis 2.10 (6s)"]
+[PlyCount "60"]
+[EventDate "2019.??.??"]
+
+{[%evp 26,60,15,-26,12,-27,-20,-25,-15,-48,-30,-56,-38,-52,-25,-56,-46,-95,-86,
+-95,-83,-158,-154,-148,-143,-165,-155,-168,-159,-284,-271,-273,-273,-277,-269,
+-29994,-543]} 1. Nf3 c5 2. c4 Nc6 3. Nc3 e5 4. g3 g6 5. Bg2 Bg7 6. O-O d6 7. a3
+Nge7 8. d3 O-O 9. Rb1 a5 10. Ne1 Be6 11. Nc2 d5 12. cxd5 Nxd5 13. Ne3 Nde7 14.
+Nc4 (14. Bd2 $142) 14... Rb8 $11 {A37: Symmetrical English vs ...g6: 4 Bg2 Bg7
+5 Nf3} (14... h6 15. Be3 b6 16. Qa4 Bd7 17. Qd1 Rb8 18. f4 Nf5 19. Bd2 b5 20.
+Nxe5 Nxe5 21. fxe5 Bxe5 22. Kh1 {1/2-1/2 (58) Radjabov,T (2713)-Grischuk,A 
+(2783) Beijing 2013}) 15. Bg5 f6 16. Be3 b6 {Black has an edge.} 17. Qa4 Nd4 {
+White must now prevent ...b5.} 18. Bxd4 exd4 19. Nb5 Nd5 20. b4 $146 ({
+Predecessor:} 20. Nbd6 b5 21. Nxb5 Qd7 22. Ncd6 {1/2-1/2 (40) Valsecchi,A 
+(2418)-Spence,D (2218) Caleta 2014}) 20... axb4 {Hoping for ...Qd7.} 21. axb4 (
+21. Bxd5 $1 $15 {is more appropriate.} Qxd5 22. Nc7) 21... Nxb4 $17 22. Rxb4
+cxb4 23. Ncd6 ({Better is} 23. Qxb4 f5 24. Rb1) 23... Qe7 24. Rc1 {intending
+Rc7.} Rfd8 25. Qxb4 Bf8 {[%cal Rd8d6]} 26. Qxd4 Rxd6 27. Qxd6 (27. Nxd6 $17
+Qxd6 28. Qxf6) 27... Qxd6 $19 28. Nxd6 Bxd6 29. Rc6 {[#]} Rc8 $1 ({Resist} 
+29... Rd8 30. Rxb6 Kf7 31. d4 $19) 30. Rxd6 $2 (30. e3 $19) 30... Rc1+ {
+Accuracy: White = 30%, Black = 100%.} 0-1
+

@@ -1,0 +1,45 @@
+[Event "IOM Masters 2018"]
+[Site "Douglas"]
+[Date "2018.10.25"]
+[Round "6"]
+[White "Parligras, Mircea-Emilian"]
+[Black "Karjakin, Sergey"]
+[Result "*"]
+[ECO "E37"]
+[WhiteElo "2623"]
+[BlackElo "2760"]
+[Annotator "Karsten Müller"]
+[SetUp "1"]
+[FEN "8/8/k7/6RK/7p/7P/7r/8 w - - 0 79"]
+[PlyCount "20"]
+[EventDate "2018.??.??"]
+[SourceTitle "1011"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+79. Kxh4 {The crucial d-file Rook endings often have drawish tendencies. But
+some rook endings that are theoretically drawn are sometimes still very
+difficult to defend.} {[%tqu "En","Black to play and draw","","","a6b6","",10,
+"h2d2","",0]} Rd2 $1 {Black has to occupy the d-file.} ({In the game Black
+played} 79... Kb6 $2 {which allowed White to cut off the black king on the
+d-file.} 80. Rd5 $1 Kc6 81. Rd3 $2 {White returns the compliment and spoils
+the game.} ({The winning move is} 81. Rd4 $1 {which allows White to advance
+his pawn to the fourth rank, e.g.} Rg2 (81... Ra2 82. Kg5 Ra5+ 83. Kf6 Ra6 (
+83... Kc5 84. Rd1 Ra6+ 85. Kg5 $18) 84. h4 Kc5+ 85. Ke5 Rh6 86. Re4 Kc6 87. Kf5
+Rh8 88. Kf6 $1 Kd5 89. Ra4 Rf8+ 90. Kg7 Rf1 91. Ra6 $1 Rg1+ 92. Rg6 Rh1 93.
+Rg5+ Ke4 94. h5 Ra1 95. h6 Kf4 96. Rd5 Ra7+ 97. Kg6 Ra6+ 98. Kh5 Ra7 99. Rd8
+Ra5+ 100. Kg6 Rg5+ 101. Kf6 Rf5+ 102. Kg7 Rg5+ 103. Kh8 $18) (81... Kc5 82. Rd8
+Rg2 83. Kh5 Kc6 84. h4 Kc7 85. Rd4 Kc6 86. Kh6 $18) 82. Kh5 Kc5 (82... Rg8 83.
+h4 Kc5 84. Rd1 Rh8+ 85. Kg5 Rg8+ 86. Kf6 Rh8 87. Rh1 $18) 83. Rd8 Rg7 84. h4
+Rh7+ 85. Kg5 Rg7+ 86. Kh6 Rg3 87. h5 Kc6 88. Kh7 Kc7 89. Rg8 Rf3 90. h6 Kd7 91.
+Kg7 Rg3+ 92. Kh8 Rf3 93. h7 Ke6 94. Kg7 Rg3+ 95. Kf8 Rf3+ 96. Ke8 Ra3 97. Rg6+
+Kf5 98. Rf6+ Kxf6 99. h8=Q+ Ke6 $18) 81... Ra2 82. Kg5 Ra5+ 83. Kg4 Ra4+ 84.
+Kg5 Ra5+ 85. Kg6 Ra4 $1 86. Kf6 Kc7 87. Kg5 Ra5+ $1 (87... Ra8 $2 88. h4 Rd8 $6
+89. Rxd8 Kxd8 90. Kf6 Ke8 91. Kg7 $18) 88. Kg4 Ra4+ 89. Kg3 Ra8 90. h4 Rd8 91.
+Rxd8 {and the players agreed to a draw.}) (79... Rc2 $2 80. Kh5 Kb6 81. h4 Kc6
+82. Kg6 Kd7 83. h5 Ke7 84. h6 Rc6+ 85. Kg7 $18) 80. Kh5 (80. Rf5 Kb6 81. Kh5
+Kc6 82. h4 Rg2 83. Rg5 Rh2 $11) (80. Rc5 Kb6 81. Rc3 Rd8 $1 82. Kg5 Rg8+ 83.
+Kf6 Rh8 84. Kg7 Rh4 $11) (80. Re5 Kb6 81. Kg5 Kc6 82. h4 Kd6 83. Re8 Kd7 84.
+Ra8 Ke7 $11) 80... Kb6 81. h4 Kc6 82. Kg6 Rd6+ 83. Kh7 Rd7+ 84. Kh6 (84. Rg7
+Rd5 $11) 84... Kd6 85. Rg6+ Ke5 86. Kg5 Rd1 87. h5 Rg1+ 88. Kh6 Rh1 $11 *
+

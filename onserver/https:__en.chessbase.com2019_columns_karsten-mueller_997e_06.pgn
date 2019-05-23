@@ -1,0 +1,49 @@
+[Event "ESP-chT Div Honor 2018"]
+[Site "Linares"]
+[Date "2018.08.09"]
+[Round "4"]
+[White "Volkov, Sergey"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[WhiteElo "2557"]
+[BlackElo "2715"]
+[Annotator "Karsten Müller"]
+[SetUp "1"]
+[FEN "8/8/8/8/5kpp/7P/r5P1/5N1K w - - 0 117"]
+[PlyCount "33"]
+[EventDate "2018.??.??"]
+[SourceTitle "997"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+117. hxg4 {Fortresses are sometimes very solid and difficult to break.} {
+[%tqu "En","Black to move and win","","","h4h3","",4,"f4g4","",0,"a2a1","",0,
+"De","Schwarz zieht und gewinnt","","","h4h3","",4,"f4g4","",0,"a2a1","",0]} h3
+$1 {Black sacrifices his last pawn to get an entry point for his king.} ({
+After the greedy} 117... Kxg4 $2 {White's fortress is solid, e.g.} 118. Kg1 h3
+(118... Kf4 119. Nh2 Ke3 120. Ng4+ Ke2 121. Kh2 Kf1 122. Kh3 $11) 119. gxh3+ (
+119. Nh2+ $11) 119... Kf3 120. Nh2+ Kg3 121. Nf1+ Kxh3 122. Ne3 $11) (117...
+Ra1 118. Kg1 h3 119. gxh3 Kf3 $19 {also wins.}) 118. gxh3 Kf3 119. g5 (119.
+Nh2+ Kf2 $19) 119... Kf2 120. Kh2 (120. Nh2 Ra1+ 121. Nf1 Rxf1+ 122. Kh2 Rg1
+123. h4 Rg4 124. Kh3 Kf3 $19) 120... Kf3+ $1 (120... Kxf1+ $2 121. Kg3 $11)
+121. Kh1 (121. Kg1 $5 {came also into consideration but does not save White:}
+Rg2+ 122. Kh1 Rxg5 123. Nh2+ (123. Nd2+ Ke3 124. Nc4+ Kf2 125. Kh2 Rg2+ 126.
+Kh1 Kf3 127. Nd6 Rd2 128. Nf5 Rd5 129. Ne7 Rg5 130. h4 Rg2 131. Nf5 Kf2 132.
+Ne3 Rg8 133. Nd1+ Kf3 134. Kh2 Rg2+ 135. Kh3 Rg1 $19) 123... Kg3 124. h4 Ra5
+125. Kg1 Ra1+ 126. Nf1+ Kf3 127. h5 Ke2 128. Kg2 Rxf1 129. Kg3 Ke3 130. Kg4 Ke4
+131. Kg5 Ke5 132. Kg6 Ke6 133. h6 Rg1+ $19) 121... Ra1 122. Kg1 Ke2 123. Kg2
+Rxf1 124. h4 (124. g6 Rf6 125. Kg3 Ke3 126. Kg4 Rxg6+ 127. Kf5 Rh6 128. Kg4 Ke4
+129. h4 Rg6+ $19) 124... Ra1 $2 {Going the wrong way.} (124... Rf4 {allows the
+black to rush back to stop the pawns.} 125. Kg3 (125. h5 Rg4+ 126. Kh3 Kf3 127.
+g6 Rg5 128. Kh4 Kf4 129. h6 Rg1 $19) 125... Ke3 126. g6 (126. h5 Rf1 127. h6
+Rg1+ 128. Kh4 Kf4 129. Kh5 Kf5 130. Kh4 Kg6 $19) 126... Rf1 127. Kg4 Ke4 128.
+Kg5 Ke5 129. h5 Rg1+ 130. Kh6 Kf6 131. g7 Kf7 $19) (124... Rf2+ {and}) (124...
+Rf8 {also win.}) 125. g6 Ra6 (125... Ke3 126. g7 Ra8 127. h5 Kf4 128. h6 Ra2+
+$1 129. Kf1 (129. Kh3 Ra3+ 130. Kh4 Ra1 131. Kh5 Kf5 132. Kh4 Kf4 $11) 129...
+Kf3 130. Ke1 Ke3 131. Kd1 Kd3 132. Kc1 Kc3 133. Kb1 Rb2+ 134. Ka1 Rb8 135. h7
+Ra8+ 136. Kb1 Rb8+ 137. Kc1 Ra8 138. Kd1 Kd3 139. Ke1 Ke3 140. Kf1 Kf3 141. Kg1
+Ra1+ 142. Kh2 Ra2+ 143. Kh3 Ra1 144. Kh4 Kf4 145. Kh5 Kf5 146. Kh4 Kf4 $11)
+126. h5 Ra5 127. Kg3 Rxh5 128. Kf4 Ra5 129. g7 Ra8 130. Kf5 Kf3 131. Kf6 Rg8
+132. Kf7 Rxg7+ 133. Kxg7 1/2-1/2
+

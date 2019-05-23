@@ -1,0 +1,41 @@
+[Event "IOM Masters 2018"]
+[Site "Douglas"]
+[Date "2018.10.23"]
+[Round "4.49"]
+[White "Williams, Simon K"]
+[Black "Pranav, Anand"]
+[Result "1/2-1/2"]
+[ECO "D32"]
+[WhiteElo "2457"]
+[BlackElo "2269"]
+[Annotator "Karsten Müller"]
+[SetUp "1"]
+[FEN "4k3/1p5p/4P3/P1B3PP/5K2/5p2/2b5/8 b - - 0 68"]
+[PlyCount "44"]
+[EventDate "2018.??.??"]
+[SourceTitle "1008"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+68... Bd1 {Endgames with opposite-coloured bishops are often drawn even if one
+side is one or two pawns up. But, of course, the better side will also often
+win - with precise play.} {[%tqu "En","White to play and win","","","g5g6","",
+3,"h5h6","",0,"f4e5","",0,"c5f2","",2,"De","Weiß zieht und gewinnt","","",
+"g5g6","",3,"h5h6","",0,"f4e5","",0,"c5f2","",2]} 69. g6 $1 {The winning
+breakthrough.} (69. h6 $2 Bc2 70. Kxf3 Bf5 {is not enough:} 71. Kf4 Bg6 (71...
+Bxe6 $2 72. g6 Bg8 73. Kg5 hxg6 74. Kf6 $1 {White keeps Black's g-pawn alive
+to keep his own h-pawn very much alive:} g5 75. Kg7 $18) 72. Ke5 Bh5 73. Kd6
+Kd8 74. Bb6+ Kc8 75. Ke7 Bg6 76. Kf8 Bh5 $11) (69. Ke5 $2 f2 70. Bxf2 Bxh5 $11)
+({However, after} 69. Bf2 $18 {White is still winning.}) 69... hxg6 70. hxg6 $2
+{White underestimates the power of the h-pawn.} ({Harry, as the h-pawn is
+sometimes called, had to get going:} 70. h6 $1 {e.g.} g5+ (70... Bc2 71. Kg5 f2
+72. h7 f1=Q 73. h8=Q+ Qf8 74. Qxf8#) 71. Kxg5 Bc2 72. Kf4 f2 73. Bxf2 Ke7 74.
+Ke5 Bg6 75. Bc5+ Ke8 76. Kf6 Bd3 77. Kg7 $18) 70... Bb3 71. Ke5 Bc2 72. Kf6 Bd3
+73. Kg7 Bc4 (73... f2 74. Bxf2 Ke7 $11 {is also possible.}) 74. e7 f2 75. Bxf2
+Kxe7 76. Kh8 Kd7 77. g7 Kc7 78. Bg3+ Kc6 79. Bf2 Kc7 80. g8=Q Bxg8 81. Kxg8 Kb8
+{The black king goes to the corner to create a fortress.} (81... Kc6 82. Kf7
+Kb5 $2 83. Bb6 Kc6 84. Ke6 $18) 82. Kf7 Ka8 83. Ke6 Kb8 84. Kd6 Ka8 (84... Kc8
+85. Kc5 Kb8 $1 $11 (85... Kc7 $2 86. Bg3+ $18)) 85. Bc5 Kb8 86. Kd7 Ka8 87. Bd6
+Ka7 88. Bc7 Ka8 $1 (88... Ka6 $2 89. Bb6 Kb5 90. Kc7 Ka6 91. Kb8 $18) 89. Kc8
+b6 90. axb6 ({After} 90. a6 Ka7 $11 {White's outside pawn would fall.}) 1/2-1/2
+

@@ -1,0 +1,55 @@
+[Event "(GER-ch) International04"]
+[Site "Bad Lauterberg"]
+[Date "1977.03.18"]
+[Round "12"]
+[White "Karpov, Anatoly"]
+[Black "Csom, Istvan"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2690"]
+[BlackElo "2535"]
+[Annotator "Reeh,Oliver"]
+[PlyCount "103"]
+[EventDate "1977.03.06"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[EventCategory "12"]
+[SourceTitle "EXT 2002"]
+[Source "ChessBase"]
+[SourceDate "2001.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2001.11.25"]
+[SourceQuality "1"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O d6 7. b3 Be7 8. d4
+cxd4 9. Qxd4 a6 10. Ba3 O-O 11. Rfd1 Ne8 12. Bb2 Nd7 13. e4 Nc5 14. Qe3 Qb8 15.
+Nd4 Nf6 16. h3 Rc8 17. g4 h6 18. f4 Nh7 19. Qf2 Ra7 20. Rd2 Ba8 21. Re1 Bf6 22.
+h4 g5 23. hxg5 hxg5 24. fxg5 Bxg5 25. Rdd1 Nd7 26. Rd3 Ne5 27. Rh3 Re8 28. Nce2
+Rc7 29. a4 Qd8 30. Qg3 Ng6 31. Qh2 f6 32. Rd1 Rg7 33. Nf3 Bxe4 34. Rxd6 Qc7 35.
+Ba3 Be3+ 36. Kf1 Bc5 37. Bxc5 Qxc5 38. Rd4 Bxf3 39. Rxf3 Ne5 40. Rh3 Nxg4 41.
+Qd6 Qf5+ 42. Rf3 Qb1+ 43. Rd1 Qe4 44. Rg3 Ne3+ 45. Kg1 Nxg2 46. Rxg7+ Kxg7 47.
+Ng3 Qa8 48. Qc7+ Kh8 49. Rd7 {After White's 49.Rd7 in the diagram position
+Black must find the right move with his attacked knight h7 to clinch victory.
+49...Nf8 or 49...Ng5 - what would have been your choice against a reigning
+world champion?} Nf8 $4 {[%csl Gf8][%cal Gh7f8,Yf8d7] What could be more
+natural than this retreat, safeguarding the knight and hitting White's
+attacking rook at the same time? But now Karpov's last bullet finds its target.
+} ({After} 49... Ng5 $1 {[%csl Gg5][%cal Yg3g8] (blocking the g-file) the game
+would have been over, e.g.} 50. Nh5 Rg8 $1 {parrying White's very last threat.
+Which one? See below...}) {[%tqu "En","White to play and win.","White's queen
+is standing on an attractive dark-squared diagonal.","","g3f5","",10]} 50. Nf5
+$3 {[%csl Gf5] A monster move - now everything falls into place for White.
+Black resigned, seeing the following variations:} Qb8 {[%csl Yb8,Gc7][%cal
+Yb8h2]} (50... Nxd7 {[%tqu "En","Please show Karpov's point.","","","c7h2","",
+10]} 51. Qh2+ $1 {[%csl Gh2,Rh8][%cal Gc7h2,Gh2h8] Long diagonal retreats, the
+most often overlooked moves in chess. White's queen makes contact with Black's
+king.} Kg8 {[%tqu "En","Your move again.","","","h2g3","and White checkmates
+on g7.",10]} 52. Qg3+ {[%csl Gg3,Gg7,Rg8][%cal Gg3g7] followed by 53.Qg7++.}) (
+50... exf5 {sees the same mate mechanicsm.}) {[%tqu "En","Black's queen has
+challenged its counterpart on the diagonal to h2. What now?","If only the Rd7
+didn't block the seventh rank...","","d7h7","",10]} 51. Rh7+ $1 {[%csl Gf5,Gg7,
+Rh8][%cal Gc7g7] and White's queen checkmates on g7 after all, just coming in
+sideways, not diagonally.} Nxh7 52. Qg7# {This was White's threat in the line
+49...Ng5! 50.Nh5 Rg8!, remember?} 1-0
+

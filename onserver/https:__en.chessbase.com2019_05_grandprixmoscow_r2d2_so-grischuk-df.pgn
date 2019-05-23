@@ -1,0 +1,113 @@
+[Event "Moscow FIDE GP"]
+[Site "?"]
+[Date "2019.05.21"]
+[Round "2"]
+[White "So, W."]
+[Black "Grischuk, A."]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "136"]
+[EventDate "2019.05.22"]
+
+{[%evp 0,102,26,14,69,68,32,32,40,29,24,35,43,46,43,-2,-2,-7,7,0,15,-3,5,-15,
+28,6,29,-5,-26,-20,7,-16,21,5,44,19,30,22,23,28,28,27,27,20,30,32,41,39,28,35,
+29,29,30,21,13,5,22,27,27,14,27,6,23,29,40,31,35,38,39,32,37,38,49,52,79,70,70,
+76,80,72,89,56,72,66,75,59,65,59,74,94,86,72,77,97,97,93,92,37,87,87,87,87,87,
+37,87]} 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5
+$1 {It is a relief to see this move rather than 7.Nd5.} a6 8. Na3 b5 9. Nd5 (9.
+Bxf6 {Whole books have been written on both this move and the text, so I'm not
+going to uncover anything new- but hopefully I should be able to demystify
+some points of move-order.} gxf6 10. Nd5 {is the other main line, and now
+Black can choose between ...f5 and ...Bg7. The former implies he might play ...
+Be6 next, whereas the latter indicates perhaps ...Ne7.} f5 $1 {Seemingly a
+slightly better order, so that there are options of ...Bxd5 at the right
+moment.} (10... Bg7 11. Bd3 $1 {This is marginally the better choice, keeping
+options like c4 on the table.} (11. c3 {A move White can do without.} f5 12.
+Bd3 Be6 (12... Ne7 13. Nxe7 Qxe7 14. Nc2 O-O 15. O-O $14 {Ivanchuk,V-Radjabov,
+T Sofia 2008}) 13. Qh5 O-O {Black is threatening ...fxe4 and ...f5, so it is
+high time for White to enter forcing lines, although he will certainly wish he
+had been able to castle rather than playing c3 in case of} 14. exf5 Bxd5 15. f6
+e4 16. fxg7 Re8 $13) 11... Be6 12. O-O f5 ({Here} 12... Bxd5 13. exd5 Ne7 14.
+Qg4 Kf8 15. c4 {does not particularly inspire confidence.}) 13. Qh5 f4 14. c4
+bxc4 15. Bxc4 $36 {There is still significant theory in this position, but I
+would draw your attention to the fact that Grischuk won a major game from here
+before his opponent celebrated his 9th birthday. Grischuk,A-Ivanchuk,V Moscow
+2002}) 11. c3 (11. Bd3 Be6 12. O-O Bxd5 $1 {This is what I mean by the extra
+option of ...Bxd5.} 13. exd5 Ne7 14. c3 Bg7 15. Qh5 e4 16. Bc2 Qc8 $11 {
+Black at least has no problems in this position, and could easily be better.
+Shirov,A-Grischuk,A Wijk aan Zee 2003}) (11. exf5 Bxf5 12. Bd3 Be6 13. Be4 Rc8
+14. c3 Bg7 15. Qh5 Ne7 16. Rd1 Rc5 17. Nxe7 Qxe7 18. O-O d5 19. Bf5 Bxf5 20.
+Qxf5 Qe6 $36 {Chevaldonnet,F-Sveshnikov,E Le Havre 1977}) 11... Bg7 12. exf5 $1
+{This move is the only reason why there is a debate between 10...f5 and 10...
+Bg7- otherwise the latter is simply a worse order.} (12. Bd3 Be6 {transposes
+to 10...Bg7 11.Bd3}) 12... Bxf5 13. Nc2 (13. Qf3 Be6 14. Nf4 exf4 15. Qxc6+ Ke7
+16. Nc2 Re8 17. Bd3 Bd7 18. Qf3 Kf8+ 19. Kf1 Qh4 {Mittermayr,G -Horvath,P
+Lienz 2007}) 13... O-O 14. Nce3 Be6 (14... Bg6 $5 {is playable and gets the
+occasional look in, e.g.} 15. h4 h6 16. Bd3 e4 17. Bc2 b4 $13 {Dourerassou,
+J-Moiseenko,A Warsaw 2013}) 15. Bd3 f5 16. O-O (16. Bc2 f4 {Obviously critical,
+and leads to some cool lines.} 17. Qh5 Rf7 $1 18. Bxh7+ Kf8 19. Bf5 Qe8 20.
+Bxe6 Qxe6 21. Qg4 $1 Qh6 22. Nc2 (22. O-O $5 e4 $1 23. Nb6 Ne5 24. Nf5 Qxh2+
+25. Kxh2 Nxg4+ 26. Kh3 Ne5 $1 27. Nxa8 Rxf5 28. g4 $13) (22. Nb6 fxe3 $5 (22...
+Re8 23. Ned5 Kg8 24. O-O e4 $13 {It seems like White should have some way to
+consolidate, but it is not so obvious exactly how.}) 23. Nxa8 exf2+ 24. Ke2 (
+24. Kf1 Ne7 $13) 24... d5 $44 {White can and should force perpetual.}) 22... e4
+23. Qh3 Qxh3 24. gxh3 Ne5 25. O-O Nd3 26. a4 Rb8 (26... Rf5 $5 27. Ncb4 Nxb4
+28. Nxb4 a5 29. Nc6 b4 $15) 27. Ncb4 bxa4 28. Rxa4 Nxb2 29. Rxa6 Nc4 30. Rfa1
+Be5 31. Nc6 Rb5 $11 {Ivanchuk,V-Carlsen,M Leon 2009}) (16. Qh5 e4 17. Bc2 Ne7
+18. Rd1 b4 19. Nxb4 (19. cxb4 Nxd5 20. Nxd5 Bxb2 $11) (19. O-O bxc3 20. bxc3
+Kh8 $11) 19... a5 20. Nbd5 Nxd5 21. Nxd5 Rb8 22. Bb3 a4 23. Bxa4 Rxb2 24. Bb3
+Kh8 $5 $146 {An ambitious move, which shows that Black can even hope for more
+than a draw.} (24... Bxd5 25. Bxd5+ Kh8 26. O-O Bxc3 27. Be6 Qe8 $1 $11 {
+Van der Wiel,J-Cmilyte,V Wijk aan Zee 2003}) 25. O-O f4 $44 {White must be
+very careful here, since Black has more than enough compensation for the pawn.
+Together with the rook on b2, Black's central pawns present a real danger for
+White. Fressinet,L -Gelfand,B Enghien les Bains 2003}) 16... Ra7 $5 {Removing
+the tactical vulnerability of the rook.} (16... Ne7 $6 17. Nxe7+ Qxe7 18. Bxf5
+$16) 17. a4 Ne7 18. Nxe7+ Rxe7 19. axb5 axb5 20. Bxb5 d5) 9... Be7 10. Bxf6
+Bxf6 11. c3 Bg5 ({It is relatively common to castle first:} 11... O-O {and
+perhaps only play ...Bg5 in response to White's Nce3.} 12. Nc2 Rb8 13. h4 $1 (
+13. Nce3 Bg5 14. Bd3 b4 $11 {is more comfortable for Black}) 13... g6 14. g3
+Bg7 15. h5 Ne7 $132 {Gallenweiler-Heffalump playchess.com INT 2008}) 12. Nc2
+Rb8 13. Be2 ({Grischuk has had this before, and the game illustrates one
+downside of spending time on an early ...Bg5.} 13. a4 bxa4 14. Ncb4 Nxb4 15.
+Nxb4 Bd7 $5 16. Bxa6 (16. Qxd6 Be7 17. Qxe5 O-O $132 {Black has easily enough
+compensation.}) 16... Qa5 (16... Qb6 {seems better}) 17. Qxd6 Rb6 18. Qd3 Be7
+19. Nd5 Rxb2 20. O-O Qc5 (20... Bc5 $5 21. Qg3 Kf8 $1 22. Bc4 f6 $13 {is an
+odd computer line}) 21. c4 Rb3 22. Qe2 Bd6 23. Bb5 Bxb5 24. cxb5 Qxb5 25. Qg4
+$6 {Now White forces perpetual check rather than having an unlosable and
+perhaps slightly interesting ending.} (25. Qxb5+ Rxb5 26. Rxa4 Kd7 $11) 25...
+O-O 26. Nf6+ Kh8 27. Qf5 g6 28. Qg5 Kg7 29. Nh5+ $11 {Dominguez Perez,
+L-Grischuk,A Khanty-Mansiysk 2015}) 13... O-O (13... f5 14. exf5 Bxf5 15. Bg4
+$36 {is positionally undesirable, although probably OK.}) 14. O-O a5 15. Na3
+Na7 {Now Black gives up a pawn, albeit for quite good compensation.} (15... b4
+16. Nc4 bxc3 17. bxc3 Ne7 $11 {is safe because c3 is fully as weak as d6.}) 16.
+Qd3 Kh8 17. Rfd1 Be6 18. Ne3 b4 19. Nac4 Nb5 20. cxb4 axb4 21. Nxd6 {Now White
+will be slightly better in that he can never lose and has an extra pawn which
+he can try to somehow, someday, swap- but Grischuk makes it look effortless to
+hold.} Nxd6 22. Qxd6 Bxe3 23. Qxd8 Rfxd8 $1 {The time is more important than
+the f2-pawn.} (23... Bxf2+ 24. Kxf2 Rfxd8 25. Rxd8+ Rxd8 26. a4 bxa3 27. bxa3
+$14 {Here White has play which is quite easy to define and not that easy to
+stop. Black should place the rook on a5, but then what to do about the 
+(eventual) idea of Kb4?}) 24. fxe3 (24. Rxd8+ Rxd8 25. fxe3 Rd2 $15) 24... Rdc8
+25. Rd2 g6 26. Kf2 Kg7 27. Bd1 Ra8 28. a4 bxa3 29. Rxa3 Rab8 $1 {Again good
+understanding. The rooks should only be traded at the point of winning the e5
+pawn...} 30. Ra5 Rc4 31. Rxe5 Rcb4 32. Ra5 Rxb2 33. Rxb2 Rxb2+ {...like so.
+Now White tried for quite a long time, but to be honest this one of those +/=
+positions that might as well be =. Grischuk has demonstrated 90% of what is
+needed to make the draw which was likely to come ever since White took on d6.}
+34. Kg3 h6 35. h4 Bd7 36. Bf3 Rb5 37. Rxb5 {I'm not sure about this. Maybe it
+was wiser to try and exchange bishops instead? With bishops on, Black can
+easily prevent the break e6 while avoiding the trade- this was probably harder
+if the remaining pieces were rooks.} Bxb5 38. Kf4 Kf6 39. e5+ Ke6 40. Bg4+ Ke7
+41. Bc8 Bc4 42. g4 Kd8 43. Bb7 Ke7 44. g5 hxg5+ 45. Kxg5 Ke6 46. Kf4 Ke7 47.
+Ke4 Be6 48. Bd5 Bc8 49. Kf4 Kf8 50. Bf3 Be6 51. Bg4 Bb3 52. Kg5 Kg7 53. Bd7 Bc4
+54. Bc6 Be6 55. Kf4 Kf8 56. Ke4 Ke7 57. Bd5 Bc8 58. Kf4 Kf8 59. Bc4 Bh3 60. Bb3
+Bc8 61. Bd5 Kg7 62. Kg5 Bd7 63. Bc4 Bc8 64. Kf4 Kf8 65. Bb3 Bh3 66. e6 f6 $5 {
+Capturing on e6 in either way was actually fine too, but Grischuk is making
+the point that he need not compromise his structure.} 67. Kg3 (67. Bc2 g5+ 68.
+hxg5 fxg5+ 69. Kxg5 {and now I have little doubt that Grischuk would have
+chosen the ultra-precise} Ke7 $1 {to not even give his opponent the idea of
+Kf6.} 70. Bf5 Bf1 71. Kf4 Kf6 72. e4 Bc4 73. e5+ Ke7 $11) 67... Bf5 68. Kf4 Bh3
+1/2-1/2
+

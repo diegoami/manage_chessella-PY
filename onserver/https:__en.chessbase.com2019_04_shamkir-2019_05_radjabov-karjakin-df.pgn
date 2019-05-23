@@ -1,0 +1,68 @@
+[Event "Shamkir Chess"]
+[Site "Shamkir"]
+[Date "2019.??.??"]
+[Round "5"]
+[White "Radjabov, T."]
+[Black "Karjakin, S."]
+[Result "1/2-1/2"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "81"]
+[EventDate "2019.04.05"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. d4 O-O 6. O-O dxc4 7. Qc2 c6 $5 {
+An extremely rare choice compared to 7...a6, and even compared to 7...b5.
+However, there seems to have been some elite interest in it, including- a game
+between Karjakin and another Azeri top player from the previous year.} 8. Qxc4
+({In that game, White very, very slowly edged his way to a small endgame plus:
+} 8. a4 b6 9. Nbd2 Bb7 10. Nxc4 c5 11. Rd1 Nbd7 12. b3 Rc8 13. dxc5 Bxc5 14.
+Nfe5 Bxg2 15. Kxg2 Qc7 16. Nxd7 Nxd7 17. Qe4 Nf6 18. Qf3 Qc6 19. Qxc6 Rxc6 20.
+f3 Rfc8 21. e4 $14 {Mamedyarov,S-Karjakin,S Berlin 2018 - and indeed it is
+hard to see what Black could have done better.}) 8... b5 9. Qc2 Bb7 10. Bg5 {
+Playing by analogy to the 7...a6 system: surely it cannot be to Black's
+advantage needing to play ...c5 in two moves?} ({Mamedyarov also adopted 7...
+c6 himself in Berlin, in a twist to an opening discussion which I confess had
+flown very much under the radar for me, especially compared to the
+Semi-Tarrasches from that event:} 10. Nc3 Nbd7 11. Rd1 Qb6 12. Ne5 Rfd8 13. Be3
+$6 (13. Bg5 $14) 13... Nd5 $1 14. Nxd5 cxd5 15. Rac1 Rac8 16. Qd3 b4 $11 {
+So,W-Mamedyarov,S Berlin 2018}) 10... Nbd7 {So Black intends ...c5. There are
+only a few possible ways to stop this.} 11. Ne5 (11. Rc1 $6 {is the kind of
+thing Catalan players derive perverse satisfaction from coming up with, but it
+doesn't actually prevent ...c5 because of the tactic} c5 12. Bxf6 Bxf6 13. dxc5
+Nxc5 14. Qxc5 Rc8 15. Qe3 Bxb2 $17) (11. a4 $5 a6 12. Nbd2 {is the best I've
+found.} c5 (12... Qb6 13. Ne4 $1 $14 {prevents ...c5 for a good long stretch.})
+13. Bxf6 Bxf6 (13... gxf6 $8 14. Ng5 fxg5 15. Bxb7 Ra7 16. Bg2 cxd4 17. axb5
+Rc7 18. Qe4 axb5 19. Qxd4 $11 {Black's kingside looks quite loose, but pieces
+are likely to be traded soon and then things will quieten down.}) 14. axb5 axb5
+15. dxc5 Rc8 16. Nb3 $14 {It will take Black some time to recover the c5-pawn,
+and when he does White will have his other knight on d3 ready to claim
+superior co-ordination.}) 11... Nxe5 12. dxe5 Nd7 13. Bxe7 Qxe7 14. f4 {
+It looks like White has achieved something, but in fact ...e5 releases just as
+much potential energy as the more usual break ...c5.} f6 $1 {Equalising.} 15.
+exf6 Nxf6 16. Nd2 e5 {On a human level, this simply has to be done, and the
+sooner the better- but it's also interesting to keep ...c5 on the table by
+beginning with ...Rac8!?} 17. e3 ({The engine recommends some 'big-picture
+chess' beginning with} 17. Ne4 $5 Nxe4 (17... exf4 $6 18. Rxf4 Nd5 19. Rxf8+
+Rxf8 20. Qc5 $14) 18. Qxe4 {but after} Qc5+ 19. e3 exf4 20. Qe6+ Kh8 21. Rxf4
+Rfe8 22. b4 $5 {it is all looking rather tenuous.} Rxe6 23. bxc5 Kg8 $11) 17...
+exf4 18. exf4 Rae8 19. Rac1 Qe3+ 20. Kh1 Qb6 21. b4 Nd5 22. Nf3 Nxb4 (22... Ne3
+$5 {played for a win, perhaps justifiably so.} 23. Qb3+ Kh8 24. Rfe1 Nxg2 25.
+Kxg2 c5 $5 $13 {and Black gets compensation in all lines.}) 23. Qb3+ Nd5 24.
+Ne5 Rd8 25. a4 bxa4 $2 {Now Black's tactical problems will persist for some
+time.} (25... Kh8 $11 {was a lot more natural.}) 26. Qxa4 c5 27. Rb1 $5 {
+There are other moves of equal value, but this is reasonably straightforward.}
+(27. Qa2 $5 Ba8 $1 {Black can only really resolve one component of the
+tactical problems, which is the undefended nature of the Bb7.} (27... Kh8 $6
+28. Rb1 $16 {regains the pawn since} Qa6 $2 {actually loses a full piece to}
+29. Qxa6 Bxa6 30. Rfd1 $18) (27... Qa6 28. Rf2 Qxa2 29. Rxa2 a6 30. Raa1 Rc8
+31. Ra5 Rfd8 32. Kg1 $14 {White keeps some pressure.}) {Nevertheless, after
+something like} 28. Ra1 Kh8 29. Rfb1 Qc7 30. Qxa7 Qxa7 31. Rxa7 Ne3 32. Bxa8
+Rxa8 33. Rab7 $14 {it is hard to not slightly prefer White.}) 27... Qa6 28.
+Qxa6 Bxa6 29. Rfc1 Ne3 30. Ra1 {Now Black gets active and slips the leash.} (
+30. Bf3 c4 31. Ra1 Rd6 32. Rc3 Nf5 33. Nxc4 Bxc4 34. Rxc4 $14 {This should be
+a draw, but Black has some work still to do.}) 30... Nxg2 31. Rxa6 Rd2 32. Nc4
+Re2 33. Kg1 Ne3 34. Re6 ({We should always stop to consider whether White can
+get doubled rooks on the seventh, e.g. by} 34. Nxe3 Rxe3 35. Kf2 Rb3 36. Rxc5
+Rb2+ 37. Kf3 Rxh2 38. Rxa7 Rh6 39. Rcc7 Rg6 $11 {Despite the indisputable
+passivity of Black's position, the reduced material means that White has no
+tries left.}) 34... Rg2+ 35. Kh1 Rc2 36. Rxc2 Nxc2 37. Ra6 Ra8 38. Kg2 Nd4 39.
+Ra5 Re8 40. Rxa7 Re2+ 41. Kh3 1/2-1/2

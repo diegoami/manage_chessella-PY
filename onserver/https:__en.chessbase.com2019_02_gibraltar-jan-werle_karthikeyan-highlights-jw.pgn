@@ -1,0 +1,59 @@
+[Event "Gibraltar Masters"]
+[Site "Caleta Hotel, Gibraltar"]
+[Date "2019.01.28"]
+[Round "7.24"]
+[White "Karthikeyan, Murali"]
+[Black "Libiszewski, Fabien"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2570"]
+[BlackElo "2481"]
+[SetUp "1"]
+[FEN "8/5Rpk/p7/3pp1PP/4r3/p1r1N3/K7/4R3 w - - 0 36"]
+[PlyCount "3"]
+[EventDate "2019.??.??"]
+
+36. Nxd5 $1 Rc2+ 37. Kxa3 (37. Kxa3 Rxe1 38. Nf6+ Kh8 39. Rf8#) 1-0
+
+[Event "Gibraltar Masters"]
+[Site "Caleta Hotel, Gibraltar"]
+[Date "2019.01.25"]
+[Round "4.35"]
+[White "Cornette, Deimante"]
+[Black "Karthikeyan, Murali"]
+[Result "0-1"]
+[ECO "A31"]
+[WhiteElo "2448"]
+[BlackElo "2570"]
+[Annotator "Jan"]
+[SetUp "1"]
+[FEN "1qr1rbk1/1b3pp1/pp1pp1n1/7n/2PNP2p/1PN1BP1P/P2Q2P1/2RR1BK1 b - - 0 23"]
+[PlyCount "23"]
+[EventDate "2019.??.??"]
+
+{a thematic break in the Hedgehog. Karthikeyan wants to attack the black
+squares around White's king.} 23... d5 $1 24. cxd5 exd5 25. Nxd5 Rxc1 26. Rxc1
+Bxd5 27. exd5 Bd6 28. Nf5 Bh2+ 29. Kf2 Qe5 30. Bd3 Ng3 $1 31. Bd4 (31. Nxg3 {
+is losing a piece, after} Bxg3+ 32. Ke2 Nf4+) 31... Qxd5 $19 32. Be4 Rxe4 33.
+Rc8+ Kh7 34. Rh8+ Nxh8 0-1
+
+[Event "Gibraltar Masters"]
+[Site "Caleta Hotel, Gibraltar"]
+[Date "2019.01.27"]
+[Round "6.34"]
+[White "Larino Nieto, David"]
+[Black "Karthikeyan, Murali"]
+[Result "0-1"]
+[ECO "A49"]
+[WhiteElo "2432"]
+[BlackElo "2570"]
+[SetUp "1"]
+[FEN "r2r2k1/1b2qp1p/n1p3p1/p7/Pp2P3/1P4P1/2Q2PBP/RNR3K1 b - - 0 22"]
+[PlyCount "51"]
+[EventDate "2019.??.??"]
+
+22... Nc5 $1 23. Nd2 Rxd2 24. Qxd2 Nxb3 25. Qb2 Nxa1 26. h4 c5 27. h5 Qg5 28.
+Qxa1 Qxh5 29. Qf6 Re8 30. Qb6 Bxe4 31. Qb5 Re6 32. Rxc5 Qd1+ 33. Kh2 Bxg2 34.
+Kxg2 Rf6 35. Qe8+ Kg7 36. Qe3 Qxa4 37. Qd4 Qa3 38. f4 Qa2+ 39. Kh3 Qe6+ 40. Kh4
+h5 41. f5 gxf5 42. Kg5 Qd6 43. Qxd6 Rxd6 44. Rxa5 Rb6 45. Ra2 b3 46. Rb2 Rb5
+47. Kxh5 Kf6 0-1

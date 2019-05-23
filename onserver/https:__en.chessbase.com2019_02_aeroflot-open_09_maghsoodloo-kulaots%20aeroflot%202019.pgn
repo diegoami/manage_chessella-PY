@@ -1,0 +1,56 @@
+[Event "Aeroflot Open A 2019"]
+[Site "Moscow RUS"]
+[Date "2019.02.20"]
+[Round "1.12"]
+[White "Maghsoodloo, Parham"]
+[Black "Kulaots, Kaido"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2666"]
+[BlackElo "2542"]
+[Annotator "Sagar Shah"]
+[PlyCount "72"]
+[EventDate "2019.02.20"]
+
+{[%evp 0,72,18,25,37,45,80,66,59,38,38,19,72,22,22,12,15,14,22,22,33,33,36,36,
+41,28,36,0,-1,18,32,9,3,3,3,43,9,-11,-6,-5,-3,-44,-47,-24,47,48,76,32,38,31,34,
+-229,-229,-225,-224,-224,-224,-234,-234,-232,-229,-224,-168,-212,-356,-343,
+-355,-357,-357,-375,-351,-609,-609,-29997,-29998]} 1. e4 c5 2. Nf3 d6 3. d4
+cxd4 4. Nxd4 Nf6 5. Nc3 a6 {The Najdorf is Kulaot's favourite opening and one
+where he has a lot of experience.} 6. Nb3 {This is a line popularized by
+Polish GM Mateusz Bartel at the Aeroflot Open itself in 2016.} g6 {Kulaots
+figures out that the Dragon would be a good setup considering that White has
+spent time on moving his knight on d4 without provocation.} 7. Be2 Bg7 8. g4 {
+Parham always takes the fight to his opponent and doesn't shy away from a
+fight here as well.} h6 9. Be3 Nbd7 10. f3 Qc7 11. Qd2 b5 12. a3 Rb8 13. O-O-O
+{White has parked his king on the queenside. Where should Black keep his king?
+0-0 is not an option because Bxh6 loses a pawn. Hence, it is important to keep
+the king in the centre and start launching a queenside attack.} Nb6 14. Bd4 e5
+{This move does weaken the square on d5, the pawn on d6 and also closes the
+bishop on g7. Doesn't really look like a great move, but at the same time it
+is quite concrete in nature.} 15. Bxb6 (15. Be3 Nc4 16. Bxc4 bxc4 {gives Black
+a good position tactically.}) 15... Rxb6 16. h4 {The threat is to play g5,
+push the knight and plonk the white knight on d5.} Be6 17. Kb1 O-O {After
+White gave up his dark squared bishop, one of the advantages for Black is that
+his king on g8 is never going to get mated.} 18. Nd5 Nxd5 19. exd5 Bd7 20. h5
+g5 21. Bd3 {There is a chapter in Jacob Aagaard's book Strategic play which is
+named fighting the tide. What it essentially meant is that there are positions
+where things are not going your way. In such positions rather than sitting
+tight and doing nothing about it, what you should be doing is fighting the
+tide. Fighting back!} e4 $1 {[%cal Ge5e4] Objectively maybe not the best move.
+But it is fighting the tide. It is saying to White - "Look I know I am worse,
+but I am not going to go down quietly. I am going to create threats and see
+how you defend against them!"} 22. Bxe4 b4 $1 23. a4 $5 (23. axb4 Qc4 {is what
+must have made Parham not take on b4, but after} 24. Na5 Qxb4 25. Qxb4 Rxb4 26.
+b3 Bxg4 27. Nc4 $16 {This does look like a pleasant endgame for White.}) 23...
+Bxa4 24. Nd4 b3 25. cxb3 $2 {This is just a bad decision.} (25. c3 $14 {
+was much better when Whiet can be worried about the black queen coming to a2
+in the future, but that is not really happening. At the same time the knight
+moving to c6 will cause quite some discomfort for Black.}) 25... Bxb3 26. Rc1
+Qb7 {[%cal Gg7b2,Gb6b2,Gb7b2] The bishop on g7 and the major pieces down the
+b-file make b2 a very soft target.} 27. Rh2 Rb8 (27... Bxd5 $1 $19) 28. Rc6 Rb4
+29. Nxb3 Rxb3 30. Rc2 a5 (30... Bxb2 31. Rxb2 Rxb2+ 32. Qxb2 Qc7 $19) 31. Kc1
+Be5 $1 {The rook on h2 is hanging and Bf4 is also threatened.} 32. Kd1 Bxh2 33.
+Qxh2 Qb6 (33... Rxb2 $19) 34. Kc1 Qe3+ 35. Kb1 Qe1+ 36. Ka2 Ra3+ $1 {A very
+nice finish.} (36... Ra3+ 37. bxa3 (37. Kxa3 Qa1#) 37... Qb1#) 0-1
+

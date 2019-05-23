@@ -1,0 +1,41 @@
+[Event "Chiahuahua Bionext"]
+[Site "?"]
+[Date "2018.10.14"]
+[Round "7"]
+[White "Encinas Varela, David"]
+[Black "Yermolinsky, Alex"]
+[Result "0-1"]
+[ECO "B67"]
+[WhiteElo "1879"]
+[BlackElo "2510"]
+[Annotator "AlexYermo"]
+[PlyCount "58"]
+[EventDate "2018.??.??"]
+[SourceVersionDate "2018.10.22"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. Bc4 {I have been wondering about this sharp move for years.} b5 {
+Risky.} ({I didn't want to give him an easier game after} 9... h6 10. Bxf6 Qxf6
+11. Nxc6 Bxc6 12. f4 (12. Rhe1 Be7) 12... b5 13. Bb3 Be7 14. h4 {albeit Black
+has} h5 $5) 10. Nxc6 (10. Bb3 {I planned to answer with} b4 {[#] inviting
+various tactical lines.} 11. Nxc6 (11. Nd5 exd5 ({My intention was} 11... Nxe4
+$5 12. Bxd8 Nxd2 13. Nc7+ Kxd8 14. Nxa8 Nxd4 15. Rxd2 Nxb3+ 16. axb3 Bc6 17.
+Nb6 Bxg2 $15) 12. Nxc6 Bxc6 13. exd5 Bb5 14. Rhe1+ Be7 15. Bxf6 gxf6 16. Qxb4
+O-O 17. Qf4 {Somehow I didn't feel too happy about this, the computers optimism
+notwithstanding.}) 11... Bxc6 ({Not} 11... bxc3 12. Qxc3 Qc7 13. Bxf6 gxf6 14.
+Qxf6 Rg8 15. Nd4 $16) 12. Bxf6 ({In case of} 12. Nd5 $6 Nxe4 {is even stronger
+now as Ra8 is defended.}) 12... Qxf6 13. Ba4 Rc8 14. Bxc6+ Rxc6 15. Na4 Be7 {
+is about equal.}) 10... Bxc6 11. Bd5 $6 {David wanted a sharp game.} (11. Bd3 {
+isn't inspiring, as White is down a tempo compared to an old Kasparov line.})
+11... exd5 12. exd5 Bb7 13. Rhe1+ Kd7 $1 {Perhaps he underestimated the
+strength of this king move.} 14. Qd4 (14. Ne4 Nxe4 15. Rxe4 f6 16. Be3 Qc7 $17)
+14... h6 15. Bxf6 Qxf6 16. Qb6 Rb8 17. Re8 $6 {[#] Shock.} ({I saw} 17. Nxb5
+Qd8 {was nothing for him,}) ({but expected} 17. a4 b4 18. Qxb4 Be7 19. Qg4+ Kc7
+20. Qc4+ Kb6 $17) 17... Kxe8 18. Qc7 {A beautiful idea, but there's a simple
+refutation.} Rd8 (18... Qd8 $2 19. Re1+ Be7 20. Rxe7+ Qxe7 21. Qxb8+ Qd8 22.
+Qxb7 Kf8 23. Qxa6 $13) 19. Re1+ Be7 20. Qxb7 Kf8 $19 21. Re3 h5 22. Ne4 Qf5 23.
+Qc7 Qd7 24. Qc3 h4 25. Qd3 Rh5 26. Rf3 Qg4 27. g3 hxg3 28. Rxg3 Qf5 29. Qd4 Qe5
+{With this win, I joined Shabalov and Juan Carlos Gonzalez for the share of 2nd-4th,
+and surprisingly beat them on tie-breaks for second place and a 10,000 pesos
+prize.} 0-1
+

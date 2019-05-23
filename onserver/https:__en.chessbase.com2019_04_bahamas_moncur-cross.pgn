@@ -1,0 +1,45 @@
+[Event "Old Fort Bay Invitational"]
+[Site "Nassau"]
+[Date "2018.03.04"]
+[Round "5"]
+[White "Moncur, FM Cecil"]
+[Black "Cross, Ted"]
+[Result "0-1"]
+[ECO "A88"]
+[WhiteElo "1901"]
+[BlackElo "1991"]
+[Annotator "Cross,Ted"]
+[PlyCount "69"]
+[EventDate "2018.03.03"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "BAH"]
+
+1. d4 f5 {Both times I had been black against Carver previously I had lost, so
+I decided to try to shake things up with the Dutch.} 2. g3 Nf6 3. Bg2 g6 4. Nf3
+Bg7 5. b3 O-O 6. Bb2 d6 7. O-O c6 8. c4 a5 9. Nc3 Qc7 10. Rc1 Na6 11. d5 e5 {
+GMs seem to prefer Nc5 here, though Stockfish is fine with my move.} 12. dxe6
+Bxe6 13. Ng5 Bc8 14. e3 h6 15. Nf3 Nc5 16. Nh4 g5 17. Nf3 Nfe4 18. Qc2 Nxc3 19.
+Bxc3 Ne4 {Taking the bishop on c3 seems to minimize white's edge. Play now
+revolves around my weak pawn on d6.} (19... Bxc3 20. Qxc3 Qg7 21. Qd2 Rf6 22.
+Nd4 f4 23. exf4 gxf4 24. Kh1 fxg3 25. fxg3 Bd7 $14) 20. Bxg7 Qxg7 21. Rfd1 Bd7
+22. Nd4 Rae8 23. Ne2 Rf6 24. Nc3 Nc5 {Trading knights was a little more
+prudent, though at the time I felt I needed to keep more material on the board,
+feeling that I'd probably lose the pawn on d6 and need to be able to mix
+things up tactically.} 25. Rd4 $6 {It took me a while here to realize what was
+wrong with this move. I had been dreaming of finding a way to play f4, and the
+rook coming to d4 gives me tactical justification to go ahead with that plan.}
+(25. a3 Ref8 26. b4 Na6 27. Qb3 h5 $13) 25... f4 $1 26. exf4 gxf4 27. Qd1 (27.
+Qd2 $142 f3 28. Bf1 Qg5 (28... Qe7 29. Rd1 Kg7 30. Qb2 (30. Rxd6 $2 Qxd6 31.
+Qxd6 Rxd6 32. Rxd6 Re1 33. Rd1 Rxd1 34. Nxd1 Bf5 35. h4 Bc2 36. Nc3 Kf6 $15)
+30... Bf5 31. a3 Qe5 $14) 29. Qb2 Qe5 $13) (27. Rxf4 $2 Rxf4 28. gxf4 Bh3 29.
+f3 Nd3 $1 $19) 27... f3 (27... fxg3 28. hxg3 Ref8 29. Rc2 $11) 28. Bh1 $4 {
+I can only think that white believed he must go after the pawn on f3 and he
+missed the problem of his king and queen being lined up on the first rank 
+(which would have been avoided if his queen was on d2 rather than d1).} (28.
+Bf1 Qg5 29. h4 Qe5 30. Qd2 $11) 28... Rfe6 {It's basically over now.} 29. Ne4
+Nxe4 30. Bxf3 Nxg3 $1 {I give this an exclam because Stockfish's preferred
+line is simply inhuman, while my move crystalized everything for me.} (30...
+Ng5 31. Rd3 Qb2 32. Kf1 Rf6 33. g4 Bxg4 $19) 31. Rg4 Re1+ 32. Kg2 Bxg4 33. Qxd6
+Bxf3+ 34. Kxf3 Rf8+ 35. Kg2 0-1
+

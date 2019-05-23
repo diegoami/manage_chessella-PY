@@ -1,0 +1,45 @@
+[Event "19th Bangkok Open 2019"]
+[Site "Bangkok"]
+[Date "2019.04.07"]
+[Round "2.1"]
+[White "Wiwatanadate, Poompong"]
+[Black "Short, Nigel D"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[WhiteElo "2025"]
+[BlackElo "2636"]
+[Annotator "Tactical Analysis 2.10 (6s)"]
+[PlyCount "98"]
+[EventDate "2019.??.??"]
+
+{[%evp 9,98,-9,52,-19,4,-19,6,-38,0,-29,4,-20,0,-20,8,-14,24,0,14,-14,16,-11,
+18,-25,7,-26,-4,-52,0,-35,-3,-26,9,-22,1,-33,2,-15,5,-17,33,-35,7,-138,5,-57,
+-18,-19,-5,-20,7,-61,-5,-52,-8,-62,-34,-70,-52,-83,-46,-66,-28,-41,-44,-43,0,0,
+22,-302,28,13,62,52,139,0,219,180,188,146,321,38,38,21,25,0,38,23,27,13,18]} 1.
+Nf3 d5 2. g3 Bg4 3. Bg2 Nd7 {[%cal Bb8d7,Bd7e5,Be5f3][%mdl 32]} 4. c4 e6 5. O-O
+Ngf6 (5... dxc4 $11 6. Qa4 Bxf3 7. Bxf3 c6) 6. h3 $146 {A07: Réti Opening: New
+York and Capablanca Systems} ({White should play} 6. d4 $14) ({Predecessor:} 6.
+d3 dxc4 7. dxc4 Be7 8. Nc3 O-O 9. Nh4 c6 10. h3 Bh5 11. g4 Ne8 12. Nf3 Bg6 {
+1/2-1/2 (37) Wang,H (2743)-Aronian,L (2813) Stavanger 2013}) 6... Bxf3 $1 $11
+7. Bxf3 Ne5 8. Qb3 (8. d3 $11) 8... Nxf3+ 9. Qxf3 c6 10. cxd5 Qxd5 11. Kg2 Be7
+12. Nc3 Qd7 13. d3 O-O 14. Be3 Rfd8 15. Rfc1 c5 16. Ne4 (16. Bf4 $142) 16... b6
+17. a4 Nd5 18. a5 (18. Nd2 $11) 18... Rab8 (18... f5 $15 19. Nc3 Nxe3+ 20. Qxe3
+g6) 19. axb6 axb6 20. Nc3 Nb4 21. Bf4 Rb7 22. Nb5 Nc6 {...Na5 is the strong
+threat.} 23. Bd2 f5 {Threatens to win with ...Ne5.} 24. Bc3 Bf6 (24... e5 $11)
+25. Rab1 (25. Bxf6 $14 gxf6 26. Qf4) 25... Rbb8 (25... Bg5 $15 26. Rd1 e5) 26.
+Na3 {[#]} (26. Bxf6 $11 {keeps the balance.} gxf6 27. Qf4) 26... Rdc8 (26...
+Bg5 $1 $17 {White must now prevent ...b5.} 27. Rd1 b5) 27. Nc4 ({White should
+try} 27. Bxf6 $11 gxf6 28. Nc2) 27... b5 28. Bxf6 gxf6 29. Nd2 $1 Nd4 30. Qe3 (
+{Better is} 30. Qh5 $11) 30... Qd5+ (30... e5 $15) 31. f3 (31. Kh2 $11) 31...
+e5 (31... Ra8 $15 {might be stronger.}) 32. Kf2 (32. Qh6 $11) 32... Kg7 $15 33.
+g4 f4 $36 {[%mdl 2048] Black has good play.} 34. Qe4 Qd6 35. Ra1 Rc7 (35... Qe7
+$5 {[%cal Rf6f5]} 36. Kg2 Kh8 $17) 36. Ra8 Rxa8 37. Qxa8 {[#]} c4 $1 {[%mdl
+512]} 38. dxc4 Qb4 39. Qd8 $2 {[%mdl 8192]} (39. Rd1 $11) 39... Rf7 $2 (39...
+Qxd2 $19 40. Qxc7+ Kg6) 40. Ne4 $11 {Hoping for g5.} Qxb2 ({Don't blunder} 
+40... bxc4 $2 41. g5 $18) 41. Re1 Qa3 {[#]} (41... Nc2 $14) 42. cxb5 (42. g5 $1
+$16 {[%cal Rg5f6]} f5 43. Nf6) 42... h6 $2 (42... Nc2 $11) 43. b6 {Strongly
+threatening b7!} Qe3+ 44. Kf1 Ne6 $2 (44... Nxf3 $16 45. exf3 Qxf3+ 46. Nf2 Qg3
+) 45. Qe8 $2 (45. Qb8 $18 Nd4 46. Nd6) 45... Qxb6 $14 46. Rc1 {aiming for Rc6.}
+Rf8 47. Qe7+ Rf7 48. Qe8 {And now Rc6 would win.} Rf8 49. Qe7+ Rf7 {Accuracy:
+White = 26%, Black = 36%.} 1/2-1/2
+

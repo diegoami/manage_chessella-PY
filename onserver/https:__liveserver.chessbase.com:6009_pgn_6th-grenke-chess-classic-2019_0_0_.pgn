@@ -1,0 +1,1875 @@
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.20"]
+[Round "1.1"]
+[White "Keymer, Vincent"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "A56"]
+[WhiteElo "2516"]
+[BlackElo "2845"]
+[Annotator "TA"]
+[PlyCount "162"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,162,63,77,41,52,32,37,0,20,18,49,31,33,35,39,29,42,44,60,44,63,69,91,
+22,31,-12,13,0,54,60,67,10,10,10,80,64,100,86,102,109,81,-23,86,57,71,69,70,15,
+14,-59,-59,-59,-49,-170,-99,-107,-101,-102,-91,-122,-85,-81,-120,-121,-78,-112,
+-79,-102,-68,-68,0,-89,-68,-68,-68,-79,-44,-68,-68,-68,-68,-108,-99,-116,-96,
+-94,-68,-68,-68,-68,-68,-68,-68,-105,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+-192,-163,-491,-492,-434,-484,-491,-491,-491,-485,-568,-491,-491,-491,-495,
+-480,-783,-775,-1555,-1495,-2438,-2398,-4973,-2862,-29962,-29962,-29962,-29958,
+-29983,-29984]} 1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 d6 5. e4 Bg7 6. Nf3 O-O 7.
+Be2 e5 8. O-O Ne8 9. Ne1 f5 10. exf5 gxf5 11. f4 {E92: King's Indian:
+Classical: 6 Be2 e5: 7 dxe5, 7 Be3 and Petrosian System without 7...Nbd7} Nd7 (
+11... e4 12. Nc2 Na6 13. Be3 Nac7 14. Rf2 a6 15. a4 Bd7 16. g4 Bxc3 17. bxc3
+fxg4 18. Bxg4 Nf6 19. Bxd7 Qxd7 {1/2-1/2 (43) Cruz,F (2344)-Rojas Keim,L (2330)
+Sant Aria de Besos 2017}) 12. Nd3 e4 13. Nf2 {White is slightly better.} (13.
+Ne1 {feels hotter.} Nc7 14. Nc2 Qe7 15. a4 Nf6 16. Bd2) 13... Bxc3 14. bxc3
+Ndf6 15. Be3 Ng7 $146 ({Predecessor:} 15... Qe7 16. h3 Ng7 {1/2-1/2 (48)
+Edwards,R (2013)-Turner,D (1832) High Wycombe 2011}) 16. Qe1 Bd7 17. Nd1 Ba4
+18. h3 Bxd1 19. Qxd1 Qe8 20. Kf2 Qg6 21. Rg1 ({White should play} 21. g4 $16)
+21... Kh8 22. a4 Rg8 23. Qf1 Nfh5 (23... h5 $1 $11) 24. g3 $14 Raf8 25. Qg2 (
+25. Rg2 $1 $14) 25... Qf6 $1 $11 26. Rac1 Qd8 (26... Nxg3 $11 27. Qxg3 Nh5 28.
+Bxh5 Rxg3 29. Rxg3 Qh4) 27. Qh2 Nf6 28. g4 Nd7 29. g5 Qa5 30. g6 (30. Qh1 $16)
+30... h6 (30... Nf6 $11 {keeps the balance.}) 31. Rb1 Rb8 32. Qg3 {Qh4! is the
+strong threat.} Qd8 $1 33. Ke1 (33. Ra1 $14) 33... Ne8 34. Kd2 (34. h4 $11)
+34... Nf8 $1 $15 35. Bf2 Qe7 36. Ke3 (36. h4 $15) 36... Qf6 ({Don't do} 36...
+Nxg6 37. Bh5 $17) (36... Rxg6 $19 37. Qh4 Qg7) 37. Kd2 $17 Nxg6 38. h4 Ne7 39.
+Qh3 Rxg1 40. Rxg1 Qf7 41. h5 Nf6 42. Bh4 b6 43. Rb1 Qf8 44. Rg1 Qf7 45. Rb1 $1
+Qg7 46. Rg1 Qf8 $1 47. Kc2 Nfg8 48. Kd2 Qf7 49. Kc2 Rf8 50. Kd2 Qe8 51. Ra1 Rf7
+52. a5 bxa5 53. Rxa5 Nc8 54. Ra1 Qf8 55. Rb1 Nb6 56. Rg1 Rg7 ({Better is} 56...
+a5 $17 {And now ...a4 would win.} 57. Rb1 Rb7) 57. Rxg7 $1 $11 Kxg7 58. Qg3+
+Kh8 59. Qg6 a5 {[%cal Ba7a5,Ba5a4,Ba4a3][%mdl 32]} 60. Bf1 a4 61. Kc2 a3 $36 {
+[%mdl 2048] Black has some pressure.} 62. Kb3 {[#]} Na4 $1 {[%mdl 512]} 63. Bh3
+(63. Kxa4 a2) 63... Qg7 64. Qxg7+ Kxg7 65. Bxf5 {[%mdl 4096] Endgame KBB-KNN}
+Nf6 66. Kxa3 Nxc3 67. Bf2 $2 (67. Kb3 $11 Ne2 68. Bxf6+ Kxf6 69. Bxe4) 67...
+Ne2 68. Ka4 $2 (68. Kb2 {was the crucial defense.}) 68... Nxh5 $19 69. Ka5 Nf6
+70. Kb6 Kf7 71. Kc7 Ke7 72. Be3 Nd4 73. Bg6 {intending f5.} h5 74. Bf2 Nf3 75.
+Bf5 (75. Kb6 $142 Ng4 76. Bxe4 Nxf2 77. Bxf3) 75... Nd2 76. Bh4 e3 77. Bd3 {[#]
+} Nf3 $1 78. Bxf6+ Kxf6 79. Kxd6 h4 {Black mates.} 80. Kc7 {[#]} Nd4 $1 81. Kc8
+e2 {Accuracy: White = 48%, Black = 61%.} 0-1
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.20"]
+[Round "1.2"]
+[White "Svidler, Peter"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[ECO "B34"]
+[WhiteElo "2735"]
+[BlackElo "2819"]
+[Annotator "TA"]
+[PlyCount "80"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,80,9,12,0,14,18,18,22,17,17,22,23,23,10,32,18,24,27,23,10,33,0,0,0,7,
+3,26,45,22,25,29,0,0,0,0,0,0,0,0,-23,-26,-23,-22,-12,0,0,8,4,4,5,4,0,8,0,0,0,0,
+0,0,0,8,8,8]} 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6
+7. Nd5 Nxd5 8. exd5 Nb8 9. a4 Be7 10. Be2 O-O 11. O-O {B33: Sicilian: Pelikan
+and Sveshnikov Variations} Nd7 12. Bd2 f5 13. a5 a6 14. Na3 e4 15. Nc4 Ne5 16.
+Nb6 Rb8 17. f4 exf3 18. Bxf3 {[#]} Bf6 $146 ({Predecessor:} 18... g5) 19. c3 g5
+20. Be2 f4 21. Nxc8 Qxc8 22. Kh1 b5 23. axb6 Rxb6 24. Qc2 Bg7 25. b3 Qb7 26. b4
+Qxd5 {White should prevent ...f3.} 27. Qa2 Qxa2 28. Rxa2 d5 29. Rxa6 (29. Bxa6
+{is more complex.} Nc4 30. Bxc4 dxc4 31. g3 Re6 32. gxf4 gxf4 33. Rxf4 Rxf4 34.
+Bxf4 Bxc3 35. Rc2) 29... Rxa6 30. Bxa6 Nc4 31. Rd1 {The position is equal.}
+Nxd2 32. Rxd2 Bxc3 33. Rxd5 Bxb4 34. Rxg5+ $11 {[%mdl 4096] Endgame KRB-KRB}
+Kh8 {[#] aiming for ...Ra8.} 35. Kg1 f3 36. gxf3 Rxf3 37. Bc4 {[%csl Gc4][%cal
+Rg5g8]} Rf8 38. Kg2 Bc3 39. Bd3 Rg8 40. Rxg8+ Kxg8 {Accuracy: White = 80%,
+Black = 70%.} 1/2-1/2
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.20"]
+[Round "1.3"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "2773"]
+[BlackElo "2774"]
+[Annotator "TA"]
+[PlyCount "39"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,39,37,44,55,89,10,5,14,10,12,20,18,19,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0]
+} 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 Qb6 7. Nc3 Nc6 8. O-O
+{dxc5 is the strong threat. B12: Caro-Kann: Advance Variation} (8. Na4 Qa5+ 9.
+c3 cxd4 10. Nxd4 Nxd4 11. Bxd4 Ne7 12. O-O Nc6 13. b4 Qc7 14. Rc1 Be7 15. g4
+Be4 {1-0 (28) Giri,A (2777)-Navara,D (2745) Shamkir 2018}) 8... Qxb2 9. Qe1 (9.
+Nb5 $16) 9... cxd4 $11 {The position is equal.} 10. Bxd4 Nxd4 ({Wrong is} 10...
+Qxc2 $2 11. Rc1 $18) ({Avoid the trap} 10... Bxc2 $2 11. Nb5 $18) 11. Nxd4 Bb4
+12. Ndb5 Ba5 ({But not} 12... Bxc2 $6 13. Qd2 $16) 13. Rb1 Qxc2 14. Rb3 Ne7 15.
+Nd6+ Kf8 {[#] Hoping for ...d4.} 16. Nxb7 Bb6 17. Nd6 Ba5 18. Nb7 Bb6 19. Nd6
+Ba5 {[#]} 20. Nb7 $146 {Accuracy: White = 58%, Black = 96%.} ({Predecessor:} 
+20. Ra3) 1/2-1/2
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.20"]
+[Round "1.4"]
+[White "Aronian, Levon"]
+[Black "Naiditsch, Arkadij"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2763"]
+[BlackElo "2695"]
+[Annotator "TA"]
+[PlyCount "82"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 24,82,26,24,18,21,22,28,26,14,15,13,20,8,6,8,12,8,14,0,0,-6,25,0,0,0,0,
+0,0,0,0,-22,21,0,62,62,70,27,25,0,0,0,0,0,0,0,8,8,8,8,8,0,0,0,0,0,0,0,0,0,0]} 
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Qc7 8. a4
+Be7 9. a5 O-O 10. Be2 Nbd7 11. Nd2 b5 12. axb6 Nxb6 13. O-O a5 {B90: Sicilian
+Najdorf: Unusual White 6th moves, 6 Be3 Ng4 and 6 Be3 e5} 14. Nb5 Qb8 15. c4
+Be6 {[#] White has an edge.} 16. Qb3 $146 ({Predecessor:} 16. b3 Rc8 17. f3
+Nbd7 18. Nb1 Ne8 19. N1c3 Bd8 20. Na4 Nb6 21. Qd2 Nxa4 22. Rxa4 {0-1 (48) Leko,
+P (2737)-Naiditsch,A (2710) Kiev 2013}) 16... Rc8 17. Rfc1 Bd8 (17... a4 $5 {
+[%cal Ra4b3]} 18. Qd1 Qb7 $11) 18. Qd1 Nbd7 19. f3 Bb6 20. Nf1 Ne8 21. Rc3 Bc5
+22. Kh1 Rc6 23. Bd2 (23. b3 {is more complex.} Bb4 24. Rcc1 Nc5 25. Rab1 Rb6
+26. Bf2) 23... Bb4 24. Rcc1 Bxd2 25. Nxd2 Nc7 26. Ra3 Nc5 27. Rca1 Rca6 28. Nb1
+Bd7 (28... a4 $11) 29. N1c3 $14 N7e6 30. Nd5 a4 31. b4 (31. Bf1 {with more
+complications.} h6 32. R1a2 Qd8 33. Ndc3 Qb6 34. Ra1) 31... axb3 $1 {[#]
+Hoping for ...Bxb5.The position is equal.} 32. Rxa6 Rxa6 33. Rxa6 Nxa6 34. Qxb3
+Nac5 35. Qd1 Nd8 36. Ne3 Ndb7 37. h3 g6 38. Bf1 Be6 39. Nc2 Qd8 40. Qe1 h5 41.
+Ne3 h4 {Accuracy: White = 58%, Black = 60%.} 1/2-1/2
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.20"]
+[Round "1.5"]
+[White "Meier, Georg"]
+[Black "Vallejo Pons, Francisco"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2628"]
+[BlackElo "2693"]
+[Annotator "TA"]
+[PlyCount "48"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,48,16,27,29,39,-3,0,0,0,0,0,0,0,0,0,0,0,0,0,-15,0,0,27,19,18,0,7,0,7,
+10,7,0,0,0,0,0,0,-4,0,0,0]} 1. Nf3 d5 2. d4 e6 3. g3 b5 4. Bg2 Nf6 5. O-O Bb7
+6. a4 {A46: 1 d4 Nf6 2 Nf3 e6: Torre, London and Colle Systems} (6. Bg5 Nbd7 7.
+e4 dxe4 8. Nfd2 h6 9. Bxf6 Nxf6 10. Qe2 a6 11. Nxe4 Bxe4 12. Bxe4 Nxe4 13. Qxe4
+Qd5 {1/2-1/2 (62) Aronian,L (2784)-Dominguez Perez,L (2732) Skopje 2015}) 6...
+b4 7. a5 (7. c4 $5) 7... Be7 8. c3 O-O 9. cxb4 Bxb4 10. Qb3 Qe7 11. Bd2 Na6
+$146 ({Predecessor:} 11... c5 12. Bxb4 cxb4 13. Ne5 Rc8 14. Nd2 Na6 {1-0 (34)
+Guerra,V (2130)-Fernandes,A (2200) Lisbon 1997}) 12. Rc1 Rab8 13. Bxb4 Nxb4 14.
+Nbd2 Ba6 {[#] White must now prevent ...Nd3!} 15. Qe3 Rb7 16. Ne5 Bb5 {The
+position is equal.} 17. Bf1 Nd7 18. Nxd7 Qxd7 19. Qa3 $36 {[%mdl 2048] White
+has the initiative.} Na6 20. Rc3 Rfb8 21. Nb3 Bc4 {[%cal Rb7b3]} 22. Nd2 Bb5 $1
+23. Nb3 Bc4 {[%cal Rb7b3]} 24. Nd2 Bb5 $1 {Accuracy: White = 74%, Black = 81%.}
+1/2-1/2
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.21"]
+[Round "2.1"]
+[White "Vallejo Pons, Francisco"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "C78"]
+[WhiteElo "2693"]
+[BlackElo "2845"]
+[Annotator "TA"]
+[PlyCount "146"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,146,45,22,23,24,14,12,9,20,13,18,16,22,23,21,17,1,7,37,17,31,0,8,0,0,
+3,0,0,0,-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,8,0,32,30,31,-8,-8,-8,-8,-20,
+-20,-20,-20,-102,-42,-37,-28,-61,-61,-61,-60,-61,-60,-60,-20,-20,-20,-32,-20,
+-52,-52,-51,-51,-52,-54,-69,-70,-69,-70,-68,-70,-72,-72,-72,-72,-71,-64,-64,
+-64,-72,-71,-70,-72,-71,-64,-64,-64,-70,-69,-72,-64,-64,-64,-64,-64,-62,-62,
+-62,-61,-261,-261,-485,-478,-29975,-29976,-29976,-29977,-29977,-29978,-29976,
+-6246,-6129,-6114,-29992,-29993,-29993,-29992]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6
+4. Ba4 Nf6 5. O-O Bc5 6. c3 O-O 7. d4 Ba7 8. dxe5 {C78: Ruy Lopez: Archangelsk
+and Möller Defences} Nxe4 9. Bc2 (9. Qd5 Nc5 10. Bc2 Ne7 11. Qd1 d5 12. exd6
+Qxd6 13. Qxd6 cxd6 14. Rd1 Bf5 15. Na3 Ne4 {0-1 (25) Vachier Lagrave,M (2780)
+-Melkumyan,H (2660) chess.com INT 2018}) 9... d5 10. exd6 {The position is
+equal.} Nxd6 11. Bg5 f6 12. Bf4 g5 $146 ({Predecessor:} 12... Kh8 13. Bxd6 cxd6
+14. Qd5 Ne5 15. Nbd2 Bd7 16. Qxd6 {0-1 (35) Horn,C-Gabinara,A San Marino 1950})
+13. Bxd6 ({Don't play} 13. Qd3 Bf5 $15) 13... Qxd6 14. Qxd6 cxd6 15. Nbd2 g4
+16. Nh4 d5 17. Nf5 d4 18. Nc4 Bxf5 19. Bxf5 h5 20. Rad1 Rfd8 21. a4 Ne7 22.
+Be6+ Kg7 23. Rfe1 f5 24. Na5 Rab8 25. Kf1 Kf6 26. Bb3 Ng6 27. Re6+ Kg5 28. g3
+dxc3 29. bxc3 Rxd1+ 30. Bxd1 Rd8 $132 {[%mdl 2048] Black puts up resistance}
+31. f4+ gxf3 32. Bxf3 h4 33. Nc4 hxg3 34. hxg3 Bb8 35. Kg2 b5 36. axb5 axb5 37.
+Ne3 (37. Na3 $11 {keeps the balance.}) 37... Rd2+ (37... f4 $1 $17 38. Be4 Nf8)
+38. Kh3 $15 Rd3 39. Be2 Rxc3 40. Bxb5 f4 41. Be8 Nf8 42. Rb6 Be5 43. Nf1 fxg3 {
+Strongly threatening ...Rc2.} 44. Rc6 Ra3 45. Rb6 Ra2 46. Rb4 $1 Ne6 47. Rg4+
+$1 Kf6 48. Bc6 {[#]} g2 $1 {[%mdl 512]} 49. Bxg2 Nf4+ 50. Rxf4+ $1 Bxf4 {
+[%mdl 4096] Endgame KRB-KBN} 51. Bf3 Bb8 52. Ng3 Kg5 53. Ne2 Bc7 {aiming for ..
+.Rd2.} 54. Kg2 Kh4 55. Kf2 Bb6+ 56. Ke1 Be3 57. Kd1 Kg5 {White must now
+prevent ...Kf5.} 58. Be4 Kf6 {...Ke5 is the strong threat.} 59. Bf3 Ke5 60. Bg2
+Kd6 {Hoping for ...Ke5.} 61. Be4 Kc5 62. Bf5 Rd2+ 63. Ke1 Rd8 {Threatens to
+win with ...Rf8.} 64. Be4 Kc4 {And now ...Re8 would win.} 65. Kf1 $2 (65. Ng3
+$15) 65... Rf8+ $1 $19 66. Ke1 $2 {[#]} (66. Kg2) 66... Bf2+ $1 67. Kd2 {[#]} (
+67. Kf1 $19 Bb6+ 68. Kg2) 67... Rd8+ $1 68. Kc2 Be3 69. Bf3 Rd2+ 70. Kb1 Kb3 (
+70... Bh6 $142 71. Bh5 Kb3 72. Nc1+ Ka3 73. Nd3 Rxd3 74. Kc2 Rh3 75. Bg4 Rb3
+76. Be6 Rg3 77. Bc8 Kb4 78. Kd1 Rg2 79. Ke1 Rh2 80. Kf1 Be3 81. Ke1 Bc5 82. Bb7
+Kc3 83. Be4 Kd4 84. Bg6 Ke3 85. Kd1 Rd2+ 86. Kc1 Ba3+ 87. Kb1 Kd4 88. Bh5 Kc3
+89. Bf3 Bb2 90. Ka2 Rd7 91. Bd1 Ra7+ 92. Ba4 Rxa4+ 93. Kb1 Ra1#) 71. Nc1+ Ka3 {
+( -> ...Rb2+)} 72. Ne2 Rb2+ 73. Ka1 Rb8 {Accuracy: White = 49%, Black = 69%.}
+0-1
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.21"]
+[Round "2.2"]
+[White "Anand, Viswanathan"]
+[Black "Keymer, Vincent"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2774"]
+[BlackElo "2516"]
+[Annotator "TA"]
+[PlyCount "85"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,85,0,10,13,20,16,8,9,12,0,9,5,20,0,9,10,31,32,57,43,57,40,56,51,62,
+62,52,56,66,60,72,67,89,58,75,65,60,31,109,90,98,103,102,83,100,88,102,95,102,
+87,86,84,90,85,80,66,132,127,139,140,224,214,290,290,272,187,272,272,411,410,
+510,510]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 e5 7. Nde2
+Be7 8. O-O O-O 9. Ng3 {B90: Sicilian Najdorf: Unusual White 6th moves, 6 Be3
+Ng4 and 6 Be3 e5} Be6 10. Nd5 Bxd5 11. exd5 {The position is equal.} g6 12. c4
+Nbd7 13. Bh6 Re8 14. Rc1 (14. b4 Bf8 15. Bg5 h6 16. Bd2 e4 {1/2-1/2 (46) Najer,
+E (2683)-Wojtaszek,R (2738) Batumi 2018}) 14... Bf8 $146 ({Predecessor:} 14...
+a5 15. b3 Nc5 16. Bc2 Nfd7 {1-0 (27) Wang,Y (2337)-Zhao,S (2186) China 2018})
+15. Bg5 h6 16. Bd2 a5 17. b3 $36 {[%mdl 2048] White is more active.} h5 18. Re1
+Bg7 19. h3 Qe7 20. Be3 Qf8 21. Qd2 h4 22. Ne2 Nh5 23. Nc3 f5 24. Bg5 Nf4 25.
+Bxf4 ({Don't play} 25. Bxh4 Bh6 $15) 25... exf4 26. Re6 Ne5 ({Black should try
+} 26... Rxe6 $14 27. dxe6 Nc5) 27. Be2 Rxe6 28. dxe6 Re8 29. Qd5 ({Avoid the
+trap} 29. Qxf4 $2 Bh6 $19) 29... Qe7 30. Nb5 ({Stronger than} 30. Qxa5 f3 $17)
+30... Qxe6 31. Qxb7 Re7 32. Qb8+ (32. Qa8+ {with more complications.} Kh7 33.
+Rd1 Nf7 34. Bf1 f3 35. Qxf3 Qe5 36. Nd4) 32... Kh7 {[#] Hoping for ...Nd7.} 33.
+Qxd6 Qxd6 34. Nxd6 Bf8 35. Nb5 Nc6 (35... Rd7 $14) 36. Kf1 $16 Re5 37. a3 Bc5 (
+37... Kg7 $16 38. Bf3 Nb8) 38. Bf3 $18 Nd4 39. Nxd4 Bxd4 40. Rb1 Re6 {[#]} (
+40... Rc5 {was worth a try.} 41. Bd5 Rc8) 41. b4 $1 Rb6 (41... axb4 $142 42.
+axb4 Kh6) 42. Rd1 Bb2 43. c5 {Accuracy: White = 74%, Black = 39%.} 1-0
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.21"]
+[Round "2.3"]
+[White "Caruana, Fabiano"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "2819"]
+[BlackElo "2773"]
+[Annotator "TA"]
+[PlyCount "97"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,97,0,0,0,0,0,12,20,13,0,16,-16,0,-19,0,4,12,0,43,-38,22,16,14,22,18,
+11,45,20,33,0,23,16,19,12,58,8,24,23,47,8,24,24,17,6,19,19,18,23,18,16,27,0,0,
+0,0,0,33,33,33,33,33,33,33,33,33,0,0,0,0,0,0,0,8,8,14,14,16,14,55,0,0,0,0,0,0,
+0,0,0,0,0]} 1. e4 c5 2. Nc3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Qd2 Nf6 6. b3 {
+B23: Closed Sicilian: Lines without g3} e6 7. Bb2 d5 8. exd5 exd5 9. O-O-O {
+[%cal Rc3d5]} Be6 $1 10. a3 $146 ({Predecessor:} 10. Nf3 Qa5 11. Nd4 {1-0 (34)
+Guseinov,G (2664)-Sarana,A (2618) St Petersburg 2018}) 10... Bc5 11. Nf3 O-O
+12. Bd3 Rc8 13. Rhe1 Re8 14. h3 (14. Nb5 $14) 14... Qa5 (14... Qe7 $15) 15. Nb5
+({Wrong is} 15. b4 $2 {[#]} Nxb4 $1 {[%mdl 512]} 16. Bf1 (16. axb4 $2 Bxb4 17.
+Re3 Rxc3 $19) 16... Nc6 $19) 15... Qxd2+ 16. Rxd2 a6 17. Nbd4 Ne4 18. Rde2 Bd7
+19. Kd1 f6 20. Nxc6 Bxc6 21. Nd4 Bd7 22. f3 Ng3 23. Rxe8+ Rxe8 24. c4 dxc4 25.
+Bxc4+ Kf8 26. b4 Bd6 27. Ne6+ Bxe6 $1 28. Rxe6 Rd8 29. Kc2 Nh5 30. Re4 b5 31.
+Bd3 Nf4 32. Bf1 Re8 33. Kb3 Rxe4 34. fxe4 $14 {[%mdl 4096] Endgame KBB-KBN} Ne6
+35. a4 Nc7 36. Bd4 Ke7 37. Be2 Kd7 38. Be3 Be5 39. h4 g6 40. h5 gxh5 41. Bxh5
+Ne6 42. Bg4 Kd6 43. a5 Nd4+ 44. Ka2 (44. Bxd4 $1 $14 Bxd4 45. Bc8) 44... Kc7
+$11 {The position is equal.} 45. Bf2 Nc2 46. Kb3 Nd4+ 47. Ka2 Nc2 48. Kb3 Nd4+
+49. Ka2 {Accuracy: White = 61%, Black = 54%.} 1/2-1/2
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.21"]
+[Round "2.4"]
+[White "Naiditsch, Arkadij"]
+[Black "Svidler, Peter"]
+[Result "0-1"]
+[ECO "C68"]
+[WhiteElo "2695"]
+[BlackElo "2735"]
+[Annotator "TA"]
+[PlyCount "78"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,78,4,18,10,12,12,26,12,37,7,3,4,13,0,0,0,0,0,0,0,0,0,20,-17,0,0,0,-33,
+-30,-45,-33,-59,-52,-52,-31,-66,-67,-79,-76,-66,-67,-98,-91,-89,-87,-83,-85,
+-108,-112,-117,-108,-141,-148,-155,-138,-285,-280,-290,-292,-274,-289,-420,
+-413,-348,-345,-343,-325,-602,-593,-707,-655]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4.
+Bxc6 dxc6 5. O-O Qf6 6. d4 {C68: Ruy Lopez: Exchange Variation, sidelines} exd4
+7. Bg5 Qd6 8. Nxd4 {White has an edge.} Be7 (8... Bd7 9. Nc3 Ne7 10. Be3 c5 11.
+Nde2 Qxd1 12. Rfxd1 Ng6 13. Rd5 Bc6 {1/2-1/2 (55) Naiditsch,A (2710)-Adhiban,B
+(2683) Astana 2019}) 9. Bxe7 (9. Be3 {is more complex.} Nf6 10. f3 O-O 11. Nd2
+Rd8 12. c3) 9... Nxe7 10. Nc3 Bd7 11. Nde2 O-O-O 12. Qc1 Ng6 13. Qe3 Kb8 14.
+Rad1 $146 Qe7 15. f4 Bc8 16. Nc1 (16. h3 {seems wilder.} b6 17. Rd3 Bb7 18.
+Rfd1 c5 19. Nd5) 16... Rxd1 17. Rxd1 b6 18. Nd3 a5 19. Re1 Ba6 20. Nf2 Re8 21.
+a3 f6 22. Ne2 {[%cal Bc3e2,Be2g3,Bg3f5][%mdl 32]} Bb7 23. Ng3 c5 24. Nf5 Qf7
+25. Rd1 Nf8 26. c3 a4 27. h3 Ne6 28. Ng3 Bc6 29. Rd2 Nd8 30. Qd3 Nb7 31. Kh2
+Nd6 32. Rd1 (32. Qe2 $17) 32... h5 $19 33. Re1 h4 34. Nf1 Qb3 35. e5 (35. Nd1
+$142) 35... fxe5 36. fxe5 {intending Nd2.} Qxb2 37. Re2 Qb5 38. Qc2 $2 {[#]} (
+38. Nd2 Qxd3 39. Nxd3) 38... Nc4 39. e6 Nxa3 {Accuracy: White = 28%, Black =
+95%.} 0-1
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.21"]
+[Round "2.5"]
+[White "Meier, Georg"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[WhiteElo "2628"]
+[BlackElo "2763"]
+[Annotator "TA"]
+[PlyCount "57"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,57,0,0,9,8,6,7,10,3,5,3,2,2,2,12,2,10,0,9,2,9,4,10,0,0,0,0,0,0,0,0,0,
+0,0,0,0,16,0,0,0]} 1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6.
+Qe2 e6 7. c3 Be7 8. d4 O-O 9. e5 dxe5 10. dxe5 Nd5 {The position is equal.} 11.
+c4 {B52: Sicilian: Moscow Variation with 3...Bd7} Nb4 12. Nc3 Nc6 13. Rd1 $146
+({Predecessor:} 13. Bf4 a6 14. Rad1 Qc7 15. h4 Rfd8 16. h5 h6 17. g3 Nf8 18.
+Kg2 Rxd1 19. Rxd1 {1/2-1/2 (30) Chang,S (2087)-Carstens Dobuchak,T (2149)
+Brasilia 2016}) 13... a6 14. Bf4 Qc7 15. h4 Rfd8 16. h5 h6 17. b3 Nf8 18. Ne4
+Rxd1+ 19. Rxd1 Rd8 20. Rxd8 Qxd8 21. Ned2 Qa5 22. Ne4 Nd7 23. g3 Kf8 24. Kg2
+Ke8 25. g4 Qc7 26. Kg3 Qa5 27. Kg2 Qc7 28. Kg3 Qa5 29. Kg2 {Accuracy: White =
+56%, Black = 93%.} 1/2-1/2
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.22"]
+[Round "3.1"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "A22"]
+[WhiteElo "2845"]
+[BlackElo "2774"]
+[Annotator "TA"]
+[PlyCount "126"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,126,-7,0,0,-2,-7,0,0,0,-7,-6,-28,77,64,130,116,117,111,124,117,119,
+128,125,118,133,133,139,125,133,132,133,132,133,119,129,129,133,131,132,133,
+133,132,137,127,132,133,175,100,100,99,103,101,104,90,104,104,104,97,104,101,
+100,89,95,103,104,91,102,75,74,74,71,36,60,17,17,17,17,17,17,17,27,3,38,16,8,0,
+0,0,83,3,4,5,62,62,63,63,214,212,210,194,172,164,139,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0]} 1. c4 e5 2. g3 Nf6 3. Nc3 Bb4 4. e4 Bxc3 5. dxc3 d6 6. f3 {A22:
+English Opening: 1...e5 2 Nc3 Nf6} a5 7. Nh3 a4 $146 ({Predecessor:} 7... Na6
+8. Nf2 Nc5 9. Be2 Qe7 10. Qc2 O-O 11. Nd1 Be6 {1/2-1/2 (21) Svidler,P (2736)
+-Tomashevsky,E (2705) Germany 2019}) 8. Nf2 Be6 9. Bd3 Nbd7 10. Qe2 c6 (10...
+Nc5 $11) 11. f4 $16 Nb6 (11... exf4 $14 12. gxf4 Nc5) 12. Be3 c5 13. O-O-O Qe7
+14. f5 Bd7 15. g4 h6 16. h4 O-O-O 17. g5 Ne8 18. Bd2 hxg5 19. hxg5 Nc7 20. Ng4
+Rdg8 21. Rh2 Qf8 22. Rdh1 Kb8 23. b4 axb3 24. axb3 Nc8 25. Kb2 Qd8 26. Rh7 Rxh7
+27. Rxh7 Rh8 28. Qh2 ({Stronger than} 28. Rxg7 Qf8 $11) (28. g6 $18) 28... Rxh7
+29. Qxh7 Qf8 30. Ne3 Ne7 31. Kc2 Qg8 32. Qh4 Qf8 33. Kd1 Nc6 34. Qh7 Ne7 35.
+Ke2 Nc8 36. Kf2 Ne7 37. Be2 Qg8 38. Qh1 g6 {[%cal Rg6f5]} 39. Qh6 Ne8 {[%cal
+Rg6f5]} 40. f6 Nc6 41. b4 Nc7 42. bxc5 dxc5 43. Nd5 Ne6 44. Be3 Ka7 45. Bg4 b6
+46. Nc7 {Bxe6 is the strong threat.} Qc8 $132 {[%mdl 2048] Black is not
+holding back} 47. Nb5+ Kb8 48. Nd6 Qg8 (48... Qa6 $1 $11 {keeps the balance.})
+49. Qh1 (49. Kg1 $16) 49... Qf8 $11 50. Qd1 Ncd8 (50... Na5 $11) 51. Nb5 $14
+Bc6 52. Kg1 Nc7 $2 {[#]} ({Black should try} 52... Bxb5 $14 53. cxb5 Kc7) 53.
+Bf2 $1 $18 {aiming for Bg3.} Nb7 54. Bg3 Bxb5 55. cxb5 Qd6 56. Qe2 ({Better is
+} 56. Kg2 $16 {Black must now prevent Qxd6.} Qxd1 57. Bxd1 Nxb5 58. Bxe5+ Kc8
+59. Kg3) 56... Ne6 $11 {The position is equal.} 57. Bxe6 Qxe6 58. Qh2 Qg4 {
+[%mdl 64] [#] Strongly threatening ...Nd6. Double Attack} 59. Kf2 {Hoping for
+Qh8+.} Qxe4 60. Bxe5+ Kc8 61. Qh3+ Kd8 62. Qh8+ Kd7 63. Qh3+ Kd8 {Accuracy:
+White = 58%, Black = 54%.} 1/2-1/2
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.22"]
+[Round "3.2"]
+[White "Svidler, Peter"]
+[Black "Meier, Georg"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2735"]
+[BlackElo "2628"]
+[Annotator "RC"]
+[PlyCount "73"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. e4 {[%emt 0:00:00]} e6 {[%emt 0:00:00]} 2. d4 {[%emt 0:00:00]} d5 {[%emt 0:
+00:00]} 3. Nc3 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 4. e5 {[%emt 0:01:05]}
+Nfd7 {[%emt 0:00:00]} 5. f4 {[%emt 0:00:08]} c5 {[%emt 0:00:00]} 6. Nf3 {
+[%emt 0:00:06]} Nc6 {[%emt 0:00:03]} 7. Be3 {[%emt 0:00:15]} cxd4 {[%emt 0:00:
+14]} 8. Nxd4 {[%emt 0:00:03]} Qb6 {[%emt 0:00:21]} 9. Qd2 {[%emt 0:01:21]} Qxb2
+{[%emt 0:00:10]} 10. Rb1 {[%emt 0:00:09]} Qa3 {[%emt 0:00:05]} 11. Bb5 {
+[%emt 0:00:42]} Nxd4 {[%emt 0:00:13]} 12. Bxd4 {[%emt 0:00:05]} Bb4 {[%emt 0:
+00:11]} 13. Rb3 {[%emt 0:15:09]} Qa5 {[%emt 0:00:54]} 14. a3 {[%emt 0:02:42]}
+Be7 {[%emt 0:02:04]} 15. f5 {[%emt 0:05:34]} exf5 {[%emt 0:00:41]} 16. Nxd5 {
+[%emt 0:01:33]} Qxd2+ {[%emt 0:00:13]} 17. Kxd2 {[%emt 0:00:06]} Bd8 {[%emt 0:
+00:08]} 18. Rc3 {[%emt 0:22:46]} Ba5 {[%emt 0:46:29]} 19. Nc7+ {[%emt 0:06:35]}
+Bxc7 {[%emt 0:00:16]} 20. Rxc7 {[%emt 0:00:04]} Kd8 {[%emt 0:01:32]} 21. Rc3 {
+[%emt 0:01:30]} Nf8 {[%emt 0:09:21]} 22. Bc5 {[%emt 0:06:20]} Bd7 {[%emt 0:02:
+08]} 23. Bxf8 {[%emt 0:00:49]} Bxb5 {[%emt 0:00:13]} 24. Bxg7 {[%emt 0:00:03]}
+Rg8 {[%emt 0:00:33]} 25. Bf6+ {[%emt 0:00:48]} Kd7 {[%emt 0:01:14]} 26. Rd1 {
+[%emt 0:04:15]} f4 {[%emt 0:08:49]} 27. g3 {[%emt 0:04:25]} fxg3 {[%emt 0:08:
+30]} 28. Kc1+ {[%emt 0:01:44]} Ke8 {[%emt 0:00:13]} 29. hxg3 {[%emt 0:00:32]}
+Bc6 {[%emt 0:09:56]} 30. Rd4 {[%emt 0:04:23]} Rg6 {[%emt 0:08:54]} 31. Rcd3 {
+[%emt 0:02:58]} Kf8 {[%emt 0:00:07]} 32. Rh4 {[%emt 0:00:18]} h6 {[%emt 0:00:
+07]} 33. g4 {[%emt 0:00:48]} Bb5 {[%emt 0:03:32]} 34. Rd2 {[%emt 0:01:36]} Re8
+{[%emt 0:04:43]} 35. g5 {[%emt 0:00:51]} Rxg5 {[%emt 0:00:06]} 36. Rxh6 {
+[%emt 0:00:11]} Rg8 {[%emt 0:00:37]} 37. Rdh2 {[%emt 0:00:14]} 1-0
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.22"]
+[Round "3.3"]
+[White "Keymer, Vincent"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[ECO "E16"]
+[WhiteElo "2516"]
+[BlackElo "2819"]
+[Annotator "TA"]
+[PlyCount "84"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,84,41,28,28,24,37,34,51,48,41,30,34,36,38,29,27,33,38,27,31,6,26,28,
+30,24,60,33,59,23,27,26,26,26,40,40,19,26,31,28,22,20,48,51,32,74,99,99,60,0,2,
+31,179,150,124,50,152,146,95,0,0,-8,-29,-13,0,-518,-525,-468,-320,-824,-688,
+-669,-666,-1110,-1080]} 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. g3 Nc6 6.
+a3 Bxd2+ 7. Qxd2 d5 {E11: Bogo-Indian} 8. Bg2 O-O (8... dxc4 9. Qc3 e5 10. dxe5
+Ng4 11. O-O O-O 12. Qxc4 Ncxe5 13. Nxe5 Nxe5 14. Qb4 Qxb4 15. axb4 {1-0 (44)
+Fridman,D (2591)-Almasi,Z (2702) Batumi 2018}) 9. O-O b6 $146 {White is
+slightly better.} ({Predecessor:} 9... dxc4 10. Qc3 e5 11. dxe5 Ng4 12. Qxc4
+Ncxe5 13. Nxe5 Qxe5 14. Nc3 c6 15. Rad1 {1/2-1/2 (28) Bellegotti,G (2415)-De
+Filippis,F (2398) ICCF email 2016}) 10. Qc2 Bb7 11. cxd5 exd5 12. Nc3 Nd8 {
+[%cal Bc6d8,Bd8e6,Be6f8,Bf8d7][%mdl 32]} 13. e3 c5 14. Rfd1 Ne6 15. Rac1 Rfd8
+16. Qb1 Rac8 17. b4 c4 18. Ne5 g6 19. h4 Nf8 20. Qb2 N8d7 21. f4 a6 22. Bh3 b5
+23. g4 Nxe5 24. fxe5 Ne4 25. Nxe4 dxe4 26. g5 {d5 is the strong threat.} Rc7
+27. Rf1 Bd5 28. Rf6 Rc6 29. Qf2 a5 30. h5 (30. Rf1 $14) 30... axb4 $11 (30...
+gxh5 $6 31. Qh4 $16) 31. axb4 Rf8 (31... Ra8 $1 $14) 32. Rf1 c3 ({Wrong is} 
+32... Qxb4 $2 33. Rxc6 Qe7 34. Rd6 $18) 33. Kh2 (33. Qf4 $16) 33... Ra8 {[#]} (
+{But not} 33... gxh5 $2 34. Qe2 $18) ({Don't go for} 33... Qxb4 $2 34. Rxc6
+Bxc6 35. Qf6 $18) (33... Rc7 $14) 34. hxg6 $1 $16 hxg6 {[#]} 35. Rxc6 (35. Kg3
+$1 $16) 35... Bxc6 $11 36. Rc1 {Black must now prevent Qf6.} Qxb4 {Hoping for .
+..Bd5.} 37. Kg3 {Threatening Qf6.} Qa3 38. Rh1 $2 {[%mdl 8192] [#]} (38. Rc2 $1
+$11 Qb3 39. Qf6) 38... c2 $1 $19 {[%cal Rc2c1][%mdl 512]} 39. e6 (39. Qxc2
+Qxe3+) 39... Be8 40. Qd2 $2 (40. Rf1 Ra7 41. Qxc2 Qxe3+ {[%mdl 64] Double
+Attack} 42. Kh2 Qxd4 43. Qf2) 40... Qd3 {Black is clearly winning.} 41. Qf2 {
+intending Qf4.} Ra3 42. Kf4 Qd1 {Accuracy: White = 52%, Black = 56%.} 0-1
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.22"]
+[Round "3.4"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Naiditsch, Arkadij"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2773"]
+[BlackElo "2695"]
+[Annotator "RC"]
+[PlyCount "84"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:00]} 3. Bb5 {[%emt 0:00:00]} Nf6 {[%emt 0:00:02]} 4. O-O {[%emt 0:
+00:00]} Nxe4 {[%emt 0:00:15]} 5. d4 {[%emt 0:00:00]} Nd6 {[%emt 0:00:12]} 6.
+Bxc6 {[%emt 0:00:00]} dxc6 {[%emt 0:00:09]} 7. dxe5 {[%emt 0:00:00]} Nf5 {
+[%emt 0:00:12]} 8. Qxd8+ {[%emt 0:00:00]} Kxd8 {[%emt 0:00:09]} 9. h3 {[%emt 0:
+00:02]} Ne7 {[%emt 0:03:41]} 10. Rd1+ {[%emt 0:00:47]} Ke8 {[%emt 0:00:12]} 11.
+Nc3 {[%emt 0:00:09]} Ng6 {[%emt 0:04:58]} 12. b3 {[%emt 0:00:26]} Be7 {[%emt 0:
+03:12]} 13. Ne4 {[%emt 0:02:33]} a5 {[%emt 0:11:33]} 14. Re1 {[%emt 0:04:46]}
+a4 {[%emt 0:08:29]} 15. Bb2 {[%emt 0:01:11]} Be6 {[%emt 0:17:44]} 16. Nd4 {
+[%emt 0:03:27]} Nf4 {[%emt 0:03:43]} 17. Rad1 {[%emt 0:07:58]} h5 {[%emt 0:23:
+27]} 18. h4 {[%emt 0:11:52]} Nd5 {[%emt 0:08:11]} 19. c4 {[%emt 0:08:04]} Nb4 {
+[%emt 0:00:36]} 20. a3 Na6 {[%emt 0:00:06]} 21. b4 {[%emt 0:04:53]} c5 {
+[%emt 0:05:42]} 22. Nxe6 {[%emt 0:02:38]} fxe6 {[%emt 0:00:07]} 23. b5 {
+[%emt 0:00:05]} Nb8 {[%emt 0:00:05]} 24. f4 {[%emt 0:12:33]} Rf8 {[%emt 0:02:
+39]} 25. Nf6+ {[%emt 0:06:10]} gxf6 {[%emt 0:05:10]} 26. exf6 {[%emt 0:00:15]}
+Bd6 {[%emt 0:00:29]} 27. Rxe6+ {[%emt 0:09:18]} Kf7 {[%emt 0:00:25]} 28. Rde1 {
+[%emt 0:05:19]} Rd8 {[%emt 0:02:18]} 29. g4 {[%emt 0:00:13]} hxg4 {[%emt 0:03:
+03]} 30. h5 {[%emt 0:00:29]} Nd7 {[%emt 0:00:39]} 31. Re7+ {[%emt 0:17:42]}
+Bxe7 {[%emt 0:00:07]} 32. Rxe7+ {[%emt 0:00:04]} Kg8 {[%emt 0:00:08]} 33. Rg7+
+{[%emt 0:01:48]} Kh8 {[%emt 0:00:12]} 34. f7 {[%emt 0:00:49]} Rf8 {[%emt 0:01:
+22]} 35. f5 {[%emt 0:02:40]} Nb6 {[%emt 0:01:02]} 36. Bf6 {[%emt 0:02:06]} Nxc4
+{[%emt 0:01:34]} 37. Rxg4+ {[%emt 0:00:50]} Kh7 {[%emt 0:00:05]} 38. Rg7+ {
+[%emt 0:00:04]} Kh6 {[%emt 0:00:45]} 39. Rg6+ {[%emt 0:00:03]} Kh7 {[%emt 0:01:
+13]} 40. Rg7+ {[%emt 0:00:00]} Kh6 {[%emt 0:00:00]} 41. Rg6+ {[%emt 0:00:06]}
+Kh7 {[%emt 0:05:32]} 42. Rg7+ {[%emt 0:00:32]} Kh6 {[%emt 0:00:07]} 1/2-1/2
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.22"]
+[Round "3.5"]
+[White "Aronian, Levon"]
+[Black "Vallejo Pons, Francisco"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "2763"]
+[BlackElo "2693"]
+[Annotator "TA"]
+[PlyCount "62"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,62,13,10,17,12,23,10,22,31,7,31,36,0,22,22,19,20,13,17,22,-50,-48,
+-41,-57,-52,-42,-85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 e6 2. d4 d5 3.
+Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4 Qb6 9. Qd2 Qxb2 10.
+Rb1 Qa3 11. Bb5 $1 {Threatens to win with Rb3.} Nxd4 {C11: French: Classical
+System: 4 e5 and 4 Bg5 dxe4} 12. Bxd4 a6 13. Bxd7+ Bxd7 14. Rb3 Qe7 $1 15. Rxb7
+Rc8 {[#]} 16. Qe3 $146 ({Predecessor:} 16. O-O Qd8 {1/2-1/2 (32) Shirov,A 
+(2631)-Forcen Esteban,D (2569) Linares 2018}) 16... Qd8 17. O-O Rc4 18. Rfb1
+Be7 19. f5 Bg5 20. Qf2 ({White should try} 20. Qd3 $11 O-O 21. Ne4) 20... exf5
+$15 21. e6 fxe6 {Hoping for ...Bf6.} 22. Bxg7 Rg8 23. Be5 {[#]} d4 $1 {[%mdl
+512]} 24. Qe2 $36 {[%mdl 2048] The position is equal. White has some pressure.}
+(24. Bxd4 Bc8) 24... Be3+ 25. Kf1 $1 {And now Qh5+ would win.} Qh4 26. Rxd7 $1
+Kxd7 27. Rb7+ Ke8 $1 ({Not} 27... Kd8 $2 28. Rb8+ Ke7 29. Rxg8 $18) 28. Rb8+ $1
+Kf7 29. Rb7+ Ke8 30. Rb8+ $1 Kf7 31. Rb7+ Ke8 {Accuracy: White = 76%, Black =
+88%.} 1/2-1/2
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.23"]
+[Round "4.1"]
+[White "Caruana, Fabiano"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "B34"]
+[WhiteElo "2819"]
+[BlackElo "2845"]
+[Annotator "TA"]
+[PlyCount "142"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,142,30,43,35,29,41,39,35,18,17,5,19,18,16,21,37,16,11,10,15,18,16,16,
+18,8,46,14,9,0,0,0,0,-31,-20,-18,-30,-29,12,14,2,-22,-21,-8,-8,-8,-8,-8,-8,-19,
+-19,-23,-24,-67,-58,-62,-58,-73,-20,-12,-9,-9,-13,-28,-28,-27,-20,-20,-20,-20,
+-20,-20,-17,-68,-68,-68,-67,-68,-68,-68,-67,-68,-68,-68,-68,-68,-68,-68,-68,
+-68,-68,-68,-68,-68,-68,-68,-68,-68,-68,-68,-68,-68,-68,-70,-70,-70,-70,-70,
+-70,-70,-70,-70,-70,-70,-70,-70,-70,-70,-68,-70,-68,-70,-8,-8,-8]} 1. e4 c5 2.
+Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8. exd5 Ne7 9.
+c4 Ng6 10. Qa4 Bd7 11. Qb4 Bf5 {B33: Sicilian: Pelikan and Sveshnikov
+Variations} 12. h4 h5 13. Bg5 (13. Be3 a6 14. Nc3 Qc7 15. g3 Be7 16. f3 Nf8 17.
+Ne4 {1/2-1/2 (31) Caruana,F (2832)-Carlsen,M (2835) London 2018}) 13... Qb8 {
+[#] White is slightly better.} 14. Qa4 $146 {[%cal Rb5d6]} ({Predecessor:} 14.
+Be2 a6 15. Nc3 Qc7 16. g3 Be7 17. Be3 e4 18. O-O O-O 19. Bxh5 {0-1 (39)
+Karjakin,S (2753)-Carlsen,M (2845) Shamkir 2019}) 14... Bd7 {...a6 is the
+strong threat.} 15. Qc2 Bxb5 16. cxb5 Be7 17. Bd3 Nf8 18. b6 {Hoping for Bb5+.}
+Nd7 19. bxa7 Qxa7 20. O-O Bxg5 21. hxg5 O-O 22. Bf5 Rad8 23. b4 Qd4 24. Qc7 Nb6
+25. Rad1 Qf4 $1 26. Bh3 Na4 $1 ({Stronger than} 26... Qxb4 27. g6 $16) 27. g6
+fxg6 28. Qc2 $1 {[%cal Rc2a4][%mdl 64] [#] Double Attack} b5 29. Qxg6 Rf6 $132
+{[%mdl 2048] Black is not holding back} 30. Qxh5 g6 31. Qg4 Qxg4 32. Bxg4 Rf4
+33. Be6+ Kg7 34. Rc1 Rxb4 35. Rc7+ Kh6 36. g3 Nc5 37. f4 exf4 38. Rxf4 Rxf4 ({
+Better is} 38... Rb1+ $17 39. Kg2 Rb2+ 40. Kh3 Rxa2) 39. gxf4 $15 {[%mdl 4096]
+Endgame KRB-KRN} Ra8 40. Rc6 $1 Ne4 41. Bh3 Rxa2 42. Bg2 Ng3 {aiming for ...
+Ne2+.} 43. Rxd6 Ne2+ 44. Kf1 Nxf4 45. Be4 Ra4 46. Bxg6 (46. Bf3 $11) 46... Nxg6
+$11 {KRN-KR} 47. Rb6 Rf4+ 48. Ke1 b4 {Strongly threatening ...Kg5.} 49. d6 Rd4
+{[#]} 50. d7 $1 {[%mdl 512]} Rxd7 {White must now prevent ...Rd4.} 51. Rxb4 Kg5
+52. Ke2 Re7+ 53. Kd2 Kf5 54. Rb5+ Ne5 55. Rb4 Rd7+ 56. Ke2 Nd3 57. Ra4 Nf4+ 58.
+Ke1 Kg4 59. Ra3 Rd8 60. Rc3 Rh8 61. Ra3 Rh2 62. Kd1 Kf5 63. Re3 Nd5 64. Re8 Kf4
+65. Kc1 Nc3 66. Re7 Ne4 67. Re8 Ke3 68. Re7 Rh6 69. Rc7 Kd3 70. Rd7+ Rd6 (70...
+Kc3 $15 71. Rc7+ Kd3) 71. Rxd6+ Nxd6 {Accuracy: White = 67%, Black = 79%.}
+1/2-1/2
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.23"]
+[Round "4.2"]
+[White "Naiditsch, Arkadij"]
+[Black "Keymer, Vincent"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "2695"]
+[BlackElo "2516"]
+[Annotator "TA"]
+[PlyCount "71"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,71,8,14,25,24,7,26,0,0,0,-7,-16,-6,-16,-8,-39,-35,-31,-28,-28,-23,-40,
+-33,-37,-26,-22,-8,-36,-30,-52,-2,-29,-25,-57,0,0,0,0,0,-10,60,77,250,199,185,
+168,167,181,1020,990,2577,2558,1595,901,912,865,1107,1093,971,940,29989,29990,
+29998,29999]} 1. e4 c5 2. Nc3 a6 3. Nge2 (3. Nf3 d6 4. d4 cxd4 5. Nxd4 Nf6 6.
+Be3 Ng4 7. Bc1 Nc6 8. Be2 Qb6 9. Bxg4 Bxg4 10. Qxg4 Qxd4 11. O-O e6 12. Rd1 Qf6
+13. Qg3 Qg6 14. Bf4 Qxg3 15. Bxg3 {0-1 (67) Guseinov,G (2664)-Artemiev,V (2709)
+Skopje 2018}) 3... d6 4. a4 Nf6 5. g3 Nc6 6. Bg2 {B23: Closed Sicilian: Lines
+without g3} e6 7. O-O Be7 8. f4 {White has an edge.} O-O 9. d3 Rb8 10. h3 Nd7
+$146 ({Predecessor:} 10... Qc7 11. g4 {1-0 (47) Leiro Giralt,D (2174)-Cuadras
+Avellana,J (2250) Barcelona 2019}) 11. g4 h6 12. Ng3 Bh4 13. Nce2 b5 14. Kh2 b4
+15. Be3 a5 16. Qd2 Ba6 17. b3 Qe7 18. Rg1 Rbc8 19. Raf1 g6 20. e5 d5 21. f5
+Ncxe5 22. Bxh6 Rfe8 23. fxg6 fxg6 24. g5 Nf7 (24... Bxg3+ $11 25. Nxg3 c4 26.
+dxc4 dxc4) 25. Qf4 $14 Nxh6 $2 (25... Bxg3+ $16 {was worth a try.} 26. Qxg3 c4)
+26. Qxh4 $18 Nf7 27. Nh5 gxh5 {[#]} 28. Rf6 $1 {[%mdl 512]} Nxf6 $2 (28... Nf8)
+29. gxf6 {White threatens Qg3+ and mate.} Qd6+ 30. Nf4 {[%cal Be2f4,Bf4g6,
+Bg6e5,Be5g4,Bg4f6][%mdl 32] Qg3+ would kill now.} Kf8 31. Qg3 {[%csl Gf6][%cal
+Rg3g7]} Red8 32. Re1 e5 33. Ng6+ Ke8 34. Nxe5 Qxf6 35. Ng4+ {[%mdl 64]
+Discovered Attack} Qe7 {[#]} 36. Nf6+ $1 {[%mdl 576] Double Attack. Accuracy:
+White = 57%, Black = 26%.} 1-0
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.23"]
+[Round "4.3"]
+[White "Aronian, Levon"]
+[Black "Svidler, Peter"]
+[Result "1-0"]
+[ECO "C88"]
+[WhiteElo "2763"]
+[BlackElo "2735"]
+[Annotator "TA"]
+[PlyCount "75"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,75,22,21,19,25,15,24,20,22,4,25,22,26,20,22,34,21,21,87,61,79,32,97,
+99,106,94,173,172,189,179,181,184,219,220,205,194,191,203,215,216,202,200,225,
+225,208,206,214,192,192,200,196,196,187,177,221,209,239,223]} 1. e4 e5 2. Nf3
+Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4 b4 9. d4 d6 10.
+dxe5 dxe5 11. Nbd2 {C88: Closed Ruy Lopez: Anti-Marshall Systems} Bc5 12. a5 h6
+13. h3 {White has an edge.} Qd6 14. Qe2 Be6 15. Nc4 Qe7 16. Be3 Rab8 {[#]} 17.
+Bxc5 $146 ({Predecessor:} 17. Red1 Nxe4 18. Ba4 Ng3 19. fxg3 Bxc4 20. Qxc4
+Bxe3+ {1/2-1/2 (41) Karjakin,S (2770)-Svidler,P (2743) Kazan 2014}) 17... Qxc5
+18. Ncd2 $36 {[%mdl 2048] White is more active.} Rfe8 (18... Bd7 $11 {keeps
+the balance.}) 19. Qxa6 $16 {Ba4 is the strong threat.} Ra8 20. Qe2 {aiming
+for Bxe6.} Nxa5 (20... Rxa5 $14 21. Bxe6 Rxa1 22. Bxf7+ (22. Rxa1 Rxe6 23. Nb3
+Qd6 $14) 22... Kxf7 23. Rxa1 Qxc2) 21. Bxe6 fxe6 22. Ra4 Ra7 (22... Nd7 $16)
+23. Qe3 $18 {White is clearly better.} Qxe3 24. Rxe3 c5 25. Nxe5 Nc6 26. Rxa7
+Nxa7 27. Rd3 Nb5 28. f3 Ra8 29. Nb3 Rc8 {next ...c4 is good for Black.} 30. Nc4
+Kf8 31. Kf2 Ke7 32. Rd1 g5 33. Ra1 Nd7 34. Ke3 Nd6 35. Nxd6 Kxd6 36. Ra6+ Ke7
+37. Na5 Ne5 38. g3 {Accuracy: White = 94%, Black = 49%.} 1-0
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.23"]
+[Round "4.4"]
+[White "Vallejo Pons, Francisco"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "B11"]
+[WhiteElo "2693"]
+[BlackElo "2774"]
+[Annotator "TA"]
+[PlyCount "64"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,94,0,0,0,0,0,-2,4,0,-7,15,7,12,0,0,-8,0,0,0,0,0,0,38,41,72,65,73,-6,
+10,-18,0,0,26,-49,-12,-126,-116,-114,-120,-126,-117,-186,-189,-198,-175,-170,
+-162,-185,-159,-169,-175,-186,-184,-251,-251,-302,-295,-381,-321,-475,-379,
+-771,-787,-831,-828,-828,-782,-1010,-539,-865,-926,-904,-910,-847,-862,-856,
+-836,-1095,-1103,-12848,-12843,-6107,-6003,-5998,-5987]} 1. e4 c6 2. Nc3 d5 3.
+Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. g3 Nf6 7. a3 {B11: Caro-Kann: Two Knights
+Variation} (7. Bg2 Be7 8. O-O O-O 9. Qe2 a5 10. d3 Na6 11. f4 Nc7 12. g4 dxe4
+13. dxe4 Nb5 14. Nxb5 cxb5 15. Be3 Qc7 16. Qxb5 {1-0 (35) Nakamura,H (2777)
+-Aronian,L (2767) chess.com INT 2018}) 7... Bc5 8. d3 O-O 9. Bg2 {The position
+is equal.} Nbd7 10. O-O b5 11. Qd1 $146 ({Predecessor:} 11. Qe2 a5 12. Bd2 Bd4
+13. Nd1 dxe4 14. dxe4 Ne5 15. Bf4 Nc4 16. c3 Bc5 {1-0 (39) Aguiar,H (2028)
+-Koekemoer,B Caldas Novas 2011}) 11... Qb6 12. Qe2 a5 13. Kh1 d4 14. Nb1 e5 15.
+Nd2 Bd6 16. f4 Qc7 17. f5 Nb6 18. g4 c5 19. Nf3 (19. g5 $16 Nfd7 20. Qh5) 19...
+c4 $11 20. Bg5 Nfd7 21. f6 g6 22. Bh6 (22. h4 $11) 22... Rfc8 23. Ng5 {[#]} (
+23. Bg7 $11) 23... Bf8 $1 $17 24. Bxf8 Nxf8 25. Qe1 {And now Qh4 would win.}
+Nbd7 26. a4 (26. c3 $17 {keeps fighting.}) 26... bxa4 $19 27. Rxa4 cxd3 28.
+cxd3 h6 29. Nf3 Ne6 ({Don't take} 29... Nxf6 30. Rc4 $15) 30. Qh4 Kh7 31. g5 h5
+32. Raa1 (32. Rfa1 $142) 32... Nf4 {Played: Qc7-c2} 0-1
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.23"]
+[Round "4.5"]
+[White "Meier, Georg"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[ECO "D90"]
+[WhiteElo "2628"]
+[BlackElo "2773"]
+[Annotator "TA"]
+[PlyCount "188"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,188,12,26,18,24,-9,8,-11,-11,-11,-17,-6,14,-13,22,14,29,0,0,0,0,0,0,
+-11,-15,-5,-5,-6,-8,-12,0,0,34,33,24,20,25,14,27,27,62,66,80,32,30,43,38,2,2,2,
+5,8,8,8,8,5,4,-8,-8,-77,-16,-75,-75,-69,-90,-146,-135,-125,-129,-133,-137,-115,
+-43,-40,-22,-22,-22,-32,-22,-22,-22,-22,-22,-22,-22,-22,-22,-22,-8,-8,-8,-8,0,
+-8,-8,-8,-8,-14,-8,-8,-8,-22,0,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-24,-25,-31,
+-31,-66,-59,-68,-66,-66,-49,-49,-43,-68,-68,-80,-87,-71,-71,-653,-663,-1819,
+-1549,-580,-576,-2220,-1350,-910,-522,-494,-438,-2018,-2011,-5408,-4199,-903,
+-5506,-4586,-106,-106,-232,-29974,-138,-29975,-29976,-29976,-29977,-29969,
+-29970,-29970,-29971,-29971,-29972,-29972,-29973,-29970,-29974,-29968,-29975,
+-29975,-29976,-29971,-29976,-29976,-29977,-29978,-29978]} 1. d4 Nf6 2. c4 g6 3.
+Nc3 d5 4. Nf3 Bg7 5. h3 (5. h4 c6 6. cxd5 cxd5 7. Bf4 O-O 8. e3 Nc6 9. Qb3 Na5
+10. Qa3 Nc6 11. Qb3 Na5 12. Qa3 Nc6 {1/2-1/2 (34) Swiercz,D (2655)
+-Nepomniachtchi,I (2771) Astana 2019}) 5... dxc4 6. e4 {D90: Grünfeld: 4 Nf3
+Bg7 sidelines} c5 7. d5 O-O 8. Bxc4 {The position is equal.} b5 $146 {[%cal
+Rb5c4]} ({Predecessor:} 8... a6 9. a4 Nfd7 10. a5 b5 11. axb6 Qxb6 12. O-O Ne5
+13. Nxe5 Bxe5 {1-0 (33) Radin,D (2043)-Gajcin,S (1755) Novi Sad 2016}) 9. Nxb5
+Nxe4 10. O-O Ba6 11. Qe2 Nd6 12. Nxd6 Qxd6 13. Re1 Bxc4 14. Qxc4 Rd8 15. Bf4
+Qxd5 16. Qxd5 Rxd5 17. Rxe7 {Hoping for Re8+.} Nc6 18. Re2 Nb4 19. Rae1 {
+Black must now prevent Re8+.} h6 20. b3 Kh7 21. Re7 Rf5 22. Bg3 {aiming for
+Nh4.} g5 23. Ne5 Kg8 24. Nc4 Bd4 25. R1e2 Nd5 26. Re8+ Rxe8 27. Rxe8+ Kh7 28.
+Ra8 Nc3 29. Rxa7 Ne2+ 30. Kh2 Bxf2 31. Bxf2 Rxf2 $11 {[%mdl 4096] Endgame
+KRN-KRN} 32. Ne5 Nf4 33. Rxf7+ Kg8 34. Rf6 (34. Kg3 $11 Rxa2 35. Rb7) 34...
+Rxg2+ $17 35. Kh1 {And now Rxf4! would win.} Re2 $1 {[%cal Re2e5]} 36. Nd7 Kg7
+{Strongly threatening ...Rd2.} ({Don't play} 36... Nxh3 37. Rxh6 Nf2+ 38. Kg2
+$11) 37. Ra6 (37. Rc6 $142) 37... Nxh3 38. Nxc5 Nf4 39. Ra4 Kg6 40. Ne4 Rb2 ({
+Black should try} 40... Re3 $17 41. Kg1 Kf5 42. Nd6+ Kg4) 41. Ng3 $1 $15 Kf6
+42. Ra6+ Ne6 43. Ra4 Nc5 44. Ra5 Nd3 45. Ra6+ Ke5 46. Rxh6 Rxa2 47. Rh8 Rb2 48.
+Rf8 g4 49. Kg1 Rxb3 50. Re8+ Kd5 51. Rd8+ Ke6 52. Re8+ Kf6 53. Rf8+ Ke7 54. Rg8
+Rb1+ 55. Kg2 Nf4+ 56. Kf2 Rb2+ 57. Ke3 Nd5+ 58. Kd4 Nf6 59. Rg5 Ke6 60. Re5+
+Kf7 61. Rg5 Rb4+ 62. Ke5 Nh7 63. Rf5+ Kg6 {...Rb3 is the strong threat.} 64.
+Rf1 Rb3 65. Ne2 Rb5+ 66. Kd4 Ng5 67. Nf4+ Kf5 {Threatens to win with ...Rb4+.}
+68. Ng2+ Nf3+ 69. Ke3 Rb3+ 70. Kf2 Nh2 71. Ra1 $2 {[%mdl 8192]} (71. Rc1 $17)
+71... g3+ $19 72. Kg1 Nf3+ 73. Kh1 Rb2 $1 {[%cal Rb2d2]} 74. Ra5+ Ke4 $1 75.
+Ra1 Nd4 76. Kg1 Rf2 77. Ra4 Ke5 78. Ra5+ Kd6 79. Ra6+ Kc5 (79... Ke7 $142 80.
+Ra7+ Ke6 81. Ra6+ Kf7 82. Ra7+ Kg6) 80. Ra5+ Kb4 $2 (80... Kc6 $19 {and Black
+stays clearly on top. ( -> ...Nf3+)} 81. Ra1 Kd6) 81. Ra1 $17 Kb3 (81... Ne2+
+$17 82. Kh1 Kc4 83. Ra4+ Kd3 84. Ra3+ Kd4 85. Ra4+ Kd3) 82. Rd1 $2 (82. Kh1 $19
+) 82... Nf3+ $1 83. Kh1 Kb2 $1 {Black mates.} 84. Rg1 Nxg1 85. Kxg1 {KR-KN} Kc3
+86. Ne3 Kd3 87. Nf1 Ke2 ({Not} 87... Rf3 88. Kg2 $15) 88. Nxg3+ Kf3 89. Nf5 Rd2
+90. Nh4+ Kg3 {[%cal Rd2d1]} 91. Nf5+ {[#]} Kg4 $1 92. Ne3+ {[#]} Kf3 $1 93. Nf5
+Rd5 94. Ne7 Rc5 {Accuracy: White = 66%, Black = 70%.} 0-1
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.24"]
+[Round "5.1"]
+[White "Carlsen, Magnus"]
+[Black "Naiditsch, Arkadij"]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[WhiteElo "2845"]
+[BlackElo "2695"]
+[Annotator "TA"]
+[PlyCount "119"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,119,15,32,20,12,16,15,11,28,6,16,6,12,6,17,3,5,4,8,10,14,2,18,12,14,
+0,0,0,7,0,0,5,18,0,16,16,31,19,36,0,3,3,28,0,0,0,0,0,0,0,0,-7,0,0,7,0,0,0,0,0,
+36,34,32,36,33,35,20,27,79,79,102,99,93,20,20,21,24,11,16,0,0,0,80,80,80,91,91,
+91,91,0,0,0,0,0,0,0,8,0,0,0,6,0,0,0,0,0,0,0]} 1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4.
+g3 Bb4 5. Nd5 a5 6. Bg2 O-O 7. O-O Re8 8. d3 {A29: English Opening: Four
+Knights Variation with 4 g3} (8. e3 Bf8 9. d4 d6 10. h3 h6 11. Nxf6+ Qxf6 12.
+d5 Nb4 13. e4 Bd7 14. Be3 Qg6 15. Qb1 Na6 {1-0 (42) Inarkiev,E (2727)-Zhigalko,
+S (2639) Poikovsky 2017}) 8... Nxd5 9. cxd5 Nd4 10. Nxd4 $146 ({Predecessor:} 
+10. Nd2 c6 11. e3 Nf5 12. a3 Bf8 13. b3 cxd5 14. Bxd5 Ne7 15. Bg2 d5 {1/2-1/2 
+(47) Jonckheere,P (2382)-Pakenas,P (2423) ICCF email 2005}) 10... exd4 11. e4
+c6 12. Bf4 cxd5 13. a3 Bc5 14. b4 Bf8 15. exd5 d6 16. bxa5 Qxa5 17. Bd2 Qa6 18.
+Qf3 g6 19. Bb4 Bf5 20. Rad1 Re5 21. g4 Bd7 22. Qf4 h5 23. h3 hxg4 24. hxg4 Qb6
+25. Bf3 Ba4 26. Rc1 Bg7 27. Kg2 Bb3 28. Rh1 Bxd5 29. Bxd5 Rxd5 30. Rh3 Qd8 31.
+Qf3 Rb5 32. Qg3 Qg5 33. Rc7 Rd8 34. Rh1 Qd5+ 35. Qf3 Qxf3+ 36. Kxf3 d5 37. Rhc1
+Be5 38. Rc8 Rxc8 39. Rxc8+ $14 {[%mdl 4096] Endgame KRB-KRB} Kg7 40. g5 f6 (
+40... f5 $11 {remains equal.}) 41. Re8 $16 {[%mdl 1024] White has strong
+compensation.} Rb6 42. Re7+ Kg8 43. Kg4 (43. Kg2 $16) 43... f5+ $1 $11 44. Kf3
+Bh2 45. Rd7 Rb5 46. Bd6 Bxd6 47. Rxd6 {KR-KR} Rb3 (47... Kf7 $11) 48. Rxg6+ $16
+Kh7 49. Rh6+ Kg7 50. Kf4 Rxd3 {[#]} 51. a4 (51. Rd6 $1 $16) 51... Rc3 $11 {
+The position is equal.} 52. Rd6 Rc5 53. Rd7+ Kg6 54. Rxb7 {aiming for Rb6+.}
+Rc6 55. a5 {[#] Threatening mate with Rb6.} d3 {White must now prevent ...d2.}
+56. Ke3 {White wants to mate with Rb6.} Rc5 57. f4 {a6 is the strong threat.}
+d2 $1 {[%cal Rd2d1]} 58. Kxd2 {Hoping for a6.} Rxa5 59. Rd7 Kh5 60. Ke3 {
+Accuracy: White = 54%, Black = 69%.} 1/2-1/2
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.24"]
+[Round "5.2"]
+[White "Anand, Viswanathan"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2774"]
+[BlackElo "2819"]
+[Annotator "TA"]
+[PlyCount "80"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,80,18,19,21,11,18,13,29,9,9,18,14,17,17,21,21,12,12,16,14,16,20,16,
+13,18,22,6,13,6,6,6,3,1,5,5,5,0,16,16,16,15,14,16,15,12,12,12,12,12,12,8,14,12,
+12,11,26,8,8,8,8,8,8,8,8]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1
+Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8. Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 {C67: Ruy Lopez:
+Berlin Defence: 4 0-0 Nxe4} 11. c3 Rxe1 12. Qxe1 Ne8 13. d5 c6 {[#]} 14. Qd1
+$146 ({Predecessor:} 14. Nd2 cxd5 15. Nf3 d6 16. Be3 Nc7 17. Qd2 Bd7 18. g3 {
+1/2-1/2 (32) Giri,A (2780)-Caruana,F (2827) Batumi 2018}) 14... b6 15. Bf4 Bb7
+16. dxc6 dxc6 17. Nd2 c5 18. Nc4 Qxd1 19. Rxd1 Rd8 20. Rxd8 Bxd8 21. Bb8 a6 22.
+a4 b5 23. axb5 axb5 24. Na3 b4 25. Nc4 bxc3 26. bxc3 Bd5 27. Ba7 Bxc4 28. Bxc4
+$11 {[%mdl 4096] Endgame KBB-KBN} Nd6 29. Bd5 Nb5 30. Bxc5 {With the idea Bb4.}
+Nxc3 31. Bc6 (31. Bc4 {is more complex.} Ne4 32. Be3 Be7 33. Bd5 Nc5 34. g4)
+31... Ne2+ 32. Kf1 Nf4 33. Be3 Ne6 34. g3 Bf6 35. Bd5 g6 36. Ke2 Kg7 37. Bxe6
+fxe6 {The position is equal.} 38. Kd3 Kf7 39. Ke4 h5 40. h3 Be7 {Accuracy:
+White = 58%, Black = 90%.} 1/2-1/2
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.24"]
+[Round "5.3"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[WhiteElo "2773"]
+[BlackElo "2763"]
+[Annotator "TA"]
+[PlyCount "49"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,49,5,23,20,20,0,14,13,39,30,29,15,15,14,14,14,14,14,14,0,14,0,22,20,
+28,14,28,0,24,0,28,0]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6.
+Re1 b5 7. Bb3 O-O 8. a4 b4 9. a5 d6 10. d3 Be6 11. Bxe6 {C88: Closed Ruy Lopez:
+Anti-Marshall Systems} fxe6 12. Nbd2 d5 (12... Rb8 13. c3 Rb5 14. d4 bxc3 15.
+bxc3 exd4 16. cxd4 Nb4 17. d5 Ng4 18. Rf1 c5 19. dxc6 Nxc6 {1/2-1/2 (64) Amin,
+B (2709)-Ding,L (2812) Astana 2019}) 13. Nb3 {The position is equal.} d4 $146 (
+{Predecessor:} 13... Bd6 14. Bg5 Qe8 15. Bh4 Nh5 16. Bg3 Qg6 17. c3 bxc3 18.
+bxc3 Nf4 {1/2-1/2 (32) Nataf,I (2489)-Del Rio,R (2422) ICCF email 2016}) 14.
+Bd2 Rb8 15. Rc1 Rb5 16. h3 Qd6 17. Bg5 Nd7 18. Bxe7 Qxe7 19. Nfd2 Nc5 20. Nc4
+Nb7 {[%cal Rc6a5]} 21. Ra1 Nd6 22. Ncd2 Nb7 23. Nc4 Nd6 24. Ncd2 Nb7 25. Nc4 {
+Accuracy: White = 41%, Black = 52%.} 1/2-1/2
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.24"]
+[Round "5.4"]
+[White "Svidler, Peter"]
+[Black "Vallejo Pons, Francisco"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[WhiteElo "2735"]
+[BlackElo "2693"]
+[Annotator "TA"]
+[PlyCount "82"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,82,35,42,37,15,46,26,29,40,34,25,52,41,39,39,38,41,40,32,37,33,28,18,
+30,39,52,43,45,44,57,56,56,48,52,43,48,39,41,26,25,8,8,0,13,13,12,6,20,20,20,
+18,19,4,18,19,19,8,18,18,27,25,49,54,43,43,58,58,58,58,58,58,58,58,58]} 1. e4
+e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. O-O d6 6. c3 g5 {C55: Two Knights: 4 d3,
+4 d4 exd4 5 e5 and Max Lange Attack} 7. Nbd2 Bg7 8. Bb3 Nh5 $146 {White has an
+edge.} ({Predecessor:} 8... O-O 9. Nc4 d5 10. Ncxe5 dxe4 11. dxe4 Nxe5 12. Nxe5
+Qxd1 13. Rxd1 Nxe4 14. Nd3 {1/2-1/2 (34) Giri,A (2783)-Matlakov,M (2700) St
+Petersburg 2018}) 9. Nc4 Nf4 10. Ne3 Be6 11. d4 exd4 12. Nf5 Bxf5 13. exf5 dxc3
+14. bxc3 Ne5 15. Nxe5 dxe5 16. Qf3 {White wants to play Rd1.} O-O 17. Qxb7 Ne2+
+18. Kh1 Nxc1 19. Raxc1 Qf6 20. Qxc7 Qxf5 21. Bd5 Rad8 22. c4 Rd7 23. Qc6 Rfd8
+24. Rcd1 Bf8 25. g3 Kg7 26. Kg2 (26. Qb5 {with more complications.} Rc7 27. Qa5
+Rdd7 28. Qe1 Bc5 29. Qe2) 26... Qf6 (26... Bd6 {is interesting.} 27. Qb5 Rb8
+28. Qc6 Rb6 29. Qc8 Rb8) 27. Qxf6+ Kxf6 28. Rb1 h5 29. h3 Bc5 30. Rb5 Rc7 31.
+Rfb1 g4 32. hxg4 hxg4 33. Rb7 Rdc8 34. f3 Bb6 35. Rxc7 Rxc7 36. fxg4 $11 {
+[%mdl 4096] Endgame KRB-KRB. White is slightly better.} e4 37. Rf1+ Kg7 38.
+Bxe4 Rxc4 39. Rxf7+ {[%mdl 64] [#] Decoy} Kxf7 40. Bd5+ {[%mdl 64] Double
+Attack} Kg7 41. Bxc4 Bc5 {Accuracy: White = 70%, Black = 65%.} 1/2-1/2
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.24"]
+[Round "5.5"]
+[White "Keymer, Vincent"]
+[Black "Meier, Georg"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2516"]
+[BlackElo "2628"]
+[Annotator "TA"]
+[PlyCount "161"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,161,28,42,38,42,41,47,40,45,29,50,41,38,33,50,34,76,59,66,58,69,50,
+117,103,81,80,189,133,130,116,134,91,105,60,212,183,169,181,180,158,177,136,
+153,100,115,54,43,45,53,39,37,10,6,6,18,6,35,18,70,55,60,46,52,77,92,30,23,10,
+45,8,17,16,16,18,25,6,47,51,63,98,58,57,54,77,78,78,85,72,83,85,96,94,114,126,
+29959,29960,29956,29956,29955,29959,29959,29959,29963,29964,29964,29965,29964,
+29966,29965,29966,29956,29966,29965,29969,29959,29970,29970,29971,29971,29971,
+29971,29972,29972,29973,29973,29974,29974,29973,29975,29976,29976,29973,29973,
+29977,29977,29978,29978,29979,29978,29980,29986,29987,29987,29987,29987,29988,
+29988,29989,29989,29990,29990,29991,29991,29992]} 1. d4 e6 2. c4 Nf6 3. Nf3 d5
+4. Nc3 dxc4 5. e4 b5 (5... Bb4 6. Bxc4 Nxe4 7. O-O Nf6 8. Qa4+ Nc6 9. Ne5 Rb8
+10. d5 exd5 11. Nxd5 Nxd5 12. Nxc6 bxc6 13. Qxc6+ Qd7 14. Qxd5 {1/2-1/2 (31)
+Mamedyarov,S (2817)-Caruana,F (2832) Germany 2019}) 6. e5 {D24: Queen's Gambit
+Accepted: 3 Nf3 Nf6 4 Nc3} Nd5 7. Nxb5 Nb6 8. Be2 {White is slightly better.}
+Nc6 9. O-O Be7 10. Qd2 Bb7 11. Qf4 Qd7 12. Nc3 $146 {[%mdl 2048] White fights
+for an advantage.} ({Predecessor:} 12. Rd1 g5 13. Qg3 {1/2-1/2 (41) Dubov,D 
+(2703)-Matlakov,M (2700) St Petersburg 2018}) 12... h6 13. Rd1 g5 14. Qg3 O-O-O
+$1 15. Be3 Nb4 (15... Bb4 $14) 16. Nd2 $16 h5 17. Nxc4 g4 (17... Nxc4 $16 18.
+Bxc4 h4) 18. Nxb6+ (18. Na5 $18) 18... axb6 19. Bb5 Bc6 20. Bxc6 Qxc6 21. Qf4
+Rdf8 $2 (21... h4 $1 $14) 22. d5 $1 $18 {[%cal Rd5c6]} Nxd5 23. Nxd5 exd5 24.
+Rac1 Qb7 25. Qf5+ Kb8 26. Qd7 (26. Rd3 $142) 26... c5 $16 27. Qxd5 (27. Qb5 $1
+$16) 27... Qxd5 $14 28. Rxd5 Rd8 29. Rdd1 Kc7 30. Kf1 Kc6 31. Ke2 Rhe8 32. f4
+f6 (32... Ra8 {keeps more tension.} 33. Ra1 f6 34. a4 fxe5 35. fxe5 Bd8) 33.
+exf6 Bxf6 ({Black should try} 33... Rxd1 $1 $11 34. f7 (34. Rxd1 Bxf6 35. b3 b5
+$11) 34... Rdd8 35. fxe8=R (35. fxe8=B+ Rxe8 36. b3 Bf6 $14) 35... Rxe8) 34.
+Rxd8 Rxd8 {[%mdl 4096] Endgame KRB-KRB} 35. b3 Re8 36. Kd3 Rd8+ 37. Kc2 (37.
+Ke4 $16) 37... Re8 $11 38. Re1 Kd5 (38... Ra8 $5 {[%cal Ra8a2]} 39. a4 b5 $16)
+39. a4 Re4 40. Bd2 Rxe1 41. Bxe1 {KB-KB} Ke4 42. f5 {Bc3 is the strong threat.}
+h4 43. Bc3 Bxc3 44. Kxc3 Kxf5 $14 {KP-KP} 45. Kc4 Kf4 46. Kb5 Ke3 (46... g3 $2
+47. hxg3+ Kxg3 48. Kxb6 $18) 47. Kxb6 Kf2 48. a5 {Strongly threatening g3.} (
+48. Kxc5 $2 Kxg2 49. a5 Kxh2 $19) 48... Kxg2 49. a6 Kxh2 $16 {And now ...g3
+would win. K3P-KPP} 50. a7 g3 {Threatens to win with ...g2.} 51. a8=Q {Black
+must now prevent Qb8.} g2 $2 {[%mdl 8192]} (51... h3 $16) 52. Qb8+ {White
+mates.} Kh3 53. Qc8+ $1 {[%mdl 64] Double Attack} Kh2 54. Qc7+ Kh3 55. Qd7+ $1
+Kh2 56. Qd6+ Kh3 57. Qe6+ $1 Kh2 58. Qe5+ {[%mdl 64] Double Attack} Kh3 59. Qe1
+c4 {[#]} 60. b4 $1 ({Stronger than} 60. bxc4 g1=Q+ 61. Qxg1 $11) 60... c3 61.
+Kc6 c2 62. Qc1 Kh2 63. Qxc2 Kh3 64. Qd3+ ({Inferior is} 64. Qf2 g1=Q $11) 64...
+Kh2 65. Qe2 Kh3 66. Qe3+ Kh2 {[#]} 67. Qf2 $1 h3 68. b5 Kh1 69. Qg3 h2 {[#]}
+70. Qf3 $1 Kg1 {[#]} 71. Qe3+ $1 ({Weaker is} 71. Qd1+ Kf2 $16) 71... Kf1 72.
+Qf4+ Kg1 73. b6 h1=Q {KQ-KQ} 74. b7 Qh7 75. b8=Q Kh1 {[#]} 76. Qf3 $1 Qc2+ 77.
+Kd5 Qd2+ 78. Ke4 Qc2+ 79. Ke5 Qc5+ 80. Kf6 Qd4+ 81. Kg6 {Accuracy: White = 63%,
+Black = 48%.} 1-0
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.26"]
+[Round "6.1"]
+[White "Vallejo Pons, Francisco"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[ECO "C48"]
+[WhiteElo "2693"]
+[BlackElo "2819"]
+[Annotator "TA"]
+[PlyCount "41"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,41,25,11,13,29,33,8,5,0,0,0,0,0,0,0,0,0,0,0,17,25,87,0,0,0,0,0,0,0,0,
+0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Bc4 Bc5 6. Nxe5 Qe7 {
+C48: Four Knights: 4 Bb5, replies other than 4...Bb4} 7. Nf3 (7. Bxf7+ Kf8 $17)
+7... d5 $1 {[%cal Rd5c4]} ({Reject} 7... Nxe4 $6 8. Nd5 $16) 8. Bxd5 Bg4 $132 {
+[%mdl 2048] Black is not holding back} 9. d3 ({Much weaker is} 9. Bxb7 Rb8 $19)
+9... O-O-O 10. Be3 Nxd5 11. Nxd5 Rxd5 12. exd5 Re8 $1 13. O-O Bxf3 $1 14. gxf3
+Bd6 {[#] Threatens to win with ...Qh4.} 15. f4 (15. Bxd4 {leads to mate.} Qg5+
+16. Kh1 {[#]} Qf4 $1 {[%mdl 512]} 17. Be5 Bxe5 18. h3 Qh2#) 15... Qh4 $1 {
+[%cal Rh4h3]} 16. Bxd4 (16. Kh1 $16) 16... Bxf4 $11 {[%csl Gf4][%cal Rh4h2]
+The position is equal.} 17. Kg2 {[#]} Qg5+ $146 ({Predecessor:} 17... Qxh2+ 18.
+Kf3 Qh3+ 19. Kxf4 Qh2+ 20. Kf3 Qh3+ {1/2-1/2 (20) Kravtsiv,M (2654)-Wang,H 
+(2711) Abu Dhabi 2018}) 18. Kh1 {Black must now prevent Qf3.} Qh4 $1 {[%csl
+Gf4][%cal Rh4h2]} 19. Kg2 {h3 is the strong threat.} Qg5+ 20. Kh1 {aiming for
+Qf3.} Qh4 $1 {[%csl Gf4][%cal Rh4h2]} 21. Kg2 1/2-1/2
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.26"]
+[Round "6.2"]
+[White "Naiditsch, Arkadij"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[ECO "C48"]
+[WhiteElo "2695"]
+[BlackElo "2774"]
+[Annotator "TA"]
+[PlyCount "59"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,59,0,0,0,0,-7,0,0,0,0,41,-6,23,24,17,35,22,0,30,0,0,0,43,33,57,64,95,
+92,76,89,137,134,152,150,144,141,153,149,154,132,200,194,227,189,340,344,336,
+320]} 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Ba4 c6 6. Nxe5 d6 7. Nf3 Bg4
+$1 {[#] Hoping for ...Qa5.} 8. d3 {C48: Four Knights: 4 Bb5, replies other
+than 4...Bb4} d5 {aiming for ...dxe4.} 9. exd5 Nxd5 {Threatens to win with ...
+Bb4.} 10. O-O {Black must now prevent Qe1+.The position is equal.} Be7 11. Re1
+Nc7 $146 ({Predecessor:} 11... O-O 12. Nxd5 cxd5 13. c3 Bxf3 14. gxf3 Ne6 15.
+f4 d4 {1/2-1/2 (34) Rublevsky,S (2652)-Bacrot,E (2725) Khanty-Mansiysk 2005})
+12. Bg5 Nxf3+ (12... Nce6 {with more complications.} 13. Nxd4 Bxd1 14. Nxe6
+fxe6 15. Rxe6 Bg4) 13. gxf3 Be6 14. Bxe7 Qxe7 15. Bb3 O-O-O 16. Qd2 Qf6 17. Qe3
+Kb8 18. f4 Bf5 19. Qg3 Ne6 20. Bxe6 fxe6 21. Re5 h5 22. Kh1 h4 23. Qe3 Rhf8 24.
+Rg1 Rf7 25. a3 h3 26. Rg5 Rdf8 (26... b6 $16 27. a4 c5) 27. Ne2 $18 {[%cal
+Bc3e2,Be2g3,Bg3h5,Bh5g7][%mdl 32]} c5 28. Ng3 ({Don't do} 28. Rxc5 Qxb2 29. Nd4
+a6 $16) ({Worse is} 28. Qxc5 Rc7 $11) 28... Bh7 $2 {[#]} (28... c4 {might work
+better.} 29. Nxf5 {[%mdl 64] Discovered Attack} (29. dxc4 Bxc2 30. Rxe6 Qd8 $16
+) 29... exf5) 29. Nh5 ({Weaker is} 29. Qxc5 Qxf4 30. Qe3 Qxe3 $15) 29... Qd8
+30. Nxg7 {Accuracy: White = 68%, Black = 17%.} 1-0
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.26"]
+[Round "6.3"]
+[White "Meier, Georg"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "A05"]
+[WhiteElo "2628"]
+[BlackElo "2845"]
+[Annotator "TA"]
+[PlyCount "72"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,116,0,3,-14,-2,-9,0,-22,0,0,0,0,0,-6,0,0,0,0,0,-4,0,-27,0,0,0,0,0,
+-62,-34,-25,-26,-25,-29,-35,-36,-54,-52,-86,-76,-106,-111,-93,-124,-103,-65,
+-75,-42,-236,-229,-232,-233,-258,-255,-433,-284,-247,-243,-240,-241,-250,-166,
+-157,-161,-137,-144,-183,-85,-85,-88,-136,-93,-93,-93,-148,-52,-93,-93,-101,
+-93,-148,-148,-253,-121,-129,-127,-137,-136,-148,0,-121,0,-198,-148,-159,-159,
+-278,-148,-397,-395,-402,-396,-1446,-1429]} 1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4.
+O-O O-O 5. d4 d6 6. b3 b5 7. Bb2 Bb7 8. Nbd2 Nbd7 9. c4 {A49: 1 d4 Nf6 2 Nf3
+g6 3 g3: Anti-King's Indian systems} bxc4 10. Nxc4 a5 11. Rc1 {The position is
+equal.} c5 12. dxc5 Nxc5 13. Bd4 {[#]} Ncd7 $146 ({Predecessor:} 13... Nfe4 14.
+Bxg7 Kxg7 15. Qd4+ f6 16. Rfd1 d5 {0-1 (61) Fridman,R (2463)-Timman,J (2575)
+Germany 2018}) 14. a4 Ra6 15. Na3 {[%cal Bc4a3,Ba3b5,Bb5a7,Ba7c6][%mdl 32]} Qa8
+16. Nb5 Rc6 17. Rxc6 Bxc6 18. Ne1 Bxg2 19. Nxg2 Rc8 20. Na7 Rd8 21. Qc2 (21.
+Nb5 $11) 21... e5 $15 22. Be3 d5 23. Nc6 Re8 24. Bd2 Ne4 25. Nxa5 Rc8 26. Qa2
+Ndf6 27. Be1 Nc3 $1 {[%cal Rc3a2]} 28. Bxc3 Rxc3 29. b4 Bf8 30. Qb2 d4 31. e3
+$2 (31. Ne3 $1 $15) 31... Ne4 $1 $19 32. exd4 exd4 33. Nb3 d3 $1 ({Weaker is} 
+33... Bxb4 34. Nxd4 Ba3 35. Qe2 $17) 34. Rc1 $2 (34. Nc5 {was called for.} Bxc5
+35. bxc5) 34... Rxc1+ 35. Qxc1 Qxa4 36. Qc4 d2 {Played: Ne4-c5} 0-1
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.26"]
+[Round "6.4"]
+[White "Aronian, Levon"]
+[Black "Keymer, Vincent"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "2763"]
+[BlackElo "2516"]
+[Annotator "TA"]
+[PlyCount "104"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,104,15,7,0,0,0,10,4,12,12,8,25,32,18,22,1,17,0,0,0,19,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,-8,-8,-14,-8,-21,-22,-31,-13,-20,-40,-59,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 c5 2. Nc3 a6 3. Nge2
+d6 4. g3 Nf6 5. Bg2 Nc6 6. O-O e6 7. d4 cxd4 8. Nxd4 Bd7 9. Re1 Be7 10. Nxc6
+Bxc6 11. e5 dxe5 12. Bxc6+ bxc6 13. Rxe5 {B80: Sicilian Scheveningen: 6 g3 and
+6 Be3, including English Attack} O-O {[#]} 14. Qxd8 $146 ({Predecessor:} 14.
+Bd2 Qb6 15. Rb1 Rfd8 16. Qe2 Ng4 17. Be3 Nxe3 18. Rxe3 Rd4 19. Rd3 Rxd3 20.
+Qxd3 Rd8 21. Qe2 h6 22. Ne4 Qd4 23. Nc3 Qb6 24. Ne4 Qd4 25. Nc3 Qb6 {1/2-1/2 
+(25) Macieja,B (2613)-Guliyev,N (2526) Warsaw 2005}) 14... Rfxd8 15. Re2 c5 16.
+Na4 Rd1+ 17. Kg2 Rad8 18. b3 Nd5 {[#] Strongly threatening ...Bf6.} 19. c3 Rc8
+20. Re4 Nf6 21. Re2 Nd5 22. Rd2 (22. c4 {is interesting.} Nb4 23. Bb2 Rdd8 24.
+f4 g6 25. Be5) 22... Rxd2 23. Bxd2 c4 24. Nb2 Bf6 25. Nxc4 Bxc3 26. Rd1 Bxd2
+27. Rxd2 $11 {[%mdl 4096] Endgame KRN-KRN} g5 28. Kf3 Kg7 29. Ne3 Rc3 30. Rc2 (
+30. Ke4 {seems wilder.} Nxe3 31. fxe3 Rc5 32. Kd4 Rd5+ 33. Kc3) 30... f5 31.
+Rxc3 Nxc3 {KN-KN} 32. a4 {[%cal Ba2a4,Ba4a5,Ba5a6,Ba6a7][%mdl 32]} g4+ 33. Kg2
+$1 Kf6 34. Nc2 Ne4 35. b4 Nc3 (35... Ke5 $1 $15) 36. b5 {The position is equal.
+} axb5 37. a5 Nd5 38. a6 Nc7 39. a7 Ke5 40. Kf1 $1 Kd5 {[#] White must now
+prevent ...Kc5.} 41. Nb4+ $1 Kc4 42. Nc6 Kd3 43. Ke1 Na8 44. Nd8 e5 {Threatens
+to win with ...b4.} 45. Nc6 Ke4 46. Kd2 Kd5 47. Nb4+ Kc4 48. Nc6 Kd5 49. Nb4+
+Ke4 50. Nc6 f4 51. Kc3 Kd5 52. Nb4+ Ke4 {Accuracy: White = 75%, Black = 82%.}
+1/2-1/2
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.26"]
+[Round "6.5"]
+[White "Svidler, Peter"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[ECO "A34"]
+[WhiteElo "2735"]
+[BlackElo "2773"]
+[Annotator "TA"]
+[PlyCount "69"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,69,11,45,27,23,22,13,9,17,26,26,0,11,0,0,0,0,0,0,0,0,0,0,-41,-26,-56,
+-31,-75,0,0,14,0,0,0,0,0,3,0,0,0,13,14,10,10,16,8,11,0,0,0,0,0,0,0,11,0,0,0,7,
+0,0,0]} 1. Nf3 c5 2. c4 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. e3 Nxc3 6. dxc3 {A34:
+Symmetrical English: 2 Nc3, lines with ...d5} (6. bxc3 {feels hotter.} Nc6 7.
+d4 e6 8. Bd3 b6 9. O-O) 6... Qc7 7. e4 e6 8. Be3 Bd7 $146 ({Predecessor:} 8...
+Nd7 9. Nd2 Be7 10. Qg4 O-O 11. Qg3 Bd6 12. f4 f5 13. e5 {1-0 (40) Matlakov,M 
+(2683)-Lagarde,M (2615) Bastia 2018}) 9. Nd2 Bc6 10. Qg4 Nd7 11. Qg3 O-O-O 12.
+Bf4 e5 13. Bg5 f6 14. Be3 g6 15. Qh3 Kb8 16. Be2 Nb6 17. b3 h5 18. O-O {[#]}
+Bh6 (18... Be7 $1 $17 19. a4 Bd7) 19. Bxh6 $11 {The position is equal.} Rxh6
+20. Qe3 Rh7 21. Rfd1 Rhd7 22. Nf1 Rxd1 23. Rxd1 Rxd1 24. Bxd1 Nc8 25. f3 Qd6
+26. Be2 Ne7 27. Qh6 f5 $1 28. Ne3 {aiming for exf5.} fxe4 29. Nc4 Qf6 {[%cal
+Re4f3]} 30. fxe4 Kc7 31. g3 Ng8 32. Qh7+ Ne7 33. Qh6 Ng8 34. Qh7+ Ne7 35. Qh6 {
+Accuracy: White = 61%, Black = 70%.} 1/2-1/2
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.27"]
+[Round "7.1"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Vallejo Pons, Francisco"]
+[Result "1-0"]
+[WhiteElo "2775"]
+[BlackElo "2698"]
+[Annotator "TA"]
+[PlyCount "133"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+
+{[%evp 9,133,18,20,13,13,8,11,4,4,18,42,11,9,16,18,13,33,14,12,0,20,0,0,0,0,-5,
+0,-5,-8,-9,1,-20,-14,-27,-18,-33,-33,-38,-38,-55,-51,-49,-56,-60,-59,-62,-45,
+-44,0,-14,0,0,0,0,0,0,0,0,0,0,0,0,0,-78,1053,1045,29978,29979,29977,29978,
+29982,6609,6643,393,371,345,313,313,313,287,247,0,516,580,583,588,580,544,369,
+474,6458,6343,6458,355,6458,362,690,0,335,0,6458,6339,6458,6451,6429,6404,6367,
+6318,6262,6172,6172,6172,5716,5454,5206,5177,6643,5137,5137,5127,5088,5057,
+4648,4553,2602,2602]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 a6 6.
+Bxc6+ {B53: Sicilian: 2...d6: Lines with Qxd4} bxc6 7. O-O e5 8. Qa4 {The
+position is equal.} (8. Qd3 Be7 9. c4 Qc7 10. Rd1 Nf6 11. Nc3 O-O 12. h3 Rb8
+13. b3 Nd7 14. Ba3 Nc5 15. Bxc5 dxc5 16. Qe3 {1-0 (26) Wang,H (2711)-Idani,P 
+(2599) Kuala Lumpur 2018}) 8... Qc7 9. c4 Ne7 10. c5 dxc5 11. Be3 Ng6 12. Nbd2
+Be7 13. Qc2 O-O 14. Bxc5 {[#]} Be6 $146 15. Be3 a5 16. Rfc1 Rfb8 17. Nb3 (17.
+g3 {is interesting.} a4 18. b3 Ra6 19. Ng5 Bc8 20. Ngf3) 17... Rb5 18. Nc5 Bxc5
+19. Bxc5 a4 20. Be3 h6 21. Ne1 Nf4 22. g3 Nh3+ 23. Kg2 $1 Ng5 24. f3 Bh3+ 25.
+Kf2 Rab8 26. Nd3 f5 27. Bxg5 (27. Qxa4 $2 fxe4 28. Ne1 Rxb2+ 29. Rc2 exf3 $19)
+27... hxg5 28. Kg1 $1 Kh8 29. b4 ({Avoid the trap} 29. Qxa4 $2 Qb6+ 30. Kh1 Qe3
+$1 $19 {[%mdl 512]}) 29... axb3 30. axb3 Rxb3 31. Nf2 $1 {[%cal Rf2h3]} g4 32.
+fxg4 fxg4 33. Qxc6 Qf7 34. Nxh3 gxh3 35. Rf1 Rf3 {( -> ...Rxf1+)} 36. Qc2 {[#]}
+(36. Qa6 $11) 36... Rbb3 $2 {[%mdl 8192]} (36... Qd7 $1 $17 {[%mdl 512]} 37.
+Rfd1 Qe6) 37. Qc8+ $18 {[%mdl 64] Double Attack} Kh7 38. Qxh3+ Kg6 39. Ra6+ Rf6
+40. Qf5+ (40. Qg4+ $142 Kh7 41. Qh4+ {[%mdl 64] Double Attack} Kg8 42. Ra8+ Qf8
+43. Rxf8+ Rxf8 44. Rxf8+ Kxf8 45. Qd8+ Kf7 46. Qd5+ $1 {[%mdl 576] Double
+Attack} Kg6 47. Qxb3) 40... Kh6 41. Qxf6+ $2 (41. Qxe5 Rb1 42. Qf4+ Kh7 43.
+Qh4+ Kg6 44. Raxf6+ gxf6 45. Qg4+ Kh6 46. Rxb1) 41... Qxf6 42. Raxf6+ (42.
+Rfxf6+ gxf6 43. Rxf6+ Kg5 $18) 42... gxf6 43. Rxf6+ {[%mdl 4096] Endgame KR-KR}
+Kg5 44. Rf5+ Kg4 45. Rf1 $2 (45. Rxe5 $18 {Black must now prevent Rf5.} Rb1+
+46. Kf2) 45... Rb2 $2 {[%mdl 8192] [#]} (45... Kh3 $1 $11 {and Black stays
+safe.}) 46. Rf2 $1 Rb4 47. Kg2 Rxe4 48. h3+ Kg5 49. g4 Re1 (49... Kg6 $142 50.
+Kg3 Re3+ 51. Kg2 e4) 50. Rf5+ Kg6 51. Kf2 $2 (51. h4 Kg7 52. h5) 51... Rb1 $2 (
+51... Rh1 52. Kg2 (52. Rxe5 Rxh3 53. Kg2 Rc3 $11) 52... Rb1) 52. Kg3 $2 (52.
+Rxe5 Rb2+ 53. Kf3) 52... Rg1+ $2 {[#]} (52... Re1 53. Kf2 Re4) 53. Kf2 $2 ({
+Only move:} 53. Kh2 $1 $18 Re1 54. h4) 53... Rh1 $2 {[%mdl 8192]} (53... Rb1 $1
+$11 {and Black has nothing to worry.}) 54. Kg2 $2 ({Stronger than} 54. Rxe5
+Rxh3 55. Rc5 Kf6 $11) (54. Rf3) 54... Re1 $1 55. h4 {White is clearly winning.}
+e4 56. Kf2 Rh1 57. Kg3 Re1 58. h5+ Kg7 59. Kf2 Ra1 60. Ke3 Re1+ 61. Kf4 e3 62.
+Re5 e2 63. Kf3 Kf6 64. Rxe2 Ra1 65. Kf4 Rf1+ 66. Kg3 {White wants to mate with
+Rf2+.} Rg1+ 67. Rg2 {Accuracy: White = 57%, Black = 44%.} 1-0
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.27"]
+[Round "7.2"]
+[White "Keymer, Vincent"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2516"]
+[BlackElo "2735"]
+[Annotator "TA"]
+[PlyCount "83"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,83,-1,0,-1,-2,4,22,10,11,25,25,25,16,12,13,0,34,35,37,32,45,48,58,65,
+50,10,45,20,20,25,41,35,54,0,0,0,0,0,0,0,0,-7,-7,-7,0,-31,-14,-10,-10,-57,-57,
+-57,-57,-52,-27,-55,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 b6
+4. g3 Bb4+ 5. Nbd2 Bb7 6. Bg2 O-O 7. O-O d5 8. Ne5 Qc8 9. cxd5 {E16: Queen's
+Indian: 4 g3 Bb7 5 Bg2 Bb4+} Bxd5 10. f3 Rd8 11. Ne4 Nbd7 12. Nxf6+ Nxf6 13. e4
+Bb7 14. Be3 {[#]} Nd7 $146 ({Predecessor:} 14... c5 15. Rc1 Ba6 16. a3 Bxf1 17.
+Bxf1 {1-0 (49) Bogner,S (2588)-Kuljasevic,D (2534) Le Castella 2018}) 15. Qb3 {
+[#] Nxd7 is the strong threat.} Be7 16. Nxd7 Qxd7 17. Rac1 c5 18. dxc5 Bxc5 19.
+Bxc5 bxc5 20. Rfd1 Qc7 21. Qb5 a6 22. Qb3 h6 23. Bf1 a5 24. a3 (24. Rxd8+ $14
+Rxd8 25. Qb5) 24... Rxd1 25. Rxd1 Ba6 26. Bxa6 Rxa6 $11 {[%mdl 4096] Endgame
+KQR-KQR} 27. Qb5 Rc6 28. Rd2 c4 29. Kg2 Kh7 30. Rc2 Rc5 31. Qe8 Qb7 {White
+must now prevent ...Rb5.} 32. Rd2 c3 33. bxc3 Rxc3 34. a4 Rc8 35. Qb5 Qxb5 (
+35... Qc7 $15) 36. axb5 $15 {KR-KR. The position is equal.} Rb8 37. Rb2 g5 38.
+b6 Kg7 39. h4 gxh4 40. gxh4 a4 41. Ra2 Rxb6 {And now ...Rb4 would win.} 42.
+Rxa4 {Accuracy: White = 71%, Black = 49%.} 1/2-1/2
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.27"]
+[Round "7.3"]
+[White "Carlsen, Magnus"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2845"]
+[BlackElo "2763"]
+[Annotator "TA"]
+[PlyCount "75"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,75,7,0,17,0,12,0,8,-10,0,0,15,4,2,0,0,0,0,0,0,3,25,8,18,8,24,6,31,18,
+18,13,26,25,34,30,30,33,106,56,154,158,157,156,147,156,152,154,154,145,191,197,
+216,218,222,213,529,379,376,373,396,392]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3
+dxc4 5. e4 Bb4 6. Bg5 c5 7. Bxc4 cxd4 8. Nxd4 Bxc3+ 9. bxc3 {And now Bb5+
+would win.} Qa5 $1 {[%cal Ra5c3] D39: Queen's Gambit Declined: Ragozin Defence
+with 5 Bg5 dxc4} 10. Bd2 $146 ({Predecessor:} 10. Bb5+ Nbd7 11. Bxf6 Qxc3+ 12.
+Kf1 gxf6 13. h4 Qb4 14. Rh3 a6 15. Be2 Ne5 16. Rb1 Qd6 17. Rc3 O-O 18. Qd2 Ng6
+19. h5 Nf4 20. Qe3 e5 21. Nc2 {1/2-1/2 (33) Grischuk,A (2766)-Karjakin,S (2773)
+Saint Louis 2018}) 10... O-O 11. Qe2 e5 {The position is equal.} 12. Nb3 Qc7
+13. O-O Bg4 14. f3 Rc8 15. Bd5 Nxd5 16. exd5 Bh5 17. c4 Nd7 18. Rfc1 b6 19. a4
+a5 20. Qf2 Qd6 21. Be3 Bg6 22. Qd2 f6 23. Qb2 Rc7 24. Nd2 Nc5 25. Qa3 Rd8 26.
+Rc3 f5 (26... Rb7 $14) 27. Re1 e4 ({Better is} 27... Na6 $14) 28. fxe4 $16 fxe4
+29. Bxc5 $1 Rxc5 30. Nxe4 Qe5 31. Rce3 Rcc8 {[#]} 32. h3 $1 Qc7 33. Nd2 Re8 {
+[#]} 34. Re7 $1 {[%cal Re7c7]} Rxe7 35. Rxe7 ({Resist} 35. Qxe7 $6 Qxe7 36.
+Rxe7 Bd3 $16) 35... Qd8 $2 (35... Qf4) 36. Qe3 Rc7 37. Re6 Rc5 38. Qb3 {
+Accuracy: White = 79%, Black = 42%.} 1-0
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.27"]
+[Round "7.4"]
+[White "Anand, Viswanathan"]
+[Black "Meier, Georg"]
+[Result "0-1"]
+[ECO "C10"]
+[WhiteElo "2774"]
+[BlackElo "2628"]
+[Annotator "TA"]
+[PlyCount "72"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,72,38,26,36,25,35,24,29,26,48,49,60,47,55,26,33,23,23,22,35,33,42,42,
+31,22,48,33,36,0,0,-10,-10,-10,-10,-55,-49,-60,-58,-60,0,0,0,0,0,-20,0,-119,
+-109,-118,-119,-106,-105,-115,-115,-114,-114,-90,-97,-130,-136,-707,-682]} 1.
+e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Be3 Bd6 {
+C10: French with 3 Nc3: Unusual Black 3rd moves and 3...dxe4} 8. Bd3 O-O 9. Qe2
+b6 {White has an edge.} 10. O-O-O Bb7 11. Kb1 (11. c4 c5 12. dxc5 bxc5 13. Ng5
+h6 14. Nh7 Nxh7 15. Bxh7+ Kxh7 {1/2-1/2 (56) Anand,V (2780)-Meier,G (2640)
+Baden-Baden 2013}) 11... c5 12. Bg5 h6 13. Bh4 Rc8 {[#]} 14. Rhe1 $146 ({
+Predecessor:} 14. c3 Be7 15. Bg3 cxd4 16. Nxd4 {1-0 (35) Caruana,F (2817)
+-Meier,G (2621) Karlsruhe/Baden-Baden 2017}) 14... Bxf3 15. Qxf3 c4 16. Be4 g5
+17. Bg3 Bxg3 18. fxg3 Kg7 19. c3 b5 20. g4 Qd6 21. Rf1 Nxe4 22. Qxe4 Qxh2 23.
+d5 Qd6 $1 24. Qd4+ e5 25. Qxa7 Rc5 ({Black should try} 25... b4 $15 26. Qe3
+bxc3 27. Qxc3 Rc5) 26. Qb7 $11 e4 {White must now prevent ...e3.} 27. Rf5 e3 {
+...Rc7 is the strong threat.} 28. Kc1 b4 {Strongly threatening ...bxc3.} 29.
+Qxb4 (29. Rdf1 $11 {was the only way to keep the balance.} Rc7 30. Qxb4) 29...
+Rb8 $17 30. Qa4 {Black should prevent Qa7!} Rcb5 31. Qa7 {[%mdl 64] Double
+Attack} ({Don't blunder} 31. Qxc4 $2 Rxb2 32. Qd4+ Kg8 $1 $19 {[%mdl 512]})
+31... R8b7 32. Qxe3 {Hoping for Rd2.} Rxb2 $40 {[%mdl 192] ( -> ...Qa3!).
+Double Attack. Black has strong attack.} 33. Qe5+ Qxe5 34. Rxe5 Rxg2 35. Rd4 {
+[#]} Rg1+ $1 36. Kc2 $2 {[%mdl 8192] [#]} (36. Rd1 $17 Rxg4 37. d6) 36... Rgb1
+$1 {Accuracy: White = 65%, Black = 76%.} 0-1
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.27"]
+[Round "7.5"]
+[White "Caruana, Fabiano"]
+[Black "Naiditsch, Arkadij"]
+[Result "1-0"]
+[ECO "E01"]
+[WhiteElo "2819"]
+[BlackElo "2695"]
+[Annotator "TA"]
+[PlyCount "65"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,65,14,0,0,-10,-11,-36,-38,-31,0,0,10,10,10,5,10,9,19,26,12,9,35,0,53,
+63,103,89,166,176,159,167,163,162,161,152,307,314,304,302,323,298,312,311,297,
+307,287,288,317,317,319,315,426,436,469,452]} 1. d4 Nf6 2. c4 e6 3. g3 d5 4.
+Bg2 Bb4+ 5. Nd2 O-O 6. Ngf3 dxc4 7. O-O b5 {E04: Open Catalan: 5 Nf3} 8. a4 c6
+9. b3 (9. Ne1 Nd5 10. e4 Nb6 11. a5 N6d7 12. e5 Bb7 13. Ne4 Na6 14. Bg5 {
+1/2-1/2 (44) Wang,H (2709)-Ding,L (2777) Huaian 2017}) 9... c3 {Black is
+slightly better.} 10. Nb1 $1 Bb7 11. Qc2 c5 {[#] aiming for ...Be4.} 12. Nxc3
+cxd4 13. Nxb5 Nc6 $146 ({Predecessor:} 13... Be4 14. Qc4 Nc6 15. Nfxd4 Nxd4 16.
+Bxe4 Nxe4 17. Nxd4 {1-0 (24) Pichot,A (2584)-Raghunandan,K (2352) Sharjah 2019}
+) 14. Qc4 {[%cal Rf3d4]} Qe7 15. Nbxd4 Na5 16. Qb5 Rfd8 17. Bf4 Bc3 (17... Nxb3
+$11 18. Nxb3 Rd5) 18. Rac1 $1 $14 {[%cal Rc1c3]} a6 19. Qe5 Bxf3 (19... Bb4 $16
+) 20. Bxf3 $18 ({Don't take} 20. Rxc3 $6 Bxg2 21. Kxg2 Qb7+ 22. Rf3 Rd5 $11)
+20... Bxd4 21. Qxa5 {e3 is the strong threat.} Nd5 22. Bc7 $36 {[%mdl 2048]
+White is really pushing.} Rd7 23. e3 Qf6 $2 {[#]} (23... Bb2 $16) 24. Bxd5 $1
+Rxd5 25. Qb4 {Strongly threatening Qb7.} Bb2 26. Rc2 h5 27. Qb7 Rf8 28. Qxa6 h4
+29. Qc4 h3 {( -> ...Qf3)} 30. Qg4 Rd3 31. b4 {[%cal Bb3b4,Bb4b5][%mdl 32]} Rb3
+{Black hopes to continue with ...Rxb4.} 32. Qxh3 Ra8 33. b5 {Accuracy: White =
+91%, Black = 33%.} 1-0
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.28"]
+[Round "8.1"]
+[White "Vallejo Pons, Francisco"]
+[Black "Naiditsch, Arkadij"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2693"]
+[BlackElo "2695"]
+[Annotator "TA"]
+[PlyCount "173"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,173,28,19,18,26,23,24,13,20,12,41,38,35,13,32,25,25,23,30,27,23,11,10,
+15,17,5,33,-14,-14,-14,-14,-12,-14,-14,-25,-20,-32,-25,-14,-18,0,0,0,0,0,-6,
+-14,-8,-2,-15,-15,-15,-15,-24,-21,-14,-19,-32,-10,-8,-12,-29,0,0,58,60,127,118,
+134,133,139,67,71,52,83,83,83,83,83,83,137,126,127,91,142,145,142,135,142,138,
+144,145,153,124,131,120,135,112,131,130,120,93,112,108,123,105,115,112,158,159,
+179,179,165,156,188,182,191,171,164,156,142,109,128,73,106,0,108,0,160,73,73,
+73,73,32,29,35,36,22,73,16,24,0,73,8,18,8,73,73,73,73,73,72,71,8,8,8,8,8,8,0,8,
+8,8,8,8,8]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Nbd7 5. e3 h6 6. Bf4 {D30:
+Queen's Gambit Declined: Systems without Nc3} (6. Bh4 Be7 7. Qc2 O-O 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Bc4 N5f6 11. Nc3 c5 12. O-O cxd4 13. Nxd4 {1/2-1/2 (28)
+Mamedyarov,S (2817)-Karjakin,S (2753) Kolkata 2018}) 6... dxc4 $146 ({
+Predecessor:} 6... Bb4+ 7. Nbd2 c5 8. dxc5 O-O 9. cxd5 exd5 10. Be2 Nxc5 11.
+O-O Bg4 12. h3 {1/2-1/2 (52) Demidov,M (2520)-Kevlishvili,R (2451) Skopje 2018}
+) 7. Bxc4 Bd6 8. Bxd6 {White has an edge.} cxd6 9. Nc3 d5 10. Bd3 b6 11. Ne5
+Bb7 12. f4 O-O 13. O-O Ne4 14. Bxe4 dxe4 15. Qa4 Nf6 16. f5 Qe7 17. h3 a5 18.
+Ng4 Nxg4 19. hxg4 Qg5 20. Rf4 exf5 21. Qd7 Bc8 22. Qc6 Rb8 23. gxf5 Bxf5 24.
+Nxe4 Qg6 25. Qxg6 Bxg6 26. Nd6 Rfd8 27. Nb5 Rbc8 28. Rd1 f6 29. a3 Rc2 30. Rf2
+Rc4 31. Rfd2 Be8 32. Nc3 $1 b5 33. Kf2 f5 34. d5 Kf7 35. Rd4 Rdc8 36. e4 Kf6 (
+36... b4 $11 37. axb4 Rxb4) 37. Rxc4 $14 bxc4 {[%mdl 4096] Endgame KRB-KRN} (
+37... Rxc4 $14 38. d6 b4 39. Nd5+ Ke5) 38. Ke3 $1 $16 Ke5 39. exf5 $1 Rb8 40.
+Rd2 ({White should try} 40. g4 $16) 40... h5 $1 $14 41. g3 Bd7 42. d6 $1 Kxf5
+43. Rd5+ $1 Ke6 44. Kd4 Bc6 (44... Rb3 $142) 45. Rxh5 $16 Rxb2 46. Rxa5 ({
+Don't play} 46. Kxc4 $6 a4 $11) 46... Kxd6 (46... Rd2+ $142 47. Kxc4 Rxd6) 47.
+Rg5 Bg2 48. Rg6+ Ke7 49. Rxg7+ Kf6 50. Rg4 Bh3 51. Rf4+ Ke7 52. Kxc4 Be6+ 53.
+Kd3 Rg2 54. Ne2 Rh2 55. Ke3 Rh1 56. Ra4 Re1 57. Kf2 Ra1 58. Ra5 Kf6 59. Nc3 Bf5
+60. Nd5+ Kf7 61. Ke3 Bc2 62. g4 Ke6 63. Nf4+ Kd6 64. Ne2 Rd1 65. g5 Rd3+ 66.
+Kf2 ({White should play} 66. Kf4 {g6 is the strong threat.} Bd1 67. Nc1) 66...
+Rd2 67. Ke3 Rd3+ 68. Kf2 (68. Kf4 $142 {And now g6 would win.} Bd1 69. Nc1)
+68... Rd2 $1 {[#]} 69. g6 ({Better is} 69. Rb5 $1) 69... Ke7 70. Ra7+ Kf8 71.
+Ke3 Rd3+ 72. Kf4 Bd1 73. Ng1 Rd6 (73... Rb3 $11) 74. Kg5 (74. g7+ $16 Kg8 75.
+Nh3) 74... Rd5+ $11 75. Kf4 {Black must now prevent Nf3.} Rd6 76. Rf7+ (76. g7+
+$16 Kg8 77. Nh3) 76... Kg8 77. Kg5 Ra6 (77... Rd5+ $11 {keeps the balance.} 78.
+Kf6 Bg4) 78. Kh6 $16 {Strongly threatening Rd7.} Bc2 79. Rg7+ Kf8 80. Nf3 {
+Hoping for Ne5.} Rxa3 {[#]} 81. Ng5 (81. Rf7+ $1 $16 Ke8 82. Nh4 Bxg6 83. Kxg6)
+81... Ra6 $1 $11 {The position is equal.} 82. Nh7+ Ke8 83. Rg8+ Ke7 84. Rg7+
+Ke8 85. Kg5 {aiming for Nf6+.} Rxg6+ 86. Rxg6 Bxg6 87. Kxg6 {Accuracy: White =
+57%, Black = 65%.} 1/2-1/2
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.28"]
+[Round "8.2"]
+[White "Meier, Georg"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[ECO "B31"]
+[WhiteElo "2628"]
+[BlackElo "2819"]
+[Annotator "TA"]
+[PlyCount "102"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,102,17,14,10,15,31,1,55,42,45,41,38,18,39,40,41,38,32,0,0,0,0,0,0,
+-25,-27,-23,-14,-28,-32,-45,0,-43,-24,-59,81,-63,19,-66,-58,-71,-73,-65,-39,
+-113,-70,-80,-35,-47,-81,-81,-63,-110,-94,-107,-97,-118,-102,-201,-200,-184,
+-43,-253,-258,-416,-404,-408,-408,-396,-241,-333,-269,-549,-394,-797,-780,-774,
+-791,-775,-676,-1900,-1900,-1778,-1765,-1609,-1505,-1412,-1157]} 1. e4 c5 2.
+Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. h3 Nf6 7. Nc3 Nd7 8. Be3 e5 9. Qd2
+h6 {B31: Sicilian: 2...Nc6 3 Bb5 g6} 10. a3 (10. O-O b6 11. a3 Nf8 12. b4 Ne6
+13. bxc5 f5 14. exf5 gxf5 15. Qe1 O-O 16. Rb1 e4 17. dxe4 {0-1 (36) Wang,H 
+(2730)-Carlsen,M (2835) St Petersburg 2018}) 10... b6 11. b4 $146 ({
+Predecessor:} 11. Ne2 f5 12. Qc3 Qe7 13. b4 O-O 14. bxc5 bxc5 15. Nc1 f4 16.
+Bd2 Rb8 17. Nb3 {0-1 (30) Boudriga,M (2369)-Nihal,S (2578) Sharjah 2019}) 11...
+Nf8 (11... f5 $11 12. Qc1 Bb7) 12. bxc5 Ne6 13. cxb6 axb6 14. Qc1 f5 15. a4 f4
+16. Bd2 O-O 17. Qb2 Nd4 18. Ne2 {Nfxd4 is the strong threat.} Nxf3+ 19. gxf3
+Be6 20. Rb1 Ra6 21. Bc3 Qc7 22. Rg1 Kh7 $1 23. h4 Rb8 {[%mdl 1024] Black has
+compensation.} 24. Ra1 c5 25. Kd2 Rd8 (25... Bg8 $15 {keeps the upper hand.})
+26. Rgd1 ({Only move:} 26. Rxg6 $1 $16 Kxg6 27. Nxf4+ $1 {[%mdl 512]} Kf7 28.
+Rg1) 26... Bh3 (26... Raa8 $15) 27. Qb5 (27. Rdb1 $11) 27... Rda8 $1 $15 28.
+Rg1 Qd6 29. Qb2 {Hoping for Nxf4!} R8a7 30. Rab1 ({White should try} 30. Ke1
+$15) 30... Qf6 31. a5 Bd7 {And now ...b5 would win.} 32. axb6 Rb7 33. h5 g5 34.
+Ra1 Raxb6 35. Qa3 Qd6 36. Nc1 Be6 37. Rh1 {[#]} (37. Rd1 $17) 37... Bf7 $1 $19
+38. Ke2 {[#]} Qd7 (38... Qc6 $1 $19 39. Qa4 Rb5) 39. Qa4 $2 (39. Nb3 $1 $15 Qc8
+40. Nd2 (40. Nxc5 Bf8 $17)) 39... Rc6 {[%cal Bb6c6,Bc6c5,Bc5c8][%mdl 32]} 40.
+Qa5 $2 (40. Rd1) 40... c4 41. Ra3 Rbc7 42. Kd2 Rc5 43. Qa8 Rc8 44. Ra7 $2 (44.
+Qa4 Qxa4 45. Rxa4) 44... Qb5 45. Qxc8 $2 (45. Qb7 Qxb7 46. Rxb7 cxd3 {[%mdl 64]
+Discovered Attack} 47. Bb4 Rxc2+ 48. Kxd3) 45... Rxc8 {Black is clearly
+winning.} 46. Rxf7 Kg8 47. Rxg7+ Kxg7 48. d4 exd4 49. Bxd4+ Kf7 50. Rd1 {[#]}
+c3+ $1 51. Ke1 (51. Bxc3 Qc5) 51... Qb2 {Accuracy: White = 40%, Black = 55%.}
+0-1
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.28"]
+[Round "8.3"]
+[White "Svidler, Peter"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "B30"]
+[WhiteElo "2735"]
+[BlackElo "2845"]
+[Annotator "TA"]
+[PlyCount "66"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,65,28,28,26,27,32,24,32,27,24,20,23,8,41,20,32,15,3,20,0,0,5,0,0,0,0,
+-28,-10,-5,-16,-10,-18,-68,-62,-66,-67,-74,-70,-64,-68,-74,-61,-445,-380,-507,
+-507,-493,-439,-29983,-29983,-29990,-29991,-29998,-29999,-29999]} 1. e4 c5 2.
+Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. d3 d6 6. Nd2 Nf6 7. Nf1 Nd7 {B30: Sicilian: 2..
+.Nc6 3 Bb5, lines without ...g6} (7... Bg4 8. f3 Be6 9. Ne3 O-O 10. O-O Nh5 11.
+g3 Bg5 12. Ncd5 Bxe3+ 13. Bxe3 Ne7 14. Bg5 Bxd5 15. Bxd5 h6 16. Bxe7 Qxe7 17.
+f4 Nf6 18. Bb3 {1/2-1/2 (57) Bacrot,E (2725)-Yu,Y (2751) Riadh 2017}) 8. Nd5
+Nb6 9. Nxb6 axb6 {White has an edge.} 10. c3 O-O 11. Ne3 Bg5 12. O-O Kh8 13. a3
+$146 ({Predecessor:} 13. a4 Be6 14. Re1 Bxe3 15. Bxe3 Bxc4 16. dxc4 {1/2-1/2 
+(23) Kollars,D (2541)-Nayhebaver,M (2471) Le Castella 2018}) 13... f5 14. Nxf5
+{With the idea Bxg5.} Bxc1 15. Rxc1 Bxf5 16. exf5 d5 17. Ba2 Rxf5 18. Qg4 Rf6
+19. f4 exf4 20. Qg5 Qf8 21. Qxd5 Rd8 22. Qf3 Ne5 {[%cal Bc6e5,Be5g4,Bg4e3]
+[%mdl 32]} 23. Qe4 $1 {[%cal Re4e5]} Ng4 24. Rce1 Ne3 $36 {[%mdl 2048] Black
+has some pressure.} 25. Rf2 Re8 26. Qxb7 {[#]} g5 $1 27. Rfe2 $2 {[%mdl 8192]}
+(27. Qf3 $1 $15) 27... g4 {Hoping for ...Re7.} 28. Rf2 {White hopes to
+continue with Qd7.} Qh6 {( -> ...g3!)} 29. Qc7 {intending g3.} Ref8 {White
+must now prevent ...g3!} 30. h3 {[#]} (30. Qe5 $19 g3 31. hxg3) 30... gxh3 {
+Black mates.} 31. g3 fxg3 32. Rxf6 h2+ 33. Kh1 g2# {Accuracy: White = 44%,
+Black = 86%.} 0-1
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.28"]
+[Round "8.4"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Keymer, Vincent"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2773"]
+[BlackElo "2516"]
+[Annotator "TA"]
+[PlyCount "97"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,97,17,24,0,37,12,0,0,0,-12,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,
+0,22,0,17,20,11,7,18,22,26,29,15,0,16,8,12,4,20,0,12,8,29,29,11,7,7,8,7,0,27,0,
+89,97,95,96,610,589,700,700,548,614,533,533,438,427,250,195,802,914,1584,6295,
+5703,6095,1285,420]} 1. e4 c5 2. c3 ({Predecessor:} 2. Nf3 Nc6 3. c3 Nf6 4. e5
+{1/2-1/2 (28) Broniek,M (2264)-Noble,M (2422) LSS email 2008}) 2... Nf6 3. e5
+Nd5 4. Nf3 Nc6 5. Bc4 Nb6 6. Bb3 d5 7. exd6 Qxd6 8. O-O $146 {B22: Sicilian: 2
+c3} (8. Na3 a6 9. O-O Bf5 10. d4 cxd4 11. Nxd4 Nxd4 12. cxd4 e6 13. Qf3 Qd7 14.
+Qg3 Bg6 15. Bf4 Bxa3 16. bxa3 O-O 17. Rac1 Rac8 18. h4 Nd5 19. Bd6 Nc3 20. Rce1
+{0-1 (38) Mamedov,R (2699)-Navara,D (2740) Porto Carras 2018}) 8... Be6 9. Na3
+Bxb3 10. axb3 {The position is equal.} Qd3 11. Re1 e6 12. Re3 Qd7 13. Nc4 Nxc4
+14. bxc4 Be7 15. d4 cxd4 16. cxd4 O-O 17. Rd3 b5 18. cxb5 Nb4 19. Ne5 Qxb5 20.
+Rh3 {Black must now prevent Qh5.} Nd5 21. Rb3 Qe8 22. Rg3 {Strongly
+threatening Bh6.} f5 23. Qe2 (23. Bd2 {feels hotter.} Bd6 24. Qe1 a5 25. Rf3
+Qe7 26. Nc4) 23... Bf6 24. Rga3 Qe7 25. Nf3 Rfb8 26. Ra6 Rb6 27. Rxb6 Nxb6 28.
+Bf4 Rc8 29. g3 Qd7 30. Bg5 Rc7 31. Re1 Kf7 32. h4 Rc6 33. h5 h6 34. Bxf6 gxf6
+35. Nh4 Nd5 $1 36. g4 $36 {[%mdl 2048] White has some pressure.} Ne7 37. Qe3
+Rc8 (37... fxg4 $11 38. Qxh6 g3) 38. gxf5 $1 $16 ({Don't play} 38. Qxh6 $6 Rg8
+$11) 38... Rg8+ {[#]} 39. Kh2 $1 {[%cal Rf5e6]} Nxf5 $2 {[%mdl 8192]} (39...
+Qd6+ $16 40. Kh3 Rg5) 40. Nxf5 $18 exf5 $16 {[%mdl 4096] Endgame KQR-KQR} 41.
+Qb3+ Kf8 42. Qb4+ Kf7 43. Qc4+ Kf8 44. Qc5+ $1 Kf7 {[#]} 45. Ra1 $1 {[%cal
+Ra1a7]} Ra8 $2 (45... Rb8 46. Rxa7 Rb7 47. Rxb7 Qxb7 48. Qxf5 Qxb2) 46. Ra6 $18
+{White is clearly winning.} Qe8 47. Qxf5 Qb8+ 48. Kh3 Qc8 {[#]} 49. Rxf6+ {
+Accuracy: White = 68%, Black = 52%.} (49. Rxa7+ $142 $1 {[%mdl 512]} Ke8 (49...
+Rxa7 50. Qxc8) 50. Rxa8 {[%mdl 64] Overworked Piece} Qxa8 51. Qe6+ Kf8 52.
+Qxf6+ {[%mdl 64] Double Attack} Kg8 53. Qg6+ Kh8 54. Qxh6+ Kg8 55. Qe6+ Kh8 56.
+d5) 1-0
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.28"]
+[Round "8.5"]
+[White "Aronian, Levon"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[WhiteElo "2763"]
+[BlackElo "2774"]
+[Annotator "TA"]
+[PlyCount "65"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,65,25,26,16,20,4,10,6,19,8,8,8,14,0,17,0,22,-16,-5,-8,-17,-12,-6,-6,
+-6,-7,-4,-7,-7,-10,-5,-5,-4,-2,0,-3,-4,-6,-9,-7,6,6,5,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Qe2 {C65: Ruy
+Lopez: Berlin Defence (3...Nf6), unusual lines and 4 0-0 Bc5} (6. O-O {seems
+wilder.} Bd6 7. b3 O-O 8. a4 Be6 9. Na3) 6... Qe7 {The position is equal.} 7.
+h3 Bd6 8. Nbd2 Nd7 9. O-O $146 ({Predecessor:} 9. Nc4 c5 10. Ne3 Nf6 11. Bd2
+Be6 12. Ng5 Bd7 13. Bc3 O-O-O {1/2-1/2 (21) Nisipeanu,L (2674)-Tomashevsky,E 
+(2705) Germany 2019}) 9... O-O 10. Nc4 Re8 11. Re1 c5 12. Nh2 Nf8 13. f4 exf4
+14. Qf2 Ng6 15. Rf1 Be6 {[#] Threatens to win with ...Bxc4.} 16. Nxd6 cxd6 17.
+Bxf4 d5 18. exd5 Bxd5 19. Bd2 b6 20. Ng4 Qe2 21. Ne3 Qxf2+ 22. Kxf2 Be6 23. Bc3
+Ne7 24. Rfe1 Nd5 25. Nxd5 Bxd5 26. b3 f6 27. Rxe8+ Rxe8 $11 {[%mdl 4096]
+Endgame KRB-KRB} 28. Re1 Kf7 29. Rxe8 Kxe8 30. Bd2 Kd7 31. Bc3 Ke8 32. Bd2 Kd7
+33. Bc3 {Accuracy: White = 58%, Black = 64%.} 1/2-1/2
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.29"]
+[Round "9.1"]
+[White "Naiditsch, Arkadij"]
+[Black "Meier, Georg"]
+[Result "1-0"]
+[ECO "A10"]
+[WhiteElo "2695"]
+[BlackElo "2628"]
+[Annotator "TA"]
+[PlyCount "29"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,79,10,9,0,2,-6,0,-5,24,12,57,31,59,60,64,26,33,-5,0,-22,65,0,8,0,61,
+85,55,61,181,142,223,256,266,307,304,270,329,143,252,247,476,293,276,0,0,0,0,0,
+39,0,111,102,96,102,248,154,279,285,300,300,300,300,316,292,411,388,429,432,
+872,863,950,904]} 1. c4 b6 2. Nc3 Bb7 3. e4 e5 4. Nge2 (4. Nf3 Nc6 5. d3 Bc5 6.
+Be2 Nge7 7. a3 a5 8. Rb1 d6 9. O-O O-O 10. Nd5 Nd4 11. b4 axb4 12. axb4 Nxf3+
+13. Bxf3 {1/2-1/2 (93) Rakhmanov,A (2629)-Predke,A (2622) St Petersburg 2018})
+4... Nc6 5. g3 Bc5 6. Bg2 {A10: English Opening: Unusual Replies for Black} h5
+7. h3 d6 $146 ({Predecessor:} 7... Nf6 8. a3 a5 9. d3 h4 10. Bg5 hxg3 11. Nxg3
+{1-0 (20) Harika,D (2514)-Ehlvest,J (2524) Almaty 2016}) 8. d3 {The position
+is equal.} Qd7 9. h4 f5 10. exf5 Qxf5 11. O-O Nf6 12. d4 exd4 13. Nb5 {[%mdl
+64] Double Attack} Qc8 14. Nf4 Ne5 {[#]} ({Black should play} 14... a6 $11 15.
+b4 (15. Bh3 Ng4 $11) 15... axb5 16. bxc5 Ne5 17. cxd6 cxd6) 15. b4 {Played:
+Nf4-e6} 1-0
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.29"]
+[Round "9.2"]
+[White "Caruana, Fabiano"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[WhiteElo "2819"]
+[BlackElo "2763"]
+[Annotator "TA"]
+[PlyCount "86"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 26,86,28,29,29,29,31,16,21,25,18,19,162,13,21,24,28,27,17,14,15,20,24,
+16,16,12,18,14,14,11,15,8,8,10,12,10,9,15,8,10,14,0,10,8,11,0,0,0,0,0,0,0,0,0,
+0,0,0,-2,0,-3,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6.
+Re1 b5 7. Bb3 O-O 8. c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d3 Bd6
+13. Re1 Bf5 14. Qf3 Qh4 {C89: Closed Ruy Lopez: Marshall Attack} 15. g3 Qh3 16.
+Nd2 (16. Be3 Bxd3 17. Nd2 Qf5 18. Bd4 Rfe8 19. a4 h6 20. Kg2 Kf8 21. Rxe8+ Rxe8
+22. axb5 axb5 23. Qxf5 Bxf5 24. Bxd5 cxd5 {1-0 (66) Caruana,F (2782)-Aronian,L
+(2812) Zuerich 2014}) 16... Rae8 17. Ne4 Bg4 18. Qg2 Qxg2+ 19. Kxg2 f5 20. h3
+Bh5 (20... fxe4 $6 21. hxg4 exd3 22. Rxe8 $16) 21. Bf4 Bxf4 22. gxf4 {White
+wants to play Nc5.} fxe4 23. dxe4 {[%mdl 64] [#] Pin} Bf3+ $146 {[%mdl 576]
+Decoy} 24. Kxf3 Rxf4+ {The position is equal.} 25. Kg3 Rfxe4 26. Rxe4 Rxe4 $11
+{[%mdl 4096] Endgame KRB-KRN} 27. f3 Re5 28. c4 bxc4 29. Bxc4 a5 30. Rc1 Rg5+
+31. Kf2 Kf8 $1 32. Bd3 Ne7 33. Rc4 ({Of course not} 33. Bxh7 g6 $17) 33... Rh5
+34. h4 Ke8 35. b4 axb4 36. Rxb4 Kd7 37. a4 g6 38. Kg3 Ra5 39. Rd4+ Ke6 40. Kg4
+Nd5 41. Kg3 Ne7 42. Kg4 Nd5 43. Kg3 Ne7 {Accuracy: White = 80%, Black = 90%.}
+1/2-1/2
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.29"]
+[Round "9.3"]
+[White "Carlsen, Magnus"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[ECO "A37"]
+[WhiteElo "2845"]
+[BlackElo "2773"]
+[Annotator "TA"]
+[PlyCount "85"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,85,13,23,0,10,0,0,0,13,0,32,44,44,38,54,30,59,57,52,55,71,60,66,61,
+92,74,77,61,125,81,96,83,105,97,141,136,130,128,133,134,141,136,106,68,69,68,
+68,68,68,68,68,68,68,68,68,68,68,68,106,111,206,206,206,200,199,188,294,287,
+2093,1488,550,550,2004,2056,1379,535]} 1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6
+5. Nf3 d6 6. O-O Bf5 7. h3 {A37: Symmetrical English vs ...g6: 4 Bg2 Bg7 5 Nf3}
+Nf6 (7... Qd7 8. Kh2 e5 9. d3 h6 10. a3 Nge7 11. Rb1 a5 12. Nd2 O-O 13. Nde4
+Kh7 14. Bd2 Be6 {0-1 (87) Harikrishna,P (2725)-Ragger,M (2687) St Petersburg
+2018}) 8. d3 O-O 9. Be3 {The position is equal.} a6 10. Qd2 b5 $146 ({
+Predecessor:} 10... Qd7 11. g4 Be6 12. Bh6 Rab8 13. e4 b5 14. Bxg7 Kxg7 15. b3
+h5 16. g5 Nh7 {0-1 (29) Schmidbauer,A (1886)-Dolinar,J (1788) Vienna 2012}) 11.
+cxb5 axb5 12. Nxb5 Qa5 13. Nc3 Rab8 14. Rfc1 Rfc8 15. b3 e5 16. Bh6 Nd4 17.
+Bxg7 Nxf3+ 18. exf3 Kxg7 19. f4 Qa6 (19... h5 $14) 20. fxe5 dxe5 21. Na4 Nd7
+22. Rc3 Rb4 23. g4 Be6 24. Nxc5 Nxc5 {[#]} 25. Rxc5 $1 {[%mdl 576] Discovered
+Attack} Rxb3 (25... Rxc5 26. Qxb4) 26. Rxc8 Bxc8 27. Rc1 Rxd3 28. Qe2 Be6 $1
+29. Qxe5+ Kg8 30. Rb1 $36 {[%mdl 2048] Black is under pressure.} Rd8 $1 31. Rb8
+Rxb8 32. Qxb8+ Kg7 $1 33. Bd5 {[%mdl 64] Decoy} Bxd5 34. Qe5+ {[%mdl 64]
+Double Attack} f6 35. Qxd5 $16 {[%mdl 4096] Endgame KQ-KQ} h5 (35... Qa7 $16)
+36. gxh5 $18 gxh5 37. Qd7+ ({Much less strong is} 37. Qxh5 $6 Qxa2 38. Qf5 Qb2
+$16) 37... Kg6 38. a4 {[%cal Ba2a4,Ba4a5][%mdl 32]} Qe2 {[#]} (38... Qa5 $142
+39. Qb5 Qe1+ 40. Kg2 Qe4+ 41. Kg1 Qe1+ 42. Kg2 Qe4+ 43. Kg1 Qe1+) 39. Qd5 $1 f5
+$2 (39... Kh6 40. a5 h4) 40. a5 {White is clearly winning.} f4 41. Kg2 Kh6 42.
+Qf5 Qc4 43. Kf3 {Accuracy: White = 82%, Black = 36%.} (43. Qf6+ $142 Kh7 44. a6
+Qd5+ 45. Kh2) 1-0
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.29"]
+[Round "9.4"]
+[White "Keymer, Vincent"]
+[Black "Vallejo Pons, Francisco"]
+[Result "0-1"]
+[ECO "A61"]
+[WhiteElo "2516"]
+[BlackElo "2693"]
+[Annotator "TA"]
+[PlyCount "72"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,72,64,55,61,43,52,9,46,65,51,53,43,47,58,61,40,54,56,39,97,30,35,-51,
+-22,-58,-72,-61,-69,-109,-117,-245,-244,-240,-238,-248,-248,-230,-231,-250,
+-250,-258,-259,-371,-262,-391,-295,-542,-521,-552,-536,-561,-497,-561,-558,
+-509,-529]} 1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. h3
+Bg7 8. e4 O-O 9. Bd3 a6 10. a4 Nh5 {A70: Modern Benoni: 6 e4 g6 7 Nf3} 11. g4
+Nf6 12. Bf4 Ne8 {The position is equal.} 13. Qd2 Nd7 14. O-O {[#]} h5 $146 ({
+Predecessor:} 14... Rb8 15. Rae1 b6 16. Bg5 f6 17. Bh4 Ne5 18. Nxe5 dxe5 19. f4
+exf4 20. Qxf4 Rb7 21. e5 {1/2-1/2 (21) Kopylov,M (2424)-Gharamian,T (2626)
+Germany 2018}) 15. gxh5 Ne5 16. Nxe5 dxe5 17. Bg5 f6 $1 {[%cal Rf6g5]} 18. Be3
+{Hoping for h6.} c4 ({Better is} 18... Bxh3 $14 19. h6 (19. Bxc5 Qc8 $14) (19.
+hxg6 f5 $14) 19... Bh8) 19. Bxc4 (19. Be2 $16) 19... Nd6 $11 20. Qe2 ({White
+should play} 20. Be2 $14) 20... f5 $1 $36 {[%cal Rf5f4][%mdl 2048] Black is
+pushing.} 21. f4 {And now Bc5 would win.} Qh4 $1 {[%cal Rh4g3][%mdl 64] aiming
+for ...Qg3+. Double Attack} 22. Bc5 Qg3+ $1 23. Kh1 Qxh3+ 24. Qh2 (24. Kg1 $17
+Nxc4 25. Bxf8 Bxf8 26. Qxc4 Qg3+ 27. Kh1 Qh3+ 28. Kg1 Qg3+ 29. Kh1 Qh3+ 30. Kg1
+) 24... Qxh2+ $19 25. Kxh2 Nxc4 26. Bxf8 Kxf8 27. hxg6 {[#]} exf4 $1 28. exf5
+Bxf5 29. Rae1 {[#]} Re8 $1 ({Not} 29... Nxb2 30. Rxf4 Bxc3 31. Rxf5+ Kg8 32.
+Re7 $11) 30. Rxe8+ Kxe8 31. Re1+ (31. Ne2 {is the only way for White.}) 31...
+Be5 32. Nd1 $2 (32. g7 {was worth a try.} Kf7 33. Kg2) 32... Bxg6 {Black is
+clearly winning.} 33. Kg2 {intending b3.} Bc2 34. Kf3 Kd7 35. Nf2 Kd6 36. Rc1
+Ne3 {Accuracy: White = 22%, Black = 85%.} 0-1
+
+[Event "6th GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2019.04.29"]
+[Round "9.5"]
+[White "Anand, Viswanathan"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "C84"]
+[WhiteElo "2774"]
+[BlackElo "2735"]
+[Annotator "TA"]
+[PlyCount "74"]
+[EventDate "2019.03.30"]
+[EventType "tourn"]
+[EventCountry "GER"]
+[Tiebreak "Number of black wins+Number of black games+Koya"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,74,8,2,14,14,29,11,14,14,10,12,16,20,18,26,26,13,14,21,0,19,29,0,11,
+10,8,10,8,8,8,4,10,10,10,5,4,0,0,4,0,0,4,3,3,3,3,3,3,3,3,3,3,3,3,0,0,0,4,0,0]} 
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3
+O-O 9. Nc3 Na5 {C77: Ruy Lopez: 3...a6 4 Ba4 Nf6, unusual lines} (9... Bg4 10.
+Be3 Nd4 11. Bxd4 exd4 12. Nd5 Nd7 13. h3 Bxf3 14. Qxf3 c6 15. Nf4 Nc5 16. Ba2
+a5 17. Qg4 Kh8 18. Ne2 {1-0 (48) Caruana,F (2828)-Postny,E (2623) chess.com
+INT 2019}) 10. Ba2 Be6 11. b4 Bxa2 12. Rxa2 Nc6 13. Bg5 Ng4 14. Bd2 Nf6 15. Re1
+Qd7 16. Nd5 Nxd5 17. exd5 {[#]} Na7 $146 18. a4 c6 19. axb5 axb5 {The position
+is equal.} 20. Qa1 {Strongly threatening dxc6.} cxd5 21. Be3 {Threatens to win
+with c3.} d4 {[#]} 22. Nxd4 $1 {[%mdl 512]} exd4 23. Bxd4 {[%mdl 64] [#]
+Double Attack} Bf6 $1 24. Bxf6 gxf6 25. Re3 {Rg3+ would kill now.} Rfe8 $1 26.
+Rg3+ Kf8 27. h3 Re6 28. c4 bxc4 29. dxc4 Qc7 $1 30. Kh2 {Black should prevent
+b5.} Qxc4 31. Rxa7 Rxa7 32. Qxa7 {Black must now prevent Qb8+.} Qxb4 $11 {
+KQR-KQR} 33. Qa8+ Re8 $132 {[%mdl 2048] Black puts up resistance} 34. Qf3 Re6
+35. Qa8+ Re8 36. Qf3 Re6 37. Qa8+ Re8 {Accuracy: White = 88%, Black = 91%.}
+1/2-1/2
+

@@ -1,0 +1,289 @@
+[Event "European Championship"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "3"]
+[White "Zanan, E."]
+[Black "Yilmaz, Mustafa"]
+[Result "0-1"]
+[WhiteElo "2514"]
+[BlackElo "2636"]
+[Annotator "DF"]
+[PlyCount "58"]
+[EventDate "2019.03.22"]
+
+{[%evp 0,58,19,31,72,53,86,88,62,42,48,26,77,61,48,23,23,29,72,40,51,46,48,45,
+42,4,-22,-50,-26,-26,45,-39,-40,-60,-42,-54,-63,-64,-59,-61,-51,-70,-68,-153,
+-211,-207,-168,-177,-169,-169,-175,-193,-151,-403,-403,-434,-1,-25,-875,-893,
+-876]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6
+8. f3 h5 (8... Be7 {is an absolute main line and may be the best order for
+delaying White's g4}) (8... Nc6 $5) 9. Nd5 Bxd5 10. exd5 Nbd7 11. Qd2 (11. a4
+Rc8 12. a5 {may indeed deprive Black of ...Nb6, but now Black is more
+interested in the e5 square and other dark squares and could continue} g6 13.
+Qd2 Bg7 14. Be2 e4 $1 $40) 11... g6 12. O-O-O (12. Be2 {Trying to castle short.
+While annotating Leko-Saric for this site, I noted the following precedent
+game:} Bg7 13. Na5 (13. O-O b6 14. c4 O-O $11 {Topalov,V-Vachier Lagrave,M
+Paris 2017}) 13... Qc7 14. c4 O-O 15. O-O e4 16. f4 (16. b4 $5 $132) 16... Ng4
+$11 {Adair,J-Gormally,D Llandudno 2017}) (12. Na5 {is another
+long-castling-like move}) 12... Nb6 (12... Qc7 $5 13. Kb1 Bg7 14. Be2 O-O (
+14... a5 $5 {could be worth considering since White has already committed the
+Bf1, and not to b5:} 15. Bb5 (15. a4 O-O 16. g4 Nb6 $15) 15... a4 16. Na1 O-O
+17. c4 Nc5 $132) 15. g4 $1 {This was Leko's contribution and I think it gains
+an edge.} Rfc8 (15... a5 16. g5 Ne8 17. Qd3 $40) (15... hxg4 16. fxg4 Nb6 17.
+h4 $1 $40) 16. Rc1 a5 17. g5 Ne8 18. a4 $14 {Leko,P-Saric,I European Team
+Championship 2017}) 13. Kb1 Nfxd5 {With this capture, Black discourages Bg5,
+so it is definitely worth a look.} (13... Nbxd5 {It is still unclear to me
+whether this capture equalises.} 14. Bg5 Be7 15. g3 $5 {was the precedent.} (
+15. c4 Nb6 16. Na5 O-O $5 17. h4 d5 $13 {is the principled way for both sides
+to go}) (15. Bc4 Nb6 $1 (15... Qc7 16. Bxd5 Nxd5 17. Bxe7 Nxe7 18. Qxd6 $14)
+16. Na5 O-O 17. Bxf6 Bxf6 18. Qxd6 Kg7 $11) 15... O-O 16. f4 a5 (16... Nb6 $5 {
+seems to equalise}) 17. Bg2 (17. a4 $14) 17... a4 $11 {Leko,P-Giri,A London
+2012}) 14. Bf2 Nf6 15. Qe1 (15. Na5 $146 {was what I proposed in my notes to
+the Leko game:} Qc7 16. Bh4 $1 Nfd7 (16... Be7 17. Bxf6 Bxf6 18. Qxd6 $14) (
+16... Nbd7 $2 17. Nc4 $14) 17. f4 Rc8 18. Be2 {and practical tests are needed
+here}) (15. Bd3 $11 {Saric,I-Palac,M Porec 2016}) (15. Bh4 Be7 16. Bxf6 Bxf6
+17. Qxd6 {is what the computer says, but despite its initial enthusiasm I'm
+not sure that this version of the ending is any better than the others, e.g.}
+Qxd6 18. Rxd6 Bd8 $11) 15... Be7 16. g3 $6 {This line is difficult to play! In
+many positions, g3 works just fine; here, though, it is simply too slow.} (16.
+f4 exf4 $5 (16... e4 17. f5 $40 {looks more weakening}) 17. g3 fxg3 18. Bd4
+Nbd7 19. hxg3 Qc7 20. g4 Ne5 $13 {White probably does have enough for two
+pawns, but it is hard to come up with concrete ideas to get through to the
+Black king, which is protected by the bulwark on e5.}) 16... Qc7 17. Bd3 (17.
+f4 Na4 18. Bg2 Rc8 19. c3 b5 {sees Black commence aggressive operations.})
+17... Rc8 18. f4 Nc4 19. Nd2 (19. Qe2 $15) 19... b5 20. h3 O-O 21. f5 (21. Bxc4
+bxc4 22. Ne4 $17 {is just a pawn, but White should have done this.}) 21... d5
+$1 22. Bxc4 (22. fxg6 Nxb2 $19) 22... bxc4 23. Nf3 Bd6 24. g4 Rb8 {The game is
+already almost over.} 25. gxh5 Ne4 (25... Ba3 {was probably more clinical, and
+only after} 26. b3 {then} Ne4 $19) 26. Qe3 (26. hxg6 Ba3 27. gxf7+ Rxf7 28.
+Rg1+ Kh8 $19) 26... Bc5 27. Qh6 Rxb2+ $1 28. Kxb2 Rb8+ 29. Ka1 Qa5 {Mate is
+inevitable. For instance, on Be1 there would follow Nc3.} 0-1
+
+[Event "European Championship"]
+[Site "?"]
+[Date "2019.03.22"]
+[Round "3"]
+[White "Quparadze, G.."]
+[Black "Onischuk, V.."]
+[Result "1-0"]
+[ECO "B09"]
+[WhiteElo "2501"]
+[BlackElo "2626"]
+[Annotator "DF"]
+[PlyCount "123"]
+[EventDate "2019.03.22"]
+
+{[%evp 0,123,19,31,76,64,72,86,82,53,37,42,19,51,47,26,76,40,54,27,58,18,58,48,
+63,74,47,67,57,69,55,29,11,13,74,90,106,40,61,9,9,-3,-21,-2,-2,-2,-5,-41,-23,
+-23,-23,-38,33,56,25,41,40,32,40,40,57,69,75,46,46,46,46,46,115,100,125,121,
+121,103,103,97,111,102,107,104,125,133,137,108,123,135,131,131,129,106,128,112,
+119,147,167,157,157,162,177,163,161,158,158,154,259,266,320,365,359,360,416,
+342,342,349,329,400,427,424,424,455,1002,1012,1012,1449,29987,29988]} 1. e4 d6
+2. d4 g6 3. Nc3 Bg7 4. f4 Nf6 5. Nf3 O-O 6. Bd3 ({The Black player, of course,
+has significant experience in this line. Let us digress a little:} 6. Be3 Nc6 (
+6... b6 7. e5 Ng4 8. Bg1 c5 {is the main discussion on ChessPublishing; now} 9.
+Qe2 $5 cxd4 10. Bxd4 Nc6 {seems to work out fine for Black.}) 7. e5 Ng4 8. Bg1
+dxe5 9. fxe5 (9. dxe5 {is a better idea to try and get an edge}) 9... f6 10. h3
+Nh6 11. e6 Nb4 12. Bc4 c6 13. Qe2 Nf5 14. Bf2 Nd6 (14... Nd5 $5 {sees Black
+try and be better}) 15. Bb3 $13 {Christiansen,J -Onischuk,V Budapest HUN 2018})
+6... Na6 (6... Nc6 {has been the main move and the one I analysed a game for
+this site in:} 7. e5 (7. O-O e5 $1 (7... Bg4 {This move is most natural to me,
+but I don't think it gets the job done after} 8. e5 $1 (8. Be3 e5 9. fxe5 dxe5
+10. d5 Nd4 $11)) 8. dxe5 (8. fxe5 dxe5 9. d5 (9. dxe5 Nxe5 10. Nxe5 Qd4+ 11.
+Kh1 Qxe5 12. Bf4 Qc5 $11) 9... Nd4 (9... Ne7 $5 {Possible, and likely of equal
+value.} 10. Qe1 (10. Nxe5 c6 $1 {gives White nothing}) 10... c6 11. dxc6 Nxc6
+12. Be3 {and Black must get active quickly or be worse.}) 10. Nxe5 Nxd5 (10...
+Nxe4 11. Nxe4 Bxe5 12. c3 Nf5 13. Qf3 {and it transpires White has no real
+attack after a natural move like} Kg7 $11 {intending ...Nd6.}) 11. Nxd5 (11.
+exd5 Bxe5 12. Bf4 Bg7 13. Qd2 c6 $132) 11... Bxe5 12. Bf4 Nc6 13. Qd2 Be6 14.
+Bh6 (14. Bxe5 Nxe5 15. Nf6+ Kg7 16. Qc3 Qd6 $11) 14... Bxb2 (14... Bxd5 15.
+Bxf8 Bxe4 16. Bh6 Bxd3 $14) (14... Bg7 $1 $11) 15. Rab1 Bd4+ 16. Kh1 Bxd5 17.
+exd5 Qxd5 18. Bxf8 Rxf8 $14) 8... dxe5 9. f5 Nb4 $11 {Black is doing fine
+after he eliminates the enemy bishop pair, e.g. Womacka,M-Saric,I Germany 2017}
+) 7... dxe5 (7... Nd7 $5 8. Ne4 Nb4 $132) 8. fxe5 (8. dxe5 {is more solid, as
+always.} Nd5 9. Nxd5 (9. Bd2 Nb6 10. a3 f6 $11) 9... Qxd5 10. Qe2 Bg4 (10...
+Be6 $5) 11. Be4 Qd7 12. Be3 Rad8 (12... Nd4 13. Bxd4 Bxf3 14. Qxf3 Qxd4 15. c3
+Qa4 $13) 13. O-O Nd4 14. Qf2 Bf5 15. Bxf5 Nxf5 16. Bd2 $11 {0-1 (53)
+Petriashvili,N (2329)-Kobo,O (2500) Batumi GEO 2018}) 8... Nh5 9. Be3 (9. Bc4
+Bg4 10. Be3 Na5 {transposes}) (9. Ne2 f6 10. exf6 exf6 11. c3 Be6 12. O-O Re8
+$11) 9... Bg4 10. Be2 (10. Bc4 Na5 (10... Qd7 $5) 11. Be2 c5 12. d5 (12. dxc5
+Qb8 13. O-O Bxe5 $11) 12... Qb6 13. O-O Bxf3 14. Bxf3 Bxe5 15. Ne4 $13) 10...
+f6 {At this point, Black has completely neutralised White's aggression} 11.
+exf6 (11. d5 Nxe5 12. Nxe5 Bxe2 13. Qxe2 fxe5 14. O-O-O $13) 11... Nxf6 12. Qd2
+(12. h3 Bxf3 13. Bxf3 e5 14. Bxc6 bxc6 15. O-O (15. dxe5 $2 Nd5 16. Nxd5 Qh4+
+17. Ke2 Qe4 {with a huge attack}) 15... Nd5 $11) (12. O-O Qd7 13. Qd2 Rad8 $11)
+12... Nd5 13. Nxd5 (13. O-O-O {is more ambitious, but the position remains
+complex after} Bxf3 14. Bxf3 Nxe3 15. Qxe3 Nxd4 16. Ne2 c5 $13) 13... Qxd5 14.
+O-O e5 $11 {And Black has completely equalised: Drygalov,A-Matlakov,M Sochi
+2018.}) 7. O-O c5 8. d5 Rb8 9. a4 Nc7 10. Bc4 {White immediately threatens to
+push e5.} (10. Qe1 $14 {seems rather more natural}) 10... a6 11. a5 Nb5 ({
+Clearly, the text was preparation, and it's not bad. Also worthy of attention
+is} 11... e6 12. dxe6 Bxe6 13. Bxe6 Nxe6 14. f5 gxf5 $5 15. exf5 Nc7 {when
+it's not yet clear whether White's kingside attack will arrive before Black's
+central play spearheaded by the d-pawn.}) 12. Bxb5 $1 axb5 13. e5 Ne8 (13...
+Nd7 14. exd6 exd6 15. Nxb5 Nf6 16. c4 Re8 $44 {might be a clearer path to
+compensation, since the Black knight plays more of a role}) 14. Nxb5 Ra8 15.
+Bd2 (15. Qd2 $5) 15... dxe5 16. Nxe5 $6 {Likely losing the advantage.} (16.
+fxe5 Qxd5 17. Nc3 Qc6 18. Bg5 $14) 16... Qxd5 17. Be3 Qe4 18. Qd3 (18. Bxc5
+Bxe5 19. fxe5 Qc4 {is a material imbalance that, while looking fine for White,
+is going to be easier for Black to handle.}) 18... Qxd3 19. cxd3 Bf5 20. Rfd1
+Nf6 21. Bxc5 Nd5 {Now Black has compensation. Both sides handled this part of
+the game excellently.} 22. g3 Rfc8 23. b4 g5 $1 24. Nd4 Bg6 25. Ne2 gxf4 26.
+Nxf4 Nxb4 27. Nexg6 Rxc5 28. Nxe7+ Kf8 29. Rab1 Bd4+ (29... Nc2 $11 {was okay
+immediately}) 30. Kh1 Nc2 31. Ned5 Ra7 ({It is hard to explain not taking on
+a5 immediately:} 31... Raxa5 $11 {but most likely the problem was with the line
+} 32. Rxb7 Rxd5 33. Nxd5 Rxd5 34. Rf1 {when Black has to play the
+artificial-looking} f5 35. Rc1 Rc5 {, in which he might lose a piece if he
+didn't have the silicon friend telling him there was nothing to worry about.})
+32. Rdc1 Raxa5 33. Rf1 {Again, offering the line from the previous note.} Kg8
+34. Rxb7 $16 {Now White has a clean pawn and this is hell to defend.} Ra1 35.
+Rxa1 Bxa1 36. Nh5 h6 37. Nhf4 Bd4 38. Rb8+ Kh7 39. Re8 Ra5 40. Kg2 Ra1 41. Re2
+Ne1+ 42. Kh3 Nf3 43. Kg4 Rf1 44. Re7 Kg8 45. h4 Ne5+ 46. Kh5 Nxd3 47. Kxh6 Bg7+
+48. Kg5 Ne5 49. Kh5 Ng6 50. Re8+ Kh7 51. Nh3 Be5 $2 {It was far from obvious,
+but this is the decisive mistake.} (51... Bh6 $1 $16 {was the way to prevent
+both Ne3-f5 and Ng5. Obviously, White can continue having fun for a while, but
+the position has now simplified enough to be more or less defensible.}) 52. Ne3
+$1 Rf6 {Black's pieces get bunched up here, but there wasn't really a choice.}
+(52... Rh1 53. Ng5+ Kg7 54. Nf5+ Kf6 55. Kg4 $18) (52... Ra1 53. Ng5+ Kg7 54.
+Nf5+ Kf6 55. g4 $1 $18) 53. Ng5+ Kg7 54. Kg4 Bd6 55. Nf5+ Rxf5 56. Kxf5 Bxg3
+57. h5 Ne5 58. Ne4 Nc4 59. Kg5 Be5 60. h6+ Kh7 61. Kh5 f6 62. Re7+ 1-0
+
+
+[Event "European Championship"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "3"]
+[White "Azarov, S."]
+[Black "Grandelius, N."]
+[Result "1-0"]
+[WhiteElo "2585"]
+[BlackElo "2694"]
+[Annotator "DF"]
+[PlyCount "117"]
+[EventDate "2019.03.22"]
+
+{[%evp 0,117,19,31,72,53,86,72,72,49,49,58,62,47,73,56,68,55,68,18,62,15,16,24,
+26,-18,2,-58,-17,-58,-43,-45,-21,-20,-20,-65,-68,-61,3,-9,-16,-74,-28,-85,80,
+65,65,65,98,83,55,62,62,86,130,56,83,53,68,67,75,75,95,102,96,97,104,99,131,
+128,116,119,152,165,166,165,166,111,132,115,104,110,118,118,118,123,123,123,
+119,133,129,129,145,175,164,160,168,161,220,220,264,151,163,185,211,217,196,
+196,230,366,370,463,537,589,608,615,624,677,736,229] [#]} 1. e4 c5 2. Nf3 d6 3.
+d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 {An interesting 'second' move
+after Qe2.} Qb6 (7... Qa5 {Solid; the queen may however wish to drop back to
+c7 later. I explain one or two ideas in qualitative terms.} 8. Qd2 e6 9. Bb3 {
+This seems to be trending now; if Black commits with ...b5 then White may be
+going kingside.} (9. O-O-O b5 {[#]} 10. Bxe6 $6 (10. Bb3 Nc5 {Seems to lead to
+generally acceptable Rauzer versions for Black.}) 10... fxe6 11. Nxe6 Ne5 12.
+Nxf8 (12. Nxg7+ Bxg7 13. Qxd6 Nc4 14. Qc6+ Kf7 15. Qxa8 Re8 $1 $40) 12... Nc4
+$1 13. Qd4 Rxf8 $15 {White's compensation is insufficient.}) 9... Be7 {A
+little move-order wrinkle.} (9... b5 $6 10. f3 {9...b5 has two ideas: to push .
+..b4 and to fianchetto the queen's bishop. The latter would be blunted by the
+text, and the former would be less effective in case of the short castling
+that White can now do.}) 10. f3 Nc5 {[#] Now Black may economise on ...b5 in
+case White castles short, and that decision has to be taken without further
+delay. The independent option, then, is} 11. O-O {and now say} Qc7 12. Rad1 O-O
+{[#] when Black is indeed likely to use the alternate bishop development to d7.
+}) (7... h6 {looks a little bit suspect: for instance now} 8. Bxf6 Nxf6 9. Qe2
+e6 10. O-O-O Qc7 11. f4 b5 12. Bb3 b4 {[#]} 13. e5 $5 bxc3 14. exf6 gxf6 15.
+Qh5 $40) 8. Bb3 {Not entering the treacherous pseudo-Poisoned-Pawn waters.} (8.
+Qd2 Qxb2 9. Rb1 Qa3 10. O-O (10. Nd5 Qc5 {The tempo this move gains is very
+useful, especially with reference to how White plays in the next note.} 11.
+Bxf6 Nxf6 12. O-O e6 $132) 10... e6 $1 11. Bxe6 {Else there may not be
+anything.} fxe6 12. Nxe6 Qa5 $1 13. f4 h6 $1 {The position is scary, but White
+doesn't have a promising continuation (this all puts me in mind of the 4.Nxf7
+Petroff!)} 14. Bh4 (14. Bxf6 Nxf6 15. Nxf8 Kxf8 16. e5 (16. Qxd6+ Kf7 $17)
+16... Ne8 $15 {White doesn't have quite enough compensation.}) (14. e5 dxe5 15.
+Bxf6 Nxf6 16. Nxf8 Rxf8 17. fxe5 Nd7 $15 {The position remains unclear, but I
+trust that Black is not getting mated.}) 14... Kf7 15. f5 b5 $15 {[#]}) (8. O-O
+Qxb2 (8... Qc5 {is seen elsewhere in these pages in Wei Yi-Loek van Wely.}) 9.
+Nd5 {was the variation chosen in a historic Wei Yi game:} (9. Qd2 {also exists,
+but White does not immediately crash through after} Qb4 10. Bb3 e6 11. f4 Be7
+$132 {and so his compensation may be a little bit hard to pin down}) 9... Nxd5
+10. Rb1 (10. Bxd5 {is just a different move order: after} Qc3 {White probably
+wants to go Rb1 anyway.} (10... e6 {Let us examine this move, in case the game
+continuation turns out not to be great for Black.} 11. Rb1 (11. Bxe6 $6 fxe6
+12. Nxe6 Qc3 13. Qh5+ (13. Rb1 Qc4 14. Nf4 b5 $15 {is too slow}) 13... g6 14.
+Qh4 Ne5 15. Nf4 {Keeping pieces on the board.} (15. Nxf8 $6 h6 $1 16. Nxg6 (16.
+Bxh6 g5 17. Qxg5 Nf7 18. Bg7 Nxg5 19. Bxc3 Rxf8 $15) 16... Nxg6 17. Qh5 Kf7 18.
+Bxh6 Be6 $15 {Black has managed to develop, so his king's dodgy cover is not
+too much of an issue.}) 15... Bg7 16. Nd5 Qc4 17. Rad1 O-O $13 {[#]}) 11... Qc3
+12. Bxb7 (12. Rb3 Qc7 13. Re3 Nc5 $15) 12... Bxb7 13. Rxb7 Nc5 14. Rb6 (14. Rc7
+Qa5 15. Rc6 Nxe4 $13) 14... Nxe4 15. Be3 {was seen in the only practical
+example, and now:} Be7 (15... Nf6 $6 16. Qf3 $6 (16. Rc6 $1 {Sethuraman may
+have previously seen the idea he ended up playing in the game; the correct
+execution is like this.} Qb2 17. c4 Be7 18. Rc7 Bd8 (18... Kd8 19. Rc6 $16 {
+when loss of castling rights will decide}) 19. Nxe6 $16) 16... d5 17. Rfb1 Be7
+18. R6b3 Qc4 19. Rb7 Bd8 {[#]} 20. Nxe6 $1 fxe6 21. Qg3 Rf8 $6 (21... Rg8 $44)
+22. Qxg7 $40 {Sethuraman,S-Al Sayed,M Tromsoe 2014}) (15... Rc8 $5 {should be
+playable, e.g.} 16. Qe2 Qc4 17. Qxc4 Rxc4 18. Rxa6 e5 $13 {[#]}) 16. Qg4 Nf6
+17. Qxg7 Rg8 18. Qh6 Rc8 $13 {White might be slightly more comfortable, but
+this factor is dwarfed in the present position by the role of calculation.}))
+10... Qc3 11. Bxd5 Qc7 {This is greedy, and leads to a slightly worse position,
+but not as yet an unsustainable one, because White has nothing clear-cut.} (
+11... e6 {is playable, see 10.Bxd5. This seems most principled, as even by the
+most exacting standards White has more than enough development to compensate
+for the missing pawn.}) 12. f4 e6 13. Re1 Nc5 $6 {A non-obvious mistake.} (
+13... Ne5 $1 {Closing the e-file without further delay is likely to be a very
+good idea.} 14. Bxe6 (14. fxe5 dxe5 15. Bxe6 {may look like a move-order
+change but in fact now Black gets the extra option} Bc5 $15) (14. Bb3 h6 $1 15.
+Bh4 g5 16. fxe5 gxh4 $15) 14... fxe6 15. fxe5 dxe5 16. Nb3 Bd6 {[#] The
+evaluation of this position is critical for determining whether Black has to
+deviate on or before move 11, e.g. 8...Qc5 or 11...e6.} 17. Rf1 $5 {Seems to
+be best.} (17. Qh5+ Qf7 {doesn't acheive much}) (17. Qf3 a5 18. a4 b6 $13 {
+White is trying to do too much with the queen, so Black has time to develop
+his queen's bishop.}) 17... Rf8 18. Qg4 {While Black has lost castling rights,
+the centre is fairly closed and the attack is not imminent, so White's
+advantage is limited, and Black can sensibly continue in optimistic vein with}
+b5 $14 {preparing to use the rook along the 7th rank. In conclusion, the
+position after 11...Qc7 is risky but probably just about playable.}) (13... Nf6
+{may also be dodgy; now there is} 14. Bxf6 (14. Bb3 Be7 15. e5 dxe5 16. fxe5
+Nd5 17. Bxd5 Bxg5 18. Bxe6 Bxe6 19. Nxe6 fxe6 20. Qh5+ g6 21. Qxg5 O-O $11)
+14... gxf6 15. f5 e5 (15... exd5 16. exd5+ Kd8 17. Qh5 Bg7 18. Rb3 $16) 16. Ne2
+$14 {[#] This is decidedly a good Rauzer for White.}) 14. f5 $1 {[#] Now the
+centre is cracked open; moves like e5 and Qh5 are not far off.} Be7 $6 {
+A natural option in a bad position.} (14... e5 $5 {might be the knee-jerk
+reaction to try and close things, so that Black at least does not get mated.}
+15. Qh5 {now opens up the idea of Ne6! so ...g6 is virtually forced.} (15. c3 {
+is possible, but Black is far from being toast after} Be7 16. Bxe7 Qxe7 17. Nb3
+$14) 15... g6 (15... exd4 16. e5 $18 {will be mate}) 16. fxg6 fxg6 17. Qf3 Be7
+18. Qf7+ $1 (18. Bxe7 $5 Qxe7 19. Nc6 {looks extremely tempting, but I'm not
+seeing the follow-up; for instance} Qf8 20. Qc3 (20. Qg3 $5) 20... Be6 21. Bxe6
+(21. Rf1 Qg7 22. Bxe6 Nxe6 23. Nb4 Qc7 $14) 21... bxc6 22. Rf1 Qe7 23. Bf7+ Kd8
+24. Bb3 Rb8 25. Rbd1 Nxb3 26. cxb3 Kc7 $14) (18. Bh6 {leads to an impressive
+forced line, but not a win:} exd4 19. Bg7 Rf8 20. Bxf8 Bxf8 21. e5 dxe5 22.
+Rxe5+ Qxe5 23. Qf7+ Kd8 24. Qxf8+ Kc7 25. Qxc5+ Kb8 $11) 18... Kd8 19. Nf3 Bxg5
+20. Nxg5 Qe7 21. Qxe7+ Kxe7 22. Rf1 h6 (22... Rf8 23. Rxf8 Kxf8 24. Rf1+ Ke7
+25. Rf7+ Kd8 26. Nxh7 Bd7) 23. Rf7+ Kd8 24. Nh7 Nd7 $16 {[#] White is quite
+significantly better but there is still a game to be played.}) (14... h5 $5 {
+Protects the g4 and h5 squares against incursion by White's queen.} 15. fxe6 (
+15. Qf3 f6 $5) 15... fxe6 16. Qf3 Qf7 17. Qe3 $16 {[#] White has opened up so
+many avenues of attack (e5 ideas, Rb6, Rf1, Nf5, etc) that Black cannot
+possibly defend it all.}) 15. Bxe7 Qxe7 16. fxe6 fxe6 {[#]} 17. Nf5 $1 {
+This wins without too much trouble.} Qc7 (17... Qf8 18. Bc6+ bxc6 19. Nxd6+ Ke7
+20. Rf1 $16) (17... Qd7 18. Bc6 bxc6 19. Nxd6+ Ke7 20. Qg4 $16) 18. Bc6+ Qxc6
+19. Nxd6+ Ke7 20. Qg4 Nd7 (20... Qxd6 21. Qxg7+ Ke8 22. Qxh8+ Qf8 23. Qe5 $18)
+21. e5 {Now Black resigned, as there is no answer to Qxg7 and Qh4. Wei,Y-Xu,Y
+China 2015.} (21. Qxg7+ $6 {would let Black escape:} Kxd6 22. Qxh8 Kc7 23. Re3
+Nc5 $14) (21. e5 Qc5+ (21... Kd8 22. Nf7+ Kc7 23. Nxh8 $18) (21... Rg8 22. Qh4+
+$18) 22. Kh1 Nxe5 23. Qxg7+ Kxd6 {[#]} 24. Rxe5 $1 {The final necessary
+wrinkle.} (24. Qxh8 Nc4 $14) 24... Qxe5 25. Rd1+ Qd5 26. Rxd5+ exd5 27. Qxh8
+$18)) 8... e6 9. Qd2 Be7 10. O-O-O Nc5 11. Rhe1 (11. f3 Qc7 12. g4 b5 $132 {
+[#] As played in, inter alia, Brenjo,S-Djukic,N Montenegro 2016}) (11. Qe2 $5)
+11... h6 12. Bh4 O-O 13. Qe3 (13. g3 Qc7 14. f4 b5 15. e5 dxe5 16. fxe5 Nh7 17.
+Bxe7 Qxe7 18. Nc6 Qc7 19. Qd6 Qxd6 20. Rxd6 Bb7 {Black was at least fine in
+Dominguez Perez,L-Wojtaszek,R Doha 2016}) 13... Qc7 14. g4 $5 {A violent
+attacking move!} Nfxe4 (14... Nxg4 15. Qg3 Bxh4 16. Qxh4 Ne5 17. f4 Ng6 18. Qg3
+$44) (14... Re8 $5 15. f4 b5 $132 {looks good, staying calm}) 15. Bxe7 Nxc3 16.
+bxc3 Qxe7 17. Nf5 {Now White's position is practically quite nice.} Qc7 18.
+Nxd6 Rd8 19. Qe5 b6 20. f4 Bb7 (20... a5 $11) 21. f5 Bd5 22. Nxf7 $1 $16 Qxf7
+23. fxe6 Bxe6 24. Rxd8+ Rxd8 25. Bxe6 Nxe6 26. Qxe6 Rd5 27. a4 Rc5 28. Kb2 Rc4
+29. Qxb6 Rxa4 30. h3 Kh7 31. Qb3 Qd7 32. Re5 Rf4 33. Qd5 Qc8 34. Re7 Qb8+ 35.
+Rb7 Qe8 36. Qd3+ Kh8 37. Qd6 Rf8 38. Qe7 Qxe7 39. Rxe7 Rb8+ 40. Ka3 Rc8 41. Kb3
+Rb8+ 42. Ka4 {I think the rook endgame is just a matter of technique.} Rc8 43.
+Re3 Rc5 (43... Kh7 {What was White's idea after this? Presumably, to force the
+Black rook forward anyway. But in that case, the text loses a tempo, which if
+not critical is at least a good idea to keep.} 44. Kb4 (44. Ka5 Rc6 45. Kb4 {
+also makes sense}) 44... Rb8+ 45. Ka5 Rb2 46. Re2 Ra2+ 47. Kb6 a5 $18) 44. Kb4
+Rb5+ 45. Kc4 h5 46. Kd4 hxg4 47. hxg4 Rb2 48. Re2 Kh7 49. c4 a5 50. Kc3 Rb1 51.
+Re5 a4 52. Ra5 Rg1 53. c5 Rxg4 54. c6 Rf4 55. c7 Rf8 56. Rxa4 g5 57. Rc4 Rc8
+58. Kb4 g4 59. Rxg4 1-0
+

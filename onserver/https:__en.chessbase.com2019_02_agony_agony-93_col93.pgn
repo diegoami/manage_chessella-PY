@@ -1,0 +1,222 @@
+[Event "Club Championship"]
+[Site "?"]
+[Date "2018.04.05"]
+[Round "4"]
+[White "Ghijsen, Pim"]
+[Black "Engelen, Niels"]
+[Result "1/2-1/2"]
+[ECO "D12"]
+[WhiteElo "2124"]
+[BlackElo "1613"]
+[Annotator "Engelen and JS"]
+[PlyCount "118"]
+[EventDate "2018.??.??"]
+[SourceVersionDate "2015.07.13"]
+
+{I played this game for our club championship at DD in The Hague. I was a little
+bit nervous because my opponent Pim Ghijsen has a KNSB rating of 2124, while I
+have a KNSB rating of 1613. And the second reason I was a little bit nervous was
+because I had Black! However, the opening went okay for me, but in the
+middlegame White got the upper hand, and in fact could have gotten an advantage.
+But I am especially proud of how I played the endgame. That saved the game!
+} 1. Nf3 d5 2. c4 c6 ({JS Niels also gave} 2... d4 3. b4 (3. g3) 3... f6 {
+which is a very sharp line contested at times by top players.}) 3. d4 Nf6 4. e3
+Bf5 5. Nc3 e6 6. Bd3 Bg6 7. O-O Be7 8. b3 O-O 9. Bb2 Nbd7 {[#]} 10. Re1 (10.
+Nh4 {Then I of course exchanged the bishops.  JS Yes, Nh4 would just lose
+time.}) 10... Re8 (10... Bxd3 {This was my first intention, because this is
+more solid. After I played Re8 I realised that exchanging the bishops was
+better.} 11. Qxd3 Qc7 12. e4 dxc4 {JS I'd be much more inclinded to play dxe4,
+though it may also be a tad better for White.} (12... dxe4 13. Nxe4 Nxe4 14.
+Qxe4 Rad8 {JS This is in fact okay, though you'd need to be sure that d5 isn't
+strong and that's far from obvious to me without some thought:} 15. d5 (15.
+Rad1 Rfe8) 15... Bf6 16. dxe6 Bxb2 17. e7 Bxa1 18. Rxa1 Rfe8 19. exd8=Q Qxd8
+20. Qc2 {JS Here if anynody is more conmfortable it is Black, though of course
+it should be a draw with decent play.}) 13. Qxc4 Nb6 14. Qe2 $14 {Knight to b6
+was the plan. But now White is I think a little better, with the two central
+pawns.  JS Yes, I agree. White would be very happy to get this, given where
+he started.}) ({This would be also an option:} 10... Ne4 11. Qc2 Nxc3 12.
+Bxc3 Bxd3 13. Qxd3 Nf6 $11) 11. Bxg6 hxg6 12. Ne5 {This is rather dull.} ({
+This is what I expected:} 12. e4 $1 dxe4 13. Nxe4 Nxe4 14. Rxe4 Nf6 15. Re2)
+12... Nxe5 13. dxe5 Nd7 14. cxd5 exd5 ({JS} 14... cxd5 15. e4 d4 $1 {is also
+perfectly okay.}) 15. e4 $1 {[#] This is how you have to play it! Of course, I
+didn't really consider this move} dxe4 $6 (15... d4 $1 16. Qxd4 Bc5 {is much
+better because Black is able to regain the pawn with tempo and White's pieces
+are much more passive.} 17. Qd2 {and only then:} (17. Qc4 {JS is the move I'd
+like to make work, trying to put a spanner in the works, but simply} b5 18. Qe2
+Nxe5 {is already rather nice for Black, since the obvious} 19. Rad1 {runs into}
+Qh4 $1 20. h3 g5 {with a serious attack.}) 17... Nxe5 18. Qxd8 Raxd8 19. Na4
+Bd6 20. Rad1 b5 21. Nc3 Bb4 22. Rxd8 Rxd8 23. Rd1 Rd3 24. Rxd3 (24. Kf1 Bxc3
+25. Rxd3 Nxd3 26. Bxc3 Nc1 27. Bd2 (27. b4 Nxa2 28. Bd2 f6 29. f3) 27... Nd3)
+24... Nxd3 25. Nd1 $15) 16. e6 {This is waht you want to play, slightly
+exposing the enemy king and messing up his pawns.} (16. Nxe4 Nc5 17. Qg4 Nd3 (
+17... Qc8 18. Qxc8 Raxc8) 18. Rad1 Qd5 19. Nc3) 16... Nf6 (16... Nc5 {was also
+possible but complicated. I generated this line with an engine, which ends up
+pretty equal, but you'd be nervous with either side...} 17. exf7+
+Kxf7 18. Qe2 Qd3 19. Qg4 Qd2 20. Nxe4 Nxe4 21. Re2 Qd5 22. Rxe4 Bf6) 17. exf7+
+Kxf7 18. Qe2 Qd3 19. Nxe4 {[#]} Qxe2 $2 ({Better is to first exchange the
+knights.  JS Absolutely. Leaving the knights on makes it much more difficulkt
+for Black.} 19... Qxe4 20. Qxe4 Nxe4 21. Rxe4 Bf6 22. Rxe8 Rxe8 23. Bxf6 gxf6
+24. Rd1 Re2 (24... Re5 25. Kf1 Rb5 {JS This looks like a more interesting way to
+play for Black.}) 25. Kf1 Rxa2 26. Rd7+ Ke6 27. Rxb7 {should end up as a
+pretty dead draw.}) 20. Ng5+ Kg8 21. Rxe2 Bb4 {Simply to prevent rook to e1.} 22. Kf1
+Rxe2 23. Kxe2 Re8+ 24. Kf1 {I was thinking about Kf3, but the text move is
+better.} Ne4 {Knight to d2.} 25. Nxe4 Rxe4 26. Rd1 Re7 {Maybe not the best move,
+but I wanted to prevent the check.} 27. f3 Bc5 {Just to prevent king to f2.} 28. Bc3 {
+To prepare the pawn push b4, but anyway the dark-squared bishop has to come to f6 in
+some way.} Kf7 29. Rd3 (29. b4 Bb6 30. a4 a6) ({So this would be the other
+option:} 29. h4) 29... g5 $1 {This move prevents h4 and gives a shelter for
+the king.  JS However, the g5 pawn is weak and White could have tried to
+exploit this immedaitely...} 30. b4 Bb6 31. a4 (31. Bd2 Kf6 32. Rd6+ Ke5 (32...
+Kf5 33. Bc3 {is also uncomfortable for Black.}) 33. Rg6 Kd5 34. Bxg5 Rd7)
+31... a6 (31... Bc7 $1) 32. Bd2 Kg6 {[#]} 33. b5 $6 {JS This way White aims
+for a stable advantage without risk. Instead, the move Niels was worried about,
+Rd6+, may be better in theory but would have entailed some risk in practice,
+since the black king will get into White's queenside.} ({I was worried about} 
+33. Rd6+ Kf5 {so this was my move. But then anyway I will lose a pawn. And I
+think also the game.} (33... Kh5 $4 34. b5 (34. g4+ Kh4 35. Rg6 Kh3 36. Rxg5
+Kxh2 37. Bf4+ Kh1 38. Rh5#) 34... axb5 35. axb5 Bc7) 34. g4+ Ke5 35. Rg6 Bc7 (
+35... Kd5 36. Rxg5+ Kc4 37. h4 Bd4 38. a5 Rf7 39. Ke2 Re7+ 40. Kf1 Rf7 {
+JS and Black seems to be sufficiently active.}) 36. Rxg5+ Kd4 37. h4 $16) 33...
+Bc7 {And fortunately I didn't take the pawn, which was my first intention.} (
+33... axb5 34. axb5 {JS and then Bc7 was much safer.} Bc7 (34... cxb5 $4 35.
+Rd6+)) 34. bxc6 bxc6 35. Rc3 Re6 36. Rc5 Bd8 37. Bc3 (37. g4 Be7 38. Ra5 $2 {
+JS which was my first though fails spectacularly to} c5 {when Black is winning!
+}) 37... Bb6 (37... Bf6) (37... Be7 {This is better, because the bishop can more easily go to f6 from this square.}) 38. Re5 {makes live easier for Black,
+because he wants to exchange rooks.} (38. Rc4 {Just preventing the exchange of
+rooks. JS Yes, White is a bit better here.}) 38... Rxe5 39. Bxe5 Bd8 40. Ke2 Bf6
+{At least Black can play bishop to f6.} 41. Bxf6 {[#] I am most proud of Black's
+next move:} Kxf6 $3 (41... gxf6 $4 {And this would be a big mistake! The
+funny thing is that I got a similar position against Dominique at the
+Noteboom tournament, where I played gxf6 and eventually lost that game. So I
+didn't calculate this variation very deeply. Instead, it was more pattern recognition
+and intuition!} 42. Ke3 Kf5 43. a5 Ke5 44. g3 Kf5 45. h3 Ke5 46. h4 gxh4 47.
+gxh4 f5 {And now it becomes clear why gxf6 is worse for Black. Because black
+doesn' t have a passed pawn!}) 42. Kd3 Ke5 {And here I thought I was lost, but
+apparently the position is a dead draw.} 43. Kc4 Kd6 44. g3 c5 45. h3 Kc6 46.
+a5 g6 47. h4 gxh4 48. gxh4 Kd6 49. f4 Kc6 {[#]} 50. f5 (50. h5 $4 gxh5 51. f5
+h4 52. f6 Kd6 53. f7 Ke7 {and Black wins.}) 50... gxf5 {And this is a pawn
+ending right out of the book.The white king can't be hunting on both pawns to
+prevent promotion, because the pawns are seperated by two files. If the pawns
+where seperated just by one file, Black was busted. You can read more about
+pawn endings in the pawn endgame tutorials on the website.} 51. h5 f4 52. Kd3 (
+52. h6 f3 53. h7 $2 f2 54. h8=Q f1=Q+ 55. Kb3 Qb1+ 56. Ka3 Qb4+ 57. Ka2 Qxa5+ {
+and Black wins}) 52... Kd5 53. h6 c4+ 54. Kc3 (54. Kc2) ({Transition of the
+position:} 54. Ke2 c3 55. h7 f3+ 56. Kxf3 c2 57. h8=Q c1=Q) 54... f3 55. h7 f2
+56. h8=Q f1=Q 57. Qd4+ Kc6 58. Qxc4+ {and here Ghijsen offered a draw.} (58.
+Qb6+ {It is all the same.} Kd5) 58... Qxc4+ 59. Kxc4 Kd6 {[#] JS A complicated
+battle in which Niels more or less equalised in the opening but then came
+under pressure after the inaccurate 19...Qxe2?!.  He defended himself very
+sensibly and when given the choice of recapture at the start of the pawn
+ending understood that the crucial thing was to avoid White creating a passed
+h.pawn. Well done!} 1/2-1/2
+
+[Event "LSG_Open"]
+[Site "Leiden"]
+[Date "2018.06.01"]
+[Round "3"]
+[White "Mooij, de"]
+[Black "Engelen, Niels"]
+[Result "0-1"]
+[ECO "B02"]
+[WhiteElo "1904"]
+[BlackElo "1541"]
+[Annotator "User"]
+[PlyCount "60"]
+[EventDate "2018.??.??"]
+[EventCountry "NED"]
+[SourceVersionDate "2015.07.13"]
+
+{[%mdl 32768] I played this game at the Leiden open tournament. And because of
+the rating gap between the players I was happy to get a draw. But
+apparently Caissa was watching over my shoulders :)} 1. e4 d5 {I played this
+move just like against Hennink (member of my own chess club) the day before.} 2.
+exd5 (2. e5 {JS Niels mentions this but it makes little sense when the bishop
+can still come out and Black hasn't invested a tempo in c6.} c5 {and it becomes a
+French position.} (2... Bf5 3. d4 c6 $2 {JS This leads to one of the main
+lines of the Caro-Kann, but you can simply play e6 and be a tempo up since
+c7-c5 will happen in one move.} 4. Nf3 e6 5. Be2 Nd7 6. O-O)) 2... Nf6 3. Nc3 {
+White can also play d4 or Bb5+.} Nxd5 4. Bc4 Nxc3 {But what I said before: for
+me a draw was just enough, so I went for a calmer line.} (4... Nb6 {
+This is the main variation. Such a move you also see, for example, in the
+English opening.} 5. Bb3 Nc6 6. Nf3 Bf5 7. O-O e6 8. d4 Be7 9. h3 (9. Bf4 O-O
+10. Nb5 Rc8 11. c4 a6 12. c5 axb5 13. cxb6 cxb6 14. d5 exd5 15. Qxd5 Qxd5 16.
+Bxd5 Rfd8 17. Rad1 h6 18. Bb3 Na5 19. Bd5 Rc5 20. Rfe1 Bf6) 9... O-O 10. a3 (
+10. d5 exd5 11. Nxd5 Nxd5 12. Qxd5 Qxd5 13. Bxd5 Bxc2 14. Bxc6 bxc6 15. Bf4 Bd6
+16. Bxd6 cxd6 17. Rac1 Be4 18. Rfd1 Bd5) 10... Bf6 11. Be3 h6 12. Qe2 Qe7 13.
+g4 Bg6 14. Rad1) 5. Qf3 e6 6. Qxc3 Nd7 {Preparing queen to f6, in order to exchange
+the queens.} 7. Nf3 Qf6 {[#]} 8. Qxf6 ({But I was expecting:} 8. d4 h6 {because of
+Bg5.} 9. O-O Bd6 10. Bd2 {JS A rather computery move.} O-O ({Or:} 10... Nb6
+{I think the bishop on the b1-h7 diagonal will be more active then on the
+a2-g8 diagonal.} 11. Bd3 (11. Bb3 Bd7 12. a4 O-O-O))) 8... Nxf6 9. d4 Bd6 {
+Preventing bishop f4} 10. Bd2 $146 ({I think this is more solid:} 10. O-O O-O
+11. Re1 h6 {preparing rook to d8} 12. Bb3 b6 13. Ne5 Bb7 14. Bf4 Rfd8 15. Rad1
+Nd7 16. Bg3 Bxe5 17. Bxe5 Nxe5 18. Rxe5 Rd6 19. c3) 10... Ne4 11. Be3 O-O 12.
+O-O-O {Should White castle short or long?} (12. O-O b6 13. d5 {This will close
+the position, and a more static position will ensue, something I personally don't
+like.} ({This move is much better. Just a calm and solid move.} 13. c3 Bb7 14. Rad1
+Nf6 {This move has to come at some moment anyway, because the knight wants to
+go to d5.} 15. Rfe1 Rfd8 $11 {[%cal Yc7c5] The rooks must come to the half
+open lines: d8 or c8, preparing c5.}) 13... e5) {because at
+some moment Black wants to play b5.} 12... c6 (12... b6 {This is better, 
+because it directly develops the bishop. But I was a bit
+worried about Ne5 and the light squares are weakened.} 13. Ne5 Bb7 14. Bb5 Nf6 15. Bc6 Bxc6 16. Nxc6
+Nd5 17. Bd2 a5 $11 (17... Ne7 {JS is also perfectly okay.})) 13. Rhe1 Nf6 14.
+Ne5 Nd5 15. Bd2 Bc7 {Black could of couse play f6 directly, which was my first
+intention. But somehow I had the pawn advance a5-a4-a3 in mind. However, the bishop on
+a5 would prevent this.} (15... f6 16. Nd3 {[%csl Gb4,Gc5] And
+this will be a better place for the knight, because from this place it
+is more flexible. It has squares like b4 or c5.} (16. Nf3 {Another variation:} b5 17. Bb3 a5 18. a4 Bd7 19. axb5 cxb5 $15 {And Black
+gets more space.}) 16... a5 17. Nc5 b5 18. Bxd5 exd5 19. Re2 Bf5 20. Rde1) 16.
+Bb3 {But with the text move the target for Black becomes clearer then ever!
+Now a5-a4 is really an option :)} (16. Bf1 {JS looks more to the point,
+preparing c4 and getting ready to deploy the bishop on the long diagonal (or sometinmes
+even from h3, to pressure e6) if Black plays} f6 17. Nd3 b5) 16... a5 17. c3 ({
+I was expecting:} 17. a4 {because the bishop will stay on the a2-g8 diagonal.})
+(17. a3 {JS is also very possible preventing the double edged ...a4-3.}) (17.
+c4 {JS is what White wants to play, but it fails tactically to} Nb4 18. a3 Bxe5
+$1 19. Bxb4 axb4 20. dxe5 bxa3 21. bxa3 Rxa3 22. Kb2 Ra5 {White has play for
+the pawn but nothing special.}) 17... f6 {This move has to come anyway at some
+moment.} 18. Nf3 (18. Nd3 $1 {JS was a better square, ready to jump to c5 if
+Black prevents c4 with b5.}) 18... a4 19. Bc2 a3 $5 {This pawn setup you will
+see a lot, and I was just thinking about the game that I played at the
+Kennemer open tournament a month ago. The opening was a Petroff, but with a
+similar pawn setup. In that game, however, the queens were still on the board. So
+with the text move Black will isolate the pawn.  JS Niels gave this a ? but it
+also puts pressure on White, so I've gone for !?} (19... b5 {Of course much
+better. A solid move.}) 20. b3 ({This I had in mind:} 20. c4 axb2+ 21. Kxb2 Nb6
+22. Bb3 {Because white can't play c5 due to Nd5 again.
+And I think Black is just fine.}) 20... b5 {The same theme, but at the wrong
+time! JS Incidentally, if the knight were on d3 then Nc5 would be nasty.} 21.
+b4 $2 {I think with this move White weakens his light squares. JS
+Agreed. The knight is now very strong on d5.} Bd7 {Whoo. At least the bishop
+develops.} 22. Bb3 Rfe8 23. Kc2 $15 {Black is standing a little bit better, as he has
+more space. However, with Black's next move he spoiled his
+advantage.  JS Yes, Black is very comfortable and should have started to expand
+with g5, or indeed double on the e-file as Niels suggested.} Bf4 $2 {My
+instinct said that I had to play this move, but apparently it is a very weak
+move.  JS It is bad. Black's bishop is better than Wnite's and you can also
+try to refute it tactically.} (23... Re7 {to double the rooks is much stronger.
+}) (23... g5) 24. Bxf4 (24. Bxd5 $5 Bxd2 25. Bxc6 Bxc6 (25... Bxe1 $2 26. Bxd7
+Re7 27. Bxb5 {should be winning for White.}) 26. Nxd2 {White has an extra pawn
+for the moment but the bishop is very active. My software gives:} Bxg2 27. f3
+Bh3 28. Kb3 e5 (28... Bf5 29. Nb1) 29. d5 {and it likes White.}) 24... Nxf4 25. g3
+Nd5 {[#]} 26. Bxd5 {This I think is the right decision because the white
+bishop is locked up and White's knight can get stronger. Also because of
+the lonely pawn on a3, as the knight can attack it. JS A good move
+positionally, but Black is unlikely to move the knight from d5, so it could be
+deferred. Instead, I'd like to activate the knight first. Ideally, it would
+like to go to c5 but it is hard to achieve immedaitely, so perhaps something like} (
+26. Rd2 Kf7 27. Rde2 Rad8 28. Nd2 {when Black will probably try to make a mess
+with e5 before the knight gets sorted.}) 26... exd5 27. Rxe8+ Rxe8 28. Re1 $11
+Bf5+ 29. Kb3 Be4 {[#]} 30. Nd2 $4 (30. Re3 $1 {This would be the move!} Ra8 31.
+Nd2 Bf5 32. Re7 Kf8 33. Rc7 {But now the problem comes that Black takes over
+the open lines.} Bd3 {and this protects both pawns, on d5 and b5}
+34. Rxc6 Re8 35. Kxa3 Re2 {And Black is pressing. Personally, I would prefer
+Black.}) 30... Bc2+ $1 {And White resigned. JS Another tough positional
+battle in which Niels ended up after the opening with rather less space but with a
+nice knight on d5. His pawn thrust to a3 was double-edged, but White's b3-b4?!
+left the knight safe on d5 with a perfectly playable position. Bf4, exchanging
+the dark-squared bishops was positionally suspect. In what should, with good
+play, have been at least a somewhat advantageous position, White hurried with
+Bxd5 and then fell into a tacical trap, losing on the spot.} 0-1
+

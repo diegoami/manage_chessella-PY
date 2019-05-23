@@ -1,0 +1,44 @@
+[Event "Stadtliga"]
+[Site "Hamburg"]
+[Date "2019.01.14"]
+[Round "1"]
+[White "Stark"]
+[Black "Buhlmann"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Annotator "Reeh,Oliver"]
+[PlyCount "61"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,14,19,31,19,-16,-22,-7,4,-10,17,20,32,30,41,19,86]} 1. d4 d5 2. c4 e6
+3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 O-O 6. e3 Nbd7 7. Bd3 c5 8. O-O b6 9. Rc1 Bb7 10.
+Qe2 Ne4 11. Bf4 Ndf6 12. Rfd1 cxd4 13. exd4 Rc8 14. Ne5 Nxc3 15. Rxc3 dxc4 16.
+Nxc4 Nd5 17. Bxh7+ Kh8 18. Be5 {The diagram position saw the continuation 18...
+Nxc3 19.Qh5 whereupon White threatens discovered check and mate. Now, what
+Black player would be so foolhardy to allow such a seemingly deadly
+constellation... You!?} Nxc3 19. Qh5 {[%csl Gh5,Rh8][%cal Gh7g6]} {[%tqu "En",
+"White threatens Bh7 anywhere with check, followed by Qh7++. How can Black
+defend?","","","c3e2","",10]} Ne2+ $1 {[%csl Ge2][%cal Rh5e2,Ge2g1] Check! The
+knight jumps to the kingside, based on the fact that White's queen cannot
+leave the h-file.} 20. Kf1 (20. Qxe2 Kxh7 $19) {[%tqu "En","Continuation?","",
+"","e2f4","",10]} 20... Nf4 $1 {[%csl Gf4][%cal Gf4h5] Preventing the
+discovered check - White's queen is attacked.} 21. Bxf4 {[%tqu "En","What was
+the point of Black's knight pirouette?","","","b7g2","Introducing a fresh
+defensive motif - trade of queens on a light square!",10]} Bxg2+ $1 {
+Introducing a fresh defensive motif - trade of queens on a light square!} 22.
+Kg1 (22. Kxg2 Qd5+ {[%csl Gd5][%cal Gd5g2,Gd5h5] and after the trade of queens
+with} 23. Qxd5 exd5 {[%cal Gc8c4,Gh8h7] Black regains a piece and is
+absolutely fine, e.g.} 24. Nd6 Rcd8 {[%cal Ge7d6,Gh8h7]} 25. Nb7 (25. Nf5 Bf6 {
+[%cal Gh8h7]}) 25... Rd7 {[%cal Gh8h7,Gd7b7]}) (22. Ke2 Bf3+ $1 {[%csl Re2,Gf3,
+Rh5][%cal Gd8d5] is similar.} ({not} 22... Qd5 $4 23. Bf5+ {[%csl Gh5][%cal
+Gh5h8]} Kg8 24. Qh7#)) {[%tqu "En","White's king has refused to step onto a
+light square. What now?","","","g2f3","Finally forcing White's queen to leave
+the h-file!",10]} 22... Bf3 $1 {[%csl Gf3,Rh5][%cal Gf3h5] Finally forcing
+White's queen to leave the h-file!} 23. Qxf3 ({After} 23. Qh3 {the discovered
+check is not deadly anymore:} Bxd1 24. Bg6+ Bh4 $19) 23... Kxh7 24. Qh5+ (24.
+d5 $5 {[%csl Gd5][%cal Gd1d8] was still messy.}) 24... Kg8 25. Ne5 Qd5 ({After
+} 25... Bf6 $1 26. Rd3 g6 $1 {Black had the better of it.}) 26. Rd3 $1 {
+[%csl Gd3][%cal Gd3h3] This rook lift preludes the peaceful end.} f6 27. Rg3 {
+[%csl Gg3][%cal Gg3g8]} fxe5 28. Rxg7+ Kxg7 29. Qh6+ Kg8 30. Qg6+ Kh8 31. Qh6+
+1/2-1/2
+

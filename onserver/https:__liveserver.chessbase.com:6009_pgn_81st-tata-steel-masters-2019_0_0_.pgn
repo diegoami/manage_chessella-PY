@@ -1,0 +1,3839 @@
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.12"]
+[Round "1"]
+[White "Ding, Liren"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "2813"]
+[BlackElo "2835"]
+[Annotator "TA"]
+[PlyCount "63"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,63,0,12,-9,0,-18,0,-11,0,-23,0,0,0,0,0,0,2,0,4,4,13,4,9,0,24,0,0,0,10,
+16,38,17,0,0,37,42,63,69,68,73,77,-105,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. Nf3 Nf6
+2. g3 b5 3. d4 e6 4. Bg5 c5 5. d5 $146 ({Predecessor:} 5. Bg2 Bb7 6. c3 cxd4 7.
+cxd4 Be7 8. O-O h6 9. Bxf6 Bxf6 10. e3 O-O 11. Nc3 b4 12. Ne2 Qb6 13. Nf4 Rc8
+14. Nh5 Be7 15. Ne5 Bxg2 16. Qg4 {0-1 (56) Kamsky,G (2683)-So,W (2788) Saint
+Louis 2015}) 5... Qa5+ 6. Bd2 {A46: 1 d4 Nf6 2 Nf3 e6: Torre, London and Colle
+Systems} Qb6 7. dxe6 fxe6 8. a4 b4 9. a5 Qd8 10. Bg2 Nc6 {[#]} 11. Ne5 $1 {
+[%mdl 512]} Nxe5 12. Bxa8 d5 13. a6 Bd7 14. Bb7 Bd6 15. Bg5 Nf7 16. Bxf6 Qxf6
+17. Nd2 O-O 18. O-O Qxb2 19. e4 {[%cal Be2e4,Be4d5][%mdl 32]} Qd4 20. exd5 e5
+$1 21. Nb3 Qe4 {And now ...Ng5 would win.} 22. Qd3 Qg4 {...Ng5 is the strong
+threat.} 23. f3 $1 {[%cal Rf3g4]} Qh5 {aiming for ...e4.} 24. Nd2 $1 Ng5 25.
+Bc6 $2 (25. Qe3 $16) 25... Bh3 ({Black should try} 25... e4 $1 $17 {[%cal
+Re4d3]} 26. fxe4 Rxf1+ 27. Rxf1 (27. Qxf1 Bh3 $15) 27... Bh3) 26. Bb5 {The
+position is equal.} ({Don't go for} 26. Rf2 $2 Bf5 $19) 26... Bxf1 27. Rxf1
+Rxf3 $1 {[%mdl 64] Remove Defender, Decoy} 28. Nxf3 e4 {[%mdl 64] Double Attack
+} 29. Qe3 Nxf3+ {[#]} 30. Rxf3 $1 {[%mdl 512]} Qxf3 (30... exf3 31. Qe6+) 31.
+Qxf3 exf3 32. Kf2 {Accuracy: White = 56%, Black = 73%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.12"]
+[Round "1"]
+[White "Giri, Anish"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2783"]
+[BlackElo "2763"]
+[Annotator "TA"]
+[PlyCount "52"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,52,19,47,18,67,2,33,5,28,-33,-16,0,-3,-11,0,-3,12,-52,-40,-118,-101,
+-247,-237,-333,-329,-320,-315,-351,-340,-312,-205,-281,-314,-317,-232,-478,
+-480,-468,-464]} 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 a6 5. Qd2 b5 6. f3 {
+B07: Pirc Defence: Miscellaneous Systems} Nbd7 7. O-O-O Nb6 8. g4 Bb7 {
+LiveBook: 3 Games} 9. Nh3 $146 ({Predecessor:} 9. g5 Nfd7 10. h4 c5 11. dxc5
+dxc5 12. h5 Bg7 {1-0 (38) Morozevich,A (2731)-Onischuk,V (2594) Dubai 2014})
+9... Nfd7 10. Be2 ({Better is} 10. Nf4 $14) 10... e6 11. Bg5 Be7 12. Qe3 (12.
+a3 $11) 12... Bxg5 13. Nxg5 h6 14. Nh3 Qh4 (14... b4 $5 15. Nb1 $8 a5 $11) 15.
+Nf2 O-O-O (15... b4 $5 16. Nb1 $8 Qg5 $11) 16. f4 (16. Nd3 $11) 16... f5 $36 {
+[%mdl 2048] Black is more active.} 17. Bf3 ({White should try} 17. Bd3 $15)
+17... b4 $17 {[%cal Bb5b4,Bb4c3,Bc3b2][%mdl 32]} 18. exf5 (18. Nb1 $17 {
+was the only defense.}) 18... bxc3 $19 19. fxe6 (19. Bxb7+ {was worth a try.}
+Kxb7 20. Qf3+ Nd5 21. fxe6) 19... cxb2+ 20. Kb1 {[#]} Nf6 $1 21. Bxb7+ Kxb7 {
+[%cal Bc8b7,Bb7a7,Ba7b7][%mdl 32]} 22. Qf3+ d5 23. Nd3 Ne4 ({Weaker is} 23...
+Nxg4 24. Nc5+ Kc6 25. e7 $15) 24. Nc5+ Ka7 {...Nxc5 is the strong threat.} 25.
+Qa3 $2 {[#]} (25. Nxe4 dxe4 26. Qxe4) 25... Nxc5 26. Qxc5 Kb7 {Accuracy: White
+=  5%, Black = 57%.} 0-1
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.12"]
+[Round "1"]
+[White "Radjabov, Teimour"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[WhiteElo "2757"]
+[BlackElo "2777"]
+[Annotator "TA"]
+[PlyCount "85"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,85,16,24,13,17,-5,18,25,25,30,27,6,0,0,35,35,61,56,58,56,58,49,50,47,
+38,38,65,58,72,67,71,43,54,47,49,39,50,0,66,40,62,65,54,58,131,137,349,354,366,
+347,365,345,378,376,348,218,203,59,63,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bc4
+Bc5 4. O-O Nf6 5. d3 d6 6. c3 a6 7. a4 O-O 8. Re1 {C54: Giuoco Piano: 4 c3 Nf6,
+main lines with 5 d4 and 5 d3} Ba7 9. h3 h6 10. Nbd2 {[%cal Bb1d2,Bd2f1,Bf1g3]
+[%mdl 32]} Re8 11. b4 Be6 12. Bxe6 Rxe6 {LiveBook: 59 Games} 13. Bb2 {[#]} Ne7
+$146 ({Predecessor:} 13... Qd7 14. Nf1 Ree8 15. Ng3 {1/2-1/2 (40) Giri,A (2772)
+-Sethuraman,S (2618) Tbilisi 2017}) 14. c4 Ng6 15. Nf1 b5 16. axb5 axb5 17. Ng3
+bxc4 18. dxc4 Re8 19. Qc2 Qb8 20. Reb1 Qb7 21. c5 $1 dxc5 22. bxc5 Qc6 23. Rc1
+Nd7 {[%cal Ra7c5]} 24. Ra5 Reb8 25. Ba3 Nf4 26. Nf5 {[#] Ne7+ is the strong
+threat.} Re8 27. g3 Ne6 $1 28. Kg2 Nf6 29. Re1 $36 {[%mdl 2048] White fights
+for an advantage.} Nd7 {[%cal Ra7c5]} 30. Rc1 Kh7 (30... Nf6 $1 $11) 31. Qc4
+$14 Bxc5 32. Rxc5 Ndxc5 33. Bxc5 Ra4 (33... Ra5 $14 34. Be3 Qxc4 35. Rxc4 f6)
+34. Qd5 $16 Qa8 $2 (34... Qxd5 $16 35. exd5 Nxc5 36. Rxc5 Ra7) 35. Qd7 $18 (35.
+Qxe5 f6 $16) 35... Kg8 {intending ...Rd8.} 36. Nxe5 Ng5 {[#]} 37. Nc6 $1 Raxe4
+38. Nfe7+ Kh7 39. Ra1 ({Weaker is} 39. Qxc7 Ne6 $16) 39... Ra4 40. Rxa4 (40.
+Rb1 $18) 40... Qxa4 $14 41. Qxe8 ({Better is} 41. Bd4 $14 Qc2 42. Qd5 (42. Qxe8
+Qe4+ 43. Kf1 Qd3+ 44. Kg1 Nf3+ {[%mdl 64] Double Attack} 45. Kg2 Ne1+ 46. Kg1
+Nf3+ {[%mdl 64] Double Attack} 47. Kg2 Ne1+ 48. Kh2 Nf3+ {[%mdl 64] Double
+Attack} 49. Kg2 $11)) 41... Qe4+ $11 42. Kf1 {[%csl Ge7][%cal Re8g8]} Qb1+ 43.
+Kg2 {Accuracy: White = 53%, Black = 47%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.12"]
+[Round "1"]
+[White "Shankland, Samuel"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2725"]
+[BlackElo "2817"]
+[Annotator "TA"]
+[PlyCount "108"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,108,16,6,38,31,34,12,32,35,37,33,37,0,0,0,21,14,8,0,0,0,0,0,0,0,0,0,
+0,0,19,11,17,0,18,4,7,0,0,0,0,0,0,0,20,18,38,32,30,16,29,27,45,29,70,38,36,20,
+21,18,29,6,22,27,23,21,20,25,25,22,37,35,41,0,0,0,0,0,91,12,0,0,53,0,125,40,
+169,0,30,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Bd3
+Nf6 6. O-O {C42: Petroff Defence: 3 Nxe5 and unusual White 3rd moves} Be7 7. c3
+O-O 8. Bc2 {LiveBook: 28 Games} c5 9. d4 Be6 10. Re1 $146 ({Predecessor:} 10.
+Bg5 Nbd7 11. Nbd2 h6 12. Bh4 Re8 13. Re1 Qb6 {1-0 (53) Grischuk,A (2772)-Yu,Y 
+(2751) Huaian 2017}) 10... Re8 11. Bg5 Nbd7 12. Nbd2 Qb6 13. dxc5 dxc5 14. Bb3
+Nf8 (14... Bf8 {is interesting.} 15. Bxe6 Rxe6 16. Rxe6 Qxe6 17. Qb3 Qxb3 18.
+axb3 h6) 15. Bxe6 Nxe6 16. Qb3 Qxb3 17. axb3 Nxg5 18. Nxg5 a6 19. g3 Rad8 20.
+Nc4 h6 21. Nf3 Kf8 22. Kf1 Bd6 23. Na5 {Black must now prevent Rxe8+.} Rb8 24.
+Rxe8+ Kxe8 25. Re1+ Kf8 $1 26. Rd1 Ke7 27. Ne1 Bc7 28. Nc4 b5 29. Ne3 g6 30.
+Nd3 Bd6 31. Ra1 Rb6 32. c4 b4 33. Ke2 Ke6 34. Ra5 Rc6 35. Nd5 Nd7 36. f4 f5 37.
+Kf3 Nf6 38. Ra1 Nxd5 39. Re1+ {[#]} Ne3 $1 {[%mdl 512]} 40. Rxe3+ $11 {[%mdl
+4096] Endgame KRB-KRN} Kd7 41. g4 fxg4+ 42. Kxg4 Rc8 43. Rh3 Rh8 44. Kf3 Ke6
+45. Ke4 Kf6 (45... a5 $11) 46. Ne5 (46. Kd5 $16 Rd8 47. Kc6) 46... Re8 {
+[%cal Rd6e5]} 47. Rf3 Bb8 (47... Re6 $1 $11) 48. h4 (48. Rf1 $14) 48... a5 (
+48... Re6 $11 {remains equal.}) 49. Rf1 (49. Kd5 $16) 49... h5 (49... Bd6 $14)
+50. Rf3 $2 {[#]} ({Only move:} 50. Kd5 $18) 50... Bc7 51. Rf1 Rd8 {The
+position is equal.} 52. Nf3 Re8+ 53. Ne5 Rd8 {And now ...Rd4+ would win.} 54.
+Nf3 Re8+ {Accuracy: White = 47%, Black = 48%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.12"]
+[Round "1"]
+[White "Fedoseev, Vladimir"]
+[Black "Rapport, Richard"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[WhiteElo "2724"]
+[BlackElo "2731"]
+[Annotator "TA"]
+[PlyCount "77"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,77,27,24,27,27,23,27,27,29,24,37,37,37,37,37,27,37,37,37,37,39,37,39,
+39,39,39,38,30,49,43,45,34,44,37,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0]} 1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. a3 Bb7 5. Nc3 Ne4 6. Nxe4 Bxe4 7. Nd2 Bb7
+8. e4 g6 9. Bd3 Bg7 10. Nf3 {E12: Queen's Indian: Unusual White 4th moves, 4
+a3, 4 Nc3 Bb7 5 a3 and 4 Nc3 Bb7} O-O 11. O-O d6 {LiveBook: 9 Games} 12. Rb1 {
+White has an edge.} (12. Bg5 Qd7 13. Qd2 Nc6 14. Bc2 Na5 15. Qe2 f5 16. Rac1
+Rae8 17. c5 fxe4 18. Bxe4 bxc5 19. dxc5 Bxe4 20. Qxe4 {1/2-1/2 (27) Dreev,A 
+(2664)-Lorparizangeneh,S (2468) Guilan 2016}) 12... Nd7 $146 ({Predecessor:} 
+12... c5 13. d5 e5 14. Qc2 Nd7 15. Bd2 Nf6 16. g3 Bc8 17. b4 Bg4 {1/2-1/2 (27)
+Marcet Bisbal,A (2319)-Beltran Rueda,S (2364) Sitges 2002}) 13. Bg5 Qc8 14. Re1
+Re8 15. Qd2 c5 16. d5 exd5 17. exd5 ({But not} 17. cxd5 c4 $15) 17... Qc7 18.
+Kh1 Ba6 19. b3 Nf6 20. h3 Rxe1+ 21. Rxe1 Re8 22. Rxe8+ Nxe8 23. g4 Qd7 24. Kg2
+Nc7 25. a4 Bc8 26. Qe3 Ne8 27. Kf1 Bf6 28. Bf5 gxf5 {The position is equal.}
+29. Bxf6 fxg4 30. hxg4 Nxf6 31. Qg5+ {[%mdl 64] [#] Double Attack} Kf8 {
+aiming for ...Qe7.} 32. Qxf6 {Ng5 is the strong threat.} Qxg4 33. Qxd6+ Kg7 34.
+Qe5+ f6 35. Qe7+ {[%mdl 64] [#] Double Attack} Kg6 36. Qe8+ Kg7 37. Qe7+ Kg6
+38. Qe8+ Kg7 39. Qe7+ {Accuracy: White = 48%, Black = 79%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.12"]
+[Round "1"]
+[White "Vidit, Santosh Gujrathi"]
+[Black "Duda, Jan-Krzysztof"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2695"]
+[BlackElo "2738"]
+[Annotator "TA"]
+[PlyCount "156"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,156,41,48,37,45,0,0,-14,0,-24,-17,-27,-26,-76,-18,-26,-18,-23,-33,
+-25,-22,-25,-13,-20,-14,-35,-35,-48,-24,-25,-25,-25,-25,-25,-25,-25,-25,-25,
+-19,-21,-20,-25,-25,-25,-24,-26,-23,-42,-16,-32,-28,-29,-25,-25,-26,-30,-32,
+-60,-57,-68,0,-8,0,-41,-22,-22,-22,-72,-10,-10,0,-75,-75,-75,-75,-69,-31,-32,
+-32,-32,-32,-32,-32,-34,-31,-37,-34,-41,-29,-29,-8,-8,-8,-8,-8,-10,-8,-8,-8,-8,
+-8,-8,-8,-8,-8,-8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,
+8]} 1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 b5 7. a4 {
+D39: Queen's Gambit Declined: Ragozin Defence with 5 Bg5 dxc4} c5 8. axb5 cxd4
+9. Nxd4 h6 10. Bxf6 Qxf6 11. Bxc4 (11. b6 a5 12. Bxc4 O-O 13. O-O Bxc3 14. bxc3
+Nd7 15. Nxe6 fxe6 {1/2-1/2 (57) Grischuk,A (2750)-Carlsen,M (2832) chess.com
+INT 2017}) 11... O-O {LiveBook: 3 Games} 12. O-O Bb7 13. Qa4 {[#]} a5 $146 ({
+Predecessor:} 13... Bc5 14. Nc6 Nd7 {0-1 (60) Sulava,N (2452)-Petrov,N (2566)
+Bratto 2017}) 14. bxa6 Nxa6 15. Nde2 {[%cal Rc4a6]} Bd6 16. Bxa6 Bxa6 17. Qc2
+Rfd8 (17... Bc5 $17) 18. Rfd1 $11 {[#]} Bd3 $1 {[%mdl 512]} 19. Qd2 $1 (19.
+Qxd3 Rxa1) 19... Rxa1 20. Rxa1 Bc5 21. Qf4 Qxf4 22. Nxf4 Bc2 23. Re1 g5 24. Nh5
+Rd4 25. Ng3 Rb4 26. Rc1 Rxb2 {White must now prevent ...Bd4.} 27. Nd1 Rb1 28.
+Rxc2 Rxd1+ {[%mdl 4096] Endgame KRB-KRN} 29. Nf1 Bd6 30. g3 Re1 31. f3 h5 32.
+Kf2 Ra1 33. Nd2 Be5 34. Nb3 Rd1 35. Rd2 Rb1 36. Nc5 Bc3 37. Rd8+ Kg7 38. Nd3
+Ra1 39. Rd7 Ra2+ 40. Kg1 $1 Ra1+ (40... Kf8 $15) 41. Kg2 Ra2+ 42. Kh1 g4 43.
+fxg4 hxg4 44. h3 Ra1+ ({Black should try} 44... gxh3 $17 45. Nf4 e5 46. Nxh3
+Kg6) 45. Kg2 Ra2+ (45... gxh3+ $11 46. Kxh3 Kf8) 46. Kh1 $17 gxh3 47. Nf4 Kf6
+48. Nxh3 Re2 49. Rd3 Be5 50. Kg1 $1 Rxe4 51. Rf3+ Kg6 {[#] Threatens to win
+with ...f5.} 52. Rxf7 $3 {[%mdl 512]} Bxg3 (52... Kxf7 53. Ng5+) 53. Rf3 Be5
+54. Kf1 Rh4 55. Ke2 Bf6 56. Nf4+ {[%mdl 64] Double Attack. The position is
+equal.} Kf7 57. Rf1 Rh6 58. Kd3 Be5 59. Ke4 Bd6 60. Nd5+ Ke8 61. Nf6+ Kd8 62.
+Rd1 Rh4+ 63. Kf3 Ke7 {And now ...Rf4+ would win.} 64. Ng8+ Kd7 65. Nf6+ Kc6 {
+Hoping for ...Rf4+.} 66. Rc1+ Kb5 {...Rf4+ is the strong threat.} 67. Ne4 Ba3
+68. Rc8 e5 69. Nc3+ Kb4 70. Nd5+ Kb3 71. Rc3+ Ka2 72. Re3 Bb2 73. Re4 Rh6 74.
+Nb4+ Kb3 75. Nd3 Rf6+ 76. Kg4 Kc2 77. Nxb2 Rf4+ 78. Rxf4 exf4 {Accuracy: White
+= 72%, Black = 56%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.12"]
+[Round "1"]
+[White "Van Foreest, Jorden"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "B13"]
+[WhiteElo "2612"]
+[BlackElo "2773"]
+[Annotator "TA"]
+[PlyCount "56"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,56,32,29,7,32,18,29,26,31,25,39,45,30,15,31,13,18,0,0,0,0,0,0,0,0,0,0,
+-2,0,-13,-18,-61,-57,-264,-258,-244,-221,-318,-307,-334,-345,-499,-485,-584,
+-582,-574,-537,-516,-520]} 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. c3 Qc7
+{LiveBook: 3 Games} (5... Nc6 6. Bf4 Bg4 7. Qb3 Qc8 8. Nd2 e6 9. Ngf3 Be7 10.
+O-O O-O 11. Rfe1 Bh5 12. g3 Bg6 13. Bxg6 hxg6 14. h4 Re8 15. Kg2 Nh5 16. Be3 b5
+17. a3 a5 18. Qd1 b4 19. a4 Rb8 {0-1 (63) Giri,A (2782)-Mamedyarov,S (2801)
+chess.com INT 2018}) 6. h3 {B13: Caro-Kann: Exchange Variation and
+Panov-Botvinnik Attack} g6 7. Nf3 Bf5 8. Ne5 $146 {White has an edge.} ({
+Predecessor:} 8. Bxf5 gxf5 9. Qa4+ Nbd7 10. Ne5 e6 11. Bf4 Bd6 12. Nd2 a6 13.
+Nxd7 Nxd7 14. Bxd6 Qxd6 {0-1 (32) Nuber,H (1978)-Schlinkmeier,K (2119) Germany
+2011}) 8... Nc6 9. Bf4 {[#] Nxg6! is the strong threat.} Qb6 10. Bxf5 gxf5 11.
+Nd3 e6 12. Nd2 Rg8 13. O-O O-O-O 14. a4 Ne4 15. Rc1 Bd6 16. Bxd6 Nxd6 17. b4
+Kb8 18. Qe2 Qc7 19. Qe3 Ne7 20. f3 Ng6 21. Ne5 $2 (21. Rf2 $15) 21... f4 $19
+22. Qe1 Nf5 {[%cal Bd6f5,Bf5e3,Be3g2,Bg2e1][%mdl 32]} 23. Nxg6 (23. c4 {
+was called for.}) 23... Rxg6 24. Rf2 Rdg8 25. c4 (25. Qe5 $142 Qxe5 26. dxe5)
+25... Ne3 {[%mdl 64] [#] Double Attack. Black is clearly winning.} 26. cxd5
+Nxg2 27. Qe5 Qxe5 28. dxe5 Ne1+ {Accuracy: White = 38%, Black = 72%.} 0-1
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.13"]
+[Round "2"]
+[White "Carlsen, Magnus"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[ECO "A50"]
+[WhiteElo "2835"]
+[BlackElo "2763"]
+[Annotator "TA"]
+[PlyCount "63"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 24,63,43,8,0,0,0,0,8,0,0,0,0,0,0,-4,7,-4,-4,-16,0,0,0,-20,0,0,0,0,0,0,0,
+-13,-13,-11,-11,-11,-13,-12,-11,-11,-12,-11]} 1. d4 Nf6 2. c4 g6 3. f3 e6 4. e4
+c5 5. d5 d6 6. Nc3 Bg7 7. Nge2 exd5 8. cxd5 a6 9. a4 O-O 10. Ng3 Nbd7 11. Be2
+Ne8 {A65: Modern Benoni: 6 e4} 12. Bf4 (12. O-O Rb8 13. f4 Nc7 14. e5 dxe5 15.
+f5 b5 16. d6 Ne8 17. axb5 axb5 18. Nce4 c4 19. Bg5 {1/2-1/2 (28) Aronian,L 
+(2780)-Nepomniachtchi,I (2767) Wijk aan Zee 2017}) 12... Rb8 13. O-O {LiveBook:
+6 Games} c4 {The position is equal.} 14. Bxc4 Qb6+ 15. Rf2 Bd4 {[#]} 16. Qd2
+$146 ({Predecessor:} 16. Nh1 Qxb2 17. Qxd4 Qxa1+ {1/2-1/2 (26) Windhausen,G 
+(2505)-Tleptsok,R (2523) ICCF email 2015}) 16... Ne5 17. Bf1 Bxf2+ 18. Qxf2
+Qxf2+ 19. Kxf2 Bd7 20. Be3 f5 {[#] And now ...f4 would win.} 21. exf5 gxf5 {
+Threatens to win with ...f4.} 22. Bd4 Nf6 23. Kg1 Rbc8 24. Ra3 Nc4 25. Rb3 b5
+26. axb5 Nd2 27. Rb4 Nxf1 28. bxa6 Nxg3 29. hxg3 Rb8 (29... Ra8 $5 30. a7 $8
+Bc8 $11) 30. Rxb8 Rxb8 31. Bxf6 {[#] b4 is the strong threat.} Ra8 32. Nd1 {
+Accuracy: White = 66%, Black = 77%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.13"]
+[Round "2"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Radjabov, Teimour"]
+[Result "1/2-1/2"]
+[ECO "D76"]
+[WhiteElo "2817"]
+[BlackElo "2757"]
+[Annotator "TA"]
+[PlyCount "64"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,64,17,59,54,54,61,58,57,56,57,57,57,57,57,57,54,63,55,62,61,48,33,47,
+44,28,12,27,10,10,10,10,12,12,11,12,2,8,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4
+g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nb6 8. Nc3 Nc6 9. e3 e5
+10. d5 Na5 {LiveBook: 269 Games} 11. b3 {D76: Fianchetto Grünfeld: Main Line
+with 7...Nb6} (11. e4 c6 12. Bg5 Bf6 13. Bxf6 Qxf6 14. Nd2 Qe7 15. Qe2 Bd7 16.
+a3 c5 17. b3 Rac8 18. Rab1 c4 19. b4 Nb3 20. Nxb3 cxb3 21. Rxb3 {1/2-1/2 (46)
+Michiels,B (2554)-Lagarde,M (2615) Belgium 2018}) 11... e4 12. Nd4 Nxd5 13.
+Nxe4 {White is slightly better.} b6 14. b4 $146 {[%cal Rb4a5]} ({Predecessor:} 
+14. Bd2 c5 15. Ne2 Nc6 16. N2c3 Nde7 17. Qe2 Nb4 18. Rfd1 Ba6 {1-0 (40)
+Gruvaeus,C (2247)-Winge,S (2268) Sweden 2011}) 14... Nxb4 {...Ba6 is the
+strong threat.} 15. Ba3 c5 {[#]} 16. Nxc5 $1 {[%mdl 512]} bxc5 17. Bxa8 Ba6 $1
+18. Bg2 $1 {Hoping for Bxb4.} Bxf1 19. Bxf1 Nb7 {Threatening ...a5.} 20. Bxb4 {
+[#] Threatens to win with Bg2.} Bxd4 21. exd4 cxb4 22. Rb1 Qa5 23. Qd2 (23. Rb3
+{feels hotter.} Nd6 24. Qd2 Rb8 25. a3 Rb6 26. axb4 Qd5 27. Ra3) 23... b3 $1 {
+The position is equal.} 24. Qxa5 Nxa5 25. axb3 $11 {[%cal Ba2b3,Bb3b4][%mdl
+4128] Endgame KRB-KRN} Rd8 26. b4 Nc6 27. b5 Nxd4 28. Ra1 Rd7 29. Kg2 Rb7 30.
+Ra2 Nxb5 31. Bxb5 Rxb5 32. Rxa7 Kg7 {Accuracy: White = 73%, Black = 88%.}
+1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.13"]
+[Round "2"]
+[White "Ding, Liren"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[WhiteElo "2813"]
+[BlackElo "2695"]
+[Annotator "TA"]
+[PlyCount "66"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,66,0,10,2,0,8,10,10,2,4,18,15,16,25,11,5,31,20,20,19,40,39,49,64,40,
+57,37,25,32,0,0,0,0,0,0,8,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-23,0,0,0,-21,0]} 
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. b3 e6 {LiveBook: 39 Games} 6. Ba3
+$146 {A36: Symmetrical English vs ...g6: 4 Bg2 Bg7} ({Predecessor:} 6. Bxc6
+bxc6 7. Bb2 e5 8. d3 Ne7 9. Qd2 d6 10. O-O-O O-O 11. e4 a5 12. h3 Be6 13. f4
+Bh6 {0-1 (43) Bauer,C (2646)-Bok,B (2620) Belgium 2018}) 6... d6 7. e3 Nge7 8.
+Nge2 O-O 9. O-O Qa5 10. Bb2 d5 11. cxd5 exd5 12. Nf4 Rd8 13. Qc1 {[%cal Rc3d5]}
+d4 14. Na4 c4 15. Re1 dxe3 16. dxe3 Ne5 {[%cal Bc6e5,Be5c4,Bc4d2][%mdl 32]} 17.
+Bc3 Qb5 18. Qa3 N7c6 19. bxc4 Nxc4 20. Qb3 Qxb3 21. axb3 Bxc3 22. Nxc3 Nd2 23.
+Ncd5 Nxb3 24. Ra3 Nba5 25. Rea1 Nc4 26. Rc3 N4e5 27. Nc7 Rb8 28. Nfd5 $36 {
+[%mdl 2048] White is more active.} Kg7 29. f4 Ng4 30. e4 Nf6 31. Kf2 Ng4+ 32.
+Kg1 Nf6 33. Kf2 Ng4+ {Accuracy: White = 69%, Black = 71%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.13"]
+[Round "2"]
+[White "Kramnik, Vladimir"]
+[Black "Giri, Anish"]
+[Result "0-1"]
+[ECO "A28"]
+[WhiteElo "2777"]
+[BlackElo "2783"]
+[Annotator "TA"]
+[PlyCount "84"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,84,0,0,0,-8,-2,-16,0,-16,-5,-26,48,13,16,23,21,14,18,9,22,17,4,7,15,
+0,0,0,10,-137,-26,-41,-33,-27,-15,-98,-109,-137,-138,-130,-134,-132,-126,-116,
+-124,-288,-292,-277,-293,-287,-286,-304,-282,-318,-308,-317,-306,-348,-348,
+-334,-343,-356,-350,-344,-351,-825,-811,-1094,-1053,-1324,-1471]} 1. c4 e5 2.
+Nc3 Nf6 3. Nf3 Nc6 4. d3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 Bc5 8. Be2 {
+A28: English Opening: Four Knights Variation} O-O 9. O-O {LiveBook: 4 Games}
+Bb6 10. a4 {The position is equal.} Re8 11. Qc2 $146 ({Predecessor:} 11. Rb1 h6
+12. Qc2 a6 13. Be3 Bxe3 14. fxe3 Qe7 15. Rfe1 b6 {0-1 (59) Svenn,G (2360)
+-Astrom,R (2468) Sweden 2000}) 11... Qf6 12. Kh1 h6 13. Ng1 Qd6 (13... Na5 $11)
+14. f4 Bxg1 15. Rxg1 exf4 16. d4 Ne7 17. Ba3 Qd8 18. Raf1 Ng6 $1 19. e5 b6 20.
+Bf3 Ba6 {[%cal Bc8a6,Ba6c4,Bc4e6][%mdl 32]} 21. Rf2 c5 22. g3 (22. Bxa8 $11 {
+remains equal.} Qxa8 23. a5) 22... fxg3 (22... Rc8 $17 23. Qd2 fxg3 24. Rxg3
+Qd7) 23. Rxg3 $11 cxd4 24. cxd4 {[#] Black must now prevent Qb3.} Rc8 ({Reject
+} 24... Qxd4 $6 25. e6 $16) 25. Qf5 (25. Qd2 $11 {keeps the balance.}) 25...
+Bc4 $36 {[%mdl 2048] Black has strong initiative.} 26. Bd6 Be6 27. Qb1 {
+Hoping for d5.} Nf4 28. d5 Nxd5 29. Qg1 Kh8 30. Rd2 $2 {[#]} (30. Rxg7 $17 Qh4
+31. Rf1) 30... Nf4 $19 31. Rd4 Ng6 32. Be4 Rc4 33. Rxc4 Bxc4 34. Qd4 Be6 35.
+Bc6 Ne7 36. Be4 Nf5 37. Bxf5 Bxf5 38. Kg1 Be6 39. h4 Qd7 40. Qe4 $2 (40. Rc3)
+40... Rc8 {Black is clearly winning.} 41. h5 Rc1+ 42. Kh2 Qd8 {Accuracy: White
+= 41%, Black = 63%.} 0-1
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.13"]
+[Round "2"]
+[White "Anand, Viswanathan"]
+[Black "Fedoseev, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2773"]
+[BlackElo "2724"]
+[Annotator "TA"]
+[PlyCount "68"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 28,68,33,30,27,25,25,25,41,32,28,20,21,20,21,20,14,10,15,6,24,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4
+5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4 c6 9. Re1 Bf5 10. Qb3 Qd7 {C42: Petroff
+Defence: 3 Nxe5 and unusual White 3rd moves} 11. Nc3 Nxc3 12. Bxf5 Qxf5 13.
+Qxb7 Qd7 14. Qxd7 Nxd7 15. c5 {LiveBook: 3 Games} Bxh2+ 16. Nxh2 Ne4 17. Bf4 {
+[#]} (17. f3 Ng3 18. Bf4 {1/2-1/2 (36) Vachier Lagrave,M (2789)-Caruana,F 
+(2799) London 2017}) 17... Rfc8 $146 ({Predecessor:} 17... Rfe8 18. Ng4 {
+1/2-1/2 (56) Najer,E (2668)-Popov,I (2608) Yaroslavl 2018}) 18. f3 Nef6 19. Re3
+Nf8 20. Rd1 Ne6 21. Be5 Nd7 22. Bd6 Nf6 23. Nf1 g6 24. Ng3 Ne8 {The position
+is equal.} 25. Be5 $1 a5 {[%cal Ba7a5,Ba5a4][%mdl 32]} 26. Ne2 a4 27. Ra3 f6
+28. Bg3 N8c7 29. Bxc7 Nxc7 30. Nc3 Rcb8 31. Rxa4 Rxb2 {And now ...Rxa4 would
+win.} 32. Rxa8+ Nxa8 33. Rb1 Rxb1+ 34. Nxb1 Nc7 {Accuracy: White = 71%, Black
+= 95%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.13"]
+[Round "2"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Van Foreest, Jorden"]
+[Result "0-1"]
+[ECO "B13"]
+[WhiteElo "2738"]
+[BlackElo "2612"]
+[Annotator "TA"]
+[PlyCount "100"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,100,16,18,19,23,14,8,12,6,-6,7,7,17,-31,0,-19,1,-6,-6,-6,0,-4,0,-12,
+0,0,0,0,0,0,0,0,0,0,0,0,-22,-21,0,0,0,0,0,0,0,-11,-19,-17,-12,-25,-5,-43,-34,
+-147,-143,-212,-210,-399,-389,-811,-797,-1743,-1653,-2127,-1793,-2435,-1679,
+-1716,-1576,-29990,-29989,-29989,-29986,-29986,-29987,-29986,-29985,-29987,
+-29986]} 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bf4 Nc6 5. c3 Nf6 6. Nd2 Bg4 7. Qb3
+Qc8 8. Ngf3 e6 9. Bd3 Bh5 10. O-O Bg6 11. Bxg6 hxg6 12. Rae1 Be7 {LiveBook: 10
+Games} 13. g3 $146 {B13: Caro-Kann: Exchange Variation and Panov-Botvinnik
+Attack} ({Predecessor:} 13. h4 a6 14. a4 Nh5 15. Bh2 Nf6 16. Bf4 Nh5 17. Bg5
+Bxg5 18. hxg5 Qc7 19. Qxd5 Nf4 20. Qe4 O-O-O {0-1 (40) Carlsen,M (2832)-So,W 
+(2815) chess.com INT 2017}) 13... O-O 14. Ne5 Nxe5 15. dxe5 {The position is
+equal.} Nd7 16. h4 Nc5 17. Qc2 Qc6 18. Re3 Qa6 19. Qb1 Rac8 20. Kg2 b5 21. Bg5
+Qb7 22. Bxe7 Qxe7 23. Rh1 a5 24. Qd1 b4 25. Qg4 bxc3 26. bxc3 Rb8 27. h5 {
+[%cal Bh4h5,Bh5h6][%mdl 32]} g5 28. h6 g6 29. Nf3 {[%cal Bd2f3,Bf3d4,Bd4c6]
+[%mdl 32]} Ne4 30. Re2 Nxc3 31. Rc2 Ne4 32. Nd4 {[#] And now Nc6 would win.}
+Rbc8 33. Nc6 $1 {[%cal Rc6e7]} Qa3 34. Rhc1 Kh7 {White must now prevent ...Qd3.
+} 35. Qe2 g4 $1 36. Qxg4 {Threatens to win with f3.} Rc7 37. Qf4 Rfc8 38. g4 (
+38. Nd4 $1 $15 g5 39. Qg4 Rxc2 40. Rxc2 Rxc2 41. Nxc2) 38... g5 $17 39. Qh2 {
+[#]} (39. Qf3 $17 Qxf3+ 40. Kxf3) 39... Nd2 $1 $19 {[%mdl 512] Hoping for ...
+Qf3+.} 40. Rc3 $2 (40. Qg3 {is a better defense.} Qxg3+ 41. Kxg3) (40. Rxd2
+Qxc1) 40... Qa4 41. Qh5 $2 (41. f3 Nc4 42. Nd4 Qxa2+ 43. Kh3 Qxh2+ 44. Kxh2)
+41... Qe4+ 42. Kh3 d4 43. Rg3 Qf4 44. Rd1 Ne4 45. Rxd4 Nxg3 46. fxg3 Qf1+ {
+Black mates.} 47. Kh2 Rxc6 48. Qxg5 Rc2+ 49. Rd2 Rxd2+ 50. Qxd2 Rc1 {Precision:
+White = 37%, Black = 72%.} 0-1
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.13"]
+[Round "2"]
+[White "Rapport, Richard"]
+[Black "Shankland, Samuel"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2731"]
+[BlackElo "2725"]
+[Annotator "TA"]
+[PlyCount "188"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,188,0,-14,9,0,8,0,-6,-29,-25,-30,-22,-45,-31,-27,-27,-29,-23,-32,-30,
+-66,-26,-29,-38,-32,-34,-40,-24,-32,-20,-65,-36,-39,-41,-107,-110,-108,-91,
+-107,-106,-113,-138,-129,-99,-141,-126,-135,-86,-72,-83,-85,-85,-85,-85,-85,
+-85,-85,-85,-85,-85,-85,-85,-91,-92,-92,-87,-167,-166,-159,-152,-258,-262,-283,
+-284,-310,-303,-298,-300,-270,-281,-310,-300,-244,-86,-86,-87,-85,-82,-82,-77,
+-108,-97,-140,-194,-483,-543,-413,-235,-213,-207,-217,-220,-220,-113,-188,0,
+-204,0,-18,0,-199,-179,-164,-197,-200,-198,-176,-173,-172,-170,-193,-183,-145,
+-156,-4447,-4544,-2430,-2291,-1266,-1138,-495,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,
+-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,0,-8,0,-8,-8,-8,-8,-8,-8,-8,
+-8,-8,-8]} 1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. O-O e5 5. d3 Nc6 6. e4 dxe4 {
+A07: Réti Opening: New York and Capablanca Systems} 7. dxe4 Qxd1 8. Rxd1 Bg4 9.
+c3 (9. Be3 Nd4 10. Bxd4 exd4 11. Na3 O-O-O 12. h3 Bxf3 13. Bxf3 Ne7 14. Nc4 {
+0-1 (35) Caruana,F (2829)-Anand,V (2793) London 2014}) 9... Nf6 10. h3 {
+LiveBook: 5 Games} (10. Re1 {keeps more tension.} O-O 11. Nbd2 Ne8 12. Bf1 Nd6
+13. Kg2) 10... Bd7 $146 ({Predecessor:} 10... Be6 11. Re1 h6 12. Na3 Nd7 13.
+Bf1 Nb6 14. Nd2 {1/2-1/2 (28) Movsziszian,K (2533)-Levin,F (2470) Llucmajor
+2018}) 11. Re1 O-O-O 12. Na3 Ne8 13. c4 Bf8 14. Nc2 Be6 15. b3 Nb4 16. Nxb4
+Bxb4 17. Rf1 f6 18. Be3 Ng7 19. c5 ({Avoid the trap} 19. Bxa7 $2 b6 $19) 19...
+Rd3 20. Ne1 Rd7 21. c6 bxc6 22. Bxa7 Kb7 23. Be3 $1 Ra8 24. Nf3 Bf7 25. Rfc1
+Ne6 26. Bf1 ({White should try} 26. h4 $15) 26... Nd4 $36 {[%mdl 2048] Black
+is in control.} 27. Kg2 c5 28. Bc4 Ba3 $1 {[%cal Ra3c1]} 29. Rd1 Bxc4 30. bxc4
+Kc6 31. Nh2 Rd6 32. Bh6 Kd7 33. Ng4 Ke6 34. Rab1 Bb4 35. Ne3 c6 36. a3 Rxa3 37.
+Ra1 Nb3 38. Rxa3 Bxa3 39. Rxd6+ Kxd6 {[%mdl 4096] Endgame KBN-KBN} 40. Nc2 Bb2
+41. Kf1 g5 42. Bf8+ (42. Ke2 $17) 42... Ke6 $19 43. Ke2 Bd4 $1 44. Ne1 (44. h4
+$17 {keeps fighting.}) 44... Na5 45. Nd3 {[#]} Nb7 $1 ({Not} 45... Nxc4 46.
+Bxc5 Na5 47. Ba3 $17) 46. f4 gxf4 47. gxf4 Kf7 48. Bh6 Nd6 49. fxe5 fxe5 50.
+Be3 Nxc4 $2 (50... Nxe4 $19 {has better winning chances.} 51. Bxd4 exd4) 51.
+Bf2 $17 Ke7 52. Nxc5 Bxf2 53. Kxf2 {KN-KN} Nb6 54. Kf3 Nd7 55. Nb7 c5 56. Ke3
+$2 (56. h4) 56... Kf6 $19 57. Nd6 Kg5 (57... Nb6 $142 58. Nb7 c4) 58. Kf3 Nb6
+59. Nf7+ Kf6 60. Nh6 Nd7 (60... c4 $19 61. Ng4+ Ke6) 61. Nf5 (61. Ng4+ $17 Kg5
+62. Ne3) 61... Kg5 62. Nd6 $1 Nb6 $2 (62... Kh4 $19 63. Kg2 Nf6 64. Nf5+ Kg5)
+63. Nf7+ $1 $11 Kf6 $2 (63... Kh4 $11 64. Nxe5 Kxh3) 64. Nh6 $1 $19 Ke6 65. Nf5
+c4 66. Ke2 Kd7 67. Nh6 Kc6 68. Nf7 Nd7 69. Kd2 Kc5 70. Kc3 Nf6 71. Nxe5 $2 (71.
+Ng5 $17) 71... Nxe4+ 72. Kc2 Kd4 73. Nd7 Ke3 74. Nf8 {[#]} h5 $2 (74... h6 $1
+$19 {And now ...Kf4 would win.} 75. Ng6 Kd4) 75. Ng6 {The position is equal.}
+Kf2 76. h4 Kg3 77. Kb2 $1 Kg4 {Threatens to win with ...Kf5.} 78. Kc2 Nd6 {
+White must now prevent ...Nf5.} 79. Kc3 Nf5 80. Ne5+ Kxh4 81. Kxc4 Kg3 82. Ng6
+Kf3 83. Kd3 $1 {[#]} Ne7 $1 {[%mdl 512]} 84. Ne5+ $1 (84. Nxe7 h4) 84... Kg2
+85. Nf7 h4 {...h3 is the strong threat.} 86. Ng5 Ng8 87. Ke3 Kg3 88. Ne4+ Kg2 {
+aiming for ...h3.} 89. Ng5 Kg3 90. Ne4+ Kh2 91. Kf2 Nh6 92. Ng5 Ng4+ 93. Kf3
+Ne5+ 94. Ke4 Kg2 {Accuracy: White = 63%, Black = 66%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.14"]
+[Round "3"]
+[White "Giri, Anish"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[ECO "D97"]
+[WhiteElo "2783"]
+[BlackElo "2817"]
+[Annotator "TA"]
+[PlyCount "62"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 24,62,43,46,47,43,72,25,71,42,43,36,43,43,43,45,45,44,38,44,37,49,43,45,
+44,44,44,45,45,10,12,1,5,0,0,0,0,0,5,5,5]} 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3
+Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Nc6 8. Be2 e5 {D97: Grünfeld: Russian System:
+7 e4, replies other than 7...Bg4} 9. d5 Nd4 10. Nxd4 exd4 11. Qxd4 c6 12. Qc4
+b5 13. Qxc6 {LiveBook: 21 Games} Bd7 14. Qd6 Re8 15. Bg5 Rb8 (15... b4 16. Qxb4
+Nxd5 17. Nxd5 Qxg5 {1/2-1/2 (33) Vidit,S (2711)-Vachier Lagrave,M (2780) chess.
+com INT 2018}) 16. a3 {f3 is the strong threat.} a5 $146 17. O-O {Strongly
+threatening f3.} b4 $1 {[%cal Rb4c3]} 18. axb4 axb4 19. Nd1 {Threatens to win
+with f3.} Nxe4 {[%mdl 64] [#] Double Attack} 20. Bxd8 {[%cal Bg5d8,Bd8c7,Bc7d6]
+[%mdl 32]} Nxd6 21. Bc7 $1 {[%csl LRb8,LRd6][%mdl 64] Double Attack} Rb7 22.
+Bxd6 Rxe2 23. Ra8+ Re8 24. Rxe8+ Bxe8 25. Re1 Bd7 26. Re4 Ba4 {The position is
+equal.} 27. b3 f5 28. Rxb4 Rxb4 29. Bxb4 Bxb3 {[%mdl 64] [#] Double Attack} 30.
+Nc3 Bxc3 31. Bxc3 Bxd5 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.14"]
+[Round "3"]
+[White "Nepomniachtchi, Ian"]
+[Black "Kramnik, Vladimir"]
+[Result "1-0"]
+[ECO "C67"]
+[WhiteElo "2763"]
+[BlackElo "2777"]
+[Annotator "TA"]
+[PlyCount "71"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,71,15,22,9,11,3,15,10,15,7,6,13,21,20,0,6,18,15,32,31,37,35,41,42,38,
+50,56,47,75,62,72,72,74,81,78,78,71,73,110,116,89,87,164,88,272,291,457,435,
+959,959]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7.
+Bf1 Nxe5 8. Rxe5 O-O 9. d4 {[%cal Bd2d4,Bd4d5][%mdl 32]} Bf6 10. Re1 Re8 {
+C67: Ruy Lopez: Berlin Defence: 4 0-0 Nxe4} 11. c3 Rxe1 12. Qxe1 Ne8 {LiveBook:
+46 Games. The position is equal.} 13. d5 {[#]} (13. Bf4 d5 14. Bd3 c6 15. Nd2
+g6 16. Qe3 Ng7 17. Re1 {1/2-1/2 (17) Nepomniachtchi,I (2740)-Kramnik,V (2808)
+Moscow 2016}) 13... b6 $146 ({Predecessor:} 13... c6 14. Nd2 cxd5 15. Nf3 d6
+16. Be3 Nc7 17. Qd2 Bd7 18. g3 {1/2-1/2 (32) Giri,A (2780)-Caruana,F (2827)
+Batumi 2018}) 14. Bf4 Bb7 15. Qd2 h6 16. c4 c6 17. Nc3 cxd5 18. cxd5 d6 19. Re1
+Nc7 20. Bc4 {[%cal Bf1c4,Bc4b3,Bb3d1][%mdl 32]} Bxc3 21. bxc3 Qf6 22. h3 Rc8
+23. Re4 b5 24. Bb3 a5 {Threatening ...a4.} 25. a3 Qf5 26. Rd4 Qb1+ 27. Bd1 $1
+b4 28. cxb4 Nb5 {White must now prevent ...Rc3.} 29. Qd3 (29. bxa5 $2 Nxd4 30.
+Qxd4 Rc5 $19) 29... Qa1 30. Re4 $36 {[%mdl 2048] Keeping Black busy.} (30. Qxb5
+Qxd4 31. Qxb7 Rc3 $11) 30... Bxd5 {[#]} 31. Re1 $1 ({And not} 31. Qxd5 Nc3 $17)
+31... Bc4 32. Qf5 Rf8 (32... Ra8 $16) 33. Kh2 (33. bxa5 $18 Nd4 34. Qe4) 33...
+g6 $2 (33... Qd4 $16) 34. Qe4 $18 d5 {[#]} (34... Qd4 $142 35. Qxd4 (35. Bxh6
+Qxe4 36. Rxe4 d5 $18) 35... Nxd4 36. Bxd6 Ra8 37. bxa5 Nb3 38. Bxb3 Bxb3) 35.
+Qe7 $1 axb4 (35... Qg7 $142 36. a4 Nd4) 36. Be5 {Accuracy: White = 71%, Black
+= 48%.} 1-0
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.14"]
+[Round "3"]
+[White "Radjabov, Teimour"]
+[Black "Rapport, Richard"]
+[Result "1/2-1/2"]
+[ECO "B48"]
+[WhiteElo "2757"]
+[BlackElo "2731"]
+[Annotator "TA"]
+[PlyCount "63"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,63,50,18,39,22,18,0,1,0,0,-5,0,-14,1,0,0,0,0,0,0,0,0,0,11,14,14,10,
+18,10,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10]} 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4.
+Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 b5 8. O-O-O Nxd4 {B48: Sicilian: Taimanov:
+5 Nc3 Qc7 6 Be3 a6 without Be2} 9. Bxd4 Bb7 10. f3 {LiveBook: 3 Games} Nf6 11.
+Qg5 $146 ({Predecessor:} 11. Qf2 Rc8 12. Kb1 Bc5 13. g4 h6 14. Rd2 d5 {1/2-1/2
+(56) Pietruske,S (2420)-Ugge,A (2420) ICCF corr 1997}) 11... Rc8 {[#] Hoping
+for ...b4.} 12. Bd3 ({Much weaker is} 12. Bxf6 gxf6 13. Qxf6 Rg8 $15) 12... h6
+13. Qg3 Qxg3 14. hxg3 Bc5 15. Ne2 Bxd4 16. Nxd4 Ke7 17. Kd2 Rc7 18. c3 Rb8 19.
+Ra1 Bc8 20. b4 d6 21. a4 {[%cal Ra4b5]} e5 22. Ne2 Bd7 23. axb5 Bxb5 24. Rhc1
+Bxd3 {The position is equal.} 25. Kxd3 d5 26. exd5 Nxd5 27. Kd2 Rd8 28. Ke1
+Rdc8 {[%cal Rd5c3]} 29. Rxa6 Nxb4 30. cxb4 {[#] aiming for Kd2.} Rxc1+ 31. Nxc1
+Rxc1+ 32. Kf2 {Accuracy: White = 50%, Black = 95%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.14"]
+[Round "3"]
+[White "Shankland, Samuel"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2725"]
+[BlackElo "2773"]
+[Annotator "TA"]
+[PlyCount "69"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,69,28,31,11,20,20,13,20,21,12,21,19,30,17,35,14,23,20,34,26,54,58,54,
+25,17,7,16,18,33,29,26,26,31,31,33,41,30,21,26,8,45,45,45,45,45,0,0,0,0,0,0,0,
+0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. Bd3 dxc4 {
+D37: Queen's Gambit Declined: 5 Bf4} 8. Bxc4 Ba6 9. Bxa6 (9. Qe2 Bxc4 10. Qxc4
+c5 11. dxc5 bxc5 12. O-O Nc6 13. Rac1 Rc8 14. Ne5 Qb6 15. Nxc6 Rxc6 {1-0 (97)
+Carlsen,M (2842)-Nakamura,H (2777) Saint Louis 2018}) 9... Nxa6 {LiveBook: 12
+Games. White has an edge.} 10. Qa4 Qc8 $146 ({Predecessor:} 10... Nb4 11. O-O
+Nbd5 12. Nxd5 Nxd5 13. Bg3 Qe8 14. Qb3 c5 15. dxc5 Bxc5 {1/2-1/2 (52) Esipenko,
+A (2587)-Fedoseev,V (2706) Sochi 2018}) 11. O-O c5 12. Rac1 Qb7 13. a3 Rfc8 14.
+Nb5 Nb8 15. dxc5 bxc5 16. Ne5 Nbd7 17. Nxd7 Qxd7 18. Rfd1 Qc6 19. Bd6 Qb7 20.
+Be5 Nd5 21. Qg4 {[%csl Ge5][%cal Rg4g7] [#]} g6 $1 22. e4 Qxb5 23. exd5 exd5
+24. Rxd5 Rd8 25. Rcd1 Rxd5 26. Rxd5 Qc6 27. Qd1 Re8 28. Bc3 Bf6 29. Rd6 Qxd6 $1
+30. Qxd6 Rd8 31. Qa6 (31. Qxd8+ $5 Bxd8 32. Kf1 $11) 31... Rd1+ {The position
+is equal.} 32. Qf1 $1 {[%cal Rf1d1]} Rxf1+ 33. Kxf1 Bxc3 34. bxc3 Kf8 35. Ke2 {
+Accuracy: White = 61%, Black = 71%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.14"]
+[Round "3"]
+[White "Fedoseev, Vladimir"]
+[Black "Duda, Jan-Krzysztof"]
+[Result "0-1"]
+[ECO "E03"]
+[WhiteElo "2724"]
+[BlackElo "2738"]
+[Annotator "TA"]
+[PlyCount "71"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,71,-7,0,-2,-13,-30,-25,-32,-45,-43,-34,-44,-27,-35,-39,-30,-30,-37,
+-31,-29,-43,-35,-17,-24,-15,-35,0,0,0,0,39,0,0,0,0,-36,-30,-131,-114,-137,-118,
+-104,-91,-177,-178,-217,-218,-199,-221,-200,-204,-207,-192,-406,-396,-643,-567,
+-764,-720,-29996]} 1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Nbd7 6. Qxc4
+c5 {E03: Open Catalan: 5 Qa4+ Nbd7 6 Qxc4} 7. dxc5 Bxc5 {LiveBook: 3 Games} 8.
+Nc3 a6 {The position is equal.} 9. Qb3 $146 ({Predecessor:} 9. Qh4 O-O 10. Nh3
+Ra7 11. O-O b5 12. Ng5 Bb7 13. Bxb7 Rxb7 {0-1 (39) Van Oosterom,J (2732)-Kukk,
+R (2609) ICCF email 2009}) 9... Ra7 10. Na4 Qa5+ 11. Kf1 b6 12. Nxc5 Nxc5 13.
+Qc2 O-O 14. Nf3 Bb7 15. Bd2 Qb5 16. Nd4 Qd7 17. Bxb7 Rxb7 (17... Qxb7 {is more
+complex.} 18. Nf3 Rc8 19. Be3 Ncd7 20. Qb3 Qe4) 18. Nf3 Nce4 19. Rc1 Qd5 20.
+Bb4 Re8 21. Kg2 Qb5 22. Ba3 h5 23. Rhf1 Rd7 {[%cal Bb7d7,Bd7d2,Bd2c2][%mdl 32]}
+24. e3 {[#]} h4 $1 $36 {[%mdl 2560] Black has the initiative.} 25. Nxh4 (25.
+Qc6 $1 $11) 25... Rd2 $17 26. Qc4 Qxc4 $1 27. Rxc4 b5 28. Rd4 {[#]} (28. Rb4
+$17) 28... Rc2 $1 $19 29. Bb4 e5 ({But not} 29... Rxb2 30. a3 $17) 30. Rd3 Rxb2
+31. a3 Ng4 {[%cal Re4f2]} 32. Be1 {[#]} Rc8 $1 {[%cal Rc8c2] And now ...Rcc2
+would win.} 33. Nf5 $2 (33. h3 Ngxf2 34. Bxf2) 33... Rcc2 {[%cal Rg4f2]} 34.
+Rd8+ (34. Rd7 {keeps fighting.}) 34... Kh7 35. Kh3 Ngxf2+ 36. Kh4 {Accuracy:
+White = 42%, Black = 76%.} 0-1
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.14"]
+[Round "3"]
+[White "Vidit, Santosh Gujrathi"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "2695"]
+[BlackElo "2835"]
+[Annotator "TA"]
+[PlyCount "261"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,261,0,14,0,23,0,-4,-10,-10,-10,-10,-11,-6,-9,-9,-9,-13,-13,0,0,0,0,
+17,7,9,-8,-8,-8,-8,-8,-8,-8,-8,-6,-6,-20,-15,-33,-29,-29,-29,-29,-29,-29,-29,
+-35,-19,-19,-19,-19,-11,-11,0,-19,-19,-45,-45,-66,-66,-66,-66,-66,-66,-66,-66,
+-99,-66,-66,-66,-66,-43,-43,-43,-43,-43,-43,-43,-43,-43,-43,-43,-43,-43,-43,
+-43,-43,-43,-43,-43,-43,0,-43,-43,-43,-43,-43,-43,-43,0,-43,0,-43,-43,-43,-43,
+-43,-43,-43,-43,-43,-43,-43,-43,-43,-43,-43,-43,-43,-43,-43,-43,-43,0,-43,-43,
+-43,-43,-43,-43,-43,-43,-16,0,-43,-43,-16,0,-43,-43,-43,0,-43,-43,-43,-43,-43,
+0,0,0,0,0,0,0,0,0,-43,-43,-43,0,-43,-43,-43,-43,-43,-43,-43,-43,-43,-43,-43,
+-43,-43,-43,-43,-43,-43,0,-43,-43,-43,-43,-43,-43,-43,-43,-43,-43,-43,-43,-43,
+-43,-43,-43,-43,-43,-43,-43,-43,-43,-43,0,-43,-43,-43,-43,-43,-43,-43,-43,-43,
+-43,-43,-43,-43,-44,-44,-44,-44,-44,-46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0]} 1. Nf3 Nf6 2. g3 g6 3. c4 Bg7 4. Bg2 O-O 5. Nc3 c5 6. d4 d6 7. dxc5
+dxc5 8. Qxd8 Rxd8 9. Ne5 {E64: King's Indian: Fianchetto: 6...c5 7 d5} Ne8 10.
+Nd3 Nd6 {LiveBook: 4 Games} 11. Bf4 $146 ({Predecessor:} 11. Bg5 Bxc3+ 12. bxc3
+f6 13. Be3 Nxc4 14. Bxc5 Kf7 15. Nb4 e6 16. O-O a5 {1/2-1/2 (53) Matlakov,M 
+(2689)-Grischuk,A (2792) Dubai 2014}) 11... Na6 {[%cal Bb8a6,Ba6b4,Bb4c6][%mdl
+32]} 12. Rc1 Bf5 13. O-O Bxd3 14. exd3 Nb4 15. Rfd1 Rac8 16. a3 Nc6 17. Bxd6
+Rxd6 18. Ne4 Re6 19. Nxc5 Re2 20. b4 b6 21. Bxc6 Rxc6 22. Nb3 Ra2 23. d4 Rxa3
+24. d5 Rc7 25. Nd4 Bxd4 26. Rxd4 $11 {[%mdl 4096] Endgame KRR-KRR} Ra4 27. c5
+bxc5 28. Rdc4 Rd7 29. bxc5 {[%mdl 64] [#] Discovered Attack} Rxc4 30. Rxc4 Rxd5
+{KR-KR} 31. c6 {[%cal Bc5c6,Bc6c7][%mdl 32]} Rd8 32. Ra4 Ra8 33. c7 Rc8 34.
+Rxa7 Kf8 35. g4 f6 36. Kg2 Ke8 37. Ra3 Rxc7 38. Ra8+ Kf7 39. Rh8 Kg7 40. Re8 h6
+41. Kg3 Ra7 42. Kg2 h5 43. gxh5 gxh5 44. h4 e5 45. Rb8 Ra4 46. Kg3 Ra3+ 47. Kg2
+Kg6 48. f3 $1 Rd3 49. Rb6 Kf5 50. Ra6 Rd8 51. Kg3 Rg8+ 52. Kf2 Re8 53. Kg3 Rd8
+54. Kg2 Re8 55. Kg3 Re6 56. Ra8 Rd6 57. Rh8 Kg6 58. Rg8+ Kh7 59. Re8 Kg7 60.
+Re7+ Kg6 61. Kh3 Kf5 {[#] And now ...Kf4 would win.} 62. Kg3 $1 Rd3 63. Re8 $1
+Rc3 64. Re7 $1 Re3 65. Rh7 Kg6 66. Re7 Rd3 67. Kf2 Kf5 68. Kg3 Rb3 69. Re8 $1
+Ra3 70. Re7 $1 Rd3 71. Re8 $1 Rd7 {Threatens to win with ...Rg7+.} 72. Ra8 Rg7+
+73. Kf2 Re7 74. Kg3 Rb7 75. Rc8 Rb1 76. Rc6 Rg1+ 77. Kf2 Rg8 78. Ra6 Rb8 79.
+Kg3 Kg6 80. Kg2 Rb2+ 81. Kg3 Rd2 82. Kh3 Kf7 83. Ra7+ Ke6 84. Ra6+ Rd6 85. Ra8
+Rd3 86. Kg2 Kf5 {Strongly threatening ...Kf4.} 87. Ra6 Rd4 88. Kg3 Rb4 89. Ra8
+e4 90. fxe4+ Rxe4 91. Rh8 Kg6 92. Rg8+ Kh7 93. Ra8 Rb4 94. Rc8 Rg4+ 95. Kh3 $1
+Rg8 96. Rc1 Ra8 97. Rg1 Rg8 (97... Kh6 {looks sharper.} 98. Rf1 Ra3+ 99. Kh2
+Kg7 100. Rf5 Ra2+) 98. Ra1 (98. Rc1 {seems wilder.}) 98... Kg6 99. Ra5 Rb8 100.
+Kg3 Rb3+ 101. Kg2 Re3 102. Rb5 Re5 103. Rb8 Kf5 104. Kf3 Ra5 105. Rb3 Ra4 106.
+Rb5+ Kg6 107. Kg3 $1 Rg4+ 108. Kh3 $1 Re4 109. Kg3 Rg4+ 110. Kh3 $1 Rg1 111.
+Kh2 Re1 112. Kg3 Re5 113. Rb3 Kf5 114. Kf3 Ra5 115. Rc3 Ra4 116. Rc5+ Kg6 117.
+Kg3 $1 Rg4+ 118. Kh3 $1 Re4 119. Kg3 f5 120. Rc6+ {The position is equal.} Kg7
+121. Rc7+ Kf6 122. Rc6+ Re6 123. Rc4 Ke5 124. Rc5+ Ke4 125. Rc4+ Ke3 {...f4+!
+is the strong threat.} 126. Rc3+ Kd4 127. Rc8 Re4 128. Ra8 Rg4+ 129. Kf3 Ke5
+130. Ra5+ Kf6 131. Ra6+ {Accuracy: White = 75%, Black = 68%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.14"]
+[Round "3"]
+[White "Van Foreest, Jorden"]
+[Black "Ding, Liren"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "2612"]
+[BlackElo "2813"]
+[Annotator "TA"]
+[PlyCount "100"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,100,12,16,29,26,37,25,38,35,31,31,47,45,45,41,37,30,61,25,42,0,0,-13,
+0,0,0,-37,0,-32,-36,-31,-39,-35,-34,-57,-29,-213,-212,-202,-8,-192,-8,-10,-6,
+-41,-44,-43,-49,-50,-16,-50,-56,-57,-57,-57,-57,-57,-58,-103,-46,-787,-779,
+-751,-727,-1056,-1123,-6540,-6487,-29970,-29971,-29971,-29972,-29972,-29972,
+-29972,-29973,-29976,-29978,-29981,-29982,-29982,-29983,-29983,-29984]} 1. e4 {
+Pavlovic,M} e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 d6 6. O-O O-O 7. Re1 a5 {
+C54: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} 8. Bg5 {[%cal
+Bc1g5,Bg5h4,Bh4g3][%mdl 32]} h6 9. Bh4 g5 10. Bg3 {LiveBook: 6 Games} Nh7 $146
+({Predecessor:} 10... Ba7 11. Na3 Bg4 12. h3 Bh5 13. Nc2 Bg6 14. Bh2 Nh5 15. d4
+{1-0 (36) Giri,A (2790)-Eljanov,P (2765) Stavanger 2016 CBM 172 [Pavlovic,M]})
+11. d4 Bb6 12. dxe5 h5 13. h4 $1 {[%cal Re5d6]} Bg4 14. Nbd2 Nxe5 {Threatens
+to win with ...Bxf3.} 15. Be2 (15. Bxe5 dxe5 16. Bf1 Bxf3 $17) 15... Nxf3+ 16.
+Nxf3 Bxf3 17. Bxf3 gxh4 18. Bh2 h3 19. e5 ({White should try} 19. Bxh5 $14 Kh8
+20. Bf4 (20. gxh3 Qh4 $17)) 19... Qh4 $1 $11 20. Qd2 dxe5 21. Rxe5 Rad8 $1 {
+[%cal Rd8d2]} 22. Qe2 Ng5 $36 {[%mdl 2048] Black has good play.} 23. Bxb7 {
+Hoping for g3.} (23. Kh1 $5 {[%cal Rg2g3]} hxg2+ 24. Bxg2 $15) 23... f6 24. Re7
+Rf7 25. Rxf7 Kxf7 26. Re1 Kg6 27. Qc2+ $2 (27. b3 $11 {and White is okay.})
+27... f5 $19 28. Qe2 hxg2 $2 (28... f4 $1 $19 {aiming for ...hxg2.} 29. c4 Bc5
+30. Qc2+ Kh6) 29. Bxg2 $2 (29. Kxg2 $11 Rb8 30. Bc6) 29... Qg4 $2 (29... f4 $1
+$19 {[%cal Rf4f3] And now ...f3! would win.} 30. Rf1 Rf8) 30. Kf1 $1 $11 h4 {
+[%cal Bh5h4,Bh4h3][%mdl 32]} 31. b3 Qxe2+ 32. Kxe2 Re8+ 33. Kf1 Rxe1+ 34. Kxe1
+$15 {[%mdl 4096] Endgame KBB-KBN} h3 35. Bd5 Ne4 36. Bxe4 fxe4 {KB-KB} 37. Ke2
+Kf5 38. f3 {[#]} c6 (38... c5 $1 $17) 39. b4 $2 {[%mdl 8192] [#]} (39. a4 $15)
+39... a4 $1 $19 40. c4 Bd4 41. fxe4+ Kxe4 42. Kf1 Kd3 43. b5 cxb5 {Black mates.
+} 44. cxb5 Kc4 45. Ke2 Kxb5 46. Kf3 Kb4 47. Kg4 Ka3 48. Kxh3 Kxa2 49. Bd6 Kb3
+50. Kg2 Bc3 {Precision: White = 35%, Black = 65%.} 0-1
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.15"]
+[Round "4"]
+[White "Carlsen, Magnus"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[WhiteElo "2835"]
+[BlackElo "2777"]
+[Annotator "TA"]
+[PlyCount "112"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,112,12,10,5,2,0,13,0,16,7,6,8,15,6,8,16,27,14,6,0,0,-7,-5,-7,-5,-7,
+-7,-6,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,5,5,13,11,8,0,0,0,0,0,8,8,37,15,22,14,21,
+36,31,31,42,32,38,8,8,0,7,0,8,8,8,8,8,0,8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,
+-8,-8,-8,-8,-8,-8]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 d5 6. Nbd2
+dxe4 7. dxe4 O-O 8. O-O Qe7 9. b4 {C00: French: Unusual White 2nd moves} (9.
+Qc2 Nb8 10. b4 Bd6 11. a3 Bg4 12. h3 Bh5 13. Bb2 c6 14. Bd3 Rd8 15. Nh4 Bc7 16.
+Ndf3 a5 {1/2-1/2 (41) Anand,V (2776)-Harikrishna,P (2731) chess.com INT 2018})
+9... Bd6 {LiveBook: 3 Games} 10. a3 a5 {[%cal Ra5b4]} 11. Rb1 axb4 $146 ({
+Predecessor:} 11... Rd8 12. Qe2 Be6 13. Bxc6 bxc6 14. Nc4 axb4 15. cxb4 Qe8 16.
+Bg5 Bxc4 17. Qxc4 Qe6 18. Qb3 Qxb3 19. Rxb3 Ra4 20. Bxf6 {1/2-1/2 (20)
+Scherbakov,Y (2286)-Prozorovskij,V (2347) ICCF email 2016}) 12. axb4 Be6 13.
+Re1 Rfd8 14. Qc2 h6 15. Bf1 Ra2 16. Bb2 Qe8 17. Nc4 b5 18. Ne3 Ne7 19. Ra1 Rda8
+20. Rxa2 Rxa2 21. Ra1 Rxa1 22. Bxa1 Qa8 23. Bb2 Qxe4 24. Qxe4 Nxe4 25. Bxb5 f5
+26. Bd3 Nf6 27. Bf1 g5 28. Nc4 Bxc4 29. Bxc4+ Kg7 30. Nd2 e4 31. Bb3 c6 32. h3
+h5 33. Kf1 Kg6 34. Nc4 Bc7 35. Na5 Nd7 36. Ba4 Nb6 37. Bxc6 Nxc6 38. Nxc6 $14 {
+[%mdl 4096] Endgame KBN-KBN} Nc4 39. Bc1 f4 40. f3 exf3 41. gxf3 g4 $1 42. Kg2
+Kg5 {The position is equal.} 43. b5 g3 44. Nb4 Ne3+ 45. Bxe3 fxe3 $11 {KB-KN}
+46. Nd3 e2 47. f4+ Bxf4 48. b6 Kf5 49. Kf3 g2 50. Kxg2 {[#] aiming for b7.} Ke4
+51. Ne1 $132 {[%mdl 2048] White is not keeping still} Ke3 52. b7 h4 53. c4 Bg3
+54. c5 Kd2 55. Nf3+ Kd1 56. c6 Kc1 {Accuracy: White = 64%, Black = 69%.}
+1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.15"]
+[Round "4"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[ECO "D70"]
+[WhiteElo "2817"]
+[BlackElo "2763"]
+[Annotator "TA"]
+[PlyCount "64"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,64,24,0,4,9,16,10,10,4,15,13,10,8,5,0,0,0,11,6,15,15,15,11,15,12,15,
+12,25,0,6,10,31,0,2,-8,-7,-8,0,0,0,0,0,0,0,0,0,0,8]} 1. d4 Nf6 2. c4 g6 3. Nf3
+Bg7 4. e3 O-O 5. Be2 d6 6. O-O Nbd7 {[%cal Bb8d7,Bd7c5,Bc5e4,Be4c3][%mdl 32]}
+7. Nc3 e5 8. Qc2 c6 9. b3 {[%cal Bb2b3,Bb3b4][%mdl 32]} Re8 10. Ba3 {LiveBook:
+3 Games} exd4 {E61: King's Indian: Early deviations for White, including
+Smyslov System} 11. Nxd4 Nc5 (11... Nb6 12. Rad1 d5 13. Bf3 Bd7 14. cxd5 Nbxd5
+15. Nxd5 cxd5 16. Bb2 Rc8 17. Qb1 Qb6 18. Ne2 Bb5 19. Bd4 Qa6 20. Qb2 Rc6 21.
+Rfe1 Bd3 22. Nc3 Rec8 23. Nxd5 Rc2 24. Nb4 {1-0 (24) Bauer,C (2644)-Colmenares,
+A (2345) Switzerland 2016}) 12. Rad1 Qe7 13. b4 Nce4 14. Bb2 Nxc3 15. Qxc3 $146
+({Predecessor:} 15. Bxc3 Ne4 16. Bb2 a5 17. b5 Bd7 18. Nf3 {1-0 (47) Ilivitzki,
+G-Shamkovich,L Kiev (Ukraine) 1954}) 15... d5 16. Nb3 Nh5 17. Nd4 Nf6 18. a3
+Ne4 19. Qc1 dxc4 20. Bxc4 Bd7 21. Nb3 Bxb2 22. Qxb2 Rad8 23. Rd4 Nd6 24. Bd3
+Nf5 25. Bxf5 Bxf5 {The position is equal.} 26. Na5 Be4 27. f3 Bd3 28. Re1 Qf6 {
+[#] ...Rxd4 is the strong threat.} 29. Rd1 Rxd4 ({But not} 29... Rxe3 $6 30.
+Rxd8+ Qxd8 {[#]} 31. Nc4 $1 $16 {[%mdl 512]}) 30. Qxd4 Qxd4 31. exd4 Ba6 32. a4
+Re6 {Accuracy: White = 67%, Black = 77%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.15"]
+[Round "4"]
+[White "Ding, Liren"]
+[Black "Fedoseev, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[WhiteElo "2813"]
+[BlackElo "2724"]
+[Annotator "TA"]
+[PlyCount "85"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,85,16,18,19,32,15,26,18,25,24,22,20,22,22,20,31,19,34,37,38,31,24,58,
+58,49,53,62,27,43,47,48,16,27,22,21,11,8,8,25,6,18,6,18,6,6,0,18,8,18,4,18,11,
+18,5,18,11,18,18,31,31,37,18,31,11,23,6,11,5]} 1. c4 e6 2. Nc3 d5 3. d4 Nf6 4.
+cxd5 exd5 5. Bg5 c6 6. e3 Be7 7. Bd3 Nbd7 {[%cal Bb8d7,Bd7f8,Bf8e6][%mdl 32]}
+8. Nge2 Nf8 9. O-O {D35: Queen's Gambit Declined: Exchange Variation} (9. Qc2
+Ne6 10. Bh4 g6 11. f3 O-O 12. O-O-O b6 13. g4 Bb7 14. Kb1 Rc8 15. Bxf6 Bxf6 16.
+h4 c5 17. h5 Qe7 18. f4 Rfe8 19. hxg6 fxg6 {1-0 (33) Wojtaszek,R (2738)-Yilmaz,
+M (2619) Batumi 2018}) 9... Ne6 10. Bh4 g6 {LiveBook: 5 Games} 11. b4 a6 12.
+Na4 $146 ({Predecessor:} 12. Rb1 O-O 13. a4 Nh5 14. Bxe7 Qxe7 15. Qc2 f5 16.
+Ng3 f4 17. Nxh5 gxh5 {1/2-1/2 (35) Farago,I (2411)-Pujari,R (2203) Zalakaros
+2017}) 12... O-O 13. Nc5 Ng7 14. Rc1 Nfe8 15. Bxe7 Qxe7 16. a4 Nd6 17. b5 axb5
+18. axb5 Bf5 19. bxc6 bxc6 20. Nf4 Rfb8 21. Re1 Ra2 22. Bf1 h5 23. Ra1 Rxa1 24.
+Qxa1 Ne4 25. Nxe4 Bxe4 26. Rc1 Ne6 27. Nd3 Bxd3 28. Bxd3 Qc7 29. h3 Kg7 30. Rc3
+Rb6 31. Ra3 Rb8 32. Rc3 Rb6 33. Qa8 Qd6 34. Rc1 Qc7 35. h4 Qd6 36. Bf1 Nd8 37.
+Qa5 Rb3 38. g3 Qf6 39. Qa2 Rb6 40. Bh3 Qd6 41. Kg2 Qe7 42. Qe2 Nb7 43. Kg1 {
+Accuracy: White = 39%, Black = 46%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.15"]
+[Round "4"]
+[White "Anand, Viswanathan"]
+[Black "Radjabov, Teimour"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2773"]
+[BlackElo "2757"]
+[Annotator "TA"]
+[PlyCount "60"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 24,60,20,20,24,14,21,14,8,11,10,14,11,11,11,13,9,10,3,4,6,3,12,11,12,8,
+8,10,9,4,10,0,4,0,0,0,12,0,10]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5.
+Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8. Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 {C67: Ruy
+Lopez: Berlin Defence: 4 0-0 Nxe4} 11. c3 Rxe1 12. Qxe1 Nf5 (12... Ne8 13. d5
+c6 14. Nd2 cxd5 15. Nf3 d6 16. Be3 Nc7 17. Qd2 Bd7 18. g3 {1/2-1/2 (32) Giri,A
+(2780)-Caruana,F (2827) Batumi 2018}) 13. Bf4 {LiveBook: 10 Games} d6 {[%cal
+Bd7d6,Bd6d5][%mdl 32]} 14. Bd3 Be6 {The position is equal.} 15. Nd2 Bg5 16. Qe4
+$146 {Threatening Bxg5.} ({Predecessor:} 16. Bxg5 Qxg5 17. Nf3 Qf4 18. Qd2 {
+1/2-1/2 (18) Boehnke,H (2164)-Pantazi,A (2133) ICCF email 2011}) 16... d5 17.
+Qe5 Bxf4 18. Qxf4 Qd6 19. Qf3 g6 20. Re1 Ng7 21. Nf1 Re8 22. Ne3 Bf5 23. Bf1
+Bd7 24. Qd1 Nf5 25. Nxf5 Rxe1 26. Qxe1 Bxf5 27. Qe8+ Kg7 28. Qb5 Bc8 29. g3 c6
+30. Qe2 Qe6 {Accuracy: White = 82%, Black = 84%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.15"]
+[Round "4"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Shankland, Samuel"]
+[Result "1/2-1/2"]
+[ECO "B48"]
+[WhiteElo "2738"]
+[BlackElo "2725"]
+[Annotator "TA"]
+[PlyCount "62"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 24,62,12,12,14,4,18,16,18,16,16,16,9,0,4,23,16,0,0,2,6,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7
+6. Be3 a6 7. Qd2 Nf6 8. O-O-O Be7 {B48: Sicilian: Taimanov: 5 Nc3 Qc7 6 Be3 a6
+without Be2} 9. f4 (9. f3 h5 10. Nxc6 bxc6 11. Bf4 e5 12. Bg5 a5 13. Bc4 a4 14.
+a3 Qb7 15. Qd3 d6 16. Bxf6 gxf6 {1/2-1/2 (68) Quesada Perez,Y (2622)-Cori
+Tello,J (2664) Saint Louis 2018}) 9... b5 10. e5 b4 11. exf6 bxc3 12. Qxc3 Bxf6
+13. g4 {LiveBook: 21 Games} h6 14. h4 Bb7 15. Rh2 Qd6 16. Qd2 Bxd4 17. Bxd4
+Qxd4 18. Qxd4 Nxd4 19. Rxd4 Ke7 $146 20. Rhd2 {The position is equal.} Bc6 21.
+Bg2 Bxg2 22. Rxd7+ Ke8 23. Rc7 $1 Bf3 24. Rdd7 Bxg4 {[#] Hoping for ...Bh5.}
+25. Re7+ Kd8 26. Red7+ Ke8 {And now ...Bh5 would win.} 27. Rxf7 g6 28. Rfe7+
+Kd8 29. Red7+ Ke8 30. Re7+ Kd8 31. Red7+ Ke8 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.15"]
+[Round "4"]
+[White "Rapport, Richard"]
+[Black "Giri, Anish"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "2731"]
+[BlackElo "2783"]
+[Annotator "TA"]
+[PlyCount "80"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,80,-9,-17,-25,-24,-13,-15,-6,-13,-10,-10,-6,-10,-5,-13,-11,-12,0,-4,
+0,0,0,0,0,0,0,0,0,0,0,-99,-96,-89,-88,-112,-128,-116,-118,-115,-120,-114,-115,
+-154,-102,-243,-179,-168,-121,-149,-113,-216,-168,-273,-263,-209,-218,-212,
+-196,-564,-550,-572,-484,-588,-584,-1058,-1051,-785,-710,-808,-808]} 1. d4 d5
+2. Nc3 Nf6 3. Bf4 e6 4. Nb5 Na6 {[%cal Bb8a6,Ba6b4,Bb4d3][%mdl 32]} 5. e3 Be7
+6. Nf3 {D00: 1 d4 d5: Unusual lines} O-O 7. Bd3 {LiveBook: 3 Games} (7. Be2 c6
+8. Nc3 c5 9. h3 Bd7 10. O-O Rc8 11. a4 Nb4 {0-1 (24) Alekseenko,K (2639)
+-Oparin,G (2624) Sochi 2018}) 7... c6 8. Nc3 {Black has an edge.} Nb4 9. h3
+$146 ({Predecessor:} 9. a3 Nxd3+ 10. cxd3 Nh5 11. Bg3 Nxg3 12. hxg3 {0-1 (37)
+Bramajo,R-Gil,R (2250) Pehuajo 2017}) 9... Nxd3+ 10. cxd3 b6 11. O-O Bb7 12.
+Qb3 Nd7 13. Rfe1 Rc8 14. Rac1 h6 15. Bg3 a5 16. Na4 Ba6 17. Ne5 Nxe5 18. Bxe5
+Bb5 19. Re2 Re8 20. Rec2 Bf8 21. Nxb6 (21. a3 $11) 21... Qxb6 $17 22. a4 Ra8 ({
+Much weaker is} 22... f6 $6 23. Bg3 $14) 23. g4 Qd8 24. axb5 a4 25. Qc3 cxb5 {
+[%cal Bc6b5,Bb5b4][%mdl 32]} 26. Qc6 b4 27. Bc7 Qg5 ({Better is} 27... Qh4 28.
+Kg2 b3) 28. f4 (28. Bf4 $17 Qh4 29. Kg2) 28... Qg6 29. e4 h5 30. g5 h4 31. Kf2
+(31. Be5 $17) 31... a3 32. b3 (32. bxa3 $142 bxa3 33. Ra2) 32... Rec8 $19 33.
+Qb7 dxe4 34. dxe4 f6 35. Be5 $2 {[#]} (35. Qc6) 35... Rxc2+ {Black is clearly
+winning.} 36. Rxc2 Re8 37. gxf6 gxf6 38. Kf1 {[#] Strongly threatening Rg2.}
+Re7 39. Qc6 Rg7 {( -> ...Qg1+)} 40. Qxe6+ Kh7 {Accuracy: White = 39%, Black =
+79%.} 0-1
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.15"]
+[Round "4"]
+[White "Vidit, Santosh Gujrathi"]
+[Black "Van Foreest, Jorden"]
+[Result "1-0"]
+[ECO "E04"]
+[WhiteElo "2695"]
+[BlackElo "2612"]
+[Annotator "TA"]
+[PlyCount "101"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 33,101,12,20,18,18,20,18,18,18,17,11,11,13,13,37,37,40,37,49,55,64,64,
+62,61,67,67,67,67,67,60,71,71,71,71,87,87,82,71,74,72,102,102,119,119,124,124,
+1902,963,1642,1677,1553,1316,1099,893,29966,29967,29973,29974,29974,29975,
+29975,29975,29975,29977,29977,29978,29980,29982,29982,29983]} 1. d4 Nf6 2. c4
+e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. dxc5 Qxd1 8. Rxd1 Bxc5 9. Nbd2
+c3 10. bxc3 O-O 11. Nb3 Be7 12. c4 Bd7 13. Bb2 {E04: Open Catalan: 5 Nf3} Rfd8
+14. Nfd4 Rac8 15. Nb5 b6 16. Nd6 Bxd6 17. Rxd6 Be8 {LiveBook: 9 Games} 18. Rd3
+{[#]} h6 $146 ({Predecessor:} 18... Nb4 19. Rxd8 Rxd8 20. Bc3 a5 {1/2-1/2 (31)
+Wojtaszek,R (2737)-Naiditsch,A (2702) Antalya 2017}) 19. Rad1 Rd7 20. Rxd7 Nxd7
+21. Rc1 Nc5 22. Nxc5 bxc5 23. Kf1 Rb8 24. Bxc6 Bxc6 $14 {[%mdl 4096] Endgame
+KRB-KRB} 25. Ba3 Be4 26. f3 Bb1 27. Bxc5 Bxa2 28. Bxa7 Rb1 29. Rxb1 Bxb1 {KB-KB
+} 30. c5 {[%cal Bc4c5,Bc5c6,Bc6c7][%mdl 32]} Kf8 31. Bb8 Ke7 32. Bd6+ Ke8 33.
+c6 Kd8 34. Kf2 Bc2 35. h4 h5 36. Ke3 Ba4 37. c7+ Kd7 38. g4 g6 {[#]} 39. Kf4 $1
+Bb5 $2 {[%mdl 8192]} (39... f6 $16) 40. Kg5 $18 Ba6 41. gxh5 gxh5 42. Bh2 Bxe2
+43. Kxh5 f6 44. Kg6 {White mates.} e5 45. Kxf6 Kxc7 46. Bxe5+ Kd7 47. f4 Ke8 {
+[#]} 48. Bd6 $1 Bh5 49. Kg5 Bf7 50. h5 Bg8 51. Kf6 {Accuracy: White = 99%,
+Black = 41%.} 1-0
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.16"]
+[Round "5"]
+[White "Giri, Anish"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2783"]
+[BlackElo "2773"]
+[Annotator "TA"]
+[PlyCount "43"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,43,15,13,18,0,17,22,3,6,5,10,23,10,14,23,48,27,-12,-10,0,0,-32]} 1.
+e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a6 7. a4 O-O 8. Re1 {
+C54: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} a5 (8... h6 9. h3
+Be6 10. Bxe6 fxe6 11. Be3 Bxe3 12. Rxe3 Qd7 13. Nbd2 Qf7 14. g3 Nd7 15. Kg2 a5
+{0-1 (45) Giri,A (2798)-Anand,V (2784) Zuerich 2016}) 9. h3 h6 10. Nbd2 Be6 11.
+Bb5 Na7 12. d4 Nxb5 {LiveBook: 5 Games} 13. axb5 exd4 14. Nxd4 Re8 15. Nf1 {[#]
+} Bc4 $146 ({Predecessor:} 15... Bd7) 16. Ng3 d5 {[%cal Rd5e4]} 17. e5 Ne4 {
+[%mdl 64] [#] Decoy} 18. Nxe4 dxe4 19. Rxe4 Qd5 20. Qf3 Bxd4 21. cxd4 Re6 22.
+Rf4 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Alkmaar"]
+[Date "2019.01.16"]
+[Round "5"]
+[White "Giri, Anish"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2783"]
+[BlackElo "2773"]
+[Annotator "TA"]
+[PlyCount "43"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 22,43,28,18,16,0,0,0,0,0,11,4,22,19,23,20,33,29,36,-8,-7,-7,-2,-35]} 1.
+e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a6 7. a4 O-O 8. Re1 {
+C54: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} a5 (8... h6 9. h3
+Be6 10. Bxe6 fxe6 11. Be3 Bxe3 12. Rxe3 Qd7 13. Nbd2 Qf7 14. g3 Nd7 15. Kg2 a5
+{0-1 (45) Giri,A (2798)-Anand,V (2784) Zuerich 2016 CBM 171 [Marin,M]}) 9. h3
+h6 10. Nbd2 Be6 11. Bb5 Na7 12. d4 {LiveBook: 6 Games} Nxb5 13. axb5 exd4 14.
+Nxd4 Re8 15. Nf1 {[#]} Bc4 $146 ({Predecessor:} 15... Bd7) 16. Ng3 d5 {[%cal
+Rf6e4]} 17. e5 Ne4 18. Nxe4 dxe4 19. Rxe4 Qd5 20. Qf3 Bxd4 21. cxd4 Re6 22. Rf4
+1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.16"]
+[Round "5"]
+[White "Kramnik, Vladimir"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[ECO "C80"]
+[WhiteElo "2777"]
+[BlackElo "2817"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 28,61,33,43,67,16,16,16,33,39,22,16,16,15,18,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 {[%cal Bf1b5,Bb5a4,Ba4b3][%mdl 32]
+} a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. Nbd2 Nc5 10. c3
+d4 11. Bxe6 Nxe6 12. cxd4 Ncxd4 13. a4 Bc5 14. Ne4 {C80: Open Ruy Lopez:
+Sidelines and 9 Nbd2} Bb6 15. Nfg5 {LiveBook: 13 Games} (15. axb5 axb5 16. Rxa8
+Qxa8 17. Nxd4 Qxe4 18. Nxe6 fxe6 19. Be3 Bxe3 20. fxe3 Qxe5 21. Qf3 Ke7 {
+Vachier Lagrave,M (2703)-Ivanchuk,V (2764) Warsaw 2010}) 15... Qd5 16. Nxe6 ({
+Better is} 16. Re1 $1 $14) 16... Qxe6 $11 17. axb5 a5 $146 ({Predecessor:} 
+17... Nxb5 18. Ng5 Qg6 19. e6 O-O 20. exf7+ Kh8 21. Ra4 h6 {1/2-1/2 (33) Leko,
+P (2600)-Gyimesi,Z (2500) Ulcinj 1997}) 18. b4 {[#] Bb2 is the strong threat.}
+a4 19. Be3 {The position is equal.} Qxe5 20. Nc3 Ne6 21. Bxb6 (21. Qe1 {
+with more complications.} Bd4 22. Bxd4 Qxd4 23. Nxa4 O-O 24. Qc3) 21... Qxc3
+22. Bc5 Nxc5 23. bxc5 {[#] Black must now prevent Re1+.} O-O 24. Rxa4 Qxc5 25.
+Rxa8 Rxa8 {[%mdl 4096] Endgame KQR-KQR} 26. Qc1 Qxb5 27. Qxc7 Qb8 28. Qxb8+
+Rxb8 29. h3 h6 30. f3 f6 31. Kh1 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.16"]
+[Round "5"]
+[White "Nepomniachtchi, Ian"]
+[Black "Rapport, Richard"]
+[Result "1/2-1/2"]
+[ECO "C79"]
+[WhiteElo "2763"]
+[BlackElo "2731"]
+[Annotator "TA"]
+[PlyCount "75"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 22,75,47,43,54,58,50,50,50,50,50,48,48,53,39,40,62,71,90,50,55,62,64,24,
+38,30,38,16,25,0,0,0,16,14,19,0,0,0,7,6,27,28,22,29,28,0,33,0,0,0,0,0,0,0,0,0]
+} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. c3 Nxe4 7. d4 Bd7 8.
+Re1 Nf6 9. Bxc6 {C79: Ruy Lopez: Steinitz-type lines with 3...a6 4 Ba4 Nf6 5
+0-0 d6} Bxc6 10. dxe5 dxe5 11. Qxd8+ Kxd8 12. Nxe5 {LiveBook: 3 Games} Be8 13.
+Bg5 h6 14. Bxf6+ gxf6 15. Ng4 Be7 {[#]} 16. Nd2 $146 ({Predecessor:} 16. Na3
+Bd7 {0-1 (44) Friedel,J (2562)-Rapport,R (2715) Reykjavik 2018}) 16... Bd7 17.
+Ne3 Be6 18. Nb3 Kc8 19. Nd4 Bd7 20. Rad1 a5 $1 21. Nd5 Bd8 $1 22. Nb3 b6 23.
+Nd4 a4 24. c4 Ra5 25. f4 c6 26. Nc3 Re8 (26... f5 {is more complex.} 27. Rd3
+Bf6 28. Red1 Bxd4+ 29. Rxd4 Be6) 27. Rxe8 Bxe8 28. Kf2 Bd7 29. Rd3 Bc7 30. Kf3
+Rc5 31. b3 axb3 32. axb3 {Strongly threatening Ne4.} f5 33. Re3 Kd8 34. Nd1 b5
+{The position is equal.} 35. Rd3 bxc4 36. bxc4 Rxc4 37. Ne3 Ra4 38. Nxc6+ {
+Accuracy: White = 52%, Black = 56%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.16"]
+[Round "5"]
+[White "Radjabov, Teimour"]
+[Black "Duda, Jan-Krzysztof"]
+[Result "1/2-1/2"]
+[ECO "C24"]
+[WhiteElo "2757"]
+[BlackElo "2738"]
+[Annotator "TA"]
+[PlyCount "60"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,60,18,11,12,13,37,42,33,27,39,29,54,43,90,68,73,75,98,102,125,143,
+145,142,142,134,139,120,174,178,158,77,67,68,62,74,87,69,81,77,67,57,62,56,80,
+0,45,0,77]} 1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 d5 5. Bb3 Bb4+ 6. Bd2 {C24:
+Bishop's Opening: 2...Nf6} Bxd2+ 7. Qxd2 (7. Nbxd2 a5 8. a3 Nbd7 9. O-O a4 10.
+Ba2 O-O 11. Re1 Re8 12. d4 exd4 13. exd5 Rxe1+ 14. Qxe1 cxd5 15. Rb1 {0-1 (64)
+Aronian,L (2764)-Caruana,F (2816) Paris 2018}) 7... a5 8. a4 {LiveBook: 3 Games
+} ({Inferior is} 8. Nxe5 a4 $19) 8... O-O 9. exd5 Nxd5 $146 ({Predecessor:} 
+9... cxd5 10. Nxe5 Nc6 11. d4 Qb6 12. Nxc6 bxc6 13. O-O {1/2-1/2 (22) Waters,G
+(2365)-Miettinen,K (2356) ICCF email 2009}) 10. O-O f6 11. h3 Be6 12. d4 e4 13.
+Re1 Bxh3 14. Rxe4 Bf5 15. Re2 Kh8 {[#]} 16. Nc3 $1 b6 17. Rae1 Ra7 18. Nxd5
+cxd5 19. Qf4 Bg6 20. c3 Rd7 (20... Bf7 $16 {was necessary.}) 21. Nh4 $18 Bh5
+22. Re3 (22. g4 $142 Bf7 23. Bc2) 22... g5 $16 23. Qf5 Nc6 24. Nf3 Ne7 25. Qb1
+(25. Qh3 {is interesting.} Bg6 26. g4 Kg7 27. Nd2 h6 28. Qh2) 25... Ng6 26. Bc2
+Rg7 27. Bf5 Ne7 28. Bd3 Ng6 29. Bf5 Ne7 $1 30. Bd3 Ng6 $1 {Accuracy: White =
+72%, Black = 62%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Alkmaar"]
+[Date "2019.01.16"]
+[Round "5"]
+[White "Shankland, Samuel"]
+[Black "Ding, Liren"]
+[Result "0-1"]
+[ECO "C88"]
+[WhiteElo "2725"]
+[BlackElo "2813"]
+[Annotator "TA"]
+[PlyCount "66"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 27,66,0,0,-14,-16,-19,-8,-13,-6,-44,-50,-47,-41,-37,-41,-58,-57,-82,-85,
+-89,-85,-105,-82,-114,-113,-211,-117,-318,-314,-322,-322,-330,-333,-329,-295,
+-519,-517,-675,-667,-688,-688]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O
+Be7 6. Re1 b5 7. Bb3 O-O 8. h3 Bb7 9. d3 d6 10. c3 Na5 11. Bc2 c5 12. Nbd2 {
+[%cal Bb1d2,Bd2f1,Bf1e3][%mdl 32]} Re8 13. Nf1 h6 14. Ne3 Bf8 {LiveBook: 28
+Games} 15. b4 {C92: Closed Ruy Lopez: 9...Be6, Karpov and Flohr-Zaitsev
+Variations} (15. Nh2 d5 16. Nhg4 dxe4 17. Nxf6+ Qxf6 18. dxe4 Rad8 19. Qe2 Bc8
+20. a4 b4 21. Nd5 Qg6 22. Kh1 Bb7 23. cxb4 cxb4 {1/2-1/2 (36) McShane,L (2669)
+-Hebden,M (2423) Hull 2018}) 15... cxb4 16. cxb4 Nc6 17. a3 {The position is
+equal.} d5 $146 ({Predecessor:} 17... a5 18. bxa5 Nxa5 19. Rb1 Bc6 20. Nf5 Qc7
+21. N3h4 Bd7 22. Bd2 Kh7 {1/2-1/2 (47) Nezhmetdinov,R-Yudovich,M Baku 1964})
+18. Ng4 (18. Nxd5 {keeps more tension.} Nxd5 19. exd5 Qxd5 20. Bb3 Qd6 21. Bb2)
+18... Nxg4 19. hxg4 dxe4 20. dxe4 Qxd1 21. Rxd1 a5 $1 {[%cal Ra5b4]} 22. bxa5
+Nxa5 ({Reject} 22... Rxa5 23. Bb2 $11) 23. Rb1 Bc6 24. Nd2 Red8 25. Kf1 Nb7 26.
+Rb3 (26. f3 $17 {was worth a try.}) 26... Bd7 ({Better is} 26... Rac8 $19 {
+Threatens to win with ...b4!} 27. Rf3 b4) 27. f3 $2 (27. Nf3 $17) 27... Rac8
+$19 28. Bb1 {[#]} b4 $1 {[%cal Bb5b4,Bb4a3][%mdl 544]} 29. Rb2 (29. axb4 Ba4)
+29... Ba4 30. Re1 Rc7 31. Ba2 $2 (31. axb4 {was the only chance.} Rdc8 32. Bd3
+Rxc1 33. Rxc1 Rxc1+ 34. Kf2) 31... bxa3 {Black is clearly winning.} 32. Rb6 Bc5
+33. Rb1 Bc2 {Accuracy: White = 20%, Black = 76%.} 0-1
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.16"]
+[Round "5"]
+[White "Shankland, Samuel"]
+[Black "Ding, Liren"]
+[Result "0-1"]
+[ECO "C88"]
+[WhiteElo "2725"]
+[BlackElo "2813"]
+[Annotator "TA"]
+[PlyCount "66"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 27,66,0,8,-14,-12,-15,-8,-9,-14,-53,-53,-53,-28,-36,-33,-37,-44,-93,-83,
+-92,-87,-92,-97,-100,-110,-204,-117,-320,-319,-317,-317,-343,-342,-338,-295,
+-517,-517,-631,-637,-743,-739]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O
+Be7 6. Re1 b5 7. Bb3 O-O 8. h3 Bb7 9. d3 d6 10. c3 Na5 11. Bc2 c5 12. Nbd2 {
+[%cal Bb1d2,Bd2f1,Bf1e3][%mdl 32]} Re8 13. Nf1 h6 14. Ne3 Bf8 {LiveBook: 28
+Games} 15. b4 {C92: Closed Ruy Lopez: 9...Be6, Karpov and Flohr-Zaitsev
+Variations} (15. Nh2 d5 16. Nhg4 dxe4 17. Nxf6+ Qxf6 18. dxe4 Rad8 19. Qe2 Bc8
+20. a4 b4 21. Nd5 Qg6 22. Kh1 Bb7 23. cxb4 cxb4 {1/2-1/2 (36) McShane,L (2669)
+-Hebden,M (2423) Hull 2018}) 15... cxb4 16. cxb4 Nc6 17. a3 {The position is
+equal.} d5 $146 ({Predecessor:} 17... a5 18. bxa5 Nxa5 19. Rb1 Bc6 20. Nf5 Qc7
+21. N3h4 Bd7 22. Bd2 Kh7 {1/2-1/2 (47) Nezhmetdinov,R-Yudovich,M Baku 
+(Azerbaijan) 1964}) 18. Ng4 (18. Nxd5 {is interesting.} Nxd5 19. exd5 Qxd5 20.
+Bb3 Qd6 21. Bb2) 18... Nxg4 19. hxg4 dxe4 20. dxe4 Qxd1 21. Rxd1 a5 22. bxa5
+Nxa5 ({Of course not} 22... Rxa5 $6 23. Bb2 $11) 23. Rb1 Bc6 24. Nd2 Red8 25.
+Kf1 Nb7 26. Rb3 (26. Bb2 $17) 26... Bd7 (26... Rdc8 $19 {Strongly threatening .
+..b4!} 27. Bb2 {[#]} b4 $1 {[%mdl 512]} 28. axb4 Ba4) 27. f3 $2 (27. Nf3 $17)
+27... Rac8 $19 28. Bb1 {[#]} b4 $1 {[%cal Bb5b4,Bb4a3][%mdl 544]} 29. Rb2 (29.
+axb4 Ba4) 29... Ba4 30. Re1 Rc7 31. Ba2 $2 (31. axb4 Rdc8 32. Nb3 Bxb3 33. Rxb3
+Rxc1 34. Rxc1 Rxc1+ 35. Ke2) 31... bxa3 {Black is clearly winning.} 32. Rb6 Bc5
+33. Rb1 Bc2 {Accuracy: White = 22%, Black = 89%.} 0-1
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Alkmaar"]
+[Date "2019.01.16"]
+[Round "5"]
+[White "Fedoseev, Vladimir"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[WhiteElo "2724"]
+[BlackElo "2695"]
+[Annotator "TA"]
+[PlyCount "148"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,148,5,12,14,20,15,0,14,14,10,14,21,22,17,18,20,10,7,7,18,14,13,16,5,
+14,0,0,0,16,14,29,18,20,21,18,0,4,4,16,17,25,18,33,22,22,0,0,0,0,0,0,0,0,0,0,0,
+0,0,8,0,0,0,0,0,0,0,0,0,0,-1,-1,-78,-92,-84,-85,-165,-165,-165,-165,-198,-198,
+-198,-223,-207,0,-158,0,-198,-198,-199,-196,-262,-262,-236,-235,-262,-137,-123,
+0,-262,-262,-262,-260,-236,-20,-247,-71,-69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3
+d5 7. e3 {E36: Nimzo-Indian: Classical: 4...d5 5 a3} b6 8. cxd5 exd5 9. Bd3 Ba6
+{LiveBook: 3 Games} 10. Ne2 $146 ({Predecessor:} 10. Bxa6 Nxa6 11. Qd3 Qc8 12.
+Ne2 c5 13. b3 cxd4 14. exd4 Nc7 {1/2-1/2 (45) Nakamura,H (2802)-Anand,V (2804)
+Stavanger 2015}) 10... c5 11. b3 Ne4 12. Qc2 Bxd3 13. Qxd3 Nc6 14. Bb2 cxd4 15.
+Nxd4 Nc5 16. Qd1 Nxd4 17. Bxd4 Ne6 18. O-O Qh4 19. Bb2 Rad8 20. Rc1 Rd7 21. f4
+Qe7 22. b4 f6 (22... d4 $5) 23. Qb3 Qf7 24. Rfd1 Rfd8 25. h3 Qg6 26. a4 Qe4 27.
+a5 bxa5 28. bxa5 Kf7 29. Kh2 h5 30. Bd4 Re7 31. Rc3 Rdd7 32. a6 h4 33. Qb2 Rc7
+34. Qf2 Rxc3 35. Bxc3 Rc7 36. Be1 Rc2 37. Rd2 Rxd2 38. Bxd2 Qd3 39. Bb4 Qc4 40.
+Be1 Qxa6 41. Qxh4 {With the idea Qh5+.} Qe2 42. f5 Ng5 43. Qg3 Kg8 44. Bc3 (44.
+Ba5 $1 $11 {keeps the balance.}) 44... Qb5 $1 $17 45. Qc7 Ne4 $1 46. Bd4 (46.
+Be1 $17) 46... a5 $1 $19 47. Qe7 a4 $1 48. Bb2 Qb8+ (48... Qxb2 49. Qe8+ Kh7
+50. Qh5+ Kg8 51. Qe8+ Kh7 52. Qh5+ Kg8 53. Qe8+ $11) 49. Kg1 Qc8 (49... Qxb2
+50. Qe8+ Kh7 51. Qh5+ Kg8 52. Qe8+ Kh7 53. Qh5+ Kg8 54. Qe8+ $11) 50. Kh2 Qb8+
+(50... Qxf5 51. Qe8+ Kh7 52. Qxa4 $17) 51. Kg1 $1 Qc8 (51... Qxb2 52. Qe8+ Kh7
+53. Qh5+ Kg8 54. Qe8+ Kh7 55. Qh5+ Kg8 56. Qe8+ $11) 52. Kh2 $1 Kh7 (52... Qxf5
+53. Qe8+ Kh7 54. Qxa4 $15) 53. Qa7 Qf8 $1 {[%cal Rf8d6] And now ...Qd6+ would
+win.} ({Don't take} 53... Qxf5 54. Qxa4 Qg6 55. Bd4 $15) 54. Bd4 a3 {[%cal
+Ba4a3,Ba3a2][%mdl 32]} 55. Kg1 Qb4 {Strongly threatening ...Qe1+.} 56. Kh2 Qd6+
+(56... Qb3 $19 57. Qa8 a2) 57. Kg1 $17 Qb4 (57... Qf8 $1 $17 58. Qa4 Ng3) 58.
+Kh2 $19 Qb3 59. Qa8 {[#]} a2 $1 60. Qe8 {[#]} Qa3 $2 (60... Qb4 $1 $19 {
+White must now prevent ...Nd6.} 61. Qh5+ Kg8 62. Qe8+ Qf8 63. Qxf8+ Kxf8) 61.
+Ba1 $2 (61. Bb2 $1 $11) 61... Qd6+ $2 ({Worse is} 61... Qxe3 62. Qg6+ Kh8 63.
+Qe8+ Kh7 64. Qg6+ Kh8 65. Qe8+ Kh7 $11) ({Don't play} 61... Nd6 62. Qd7) (61...
+Qc5 $19 {...Qc7+ is the strong threat.} 62. Qh5+ Kg8 63. Qe8+ Qf8 64. Qxf8+
+Kxf8) 62. Kg1 $17 Qc5 (62... Ng3 $1 $15 63. Qg6+ Kg8 64. Qe8+ Qf8) 63. Qg6+ $11
+{The position is equal.} Kg8 64. Qe8+ Qf8 65. Qa4 Qc8 66. Qxa2 Qc1+ 67. Kh2
+Qc7+ 68. Kg1 Qc1+ {[%mdl 64] Double Attack} 69. Kh2 Nd2 70. Bb2 Qe1 {Threatens
+to win with ...Nf1+.} 71. Qxd5+ Kh7 {( -> ...Nf1+)} 72. Bc3 Nf1+ {[%mdl 64]
+Double Attack, Discovered Attack} 73. Kg1 Nd2+ 74. Kh2 Nf1+ {[%mdl 64] Double
+Attack. Accuracy: White = 68%, Black = 60%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.16"]
+[Round "5"]
+[White "Fedoseev, Vladimir"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[WhiteElo "2724"]
+[BlackElo "2695"]
+[Annotator "TA"]
+[PlyCount "148"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,148,14,8,9,16,16,12,18,0,0,4,6,12,12,10,10,16,9,7,7,18,10,17,11,17,1,
+14,10,16,15,17,14,15,14,16,0,0,0,26,29,14,9,27,8,20,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,-1,-1,-53,-64,-60,-77,-158,-157,-215,-209,-243,-238,-250,
+-240,-237,0,-181,0,-249,-256,-254,-252,-251,-250,-209,-200,-230,-158,-154,0,
+-264,-233,-223,-222,-224,-10,-222,-64,-50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5
+7. e3 {E36: Nimzo-Indian: Classical: 4...d5 5 a3} b6 8. cxd5 exd5 9. Bd3 Ba6 {
+LiveBook: 3 Games} 10. Ne2 $146 ({Predecessor:} 10. Bxa6 Nxa6 11. Qd3 Qc8 12.
+Ne2 c5 13. b3 cxd4 14. exd4 Nc7 {1/2-1/2 (45) Nakamura,H (2802)-Anand,V (2804)
+Stavanger 2015}) 10... c5 11. b3 Ne4 12. Qc2 $1 Bxd3 13. Qxd3 Nc6 14. Bb2 cxd4
+15. Nxd4 Nc5 16. Qd1 Nxd4 17. Bxd4 Ne6 18. O-O Qh4 19. Bb2 Rad8 20. Rc1 Rd7 21.
+f4 Qe7 22. b4 f6 23. Qb3 Qf7 24. Rfd1 Rfd8 25. h3 Qg6 26. a4 Qe4 27. a5 bxa5
+28. bxa5 Kf7 29. Kh2 h5 30. Bd4 Re7 31. Rc3 Rdd7 32. a6 h4 33. Qb2 Rc7 34. Qf2
+Rxc3 35. Bxc3 Rc7 36. Be1 Rc2 37. Rd2 Rxd2 38. Bxd2 Qd3 39. Bb4 Qc4 40. Be1
+Qxa6 41. Qxh4 {next Qh5+ is good for White.} Qe2 42. f5 Ng5 43. Qg3 Kg8 44. Bc3
+(44. Ba5 $1 $11) 44... Qb5 $1 $15 45. Qc7 Ne4 $1 46. Bd4 (46. Ba5 $142) 46...
+a5 $1 $17 47. Qe7 (47. Qb6 $17 Qxb6 48. Bxb6) 47... a4 $1 $19 48. Bb2 Qb8+ (
+48... Qxb2 49. Qe8+ Kh7 50. Qh5+ Kg8 51. Qe8+ Kh7 52. Qh5+ Kg8 53. Qe8+ $11)
+49. Kg1 Qc8 $1 (49... Qxb2 50. Qe8+ Kh7 51. Qh5+ Kg8 52. Qe8+ Kh7 53. Qh5+ Kg8
+54. Qe8+ $11) 50. Kh2 Qb8+ (50... Qxf5 51. Qe8+ Kh7 52. Qxa4 $15) 51. Kg1 $1
+Qc8 (51... Qxb2 52. Qe8+ Kh7 53. Qh5+ Kg8 54. Qe8+ Kh7 55. Qh5+ Kg8 56. Qe8+
+$11) (51... Nd6 $142 52. Qe6+ Kh7 53. Qxd5 Qxb2 54. Qxd6 a3) 52. Kh2 $1 Kh7 $1
+{Threatens to win with ...Qb8+.} (52... Qxf5 53. Qe8+ Kh7 54. Qxa4 $17) (52...
+Qb8+ 53. Kg1) 53. Qa7 Qf8 $1 ({Not} 53... Qxf5 54. Qxa4 Qg6 55. Bd4 $17) 54.
+Bd4 a3 {[%cal Ba4a3,Ba3a2][%mdl 32]} 55. Kg1 Qb4 {Hoping for ...Qe1+.} 56. Kh2
+Qd6+ 57. Kg1 Qb4 (57... Qf8 $1 $17 58. Qb7 Qd6) 58. Kh2 Qb3 59. Qa8 {[#]} a2 $1
+60. Qe8 {[#]} Qa3 $2 (60... Qb4 $1 $19 {Strongly threatening ...Nd6.} 61. Qh5+
+Kg8 62. Qe8+ Qf8 63. Qxf8+ Kxf8) 61. Ba1 $2 (61. Bb2 $1 $11) 61... Qd6+ $2 ({
+Weaker is} 61... Qxe3 62. Qg6+ Kh8 63. Qe8+ Kh7 64. Qg6+ Kh8 65. Qe8+ Kh7 $11)
+({But not} 61... Nd6 62. Qd7) ({Black should play} 61... Qc5 $19 62. Qg6+ Kg8
+63. Qe8+ Qf8 64. Qxf8+ Kxf8) 62. Kg1 $15 Qc5 (62... Ng3 $5 {[%cal Rg3f5]} 63.
+Qg6+ Kg8 64. Qe8+ Qf8 $17) 63. Qg6+ {The position is equal.} Kg8 64. Qe8+ Qf8
+65. Qa4 Qc8 66. Qxa2 Qc1+ 67. Kh2 Qc7+ 68. Kg1 Qc1+ {[%mdl 64] Double Attack}
+69. Kh2 Nd2 70. Bb2 Qe1 {White must now prevent ...Nf1+.} 71. Qxd5+ Kh7 {
+( -> ...Nf1+)} 72. Bc3 Nf1+ {[%mdl 64] Double Attack, Discovered Attack} 73.
+Kg1 Nd2+ 74. Kh2 Nf1+ {[%mdl 64] Double Attack. Accuracy: White = 61%, Black =
+60%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.16"]
+[Round "5"]
+[White "Van Foreest, Jorden"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "B34"]
+[WhiteElo "2612"]
+[BlackElo "2835"]
+[Annotator "TA"]
+[PlyCount "66"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 22,66,50,50,42,42,43,44,60,33,39,40,51,29,91,18,14,10,23,-12,-7,-15,-16,
+-27,0,-21,-8,-44,-45,-99,-95,-114,-96,-144,-141,-181,-198,-195,-160,-306,-297,
+-291,-300,-347,-326,-685,-677]} 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5.
+Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8. exd5 Ne7 9. c4 Ng6 10. Qa4 Bd7 11. Qb4 Qb8 {
+B33: Sicilian: Pelikan and Sveshnikov Variations} (11... Bf5 12. h4 a6 13. h5
+Nf4 14. Nc3 Be7 15. Be3 Nd3+ 16. Bxd3 Bxd3 17. h6 O-O 18. Rd1 a5 19. Qb5 {
+1-0 (45) Kramnik,V (2779)-Roganovic,M (2527) Batumi 2018}) 12. h4 {LiveBook: 6
+Games} h5 13. Be3 a6 {White is slightly better.} 14. Nc3 f5 15. O-O-O $146 ({
+Predecessor:} 15. g3 Be7 16. Be2 f4 17. gxf4 exf4 18. Bd4 {1-0 (51) Bhat,V 
+(2411)-Wang,P (2306) Dallas 2002}) 15... Be7 16. g3 O-O 17. Be2 e4 18. Bd4 (18.
+Bxh5 $16 Ne5 19. Be2) 18... Bf6 $11 19. Bxf6 Rxf6 20. Qb6 Ne5 21. Kb1 Be8 22.
+Rd2 Nd7 23. Qd4 Qc7 24. Nd1 Ne5 25. Ne3 ({White should try} 25. Rc2 $15) 25...
+f4 $36 {[%mdl 2048] Keeping White busy.} 26. gxf4 Rxf4 27. Rg1 {[#]} Bg6 $1 ({
+Resist} 27... Rxf2 28. Qxe4 Rf6 29. Rdd1 $15) 28. Ka1 Raf8 ({And not} 28...
+Rxh4 29. Ng2 $11) 29. c5 Rxf2 ({But not} 29... dxc5 30. Qc3 $17) 30. Qc3 (30.
+c6 $17) 30... Qxc5 $19 31. Qxc5 dxc5 32. d6 Kh7 33. d7 $2 {[#]} (33. Rc2) 33...
+Nf3 {Accuracy: White = 27%, Black = 73%.} 0-1
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.18"]
+[Round "6"]
+[White "Carlsen, Magnus"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1-0"]
+[ECO "D27"]
+[WhiteElo "2835"]
+[BlackElo "2817"]
+[Annotator "TA"]
+[PlyCount "101"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 34,101,8,0,24,1,0,0,6,8,24,23,20,24,28,16,21,21,23,13,15,12,55,65,43,14,
+17,12,7,8,10,12,4,0,0,8,8,0,0,-11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,400,389,598,
+570,701,701,701,701,1614,1493,29966,29965,29977,29979]} 1. Nf3 d5 2. d4 Nf6 3.
+c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. b3 b6 8. dxc5 Qxd1 9. Rxd1 Bxc5 10.
+Bb2 Nbd7 11. Nbd2 Bb7 12. Be2 O-O 13. Nc4 Rfd8 {D27: Queen's Gambit Accepted:
+Classical main line: 7 e4!? and 7 a4} (13... Bd5 14. Nfe5 b5 15. Nxd7 Nxd7 16.
+e4 Bxe4 17. Rxd7 bxc4 18. Rc1 Rfc8 19. Bxc4 a5 20. a4 Bc6 21. Rd3 {1/2-1/2 (30)
+Li,C (2720)-Wang,Y (2706) China 2017}) 14. Ne1 Bd5 15. Rac1 Rac8 16. Nd3 Be7
+17. Nce5 $146 ({Predecessor:} 17. Nf4 Ba8 18. Ne5 Nc5 19. Rxd8+ Rxd8 20. Bd4 {
+1-0 (65) Wang,R (2497)-Skripchenko,A (2423) Moscow 2006}) 17... Bb7 18. Nc4 {
+LiveBook: 5 Games} Bd5 19. Nd2 Bb7 20. Kf1 h6 21. Bf3 Nd5 22. Nc4 b5 23. Na5 {
+[%cal Bc4a5,Ba5b3,Bb3c5][%mdl 32]} Ba8 24. a3 g5 25. h3 f5 26. b4 Kf7 27. Nb3
+Bf6 28. Bxf6 Kxf6 29. Nbc5 N5b6 30. Be2 Nc4 31. a4 Ndb6 32. a5 Nd5 33. Nxa6
+Ndxe3+ 34. fxe3 Nxe3+ {[%mdl 64] Double Attack} 35. Kg1 {Hoping for Rxc8.} Nxd1
+36. Rxd1 Rc2 37. Bf3 Be4 38. Nac5 Bxd3 39. Rxd3 Rxd3 40. Nxd3 e5 $1 {[%cal
+Be6e5,Be5e4][%mdl 32] ...e4 is the strong threat.} 41. Bb7 e4 42. Nc5 {
+Threatens to win with a6.} Ke5 43. a6 Ra2 44. Bc6 h5 $2 {[%mdl 8192]} (44... e3
+$11 {and Black has nothing to worry.} 45. Kf1 Kd4 46. Bxb5 f4) 45. Bxb5 $18 {
+And now Ba4 would win.} g4 (45... e3 {is a better defense.} 46. Nb3 g4) 46.
+hxg4 hxg4 47. Bc4 $1 {[%cal Rc4a2]} Ra1+ {[#]} 48. Kh2 $1 f4 {[#]} 49. b5 $1 {
+[%cal Bb4b5,Bb5b6][%mdl 32]} f3 50. b6 Kf4 {[#]} 51. Nxe4 $1 {[%mdl 576]
+Promotion. Accuracy: White = 68%, Black = 51%.} 1-0
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.18"]
+[Round "6.2"]
+[White "Rapport, Richard"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "C24"]
+[WhiteElo "2731"]
+[BlackElo "2777"]
+[Annotator "TA"]
+[PlyCount "187"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+
+{[%evp 12,187,0,0,0,-16,0,-12,16,14,18,17,18,0,11,0,0,0,0,7,12,8,8,11,8,-12,14,
+20,22,-53,-45,-63,-75,-125,-123,-115,-118,-118,-67,-64,-62,-46,0,-31,-56,-31,0,
+-6,0,0,0,0,0,0,71,50,58,52,47,60,202,193,167,172,170,148,165,0,0,0,0,-2,-2,-7,
+-8,-227,-236,-170,-106,-311,-12,-12,-10,-10,0,-4,-4,-4,-4,-9,-9,-98,-9,-14,0,0,
+0,0,0,0,0,0,0,0,0,0,0,-13,-13,-15,0,0,0,-13,-16,-19,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,-6,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. Nc3 c6 5. Nf3 d6 6. h3
+O-O {C27: Vienna Game: 2...Nf6 3 Bc4 Nxe4} (6... Bb6 7. a3 h6 8. O-O Nbd7 9.
+Be3 O-O 10. Bxb6 axb6 11. Ne2 b5 12. Ba2 Re8 13. Ng3 Nf8 14. c3 {0-1 (28)
+Skliarov,V (2353)-Horton,A (2397) Katowice 2017}) 7. O-O {LiveBook: 5 Games}
+Re8 8. Ne2 Nbd7 9. Ng3 Nf8 10. c3 Bb6 $146 ({Predecessor:} 10... h6 11. b4 Bb6
+12. Qb3 d5 13. exd5 Nxd5 {0-1 (43) Pirs,M (2051)-Bacus,D (2272) Quebec 2014})
+11. Bb3 Be6 12. a4 d5 13. Bg5 h6 14. Bxf6 Qxf6 15. d4 Ng6 {[%cal Bf8g6,Bg6e5,
+Be5d7,Bd7c5,Bc5e4,Be4d2][%mdl 32]} 16. a5 Bc7 17. dxe5 Nxe5 18. Nd4 Rad8 19. f4
+Qg6 20. Ngf5 (20. Qe1 $11 Nd3 {[%mdl 64] Double Attack} 21. Qe3) 20... Nd7 ({
+And not} 20... Bxf5 21. exf5 Qg3 22. fxe5 $16) 21. a6 Nc5 22. axb7 Nxe4 23. Qg4
+Bxf5 24. Nxf5 Qxg4 (24... Qf6 $17 25. Ng3 Nxg3 26. Qxg3 Rb8) 25. hxg4 $15 Nd2
+26. Ba4 Bb6+ 27. Kh2 Nxf1+ 28. Rxf1 Re6 {[#]} 29. Bxc6 $1 {[%mdl 512]} g6 (
+29... Rxc6 30. Ne7+) 30. Nxh6+ Kg7 31. Bxd5 Ree8 $1 32. Bxf7 Re2 (32... Re7 $11
+{remains equal.}) 33. Bc4 Rxb2 34. Nf7 Rb8 35. Ng5 Bf2 (35... Rxb7 $14 36. Re1
+Ba5) 36. Bd5 $1 $18 a5 37. Ra1 Rh8+ 38. Nh3 g5 39. fxg5 $2 (39. f5 $1 $18)
+39... Bb6 $11 40. Re1 {White wants to mate with Re7+.} Bc7+ 41. Kg1 {Re7+ is
+the strong threat.} Bd6 $1 42. Ra1 Bg3 {With the idea ...a4.} 43. g6 $2 (43.
+Bc6 $1 $11) 43... a4 $1 $19 44. Kf1 {[#]} Re8 (44... Rd8 $1 $19 {[%cal Rd8d5]}
+45. c4 Re8) 45. Ng5 $2 {[#]} (45. b8=R $17 {might work better.} Rbxb8 46. Ng5)
+45... Re5 $2 (45... a3 $1 $19 {aiming for ...a2.} 46. Bf7 Rh8) 46. Ne4 $1 $11
+Rxd5 47. Nxg3 {[%mdl 4096] Endgame KRR-KRN} Rdd2 48. Nf5+ Kf6 49. g7 Kf7 {
+Threatens to win with ...a3.} 50. Re1 {Threatening mate with Re7+.} Rxb7 {
+White must now prevent ...a3.} 51. g5 {White threatens g6+! and mate.} Rd8 (
+51... Rb8 $17 {And now ...a3 would win.} 52. Re7+ Kg6 {[%mdl 64] Double Attack}
+) 52. Ra1 {The position is equal.} Ra7 53. Ra3 Kg6 54. g4 $1 Kxg5 55. c4 Rb8
+56. Ke2 Ra6 57. Kd2 {Hoping for Ne7.} Rg8 58. Kc3 Kxg4 59. Nd4 Rxg7 60. Kb4
+Rga7 61. Nb5 Ra8 62. Nc3 Rb8+ 63. Nb5 Rc8 (63... Kf5 {with more complications.}
+64. Rxa4 Rg6 65. Ra7 Ke5 66. Kc5 Rc8+) 64. Rxa4 Rxa4+ (64... Rg6 {feels hotter.
+} 65. c5 Kf4 66. Nd6 Rb8+ 67. Kc3+ Ke5) 65. Kxa4 Rxc4+ {KR-KN} 66. Kb3 Rc8 67.
+Kb4 Kf4 68. Nd6 Rc6 69. Nb5 Ke4 70. Nc3+ Kd4 71. Nb5+ Kd3 72. Kb3 Rc4 (72...
+Rc1 {keeps more tension.} 73. Kb4 Rb1+ 74. Kc5 Ra1 75. Nd6 Rh1) 73. Na3 Rc1 74.
+Kb4 Rh1 75. Nb5 Rh5 76. Nd6 Kd4 77. Nb5+ Kd5 78. Nc3+ Kc6 79. Kc4 Rh4+ 80. Kd3
+Kc5 81. Ne4+ Kd5 {( -> ...Rh3+)} 82. Nc3+ Ke5 83. Nb5 Rg4 84. Nc3 Rb4 85. Ne2
+Kd6 86. Nc3 Rh4 87. Ne4+ Ke5 88. Nc3 Rd4+ 89. Ke3 Rd8 90. Ne2 Rh8 91. Kd3 Rh3+
+92. Kc4 Rh2 93. Kd3 Rxe2 94. Kxe2 {Accuracy: White = 72%, Black = 53%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.18"]
+[Round "6.3"]
+[White "Anand, Viswanathan"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[ECO "B96"]
+[WhiteElo "2773"]
+[BlackElo "2763"]
+[Annotator "RC"]
+[PlyCount "44"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} d6 {[%emt 0:
+00:00]} 3. d4 {[%emt 0:00:00]} cxd4 {[%emt 0:00:00]} 4. Nxd4 {[%emt 0:00:00]}
+Nf6 {[%emt 0:00:04]} 5. Nc3 {[%emt 0:00:06]} a6 {[%emt 0:00:28]} 6. Bg5 {
+[%emt 0:00:27]} e6 {[%emt 0:00:07]} 7. f4 {[%emt 0:00:14]} Nbd7 {[%emt 0:00:06]
+} 8. Qe2 {[%emt 0:00:36]} h6 {[%emt 0:00:08]} 9. Bh4 {[%emt 0:00:53]} e5 {
+[%emt 0:00:04]} 10. fxe5 {[%emt 0:17:56]} dxe5 {[%emt 0:02:08]} 11. Nf5 {
+[%emt 0:00:15]} Nb6 {[%emt 0:00:05]} 12. Qf3 {[%emt 0:08:12]} Bxf5 {[%emt 0:02:
+36]} 13. Qxf5 {[%emt 0:00:36]} Be7 {[%emt 0:00:04]} 14. Bd3 {[%emt 0:06:11]}
+Nfd7 {[%emt 0:00:09]} 15. Bxe7 {[%emt 0:05:48]} Qxe7 {[%emt 0:00:25]} 16. O-O-O
+{[%emt 0:01:26]} O-O {[%emt 0:19:22]} 17. Kb1 {[%emt 0:09:49]} Nc5 {[%emt 0:01:
+47]} 18. Be2 {[%emt 0:05:55]} Rad8 {[%emt 0:00:56]} 19. Qf2 {[%emt 0:00:46]}
+Qc7 {[%emt 0:04:50]} 20. Qe3 {[%emt 0:05:21]} Qc6 {[%emt 0:01:39]} 21. Rhe1 {
+[%emt 0:02:20]} Rfe8 {[%emt 0:04:21]} 22. a3 {[%emt 0:02:15]} Kf8 {[%emt 0:16:
+27]} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.18"]
+[Round "6.4"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Giri, Anish"]
+[Result "0-1"]
+[ECO "C44"]
+[WhiteElo "2738"]
+[BlackElo "2783"]
+[Annotator "TA"]
+[PlyCount "88"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,88,0,6,12,10,-16,38,36,58,12,9,-7,-6,-138,-134,-146,-140,-137,-139,
+-120,-132,-134,-120,-175,-175,-236,-241,-231,-225,-250,-243,-214,-251,-257,
+-252,-240,-235,-408,-257,-259,-240,-279,-213,-196,-159,-179,-135,-143,-97,-144,
+-155,-202,-149,-123,0,-188,-188,-184,-187,-185,-187,-305,-277,-277,-272,-272,
+-272,-271,-271,-768,-714,-29985,-29986,-29986,-29987]} 1. e4 e5 2. Nf3 Nc6 3.
+g3 Nf6 4. d3 g6 5. Bg2 Bg7 6. c4 {C44: Ponziani Opening and Scotch Gambit} d6
+7. h3 O-O 8. Nc3 Nd7 {LiveBook: 4 Games} 9. Bg5 f6 10. Be3 f5 (10... Nc5 $11)
+11. exf5 $14 gxf5 12. Qd2 $146 ({Predecessor:} 12. Bg5 Nf6 {0-1 (52) Narciso
+Dublan,M (2530)-Berkes,F (2659) Rijeka 2010}) 12... Nc5 13. O-O Ne6 {...f4 is
+the strong threat.} 14. Nd5 (14. Ne2 $11 {remains equal.}) 14... f4 $1 $17 15.
+gxf4 Ncd4 $1 16. Bxd4 exd4 17. Qa5 b6 $36 {[%mdl 2048] Black is in control.}
+18. Qe1 c6 19. Ng5 (19. f5 $17 {keeps fighting.} Rxf5 20. Nb4) 19... Re8 $19
+20. Qd1 (20. Qd2 $142 Nxg5 21. fxg5 cxd5 22. f4) 20... Nxg5 21. fxg5 cxd5 ({Not
+} 21... Qxg5 22. Nc7 $14) 22. Bxd5+ Be6 23. Bxa8 Qxa8 24. Qh5 {[#]} Bf5 $1 25.
+Rad1 Re5 26. Rd2 $2 (26. b3) 26... Qd8 27. h4 Bh3 28. Qf3 Bxf1 29. Kxf1 h6 30.
+gxh6 Bxh6 31. Re2 Qe7 32. Qg4+ Kf7 33. Qf3+ Kg7 34. Qg4+ Kf7 (34... Kh7 $17 35.
+Qf5+ (35. Rxe5 dxe5 36. Qf5+ Kg7 $17) 35... Kg8 36. Rxe5 dxe5) 35. Qf3+ $1 ({
+Reject} 35. Rxe5 dxe5 36. Qh5+ Kg7 $17) 35... Qf6 36. Qb7+ Kg6 37. Rxe5 dxe5
+38. Ke2 (38. b4 $142) 38... Qf4 {White must now prevent ...Qd2+.} 39. Kf1 Kh5
+40. b4 Qc1+ ({And not} 40... Qxh4 41. Qf7+ Kg5 42. Qe7+ Kg4 43. Qe6+ Kg5 44.
+Qe7+ Kg4 45. Qe6+ Kf4 46. Qf7+ {[%mdl 64] Double Attack} Kg4 47. Qe6+ $11) 41.
+Kg2 Kxh4 42. Qxa7 $2 {[#]} (42. Qf3) 42... Qg5+ $1 43. Kf1 Kh3 44. Qh7 Qh5 {
+Accuracy: White = 56%, Black = 70%.} 0-1
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.18"]
+[Round "6.5"]
+[White "Ding, Liren"]
+[Black "Radjabov, Teimour"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2813"]
+[BlackElo "2757"]
+[Annotator "TA"]
+[PlyCount "149"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 26,149,15,10,18,21,26,18,26,14,16,10,20,13,16,16,19,24,21,9,18,10,16,17,
+16,17,16,3,2,6,8,0,0,0,0,0,0,0,0,0,9,5,9,4,16,4,16,18,12,15,25,10,9,12,12,12,9,
+12,12,15,11,8,8,8,13,5,5,6,5,5,4,8,8,0,8,8,8,8,8,8,8,8,8,8,8,0,0,0,0,0,8,8,8,0,
+0,0,8,8,8,8,8,0,8,8,8,8,8,8,8,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. Nf3 d5 2.
+g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d4 O-O 6. c4 dxc4 7. Qc2 a6 8. Qxc4 b5 9. Qc2
+Bb7 10. Bd2 Be4 11. Qc1 Bb7 12. Rd1 Qc8 13. Ba5 {E05: Open Catalan: 5 Nf3 Be7}
+(13. Bg5 Nbd7 14. a4 c5 15. Na3 bxa4 16. Nc4 cxd4 17. Na5 Qxc1 18. Rdxc1 Bxf3
+19. Bxf3 Rac8 20. Nc6 Bd6 21. Rxa4 {1/2-1/2 (44) Le,Q (2687)-Andreikin,D (2687)
+Havana 2011}) 13... c5 14. dxc5 {LiveBook: 4 Games} Bxc5 15. Nbd2 Nbd7 16. Nb3
+$146 ({Predecessor:} 16. b3 Bd5 17. Bc3 Qb7 18. Qb2 Rfc8 19. Rac1 Rc7 {1-0 (58)
+Bhakti,K (2294)-Madhurima,S (1719) Puri 2010}) 16... Ba7 17. Qf4 Nb6 18. Bxb6
+Bxb6 19. Rac1 Qe8 20. Ne5 Bxg2 21. Kxg2 Rd8 22. Rxd8 Qxd8 23. Qf3 Qd6 24. Nd3
+Nd5 25. Nbc5 a5 26. Ne4 Qb8 27. h4 h6 28. b3 b4 29. Rc4 Rd8 30. g4 {[%cal
+Bg3g4,Bg4g5][%mdl 32]} Ne7 31. g5 Ng6 32. Qg3 Qxg3+ 33. fxg3 Ne7 34. g4 hxg5
+35. Nxg5 Nd5 36. Kf3 Be3 37. Ne4 g6 38. Nf6+ Nxf6 {The position is equal.} 39.
+Kxe3 $11 {[%mdl 4096] Endgame KRN-KRN} Nd5+ 40. Kf3 Kg7 41. g5 Rh8 42. e3 Nb6
+43. Rd4 Nd5 44. Ne5 f6 45. Nc4 fxg5 46. hxg5 Rf8+ 47. Kg4 Rf2 48. e4 Nc3 49.
+Rd7+ Rf7 50. Rxf7+ Kxf7 51. Nxa5 Nxa2 {KN-KN} 52. Kf4 {aiming for Ke5.} Nc1 53.
+Ke3 e5 54. Kd2 $1 {[%cal Rd2c1]} Na2 55. Kd3 Ke6 56. Nb7 Nc3 57. Nd8+ Kd6 58.
+Nf7+ Ke6 59. Nd8+ Kd6 60. Nf7+ Ke6 61. Nh8 Nd1 62. Ke2 Nc3+ 63. Kd3 Nd1 64.
+Nxg6 Nf2+ $1 65. Ke3 Nh3 66. Nf8+ Ke7 $1 {[%cal Re7f8]} 67. Nh7 Kf7 68. Kf3 Kg6
+69. Nf8+ Kf7 70. Nd7 {[#] Strongly threatening Kg4.} (70. Kg4 {looks sharper.}
+Nf2+ 71. Kf3 Nh3) 70... Nxg5+ 71. Ke3 Ke6 72. Nb6 Kd6 73. Nc4+ Ke6 74. Nb2 Kd6
+75. Nc4+ {Accuracy: White = 68%, Black = 87%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.18"]
+[Round "6.6"]
+[White "Vidit, Santosh Gujrathi"]
+[Black "Shankland, Samuel"]
+[Result "1/2-1/2"]
+[ECO "D71"]
+[WhiteElo "2695"]
+[BlackElo "2725"]
+[Annotator "TA"]
+[PlyCount "36"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,36,4,22,15,25,19,20,17,22,9,6,13,19,16,22,21,10,6,10,0,0,0,12]} 1. d4
+Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. Qa4 Bg7 6. Nf3 O-O 7. O-O Nbd7 8. cxd5 {
+D78: Fianchetto Grünfeld: 6 0-0 c6} Nb6 {LiveBook: 21 Games} 9. Qd1 cxd5 10. b3
+{White has an edge.} Ne4 $146 {The position is equal.} ({Predecessor:} 10...
+Bf5 11. Bb2 Rc8 {1-0 (38) Zubov,A (2614)-Vedmediuc,S (2459) Arad 2017}) 11. Bb2
+Bf5 12. Nc3 Rc8 13. Rc1 Qd7 14. e3 Bg4 15. Qd3 Bf5 {[#] aiming for ...Nxc3.}
+16. Qe2 Bg4 17. Qd3 Bf5 {And now ...Nxc3 would win.} 18. Qe2 Bg4 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.18"]
+[Round "6.7"]
+[White "Van Foreest, Jorden"]
+[Black "Fedoseev, Vladimir"]
+[Result "1-0"]
+[ECO "B09"]
+[WhiteElo "2612"]
+[BlackElo "2724"]
+[Annotator "TA"]
+[PlyCount "91"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,91,39,30,36,30,32,22,50,16,29,22,33,-18,-19,-32,74,73,63,81,79,84,51,
+60,56,28,50,0,9,0,0,0,0,0,0,-20,-26,-212,-212,-212,-212,-204,-205,-211,-221,
+-214,-122,-116,-93,-85,0,0,0,0,81,81,90,79,79,88,177,179,312,340,330,329,310,
+294,506,504,452,151,154,155,177,160,160,196,190,90,762,762]} 1. e4 d6 2. d4 Nf6
+3. Nc3 g6 4. f4 Bg7 5. a3 (5. Nf3 c5 6. Bb5+ Bd7 7. e5 Ng4 8. e6 Bxb5 9. exf7+
+Kf8 10. Nxb5 Qa5+ 11. Nc3 cxd4 12. Nxd4 Kxf7 13. Qxg4 Bxd4 14. Bd2 Qf5 15.
+Qxf5+ gxf5 16. Nb5 Bb6 17. O-O-O Nd7 {1/2-1/2 (38) Nakamura,H (2769)-Carlsen,M
+(2843) Stavanger 2018}) 5... Nc6 6. Nf3 {B09: Pirc Defence: Austrian Attack}
+O-O 7. Be2 {LiveBook: 3 Games} d5 8. e5 {White is slightly better.} Ne4 9. Bd3
+f5 $146 ({Predecessor:} 9... Bf5 10. Be3 Nxc3 11. bxc3 Bxd3 12. cxd3 f6 13. O-O
+Bh6 14. Bc1 fxe5 15. fxe5 Bxc1 16. Qxc1 e6 17. Qh6 Qe7 18. Ng5 Rae8 19. Rf6 {
+1-0 (19) Kilpela,P (2142)-Liitiainen,E (2180) Helsinki 2002}) 10. O-O e6 11.
+Be3 b6 12. Ng5 (12. Qe1 $14) 12... Nxg5 $11 13. fxg5 f4 (13... Nxe5 $15 {
+keeps the upper hand.} 14. dxe5 d4) 14. Rxf4 $16 Rxf4 15. Bxf4 Nxd4 16. Bxg6 $1
+{[%mdl 64] Discovered Attack} hxg6 17. Qxd4 Ba6 18. Qa4 Bb7 {Black wants to
+play ...d4.} 19. Bg3 Qxg5 20. Qd7 {[%mdl 64] Double Attack} Qg4 21. Nb5 Rf8 22.
+Nxc7 Bc8 23. Qe7 Qf5 24. Qd6 $2 (24. h4 $11 {and White stays safe.}) 24... Bh6
+$1 $19 {[%cal Rh6e3]} 25. h3 Be3+ $1 26. Kh2 Bc5 27. Qc6 Qxc2 28. Qb5 Be7 (
+28... Be3 $19 29. Nxd5 exd5 30. Qxd5+ Kh7) 29. Na6 $17 d4 30. Nb4 Bxb4 (30...
+Qxb2 $17 31. Qd3 Kg7) 31. Qxb4 $11 Bb7 {[%csl Gb7][%cal Rc2g2]} 32. Rg1 d3 (
+32... Qe4 $11) 33. Qg4 $16 {[%mdl 64] Double Attack} d2 34. Qxe6+ Kg7 35. Qd7+
+$1 Rf7 (35... Kg8 $16 36. e6 (36. Qxb7 d1=Q $14) 36... Bc6) 36. Qd4 $18 {
+Threatens to win with e6+.} Kg8 (36... d1=R $142 37. Qxd1 Qxd1 38. Rxd1 Bc6)
+37. e6 {[%cal Be5e6,Be6e7][%mdl 32]} Rf8 38. e7 {Threatening mate with Qh8+!}
+Re8 {[#]} 39. Rd1 $1 {[%cal Rd1d2][%mdl 512]} Qc6 $2 (39... Qxd1 $2 {perishes.}
+40. Qc4+ Bd5 41. Qxd5+ Kg7 42. Be5+ Kh6 43. Qf7 $18) (39... Qe4 {was called
+for.} 40. Qxe4 (40. Qxd2 Qxe7 41. Re1 Qf7 $16) (40. Rxd2 Qxd4 41. Rxd4 Rxe7 $16
+) 40... Bxe4) 40. Rxd2 Rxe7 41. Qg4 $2 (41. Bd6 $18 {and the rest is easy.} Re8
+42. Qg4) 41... Qe4 $16 42. Qg5 Rd7 {[#]} 43. Rf2 $1 {Strongly threatening Qf6.}
+Rf7 44. Qd8+ Kg7 {( -> ...Rxf2)} 45. Bf4 (45. Rd2 $18 Qe3 46. b4 (46. Rd7 Qe4
+$16)) 45... Qd5 $2 {[%mdl 8192]} (45... Kh7 $16 46. Qg5 Bc6 47. Qh4+ Kg8) 46.
+Qb8 {Accuracy: White = 49%, Black = 49%.} 1-0
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.19"]
+[Round "7"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Rapport, Richard"]
+[Result "1/2-1/2"]
+[ECO "E16"]
+[WhiteElo "2817"]
+[BlackElo "2731"]
+[Annotator "TA"]
+[PlyCount "79"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,79,13,15,28,28,29,29,14,16,25,29,28,22,56,58,56,62,62,50,55,41,41,29,
+29,18,31,33,34,34,37,37,23,27,23,13,43,35,28,37,37,53,50,50,51,64,54,84,99,20,
+37,7,9,16,50,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Bd2 Qe7
+5. g3 Nc6 6. Bg2 Bxd2+ 7. Qxd2 Ne4 8. Qc2 Qb4+ 9. Kf1 f5 {E11: Bogo-Indian} (
+9... d5 10. e3 Qe7 11. Nbd2 Nf6 12. h3 O-O 13. Kg1 Rd8 14. Qc3 Ne4 15. Nxe4
+dxe4 16. Nd2 f5 17. Kh2 {1/2-1/2 (114) Inarkiev,E (2660)-Shchekachev,A (2531)
+Berlin 2015}) 10. a3 Qe7 11. b4 {[%cal Bb2b4,Bb4b5][%mdl 32]} O-O {White has
+an edge.} 12. Nc3 Nxc3 13. Qxc3 d6 14. e3 e5 $146 ({Predecessor:} 14... Nd8 15.
+Ke2 Nf7 16. Rhd1 e5 17. Kf1 {1/2-1/2 (44) Weber,K (2364)-Kurpnieks,V (2173)
+ICCF email 2015}) 15. b5 exd4 16. Nxd4 Ne5 {[%cal Bc6e5,Be5d7,Bd7c5,Bc5e4]
+[%mdl 32]} 17. h3 Kh8 18. Kg1 Nd7 19. Kh2 Nc5 20. Rhe1 Be6 21. a4 a5 22. Nb3
+Ne4 23. Qc2 Qf7 24. Rac1 Qg6 25. Nd2 {[%cal Rd2e4]} Nxf2 26. Rf1 {[#]} Ne4 $1 {
+[%mdl 512]} 27. Nxe4 fxe4 28. Bxe4 Qh6 29. h4 Rab8 30. Bxb7 $1 Rxf1 31. Rxf1
+Qxe3 32. Bg2 (32. Rf3 $16 Qe5 {[#]} 33. Bd5 $1 {[%mdl 512]}) 32... Bg8 $1 $11
+33. Rf4 {Re4 is the strong threat.} Re8 34. Bc6 Re6 35. Rf8 Rf6 {The position
+is equal.} 36. Rxf6 gxf6 37. Qf5 {[%cal Rf5f6]} Qe6 38. Qf2 Qe5 39. Qa7 d5 40.
+Bxd5 {Accuracy: White = 61%, Black = 74%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.19"]
+[Round "7"]
+[White "Giri, Anish"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[WhiteElo "2783"]
+[BlackElo "2813"]
+[Annotator "TA"]
+[PlyCount "58"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 28,58,18,15,0,6,13,0,20,24,18,14,18,18,25,16,14,-4,-4,-4,0,-4,0,-4,-4,
+-4,-4,-4,-4,-4,-4,-6,-6]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6.
+Bg2 O-O 7. O-O c6 8. Qc2 Nbd7 9. Bf4 b6 10. Rd1 Ba6 {E08: Closed Catalan: Main
+Line: 7 Qc2} (10... Nh5 11. Bd2 Bb7 12. Ne5 Rc8 13. Nc3 Nhf6 14. Bf4 Nh5 15.
+Bd2 a6 16. e4 dxc4 17. Nxc4 b5 18. Ne3 c5 19. d5 c4 20. a4 Qb6 21. axb5 axb5
+22. Ne2 {1/2-1/2 (54) Cheparinov,I (2709)-Karjakin,S (2753) St Petersburg 2018}
+) 11. cxd5 cxd5 12. Ne5 Nxe5 13. dxe5 Ng4 14. Bf3 f5 15. exf6 {LiveBook: 4
+Games} Nxf6 16. Qa4 Bb7 17. Nd2 {[%cal Bb1d2,Bd2c4,Bc4e5,Be5g4,Bg4f6][%mdl 32]}
+Qe8 (17... Bd6 {is more complex.} 18. Bxd6 Qxd6 19. Nc4 Qc7 20. Ne3 Rac8) 18.
+Qxe8 Rfxe8 {[#]} 19. Nc4 $146 Ba6 20. Ne5 Rac8 21. Rdc1 Bd6 {The position is
+equal.} 22. a3 g5 23. Ng4 Bxf4 24. Rxc8 Rxc8 25. Nxf6+ Kf7 26. Nxd5 $1 {
+[#] Strongly threatening Nb4.} Rc1+ 27. Rxc1 Bxc1 28. Nb4 Bc4 29. Nd3 Bxd3 $1
+1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.19"]
+[Round "7"]
+[White "Kramnik, Vladimir"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "2777"]
+[BlackElo "2773"]
+[Annotator "TA"]
+[PlyCount "114"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,114,6,18,16,12,18,18,0,4,0,8,0,-9,-10,-6,-12,0,-21,0,-112,-112,-128,
+-119,-237,-125,-112,-83,-121,-70,-120,4,21,13,0,0,0,2,6,10,0,0,0,0,0,0,-21,-16,
+-18,0,-24,-18,-49,-34,-50,-5,-16,-22,-7,-5,0,0,0,27,-66,-57,-65,-45,-70,-36,
+-127,-39,-70,-66,-56,-63,-177,-144,-169,-158,-141,-153,-142,-149,-146,-152,
+-204,-122,-237,-215,-320,-343,-319,-333,-452,-454,-500,-425,-500,-489,-683,
+-683,-910,-859,-1200,-1058,-2191,-1995]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3
+Nf6 5. d3 a6 6. Nd5 {C50: Hungarian Defence and Giuoco Pianissimo} h6 (6...
+Nxd5 7. Bxd5 d6 8. c3 O-O 9. b4 Ba7 10. a4 h6 11. Be3 Ne7 12. Bb3 Ng6 13. O-O
+Kh8 14. Bxa7 Rxa7 {1/2-1/2 (56) Karjakin,S (2782)-Aronian,L (2764) Leuven 2018}
+) 7. c3 d6 8. h3 {The position is equal.} Ba7 9. a4 $146 ({Predecessor:} 9. Be3
+Bb8 10. Nxf6+ Qxf6 11. d4 exd4 12. Nxd4 Bd7 13. Bd5 Ba7 14. Qd2 Bxd4 15. cxd4 {
+1-0 (22) Brath,Z (1480)-Podjavorinsky,P (1694) Slovakia 2015}) 9... Be6 10. a5
+Bxd5 11. exd5 Ne7 12. d4 exd4 13. Nxd4 O-O 14. g4 (14. O-O $11 {keeps the
+balance.}) 14... Nexd5 $17 15. Kf1 Qd7 16. h4 (16. Qd3 $17) 16... Bxd4 (16...
+Rae8 $19 17. g5 Bxd4 18. Bxd5 (18. gxf6 $2 Nxf6 19. Qxd4 Re4 $19) 18... Nxd5
+19. Qxd4 Qc6 20. gxh6 Ne3+ $1 {[%mdl 576] Discovered Attack} 21. Bxe3 Qxh1+ 22.
+Ke2 Qg2 23. hxg7 Qxg7 24. Qxg7+ Kxg7 25. Rg1+ Kh7) 17. Qxd4 Ne7 18. Be2 Qc6 (
+18... Nc6 $17 19. Qd1 d5) 19. Rh3 Qd5 (19... d5 $17 20. g5 Qe6) 20. Qxd5 $11
+Nfxd5 21. Bf3 c6 22. Ra4 b5 23. axb6 Nxb6 24. Re4 Rfe8 25. g5 hxg5 $1 26. Bxg5
+f6 27. Bc1 d5 28. Rg4 Nc4 29. Be2 Ne5 30. Rf4 Kf7 31. h5 Rh8 32. Ra4 a5 33. b3
+Rab8 34. Bd1 Rb5 35. Bc2 c5 36. Rah4 (36. c4 $11 dxc4 37. bxc4) 36... c4 $36 {
+[%mdl 2048] Black fights for an advantage.} 37. bxc4 Nxc4 38. Kg2 Rc5 39. Rg3 {
+[#]} ({Better is} 39. Rh1 $15) 39... Rcc8 (39... a4 $1 $17 {[%mdl 512]} 40. Rh1
+(40. Rhg4 $2 a3 $19) (40. Bxa4 Nf5) 40... Ra5) 40. Rhg4 Rcg8 41. Rh3 Ra8 42.
+Rhg3 (42. Ba4 $15) 42... Rxh5 {Threatens to win with ...a4.} 43. Rxg7+ Ke6 $1
+44. Ba4 Rah8 {aiming for ...Ne5.} 45. Bf4 Rh2+ 46. Kf1 Rh1+ 47. Ke2 (47. Rg1
+$17 {was worth a try.}) 47... Ra1 (47... Rb1 $19 {Strongly threatening ...Rhh1.
+} 48. Rg1 Rb2+ 49. Kf1 Ne5 50. Bxe5 fxe5) 48. Bb5 (48. Bb3 $17 {is the only
+way for White.}) 48... Ra2+ 49. Kf1 (49. Kf3 $142) 49... Rh1+ $19 50. Kg2 {[#]}
+Raa1 $1 51. Bxc4 {[#] And now Re3+ would win.} Nf5 $1 {[%cal Rf5h4] Black is
+clearly winning.} ({Inferior is} 51... dxc4 52. Re3+ Kf5 53. Bh2 $11) 52. Bxd5+
+Kxd5 {[%cal Rf5h4]} 53. Kf3 Nxg3 54. fxg3 a4 {[%cal Ba5a4,Ba4a3,Ba3a2][%mdl 32]
+} 55. Kg4 a3 56. Ra7 a2 57. Kf5 Rh2 {Accuracy: White = 37%, Black = 67%.} 0-1
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.19"]
+[Round "7"]
+[White "Nepomniachtchi, Ian"]
+[Black "Duda, Jan-Krzysztof"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2763"]
+[BlackElo "2738"]
+[Annotator "TA RC"]
+[PlyCount "129"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,129,15,16,10,16,23,9,14,24,9,33,18,25,21,23,17,26,34,33,23,31,0,0,0,
+0,2,27,15,18,22,25,0,0,0,13,0,10,11,23,11,11,5,12,12,19,22,10,9,10,9,45,10,45,
+45,45,45,53,11,72,72,72,68,81,68,68,16,22,0,68,74,81,68,80,57,90,90,90,84,90,
+90,33,39,125,125,135,49,95,90,98,84,98,98,95,83,90,87,96,90,102,31,52,0,87,102,
+90,88,102,89,80,0,50,0,0,0]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4
+d5 6. Bd3 Bf5 7. O-O Be7 8. Re1 O-O 9. Nbd2 {C42: Petroff Defence: 3 Nxe5 and
+unusual White 3rd moves} Nd6 {LiveBook: 28 Games} 10. Nb3 (10. Bxf5 Nxf5 11. c3
+c6 12. Qb3 Nd6 13. Nf1 Nd7 14. Bf4 Nb6 15. Re2 f6 16. Rae1 Rf7 {1/2-1/2 (25)
+Anand,V (2771)-Duda,J (2739) Batumi 2018}) 10... c6 $146 ({Predecessor:} 10...
+Bg4 11. h3 Bh5 12. Re5 f5 13. Nc5 Ne4 14. Ne6 Qd7 15. Nxf8 Kxf8 16. c4 c6 17.
+cxd5 cxd5 {1-0 (48) Gomes,E-Lopes,R (1735) Portugal 2003}) 11. Bf4 {Threatens
+to win with Bxd6.} Bxd3 12. Qxd3 Ne4 13. Re2 Na6 14. Rae1 Nc7 15. Bxc7 Qxc7 16.
+Nbd2 Bb4 17. c3 Nxd2 18. Rxd2 Bd6 19. Ng5 {[%csl Gg5][%cal Rd3h7]} g6 $1 ({
+But not} 19... Bxh2+ $2 20. Kh1 $18) 20. Qh3 {[%csl Gg5][%cal Rh3h7]} h5 {
+aiming for ...Bf4.} 21. Rde2 Qc8 22. Qe3 Qf5 {And now ...Bf4 would win.} 23. g3
+Kg7 24. h4 Rad8 25. Kg2 a6 26. a4 Rd7 27. Qd2 Qg4 28. Qc2 Rdd8 29. a5 Qd7 30.
+Qb3 Qc7 31. Re6 Qd7 32. R6e3 Rb8 33. Nf3 Qc7 34. Qa2 Rbd8 35. b4 Qc8 36. Qe2
+Qg4 37. Qd3 Qf5 (37... Qc8 $11) 38. Qxf5 $16 gxf5 39. Ng5 Kg6 40. Kf3 Rg8 41.
+R3e2 ({White should play} 41. Nh3 $1 $14) 41... Kf6 $11 42. Re3 Rh8 ({Black
+should try} 42... Kg6 $11) 43. Kg2 Rhg8 44. Kf1 Rh8 45. Nf3 f4 46. gxf4 Kf5 47.
+Ne5 $1 {[%cal Re5f7]} Rh7 {[#]} 48. Rg3 $1 f6 49. Nd3 Rf8 (49... Rdd7 $1 $14)
+50. Ree3 $16 Rff7 {[#]} 51. Kg2 (51. Ne1 $1 $16) 51... Re7 52. Rxe7 Rxe7 {
+[%mdl 4096] Endgame KRB-KRN} 53. Kf3 Rf7 54. Rg8 Rh7 55. Rc8 Bc7 56. Re8 Bd6
+57. Ra8 Bc7 58. Nc5 (58. Rf8 $16) 58... Bd6 $1 $14 59. Nd3 Bc7 $1 60. Rf8 Bd6
+61. Rg8 Bc7 62. Ra8 Bd6 63. Rg8 Bc7 $1 64. Rg1 Re7 65. Rg8 {Precision: White =
+48%, Black = 44%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.19"]
+[Round "7"]
+[White "Radjabov, Teimour"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "1-0"]
+[ECO "D38"]
+[WhiteElo "2757"]
+[BlackElo "2695"]
+[Annotator "TA"]
+[PlyCount "71"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,71,20,20,0,0,0,0,-43,0,0,0,0,86,22,84,85,109,86,80,108,762,762,762,
+762,754,736,748,727,726,675,762,259,762,762,762,762,705,755,755,751,739,715,
+692,628,613,572,29973,29974,29974,29974,6307,5704,29978,29962]} 1. d4 {Ramirez
+Alvarez,Alejandro} Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Qa4+ Nc6 6. e3 O-O 7.
+Qc2 {D38: Queen's Gambit Declined: Ragozin Defence (4 Nf3 Bb4)} Re8 8. Bd2 Bd6
+9. h3 a6 10. a3 Bd7 {LiveBook: 5 Games} 11. Be2 dxc4 12. Bxc4 h6 13. g4 $146 ({
+Predecessor:} 13. O-O e5 14. Rae1 Qe7 {1/2-1/2 (53) Aronian,L (2793)-Giri,A 
+(2771) Stavanger 2017 CBM 179 [Ramirez Alvarez,Alejandro]}) 13... e5 (13... b5
+$5 {[%cal Rb5c4]} 14. Ba2 b4 $11) 14. g5 {And now gxh6 would win.} b5 15. Ba2 {
+Hoping for gxh6.} exd4 (15... Nxd4 $11 16. exd4 exd4+ 17. Ne2 Qe7 18. Nfxd4
+hxg5) 16. gxh6 (16. Rg1 $1 $16) 16... dxc3 (16... Bf4 $1 $11 {keeps the
+balance.}) 17. Bxc3 $16 Be6 {...Bxa2 is the strong threat.} ({But not} 17...
+Ne5 $2 18. Nxe5 Bxe5 19. O-O-O $18 (19. Qg6 Nd5 $15)) 18. Bxe6 Rxe6 {[#]} 19.
+Rg1 $1 $40 {[%mdl 128] White wants a kill.} Ne8 $2 {[%mdl 8192]} (19... Nh5 $16
+) 20. Bxg7 $1 $18 Nxg7 21. Rxg7+ Kf8 22. Qh7 {Intending Qg8+ and mate.} Qf6 23.
+Ng5 Rxe3+ {[#]} 24. Kf1 $1 ({Weaker is} 24. fxe3 Bg3+ 25. Kd1 Qf1+ 26. Kc2 Qe2+
+27. Kc1 (27. Kb1 Qd1+ 28. Ka2 Nb4+ 29. axb4 Qa4+ 30. Kb1 Qd1+ 31. Ka2 Qa4+ 32.
+Kb1 Qd1+ 33. Ka2 $11) 27... Qf1+ 28. Kc2 Qe2+ 29. Kc1 (29. Kb1 Qd1+ 30. Ka2
+Nb4+ 31. axb4 Qa4+ 32. Kb1 Qd1+ 33. Ka2 Qa4+ 34. Kb1 Qd1+ 35. Ka2 $11) 29...
+Qf1+ 30. Kc2 $11) 24... Nd8 25. Qg8+ Ke7 26. h7 Bg3 {[#]} 27. Ne4 $1 {[%cal
+Re4f6][%mdl 512]} Rxe4 28. Rxg3 Rh4 29. Rd1 {Threatens to win with Re3+.} Rxh7
+30. Re3+ Ne6 31. Qxa8 {[%csl Gd1][%cal Ra8d8]} Rh8 32. Qc6 Kf8 {[#]} 33. Rxe6
+$1 {[%mdl 512]} Qxe6 34. Rd8+ Kg7 35. Qc3+ f6 36. Qxc7+ {Precision: White =
+74%, Black = 52%.} 1-0
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.19"]
+[Round "7"]
+[White "Shankland, Samuel"]
+[Black "Van Foreest, Jorden"]
+[Result "1-0"]
+[ECO "A20"]
+[WhiteElo "2725"]
+[BlackElo "2612"]
+[Annotator "TA"]
+[PlyCount "103"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,103,0,0,9,8,0,0,13,4,12,0,0,0,-10,0,0,-5,-12,-50,0,0,22,0,0,0,0,4,2,
+0,0,2,0,0,41,0,0,0,16,7,20,0,6,0,0,0,0,0,91,86,100,102,95,102,106,93,83,83,89,
+89,177,112,260,249,197,193,177,160,512,512,559,554,529,497,455,269,1336,1138,
+2706,2541,2424,2246,2153,2053,1331,1075,821,710,29976,29977,29973,29975,29980,
+29980]} 1. c4 e5 2. d3 Nf6 3. Nf3 Nc6 4. a3 (4. g3 Bb4+ 5. Nbd2 a5 6. Bg2 O-O
+7. O-O Re8 8. a3 Bc5 9. b3 d5 10. cxd5 Nxd5 11. Bb2 Bg4 {1-0 (54) Karjakin,S 
+(2782)-Caruana,F (2816) Leuven 2018}) 4... d5 5. cxd5 Nxd5 6. e3 {A20: English
+Opening: 1...e5} a5 7. Be2 {LiveBook: 4 Games} Bd6 8. b3 {The position is
+equal.} O-O 9. Bb2 $146 ({Predecessor:} 9. O-O Kh8 10. Bb2 f5 {1-0 (51) Ilic,Z
+(2286)-Danchevski,O (2427) Struga 2005}) 9... f5 10. Nbd2 Qe7 11. Qc2 Bd7 12.
+g3 Kh8 13. O-O Rae8 14. Rfe1 e4 15. Nd4 Nxd4 16. Bxd4 exd3 17. Qxd3 Bxa3 18.
+Bf3 Nb4 19. Qc3 Nc6 $1 {White must now prevent ...Bb4.} 20. Bxg7+ Qxg7 21.
+Qxg7+ Kxg7 22. Rxa3 f4 23. Be4 fxe3 24. Rxe3 Rf6 25. Ra1 Bf5 26. Rc1 Bxe4 27.
+Rxe4 Rxe4 28. Nxe4 $11 {[%mdl 4096] Endgame KRN-KRN} Rf5 29. Kg2 Kf7 (29... Rb5
+$11) 30. Nc5 $1 $16 Nb4 31. Nxb7 Rxf2+ {[%mdl 64] Decoy} 32. Kxf2 Nd3+ 33. Ke3
+Nxc1 34. Nxa5 {KN-KN} Ke6 35. g4 Na2 (35... Ke5 $16 {might work better.}) 36.
+Kd4 (36. h4 $18) 36... Nb4 (36... Nc1 $16 37. b4 Kf6) 37. h4 $18 Nd5 38. Nc4
+Nf4 39. Ne3 Ng6 $2 (39... Ne2+ $16 {is tougher.} 40. Kd3 Nc1+ 41. Kc4 Ne2) 40.
+Nf5 Kf6 41. Ke4 Nf8 42. Ne3 c6 43. Nc4 (43. b4 $142 Nd7 44. Nc4) 43... Ng6 $2 (
+43... Nd7 44. Na5 Ne5 45. g5+ Ke6) 44. g5+ Ke7 45. h5 {[%cal Bh4h5,Bh5h6][%mdl
+32]} Nf8 46. Ne5 Ne6 47. Nxc6+ Kd6 48. Kf5 Ng7+ {[#]} 49. Kg4 $1 Kxc6 {[#]} 50.
+h6 $1 {White mates.} ({And not} 50. g6 h6 $11) 50... Ne8 {[#]} 51. g6 $1 {
+[%mdl 512]} Kd7 (51... hxg6 52. Kg5) 52. Kg5 {Accuracy: White = 76%, Black =
+36%.} 1-0
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.19"]
+[Round "7"]
+[White "Fedoseev, Vladimir"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "D90"]
+[WhiteElo "2724"]
+[BlackElo "2835"]
+[Annotator "TA"]
+[PlyCount "147"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,147,27,30,21,29,20,11,40,39,78,34,55,36,39,37,36,37,58,58,50,53,41,
+39,53,53,53,53,53,51,64,67,61,63,64,56,72,69,70,70,79,79,79,79,79,79,79,79,79,
+79,99,99,95,95,101,103,102,91,114,114,114,114,114,114,114,114,114,114,114,0,
+114,114,114,114,114,114,114,114,114,77,77,77,77,77,90,90,90,90,90,90,90,90,90,
+90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,8,0,8,0]} 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. h4 (5. Bf4 O-O 6.
+Rc1 Be6 7. e3 dxc4 8. Ng5 Bd5 9. e4 h6 10. exd5 hxg5 11. Bxg5 Nxd5 12. Bxc4 Nb6
+13. Bb3 Nc6 14. d5 Nd4 15. O-O Qd7 16. h4 Rfe8 17. a3 Nxb3 18. Qxb3 Rad8 19.
+Rfe1 Nxd5 20. Nxd5 Qxd5 21. Qxd5 Rxd5 22. Rxc7 Bxb2 23. Rxb7 Bxa3 24. Rxa7 {
+1/2-1/2 (30) Vitiugov,N (2709)-Vachier Lagrave,M (2778) Shenzhen 2018}) 5... c6
+6. cxd5 {D90: Grünfeld: 4 Nf3 Bg7 sidelines} cxd5 7. Bf4 Nc6 8. e3 O-O 9. Qb3
+Na5 10. Qa3 {LiveBook: 11 Games} Nc4 11. Bxc4 $146 ({Predecessor:} 11. Qb4 Qb6
+12. Qxb6 axb6 13. Nxd5 Nxd5 14. Bxc4 Nxf4 15. exf4 {1-0 (38) Xu,X (2532)
+-Laciner,K (2271) Konya 2017}) 11... dxc4 12. O-O Bd7 13. Ne5 b5 14. Qa6 Qc8
+15. Qa5 Qd8 16. Qxd8 Rfxd8 17. Nxd7 Nxd7 18. Nxb5 e5 19. dxe5 Nxe5 {next ...
+Nd3 is good for Black.} 20. Rac1 a6 21. Na3 $1 Nd3 22. Rc2 Rac8 23. Bg5 Re8 24.
+Nxc4 h6 25. Bf4 $1 Nb4 26. Rcc1 Nxa2 27. Ra1 {Nd6 is the strong threat.} Rxc4
+28. Rxa2 Be5 29. b3 Rb4 30. Bxe5 Rxe5 31. Rxa6 Rxb3 $16 {[%mdl 4096] Endgame
+KRR-KRR} 32. Rd1 Rb4 33. Rd7 Kg7 34. Raa7 Rf5 {With the idea ...Rb1+.} 35. f3
+$1 Rb2 36. e4 {[%cal Be3e4,Be4e5,Be5e6][%mdl 32]} Rf4 37. e5 Re2 38. Re7 Rf5
+39. e6 $1 Kf8 40. Rxf7+ Rxf7 41. Rxf7+ {KR-KR} Kg8 42. Re7 Kf8 43. Rf7+ Kg8 $1
+44. h5 gxh5 45. Rf5 Rxe6 46. Rxh5 Kg7 47. Kf2 Ra6 48. g4 Ra2+ 49. Kg3 Ra3 50.
+Rd5 Kf6 51. Kf4 Ra4+ 52. Ke3 $1 Ra1 53. f4 Rg1 54. Rd6+ Kg7 55. Kf3 Re1 56. Rb6
+Rg1 57. Re6 Ra1 58. Ke4 Ra4+ 59. Kf5 {Strongly threatening Re7+.} Ra5+ {[#]}
+60. Re5 $1 {[%cal Re5a5]} Ra7 61. Rd5 Rf7+ {[#]} 62. Ke4 $1 Re7+ 63. Kd4 (63.
+Kf3 $16) 63... Re1 $11 {The position is equal.} 64. Rd7+ Kf6 65. Rd6+ (65. Rh7
+{feels hotter.} Kg6 66. Ra7 Rg1 67. Ke5 Re1+ 68. Kd5) 65... Kg7 66. Kd5 Rg1 67.
+Ke6 Rxg4 {Hoping for ...Rg6+.} 68. Rd7+ Kg8 69. f5 Rf4 70. Kf6 Rf1 71. Rd8+ Kh7
+72. Rd7+ Kg8 73. Rd8+ Kh7 74. Rd7+ {Accuracy: White = 82%, Black = 80%.}
+1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.20"]
+[Round "8"]
+[White "Carlsen, Magnus"]
+[Black "Rapport, Richard"]
+[Result "1-0"]
+[ECO "B47"]
+[WhiteElo "2835"]
+[BlackElo "2731"]
+[Annotator "TA"]
+[PlyCount "79"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 25,79,56,69,32,41,40,48,60,74,70,83,0,64,0,82,82,84,68,62,67,77,75,99,
+91,164,150,154,152,146,153,175,189,187,187,225,220,216,220,214,216,226,218,211,
+210,333,320,557,304,267,226,695,691,630,565,566,561]} 1. e4 c5 2. Nf3 e6 3. d4
+cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O d6 9. Nxc6 bxc6 10. Na4
+Rb8 {B80: Sicilian Scheveningen: 6 g3 and 6 Be3, including English Attack} (
+10... Bb7 11. c4 c5 12. Nc3 Nd7 13. f4 Be7 14. Be3 O-O 15. Qd2 Rad8 16. Rad1
+Nb8 17. g4 Nc6 18. g5 {1/2-1/2 (71) So,W (2765)-Movsesian,S (2629) chess.com
+INT 2019}) 11. c4 c5 12. b3 Be7 13. Bb2 O-O {LiveBook: 3 Games} 14. Qe1 $146 ({
+Predecessor:} 14. Qc2 Bb7 15. Rad1 Rfd8 16. h3 Nd7 17. Kh2 Bc6 18. Nc3 {
+0-1 (77) Gantar,J (2134)-Mazi,L (2375) Aschach 2010}) 14... Nd7 15. Rd1 Bb7 16.
+Qc3 {[%csl Gb2][%cal Rc3g7]} Bf6 17. Qd2 Be7 18. Qc3 {[%csl Gb2][%cal Rc3g7]}
+Bf6 19. Qd2 Be7 $1 20. f4 e5 21. Bc3 Bc6 22. Ba5 Qb7 23. Nc3 exf4 24. gxf4 Rfe8
+(24... Rfc8 $16 {keeps fighting.}) 25. e5 $1 $18 Bxg2 26. Qxg2 dxe5 27. Nd5 e4
+28. Bc3 $1 {[%csl Gc3][%cal Rg2g7][%mdl 1024] White has strong compensation.} (
+{Don't do} 28. Qxe4 $6 Nf6 $14) 28... f6 29. Kh1 Kh8 30. Rg1 $1 {[%csl Gg1]
+[%cal Rg2g7]} (30. Qxe4 Bf8 $14) 30... Bf8 {[#]} 31. Ne3 $1 Qc6 32. Rd5 {
+Hoping for Rh5.} Qe6 {[#]} 33. Rh5 $1 {[%cal Bd5h5,Bh5h4,Bh4h7][%mdl 32] And
+now Nf5 would win.} Qf7 34. Qh3 g6 (34... h6 $142 35. Rh4 Rb6) 35. Rh4 Rb6 $2 (
+35... Qg7 {is a better defense.} 36. Nd5 Rb7) 36. f5 {Threatens to win with
+fxg6.} Ne5 37. Nd5 $40 {[%mdl 128] White wants a kill.} ({Not} 37. Rxe4 Nd3 $16
+) 37... Rd6 $2 (37... g5 38. Rxe4 (38. Nxb6 gxh4 39. Qxh4 e3 $16) 38... Rd6 39.
+Bxe5 Rxe5 40. Rxe5 fxe5 41. Rxg5 Bg7) 38. fxg6 {White is clearly winning.} Nxg6
+39. Bxf6+ Rxf6 {[#]} 40. Rxh7+ $1 {[%mdl 512] Precision: White = 73%, Black =
+59%.} 1-0
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.20"]
+[Round "8"]
+[White "Ding, Liren"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[ECO "D70"]
+[WhiteElo "2813"]
+[BlackElo "2763"]
+[Annotator "TA"]
+[PlyCount "34"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,34,13,0,-4,0,0,0,5,12,14,13,16,8,13,13,11,0,0,19,0,6]} 1. d4 Nf6 2.
+c4 g6 3. Nf3 Bg7 4. g3 c6 5. Bg2 $146 ({Predecessor:} 5. Nc3 d5 6. Qb3 O-O 7.
+Bg2 Qb6 {1-0 (53) Wojtaszek,R (2730)-Mista,A (2599) Poland 2018}) 5... d5 6.
+Qb3 O-O 7. O-O Qb6 8. Nc3 Rd8 {The position is equal.} 9. Bd2 {D78: Fianchetto
+Grünfeld: 6 0-0 c6} dxc4 10. Qxc4 Be6 11. Qa4 Bf5 ({Predecessor:} 11... Bg4 12.
+e3 Nbd7 13. Qc2 c5 14. h3 Be6 15. Rfd1 Rac8 16. Be1 Nd5 {1-0 (53) Wojtaszek,R 
+(2730)-Mista,A (2599) Poland 2018}) 12. Rfe1 Ne4 13. Nxe4 Bxe4 14. Ba5 Qa6 {
+[#] And now ...b6 would win.} 15. Qa3 Re8 16. Bf1 c5 17. dxc5 {White wants to
+play Ng5.} Bxb2 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.20"]
+[Round "8"]
+[White "Anand, Viswanathan"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2773"]
+[BlackElo "2817"]
+[Annotator "TA"]
+[PlyCount "57"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,57,13,8,13,17,2,17,-10,-10,-15,-10,-16,-16,-19,-18,-13,-15,-12,-8,
+-16,0,0,49,38,130,119,133,132,155,120,215,161,161,161,199,166,159,122,388,388,
+513,530,489,484]} 1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. Nf3 Bxc5 6. a3 {
+B12: Caro-Kann: Advance Variation} Ne7 7. Bd3 Ng6 8. O-O O-O {LiveBook: 11
+Games} 9. Nbd2 Nc6 {[%cal Bb8c6,Bc6e7,Be7f5][%mdl 32]} 10. b4 Bb6 11. Bxg6 $146
+({Predecessor:} 11. Bb2 Nf4 12. Nb3 a5 13. Qd2 Nxd3 14. cxd3 {1/2-1/2 (38)
+Vitiugov,N (2735)-Anand,V (2776) Karlsruhe/Baden-Baden 2018}) 11... fxg6 12.
+Nb3 Bd7 13. Re1 {[%cal Bf1e1,Be1e3,Be3d3,Bd3d5][%mdl 32]} a5 14. b5 Ne7 15. a4
+Rc8 16. Be3 Bxe3 17. Rxe3 Nf5 18. Rd3 g5 19. h3 {[%cal Bh2h3,Bh3g4][%mdl 32]}
+b6 {[#]} (19... h5 $14) 20. c4 $1 $16 {[%mdl 512]} Rxc4 {[#]} 21. Rxd5 $1 {
+[%mdl 512]} Rf7 (21... exd5 22. Qxd5+) 22. Rd3 g4 (22... h6 $16) 23. Nfd2 Rb4
+24. hxg4 Ne7 25. Nf3 $36 {[%mdl 2048] White is on the roll.} Nd5 26. Nbd4 Rf4
+$2 {[%mdl 8192]} (26... Rf8 $16) 27. Nc2 $18 Rbe4 28. Rxd5 exd5 29. Qxd5+ {
+Accuracy: White = 79%, Black = 36%.} 1-0
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.20"]
+[Round "8"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Kramnik, Vladimir"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "2738"]
+[BlackElo "2777"]
+[Annotator "TA"]
+[PlyCount "89"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 22,89,16,16,10,0,0,0,0,0,0,0,0,0,172,92,178,175,272,151,163,50,43,48,
+102,52,56,52,53,39,47,47,654,645,949,498,528,474,486,375,350,367,344,273,273,
+270,269,270,258,245,253,239,254,228,266,239,226,218,235,183,262,258,223,115,
+354,354,346,345,875,859]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. O-O d6 6.
+c3 a6 7. a4 O-O 8. Bg5 {C54: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and
+5 d3} h6 9. Bh4 g5 10. Bg3 Ba7 11. Nbd2 Nh7 12. h3 {LiveBook: 3 Games} h5 13.
+d4 {[%cal Rd4e5] [#]} h4 $146 ({Predecessor:} 13... exd4 14. Nxd4 {0-1 (27)
+Topalov,V (2760)-So,W (2794) London 2016}) 14. Bh2 {[%cal Rd4e5]} g4 15. hxg4
+Bxg4 {[%cal Re5d4]} 16. dxe5 dxe5 17. b4 $36 {[%mdl 2048] White has some
+pressure.} h3 $2 (17... Re8 $11 {and Black has nothing to worry.}) 18. b5 (18.
+gxh3 $18 Bxh3 19. Kh1) 18... Ne7 (18... Na5 $16) 19. gxh3 $18 (19. bxa6 hxg2
+20. Kxg2 Ng5 $16) 19... Bxh3 (19... Bh5 $142) 20. Nxe5 (20. Bxe5 Ng6 $11) (20.
+bxa6 $18 {Threatens to win with Kh1.} bxa6 21. Nxe5) 20... Kg7 21. Nxf7 (21.
+bxa6 $18 bxa6 22. Nxf7 Rxf7 23. Bxf7 (23. Be5+ Rf6 $11) 23... Bxf1 24. Bb3)
+21... Rxf7 $14 22. Bxf7 Bxf1 23. Bb3 {Be5+ is the strong threat.} Bh3 {And now
+...Ng6 would win.} 24. Be5+ Nf6 $1 25. Bxf6+ $1 ({Don't go for} 25. Qf3 $2 Ng6
+$19) 25... Kxf6 26. Qf3+ {[%mdl 64] [#] Double Attack} Bf5 $2 {[%mdl 8192]} (
+26... Kg7 $14 27. Qf7+ (27. Qxh3 Bxf2+ 28. Kxf2 Qxd2+ 29. Kg1 Qg5+ {[%mdl 64]
+Double Attack} 30. Qg2 Qxg2+ 31. Kxg2 axb5 $11) 27... Kh6 28. Qf4+ Kg7) 27. Rd1
+$18 ({Less strong is} 27. Qf4 Qd6 $16) 27... Qc8 28. exf5 Qxf5 29. Ne4+ Kg7 30.
+Qxf5 Nxf5 31. Rd7+ Kh6 32. bxa6 bxa6 33. Rxc7 Bb8 34. Rf7 Nh4 35. Rf6+ Kg7 36.
+Kf1 Ra7 37. Rb6 Be5 38. Bd5 Ng6 39. c4 Bd4 40. c5 Nf4 (40... Rc7 $142 41. Rxa6
+Bxc5 42. Nxc5 Rxc5) 41. Bb7 {aiming for Rb1.} Nd3 42. Bxa6 ({Only move:} 42.
+Rd6 $18 Rxb7 43. Rxd4) 42... Bxc5 $2 {[#]} (42... Nxc5 $16 43. Nxc5 Bxc5) 43.
+Re6 $1 Nf4 44. Nxc5 Rc7 $2 (44... Nxe6 45. Nxe6+ Kf6) 45. Re4 {Accuracy: White
+= 48%, Black = 54%.} 1-0
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.20"]
+[Round "8"]
+[White "Fedoseev, Vladimir"]
+[Black "Shankland, Samuel"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "2724"]
+[BlackElo "2725"]
+[Annotator "TA RC"]
+[PlyCount "103"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 22,103,19,20,18,7,18,0,33,32,34,43,31,27,33,8,10,0,0,0,0,0,39,29,63,58,
+54,27,53,44,55,32,47,50,74,43,45,37,37,29,137,137,130,131,167,168,233,226,240,
+226,227,241,284,260,335,335,286,342,461,466,447,433,1080,1072,1056,968,29969,
+29969,10935,29949,2169,2387,2387,1763,2115,1848,1483,1599,1366,1356,29962,
+29972,29969,29968]} 1. Nf3 d5 2. b3 Bf5 3. Bb2 e6 4. g3 h6 5. d3 Nf6 6. Nbd2
+Be7 7. Bg2 O-O 8. O-O c6 9. Re1 Bh7 10. e4 a5 11. a3 Na6 {A07: Réti Opening:
+New York and Capablanca Systems} 12. Qe2 {LiveBook: 20 Games} b5 (12... Rc8 13.
+Ne5 Nc5 14. Rad1 Nfd7 15. Ng4 Nf6 16. h3 b5 17. Kh2 Nxg4+ 18. hxg4 dxe4 19.
+Nxe4 {1/2-1/2 (47) Sasikiran,K (2682)-Tomashevsky,E (2745) Tsaghkadzor 2015})
+13. Rad1 $146 ({Predecessor:} 13. Ne5 Qb6 14. Ng4 Qd8 15. c4 Nc5 16. Ne5 Qe8
+17. exd5 cxd5 18. d4 Nxb3 19. Nxb3 bxc4 {0-1 (40) Miguel Lago,V (2275)-Vera
+Gonzalez Quevedo,R (2495) Mondariz 1996}) 13... Qb6 {The position is equal.}
+14. Bh3 dxe4 15. Nxe4 Nxe4 16. dxe4 Rad8 17. Ne5 Bf6 18. Bg2 Nb8 19. c4 b4 20.
+axb4 axb4 21. Nd3 {[%cal Be5d3,Bd3b2,Bb2a4][%mdl 32] Bxf6 is the strong threat.
+} Bxb2 22. Nxb2 c5 23. Qe3 Qc7 24. Bf3 Qe7 25. Na4 $36 {[%mdl 2048] White is
+more active.} Na6 26. h4 {[%cal Bh2h4,Bh4h5][%mdl 32]} Qc7 27. Kh2 Qe5 28. Bg2
+Bg6 29. f4 Qc7 30. Bf3 Qa7 (30... Rxd1 $11 31. Rxd1 Rd8) 31. h5 $16 Bh7 {[#]}
+32. Rd3 $1 Rxd3 33. Qxd3 Nb8 (33... Kh8 $142 34. Qd6 Rc8) 34. Qd6 $18 Rc8 35.
+Rd1 {Threatening mate with Qd8+!} Kh8 {[#]} 36. Qb6 $1 {[%cal Rb6a7]} Qe7 {[#]}
+37. Nxc5 $1 {[%mdl 512]} e5 (37... Rxc5 38. Qxb8+) 38. Qd6 (38. Qxb4 exf4 39.
+Rd5 (39. gxf4 Na6 $14) 39... Nc6 $16) 38... Qa7 39. Bg4 ({But not} 39. Qxe5 $6
+Bg8 $16) 39... f5 40. exf5 {[%cal Be4f5,Bf5f6][%mdl 32] aiming for f6.} exf4
+41. gxf4 Na6 ({And not} 41... Rxc5 42. Qf8+ Bg8 43. Rd8 Qa2+ 44. Kg1 Qb1+ 45.
+Bd1 Qxd1+ 46. Rxd1 Rxf5 47. Qxf5) (41... Qf7 $142 42. f6 Rg8 43. fxg7+ Qxg7)
+42. f6 ({Worse is} 42. Nxa6 Qf2+ 43. Kh3 Re8 $11) 42... Rg8 43. Qxa6 Qxc5 44.
+fxg7+ {[%mdl 64] Discovered Attack, Overworked Piece} Rxg7 45. Rd8+ Bg8 46.
+Qxh6+ Rh7 47. Qf6+ Rg7 48. Rd4 {White wants to mate with h6.} Qe7 49. Qxe7 Rxe7
+50. Rd8 Re3 51. h6 Re1 52. c5 {Accuracy: White = 80%, Black = 45%.} 1-0
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.20"]
+[Round "8"]
+[White "Vidit, Santosh Gujrathi"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[ECO "D53"]
+[WhiteElo "2695"]
+[BlackElo "2783"]
+[Annotator "TA"]
+[PlyCount "72"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,72,0,0,0,0,0,0,0,0,0,11,5,5,6,10,0,0,0,0,0,0,0,0,-13,0,0,0,-14,-7,-9,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5
+Be7 5. e3 h6 6. Bh4 O-O 7. Rc1 dxc4 8. Bxc4 c5 9. Nf3 cxd4 10. exd4 Nc6 11. O-O
+Nh5 {D53: Queen's Gambit Declined: 4 Bg5 Be7: Early deviations} (11... b6 12.
+a3 Bb7 13. Re1 Nh5 14. Bg3 Nxg3 15. hxg3 Bf6 16. d5 Na5 17. Ba2 Bxc3 18. Rxc3
+Bxd5 19. Bxd5 Qxd5 20. Qxd5 exd5 21. Rd1 {1/2-1/2 (44) Vachier Lagrave,M (2789)
+-So,W (2778) Leuven 2018}) 12. Bxe7 Nxe7 {LiveBook: 16 Games. The position is
+equal.} 13. d5 exd5 14. Bxd5 $146 ({Predecessor:} 14. Nxd5 Nxd5 15. Qxd5 Qxd5
+16. Bxd5 Nf4 17. Bc4 Be6 18. Nd4 Bxc4 19. Rxc4 {1/2-1/2 (46) Makarichev,S 
+(2485)-Georgiev,K (2595) Saint John 1988}) 14... Nxd5 15. Nxd5 Nf6 16. Nc7 Qxd1
+17. Rfxd1 Rb8 18. h3 Bf5 19. Nd5 (19. Nd4 {is more complex.} Bg6 20. Ncb5 a6
+21. Nd6 Rfd8 22. N4f5) 19... Nxd5 20. Rxd5 Be4 21. Rd4 Rfe8 22. Rc7 Rbd8 23. b4
+Rd5 24. Rxd5 Bxd5 $11 {[%mdl 4096] Endgame KRB-KRN} 25. b5 a6 26. a4 axb5 27.
+axb5 Bxf3 28. gxf3 {KR-KR} b6 29. Rb7 Re6 30. Rb8+ Kh7 31. Rb7 Kg6 32. Kg2 Kf6
+33. f4 g6 34. Kf3 Rd6 35. h4 Ke6 36. Ke4 f5+ {Accuracy: White = 65%, Black =
+69%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.20"]
+[Round "8"]
+[White "Van Foreest, Jorden"]
+[Black "Radjabov, Teimour"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2612"]
+[BlackElo "2757"]
+[Annotator "TA RC"]
+[PlyCount "33"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,33,15,13,19,16,16,12,21,20,17,17,14,17,22,24,17,18,22,22,29,0,0,-21]
+} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. O-O d6 7. Re1 a6 {
+C54: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} 8. a4 h6 9. Nbd2
+Ba7 (9... a5 10. Nf1 Be6 11. Bb5 Na7 12. d4 Nxb5 13. axb5 Bb6 14. dxe5 Ng4 15.
+Be3 Nxe3 16. Nxe3 dxe5 17. Nxe5 {1/2-1/2 (46) Giri,A (2783)-Karjakin,S (2753)
+St Petersburg 2018}) 10. h3 Re8 11. b4 {[%cal Bb2b4,Bb4b5][%mdl 32]} Be6 12.
+Bxe6 Rxe6 13. Qc2 Qd7 14. Rb1 Rd8 $146 ({Predecessor:} 14... b5 15. Ra1 Rd8 {
+1/2-1/2 (34) Kuhne,D (2391)-Debnar,I (2136) ICCF email 2017}) 15. b5 Ne7 16.
+Nc4 Ng6 17. b6 {Accuracy: White = 82%, Black = 85%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.22"]
+[Round "9"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Duda, Jan-Krzysztof"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2817"]
+[BlackElo "2738"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,61,33,18,19,18,15,0,0,-4,0,-36,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5.
+e4 Bb4 6. Bxc4 {D24: Queen's Gambit Accepted: 3 Nf3 Nf6 4 Nc3} Nxe4 7. O-O Nf6
+8. Qa4+ Nc6 9. Bg5 {[#] LiveBook: 6 Games. Hoping for d5!} Bxc3 10. bxc3 O-O
+11. Ne5 $146 ({Predecessor:} 11. Rae1 Ne7 12. Qc2 b5 13. Bxb5 Bb7 {1-0 (33)
+Wojtaszek,R (2735)-Pelletier,Y (2578) Tromsoe 2014}) 11... Qd6 12. Rfe1 Nd5 13.
+Bxd5 (13. Bd3 {with more complications.} f6 14. Nc4 Qd7 15. Bd2 b6 16. Qc2)
+13... exd5 (13... Qxd5 {feels hotter.} 14. c4 Qd6 15. Nxc6 Qxc6 16. Qxc6 bxc6
+17. Rac1 Rb8) 14. Nxc6 {The position is equal.} Qxc6 15. Qxc6 bxc6 16. Bf4 Bf5
+17. Bxc7 Rfe8 18. f3 f6 19. Kf2 Kf7 20. Rxe8 Rxe8 21. Re1 Rxe1 22. Kxe1 $11 {
+[%mdl 4096] Endgame KB-KB} a6 23. a3 h5 24. h4 Ke6 25. Bh2 Kd7 26. Bb8 Ke6 27.
+Bh2 Kd7 28. Bb8 Ke6 29. Bh2 Kd7 30. Bb8 Ke6 31. Bh2 {Precision: White = 82%,
+Black = 83%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.22"]
+[Round "9"]
+[White "Giri, Anish"]
+[Black "Van Foreest, Jorden"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[WhiteElo "2783"]
+[BlackElo "2612"]
+[Annotator "TA"]
+[PlyCount "59"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,59,-3,-2,-1,2,3,6,7,15,14,31,25,45,25,22,9,23,6,9,15,6,5,14,0,0,0,0,0,
+0,0,55,50,54,49,49,35,44,45,37,45,62,52,54,54,57,47,60,43,52,47,47,52]} 1. c4
+c5 2. g3 Nc6 3. Bg2 g6 4. Nc3 Bg7 5. b3 e6 {LiveBook: 39 Games} 6. Ba3 $146 {
+A36: Symmetrical English vs ...g6: 4 Bg2 Bg7} ({Predecessor:} 6. Bxc6 bxc6 7.
+Bb2 e5 8. d3 Ne7 9. Qd2 d6 10. O-O-O O-O 11. e4 a5 12. h3 Be6 13. f4 Bh6 {
+0-1 (43) Bauer,C (2646)-Bok,B (2620) Belgium 2018}) 6... d6 7. e3 Nge7 8. Nge2
+{The position is equal.} O-O 9. O-O Nf5 10. d3 Qd7 11. Rc1 Rd8 12. Qd2 b6 13.
+d4 cxd4 14. exd4 d5 15. cxd5 Ncxd4 16. dxe6 Nf3+ 17. Bxf3 Qxd2 18. exf7+ Kxf7
+19. Bxa8 {[#] Strongly threatening Rcd1.} Bf8 (19... Nd4 $11 20. Nxd4 Bxd4) 20.
+Rcd1 $14 {White is slightly better.} Bxa3 21. Rxd2 Rxd2 22. Bd5+ Kg7 23. Rd1
+Rxd1+ 24. Nxd1 Bc5 25. Kg2 Nd4 26. Nec3 b5 27. Ne4 Be7 28. f3 Nc2 29. Kf2 Bd8
+30. Nd6 {Precision: White = 50%, Black = 60%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.22"]
+[Round "9"]
+[White "Kramnik, Vladimir"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2777"]
+[BlackElo "2813"]
+[Annotator "TA"]
+[PlyCount "88"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13,-4,-8,0,-11,-8,-27,-8,-28,-25,
+-59,-52,-68,-31,-36,-26,-25,-54,-37,-46,-47,-14,-29,-36,-36,-38,-47,-28,-39,
+-49,-71,-59,-66,-55,-45,-39,-46,-37,-80,-80,-81,-80,-129,-109,-147,-113,-140,
+-89,-145,-154,-191,-151,-154,0,0,0]} 1. Nf3 d5 2. d4 Nf6 3. c3 c5 4. e3 e6 5.
+Nbd2 Nbd7 6. Bd3 b6 7. Qe2 {D05: Colle System with ...e6} Bb7 8. O-O Be7 9. b3
+O-O 10. Bb2 {LiveBook: 5 Games} Rc8 (10... Bd6 11. c4 cxd4 12. exd4 Qe7 13. Ne5
+Ba3 14. Bxa3 Qxa3 15. f4 Qb2 16. Nef3 dxc4 17. bxc4 Bxf3 18. Nxf3 Qxe2 19. Bxe2
+{1/2-1/2 (123) Carlsen,M (2840)-Giri,A (2773) Wijk aan Zee 2017 CBM 177 
+[Krasenkow,M]}) 11. Rac1 Bd6 12. c4 cxd4 $146 ({Predecessor:} 12... Qe7 13. e4
+dxe4 14. Nxe4 Nxe4 15. Bxe4 Bxe4 16. Qxe4 cxd4 17. Qxd4 e5 18. Qe4 {0-1 (29)
+Karhanek,P (2190)-Trapl,D (2045) Ostrava 2009}) 13. exd4 Qe7 14. Ne5 Ba3 15.
+Bxa3 Qxa3 16. f4 g6 17. Ndf3 dxc4 18. bxc4 Qd6 19. Qe3 Bxf3 20. Nxf3 Rfd8 21.
+Rcd1 Nb8 {[%cal Bd7b8,Bb8c6,Bc6e7,Be7f5][%mdl 32]} 22. Kh1 Nc6 23. Be2 Kg7 24.
+Qc1 h5 25. Qa1 Ne7 ({Don't play} 25... Qxf4 $6 26. d5 $16) 26. Ne5 Nf5 {
+...Ne3 is the strong threat.} 27. Rd3 Kg8 ({Wrong is} 27... Nxd4 $2 28. Rfd1
+$18) 28. Bf3 Nd7 29. c5 Qc7 {[#] Strongly threatening ...Nxe5.} 30. Nc6 Re8 $36
+{[%mdl 2048] Black is pushing.} 31. Ra3 a5 {[%cal Ba7a5,Ba5a4][%mdl 32]} 32.
+cxb6 Qxb6 33. Rc1 Nf6 {[%cal Bd7f6,Bf6d5,Bd5f4,Bf4d5][%mdl 32]} 34. Rac3 Nd5
+35. Rc5 $1 Nxf4 36. Qc3 a4 37. Qd2 {[#]} Nd5 $1 {[%mdl 512]} 38. h3 (38. Bxd5
+exd5) 38... Kg7 39. Qf2 h4 40. Kg1 Rc7 ({Black should try} 40... a3 41. Ne5 Qb8
+) 41. Qe1 (41. Be4 $142) 41... Rec8 $17 42. Bxd5 exd5 43. Qb4 Qa6 $2 (43... Qb7
+$17 44. Qxa4 Qb2) 44. Ne7 $1 $11 {[%cal Re7f5]} Rxc5 {Precision: White = 62%,
+Black = 77%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.22"]
+[Round "9"]
+[White "Nepomniachtchi, Ian"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2763"]
+[BlackElo "2695"]
+[Annotator "TA"]
+[PlyCount "73"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,73,16,7,5,-15,37,37,50,50,56,10,10,20,12,0,0,0,12,12,6,0,0,12,0,-5,
+-5,-5,0,-24,19,16,10,6,27,30,29,8,8,8,8,8,12,12,72,78,65,64,71,66,88,91,95,97,
+94,92,85,82,87,82,193,193,207,207,323,317]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5 {
+[%cal Bf3e5,Be5d3,Bd3f4][%mdl 32]} d6 4. Nd3 Nxe4 5. Qe2 Qe7 6. Nf4 {LiveBook:
+3 Games. Threatens to win with Nd5. C42: Petroff Defence: 3 Nxe5 and unusual
+White 3rd moves} Nc6 {[%cal Bb8c6,Bc6e5,Be5d3][%mdl 32]} 7. c3 $146 {Hoping
+for Nd5.} ({Predecessor:} 7. Nd5 Nd4 8. Nxe7 Nxe2 9. Nd5 Nd4 10. Na3 Ne6 11. f3
+N4c5 {1/2-1/2 (80) Carlsen,M (2835)-Caruana,F (2832) London 2018}) 7... Nc5 (
+7... Nf6 $11) 8. d4 $14 {[%cal Bd2d4,Bd4d5][%mdl 32] White is slightly better.}
+Qxe2+ 9. Bxe2 Ne6 10. d5 Nxf4 11. Bxf4 Ne5 12. Na3 Bf5 13. Nb5 O-O-O 14. Nxa7+
+Kb8 15. Nb5 Nd3+ 16. Bxd3 $1 Bxd3 17. a4 Bc4 18. O-O-O Bb3 19. Rd2 Bxa4 20. Nd4
+Be7 21. b3 $36 {[%cal Bb2b3,Bb3b4,Bb4c5,Bc5b6,Bb6a7][%mdl 2080] White is more
+active.} Be8 22. Ra2 Bf6 23. Rd1 (23. Be3 {seems wilder.} Bxd4 24. Bxd4 f6 25.
+Kd2 Kc8 26. c4) 23... Bxd4 24. Rxd4 Bd7 25. c4 b6 26. b4 Kb7 {[#]} (26... Rhe8
+$11 {keeps the balance.}) 27. c5 $1 $16 {[%cal Rc5c6]} dxc5 28. bxc5 c6 $1 29.
+cxb6 {Rda4 is the strong threat.} cxd5 30. Be3 {aiming for Ra7+.} Ra8 {[#]} 31.
+Ra7+ $1 {[%mdl 512]} Rxa7 32. bxa7 {KRB-KRB} Bc6 33. Rg4 Rg8 34. Kd2 Kc7 (34...
+Ka8 $16 {keeps fighting.}) 35. Rb4 $18 Bb7 36. Bb6+ Kc6 {[#]} (36... Kd7 $142
+37. Ba5 Ba8) 37. Ba5 $1 {Precision: White = 67%, Black = 64%.} 1-0
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.22"]
+[Round "9"]
+[White "Radjabov, Teimour"]
+[Black "Fedoseev, Vladimir"]
+[Result "0-1"]
+[ECO "D15"]
+[WhiteElo "2757"]
+[BlackElo "2724"]
+[Annotator "TA"]
+[PlyCount "168"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,168,26,24,22,17,11,14,23,20,11,20,13,19,9,17,9,10,17,8,10,10,0,4,18,
+5,7,12,9,8,11,11,11,6,9,7,11,0,0,0,0,0,0,0,0,0,0,0,0,0,12,9,11,0,0,0,0,0,0,0,0,
+-11,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,-300,-290,-298,-295,-282,-262,-29973,-29974,-29972,-29967,
+-29979,-29979]} 1. c4 c6 2. d4 d5 3. Nf3 Nf6 4. Nc3 a6 5. e3 Bf5 6. Qb3 Ra7 {
+D15: Slav Defence: 4 Nc3 a6 and gambit lines after 4 Nc3 dxc4} 7. Nh4 Bc8 8.
+Bd2 {LiveBook: 3 Games} e6 {White has an edge.} 9. c5 Nbd7 10. Nf3 e5 $146 ({
+Predecessor:} 10... b6 11. cxb6 Qxb6 12. Qc2 Bd6 13. Rc1 Bb7 14. Bd3 {0-1 (40)
+Romanov,E (2636)-Malakhov,V (2712) Sochi 2017}) 11. Nxe5 Nxe5 12. dxe5 Nd7 {
+[%mdl 64] Double Attack} 13. Na4 Bxc5 14. Nxc5 Nxc5 15. Qc2 Ne4 16. Bd3 Nxd2
+17. Qxd2 O-O 18. O-O f6 19. exf6 Qxf6 20. e4 dxe4 21. Bxe4 Be6 22. b3 Raa8 23.
+Qc2 g6 24. Rad1 Rad8 25. Rfe1 Kg7 26. Rd2 Rxd2 27. Qxd2 Rd8 28. Qc2 Qd4 29. h3
+Qb4 30. Re2 Bf7 31. Bf3 Rd4 32. g3 Qd6 33. Kg2 Kg8 34. h4 a5 35. Qb2 b6 36. Qc3
+c5 37. Qe3 Qf6 38. Qc3 Qd8 39. Qe3 Qd6 40. Qg5 Kg7 41. Qe7 Rd3 42. Qb7 Qf6 43.
+Bc6 Kf8 44. Qb8+ Rd8 45. Qb7 Rd6 46. Bf3 h5 47. Qa8+ Kg7 48. Qb7 Kf8 49. Qa8+
+Qd8 50. Qb7 Rd7 51. Qc6 Kg7 52. Qe4 Rd3 53. Qb7 Qd7 54. Re7 (54. Qa6 {keeps
+more tension.} Qd8 55. Re1 Rd2 56. Qb7 Rd7 57. Qe4) 54... Qxb7 55. Rxb7 $11 {
+[%mdl 4096] Endgame Threatens to win with Be2. KRB-KRB} Rd6 56. Be4 Kf6 57. Kf3
+c4 58. bxc4 Bxc4 59. a3 Ke5 60. Ke3 {aiming for Rg7.} Bd5 61. f4+ Ke6 62. Rb8
+Bxe4 63. Kxe4 {KR-KR} Rc6 64. a4 Rc4+ 65. Kf3 Rc3+ 66. Ke4 Rb3 67. Rg8 Kf7 68.
+Rb8 Kf6 69. Rf8+ Ke7 70. Rg8 Rxg3 71. Ke5 Re3+ 72. Kd4 Rg3 73. Ke5 $1 Kf7 74.
+Rb8 Re3+ 75. Kd4 Re6 76. Kd5 Ke7 77. Rg8 Rd6+ 78. Ke5 {Strongly threatening
+Rg7+.} Kd7 79. Rg7+ $2 {[%mdl 8192]} (79. Rb8 $11 {and White stays safe.})
+79... Kc6 $19 80. Rg8 {[#] intending Rc8+.} Kc5 $1 81. Rc8+ Rc6 82. Rxc6+ $2 (
+82. Rd8 $19) 82... Kxc6 {Black mates.} 83. Kf6 b5 84. axb5+ {[#]} Kd6 $1 {
+Accuracy: White = 58%, Black = 83%.} ({Not} 84... Kxb5 85. Kxg6 a4 86. f5 $11)
+0-1
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.22"]
+[Round "9"]
+[White "Rapport, Richard"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2731"]
+[BlackElo "2773"]
+[Annotator "TA"]
+[PlyCount "83"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 22,83,15,8,21,0,31,34,34,21,20,28,19,15,13,0,18,10,17,0,4,4,4,2,6,7,8,0,
+0,2,9,0,18,0,0,0,0,0,26,24,21,17,35,23,33,23,27,8,13,7,7,7,8,8,9,8,13,8,8,8,8,
+14,15,0]} 1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. g3 dxc4 6. Bg2 O-O 7. Ne5
+c5 8. dxc5 Qxd1+ 9. Nxd1 {E06: Closed Catalan: Early deviations} Bxc5 10. Bd2
+Nc6 11. Nxc4 Nd5 12. Rc1 {LiveBook: 4 Games} b6 $146 ({Predecessor:} 12... Bd7
+13. Na5 Nxa5 14. Rxc5 Nc6 15. Ne3 Nxe3 16. Bxe3 Rac8 {1/2-1/2 (79) Grischuk,A 
+(2771)-Atabayev,Y (2428) Baku 2015}) 13. Nce3 Nce7 14. b4 Bxe3 15. Nxe3 Ba6 16.
+Nxd5 Nxd5 17. f3 Bb5 18. Kf2 Rfd8 19. a3 Rd7 20. Rhd1 Ba4 {[#] ...Ne7 is the
+strong threat.} 21. Re1 Rad8 22. e4 Nc7 23. Bf4 Nb5 24. Bf1 h6 25. h4 Nd4 26.
+h5 f6 27. Bc4 Kf7 28. Re3 Nb5 29. g4 Rd1 30. Rxd1 Rxd1 31. Bb8 a6 32. e5 {
+[#] aiming for exf6.} Rd4 33. Bxb5 Bxb5 34. exf6 gxf6 $14 {[%mdl 4096] Endgame
+KRB-KRB. The position is equal.} 35. Bc7 Rd2+ 36. Ke1 Rc2 37. Bxb6 e5 38. Bc5
+Ra2 39. Rc3 e4 40. Bd4 Re2+ 41. Kd1 {Threatens to win with a4!} Rg2 {White
+must now prevent ...exf3.} 42. fxe4 {Precision: White = 61%, Black = 55%.}
+1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.22"]
+[Round "9"]
+[White "Shankland, Samuel"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[WhiteElo "2725"]
+[BlackElo "2835"]
+[Annotator "TA"]
+[PlyCount "80"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,80,36,18,29,29,27,27,23,20,21,22,36,37,39,31,31,23,36,35,36,22,30,25,
+36,27,27,27,27,27,21,17,12,16,20,19,15,19,20,20,18,18,25,20,24,6,17,6,10,9,21,
+11,23,0,0,0,5,5,5,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 d5 2. c4 e6 3. Nc3 a6 4. cxd5
+exd5 5. Nf3 h6 (5... Nf6 6. Qb3 Be7 7. Bf4 O-O 8. e3 Bd6 9. Bg5 c6 10. Bd3 Re8
+11. O-O Be7 12. Rae1 Nbd7 13. e4 Nb6 14. Bxf6 Bxf6 15. exd5 Rxe1 16. Rxe1 Nxd5
+{1/2-1/2 (30) Dubov,D (2691)-Fedoseev,V (2707) Abu Dhabi 2018}) 6. Bf4 {
+D31: Queen's Gambit Declined: Semi-Slav without ...Nf6 (+ Marshall Gambit and
+Noteboom) and Exchange Variation lines without ...Nf6} Nf6 7. e3 {LiveBook: 5
+Games} Bd6 8. Bxd6 {White has an edge.} Qxd6 9. Qc2 $146 ({Predecessor:} 9. Bd3
+O-O 10. h3 Nbd7 11. O-O Re8 12. Qc2 c5 13. dxc5 Nxc5 {1-0 (34) Itkis,B (2484)
+-Bondoc,D (2234) Bucharest 2002}) 9... O-O 10. Bd3 Re8 11. h3 Be6 12. O-O Nbd7
+13. a4 Rac8 14. Rfc1 c5 15. dxc5 Nxc5 16. Nd4 Bd7 17. Qd1 Rc7 18. Bc2 Rec8 19.
+Nde2 Ne6 20. Bb3 {[%cal Rc3d5]} Bc6 21. Nd4 Qb4 22. Nce2 Bd7 23. Rxc7 Rxc7 24.
+Qe1 Qxe1+ 25. Rxe1 Nc5 26. Rc1 a5 27. Bc2 Kf8 28. b3 Na6 29. f3 Nb4 30. Kf2 Ne8
+31. Ke1 Nd6 32. Bb1 Rxc1+ {The position is equal.} 33. Nxc1 Ke7 34. Bd3 Kf6 35.
+h4 b6 36. Kd2 Ke5 37. g4 g5 38. hxg5 hxg5 39. Nce2 Nxd3 40. Kxd3 Nb7 {Accuracy:
+White = 65%, Black = 66%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.23"]
+[Round "10"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[ECO "C77"]
+[WhiteElo "2835"]
+[BlackElo "2773"]
+[Annotator "TA"]
+[PlyCount "151"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,151,0,3,4,0,0,-7,11,11,22,16,23,14,13,12,12,12,18,12,15,16,25,22,30,
+27,33,33,43,42,34,0,0,0,0,4,14,0,0,1,23,7,16,27,40,29,68,64,68,68,75,29,45,48,
+58,58,78,77,69,73,66,76,75,63,76,42,35,39,54,8,22,16,20,22,27,0,8,8,8,0,8,0,3,
+3,4,4,3,3,8,8,57,25,68,64,82,82,82,82,98,94,97,96,96,76,76,76,76,76,76,68,71,
+59,59,59,89,89,89,89,89,89,89,89,89,89,89,89,89,77,89,66,406,52,52,52,52,52,52,
+52,29980,29981,29981,29982]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3
+Bc5 6. Bxc6 {C77: Ruy Lopez: 3...a6 4 Ba4 Nf6, unusual lines} dxc6 7. d3 {
+LiveBook: 6 Games} Qd6 (7... O-O 8. Qe2 Re8 9. h3 Nd7 10. Nd1 Nf8 11. Ne3 {
+1/2-1/2 (11) Rapport,R (2675)-Ding,L (2777) Tbilisi 2017}) 8. h3 {The position
+is equal.} Be6 9. Be3 $146 (9. O-O {keeps more tension.} h6 10. a3 Nh5 11. Nh4
+Nf6 12. Nf3) ({Predecessor:} 9. O-O h6 10. Be3 g5 11. Bxc5 Qxc5 12. d4 exd4 13.
+Qxd4 Qxd4 14. Nxd4 {1/2-1/2 (54) Leon Fernandez,J-Carcavilla Ledesma,J Alfaro
+2008}) 9... Nd7 10. Bxc5 Nxc5 11. Qd2 Nd7 12. d4 exd4 13. Nxd4 c5 14. Nxe6 fxe6
+15. O-O-O Qxd2+ 16. Kxd2 Ne5 17. f4 Nc4+ 18. Kc1 Ke7 19. b3 Nd6 20. e5 Nf5 21.
+Ne4 b6 $1 22. g4 Nh4 23. Rhf1 {Black must now prevent f5.} Rad8 24. Rxd8 Rxd8
+$11 {[%mdl 4096] Endgame KRN-KRN} 25. f5 exf5 26. gxf5 {Rf4 is the strong
+threat.} Rf8 27. f6+ $1 gxf6 28. exf6+ Kf7 29. Rf4 Ng6 30. Ng5+ Ke8 31. Rf1 h6
+32. Ne6 Rf7 33. Rd1 $1 {[%csl Ge6][%cal Rd1d8] [#]} Rxf6 34. Nxc7+ Kf8 35. Nxa6
+Nf4 36. h4 {[%cal Bh3h4,Bh4h5][%mdl 32]} Ng6 37. Rh1 Rf7 38. h5 Nf4 39. a4 Ke7
+40. Nc7 Kf6 $1 41. Nb5 Kg5 42. Nd6 Re7 43. Kb2 Re6 44. Nf7+ Kf5 $1 45. Rd1 Kg4
+46. Kc3 Kxh5 47. Rh1+ Kg6 48. Nxh6 Re4 49. Kb2 Re2 50. Ng4 Nd3+ 51. Kc3 Nb4 {
+[%csl Gb4][%cal Re2c2]} 52. Rh2 Rxh2 53. Nxh2 $14 {aiming for Nf3. KN-KN} Kf5
+54. Nf3 Ke4 55. Ne1 Kd5 56. Nd3 Nc6 57. Nf4+ Kd6 58. Kc4 {And now Kb5 would
+win.} Na7 59. Nd5 Kc6 60. Ne7+ Kd6 61. Nf5+ Kc6 62. Kd3 Kc7 63. Ke4 Nc6 64. Ne3
+Kd6 65. Nc4+ Kc7 66. c3 Ne7 67. Ke5 Ng6+ 68. Kf5 Ne7+ 69. Ke6 Ng6 70. a5 b5 $2
+{[%mdl 8192]} (70... bxa5 $14 71. Kd5 (71. Nxa5 Nf4+ 72. Kf7 Nd5 $11) 71...
+Nf4+ 72. Kxc5 Ne2) 71. Ne3 $2 (71. Nb6 $18) 71... Nf4+ $1 72. Ke5 Ne2 73. Nd5+
+Kc6 $1 74. b4 {Threatens to win with Ne7+.} Nxc3 $2 {[%mdl 8192]} (74... Nc1
+$14 75. Ne7+ Kc7) 75. Nxc3 cxb4 {[#]} 76. Ne2 $1 {Precision: White = 75%,
+Black = 63%.} 1-0
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.23"]
+[Round "10"]
+[White "Ding, Liren"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[ECO "D71"]
+[WhiteElo "2813"]
+[BlackElo "2817"]
+[Annotator "TA"]
+[PlyCount "91"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,91,16,0,12,12,16,8,15,14,14,14,20,0,8,0,0,0,14,0,0,0,0,0,0,0,0,0,4,4,
+4,0,33,25,29,28,29,24,23,27,26,14,23,16,16,13,17,16,23,15,50,50,50,50,50,50,66,
+47,66,52,66,66,66,66,66,66,66,66,66,50,50,50,50,50,50,50]} 1. d4 Nf6 2. c4 g6
+3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Nf3 Bg7 7. Ne5 O-O 8. Nc3 Bf5 9. O-O Ne4 10.
+g4 {LiveBook: 5 Games. D79: Fianchetto Grünfeld: Symmetrical Variation (6 0-0
+c6 7 cxd5 cxd5)} Be6 $146 ({Predecessor:} 10... Nxc3 11. bxc3 Be6 12. f4 f6 13.
+Nd3 Bxg4 14. Rb1 e6 15. c4 Nc6 16. Nf2 Bh5 17. f5 gxf5 18. cxd5 exd5 19. Rxb7
+Re8 20. Rb2 Rb8 21. Rxb8 {1/2-1/2 (21) Rapport,R (2675)-Li,C (2744) Tbilisi
+2017}) 11. Nxe4 dxe4 12. Bxe4 {The position is equal.} Nc6 13. Nxc6 bxc6 14. e3
+Qd7 15. Bf3 Rab8 16. b3 c5 17. Bb2 c4 18. Qe2 cxb3 19. axb3 Rxb3 20. Rfc1 Rfb8
+21. Bc3 Bd5 22. h3 Qc6 23. Bxd5 Qxd5 24. Qf1 R8b7 25. Be1 h6 26. Qg2 Qb5 27.
+Qc6 Qxc6 28. Rxc6 e5 29. dxe5 {And now Bc3 would win.} Bxe5 30. Rac1 Rb1 31.
+Kg2 Rxc1 32. Rxc1 $11 {[%mdl 4096] Endgame KRB-KRB} Rc7 33. Rb1 Bc3 34. Bxc3 {
+White is slightly better.} Rxc3 $14 {KR-KR} 35. Ra1 Rc7 36. h4 {[%cal Bh3h4,
+Bh4h5][%mdl 32]} g5 37. Kg3 Kg7 38. Ra5 Kg6 39. Ra6+ Kg7 40. h5 Rb7 41. Kf3 Rc7
+42. Ra3 Rb7 43. e4 Kf6 44. Ke3 Rd7 45. Ra6+ Kg7 46. f3 {Accuracy: White = 66%,
+Black = 60%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.23"]
+[Round "10"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Rapport, Richard"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "2738"]
+[BlackElo "2731"]
+[Annotator "TA"]
+[PlyCount "82"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,82,17,-8,20,29,18,11,20,3,0,6,8,5,10,16,13,-14,0,-11,22,8,26,22,6,13,
+32,-8,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,-55,0,0,0,-629,-629,-618,
+0,-611,-611,-610,-607,-606,0,-603,-603,-603,-595,-595,-595,-839,-839,-29991,
+-29992]} 1. d4 Nf6 2. Bg5 d5 3. Bxf6 exf6 4. e3 Be6 5. Nd2 c6 6. Ngf3 {
+LiveBook: 6 Games. D00: 1 d4 d5: Unusual lines} b5 $146 ({Predecessor:} 6... f5
+7. c4 Nd7 8. Qb3 Rb8 9. Bd3 Be7 10. O-O O-O 11. Qc2 g6 {1-0 (30) Kveinys,A 
+(2535)-Markowski,T (2548) Glogow 2001}) 7. a4 b4 8. a5 {The position is equal.}
+Bd6 9. c4 bxc3 $1 10. bxc3 O-O 11. Be2 f5 12. O-O Nd7 {[%cal Bb8d7,Bd7f6,Bf6e4]
+[%mdl 32]} 13. Qa4 c5 14. c4 Nf6 15. Nb3 Ne4 {White must now prevent ...Nc3.}
+16. Nxc5 Bxc5 17. dxc5 Rc8 18. c6 {Hoping for Rac1.} Nc3 19. Qc2 Nxe2+ 20. Qxe2
+Rxc6 21. cxd5 Bxd5 {Black wants to play ...Bc4.} 22. Nd4 Rc5 23. Qd2 Qg5 {
+[%csl Gd5][%cal Rg5g2]} 24. f3 Rfc8 25. Rfc1 g6 26. Rxc5 Rxc5 27. Rb1 h5 28.
+Rb8+ Kh7 29. Re8 Qf6 30. Rb8 (30. h3 $11) 30... Qa6 ({Black should play} 30...
+Qe5 $1 $15 31. Rb1 Qc7) 31. Nb3 $11 Bxb3 32. Qd8 $2 {[%mdl 8192]} (32. Qb2 $11
+Rc8 33. Rxc8 Qxc8 34. Qxb3 Qc1+ 35. Kf2 Qd2+ 36. Kf1) 32... Rc1+ $19 33. Kf2 {
+[%csl Gb8][%cal Rd8h8]} Qf1+ 34. Kg3 {[%csl Gb8][%cal Rd8h8] [#]} f4+ $1 35.
+Kxf4 {[%csl Gb8][%cal Rd8h8] [#]} (35. exf4 Qe1+) 35... Rc4+ $1 36. Kg3 {
+[%csl Gb8][%cal Rd8h8]} Qe1+ 37. Kh3 {[%csl Gb8][%cal Rd8h8] [#]} Rc8 $1 {
+[%mdl 512]} 38. Rxc8 {[%csl Gc8][%cal Rd8h8]} Be6+ 39. g4 hxg4+ 40. fxg4 {
+[%csl Gc8][%cal Rd8h8]} Qxe3+ 41. Kh4 Qf2+ {Precision: White = 56%, Black =
+80%.} 0-1
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.23"]
+[Round "10"]
+[White "Shankland, Samuel"]
+[Black "Radjabov, Teimour"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[WhiteElo "2725"]
+[BlackElo "2757"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,61,5,-13,0,-2,-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,
+0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O
+dxc4 7. Qa4 a6 8. Qxc4 b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 c6 {E05: Open Catalan:
+5 Nf3 Be7} 12. Rd1 Nbd7 {LiveBook: 28 Games. The position is equal.} 13. Bg5
+Rc8 14. Nbd2 Bg6 15. Nb3 Qc7 16. Nc5 Nxc5 17. dxc5 Rfd8 18. b4 Rxd1+ 19. Qxd1
+a5 20. a3 Rd8 21. Qe1 Be4 22. Rd1 Rxd1 23. Qxd1 axb4 24. axb4 Nd5 25. Bxe7 Qxe7
+26. Qd4 Bxf3 $1 27. Bxf3 e5 28. Qg4 {[#] aiming for Bxd5.} Qe6 $1 {[%cal Re6g4]
+} 29. Qxe6 fxe6 30. Bxd5 $1 exd5 31. f3 {Precision: White = 70%, Black = 90%.}
+1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.23"]
+[Round "10"]
+[White "Fedoseev, Vladimir"]
+[Black "Giri, Anish"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "2724"]
+[BlackElo "2783"]
+[Annotator "TA"]
+[PlyCount "82"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,82,21,0,4,4,6,15,5,-1,18,3,19,0,0,0,0,0,2,-2,-8,-16,-23,-19,0,0,45,0,
+27,0,2,-33,-39,-33,0,-29,-27,-54,-52,-64,21,23,21,0,0,0,0,-23,18,-52,-45,-47,
+-58,-43,-44,-95,-94,-189,-195,-195,-185,-380,-378,-609,-609,-609,-609,-609,
+-606]} 1. e4 c5 2. Nc3 d6 3. Nge2 Nf6 4. g3 g6 5. Bg2 Nc6 6. d3 Bg7 7. h3 O-O
+8. Be3 Rb8 9. f4 {LiveBook: 9 Games} Ne8 {B26: Closed Sicilian: 3 g3, lines
+with early Be3} 10. a4 Nd4 11. O-O Nc7 {The position is equal.} 12. g4 $146 ({
+Predecessor:} 12. Bf2 Nxe2+ 13. Qxe2 Ne6 14. Qd1 b6 15. Ra2 {1/2-1/2 (43) Wang,
+Y (2718)-Giri,A (2745) Tromsoe 2014}) 12... a6 13. Rb1 Bd7 14. Ng3 b5 15. axb5
+axb5 16. Nce2 b4 17. f5 e6 18. Nxd4 cxd4 19. Bf4 e5 20. Bd2 Bf6 21. Kh2 b3 22.
+Ra1 Bb5 23. Ra3 bxc2 24. Qxc2 Na6 {[%cal Bc7a6,Ba6b4,Bb4d3][%mdl 32]} 25. b4
+Bg5 26. Rf3 Rb6 27. Qa2 Bf4 ({Black should play} 27... Bxd2 $15 28. Qxd2 Qh4)
+28. Bxf4 $11 exf4 29. Ne2 Nxb4 30. Qd2 d5 {White must now prevent ...dxe4.} 31.
+Nxf4 Nxd3 32. Nxd5 (32. Raxd3 $11 Bxd3 33. Qxd3 (33. Rxd3 dxe4 34. Rxd4 Qb8 $15
+) 33... dxe4 34. Qxe4) 32... Qd6+ $15 33. Rg3 {Hoping for Qh6.} Qxa3 34. Nxb6 {
+Nd5 is the strong threat.} Qd6 35. Nd5 {[#]} ({White should try} 35. Qa5 $1 $15
+Qe5 36. g5) 35... Bc4 $1 $17 36. f6 {[#]} (36. Qa5 $17) 36... Bxd5 $1 $19 37.
+Qxd3 Be6 38. Kg1 $2 {[#]} (38. Qd2 Qe5 39. Qh6 Qxf6 40. Rf3 Qe5+ 41. Qf4) 38...
+Bc4 $1 {[%cal Rc4d3][%mdl 512]} 39. Qf3 $2 (39. Qa3 Qb6 40. Kh1) (39. Qxc4 Qxg3
+) 39... d3 {Black is clearly winning.} 40. e5 Qxe5 41. Qe3 Re8 {Precision:
+White = 21%, Black = 59%.} 0-1
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.23"]
+[Round "10"]
+[White "Vidit, Santosh Gujrathi"]
+[Black "Kramnik, Vladimir"]
+[Result "1-0"]
+[ECO "E25"]
+[WhiteElo "2695"]
+[BlackElo "2777"]
+[Annotator "TA"]
+[PlyCount "57"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,57,3,4,5,14,8,27,25,12,15,21,29,30,18,30,25,50,52,51,50,87,71,212,
+203,199,216,211,197,412,403,916,930,939,924,874,869,29989,29990]} 1. d4 Nf6 2.
+c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 exd5 8. e3 c4 {
+E25: Nimzo-Indian: Sämisch: 5...c5 6 f3 d5 7 cxd5} 9. Ne2 Nc6 {[%cal Bb8c6,
+Bc6a5,Ba5b3][%mdl 32]} 10. g4 Na5 11. Bg2 Nb3 {LiveBook: 3 Games} 12. Rb1 O-O
+13. O-O b5 14. e4 dxe4 15. fxe4 {[%cal Bf3e4,Be4e5][%mdl 32] White wants to
+play Bg5.} Nxc1 16. Qxc1 {aiming for e5.} Bxg4 17. Nf4 {Threatens to win with
+e5.} Rb8 18. h3 $36 {[%mdl 2048] Black is under pressure.} Bd7 19. e5 {[%mdl
+1024] White has compensation.} Ne8 20. Qe3 {Strongly threatening e6.} Rb6 {[#]}
+21. d5 $1 {[%cal Bd4d5,Bd5d6][%mdl 32]} Nc7 (21... g6 $16) 22. d6 $18 Ne6 23.
+Nd5 Ra6 {[#]} 24. Rf5 $1 Qh4 $2 ({But not} 24... Rxa3 $6 25. Rh5 $14) (24...
+Kh8 {might work better.}) 25. Rbf1 Rxa3 (25... Nd8 $142 26. R1f4 Qh6) 26. Ne7+
+Kh8 27. Rxf7 Rxf7 28. Rxf7 Qh5 {[#]} 29. Qf4 $3 {[%mdl 512] Precision: White =
+95%, Black = 18%.} 1-0
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.23"]
+[Round "10"]
+[White "Van Foreest, Jorden"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2612"]
+[BlackElo "2763"]
+[Annotator "TA"]
+[PlyCount "119"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,119,44,93,83,132,127,111,86,83,77,96,77,79,83,94,79,86,87,87,63,79,
+47,62,56,66,93,54,70,64,56,87,0,202,189,214,136,142,150,109,123,493,498,496,
+495,492,494,481,474,491,467,455,484,479,487,481,474,474,465,461,450,563,564,
+541,570,570,545,566,571,570,570,572,543,533,535,503,495,571,570,570,563,536,
+535,502,481,614,579,568,544,555,537,534,527,496,436,3777,1539,29966,29967,
+12829,12837]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7.
+Nb3 Be6 {B90: Sicilian Najdorf: Unusual White 6th moves, 6 Be3 Ng4 and 6 Be3 e5
+} 8. f4 exf4 9. Bxf4 Nc6 10. Qe2 Be7 11. O-O-O Qc7 {LiveBook: 7 Games} 12. g4 {
+[%cal Bg2g4,Bg4g5][%mdl 32]} O-O $146 ({Predecessor:} 12... Nd7 13. Kb1 O-O 14.
+Qe3 Rfe8 15. Qg3 {1-0 (59) Bok,B (2613)-Barski,R (2346) Warsaw 2016}) 13. g5
+Nd7 14. Qe3 Rac8 15. Kb1 (15. Nd5 $6 Bxd5 16. exd5 Nb4 $11) 15... Rfe8 16. h4 (
+16. Nd5 Bxd5 17. exd5 Bxg5 $15) 16... b5 17. Qg3 ({Much worse is} 17. Nd5 Bxd5
+18. exd5 Bxg5 $15) 17... Nce5 {aiming for ...b4.} 18. Nd4 Nb6 19. Bh3 Bxh3 20.
+Qxh3 Nec4 {White must now prevent ...Nxb2!} 21. Nd5 $36 {[%mdl 2048] White is
+pushing.} Nxd5 22. exd5 Nb6 23. Bc1 Nxd5 24. h5 Bf8 {[#]} 25. g6 $1 {[%mdl 512]
+} h6 (25... fxg6 26. hxg6) 26. Qg2 (26. Qf3 $16 Re5 27. Rde1) 26... Nf6 $2 {[#]
+} (26... Ne3 $11 27. Bxe3 Rxe3) 27. Bxh6 $1 $18 {[%mdl 512]} fxg6 (27... gxh6
+28. gxf7+) 28. Rdf1 (28. Qxg6 Qf7 $14) 28... Qc4 {[#]} 29. Rxf6 $1 {[%mdl 512]}
+Qxd4 (29... gxf6 30. Qxg6+) 30. Rxg6 Kh7 $2 {[%mdl 8192]} (30... Rc7 $16) 31.
+Bc1 {And now h6 would win.} Qe4 {[#]} 32. h6 $3 {[%cal Rh6g7][%mdl 512]} Qxg6
+33. hxg7+ Kxg7 34. Bh6+ Kf7 35. Rf1+ Qf6 36. Qd5+ ({Not} 36. Rxf6+ Kxf6 37. Be3
+Ke6 $16) 36... Ke7 37. Bg5 ({Less strong is} 37. Rxf6 Kxf6 38. Bg5+ Kg6 $16)
+37... Qxg5 38. Rf7+ Kd8 39. Qxg5+ Be7 40. Qd5 Rg8 {( -> ...Rg1+)} 41. a3 Rg1+
+42. Ka2 Re1 43. Qb7 Rxc2 44. Rh7 {White threatens Rh8+ and mate.} Rc7 45. Qxa6
+Re5 46. Rh8+ Kd7 47. Qa8 Bf6 48. Rf8 Bg7 49. Rd8+ Ke7 50. Qb8 Rec5 51. Rg8 Ke6
+52. Qe8+ Kd5 53. Qe2 Be5 54. Rb8 Kc6 55. Qe4+ Kd7 56. Qd3 Kc6 57. Qf3+ d5 (
+57... Kd7 $142 58. Qg4+ Kc6 59. Qf3+ Kd7) 58. Qh5 (58. Qf5 $142 Re7 59. Qg6+
+Kd7 60. Qf5+ Kd6 61. Qg5) 58... d4 59. Qg6+ Bd6 60. Qe4+ {Precision: White =
+79%, Black = 48%.} 1-0
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.25"]
+[Round "11"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "0-1"]
+[ECO "D38"]
+[WhiteElo "2817"]
+[BlackElo "2695"]
+[Annotator "TA"]
+[PlyCount "60"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,60,-4,-7,11,0,8,13,15,0,8,7,11,11,13,0,0,-13,-34,-12,-18,-27,-14,-28,
+-26,-29,-31,-114,-116,-124,-116,-114,-115,-112,-106,-114,-123,-176,-173,-173,
+-166,-192,-195,-189,-193,-194,-201,-672,-661]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4.
+Nc3 Bb4 5. Bg5 h6 6. Bh4 dxc4 7. a3 {D38: Queen's Gambit Declined: Ragozin
+Defence (4 Nf3 Bb4)} (7. e3 b5 8. Be2 Nbd7 9. a4 c6 10. O-O Qb6 11. Qc2 Bb7 12.
+b3 cxb3 13. Qxb3 Bxc3 14. Qxc3 b4 15. Qc2 {1-0 (63) Mamedyarov,S (2799)-Le,Q 
+(2737) Huaian 2017}) 7... Bxc3+ 8. bxc3 {LiveBook: 6 Games} Nbd7 9. e3 {
+The position is equal.} b5 10. a4 $146 ({Predecessor:} 10. Qb1 c6 11. Be2 Qa5
+12. O-O Nd5 13. a4 Nxc3 14. Qe1 Nxe2+ 15. Qxe2 {1/2-1/2 (139) Cichocki,A (2292)
+-Krzywda,A (2186) Szklarska Poreba 2017}) 10... c6 11. Qb1 a6 12. Be2 O-O 13.
+O-O Qe8 14. Re1 Nd5 $36 {[%mdl 2048] Black is more active.} 15. Qc2 Bb7 16. e4
+N5f6 17. Bf1 c5 18. Rab1 Qc8 19. axb5 axb5 20. Rxb5 {[#]} ({White should play} 
+20. e5 $15 Nd5 21. Rxb5) 20... Bxe4 $1 $17 21. Qd2 Bxf3 22. gxf3 Qc6 23. Bxc4
+cxd4 24. Qxd4 Rfc8 25. Rb4 (25. Bd3 $17) 25... Qxf3 $19 26. Bg3 Ra3 27. Rc1 Nd5
+28. Bxd5 exd5 ({Resist} 28... Qxd5 29. Qxd5 exd5 30. Rd1 $17) 29. Rd1 Nf6 ({
+Don't take} 29... Rcxc3 30. Qxd5 Nc5 31. Qxf3 $17) ({But not} 29... Qxc3 30.
+Qxc3 Rcxc3 31. Rxd5 $17) 30. Be5 $2 {[#]} (30. Qd3 Qh5 31. Rb8 Rxb8 32. Bxb8)
+30... Ne4 {Accuracy: White = 31%, Black = 88%.} 0-1
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.25"]
+[Round "11"]
+[White "Giri, Anish"]
+[Black "Shankland, Samuel"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "2783"]
+[BlackElo "2725"]
+[Annotator "TA"]
+[PlyCount "89"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,89,29,29,42,15,19,7,14,16,17,10,12,11,8,0,47,0,13,0,24,32,36,42,51,
+50,50,55,68,35,38,24,34,34,33,0,0,10,0,0,5,-5,-15,0,0,0,0,-8,8,0,0,0,14,14,14,
+14,14,14,14,14,14,14,14,14,14,14,14,14,96,96,96,96,96,96,96,96,96,96,96,96,96,
+96]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Nc3 d6 6. Na4 Qe7 {C50:
+Hungarian Defence and Giuoco Pianissimo} (6... Bb6 7. a3 O-O 8. h3 Be6 9. Bxe6
+fxe6 10. O-O Qe8 11. Nxb6 axb6 12. Bd2 h6 13. g3 d5 14. Qe2 dxe4 15. dxe4 Qg6
+16. Rae1 Qxe4 17. Qxe4 Nxe4 18. Rxe4 Rxf3 19. Bf4 exf4 {1/2-1/2 (31) Motylev,A
+(2661)-Xiong,J (2675) Saint Louis 2018}) 7. a3 Be6 8. Bxe6 Qxe6 {The position
+is equal.} 9. b4 $146 ({Predecessor:} 9. Nxc5 dxc5 10. O-O O-O-O 11. Qe1 c4 12.
+Ng5 Qe7 13. dxc4 Nd4 14. Qa5 Kb8 15. Be3 Nxc2 16. c5 Nxe3 17. c6 {1-0 (17)
+Braun,M (2350)-Pitschka,C Germany 1991}) 9... Bb6 10. O-O O-O 11. c4 Nd7 12.
+Bb2 Nd4 13. Nd2 f5 14. Rc1 c5 (14... c6 {is more complex.} 15. c5 dxc5 16. Nxc5
+Bxc5 17. bxc5 fxe4 18. Nxe4 b5) 15. exf5 Nxf5 16. Ne4 cxb4 17. Nxb6 axb6 18.
+axb4 Qg6 19. Ra1 Rxa1 20. Bxa1 Nf6 21. Nxf6+ Rxf6 22. Qf3 Nh4 $1 {[%cal Rh4f3]}
+23. Qd5+ Kh8 {[#] Hoping for ...Nxg2!} 24. f4 {Strongly threatening Bxe5!} h6
+25. Qe4 ({Don't play} 25. Qxb7 Qxd3 26. Qc8+ Kh7 $15) (25. c5 {seems wilder.}
+bxc5 26. bxc5 Rf5 27. cxd6 exf4 28. Qxb7 Rg5 29. Qa8+) 25... Qxe4 26. dxe4 {
+And now f5 would win.} Rxf4 27. Rxf4 exf4 $11 {[%mdl 4096] Endgame KB-KN} 28.
+e5 dxe5 29. Bxe5 Ng6 30. Bc7 b5 31. cxb5 Kg8 32. Kf2 Kf7 33. Kf3 Nh4+ 34. Kxf4
+Nxg2+ 35. Ke5 {Black must now prevent Kd6.} Ke7 $1 36. Bd6+ Ke8 37. Ke6 g5 38.
+Kf6 Kd7 (38... Nh4 $11) 39. Bf8 $16 {White is better.} Nh4 40. Bxh6 Nf3 41. h3
+Ng1 42. Bxg5 {h4 is the strong threat.} ({Much weaker is} 42. Kxg5 $6 Nxh3+ 43.
+Kg4 Nf2+ 44. Kf5 Kc7 $11) 42... Nxh3 43. Be3 Kd6 44. Kf5 Kd5 {[#]} 45. b6 $1 {
+Accuracy: White = 69%, Black = 67%.} 1-0
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.25"]
+[Round "11"]
+[White "Kramnik, Vladimir"]
+[Black "Van Foreest, Jorden"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "2777"]
+[BlackElo "2612"]
+[Annotator "TA"]
+[PlyCount "131"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,131,-11,-10,-40,-21,-38,-22,-22,-25,-33,-22,-17,-6,-18,-6,-18,-12,-39,
+0,0,0,-12,3,4,39,16,26,0,113,48,177,47,56,50,52,45,45,45,58,54,49,0,0,-24,-15,
+-21,-20,-8,-8,-18,-16,-32,0,0,0,0,0,0,0,0,0,0,0,-13,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,8,6,6,0,0,0,0,0,0,0,288,288,288,169,246,97,191,191,191,191,191,201,29956,
+29946,29970,29971,29968,29965,29966,29958,29976,29977,29977,29978,29979,29978,
+29980,29980,29980,29981,29973,1172,29972,29973]} 1. Nf3 d5 2. g3 Nf6 3. Bg2 c5
+4. O-O Nc6 5. d3 e5 6. Qe1 {A08: King's Indian Attack} (6. e4 d4 7. a4 Be7 8.
+Na3 O-O 9. Nc4 Nd7 10. Nfd2 Nb6 11. f4 exf4 12. gxf4 f5 13. Ne5 Nxe5 14. fxe5
+f4 15. a5 {1-0 (33) Ding,L (2791)-Karjakin,S (2782) Stavanger 2018}) 6... Be7
+7. e4 d4 8. a4 {The position is equal.} O-O 9. Na3 Ne8 $146 ({Predecessor:} 
+9... Be6 10. Ng5 Bd7 11. f4 Ne8 12. Nf3 f6 13. Nc4 Qc7 {1/2-1/2 (48) Gu,T 
+(2197)-Guo,Q (2396) Shenzhen 2017}) 10. Nc4 Qc7 11. b3 b6 12. Bd2 Be6 13. Qe2
+f6 14. Nh4 Nd6 15. f4 Rae8 16. f5 $36 {[%mdl 2048] White has good play.} Bd7
+17. Ng6 Rf7 (17... hxg6 $2 18. fxg6 Nf7 19. Qh5 $18 (19. gxf7+ Rxf7 20. Qh5
+Ref8 $14)) 18. Qh5 Bd8 (18... Nxc4 $11 19. bxc4 Nb4) 19. g4 ({Don't take} 19.
+Nxd6 Qxd6 20. g4 Bc8 $14) (19. Nh8 $16 Rfe7 20. Ng6) 19... Ne7 (19... Nxc4 $14
+20. dxc4 Nb4) 20. Rf3 ({White should play} 20. Nxd6 $18 Qxd6 {[#]} 21. Nh8 $1 {
+[%mdl 576] Deflection} Kxh8 22. Qxf7) 20... Nxg6 $14 21. fxg6 hxg6 22. Qxg6
+Nxc4 23. bxc4 Qc8 24. Rg3 $1 Be6 25. Rf1 Qd7 $1 26. Bf3 Qxa4 27. Bd1 Qd7 $1 ({
+Much weaker is} 27... Kf8 $6 28. g5 $16) 28. Rh3 Kf8 29. Rh7 $1 Ke7 $1 30. Rxg7
+Rxg7 (30... Kd6 {with more complications.} 31. Rxf7 Bxf7 32. Qh6 Rg8 33. h3 Kc7
+) 31. Qxg7+ Kd6 32. Qxd7+ Bxd7 33. Kg2 a5 34. h4 a4 35. Bc1 Be7 36. Kg3 Ra8 37.
+Ba3 Rg8 38. Be2 Bd8 39. h5 Be8 40. Kh3 Rh8 41. Bc1 Be7 42. Bd2 Bd7 43. Kg3 Ra8
+44. Rb1 b5 45. cxb5 a3 {[%cal Ba4a3,Ba3a2][%mdl 32]} 46. b6 {Threatens to win
+with b7.} a2 47. Ra1 {And now b7 would win.} Kc6 48. g5 fxg5 49. Bg4 Be8 $2 {
+[%mdl 8192]} (49... Bxg4 $11 {and Black stays safe.} 50. Kxg4 Kxb6) 50. Be6 $18
+{Black must now prevent Bd5+.} Kxb6 51. Kg4 ({Not} 51. Bxa2 Bxh5 52. Rb1+ Kc7
+$11) (51. h6 $142) 51... c4 (51... Kc7 {is a better defense.}) 52. h6 (52. Bxc4
+$18 {and the rest is easy.} Bd7+ 53. Kg3) 52... cxd3 (52... Bb5 $16) 53. cxd3
+Bb5 54. Rxa2 Rxa2 55. Bxa2 Bxd3 $2 {[%mdl 4096] Endgame KBB-KBB} (55... Bd7+
+$18 56. Kg3 Bf6) 56. Kf5 Bf8 57. h7 Bg7 58. Bxg5 Bc2 59. Bd5 d3 60. Kg6 Bh8 61.
+Kf7 Kc5 62. Kg8 {[%mdl 64] [#] Trapped Piece} Bf6 63. Bxf6 d2 64. h8=Q d1=Q 65.
+Kf7 (65. Qg7 $142 Bb3 66. Qc7+ Kd4 67. Qxe5+ Ke3 68. Qc3+ Kf2 69. Qxb3 Qg4+ 70.
+Kf7 Qh5+ 71. Ke7 Qh7+ 72. Kd6) 65... Bd3 66. Qh2 {Accuracy: White = 58%, Black
+= 48%.} 1-0
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.25"]
+[Round "11"]
+[White "Anand, Viswanathan"]
+[Black "Duda, Jan-Krzysztof"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2773"]
+[BlackElo "2738"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,61,22,8,25,22,19,28,17,28,16,4,36,21,12,29,38,12,20,33,26,18,17,14,
+39,3,3,3,3,0,6,3,3,3,3,3,4,7,43,43,43,43,53,3,7,0]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5
+d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4 c6 9. Re1 Bf5 10. Qb3 Qd7 {
+C42: Petroff Defence: 3 Nxe5 and unusual White 3rd moves} 11. Nc3 Nxc3 12. Bxf5
+Qxf5 {White has an edge.} 13. bxc3 {[#] Strongly threatening c5.} b6 14. Bg5 {
+[#]} f6 $146 ({Predecessor:} 14... dxc4 15. Qxc4 b5 16. Qb3 Nd7 17. a4 a6 18.
+Be7 {1/2-1/2 (18) Svidler,P (2727)-Nisipeanu,L (2678) Baku 2015}) 15. Bh4 dxc4
+16. Qxc4+ Qd5 17. Qe2 b5 18. a4 a6 19. Bg3 Bxg3 20. hxg3 Nd7 21. Qe6+ Qxe6 22.
+Rxe6 Rfc8 23. Rd6 Nb6 24. axb5 axb5 25. Rxa8 Nxa8 $11 {[%mdl 4096] Endgame
+KRN-KRN} 26. d5 cxd5 27. Nd4 h5 28. Rxd5 {[%mdl 64] [#] Double Attack} Nb6 29.
+Rxb5 Na4 30. Nf5 {aiming for Ne7+.} Nxc3 31. Ne7+ {Accuracy: White = 63%,
+Black = 69%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.25"]
+[Round "11"]
+[White "Nepomniachtchi, Ian"]
+[Black "Fedoseev, Vladimir"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2763"]
+[BlackElo "2724"]
+[Annotator "TA"]
+[PlyCount "99"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,99,12,25,11,26,23,36,37,40,27,45,32,50,18,64,58,85,80,93,91,102,89,
+102,108,92,83,96,122,117,110,138,131,131,138,192,86,96,62,64,62,71,58,73,58,63,
+67,69,61,68,40,28,25,27,33,77,65,72,67,61,52,54,55,55,40,136,142,158,154,163,
+157,154,149,272,263,341,252,645,637,583,271,491,489,477,474,462,440,516,516,
+498,498,491,454]} 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. c3 h6 6. Be2 {
+B12: Caro-Kann: Advance Variation} Ne7 7. Nbd2 a5 8. a4 {White is slightly
+better.} Nd7 9. O-O g5 $146 ({Predecessor:} 9... Bg6 10. b4 Nc8 11. bxa5 Rxa5
+12. c4 b6 13. Nb3 Ra8 14. cxd5 cxd5 15. Ne1 Be7 {1/2-1/2 (50) Kosteniuk,A 
+(2559)-Girya,O (2462) Satka 2018}) 10. Ne1 {[%cal Bf3e1,Be1d3,Bd3c5][%mdl 32]}
+Qb6 11. Nd3 Bg7 12. Nb3 O-O 13. Nbc5 Nxc5 14. Nxc5 Qc7 15. f4 gxf4 16. Bxf4 b6
+17. Nd3 c5 18. Qd2 Kh7 19. Be3 Rac8 20. dxc5 bxc5 21. Bxc5 Rfe8 (21... Rg8 $16)
+22. Kh1 (22. Qe3 $18) 22... Ng6 $16 23. Bd4 (23. Bd6 {seems wilder.} Qb6 24.
+Rac1 Qd8 25. Rce1 Qg5 26. Qxg5 hxg5 27. Kg1) 23... Nxe5 24. Nxe5 Bxe5 25. Bxe5
+Qxe5 26. Bd3 Bxd3 27. Qxd3+ f5 28. Rae1 Qg7 29. Qa6 Ra8 30. Qd6 Rad8 $1 {
+[%cal Rd8d6]} 31. Qc5 Ra8 32. Re2 Qd7 33. Rfe1 Ra6 34. h3 Rg8 35. b4 axb4 36.
+cxb4 {[%cal Bc3b4,Bb4b5][%mdl 32] Threatens to win with b5.} d4 (36... Re8 $1
+$14) 37. b5 Rd6 38. b6 d3 39. Rd2 Rd5 40. Qb4 $1 e5 {[#]} (40... Rc8 $16 {
+was necessary.}) 41. Rc1 $1 $18 {[%cal Rc1c7] aiming for Rc7.} Rd4 42. Qa5 {
+Hoping for Rc7.} Rxa4 $2 (42... Rc8 43. Rxc8 Qxc8 44. Qxe5 Re4) 43. Qxe5 {
+And now Rc7 would win.} Re4 {[#]} 44. Qf6 (44. Rc7 Rxe5 45. Rxd7+ Rg7 $16) (44.
+Rxd3 $142 $1 {[%mdl 512]} Rxe5 (44... Qxd3 45. Qxf5+) 45. Rxd7+ Rg7 46. Rxg7+
+Kxg7 47. Rb1) 44... Rg6 $2 {[#]} (44... Re6 {is a better defense.} 45. Qxf5+ (
+45. Rxd3 Qg7 $18) 45... Kh8) 45. Rxd3 $1 {[%mdl 512] White is clearly winning.}
+Rxf6 (45... Qxd3 46. Rc7+) 46. Rxd7+ Kg6 47. Rb1 Rfe6 {If only Black now had
+time for ...Re1+....} 48. Rdd1 Re8 49. b7 Rb8 50. Rd7 {Accuracy: White = 72%,
+Black = 43%.} 1-0
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.25"]
+[Round "11"]
+[White "Radjabov, Teimour"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2757"]
+[BlackElo "2835"]
+[Annotator "TA"]
+[PlyCount "49"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 26,49,7,13,26,6,21,21,50,20,16,0,9,9,18,20,29,0,0,0,0,0,0,0,17,0]} 1. e4
+c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 {[%cal Bd4b5,Bb5a3,
+Ba3c2,Bc2b4,Bb4d5][%mdl 32]} d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6
+11. c3 O-O 12. Nc2 Rb8 13. Be2 Bg5 14. O-O Kh8 {[#] B33: Sicilian: Pelikan and
+Sveshnikov Variations} 15. a3 $146 ({Predecessor:} 15. Bg4 Be6 16. Ncb4 Nxb4
+17. Nxb4 Rb6 18. Bxe6 fxe6 19. a4 a5 20. Nd3 Qc8 21. axb5 Rxb5 22. Qa4 {
+0-1 (36) Kuzmin,G (2546)-Malakhatko,V (2496) Alushta 1999}) 15... Ne7 16. Ncb4
+{next Nxe7 is good for White.} Nxd5 17. Nxd5 Be6 18. Qd3 Qc8 19. Rad1 a5 20.
+Qg3 h6 21. h3 Qc6 {The position is equal.} 22. Qd3 Qd7 23. Qg3 Qc6 24. Qd3 Qd7
+25. Qg3 {Accuracy: White = 54%, Black = 50%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.25"]
+[Round "11"]
+[White "Rapport, Richard"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[ECO "C24"]
+[WhiteElo "2731"]
+[BlackElo "2813"]
+[Annotator "TA"]
+[PlyCount "32"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,32,17,0,0,0,0,0,2,8,20,16,17,17,16,4,14,7,10,6,7]} 1. e4 e5 2. Bc4
+Nf6 3. d3 c6 4. Nf3 d5 5. Bb3 Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2 a5 {C24: Bishop's
+Opening: 2...Nf6} 8. a4 {LiveBook: 5 Games. The position is equal.} (8. a3 Nbd7
+9. O-O a4 10. Ba2 O-O 11. Re1 Re8 12. d4 exd4 13. exd5 Rxe1+ 14. Qxe1 cxd5 15.
+Rb1 {0-1 (64) Aronian,L (2764)-Caruana,F (2816) Paris 2018}) 8... Bg4 9. h3
+Bxf3 $1 10. Qxf3 O-O $146 ({Predecessor:} 10... Na6 11. Qg3 O-O 12. Qxe5 Re8
+13. Qf5 Nc5 14. O-O Nxb3 15. Nxb3 dxe4 16. dxe4 Rxe4 {1/2-1/2 (28) Kadric,D 
+(2554)-Antic,D (2462) Belgrade 2018}) 11. O-O dxe4 12. Nxe4 Nxe4 13. Qxe4 Nd7
+14. Qe3 Re8 15. Rae1 Nf6 16. Re2 e4 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.26"]
+[Round "12"]
+[White "Carlsen, Magnus"]
+[Black "Duda, Jan-Krzysztof"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2835"]
+[BlackElo "2738"]
+[Annotator "TA"]
+[PlyCount "141"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,141,31,37,40,20,16,16,25,16,29,3,10,15,10,0,29,36,76,79,96,81,77,99,
+84,103,87,97,105,73,77,75,109,112,108,110,107,119,115,124,124,122,111,97,93,72,
+89,70,112,112,108,97,121,118,133,122,137,137,129,124,138,129,126,138,120,124,
+135,102,101,78,107,0,12,0,103,74,89,82,98,83,128,68,138,131,179,183,202,210,
+222,210,164,172,212,247,265,271,269,260,250,254,254,261,253,235,335,342,335,
+327,300,297,366,378,370,360,351,354,501,354,347,338,333,331,324,314,4137,4137,
+4137,4137]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bxc4 {
+D24: Queen's Gambit Accepted: 3 Nf3 Nf6 4 Nc3} Nxe4 7. O-O Nf6 8. Qa4+ Nc6 9.
+Ne5 {LiveBook: 4 Games} Rb8 10. Rd1 $146 {Strongly threatening d5.} (10. d5 {
+is interesting.} exd5 11. Nxd5 Nxd5 12. Nxc6 bxc6 13. Qxc6+ Qd7 14. Bxd5 O-O
+15. Bf4) ({Predecessor:} 10. d5 exd5 11. Nxd5 Nxd5 12. Nxc6 bxc6 13. Qxc6+ Qd7
+14. Bxd5 {1/2-1/2 (28) Aronian,L (2764)-Caruana,F (2822) Stavanger 2018}) 10...
+O-O 11. Nxc6 bxc6 12. Qxa7 Bd7 13. Qa4 c5 14. Qc2 cxd4 15. Rxd4 Bc5 16. Rh4 h6
+{[#]} 17. Bxh6 $1 {[%mdl 512]} gxh6 18. Qd2 $36 {[%mdl 2048] White is really
+pushing.} Nh7 19. Qxh6 {[%csl Gh4][%cal Rh6h7]} Bxf2+ 20. Kxf2 {[%csl Gh4]
+[%cal Rh6h7]} Qf6+ 21. Qxf6 {Intending Rg4+ and mate.} Rxb2+ 22. Kg1 {White
+wants to mate with Rg4+.} Nxf6 23. Rf1 Kg7 24. Rf3 {Rg3+ is the strong threat.}
+Rg8 25. Rhf4 Bc6 26. Rxf6 Bxf3 27. Rxf3 Rd8 28. Rf2 Rb4 29. Bb5 Ra8 30. a4 c6
+31. Be2 Ra5 32. Rf3 f5 33. Kf2 Rc5 34. Bd1 e5 35. Ne2 Kf6 36. Ra3 Rb1 37. Ke1
+e4 38. g3 Ke5 39. h4 Ra5 40. h5 c5 41. Kd2 c4 {White must now prevent ...Rd5+.}
+42. Kc2 Rb8 43. Kc3 ({White should play} 43. Nf4 $16) 43... Rb1 $11 44. Kc2 (
+44. Bc2 $11 Re1 45. Kd2) 44... Rb8 $1 $16 45. Kc1 Rb6 46. Bc2 Rd6 47. Nf4 Rc5
+48. Re3 (48. Ra1 $16) 48... Kd4 ({Black should try} 48... Rc8 $14) 49. Re1 {
+And now Rd1+ would win.} Rh6 50. Kd2 Re5 51. Ne2+ Kc5 {[#]} 52. Rh1 $1 Re8 53.
+Kc3 Rg8 54. Rb1 {aiming for Rb5+.} Rxh5 {[#]} 55. Bxe4 $1 {[%mdl 512]} Re8 (
+55... fxe4 56. Rb5+) 56. Nf4 Rg5 57. Rb5+ Kd6 58. Bxf5 Rxg3+ {[#]} 59. Kd4 $1
+Rg1 (59... Ra8 $142 60. a5 Ra3) 60. Rb6+ $18 (60. Kxc4 Rc1+ 61. Kb4 Rf1 $18)
+60... Ke7 61. Ng6+ ({Resist} 61. Kxc4 Ra8) 61... Kf7 62. Ne5+ ({Don't play} 62.
+Kxc4 $6 Rg5 $18) 62... Kg8 63. Nxc4 Ra8 64. a5 Ra1 65. Rb5 Ra7 (65... Rf8 {
+keeps fighting.} 66. Kc3 Kg7) 66. Be4 Rc7 67. Rf5 Kg7 68. Bc2 Rc1 69. Kc3 Rf7
+$2 (69... Rc8 70. Rf4 Rf8) 70. Rxf7+ Kxf7 71. Na3 {Accuracy: White = 80%,
+Black = 53%.} 1-0
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.26"]
+[Round "12"]
+[White "Ding, Liren"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[WhiteElo "2813"]
+[BlackElo "2773"]
+[Annotator "TA"]
+[PlyCount "82"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,82,0,16,0,4,0,4,13,11,-5,4,-1,12,13,10,8,13,10,15,13,13,13,13,13,16,
+12,10,10,16,10,11,14,72,52,66,4,0,9,60,10,987,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,29976,0,29983]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6.
+c3 a6 7. a4 O-O 8. Re1 {C54: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and
+5 d3} h6 9. h3 (9. Nbd2 a5 10. Nf1 Be6 11. Bb5 Na7 12. d4 Nxb5 13. axb5 Bb6 14.
+dxe5 Ng4 15. Be3 Nxe3 16. Nxe3 dxe5 17. Nxe5 {1/2-1/2 (46) Giri,A (2783)
+-Karjakin,S (2753) St Petersburg 2018}) 9... a5 10. Nbd2 {[%cal Bb1d2,Bd2e4,
+Be4g3,Bg3h5][%mdl 32]} Be6 {LiveBook: 15 Games} 11. b3 d5 12. exd5 Nxd5 13. Ne4
+$146 ({Predecessor:} 13. Qc2 Re8 {1-0 (63) Ettrich,R (2307)-Speisser,P (2176)
+ICCF email 2015}) 13... Bb6 14. Ra2 f5 15. Ng3 Qf6 16. Nxe5 Nxe5 17. Nh5 Qf7
+18. Rxe5 Nxc3 19. Rxe6 Nxd1 20. Re7 $1 Rad8 21. Rae2 Nc3 22. R2e5 $1 c6 23.
+Rxb7 Nd5 24. Rxf7 Rxf7 25. Re6 {[#] Strongly threatening Bb2.} Kh7 (25... Rc8
+$11) 26. Rxc6 $16 Re7 {And now ...Re1+ would win.} 27. Bxh6 ({White should play
+} 27. Nxg7 $1 $14 Re1+ 28. Kh2) 27... gxh6 28. Bxd5 $1 Rd6 (28... Re1+ $11 29.
+Kh2 Bxf2) 29. Rxd6 Re1+ 30. Kh2 {Intending Rd7+ and mate.} Bc7 31. g4 Bxd6+ $11
+{[%mdl 4096] Endgame KRB-KBN} 32. Kg2 Kg6 33. Ng3 Bxg3 34. Kxg3 {KR-KB} Rd1 35.
+Bc4 Kf6 36. f3 Rg1+ 37. Kf2 Rh1 38. Kg2 Rd1 39. Kg3 Rg1+ 40. Kf2 fxg4 $2 {
+[%mdl 8192] [#]} (40... Rh1 $11) 41. fxg4 $2 (41. Kxg1 {mates} Ke5 42. hxg4 Kf6
+43. b4 axb4 44. a5 Kg5 45. a6 Kf4 46. Kf2) 41... Ke5 $2 {[%mdl 40960]
+Precision: White = 53%, Black = 55%. . An unexpected result.} (41... Rh1 $11)
+1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.26"]
+[Round "12"]
+[White "Radjabov, Teimour"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[WhiteElo "2757"]
+[BlackElo "2783"]
+[Annotator "TA"]
+[PlyCount "63"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,63,-10,12,-33,-17,-17,-16,-11,-12,-8,-18,-15,0,0,54,42,47,18,56,41,
+83,85,84,87,128,137,131,45,37,51,44,56,77,62,90,102,89,85,88,79,87,95,117,106,
+138,127]} 1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 c6 6. e3 Bf5 7. g4
+Be6 8. h3 Nd7 {D31: Queen's Gambit Declined: Semi-Slav without ...Nf6 (+
+Marshall Gambit and Noteboom) and Exchange Variation lines without ...Nf6} 9.
+Bd3 h5 10. gxh5 Ndf6 {LiveBook: 14 Games. The position is equal.} (10... Ngf6
+11. h6 g6 12. Qd2 b5 13. Nf3 b4 14. Na4 Ne4 15. Bxe4 dxe4 16. Ne5 Nxe5 17. Bxe5
+Rxh6 {1/2-1/2 (41) Bindrich,F (2600)-Michalik,P (2564) Austria 2018}) 11. h6
+Nxh6 12. Qc2 Qd7 13. Nf3 Bf5 14. Ne5 Bxd3 15. Nxd3 Nh5 16. Bh2 $146 Qxh3 ({
+Black should try} 16... Nf5 $11) 17. O-O-O $14 Qf5 18. Qb3 b5 19. f3 $1 O-O 20.
+e4 Qxf3 {Threatens to win with ...b4.} 21. Ne5 Qe3+ 22. Kb1 b4 ({Wrong is} 
+22... dxe4 $2 23. Nd5 $18) 23. Nxc6 (23. Rde1 $1 $16 {[%cal Re1e3]} Qg5 24.
+Reg1) 23... bxc3 24. Nxe7+ Kh7 25. Rhe1 {[%mdl 1024] White has compensation.}
+Qf2 26. Be5 $36 {[%mdl 2048] White has the initiative.} f6 {[#]} 27. Bd6 $1
+Rfd8 28. Bc5 Qxb2+ 29. Qxb2 cxb2 30. exd5 {[%cal Be4d5,Bd5d6][%mdl 32]} Rd7 {
+[#]} 31. d6 $1 Ng3 32. Kxb2 {Accuracy: White = 78%, Black = 42%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.26"]
+[Round "12"]
+[White "Shankland, Samuel"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2725"]
+[BlackElo "2763"]
+[Annotator "TA"]
+[PlyCount "69"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,69,30,50,24,41,28,47,54,60,57,55,56,64,62,68,63,50,58,48,52,60,54,61,
+52,75,57,77,64,69,55,54,39,98,114,177,180,231,207,215,209,178,213,288,281,287,
+286,254,247,346,345,567,551,551,548,641,645,620,615,760,742,717,700]} 1. e4 d6
+2. d4 Nf6 3. Nc3 g6 4. Be3 a6 5. h3 e6 (5... Bg7 6. Nf3 O-O 7. a4 Nc6 8. Be2 e6
+9. O-O b6 10. d5 exd5 11. exd5 Ne7 12. Bc4 Bb7 13. Qd2 Nf5 14. Bf4 Qd7 15. Rfe1
+Rfe8 16. Rxe8+ Rxe8 17. Re1 Rxe1+ 18. Qxe1 {1/2-1/2 (63) Caruana,F (2799)
+-Grischuk,A (2782) Saint Louis 2017}) 6. Bd3 $146 {B07: Pirc Defence:
+Miscellaneous Systems} ({Predecessor:} 6. Be2 b5 7. e5 b4 8. Bf3 c6 9. exf6
+bxc3 10. b3 a5 11. Ne2 d5 12. Nxc3 Bb4 13. Qd2 a4 14. a3 axb3 15. cxb3 Qa5 16.
+Rc1 Qxa3 17. O-O O-O 18. Bh6 Rd8 19. h4 {1/2-1/2 (19) Byrne,M-Bloesl,S (2114)
+ICCF email 2017}) 6... Nbd7 7. Nf3 b5 {[%cal Bb7b5,Bb5b4][%mdl 32]} 8. e5 {
+White is slightly better.} b4 9. Ne4 Nxe4 10. Bxe4 d5 11. Bd3 c5 12. c3 bxc3
+13. bxc3 Qa5 14. Bd2 Qa3 15. Qe2 Bh6 16. Rb1 Bxd2+ 17. Qxd2 c4 18. Bc2 Rb8 19.
+Rxb8 Nxb8 20. h4 {[%cal Bh3h4,Bh4h5][%mdl 32]} h6 (20... Qxa2 $14 21. h5 gxh5)
+21. h5 $16 g5 (21... gxh5 $16 22. Bd1 (22. Rxh5 Qxa2 23. g4 Rg8 $14) 22... Nd7)
+22. Nh2 $18 Nc6 (22... Qxa2 $142 23. O-O Nc6) 23. Ng4 Na7 24. Bd1 Nb5 {[#]} 25.
+Rh3 $1 Bd7 26. f4 gxf4 27. Qxf4 Qf8 28. Qf6 Bc6 (28... Na3 $142 29. Kf1 Bc6)
+29. a4 Na7 $2 (29... Na3 {keeps fighting.} 30. Rf3 a5) 30. Rf3 {White is
+clearly winning.} Nc8 31. Bc2 {[%cal Bd1c2,Bc2g6,Bg6f7][%mdl 32]} Ne7 {[#]} 32.
+Bg6 $1 {[%mdl 512] aiming for Qxe6.} Kd8 (32... fxg6 33. Qxe6) 33. Bxf7 Kc7 34.
+Qxe6 Nc8 35. Qf6 {Accuracy: White = 82%, Black = 53%.} 1-0
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.26"]
+[Round "12"]
+[White "Fedoseev, Vladimir"]
+[Black "Kramnik, Vladimir"]
+[Result "0-1"]
+[ECO "C67"]
+[WhiteElo "2724"]
+[BlackElo "2777"]
+[Annotator "TA"]
+[PlyCount "138"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,138,23,12,19,19,20,15,16,12,0,5,8,-4,23,11,5,7,9,0,0,0,0,0,0,-6,-6,
+-6,-6,-17,-6,-9,-17,-14,0,0,0,0,0,-15,-16,-17,-17,-17,-15,-22,-16,-41,-12,-8,
+-13,-108,-102,-139,-145,-155,-154,-169,-22,-17,-17,-191,-7,-177,-183,-327,-343,
+-312,-332,-337,-337,-313,-306,-331,-277,-619,-388,-339,0,-301,-296,-277,-187,
+-346,-363,-362,-362,-362,-362,-344,260,0,0,-319,-306,-304,-294,-1175,-1046,
+-906,-412,-520,-509,-427,-352,-352,-335,-290,-312,-1484,-29960,-29966,-29967,
+-29968,-29969,-29964,-29966,-29971,-29967,-29970,-29970,-5125,-5125]} 1. e4 e5
+2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8. Rxe5
+O-O 9. d4 Bf6 {C67: Ruy Lopez: Berlin Defence: 4 0-0 Nxe4} 10. Re2 {LiveBook:
+25 Games} Nc4 $146 {[%cal Bd6c4,Bc4b6,Bb6c8,Bc8e7,Be7g6][%mdl 32]} ({
+Predecessor:} 10... Re8 11. c3 Rxe2 12. Qxe2 Nf5 13. Bf4 c6 14. Qc2 d5 15. Bd3
+g6 16. Nd2 Ng7 17. Re1 Bf5 18. Bxf5 Nxf5 19. Nf3 Qd7 20. h3 Re8 {1/2-1/2 (20)
+Aronian,L (2765)-Sargissian,G (2689) St Petersburg 2018}) 11. b3 Nb6 {The
+position is equal.} 12. c3 d5 13. Re1 Re8 14. Rxe8+ Qxe8 15. a4 Be6 16. Na3 {
+[%cal Bb1a3,Ba3c2,Bc2b4][%mdl 32]} Nc8 17. Bf4 Qd7 18. Bd3 c6 19. Nc2 Ne7 20.
+Qd2 Bf5 21. Nb4 Ng6 22. Bg3 Re8 23. a5 h5 24. h3 h4 25. Bh2 Bxd3 26. Nxd3 Qf5
+27. a6 b6 28. Bd6 Bg5 29. Qd1 Qe4 30. Ra2 Qe6 31. Bc7 {[#]} c5 $1 {[%mdl 512]}
+32. Qg4 (32. dxc5 bxc5) 32... Qe7 33. dxc5 bxc5 34. Ba5 (34. Ra1 $1 $11 {
+remains equal.} Bd2 35. Ba5) 34... Ne5 $17 35. Nxe5 Qxe5 36. Ra1 Re6 37. Rd1
+Bd2 (37... Be7 $1 $19 38. f4 Qe4) 38. Qxh4 $11 Rxa6 39. g3 $2 (39. Qd8+ $11 {
+and White stays safe.} Kh7 40. Bc7) 39... f6 $2 (39... Rf6 $1 $19 40. Rf1 (40.
+Qg4 $2 Be1 $19) 40... Bxc3 41. Bxc3 Qxc3) 40. Bc7 $2 (40. Qa4 $1 $11 {and
+White has nothing to worry.}) 40... Qxc7 $19 41. Rxd2 {[%mdl 4096] Endgame
+KQR-KQR} (41. Qh5 $142 Bh6 42. Qxd5+ Kh8 43. h4) 41... Ra1+ 42. Kg2 Qe5 $1 {
+[%cal Re5e1]} 43. Qf4 {aiming for Qxe5.} Qe1 {[%csl Ga1][%cal Re1h1]} 44. Kf3
+Qh1+ $1 45. Kg4 Re1 46. Qd6 $2 (46. f3 Re5 47. h4) 46... Qe4+ 47. Qf4 {White
+wants to play Qxe4.} Qh1 $2 (47... f5+ $1 $19 48. Kh4 g5+ $1 {[%mdl 576] Decoy}
+49. Kxg5 Qe7+ 50. Kh5 Qe8+ 51. Kg5 Qe7+ 52. Kh5 Qe8+ 53. Kg5 Re6 54. Qxf5 Re5
+55. Rxd5 Qe7+ 56. Kf4 Rxf5+ 57. Rxf5 Qe1) 48. f3 $2 {[%mdl 8192]} (48. Qd6 $1
+$11) 48... Re5 49. h4 a5 50. Rd3 $2 (50. Rf2 {was worth a try.}) 50... Kf7 $1
+51. Qd2 {[#]} Kg6 $1 52. Re3 {[#] Strongly threatening Rxe5.} Rg5+ $1 {[%mdl
+512]} 53. Kf4 (53. hxg5 Qh5+) 53... Rf5+ 54. Kg4 {[#] Threatening mate with
+Qd3.} Rg5+ $1 $40 {[%mdl 640] Black mounts an attack.} 55. Kf4 {[#]} (55. hxg5
+Qh5+) 55... Qh3 $1 {[%csl Gg5][%cal Rh3g3][%mdl 512]} 56. g4 Qxh4 {[%csl Gg6]
+[%cal Rg5f5]} 57. Qc2+ $2 (57. Re2 Rf5+ 58. Ke3 Qh6+ 59. Kd3 Rxf3+ 60. Kc2)
+57... Kf7 {( -> ...Rf5+!)} 58. Re2 g6 (58... Qh3 $142 {White must now prevent .
+..Rxg4+.} 59. Ke3 Rxg4) 59. Qd1 Re5 60. Rxe5 Qh2+ 61. Ke3 Qxe5+ {[%mdl 64]
+Double Attack. KQ-KQ} 62. Kd3 d4 {Hoping for ...Qe3+.} 63. Qd2 $2 (63. Kc2 f5
+64. g5) 63... dxc3 64. Qxc3 Qxc3+ 65. Kxc3 {KP-KP} Ke6 66. Kc4 Kd6 67. f4 Kc6
+68. f5 gxf5 69. gxf5 Kd6 {Accuracy: White = 45%, Black = 68%.} 0-1
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.26"]
+[Round "12"]
+[White "Vidit, Santosh Gujrathi"]
+[Black "Rapport, Richard"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[WhiteElo "2695"]
+[BlackElo "2731"]
+[Annotator "TA"]
+[PlyCount "82"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,82,28,26,28,25,23,21,29,20,22,14,0,1,0,0,-3,-5,0,114,115,112,114,122,
+115,119,118,127,124,218,200,215,216,210,161,147,124,128,127,122,127,185,151,
+650,645,645,645,645,609,671,675,452,100,125,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,
+0,0,0,0,0]} 1. d4 Nc6 2. Nf3 d5 3. c4 Bg4 4. Nc3 e6 5. e3 Nf6 6. Qb3 {D07:
+Queen's Gambit: Chigorin Defence} (6. Qa4 Bxf3 7. gxf3 Bb4 8. Bg2 dxc4 9. a3
+Bxc3+ 10. bxc3 O-O 11. f4 Nd5 12. Qxc4 Na5 13. Qa2 c5 {1-0 (55) Korobov,A 
+(2700)-Morozevich,A (2711) Poikovsky 2015 CBM 169 [Schulz,André]}) 6... Bxf3 7.
+gxf3 Rb8 8. a3 $146 ({Predecessor:} 8. f4 Bb4 9. Bg2 O-O 10. O-O Bxc3 11. Qxc3
+dxc4 12. Qxc4 Nd5 13. Bd2 f5 {1/2-1/2 (57) Bertrem,S (2152)-Zaragatski,I (2329)
+Vlissingen 2003}) 8... Be7 9. f4 O-O 10. Qc2 Qd7 11. Rg1 Na5 12. cxd5 exd5 13.
+b4 Nc4 {[#]} (13... Nc6 $11 {remains equal.}) 14. Nxd5 $1 $16 {[%mdl 512]} Nxd5
+(14... Qxd5 15. Bxc4) 15. Bxc4 Bh4 16. f5 Rfe8 {Strongly threatening ...Nxe3.}
+17. Kf1 {[%cal Be1f1,Bf1g2,Bg2h3][%mdl 32]} Nf6 18. f3 $1 {Black must now
+prevent Qg2.} Qc6 {[#]} (18... Re7 $16 {was necessary.} 19. Qd3 Rd8) 19. Kg2 $1
+$18 Rbd8 20. b5 Qd7 21. Kh3 g5 22. e4 Qxd4 23. Bxg5 Bxg5 24. Rxg5+ Kh8 (24...
+Kf8 $16 {keeps fighting.} 25. Rag1 Re7) 25. Rag1 Nxe4 $2 (25... Qe3 $16 26. Qb2
+(26. Bxf7 Qxf3+ 27. R5g3 Qxe4 $14) 26... Rd4 27. Bxf7 Qxf3+ 28. R1g3 Qf1+ 29.
+Qg2 Qxg2+ 30. Kxg2 Rf8) 26. fxe4 Rxe4 27. Bxf7 {Intending Rg8+ and mate.} Rh4+
+28. Kg2 {aiming for Kh1.} Qf6 29. Kh1 {Rg8+ would kill now.} Qxf7 {[#]} 30. Qg2
+$2 (30. Qc5 $1 $18 {[%cal Rc5e5] and the rest is easy. White threatens Qe5+
+and mate.} Re4 31. Rg7 (31. Qxa7 Qd5 $11)) 30... Rhd4 $16 31. f6 (31. Rg7 $16
+Qd5 32. Rxc7) 31... Rd1 $11 32. Qf3 Rxg1+ 33. Rxg1 {Hoping for Rg7.} Qd5 34.
+Qxd5 Rxd5 {[%mdl 4096] Endgame KR-KR} 35. f7 {[%cal Rf7f8]} Rd8 36. Rc1 a6 37.
+bxa6 bxa6 {The position is equal.} 38. Rxc7 Kg7 39. Ra7 Rd1+ 40. Kg2 Rd2+ 41.
+Kg1 Rd1+ {Precision: White = 59%, Black = 58%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.26"]
+[Round "12"]
+[White "Van Foreest, Jorden"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[WhiteElo "2612"]
+[BlackElo "2817"]
+[Annotator "TA"]
+[PlyCount "80"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,80,34,38,28,30,45,45,36,41,45,47,58,12,37,3,3,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,24,0,0,0,0,0,8,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4
+c6 2. Nf3 g6 3. d4 Bg7 4. Bd3 d6 5. O-O Nf6 6. Re1 O-O 7. Nbd2 {[%cal Bb1d2,
+Bd2f1,Bf1g3][%mdl 32]} Qc7 {B07: Pirc Defence: Miscellaneous Systems} 8. c3 e5
+9. h3 Nbd7 10. Nf1 Re8 (10... Nh5 11. Be3 Re8 12. Qd2 Nf8 13. Rad1 b5 14. c4 {
+1/2-1/2 (104) Zubov,A (2597)-Nepomniachtchi,I (2763) St Petersburg 2018}) 11.
+Ng3 {LiveBook: 3 Games} b6 12. Bg5 h6 13. Bd2 $146 ({Predecessor:} 13. Be3)
+13... Bb7 14. a4 Rad8 15. Qc1 Kh7 16. b4 d5 17. dxe5 (17. exd5 {seems wilder.}
+Nxd5 18. Nf5 Nf4 19. Nxg7 Nxd3 20. Nxe8 Rxe8 21. Qb1) 17... Nxe4 18. Bf4 Nxe5
+19. Nxe5 Bxe5 20. Bxe5 Rxe5 21. Qf4 f5 22. f3 $1 g5 23. Qe3 f4 24. Qf2 $1 fxg3
+25. Qxg3 Kg7 26. fxe4 d4 27. cxd4 Rxd4 28. Rf1 c5 29. bxc5 bxc5 30. Rab1 {
+[#] Hoping for Rxb7!} Bc6 31. Rf5 Re7 {The position is equal.} 32. e5 {aiming
+for Rxg5+!} Qd8 $1 33. Rxg5+ hxg5 34. Qxg5+ Kh8 $1 35. Qh6+ Kg8 36. Qg6+ Rg7
+37. Qe6+ Rf7 (37... Kh8 $5 38. Qh6+ $8 Kg8 39. Qe6+ Kh8 40. Qh6+ Kg8 41. Qe6+
+$11) 38. Bh7+ Kxh7 (38... Kg7 $5 39. Qg6+ $8 Kh8 40. Qxf7 Rd7 $11) 39. Qxf7+
+Kh8 {[#] And now ...Rd1+ would win.} 40. Rb8 $1 {[%mdl 512]} Qxb8 {Precision:
+White = 79%, Black = 77%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.27"]
+[Round "13"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Fedoseev, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[WhiteElo "2817"]
+[BlackElo "2724"]
+[Annotator "TA"]
+[PlyCount "38"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,38,15,17,22,0,0,0,0,0,0,0,16,0,0,0,0,-11,0,0,0,0,0,0,0,0,0,0,0]} 1.
+e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. f4 {The position
+is equal.} Be7 {B84: Sicilian Scheveningen: 6 Be2 a6, lines without early Be3}
+8. g4 (8. Be3 O-O 9. g4 d5 10. e5 Nfd7 11. g5 Nc6 12. Qd2 Nxd4 13. Bxd4 b5 14.
+Rg1 Bc5 15. Bxc5 Nxc5 16. Qd4 Qb6 17. Rg3 {1/2-1/2 (32) Anand,V (2771)
+-Artemiev,V (2706) Douglas 2018}) 8... d5 9. e5 Nfd7 {[%cal Bf6d7,Bd7e5,Be5f3,
+Bf3d2][%mdl 32]} 10. g5 $146 ({Predecessor:} 10. Be3 Qb6 11. a3 Qc7 12. h4 b5
+13. h5 b4 14. axb4 Bxb4 15. Qd2 {1-0 (31) Redolfi,A-Van Antwerpen,G
+Netherlands 1991}) 10... Qb6 11. a3 h6 12. Be3 hxg5 13. f5 $1 {[%cal Rf5e6] [#]
+fxe6 is the strong threat.} Nxe5 14. Nxe6 Qxe3 15. Nxd5 {[%cal Rd5c7]} Nf3+ 16.
+Kf1 {[%cal Rd5c7]} Nd2+ 17. Ke1 Nf3+ $1 18. Kf1 {[%cal Rd5c7] [#]} Nd2+ 19. Ke1
+Nf3+ $1 {Accuracy: White = 50%, Black = 81%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.27"]
+[Round "13"]
+[White "Giri, Anish"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2783"]
+[BlackElo "2835"]
+[Annotator "TA"]
+[PlyCount "59"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 28,59,25,23,28,0,6,0,7,-14,-19,-21,-19,-72,-64,-51,-36,-36,-31,-33,-23,
+-75,-73,-125,-33,-95,-98,-96,-94,-95,-99,-99,-96,-95]} 1. e4 c5 2. Nf3 Nc6 3.
+d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 {[%cal Bd4b5,Bb5a3,Ba3c2][%mdl 32]} d6 7.
+Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 Rb8 13. Be2 O-O
+14. O-O Kh8 {B33: Sicilian: Pelikan and Sveshnikov Variations} 15. Bg4 {
+[#] LiveBook: 3 Games} Bb7 $146 ({Predecessor:} 15... Be6 16. Bxe6 fxe6 17.
+Ndb4 Rb6 18. Nxc6 Rxc6 19. Nb4 Rc4 20. Nxa6 Qb6 21. Nb4 Rxe4 22. a4 bxa4 23.
+Rxa4 {0-1 (46) Tonndorf,M (2219)-Sanchez,J (2529) Milan 2013}) 16. Ncb4 Nxb4 {
+The position is equal.} 17. cxb4 g6 18. a4 bxa4 19. Rxa4 Bc6 20. Be2 (20. Rxa6
+$11 Bb5 21. Ra7) 20... Bxa4 $17 21. Qxa4 f5 22. exf5 Rxf5 {aiming for ...e4.}
+23. Bd3 Rf8 24. Qxa6 (24. Bxa6 $11 {keeps the balance.} Bd2 25. g3) 24... Bd2
+25. Qc4 (25. b5 $142) 25... Qc8 (25... Rc8 $17 26. Qe4 Rc1) 26. Qe4 {[#]} (26.
+b5 $1 $15) 26... Bxb4 $1 {[%mdl 512] Black is better.} 27. Nxb4 Rf4 28. Qc6
+Rfxb4 29. Qxd6 Qf8 ({Worse is} 29... Rxb2 30. Qxe5+ Kg8 31. Re1 $16) 30. Qxe5+
+{Precision: White = 21%, Black = 76%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.27"]
+[Round "13"]
+[White "Kramnik, Vladimir"]
+[Black "Shankland, Samuel"]
+[Result "0-1"]
+[ECO "A11"]
+[WhiteElo "2777"]
+[BlackElo "2725"]
+[Annotator "TA"]
+[PlyCount "132"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,132,7,0,-7,14,15,4,4,17,12,31,22,75,75,72,78,70,70,76,74,102,78,78,37,
+56,29,20,33,19,-18,-48,-27,-18,-30,-27,-89,-70,-66,-64,-85,-96,-118,-31,-134,
+-61,-104,-97,-93,-89,-93,-64,-114,-4,-28,-4,-6,-6,-6,-6,-6,-6,-6,0,-26,-17,-56,
+-52,-51,41,34,39,48,48,8,24,37,41,8,8,0,0,-47,-52,-60,0,0,0,0,0,-1,-1,-31,-42,
+-103,-103,-145,-145,-106,-83,-238,-83,-51,-57,-621,-599,-964,-500,-307,0,-943,
+-922,-931,-743,-1302,-1168,-2089,-2407,-2200,-2034,-29987,-29988,-29988,-29989,
+-29989,-29990]} 1. c4 c6 2. Nf3 d5 3. g3 g6 4. Qa4 d4 (4... dxc4 5. Qxc4 Bg7 6.
+Bg2 e5 7. d3 Ne7 8. h4 h6 9. Nc3 Be6 10. Qa4 Nf5 11. Ne4 Na6 12. Bd2 {1/2-1/2 
+(31) Gordievsky,D (2615)-Paravyan,D (2629) Moscow 2018}) 5. Bg2 Bg7 6. d3 {
+A11: English Opening: 1...c6} Nd7 7. O-O Nh6 $146 ({Predecessor:} 7... e5 8.
+Re1 Ne7 9. Na3 Nc5 10. Qd1 {1/2-1/2 (32) Pham,M (2354)-Rajlich,I (2407)
+Budapest 2002}) 8. Nbd2 {The position is equal.} O-O 9. b4 e5 10. c5 a6 (10...
+f5 $11) 11. Nc4 $16 f6 12. Qb3 Nf7 13. e3 dxe3 14. Bxe3 Kh8 15. Rae1 Re8 16.
+Na5 Re7 17. d4 e4 $1 {[%cal Re4f3]} 18. Nd2 f5 19. d5 cxd5 20. Qxd5 Qe8 21. c6
+({Wrong is} 21. Nxb7 $2 Nf6 $19) 21... Nf6 22. Qc5 (22. Qb3 $1 $11 {keeps the
+balance.}) 22... bxc6 $17 23. Ndc4 Be6 24. Rc1 Bd5 {...Nd7 is the strong
+threat.} 25. Bd4 Rb8 (25... Nd7 $17 26. Bxg7+ Kxg7 27. Qd4+ Nde5 28. Nxe5 Nxe5)
+26. a4 (26. Ne3 $15) 26... Re6 (26... Nd7 $17 27. Bxg7+ Kxg7 28. Qd4+ Nde5) 27.
+Nb6 Bf8 $1 {[%cal Rf8c5]} 28. Qc3 Kg8 29. Nac4 Nd7 {Strongly threatening ...
+Bxc4.} 30. a5 Nd6 (30... Bxc4 $1 $17 31. Qxc4 Nde5 32. Qxa6 Bxb4) 31. Nxd6 $11
+Bxd6 (31... Rxd6 {keeps more tension.} 32. Rfd1 Bh6 33. Rb1 Nxb6 34. axb6 Rbd8)
+32. Rfd1 Nxb6 33. axb6 Be5 34. Bxe5 Rxe5 35. Qe3 Qf7 36. Ra1 Qb7 37. Qd4 Re7
+38. b5 cxb5 ({Black should try} 38... Qxb6 $15 39. Qxb6 Rxb6 40. bxa6 Ra7) 39.
+Qxd5+ $14 Qxd5 40. Rxd5 Rxb6 41. Rd8+ Kf7 42. Ra8 Ree6 43. Ra7+ Kf6 $1 44. Rxh7
+b4 {[%cal Bb5b4,Bb4b3][%mdl 32] aiming for ...Rec6.} 45. Rc7 b3 {And now ...
+a5! would win.} 46. Bf1 {[#]} Rec6 (46... a5 $1 $15 {[%mdl 512]} 47. Rc4 (47.
+Rxa5 b2) 47... Re7) 47. Rxc6+ $11 Rxc6 {[%mdl 4096] Endgame KRB-KR} 48. Rb1 Rb6
+{White should prevent ...a5.} 49. Bc4 b2 50. Ba2 a5 {[%cal Ba6a5,Ba5a4,Ba4a3]
+[%mdl 1056] [#] Black has compensation.} 51. Kf1 (51. f3 $1 $15) 51... a4 $17
+52. Ke2 a3 53. Kd2 Rc6 54. h4 $2 (54. Re1 $17) 54... Ke5 $2 (54... Kg7 $19 {
+and Black stays clearly on top.} 55. Rg1 Kf6) 55. Re1 Kd4 56. Bb1 $2 {[%mdl
+8192]} (56. Rd1 $15) 56... Rc3 $19 57. Rh1 {[#]} Rd3+ $1 {[%mdl 512]} 58. Kc2 {
+intending Rd1.} (58. Bxd3 exd3) 58... Rc3+ $2 (58... Kc4 59. Ba2+ Kd4) 59. Kd2
+{White hopes to continue with Rd1.} Rf3 60. Ke2 {[#]} Rd3 $1 {[%mdl 512]} 61.
+h5 {[#]} (61. Bxd3 exd3+) 61... gxh5 $1 {[%mdl 512]} 62. Ke1 (62. Rxh5 Rc3)
+62... Rc3 {( -> ...Rc1+)} 63. Kd2 {[#]} f4 $1 {[%cal Bf5f4,Bf4e3][%mdl 544]}
+64. Ba2 (64. gxf4 Rc1) 64... e3+ {Black mates.} 65. fxe3+ fxe3+ 66. Ke2 Rc2+ {
+Accuracy: White = 39%, Black = 54%.} 0-1
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.27"]
+[Round "13"]
+[White "Anand, Viswanathan"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2773"]
+[BlackElo "2695"]
+[Annotator "TA"]
+[PlyCount "60"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,60,17,25,22,17,18,17,17,17,17,17,10,12,11,11,13,15,13,25,0,0,2,33,0,
+0,0,0,0,0,0,0,-15,0,-8,0,-4,-4,-2,-3,-22,0,0,0,-34,0,-2,0]} 1. e4 e5 2. Nf3 Nf6
+{[%cal Bg8f6,Bf6e4,Be4d6][%mdl 32]} 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bf5
+7. O-O Be7 8. Re1 O-O 9. Nbd2 {[%cal Rd2e4] C42: Petroff Defence: 3 Nxe5 and
+unusual White 3rd moves} Nd6 $1 10. Nf1 (10. Bxf5 Nxf5 11. c3 c6 12. Qb3 Nd6
+13. Nf1 Nd7 14. Bf4 Nb6 15. Re2 f6 16. Rae1 Rf7 {1/2-1/2 (25) Anand,V (2771)
+-Duda,J (2739) Batumi 2018}) 10... c6 11. Bf4 {[#] Bxd6 is the strong threat.}
+Bxd3 12. Qxd3 Na6 {[%cal Bb8a6,Ba6c7,Bc7e6][%mdl 32]} 13. Ne3 {[#]} Nc7 $146
+14. Rad1 Ne6 15. Bxd6 Bxd6 16. g3 Re8 17. c4 dxc4 18. Qxc4 Qc7 (18... Qf6 $5 {
+[%cal Rf6f3]} 19. Kg2 Qg6 $11) 19. Qa4 b5 20. Qc2 Bf8 21. Ng4 Rad8 22. Re5 h6
+23. Re3 Rd6 24. Nge5 Red8 25. Rc1 $36 {[%cal Re5c6][%mdl 2048] Black is under
+pressure.} Nxd4 26. Nxd4 Rxd4 27. Qb3 Rb4 28. Qc3 Rbd4 29. Qb3 Rb4 30. Qc3 Rbd4
+{Accuracy: White = 62%, Black = 58%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.27"]
+[Round "13"]
+[White "Nepomniachtchi, Ian"]
+[Black "Radjabov, Teimour"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2763"]
+[BlackElo "2757"]
+[Annotator "TA"]
+[PlyCount "45"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 24,45,24,20,21,17,31,29,25,22,24,19,31,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 e5
+2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8. Rxe5
+O-O 9. d4 Bf6 10. Re1 Re8 {C67: Ruy Lopez: Berlin Defence: 4 0-0 Nxe4} 11. c3
+Rxe1 12. Qxe1 Nf5 13. Bf4 {LiveBook: 12 Games} d6 14. Nd2 Be6 15. Ne4 Be7 {[#]}
+16. Qd2 $146 ({Predecessor:} 16. Bd3 Nh4 17. Qe2 Ng6 18. Bd2 {1/2-1/2 (40)
+Solak,D (2607)-Fedoseev,V (2674) Dubai 2015}) 16... c6 17. Bd3 Qd7 18. Ng5 Bxg5
+{The position is equal.} 19. Bxg5 h6 20. Bf4 g5 21. Bxf5 Bxf5 22. Bg3 d5 23.
+Re1 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.27"]
+[Round "13"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[WhiteElo "2738"]
+[BlackElo "2813"]
+[Annotator "TA"]
+[PlyCount "69"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 30,69,12,15,23,22,30,25,18,31,29,22,41,40,36,39,42,41,40,39,42,31,33,24,
+29,29,24,25,29,20,22,20,21,21,21,20,23,4,12,0,0,-8]} 1. e4 e5 2. Nf3 Nc6 3. Nc3
+Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8. exd5 O-O 9. O-O cxd5 10.
+Qf3 c6 11. Bg5 Bd6 12. Rae1 Rb8 13. Nd1 h6 {C47: Scotch Four Knights and Four
+Knights with 4 g3} 14. Bxf6 Qxf6 15. Qxf6 gxf6 16. b3 {LiveBook: 49 Games} Kg7
+(16... Be6 17. Ne3 Bb4 18. Rd1 Rfe8 19. Nf5 Bxf5 20. Bxf5 Re5 21. f4 {1/2-1/2 
+(30) Wei,Y (2734)-Yu,Y (2759) Hangzhou 2018}) 17. Ne3 Re8 18. Nf5+ Bxf5 $1 19.
+Bxf5 Re5 20. Bd3 $146 ({Predecessor:} 20. g4 Rbe8 21. Rxe5 fxe5 22. Bd7 Rd8 23.
+Bxc6 Rc8 24. Bxd5 Rxc2 25. a4 Bc5 26. Kg2 {1/2-1/2 (26) Adams,M (2245)-Dos
+Santos,M (2411) ICCF email 2012}) 20... Bb4 21. Re3 Rxe3 22. fxe3 $14 {[%mdl
+4096] Endgame KRB-KRB} Re8 23. Rf3 Bc5 24. Kf2 Re5 25. g4 h5 26. gxh5 Rxh5 27.
+h3 Re5 28. Ke2 a5 29. Kd2 Bb4+ 30. c3 Bc5 31. Ba6 Bb6 32. Bc8 c5 33. Rf5 Kg6
+34. Rxe5 fxe5 35. Bb7 {Accuracy: White = 63%, Black = 76%.} 1/2-1/2
+
+[Event "81st Tata Steel Masters 2019"]
+[Site "Wijk aan Zee"]
+[Date "2019.01.27"]
+[Round "13"]
+[White "Rapport, Richard"]
+[Black "Van Foreest, Jorden"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2731"]
+[BlackElo "2612"]
+[Annotator "TA"]
+[PlyCount "41"]
+[EventDate "2019.01.12"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins+Direct encounter"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 22,41,0,0,149,158,154,156,164,147,151,182,187,204,187,181,205,198,472,
+475,468,468]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. Qa4+ Nbd7 6. e4 a6 7.
+Bxc4 Rb8 8. Qc2 {D23: Queen's Gambit Accepted: 3 Nf3 Nf6 sidelines} b5 9. Bd3
+Bb7 10. Bf4 Rc8 11. d5 exd5 12. O-O-O {LiveBook: 3 Games} d4 $146 (12... Nc5 $1
+$11 {remains equal.}) ({Predecessor:} 12... Nc5 13. Nxd5 Nxd5 14. exd5 Nxd3+
+15. Rxd3 Be7 {1/2-1/2 (24) Tregubov,P (2612)-Van Wely,L (2687) Warsaw 2005})
+13. Nxd4 $16 Nh5 14. Be3 c5 15. Nf5 g6 16. Be2 Ng7 17. Nd6+ Bxd6 18. Rxd6 Qe7
+19. Rhd1 Bc6 $2 {[#]} (19... Nb8 {was called for.} 20. Bg4 Ne6) 20. Rxd7 $1 $18
+{[%mdl 576] Deflection} Bxd7 21. Nd5 1-0
+

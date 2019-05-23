@@ -1,0 +1,71 @@
+[Event "URS-ch58"]
+[White "Shirov, Alexei"]
+[Black "Nikolenko, Oleg"]
+[Date "1991"]
+[Annotator "Nagesh Havanur"]
+[WhiteElo "2610"]
+[BlackElo "2450"]
+[ECO "C11"]
+[Result "1-0"]
+
+
+1. e4 e6 2. d4 d5 {The French Defence that Shirov himself was to play with
+Black in later years} 3. Nc3 Nf6 {The classical system} 4. e5 ( 4. Bg5 Be7
+5. e5 Nfd7 6. Bxe7 ( 6. h4 Bxg5 7. hxg5 Qxg5 8. Nh3 {is the
+Alekhine-Chatard Attack.} ( 8. Nb5 $5 {deserves attention.} ) )  6... Qxe7
+{is the other branch of the Classical system.} )  4... Nfd7 5. Nce2 {The
+Steinitz Variation. The knight vacates c3 so that the d-pawn would be
+supported by c2-c3 in the event of...c7-c5.} ( 5. f4 c5 {is the other
+line.} )  5... c5 6. c3 Nc6 7. f4 b5 $5 {Among other things Black prepares
+to undermine White's pawn chain with ...b5-b4. He also plans to gain space
+on queenside with...a7-a5 and activate his bishop bringing him to a6.} (
+{Here}  7... Qb6 {is the main line.} ) (  7... Be7 {preparing...0-0
+followed by f7-f6 also deserves attention.} ) 8. a3 {This idea of Lanka was
+a novelty at the time.} ( 8. Nf3 {was more usual then.} )  8... a5 {This
+move could have waited.} (  8... Rb8 {is probably better.} ) (  8... cxd4
+9. Nxd4 Nxd4 10. cxd4 b4 11. a4 a5 12. Nf3 Be7 {the older line is about
+level.} ) 9. Nf3 b4 $2 {Vaganian, a great expert on the French thought,
+this move was fundamentally wrong as it freed White's hands in the centre.}
+( {It's too late for}  9... Be7 {now as} 10. f5 {is strong. On}  10... exf5
+{there follows} 11. Nf4 $16 ) ( {On}  9... Ba6 10. f5 exf5 11. Nf4 Nb6 12.
+Nh5 {Black is forced to castle on the queenside. This is a bit dangerous as
+Black has exposed himself with advanced pawns. } ) ( {Vaganian recommended}
+ 9... Rb8 {Going by tournament practice, Black has done well in this line.}
+10. f5 Be7 11. Nf4 exf5 12. Nxd5 O-O $11 ) 10. axb4 cxb4 11. f5 $1  11...
+exf5 ( {If}  11... Nb6 12. Nf4 Qc7 13. fxe6 Bxe6 14. Nxe6 fxe6 15. Ng5
+{followed by 16.Bb5 with a winning attack.} ) 12. Nf4 Nb6 13. Bb5 Bb7 ( 
+13... Bd7 {loses to} 14. e6 fxe6 15. Bxc6 Bxc6 16. Nxe6 $18 ) ( {Or}  13...
+Qc7 14. c4 $1 $18 ) 14. e6 $5 {The youthful Latvian cannot wait.} ( {After}
+14. Nh5 $1 {followed by 0-0, White has an overwhelming position and
+attack.} )  14... Bd6 (  14... fxe6 $2 15. Nxe6 $18 {White follows up with
+0-0 and Black monarch finds no haven for safety.} ) ( {Or}  14... f6 $2 15.
+Ne5 $1  15... fxe5 16. Qh5 Ke7 17. Qf7 Kd6 18. Qxb7 Qc7 19. Bxc6 Qxc6 20.
+dxe5 Kc5 21. Qf7 $18 ) 15. exf7+ Kxf7 16. O-O Re8 17. Nxd5 $1 {"Into the
+line of fire"!}  17... Bxh2+ $1 {Resourceful play that deserved a better
+fate.} 18. Kxh2 Qxd5 19. c4 $3  19... Nxc4 20. Ng5+ Kg6 $1 {The brave king
+ventures out as he has no wish to perish in a corner.} ( {Three great
+tactical minds, Tal, Vaganian and Shirov tried to save Black's position
+with}  20... Kg8 { Sadly, it doesn't.} 21. Rxf5 $1  21... N4e5 $5 {An
+imaginative attempt that fails by a whisker.} (  21... Qxf5 $4 22. Bxc4 Kh8
+23. Qh5 h6 24. Nf7 $18 ) 22. Qh5 h6 23. dxe5 hxg5 24. b3 $1  24... Rxe5 25.
+Bc4 Qxc4 {Now Shirov misssed the sober} ( {Or}  25... Rxf5 26. Bxd5 Rxd5
+27. Bb2 Rd2 28. Rf1 $1  28... Rxb2 $4 29. Qf7 Kh7 30. Rh1 $1 $18 ) 26. bxc4
+Rxf5 27. Bb2 $1 {In the long run White should prevail. } ( {He had probably
+taken into account only} 27. Bxg5 $2  27... Ne5 $1 {followed by 28...Rc8
+giving Black the upper hand.} ) ) 21. Bxc4 Qxc4 22. Qf3 {Shirov had
+sacrificed the c-pawn to deflect the Black queen from d5.}  22... Rf8 $2
+{This plausible move loses. } ( {He still had a draw with}  22... Ne7 $1
+23. Qg3 $1 ( 23. Qxb7 Qxf1 24. Qb6 Kh5 25. Ne6 Ra6 $1 26. Nxg7 Kg4 27. Qc7
+Qf2 28. Nxe8 ( {Not} 28. Qe5 $2  28... Rc8 $1 29. Qxe7 Rxc1 30. Rxc1 Rh6
+$19 {A beautiful variation-NSH} )  28... Qh4 $11 {Draw by perpetual check.}
+)  23... Qxf1 24. Ne4 Kf7 25. Bh6 $1 {"White is a rook down and all his
+pieces are hanging,but I still believed his chances were better until Fritz
+4 found the truely astonishing}  25... Qf4 $3 (  25... gxh6 $2 26. Nd6 $1 
+26... Kf8 27. Rxf1 $18 ) 26. Bxf4 Bxe4 27. Be5 Rg8 {when the position is
+about equal"-Shirov. There is a still a lot of play left, though.} ) 23.
+Qg3 Qxf1 24. Ne6+ Kf7 25. d5 $1  25... Rg8 26. Qc7+ Kg6 27. dxc6 Bc8 28.
+Nf4+ Kf6 29. Qd6+ Kf7 30. Qd5+ Kf8 31. Be3 {and Black resigned. If }  31...
+Qxa1 32. Bc5 {and Black would be mated. Shirov was inspired by Tal and
+Damsky book in Russian, "Into the line of fire" and years later named his
+own book of games. "Fire on Board". } 
+1-0

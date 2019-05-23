@@ -1,0 +1,146 @@
+[Event "Rotterdam sim"]
+[Site "Rotterdam"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Bronstein, David I"]
+[Black "Comp Chesscard"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2445"]
+[Annotator "Nastasio,Davide"]
+[PlyCount "59"]
+[EventDate "1990.??.??"]
+[EventType "simul"]
+[EventRounds "1"]
+[EventCountry "NED"]
+[SourceTitle "EXT 2002"]
+[Source "ChessBase"]
+[SourceDate "2001.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2001.11.25"]
+[SourceQuality "1"]
+
+1. d4 e6 2. Nf3 d5 3. c4 Nf6 4. Nc3 Be7 5. Qc2 O-O 6. e4 {Attacking the centre,
+and posing Black the question what is going to do about it...} dxe4 {Take with
+a pawn, with the knight, or not at all? Already a human could think for a few
+minutes on this move.} 7. Nxe4 Nxe4 8. Qxe4 {And at the end of the exchanges
+only one player is standing in control of the centre. Once more we see how the
+programmers still didn't know how to convey such knowledge to the program.}
+Nd7 $6 (8... c5 $1) 9. Bd3 {Developing and attacking, hoping that Black moves
+the pawns and creates more weaknesses that White can attack.} Nf6 10. Qe2 (10. Qh4 {
+this was a possible alternative.} Re8 (10... Nd5 11. Qxh7#) 11. O-O c5 12.
+Be3 $11) 10... c5 11. dxc5 Qa5+ {Probably the engine considered this move a
+way to centralise the rook, thanks to freeing the d8 square.} 12. Bd2 Qxc5 13.
+Bc3 {Two bishops, like snipers, aiming at the enemy king.} Rd8 {Maybe the
+programmers told the chess program to control as many squares as possible.} 14.
+O-O Bd7 $6 15. Ne5 {The knight is already aiming at f7. White is placing all
+his pieces near the enemy king...a coincidence?} Rac8 16. Rad1 Ba4 17. b3 Bc6 $6
+18. b4 Qb6 19. a3 Ba4 {The problem is: even if Black has the control of the d-file,
+but no way to actually enter in the enemy territory, then it is useless.} 20. Rc1 Qc7 21. Rfe1 {Black is oblivious to what is to come...I guess the engine didn't learn from Tal's games!} Bf8 22.
+Bb1 b6 23. Qf3 a6 24. Qh3 h6 {White, like an annoying mosquito, finally had
+Black create a weakness he can exploit. Here we can learn how a top-player
+like Bronstein exploits a small weakness like the h6 pawn, and creates a devastating
+kingside attack.} 25. Qe3 Qb7 $6 (25... Be8 {Probably Black needed to amass
+troops to defend the king pronto.}) 26. h4 (26. f4 {Modern engines indicate this is the move
+White should have played.}) 26... Be7 $6 {Not a good idea! Before f7 was
+protected by the queen, now she cannot see f7 anymore...} 27. g4 Ne8 $4 {
+and the game is over! Here the engine evaluation went from a +1.2 advantage for
+White to over +7!} 28. Nxf7 $1 Kxf7 {and here immediately my engine sees a
+checkmate in 6 moves.} 29. Qxe6+ Kf8 30. Bh7 1-0
+
+[Event "The Hague AEGON"]
+[Site "The Hague"]
+[Date "1991.??.??"]
+[Round "3"]
+[White "Bronstein, David I"]
+[Black "Comp Fritz"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "2460"]
+[Annotator "Nastasio,Davide"]
+[PlyCount "57"]
+[EventDate "1991.04.??"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "NED"]
+[SourceTitle "EXT 2002"]
+[Source "ChessBase"]
+[SourceDate "2001.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2001.11.25"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. Nf3 dxc4 5. e4 b5 6. a4 Ba6 $2 {Maybe the
+engine didn't have a good opening book.} (6... b4 $11) 7. axb5 $1 cxb5 8. Ne5
+$6 $11 Bb4 $2 $16 9. Bxc4 $1 Bxc3+ $6 10. bxc3 bxc4 11. Rxa6 $6 $11 (11. Qa4+
+$1 Nd7 12. Nxd7 Qxd7 13. Qxa6 $16) 11... Nxa6 12. Qa4+ Kf8 13. Ba3+ Ne7 $11 14.
+Nc6 Qb6 15. O-O (15. Bxe7+ Kg8 16. O-O h6 {And now Black has found a way to
+connect the rooks.} 17. d5 Kh7 18. Qxc4 Rhc8 19. Qd3 Nc5 20. Qf3 f6 $11) 15...
+g6 $2 $16 {This creates a complex of weak dark squares which can be exploited
+by White's queen and bishop.} 16. Bxe7+ Kg7 17. Ne5 Qb7 18. Nd7 {By this point
+there is no doubt over who is winning. Black's army is totally passive, not
+creating checkmate threats or having passed pawns advance.} Rhc8 $4 (18...
+Rhd8 19. Bf6+ Kg8 20. Ne5 Nc7 21. Bxd8 Rxd8 22. Qxc4 {White is clearly better,
+but this was a better way to play compared to how it went down in the game.})
+19. Bf6+ Kg8 20. Be5 {White has a decisive advantage and it is not based on
+material.} f5 21. Nf6+ Kf7 22. Nxh7 Nb8 23. d5 exd5 24. Ng5+ $6 (24. exf5 $1
+Nc6 (24... gxf5 25. Qd1 Kg6 26. Nf6 Rh8 27. Nxd5 Rh6 28. Qf3 Nc6 29. Qg3+ Kh7
+30. Nf6+ Kh8 31. Ng4+ Nxe5 32. Qxe5+ Qg7 33. Nxh6 {White wins.}) 25. fxg6+ Kg8
+26. Nf6+ Kg7 27. f4 Nxe5 28. fxe5 Rh8 29. Qd1 {White is winning.}) 24... Kg8
+25. exf5 gxf5 26. Qd1 Re8 $4 27. f4 d4 28. Qh5 Rxe5 29. fxe5 1-0
+
+[Event "Palo Alto rap"]
+[Site "Palo Alto"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Bronstein, David I"]
+[Black "Comp Deep Thought II"]
+[Result "0-1"]
+[ECO "B30"]
+[WhiteElo "2465"]
+[PlyCount "85"]
+[EventDate "1992.??.??"]
+[EventType "match (rapid)"]
+[EventRounds "18"]
+[EventCountry "USA"]
+[SourceTitle "EXT 2003"]
+[Source "ChessBase"]
+[SourceDate "2002.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2002.11.25"]
+[SourceQuality "1"]
+
+1. e4 c5 2. b4 cxb4 3. d4 d5 4. exd5 Qxd5 5. Nf3 Nc6 6. c4 bxc3 7. Nxc3 Qa5 8.
+Bd2 e6 9. Bc4 Bb4 10. Qc2 Nf6 11. O-O O-O 12. a3 Bxc3 13. Bxc3 Qc7 14. Rac1 Qd6
+15. a4 Rd8 16. Rfd1 Nb4 17. Qb2 Nbd5 18. Bd2 Bd7 19. a5 Ba4 20. Re1 Rd7 21. Ra1
+Bc6 22. Ne5 Rc7 23. Nxc6 Qxc6 24. Rec1 Rac8 25. a6 b6 26. Be2 Qd6 27. Bf3 Rc4
+28. Qb5 Qc7 29. g3 Qc6 30. Qb3 Kh8 31. Be2 Rxc1+ 32. Rxc1 Qd7 33. Rxc8+ Qxc8
+34. Bd3 h6 35. Qb5 Ne8 36. Kf1 Nd6 37. Qa4 Kg8 38. h4 Qc7 39. Bf4 Nxf4 40. gxf4
+Qc3 41. Ke2 b5 42. Qc2 Qxd4 43. Qc7 0-1
+
+[Event "Palo Alto rap"]
+[Site "Palo Alto"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Comp Deep Thought II"]
+[Black "Bronstein, David I"]
+[Result "1-0"]
+[ECO "C36"]
+[BlackElo "2465"]
+[PlyCount "43"]
+[EventDate "1992.??.??"]
+[EventType "match (rapid)"]
+[EventRounds "18"]
+[EventCountry "USA"]
+[SourceTitle "EXT 2003"]
+[Source "ChessBase"]
+[SourceDate "2002.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2002.11.25"]
+[SourceQuality "1"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Nc3 exf4 5. Nf3 Bd6 6. d4 Ne7 7. dxc6 bxc6 8.
+Bc4 O-O 9. Ne4 Bc7 10. O-O Nf5 11. Qd3 Nd7 12. Nfg5 Nf6 13. Nxf7 Rxf7 14. Ng5
+Nd5 15. Nxf7 Kxf7 16. Bxf4 Kg8 17. Bxc7 Qxc7 18. Rxf5 Bxf5 19. Qxf5 Rd8 20. Rf1
+Qe7 21. c3 g6 22. Qf6 1-0
+

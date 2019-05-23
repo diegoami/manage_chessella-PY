@@ -1,0 +1,87 @@
+[Event "FIDE World Rapid-ch Open 2018"]
+[Site "St. Petersburg"]
+[Date "2018.12.28"]
+[Round "13.24"]
+[White "Guseinov, Gadir"]
+[Black "Sarana, Alexey"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "2664"]
+[BlackElo "2618"]
+[Annotator "Thorsten Cmiel"]
+[PlyCount "67"]
+[EventDate "2018.12.19"]
+[EventType "swiss"]
+[EventCountry "RUS"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 0,67,16,28,46,46,82,56,45,66,38,41,40,22,22,4,-12,-12,-12,42,16,7,61,24,
+114,19,5,-19,27,-103,-64,-64,-57,-57,-56,-56,-49,-30,-27,-27,-27,-27,-31,-31,8,
+14,10,6,34,35,18,86,18,0,111,113,95,26,288,288,575,564,564,579,1581,29988,
+29989,29990,29995,29996]} 1. e4 c5 2. Nc3 d6 3. d4 cxd4 4. Qxd4 Nc6 ({After} 
+4... Bd7 {play might transpose to other lines, e.g.} 5. b3 Nc6 6. Qd2 g6 7. Bb2
+Bg7 8. O-O-O Nf6 9. f3 Rc8 10. Kb1 O-O 11. g4 a6 12. h4 h5 13. gxh5 Nxh5 14.
+Nge2 Qa5 {with roughly equal chances. Both sides still have to prepare their
+attacks. 1-0 (33) Gutenev,A (2456)-Kryakvin,D (2588) St. Petersburg 2018}) (
+4... Nf6 5. b3 g6 (5... e5 6. Qd2 Be7 7. Bb2 O-O 8. O-O-O a6 (8... Nc6 9. Kb1
+a6 10. f3 b5 11. Nge2 Be6 12. g4 Rc8 13. h4 Nb4 14. a3 Nc6 15. g5 Nd7 16. Nd5
+$16 {0-1 (50) Iljiushenok,I (2533)-Teterev,V (2486) St. Petersburg 2018}) 9. f3
+Be6 10. Kb1 Nbd7 {A new idea: Black refrains from "winning a tempo" with an
+early Nc6 and instead puts the knight to d7.} 11. g4 b5 12. g5 Ne8 13. h4 Nb6
+14. Bh3 {1-0 (35) Gabrielian,A (2499)-Teterev,V (2486) St. Petersburg 2018} (
+14. f4 $142 $1 {The engines are enthusiastic after this move. And indeed - the
+black pieces lack coordination - and there is no knight who is ready to jump
+to e5 after Black takes on e5.} exf4 15. Nd5 a5 16. Nxf4)) 6. Bb2 Bg7 7. O-O-O
+O-O 8. f3 Nc6 9. Qd2 Bd7 10. g4 Qa5 11. Kb1 Rfc8 12. h4 h5 13. g5 Ne8 14. Nge2
+Nc7 15. Nf4 e6 16. a3 Nd4 17. Qe3 Ndb5 (17... e5 $142 18. Qf2 $5 Nxc2 19. Nxg6
+$13) 18. Bxb5 Bxb5 19. Rh2 Be5 20. Rhd2 Be8 21. Nfe2 Nb5 22. Nxb5 Bxb5 23. Nd4
+$16 {½- (72) ½ (72) Iljiushenok,I (2533) -Abdusattorov,N (2546) St.
+Petersburg 2018}) (4... a6 5. b3 Nc6 6. Qd2 Nf6 7. Bb2 e6 8. O-O-O Be7 9. f4
+O-O 10. Nf3 (10. g4 $1 {[#] is known from an earlier rapid game, Xu, Xiangyu 
+(2581) - Liu, Yan. Renato Qunintilain extensively analysed the pawn sacrifice
+and he believes in the chances of White.}) 10... Qa5 11. Kb1 Rd8 12. Bd3 Nb4
+13. a3 Nxd3 14. cxd3 Qb6 15. Ka2 Bd7 16. g4 a5 17. g5 Ne8 18. f5 a4 19. b4 exf5
+20. Nd5 Be6 21. Nd4 Bxd5+ 22. exd5 Nc7 23. Nxf5 Nxd5 24. Bxg7 Rac8 25. Bb2 Bf8
+26. Rhg1 Qb5 27. Rdf1 Rc7 28. Ka1 Rdc8 29. Nh6+ Bxh6 30. gxh6+ Kf8 31. Qg5 Ke8
+32. Rf5 {1-0 (32) Gabrielian,A (2499)-Zubritskiy,A (2442) St. Petersburg 2018})
+5. Qd2 {[#] The Carlsen move. White wants to continue with b3 and Bb2 and to
+castle queenside.} e6 (5... g6 6. b3 Bh6 $5 (6... Bg7 7. Bb2 Nf6 8. O-O-O O-O
+9. Kb1 a6 (9... a5 10. a4 Nb4 11. f3 Be6 12. g4 Rc8 13. Nge2 Nd7 14. Nf4 Nc5
+15. Nxe6 Nxe6 16. h4 Nd4 17. Bc4 Nxf3 18. Qe3 Ne5 19. Be2 Qc7 20. h5 Qc5 21.
+Qd2 Nf3 22. Bxf3 Bxc3 23. hxg6 fxg6 24. Qxc3 Rf7 25. Be2 e6 {0-1 (25)
+Danielyan,V (2220)-Sakaev,K (2584) St. Petersburg 2018}) 10. f3 b5 11. g4 b4
+12. Nd5 Nxd5 13. Bxg7 Nc3+ 14. Bxc3 bxc3 15. Qxc3 Bd7 16. h4 Qb6 17. h5 g5 18.
+Nh3 h6 19. f4 Bxg4 20. Rd2 Qa5 21. Qxa5 Nxa5 22. fxg5 Bxh3 23. Bxh3 hxg5 24.
+Rd5 Nc6 25. Rxg5+ Kh7 26. Rhg1 Ne5 27. R1g3 Kh6 28. c4 a5 29. c5 a4 30. cxd6
+exd6 31. Rf5 f6 32. Bf1 axb3 33. axb3 Rab8 34. Kb2 Rb4 35. Bd3 d5 36. exd5 Rd4
+37. Bc4 Nxc4+ 38. bxc4 Rxc4 39. Rg6+ Kh7 40. Rfxf6 Rb8+ 41. Rb6 Rxb6+ 42. Rxb6
+Rc5 43. d6 Kg7 44. h6+ Kh7 45. Kb3 Rc1 46. Kb4 Rd1 47. Kc5 {1-0 (47) Andreikin,
+D (2719)-Amonatov,F (2614) St. Petersburg 2018}) 7. f4 f5 (7... Nf6 8. Bb2 O-O
+(8... e5 9. g3 O-O 10. O-O-O) 9. O-O-O a5 10. a4 Nb4 11. Kb1 Bg4 12. Be2 Rc8
+13. Bxg4 Nxg4 14. Nf3 Qb6 15. Rhe1 Nf6 16. h3 Rfd8 17. g4 d5 18. exd5 Nfxd5 19.
+Nxd5 Rxd5 20. Qe2 Rxd1+ 21. Rxd1 Rxc2 22. Qxe7 Rxb2+ 23. Kxb2 Bg7+ 24. Kb1 Bf6
+25. Qe8+ Kg7 26. g5 Nd5 27. gxf6+ Nxf6 28. Qb5 Qf2 29. Qd3 Qg2 30. Ne5 Ne4 31.
+Nc4 Kh6 32. Qe3 Ng3 33. f5+ g5 34. f6 Nf5 35. Qd3 Nh4 36. Ne5 Qh2 37. Nxf7+ Kh5
+38. Qxh7# {1-0 (38) Iljiushenok,I (2533)-Demchenko,A (2679) St. Petersburg 2018
+}) 8. Bb2 Nf6 9. O-O-O fxe4 10. Kb1 Qa5 11. Bc4 Rf8 12. Nge2 (12. h3 Bd7 13. g4
+d5 14. Bxd5 Bxf4 15. Qxf4 (15. Qg2) 15... Nxd5) 12... Bg4 13. h3 Bxe2 14. Qxe2
+Bxf4 15. Nxe4 Be5 (15... Nxe4 16. Qxe4 Be5 $11) 16. Nxd6+ $5 {Looks good but
+does not win.} (16. Bc3 $142) 16... exd6 17. Rxd6 Nd7 18. Rd5 (18. Bxe5 Ndxe5
+19. Rhd1 Rf5 {my engine evaluates this position with 0.00. Okay.}) 18... Qc7
+19. Bb5 O-O-O 20. Bxc6 Qxc6 21. Rxe5 Nxe5 22. Bxe5 $17 {0-1 (83) Andreikin,D 
+(2719)-Firouzja, A (2607) St. Petersburg 2018}) 6. b3 Nf6 7. Bb2 d5 8. exd5
+exd5 9. O-O-O Be6 10. Nf3 Qa5 11. Nd4 (11. Nb5 Bb4 12. Qf4 Qxa2 $5 13. Bd3 (13.
+Nc7+ Kd7 14. Nxa8 (14. Nxe6 $5) 14... Bd6 $1 15. Qa4 Qxa4 16. bxa4 Ne4 17. Bxg7
+Rxa8 18. Bd3 Nxf2 19. Bxh7 $11) 13... O-O {probably requires some further
+research.}) 11... Bb4 12. Nxe6 fxe6 13. Qe3 Kf7 14. Kb1 d4 15. Rxd4 Nxd4 16.
+Qxd4 Rhd8 {[#] Black is clearly better but in the game he went astray with his
+rook and drifted into a clearly worse position.} 17. Qe3 Bxc3 18. Bxc3 Rd1+ 19.
+Kb2 Qb6 20. Qf3 Rad8 21. g3 R8d5 22. Bc4 Rxh1 23. Qxh1 Rh5 24. f4 Qc6 25. Qd1
+b5 26. Bxf6 Rxh2 27. Bc3 bxc4 28. Qd4 Kg6 $4 (28... Ke8 {was still sufficient
+for equality. With the king on e8 queen and bishop do not cooperate as good as
+they did in the game.}) 29. f5+ $1 exf5 30. Qxg7+ Kh5 31. Qxh7+ Qh6 32. Qxf5+
+Qg5 33. g4+ Kh6 34. Qf8+ 1-0
+

@@ -1,0 +1,38 @@
+[Event "3rd Sharjah Masters 2019"]
+[Site "Sharjah UAE"]
+[Date "2019.03.22"]
+[Round "1.4"]
+[White "Panda, Sambit"]
+[Black "Inarkiev, Ernesto"]
+[Result "0-1"]
+[ECO "D85"]
+[WhiteElo "2218"]
+[BlackElo "2692"]
+[Annotator "Sagar Shah"]
+[PlyCount "96"]
+[EventDate "2019.03.22"]
+
+{[%evp 0,96,28,17,30,-4,55,37,49,46,65,22,31,21,28,11,55,50,61,64,64,53,53,38,
+44,10,17,0,19,-12,-1,7,-3,-11,-13,-29,-37,-40,-19,-66,-65,-82,-81,-71,-87,-75,
+-76,-90,-61,-79,-26,-35,-24,-22,-17,-29,-24,-44,-48,-48,-46,-109,-91,-73,-86,
+-90,-93,-88,-120,-190,-162,-130,-165,-187,-195,-188,-190,-197,-199,-210,-215,
+-215,-237,-245,-212,-215,-205,-200,-200,-241,-213,-252,-253,-254,-242,-254,
+-270,-267,-208]} 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Na4 {This move
+has a very specific idea. White wants to push away the knight on d5 with e4,
+avoiding the capture of the knight on c3. Also the knight on a4 keeps an eye
+on the c5 square.} e5 (5... Bg7 {is the main move, but Inarkiev goes for
+something active.}) 6. dxe5 Bb4+ 7. Bd2 Ne3 $5 {This move has already been
+played in 53 games with Aronian also haveing tried it with black.} 8. fxe3
+Bxd2+ 9. Qxd2 Qh4+ 10. g3 Qxa4 {Computers are very happy with White's position
+and give an advantage of nearly a pawn. But this is not true. Practically
+White's position is not so easy to play with these tripled pawns.} 11. Qd4 (11.
+Bg2 O-O 12. Nf3 Nc6 13. O-O $14 {Definitely leads to a position which is
+slightly better for White.}) 11... Qa5+ 12. b4 Qa4 13. e6 f6 (13... O-O $5) 14.
+Bg2 (14. Qxf6 Qxb4+ $19) 14... Nc6 15. Bxc6+ Qxc6 16. Nf3 Qxe6 {Black has been
+able to restore the material balance and slowly took over.} 17. O-O O-O 18.
+Rfd1 Re8 19. Kf2 Bd7 20. Qd5 Re7 21. Rac1 c6 22. Qxe6+ Bxe6 23. a3 Kf7 24. Nd4
+Bd5 25. a4 a5 26. b5 cxb5 27. Nxb5 Bc6 28. Rc5 Re5 29. Rxe5 fxe5 30. Nd6+ Ke6
+31. Nc4 Bxa4 32. Rd6+ Ke7 33. Rd5 b5 34. Nxe5 b4 35. Nc4 b3 36. Ke1 Rc8 37. Nb2
+Rc1+ 38. Kf2 Bd7 39. Re5+ Kd6 40. Rxa5 Rc2 41. Nd3 b2 42. Ra6+ Kc7 43. Nxb2
+Rxb2 44. Rf6 Kd8 45. Rf7 h5 46. Rf6 Bf5 47. Kf3 Ke7 48. Ra6 Rb4 0-1
+

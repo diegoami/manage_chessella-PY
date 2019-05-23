@@ -1,0 +1,34 @@
+[Event "Paris-ch 91st"]
+[Site "Paris"]
+[Date "2016.07.09"]
+[Round "1"]
+[White "Mohammad, Fahim"]
+[Black "Kambrath, Yannick"]
+[Result "1-0"]
+[ECO "E16"]
+[WhiteElo "2244"]
+[BlackElo "2376"]
+[Annotator "Tactical Analysis 2.10 (5s)"]
+[PlyCount "49"]
+[EventDate "2016.??.??"]
+
+{[%evp 17,49,27,77,34,103,20,40,14,44,30,112,80,105,40,73,43,59,42,132,93,128,
+128,383,383,383,383,384,374,486,486,489,460,571,595]} 1. d4 Nf6 2. Nf3 e6 3. c4
+Bb4+ 4. Bd2 c5 5. g3 b6 6. Bg2 Bb7 7. O-O O-O 8. Bxb4 cxb4 9. Nbd2 a5 (9... d6
+$11) 10. Qc2 $16 {E16: Queen's Indian: 4 g3 Bb7 5 Bg2 Bb4+} (10. Re1 d6 11. e4
+Nfd7 12. Qe2 Na6 13. e5 dxe5 14. Nxe5 Bxg2 15. Kxg2 Nxe5 16. Qxe5 Nc7 17. a4 {
+1/2-1/2 (17) Lemos,D (2538)-Shirov,A (2698) Buenos Aires 2012}) 10... Qc7 ({
+Better is} 10... d6 $14) 11. Rac1 (11. e4 $16) 11... d6 $11 12. e4 {White is
+slightly better.} e5 13. c5 $146 ({Predecessor:} 13. Rfe1 Nbd7 14. Qd3 Rac8 15.
+Nf1 Rfe8 16. N3d2 exd4 17. Qxd4 {0-1 (50) Farago,I (2475)-Schmittdiel,E (2420)
+Dortmund 1988}) 13... Rc8 (13... bxc5 $1 $11 14. dxe5 dxe5) 14. Nc4 $1 $16 {
+[%cal Rc4d6]} bxc5 {[#]} 15. dxe5 (15. Nxd6 $1 $16 {[%mdl 512]} Qxd6 16. dxe5
+Bxe4 17. exd6 Bxc2 18. Rxc2) 15... Bxe4 $14 16. exd6 Qb7 17. Qd1 $36 {[%mdl
+2048] White fights for an advantage.} Nc6 {[#]} (17... Re8 $14) 18. d7 $1 {
+[%mdl 512]} Rd8 {[#]} (18... Qxd7 19. Nb6) 19. Nd6 $1 {[%csl LRb7,LRc5][%cal
+Rd6b7][%mdl 64] Discovered Attack} Qc7 $2 {[%mdl 8192]} (19... Qxd7 $16 {
+was called for.} 20. Nxe4 Nxe4) 20. Nxe4 $18 {[%mdl 64] Overworked Piece} Nxe4
+21. Qd5 Nf6 22. Qxc5 Ra6 23. Nd4 {White is clearly winning.} ({But not} 23. Qc4
+Qb6 $18) 23... Nxd7 24. Qc4 Ndb8 25. Nxc6 {Accuracy: White = 73%, Black = 22%.}
+1-0
+

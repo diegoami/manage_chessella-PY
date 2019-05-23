@@ -1,0 +1,252 @@
+[Event "US-ch Open 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.20"]
+[Round "1.1"]
+[White "Sevian, Samuel"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2642"]
+[BlackElo "2828"]
+[Annotator "TA"]
+[PlyCount "86"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,86,8,11,0,0,2,10,7,6,11,4,0,4,-7,0,-7,0,-5,-8,-8,8,8,7,7,7,0,0,0,0,0,
+0,-7,0,-14,-14,-12,-7,-18,-16,-12,-19,-8,0,0,0,0,0,0,0,-7,0,-7,-7,-7,0,-7,-7,
+-7,-7,-7,-7,-7,-7,-7,-7]} 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5
+6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c4 b4 12. Nc2 a5 {
+The position is equal.} 13. g3 {B33: Sicilian: Pelikan and Sveshnikov
+Variations} O-O 14. Bg2 g6 15. O-O Bg7 16. Qd3 Be6 17. a3 $146 ({Predecessor:} 
+17. b3 Ra7 18. Rfd1 Rb7 19. a3 bxa3 20. Rxa3 Qb8 {1/2-1/2 (39) Larsen,L (2448)
+-Vaclav,J (2481) ICCF email 2009}) 17... bxa3 18. Qxa3 Qb8 19. Rfd1 Ra7 {
+[%cal Ba8a7,Ba7b7,Bb7b3][%mdl 32]} 20. b3 Rb7 21. Rab1 Nd4 22. Nxd4 exd4 23.
+Bf1 h5 24. Bd3 h4 25. Qxa5 Rxb3 26. Qd2 Bxd5 27. exd5 Bf6 28. Qc2 Rxb1 29. Rxb1
+Qa7 30. Qd2 Kg7 31. Qf4 Qa3 32. Qe4 Rh8 33. Rb7 {[#] Threatening mate with
+Qxg6+.} Qc1+ 34. Bf1 hxg3 35. hxg3 Rh5 36. Rb1 Qc3 37. Rd1 Be5 38. Bd3 Qb2 {
+White must now prevent ...Bxg3!} 39. Qe2 Qb8 40. Rb1 Qc8 41. Qf3 Bf6 42. Re1
+Re5 43. Rxe5 Bxe5 {Accuracy: White = 52%, Black = 72%.} 1/2-1/2
+
+[Event "US-ch Open 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.20"]
+[Round "1.2"]
+[White "Nakamura, Hikaru"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[WhiteElo "2746"]
+[BlackElo "2762"]
+[Annotator "TA"]
+[PlyCount "64"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,64,18,28,12,38,8,25,21,16,15,20,9,27,20,18,18,39,33,26,18,25,25,48,1,
+39,30,48,48,48,48,56,56,56,56,57,57,57,57,57,0,51,0,49,0,47]} 1. d4 Nf6 2. c4
+e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Ne5 Nc6 8. Bxc6 bxc6 9. Nxc6
+Qe8 10. Nxe7+ Qxe7 11. Qa4 e5 12. dxe5 {E05: Open Catalan: 5 Nf3 Be7} Qxe5 13.
+Re1 $146 ({Predecessor:} 13. Nc3 Ne4 14. Qxc4 Nxc3 15. bxc3 Be6 16. Bf4 Bxc4
+17. Bxe5 c6 18. Rfe1 Rfe8 19. Bd4 Bxe2 {1/2-1/2 (28) Meier,G (2628)-Giri,A 
+(2782) Dortmund 2018}) 13... Be6 14. Nc3 {White has an edge.} Ne4 15. Qc2 {
+[#] Bf4 is the strong threat.} Nxc3 16. Qxc3 Qxc3 17. bxc3 Rab8 18. f3 Rfd8 19.
+Bf4 Rb2 20. Rad1 (20. Kf2 {looks sharper.} f6 21. Bxc7 Rdd2 22. a4 Kf7 23. Bf4)
+20... Rxd1 21. Rxd1 $11 {[%cal Rd1d8][%mdl 4096] [#] Endgame KRB-KRB} h5 22.
+Rd8+ ({Much worse is} 22. Bxc7 Rxe2 23. a4 Re3 $17) 22... Kh7 23. Rd2 Rxd2 24.
+Bxd2 {KB-KB} Kg6 25. Kf2 Bh3 26. Bf4 c6 27. a4 {[%cal Ba2a4,Ba4a5][%mdl 32]}
+Kf5 28. a5 a6 29. Ke3 Bf1 30. Kf2 Bh3 31. Ke3 Bf1 $1 32. Kf2 Bh3 {Accuracy:
+White = 58%, Black = 52%.} 1/2-1/2
+
+[Event "US-ch Open 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.20"]
+[Round "1.3"]
+[White "Shankland, Samuel"]
+[Black "Robson, Ray"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[WhiteElo "2731"]
+[BlackElo "2667"]
+[Annotator "TA"]
+[PlyCount "97"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,97,23,20,14,20,19,18,18,25,24,25,19,12,11,11,11,14,11,15,10,16,18,20,
+20,22,21,24,16,20,15,30,26,42,15,29,8,17,22,23,5,5,0,0,0,12,8,11,0,1,1,6,7,4,8,
+16,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1.
+d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bh5 6. g4 {D11: Slav Defence: 3 Nf3
+sidelines and 3...Nf6 4 e3 Bg4} (6. Nc3 e6 7. g4 Bg6 8. Ne5 Nbd7 9. Nxg6 hxg6
+10. g5 Ne4 11. Nxe4 dxe4 12. Qb3 Qb6 13. h4 Bb4+ 14. Ke2 c5 15. Bg2 f5 16. gxf6
+gxf6 {1-0 (57) Nihal,S (2576)-Vitiugov,N (2719) St Petersburg 2018}) 6... Bg6
+7. Ne5 e6 8. Nd2 Nbd7 9. h4 dxc4 10. Bxc4 Nxe5 11. dxe5 Ne4 {...h5 is the
+strong threat.} 12. h5 Nxd2 13. Bxd2 Bd3 14. Qb3 Bxc4 15. Qxc4 Qd5 $146 16.
+Qxd5 cxd5 17. Ke2 Be7 18. e4 O-O-O 19. Be3 Kb8 20. Kd3 b6 21. Rac1 Rd7 22. Rc2
+Rc8 23. Rxc8+ Kxc8 $11 {[%mdl 4096] Endgame KRB-KRB} 24. f4 dxe4+ {The
+position is equal.} 25. Kxe4 Rc7 26. Rh2 Kd7 27. b3 Ke8 28. f5 Rc3 29. Kd4 Rc6
+30. Kd3 Rc7 31. Rf2 Bb4 32. f6 gxf6 33. exf6 Rc3+ 34. Ke4 Rxe3+ {[%mdl 64] [#]
+Remove Defender} 35. Kxe3 {Hoping for Rc2. KR-KB} Bc5+ 36. Ke2 {And now Rf1
+would win.} Bxf2 37. Kxf2 {KP-KP} Kd7 {aiming for ...e5.} 38. Kf3 {Threatens
+to win with Kf4.} e5 {White must now prevent ...b5.} 39. Ke4 Kd6 $1 40. Kf5 Kd5
+41. g5 e4 42. g6 hxg6+ 43. hxg6 fxg6+ 44. Kxg6 {[#] Strongly threatening f7.
+K3P-K3P} e3 $1 45. f7 e2 46. f8=Q e1=Q 47. Qa8+ Kd6 48. Qb8+ Kc6 49. Qc8+ {
+Accuracy: White = 72%, Black = 75%.} 1/2-1/2
+
+[Event "US-ch Open 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.20"]
+[Round "1.4"]
+[White "Akobian, Varuzhan"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[WhiteElo "2625"]
+[BlackElo "2739"]
+[Annotator "TA"]
+[PlyCount "65"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,65,13,33,16,29,35,37,13,35,15,20,20,14,17,30,7,32,27,33,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nc3 d5 4.
+cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Rb1 Be7 {D35: Queen's Gambit Declined:
+Exchange Variation} 8. Nf3 O-O 9. Bc4 a6 10. a4 Qc7 {LiveBook: 4 Games. next ..
+.cxd4 is good for Black.} 11. Bd3 Nc6 12. O-O cxd4 13. cxd4 Nb4 14. Ba3 Nxd3
+15. Qxd3 Bxa3 16. Qxa3 {[#]} Bd7 $146 17. Ne5 {[#] Black must now prevent Qe7.}
+Rfc8 18. Rfc1 Qd8 $1 19. Nxd7 Qxd7 {The position is equal.} 20. Qb2 Qxa4 21.
+Rxc8+ Rxc8 22. Qxb7 $11 {[%mdl 4096] Endgame KQR-KQR} Qc4 {[#] ( -> ...Qc1+!)}
+23. h3 h6 24. d5 exd5 25. exd5 Rd8 26. Rd1 Qb5 27. Qxb5 axb5 {KR-KR} 28. d6 Kf8
+29. Rd5 Rb8 30. d7 Ke7 31. d8=Q+ Rxd8 32. Rxb5 Kf8 33. g3 {Precision: White =
+66%, Black = 76%.} 1/2-1/2
+
+[Event "US-ch Open 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.20"]
+[Round "1.5"]
+[White "Gareyev, Timur"]
+[Black "Xiong, Jeffery"]
+[Result "0-1"]
+[ECO "A09"]
+[WhiteElo "2557"]
+[BlackElo "2663"]
+[Annotator "TA"]
+[PlyCount "76"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,76,-20,-8,-58,-15,-7,-20,-10,-12,-18,25,-12,-22,-22,0,0,0,-26,25,35,
+31,0,0,0,28,7,0,0,0,0,4,-45,-52,-50,-52,-40,-28,-100,-97,-135,-125,-272,-259,
+-283,-280,-319,-256,-620,-615,-564,-399,-441,-439,-807,-807,-2654,-2737,-1010,
+-876,-29981,-29982,-29982,-29983,-29987,-29988,-29988,-29989,-29990,-29990]} 1.
+Nf3 d5 2. c4 d4 3. b4 Bg4 4. Ne5 Bf5 5. e3 Nf6 $146 ({Predecessor:} 5... Qd6 6.
+Nf3 e5 7. c5 Qd5 8. Bb5+ c6 9. Ba4 Bg4 10. Bb3 Bxf3 11. gxf3 Qd8 {0-1 (61)
+Adhiban,B (2630)-Naroditsky,D (2622) Caleta 2015}) 6. g4 {A09: RÃ©ti Opening: 1
+Nf3 d5 2 c4} Be4 7. f3 $1 {[%cal Rf3e4]} Bg6 8. Bb2 {The position is equal.}
+dxe3 9. dxe3 Nbd7 10. Nxg6 hxg6 11. Nc3 e6 12. c5 c6 13. g5 (13. h4 {seems
+wilder.} Qc7 14. Kf2 b6 15. Be2 a5 16. a3) 13... Nd5 (13... Nh7 $142 $1) 14.
+Nxd5 $11 exd5 15. f4 Qe7 {Strongly threatening ...Qe4.} 16. Qd2 Rh4 {...a5 is
+the strong threat.} 17. Qf2 Qe4 $36 {[%mdl 2112] [#] Double Attack. Black has
+some pressure.} 18. a3 $1 {Black must now prevent Bg2.} Qxh1 19. Qxh4 a5 {
+Threatens to win with ...Qe4.} 20. Qf2 axb4 21. axb4 Rxa1+ 22. Bxa1 Qe4 23. Bc3
+(23. Qb2 $1 $11 {remains equal.}) 23... b6 $17 {[%cal Bb7b6,Bb6c5][%mdl 32]}
+24. Kd2 bxc5 25. b5 (25. Bd3 $17 Qh1 26. b5 cxb5 27. Bxb5) 25... cxb5 $19 26.
+Bxb5 {[#]} c4 $1 27. Qe2 Qb1 28. Bxd7+ $2 (28. Bxc4 dxc4 29. Qxc4) 28... Kxd7
+29. Qg4+ Qf5 30. h3 Kc6 31. Ke2 (31. Ke1 $142 Kb5 32. Qxf5 gxf5 33. Kd1) 31...
+Kb5 32. Bd4 Qxg4+ 33. hxg4 {[%mdl 4096] Endgame KB-KB} Kb4 34. e4 dxe4 {
+Black mates.} 35. Kd2 Bc5 36. Bxg7 Kb3 37. f5 e3+ 38. Ke2 c3 {Accuracy: White
+= 21%, Black = 66%.} 0-1
+
+[Event "US-ch Open 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.20"]
+[Round "1.6"]
+[White "Liang, Awonder"]
+[Black "Lenderman, Aleksandr"]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[WhiteElo "2590"]
+[BlackElo "2637"]
+[Annotator "TA"]
+[PlyCount "240"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,240,0,0,22,0,10,0,12,-4,-4,-14,-16,-3,0,0,0,0,0,0,0,0,-10,-39,-12,
+-83,-82,-99,-52,-62,-50,-47,0,0,0,-47,46,38,45,34,31,39,103,108,109,122,114,58,
+123,106,111,114,112,116,100,0,0,0,0,-203,-205,-221,-221,-215,-214,-207,-217,
+-230,-229,-247,-248,-252,-245,-384,-379,-367,-220,-230,-224,-255,-239,-334,
+-334,-343,-289,-288,-288,-345,-334,-337,-335,-345,-246,-239,-251,-254,-246,
+-247,-243,-210,-239,-239,-239,-246,-246,-246,-247,-264,-239,-271,-276,-301,
+-266,-342,-287,-276,-212,-207,-210,-220,-185,-174,-148,-148,-102,-102,-102,
+-102,-80,-80,-80,-80,-80,-80,-80,-84,-87,-102,-75,-75,-75,-75,-75,-75,-75,-75,
+-75,-102,-85,-102,-102,-102,-49,-102,-102,-102,-102,-102,-62,-70,-8,-102,-102,
+-143,-143,-143,-143,-143,-143,-109,-8,-8,-8,-8,-8,-8,-8,-8,-8,-38,-38,-38,-8,
+-8,0,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,
+-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,0,0,0]} 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4.
+Nxd4 Nf6 5. Nc3 Nc6 6. Nxc6 bxc6 7. Bd3 d5 8. O-O Be7 9. Qf3 O-O 10. Re1 a5 {
+B40: Sicilian: 2...e6, Unusual lines} (10... d4 11. e5 dxc3 12. exf6 Bxf6 13.
+bxc3 Qa5 14. Qxc6 Bd7 15. Qxd7 Bxc3 16. Bd2 Bxd2 17. Re4 Bc3 18. Rd1 {1/2-1/2 
+(31) Gholami,A (2434)-Braun,A (2577) Riga 2017}) 11. exd5 exd5 12. h3 $146 ({
+Predecessor:} 12. Qg3 Bd6 13. Bf4 Nh5 {0-1 (25) Litvinova,O (1640)-Ressler,V 
+(1965) Prague 2010}) 12... Bd6 13. Ne2 Re8 14. Bg5 Be5 15. Rab1 h6 (15... Qd6 {
+feels hotter.} 16. c4 Ba6 17. b3 Nd7 18. Bf5 Nc5) 16. Bf4 Qd6 17. Bxe5 Rxe5 18.
+c4 Be6 19. Red1 Re8 20. Qg3 Bd7 21. Nd4 (21. Rbc1 $11) 21... Nh5 $1 $17 {
+[%cal Rh5g3]} 22. Qf3 {[#]} Nf4 $1 {[%mdl 512]} 23. Bf1 ({Not} 23. Qxf4 $2 Re1+
+24. Rxe1 Rxe1+ 25. Rxe1 Qxf4 $19) 23... Qf6 {Threatens to win with ...c5.} 24.
+g3 Rg5 25. Kh2 Re4 26. Nb3 Nxh3 (26... Rh5 $15 27. Nd2 (27. gxf4 Rxf4 28. Qxh5
+Rf5 $11) 27... Bxh3 28. Bxh3 Rxh3+ 29. Kg1 Rd4) 27. Qxf6 $14 gxf6 28. Nc5 $36 {
+[%mdl 2048] White has the initiative.} Nxf2 29. Nxd7 Ng4+ (29... Kg7 $14) 30.
+Kg1 $16 Re7 31. Nb6 $1 {[%cal Rc4d5]} Ne3 32. Rd2 (32. Rd3 $16) 32... Rxg3+ (
+32... Re4 $14) 33. Kf2 $1 {[%cal Rf2g3]} Rg5 {[#]} 34. Bh3 $1 Re4 35. cxd5 cxd5
+{[#]} 36. Nd7 (36. Kf3 $1 $16) 36... Kg7 $11 37. Nc5 Rh4 $1 {[%cal Rh4h3]} 38.
+Kxe3 $2 (38. Rh1 $1 $11 {and White has nothing to worry.}) 38... Rxh3+ $19 39.
+Kd4 Rh4+ 40. Ke3 {[#]} d4+ $1 {[%mdl 576] Discovered Attack} 41. Rxd4 Rh3+ 42.
+Kf2 Rxc5 {[%mdl 4096] Endgame KRR-KRR} 43. Rg1+ Rg5 44. Rg2 Rh1 45. Ra4 (45.
+Rc4 {is the only way for White.}) 45... Rc1 {Hoping for ...Rc2+.} 46. Kf3 Rcc5
+(46... Rf1+ $142 47. Ke2 Rb1 48. Rxg5+ fxg5) 47. Rh2 h5 48. Rhh4 Kg6 49. b3
+Rc3+ 50. Kf2 Rd5 51. Rhe4 Rf5+ 52. Kg2 Rc2+ 53. Kg3 Kg5 54. Rec4 Rcf2 {[%csl
+Gf2][%cal Rf5f3]} 55. Rc3 Rf1 56. Kh3 Rh1+ 57. Kg2 Rd1 58. Rg3+ Kh6 59. Rf3
+Rd2+ 60. Kg3 Rg5+ 61. Kh3 Kg6 62. Rc3 Rd1 {[%cal Rd1h1]} 63. Kh2 Rdd5 64. Rc8
+Kg7 65. Kh3 Rd3+ 66. Kh2 Re5 {( -> ...Re2+)} 67. Rc2 Rdd5 68. b4 axb4 69. Rxb4
+Rd3 70. Rf2 f5 71. Rg2+ Kf6 72. Rh4 Re4 73. Rxh5 Rg4 74. Rb2 Kg6 75. Rh8 Ra3
+76. Rg8+ Kf6 77. Rh8 Rga4 78. Kg2 Kg5 79. Rg8+ Kf4 80. Rf2+ Ke5 81. Re8+ Kf6
+82. Rh8 Rg4+ 83. Kh2 f4 84. Rg2 Rg6 (84... Rg5 $17 85. Rxg5 Kxg5) 85. Rb2 (85.
+Rh5 $1 $15) 85... Kf5 86. Rhb8 Rh6+ (86... Rag3 {is interesting.} 87. Rh8 Re3
+88. Rhb8 Ke5 89. Rg2 Rd3) 87. Kg1 Kg4 88. R8b3 Rxb3 (88... Rha6 $15) 89. Rxb3
+$15 {KR-KR} (89. axb3 $11 {remains equal.} Kg3 90. Rg2+ Kf3 91. b4) 89... Rc6
+$17 90. a3 Rc1+ 91. Kf2 Rc2+ 92. Kf1 Ra2 93. Rc3 f3 (93... Rb2 $17) 94. Rc8 $1
+$11 Rxa3 (94... Rb2 {seems wilder.} 95. a4 Ra2 96. Rg8+ Kf4 97. Rf8 f5) 95.
+Rg8+ Kf4 96. Rf8 $1 Ra7 97. Kf2 Re7 98. Rb8 Re2+ 99. Kf1 Ra2 100. Rf8 $1 {
+The position is equal.} Ra7 (100... Ke3 {looks sharper.} 101. Re8+ Kd4 102. Re7
+f5 103. Rd7+ Ke4) 101. Kf2 f5 102. Rb8 Re7 103. Ra8 Re2+ 104. Kf1 Rb2 105. Rc8
+Rd2 106. Ra8 Rd4 107. Kf2 Re4 108. Rb8 Re2+ 109. Kf1 Rh2 110. Ra8 Rh4 111. Rb8
+Kg3 {[%cal Rh4h1]} 112. Rg8+ Rg4 113. Rb8 Rc4 {[%cal Rc4c1]} 114. Rg8+ Kf4 115.
+Kf2 Rc2+ 116. Kf1 f2 117. Rb8 $1 Kg4 118. Rb4+ f4 {White must now prevent ...
+Rc1+.} 119. Rb3 f3 {Strongly threatening ...Rc1+.} 120. Rb4+ Kf5 {Accuracy:
+White = 64%, Black = 60%.} 1/2-1/2
+

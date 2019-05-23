@@ -1,0 +1,188 @@
+[Event "Molodost Gruzzi, 4th prize"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Gurgenidze, David"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1k2b3/4p1rP/1P1pK3/1Pp2P2/Rp2P3/p2P4/2P5/b7 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1970.??.??"]
+
+{This "White to move and win" study, winning also the 7th prize in the USSR
+championship 1969-1970 for which likely published studies in that period could
+be entered, is from the Georgian master David Gurgenidze. Gurgenidze is an
+impressive man with great works both on malyutka ("baby" studies with up to
+five pieces) and on complex themes. The study presented here shows the
+"Novotny" theme, named after 19th century composer Anton (Antonin) Novotny. A
+line is interrupted in such a way that two different line pieces - usually
+bishop and rook - can take the interrupting piece, but in that way blocking
+the line for the other piece. In this composition the theme is shown four
+consecutive times. I believe that A.C. White would have very much loved this
+study.    Personally, I met Gurgenidze and his son (who usually translates
+English/Georgian) I think two times, always with a very positive impression.
+Just like many chess composers, he flourishes not only in composing but also
+in talking about this art, just as I believe every person will flourish in
+talking about something they love with others of the same interest. He wrote a
+few nice books about "baby" - and other - endgame studies as well, some only
+available in Georgian.} 1. Ra8+ $1 ({There would indeed be an incomplete
+feeling without a thematic try:} 1. h8=Q $2 Rg6+ 2. f6 ({unfortunately, there
+are also complicated sidelines but Black always has a draw:} 2. fxg6 Bxh8 3.
+Kxe7 Bxg6 4. Kxd6 Bd4 5. Ra7 c4 6. dxc4 Bxb6 7. Ra6 Bxe4 8. Rxb6+ Bb7 9. c5 a2
+10. c6 a1=Q 11. Rxb7+ Kc8 12. Rc7+ Kb8 13. Rb7+ Kc8) 2... Rxf6+ 3. Kd5 $2 ({
+Also only a draw is} 3. Kxe7 Re6+ $1 4. Kxe6 Bxh8 5. Kxd6 Bd4 $11 {.
+Objectively White's move in the "main try line" loses, but in problem terms a
+question mark isn't necessary as the first move already made the objective
+impossible - draw or loss matter in practical play, however, so we give a
+question mark there.}) 3... Rf5+ 4. e5 Rxe5+ 5. Kc4 Re4+ 6. d4 Rxd4+ 7. Kb3
+Rd3+ 8. c3 Rxc3+ 9. Ka2 {shows us all four Novotnys, and "White wins because
+he can take on a1 after the check on c2" is the obvious observation. Alas,
+Black has a stronger continuation where he wins.} b3+ 10. Kxa3 b2+ 11. Ka2
+b1=Q+ 12. Kxb1 Rc1+ 13. Kxc1 Bxh8 14. Rg4 Bf7 $19) 1... Kb7 $1 2. Rb8+ $1 ({It
+is a fine point that there is a checkmate after} 2. h8=Q $2 Rg6+ 3. f6 Rxf6+ 4.
+Kd5 Bf7#) 2... Kxb8 3. h8=Q Rg6+ {[%csl Gf6][%cal Ga1h8,Gg6e6] Please note
+that a1-h8 and g6-e6 have an interference point (in German terminology:
+"Schnittpunkt" or originally "Durchschnittspunkt", literally translated
+"cutting point") on f6. White can occupy this point, creating a Novotny. The
+same idea will be shown thrice more in this study.} 4. f6 $1 Rxf6+ 5. Kd5 $1
+Rf5+ 6. e5 $1 Rxe5+ 7. Kc4 Re4+ 8. d4 $1 Rxd4+ 9. Kb3 Rd3+ 10. c3 $1 Rxc3+ 11.
+Ka4 $1 $18 ({White wins as he has cleared (unoccupied) a4 in the beginning. Of
+course not:} 11. Ka2 $2 b3+ 12. Kxa3 (12. Kxa1 Rc1#) 12... b2+ 13. Ka2 (13. Ka4
+Ra3+ $1 14. Kxa3 b1=N+ $19) 13... b1=Q+ 14. Kxb1 Rc1+ 15. Kxc1 Bxh8 $19) 1-0
+
+[Event "Magyar Sakkelet, 1st honorable mention"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Korolkov, Vladimir"]
+[Black "Mitrofanov, Leopold"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/kr3p2/Pp6/8/2R5/1p3p1K/3R4/5n2 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1957.??.??"]
+
+{Unfortunately, a greatly expanded version of this study, with the help also
+of Dolgov in 1983, was found incorrect in 2011. White is to move and win.
+Thanks to the latent threat of Pa6 taking on b7, Black will lose decisive
+material if both his pieces are attacked and none of White.} 1. Rf2 $1 Ne3 (
+1... b5 2. Rb4 $18) 2. Re4 Nd1 3. Rd2 $1 ({White can't allow the rook of his
+opponent to defend the knight:} 3. Rf1 $2 Rd7 $1 $11) 3... Nc3 $1 (3... b2 4.
+Rxd1 Rc7 5. Rb4 $1 (5. Rb1 $2 f2 6. Rd4 f1=Q+ 7. Rxf1 Rc1 8. Rdd1 b1=Q $11)
+5... Rc1 (5... Rc2 6. Rd7+ $1 Kxa6 7. Rd6 $1 f2 8. Rdxb6+ $1 Ka7 9. Kg2 $18) 6.
+Rd7+ $1 $18) 4. Rc4 b2 $1 (4... Nb1 5. Rb2 Na3 6. Ra4 $18) (4... f2 5. Rxf2 Nd1
+6. Rd2 Ne3 7. Re4 Nf1 8. Rf2 $18) 5. Rxb2 Nd1 6. Rd2 (6. axb7 $2 Nxb2 7. Rb4
+Nd3 8. Rxb6 $1 Kb8 9. Rb5 Nf4+ 10. Kg3 Ne6 11. Kxf3 Nd8 $11) 6... Ne3 7. Re4 $1
+f2 $1 (7... Nf1 8. Rf2) 8. Rxf2 Nd1 9. Rd2 $18 {and White wins, most thematic
+- but sadly not in the only way - with} Nc3 10. Rc4 Nb1 11. Rb2 Na3 12. Ra4 1-0
+
+[Event "64, 2nd prize (version)"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Kotov, A.."]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3B3k/6nP/7K/6P1/8/8/8/qQ6 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1975.??.??"]
+
+{White to move and win. I believe I have already shown this here when
+discussing queens last year, but if I did, showing it again isn't such a bad
+thing, as the study is interesting, even if short. White wants to checkmate
+Black but must not be checkmated himself, at the same time avoiding stalemate.
+This leads to a fun little queen dance. The composer's name is Alexey or
+Alexander Kotov, but he is not identical with the famous player.} 1. Bf6 Qb2 $1
+({If Black at any time takes the queen, he is checkmated immediately:} 1...
+Qxb1 2. Bxg7#) 2. Qc2 $1 ({Similarly, White can't take the queen under penalty
+of stalemate.} 2. Qxb2 $11) (2. Bxb2 $11) 2... Qc3 3. Qd3 Qd4 $1 4. Qe4 $1 Qe5
+5. Qa8+ 1-0
+
+[Event "Flights of Fancy"]
+[Site "?"]
+[Date "1919.??.??"]
+[Round "?"]
+[White "White, Alain C."]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2q5/2pp4/3pr3/4pb2/K1p2pn1/2bn1kp1/3pr1R1/6BB w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1919.??.??"]
+
+{Alain C. White has a single study, which in itself is also more of a
+directmate problem. White is to move and win, which is done with a geometric
+manoeuver, a rook staircase.} 1. Rf2+ Ke3 2. Rf3+ Ke4 3. Re3+ Kd4 4. Re4+ Kd5
+5. Rd4+ Kc5 6. Rd5+ Kc6 7. Rc5+ Kb6 8. Rc6+ Kb7 9. Rb6+ Ka7 10. Rb7+ Ka8 11.
+Ra7+ Kb8 12. Ra8# 1-0
+
+[Event "EBUR Humor Tourney 2004-2005, 1st prize"]
+[Site "?"]
+[Date "2005.03.??"]
+[Round "?"]
+[White "Didukh, Sergiy"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "r4B1k/3p2Rp/7K/2pp4/1q3pBp/1N4b1/4R3/4r3 w - - 0 1"]
+[PlyCount "24"]
+[EventDate "2004.??.??"]
+
+{Sergiy Didukh, one of the more controversial people in composing due to the
+polarizing but honest opinions expressed on his blog about contemporary
+endgame studies, is universally deemed to be a great composer. Shortly after
+my own composing began, he had one of his most memorable successes in this
+study where White is to move and draw. It was published in EBUR March 2005 as
+part of the informal Humor Tourney. An informal tourney is one where all
+studies are published first, for example in a newspaper or magazine, or
+nowadays on the internet, and then judged. On the opposite, in a formal
+tourney judging is done first and only the studies which are awarded are
+published. Usually the ongoing tourneys in magazines are informal while
+tourneys organized otherwise are formal, but in this case the magazine EBUR,
+organizing the tourney, decided the tourney with the theme of humorous studies
+would be run informal, i.e. every entry would be published. While I have
+derived greater humorous pleasure from other genres (see our July article),
+sadly studies with accompanying humorous stories are rarely a theme, and here
+also the study had to stand for itself without any humorous stories attached.} 
+1. Be6 $1 ({White has to play for stalemate, as winning material would just
+leave him with a lost endgame:} 1. Bd6 $2 Qc3 2. Re5 Qxe5 3. Bxe5 Rxe5 4. Rxh7+
+Kg8 5. Rg7+ Kf8 6. Nxc5 Rd8 7. Nxd7+ Rxd7 8. Rxd7 Ke8 $19) 1... dxe6 2. Bd6 $1
+(2. Bxc5 $2 Qc3 $1 3. Nd4 Qd3 $19) (2. Rxh7+ $2 Kg8 3. Bd6 Qc3 $19) 2... Qc3 3.
+Nd4 $1 Qxd4 (3... Qd3 4. Be5 $1 Rxe2 (4... Qxd4 5. Ra2 $1 Rxa2 6. Rg6+ Rxe5 7.
+Rg8+ Kxg8) 5. Rxh7+ Kg8 6. Rg7+ Kf8 7. Bd6+ Ke8 8. Re7+ $11) {Now the humorous
+part begins which would have been greatly enjoyed by A.C. White.} 4. Re5 $1 (4.
+Be5 $2 f3 $19) 4... Qd3 $1 5. Re4 $1 (5. Reg5 $2 f3 $1 6. Be5 Bxe5 $19) 5...
+Qc3 $1 6. Rd4 $1 ({It is one of the brilliancies of this study that the rook
+needs to get to the b-file in time, otherwise Black wins:} 6. Re5 $2 Qc2 7. Re4
+Qb2 8. Re5 Qb1 9. Re4 Qa1 10. Re5 Ra7 11. Rxa7 Qxa7 12. Rg5 f3 $1 $19) 6... Qc2
+7. Rd3 $1 ({White loses by a hair if he does not follow suit:} 7. Ra4 $2 Rf8 $1
+8. Ra8 $1 Qf5 $1 9. Be5 $1 Qh5+ $1 10. Kxh5 Rxe5+ 11. Kh6 Rh5+ $1 $19) 7... Qb2
+8. Rc3 Qb1 9. Rc2 Qa1 10. Rb2 $1 Qxb2 {Black had nothing better, but now White
+can force the stalemate.} 11. Be5 $1 Rxe5 12. Rg8+ $1 Kxg8 1/2-1/2
+
+[Event "Schach, prize"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[White "Hornecker, Siegfried"]
+[Black "Minski, Martin"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/3p3B/P2k2P1/3P4/7r/3K4/b3P3/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "2010.??.??"]
+
+{We finish this month with a christmas present to myself: Presentation of a
+study of me with Martin Minski. It won the two years tourney of the German
+magazine "Schach" with an idea that "the Soviet composers overlooked" (my
+words). White is to move and draw.} 1. e4 $1 {Bobby Fischer agrees to this
+move. :-)} (1. a7 $2 Ra4 $19 ({or} 1... Bb1+ 2. Kc3 Ra4 $19)) (1. g7 $2 Bb1+ $1
+$19) 1... Bb1+ 2. Kd2 ({White must be careful to not let Black enter the
+eighth row later.} 2. Kc3 $2 Bxe4 3. a7 Bxd5 4. g7 Ra4 5. Be4 $1 Rc4+ $1 6. Kd2
+Rc8 $19) 2... Bxe4 3. a7 Bxd5 4. g7 Ra4 {Black caught both pawns... or did he?}
+5. Be4 $1 {No! But Black also has an arrow left.} Rd4+ 6. Bd3 {A nice
+symmetrical position has arisen. Black has nothing better than to repeat it:}
+Rg4 7. Bc4 $1 Rd4+ 8. Bd3 Ra4 9. Be4 $1 Rd4+ 10. Bd3 1/2-1/2
+

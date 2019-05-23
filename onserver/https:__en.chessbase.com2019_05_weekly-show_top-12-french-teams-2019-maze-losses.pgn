@@ -1,0 +1,62 @@
+[Event "FRA-chT Top 12 2019"]
+[White "Maze, Sebastien"]
+[Black "Dornbusch, Tatiana"]
+[Site "Brest"]
+[Round "3.5"]
+[Annotator "TA"]
+[Result "0-1"]
+[Date "2019.05.20"]
+[WhiteElo "2579"]
+[BlackElo "2285"]
+[PlyCount "110"]
+
+1. c4 {} Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e4 Bc5 5. Nxe5 Nxe5 6. d4 Bb4 7. dxe5 Nxe4 $1 8. Qf3 {A28:
+English Opening: Four Knights Variation} d5 {Threatens to win with ...d4.} (8... Nxc3 9. bxc3 Be7 10. Qg3 g6 11. Bh6 d6 12. Be2 Be6 13. Rd1 Qd7 14. exd6 cxd6 15. 0-0 0-0-0 {1-0 (24) Carlsen,M (2835)-Giri,A (2783) St Petersburg 2018} )9. Be2 Qe7 10. 0-0 {White is slightly better.} Bxc3 $1 11. bxc3 Qxe5 (11... 0-0 $1 $11 {remains equal.} )12. Bf4 $16 Qxc3 (12... Qf5 $16 {might work
+better.} )13. Bd3 $1 $36 { Black is under strong pressure.} (13. Bxc7 Qxf3 14. Bxf3 Nd2 $11 )Bg4 14. Qxg4 Qxd3 15. Rad1 (15. Qxg7 $6 0-0-0 $11 )Qxc4 16. Be5 $146 ({Predecessor:} 16. Qxg7 )Nd6 $2 (16... Qxa2 $2 17. Qxg7 0-0-0 18. Ra1 $18 (18. Qxf7 Nd6 $16 ))(16... Nc3 $16 17. Qxc4 (17. Qxg7 Ne2+ 18. Kh1 0-0-0 $15 )dxc4 18. Bxc3 0-0 )17. Rd4 Qxa2 18. Bxg7 f5 19. Qh5+ $2 (19. Re1+ Kd7 $11 )(19. Qd1 $18 Kf7 20. Bxh8 Rxh8 21. Rd2 (21. Rxd5 Re8 $18 ))Kd7 $14 20. Bxh8 Rxh8 21. Qh6 Re8 22. Qxh7+ Re7 23. Qg8 c6 24. Rh4 { White has compensation.} Qe2 $2 (24... c5 $1 $11 )25. Rh8 $18 {White threatens Qd8+ and mate.} Re8 26. Rh7+ Re7 27. h4 $1 d4 (27... Rxh7 {
+is a better defense.} 28. Qxh7+ Qe7 )28. Rxe7+ Qxe7 { Endgame
+KQR-KQN} 29. h5 Qf7 $2 (29... Qf6 {was necessary.} 30. Ra1 Qh6 )30. Qh8 Qe8 31. Qg7+ Qf7 32. h6 c5 33. Re1 d3 34. Qc3 (34. Qh8 $18 Qh5 35. f3 )c4 35. Qd4 a6 $2 (35... Kc6 36. h7 (36. Qxa7 d2 $14 )(36. Re5 b6 $16 )d2 )36. Re3 $2 (36. Rb1 $18 Kc7 37. Qc5+ Kd7 38. Rb6 )Kc6 $2 { [#]} (36... Qh5 $1 $11 {and Black has nothing to worry.} )37. Rh3 $4 {} ({
+Don't do} 37. Re5 $6 b6 $18 )(37. h7 $1 $18 { was the
+only winning move.} Qxh7 38. Re6 $1 {} )Qd5 $19 38. Qxd5+ $2 (38. Qa1 d2 39. Qd1 )Kxd5 {KR-KN} 39. Kf1 {[#] Strongly threatening h7.} Nf7 $2 ({Black should try} 39... Kd4 $1 $19 {White must now prevent ...Kc3.} 40. h7 Nf7 )40. h7 $2 {} (40. Ke1 $11 {and White is okay.} Kd4 41. Kd2 c3+ 42. Kc1 )Kd4 41. Rf3 (41. h8=R $142 Nxh8 42. Rxh8 )Kc3 42. Rxf5 d2 {} 43. Ke2 Kc2 44. Rd5 c3 45. g4 {[#]} a5 $1 {} 46. g5 (46. Rxa5 d1=Q+ )Nh8 47. f4 a4 48. f5 a3 49. g6 a2 50. g7 a1=Q 51. g8=Q d1=Q+ 52. Rxd1 Qxd1+ 53. Ke3 Qd3+ { Double Attack} 54. Kf4 Qd4+ 55. Kg5 Kb2 {Accuracy: White = 55%, Black = 47%.} 0-1
+
+
+[Event "Top 12 French Teams"]
+[Site "Brest"]
+[Date "2019.05.19"]
+[Round "2"]
+[White "Lefebvre, Herve"]
+[Black "Maze, Sebastien"]
+[Result "1-0"]
+[Board "5"]
+[WhiteTitle "FM"]
+[WhiteElo "2291"]
+[WhiteCountry "FRA"]
+[WhiteFideId "607363"]
+[WhiteEloChange "17"]
+[BlackTitle "GM"]
+[BlackElo "2579"]
+[BlackCountry "FRA"]
+[BlackFideId "613762"]
+[BlackEloChange "-8"]
+
+1. e4 {[%clk 1:30:59]} c5 {[%clk 1:30:57]} 2. Nf3 {[%clk 1:31:22]} Nc6 {[%clk
+1:31:25]} 3. d4 {[%clk 1:31:47]} cxd4 {[%clk 1:31:51]} 4. Nxd4 {[%clk 1:32:13]}
+e6 {[%clk 1:32:18]} 5. Nc3 {[%clk 1:32:32]} Qc7 {[%clk 1:32:43]} 6. Be3 {[%clk
+1:32:09]} Nf6 {[%clk 1:32:27]} 7. f4 {[%clk 1:21:01]} Nxd4 {[%clk 1:23:49]} 8.
+Qxd4 {[%clk 1:00:32]} b6 {[%clk 1:23:28]} 9. Be2 {[%clk 0:57:47]} Bb7 {[%clk
+1:22:22]} 10. Bf3 {[%clk 0:55:11]} Bc5 {[%clk 1:20:31]} 11. Qd3 {[%clk 0:54:31]}
+Bb4 {[%clk 1:20:50]} 12. O-O {[%clk 0:49:13]} Bxc3 {[%clk 1:20:18]} 13. bxc3
+{[%clk 0:49:38]} O-O {[%clk 1:13:38]} 14. Bd4 {[%clk 0:43:57]} d6 {[%clk
+1:08:43]} 15. e5 {[%clk 0:42:04]} Nd5 {[%clk 1:04:15]} 16. Be4 {[%clk 0:40:41]}
+g6 {[%clk 1:03:25]} 17. Rae1 {[%clk 0:23:32]} dxe5 {[%clk 0:55:46]} 18. Bxe5
+{[%clk 0:23:56]} Qc5+ {[%clk 0:56:12]} 19. Bd4 {[%clk 0:24:17]} Qd6 {[%clk
+0:56:18]} 20. Be5 {[%clk 0:24:31]} Qe7 {[%clk 0:50:42]} 21. c4 {[%clk 0:20:34]}
+Nb4 {[%clk 0:50:56]} 22. Qd6 {[%clk 0:21:01]} Qxd6 {[%clk 0:50:47]} 23. Bxd6
+{[%clk 0:21:29]} Bxe4 {[%clk 0:51:07]} 24. Rxe4 {[%clk 0:19:26]} Na6 {[%clk
+0:48:23]} 25. Bxf8 {[%clk 0:19:42]} Kxf8 {[%clk 0:48:51]} 26. Rd4 {[%clk
+0:18:44]} Ke7 {[%clk 0:49:10]} 27. g4 {[%clk 0:16:16]} f5 {[%clk 0:48:09]} 28. g5
+{[%clk 0:15:40]} h5 {[%clk 0:47:00]} 29. gxh6 {[%clk 0:16:07]} Rh8 {[%clk
+0:47:27]} 30. Rf3 {[%clk 0:16:32]} Nc5 {[%clk 0:44:08]} 31. Rh3 {[%clk 0:16:43]}
+Rh7 {[%clk 0:42:44]} 32. Kg2 {[%clk 0:15:54]} e5 {[%clk 0:42:54]} 33. fxe5 {[%clk
+0:15:57]} Ne6 {[%clk 0:43:20]} 34. Ra3 {[%clk 0:15:44]} a5 {[%clk 0:43:26]} 35.
+Rd6 {[%clk 0:15:34]} Rxh6 {[%clk 0:43:54]} 36. Rxb6 {[%clk 0:15:53]} Nf4+ {[%clk
+0:44:18]} 37. Kh1 {[%clk 0:15:40]} 1-0

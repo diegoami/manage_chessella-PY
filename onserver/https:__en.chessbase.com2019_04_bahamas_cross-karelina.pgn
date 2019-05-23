@@ -1,0 +1,72 @@
+[Event "Old Fort Bay Invitational"]
+[Site "Nassau"]
+[Date "2019.02.24"]
+[Round "4"]
+[White "Cross, Ted"]
+[Black "Karelina, Polina"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "1998"]
+[BlackElo "1678"]
+[Annotator "Cross,Ted"]
+[PlyCount "95"]
+[EventDate "2019.02.23"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "BAH"]
+
+1. e4 e5 {I knew something was up when I saw this move. Polina always played
+the Pirc. When I saw e5 appear on the board, I figured she must have liked
+what she saw in my database games--I just didn't yet know what it might be.} 2.
+Nf3 Nc6 3. Bc4 Bc5 {Now I knew! All of my database games in the Giuoco Piano
+follow a rather tame line, and Polina must have banked on me continuing to use
+that variation.} 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 {This was my counter.
+I had played this variation in my youth but had given it up because when black
+knows the lines, they tend to favor black. Once I began playing FIDE
+tournaments, I switched to 7. Bd2, which is tame but at least gives white the
+tiniest of edges. Since I was pretty sure Polina hadn't prepared for the
+complexities of Nc3, I went for it.} Nxe4 8. O-O Nxc3 $6 {I suspected she
+would play this move, which is less sound than the standard Bc3. Now my
+biggest worry was that I wouldn't remember all of the complicated lines that
+follow from here, since I hadn't studied them in many years.} (8... Bxc3 $142
+9. d5 Bf6 10. Re1 Ne7 11. Rxe4 d6 {with a wild game that if played perfectly
+should favor black in the end.}) 9. bxc3 Bxc3 $2 (9... d5 10. cxb4 dxc4 11.
+Re1+ Ne7 12. Qa4+ Bd7 13. b5 O-O 14. Qxc4 $11) 10. Qb3 {I was aware that Ba3
+is the strongest move, but I stared at the position for a long time and knew I
+wouldn't recall the correct moves, so I went with Qb3, which I felt tended to
+be easier to remember, especially if black takes the rook.} (10. Ba3 $1 d5 (
+10... d6 11. Rc1 Ba5 (11... Bb4 12. Bxb4 Nxb4 13. Qe1+ Qe7 14. Qxb4 $18) 12.
+Qa4 Bd7 (12... a6 13. Bd5 $18) (12... O-O 13. d5 $18) 13. d5 Ne5 14. Qxa5 Nxf3+
+15. gxf3 O-O 16. Kh1 $18) (10... Bxa1 11. Re1+ Ne7 12. Bxe7 Qxe7 13. Rxe7+ Kxe7
+14. Qxa1 $18) 11. Bb5 Bxa1 12. Re1+ Be6 13. Qc2 Qd7 (13... Qf6 14. Bxc6+ Kd8
+15. Bxb7 Rb8 16. Bxd5 $18) 14. Ne5 Bxd4 15. Nxd7 Kxd7 16. Rc1 $18) 10... Bxd4 {
+Polina spent a lot of time on this move. It's so tempting to take the rook,
+but she had to know that I knew it was winning for white. I think she made the
+right decision, as I get myself into trouble shortly by forgetting the right
+lines.} (10... Bxa1 11. Bxf7+ Kf8 12. Bg5 Ne7 13. Ne5 Bxd4 14. Bg6 d5 15. Qf3+
+Bf5 16. Bxf5 Bxe5 17. Be6+ Bf6 18. Bxf6 $18) 11. Bxf7+ Kf8 12. Bg5 $6 {I
+agonized over this move, since nothing jogged my memory of what should be
+played here.} (12. Bh5 d5 (12... g6 13. Nxd4 Nxd4 14. Qb4+ Kf7 15. Qxd4 gxh5
+16. Bb2 Rg8 17. Qd5+ Kg6 18. Rae1 $18) 13. Nxd4 Nxd4 14. Qb4+ Qd6 15. Qxd4 $18)
+12... Bf6 13. Rae1 Ne7 14. Re2 $6 {Once I failed to find the correct line on
+move 12, the win becomes harder and harder to see.} (14. Bh5 d5 15. Re3 Ng6 16.
+Rfe1 Bd7 17. Bxf6 gxf6 18. Nh4 Ne5 19. Rxe5 fxe5 20. Qf3+ Kg7 21. Qg3+ Kf8 22.
+Re3 e4 23. Qf4+ Ke7 24. Qe5+ Be6 25. Bg4 Qd7 26. Bxe6 Qxe6 27. Nf5+ Kd7 28.
+Qg7+ $18) 14... d5 15. Rfe1 $2 {Bh5 continues to be the right move, but I
+failed to see how it worked out.} (15. Bh5 Ng6 (15... Bd7 16. Bxf6 gxf6 17.
+Rfe1 Ng6 18. Qa3+ $18) 16. Bxf6 Qxf6 (16... gxf6 17. Rfe1 Bd7 18. Qa3+ $18) 17.
+Qxd5 $18) 15... Kxf7 16. Bxf6 $6 {I didn't see that 16. Rxe7 works out better.}
+(16. Rxe7+ $1 Qxe7 17. Rxe7+ Kxe7 18. Qxd5 Re8 19. h3 $16) 16... gxf6 17. Rxe7+
+Qxe7 18. Rxe7+ Kxe7 19. Qxd5 {What an imbalance! I wasn't at all sure that I
+could manage to win this.} c6 20. Qe4+ Kf7 21. h3 Be6 22. Qf4 {This was the
+right plan. I think Polina thought I would use the knight check on g5 to trade
+the knight for the bishop, but that wasn't the idea here.} Rad8 $2 (22... Rhg8
+23. Qc7+ Ke8 24. Nd4 Bd7 25. Qxb7 Rc8 $18) 23. Ng5+ Ke7 24. Qb4+ {This is the
+move I think she missed.} Rd6 (24... Kd7 25. Qxb7+ Kd6 26. Ne4+ Ke5 27. f3 Rhf8
+28. Qc7+ Kf5 29. Qxh7+ $18) 25. Ne4 Rhd8 26. Nxd6 Rxd6 27. Qxb7+ Rd7 28. Qxc6
+Bxa2 29. Qe4+ Kd8 30. Qa8+ {In such a wide-open board, I didn't notice how
+nice Qf3 is here.} (30. Qf3 $142) 30... Ke7 31. Qh8 Bb1 32. Qg7+ Ke6 33. Qg4+
+Bf5 34. Qc4+ Kd6 35. g4 Be6 36. Qb4+ Kd5 37. f4 Rc7 38. f5 Bc8 39. Qa5+ Kd6 40.
+Kf2 Bd7 41. Ke3 Bc6 42. Kd4 Bg2 43. h4 (43. g5 $3 fxg5 44. Qa2) 43... Bf1 44.
+Qd5+ Ke7 45. Qe6+ Kd8 46. Qxf6+ Kc8 47. Qe6+ Kb7 48. f6 1-0
+

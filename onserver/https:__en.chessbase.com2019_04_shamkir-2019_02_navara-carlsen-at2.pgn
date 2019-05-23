@@ -1,0 +1,136 @@
+[Event "Shamkir"]
+[Site "Baku"]
+[Date "2019.04.02"]
+[Round "?"]
+[White "Navara"]
+[Black "Carlsen"]
+[Result "0-1"]
+[ECO "B33"]
+[Annotator "Aryan Tari"]
+[PlyCount "117"]
+[EventDate "2019.04.01"]
+[SourceVersionDate "2019.04.02"]
+
+{[%evp 0,36,38,28,51,41,39,38,38,23,31,40,25,25,36,20,20,20,52,19,28,-5,12,25,
+36,-6,-3,0,28,22,46,-6,68,-12,45,50,28,-54,-43]} 1. e4 c5 2. Nf3 Nc6 {Magnus
+sticks to his Sveshnikov, which we can say has been one of his main openings
+since he played it in the London match with great success.} 3. d4 cxd4 4. Nxd4 Nf6
+5. Nc3 e5 6. Ndb5 d6 7. Nd5 {It's interesting that Navara enters this line. Usually
+the kind of positions that arise after this move are full of fight, which is
+fun.} (7. Bg5 a6 8. Na3 {Is usually more solid, depending on which line White
+chooses further.}) 7... Nxd5 8. exd5 Nb8 {This is the most normal move. Black
+will usually later bring the knight back into the game from d7. But first we
+will see some logical developing moves from both sides:} (8... Ne7 {What
+Magnus played the last time he had this position, where he won a nice game
+against dutch GM Jorden Van Foreest in his previous tournament.}) 9. a4 (9. c4
+{This and a4 as Navara played are the popular moves. The point is that after
+the knight gets kicked with a6, it can go back to c3 or a3 without being in
+front of the pawn. Also it stops Black from going b5.} Be7 10. Be2 O-O 11. O-O)
+(9. Bd3 a6 10. Nc3 {and now it would be logical to have the pawn on c4.}) 9...
+Be7 (9... a6 10. Na3) 10. Be2 O-O 11. O-O Nd7 {As I said this position is
+generally full of fight. Black will play f5 and play on the kingside, while
+white is better on the queenside and will try to push there. Magnus had this
+position twice in the match against Caruana, but Navara chooses a different
+move.} (11... a6 {Black can play this, but it is not necessary, as he can
+always play a6 to kick the knight later. It makes more sense to develop the
+knight first.} 12. Na3) 12. Kh1 (12. a5 {Now as a5-a6 is a threat, Black
+always plays} a6 13. Nc3 f5 {and we get a double-edged game as usual in these
+positions.}) (12. b4 a6 13. Na3 a5 14. bxa5 Rxa5 15. Nc4 Ra8 16. Be3 f5 17. a5
+f4 {with an interesting fight which ended in a draw ½-½ (54) Caruana,F (2832)
+-Carlsen,M (2835) London 2018}) (12. Bd2 {The point of this move is that White
+wants to play a5, and after a6 be ready to play Na3 and the a5-pawn would not
+be hanging. This way White will be able to bring his knight to c4.} f5 13. a5
+a6 14. Na3 e4 15. Nc4 Ne5 16. Nb6 Rb8 17. f4 exf3 18. Bxf3 g5 {White was
+better in ½-½ (38) Caruana,F (2832)-Carlsen,M (2835) London 2018, but
+probably Magnus had some improvements in store. So Navara chooses a move which
+Magnus had not faced before:}) 12... a6 (12... f5 {would probably lead to the
+same after White will play f4 here.}) 13. Na3 (13. Nc3 {Does not make much
+sense, as after} f5 {the knight on c3 is not great, and doesn't have many
+squares.}) 13... a5 $146 {Surprise! Usually Black is not playing on the
+queenside, and is always going f7-f5 directly. Obviously Magnus must have had
+prepared this move, which is a novelty. The point is that Black wants to fix
+the queenside pawns, and follow this up with b6, so it will be harder
+for White to roll with the pawns there. And after doing that to play on the
+kingside with f5.} 14. f4 {A logical move, as White usually does this anyway
+after Black plays f5 in order to stop f4. White is ready to open up the
+position.} (14. Nc4 Nb6 $1 {was probably the point. White can't go Na5 now,
+and Black is not unhappy to exchange the knights.}) 14... f5 {This position
+seems critical to me. Both sides have completed their opening moves and we have reached a
+position with manouevring and many possibilities for each. That Navara
+spent only two minutes on the next move took me by surprise.} (14... b6 {
+this move can wait, and gives White additional options.} 15. fxe5 Nxe5 16. Nb5)
+15. Nc4 $6 {The knight is generally doing OK on c4, but I liked it better on
+d4. It doesn't do as much on this square.} (15. Nb5 {Seems more logical to me,
+and now White is ready to meet} b6 {with} 16. fxe5 Nxe5 17. Nd4 {and the
+knight gets an ideal square on d4, eyeing e6 and c6.}) 15... b6 {This is just
+a move that improves the position a bit. White was not threatening anything,
+so why not? Black is now able to develop the bishop on that side if he wants
+to.} (15... exf4 16. Bxf4 Nc5 {was also possible, and seems double-edged.} 17.
+Ra3 b6 {would transpose to the game.}) 16. Ra3 $5 {Interesting move that
+brings the piece that wasn't doing anything on a1 into the game.} exf4 {
+Magnus takes action in order to manage to play Nc5 so he can improve his
+knight.} 17. Bxf4 Nc5 $13 18. Re3 $2 {Just a blunder by Navara. What he missed
+was:} (18. Rh3 {was discussed in the press conference. This position seems
+just unclear with chances for both.} Nxa4 19. Re3 {now Re3 works much better as
+} (19. Bd3 Rf7) 19... g5 20. Rg3 $1 {as the Black knight left the c5-square,
+there is no Ne4 here.} (20. Rxe7 gxf4 21. Re6) 20... Kh8 21. Bxd6 Bxd6 22. Nxd6
+Qxd6 23. Qd4+ Qf6 24. Qxa4 $13) (18. Rg3 {Would be another interesting move,
+and again the position is unclear and full of fight.}) 18... g5 19. Rxe7 gxf4
+$17 {and the rook on e7 has no square and will get lost.} 20. Re6 (20. Nxb6
+Qxe7 (20... Qxb6 $4 {would turn the tables after} 21. Qd4 $1 Rf7 22. Re8+ Rf8
+23. Rxf8+ Kxf8 24. Qh8+ Ke7 25. Bb5 {and Black will eventually get mated.}) 21.
+Nxa8 Qa7 {traps the knight and Black is winning.} 22. Qd4 Qxa8 23. Qxf4 Ne4 $1
+$19 {takes important squares and kills the fun for White.}) 20... Nxe6 21. dxe6
+Bxe6 22. Rxf4 Bxc4 {The knight on c4 was definetly annoying, and it is logical
+to get rid of it, as it is easier in practice to play for Black now.} 23. Bxc4+
+Kh8 24. g4 $2 {Seems like a strange decision to me to weaken the king.
+Probably Navara thought his only chance was to go active and didn't believe in
+just waiting, which can be understandable. But this seems to just make it
+easier for Black:} (24. g3 $17 {is more logical, and Black is much better of
+course, but this seems more challenging.}) (24. Qd4+ {what Magnus thought was
+critical, and is a better move:} Qf6 25. Qxb6 Qe5 (25... Rab8 26. Qxa5 Rxb2 27.
+Qd2 Rb1+ 28. Rf1 Qa1 29. Kg1 Re8 30. Qxd6) 26. Qd4 Rae8 $1 {and Black wants to
+exchange queens followed by the strong Re4. And in general if Black manages to
+exchange rooks as well it makes it much harder for White to defend.} 27. Bf1 Qxd4
+28. Rxd4 Re4 $17 {[%cal Ge4a4]}) 24... Qf6 (24... Qe7 25. gxf5 Qe5 26. Qf3) 25.
+c3 (25. Rxf5 Qxb2 {would just be curtains with a clear exchange down and weak
+king.}) 25... Qe5 (25... Rae8 26. Rxf5 Qg7) 26. Qf1 Rae8 (26... Rf6 27. gxf5 (
+27. g5 Rff8 {White will not win the f5-pawn anymore.}) 27... Raf8 28. Bd3 Rh6 {
+Would have been easier. The white king is too weak.}) 27. gxf5 Rf6 28. Qf2 Qc5
+29. Kg2 (29. Qxc5 dxc5 {Black improves his pawn structure and is rid of weak
+d-pawn. This is just winning after Black brings the king in.}) 29... Qc6+ $2 {
+gives White a great chance.} (29... Ref8 $1 {Forces White to go passive:} 30.
+Bd3 (30. Be6 $2 {fails tactically:} Rxe6 $1 31. fxe6 Qg5+ $1 $19) 30... Rg8+
+31. Kf1 Qd5) 30. Kh3 $6 (30. Kg3 {It is hard for Black create anything with
+the rooks, as the bishop on c4 is doing a great job.} d5 31. Bb5 Rg8+ 32. Kf3
+Qd6 33. Qd4 {[%cal Gb5d7] was mentioned in the press conference is not too
+clear. White has a pawn and is active. Seems like great drawing chances.})
+30... Qc5 (30... Re4 {what Magnus wanted, but} 31. Be6 $1 Qxa4 32. Qxb6 $1
+Rfxe6 (32... Rxf4 $4 33. Qd8+ Kg7 34. Qe7+ $1 {and Black gets mated}) 33. fxe6
+Rxf4 34. Qd8+ Kg7 35. Qg5+ {[%cal Gg5d8] will just lead to a perpetual.}) 31.
+Kg2 (31. Qxc5 {again White is never interested in taking as it helps Black's
+strucutre.} bxc5 32. Kg4 Re1 $17) 31... Qxf2+ 32. Rxf2 Re4 {This position is
+very hard to defend - especially against Magnus...} (32... Re5 33. Be6 Kg7 34.
+Rd2 d5 35. Kg3) 33. Be6 (33. b3 Kg7) 33... Rxa4 34. Kf3 (34. Rd2 $1 Re4 35. b3
+{seems like a better chance, as it is hard to defend the d6-pawn!}) 34... Kg7 (
+34... Rf8 35. Rd2 Rd8 36. f6 Rh4 37. Bd5 Rh6 38. f7 Kg7 39. c4 {with the pawn
+on f7 it will be hard to break through.}) 35. Rd2 Kh6 36. Rxd6 Kg5 37. Rd8 (37.
+Rxb6 $2 Rf4+ 38. Ke3 R4xf5 $1 $19 {[%cal Gf5e5]}) 37... Rh6 38. Rg8+ Kf6 39.
+Rb8 Rxh2 (39... Rh3+ 40. Kg2 Rah4 41. Rxb6 Rxh2+ 42. Kg3 R2h3+ 43. Kg2 Re3 44.
+Kf2 Re5 {also good winning chances.}) 40. Rxb6 Kg5 41. f6 (41. b4 Rh3+ 42. Kg2
+Rxc3 43. f6 Raa3) 41... Rf4+ 42. Kg3 Rhf2 43. Rb5+ Kxf6 44. Bg4 a4 {Magnus is
+just playing this endgame extremely well and not giving his opponent any
+chance. It is hard to say what Navara exactly did wrong after they exchanged the
+queens.} 45. c4 Kg6 46. c5 a3 {Navara missed this completely. The point is
+that Black gets the c3 square for his rook in order to stop the c-pawn.} (46...
+h5 47. Bxh5+ Kxh5 48. c6+) 47. bxa3 (47. c6 Rxb2 48. c7 Rc4) 47... h5 48. Rb4 (
+48. Bxh5+ Kxh5 49. c6+ Kg6 50. c7 R4f3+ 51. Kg4 Rf8 52. Rb8 R2f4+ 53. Kg3 Rf3+
+54. Kg2 Rf2+ 55. Kg3 Kg5 $1) 48... Rf8 (48... Rxb4 49. axb4 Rb2 50. Be6 Kf6)
+49. Bd1 Rd2 50. Bf3 Rd3 51. Rf4 h4+ 52. Kg4 Rxf4+ 53. Kxf4 Rxa3 {Its
+interesting that this position is actually a draw if the Black king is on h6.
+Because then it is further from the c-pawn.} 54. c6 Rc3 55. Bd5 (55. Kg4 h3
+56. Kg3 h2 $1) (55. Bh1 Kf6 56. Kg4 h3 57. c7 h2 58. c8=Q Rxc8 59. Kg3 Rh8 {
+This position is absolutely lost - as the bishop on h1 can never move} 60. Kf2 Kg5
+61. Kg3 Rh6 62. Kg2 Kg4 63. Kf2 Rb6 $19) 55... h3 56. Ke5 Rc5 $1 57. Kd6 Rxd5+
+58. Kxd5 h2 59. Kd4 0-1
+

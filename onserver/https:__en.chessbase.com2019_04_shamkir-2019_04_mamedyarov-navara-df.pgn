@@ -1,0 +1,81 @@
+[Event "Shamkir Chess"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "4"]
+[White "Mamedyarov, S.."]
+[Black "Navara, D.."]
+[Result "1/2-1/2"]
+[ECO "D38"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "170"]
+[EventDate "2019.04.04"]
+
+{[%evp 0,170,16,19,19,-15,0,4,27,27,41,-28,13,-49,-35,-35,-35,-40,-5,-40,-38,
+-35,-35,-41,-8,-14,0,-23,13,-19,0,0,41,31,0,16,36,32,62,66,46,52,40,-7,62,65,
+65,60,71,-5,-1,11,-8,-19,-18,-35,-25,-25,-28,-14,-26,-34,-34,-58,-77,-88,-90,
+-98,-73,-67,-79,-100,-79,-101,-109,-94,-98,-146,-94,-101,-97,-94,-106,-122,
+-126,-109,-109,-109,-109,-109,-110,-109,-109,-110,-110,-113,-110,-113,-109,
+-110,-79,-110,-106,-110,-110,-113,-112,-114,-113,-116,-111,-113,-111,-104,-104,
+-101,-118,-124,-124,-125,-123,-124,-125,-125,-113,-161,-161,-142,-142,-143,
+-136,-130,-124,-122,-49,-49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 d5 5. Bg5 h6 6.
+Bh4 dxc4 7. a3 Bxc3+ 8. bxc3 Nbd7 9. e3 b5 10. a4 c6 11. Qb1 Qa5 ({Black
+didn't feel like checking what was in store in the line} 11... a6 12. Be2 O-O
+13. O-O Qe8 $5 $44 {as seen in a recent loss by the same White player:
+Mamedyarov,S -Vidit,S Wijk aan Zee 2019}) 12. Qb2 Ne4 13. axb5 Qxb5 14. Qc1 (
+14. Qc2 $5 {looks like it wins a tempo, but in fact it could easily lose one to
+} Qb3 $1 15. Rc1 (15. Qxb3 cxb3 16. Ra3 Nxc3 17. Rxb3 Nd5 18. e4 N5f6 19. Bxf6
+Nxf6 20. Bd3 $11 {is another valid try}) 15... Qxc2 16. Rxc2 Ba6 17. Nd2 Nxd2
+18. Kxd2 Bb5 $44 {There isn't an obvious way to win back the pawn, but as
+usual for these things, if White manages it then another pawn will follow soon
+after.}) 14... c5 15. Be2 O-O 16. O-O Bb7 17. Rb1 Qc6 18. Bxc4 cxd4 19. Bb5 Qc7
+20. cxd4 Rfc8 {Here is the exception that proves the rule: a wide-open
+position where the knights are not really inferior to the bishops.} 21. Qb2 (
+21. Qxc7 Rxc7 22. Rfc1 Rxc1+ 23. Rxc1 Nb6 {The main reason White has no
+advantage here isn't the a-pawn so much as the fact that he must go through
+some contortions just to retain his bishop-pair.} 24. Be7 a5 {With the idea of
+...Ba6.} 25. Bd3 a4 26. Ba3 Rc8 27. Rxc8+ Nxc8 28. Ne1 $14 {It is somehow
+possible to press for a win here, but there is also risk- a piece could drop
+in the next 5 moves.}) 21... Nb6 $6 (21... Bd5 22. Rfc1 Qb7 $11 {was more solid
+}) 22. Rfc1 Qd6 23. Ne5 g5 24. f3 $2 {Now White ends up worse.} (24. Bg3 Nxg3
+25. hxg3 $16 {It is not immediately obvious to me why this should be '+1', but
+the computer advocates simply placing the e5-knight on c5 and awaiting further
+developments.}) 24... gxh4 25. fxe4 Bxe4 26. Qf2 Qe7 $15 {White lacks tricks
+and is now left scrambling somewhat.} 27. Ra1 Rxc1+ 28. Rxc1 Nd5 29. Bd3 Bxd3
+30. Nxd3 Qf6 {A perfectly normal human move. Black now plays with very good
+technique for the next 15 moves.} (30... a5 {looks more natural at first sight
+(since White can't muster mate), though the justifying tactic is not:} 31. e4
+Nb4 32. Ne5 a4 33. Qf4 a3 34. Ng4 ({Similar is} 34. Qxh6 a2 35. Ra1 Nc2 36.
+Rxa2 Rxa2 37. Ng4 {in view of} Ne3 $3 $17) 34... a2 35. Ra1 Qa7 $1 36. Nxh6+
+Kh7 37. e5 Nd5 38. Qxh4 Kg6 $1 $17 {White's knight is trapped and he stands
+much worse.}) 31. Qxf6 (31. e4 $15 {was called for, in the spirit of gaining
+as much activity as possible for the pawn.}) 31... Nxf6 32. Kf2 a5 33. Ra1 a4
+34. Ra3 Ne4+ 35. Ke1 Rb8 36. Nc5 Rb1+ 37. Ke2 Rb2+ 38. Kd3 Nf6 (38... Nf2+ $6
+39. Kc4 Nd1 40. e4 Rxg2 41. d5 Nb2+ 42. Kb5 Rxh2 43. d6 Rd2 44. d7 $11) 39.
+Rxa4 Rxg2 40. d5 $1 Rg5 (40... Nxd5 41. Rxh4 Kh7 {seems on principle a better
+winning try, because White's remaining pawns are so bad.}) 41. Ne4 Rxd5+ 42.
+Ke2 Nxe4 43. Rxe4 h3 44. Rh4 Kg7 45. Rxh3 Kg6 46. Rh4 Rh5 47. Rg4+ Rg5 48. Rh4
+Rf5 49. Rg4+ Kh5 50. Ra4 Kg5 51. Rb4 Kg6 52. Rg4+ Rg5 53. Rh4 Rh5 54. Rg4+ Kf6
+55. Rf4+ Ke7 56. h4 Re5 57. Ra4 f5 58. Kf3 Kf6 59. Rb4 Kg6 60. Kf4 Ra5 61. Kf3
+Kh5 $2 {Both sides have played the endgame well up to this point, it is just a
+shame for White that his side is objectively probably lost.} ({It seems like a
+bright idea to play:} 61... Ra3 62. Rb6 Kf6 63. Rb4 Rc3 64. Kf2 h5 $19 {
+and await an opportunity to play ...Ke5-d5 and ...Rc4-g4.}) 62. e4 Ra3+ 63. Kf2
+f4 64. Rb6 Kg4 65. Rxe6 Ra2+ 66. Kg1 $1 Kf3 67. Rxh6 Ke3 68. e5 ({It might be
+simpler to draw with} 68. Rf6 {considering that the h-pawn is the real MVP
+here.}) 68... f3 69. e6 Rg2+ 70. Kh1 $4 (70. Kf1 $1 {draws; I'm not sure which
+move Mamedyarov thought was better than going back with this rook to the
+queenside. Presumably} Rh2 {, however it transpires that White has the
+surprising} 71. Rg6 $1 (71. Kg1 f2+ 72. Kxh2 f1=Q 73. Rg6 Qf4+ $19) 71... Rh1+
+(71... Rxh4 72. e7 Rh1+ 73. Rg1 Rh8) 72. Rg1 Rxh4 (72... Rxg1+ $4 73. Kxg1 Ke2
+74. e7 f2+ 75. Kh2 f1=Q 76. e8=Q+ Kd2 {and White could even win, though it's a
+tablebase draw}) 73. e7 Rh8 74. e8=Q+ Rxe8 75. Rg7 $11) 70... Rg7 $4 (70... Rg8
+$1 {is winning, strangely enough. The point is that in the key position after}
+71. Rf6 f2 72. Kh2 Ke2 73. Kh3 f1=Q+ 74. Rxf1 Kxf1 75. h5 Kf2 76. Kh4 Kf3 77.
+h6 {Black's rook is not attacked and so he can play} Kf4 $1 78. h7 Rh8 79. Kh5
+Kf5 80. Kh6 Kf6 $1 81. e7 Kf7 $1 {stopping both pawns. The fact that White
+could play e7 earlier was less important than this fact.}) 71. Kh2 f2 72. Rf6
+Ke2 73. Kh3 f1=R 74. Rxf1 Kxf1 75. h5 Kf2 76. Kh4 Kf3 77. h6 $1 {The key move,
+this is now just a draw.} Rg1 78. Kh5 Kf4 79. h7 Kf5 80. Kh6 Rg6+ 81. Kh5 Rg2
+82. Kh6 Kxe6 83. h8=Q Rh2+ 84. Kg7 Rxh8 85. Kxh8 Ke5 1/2-1/2
+

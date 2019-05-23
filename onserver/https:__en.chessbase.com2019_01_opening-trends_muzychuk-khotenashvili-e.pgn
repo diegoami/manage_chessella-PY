@@ -1,0 +1,79 @@
+[Event "FIDE World Rapid-ch Women 2018"]
+[Site "St. Petersburg"]
+[Date "2018.12.26"]
+[Round "4.3"]
+[White "Muzychuk, Anna"]
+[Black "Khotenashvili, Bela"]
+[Result "1-0"]
+[ECO "B15"]
+[WhiteElo "2569"]
+[BlackElo "2479"]
+[Annotator "Thorsten Cmiel"]
+[PlyCount "51"]
+[EventDate "2018.12.19"]
+[EventType "swiss"]
+[EventCountry "RUS"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,51,52,16,44,5,82,40,78,20,45,-15,0,-27,-3,-14,10,-31,0,-27,-14,-35,
+-15,-38,40,-76,13,0,112,0,188,152,290,271,567,560,747,745,29998,29999]} 1. e4
+c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O {
+The players reached the Flohr Variation. Petra Papp analysed this position in
+ChessBase Magazine 184 (June 2018) and predicted that the line will become
+more popular. She was right. In St. Petersburg this line was played relatively
+often, in the open tournament and the women's tournament.} 8. Qc2 (8. Ne2 Re8
+9. O-O $1 Qc7 10. Ng3 Nd7 11. Nf5 $1 Bxh2+ 12. Kh1 Bd6 13. Bh6 $1 {(P. Papp).})
+8... Re8+ 9. Ne2 h5 $5 {A rather recent move which finds more and more
+followers.} (9... g6 10. Be3 Nd7 11. O-O Qc7 12. g3 Nf8 13. Rfe1 Bg4 14. Qd2
+Ne6 15. Kg2 Qd7 16. Nf4 $4 (16. f3 Bh3+ 17. Kh1 (17. Kxh3 $4 Nf4+ 18. Kh4 Qh3#)
+) 16... Ng5 17. h4 Bf3+ {0-1 (17) Belozerov,A (2528)-Jobava,B (2627) Blitz-WM
+St. Petersburg 2018}) 10. Be3 Nd7 (10... Qa5 $6 {An attempt by Nakamura - but
+it fails to convince.} 11. O-O h4 12. Bf4 {Exchanging bishops tends to favour
+Black.} (12. h3 $142 Nd7 13. c4 Nf8 14. Nc3 Be6 $16) 12... Qc7 13. Qd2 Nd7 14.
+Rfe1 Nf8 15. Bxd6 Qxd6 16. Qf4 Qxf4 17. Nxf4 Bd7 18. Kf1 g6 19. a4 Kg7 20. Rxe8
+Rxe8 21. Re1 Rxe1+ 22. Kxe1 $11 {½-½ (121) Savchenko,B (2562)-Nakamura,H 
+(2746) St. Petersburg 2018}) 11. O-O-O (11. c4 Bb4+ 12. Nc3 c5 13. O-O-O Qa5
+14. Nd5 cxd4 15. Bxd4 Ne5 16. a3 Bf8 17. Bc3 Qc5 18. Rhe1 Nxd3+ 19. Qxd3 Rxe1
+20. Rxe1 Qxf2 21. Re8 Bf5 22. Ne7+ Kh8 23. Rxf8+ $6 (23. Qxf5 Qxf5 24. Rxf8+
+Rxf8 25. Nxf5 $18) 23... Rxf8 24. Nxf5 (24. Qxf5) 24... Qxg2 25. h4 Re8 26. c5
+(26. Bd2 $11) 26... Re2 27. Kb1 $4 Qf1+ $1 {and curtains! 0-1 in Savchenko, B 
+(2562) - Fridman, D (2633) St. Petersburg 2018 Blitz-WM (Open).}) 11... Nf8 12.
+Ng3 {[#] Currently Black scores well in this line. However, Anna Muzychuk won
+two rapid games in St. Petersburg with 12.Ng3} ({In the open another move was
+popular:} 12. h3 $5 Be6 13. c4 (13. Kb1 Bd5 14. Rhg1 b5 15. g4 h4 16. g5 Bh2
+17. Rg4 Bf3 $17 {½- (72) ½ (72) Gutenev,A (2456)-Cheparinov,I (2709)
+Blitz-WM St. Petersburg 2018}) 13... b5 14. c5 Bc7 15. Kb1 a5 16. g4 h4 17. Bf5
+Bd5 18. Rhg1 g6 19. Bd3 b4 20. g5 f5 21. Nf4 Bxf4 22. Bxf4 a4 23. Qd2 b3 24. a3
+Be4 $2 $11 {1-0 (38) Goryachkina,A (2518)-Khotenashvili,B (2479) W-Blitz-WM St.
+Petersburg 2018. Note: the Blitz Tournament was played after the Rapid
+Tournament.} (24... Bf3 $142 25. Rde1 Qxd4 $19)) (12. Kb1 Be6 13. Ng3 g6 14.
+Ne4 f5 15. Nxd6 Qxd6 16. Rhe1 b5 17. f3 a5 18. Ka1 a4 (18... Qxh2 $5 $17) 19.
+Qd2 Nd7 20. Bb1 Nb6 21. Bf4 Qd8 22. Be5 f6 23. Qh6 Bf7 24. Bxf5 Qd5 25. Bb1
+fxe5 26. dxe5 Qe6 27. a3 Nc4 28. Ba2 Rad8 29. f4 Rxd1+ 30. Rxd1 Qg4 31. Rb1 Re6
+32. h3 Qxg2 33. Bxc4 bxc4 34. Rd1 Re8 35. f5 Qf3 36. f6 {½-½ (36) Rechlis,G 
+(2521)-Hirneise,T (2464) Schnellschach-WM St. Petersburg 2018}) 12... g6 (12...
+Be6 {has been more popular in practice. The resulting positions are similar.
+Black often allows White to take the bishop on d6 but in turn increases his
+central control with Bd5.}) 13. Ne4 {[#]} (13. Rhe1 Be6 14. Kb1 f5 15. Bc1 Bd5
+16. f3 Rxe1 17. Rxe1 Qh4 18. Qf2 $6 b5 $36 {0-1 (35) Papakonstantinou,D (2308)
+-Fridman,D (2633) Skopje 2018}) 13... f5 (13... Be7 14. Kb1 (14. h4 Nh7 $6 {
+0-1 (47) Stetsko,L (2188)-Hagesaether,E (2181) Batumi 2018} (14... a5 $142 $5))
+14... f5 15. Nd2 Be6 16. Nf3 (16. h3 $5) 16... b5 17. c4 $6 (17. Ne5 $5) 17...
+bxc4 {1-0 (48) Muzychuk,A (2569)-Batsiashvili,N (2459) Women's Rapid World
+Championship, St. Petersburg 2018} (17... Rc8 $1 $17)) 14. Nxd6 Qxd6 15. g3 Be6
+16. c4 b5 17. d5 cxd5 18. c5 Qa6 (18... Qc6 $142) 19. b3 (19. Qc3 $142 d4 20.
+Bxd4 Bxa2 21. Bh8 Ne6 22. Rhe1 {and the computer evaluates this position as
+completely equal - 0.00.} Re7 {is directed against White's threat to take on
+e6.}) 19... Rec8 (19... Bd7 $142 $1 20. Rhe1 Ne6) 20. Kb2 Qa5 $6 {[#] Black
+removes the queen from the pin. However, this maneuver turns out to be too
+slow.} (20... Bd7 {It was necessary to free e6 for the knight. Then Black
+would have nothing to worry about.}) 21. Rhe1 (21. Bd4 $142 $1 Bd7 22. Rhe1 Ne6
+23. Rxe6 $1 Bxe6 24. Qc1 Kh7 25. g4 $1 hxg4 26. h3 g3 27. fxg3 Qc7 28. Qe3 $18)
+21... b4 $2 {[#]} 22. Bd4 $1 Rc6 23. Qd2 Kh7 {[#]} (23... Qd8 24. Bb5 Rc7 25.
+Qh6 {did not help.}) 24. g4 $1 hxg4 25. Qg5 Nd7 26. Qh4+ {A fine attacking win
+by the strong Ukrainian. However, it seems as if Black does not need to fear
+the lines with castling queenside.} 1-0
+

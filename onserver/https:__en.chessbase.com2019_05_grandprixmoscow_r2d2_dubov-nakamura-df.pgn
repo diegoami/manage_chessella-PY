@@ -1,0 +1,68 @@
+[Event "Moscow FIDE GP"]
+[Site "?"]
+[Date "2019.05.21"]
+[Round "2"]
+[White "Dubov, D.."]
+[Black "Nakamura, H.."]
+[Result "1/2-1/2"]
+[ECO "E05"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "63"]
+[EventDate "2019.05.22"]
+
+{[%evp 0,63,19,25,27,-16,0,-6,8,-24,14,8,12,-1,19,4,10,-16,13,28,13,9,32,16,8,
+8,-1,-32,-11,-11,-11,-11,-16,-11,-5,-11,-17,-10,-17,-22,-7,2,42,33,44,44,44,44,
+42,31,32,48,43,21,19,21,28,24,25,34,62,25,28,49,63,17]} {Once again, Dubov
+plays well and gets a few interesting practical chances in the 3-5 moves
+immediately before he agrees a draw. A new scalp or two might help him with
+his confidence in playing on in the way his 'mentor' does!} 1. d4 Nf6 2. c4 e6
+3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 b5 {Nakamura has seemingly
+decided he needs to play something a bit unusual to get through his opponent's
+(undoubtedly existent) deep preparation in one piece.} 8. a4 b4 9. Nbd2 Bb7 10.
+Nxc4 c5 11. dxc5 Be4 {White seems to have a stable enough advantage in a few
+lines.} 12. Qd2 (12. Qb3 Bxc5 13. Bf4 Nc6 14. Be3 Na5 15. Nxa5 Qxa5 16. Bxc5
+Qxc5 17. Rac1 Qd5 18. Qxd5 Bxd5 19. Ne5 $14 {Grandelius,N-Wei,Y Athens 2012})
+12... Nbd7 $5 13. Nfe5 {White is also more or less playing safe and hoping
+that he can use his static advantage of the slightly better bishop.} ({I am
+not sure exactly how Black wanted to show compensation after} 13. Qxb4 $5 Nxc5
+14. Nfe5 {. It feels like there is something here, but exactly what- that is
+another question.}) 13... Bxg2 (13... Nxe5 14. Nxe5 Qc7 $5 $11 {is interesting,
+and White should be careful to not end up worse.}) 14. Kxg2 Bxc5 ({Now} 14...
+Nxe5 15. Nxe5 Qc7 16. Nd3 Bxc5 17. Qf4 Bd6 18. Qf3 {doesn't save Black from
+playing fundamentally the same kind of game.}) 15. Nxd7 Nxd7 16. b3 Nb6 17.
+Qxd8 Rfxd8 18. Nxb6 Bxb6 {My impression is that this position is basically
+just level. White needs a whole lot of luck to get anywhere at all.} 19. a5 ({
+However, if he doesn't start with the text, then he actually has the worse
+bishop, e.g.} 19. Ra2 a5 20. Rd2 Rac8 21. Rxd8+ Rxd8 22. Bf4 f6 {and he needs
+the tricky} 23. Rc1 $1 e5 24. Rc6 $11 {to maintain equality.}) 19... Bd4 20.
+Ra4 a6 $2 $14 {Note that '+/=' still means 'should be drawn but needs some
+neutralisation.'} (20... Bc3 $11 {seems safer: if White tries a6 then this
+pawn will be as much a weakness as anything else.}) 21. Rxb4 Bc3 22. Rc4 ({
+To pose his opponent any tactical issues, White has to play extremely
+precisely.} 22. Rb7 $5 {is maybe the best way, though the path in the game is
+interesting too if White wants to try one of a few tricks based on doubled
+rooks on the 7th.} Rdb8 $1 (22... Bxa5 $2 23. b4 $18) 23. Rxb8+ Rxb8 24. Rd1
+Bxa5 25. Rd6 h6 $1 {Black needs to play this very chilled-out move order to
+equalise.} (25... Bb4 26. Rxa6 Bf8 {doesn't regain the pawn:} 27. Bf4 Rxb3 $2
+28. Ra8 $1 Rb6 29. Bc7 Rc6 30. Bd8) (25... Bb6 26. Bf4 $1 Bc7 27. Rxa6 Bxf4 28.
+gxf4 g6 29. Ra3 $1 $14 {This should not be winning, but White can at least try
+for quite a while and it is not totally clear either what Black's defensive
+setup is.}) (25... Bc7 26. Rc6 Be5 27. b4 $1 h6 28. Bd2 Ra8 29. f4 Bf6 30. Kf3
+$14 {forces Black to go passive}) 26. Rxa6 Bc7 27. Rc6 Be5 $1 {Now White can't
+get back to d3.} 28. Rc5 Bf6 29. e4 Rxb3 30. e5 Bd8 31. Rc8 Rd3 32. Be3 Kh7 33.
+Kf3 Kg6 34. Ke4 $11 {There remain some minor tries, but these are more of a
+bad joke than anything else.}) 22... Bxa5 23. b4 Bb6 24. Bf4 h6 25. Rc6 Bd4 26.
+Bc7 Rd5 27. Rd1 Rc8 28. Rdc1 ({It is also interesting to try} 28. e4 Rd7 29.
+Rdc1 {so that after Bd6 we cut off Black's remaining rook as well as
+exchanging one pair.} f5 30. exf5 exf5 31. Bd6 Rxc6 32. Rxc6 Ra7 {Now maybe
+the last gasp is something like} 33. Kf3 Kf7 34. Bc5 $5 Bxc5 35. Rxc5 g6 36. h4
+$11 {hoping that the more active king will count for something.}) 28... Bf6 29.
+Bd6 Rd8 30. Bc7 {This is perhaps too safe against a player known for rapid and
+blitz.} (30. Bc5 $1 Ra8 31. Rc2 $14 {could still be a bit better for White,
+but with Black playing ...a5 there needs to be a plan in place. Probably,
+White saw a line like} Rd1 32. e4 a5 $6 33. b5 Rb1 34. b6 a4 {and did not see
+a way to continue without taking risks. Relatively best in a practical game is
+something like 32.Ra2 Ra1 but the problems associated with Black playing ...a5
+remain. However, the engines point out the amazing} 35. Rc7 Bd8 36. Rd2 $3 $16
+{when Black faces very, very real problems.}) 30... Rc8 31. Bd6 Rd8 32. Bc7 {
+Draw agreed.} 1/2-1/2

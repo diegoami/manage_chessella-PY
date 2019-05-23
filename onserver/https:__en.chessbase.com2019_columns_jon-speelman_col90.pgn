@@ -1,0 +1,146 @@
+[Event "Istanbul"]
+[Site "Peoria"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Tasan, Askin"]
+[Black "Anil, Ayhan"]
+[Result "1-0"]
+[ECO "D37"]
+[Annotator "Speelman,Jonathan"]
+[PlyCount "65"]
+[EventDate "1980.??.??"]
+[SourceVersionDate "2015.07.13"]
+
+{"This was played in the 6th round of the Kocaeli province chess championship.
+My opponent Aşkın Taşan has several times beeen champion of the province.
+Although I had a good position after the opening and had good attacking
+chances, I could not find the killer blow. I calculated a lot and sought the
+right continuation/plans a lot but only lost a lot of time. In the endgame
+phase I was one pawn up and stood well positionally but was in severe time trouble.
+As a result I lost. But I think the game is worth to look at and I
+decided to share with you as my "agony" game. I choose it because I
+understand that being positionally better or materially up (a pawn) against a
+better player does not mean that you will win the game."} 1. d4 d5 2. Nf3 Nf6
+3. c4 e6 4. Nc3 Nbd7 5. e3 Be7 6. Bd3 O-O 7. a3 c5 8. O-O a6 9. b3 b6 10. Bb2
+Bb7 11. Qe2 Ne4 {[#] This is a very complicated position in which the next few
+moves are utterly crucial. White can now either keep the tension or try to
+resolve the centre to his advantage. My first thought was to try cxd5 and if
+exd5 dxc5 hoping to leave Black with either a slightly weak pawn on e4 or an
+isolated d-pawn. but it isn't very convincing since Black has many options.}
+12. Bxe4 (12. cxd5 exd5 (12... Nxc3 13. Bxc3 Bxd5 {looks perfectly reasonable
+for Black too.}) 13. dxc5 Ndxc5 ({something like} 13... bxc5 14. Bxe4 dxe4 15.
+Nd2 Nf6 16. Rfd1 Qc8 17. Nc4 Qe6 {was what I was aiming for. Incidentally,
+White would be much happier here if the pawn were on a2 because then the b3
+pawn wouldn't be a target.}) 14. b4 (14. Rad1) 14... Nxd3 15. Qxd3 {Engines
+tend to be happy in this sort of position as Black but as White you can hope
+to get a good IQP position eventaully.}) (12. Rfd1 {keeping the tension would
+have put the most pressure on Black when it's crucial that f5, which he would
+like to play, runs into tactics.} f5 ({the modest} 12... Nxc3 13. Bxc3 Bf6 {
+feels a tad uncomfortable for Black (can White exploit that fact that h7 will
+be hit by Qc2 - is there some way to resolve the centre to get a +=?) though
+it may be okay...}) 13. cxd5 exd5 14. dxc5 bxc5 (14... Bf6 15. c6 Bxc6 16. Rac1
+{gvies White a nice edge.}) 15. Nxe4 $1 fxe4 16. Bxe4 dxe4 17. Ne5 Nxe5 18.
+Rxd8 Nf3+ 19. gxf3 Raxd8 20. f4 {and White should win.}) 12... dxe4 13. Nd2 Nf6
+{With the e4 pawn well protected Black has a good game.} 14. Rad1 (14. Rfd1 {
+looks more normal.}) 14... Qc7 15. f3 {Getting some space and the f-file but
+weakening the light squares.} exf3 16. Nxf3 Rad8 17. Ne5 Bd6 {[#]} 18. Nf3 ({
+I tried to make Rxf6 work but after} 18. Rxf6 Bxe5 $1 (18... gxf6 19. Ng4 {
+is really dangerous since the long black diagonal will soon open for example if
+} Be7 20. d5 exd5 21. Nxd5 Bxd5 22. Nxf6+ Bxf6 23. Qg4+ {and mate next move.})
+19. dxe5 Rxd1+ 20. Nxd1 gxf6 21. exf6 Kh8 {and White doesn't really have
+enough for the exchange.}) 18... Ng4 $1 19. h3 Nf6 20. dxc5 bxc5 21. e4 Nh5 {
+[#] With the light squares around White's king softened, Ayhan now has a very
+nice advantage} 22. Qe3 Bf4 23. Qf2 Ng3 24. Rxd8 Rxd8 25. Re1 {[#] The main
+difficulty in positions like this is that our eagerness to wrap things up
+propels us to "do things". Black is in almost total control and Ayhan could
+have taken a move to sort out his back rank with h6.} Rd3 (25... h6 {when
+White has no good moves. Perhaps he would have tried} 26. Bc1 {but} Bxc1 27.
+Rxc1 Bxe4 {is very grim.}) 26. Qc2 Be3+ 27. Rxe3 Rxe3 28. Qd2 Rxe4 (28... Rxc3
+$1 29. Bxc3 Nxe4 30. Qd3 Nxc3 31. Qxc3 f6 {would have given excellent and safe
+winning chances.}) 29. Nxe4 Nxe4 30. Qe3 Qd8 31. b4 Qd1+ 32. Kh2 {[#]} Qc2 $4 {
+A horrible blunder in time trouble.} 33. Qf4 $1 {Suddenly White is winning and
+Ayhan resigned. A very sad end to an extremely complicated game in which, up
+to this point, Ayhan had played well. He took advantage of his opponent's bad
+resolution of the centre to gain a nice advantage which he increased with the
+excellent Nf6-g4 and back again after h3, creating serious dark square
+weaknesses around the enemy king. In the critical phase, Rd3 was strong but
+from a practical point of view h6 would have perhaps been even better,
+avoiding back rank disasters as actually occured in the game and putting the
+ball back into his opponent's court.} (33. Qf4 h6 34. Qb8+ Kh7 35. Qxb7 f6 (
+35... cxb4 36. Qxb4) 36. bxc5 {and with the bishop defended, White is in full
+control.}) 1-0
+
+[Event "Istanbul"]
+[Site "Peoria"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Kuseyri, Mehmet Ali"]
+[Black "Anil, Ayhan"]
+[Result "0-1"]
+[ECO "D37"]
+[Annotator "Speelman,Jonathan"]
+[PlyCount "68"]
+[EventDate "1980.??.??"]
+[SourceVersionDate "2015.07.13"]
+
+{Ayhan wrote: "This was played in the 5th round at Tuzla (İstanbul)
+Municipality chess championship on 02.12.2018. In the opening phase I played
+quite well until 16...e4? blunder move but I did not give up the game.
+The next 5-6 moves my opponent could not understand the game positionally I think,
+although he had quite good chances I was aware of the white king’s back rank
+weakness and when the right moment came I benefited with the interesting 26...
+Nb3! idea. I chose the game because I did not give up and I believe that I
+played positionally good chess in the game. I created weaknesess in the
+opponent's camp and finally benefited with the Nb3 idea which increased the
+complications over the board. My oponent could not find the right continuation
+due to complications and physiological tensions as well."} 1. d4 d5 2. c4 e6
+3. Nc3 Nf6 4. Nf3 Be7 5. Bf4 O-O 6. e3 c6 7. Rc1 Nbd7 8. h3 a6 9. Bd3 (9. c5 {
+makes some sense after Black has played a move that loses a tempo undermining
+the queenside} b6 10. b4 a5 11. a3 axb4 12. axb4 bxc5 13. bxc5 Ba6) (9. a3 {
+looks better than Bd3 since Black is preparing dxc4 anyway.}) 9... dxc4 10.
+Bxc4 b5 11. Bd3 c5 12. O-O Bb7 13. dxc5 Bxc5 14. Bb1 Qb6 {[#] With all his
+pieces mobilised Black is at least equal.} 15. Ng5 {This could easily be a
+good move if White had the advantage but rebounds here.} (15. a3 Rfd8 16. Qe2 {
+looks normal but uninspiring.}) 15... e5 16. Bh2 e4 $2 {Losing the e-pawn} (
+16... Bxe3 $1 {was a nice way to take advantage of the fact that the knight is
+loose on g5. It wins material because} 17. Nxh7 (17. fxe3 Qxe3+ 18. Rf2 Qxg5 {
+is a lesser evil but also very grim.}) 17... Bxc1 18. Nxf8 Qc6 $1 19. Qf3 Qxf3
+20. gxf3 Bxb2 {is awful.}) 17. Ngxe4 Rad8 (17... Rfd8 {was slightly better
+reserving c8 for the other rook though after} 18. Nxc5 Nxc5 19. Qc2 Rac8 20.
+Qf5 {White still keeps an edge.}) 18. Nxc5 Nxc5 19. Qc2 Rc8 {[#]} 20. Qe2 (20.
+Be5 $1 {Threatened Bxf6 and kept control with a nice advantage.} Nce4 (20...
+Ncd7 21. Bd4 Qc6 22. f3 b4 23. Ne2) 21. Bd4 Qc6 22. f3 Nxc3 23. Qxc3 {The
+position has stabilsed and with an extra centre pawn and the two bishops,
+White has excellent winning chances.}) 20... b4 21. Nd1 {[#] The knight is in
+the way here and, despite the extra pawn, White is at the very least not better.}
+Rfe8 (21... a5 {was also good at once.} 22. Re1 Ba6 23. Qf3 Ne6 24. Rxc8 Rxc8 {
+It's really uncomfortable with the knight on d1 for instance if} 25. Be5 Qd8
+26. Qf5 Qd2 27. Bxf6 Qxe1+ 28. Kh2 gxf6 {and Black is simply winning}) 22. f3
+a5 {[#]} 23. Nf2 {White needs to improve the knight but Ba6 was a serious
+threat. He can just get away with Re1 but with the c1 rook unprotected this is
+only due to a pretty random tactic.} (23. Re1 Ba6 24. Qd2 $1 (24. Qf2 Nd3 25.
+Bxd3 Rxc1) 24... Red8 25. Qf2 Nd3 $2 (25... Bd3 26. e4 Bxb1 27. Rxb1 Qe6 {
+is about equal.}) 26. Rxc8 Nxf2 27. Bc7 Qxc7 28. Rxc7 Nxd1 29. Ra7) 23... Nd5 (
+23... Ba6 24. Bd3 (24. Nd3 Nd5) 24... Nxd3 25. Nxd3 Nd5 {was very strong.}) 24.
+Rfd1 (24. e4 Ba6 25. Qe1 Bxf1 26. Kxf1 Ne7 {White can fight here but with the
+centre open the rooks are strogner than the minor pieces.}) 24... Nxe3 25. Rd6
+{[#] White has turned the position round by activating his rook and it's now
+Black who has to be careful.} Qa7 {Very much the obvious move but} (25... Bc6 {
+was actually better (this was completely unobvious to me without really
+thinking about it) since after the natural move Qd2 Black has tactics:} 26. Qd2
+Nb7 27. Rd4 Bxf3 28. Rxc8 Rxc8 29. Qxe3 (29. gxf3 Qxd4 30. Qxd4 Rc1+ 31. Nd1
+Rxd1+ 32. Qxd1 Nxd1) 29... Qxd4 30. Qxd4 Rc1+ 31. Nd1 Rxd1+ 32. Qxd1 Bxd1) 26.
+Qd2 Qa8 {[#]} 27. Qd4 $2 {Walking into tactics based on the unprotected c1
+rook.} (27. Bf4 Nd5 (27... Nxg2 28. Kxg2 Bxf3+ 29. Kg3) 28. Bf5) 27... Nb3 $1
+28. Rxc8 Qxc8 29. Qd3 $2 (29. axb3 {Was necessary when after} Qc1+ 30. Nd1 Nxd1
+31. Bf4 Ne3+ (31... Qxb1 32. Rd8) 32. Kh2 Nf1+ 33. Kh1 Qxb1 34. Rd8 {Black's
+weak back rank saves White.} Bc6 35. Rxe8+ Bxe8 36. Qe5 Nd2+ 37. Kh2 Nxf3+ 38.
+gxf3 Qc2+ 39. Kg3 Qg6+ 40. Qg5 Qc6 41. Qxa5) 29... Qc1+ 30. Nd1 Nxd1 31. Qxh7+
+Kf8 32. Qh8+ Ke7 33. Qxg7 Qe3+ 34. Kh1 Nf2+ {Forcing mate so White resigned..
+A splendidly complicated battle in which Ayhan lost a pawn but gained good
+compensation. He let his opponent back into the game but struck again after a
+blunder and this time it proved decisive. The variations I've generated with
+computer assistance were fun but had only limited relevance to what was
+actually going on, in practice.} (34... Nf2+ 35. Kg1 Nxh3+ 36. Kh1 Qe1+ 37. Bg1
+Qxg1#) 0-1
+

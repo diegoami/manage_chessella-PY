@@ -1,0 +1,44 @@
+[Event "Accentus Young Masters 2019"]
+[Site "Bad Ragaz"]
+[Date "2019.03.02"]
+[Round "4.1"]
+[White "Wagner, Dennis"]
+[Black "Yankelevich, Lev"]
+[Result "0-1"]
+[ECO "E71"]
+[WhiteElo "2587"]
+[BlackElo "2445"]
+[Annotator "Peterson/Fischer"]
+[PlyCount "56"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,56,19,31,14,-14,43,32,42,45,32,43,54,30,24,12,16,13,12,-7,17,17,14,15,
+14,12,8,28,30,-6,-23,-90,-89,-89,-100,-207,-115,-207,-200,-177,-226,-226,-189,
+-237,-276,-245,-245,-407,-452,-629,-716,-657,-763,-674,-1412,-29987,-29988,
+-29989,-29990]} 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 Nbd7 6. Be3 e5 7.
+d5 Nc5 8. Qc2 {In a rare treatment of the KID with 6.h3, Wagner uses the
+strategy of replaying one of his opponents lines with White; Yankelevich
+played this way in 2016.} O-O (8... a5 9. g4 c6 10. Nf3 {gave White a small
+edge in Yankelevich, Lev (2443) 1/2-1/2 Jurcik, Marian (2497), Mitropa Cup 2017
+} (10. g5 {looks promising.})) 9. g4 c6 10. b4 {Wagner spent over 16 minutes
+on these last two moves, considering options after Yankelevich had omitted
+playing a5 as in his 2017 game.} cxd5 11. cxd5 (11. exd5 Na6 {[%cal Ga6c7]
+heading for c7 is equal.}) 11... Ncxe4 $5 {A surprising sacrifice, which the
+engine likes. Black gets two pawns for the piece and causes White problems
+developing and bringing his king to safety. Yankelevich played immediately,
+indicating he had calculated this on the previous move if not in earlier
+preparation.} 12. Nxe4 Nxd5 13. Bd2 Nf4 14. Ne2 d5 15. Nc5 ({Here the engine
+prefers} 15. Rd1 {and Black still has a clear advantage, indicative of the
+difficulties White faces in the position.} Qc7 $1 {is a flashy move that kicks
+of a virtually forced sequence leading to a technically winning ending for
+Black.} 16. N4c3 (16. Qxc7 Nd3#) 16... d4 17. Bxf4 exf4 18. Nxd4 Re8+ 19. Be2
+f3 20. Nxf3 Qxc3+ 21. Qxc3 Bxc3+ 22. Kf1 Bxb4 $17) 15... b6 16. Nb3 Bb7 17.
+Nxf4 exf4 18. Bg2 ({The f-pawn is taboo.} 18. Bxf4 Bxa1 19. Nxa1 Qf6 {and
+Black wins back the piece with interest.}) 18... f3 19. Bf1 ({Even now the
+f-pawn cannot be taken.} 19. Bxf3 Bxa1 20. Nxa1 Qf6 {with the same idea.})
+19... Re8+ 20. Kd1 Rc8 {Black has an overwhelming position: He has two pawns
+for the sacrificed piece, the white king is exposed and White's pieces are
+barely in play and awkwardly placed. Black finishes the game energetically.}
+21. Qd3 Bxa1 22. Nxa1 d4 23. Qa3 Re2 $1 24. Rg1 Qe8 25. Nc2 Qe4 26. Qb2 Qd3 27.
+Bxe2 fxe2+ 28. Kc1 Be4 0-1
+

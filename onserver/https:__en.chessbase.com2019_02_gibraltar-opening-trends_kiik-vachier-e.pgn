@@ -1,0 +1,55 @@
+[Event "Gibraltar Masters 2019"]
+[Site "Caleta"]
+[Date "2019.01.22"]
+[Round "1"]
+[White "Kiik, Kalle"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[ECO "A34"]
+[WhiteElo "2410"]
+[BlackElo "2780"]
+[Annotator "Thorsten Cmie"]
+[PlyCount "120"]
+[EventDate "2019.??.??"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,120,8,10,25,30,47,37,21,0,0,0,4,14,12,-18,0,-26,0,0,1,-18,-19,-22,
+-37,-68,-66,-83,-58,-86,-50,-50,-60,-86,-81,-70,-59,-64,-43,-44,-9,-185,-181,
+-216,-227,-203,-90,-97,-87,-179,-159,-167,-164,-165,-160,-212,-203,-263,-263,
+-270,-259,-289,-279,-265,-230,-203,-164,-163,-84,-78,-82,-188,-188,-188,-188,
+-188,-188,-188,-188,-188,-188,-234,-188,-188,-188,-188,-188,-188,-188,-188,
+-164,-162,-160,-213,-220,-220,-209,-218,-166,-305,-290,-302,-272,-527,-548]
+The following game features a line which was analysed in ChessBase Magazine
+187.} 1. Nf3 c5 2. c4 Nc6 3. Nc3 e5 4. e3 Nf6 5. d4 {[#]} e4 (5... cxd4 6. exd4
+e4 7. Ne5 Bb4 8. Be2 Qa5 9. O-O {is a promising pawn sacrifice, known from:
+Aronian - Caruana, Tata Steel Wijk 2012.}) 6. Nd2 (6. Ne5 g6 {This would
+probably have been the choice of MVL to avoid the sequence of Aronian-Caruana
+after the exchange on d4.} 7. g4 h6 8. Bg2 Bg7 9. h3 Qe7 10. b3 cxd4 ({(Postny
+in the article mentioned above)} 10... Nb4 $142 $1) 11. exd4 Nxe5 12. dxe5 Qxe5
+13. Bb2 {1-0 (32) Mamedyarov,S (2801)-Vachier Lagrave,M (2779) Biel 2018}) (6.
+d5 exf3 7. dxc6 {is quite playable for White.}) 6... cxd4 7. exd4 Bb4 8. Be2
+O-O 9. O-O Re8 10. Nb3 Bxc3 $5 $146 {[#]A new move giving theoreticians
+something to work on.} ({In a previous game, Kiik, who had White in this game,
+had tried something else:} 10... d5 11. c5 Bxc3 12. bxc3 Bf5 13. Bf4 {1/2-1/2 
+(48) Kiik,K (2369)-Yemelin,V (2573) Helsinki 2015}) 11. bxc3 h6 12. h3 {
+White waits. More principled was to attack the center immediately.} (12. f3 $5
+d5 13. fxe4 Nxe4 14. Bd3 $5 dxc4 (14... Nxc3 $6 15. Qh5 $40) 15. Bxc4 Be6) (12.
+a4 $5) 12... d5 13. c5 Ne7 14. Bf4 Ng6 15. Bh2 Bd7 16. Re1 Nh7 17. Bg4 Bxg4 (
+17... Rc8) 18. Qxg4 (18. hxg4 $6 Nf6 19. Bd6 Qd7 {and White has to give the
+pawn on g4 or risk a lot of trouble:} 20. f3 exf3 21. gxf3 h5 $1 $40 22. g5 Nh7
+23. f4 Nh4 $19) 18... Re6 19. Rab1 Nf6 $36 20. Qg3 $6 (20. Qd1) 20... Rc8 21.
+Nd2 b6 22. cxb6 axb6 (22... Rxb6 $5) 23. Rb3 Ra8 (23... Ne8 $142 {is the
+engine-move. The knight wants to go to d6 and prepare the advance of the
+f-pawn. Black is better.}) 24. a3 Qf8 25. c4 Rc8 26. Rc3 dxc4 27. Rxc4 Ra8 28.
+a4 Qd8 29. Rec1 $2 {Now Black's e-pawn is no longer under attack and Black has
+time to move his knight into the centre. MVL wins the game without too much
+trouble.} ({Better was} 29. Qb3 {with chances for equality.}) 29... Nd5 $1 {
+[#]The knight dominates the whole board, defends b6 and supports the advance
+of the f-pawn.} 30. Qb3 e3 31. Nf3 Ngf4 (31... Nh4 $142 $1) 32. Bxf4 Nxf4 33.
+fxe3 Ne2+ 34. Kf2 Nxc1 35. Rxc1 Rc8 36. Rxc8 Qxc8 37. d5 Rd6 38. e4 Qc5+ 39.
+Qe3 Qc2+ 40. Kg1 Qxa4 41. Nd4 g6 42. Kh2 h5 (42... Qe8 $142 $1) 43. Qf4 Rd7 44.
+Nc6 Qa3 45. Qb8+ Kg7 46. Qxb6 Qd6+ 47. Kh1 Qf4 48. Qb2+ f6 49. Qb1 Qe3 50. Qb4
+Qc1+ 51. Kh2 Qf4+ 52. Kh1 Kh7 53. Qb1 Rc7 54. Qb8 Qd6 55. Qb6 Re7 56. Qb1 Rf7
+57. Qb3 Rg7 58. g3 Qc5 59. Kg2 Qc1 60. Qb4 Qe3 0-1
+

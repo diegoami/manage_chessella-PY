@@ -1,0 +1,39 @@
+[Event "17th Aeroflot Open-A 2019"]
+[Site "Moscow"]
+[Date "2019.02.23"]
+[Round "4.1"]
+[White "Chigaev, Maksim"]
+[Black "Sasikiran, Krishnan"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "2613"]
+[BlackElo "2678"]
+[Annotator "AlexYermo"]
+[PlyCount "86"]
+[EventDate "2019.02.19"]
+[EventType "swiss"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 h6 7. a4 a5 8. Be3
+Bxe3 9. fxe3 Ne7 10. d4 O-O 11. Nbd2 Ng6 12. Qe1 c6 13. Nh4 Nxh4 14. Qxh4 Be6
+15. Bxe6 fxe6 16. Qh3 Qe7 17. dxe5 dxe5 18. Nc4 Nd7 19. Rxf8+ Rxf8 {[#]
+Possibly White already stands slightly worse due to his misplaced queen, but
+the following material grab made matters more serious.} 20. Nxa5 $6 ({The
+position is oddly symmetrical, so giving up the a-pawn was the right idea for
+either side!} 20. Rd1 Nc5 21. Qg4 Nxa4 22. h3 {secures the king, anticipating}
+Qf6 23. Nxa5 Nxb2 24. Rd6 $11) 20... Nc5 21. Nc4 Qd7 $1 {Excellent play from
+Krishnan. The d-file is the key.} 22. Qg3 Nxe4 23. Qe1 Qd5 24. b3 b5 $1 25. Nb6
+Qxb3 26. a5 {An attempt at counterplay that only speeds up White's demise.} ({
+Truth to tell,} 26. axb5 cxb5 27. Nd7 Rd8 28. Nxe5 Nxc3 {wasn't offering much
+of a chance to survive.}) 26... Rf2 $1 27. Kh1 Qb2 28. Rb1 Qa2 29. Ra1 Qb2 30.
+Rb1 {[#]} Qa3 ({The winning line,} 30... Re2 31. Qf1 Qc2 32. a6 Nd2 33. a7 Nxf1
+34. a8=Q+ Kh7 35. Rxf1 Rxg2 {was a bit unnerving to calculate.}) 31. c4 b4 32.
+a6 Qxa6 33. Qxb4 Qa2 34. Nd7 Kh7 35. Qb8 Rf7 36. Nxe5 Rf8 ({In what must have
+been time trouble Sasikiran missed the decisive} 36... Nf2+ 37. Kg1 Nd1 $3 38.
+h3 Rf1+ 39. Kh2 Nxe3) 37. Qb4 c5 38. Qe1 Nd2 39. Ra1 Qb2 40. Nd3 Qc3 41. Nf4 e5
+{Despite some misses Sasikiran played well enough to maintain winning
+advantage past the time control. It all ends in a couple more moves.} 42. Rc1
+Qa5 43. Ra1 Qb4 0-1

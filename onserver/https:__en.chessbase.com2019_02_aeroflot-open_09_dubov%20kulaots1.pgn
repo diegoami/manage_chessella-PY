@@ -1,0 +1,61 @@
+[Event "Aeroflot Open A 2019"]
+[Site "Moscow RUS"]
+[Date "2019.02.24"]
+[Round "6.2"]
+[White "Kulaots, Kaido"]
+[Black "Chigaev, Maksim"]
+[Result "1/2-1/2"]
+[ECO "C91"]
+[WhiteElo "2542"]
+[BlackElo "2613"]
+[Annotator "Sagar"]
+[PlyCount "139"]
+[EventDate "2019.02.20"]
+
+{[%evp 0,139,58,14,8,34,15,5,15,2,-2,19,14,3,5,11,16,-22,-13,-10,6,4,16,1,18,
+29,38,2,0,-3,-4,0,17,-31,-33,-31,-43,-44,-21,-28,-19,-35,-25,-6,-13,-5,38,45,
+77,95,102,98,186,170,151,185,535,525,541,550,620,-34,-74,-206,-260,-269,88,112,
+96,113,107,110,126,126,109,135,130,146,194,70,70,81,56,77,76,0,13,23,18,6,14,
+12,18,1,-5,-4,29,19,15,25,19,0,0,0,0,0,0,0,142,137,138,48,160,49,115,112,150,
+144,242,242,310,298,324,323,326,216,224,44,44,278,283,235,229,43,40,40,40,0,0,
+0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6
+8. c3 O-O 9. d4 (9. h3 {is played to prevent Bg4 after d4. But direct d4 also
+exists.}) 9... Bg4 10. Be3 Bh5 (10... Nxe4 11. Bd5 $18) 11. h3 exd4 12. cxd4
+Na5 13. Nbd2 Nxb3 14. axb3 {What is it that White has in this position? Black
+has the bishop pair and White has also lost his Ruy Lopez bishop. It's true
+White has no real edge here, but he is also not worse. It is an equal position.
+} Bg6 15. Bf4 d5 16. e5 Ne4 17. Nf1 f6 18. Rc1 {From this point onwards
+Kulaots felt that his next ten moves were the best he played in Moscow.} fxe5
+19. Bxe5 Rc8 20. Rc6 a5 21. Qc1 $1 Bb4 22. Re2 Rxf3 {This exchange sacrifice
+always looks attractive because you blast the pawn cover in front of the
+opponent's king. But in reality, this just gives White a clear advantage.} 23.
+gxf3 Ng5 24. Re3 $1 Nxh3+ 25. Kg2 Bf5 26. f4 {Kulaots has defended well and
+now has a completely winning position.} Qh4 27. Rg3 Bd6 28. Bxd6 Re8 $3 {
+The double exclam is not for the quality of the move, but the idea that Black
+has of activating his rook down the e-file.} 29. Ne3 $1 {Once again the only
+move for an advantage.} (29. Be5 Rxe5 $1 30. fxe5 Nf4+ 31. Qxf4 (31. Kg1 Ne2+
+$19) (31. Kf3 Be4+ 32. Ke3 Nd3 $19) 31... Qxf4 $13) (29. Rxc7 $2 Be4+ $1 30. f3
+Bxf3+ 31. Kxf3 (31. Rxf3 Re2+ $19) 31... Qh5+ 32. Rg4 Ng1+ 33. Kg3 Qh3+ 34. Kf2
+Re2+ 35. Kxg1 Qxg4+ 36. Kh1 Qg2# {What a variation!}) 29... cxd6 {[%cal Gg3g7]
+And now Kulaots after making 10 consecutive best moves in the position,
+finally goes wrong.} 30. Nxf5 $2 (30. Rxg7+ $1 Kh8 (30... Kxg7 31. Nxf5+ $18) (
+30... Kf8 31. Nxf5 Nxf4+ 32. Kf3 Qh3+ 33. Kxf4 $18 Re4+ 34. Kg5 Qg2+ 35. Kf6
+$18) 31. Nxf5 Nxf4+ 32. Kf3 Qh5+ 33. Kxf4 Re4+ 34. Kg3 $18 {Such position seem
+as if White is losing, but there is way to continue the attack.} Qxf5 35. Rg5
+$18) 30... Nxf4+ 31. Kf3 $2 (31. Qxf4 Qxf4 32. Nxg7 $17) 31... Qh5+ 32. Rg4 Ne6
+$2 (32... Ne2 $1 $19 {White's extra rook doesn't play an importnat role here
+because the white king is just too weak.} 33. Qd2 Qh1+ 34. Rg2 Ng1+ 35. Kg3
+Qh3+ 36. Kf4 Re4+ 37. Kg5 Nf3# {What a pretty mate.}) 33. Nh6+ Kh8 34. Kg3 gxh6
+35. Rc8 $1 Ng5 36. Rxe8+ Qxe8 37. Qf4 $18 {This is a winning position for
+Kulaots.} Qe7 38. Qf5 Kg7 39. Kg2 Qf7 40. Qxf7+ Kxf7 41. Rh4 Kg6 42. f3 h5 43.
+Kf2 Ne6 44. Ke3 Ng7 45. Rh1 Nf5+ 46. Kf2 Kg5 47. Ra1 Kf4 48. Rxa5 Nxd4 49. Ra7
+h6 50. Rh7 Nf5 51. Rb7 h4 52. Rxb5 h3 53. Kg1 Kxf3 $2 (53... Ne3 54. Rb4+ Kg3
+$1 {Black is completely winning now.} (54... Kxf3 55. Rd4 $18 {The b-pawn
+queens.}) 55. Rd4 h2+ 56. Kh1 Kh3 57. b4 Nf5 58. Rg4 d4 59. b5 d3 60. Rg2 Ng3+
+61. Rxg3+ Kxg3 62. b6 d2 63. b7 d1=Q#) 54. Rxd5 Ke4 {Black offered a draw here.
+} 55. Rd1 d5 56. b4 d4 57. b5 h2+ 58. Kxh2 d3 59. b6 Nd6 60. Kg3 Ke3 61. Re1+
+Kd4 62. Re6 (62. Kf2 $18) 62... Kd5 63. Rxh6 (63. Re1 $1 $18) 63... d2 64. Rh1
+Kc6 65. Kf3 Nc4 66. Ke2 $2 (66. Rb1 $1 Kxb6 67. Ke2 Kc5 68. b3 Na3 69. Rh1 Kb4
+70. Rh3 $18) 66... Nxb2 67. b7 Kxb7 68. Rb1 d1=Q+ 69. Rxd1 Nxd1 70. Kxd1 {
+A game filled with great ups and downs.} 1/2-1/2
+

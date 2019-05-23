@@ -1,0 +1,86 @@
+[Event "VIII Memorial Hermanos Colon Romero"]
+[Site "Natatorium de San Juan"]
+[Date "2019.03.23"]
+[Round "4.3"]
+[White "Shabalov, Alexander"]
+[Black "Zilleruelo Irizarry, Diego"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2529"]
+[BlackElo "2022"]
+[Annotator "AlexYermo"]
+[PlyCount "82"]
+[EventDate "2019.03.21"]
+[EventRounds "7"]
+[EventCountry "PUR"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 Nc6 5. Bb5 {This one is considered White's
+best choice.} ({The position after} 5. Nf3 Bg4 6. c3 e6 {was successfully
+defended by Andreikin against Svidler in their 2013 World Cup matcch, and
+later twice by Nakamura.}) 5... Qa5+ {A very rare line, the main practioner of
+which is English GM Keith Arkell.} ({Common is} 5... e6 6. Be3 Nge7 7. c3 Bd7 {
+the latest example being Jakovenko-Granda Zuniga, 2018.}) 6. Nc3 e6 7. Be3 Bd7
+({After} 7... Nge7 8. Nf3 Nf5 9. a3 Nxe3 10. fxe3 Qc7 11. e4 {White seized the
+initiative in Shabalov(!)-Arkell, 1991.}) 8. Nf3 Nxe5 $6 {This shouldn't have
+gone well for Black.} ({Arkell prefers} 8... Nge7) 9. Nxe5 Bxb5 10. Qh5 g6 {[#]
+} 11. Qf3 {A wrong choice according to Shabalov himself.} ({In case of} 11.
+Nxg6 Nf6 (11... fxg6 12. Qe5) 12. Qh4 Bg7 13. Nxh8 {the move} Ne4 {looks
+threatening, but} 14. Bd2 Nxd2 15. Nxf7 $1 Kxf7 (15... Ne4 16. Nd6+ Nxd6 17.
+cxd6 Bxc3+ 18. Kd1) 16. Qf4+ {should calm the waters.}) 11... f6 12. Ng4 $2 ({
+White had one and only path to follow:} 12. Qh3 $1 fxe5 13. Qxe6+ Be7 14. Bd2
+$1 Qa6 15. Qxe5 Nf6 16. Nxd5 Nxd5 17. Qxh8+ Bf8 18. Qe5+ Ne7 19. a3 {where his
+material advantage should see him through to eventual victory.}) 12... Bg7 13.
+Bd2 Qa6 14. Qe3 {[#]} e5 $3 {I admire the resolute play of Diego Zilleruelo.} ({
+In no regard to the fact that} 14... Bd7 {was also good for Black.}) 15. Nxd5 {
+True to himself, Shabalov takes up the challenge.} ({The objectively better} 15.
+Nxb5 Qxb5 16. Qb3 Qxb3 17. axb3 f5 18. Ne3 Ne7 $15 {was hardly an inspiring
+choice.}) 15... O-O-O 16. Nb4 Qe6 17. Qh3 {Now the white queen has to go into
+exile.} (17. f3 h5 18. Nf2 Bh6) 17... f5 18. Ne3 Nf6 19. a4 Bc6 (19... Bd7 $142
+) 20. Nxc6 Qxc6 21. Ba5 (21. Bb4 Bf8 22. O-O Bxc5 $15) 21... Rd7 22. O-O Qxc5
+23. Be1 h5 24. Ra3 Kb8 25. Qf3 Qe7 26. a5 f4 27. Nc4 Qe6 28. Ra4 Rc8 29. b3 Nd5
+30. Bd2 g5 31. Re1 Qf5 32. Qe4 ({In the resulting complications the white king
+will be lacking luft, so} 32. h4 $1 g4 {had to be inserted before playing} 33.
+Qe4 {and now in case of} Qxe4 34. Rxe4 b5 35. axb6 Nxb6 36. Rb4 Rxc4 37. bxc4
+Rxd2 {the key move} 38. c5 {becomes possible.}) 32... Qxe4 33. Rxe4 {[#]} Nf6
+$2 {Time trouble begins to spoil the otherwise well-played game by Black.} ({
+Winning was} 33... b5 34. axb6 Nxb6 35. Rb4 Rxc4) 34. Re2 (34. Rxe5 Rxc4 35.
+Rxc4 Rxd2 36. Re1 {and White can fight on.}) 34... e4 35. Bc3 e3 (35... Ng4 $1
+$17) 36. Be5+ Rcc7 $8 (36... Ka8 37. Nb6+) 37. Bxc7+ Kxc7 {[#]} 38. fxe3 Rd1+
+39. Kf2 Ne4+ 40. Kf3 Nc3 41. exf4 $2 {The final mistake.} ({After the correct} 
+41. Kf2 g4 42. Re1 Rxe1 43. Kxe1 Nxa4 44. bxa4 fxe3 45. Nxe3 Kc6 {Black is
+somewhat better, but with careful play White should hold.}) 41... g4+ {I was
+so impressed with Diego's play I took a safe road to equality when we met in
+the last round!} 0-1
+
+[Event "VIII Memorial Hermanos Colon Romero"]
+[Site "Natatorium de San Juan"]
+[Date "2019.03.22"]
+[Round "3.3"]
+[White "Zilleruelo Irizarry, Diego"]
+[Black "Vera Gonzalez - Quevedo, Reynaldo"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "2022"]
+[BlackElo "2432"]
+[Annotator "AlexYermo"]
+[SetUp "1"]
+[FEN "2rq1b1k/p2r1pp1/b1n1p2p/4P2N/5QR1/3p1N1P/P4PP1/2R2BK1 b - - 0 30"]
+[PlyCount "14"]
+[EventDate "2019.03.21"]
+[EventRounds "7"]
+[EventCountry "PUR"]
+
+{[#]} {White has been positionally busted for some time, but on the approaches
+to the time control Zilleruelo managed to confuse his experienced opponent.} 
+30... d2 $6 {Unnecessary.} ({As} 30... Nd4 31. Rxc8 Nxf3+ 32. Qxf3 Bxc8 33.
+Bxd3 Rxd3 34. Qxf7 Rd7 {would beat off White's desperate attack.}) 31. Nxd2 Nd4
+32. Rxc8 Qxc8 ({Still,} 32... Bxc8 33. Nb3 Nf5 {is better for Black.}) 33. Nf6
+$3 gxf6 34. Qxf6+ Kh7 35. Ne4 {[#]} Qc6 ({The point of White combination is
+the dream line} 35... Qc1 36. Qf5+ $3 Nxf5 37. Nf6+ Kh8 38. Rg8#) 36. Nd6 $2 {
+[#]} (36. Ng5+ hxg5 37. Qxg5 {was mate in 5 after some spite checks from Black.
+}) 36... Nf5 $4 {[%emt 0:00:00] On his waning seconds Reynaldo falters.} (36...
+Be2 37. Rxd4 Qc1 {was the only way to hold balance. White gives perpetual after
+} 38. Nxf7 Qxf1+ 39. Kh2 Rxd4 40. Qh8+ Kg6 41. Qf6+ Kh7 ({not} 41... Kh5 42.
+Nh8 $3 Qb1 43. f3 {and all the extra material Black has won't save his king.}))
+37. Nxf5 {[%emt 0:00:00]} 1-0
+

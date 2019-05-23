@@ -1,0 +1,53 @@
+[Event "Aeroflot Open A"]
+[Site "Moscow RUS"]
+[Date "2011.02.13"]
+[Round "6"]
+[White "Kotronias, Vasilios"]
+[Black "Xiu, Deshun"]
+[Result "1-0"]
+[ECO "B94"]
+[WhiteElo "2599"]
+[BlackElo "2508"]
+[Annotator "Reeh,Oliver"]
+[PlyCount "45"]
+[EventDate "2011.02.08"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 e5 8. Nf5
+Qb6 9. Qf3 Qxb2 10. Rb1 Qxc2 11. Bc4 Nxe4 $1 12. O-O Qxc3 13. Qxe4 Nc5 14.
+Bxf7+ Kxf7 15. Qd5+ Be6 {After 16.Rxb7+! in the diagram position White
+checkmates the black king by force. Four variations, four key moves, and
+everything goes with check. Enjoy!} 16. Rxb7+ $1 {[%csl Gb7][%cal Gb7f7]} Kg8 {
+Whatever Black does, the white pieces work perfectly together to hunt down the
+king.} ({Alternative 1:} 16... Nxb7 {[%tqu "En","Variation 1, key move 1: how
+should White continue?","The rook f1 wants to join the attack asap.","","f5h6",
+"...and the opening of the f-file decides.",15,"d5b7","Wins back the rook a8,
+but loses the game.",0]} 17. Nh6+ $1 {[%csl Gf1,Gh6][%cal Gf1f7] and White
+opens the f-file, whereupon his rook joins the attack with decisive effect:}
+gxh6 (17... Kg6 18. Qxe6+ Kh5 19. g4#) 18. fxe5+ {[%cal Gf1f7]} Kg7 (18... Ke8
+19. Qxe6+ Be7 20. Qxe7#) 19. Bxh6+ Kxh6 20. Qxe6+ Kg5 (20... Kg7 21. Qf6+ Kg8
+22. Qf7#) 21. Qf6+ Kh5 22. Rf5+ Kg4 23. Qg5#) ({Alternative 2:} 16... Kg6 17.
+Nh4+ Kh5 {[%tqu "En","Variation 2, key move 2: which continuation leads to
+mate by force?","Enable the white queen to access the black king on a
+particular light square!","","g2g4","Allowing either deadly queen check on the
+next move - either on d1 or on f7!",15,"d5d1","Premature!",0]} 18. g4+ $1 {
+[%csl Gd5,Rh5] Enabling the white queen to decisively access the black king.} (
+18. Qd1+ $2 Bg4) 18... Bxg4 (18... Kxg4 19. Qd1+ $1 {[%csl Gd1][%cal Gd1g4]
+Only now!} Kh3 20. Rf3+ Qxf3 21. Qxf3#) 19. Qf7+ {again with mate to follow:}
+g6 {[%tqu "En","The finale, please!","","","f7h7","",10]} 20. Qxh7+ $1 {
+[%csl Rh5,Gh7] Mate from behind!} Rxh7 21. Rxh7+ Bh6 22. Rxh6# {[%csl Rh5,Gh6]}
+) ({Alternative 3:} 16... Ke8 {[%tqu "En","Variation 3, key move 3: how does
+White checkmate in 5?","Move the knight.","","f5g7","Deflecting the bishop
+from e7.",15]} 17. Nxg7+ $1 {[%csl Yf8,Gg7][%cal Gb7e7,Yf8g7] Deflecting the
+bishop f8.} Bxg7 18. Re7+ {[%csl Ge7,Re8][%cal Gd5a8,Gg5e7] followed by 19.
+Qxa8+ and game over.}) {[%tqu "En","And the game continuation, with the final
+key move: what did Kotronias play now?","Find a two move combination which
+allows White to open the f-file with check.","","b7g7","... and after 17...
+Bxg7 18.Ne7+ the intervention of the rook f1 decides.",15]} 17. Rxg7+ $1 {
+[%csl Gf1,Gf5][%cal Yf8g7,Gf5e7,Gf4e5] Making e7 available for the knight and
+thus forcing the opening of the f-file with check (rook f1!).} Bxg7 18. Ne7+
+Kf7 19. fxe5+ {[%cal Gf1f7] This activation of the rook f1 decides the battle.}
+Bf6 ({After} 19... Ke8 {White can finally take on a8:} 20. Qxa8+ Kd7 21. Qc6+
+Kd8 22. Nd5+ {[%csl Rd8][%cal Gg5d8]} Bf6 23. Bxf6#) 20. Rxf6+ Kxe7 (20... Kg7
+21. Bh6#) 21. Qxd6+ {and Black resigned in view of} Ke8 22. Rf8+ Rxf8 23. Qe7#
+{Who wouldn't dream of playing such a game of chess once!} 1-0
+

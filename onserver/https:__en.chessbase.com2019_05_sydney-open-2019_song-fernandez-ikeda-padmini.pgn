@@ -1,0 +1,251 @@
+[Event "Sydney International Open"]
+[Site "?"]
+[Date "2019.04.28"]
+[Round "9"]
+[White "Song, Raymond"]
+[Black "Fernandez, Daniel"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[WhiteElo "2329"]
+[BlackElo "2467"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "122"]
+[SourceVersionDate "2019.04.28"]
+
+{As mentioned, this was a must-win game for me.} 1. e4 g6 2. d4 Bg7 3. Nc3 a6
+4. f4 d6 ({Because of the speed of my opponent's play, I rejected one of my
+standard 'dice rolls'-} 4... b5 5. Nf3 b4 6. Ne2 Bb7 7. Ng3 h5 $2 {This loses
+to the instructive piece sacrifice} 8. f5 $1 h4 9. fxg6 hxg3 10. gxf7+ Kxf7 11.
+Ng5+ Ke8 12. Be2 $1) 5. Nf3 Nd7 $6 {I decided to break my own advice from my
+upcoming book, because I wanted to test a sideline.} (5... b5 {This is main,
+and here my opponent had prepared} 6. a4 b4 7. Ne2 {According to what I
+understand, the main thing here for Black is to avoid playing ...Bb7, and
+instead use the b-file for a rook.} e6 8. Ng3 Nd7 9. c3 bxc3 10. bxc3 Ne7 11.
+Bd3 (11. h4 {White's attack lacks, in many cases, the extra momentum of a
+queen or bishop swinging in, so this move misses the mark a bit, for instance:}
+c5 12. h5 O-O 13. Rb1 Qc7 14. Bd3 Rb8 $132) 11... O-O 12. O-O c5 13. Rb1 (13.
+f5 cxd4 14. cxd4 exf5 15. exf5 Nf6 $11) 13... Rb8 14. Rxb8 Nxb8 {[#] White
+should try and play concretely, because otherwise his queenside will be
+vulnerable to ideas like ...Qa5, ...Bd7, or ...cxd4 followed by ...Nbc6.
+However after} 15. dxc5 dxc5 16. e5 Bb7 $132 {Black obtains a perfectly decent
+game anyway.}) 6. Bd3 $6 {Now we re-enter main line theory, but as it turns
+out, I can no longer get the version I want.} (6. Bc4 $1 {Black has no time to
+play ...b5 because of the sacrifice, so the choice is between} e6 7. f5 exf5 8.
+exf5 Nb6 {and something like 6...Nh6 7.a4! which would probably lead to bad
+Sicilians. Here, I think the position is better for White, but also of a type
+which allows Black to play for a win- think} 9. fxg6 hxg6 10. Bb3 Ne7 $14 {
+Black will play 'light-square only' chess with ...d5, ...Bg4 etc. and White
+will probably sacrifice the d4-pawn somehow.}) 6... c5 7. Be3 ({It is not in
+White's interest to play structures like} 7. d5 b5 $132) 7... b5 (7... cxd4 8.
+Bxd4 Bxd4 9. Nxd4 {is always worth thinking about, and here Black has some
+interesting options:} Qb6 (9... b5 $5 {is justified by the tactical oddity} 10.
+e5 $6 dxe5 11. Be4 exd4 12. Qxd4 e5 $1 13. fxe5 Qb6 $11) 10. Nb3 Ngf6 11. Qf3
+Nc5 $14) 8. e5 {In this system, White always wants to get a structure where he
+takes on c5 and Black takes back with the pawn. However, trying to do so
+immediately doesn't work, so it's better for him to play e5 first and then
+arrange, by tactical means, for Black to not be able to take back on e5
+instead.} Bb7 {Only at this moment did it occur to me that it was no longer
+possible to obey my 'golden rule' for such positions- always meet e5 with ...
+Nh6.} (8... cxd4 $5 9. Bxd4 dxe5 10. fxe5 Nh6 11. e6 Nf6 12. g4 O-O 13. g5 Bxe6
+14. gxh6 Bxh6 {is a messy line that nobody has any business entering without
+some prep- otherwise White is simply a piece up. Objectively, this line is of
+approximately equal merit to the 9.g4 Bxg4 Dragon.}) 9. Be4 Qc8 10. O-O ({
+White can consider the immediate} 10. Bxb7 Qxb7 11. dxc5 dxe5 (11... dxc5 12.
+Qd5 $16) 12. Qd5 Qxd5 13. Nxd5 Rc8 $14 {when there are several good options in
+this ending.}) 10... b4 $6 {It seemed to me that White was probably
+threatening dxc5, so I forced matters.} (10... Nh6 $1 {This is the most
+principled move, and if White doesn't have a concrete answer then it should be
+played. I was afraid of} 11. Bxb7 Qxb7 12. dxc5 {due to the x-ray attack from
+the e3-bishop on the h6-knight, but it turns out I have a choice!} Ng4 $1 (
+12... dxe5 $6 13. Qd5 $14 (13. Nxe5 Nxe5 14. fxe5 Nf5 $14)) 13. Qd5 (13. Qe1
+O-O $11) 13... Qxd5 14. Nxd5 Nxe3 15. Nxe3 dxe5 $1 {If not for this detail,
+Black would be worse- as it is, he could be better.} 16. c6 Nb6 17. fxe5 Rc8
+$132) 11. Bxb7 Qxb7 12. Ne2 (12. Na4 Nh6 13. dxc5 Nf5 14. Bd4 Nxc5 15. Nxc5
+dxc5 16. Bxc5 Rc8 $14 {I was prepared to play this kind of pawn sacrifice, but
+probably White has a way to give it back and be better.}) 12... Nh6 {Now Black
+has equalised, though as I was to learn, the position is still a bit more
+unpleasant to handle in a practical game, because the 2 minor pieces on the
+kingside need to be brought in.} 13. c3 O-O 14. h3 bxc3 ({I was suspicious of
+lines like} 14... Nf5 15. Bd2 bxc3 16. bxc3 Qe4 $11 {because in all
+probability, my queen and knight will be sent back to the squares from which
+they came- but the cold blue light of computer analysis indicates that this is
+not so.}) 15. bxc3 Rfd8 $6 16. Qe1 ({It is already possible to play} 16. g4 {
+because the x-ray attack on h6 prevents Black from taking e5.} Qe4 17. Kf2 Rab8
+18. Rb1 cxd4 19. cxd4 f5 $14 {Black is struggling.}) 16... Nb6 $5 {It seemed
+to me that the d7-knight was not playing a role in the game, and that
+correcting this state of affairs was worth a pawn.} (16... cxd4 17. cxd4 Rac8 {
+Black's other potential source of counterplay is getting a rook to the 7th.})
+17. dxc5 Nc4 {I was trying to force Bd4 rather than Bf2, but there is a slight
+problem. None of the moves equalise, mostly for the same reason.} (17... Nf5
+18. Bf2 Nd5 19. Qb1 $14) (17... Nd5 18. Bf2 (18. Ng3 $1 Rac8 19. cxd6 Nxe3 20.
+Qxe3 exd6 $14) 18... dxc5 19. Bxc5 Rac8 {This is the only way Black is getting
+compensation.}) 18. Ng3 $1 {As above, if White has a chance to get this move
+in then he should take it.} Nxe3 (18... Rac8 {Having sacrificed a pawn, maybe
+this move is more consistent.} 19. Bf2 dxe5 20. fxe5 Qd5 21. Bd4 Rxc5 $5 $14)
+19. Qxe3 Qa7 20. Rfd1 Rac8 21. Rd5 dxc5 $2 {Thus finally fixing the structure
+first mentioned after 9 moves.} (21... Re8 $5 {This was exactly the kind of
+tricky move I was looking for, but I didn't see it.} 22. Rad1 dxe5 23. fxe5 e6
+24. Rd7 Qxc5 25. Qxc5 Rxc5 26. Ne4 Ra5 $14 {White clearly has good practical
+chances, but a way through is not apparent.}) (21... dxe5 $1 {Continuations
+like} 22. Rxd8+ Rxd8 23. fxe5 Rd5 24. Ne4 Nf5 25. Qf2 h5 $14 {gave me anxiety
+that I'd never recover the pawn on c5 and then it'd become a queen, but this
+is by far the least evil and White needs to be very exact to keep any kind of
+advantage.}) 22. Rad1 Rxd5 23. Rxd5 e6 24. Rd2 Nf5 25. Nxf5 gxf5 26. g4 $16
+fxg4 27. hxg4 Qb7 28. Kg2 Qb1 29. Ng5 {This move is a strong indication that
+White is thinking of an ending- which is, of course, the professional way to
+handle such positions.} ({I thought} 29. Kg3 {was coming- and intended} h6 {
+when it is just a bit harder for White to get his knight on a good route.})
+29... Qg6 30. Kf3 ({To be honest, I still didn't expect the ending but rather} 
+30. Kg3 h6 31. Ne4 h5 32. g5 Qf5 33. Qf3 h4+ 34. Kg2 Rb8 35. Nd6 Qb1 {because
+queens are quite good at taking pawns while keeping up pressure.}) 30... h5 31.
+Qe4 hxg4+ 32. Kxg4 Qxe4 33. Nxe4 {This ending is winning for White. But now,
+interesting things started to happen.} Bf8 34. f5 ({Following the logical,
+mate-seeking} 34. Rd7 Rb8 35. Ng5 {the computer takes much too long to realise
+that} Bh6 $2 36. Nxf7 Bxf4 37. Kxf4 Rf8 38. Kg5 Rxf7 39. Rxf7 Kxf7 40. Kh6 {
+is a lost pawn ending.}) 34... exf5+ 35. Kxf5 Be7 36. c4 (36. Rd7 Kf8 37. Ra7 {
+was Ian Rogers' approach.}) 36... Rc6 37. Nf6+ $6 {Practically, this move
+throws the outcome into question.} (37. Rd7 Kf8 38. Nd6 a5 39. Ke4 {is also
+clean.}) 37... Kf8 {There was no need for this, giving White an additional
+chance to keep minor pieces on.} 38. Rh2 Bxf6 39. exf6 Kg8 40. Rg2+ Kh8 41. Rg7
+$2 {With best play we are now in the drawing zone.} ({White should hasten to
+swap his f-pawn for Black's c-pawn, whereupon the position should be winning,
+though there is still a trick or two.} 41. Ke5 Re6+ 42. Kd5 Rxf6 43. Kxc5 $18)
+41... Rc7 $1 {Our post-mortem conclusion was that this position was still
+winning, but it's by now study-like. On examining the lines with the engine,
+it actually appears the position is in fact simply drawn.} 42. Ke4 $5 {White
+tries to lose a move.} ({The best try was} 42. Rg4 $1 {which cuts out ...Rd4
+ideas and steers the game to a c+a ending.} Rd7 43. Re4 Rd2 44. a4 a5 {Having
+reached this position, White has two tries: take c5 with the rook, or with the
+king.} 45. Re8+ (45. Re5 Rf2+ 46. Ke4 Kh7 $1 47. Rxc5 Kg6 $1 48. Rxa5 Kxf6 {
+This should be drawn with good play.}) 45... Kh7 46. Rf8 Rf2+ 47. Ke5 Re2+ 48.
+Kd6 Kg6 49. Ra8 Rc2 50. Kxc5 Kxf6 51. Rxa5 Ke6 {This is also drawn, but it's
+getting very dicey since White is now taking the f-pawn by force.}) 42... Rd7
+43. Ke5 a5 44. a4 (44. a3 $5 {This was the move which we thought was good
+enough in the post-mortem.} a4 45. Kf5 Rd4 $1 {And this is the defence we
+missed.} 46. Rxf7 Kg8 47. Ra7 Rxc4 {and Black just holds.}) 44... Rb7 45. Rg1 (
+{Obviously, in case White goes for the pawns Black can now go rogue with his
+rook:} 45. Kd5 Rd7+ 46. Kc6 $5 (46. Kxc5 Rc7+ 47. Kb5 Rc5+ $11) 46... Rd6+ {
+The most practical decision is to begin checking along the 6th rank sooner
+rather than later.} (46... Rc7+ 47. Kb5 Rb7+ 48. Kxa5 Ra7+ 49. Kb5 Rb7+ 50. Kc6
+{This might seem to be winning, but in fact there are more subtleties to come.}
+Rb6+ (50... Rc7+ 51. Kd6 Rd7+ 52. Ke5 {and there isn't another check!}) 51. Kd7
+Rd6+ (51... Rxf6 52. Rg3 Ra6 53. Ra3 {is hopeless.}) 52. Ke7 Rd7+ (52... Re6+
+53. Kf8 {is the same}) 53. Ke8 Rd8+ 54. Kxf7 Rf8+ 55. Ke7 Re8+ $1 $11 {It
+turns out that despite having acquired multiple new routes to refuge, White is
+unable to escape the attention of the Black rook.}) 47. Kb5 Rb6+ 48. Kxa5 Ra6+
+49. Kb5 Rb6+ 50. Kxc5 Rc6+ 51. Kd5 Rd6+ $11) 45... Rd7 ({I considered} 45...
+Rb6 {but this should lose straightforwardly to} 46. Kd5 Rxf6 47. Kxc5) 46. Rb1
+$6 {White was short on winning tries by now, but there were still ways to get
+to decent c+a versions.} Rd4 47. Rb5 Rxc4 48. Rxa5 Kh7 $1 {This is not an
+intuitive move- why would you choose to lose a tempo? However, the rook
+desperately needs to get to c1 safely, and for that, it's worth the time.} (
+48... Rc1 $2) 49. Ra8 {Acknowledging equality.} ({Most humans would try} 49.
+Ra7 Kg6 50. Ra8 {to take the tempo. I was intending} Rh4 $5 51. Rg8+ Kh7 52.
+Rg7+ Kh8 53. Rxf7 Rxa4 {and hoping that the c-pawn doesn't complicate the draw
+too much (it doesn't, but it would on c6 or c7.)}) 49... Rc1 50. a5 c4 51. Kd4
+Kg6 52. a6 Kxf6 53. Rc8 Rd1+ 54. Kc3 Ra1 55. Rc6+ Ke5 56. Kxc4 f5 57. Kb5 f4
+58. Rc8 f3 59. Rf8 Ke4 60. Kb6 Ke3 61. a7 f2 {Draw agreed.} 1/2-1/2
+
+[Event "Sydney International Open"]
+[Site "?"]
+[Date "2019.04.28"]
+[Round "9"]
+[White "Padmini, Rout"]
+[Black "Ikeda, Junta"]
+[Result "1-0"]
+[ECO "B08"]
+[WhiteElo "2364"]
+[BlackElo "2441"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "87"]
+[EventDate "2019.04.29"]
+
+{[%evp 0,87,25,13,71,69,69,69,70,69,76,68,68,37,48,47,55,7,17,28,64,64,61,62,
+62,51,68,44,7,23,53,42,34,5,130,120,103,99,83,64,89,42,52,3,106,99,122,114,120,
+100,100,68,103,93,221,184,237,199,215,166,166,169,181,153,202,207,254,299,380,
+483,693,550,550,191,191,153,867,892,756,379,402,645,683,892,985,1580,29983,
+29984,29985,29988]} 1. e4 g6 2. d4 Bg7 3. Nc3 d6 {The second Modern on the top
+two boards! The results, though, are not a great advertisement for the opening.
+} 4. Nf3 Nf6 {I was surprised to see Junta play this as usually ...a6 does
+very well against structures where White doesn't play f4 or even f3.} 5. Be3
+O-O 6. Qd2 a6 7. a4 ({If (as seems logical) Black intended} 7. Bh6 b5 {then
+we'd transpose right back into analysis by Guramishvili on chess24- which I
+independently found some of.} 8. Bd3 Nc6 (8... c5 9. dxc5 dxc5 10. Bxg7 Kxg7
+11. e5 $16) (8... Bb7 9. Bxg7 $1 Kxg7 10. e5 Ng8 (10... Nfd7 11. h4 $36) 11. h4
+$1 dxe5 (11... h5 12. e6 $1 $18) 12. dxe5 Bxf3 13. gxf3 Nc6 14. Qe3 Qd4 15. Be4
+Qxe3+ 16. fxe3 $16) (8... Bg4 9. e5 $1 Nfd7 10. Bxg7 Kxg7 11. h4 $1 $146 h5 (
+11... Bxf3 12. gxf3 dxe5 13. h5 $1 Rh8 14. Be4 c6 15. dxe5 Nxe5 16. h6+ $18)
+12. Ng5 $16) 9. Bxg7 (9. e5 dxe5 10. dxe5 Bxh6 11. Qxh6 Ng4 12. Qf4 Ncxe5 13.
+Nxe5 Qd6 $1 {and Black is doing just fine}) (9. d5 $5 {Forcing a bit of
+precision.} Nb4 $5 (9... Bxh6 $6 10. Qxh6 Ng4 11. Qd2 Nce5 12. Nxe5 Nxe5 13.
+Be2 $14) 10. h4 (10. Bxg7 Nxd3+ $1 {is the point of the move order.} 11. cxd3
+Kxg7 12. h4 h6 $13) 10... e5 $5 (10... Bg4 $6 11. Bxg7 Nxd3+ 12. cxd3 Kxg7 13.
+Nd4 $1 $14 {Nc6 is just a very annoying threat.}) ({Maybe it is also possible
+to play with} 10... Nxd3+ 11. cxd3 Bxh6 12. Qxh6 Ng4 13. Qd2 e6 (13... h5 14.
+Ng5 $1 $40 {and White's attack will continue unhindered.}) 14. dxe6 Bxe6 15. h5
+(15. Ng5 $5 d5 $13) 15... Ne5 (15... Qf6 16. Ng5 $1 $40) (15... h6 $5 16. hxg6
+fxg6 {is a mess, but Black's position is looser}) {and now after} 16. Nd4 g5 {
+could also be considered, trying to make do without ...Qf6, which awards White
+a future tempo from Nd5}) 11. dxe6 ({Following} 11. Bxg7 Nxd3+ 12. cxd3 Kxg7 {
+Black's central wedge will be nearly indestructible:} 13. Ne2 (13. h5 Nxh5) (
+13. d4 b4) 13... h5 $11) 11... Bxh6 12. Qxh6 fxe6 {Black is able to get a
+defence organised with ...Qe7(-g7) and possibly ...e5. The critical test could
+be the immediate} 13. h5 $5 Nxh5 14. Ng5 (14. g4 Rxf3 15. gxh5 g5 16. Rg1 Kh8
+17. Rxg5 Qf8 $15) (14. Rxh5 gxh5 15. O-O-O Qf6 16. Qxh5 e5 $17) 14... Qe7 15.
+g4 Nf6 16. f3 Qg7 17. Qh4 Nxd3+ 18. cxd3 c5 $132) (9. Nd5 $5 {could be
+explored more.}) 9... Kxg7 10. e5 (10. d5 Ne5 11. Nxe5 dxe5 {now works out
+fine for Black}) 10... dxe5 11. dxe5 Ng4 12. O-O-O b4 13. Rhe1 $1 {This move
+and a few of the following details combine to signify a forced advantage for
+White in this line.} (13. Ne4 Qd5 $15) (13. h3 bxc3 14. Qxc3 Nxf2 15. Be4 Nxe4
+16. Qxc6 Qe8 17. Qxe4 Rb8 $11) 13... Bf5 $5 (13... Rb8 14. Na4 Qd5 15. b3 Ncxe5
+16. Nxe5 Nxe5 17. Bf1 $1 (17. Bxa6 $5 Qxg2 18. Rxe5 Qxh2 (18... Bxa6 19. Qf4
+$16) 19. Qd4 Bxa6 20. Re6+ Kg8 21. Rxa6 Rbd8 $13) 17... Qxd2+ 18. Rxd2 Nc6 (
+18... Kf6 19. Rd5 Nd7 20. Bxa6 $14) 19. Rd5 a5 (19... e6 20. Rc5 Bb7 21. Bxa6
+$16) 20. Rc5 Bb7 21. g3 $5 $14 {White retains a small pull in a simplified
+position.}) 14. h3 $1 {Now a long string of Black moves is essentially forced,
+and at the end he gets a really unpleasant ending.} (14. Na4 $6 {is a bad
+engine suggestion:} Bxd3 15. cxd3 Qd5 $11) 14... bxc3 (14... Nh6 15. Ne2 $16)
+15. Qxc3 Nxf2 16. Bxf5 Nxd1 17. Rxd1 Qb8 18. Be4 $1 {A really great move to
+know about.} (18. e6+ $5 f6 19. Rd7 gxf5 20. Qxc6 Re8 21. Nd4 $14 {White
+almost certainly regains the material on f5 and c7, and his pieces remain the
+more active.}) 18... Nb4 19. e6+ f6 20. Qc5 Nxa2+ 21. Kb1 Qb4 22. Qxb4 Nxb4 23.
+Bxa8 Rxa8 24. Rd7 Re8 25. c3 Nc6 26. Rxc7 Ne5 27. Nd4 $1 $14) 7... b6 (7... Nc6
+{seems most logical to me, trying to exploit the b4-square.}) 8. Bh6 Bg4 {
+This doesn't gel well with the previous move and I suspect Black is now
+slightly worse.} (8... e5 $6 {On general grounds, Black might like to play
+this, but it's simply too slow, so he has to go for the text move, even though
+it seems like he's trading two tempi for one on the queenside.}) 9. O-O-O b5 $5
+{Black complicates, but White reacts well.} 10. Bxg7 Kxg7 11. Qf4 (11. e5 dxe5
+12. dxe5 Qxd2+ 13. Nxd2 $1 Nfd7 14. f3 Be6 15. axb5 axb5 16. Bxb5 Nxe5 17. Rhe1
+{This would also do for an advantage- White has the better majority.}) 11...
+Bxf3 $6 {The computer advocates the depressing ...Be6 and it could be that
+that's the only way to avoid being much worse as Black.} 12. Qxf3 c6 13. g4 b4
+14. Ne2 Qa5 15. h4 $1 {White conducts this part of the game in very good style.
+} Qxa4 16. Kb1 b3 (16... Nbd7 17. g5 Nh5 18. Ng3 Nxg3 19. Qxg3 $16) 17. cxb3
+Qb4 18. h5 (18. Nf4 e5 {Else White plays e5, but it turns out g5 is no less
+worrying.} 19. g5 Nfd7 (19... Nxe4 20. Nh5+ gxh5 21. Qxe4 Nd7 22. Bd3 f5 23.
+Qxc6 Ra7 {Black avoids mate, but is still lost.}) 20. h5 exf4 21. hxg6 fxg6 22.
+Bc4 {'Route 1' is perfectly adequate for this position. White threatens mate
+with Rxh7.}) (18. e5 $5) 18... g5 19. Ng3 Kh8 20. Nf5 d5 $1 {Black takes his
+chance and complicates the position.} 21. Bd3 (21. e5 Ne4 22. Bd3 {The other
+order simply doesn't work because of} Nc3+ $1) 21... Nbd7 $6 {As usual for
+this opening, the road back from a somewhat worse position is more of a
+tightrope.} (21... e6 $5 22. Nd6 Qxd4 {It would be completely understandable
+for someone to see this option and reject it instantly because of the awkward
+dynamics relating to the queen and f3-knight. But sometimes, we have to make
+unpleasant decisions.} 23. Bc2 ({Another matter entirely is} 23. exd5 cxd5 24.
+Bg6 $5 {whereupon in order not to be dead one has to realise that there is} Qf4
+25. Nxf7+ Kg8 $1 (25... Kg7 26. Qxf4 gxf4 27. Ng5 hxg6 28. Nxe6+ Kf7 29. Nxf8
+Kxf8 30. hxg6) 26. Qe2 hxg6 27. hxg6 {and now a chilled-out move such as} Kg7
+$1 $11) 23... Qe5 24. Rhe1 Qf4 25. Qxf4 gxf4 26. g5 Ne8 27. Nxe8 Rxe8 28. exd5
+cxd5 29. Rxd5 Nc6 $14 {Black survives into an ending, albeit a difficult one.})
+22. e5 Ne4 23. Bxe4 dxe4 24. Qxe4 Qxb3 25. Nxe7 Rab8 26. Qc2 Qe6 ({It was time
+to face the music with} 26... c5 {when Black can still hope to hold various
+types of pawn-down endings.}) 27. Nxc6 Rbc8 28. d5 Qxg4 {White's decisive
+advantage is now beyond doubt. In what follows, White may or may not have
+found the engine's top moves, but in any case, the best move is the one that
+leaves you surest of victory, and White never looked unsure.} 29. Qc3 Qe4+ 30.
+Qd3 Qf4 31. Qd4 Qf5+ 32. Ka2 Rfe8 33. Rhe1 Nb8 34. e6+ Kg8 35. Re5 Qf6 36. Nxb8
+Rxb8 37. f4 fxe6 38. Rxg5+ Kf7 39. Qa7+ Kf8 40. Rd2 Qe7 41. Qd4 e5 42. Rf5+ Kg7
+43. Rg2+ Kh6 44. fxe5 1-0
+

@@ -1,0 +1,57 @@
+[Event "USA-ch"]
+[Site "New York"]
+[Date "1957.??.??"]
+[Round "7"]
+[White "Fischer, Robert James"]
+[Black "Sherwin, James T"]
+[Result "1-0"]
+[ECO "B87"]
+[Annotator "Reeh,Oliver"]
+[PlyCount "71"]
+[EventDate "1957.??.??"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "USA"]
+[SourceTitle "MCD"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.07.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8. Bb3
+b4 9. Nb1 Bd7 10. Be3 Nc6 11. f3 Be7 12. c3 bxc3 13. Nxc6 Bxc6 14. Nxc3 O-O 15.
+Rc1 Qb8 16. Nd5 exd5 17. Rxc6 dxe4 18. fxe4 Qb5 19. Rb6 Qe5 20. Bd4 Qg5 21. Qf3
+Nd7 22. Rb7 Ne5 23. Qe2 Bf6 24. Kh1 a5 25. Bd5 Rac8 26. Bc3 a4 27. Ra7 Ng4 28.
+Rxa4 Bxc3 29. bxc3 Rxc3 {Would you dare to play 30.Rxf7 in the diagram
+position? The 11th world champion did, a good omen - but can you walk the talk
+following Black's reply 30...Rc1+ then?} 30. Rxf7 $1 {[%csl Gf7,Rg8][%cal
+Gd5g8] White takes the pawn which blocks his bishop's diagonal d5-g8 towards
+the black king, not being afraid to expose his own back rank.} Rc1+ (30... Rxf7
+31. Ra8+ {[%csl Ga8,Rf7][%cal Gd5g8,Ga8g8] and mate - the rook f7 is pinned.})
+({An important line was} 30... Qxd5 31. Rxf8+ Kxf8 {[%tqu "En","Black
+threatens to checkmate. Please show Fischer's first point.","","","e2f1","",10,
+"e4d5","",0]} 32. Qf1+ $1 {[%csl Gf1][%cal Gf1f8,Gf1c1,Ge4d5] The saving
+retreat, protecting White's back rank with check.} (32. exd5 $4 Rc1+ {[%csl
+Rh1][%cal Gc1h1] with a back rank mate.}) 32... Qf7 {Otherwise 33.exd5.} 33.
+Ra8+ $1 {[%csl Ga8][%cal Ga8f8,Ga8a7]} Ke7 34. Ra7+ {[%cal Ga7f7] and game
+over.}) ({Best for Black was the immediate} 30... h5 $1) {[%tqu "En","Black
+has checked on c1. How must White react?","","","e2f1","",10,"f7f1","",0]} 31.
+Qf1 $1 {Interposing the right piece.} ({Not} 31. Rf1+ $4 Kh8 {[%csl Rf1][%cal
+Gc1h1,Rf1f8] and now White's back rank weakness decides, since the pinned Rf1
+cannot capture on f8:} 32. Ra8 (32. Rxc1 Qxc1+ {[%csl Rh1][%cal Gc1h1]}) 32...
+Rxa8 33. Bxa8 Qf4 $19 {[%csl Rf1,Rh2][%cal Gc1h1,Gf4h2,Gf4f1]}) 31... h5 {
+[%csl Gh5][%cal Gg8h7] An astonishing move - in a position where everything is
+hanging, Black just takes the time to make luft for his king.} (31... Rxf1+ {
+[%tqu "En","Please show White's winning motif.","","","f7f1","",10]} 32. Rxf1+
+{[%csl Gf1][%cal Gd5g8] Discovered counter check! After} Qxd5 (32... Rf7 33.
+Ra8+ {[%csl Rf7][%cal Ga8g8,Gd5g8] and checkmate.}) 33. Rxf8+ Kxf8 34. exd5 {
+White is an exchange up.}) {[%tqu "En","Fischer's final finesse, please.","",
+"","f1c1","",10,"f7f8","",0]} 32. Qxc1 $1 {The right capture - White rejects
+the hanging black rook.} (32. Rxf8+ $2 {[%csl Rg8][%cal Gd5g8,Gf8g8] A wrong
+double check - seldom enough in chess!} Kh7 {[%cal Gc1h1,Gg5c1] and Black is
+fine again.}) 32... Qh4 (32... Qxc1+ 33. Rf1+ {[%csl Gf1][%cal Gd5g8,Gf1c1]
+The discovered counter check again - White picks up material.} Kh8 34. Rxc1 $18
+) 33. Rxf8+ Kh7 (33... Kxf8 34. Qc8+ Ke7 35. Ra7+ Kf6 36. Qf5#) 34. h3 Qg3 35.
+hxg4 h4 36. Be6 1-0
+

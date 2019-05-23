@@ -1,0 +1,211 @@
+[Event "Narodni listy, correction"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Prokes, Ladislav"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k7/3pqP2/p3p3/N7/8/P7/KR1P4/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1928.??.??"]
+
+{(Note that special characters aren't given properly). I believe this study to
+be rather famous, but possibly I am wrong on that. White is to move and win
+and has a nice motive at his disposal which can be easy to solve once one has
+the right idea.} 1. Rb7 Qxf7 ({Nothing else works as the Pf7 would decide. A
+good example is} 1... Qc5 2. Rc7 $1 (2. Nb3 $2 Qc2+ 3. Ka1 Kxb7 4. f8=Q Qxb3)
+2... Qxa5 3. f8=Q#) 2. Nc6 $1 {Black is faced with two pieces he can't take
+under penalty of losing the queen while mate is threatened on a7 and b8. There
+is no way out. A short study with a motif relevant for players - very rare but
+if it does happen it should be known. The rest is just agony: 2.-} e5+ 3. Kb2
+Kxb7 4. Nd8+ 1-0
+
+[Event "Ceskoslovensky Sach"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Prokes, Ladislav"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/4n3/5R2/B6K/5P2/p5b1/7k w - - 0 1"]
+[PlyCount "8"]
+[EventDate "1929.??.??"]
+
+{The genre of short but highly tactical battles - for which there is no clear
+definition, but rather a matter of perception by the audience - was reinvented
+by Daniel Keith and Martin Minski in the past few years, but it dates much
+further back. This position shows one battle that could be considered that way
+but is ending with stalemate, as opposed to the "open-ended" nature of those
+modern studies. White is to move and has to draw, and compared to other
+stalemate studies the battle here feels sharp and tactical, although not very
+difficult once one sees the solution.} 1. Rd5 Bxf3 ({Less tactical feeis the
+other main variation that even suffers from a minor dual:} 1... Nd4 2. Rxd4
+Bxf3 3. Bc6 ({or} 3. Bd1 $11) 3... a1=Q 4. Bxf3+ Kh2 {and while the end of the
+main variation shows the clearest draw, many other moves are actually possible,
+as White can keep both pieces.} 5. Rd2+ Kg1 6. Rd1+ Qxd1 7. Bxd1 $11) 2. Bc6 $1
+a1=Q {and now the elegant main idea follows:} 3. Rd1+ Qxd1 4. Bxf3+ Qxf3 $11
+1/2-1/2
+
+[Event "Prace, 4th prize"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Prokes, Ladislav"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2K5/kpB5/4p3/PP3p2/8/1q4P1/4B3/7n w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1949.??.??"]
+
+{For the other three studies, we will look at a few prizes won by Prokes. This
+study has a beautiful idea which is bought with a knight on h1 that does not
+participate. Such studies with geometrical motives that repeat on a line/rank/
+diagonal were in the spirit of the Soviet school, but inspired also other
+composers. Back in 1949, in fact, Czechoslovakia was part of the Union,
+referred to as (abbreviated) CSSR or Czechoslovakian Soviet Socialist Republic.
+This, however, likely did not influence the style of our hero, as by then he
+composed for over two decades and grew up with his own style. More influence
+will have had that he likely saw studies with similar motifs and tried to
+create one himself, regardless of their country of origin.} 1. b6+ Ka8 2. a6
+Qd5 $1 {After the introduction, the maneuver begins - one that on lack of
+occasion is rarely seen in games in this form, although the basic idea is
+known to almost every player.} (2... bxa6 $2 3. Bxa6 $18 {The two bishops here
+win easily against the knight, as either Pg3 survives or checkmate follows.})
+3. Bc4 Qc6 4. Bb5 Qe4 5. Bd3 Qf3 6. Be2 Qg2 7. Bf1 1/2-1/2
+
+[Event "L'Echiquier de Paris, 2nd prize"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Prokes, Ladislav"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7r/2p1kP2/8/6Pp/5p2/3R1P2/8/5K2 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1954.??.??"]
+
+{This study shows in my opinion nice rook endgame tactics, ending in a
+checkmate. White is to move and win, the top priority being saving his pawns. 
+Note that the Ph5, which also is used to make White's moves unique, prevents 3.
+-Rh1+ in the 1.-K:d7 variation. The Prokes maneuver in action (or rather
+prevented).} 1. Rd7+ (1. g6 $2 Kf6 $1 2. Rd4 Kxg6 3. Rxf4 Kg7) 1... Ke6 $1 {
+The only move if Black doesn't want to lose immediately.} (1... Kf8 2. Rd8+ Kg7
+3. Rxh8 $18) (1... Kxd7 2. g6 Ke7 3. g7 Rf8 4. g8=Q Rxf7 {and now there are
+likely many ways of winning, but taking Ph5 makes it pretty easy.} 5. Qg5+ $18)
+2. g6 Kf6 $1 {The next move is the "star move" of this study, and it is a
+motif that I have not seen in a practical game yet even though it could easily
+happen.} 3. Re7 Rf8 $1 4. Re8 Kg7 {I had this or similar formations often.
+White can move only his king now, Black can move neither king nor rook. In
+practical games, usually there is more material on the board, making the
+movable king decisive easily. Here there is only one winning way, but it is
+nice.} 5. Kg2 $1 c5 6. Kh3 c4 7. Kh4 c3 8. Kg5 c2 9. Rxf8 Kxf8 10. Kf6 c1=Q 11.
+g7# 1-0
+
+[Event "Duras JT (Sach), 2nd prize"]
+[Site "?"]
+[Date "1943.??.??"]
+[Round "?"]
+[White "Prokes, Ladislav"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/5K2/1PR5/8/Bk6/3p4/1r6/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1943.??.??"]
+
+{We will close with a very famous study that greatly shows the style of
+studies suited for players to enhance their tactical understanding. Make sure
+to check the links in the article for two collections of such studies. Here
+White is to move and win, showing an echo, i.e. a repetition of a theme/idea
+on two different parts of the board - here on the third and fifth rank.} 1. b7
+Ka5 ({The other main variation is similar:} 1... Ka3 2. Bb3 $1 Rxb3 3. Rc3 $1
+Rxc3 4. b8=Q $18 {. Black stands slightly better than in the other main
+variation, but White still will win. The methods for this, however, are beyond
+the topic of this column.}) (1... Kxa4 2. Ra6+) 2. Bb5 $1 Rxb5 3. Rc5 $1 Rxc5
+4. b8=Q $18 1-0
+
+[Event "Schackvarlden, honorable mention"]
+[Site "?"]
+[Date "1939.06.??"]
+[Round "?"]
+[White "Prokes, Ladislav"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/8/7K/2k5/3pp3/8/5R2 w - - 0 1"]
+[PlyCount "14"]
+[EventDate "1939.??.??"]
+
+{Of course this study from June 1939, showing the Prokes maneuver, had to be
+added as a bonus. I would not feel comfortable with it taking a main spot, as
+it is famous and reproduced "everywhere". Black has two strong pawns, and
+White wants to draw.} 1. Kg4 e2 $1 ({The first other main variation is without
+the maneuver:} 1... d2 2. Kf3 Kd3 3. Ra1 $1 e2 4. Ra3+ Kc2 5. Ra2+ Kc1 6. Ra1+
+Kb2 7. Kxe2 $11) 2. Rc1+ Kd4 ({The other main variations add not much:} 2...
+Kb3 3. Kf3 d2 4. Rb1+ Kc2 5. Kxe2 $11) ({this one at least repeats the
+maneuver.} 2... Kd5 3. Kf3 d2 4. Rc5+ $1 Kxc5 5. Kxe2 $11) 3. Kf3 $1 d2 {Here
+the main point comes in: White is to move, but how can he draw? Well, he must
+get rid of his rook, as then Pd2 can't capture anymore.} 4. Rc4+ $1 Kd3 $1 5.
+Rd4+ $1 Kxd4 6. Kxe2 Kc3 7. Kd1 Kd3 1/2-1/2
+
+[Event "Roycroft JT, EG (incorrect)"]
+[Site "?"]
+[Date "1979.07.??"]
+[Round "?"]
+[White "Ionchev, I.."]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "B7/2b5/1np1r3/2PP4/3k3K/1p4R1/P7/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1978.??.??"]
+
+{White is to move and draw, but the study is incorrect in the first move as
+found by Kasparyan/Gurgenidze, and by Kos/Kopnin/Nunn. The original, incorrect,
+version is shown here for historical purposes, and since the ending position
+is what matters here.} 1. Rg4+ Re4 (1... Kxc5 $1 $19 {(Kasparyan/Gurgenidze)})
+(1... Kxd5 $1 $19 {(Kos/Kopnin/Nunn)}) 2. Rxe4+ Kxe4 3. cxb6 Bd8+ 4. Kg4 bxa2 {
+What now? Isn't White lost?} 5. dxc6 (5. b7 $2 Bc7 6. dxc6 Ke5 $19) 5... a1=Q
+6. c7+ Qxa8 7. b7 {No, this nice geometry saves him. The motif had been shown
+before already, but the Roycroft JT study became more famous.} Qa5 8. c8=Q
+1/2-1/2
+
+[Event "Magyar Sakkvilag, 1st prize"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[White "Hornecker, Siegfried"]
+[Black "Rusz, Arpad"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/6pp/3P2pk/3PP1p1/p2Q2P1/1pp2p1K/P4P2/RBq5 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "2011.??.??"]
+
+{This study can serve to illustrate how one theme can evolve into another.
+There is nothing to be seen anymore of the original idea of our hero, rather
+Ionchev's setting was taken but new play added. Sadly the position is heavy
+and crowded. White is to move and win, for which his advanced pawn is the only
+hope. I won't bore readers with the support variations, and instead almost
+only give the main line.} 1. Bc2 $1 Qxa1 ({The strength of the advanced pawn
+is shown in this and the next side variation:} 1... b2 2. Rxc1 bxc1=Q 3. Qd1
+Qxd1 (3... a3 4. d7 Qf4 5. Bxg6 $1 $18) 4. Bxd1 a3 5. d7 c2 6. d8=N $1 cxd1=Q
+7. Nf7#) 2. Bd1 c2 $1 3. Qxa1 b2 {Ionchev's position is reached in the corner,
+but with the additional material White has an ace up his sleeve. A queen dance
+follows, motivated by check- and stalemate.} 4. d7 $1 c1=Q $1 (4... bxa1=Q 5.
+d8=N $1 cxd1=Q 6. Nf7#) 5. Qb1 $1 (5. d8=N $2 Qc7 $1 6. Qb1 Qxd8 7. Bxf3 Qc7 $1
+8. Qh1 b1=Q 9. Qxb1 a3 10. Kg2 Qc1 $1 11. Qxc1 $11) 5... a3 $1 (5... Qxb1 6.
+d8=N $1 Qf5 7. gxf5 b1=Q 8. Nf7+ Kh5 9. Bxf3+ g4+ 10. Bxg4#) 6. d8=N $1 Qf4 7.
+Qe4 $1 Qf8 8. Qe1 $1 b1=Q 9. Qh1 Qxd1 10. Qh2 $1 {Now both players have two
+pieces, but the mate threats can't be prevented for the materially stronger
+side.} (10. Qxd1 $2 Qf4 11. Qh1 Qh2+ $1 12. Qxh2 $11) 10... Qf4 11. Nf7+ $1
+Qxf7 12. Kg3# {For many years, I wanted to do something with Ionchev's setting,
+thanks to the Hungarian master Rusz, who lately worked on the Grip theme and
+"mined" incredible zugzwangs from the Lomonossov/Syzygy bases, it became
+possible. The study might not be to the taste of everyone, and I was actually
+surprised it won the informal tourney.} 1-0
+

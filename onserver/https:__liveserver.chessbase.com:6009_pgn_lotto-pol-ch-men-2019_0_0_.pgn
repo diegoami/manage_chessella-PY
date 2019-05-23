@@ -1,0 +1,2049 @@
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.11"]
+[Round "1.1"]
+[White "Dragun, Kamil"]
+[Black "Piorun, Kacper"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "2591"]
+[BlackElo "2657"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 31,61,4,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11,-14,-15,0,0,0,0,0,0,0,0,0,0,0,
+0]} 1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 c5 6. Nc3 d5 7. cxd5 Nxd5
+8. Nxd5 Qxd5 9. d3 Nc6 10. Be3 Bd7 11. Nd4 Qd6 12. Nxc6 Bxc6 13. Bxc6 Qxc6 14.
+Rc1 {[%cal Ba1c1,Bc1c5,Bc5b5][%mdl 32]} Qe6 15. Rxc5 Qxa2 16. Rb5 b6 {The
+position is equal.} 17. Qa1 {A38: Symmetrical English vs ...g6: 4 Bg2 Bg7 5
+Nf3 Nf6} Qe6 18. Qa4 Rfc8 19. Ra1 h5 20. Qb3 (20. h4 Qd7 21. Qb3 Qg4 22. Qd1
+Qd7 23. Qb3 Qg4 24. Qd1 Qd7 25. Qb3 Qg4 {1/2-1/2 (25) Leko,P (2731)-Gelfand,B 
+(2759) Sochi 2014}) 20... Qxb3 21. Rxb3 Rc2 {[#]} 22. Rxb6 $146 ({Predecessor:
+} 22. d4 e6 23. Kg2 Rc4 24. Rxb6 axb6 25. Rxa8+ {1/2-1/2 (46) Bindrich,F (2598)
+-Arnaudov,P (2429) Dresden 2014}) 22... Rxe2 23. Rb7 Rxb2 24. Rxb2 Bxb2 25.
+Rxa7 $11 {[%mdl 4096] Endgame KRB-KRB} Rd8 26. Rxe7 Rxd3 27. Rb7 Ba1 28. Rb1
+Be5 29. Kg2 Kg7 30. Rb5 Bf6 31. h4 1/2-1/2
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.11"]
+[Round "1.2"]
+[White "Gajewski, Grzegorz"]
+[Black "Sadzikowski, Daniel"]
+[Result "1-0"]
+[ECO "D61"]
+[WhiteElo "2613"]
+[BlackElo "2522"]
+[Annotator "ChessBase"]
+[PlyCount "98"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:00]} e6 {[%emt 0:
+00:00]} 3. Nc3 {[%emt 0:00:00]} d5 {[%emt 0:00:34]} 4. Bg5 {[%emt 0:00:54]} Be7
+{[%emt 0:02:15]} 5. Nf3 {[%emt 0:00:31]} O-O {[%emt 0:01:58]} 6. e3 {[%emt 0:
+00:08]} Nbd7 {[%emt 0:00:07]} 7. Qc2 {[%emt 0:01:56]} h6 {[%emt 0:01:59]} 8.
+cxd5 {[%emt 0:01:23]} exd5 {[%emt 0:10:02]} 9. Bf4 {[%emt 0:00:07]} c5 {
+[%emt 0:04:35]} 10. Be2 {[%emt 0:01:04]} b6 {[%emt 0:03:08]} 11. O-O {[%emt 0:
+06:21]} Bb7 {[%emt 0:00:58]} 12. Rfd1 {[%emt 0:01:50]} Rc8 {[%emt 0:21:16]} 13.
+Qf5 {[%emt 0:02:24]} c4 {[%emt 0:03:09]} 14. Ne5 {[%emt 0:07:02]} Bb4 {[%emt 0:
+17:58]} 15. Bf3 {[%emt 0:07:02]} Bxc3 {[%emt 0:00:49]} 16. bxc3 {[%emt 0:00:10]
+} Qe7 {[%emt 0:02:53]} 17. a4 {[%emt 0:00:28]} Qe6 {[%emt 0:06:59]} 18. Qxe6 {
+[%emt 0:04:03]} fxe6 {[%emt 0:00:01]} 19. a5 {[%emt 0:06:35]} Nxe5 {[%emt 0:00:
+06]} 20. Bxe5 {[%emt 0:01:11]} b5 {[%emt 0:02:01]} 21. a6 {[%emt 0:01:43]} Bc6
+{[%emt 0:00:02]} 22. Bd6 {[%emt 0:04:50]} Rf7 {[%emt 0:00:14]} 23. Rdb1 {
+[%emt 0:00:07]} g5 {[%emt 0:03:25]} 24. h3 {[%emt 0:01:02]} Ne4 {[%emt 0:04:39]
+} 25. Bb4 {[%emt 0:09:16]} Kg7 {[%emt 0:01:07]} 26. Rb2 {[%emt 0:02:43]} Kg6 {
+[%emt 0:03:10]} 27. Bg4 {[%emt 0:03:43]} Re8 {[%emt 0:00:45]} 28. Bd1 {[%emt 0:
+00:19]} h5 {[%emt 0:00:02]} 29. f3 {[%emt 0:04:07]} Ng3 {[%emt 0:00:23]} 30.
+Bc2+ {[%emt 0:00:19]} Kh6 {[%emt 0:01:20]} 31. Re1 {[%emt 0:02:39]} Rd8 {
+[%emt 0:03:07]} 32. Bb1 {[%emt 0:02:31]} h4 {[%emt 0:00:20]} 33. e4 {[%emt 0:
+00:59]} dxe4 {[%emt 0:01:58]} 34. fxe4 {[%emt 0:00:20]} Rdd7 {[%emt 0:01:07]}
+35. d5 {[%emt 0:03:12]} exd5 {[%emt 0:00:01]} 36. e5 {[%emt 0:00:02]} Rd8 {
+[%emt 0:02:22]} 37. e6 {[%emt 0:00:27]} Re8 {[%emt 0:00:10]} 38. Rf2 {[%emt 0:
+06:23]} Rxf2 {[%emt 0:00:14]} 39. Kxf2 {[%emt 0:00:01]} Kg7 {[%emt 0:01:03]}
+40. Bc5 {[%emt 0:00:00]} Kf6 {[%emt 0:00:00]} 41. e7 {[%emt 0:07:05]} b4 {
+[%emt 0:11:58]} 42. Bxa7 {[%emt 0:09:33]} bxc3 {[%emt 0:06:21]} 43. Bc5 {
+[%emt 0:08:46]} Nf5 {[%emt 0:02:23]} 44. a7 {[%emt 0:04:03]} Ba4 {[%emt 0:10:
+59]} 45. Bxf5 {[%emt 0:10:55]} Kxf5 {[%emt 0:00:02]} 46. Ke3 {[%emt 0:00:05]}
+Ke5 {[%emt 0:00:55]} 47. a8=Q {[%emt 0:03:37]} Rxa8 {[%emt 0:00:16]} 48. Ra1 {
+[%emt 0:00:04]} c2 {[%emt 0:02:01]} 49. Kd2 {[%emt 0:00:07]} c3+ {[%emt 0:00:
+17]} 1-0
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.11"]
+[Round "1.3"]
+[White "Gumularz, Szymon"]
+[Black "Heberla, Bartlomiej"]
+[Result "1-0"]
+[ECO "C72"]
+[WhiteElo "2483"]
+[BlackElo "2556"]
+[Annotator "TA"]
+[PlyCount "83"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,83,47,47,49,35,39,55,76,41,44,49,58,55,55,60,52,58,43,44,43,46,72,43,
+79,47,90,79,160,60,107,82,143,118,159,142,171,160,172,159,169,150,160,147,192,
+0,132,73,516,507,424,354,1016,962,1065,1078,1058,385,1954,1708,1716,1008,1434,
+979,29993,29994,29996,29997]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O
+Bd7 6. d4 b5 7. Bb3 Nxd4 8. Nxd4 exd4 9. c3 dxc3 {[#]} 10. Qh5 $1 {[%csl Gb3]
+[%cal Rh5f7][%mdl 512]} Qe7 {C72: Ruy Lopez: Deferred Steinitz: 5 0-0} 11. Nxc3
+Nf6 12. Qf3 {[%mdl 1024] Threatens to win with e5! White has compensation.} c6
+{White is slightly better.} 13. Bf4 Ng4 14. Rad1 Ne5 15. Qe3 h6 $146 ({
+Predecessor:} 15... Bg4 16. Rd2 Qc7 17. Qg3 Be6 18. Bxe6 fxe6 19. Bxe5 dxe5 {
+1-0 (51) Spraggett,K (2575)-Lejlic,S (2361) Cappelle-la-Grande 2011}) 16. Bg3
+h5 17. h3 h4 18. Bh2 g5 19. f4 $36 {[%mdl 2048] White is more active.} gxf4 20.
+Bxf4 {aiming for Bg5.} Be6 21. Kh1 Qa7 22. Qc1 Nc4 {[#]} ({Black should try} 
+22... Bxb3 23. axb3 Be7) 23. Rf3 (23. Nd5 $1 $16 {[%mdl 512] Strongly
+threatening Qc3.} cxd5 24. exd5) 23... Qc5 24. Ne2 Rg8 (24... O-O-O $142) 25.
+Nd4 $16 Be7 26. Bxc4 bxc4 {[#]} 27. Be3 $1 Qe5 28. Nxc6 Qxe4 {White must now
+prevent ...Bxh3.} 29. Nxe7 Kxe7 30. Bf4 d5 31. Qc3 $2 ({Better is} 31. b3 $18)
+31... Ke8 (31... Rxg2 $1 $11 {keeps the balance.} 32. Qa3+ Ke8 33. Kxg2 Qe2+
+34. Rf2 Qxd1) 32. Re1 (32. Rd2 $142) 32... Qg6 $2 {[%mdl 8192]} (32... d4 $16 {
+is a better chance.} 33. Rxe4 dxc3) 33. Rf2 $18 Rd8 34. Qa5 Qd3 $2 (34... Qf6
+35. Qxa6 Rg6 36. Qc6+ Rd7) 35. Qa4+ Rd7 36. Qxa6 Rg6 {[#]} 37. Bd6 $2 (37. Bg5
+$1 {[%mdl 512] Intending Qc8+ and mate.} Kf8 (37... Rxg5 38. Rxe6+) 38. Rxe6
+Rxg5 39. Qc8+ {[%mdl 64] Double Attack} Kg7 40. Qxd7) 37... Qd4 $2 (37... Rxd6
+38. Qxd6 Qg3) 38. Qa8+ Rd8 39. Qc6+ Rd7 40. Rfe2 Qa7 {[#]} 41. Rxe6+ $1 {
+[%mdl 576] Back Rank} fxe6 42. Rf1 {Accuracy: White = 62%, Black = 31%.} 1-0
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.11"]
+[Round "1.4"]
+[White "Socko, Bartosz"]
+[Black "Tomczak, Jacek"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2627"]
+[BlackElo "2631"]
+[Annotator "TA"]
+[PlyCount "79"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,79,-8,0,0,0,0,0,18,0,0,0,14,3,10,8,3,4,8,3,6,7,12,0,6,0,7,8,32,5,7,0,
+65,-2,76,72,72,73,66,70,140,126,154,165,172,154,399,322,325,308,308,302,323,
+301,310,320,317,306,313,285,295,299,286,277,266,291,331,322,790,670]} 1. d4 d5
+2. Nf3 Nf6 3. g3 c5 4. Bg2 cxd4 5. O-O h6 6. Nxd4 e5 7. Nb3 Be6 {D02: 1 d4 d5
+2 Nf3 sidelines, including 2...Nf6 3 g3 and 2...Nf6 3 Bf4} (7... Be7 8. c4 d4
+9. e3 Nc6 10. exd4 exd4 11. N1d2 O-O 12. Nf3 d3 13. Be3 Bg4 14. h3 Bh5 15. Rc1
+{1/2-1/2 (41) Papin,V (2569)-Zvjaginsev,V (2663) Olginka 2011}) 8. c4 Nc6 ({
+Wrong is} 8... dxc4 $2 9. Qxd8+ (9. Bxb7 Nbd7 $11) 9... Kxd8 10. Bxb7 $18) 9.
+cxd5 Bxd5 {The position is equal.} 10. Nc3 {[%cal Rc3d5]} Bxg2 11. Kxg2 Be7 12.
+Be3 O-O 13. Rc1 Rc8 $146 ({Predecessor:} 13... Qc8 14. Nd5 Qf5 15. Nxe7+ Nxe7
+16. Bc5 {1/2-1/2 (75) Gyorkos,L (2435)-Zelic,M (2365) Split 1998}) 14. Qxd8
+Rfxd8 15. Rfd1 Rxd1 16. Rxd1 b6 17. a3 Kf8 18. h3 Rd8 19. Rc1 Ke8 20. Nb5 Kd7
+21. Rd1+ Ke8 (21... Kc8 $1 $11 22. Rxd8+ Bxd8) 22. Nc7+ $1 $14 Kf8 23. Rc1 Rd6
+24. f4 Ne4 25. fxe5 Rg6 ({Black should play} 25... Nxe5 $14 26. Nb5 Rc6) 26.
+Bf4 Bd8 27. Nb5 Ke8 {[#]} 28. h4 $1 {[%mdl 512] aiming for h5.} Kd7 $2 (28...
+Nxg3 $16 29. Bxg3 Bxh4) (28... Bxh4 29. Nd6+) 29. Kf3 Nc5 30. Nxc5+ bxc5 31.
+Rxc5 Re6 32. Rd5+ Ke7 33. e3 Bb6 34. Nd6 Kf8 35. b4 g5 36. hxg5 hxg5 37. Bxg5
+Nxe5+ 38. Ke2 Bc7 39. Nf5 Ra6 $2 {[#]} (39... f6) 40. Bd8 {Accuracy: White =
+67%, Black = 53%.} 1-0
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.11"]
+[Round "1.5"]
+[White "Bartel, Mateusz"]
+[Black "Janik, Igor"]
+[Result "1-0"]
+[ECO "B52"]
+[WhiteElo "2598"]
+[BlackElo "2469"]
+[Annotator "ChessBase"]
+[PlyCount "43"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} d6 {[%emt 0:
+00:00]} 3. Bb5+ {[%emt 0:00:08]} Bd7 {[%emt 0:00:00]} 4. a4 {[%emt 0:01:44]}
+Nf6 {[%emt 0:02:28]} 5. d3 {[%emt 0:03:30]} g6 {[%emt 0:00:52]} 6. O-O {
+[%emt 0:00:27]} Bg7 {[%emt 0:00:11]} 7. e5 {[%emt 0:01:15]} dxe5 8. Nxe5 {
+[%emt 0:00:09]} O-O {[%emt 0:04:51]} 9. Nxd7 {[%emt 0:02:17]} Nfxd7 {[%emt 0:
+00:21]} 10. Nc3 {[%emt 0:02:40]} Ne5 {[%emt 0:04:52]} 11. f4 {[%emt 0:06:38]}
+a6 {[%emt 0:03:21]} 12. fxe5 {[%emt 0:01:28]} axb5 {[%emt 0:00:07]} 13. e6 {
+[%emt 0:04:00]} Bxc3 {[%emt 0:05:40]} 14. exf7+ {[%emt 0:15:11]} Rxf7 {[%emt 0:
+01:37]} 15. bxc3 {[%emt 0:00:06]} Rxf1+ {[%emt 0:04:36]} 16. Qxf1 {[%emt 0:00:
+11]} Rxa4 {[%emt 0:10:29]} 17. Rb1 {[%emt 0:01:02]} Qb6 {[%emt 0:19:32]} 18.
+Bg5 {[%emt 0:02:21]} Nc6 {[%emt 0:04:20]} 19. Qf2 {[%emt 0:10:03]} Ra8 {
+[%emt 0:04:19]} 20. Rf1 {[%emt 0:00:34]} Kh8 {[%emt 0:00:36]} 21. Bh6 {[%emt 0:
+01:49]} Rg8 {[%emt 0:00:22]} 22. Qf8 {[%emt 0:00:32]} 1-0
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.12"]
+[Round "2.1"]
+[White "Piorun, Kacper"]
+[Black "Janik, Igor"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2657"]
+[BlackElo "2469"]
+[Annotator "TA"]
+[PlyCount "65"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,65,47,33,33,40,38,37,35,35,45,47,37,23,35,26,28,6,10,0,13,14,12,0,10,
+11,31,31,28,22,30,27,28,28,25,0,12,0,5,4,6,13,16,6,41,0,0,0,0,0,0,0,0,0]} 1. e4
+e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. Nbd2 {
+[%cal Bb1d2,Bd2f1,Bf1e3,Be3g2,Bg2f4,Bf4d3][%mdl 32]} Nd6 {C42: Petroff Defence:
+3 Nxe5 and unusual White 3rd moves} (8... Bf5 9. Re1 Nxd2 10. Qxd2 Bxd3 11.
+Qxd3 O-O 12. Re2 Qd7 13. Bf4 Rfe8 14. Rae1 Bf8 15. c3 Rxe2 16. Rxe2 a6 17. h3
+f6 18. Nd2 Ne7 19. Nf1 {1/2-1/2 (19) Giri,A (2783)-Yu,Y (2764) St Petersburg
+2018}) 9. c3 Bf5 10. Be2 O-O {White is slightly better.} 11. Re1 Bf6 $146 ({
+Predecessor:} 11... Re8 12. Qb3 a6 13. Qxd5 Be6 14. Qh5 g6 15. Qh6 Nf5 16. Qf4
+{1/2-1/2 (56) Morales,O (2072)-Arambulo Urdaneta,H (2031) ICCF email 2016}) 12.
+Nf1 Ne7 13. Ne3 Be6 14. g3 c6 15. Ng2 Bg4 16. Nf4 Ng6 17. Nd3 Re8 18. Nfe5 Bxe2
+(18... Bf5 {seems wilder.} 19. Ng4 h6 20. a4 a5 21. Ne3 Bh3) 19. Rxe2 Qc8 20.
+Nxg6 hxg6 21. Bf4 Ne4 22. f3 Ng5 23. Rxe8+ Qxe8 24. Qf1 Ne6 25. Re1 Qc8 26. Be5
+b6 27. f4 Be7 28. h4 f6 29. f5 ({Inferior is} 29. Bc7 Bf8 $17) (29. Qe2 $5 {
+[%cal Re5f6]}) 29... gxf5 {The position is equal.} 30. Qxf5 {[#] Threatens to
+win with Bxf6.} Nf8 31. Qxc8 Rxc8 32. Bf4 Kf7 33. Kf2 {Accuracy: White = 81%,
+Black = 79%.} 1/2-1/2
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.12"]
+[Round "2.2"]
+[White "Tomczak, Jacek"]
+[Black "Bartel, Mateusz"]
+[Result "1-0"]
+[ECO "C26"]
+[WhiteElo "2631"]
+[BlackElo "2598"]
+[Annotator "TA"]
+[PlyCount "57"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,57,-2,13,22,51,12,8,7,23,10,16,13,38,14,16,2,25,21,23,-33,-28,-43,
+-18,-36,-6,-3,-24,0,-8,-6,-9,0,158,141,241,241,306,304,449,469,463,454,437,353,
+767,749]} 1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 Nc6 5. d3 a6 6. Nge2 d6 7. O-O
+Be6 8. Nd5 {C26: Vienna Game: 2...Nf6, sidelines} h6 (8... Nd4 9. Nxd4 Bxd4 10.
+c3 Ba7 11. d4 c6 12. Nxf6+ Qxf6 13. Be3 O-O 14. f4 exd4 15. cxd4 Rfe8 {1/2-1/2
+(33) Bachmann,A (2593)-Ragger,M (2698) Berlin 2015}) 9. h3 (9. c3 $5 {[%cal
+Rd3d4]}) 9... Bxd5 10. exd5 {The position is equal.} Ne7 11. Kh2 Qd7 12. c4 Nf5
+13. b3 $146 ({Predecessor:} 13. Nc3 O-O 14. Ne4 Nxe4 15. dxe4 {1/2-1/2 (26)
+Dragojlovic,A (2432)-Gozzoli,Y (2470) La Fere 2007}) 13... O-O 14. Bb2 Rfe8 15.
+Qd2 a5 16. g4 ({Better is} 16. Bc3 $11) 16... Nh4 $15 17. f4 Nxg2 18. Kxg2 Nxg4
+(18... Bb4 $5 {[%cal Rb4d2]} 19. Qd1 c6 $11) 19. hxg4 Qxg4+ 20. Ng3 exf4 $1 21.
+Rxf4 Qg5 {[#] ...Re3 is the strong threat.} 22. Bc1 {Hoping for Qd1.} Bb4 $2 (
+22... Re3 $11 23. Qxe3 (23. Rf3 $2 Rxf3 24. Kxf3 Qf6+ {[%mdl 64] Double Attack}
+25. Kg4 Qxa1 $19) 23... Bxe3 24. Bxe3 a4) 23. Qb2 ({Resist} 23. Qf2 $6 Be1 $14)
+23... Be1 (23... Re5 $16) 24. Rf3 $18 Qg6 25. Be3 Bb4 (25... Bxg3 {was
+necessary.} 26. Rxg3 Qxg3+ {[%mdl 64] Remove Defender} 27. Kxg3 Rxe3+ 28. Kf2
+Rae8) 26. a3 Bc5 27. Bxc5 dxc5 28. Kf2 {[#] And now Rg1 would win.} Qg5 $2 (
+28... Kh8 29. Rh1 f6) 29. Nf5 {Accuracy: White = 64%, Black = 28%.} 1-0
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.12"]
+[Round "2.3"]
+[White "Heberla, Bartlomiej"]
+[Black "Socko, Bartosz"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2556"]
+[BlackElo "2627"]
+[Annotator "TA"]
+[PlyCount "71"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,71,-5,0,1,2,5,10,-11,-7,0,0,10,95,95,93,89,85,86,88,97,96,102,131,
+138,135,133,137,138,128,133,249,228,206,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-77,-71,
+-66,-63,-57,0,0,0,-83]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Nf6 6.
+d4 d5 7. Bd3 Bd6 8. O-O O-O 9. Nc3 c6 10. h3 {C01: French: Exchange Variation}
+h6 11. Re1 Re8 12. Ne5 Nbd7 {[%cal Rd7e5]} 13. Bf4 Qc7 {[%cal Rd7e5]} 14. Qf3 {
+[#]} Nf8 $146 (14... Nxe5 $11 15. dxe5 Rxe5 16. Bxe5 Bxe5) ({Predecessor:} 
+14... Nxe5 15. dxe5 Rxe5 16. Bxe5 Bxe5 17. Re2 Bd7 18. Rae1 {1-0 (65) Bacrot,E
+(2725)-Akobian,V (2647) Riadh 2017}) 15. Bxh6 $16 Bxe5 16. dxe5 $40 {[%mdl 128]
+White goes for the king.} Rxe5 17. Bf4 Rxe1+ 18. Rxe1 Qd8 19. Bg5 Be6 20. Ne2
+Qa5 {[#]} 21. b4 $1 {[%cal Rb4a5]} Qxb4 22. c3 Qe7 23. Nf4 Re8 (23... d4 $16)
+24. Nh5 N8d7 {[#]} 25. Nxg7 $2 (25. Re3 $1 $18) 25... Kxg7 $11 26. Qg3 {
+Threatening mate with Bxf6+.} Nh5 27. Qh4 f6 $1 28. Qxh5 {Intending Qh7+ and
+mate.} fxg5 29. Re3 Rg8 $1 ({But not} 29... Nf8 $2 30. Re5 $18) 30. Qg6+ Kf8
+31. Qh6+ Kf7 {Threatens to win with ...Nf8.} 32. h4 (32. Qh5+ $11 {keeps the
+balance.} Kf8 33. Qh6+ {[%mdl 64] Double Attack} Kf7 34. Qh5+ Kg7 35. Qh7+ Kf8
+36. Qh6+ {[%mdl 64] Double Attack}) 32... gxh4 $17 33. Qh5+ Kf8 {White must
+now prevent ...Qg7!} 34. Qh6+ Kf7 {aiming for ...Qf6.} (34... Qg7 $5 {[%cal
+Rg7h6]} 35. Rxe6 Qxh6 36. Rxh6 Nc5 $17) 35. Qh5+ Kf8 {...Qg7! is the strong
+threat.} 36. Qh6+ {Accuracy: White = 77%, Black = 67%.} 1/2-1/2
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.12"]
+[Round "2.4"]
+[White "Sadzikowski, Daniel"]
+[Black "Gumularz, Szymon"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2522"]
+[BlackElo "2483"]
+[Annotator "ChessBase"]
+[PlyCount "109"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:00]} 3. Bc4 {[%emt 0:00:00]} Bc5 {[%emt 0:01:00]} 4. c3 {[%emt 0:00:
+59]} Nf6 {[%emt 0:00:08]} 5. d3 {[%emt 0:00:05]} d6 {[%emt 0:00:12]} 6. O-O {
+[%emt 0:00:12]} h6 {[%emt 0:03:37]} 7. b4 {[%emt 0:04:17]} Bb6 {[%emt 0:00:31]}
+8. a4 {[%emt 0:00:06]} a5 {[%emt 0:01:38]} 9. b5 {[%emt 0:00:01]} Ne7 {[%emt 0:
+00:08]} 10. Re1 {[%emt 0:01:18]} O-O {[%emt 0:01:27]} 11. Nbd2 {[%emt 0:02:55]}
+Ng6 {[%emt 0:04:48]} 12. d4 {[%emt 0:00:47]} Re8 {[%emt 0:12:30]} 13. Qb3 {
+[%emt 0:22:32]} Be6 {[%emt 0:04:44]} 14. Bxe6 {[%emt 0:03:04]} Rxe6 {[%emt 0:
+00:22]} 15. d5 {[%emt 0:02:41]} Re8 {[%emt 0:01:23]} 16. Nc4 {[%emt 0:00:05]}
+Bc5 {[%emt 0:03:37]} 17. b6 {[%emt 0:01:27]} cxb6 {[%emt 0:11:15]} 18. Ba3 {
+[%emt 0:01:22]} Qc7 {[%emt 0:04:10]} 19. Bxc5 {[%emt 0:05:40]} Qxc5 {[%emt 0:
+05:57]} 20. Nfd2 {[%emt 0:02:46]} Ra6 {[%emt 0:23:44]} 21. Qa3 {[%emt 0:02:36]}
+Qxa3 {[%emt 0:06:19]} 22. Rxa3 {[%emt 0:00:22]} Rd8 {[%emt 0:00:15]} 23. Rb1 {
+[%emt 0:15:36]} Nf4 {[%emt 0:00:38]} 24. f3 {[%emt 0:03:59]} Kf8 {[%emt 0:05:
+02]} 25. Kf2 {[%emt 0:00:52]} Ke7 {[%emt 0:00:58]} 26. Nxb6 {[%emt 0:04:18]}
+Nd3+ {[%emt 0:04:48]} 27. Ke3 {[%emt 0:00:16]} Nc5 {[%emt 0:00:04]} 28. Rb5 {
+[%emt 0:01:07]} Nfd7 {[%emt 0:01:06]} 29. Nxd7 {[%emt 0:00:33]} Kxd7 {[%emt 0:
+01:14]} 30. Nb3 {[%emt 0:04:46]} b6 {[%emt 0:00:27]} 31. Nxc5+ {[%emt 0:00:04]}
+dxc5 {[%emt 0:00:39]} 32. c4 {[%emt 0:03:45]} Kc7 {[%emt 0:00:35]} 33. Rb2 {
+[%emt 0:00:12]} Raa8 {[%emt 0:01:24]} 34. g3 {[%emt 0:00:02]} Rd6 {[%emt 0:00:
+17]} 35. f4 {[%emt 0:01:27]} Re8 {[%emt 0:00:41]} 36. Rf2 {[%emt 0:02:38]} f6 {
+[%emt 0:00:25]} 37. f5 {[%emt 0:07:30]} Rh8 {[%emt 0:01:29]} 38. Rb3 {[%emt 0:
+00:11]} Rdd8 {[%emt 0:00:16]} 39. Kf3 {[%emt 0:00:11]} Rd6 {[%emt 0:00:59]} 40.
+Rfb2 {[%emt 0:00:00]} Rh7 {[%emt 0:00:00]} 41. Rb1 {[%emt 0:01:55]} h5 {
+[%emt 0:06:34]} 42. h4 {[%emt 0:02:03]} Rh8 {[%emt 0:01:18]} 43. g4 {[%emt 0:
+02:04]} hxg4+ {[%emt 0:00:33]} 44. Kxg4 {[%emt 0:00:01]} Rh6 {[%emt 0:01:59]}
+45. h5 {[%emt 0:02:20]} Rh8 {[%emt 0:00:19]} 46. Kh4 {[%emt 0:01:48]} Rh7 {
+[%emt 0:00:06]} 47. Rb5 {[%emt 0:08:07]} Rh8 {[%emt 0:00:25]} 48. R5b3 {
+[%emt 0:02:46]} Rh7 {[%emt 0:00:09]} 49. Rg3 {[%emt 0:02:19]} Rd7 {[%emt 0:04:
+36]} 50. Rg6 {[%emt 0:01:36]} Rf7 {[%emt 0:01:29]} 51. h6 {[%emt 0:03:50]} Rh8
+{[%emt 0:04:17]} 52. Kh5 {[%emt 0:00:42]} gxh6 {[%emt 0:00:16]} 53. Rbg1 {
+[%emt 0:00:36]} Kd6 {[%emt 0:00:19]} 54. Rg8 {[%emt 0:02:32]} Rhh7 {[%emt 0:01:
+44]} 55. R1g6 {[%emt 0:01:12]} 1-0
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.12"]
+[Round "2.5"]
+[White "Dragun, Kamil"]
+[Black "Gajewski, Grzegorz"]
+[Result "1-0"]
+[ECO "B53"]
+[WhiteElo "2591"]
+[BlackElo "2613"]
+[Annotator "TA"]
+[PlyCount "141"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,141,6,14,8,3,0,7,15,11,0,8,5,5,0,18,8,3,2,11,4,53,32,54,62,78,44,47,
+42,37,37,52,54,41,50,63,54,43,52,60,43,60,47,173,172,272,270,282,290,314,314,
+314,314,314,314,314,314,314,314,314,314,382,382,382,382,375,370,357,357,356,
+352,341,341,312,278,1103,1039,12808,12827,12837,12839,12837,12844,12833,12845,
+6773,29944,29940,29945,29943,29947,29943,29946,29951,29947,29952,29950,12844,
+12826,12791,10234,4082,1239,29961,29957,29973,29974,29974,29971,29975,29973,
+29969,29970,29970,29971,29973,29974,29978,29978,29976,29972,29972,29973,29988,
+29973,29970,1289,966,870,29991,29992,29992,29993,29993,29985]} 1. e4 c5 2. Nf3
+d6 3. d4 cxd4 4. Qxd4 Nc6 5. Qe3 g6 6. Be2 {B53: Sicilian: 2...d6: Lines with
+Qxd4} Bg7 7. O-O Nf6 8. Rd1 {The position is equal.} O-O 9. h3 Be6 10. Nc3 Rc8
+11. a3 $146 ({Predecessor:} 11. Rb1 Qc7 12. a3 a6 {1/2-1/2 (21) Demchenko,A 
+(2679)-Volokitin,A (2634) Germany 2019}) 11... Qa5 12. Rb1 Ne5 13. Nxe5 Qxe5
+14. f4 Qc5 15. Qxc5 dxc5 16. Be3 $36 {[%mdl 2048] White has some pressure.} Nd7
+17. Nd5 Bxd5 18. Rxd5 Nf6 19. Rxc5 Nxe4 20. Rxc8 Rxc8 21. Bxa7 Nd2 22. Rd1 Rxc2
+23. Be3 Nb3 $1 24. Rd8+ Bf8 25. Bf3 Kg7 (25... Rxb2 $14 26. Bxb7 Re2) 26. Rb8
+$18 ({Don't do} 26. Bxb7 $6 e6 $14) 26... Rxb2 (26... f6 $142 27. a4 (27. Rxb7
+Na5 $16) (27. Bxb7 Na5 $16) 27... Na5) 27. Rxb7 e6 28. a4 Rb1+ 29. Kf2 Rb2+ 30.
+Kg3 {[#] Hoping for Bd1.} Ra2 31. Rxb3 Rxa4 32. Bc6 Ra3 33. Rxa3 Bxa3 34. Bd4+
+f6 35. Kf3 Kf7 36. Ba4 Ke7 37. Bb3 Bd6 38. Ke4 Bc7 39. Bc5+ Kf7 40. Be3 f5+ 41.
+Kf3 h5 $2 (41... Bd8 42. g3 h6) 42. Bd4 Bd6 43. Be5 Be7 44. Ke3 Bc5+ 45. Kd3
+Ke7 46. Kc4 Bf2 47. Kb5 (47. Kb4 $18 Be3 48. Kb5) 47... Kd7 48. Ba4 Be3 49.
+Ka6+ Ke7 50. Kb7 Bd2 51. Kc6 Bb4 52. Bb3 Ba3 53. Bd4 Bc1 54. Bc5+ Kf6 55. Bd6 (
+55. Kd7 $142 Bxf4 56. Be7+ Kf7 57. Bxe6+ Kg7 58. Bd5) 55... Bb2 56. Kd7 e5 57.
+fxe5+ Bxe5 58. Be7+ Kg7 59. Ke6 Bc3 60. Ba4 Bd4 61. Be8 Bc3 62. Bd6 Ba5 63.
+Be5+ Kh7 64. Bf6 Bb6 65. Kf7 Bc5 66. Bb5 Bd6 67. Bg7 (67. h4 $142 Bf4 68. Bg5
+Be5 69. Be8 Bc7 70. Kf6 Bd8+ 71. Ke6 Bb6 72. g3) 67... Bg3 68. Bd3 Bf4 {[#]}
+69. g4 $1 {White mates.} hxg4 (69... fxg4 70. Bxg6#) 70. hxg4 Bh6 71. Bf6 {
+Played: Bg7xh6} 1-0
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.13"]
+[Round "3.1"]
+[White "Gajewski, Grzegorz"]
+[Black "Piorun, Kacper"]
+[Result "1/2-1/2"]
+[ECO "A80"]
+[WhiteElo "2613"]
+[BlackElo "2657"]
+[Annotator "TA"]
+[PlyCount "91"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,91,13,25,18,17,11,29,31,30,32,35,28,35,32,35,35,59,27,34,34,34,24,14,
+0,66,0,11,14,47,0,25,33,27,23,21,0,11,-33,0,3,0,-39,-39,-50,-47,-143,-58,-61,
+-17,-21,-20,-113,-8,-25,-14,-14,-14,-10,-10,-14,-18,-15,-22,-29,-14,-22,-12,
+-10,-14,-8,-8,-8,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 f5 2. Nc3 Nf6 3. Bg5 d5 4.
+Bxf6 exf6 5. e3 Be6 6. h4 {A80: Dutch Defence: Unusual White second moves} (6.
+Bb5+ c6 7. Bd3 g6 8. Qf3 h5 9. h3 Rg8 10. Nge2 Bd6 11. Nf4 Qe7 12. Nxe6 Qxe6
+13. Ne2 Nd7 {1/2-1/2 (47) Ma,Q (2645)-Yu,Y (2760) China 2018}) 6... h5 7. Nh3
+c6 8. Bd3 {White has an edge.} g6 9. Ne2 Bd6 10. b3 $146 ({Predecessor:} 10. c3
+Nd7 11. Qc2 Qe7 12. Nhf4 Bf7 13. c4 Bxf4 14. Nxf4 dxc4 {1-0 (35) Raicevic,V 
+(2480)-Steiner,D (2305) Cattolica 1989}) 10... b5 11. c3 Nd7 12. a4 a6 13. Qc2
+Nb6 14. a5 Nc8 15. Nef4 Bf7 16. c4 {aiming for cxb5.} Ne7 ({Black should play} 
+16... Bb4+ $11 17. Ke2 Ne7) 17. O-O (17. c5 $14 Bc7 18. b4) 17... Rg8 $11 18.
+Be2 Bb8 19. cxd5 cxd5 20. Nd3 Qd6 {[%csl Gb8][%cal Rd6h2]} 21. g3 g5 22. hxg5
+fxg5 23. Ne5 Qf6 24. Nxf7 Qxf7 25. Qd1 g4 26. Nf4 h4 27. Rc1 {[#]} (27. Kg2 $15
+) 27... Rh8 (27... hxg3 $1 $17 {Hoping for ...Bxf4.} 28. fxg3 Qh7) 28. Kg2 $1
+$15 Bd6 29. Rh1 Qf6 30. f3 (30. gxh4 $11 Bxf4 31. exf4) 30... Bxf4 (30... hxg3
+$17 31. Rxh8+ Qxh8) 31. exf4 $11 hxg3 32. fxg4 {g5 is the strong threat.} Rxh1
+33. Qxh1 Qxd4 {( -> ...Qf2+)} 34. Kxg3 Qe3+ {[%mdl 64] [#] Double Attack} 35.
+Bf3 fxg4 $1 36. Kxg4 Qe6+ 37. Kg3 {The position is equal.} Nf5+ 38. Kg2 Qg6+
+39. Kf2 $132 {[%mdl 2048] Bh5! would kill now. White is fighting back} Qg3+ {
+[%mdl 64] Double Attack} 40. Ke2 {Threatens to win with Qh5+.} Kd7 {Strongly
+threatening ...Re8+.} 41. Qh7+ $1 Ng7 {White must now prevent ...Re8+.} 42.
+Bxd5 Re8+ 43. Be4 Qg2+ 44. Kd3 Qg3+ {[%mdl 64] Double Attack} 45. Ke2 Qg2+ 46.
+Kd3 {Accuracy: White = 53%, Black = 58%.} 1/2-1/2
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.13"]
+[Round "3.2"]
+[White "Gumularz, Szymon"]
+[Black "Dragun, Kamil"]
+[Result "0-1"]
+[ECO "B04"]
+[WhiteElo "2483"]
+[BlackElo "2591"]
+[Annotator "TA"]
+[PlyCount "131"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,131,22,36,45,77,73,75,74,65,62,52,56,72,79,96,79,128,125,150,144,145,
+138,135,120,119,84,76,73,79,72,74,0,25,12,23,-91,0,-134,-127,-130,-127,-119,
+-114,-189,-165,-177,-169,-214,-176,-263,-101,-165,-101,-154,-143,-299,-300,
+-343,-265,-289,-276,-275,-275,-266,-274,-255,-253,-316,-245,-245,-160,-225,0,
+-243,-183,-233,-233,-295,-264,-410,-389,-393,-385,-403,-403,-403,-395,-375,
+-369,-916,-286,-286,-286,-286,-286,-285,-285,-277,-277,-343,-331,-310,-288,
+-288,0,-229,-229,-229,-241,-241,0,-241,-249,-256,-168,-168,-168,-168,-168,-168,
+-168,-168,-168,-168]} 1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 (4... Bg4 5. Be2
+e6 6. O-O Be7 7. h3 Bh5 8. c4 Nb6 9. Nc3 O-O 10. Be3 d5 11. g4 Bg6 12. c5 Nc4
+13. Bxc4 dxc4 14. Qa4 b6 15. cxb6 cxb6 16. Qxc4 Qd7 17. d5 Rc8 18. Qe2 exd5 {
+1-0 (31) Anand,V (2773)-Maghsoodloo,P (2688) St Petersburg 2018}) 5. c4 Nf6 6.
+Nxe5 {B04: Alekhine's Defence: 4 Nf3} c6 7. Nc3 g6 8. Be2 {White is better.}
+Bg7 9. O-O O-O 10. Be3 Nbd7 11. f4 $36 {[%mdl 2048] Keeping Black busy.} Qc7
+12. Bf3 Rd8 13. Qe2 Nf8 $146 ({Predecessor:} 13... Ne8 14. Rad1 {1-0 (26)
+Beserra,J (1906)-Manzi,L (2051) Rio de Janeiro 2016}) 14. Rad1 N6d7 15. Qf2 f5
+16. Rfe1 Nxe5 17. dxe5 Rxd1 18. Rxd1 Be6 19. Bxa7 Nd7 20. Nd5 (20. Be3 $16)
+20... Bxd5 21. cxd5 c5 22. e6 (22. Qh4 $1 $11 {remains equal.} Bf8 23. d6 exd6
+24. e6) 22... Rxa7 (22... Bd4 $1 $17 {[%cal Rd4f2]} 23. Rxd4 cxd4 24. Qxd4 Nf6)
+23. exd7 (23. d6 $1 $11 exd6 24. exd7) 23... Bd4 $1 $17 {[%cal Rd4f2]} (23...
+Qxd7 24. Qxc5 Ra4 25. d6 $14) 24. Rxd4 cxd4 25. Qxd4 {[%mdl 4096] Endgame
+KQR-KQB} Ra8 26. h4 (26. d6 $17 Qxd7 27. Qd5+ e6 28. Qxb7 Qxb7 29. Bxb7) 26...
+Qxd7 $19 (26... Rxa2 27. d6 $1 $11 {[%mdl 512]}) 27. h5 {Threatening h6.} Ra4 (
+27... Rxa2 28. h6 $11) 28. b4 gxh5 (28... Rxa2 29. h6 $11) 29. Qe5 (29. Bd1
+$142 Rxa2 30. Bb3) 29... Ra6 $2 (29... Rxb4 30. Qb8+ Kg7 31. Qe5+ Kg6 32. Qh8
+$11) (29... Qd6 $1 $19 {and Black stays clearly on top.} 30. Qxf5 Rxb4) 30.
+Bxh5 (30. Qb8+ $17 {was worth a try.} Kg7 31. Qe5+ Rf6 32. a4) 30... Rf6 (30...
+Rxa2 $19 31. Qb8+ Kg7 32. Qe5+ Kg8 33. Qb8+ Kg7 34. Qe5+ Kh6) 31. Bf3 (31. a4
+$142) 31... Qd6 $17 32. Qc3 $2 (32. Qd4 $17 {was called for.}) 32... Qxf4 $19
+33. a4 b6 34. Qc8+ Kg7 35. Qc3 Kg6 36. a5 bxa5 37. bxa5 Qd6 38. Qc8 Kg7 39. Qc3
+Qd7 40. Qc5 (40. Be2 $17 {might work better.}) 40... Qd6 41. Qc3 h6 42. Kh1 Kh7
+43. Qc8 Qe5 44. Qd7 (44. Qb7 {was forced.}) 44... Kg7 45. Qb7 Kf7 46. Bh5+ Kf8
+47. Qa8+ Kg7 48. Qe8 f4 49. Kg1 $2 (49. Bf3) 49... Qd6 $2 (49... Qe1+ 50. Kh2
+f3 51. gxf3 Qh4+ 52. Kg2 Qg5+ {[%mdl 64] Double Attack} 53. Bg4 Rg6) 50. Bf3
+Rf8 51. Qh5 Qf6 52. Qg4+ Kh8 53. Kh2 Rg8 54. Qd7 {intending d6!} Qh4+ $1 55.
+Kg1 Qe1+ 56. Kh2 Qh4+ 57. Kg1 $1 {[#]} Rb8 $1 {[%cal Rb8b1]} 58. Qf5 Qe1+ 59.
+Kh2 Qh4+ 60. Kg1 $1 {[#]} Qg5 $1 {[%cal Rg5f5]} ({Resist} 60... Qe1+ 61. Kh2)
+61. Qe4 Rc8 {( -> ...Rc1+)} 62. Qd4+ {Black is clearly better.} Kg8 {...Rc1+
+is the strong threat.} 63. d6 {aiming for d7.} Rc1+ ({Don't go for} 63... Qxa5
+$2 64. Bd5+ e6 65. Bxe6+ Kh7 66. Bxc8 $18) 64. Kf2 {Strongly threatening Qd5+.}
+Qg3+ ({But not} 64... Qxa5 $2 65. Qd5+ Qxd5 66. Bxd5+ e6 67. d7 $18) 65. Ke2 {
+Hoping for Bd5+.} Qe1+ 66. Kd3 {Accuracy: White = 53%, Black = 58%.} 0-1
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.13"]
+[Round "3.3"]
+[White "Socko, Bartosz"]
+[Black "Sadzikowski, Daniel"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "2627"]
+[BlackElo "2522"]
+[Annotator "TA"]
+[PlyCount "101"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,100,26,21,32,23,40,27,30,27,31,32,27,-5,0,0,0,-41,-18,-33,-2,-47,19,
+-4,0,-24,10,-16,37,34,23,10,35,0,26,13,24,24,133,128,154,89,200,215,197,111,
+176,149,162,167,156,158,162,141,187,185,227,214,211,86,92,81,91,85,78,79,104,
+100,110,110,124,120,123,123,285,272,290,291,392,392,377,365,792,784,765,660,
+29999]} 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. h3 Nf6 7. Nc3
+Nd7 8. Be3 e5 9. Qd2 h6 {B31: Sicilian: 2...Nc6 3 Bb5 g6} 10. O-O (10. a3 b6
+11. b4 Nf8 12. bxc5 Ne6 13. cxb6 axb6 14. Qc1 f5 15. a4 f4 16. Bd2 O-O 17. Qb2
+{0-1 (51) Meier,G (2628)-Caruana,F (2819) Karlsruhe/Baden Baden 2019}) 10... b6
+11. Nh2 Nf8 {White has an edge.} 12. f4 exf4 13. Bxf4 Ne6 14. Bg3 Qg5 $36 {
+[%mdl 2048] Black fights for an advantage.} 15. Qe1 Nd4 {[#]} 16. Bf4 $146 ({
+Predecessor:} 16. Nf3 Qd8 17. Qd2 {1-0 (62) Kobalia,M (2620)-Zagrebelny,S 
+(2485) Tula 2019}) 16... Qd8 (16... Nxc2 $2 17. Qc1 $18) (16... Qe7 {with more
+complications.} 17. Qf2 O-O 18. Rae1 Be6 19. e5 g5) 17. Qd2 g5 18. Be3 a5 (
+18... Qc7 $15) 19. Rae1 Ra7 20. Kh1 Be5 21. Ne2 f6 (21... Nxe2 $11 22. Rxe2 O-O
+) 22. c3 Nxe2 23. Qxe2 O-O 24. Rd1 Bb8 25. Qh5 Qd6 {[%csl Gb8][%cal Rd6h2]} 26.
+Bg1 f5 (26... Re7 $11 {keeps the balance.}) 27. d4 $1 $16 {[%cal Rd4c5]} c4 ({
+Don't go for} 27... fxe4 $2 28. dxc5 Qe6 29. Ng4 $18) 28. d5 (28. exf5 $142 $1
+{And now Ng4 would win.} Bxf5 29. Rxf5 $1 {[%mdl 512]} Rxf5 30. Ng4) 28... Kh7
+(28... Rg7 $16) 29. Nf3 $18 Rg7 {With the idea ...g4.} 30. e5 (30. exf5 $1 $18
+{Threatens to win with Bh2.} Bxf5 31. Bh2) 30... Qd8 (30... Qd7 $16) 31. dxc6
+Qe7 32. Bxb6 {Strongly threatening c7.} g4 33. hxg4 fxg4 {[#]} 34. Nh2 $1 {
+Black must now prevent Rxf8.} Rxf1+ 35. Rxf1 {Rf6 is the strong threat.} Qxe5
+36. Qxe5 Bxe5 37. Rf8 ({But not} 37. Bxa5 $6 Kg6 $16) (37. Bd4 $18 {is the
+precise move to win.} Bxd4 38. cxd4) 37... Rg8 $16 38. Rxg8 Kxg8 39. Bxa5 {
+[%mdl 4096] Endgame KBB-KBN} Kf7 40. Nf1 Be6 41. Bb6 Ke7 42. Bf2 h5 43. Bg3 Bf6
+44. Bf4 Bd5 $2 (44... Kd8 $16 45. a4 Kc8) 45. c7 $18 Kd7 {[#]} 46. Ng3 $1 h4
+47. Nf5 Bb7 48. Ne3 h3 $2 (48... Be7 49. Nxc4 Bc5) 49. Nxc4 hxg2+ 50. Kh2 Kc8
+51. Nb6# {Accuracy: White = 59%, Black = 36%.} 1-0
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.13"]
+[Round "3.4"]
+[White "Bartel, Mateusz"]
+[Black "Heberla, Bartlomiej"]
+[Result "1-0"]
+[ECO "A28"]
+[WhiteElo "2598"]
+[BlackElo "2556"]
+[Annotator "TA"]
+[PlyCount "67"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,67,0,0,7,7,12,17,11,27,0,22,26,30,20,27,11,41,12,28,14,40,9,37,29,37,
+39,35,34,41,46,62,62,56,47,59,47,113,109,108,102,120,116,150,150,451,453,455,
+453,443,431,562,559,531,533,1090,1022,1690,1461,6049,5156]} 1. c4 e5 2. Nc3 Nf6
+3. Nf3 Nc6 4. e4 Bb4 5. d3 d6 6. a3 {A28: English Opening: Four Knights
+Variation} Bc5 7. b4 Bb6 8. Na4 {The position is equal.} Bg4 9. Nxb6 (9. Be2
+Nd7 10. Nxb6 axb6 11. Bb2 O-O 12. h3 Bxf3 13. Bxf3 Nd4 {1-0 (49) Nakamura,H 
+(2746)-Sevian,S (2642) Saint Louis 2019}) 9... Bxf3 10. Qxf3 Nd4 11. Qd1 $1
+axb6 12. Bb2 $146 ({Predecessor:} 12. Be2 Qe7 13. O-O c5 14. Bb2 g5 15. Bxd4 {
+1/2-1/2 (15) Ghaem Maghami,E (2569)-Edouard,R (2639) Guilan 2016}) 12... Qd7
+13. Be2 b5 14. O-O c5 15. f4 {White wants to play bxc5.} b6 16. Bxd4 cxd4 17.
+fxe5 dxe5 18. Qe1 O-O 19. Qg3 {[#] Hoping for Rxf6.} Kh8 20. Qxe5 bxc4 21. dxc4
+Rae8 22. Qf5 Qxf5 ({Black should try} 22... Qc7 $14) 23. Rxf5 $16 Nxe4 24. Bd3
+Nc3 25. a4 Re3 26. Rf3 {Strongly threatening Rxe3.} Ra8 $2 {[#]} (26... Rd8 $16
+{is more resistant.} 27. a5 bxa5) 27. Rxe3 $18 {White is clearly winning.} dxe3
+{[%mdl 4096] Endgame KRB-KRN} 28. a5 bxa5 29. bxa5 Kg8 30. Ra3 Nd1 31. Be2 Nb2
+32. Ra2 Rb8 33. a6 {[%cal Ba5a6,Ba6a7][%mdl 32]} Na4 34. a7 {Accuracy: White =
+72%, Black = 31%.} 1-0
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.13"]
+[Round "3.5"]
+[White "Janik, Igor"]
+[Black "Tomczak, Jacek"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2469"]
+[BlackElo "2631"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,61,2,15,0,10,-5,0,0,29,25,22,15,8,4,9,9,12,-22,0,0,0,0,0,-9,2,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5
+6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c4 b4 12. Nc2 a5
+13. g3 {B33: Sicilian: Pelikan and Sveshnikov Variations} (13. Qf3 Be6 14. Rd1
+Bxd5 15. cxd5 Na7 16. g3 Rc8 17. Ne3 O-O 18. h4 Rc5 19. Bd3 Nc8 20. O-O Qc7 {
+1/2-1/2 (31) Nakamura,H (2746)-Caruana,F (2828) Saint Louis 2019}) 13... O-O
+14. h4 Be6 15. Bh3 Nd4 16. Nxd4 exd4 17. Bxe6 {The position is equal.} fxe6 18.
+Nf4 {[#]} Qb6 $146 ({Predecessor:} 18... Qe7 19. Qg4 Rae8 20. O-O Qf7 {1-0 (39)
+Malakhov,V (2676)-Maletin,P (2567) Krasnoyarsk 2007}) 19. O-O ({Much weaker is
+} 19. Nxe6 Rfe8 $15) 19... Rae8 20. Qa4 d3 21. Nxd3 Qd4 $1 {[%cal Rd4d3]} 22.
+Rad1 Qxe4 23. Qxa5 Bxh4 24. Qxb4 (24. gxh4 {gets mated.} Qg4+ 25. Kh1 Rf3 26.
+Qe5 dxe5 27. Nf4 exf4 28. Rd3 Rh3+ 29. Rxh3 Qxh3+ 30. Kg1 f3 31. Re1 Qg2#)
+24... Bxg3 25. fxg3 Rxf1+ 26. Rxf1 Qxd3 $11 {KQR-KQR} 27. Kg2 Qe4+ 28. Kg1 Qe3+
+29. Kg2 Qe4+ 30. Kg1 Qe3+ 31. Kg2 {Accuracy: White = 59%, Black = 35%.} 1/2-1/2
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.14"]
+[Round "4.1"]
+[White "Piorun, Kacper"]
+[Black "Tomczak, Jacek"]
+[Result "*"]
+[ECO "D20"]
+[WhiteElo "2657"]
+[BlackElo "2631"]
+[Annotator "TA"]
+[PlyCount "38"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,23,35,22,31]} 1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. e5 Nd5 5. Bxc4 Bf5 6.
+Ne2 e6 7. O-O Nb6 8. Bb3 Nc6 9. Nbc3 Qd7 10. Be3 Rd8 11. a3 Be7 12. Qc1 {
+D20: Queen's Gambit Accepted: 3 e3 and 3 e4} {Predecessor:} Bd3 $146 13. Rd1
+Na5 14. Ba2 Bc4 15. Bxc4 Nbxc4 16. Rb1 Nxe3 17. Qxe3 Nc4 18. Qg3 O-O 19. Nf4
+Kh8 {1/2-1/2 (51) Beliavsky,A (2628)-Romanov,E (2640) Legnica 2013} *
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.14"]
+[Round "4.1"]
+[White "Piorun, Kacper"]
+[Black "Tomczak, Jacek"]
+[Result "1-0"]
+[ECO "D20"]
+[WhiteElo "2657"]
+[BlackElo "2631"]
+[Annotator "TA"]
+[PlyCount "71"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,71,31,39,27,25,20,47,47,41,35,33,32,18,0,0,0,7,7,56,27,27,31,31,22,
+28,21,14,21,71,79,72,75,80,74,85,50,60,37,26,0,0,0,0,0,0,0,0,0,0,0,5025,4917]} 
+1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. e5 Nd5 5. Bxc4 Bf5 6. Ne2 e6 7. O-O Nb6 8. Bb3
+Nc6 9. Nbc3 Qd7 10. Be3 Rd8 11. a3 Be7 12. Qc1 {D20: Queen's Gambit Accepted:
+3 e3 and 3 e4} O-O (12... Bd3 13. Rd1 Na5 14. Ba2 Bc4 15. Bxc4 Nbxc4 16. Rb1
+Nxe3 17. Qxe3 Nc4 18. Qg3 O-O 19. Nf4 Kh8 {1/2-1/2 (51) Beliavsky,A (2628)
+-Romanov,E (2640) Legnica 2013}) 13. Rd1 Qc8 14. Ba2 {White is slightly better.
+} Rfe8 $146 ({Predecessor:} 14... Rd7 15. b4 Rfd8 16. Qb2 Bf8 17. Rd2 a5 18. b5
+Ne7 19. Nf4 {0-1 (43) Papenin,N (2359)-Drozdovskij,Y (2449) Dnipropetrovsk 2002
+}) 15. Ng3 Bg6 16. f4 Bh4 17. Nf1 Bh5 18. Rd2 Na5 $1 19. b3 {[%cal Bb2b3,Bb3b4]
+[%mdl 32]} Be7 20. Kh1 Bg6 21. Bf2 Bf8 22. b4 Nc6 $1 23. d5 exd5 24. Nxd5 Bf5
+25. Bxb6 cxb6 26. Nfe3 Be6 27. Qf1 Kh8 28. Rc1 Qb8 29. Qe2 f6 30. b5 (30. Qh5 {
+with more complications.} fxe5 31. f5 Bxd5 32. Rxd5 e4 33. f6) 30... fxe5 31.
+bxc6 bxc6 32. Rxc6 {[#] Hoping for f5.} exf4 33. Rxe6 $1 Rxe6 34. Nxf4 $1 Rxd2
+35. Qxd2 Re4 $2 {[%mdl 8192] [#]} (35... Re5 $11) 36. Qd5 {Accuracy: White =
+63%, Black = 72%.} 1-0
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.14"]
+[Round "4.2"]
+[White "Heberla, Bartlomiej"]
+[Black "Janik, Igor"]
+[Result "0-1"]
+[ECO "B13"]
+[WhiteElo "2556"]
+[BlackElo "2469"]
+[Annotator "TA"]
+[PlyCount "42"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,154,7,0,0,0,0,0,0,0,0,0,-78,-24,-42,-47,-44,75,-24,-23,-54,-54,-47,
+-17,-17,-17,-17,-27,-24,-14,-100,-78,-122,-102,-95,-95,-109,-94,-128,-69,-188,
+-166,-168,-175,-229,-214,-209,-208,-186,-198,-273,-266,-329,-337,-285,-276,
+-298,-312,-272,-228,-272,-272,-258,-168,-167,-169,-169,-169,-170,-169,-166,
+-162,-165,-168,-169,-169,-171,-162,-167,-8,-97,-2,-15,-2,-8,-8,-8,-8,-8,-8,-8,
+-8,-10,-8,-8,-8,-10,-8,-8,-9,-22,-13,-22,-22,-33,-33,-671,-635,-665,-671,-557,
+-552,-549,-549,-439,-102,-29955,-12848,-1210,-706,-29975,-29976,-29976,-29977,
+-29977,-29978,-29978,-29979,-29979,-29980,-29980,-29981,-29981,-29982]} 1. e4
+c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8. Qb3
+Bxf3 9. gxf3 e6 10. Qxb7 Nxd4 11. Bb5+ Nxb5 12. Qc6+ Ke7 {aiming for ...Nbxc3.}
+13. Qc5+ {B13: Caro-Kann: Exchange Variation and Panov-Botvinnik Attack} (13.
+Qxb5 Nxc3 14. bxc3 Qd7 15. Rb1 Rd8 16. Be3 Qxb5 17. Rxb5 Rd7 18. Ke2 g6 19.
+Bc5+ Kf6 20. Bd4+ Rxd4 21. cxd4 Bh6 22. Rhb1 Rd8 {1-0 (38) Ivanchuk,V (2738)
+-Vachier Lagrave,M (2796) Leuven 2017}) 13... Nd6 14. Nxd5+ Kd7 15. Nc3 {
+The position is equal.} Qb6 16. Qe5 $146 ({Predecessor:} 16. Qh5 Ke8 17. O-O
+Nf5 18. Qg4 Rc8 19. Rd1 Bc5 20. Qa4+ Qc6 {1-0 (40) Pechac,J (2448)-Kreisl,R 
+(2435) Stara Lubovna 2017}) 16... Be7 17. Qe2 (17. O-O $11) 17... Bf6 ({
+Better is} 17... Rhd8 $17) 18. Bf4 Bxc3+ 19. bxc3 e5 (19... Rhd8 $15 {keeps
+the upper hand.}) 20. Be3 ({White should play} 20. Bxe5 $16 {0-0-0 is the
+strong threat.} f6 21. Bd4 (21. Bxd6 Rhe8 $15)) 20... Qb5 $11 21. Qc2 Rac8 {
+Played: Rh8-c8} 0-1
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.14"]
+[Round "4.3"]
+[White "Sadzikowski, Daniel"]
+[Black "Bartel, Mateusz"]
+[Result "*"]
+[ECO "C03"]
+[WhiteElo "2522"]
+[BlackElo "2598"]
+[Annotator "TA"]
+[PlyCount "35"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,25,30,26,48,35,45,16,12,18,14,14]} 1. e4 e6 2. d4 d5 3. Nd2 Be7 4.
+Ngf3 Nf6 5. e5 Nfd7 6. Bd3 c5 7. c3 Nc6 8. O-O g5 9. dxc5 Ndxe5 {C06: French
+Tarrasch: 3...Nf6 4 e5 Nfd7 5 Bd3 main lines} 10. Nxe5 Nxe5 11. Bb5+ Bd7 12.
+Bxd7+ Qxd7 13. Nf3 {[#]} {Predecessor:} Nxf3+ $146 14. Qxf3 e5 15. Be3 Qe6 16.
+c4 d4 17. Bxd4 exd4 18. Qxb7 {0-1 (53) Meier,G (2411)-Socko,B (2610) Bastia
+2005} *
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.14"]
+[Round "4.3"]
+[White "Sadzikowski, Daniel"]
+[Black "Bartel, Mateusz"]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[WhiteElo "2522"]
+[BlackElo "2598"]
+[Annotator "TA"]
+[PlyCount "60"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,60,27,43,47,38,31,25,28,22,27,24,28,24,23,23,28,16,18,0,0,0,0,0,8,
+-10,37,0,0,-30,-9,-7,-8,-19,0,17,45,43,50,43,43,42,44,0,30,2,8]} 1. e4 e6 2. d4
+d5 3. Nd2 Be7 4. Ngf3 Nf6 5. e5 Nfd7 6. Bd3 c5 7. c3 Nc6 8. O-O g5 9. dxc5
+Ndxe5 {C06: French Tarrasch: 3...Nf6 4 e5 Nfd7 5 Bd3 main lines} 10. Nxe5 Nxe5
+11. Bb5+ Bd7 {White has an edge.} 12. Bxd7+ Qxd7 13. Nf3 Nxf3+ 14. Qxf3 e5 15.
+b4 $146 ({Predecessor:} 15. Be3 Qe6 16. c4 d4 17. Bxd4 exd4 18. Qxb7 {0-1 (53)
+Meier,G (2411)-Socko,B (2610) Bastia 2005}) 15... g4 16. Qg3 f6 17. f4 gxf3 $1
+18. Qxf3 O-O-O 19. Be3 Rhg8 20. Rad1 Kc7 21. a4 Qg4 22. h3 (22. a5 {feels
+hotter.} a6 23. Qf2 f5 24. c6 d4 25. cxd4 f4 26. Bc1) 22... Qg3 23. Kh1 Qxf3
+24. Rxf3 a6 25. g4 Kd7 26. Rxd5+ Ke6 27. Rxd8 Rxd8 28. Kg2 h5 29. Kf2 a5 30.
+Ke2 hxg4 {Accuracy: White = 37%, Black = 60%.} 1/2-1/2
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.14"]
+[Round "4.4"]
+[White "Dragun, Kamil"]
+[Black "Socko, Bartosz"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[WhiteElo "2591"]
+[BlackElo "2627"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,61,43,54,16,20,23,36,24,44,38,39,35,37,13,24,17,16,16,20,12,20,11,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. Nf3 d5 2. g3 Bg4 3. Bg2 c6 4. O-O Nf6 5.
+d4 e6 6. Nbd2 Be7 7. Re1 Nbd7 8. e4 dxe4 9. Nxe4 O-O 10. c3 Qb6 11. Qb3 Rfe8
+12. Nxf6+ Bxf6 13. Bf4 {D02: 1 d4 d5 2 Nf3 sidelines, including 2...Nf6 3 g3
+and 2...Nf6 3 Bf4} h6 (13... Qxb3 14. axb3 a6 15. Ne5 Nxe5 16. Bxe5 Be7 17. Be4
+Bh5 18. h4 Rad8 19. b4 Rd7 20. Bf4 Bg6 {1/2-1/2 (50) Van der Sterren,P (2510)
+-Dautov,R (2615) Germany 1996}) 14. h3 $146 ({Predecessor:} 14. Ne5 Nxe5 15.
+Bxe5 Bxe5 16. Rxe5 {0-1 (43) Jasnikowski,Z (2425)-Kuczynski,R (2480)
+Lubniewice 1995}) 14... Bh5 15. Ne5 {White is slightly better.} Bxe5 16. Bxe5
+Nxe5 17. Rxe5 Bg6 18. Qa3 a5 19. Rae1 a4 {The position is equal.} 20. R1e3 Red8
+21. Kh2 Bb1 22. h4 Qa6 23. Re1 Bd3 24. Qb4 Qc4 25. Qa3 Qa6 26. Qb4 Qc4 27. Qa3
+Qa6 28. Qb4 Qc4 29. Qa3 Qa6 30. Qb4 Qc4 31. Qa3 {Accuracy: White = 78%, Black
+= 75%.} 1/2-1/2
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.14"]
+[Round "4.4"]
+[White "Dragun, Kamil"]
+[Black "Socko, Bartosz"]
+[Result "*"]
+[WhiteElo "2591"]
+[BlackElo "2627"]
+[Annotator "TA"]
+[PlyCount "42"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,21,45,0]} 1. Nf3 d5 2. g3 Bg4 3. Bg2 c6 4. O-O Nf6 5. d4 e6 6. Nbd2
+Be7 7. Re1 Nbd7 8. e4 dxe4 9. Nxe4 O-O 10. c3 Qb6 11. Qb3 {Predecessor:} Nxe4
+$146 12. Rxe4 Bf5 13. Re1 a5 14. Bg5 Bd6 15. Nd2 a4 16. Qxb6 Nxb6 17. Ne4 Bxe4
+18. Bxe4 h6 19. Bc1 Rfe8 20. Kf1 e5 21. dxe5 Bxe5 {1-0 (72) Meier,G (2630)
+-Fontaine,R (2549) chess.com INT 2017} *
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.14"]
+[Round "4.5"]
+[White "Gajewski, Grzegorz"]
+[Black "Gumularz, Szymon"]
+[Result "0-1"]
+[ECO "A05"]
+[WhiteElo "2613"]
+[BlackElo "2483"]
+[Annotator "TA"]
+[PlyCount "72"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,72,22,10,12,12,22,31,30,24,31,26,35,43,36,37,34,-3,43,-44,-45,-34,
+-33,-54,-35,-60,-47,-67,-14,-14,-20,-15,-17,-21,-21,-81,-29,-116,-95,-116,-127,
+-127,-116,-115,-126,-112,-81,-186,-149,-283,-131,-685,-676,-679,-672,-683,-677,
+-621,-638,-1145,-1128,-1078,-1093]} 1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. e3 a6 5.
+b3 c5 6. Bb2 Nc6 7. d4 cxd4 {A13: English Opening: 1...e6} (7... Be7 8. Be2
+cxd4 9. exd4 b6 10. O-O Bb7 11. cxd5 exd5 12. Ne5 O-O 13. Rc1 Rc8 14. Na4 Na7
+15. Rxc8 Nxc8 {1/2-1/2 (55) Lenic,L (2641)-Fressinet,L (2696) Germany 2011}) 8.
+Nxd4 Bd6 9. Be2 O-O {White is slightly better.} 10. O-O $146 ({Predecessor:} 
+10. cxd5 exd5 11. O-O Re8 12. Rc1 Ne5 13. h3 Bd7 14. Nf3 Bc6 15. Rc2 Qe7 16.
+Nd4 Bd7 17. Na4 Rad8 18. Nb6 Be6 19. a3 Ne4 20. Nxe6 fxe6 {1/2-1/2 (30)
+Tokarev,I (2295)-Iljin,A (2537) Kazan 2014}) 10... Bc7 11. Ba3 Re8 12. Nxc6
+bxc6 13. Qc2 e5 14. Rac1 Bd6 (14... d4 $5 {[%cal Rd4c3]} 15. Rcd1 g6 $11) 15.
+Qb2 (15. Bxd6 $14 Qxd6 16. Na4) 15... d4 $15 16. Bxd6 Qxd6 17. exd4 exd4 18.
+Na4 c5 19. Bf3 Ra7 {[#]} ({Black should play} 19... Rb8 $15 20. Qa3 Rb4) 20. b4
+$1 $11 {[%mdl 512]} cxb4 21. c5 Qf4 $40 {[%mdl 128] Black mounts an attack.}
+22. Rcd1 Rd8 23. Rfe1 (23. Qxb4 $11 Bg4 24. Qb6) 23... d3 (23... a5 $1 $17) 24.
+Nb6 {[#]} (24. Re3 $11 {remains equal.}) 24... Bf5 $1 $17 25. Qe5 Qxe5 26. Rxe5
+Be6 27. Rd2 a5 28. Bd1 Rc7 29. h3 (29. f3 $17) 29... g6 30. g4 {[#]} (30. Bf3
+$17) 30... Rd4 (30... Rxc5 $1 $19 {[%mdl 512] and Black stays clearly on top.}
+31. Rxc5 Ne4 {[%mdl 64] Double Attack}) 31. Ba4 $2 {[%mdl 8192]} (31. f3 $17)
+31... Ne4 $19 {Black is clearly winning.} 32. Rxe4 Rxe4 33. c6 Re2 34. Rxd3
+Rxa2 35. Na8 Rc8 36. Nb6 Rb8 {Accuracy: White = 37%, Black = 51%.} 0-1
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.14"]
+[Round "4.5"]
+[White "Gajewski, Grzegorz"]
+[Black "Gumularz, Szymon"]
+[Result "*"]
+[ECO "A05"]
+[WhiteElo "2613"]
+[BlackElo "2483"]
+[Annotator "TA"]
+[PlyCount "39"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,16,16,16,18,12,16]} 1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. e3 a6 5. b3 c5
+6. Bb2 Nc6 7. d4 cxd4 {A13: English Opening: 1...e6} 8. Nxd4 Bd6 {Predecessor:}
+9. cxd5 $146 exd5 10. Be2 O-O 11. O-O Re8 12. g3 Bh3 13. Re1 Nxd4 14. Qxd4 Be5
+15. Qh4 Bf5 16. Red1 Ne4 17. Qxd8 Raxd8 18. Rac1 Nxc3 19. Bxc3 Bxc3 20. Rxc3 {
+1/2-1/2 (33) Vignesh,N (2399)-Adhiban,B (2627) Pune 2015} *
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.15"]
+[Round "5.1"]
+[White "Gumularz, Szymon"]
+[Black "Piorun, Kacper"]
+[Result "1/2-1/2"]
+[ECO "C60"]
+[WhiteElo "2483"]
+[BlackElo "2657"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,61,45,26,27,32,32,40,43,65,57,70,68,82,70,68,52,65,33,17,35,29,17,47,
+46,65,57,71,16,66,11,32,11,17,0,0,0,0,0,-20,-30,0,0,0,0,20,16,37,10,52,0,30,0,
+12,0]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 ({Predecessor:} 3... a6 4. Ba4 Nge7 5. c3
+g6 6. d4 exd4 7. cxd4 b5 8. Bc2 {1-0 (51) Pichot,A (2528)-Bida,M (2394)
+Khanty-Mansiysk 2015}) 4. c3 a6 5. Ba4 Bg7 6. d4 {C70: Ruy Lopez: 3...a6 4 Ba4,
+Norwegian and Delayed Schliemann} exd4 7. cxd4 b5 8. Bc2 {White is slightly
+better.} Nge7 $146 (8... d6 9. d5 Na5 10. O-O Ne7 11. Bd2 Bxb2 12. Bxa5 Bxa1
+13. Nc3 {1-0 (24) Navara,D (2733)-Salgado Lopez,I (2624) Germany 2019}) 9. d5
+Na5 10. Bd2 c5 11. Bc3 O-O 12. Bxg7 Kxg7 13. b4 cxb4 14. Qd4+ Kg8 15. Qxb4 d6
+16. Nbd2 Nb7 17. O-O Bd7 18. Nb3 ({White should try} 18. Qd4 $16) 18... Rc8 19.
+Bd3 (19. Qd2 $14) 19... f5 20. Rae1 fxe4 21. Qxe4 Nf5 22. Qb4 Qf6 23. Rc1 a5
+24. Qf4 {[#] Hoping for Rxc8.} Rxc1 25. Rxc1 a4 26. Nbd4 Nc5 27. Bxf5 $1 ({
+Avoid the trap} 27. Bxb5 $2 Bxb5 28. Nxb5 Nd3 $19) 27... gxf5 28. Rb1 Ne4 29.
+Rc1 Nc5 30. Rb1 Ne4 31. Rc1 {Accuracy: White = 46%, Black = 76%.} 1/2-1/2
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.15"]
+[Round "5.2"]
+[White "Socko, Bartosz"]
+[Black "Gajewski, Grzegorz"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[WhiteElo "2627"]
+[BlackElo "2613"]
+[Annotator "TA"]
+[PlyCount "81"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,81,8,9,5,13,16,20,25,29,13,13,14,18,13,14,16,10,0,0,0,0,-14,-14,-22,
+-6,-7,4,5,11,11,42,42,42,42,42,42,42,42,42,42,42,42,42,0,0,0,0,0,29,20,29,29,
+29,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+
+5. Nbd2 O-O 6. Bg2 b6 7. O-O Bb7 8. b3 {E16: Queen's Indian: 4 g3 Bb7 5 Bg2
+Bb4+} (8. a3 Be7 9. cxd5 exd5 10. b4 a5 11. b5 c6 12. bxc6 Nxc6 13. Bb2 b5 14.
+e3 a4 15. Qb1 Qb6 16. Rc1 Rfc8 17. Ne5 h6 {1-0 (48) So,W (2780)-Vidit,S (2718)
+chess.com INT 2018}) 8... Nbd7 9. Bb2 Rc8 10. Rc1 Re8 11. Ne5 Nxe5 12. dxe5 Ne4
+$146 ({Predecessor:} 12... Nd7 13. Qc2 Bf8 14. Rfd1 c5 15. cxd5 exd5 {1-0 (31)
+Kantor,G (2479)-Livaic,L (2464) Rymanow Zdroj 2017}) 13. Nxe4 dxe4 14. a3 Qxd1
+15. Rcxd1 Be7 16. f4 Red8 17. e3 a5 18. Kf2 Rxd1 (18... h5 {feels hotter.} 19.
+h3 Kf8 20. g4 Bc5 21. Rg1 hxg4 22. hxg4 g6) 19. Rxd1 Rd8 20. Rxd8+ Bxd8 $11 {
+[%mdl 4096] Endgame KBB-KBB} 21. b4 c5 22. b5 h5 23. Bf1 Kh7 24. Be2 Kh6 25.
+Bc3 Be7 26. Kg2 Bd8 27. Kh3 Be7 28. g4 hxg4+ 29. Kxg4 Bc8 30. Bd1 Bd8 31. Bc2
+Bb7 32. Be1 Be7 33. Bh4 f5+ {The position is equal.} 34. exf6 gxf6 35. Kh3 Bd8
+36. Bd1 Be7 37. Bg3 Bd8 38. Kh4 Bc8 39. Kh3 Bb7 40. Bc2 Kg6 41. Bd1 {Accuracy:
+White = 63%, Black = 80%.} 1/2-1/2
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.15"]
+[Round "5.3"]
+[White "Bartel, Mateusz"]
+[Black "Dragun, Kamil"]
+[Result "1/2-1/2"]
+[ECO "E01"]
+[WhiteElo "2598"]
+[BlackElo "2591"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,61,20,17,16,17,14,21,16,10,2,15,14,11,23,21,14,10,20,17,18,11,11,27,
+37,76,82,77,71,69,38,33,20,15,16,20,25,32,7,60,23,52,0,56,30,27,26,49,0,0,0,0,
+0,0,0]} 1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 a6 (4... Bb4+ 5. Nd2 O-O 6. Ngf3
+dxc4 7. O-O b5 8. a4 c6 9. b3 c3 10. Nb1 Bb7 11. Qc2 c5 12. Nxc3 cxd4 13. Nxb5
+Nc6 14. Qc4 Qe7 15. Nbxd4 {1-0 (33) Caruana,F (2819)-Naiditsch,A (2695)
+Karlsruhe/Baden Baden 2019}) 5. Nd2 Be7 6. Ngf3 {E01: Catalan: Early deviations
+} O-O 7. O-O b6 8. cxd5 exd5 9. Qc2 Bb7 10. Ne5 c5 $146 ({Predecessor:} 10...
+Bd6 11. Ndc4 Be7 12. Ne3 Re8 13. Nf5 Bf8 14. Bf4 c5 15. Rfd1 Nbd7 16. Nc4 {
+0-1 (57) Bai,J (2556)-Peng,X (2410) Shenzhen 2017}) 11. dxc5 bxc5 12. Rd1 Nbd7
+13. Nxd7 Qxd7 {[#]} 14. Nc4 $1 {[%mdl 512] Hoping for Nb6.} Rad8 (14... dxc4
+15. Rxd7) 15. Bg5 Qe6 16. Ne3 Ng4 17. Bxe7 Nxe3 18. Qxc5 Nxd1 19. Bxd8 {
+[#] Strongly threatening Bh4.} Nxf2 20. Kxf2 {And now Qb6 would win.} Rxd8 21.
+Qd4 Rc8 22. Rd1 g6 23. Bf3 h5 ({Black should play} 23... Rc2 $11) 24. Qb4 (24.
+Qa7 $5 {[%cal Ra7b7]} Ba8 25. Kg1 $11) 24... Rc7 25. Rd4 (25. Rd3 $14) 25...
+Qf6 (25... Qh3 $11 26. Bg2 Qf5+ 27. Bf3 Qh3) 26. Rf4 Qe6 27. Qd4 Rc4 28. Qa7 {
+Black must now prevent Rxc4.} Rxf4 {The position is equal.} 29. gxf4 Bc8 $1 30.
+Qb8 Kh7 31. Qe5 {Accuracy: White = 68%, Black = 44%.} 1/2-1/2
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.15"]
+[Round "5.4"]
+[White "Janik, Igor"]
+[Black "Sadzikowski, Daniel"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2469"]
+[BlackElo "2522"]
+[Annotator "TA"]
+[PlyCount "196"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,195,10,16,24,13,11,11,0,0,1,8,0,0,-8,-3,-7,8,-34,-33,-70,-67,-58,-56,
+-97,-104,-200,-200,-187,-153,-183,-136,-240,-239,-229,-243,-235,-239,-245,-213,
+-229,-231,-763,-724,-831,-823,-892,-917,-951,-905,-884,-885,-793,-585,-581,
+-558,-580,-579,-564,-404,-394,-345,-343,-330,-302,-280,-287,-283,-469,-454,
+-434,-387,-365,-344,-354,-340,-347,-350,-523,-520,-513,-508,-452,-332,-278,
+-154,-143,-22,-22,-22,-139,-25,-135,-18,-166,-113,-113,-95,-95,-95,-100,-105,
+-107,-107,-102,-94,-141,-149,-149,-127,-151,-65,-94,-86,-85,-85,-134,0,-153,
+-45,-48,-12,-12,-12,-49,-50,-49,-48,-50,-8,-11,-14,-62,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0]} 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Bb4+ 5. Bd2 Bd6 (
+5... Be7 6. Bg2 O-O 7. O-O Nbd7 8. Qc2 c6 9. Rc1 b6 10. cxd5 cxd5 11. Qd1 Bb7
+12. a3 a6 13. Bf4 Rc8 14. Nbd2 Rxc1 15. Rxc1 Qa8 16. Ne5 Nxe5 17. Bxe5 {
+1/2-1/2 (41) Mamedyarov,S (2790)-Radjabov,T (2756) Shamkir 2019}) 6. Nc3 {
+E01: Catalan: Early deviations} O-O 7. Qc2 Nc6 8. Bg2 dxc4 9. O-O Be7 10. e3
+$146 ({Predecessor:} 10. Bf4 Nd5 11. Rad1 Nxf4 12. gxf4 Nb4 {1-0 (43) Salomon,
+J (2501)-Piorun,K (2631) Khanty-Mansiysk 2017}) 10... Nb4 11. Qb1 c5 12. dxc5
+Bxc5 13. Na4 Be7 $36 {[%mdl 2048] Black has the initiative.} 14. Rc1 b5 {
+aiming for ...Nd3.} 15. Bxb4 Bxb4 16. Nd4 Bd7 $1 17. Bxa8 (17. a3 $17 {is a
+better defense.} Bd2 18. Rd1 Bxe3 19. fxe3 bxa4 20. Bxa8 Qxa8 21. Qc2) 17...
+Qxa8 $19 18. a3 e5 {[%mdl 1024] Black has strong compensation.} 19. Nf5 g6 20.
+Nh4 (20. Nb6 $17 {might work better.} axb6 21. axb4) 20... Be7 21. Nc3 {[#]}
+Bh3 $1 {Threatens to win with ...g5.} 22. e4 ({Don't blunder} 22. Nxb5 $2 g5
+$19) 22... Bc5 23. Rd1 Ng4 24. Rd2 {[#]} f5 $1 {[%mdl 512]} 25. Qe1 $2 (25.
+exf5 g5 26. Qe4 gxh4 27. Qxa8 Rxa8 28. Ne4) 25... f4 26. Nd1 g5 27. Ng2 Qc6 28.
+Kh1 fxg3 29. hxg3 Qh6 {Strongly threatening ...Bxg2+.} 30. Qg1 Bxf2 31. Rxf2
+Nxf2+ 32. Nxf2 Be6+ 33. Nh4 gxh4 34. gxh4+ Kh8 35. Qg3 Qf6 36. Rg1 Qf3+ 37.
+Qxf3 Rxf3 {[%mdl 4096] Endgame KRB-KRN} 38. Kg2 $2 (38. Nd1) 38... Rb3 39. Rd1
+Kg7 40. Rd6 Kf6 41. Nd1 a5 42. Ra6 b4 43. Rxa5 (43. axb4 $142 axb4 44. Kf1)
+43... Bg4 44. Nf2 Bf3+ 45. Kg1 Rxb2 46. axb4 c3 (46... Rxb4 $19 47. Ra6+ Ke7)
+47. Ra3 $17 Rxb4 (47... Rc2 $17 {...Ke7 is the strong threat.} 48. b5 Rc1+ 49.
+Kh2 Be2) 48. Rxc3 $11 Bxe4 49. Kh2 (49. Nxe4+ $11 {was the only way to keep
+the balance.} Rxe4 50. Rc6+ Kf5 51. Rh6) 49... Kf5 (49... Bd5 $17 50. Kg3 h5)
+50. Rc7 (50. Nxe4 $11 {remains equal.} Rxe4 51. Kh3) 50... h5 ({Black should
+try} 50... Rb7 $17 51. Rc8 Bd5 52. Rf8+ Rf7) 51. Rf7+ (51. Nxe4 $11 Rxe4 52.
+Kh3) 51... Kg6 (51... Ke6 $19 52. Rg7 Rb2) 52. Rf8 $17 Bf5 53. Rg8+ Kf6 54.
+Rf8+ Ke6 55. Re8+ Kd5 56. Rd8+ Kc5 57. Rh8 Bg6 58. Rg8 {[#]} Rb6 $1 59. Kg3 Rd6
+(59... Bf7 $17 60. Rh8 Rb3+ 61. Kh2 Rb2) 60. Kf3 Kd4 61. Ra8 Rf6+ 62. Kg3 Rd6
+63. Kf3 $1 Kd5 (63... e4+ $17 64. Kf4 Rf6+ 65. Kg5 Rxf2 66. Kxg6 e3 67. Rd8+
+Ke5 68. Kxh5 e2 69. Re8+ Kf5) 64. Nh3 $15 Rf6+ (64... Ke6 $5 {[%cal Rd6d3]} 65.
+Ng5+ Kf6 $17) 65. Ke3 Rb6 66. Ra5+ Ke6 67. Ng5+ Kf6 68. Nf3 Rb3+ 69. Kf2 $1
+Rb2+ 70. Ke3 Rb3+ ({Black should play} 70... Rb4 $1 $15) 71. Kf2 $1 $11 {
+The position is equal.} e4 72. Ra6+ Kg7 73. Nd4 Rc3 74. Ne6+ Kg8 75. Ra8+ Kf7
+76. Ng5+ Ke7 77. Ra7+ Kd8 78. Ra8+ Kd7 79. Ra7+ Kd8 80. Ra8+ Kc7 81. Ra7+ Kd6 (
+81... Kb6 {feels hotter.} 82. Re7 Bf5 83. Re5 Bg4 84. Rxe4 Kc6) 82. Ra6+ Rc6
+83. Rxc6+ Kxc6 {KB-KN} 84. Ke3 Kd5 85. Nh3 {Black must now prevent Nf4+.} Ke5
+86. Nf4 Be8 87. Ne2 Bf7 88. Ng3 Bg6 89. Ne2 Kf5 {Hoping for ...Kg4.} 90. Ng3+ {
+[#]} Kg4 $1 91. Nxe4 Bxe4 92. Kxe4 Kxh4 {( -> ...Kg3). KP-K} 93. Kf3 Kh3 94.
+Kf2 h4 95. Kg1 Kg3 96. Kh1 h3 97. Kg1 h2+ 98. Kh1 Kh3 {Accuracy: White = 60%,
+Black = 54%.} 1/2-1/2
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.15"]
+[Round "5.5"]
+[White "Tomczak, Jacek"]
+[Black "Heberla, Bartlomiej"]
+[Result "1-0"]
+[ECO "B82"]
+[WhiteElo "2631"]
+[BlackElo "2556"]
+[Annotator "TA"]
+[PlyCount "45"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,85,24,26,27,14,19,2,0,10,35,8,18,16,29,0,0,2,30,-5,-4,-32,59,17,12,
+22,104,103,140,116,139,135,153,76,80,93,61,83,73,75,84,63,62,24,12,23,20,17,
+124,117,116,22,22,22,55,54,60,57,423,275,631,618,689,664,653,641,815,815,788,
+638,815,808,774,772,2035,1986]} 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5.
+Nc3 d6 6. f4 Nc6 7. Nb3 a6 {B82: Sicilian Scheveningen: 6 f4} 8. Qf3 Qc7 9. Bd3
+b5 {The position is equal.} 10. O-O Bb7 11. Bd2 Be7 12. Rae1 h5 (12... O-O 13.
+Qg3 b4 14. Nd1 {0-1 (42) Kevlishvili,R (2451)-Korobov,A (2698) St Petersburg
+2018}) 13. a4 b4 14. Nd1 {[%cal Bc3d1,Bd1e3,Be3c2][%mdl 32]} Na5 $146 ({
+Predecessor:} 14... d5 15. exd5 Nxd5 16. f5 Ne5 17. Qh3 Nxd3 18. cxd3 exf5 19.
+Qxf5 {0-1 (46) Villalba,M (2225)-Krysa,L (2474) Asuncion 2015}) 15. Ne3 Nxb3
+16. cxb3 Bc6 (16... d5 $15 17. exd5 O-O) 17. Nc2 d5 18. e5 Ng4 (18... Ne4 $1
+$11 {remains equal.} 19. Bc1 Bc5+ 20. Kh1 (20. Be3 Nd2 $17 {[%mdl 64] Double
+Attack}) 20... g6) 19. Kh1 $16 Qb6 {[#]} 20. a5 $1 $36 {[%mdl 2560] White is
+really pushing.} Qxa5 21. f5 {Strongly threatening fxe6.} Qb6 {[#]} 22. fxe6 (
+22. Qf4 $142 $1) 22... fxe6 {[#]} 23. Bg5 {Played: Qf3-f7} 1-0
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.16"]
+[Round "6.1"]
+[White "Piorun, Kacper"]
+[Black "Heberla, Bartlomiej"]
+[Result "1-0"]
+[ECO "A54"]
+[WhiteElo "2657"]
+[BlackElo "2556"]
+[Annotator "TA"]
+[PlyCount "119"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,119,17,18,23,13,28,12,113,118,125,104,106,114,117,106,120,104,92,88,
+97,24,74,73,93,98,142,142,142,145,122,123,131,142,131,145,91,18,18,18,28,28,28,
+28,30,0,0,0,0,0,22,18,86,80,166,141,156,162,191,193,197,205,197,191,184,190,
+186,142,142,141,143,143,147,141,189,156,203,203,225,224,283,264,304,304,542,
+535,512,483,958,934,1070,937,1538,1531,1544,1497,29977,1385,1308,1131,994,921]
+} 1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. g3 c6 6. Bg2 e4 7. Nd2 d5 8. cxd5
+cxd5 9. f3 exf3 10. Nxf3 Be7 11. O-O Nb6 {A54: Old Indian Defence with Nf3,
+but without e4} (11... O-O 12. Kh1 Nb6 13. Ne5 Be6 14. Qd3 Rc8 15. Bf4 Ne8 16.
+Rac1 a6 17. a4 f6 18. Nf3 g5 19. Be3 {0-1 (48) Bao,Q (2436)-Bauer,C (2628)
+Cappelle-la-Grande 2018}) 12. Qd3 O-O 13. a4 {[%cal Ba2a4,Ba4a5,Ba5a6,Ba6b7]
+[%mdl 32] Hoping for a5.} g6 $146 (13... h6 $11) ({Predecessor:} 13... Be6 14.
+Ne5 Rc8 15. Bf4 Nc4 16. Nxc4 Rxc4 17. b3 Rc8 18. Rfc1 Qa5 19. Qb5 {1/2-1/2 (37)
+Blohberger,F (2300)-Nelson,J (2183) Ortisei 2016}) 14. Ne5 $16 Be6 15. a5 $1 {
+[%cal Ra5b6]} Nbd7 16. a6 Nxe5 17. dxe5 Ng4 18. axb7 Qb6+ 19. Kh1 Rad8 20. Nxd5
+(20. h3 $16 Nxe5 21. Qe3 Qxe3 22. Bxe3) 20... Bxd5 21. Bxd5 Qf2 {[%cal Rf2f1]
+[%mdl 64] Double Attack} 22. Bg2 $1 {Strongly threatening Qxd8.} Qxf1+ {
+[%mdl 64] Remove Defender} 23. Bxf1 Nf2+ 24. Kg1 $1 Nxd3 25. exd3 {Threatens
+to win with Be3.} Bc5+ 26. Kh1 $1 Rd7 27. Bg2 $1 Rb8 28. Be4 ({White should try
+} 28. Bh6 $16) 28... Bd4 $11 29. Ra5 Rdxb7 30. Bxb7 Rxb7 {[%mdl 4096] Endgame
+KRB-KRB} 31. Kg2 Re7 32. Rd5 Bxe5 33. Bh6 {White wants to mate with Rd8+.} Bc7
+34. Kf3 f6 35. Be3 Be5 (35... a6 $11 {keeps the balance.}) 36. Bc5 $16 Rb7 (
+36... Rf7 $16 {is a better defense.}) 37. Rd8+ $18 Kf7 38. d4 Bc7 39. Rd7+ Ke6
+40. Re7+ $1 ({Not} 40. Rxh7 Rb3+ 41. Kg4 Bb6 $11) 40... Kd5 {[#]} 41. b4 $1 ({
+Weaker is} 41. Rxh7 Rb3+ 42. Kg4 Bb6 $14) 41... h5 42. b5 g5 43. Ke2 Kc4 {[#]}
+44. Bd6 $1 {[%mdl 576] Pin} Rxb5 (44... Bxd6 45. Rxb7) 45. Rxc7+ Kxd4 $16 {
+KRB-KR} 46. Ba3 ({Resist} 46. Rxa7 $6 Rb2+ 47. Ke1 Rxh2 $14) 46... Ra5 47. Bc1
+Ra2+ {[#]} 48. Bd2 $1 Ke4 49. Rh7 Ra1 50. Rxh5 Rh1 51. Rh6 Kf5 $2 (51... a6 52.
+Bc3 f5) 52. Bc3 $18 Kg4 53. Bxf6 a5 (53... Rc1 $142 54. Ke3 Rc2) 54. Kf2 a4 55.
+Be7 Rb1 56. h3+ Kf5 57. g4+ Kf4 58. Rf6+ (58. Re6 $142 Rb2+ 59. Re2 Rxe2+ 60.
+Kxe2 Ke4 61. Bxg5 Ke5 62. Bc1 Ke6 63. h4) 58... Ke4 59. Re6+ {[%mdl 64]
+Discovered Attack} Kd5 60. Re3 {Accuracy: White = 75%, Black = 50%.} 1-0
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.16"]
+[Round "6.2"]
+[White "Sadzikowski, Daniel"]
+[Black "Tomczak, Jacek"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2522"]
+[BlackElo "2631"]
+[Annotator "TA"]
+[PlyCount "67"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,67,22,34,34,35,35,34,36,52,55,71,70,75,52,49,43,43,43,42,43,33,41,30,
+35,52,54,50,25,24,22,33,0,2,8,11,0,0,0,0,0,13,14,14,14,14,14,14,17,22,23,24,24,
+24,24,28,23,28,28,31,0]} 1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. d3 Nf6 6.
+Nd2 {B30: Sicilian: 2...Nc6 3 Bb5, lines without ...g6} (6. Ng5 O-O 7. f4 exf4
+8. Bxf4 d5 9. exd5 Nd4 10. Nge4 b5 11. d6 Nxe4 12. dxe7 Qxe7 13. Nxe4 bxc4 14.
+O-O cxd3 15. cxd3 {1/2-1/2 (23) Navara,D (2745)-Radjabov,T (2748) Shamkir 2018}
+) 6... O-O 7. Nf1 Ne8 8. Ne3 Kh8 $146 ({Predecessor:} 8... Bg5 9. O-O d6 10.
+Ned5 Bxc1 11. Rxc1 Be6 12. a3 a6 13. a4 Rb8 14. Ne3 Nc7 15. Ncd5 Bxd5 16. Bxd5
+{1/2-1/2 (16) Fogarasi,T (2420)-Vaulin,A (2492) Budapest 1999}) 9. O-O Nd6 10.
+Ned5 Bg5 11. Bxg5 Qxg5 12. Qc1 Qxc1 13. Raxc1 Nd4 14. a4 Nxc4 15. dxc4 d6 16.
+Rfe1 Rd8 17. Nb5 Be6 18. Ndc7 Rac8 19. Nxe6 fxe6 20. Nxa7 Ra8 21. Nb5 Rxa4 22.
+Ra1 Rxa1 23. Rxa1 {Strongly threatening Nxd6!} Nxb5 24. cxb5 $11 {[%mdl 4096]
+Endgame KR-KR} Kg8 25. Kf1 Kf7 26. Ra7 Rb8 27. c4 Ke7 28. Ke2 Kd7 29. Ra3 Rg8
+30. Rh3 h6 31. Rf3 {And now Rf7+ would win.} Ke7 32. Ra3 Kd7 33. Rg3 Ke7 34.
+Ra3 {Accuracy: White = 62%, Black = 70%.} 1/2-1/2
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.16"]
+[Round "6.3"]
+[White "Dragun, Kamil"]
+[Black "Janik, Igor"]
+[Result "1-0"]
+[ECO "A05"]
+[WhiteElo "2591"]
+[BlackElo "2469"]
+[Annotator "TA"]
+[PlyCount "105"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,105,16,6,8,11,-13,0,0,1,-34,-34,-30,-31,-29,-24,-21,-27,-30,-16,-29,
+-14,-14,-18,-23,-9,-9,-9,-22,-9,-26,-10,-12,-10,-35,0,0,14,0,0,0,2,8,64,62,153,
+151,156,168,154,140,189,189,178,187,195,178,175,163,341,154,254,210,238,239,
+247,247,234,270,244,195,262,277,901,903,1031,1020,993,995,1536,1522,1518,1459,
+1297,1207,1472,1434]} 1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d4 d5 6.
+Nbd2 c6 7. b3 a5 8. c4 Ne4 9. Bb2 Bf5 10. Nh4 Nxd2 11. Qxd2 Be6 12. f4 {
+D78: Fianchetto GrÃ¼nfeld: 6 0-0 c6} Nd7 {[%cal Bb8d7,Bd7f6,Bf6e8,Be8d6,Bd6f5]
+[%mdl 32]} 13. c5 (13. f5 gxf5 14. Nxf5 Bxf5 15. Rxf5 e6 16. Rff1 f5 17. cxd5
+cxd5 18. Rac1 Nf6 19. Bf3 a4 {0-1 (39) Wang,H (2730)-Dubov,D (2703) St
+Petersburg 2018}) 13... b6 $146 ({Predecessor:} 13... f5 14. Nf3 Nf6 15. Ne5
+Ne4 16. Qc2 Bf6 17. Bc1 Kg7 18. Be3 h5 19. Bxe4 fxe4 20. h4 Bh3 21. Rfb1 Bxe5
+22. dxe5 Kh7 23. b4 axb4 24. Rxb4 Ra3 25. Rb3 Qa8 26. Qb2 {1/2-1/2 (26) Kaster,
+M (2154)-Antonsen,M (2438) Helsingor 2009}) 14. cxb6 {The position is equal.}
+Qxb6 15. e3 a4 16. b4 a3 17. Bc3 Nf6 18. Qc2 Ne8 19. Rfc1 Nd6 20. Bf1 Bf6 21.
+Nf3 Bf5 22. Bd3 Rfc8 23. Bxf5 Nxf5 24. Qe2 Nd6 25. Rab1 e6 26. Rb3 h5 27. Be1
+Nb5 28. Ne5 Rc7 29. Qd3 Kg7 30. Kg2 Rh8 31. h3 g5 ({Black should try} 31... Qb7
+$11) 32. Rc5 Be7 {[#]} (32... Nd6 $14) 33. fxg5 $1 $16 {[%mdl 512]} Bxg5 {[#]}
+34. Nxc6 $1 {[%mdl 512]} Nd6 (34... Rxc6 35. Rxb5) 35. Ne5 Ne4 36. Rxa3 {
+[%cal Bb3a3,Ba3a6,Ba6c6][%mdl 32]} Bf6 {...Bxe5 is the strong threat.} 37. Ra6
+Qb7 {And now ...Bxe5 would win.} 38. Rxc7 Qxc7 39. Rc6 Qe7 $2 (39... Qa7) 40.
+Nf3 (40. a4 $18 {is the precise move to win.}) 40... Rg8 (40... Ra8 $16) 41.
+Qc2 Kh6 {[#]} 42. Rc8 $1 {[%cal Rc8g8]} Rxc8 43. Qxc8 Qa7 {[#]} 44. Qc2 $1 Qa3
+45. b5 Bd8 (45... Nd6 $142 46. Qb1 Kg7) 46. Ne5 $18 Qxe3 $2 (46... Ba5) 47. Bf2
+{White is clearly winning.} Nxf2 48. Qxf2 Qe4+ 49. Kh2 Be7 50. Qf4+ Qxf4 51.
+gxf4 f6 52. Nd7 Bd6 53. Kg3 {Accuracy: White = 73%, Black = 39%.} 1-0
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.16"]
+[Round "6.4"]
+[White "Gajewski, Grzegorz"]
+[Black "Bartel, Mateusz"]
+[Result "1-0"]
+[ECO "D10"]
+[WhiteElo "2613"]
+[BlackElo "2598"]
+[Annotator "TA"]
+[PlyCount "87"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,99,14,6,12,25,25,26,29,29,19,31,19,21,28,29,29,22,22,20,0,37,28,40,46,
+37,26,36,40,71,-157,66,26,33,30,64,63,158,164,143,147,136,141,161,145,206,208,
+194,141,212,202,232,239,238,230,276,276,281,279,274,278,277,281,279,279,445,
+422,435,411,393,345,329,320,427,450,659,659,659,659,659,659,659,659,1127,1127,
+1120,1090,1090,1090,1090,1081,29979,29977]} 1. d4 d5 2. c4 c6 3. Nc3 dxc4 4. e3
+b5 5. a4 b4 6. Ne4 {D10: Slav Defence: 3 cxd5 (without early Nf3) and 3 Nc3}
+Qd5 7. Nd2 c3 8. bxc3 {White has an edge.} bxc3 9. Nb1 Qa5 {Hoping for ...c2+.}
+10. Qc2 Na6 11. Qxc3 Nb4 {aiming for ...Nc2+.} (11... Qxc3+ 12. Nxc3 Nb4 13.
+Rb1 a5 {1-0 (79) Wojtaszek,R (2750)-Bartel,M (2604) Warsaw 2018}) 12. Bd2 e6
+13. Nf3 $36 {[%mdl 2048] White has the initiative.} Nf6 14. Bc4 $146 Bd6 15.
+Qb3 O-O 16. O-O Rb8 17. Rc1 Qh5 18. Na3 Ne4 19. Be1 $2 {[#]} (19. Bxb4 $1 $16 {
+is forced if you want to stay better. And now Qc2 would win.} Bxb4 20. Qc2)
+19... a5 $2 ({Better is} 19... Ng5 $1 $17 {[%cal Rg5f3]} 20. Nxg5 Qxg5) 20. Qd1
+Rd8 21. Be2 Qd5 22. Nc4 Bf8 (22... Bc7 $14) 23. Nfe5 $16 Ba6 {[#]} 24. Nxa5 $1
+{[%mdl 576] Black must now prevent Bxb4. Decoy} Qxa5 25. Nxc6 {[%mdl 64]
+Double Attack} Bxe2 26. Qxe2 Nxc6 (26... Qa8 $16 {was necessary.} 27. Nxd8 Rxd8
+) 27. Bxa5 $18 Nxa5 28. Qc2 Nd6 (28... Nf6 $16) 29. Rab1 Ndc4 30. g3 Rbc8 31.
+Rb5 Ra8 {intending ...Na3.} 32. Qd3 Rdc8 33. Kg2 Rc6 34. e4 Nb2 35. Qd2 ({
+Weaker is} 35. Rxb2 Rxc1 36. Rc2 Rxc2 $16) 35... Nbc4 36. Qe2 Ne5 (36... g6
+$142 37. d5 exd5 38. exd5 Rcc8) 37. Rxc6 Nexc6 38. Qd3 g6 39. d5 exd5 40. Qxd5
+({Don't do} 40. exd5 Ne5 $18) 40... Ra6 41. e5 Kg7 (41... Ne7 $142) 42. e6 fxe6
+43. Qxe6 Ra7 {[#]} 44. Qd5 {Played: Rb5xa5} 1-0
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.16"]
+[Round "6.5"]
+[White "Gumularz, Szymon"]
+[Black "Socko, Bartosz"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2483"]
+[BlackElo "2627"]
+[Annotator "ChessBase"]
+[PlyCount "215"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} Nf6 {
+[%emt 0:00:00]} 3. Nxe5 {[%emt 0:00:50]} d6 {[%emt 0:00:00]} 4. Nf3 {[%emt 0:
+00:07]} Nxe4 {[%emt 0:00:00]} 5. d4 {[%emt 0:01:28]} d5 {[%emt 0:00:05]} 6. Bd3
+{[%emt 0:00:06]} Nc6 {[%emt 0:00:23]} 7. O-O {[%emt 0:00:14]} Be7 {[%emt 0:00:
+05]} 8. Nbd2 {[%emt 0:00:25]} Nxd2 {[%emt 0:01:26]} 9. Bxd2 {[%emt 0:00:13]}
+Bg4 {[%emt 0:00:47]} 10. c3 {[%emt 0:00:11]} O-O {[%emt 0:02:47]} 11. h3 {
+[%emt 0:00:34]} Bh5 {[%emt 0:03:44]} 12. g3 {[%emt 0:03:29]} Qd7 {[%emt 0:14:
+23]} 13. Kg2 {[%emt 0:00:18]} Bg6 {[%emt 0:00:11]} 14. Bxg6 {[%emt 0:04:04]}
+fxg6 {[%emt 0:02:07]} 15. Qe2 {[%emt 0:06:17]} Rae8 {[%emt 0:03:36]} 16. Rae1 {
+[%emt 0:07:27]} Bd6 {[%emt 0:04:33]} 17. Qd3 {[%emt 0:05:30]} Qf5 {[%emt 0:00:
+27]} 18. Qxf5 {[%emt 0:02:35]} gxf5 {[%emt 0:00:19]} 19. g4 {[%emt 0:09:47]}
+Nd8 {[%emt 0:21:14]} 20. Nh4 {[%emt 0:14:48]} fxg4 {[%emt 0:04:26]} 21. hxg4 {
+[%emt 0:00:10]} Nf7 {[%emt 0:14:33]} 22. f4 {[%emt 0:21:48]} c6 {[%emt 0:02:50]
+} 23. f5 {[%emt 0:04:46]} Be7 {[%emt 0:02:25]} 24. Nf3 {[%emt 0:01:26]} Nd6 {
+[%emt 0:00:06]} 25. Ne5 {[%emt 0:05:57]} Ne4 {[%emt 0:01:37]} 26. Bf4 {[%emt 0:
+00:30]} Bh4 {[%emt 0:03:07]} 27. Re2 {[%emt 0:00:55]} Bf6 {[%emt 0:00:23]} 28.
+Rfe1 {[%emt 0:06:02]} a6 {[%emt 0:05:04]} 29. Nd7 {[%emt 0:02:01]} Rf7 {
+[%emt 0:00:25]} 30. Nc5 {[%emt 0:00:29]} Rfe7 {[%emt 0:06:02]} 31. Nxe4 {
+[%emt 0:00:40]} Rxe4 {[%emt 0:00:08]} 32. Rxe4 {[%emt 0:00:03]} dxe4 {[%emt 0:
+00:20]} 33. Be5 {[%emt 0:01:10]} Kf7 {[%emt 0:02:37]} 34. Rxe4 {[%emt 0:00:09]}
+h5 {[%emt 0:00:06]} 35. gxh5 {[%emt 0:00:58]} Rh8 {[%emt 0:00:01]} 36. Bxf6 {
+[%emt 0:00:54]} Kxf6 {[%emt 0:00:07]} 37. Re6+ {[%emt 0:00:26]} Kf7 {[%emt 0:
+02:17]} 38. Rd6 {[%emt 0:00:39]} Ke7 {[%emt 0:00:02]} 39. Rg6 {[%emt 0:00:08]}
+Kf7 {[%emt 0:00:02]} 40. Rg5 {[%emt 0:00:00]} Kf6 {[%emt 0:00:00]} 41. Rg6+ {
+[%emt 0:03:10]} Kf7 {[%emt 0:00:32]} 42. Rd6 {[%emt 0:13:22]} Ke7 {[%emt 0:03:
+53]} 43. Re6+ {[%emt 0:00:27]} Kf7 {[%emt 0:03:34]} 44. d5 {[%emt 0:03:44]}
+cxd5 {[%emt 0:12:45]} 45. Rb6 {[%emt 0:00:35]} Rxh5 {[%emt 0:00:06]} 46. Rxb7+
+{[%emt 0:00:09]} Kf6 {[%emt 0:00:04]} 47. Rb6+ {[%emt 0:00:51]} Kxf5 {[%emt 0:
+00:07]} 48. Rxa6 {[%emt 0:00:06]} Rh8 {[%emt 0:01:31]} 49. Rb6 {[%emt 0:09:05]}
+Ra8 {[%emt 0:02:42]} 50. a3 {[%emt 0:00:05]} Ke4 {[%emt 0:00:06]} 51. Rb4+ {
+[%emt 0:00:32]} Kd3 {[%emt 0:00:54]} 52. Kf3 {[%emt 0:00:10]} Rf8+ {[%emt 0:02:
+47]} 53. Kg4 {[%emt 0:00:17]} Re8 {[%emt 0:00:14]} 54. Kf5 {[%emt 0:02:13]} Re4
+{[%emt 0:00:02]} 55. Rb7 {[%emt 0:01:02]} Kc2 {[%emt 0:01:37]} 56. Rb5 {
+[%emt 0:00:42]} Re1 {[%emt 0:05:36]} 57. a4 {[%emt 0:00:34]} Rf1+ {[%emt 0:00:
+33]} 58. Ke5 {[%emt 0:00:42]} g5 {[%emt 0:00:02]} 59. Kxd5 {[%emt 0:01:27]} g4
+{[%emt 0:00:08]} 60. Rb4 {[%emt 0:00:43]} Rf5+ {[%emt 0:01:08]} 61. Ke6 {
+[%emt 0:01:57]} Rg5 {[%emt 0:00:38]} 62. Kf6 {[%emt 0:00:05]} Rg8 {[%emt 0:00:
+14]} 63. Kf7 {[%emt 0:00:05]} Rg5 {[%emt 0:00:05]} 64. Kf6 {[%emt 0:00:04]} Rg8
+{[%emt 0:00:04]} 65. Kf7 {[%emt 0:00:02]} Rg5 {[%emt 0:00:06]} 66. Rb5 {
+[%emt 0:01:01]} Rxb5 {[%emt 0:00:50]} 67. axb5 {[%emt 0:00:02]} g3 {[%emt 0:00:
+09]} 68. b6 {[%emt 0:00:02]} g2 {[%emt 0:00:05]} 69. b7 {[%emt 0:00:02]} g1=Q {
+[%emt 0:00:05]} 70. b8=Q {[%emt 0:00:05]} Qf2+ {[%emt 0:00:30]} 71. Ke6 {
+[%emt 0:00:12]} Qe2+ {[%emt 0:00:46]} 72. Qe5 {[%emt 0:00:54]} Qc4+ {[%emt 0:
+01:16]} 73. Qd5 {[%emt 0:00:15]} Qc8+ {[%emt 0:01:00]} 74. Ke5 {[%emt 0:00:34]}
+Qb8+ {[%emt 0:01:27]} 75. Ke4 {[%emt 0:00:48]} Qe8+ {[%emt 0:00:50]} 76. Kd4 {
+[%emt 0:00:15]} Qh8+ {[%emt 0:00:36]} 77. Qe5 {[%emt 0:00:05]} Qd8+ {[%emt 0:
+00:12]} 78. Qd5 {[%emt 0:01:48]} Qf6+ {[%emt 0:01:05]} 79. Kc5 {[%emt 0:00:17]}
+Kxb2 {[%emt 0:01:53]} 80. c4 {[%emt 0:00:17]} Kc3 {[%emt 0:01:05]} 81. Kb5 {
+[%emt 0:00:13]} Qf4 {[%emt 0:00:06]} 82. c5 {[%emt 0:00:48]} Qb8+ {[%emt 0:00:
+02]} 83. Ka6 {[%emt 0:00:12]} Qc8+ {[%emt 0:00:12]} 84. Kb6 {[%emt 0:00:07]}
+Qb8+ {[%emt 0:00:26]} 85. Qb7 {[%emt 0:00:07]} Qd8+ {[%emt 0:00:05]} 86. Qc7 {
+[%emt 0:00:13]} Qd4 {[%emt 0:00:16]} 87. Qd6 {[%emt 0:00:45]} Qf2 {[%emt 0:00:
+37]} 88. Qd5 {[%emt 0:01:04]} Kb4 {[%emt 0:00:33]} 89. Qe4+ {[%emt 0:00:33]}
+Ka3 {[%emt 0:00:12]} 90. Kb5 {[%emt 0:01:06]} Qf1+ {[%emt 0:02:06]} 91. Qc4 {
+[%emt 0:00:13]} Qf5 {[%emt 0:01:43]} 92. Kb6 {[%emt 0:00:25]} Qf8 {[%emt 0:00:
+46]} 93. Qd3+ {[%emt 0:00:21]} Kb4 {[%emt 0:00:22]} 94. Qd4+ {[%emt 0:00:18]}
+Kb3 {[%emt 0:00:16]} 95. c6 {[%emt 0:01:44]} Qb8+ {[%emt 0:00:05]} 96. Ka6 {
+[%emt 0:00:11]} Qc8+ {[%emt 0:00:22]} 97. Kb5 {[%emt 0:00:10]} Qe8 {[%emt 0:00:
+23]} 98. Qd7 {[%emt 0:01:23]} Qe5+ {[%emt 0:00:19]} 99. Ka6 {[%emt 0:00:22]}
+Qe2+ {[%emt 0:00:32]} 100. Ka7 {[%emt 0:00:13]} Qe3+ {[%emt 0:00:25]} 101. Kb8
+{[%emt 0:00:41]} Qf4+ {[%emt 0:00:20]} 102. c7 {[%emt 0:01:11]} Qb4+ {[%emt 0:
+00:11]} 103. Ka7 {[%emt 0:00:34]} Qa5+ {[%emt 0:02:07]} 104. Kb7 {[%emt 0:00:
+06]} Qb4+ {[%emt 0:00:03]} 105. Ka6 {[%emt 0:00:07]} Qa3+ {[%emt 0:00:17]} 106.
+Kb6 {[%emt 0:00:04]} Ka2 {[%emt 0:01:32]} 107. Qd5+ {[%emt 0:00:22]} Ka1 {
+[%emt 0:00:09]} 108. Qa5 {[%emt 0:00:06]} 1-0
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.17"]
+[Round "7.1"]
+[White "Socko, Bartosz"]
+[Black "Piorun, Kacper"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2627"]
+[BlackElo "2657"]
+[Annotator "TA"]
+[PlyCount "70"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,70,-6,7,0,0,0,0,0,0,0,3,10,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4,
+0,-4,0,-29,-33,-38,-26,-6,-25,-22,-16,-23,-21,-8,0,0,0,-23,0,0,0]} 1. e4 e5 2.
+Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Nxe4 8. Bxb4 Nxb4
+9. Bxf7+ Kxf7 10. Qb3+ d5 11. Ne5+ {C54: Giuoco Piano: 4 c3 Nf6, main lines
+with 5 d4 and 5 d3} Ke6 {aiming for ...Nc6.} 12. Qxb4 Qf8 13. Qxf8 Rxf8 14. f3
+Nf6 (14... Ng5 15. Nc3 c6 16. h4 Nf7 17. Nd3 Kd6 18. Kf2 Nd8 {1/2-1/2 (55) Hou,
+Y (2673)-Aronian,L (2797) Wijk aan Zee 2015}) 15. Nc3 c6 16. O-O Kd6 17. g4
+$146 ({Predecessor:} 17. Rfe1 Bd7 18. Re3 Rae8 {0-1 (55) Vucinic,G (2377)
+-Jovanovic,B (2295) Belgrade 2014}) 17... b6 18. Rfe1 Nd7 19. Kg2 Nxe5 20. Rxe5
+Rf4 21. Ne2 Rf7 22. Re1 Bd7 23. Kg3 Raf8 24. f4 g6 25. b4 Ra8 26. Nc3 Raf8 27.
+Rf1 {[#]} h5 $1 {[%mdl 512]} 28. b5 {[#]} (28. gxh5 gxh5) 28... h4+ $1 {
+[%mdl 512]} 29. Kxh4 {Hoping for bxc6.} Rxf4 30. Rxf4 Rxf4 $11 {KRB-KRN} 31.
+Rg5 Rxd4 {...c5 is the strong threat.} 32. Rxg6+ Kc5 33. Rg7 Kd6 {And now ...
+c5 would win.} 34. Rg6+ Kc5 35. Rg7 Kd6 {Accuracy: White = 82%, Black = 90%.}
+1/2-1/2
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.17"]
+[Round "7.2"]
+[White "Bartel, Mateusz"]
+[Black "Gumularz, Szymon"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2598"]
+[BlackElo "2483"]
+[Annotator "TA"]
+[PlyCount "55"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,55,13,12,0,17,10,25,-42,-20,-27,-27,-38,-13,-47,-42,-110,-122,-116,
+-126,-118,-115,-146,-138,-136,-133,-121,-140,-148,-107,-103,-68,-77,-43,-39,
+-48,-42,-40,-47,0,0,45,52,371,359,501,510,507,469]} 1. e4 c6 2. d4 d5 3. e5 Bf5
+4. Nf3 e6 5. c3 c5 6. Qb3 {B12: Caro-Kann: Advance Variation} (6. Be3 cxd4 7.
+Nxd4 Ne7 8. Nd2 Nbc6 9. f4 Nxd4 10. cxd4 Nc6 11. Be2 Qb6 12. g4 Bg6 13. O-O h6
+14. f5 {1-0 (42) Kharlov,A (2656)-Galliamova,A (2547) Kazan 2001}) 6... Qb6 7.
+Na3 $146 ({Predecessor:} 7. Qxb6 axb6 8. Na3 Ne7 9. Nb5 Kd7 10. Nd6 Kc7 11.
+Nxf7 Rg8 12. Nd6 h6 13. Be3 c4 {1-0 (22) Hakuc,W-Sadler,C IECC email 2000})
+7... Nc6 8. dxc5 (8. Qxb6 $11 axb6 9. Nb5) 8... Bxc5 $15 9. Qxb6 Bxb6 10. Nb5
+$1 Bg4 11. a4 Kd7 12. Nd6 ({White should play} 12. Nfd4 $15) 12... Bxf3 $1 $17
+13. gxf3 Nxe5 14. Nxb7 a5 15. b4 axb4 ({Don't do} 15... Nxf3+ 16. Ke2 $17) 16.
+cxb4 Nxf3+ 17. Kd1 Nf6 18. Ra3 Ne5 {White must now prevent ...Nfg4.} 19. Bb5+
+Kc7 20. Na5 Ne4 ({And not} 20... Bxf2 21. Bf4 $16) 21. Bf4 f6 22. Ke2 $1 Bxa5 (
+{Not} 22... Bxf2 23. Rc1+ Kb8 24. Rf3 $16) 23. bxa5 Rxa5 24. Rc1+ $1 Kb7 25.
+Rb3 {aiming for Be8+.} Nd6 $2 {[%mdl 8192]} (25... Ka8 $14) 26. Bd7+ $1 $18 {
+[%mdl 64] Discovered Attack} Ka8 {[#]} 27. Bxe5 $1 fxe5 {[#]} 28. Rc7 $1 {
+Accuracy: White = 53%, Black = 65%.} 1-0
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.17"]
+[Round "7.3"]
+[White "Janik, Igor"]
+[Black "Gajewski, Grzegorz"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[WhiteElo "2469"]
+[BlackElo "2613"]
+[Annotator "TA"]
+[PlyCount "121"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,121,7,11,10,20,13,31,27,24,22,29,35,12,-8,43,14,23,23,27,10,11,-13,8,
+7,12,18,24,-9,14,-16,37,-3,25,16,50,39,46,27,66,29,36,0,0,0,26,35,25,0,17,0,16,
+12,60,0,0,0,0,0,255,265,287,258,279,232,604,602,587,520,476,267,267,256,303,
+323,314,273,313,210,272,122,133,136,135,129,254,295,271,127,340,333,455,452,
+452,437,400,368,192,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3.
+Nf3 d5 4. g3 Bb4+ 5. Nbd2 a5 6. Bg2 {E01: Catalan: Early deviations} O-O 7. O-O
+a4 8. Qc2 {White is slightly better.} Nc6 9. a3 Be7 10. Rd1 Bd7 11. e4 h6 $146
+(11... dxe4 $11 12. Nxe4 Nxe4 13. Qxe4 Na5) ({Predecessor:} 11... Qc8 12. e5
+Ne8 13. Nf1 dxc4 14. Bg5 {0-1 (28) Wells,P (2428)-Short,N (2675) Bunratty 2017}
+) 12. e5 Nh7 13. cxd5 exd5 14. b4 axb3 $1 15. Qxb3 Nb4 16. Qc3 Ba4 17. Rf1 Nc6
+18. h4 Na5 19. Nh2 c6 ({Black should play} 19... Re8 $11) 20. f4 f5 21. Re1 b5
+22. Nhf1 h5 23. Ne3 Qb6 24. Rb1 g6 25. Ndf1 Qd8 26. Bh3 Qd7 27. Qd3 Nc4 28. Re2
+Qe6 29. Ra2 Rad8 30. Bd2 c5 31. Bc3 (31. Nd1 $14) 31... Nxa3 $11 {aiming for ..
+.c4.} 32. Rba1 $1 b4 33. dxc5 d4 $2 {[%mdl 8192]} (33... Bb5 $11 {and Black
+stays safe.} 34. Qd4 bxc3 35. Rxa3 Nf6) 34. Bxb4 $18 dxe3 35. Qxa3 Bb3 36. Re2
+({But not} 36. Nxe3 $6 Rd3 $18) 36... Ra8 $2 (36... Bc4) 37. Qxa8 Rxa8 38.
+Rxa8+ Nf8 {White must now prevent ...Qc4.} 39. Rxe3 (39. Nxe3 $142 Bd5 40. Ra7)
+39... Bd5 40. Rb8 Bc6 {Threatening ...Qd5.} 41. Bg2 $1 Bxg2 42. Kxg2 Kf7 43.
+Kf2 Qa2+ 44. Re2 (44. Nd2 $18 {and White stays clearly on top.}) 44... Qa7 $16
+45. Rb6 Ne6 46. Ne3 Bxc5 (46... Nxc5 $16 {is a better defense.} 47. Bxc5 Bxc5)
+47. Bxc5 $18 Nxc5 48. Nd5 (48. Rc6 $1 $18 {and the rest is easy.}) 48... Ne4+
+$2 {[#]} (48... Kg7 $16 {was called for.}) 49. Rxe4 $1 {Threatening mate with
+e6+.} fxe4 {[%mdl 4096] Endgame [#] KQ-KRN} 50. e6+ $1 (50. Ke3 Qa3+ 51. Kxe4
+Qa4+ 52. Ke3 Qa3+ 53. Ke4 Qa4+ 54. Kd3 Qa3+ 55. Kd4 Qa1+ 56. Kc5 Qa3+ 57. Kd4
+Qa4+ 58. Ke3 Qa3+ 59. Kd4 $16) 50... Kg7 {Threatens to win with ...Qa2+.} 51.
+Ke3 Qa4 52. Rb7+ Kh6 53. Rb4 $2 (53. e7 $18 Qc4 54. Nb4 (54. e8=Q Qd3+ 55. Kf2
+Qd2+ 56. Kg1 Qe1+ 57. Kh2 Qe2+ 58. Kh3 Qg4+ 59. Kh2 Qe2+ 60. Kh1 Qf1+ 61. Kh2
+Qe2+ $11)) 53... Qc6 $11 {The position is equal.} 54. e7 Qxd5 55. Rxe4 {KQ-KR}
+Qc5+ 56. Kf3 Qa3+ 57. Kf2 Qa2+ 58. Re2 Qa7+ 59. Kf1 Qa1+ 60. Re1 Qa8 {And now .
+..Qf3+ would win.} 61. e8=Q {Accuracy: White = 48%, Black = 42%.} 1/2-1/2
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.17"]
+[Round "7.4"]
+[White "Tomczak, Jacek"]
+[Black "Dragun, Kamil"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[WhiteElo "2631"]
+[BlackElo "2591"]
+[Annotator "TA"]
+[PlyCount "59"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,59,2,15,13,16,0,16,0,0,0,6,0,11,0,0,0,31,10,22,0,0,0,3,-2,0,0,0,-17,
+-13,-13,-13,-13,-13,-12,-12,-11,-12,-34,-17,-35,0,-37,0,-35,0,-39]} 1. e4 c6 2.
+Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. d4 Bd6 7. Bd3 O-O 8. O-O Re8 9.
+c3 {B15: Caro-Kann: 3 Nc3: 3...g6 and 3...dxe4 4 Nxe4 Nf6 5 Nxf6+ exf6} (9. Nh4
+g6 10. Bh6 c5 11. dxc5 Bxc5 12. Re1 Be6 13. Be3 Bxe3 14. Rxe3 Nc6 15. Be4 Ne5
+16. Qxd8 Raxd8 {1/2-1/2 (59) Antipov,M (2580)-Yu,Y (2738) Caleta 2017}) 9...
+Nd7 {[%cal Bb8d7,Bd7f8,Bf8e6][%mdl 32]} 10. Qc2 Nf8 11. Bf5 Qa5 $146 ({
+Predecessor:} 11... Bxf5 12. Qxf5 Re2 13. Qd3 Re7 14. b4 Qd7 15. a4 a6 16. Be3
+Ng6 {1/2-1/2 (27) Ucekajova,V (1883)-Machovcakova,E (1596) Liptovsky Mikulas
+2019}) 12. Bxc8 Raxc8 13. Bd2 Ne6 14. Rfe1 Qh5 15. h3 g5 16. Qb3 b6 17. d5 cxd5
+18. Qxd5 Red8 {[#] Hoping for ...Bh2+!} 19. Qf5 Qg6 20. Qxg6+ hxg6 21. Be3 Bc5
+22. Bxc5 Rxc5 23. Rad1 {[#] Strongly threatening Rxd8+.} Rcd5 24. Rxd5 Rxd5 $11
+{[%mdl 4096] Endgame KRN-KRN} 25. g3 Kg7 26. Re2 Rd1+ 27. Re1 Rd5 28. Re2 Rd1+
+29. Re1 Rd5 30. Re2 {Accuracy: White = 55%, Black = 45%.} 1/2-1/2
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.17"]
+[Round "7.5"]
+[White "Heberla, Bartlomiej"]
+[Black "Sadzikowski, Daniel"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2556"]
+[BlackElo "2522"]
+[Annotator "TA"]
+[PlyCount "99"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,99,0,0,0,0,0,-21,-18,-31,-20,-48,-48,-37,-53,-44,-15,-31,-19,0,0,-13,
+0,-4,15,0,0,0,66,45,62,39,58,72,107,0,0,-54,0,0,0,0,0,0,0,0,0,-54,-39,-45,-32,
+-112,-110,-109,-47,-29,0,0,0,0,0,0,123,103,221,197,216,216,284,293,378,382,387,
+380,616,577,999,967,2228,1968,1574,531,514,518,453,504,1224,1224,1224,785]} 1.
+e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Na3 cxd4 7. cxd4 Bb4+ {C02:
+French: Advance Variation} 8. Bd2 Nge7 ({Don't go for} 8... Nxd4 $2 9. Nxd4
+Bxd2+ 10. Qxd2 $18) 9. Nc2 Bxd2+ {The position is equal.} 10. Qxd2 Qxb2 11. Bd3
+Qb6 12. O-O h6 13. Rab1 (13. Qf4 Bd7 14. Rab1 Qc7 15. Ne3 {0-1 (32) Predke,A 
+(2622)-Vitiugov,N (2719) St Petersburg 2018}) 13... Qc7 14. Ne3 $146 {[%cal
+Bc2e3,Be3f1,Bf1g3][%mdl 32]} ({Predecessor:} 14. Rfc1 Bd7 15. h4 {0-1 (35)
+Bergstrom,R (2216)-Sjodahl,P (2410) Stockholm 2018}) 14... Bd7 15. Rfc1 Rc8 16.
+Rb3 Qb8 17. h4 Nd8 18. Rcb1 Qc7 19. Nf1 Nec6 (19... a6 $11) 20. Rc1 {[%mdl
+1024] White has compensation.} Qa5 {White should prevent ...Qxd2.} 21. Rcc3 a6
+22. Ng3 g6 23. Qf4 (23. Ne2 $16) 23... Ne7 $1 $11 24. Qf6 (24. Rxc8 $11 Bxc8
+25. a3) 24... Rf8 (24... Rg8 $1 $15 25. Rxc8 Nxc8) 25. Rxc8 Bxc8 26. Bb1 Bd7
+27. h5 {[%cal Rh5g6]} Ba4 28. Re3 {[%cal Rh5g6]} Qb4 29. Bd3 (29. Re1 $11)
+29... Bb5 $1 $15 {[%cal Rb5d3]} 30. Bxb5+ Qxb5 31. Rc3 ({White should play} 31.
+hxg6 $15 fxg6 32. Qg7) 31... Qb1+ $17 {[%mdl 64] Double Attack} 32. Kh2 {
+Threatening Rc7.} Nec6 (32... Ndc6 $17 33. hxg6 Qxg6) 33. Qg7 $15 Qb2 34. Rd3
+$1 Qb1 35. Rd2 Ne7 36. Qxh6 Nf5 {[#]} (36... Ndc6 $11 {keeps the balance.}) 37.
+Qh7 $1 $16 Nxg3 (37... b6 $16) 38. fxg3 $18 {Threatens to win with h6.} ({
+And not} 38. Kxg3 Qf5 $11) 38... Nc6 39. h6 Ne7 {[#]} 40. g4 $1 Qe4 41. Kg3 b5
+42. Rd1 Qc2 $2 (42... f5 43. exf6 Rxf6 44. Qh8+ Rf8) 43. Rh1 {White is clearly
+winning.} f5 {Strongly threatening ...fxg4.} 44. exf6 $1 {[%csl Gf6][%cal
+Rh7e7]} Qc7+ 45. Kh3 {White wants to mate with Rc1!} Rxf6 46. Qg7 (46. Ne5 $142
+{And now Qg7 would win.} Qc3+ 47. g3) 46... Rf7 47. Qe5 Qxe5 48. Nxe5 ({Not} 
+48. dxe5 Rh7 $18) 48... g5 (48... Rh7 $142 49. g5 Nf5) 49. Nxf7 Kxf7 50. Rc1 {
+Accuracy: White = 68%, Black = 45%.} 1-0
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.18"]
+[Round "8.1"]
+[White "Piorun, Kacper"]
+[Black "Sadzikowski, Daniel"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[WhiteElo "2657"]
+[BlackElo "2522"]
+[Annotator "TA"]
+[PlyCount "124"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,124,29,39,41,41,25,29,0,0,0,20,20,22,27,29,0,14,0,16,0,17,-51,-41,
+-110,-35,-56,-63,-84,-92,-60,-21,-21,-35,-158,-37,-184,-201,-179,-179,-187,
+-193,-193,-193,-193,-193,-193,-193,-227,-211,-211,-211,-211,-211,-211,-226,
+-218,-194,-218,-181,-211,-211,-209,-160,-158,-157,-158,-158,-153,-60,-70,-61,
+-61,-61,-77,-34,-154,-147,-170,-147,-197,-212,-179,-76,-77,0,0,0,0,0,0,-8,-30,
+0,0,0,0,0,0,0,0,0,-8,0,0,0,-8,-8,-71,0,-71,0,-71,0]} 1. e4 c6 2. d4 d5 3. exd5
+cxd5 4. Nf3 Nf6 5. c3 Nc6 6. Bf4 g6 7. Bd3 Bf5 8. Bxf5 {B13: Caro-Kann:
+Exchange Variation and Panov-Botvinnik Attack} gxf5 9. O-O e6 10. Ne1 {White
+has an edge.} Bd6 11. Qf3 $146 ({Predecessor:} 11. Bxd6 Qxd6 12. Nd2 O-O-O 13.
+a4 Rhg8 14. f3 Kb8 {1/2-1/2 (64) Granda Zuniga,J (2648)-Lou,Y (2458) Douglas
+2016}) 11... Bxf4 12. Qxf4 Rg8 13. Nd2 Rg4 14. Qf3 Qc7 15. g3 O-O-O 16. Ng2
+Rdg8 17. h3 (17. Kh1 $11) 17... R4g5 $15 {Threatens to win with ...Nh5.} 18.
+Rfe1 (18. Rae1 $15) 18... Ne4 (18... Nh5 $1 $17 {[%cal Rh5g3] aiming for ...
+Nxg3!} 19. Nf1 Nf6) 19. Nxe4 fxe4 20. Qf4 e5 $36 {[%mdl 2048] Black is really
+pushing.} 21. Qe3 f5 {...f4 is the strong threat.} 22. dxe5 Nxe5 23. Nf4 (23.
+Qxa7 $15 Nf3+ 24. Kf1) 23... Nd3 (23... Nc4 $1 $17 {[%cal Rc4e3]} 24. Ne6 Nxe3
+25. Nxc7 Kxc7 26. Rxe3 f4) 24. Nxd3 ({White should play} 24. Kf1 $1 $15) 24...
+Rxg3+ $1 $19 {[%mdl 64] Demolition} 25. fxg3 Rxg3+ {[%mdl 64] Double Attack}
+26. Kh1 Rxe3 27. Rxe3 f4 ({Much less strong is} 27... exd3 28. Rxd3 Qe5 29.
+Rad1 $17) 28. Nxf4 Qxf4 {[%mdl 4096] Endgame KQ-KRR} 29. Rae1 b5 30. b3 Kc7 31.
+Kg2 Qg5+ 32. Kf2 Qf6+ 33. Kg2 Qa6 34. R1e2 Kd6 35. Rg3 Ke6 36. b4 Qc8 37. Rd2
+Qd8 38. Rf2 a5 39. a3 axb4 40. axb4 d4 (40... h6 $17 41. Rd2 Ke5) 41. cxd4 Qxd4
+42. Rg5 Qxb4 43. Ra2 $1 Qc4 44. Ra6+ (44. Rb2 $1 $15) 44... Kf7 $17 45. Rf5+
+Ke7 $1 46. Re5+ Kd7 47. Rg5 {Hoping for Rg7+.} Qc3 (47... Kd8 $19 {Strongly
+threatening ...b4.} 48. Rg7 Qc2+ 49. Kh1 Qc1+ 50. Rg1 Qc3 51. Rg8+ Ke7 52. Ra7+
+Kf6 53. Rf8+ Ke5 54. Re8+ Kf4 55. Rf8+ Ke3) 48. Kh2 {And now Rg7+! would win.}
+Kc7 {[#]} (48... Qc7+ $1 $17 49. Kg2 Kc8) 49. Rg7+ $1 $11 {[%mdl 512]} Kb8 (
+49... Qxg7 50. Ra7+) 50. Rb6+ Kc8 51. Rg8+ Kc7 52. Rxb5 e3 53. Rg2 Kc6 54. Rbb2
+Qe5+ 55. Kg1 Kc5 56. Ra2 {Black must now prevent Ra5+.} Qe7 57. Kh2 Kc4 58.
+Rac2+ Kd3 59. Ra2 h5 {With the idea ...Qc5.} 60. Rab2 {[#]} (60. Kg1 $11 {
+keeps the balance.}) 60... Qe5+ ({Better is} 60... Qc7+ $1 $17 61. Kg1 Qd7) 61.
+Kg1 {[#]} (61. Kh1 $11) 61... Qe6 (61... Qd4 $1 $17 {( -> ...e2+)} 62. Kh2 Qf4+
+63. Kg1 Qd4) 62. Kh2 (62. Rb1 $11 {remains equal.}) 62... Qe5+ {Accuracy:
+White = 35%, Black = 47%.} (62... h4 $17) 1/2-1/2
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.18"]
+[Round "8.2"]
+[White "Dragun, Kamil"]
+[Black "Heberla, Bartlomiej"]
+[Result "1/2-1/2"]
+[ECO "A26"]
+[WhiteElo "2591"]
+[BlackElo "2556"]
+[Annotator "TA"]
+[PlyCount "85"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,85,10,30,-8,-4,-33,-17,-41,-35,-26,-29,-37,-36,-79,-46,-101,-98,-102,
+-56,-102,-72,-70,-62,-44,-54,-47,-61,-58,-28,-38,-20,-21,-21,-38,-35,-42,-40,
+-43,-23,-20,-12,-7,-9,-22,-22,-36,-25,-26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,11,8,
+8,0,0,0,16,0]} 1. c4 g6 2. g3 Bg7 3. Bg2 e5 4. Nc3 d6 5. d3 Nc6 6. e4 Be6 7.
+Nge2 Qd7 8. Nd5 Nce7 9. h4 {A26: English Opening vs King's Indian with ...Nc6
+and d3} (9. d4 c6 10. Nxe7 Nxe7 11. d5 cxd5 12. cxd5 Bh3 13. O-O Bxg2 14. Kxg2
+O-O 15. f3 f5 16. Nc3 h5 17. Qa4 Qxa4 18. Nxa4 {1-0 (81) Bok,B (2643)-Quesada
+Perez,L (2510) Merida 2018}) 9... c6 10. Ne3 f5 11. h5 $146 ({Predecessor:} 11.
+f4 Nf6 12. O-O O-O 13. c5 dxc5 14. fxe5 Nh5 15. Bf3 Nxg3 16. Nxg3 f4 {1-0 (42)
+Calvo Mayayo,J (1929)-Campo Millan,D (2082) Aragon 2013}) 11... gxh5 12. exf5
+Nxf5 13. Nxf5 Bxf5 14. Bg5 Nf6 15. Bxf6 ({White should try} 15. Nc3 $15) 15...
+Bxf6 $17 16. Rxh5 O-O-O 17. Qd2 Kb8 18. O-O-O d5 19. cxd5 $1 cxd5 20. Kb1 Bg6
+21. Rhh1 Qe7 22. Ka1 Rd6 23. f4 Rc8 24. fxe5 Qxe5 {[#] Hoping for ...Bxd3!} 25.
+d4 Qe7 26. Rc1 Rxc1+ 27. Rxc1 Bg5 28. Nf4 a6 29. Re1 Qc7 30. Qe3 Ka7 31. a3 ({
+But not} 31. Bxd5 $2 Bxf4 32. Qxf4 {[#]} Qa5 $1 $19 {[%mdl 512]}) 31... Qc2 {
+aiming for ...Bxf4.} 32. Qc3 {The position is equal.} Bxf4 33. Qxc2 Bxc2 34.
+gxf4 $11 {[%mdl 4096] Endgame KRB-KRB} Rf6 35. Bxd5 Rxf4 36. Re7 Rxd4 37. Rxb7+
+Ka8 38. Bc6 Rd1+ 39. Ka2 Bb1+ 40. Kb3 {And now Rd7+ would win.} Rc1 $1 {
+[%cal Rc1c6]} 41. Rb6+ Ka7 42. Rb7+ Ka8 43. Rb6+ {Accuracy: White = 52%, Black
+= 65%.} 1/2-1/2
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.18"]
+[Round "8.3"]
+[White "Gajewski, Grzegorz"]
+[Black "Tomczak, Jacek"]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[WhiteElo "2613"]
+[BlackElo "2631"]
+[Annotator "TA"]
+[PlyCount "92"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,92,20,25,-20,40,17,23,18,12,12,12,18,15,11,19,24,22,8,33,0,18,22,15,
+16,18,16,8,9,27,14,47,15,47,14,8,14,14,8,12,0,-7,-8,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,-11,-4,-4,0,-3,-3,-89,-29,-22,-21,-40,-22,-20,-20,-20,-20,-71,
+-8,-9,-6,-6,0]} 1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. e5 Nd5 5. Bxc4 Bf5 6. Nc3 {
+D20: Queen's Gambit Accepted: 3 e3 and 3 e4} (6. Qb3 c6 7. Ne2 Qb6 8. Qf3 Bxb1
+9. Bxd5 cxd5 10. Rxb1 e6 11. O-O Nc6 12. Be3 Be7 13. Nf4 {1/2-1/2 (38) Gelfand,
+B (2703)-Laznicka,V (2662) Novy Bor 2018}) 6... e6 $146 (6... Nb4 $11 7. Bb3
+Nd3+ 8. Kf1 Qxd4) ({Predecessor:} 6... Nb6 7. Bb3 Nc6 8. Nf3 e6 9. O-O Nb4 10.
+Bg5 Qd7 11. a3 h6 12. Bh4 Nd3 13. Qd2 {0-1 (23) Wind,M (1640)-Paust,W (2133)
+Oldenburg 2000}) 7. Nxd5 exd5 8. Bb3 {White has an edge.} c5 9. dxc5 Nc6 10.
+Nf3 Bxc5 11. O-O O-O 12. Qxd5 Qb6 13. Bg5 Na5 14. Rac1 Nxb3 15. Qxb3 Qxb3 16.
+axb3 Rac8 17. Be3 Bxe3 18. fxe3 Rfe8 19. Nd4 Bd7 (19... Rxc1 {is more complex.}
+20. Rxc1 g6 21. Rc5 b6 22. Rd5 Be4) 20. b4 h6 21. Kf2 Rxe5 22. Rxc8+ Bxc8 $11 {
+[%mdl 4096] Endgame KRB-KRN} 23. Rc1 Bf5 24. Rc7 Be4 25. Rc8+ Kh7 26. b5 a6 27.
+bxa6 bxa6 28. Rc7 Rg5 29. g3 Ra5 30. Re7 Bg6 31. g4 Ra2 32. Rb7 Be4 33. Rb6 Bd3
+34. Rb3 Bc4 35. Rb4 Bd5 36. Ne2 a5 37. Rb6 {[#] And now Nc3 would win.} Bc4 38.
+Nc3 Ra1 39. b4 (39. h3 $11) 39... a4 (39... Rc1 $17 40. Na4 Bb3) 40. Rc6 Be6 {
+[#] aiming for ...a3.} 41. Ra6 a3 {Threatens to win with ...a2.} 42. b5 {
+[%cal Bb4b5,Bb5b6][%mdl 32]} a2 {Hoping for ...Rc1.} 43. b6 $1 {Rxa2! is the
+strong threat.} Rh1 44. h4 (44. Kg3 $1 $11 {keeps the balance.} Rg1+ 45. Kf2)
+44... Bc4 ({Don't play} 44... Rxh4 $6 45. Rxa2 Bxa2 46. Kg3 $11 (46. b7 $2 Rh2+
+47. Kf3 Rb2 $19)) (44... Rh2+ $17 45. Kf3 Rb2) 45. Ra4 Rf1+ 46. Kg3 $1 Rb1 {
+Accuracy: White = 57%, Black = 57%.} 1/2-1/2
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.18"]
+[Round "8.4"]
+[White "Gumularz, Szymon"]
+[Black "Janik, Igor"]
+[Result "0-1"]
+[ECO "A29"]
+[WhiteElo "2483"]
+[BlackElo "2469"]
+[Annotator "TA"]
+[PlyCount "96"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,96,17,11,27,29,42,12,21,21,25,19,35,16,47,0,31,12,61,-26,0,0,30,0,7,
+0,0,-8,0,-24,-21,-18,-32,-53,-29,-14,-22,-59,-37,-51,-50,-34,149,152,423,52,50,
+50,55,56,186,179,143,0,0,0,0,-28,-22,-16,-29,-32,-401,-391,-410,-390,-381,-377,
+-375,-517,-505,-600,-381,-817,-807,-1165,-1045,-1032,-1028,-1362,-1354,-1495,
+-1473,-1387,-1377]} 1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 Bxc3 6.
+bxc3 O-O 7. O-O d6 8. d3 e4 {A29: English Opening: Four Knights Variation with
+4 g3} 9. Nd4 Ne5 (9... exd3 10. exd3 Nxd4 11. cxd4 d5 12. Bg5 c6 13. cxd5 cxd5
+14. Qb3 b6 15. Rae1 h6 16. Bxf6 Qxf6 17. Re5 Be6 {1-0 (37) Kramnik,V (2792)
+-Duda,J (2737) Dortmund 2018}) 10. dxe4 Nxc4 {The position is equal.} 11. Qd3
+Ne5 12. Qc2 Re8 $146 ({Predecessor:} 12... Bd7 13. Rd1 Qe7 14. Rb1 Rab8 15. Nb5
+Bxb5 16. Rxb5 {0-1 (36) Krylov,A-Plyusnin,A (1928) RCCA corr 2002}) 13. Rd1 Bd7
+14. Rb1 Qc8 15. Bg5 Nfg4 16. Nf5 (16. f3 $14) 16... h6 17. Bc1 b6 18. h3 Nf6
+19. g4 Qa6 $36 {[%mdl 2048] Black is more active.} 20. Rd4 Bc6 21. g5 hxg5 22.
+Bxg5 Nh7 23. Bf4 Nf8 24. Bg3 Ne6 25. Rdb4 Nc5 26. Qd2 f6 27. Kh2 Qb7 $2 (27...
+Kf7 $15) 28. Rg1 $16 Ne6 $2 {[#]} ({Avoid the trap} 28... Nxe4 $2 29. Bxe4 Ng4+
+30. hxg4 $18) (28... Kf7 $16) 29. Bh1 $2 ({Only move:} 29. Bxe5 $1 $18 dxe5 30.
+Bf3) 29... Kf7 $1 $14 30. Bxe5 dxe5 {[#]} 31. Nxg7 $1 {[%mdl 576] Remove
+Defender} Nxg7 ({Better is} 31... Rg8 $1 $14 32. Nxe6 Rxg1 33. Kxg1 Kxe6) 32.
+Qh6 $18 Rg8 33. Rg6 ({White has to play} 33. f4 $16 {And now fxe5 would win.}
+Rae8 34. Qg6+ Ke7 35. fxe5 fxe5 36. Bf3) 33... Ne8 $11 34. Rxg8 Kxg8 35. Rb1 {
+aiming for Rg1+.} Bxe4 36. Rg1+ Kf7 {White must now prevent ...Bxh1.} 37. f3 $1
+{[%cal Rf3e4]} Bc6 $2 {[%mdl 8192]} (37... Bc2 $15 38. Qh5+ Ke6) 38. Qh7+ Ke6
+39. Qg8+ Ke7 40. Qh7+ Kd8 41. h4 {If White can now play Qd3+ this consolidates
+a bit.} Qa6 42. h5 Kc8 43. h6 $2 (43. Qd3 Qxa2 44. f4 Bxh1 45. Kxh1) 43...
+Qxe2+ $19 {[%mdl 64] Double Attack. Black is clearly winning.} 44. Rg2 Qxf3 45.
+Qg6 Kb7 46. h7 Nd6 47. Qg8 Qh5+ 48. Kg1 Nf7 {Accuracy: White = 40%, Black =
+36%.} 0-1
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.18"]
+[Round "8.5"]
+[White "Socko, Bartosz"]
+[Black "Bartel, Mateusz"]
+[Result "1/2-1/2"]
+[ECO "C58"]
+[WhiteElo "2627"]
+[BlackElo "2598"]
+[Annotator "RC"]
+[PlyCount "117"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:00]} 3. Bc4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 4. Ng5 {[%emt 0:
+00:00]} d5 {[%emt 0:00:00]} 5. exd5 {[%emt 0:00:00]} Na5 {[%emt 0:00:09]} 6.
+Bb5+ {[%emt 0:00:00]} c6 {[%emt 0:00:07]} 7. dxc6 {[%emt 0:00:00]} bxc6 {
+[%emt 0:00:08]} 8. Bd3 {[%emt 0:00:03]} Nd5 {[%emt 0:01:12]} 9. Nf3 {[%emt 0:
+00:08]} Nf4 {[%emt 0:04:52]} 10. Bf1 {[%emt 0:00:18]} e4 {[%emt 0:08:43]} 11.
+d3 {[%emt 0:04:31]} exf3 {[%emt 0:09:53]} 12. Bxf4 {[%emt 0:00:18]} Qf6 {
+[%emt 0:00:15]} 13. Qxf3 {[%emt 0:14:35]} Qxb2 {[%emt 0:00:18]} 14. Qe2+ {
+[%emt 0:00:12]} Be6 {[%emt 0:00:25]} 15. Be5 {[%emt 0:01:19]} Qc1+ {[%emt 0:06:
+46]} 16. Qd1 {[%emt 0:00:07]} Qg5 {[%emt 0:00:04]} 17. Bc3 {[%emt 0:03:03]}
+O-O-O {[%emt 0:11:18]} 18. Be2 {[%emt 0:20:06]} Qxg2 {[%emt 0:05:34]} 19. Bf3 {
+[%emt 0:00:05]} Qg5 {[%emt 0:12:00]} 20. Qd2 {[%emt 0:01:08]} Qc5 {[%emt 0:00:
+20]} 21. Qe3 {[%emt 0:07:36]} Qb6 {[%emt 0:02:37]} 22. Qxb6 {[%emt 0:02:44]}
+axb6 {[%emt 0:00:25]} 23. Nd2 {[%emt 0:02:09]} Bd5 {[%emt 0:08:08]} 24. Rg1 {
+[%emt 0:01:17]} f6 {[%emt 0:02:08]} 25. Rb1 {[%emt 0:04:41]} Kc7 {[%emt 0:00:
+03]} 26. Bxd5 {[%emt 0:00:38]} Rxd5 {[%emt 0:00:25]} 27. Ne4 {[%emt 0:00:06]}
+h5 {[%emt 0:03:20]} 28. Bd2 {[%emt 0:05:02]} h4 {[%emt 0:04:57]} 29. Ke2 {
+[%emt 0:08:37]} Rhh5 {[%emt 0:01:21]} 30. Bb4 {[%emt 0:02:29]} c5 {[%emt 0:00:
+39]} 31. Bxa5 {[%emt 0:00:47]} bxa5 {[%emt 0:00:02]} 32. c4 {[%emt 0:00:38]}
+Rd7 {[%emt 0:03:05]} 33. Rb5 {[%emt 0:02:13]} Re5 {[%emt 0:00:03]} 34. f4 {
+[%emt 0:05:20]} Re6 {[%emt 0:01:25]} 35. f5 {[%emt 0:00:30]} Re5 {[%emt 0:01:
+14]} 36. Rgb1 {[%emt 0:07:40]} Kd8 {[%emt 0:00:24]} 37. Rxa5 {[%emt 0:01:36]}
+Ke8 {[%emt 0:00:32]} 38. Rf1 {[%emt 0:02:27]} g6 {[%emt 0:03:52]} 39. fxg6 {
+[%emt 0:02:41]} f5 {[%emt 0:00:05]} 40. Ra8+ {[%emt 0:00:00]} Ke7 {[%emt 0:00:
+00]} 41. Rf3 {[%emt 0:09:51]} Bg7 {[%emt 0:05:29]} 42. Kf2 {[%emt 0:17:05]}
+fxe4 {[%emt 0:02:58]} 43. Rf7+ {[%emt 0:00:05]} Ke6 {[%emt 0:00:06]} 44. Ra6+ {
+[%emt 0:00:30]} Rd6 {[%emt 0:00:07]} 45. Rxd6+ {[%emt 0:01:08]} Kxd6 {[%emt 0:
+00:03]} 46. Rxg7 {[%emt 0:00:07]} exd3 {[%emt 0:00:06]} 47. Rb7 {[%emt 0:01:02]
+} Re2+ {[%emt 0:06:27]} 48. Kf3 {[%emt 0:00:28]} Rxh2 {[%emt 0:00:06]} 49. Rb8
+{[%emt 0:04:05]} Rh3+ {[%emt 0:00:29]} 50. Kg4 {[%emt 0:00:16]} Rg3+ {[%emt 0:
+02:15]} 51. Kxh4 {[%emt 0:00:10]} Rg1 {[%emt 0:01:02]} 52. Kh5 {[%emt 0:01:33]}
+Ke7 {[%emt 0:02:05]} 53. Rb2 {[%emt 0:00:04]} Kf6 {[%emt 0:15:07]} 54. Rd2 {
+[%emt 0:03:35]} Rh1+ {[%emt 0:02:44]} 55. Kg4 {[%emt 0:00:05]} Kxg6 {[%emt 0:
+00:33]} 56. Rxd3 {[%emt 0:01:23]} Rc1 {[%emt 0:00:06]} 57. Kf4 {[%emt 0:00:56]}
+Kf6 {[%emt 0:00:50]} 58. Rd6+ {[%emt 0:00:18]} Ke7 {[%emt 0:00:08]} 59. Rc6 {
+[%emt 0:00:28]} 1/2-1/2
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.19"]
+[Round "9.1"]
+[White "Bartel, Mateusz"]
+[Black "Piorun, Kacper"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2598"]
+[BlackElo "2657"]
+[Annotator "TA"]
+[PlyCount "115"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,115,32,14,49,42,49,48,52,26,23,18,30,20,27,37,36,31,56,42,51,45,37,
+41,54,47,50,49,43,46,45,43,51,40,50,45,56,34,91,64,54,62,75,46,51,25,29,19,8,
+10,40,43,40,28,29,33,64,35,43,29,29,27,28,23,23,32,25,23,23,23,51,35,47,23,34,
+32,52,50,81,66,66,66,66,66,66,65,62,65,77,43,43,43,515,0,0,0,0,0,0,0,0,0]} 1.
+e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 Nf6 6. c3 a6 7. Ba4 b5 8. Bc2 e5
+9. h3 Be7 {B51: Sicilian: Moscow Variation (3 Bb5+) without 3...Bd7} 10. d4 O-O
+11. d5 Na5 {White is slightly better.} 12. Nxe5 dxe5 13. d6 {[#]} Nc6 $146 ({
+Predecessor:} 13... Be6 14. dxe7 Qxe7 15. Nd2 Rfd8 16. Qe2 Nd7 17. Nf3 {
+1/2-1/2 (35) Ni,H (2667)-Wang,H (2715) China 2010}) 14. Be3 Re8 {Hoping for ...
+Bf8.} 15. dxe7 Qxe7 16. Nd2 Rad8 17. Qe2 Be6 18. a4 c4 19. axb5 axb5 20. Ra6
+Qd6 21. Rea1 Nd7 22. b4 cxb3 23. Nxb3 Bc4 24. Qd1 Qc7 25. Nd2 Be6 26. Bb3 Qb7 (
+26... Bxb3 $14 27. Qxb3 Rb8) 27. Qb1 Bxb3 $1 28. Qxb3 Re6 29. Qa2 Rb8 30. Nb3
+h6 31. Nc5 Nxc5 32. Bxc5 Qd7 33. Qd5 Qe8 34. Qb3 Qd8 35. Rd1 Qf6 36. Rb6 Rxb6
+37. Bxb6 Qf4 38. Qc2 Rg6 39. Qe2 b4 40. cxb4 Nxb4 41. g3 $36 {[%mdl 2048]
+White has some pressure.} Nc6 42. Bc5 Qg5 43. Kh2 Re6 44. Rd5 Qf6 45. Kg2 Qg6
+46. Rd7 Qf6 47. Qd3 h5 48. h4 g5 49. Qa6 {Strongly threatening Qc8+.} gxh4 50.
+Qc8+ Kh7 {Threatens to win with ...h3+!} 51. Qf8 Kg6 $1 52. f4 (52. Be3 $5 {
+[%cal Rf8h6]} Qg7 53. Rxf7 Qxf8 54. Rxf8 $16) 52... exf4 53. gxf4 {Threatening
+mate with f5+.} ({Worse is} 53. Qg8+ Qg7 $17) 53... h3+ $2 {[%mdl 8192] [#]} (
+53... Rxe4 $14 54. Qg8+ Qg7 55. Rd6+ {[%mdl 64] Double Attack} f6 56. f5+ Kh6+
+57. Qxg7+ Kxg7) 54. Kxh3 $2 (54. Kh1 $1 $18 Qa1+ 55. Bg1) 54... Qc3+ $11 {
+The position is equal.} 55. Kg2 Qc2+ {[%mdl 64] Double Attack} 56. Kh3 Qc3+ 57.
+Kg2 Qc2+ {[%mdl 64] [#] Double Attack} 58. Kh3 {Accuracy: White = 58%, Black =
+52%.} 1/2-1/2
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.19"]
+[Round "9.2"]
+[White "Janik, Igor"]
+[Black "Socko, Bartosz"]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[WhiteElo "2469"]
+[BlackElo "2627"]
+[Annotator "TA"]
+[PlyCount "75"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,75,5,12,20,39,27,28,31,37,43,40,38,35,39,24,0,0,-18,-16,-22,-11,-60,0,
+-132,-119,-112,0,0,0,0,18,23,18,18,20,16,16,13,19,0,0,0,0,0,0,0,93,104,104,104,
+95,97,93,84,95,93,62,64,86,0,0,0,0,0,0,0,0,0]} 1. e4 e6 2. d4 d5 3. Nd2 Be7 4.
+e5 c5 5. c3 Nc6 6. Bd3 {C03: French Tarrasch: Unusual Black 3rd moves} Qb6 (
+6... Bd7 7. Qg4 Kf8 8. Ne2 h5 9. Qf3 cxd4 10. cxd4 Qb6 11. Nb3 a5 12. Nf4 Ke8
+13. Nxh5 a4 14. Nxg7+ {1-0 (46) Mamedov,R (2703)-Lagarde,M (2616) Skopje 2018})
+7. Ndf3 Bd7 {[%cal Rc5d4]} 8. Ne2 {White has an edge.} f6 9. O-O fxe5 10. dxe5
+Nh6 $146 ({Predecessor:} 10... O-O-O 11. b4 Qc7 12. Bf4 Rf8 13. bxc5 Bxc5 {
+0-1 (30) Ameir,M (2399)-Stupak,K (2564) Khanty-Mansiysk 2017}) 11. Bxh6 gxh6
+12. Qd2 O-O-O $1 13. Qxh6 c4 14. Bc2 Qxb2 15. Rfc1 Rdf8 (15... Qa3 $15) 16. Nf4
+(16. a4 $11 {remains equal.}) 16... Ba3 $1 $17 ({Don't play} 16... Qxc3 $6 17.
+Bxh7 Qa3 18. Ng6 $11) 17. Ba4 Qxc1+ (17... Bc5 $17 18. Bc2 Qb6) 18. Rxc1 $11
+Bxc1 19. g3 Bxf4 20. gxf4 Rf7 21. Bxc6 bxc6 22. Nd4 Rg8+ 23. Kf1 {Strongly
+threatening f5.} Rg6 24. Qh5 {And now f5! would win.} Rfg7 25. Ke2 c5 26. Nf3
+Rg4 27. Ke3 Bc6 {[#]} (27... Kb8 $11) 28. h3 $1 $16 {[%cal Rh3g4]} Rg2 29. f5
+d4+ 30. cxd4 {Threatens to win with f6.} c3 {( -> ...c2)} 31. Qh6 Bd5 {[#] ...
+c2 is the strong threat.} 32. Ne1 $1 {[%cal Re1g2]} Rg1 33. Nc2 cxd4+ 34. Nxd4
+(34. Kxd4 $16 Rf7 35. Kxc3 (35. fxe6 Rd1+ 36. Kxc3 Rc7+ 37. Kb2 Rb7+ 38. Kc3
+Rc7+ 39. Kb2 Rb7+ 40. Kc3 Rc7+ $11) 35... Rxf5 36. Ne3 (36. Qxh7 Rxf2 37. Qe7
+Rgg2 $11)) 34... Re1+ $11 {The position is equal.} 35. Kd3 Rc7 $1 {[%csl Ge1]
+[%cal Rd5e4]} 36. Qf8+ {[#]} Kb7 $1 {[%csl Ge1][%cal Rd5e4][%mdl 512]} 37. Qb4+
+{[#]} Kc8 $1 {[%csl Ge1][%cal Rd5e4][%mdl 512]} 38. Qf8+ {Accuracy: White =
+63%, Black = 65%.} 1/2-1/2
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.19"]
+[Round "9.3"]
+[White "Tomczak, Jacek"]
+[Black "Gumularz, Szymon"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "2631"]
+[BlackElo "2483"]
+[Annotator "TA"]
+[PlyCount "81"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,81,16,13,13,10,4,13,21,10,15,13,15,16,54,60,65,25,30,0,35,15,30,18,
+23,11,4,-18,0,-6,4,-29,-35,-65,13,0,49,10,22,34,33,0,0,0,0,-18,0,0,0,-46,-40,
+-46,-32,-61,-79,-86,-89,-88,-83,-188,-163,-214,-165,-161,0,0,0,0,0,0]} 1. e4 c6
+2. d4 d5 3. e5 Bf5 4. Be3 e6 5. Nd2 Nd7 6. Ngf3 h6 7. Be2 Ne7 8. O-O Bh7 {
+B12: Caro-Kann: Advance Variation} 9. Nb3 Nf5 10. Bd2 Be7 11. g4 Nh4 12. Nxh4
+Bxh4 13. f4 f5 14. Bd3 O-O $1 15. h3 $146 ({Predecessor:} 15. Kh1 Be7 16. Rg1 {
+0-1 (73) Krylov,S (2359)-Rasmussen,A (2530) Khanty-Mansiysk 2010}) 15... Be7
+16. Qe2 Rc8 (16... c5 $5 {[%cal Rc5c4]} 17. c4 b5 18. cxd5 (18. Ba5 Nb6 $15)
+18... c4 $14 {[%mdl 64] Double Attack}) 17. c4 Kh8 18. cxd5 cxd5 19. Rf2 Nb6
+20. Rg2 Nc4 21. g5 Qe8 22. Rc1 hxg5 23. fxg5 {[%cal Rd3c4]} Bg6 ({Avoid the
+trap} 23... Nxb2 $2 24. Rxc8 Qxc8 25. g6 $18) (23... f4 $1 $15 24. Rf1 Bxd3 25.
+Qxd3 Nxb2) 24. Bf4 $11 b6 25. Na1 Bh5 26. Qf1 g6 27. Rgc2 Qd7 28. Kf2 Kg7 29.
+Kg3 a5 $36 {[%mdl 2048] Black has some pressure.} 30. a4 Bb4 31. Kg2 Qxa4 32.
+b3 Qc6 33. bxc4 dxc4+ {[%mdl 64] [#] Discovered Attack} 34. Kg3 {[%cal Rd3c4]}
+b5 35. Qf2 Rfd8 36. Be2 (36. Bf1 $17 {keeps fighting.}) 36... Bxe2 $19 37. Rxe2
+Ba3 38. Rd1 c3 $2 ({Better is} 38... Be7 $19 {Hoping for ...b4.} 39. Ra2 Ra8)
+39. Ra2 $1 $11 {[%cal Ra2a3] The position is equal.} Bb2 {And now ...a4 would
+win.} 40. Rxa5 {Threatens to win with Ra7+.} c2 {[#]} 41. Nxc2 $1 {[%mdl 512]
+Accuracy: White = 52%, Black = 55%.} 1/2-1/2
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.19"]
+[Round "9.4"]
+[White "Heberla, Bartlomiej"]
+[Black "Gajewski, Grzegorz"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "2556"]
+[BlackElo "2613"]
+[Annotator "TA"]
+[PlyCount "140"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,140,3,-22,-15,-22,-22,-25,-22,-25,-16,-30,-28,-36,0,-5,-7,-7,-2,-3,
+-3,-3,-3,-3,-2,-10,24,31,41,0,0,0,0,0,2,-3,-2,-23,-19,-80,-80,-72,-54,-52,-62,
+-56,-58,-79,-66,-72,-66,-72,-79,-67,-48,-86,-80,-86,-93,-245,-65,-64,-58,-46,
+-62,-127,-62,-179,-171,-339,-335,-331,-339,-329,-285,-305,-302,-358,-336,-345,
+-345,-368,-360,-343,-350,-315,-299,-332,-298,-291,-275,-472,-471,-1162,-1182,
+-992,-1111,-941,-832,-704,-675,-651,-616,-29964,-29964,-29962,-29961,-11049,
+-10549,-5285,-5293,-29975,-29976,-29976,-29977,-29976,-29977,-29979,-29980,
+-29980,-29981,-29981,-29982,-29982,-29983,-29983,-29984,-29983,-29985]} 1. e4
+e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Nc3 h6 6. Be3 Bxe3 7. fxe3 d6 8. O-O Na5
+{C50: Hungarian Defence and Giuoco Pianissimo} 9. Bb3 O-O 10. d4 Qe7 {Black
+has an edge.} 11. dxe5 $146 ({Predecessor:} 11. Qd3 c6 12. Nd2 b5 13. Ne2 Rb8
+14. Ng3 Rb6 15. a4 Nxb3 16. Qxb3 {1/2-1/2 (36) Valeriani,D (2349)-Ivanovic,Z 
+(2362) ICCF email 2011}) 11... dxe5 12. Nd5 Nxd5 13. Qxd5 Nc6 14. Rad1 Be6 15.
+Qd3 Rad8 16. Qb5 Bxb3 17. cxb3 Qb4 18. Qxb4 Nxb4 19. Nxe5 Rfe8 20. Rxd8 Rxd8
+$11 {[%mdl 4096] Endgame KRN-KRN} 21. a3 (21. Nxf7 Re8 $11) 21... Re8 22. Nd7 (
+{Much weaker is} 22. Nxf7 Nc6 $17) 22... Nc6 23. Rc1 Rxe4 24. Kf2 Re7 25. Nc5
+Ne5 26. Rd1 (26. Ke2 $11 {keeps the balance.}) 26... b6 $17 27. Na6 Ng4+ {
+[%mdl 64] Discovered Attack} 28. Kf3 f5 {...g5 is the strong threat.} 29. h3
+Nxe3 30. Rd3 Nc2 {And now ...Ne1+ would win.} 31. Rd2 Ne1+ 32. Kf2 c5 33. g3 g5
+$1 34. Nb8 f4 35. gxf4 gxf4 36. Nd7 $2 (36. Rd1 $17 Nc2 37. Kf3) 36... Re3 $2 (
+36... Kf7 $19 {aiming for ...Re3.} 37. Rd1 Nc2) 37. Nf6+ $1 $15 Kf7 38. Ng4 $1
+{[%cal Rg4e3]} Re6 39. Rd1 (39. Rd5 $1 $15) 39... Nc2 ({Better is} 39... h5 $17
+40. Nh2 Nc2) 40. Kf3 (40. Rd5 $1 $15) 40... h5 $19 41. Nf2 $2 (41. Nh2 {
+was necessary.}) 41... Nd4+ 42. Kxf4 Rf6+ 43. Kg3 Rf3+ 44. Kg2 Rxb3 45. Nd3 Kf6
+46. Rd2 h4 47. Rf2+ Ke6 48. Nf4+ Kd6 49. Kf1 c4 50. Ke1 c3 51. bxc3 Rxc3 52.
+Rd2 $2 (52. a4) 52... Ke5 {Hoping for ...Nf3+.} 53. Rd3 (53. Nd3+ $142 Kf5 54.
+Rd1) 53... Rxd3 54. Nxd3+ {KN-KN} Ke4 55. Kd2 Nf3+ 56. Kc3 Ng5 57. Ne1 Kf4 $1
+58. Ng2+ Kg3 {[%mdl 64] Double Attack} 59. Ne3 Kxh3 60. Kd4 Kh2 61. Ke5 h3 62.
+Kf4 Kg1 {Black mates.} 63. Ng4 h2 64. Nxh2 Kxh2 65. Kxg5 {KPP-KP} Kg3 66. Kf5
+Kf3 67. Ke5 Ke3 68. Kd5 Kd3 $1 69. Kc6 {[#]} Kc4 $1 70. Kb7 {[#]} a5 $1 {
+Accuracy: White = 44%, Black = 81%.} 0-1
+
+[Event "LOTTO POL-ch Men 2019"]
+[Site "Warsaw"]
+[Date "2019.05.19"]
+[Round "9.5"]
+[White "Sadzikowski, Daniel"]
+[Black "Dragun, Kamil"]
+[Result "1/2-1/2"]
+[ECO "B47"]
+[WhiteElo "2522"]
+[BlackElo "2591"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2019.05.11"]
+[EventType "tourn"]
+[EventCountry "POL"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 24,61,43,46,40,50,48,46,33,54,48,34,34,19,33,20,22,0,23,18,32,14,41,40,
+39,0,27,17,14,14,14,0,0,-17,0,0,0,0,0,-31]} 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4.
+Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O Nxd4 9. Qxd4 Bc5 10. Bf4 d6 11.
+Qd2 h6 12. Rad1 e5 13. Be3 Be6 {B47: Sicilian: Taimanov: 5 Nc3 Qc7 6 f4, 6 g3
+and 6 Be2} 14. Bxc5 dxc5 15. Nd5 Bxd5 $1 {White is slightly better.} 16. exd5 {
+Hoping for d6.} Qd6 (16... O-O 17. d6 Qb6 18. c4 Rad8 19. Rfe1 Rfe8 20. Bh3 Nh7
+21. f4 {1-0 (60) Vidit,S (2715)-Van Foreest,J (2629) Riadh 2017}) 17. Rfe1 {
+Black must now prevent Rxe5+!} O-O 18. Re2 Rae8 $146 ({Predecessor:} 18... b5
+19. Rde1 Rfe8 20. c4 bxc4 21. Qc3 e4 22. Qxc4 Rab8 23. Bxe4 Nxe4 24. Rxe4 Rxe4
+25. Qxe4 Rxb2 26. Qe8+ Kh7 27. Qxf7 Rd2 28. Qf5+ {1/2-1/2 (28) Rietveld,R 
+(2112)-Goormachtigh,J (2231) Netherlands 2005}) 19. Rde1 b5 20. a4 bxa4 21. Ra1
+Rb8 22. c3 Rb5 23. Rxa4 Rfb8 24. h3 a5 25. Qd3 g6 {The position is equal.} 26.
+Ra2 Kg7 27. Qc4 Nd7 28. f4 exf4 29. Qxf4 Qxf4 30. gxf4 c4 31. Rd2 {Accuracy:
+White = 38%, Black = 56%.} (31. d6 $5 {[%cal Rg2c6]} Rd8 32. Rd2 $11) 1/2-1/2
+

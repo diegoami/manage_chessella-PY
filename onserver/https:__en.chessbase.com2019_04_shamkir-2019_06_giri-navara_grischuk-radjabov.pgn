@@ -1,0 +1,113 @@
+[Event "Shamkir Chess"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "6"]
+[White "Giri, A."]
+[Black "Navara, D."]
+[Result "1/2-1/2"]
+[Annotator "DF"]
+[PlyCount "51"]
+[EventDate "2019.04.07"]
+
+{[%evp 0,51,28,25,28,4,4,6,6,6,33,2,10,2,12,-43,-18,-15,12,-21,-15,-15,6,-5,-7,
+-4,-5,-5,-4,-9,-11,-8,-6,-27,-8,-17,-9,-9,0,0,0,-6,-10,0,0,0,0,0,0,0,0,0,0,0]
+As in the Ding-Carlsen game, we see a repetition of something that happened 2
+rounds before, with the same result.} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4
+5. cxd5 exd5 6. Bg5 h6 7. Bh4 O-O 8. e3 Bf5 9. Be2 (9. Ne5 {was chosen in
+Topalov-Carlsen three days ago.} c5 10. Bd3 cxd4 11. exd4 Bxd3 12. Qxd3 Qd6 13.
+Bxf6 Qxf6 14. O-O Bxc3 15. Qxc3 Re8 16. Rac1 Nc6 17. Nxc6 Qxc6 18. Qxc6 bxc6
+19. Rxc6 Re2 20. Ra6 Rxb2 21. g3 Re8 22. Rxa7 Ree2 23. Ra5 Rxa2 24. Rxd5 Red2
+25. h4 Ra4 26. Kg2 Raxd4 27. Rxd4 Rxd4 {Topalov,V-Carlsen,M Shamkir Chess 2019}
+) ({It is not too late by any means for White to try and prove something, and
+the obvious idea is} 9. Qb3 {threatening both the bishop on b4 and the trick
+with Bxf6. In fact, a fair sample of present company had been on one or other
+side of this position.} Bxc3+ 10. Qxc3 Nbd7 (10... g5 11. Bg3 Ne4 12. Qxc7 Qxc7
+13. Bxc7 Nc6 14. Bb5 Rfc8 15. Bxc6 bxc6 16. Ba5 $14 {Grischuk,A-Sethuraman,S
+Astana 2019}) 11. Be2 c6 12. Nd2 (12. Qb4 $5) 12... Ne4 13. Nxe4 Qxh4 14. Nd6
+Bg4 {Here I will refer you to my annotations of Mamedyarov,S-Carlsen,M Porto
+Carras 2018, but suffice it to say the b7-pawn was never takeable.}) 9... Nbd7
+10. Qb3 Ba5 $1 {By contrast to one move ago, Black is no longer semi-obliged
+to take on c3 in response to Qb3.} 11. O-O c6 12. Ne5 (12. Bxf6 $5 {This gives
+White some prospects for interesting play.} Qxf6 (12... Nxf6 13. Qxb7 Rb8 14.
+Qa6 Rxb2 15. Na4 $14) 13. Qxb7 a6 14. Qb3 Rfb8 15. Qa4 Bc7 16. Nd1 $44 {
+The computer considers that Black has full compensation, but this is not clear
+to me.}) 12... Qb6 ({Black, in turn, had a chance to introduce imbalance with} 
+12... Nxe5 13. dxe5 g5 14. Bg3 Bxc3 15. bxc3 Ne4 $132 {and perhaps this is a
+reasonable way to play for a win. If White doesn't take on b7, then there
+comes ...b5 ; if he does, then there is ...Qb6!? with complications.}) 13. Nxd7
+{These moves of White's don't look especially challenging.} ({If a trade had
+to be made, then perhaps a better option was} 13. Bd3 Bxd3 14. Nxd3 $11) 13...
+Nxd7 14. Rfc1 Qxb3 15. axb3 Bb4 {Now it is Black who could be marginally
+better- the usual advantage of the doubled b-pawns is mitigated by Black's
+good co-ordination, which means that following ...a6 at some stage there will
+be no chance of b5, and the idea of Nc5/a5 is also hard to arrange for White.}
+16. Na2 Bd6 17. Bg3 Be7 18. Bc7 a5 (18... g5 $15 {is the engine choice,
+gaining space on the kingside.}) 19. Nc3 Rfe8 (19... Ra7 $5 {threatens ...b5,
+but not seriously:} 20. g4 Be6 21. Kg2 $11) 20. Na4 (20. Rxa5 $2 Rxa5 21. Bxa5
+b6 $19) 20... Bb4 21. Nb6 Nxb6 22. Bxb6 {Now neither side has a break of any
+kind available in the next hundred moves, so a repetition was found.} Bd2 23.
+Rd1 Bb4 24. Rdc1 ({Attempting to play on with} 24. Bd3 Bxd3 25. Rxd3 f5 $15 {
+is just dangerous.}) 24... Bd2 25. Rd1 Bb4 26. Rdc1 1/2-1/2
+
+[Event "Shamkir Chess"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "6"]
+[White "Grischuk, A."]
+[Black "Radjabov, T."]
+[Result "1/2-1/2"]
+[Annotator "DF"]
+[PlyCount "79"]
+[EventDate "2019.04.07"]
+
+{[%evp 0,79,19,25,19,-21,43,-18,19,18,4,-60,-48,-21,-14,-10,28,-54,-16,-21,-27,
+-27,-52,-62,-69,-52,-34,-33,-19,-41,-43,-24,-23,-16,-17,-44,-29,-5,-23,-7,-4,
+-21,-12,-9,23,0,6,11,0,16,16,16,16,47,45,0,0,0,-74,-48,50,50,58,55,66,58,54,57,
+55,22,44,6,0,0,0,0,26,0,0,0,17,0]} 1. d4 d5 2. c4 dxc4 {Not a solid opening,
+and Black proceeds to then enter a line generally considered discredited, so
+it will be interesting to see what he has in mind.} 3. e4 e5 4. Nf3 exd4 5.
+Bxc4 Nc6 6. O-O Be6 7. Nbd2 {This is not critical and might let White's
+advantage slip.} (7. Bb5 $1 Bc5 8. b4 Bb6 9. a4 a6 10. Bxc6+ bxc6 11. a5 Ba7
+12. Bb2 $14 {Almost every engine thinks White is better on high depth. It is
+really hard to disagree. Black's structure is a mess.}) (7. Bxe6 fxe6 8. Qb3
+Qd7 9. Qxb7 Rb8 10. Qa6 Bd6 11. Nbd2 {Probably White is a bit better here as
+well, but this is much less clear than the previous line, as well as being
+more explored. Black has a strong central bulwark in the d4/e5 pawns.}) 7...
+Qf6 8. a3 {Another 'just a move' that puts the position definitively within
+the bounds of equality.} ({It was still interesting to pretend to have an
+advantage with} 8. Bb5 Nge7 9. Nb3 $5 $36) (8. Qa4 {cannot be ruled out either,
+especially due to the possibility of pushing b4 without fuss if Black castles.}
+O-O-O 9. b4 $5 Bxb4 10. Rb1 Bxd2 11. Ba6 $13) 8... Nge7 9. b4 Ng6 10. Bb5 Be7
+11. Nc4 Bxc4 $6 {It isn't clear that Black really needs to give up the
+bishop-pair.} (11... Nh4 $1 $11 {succeeds equally well in defending the
+d4-pawn, due to tactics on the dark long diagonal.}) 12. Bxc4 O-O 13. Bd5 Rad8
+14. Bd2 Rd7 {Black defends the c7-pawn in anticipation of Rc1.} 15. Qa4 (15.
+Rc1 Nd8 {I am pretty sure this was the intention, but of course White is still
+better with the bishop-pair following} 16. g3 c6 17. Bc4 $14 {or some such.})
+15... Nf4 $1 ({The machine throws out the ridiculous} 15... Nb8 $5 $132 {
+, claiming that White cannot really take any of the multiple weak or hanging
+pawns.}) 16. Bxf4 Qxf4 17. Bxc6 bxc6 18. Qxc6 Rfd8 19. Rfd1 d3 20. Rac1 h5 21.
+Rc4 g5 22. h3 (22. Qh6 {doesn't threaten anything as yet.} d2 23. h3 Rd3 24.
+Qxh5 Rxa3 25. Nh2 Kg7 $44) 22... g4 23. e5 Qf5 24. hxg4 hxg4 25. Nd2 Rd5 26.
+Nf1 (26. e6 $5 fxe6 27. Qxc7 Bf6 28. Qg3 Rd4 29. Rxd4 Bxd4 30. Nf3 Bf6 31. Nh2
+Rd4 32. Qb8+ {White can continue messing around for a while, but it should be
+a draw, because Black's king is weak, but White is playing only with the queen.
+}) 26... Rxe5 27. Ne3 Qh5 28. Rxg4+ Kf8 29. Qf3 (29. Re4 Rxe4 30. Qxe4 d2 31.
+g3 a5 32. Kg2 axb4 33. axb4 Qg6 $11 {It is difficult for White to break free,
+even in the ending.}) 29... Bg5 $6 {An inaccuracy: now it is hard to protect
+the d3-pawn.} (29... Rg5 $11 {for instance was better}) 30. Rd4 $1 Qxf3 31.
+Rxd8+ Bxd8 32. gxf3 a5 33. Rxd3 Be7 {So White has a pawn, and realistically
+can't lose. The question is how hard is he trying to win, and to answer that
+we must first know whether the queenside is about to be liquidated.} 34. bxa5 (
+34. Rd5 {springs to mind.} Rxd5 35. Nxd5 axb4 36. Nxb4 (36. axb4 Bd6 37. b5 Ke8
+38. Kf1 Kd7 {Black is in time to swap the queenside pawns.}) 36... Bxb4 37.
+axb4 Ke7 $1 {The pawn ending is a draw, but only because it is White's turn to
+move after} 38. Kf1 Kd6 39. Ke2 Kd5 40. Kd3 f6 $1 $11) (34. f4 Rb5 35. Rd5 Rxd5
+36. Nxd5 axb4 37. Nxb4 Bxb4 38. axb4 Ke7 39. Kf1 Kd6 40. Ke2 Kd5 41. Kd3 {
+Since White has gained time relative to the last variation, Black must lose
+time:} f5 $1 $11 {This pawn ending is also a draw.}) ({The way to play on for
+a while was something like} 34. Nc2 $14 {, perhaps then placing the rook on c4,
+playing f4 and moving the king to f3.}) 34... Rxa5 35. Nc4 Ra4 36. Rc3 Bf6 37.
+Rc2 Be7 $11 {There is no tactic based on Ra2, and no point whatsoever in
+playing the ending with two f-pawns against one, so the players repeated.} 38.
+Rc3 Bf6 39. Rc2 Be7 40. Rc3 1/2-1/2

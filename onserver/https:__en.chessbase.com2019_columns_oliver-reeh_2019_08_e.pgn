@@ -1,0 +1,60 @@
+[Event "World-ch Carlsen-Anand +3-0=7"]
+[Site "Chennai"]
+[Date "2013.11.21"]
+[Round "9"]
+[White "Anand, Viswanathan"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "E25"]
+[WhiteElo "2775"]
+[BlackElo "2870"]
+[Annotator "Reeh,Oliver"]
+[PlyCount "62"]
+[EventDate "2013.11.09"]
+[EventType "match"]
+[EventRounds "12"]
+[EventCountry "IND"]
+[SourceTitle "CBM 158"]
+[Source "ChessBase"]
+[SourceDate "2014.01.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2014.01.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 exd5 8.
+e3 c4 9. Ne2 Nc6 10. g4 O-O 11. Bg2 Na5 12. O-O Nb3 13. Ra2 b5 14. Ng3 a5 15.
+g5 Ne8 16. e4 Nxc1 17. Qxc1 Ra6 18. e5 Nc7 19. f4 b4 20. axb4 axb4 21. Rxa6
+Nxa6 22. f5 b3 23. Qf4 Nc7 24. f6 g6 25. Qh4 Ne8 26. Qh6 {Played only six
+years ago, to many this is already a WCh classic: after 26...b2 27.Rf4 b1D+
+from the diagram position, Black got a fresh queen with check. But the
+challenge is to ensure the survival of his king afterwards. Up to it?} b2 27.
+Rf4 b1=Q+ {[%tqu "En","First from White's point of view. Black has got himself
+a new queen with check. Which piece must interpose?","","","g3f1","",10,"g2f1",
+"",0]} 28. Bf1 $1 {[%csl Gf1][%cal Gf4h4] The right blocker. Now Black must
+think of something to counter the threat Rh4.} ({The game saw} 28. Nf1 $2 Qe1
+$1 {[%csl Ge1][%cal Ge1h4]} ({After} 28... Qd1 $4 29. Rh4 Qh5 30. Rxh5 gxh5 {
+White's dream would have come true:} 31. Ne3 $1 {[%cal Ge3d5]} Be6 32. Bxd5 $3
+Bxd5 (32... Qa5 33. Be4 $18 {[%cal Ge4h7,Gh6h7]}) 33. Nf5 $1 $18 {[%cal Gf5e7,
+Gh6f8]}) {and White resigned since after} 29. Rh4 Qxh4 {his attack is gone. 
+With this victory Carlsen increased his lead in the match to 3-0 and with a
+draw in the following game clinched the title.}) ({Another nice variation was} 
+28. Kf2 Qc2+ 29. Ne2 Qf5 $1 $19 {[%csl Rf4,Gf5][%cal Gf5f2] and Black snatches
+the attacking rook.}) {[%tqu "En","Changeover - now you are to defend against
+White's mate threats on the kingside. First move.","","","b1d1","",10]} 28...
+Qd1 $1 {[%csl Gd1] That's one of the good things about being a queen up - one
+has a lot to sacrifice back!} 29. Rh4 {[%cal Gh6h7]} {[%tqu "En",
+"Continuation?","","","d1h5","",10]} Qh5 {[%csl Gh5][%cal Rh4h7] Blocking the
+h-file and 'forcing' White to capture whereupon another black piece can join
+the defence.} 30. Nxh5 gxh5 31. Rxh5 {[%tqu "En","And Black's last defensive
+move, please.","","","c8f5","Dank des verschwundenen Bauern g6 ist der Läufer
+in der Lage, den Punkt h7 zu decken.  Die Lage ist unklar. Weiß hat zwei
+Bauern für die Figur, aber sein Mattangriff ist erst einmal zum Stillstand
+gekommen. Dass der Computer 0.00 anzeigt, ist klar, doch vielleicht machen
+Ihnen diese Stellung ja trotzdem Lust, mal wieder ein bisschen zu
+analysieren!?",10]} Bf5 $1 {[%csl Yg6][%cal Gf5h7] As the pawn g6 has
+disappeared, the bishop is able to protect the point h7.  The situation is
+unclear. White has two pawns for the piece, but for the time being his mate
+attack has come to a standstill. Perhaps an opportunity to switch of the
+computer (0.00, of course!) and analyse the position with someone? Or just
+blitz it out? Anyway, have fun!} 0-1
+

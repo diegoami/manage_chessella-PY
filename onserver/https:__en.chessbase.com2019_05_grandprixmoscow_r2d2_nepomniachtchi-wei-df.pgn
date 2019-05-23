@@ -1,0 +1,84 @@
+[Event "Moscow FIDE GP"]
+[Site "?"]
+[Date "2019.05.21"]
+[Round "2"]
+[White "Nepomniachtchi, I."]
+[Black "Wei, Y."]
+[Result "1/2-1/2"]
+[ECO "C83"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "135"]
+[EventDate "2019.05.22"]
+
+{[%evp 0,135,51,20,17,17,19,-1,20,-27,-6,-35,45,-65,1,33,70,1,17,-49,21,-22,1,
+2,58,14,14,30,14,28,-9,-3,-3,-5,-5,-5,9,-31,-15,-3,47,45,49,52,54,69,38,46,60,
+55,81,68,62,58,76,76,60,61,56,48,61,48,48,64,61,62,74,5,7,64,86,95,94,98,98,
+102,102,102,119,121,115,112,120,122,126,126,126,116,119,116,119,113,118,99,99,
+99,99,108,99,92,105,105,104,92,93,93,99,93,93,98,99,90,104,100,104,90,92,94,85,
+85,84,85,85,85,85,85,85,85,85,85,121,104,104,85,85,85,85,85]} 1. e4 e5 2. Nf3
+Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. Nbd2 Be7
+(9... Nc5 {:} 10. c3 d4 (10... Be7 {exists too, but after} 11. Bc2 {I feel
+White must have a more pleasant position}) 11. Ng5 $5 {One of the most
+shocking moves in 'modern' opening theory to an impressionable 9-year-old me,
+learning chess in 2004!} dxc3 $6 (11... Qxg5 {was obviously tried too, and
+with best play Black is committing to a piece sacrifice.} 12. Qf3 O-O-O 13.
+Bxe6+ fxe6 14. Qxc6 Qxe5 15. b4 Qd5 $1 $44 {Grischuk,A-Anand,V Wijk aan Zee
+2005}) 12. Nxe6 fxe6 13. bxc3 Qd3 14. Nf3 (14. Bc2 $5 Qxc3 15. Nb3 $13 {
+was ultimately decided upon as White's best, and Black is in quite a bit of
+trouble here.}) 14... O-O-O 15. Qe1 Nxb3 16. axb3 Kb7 17. Be3 Be7 18. Bg5 (18.
+Qc1 $5 $40) 18... h6 (18... Rhe8 $11) 19. Bxe7 Nxe7 20. Nd4 Rxd4 21. cxd4 Qxb3
+22. Qe3 Qxe3 23. fxe3 Nd5 24. Kf2 Kb6 $44 {Black had enough compensation to
+draw in Kasparov,G -Anand,V New York 1995}) 10. c3 O-O 11. Bc2 f5 {So far
+following a game Anand-So from Tata Steel 2018.} (11... Bf5 $5 {was my
+suggestion in that previous annotation}) 12. exf6 {This move is less
+impressive than the other.} (12. Nb3 $1 {is still the best move for me.} Qd7
+13. Nfd4 Nxd4 14. Nxd4 c5 15. Nxe6 Qxe6 16. f3 Ng5 17. a4 (17. Bxg5 $5 Bxg5 18.
+f4 $14 {is similar, and here White would double on the d-file as soon as
+practical.}) 17... Rad8 (17... b4 $13 {is interesting and would be avoided by
+the previous note.}) 18. axb5 axb5 19. Bxg5 $6 {Losing the advantage.} ({
+Now it was time to try and exchange some rooks first.} 19. Ra7 Rd7 20. Rxd7
+Qxd7 21. Bxg5 Bxg5 22. f4 Bd8 23. b3 $14 {with the idea of c4}) 19... Bxg5 20.
+f4 {So we get here anyway! However, here Black has good play through the
+centre.} Be7 21. Kh1 d4 $1 {Black just about managed to avoid giving White the
+position type he wanted in Anand,V-So,W Tata Steel Masters 2018, and later
+held.}) 12... Nxf6 13. Re1 ({I have also looked at} 13. Nb3 {here but Black
+seems to be fine after the principled} Qd6 (13... Bg4 14. Qd3 $32 {was Anton
+Guijarro, D-Vidit,S Martuni 2016, where White soon got an advantage, but this
+position seems to suit him for stylistic rather than objective reasons.}))
+13... Qd7 14. a4 Bf5 (14... b4 $5 {seems critical}) 15. Bxf5 Qxf5 16. axb5 axb5
+17. Rxa8 Rxa8 18. Nf1 {I don't really agree with much of White's late opening
+play, but looking at some lines here (including the one that occurred) it
+seems Black's disconnected structure means he will face some concrete problems
+anyway. As has already been mentioned, these mini-matches encourage very
+circumspect decision-making.} Qd7 19. Bg5 Rd8 (19... b4 20. Ne3 bxc3 21. bxc3
+Ra5 {is reasonable from the point of view of minimising the number of
+weaknesses.}) 20. Ng3 $14 h6 21. Bxf6 Bxf6 22. Nh5 Qf5 23. Nxf6+ Qxf6 24. Qb3 {
+So White has nevertheless achieved something, and that in extremely safe
+fashion.} b4 25. cxb4 Nd4 26. Nxd4 Qxd4 27. Rd1 Qe5 28. g3 Kh8 29. Qc3 (29. Qe3
+$5 {basically leads to a 3v2, which is mathematically speaking better than the
+present position (since White has bad queenside pawns), but practically
+speaking it isn't, because there's not enough of a winning margin there.
+Nevertheless, White should try this version, because the pawn trades are
+almost inevitable and in the final position after queens come off in this line,
+Black will be slightly restricted in terms of space.} Qxb2 (29... Qxe3 30. fxe3
+Rb8 31. Rxd5 Rxb4 32. Rd2 $14 {is not as simple to draw as you might imagine})
+30. Qe7 Rb8 31. Qxc7 Qxb4 32. Qd7 Qe4 33. Qxd5 Qxd5 34. Rxd5 $14 {Black should
+hold this even if he's somehow not in time to fix the pawn structure
+favourably (...g6 meets Rd7.)}) 29... d4 30. Qd3 c6 31. b3 Qd6 32. Rc1 Rb8 33.
+h4 (33. Qe4 {is given by engines, but I would not be keen to let Black get} d3
+{on the board}) (33. Qf3 $1 {is seemingly the only way to get the 3v2 now,
+otherwise it will simply be case of Black taking back the b4-pawn.} Qd5 (33...
+d3 34. Rxc6 Qd4 35. Rc1 Rd8 36. Rd1 Qb2 37. Kg2 Qxb3 38. h4 $14) 34. Qxd5 cxd5
+35. Rc5 Rxb4 36. Rxd5 Rxb3 37. Rxd4 $14) 33... Rxb4 34. Qa6 Rb8 (34... Rxb3 $11
+{is actually totally fine. Now White gets the chance to have another mini-try.}
+) 35. Rxc6 Qd5 36. Rc8+ Rxc8 37. Qxc8+ Kh7 38. Qc4 Qf3 39. Qxd4 Qxb3 40. Qe4+
+Kh8 41. Kg2 Qf7 42. g4 Qf6 43. Kg3 $6 ({I have won almost the exact position
+after} 43. h5 {-which ensures that pawn endings are winning-but between
+players of this class, one would still not expect a decisive result.}) 43... g5
+44. hxg5 hxg5 45. Qf5 Qe7 46. Kf3 Kg7 47. Qe4 Qf6+ 48. Qf5 Qe7 49. Qd5 Qf6+ 50.
+Ke2 Qb2+ 51. Qd2 Qb5+ 52. Qd3 Qb2+ 53. Kf1 Qc1+ 54. Kg2 Qc6+ 55. f3 Qe6 56.
+Qd4+ Qf6 57. Qb4 Qe5 58. Kf2 Kf7 {Now there is nothing to try. With the king
+in this position and the favourable kingside structure, Black can even afford
+some kinds of queen swap.} 59. Qe4 Qb2+ 60. Ke3 Qc3+ 61. Ke2 Qb2+ 62. Kd3 Qb3+
+63. Kd4 Qb4+ 64. Ke5 Qb2+ 65. Qd4 Qe2+ 66. Qe4 Qb2+ 67. Qd4 Qe2+ 68. Qe4
+1/2-1/2

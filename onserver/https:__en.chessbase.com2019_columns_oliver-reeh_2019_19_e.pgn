@@ -1,0 +1,46 @@
+[Event "Neckar op-A 13th"]
+[Site "Deizisau"]
+[Date "2009.??.??"]
+[Round "7"]
+[White "Peralta, Fernando"]
+[Black "Graf, Alexander"]
+[Result "1-0"]
+[ECO "E58"]
+[WhiteElo "2559"]
+[BlackElo "2601"]
+[Annotator "Reeh,Oliver"]
+[PlyCount "65"]
+[EventDate "2009.04.09"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[SourceTitle "CBM 129 Extra"]
+[Source "ChessBase"]
+[SourceDate "2009.05.05"]
+[SourceVersion "2"]
+[SourceVersionDate "2009.05.20"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 Qc7 10. Bb2 Na5 11. cxd5 exd5 12. Ne5 c4 13. Bc2 Ne4 14. f3 Nd6
+15. a4 f6 16. Ba3 Re8 17. Ng4 Bxg4 18. fxg4 Ne4 19. Bxe4 Rxe4 20. g5 fxg5 21.
+Ra2 g4 22. Raf2 h6 23. Rf8+ Rxf8 24. Rxf8+ Kh7 25. Qf1 Qd7 26. Rf7 Qe6 27. Bf8
+Nc6 28. Rxg7+ Kh8 29. Rf7 {In view of the peculiar line-up of White's three
+pieces in the f-file, 29...Rxe3 in the diagram looks like a real problem for
+him. But actually he has a forced win. Spotted it?} Rxe3 {[%tqu "En","White to
+play and win.","Start an artistic way to make the Rf7 'disappear'!","","f7f6",
+"",10]} 30. Rf6 $1 {[%csl Gf6][%cal Gf6e6,Gf6h6] The rook enters the 6th rank
+with a double attack.} Qe4 (30... Qd7 31. Rxh6+ Kg8 32. Qf6 {[%csl Gf6,Gf8,Gh6]
+[%cal Gh6h8] and now the line-up of the three white pieces is "perfect"!}) {
+[%tqu "En","Please take on h6 only if you have seen the continuation following
+31...Kg8...","","","f6h6","",10]} 31. Rxh6+ Kg8 {[%tqu "En","Black still
+threatens ...Re1. What now?","Mate in 3!","","h6h8","",10]} 32. Rh8+ $1 {
+[%csl Gh8][%cal Rg8h8] Dragging Black's king onto a dark square.} Kxh8 {
+[%tqu "En","Finale!","","","f1f6","und angesichts von 34.Qg7++ gab Schwarz auf.
+Die gesamte Partie - mit dem Schlüsselmoment 20.g5! fxg5 21.Ra2!! nebst 22.
+Rf2 - ist Bestandtteil von Mihail Marins Strategiekolumne im neuen CBM 189:
+'Der typische Kampf zwischen dem schwarzfeldrigen Läufer von Weiß und dem
+Springer von Schwarz im Nimzo-Inder'.",10]} 33. Qf6+ {[%csl Gf6,Gf8,Rh8][%cal
+Gf6h8] Far more often one sees this mate pattern with White's bishop on h6
+instead of f8. In view of 34.Qg7++ Black resigned.} 1-0
+

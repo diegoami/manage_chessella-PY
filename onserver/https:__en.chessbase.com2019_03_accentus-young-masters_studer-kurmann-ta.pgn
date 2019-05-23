@@ -1,0 +1,29 @@
+[Event "Accentus Young Masters 2019"]
+[Site "Bad Ragaz"]
+[Date "2019.03.02"]
+[Round "4.2"]
+[White "Studer, Noel"]
+[Black "Kurmann, Oliver"]
+[Result "1-0"]
+[ECO "C36"]
+[WhiteElo "2494"]
+[BlackElo "2454"]
+[PlyCount "61"]
+[EventDate "2019.??.??"]
+
+{[%evp 12,61,-44,-93,0,-33,100,77,90,73,85,51,93,62,102,55,91,61,69,38,53,36,
+65,30,97,10,39,0,42,7,42,27,35,35,41,43,44,28,102,78,147,122,266,265,257,253,
+256,251,248,242,265,304]} 1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. Nc3 d5 5. exd5 Nxd5
+6. Nxd5 Qxd5 7. d4 Bg4 {C36: King's Gambit Accepted: 3 Nf3 d5} (7... Be7 $17)
+8. Bxf4 Bxf3 (8... Nc6 $15 9. Bxc7 Rc8) (8... Nc6 9. Bxc7 Be7 10. c3 O-O 11.
+Be2 b5 12. O-O b4 13. c4 Qd7 14. Bg3 Bf6 15. Ne5 Bxe2 16. Nxd7 Bxd4+ {1-0 (53)
+Jenni,F (2454)-Ragger,M (2687) Skopje 2018}) 9. Qxf3 $16 Qxf3 {White is better.
+} 10. gxf3 Bd6 11. Bb5+ Ke7 $146 ({Predecessor:} 11... Kf8 12. Be3 c6 13. Bd3
+Nd7 14. Kf2 {1/2-1/2 (73) Joerg,H (2178)-Buchner,R (2155) Bayern 2007}) (11...
+c6 12. Bxd6 cxb5 $11) 12. Bg5+ f6 13. Bd2 Nd7 14. O-O-O Nb6 15. h4 c6 16. Bd3
+Nd5 17. h5 Kf7 18. Rhg1 Rag8 $11 19. Bc4 g6 20. Bb3 $14 {[#] Strongly
+threatening c4.} b5 21. a4 $36 {[%mdl 2048] Black is under pressure.} b4 22. c4
+bxc3 $1 23. bxc3 Rb8 24. Kc2 f5 25. Rg2 Rb7 26. Rdg1 {[%cal Rh5g6]} Rhb8 27.
+hxg6+ $18 hxg6 28. Bxd5+ cxd5 29. Rxg6 Bf8 30. Ra6 Rd8 31. Rg5 {The f-pawn
+falls. Accuracy: White = 57%, Black = 34%.} 1-0
+

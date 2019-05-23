@@ -1,0 +1,73 @@
+[Event "Tata Steel Masters"]
+[Site "?"]
+[Date "2019.01.16"]
+[Round "5"]
+[White "Fedoseev, Vladimir"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "1/2-1/2"]
+[ECO "E36"]
+[WhiteElo "2724"]
+[BlackElo "2695"]
+[Annotator "DH"]
+[PlyCount "148"]
+[EventDate "2019.??.??"]
+[WhiteClock "0:17:03"]
+[BlackClock "0:12:17"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. e3 {This is
+a relatively rare move at this juncture. White modestly develops while hoping
+that his extra bishop will grant him chances for an advantage when the
+position later opens up.} (7. Nf3 {and}) (7. Bg5 {are both far more common. I
+have tested both of these moves recently, but Black appears to have worked out
+some convincing replies.}) 7... b6 8. cxd5 exd5 9. Bd3 Ba6 10. Ne2 (10. Bxa6 {
+featured in the game Nakamura-Anand, Norway Chess 2015:} Nxa6 11. Qd3 Qc8 12.
+Ne2 c5 13. b3 cxd4 14. exd4 Nc7 {with an equal position.}) 10... c5 11. b3 Ne4
+12. Qc2 Bxd3 13. Qxd3 Nc6 14. Bb2 cxd4 {Black resolves the central tension but
+willingly saddles himself with the famous insolated d-pawn. As compensation,
+he is ahead in development and his major pieces will be quick to find good
+squares.} 15. Nxd4 Nc5 16. Qd1 Nxd4 17. Bxd4 (17. Qxd4 $2 {would be met
+strongly by:} Qg5 $1 $17 {[%cal Gg5g2,Gc5b3]}) 17... Ne6 18. O-O Qh4 19. Bb2
+Rad8 20. Rc1 Rd7 21. f4 {Commital, and true to Fedoseev's style. White hints
+at a kingside attack though in truth this move is aimed at limiting the scope
+of Black's knight.} (21. Qf3 {might have been enough for a small (if somewhat
+symbolic) advantage:} Rfd8 22. Rfd1 Qe4 (22... d4 $6 23. g3 Qe7 24. exd4 $14)
+23. Kf1) ({moves such as} 21. Rc3 $5 {[%cal Gc3d3] were also on the radar.})
+21... Qe7 {This feels slightly too passive.} ({There was no reason to refrain
+from} 21... Nc5 $11 {[%cal Gc5e4] with the simple idea of bringing the knight
+round to the newly-created outpost on e4.}) 22. b4 $1 {Further restricting the
+black knight.} f6 (22... d4 {would have been an immediate attempt to liquidate
+the centre:} 23. e4 d3 $132) 23. Qb3 Qf7 24. Rfd1 Rfd8 25. h3 (25. Rc6 $1 $14 {
+[%cal Ga3a5] would keep an eye on the e6-knight and prevent Black's next.})
+25... Qg6 $1 26. a4 Qe4 $11 {Now play is balanced.} 27. a5 bxa5 28. bxa5 Kf7
+29. Kh2 h5 30. Bd4 Re7 31. Rc3 Rdd7 32. a6 h4 33. Qb2 Rc7 34. Qf2 Rxc3 35. Bxc3
+Rc7 36. Be1 Rc2 37. Rd2 Rxd2 38. Bxd2 Qd3 39. Bb4 Qc4 40. Be1 Qxa6 41. Qxh4 Qe2
+{[%csl Gh5]} 42. f5 Ng5 43. Qg3 $6 {Knowing Fedoseev, he was still habouring
+hopes of a victory here. However Black's queen and knight are simply too
+active.} ({It would have been pragmatic to try and force an immediate draw:} 
+43. Qa4 Qxe1 (43... Nf3+ 44. Kg3 {changes nothing:} Nxe1 45. Qd7+) 44. Qd7+ Kg8
+45. Qe8+ Kh7 46. Qh5+ {with perpetual check.}) 43... Kg8 44. Bc3 Qb5 $1 $15 {
+Vidit prevents any checks and prepares to push his a-pawn.} 45. Qc7 Ne4 46. Bd4
+$6 (46. Ba5 {was safer, blockading the a-pawn.}) 46... a5 $17 47. Qe7 a4 48.
+Bb2 Qb8+ 49. Kg1 Qc8 50. Kh2 Qb8+ 51. Kg1 Qc8 52. Kh2 Kh7 53. Qa7 Qf8 54. Bd4
+a3 55. Kg1 Qb4 56. Kh2 Qd6+ 57. Kg1 Qb4 58. Kh2 Qb3 59. Qa8 a2 60. Qe8 Qa3 {
+It is hard to criticise this, as Vidit has played superbly over the past dozen
+moves. Black could now have converted his advantage although the winning
+concept is still difficult to comprehend, even with engine assistance:} (60...
+Qb4 $1 {wins due to a strange type of zugzwang. White cannot give perpetual
+check, while it is impossible to keep both his king and bishop on the correct
+squares. One sample variation:} 61. Qh5+ Kg8 62. Qe8+ Qf8 63. Qa4 Qb8+ 64. Kg1
+Qb1+ 65. Kh2 Nd6 $1 {(preventing Qe8+ ideas and attacking f5)} 66. Qd7 Nxf5 67.
+Qe8+ Kh7 68. Qh5+ Nh6 $19 {and with a safe king the path to victory should be
+straightforward.}) 61. Ba1 $2 {allowing Black another chance.} (61. Bb2 $1 {
+draws, but once again this is difficult for the untrained human eye:} Qd6+ (
+61... Qxb2 62. Qh5+ Kg8 63. Qe8+) 62. Kg1 Qb4 63. Qh5+ Kg8 64. Qe8+ Qf8 65. Qa4
+$11 {and now, as opposed to the variation with 60...Qb4!, Black cannot gain
+time by checking the white king.}) 61... Qd6+ $2 {Letting the win slip for
+good.} (61... Qc5 {would win}) ({while} 61... Qb4 {is similar to the
+variations above:} 62. Qh5+ Kg8 63. Qe8+ Qf8 64. Qa4 Qb8+ 65. Kg1 Qb1+ 66. Kh2
+Nd6 $19) 62. Kg1 Qc5 63. Qg6+ Kg8 64. Qe8+ Qf8 65. Qa4 $1 {Now Black has no
+checks so he must abandon the a-pawn. Fedoseev now defends accurately to
+ensure the draw.} Qc8 66. Qxa2 Qc1+ (66... Qxf5 {should also eventually lead
+to a draw, although Black can press forever.}) 67. Kh2 Qc7+ 68. Kg1 Qc1+ 69.
+Kh2 Nd2 70. Bb2 Qe1 71. Qxd5+ Kh7 72. Bc3 Nf1+ 73. Kg1 Nd2+ 74. Kh2 Nf1+
+1/2-1/2

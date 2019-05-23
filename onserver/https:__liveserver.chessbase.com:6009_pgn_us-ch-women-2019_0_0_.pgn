@@ -1,0 +1,2938 @@
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.20"]
+[Round "1.1"]
+[White "Krush, Irina"]
+[Black "Nguyen, Emily"]
+[Result "1-0"]
+[ECO "D12"]
+[WhiteElo "2451"]
+[BlackElo "2143"]
+[Annotator "TA"]
+[PlyCount "81"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,81,32,37,18,20,17,26,22,20,27,30,21,27,0,10,13,6,0,0,-15,-11,-15,-9,
+-16,-8,-19,-14,-20,-16,-20,10,-20,-25,-51,-70,-77,-77,-72,0,0,0,-29,-45,-84,
+-84,-144,-87,-148,-125,-177,-128,-122,0,-146,-99,-125,-29,-22,-30,-33,450,410,
+1136,1093,1068,1003,5327,5318,5293,5265,29989,29990,29990,29991]} 1. d4 d5 2.
+c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 a6 6. Bd3 {D15: Slav Defence: 4 Nc3 a6 and
+gambit lines after 4 Nc3 dxc4} (6. Qb3 {with more complications.} b5 7. c5 Nbd7
+8. Nh4 Bg6 9. a4) 6... Bxd3 7. Qxd3 e6 8. O-O {White has an edge.} Bb4 9. a3
+Bxc3 10. bxc3 b5 11. cxd5 $146 ({Predecessor:} 11. cxb5 axb5 12. a4 Ne4 13. Ba3
+Rxa4 {1/2-1/2 (42) Ding,L (2816)-Vitiugov,N (2709) Shenzhen 2018}) 11... exd5
+12. Nd2 O-O 13. f3 Nbd7 14. e4 dxe4 15. fxe4 c5 16. Qf3 cxd4 17. cxd4 Nc5 18.
+Bb2 {And now e5 would win.} Na4 19. Qb3 $1 Ra7 20. Kh1 Rd7 21. d5 {Black must
+now prevent Bxf6.} Nxb2 22. Qxb2 Re8 $36 {[%mdl 2048] Black is really pushing.}
+23. Rf4 Nh5 (23... Qb6 $17) 24. Rf5 $11 Nf6 25. Qd4 Qe7 {[%cal Rf6e4]} 26. Re1
+Qxa3 27. h3 ({Better is} 27. Nf3) 27... Rc8 (27... Qd6 $142 28. Rc1 h6) 28. Re3
+(28. Rf3 $142 Qd6 29. Rfe3) 28... Qc5 29. Qd3 (29. Qxc5 $17 Rxc5 30. Rg3) 29...
+Qc2 30. Qd4 {Black should prevent Rxf6.} Qc5 31. Qd3 $1 Ne8 32. Rff3 Nd6 (32...
+f6 $17 {Strongly threatening ...a5.} 33. Nb3 Qc2) 33. e5 Nc4 34. Qf5 $1 {
+[%cal Rf5d7]} Nxe3 $4 {[%mdl 8192]} (34... Nxd2 $15 {keeps the upper hand.} 35.
+Qxd7 Nxf3 36. Rxf3 Qc1+ 37. Kh2 Qc7 38. Qxc7 Rxc7) 35. Qxd7 $18 Rf8 (35... Qc7
+$142 36. Qxc7 Rxc7) 36. e6 Qc1+ {[#]} 37. Kh2 $1 {[%cal Rf3f7]} Qxd2 38. exf7+
+Kh8 {[#]} 39. Rxe3 $1 {[%mdl 512]} Qf2 (39... Qxe3 40. Qd6) 40. Qe8 {[%cal
+Re8f8]} Qf4+ 41. Kg1 {Accuracy: White = 57%, Black = 40%.} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.20"]
+[Round "1.2"]
+[White "Zatonskih, Anna"]
+[Black "Gorti, Akshita"]
+[Result "1-0"]
+[ECO "E17"]
+[WhiteElo "2430"]
+[BlackElo "2272"]
+[Annotator "TA"]
+[PlyCount "111"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,111,9,19,12,31,37,33,28,54,13,18,8,3,2,0,9,37,33,38,27,36,34,29,20,
+23,7,18,0,20,0,8,0,0,0,8,17,23,-8,64,71,75,77,78,77,87,32,64,101,91,52,42,11,
+18,0,0,0,18,20,83,24,147,93,82,30,64,50,98,54,97,60,60,52,89,82,103,103,148,
+154,200,97,143,141,105,101,121,105,267,257,252,215,564,520,580,521,1771,1764,
+1910,1793,29984,29985]} 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6.
+O-O O-O 7. Re1 Na6 8. a3 {E17: Queen's Indian: 4 g3 Bb7 5 Bg2 Be7} (8. Nc3 Ne4
+9. h4 d6 10. Nxe4 Bxe4 11. Ng5 Bxg2 12. Kxg2 h6 13. Nf3 c5 14. d5 exd5 15. Qxd5
+Nc7 16. Qf5 {1/2-1/2 (74) Sargissian,G (2689)-Oparin,G (2613) St Petersburg
+2018}) 8... c5 9. d5 exd5 10. Nh4 $1 {[%cal Rc4d5] White is slightly better.}
+Nc7 11. Nc3 {[%cal Rc4d5]} Ne4 {Strongly threatening ...f5.} 12. Nxd5 Nxd5 13.
+cxd5 Bxh4 14. Bxe4 Be7 $146 ({Predecessor:} 14... Bf6 15. f4 d6 {1-0 (41)
+Bellahcene,B (2465)-Dill,X (2086) Basel 2016}) 15. Qc2 h6 16. Bg2 {Threatens
+to win with d6!} d6 17. e4 Re8 18. Be3 Qd7 19. f4 Bf6 20. Bf2 Rad8 21. Rad1 Ba6
+22. h3 h5 23. Kh2 g6 24. Be3 Bg7 25. Bd2 Bc8 (25... f5 $11) 26. Bc3 $14 Bxc3
+27. Qxc3 Qe7 28. e5 $1 h4 29. Rd2 (29. e6 $16) 29... dxe5 30. fxe5 Qg5 31. Rd3
+Bf5 32. gxh4 Qxh4 33. Rde3 Qd4 34. Qc1 Qf4+ 35. Kh1 Qf2 (35... Kf8 $11 {
+remains equal.}) 36. Rf1 ({White should play} 36. Rf3 $1 $16 {[%cal Rf3f2]} Qh4
+37. Rfe3) 36... Qc2 {[#]} (36... Qh4 $1 $11) 37. Qxc2 ({White should try} 37.
+Qe1 $1) 37... Bxc2 $16 38. Kh2 (38. h4 $16) 38... Bf5 39. Kg3 Kg7 40. Rc1 a5
+41. a4 Bd7 42. b3 Bc8 43. h4 Bb7 {[#]} 44. Rd1 $1 Rd7 45. Bf3 Rdd8 46. Re2 (46.
+d6 $18 {has better winning chances.} Bc8 47. Bg4 Bxg4 48. Kxg4) 46... Ba6 47.
+Ree1 Bb7 48. Kf4 Rh8 49. Rh1 Bc8 $2 (49... Rde8 $16) 50. h5 $18 Bf5 51. hxg6
+Rxh1 $2 (51... fxg6 52. Be4 Rxh1 53. Rxh1 Rf8) 52. Rxh1 ({Less strong is} 52.
+Bxh1 Bc2 $16) 52... Bxg6 53. Be4 Re8 54. Bxg6 fxg6 55. Ke4 g5 56. d6 {Accuracy:
+White = 46%, Black = 25%.} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.20"]
+[Round "1.3"]
+[White "Abrahamyan, Tatev"]
+[Black "Feng, Maggie"]
+[Result "0-1"]
+[ECO "C18"]
+[WhiteElo "2377"]
+[BlackElo "2199"]
+[Annotator "TA"]
+[PlyCount "98"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 26,98,0,0,0,0,0,0,0,0,0,0,0,0,47,43,57,55,72,74,78,64,55,21,22,16,25,25,
+31,30,55,45,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-54,-54,-73,-76,-144,-158,-157,-150,
+-183,-179,-281,-295,-349,-333,-347,-335,-364,-362,-456,-456,-462,-427,-673,
+-666,-1260,-933,-1150,-1116]} 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3
+Bxc3+ 6. bxc3 c5 7. Qg4 O-O 8. Bd3 Nbc6 9. Qh5 Ng6 10. Nf3 Qc7 11. Be3 c4 12.
+Bxg6 fxg6 13. Qg4 Qf7 14. Ng5 Qe8 {C18: French: 3 Nc3 Bb4: Main line: 7 h4 and
+7 Qg4} 15. h4 h6 16. Nh3 b5 {The position is equal.} 17. Nf4 Ne7 $1 {[#]} 18.
+a4 $146 ({Predecessor:} 18. Kd2 a5 19. Qh3 Bd7 20. Rab1 Qf7 21. f3 Rab8 22. Ne2
+{1/2-1/2 (53) Anand,V (2755)-Jussupow,A (2622) Bastia 2002}) 18... bxa4 19. Bc1
+Qf7 20. Rxa4 Qf5 21. Qxf5 gxf5 22. Ba3 Re8 23. Bxe7 Rxe7 24. Kd2 a5 25. Rb1
+Rea7 26. h5 Kf7 27. f3 Bd7 28. Ra3 a4 29. g4 ({Better is} 29. Kc1 $14) 29...
+fxg4 $11 30. fxg4 Kg8 31. Ke3 Ra6 32. Rg1 Rb8 33. g5 hxg5 34. Rxg5 {aiming for
+h6.} Kh7 35. Rg6 Rbb6 36. Rg1 (36. h6 $1 $11 gxh6 37. Ra1) 36... Be8 $1 $15 37.
+Ng6 Rb7 38. Nf8+ {[#]} (38. Rga1 $142) 38... Kh6 $1 $17 39. Ng6 {[#]} Rf7 $1
+40. Nf4 Rf5 41. Rb1 (41. Rga1 {was the only chance.}) 41... Bxh5 $19 42. Rb8 {
+Rh8+ is the strong threat.} Kg5 43. Nxh5 Kxh5 {[%mdl 4096] Endgame KRR-KRR} 44.
+Rb7 Rg5 45. Rb4 Rg2 {Black is clearly winning.} 46. Rb7 g5 47. Ra1 (47. Kf3
+$142 Rxc2 48. Rb8) 47... Rxc2 48. Rg7 {intending Rh1+.} Rxc3+ 49. Ke2 Kg4 {
+Accuracy: White = 32%, Black = 84%.} 0-1
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.20"]
+[Round "1.4"]
+[White "Eswaran, Ashritha"]
+[Black "Wang, Annie"]
+[Result "0-1"]
+[ECO "B20"]
+[WhiteElo "2234"]
+[BlackElo "2304"]
+[Annotator "TA"]
+[PlyCount "84"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,84,29,51,44,49,33,59,50,52,14,26,8,11,0,23,20,54,0,2,-1,-1,-31,-9,-24,
+-14,-31,-28,-98,-16,-58,-58,-66,-70,-79,-75,-71,-68,-80,-99,-135,-99,-124,-125,
+-147,-107,-126,-111,-179,-97,-122,-80,-105,-112,-119,-67,-186,-76,-85,-78,-131,
+-136,-137,-138,-154,-133,-135,-137,-602,-595,-606,-597,-1631,-1677,-29996,
+-29997,-29997,-476]} 1. e4 c5 2. Ne2 d6 3. g3 Nf6 4. Bg2 Nc6 5. c3 d5 (5... e6
+6. d4 Be7 7. d5 exd5 8. exd5 Ne5 9. f4 Ng6 10. c4 h5 11. h3 Bf5 12. Nbc3 Qd7 {
+1/2-1/2 (31) Ma,Q (2637)-Xu,Y (2536) Beijing 2017}) 6. exd5 {B20: Sicilian:
+Unusual White 2nd moves} Nxd5 7. d4 e6 8. O-O {White is slightly better.} Be7
+9. a4 $146 ({Predecessor:} 9. Nd2 cxd4 10. Nxd4 Nxd4 11. cxd4 O-O 12. Qb3 b6 {
+1/2-1/2 (38) Kalvach,L (1815)-Aytmukhametov,B (1000) Prague 2018}) 9... O-O 10.
+Na3 cxd4 11. Nxd4 Bf6 12. Nac2 Nce7 13. f4 ({White should play} 13. Re1 $14)
+13... Qc7 $11 14. Qf3 Bd7 15. Kh1 g6 16. Bd2 Rac8 17. Qf2 a6 18. Ne1 (18. Kg1
+$11) 18... Nc6 ({Better is} 18... Bxd4 $17 19. Qxd4 Nf5) 19. Ndf3 Na5 {[%cal
+Bc6a5,Ba5b3,Bb3d2][%mdl 32]} 20. Nd3 Nb3 21. Ra3 Nxd2 22. Nxd2 Bc6 23. Ne4 {
+Black must now prevent c4.} Bg7 24. Nec5 Nb6 25. Raa1 Rfd8 26. Rfd1 Nc4 {
+aiming for ...Bxg2+.} 27. Ne4 b6 28. Nb4 (28. Bf3 $17 {was worth a try.}) 28...
+Bb7 (28... Bxe4 $19 29. Bxe4 {[#]} Nxb2 $1 {[%mdl 512]}) 29. Qe2 a5 30. Nd3 Bc6
+31. Ndf2 Bd5 (31... Rxd1+ $17 32. Nxd1 Bb7) 32. Ng5 (32. Rab1 $15) 32... Bxg2+
+(32... Qc6 $19 {and Black stays clearly on top.} 33. Bxd5 exd5) 33. Kxg2 $17
+Qc6+ 34. Nf3 ({White should try} 34. Kh3) 34... Rxd1 35. Nxd1 Rd8 36. Kg1 Bf8
+37. Nd4 Bc5 38. Ne3 $2 {[%mdl 8192]} (38. Nf2 $17 Bxd4 39. cxd4 Rxd4 40. Rd1
+Rxd1+ 41. Qxd1) 38... Rxd4 $19 39. cxd4 Bxd4 {[%mdl 64] [#] Double Attack} 40.
+Rc1 Qe4 41. Qxc4 Bxe3+ 42. Kf1 Qf3+ {Accuracy: White = 24%, Black = 44%.} 0-1
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.20"]
+[Round "1.5"]
+[White "Sharevich, Anna"]
+[Black "Yu, Jennifer"]
+[Result "0-1"]
+[ECO "D30"]
+[WhiteElo "2282"]
+[BlackElo "2273"]
+[Annotator "TA"]
+[PlyCount "94"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,94,-6,0,-8,24,16,17,18,73,13,13,7,5,5,7,4,7,6,12,11,16,0,0,0,0,-13,0,
+-31,-8,-44,-8,-8,-8,-8,-9,-6,-5,-154,-150,-146,-137,-154,-11,-232,-227,-231,
+-222,-222,-202,-247,-227,-225,-190,-193,-200,-241,-219,-219,-158,-218,-212,
+-214,-221,-608,-596,-1041,-1047,-1039,-1039,-1039,-1039,-1025,-1015,-969,-979,
+-1008,-996,-987,-947]} 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nbd2 Be7 5. g3 O-O 6.
+Bg2 b6 7. cxd5 exd5 8. O-O Bb7 9. Ne5 Nbd7 {LiveBook: 10 Games. E06: Closed
+Catalan: Early deviations} (9... c5 10. b3 a5 11. Bb2 a4 12. dxc5 bxc5 13. Nd3
+Qb6 14. Rc1 Nbd7 15. Qc2 Rfc8 16. Rfd1 Rc7 17. Nf4 {0-1 (36) Ghaem Maghami,E 
+(2604)-Karpov,A (2644) Teheran 2009}) 10. b3 Ne4 $146 ({Predecessor:} 10... c5
+11. Bb2 Qc7 12. Nxd7 Nxd7 13. dxc5 bxc5 14. e4 d4 15. Rc1 Qd8 16. Nc4 a5 {
+1/2-1/2 (51) Tabatt,H (2315)-Dietz,H (2293) Germany 2009}) 11. Nxe4 dxe4 {
+The position is equal.} 12. Qc2 Nf6 (12... Nxe5 $11 {remains equal.} 13. dxe5
+Qd5) 13. Bb2 (13. Bg5 $16) 13... Bd6 $11 14. Nc4 Re8 15. Rac1 Qe7 16. Nxd6 cxd6
+17. Qc7 Nd5 18. Qxe7 Rxe7 19. Ba3 Rd8 20. e3 b5 {[%cal Bb6b5,Bb5b4][%mdl 32]}
+21. Rfe1 f5 22. f3 b4 23. Bb2 Ba6 24. fxe4 fxe4 25. a3 Bd3 26. axb4 Nxb4 {
+White must now prevent ...Nc2.} 27. Red1 (27. Rc3 $1 $11) 27... Nc2 $1 $17 28.
+Rd2 Nxe3 29. Bh3 g5 {[#]} (29... h6 $17 {next ...Rb8 is good for Black.} 30.
+Ba3 Rb7 31. Be6+ (31. Kf2 Rf8+ 32. Kg1 Rb6 $17) 31... Kh8) 30. Re1 $2 {[#]} (
+30. d5 $1 $11 {[%mdl 512]}) 30... g4 $1 $19 {[%cal Rg4h3]} 31. Bg2 Nxg2 32.
+Kxg2 Rb7 33. d5 Rxb3 34. Bd4 a6 35. Rf2 Rf8 36. Rxf8+ Kxf8 {[%mdl 4096]
+Endgame KRB-KRB} 37. Rc1 Be2 {Threatens to win with ...e3.} 38. Rc8+ (38. Kf2
+$17 Bb5 39. Rc8+ Ke7 40. Rc7+ Bd7 41. Rc4) 38... Ke7 {aiming for ...e3.} 39.
+Rc7+ Kd8 40. Rxh7 $2 {[#]} (40. Rc3 Rb5 41. Rc6) 40... e3 $1 {( -> ...Bf3+).
+Black is clearly winning.} 41. Rf7 Rd3 42. Bxe3 Rxe3 {KRB-KR} 43. h4 Bf3+ 44.
+Kf2 Re2+ 45. Kf1 Re7 46. Rf8+ Kc7 47. Rf4 Kb6 {Precision: White = 42%, Black =
+61%.} 0-1
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.20"]
+[Round "1.6"]
+[White "Yip, Carissa"]
+[Black "Foisor, Sabina-Francesca"]
+[Result "1-0"]
+[ECO "C28"]
+[WhiteElo "2279"]
+[BlackElo "2276"]
+[Annotator "TA"]
+[PlyCount "117"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,117,0,4,0,0,0,15,8,3,-7,-1,0,0,0,18,0,9,3,22,17,4,0,0,-14,0,-9,0,-19,
+-16,-20,-17,-42,-25,-20,0,0,0,-23,-2,-1,8,-51,0,0,0,0,0,0,0,0,45,39,120,80,72,
+38,183,158,195,119,117,117,117,117,116,116,99,99,99,0,7,0,1292,1252,1289,1293,
+1293,1278,1176,1245,1210,1231,1199,1195,1168,1154,1122,1087,5357,5339,5219,
+5072,3957,3729,5310,4533,6199,5371,5189,2292,29974,29975,29987,29979,29979,
+29977,29987,29988,29990,29984]} 1. e4 e5 2. Bc4 Nc6 3. Nc3 Nf6 4. d3 Bb4 5. Nf3
+d6 6. a3 {C28: Vienna Game: 2...Nf6 3 Bc4 Nc6} (6. O-O Bxc3 7. bxc3 h6 8. Nd2
+O-O 9. Bb3 Be6 10. Nc4 a5 11. Ne3 d5 12. exd5 Nxd5 13. Bxd5 Bxd5 14. f4 exf4
+15. Rxf4 Be6 16. Ba3 Re8 17. Qf3 Ne7 18. Rd4 {1/2-1/2 (18) Zvjaginsev,V (2660)
+-Grischuk,A (2774) Berlin 2015}) 6... Bxc3+ 7. bxc3 Ne7 8. O-O $146 {The
+position is equal.} ({Predecessor:} 8. Bg5 Ng6 9. Nh4 Nxh4 10. Bxh4 h6 11. Rb1
+Rb8 12. Qf3 Be6 13. Bb3 c5 14. Bxf6 Qxf6 15. Qxf6 gxf6 {1/2-1/2 (34) Oblitas
+Guerrero,C (2404)-Lima,D (2550) Sao Paulo 2001}) 8... Ng6 9. Re1 O-O 10. h3 Be6
+11. Bb3 c5 12. Rb1 Bxb3 13. cxb3 h6 14. b4 b6 15. bxc5 dxc5 16. Qc2 Rc8 17. Be3
+Nh5 18. Rbd1 Qf6 19. Kh2 Nhf4 20. Qa4 Rc7 21. d4 cxd4 22. cxd4 exd4 23. Bxd4
+Qe6 24. Qb5 Rfc8 25. Ba1 ({Better is} 25. Be3 $11) 25... Rc5 (25... Qa2 $15)
+26. Qb2 $11 {[%csl Ga1][%cal Rb2g7] [#]} f6 {Threatens to win with ...Rh5.} 27.
+Nd4 Qf7 28. Nf5 Rc2 29. Qd4 Ne5 {aiming for ...Nf3+!} 30. Qe3 Nfg6 (30... Neg6
+$14) 31. Bxe5 Nxe5 32. Qg3 $36 {[%mdl 2048] Black is under pressure.} Qc7 ({
+Black should try} 32... Kh7 $1 $14) 33. f4 $18 Rc3 {[#]} 34. Re3 (34. Qh4 $1
+$18) 34... Rxe3 $16 35. Nxe3 {Nd5 is the strong threat.} Nc4 36. Nxc4 Qxc4 {
+[%mdl 4096] Endgame KQR-KQR} 37. Rd7 $1 {[%csl Gd7,LRa7,LRg7][%cal Rg3g7]} g5
+38. fxg5 hxg5 39. Qg4 (39. Qd6 $16 {Intending Qe7 and mate.} Qxe4 40. Qxf6 Qf4+
+41. Qxf4 gxf4 42. Rxa7) 39... Rc7 $11 40. Rd8+ Kf7 $2 {[%mdl 8192]} (40... Kg7
+$11) 41. Qh5+ $18 Ke6 42. Qe8+ Re7 43. Qg8+ Rf7 44. Rc8 Qb5 45. Re8+ Qxe8 46.
+Qxe8+ {KQ-KR} Re7 47. Qc6+ Kf7 48. Kg3 Kg6 49. Kf3 Kg7 50. Qd6 Kf7 51. g3 Re5
+52. Qd7+ Re7 53. Qd5+ Kg7 54. h4 gxh4 55. gxh4 {White mates.} Rc7 56. Kg4 Re7
+57. Kf4 Rf7 58. h5 Rc7 59. Qf5 {Accuracy: White = 56%, Black = 30%.} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.21"]
+[Round "2.1"]
+[White "Wang, Annie"]
+[Black "Krush, Irina"]
+[Result "1/2-1/2"]
+[ECO "E59"]
+[WhiteElo "2304"]
+[BlackElo "2451"]
+[Annotator "TA"]
+[PlyCount "73"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,73,-59,-58,-94,0,0,0,0,-8,-15,-8,-9,-6,-6,-6,-4,-4,-12,-6,-34,0,0,0,
+-10,-11,-8,-11,-8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 d5 2.
+c4 e6 3. Nc3 Bb4 4. Nf3 Nf6 5. e3 O-O 6. Bd3 c5 7. O-O Nc6 8. a3 Bxc3 9. bxc3
+dxc4 10. Bxc4 Qc7 11. Qe2 e5 12. d5 e4 {Threatens to win with ...Ng4.} 13. dxc6
+{[#] E59: Nimzo-Indian: Rubinstein: Main Line: 7...Nc6 8 a3 Bxc3 9 bxc3 dxc4}
+exf3 (13... Ng4 $1 $17 14. g3 exf3 15. Qxf3 Ne5) 14. Qxf3 $11 Bg4 15. Qg3 Qxc6
+16. f3 Be6 17. Be2 (17. Bxe6 Qxe6 18. e4 Rfd8 19. Be3 b6 20. Rad1 Rd7 21. Rxd7
+Qxd7 {0-1 (48) Leniart,A (2502)-Hracek,Z (2592) Katowice 2017}) 17... Nd5 $146
+({Predecessor:} 17... Rad8 18. e4 Ne8 19. a4 b6 20. Bb5 Qb7 {1-0 (40) Medic,M 
+(2271)-Heinatz,G (2220) Chur 2010}) 18. Bd2 Nb6 19. e4 Bc4 20. Qf2 Rfd8 21. Be3
+Rd7 22. Rfd1 {The position is equal.} Bxe2 23. Qxe2 Rad8 24. Rxd7 Rxd7 25. Rb1
+Na4 26. Qc2 h6 27. c4 a6 28. Qb3 b6 29. h3 Rd6 30. Rd1 Rxd1+ 31. Qxd1 b5 32.
+Qd8+ Kh7 33. cxb5 axb5 34. Qe7 Kg8 35. Qd8+ Kh7 36. Qe7 Kg8 37. Qd8+ {Accuracy:
+White = 84%, Black = 78%.} 1/2-1/2
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.21"]
+[Round "2.2"]
+[White "Abrahamyan, Tatev"]
+[Black "Zatonskih, Anna"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2377"]
+[BlackElo "2430"]
+[Annotator "TA"]
+[PlyCount "62"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,62,27,39,12,40,22,39,25,34,-22,27,27,27,23,17,10,23,14,22,21,33,12,
+38,20,39,20,22,22,42,27,60,54,61,57,50,53,33,27,44,22,11,0,0,0,0,0,0,0,0,-12,
+-10,-11,-10]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nf6 6. d4 Be7
+7. Bg5 {C42: Petroff Defence: 3 Nxe5 and unusual White 3rd moves} (7. Bd3 O-O
+8. O-O Nc6 9. Re1 Nb4 10. Bc4 d5 11. Bb3 c6 12. Ne2 Ne4 13. c3 Na6 14. Ng3 Nd6
+15. Bc2 Nc7 {1/2-1/2 (33) Giri,A (2780)-Yu,Y (2764) Shenzhen 2018}) 7... Nbd7
+8. Qd2 h6 9. Bf4 $146 {White is slightly better.} ({Predecessor:} 9. Be3 c6 10.
+h3 Qc7 11. Bd3 d5 12. O-O-O Nf8 13. Ne5 Ne6 14. f4 Bd6 {1-0 (34) Solovjov,A 
+(2191)-Shvidko,E (2062) Bratsk 2016}) 9... Nb6 10. d5 ({Better is} 10. Bd3 $14)
+10... c6 11. dxc6 bxc6 12. Bd3 O-O 13. O-O Re8 $1 14. Rfe1 {Strongly
+threatening Bxh6.} Bd7 15. h3 Bf8 16. Rxe8 Qxe8 17. Re1 Qc8 18. Ne4 (18. Bf1 {
+is more complex.} d5 19. Be5 Be7 20. a4 Be6 21. Nd4) 18... Nxe4 19. Bxe4 Qb7
+20. b3 ({Not} 20. Bxd6 $2 Nc4 $19) 20... d5 21. Bd3 Re8 22. Rxe8 Bxe8 23. Qe2
+Qa8 24. a4 Nd7 25. Nd4 (25. c4 {looks sharper.} dxc4 26. Bxc4 Qd8 27. Qd3 Qe7
+28. a5) 25... Nc5 {The position is equal.} 26. Nf5 $36 {[%mdl 2048] White has
+some pressure.} Nxd3 27. Qxd3 Bd7 28. Ne3 Qb7 29. c4 dxc4 30. Nxc4 Be6 31. Be3
+Bd5 {Accuracy: White = 51%, Black = 75%.} 1/2-1/2
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.21"]
+[Round "2.3"]
+[White "Yu, Jennifer"]
+[Black "Eswaran, Ashritha"]
+[Result "1-0"]
+[ECO "A61"]
+[WhiteElo "2273"]
+[BlackElo "2234"]
+[Annotator "TA"]
+[PlyCount "79"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,79,73,60,35,43,49,35,30,30,14,54,66,59,70,66,43,72,0,8,4,20,20,20,20,
+27,20,21,18,47,39,104,64,50,75,221,210,256,125,600,602,595,585,553,514,529,540,
+1090,1119,1945,1860,2981,2920,29988,29989,29989,29988,29988,29988,29989,29990]
+} 1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bf4 a6 8. a4
+Bg7 9. h3 O-O 10. e3 Nh5 11. Bh2 f5 12. Bd3 {A61: Modern Benoni: Nf3 without
+early e4} (12. Be2 f4 13. Qd2 Bh6 14. e4 Bg7 15. O-O Nd7 16. Ne1 Ndf6 17. Nd3
+Qe8 18. Rfe1 g5 19. e5 dxe5 {1-0 (32) So,W (2762)-Van Wely,L (2667) Wijk aan
+Zee 2015}) 12... Qe7 13. O-O Nd7 14. Re1 {White is slightly better.} Ne5 15.
+Be2 Nf7 $146 ({Predecessor:} 15... Nxf3+ 16. Bxf3 Nf6 17. e4 fxe4 18. Bxe4 {
+1-0 (44) Villar Reymundo,J (2185)-Rojas Keim,L (2340) Santa Eulalia de Roncana
+2018}) 16. a5 Bd7 17. Nd2 Nf6 18. Nc4 Ne4 19. Na4 (19. Nxe4 $16 fxe4 20. Qb3)
+19... Qh4 $11 20. Rf1 Rae8 21. Nab6 Bb5 22. Qe1 Qe7 23. Ra3 Nf6 24. b4 {
+[%cal Bb2b4,Bb4c5][%mdl 32]} Qc7 25. Rb3 g5 ({Better is} 25... Rd8 $14) 26. Qb1
+{aiming for Nxd6!} Ne4 27. Rc1 Ne5 {[#]} (27... g4 $16) 28. bxc5 $1 $18 Nxc4
+29. Bxc4 (29. Nxc4 $18 {is more deadly.} Bxc4 30. Bxd6 (30. Rxc4 Nxc5 31. Rb6
+Be5 $14) (30. Rxb7 Qxb7 31. Qxb7 Bxe2 $16) 30... Qxa5 31. Bxc4 (31. Rxc4 Nd2
+$18)) 29... Be5 $2 {[%mdl 8192]} (29... f4 $16) 30. Bxe5 Rxe5 31. cxd6 Qxd6 32.
+Bxb5 axb5 33. Rxb5 Qh6 34. Nd7 {[%mdl 64] [#] Discovered Attack} Qh4 35. Qb2
+Re7 36. Nxf8 Kxf8 37. Rxb7 {White mates.} g4 38. Rc8+ Kf7 39. Rcc7 Rxc7 40.
+Rxc7+ {Accuracy: White = 74%, Black = 21%.} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.21"]
+[Round "2.4"]
+[White "Gorti, Akshita"]
+[Black "Yip, Carissa"]
+[Result "0-1"]
+[ECO "A05"]
+[WhiteElo "2272"]
+[BlackElo "2279"]
+[Annotator "TA"]
+[PlyCount "46"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,46,28,54,15,37,25,56,24,50,56,54,58,58,60,61,64,72,22,49,0,0,-10,0,0,
+0,-132,-132,-133,-129,-285,-273,-230,7,14,9]} 1. Nf3 Nf6 2. e3 g6 3. d4 Bg7 4.
+c4 O-O 5. Be2 d6 6. Nc3 c6 7. O-O a6 8. Qc2 {E61: King's Indian: Early
+deviations for White, including Smyslov System} (8. d5 b5 9. a3 bxc4 10. Bxc4
+Bb7 11. Qb3 Nbd7 12. dxc6 Bxc6 13. Nd4 Qc7 14. Nxc6 Qxc6 15. Nd5 Rae8 {1-0 (35)
+Vakhidov,J (2471)-Al Modiahki,M (2549) Dubai 2014}) 8... Nbd7 9. Rd1 Qc7 $146 (
+{Predecessor:} 9... b5 10. cxb5 cxb5 11. b3 Nb6 12. Bb2 Bb7 {1/2-1/2 (12)
+Smolak,R-Dulian,K Werynia 1997}) 10. b4 {White is slightly better.} c5 11. bxc5
+dxc5 12. d5 Ne5 13. Nxe5 Qxe5 14. f4 Qf5 15. Bd3 Qh5 16. Bd2 (16. Rb1 $14)
+16... e5 $11 {...exf4 is the strong threat.} 17. dxe6 Bxe6 18. Rab1 Rad8 19.
+Ne4 (19. h3 $11) 19... Nxe4 $17 20. Bxe4 {[#]} Qe2 $1 21. Bxb7 $2 {[#]} (21.
+Bf3 $17 Qxc4 22. Qxc4 Bxc4 23. Ba5 Rxd1+ 24. Rxd1) 21... Bf5 $1 $19 {[%cal
+Rf5c2]} ({Inferior is} 21... Qxc4 22. Qxc4 Bxc4 23. Be1 $11) (21... Bxc4 22.
+Bf3 $11) 22. e4 Bh3 $2 ({Black should try} 22... Bg4 $19 23. e5 Rd4) 23. e5 $11
+Bf5 {[%mdl 32832] Skewer. Accuracy: White = 37%, Black = 57%. . Loss on time!?}
+0-1
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.21"]
+[Round "2.5"]
+[White "Feng, Maggie"]
+[Black "Nguyen, Emily"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2199"]
+[BlackElo "2143"]
+[Annotator "TA"]
+[PlyCount "69"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,69,23,14,33,13,11,19,17,22,12,26,51,49,57,51,54,41,66,40,44,42,38,56,
+39,45,61,56,53,53,50,50,31,13,9,9,12,14,14,10,37,12,38,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0]} 1. Nf3 d5 2. c4 c6 3. g3 Nf6 4. Bg2 g6 5. b3 {[%cal Bb2b3,Bb3c4]
+[%mdl 32]} Bg7 6. Bb2 O-O 7. O-O b5 {A11: English Opening: 1...c6} (7... Bg4 8.
+d3 Bxf3 9. Bxf3 e6 10. Nd2 Nbd7 11. Qc2 a5 12. a3 Qe7 13. Bg2 Rfd8 14. e3 Ne8
+15. d4 b5 16. a4 b4 17. Rac1 Nd6 18. Rfd1 Rac8 19. Qd3 {1/2-1/2 (30) Grischuk,
+A (2771)-Kamsky,G (2666) St Petersburg 2018}) 8. Qc2 bxc4 9. bxc4 Nbd7 $146 ({
+Predecessor:} 9... Ba6 10. d3 Nbd7 11. Nbd2 Re8 12. Ne5 Nxe5 13. Bxe5 Qa5 14.
+Nf3 Nd7 15. Bxg7 Kxg7 {1/2-1/2 (34) Parliaros,D-O'Kelly de Galway,A Amsterdam
+1954}) 10. d3 Rb8 11. Nbd2 Bb7 12. Rab1 c5 13. cxd5 Bxd5 14. Nc4 Nb6 15. Nfd2
+Nxc4 16. Nxc4 Bxg2 17. Kxg2 Qd5+ 18. f3 h5 19. Be5 Rb4 {[#] Threatens to win
+with ...Rxc4!} 20. Bc3 Rbb8 21. Rxb8 (21. Rb3 {is interesting.} Rxb3 22. axb3
+Qd7 23. Qb2 Bh6 24. Bxf6 exf6 25. Qxf6 Re8 26. Re1) 21... Rxb8 22. Rb1 Rxb1 23.
+Qxb1 Nd7 24. Bxg7 Kxg7 25. Qb2+ Kh7 26. Qa3 (26. Kf2 {with more complications.}
+g5 27. Ne3 Qd4 28. Qxd4 cxd4 29. Nf5) 26... Nb6 (26... Qe6 {feels hotter.} 27.
+Kf1 Qh3+ 28. Kg1 Qe6 29. Qb2 f6) 27. Qxa7 Nxc4 {The position is equal.} 28.
+dxc4 Qxc4 29. Qxe7 Qxa2 $14 {[%mdl 4096] Endgame KQ-KQ} 30. Kf2 Qd5 31. Qf6 c4
+32. Ke3 Kg8 33. Qd4 Qb5 34. Qc3 Qc5+ 35. Qd4 {Accuracy: White = 56%, Black =
+66%.} 1/2-1/2
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.21"]
+[Round "2.6"]
+[White "Foisor, Sabina-Francesca"]
+[Black "Sharevich, Anna"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2276"]
+[BlackElo "2282"]
+[Annotator "TA"]
+[PlyCount "138"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,138,22,15,15,29,27,27,32,40,32,38,35,50,50,75,45,78,56,58,33,46,32,19,
+22,29,16,16,14,32,0,0,-3,0,-37,-10,-8,-8,0,-3,-5,11,5,52,-8,-2,-81,-80,-276,
+-268,-262,-258,-261,-257,-290,-247,-298,-263,-281,-213,-206,-149,-199,-96,-294,
+-157,-154,-108,-110,0,-88,-66,-70,-47,-28,-22,-64,-52,-210,-209,-168,-116,-144,
+-90,-289,-289,-289,-289,-289,-289,-289,-289,-289,-289,-289,-289,-289,-289,-289,
+-289,-289,-289,-289,-289,-289,-289,-289,-289,-289,-289,-289,-289,-289,-289,
+-289,-289,-289,-289,-289,-289,-289,-207,-207,-207,-207,-207,-207,-207,-207,
+-207,-207,-207]} 1. d4 d5 2. Bg5 c6 3. Nf3 Bf5 4. e3 Qb6 (4... Nd7 5. c4 Ngf6
+6. cxd5 cxd5 7. Nc3 Ne4 8. Nxe4 Bxe4 9. Nd2 Bg6 10. Qb3 f6 11. Bf4 e5 12. Bg3
+exd4 13. exd4 {1/2-1/2 (90) Andreikin,D (2743)-Wen,Y (2611) Moscow 2016}) 5. b3
+Nf6 6. Bxf6 {D00: 1 d4 d5: Unusual lines} exf6 7. Bd3 Bxd3 8. Qxd3 {White has
+an edge.} Na6 9. O-O Be7 10. c4 dxc4 $146 ({Predecessor:} 10... O-O 11. Nc3 Nc7
+12. Qc2 {1/2-1/2 (27) Demian,M-Mrazik,L Slovakia 1999}) 11. bxc4 O-O 12. Nbd2
+Rad8 13. Qb3 Qc7 14. c5 b6 15. Qa4 (15. Qc4 $5 {[%cal Rc4a6]} Nb8 16. cxb6 axb6
+17. Rfc1 $16) 15... Nb8 16. cxb6 axb6 17. Rac1 Rd5 18. Qc2 Qa7 19. Nb3 Rfd8 20.
+e4 R5d7 21. Qe2 Ba3 22. Rc3 Bb4 23. Re3 $1 Qa6 24. Qc2 c5 25. d5 Re7 26. Nh4 (
+26. a3 $1 $14 Ba5 27. Rb1 (27. Nxa5 Qxa5 28. Rb1 Nd7 $14)) 26... g6 $1 $11 {[#]
+} 27. Qb2 (27. a3 $1 $11 {[%mdl 512]} Ba5 (27... Qxa3 28. Ra1) 28. Rb1 (28.
+Nxa5 Qxa5 29. Nf3 Nd7 $11)) 27... Nd7 $17 28. f4 $2 (28. Nf3 $17) 28... Rde8
+$19 29. Qc2 c4 30. Nd4 Bc5 31. Nhf3 b5 {[%cal Bb6b5,Bb5b4][%mdl 32]} 32. Rfe1
+Qb6 33. Qd2 b4 34. Kh1 c3 35. Qd3 Ra8 (35... Qd6 $19 {is more deadly.} 36. f5
+Bxd4 37. Qxd4 Rc8) 36. Nc6 $2 (36. R3e2 $17) 36... Ree8 ({Less strong is} 36...
+Rxa2 37. Nxe7+ Bxe7 38. e5 $11) (36... Bxe3 $19 37. Nxe7+ Kf8 38. Rxe3 Qc5) 37.
+R3e2 $17 Nb8 38. Ncd4 Nd7 ({Black should play} 38... Bxd4 $17 39. Nxd4 Qa6 40.
+Qxa6 Nxa6) 39. Nb3 (39. Nc6 $1 $11) 39... Bf8 40. e5 fxe5 41. fxe5 Nc5 $36 {
+[%mdl 2048] Black is pushing.} 42. Qd4 Qb5 {Hoping for ...Nxb3.} 43. e6 $2 (43.
+d6 $15 Nd3 44. Rd1) 43... fxe6 $19 44. dxe6 {aiming for e7.} Nxb3 (44... Nd3
+$19 45. Rg1 Be7) 45. axb3 $17 {[#]} Bg7 (45... Be7 $142 $1 46. Qe4 Ra6) 46. Qd7
+$2 (46. Qf4 $17) 46... Qxd7 $19 47. exd7 Rxe2 48. Rxe2 {[%mdl 4096] Endgame [#]
+KRB-KRN} Kf8 $1 49. Ne1 Rd8 50. Re8+ Rxe8 51. dxe8=Q+ Kxe8 {KB-KN} 52. Kg1 Kd7
+53. Kf2 Ke6 54. Ke3 Kd5 55. Nc2 Bf8 56. Kd3 Bc5 57. Ne1 g5 58. h3 Ke5 59. Nc2
+Kf4 60. Ke2 Ke4 61. Ne1 Be7 62. Nc2 h5 63. Ne1 g4 64. hxg4 hxg4 65. Nc2 {
+Black is clearly better.} Kf4 66. Ne1 Kg3 67. Kf1 Bc5 68. Nc2 Kf4 69. Ke2 Ke4 {
+Accuracy: White = 51%, Black = 73%.} 1/2-1/2
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.22"]
+[Round "3.1"]
+[White "Krush, Irina"]
+[Black "Yu, Jennifer"]
+[Result "0-1"]
+[ECO "B13"]
+[WhiteElo "2451"]
+[BlackElo "2273"]
+[Annotator "TA"]
+[PlyCount "80"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,80,4,14,6,25,21,20,10,14,12,26,43,55,58,85,0,0,8,6,0,63,31,31,31,31,
+31,39,0,34,-10,42,37,91,46,92,56,80,50,83,78,105,45,83,0,0,-136,-83,-66,-63,
+-89,-103,-258,-234,-866,-889,-911,-911,-901,-851,-878,-859,-857,-865,-1264,
+-660,-1280,-1260,-1033,-950]} 1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3
+Nc6 6. Bg5 Be6 7. a3 Qd7 (7... dxc4 $2 8. Bxf6 Qa5 9. Be5 $18) 8. Be2 {B13:
+Caro-Kann: Exchange Variation and Panov-Botvinnik Attack} (8. Nge2 dxc4 9. Bxf6
+exf6 10. d5 O-O-O 11. dxc6 Qxc6 12. Qa4 Qb6 13. Qb5 Qc7 14. Ng3 a6 15. Qa4 Qf4
+{1-0 (39) Inarkiev,E (2693)-Dreev,A (2670) Moscow 2018}) 8... Rd8 ({Of course
+not} 8... dxc4 $6 9. Bxf6 gxf6 10. d5 $16) 9. Bxf6 exf6 10. c5 {The position
+is equal.} g6 11. Nf3 h5 $146 ({Predecessor:} 11... Bh6 12. b4 a6 13. O-O O-O
+14. Rb1 Rfe8 15. a4 a5 {1-0 (64) Sanchez Rodenas,J (2342)-Fetisov,A (2429)
+ICCF email 2014}) 12. b4 {[%cal Bb2b4,Bb4b5,Bb5b6][%mdl 32]} Bh6 13. b5 Ne7 14.
+h4 (14. a4 $16) 14... Kf8 15. a4 Kg7 16. a5 Nc8 (16... Bg4 $11) 17. b6 a6 18.
+Na2 Ne7 19. Nb4 Qc8 20. Ra3 Rde8 21. Rc3 Bd7 (21... Bg4 $11) 22. O-O $14 Bc6 (
+22... Bf4 $14) 23. Ne1 Nf5 24. Nxc6 Qxc6 {[#]} 25. Nc2 $1 Nxh4 26. Nb4 Qe6 27.
+Bd3 ({White should play} 27. Bf3 $16) 27... Bf4 28. c6 ({White should try} 28.
+Bb1 $16) 28... Bd6 $11 29. Rc5 (29. Nc2 $1 $11 {keeps the balance.} bxc6 30.
+Bxa6) 29... Bxc5 $40 {[%mdl 128] White is in trouble.} (29... f5 $142 {White
+must now prevent ...Qf6.} 30. cxb7 Qf6) 30. dxc5 $17 bxc6 31. Nxa6 Qe5 {
+Strongly threatening ...Qg5.} 32. Nc7 $2 {[#]} (32. b7 $17 {might work better.}
+) 32... Re7 $1 $19 {[%cal Be8e7,Be7e1,Be1a1][%mdl 32]} 33. Qa4 $2 (33. a6 d4
+34. a7 Qxc5 35. a8=Q Rxa8 36. Nxa8) 33... Qg5 {[%csl Gh4][%cal Rg5g2] Black is
+clearly winning.} 34. g3 Nf3+ 35. Kg2 Ne1+ 36. Rxe1 Rxe1 37. Qf4 Qg4 38. f3 Qd7
+39. a6 {White hopes to continue with Qd6.} Qe7 40. Qd2 Ra1 {Accuracy: White =
+49%, Black = 54%.} ({Don't go for} 40... Qe3 $2 41. Qxe3 Rxe3 42. a7 $18) 0-1
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.22"]
+[Round "3.2"]
+[White "Yip, Carissa"]
+[Black "Abrahamyan, Tatev"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2279"]
+[BlackElo "2377"]
+[Annotator "TA"]
+[PlyCount "72"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,72,-8,1,3,15,11,36,5,54,28,41,-4,-7,-12,0,-93,-89,-227,-236,-240,
+-229,-243,-241,-226,-218,-248,-172,-241,-240,-245,-247,-218,-228,-210,-218,
+-206,-221,-316,-319,-365,-358,-386,-404,-402,-368,-440,-377,-439,-350,-627,
+-272,-445,-445,-605,-612,-588,-592,-658,-658,-596,-460,-1384,-1300]} 1. e4 e6
+2. f4 d5 3. e5 c5 4. Nf3 Nc6 5. c3 Nh6 6. Na3 Nf5 7. Nc2 {C00: French: Unusual
+White 2nd moves} d4 (7... Be7 8. d4 Bd7 9. Bd3 g6 10. O-O cxd4 11. Bxf5 gxf5
+12. Ncxd4 Qb6 13. Rf2 Na5 14. b3 Rc8 {0-1 (45) Izoria,Z (2603)-Smirnov,A (2569)
+chess.com INT 2019}) 8. Bd3 Be7 9. Qe2 {White is slightly better.} h5 10. Be4
+Bd7 $146 ({Predecessor:} 10... h4 11. d3 Qb6 12. c4 Bd7 13. O-O Qc7 14. Bd2 a6
+{1-0 (61) Sattarov,B (2328)-Eynullayev,A (2134) Poti 2018}) 11. Qd3 Qb6 12. b3
+Rd8 13. Bb2 {[#]} (13. cxd4 $11 Ncxd4 14. Ncxd4 cxd4 15. a4) 13... c4 $1 $17 {
+[%mdl 512]} 14. Qxc4 {[#]} (14. Qf1 $17) (14. bxc4 Qxb2) 14... Nxe5 $1 $19 {
+[%mdl 512]} 15. Nxe5 Bb5 {[%mdl 64] Trapped Piece} 16. Bxf5 {[%cal Rc2d4]} Bxc4
+17. Nxc4 Qc6 {Threatens to win with ...dxc3.} 18. Bh3 b5 ({Not} 18... d3 19.
+N2e3 $11) 19. Ne5 (19. Nxd4 $142 Rxd4 20. cxd4 Bh4+ 21. Kd1 bxc4 22. Rc1) 19...
+Qe4+ {[%mdl 64] Double Attack} 20. Kd1 dxc3 ({Weaker is} 20... Qxf4 21. cxd4
+O-O 22. Rc1 $15) 21. Bxc3 b4 $40 {[%mdl 128] Black wants a kill.} 22. Bb2 Qxf4
+{[%csl Gd8][%cal Rf4d2]} 23. Nc4 Bf6 24. Kc1 (24. Bxf6 {is a better defense.}
+Qxf6 25. Kc1) 24... Bc3 25. Kb1 Bxd2 ({Less strong is} 25... Bxb2 26. Kxb2 Qf6+
+27. Kc1 $17) 26. Bxg7 Bc3 27. Bxc3 bxc3 28. a3 Qf2 29. Rc1 O-O {Hoping for ...
+Rd2!} 30. Ra2 $2 {[#]} (30. a4 Rd3 31. Ka2) 30... Qc5 (30... Rd2 $142 $1 {
+[%mdl 512]} 31. Nb4 (31. Nxd2 cxd2) 31... a5 $1 {[%mdl 512]}) 31. Ka1 $2 (31.
+N2e3 Rd3 32. Rac2) 31... Rb8 {Black is clearly winning.} 32. Nb4 {[#] Rac2
+would now be nice for White.} a5 $1 33. Na6 {[#]} Qg5 $1 {[%cal Rg5c1]} 34.
+Rxc3 {Black must now prevent Rg3.} Qf6 35. Kb2 Rbc8 {Strongly threatening ...
+Rfd8.} 36. g4 (36. Ra1 $142) 36... Rfd8 {Accuracy: White = 38%, Black = 65%.}
+0-1
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.22"]
+[Round "3.3"]
+[White "Zatonskih, Anna"]
+[Black "Feng, Maggie"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2430"]
+[BlackElo "2199"]
+[Annotator "TA"]
+[PlyCount "147"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,147,29,29,44,27,30,37,42,37,34,6,52,63,74,25,79,63,79,65,83,75,101,
+98,96,103,118,125,127,118,114,112,181,145,173,116,100,97,243,243,243,243,243,
+243,243,243,243,243,243,243,243,243,1020,912,1020,1020,1188,1013,1047,1006,998,
+998,998,835,835,287,29951,29951,29953,29957,29956,29952,29951,0,29953,29955,
+29950,29951,29956,29955,29959,29953,29958,29955,29949,29945,29949,364,29957,
+29953,29952,29955,29954,29954,29953,29954,29965,29965,29965,29967,29965,29968,
+29968,29969,29969,29969,29970,29971,29971,29972,29972,29973,29973,29974,29973,
+29975,29982,29982,29985,29986,29987,29988,29988,29989,29989,29989,29989,29990,
+29993,29994]} 1. Nf3 d5 2. d4 c5 3. e3 Nf6 4. c4 cxd4 5. exd4 g6 6. cxd5 Bg7 7.
+Bc4 O-O 8. Nc3 Nbd7 9. O-O Nb6 10. Bb3 Nbxd5 11. Re1 Re8 {B14: Caro-Kann:
+Panov-Botvinnik Attack with 5...e6 and 5...g6} (11... b6 12. Bg5 Bb7 13. Rc1
+Nxc3 14. bxc3 Rc8 15. Qd3 Qd6 16. Ne5 e6 17. h4 Nd5 18. c4 Ne7 19. c5 bxc5 20.
+Nxf7 Qxd4 21. Qxd4 Bxd4 22. Bxe6 {1-0 (30) Barbosa,O (2533)-Perelshteyn,E 
+(2507) Rockville 2017}) 12. Ne5 Be6 13. Qf3 Qd6 {White is slightly better.} 14.
+Bd2 $146 ({Predecessor:} 14. Nc4 Qa6 15. Rxe6 fxe6 16. Ne5 Rad8 17. h4 Rf8 18.
+Qh3 Qb6 19. Be3 {1-0 (28) Weise,M (2144)-Rueger,E (2205) Germany 2009}) 14...
+a6 15. h3 Red8 16. Nd3 Nxc3 17. bxc3 {Threatens to win with Bxe6.} (17. Rxe6 $5
+fxe6 18. bxc3 $16) 17... Bxb3 (17... Bd5 $11 {keeps the balance.} 18. Bxd5 Nxd5
+) 18. axb3 $16 b5 19. Nc5 {And now Nb7 would win.} Rdc8 20. b4 Nd5 21. Ra5 Nb6
+22. Rea1 Nc4 23. Bf4 e5 24. Rxa6 Rxa6 25. Rxa6 Qd8 {[#]} (25... Qe7 $16 {
+might work better.}) 26. dxe5 $1 $18 Nxe5 {[#]} 27. Bxe5 ({White should try} 
+27. Qb7 $1 $18) 27... Bxe5 $16 28. g3 Qd2 (28... Kg7 $16) 29. Ra7 $18 Rf8 30.
+Nd7 $40 {[%mdl 192] Double Attack. White attacks with force.} Qxc3 31. Qxc3
+Bxc3 32. Nxf8 Kxf8 {[%mdl 4096] Endgame KR-KB} 33. Rb7 Bxb4 34. Rxb5 Bd2 35. g4
+h6 $2 (35... Bc3 36. Kg2 Bd2) 36. Kg2 Kg7 37. h4 Bc3 38. Kg3 Bd4 39. Rd5 Bc3
+40. Kf3 Kf6 41. Rb5 Kg7 42. h5 gxh5 $2 (42... g5 $18 43. Ke3 Bf6) 43. Rxh5 Kg6
+44. Ke4 Bb2 45. Kd5 Bc1 46. Ke4 Bb2 47. Rb5 Bc3 48. Rb6+ Kg7 49. Rc6 Be1 50. f3
+Bd2 51. Kd5 Bf4 52. Ra6 Be3 53. Kd6 $2 (53. Ke5 {mates} Bc5 54. f4 Bb4 55. Rc6
+Bd2 56. Kf5 Be3 57. Ke4 Bd2 58. Ra6) 53... Bg5 $2 (53... f5 $18 54. Ke5 fxg4)
+54. Ke5 {White mates.} Bd2 55. f4 Bc3+ 56. Kd5 Bd2 57. f5 Bg5 58. Kd6 Kf6 59.
+Kd7+ Ke5 60. Ke8 f6 61. Kf7 Kf4 62. Ra4+ Kg3 63. Kg6 Kh4 64. Rc4 Kg3 65. Kh5
+Kf3 66. Rc8 Kf4 67. Rh8 Kf3 68. Rxh6 Bxh6 69. Kxh6 Kxg4 {KP-KP} 70. Kg6 Kh4 71.
+Kxf6 Kh5 72. Ke7 Kh6 73. f6 Kh7 74. f7 {Accuracy: White = 76%, Black = 20%.}
+1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.22"]
+[Round "3.4"]
+[White "Nguyen, Emily"]
+[Black "Wang, Annie"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[WhiteElo "2143"]
+[BlackElo "2304"]
+[Annotator "TA"]
+[PlyCount "81"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,81,17,15,8,17,12,10,17,22,18,9,11,4,8,9,46,43,44,41,49,40,52,53,54,
+49,52,49,46,43,41,2,70,0,50,32,54,12,14,0,68,61,64,34,31,0,0,0,3,0,6,2,5,0,0,7,
+18,-4,0,0,0,0,36,34,28,11,8,14,8,0]} 1. d4 e6 2. e4 d5 3. exd5 exd5 4. Nf3 Nf6
+5. Bd3 Bd6 6. O-O O-O 7. h3 h6 8. Nc3 Nc6 {C01: French: Exchange Variation} (
+8... c6 9. Ne5 c5 10. Nb5 Be7 11. dxc5 Bxc5 12. Bf4 a6 13. Nc3 Nc6 14. Qd2 d4
+15. Ne2 Re8 16. Nxc6 bxc6 {1/2-1/2 (37) Fressinet,L (2668)-Bacrot,E (2696)
+Balagna 2017}) 9. Nb5 Nb4 10. Nxd6 Qxd6 11. Ne5 Nxd3 12. Qxd3 Ne4 $146 ({
+Predecessor:} 12... c5 13. Qa3 Ne4 14. Bf4 c4 15. Qxd6 Nxd6 16. Ng6 fxg6 17.
+Bxd6 Rf6 18. Be7 {1/2-1/2 (18) Fernandez Garcia,J (2445)-Apicella,M (2555)
+Linares 1995}) 13. Bf4 Qf6 14. Bh2 Nd6 15. Rfe1 c6 16. Re2 Bf5 17. Qf3 Rad8 18.
+Rae1 Qh4 19. Qa3 Nb5 20. Nf3 Qf6 21. Qe3 Be4 {Threatening ...Bxf3.} 22. Ne5 Nd6
+(22... Qg5 $1 $11 23. Qxg5 hxg5) 23. b3 (23. f3 $14 Bf5 24. g4) 23... Qh4 24.
+c3 Rfe8 25. Bg3 Qh5 26. Qd2 Re6 (26... Nf5 $11) 27. Nd3 Rf6 28. Nc5 Qg6 29.
+Nxe4 Nxe4 30. Rxe4 dxe4 31. Bh4 Rdd6 {Threatens to win with ...Rf3.} 32. Bxf6
+Rxf6 $11 {[%mdl 4096] Endgame KQR-KQR} 33. Qe3 Re6 34. c4 f5 35. Qf4 Rd6 36.
+Rd1 b6 37. Rd2 Kh7 38. d5 Qf6 39. dxc6 Rxd2 40. Qxd2 {[#] Strongly threatening
+Qd5.} Qxc6 41. Kh2 {Accuracy: White = 45%, Black = 46%.} 1/2-1/2
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.22"]
+[Round "3.5"]
+[White "Sharevich, Anna"]
+[Black "Gorti, Akshita"]
+[Result "0-1"]
+[ECO "E09"]
+[WhiteElo "2282"]
+[BlackElo "2272"]
+[Annotator "TA"]
+[PlyCount "128"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,128,1,16,10,46,32,45,64,49,32,56,8,39,0,0,-38,19,24,35,6,17,8,20,9,
+91,36,255,166,173,176,215,233,237,233,220,233,214,179,186,126,159,163,220,217,
+232,226,223,221,217,219,223,163,226,225,227,221,238,222,300,279,270,185,193,
+191,195,195,173,173,177,97,118,33,108,111,104,109,120,92,89,92,130,85,230,80,
+529,339,312,79,72,31,262,247,268,234,344,334,291,309,285,72,72,72,86,0,247,0,0,
+0,195,-1022,-910]} 1. d4 e6 2. c4 Nf6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O
+Nbd7 7. Qc2 c6 8. Nbd2 b6 9. b3 Bb7 10. Bb2 a5 11. e4 {E09: Closed Catalan:
+Main Line: 7 Qc2 c6 8 Nbd2} Rc8 (11... Qb8 12. Rfe1 Rc8 13. Rac1 a4 14. Qb1
+axb3 15. axb3 Bb4 16. Bc3 Bxc3 17. Rxc3 c5 18. exd5 exd5 {1/2-1/2 (37)
+Altounian,L (2443)-Blomqvist,E (2502) chess.com INT 2018}) 12. Rad1 c5 $146 ({
+Predecessor:} 12... Ne8 13. Qd3 Nc7 14. Rfe1 Re8 15. h4 h6 16. Nh2 Nf6 17. e5
+Nd7 18. Ng4 c5 {1-0 (45) Hentunen,A (2327)-Sorsa,N (2223) Finland 2010}) 13.
+exd5 {White is slightly better.} exd5 14. dxc5 Bxc5 15. Qb1 Qc7 16. cxd5 Bxd5
+17. Nc4 Bxc4 ({Black should play} 17... Be4 $15 18. Qc1 Rfe8) 18. bxc4 $11 h6
+19. Nh4 Ne5 20. Nf5 Rfe8 21. Qa1 Neg4 {[#]} (21... Nfg4 $11 {keeps the balance.
+}) 22. Bxf6 (22. Nxg7 $1 $16 {[%mdl 512]} Kxg7 23. Bh3) 22... Nxf2 $2 (22...
+Nxf6 $14 23. Nxh6+ Kh7) 23. Bd4 (23. Bxg7 Nxd1+ 24. Bd4 Bxd4+ 25. Qxd4 Qc5 $14)
+23... Nxd1 24. Qxd1 {And now Nxh6+! would win.} (24. Rxd1 Qe5 $11) 24... Qe5
+25. Bxc5 Qxc5+ 26. Kh1 {Hoping for Qg4.} Qe5 27. Bd5 $1 {Nd6! is the strong
+threat.} Rc7 28. Qg4 Kh8 29. Qd4 (29. Nd4 $18) 29... Qxd4 30. Nxd4 f6 (30... g6
+{was necessary.} 31. Rb1 (31. Rxf7 Rxf7 32. Bxf7 Re1+ 33. Kg2 Re4 $11) 31...
+Kg7 32. Rxb6 Re1+ 33. Kg2 Rd1) 31. Rb1 $18 Rb8 32. Nc6 Re8 33. a4 Re3 34. Rxb6
+Ra3 35. Ra6 Rxa4 (35... Rb7 $142) 36. Rxa5 ({Not} 36. Nxa5 Ra2 $11) 36... Rxa5
+37. Nxa5 g6 38. Nb3 Kg7 39. Nd4 {Strongly threatening Ne6+.} Ra7 40. Ne6+ Kf7
+41. Nf4+ Kg7 42. c5 {[%cal Bc4c5,Bc5c6][%mdl 32] Black must now prevent c6.} f5
+43. c6 Kf6 44. Bf3 (44. Bg8 $18) 44... g5 $16 45. Nd3 (45. Nd5+ $16 Ke5 46. c7
+Ra1+ 47. Kg2) 45... g4 ({Better is} 45... Ke6 $14) 46. Bd5 Ke7 47. Nf4 Kd6 48.
+Kg2 Ra1 49. Kf2 Rc1 50. Ke3 Re1+ (50... Ra1 $16) 51. Kd2 (51. Ne2 $1 $18 {
+and the rest is easy.}) 51... Re7 $2 {[%mdl 8192]} (51... Ra1 $16) 52. Bg2 Ra7
+53. Kc3 $2 (53. Ne2 $1 $18 {is the precise move to win.}) 53... Ra2 54. Kd4
+Rd2+ $2 (54... h5 $14) 55. Ke3 $1 $18 {[%cal Re3d2]} Ra2 56. Ne2 $1 Ra3+ (56...
+Rb2 $142 57. Kd3 Ra2) 57. Kd2 Ra2+ 58. Kd3 $1 Rb2 {[#]} 59. Nf4 $2 (59. Bd5 $1
+$18 {[%mdl 512]}) 59... Ra2 $16 60. Kc4 Rb2 61. Kc3 (61. Bd5 $16) 61... Rf2 $2
+{[#]} (61... Ra2 $1 $11) 62. Kd4 $2 ({Only move:} 62. Bd5 $1 $18) 62... Rd2+ $1
+$11 63. Ke3 Rb2 $2 (63... Ra2 $1 $11) 64. h3 $4 {[%mdl 8192] [#]} (64. Ne2 $18)
+64... Rxg2 $1 {[%mdl 512] Accuracy: White = 37%, Black = 23%.} 0-1
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.22"]
+[Round "3.6"]
+[White "Eswaran, Ashritha"]
+[Black "Foisor, Sabina-Francesca"]
+[Result "1-0"]
+[ECO "B08"]
+[WhiteElo "2234"]
+[BlackElo "2276"]
+[Annotator "TA"]
+[PlyCount "101"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,101,24,14,10,15,-8,9,-22,-12,0,11,0,62,60,58,40,62,70,75,19,12,28,21,
+-62,-55,-61,-57,-54,-52,-59,-66,-60,0,0,26,-61,-58,-86,91,36,56,61,353,348,439,
+443,516,395,400,370,694,705,813,809,800,785,720,483,506,500,712,695,702,642,
+687,682,657,485,630,633,613,605,567,536,556,491,571,487,699,711,703,683,666,
+669,1070,1008]} 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O a6 7.
+a4 Nc6 8. d5 {B08: Pirc Defence: Classical System} (8. h3 e5 9. dxe5 Nxe5 10.
+Nxe5 dxe5 11. Qxd8 Rxd8 12. Bg5 Re8 13. Rfd1 Be6 14. a5 Rac8 15. Bxf6 Bxf6 16.
+Bg4 Be7 17. Nd5 Bg5 18. Bxe6 Rxe6 {1/2-1/2 (41) Bindrich,F (2606)-Maghsoodloo,
+P (2688) St Petersburg 2018}) 8... Nb4 9. a5 e6 $1 {LiveBook: 21 Games} 10. Bg5
+{The position is equal.} h6 11. Bh4 g5 12. Bg3 {Strongly threatening Ra4.} exd5
+13. exd5 Bd7 $146 ({Predecessor:} 13... Bf5 14. Nd4 Bg6 15. Bf3 g4 16. Bxg4
+Nxg4 17. Qxg4 Bxd4 {0-1 (68) Schoenau,W (2280)-Hirn,O Bayern 1995}) 14. Bc4 Bb5
+({Black should play} 14... Re8 $11) 15. Nxb5 $14 axb5 16. Bb3 Na6 17. Nd4 Nc5
+18. Nf5 (18. c3 $1 $16) 18... Qd7 $11 19. Nxg7 Kxg7 20. Qd4 (20. c4 $11) 20...
+Rfe8 $15 21. f4 {[%cal Bf2f4,Bf4f5,Bf5f6][%mdl 32]} Re4 22. Qd2 g4 $1 23. f5
+Rae8 24. Bf4 Ng8 (24... Kh7 $15 25. Bxh6 g3) 25. f6+ $11 Kh7 26. Bg3 (26. Ba2
+$11) 26... Re2 $15 27. Qd1 {[#]} R8e4 $2 {[#]} (27... R8e3 $1 $17 {keeps the
+pressure on.}) 28. Ba2 (28. c4 $1 $16 {[%mdl 512]}) 28... Kh8 29. Bb1 $1 $36 {
+[%cal Ba2b1,Bb1f5,Bf5g4][%mdl 2080] White is pushing.} c6 $2 {[%mdl 8192]} (
+29... R4e3 $14) 30. c3 $18 Re8 31. Bf5 Qd8 32. Bxg4 Rxb2 33. Bh5 Ne4 $2 (33...
+Qd7 34. Qg4 Qxg4 35. Bxg4 Nb3) 34. Qc1 {White is clearly winning.} Rd2 35. Bxf7
+Rf8 36. Bxg8 Kxg8 37. Re1 Qxf6 {And now ...Rxg2+! would win.} 38. Rxe4 Rxg2+
+39. Kxg2 Qf3+ 40. Kg1 Qxe4 41. Qxh6 Qxd5 {intending ...Qc5+.} 42. Qxd6 Qf5 43.
+Re1 Rf7 44. Qd4 Rd7 45. Qe5 Qxe5 46. Bxe5 {KRB-KR} Rd2 47. Bd4 b4 (47... Kf7
+$142 48. Bc5 Kf6) 48. Be3 Rb2 49. cxb4 Rxb4 50. Bb6 Kf7 {[#]} 51. Re7+ $3 {
+[%mdl 512] Precision: White = 70%, Black = 38%.} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.23"]
+[Round "4.1"]
+[White "Yu, Jennifer"]
+[Black "Nguyen, Emily"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "2273"]
+[BlackElo "2143"]
+[Annotator "TA"]
+[PlyCount "63"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,63,33,34,38,17,38,42,280,295,292,287,278,283,279,281,277,281,241,241,
+459,266,258,262,271,269,298,288,291,284,289,229,223,204,189,189,194,177,249,
+249,282,289,466,454,575,547,918,904,888,888,766,837]} 1. e4 e5 2. Bc4 Nf6 3. d3
+Nc6 4. Nf3 Bc5 5. O-O d6 6. c3 O-O 7. Bg5 Be6 8. Nbd2 {LiveBook: 5 Games. C54:
+Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} a5 (8... h6 9. Bh4 Qe7
+10. b4 Bb6 11. Bb3 Bxb3 12. axb3 g5 13. Bg3 Qe6 14. Nc4 Ne7 15. Re1 Ng6 {
+1/2-1/2 (50) Duda,J (2658)-Tari,A (2532) Reykjavik 2015}) 9. a4 Re8 10. Re1
+$146 {White is slightly better.} ({Predecessor:} 10. Qc2 Nb8 11. Bh4 Nbd7 12.
+d4 Bb6 13. h3 exd4 14. cxd4 h6 {1-0 (43) Zamora,R (1516)-Lopez Galiano,S (1497)
+Barcelona 2012}) 10... d5 $2 {[#]} (10... Bxc4 $14 11. Nxc4 b6) 11. Bxf6 gxf6
+12. exd5 Bxd5 13. Bxd5 Qxd5 14. Ne4 Be7 15. Nh4 Qe6 {And now ...f5 would win.}
+16. Qh5 {Nf5 is the strong threat.} Bf8 $2 (16... f5) 17. Nf5 (17. Re3 $142)
+17... Ne7 $18 {[#]} 18. Nxe7+ $1 Bxe7 19. Ng3 Kh8 20. Re4 {White threatens Rh4
+and mate.} f5 21. Nxf5 Qg6 22. Qxg6 hxg6 23. Nxe7 Rxe7 {[%mdl 4096] Endgame
+KRR-KRR} 24. d4 {[%cal Bd3d4,Bd4e5,Be5e6,Be6e7][%mdl 32]} Rd8 25. f4 f6 (25...
+c5 $142 26. dxc5 (26. dxe5 Rd2 $16) (26. Rxe5 Rxe5 27. dxe5 Rd2 $16) 26... Rd2)
+26. fxe5 fxe5 27. Rae1 ({But not} 27. dxe5 $6 Kg7 $18) ({Don't play} 27. Rxe5
+$6 Rxe5 28. dxe5 Kg7 $16) 27... c5 $2 (27... b6 {might work better.} 28. Rxe5
+Rf7) 28. Rxe5 {White is clearly winning.} Rxe5 29. dxe5 ({Less strong is} 29.
+Rxe5 cxd4 30. Kf1 dxc3 $16) 29... Kg7 30. e6 Kf6 31. e7 Re8 32. Kf2 {Precision:
+White = 80%, Black = 33%.} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.23"]
+[Round "4.2"]
+[White "Zatonskih, Anna"]
+[Black "Yip, Carissa"]
+[Result "1-0"]
+[ECO "D77"]
+[WhiteElo "2430"]
+[BlackElo "2279"]
+[Annotator "TA"]
+[PlyCount "173"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,173,52,30,41,28,47,31,106,54,55,24,105,91,101,78,79,81,122,91,104,
+101,149,146,148,90,92,74,80,81,80,78,91,91,87,87,88,73,102,104,104,102,104,99,
+102,111,107,104,108,103,116,116,119,120,122,112,129,122,162,122,131,131,131,
+131,131,131,135,133,135,135,137,135,268,272,335,337,407,406,408,409,377,378,
+353,293,293,281,283,274,450,456,454,447,420,416,842,846,798,805,794,520,693,0,
+779,357,778,767,733,715,909,0,583,512,525,516,476,129,222,124,127,93,93,93,93,
+93,93,93,93,93,5093,3954,2191,1952,29971,29968,5106,3361,29951,29944,29963,
+29966,1135,882,647,647,29980,29981,29981,29982,29982,29983,29983,29984,29985,
+29986,29986,29987]} 1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. c4 d5 6. O-O
+dxc4 7. Na3 Nc6 8. Nxc4 Be6 9. b3 Bd5 10. Bb2 a5 11. Ne3 Be4 {D77: Fianchetto
+Grünfeld: 6 0-0: Replies other than 6...c6} 12. a3 Qc8 13. Nc4 {[#]} h6 $146 (
+13... Rd8 $14) ({Predecessor:} 13... Rd8 14. e3 Bd5 15. Rc1 Ne4 16. Qe2 Qe6 17.
+Ne1 Ng5 18. Nf3 Qg4 19. Ncd2 Nxf3+ 20. Bxf3 Bxf3 21. Qxf3 Qxf3 22. Nxf3 {
+1/2-1/2 (44) Rozum,I (2573)-Sjugirov,S (2654) Khanty-Mansiysk 2018}) 14. Re1 ({
+White should play} 14. Ncd2 $1 $16) 14... Rd8 $14 15. Ncd2 Qe6 (15... Bxf3 $11
+16. Nxf3 e5) 16. Nxe4 Nxe4 17. Qc2 a4 (17... Nxd4 $2 18. Nxd4 Bxd4 19. Bxd4 $18
+) 18. bxa4 Na5 19. e3 ({Of course not} 19. Qxc7 $6 Nc4 $11) 19... Qc6 20. Rac1
+Nd6 {intending ...Qxc2.} 21. Bc3 Nac4 {[#]} 22. Bb4 (22. a5 $142 $1 {[%mdl 512]
+}) 22... Qxa4 $16 23. Bxd6 Nxd6 24. Qxa4 Rxa4 25. Rxc7 Bf8 26. Ne5 Rxa3 27. Rb1
+b5 28. Bf1 Rb8 29. Nd7 Rba8 30. Bxb5 Ra1 31. Rcc1 R1a2 32. Bc6 Rc8 33. Bd5
+Rxc1+ 34. Rxc1 Rb2 35. Ra1 {aiming for Ra8.} Bg7 36. Ra8+ Kh7 37. Ra7 g5 38.
+Ne5 Rb5 39. Bc4 ({Worse is} 39. Nxf7 Rxd5 40. Rxe7 Nxf7 $11) 39... Rb1+ 40. Kg2
+Nxc4 41. Nxc4 {[%mdl 4096] Endgame KRB-KRN} Bf6 42. Nd2 Rb6 43. Ne4 Kg6 44. g4
+e6 45. Rd7 Bg7 (45... Ra6 $16 {was called for.} 46. h3 Ra5) 46. Nd6 $18 f6 47.
+Nc8 Rb8 48. Ne7+ Kh7 49. d5 exd5 50. Nf5 Rg8 51. Rxd5 Bf8 52. Rd8 Rh8 53. Ng3
+Ba3 $2 (53... Kg8 {might work better.} 54. Kf3 Kh7) 54. Rd7+ Kg6 55. Nh5 {
+[%csl Gh5][%cal Rd7g7]} Bf8 56. Rb7 Rg8 (56... Rh7 $142) 57. e4 Bd6 58. h3 Be5
+59. Kf3 Bd6 60. Kg2 Be5 $1 {[#]} 61. h4 $1 {[%mdl 512]} Bd6 $2 (61... Bc3 62.
+Kg3 Be1) (61... gxh4 62. Kh3) 62. Kh3 Be5 63. Rd7 Bb8 64. Rb7 Be5 65. Ng3 {
+[%csl Gg3,Gg4][%cal Rh4h5]} gxh4 66. Nh5 $1 Kg5 67. Rb5 $2 (67. Re7 $18 {
+and White stays clearly on top.} Bf4 68. Rd7) 67... Kg6 {[#]} (67... Rb8 $16
+68. f4+ {[%mdl 64] Double Attack} Kg6 69. Rxb8 Bxb8 70. Kxh4 Ba7) 68. f4 ({
+But not} 68. Kxh4 $6 Rb8 $16) (68. Rd5 $1 $18) 68... Rb8 $16 69. Rxb8 Bxb8 70.
+Kxh4 {KB-KN} Bc7 71. Kg3 Bb8 72. Kf3 Bc7 73. Ke3 Bb8 $2 {[%mdl 8192] [#]} (
+73... Kf7 $16 74. Ng3 Bb6+ 75. Kf3 Bc7) 74. Kd4 $1 $18 {[%cal Rd4d5]} Bc7 75.
+Kd5 Bb6 76. Ke6 Bd4 77. Ng3 Bb2 78. Nf5 h5 79. Ne7+ Kh6 80. Ng8+ Kg7 {[#]} 81.
+Nxf6 $1 {[%mdl 512]} Bxf6 82. gxh5 {KB-K3P. White mates.} Bc3 83. e5 Bb4 84. f5
+Kh6 85. Kf7 Kg5 86. e6 Kxf5 87. h6 {Accuracy: White = 76%, Black = 40%.} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.23"]
+[Round "4.3"]
+[White "Feng, Maggie"]
+[Black "Wang, Annie"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2199"]
+[BlackElo "2304"]
+[Annotator "TA"]
+[PlyCount "176"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,176,-8,-16,-25,-28,-33,-26,-24,-11,-22,-12,-18,-13,-18,-14,-31,-29,
+-33,-27,-54,-16,-17,-29,-26,-19,-20,-8,-15,24,35,27,32,27,6,11,9,16,-13,-22,
+-13,0,0,0,0,0,-15,0,-35,0,-23,-8,-25,0,0,25,26,44,45,47,35,64,35,62,43,48,48,
+35,35,20,29,105,105,118,107,245,240,346,342,272,237,236,158,172,172,175,82,108,
+70,45,71,55,58,452,454,443,412,443,293,226,-83,-6,0,0,0,80,45,90,0,91,94,88,87,
+96,45,33,14,20,0,8,0,0,0,0,0,0,0,180,120,116,0,0,0,0,0,0,0,8,0,74,0,0,0,0,0,8,
+0,0,0,0,-14,-14,-14,0,0,0,0,0,0,0,0,8,8,8,8,8,8,8,8,8]} 1. Nf3 d5 2. g3 c5 3.
+c4 d4 4. e3 Nc6 5. exd4 cxd4 6. d3 {A09: Réti Opening: 1 Nf3 d5 2 c4} Nf6 7.
+Bg2 e5 8. O-O {Black has an edge.} Nd7 9. Na3 Be7 10. Nc2 O-O 11. a3 a5 {
+[%cal Ba7a5,Ba5a4][%mdl 32]} 12. Rb1 $146 ({Predecessor:} 12. Bd2) 12... a4 13.
+Bd2 Nc5 14. Bb4 Bf5 15. Bxc5 Bxc5 16. b4 axb3 $1 17. Rxb3 Qc7 18. Nb4 Nxb4 19.
+axb4 Be7 20. Re1 f6 21. Nh4 Be6 {[#]} 22. f4 $1 {[%mdl 512]} Ra4 (22... exf4
+23. Rxe6) 23. f5 Bf7 24. b5 Rfa8 25. Qf3 Qa5 26. Rbb1 Rb8 $1 27. Qg4 Bb4 28.
+Red1 Bd2 29. Be4 Ra2 30. Ng2 Bc3 31. Qf3 Qb6 32. Rf1 Kf8 33. Rf2 Rxf2 34. Qxf2
+Be8 35. Qa2 Qc5 36. Rb3 Bb4 37. Qa4 $36 {[%mdl 2048] White has good play.} Bc3
+38. Qa3 Qxa3 39. Rxa3 b6 (39... Bd7 $11) 40. Ra7 $16 Rd8 41. Kf2 Rd7 (41... Bb4
+$16 {is a better defense.}) 42. Ra6 $18 Ba5 {[#]} (42... Bb4 $142 43. Rxb6 Rd8)
+43. c5 $1 {[%mdl 512]} Rd8 (43... bxc5 44. Rxa5) 44. c6 Rc8 45. Bd5 Rc7 46. Kf3
+Ke7 47. Ke4 (47. Ra8 $18) 47... Kd6 $16 48. Ra8 Bh5 49. Rd8+ Ke7 50. Rh8 h6 $2
+{[%mdl 8192]} (50... Kd6 $14) 51. Nh4 $18 Kd6 52. Bc4 Bd2 {Black hopes to
+continue with ...Ra7.} 53. Rb8 Ra7 54. Rxb6 $2 (54. Rd8+ $18 Ke7 55. Rb8) 54...
+Kc5 (54... Kc7 $1 $17 {[%cal Rc7b6]} 55. Ra6 Rxa6 56. bxa6 Kxc6) 55. c7 $1 $11
+Rxc7 56. Rb8 Bf7 (56... Ba5 $1 $11 {remains equal.}) 57. Be6 ({But not} 57. b6
+Bxc4 $1 {[%mdl 512]} 58. dxc4 Rd7 $15) 57... Re7 58. b6 (58. Bxf7 $16 Rxf7 59.
+Ng6) 58... Bxe6 (58... Re8 $11 59. Rb7 Bxe6 60. fxe6 Rxe6) 59. fxe6 $16 Rxe6
+$11 {[%mdl 4096] Endgame KRB-KRN} 60. b7 Kc6 {[#]} 61. Rg8 (61. Nf5 $1 $16)
+61... Kxb7 $14 62. Rxg7+ Kb6 63. Rg6 Rc6 64. Nf5 Kb5 65. Ne7 Ra6 66. h4 Be3 67.
+g4 Bf2 $2 (67... Ra1 $11 {and Black stays safe.}) 68. h5 ({White should play} 
+68. Rxh6 $18 Ra1 69. Nf5) 68... Be3 $16 69. Nf5 (69. Nd5 $16 Ra2 70. Nxf6 (70.
+Nxe3 Re2 $16 {[%mdl 64] Pin})) 69... Bg5 70. Kd5 Ra3 71. Nxh6 Rxd3 72. Nf7 Bf4
+73. Rxf6 Re3 (73... Rg3 $11) 74. Rxf4 (74. Nd6+ $16 Kb4 75. Nf5) 74... exf4 $11
+{The position is equal.} 75. Kxd4 $16 {KR-KN} Re7 76. Ng5 {White wants to play
+h6.} Re8 77. Nf3 Re3 78. Ng5 Rg3 79. Ne6 ({Don't go for} 79. h6 $2 Rxg4 80. Nf3
+Rg6 $19) (79. Ke4 {keeps more tension.} Rxg4 80. Nf3 Kc5 81. Kf5 Rg8 82. h6)
+79... Rxg4 80. Ke4 Rh4 81. Nxf4 Kc5 82. Kf5 {Black must now prevent Kg5.} Kd6
+83. Kg5 Rh1 {next ...Ke7 is good for Black.} 84. h6 {Ng6 is the strong threat.}
+Ke5 {Strongly threatening ...Rg1+.} (84... Ke7 $5 85. Nh5 $8 Rg1+ 86. Kf5 Rf1+
+87. Kg6 Rg1+ 88. Kf5 Rf1+ 89. Kg6 Rg1+ 90. Kf5 $11) 85. Ng6+ Ke6 {[#] Hoping
+for ...Rg1+.} 86. h7 $1 {[%mdl 576] Decoy} Rxh7 {aiming for ...Rg7.} 87. Nf8+ {
+[%mdl 64] Double Attack} Kf7 88. Nxh7 {And now Kf5 would win.} Kg7 {Accuracy:
+White = 48%, Black = 46%.} 1/2-1/2
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.23"]
+[Round "4.4"]
+[White "Foisor, Sabina-Francesca"]
+[Black "Krush, Irina"]
+[Result "1-0"]
+[ECO "B62"]
+[WhiteElo "2276"]
+[BlackElo "2451"]
+[Annotator "TA"]
+[PlyCount "291"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,291,16,51,42,41,37,43,20,62,60,67,45,53,16,79,91,81,80,82,66,97,94,
+198,135,202,127,136,129,169,88,190,218,227,122,97,110,114,41,93,8,22,0,589,548,
+905,919,839,843,1859,1975,1657,1527,1336,415,2706,695,29978,29978,29977,29978,
+5110,475,455,441,385,370,601,600,597,593,593,581,577,571,289,560,545,535,477,
+516,416,438,967,983,29978,29979,29979,29980,29980,29971,29971,29972,29972,
+29973,29973,29974,29974,29975,29975,29976,29977,967,685,367,304,239,1887,1887,
+220,78,1887,82,1887,1887,1887,1887,1887,1887,1887,1887,1887,1887,1887,1887,
+1887,1887,1887,1887,1887,1887,1887,115,1164,1343,355,0,1887,0,1887,1887,1214,
+1172,1041,988,1887,1887,1887,1887,1887,1887,3209,2548,1963,1909,1894,1887,1887,
+221,1887,1887,1887,8,8,8,418,367,1887,1887,1887,1887,1887,1887,1887,1887,1887,
+1887,1887,1883,1868,1847,1827,0,0,35,1887,1853,1858,1750,1775,1468,1791,1688,
+3231,3222,2414,1895,1586,1361,390,451,399,309,29953,29951,29954,29952,29942,
+29942,29958,29967,29969,29963,29952,29955,29963,29973,29973,29970,4637,29978,
+29978,29979,29979,29980,29980,29981,29981,29982,29982,29983,29983,29982,29982,
+29975,29975,29976,29979,29980,29980,29981,29980,29982,29982,29983,29983,29983,
+29983,29984,29984,29983,29983,29972,29971,29970,29982,29982,29984,29985,29985,
+29973,29983,29984,29984,29985,29985,29982,29982,29983,29983,29984,29984,29985,
+29985,29985,29985,29986,29986,29987,29986,29988]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4
+4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd3 a6 8. Nxc6 {B62: Sicilian:
+Richter-Rauzer: 6...e6: Unusual White 7th moves} bxc6 9. O-O-O Be7 10. h4 $146
+{White is slightly better.} ({Predecessor:} 10. Bxf6 gxf6 11. f4 Bb7 12. f5
+exf5 13. exf5 d5 14. Qe3 Qc7 15. Be2 O-O-O {1/2-1/2 (34) Brkic,A (2563)
+-Demchenko,A (2679) Skopje 2018}) 10... O-O 11. Qg3 e5 12. Bc4 Be6 13. Qd3 $40
+{[%mdl 128] White has some attack.} Qb6 (13... Bxc4 $11 14. Qxc4 Qb6) 14. Bxe6
+$16 fxe6 15. Qh3 Kf7 16. f4 Rab8 17. b3 Rfd8 (17... exf4 $16 {keeps fighting.}
+18. Bxf4 Qc7) 18. Rhf1 (18. f5 $18) 18... Qc5 (18... exf4 $16 19. Bxf4 e5) 19.
+f5 exf5 20. Rxf5 a5 21. Bxf6 (21. Rdf1 $18) 21... gxf6 (21... Bxf6 $16 22. Rdf1
+Qa7) 22. Rh5 $18 Rh8 23. Rd3 (23. g4 $18) 23... a4 $16 {[%mdl 64] Decoy} 24.
+Nxa4 Qa3+ 25. Kd2 (25. Nb2 $1 $16) 25... Qxa2 (25... d5 $1 $14 26. exd5 cxd5)
+26. Qf5 ({White should play} 26. Qd7 $16 Qa1 27. Nc3 (27. Rxd6 Rbd8 $16)) 26...
+h6 $1 $11 27. g4 Rbd8 $2 {[%mdl 8192]} (27... Qa1 $11 {and Black has nothing
+to worry.}) 28. g5 $18 {And now g6+ would win.} hxg5 29. Rh7+ Rxh7 30. Qxh7+
+Ke6 31. hxg5 d5 32. Qf5+ Kf7 33. exd5 (33. Rh3 $142 dxe4+ 34. Ke3 Qxc2 35. g6+
+Kf8 36. Rh8+ Kg7 37. Rh7+ Kf8 38. g7+ Kg8 39. Rh8+ Kf7 40. Qh5+ Ke6 41. Rxd8
+Qxb3+ 42. Kf2 Qc2+ 43. Kg1 Qc1+ 44. Rd1 Qxd1+ 45. Qxd1) 33... Rxd5 (33... Bb4+
+$142 34. Ke3 Qxc2) 34. Rxd5 (34. g6+ $142 Kg7 35. Rxd5) 34... cxd5 35. g6+ $1
+Kg7 36. Qh5 $1 Bb4+ 37. Kd3 (37. Nc3 $142 f5 38. Qh7+ Kf6 39. Qf7+ Kg5 40. g7
+Bxc3+ 41. Kxc3 Qa1+ 42. Kb4 Qe1+ 43. c3 Qe4+ 44. Ka3) 37... f5 38. Qh7+ Kf6 39.
+g7 Qa1 $2 (39... e4+ 40. Kd4 Qxc2 41. g8=N+ Kg5) 40. g8=N+ Kg5 41. Qh6+ Kg4 42.
+Nf6+ {[%mdl 64] Double Attack} Kg3 43. Qg5+ Kh2 44. Qh4+ $1 (44. Qxf5 {gets
+mated.} Qd1+ 45. Ke3 Bd2+ 46. Kf2 Qg1+ 47. Ke2 Qe3+ 48. Kf1 Qe1#) 44... Kg2 {
+( -> ...Qd1+)} 45. Qxb4 e4+ 46. Nxe4 dxe4+ 47. Kd2 Qe5 (47... Qf6 $142 48. Qc5
+f4) 48. Qc5 Qxc5 49. Nxc5 {[%mdl 4096] Endgame KN-KPP} Kf2 50. Kc3 e3 51. b4 e2
+52. Nd3+ Ke3 53. b5 f4 54. b6 f3 55. b7 f2 56. b8=Q {[%csl Gd3][%cal Rb8f4]}
+e1=Q+ 57. Nxe1 (57. Kc4 $142 Kd2 58. Qb4+ Ke2 59. Qxe1+ $1 {[%mdl 512]} fxe1=B
+60. Nxe1 Kf2 61. Kd4 Kg3 62. c4) 57... fxe1=Q+ {KQ-KQ} 58. Kb2 Qa5 59. Qg3+ Ke2
+$2 (59... Ke4 60. Qd3+ Kf4 61. Qd6+ Kf5) 60. Qd3+ Kf2 61. Qd4+ (61. c4 $1 $18)
+61... Kg2 $2 {[%mdl 8192]} (61... Ke2 $16) 62. c3 $2 (62. Kb3 $18 {is the
+precise move to win.} Qb5+ 63. Qb4) 62... Kh1 $2 {[%mdl 8192]} (62... Kf3 $16)
+63. c4 Qb4+ 64. Kc2 Qa4+ 65. Kd2 Qb4+ 66. Qc3 Qd6+ 67. Kc2 Qg6+ 68. Qd3 Qg2+
+69. Kc3 {Threatening mate with Qd5.} Qg7+ 70. Qd4 Qg3+ 71. Kb4 Qb8+ 72. Ka5 $2
+(72. Ka3 $18 Qa8+ 73. Kb2 Qg2+ 74. Kc1 Qg5+ 75. Qd2) 72... Qa8+ $16 73. Kb5
+Qe8+ 74. Kb4 $2 (74. Kb6) 74... Qb8+ $18 75. Kc3 Qg3+ $1 76. Kc2 Qg2+ 77. Kc1
+Qg5+ 78. Qd2 Qe7 79. Qd5+ Kg1 80. c5 Qe3+ 81. Kd1 Qc3 82. Qg5+ Kh1 83. Qh5+ Kg1
+84. Qg4+ Kh2 85. Qf4+ $2 (85. Qh4+ Kg2 86. Qe4+ Kh3 87. c6) 85... Kh3 $2 (85...
+Kg1 86. Qg4+ Kh2 87. Qh4+ Kg2 88. Qe4+ Kh3) 86. Qf5+ Kg3 87. Qc2 $2 ({Better is
+} 87. Qd5 $18 Qa5 88. Qd6+ Kg4 89. c6) 87... Qd4+ $11 88. Kc1 {aiming for c6.}
+Qf4+ $2 {[%mdl 8192]} (88... Kf4 $11) 89. Kb2 $1 $18 Qc7 $2 (89... Kh4 90. Qc3
+Kg5) 90. c6 Kh4 91. Qc4+ Kg3 92. Kb3 Kh2 93. Qc2+ Kh1 94. Qd1+ Kh2 95. Qd7 Qb6+
+96. Kc4 Qa6+ 97. Kc5 $2 (97. Kd4 $18 {Qd6+ is the strong threat.} Qb6+ 98. Kd5
+Qb3+ 99. Kc5) 97... Qa5+ 98. Kd6 Qa3+ $2 {[%mdl 8192]} (98... Qb4+ $14 99. Kd5
+Qb3+ 100. Kc5 Qc3+ 101. Kb6 Qb3+ 102. Ka7 Qa3+ 103. Kb8 Qb2+ 104. Qb7 Qh8+ 105.
+Ka7 Qa1+ 106. Qa6 Qg7+ 107. Kb8 Qg8+ 108. Ka7 Qg7+ 109. Kb8 Qg8+ 110. Kb7 Qb3+
+111. Qb6 Qf3) 99. Kc7 $1 Qa7+ 100. Kd8 $1 Qb8+ {[#]} 101. Ke7 $1 {White
+threatens Qd6+ and mate.} Qe5+ 102. Qe6 Qc7+ 103. Ke8 Kh1 104. Kf8 {White
+wants to mate with Qh6+.} Qd8+ 105. Kf7 {Intending Qe4+ and mate.} Qc7+ 106.
+Kg6 Qg3+ 107. Kh7 {Strongly threatening Qh6+.} Qd3+ $2 (107... Qc7+ $18 108.
+Qd7 Qh2+ 109. Kg6 Qc2+ 110. Kf6 Qc3+ 111. Kf7 Qc4+ 112. Ke7 Qh4+ 113. Kd6 Qd4+
+114. Ke6 Qe4+ 115. Kf6 Qf4+ 116. Ke6 Qe4+ 117. Kf7 Qh7+ 118. Ke8 Qh8+ 119. Kf7
+Qh5+ 120. Kf6 Qh6+ 121. Kf7 Qf4+ 122. Ke6 Qe4+) 108. Qg6 Qc4 109. Qh6+ Kg1 110.
+Qd6 Kh1 111. c7 Qc2+ 112. Kg7 Qc3+ 113. Kf7 Qc4+ 114. Ke7 Qe4+ 115. Qe6 Qh7+
+116. Kd6 Qh2+ {White mates.} 117. Kc6 Qc2+ 118. Kb7 Qb2+ 119. Qb6 Qg7 120. Ka8
+Qf8+ 121. Ka7 Qa3+ 122. Kb8 Qg3 123. Qb1+ Kh2 124. Qb2+ Kh1 125. Kb7 Qf3+ 126.
+Ka7 Qe3+ 127. Ka6 Qd3+ 128. Qb5 Qa3+ 129. Kb6 Qe3+ 130. Kb7 Qe7 131. Qd5+ Kh2
+132. Qd4 Qf7 133. Qd3 Qe7 134. Qd2+ Kh1 135. Qh6+ Kg1 136. Qf4 Qd7 137. Qg5+
+Kh1 138. Qh6+ Kg1 139. Kb8 Qb5+ 140. Ka7 Qa5+ 141. Kb7 Qd5+ 142. Qc6 Qf7 143.
+Ka8 Qa2+ {[#]} 144. Kb8 $1 Qb3+ 145. Qb7 Qg3 146. Ka8 {Accuracy: White = 57%,
+Black = 35%.} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.23"]
+[Round "4.5"]
+[White "Abrahamyan, Tatev"]
+[Black "Sharevich, Anna"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "2377"]
+[BlackElo "2282"]
+[Annotator "TA"]
+[PlyCount "131"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,131,43,37,35,8,31,41,37,22,22,12,21,20,25,17,17,15,41,31,46,42,25,0,
+18,10,0,0,0,-36,-24,-25,-25,-29,-8,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-31,0,0,0,
+0,0,0,118,0,63,65,64,62,108,67,77,69,69,60,64,60,60,76,246,240,335,320,289,222,
+267,260,363,341,621,583,768,777,778,770,858,738,2284,2155,5880,5404,4133,2782,
+2045,2083,5485,5586,29970,29969,29974,29970,29979,29980,29979,29980,29981,
+29982,29982,29983,29983,29984,29984,29985,29985,29986]} 1. e4 c5 2. Nc3 e6 3.
+Nge2 a6 4. g3 Nc6 5. Bg2 d6 6. d4 cxd4 7. Nxd4 Bd7 8. O-O {LiveBook: 431 Games}
+h5 $146 {B46: Sicilian: Taimanov: 5 Nc3 a6} ({Predecessor:} 8... Nf6 9. Nce2 b5
+10. a4 b4 11. b3 Rc8 12. Re1 Be7 13. Nxc6 Bxc6 14. Nd4 Ba8 15. Qd3 Qa5 16. Bb2
+O-O 17. e5 dxe5 18. Bxa8 Rxa8 {0-1 (68) Aronian,L (2765)-Alekseev,E (2639) St
+Petersburg 2018}) 9. Re1 Be7 10. Nxc6 Bxc6 {White is slightly better.} 11. Ne2
+h4 12. Nd4 hxg3 13. hxg3 Bd7 14. c4 Qc7 15. b3 Bf6 16. Bb2 Ne7 17. Qd2 Qc5 18.
+Nf3 Bxb2 19. Qxb2 e5 20. Qd2 Rd8 21. Qg5 Kf8 22. Rad1 f6 23. Qe3 Qc7 24. Rd2
+Kf7 25. Rc1 Be6 26. Ne1 g5 27. Rcd1 Nc6 28. Nc2 Bg4 29. Bf3 Be6 30. Qe2 Kg6 31.
+Qe3 Qh7 32. Rxd6 Qh2+ (32... Nd4 $5 33. R1xd4 (33. Rxd8 $2 Qh2+ 34. Kf1 Bh3+
+35. Ke1 Nxc2+ 36. Ke2 Nxe3 $19) 33... Qh2+ 34. Kf1 Bh3+ 35. Ke2 exd4 36. Qxd4
+Rxd6 37. Qxd6 g4 $11) 33. Kf1 Nd4 34. R6xd4 exd4 35. Nxd4 Bh3+ (35... Kf7 $11 {
+keeps the balance.}) 36. Ke1 (36. Ke2 $16 g4 37. Bh1) 36... Rhe8 (36... Bg2 $11
+) 37. Kd2 $14 Bg2 $1 {[%cal Rg2f3] [#] Strongly threatening ...Bxf3.} 38. Kc3
+Bxf3 39. Qxf3 Qh5 $1 {[%cal Rh5f3] Hoping for ...Qxf3+.} 40. g4 $36 {[%mdl
+2048] White has some pressure.} Qh2 41. Rh1 $1 Qf4 $1 {[%cal Rf4f3]} 42. Qxf4
+gxf4 {[%mdl 4096] Endgame KRR-KRN} 43. f3 Rd7 $2 {[#]} (43... Rh8 $16 {was
+necessary.} 44. Rf1 Rh2) 44. Ne2 $18 b5 45. Nxf4+ Kg7 46. Nd5 bxc4 47. bxc4 Rd6
+48. Rb1 Kg6 $2 (48... Rc6 49. Rb7+ Kf8) 49. c5 Rc6 50. Kd4 Kg5 51. Rb6 Rxb6 52.
+Nxb6 {KR-KN} Kf4 53. c6 Kxf3 54. c7 Rxe4+ 55. Kc5 Re8 56. Nd5 Rc8 57. Kd6 Kxg4
+58. Nxf6+ {White mates.} Kf3 59. Nd5 Ke4 60. Nb6 Rh8 61. c8=Q Rxc8 62. Nxc8 Kd4
+63. Nb6 Kc3 64. Kc5 Kb2 65. a4 {[%cal Ba2a4,Ba4a5][%mdl 32]} Kb3 66. a5 {
+Precision: White = 76%, Black = 37%.} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.23"]
+[Round "4.6"]
+[White "Gorti, Akshita"]
+[Black "Eswaran, Ashritha"]
+[Result "0-1"]
+[ECO "A61"]
+[WhiteElo "2272"]
+[BlackElo "2234"]
+[Annotator "TA"]
+[PlyCount "66"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,66,66,4,62,-25,-14,1,0,0,5,-28,-21,-15,76,-84,-73,-84,-73,-316,-216,
+-269,-264,-250,-255,-258,-283,-280,-285,-296,-282,-293,-293,-280,-286,-268,
+-242,-332,-311,-302,-321,-311,-299,-577,-585,-673,-668,-669,-663,-668,-654,
+-558,-282,-979,-889]} 1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3
+g6 7. Bf4 a6 8. Nd2 (8. a4 $14) 8... Nh5 {A61: Modern Benoni: Nf3 without
+early e4} (8... b5 $11) (8... b5 9. a4 b4 10. Nce4 Nh5 11. Be3 f5 12. g4 Nf6
+13. gxf5 Nxe4 14. Nxe4 Bxf5 15. Ng3 Qf6 16. Qd2 {1-0 (34) Sargissian,G (2667)
+-Ponomariov,R (2709) chess.com INT 2017}) 9. Be3 (9. Qa4+ $14 Qd7 10. Qe4+ Kd8
+11. Bg5+ Be7 12. Bh6) 9... Bg7 $11 10. a4 f5 {[#] And now ...f4 would win.The
+position is equal.} 11. Nc4 O-O 12. Qb3 f4 13. Bd2 {[#]} Qe7 $146 {[#]} (13...
+Nd7 $11 {keeps the balance.}) ({Predecessor:} 13... Nd7 14. Ne4 Ne5 15. Ba5 b6
+16. Bxb6 Rb8 {0-1 (79) Karttunen,M (2440)-Kononenko,D (2582) Plovdiv 2010}) 14.
+e3 $2 (14. Nb6 $1 $16 {[%cal Rb6a8] is necessary to keep the advantage.} Ra7
+15. Nxc8 Rxc8 16. g3) 14... Nd7 $36 {[%cal Bb8d7,Bd7e5,Be5g4,Bg4f2][%mdl 2080]
+White is under strong pressure.} 15. a5 Ne5 16. Nb6 $2 (16. O-O-O $17 {was
+necessary.}) 16... Rb8 17. O-O-O Ng4 18. exf4 {With the idea Re1.} Nxf2 19. Re1
+Qh4 20. Nxc8 Rfxc8 ({Less strong is} 20... Nxh1 21. Nxd6 Qxh2 22. Nde4 $17) 21.
+Rg1 Qxh2 ({Don't do} 21... Nxf4 22. Kb1 $19) 22. Bc4 Nxf4 23. Bxf4 Qxf4+ 24.
+Kb1 Re8 25. Ka1 Ne4 26. Nxe4 Rxe4 27. Rxe4 Qxe4 28. Bxa6 $2 (28. Qd3 Qh4 29.
+Ka2) 28... Ra8 $19 29. Qxb7 Qe8 30. Qb6 Qa4+ 31. Kb1 Qe4+ 32. Ka1 Qd4 33. Rf1
+$2 (33. Re1) 33... h5 {Accuracy: White = 30%, Black = 58%.} 0-1
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.24"]
+[Round "5.1"]
+[White "Wang, Annie"]
+[Black "Yu, Jennifer"]
+[Result "1/2-1/2"]
+[ECO "D17"]
+[WhiteElo "2304"]
+[BlackElo "2273"]
+[Annotator "TA"]
+[PlyCount "97"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 28,97,16,18,50,43,52,37,88,8,21,0,56,44,48,0,27,27,27,23,52,51,61,50,50,
+25,25,25,25,0,16,16,27,4,25,25,25,25,27,27,27,18,20,15,16,18,22,15,15,8,25,25,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,29,52,52,52,52]} 1. d4 d5 2. c4 c6
+3. Nc3 Nf6 4. Nf3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7 8. g3 e5 9. dxe5 Nxe5
+10. Bf4 Nfd7 11. Bg2 f6 12. O-O Rd8 13. Qc1 {D17: Slav Defence: 5 a4 Bf5:
+Lines with 6 Nh4 and 6 Ne5} Be6 14. Nxe5 Nxe5 15. Qe3 {LiveBook: 5 Games. The
+position is equal.} (15. Ne4 Bb4 16. Nc5 Bc8 17. Bxe5 Qxe5 18. Nd3 Qe7 19. Nxb4
+Qxb4 20. Qe3+ Kf7 21. Qxa7 {1/2-1/2 (29) Basso,P (2529)-Brunello,S (2542)
+Salerno 2018}) 15... Qa5 16. Bxe5 $1 fxe5 17. Qg5 Qc7 $146 {[#]} ({Black
+should play} 17... h6 $14 18. Qg6+ Bf7) ({Predecessor:} 17... h6 18. Qg6+ Bf7
+19. Qg4 {1-0 (45) Krueger,A (2061)-Schiefelbusch,D (2135) Dortmund 2010}) 18.
+Ne4 (18. Rad1 $1 $16) 18... Bb4 $11 19. Qh5+ Bf7 (19... g6 $11 20. Qf3 Bf5) 20.
+Qg4 $14 Bb3 $1 21. Qf5 Bf7 22. Rad1 {[#] And now Rxd8+ would win.} O-O 23. Ng5
+{[%csl Gg5][%cal Rf5h7]} Bg6 24. Qg4 Qe7 25. h4 a5 26. Qc4+ Bf7 $1 {[%cal
+Rf7c4]} 27. Qc2 {[%csl Gg5][%cal Rc2h7]} g6 28. Bh3 Kg7 29. Nxf7 Qxf7 30. Rd3
+Qf6 31. Rxd8 Rxd8 32. Rd1 Rxd1+ 33. Qxd1 Qd6 34. Qxd6 Bxd6 $11 {[%mdl 4096]
+Endgame KB-KB} 35. Bc8 b5 36. axb5 cxb5 37. Bd7 b4 38. Kg2 Kf6 39. Kf3 Ke7 40.
+Ba4 Bc5 41. e3 Ke6 42. Ke4 Be7 43. b3 Bd8 44. Bb5 h6 45. Bc4+ Kf6 46. Kd5 g5
+47. h5 Bc7 48. Kc6 Bd8 49. g4 {Precision: White = 68%, Black = 59%.} 1/2-1/2
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.24"]
+[Round "5.2"]
+[White "Sharevich, Anna"]
+[Black "Zatonskih, Anna"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[WhiteElo "2282"]
+[BlackElo "2430"]
+[Annotator "TA"]
+[PlyCount "88"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,88,11,11,11,6,8,9,0,5,7,7,0,70,38,61,64,104,99,120,118,114,0,6,-32,
+-29,-50,-19,-35,-17,-47,-43,-64,-72,-74,-24,-27,-18,-45,-39,-41,-41,-35,-19,
+-20,-19,-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 d5 2.
+Nf3 Nf6 3. c4 e6 4. g3 dxc4 5. Bg2 a6 6. O-O b5 7. Ne5 Nd5 8. a4 Bb7 9. b3 c3
+10. axb5 {E04: Open Catalan: 5 Nf3} axb5 11. Rxa8 Bxa8 12. e4 Nf6 {Black wants
+to play ...b4.} (12... b4 13. exd5 Bxd5 14. Be3 Be7 15. Qc2 Bxg2 16. Kxg2 Qd5+
+17. Kg1 Nd7 18. Nxc3 bxc3 19. Qxc3 {1/2-1/2 (31) Nikolov,M (2561)
+-Mastrovasilis,D (2602) Achaia 2017}) 13. Nxc3 b4 $1 {[%cal Rb4c3]} 14. Na4 Be7
+(14... Bxe4 $11 15. Bxe4 Nxe4) 15. Qd3 $146 ({Predecessor:} 15. f3 Nc6 16. Nxc6
+Bxc6 17. Be3 Bb5 {1/2-1/2 (57) Yigit,A (2032)-Kisadere,K (1809) Antalya 2019})
+15... O-O 16. Bb2 Nc6 {[%cal Bb8c6,Bc6a7,Ba7b5,Bb5c3][%mdl 32] [#] White must
+now prevent ...Nxe5.} 17. Nc4 Na7 18. Rd1 Qb8 19. e5 (19. d5 $16) 19... Nd5 $11
+20. f4 g6 21. Nd2 Rd8 22. Ne4 Nb5 23. Rf1 Ndc3 24. Naxc3 bxc3 25. Bxc3 Bxe4 26.
+Bxe4 Qb6 27. Kh1 Nxc3 28. Qxc3 Rxd4 29. Bg2 h6 30. h4 {The position is equal.}
+Rb4 (30... h5 {feels hotter.} 31. Kh2 Rb4 32. Rb1 Bc5 33. Kh3 Kg7) 31. Rf3 Qc5
+(31... Kg7 {is more complex.} 32. Qc2 h5 33. Rd3 Bc5 34. Bf3 Rd4) 32. Qxc5 Bxc5
+{[%mdl 4096] Endgame KRB-KRB} 33. Bf1 Rd4 34. Rd3 Re4 35. Kg2 g5 36. hxg5 hxg5
+37. Kf3 Re1 38. Rd8+ Kg7 39. Bc4 Bb6 40. Rd7 {[#] aiming for Bxe6.} Kf8 41. Kg4
+gxf4 42. gxf4 Rg1+ 43. Kf3 Re1 44. Kg4 Rg1+ {Accuracy: White = 63%, Black =
+69%.} 1/2-1/2
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.24"]
+[Round "5.3"]
+[White "Eswaran, Ashritha"]
+[Black "Abrahamyan, Tatev"]
+[Result "0-1"]
+[ECO "C16"]
+[WhiteElo "2234"]
+[BlackElo "2377"]
+[Annotator "TA"]
+[PlyCount "82"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,82,47,50,10,14,13,17,14,19,10,0,-41,-28,-40,-20,-71,-45,-46,0,0,0,
+-66,-64,-151,-150,-142,-174,-172,-170,-246,-241,-387,-328,-334,-327,-330,-327,
+-334,-336,-413,-404,-449,-429,-536,-498,-708,-693,-798,-796,-773,-772,-774,
+-745,-863,-866,-956,-947,-929,-909,-1144,-1082,-6079,-6095,-29976,-29977,
+-29980,-29980]} 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 5. a3 Bxc3+ 6. bxc3 Qd7
+7. Qg4 f5 8. Qg3 Ba6 9. Bxa6 Nxa6 10. Nh3 {C16: French: 3 Nc3 Bb4 4 e5: Lines
+without ...c5} (10. Ne2 Kf7 11. h4 Ne7 12. Bg5 c5 13. Qd3 Nb8 14. h5 Nbc6 15.
+Nf4 cxd4 16. cxd4 h6 17. Bh4 Rhf8 18. Rh3 {0-1 (52) Aryan,C (2536)-Antipov,M 
+(2626) Biel 2018}) 10... h6 11. Nf4 g5 12. Ne2 {The position is equal.} Ne7 13.
+h4 O-O-O 14. Qd3 Nb8 15. a4 Nec6 16. Ng3 $146 (16. Qg3 $11 {remains equal.})
+16... f4 17. Nh5 Na5 (17... Qf7 $5 {[%cal Rf7h5]} 18. Nf6 Nd7 19. Nxd7 Qxd7 $15
+) 18. Nf6 Qf7 19. Qh3 (19. Ba3 $11) 19... Nc4 $15 20. hxg5 (20. a5 $15) 20...
+hxg5 $17 21. Qxh8 Rxh8 22. Rxh8+ Kb7 23. Rh6 (23. Bd2 $142) 23... Nd7 $19 24.
+Kf1 (24. f3 $142 Nxf6 25. exf6) 24... Nxf6 25. exf6 Nd6 26. a5 Nf5 27. Rh3 Qxf6
+28. Rd3 Nd6 29. Bd2 Nc4 30. axb6 cxb6 31. f3 (31. Bc1 $142 g4 32. Kg1) 31...
+Nb2 32. Be1 Nxd3 33. cxd3 {[%mdl 4096] Endgame KQ-KRB} Qf5 34. Rd1 a5 {[%cal
+Ba7a5,Ba5a4][%mdl 32]} 35. Rd2 a4 36. Ke2 e5 37. Ra2 b5 38. Bf2 e4 39. dxe4
+dxe4 40. Rb2 e3 41. Be1 a3 {Accuracy: White = 20%, Black = 85%.} 0-1
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.24"]
+[Round "5.4"]
+[White "Krush, Irina"]
+[Black "Gorti, Akshita"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[WhiteElo "2451"]
+[BlackElo "2272"]
+[Annotator "TA"]
+[PlyCount "80"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,80,0,4,1,7,0,0,0,0,0,0,-19,0,0,14,0,16,-30,-23,-22,-12,-20,0,-10,-6,
+-8,0,-39,-28,-27,-27,-31,-29,-31,-20,-30,0,0,0,-23,-4,-26,-20,-20,-14,-31,0,0,
+0,-37,-49,-41,-11,-27,-21,-16,0,-20,-20,-18,-19,-30,-5,-8,0,-12,-12,-12,0,-12,
+0,-13,0]} 1. d4 e6 2. c4 Nf6 3. Nf3 d5 4. e3 Bb4+ 5. Bd2 Be7 6. Nc3 {D30:
+Queen's Gambit Declined: Systems without Nc3} O-O 7. Rc1 b6 8. cxd5 exd5 9. Bd3
+Bb7 10. Ne5 c5 11. O-O Nbd7 12. f4 Ne4 13. Qc2 $146 {[%cal Rc3e4]} (13. Nxe4 {
+is more complex.} dxe4 14. Bb5 Nxe5 15. dxe5 a6 16. Be2) ({Predecessor:} 13.
+Be1 Ndf6 14. Bh4 cxd4 15. exd4 Rc8 16. Bxf6 Nxf6 17. Qe2 Bb4 18. Nb5 {0-1 (41)
+Bauer,C (2630)-Kryvoruchko,Y (2705) Switzerland 2018}) 13... Ndf6 14. dxc5 $1
+Bxc5 15. Nxe4 $1 Nxe4 16. Bxe4 dxe4 17. b4 Bd6 18. Ng4 Qe7 19. Qb2 Rac8 20. Bc3
+$1 {[%cal Rc3g7]} f6 21. a3 Rc7 (21... Qe6 {looks sharper.} 22. h3 Rc7 23. Rfd1
+h6 24. Bd4 Rd7) 22. Bd4 Rxc1 23. Rxc1 Qe6 24. Nf2 Rc8 25. Rc2 Rxc2 26. Qxc2 Qd5
+27. g3 h5 28. Qa4 Bc6 29. Qa6 Bb5 30. Qc8+ Kh7 {[#] And now ...Bc5! would win.}
+31. Qc2 Bc6 32. Nd1 a5 33. Bxb6 axb4 34. axb4 Bxb4 {White should prevent ...
+Qd3.} 35. Bd4 Bd7 36. Nf2 {The position is equal.} Bc6 37. Qb1 Bd6 38. Qc2 Bb4
+39. Qb1 Bd6 40. Qc2 Bb4 {Accuracy: White = 64%, Black = 34%.} 1/2-1/2
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.24"]
+[Round "5.5"]
+[White "Yip, Carissa"]
+[Black "Feng, Maggie"]
+[Result "1-0"]
+[ECO "C03"]
+[WhiteElo "2279"]
+[BlackElo "2199"]
+[Annotator "TA"]
+[PlyCount "91"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,91,0,-22,20,29,0,0,19,30,12,-23,64,25,88,87,102,63,140,145,206,205,
+387,391,367,358,360,353,389,380,416,420,476,477,440,372,654,654,623,550,535,
+556,558,559,552,550,564,552,657,664,654,647,646,646,687,687,717,731,922,702,
+862,598,820,683,669,652,660,653,639,671,1034,1019,1152,1158,1111,1063,1158,
+1162,1156,1141,1048,1013]} 1. e4 e6 2. d4 d5 3. Nd2 Be7 4. e5 c5 5. Qg4 Kf8 6.
+Ndf3 {C03: French Tarrasch: Unusual Black 3rd moves} (6. dxc5 Nc6 7. Qg3 Nh6 8.
+Bd3 Bh4 9. Qh3 Nxe5 10. Ndf3 Nxd3+ 11. cxd3 Bf6 12. Bxh6 gxh6 13. Qxh6+ Ke7 {
+1-0 (27) Popov,I (2592)-Savchenko,B (2562) Moscow 2018}) 6... Nc6 7. Bd3 {
+LiveBook: 14 Games} h5 8. Qf4 {The position is equal.} Nh6 9. dxc5 Bxc5 10. Be3
+$146 ({Predecessor:} 10. a3 Ng4 11. Nh3 f6 12. b4 Bb6 13. Bb2 Bc7 14. exf6 gxf6
+{1-0 (33) Savchenko,V (2437)-Bluebaum,M (2329) Dortmund 2011}) 10... Be7 11. c3
+Qc7 (11... Ng4 $11) 12. Ne2 Kg8 (12... Ng4 $11) 13. h3 $36 {[%mdl 2048]
+Keeping Black busy.} h4 14. Rg1 Kf8 (14... Nf5 $14) 15. g3 ({Don't go for} 15.
+Nxh4 $2 g5 $19) 15... g5 (15... Nf5 $16 {was called for.}) 16. Nxg5 $18 Qxe5 $2
+(16... Bxg5 17. Qxg5 Qxe5) 17. Nh7+ Rxh7 18. Bxh7 Qxf4 19. Bxf4 Kg7 20. Bc2 f5
+21. O-O-O Nf7 22. gxh4+ Kh7 23. Bg5 Nd6 $2 (23... Nxg5 24. hxg5 Bc5) 24. Bxe7 {
+White is clearly winning.} Nxe7 25. Rg5 {[#] Threatens to win with Rdg1.} Nf7
+26. Rg3 Bd7 27. Nf4 Rg8 {[#]} 28. c4 $1 {[%cal Bc3c4,Bc4d5][%mdl 32]} Rxg3 (
+28... dxc4 29. Rxd7) 29. fxg3 {[%cal Bf2g3,Bg3g4][%mdl 32]} Nd6 30. cxd5 e5 31.
+Re1 e4 32. g4 Kg7 33. Nh5+ Kg6 34. Ng3 Nxd5 35. gxf5+ Bxf5 36. Nxe4 Nb5 37. Ng3
+Bxc2 38. Kxc2 {[%mdl 4096] Endgame KRN-KNN} Nd4+ 39. Kd3 Nf3 40. h5+ {[%cal
+Bh4h5,Bh5h6][%mdl 32]} Kg5 41. Rc1 Kf4 42. Ne2+ Ke5 43. h6 Ng5 44. Rg1 Nh7 45.
+Rg7 Ndf6 46. Rxb7 {Precision: White = 82%, Black = 24%.} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.24"]
+[Round "5.6"]
+[White "Nguyen, Emily"]
+[Black "Foisor, Sabina-Francesca"]
+[Result "1/2-1/2"]
+[ECO "D25"]
+[WhiteElo "2143"]
+[BlackElo "2276"]
+[Annotator "TA"]
+[PlyCount "88"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,88,50,49,55,60,43,33,51,37,61,43,25,22,93,91,95,67,120,125,103,82,98,
+27,11,18,88,60,106,97,110,116,119,125,203,35,28,-12,0,0,44,51,66,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,8,8,8,0,0,0,0,-8,0,0,0,-8,-8,-8,-8,-28,-28]} 1. d4 d5 2. c4
+dxc4 3. Nf3 Nf6 4. e3 Bg4 5. Bxc4 e6 6. Nc3 a6 7. h3 Bh5 8. g4 Bg6 9. Ne5 Bd6 {
+D22: Queen's Gambit Accepted: 3 Nf3 a6 4 e3} (9... Nbd7 10. Nxg6 hxg6 11. Qf3
+c6 12. Bb3 Qb6 13. Bd2 Be7 14. O-O-O Nd5 15. Kb1 Rf8 16. Ne2 a5 17. e4 Nb4 18.
+a3 a4 19. Bc4 {1-0 (40) Vitiugov,N (2719)-Zubritskiy,A (2442) St Petersburg
+2018}) 10. Nxg6 hxg6 11. Bf1 c6 {White is slightly better.} 12. Bg2 Nbd7 13.
+O-O Nd5 14. f4 Qc7 (14... f5 $11 {remains equal.}) 15. e4 $16 N5b6 16. Qe2 c5
+$146 (16... O-O-O $14) ({Predecessor:} 16... O-O 17. Be3 c5 18. e5 Be7 19. Rac1
+{1-0 (53) Prohaszka,P (2470)-Fodor,T (2422) Budapest 2007}) 17. e5 Be7 18. d5
+exd5 19. Nxd5 (19. Bxd5 $16 Nxd5 20. Nxd5) 19... Nxd5 $11 20. Bxd5 {With the
+idea e6.} Nb6 (20... Rxh3 $11 {keeps the balance.} 21. e6 Nf6 22. exf7+ Kf8)
+21. Bg2 $16 O-O-O {[#]} 22. Bd2 $1 Kb8 23. Ba5 c4 {aiming for ...Qc5+.} 24. Kh2
+Qc5 (24... g5 $16) 25. Bd2 $2 (25. b4 $18 Qb5 26. Qf2) 25... Rd3 $14 26. Rae1 {
+[%cal Ba1e1,Be1e3,Be3f3][%mdl 32]} Nd5 $36 {[%mdl 2048] Black fights for an
+advantage.} 27. Rf3 Qd4 28. Rxd3 cxd3 29. Qe4 ({White should play} 29. Qf3 $1
+$14 Rd8 30. Re3 Qxf4+ 31. Kh1) 29... Qf2 $11 {[#] ( -> ...Rxh3+!)} 30. Re3
+Qxf4+ 31. Qxf4 Nxf4 32. Rf3 g5 33. Bxf4 gxf4 34. Rxd3 Rd8 35. Rxd8+ Bxd8 {
+[%mdl 4096] Endgame KB-KB} 36. Bd5 Bc7 37. Bxf7 Bxe5 38. b3 f3+ 39. Kg1 Bd4+
+40. Kf1 Kc7 41. Bd5 f2 42. a4 b5 43. axb5 axb5 44. h4 Kd6 {Accuracy: White =
+62%, Black = 39%.} 1/2-1/2
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.25"]
+[Round "6.1"]
+[White "Feng, Maggie"]
+[Black "Yu, Jennifer"]
+[Result "0-1"]
+[ECO "A05"]
+[WhiteElo "2199"]
+[BlackElo "2273"]
+[Annotator "TA"]
+[PlyCount "80"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,79,0,11,10,11,4,20,0,20,8,12,26,25,31,38,16,32,0,0,0,29,0,23,-6,0,0,
+29,-65,0,0,0,0,6,-113,-100,-132,-146,-337,0,0,0,4,83,79,103,75,109,89,140,145,
+167,138,192,-561,-567,-481,-472,-29997,-29998,-29999]} 1. Nf3 Nf6 2. g3 g6 3.
+Bg2 Bg7 4. d4 d5 5. c4 c6 6. cxd5 cxd5 7. Nc3 O-O 8. Ne5 Nc6 9. O-O Bf5 10.
+Nxc6 bxc6 11. Na4 Nd7 12. Bf4 {D79: Fianchetto Grünfeld: Symmetrical Variation
+(6 0-0 c6 7 cxd5 cxd5)} Qa5 13. b3 Rac8 14. Rc1 {The position is equal.} Rfe8
+15. Bd2 {[#]} Qb5 $146 ({Predecessor:} 15... Qd8 16. Bb4 e5 17. dxe5 Nxe5 18.
+Bc5 Qa5 19. Re1 Bh6 {1/2-1/2 (127) Aronian,L (2801)-Mamedov,R (2647) Antalya
+2013}) 16. Bc3 e5 17. dxe5 Nxe5 18. h3 Rcd8 19. Bb2 h5 20. Re1 a6 21. Rc5 Qb7
+22. Qa1 {aiming for f4.} Qe7 23. Rd1 Kh7 24. e3 (24. Bd4 $11) 24... Bh8 (24...
+h4 $15 25. g4 Bd7) 25. Bxe5 $11 Bxe5 26. Qc1 Bd7 27. Nb6 {[#]} (27. Rc2 $11 {
+keeps the balance.}) 27... Bb2 $1 $17 {[%cal Rb2c1][%mdl 512]} 28. Qc2 (28.
+Qxb2 Qxc5) 28... Bf5 29. e4 $2 (29. Qxb2 $17 Qxc5 30. Na4) 29... dxe4 $2 ({
+Black should play} 29... Bxe4 $19 30. Bxe4 dxe4) 30. Rxd8 $11 Rxd8 31. Rxf5 $1
+{And now Rf4 would win.} gxf5 (31... Bd4 $11 32. Rf4 (32. Qxe4 Qxe4 33. Rxf7+
+Kg8 $17) 32... Bxb6 33. Rxe4 Qf6) 32. Qxb2 $16 h4 {[#] White must now prevent .
+..hxg3.} 33. Nc4 $1 Rd1+ 34. Kh2 Qg5 (34... Qc5 $142) 35. Qe5 {Hoping for Bxe4!
+} Rd5 36. Qc7 Kg7 {[#]} (36... hxg3+ $16 37. fxg3 Kg7) 37. Qxc6 $4 {[%mdl 8192]
+} (37. gxh4 $1 $18 Qxh4 38. Ne3) 37... hxg3+ $19 38. fxg3 f4 39. Qc7 (39. g4
+$19 f3 40. Qc7) 39... Qxg3+ 40. Kg1 Rd1# {Accuracy: White = 36%, Black = 37%.}
+0-1
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.25"]
+[Round "6.2"]
+[White "Zatonskih, Anna"]
+[Black "Eswaran, Ashritha"]
+[Result "1-0"]
+[ECO "D61"]
+[WhiteElo "2430"]
+[BlackElo "2234"]
+[Annotator "TA"]
+[PlyCount "95"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,95,14,14,24,12,40,27,43,42,43,37,39,7,50,21,67,41,41,19,39,34,45,14,
+35,35,43,30,41,23,49,47,191,100,297,99,93,99,117,66,66,66,70,70,105,113,322,
+332,316,324,302,311,295,297,327,320,362,361,390,390,390,356,380,387,376,357,
+390,390,492,456,1291,1280,1229,1115,5281,890,890,890,890,890,29996,29997]} 1.
+d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. e3 Be7 5. c4 O-O 6. Nc3 Nbd7 7. Qc2 c6 8. Rd1 h6
+9. Bh4 Qc7 {D61: Queen's Gambit Declined: Classical: 7 Qc2} (9... a6 10. a3 b6
+11. Be2 Bb7 12. O-O Qe8 13. Rfe1 dxc4 14. Bxc4 c5 15. d5 exd5 16. Nxd5 Bxd5 17.
+Bxd5 Nxd5 18. Rxd5 Bxh4 19. Nxh4 {0-1 (47) Salem,A (2638)-Kasimdzhanov,R (2683)
+Riadh 2017}) 10. Bd3 a6 $146 ({Predecessor:} 10... dxc4 11. Bxc4 b5 12. Bd3 a6
+13. a4 Bb7 14. O-O Rac8 15. Qe2 Rfe8 16. Rc1 {1-0 (78) Sharavdorj,D (2452)
+-Erkhembayar,D (2236) Ulaanbaatar 2011}) 11. cxd5 exd5 {White has an edge.} 12.
+O-O Re8 13. Rb1 Bd6 14. Rfc1 Qd8 15. b4 Nf8 16. a4 Bg4 17. Nd2 Bd7 18. Nf1 Ne6
+19. b5 Ng5 20. bxa6 bxa6 21. Bg3 $36 {[%mdl 2048] Black is under pressure.} Ba3
+22. Rd1 Nh5 23. Be5 Bg4 {[#]} (23... a5 $14) 24. Ne2 (24. h4 $1 $18) 24... Qd7
+$2 {[#]} (24... Bd7 $16 {might work better.}) 25. Nfg3 $2 (25. h4 $1 $18 {
+is the precise move to win.}) 25... Nxg3 $16 26. Bxg3 Bxe2 27. Qxe2 ({White
+should play} 27. Bxe2 $16 a5 28. Rb6) 27... a5 $14 28. Rb6 Ne4 {White should
+prevent ...Nc3.} 29. Qc2 Nxg3 30. hxg3 Re6 $2 (30... g6 $16) 31. Bf5 $18 Qc7
+32. Rb3 {[%cal Bb6b3,Bb3e3,Be3e2][%mdl 32]} Bb4 33. Bxe6 fxe6 34. e4 Qd7 35.
+Rc1 Rc8 36. Re3 Qa7 37. exd5 exd5 38. Qd3 Qd7 39. Re2 Qg4 40. Rcc2 Qd7 41. Qg6
+Kh8 42. Re6 c5 (42... Rf8 $142 43. Rexc6 Qf7) 43. Rce2 Rg8 44. Re7 Qxa4 45. Re8
+(45. R2e6 $142 Bd2 46. dxc5) 45... cxd4 46. Rxg8+ Kxg8 47. Re8+ Bf8 48. Qe6+ {
+[%mdl 64] Double Attack. Accuracy: White = 57%, Black = 23%.} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.25"]
+[Round "6.3"]
+[White "Abrahamyan, Tatev"]
+[Black "Krush, Irina"]
+[Result "1-0"]
+[ECO "B35"]
+[WhiteElo "2377"]
+[BlackElo "2451"]
+[Annotator "TA"]
+[PlyCount "87"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 24,87,29,1,26,4,45,16,53,-55,0,0,0,0,4,13,15,0,21,18,20,0,30,8,14,-6,0,
+0,17,16,14,4,60,60,54,50,95,0,0,0,4,4,1,0,0,0,0,-7,0,-37,0,0,0,0,28,34,29983,
+29984,29984,29985,29985,29986,29986,29987,29988,4682]} 1. e4 c5 2. Nf3 Nc6 3.
+d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O 8. Bb3 d6 9. f3 Bd7 10. h4
+h5 11. Qd2 Na5 12. O-O-O Nxb3+ {B77: Sicilian Dragon: Yugoslav Attack, 9 Bc4
+sidelines} (12... Rc8 13. Kb1 Re8 14. Bh6 Nc4 15. Bxc4 Rxc4 16. Bxg7 Kxg7 17.
+Nd5 e5 18. Nxf6 Qxf6 19. Ne2 Rc6 20. Qe3 Be6 {0-1 (36) Aravindh,C (2588)-Bu,X 
+(2697) Chengdu 2017}) 13. cxb3 {LiveBook: 8 Games} a5 14. Bh6 a4 $146 {The
+position is equal.} ({Predecessor:} 14... Bxh6 15. Qxh6 a4 16. bxa4 Bxa4 17. e5
+Ne8 18. Rd2 Qa5 19. e6 Rc8 20. Kb1 Ng7 21. Ne4 f6 22. Qxg6 Be8 23. Qh6 Nf5 24.
+Nxf5 Qxf5 25. Rh3 {1-0 (25) Perpinya Rofes,L (2368)-Rojas Keim,L (2458)
+Sabadell 2011}) 15. bxa4 Bxa4 16. Rdg1 ({White should try} 16. Bxg7 $14 Kxg7
+17. e5) 16... Qa5 (16... Bxh6 $15 17. Qxh6 Qb6) 17. Bxg7 $11 Kxg7 18. g4 Rh8
+19. gxh5 Rxh5 20. Rg5 Rxg5 21. hxg5 Nh5 22. f4 {[%cal Bf3f4,Bf4f5][%mdl 32]}
+Bd7 23. f5 Qe5 24. Re1 Rc8 25. Kb1 Rc4 26. Nf3 Qg3 27. Qd3 Rc5 (27... b5 $11)
+28. b4 $14 Rc8 29. Nd5 Ba4 30. Nc3 ({Better is} 30. Qe3 $16) 30... Bc6 $11 {
+And now ...gxf5 would win.} 31. b5 {[#] Black must now prevent Ne2.} Bd7 32.
+Nd5 Bxb5 33. Qxb5 Qxf3 34. Nxe7 Rc5 35. Qb2+ Kh7 {Hoping for ...Qd3+.} 36.
+fxg6+ fxg6 {Strongly threatening ...Qd3+.} 37. Nd5 $36 {[%mdl 2048] White has
+some pressure.} Qd3+ 38. Ka1 {aiming for Qf2.} Rb5 39. Qf2 {Qf7+ is the strong
+threat.} Rc5 $2 {[%mdl 8192] [#]} (39... Rxd5 $14 40. Qf7+ (40. exd5 Qc3+ 41.
+Kb1 Qb4+ 42. Kc2 Qc4+ 43. Kb2 Qb4+ 44. Ka1 Qc3+ 45. Kb1 Qb4+ 46. Kc2 Qc4+ 47.
+Kb2 Qb4+ 48. Kc2 $14) 40... Kh8 41. Qe8+ Kh7 42. Qd7+ (42. exd5 Qd4+ 43. Kb1
+Qd3+ 44. Kb2 Qd4+ 45. Kc2 Qc4+ 46. Kd2 Qxd5+ 47. Kc1 Qc4+ 48. Kb2 Qd4+ 49. Kb1
+Qd3+ 50. Kb2 Qd4+ 51. Kc1 Qc5+ 52. Kb2 Qd4+ $11) 42... Kg8 43. Qd8+ Kf7 44.
+Qc7+ Kg8 45. Qb8+ Kg7 46. Qxb7+ Kf8 47. Qb8+ Kf7 48. Qc7+ Kf8 49. Qd8+ Kf7 50.
+Qd7+ Kg8 51. Qe8+ Kh7 52. exd5 (52. Qf7+ Kh8 $11) 52... Qd4+ 53. Kb1 Qb4+ 54.
+Kc1 Qc5+ 55. Kd1 Qxd5+ 56. Kc1 Qc4+ 57. Kd2 Qb4+ 58. Kd3 Nf4+ 59. Kc2 Qc4+ 60.
+Kd2 (60. Kb1 Qd3+ 61. Kb2 Qd4+ 62. Ka3 Qd3+ 63. Kb2 Qd4+ 64. Ka3 Qc5+ 65. Kb3
+Qb6+ 66. Kc2 Qf2+ 67. Kb3 Qb6+ 68. Kc2 Qc5+ 69. Kb3 Qb6+ $11) 60... Qd5+ 61.
+Kc2 Qc4+ 62. Kd1 (62. Kb1 Qd3+ 63. Ka1 Qc3+ 64. Kb1 Qd3+ 65. Ka1 Qc3+ 66. Kb1
+Qd3+ $11) 62... Qd5+ 63. Kc2 Qc4+) 40. Qf7+ {White mates.} Kh8 41. Qf8+ Kh7 42.
+Qh6+ Kg8 43. Qxg6+ Ng7 44. Qf6 {Precision: White = 45%, Black = 36%.} (44. Ne7+
+$142 Kf8 45. Qf6+ Ke8 46. Nd5 Qc3+ 47. Nxc3 Kd7 48. Nd5 Ne6 49. Qe7+ Kc8 50.
+Qxe6+ Kb8 51. Qxd6+ Ka7 52. Qxc5+ Ka8 53. Qc7 Ka7 54. Rb1 Ka8 55. Qxb7#) 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.25"]
+[Round "6.4"]
+[White "Foisor, Sabina-Francesca"]
+[Black "Wang, Annie"]
+[Result "0-1"]
+[ECO "D37"]
+[WhiteElo "2276"]
+[BlackElo "2304"]
+[Annotator "RC"]
+[PlyCount "70"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "5400+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} e6 {
+[%emt 0:00:00]} 3. c4 {[%emt 0:00:00]} d5 {[%emt 0:00:00]} 4. Nc3 {[%emt 0:00:
+00]} Be7 {[%emt 0:00:00]} 5. Bf4 {[%emt 0:00:00]} O-O {[%emt 0:00:06]} 6. a3 {
+[%emt 0:00:01]} b6 {[%emt 0:01:14]} 7. e3 {[%emt 0:00:20]} Bb7 {[%emt 0:01:21]}
+8. cxd5 {[%emt 0:00:25]} exd5 {[%emt 0:03:17]} 9. Bd3 {[%emt 0:04:26]} c5 {
+[%emt 0:01:40]} 10. O-O {[%emt 0:01:37]} Nbd7 {[%emt 0:01:04]} 11. Rc1 {
+[%emt 0:01:31]} Ne4 {[%emt 0:04:26]} 12. Nd2 {[%emt 0:12:57]} Ndf6 {[%emt 0:04:
+31]} 13. dxc5 {[%emt 0:02:42]} Nxd2 {[%emt 0:06:51]} 14. Qxd2 {[%emt 0:00:08]}
+bxc5 {[%emt 0:00:08]} 15. Na4 {[%emt 0:08:01]} Rc8 {[%emt 0:04:00]} 16. Bf5 {
+[%emt 0:02:06]} Rc6 {[%emt 0:01:15]} 17. Nc3 {[%emt 0:03:24]} d4 {[%emt 0:07:
+19]} 18. exd4 {[%emt 0:18:43]} cxd4 {[%emt 0:00:10]} 19. Ne2 {[%emt 0:00:19]}
+Qd5 {[%emt 0:02:53]} 20. Bh3 {[%emt 0:00:31]} Rxc1 {[%emt 0:17:18]} 21. Rxc1 {
+[%emt 0:03:37]} g5 {[%emt 0:02:12]} 22. Bg3 {[%emt 0:08:53]} g4 {[%emt 0:01:39]
+} 23. Nf4 {[%emt 0:01:46]} Qf5 {[%emt 0:03:12]} 24. Bxg4 {[%emt 0:02:04]} Nxg4
+{[%emt 0:02:04]} 25. h3 {[%emt 0:00:31]} Ne5 {[%emt 0:04:53]} 26. Rc7 {[%emt 0:
+02:23]} Bxg2 {[%emt 0:01:25]} 27. Kxg2 {[%emt 0:02:57]} Qe4+ {[%emt 0:00:09]}
+28. f3 {[%emt 0:00:20]} Qxf3+ {[%emt 0:00:17]} 29. Kh2 {[%emt 0:00:04]} Qf1 {
+[%emt 0:00:32]} 30. Qe2 {[%emt 0:07:03]} Nf3+ {[%emt 0:00:15]} 31. Qxf3 {
+[%emt 0:00:03]} Qxf3 {[%emt 0:00:09]} 32. Rxe7 {[%emt 0:00:03]} Rc8 {[%emt 0:
+00:36]} 33. Re2 {[%emt 0:01:16]} d3 {[%emt 0:00:10]} 34. Rg2 {[%emt 0:00:46]}
+Rc2 {[%emt 0:01:13]} 35. Be1+ {[%emt 0:05:13]} Kf8 {[%emt 0:00:56]} 0-1
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.25"]
+[Round "6.5"]
+[White "Yip, Carissa"]
+[Black "Sharevich, Anna"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[WhiteElo "2279"]
+[BlackElo "2282"]
+[Annotator "TA"]
+[PlyCount "152"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,152,14,18,15,-4,0,-8,-9,-24,3,-32,-26,-34,32,36,27,28,33,18,17,17,39,
+37,34,38,64,51,63,64,66,66,66,66,59,59,98,66,66,8,8,8,8,9,10,8,8,-217,-204,
+-210,-207,-196,-191,-201,-214,-227,-193,-152,-146,-163,-148,-262,-172,-268,
+-266,-250,-12,-16,-20,-31,-8,-12,-8,-8,-8,-8,-8,-70,-70,-70,-70,-70,-70,-75,
+-75,-75,-70,-70,-70,-70,-70,-129,-70,-140,-51,-51,-51,-51,-12,-51,-51,-51,-51,
+-51,-51,-51,-51,-51,0,-51,0,-51,-12,-12,-12,-12,-12,-12,-12,-12,-12,-12,-12,
+-12,-12,-12,-8,-12,0,-12,-8,-8,-8,-8,-8,-8,-8]} 1. e4 c5 2. Nf3 e6 3. d4 cxd4
+4. Nxd4 a6 5. Nc3 Qc7 6. g3 Bb4 7. Bd2 Nf6 8. Bg2 Nc6 9. Nxc6 dxc6 10. O-O Be7
+{B43: Sicilian: Kan Variation: 5 Nc3} (10... a5 11. a3 Be7 12. Be3 b5 13. e5
+Nd5 14. Bd4 Nxc3 15. Bxc3 Bb7 16. Qd2 O-O 17. Rfd1 Rfd8 18. Qe1 {1/2-1/2 (35)
+Galdunts,S (2424)-Hera,I (2619) Germany 2018}) 11. Qe2 e5 12. Nd1 Bg4 13. f3
+Be6 14. Ne3 Bc5 $146 15. b4 Bxe3+ (15... Bd4 $15) 16. Bxe3 $14 O-O 17. Rfd1
+Rfd8 18. a3 Rxd1+ 19. Rxd1 Rd8 20. Rxd8+ Qxd8 21. Qd3 Qd7 22. Bc5 b5 23. f4 Bc4
+24. Qxd7 Nxd7 {[%mdl 4096] Endgame KBB-KBN} 25. Bd6 exf4 $1 26. gxf4 Nb6 27.
+Bc5 Nd7 28. e5 (28. Bd4 $14) 28... Bd5 $11 29. Bxd5 cxd5 {KB-KN} 30. Kf2 Nb8
+31. Ke3 Nc6 $1 32. c4 $2 (32. f5 $11) 32... dxc4 $19 ({Not} 32... bxc4 33. a4
+$16) 33. Ke4 {White wants to play Kd5.} g6 34. Kd5 Nd8 35. Be3 Kf8 $1 36. Kc5
+Ke7 37. Kb6 Kd7 38. Kxa6 Kc6 39. a4 (39. Bd2 $17) 39... bxa4 40. b5+ (40. Bc1
+$142) 40... Kd5 41. Bc1 {intending Ka5.} Ne6 $2 (41... c3 $1 $19 42. Ka5 Ne6)
+42. Ba3 $1 $11 c3 43. b6 $1 {[%cal Rb6b7]} Nd8 {...Kc4 is the strong threat.}
+44. Kb5 c2 45. Kxa4 Kc6 46. Kb3 Ne6 {Threatens to win with ...Nd4+.} 47. Kxc2 (
+{White should try} 47. Bc1 $11) 47... Nxf4 $15 48. Bc1 Nd5 49. Kd3 Nxb6 {
+And now ...Kd5 would win.} 50. Ke4 Kd7 51. Be3 Nc8 52. Bd2 Ke6 53. Be3 Ne7 54.
+Bf4 {[#]} (54. h4 $15) 54... Nc6 (54... Nd5 $1 $17 {[%cal Rd5f4]} 55. Bd2 Nb6)
+55. h3 {[#]} (55. h4 $15) 55... h5 (55... Na5 $1 $17 {aiming for ...Nc4.} 56.
+Bg5 Nc6) 56. h4 Ne7 57. Bd2 Nd5 58. Be1 Nb6 59. Bd2 Nd7 60. Bc3 Nb8 61. Be1 Nc6
+62. Bc3 Ne7 63. Bd2 Nd5 64. Be1 f6 65. exf6 {The position is equal.} Nxf6+ 66.
+Kf4 Nd5+ 67. Ke4 Ne7 68. Bf2 Nf5 69. Be1 Nh6 70. Kf4 Nf7 71. Ke4 Kd6 72. Bg3+
+Ke6 73. Be1 g5 74. hxg5 Nxg5+ 75. Kf4 Nf7 76. Bc3 $1 Nd6 {Accuracy: White =
+61%, Black = 59%.} 1/2-1/2
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.25"]
+[Round "6.6"]
+[White "Gorti, Akshita"]
+[Black "Nguyen, Emily"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "2272"]
+[BlackElo "2143"]
+[Annotator "TA"]
+[PlyCount "73"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,73,27,0,34,-8,0,-4,-2,-54,-42,-76,-77,-38,78,27,80,71,118,138,144,
+137,231,55,159,132,139,125,237,254,814,813,785,576,566,542,548,541,535,522,639,
+567,579,564,564,557,554,534,551,538,624,624,616,614,806,793,1333,690]} 1. Nf3
+d5 2. e3 Nf6 3. c4 c6 4. Nc3 a6 5. h3 g6 6. d4 Bg7 7. Bd3 O-O 8. O-O dxc4 {
+D94: Grünfeld: 4 Nf3 Bg7 5 e3} (8... b5 9. b3 Nbd7 10. Bb2 bxc4 11. bxc4 dxc4
+12. Bxc4 c5 13. Rb1 cxd4 14. Nxd4 Ne5 15. Be2 Bb7 16. Na4 {1-0 (55) Fedoseev,V
+(2724)-Artemiev,V (2697) Moscow 2018}) 9. Bxc4 b5 10. Bd3 {LiveBook: 14 Games}
+Bb7 {The position is equal.} (10... c5 $5) 11. Qe2 Nbd7 12. e4 $146 ({
+Predecessor:} 12. Rd1 Qc7 13. e4 c5 14. d5 c4 15. Bc2 Nh5 16. a3 {0-1 (24)
+Komic,I (2215)-Ascic,P (2369) Pula 2008}) 12... c5 {White must now prevent ...
+cxd4.} 13. e5 (13. Rd1 $11) 13... Nd5 14. e6 Nxc3 $1 15. bxc3 fxe6 (15... Bxf3
+$1 $15 {stays ahead.} 16. Qxf3 fxe6) 16. Ng5 (16. Qxe6+ $16 Kh8 17. Be4 Bxe4
+18. Qxe4) 16... Qb6 (16... e5 $11) 17. Nxe6 $16 Qc6 {[%csl Gb7][%cal Rc6g2] [#]
+} 18. f3 $1 c4 19. Bc2 $36 {[%mdl 2048] Black is under strong pressure.} Rfe8 {
+[#]} (19... Rf7 $16 20. Ng5 Nf6 21. Nxf7 Kxf7) 20. Bf4 $2 ({White should try} 
+20. f4 $1 $18) 20... Rac8 (20... Be5 $1 $14) 21. Rae1 Bf6 22. Qf2 Ba8 (22...
+Nf8 $16 {might work better.}) 23. Qg3 $18 Qb6 $2 {[#]} (23... Nf8) 24. Bxg6 $1
+{[%mdl 512] White is clearly winning.} Kh8 (24... hxg6 25. Qxg6+) 25. Bxe8 Rxe8
+26. Bg5 {White wants to mate with Bxf6+.} Rg8 27. Bxf6+ Nxf6 28. Qc7 Nd5 29.
+Qxb6 Nxb6 30. Nc7 Na4 31. Re3 Bb7 32. Rc1 Rg7 33. Ne6 Rg8 34. Nc5 Nxc5 35. dxc5
+Rg5 36. Rd1 Rxc5 37. Rd8+ {Precision: White = 37%, Black = 22%.} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.27"]
+[Round "7.1"]
+[White "Yu, Jennifer"]
+[Black "Foisor, Sabina-Francesca"]
+[Result "1-0"]
+[ECO "A20"]
+[WhiteElo "2273"]
+[BlackElo "2276"]
+[Annotator "TA"]
+[PlyCount "143"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,143,28,38,38,61,55,109,106,85,29,87,91,131,140,137,99,147,152,147,142,
+154,145,147,116,138,126,161,12,5,10,10,7,41,0,0,-12,-12,-17,-14,-156,-149,-222,
+-103,-175,-156,-171,-175,-165,-164,-150,-3,-3,-3,-3,-8,-3,0,0,0,0,0,0,14,0,8,8,
+18,-8,0,0,0,0,0,-8,0,0,0,0,0,0,0,0,0,0,0,0,10,10,33,25,105,105,105,105,175,175,
+175,85,175,175,175,176,301,322,279,322,248,220,175,175,175,172,161,148,1787,
+1602,1446,1038,1705,1522,29956,10414,29970,29972,29972,29973,29976,29976,29977,
+29974,29981,29982,29982,29983,29986,29987]} 1. c4 e5 2. e3 f5 3. d4 e4 4. Nc3
+Nf6 5. Nge2 g6 6. Nf4 {A21: English Opening: 1...e5 2 Nc3} Bg7 7. h4 Nc6 $146 (
+7... Bh6 $14) ({Predecessor:} 7... c6 8. h5 g5 9. h6 Bxh6 10. Rxh6 gxf4 11.
+exf4 Qe7 {1-0 (35) Silva,F (2351)-Sousa,C (1848) Evora 2007}) 8. h5 $16 {
+White is better.} Ne7 9. c5 (9. Bd2 $16) 9... g5 (9... d5 $11) 10. h6 gxf4 11.
+hxg7 Rg8 12. Rxh7 f3 13. Rh6 Ng4 {Threatens to win with ...fxg2.} 14. Rh8 fxg2
+15. Bxg2 d5 16. cxd6 $1 Qxd6 17. Qb3 Be6 18. Nb5 ({Much less strong is} 18.
+Qxb7 $6 Kf7 $14) (18. Rxg8+ $18 Bxg8 19. Qxb7) 18... Bxb3 $11 19. Nxd6+ cxd6
+20. axb3 {Black must now prevent Rxg8+.} Kf7 21. Bd2 a6 22. Bb4 Ke6 23. Rxg8
+Rxg8 24. Bf1 (24. Bc3 $11) 24... Rxg7 $17 25. Rc1 (25. Bc4+ $17 {might work
+better.} d5 26. Bf1) 25... Kd7 (25... Rh7 $19 26. Bd2 Rh1) 26. Be2 (26. Ba5 $17
+Nc6 27. Bd2) 26... Nd5 27. Ba5 Nh2 28. Bc4 Nf6 29. Be2 {And now Rc7+ would win.
+} Nf3+ ({Black should play} 29... Ke6 $1 $17 30. Bc4+ d5) 30. Bxf3 $1 $11 Rg1+
+31. Kd2 Rxc1 32. Bxe4 $1 {[%mdl 4096] Endgame KRN-KB} Ra1 33. Bxf5+ Ke7 34. Bc3
+a5 35. e4 d5 36. f3 b5 {aiming for ...b4.} 37. b4 a4 38. Kd3 Ne8 39. e5 Ng7 40.
+Bg4 Ne6 41. Bf5 Rh1 42. Ke3 Rh2 43. Bd3 Nc7 44. f4 Rh3+ 45. Kd2 Rh2+ 46. Ke3
+Rh3+ 47. Kd2 Ke6 48. f5+ Kd7 49. Ke2 Kc6 (49... Rh1 $11 {remains equal.}) 50.
+Bd2 $1 $16 Rh2+ 51. Kd1 Rh4 {[#]} (51... Rf2 $16 {keeps fighting.}) 52. Be3 $1
+$18 Kd7 53. Kc2 (53. Be2 $18) 53... Rg4 (53... Rh2+ $16 54. Kc3 Rg2) 54. Be2
+Rg2 55. Kd1 Ke7 (55... Kc6 $142 56. Ke1 Rh2) 56. Ke1 Kf7 57. Bf4 Rg1+ {[#]} 58.
+Kd2 $1 Rg2 59. e6+ Nxe6 60. fxe6+ Kxe6 61. Ke3 Kf5 $2 {[%mdl 8192]} (61... Rg1
+$16 62. Bxb5 Rb1 63. Bxa4 Rxb2) 62. Bd6 Ke6 63. Bc5 Rg3+ 64. Kf4 Rb3 65. Bxb5
+Rxb2 66. Bxa4 {White mates.} Rf2+ 67. Ke3 Rb2 68. Bc6 Rb1 69. b5 {[%cal Bb4b5,
+Bb5b6,Bb6b7][%mdl 32]} Kf5 70. b6 Rb3+ 71. Kd2 Ke4 72. b7 {Accuracy: White =
+60%, Black = 38%.} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.27"]
+[Round "7.2"]
+[White "Krush, Irina"]
+[Black "Zatonskih, Anna"]
+[Result "0-1"]
+[ECO "D31"]
+[WhiteElo "2451"]
+[BlackElo "2430"]
+[Annotator "TA"]
+[PlyCount "68"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,68,20,19,14,21,10,10,10,10,14,22,19,8,17,21,22,24,18,19,8,31,31,27,8,
+18,1,16,3,5,12,12,9,6,9,7,0,0,-85,0,0,0,-9,-10,-19,-14,-14,-12,-418,-354,-908,
+-907,-977,-977,-966,-966,-966,-922,-1033,-1020]} 1. d4 d5 2. c4 e6 3. Nc3 Be7
+4. cxd5 exd5 5. Bf4 Nf6 6. e3 Bf5 7. Nge2 {D35: Queen's Gambit Declined:
+Exchange Variation} O-O 8. Rc1 (8. f3 c5 9. g4 Be6 10. Bg2 Nc6 11. O-O Rc8 12.
+Bg3 Na5 13. b3 cxd4 14. exd4 Nc6 {1/2-1/2 (38) Anand,V (2773)-Fridman,D (2633)
+St Petersburg 2018}) 8... c6 9. Ng3 {The position is equal.} Bg6 10. h4 {
+aiming for h5.} h6 11. h5 Bh7 12. Bd3 Bxd3 13. Qxd3 Bd6 14. Bxd6 Qxd6 {[#]} 15.
+Nf5 $146 Qd7 16. g4 Na6 {[%cal Bb8a6,Ba6c7,Bc7b5,Bb5d6][%mdl 32]} 17. f3 Ne8
+18. Kf2 Nd6 19. Rcg1 f6 20. Ne2 {[%cal Bc3e2,Be2g3,Bg3f5][%mdl 32]} Nc7 21.
+Nxd6 Qxd6 22. Ng3 Qd7 23. Nf5 Nb5 24. b4 {[#]} (24. b3 $11) 24... a6 ({Better
+is} 24... a5 $1 $17 25. a4 Nd6) 25. Rb1 Nd6 26. Rhc1 a5 {...axb4 is the strong
+threat.} 27. a4 axb4 28. Rxb4 b5 29. axb5 $2 {[%mdl 8192]} (29. Nxh6+ $11 gxh6
+30. Qg6+ {[%mdl 64] Double Attack} Qg7 31. Qxg7+ Kxg7 32. Rxc6) 29... Nxf5 $19
+30. gxf5 $2 (30. Rb2 Ne7 31. bxc6 Nxc6 32. Rb6 Ra2+ 33. Rc2) 30... Qd6 {
+( -> ...Ra2+). Black is clearly winning.} 31. Qd2 {[#]} Ra2 $1 {[%mdl 512]} 32.
+Qxa2 Qh2+ {[%mdl 64] Double Attack} 33. Kf1 Qxa2 34. bxc6 Qa3 {Accuracy: White
+= 48%, Black = 85%.} 0-1
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.27"]
+[Round "7.3"]
+[White "Nguyen, Emily"]
+[Black "Abrahamyan, Tatev"]
+[Result "1/2-1/2"]
+[ECO "E19"]
+[WhiteElo "2143"]
+[BlackElo "2377"]
+[Annotator "TA"]
+[PlyCount "81"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 22,81,0,0,16,0,3,-27,-26,-27,-25,-27,-25,-20,-27,-20,-16,-21,0,-11,9,14,
+22,11,20,15,46,38,40,29,29,22,26,37,31,0,0,0,0,7,16,0,17,18,16,13,20,0,0,0,28,
+50,32,0,0,0,0,0,0,0,7,0]} 1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Be7 6.
+O-O O-O 7. Nc3 Ne4 8. Qc2 Nxc3 9. Qxc3 d6 10. Qc2 f5 11. Ne1 Bxg2 12. Nxg2 Qd7
+{E19: Queen's Indian: Old Main Line with 7...Ne4 8 Qc2 Nxc3 8 Qxc3} 13. Rd1 Bf6
+14. e4 fxe4 $146 {Black has an edge.} 15. Qxe4 Nc6 {[%cal Bb8c6,Bc6e5,Be5c4]
+[%mdl 32]} 16. d5 exd5 17. cxd5 Ne5 18. Nf4 Qg4 19. Qe2 Qxe2 20. Nxe2 Nc4 21.
+Rb1 b5 22. b3 Nb6 23. Be3 Rfe8 24. Rbc1 Re7 25. Kf1 Kf7 26. h4 Ke8 27. Rd2 Kd7
+28. Nc3 Bxc3 $1 29. Rxc3 Re5 30. Bxb6 axb6 $11 {[%mdl 4096] Endgame KRR-KRR}
+31. Rf3 Ke7 32. Rf4 Ra5 33. Rb4 Kd7 34. f4 Re7 35. Kf2 Re8 36. Kf3 Rea8 37. Rd3
+(37. f5 $5 {[%cal Rb4g4]}) 37... Rxa2 {The position is equal.} 38. Rxb5 Rb2 39.
+Rb4 Re8 40. Rc4 Re7 41. Rdc3 {Accuracy: White = 60%, Black = 55%.} 1/2-1/2
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.27"]
+[Round "7.4"]
+[White "Wang, Annie"]
+[Black "Gorti, Akshita"]
+[Result "1-0"]
+[ECO "E32"]
+[WhiteElo "2304"]
+[BlackElo "2272"]
+[Annotator "TA"]
+[PlyCount "81"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,81,34,43,14,22,19,11,18,18,8,15,14,16,12,14,0,0,0,0,0,51,54,48,62,90,
+85,175,185,170,164,172,166,173,173,223,232,300,308,375,375,346,353,399,378,471,
+459,459,440,844,842,820,793,838,733,741,707,1805,733,1298,372,479,319,899,949,
+891,846,3186,2986,2592,2340,1952,523,1741,1618]} 1. d4 e6 2. c4 Nf6 3. Nc3 Bb4
+4. Qc2 b6 5. e4 c5 6. d5 {E32: Nimzo-Indian: Classical (4 Qc2): 4...0-0} Qe7 7.
+Nge2 exd5 8. exd5 {The position is equal.} d6 9. Bd2 O-O 10. f3 Re8 $146 ({
+Predecessor:} 10... Ba6 11. O-O-O Bxc4 12. Ng3 Bxf1 13. Rhxf1 Nbd7 {1-0 (48)
+Dreev,A (2652)-Moussard,J (2567) Bastia 2017}) 11. O-O-O Nbd7 12. Ng3 Qd8 13.
+Be2 a6 14. a3 {[%cal Ba2a3,Ba3a4,Ba4a5][%mdl 32]} Bxc3 (14... Ba5 $1 $11) 15.
+Bxc3 $14 Rb8 16. a4 b5 17. cxb5 Nb6 (17... c4 $16) 18. Bxf6 $1 $18 ({But not} 
+18. bxa6 $6 Nfxd5 19. Bb5 Bd7 $14) 18... Qxf6 {[#]} 19. a5 $1 $36 {[%mdl 2048]
+White has strong initiative.} Nd7 20. Ne4 ({Don't play} 20. bxa6 $6 Qd8 $11)
+20... Qe5 {[#]} 21. b6 $1 ({Don't take} 21. bxa6 $6 f5 $16) 21... Bb7 22. Qd2
+c4 23. Qd4 f5 24. Qxe5 Rxe5 25. Nc3 Rc8 26. Rd4 Rc5 27. Rxc4 Rxa5 {Threatens
+to win with ...Ra1+.} 28. Rc7 $1 {[%csl LRb7,LRd7]} Ra1+ (28... Nxb6 $142 29.
+Rxb7 Ra1+ 30. Nb1 Rxe2) 29. Kd2 Rxh1 30. Rxd7 Bxd5 31. Rxd6 Rxh2 32. Rxd5 {
+Black must now prevent Rd8+.} Re7 33. Rc5 (33. Bc4 $142 Rxg2+ 34. Kc1 Rg1+ 35.
+Nd1) 33... Rh6 34. Rc7 $2 (34. Bc4+ Kf8 35. Nd5) 34... Rd6+ 35. Ke1 Re8 $2 (
+35... Rxe2+ 36. Kxe2 Rxb6) 36. b7 {White is clearly winning.} Rb6 37. Rc8 Kf8
+38. Rxe8+ Kxe8 {[#]} 39. Bxa6 $1 {[%mdl 512]} Kd7 (39... Rxa6 40. b8=Q+) 40.
+Kf1 (40. b4 $142 {And now Nd5 would win.} Re6+ 41. Kd2) 40... g6 {[#]} 41. b4
+$1 {Accuracy: White = 79%, Black = 32%.} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.27"]
+[Round "7.5"]
+[White "Eswaran, Ashritha"]
+[Black "Yip, Carissa"]
+[Result "1-0"]
+[ECO "B67"]
+[WhiteElo "2234"]
+[BlackElo "2279"]
+[Annotator "TA"]
+[PlyCount "85"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,85,47,0,0,0,35,27,45,38,62,52,162,58,59,54,36,-16,3,-29,0,-302,-284,
+-273,-287,-307,-302,-302,-305,-291,-293,-287,-260,-245,-233,-238,-205,-252,
+-217,-265,-228,-236,-195,-326,-291,-281,-105,-400,-89,-87,-78,-66,-76,-69,-67,
+-85,-80,-71,707,701,848,841,1064,1057,29993,29994,29994,29995,29995,29996]} 1.
+e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8. O-O-O
+Bd7 9. f4 b5 {[%cal Bb7b5,Bb5b4][%mdl 32]} 10. Nf3 b4 {B67: Sicilian:
+Richter-Rauzer: 7...a6 8 0-0-0 Bd7, lines without 9 f4 Be7} 11. Bxf6 $1 gxf6
+12. Ne2 h5 {White has an edge.} 13. Kb1 Qc7 $146 ({Predecessor:} 13... Qb6 14.
+g3 a5 15. Ned4 Nxd4 16. Nxd4 Rc8 17. b3 a4 18. Bc4 Rc5 {0-1 (73) Mastrovasilis,
+D (2573)-Czarnota,P (2497) Kusadasi 2006}) 14. Ned4 Rb8 (14... Qb6 $14) 15. g3
+(15. Bxa6 $18 Nxd4 16. Nxd4) 15... Nxd4 $14 16. Nxd4 a5 {[%cal Ba6a5,Ba5a4]
+[%mdl 32]} 17. Bg2 (17. Ba6 $14) 17... a4 18. Rc1 Bg7 19. f5 $2 {[%mdl 8192]} (
+19. Rhd1 $11) 19... e5 {...Bh6 is the strong threat.} 20. Ne2 Bh6 {[%mdl 64] 
+[#] Skewer} 21. Qd5 Bxc1 22. Rxc1 Qc5 23. Qd2 Ke7 24. c4 Rhc8 25. Bf3 Qf2 26.
+Qd3 Rc5 (26... Qxh2 27. Rd1 $14) 27. Rd1 Rc6 28. h4 Rbc8 29. Bxh5 Qb6 30. g4 ({
+Of course not} 30. Qd5 Be8 $17) (30. b3 {was the only chance.}) 30... Rxc4 $19
+31. g5 {Strongly threatening gxf6+.} fxg5 $2 (31... Qc6 $19 32. gxf6+ Kxf6) 32.
+Qd5 $2 {[%mdl 8192]} (32. hxg5 $17 Qc6 33. f6+ Ke8 34. g6 fxg6 35. Bxg6+ Kd8
+36. Qe3) 32... Be8 $2 {[#]} (32... Qc6 $19 {and Black stays clearly on top.
+And now ...Qxd5 would win.} 33. Qxf7+ Kd8 34. hxg5 a3 35. Qg8+ Be8) 33. f6+ $1
+$17 {[%mdl 512]} Kf8 (33... Kxf6 34. Bxf7 Rc1+ 35. Nxc1 $11) 34. Qd2 Qc6 $1 {
+[%cal Rc6e4]} 35. Qxg5 {[%csl Gf6][%cal Rg5g7]} Qxe4+ {[%mdl 64] Double Attack}
+36. Ka1 {[%csl Gf6][%cal Rg5g7]} Qh7 {White must now prevent ...R8c6.} 37. Bg4
+Rd8 $2 {[%mdl 8192]} (37... R8c6 $17 38. h5 Qh8) 38. Bf5 $18 Qh8 39. h5 Bc6 40.
+h6 Be4 41. Qg7+ {White mates.} Qxg7 42. hxg7+ Kg8 43. Bxe4 {Accuracy: White =
+58%, Black = 37%.} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.27"]
+[Round "7.6"]
+[White "Sharevich, Anna"]
+[Black "Feng, Maggie"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2282"]
+[BlackElo "2199"]
+[Annotator "RC"]
+[PlyCount "49"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "5400+30"]
+
+1. d4 {[%emt 0:00:00]} e6 {[%emt 0:00:00]} 2. Bf4 {[%emt 0:00:00]} f5 {[%emt 0:
+00:48]} 3. e3 {[%emt 0:00:04]} Nf6 {[%emt 0:00:41]} 4. h3 {[%emt 0:00:21]} b6 {
+[%emt 0:04:29]} 5. Nf3 {[%emt 0:01:55]} Bb7 {[%emt 0:00:18]} 6. Nbd2 {[%emt 0:
+00:19]} Be7 {[%emt 0:01:17]} 7. Bd3 {[%emt 0:00:48]} O-O {[%emt 0:02:02]} 8.
+Qe2 {[%emt 0:01:57]} Ne4 {[%emt 0:04:03]} 9. Rg1 {[%emt 0:02:47]} c5 {[%emt 0:
+03:12]} 10. c3 {[%emt 0:00:50]} d6 {[%emt 0:07:11]} 11. g4 {[%emt 0:02:02]} Kh8
+{[%emt 0:03:32]} 12. gxf5 {[%emt 0:01:32]} exf5 {[%emt 0:00:26]} 13. O-O-O {
+[%emt 0:05:21]} a5 {[%emt 0:07:13]} 14. Bxe4 {[%emt 0:05:52]} fxe4 {[%emt 0:10:
+01]} 15. Ng5 {[%emt 0:00:28]} Qd7 {[%emt 0:14:33]} 16. Nxh7 {[%emt 0:06:22]}
+Rf5 {[%emt 0:06:19]} 17. Qg4 {[%emt 0:07:24]} Bd8 {[%emt 0:02:59]} 18. Ng5 {
+[%emt 0:02:20]} Bxg5 {[%emt 0:02:09]} 19. Bxg5 {[%emt 0:00:08]} Qf7 {[%emt 0:
+01:33]} 20. Nc4 {[%emt 0:10:13]} cxd4 {[%emt 0:11:16]} 21. Qh4+ {[%emt 0:10:05]
+} Kg8 {[%emt 0:00:18]} 22. Bh6 {[%emt 0:01:19]} g6 {[%emt 0:00:36]} 23. Nxd6 {
+[%emt 0:01:34]} Qxa2 {[%emt 0:04:46]} 24. Rxg6+ {[%emt 0:00:39]} Kh7 {[%emt 0:
+00:10]} 25. Rg7+ {[%emt 0:00:22]} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.28"]
+[Round "8.1"]
+[White "Gorti, Akshita"]
+[Black "Yu, Jennifer"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "2272"]
+[BlackElo "2273"]
+[Annotator "TA"]
+[PlyCount "84"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,84,0,12,17,16,10,17,0,0,-14,14,20,16,23,22,-14,0,0,0,0,89,15,14,6,15,
+0,0,0,0,0,14,-20,0,-14,0,0,0,-22,-22,-73,-74,-64,-53,-18,-14,-12,-7,-191,-176,
+-316,-309,-300,-229,-231,-239,-227,-208,-236,-236,-478,-461,-526,-525,-522,
+-507,-603,-595,-552,-588]} 1. d4 d5 2. Bg5 Nf6 3. e3 g6 4. Nf3 Bg7 5. Nbd2 O-O
+6. Bd3 Nbd7 7. O-O b6 8. c4 dxc4 9. Bxc4 Bb7 10. Qe2 {D03: 1 d4 d5 2 Nf3 Nf6 3
+Bg5, including Torre Attack with early ...d5} c5 11. Rfd1 (11. dxc5 Nxc5 12.
+Rfd1 Qe8 13. Rac1 a6 14. Bf4 Nfd7 15. Nb3 b5 16. Nxc5 Nxc5 17. Bd5 Bxd5 18.
+Rxd5 {1/2-1/2 (35) Speelman,J (2625)-De la Villa Garcia,J (2495) Pamplona 1996}
+) 11... Rc8 12. Rac1 {The position is equal.} cxd4 13. Nxd4 Rc5 14. N2f3 Qa8
+15. b4 Rcc8 16. Bb5 $146 ({Predecessor:} 16. Ba6 Nd5 17. Bxb7 Qxb7 {1/2-1/2 
+(29) Neumann,H (1860)-Winiwarter,F (2240) Bad Zwischenahn 2003}) 16... Rfd8 17.
+Rxc8 Qxc8 18. Qe1 Nb8 (18... Qa8 $11) 19. h3 ({White should try} 19. Rc1 $16
+Qg4 20. Rc7 Bxf3 21. Nxf3) 19... Be4 $11 20. Ne5 a6 21. Ba4 b5 22. Bb3 Bd5 $1
+23. Rc1 Qb7 24. Bxd5 Qxd5 $40 {[%mdl 128] Black has some attack.} 25. Nec6 Nxc6
+26. Nxc6 Rd7 27. Bf4 Qxa2 28. Nb8 {[#]} (28. Ra1 $11 {keeps the balance.} Qc2
+29. Rc1 (29. Rxa6 $2 Rd1 $19)) 28... Rd8 $1 $17 29. Nc6 Re8 $1 30. Ra1 Qe6 31.
+Rxa6 Nd5 32. Bg3 $2 {[#]} (32. Qf1 $1 $11 {and White stays safe.}) 32... Qc8
+$19 33. Qd2 (33. Nb8 $142) 33... Qxa6 34. Qxd5 Bf6 35. Be5 Bxe5 36. Nxe5 {
+[%mdl 4096] Endgame KQR-KQN} Rf8 37. h4 Qd6 38. Qe4 $2 (38. Qxd6 exd6 39. Nc6)
+38... Rc8 {Black is clearly winning.} 39. g3 Rc1+ 40. Kh2 Kg7 41. h5 {
+intending h6+!} f5 42. Qf4 Qd1 {Accuracy: White = 33%, Black = 76%.} 0-1
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.28"]
+[Round "8.2"]
+[White "Zatonskih, Anna"]
+[Black "Nguyen, Emily"]
+[Result "1/2-1/2"]
+[ECO "D70"]
+[WhiteElo "2430"]
+[BlackElo "2143"]
+[Annotator "TA"]
+[PlyCount "93"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,93,18,20,7,10,-42,21,23,33,29,29,33,33,21,84,4,71,66,67,68,59,66,64,
+68,77,62,76,78,111,85,110,104,102,103,96,57,64,27,28,29,21,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,8,8,8,8,10,9,8,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 d5 2. c4 c6 3.
+Nf3 Nf6 4. Nbd2 Bf5 5. Nh4 Be4 6. Qb3 {D11: Slav Defence: 3 Nf3 sidelines and
+3...Nf6 4 e3 Bg4} Qb6 7. f3 (7. e3 e6 8. Be2 Be7 9. Nxe4 dxe4 10. g3 c5 11. Bd2
+cxd4 12. exd4 Nc6 13. Bc3 O-O-O {1-0 (49) Mamedyarov,S (2808)-So,W (2778)
+Leuven 2018}) 7... Qxb3 8. Nxb3 Bc2 9. Bd2 e6 {LiveBook: 3 Games} 10. g4 h6
+$146 ({Predecessor:} 10... Be7 11. Ng2 dxc4 12. Na5 b5 {1/2-1/2 (45)
+Saduakassova,D (2495)-Kathmale,S (2367) Abu Dhabi 2018}) 11. e3 (11. cxd5 $11
+cxd5 12. e3) 11... Be7 (11... g5 $15 12. Ng2 h5 13. gxh5 Nbd7) 12. Ng2 $11 Nbd7
+13. Na5 Rb8 14. Rc1 Bh7 15. Kf2 e5 {[#]} (15... O-O $11) 16. cxd5 (16. dxe5 $1
+$16 Nxe5 17. Bc3) 16... Nxd5 (16... e4 $1 $11 {remains equal.}) 17. e4 $16 N5b6
+18. dxe5 Nxe5 19. Be2 O-O 20. Rhd1 f6 21. Nf4 Kf7 22. Be3 Bb4 23. Nc4 Nbxc4 24.
+Bxc4+ Nxc4 25. Rxc4 Be7 26. Rd7 {[#] Threatens to win with Bc5.} Rfd8 27. Rc7
+Rdc8 $1 {[%cal Rc8c7]} 28. Rxc8 Rxc8 29. Bxa7 {The position is equal.} Ra8 30.
+Bc5 Rxa2 31. Nd3 Bxc5+ 32. Rxc5 $11 {[%mdl 4096] Endgame KRB-KRN} Ke7 33. Ke3
+Kd6 34. Rc2 Bg8 35. f4 {[%cal Bf3f4,Bf4f5][%mdl 32]} Ra4 36. Rd2 Be6 37. h4 Ra1
+38. g5 hxg5 39. hxg5 fxg5 40. f5 Bc4 41. Nf4+ Kc5 {...Re1+ is the strong
+threat.} 42. Ne6+ Bxe6 $1 43. fxe6 Re1+ 44. Kf3 Rf1+ $1 45. Ke3 Re1+ 46. Kf3
+Rf1+ $1 47. Ke3 {Precision: White = 64%, Black = 70%.} 1/2-1/2
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.28"]
+[Round "8.3"]
+[White "Abrahamyan, Tatev"]
+[Black "Wang, Annie"]
+[Result "1/2-1/2"]
+[ECO "B56"]
+[WhiteElo "2377"]
+[BlackElo "2304"]
+[Annotator "TA"]
+[PlyCount "64"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,64,33,24,38,39,37,27,32,22,31,33,27,32,46,39,51,14,14,14,14,14,14,14,
+14,14,14,14,14,13,9,0,0,-106,0,-45,0,0,0,0,95,0,0,0,0,0,0,0,0]} 1. e4 c5 2. Nf3
+d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. f3 e5 7. Nb3 Be7 8. Be3 O-O 9. Qd2 a5
+10. Bb5 Na7 {B56: Classical Sicilian: Unusual Lines} 11. Bxa7 Rxa7 12. a4 (12.
+O-O-O Be6 13. Kb1 Ra8 14. g4 Rc8 15. h4 Nd7 16. Nd5 Bxd5 17. Qxd5 Nb6 18. Qd3 {
+0-1 (46) So,W (2780)-Vidit,S (2718) chess.com INT 2018}) 12... Be6 {White has
+an edge.} 13. O-O-O Ra8 14. Kb1 Qb6 15. g4 Rfd8 {[#]} 16. Qe2 $146 ({
+Predecessor:} 16. g5 Nh5 17. h4 Nf4 18. Nd5 Nxd5 19. exd5 {0-1 (54) Tomczak,J 
+(2596)-Czarnota,P (2557) Warsaw 2017}) 16... Ne8 17. Nd5 Bxd5 $1 18. exd5 Nc7
+19. c4 Nxb5 20. cxb5 Bg5 21. h4 Bf4 22. Nd2 Rdc8 23. Ne4 Rc7 24. g5 Rac8 25. h5
+(25. b3 $11) 25... Rc4 (25... h6 $17 26. gxh6 Bxh6) 26. b3 R4c7 27. h6 g6 28.
+Rhe1 Kh8 {[#]} (28... Kf8 $11) 29. Kb2 ({White should try} 29. Qg2 $1 $16)
+29... Kg8 $11 {The position is equal.} 30. Nf6+ Kh8 31. Ne4 Kg8 32. Nf6+ Kh8 {
+Accuracy: White = 70%, Black = 51%.} 1/2-1/2
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.28"]
+[Round "8.4"]
+[White "Yip, Carissa"]
+[Black "Krush, Irina"]
+[Result "0-1"]
+[ECO "B35"]
+[WhiteElo "2279"]
+[BlackElo "2451"]
+[Annotator "TA"]
+[PlyCount "84"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,84,7,21,0,28,20,15,0,0,-21,-18,-14,14,-12,-5,0,12,13,10,-75,-62,-75,
+-75,-75,-75,-73,-71,-125,-125,-128,-125,-175,-157,-144,-133,-129,-133,-124,
+-108,-117,0,-158,-140,-140,-133,-140,-140,-202,-202,-193,-192,-169,-197,-420,
+-412,-404,-402,-486,-481,-481,-473,-470,-467]} 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4
+4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 Qa5 8. O-O O-O 9. Bb3 d6 10. h3 Bd7 11.
+f4 Nxd4 12. Bxd4 Bc6 13. Re1 {B35: Sicilian: Accelerated Dragon with 5 Nc3:
+main line} (13. Qe2 Nd7 14. Bxg7 Kxg7 15. Rad1 Nc5 16. Kh1 Rac8 17. Qe3 Nxb3
+18. axb3 Qc5 19. Qe1 b5 20. Rf2 b4 {0-1 (62) Caruana,F (2804)-Mamedyarov,S 
+(2746) Shamkir 2016}) 13... Nd7 14. Bxg7 Kxg7 15. Kh1 $146 {The position is
+equal.} ({Predecessor:} 15. Qd4+ Kg8 16. Rad1 Qc5 17. Nd5 Bxd5 18. exd5 Qxd4+
+19. Rxd4 Nc5 20. Rxe7 Rfe8 21. Rxe8+ Rxe8 {1-0 (57) Paiva,H (2110)-Morais,M 
+(1457) Figueira da Foz 2017}) 15... Qc5 16. Qe2 e6 17. Rad1 Rad8 18. a4 a6 19.
+Rd3 b5 20. Qd2 {Threatens to win with axb5.} b4 21. Na2 (21. Nd1 $1 $11) 21...
+Nf6 $17 22. Qxb4 Qxb4 23. Nxb4 Bxe4 24. Rd4 a5 25. Nd3 (25. Na2 $142) 25... d5
+26. Kg1 Rb8 27. Ne5 Rfc8 28. Re2 h5 29. g4 Rc7 30. Kf2 Ng8 31. Nf3 Nf6 (31...
+Bxf3 $17 32. Kxf3 Ne7) 32. Kg3 $2 {[#]} (32. Ne5 $11) 32... Nd7 33. Ng5 Nc5 34.
+Nxe4 Nxe4+ 35. Kf3 (35. Rdxe4 $17 {is a better defense.} dxe4 36. Rxe4) 35...
+hxg4+ 36. hxg4 Nc5 37. Re3 Rcb7 {[%cal Rc5b3]} 38. Rd2 $2 {[#]} (38. Bxd5 exd5
+39. Rxd5) 38... Nxb3 $19 39. cxb3 Rxb3 40. Rc3 Rxc3+ {Black is clearly winning.
+} 41. bxc3 Rb3 42. Rd3 Ra3 {Accuracy: White = 45%, Black = 66%.} 0-1
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.28"]
+[Round "8.5"]
+[White "Sharevich, Anna"]
+[Black "Eswaran, Ashritha"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[WhiteElo "2282"]
+[BlackElo "2234"]
+[Annotator "TA"]
+[PlyCount "88"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 24,88,0,0,9,7,39,52,49,22,24,0,0,0,0,0,0,0,0,0,0,0,0,-69,-61,-40,0,0,0,
+0,0,0,0,0,9,9,10,10,10,10,10,0,0,0,0,0,0,0,0,-8,8,-23,-22,-41,-25,-32,0,-45,
+-39,-47,-42,-52,0,0,10,0,18]} 1. d4 Nf6 2. Nf3 e6 3. Bf4 c5 4. e3 Nc6 5. Nbd2
+d5 6. c3 Bd6 7. Bg3 O-O 8. Bd3 b6 9. Qe2 {D02: 1 d4 d5 2 Nf3 sidelines,
+including 2...Nf6 3 g3 and 2...Nf6 3 Bf4} Bb7 10. Rd1 Re8 11. e4 Be7 12. e5 Nh5
+13. a3 {LiveBook: 27 Games} g6 14. Qe3 {[#]} f5 $146 15. exf6 Bxf6 16. Ne5 Bg5
+17. f4 Nxe5 18. Qxe5 Bf6 $36 {[%mdl 2048] Black has some pressure.} 19. Qe3 Ng7
+{[#] Threatens to win with ...Nf5.} 20. Nf3 Nf5 21. Qf2 cxd4 22. cxd4 Qc8 23.
+Bxf5 (23. Bh4 $11 Bxh4 24. Nxh4) 23... exf5+ $15 ({But not} 23... gxf5 $6 24.
+O-O $14) 24. Ne5 Ba6 (24... Qc4 $5) 25. Qd2 $1 Qc4 26. Kf2 Qb5 27. Rhe1 Rac8
+28. Kg1 Qb3 29. Rc1 Rxc1 30. Rxc1 Rc8 31. Rxc8+ Bxc8 32. Qe2 Qa4 33. Bf2 Ba6
+34. Qe1 Bxe5 35. fxe5 Qc2 36. b4 Bd3 37. h4 f4 38. Kh2 Be4 39. Qf1 Bd3 (39...
+Kg7 {is more complex.} 40. a4 Bd3 41. Qg1 h6 42. Be1 g5) 40. Qe1 h6 41. Bg1 g5
+{White must now prevent ...g4.} 42. Qf2 Qc4 ({Better is} 42... Be2 $15) 43. g3
+$11 Qc1 44. gxf4 Qxf4+ {Precision: White = 67%, Black = 59%.} 1/2-1/2
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.28"]
+[Round "8.6"]
+[White "Feng, Maggie"]
+[Black "Foisor, Sabina-Francesca"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "2199"]
+[BlackElo "2276"]
+[Annotator "TA"]
+[PlyCount "103"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,103,12,19,10,29,15,29,28,29,35,27,10,4,0,14,12,0,8,15,0,0,0,0,0,0,0,
+11,0,8,9,18,0,0,-8,8,0,0,0,58,97,100,60,254,-108,245,223,480,485,481,469,661,
+558,937,939,1353,1384,1290,1254,1388,953,971,868,1077,918,940,785,1649,1690,
+29987,29988,4774,2320,1722,1765,4802,1446,896,814,4094,2202,5604,5375,5214,
+4690,5177,5271,4670,1463,29950,5222,29987,1674,29988,29989]} 1. Nf3 d5 2. g3
+Bg4 3. Bg2 Nd7 4. c4 e6 5. cxd5 exd5 6. O-O Ngf6 7. d3 {A07: Réti Opening: New
+York and Capablanca Systems} Be7 (7... Bd6 8. Nc3 c6 9. h3 Bh5 10. e4 O-O 11.
+g4 Bg6 12. Nh4 Nxe4 13. dxe4 Qxh4 14. exd5 c5 15. Nb5 Bb8 16. d6 a6 {1/2-1/2 
+(46) Oparin,G (2616)-Shirov,A (2673) Moscow 2016}) 8. Nc3 O-O 9. Qc2 {White
+has an edge.} c5 $146 ({Predecessor:} 9... Re8 10. h3 Bxf3 11. Bxf3 c6 12. Bg2
+Nc5 13. Bd2 a5 {1/2-1/2 (23) Hansen,S (2552)-Schenk,A (2509) Germany 2010}) 10.
+h3 Bxf3 11. Bxf3 Ne5 12. Bg2 d4 13. Ne4 Nxe4 14. Bxe4 Qd7 15. Bg2 Rac8 16. Bf4
+Ng6 17. Bd2 Bd6 18. Qb3 b6 19. a4 {[%cal Ba2a4,Ba4a5][%mdl 32]} Rfe8 20. Rfe1
+Re7 21. Qb5 Qc7 22. a5 Bxg3 23. fxg3 Qxg3 {( -> ...Nh4)} 24. Qc4 Rd8 (24... Nh4
+$1 $11 25. Qd5 Re5) 25. Rf1 $1 $14 b5 26. Qb3 Rxe2 $2 (26... c4 $14 27. Qd1 Nh4
+) 27. Qxf7+ $18 {[%mdl 64] [#] Double Attack} Kh8 {[%csl Ge2][%cal Rg3g2]} 28.
+Rf2 Rxd2 $2 (28... Rxf2 {was worth a try.} 29. Qxf2 Qxd3) 29. Rxd2 Rf8 30. Qe6
+Ne5 (30... Nf4 $142 31. Qe7 Rc8) 31. Kh1 h6 32. Qd6 Rf6 33. Qb8+ {[%mdl 64] [#]
+Double Attack} Kh7 34. Re2 Rf5 35. Rae1 Rg5 36. Qc7 h5 37. Rf1 c4 38. Rf8 cxd3
+39. Be4+ Rg6 40. Bxg6+ Qxg6 41. Qxe5 {Rg2 would kill now.} dxe2 42. Qxe2 d3 43.
+Qg2 Qe6 44. Rf1 d2 45. Qxd2 Qxh3+ 46. Kg1 Qg3+ 47. Qg2 Qe3+ 48. Qf2 Qg5+ 49.
+Kh1 Qd5+ 50. Qf3 Qd4 51. Qxh5+ {[%mdl 64] Double Attack} Kg8 52. Re1 {Accuracy:
+White = 80%, Black = 42%.} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.29"]
+[Round "9.1"]
+[White "Yu, Jennifer"]
+[Black "Abrahamyan, Tatev"]
+[Result "1/2-1/2"]
+[ECO "E46"]
+[WhiteElo "2273"]
+[BlackElo "2377"]
+[Annotator "RC"]
+[PlyCount "98"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "5400+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:00]} e6 {[%emt 0:
+00:00]} 3. Nc3 {[%emt 0:00:00]} Bb4 {[%emt 0:00:00]} 4. e3 {[%emt 0:00:00]} O-O
+{[%emt 0:00:00]} 5. Nge2 {[%emt 0:00:07]} c6 {[%emt 0:00:00]} 6. a3 {[%emt 0:
+00:33]} Ba5 {[%emt 0:00:04]} 7. c5 {[%emt 0:00:28]} d5 {[%emt 0:03:18]} 8. cxd6
+{[%emt 0:00:16]} Qxd6 {[%emt 0:00:07]} 9. b4 {[%emt 0:00:09]} Bc7 {[%emt 0:01:
+56]} 10. g3 {[%emt 0:00:30]} e5 {[%emt 0:00:44]} 11. Bg2 {[%emt 0:05:34]} Re8 {
+[%emt 0:00:15]} 12. dxe5 {[%emt 0:06:58]} Qxd1+ {[%emt 0:16:00]} 13. Nxd1 {
+[%emt 0:02:12]} Bxe5 {[%emt 0:00:06]} 14. Bb2 {[%emt 0:00:08]} a5 {[%emt 0:00:
+45]} 15. bxa5 {[%emt 0:07:04]} Nbd7 {[%emt 0:06:23]} 16. O-O {[%emt 0:04:57]}
+Rxa5 {[%emt 0:03:42]} 17. Bxe5 {[%emt 0:01:52]} Nxe5 {[%emt 0:00:59]} 18. Ndc3
+{[%emt 0:00:04]} Nd3 {[%emt 0:25:19]} 19. Nd4 {[%emt 0:11:57]} Nc5 {[%emt 0:02:
+46]} 20. a4 {[%emt 0:03:40]} Be6 {[%emt 0:04:47]} 21. Rab1 {[%emt 0:06:40]}
+Rea8 {[%emt 0:08:48]} 22. Rb4 {[%emt 0:11:58]} g6 {[%emt 0:08:16]} 23. Rd1 {
+[%emt 0:07:04]} R8a7 {[%emt 0:07:32]} 24. Ra1 {[%emt 0:20:30]} Nd5 {[%emt 0:01:
+29]} 25. Bxd5 {[%emt 0:05:52]} Bxd5 {[%emt 0:00:07]} 26. Nxd5 {[%emt 0:01:40]}
+cxd5 {[%emt 0:00:05]} 27. Nb3 {[%emt 0:00:36]} Nxb3 {[%emt 0:04:55]} 28. Rxb3 {
+[%emt 0:00:04]} b5 {[%emt 0:00:05]} 29. Rd1 {[%emt 0:00:07]} bxa4 {[%emt 0:00:
+07]} 30. Ra3 {[%emt 0:00:03]} Kf8 {[%emt 0:01:15]} 31. Rd4 {[%emt 0:01:14]} Ke7
+{[%emt 0:00:24]} 32. Kf1 {[%emt 0:00:20]} Kd6 {[%emt 0:00:59]} 33. Ke2 {
+[%emt 0:00:13]} Kc5 {[%emt 0:01:00]} 34. Kd3 {[%emt 0:00:43]} Kb5 {[%emt 0:01:
+32]} 35. Kc3 {[%emt 0:00:04]} Rc7+ {[%emt 0:00:56]} 36. Kb2 {[%emt 0:01:35]}
+Rc5 {[%emt 0:00:47]} 37. Rad3 {[%emt 0:01:08]} Kc6 {[%emt 0:00:32]} 38. Ka3 {
+[%emt 0:00:31]} Rc2 {[%emt 0:01:39]} 39. Rf4 {[%emt 0:00:37]} f5 {[%emt 0:00:
+32]} 40. Rdd4 {[%emt 0:01:14]} Rac5 {[%emt 0:01:13]} 41. Rxa4 {[%emt 0:00:00]}
+R5c3+ {[%emt 0:00:00]} 42. Kb4 {[%emt 0:00:00]} Rc4+ {[%emt 0:00:00]} 43. Kb3 {
+[%emt 0:00:00]} Kb5 {[%emt 0:00:00]} 44. Raxc4 {[%emt 0:00:00]} Rxc4 {[%emt 0:
+00:00]} 45. Rf3 {[%emt 0:00:00]} Kc5 {[%emt 0:00:00]} 46. Rf4 {[%emt 0:00:00]}
+Rxf4 {[%emt 0:00:00]} 47. gxf4 {[%emt 0:00:00]} d4 {[%emt 0:00:00]} 48. Kc2 {
+[%emt 0:00:00]} Kc4 {[%emt 0:00:00]} 49. Kd2 {[%emt 0:00:00]} h6 {[%emt 0:01:
+52]} 1/2-1/2
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.29"]
+[Round "9.2"]
+[White "Wang, Annie"]
+[Black "Zatonskih, Anna"]
+[Result "0-1"]
+[ECO "E36"]
+[WhiteElo "2304"]
+[BlackElo "2430"]
+[Annotator "TA"]
+[PlyCount "114"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,114,9,12,12,17,17,18,20,16,14,0,0,0,14,2,10,0,0,0,0,0,9,0,0,0,0,-14,
+-11,-9,-7,-13,-9,-12,-9,-15,-6,-10,0,0,0,0,0,-18,-23,-24,-29,-23,-18,-21,-13,
+-18,-17,-16,-16,-25,0,-63,-50,-85,-37,-66,-71,-70,-70,-102,-103,-82,-103,-97,
+-48,-1541,-1527,-1545,-1248,-1433,-1473,-1370,-1230,-1214,-1223,-1003,0,-8,-8,
+-8,-8,-8,0,-29976,-29977,-29977,-29978,-29978,-29979,-29979,-29980,-29980,
+-29981,-29981,-29982,-29982,-29983,-29983,-29984]} 1. d4 Nf6 2. c4 e6 3. Nc3
+Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 O-O 7. Bg5 h6 {E36: Nimzo-Indian: Classical:
+4...d5 5 a3} (7... dxc4 8. Qxc4 b6 9. Rd1 Ba6 10. Qa4 h6 11. Bh4 Qe7 12. Nf3
+Rd8 13. e3 Bxf1 14. Rxf1 c5 15. dxc5 Rxd1+ 16. Qxd1 {1/2-1/2 (23) Vitiugov,N 
+(2709)-Giri,A (2780) Shenzhen 2018}) 8. Bxf6 Qxf6 9. Nf3 dxc4 {The position is
+equal.} 10. Qxc4 Nc6 11. e3 e5 12. d5 Ne7 13. Be2 $146 ({Predecessor:} 13. Qxc7
+e4 14. Nd4 Nxd5 {1/2-1/2 (69) Erenberg,A (2386)-Svane,R (2573) Karlsruhe 2017})
+13... c6 14. dxc6 Nxc6 15. O-O Bf5 16. Rfd1 Rfd8 17. Qb5 e4 18. Nd2 Ne5 19. Nb3
+Bg4 20. Bxg4 Nxg4 21. Qe2 Ne5 22. Nd4 Rac8 23. Rac1 a6 24. Rc2 Nd3 25. Rxc8
+Rxc8 26. f3 Re8 27. fxe4 Nc5 28. Rf1 Qg6 29. Nf5 Nxe4 30. Qd3 Qe6 31. Qd4 {
+[%csl Gf5][%cal Rd4g7]} Qe5 32. Qd7 Nc5 33. Qd2 Ne4 34. Qe2 ({White should play
+} 34. Qd7 $11) 34... Re6 35. Qd3 Rf6 36. Rf4 {aiming for Qd8+.} Nd6 $36 {
+[%mdl 2048] Black has strong initiative.} 37. Nxd6 Rxd6 38. Rd4 Rxd4 39. Qxd4
+Qxd4 40. exd4 $17 {[%mdl 4096] Endgame KP-KP} Kf8 41. g4 $2 {[%mdl 8192]} (41.
+Kf2 $15) 41... f5 $19 42. gxf5 Ke7 43. Kf2 Kf6 44. Ke3 Kxf5 45. Kf3 g6 46. b4
+b5 $2 (46... b6 $19 47. Ke3 g5) 47. Ke3 $11 g5 48. Kf3 $1 h5 49. Ke3 g4 50. Kf2
+$2 {[%mdl 8192] [#]} (50. d5 $11) 50... h4 $1 {Black mates.} 51. Ke3 g3 52.
+hxg3 hxg3 {K3P-K3P} 53. Kf3 {[#]} g2 $1 {[%mdl 512]} 54. Kxg2 Ke4 55. Kf2 Kxd4
+56. Ke2 Kc3 57. Ke3 Kb3 {Accuracy: White = 59%, Black = 74%.} 0-1
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.29"]
+[Round "9.3"]
+[White "Eswaran, Ashritha"]
+[Black "Feng, Maggie"]
+[Result "0-1"]
+[ECO "C18"]
+[WhiteElo "2234"]
+[BlackElo "2199"]
+[Annotator "TA"]
+[PlyCount "154"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,154,0,-8,0,-6,0,-6,21,11,14,16,38,0,31,44,31,36,79,77,72,77,70,62,45,
+0,0,0,0,0,0,0,95,95,95,95,95,95,95,95,95,95,95,95,95,95,95,88,95,95,95,81,95,
+80,82,73,90,73,99,95,88,88,88,88,88,88,99,25,25,0,50,0,99,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,180,0,0,-65,-69,-92,0,-382,0,-4894,
+-4567,-3476,-3376,-2803,-2919,-3116,-1456,-2328,-2272,-29987,-29988,-29988,
+-29989,-29989,-29990,-29990,-29991,-29991,-29992,-29997,-29998,-29998,-29999]} 
+1. e4 {Sadorra,J} e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7.
+Qg4 O-O 8. Bd3 Nbc6 9. Qh5 Ng6 {C18: French: 3 Nc3 Bb4: Main line: 7 h4 and 7
+Qg4} 10. Nh3 Qc7 11. Be3 {LiveBook: 3 Games} (11. Ng5 {is more complex.} h6 12.
+Nxf7 Qxf7 13. Qxg6 Qxg6 14. Bxg6 cxd4 15. cxd4 Nxd4 16. Bd3) 11... c4 {The
+position is equal.} 12. Bxg6 fxg6 13. Qg4 Qf7 14. Nf4 Ne7 15. h4 h6 16. Qe2 {
+[#]} Nf5 $146 ({Predecessor:} 16... Bd7 17. g4 {1-0 (54) Caruana,F (2795)
+-Shankland,S (2656) Saint Louis 2016 CBM 172 [Sadorra,J]}) 17. h5 gxh5 $1 18.
+Nxh5 Nxe3 19. Qxe3 Qg6 20. O-O-O $1 Bd7 21. Rh3 $1 Ba4 {[%csl Ga4][%cal Rg6c2]}
+22. Qd2 Rf5 $1 {[%cal Rf5h5]} 23. Rdh1 Qxg2 24. R3h2 Qg6 $1 25. f4 Rxh5 (25...
+Kh7 $11) 26. Rxh5 $16 Rf8 27. R5h2 Qf5 28. Rh4 Be8 29. Rg1 {Threatens to win
+with Rxh6.} Kh7 30. Qg2 {[%csl Gg1][%cal Rg2g7]} g6 31. Qh2 h5 32. Rg5 Qf7 33.
+Kb2 Kh6 34. Qd2 Kh7 35. Qe3 Qe7 36. Qe2 b5 37. Qd2 a5 38. Ka2 Bf7 39. Rh1 Be8
+40. Rhg1 Bf7 41. Qg2 {[%cal Rg5g6]} Rg8 42. Qg3 b4 43. Qh4 (43. Rb1 $1 $16)
+43... Qd7 $11 44. Rb1 (44. axb4 Qa4+ 45. Kb1 axb4 $19) 44... Rb8 45. Rg3 Rb7 (
+45... Qa4 $11 {remains equal.} 46. cxb4 axb4) 46. cxb4 (46. Rg2 $1 $16) 46...
+axb4 {aiming for ...Qa4.} 47. axb4 {Black must now prevent Ra3.} Qa4+ 48. Ra3
+Qxc2+ 49. Rb2 Qd1 {And now ...c3 would win.} 50. Qf2 Be8 $1 {[%cal Re8a4]} 51.
+Rb1 Qg4 52. Ra8 Bb5 53. Rg1 Qf5 54. Rg5 Qd3 {( -> ...Qb3+)} 55. Rg3 Qf5 56. Rc3
+g5 57. Qh2 g4 58. Qh4 Rg7 59. Kb2 Bc6 60. Rc8 Ba4 61. Ra8 Bd1 $2 {[#]} (61...
+Bc6 $11 {and Black is okay.} 62. Rc8 Ba4) 62. Rc1 $2 (62. b5 $1 $18) 62... Bf3
+{Hoping for ...g3.} 63. Rca1 (63. Re8 $1 $11) 63... c3+ $1 $15 {[%mdl 1024]
+Black has compensation.} 64. Kb3 {[#]} c2 ({Black should play} 64... Be2 $1 $17
+65. Qd8 Bc4+ 66. Ka4 Kg6) 65. Rc8 $2 {[%mdl 8192]} (65. Kb2 $11 {and White has
+nothing to worry.}) 65... Bd1 $2 ({Black should try} 65... g3 $19 {Strongly
+threatening ...Qd3+.} 66. Kb2 Qd3) 66. Rc1 $2 {[%mdl 8192]} (66. Kb2 $11) 66...
+g3 $19 67. Qd8 g2 68. Qh8+ Kg6 69. Rg8 Qf7 (69... Qd3+ $142 70. Ka4 Qa6+ 71.
+Kb3 Qc4+ 72. Ka3 Qc7 73. Rxg7+ Qxg7 74. f5+ exf5 75. Qe8+ Kh7) 70. f5+ exf5 71.
+Rd8 g1=Q {Black mates.} 72. Rd6+ Kg5 73. Qh6+ Kg4 74. Rf6 Qg3+ 75. Kb2 Qa7 {
+[%csl Ga7][%cal Rg3a3]} 76. Ra6 Qxd4+ 77. Ka2 Qc4+ {Precision: White = 58%,
+Black = 49%.} 0-1
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.29"]
+[Round "9.4"]
+[White "Nguyen, Emily"]
+[Black "Yip, Carissa"]
+[Result "0-1"]
+[ECO "D76"]
+[WhiteElo "2143"]
+[BlackElo "2279"]
+[Annotator "TA"]
+[PlyCount "86"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,86,0,17,-1,0,0,4,-8,-13,-18,-13,-12,-16,-14,-12,-9,0,0,0,-55,-49,-42,
+27,19,64,51,45,-667,-685,-678,-677,-668,-668,-628,-484,-469,-458,-502,-502,
+-488,-493,-472,-466,-555,-547,-489,-460,-464,-471,-576,-569,-552,-548,-764,
+-754,-829,-818,-845,-761,-1199,-1191,-2002,-1722,-1066,-982]} 1. d4 g6 2. Nf3
+Nf6 3. c4 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nb6 8. Nc3 Nc6 9. e3 Re8
+10. Nh4 {D76: Fianchetto Grünfeld: Main Line with 7...Nb6} (10. a3 e5 11. d5
+Na5 12. Qc2 c6 13. b4 Nac4 14. dxc6 bxc6 15. Rd1 Bf5 16. e4 Bd7 17. Na4 Nxa4
+18. Qxc4 {1/2-1/2 (50) Le,Q (2737)-Ivanchuk,V (2726) Huaian 2017}) 10... e5 11.
+d5 Ne7 12. e4 Bd7 {LiveBook: 8 Games} 13. Bg5 h6 $146 ({Predecessor:} 13... f6
+14. Be3 c6 15. a4 cxd5 16. exd5 Nf5 17. Nxf5 Bxf5 {1-0 (51) Krejci,J (2570)
+-Petr,M (2485) Prague 2017}) 14. Be3 c6 15. Qb3 cxd5 16. exd5 g5 17. Nf3 Nf5 {
+[%cal Be7f5,Bf5d4,Bd4e2][%mdl 32]} 18. Bc5 Rc8 19. Ne4 Na4 20. Ba3 g4 21. Ne1 (
+21. Nfd2 $11) 21... Nd4 $36 {[%mdl 2048] Black is more active.} 22. Qd1 f5 (
+22... a5 $15) 23. Nd6 $1 $11 {[%csl LRb7,LRc8,LRe8]} e4 24. Nxc8 Qxc8 25. Rc1
+$2 {[%mdl 8192] [#]} (25. Kh1 $14) 25... Qxc1 $1 $19 {[%mdl 512] Black is
+clearly winning.} 26. Qxc1 Ne2+ 27. Kh1 Nxc1 28. b3 Bb2 29. Nc2 Bb5 30. bxa4
+Bxf1 31. Bxb2 Bxg2+ 32. Kxg2 {[%mdl 4096] Endgame KRN-KBN} Nd3 33. Bd4 Rc8 34.
+d6 Kf7 ({Avoid the trap} 34... Rxc2 $2 35. d7 $18) 35. d7 Rd8 36. Ne3 Ke6 37.
+Bxa7 Rxd7 38. a5 Rc7 39. Nf1 Rc2 40. Be3 h5 41. Kg1 Rxa2 42. Bd2 Ne5 43. Bc3
+Nc4 {Precision: White = 40%, Black = 78%.} 0-1
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.29"]
+[Round "9.5"]
+[White "Krush, Irina"]
+[Black "Sharevich, Anna"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[WhiteElo "2451"]
+[BlackElo "2282"]
+[Annotator "TA"]
+[PlyCount "117"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,117,23,22,22,47,18,30,25,53,58,62,67,88,66,63,54,81,81,97,87,97,93,
+83,75,84,88,95,81,82,75,79,81,86,82,76,76,93,85,106,84,93,76,93,93,89,88,99,41,
+45,39,29,8,8,8,8,8,19,1,8,0,2,8,25,14,17,8,8,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,8,8,8,8,8,8,8,8,8,8,8,8]} 1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5
+5. Bf4 Nf6 6. e3 O-O 7. Bd3 c5 8. dxc5 Bxc5 9. Nge2 Nc6 10. O-O {D35: Queen's
+Gambit Declined: Exchange Variation} h6 11. Nb5 $146 ({Predecessor:} 11. Rc1 a6
+12. Bg3 Bg4 13. h3 Be6 14. Nf4 Bd6 15. Bb1 Be5 16. Qd3 Qd6 17. Nh5 Rfd8 18.
+Nxf6+ gxf6 {1-0 (39) Navara,D (2734)-Kravtsiv,M (2621) Berlin 2015}) 11... Bg4
+12. Rc1 {White has an edge.} Be7 13. h3 Be6 14. Ned4 Nxd4 15. Nxd4 Bd6 16. Qf3
+a6 17. Rc2 Ne8 18. Rfc1 Qf6 19. Qg3 Bxf4 20. Qxf4 Qxf4 21. exf4 Bd7 22. Rc5 Nf6
+23. Rc7 Rab8 24. g4 {Hoping for g5.} Rfd8 25. f3 Ne8 26. R7c5 b6 27. R5c3 ({
+But not} 27. Rxd5 $6 Be6 $11) 27... a5 28. Kf2 Nd6 29. b3 Nb7 30. a3 Nc5 31. f5
+Rbc8 32. Ke3 (32. Bf1 $16) 32... Re8+ $14 33. Kd2 Kf8 34. b4 (34. Bb1 {is more
+complex.} Ke7 35. b4 axb4 36. axb4 Na6 37. Rxc8 Rxc8 38. Rxc8 Bxc8 39. Kc3)
+34... axb4 35. axb4 Nxd3 36. Rxc8 Nxc1 37. Rxe8+ Kxe8 38. Kxc1 $11 {[%mdl 4096]
+Endgame KB-KN} Ke7 39. Kd2 Kd6 40. Ke3 Ke5 {The position is equal.} 41. f4+ Kd6
+42. h4 Ke7 43. Ne2 h5 44. Nc3 d4+ $1 45. Kxd4 {[#] Black must now prevent Nd5+.
+} hxg4 46. Nd5+ Kd6 {aiming for ...g3.} 47. f6 g6 48. Nxb6 g3 {Threatens to
+win with ...g2.} 49. Ke3 Bc6 (49... g2 $5 50. Kf2 $8 Bc6 $16) 50. Nc4+ Ke6 51.
+Ne5 Bd5 52. b5 {[%cal Bb4b5,Bb5b6][%mdl 32]} Kxf6 53. b6 g2 54. Kf2 {
+Threatening Nc4!} Kf5 {[#]} 55. Nxf7 $1 {[%mdl 512]} Kxf4 (55... Bxf7 56. b7)
+56. Nd6 {b7 is the strong threat.} Kg4 57. b7 Bxb7 58. Nxb7 Kxh4 59. Kxg2 {
+Accuracy: White = 72%, Black = 64%.} 1/2-1/2
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.29"]
+[Round "9.6"]
+[White "Foisor, Sabina-Francesca"]
+[Black "Gorti, Akshita"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2276"]
+[BlackElo "2272"]
+[Annotator "TA"]
+[PlyCount "89"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,89,-4,-3,0,-9,0,-14,-21,-20,-16,-13,5,-13,-1,-12,8,4,16,6,8,8,16,15,
+25,20,28,15,18,14,22,18,42,16,54,23,66,58,54,57,69,68,104,104,94,91,106,116,
+119,114,120,103,102,74,82,68,108,95,103,101,175,182,288,297,332,314,395,399,
+402,335,396,408,374,357,375,329,785,791,1174,1140]} 1. d4 e6 2. Nf3 d5 3. Bf4
+Nf6 4. e3 Bd6 5. Bg3 O-O 6. Bd3 b6 7. Nbd2 Bb7 {D02: 1 d4 d5 2 Nf3 sidelines,
+including 2...Nf6 3 g3 and 2...Nf6 3 Bf4} (7... Ba6 8. c4 c5 9. dxc5 bxc5 10.
+a3 h6 11. O-O Bxg3 12. hxg3 Nbd7 13. Qc2 Qe7 14. Rfe1 e5 15. e4 {1/2-1/2 (68)
+Korobov,A (2699)-L'Ami,E (2643) Wijk aan Zee 2019}) 8. Ne5 Ne4 9. f3 Nxd2 {
+The position is equal.} 10. Qxd2 f6 $146 ({Predecessor:} 10... c5 11. c3 Qc7
+12. f4 Nd7 13. Nxd7 Qxd7 14. O-O c4 15. Bc2 {1/2-1/2 (24) Vivanco Revuelta,J 
+(1734)-Rodriguez Gomez,V (1949) Benidorm 2014}) 11. Ng4 Qe7 12. Bxd6 (12. O-O-O
+{keeps more tension.} c5 13. dxc5 Bxc5 14. Kb1 a5 15. h4) 12... Qxd6 13. c4 Nd7
+14. O-O f5 15. Nf2 c5 16. dxc5 bxc5 {[#] And now ...dxc4 would win.} 17. Be2
+Nb6 18. Rfd1 Qe7 19. Rac1 Rac8 20. Qa5 Ba8 21. b3 Rfd8 22. Qc3 Qc7 23. Qb2 Qb8
+24. cxd5 exd5 25. Nd3 Qd6 26. Qe5 c4 27. Qxd6 Rxd6 28. Ne5 {[%cal Re2c4]} cxb3
+29. axb3 Re8 30. f4 Re7 31. Rc5 Kf8 32. Bb5 g6 33. Kf2 Kg7 34. g3 $36 {[%mdl
+2048] White is in control.} Kf6 35. h3 g5 (35... Bb7 $16) 36. Nf3 $18 h6 (36...
+gxf4 $142 37. gxf4 (37. exf4 Rd8 $16) 37... Rd8) 37. Nd4 Bb7 38. Rdc1 Rd8 39.
+Bd3 gxf4 40. gxf4 Nc8 {Now ...Nd6 and Black clings on.} 41. Nxf5 {[%mdl 64] [#]
+Double Attack} Red7 42. Nxh6 Nd6 43. Ng4+ Kg7 $2 (43... Ke6 44. Ne5 Rg7) 44.
+Ne5 Re7 45. Rg1+ {Accuracy: White = 69%, Black = 41%.} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.30"]
+[Round "10.1"]
+[White "Zatonskih, Anna"]
+[Black "Yu, Jennifer"]
+[Result "0-1"]
+[ECO "D17"]
+[WhiteElo "2430"]
+[BlackElo "2273"]
+[Annotator "TA"]
+[PlyCount "66"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,66,17,35,46,43,36,43,46,37,29,44,-7,23,0,0,0,-10,-46,-44,-50,-54,-54,
+-28,-61,-64,-76,-30,-87,-60,-141,-48,-41,0,-140,-141,-154,-87,-668,-669,-29994,
+-29995,-29996,-29997,-29997,-29998]} 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4
+5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7 8. g3 e5 9. dxe5 Nxe5 10. Bf4 Nfd7 11. Bg2 f6
+12. O-O Rd8 13. Qc1 {D17: Slav Defence: 5 a4 Bf5: Lines with 6 Nh4 and 6 Ne5}
+Be6 14. Ne4 Bb4 15. Rd1 {White is slightly better.} O-O {[#]} 16. Rd4 $146 {
+Threatens to win with Nxe5.} ({Predecessor:} 16. a5 a6 17. Rd4 Nc5 18. Nxc5
+Bxc5 19. Nxe5 fxe5 20. Qxc5 exf4 21. Rxf4 Rxf4 22. gxf4 {1/2-1/2 (31)
+Shankland,S (2633)-Alonso,S (2505) Praia da Pipa 2014}) 16... a5 17. h4 (17.
+Qc2 $14) 17... Nc5 (17... Kh8 {feels hotter.} 18. e3 Nb6 19. Bxe5 fxe5 20. Rxd8
+Rxd8 21. Nxb6 Qxb6 22. Qc2 h6) 18. Rxd8 (18. Nxe5 {is more complex.} Nb3 19.
+Nxc6 Qxc6 20. Qxc6 bxc6 21. Rxd8 Rxd8 22. Rb1) 18... Qxd8 19. Nxc5 Bxc5 20.
+Nxe5 Bxf2+ 21. Kh2 fxe5 22. Bxe5 Bd4 23. Bf4 Qb6 24. Qc2 Bb3 ({But not} 24...
+Qxb2 $6 25. Qxb2 Bxb2 26. Rb1 $11) 25. Qc1 (25. Qd3 $11 {remains equal.}) 25...
+Qb4 26. Bd2 (26. Bf3 $15) 26... Qd6 ({Better is} 26... Qe7 $17 {Hoping for ...
+Rf2.} 27. Ra3 Rf2 28. Rxb3 Qxe2) 27. Bf4 $15 Qb4 (27... Qc5 $15) 28. Bd2 $1 $17
+{[%cal Rd2b4]} Qe7 $36 {[%mdl 2048] Black is in control.} 29. Bc3 Be3 (29...
+Bc5 $142 {...Rf2 is the strong threat.} 30. Qg5 Qxg5 31. hxg5 Rf2) 30. Qe1 $2 {
+[%mdl 8192]} (30. Bd2 $17 Bd4 31. Ra3) 30... Bf2 $19 31. Qd2 {[#]} Bxg3+ $1 {
+[%mdl 512] Black mates.} 32. Kxg3 Qc7+ 33. Kg4 Be6+ {Accuracy: White = 44%,
+Black = 37%.} 0-1
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.30"]
+[Round "10.2"]
+[White "Abrahamyan, Tatev"]
+[Black "Foisor, Sabina-Francesca"]
+[Result "1-0"]
+[ECO "C67"]
+[WhiteElo "2377"]
+[BlackElo "2276"]
+[Annotator "TA"]
+[PlyCount "115"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,115,19,19,20,15,33,0,16,0,0,0,8,8,16,6,19,14,29,13,39,31,45,43,34,40,
+62,39,131,83,101,101,137,145,138,137,134,127,189,122,112,96,96,97,97,95,196,
+196,196,191,189,189,466,383,390,401,401,401,390,390,383,383,404,320,440,433,
+413,408,394,385,489,432,580,512,1353,1306,1298,1240,1221,1139,1036,968,4134,
+3508,2483,2510,29973,29974,29977,29978,29980,29981,29981,29978,29978,29979,
+29978,29978,29982,29983]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6
+6. Nxe5 Be7 7. Bf1 Nxe5 8. Rxe5 O-O 9. d4 Bf6 10. Re1 Nf5 {C67: Ruy Lopez:
+Berlin Defence: 4 0-0 Nxe4} (10... Re8 11. c3 Rxe1 12. Qxe1 Nf5 13. Bf4 d6 14.
+Nd2 Be6 15. Ne4 Be7 16. Qd2 c6 17. Bd3 Qd7 18. Ng5 Bxg5 19. Bxg5 h6 20. Bf4 g5
+21. Bxf5 Bxf5 22. Bg3 d5 23. Re1 {1/2-1/2 (23) Nepomniachtchi,I (2763)
+-Radjabov,T (2757) Wijk aan Zee 2019}) 11. d5 d6 12. c4 c5 {The position is
+equal.} 13. dxc6 bxc6 14. Nd2 $146 {[%cal Bb1d2,Bd2f3,Bf3g5][%mdl 32]} ({
+Predecessor:} 14. Nc3 Rb8 15. Qd2 Be6 16. Bd3 Be5 17. b3 Re8 18. Bb2 {1-0 (41)
+Kopasz,R-Weldon,C (2305) Szeged 1993}) 14... d5 15. cxd5 cxd5 16. Nf3 Rb8 17.
+Rb1 Be6 18. Bd3 Qd6 19. b3 Rfd8 20. Bg5 Bxg5 21. Nxg5 {Hoping for Qh5.} Bd7 22.
+Rc1 (22. Qh5 {is interesting.} Qg6 23. Qxg6 hxg6 24. Nf3 f6 25. Rbc1) 22... Qh6
+(22... h6 $14 23. Nf3 Rdc8) 23. Nf3 Rbc8 24. Rxc8 Rxc8 25. Bxf5 Bxf5 26. Qxd5
+g6 27. h3 $40 {[%mdl 128] White wants a kill.} Qf4 (27... Qf8 $16 {is a better
+defense.} 28. Nd4 Rc5) 28. Qd4 (28. g4 $1 $18 {[%cal Rg4f5]} Bc2 29. Qd7) 28...
+Qc7 29. Qf6 Qb6 30. Qh4 h5 31. Qf4 Rd8 {[#]} (31... Qa5 $16) 32. g4 $1 $18 {
+[%cal Rg4f5]} hxg4 33. hxg4 Be6 {[#]} 34. Ng5 $1 {And now Rxe6! would win.} Qd6
+$2 (34... Rd4 {might work better.} 35. Re4 Rxe4 36. Qxe4 (36. Nxe4 Qd8 $16)
+36... Bd7) 35. Nxe6 fxe6 {[%mdl 4096] Endgame KQR-KQR} 36. Qf6 e5 37. Qxd6 Rxd6
+38. Rxe5 {KR-KR} Ra6 39. Re2 Kf7 40. Kg2 Kf6 41. f4 Rc6 42. Kf3 Rc3+ 43. Ke4 g5
+44. Kd4 Rg3 45. fxg5+ Kf7 (45... Kg6 $142 46. Re6+ Kf7 47. Rf6+ Kg8) 46. Re4
+Rg2 47. a4 Rc2 48. Kd5 Kg6 49. b4 {[%cal Bb3b4,Bb4b5][%mdl 32]} Kf7 50. Rc4
+Rd2+ 51. Kc6 Ke8 52. Kb7 {White mates.} Rd7+ 53. Kb8 a5 54. b5 Rd6 55. Kc7 Rd7+
+56. Kb6 Rd5 57. Kxa5 Rxg5 58. Ka6 {Accuracy: White = 85%, Black = 31%.} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.30"]
+[Round "10.3"]
+[White "Yip, Carissa"]
+[Black "Wang, Annie"]
+[Result "0-1"]
+[ECO "B69"]
+[WhiteElo "2279"]
+[BlackElo "2304"]
+[Annotator "TA"]
+[PlyCount "56"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 24,56,28,0,34,35,48,26,50,-49,-51,-77,-55,-46,-42,-375,-367,-364,-381,
+-360,-381,-368,-370,-329,-352,-470,-461,-1106,-1108,-1445,-1456,-1545,-1405,
+-1431,-1200]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7.
+Qd2 a6 8. O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6 gxf6 12. Bd3 Qb6 13. Kb1
+O-O-O {B69: Sicilian: Richter-Rauzer: 7...a6 8 0-0-0 Bd7 9 f4 Be7 10 Nf3 b5 11
+Bxf6} (13... b4 $5 {[%cal Rb4c3]} 14. Na4 Qa7 $11) 14. Rhe1 Kb8 (14... Rhe8 15.
+f5 Rg8 16. Bf1 Ne5 17. Nd4 Kb8 18. Qh6 Bc8 19. g3 Rde8 20. Bh3 Bd8 21. Nce2 {
+1-0 (32) Shirov,A (2643)-Jumabayev,R (2602) St Petersburg 2018}) 15. Bf1 Na5
+$146 {White has an edge.} ({Predecessor:} 15... Rc8 16. Ne2 Na5 17. Ned4 Nc4
+18. Bxc4 bxc4 19. Qe3 Rc5 20. e5 fxe5 21. fxe5 {1/2-1/2 (41) Chigaev,M (2520)
+-Lobanov,S (2271) St Petersburg 2014}) 16. e5 ({Better is} 16. f5 $14) 16...
+dxe5 $15 17. fxe5 f5 18. Qf4 Bc6 19. g4 $2 {[%mdl 8192] [#]} (19. Ng5 $15)
+19... Qf2 $19 20. Be2 b4 {[%cal Bb5b4,Bb4b3,Bb3c2][%mdl 32]} 21. Rxd8+ Rxd8 22.
+Rf1 Qc5 23. Nd1 {[#]} Be4 $1 24. Ne3 b3 {Black is clearly winning.} 25. gxf5 (
+25. axb3 $142 Nxb3 26. Nc4) 25... Qb4 {And now ...Bxc2+ would win.} 26. Ne1 Qa4
+({Not} 26... bxc2+ 27. N1xc2 exf5 28. Ka1 $17) 27. Bd3 Qxa2+ 28. Kc1 bxc2 {
+Accuracy: White = 36%, Black = 72%.} 0-1
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.30"]
+[Round "10.4"]
+[White "Feng, Maggie"]
+[Black "Gorti, Akshita"]
+[Result "0-1"]
+[ECO "E08"]
+[WhiteElo "2199"]
+[BlackElo "2272"]
+[Annotator "TA"]
+[PlyCount "120"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,120,38,26,33,8,18,14,18,0,0,-4,10,-2,7,-19,0,10,39,40,72,70,80,67,58,
+61,51,39,46,55,139,0,0,0,0,8,10,0,0,-2,0,-1,0,0,0,0,0,0,2,0,0,0,0,0,0,-20,-26,
+-26,-20,-21,0,0,0,-8,-11,-62,-53,-90,-104,-107,-107,-107,-107,-124,-60,-60,-60,
+-410,-243,-773,-773,-784,-701,-29968,-29971,-29968,-29970,-29965,-29969,-29975,
+-29975,-29973,-29971,-29976,-29977,-29980,-29981,-29981,-29982,0,0,-29984,
+-29985,-29986,-29987,-29987,-405]} 1. Nf3 Nf6 2. g3 d5 3. Bg2 e6 4. O-O Be7 5.
+c4 O-O 6. d4 Nbd7 7. Qc2 c6 8. b3 Ne4 9. Rd1 (9. Bb2 {is interesting.} b5 10.
+c5 a5 11. a3 Qc7 12. Nc3) 9... a5 {E08: Closed Catalan: Main Line: 7 Qc2} (9...
+f5 10. Ba3 Bxa3 11. Nxa3 Qe7 12. Qb2 g5 13. Nc2 g4 14. Ne5 Nxe5 15. dxe5 Bd7
+16. f3 gxf3 17. exf3 Ng5 18. f4 Ne4 19. cxd5 exd5 {1/2-1/2 (37) Govciyan,P 
+(2417)-Chernuschevich,A (2533) France 2007}) 10. Ba3 Bxa3 11. Nxa3 f5 $146 {
+The position is equal.} ({Predecessor:} 11... Qe7 12. Qb2 b6 13. Nc2 Ba6 14.
+Nce1 Qb4 15. Nd3 Qd6 16. Rac1 f6 17. Nd2 {0-1 (36) Marinangeli,M (2119)-Bulo,P
+(2114) Buenos Aires 2003}) 12. Qb2 f4 13. Rf1 Qe8 14. Nd2 Qg6 15. Nab1 Ndf6 {
+[%cal Rf4g3]} 16. Nc3 fxg3 17. fxg3 {Black must now prevent Ndxe4.} Nd6 18. e4
+dxe4 19. Rae1 {[%cal Rd2e4]} e3 $1 {[%cal Re3d2]} 20. Rxe3 Nf5 21. Rd3 Ng4 22.
+Nde4 Bd7 {[#]} ({Black should try} 22... Qh6 $14 23. h3 Nge3) 23. Qe2 (23. Qd2
+$1 $16) 23... e5 $1 $11 {[%cal Re5d4]} 24. dxe5 Nxe5 25. Rdd1 Rae8 26. Qd2 Bc8
+27. Nd6 Nxd6 28. Rxf8+ Rxf8 29. Qxd6 Qh5 {aiming for ...Nf3+.} 30. Rf1 Rxf1+
+31. Kxf1 Qf5+ 32. Kg1 Qg5 {...Qe3+ is the strong threat.} 33. Nd1 Bd7 34. Qd4 (
+34. Be4 {looks sharper.} h5 35. Kf2 Bf5 36. Qb8+ Kf7 37. Qc7+) 34... h5 (34...
+Bg4 {keeps more tension.} 35. Ne3 Bh3 36. Kh1 Bxg2+ 37. Kxg2 Qh5) 35. Qe3 (35.
+Qc3 {with more complications.} Ng4 36. Qd4 Qe7 37. Be4 Qb4 38. Nc3) 35... Qxe3+
+36. Nxe3 {[%mdl 4096] Endgame KBN-KBN} Kf7 37. Be4 Kf6 38. Kf2 g5 39. Ke2 h4
+40. gxh4 ({Better is} 40. Kd2 $11) 40... gxh4 $15 41. Kf2 Kg5 42. Bc2 Ng4+ 43.
+Nxg4 Kxg4 $17 {KB-KB} 44. Bd1+ Kf4 (44... Kh3 $17 45. Kg1 b6) 45. Bc2 $1 $15 b5
+{[%cal Bb7b5,Bb5b4][%mdl 32]} 46. Bd3 $2 {[%mdl 8192]} ({White must play} 46.
+cxb5 $1 $15 cxb5 47. Bg6) 46... b4 $19 47. Ke2 $2 (47. Bb1) 47... c5 48. Kf2 a4
+49. Bb1 axb3 50. axb3 Bg4 51. Bc2 Bf3 52. Ke1 Ke3 53. Bf5 Be4 54. Bxe4 Kxe4 {
+K3P-K3P} 55. Ke2 Kd4 56. Kd2 h3 57. Kc2 Ke3 58. Kb2 $2 {[%mdl 8192] [#]} (58.
+Kc1 $11 Kd3 59. Kd1) 58... Kd3 {Black mates.} 59. Ka2 Kc2 60. Ka1 Kxb3 {
+Accuracy: White = 33%, Black = 71%.} 0-1
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.30"]
+[Round "10.5"]
+[White "Eswaran, Ashritha"]
+[Black "Krush, Irina"]
+[Result "1/2-1/2"]
+[ECO "B38"]
+[WhiteElo "2234"]
+[BlackElo "2451"]
+[Annotator "TA"]
+[PlyCount "89"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 27,89,40,40,40,44,41,50,37,51,52,57,40,73,20,39,19,47,45,61,52,56,46,73,
+0,91,49,75,49,56,25,62,36,38,40,46,44,65,48,48,0,50,0,49,0,58,35,33,0,62,0,42,
+44,72,77,109,95,101,0,88,0,95,0,83,0]} 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4
+g6 5. c4 Bg7 6. Be3 Nf6 7. Nc3 d6 8. Be2 O-O 9. O-O Bd7 10. Rc1 Nxd4 11. Bxd4
+Bc6 12. f3 a5 13. Qd2 Nd7 14. Be3 Nc5 15. Rfd1 {B38: Sicilian: Maroczy Bind
+with 5...Bg7 and 7...0-0} (15. Rc2 Qb6 16. Rb1 Rfc8 17. Kh1 Qd8 18. Bf1 h5 19.
+Rd1 Qf8 20. Qe1 Na4 21. Nxa4 Bxa4 22. b3 Bd7 {1/2-1/2 (56) Rizouk,A (2511)
+-Guerra Mendez,J (2533) Barcelona 2016}) 15... a4 16. Rc2 Be5 17. Bf1 {White
+is slightly better.} b6 $146 ({Predecessor:} 17... Qa5 18. Nd5 Bxd5 19. cxd5
+Qxd2 20. Rdxd2 Rfc8 21. g3 b6 {1-0 (56) Manjunath,J (1986)-Audipudy,S (1610)
+Bengaluru 2018}) 18. Nd5 Ra7 19. Nb4 Bd7 20. Nd3 ({White should try} 20. g4 $16
+) 20... Bg7 21. Qf2 Qb8 22. Nb4 Re8 23. Kh1 h5 24. Rd5 Qc7 25. Rd1 (25. Kg1 $16
+) 25... Rb8 (25... Qb8 $1 $11 {keeps the balance.}) 26. Nd5 Qd8 27. Qh4 Bc6 28.
+Bg5 Rbb7 29. Nc3 Qf8 30. Be3 Be5 31. Nd5 Qg7 32. Qf2 Qf8 33. Qh4 Bg7 34. Nc3
+Be8 35. Nd5 Bh6 (35... Bc6 $11) 36. Bd4 Bg7 37. Be3 Be5 (37... Bh6 $11) 38. Nc3
+(38. f4 $14 Bg7 39. f5) 38... e6 39. Qf2 f5 40. exf5 gxf5 41. Bd4 Bf4 42. Be3
+Be5 $1 43. Bd4 Bf4 $1 44. Be3 Be5 $1 45. Bd4 {Accuracy: White = 35%, Black =
+39%.} (45. Qh4 $16) 1/2-1/2
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.30"]
+[Round "10.6"]
+[White "Sharevich, Anna"]
+[Black "Nguyen, Emily"]
+[Result "1-0"]
+[ECO "D43"]
+[WhiteElo "2282"]
+[BlackElo "2143"]
+[Annotator "TA"]
+[PlyCount "83"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,83,-2,0,0,5,0,-2,-29,0,0,0,0,0,0,0,0,0,0,0,0,8,1,12,25,16,0,30,18,95,
+65,76,14,15,8,7,0,151,147,188,202,202,97,116,120,218,85,239,89,75,84,72,41,33,
+33,148,25,27,21,30,0,0,0,165,150,772,771,763,750,750,733,29970,29971,5459,5451]
+} 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. g3 dxc4 6. Bg2 b5 7. O-O {E04:
+Open Catalan: 5 Nf3} a6 (7... Bb7 8. e4 Be7 9. e5 Nd5 10. a4 a6 11. Ne4 Nd7 12.
+Bg5 O-O 13. h4 h6 14. Bxe7 Qxe7 15. Nd6 Rab8 {0-1 (32) Andreikin,D (2725)
+-Andriasian,Z (2604) chess.com INT 2019}) 8. Ne5 Bb7 9. a4 {The position is
+equal.} (9. b3 {is interesting.} b4 10. Na4 c3 11. Qc2 Nbd7 12. Rd1) 9... Be7 (
+9... Qc8 {keeps more tension.} 10. Bg5 Nbd7 11. Bxf6 Nxf6 12. e3 Bd6) 10. axb5
+axb5 11. Rxa8 Bxa8 12. Nxb5 cxb5 13. Bxa8 O-O 14. Bg2 Nd5 15. Bd2 Qb6 $146 16.
+e3 f6 17. Nf3 Nc6 18. e4 Ndb4 19. Be3 Rd8 (19... Qc7 $11 {remains equal.}) 20.
+Qe2 {aiming for d5.} Na5 21. d5 ({White should try} 21. Bh3 $1 $16) 21... Bc5
+$1 $11 22. Bxc5 Qxc5 23. dxe6 {White wants to play e5.} Nd3 $2 (23... Nac6 $11)
+24. e5 $1 $16 {[%cal Re5f6]} fxe5 25. Ng5 Qe7 26. Nf7 (26. Qg4 $18 {is more
+deadly.}) 26... Re8 27. Be4 (27. Nxe5 Qxe6 28. f4 Nc6 $11) 27... h6 {[#]} (
+27... g6 $16 {was worth a try.}) 28. Bf5 (28. Bxd3 cxd3 29. Qxd3 Qxe6 $14) (28.
+Qh5 $1 $18 {Hoping for Nd6!} Qxe6 29. f4) 28... Nc6 $2 {[#]} (28... Nb3 $16 29.
+Qg4 (29. Nxe5 $2 Nd4 $19) (29. Bxd3 Qxe6 30. Nxh6+ Qxh6 $14) 29... Kf8) 29. Qg4
+(29. Qe4 $1 $18 {[%cal Re4c6] is the precise move to win.} Qc7 30. Bh7+ Kf8 31.
+Qf5) 29... Qf6 30. Nd6 $40 {[%mdl 128] White has strong attack.} Rf8 31. Qg6 (
+31. Qe4 $5 {[%cal Re4c6]} Ne7 32. Bg4 $14 (32. Bh7+ Kh8 $11)) 31... Qxg6 32.
+Bxg6 Nxb2 (32... Rd8 $14 33. Nxb5 Kf8) 33. Nxb5 (33. Rb1 $16 Rd8 34. Nf5 (34.
+Nxb5 Rd1+ 35. Rxd1 Nxd1 $16)) 33... Rb8 34. Nc3 Kf8 35. f4 Ke7 36. Be4 Nd4 $2 (
+36... Rb3 $1 $11 {and Black is okay.}) 37. f5 $18 {Ra1 is the strong threat.}
+Nb3 $2 (37... Nd3 $16) 38. Nd5+ Kd6 39. f6 gxf6 40. Rxf6 {And now e7+ would
+win.} c3 41. e7+ Kc5 42. Rf8 {Accuracy: White = 41%, Black = 31%.} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.31"]
+[Round "11.1"]
+[White "Yu, Jennifer"]
+[Black "Yip, Carissa"]
+[Result "1-0"]
+[ECO "A10"]
+[WhiteElo "2273"]
+[BlackElo "2279"]
+[Annotator "TA"]
+[PlyCount "103"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,103,-6,15,5,9,7,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-24,5,5,38,24,
+39,-83,-89,-82,-78,-116,0,-117,-118,-114,-93,-81,21,16,18,30,41,6,39,0,48,43,
+60,54,39,50,45,37,125,124,121,119,158,163,195,213,209,202,204,202,226,226,224,
+214,224,177,957,861,876,672,672,651,567,315,6420,6070,29974,29975,29972,29972]
+} 1. c4 g6 2. Nc3 Bg7 3. g3 e6 4. Bg2 Ne7 5. d4 d5 6. cxd5 exd5 7. Nf3 O-O 8.
+O-O Nbc6 {LiveBook: 78 Games} 9. a3 {A13: English Opening: 1...e6} (9. b3 Re8
+10. e3 Nf5 11. Ne1 Nce7 12. Nd3 a5 13. Re1 c6 14. Bb2 Nd6 15. Rc1 Nef5 16. Rc2
+h5 {1/2-1/2 (28) Erdos,V (2650)-Iordachescu,V (2609) Mamaia 2013}) 9... Nf5
+$146 {[%cal Rf5d4]} ({Predecessor:} 9... Bg4 10. e3 Qd7 11. Qb3 b6 12. Qa4 Rad8
+13. b4 Bh3 14. Bd2 Bxg2 15. Kxg2 Nf5 16. Rac1 Nce7 17. Qxd7 Rxd7 {1/2-1/2 (32)
+Chiburdanidze,M (2505)-Ioseliani,N (2445) Shanghai 1992}) 10. e3 a6 11. Ne1 {
+The position is equal.} Nce7 12. Nd3 c6 13. b3 Nd6 14. a4 a5 15. Ba3 Re8 16.
+Re1 Nef5 17. Qc2 h5 18. h3 Nh6 19. Rad1 Bf5 20. Qc1 Rc8 21. Nf4 Kh8 22. f3 b5 {
+[%cal Bb7b5,Bb5b4][%mdl 32]} 23. Bc5 (23. axb5 $1 $14 {keeps the upper hand.}
+Nxb5 24. Nxb5 cxb5 25. Bc5) 23... b4 $17 24. Nce2 Nb7 25. Nd3 Qg5 (25... Bxd3
+$17 26. Rxd3 Nxc5 27. Qxc5 Bf8) 26. Kf2 (26. e4 $11 Qxc1 27. Nexc1) 26... Bxd3
+27. Rxd3 Nxc5 28. Qxc5 Nf5 (28... Bf8 $17 29. Qxa5 Qf5) 29. e4 $11 Bf8 30. Qc1
+Qxc1 31. Rxc1 Ng7 32. Rd2 Ne6 (32... dxe4 {seems wilder.} 33. fxe4 c5 34. d5
+Bd6 35. Rc4 f5) 33. exd5 cxd5 34. Rxc8 $1 Rxc8 35. f4 Rd8 36. Rc2 Bh6 ({
+Black should try} 36... h4 $14) 37. Rc6 h4 38. Ra6 hxg3+ 39. Kxg3 Bg7 40. Rxa5
+Nxd4 41. Nxd4 Bxd4 42. Bxd5 $18 {[%mdl 4096] Endgame KRB-KRB} Kg7 43. Rb5 Ba7
+44. Kf3 Kf6 45. Ke4 Rb8 $2 {[#]} (45... Rd7 46. Bc4 (46. Rxb4 Re7+ 47. Kf3 Kf5
+$18) 46... Re7+ 47. Kf3 Kg7) 46. Rxb8 Bxb8 {KB-KB} 47. a5 Ke7 48. a6 f6 49. h4
+{[%cal Bh3h4,Bh4h5,Bh5h6][%mdl 32]} Ba7 $2 {[#]} (49... f5+ 50. Kd4 Ba7+ 51.
+Kc4 Be3) 50. f5 g5 51. h5 Kf8 52. h6 {Precision: White = 58%, Black = 37%.} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.31"]
+[Round "11.2"]
+[White "Foisor, Sabina-Francesca"]
+[Black "Zatonskih, Anna"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2276"]
+[BlackElo "2430"]
+[Annotator "TA"]
+[PlyCount "71"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,71,-12,-3,9,11,10,12,25,22,30,32,40,25,29,10,25,18,29,16,16,23,36,32,
+51,33,48,47,57,0,0,0,37,43,49,0,26,-7,39,31,92,95,122,122,481,480,446,461,503,
+139,127,126,425,410,852,737,718,700,783,767,1437,1025,1010,1006]} 1. d4 d5 2.
+Nf3 Nf6 3. c4 e6 4. Nc3 a6 5. Bg5 dxc4 6. a4 h6 {D24: Queen's Gambit Accepted:
+3 Nf3 Nf6 4 Nc3} (6... c6 7. e3 b5 8. axb5 cxb5 9. Bxf6 gxf6 10. Nxb5 axb5 11.
+Rxa8 Bb7 12. Ra1 Bb4+ 13. Ke2 O-O 14. Qc2 {0-1 (26) Mamedyarov,S (2817)
+-Nakamura,H (2746) Kolkata 2018}) 7. Bxf6 Qxf6 8. e3 Qd8 $146 {The position is
+equal.} ({Predecessor:} 8... Nc6 9. Bxc4 Bd6 10. O-O O-O 11. Ne4 Qe7 12. Nxd6
+cxd6 13. d5 Nd8 14. dxe6 fxe6 {1/2-1/2 (68) Conquest,S (2488)-Milov,V (2683)
+Port Erin 2004}) 9. Bxc4 Be7 10. O-O O-O 11. Qe2 Nc6 12. Rad1 Qe8 13. e4 Nb4
+14. Rfe1 Bd7 15. Bb3 b5 {[%cal Rb5a4]} 16. Ne5 bxa4 17. Nxd7 Qxd7 18. Bxa4 Qc8
+19. Qh5 (19. Bb3 $14) 19... c5 $11 20. d5 Rd8 21. Re3 Bg5 22. Ree1 Be7 23. g3
+Rb8 24. Re3 $36 {[%mdl 2048] White has some pressure.} exd5 ({Black should play
+} 24... Bf8 $14) 25. exd5 $16 Bg5 26. Re4 Rb6 $2 {[%mdl 8192] [#]} (26... Qc7
+$16) 27. d6 $1 $18 {[%mdl 512]} g6 {[#]} (27... Rbxd6 28. Rxd6) 28. Qe2 $1 Kg7
+29. Re8 $2 (29. d7 $18 {is more deadly.} Qc7 30. Re8) 29... Rxe8 $16 30. Bxe8 {
+Na4 is the strong threat.} Bf6 $2 {[%mdl 8192]} (30... Qf5 $16 31. Ne4 Qe6) 31.
+d7 $18 Qc7 {[#]} (31... Qb8 $142 32. Qc4 {[%mdl 64] Double Attack} Re6) 32.
+Bxf7 $1 {[%mdl 512] White is clearly winning.} Rb8 (32... Kxf7 33. Qe8+) 33.
+Be8 {Strongly threatening Qe6.} Nc6 34. Qe6 {White wants to mate with Qf7+.}
+Ne5 {[#]} 35. Qxf6+ $1 {[%mdl 576] Decoy} Kxf6 36. Nd5+ {[%mdl 64] Double
+Attack. Accuracy: White = 63%, Black = 35%.} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.31"]
+[Round "11.3"]
+[White "Gorti, Akshita"]
+[Black "Abrahamyan, Tatev"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[WhiteElo "2272"]
+[BlackElo "2377"]
+[Annotator "TA"]
+[PlyCount "101"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 25,101,15,14,12,13,0,0,0,18,-3,0,-13,-13,-26,-22,-30,-18,-18,-17,-25,
+-28,-24,-13,-20,-17,-22,0,-18,0,0,0,0,0,0,0,0,0,0,7,7,7,6,6,2,5,0,0,0,133,0,0,
+0,0,-9,0,0,0,0,0,-8,0,0,0,0,-8,-8,-8,-8,-8,-8,-8,-8,0,0,0,0,0,0]} 1. d4 Nf6 2.
+c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Bd2 Bf6 9. Rc1 d6
+10. d5 Nxc3 11. Bxc3 Bxc3 12. Rxc3 e5 13. e4 a5 14. Nd2 {E18: Queen's Indian:
+Old Main Line (4 g3 Bb7 5 Bg2 Be7 6 0-0 0-0 7 Nc3)} Nd7 15. f4 c6 (15... Qe7
+16. Nf3 f6 17. Re1 Nc5 18. Rce3 Bc8 19. Qc2 Bd7 20. b3 Rfb8 21. a3 b5 22. cxb5
+Rxb5 {1-0 (55) Nakamura,H (2785)-Anton Guijarro,D (2650) Caleta 2017}) 16. Nf3
+$146 ({Predecessor:} 16. a4 cxd5 17. exd5 exf4 18. Rxf4 Ne5 19. Nf3 Nxf3+ 20.
+Qxf3 Qc7 21. Qf2 Ba6 {0-1 (66) Bartholomew,J (2472)-Abrahamyan,T (2332) Saint
+Louis 2018}) 16... cxd5 17. cxd5 f6 18. Nh4 Nc5 19. Nf5 Bc8 20. Ne3 b5 21. fxe5
+fxe5 22. Rxf8+ Qxf8 23. Rc2 Bd7 24. Rf2 Qe7 25. h4 g6 26. Qd2 a4 27. Nc2 Rf8
+28. Rxf8+ Qxf8 29. Qe3 Qc8 30. Nb4 Nb7 31. Qb6 Qc5+ 32. Qxc5 Nxc5 $11 {[%mdl
+4096] Endgame KBN-KBN} 33. Kf2 Kf7 34. Ke3 Ke7 35. Bf1 Kd8 36. Be2 h5 {[#]} (
+36... Kc7 $11) 37. Nc2 (37. Nc6+ $1 $16 Bxc6 38. dxc6) 37... Kc7 {The position
+is equal.} 38. Ne1 Kb6 39. Nf3 b4 40. Ng5 a3 41. bxa3 bxa3 42. Kd2 Bb5 43. Bxb5
+Kxb5 {KN-KN} 44. Kc3 Ka4 45. Kc4 Ka5 46. Nf7 $1 {[%cal Rf7d6]} Nxe4 {[#] ...
+Kb6 is the strong threat.} 47. Kd3 Nxg3 {Strongly threatening ...Nf5.} 48. Nxd6
+Kb6 {Hoping for ...Kc5.} 49. Nc4+ Kc5 50. Nxe5 Kxd5 51. Nxg6 {Accuracy: White
+= 65%, Black = 60%.} 1/2-1/2
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.31"]
+[Round "11.4"]
+[White "Wang, Annie"]
+[Black "Sharevich, Anna"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[WhiteElo "2304"]
+[BlackElo "2282"]
+[Annotator "TA"]
+[PlyCount "111"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,111,0,39,4,20,0,0,-28,-19,-25,30,18,21,10,8,6,7,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,3,0,0,0,2,-58,-49,-57,-41,-55,0,0,0,14,63,1,81,0,25,0,0,0,15,0,36,23,
+99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-664]} 
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. g3 O-O 6. Bg2 c6 7. O-O Nbd7 8. b3
+b6 9. Bb2 Ba6 10. Nd2 Rc8 11. Re1 {E07: Closed Catalan: Main Line (5 Nf3 0-0 6
+0-0 Nbd7)} (11. e4 dxe4 12. Re1 c5 13. Ndxe4 cxd4 14. Qxd4 Nc5 15. Qe3 Qc7 16.
+Nxc5 Bxc5 17. Qf3 Rfd8 18. Ne2 Qe7 19. Rad1 Rxd1 20. Rxd1 {1/2-1/2 (48)
+Kramnik,V (2796)-Karjakin,S (2762) Nizhnij Novgorod 2013}) 11... b5 {[%cal
+Rb5c4]} 12. e4 bxc4 {White must now prevent ...c5.} 13. bxc4 Rb8 $146 ({
+Predecessor:} 13... dxc4 14. Bf1 Nb6 15. a4 c5 16. a5 Nbd7 17. d5 Ne5 18. f4
+Nd3 19. Nxc4 Nxb2 20. Nxb2 Bxf1 21. Kxf1 exd5 22. exd5 {1-0 (38) Moreno,W 
+(2055)-Silva Morales,M (2317) Peru 2000}) 14. Rb1 Nb6 (14... dxc4 $142 15. Qa4
+Bb5) 15. exd5 exd5 16. c5 Nc4 17. Nxc4 Bxc4 18. Qa4 Qd7 19. Bc1 Rxb1 20. Nxb1
+Bb5 21. Qb4 Bd8 22. Nd2 a5 23. Qb2 Re8 24. Rxe8+ Qxe8 25. Nf3 Bc7 26. Bg5 Ne4
+27. Be3 a4 28. Ne1 (28. Bf1 $11) 28... Ba5 $15 29. Nf3 f6 30. Bf1 Bxf1 (30...
+Nc3 $15) 31. Kxf1 $11 Qc8 32. Kg2 Bc7 (32... Bc3 $5 {[%cal Rc3b2]} 33. Qb6 a3
+$11) 33. Ne1 (33. Qc2 $14) 33... h6 (33... Ba5 $11 34. Nc2 Qe8) 34. Nd3 (34.
+Qc2 $16) 34... Qa6 35. Qa3 f5 36. f3 Ng5 37. Bf2 Ne6 38. Nb2 Bd8 (38... Qb5 $11
+{remains equal.}) 39. Qe3 ({White should try} 39. Qxa4 $16 Qxa4 40. Nxa4) 39...
+Kf7 {The position is equal.} 40. Nd3 Bf6 41. Ne5+ Bxe5 42. Qxe5 Qd3 43. h4 Qc2
+{[#] And now ...a3 would win.} 44. a3 Qd3 45. Qd6 Qxa3 {aiming for ...Qb2.} 46.
+Qxc6 Qb3 47. Qd7+ Kf6 48. c6 a3 49. Qd6 a2 50. c7 Qc4 (50... Qb7 $5 51. Qa3 $8
+(51. Qd8+ Nxd8 {[%mdl 64] Promotion} 52. cxd8=Q+ Kg6 $19) 51... Qxc7 52. Qxa2
+Qd7 $11) 51. Qd8+ $1 {[#]} Nxd8 $1 {[%mdl 576] Promotion} 52. cxd8=Q+ Kf7 53.
+Qd7+ Kg8 54. Qe6+ $1 Kh8 55. h5 $1 a1=Q $4 {[%mdl 8192]} (55... a1=R $11 56.
+Qe8+ Kh7 57. Qg6+ {[%mdl 64] Double Attack} Kh8 58. Qe8+ Kh7 59. Qg6+ {[%mdl
+64] Double Attack} Kh8 60. Qe8+) 56. Qe8+ {[%mdl 32768] Accuracy: White = 54%,
+Black = 60%. . An unexpected result.} 1/2-1/2
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.31"]
+[Round "11.5"]
+[White "Krush, Irina"]
+[Black "Feng, Maggie"]
+[Result "1-0"]
+[ECO "A25"]
+[WhiteElo "2451"]
+[BlackElo "2199"]
+[Annotator "TA"]
+[PlyCount "119"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,119,12,19,34,16,16,31,6,26,18,27,22,26,21,24,24,30,33,43,22,21,0,24,
+20,17,22,14,0,14,-21,-12,-34,-14,-12,-5,-27,0,-11,8,35,38,0,0,0,0,0,13,8,20,
+-14,-17,-18,-19,-20,-9,-14,5,0,8,9,51,53,43,13,20,24,50,43,51,35,76,71,83,77,
+120,118,191,191,447,443,671,660,638,638,638,638,638,625,1211,1131,29976,29977,
+29977,29979,29979,29980,29980,29980,29981,29982,29982,29983,29983,29984,29984,
+29985,29985,29986,29986,29987,29987,29988]} 1. c4 e5 2. Nc3 Nc6 3. g3 Bc5 4.
+Bg2 a6 5. e3 d6 6. Nge2 {A25: English Opening vs King's Indian with ...Nc6 but
+without early d3} (6. Nf3 Nf6 7. O-O O-O 8. h3 Ba7 9. d4 h6 10. dxe5 dxe5 11.
+Qxd8 Rxd8 12. b3 Be6 13. Ba3 Rd7 14. Rfd1 Rad8 15. Rxd7 Rxd7 {1/2-1/2 (41)
+Howell,D (2676)-Ponomariov,R (2694) Riadh 2017}) 6... Ba7 7. d4 exd4 8. exd4 {
+White is slightly better.} Nge7 9. O-O O-O 10. Be3 Nf5 11. Qd2 Re8 12. Rae1
+$146 ({Predecessor:} 12. Nd5 Nce7 {0-1 (44) Radovanovic,D (1852)-Mladenovic,S 
+(2329) Nis 2014}) 12... Nxe3 13. fxe3 Ne7 14. Qd3 c6 15. Kh1 Rb8 16. Be4 g6 17.
+Bg2 b5 18. b3 d5 19. c5 b4 20. Nb1 Bf5 21. Qd1 ({Reject} 21. Qxa6 Ra8 $17)
+21... Kg7 22. Nf4 Qd7 23. Nd2 Ng8 24. e4 dxe4 $1 25. Nxe4 Bxe4 26. Rxe4 Rxe4
+27. Bxe4 Nf6 28. Bg2 {Strongly threatening Qa1.} Rd8 29. d5 (29. Qe1 $5 {
+[%cal Re1e5]} Bb8 30. d5 $14 (30. Qxb4 Qxd4 31. Qxd4 Rxd4 $11)) 29... Nxd5 {
+White must now prevent ...Ne3.} 30. Nxd5 cxd5 31. Qd4+ Kg8 32. Qxb4 Qc7 33. Rc1
+d4 34. Qb7 $36 {[%mdl 2048] White fights for an advantage.} Bb8 (34... Qxb7 {
+feels hotter.} 35. Bxb7 d3 36. c6 Bb6 37. Kg2 a5) 35. Qxc7 Bxc7 $14 {[%mdl
+4096] Endgame KRB-KRB} 36. Bf1 a5 37. Bd3 Kf8 38. a3 {[%cal Ba2a3,Ba3b4,Bb4b5,
+Bb5b6,Bb6b7][%mdl 32]} Rb8 39. Rb1 Ke7 40. b4 $1 axb4 41. axb4 Kd7 {[#]} 42. b5
+$1 Ra8 (42... Bd8 $16 {was necessary.}) 43. b6 $18 Be5 $2 {[#]} (43... Bd8 {
+might work better.} 44. c6+ Kd6) 44. c6+ $1 {[%mdl 512]} Ke7 (44... Kd8 $142
+45. Rb5 Ra1+ 46. Kg2 Ra2+ 47. Kh3 Bc7 48. Rd5+ Kc8 49. bxc7 Ra7) (44... Kxc6
+45. Be4+) 45. b7 Rb8 {[#]} 46. Re1 $1 Kd6 {[#]} 47. Rxe5 $1 {[%mdl 512]} Kxc6 {
+KRB-KR} (47... Kxe5 48. c7) 48. Re7 f5 49. Rxh7 Rxb7 50. Rxb7 {White mates.}
+Kxb7 {KB-K3P} 51. Kg2 Kc6 52. Kf3 Kd6 53. Kf4 Ke6 54. Kg5 Kf7 55. h4 Kg7 56.
+Bc4 Kh7 57. Bf7 d3 58. Bxg6+ Kg7 59. Bxf5 d2 60. Bc2 {Accuracy: White = 68%,
+Black = 39%.} 1-0
+
+[Event "US-ch Women 2019"]
+[Site "Saint Louis"]
+[Date "2019.03.31"]
+[Round "11.6"]
+[White "Nguyen, Emily"]
+[Black "Eswaran, Ashritha"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "2143"]
+[BlackElo "2234"]
+[Annotator "TA"]
+[PlyCount "146"]
+[EventDate "2019.03.20"]
+[EventType "swiss"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,146,0,8,0,0,0,0,0,7,0,36,0,0,0,0,0,-1,-4,0,0,2,-150,-126,-141,-133,
+-181,-172,-199,-197,-310,-292,-282,-281,-285,-228,-252,-239,-228,-232,-239,
+-235,-281,-264,-258,-178,-178,-177,-210,-169,-177,-177,-178,-175,-172,-166,
+-166,-86,-86,-86,-90,-88,-92,-91,-99,-99,-129,-129,-129,-104,-141,-85,-122,-85,
+-129,-108,-126,-94,-102,-102,-101,-108,-111,-92,-108,-74,-91,-82,-141,-85,-86,
+-85,-184,-184,-184,-184,-154,-108,-108,-108,-202,-172,-172,-162,-164,-164,-164,
+-164,-302,-302,-302,-302,-302,-302,-302,-302,-302,-302,-302,-302,-302,-302,
+-302,-302,-302,-179,-29978,-29979,-29979,-29980,-29980,-29981,-29981,-29982]} 
+1. d4 Nf6 2. Bg5 d5 3. e3 c5 4. Bxf6 gxf6 5. dxc5 e6 6. Nf3 {D00: 1 d4 d5:
+Unusual lines} (6. c4 dxc4 7. Nd2 c3 8. bxc3 Bxc5 9. Ngf3 O-O 10. Be2 Be7 11.
+O-O Nd7 12. Nd4 Nc5 13. Bf3 Bd7 {1/2-1/2 (55) Mchedlishvili,M (2610)
+-Harikrishna,P (2725) St Petersburg 2018}) 6... Bxc5 7. Be2 Nc6 8. O-O O-O {
+LiveBook: 5 Games} 9. Nbd2 f5 $146 ({Predecessor:} 9... b6 10. c4 dxc4 11. Bxc4
+Bb7 12. Qe2 Qe7 13. Ba6 Bxa6 14. Qxa6 {1/2-1/2 (59) Swapnil,S (2516)-Debashis,
+D (2494) Patna 2017}) 10. c4 dxc4 11. Nxc4 Qf6 12. Qc2 Bd7 13. a3 Rfc8 14. Rad1
+Be8 15. b4 Bf8 16. Qb3 Rd8 17. b5 Ne7 18. Nfe5 $2 (18. Nd6 $11) 18... Rd5 $17
+19. f4 Rxb5 20. Qa2 Nd5 21. Rd3 Rc5 22. Bf3 (22. Qb1 {might work better.})
+22... Bb5 23. Qb3 Rac8 {[%cal Rb5c4]} 24. Rd4 Bxc4 25. Rxc4 Rxc4 26. Nxc4 {[#]}
+Rxc4 $1 {[%mdl 512]} 27. Qxc4 Nxe3 28. Qc8 Qd4 29. g3 Nxf1+ 30. Kxf1 b6 31. Bh5
+{and the idea Qc7 leaves White hopeful.} Qd3+ 32. Kg2 Qxa3 33. Qd7 Qb2+ 34. Kh3
+Qf6 35. Qxa7 Bc5 (35... b5 $19 36. Qd7 b4) 36. Qb7 Kg7 37. Kg2 Bd4 38. Kf1 e5
+39. fxe5 Bxe5 40. Bf3 f4 41. g4 Qg6 42. Qe4 Qd6 (42... Qxe4 $142 43. Bxe4 b5)
+43. Qd5 Qc7 44. Qc6 Qa7 45. Qb5 Bf6 46. Kg2 Qa2+ 47. Qe2 Qa5 48. Qc4 Be5 49.
+Qd5 Qc3 {Strongly threatening ...Qb2+.} 50. Qb5 Qd4 51. Be2 (51. g5 $142) 51...
+Qe4+ ({Black should try} 51... Qe3 52. Bf3 h6) 52. Bf3 Qe3 53. Qd5 {[#]} (53.
+g5 $17) 53... h6 $1 $19 54. Qe4 Qxe4 55. Bxe4 {[%mdl 4096] Endgame KB-KB} f6
+56. Kf3 Kf7 57. Ke2 (57. Bc2 $17 {was called for.}) 57... Ke6 58. Kd3 Bd6 59.
+h4 Bc5 60. h5 Ke5 61. Bf3 (61. Bc6 $142) 61... b5 62. Bd1 b4 63. Bf3 b3 {
+aiming for ...b2.} 64. Kc3 {[#]} b2 $1 65. Kxb2 {[#]} Kd4 $1 {[%cal Rd4e3]} 66.
+Kc2 {If only White now had time for Kd2....} Ke3 67. Bc6 f3 {[%cal Bf4f3,Bf3f2]
+[%mdl 32] White must now prevent ...Ke2.} 68. Kd1 Bb4 69. Bb5 Kf2 (69... Kf4
+$142 70. Bd3 Kxg4) 70. Kc2 $2 (70. Bc6 $19) 70... Ke1 {Black mates.} 71. Kd3 f2
+72. Ke4 Bd2 73. Kf5 Bg5 {Precision: White = 38%, Black = 71%.} 0-1
+

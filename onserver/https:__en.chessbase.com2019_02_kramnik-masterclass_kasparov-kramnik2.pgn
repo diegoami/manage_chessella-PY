@@ -1,0 +1,68 @@
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1996.05.27"]
+[Round "6"]
+[White "Kasparov, Garry"]
+[Black "Kramnik, Vladimir"]
+[Result "0-1"]
+[ECO "D48"]
+[WhiteElo "2775"]
+[BlackElo "2775"]
+[Annotator "Lutz,C"]
+[PlyCount "70"]
+[EventDate "1996.05.21"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "19"]
+[SourceTitle "100 Jahre Schach"]
+[Source "ChessBase"]
+[SourceDate "2000.04.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2000.04.19"]
+[SourceQuality "1"]
+
+{Stohl: A crucial game between the two highest rated players in the world.
+Their score in decided normal games is now 2:2, with Kramnik being the first
+one to win with Black.} 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6.
+Bd3 dxc4 7. Bxc4 b5 8. Bd3 Bb7 9. O-O a6 10. e4 c5 11. d5 c4 12. Bc2 Qc7 13.
+Nd4 Nc5 14. b4 {This move was close to become popular in the beginning of 90th.
+} cxb3 15. axb3 b4 16. Na4 Ncxe4 17. Bxe4 {Stohl: Kasparov's novelty is
+designed to make use of Black's K stuck on e8.} Nxe4 18. dxe6 Bd6 19. exf7+
+Qxf7 {Stohl: An exciting, if probably not fully correct concept. Now Black
+will be forced to sacrifice a piece to get his K out of the center.} 20. f3 Qh5
+21. g3 O-O $5 22. fxe4 Qh3 {Stohl: Black doesn't have even a single pawn for
+the piece, but his attack is unexpectedly dangerous. Kasparov surprisingly
+cracks under the pressure.} 23. Nf3 $2 Bxg3 {[#]} 24. Nc5 $2 ({I)} 24. hxg3 $2
+Qxg3+ 25. Kh1 Bxe4 $19) ({II)} 24. Ra2 $5 Bxe4 25. hxg3 Rad8 26. Qe1 Rxf3 27.
+Rxf3 Bxf3 28. Rh2 Qg4 29. Rd2 $13) ({III)} 24. Qe2 $5 Rxf3 25. Rxf3 Bxh2+ 26.
+Qxh2 Qxf3 27. Qg2 Qxg2+ (27... Qd1+ 28. Kh2 $10) (27... Qxb3 $6 28. Bh6 {
+and White seizes the initiative.}) 28. Kxg2 Bxe4+ 29. Kg1 {and the endgame
+should end in a draw.}) 24... Rxf3 $1 25. Rxf3 $2 {Kasparov misses the last
+chance to liquidate into the endgame - which is worse for him but where he can
+still hope.} (25. Ra2 $1 Rxf1+ 26. Qxf1 Qxf1+ 27. Kxf1 Rc8 28. Be3 Bf4 $1 29.
+Nxb7 Bxe3 30. Rxa6 Bf4 $17 {(Kramnik).}) 25... Qxh2+ 26. Kf1 Bc6 $1 {White now
+has an extra R, but his K is so exposed that he has no defense in the long run.
+} (26... Qh1+ 27. Ke2 Qh2+ 28. Ke3 Qh6+ 29. Kd3 $2 (29. Ke2 Qh2+ $10) 29...
+Qd6+ 30. Ke2 Qxc5 31. Rxg3 Qh5+ 32. Ke1 (32. Rf3 Bxe4 $17) 32... Qe5 $19) 27.
+Bg5 ({I)} 27. Be3 Bb5+ 28. Nd3 Rd8 29. Bg1 Qh3+ 30. Ke2 Qg2+ 31. Bf2 Bxf2 32.
+Rxf2 Qxe4+ $19) ({II)} 27. Qd3 Qh1+ 28. Ke2 Qe1#) ({III)} 27. Ra5 $5 Bc7 28.
+Qd4 $5 (28. Ra1 Qh1+ 29. Ke2 Qg2+ 30. Ke3 Qg5+ 31. Kf2 Qxc5+ $19) 28... Bxa5
+29. Bb2 Qh6 (29... Bb5+ 30. Nd3 Bxd3+ 31. Qxd3 Qh1+ 32. Kf2 Bb6+ 33. Kg3 {
+and the situation remains unclear.}) 30. Rg3 Ra7 31. Ne6 Rf7+ 32. Kg1 Qxe6 33.
+Rxg7+ Kf8 34. Qc5+ Ke8 35. Rg8+ Kd7 36. Qxa5 Qxe4 37. Qd8+ Ke6 38. Qc8+ Kd6 39.
+Qb8+ Rc7 40. Qf8+ Re7 41. Qb8+ Kc5 42. Rg5+ Bd5 43. Qc8+ Kb6 44. Qb8+ Bb7 45.
+Qd6+ Bc6 46. Bd4+ Kb7 47. Qxb4+ Kc8 48. Rg8+ Kd7) 27... Bb5+ (27... Qh1+ $2 28.
+Ke2 Qg2+ 29. Ke3 {yields nothing.}) 28. Nd3 Re8 $1 {Black activates his last
+passive piece.} 29. Ra2 (29. Be3 Rd8 $19) (29. Qd2 Qh1+ 30. Ke2 Rxe4+ 31. Re3
+Qh5+ 32. Kf1 Qxg5 $19) (29. Rc1 Qh1+ 30. Ke2 Rxe4+ 31. Kd2 Qg2+ $19) (29. Rb1
+Rxe4 30. Rf8+ Kxf8 31. Qf3+ Kg8 32. Qxe4 Qf2#) 29... Qh1+ $6 {Black could mate
+immediately but when Kramnik saw the winning line played in the game he did
+not calculate any further.} (29... Bxd3+ $1 30. Rxd3 (30. Qxd3 Qh1+ 31. Ke2
+Qe1#) 30... Qh1+ 31. Ke2 Qg2+ 32. Ke3 Rxe4#) 30. Ke2 Rxe4+ (30... Bxd3+ $2 31.
+Kd2 $1) 31. Kd2 (31. Be3 Qg2+ 32. Rf2 Qxf2#) 31... Qg2+ 32. Kc1 (32. Nf2 Rd4+)
+32... Qxa2 33. Rxg3 (33. Rf8+ Kxf8 34. Qf3+ Bf4+ 35. Bxf4 Qa1+ 36. Kd2 Qc3+ $19
+) 33... Qa1+ 34. Kc2 Qc3+ 35. Kb1 Rd4 {Kasparov resigned. Certainly one of the
+most impressive games of the 90s.} ({One possible line is} 35... Rd4 36. Bf6
+Bxd3+ 37. Ka2 Bb1+ 38. Qxb1 Rd2+ {and Black mates.}) 0-1
+

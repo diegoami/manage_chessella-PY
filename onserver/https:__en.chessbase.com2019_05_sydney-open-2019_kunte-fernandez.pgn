@@ -1,0 +1,48 @@
+[Event "Sydney open"]
+[Site "Parramatta"]
+[Date "2010.04.11"]
+[Round "9"]
+[White "Kunte, Abhijit"]
+[Black "Fernandez, Daniel Howard"]
+[Result "1/2-1/2"]
+[ECO "E90"]
+[WhiteElo "2528"]
+[BlackElo "2299"]
+[Annotator "Daniel Fernandez"]
+[SetUp "1"]
+[FEN "6k1/2Q1Rbb1/4q1pp/4pp2/6N1/7P/5PP1/6K1 b - - 0 43"]
+[PlyCount "29"]
+[EventDate "2010.04.07"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AUS"]
+[Source "ChessBase"]
+[SourceVersion "1"]
+[SourceVersionDate "2010.05.04"]
+[SourceQuality "1"]
+
+{[%evp 0,114,29,29,76,53,97,33,33,50,34,34,36,42,52,50,91,52,89,59,62,26,34,31,
+65,11,16,17,11,6,8,0,17,0,0,-19,42,24,44,22,86,24,35,24,52,39,41,71,127,118,
+107,122,123,129,129,129,129,85,113,100,109,91,91,61,124,32,67,70,30,49,73,65,
+87,57,116,123,131,149,216,247,205,206,206,212,205,241,245,217,334,325,330,340,
+370,370,370,370,371,370,359,356,356,359,356,356,359,356,356,348,348,334,339,
+338,339,335,339,333,349]} 43... fxg4 44. Rxe6 Bxe6 45. hxg4 Kh7 {This endgame
+looks like an unlikely candidate for a fortress. But around this point, I
+realised that in fact I only need to push ...g5 and transfer my bishop from e6
+to g6 and White would in fact have no way in.} 46. f3 Ba2 47. Qe7 {This is a
+step in the wrong direction- simply restricting my king a tiny bit more isn't
+a winning plan because I didn't want to move it anyway.} (47. Kf2 Bb1 48. Qc1
+Ba2 49. Qc2 Bg8 50. g3 Be6 51. Qc6 Ba2 52. Ke3 Bb1 53. f4 exf4+ 54. gxf4 {
+Now there will be no fortress: White wants Qb5 and f5 next.}) 47... Bb1 48. Kf2
+$2 {This throws away the win.} ({The question remains of whether White wins
+simply by shortening the b1-h7 diagonal with} 48. g5 {. I suspect not, because
+following} h5 49. g3 Bf5 {White will need to play g4 in order to chase the
+bishop away, which is a prerequisite for bringing the king in without facing ..
+.e4+. Then Black would draw by simply playing his bishop to g8 and sitting
+tight. However, it could be that White has a clever way to arrange to trap the
+bishop using some tactics on the h-file.}) (48. Qb4 {or something else that
+disrupts ...g5 would win too, because White's plan is not time-critical.})
+48... g5 $1 {Fortress complete.} 49. Ke3 Bg6 50. Kd2 Kg8 51. Qe6+ Kh7 52. g3
+Bh8 53. Ke3 Bg7 54. f4 exf4+ 55. gxf4 gxf4+ 56. Kxf4 Bh8 57. g5 h5 {Here, I
+genuinely do not recall whether White jokingly played Qxg6 while offering the
+draw, or not...} 1/2-1/2

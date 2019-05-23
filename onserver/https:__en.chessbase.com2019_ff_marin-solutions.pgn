@@ -1,0 +1,56 @@
+[Event "First Prize, Sydney Morning Herald    "]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Marin y Llovet, Valentin"]
+[Black "Mate in two"]
+[Result "*"]
+[Annotator "Pedro Cañizares Cuadra"]
+[SetUp "1"]
+[FEN "7b/R3B1k1/4p1BN/3Np2K/1p6/1b1Qpp1p/rPr5/q5R1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1898.??.??"]
+
+{[%evp 0,3,29997,29998,29999,-30000]} 1. Qc3 $1 {White threatens 1.Qxe5 mate.
+So the queen sacrifice has to be accepted.} bxc3 ({Or} 1... Rxc3 2. Bb1# {[#]})
+2. Ba3# {[#]Perfect symmetry in both mates.} *
+
+[Event "8th American Congress, Atlantic City   "]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "Marin y Llovet, Valentin"]
+[Black "Mate in three"]
+[Result "*"]
+[Annotator "Pedro Cañizares Cuadra"]
+[SetUp "1"]
+[FEN "R7/3p3r/1k1p4/1p1B4/1B3PQ1/Kppp2n1/3P1N1q/2n5 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1921.??.??"]
+
+{[%evp 0,3,29995,29996,29997,29998]} 1. Qe2 $3 {A stunning move! White
+threatens 2.Qe3+ followed by mate. If Black captures the queen, eventually it
+gives White control of c5 and he can execute mate with Ba5+.} (1. Ba5+ $2 Kc5)
+1... Ngxe2 (1... dxe2 2. d4 {and mate next move.}) (1... Ncxe2 2. Nxd3 {
+and mate next move.}) 2. Ne4 {and mate next move.} *
+
+[Event "Deutscher Schachbund   "]
+[Site "?"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Marin y Llovet, Valentin"]
+[Black "Mate in four"]
+[Result "*"]
+[Annotator "Pedro Cañizares Cuadra"]
+[SetUp "1"]
+[FEN "n3K3/2p5/Q3PpP1/3pR1p1/1p1r1p2/2RPpB1k/1b2N3/1n6 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1902.??.??"]
+
+{[%evp 0,7,1623,1474,2239,29996,29997,29998,29999,-30000]} 1. Qa1 $1 (1. g7 $2
+Nd2 2. g8=Q Nxf3 {and White is still far from the target of mate in four.})
+1... Rxd3 {A tough defence.} ({The point of White's queen offer is revealed
+with} 1... Bxa1 2. Rc1 {and the rook mates next move.}) 2. Rc1 $1 {Incredible
+play!Three White pieces, the queen and two rooks are en prise.} Bxc1 3. Rxg5 $1
+fxg5 4. Qh8# *
+

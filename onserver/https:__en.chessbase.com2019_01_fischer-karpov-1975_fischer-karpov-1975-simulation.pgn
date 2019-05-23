@@ -1,0 +1,988 @@
+[Event "Computer simulation (Rebel 13)"]
+[Site "?"]
+[Date "1975.03.18"]
+[Round "1"]
+[White "Fischer, Robert James"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "C96"]
+[WhiteElo "2780"]
+[BlackElo "2705"]
+[Annotator "Platz"]
+[PlyCount "127"]
+[EventDate "2018.11.16"]
+[EventType "match"]
+[Source "S. O."]
+
+{The first game of the Fischer-Karpov World Championship match 1975 played as
+a computer simulation by the engine Rebel 13 using the personalities of
+Fischer and Karpov respectively was very exciting:} 1. e4 {
+It would have been a surprise, if Fischer had played another first move.} e5 {
+Karpov's favourite answer, but he had been successfull with the Sicilian, too.}
+2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3
+Na5 10. Bc2 {In my reference database I found 28 games in which Bobby Fischer
+had reached this position with the White pieces. His result: + 20 - 4 = 4.} Bb7
+({Each one of Fischer's oppenents had played} 10... c5 {whereafter} 11. d4 {
+leads to some of the most frequently played variations of the Ruy Lopez. From
+1966 - 1970 Karpov playing with the Black pieces had reached the position
+after 10. ..Bb7 four times and won three games of them with one draw.}) 11. b4
+({Einar Hatlebakk (Stockholm 1966), David Kudischewitz (Vladimir 1966) and A.
+Althausen (Riga 1970) played} 11. d4 {and lost their games against Karpov}) ({
+Dragoljub Ciric in 1967 tried} 11. d3 {and finally drew the game.}) 11... Nc4
+12. a4 a5 $5 {Would the "real" Anatoly Karpov have played such a risky move?} (
+{Another interesting idea is} 12... d5 $5 13. exd5 e4 14. Ng5 Qxd5 15. Nxe4 Nd6
+$13 {attacking on the long diagonal a8-h1}) ({A solid move is} 12... Nb6 $11)
+13. d3 Nb6 14. axb5 axb4 15. Rxa8 Qxa8 16. cxb4 {Now White has an extra pawn,
+but the doubled pawns b4/b5 are weak and Black's queen commands the a-file and
+supports her bishop attacking e4 or f3 and g2 later on. This sort of play
+looks much like Karpov, doesn't it?} Nfd7 (16... Qe8 $1 {seems to better, e.g.}
+17. Nc3 (17. Na3 {can lead to really sharp positions, e.g.} d5 18. Bd2 Qa8 19.
+Qc1 dxe4 20. Nxe5 exd3 21. Nxd3 Re8 (21... Bxg2 $2 22. Rxe7 Bxh3 23. Ne1 Qc8
+24. Re3 $1) 22. f3 {
+and Black has attacking chances while White's King's position is weakened.})
+17... d5 18. exd5 (18. Bd2 d4 19. Na4 Qxb5) 18... Nfxd5 19. Nxd5 Nxd5 20. Nxe5
+Bxb4 21. Bd2 Qxb5 $11) 17. Bg5 Bxg5 18. Nxg5 Qd8 19. Nf3 Qe7 20. Bb3 d5 21.
+Bxd5 (21. Qd2 $5 $14) 21... Bxd5 22. exd5 Nxd5 (22... Qxb4 $1 23. Nxe5 Nxe5 24.
+Rxe5 $11 {White will not be able to keep his extra pawn.}) 23. Qb3 Nf4 (23...
+Qd6 {would have removed the queen from the e-file.}) 24. Qc3 (24. d4 $1 {
+looks promising, e.g.} Qd6 25. dxe5 Qg6 26. g3 $1 (26. Nh4 Qg5 27. Qg3 Qxg3 28.
+fxg3 Nd3 29. Rd1 N7xe5 30. Nf3 f6 $14) 26... Nxh3+ 27. Kf1 $16) 24... Nb6 25.
+g3 Nbd5 (25... Nxh3+ 26. Kg2 Qd7 27. Qxe5 $16) 26. Qc4 (26. Qxe5 Qxe5 27. Nxe5
+f6 $1 $14) 26... Nxh3+ 27. Kg2 Qe6 28. Qh4 ({
+If White had forseen Black's next move, he would have probably tried} 28. Rxe5
+Nhf4+ 29. gxf4 Qg4+ 30. Kf1 Nxf4 31. Qe4 Qg2+ 32. Ke1 Qh1+ 33. Kd2 Ng6 34. Nc3
+Nxe5 35. Nxe5 {with two knights for the rook.}) 28... Nhf4+ $1 {
+A pretty sacrifice which proves that Karpov is a good tactician, too.} 29. gxf4
+Nxf4+ 30. Kh2 Qd6 {Now it is very difficult for White to win this game. His
+pawns on d3 and b4 are under attack and the black knight on f4 is very strong.}
+31. Rc1 (31. Nxe5 $2 Nxd3 $1 $19) (31. Rxe5 $2 Nxd3 $1 32. Qg3 Nxe5 33. Nxe5 (
+33. Qxe5 $2 Qh6+ 34. Kg2 Qg6+ {and the knight on b1 is lost}) 33... Re8 {
+is also good for Black}) ({A pretty variation is} 31. Qg3 $5 f6 $1 32. d4 Nh5
+33. dxe5 fxe5 34. Qxe5 Rxf3 35. Qxd6 cxd6 36. b6 {
+This passed pawn must be stopped, therefore} Rxf2+ 37. Kg1 Rf8 $1 (37... Rf7 $2
+{loses on account of} 38. Re8+ Rf8 39. Rxf8+ Kxf8 40. b7) 38. b7 Rb8 39. Re7
+Nf6 40. Rc7 Ne8 $1 41. Rc8 Rxb7 42. Rxe8+ Kf7 43. Re4 $13 {
+Black has two united passed pawns for the knight.}) 31... Qxd3 32. Nbd2 Qd7 33.
+Ng5 h6 34. Ngf3 f6 35. Rg1 Kh8 36. Nc4 Rb8 37. Ne3 Rxb5 {Karpov's knight
+sacrifice has well paid off. He has already got three pawns for his piece.} 38.
+Rd1 Qf7 39. Qg4 Qh5+ (39... Rxb4 40. Rd7) 40. Qxh5 Nxh5 41. Nc2 Nf4 42. Rd7 c6
+43. Nh4 Rd5 44. Rxd5 Nxd5 45. Nf5 Kg8 46. Nfe3 Nxe3 47. Nxe3 Kf7 48. Nf5 h5 49.
+Kg3 g5 50. f3 Kf8 51. Kg2 h4 52. Kh3 Ke8 53. Kg4 Kf7 54. Ne3 Ke6 55. Nf1 Kd5
+56. Nd2 h3 $5 {Karpov is obviously not yet content with a draw.} (56... Kd4 57.
+Ne4 Kc4 58. Nxf6 Kxb4 59. Kxg5 h3 60. Ng4 Kc3 61. Kh4 e4 $1 62. f4 (62. fxe4 h2
+63. Nf2 Kd4 $11) 62... e3 $1 63. Nxe3 h2 64. Nd1+ Kd4 65. Nf2 c5 66. f5 Ke5 67.
+Kg5 c4 68. Kg6 c3 69. f6 c2 70. f7 h1=Q 71. Nxh1 c1=Q 72. f8=Q Qxh1 $11) 57.
+Kxh3 f5 58. Nf1 e4 59. Ne3+ Ke5 60. fxe4 fxe4 ({
+This endgame is really interesting. Let's examine} 60... Kxe4 61. Nc4 Kf3 62.
+Ne5+ Kf2 63. Nf7 $1 (63. Nxc6 $2 g4+ 64. Kh4 g3 $19) 63... g4+ 64. Kh4 $1 g3
+65. Ng5 g2 66. Nh3+ Kf1 67. Kg5 Ke2 $1 (67... g1=Q+ $2 68. Nxg1 Kxg1 69. Kxf5
+$18) 68. Nf4+ Kf1 69. Nxg2 Ke2 $1 {The only move to save the game} 70. Kxf5 Kd3
+71. Ke5 Kc4 72. Kd6 Kxb4 73. Kxc6 $11) 61. Nc2 Kd5 62. Kg4 Kc4 63. Kxg5 e3 64.
+Nxe3+ 1/2-1/2
+
+[Event "Computer simulation (Rebel 13)"]
+[Site "?"]
+[Date "1975.03.20"]
+[Round "2"]
+[White "Karpov, Anatoly"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B92"]
+[WhiteElo "2705"]
+[BlackElo "2780"]
+[Annotator "Platz"]
+[PlyCount "76"]
+[EventDate "2018.11.16"]
+[EventType "match"]
+[Source "S. O."]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 {
+This variation had been played by Fischer many times.} 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. Be3 Qc7 10. a4 Be6 11. g4 $5 {Pushing the pawns in front of your
+King is always dangerous, at least as long as so many pieces are left on the
+board. But nevertheless the "real" Karpov did play g2-g4 against the Sicilian.
+I'll show you two examples later on (cf. my notes to games no. 6 and 12).} (11.
+a5 {is a usual move in this position.}) 11... h6 12. f4 (12. Nd5 Bxd5 13. exd5
+$11 {looks better}) 12... exf4 13. Rxf4 Nbd7 14. Nd5 (14. Nd4 $5) 14... Bxd5
+15. exd5 Rac8 16. c4 (16. c3 $5) 16... Rfe8 17. Bf2 (17. Bd4 {
+would have placed the bishop on a better square.}) 17... Nh7 $1 18. Nd4 ({If} 
+18. h4 {, then} Nhf8 {threatening 19. ..Ng6}) 18... Bg5 19. Rf3 Ne5 20. Rb3 Qd7
+21. Nf5 (21. h4 Bf4 22. Nf5 Nxc4 23. Rb4 Ne3 24. Qd3 Nxf5 25. gxf5 (25. Rxf4 $2
+Nxh4 $1 26. Bxh4 g5 $19) 25... Be5 $17) 21... g6 22. Rxb7 $2 {By this sacrifice
+White wants to get two connected passed pawns (c4, d5), but the price is too
+high.} (22. Ne3 {retreating the knight was much preferable.}) 22... Qxb7 23.
+Nxd6 {Now all three black major pieces are attacked by Karpov's furious knight.
+} Qb4 ({
+Bobby Fischer obviously doesn't want to open the b-file for his adversary, but
+} 23... Qxb2 {was good enough, too, e.g.} 24. Nxc8 Nd7 $1 25. Rb1 Qa2 26. Bf1
+Rxc8 27. h4 Be7 {and the white passed pawns cannot advance} 28. d6 $2 Bxd6 $1)
+24. Nxe8 Rxe8 25. Qd4 {If White were able to avoid the loss of a pawn his
+sacrifice might pay off. But Black has some unpleasent threats.} Nd7 $1 {
+Attacking Be2 and threatening 26. ..Bf6 at the same time.} 26. Bf1 Bf6 27. Qa7
+Ne5 (27... Qxb2 {looks even stronger} 28. Qxd7 Rd8 $1 $19) 28. Qb6 Qd2 29. Qe3
+Qxe3 30. Bxe3 Nf3+ 31. Kf2 {Be3 must be protected} Nxh2 {
+And again Black has several threats: 32. ..Nxg4+, 32. ..Bxb2 and 32. ..Bh4+.}
+32. Bb6 (32. Bxh6 $2 Nxg4+) (32. Be2 $2 Bh4+) 32... Re4 33. c5 (33. d6 Nxg4+
+34. Kg2 (34. Kf3 Ng5+) 34... Ng5 35. d7 Ne6 36. Rd1 Bd8 $19) 33... Nxg4+ 34.
+Kg1 (34. Kf3 Ng5+) 34... Bd4+ 35. Kh1 Re5 36. Bxa6 (36. d6 $2 Rh5+ 37. Kg2 Rh2+
+38. Kg3 (38. Kf3 Ng5+ 39. Kxg4 Be5 {leads to the same position}) 38... Be5+ $1
+39. Kxg4 Ng5 40. Bc4 {(preventing 40. ..f5+ mate)} Rg2+ 41. Kh4 Nf3+ 42. Kh3
+Rg3#) 36... Rxd5 {
+Now Black is a whole piece up and the white passed pawns cannot be promoted.}
+37. Re1 (37. c6 $2 Bxb6 38. Rc1 Rd2 $1 39. c7 Rh2#) 37... Rh5+ 38. Kg2 Rh2+ 0-1
+
+[Event "Computer simulation (Rebel 13)"]
+[Site "?"]
+[Date "1975.03.22"]
+[Round "3"]
+[White "Fischer, Robert James"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[ECO "C95"]
+[WhiteElo "2780"]
+[BlackElo "2705"]
+[Annotator "Platz"]
+[PlyCount "113"]
+[EventDate "2018.11.16"]
+[EventType "match"]
+[Source "S. O."]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nh4 {Bobby Fischer had played this move
+successfully against Pal Benko (New York 1965), Gyozo Forintos (Monte Carlo
+1967) and Laszlo Barczay (Sousse 1967).} ({
+In his 10th match game against Boris Spassky he played} 11. Nbd2 Bb7 12. Bc2
+Re8 13. b4 Bf8 14. a4 Nb6 15. a5 Nbd7 16. Bb2 Qb8 17. Rb1 c5 18. bxc5 dxc5 19.
+dxe5 Nxe5 20. Nxe5 Qxe5 21. c4 Qf4 22. Bxf6 Qxf6 23. cxb5 Red8 $44 {
+Fischer - Spassky, Wch 1972.}) 11... Bb7 12. Nf5 Re8 13. Bg5 Bf8 14. Nd2 h6 15.
+Be3 d5 (15... exd4 16. cxd4 Nxe4 17. Qg4 $1 $44) 16. Qf3 Kh7 17. Ng3 c5 (17...
+c6 $5) 18. dxc5 Nxc5 19. Bxc5 Bxc5 20. exd5 Nxd5 $2 (20... Bxd5 21. Bxd5 Qxd5
+22. Nde4 Kh8 $1 $14) 21. Red1 $1 $18 {
+Threatening 22.Nde4 attacking both Bc5 and Nd5.} (21. Qxf7 Re7 22. Bc2+ Kh8 23.
+Qg6 Qg8 24. Nf3 Nf4 25. Qg4 Rae8 {gives Black better chances to survive.})
+21... Qb6 22. Bxd5 Bxd5 23. Qxd5 Bxf2+ 24. Kh2 Bxg3+ 25. Kxg3 e4 26. Qf5+ (26.
+Nxe4 $2 Qe3+ 27. Kh2 Qxe4 $11) 26... Kg8 27. Nb3 Re6 28. Kh2 Rae8 29. Rd5 Qc7+
+30. Kg1 Qc4 31. Rad1 e3 32. Rd8 Qh4 (32... e2 33. Rxe8+ Rxe8 34. Re1 $18) 33.
+R1d7 Qe1+ 34. Qf1 Qxf1+ 35. Kxf1 Rf6+ 36. Ke1 Rxd8 37. Rxd8+ Kh7 38. Rd3 Rf2
+39. Rxe3 Rxg2 40. Nd2 f5 41. Rf3 g6 42. a4 Rg1+ (42... bxa4 43. c4) 43. Ke2 Kg7
+44. axb5 axb5 45. b4 Ra1 46. Nb3 Ra6 47. Nd4 Rb6 48. h4 Kf6 49. h5 $1 Ke5 (
+49... gxh5 50. Rxf5+) 50. hxg6 f4 51. g7 Rg6 52. Rh3 Rxg7 53. Nxb5 Rg6 54. Kf3
+Kd5 55. Na3 Rf6 56. c4+ Kd4 57. c5 1-0
+
+[Event "Computer simulation (Rebel 13)"]
+[Site "?"]
+[Date "1975.03.25"]
+[Round "4"]
+[White "Karpov, Anatoly"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B92"]
+[WhiteElo "2705"]
+[BlackElo "2780"]
+[Annotator "Platz"]
+[PlyCount "132"]
+[EventDate "2018.11.16"]
+[EventType "match"]
+[Source "S. O."]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5
+O-O (8... Be6 9. f4 exf4 10. Bxf4 Nc6 11. O-O O-O 12. Kh1 b5 13. Bf3 Ne5 14.
+Nd4 Bc4 15. Rf2 b4 16. Nd5 Nxd5 17. exd5 Bf6 $11 {
+Karpov - Kasparov, GM vs Young Pioneers Leningrad 1975.}) 9. O-O Nc6 10. Qd2 a5
+11. a4 Be6 12. Rfd1 Rc8 13. h3 h6 14. Bxf6 Bxf6 15. Bg4 $5 (15. Qxd6 Nd4 $1 16.
+Qxd8 Rfxd8 17. Bg4 $1 Bxb3 18. Bxc8 Bxc2 19. Bxb7 Bxd1 20. Nxd1 (20. Rxd1 Rb8
+$11) 20... Nb3 21. Rb1 Nd2 (21... Rd4 22. Bd5 Nd2 23. Rc1 Nxe4 {
+wins back the pawn, too}) 22. Rc1 Nb3 23. Rc8 Rxc8 24. Bxc8 Nc5 25. Nc3 Bg5 $11
+{White will soon lose his extra pawn, because Black is threatening 26. ..Bc1
+or 26. ..Bd2.}) 15... Bxg4 16. hxg4 Nb4 17. Rab1 (17. Qxd6 Nxc2 $11) 17... Rc6
+18. Nxa5 $5 {A pretty sacrifice inviting Black to win a piece.} Qxa5 19. Nd5
+Rxc2 {Giving back the piece at once.} (19... Rc4 {
+looks dangerous, but it probably would have led to a draw, e.g.} 20. Nxf6+ gxf6
+21. c3 Nc6 (21... Rxe4 22. cxb4 $13) 22. Qxh6 Rd8 (22... Rxe4 $2 23. Rd3 $1) (
+22... Ne7 $5 23. Rxd6 Rxe4 24. Qxf6 Ng6 25. Qf5 Rxa4 26. Rxg6+ $1 fxg6 27.
+Qxg6+ Kh8 28. Qh6+ {and Black cannot avoid the perpetual check}) 23. g5 $1 fxg5
+24. b4 Qxa4 25. Qxg5+ Kf8 26. b5 Ne7 27. Qh6+ Ke8 (27... Kg8 28. Qg5+ Kf8 $11)
+28. Ra1 Qb3 $1 (28... Qxb5 $2 29. Rdb1 $1) 29. Qh8+ Kd7 30. Rxd6+ $1 Kxd6 31.
+Qxd8+ Ke6 32. Rd1 Rd4 $1 {the only saving move} 33. Rxd4 (33. cxd4 $2 Qxd1+)
+33... exd4 34. Qb6+ Nc6 (34... Kd7 35. Qxb7+ Ke8 36. Qb8+ Kd7 37. Qa7+ Ke8 $1
+$11) 35. Qxb7 (35. bxc6 $2 Qxb6) 35... Qd1+ 36. Kh2 Qh5+ 37. Kg3 Qg5+ 38. Kh2 (
+38. Kf3 $2 Ne5+) 38... Qh5+ 39. Kg1 Qd1+ {
+and this time Black has a perpetual check.}) 20. Qxb4 Qxb4 21. Nxb4 Rc4 22. Nd5
+Rxe4 23. b4 $5 (23. Nxf6+ gxf6 24. Rxd6 $11) 23... Bg5 ({After} 23... Rxg4 24.
+Nxf6+ gxf6 25. Rxd6 Ra8 26. a5 Ra6 27. Rd7 Ra7 28. b5 $1 Rxa5 (28... Ra4 $2 29.
+a6 $1 $18) 29. Rxb7 $44 {
+White's passed pawn supported by Rb1 counterbalances the material imbalance.})
+24. a5 Ra8 25. Ra1 Bd8 26. Rac1 {Offering a second pawn.} (26. f3 $5 $44) 26...
+Rxg4 27. f3 Rh4 (27... Rg6 28. Kf1 $13 {As long as Nd5 dominates the board it
+will be difficult for Black to convert his two extra pawns. Rc1 is strong, too.
+}) 28. g3 Rd4 (28... Rh5 29. Nc7 $11 (29. Kg2 $44)) 29. Rxd4 exd4 30. Rc4 f5 (
+30... d3 31. Kf2 $44) 31. Kf1 Kf7 32. Ke2 g5 33. g4 Ke6 34. Nc7+ Bxc7 35. Rxc7
+fxg4 36. fxg4 Rb8 37. Kd3 Kd5 38. Rf7 {White still has full compensation for
+the two sacrificed pawns. Rf7 is much more active than Rb8 and one of Black's
+pawns will soon get lost.} Re8 39. Rxb7 Re3+ 40. Kc2 Rc3+ 41. Kb2 (41. Kd2 Kc4
+42. a6 Rd3+ 43. Ke2 Re3+ 44. Kd2 $11) 41... Rc8 42. b5 $2 ({
+Karpov should have played either} 42. Rb5+ Kc4 43. Rb6 $11) ({or} 42. a6 d3 43.
+a7 d2 44. Rb8 Rxb8 45. axb8=Q d1=Q 46. Qb5+ Kd4 47. Qb6+ Ke5 48. Qe3+ Kd5 {
+and here, too, a draw is very likely, e.g.} 49. Qb3+ Qxb3+ 50. Kxb3 Ke6 51. b5
+d5 52. b6 Kd6 53. Kc3 Kc6 54. Kd4 Kxb6 55. Kxd5 Kb5 56. Ke5 Kc5 57. Kf5 Kd5 58.
+Kg6 Ke5 59. Kxh6 Kf6 $1 60. Kh5 Kf7 61. Kxg5 Kg7 $1 $11) 42... Rc5 (42... d3 $5
+) 43. a6 d3 44. Rf7 (44. a7 d2 $1 45. a8=Q d1=Q 46. Rc7+ (46. Rh7+ Kd4 47. Rxh6
+$2 Rxb5+ 48. Ka2 Qb1+ 49. Ka3 Qb3#) (46. Re7+ Kc4 $1 $19) 46... Kc4 $1 47. b6
+Qd2+ 48. Ka1 Qd4+ 49. Kb1 Qg1+ 50. Kb2 Qf2+ 51. Ka3 (51. Kb1 $2 Kb3) 51... Rxc7
+52. Qe4+ (52. bxc7 Qc5+) 52... Kb5 $1 53. bxc7 Qc5+ 54. Kb3 Qxc7 $19) 44... Kd4
+45. Rf6 Rxb5+ 46. Kc1 d5 47. Rc6 $2 (47. Rxh6 {could have been played at once
+preventing Black from getting two connected passed pawns. The lost tempo gives
+Black the opportunity to place his rook behind White's passed pawn.}) 47... Ra5
+$1 48. Rxh6 Ra2 49. Kd1 Ke4 50. Re6+ Kf4 51. Rd6 d4 52. Rd8 (52. Rxd4+ Ke3 53.
+Rc4 Rxa6 $19) (52. Re6 $5 Kxg4 53. Re4+ Kf3 54. Rxd4 Rxa6 $1 55. Rxd3+ Kf2 {
+winning, because White's King is not in front of Black's passed pawn:} 56. Rd2+
+Ke3 57. Re2+ (57. Ke1 Ra1+) 57... Kf3 58. Re8 g4 59. Rf8+ Kg2 60. Ke2 Re6+ 61.
+Kd2 g3 62. Rg8 Kf2 63. Rf8+ Kg1 64. Rg8 g2 65. Rg7 Rh6 66. Ke2 Kh2 67. Kf2
+g1=Q+ 68. Rxg1 Rf6+ 69. Ke3 Kxg1 $19) 52... Rxa6 53. Kd2 Ra4 54. Kxd3 Kxg4 55.
+Kc2 (55. Rxd4+ Rxd4+ 56. Kxd4 Kf3 $19) 55... Rb4 56. Kd3 Kf3 57. Rf8+ Kg3 58.
+Ke2 g4 59. Kd3 Kh2 60. Rh8+ Kg2 61. Rc8 g3 62. Rh8 Rb3+ 63. Kxd4 Kf2 64. Ra8 g2
+65. Ra2+ Kg3 66. Ra1 Kh2 0-1
+
+[Event "Computer simulation (Rebel 13)"]
+[Site "BH"]
+[Date "1975.03.29"]
+[Round "5"]
+[White "Fischer, Robert James"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "2780"]
+[BlackElo "2705"]
+[Annotator "Platz"]
+[PlyCount "76"]
+[EventDate "2018.11.16"]
+[EventType "match"]
+[Source "S. O."]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 d6 5. d5 (5. c3 Nf6 6. dxe5 Nxe5 7. Nxe5
+dxe5 8. Qc2 O-O 9. Bg5 c6 10. Bxf6 Bxf6 11. Nd2 Qe7 12. O-O-O b5 13. Be2 Be6
+$15 {Ziuliarkin - Karpov, Zlatoust 1962}) 5... Nb8 6. Nc3 Nf6 7. a4 O-O 8. O-O
+a5 9. h3 Nfd7 10. Be3 Nb6 11. Bxb6 cxb6 12. Nb5 Na6 13. Nd2 Nc5 14. Be2 g6 15.
+Bg4 f5 $1 16. exf5 gxf5 17. Be2 {Now Black's King's flank is weakened, but he
+has a strong center and the open g-file might be useful later on.} Bd7 18. c3
+Ne4 $5 19. Nc4 ({After} 19. Nxe4 $5 fxe4 20. Qc2 Kh8 $1 21. Qxe4 Rf4 22. Qe3
+Qg8 {Black gets attacking chances for the sacrificed pawn} 23. Qxb6 $2 Bxh3 $1)
+19... Rc8 20. Bd3 Rc5 21. Re1 (21. Qe2 $5) 21... Bh4 $1 {
+Black cannot win a pawn by taking Pd5 or Nb5:} (21... Rxd5 22. Ne3 Rc5 23. Bxe4
+fxe4 24. Nxd6) (21... Bxb5 22. axb5 Rxb5 23. Bxe4 fxe4 24. Rxe4) 22. g3 $2 {
+This move weakens White's King's position.} (22. Bxe4 $1 Bxb5 23. axb5 Bxf2+ $1
+24. Kxf2 fxe4+ 25. Kg1 Rxc4 26. Qg4+ Kh8 27. Rxe4 $11) 22... Qg5 {
+Going for a direct attack. After three losses in a row Karpov needs a win.} 23.
+Re2 (23. Qf3 Bxb5 24. axb5 Nxg3 $1 25. fxg3 e4 $17) 23... Nxf2 $1 {
+A pretty sacrifice breaking up the pawns in front of White's king.} 24. Rxf2
+Bxg3 25. Rc2 $2 ({White should have tried} 25. Rg2 f4 26. Qf3 e4 $1 27. Bxe4 (
+27. Qxe4 $2 Bf5 28. Qf3 Bxd3 {is not so good} 29. Qxd3 $2 f3 $1 $19) 27... Rxc4
+28. Bd3 $1 (28. Nxd6 Rc7 29. Nb5 Rc5 30. Nd4 Bxh3) 28... Bxb5 $1 (28... Rc5 29.
+Nxd6 Bxh3 30. Ne4 Qxd5 31. Rd1 $1 Qc6 32. Rxg3+ $1 fxg3 33. Qxg3+ Kh8 34. Qxh3
+$11) 29. axb5 Rc7 30. Re1 $1 {with some chances to survive.}) 25... e4 26. Nxb6
+(26. Bf1 f4 $19) 26... exd3 27. Qxd3 Bxb5 28. axb5 Rc7 29. Qf3 (29. Qxg3 $5
+Qxg3+ 30. Rg2 Rg7 31. Rxg3 Rxg3+ 32. Kh2 f4 $19 33. Rxa5 $2 Rf6 $1 34. Ra8+ Kg7
+35. Rd8 Rh6 36. Rd7+ Kf8 37. Rd8+ Ke7 38. Rd7+ Ke8 {
+and White will be mated for he cannot protect his h-pawn.}) 29... Qh4 30. Ra4
+f4 31. Qg4+ (31. Kg2 $2 Rg7 $19) 31... Qxg4 32. hxg4 Re7 $1 {Precisely played
+by Karpov. Although Bobby Fischer managed to keep the material balance his
+position will soon collapse.} 33. Kg2 (33. Rxa5 f3 $19) 33... Bh4 34. Kh3 Be1 {
+Threatening f4-f3-f2. How can White prevent this?} 35. Nd7 {A desperate
+attempt to get Re7 away from the e-file. But there was no saving move, e.g.} (
+35. Rxa5 f3 $19) (35. b3 f3 36. Raa2 f2 $19) 35... Re3+ ({After} 35... Rxd7 36.
+Re4 Bg3 {Black cannot play 37. ..f3. This is why White sacrificed his knight.})
+36. Kh2 Rf7 37. Rg2 ({A pretty variation is} 37. Nb6 f3 38. Nc4 Re2+ 39. Rxe2
+fxe2 40. Ra1 ({or} 40. Nxd6 Bg3+ $1 {and the pawn queens next move}) 40... Bxc3
+$1 41. bxc3 Rf1 $19) 37... f3 38. Rg1 f2 {and White resigned.} 0-1
+
+[Event "Computer simulation (Rebel 13)"]
+[Site "?"]
+[Date "1975.04.01"]
+[Round "6"]
+[White "Karpov, Anatoly"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B24"]
+[WhiteElo "2705"]
+[BlackElo "2780"]
+[Annotator "Platz"]
+[PlyCount "152"]
+[EventDate "2018.11.16"]
+[EventType "match"]
+[Source "S. O."]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nge2 h5 {There were no more moves
+for this position in Black's opening book. The Fischer personality of Rebel 13
+played 5. ... h5 which is quite remarkable. It indeed looks like Bobby Fischer
+even trying to win with the black pieces. In my reference database I found 5. .
+.. h5 for the first time in a game Klochko - Vekshenkov played in the
+Vladivostok open in 1995.} (5... Rb8 $5 6. O-O e6 7. f4 d6 8. g4 $5 h5 9. g5
+Nge7 10. d3 b5 11. Qe1 Nb4 12. Qd2 Nbc6 13. Kh1 d5 (13... O-O $1 $15) 14. f5 $1
+exf5 15. Nxd5 Nxd5 16. exd5 Ne5 17. Qc3 Qd6 18. Bf4 b4 19. Qb3 $14 {Karpov - Au
+gustin, Trinec 1966/67. This variation shows that Karpov did play somewhat
+risky moves like g2-g4 in spite of his king being on the king's flank just
+like the Karpov personality of Rebel 13 did in game 2 of this match}) (5... d6
+{is the most frequently played move in this position.}) 6. O-O h4 7. d3 d6 8.
+Bg5 h3 9. Bf3 ({By playing} 9. Bh1 {at once White would have saved a tempo.})
+9... Nf6 10. a4 Bd7 11. Bh1 (11. d4 Qa5 $5 (11... cxd4 12. Nxd4 Qa5 13. Be3 $11
+) 12. dxc5 Ne5 $1 13. Bh1 Qxc5 $15) 11... Rh5 12. Bd2 Rc8 13. Nd5 Nxd5 14. exd5
+Ne5 15. Nc3 Bg4 16. f3 (16. Qc1 $2 Nf3+ 17. Bxf3 Bxf3 $17) 16... Bd7 17. Re1
+Kf8 {Removing his King from the e-file. What we're going to see is a real
+fight. No draws, please!} 18. a5 (18. Qe2 $5) 18... b5 $1 19. axb6 Qxb6 20. Qe2
+a6 ({After} 20... Qxb2 {White gets some counterplay on the Queen's side, e.g.}
+21. Ra2 Qb7 22. Rb1 Qc7 23. Rba1 $44) 21. Na4 {
+This move may be playable, but it is risky.} (21. Nd1 $1 {
+seems to be better, e.g.} Re8 ({or} 21... c4+ $5 22. d4 $1 Qxd4+ 23. Be3 Qxd5
+24. f4 Qb5 25. fxe5 Rxe5 $13) 22. Ne3 f5 23. f4 Ng4 24. Nc4 Qc7 25. Bc3 $1 (25.
+Rxa6 Bb5) 25... Bxc3 26. bxc3 {eliminating Black's King's bishop.}) 21... Bxa4
+22. Rxa4 c4+ {A very interesting position. Only with precise play White will
+be able to survive.} 23. Be3 $2 ({Missing} 23. d4 $1 Qxd4+ (23... Nd3 $5 {
+leads to really crazy variations, e.g.} 24. cxd3 Bxd4+ 25. Kf1 Re5 $1 26. Qd1
+cxd3 27. Rb4 Qc5 28. Rxe5 dxe5 29. Rb3 $1 Bg1 30. Qe1 Qxd5 ({or} 30... Bxh2 31.
+Rxd3 Qb5 32. Ke2 Rc2 33. Qf1 $13) 31. Bh6+ Kg8 32. Rc3 Rxc3 33. Qxc3 Kh7 34.
+Bd2 Bxh2 (34... Bc5 $5) 35. Qc8 $1 f5 36. Qf8 Qc5 37. Qh6+ Kg8 38. Qxg6+ Kh8 $1
+{and White has a perpetual check} (38... Kf8 $2 39. Bh6#)) 24. Be3 Qxb2 25. f4
+Qb5 26. Ra3 Nd7 27. Bf2 $1 {which would have given White enough counterplay.
+He is two pawns down, but Black will have difficulties to keep both extra
+pawns while White has already two heavy pieces on the e-file targeting e7 and
+two bishops which might become strong later on.}) 23... Qb5 24. Rea1 cxd3 25.
+cxd3 Qxd3 $2 (25... Nxd3 $1 $19) 26. Qxd3 Nxd3 27. f4 $2 ({
+After Black's inaccurate 25th move White had another chance to save the game:} 
+27. Rxa6 $1 Re5 28. Ra8 Re8 $1 29. Rxe8+ Kxe8 30. Bd4 Re1+ $1 31. Rxe1 Bxd4+
+32. Kf1 Nxe1 33. Kxe1 g5 $1 (33... Bxb2 34. f4 {
+and a draw is very probable because of the bishops of opposite colors}) 34. f4
+gxf4 35. gxf4 Bg1 36. f5 Bxh2 37. Kf2 Be5 38. b4 {
+and here, too, White should be able to draw the game.}) 27... Nc5 28. Rb4 (28.
+Bxc5 Rxc5 29. Rxa6 $2 Bd4+ 30. Kf1 Rc2 $19) 28... f5 29. Bf3 Rh8 30. Be2 Kf7
+31. Bc4 Rc7 32. Ra2 Rhc8 33. Rb6 Na4 34. Rc6 Nxb2 35. Bb3 Nd3 36. Bb6 Rxc6 37.
+dxc6+ e6 38. Rxa6 Rxc6 39. Ra7+ Kg8 40. Bxe6+ Kh8 41. Be3 Rc1+ $1 {Well played
+by Fischer. The white bishop must take the rook and Black has another check on
+d4 winning back the piece.} 42. Bxc1 Bd4+ 43. Kf1 Bxa7 44. Ba3 Nf2 45. Bxd6 (
+45. Kg1 Ng4+ 46. Kh1 Kh7 $19 47. Bxd6 $2 Nf2+ 48. Kg1 Ne4+ {winning the bishop}
+) 45... Ng4 {The h-pawn is lost now, and Black finally won the endgame which,
+by the way, is both difficult to win and difficult to defend, too.} 46. Ke2
+Nxh2 47. Bd5 Ng4 48. Bf3 Kg7 49. Bb4 $1 (49. Bxg4 $2 {loses quickly:} fxg4 50.
+Kf1 Kf6 51. Bb4 Kf5 52. Be1 Ke4 53. Bf2 h2 $1 54. Kg2 Bxf2 55. Kxh2 Kf3 $19)
+49... Kf6 50. Be1 Ke6 51. Bc6 Ke7 52. Bb4+ Kf6 53. Bc3+ Kf7 54. Bd5+ Ke7 55.
+Bf3 Bg1 56. Bb4+ Ke6 57. Be1 Bd4 58. Ba8 Kd6 59. Bb4+ Kd7 60. Be1 Nf6 61. Bf3
+Ne4 62. g4 Bb6 63. Bh4 Ke8 $2 (63... Ke6) 64. Bh1 $2 (64. gxf5 $1 gxf5 65. Bh5+
+Kd7 66. Bg6 Ke6 67. Kf3 Be3 $1 68. Bg3 $1 (68. Kxe3 $2 h2 $19) 68... Bg1 69.
+Be1 $11) 64... Kf8 65. Kf3 Bg1 66. Ke2 Kg8 67. g5 Kf8 68. Be1 Kf7 69. Kf3 Ke7
+70. Ke2 Kd6 71. Bf3 Bh2 72. Ke3 Kc5 73. Ba5 Bg1+ 74. Kd3 h2 $1 {
+Threatening 75. ..Nf2+ and 76. ..h1Q.} 75. Bd2 (75. Be1 Bf2 $1 $19) 75... Ng3
+$1 ({Avoiding Karpov's little trap} 75... Nf2+ 76. Ke2 h1=Q 77. Be3+ $1 Kc4 78.
+Bxh1 Nxh1 79. Bxg1 {, but even then Black can win because of his superior
+minor piece (knight vs bad bishop).}) 76. Bc3 h1=Q {What a dramatic game!} 0-1
+
+[Event "Computer simulation (Rebel 13)"]
+[Site "?"]
+[Date "1975.04.03"]
+[Round "7"]
+[White "Fischer, Robert James"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[WhiteElo "2780"]
+[BlackElo "2705"]
+[Annotator "Platz"]
+[PlyCount "98"]
+[EventDate "2018.11.16"]
+[EventType "match"]
+[Source "S. O."]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 c5 8.
+Nb3 Qxd1 9. Rxd1 Bd6 10. Na5 b6 (10... b5 11. c4 Ne7 12. Be3 f5 13. Nc3 $14 {
+Fischer - Portisch, Chess olympiad Havana 1966}) 11. Nc4 Be7 12. Bf4 Be6 13.
+Ne3 Bd8 14. Nc3 h5 15. h3 (15. Ncd5 Rc8 16. h4 c6 17. Nc3 c4 18. a4 Ne7 19. Bd6
+O-O $14 {Popov - Karpov, Leningrad 1966}) 15... Ne7 16. Bh2 Kf7 17. a4 f5 $14 (
+17... Re8 $5) 18. a5 b5 19. exf5 Nxf5 20. Ne4 $11 (20. Nxf5 $5 Bxf5 21. Rd5
+Bxc2 22. Rxc5 $14) 20... Nxe3 21. fxe3 c4 22. Rf1+ Kg6 23. Nc5 Bc8 24. Rad1 Be7
+25. Nd7 Rd8 26. Ne5+ Kh7 27. Nc6 Rxd1 28. Rxd1 Bf6 29. Be5 Bb7 30. Bxf6 Bxc6
+31. Bd8 Be4 32. c3 Bd3 33. Bxc7 {Black sacrificed a pawn, because in this
+endgame with bishops of opposite colors White cannot reach more than a draw.}
+g5 34. b3 Kg6 35. Rd2 Rc8 36. bxc4 bxc4 37. Bb6 Rf8 38. h4 (38. Rf2 Rxf2 39.
+Kxf2 Kf5 $11) 38... Rf1+ (38... gxh4 $11) 39. Kh2 Rc1 40. Rf2 $5 (40. Bd4 $11)
+40... Rc2 {Karpov avoids Fischer's pretty trap.} (40... Rxc3 $2 {
+is not so good on account of} 41. Bd4 $1 Rc2 ({after} 41... Ra3 $2 42. Rf6+ Kh7
+43. hxg5 Rxa5 44. Rh6+ Kg8 45. g6 $18 {Black is already lost}) 42. Rf6+ Kh7 43.
+hxg5 Be4 44. Rh6+ Kg8 45. Kg3 Rxg2+ 46. Kf4 Bd3 47. Rxh5 {
+and White has a little advantage.}) 41. Rxc2 Bxc2 42. Kg3 Kf5 43. hxg5 Kxg5 44.
+Kf3 Kf5 45. Ke2 Be4 46. Kf2 Bc6 47. Bc5 Bb7 48. Bd6 Bd5 49. Bc7 Ke4 1/2-1/2
+
+[Event "Computer simulation (Rebel 13)"]
+[Site "?"]
+[Date "1975.04.05"]
+[Round "8"]
+[White "Karpov, Anatoly"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B92"]
+[WhiteElo "2705"]
+[BlackElo "2780"]
+[Annotator "Platz"]
+[PlyCount "128"]
+[EventDate "2018.11.16"]
+[EventType "match"]
+[Source "S. O."]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 {Karpov played this move five times later on (1982 - 1985) against
+Portisch, Quinteros, Giorgadze, Ostermeyer and Nunn and scored +4 -0 =1.} Be6 {
+In the 1950's Bobby Fischer had already played this variation twice with the
+black pieces and won both games.} 10. f4 (10. f3 Nbd7 (10... Qc7 11. Qe1 Nbd7
+12. Rd1 b5 $11 {Pilnik - Fischer, Mar del Plata 1959}) 11. Qd2 Nb6 12. Rfd1 Qc7
+13. Qe1 d5 $1 14. exd5 Nfxd5 15. Nxd5 Nxd5 16. Bf2 Qxc2 17. Qd2 Rac8 18. Rac1
+Qxd2 19. Rxd2 Bg5 20. Rxc8 Rxc8 21. Rd1 Rc2 {
+0:1 Leonard Hill - Bobby Fischer, USA-ch Juniors 1957.}) 10... exf4 11. Rxf4
+Nbd7 12. Nd5 (12. Nd4 $5) 12... Rc8 13. Rc1 Re8 14. c4 Ne5 15. Nxe7+ Rxe7 {
+An interesting position: White has occupied the center and plays with the
+bishop pair against Black's knights.} 16. Nd2 Re8 17. Rc3 a5 18. h3 Kh8 19. a3
+Nfd7 20. Rf1 Qc7 21. Kh1 Qc6 22. Bd4 a4 $1 {
+A good move securing a safe place for a knight on c5.} 23. Qe1 (23. b4 axb3 24.
+Qxb3 Nc5 $15) 23... f6 24. Qb1 Nc5 {
+Now both black knights are stronger than the white bishops.} 25. Rcc1 Bf7 26.
+Bc3 Bg6 27. Rf4 Ne6 28. Rh4 Qc5 29. Rf1 Nd4 30. Bd3 ({Even if White tries to
+get rid of these horrible knights Black will have the better game, e.g.} 30.
+Bxd4 Qxd4 31. Nf3 Nxf3 32. gxf3 (32. Bxf3 Qxc4) 32... f5 $1 {
+winning a pawn, because} 33. Bd3 {must not be played on account of} Bf7 34. Rf4
+Be6 $1 {unpinning f5 and threatening 35. ..g5.}) 30... Bf7 31. Rd1 $5 {
+Knowing that Black's position is superior White sacrifices the exchange in
+order to provoke g7-g5, a move which weakens Black's king's position.} ({
+Nevertheless} 31. Rhf4 $17 {seems to be better.}) 31... g5 $1 32. Rg4 (32. Rh6
+$2 Kg7 $1 $19 {
+Steinitz once said: "The King is a strong piece". Rh6 cannot escape now.})
+32... Bh5 33. Rg3 Bxd1 34. Qxd1 {Black's king's position was indeed weakened
+by g7-g5, but it is difficult for White to exploit it, for the only attacking
+piece on that wing is Rg3. Bd3 is blocked and nearly worthless. The Queen
+might go to h5, and the pawn to h4, but that's it! Fischer's next move is not
+so good, I think, because the black King is safer on h8 than on g8.} Kg8 (34...
+Ne6 $1) 35. Nf1 $1 (35. h4 h6 $17 {
+There is no more White f-pawn to reinforce the attack.}) 35... Ne6 36. Bc2 (36.
+Ne3 $5) 36... Qf2 $1 {Attacking instead of defending a4. This is what we would
+expect from the "real" Bobby Fischer, too.} 37. Bxa4 Nf4 $1 {
+Offering the exchange. The main threat now is 38. ..Ne2 and 39. ..Qg1+ mate.}
+38. Bd4 (38. Bxe8 Ne2 {looks very dangerous for White, but with precise play
+Black will "only" get the superior endgame:} 39. Rxg5+ $1 fxg5 40. Qd5+ Kg7 41.
+Bxe5+ dxe5 42. Qxe5+ Qf6 43. Qxf6+ Kxf6 44. Bb5 Nd4 $17) 38... Ned3 $1 {
+One surprise after the other! It is astonishing what Black can accomplish with
+his pair of knights.} 39. Qxd3 (39. Bxf2 $2 Nxf2+ 40. Kh2 Nxd1 41. Bxd1 $1 Rxe4
+$19) 39... Nxd3 40. Bxf2 Nxf2+ 41. Kg1 Nxe4 {
+Saving the knight and attacking the adverse rook.} 42. Bxe8 Nxg3 43. Bd7 (43.
+Nxg3 Rxe8 $19) 43... Ne2+ $1 (43... Rc7 $2 44. Be6+) 44. Kf2 Rc7 45. Kxe2 ({Now
+} 45. Be6+ {runs into} Kf8 46. Kxe2 Re7 {winning back the piece.}) 45... Rxd7 {
+Having mastered all these complications Bobby has reached an endgame with a
+rook against White's knight.} 46. Ne3 Kf7 47. b4 Kg6 48. Nd5 f5 49. a4 Rd8 50.
+a5 f4 51. h4 $5 (51. Kd3 Rf8 $19) 51... gxh4 52. Nxf4+ Kf6 53. Ke3 Rg8 54. Ke4
+Re8+ 55. Kd3 Ke5 56. Ke3 Rg8 57. Nd3+ Kf5 58. Ne1 Kg4 59. b5 (59. Kf2 Rf8+ 60.
+Nf3 Rf4 $19) 59... Ra8 60. a6 bxa6 61. Kd3 Kg3 62. Kc3 axb5 63. cxb5 Kf2 64.
+Nf3 h3 {and finally White resigned. What a stunning performance!} 0-1
+
+[Event "Computer simulation (Rebel 13)"]
+[Site "?"]
+[Date "1975.04.10"]
+[Round "9"]
+[White "Fischer, Robert James"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "2780"]
+[BlackElo "2705"]
+[Annotator "Platz"]
+[PlyCount "86"]
+[EventDate "2018.11.16"]
+[EventType "match"]
+[Source "S. O."]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 {Karpov had been successful with this move
+before, so why should he not try it again?} 4. d4 d6 5. d5 Nb8 6. Nc3 Nf6 7. a4
+O-O $2 8. O-O $2 a5 9. h3 Nfd7 10. Be3 Nb6 11. Bxb6 cxb6 12. Nb5 Na6 13. Nd2
+Nc5 14. Be2 g6 15. Bg4 f5 16. exf5 gxf5 17. Be2 Bd7 18. f4 (18. c3 {
+had been played in game 5.}) 18... e4 19. c3 Rf6 20. Nc4 Rg6 21. Kh2 Bh4 $1 {
+Offering a pawn and Bobby cannot resist.} 22. Nbxd6 $5 {
+Risky, but perhaps this is what the "real" Bobby Fischer would have done.} (22.
+Nd4 $11) 22... Bg3+ 23. Kh1 Qh4 {All this is really well played by Karpov.} 24.
+Nxb6 Bxf4 $1 (24... Rxd6 25. Nxa8) 25. Rxf4 $1 ({Avoiding the trap} 25. Nxa8 $2
+Qg3 26. Rxf4 Qxg2#) 25... Qxf4 26. Nxb7 $2 ({White should rather try} 26. Ndc4
+$1 Qg5 27. Qg1 {defending g2 and attacking Black's knight on c5. But Black can
+be content with this position, too, because White has got only one pawn for
+the exchange.}) 26... Qg3 (26... Nd3 $1 {looks even better, e.g.} 27. Bxd3 (27.
+Qf1 $2 Nf2+ 28. Kg1 Nxh3+ 29. Kh1 Nf2+ 30. Kg1 e3 $19) 27... Qf2 28. Qg1 Qxb6
+29. Qxb6 Rxb6 30. Nc5 exd3 31. Nxd7 Rxb2 32. Ne5 d2 {
+with a clear advantage in the endgame.}) 27. Qg1 Rxb6 28. Nxc5 Rxb2 29. Nxd7 (
+29. Bc4 Rc8 30. Bf1 Be8 $17) 29... Rxe2 30. Rf1 f4 31. Nf6+ Kh8 32. Nh5 Qxc3
+33. Nxf4 Rd2 34. Re1 Re8 35. Qa7 (35. Re2 $5) 35... Rxd5 $1 36. Rxe4 (36. Rb1
+Rf5 $19) 36... Rxe4 37. Qb8+ (37. Nxd5 $2 Re1+ $1 38. Kh2 Qe5+ 39. Nf4 (39. g3
+Qe2+) 39... Qxf4+ 40. g3 Qd2+ 41. Qf2 Qxf2#) 37... Kg7 38. Nxd5 Re1+ 39. Kh2
+Qe5+ $1 {Forcing the exchange of queens whereafter Black has an easy win with
+his rook against the knight.} 40. Qxe5+ Rxe5 41. Nb6 Re4 42. Kh1 Rb4 {
+The knight can no longer defend a4 now.} 43. Nd5 Rxa4 0-1
+
+[Event "Computer simulation (Rebel 13)"]
+[Site "?"]
+[Date "1975.04.12"]
+[Round "10"]
+[White "Karpov, Anatoly"]
+[Black "Fischer, Robert James"]
+[Result "1-0"]
+[ECO "B93"]
+[WhiteElo "2705"]
+[BlackElo "2780"]
+[Annotator "Platz"]
+[PlyCount "101"]
+[EventDate "2018.11.16"]
+[EventType "match"]
+[Source "S. O."]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. Be3
+Nbd7 9. a4 exf4 10. Bxf4 Be7 11. Be2 O-O 12. O-O Re8 13. Kh1 Nc5 14. Ng5 {
+Looks like loss of a tempo, because after} h6 {
+the knight must go back to f3 or am I wrong?} 15. Nxf7 $1 {
+What a surprise! Is Mikhail Tal one of Karpov's seconds?} (15. Nf3 $2 Ncxe4)
+15... Kxf7 16. Bh5+ g6 (16... Kg8 {
+offering the exchange would have been much safer} 17. Bxe8 Nxe8 18. Nd5 Qd8 $44
+) 17. Bxh6 Be6 $2 (17... gxh5 $2 18. Rxf6+ $1 Bxf6 19. Qxh5+ Ke6 (19... Ke7 20.
+Nd5+) (19... Kg8 20. Qxe8+ Kh7 21. Nd5 $18) 20. Qf5+ Kf7 21. Qh7+ {
+winning the queen}) (17... Bd8 $5 {could be tried, e.g.} 18. Nd5 Qc6 19. Bg5 $1
+Ncxe4 $1 (19... gxh5 $2 20. Qxh5+ {loses quickly}) 20. Qd3 gxh5 21. Bxf6 Bxf6
+22. Rxf6+ $1 Nxf6 23. Rf1 Qxd5 $1 (23... Re6 $2 24. Rxf6+ $1 Rxf6 25. Qh7+ Ke6
+26. Qe4+ Kf7 27. Qe7+ Kg6 28. Qxf6+ Kh7 29. Qf7+ Kh6 30. Ne7 $18) 24. Qxd5+ Ke7
+25. Re1+ Kf8 26. Qxd6+ Kf7 $13) 18. Nd5 $1 Qd8 (18... Bxd5 $2 {
+leads to some pretty variations, e.g.} 19. Qxd5+ Ne6 20. Ra3 $1 Qc5 (20... gxh5
+$2 21. Qxh5+ Kg8 22. Qg6+ Kh8 23. Rh3 $18) 21. Bxg6+ $1 Kxg6 22. Qxe6 Qe5 (
+22... Kxh6 $2 23. Rxf6+ $1 Bxf6 24. Qxf6+ Kh7 25. Rh3+ Kg8 26. Rh8#) 23. Rg3+
+Kxh6 24. Qf7 $1 Rg8 25. Rh3+ Kg5 26. Rff3 $18 {and Black is in deep trouble.})
+19. Ra3 $1 Rg8 (19... Ncxe4 20. Qd3 $1 $18) (19... gxh5 $2 20. Qxh5+ Kg8 21.
+Qg6+ Kh8 22. Qg7#) 20. Bg4 {What a pity that the Nf6 is pinned.} Bxg4 21. Qxg4
+Ke8 22. Rxf6 $1 {One pretty move after the other.} Bxf6 23. b4 Be5 (23... Nd7
+$2 24. Qe6+) 24. Rf3 Qc8 25. Qh4 $1 Qd8 26. Bg5 Rh8 27. Bxd8 Rxh4 28. Bxh4 Ne6
+$18 {Black was able to defend his king, but that cost him two pawns.} 29. Nb6
+Rb8 30. Bf6 (30. c3 $5) 30... Nd4 31. Rf2 Nc6 (31... Bxf6 32. Rxf6 Nxc2 33. g4
+$1 Nxb4 34. Rxg6 Ke7 35. h4 $18) 32. h4 $5 (32. c3 {was good enough.}) 32...
+Nxb4 33. g4 Nc6 34. h5 Bxf6 35. Rxf6 gxh5 36. gxh5 Ke7 37. Nd5+ Kd7 38. Ne3 Ne7
+39. h6 Ng8 (39... Rg8 40. h7 Rh8 41. Rh6 Ke8 42. Kg2 $1 $18) 40. Rg6 $1 Ne7 41.
+Rg7 Ke6 42. a5 Rh8 43. Kg2 d5 (43... Rxh6 $2 44. Rxe7+ $1 Kxe7 45. Nf5+) 44.
+Nxd5 Nxd5 45. exd5+ Kxd5 46. h7 Kc6 47. Rg6+ Kc7 (47... Kd7 48. Rh6 Ke7 49. Rb6
+$1 Rb8 50. Rxb7+ $1 Rxb7 51. h8=Q $18) (47... Kb5 48. Rb6+ Kxa5 49. Rxb7 $18)
+48. Rh6 Kd7 49. Kf3 Ke8 50. Kf4 Kf8 51. Kg5 {and Black resigned.} ({After} 51.
+Kg5 Kg7 52. Rg6+ Kxh7 53. Rh6+ Kg7 54. Rxh8 Kxh8 55. Kf6 {
+White wins easily. A great game the "real" Karpov could be proud of!}) 1-0
+
+[Event "Computer simulation (Rebel 13)"]
+[Site "?"]
+[Date "1975.04.15"]
+[Round "11"]
+[White "Fischer, Robert James"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[ECO "C98"]
+[WhiteElo "2780"]
+[BlackElo "2705"]
+[Annotator "Platz"]
+[PlyCount "114"]
+[EventDate "2018.11.16"]
+[EventType "match"]
+[Source "S. O."]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. dxc5 dxc5 14. Nf1 Rd8 15.
+Qe2 Be6 16. Ne3 (16. Bg5 Rd7 17. Ne3 h6 18. Bxf6 Bxf6 19. Red1 Rad8 20. Rxd7
+Rxd7 21. a4 c4 $11 {had been played in Kolishkin - Karpov, Zlatoust 1962.})
+16... h6 17. Nd5 {There are better moves, e.g.} (17. Nf5 Bf8 18. Nh2 $11 {
+Bogoljubow - Romanovsky, match 1924}) (17. b3 $5) 17... Nxd5 18. exd5 Bxd5 19.
+Nxe5 (19. Qd3 g6 20. Bxh6 e4 $1 21. Rxe4 Bxe4 22. Qxe4 Re8 $15) 19... Nxe5 20.
+Qxe5 Qxe5 21. Rxe5 Be6 (21... Bf6 $1 22. Re3 b4 $15 {seems to be the best way
+of taking advantage of Fischer's somewhat premature move 11.Nd5.}) 22. a3 Rac8
+23. Be3 Rd7 24. a4 b4 25. Re1 Bd6 26. Rh5 Rcd8 27. cxb4 cxb4 28. Bb6 (28. Bf5
+$1 $11) 28... Bc7 29. Bxc7 Rxc7 30. Be4 b3 (30... Rd2 31. Ra5 Ra7 32. Rb1 Ba2 (
+32... g6 $5) 33. Rc1 {with a mating threat preventing Black from winning a pawn
+} Rxb2 $2 34. Rc8#) 31. Re2 $2 (31. Ra5 $1 Rd6 32. g4 $15) 31... g6 ({
+Instead of simply palying} 31... Rd1+ 32. Kh2 Bc4 33. Re3 Rd2 {
+Karpov offers his h-pawn hoping to get an even bigger advantage}) 32. Rxh6 Rc1+
+33. Kh2 Bc4 34. Re3 Rd2 35. Rh4 (35. Kg3 Rxb2 36. Bd3 Bd5 37. Rh4 Rd2 38. Rb4
+b2 $19) 35... Rxb2 36. Bd3 Be6 37. Bxg6 Rxf2 $1 {Well played by Karpov} ({After
+} 37... fxg6 $2 38. Rxe6 {Bobby Fischer could have saved the game.}) 38. Rb4 a5
+39. Rb6 b2 40. Be4 Kg7 41. Rg3+ Kf8 42. Rg5 Re1 43. Bd3 Rd1 44. Be4 f5 $5 (
+44... Rd4) 45. Kg3 $1 (45. Rxe6 $2 fxe4 $19) 45... Rdd2 46. Rxe6 (46. Bf3 Rf1
+47. Rg6 Ba2 48. Rgf6+ Ke7 49. Rxf5 b1=Q $19) 46... fxe4 47. Rb5 Rxg2+ 48. Kf4
+Rgf2+ 49. Ke3 (49. Kxe4 $2 Rde2+ 50. Kd5 Rf5+ 51. Kc4 Rxb5 52. Rxe2 Rb4+ $1 53.
+Kc3 b1=Q $19) 49... Rde2+ 50. Kd4 Rf7 51. Rb8+ (51. Rxe4 $2 Rd7+) 51... Kg7 52.
+Ree8 Kf6 53. Rf8 Rxf8 54. Rxf8+ Kg5 55. Rb8 Kf4 56. Rf8+ Kg3 57. Rb8 Kxh3 0-1
+
+[Event "Computer simulation (Rebel 13)"]
+[Site "?"]
+[Date "1975.04.19"]
+[Round "12"]
+[White "Karpov, Anatoly"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B84"]
+[WhiteElo "2705"]
+[BlackElo "2780"]
+[Annotator "Platz"]
+[PlyCount "124"]
+[EventDate "2018.11.16"]
+[EventType "match"]
+[Source "S. O."]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nc6 (5... Qc7 6. g3 b5 7. Bg2
+Bb7 8. O-O Nf6 9. a3 d6 10. h3 Nbd7 11. g4 $5 h6 $13 {Karpov - Gouveia, U26
+World team championship Graz 1972. Karpov won the game after 52 moves. Again
+we notice that Karpov did play somewhat risky moves like g2-g4 (cf. game 2 of
+this match).}) 6. Be2 (6. Be3 Nf6 7. Bd3 d5 8. exd5 exd5 9. O-O Bd6 10. Nxc6
+bxc6 11. Bd4 O-O 12. Qf3 Be6 13. Rfe1 c5 14. Bxf6 Qxf6 15. Qxf6 gxf6 $11 {
+was played in the 21st match game Spassky - Fischer 1972}) 6... d6 7. O-O Bd7
+8. Be3 Nf6 9. Nb3 (9. a4 $5) 9... Be7 10. Na4 $6 {A doubtful novelty. I didn't
+find a single game with this move in my reference database.} (10. f4) ({or} 10.
+a4 {are usually played in this position.}) 10... Nxe4 $1 {
+Bobby Fischer accepts the challenge.} 11. Nb6 Rb8 12. f3 Nc5 13. Nxd7 Nxd7 14.
+Qd2 {White has got the bishop pair and a slight lead in development for the
+sacificed pawn.} O-O 15. Rad1 Rc8 16. f4 d5 17. Rfe1 Bd6 18. Kh1 f5 (18... b5
+$5) 19. Bd4 Nf6 {Threatening 20. ..Ne4.} 20. Bxf6 Rxf6 21. Bf3 Kh8 22. g3 a5
+23. a4 Qd7 24. Re2 g5 $5 (24... Nb4 $1 $15) 25. Qc3 (25. fxg5 Rg6 26. Rde1 Rcg8
+$13) 25... Qg7 (25... Ne5 26. Qd4 gxf4 27. gxf4 Rc4 28. fxe5 $1 Rxd4 29. Nxd4
+Rh6 30. exd6 Qxd6 31. c3 $14) 26. fxg5 Rg6 27. Qxg7+ Kxg7 28. Kg2 Ne5 29. h4 (
+29. Nd4 $1) 29... Nxf3 30. Kxf3 h6 31. Nd4 Kf7 32. g4 Rc4 33. c3 hxg5 (33...
+Rxa4 $2 34. gxf5 exf5 35. b3 Ra3 36. Nxf5 $18) 34. h5 $2 (34. gxf5 exf5 35.
+hxg5 Rxg5 36. Rh1 $44) 34... Rf6 35. Rde1 fxg4+ 36. Kxg4 Bf4 37. Kh3 (37. Rd1
+$17 {is a little better}) (37. Ra1 $2 e5 $19) 37... e5 38. Rxe5 (38. Nf3 e4 {
+is good for Black, too, but White's position is already lost.}) 38... Bxe5 39.
+Rxe5 {At least White has a strong knight on d4 and his rook attacks two
+undefended black pawns.} Rf2 $1 40. Kg4 Rg2+ 41. Kf5 Kg7 42. Re6 Rxb2 43. Rg6+
+Kf7 44. Rf6+ Ke7 45. Kg6 (45. Ke5 Rxc3) 45... g4 46. h6 g3 47. Kg7 (47. h7 Rh2
+48. Nf5+ Kd7 $1 49. Nh6 (49. Rf7+ Kc6) 49... g2 50. h8=Q g1=Q+ 51. Kf7 Qe1 $19)
+47... g2 48. Rg6 Rf2 49. Re6+ (49. h7 Rf7+ 50. Kh6 Rxc3 51. Rxg2 (51. h8=Q $2
+Rh3+ 52. Kg5 g1=Q#) 51... Rh3+ 52. Kg6 Rfxh7 $19) 49... Kd8 50. Rd6+ Kc8 51.
+Rg6 Rc7+ 52. Kg8 Rf6 $1 {A pretty move. Obviously this rook must not be taken.}
+53. Rxg2 (53. Rxf6 $2 g1=Q+) 53... Rd6 54. Rf2 (54. h7 $2 Rd8#) 54... Rg6+ (
+54... Rd8+ {is good, too} 55. Rf8 Rxf8+ 56. Kxf8 Rh7 57. Nf5 b5 $1 58. Kg8 Rxh6
+$1 59. Nxh6 bxa4 {
+winning the endgame, because the white pieces are too far away} 60. Nf5 a3 61.
+Ne3 a2 62. Nc2 Kd7 63. Kf7 Kd6 64. Kf6 Kc5 65. Ke5 Kc4 66. Na1 Kxc3 $19) 55.
+Kf8 Rxh6 56. Kg8 Rg6+ 57. Kf8 Rd6 58. Rf7 Rdd7 59. Rxd7 Kxd7 60. Kf7 (60. Nb5
+Rc4) 60... Kd6+ 61. Kf6 Rc4 $1 (61... Rxc3 $2 62. Nb5+) 62. Kg5 Rxa4 0-1
+
+[Event "Computer simulation (Rebel 13)"]
+[Site "?"]
+[Date "1975.04.22"]
+[Round "13"]
+[White "Fischer, Robert James"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2780"]
+[BlackElo "2705"]
+[Annotator "Platz"]
+[PlyCount "105"]
+[EventDate "2018.11.16"]
+[EventType "match"]
+[Source "S. O."]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 d6 4. d4 exd4 5. Nxd4 Nxd4 (5... Be7 6. Nc3 Nf6 7.
+O-O O-O $14) 6. Qxd4 Ne7 7. Bg5 Nf5 {A novelty and a good one, too.} (7... h6
+8. Bf4 Nc6 9. Qd2 Be7 10. Nc3 Bf6 11. O-O-O $14 {
+Olicio Gadia - Cesar Gianordoli, BRA-ch 1961}) (7... Nc6 8. Qd5 Be6 9. Bxd8
+Bxd5 10. exd5 Nxd8 $14) 8. exf5 $5 {Bobby Fischer obviously wants to win this
+game. His move involves a pawn sacrifice as we will soon see.} (8. Qd2 Be7 $1
+9. Bxe7 Nxe7 10. Nc3 Be6 $1 11. Be2 Qd7 $11) (8. Bxd8 $2 Nxd4) 8... Qxg5 9. Nc3
+(9. g4 $2 Qc1+ 10. Qd1 Qxb2 11. Nd2 Qe5+ 12. Kf1 Be7 $17) 9... Be7 ({After} 
+9... Bxf5 10. Nd5 Qd8 (10... Qxg2 $2 11. Nxc7+ Kd7 12. Bd5 $18) 11. O-O-O {
+White gets a big lead in development.}) ({A pretty variation is} 9... Qxf5 10.
+O-O Qxc2 $2 11. Nb5 Kd8 12. Nxc7 $1 Kxc7 13. Rac1 Qf5 14. Bd3+ Qc5 15. b4 $1
+Qc6 16. Bb5 $18) 10. Nd5 Bd8 $2 (10... Bf6 $1 11. Nxf6+ Qxf6 12. Qxf6 gxf6 13.
+Bd3 Bd7 $11) 11. f4 $1 {Once again a fine move by Fischer offering the g-pawn.}
+Qg4 ({It is better not to grab the pawn, e.g.} 11... Qxg2 $2 12. O-O-O Bxf5 13.
+Ne3 Qe4 14. Qxg7 $1 {Is Mikhail Tal playing with the white pieces?} Qxe3+ 15.
+Kb1 Kd7 (15... Rf8 16. Rhe1) 16. Qxf7+ Kc8 17. Qxf5+ Kb8 18. Rhe1 $18 {
+and White has the superior position and regained the sacrificed pawn, too.})
+12. Ne3 (12. Be2 $1 Qxf5 13. Qxg7 Bh4+ (13... Rf8 14. O-O-O Be6 15. g4 Qg6 16.
+Qc3 $16) 14. Kf1 $1 Qxd5 15. Qxh8+ Ke7 16. Qxh7 Bf6 17. Re1 $1 (17. c3 Bf5 $44)
+17... Kf8 18. h4 $1 Bxb2 19. Bd3 {
+looks good for White. Black must not grab another pawn, for after} Qxa2 $2 20.
+Qh6+ Bg7 (20... Kg8 $2 21. Re8#) 21. Qg5 f6 (21... Be6 22. h5 $1 f6 23. Qh4 Bh8
+24. h6 $18) 22. Re8+ $1 Kxe8 23. Qxg7 Be6 (23... Qf7 $2 24. Bg6) 24. Kf2 Qa5
+25. Rd1 $1 Qc5+ 26. Kf1 $18 {
+he is already lost, because 26. ..o-o-o is no longer possible.}) 12... Qh4+ 13.
+g3 Qf6 14. Qe4+ Qe7 15. Qxe7+ Bxe7 16. Nd5 Bd8 17. Bd3 c6 18. Nc3 (18. Ne3 $5)
+18... O-O 19. O-O-O Re8 20. Ne4 Be7 (20... Bxf5 $2 21. Nxd6 Bg4 22. Nxe8 Bxd1
+23. Rxd1 Be7 $1 24. Nd6 (24. Nc7 Rc8) 24... Bxd6 25. Bxh7+ $1 Kxh7 26. Rxd6 $16
+) 21. c4 b6 (21... Bxf5 22. Nxd6 $1 Bxd6 23. Bxf5 $11) 22. Rhe1 Bb7 23. Bf1 Bf8
+$1 24. Re2 (24. Nxd6 $2 Rxe1 25. Rxe1 Bxd6 $19) 24... d5 25. cxd5 cxd5 26. Nc3
+Rad8 {The isolated d-pawn is a weakness and therefore Karpov wants to get rid
+of it. The endgame with bishops of opposite colors should be a draw.} (26...
+Rxe2 27. Bxe2 Rd8 28. Bf3 Bc8 29. Bxd5 Bxf5 $2 30. Bxf7+ $1 $18) 27. Rxe8 Rxe8
+28. Nxd5 Bxd5 29. Rxd5 Re1+ 30. Rd1 Rxd1+ 31. Kxd1 Bc5 32. Ke2 f6 33. Kf3 Kf8
+34. h4 h5 $2 {It is a bad idea to place this pawn on a white square which can
+be attacked by the adverse bishop.} ({If the "real" Karpov had played this
+game the only plausible explanation for such a move might be that he had
+intended to play} 34... h6 {
+instead and made a slip moving the pawn one step too far.}) 35. Be2 $1 ({
+Perhaps Rebel 13 "Karpov" thought that White had planned} 35. g4 {
+and wanted to equalize by playing} hxg4+ 36. Kxg4 $11) 35... Ke7 36. Kg2 Kd6
+37. Bxh5 Kd5 38. Kf3 Be7 (38... Bd4 39. Bf7+ Kc5 40. b3 Kb4 41. a4 b5 42. axb5
+Kxb5 43. g4 $18) 39. g4 Bf8 40. Bf7+ Kc5 41. g5 Be7 42. Kg4 Kd4 43. h5 Bf8 44.
+h6 $1 gxh6 45. gxf6 {Well played by Fischer. It may look a little odd, but
+this position can be won in spite of the tripled white pawns on the f-file.}
+Ke3 46. Bd5 a6 47. f7 a5 48. Bc6 Kd4 49. f6 Ke3 50. a3 h5+ (50... Bd6 51. Kh5
+Bf8 52. Kg6 Kxf4 53. Kh7 Ke5 54. Kg8 Bc5 55. f8=Q $18) 51. Kxh5 Kxf4 52. Kg6
+Ke5 53. Bd7 $1 {A nice zugzwang position. The black bishop must guard g7, and
+if the black king moves (e.g. to d6), f6 is no longer attacked and White wins
+by playing Kg6-h7-g8.} 1-0
+
+[Event "Computer simulation (Rebel 13)"]
+[Site "?"]
+[Date "1975.04.26"]
+[Round "14"]
+[White "Karpov, Anatoly"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B25"]
+[WhiteElo "2705"]
+[BlackElo "2780"]
+[Annotator "Platz"]
+[PlyCount "76"]
+[EventDate "2018.11.16"]
+[EventType "match"]
+[Source "S. O."]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 Nf6 7. O-O O-O 8. h3
+Ne8 (8... Bd7 9. Be3 Rb8 10. Qd2 b5 11. Nd1 Qa5 12. c3 Rfc8 13. Bh6 Bh8 14. g4
+Ne8 15. f4 $11 {Karpov - Alexander Tsamriuk, Leningrad 1967}) (8... Rb8 9. f4
+Bd7 10. Be3 b5 11. a3 Ne8 $11 {Spassky - Fischer, 22nd match game 1992}) 9. f4
+Nc7 10. f5 e6 11. f6 $5 {
+A dubious pawn sacrifice opening the f-file only for the white rook.} (11. fxg6
+fxg6 $11) 11... Bxf6 12. Bh6 Bg7 13. Bxg7 Kxg7 14. Qd2 f6 15. d4 e5 16. dxc5
+dxc5 17. Nd5 Be6 18. Rad1 Qd6 19. Kh2 (19. g4 $5 {looks better.}) 19... Rad8
+20. c4 b5 21. Nec3 $2 (21. b3) 21... bxc4 22. Kh1 {After some weak moves White
+is simply two pawns down without any real compensation.} Bxd5 23. Nxd5 Nxd5 24.
+exd5 f5 25. Qe3 (25. dxc6 $2 Qxd2) (25. Rc1 $5 e4 $19) 25... Nd4 26. Rc1 f4 27.
+Qa3 Ne2 $1 {Threatening both 28. ..Nxg3+ and 28. ..Nxc1.} 28. gxf4 Nxc1 29.
+Rxc1 exf4 30. Rxc4 Rde8 $1 31. Qxa7+ Rf7 32. Qxc5 Qxc5 33. Rxc5 {
+Now White has three passed pawns, but his joy won't last long.} Re1+ $1 34. Kh2
+f3 35. Bxf3 (35. Bh1 $2 f2 36. Bg2 Rg1 $1 $19) 35... Rxf3 36. Kg2 Rd3 37. Rc7+
+(37. a4 Re2+) (37. b4 Re2+) 37... Kh6 38. Rc2 Rxd5 0-1
+
+[Event "Computer simulation (Rebel 13)"]
+[Site "?"]
+[Date "1975.04.29"]
+[Round "15"]
+[White "Fischer, Robert James"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "B44"]
+[WhiteElo "2780"]
+[BlackElo "2705"]
+[Annotator "Platz"]
+[PlyCount "234"]
+[EventDate "2018.11.16"]
+[EventType "match"]
+[Source "S. O."]
+
+1. e4 c5 {For the first time in this match Karpov plays the Sicilian Defense.}
+2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. Bf4 e5 7. Be3 a6 8. N5c3 Nf6 9.
+Bc4 (9. Bg5 Be7 10. Bxf6 Bxf6 11. Bc4 Na5 12. Bb3 O-O 13. O-O Be6 14. Nd5 Bg5
+15. Nbc3 Rc8 16. Qe2 Bh6 $11 {Vladimir Peresepkin - Karpov, Rostov 1971}) 9...
+b5 (9... Be7 10. Nd5 Nxd5 11. Bxd5 O-O 12. Nc3 Kh8 13. O-O Be6 14. Bb3 Na5 15.
+Nd5 Nxb3 16. axb3 Bxd5 17. Qxd5 Qc7 18. c3 $14 {
+Fischer - Glicerio Badilles, Manila 1967}) 10. Bb3 Na5 11. Nd5 Nxb3 12. axb3
+Nxd5 13. Qxd5 Be6 14. Qd3 Be7 15. Nc3 O-O 16. O-O f5 17. f3 Qd7 18. Nd5 Bd8 19.
+Kh1 Rc8 $5 {This is a risky attempt to take the initiative.} (19... Qb7) (19...
+fxe4) 20. Rxa6 fxe4 21. Qxe4 (21. fxe4 Rxf1+ 22. Qxf1 Rxc2 {
+regaining the sacrificed pawn}) 21... Bf5 22. Qb4 $1 Rxc2 23. Rxd6 Qf7 (23...
+Qe8 $5 $13) 24. Qxb5 Rxb2 25. Qb4 Qh5 26. Bf2 ({White cannot win a piece by} 
+26. g4 $2 {because of} Qxh2#) 26... Ra2 (26... Bd3 27. Nf4 $1 exf4 (27... Rxf4
+$2 28. Rxd8+) 28. Rxd3 Qf7 29. Bc5 Re8 30. Re1 $16) 27. Qc4 Kh8 28. Nb4 Rb2 29.
+Nd3 Ra2 (29... Bxd3 30. Rxd3) 30. Nxe5 Bg5 31. g4 Qe8 32. Re1 (32. gxf5 Qxe5)
+32... Be7 33. Ra6 (33. gxf5 $1 Rxf2 (33... Bxd6 34. Ng6+ $1) 34. Re6 Qh5 35.
+Ng4 (35. Rxe7 $2 Qxh2#) 35... Qxf5 36. Qe4 $1 (36. Nxf2 $2 Qxf3+ 37. Kg1 Qxf2+
+38. Kh1 Qf3+ 39. Kg1 Qf2+ {
+would allow Black to draw the game by a perpetual check}) 36... Qxf3+ 37. Qxf3
+R2xf3 38. Rxe7 Rxb3 {with good winning chances.}) 33... Rxa6 34. Qxa6 Bb4 35.
+Re3 Bc5 36. Re2 Bc8 37. Qa4 (37. Qc4 $5) 37... Qxa4 38. bxa4 Bd6 39. Kg2 Kg8
+40. Nc4 Bb7 41. Re3 Bf4 42. Rd3 Bc6 43. Nb6 h5 $1 44. Rc3 ({After} 44. gxh5 Rf5
+45. Rc3 Bb7 46. Rc5 Rxc5 47. Bxc5 {all of White's pawns are isolated. After
+some more moves we'll have a similar position on the board}) (44. h3 $5) 44...
+Bb7 45. Nd7 Rc8 46. Rxc8+ Bxc8 47. Nb6 Bb7 48. gxh5 {White is two pawns up,
+but the endgame is difficult to win, because the Black bishop pair is doing a
+good job.} Kh7 49. Bg3 Bd2 $1 (49... Bxg3 $2 50. hxg3 $18) 50. Nc4 Bb4 51. Bd6
+Bc3 52. Be5 Bb4 53. Bf4 Bc6 54. a5 Bb5 55. Bd2 Be7 56. Ne5 Be2 57. Kf2 Ba6 58.
+Kg3 Bd6 59. f4 Bc7 60. Bc3 Kh6 61. Nc6 Bb5 (61... Kxh5 62. Bxg7) 62. Nd4 Bd7 $2
+(62... Bc4 $16) 63. Nc2 $2 (63. a6 $1 $18) 63... Bc8 $1 {
+White can no longer prevent the loss of a pawn.} 64. Ne1 (64. Nd4 $5 Kxh5 65.
+Nb5 Bd8 $13) 64... Kxh5 {Only a very thorough analysis might prove, if there
+is still a win for White. In the actual game Black managed to draw the game:}
+65. Nf3 (65. Bxg7 Bxa5) 65... Kg6 66. Nd4 Bd6 67. h3 Kh6 68. h4 g6 69. Nc6 Ba3
+70. Bb4 Bb2 71. Nb8 Bd4 72. Be7 (72. a6 Bb6 $13) 72... Bg1 73. Bg5+ Kg7 74. Nc6
+Bc5 75. Be7 Be3 76. Ne5 Bd2 77. Bd8 Kh6 78. Nc4 Bb4 79. Kf3 Ba6 80. Ne5 Kh5 81.
+Nd7 Bb7+ 82. Ke3 Kg4 83. Ne5+ Kf5 84. Kd4 Bd6 85. Nd3 Ba3 $2 (85... Bxf4 $1)
+86. Nc5 $1 Bg2 87. a6 Bb2+ 88. Ke3 Bc1+ 89. Kf2 Bh1 90. Bc7 Ba8 (90... Bxf4 $1)
+91. Ke2 Ba3 (91... Bxf4 $1) 92. Nb7 Kg4 93. Na5 $2 {Both players are not able
+to find the best moves, but the endgame is really difficult and, after all,
+Rebel 13 is an engine with a human like play. Humans make mistakes, right?
+That's why we shouldn't be surprised. The "real" Fischer and Karpov probably
+would have played more precisely in this phase of the game.} (93. Kd3 $1 {
+should be winning, e.g.} Kf5 (93... Kxh4 94. Kc4 Kg4 95. Kb5 Bc1 96. Bd6 Bxf4
+97. Kb6 Be3+ 98. Kc7 Kf5 99. Kb8 $18) 94. Kc4 Ke6 95. Kb5 Bc1 96. Bd6 Kd5 97.
+Kb6 Be3+ 98. Kc7 Ba7 99. Be5 Ke4 (99... Kc4 100. f5 $1 gxf5 101. h5 $18) 100.
+Bc3 Kd5 101. Ba5 Kc4 102. Bb6 $18) 93... Bc5 (93... Be7 $1) 94. Nc4 Kxh4 95.
+Bd6 Ba7 96. Ne5 Kh5 97. Kd2 Be4 98. Be7 Ba8 (98... Bd4 $5) 99. Kd3 Bf2 100. Ke2
+Bg1 101. Bb4 Bd5 102. Bd2 g5 $1 103. Be3 (103. fxg5 Bd4 104. Nd7 Bc4+ 105. Kf3
+Bxa6 $11) 103... Bh2 $1 104. Nd3 gxf4 105. Bxf4 Bg1 $1 106. Be3 Bh2 $1 {
+Well played, for after} (106... Bxe3 $2 107. Kxe3 {Black would be lost, e.g.}
+Kg5 108. Kd4 Bg2 109. Kc5 Bf1 110. a7 Bg2 111. Nb4 Ba8 112. Nd5 Kf5 113. Nb6
+Bb7 114. Kd6 Kf4 115. Nd5+ Ke4 116. Nb6 Kd4 117. Kc7 Bh1 118. Nc8 Ke5 119. Nd6
+Ba8 120. Nc4+ Kd4 121. Kb8 Bf3 122. Nd6 Bg2 123. Nb7 {
+and a7-a8Q can no longer be prevented.}) 107. a7 Kg6 108. Nb4 Bb7 109. Bd4 Kf5
+110. Nd3 Bd6 111. Kd2 Ke6 112. Kc3 Kd5 113. Be3 Kc6 114. Kc4 Ba6+ 115. Kd4 Bb7
+116. Kc3 Bc7 117. Kc4 Bb6 {What a dramatic fight!} 1/2-1/2
+
+[Event "Computer  simulation (Rebel 13)"]
+[Site "?"]
+[Date "1975.05.01"]
+[Round "16"]
+[White "Karpov, Anatoly"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B42"]
+[WhiteElo "2705"]
+[BlackElo "2780"]
+[Annotator "Platz"]
+[PlyCount "126"]
+[EventDate "2018.11.16"]
+[EventType "match"]
+[Source "S. O."]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 (5... Bc5 6. Nb3 Ba7 7. O-O
+Nc6 8. Qe2 d6 9. Be3 Bxe3 10. Qxe3 Nf6 11. c4 O-O 12. Rd1 Qc7 13. Nc3 Ne5 14.
+Rac1 $11 {Karpov - Robert Huebner, WchT U26 1972}) 6. Be3 e5 (6... Nf6 {
+is the usual move in this position.}) 7. Nf3 (7. Nxc6 dxc6 $1) 7... Nf6 8. Nc3
+d5 9. Nxd5 Nxd5 10. exd5 Qxd5 11. Be2 Qa5+ 12. c3 Be6 13. Ng5 Rd8 (13... Bxa2
+$2 14. Bc4 $18) 14. Qc2 Bd5 15. O-O h6 16. c4 $5 {A bold move allowing Black
+to open the h-file. On the other hand the black king is not safe either.} (16.
+Nf3 Be7 $11) 16... hxg5 17. cxd5 Qxd5 18. Bc4 Qd6 19. Qb3 ({
+White must be very careful, e.g.} 19. Bxg5 Nd4 20. Qe4 Be7 {(21.Bxe7! Qxe7=)}
+21. Qxb7 $2 {hoping for 21. ..Bxg5? 22.Qxf7+ mate is parried by} f6 $1 {
+and White cannot save his bishop, e.g.} 22. Be3 $2 e4 23. f4 (23. h3 $2 Rxh3 $1
+24. gxh3 Nf3+ 25. Kg2 Qh2#) (23. g3 $2 Nf3+ 24. Kg2 Rxh2#) 23... exf3 24. g3
+Qc5 $1 $19 {threatening both 25. ..Ne2+ and 25. ..Qxc4.}) (19. Rfd1 $5 {
+is a good alternative, e.g.} Nd4 (19... Qh6 20. h3 Be7 (20... Bd6 21. Bxa6 $1)
+21. Qb3 Qh5 22. Bd5 $1 $16) 20. Qe4 Qe7 21. Bxd4 exd4 22. Qf3 $1 g4 $1 (22...
+Qc7 23. Re1+) 23. Qxg4 Qc7 24. Re1+ Be7 25. Qxg7 $1 Qxh2+ 26. Kf1 Qh1+ 27. Ke2
+d3+ $1 28. Bxd3 Qh6 29. Qxh6 Rxh6 $14 {If both sides play the best moves an
+endgame with bishops of opposite colors seems to be the result of this crazy
+variation.}) 19... Be7 $5 (19... Rd7 {is a little better, I think, e.g.} 20.
+Rad1 (20. Rfd1 Nd4 21. Bxd4 exd4 22. Re1+ Kd8 23. h3 $13) 20... Qh6 21. h4 (21.
+h3 $5 Bd6 22. Bd5 $13) 21... Qxh4 22. Bxf7+ $1 Rxf7 (22... Ke7 $2 23. Qe6+ Kd8
+24. Qxd7#) (22... Kd8 $2 23. Rxd7+ Kxd7 24. Qxb7+ Kd6 25. Bc5+ $1 Kxc5 26. Rc1+
+Kd4 27. Rc4+ Kd3 28. Qb3+ Ke2 29. Qe3+ Kd1 30. Rc1#) 23. Qe6+ Re7 (23... Be7 $2
+24. Qd7+ Kf8 25. Qc8+ Bd8 26. Rxd8+ $18) 24. Qg6+ Rf7 25. Qe6+ Re7 26. Qg6+ {
+= perpetual check}) 20. Bxf7+ (20. Qxb7 {leads to very unclear variations
+which seem to be in favor of White, but who knows? A few examples of what
+might happen:} g4 (20... O-O $5 21. Qxa6 Ra8 22. Qb5 Nd4 23. Qd5 Qxd5 24. Bxd5
+Ra5 25. Bc4 Rb8 26. b3 Nc2 27. Rad1 Rxa2 $14) 21. Qxa6 (21. Rfd1 $5 Qxd1+ 22.
+Rxd1 Rxd1+ 23. Bf1 Rd6 24. Qxa6 O-O $13) 21... e4 22. Bf4 $1 Qxf4 23. Qxc6+ Kf8
+24. g3 Qf5 25. Rad1 $1 Rh6 (25... Qh5 $2 26. Rxd8+ Bxd8 27. Qd6+ Ke8 28. Rd1 $1
+Qxh2+ (28... Ba5 29. h4 gxh3 30. Qc6+ Kf8 31. Qa8+ Ke7 32. Qxe4+ Kf8 33. Rd7
+$18) 29. Kf1 Qh1+ 30. Ke2 Qf3+ 31. Kd2 $1 Rh5 (31... Qf6 $2 32. Bb5#) 32. Kc1
+Qf6 33. Qd7+ $1 Kf8 34. Qxd8+ $18) 26. Rxd8+ Bxd8 27. Qa8 Rd6 $13) 20... Kf8
+21. Rae1 Na5 22. Qa4 e4 (22... Qb4 $5 23. Bb3 Rh4 24. Qxb4 Rxb4 $11) ({After} 
+22... Kxf7 23. Qxa5 b5 24. a4 {a pretty rook sacrifice is possibe:} Rxh2 $1 25.
+Kxh2 Qh6+ 26. Kg1 $1 (26. Kg3 $2 Qh4+ 27. Kf3 e4+ 28. Ke2 Qg4+ 29. f3 Qxg2+ 30.
+Rf2 exf3#) 26... Rh8 27. f3 ({after} 27. f4 $5 Qh2+ 28. Kf2 gxf4 29. Bxf4 $1
+exf4 30. Qc7 Re8 31. axb5 axb5 32. Qd7 (32. Rh1 Qg3+ 33. Kf1 $1 $11) 32... Kf8
+$1 {White cannot win either, e.g.} 33. Qf5+ Kg8 34. Rxe7 Rxe7 35. Qxb5 Re3 36.
+Ra1 Qh4+ 37. Kg1 Re1+ 38. Rxe1 Qxe1+ 39. Kh2 Qg3+ {etc.}) 27... Qh2+ {
+and White cannot avoid a perpetual check without losing the game:} 28. Kf2 Qh4+
+29. Ke2 (29. g3 $2 Qh2#) 29... Qc4+ 30. Kf2 $1 (30. Kd1 $2 Bb4 $19) 30... Qh4+
+{etc.}) 23. f4 Qh6 24. h3 g4 $1 {As we can see from the course of the game
+Bobby Fischer wants to win at all costs.} 25. Qxa5 $1 ({After} 25. hxg4 $2 {
+White will soon be mated, e.g.} Qh2+ 26. Kf2 Bh4+ 27. Ke2 Qxg2+ 28. Rf2 (28.
+Bf2 $2 Qf3#) 28... Bxf2 29. Bd5 (29. Bxf2 $2 Qf3+ 30. Kf1 Rh1#) 29... Bxe3+ 30.
+Kxe3 Rxd5 31. Qb4+ Kg8 32. Qxe4 Rh3+ 33. Qf3 Qxf3#) 25... Kxf7 26. Qf5+ Qf6 27.
+Qxg4 Rh4 28. Qe2 Qe6 29. Rc1 (29. a3 $5 Rd3 30. Rc1) 29... Qxa2 30. Rc4 Bf6 31.
+Bb6 ({Why not simply} 31. Rxe4 $1 {
+, because Black must not take b2 on account of} Qxb2 $2 ({or} 31... Bxb2 $2 32.
+Rb4 $18) 32. Qc4+ Kg6 (32... Kf8 33. Bc5+) 33. f5+ Kh7 34. Rxh4+ $18) 31... Re8
+32. Bf2 (32. Rxe4 $1) 32... Rhh8 33. Rfc1 e3 34. Rc7+ $2 {Missing his last
+chance to eliminate Black's e-pawn under favorable circumstances.} (34. Bxe3 $1
+) 34... Kg8 35. Bxe3 Qe6 $1 $11 (35... Qxb2 $2 36. Qc4+ Kh7 37. Rc5 g6 38. Qf7+
+Bg7 39. f5 Qf6 40. fxg6+ Qxg6 41. Rh5+) (35... Bxb2 $2 36. R1c2 Qe6 (36... Qa5
+37. Rc8 $1) 37. Rxb2 Qxe3+ 38. Qxe3 Rxe3 39. Rbxb7 {winning g7 and the game,
+because if Black attempts to keep the pawn a mate in 2 follows:} Rh7 $2 (39...
+g6 $2 40. Rb8+ Re8 41. Rxe8#) 40. Rc8+ Re8 41. Rxe8#) 36. Re1 (36. Kf2 $2 Bh4+
+37. Kf3 $2 Qd5+ 38. Kg4 Qh5#) 36... Bh4 37. f5 Qe4 $1 (37... Qxf5 $2 38. Qc4+
+Re6 (38... Kh7 39. Qxh4+) 39. Bd4 $1 Bxe1 40. Rxg7+ Kf8 41. Qc8+ Re8 42. Qxf5#)
+38. f6 $1 (38. Rc4 Qxf5 $11) 38... Bxf6 (38... gxf6 39. Bh6 (39. Rc4 $5 Qe6 40.
+Rg4+ Kf7 41. Qd3 Bxe1 42. Qg6+ Ke7 43. Re4 Kd8 44. Rxe6 Rxe6 45. Bf4 $13) 39...
+Qd4+ (39... Qxe2 40. Rg7+ Kf8 41. Rh7+ Kg8 $11) 40. Kh1 Rxe2 41. Rg7+ Kf8 42.
+Rh7+ Kg8 $1 $11 (42... Ke8 $2 43. Rxe2+ Kd8 44. Rxh8+ Kc7 (44... Kd7 45. Rd2)
+45. Re7+ Kc6 (45... Kb6 46. Be3) 46. Rc8+ Kb5 47. Rxb7+ Ka4 48. Rc1 $1 $18 {
+threatening 49.Ra1 checkmate})) 39. Qd1 Bd4 40. Qxd4 (40. Qb3+ Kh7 41. Kh1 $1
+Bxe3 42. Rc3 Qf4 43. Rcxe3 $11) 40... Qxd4 41. Bxd4 Rxe1+ 42. Kf2 Re4 $1 43.
+Rxg7+ Kf8 44. Bc3 b5 45. Rg6 Kf7 46. Rxa6 (46. Bxh8 $2 Kxg6 $17) 46... Rh5 47.
+Rf6+ Kg8 48. Rf3 b4 49. Bf6 Kh7 50. g4 Rc5 51. Kg3 Kg6 52. Bd8 Rc2 53. b3 (53.
+Rb3 $11) ({or} 53. Bf6 $11 {is better.}) 53... Rc3 $1 54. h4 $2 {
+This is a decisive mistake.} (54. Ba5 $1 Rd4 ({or} 54... Ree3 55. Rxe3 Rxe3+
+56. Kf2 Rxb3 57. Ke2 $1 Kg5 58. Kd2 Kh4 59. Kc2 Rc3+ 60. Kb2 Rc4 61. Kb3 $11 {
+winning the last black pawn}) 55. Kg2 {should still be a draw.}) 54... Ree3 $1
+$19 55. h5+ Kh7 56. Rxe3 Rxe3+ 57. Kh4 Rxb3 58. Be7 Rb2 59. Bf6 Rg2 60. g5 b3
+61. Be5 b2 62. Kh3 ({Or} 62. Bxb2 Rxb2 63. Kg3 Rb1 64. Kf4 Rh1 65. Kg4 Kg7 66.
+h6+ (66. g6 Kf6) 66... Kg6 $19 {and White can no longer defend his pawns.})
+62... b1=Q 63. Kxg2 Qe4+ 0-1
+
+[Event "Computer simulation (Rebel 13)"]
+[Site "?"]
+[Date "1975.05.06"]
+[Round "17"]
+[White "Fischer, Robert James"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[ECO "C98"]
+[WhiteElo "2780"]
+[BlackElo "2705"]
+[Annotator "Platz"]
+[PlyCount "95"]
+[EventDate "2018.11.16"]
+[EventType "match"]
+[Source "S. O."]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. dxc5 dxc5 14. Nf1 Rd8 15.
+Qe2 Be6 (15... Nh5 16. a4 Rb8 17. axb5 axb5 $11 {
+Fischer - Eliskases, Mar del Plata 1960}) 16. Ne3 h6 17. Nd5 {
+Fischer tries this somewhat dubious move once more.} Nxd5 18. exd5 Rxd5 (18...
+Bxd5 {had been played in game 11.}) 19. a4 Rb8 20. Be4 Rd6 21. Bxc6 Qxc6 22.
+Nxe5 Qb7 23. Bf4 Rbd8 24. axb5 axb5 25. Ra5 Ra6 26. Rxb5 Qa7 (26... Qa8 $1) 27.
+c4 (27. Be3 $5 Rd5 28. Nd3 {Threatening both 29.Bxc5 and 29.Nb4. This is why
+the Black queen had better gone to a8.} Bd7 29. Rb3 $1 $14 (29. Bxc5 Qa8 $1 30.
+Qxe7 Bxb5 $11)) 27... Bf6 28. Kh2 Rb6 29. b4 $1 Rxb5 (29... cxb4 $2 30. Qe3 $1
+Rb7 31. Qxa7 Rxa7 32. Nc6 $18) 30. Nc6 Bxc4 $2 {A tempting move which seems to
+be good for Black, but this is a miscalculation. On the other hand it is
+really difficult to find a satisfactory reply.} (30... Qb6 {
+is probably best, but even this move cannot equalize the game, e. g.} 31. cxb5
+Rd5 32. Be3 Qc7+ $1 33. f4 c4 (33... cxb4 34. Nxb4 $16) (33... g5 $5 34. Kg1 $1
+gxf4 35. Bxc5 $16) 34. Qxc4 Rd1 35. b6 $1 (35. Qe2 Rxe1 36. Qxe1 Bc4 37. Na7
+Bd5 38. Qc1 $16 {is playable, too}) 35... Qb7 36. Rxd1 $1 {
+White will soon regain his Queen due to his strong passed pawn on b6.} Bxc4 37.
+Na5 Qc8 ({or} 37... Qa8 38. Nxc4 Qe4 39. Rd7 Qxc4 40. b7 Qb5 41. Ba7 Qxd7 42.
+b8=Q+ $18) 38. Rc1 Qe8 39. b7 Ba6 $1 40. Rc8 Qxc8 41. bxc8=Q+ Bxc8 42. b5 Bc3
+43. Nb3 $16) 31. Qxc4 Rxb4 32. Qxb4 $1 {A strong and decisive move. It may
+seem a little strange that Rebel 13 with the Karpov personality had not seen
+it, but it just happened that way.} ({May be Black had taken into account only
+} 32. Nxb4 cxb4 33. Qxb4 Qxf2 $17 {with an extra pawn for Black}) ({or} 32. Qe2
+Qa8 33. Nxd8 Rxf4 34. Qe8+ Kh7 35. Nxf7 Qxe8 36. Rxe8 Rxf2 {
+which is even better, because his extra pawn is a passed pawn on the c-file.})
+32... cxb4 33. Nxa7 b3 {This pawn is Black's only hope.} 34. Nc6 Rc8 (34... Rd5
+35. Ne7+ Bxe7 36. Rxe7 Rb5 37. Re1 {and White will stop the passer.}) 35. Ne7+
+Bxe7 36. Rxe7 Rc4 37. Bd2 Rd4 (37... b2 38. Rb7 Rc2 39. Be3 $18) 38. Bc3 Rc4
+39. Re3 f6 40. f4 h5 (40... Rxf4 41. Re8+ Kf7 42. Rb8 {winning the b-pawn}) 41.
+Bb2 Rb4 42. Kg3 Rb7 43. Kh4 Rb5 44. Re7 Kf8 45. Rc7 Kg8 46. g4 hxg4 47. hxg4
+Ra5 {Zugzwang.} ({
+If Black tries to hold on to his passed pawn, he loses quickly:} 47... Kf8 48.
+f5 Rb4 49. Kh5 Rb6 50. Kg6 Rb8 51. Rxg7 $18) (47... g6 {doesn't help either:}
+48. Rc6 g5+ 49. Kh5 $1 gxf4+ 50. Kg6 Kf8 51. Kxf6 Rb8 52. Be5 $18) 48. Rb7 {
+and finally Black resigned. By winning this game Bobby Fischer defended his
+title with a final score of 10-4 with 3 draws - at least according to the
+computer simulation using the Fischer resp Karpov personalities of the Rebel
+13 engine. A huge thanks to programmer Ed Schroeder from the Netherlands for
+creating this great engine with a really human like playing style.} 1-0
+

@@ -1,0 +1,224 @@
+[Event "GCT Cote d Ivoire Rapid 2019"]
+[Site "Abidjan"]
+[Date "2019.05.08"]
+[Round "3.1"]
+[White "Carlsen, Magnus"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[ECO "A18"]
+[WhiteElo "2867"]
+[BlackElo "2805"]
+[Annotator "TA"]
+[PlyCount "64"]
+[EventDate "2019.05.05"]
+[EventType "tourn"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,64,0,0,0,0,0,14,14,22,0,0,0,39,-8,0,-32,-10,-44,-39,-81,46,50,62,62,
+139,7,8,8,8,8,11,0,0,0,0,0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. c4 Nf6 2.
+Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. fxg7 cxd2+ 7. Bxd2 Bxg7 8. Qb3 {
+A18: English Opening: Flohr-Mikenas System (1 c4 Nf6 2 Nc3 e6 3 e4)} Nc6 (8...
+Nd7 9. Rd1 b6 10. Bc3 Bxc3+ 11. Qxc3 Qf6 12. Qxf6 Nxf6 13. Be2 Ke7 14. Bf3 Rb8
+15. Ne2 c5 16. Nc3 {1/2-1/2 (16) Harutyunian,T (2501)-Oparin,G (2622) Batumi
+2018}) 9. Nf3 Qe7 10. Bd3 O-O 11. O-O-O a5 12. a3 e5 13. Bc3 f5 $146 {Strongly
+threatening ...e4.} ({Predecessor:} 13... a4 14. Qc2 f5 15. Rhe1 e4 {0-1 (42)
+Golikov,D (2220)-Nesterov,A (2388) Stockholm 2018}) 14. c5+ Kh8 {And now ...e4
+would win.} 15. Bb5 Be6 $1 {[%cal Re6b3]} 16. Qc2 {[#] Threatening Bxc6.} Qxc5
+(16... Nb4 $1 $17 {[%cal Rb4c2][%mdl 512]} 17. axb4 axb4 18. Bxe5 Bxe5 19. Nxe5
+Ra1+ 20. Kd2 Ra5) 17. Bxc6 $1 $14 Qxc6 18. Nxe5 Qe4 {[#]} ({Don't blunder} 
+18... Qxg2 $2 19. Rhg1 $18) (18... Qb5 $14) 19. Qd2 (19. Rd3 $1 $16) 19... Ba2
+$1 $11 {[%csl Ga2][%cal Re4b1]} ({But not} 19... Qxg2 $2 20. Rhg1 $18) 20. Nd3
+{Threatens to win with Bxg7+.} Qc4 $132 {[%mdl 2048] Black is not keeping still
+} ({Don't go for} 20... Qxg2 $2 {[#]} 21. Rhg1 $1 $18 {[%mdl 512]}) 21. Rhe1
+Rae8 22. Rxe8 Rxe8 23. Re1 Rxe1+ 24. Nxe1 {Black must now prevent Qd8+.} Qc6
+25. Nf3 (25. Qd8+ {keeps more tension.} Bg8 26. Kd2 Qh6+ 27. Kd1 Qh5+ 28. f3)
+25... Bxc3 {The position is equal.} 26. bxc3 Bd5 27. Qd4+ Kg8 28. Nh4 Qe6 29.
+Kd2 b6 30. f3 Bc4 {[#]} 31. Nxf5 $1 {[%csl Gf5][%cal Rd4g7][%mdl 512]} Qe2+ {
+[%mdl 64] Double Attack} (31... Qxf5 32. Qxc4+) 32. Kc1 {[%csl Gf5][%cal Rd4g7]
+} Qe1+ {Accuracy: White = 51%, Black = 58%.} 1/2-1/2
+
+[Event "GCT Cote d Ivoire Rapid 2019"]
+[Site "Abidjan"]
+[Date "2019.05.08"]
+[Round "3.2"]
+[White "Karjakin, Sergey"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2773"]
+[BlackElo "2792"]
+[Annotator "TA"]
+[PlyCount "73"]
+[EventDate "2019.05.05"]
+[EventType "tourn"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,73,25,19,18,8,13,12,10,7,12,0,0,0,0,0,96,24,38,33,53,24,22,33,35,7,7,
+13,10,0,0,0,0,-7,-14,-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 c5
+2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 g6 7. Be2 Bg7 8. O-O O-O 9.
+Be3 Nc6 10. Qd2 Rb8 {B90: Sicilian Najdorf: Unusual White 6th moves, 6 Be3 Ng4
+and 6 Be3 e5} 11. h3 Bd7 12. Rfd1 Rc8 13. Nxc6 Bxc6 14. f3 {[#]} Nh5 $146 ({
+Predecessor:} 14... Qd7 15. a5 Qe6 16. Bd4 Nh5 17. Bxg7 Kxg7 18. f4 {1/2-1/2 
+(53) Vitiugov,N (2709)-Vachier Lagrave,M (2778) Germany 2019}) 15. a5 Ng3 16.
+Bd3 f5 (16... e6 $11 {keeps the balance.}) 17. Qe1 (17. Bf2 $16 f4 18. Bc4+ Kh8
+19. Nd5) 17... f4 $11 18. Bc4+ Kh8 19. Bb6 Qd7 20. Bb3 g5 21. Bd4 Bxd4+ {
+The position is equal.} 22. Rxd4 e5 23. Rd3 h5 24. Rad1 Rf6 25. Ne2 Nxe2+ 26.
+Qxe2 Bb5 27. c4 $1 {[%cal Rc4b5]} Bxc4 28. Bxc4 Rxc4 29. Rd5 Qc7 30. Rxd6 $1
+Rxd6 31. Rxd6 {[%mdl 4096] Endgame KQR-KQR} Rc1+ 32. Rd1 Rxd1+ 33. Qxd1 Qxa5
+34. Qd6 Qe1+ 35. Kh2 Qg3+ 36. Kg1 Qe1+ 37. Kh2 {Accuracy: White = 50%, Black =
+83%.} 1/2-1/2
+
+[Event "GCT Cote d Ivoire Rapid 2019"]
+[Site "Abidjan"]
+[Date "2019.05.08"]
+[Round "3.3"]
+[White "Amin, Bassem"]
+[Black "So, Wesley"]
+[Result "0-1"]
+[ECO "B51"]
+[WhiteElo "2683"]
+[BlackElo "2772"]
+[Annotator "RC"]
+[PlyCount "90"]
+[EventDate "2019.05.05"]
+[EventType "tourn"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeMode "Bronstein"]
+[TimeControl "1500+10"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} d6 {[%emt 0:
+00:00]} 3. Bb5+ {[%emt 0:00:00]} Nd7 {[%emt 0:00:00]} 4. O-O {[%emt 0:00:52]}
+a6 {[%emt 0:00:00]} 5. Bd3 {[%emt 0:00:10]} Ngf6 {[%emt 0:00:00]} 6. Re1 {
+[%emt 0:00:10]} e6 {[%emt 0:00:02]} 7. c3 {[%emt 0:00:58]} b5 {[%emt 0:00:02]}
+8. Bc2 {[%emt 0:00:10]} c4 {[%emt 0:00:05]} 9. a4 {[%emt 0:00:10]} Bb7 {
+[%emt 0:00:05]} 10. d4 {[%emt 0:00:10]} cxd3 {[%emt 0:00:05]} 11. Qxd3 {
+[%emt 0:00:10]} Nc5 {[%emt 0:02:34]} 12. Qe2 {[%emt 0:00:10]} bxa4 {[%emt 0:00:
+12]} 13. Be3 {[%emt 0:00:10]} Nfxe4 {[%emt 0:02:28]} 14. Nbd2 {[%emt 0:00:24]}
+Nxd2 {[%emt 0:04:01]} 15. Nxd2 {[%emt 0:00:10]} Rc8 {[%emt 0:01:32]} 16. Bxc5 {
+[%emt 0:02:01]} Rxc5 {[%emt 0:00:10]} 17. Bxa4+ {[%emt 0:00:10]} Ke7 {[%emt 0:
+00:10]} 18. Nb3 {[%emt 0:02:16]} Rg5 {[%emt 0:00:14]} 19. g3 {[%emt 0:00:10]}
+g6 {[%emt 0:02:53]} 20. Qc4 {[%emt 0:06:23]} Bg7 {[%emt 0:00:50]} 21. Rad1 {
+[%emt 0:00:10]} Qb6 {[%emt 0:00:29]} 22. Nd4 {[%emt 0:03:18]} Re5 {[%emt 0:00:
+16]} 23. Nc6+ {[%emt 0:05:07]} Bxc6 {[%emt 0:00:10]} 24. Qxc6 {[%emt 0:00:10]}
+Qxc6 {[%emt 0:00:17]} 25. Bxc6 {[%emt 0:00:10]} Rc5 {[%emt 0:00:26]} 26. Be4 {
+[%emt 0:00:27]} Rb8 {[%emt 0:00:13]} 27. Re2 {[%emt 0:00:10]} Rcb5 {[%emt 0:01:
+56]} 28. Rdd2 {[%emt 0:00:10]} R5b6 {[%emt 0:00:10]} 29. Kf1 {[%emt 0:00:38]}
+a5 {[%emt 0:00:11]} 30. Rc2 {[%emt 0:00:33]} a4 {[%emt 0:00:19]} 31. Bd5 {
+[%emt 0:00:17]} Kf8 {[%emt 0:02:36]} 32. Ba2 {[%emt 0:00:10]} d5 {[%emt 0:00:
+17]} 33. h4 {[%emt 0:00:49]} d4 {[%emt 0:00:59]} 34. Red2 {[%emt 0:00:50]} d3 {
+[%emt 0:00:10]} 35. Rxd3 {[%emt 0:00:26]} Rxb2 {[%emt 0:00:10]} 36. Rxb2 {
+[%emt 0:00:10]} Rxb2 {[%emt 0:00:10]} 37. Bc4 {[%emt 0:00:10]} Ke7 {[%emt 0:00:
+11]} 38. Re3 {[%emt 0:00:40]} a3 {[%emt 0:00:10]} 39. Re2 {[%emt 0:00:10]} Bxc3
+{[%emt 0:00:29]} 40. Rxb2 {[%emt 0:00:10]} Bxb2 {[%emt 0:00:13]} 41. Ke2 {
+[%emt 0:00:10]} h5 {[%emt 0:00:10]} 42. Kd3 {[%emt 0:00:22]} Kd6 {[%emt 0:00:
+10]} 43. Bb3 {[%emt 0:01:16]} Kc5 {[%emt 0:00:10]} 44. Ba2 {[%emt 0:00:11]} Bd4
+{[%emt 0:00:10]} 45. f3 {[%emt 0:00:10]} Bf2 {Kd4+} 0-1
+
+[Event "GCT Cote d Ivoire Rapid 2019"]
+[Site "Abidjan"]
+[Date "2019.05.08"]
+[Round "3.4"]
+[White "Topalov, Veselin"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[WhiteElo "2736"]
+[BlackElo "2776"]
+[Annotator "TA"]
+[PlyCount "83"]
+[EventDate "2019.05.05"]
+[EventType "tourn"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,83,9,9,13,18,8,8,5,8,3,8,5,13,9,8,12,17,0,34,-9,0,-27,30,30,53,69,59,
+58,61,0,0,0,0,0,0,-33,-57,-47,-30,-274,-267,-253,-260,-390,-238,-269,-269,-265,
+-277,-272,-262,-251,-252,-266,-245,-270,-260,-272,-248,-271,-252,-244,-261,
+-423,-25,-29,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O
+O-O 6. Nc3 d6 7. a4 {C55: Two Knights: 4 d3, 4 d4 exd4 5 e5 and Max Lange
+Attack} Be6 8. Ng5 $146 ({Predecessor:} 8. Re1 Qd7 9. a5 Nd4 10. h3 Nxf3+ 11.
+Qxf3 c6 12. Bg5 b5 13. axb6 axb6 14. Qe3 Rxa1 15. Rxa1 {1/2-1/2 (50) Saric,I 
+(2573)-Postny,E (2651) Sibenik 2009}) 8... Bxc4 9. dxc4 a5 10. Be3 Nb4 11. Qe2
+Nd7 12. Nh3 c6 13. Rad1 Qc7 14. Rd2 Nc5 15. f4 exf4 $1 16. Nxf4 Rae8 (16... Bf6
+$142) 17. Qg4 Qc8 18. Qg3 $1 Ne6 19. Nh5 {[#] Strongly threatening Nxg7!} Kh8
+20. Nd5 ({Better is} 20. b3 $14) 20... cxd5 $11 21. cxd5 (21. exd5 g6 $11)
+21... g6 22. dxe6 fxe6 23. Rxf8+ Rxf8 24. Bd4+ Kg8 {And now ...e5 would win.}
+25. e5 $2 (25. Nf4 $1 $11 {and White has nothing to worry.} g5 26. Ne2) 25...
+Nxc2 $19 26. Bf2 dxe5 {Threatens to win with ...Nd4!} 27. h3 (27. Qc3 $142 Nd4
+28. Ng3) 27... Rf5 {Hoping for ...Bb4.} 28. Qd3 Nb4 ({Worse is} 28... gxh5 29.
+Rxc2 Qd8 30. Qxd8+ Bxd8 31. Rc8 $11) 29. Qd7 Qxd7 30. Rxd7 Nd5 31. Ng3 Rf4 32.
+Rxb7 Rxa4 33. b3 Ra1+ 34. Kh2 Rb1 35. Ba7 Bb4 36. Ne4 Rxb3 37. Ng5 $2 (37. Bc5)
+37... Nf4 $2 {[#]} ({Black should play} 37... a4 $19 38. Nxe6 Be7) 38. Bc5 $1
+$11 {[%mdl 512]} Rc3 (38... Bxc5 39. Rxb3) 39. Rb8+ $1 {The position is equal.}
+Kg7 40. Rb7+ $1 Kg8 41. Rb8+ $1 Kg7 42. Rb7+ $1 {Accuracy: White = 63%, Black
+= 45%.} 1/2-1/2
+
+[Event "GCT Cote d Ivoire Rapid 2019"]
+[Site "Abidjan"]
+[Date "2019.05.08"]
+[Round "3.5"]
+[White "Ding, Liren"]
+[Black "Wei, Yi"]
+[Result "0-1"]
+[ECO "D85"]
+[WhiteElo "2786"]
+[BlackElo "2737"]
+[Annotator "ChessBase"]
+[PlyCount "136"]
+[EventDate "2019.05.05"]
+[EventType "tourn"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeMode "Bronstein"]
+[TimeControl "1500+10"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:00]} g6 {[%emt 0:
+00:00]} 3. Nc3 {[%emt 0:00:00]} d5 {[%emt 0:00:00]} 4. cxd5 {[%emt 0:00:00]}
+Nxd5 {[%emt 0:00:00]} 5. e4 {[%emt 0:00:00]} Nxc3 {[%emt 0:00:00]} 6. bxc3 {
+[%emt 0:00:00]} Bg7 {[%emt 0:00:00]} 7. Be3 {[%emt 0:00:00]} c5 {[%emt 0:00:00]
+} 8. Rc1 {[%emt 0:00:00]} O-O {[%emt 0:00:47]} 9. Nf3 {[%emt 0:00:00]} Qa5 {
+[%emt 0:00:26]} 10. Qd2 {[%emt 0:00:00]} Nd7 {[%emt 0:00:11]} 11. Bd3 {[%emt 0:
+00:13]} e5 {[%emt 0:00:10]} 12. Bh6 {[%emt 0:00:40]} exd4 {[%emt 0:01:42]} 13.
+Bxg7 {[%emt 0:00:10]} Kxg7 {[%emt 0:00:10]} 14. cxd4 {[%emt 0:00:10]} Qxd2+ {
+[%emt 0:00:25]} 15. Kxd2 {[%emt 0:00:10]} b6 {[%emt 0:01:47]} 16. d5 {[%emt 0:
+00:31]} Bb7 {[%emt 0:02:21]} 17. a4 {[%emt 0:00:32]} Rfe8 {[%emt 0:02:55]} 18.
+a5 {[%emt 0:00:27]} Rad8 {[%emt 0:00:10]} 19. Rhe1 {[%emt 0:01:36]} f5 {
+[%emt 0:01:00]} 20. exf5 {[%emt 0:03:18]} Bxd5 {[%emt 0:00:51]} 21. fxg6 {
+[%emt 0:00:12]} hxg6 {[%emt 0:00:50]} 22. Rxe8 {[%emt 0:02:35]} Rxe8 {[%emt 0:
+00:10]} 23. axb6 {[%emt 0:00:32]} axb6 {[%emt 0:00:10]} 24. Ra1 {[%emt 0:00:10]
+} Kf6 {[%emt 0:02:01]} 25. Bb5 {[%emt 0:01:43]} Rd8 {[%emt 0:00:40]} 26. Ne1 {
+[%emt 0:00:55]} Nf8 {[%emt 0:01:01]} 27. Kc3 {[%emt 0:01:02]} Ne6 {[%emt 0:00:
+10]} 28. Bf1 {[%emt 0:00:28]} Rb8 {[%emt 0:02:52]} 29. Nc2 {[%emt 0:00:12]} b5
+{[%emt 0:01:42]} 30. Ne3 {[%emt 0:00:10]} Ke5 {[%emt 0:00:23]} 31. Ra6 {
+[%emt 0:02:29]} b4+ {[%emt 0:02:20]} 32. Kb2 {[%emt 0:00:10]} Ra8 {[%emt 0:00:
+28]} 33. Rxa8 {[%emt 0:02:38]} Bxa8 {[%emt 0:00:10]} 34. h4 {[%emt 0:00:10]}
+Be4 {[%emt 0:01:21]} 35. f3 {[%emt 0:01:03]} Bc6 {[%emt 0:00:27]} 36. Bc4 {
+[%emt 0:01:32]} Nf4 {[%emt 0:00:22]} 37. Bf7 {[%emt 0:00:32]} Ba4 {[%emt 0:00:
+40]} 38. g3 {[%emt 0:03:31]} Nd3+ {[%emt 0:00:10]} 39. Kb1 {[%emt 0:00:10]} Kd4
+{[%emt 0:00:13]} 40. Ng4 {[%emt 0:00:10]} Kc3 {[%emt 0:00:15]} 41. Ne3 {
+[%emt 0:00:10]} Ne5 {[%emt 0:00:11]} 42. Be6 {[%emt 0:00:46]} Nxf3 {[%emt 0:00:
+10]} 43. Nd5+ {[%emt 0:00:10]} Kd4 {[%emt 0:00:20]} 44. Nf4 {[%emt 0:00:30]} c4
+{[%emt 0:00:10]} 45. Nxg6 {[%emt 0:00:10]} c3 {[%emt 0:00:13]} 46. Nf4 {
+[%emt 0:00:10]} Nd2+ {[%emt 0:00:19]} 47. Kc1 {[%emt 0:00:10]} b3 {[%emt 0:00:
+10]} 48. Ne2+ {[%emt 0:00:10]} Kd3 {[%emt 0:00:10]} 49. Nf4+ {[%emt 0:00:10]}
+Kd4 {[%emt 0:00:25]} 50. Ne2+ {[%emt 0:00:10]} Kd3 {[%emt 0:00:10]} 51. Nf4+ {
+[%emt 0:00:10]} Ke3 {[%emt 0:00:11]} 52. Bxb3 {[%emt 0:00:10]} Bxb3 {[%emt 0:
+00:10]} 53. h5 {[%emt 0:00:10]} Ne4 {[%emt 0:00:14]} 54. h6 {[%emt 0:00:10]}
+Nf6 {[%emt 0:00:11]} 55. Ng2+ {[%emt 0:00:25]} Kf2 {[%emt 0:00:10]} 56. Nf4 {
+[%emt 0:00:10]} Ke3 {[%emt 0:00:10]} 57. Ng2+ {[%emt 0:00:10]} Kf3 {[%emt 0:00:
+12]} 58. Nf4 {[%emt 0:00:10]} Nh7 {[%emt 0:00:11]} 59. Nd3 {[%emt 0:00:10]} Ke3
+{[%emt 0:00:10]} 60. Nc5 {[%emt 0:00:10]} Bf7 {[%emt 0:00:10]} 61. Kc2 {
+[%emt 0:00:17]} Kd4 {[%emt 0:00:10]} 62. Na4 {[%emt 0:00:10]} Bg6+ {[%emt 0:00:
+10]} 63. Kb3 {[%emt 0:00:10]} Bf7+ {[%emt 0:00:10]} 64. Kc2 {[%emt 0:00:10]}
+Bg6+ {[%emt 0:00:10]} 65. Kb3 {[%emt 0:00:10]} c2 {[%emt 0:00:10]} 66. Kb2 {
+[%emt 0:00:10]} Ng5 {[%emt 0:00:10]} 67. Nb6 {[%emt 0:00:11]} Nf3 {[%emt 0:00:
+10]} 68. Nd7 {[%emt 0:00:10]} Ng1 {[%emt 0:00:10]} 0-1
+

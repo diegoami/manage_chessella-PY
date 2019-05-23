@@ -1,0 +1,41 @@
+[Event "Groningen Festival 2018"]
+[Site "Groningen"]
+[Date "2018.12.22"]
+[Round "1"]
+[White "Pruijssers, Roeland"]
+[Black "Wedda, Dries"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2520"]
+[BlackElo "2208"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "53"]
+[EventDate "2018.??.??"]
+
+{[%evp 0,53,27,26,46,46,69,58,58,26,50,34,49,34,26,24,37,13,24,4,26,-34,0,7,7,
+4,4,-7,-8,0,-22,-18,-17,-67,-41,-41,-47,-47,-42,-29,-25,-39,-33,-44,-8,-8,64,
+77,199,199,198,198,29997,29998,29999,-30000]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4.
+Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. Qd2 Nbd7 9. O-O-O Be7 10. f4 b5 11.
+Kb1 Qc7 12. f5 Bc4 13. a3 Rb8 14. h3 b4 15. axb4 Rxb4 16. g4 Bxf1 17. Rhxf1
+Nxe4 18. Nxe4 Rxe4 19. g5 a5 20. f6 gxf6 21. gxf6 Bf8 22. Bg5 a4 {In the
+diagram position the white knight b3 is hanging. Retreat or counter attack -
+how would you react?} {[%tqu "En","What's the best move for White?","","",
+"d2d5","Kraftvolle Zentralisierung. Der schwarze Turm hängt - aber das war
+nicht Ihre einzige Idee bei 23.Qd5, oder...!?",10]} 23. Qd5 $1 {[%csl Gd5]
+[%cal Gd5e4] Powerful centralisation. Now Black's rook is hanging - but this
+wasn't your only idea when choosing White's queen move, was it!?} Rc4 (23...
+axb3 24. Qxe4 {[%csl Ge4][%cal Ge4c2,Yb3c2,Yc7c2] and c2 is protected.}) (23...
+Re2 24. Qa8+ Qd8 25. Qxa4 $18) {[%tqu "En","Black has brought his rook into
+safety, and the Nb3 is still hanging. What now?","Look out for a mate pattern
+vs. Black's king!","","d5e6","",10]} 24. Qe6+ $1 {[%csl Ge6,Re8][%cal Ge6e8]
+And the super centralization - mate alert!} Kd8 (24... fxe6 {[%tqu "En","Mate
+is great!","","","f6f7","",10]} 25. f7# {[%csl Re8,Gf7][%cal Gg5d8] The pawn
+advances opening the bishop's diagonal to d8 - checkmate!}) {[%tqu "En","Black
+really threatens to capture the white queen while the knight b3 is still
+hanging. What now?","","","e6f7","",10]} 25. Qxf7 $1 {Creating a powerful
+threat.} Rxc2 (25... Qc8 26. Na5 $1 $18) (25... axb3 {of course sees the game
+continuation as well.}) {[%tqu "En","White to play and win","","","f7e8","",10]
+} 26. Qe8+ $1 {[%csl Rd8,Ge8] A nice motif, isn't it!?} Kxe8 {[%tqu "En","And
+once again, for the beauty of it!","","","f6f7","",10]} 27. f7# {[%csl Re8,Gf7]
+[%cal Gf7e8,Gg5d8]} 1-0
+

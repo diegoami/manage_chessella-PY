@@ -1,0 +1,26 @@
+[Event "Grand Prix Moscow 2019"]
+[White "Dubov, Daniil"]
+[Black "Giri, Anish"]
+[Site "Moscow"]
+[Round "1.2"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.05.18"]
+[WhiteElo "2690"]
+[BlackElo "2787"]
+[PlyCount "72"]
+
+1. d4 {} Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 dxc4 5. e4 b5 6. a4 c6 7. Nc3 b4 8. Nb1 Ba6 {D44:
+Semi-Slav: Botvinnik System} 9. e5 h6 10. Bxf6 gxf6 {The position is equal.} 11. exf6 c5 $146 ({Predecessor:} 11... Qxf6 12. Nbd2 c3 13. bxc3 bxc3 14. Ne4 Qf4 15. Bd3 Bb4 16. 0-0 {1-0 (49) Riazantsev,A (2649)-Hovhannisyan,R (2637) St
+Petersburg 2018} )12. Nbd2 c3 13. bxc3 bxc3 14. Ne4 cxd4 (14... Bxf1 $14 15. Kxf1 Nd7 )15. Bb5+ $1 $16 Bxb5 16. axb5 Qd5 ({Black should try} 16... d3 $14 )17. Qxd4 { Double Attack} Qxb5 18. Nxc3 (18. Qxc3 $6 Nc6 $11 )(18. Ne5 $1 $16 {Nd6+ is the strong threat.} Qb4 19. Ra4 Qxd4 20. Rxd4 )Bb4 $11 {
+And now ...Nc6 would win.} 19. 0-0-0 {} Qa5 ({Black
+should play} 19... Qb6 $1 $11 20. Qxb6 axb6 )20. Nb5 (20. Rd3 $5 {} Bxc3 21. Rxc3 $11 )Na6 $1 21. Qd7+ Kf8 {White must now prevent ...Qa1+.} 22. Kb1 $40 { White mounts an attack.} Ba3 $2 {} (22... Bc5 $11 {and Black stays safe.} 23. Rd2 (23. Ne5 Qb4+ 24. Kc1 Qf4+ {
+Double Attack} 25. Qd2 Qxd2+ 26. Rxd2 Kg8 $16 )Rb8 )23. Rd3 $1 $18 {
+} ({Worse is} 23. Nxa3 Rb8+ 24. Kc1 (24. Ka2 $2 Nb4+ 25. Kb2 Nd5+ 26. Kc1 Qxa3+ 27. Kd2 Qa5+ 28. Ke2 Nf4+ 29. Ke3 Rb3+ 30. Rd3 Nxg2+ 31. Ke2 Nf4+ { Double Attack} 32. Ke3 Rxd3+ $19 )Qxa3+ 25. Kd2 Kg8 $11 )Qb4+ {[#]} 24. Kc2 $1 { Intending Qd8+! and mate.} Qa4+ {[#]} 25. Kd2 $1 {} Bb4+ (25... Qf4+ {was called for.} 26. Ke2 Qxf6 )26. Ke2 $1 {
+Threatening mate with Qd8+!} Kg8 {Strongly threatening ...Nc5.} 27. Ne5 {
+} Qc2+ 28. Kf3 {} Rf8 {intending ..
+.h5.} 29. Rhd1 h5 {[#]} ({Much weaker is} 29... Nc5 30. Qd4 $1 {} )(29... Qb2 $142 )30. Qd4 $1 Rh7 31. Qf4 Bc5 32. Nd4 {
+} Qa2 33. R1d2 Qd5+ 34. Ke2 Bb4 {[#]} 35. Ndc6 $1 { White
+threatens Rg3+ and mate. Double Attack, Discovered Attack} Qc5 36. Ne7+ Kh8 {
+Accuracy: White = 81%, Black = 40%.} 1-0
+

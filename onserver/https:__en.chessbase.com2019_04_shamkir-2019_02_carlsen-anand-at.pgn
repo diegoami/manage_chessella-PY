@@ -1,0 +1,87 @@
+[Event "Gashimov Memorial"]
+[White "Carlsen"]
+[Black "Anand"]
+[Site "Shamkir"]
+[Round "2"]
+[Annotator "Aryan Tari"]
+[Result "1-0"]
+[Date "2019.03.26"]
+[WhiteElo "2845"]
+[BlackElo "2779"]
+[PlyCount "85"]
+
+1. d4 {} Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 {
+This is known to be very solid for Black, and it's no surprise that Vishy went for this.} 5. Bf4 0-0 6. e3 c5 7. dxc5 Bxc5 8. Qc2 Nc6 9. a3 Qa5 10. Rd1 (10. 0-0-0 {
+is also possible and leads to a sharper position.} )Rd8 {This move
+surprised Magnus in the World Championship match some months ago. This time he was better
+prepared:} (10... Re8 {The popular move on the top level before Caruana played Rd8
+in the match. Vishy himself played this twice recently against Mamedyarov.
+I would be interested to see what Magnus had in mind here. Now e5 is a killing
+threat, and it is quite logical to move the knight. Play becomes forced:} 11. Nd2 {White creates a threat of Nb3} e5 12. Bg5 Nd4 13. Qb1 {is more
+challenging, and what I assume Magnus would go for.} (13. Qc1 {leads to a known
+draw after} Bf5 14. Bxf6 Nc2+ 15. Ke2 Nd4+ 16. Ke1 Nc2+ 17. Ke2 Nd4+ 18. Ke1 {
+with a perpetual.} Nc2+ {1/2-1/2 (18) Carlsen,M (2827)-Nakamura,H (2781)
+Douglas 2017} )Bf5 {The only move. Otherwise Black's position would
+collapse.} 14. Bd3 Bxd3 15. Qxd3 Ne4 16. Ncxe4 (16. Ndxe4 dxe4 17. Qxe4 Bxa3 $1 {is a problem for White.} )dxe4 17. Qxe4 Qb6 18. Rb1 h6 19. Bh4 g5 20. b4 Bf8 {and this craziness ended in a draw in (28) Ding,L (2760)-Nakamura,H
+(2785) Sharjah 2017} )(10... Be7 {This used to be the popular move, and is the
+move which is mostly played according to my database. But in the last couple of years it is
+rarely seen.} )11. Be2 (11. b4 Nxb4 12. axb4 Bxb4 )Ne4 12. cxd5 $146 {
+Magnus deviates from the game against Caruana in the London match, where he got
+absolutely no advantage.} (12. 0-0 Nxc3 13. bxc3 h6 {Black often plays this
+move in these positions. The explanation is that Ng5 can be annoying to deal
+with, and this move is simply useful in general.} 14. a4 Ne7 15. Ne5 Bd6 16. cxd5 Nxd5 17. Bf3 Nxf4 18. exf4 Bxe5 19. Rxd8+ Qxd8 20. fxe5 Qc7 21. Rb1 Rb8 {and White was the one who had to be accurate because of the structure
+in (49) Carlsen,M (2835)-Caruana,F (2832) London 2018} )Nxc3 13. bxc3 (13. Qxc3 Qxc3+ 14. bxc3 exd5 {would just be comfortable for Black.} )exd5 14. 0-0 h6 {Black seems quite solid here, but at the same time
+White is not risking much.} (14... Qxa3 $4 {can obviously never be taken on
+account of} 15. Ra1 {trapping the queen.} )(14... Be6 $2 15. Ng5 $1 {The
+annoying Ng5 shows up, which is why Black should go h6.} )15. a4 {We see now
+both sides improving their positions. This is a typical calm Magnus position,
+looking for small plus in order to outplay his opponent.} Bd6 16. Bxd6 Rxd6 17. c4 {Logical move, trying to get rid of the weakness.} Be6 18. c5 {White takes some space and fixes the b7-pawn, which is nice.} (18. cxd5 Rxd5 19. Rxd5 Bxd5 {is absolutely nothing for White.} )Rdd8 (18... Rd7 19. Nd4 Nxd4 20. exd4 {and Bd7 is not possible.} )19. Rb1 (19. Nd4 Nxd4 20. exd4 Bd7 {
+is the reason Vishy played Rdd8 - in order to put pressure on the
+a4-pawn.} )Qc7 20. Qb2 Rab8 {Again Black has a solid position, but
+White has the space advantage and it feels better to be White.} 21. Nd4 Nxd4 22. Qxd4 b6 23. cxb6 Rxb6 {The position has gotten simplified, and one would
+think that a posisiton like this on the top level would just end in a draw.
+But as we all know, this is Magnus' speciality, to try to pose problems in dry
+positions.} 24. h3 Rc8 25. Rfd1 (25. Rbc1 Qxc1 26. Rxc1 Rxc1+ 27. Kh2 {This is
+what Magnus was thinking about, hoping his queen would be better than the two
+rooks. But Black seems just solid after} Rc2 28. a5 Rbb2 29. Bf3 Rxf2 30. Kg3 a6 )Qc3 $6 {Strange decision to allow a5.} (25... Qc5 {is what Vishy said
+would be a fairly simple draw in the press conference afterwards, and he is right
+about that.} 26. Qxc5 Rxc5 {Now the a4-a5 possibility does not exist, so it is
+hard for White to create anything.} 27. Rxb6 axb6 28. Rb1 Rc2 29. Kf1 Bd7 {
+and the a4 and b6-pawns will be exchanged, and a player at Anands level will
+then hold on routinely.} )26. Qxc3 Rxc3 27. a5 Rxb1 28. Rxb1 Rc5 $2 {What Vishy
+described to be the second blunder. The rook is badly placed on the c-file
+because of an annoying tactic:} (28... Ra3 {Black should still hold!} 29. a6 (29. Rb8+ Kh7 30. a6 Kg6 31. Rb7 Kf6 32. Rxa7 Ra1+ 33. Kh2 Ra2 {and now Black
+gets the f2-pawn, which he didn't get in the game.} 34. Bb5 Rxf2 35. Rc7 Ra2 36. a7 Ke5 { Just in time to stop Bc6!} )g5 30. Rb7 Ra1+ 31. Kh2 Ra2 $1 32. Bb5 Ra5 33. Bd3 Ra3 {is a nice way to hold...White can't really
+hide the bishop and manage to capture the a7-pawn. Black will just continue to
+harass the bishop along the b5-f1 diagonal.} 34. Bf1 Ra1 )29. a6 $2 {gives
+Black a great chance to escape} ({Correct was} 29. Rb8+ Kh7 (29... Bc8 $4 30. Ba6 )30. a6 {and now Bc8 is not good anymore, because} Bc8 (30... Kg6 31. Rb7 {
+ white wins the pawn and keeps very good winning chances.} )31. Rb7 $1 $18 { and the a7-pawn falls.} Bxb7 32. axb7 {} Rc1+ 33. Kh2 { and Rb1 does of course not work because of
+Bd3+, winning the rook.} )g6 $2 (29... Bc8 $1 30. Rb8 {and the point is
+that Black does not have to play Kh7 anymore, but the simple} g6 $1 {which
+also stops Bg4! Now as the king is on g8, Rb7 will obviously never work:} (30... Kh7 $4 {is again a losing mistake due to} 31. Rb7 $1 $18 {} )31. Rb7 $2 (31. Ra8 Rc7 32. Bg4 f5 33. Bf3 Kg7 34. Bxd5 Bxa6 $11 {Black will
+hold.} )Bxb7 32. axb7 Rc1+ {} )30. Rb7 {White will
+eventually win the a7-pawn now.} Rc1+ 31. Kh2 Rc2 32. Bb5 {Black should have
+been ready to meet this move with Ra5, but as that is not possible, it is now
+a very hard position.} Rb2 (32... Rxf2 {What Vishy thought he could play,
+followed by} 33. Rxa7 d4 (33... Ra2 34. Rc7 d4 35. exd4 Bd5 36. Bf1 {
+should just be winning.} )34. Ra8+ (34. e4 {but could not see a defence after
+e4.} )Kg7 35. Rd8 {As Magnus pointed out, this is a simpler path, with the
+a-pawn winning the game.} )33. Kg3 {No rush. White takes his time to defend the
+f2-pawn and is now threatening to move the bishop.} Bc8 34. Rb8 Kg7 35. Rxc8 Rxb5 36. Rc7 Ra5 37. Rxa7 {Both sides thought White is just winning here.} Kf6 $2 (37... d4 $1 {I do not understand why Vishy did not try this move, as
+it definitly seems like the only try. It is logical to get rid of the weak
+d5-pawn.} 38. exd4 (38. e4 Ra3+ 39. f3 Kf6 )Rd5 $1 39. Kf4 Rxd4+ 40. Ke5 Ra4 {This might just be a draw if Black defends accurately. But of course it
+will still be hard in practice. Anyway, after what Black did in the game it was just
+over in 6 moves...This d5-d4 move was not even mentioned in the press
+conference.} 41. Ra8 (41. g4 {Stockfish 8 64:} h5 42. g5 h4 43. Ra8 Ra3 )h5 42. Kd6 Ra2 43. Kc6 Kf6 (43... Rxf2 44. Rb8 )44. Kb6 Rb2+ 45. Ka7 Rxf2 46. Rb8 Rxg2 47. Rb5 Re2 48. Kb6 Re6+ 49. Ka5 Re7 )38. Ra8 Ra3 (38... d4 {is no
+longer possible.} 39. exd4 Rd5 40. a7 $18 )39. Kh2 h5 40. a7 {One has to be
+absolutely sure about making this move, as White can never bring the king to
+a7 now. But Magnus knows that with this structure (pawn on d5), this is just
+winning:} Ra2 (40... h4 41. g4 {as Magnus mentioned} hxg3+ 42. fxg3 $1 {
+} (42. Kxg3 d4 )Kg7 43. Kg2 {White will slowly bring his
+king and capture d5, while Black can never play Ke4 because of Re8+.} Kf6 44. Kf2 {
+Black's moves do not matter, as he is just stuck.} Kg7 45. Ke2 Kf6 46. Kd2 Kg7 47. Kc2 Kf6 48. Kb2 Ra4 49. Kc3 Ra1 50. Kb4 Ra2 51. Kc5 { White
+now wins the pawn, as there is no Ra5+} Ra5+ 52. Kb6 {} )41. h4 Kf5 42. f3 Ra1 43. g3 {It might be a bit surprising to some why Vishy just
+resigned here, but Black basically cannot do anything, while White will bring
+the king in. He will capture the d5-pawn eventually, and then push the kingside
+pawns.} (43. g3 Ra2+ 44. Kg1 Kf6 45. Kf1 Kf5 46. Ke1 Kf6 47. Kd1 Kf5 48. Kc1 Kf6 49. Kb1 Ra5 50. Kb2 Ra4 51. Kb3 Ra1 52. Kb4 Ra2 53. Kc5 Ra3 54. Kxd5 Ra2 55. g4 )1-0
+

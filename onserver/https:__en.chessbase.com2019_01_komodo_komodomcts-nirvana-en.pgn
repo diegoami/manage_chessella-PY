@@ -1,0 +1,87 @@
+[Event "TCEC Season 14 - Division 2"]
+[Site "http://tcec.chessdom.com"]
+[Date "2018.12.08"]
+[Round "1.1"]
+[White "Komodo MCTS 2217.00"]
+[Black "Nirvana 2.4"]
+[Result "1-0"]
+[ECO "B49"]
+[WhiteElo "3479"]
+[BlackElo "3160"]
+[Annotator "Platz"]
+[PlyCount "66"]
+[EventDate "2018.??.??"]
+
+1. e4 c5 {Playing the Sicilian Defence requires thorough preparation, but the
+electronic monsters should be able to handle it, right?} 2. Nf3 e6 3. d4 cxd4
+4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Qc7 7. f4 Nf6 $5 (7... b5 $1) 8. Nxc6 (8. e5 $5)
+8... dxc6 9. O-O b5 10. Be3 Be7 11. e5 Nd5 12. Nxd5 cxd5 13. c3 Bd7 14. Qd2 a5
+15. Bd4 O-O {Castling into the enemy's attack. Can this be good?} 16. a3 Bc5 {
+Strategically this move is problematic, because White might exchange his own
+bad bishop for Black's good one. But on the other hand a king attack is
+threatening, and it might be advisable to reduce the white attacking potential
+by exchanging pieces.} ({By playing b5-b4 Black might establish some counter
+play and give his bad bishop a little more scope, but this is not so easy to
+accomplish, e.g.} 16... Rfb8 17. Bd3 g6 18. g4 Bf8 19. f5 b4 20. axb4 (20. fxg6
+fxg6 21. Qg5 Qd8 $1 $11) 20... axb4 21. Rxa8 Rxa8 22. Qf4 $1 ({
+this is better than} 22. cxb4 Qb8 23. Bc3 Qb6+ 24. Qf2 (24. Rf2 $2 exf5 25.
+gxf5 $2 Ra1+ 26. Kg2 d4 $1 $19) 24... Qxf2+ 25. Rxf2 Rb8 {, for White cannot
+defend the extra pawn without admitting a draw by a threefold repetition:} 26.
+Rf4 Bh6 27. Rf3 (27. Rd4 $2 Be3+) 27... Bf8 28. Rf4 Bh6 {, etc.}) 22... Ba4 23.
+h4 bxc3 24. bxc3 Qe7 25. h5 g5 26. Qf3 h6 {and White is better. He can open
+the f-line at a favourable moment, where the queen and rook are already
+doubled and regroup his forces beforehand without Black being able to do much
+himself.}) 17. Rfc1 ({After} 17. Bxc5 Qxc5+ 18. Qd4 {
+White has a little advantage in the endgame due to his good bishop.}) 17...
+Rfc8 18. g4 Qd8 ({A logical move is} 18... Bxd4+ {in order to exchange pieces}
+19. cxd4 ({or} 19. Qxd4 Qc5 {exchanging queens}) 19... Qb6 20. Kf2 ({if White wants to avoid the exchange of rooks he must leave the c-file to his adversary} 
+20. Rf1 b4 $1 21. f5 bxa3 22. Rxa3 Qb4 $1) 20... Rxc1 21. Rxc1 b4 $1 $14) 19.
+Kg2 Rab8 (19... Qh4 $5 20. Qe3 $1 Qe7 $14) 20. Kg3 Bf8 (20... b4 $5 21. cxb4
+Bxd4 22. Rxc8 Qxc8 23. Qxd4 axb4 24. a4 $1 $14) 21. b4 $1 {Thus Komodo
+prevents any possible black counter play by b5-b4, and in addition the bishop
+d7 remains blocked by his own pawn on b5.} Be7 22. Bd3 g6 $2 {You shouldn't
+play a move like that unless you are forced to. Now White can easily open
+files on the kingside.} (22... Rc6 {was an option to control the sixth rank
+as a precaution, which might become important after a later f4-f5.}) 23. h4 $1
+Bxh4+ $2 {This looks very much like suicide.} ({A human player might have tried
+} 23... h6 {with the idea} 24. h5 g5 25. Rf1 $16) 24. Kf3 $18 {The open h-line
+is worth much more than the lost pawn. Furthermore, the black bishop on h4 is in
+danger of being cut off by g4-g5.} Be7 (24... Qf8 $2 25. g5 $1 {and Black has
+no defence against the threatening loss of a piece by Rh1, Qh2 or Kg4.}) 25.
+Rh1 {Threatening 26.Qh2 attacking h7 or even 26.Rh3 followed by Rah1 and Qh2
+placing both rooks and the queen on the open h-file.} Bf8 (25... Qf8 26. f5 $1
+(26. Rh3 {is good enough, too, e.g.} f5 27. gxf5 exf5 (27... gxf5 $2 28. Qh2
+$18) 28. e6 $1 Bxe6 29. Qe2 Bd7 30. Qe5 $18) 26... f6 (26... exf5 27. gxf5 $18)
+27. Rxh7 $1 Kxh7 28. Rh1+ Kg8 $1 29. Qh2 Kf7 (29... Qg7 $2 30. g5 $1 $18) 30.
+fxe6+ Ke8 $1 (30... Bxe6 $2 31. Bxg6+ $1 Kxg6 32. Qh7+ Kg5 33. Qh5#) (30...
+Kxe6 $2 31. Bf5+ $1 gxf5 32. gxf5+ Kxf5 33. Qh3+ {mate in 2}) 31. Bxg6+ Kd8 32.
+exd7 Kxd7 (32... fxe5+ 33. Bf5 $18) 33. exf6 Bxf6 34. Bf5+ Kc6 $1 (34... Kd8 $2
+35. Bc5 $1 Be7 36. Qe5 $18) (34... Ke8 $2 35. Re1+ Be7 36. Qd6 Qf7 37. Bf6 $18)
+(34... Ke7 $2 35. Qe2+ Kd8 36. Qe6 $18) 35. Qh6 $18) 26. Rh3 ({
+This is better now than} 26. Qh2 h6) 26... h6 27. Rah1 Bg7 (27... axb4 28. axb4
+Bg7 29. Rxh6 $1 $18) (27... Kh7 $2 {defending h6 is bad on account of} 28. Qh2
+f5 29. Rxh6+ $1 Kg8 (29... Bxh6 $2 30. Qxh6+ Kg8 31. Qh8+ Kf7 32. Rh7#) (29...
+Kg7 30. Rh8 $18) 30. Rh8+ Kf7 31. Qh7+ Ke8 (31... Bg7 32. Qxg7+ $1 Kxg7 33.
+R1h7#) 32. Rxf8+ $1 Kxf8 33. Qh8+ Ke7 34. Rh7#) 28. Rxh6 $1 {
+A beautiful exchange sacrifice in the style of Paul Morphy.} Rxc3 {
+This is pure desperation.} (28... Bxh6 {doesn't help either:} 29. Rxh6 {
+threatening Qh2} Kg7 (29... Qf8 30. f5 $1 $18) 30. f5 $1 Qg8 (30... exf5 31.
+e6+) 31. fxg6 Kf8 32. Qg5 Rb7 33. Qf6 $18) 29. Qh2 $1 {A fine move sacrificing
+a bishop. This is even better than taking the black rook.} Rxd3+ 30. Ke2 f5 (
+30... Rxd4 $2 31. Rh8+ Bxh8 32. Qxh8#) (30... Bxh6 $2 31. Qxh6 {
+and Black will be mated}) (30... f6 31. Rxg6 $1 $18 ({or} 31. Rh8+ Kf7 $1 (
+31... Bxh8 $2 32. Qxh8+ Kf7 33. Rh7#) 32. Rxd8 Rxd8 33. Kxd3 $18) 31... Qf8 32.
+Rxf6 $1 $18) 31. Rxg6 $1 Qf8 (31... Rxd4 $2 32. Qh8+ $1 Kf7 33. Rxg7#) (31...
+Kf8 $2 32. Rxg7 $1 Kxg7 33. Qh7+ Kf8 34. Bc5+) 32. Rf6 $1 Re3+ {
+A check before resigning, but there were no more saving moves:} (32... Bxf6 $2
+33. Qh7#) (32... Qf7 33. Qh7+ Kf8 34. Bc5+ Ke8 35. Qh8+ $1 Bf8 (35... Bxh8 36.
+Rxh8+ Qf8 37. Rhxf8#) 36. Qxf8+ $1 Qxf8 37. Rxf8#) (32... Qxf6 33. Qh7+ Kf7 34.
+exf6 Ke8 (34... Rg8 35. Qh5+ Kf8 36. Bc5#) 35. Qxg7 Kd8 36. Rc1 $1 {
+this cuts off the black king's retreat, so that checkmate is unavoidable}) (
+32... Bh6 33. Rxf8+ Rxf8 ({or} 33... Kxf8 34. Qxh6+ Ke8 35. Qh8+ Kf7 36. Rh7+
+Kg6 37. Qg7#) 34. Qxh6 Kf7 35. Bc5 $1 {now good advice is expensive, because
+apart from pointless rook sacrifices there remains only} Rg8 (35... Re8 36.
+Qh7#) 36. Qf6+ Ke8 37. Qe7#) 33. Kxe3 Qxf6 {and Black resigned at the same
+time. This game proves that Komodo MCTS is able to play in the style of the
+famous romantic chess players like Morphy or Anderssen. The sacrifices made
+had a good positional basis.} 1-0

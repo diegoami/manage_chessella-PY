@@ -1,0 +1,56 @@
+[Event "Bundesliga 9293"]
+[Site "Germany"]
+[Date "1993.??.??"]
+[Round "?.3"]
+[White "Lau, Ralf"]
+[Black "Reeh, Oliver"]
+[Result "1/2-1/2"]
+[ECO "B64"]
+[WhiteElo "2530"]
+[BlackElo "2435"]
+[Annotator "Reeh,Oliver"]
+[PlyCount "66"]
+[EventDate "1992.10.24"]
+[EventType "team-tourn"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[SourceTitle "GER-chT"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.07.01"]
+[SourceQuality "1"]
+[WhiteTeam "Muenchen 36"]
+[BlackTeam "Solingen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 h6 10. Bh4 Bd7 11. Nf3 Qa5 12. Kb1 Rfd8 13. Qe1 Be8 14. Bc4 Qc7
+15. Bb3 Na5 16. g4 Nxb3 17. axb3 b5 18. g5 hxg5 19. fxg5 Nh5 20. g6 b4 21.
+gxf7+ Bxf7 22. Nb5 Qb7 23. Nbd4 Re8 24. Bxe7 Rxe7 25. Qh4 Rf8 26. Ng5 Nf6 27.
+Rhf1 Bh5 {28.Rd3! in the diagram position is the best move for White, but
+following 28...Qc8 29.Rg3? throws the win away. Can you spot Black's saving
+trick after that?} 28. Rd3 $1 Qc8 29. Rg3 $2 {One rook shift too many.} (29.
+Rxf6 $1 {[%csl Gf6][%cal Gh4h5] uproots the bishop h5 and wins, e.g.} gxf6 (
+29... Rxf6 30. Qxh5 Rf1+ 31. Rd1 $1 $18 ({not} 31. Ka2 $4 Qa6#)) 30. Ngxe6 $18
+{[%cal Ge6f8,Gh4h5,Gd3g3]}) {[%tqu "En","Black to play and draw.","Black's
+queen wants to give perpetual check. In order to do this, it must reach the
+white back rank...","","f6e4","",10]} 29... Nxe4 $1 {[%csl Ge4][%cal Gf8f1]
+Clearing the f-file towards the unprotected rook f1 - the invasion route for
+Black.} 30. Rxf8+ {[%tqu "En","Right capture for Black?","","","c8f8","",10]}
+Qxf8 {[%csl Gf8][%cal Ge4g5,Ge4g3] You bet. Black gets his queen in position,
+and his knight e4 doesn't give White any respite.} 31. Qxe4 {and a draw was
+agreed in view of} (31. Nxe4 {makes no difference.}) (31. Rf3 $2 Nd2+ $1 {
+[%csl Gd2][%cal Gd2b1,Gd2f3] sees Black even winning.} (31... Bxf3 $4 32. Qh7#
+{[%csl Rg8,Gh7][%cal Gg5h7]})) {[%tqu "En","Continuation, please.","","",
+"f8f1","",10]} 31... Qf1+ {[%csl Rb1,Gf1][%cal Gf1b1,Rb1a2] Black's queen
+enters the back rank with check. White cannot interpose, and his king has only
+got one square.} 32. Ka2 {[%tqu "En","And the final drawing anchor.","","",
+"f1a6","",10]} Qa6+ {[%csl Ra2,Ga6][%cal Ga6a2,Yb7c8,Yc8f8,Yf8f1,Yf1a6,Ra2b1]
+This long diagonal retreat completes Black's little queen pirouette
+b7-c8-f8-f1-a6. The king must return to the back rank - perpetual check.} 33.
+Kb1 Qf1+ $11 {Luck, an undeniable factor in chess. Next week you will have the
+chance to help the great Anatoli Karpov to score a full point... to from a
+completely lost position!} 1/2-1/2
+

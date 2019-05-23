@@ -1,0 +1,46 @@
+[Event "Dubna"]
+[White "Tal, Mihail"]
+[Black "Platonov, Igor V"]
+[Date "1973"]
+[Annotator "Nagesh Havanur"]
+[WhiteElo "2655"]
+[BlackElo ""]
+[ECO "B97"]
+[Result "1-0"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 {The Sicilian Najdorf}
+6. Bg5 e6 7. f4 Qb6 8. Qd2 Qxb2 {The Poisioned Pawn Variation against which
+Tal has scored quite a few sterling victories. However, it has survived and
+even thrived, thanks to the efforts of Bobby Fischer.} 9. Nb3 ( 9. Rb1 Qa3
+{is the Main Line.} )  9... Qa3 10. Bxf6 gxf6 11. Be2 Nc6 ( {Fischer's
+line}  11... h5 {preventing Bh5 and creating threats on the kingside} 12.
+O-O Nc6 13. Kh1 Bd7 14. Nb1 {Spassky's famous move from Game 11,
+Fischer-Spassky 1972 World Championship Match 1972} ( {In recent times} 14.
+Nd1 {has been tried with some success.} )  14... Qb4 15. Qe3 {was
+rehabilitated with}  15... Ne7 $1 {in the game Qui, JingXuan-Karpov,1983
+and Black won.} ) 12. O-O Bd7 ( {Or}  12... h5 13. Qe3 Bd7 14. Nb1 Qa4 15.
+Nc3 Qa3 $11 ) 13. Bh5 Bg7 14. Rf3 ( 14. Rad1 Rd8 15. Rf3 ( 15. Qxd6 Qxd6
+16. Rxd6 Ke7 $11 )  15... O-O 16. Rg3 Kh8 $13 {maintains some tension.} ) 
+14... O-O 15. Raf1 $2 {Typical Tal. He is bent on opening the f-file
+followed by an attack on the king.} ( 15. Rg3 Kh8 16. Rd1 Rac8 17. Qxd6
+Qxd6 18. Rxd6 Be8 $11 {is reasonable.} )  15... Na5 16. Rh3 {Targeting h7,
+the most vulnerable point in Black's position. However, it wouldnt have
+worked with precise defence by Black.} ( {If} 16. Nd4 $2  16... Qc5 $1 17.
+Bg4 f5 $19 ) ( {The line} 16. f5 $5  16... Nc4 17. Qf4 Rac8 {also deserves
+attention.} )  16... Nxb3 17. axb3 Rac8 18. Kh1 ( {Engines suggest} 18. Nd1
+{moving away the knight from its precarious position and re-deploying it on
+e3. But that is not Tal!} )  18... f5 19. exf5 ( {If} 19. e5 Qb4 20. Rd3
+dxe5 21. Rxd7 Qxc3 22. Qxc3 Rxc3 23. Rxb7 exf4 24. Rxf4 Rxc2 $17 )  19...
+Qb4 $1 {pinning the knight so that ...exf5 is possible} ( {The immediate} 
+19... exf5 $2 {is obviously met by} 20. Nd5 $16 ) 20. f6 $2 ( 20. Rg3 exf5
+21. Rff3 Rfe8 22. h3 Kf8 $17 )  20... Bxf6 21. f5 Rxc3 $2 (  21... exf5 $1
+{would have won. After} 22. Qh6 Bg7 23. Rg3 {there follows} ( 23. Bxf7
+Rxf7 24. Qxh7 Kf8 25. Nd5 Qd2 26. c4 Re8 27. Qh4 Bc6 28. Rhf3 Bxd5 29. cxd5
+Qxd5 30. Qg5 Qe6 )  23... Qxc3 $1 $19 {a beautiful line given by Estrin} )
+22. Rg3+ Kh8 $4 {Obvious and wrong!} ( {Instead he should have played} 
+22... Bg7 $1 23. Rxg7 ( 23. f6 $2  23... Rf3 $3 24. Rxg7 Kh8 25. Qd1 Rxf1
+26. Qxf1 )  23... Kxg7 24. Qg5 Kh8 25. Qf6 Kg8 $11 {draw by perpetual
+check} ) 23. Qh6 $1 { and Platov resigned. If} ( {If} 23. fxe6 $2  23...
+Rf3 $3 24. Qd1 Rxf1 25. Qxf1 fxe6 $19 )  23... Rxg3 24. Bg6 $3 {A finale
+that Tal was playing for.} 
+1-0

@@ -1,0 +1,64 @@
+[Event "Moscow Fide GP"]
+[Site "?"]
+[Date "2019.05.20"]
+[Round "2"]
+[White "Wei, Y..."]
+[Black "Nepomniachtchi, I..."]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "62"]
+[EventDate "2019.05.21"]
+
+{This game has the greatest mismatch in surname length out of any that I have
+annotated for ChessBase. However, in the past I have annotated a game
+Azmaiparashvili-Bu for another source...} 1. e4 c5 2. Nf3 d6 3. Bb5+ ({If we
+compare the position after} 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 {
+to the one after move 6 of the game, we see that Black has his bishop on a
+somewhat more active square and also had options like ...bxc6. Black contends,
+by playing 5...a6, that neither of these things matter.}) 3... Nd7 4. d4 (4.
+O-O {is usual.}) 4... cxd4 (4... Ngf6 5. Nc3 cxd4 6. Qxd4 e5 7. Qd3 h6 {
+would probably be my favoured way of playing- asking White to demonstrate
+whether there is something he'd rather do with the b5-bishop than exchange it
+on d7.}) 5. Qxd4 a6 (5... e5 6. Qd3 h6 {or similar is slightly less clever now
+because White can play} 7. c4 $14 {and Black doesn't have the right piece
+configuration to play the Kalashnikov structure.}) 6. Bxd7+ Bxd7 7. Nc3 e5 8.
+Qd3 h6 9. Nd2 Rc8 {The note to move 4 is really an attempt to reach this
+position- or something similar- while having economised on ...a6 (in the hope
+of being able to build towards a faster ...d5.)} 10. Nc4 Be6 11. Ne3 Nf6 12.
+O-O Be7 13. a4 O-O 14. a5 Qd7 15. Bd2 {We have reached a fairly equal
+middlegame. Black now decides that for various reasons he can't get ...d5, so
+it could be better to hint at a bishop manoeuvre to a7, while removing it from
+the knights' sphere of influence so that he can play ...Ne8 and ...f5.} Bd8 16.
+Ncd5 {I don't like this.} ({After the logical} 16. Rfd1 {Black might have
+intended the computer's ...b5, but to me it seems more likely that the
+intention was} Ng4 {-in which case White might well gain a tempo or two on the
+game, for instance by} 17. Nxg4 Bxg4 18. f3 Be6 19. Be3 Be7 20. Rac1 (20. Rd2
+Bc4 $1 $19) 20... f5 21. Nd5 Bd8 22. b4 fxe4 23. fxe4 {and while White is
+still not better, the position has become a lot harder for Black to play.})
+16... Nxd5 17. exd5 {Carlsen was commentating on the tournament, so it must
+have pleased him greatly to see more elite players opting for this bizarrely
+overrated structure with White! The move is essentially forced after Ncd5,
+which is why I have the problem with Ncd5.} Bg4 18. f4 exf4 (18... Bh5 {
+Keeping the bishop pair is a lot more natural.} 19. f5 {was presumably the
+idea, but I guess both players missed the strength of the intermezzo} Bg5 $1
+$36 {when Black exchanges off his bad bishop before playing ...f6, and also
+sets up various motifs involving ...e4.}) 19. Nxg4 Qxg4 20. Bxf4 Re8 {
+Threatening ...Re2, which White didn't feel like allowing.} ({Black had the
+option to try and generate winning chances with another unstereotyped move in
+the form of} 20... Qg6 $5 21. Qxg6 fxg6 22. c3 Rf5 23. Bxd6 Rxd5 24. Bb4 Bf6
+25. Rad1 Rcd8 26. Rxd5 Rxd5 {when White holds with decent play but it could be
+a little difficult to stop Black picking up a pawn at some stage.}) 21. Rf3 (
+21. Bxd6 Re2 22. Rf2 Rxf2 23. Kxf2 {and now if nothing else Black can solve
+his remaning structural issue with} Qh4+ 24. Kg1 Bxa5 $1 {and keep playing on.}
+) 21... Bf6 22. c3 Be5 23. h3 (23. Bxe5 Rxe5 24. Raf1 Rc7 {leaves Black with
+more active major pieces.}) 23... Qh4 24. Ra4 Bxf4 (24... g5 $5 {was playable,
+interestingly enough, but maybe Black didn't like the version of the rook
+ending which arises after} 25. Bxe5 Qe1+ (25... Qxa4 26. Rxf7 $18) 26. Qf1
+Qxf1+ (26... Rxe5 27. Rxf7 Qxf1+ 28. Rxf1 Rxd5 29. Rb4 Rc7 30. Rb6 $14 {
+Black's kingside is a bit looser than he would like.}) 27. Rxf1 Rxe5 28. Rb4
+Rc7 29. c4 {Maybe White can claim something here: the plan is b3 and Rb6.}) 25.
+Raxf4 Qe1+ 26. Rf1 Qe2 27. Qxe2 Rxe2 28. Rb4 Rc7 $11 {The position is dead
+level: both sides have equally weak queenside pawns.} 29. Rf2 (29. c4 Rc2 30.
+b3 Re7 {Unlike the previous note, here Black can activate at once, having
+economised on ...g5.}) 29... Re1+ 30. Rf1 Re2 31. Rf2 Re1+ 1/2-1/2

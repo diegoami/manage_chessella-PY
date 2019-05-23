@@ -1,0 +1,47 @@
+[Event "TCh-TUR 2nd League 2018"]
+[Site "Konya TUR"]
+[Date "2018.07.17"]
+[Round "3.8"]
+[White "Ancar, Furkan"]
+[Black "Gurbuz, Bayram"]
+[Result "*"]
+[ECO "A15"]
+[WhiteElo "1782"]
+[BlackElo "1733"]
+[Annotator "Karsten Müller"]
+[SetUp "1"]
+[FEN "8/8/5k2/2p5/p1P3K1/P5P1/8/8 b - - 0 76"]
+[PlyCount "26"]
+[EventDate "2018.07.16"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "TUR"]
+[SourceTitle "999"]
+[Source "ChessBase"]
+[SourceDate "2018.04.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.04.10"]
+[SourceQuality "1"]
+[WhiteTeam "MEZOPOTAMYA SPOR KULUBU"]
+[BlackTeam "BURSA NIDA SATRANC SPOR KULUBU"]
+
+76... Ke5 {Pawn endings might seem simple but can be real tricky.} {[%tqu "En",
+"White to play and win","","","g4f3","",10,"g4h5","",0,"g4h4","gewinnt
+ebenfalls.",0,"De","Weiß zieht und gewinnt","","","g4f3","",10,"g4h5","",0,
+"g4h4","gewinnt ebenfalls.",0] After} 77. Kh5 (77. Kf3 $2 {was the game
+continuation. Black is fast enough.} Kd4 78. g4 Kxc4 79. Ke4 ({After} 79. g5 {
+it's time to return:} Kd5 80. Ke3 Ke5 81. Kd3 Kf5 82. Kc4 Kxg5 83. Kxc5 Kf6 84.
+Kb5 Ke6 85. Kxa4 Kd7 86. Kb5 Kc7 $11) 79... Kb3 80. g5 c4 81. g6 c3 82. g7 c2
+83. g8=Q+ Kb2 $2 (83... Kxa3 84. Qc4 Kb2 85. Qb4+ Ka2 86. Qxa4+ Kb2 $11 {
+[%csl Ga4,Gb4,Gc3,Gc4,Gd3,Ge1,Ge2,Ge3] White's king is not in the winning zone.
+}) 84. Qb8+ $2 (84. Qg7+ Kb1 85. Qb7+ Ka2 86. Qc6 Kb2 87. Kd3 c1=Q 88. Qxc1+
+Kxc1 89. Kc3 $18) 84... Ka2 $2 (84... Kxa3 85. Qc7 Kb2 86. Qb6+ Ka2 87. Qc5 Kb2
+88. Qb4+ Ka2 89. Qxa4+ Kb2 $11 {[%csl Ga4,Gb4,Gc3,Gc4,Gd3,Ge1,Ge2,Ge3] White's
+king is not in the winning zone.}) 85. Qc7 Kb1 86. Kd3 c1=Q 87. Qxc1+ Kxc1 88.
+Kc3 Kd1 89. Kb4 Kd2 90. Kxa4 Kd3 91. Kb5 Kd4 92. a4 Kd5 93. a5 Kd6 94. Kb6) (
+77. Kh4 {also wins.}) 77... Kd4 78. g4 Kxc4 79. g5 Kb3 80. g6 c4 81. g7 c3 82.
+g8=Q+ {White queens with check and wins, e.g.} Kxa3 (82... Kb2 83. Qg7 Kb3 84.
+Kg4 c2 85. Qa1 $18) 83. Qc4 Kb2 84. Qb4+ Kc2 85. Qxa4+ Kc1 86. Kg4 c2 87. Qa2 {
+[%csl Ga5,Gb5,Gc5,Gd4,Gd5,Ge4,Gf4,Gg1,Gg2,Gg3,Gg4] White's king is in the
+winning zone.} Kd1 88. Kf3 c1=Q 89. Qe2# *
+

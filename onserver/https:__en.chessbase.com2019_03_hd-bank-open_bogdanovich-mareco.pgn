@@ -1,0 +1,17 @@
+[Event "9th HDBank Open 2019"]
+[White "Bogdanovich, Stanislav"]
+[Black "Mareco, Sandro"]
+[Site "Ho Chi Minh City"]
+[Round "7.1"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.03.11"]
+[WhiteElo "2536"]
+[BlackElo "2666"]
+[PlyCount "67"]
+
+1. d4 {} Nf6 2. Bg5 d5 3. e3 c6 4. Nf3 Bf5 5. Bxf6 exf6 6. c4 dxc4 7. Bxc4 Bd6 8. Nc3 0-0 9. 0-0 {D00: 1 d4 d5: Unusual lines} Bg4 (9... Nd7 10. Nh4 Be6 11. Bxe6 fxe6 12. Qb3 Qe8 13. Ne4 Bb8 14. Qxb7 Nb6 15. Rac1 Qh5 16. Nf3 g5 {1-0 (26) Fischer,S (2296)-Rusakovsky,O (2031) Wuerttemberg 2011} )10. h3 Bh5 $146 ({Predecessor:} 10... Be6 11. Bxe6 fxe6 12. Ne4 Rf7 13. Qb3 Re7 14. Nc5 Bxc5 15. dxc5 Qd5 16. Qc3 Na6 {0-1 (29) Voronkov,D (1960)-Kartsev,S 
+(2114) Moscow 2009} )11. g4 {White is slightly better.} Bg6 12. Nh4 Re8 13. Qf3 Nd7 14. Nf5 Nb6 15. Bb3 Qd7 16. h4 Bf8 17. h5 Bxf5 $1 18. gxf5 h6 19. Kh1 c5 20. dxc5 Bxc5 21. Rg1 {Black must now prevent Ne4.} Re5 $1 22. e4 Kh7 23. Rad1 Qc7 24. Rg4 $40 { White wants a kill.} Rg8 25. Ne2 {} a5 26. a4 Re7 27. Qg2 Rd7 ({Better is} 27... Qb8 $1 $14 )28. Rg1 $16 {} Bf8 29. Nf4 Qe5 (29... Qb8 $1 $14 )30. Rh4 $2 (30. Bxf7 $1 $18 {Hoping for Ne6.} Rxf7 31. Ne6 (31. Rh4 $2 Qe8 $19 ))Qe8 $11 31. Rg4 $2 (31. Qf3 $11 )Qe5 $18 {[#]} 32. Bxf7 $1 Rxf7 {[#]} 33. Ne6 $1 {Threatening mate with Rg6.} ({Don't go for} 33. Rh4 $2 Qe8 $19 )Bd6 $2 ({Not} 33... Kh8 34. Rg6 Qxe4 35. Qxe4 Nc8 36. Qg4 Ne7 37. Nd8 {
+Double Attack} Kh7 38. Nxf7 )(33... Qxb2 34. Nxf8+ Kh8 )34. f4 {
+Trapped Piece. Accuracy: White = 82%, Black = 37%.} 1-0
+

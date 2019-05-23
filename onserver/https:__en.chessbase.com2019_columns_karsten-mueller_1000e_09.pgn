@@ -1,0 +1,30 @@
+[Event "71st RUS-ch Superfinal 2018"]
+[Site "Satka"]
+[Date "2018.09.01"]
+[Round "7"]
+[White "Nepomniachtchi, Ian"]
+[Black "Khismatullin, Denis"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2768"]
+[BlackElo "2634"]
+[Annotator "Karsten Müller"]
+[SetUp "1"]
+[FEN "8/5r2/NbPk4/6pp/8/6KP/2R2P2/8 b - - 0 49"]
+[PlyCount "8"]
+[EventDate "2018.??.??"]
+[SourceTitle "1000"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+49... Ra7 {In the endgame passed pawns are particularly strong. They can queen
+- of course - but often they have even more to offer.} {[%tqu "En","White to
+move and win","","","c6c7","",3,"a6b4","",0,"De","Weiß zieht und gewinnt","",
+"","c6c7","",3,"a6b4","",0]} 50. c7 $1 {White sacrifices his passed pawn to
+liquidate into a won pawn endgame.} ({After} 50. Nb4 $2 Ra3+ 51. f3 Bc7 $11 {
+Black successfully blocks the passed pawn and White cannot win.}) 50... Bxc7
+51. Nxc7 $1 (51. Rxc7 $2 Rxa6 52. Rg7 Ra5 53. Rh7 Ke6 54. Rxh5 Kf6 $11) 51...
+Rxc7 52. Rxc7 Kxc7 53. h4 $1 {White opens the way for the king and wins.} (53.
+h4 $1 gxh4+ (53... g4 54. Kf4 Kd6 55. Kg5 Ke5 56. Kxh5 Kf5 57. Kh6 Kf4 58. Kg6
+Kf3 59. Kg5 Kxf2 60. Kxg4 $18) 54. Kxh4 Kd6 55. Kxh5 Ke5 56. Kg5 $18) 1-0
+

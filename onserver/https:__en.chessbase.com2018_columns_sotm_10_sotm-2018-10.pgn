@@ -1,0 +1,191 @@
+[Event "Czechoslovakian ty (UJCS), 1st prize"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Havel, Miroslav"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k4b2/8/8/8/6b1/6B1/6R1/6K1 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1926.??.??"]
+
+{In this position, White is to move and win. He has a consistent plan: Keep on
+attacking the bishops until one can be conquered. However, the attacks must be
+done correctly. This study, as part of the classical heritage, was reprinted a
+few times and is known under study enthusiasts, but also very instructive, and
+likely not known to a wide circle of players. So it is worth reproducing here,
+although the practical use will be limited. The first move is dictated by
+having to parry the threat of 1.-Bc5+ when Black can coordinate his pieces.
+The endgame of rook and bishop versus two bishops is drawn.} 1. Bf2 $1 Be6 $1 {
+Black must defend g8, and such small weaknesses in his positions are enough
+for White to win under threat of entering the eighth rank on a different line.}
+2. Rg6 $1 Bd5 ({Night falls after} 2... Bc4 3. Rc6 $18 {with the check on c8
+being the other threat.}) ({The a- and b-file is poisoned:} 2... Bb3 3. Ra6+
+Kb7 4. Rb6+ $18) 3. Rg5 $1 Bc4 $1 ({To understand the study, one must be aware
+again of the weak eighth rank:} 3... Be6 4. Re5 Bd7 5. Rd5 $18) 4. Rg4 $1 Bb3
+$1 5. Rg3 $1 Ba2 {. Is Black safe now?} ({A very unlikely motif occurs after} 
+5... Bc4 6. Rc3 Ba6 7. Rc6 Bb7 (7... Kb7 8. Rb6+ Ka7 9. Rf6+ $18) 8. Re6 $18 {
+, when the eighth rank once more decides.}) {No. the other bishop now is
+attacked - the a-file is now White's target to conquer by harassing Bf8.} 6.
+Rf3 $1 Be7 $1 7. Re3 $1 Bd6 $1 (7... Bc5 8. Re8+) (7... Bb4 8. Re4) (7... Bf8
+8. Re8+) 8. Rd3 {Black wants to play Bc5 now, but Bf2 protects that square. So
+he has to choose a bad square.} Bb4 (8... Be7 9. Rd7) 9. Rd4 ({Here also} 9.
+Rd1 Bc3 10. Rc1 {is winning, as White can attack the bishop again on the
+c-file and then switch to the a-file to win Ba2. This however is a loss of
+time dual, which does not destroy the study.}) 9... Be7 10. Ra4+ Kb8 11. Rxa2
+1-0
+
+[Event "Narodny Listy"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Havel, Miroslav"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "r2n2k1/8/5P2/2N1K3/8/4R3/5b2/8 w - - 0 1"]
+[PlyCount "16"]
+[EventDate "1939.??.??"]
+
+{This study shows a beautiful use of stalemate to save White. The play itself
+is, with the exception of 5.Ke7, not extraordinary, but the ending can give a
+smile.} 1. Rc3 Ra5 2. Kd6 Rxc5 ({Black must save his bishop to prevent} 2...
+Bxc5+ 3. Rxc5 Nb7+ 4. Ke7 $11) 3. Rxc5 Nb7+ {And now White isn't completely
+lost? No, there is a way out, a kind of Réti manoeuver move.} 4. Kd7 $1 Nxc5+ (
+4... Bxc5 5. Kc6 $11 {and the king goes to the queenside to win a piece.}) 5.
+Ke7 $1 {The point. The king now moves to the kingside to support his pawn.
+Black has blocked c5, but why not just pin the pawn?} ({Noteworthy is} 5. Ke8
+$2 Ne6 6. f7+ Kg7 $11) 5... Bh4 $1 6. Ke8 $1 Ne6 ({The other main variation} 
+6... Bxf6 $11 {leads to stalemate.}) 7. f7+ Kg7 8. f8=Q+ Nxf8 $11 {and we see
+the difference to 5.Ke8: With the bishop on h4, it is also stalemate now.}
+1/2-1/2
+
+[Event "Sach, 1st prize (correction Benko)"]
+[Site "?"]
+[Date "1944.??.??"]
+[Round "?"]
+[White "Havel, Miroslav"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1RK5/p7/k7/3p4/5P2/1R6/2P1p3/r7 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1944.??.??"]
+
+{The original study was incorrect, so we have the correction from Pál Benko
+here, first appeared in EG 77, April 1984. White to move and win. The pawn on
+e2 is very dangerous, so threats against the king must be created.} 1. R3b6+
+Ka5 (1... axb6 2. Ra8+ Kb5 3. Rxa1 $18) 2. R6b7 a6 ({Easier is} 2... Ka6 3. Ra8
+e1=Q 4. Raxa7#) 3. Rb5+ Ka4 (3... axb5 4. Ra8+ Kb4 5. Rxa1 $18) 4. R5b6 a5 ({
+The big issue is that protecting the pawn saves nothing:} 4... Ka5 5. Rxa6+
+Kxa6 6. Ra8+ Kb5 7. Rxa1 $18) 5. Rb4+ Ka3 ({Black can make a trick, but White
+comes out on top:} 5... axb4 6. Ra8+ Kb5 7. Rxa1 b3 {, and now only one move
+wins:} 8. f5 $1 b2 9. Rg1 $18) 6. Rd4 {White threatens mate in 2, protecting
+against it loses.} a4 (6... e1=Q 7. Rb3+ Ka2 8. Ra4#) 7. Rxa4+ Kxa4 8. Ra8+ $18
+1-0
+
+[Event "Réti MT, 1st commendation (S. Umenie)"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Havel, Miroslav"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "n2b4/8/8/4N3/k7/3Q1K2/p1P4q/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1950.??.??"]
+
+{Here we have a king hunt. White is to move and win, a goal only achieved by
+checkmating or winning the queen.} 1. Qa6+ Kb4 ({Havel, being a Bohemian
+composer, throws in a few checkmates:} 1... Ba5 2. Qc4+ Bb4 3. Qc6+ $1 Ka3 (
+3... Ka5 4. Nc4#) 4. Nc4# {with a nice model mate.}) 2. Nd3+ Kc3 3. Qa3+ Kd2 4.
+Qc1+ Kc3 5. Qb2+ Kc4 (5... Kd2 6. c3+ Kxd3 7. Qxh2 a1=Q 8. Qe2+ Kxc3 9. Qe5+)
+6. Qxa2+ Kc3 {The other squares would have led to Pc2 moving.} 7. Qb2+ Kc4 8.
+Qb3+ Kd4 9. Qa4+ $1 Kd5 (9... Kc3 10. Qb4+ Kxc2 11. Qb2+ $18) 10. Qd7+ Qd6 (
+10... Kc4 11. Qc6+ Kd4 12. Qc5#) 11. c4+ {and the pawn still decides.} 1-0
+
+[Event "Sachove Umenie, 1st prize"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Havel, Miroslav"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k1K3R1/p1pppp2/P5R1/b7/b7/2r3p1/1n6/3r4 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1950.??.??"]
+
+{The final study is more of a directmate problem that would have had ugly side
+variations if published as such. White is to move and win. As a directmate, it
+would have to be rendered as mate in six, but the thematic variations are all
+only four or five moves long, thus the publication as study. The same idea - a
+Novotny, as it is called in problem terms - of obstructing the bishop and rook
+line with a sacrifice is shown three times on the three different files d, e,
+and f. All given variations are main variations.} 1. Kd8 Bb4 (1... Re3 2. Ke8
+Bb3 (2... Rf1 3. Kf8 Bc3 4. Rf6 $1 {[%cal Yf1f7,Yc3g7]} Rxf6 (4... Bxf6 5.
+Kxf7#) 5. Kg7#) 3. Re6 $1 {[%cal Ye3e7,Yb3f7]} Bxe6 (3... Rxe6 4. Kxf7#) 4.
+Kxe7#) 2. Ke8 Bb3 3. Rd6 $1 {[%cal Yd1d7,Yb4e7]} Rxd6 (3... Bxd6 4. Kxd7#) 4.
+Kxe7# 1-0
+
+[Event "Sachove Listy (B.G. 4B)"]
+[Site "?"]
+[Date "1900.08.??"]
+[Round "?"]
+[White "Havel, Miroslav"]
+[Black "Mate in three"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7Q/3K4/5p2/6p1/1B2k1B1/4p3/4p1pp/8 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1900.??.??"]
+
+{This checkmate in three shows rotated echoes, as can be seen by the almost
+identical but rotated configuration of QBBkpp in the thematic variations.} 1.
+Qc8 $1 {impure threat (not given in the book):} -- (1... Kd4 2. Bc3+ Kd3 (2...
+Ke4 3. Qc4#) 3. Bf5# {echo}) (1... Kf4 2. Qc4+ Kg3 3. Be1# {echo}) 2. Qc4+ Ke5
+3. Bd6# {It seems as if the unthematic variations are almost completely
+deliberately made dualistic, including the threat, to make the echoes stand
+out.} (3. Bc3#) 1-0
+
+[Event "Zlata Praha (B.G. 67)"]
+[Site "?"]
+[Date "1918.02.20"]
+[Round "?"]
+[White "Havel, Miroslav"]
+[Black "Mate in three"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7K/N2pp2p/1R6/k1n1Q1p1/1Rp1pp2/8/4pq2/7r w - - 0 0"]
+[PlyCount "3"]
+
+{This checkmate in three shows two echoes, although one is given originally -
+in the book -  in the threat line, as they share the same second move. Here
+the mates are models, i.e. there is only one reason for each square why Black
+can't enter it with his king.  The price is using a lot of pawns for Black.} 1.
+Nb5 {threat:} -- (1... Rb1 2. Nc7 Rxb4 3. Ra6# {echo 1}) (1... Rh6 2. Nc3 Rxb6
+3. Ra4# {echo 1}) (1... Kxb6 2. Qc7+ Ka6 3. Qa7# {echo 2}) (1... Kxb4 2. Qc3+
+Ka4 3. Qa3# {echo 2}) 2. Nc7 {[%cal Gb6b5]} 1-0
+
+[Event "Besedy Lidu (B.G. 74C)"]
+[Site "?"]
+[Date "1919.08.14"]
+[Round "?"]
+[White "Havel, Miroslav"]
+[Black "Mate in three"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3K4/2B3p1/2B5/2k5/ppNp4/2N5/8/6Qn w - - 0 0"]
+[PlyCount "5"]
+
+{The final checkmate in three moves shows the slight asymmetry in an almost
+symmetric position. The key can also be seen logically, but the problem does
+not belong to the Logical or Neudeutsche school because of it. 1.Qg5+ fails to
+1.-K:c4, but after 1.-b:c3 or 1.-d:c3 this move works. The move 1.Qc1 can't
+however be seen as a strict logical foreplan, rather this theme is accidental.
+} 1. Qc1 $1 bxc3 (1... dxc3 2. Qg5+ Kxc6 (2... Kxc4 3. Qd5#) (2... Kd4 3. Qd5#)
+3. Na5#) (1... Kxc4 2. Ne2+ Kb3 (2... Kd3 3. Nf4#) 3. Bd5#) 2. Qg5+ Kxc6 (2...
+Kxc4 3. Qb5#) (2... Kb4 3. Qb5#) 3. Na5# 1-0
+

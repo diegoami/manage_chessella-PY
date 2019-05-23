@@ -1,0 +1,74 @@
+[Event "Tata Steel Masters"]
+[Site "?"]
+[Date "2019.01.18"]
+[Round "6"]
+[White "Rapport, R."]
+[Black "Kramnik, V."]
+[Result "1/2-1/2"]
+[Annotator "DF"]
+[PlyCount "187"]
+[EventDate "2019.01.18"]
+
+{[%evp 0,187,31,33,25,4,8,-9,16,14,-8,26,14,-7,-12,0,39,6,-9,-9,12,-3,6,3,9,
+-16,9,-13,-8,-8,8,8,19,34,37,-21,-6,-6,19,-18,-29,-40,-30,-12,23,25,5,-59,-11,
+-48,-13,-13,-24,-24,-35,-27,-34,-12,46,24,18,0,0,0,0,16,99,6,0,0,-22,0,99,124,
+118,124,106,115,117,81,97,108,53,31,61,61,55,-5,-5,-52,35,-18,11,0,-44,-61,0,
+-36,0,0,-3,-46,-23,-44,-44,-116,-86,-61,-25,-26,-11,-11,-9,-9,51,-2,73,-13,-12,
+-100,-79,-117,-59,-71,-66,-121,-130,-110,-53,-47,-41,-41,-40,-40,-40,-40,-40,
+-40,-40,-40,-41,-41,-41,-41,-41,-41,-41,-41,-41,-41,-40,-41,-40,-40,-40,-40,
+-40,-40,-40,-43,-42,-42,-40,-40,-41,-40,-43,-42,-40,-42,-40,-40,-40,-40,-41,
+-41,-40,-42,-41,-41,-40,-41,-40,-41,-41,-40,-40,-40,0,0]} 1. e4 e5 2. Bc4 Nf6
+3. d3 Bc5 4. Nc3 c6 5. Nf3 d6 6. h3 O-O 7. O-O Re8 8. Ne2 {Philosophically,
+the position is behaving very similarly to the Four Knights with 4.Bb5.} Nbd7 (
+{It is possible to break with} 8... d5 {and indeed I wonder why Kramnik chose
+not to.} 9. Bb3 h6 {and White must make a determination about the centre.} 10.
+Ng3 (10. exd5 cxd5 11. d4 e4 $1 $36) 10... dxe4 11. Nxe4 Nxe4 12. dxe4 Nd7 $11
+{Both active bishops will be opposed quite soon by their rivals for the same
+colour-complex, and forced to vacate their 'quite long' diagonals on pain of
+being traded.}) 9. Ng3 Nf8 10. c3 Bb6 11. Bb3 Be6 12. a4 ({I can't help
+thinking White has something in this position: perhaps} 12. Re1 {and Nf5.})
+12... d5 $1 13. Bg5 (13. Ng5 {is thematic too, but perhaps not that effective
+here.} Bd7 $1 $11) (13. Nxe5 dxe4 14. d4 N8d7 15. a5 $5 Bc7 16. a6 Bxb3 17.
+Qxb3 Nxe5 18. dxe5 Bxe5 19. axb7 Rb8 20. Be3 {would be very tempting if not for
+} Qd5 $1 $11) 13... h6 14. Bxf6 Qxf6 15. d4 Ng6 16. a5 Bc7 17. dxe5 Nxe5 18.
+Nd4 ({The human eye is drawn to} 18. Nxe5 Bxe5 19. exd5 cxd5 $44 {; even if
+White can't take a pawn, maybe he can magic the g3-knight to d4 and swap off a
+pair or two of major pieces. However, this proves impossible.}) 18... Rad8 19.
+f4 Qg6 20. Ngf5 $6 (20. Kh2 dxe4 {ultimately fizzles out after great
+complications, though White should still try them.} 21. Bxe6 fxe6 (21... c5 $5
+22. Bf5 Qa6 23. fxe5 Bxe5 24. Qe1 cxd4 25. cxd4 Rxd4 26. Kh1 $14) 22. fxe5 c5
+23. Qc1 $1 Bxe5 24. Nde2 Rd3 25. Rf4 h5 $1 $11) 20... Nd7 (20... Nc4 $1 $15 {
+could potentially be a bit stronger}) 21. a6 $6 (21. Nxe6 fxe6 22. Nd4 $15 {
+wouldn't be every Black player's cup of tea.}) 21... Nc5 22. axb7 Nxe4 23. Qg4
+Bxf5 24. Nxf5 Qxg4 (24... Qf6 $1 $17 {is more appealing somehow, trying to win
+with better piece quality.}) 25. hxg4 Nd2 26. Ba4 $1 {Establishing dynamic
+equality-more or less.} Bb6+ (26... Nxf1 27. Kxf1 Re4 28. g3 c5 29. Bb3 $15)
+27. Kh2 Nxf1+ 28. Rxf1 Re6 {Possibly thinking that White couldn't take any
+pawns.} (28... Re2 {makes a lot more sense, if you've realised that c6 will be
+edible in any case.} 29. Nd4 Bxd4 30. cxd4 Rxb2 31. Bxc6 $11 {but Black is the
+one playing to win.}) 29. Bxc6 $1 g6 30. Nxh6+ {It transpires that Black
+doesn't even have that many ways to win two pieces for a rook, contrary to
+appearances.} Kg7 31. Bxd5 Ree8 (31... Kxh6 32. Bxe6 fxe6 33. Rd1 $3 $16) 32.
+Bxf7 Re2 $6 {A rather exuberant move.} (32... Rh8 33. g5 Rxh6+ 34. gxh6+ Kxf7
+35. Rd1 $18) (32... Re7 {Black has played correctly up to this point, but he
+should now just eliminate the b7-pawn and move on.} 33. g5 Rxb7 34. Bc4 $11 {
+Both sides are playing to win.}) 33. Bc4 Rxb2 34. Nf7 Rb8 35. Ng5 Bf2 36. Bd5
+a5 37. Ra1 Rh8+ 38. Nh3 g5 39. fxg5 $6 {Just before the time control. Now
+Black equalises.} (39. f5 $16 {was extremely strong and the logical
+culmination of what White's been doing for a few moves.}) 39... Bb6 40. Re1
+Bc7+ 41. Kg1 Bd6 42. Ra1 $2 {Throwing away the second half-point.} ({It was
+time to start playing for perpetual check:} 42. Re6 Rd8 43. Be4 a4 44. Rg6+ Kf7
+45. Rf6+ Ke7 46. Nf4 Bxf4 47. Rxf4 a3 48. Rf1 a2 49. Kh2 $1 $11 {with an
+unusual mutual impasse.}) 42... Bg3 43. g6 a4 {Now Black should be winning,
+but of course this is a tremendously tricky position.} 44. Kf1 Re8 45. Ng5 Re5
+$6 {Assuming that the extra material will guarantee a win in case pieces are
+traded, but right here that isn't true.} (45... a3 46. Ne4 a2 $3 $19 {was the
+key detail to see here.}) 46. Ne4 Rxd5 47. Nxg3 Rdd2 {After this point, the
+game never left the drawing margin.} 48. Nf5+ Kf6 49. g7 Kf7 50. Re1 Rxb7 51.
+g5 Rd8 52. Ra1 Ra7 53. Ra3 Kg6 54. g4 Kxg5 55. c4 Rb8 56. Ke2 Ra6 57. Kd2 Rg8
+58. Kc3 Kxg4 59. Nd4 Rxg7 60. Kb4 Rga7 61. Nb5 Ra8 62. Nc3 Rb8+ 63. Nb5 Rc8 64.
+Rxa4 Rxa4+ 65. Kxa4 Rxc4+ 66. Kb3 Rc8 67. Kb4 Kf4 68. Nd6 Rc6 69. Nb5 Ke4 70.
+Nc3+ Kd4 71. Nb5+ Kd3 72. Kb3 Rc4 73. Na3 Rc1 74. Kb4 Rh1 75. Nb5 Rh5 76. Nd6
+Kd4 77. Nb5+ Kd5 78. Nc3+ Kc6 79. Kc4 Rh4+ 80. Kd3 Kc5 81. Ne4+ Kd5 82. Nc3+
+Ke5 83. Nb5 Rg4 84. Nc3 Rb4 85. Ne2 Kd6 86. Nc3 Rh4 87. Ne4+ Ke5 88. Nc3 Rd4+
+89. Ke3 Rd8 90. Ne2 Rh8 91. Kd3 Rh3+ 92. Kc4 Rh2 93. Kd3 Rxe2 94. Kxe2 1/2-1/2

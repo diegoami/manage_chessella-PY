@@ -1,0 +1,119 @@
+[Event "Oklahoma City Winter Open"]
+[Site "Peoria"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Harris, Jonathan"]
+[Black "Infante, Manuel"]
+[Result "1-0"]
+[ECO "C42"]
+[Annotator "Speelman,Jonathan"]
+[PlyCount "122"]
+[EventDate "1980.??.??"]
+[SourceVersionDate "2015.07.13"]
+
+{[%evp 0,122,32,32,38,18,63,-8,46,31,36,23,12,8,10,12,18,13,8,2,13,14,16,5,12,
+-9,23,4,4,2,18,-3,30,-122,-176,-207,-207,-245,-233,-662,-400,-472,-442,-442,
+-224,-321,145,149,144,160,230,271,587,595,676,702,863,860,847,588,560,595,596,
+423,431,437,549,561,556,424,416,365,365,363,374,363,365,368,384,394,397,364,
+376,359,399,406,472,372,381,330,387,288,286,290,292,254,251,263,362,391,392,
+285,299,295,298,292,297,396,424,414,447,513,972,1012,972,1012,1022,1289,29967,
+1022,1032,29970,29975,1299,29969]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4
+5. d3 Nf6 6. Be2 Be7 7. O-O O-O 8. Nc3 Nc6 9. Re1 d5 10. d4 Re8 11. a3 a6 12.
+Rb1 Bg4 13. Ne5 Bxe2 14. Rxe2 Bd6 15. f4 {Rather weakening since the knight
+isn't stable on e5.} Nd7 16. Nxd5 $2 {[#]} Nxd4 $1 17. Rd2 (17. Rf2 {Now Black
+is much better.}) 17... Nxe5 18. fxe5 Rxe5 19. Nc3 (19. Rxd4 Bc5 20. Be3 Bxd4 {
+simply wins material}) 19... Bc5 20. Kf1 {[#]} Qf6+ (20... Rf5+ {won on the
+spot since if} 21. Rf2 Rxf2+ 22. Kxf2 Qh4+ 23. Kf1 Re8 {White is completely
+helpless}) 21. Rf2 Rf5 22. Be3 Nxc2 $2 (22... Re8 23. Nd5 Qe5 {Should win
+though not as easily as Rf5+ a couple of moves ago.} 24. c3 (24. c4 Qxh2 25.
+Rxf5 Nxf5 26. Bxc5 Ng3+ 27. Kf2 Ne4+ 28. Kf1 Nxc5) 24... Nb3 25. Bxc5 Qxd5 26.
+Qxd5 Rxd5 27. Bd4 c5) 23. Qxc2 Rxf2+ 24. Bxf2 Rd8 $2 {losing a second piece.}
+25. Ne4 Qh6 26. Qxc5 Qxh2 27. Qe7 Rf8 28. Rd1 h6 29. Rd8 Rxd8 30. Qxd8+ Kh7 31.
+Qh4 Qe5 32. Nc3 Qd6 33. Qe4+ Qg6 34. Qxg6+ Kxg6 {[#]} 35. Ke2 {Manny now
+fought valiantly but with two extra pieces, White was obviously winning.} Kf5
+36. Nd5 c6 37. Ne7+ Ke6 38. Nc8 f5 39. Kf3 g5 40. Be3 f4 41. Bd2 Kd5 42. Kg4
+Kd4 43. Kh5 Kd3 44. Bc3 (44. Kxh6 Kxd2 45. Kxg5 Ke3 46. Kg4 {was one pretty simple way to convert}) 44... Ke2 45.
+Kxh6 g4 46. Kg5 f3 47. gxf3 gxf3 48. Bd4 Kd3 (48... f2 49. Bxf2 Kxf2 {is
+losing but with the black king quite close to the queenside, the pawns now needs a
+little care.} 50. Nd6 b6 51. Kf4 Ke2 52. Ke5 Kd3 53. Nc8 Kc2 54. Nxb6 Kxb2 55.
+a4) 49. Bb6 Ke2 50. Kf4 f2 51. Bxf2 Kxf2 52. Ke4 Ke2 53. Kd4 Kd2 54. Kc4 Kc2
+55. b4 Kb2 56. a4 b5+ 57. axb5 axb5+ ({or} 57... cxb5+ 58. Kc5 Kb3 59. Na7 Ka4
+60. Nc6 Kb3) 58. Kc5 Kb3 59. Nd6 Kc3 60. Nxb5+ Kb3 61. Nc7 Ka3 {[#] And Manny
+resigned in view of Na6 followed by Kxc6. A sad end to a game in which he was
+totally winning early on.} 1-0
+
+[Event "Oklahoma City Winter Open"]
+[Site "Peoria"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Infante, Manuel"]
+[Black "Cha, M....."]
+[Result "1-0"]
+[ECO "B19"]
+[Annotator "Speelman,Jonathan"]
+[PlyCount "57"]
+[EventDate "1980.??.??"]
+[SourceVersionDate "2015.07.13"]
+
+{[%evp 0,57,22,38,77,67,60,44,44,33,39,42,61,46,48,41,32,28,26,31,30,34,34,12,
+12,11,22,-21,-22,-13,-8,-2,-21,-38,-8,-52,-38,-164,-79,-122,37,34,17,-130,295,
+-152,349,349,283,61,579,-403,29997,29998,29999,-2185,29997,29998,29999,1079]} 
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. Qe2 Bd6 13. c4 O-O 14. Ne4 Nxe4
+15. Qxe4 Nf6 16. Qc2 c5 17. O-O-O cxd4 18. g4 {[#] This is the sort of thing
+you can do as White in this line though I imagine that there are more accurate
+sequences.} Rc8 19. g5 Ng4 (19... b5 20. Kb1 Rxc4 21. Qd3 Ng4 22. Rhf1 {
+is given as slightly better for Black by my engine but very unclear in
+practice.}) 20. gxh6 Nxh6 21. Rdg1 d3 $2 {Fatally weakening the long black
+diagonal.} (21... Nf5 {still seems okay.}) 22. Rxg7+ $6 {Very tempting but in
+fact over eager.} (22. Qc3 Nf5 23. h6 f6 24. hxg7 Nxg7 25. Qxd3 {would have
+powered through.}) 22... Kh8 $2 (22... Kxg7 23. Rg1+ Kh8 24. Qc3+ f6 25. Bxh6
+Rg8 {should defend and win.}) 23. Qc3 f6 24. Rhg1 Qb6 {[#]} 25. Rg8+ $2 {
+The beginning of a series of mistakes.} (25. R7g6 Nf5 26. Rxf6 {should win
+pretty easily.}) 25... Rxg8 (25... Nxg8 $1 {left Black a rook up.}) 26. Qxf6+
+Kh7 27. Qf7+ $4 {As I said in the introduction, grandmasters can blunder their
+queens too.} Kh8 $4 28. Qf6+ Kh7 29. Ng5+ (29. Ng5+ Rxg5 30. Rxg5 Rg8 (30...
+Rxc4+ 31. Kb1) 31. Rg6 Nf5 32. Rh6+ Nxh6 33. Qxh6# {is mate so Black resigmed.}
+) 1-0
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Campora, Daniel Hugo"]
+[Black "Speelman, Jonathan S"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+[WhiteElo "2455"]
+[BlackElo "2535"]
+[Annotator "Speelman,Jonathan"]
+[PlyCount "82"]
+[EventDate "1981.06.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[EventCategory "9"]
+[SourceTitle "MCD"]
+[Source "ChessBase"]
+[SourceVersion "1"]
+[SourceQuality "1"]
+
+{[%evp 0,82,37,32,60,57,77,44,29,29,61,49,48,48,40,29,29,8,8,-1,12,10,14,7,16,
+9,11,4,24,49,90,83,83,97,97,97,97,67,67,65,102,90,83,96,173,91,91,48,58,60,43,
+37,13,-61,-74,-88,9,-36,-41,-36,-36,-14,0,0,0,-99,-25,-174,68,0,0,0,0,0,0,-29,
+15,-12,-43,-12,1,11,1134,-95,-111]} 1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5
+5. Ng3 Bg6 6. h4 h6 7. Nh3 e6 8. Nf4 Bh7 9. Bc4 Na6 10. Qe2 Nc7 11. c3 Nf6 12.
+Bd3 Bxd3 13. Nxd3 Qd5 14. Bf4 O-O-O 15. Bxc7 Kxc7 16. Ne5 Bd6 17. Nxf7 Qxg2 18.
+Nxd8 Rxd8 19. Rf1 Re8 20. Qe3 Qd5 21. f4 g5 22. hxg5 hxg5 23. Ne2 g4 24. Qd3
+Rh8 25. Qg6 Be7 26. O-O-O Rh2 27. Rde1 Qc4 28. Qc2 Qxa2 29. Rh1 Rf2 30. Rhf1
+Rh2 31. Rh1 Rf2 32. Qd3 Nd5 33. Rh7 b5 34. Qb1 Qa4 35. Qc2 Qa2 36. Qb1 Qa4 37.
+Kd2 Kb6 38. Rf1 Rf3 39. Rxf3 gxf3 40. Nc1 {[#] After a massive time scramble I
+found a 40th move which prevented his intention of Nd3 but put my queen en
+prise! Realising what I had done I attempted to shake hands and resign but he
+looked totally baffled so I went for a walk. About five minutes later, he
+played Nd3 so I answered Nxc3 and offered a draw which he fairly soon accepted.
+It was only after we'd finished that I had to tell him (sometimes it's rude to
+tell your opponent they've missed something but in this case somebody else
+would certainly have done so soon enough) that he could have taken my queen!}
+Qb3 41. Nd3 Nxc3 1/2-1/2
+

@@ -1,0 +1,52 @@
+[Event "67th ch-HUN 2018"]
+[Site "Budapest HUN"]
+[Date "2018.12.06"]
+[Round "2.2"]
+[White "Almasi, Z."]
+[Black "Aczel, G."]
+[Result "0-1"]
+[ECO "A11"]
+[WhiteElo "2689"]
+[BlackElo "2549"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "56"]
+[EventDate "2018.12.03"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "HUN"]
+[SourceTitle "The Week in Chess 1257"]
+[Source "Mark Crowther"]
+[SourceDate "2018.12.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.12.10"]
+[SourceQuality "2"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. c4 e6 5. O-O Nf6 6. d3 dxc4 7. dxc4 Nbd7 8.
+Nc3 Qc7 9. Qc2 Be7 10. Nh4 Ne5 11. h3 Bh5 12. Bf4 Nfd7 13. Nf3 Bxf3 14. exf3 g5
+15. Bc1 Ng6 16. b4 h5 17. Ne4 h4 18. c5 hxg3 19. fxg3 f5 20. Nd6+ Bxd6 21. cxd6
+Qxd6 22. Qb3 O-O-O 23. Bxg5 {In the diagram White's soft king's position far
+outweighs the hanging rook on d8. Yet precision is still required - your black
+attacking move, please!} {[%tqu "En","What's the best move for Black?","","",
+"h8h3","",10,"d6g3","",0]} Rxh3 $1 {[%csl Rg1,Gg3] The best way to expose the
+white king, the point g3 of course remaining the real target. Question: have
+you got your black answer ready to 24.f4 now?} (23... Qxg3 {allows} 24. f4 $1 {
+[%cal Gb3h3]} Rxh3 (24... Qxb3 25. axb3 {[%cal Ga1a7,Gg5d8]}) 25. Qxg3 Rxg3 26.
+Bxd8 {which is also better for Black, but "clearly less clear".}) 24. Rad1 (24.
+Bxh3 Qxg3+ 25. Bg2 Qxg5 $19 {[%csl Gg6][%cal Gg6f4] The knight coming to f4
+says it all.}) (24. f4 {[%tqu "En","And important line: White's 24.f4 has
+shielded the point g3. What now?","","","d6d4","A simple check and yet so
+strong - Black wins the rook a1.",10]} Qd4+ {[%csl Gd4,Rg1][%cal Gd4g1,Gd4a1,
+Yf1f2] A simple check and yet so strong - Black conquers the rook a1. (This
+also wins after 24.Bxd8.)}) 24... Qxg3 {[%csl Gf4,Rg1,Gh2,Gh4] The queen
+captures the pawn g3 in front of the white king, and the weakness of the dark
+squares quickly proves fatal.} 25. Bxd8 {[%tqu "En","Black is spoilt for
+choice, but 25...Nf4! 26.Rf2 allows a most beautiful mate finale.  Can you see
+it? (Please play 25...Nf4!)","","","g6f4","",10]} Nf4 $1 {[%csl Gf4,Rg1][%cal
+Gg3g2]} 26. Rf2 (26. Rd2 Ne5 $1 {[%csl Ge5,Gf4,Gg3,Gh3] would be a nice
+display of complete domination:} 27. Bf6 Qh2+ 28. Kf2 Qxg2+ 29. Ke1 Ned3+ 30.
+Qxd3 (30. Rxd3 Qe2#)) {[%tqu "En","Mate in 3 - go ahead!","","","g3h2","",10]}
+26... Qh2+ {[%csl Rg1,Gh2]} 27. Kf1 {[%tqu "En","Continuation?","","","h2h1",
+"and White resigned on account of",10]} Qh1+ {and White resigned on account of}
+28. Bxh1 {[%tqu "En","Enjoy!","","","h3h1","",10]} Rxh1# {[%csl Rf1,Gf4,Gh1]
+[%cal Gf4g2,Gf4e2,Gh1f1] Checkmate!} 0-1
+

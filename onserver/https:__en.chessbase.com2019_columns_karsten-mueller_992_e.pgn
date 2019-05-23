@@ -1,0 +1,50 @@
+[Event "11th Paracin Summer Open"]
+[Site "Paracin SRB"]
+[Date "2018.07.07"]
+[Round "3.5"]
+[White "Damljanovic, B."]
+[Black "Peng, Shunkai"]
+[Result "*"]
+[ECO "A14"]
+[WhiteElo "2508"]
+[BlackElo "2390"]
+[Annotator "Karsten Müller"]
+[SetUp "1"]
+[FEN "8/6p1/2P4p/3K1k2/8/R5P1/8/2r5 b - - 0 53"]
+[PlyCount "22"]
+[EventDate "2018.07.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SRB"]
+[SourceTitle "992"]
+[Source "Mark Crowther"]
+[SourceDate "2018.07.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.07.16"]
+[SourceQuality "2"]
+
+53... Kg4 {Rooks belong behind passed pawns. It was Dr. Tarrasch who
+formulated this famous principle and though there are, of course, exceptions
+and positions in which the rook is better placed on the side of the pawn, in
+rook endings this is still a very good rule of thumb.} {[%tqu "En","White to
+play and win","","","d5d6","",0,"a3a4","",3,"a3a5","",0,"De","Weiß zieht und
+gewinnt","","","d5d6","",0,"a3a4","",3,"a3a5","",0]} 54. Ra4+ {A strong
+"zwischenzug".} (54. Kd6 $2 {was the move played in the game which ended in a
+draw.} g5 55. c7 ({Now it's too late for} 55. Ra5 Rxc6+ 56. Kxc6 h5 $1 57. Kd5
+h4 58. gxh4 gxh4 59. Ke4 h3 60. Ra8 h2 61. Rh8 Kg3 $11) 55... h5 56. Ra5 (56.
+Kd7 h4 $11) 56... Rxc7 57. Kxc7 h4 $1 ({Of course not} 57... Kxg3 $2 58. Rxg5+
+Kh4 59. Rg8 Kh3 60. Kd6 h4 61. Ke5 Kh2 62. Kf4 h3 63. Kf3 Kh1 64. Rh8 h2 65.
+Ra8 Kg1 66. Ra1#) 58. gxh4 gxh4 59. Kd6 h3 60. Ke5 h2 61. Ra1 Kg3 62. Kf5 Kg2
+63. Ra2+ Kg3 64. Ra1 Kg2 65. Kg4 h1=Q 66. Ra2+ Kf1 67. Ra1+ Kg2 68. Ra2+ Kf1
+69. Ra1+ Kg2 70. Ra2+ {Draw}) ({But not} 54. Ra5 $2 g5 (54... Kxg3 $2 55. Rc5
+$18) 55. Rc5 Rd1+ 56. Ke6 Rd8 57. Rc3 h5 58. c7 Rc8 59. Kd7 Rxc7+ 60. Kxc7 h4
+$11) 54... Kxg3 55. Rc4 {Now White's rook is behind his passed pawn.} Rd1+ (
+55... Rxc4 56. Kxc4 h5 57. c7 h4 58. c8=Q h3 59. Kd3 h2 60. Qc6 $18) 56. Ke6
+Rd8 57. c7 Rc8 58. Kd7 Rxc7+ 59. Rxc7 $1 {The only way. The rook must be able
+to go behind Black's passed pawns.} (59. Kxc7 $2 h5 60. Kd6 h4 61. Ke5 h3 62.
+Rc3+ Kg4 $11) 59... g5 (59... h5 60. Ke6 h4 61. Kf5 h3 62. Rc3+ Kg2 (62... Kh4
+63. Kf4 h2 64. Rc1 g5+ 65. Kf3 Kh3 66. Kf2 g4 67. Rc3+ g3+ 68. Rxg3+ Kh4 69.
+Rg8 h1=N+ 70. Kg2 $18) 63. Kg4 h2 64. Rc2+ Kg1 65. Kg3 h1=N+ 66. Kf3 g5 67. Rd2
+g4+ 68. Kxg4 Nf2+ 69. Kf3 Nh3 70. Kg3 $18) 60. Ke6 g4 61. Kf5 Kh3 62. Kf4 g3
+63. Kf3 g2 64. Rg7 $18 *
+

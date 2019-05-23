@@ -1,0 +1,48 @@
+[Event "Shamkir Chess"]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "4"]
+[White "Ding, L.."]
+[Black "Anand, V.."]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[Annotator "Daniel Fernandez"]
+[PlyCount "67"]
+[EventDate "2019.04.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. cxd5 exd5 6. Qc2 c6 7. e3 {It's a
+hard position to be ambitious in, but maybe something like 7.Bf4 0-0 8.h3
+would have been a bit interesting, at least ensuring that Black's optimal plan
+of ...Bd6 is one he doesn't really want to implement.} Nbd7 8. Bd3 O-O 9. g4 {
+It's safe to assume this was over-the-board inspiration rather than anything
+more sinister, since the best player to use it before was 2260!} Bb4 {A stable
+move, but it's already possible for Black to think about advantages.} (9... g6
+$5 10. Rg1 b5 $36) (9... Ne4 {This rather shocking pawn sacrifice is given by
+the engine, which vehemently rejects the idea of taking it.} 10. Bd2 (10. Bxe4
+dxe4 11. Nxe4 Nf6 12. Nxf6+ Bxf6 $15 {The tactical vulnerability of White's
+light squares more than adequately compensates for the missing pawn.}) (10.
+Nxe4 dxe4 11. Bxe4 Nf6 12. g5 $2 Nxe4 13. Qxe4 Re8 $19) 10... Nxc3 11. Bxc3 Nf6
+12. g5 Ne4 13. h4 f6 $36) 10. Bd2 (10. g5 Ne4 11. h4 {was also possible
+immediately}) 10... Qe7 11. Rg1 Bxc3 12. Bxc3 Ne4 13. g5 ({It is wiser to
+place the attack on hold and force Black to take on c3 now or forever hold his
+piece.} 13. O-O-O Nxc3 14. Qxc3 Nf6 {and now for instance} 15. g5 Ne4 16. Bxe4
+dxe4 17. Nd2 $13) 13... a5 {Now Black seems to be slightly better.} 14. a4 (14.
+h4 b5 {is what White didn't want to see on the board, but after} 15. b3 b4 16.
+Bb2 $15 {it's not clear what the objective damage is}) 14... Re8 15. h4 b6 16.
+h5 (16. Qe2 $15 {is the move to avoid light-squared catastrophe.}) 16... Ba6
+17. Bxe4 dxe4 18. Nh4 Qe6 19. Rg3 Bd3 (19... Qc4 20. Rg1 Nf8 $17 {was already
+a lot better for Black}) 20. Qd1 b5 21. axb5 cxb5 22. Ng2 b4 23. Nf4 Qf5 24.
+Bd2 Nb6 {Black still has something in this position, but probably not as much
+as he could have gotten.} 25. g6 fxg6 ({The engine's} 25... Rec8 $15 {is a
+slightly hard move to ask people to play}) 26. hxg6 h6 27. Qg4 $6 (27. Rh3 $1
+$11 {achieves full equality: Black doesn't have a real way to infiltrate with
+his queen anymore so now is a good time to play} Qg5 28. Rg3 {and repeat
+before White's rook gets to c5. There is also the slightly funny} Qf5 29. Rh3
+Nd5 {with mate on g2 being the point, but I don't think Black is risking any
+less than White after} 30. Qh5 Qxh5 31. Rxh5 Nxf4 32. exf4 Ra6 33. Rhxa5 Rxg6
+34. Be3 $1 {when both sides get passed pawns and some kind of tactical threats
+against the opposing king.}) 27... Qxg4 28. Rxg4 Nc4 29. Nxd3 exd3 30. d5 Ne5
+31. Rg3 Nc4 ({Here or after repeating, it was Black's prerogative to play on
+with} 31... h5 32. Rh3 h4 $1 $15 {when it is a bit tricky for White to unravel.
+}) 32. Rg4 Ne5 33. Rg3 Nc4 34. Rg4 1/2-1/2
+

@@ -1,0 +1,85 @@
+[Event "ChessBase.com"]
+[Site "?"]
+[Date "2019.01.??"]
+[Round "?"]
+[White "Friedel, Frederic"]
+[Black "White to play, h#6"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3K4/1k6/7r/7r/8/8/7P/8 w - - 0 1"]
+[PlyCount "11"]
+[SourceVersionDate "2019.01.05"]
+
+1. h4 Rc5 2. h5 Re6 3. h6 Kc6 4. h7 Kd6 5. h8=Q Rc6 6. Qd4# *
+
+[Event "Composition (with duals="]
+[Site "?"]
+[Date "2019.??.??"]
+[Round "?"]
+[White "Friedel, Frederic"]
+[Black "White to play, h#7"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/7r/7r/8/6kP/4K3 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "2019.??.??"]
+[SourceVersionDate "2019.01.05"]
+
+1. h3 Rd4 (1... Rf4 2. h4 Rd5 3. h5 Rd3 4. h6 Kf3
+5. h7 Ke3 6. h8=Q Rf3 7. Qe5#) 2. h4 Rf5 3. h5 Kf3 (3... Rd3 4. h6 Kf3 5. h7
+Ke3 6. h8=Q Rf3 7. Qe5#) 4. h6 Ke3 5. h7 Rf3 6. h8=Q Rd3 7. Qe5# *
+
+[Event "ChessBase.com"]
+[Site "?"]
+[Date "2019.01.??"]
+[Round "?"]
+[White "Friedel, Frederic"]
+[Black "White to play, helpmate in 7"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4p2r/7r/8/6kP/4K3 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "2019.??.??"]
+[SourceVersionDate "2019.01.05"]
+
+1. h3 (1. Kd1 {Or 1.Kd2.} Ra4 2. h4 Rf5 3. h5
+Kf1 4. h6 Kg2 5. h7 Kf1 6. h8=Q Rf2 7. Qh1# {[#]}) (1. Ke2 Kg1 2. Kf3 Ra4 3. h4
+Rg5 4. h5 Kh1 5. h6 Rg1 6. h7 Ra5 7. h8=Q# {[#] Or 7.h8R#. Keym: "The close
+proximity of the kings to each other and the corner of the board are the death
+of dual-free helpmates."}) 1... Rd4 2. h4 Rf5 3. h5 Rd3 (3... Kf3 4. h6 Rd3 ({
+or} 4... Ke3 5. h7 Rd3 (5... Rf3 6. h8=Q Rd3 7. Qxe5#) 6. h8=Q Rf3 7. Qxe5#) 5.
+h7 Ke3 6. h8=Q Rf3 7. Qxe5#) 4. h6 Kf3 5. h7 Ke3 6. h8=Q Rf3 7. Qxe5# {[#]} *
+
+[Event "ChessBase.com"]
+[Site "?"]
+[Date "2019.01.??"]
+[Round "?"]
+[White "Benko, Pal"]
+[Black "White to play, h#7"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/8/8/8/2p5/p7/4P3/1K6 w - - 0 1"]
+[PlyCount "13"]
+[SourceVersionDate "2019.01.27"]
+
+1. e3 $1 (1. e4 $2 Kf7 2. e5 Ke6) 1... Kf7 2. e4 Ke6 3. e5 Kd5 4. e6 c3 5. e7
+Kc4 6. e8=Q Kb3 7. Qb5# *
+
+[Event "Berliner Morgenpost"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Benko, Pal"]
+[Black "Helpmate in three moves"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/4n3/8/4K3/k1NR4 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1970.??.??"]
+
+{In this problem, with Black to play, you only have to find three move where
+both sides cooperate to consturct a mate. It baffled the greatest players in
+the world: Botvinnik, Keres and Geller could not solve it in an hour, and
+similarly Fischer, who liked helpmates, lost a bet on it. Only Reshevsky was
+able to do it in about half an hour.}  *
+
