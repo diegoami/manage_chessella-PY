@@ -1,0 +1,31 @@
+[Event "FIDE Grand Swiss"]
+[Site "IoM"]
+[Date "2019.10.10"]
+[Round "1"]
+[White "Keymer, Vincent"]
+[Black "Kryvoruchko, Yuriy"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2506"]
+[BlackElo "2669"]
+[Annotator "Thorsten Cmiel"]
+[PlyCount "75"]
+[EventDate "2019.??.??"]
+
+{[%evp 11,75,21,76,31,62,26,47,22,48,34,44,19,47,30,30,29,55,7,39,10,35,8,10,
+10,35,10,37,18,47,8,21,9,31,22,42,9,48,9,9,9,15,9,19,7,36,0,18,0,36,20,36,8,45,
+8,41,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O
+6. e3 Nbd7 7. a3 c5 8. cxd5 Nxd5 9. Nxd5 exd5 10. dxc5 $1 {The ChessBase
+Online Database knows more than 350 games in which this move was played.} Nxc5
+11. Be5 Bf6 12. Bxf6 Qxf6 13. Qd4 Qe7 {is not the most popular move.} ({
+Black also often plays} 13... Qd6) ({or} 13... Qxd4 {which leads to an endgame
+in which White has a minimal edge.}) 14. Rd1 Rd8 15. Be2 Bf5 16. Qh4 $146 (16.
+Qb4 {was twice tried by Wesley So. Both games - against Levon Aronian (2017)
+and against Veselin Topalov (2016) - ended in a draw.}) 16... Qxh4 17. Nxh4 Be6
+18. Nf3 Rac8 19. Nd4 Bd7 20. Rb1 Ne6 21. Kd2 Nxd4 22. exd4 Kf8 23. Bd3 Ke7 24.
+Rbe1+ Kd6 {[#] A nice picture though White's rook should be on d1.} 25. h4 ({
+White avoids "Fischer's mistake":} 25. Bxh7 $2 {[%eval 9,0] 25.Te3} g6) 25...
+Re8 26. Rxe8 Rxe8 27. h5 h6 28. f3 Re7 29. Rh4 f6 30. Rh1 Be8 31. g4 Rc7 32.
+Re1 Re7 33. Rxe7 Kxe7 34. Ke3 Ba4 35. Bf5 b6 36. Kf4 Bd1 37. Bc8 Bc2 38. Bf5
+1/2-1/2
+

@@ -1,0 +1,43 @@
+[Event "NM for klubblag 2019"]
+[Site "Scandic Ambassadeur, Drammen"]
+[Date "2019.05.30"]
+[Round "2"]
+[White "Madsen, Dag"]
+[Black "Haldorsen, Benjamin"]
+[Result "0-1"]
+[ECO "D24"]
+[WhiteElo "2262"]
+[BlackElo "2437"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "66"]
+[EventDate "2019.??.??"]
+[SourceTitle "2019_39"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 dxc4 4. Nc3 a6 5. e4 b5 6. e5 Nd5 7. a4 Bb7 8. e6
+fxe6 9. Be2 Nxc3 10. bxc3 Qd5 11. Ng5 Qxg2 12. Rf1 Nd7 13. Nxe6 Rc8 14. axb5
+axb5 15. Be3 Nf6 16. Qb1 Bc6 17. Bf4 Nd5 18. Be5 Nxc3 19. Qf5 {19...g6 in the
+diagram attacks the queen f5 - but doesn't this spoil Black's position to a
+draw if White just replies 20.Bxh8 now?} g6 $1 {[%csl Gf5][%cal Gf5c8]} 20.
+Bxh8 (20. Ng7+ Bxg7 21. Qxc8+ Kf7 {is also hopeless, e.g.} 22. Qg4 (22. Qxc7
+Qe4 {[%cal Ge4e2]}) 22... Qxg4 23. Bxg4 Bxe5 24. dxe5 b4 $19 {[%csl Gb4,Gc3,
+Gc4][%cal Gb4b3]}) 20... gxf5 21. Bh5+ {[%cal Gh5e8]} {[%tqu "En","Can Black's
+king escape the white checks following 21...Kd7 here? If you don't think so,
+you should play something else.","","","g2g6","",10,"e8d7","verschenkt den
+halben Punkt",0]} Qg6 $1 {[%csl Gg6] Greed would definitely in the wrong place
+here! After Black's returning the queen, the endgame will be hopeless for
+White since he is lacking a whole queenside.} (21... Kd7 $2 {gives a away half
+the point.} {[%tqu "En","Changeover: White to play and draw. First move?","",
+"","e6c5","",10]} 22. Nc5+ $1 {[%csl Gc5,Rd7][%cal Gc5d7,Gc5e6,Gh5e8,Rd7d8,
+Rd7d6] after 22...Kd8 23.Ne6+ forces perpetual check, whereas completely wrong
+would be...} {[%tqu "En","Okay, after 22...Kd6?? we want victory for White!
+Your move, please.","","","d7d6","sogar den ganzen:",10,"d7d8","",0]} Kd6 $4 (
+22... Kd8 23. Ne6+ Kd7 24. Nc5+ $11) {[%tqu "En","Continuation?","","","h8e5",
+"",10]} 23. Be5+ {[%csl Gc5,Gd4,Rd6,Ge5][%cal Rd6d5] White's first bishop
+joints the king hunt.} Kd5 {[%tqu "En","Go on!","","","h5f7","",10,"De",
+"Weiter im Text!","","","h5f7","",10]} 24. Bf7+ {[%csl Rd5,Gf7][%cal Gf7d5]
+Number 2 in position.} e6 {[%tqu "En","And the last move, please!","","",
+"f7e6","Schachmatt!",10]} 25. Bxe6# {[%csl Gc5,Gd4,Rd5,Ge5,Ge6] ... and with
+this mate pattern I wish you a very nice weekend!}) 22. Bxg6+ hxg6 $19 {
+[%csl Gb5,Gc3,Gc4]} 23. Be5 b4 24. Nxc7+ Kf7 25. Kd2 Bg7 26. Bxg7 Kxg7 27. Ne6+
+Kf6 28. Nc5 Rd8 29. Ke3 g5 30. Ra6 Rd6 31. h4 gxh4 32. f4 h3 33. Rf2 Nd1+ 0-1
+

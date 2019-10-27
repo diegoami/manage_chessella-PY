@@ -1,0 +1,25 @@
+[Event "GCT Saint Louis Blitz 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.14"]
+[Round "11"]
+[White "Yu, Yangyi"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2752"]
+[BlackElo "2818"]
+[Annotator "Saravanan,V"]
+[SetUp "1"]
+[FEN "2rqk2r/1b2bpp1/2n1p3/pp2Pn2/3p1P1p/P2P4/1PNQBBPP/2R1NRK1 b k - 0 19"]
+[PlyCount "37"]
+[EventDate "2019.08.13"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+19... g5 $1 20. Bg4 h3 21. Nf3 hxg2 22. Rfe1 Nh4 23. Bxh4 gxh4 24. f5 Rg8 25.
+Re4 Qd5 $2 26. fxe6 fxe6 {[#]} 27. Ncxd4 $4 Nxd4 28. Rxc8+ Bxc8 29. Nxd4 Bc5
+30. Qe3 Bb7 $19 31. b4 axb4 32. axb4 Bb6 33. h3 Rf8 34. Kh2 Qa2 35. Bh5+ Kd7
+36. Be2 Rg8 37. Kg1 Qa1+ 0-1

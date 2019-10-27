@@ -1,0 +1,47 @@
+[Event "Schachbundesliga"]
+[Site "?"]
+[Date "2018.11.25"]
+[Round "4.4"]
+[White "Boensch, Uwe"]
+[Black "Keymer, Vincent"]
+[Result "1/2-1/2"]
+[ECO "D63"]
+[WhiteElo "2553"]
+[BlackElo "2493"]
+[Annotator "Karsten Mueller"]
+[SetUp "1"]
+[FEN "8/8/5n2/5P2/2B1p1p1/p3P1P1/1k1K4/8 b - - 0 76"]
+[PlyCount "7"]
+[EventDate "2018.??.??"]
+[SourceTitle "1012"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+[WhiteTeam "Deutschland"]
+[BlackTeam "Deutschland"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+[WhiteClock "1:40:00"]
+[BlackClock "1:40:00"]
+
+{[%evp 0,158,26,16,12,12,15,15,15,15,21,18,24,12,12,21,26,16,25,32,22,27,20,29,
+31,17,17,19,22,19,13,7,10,7,7,-8,6,-3,-2,-5,-10,1,10,8,14,-1,10,4,9,10,5,1,0,0,
+0,-6,-5,-9,-9,-11,0,-58,4,6,6,0,6,0,0,0,0,-12,-17,-9,-8,-13,-17,-17,-29,-21,
+-21,-17,-6,-21,-21,-21,-21,-21,-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,
+-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,0,0,0,-17,-17,-17,-17,
+-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,
+-17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 76... Nd7 {Almost White is not
+in "zugzwang" because the diagonal a2-g8 happens to be just long enough for
+White's bishop:} {[%tqu "En","White to play and draw","","","c4d5","Das ist
+allerdings das einzige Feld. Alle anderen haben Nachteile:",2,"c4e6","",0,
+"c4f7","",0,"c4g8","",0]} 77. Bd5 $1 {The only square for the bishop:} (77. Be6
+$2 Nc5 78. Bd5 Nb3+ 79. Bxb3 Kxb3 80. f6 a2 81. f7 a1=Q 82. f8=Q Qc3+ 83. Ke2
+Qd3+ 84. Kf2 Qd2+ 85. Kg1 (85. Kf1 Qd1+ 86. Kf2 Qf3+ 87. Qxf3 exf3 $19) 85...
+Qxe3+ 86. Kh2 Kc2 $19) (77. Bf7 $2 Nc5 78. f6 Nd7 $19) (77. Bg8 $2 Nc5 78. f6
+Nd7 79. f7 Nf8 $19) 77... Nf6 {If Black tries to win it might easily backfire:}
+(77... a2 $6 78. Bxa2 Kxa2 79. Kc3 Nf6 80. Kd4 Kb3 81. Ke5 Nh7 82. Kxe4 Kc4 83.
+Kf4 Nf6 84. e4 Kd4 85. e5 Nd5+ 86. Kxg4 Kxe5 $11) (77... Nc5 $6 78. f6 Nb3+ $6
+(78... Nd7 79. f7 Nf8 $11) 79. Bxb3 Kxb3 80. f7 a2 81. f8=Q a1=Q $11) 78. Bc4
+Nd7 ({Of course not} 78... Nh5 79. Bd5 Nxg3 $2 {because of} (79... Nf6 $11) 80.
+f6 Nf1+ 81. Ke2 Ng3+ 82. Kf2 Nh5 83. f7 Nf6 84. f8=Q Nxd5 85. Qc5 $18) 79. Bd5
+$1 Nf6 1/2-1/2
+

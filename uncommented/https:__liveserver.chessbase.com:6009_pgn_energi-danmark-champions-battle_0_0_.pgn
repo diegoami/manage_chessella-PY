@@ -1,0 +1,874 @@
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.1"]
+[White "Carlsen, Magnus"]
+[Black "Molvig (Xtracon), Henrik"]
+[Result "1-0"]
+[ECO "E90"]
+[WhiteElo "2861"]
+[Annotator "TA"]
+[PlyCount "81"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,81,50,43,67,36,71,14,54,48,52,47,97,29,117,116,118,114,128,121,149,
+110,139,137,161,148,156,164,189,146,156,158,154,154,139,137,182,178,215,181,
+189,189,202,202,279,279,277,266,308,310,320,314,288,306,313,328,374,380,364,
+347,368,367,387,387,413,286]} 1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Nf3 O-O
+6. h3 Na6 7. Be3 e5 8. d5 Nc5 9. Nd2 a5 10. g4 Nfd7 {E90: King's Indian:
+Classical: Early deviations and 6 h3} (10... c6 11. Be2 a4 12. h4 Qa5 13. f3 a3
+14. Qc2 axb2 15. Qxb2 h5 16. g5 Nfd7 17. O-O f6 18. Kg2 Qd8 19. Nb3 fxg5 20.
+hxg5 {1/2-1/2 (67) Nepomniachtchi,I (2757)-Grischuk,A (2766) chess.com INT 2018
+}) 11. Rg1 Kh8 12. Nf3 (12. Be2 $16) 12... Nf6 {The position is equal.} 13. Qc2
+{[#]} Bd7 $146 ({Predecessor:} 13... Ng8 14. O-O-O b6 15. Rg3 f5 16. gxf5 gxf5
+17. Bxc5 bxc5 18. exf5 {1-0 (28) Dao,T (2510)-Banikas,H (2572) Beijing 2008})
+14. Be2 c6 15. Nxe5 (15. Bxc5 $1 $16 dxc5 16. Nxe5) 15... cxd5 (15... Nxd5 $1
+$11 {remains equal.} 16. Nxg6+ fxg6 17. exd5 a4) 16. Nxd7 $16 (16. exd5 Nxd5
+17. Nxd5 Bxe5 $11) 16... Nfxd7 17. Nxd5 Re8 18. f3 Rc8 19. Qd2 Qh4+ 20. Bf2
+Qxh3 21. O-O-O {[#] And now Nf4 would win.} Ne5 22. Nf4 $36 {[%mdl 2048] Black
+is under strong pressure.} Nxf3 23. Nxh3 Nxd2 24. Rxd2 Nxe4 25. Rc2 Nxf2 26.
+Nxf2 Re5 27. Bf3 b5 28. cxb5 Rxc2+ 29. Kxc2 {[#] Threatens to win with b6.}
+Rxb5 30. Nd3 f5 31. a4 Rb8 32. gxf5 Rf8 33. b4 axb4 34. Kb3 Rxf5 35. Be4 Rh5
+36. Rc1 {Hoping for Rc8+.} ({Inferior is} 36. Kxb4 Rh4 $11) 36... Bh6 37. Rc8+
+Kg7 38. Rc7+ ({Don't play} 38. Kxb4 Bd2+ 39. Kc4 Ra5 $18) ({Resist} 38. Nxb4
+Bd2 $18) 38... Kf6 39. Rxh7 {White is winning.} Rh3 {Now ...d5 and Black
+clings on.} 40. Kc4 b3 41. Rb7 {Accuracy: White = 59%, Black = 29%.} 1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.2"]
+[White "Carlsen, Magnus"]
+[Black "Hamann, Svend"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2861"]
+[Annotator "TA"]
+[PlyCount "51"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,51,26,35,33,55,46,70,57,70,46,52,14,23,0,27,-58,27,-31,58,34,106,43,
+100,101,357,235,230,101,189,127,203,164,163,183,174,165,595,584,563,598,29998,
+29999]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 Nc6 7. g4 {
+B90: Sicilian Najdorf: Unusual White 6th moves, 6 Be3 Ng4 and 6 Be3 e5} e6 (
+7... Qb6 8. Nb3 e6 9. Bg2 Qc7 10. f4 b5 11. Be3 Be7 12. Qd2 Nd7 13. Qf2 Rb8 14.
+O-O O-O {1/2-1/2 (60) Li,C (2708)-Korobov,A (2685) Batumi 2018}) 8. g5 Nd7 9.
+Be3 {White is slightly better.} Be7 10. h4 O-O $146 ({Predecessor:} 10... Qc7
+11. Qe2 b5 12. a3 O-O 13. f4 Nxd4 14. Bxd4 Bb7 {1/2-1/2 (42) Bodnaruk,A (2414)
+-Bulmaga,I (2380) Athens 2012}) 11. Qe2 Nxd4 12. Bxd4 b5 13. O-O-O (13. a3 $1
+$11) 13... Qc7 (13... b4 $15 14. Na4 Bb7) 14. f4 (14. a3 $11) 14... Bb7 ({
+Black should try} 14... b4 $1 $15 15. Na4 Bb7) 15. a3 $1 $14 Rac8 (15... e5 $14
+16. Be3 f5) 16. Rg1 (16. Bh3 $16) 16... Nb6 (16... e5 $14 17. Be3 d5 18. Nxd5
+Bxd5 19. Rxd5 exf4) 17. f5 {aiming for f6.} Rfd8 $2 {[%mdl 8192]} (17... e5 $16
+18. Bf2 f6) 18. g6 e5 19. gxf7+ (19. Be3 $1 $18 {is the precise move to win.
+Strongly threatening Qh5!} fxg6 20. fxg6) 19... Kxf7 (19... Kh8 $16 {was
+necessary.} 20. Qg2 (20. Bxb6 Qxb6 21. f6 Bxf6 $16) 20... Bf6 21. Bxb6 Qxb6)
+20. Qh5+ (20. Be3 $1 $18 {And now Qh5+ would win.} Bf6 21. Qf2) 20... Kg8 $16 {
+[#]} 21. Qh6 $1 {[%csl Gg1][%cal Rh6g7]} Bf8 22. Bxb6 $1 $40 {[%mdl 128] White
+has strong attack.} Qxb6 {[#]} 23. f6 $1 {[%cal Rg1g7] Threatening mate with
+Rxg7+.} Qxg1 $2 {[#]} (23... Rc7) 24. Bc4+ $1 $18 {[%mdl 576] Discovered Attack
+} Rxc4 (24... bxc4 25. Rxg1) 25. Rxg1 Rxc3 26. Rxg7+ {Accuracy: White = 45%,
+Black = 15%.} 1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.3"]
+[White "Carlsen, Magnus"]
+[Black "Aabling-Thomsen (BT), Jakob"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "2861"]
+[Annotator "TA"]
+[PlyCount "93"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,93,16,13,28,19,15,25,39,35,39,39,43,8,21,11,14,11,8,0,-2,0,17,15,8,
+-40,-8,-113,-107,-95,-72,-124,-105,-110,-116,-120,-10,-10,-10,-10,-10,-10,-12,
+-9,-8,-3,36,0,0,-67,-66,-61,-9,-9,90,89,87,87,217,158,249,195,770,763,753,212,
+197,181,471,150,197,193,187,154,29989,29990,29990,29991,29991,29992,29992,
+29993]} 1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d6 5. e4 O-O 6. c3 Nc6 7. Bb5 h6
+8. Bh4 Bd7 {A48: 1 d4 Nf6 2 Nf3 g6: Torre, London and Colle Systems} 9. O-O a6
+10. Ba4 b5 {White has an edge.} 11. Bc2 e5 12. dxe5 (12. Nb3 exd4 13. cxd4 g5
+14. Bg3 Nh5 15. a3 Ne7 {1/2-1/2 (39) Firouzja,A (2607)-Wang,H (2730) St
+Petersburg 2018}) 12... dxe5 13. a4 Qe7 14. Qe2 g5 $146 ({Predecessor:} 14...
+Rab8 15. axb5 axb5 {1/2-1/2 (31) Sevdimaliyev,U (2376)-Bayramov,Z (2229) Baku
+2017}) 15. Bg3 Nh5 16. Rfd1 Nf4 17. Qf1 Rfb8 18. b4 Nd8 19. Nb3 Nde6 20. h4 (
+20. Bxf4 $11 {remains equal.} exf4 21. axb5) 20... bxa4 {And now ...Bb5 would
+win.} 21. Na5 Bb5 22. c4 (22. Qe1 $142) 22... Qxb4 $17 23. cxb5 Qxa5 24. Bxa4
+axb5 (24... g4 $17 25. Nd2 Nd4) 25. Bxb5 $11 Qb4 {Threatens to win with ...
+Rxa1.} 26. Rxa8 Rxa8 27. hxg5 $1 hxg5 28. Bc4 Ra4 29. Rc1 Qb2 30. Kh1 Bf6 31.
+Nh2 (31. Bxf4 $11 exf4 32. Rb1) 31... Kg7 $15 32. Ng4 Ra8 (32... Nd4 $1 $15 33.
+Ne3 Ra8) 33. Bxf4 $1 $11 Nxf4 {[#]} (33... exf4 $11 34. Bxe6 fxe6) 34. g3 $1
+$16 Rh8+ 35. Kg1 Ng6 (35... Nh5 $16) 36. Qd1 Rd8 (36... Be7 $16 37. Ne3 Bc5)
+37. Bd5 $18 Qa3 $2 (37... Qb6 38. Qf3 Rd6) 38. Rxc7 Ne7 39. Ne3 $2 (39. Nxf6 {
+Intending Qh5! and mate.} Kxf6 40. Qh5 Rxd5 41. exd5) 39... Nxd5 40. exd5 {
+Strongly threatening Qh5.} Qa5 $2 (40... Rh8 {is a better defense.} 41. Rc6 Qb4
+42. Nf5+ Kg6) 41. d6 $2 $40 {[%mdl 128] Black is in trouble.} (41. Rc6 $18 {
+and the rest is easy.}) 41... e4 {[#]} 42. Qh5 $1 {[%mdl 512]} Rf8 {intending .
+..Bd4.} 43. g4 {Nf5+ is the strong threat.} Qe5 $2 (43... Kg8 $16) 44. Nf5+ {
+White mates.} Kg8 45. Nh6+ {[%mdl 64] Double Attack} Kg7 46. Nxf7 Qa1+ 47. Kg2
+{Accuracy: White = 47%, Black = 30%.} 1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.4"]
+[White "Carlsen, Magnus"]
+[Black "Fredericia (BT), Louise"]
+[Result "1-0"]
+[ECO "B38"]
+[WhiteElo "2861"]
+[Annotator "TA"]
+[PlyCount "75"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,75,45,55,68,62,71,83,73,83,126,108,127,108,137,114,114,114,142,142,
+187,180,172,172,343,341,335,338,320,303,496,489,487,480,707,707,817,503,414,
+335,305,318,308,283,373,368,403,362,417,408,585,546,601,462,427,418,408,397,
+365,375]} 1. Nf3 c5 2. e4 g6 3. d4 cxd4 4. Nxd4 Bg7 5. c4 Nc6 6. Be3 Nf6 7. Nc3
+d6 8. Be2 O-O 9. O-O Nxd4 10. Bxd4 a5 {B38: Sicilian: Maroczy Bind with 5...
+Bg7 and 7...0-0} (10... Bd7 11. Qd3 Bc6 12. b4 a6 13. Qe3 Qb8 14. f4 b5 15. e5
+Ne8 16. c5 dxe5 17. Bxe5 Qb7 18. Bf3 Bxf3 19. Qxf3 Qxf3 20. gxf3 {0-1 (37)
+Eljanov,P (2703)-Flores,D (2621) Batumi 2018}) 11. Qc2 Nd7 $146 ({Predecessor:
+} 11... Bd7 12. Rad1 Qc7 13. Bxf6 exf6 14. Qd2 Bc6 15. Qxd6 Qxd6 16. Rxd6 Rfe8
+17. Bf3 f5 18. exf5 Bxf3 19. gxf3 Bxc3 20. bxc3 gxf5 {1/2-1/2 (56) Schwander,L
+(2174)-Meier,P (2048) Lenzerheide 2018}) 12. Bxg7 Kxg7 {White is better.} 13.
+Rad1 Nc5 14. e5 Bf5 {[#]} 15. Qc1 $1 Ra6 16. Qe3 Re8 17. Bf3 Qc8 18. exd6 exd6
+19. Qd4+ f6 20. Nb5 Rd8 $2 (20... Re6 21. b3 h5) 21. Rfe1 $18 {Intending Re7+
+and mate.} Be6 22. h4 Qd7 23. h5 g5 $2 {[#]} (23... Qf7 {might work better.}
+24. Qe3 (24. Nxd6 Raxd6 25. Qxc5 Rxd1 $18) 24... g5) 24. h6+ $1 {[%mdl 512]}
+Kg6 (24... Kxh6 25. Qxf6#) 25. Re3 Qf7 (25... Rf8 $142 26. Nxd6 b6) 26. Rde1
+Rd7 27. Rxe6 Nxe6 28. Qe4+ Kxh6 29. Qxe6 Qxe6 30. Rxe6 Kg6 {Now ...d5 and
+Black clings on.} 31. Bd5 h5 32. Nc3 Rf7 33. Ne4 Rb6 (33... a4 $142 34. Nxd6
+Rd7) 34. b3 a4 35. c5 Rb5 36. Nxd6 Rxc5 37. Be4+ ({Not} 37. Nxf7 Kxf7 38. Re5+
+Kg7 $14) 37... Kg7 38. Nxf7 {Accuracy: White = 90%, Black = 29%.} 1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.5"]
+[White "Carlsen, Magnus"]
+[Black "(Folkehuset Absalon), Sara"]
+[Result "*"]
+[ECO "A28"]
+[WhiteElo "2861"]
+[Annotator "TA"]
+[PlyCount "13"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,13,10,228,186,188,193]} 1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e4 Bc5 5.
+Nxe5 Na5 $146 {[#]} (5... Nxe5 $11 6. d4 {[%mdl 64] Double Attack} Bb4) ({
+Predecessor:} 5... Nxe5 6. d4 Bb4 7. dxe5 Nxe4 8. Qf3 Nxc3 9. bxc3 Be7 10. Qg3
+g6 11. Bh6 d6 12. Be2 Be6 13. Rd1 Qd7 14. exd6 cxd6 15. O-O O-O-O {1-0 (24)
+Carlsen,M (2835)-Giri,A (2783) St Petersburg 2018}) 6. d4 {A28: English
+Opening: Four Knights Variation} Bb4 7. Bd3 *
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.5"]
+[White "Carlsen, Magnus"]
+[Black "Sima Derlich (Folkehuset Absal, Sarah"]
+[Result "1-0"]
+[ECO "A28"]
+[WhiteElo "2861"]
+[Annotator "TA"]
+[PlyCount "41"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,40,15,241,195,191,189,267,285,300,320,325,315,511,493,1309,1387,29999,
+679,686,629,624,466,1179,960,1617,1597,1474,1273,1365,1367,29990,29991,29999]} 
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e4 Bc5 5. Nxe5 Na5 $146 (5... Nxe5 $11 6. d4
+{[%mdl 64] Double Attack} Bb4) ({Predecessor:} 5... Nxe5 6. d4 Bb4 7. dxe5 Nxe4
+8. Qf3 Nxc3 9. bxc3 Be7 10. Qg3 g6 11. Bh6 d6 12. Be2 Be6 13. Rd1 Qd7 14. exd6
+cxd6 15. O-O O-O-O {1-0 (24) Carlsen,M (2835)-Giri,A (2783) St Petersburg 2018}
+) 6. d4 {A28: English Opening: Four Knights Variation} Bb4 7. Bd3 d6 (7... O-O
+$142 8. O-O d6) 8. Qa4+ $18 {[%mdl 64] [#] Double Attack. White has a decisive
+advantage.} c6 {Hoping for ...Bxc3+.} 9. Qxb4 {Nf3 is the strong threat.} dxe5
+10. dxe5 c5 $2 (10... Ng4 11. Be2 Nxe5) 11. Qxc5 Qxd3 (11... Nd7 $142 12. Qd6
+Qb6) 12. exf6 {[%csl Gf6][%cal Rc5e7]} b6 13. Qe5+ (13. Qe7# $142) 13... Be6
+14. fxg7 Rg8 15. Nd5 {[%cal Bc3d5,Bd5f6,Bf6g8,Bg8e7][%mdl 32]} Qxc4 (15... Nc6
+$142 16. Nf6+ {[%mdl 64] Double Attack} Kd8) 16. Bg5 {Strongly threatening Rd1.
+} Nc6 17. Nf6+ {[%mdl 64] [#] Double Attack} Kd8 18. Nxg8+ Kc8 19. Ne7+ Kd7 20.
+Rd1+ Ke8 21. g8=Q# 1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.6"]
+[White "Carlsen, Magnus"]
+[Black "Lajboschitz (Folkehuset Absalo, Lennart"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2861"]
+[Annotator "TA"]
+[PlyCount "79"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,79,19,14,39,39,46,38,76,66,102,87,93,74,104,105,98,101,86,84,111,112,
+138,150,129,94,88,65,62,79,83,77,86,99,97,52,83,78,75,71,94,64,62,54,169,153,
+209,203,638,277,399,307,776,772,745,747,879,856,804,781,919,915,873,866,1289,
+1265,1730,1673,1581,1558,2003,2166]} 1. d4 e6 2. e4 d5 3. e5 c5 4. c3 Nc6 5.
+Nf3 a6 6. Bd3 cxd4 {B28: Sicilian: 2 Nf3 a6 (O'Kelly Variation)} 7. cxd4 Qb6 (
+7... Nge7 8. Nc3 h6 9. O-O Bd7 10. h4 Rc8 11. Bf4 Na5 12. Qe2 Nec6 13. Rad1 Be7
+14. h5 {1-0 (59) Patel,A (2448)-Cordova,E (2608) Saint Louis 2017}) 8. Nc3 Nge7
+{White is slightly better.} 9. O-O Ng6 10. Na4 Qc7 11. Be3 b5 $146 ({
+Predecessor:} 11... Be7 12. a3 O-O 13. Rc1 Qd8 14. Bxg6 hxg6 15. b4 Bd7 {
+1/2-1/2 (28) Parente,A (572)-Vontina,M (758) LSS email 2011}) 12. Nc3 Be7 13.
+Rc1 Bb7 14. g3 Rc8 15. h4 Qd8 16. h5 Nf8 17. h6 g6 18. a4 bxa4 19. Nxa4 Nd7 20.
+Qe2 Nb4 21. Rxc8 Bxc8 22. Bb1 Qa5 23. Rc1 O-O 24. b3 Qb5 25. Qxb5 (25. Qd1 {
+feels hotter.} Nc6 26. Bd3 Qb7 27. Bg5 Ba3 28. Ra1) 25... axb5 26. Nb2 f6 (
+26... Nb8 $14) 27. Nd3 $18 Nxd3 (27... Na6 $16 {might work better.} 28. exf6
+Nxf6) 28. Bxd3 Ba6 $2 {[#]} (28... fxe5 29. Bxb5 (29. dxe5 Ba3 $14) 29... exd4)
+29. Rc6 (29. Rc7 $142) 29... Nb8 (29... fxe5 {is a better defense.} 30. Nxe5 (
+30. Rxa6 Rxf3 31. Be2 Rf7 $18) 30... Bc8 31. Bxb5 Nxe5 32. dxe5 Bd7) 30. Rxe6
+Rf7 $2 (30... Bd8 31. Be2 Bb7 32. Bxb5 fxe5 33. Nxe5 Rf6) 31. exf6 {White is
+clearly winning.} Bxf6 32. Bf4 Rf8 33. Bxb8 Bc8 34. Re3 Bg4 35. Bd6 Rd8 36. Bc5
+Bxf3 37. Rxf3 Bg5 38. Bxb5 Bxh6 39. Bc6 Bg7 40. b4 {Accuracy: White = 69%,
+Black = 20%.} 1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.7"]
+[White "Carlsen, Magnus"]
+[Black "Haarmark Nielsen (Folkehuset A, Viktor"]
+[Result "1-0"]
+[ECO "A37"]
+[WhiteElo "2861"]
+[Annotator "TA"]
+[PlyCount "77"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,76,1,-27,-12,-17,-8,-16,0,-7,14,16,8,0,0,0,0,0,65,58,66,32,47,22,55,
+50,54,48,54,20,120,114,127,127,119,114,174,116,119,135,271,277,345,367,345,345,
+345,345,393,382,369,314,391,391,900,885,29975,29974,29988,29989,29989,29990,
+29990,29991,29992,29993,29999]} 1. Nf3 c5 2. c4 g6 3. Nc3 Nc6 4. g3 Bg7 5. Bg2
+e6 6. d3 Nge7 7. Bd2 b6 {A37: Symmetrical English vs ...g6: 4 Bg2 Bg7 5 Nf3} 8.
+Qc1 O-O (8... h6 9. O-O Bb7 10. a3 d6 11. Rb1 Qd7 12. b4 Rd8 13. Nb5 Ba8 14.
+Rd1 g5 15. bxc5 bxc5 {1/2-1/2 (55) Bachmann,A (2642)-Bologan,V (2654)
+Philadelphia 2016}) 9. Bh6 Bb7 {The position is equal.} 10. h4 Bxh6 11. Qxh6 {
+[#] Threatening mate with Ng5.} Nf5 12. Qd2 $146 ({Predecessor:} 12. Qf4 Qb8
+13. Qd2 Ncd4 14. Ne4 Nxf3+ 15. Bxf3 {0-1 (48) Sorokin,M (2455)-Anastasian,A 
+(2490) Minsk 1990}) 12... Ncd4 13. Nxd4 Bxg2 14. Nxf5 exf5 (14... Bxh1 $11 15.
+Nh6+ Kg7) 15. Rh2 $14 Bc6 16. O-O-O h5 17. d4 d6 18. f3 Re8 19. Qf4 $36 {
+[%mdl 2048] White fights for an advantage.} Qe7 20. e4 fxe4 (20... cxd4 $1 $11
+21. Rxd4 fxe4) 21. d5 $16 Bd7 {...exf3 is the strong threat.} 22. Nxe4 f5 23.
+Nxd6 Qe3+ (23... Rf8 $16) 24. Rhd2 (24. Kc2 $18) 24... Qxf4 25. gxf4 Re3 (25...
+Rf8 $16) 26. Rg2 Kh7 27. Nf7 Re7 28. Ne5 Rg7 29. Kc2 Rd8 30. Kc3 a5 31. Re1 Re8
+32. Rge2 Rge7 $2 (32... Rb8 33. b3 Kh6) 33. d6 $18 Re6 34. Nxd7 {[%mdl 64] [#]
+Discovered Attack. White mates.} Rxe2 35. Nf6+ {[%mdl 64] Double Attack} Kh6
+36. Rxe2 Rxe2 37. d7 Re6 38. d8=Q {[%cal Rd8h8]} Rxf6 39. Qh8# {Accuracy:
+White = 72%, Black = 41%.} 1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.8"]
+[White "Carlsen, Magnus"]
+[Black "Lee Laurtitsen (Folkehuset Abs, Martin"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "2861"]
+[Annotator "TA"]
+[PlyCount "113"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 25,113,18,41,30,50,45,75,37,41,33,48,48,60,33,31,26,103,93,112,106,126,
+122,131,132,180,187,198,127,129,107,116,103,107,105,157,135,283,143,114,126,
+120,122,110,112,343,206,306,277,287,270,283,303,310,304,303,297,295,263,268,
+245,230,209,439,436,1520,1125,1464,1422,1377,1395,1316,1156,1047,1030,5206,
+4718,29975,29976,29984,29985,29986,29987,29987,29988,29989,29990,29990,29991,
+29995,29996]} 1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7.
+Bd3 Re8 8. Qc2 Nbd7 9. Nf3 Nf8 10. h3 c6 11. Bf4 Bd6 12. Bxd6 Qxd6 13. O-O-O {
+[#]} Qe7 $146 ({Predecessor:} 13... a5 14. Kb1 {1/2-1/2 (15) Lalic,B (2438)
+-Nevednichy,V (2528) Mali Losinj 2017}) 14. Kb1 {D36: Queen's Gambit Declined:
+Exchange Variation: Main line (5 Bg5 c6 6 Qc2)} a5 15. g4 b5 16. g5 {White is
+better.} N6d7 17. h4 Ba6 18. h5 b4 19. Ne2 Bxd3 20. Qxd3 Qe4 (20... Nb6 $11 {
+remains equal.}) 21. Qxe4 $16 Rxe4 22. Rc1 Re6 23. Rc2 Rd6 24. Rhc1 Ra6 25. Ne5
+Nb8 26. Nf4 (26. Ng3 $18) 26... Ne6 27. g6 fxg6 28. Nxe6 Rxe6 29. hxg6 hxg6 (
+29... h6 $142 30. f4 a4) 30. f4 {Black must now prevent Rh2.} Kf8 (30... Rd6
+$16 31. Rh2 g5) 31. Rg1 (31. Rh1 $18 {aiming for Rh8+.} Re8 32. Nxg6+ Kf7 33.
+Ne5+ Ke7 34. Rg2) 31... Ke8 32. Rh2 {[#] Hoping for Rh8+.} Nd7 33. Rh8+ Ke7 34.
+Nxg6+ Kd6 $2 (34... Kf7 $16 {keeps fighting.}) 35. Ne5 Nxe5 (35... Re7 $142 36.
+Rg6+ Nf6) 36. fxe5+ $18 {[%mdl 4096] Endgame KRR-KRR} Kd7 37. Rxg7+ Re7 38. Rg6
+Kc7 39. Kc2 a4 40. Kd3 Ra7 41. Rgg8 Kb6 42. Rb8+ Rab7 43. e4 dxe4+ $2 {[#]} (
+43... Rf7 44. exd5 cxd5) 44. Kxe4 Rg7 (44... b3 $142 45. Rxb7+ Kxb7 46. axb3
+axb3) 45. Rxb7+ Kxb7 {KR-KR} 46. e6 Rg2 47. Kf3 Rg7 48. Rf8 Kb6 49. Kf4 Re7 50.
+Ke5 b3 51. axb3 {White mates.} axb3 52. Kd6 Rh7 53. Rb8+ Ka7 54. Rxb3 Rh4 55.
+e7 Re4 56. Kd7 Rxd4+ 57. Kc7 {Accuracy: White = 76%, Black = 31%.} 1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.9"]
+[White "Carlsen, Magnus"]
+[Black "Halstein (Energi Danmark), Ingrid"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2861"]
+[Annotator "RC"]
+[PlyCount "27"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 Nf6 3. e5 d5 4. exf6 gxf6 5. Nf3 f5 6. c4 dxc4 7. Bxc4 f6 8. O-O
+e5 9. Nxe5 fxe5 10. Qh5+ Ke7 11. Qf7+ Kd6 12. Qd5+ Ke7 13. Bg5+ Ke8 14. Qf7#
+1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.10"]
+[White "Carlsen, Magnus"]
+[Black "Eric Arctander (Energi Danmark, Finn"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2861"]
+[Annotator "TA"]
+[PlyCount "57"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,56,71,77,73,105,102,176,168,520,512,559,559,531,308,322,319,1110,1155,
+1344,1337,1301,1267,1580,1494,1423,1371,1414,1386,2194,2182,2815,2810,29979,
+3403,3040,2785,29985,29982,29990,29991,29993,29993,29993,29994,29995,29996,
+29998,29999,29999]} 1. c4 c5 2. Nf3 d6 3. d4 Nc6 (3... cxd4 4. Nxd4 b6 5. Nc3
+Bb7 6. e4 Nf6 7. f3 e6 8. Be2 a6 9. O-O Be7 10. Be3 O-O 11. Qd2 Nbd7 12. Rac1
+Rc8 13. Rfd1 Qc7 14. Kh1 Qb8 15. b4 Rfe8 16. Bf1 Bd8 17. Bg1 Kh8 18. Na4 Bc7
+19. Rc2 h6 20. c5 b5 21. c6 bxa4 {1-0 (42) Bu,X (2697)-Jumabayev,R (2625)
+Chengdu 2017}) 4. d5 Ne5 5. Nxe5 dxe5 6. Nc3 {A30: Symmetrical English: Double
+Fianchetto and Hedgehog} h6 $146 ({Predecessor:} 6... a6 7. e4 h6 8. Be3 e6 9.
+Be2 Nf6 10. Qd2 exd5 11. exd5 {1-0 (29) Martinez,H (1700)-Kline,G Tucson 2010})
+7. e4 b6 (7... e6 $16) 8. f4 $18 {White is clearly better.} f6 $2 (8... exf4 {
+is more resistant.} 9. Bxf4 e5) 9. fxe5 fxe5 10. Qh5+ {[%mdl 64] Double Attack}
+Kd7 11. Qf5+ Kc7 12. Qxe5+ Qd6 $2 (12... Kb7 13. Bd3 Qd6) 13. Nb5+ {[%mdl 64]
+Double Attack, Pin} Kd7 14. Nxd6 exd6 15. Qf5+ Ke8 16. Qg6+ Kd8 {[#]} 17. e5 $1
+dxe5 18. Qc6 Ne7 19. Qxa8 a5 20. Qb8 g5 21. Qxb6+ (21. d6 $142 Rg8 22. Qc7+ Ke8
+23. dxe7 Kf7 24. Be2 Bxe7 25. Rf1+ Bf5 26. Rxf5+ {[%mdl 64] Double Attack} Kg6
+27. Qxe7) 21... Ke8 22. Be3 Bg7 23. Bxc5 {White mates.} Kf7 24. Bd3 Bf5 {[#]}
+25. Rf1 $1 Bf6 26. Bxf5 Nxf5 27. Rxf5 Ke8 28. Qe6+ Be7 29. Qxe7# 1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.11"]
+[White "Carlsen, Magnus"]
+[Black "Hiemeyer (Energi Danmark), Christian"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2861"]
+[Annotator "TA"]
+[PlyCount "27"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,26,307,540,527,2138,2252,2252,2171,29996,29994,29995,29996,29996,
+29996,29996,29997,29997,29995,29999]} 1. Nf3 Nc6 2. d4 Nxd4 (2... d5 3. c4 Bg4
+4. Nc3 e6 5. e3 Nf6 6. Qb3 Bxf3 7. gxf3 Rb8 8. a3 Be7 9. f4 O-O 10. Qc2 Qd7 11.
+Rg1 Na5 12. cxd5 exd5 13. b4 Nc4 14. Nxd5 Nxd5 15. Bxc4 {1/2-1/2 (41) Vidit,S 
+(2695)-Rapport,R (2731) Wijk aan Zee 2019}) 3. Nxd4 $146 ({Predecessor:} 3.
+Qxd4 e5 4. Nxe5 d6 5. Nf3 Nf6 6. Qc4 b5 7. Qxb5+ Ke7 8. Qc6 Rb8 9. e3 Ng8 10.
+Ng5 Rb7 11. Qd5 Bd7 12. Qxf7# {1-0 (12) Agejas Garcia,D (1382)-Rodriguez
+Almeida,A Gran Canaria 2013}) 3... e5 4. Nb3 g5 5. Nc3 f5 $2 (5... c6 6. e4 d6)
+6. e4 $18 {And now Qh5+ would win. A40: Unusual replies to 1 d4} fxe4 7. Qh5+ {
+[%mdl 64] [#] Double Attack} Ke7 8. Bxg5+ {White is clearly winning.} Kd6 9.
+O-O-O+ {White mates.} Kc6 10. Bxd8 d5 11. Qe8+ Bd7 12. Bb5+ Kb6 13. Qxd7 {
+[%cal Rc3d5]} h6 14. Nxd5# 1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.12"]
+[White "Carlsen, Magnus"]
+[Black "Erstad (Energi Danmark), Eirik"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2861"]
+[Annotator "TA"]
+[PlyCount "47"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,46,70,97,87,105,82,197,218,247,230,375,352,408,408,368,387,484,469,
+530,561,489,547,754,743,29988,29989,29992,29993,29996,29997,29997,29997,29997,
+29998,29998,29999,29999,29999,29999]} 1. e4 e6 2. d4 g6 3. h4 (3. Nc3 Bg7 4. h4
+h6 5. h5 g5 6. f4 d6 7. Nf3 g4 8. Nh4 Nc6 9. e5 dxe5 10. dxe5 Qxd1+ 11. Nxd1 f5
+{0-1 (32) Vachier Lagrave,M (2819)-Nakamura,H (2791) chess.com INT 2016}) 3...
+h5 4. Nc3 $146 ({Predecessor:} 4. Bg5 Be7 5. Qd2 d5 6. Nc3 Nf6 7. e5 Nfd7 8.
+Nf3 a6 9. Nd1 c5 10. c3 Nc6 {1/2-1/2 (64) Priyadharshan,K (2297)-Raju,J (2114)
+New Delhi 2008}) 4... Nc6 5. Nf3 d5 6. Bf4 {C01: French: Exchange Variation}
+dxe4 7. Nxe4 f5 (7... Bg7 $16 {was called for.}) 8. Neg5 $18 {White is clearly
+better.} Bb4+ 9. c3 Be7 (9... Bd6 $142) 10. Bb5 a6 11. Bxc6+ bxc6 12. O-O Nh6
+13. Re1 O-O 14. Nxe6 Bxe6 15. Rxe6 {[%mdl 64] [#] Double Attack} Rf6 16. Rxf6
+Rb8 17. Rxg6+ {[%mdl 64] Double Attack. White mates.} Kf8 18. Bxh6+ Kf7 19.
+Ne5+ {[%mdl 64] [#] Double Attack, Discovered Attack} Ke8 20. Rg8+ Bf8 21.
+Qxh5+ {[%mdl 64] Double Attack} Ke7 22. Qf7+ {[%mdl 64] Double Attack} Kd6 23.
+Rg6+ Qf6 24. Rxf6# 1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.13"]
+[White "Carlsen, Magnus"]
+[Black "Angelsen (Energi Danmark), Ole"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2861"]
+[Annotator "TA"]
+[PlyCount "51"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,50,90,359,356,372,366,368,377,418,418,502,515,644,636,825,812,905,893,
+1566,1554,1537,1530,1467,1351,1628,1456,1693,1677,1650,1633,2471,2471,2693,
+2669,3013,2920,29993,7162,29997,29998,29998,29999,29999]} 1. d4 d6 2. e4 Nf6 3.
+Nc3 Bg4 4. f3 Bd7 5. e5 c5 $146 {[%mdl 8192] [#]} (5... dxe5 $16 6. dxe5 Ng8) (
+{Predecessor:} 5... dxe5 6. dxe5 Ng8 7. Bd3 Nc6 8. f4 e6 9. Nf3 Nb4 10. Be4 Bc6
+11. Qe2 Bc5 12. Qc4 Qe7 13. a3 Bxe4 14. Nxe4 Na6 15. b4 Bb6 16. Bd2 Nh6 17. b5
+Nc5 18. Bb4 {1-0 (18) Vasiljevic,D (2370)-Brandics,J (2260) Kecskemet 1990}) 6.
+exf6 $18 {B07: Pirc Defence: Miscellaneous Systems} gxf6 7. dxc5 dxc5 8. Be3 {
+White is winning.} Na6 9. Qd2 f5 10. O-O-O Nb4 11. Bxc5 Nxa2+ 12. Nxa2 b6 13.
+Bd4 Rb8 14. Bxh8 b5 15. Nh3 Rb6 16. Bd4 Ra6 17. Kb1 Qc7 18. Nb4 Rd6 19. Nf4 h6
+20. Nfd5 Qc8 21. Be5 a5 22. Bxd6 {Nc7+ would kill now.} exd6 23. Nf6+ (23. Qe3+
+$142 Be6 24. Bxb5+ Qd7 25. Bxd7+ Kxd7 26. Qa7+ {[%mdl 64] Double Attack} Ke8
+27. Nf6+ Kd8 28. Nc6+ {[%mdl 64] Double Attack} Kc8 29. Qb8#) 23... Ke7 24.
+Nbd5+ {[%mdl 64] [#] Discovered Attack. White mates.} Kd8 25. Qxa5+ {[%mdl 64]
+Double Attack} Qc7 26. Qxc7# 1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.14"]
+[White "Carlsen, Magnus"]
+[Black "Rustad (Energi Danmark), Bjorn"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2861"]
+[Annotator "TA"]
+[PlyCount "37"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,36,217,237,236,390,368,438,370,806,802,1315,1311,1498,1464,2216,2157,
+2662,2641,2647,2570,2534,2202,29995,29996,29996,29997,29998,29999,29999]} 1. e4
+d5 2. exd5 c6 (2... Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 g6 6. Be2 Bg7 7. O-O O-O
+8. h3 Nc6 9. Be3 b6 10. Qd2 Bb7 11. Rad1 e6 12. Bh6 Ne7 13. Bxg7 Kxg7 {1/2-1/2
+(23) Giri,A (2783)-Nakamura,H (2746) St Petersburg 2018}) 3. dxc6 bxc6 4. d4 f6
+$146 ({Predecessor:} 4... e6 5. Bf4 Bb4+ 6. c3 Be7 7. Nf3 Nf6 8. Be2 Nd5 9. Bg3
+Bf6 10. O-O {1-0 (30) Lewczyk,R-Maslowiecka,K Augustow 1996}) 5. Bc4 e6 6. Nf3
+{B01: Scandinavian Defence} f5 $2 {[#]} (6... Bd6 7. Nc3 Na6) 7. O-O Nf6 8. Re1
+{White is clearly winning.} Qd7 $2 (8... Bb4 9. c3 (9. Bxe6 Bxe1 10. Qxe1 Bxe6
+$16) 9... Be7 10. Bxe6 Bxe6 11. Rxe6 O-O) 9. Bxe6 $18 Qd6 10. Bxc8+ Kd8 11.
+Bxf5 c5 12. Ne5 cxd4 13. Nf7+ {[%mdl 64] [#] Double Attack} Kc7 14. Nxd6 Bxd6
+15. Qxd4 Bb4 16. Bf4+ {White mates.} Kc6 17. Re6+ Kb5 18. a4+ Ka5 19. Bc7# 1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.15"]
+[White "Carlsen, Magnus"]
+[Black "Eggen (Energi Danmark), Sigrunn"]
+[Result "1-0"]
+[ECO "A11"]
+[WhiteElo "2861"]
+[Annotator "TA"]
+[PlyCount "31"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,30,97,201,191,193,210,417,415,544,535,768,761,911,928,928,917,861,787,
+812,727,839,741,29999]} 1. c4 c6 2. e4 b5 (2... d5 3. exd5 cxd5 4. d4 Nf6 5.
+Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8. Be2 Nbd7 9. Bf3 Nb6 10. Nge2 a5 11. O-O a4 12.
+Qb5 Bd7 13. Qb4 Bg4 14. Bxg4 Nxg4 15. Qb5 Nf6 16. Nf4 Qd6 17. Re1 Rfc8 18. a3 {
+1-0 (58) Artemiev,V (2709)-Vitiugov,N (2719) St Petersburg 2018}) 3. cxb5 a6 4.
+bxc6 Nxc6 5. d4 $146 ({Predecessor:} 5. Nc3 e5 6. Nf3 Bc5 7. Bc4 Nf6 8. a3 O-O
+9. O-O d6 {1/2-1/2 (31) Latzel,G-Babel,A Detmold 1952}) 5... h6 (5... e6 $16)
+6. d5 $18 {B10: Caro-Kann: 2 d3 and 2 c4} Ne5 7. f4 Ng4 $2 {[#]} (7... Ng6 8.
+f5 Ne5) 8. Qxg4 {White is winning.} g5 9. fxg5 Bb7 10. g6 Rc8 11. Nc3 Bg7 12.
+gxf7+ Kxf7 13. Nf3 Nf6 14. Ne5+ Kf8 15. Qg6 {[%csl Ge5][%cal Rg6f7] [#]} d6 16.
+Qf7# 1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.16"]
+[White "Carlsen, Magnus"]
+[Black "Andsnes (Energi Danmark), Roar"]
+[Result "1-0"]
+[ECO "D10"]
+[WhiteElo "2861"]
+[Annotator "TA"]
+[PlyCount "49"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,48,32,64,64,69,35,207,218,672,677,649,656,894,887,1086,1079,993,977,
+1617,1599,1606,1617,1763,1776,29989,29990,2662,2512,29994,29995,29995,29996,
+29996,29992,29996,29997,29997,29998,29998,29999,29999]} 1. d4 d5 2. c4 c6 3.
+Nc3 Qa5 (3... Nf6 4. e3 a6 5. Qc2 e6 6. Nf3 c5 7. cxd5 exd5 8. Be2 Nc6 9. O-O
+Be6 10. Ne5 Qc7 11. Nxc6 bxc6 12. e4 dxe4 13. Nxe4 Nxe4 14. Qxe4 Bd6 15. Bf3
+O-O 16. Qxc6 Bxh2+ {1-0 (60) Mamedyarov,S (2817)-Shankland,S (2724) Germany
+2019}) 4. cxd5 cxd5 5. Bd2 $146 ({Predecessor:} 5. Nf3 Nf6 6. Bd2 Bf5 7. e3 a6
+8. Ne5 Nc6 9. Rc1 Nxe5 10. dxe5 Ng4 11. f4 {1-0 (24) Frackowiak,S (1531)-Wang,
+H (858) Hamburg 2013}) 5... Nc6 6. e4 {D10: Slav Defence: 3 cxd5 (without
+early Nf3) and 3 Nc3} e6 $1 7. Nf3 Nf6 $2 ({Better is} 7... dxe4 $14 8. Nxe4
+Bb4) 8. Nxd5 $1 $18 {[%mdl 64] [#] Discovered Attack. White is clearly better.}
+exd5 $2 (8... Qd8) 9. Bxa5 Nxa5 10. Bb5+ Bd7 11. Bxd7+ Kxd7 12. Qa4+ {[%mdl 64]
+[#] Double Attack} Nc6 13. Ne5+ {[%mdl 64] Double Attack} Kc7 14. Rc1 Bb4+ 15.
+Qxb4 {And now Qe7+ would win.} Nxe4 16. O-O f6 17. Qe7+ {[%mdl 64] Double
+Attack} Kb6 18. Nd7+ Kc7 19. Nxf6+ {[%mdl 64] Discovered Attack. White mates.}
+Kb6 20. Nxd5+ Ka6 21. Qxe4 Rad8 22. Qd3+ b5 23. Rxc6+ Kb7 24. Qxb5+ Ka8 25.
+Nc7# 1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.17"]
+[White "Carlsen, Magnus"]
+[Black "Bent Christensen (Milestone), Anders"]
+[Result "1-0"]
+[ECO "C62"]
+[WhiteElo "2861"]
+[Annotator "ChessBase"]
+[PlyCount "71"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. O-O Nf6 6. Nc3 g6 7. Bg5 Bg7 8. Bxc6
+bxc6 9. dxe5 dxe5 10. Nxe5 h6 11. Bh4 g5 12. Bg3 Rb8 13. Qd4 O-O 14. Rad1 Be6
+15. Qxa7 Qc8 16. Nxc6 Qb7 17. Qxb7 Rxb7 18. b3 Nh5 19. Be5 Rb6 20. Bxg7 Kxg7
+21. Nd4 Nf6 22. f3 Rd6 23. e5 Rxd4 24. exf6+ Kxf6 25. Rxd4 c6 26. Ne4+ Kg7 27.
+Nc5 Bf5 28. c4 Re8 29. a4 Re3 30. a5 Bc2 31. a6 Re8 32. Ra1 Ra8 33. b4 Bf5 34.
+b5 cxb5 35. cxb5 Bc8 36. b6 1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.18"]
+[White "Carlsen, Magnus"]
+[Black "Krog (Milestone), Jacob"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "2861"]
+[Annotator "TA"]
+[PlyCount "93"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,93,37,15,55,20,39,46,100,107,108,103,110,73,53,47,52,33,25,0,0,-27,
+-27,-30,-1,-4,0,0,0,0,8,0,59,53,52,57,56,60,294,294,275,270,286,279,269,264,
+377,318,387,371,361,351,403,429,708,701,771,756,745,723,710,602,673,522,629,
+484,673,649,1242,977,883,883,843,835,29978,29979,29978,29977,29977,29980,29973,
+6202]} 1. Nf3 d5 2. g3 Nf6 3. Bg2 c5 4. O-O Nc6 5. d4 cxd4 6. Nxd4 e5 7. Nxc6
+bxc6 8. c4 Rb8 {D02: 1 d4 d5 2 Nf3 sidelines, including 2...Nf6 3 g3 and 2...
+Nf6 3 Bf4} (8... Be6 9. Qa4 Qd7 10. Nc3 Rc8 11. Bg5 d4 12. Rad1 Be7 13. Bxf6
+Bxf6 14. c5 O-O 15. e3 Bf5 16. exd4 exd4 {1-0 (46) Duda,J (2738)-Tregubov,P 
+(2592) chess.com INT 2019}) 9. Qa4 {Strongly threatening cxd5.} Qd7 10. a3 a6
+$146 ({Black should play} 10... Rb6 $14) ({Predecessor:} 10... Bc5 11. Nc3 Bd4
+12. cxd5 cxd5 13. Qxd7+ Bxd7 14. Nxd5 Nxd5 15. Bxd5 Ke7 16. Ra2 {1/2-1/2 (35)
+Sanchez de Ybargueen Guti,L (2245)-Spasov,S (2159) ICCF email 2013}) 11. Nc3
+$16 Bb7 12. Bg5 d4 13. Bxf6 gxf6 14. Ne4 Be7 15. c5 O-O 16. e3 f5 17. Bh3 Bc8
+18. Rad1 {[%cal Re3d4,Ba1d1,Bd1d4,Bd4h4][%mdl 32]} Qd5 (18... Qe6 $5 {[%cal
+Re6h6]} 19. Nd6 Bxd6 20. cxd6 c5 $15) 19. Nc3 Qxc5 20. exd4 exd4 21. Ne2 Bf6
+22. Nxd4 {Threatening b4.} Bxd4 ({Black should try} 22... Rd8 $11 23. Qxc6 Qxc6
+24. Nxc6 Rxd1 25. Rxd1 Rxb2) 23. Rxd4 $14 Rxb2 24. Rh4 $36 {[%mdl 2048] White
+is more active.} Re2 25. Qf4 {Intending Qg5+ and mate.} Qe7 $2 (25... f6 $14)
+26. Bxf5 $18 Bxf5 27. Qxf5 {[%csl Gh4][%cal Rf5h7]} f6 {[#]} 28. Rxh7 $1 {
+[%mdl 512]} Qxh7 29. Qg4+ {[%mdl 64] Double Attack} Kh8 (29... Kf7 {was
+necessary.}) 30. Qxe2 {[%mdl 4096] Endgame KQR-KQR} Qb7 31. Re1 a5 32. Qh5+ Qh7
+33. Qxa5 Rf7 (33... Qf7 $142 34. Qf5 Qd5) 34. Qc5 Qg6 35. Qxc6 Kg7 36. a4 Qg5
+37. Qb5 Qd2 38. Qe2 Qb4 39. Qe4 Qd2 40. Qg4+ Kf8 41. Rd1 Qa5 42. h4 Re7 43. h5
+Re1+ 44. Rxe1 {White mates.} Qxe1+ 45. Kg2 Qb1 46. h6 Qb7+ 47. Kh2 {Accuracy:
+White = 76%, Black = 29%.} (47. Qf3 $142 Qa6 {[#]} 48. a5 $1 {[%mdl 512]} Kf7
+49. Qh5+ Ke6 50. Qe8+ Kd6 51. Qb8+ Ke6 52. h7 Qc6+ 53. Kh2) 1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.19"]
+[White "Carlsen, Magnus"]
+[Black "Tyge (Milestone), Jacob"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "2861"]
+[Annotator "TA"]
+[PlyCount "57"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,57,52,45,63,66,60,51,81,74,135,129,129,105,145,81,175,161,162,133,
+137,144,151,125,169,138,173,170,181,184,177,162,333,338,340,305,330,325,443,
+439,574,574,850,827,1198,1027,29990,29991,29998,29999]} 1. d4 d5 2. c4 c6 3.
+Nf3 Nf6 4. Nc3 Bf5 5. cxd5 Nxd5 6. Qb3 Nxc3 {D15: Slav Defence: 4 Nc3 a6 and
+gambit lines after 4 Nc3 dxc4} 7. bxc3 Qb6 8. Nd2 Qxb3 {White is slightly
+better.} (8... Nd7 9. e4 Qxb3 10. axb3 Bg6 11. f4 e6 12. Bd3 f6 13. O-O a6 14.
+f5 {1/2-1/2 (41) Stocek,J (2566)-Vokac,M (2506) Prague 2007}) 9. axb3 b5 $146 (
+9... Nd7 $142) ({Predecessor:} 9... Nd7 10. e4 Bg6 11. f4 e6 12. Bd3 f5 13. e5
+Nb6 14. Nc4 Nxc4 15. Bxc4 {1/2-1/2 (22) Hoegerl,G (2270)-Moeldner,J (2225) Bad
+Bergzabern 1997}) 10. e4 $16 Bd7 11. e5 Bf5 12. g3 (12. c4 $142) 12... Be6 (
+12... a5 $16 {might work better.}) 13. Bg2 $36 {[%mdl 2048] White has strong
+initiative.} Bd5 14. O-O Bxg2 15. Kxg2 e6 16. Ne4 Be7 17. Be3 Nd7 18. Ra6 f5 {
+[#] ...Nb8 is the strong threat.} 19. exf6 ({Stronger than} 19. Rxc6 fxe4 20.
+Rxe6 Nb6 $11) 19... Nxf6 20. Ng5 Ng4 $2 (20... Nd5 {was called for.}) 21. Nxe6
+Kf7 22. Nc7 ({Less strong is} 22. Rxc6 Rhc8 $16) 22... Rac8 23. Rxa7 Nxe3+ 24.
+fxe3+ Bf6 25. e4 Ke7 26. e5 Bg5 27. h4 Bd2 28. Na6+ Ke6 29. Nc5+ {Accuracy:
+White = 62%, Black = 27%.} 1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.20"]
+[White "Carlsen, Magnus"]
+[Black "Schou Moldt (Milestone), Thomas"]
+[Result "1-0"]
+[ECO "B09"]
+[WhiteElo "2861"]
+[Annotator "RC"]
+[PlyCount "87"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Bd3 Nc6 6. Nf3 O-O 7. O-O e5 8. fxe5
+dxe5 9. d5 Nd4 10. Nxe5 Nxd5 11. Nxd5 Bxe5 12. Bf4 Bxf4 13. Rxf4 Kg7 14. Qd2
+Ne6 15. Qc3+ f6 16. Rxf6 Rxf6 17. Rf1 c6 18. Nxf6 Qd4+ 19. Qxd4 Nxd4 20. Ne8+
+Kh6 21. Nc7 Rb8 22. Rf8 c5 23. e5 Kg7 24. Re8 Nc6 25. e6 Kf6 26. Be4 Ke5 27.
+Bxc6 Kd6 28. e7 bxc6 29. Rxc8 Rxc8 30. e8=Q Rxc7 31. Qb8 c4 32. Kf2 c5 33. Qg8
+c3 34. b3 Kc6 35. Qc4 Kb6 36. a4 a6 37. Qxc3 Rf7+ 38. Kg3 Rf5 39. h4 g5 40. h5
+h6 41. Qg7 Rd5 42. Qxh6+ Ka5 43. Qc6 Rd1 44. Qxc5# 1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.21"]
+[White "Carlsen, Magnus"]
+[Black "Strandil (NordicBet), Kenneth"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "2861"]
+[Annotator "TA"]
+[PlyCount "39"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,38,12,38,37,48,47,56,62,114,79,98,85,87,68,70,45,43,37,72,34,421,430,
+399,418,402,388,450,443,29998,29999,29999]} 1. Nf3 d5 2. c4 Be6 (2... d4 3. b4
+f6 4. e3 e5 5. c5 a5 6. Qa4+ Qd7 7. Bb5 c6 8. Bc4 Ne7 9. b5 Nd5 10. Ba3 Nc7 11.
+bxc6 Nxc6 12. O-O Nb4 13. Qb3 Bxc5 14. exd4 b5 {1/2-1/2 (14) Maghsoodloo,P 
+(2673)-Wang,H (2718) Sharjah 2019}) 3. cxd5 Bxd5 4. Nc3 Bxf3 $146 ({
+Predecessor:} 4... e6 5. e4 Bc6 6. d4 f5 7. exf5 Nd7 8. fxe6 Ndf6 9. Bg5 Qe7
+10. d5 {1-0 (19) Kratky,J (1154)-Novoa,N (295) LSS email 2013}) 5. gxf3 Nc6 6.
+f4 {A09: RÃ©ti Opening: 1 Nf3 d5 2 c4} Qd6 7. e3 O-O-O 8. d4 {White is slightly
+better.} f6 (8... e6 $14) 9. Bg2 e5 {[%cal Re5d4]} 10. fxe5 fxe5 11. d5 $36 {
+[%mdl 2048] Black is under pressure.} Nce7 12. Qa4 Kb8 13. Bd2 {Black must now
+prevent Nb5!} c6 14. Rc1 {Hoping for 0-0.} cxd5 $2 {[%mdl 8192] [#]} (14... Qd7
+$14) 15. Nb5 $1 $18 {[%csl Gb5,LRa7,LRd6][%cal Ra4a7][%mdl 576] Double Attack}
+Qa6 {[#]} 16. Qxa6 $1 ({Weaker is} 16. Qc2 Nc6 $15) 16... bxa6 17. Ba5 Rc8 18.
+Rxc8+ Nxc8 (18... Kxc8 $18 19. Nd6+ Kd7) 19. Bc7+ {[%mdl 64] Double Attack} Kb7
+20. Bxd5# {Accuracy: White = 75%, Black = 20%.} 1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.22"]
+[White "Carlsen, Magnus"]
+[Black "Runhildsson Hjellbrekke (Nordi, Daniel"]
+[Result "1-0"]
+[ECO "A25"]
+[WhiteElo "2861"]
+[Annotator "TA"]
+[PlyCount "59"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,58,39,39,44,82,29,29,28,39,31,80,95,611,608,641,608,783,777,750,679,
+869,862,839,842,904,886,972,966,1210,1202,1193,1189,1279,1253,1494,1477,2491,
+2756,2897,2404,29992,29993,29993,29994,29994,29994,29994,29995,29995,29995,
+29999]} 1. c4 e5 2. Nc3 Nc6 {[%cal Bb8c6,Bc6b4,Bb4d3][%mdl 32]} 3. g3 Nf6 4.
+Bg2 Bd6 (4... Bb4 5. Nd5 O-O 6. e3 Nxd5 7. cxd5 Ne7 8. Nf3 Bd6 9. Ng5 h6 10.
+Ne4 Bb4 11. a3 Ba5 12. b4 Bb6 13. Bb2 d6 {1-0 (67) Pantsulaia,L (2611)
+-Andriasian,Z (2600) chess.com INT 2019}) 5. e3 O-O 6. Nge2 {A25: English
+Opening vs King's Indian with ...Nc6 but without early d3} Nb4 $146 {
+Threatening ...Nd3+.} ({Predecessor:} 6... a6 7. d4 exd4 8. exd4 Qe8 9. O-O Be7
+10. d5 Ne5 11. Bf4 {1-0 (37) Worth,C (999)-Luther,K (1089) IECC email 1998}) 7.
+O-O (7. d4 $16) 7... Nd3 $11 8. Qc2 {White has an edge.} Nxc1 9. Raxc1 c5 10.
+d4 b6 $2 {[%mdl 8192] [#]} (10... exd4 $16 11. exd4 cxd4 12. Nxd4 Be5) 11. Bxa8
+$18 Ba6 12. Bd5 Qe7 13. dxc5 Bxc5 14. Rfd1 d6 15. Qa4 Bc8 16. b4 Bxe3 17. fxe3
+Ng4 18. Rd3 Qf6 19. Rf1 Qe7 20. Ne4 Kh8 21. Qc6 Bd7 22. Qxd6 Qe8 {[#]} 23. Bxf7
+$1 Qd8 (23... Rxf7 24. Rxf7) 24. Qxd7 {[%mdl 64] Double Attack} Qa8 25. Qxg4 {
+White mates.} Qb7 26. Rd7 Qc8 27. Bd5 {[%csl Gd7][%cal Rg4g7]} Rxf1+ 28. Kxf1 {
+[%csl Gd7][%cal Rg4g7]} Qf8+ 29. Rf7 {[%cal Rf7f8]} Qe8 30. Qxg7# 1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.23"]
+[White "Carlsen, Magnus"]
+[Black "Stromseth Haraldsen (NordicBet, Markus"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2861"]
+[Annotator "TA"]
+[PlyCount "49"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,48,13,245,239,339,346,379,356,341,202,315,304,482,393,477,412,753,759,
+755,609,1242,954,1381,1366,29985,29986,29992,29992,29992,29992,29994,29995,
+29996,29997,29997,29998,29998,29999,29999,29998,29999]} 1. d4 Nc6 {[%cal Bb8c6,
+Bc6e5,Be5g4][%mdl 32]} 2. d5 Ne5 3. f4 Ng4 (3... Ng6 4. e4 e6 5. dxe6 fxe6 6.
+Nf3 Bc5 7. Nc3 Nf6 8. e5 Ng4 9. Ne4 Bb6 10. c4 Qe7 11. Qc2 Be3 12. g3 O-O 13.
+Bh3 Bxc1 14. Rxc1 {1-0 (22) Aronian,L (2767)-Caruana,F (2822) chess.com INT
+2018}) 4. e4 N8h6 $146 ({Predecessor:} 4... e6 5. Nf3 exd5 6. Qxd5 N8f6 7. Qc4
+d5 8. exd5 Nxd5 9. Be2 c6 10. O-O Qb6+ {0-1 (22) Schirowski,C-Ohnmacht,R
+Eppingen 2004}) 5. e5 d6 $2 {[#]} (5... e6 $11 {and Black stays safe.}) 6. h3
+$18 {A40: Unusual replies to 1 d4} f5 (6... dxe5 $142 7. hxg4 Bxg4) 7. hxg4
+dxe5 8. fxe5 {White is winning.} Nxg4 9. e6 (9. Nc3 $142) 9... c6 (9... Bxe6 {
+keeps fighting.} 10. Nc3 (10. dxe6 Qxd1+ 11. Kxd1 Nf2+ 12. Ke1 Nxh1 $16) 10...
+Qd6) 10. Nc3 Qd6 (10... Qb6 {might work better.} 11. Nh3 g6) 11. Nge2 g6 12.
+Bf4 Qd8 (12... Qb4 $142 13. Qd4 Qxd4 14. Nxd4 Bg7) 13. Qd4 Nf6 14. O-O-O a5 15.
+Be5 Ra6 16. Nf4 cxd5 17. Bxa6 {White mates.} g5 18. Bb5+ Bd7 19. exd7+ Nxd7 20.
+Qxd5 {[%mdl 64] [#] Double Attack} gxf4 21. Bxd7+ Qxd7 22. Qxd7+ Kf7 23. Qxf5+
+{[%mdl 64] Double Attack} Ke8 24. Nb5 {[%cal Rf5h5]} f3 25. Nc7# {Accuracy:
+White = 68%, Black =  5%.} 1-0
+
+[Event "Energi Danmark Champions Battle"]
+[Site "Copenhagen"]
+[Date "2019.05.22"]
+[Round "1.24"]
+[White "Carlsen, Magnus"]
+[Black "Petersen (NordicBet), Kim"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2861"]
+[Annotator "TA"]
+[PlyCount "55"]
+[EventDate "2019.05.22"]
+[EventType "simul"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,55,149,150,149,205,129,602,599,602,575,698,620,777,605,628,502,827,
+843,835,835,807,797,1420,1406,1411,1342,1833,1836,1827,1822,1933,1927,2104,
+2088,2204,2221,2229,2210,2465,2374,5435,29967,29950,6954,29992,29993,29995,
+29995]} 1. e4 e6 2. d4 Bb4+ 3. c3 Ba5 (3... Be7 4. Bd3 d5 5. e5 c5 6. Nf3 Nc6
+7. O-O c4 8. Bc2 b5 9. b3 Rb8 10. Re1 h5 {1-0 (42) Hablizel,F (2297)-Lovakovic,
+F (2387) ICCF email 2016}) 4. Qg4 Nf6 5. Qxg7 Rg8 6. Qh6 {Hoping for e5. C01:
+French: Exchange Variation} Nxe4 $146 (6... Rg6 $16 {was worth a try.} 7. Qe3
+e5) ({Predecessor:} 6... Rg6 7. Qh4 Rg4 8. Qh3 Rxe4+ 9. Be3 Nc6 10. Nd2 Rg4 {
+1-0 (25) Livschitz,V (1989)-Deeb,A (268) Warren 2002}) 7. Qxh7 Kf8 $2 {[%mdl
+8192]} (7... Nf6 $16 8. Qc2 Qe7) 8. Qxe4 {White is clearly winning.} Qf6 9. Nf3
+Qg6 10. Qh4 {[#] aiming for Ne5.} Nc6 11. Na3 d5 12. Bb5 Qf5 {[#]} (12... f6
+$142 13. Ba4 Ke7) 13. Ne5 $1 $18 Qe4+ (13... Nxe5 14. Bh6+) 14. Qxe4 dxe4 15.
+Nxc6 Bd7 16. Nxa5 Rd8 17. Nxb7 Ke8 18. Nxd8 Kxd8 19. Bf4 c6 20. Be2 Rxg2 21.
+Bg3 e5 22. Bf1 Rxg3 23. hxg3 exd4 24. cxd4 Bg4 25. Rh7 Ke8 26. Bc4 Be6 27. Bxe6
+fxe6 28. Ke2 1-0
+

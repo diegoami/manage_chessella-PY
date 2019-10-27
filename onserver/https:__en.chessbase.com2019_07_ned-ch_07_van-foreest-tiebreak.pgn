@@ -1,0 +1,69 @@
+[Event "Deloitte NED-ch 2019"]
+[Site "Amsterdam"]
+[Date "2019.07.07"]
+[Round "8.1"]
+[White "Van Foreest, Lucas"]
+[Black "Van Foreest, Jorden"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[WhiteElo "2521"]
+[BlackElo "2612"]
+[Annotator "Tactical Analysis 2.10 (6s)"]
+[PlyCount "62"]
+[EventDate "2019.??.??"]
+
+{[%evp 21,62,-45,-8,-28,1,-47,-5,-41,-9,-53,-17,-50,9,0,0,0,0,-20,17,16,19,14,
+19,6,14,1,33,17,11,10,42,42,47,39,56,0,0,0,4,4,10,0,0]} 1. e4 e5 2. Nf3 Nc6 3.
+Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8. exd5 O-O 9. O-O cxd5
+10. Bg5 c6 11. Qf3 Rb8 12. h3 {C47: Scotch Four Knights and Four Knights with
+4 g3} (12. Rad1 Bg4 13. Qxg4 Nxg4 14. Bxd8 Rfxd8 15. Na4 Bd6 16. h3 Ne5 17.
+Rfe1 g6 18. Bf1 Re8 19. b3 Bb4 {1-0 (42) Karjakin,S (2748)-Kramnik,V (2753)
+Moscow 2019}) 12... h6 13. Bf4 (13. Bxh6 $11 {is superior.} Bd6 14. Bc1) 13...
+Bd6 (13... Rb7 $15 {should be considered.}) 14. b3 $11 Be6 15. Na4 (15. a3 $11)
+15... Re8 16. Rad1 Bxf4 (16... c5 $15) 17. Qxf4 {[#]} Qa5 $146 ({Predecessor:} 
+17... Qe7 18. Rfe1 c5 19. c4 d4 20. Re2 Rbc8 {1/2-1/2 (38) Mueller,K (2517)
+-Kritz,L (2534) Hoeckendorf 2004}) 18. Qd6 Rbc8 19. Qc5 Qxc5 (19... Qc7 {
+keeps more tension.} 20. f4 Bd7 21. c4 Rcd8 22. Nc3 Be6) 20. Nxc5 Nd7 21. Nxd7
+Bxd7 22. c4 Be6 23. cxd5 Bxd5 24. Rd2 a5 25. Rc1 a4 26. bxa4 Ra8 27. Bc2 Bxa2
+28. Bh7+ (28. Ra1 $1 $14 Bd5 29. a5) 28... Kxh7 {The position is equal.} 29.
+Rxa2 Ra5 30. Rxc6 Re4 31. Rc3 Rexa4 {Accuracy: White = 43%, Black = 47%.}
+1/2-1/2
+
+[Event "Deloitte NED-ch 2019"]
+[Site "Amsterdam"]
+[Date "2019.07.07"]
+[Round "9.1"]
+[White "Van Foreest, Jorden"]
+[Black "Van Foreest, Lucas"]
+[Result "0-1"]
+[ECO "B69"]
+[WhiteElo "2612"]
+[BlackElo "2521"]
+[Annotator "Tactical Analysis 2.10 (6s)"]
+[PlyCount "84"]
+[EventDate "2019.??.??"]
+
+{[%evp 22,84,65,23,77,53,144,104,140,113,134,90,119,76,113,31,53,10,20,11,161,
+159,167,-259,-274,-281,-272,-358,-312,-327,-316,-328,-328,-346,-308,-359,-245,
+-276,-262,-279,-242,-358,-275,-341,-336,-370,-301,-304,-285,-305,-290,-310,
+-303,-384,-364,-384,-353,-358,-358,-380,-279,-296,-253,-362,-380]} 1. e4 c5 2.
+Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8. O-O-O a6 9. f4
+Bd7 10. Nf3 b5 11. Bxf6 gxf6 12. f5 (12. Kb1 $14 {deserves consideration.})
+12... b4 {B69: Sicilian: Richter-Rauzer: 7...a6 8 0-0-0 Bd7 9 f4 Be7 10 Nf3 b5
+11 Bxf6} (12... h5 $11) 13. Ne2 $16 e5 (13... Qa5 $14) 14. Kb1 h5 {[#] White
+is better.} 15. Nc1 $146 ({Predecessor:} 15. Rg1 Qb6 16. g4 hxg4 17. Rxg4 Na5
+18. Nc1 Bf8 {1/2-1/2 (42) Aronian,L (2765)-Firouzja,A (2607) St Petersburg 2018
+}) 15... Qb6 16. Bc4 Na5 17. Bd5 (17. Qd5 $142 O-O 18. Nd2) 17... Rc8 18. Nd3 (
+{White should play} 18. Rhe1 $16) 18... Nc4 $1 $14 {[%cal Rc4d2]} 19. Qxb4 (19.
+Bxc4 $14 Rxc4 20. Rhe1) 19... Qxb4 $11 20. Nxb4 {next Rd3 is good for White.}
+Ne3 (20... a5 $1 $11 21. Bxc4 Rxc4 {[%mdl 64] Double Attack}) 21. Rd3 $18 ({
+Much less strong is} 21. Nxa6 $6 Rg8 $14) 21... Nxg2 {[#] aiming for ...a5.}
+22. Bb7 $4 {[%mdl 8192]} ({Weaker is} 22. Nxa6 Nf4 $15) (22. Ra3 $18) 22... Rb8
+$19 23. Bxa6 Rxb4 24. Ra3 d5 25. Bf1 Rb8 26. Ra6 Nf4 ({Resist} 26... dxe4 27.
+Bxg2 exf3 28. Bxf3 $19) 27. exd5 Bxf5 28. d6 Bd8 {Hoping for ...Be4.} 29. Bc4
+Rb6 30. Rd1 Bg4 31. Rf1 (31. Ra3 {keeps fighting.}) 31... Rxa6 32. Bxa6 Kd7 33.
+Bc4 Rg8 34. Bxf7 Rg7 35. Bc4 Kxd6 36. a4 Bb6 37. b4 e4 38. Nd2 Ke5 39. Bb5 {
+Black should prevent Nc4+.} Be6 40. a5 Bd4 41. Re1 Bc3 42. Rxe4+ (42. Nf3+ {
+only move.} Kd5 43. Rd1+ Nd3 44. cxd3 exf3 45. Bc4+ Ke5 46. Bxe6 Kxe6 47. Rf1)
+42... Kf5 {Accuracy: White = 53%, Black = 60%.} 0-1
+

@@ -1,0 +1,170 @@
+
+
+
+[Event "AUT-chT2M 1415"]
+[Site "Austria"]
+[Date "2015.02.28"]
+[Round "7.3"]
+[White "E01.01 Tomazini, Zan"]
+[Black "Wiesinger, Robert"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2346"]
+[BlackElo "2209"]
+[Annotator "Mueller,Karsten"]
+[SetUp "1"]
+[FEN "8/2k5/8/5K1P/8/5n2/8/8 b - - 0 74"]
+[PlyCount "10"]
+[EventDate "2014.10.03"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+
+{[#]How to defend with Black?} 74... Nh4+ $2 ({The king must lend a helping
+hand with} 74... Kd6 $1 75. h6 Ne5 76. h7 Nf7 77. Kf6 Nh8 {[#]and now Black's
+king is close enough due to} 78. Kg7 Ke7 79. Kxh8 Kf7 {stalemate}) 75. Kg5 (75.
+Kf6 $5 $18 {The king is safe from a knight check.}) 75... Nf3+ 76. Kf6 Nh2 77.
+Kf5 Nf1 78. h6 Ng3+ 79. Kg6 1-0
+
+[Event "1  24  4836 EU-ch (Women)"]
+[Site "Tbilisi"]
+[Date "2011.05.16"]
+[Round "9"]
+[White "E05.01 Galojan, Lilit"]
+[Black "Muzychuk, Mariya"]
+[Result "0-1"]
+[ECO "A85"]
+[WhiteElo "2377"]
+[BlackElo "2473"]
+[Annotator "Mueller,Karsten"]
+[SetUp "1"]
+[FEN "B7/8/7p/2p3k1/2K5/8/5b2/8 w - - 0 46"]
+[PlyCount "24"]
+[EventDate "2011.05.07"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GEO"]
+
+{[#]White to move and draw} 46. Bf3 $2 {White has to exchange the roles of his
+defending pieces, i.e. the king should take care of the wrong rook's pawn and
+the bishop should stop the c-pawn.} ({So the monarch has to get on its way at
+once:} 46. Kd3 Kf4 (46... h5 47. Ke2 Bd4 48. Kf3 $11) 47. Ke2 Bd4 (47... Kg3
+48. Bf3 c4 49. Bh5 Bd4 50. Bf7 c3 51. Kd3 Bf6 52. Bh5 Kh4 53. Bd1 h5 54. Ke3
+$11) 48. Bf3 (48. Kf1 $2 Kg3 $19) 48... c4 49. Bh5 Kg5 50. Bf7 c3 51. Bb3 Kf4 (
+51... h5 52. Kf3 $11) 52. Bf7 Kg4 53. Be6+ Kg3 54. Bf7 Bb6 55. Bh5 Ba5 56. Kd3
+Kh4 57. Bf3 h5 58. Bd1 Kg5 59. Ke2 $11) 46... h5 47. Kd3 h4 48. Ke2 Bd4 $1 {
+It is very important that White should not be allowed a changing of the guard.
+For that reason} (48... Bg3 $2 {would be a decisive mistake:} 49. Bd5 h3 50.
+Kf1 h2 51. Kg2 $11 {and the white king has the h-pawn under control, so that
+the bishop can be sacrificed for the c-pawn. Because the wrong rook's pawn
+cannot get though, e.g.} Kf4 52. Kh1 Ke3 53. Be6 Kd4 54. Bf7 c4 55. Bxc4 Kxc4
+56. Kg2 Kd3 57. Kh1 Ke2 58. Kg2 Ke3 59. Kh1 $11) 49. Bd5 (49. Kf1 h3 $19) 49...
+Kf4 50. Kf1 Kg3 51. Be6 h3 52. Bd5 h2 53. Ke2 c4 54. Bh1 c3 55. Bc6 Bb6 56. Bh1
+Ba5 {and Lilit Galojan resigned, because after} 57. Be4 (57. Kd3 Kf2 $19) 57...
+c2 $19 {her bishop is overloaded.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "03.47 Averbakh's barrier"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/3B4/8/4kpp1/8/5KP1/8/8 b - - 0 1"]
+[PlyCount "21"]
+[EventDate "2016.09.03"]
+
+{The next fortress is often overlooked in practical play:[#]} 1... f4 2. g4 Kd4
+3. Ke2 Kc3 {[#]and White's king's way is too long:} 4. Bf5 Kd4 5. Kd2 Kc4 6.
+Bg6 Kd4 7. Bd3 Ke5 8. Kc3 f3 9. Kd2 Kf4 10. Bf5 Kg3 11. Ke1 Kg2 $11 {This draw
+happened for example in Steinitz-Zuckertort, New Orleans 1886.} 1/2-1/2
+
+[Event "16th ch-EUR Indiv w 2015"]
+[Site "Chakvi GEO"]
+[Date "2015.05.22"]
+[Round "4.14"]
+[White "04.38 Savina, Anastasia"]
+[Black "Gvetadze, Sofio"]
+[Result "1-0"]
+[ECO "A56"]
+[WhiteElo "2417"]
+[BlackElo "2319"]
+[Annotator "Karsten Müller"]
+[SetUp "1"]
+[FEN "4k3/4b1p1/3p3p/3P3P/3B2P1/3K4/8/8 b - - 0 83"]
+[PlyCount "36"]
+[EventDate "2015.05.19"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GEO"]
+
+{4.4 Same colored bishop ending general case Basically the attacker has two
+different strategies how to handle the pawns. They can be put on the same
+color of the bishops to restrict the defending bishop or they can be put on
+the other color to control more squares, attack the defending pawns and invade
+with the king through the holes. The second strategy is also called
+Capablanca's rule and we start with it.  A) Capablanca's rule Two pawn
+weaknesses can already be fatal, if the attacking king can reach both and no
+counterplay is possible:[#]} 83... Bf8 $2 {This is too passive and allows
+White's king to invade in the long run on the long way via the queenside.} ({
+After} 83... Kf7 {Black is quick enough to set up a drawing formation, e.g.}
+84. Kc4 (84. Ke4 g6 85. Be3 Bf8 86. Bf4 Kf6 $11) 84... g6 85. Kb5 gxh5 86. gxh5
+Bg5 87. Kc6 Ke7 {[#]Now Black's counterplay is always just in time, e.g.} 88.
+Bc3 Bh4 89. Bd2 Bg5 90. Bb4 Bf4 91. Ba3 Kf6 92. Bxd6 Bd2 93. Bc7 Bb4 94. Bb6
+Kg5 95. Bc5 Bd2 96. d6 Kxh5 97. d7 Bg5 98. Kc7 Kg6 99. Kc8 h5 100. Bb6 h4 101.
+Bd8 Bxd8 102. Kxd8 h3 $11) 84. Kc4 Kd7 (84... Kf7 85. Kb5 g6 {does not help
+due to} 86. Kc6 gxh5 87. gxh5 Ke7 88. Bb2 Kf7 89. Ba3 Kf6 90. Bxd6 Bg7 91. Bc5
+Kf5 92. d6 Kg4 93. d7 Bf6 94. Kc7 Kxh5 95. Kc8 Kg4 96. Bb6 h5 97. Bd8 Bc3 98.
+Be7 Ba5 99. Bd6 $18) 85. Kb5 Kc7 86. Ka6 Kc8 87. Kb6 Kd7 88. Kb7 Ke8 ({After} 
+88... Be7 89. Bxg7 Bg5 90. Bc3 Be3 {[#]White's king returns to the kingside in
+glory:} 91. Ka6 Bg5 92. Kb5 Ke7 93. Kc4 Kf7 (93... Bf6 94. Bxf6+ Kxf6 95. Kb5
+$18) 94. Kd3 Bf4 95. Ke4 Bg5 96. Bd4 Be7 97. Be3 Bf8 98. Kf5 Bg7 99. Bd2 Bf8
+100. Bf4 $18) 89. Kc6 Kf7 (89... Kd8 90. Bb2 Ke7 91. Ba3 Kf6 92. Bxd6 $18) 90.
+Kd7 g6 (90... Be7 91. Bxg7 Bg5 92. Bb2 Bf4 93. Ba3 Kf6 94. Bxd6 $18) 91. hxg6+
+Kxg6 92. Ke8 Bg7 93. Bxg7 Kxg7 94. Ke7 Kg6 95. Kxd6 Kg5 96. Ke5 Kxg4 97. d6 h5
+98. d7 h4 99. d8=Q h3 100. Qd1+ Kg3 101. Qh1 1-0
+
+[Event "30 16648 ?"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "01.58 Reti, Mandler"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/8/3p4/2k1p3/2N1P3/3K4 w - - 0 1"]
+[PlyCount "41"]
+[EventDate "1924.??.??"]
+
+{The following study is very instructive:[#]} 1. Ne1 Kb2 (1... Kc4 $6 2. Kc2
+$18) 2. Nd3+ Kc3 (2... Kb3 3. Nf4 Kb2 (3... Kc3 4. Ke1 Kc2 5. Nd3 $1 (5. Kf1 $2
+Kd2 6. Kg2 d3 $1 $11) 5... Kc3 6. Kf1 Kd2 7. Nf4 $18) 4. Nd5 Kb3 5. Nc7 Kc3 6.
+Nb5+ Kc4 7. Nd6+ Kc3 8. Ne4+ Kb2 9. Nc5 $18) 3. Nc1 $1 Kb2 4. Na2 $3 Kb1 (4...
+Kxa2 5. Kc2 $18) (4... Kb3 5. Kc1 $18) 5. Nb4 Kb2 6. Nd5 Kb3 (6... Kb1 7. Nc7
+Kb2 8. Nb5 $18) 7. Nc7 $1 Kc3 8. Nb5+ Kc4 9. Nd6+ Kc3 (9... Kd5 10. Nf7 Ke6 11.
+Ng5+ Kf5 12. Nf3 Ke4 13. Ne1 $18) 10. Ne4+ Kb2 (10... Kb3 11. Kc1 $18) 11. Nc5
+Kc3 {[#]And finally the king can invade via the kingside:} 12. Ke1 Kc2 13. Nd3
+Kc3 14. Kf1 Kd2 15. Nf4 Kd1 16. Kg2 Kd2 17. Kf3 Kc2 18. Ke4 Kc3 19. Kd5 d3 20.
+Nxd3 Kd2 21. Nf4 $18 1-0
+
+[Event "The Problemist, Vol 24, No5"]
+[Site "?"]
+[Date "2013.09.24"]
+[Round "?"]
+[White "04.36B Study by GM John Nunn"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Krug,Peter"]
+[SetUp "1"]
+[FEN "8/8/7B/p5PP/8/4b3/2k5/4K3 w - - 0 1"]
+[PlyCount "29"]
+[EventDate "2013.??.??"]
+
+{John Nunn has made a study out of these motifs:[#]} 1. Ke2 Bd2 2. Kf3 a4 3.
+Kg4 a3 4. Bg7 Bc1 5. h6 Bb2 {[#]} 6. Kg3 $3 (6. Kf4 $2 Kd3 {zugzwang} 7. Kf3
+Kd2 8. Kf2 Kd3 9. Kf3 $11) 6... Kd3 7. Kf4 Kd2 (7... Bxg7 8. hxg7 a2 9. g8=Q
+a1=Q 10. Qd5+ {is a tablebase win}) 8. Kf3 (8. Ke4 $2 Ke2 $11) 8... Kd3 9. g6
+Kd2 10. Ke4 Ke2 {[#]} 11. Bh8 $3 {"This only wins when the Black king is badly
+placed." (Krug in The Problemist)} Bxh8 12. g7 Bxg7 13. hxg7 a2 14. g8=Q a1=Q
+15. Qg2+ $18 1-0

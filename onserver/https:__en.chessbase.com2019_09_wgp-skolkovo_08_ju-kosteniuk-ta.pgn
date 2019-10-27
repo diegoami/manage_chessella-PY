@@ -1,0 +1,29 @@
+[Event "FIDE Womens Grand Prix 2019-20"]
+[Site "Skolkovo"]
+[Date "2019.09.19"]
+[Round "8.1"]
+[White "Ju, Wenjun"]
+[Black "Kosteniuk, Alexandra"]
+[Result "1-0"]
+[ECO "E04"]
+[WhiteElo "2576"]
+[BlackElo "2495"]
+[Annotator "Tactical Analysis 2.20 (6s)"]
+[SetUp "1"]
+[FEN "3r2k1/2p3p1/p1p5/4p2p/2P5/4PPP1/P3K2P/5R2 b - - 0 23"]
+[PlyCount "54"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,54,47,55,26,86,56,68,18,21,9,9,13,33,9,9,9,56,21,40,13,13,13,29,29,25,
+10,9,7,32,14,239,200,443,451,451,450,325,325,418,418,457,473,473,473,473,463,
+512,503,739,503,1024,856,1025,1024,1025,1038]} 23... Rb8 {White is slightly
+better.} 24. Rd1 $1 Rb4 25. Kd3 Ra4 26. Rd2 (26. Ke4 $14) 26... Kf7 $11 27. Rc2
+Ke6 28. Ke4 g5 29. h4 gxh4 30. gxh4 Rb4 31. f4 exf4 32. Kxf4 Kf6 $1 33. e4 Rb1
+34. e5+ Ke6 35. Kg5 Kxe5 36. Kxh5 Kd4 37. c5 Rb5 $2 {[#]} (37... Rg1 $11) 38.
+Kg6 $1 $18 {aiming for h5.} Kd3 $2 (38... Rb1 {keeps fighting.} 39. Rg2 Kxc5)
+39. Rc1 Kd2 40. Rf1 Rxc5 41. h5 Rd5 42. h6 c5 43. Rf5 {White is clearly
+winning.} Rd6+ 44. Rf6 Rd8 {[#] intending ...c4.} 45. Rc6 $1 {[%mdl 64] Double
+Attack} Kc3 46. Rxc5+ Kb2 47. Rxc7 Ra8 (47... a5 $142 48. h7 Rd6+ 49. Kg7 Rd8
+50. Rb7+ Kxa2) 48. h7 Kxa2 49. Rg7 {Rg8 would kill now.} Rb8 50. Ra7 {Accuracy:
+White = 85% (21/4/27), Black = 46% (10/6/26).} 1-0
+

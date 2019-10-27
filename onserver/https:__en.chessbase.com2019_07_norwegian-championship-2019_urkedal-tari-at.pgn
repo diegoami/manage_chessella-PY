@@ -1,0 +1,126 @@
+[Event "Norwegian Championship"]
+[Site "?"]
+[Date "2019.07.09"]
+[Round "5"]
+[White "Urkedal, Frode"]
+[Black "Tari, Aryan"]
+[Result "0-1"]
+[ECO "D85"]
+[WhiteElo "2566"]
+[BlackElo "2620"]
+[Annotator "aryan"]
+[PlyCount "138"]
+[EventDate "2019.??.??"]
+[Source "Mark Crowther"]
+
+{[%evp 0,115,32,23,23,-12,41,38,51,54,47,47,47,47,47,47,47,41,9,20,22,22,85,52,
+51,34,38,39,41,61,61,74,57,81,50,29,36,52,75,89,83,66,66,80,87,78,78,90,89,89,
+101,96,91,112,109,103,82,80,71,35,31,11,6,10,0,0,0,-1,32,39,41,33,35,27,29,33,
+32,26,36,33,37,46,50,53,33,0,33,28,40,49,38,86,106,45,107,132,148,98,79,125,
+105,76,190,73,60,59,232,217,185,14,185,14,9,0,1385,29976,29989,29990]} 1. c4 g6
+2. Nf3 Bg7 3. d4 Nf6 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8. Be3 Qa5 9.
+Qd2 O-O 10. Rc1 {Magnus Carlsen has played this with a lot of success recently,
+which might be the reason my opponent decided to play like this.} Rd8 (10...
+cxd4 11. cxd4 Qxd2+ 12. Nxd2 $14 {seems to be simpler to play for White, who
+should be a bit better. 1-0 (58) Carlsen,M (2875)-Mamedyarov,S (2774)
+Stavanger 2019}) 11. d5 e6 12. Bg5 f6 13. Be3 Nc6 14. Bd3 Ne7 {Very unusual
+move, but has gained some popularity in recent years. Ivan Salgado was one of
+the first who played this line, actually against me in the Turkish League 3
+years ago and equalized quite easily. I decided to have a look at it from the
+Black side.} (14... exd5 15. exd5 c4 {This used to be popular, until Leko won
+a very nice game against Topalov in 2011.} 16. Bxc4 Be6 17. Rd1 Ne7 18. dxe6
+Rxd2 19. Rxd2 Qxc3 20. Bb3 {White has sacrificed his queen for a rook and a
+piece, but has a very powerful pawn on e6. White went on to win a nice game in
+1-0 (41) Leko,P (2720)-Topalov,V (2768) Porto Carras 2011}) 15. c4 {The only
+move that makes sense. Otherwise the centre falls.} Qxd2+ 16. Nxd2 (16. Bxd2 {
+is also possible, as played by Yu Yangyi against Svidler twice last year.} b6
+17. O-O Bd7 18. Rfe1 Nc8 19. e5 exd5 20. cxd5 fxe5 21. Nxe5 Nd6 {0-1 (75) Yu,Y
+(2759)-Svidler,P (2753) Shenzhen 2018}) 16... b6 {So far I had seen this all
+before, so it was kind of preparation. I believe that Black should be fine in
+this endgame. It could seem a bit strange to play like this for Black, and I
+was also a bit surprised when Salgado did it against me. White has more space
+and it looks like he should be better, but it is not easy at all. Black has
+some deep ideas in this position. White has to always take care of some f5-g5
+stuff. Also it is not that easy for White to find a plan.} 17. Be2 $6 {Seemed
+a bit strange to me. I'm not sure why the bishop should be better placed on e2
+than d3.} (17. Ke2) (17. O-O {seems like a more logical move. In the game
+White did this anyway but with the bishop on e2.}) 17... Re8 (17... f5 $1 {
+is usually always a good move when it is possible. Black opens up for his
+bishop and there are no drawbacks by doing that.} 18. f3 Re8 {[%csl Gg7][%cal
+Ge8e1] With such a strong bishop on g7, Black definetly has a good game. It is
+still not clear to me how White should come up with a plan here, while Black's
+moves are easier.}) 18. O-O Bd7 (18... f5 {is again possible. I thought I
+should develop and get ready before playing this, but Black is ready.} 19. Bf3
+fxe4 20. Nxe4 exd5 21. Nd6 Rf8) 19. Rfe1 f5 20. f3 h6 $1 {I was very happy
+with this move. Black is preparing g5, taking more space on the kingside, and
+creating a square for my knight on g6.} (20... exd5 21. cxd5 Nxd5 $4 {would
+obviously be a huge blunder, as after} 22. Bc4 $18 {Black drops a piece.}) 21.
+h4 {A good move, which stops my idea. But at the same time I was happy with my
+position out of the opening. With a monster bishop on g7, I believe that
+Black's play is again easier here.} Kh7 {Improving the king and threatening to
+win a pawn with exd5-Nxd5, which explains my opponent's next move.} 22. Bf2 Be5
+{Taking control of the dark squares, and stopping White from potentially
+playing f3-f4.} (22... f4 {was also interesting to me, taking full control of
+the dark squares.}) 23. g3 {A good move as, if I play f5-f4, then g3 would not
+be possible.} f4 24. Kg2 Nc8 {The knight is better placed on d6 than e7, so
+this seemed logical to me.} 25. Bd3 Nd6 26. Re2 $2 {The rook is not well
+placed here.} (26. gxf4 $1 Bxf4 27. Be3 {Challenging Black on the dark squares.
+This would be very clever, as the position could also be double-edged now.
+Black is forced to take, otherwise f3-f4 would come.} Bxe3 28. Rxe3 e5 {
+what I was counting on, but still} 29. f4 $1 exf4 30. Rf3 {[%cal Gf3f4] White
+also gets play now, and is more active than in the game.}) 26... g5 $1 $15 {
+Securing the "monster" bishop on e5. I was getting more and more happy from
+here. White is just quite passive without a good plan here, while the Black
+pieces are better than White's.} 27. hxg5 hxg5 28. Nf1 Kg7 29. Nh2 exd5 30.
+exd5 {Forced.} (30. cxd5 Rh8 $1 {[%cal Gd7h3] would be killing. The threat of
+Bh3+ forced White to play} (30... c4 31. Bxc4 Nxc4) 31. g4 c4 $1 {Black is
+totally dominating} 32. Bxc4 Nxc4 33. Rxc4 Bb5 $19) 30... fxg3 31. Bxg3 Bxg3
+32. Kxg3 Rxe2 33. Bxe2 {The position has simplified. I was quite happy with
+the outcome, as i'm just better and playing for two results here. My knight is
+very strong on d6, and also his pawns are weaker than mine. A very hard
+position to defend.} Rh8 {Activating the last piece.} 34. Bd3 (34. Bf1 $1 Rh4
+35. Re1 Kf6 36. Ng4+) 34... Rh3+ 35. Kg2 Rh4 $17 {[%csl Gc4]} 36. Rc3 Kf6 {
+The only thing Black is missing is to get the king in} 37. Be2 Bh3+ 38. Kg3 Bc8
+{Creating Ba6 ideas in some positions and, at the same time, threatening a
+nasty tactic with Ne4+, winning material.} 39. Ra3 (39. Nf1 $4 {was what I was
+hoping for, as after} Ne4+ 40. fxe4 Rh3+ {the game would be over.}) 39... Rh3+
+40. Kg2 Rh7 41. Ng4+ $2 (41. Nf1 $17 {would be a better move.} Ke5) 41... Bxg4
+42. fxg4 Ke5 $19 {[%csl Gd6,Ge2] Black is in time. We have a typical good
+knight vs bad bishop endgame. As my king also gets to d4, this is just a
+winning position. The rest is a matter of technique, which was quite bad from
+my side:} 43. Re3+ Kd4 44. Rd3+ Ke4 45. Rd1 Ke3 46. Bf1 Rf7 47. Rd3+ Ke4 48.
+Rd2 Kf4 $2 (48... Rf4 $1 $19 {would be very simple. Starting to collect the
+pawns, and not allowing counterplay.} 49. Re2+ Kd4 50. Re6 Nxc4 {The c4-pawn
+was very important. Now everything falls.} 51. d6 (51. Bxc4 Kxc4 52. d6 Rxg4+
+53. Kf3 Rf4+ 54. Kg3 Rd4) 51... Ne3+ $19) 49. Re2 $1 {Where I realized I had
+messed a bit up.} Rf6 $1 $17 {It was quite important to not allow Re6.} (49...
+Kxg4 50. Re6 Nf5 {was my intention, but I had missed} (50... Rd7 {is just way
+too passive:} 51. Rf6 $1 {[%cal Gf1e2,Gf6h6] threatening to deliver mate.}) 51.
+Re4+ $1 {driving my king away and getting active.} Kh5 52. Be2+) 50. Re7 (50.
+Rf2+ {was a very important variation to calculate.} Ke5 51. Rxf6 Kxf6 52. Kf3
+Ke5 53. Ke3 {I had to make sure this position was winning, which I thought it
+was after} b5 54. cxb5 Kxd5 {and it is winning, as my knight is better than
+his bishop, and the c-pawn will start to roll.} 55. a4 Nc4+) 50... Kxg4 {
+Changing my a-pawn for his g-pawn. The g4-pawn seemed more important to me, as
+my pawn will start to go forward.} 51. Rxa7 Nf5 {My opponent was down to 2-3
+minutes here, playing only on the 30 sec increment which obviously increased
+my chances of winning the game.} 52. Be2+ Kf4 53. Bd3 Nh4+ 54. Kf2 g4 $6 (54...
+Ke5+ 55. Ke2 Kd4 {[%cal Gh4f3,Gf3e5] The king is ideally placed on the centre
+of the board.} 56. Re7 Nf5 $1) 55. Rg7 $6 (55. Re7 $1 $11 {A very good move,
+which creates a threat of Re6 in some variations, as well as Re4+, driving my
+king away.} g3+ 56. Kg1 Nf3+) 55... Nf3 {Manouevering the knight to a better
+square.} 56. Be2 Ne5 57. Rg8 Ng6 58. Kg2 (58. Re8 $1 {Again the rook is well
+placed here.} Ne5 59. Re6 {This important resource makes it very hard to win.}
+Rxe6 60. dxe6 Nc6 61. Bd1 $11) 58... g3 59. Bh5 (59. Re8) 59... Nh4+ 60. Kh3
+Nf5 61. Rg4+ Ke3 62. Kg2 $2 {A final blunder in time trouble, which loses the
+game immediately.} (62. Bg6 $1 {White could still fight with this move, and he
+has drawing chances. But with little time, it would of course be far from an
+easy task.} Kf3 63. Bh5 (63. Rg5 Ne3 (63... Rf8 $4 64. Rxf5+ Rxf5 65. Bxf5 g2
+66. Be4+) 64. Rxg3+ Kf4) 63... Kf2 64. a4 $17) 62... Rh6 $1 $19 {[%cal Gh6h2]
+If the bishop moves, the rook comes to h2 which wins the game immediately.} (
+62... Kd3 63. Rf4 $1 Ke3 64. Rf1) 63. Rg5 Kf4 64. Rg4+ Ke5 65. Be8 (65. Rg5 Kf6
+{and Black wins material and the game.}) 65... Rh2+ (65... Ne3+ $2 66. Kxg3
+Nxg4 67. Kxg4 {would be a huge mistake, as White has good fortress-chances
+here.} Rh2 68. a4 Rc2 69. Bb5 $11) 66. Kg1 Rxa2 67. Bd7 Ra1+ 68. Kg2 Ne3+ 69.
+Kxg3 Rg1+ 0-1
+

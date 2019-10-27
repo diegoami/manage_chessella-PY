@@ -1,0 +1,54 @@
+[Event "Biel Master Tournament 2019"]
+[Site "Biel"]
+[Date "2019.07.30"]
+[Round "8"]
+[White "Kamsky, Gata"]
+[Black "Erigaisi Arjun"]
+[Result "1-0"]
+[ECO "A12"]
+[WhiteElo "2673"]
+[BlackElo "2531"]
+[Annotator "Saravanan,V"]
+[PlyCount "96"]
+[EventDate "2019.07.20"]
+[EventType "swiss"]
+[EventCountry "SUI"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 0,96,25,14,14,-9,-21,-11,31,15,7,3,0,7,20,26,11,33,31,6,14,-2,18,9,9,11,
+8,-1,6,0,26,0,2,-16,-17,0,-15,-35,-16,-13,-6,-8,16,-1,0,-5,-20,-30,-10,-14,0,
+-26,-41,-18,-41,-1,-32,-29,-52,-41,-52,-52,-47,-66,-60,-53,-48,-41,0,3,5,5,14,
+20,34,53,50,35,47,53,59,63,89,84,103,118,125,116,127,117,117,118,159,151,160,
+165,179,119,120]} 1. Nf3 Nf6 2. g3 d5 3. Bg2 c6 4. d3 h6 5. O-O Bf5 6. b3 e6 7.
+Bb2 Be7 8. Nbd2 O-O 9. c4 a5 10. a3 Bh7 11. Qc2 Nbd7 12. Rfe1 b5 13. Rec1 Bc5
+14. cxb5 cxb5 {[#][Diagram] [A quiet opening in Kamsky's style, but now he
+brings his speciality to the board]} 15. b4 $5 {[The engine doesn't believe in
+it, but the move is pure Kamsky: a pawn sacrifice for piece play on the
+queenside, which may be a rarity in modern chess. One does see such ideas
+during a kingside attack, but how does it work here?! The answer lies on the
+black bishop at h7, which will remain a silent spectator through the game]}
+axb4 16. Nb3 Be7 17. axb4 Bxb4 18. Nfd4 Rxa1 19. Rxa1 Qb6 20. Qc6 $1 {[Having
+given up the pawn and controlling the a<->, Kamsky exchanges the queens too!]}
+Rb8 21. Qxb6 Rxb6 22. Ra8+ Bf8 23. Na5 Nb8 24. f4 $1 {[Once again, engines do
+not believe in White's play, but please do observe the clarity of thought]} b4
+{[Somewhere around here, black doesn't find the best way to play]} (24... Bg6 {
+was a nice positional move, hoping to bring the bishop back into the game at
+some point, either with a future ...Nf6-d7 & f7-f6, or from h5 if the
+situation presents itself}) 25. Ndb3 Nfd7 26. Ra7 Nc5 27. Bd4 Ra6 28. Rc7 Nxb3
+29. Nxb3 Rc6 30. Ra7 Bd6 31. Bf3 Bg6 32. Rb7 Rc2 33. Na5 Kh7 34. Rb6 Bc7 35.
+Rxb4 {[Black is still fine, but that is only if you employ engines to analyse
+the position! Imagine black being under pressure for about 20 long moves
+inching towards the time control: he finally cracks here]} Bxa5 36. Rxb8 {
+[Once again, white has an edge mainly due to the black bishop on g6, but it
+doesn't look anything serious]} Bc3 37. Bxc3 Rxc3 38. Kf2 Rc7 39. g4 f6 40. Rd8
+f5 $2 {[The proverbial 40th move howler - haven't you observed when most of
+the 'lashing out' pawn advances almost always turn out to be positional
+mistakes?! A typical 'freeing' push when your whole being screams for
+'release' of tension]} ({Black could have still sat still with his hands under
+his bottom, but not an easy thing to do over the board being under pressure]} 
+40... Re7) 41. Ke3 {[Someone's is coming to take over the central command!]}
+Rf7 42. Rd6 fxg4 43. Bxg4 Bf5 44. Bxf5+ exf5 45. h4 Re7+ 46. Kf3 h5 47. Rxd5 g6
+48. Re5 Rd7 1-0
+

@@ -1,0 +1,53 @@
+[Event "8th Llucmajor Open"]
+[Site "?"]
+[Date "2019.05.22"]
+[Round "5"]
+[White "Rasmussen, Allan Stig"]
+[Black "Zubov, Alexander"]
+[Result "1-0"]
+[ECO "D63"]
+[WhiteElo "2552"]
+[BlackElo "2597"]
+[Annotator "Georgios,Souleidis"]
+[PlyCount "88"]
+[EventDate "2019.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 {Queens gambit with Bg5 - a
+classic.} h6 6. Bh4 O-O 7. e3 Nbd7 8. Rc1 dxc4 (8... c5 {immediately is a
+frequent recommendation.}) 9. Bxc4 c5 10. O-O a6 11. dxc5 {Rasmussen opts for
+a symmetrical pawn structure.} (11. a4 {is the main move. After} cxd4 12. exd4
+{we have a typical isolated pawn structure.}) 11... Nxc5 12. b4 {There have
+been played several other moves in this position. Rasmussen pushes his b-pawn
+in order to create weaknesses in black´s camp.} Ncd7 13. b5 Nb6 14. Bb3 axb5
+15. Nxb5 {At the end White didn´t really achieve much. Zubov could have
+exchanged the queens without any problems.} Bd7 (15... Qxd1 16. Rfxd1 Bd7 17.
+Nd6 (17. Nbd4 Rfc8 $11) 17... Bc6 $11 {Black has all pieces in play and both
+sides have weak pawns at the queenside. The position is equal.}) 16. Nbd4 Nh5
+$6 {This standard exchange manoeuvre costs time as Black can´t leave his
+knight at the rim.} (16... Ba4 $5 $11) 17. Bxe7 Qxe7 18. Ne5 Nf6 19. Rc7 {
+White used the time to improve two pieces and Zubov needed to play very
+accurately now. What should he do?} Qd6 $2 {This is basically the losing move.}
+(19... Rab8 $1 {had to be played, even one doesn´t like such defending moves.
+Black holds the postion and plans to bring the other rook to c8 in order to
+get rid of the intruder, e.g.} 20. Qb1 $5 {White threatens 21. Bxe6!} Qd6 21.
+Nxd7 Nfxd7 22. Rfc1 Rfc8 $11 {and Black releases the pressure by exchanging
+pieces.}) 20. Nxd7 Qxc7 21. Nxf8 Rxf8 {[#]} 22. Bxe6 $1 {Zubov missed or
+underestimated this.} fxe6 23. Nxe6 Qc6 24. Nxf8 Kxf8 25. Qc1 $1 $16 {The rook
+in combination with the two pawns is much better than the two knights.
+Therefore White is willing to exchange the queens.} Qe6 26. Qa3+ Kg8 27. Rb1
+Kh8 $2 {This is luxury. Black needed to improve the coordination of his pieces.
+} (27... Nc4 $1 28. Qa8+ Kh7 29. Qxb7 Nd2 30. Rc1 (30. Rb2 $2 Qc4 $1 {with
+problems at the back rank for White.}) 30... Qxa2 $16 {White should also have
+good winning chances here, but at least Black could defend more tenacious.})
+28. Qb3 $1 $18 {White forces the exchange of queens in the next moves.} Nbd5
+29. Qxb7 Nc3 30. Qb8+ Kh7 31. Qb3 (31. Rb2 $18 {was also possible.}) 31... Qxb3
+32. Rxb3 Nxa2 {Black will not be able to coordinate his knights and the king
+is too far away.} 33. f3 Nd7 34. Kf1 Nc5 35. Rb5 Nd3 36. Rb3 Nc5 37. Rb2 Nc1
+38. Rc2 N1b3 (38... N5d3 39. Rc3 g5 40. g3 Kg6 41. e4 Kf6 42. f4 $18) 39. Rc3 {
+The black knights can not move anymore. I was at the board when this position
+appeared and calculated what will happen if the white king comes closer...} Kg6
+40. Ke1 Kf6 41. Kd1 Ke6 42. Kc2 Na1+ {A last trick.} 43. Kb1 $1 (43. Kb2 $4
+Na4+ {It´s still possible to ruin a won position.}) 43... Nab3 44. Kb2 Kd5 {
+and Black resigned as White will exchange the rook against the two knights and
+transform into an easily winning pawn endgame.} 1-0
+

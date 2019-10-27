@@ -1,0 +1,58 @@
+
+
+[Event "GCT Saint Louis Blitz 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.13"]
+[Round "4"]
+[White "Ding, Liren"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2779"]
+[BlackElo "2920"]
+[Annotator "Saravanan,V"]
+[SetUp "1"]
+[FEN "r5k1/1q2bp1p/4b1p1/pB1p4/P2Q1B2/1P5P/5PP1/2R3K1 b - - 0 21"]
+[PlyCount "12"]
+[EventDate "2019.08.13"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[#]} 21... Rc8 $2 {[Giving white to target a5-pawn and dark square weaknesses
+on the kingside]} (21... Qa7 22. Be3 Qxd4 23. Bxd4 Bf8 $11 {[%cal Yf8g7]}) 22.
+Rxc8+ Qxc8 23. Bd2 $1 Qc7 $2 (23... Bc5 24. Qf6 Qc7 25. Qc3 $1 (25. Bc3 d4)
+25... Bb6 26. Qxc7 Bxc7 27. Kf1 $16) 24. Bc3 f6 25. b4 axb4 26. Bxb4 Bxb4 27.
+Qxb4 $18 1-0
+
+[Event "GCT Saint Louis Blitz 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.13"]
+[Round "6"]
+[White "Yu, Yangyi"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[ECO "B72"]
+[WhiteElo "2718"]
+[BlackElo "2920"]
+[Annotator "Saravanan,V"]
+[PlyCount "59"]
+[EventDate "2019.08.13"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bd7 6. Be3 Ng4 7. Bc1 Nc6 8.
+Be2 Nf6 9. Be3 g6 10. Qd2 Bg7 11. O-O-O h5 12. f3 Rc8 13. Kb1 Ne5 14. Rhe1 O-O
+15. h3 a6 16. g4 {[We do not know about Carlsen's preparation, but it looks as
+if he is already suffering here. White capturing g4xh5 after removing Nf6, is
+difficult to face]} b5 17. Nd5 Nc4 18. Bxc4 bxc4 19. Nxf6+ Bxf6 20. gxh5 $18 {
+[Black's kingside has collapsed]} c3 21. Qg2 Kh7 22. hxg6+ fxg6 23. b3 Qa5 24.
+f4 Rc4 25. e5 $1 dxe5 26. fxe5 Bxe5 (26... Qxe5 27. bxc4) 27. Qg5 {[Blacks's
+kingside is ripped open now]} Rc7 28. Rg1 Rf6 29. Nf3 Bf5 30. Qh6+ (30. Qh6+
+Kg8 31. Rd8+ Kf7 32. Ng5# {checkmate!}) 1-0
+

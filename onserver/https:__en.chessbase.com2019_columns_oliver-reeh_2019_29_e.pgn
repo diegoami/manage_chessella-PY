@@ -1,0 +1,44 @@
+[Event "4th GRENKE Open 2019"]
+[Site "Karlsruhe"]
+[Date "2019.04.20"]
+[Round "4.84"]
+[White "Ristoja, Samu"]
+[Black "Krause, Benedict"]
+[Result "*"]
+[ECO "B44"]
+[WhiteElo "2239"]
+[BlackElo "2435"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "65"]
+[EventDate "2019.??.??"]
+[SourceTitle "2019_29"]
+
+{[%evp 0,65,25,25,40,51,51,24,25,31,49,5,13,14,14,21,21,14,25,14,15,-20,-14,
+-18,-18,-44,-27,-36,-31,-32,-32,-23,0,10,17,17,14,19,-3,-18,33,32,32,32,42,30,
+30,11,11,4,8,26,0,0,62,73,-1,0,0,0,97,-7,153,160,156,153,167,182]} 1. e4 c5 2.
+Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. c4 Nf6 6. Nc3 Bb4 7. Nxc6 bxc6 8. Bd3 e5 9.
+O-O Bc5 10. Ne2 O-O 11. Ng3 d6 12. Qe1 Ng4 13. h3 Qh4 14. Nh1 Nf6 15. Be3 Bxh3
+16. Bxc5 Be6 17. Bxd6 Ng4 18. Bxe5 Nxe5 19. Qe3 Bxc4 20. Bxc4 Nxc4 21. Qd4 Nb6
+22. Ng3 g6 23. Rfc1 Rad8 24. Qe3 Rd6 25. a4 Rfd8 26. a5 Rd3 27. Qc5 Nd7 28.
+Qxa7 Ne5 29. Rc3 Ng4 30. Nf1 R8d4 {In the diagram position White played 31.
+Qb8+!, but then after 31...Kg7 failed to find the right defensive continuation,
+and three moves later it was over. Can you see the whole picture?} 31. Qb8+ {
+[%csl Gb8,Rg8]} Kg7 {[%tqu "En","Black is threatening 32...Qxf2+. Which
+continuation should White choose?  A) 32.g3 (Qf6) B) 32.Rc2","","","g2g3","",
+10,"c3c2","",0,"b8f4","",0]} 32. g3 $1 {[%csl Gf2,Gg3] Shielding off f2 and
+allowing after 32...Qf6 the defence...} ({The game saw} 32. Rc2 $4 {[%tqu "En",
+"Changeover: Black to play and win!","","","d3d1","",10]} Rd1 $1 {[%csl Gd1,
+Rf1][%cal Gh4h2,Gh4f2,Gd1g1] The decision: White was able to deal with the
+pressure against the points f2 and h2, but the occupation of the back with a
+pin of the Nf1 proves too much. Continuation after 33.Rxd1 Rxd1 34.f3 ready?}
+33. Rxd1 Rxd1 34. f3 (34. Qg3 {would have seen the same final move.}) (34. g3
+Qh2#) {[%tqu "En","Mate in 2, please.","","","h4h1","und angesichts von",10]}
+34... Qh1+ $1 {and in view of} 35. Kxh1 Rxf1# {[%csl Gf1,Gg4,Rh1][%cal Gg4h2,
+Gf1h1] 0-1!}) (32. Qf4 {might see a perpetual after} Rxe4 33. Qxe4 Qxf2+ 34.
+Kh1 Qh4+ 35. Kg1 Qf2+) 32... Qf6 {[%cal Gf6f2]} {[%tqu "En","Again the threat
+is ...Qxf2+. What now?","","","b8f4","und Weiß hat die Kontrolle. Welcher Zug
+war für Sie leichter zu finden - 32.g3! oder nach 32.Tc2? Td1! von Schwarz?",
+10]} 33. Qf4 $1 {[%csl Ga7,Gf4,Gg3][%cal Ga7b8,Gb8f4] A long queen retreat,
+enabled by 31.Qb8+! - White is control. By the way, which move was easier for
+you to find - 32.g3! or after 32.Rc2? Rd1! by Black?} *
+

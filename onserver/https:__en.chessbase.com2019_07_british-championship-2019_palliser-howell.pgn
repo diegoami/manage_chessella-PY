@@ -1,0 +1,60 @@
+[Event "British Chess Championship"]
+[Site "?"]
+[Date "2019.07.28"]
+[Round "2"]
+[White "Palliser, R."]
+[Black "Howell, D."]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[WhiteElo "2399"]
+[BlackElo "2697"]
+[Annotator "danie"]
+[PlyCount "116"]
+[SourceVersionDate "2019.07.30"]
+
+{[%evp 0,116,18,16,29,-14,1,-14,28,-32,24,16,3,3,-5,25,26,22,61,57,46,48,38,46,
+73,71,74,29,-2,14,14,14,137,71,39,15,7,0,26,-24,60,79,134,96,98,98,98,57,69,
+142,142,165,178,178,178,129,207,157,157,156,156,157,157,135,143,116,223,194,
+229,246,212,109,114,118,94,94,122,119,119,117,112,112,129,118,115,129,152,135,
+136,111,100,113,103,104,101,106,88,83,82,79,66,65,65,67,64,66,66,75,68,0,0,0,0,
+0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 d6 6. e4 O-O 7. Nge2
+a6 8. Ng3 b5 9. Bf4 exd5 10. cxd5 c4 11. a4 Ba5 12. Be2 Qb6 13. Qd2 Nbd7 14.
+Be3 Nc5 15. Bd4 Nfd7 16. Nf5 $5 Ne5 17. Ne7+ Kh8 18. Nc6 $1 {[#] White tries
+to set up a perpetual check.} b4 (18... Nxc6 19. Bxg7+ $1 {Is already a draw,
+something David would not be happy with.} Kxg7 20. Qg5+ Kh8 21. Qf6+ $11) 19.
+Nd1 f5 20. Qg5 Bd7 21. Nxe5 dxe5 22. Bxe5 Rf7 23. Ne3 h6 24. Qf4 b3+ 25. Kf1 {
+[#]} Bd2 $2 {David was already quite short of time, and starts to lose his way.
+} ({Engines so often make fools of us all, and here it wants to uncork the
+sparkling sacrifice} 25... Nxe4 $3 26. fxe4 Qg6 $3 {I guess it's this quiet
+queen move that is so difficult to spot.} {White would now have to find the
+far from obvious continuation} 27. Bxg7+ $1 ({the attempt to hang onto a
+larger advantage with} 27. Kg1 $2 {fails miserably after} fxe4 28. Qg3 Bb6 $1)
+27... Rxg7 28. e5 {to maintain the balance, where the position would remain
+fiendishly unclear.}) 26. Bd4 $1 {establishing control, and preparing to push
+e5, where the two connected pawns are likely to wreak havoc within the Black
+camp.} c3 27. bxc3 Qa5 {[#]} 28. Qxh6+ $6 (28. Nc4 Bxf4 29. Nxa5 {was even
+stronger, when the Black bishop does not hit c3. The pawn on h6 is fairly
+irrelevant here.}) 28... Kg8 29. Nc4 b2 30. Rb1 gxh6 31. Nxa5 Nxa4 32. e5 Bb5 (
+32... Bxc3 33. Bxc3 Nxc3 34. Rxb2 Nxd5 {is beyond depressing, as White has an
+extra pawn with an overwhelming positional advantage as well. So
+understandably David chooses to keep as much tension in the position as
+possible, although here he is holding on for dear life.}) 33. c4 (33. e6 Rff8
+34. Bxb5 axb5 35. Nc6 {was one crushing sequence.}) 33... Bxa5 34. cxb5 axb5 {
+[#]} 35. Bxb5 $2 ({the calm} 35. Kf2 {was called for}) 35... Bc3 $1 {Black
+siezes his chance to create some confusion, although he still remains in some
+trouble.} 36. Bxa4 Bxd4 37. e6 Rxa4 38. exf7+ Kxf7 39. Ke2 Ke7 40. Rhd1 Kd6 41.
+Rxd4 Rxd4 42. Rxb2 Rh4 43. Ke3 Rxh2 44. Kf4 Kxd5 45. Kxf5 {The Black king is
+cut off so this is probably winning for White again} h5 46. Rd2+ Kc5 47. Kf4 h4
+48. Ke3 (48. Kg4 Kc6 49. Rd8 Rxg2+ 50. Kxh4 {seemed an easier win.}) 48... h3
+49. gxh3 Rxh3 50. Ke4 Rh8 {[#]} 51. Rd5+ $6 {David's resolute defence has
+forced Richard to find a narrow path to victory, and here he finally begins to
+crack.} ({The win was still there with the natural} 51. f4 $1 Re8+ 52. Kf3 Rf8
+53. Kg4 Rg8+ 54. Kh5 Rh8+ 55. Kg5 Rg8+ 56. Kh6 $1 Rf8 57. Rf2 {and as the
+Black rook will inevitably be tempoed by a King to g7 at some point, White is
+winning by force.  I must admit this plan of putting the king on h6 looks
+somewhat strange, but it is the only winning one, as pointed out to me by
+endgame expert Jonathan Hawkins.}) 51... Kc6 52. f4 $2 ({the only winning path
+still available was to retreat with} 52. Rd3) 52... Re8+ $1 53. Kd4 (53. Re5
+Kd7 $1 {was presumably what Richard had missed.}) 53... Re6 54. f5 Rd6 55.
+Rxd6+ Kxd6 56. f6 Ke6 57. Ke4 Kf7 58. Kd4 Kxf6 1/2-1/2
+

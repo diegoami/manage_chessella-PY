@@ -1,0 +1,97 @@
+[Event "Lindores Abbey Stars"]
+[Site "Cupar SCO"]
+[Date "2019.05.26"]
+[Round "6.2"]
+[White "Ding, Liren"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2805"]
+[BlackElo "2861"]
+[Annotator "Sagar Shah"]
+[PlyCount "130"]
+[EventDate "2019.05.25"]
+
+{[%evp 0,130,31,28,23,-11,-4,6,14,3,29,21,25,28,16,6,12,25,30,2,1,-2,8,26,24,
+-9,18,-1,6,22,38,42,35,57,39,50,72,42,71,65,90,78,81,74,71,73,65,72,76,87,82,
+89,83,73,98,80,84,74,88,73,74,71,81,69,74,72,79,83,86,83,83,84,82,45,63,57,118,
+52,69,69,81,81,73,81,67,54,66,66,91,59,60,51,60,0,0,0,0,0,0,0,0,0,8,37,23,23,
+43,51,57,64,64,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 d5 2. c4 e6
+3. Nf3 a6 $5 {This move has started becoming quite popular recently.} 4. Bg5 {
+Ding Liren goes for a fresh position that is not deeply analyzed.} Be7 5. Bxe7
+Qxe7 {Exchanging pieces might not be the right strategy when you are playing
+in a must-win situation but here Ding feels that his bishop on f1 will have
+more scope as compared to the bishop on c8.} 6. Nbd2 Nf6 7. g3 O-O 8. Bg2 b6 9.
+cxd5 {Just when the bishop is about to be developed on b7 and Black is ready
+to take dxc4, White takes on d5 and fixes the structure.} exd5 10. O-O Bb7 11.
+Rc1 a5 12. Re1 c5 {At this point it seemed as if Black has very comfortable
+play. His knight will go to d7 and his rooks will come to central files. White
+doesn't seem to have any edge. But Ding Liren found a fine idea.} 13. dxc5 bxc5
+14. e4 $1 {This powerful move must have been underestimated by Magnus.} Nxe4 {
+Here the commentators were only considering taking on e4 as an option, but
+Ding comes up with some very surprising.} (14... dxe4 15. Ng5 {already seems
+quite better for White.}) 15. Nh4 $1 {You need to make moves like these if you
+want to beat Magnus. f3 is a big threat now.} Qf6 16. Nxe4 dxe4 17. Rxc5 {
+White has recovered the pawn and now both e4 and a5 are weak.} Na6 (17... Qxb2
+18. a4 {with the threat of Rb5.} Qf6 19. Bxe4 $16 {Even though the material is
+even, White is just better.}) 18. Rxa5 Qxb2 19. Bxe4 Bxe4 20. Rxe4 Rad8 (20...
+Nb4 21. Rxa8 Rxa8 22. Qe1 $1 {With b4 hanging and a mate on e8.}) 21. Rd5 Rxd5
+22. Qxd5 {White is now a clean pawn up, but Black gets his knight back in the
+game.} Nb4 23. Qb3 Qxb3 24. axb3 {Let's take stock of what we have here. White
+is a pawn up and logically this should be winning, right? I mean if you see
+such a game given in any book, then the player with the white pieces has most
+often won showing good technique. The problem here is that you have Magnus
+Carlsen, one of the finest endgame players of our time, sitting with the black
+pieces. Hence, Ding has to be careful, but at the same time he shouldn't be
+overcautious that he is not able to take some calculated risks. Add to this
+the pressure of winning the tournament and I think it became a bit too much
+for the world no.3 to handle.} Rb8 25. Nf3 Kf8 26. Kf1 Nd5 27. Nd2 g6 28. Rd4
+Nb4 29. Ke2 {So far so good. White has brought his king in.} Ke7 30. Re4+ Kd7
+31. Ke3 Rb5 32. Kd4 $6 {Ding Liren is not averse about going into a rook
+endgame. Is this a smart decision? According to Magnus it would have been
+better to keep the knights on the board because in rook endgames the drawing
+chances increase hugely. But Ding had his reasons to be positive. He has an
+active rook, an active king, a healthy extra pawn and nearly 10 more minutes
+on the clock.} Rd5+ 33. Kc3 Rd3+ 34. Kxb4 Rxd2 35. Rf4 f5 36. Kc5 Kc7 37. b4
+Kb7 38. h4 h5 39. Rf3 Rc2+ 40. Kd5 Re2 {I would call this the critical
+position of the game. Here Ding spent nearly 5-6 minutes of his time to figure
+out a way to win. If you look at it, White has some important decisions to
+make. He cannot win by keeping the status quo. That's because the king would
+like to enter the kingside, but the rook on e2 guards it firmly. If you want
+the king to enter, then you need your rook to take an active part, but that
+would mean the sacrifice of the f2 pawn. Also the b4 pawn isn't going to queen
+anytime soon. It's main purpose would be to distract Black so that White can
+enter the kingside.} 41. Kc5 (41. Rd3 {is the critical line.} Rxf2 42. Ke5 {
+[%cal Ge5f6,Gf6g6,Gf6g5] The king can now come to f6 and take the pawn on g6
+or he can come to g5 via f6. Either way, this is quite dangerous for Black.}
+Kc7 $1 (42... Kb6 $2 {This doesn't work because of} 43. Rd6+ Kb5 44. Rxg6 {
+And Black is just lost because both his pawns on f5 and h5 will fall.} Kxb4 45.
+Rg5 Rf3 46. Rxh5 Rxg3 47. Rg5 Rh3 (47... Rg4 48. Rxg4+ fxg4 49. Kf4 $18) 48. h5
+{This is just winning because after} Kc5 49. Kxf5 Kd6 50. Kg6 $18 {The White
+rook is in perfect position to shelter the king.}) 43. Kf6 (43. b5 Kb6 44. Rd6+
+Kxb5 45. Rxg6 Rf3 46. Rg5 Kc6 47. Rxh5 Rxg3 48. Rg5 Rg4 $1 (48... Rh3 49. h5
+Kd7 50. Kxf5 Ke7 $11 {Black king is too quick.})) 43... f4 44. Kxg6 Rg2 $1 45.
+Kxh5 Rxg3 46. Rd4 f3 47. Rf4 Kd6 {This will end in a draw as Black pieces are
+much better coordinated.}) (41. Re3 Rxf2 42. Ke5 Kb6 43. Kf6 f4 $1 {This is
+what Vishy was mentioning. He doesn't want to keep the rook on e3 because
+f5-f4 comes with a tempo.} 44. gxf4 (44. Re6+ Kb5 45. Re5+ Kc6 46. Kxg6 fxg3
+$11) 44... Rxf4+ 45. Kxg6 Rxh4 $11) 41... Rc2+ 42. Kd4 Re2 43. Kd5 {Ding Liren
+is trying for some kind of triangulation. He has brought same position with
+white to move. He sees the the rook cannot move from e2 and the king may have
+to compromise his position from b7. Either move to b6 and allow some check
+down the 6th rank or go to the last rank. Either way, this is an interesting
+try, but Magnus continues as if nothing has happened!} Kb6 44. Rf4 (44. Re3
+Rxf2 45. Re6+ Kb5 46. Ke5 $5 (46. Rxg6 f4 {The fact that the king is on d5 and
+not e5 allows Black to liquidate.}) 46... Re2+ 47. Kd6 Rc2 48. Ke7 Rc7+ 49. Kf8
+(49. Kf6 Rc3 $1) 49... Rc4 $1 {It's true that in all of these lines Black is
+holding on by the skin of his teeth, but it is also true that a win doesn't
+exist for White in these lines. A deeper inspection has to be made to come to
+clear conclusion.}) 44... Kb5 45. Kd6 Kb6 46. f3 Kb5 47. Kd5 (47. g4 $6 hxg4
+48. fxg4 Re4 $1 $11 {This was Magnus' evil plan}) 47... Rg2 48. Ke5 Rxg3 49.
+Kf6 Ka4 50. Kg7 Kb5 51. Kh6 Ka4 52. Rd4 Kb5 53. Rd6 Kxb4 54. Rxg6 Rxf3 {
+Black is now out of danger.} 55. Kxh5 Kc5 56. Rf6 Kd5 57. Kg6 Ke5 58. h5 Rg3+
+59. Kf7 f4 60. h6 Rh3 61. Kg7 f3 62. Rf8 Rg3+ 63. Kh8 Ke4 64. h7 Ke3 65. Rxf3+
+Kxf3 {An excellent defensive effort by the World Champion who won the 1st
+edition of the Lindores Abbey Chess Stars by his sheer fighting spirit.}
+1/2-1/2
+

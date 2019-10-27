@@ -1,0 +1,31 @@
+[Event "British Chess Championship"]
+[Site "?"]
+[Date "2019.07.27"]
+[Round "1"]
+[White "Simon Williams"]
+[Black "John Merriman"]
+[Result "1-0"]
+[WhiteElo "2468"]
+[BlackElo "2226"]
+[Annotator "danie"]
+[SetUp "1"]
+[FEN "7k/p2q2p1/1pRb1p1p/1Q1P4/P2R2P1/4r2P/6K1/8 w - - 0 1"]
+[PlyCount "15"]
+[SourceVersionDate "2019.07.30"]
+
+{[%evp 0,15,0,0,93,124,199,192,192,192,190,189,192,186,186,186,186,189] [#]} 1.
+Qb1 $1 {Crucially setting up a check on c8, this slows down Black's
+counterattack.  Just before this in the commentary room, self-styled "chess
+personality of the year" Lee Bullock was happy to point out that his engine
+gave Qb1 as White's top move. The ball is passed back to Black.} Rg3+ $2 {
+and he swipes it into the net.} ({Resolute calculation was needed here, but
+John was already short of time. With} 1... Qe8 $1 {he could have already
+forced a draw.} 2. Rxd6 Rg3+ $3 3. Kxg3 (3. Kh2 Qe2+ {transposes}) 3... Qe3+ {
+and remarkably, there is no good way for White to avoid the perpetual check.}
+4. Kg2 (4. Kh4 Qg5+ $11) 4... Qe2+ 5. Kh1 Qf3+ 6. Kg1 Qg3+ 7. Kf1 Qf3+ 8. Ke1
+Qh1+ 9. Kd2 Qxb1 {does not favour White as the Black queen is too active.}) 2.
+Kf2 Rxh3 3. Qf5 $1 {Now White covers the net, ready for any lobs.} Qxf5+ 4.
+gxf5 Be5 (4... Bc5 5. Rxc5 bxc5 6. d6 {and the pawn makes a break for glory.})
+5. Rd1 Rh5 6. d6 Rxf5+ 7. Ke3 Bxd6 8. Rcxd6 {Black has a few pawns for the
+rook, but Simon was able to safely steer the game towards victory.} 1-0
+

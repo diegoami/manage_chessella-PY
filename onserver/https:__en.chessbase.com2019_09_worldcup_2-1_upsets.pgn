@@ -1,0 +1,59 @@
+[Event "FIDE World Cup 2019"]
+[White "Nisipeanu, Liviu-Dieter"]
+[Black "Nakamura, Hikaru"]
+[Site "Khanty-Mansiysk"]
+[Round "2.1"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.09.13"]
+[WhiteElo "2656"]
+[BlackElo "2745"]
+[PlyCount "59"]
+
+1. Nf3 {} Nf6 2. d4 e6 3. c4 d5 4. Nc3 Be7 5. g3 0-0 6. Bg2 dxc4 7. Ne5 Qd6 {E06: Closed Catalan: Early deviations} 8. 0-0 Qa6 9. a4 Nc6 {The position is equal.} 10. Nb5 Nxe5 11. dxe5 Rd8 12. exf6 $146 ({
+Predecessor:} 12. Qc2 Nd5 13. Qxc4 c6 14. Nd6 Qxc4 15. Nxc4 b6 16. Bd2 Ba6 17. Rfc1 {1/2-1/2 (17) Efimenko,Z (2647)-Kravtsiv,M (2623) Lvov 2015} )Rxd1 13. Rxd1 Bd6 $1 14. Bf4 $1 {} e5 $2 (14... Qa5 $11 {and Black is
+okay.} )15. Nxd6 $40 { Hoping for Nb5. White wants a kill.} cxd6 {[#]
+} (15... exf4 $16 16. Ne8 Qa5 )16. Bxe5 $1 {} Qa5 (16... dxe5 17. Rd8# )17. Rxd6 {Strongly threatening Rd5.} Bg4 18. Bc3 Qc7 19. Rad1 g6 {[#]} 20. Bxb7 $1 {} Rf8 (20... Qxb7 21. Rd8+ )21. Bf3 Bxf3 (21... Be6 {
+was worth a try.} 22. R1d4 Qc5 )22. exf3 h5 $2 (22... h6 23. Rd7 Qc5 )23. Kg2 {
+White is clearly winning.} Re8 24. h4 Qc8 25. a5 a6 26. Rd7 Qa8 27. R1d6 Rc8 28. Bd4 c3 29. bxc3 Re8 30. Bb6 {Accuracy: White = 96%, Black = 35%.} 1-0
+
+[Event "FIDE World Cup 2019"]
+[White "Wei, Yi"]
+[Black "Anton Guijarro, David"]
+[Site "Khanty-Mansiysk"]
+[Round "2.1"]
+[Annotator "TA"]
+[Result "0-1"]
+[Date "2019.09.13"]
+[WhiteElo "2721"]
+[BlackElo "2674"]
+[PlyCount "90"]
+
+1. e4 {} e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. h3 d6 6. c3 a5 {C54:
+Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} 7. 0-0 0-0 8. Re1 h6 {
+The position is equal.} 9. Nbd2 Be6 10. b3 Bb6 $146 ({Predecessor:} 10... Ba7 11. Nf1 d5 12. exd5 Nxd5 13. Bd2 Qf6 14. N1h2 Rad8 15. Ng4 Bxg4 16. hxg4 {
+1/2-1/2 (27) Karjakin,S (2778)-Ding,L (2778) Shamkir 2018} )11. Nf1 a4 12. Bd2 axb3 13. axb3 Rxa1 14. Qxa1 Qd7 15. Be3 Bxe3 16. Nxe3 Ne7 17. Bxe6 fxe6 18. Nh2 Ng6 19. g3 Qb5 20. Rd1 Kh7 21. b4 d5 22. Nhg4 Nxg4 23. hxg4 dxe4 24. dxe4 Qe2 $36 { Black fights for an advantage.} 25. Rf1 Qf3 26. Qa2 Rf6 27. Qc2 Nh8 28. Rd1 (28. g5 $11 hxg5 29. Qd1 )Nf7 $15 29. Rd3 $1 {
+Threatening Nd5!} Rg6 30. Qd1 Qxe4 {Strongly threatening ...Rf6.} 31. f3 (31. Nf1 $17 )Qc6 $19 32. Ng2 e4 33. Re3 exf3 34. Nf4 {[#]} (34. Qxf3 $142 Qxf3 35. Rxf3 )Rf6 $1 ({Weaker is} 34... Rxg4 35. Qd3+ Kg8 36. Rxe6 $17 )35. Kf2 $2 (35. Qd3+ Kg8 36. b5 )Ng5 36. Qd3+ Kg8 37. Nh5 (37. Re5 $142 )Rf8 38. Qd4 {} e5 39. Rxe5 Nh3+ 40. Kf1 {Rg5!
+would kill now.} f2 (40... Qa6+ $142 41. b5 Qa2 42. Qd5+ Qxd5 43. Rxd5 Ra8 )41. Re4 $2 (41. Qd5+ {was called for.} Qxd5 42. Rxd5 )Qa6+ 42. c4 {
+} Qg6 {Threatens to win with ...Kh7.} 43. Qa1 (43. Qd3 $142 )Rf7 44. Re8+ Kh7 {( -> ...Qd3+)} 45. Qd1 {[#]} Rd7 $1 { Discovered
+Attack. Accuracy: White = 38%, Black = 77%.} 0-1
+
+[Event "FIDE World Cup 2019"]
+[White "Ding, Liren"]
+[Black "Movsesian, Sergei"]
+[Site "Khanty-Mansiysk"]
+[Round "2.1"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.09.13"]
+[WhiteElo "2811"]
+[BlackElo "2654"]
+[PlyCount "81"]
+
+1. d4 {
+} d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 a6 6. Bd2 {D15: Slav Defence:
+4 Nc3 a6 and gambit lines after 4 Nc3 dxc4} e6 7. Qb3 Ra7 8. Nh4 Be4 9. cxd5 cxd5 10. f3 Bg6 $1 11. 0-0-0 $146 ({Predecessor:} 11. Nxg6 hxg6 12. 0-0-0 {
+1/2-1/2 (25) Vitiugov,N (2726)-Malakhov,V (2713) Doha 2016} )Nc6 12. Nxg6 hxg6 13. Kb1 Be7 14. Rc1 Nd7 15. Bd3 Na5 16. Qa4 {Hoping for Nxd5!} Nc6 $1 17. Ne2 Ra8 18. e4 Rc8 19. e5 g5 20. g3 g6 21. a3 Kf8 22. h4 gxh4 23. gxh4 Rxh4 24. Rxh4 Bxh4 25. Rh1 Kg7 26. Qd1 (26. f4 $14 )Qe7 $1 $11 27. Qg1 {[#] And
+now Nf4 would win.} Rh8 $1 28. Be3 Qd8 29. Nf4 Nf8 $1 30. Qg4 {Black must now
+prevent Rg1.} Rh7 31. Rg1 Kh8 32. Nh3 {Threatening Bg5.} Qb6 {[#] ...Nxe5! is
+the strong threat.} 33. Ng5 (33. Nf4 $15 Qd8 34. Qg2 )Bxg5 $1 $17 34. Qxg5 Kg8 35. Qf4 Qb3 36. Bc2 Qb5 37. Qf6 $2 (37. Re1 $17 )Na5 $2 (37... Qe2 $19 38. Qf4 Rh2 )38. Bxg6 $11 {The position is equal.} fxg6 39. Rxg6+ Nxg6 40. Qxg6+ Kh8 41. Qf6+ {Accuracy: White = 58%, Black = 75%.} 1/2-1/2

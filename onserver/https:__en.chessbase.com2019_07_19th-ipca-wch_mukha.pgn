@@ -1,0 +1,89 @@
+[Event "19th IPCA World Individual Chess Champio"]
+[Site "Ruzomberok"]
+[Date "2019.07.03"]
+[Round "6.2"]
+[White "Gurbanov, Andrei"]
+[Black "Mukha, Nikolay"]
+[Result "0-1"]
+[ECO "A70"]
+[WhiteElo "2300"]
+[BlackElo "2159"]
+[Annotator "Tactical Analysis 2.10 (6s)"]
+[PlyCount "64"]
+[EventDate "2019.??.??"]
+
+{[%evp 14,64,68,24,39,8,71,31,96,35,58,19,51,11,34,-79,-61,-97,-79,-194,-154,
+-199,-144,-223,-203,-228,-218,-258,-214,-269,-181,-199,-151,-183,-124,-187,
+-160,-200,-136,-186,-119,-358,-312,-382,-345,-371,-346,-569,-557,-805,-801,
+-794,-780]} 1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2
+Bg7 8. e4 (8. Nc4 $14 {should be considered.}) 8... O-O $11 {A70: Modern
+Benoni: 6 e4 g6 7 Nf3} 9. Bd3 (9. Be2 Re8 10. O-O Na6 11. Kh1 Nc7 12. f3 Nd7
+13. a4 b6 14. Nc4 Ne5 15. Bf4 Nxc4 16. Bxc4 a6 17. Qe1 h5 18. h4 Rb8 19. Qg3
+Bf8 20. Rfe1 b5 21. e5 dxe5 22. Rxe5 {1-0 (46) Eljanov,P (2739)-Salem,A (2638)
+Geneva 2017}) 9... b6 (9... Bg4 $11 {keeps the balance.} 10. f3 Bd7) 10. O-O
+$16 Ng4 (10... Re8 $14) 11. h3 $146 (11. Be2 $16 f5 12. exf5 gxf5 13. Nf3) ({
+Predecessor:} 11. Nc4 Ne5 12. Bf4 Nxc4 13. Bxc4 Re8 14. Qc2 Be5 15. Bxe5 Rxe5 {
+1-0 (47) Kopasov,A (2041)-Kazakevich,G (2155) St Petersburg 2008}) 11... Ne5
+$14 12. Be2 Ba6 13. f4 Nd3 14. Bxd3 (14. Kh2 $14 {stays ahead.}) 14... Bxd3 $17
+15. Rf3 c4 $1 16. Kh1 (16. Rxd3 $17 cxd3 17. Nb3) 16... Nd7 $19 17. Re3 {[#]}
+b5 $1 {[%mdl 512]} 18. Nf3 (18. a3 $17 {was worth a try.}) (18. Nxb5 Qb6) 18...
+b4 19. Ne2 Re8 20. Ng3 Nc5 {[%cal Rc5e4]} 21. Qe1 c3 22. e5 dxe5 23. Nxe5 Qxd5
+{And now ...f6 would win.} 24. bxc3 bxc3 25. Qxc3 Rac8 26. Qe1 {[#]} (26. Ba3
+$17 g5 27. Bxc5) 26... Ba6 (26... g5 $1 $19 {[%mdl 512]} 27. Nh5 (27. fxg5 Rxe5
+) 27... gxf4 28. Nxf4 {[%mdl 64] Double Attack} Qxe5 29. Rxe5 Bxe5) 27. Ba3 $2
+{[#]} (27. Bb2 $17) 27... Nd3 $1 {[%cal Rd3e1]} 28. Nxd3 Rxe3 29. Qxe3 {
+Threatens to win with Rd1.} Bxa1 30. Nf2 $2 (30. Ne1 {only move.}) 30... Bb7 {
+[%csl Gb7][%cal Rd5g2] Black is clearly winning.} 31. Nfe4 f5 32. Qe1 Bg7 {
+Accuracy: White = 26%, Black = 61%.} 0-1
+
+[Event "19th IPCA World Individual Chess Champio"]
+[Site "Ruzomberok"]
+[Date "2019.07.02"]
+[Round "5.5"]
+[White "Mukha, Nikolay"]
+[Black "Obodchuk, Andrei"]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "2159"]
+[BlackElo "2316"]
+[Annotator "Tactical Analysis 2.10 (6s)"]
+[PlyCount "131"]
+[EventDate "2019.??.??"]
+
+{[%evp 21,131,26,72,34,49,14,45,0,80,41,60,47,63,32,107,67,85,72,103,43,139,50,
+67,56,74,62,64,23,72,12,47,12,120,104,125,97,118,91,138,128,134,128,148,121,
+163,147,177,148,177,143,171,147,168,141,160,132,149,152,166,170,163,155,168,
+142,157,155,167,155,181,171,184,145,170,142,165,140,141,132,138,147,147,126,
+146,151,156,249,131,137,236,257,329,170,231,154,150,188,376,238,748,724,884,
+815,2103,769,29949,699,1536,721,29966,808,911,29984]} 1. d4 Nf6 2. c4 g6 3. Nc3
+d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8. Be3 Qa5 9. Qd2 O-O 10. Rc1
+Rd8 11. d5 e6 (11... Nd7 $11 {was preferrable.}) 12. c4 {D85: Exchange
+Grünfeld: Unusual White 7th moves and lines with 7 Nf3} (12. Bg5 f6 13. Be3 Nc6
+14. h4 exd5 15. exd5 Bg4 16. Be2 c4 17. Bxc4 Bxf3 18. gxf3 Ne5 19. Be2 Qxd5 20.
+Qxd5+ Rxd5 {1/2-1/2 (40) Akobian,V (2625)-So,W (2762) Saint Louis 2019}) 12...
+Qxd2+ 13. Kxd2 Na6 {[#]} 14. Bd3 $146 (14. a3 $14) ({Predecessor:} 14. Bg5 f6
+15. Be3 b6 16. Ng1 f5 17. f3 Re8 18. Bg5 fxe4 19. fxe4 exd5 20. exd5 {0-1 (29)
+Petrosian,T (2604)-Avrukh,B (2645) Kemer 2007}) 14... f5 (14... Nb4 $11) 15.
+Bg5 $16 Re8 16. exf5 gxf5 17. Rhe1 Bd7 (17... Nb4 $14) 18. Ne5 Ba4 19. f4 Nb4
+20. d6 (20. Rc3 $16) 20... Red8 (20... Rad8 $14) 21. Bxd8 ({White should try} 
+21. Be7 $16) 21... Rxd8 $14 22. a3 Nxd3 23. Kxd3 ({Don't play} 23. Nxd3 Rxd6
+24. Re3 Bd4 $11) 23... Rxd6+ 24. Ke3 (24. Kc3 $14 {is more appropriate.}) 24...
+b6 (24... Bxe5 $11 25. fxe5 Rd4) 25. g3 (25. Re2 $16) 25... Kf8 (25... Bxe5 $5
+26. fxe5 Rd4 $11) 26. Re2 Rd8 (26... Bxe5 $1 $11 27. fxe5 Rd4) 27. Rd2 $36 {
+[%mdl 2048] White has strong initiative.} Rc8 28. Rc3 Ke7 29. Rcd3 Bxe5 (29...
+Rg8 $142) 30. fxe5 {[%mdl 4096] Endgame KRR-KRB} Rg8 31. Rf2 h5 32. Rf4 Rc8 (
+32... Rg4 $16 {is a better defense.} 33. Rxg4 hxg4) 33. Rh4 $18 Be8 34. Rd6 Rb8
+35. Kd2 Rb7 36. Kc3 Rb8 37. Kb3 Rc8 38. a4 Rb8 39. Rf4 Rc8 40. Rf2 Rc7 41. Rfd2
+Rc8 42. Ka3 Bc6 43. Kb3 Be8 44. Ra2 Bc6 45. Kc3 Bd7 46. a5 b5 47. cxb5 Bxb5 48.
+Rb2 Bc6 49. Rxc6 {[%mdl 64] [#] Remove Defender} Rxc6 $16 {KR-KR} 50. Rb7+ {
+[%mdl 64] Double Attack} Ke8 51. Rxa7 c4 52. Rb7 Kd8 53. Rb6 (53. Rb4 $16)
+53... Rc5 $18 54. a6 Ra5 (54... Kd7 $16) 55. Rxe6 Kd7 56. Rd6+ (56. Rh6 $142
+Rxe5 57. a7) 56... Kc7 57. Kxc4 {Strongly threatening Re6.} Rxe5 58. Rh6 f4 $2
+(58... Ra5 {was called for.} 59. Kd4 Ra4+ 60. Ke5 Ra5+ 61. Kf4 h4 62. Rh7+ Kb8
+63. Rxh4 Rxa6) 59. Kd4 Rf5 $2 (59... Ra5 60. gxf4 Ra4+ 61. Ke3 Ra3+ 62. Ke4
+Ra4+ 63. Ke3 Ra3+ 64. Ke2 Ra2+ 65. Kf3 Ra3+ 66. Kg2 Kb8 67. Rh8+ Ka7 68. Rxh5
+Rxa6) 60. a7 Kb7 {[#]} 61. Ra6 $1 {[%mdl 512]} Ka8 (61... Kxa6 62. a8=Q+) 62.
+Ke4 $1 {[%csl LRf4,LRf5][%mdl 64] Double Attack} Rb5 63. gxf4 Rb2 64. h3 (64.
+h4 $142 Rh2 65. f5 Rxh4+ 66. Ke5) 64... Rb3 65. f5 h4 66. f6 {Accuracy: White
+= 56%, Black = 34%.} 1-0
+

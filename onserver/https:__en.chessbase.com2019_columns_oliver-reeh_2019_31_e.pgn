@@ -1,0 +1,50 @@
+[Event "TCh-FRA Top 12 2019"]
+[Site "Brest FRA"]
+[Date "2019.05.21"]
+[Round "4.4"]
+[White "Edouard, Romain"]
+[Black "Nezar, Mustapha"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2642"]
+[BlackElo "2339"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "83"]
+[EventDate "2019.05.18"]
+[SourceTitle "2019_31"]
+[WhiteTeam "Bischwiller"]
+[BlackTeam "Vandoeuvre-Echecs"]
+
+{[%evp 0,83,18,2,12,13,13,-10,-2,-2,-2,-17,19,25,25,18,12,9,10,5,5,13,21,25,14,
+14,18,18,18,30,31,10,25,31,31,22,29,36,48,48,56,59,64,59,70,66,66,56,72,77,96,
+102,213,206,224,208,201,199,201,196,189,214,298,304,348,348,467,523,516,511,
+516,537,616,644,648,655,625,627,757,773,773,753,751,785,803,810]} 1. c4 c5 2.
+Nf3 Nf6 3. b3 g6 4. Bb2 Bg7 5. g3 b6 6. Bg2 Bb7 7. O-O O-O 8. d4 cxd4 9. Qxd4
+d6 10. Nc3 Ne4 11. Qe3 Nxc3 12. Bxc3 Bxc3 13. Qxc3 Nd7 14. Rfd1 Nf6 15. a4 a5
+16. Nd4 Qd7 17. Nb5 Bxg2 18. Kxg2 Qc6+ 19. f3 Rfd8 20. e4 Rd7 21. Rd4 Rad8 22.
+Rad1 Qc5 23. Qd2 Kg7 24. Nc3 {In the diagram position Black's is very cramped,
+so perhaps starting a little activity with 24...Qb4 cannot hurt - or can it?}
+Qb4 $2 {Definitely a flash in the pan.} (24... Qa3 {would have been a better
+version of the queen sortie.}) ({Or could you imagine holding a position like} 
+24... e6 25. Nb5 Ne8 {!?}) {[%tqu "En","Black has attacked the pawn b3. Best
+reaction for White?","","","d2b2","Queen move meets queen move - White
+occupies the diagonal towards the black king.",10]} 25. Qb2 $1 {[%csl Gb2,Rb4,
+Rg7][%cal Gb2g7] Queen move meets queen move - White occupies the diagonal
+towards the black king.} Kg8 {The king steps out of the long diagonal, but
+it's too late.} ({Taking back Black's move with} 25... Qc5 {would have been
+relatively best, though} 26. Nd5 {[%csl Rf6,Rg7][%cal Gb2g7]} e5 (26... Nxd5
+27. Rxd5+ {[%csl Gd5][%cal Gb2g7,Gd5c5]}) 27. Nxf6 Kxf6 28. Rd5 {[%csl Gd5,Rf6]
+[%cal Gf3f4] looks pretty hopeless to me. Or is this just a human view?}) ({
+Funnily enough, White's game continuation even works after} 25... e6 {as well!}
+) {[%tqu "En","Can you find White's (ChessBase author Romain Edouard)
+continuation?","Conquer Black's queen by force!","","d4d5","",10,"c3d5","",0]}
+26. Rd5 $1 {[%csl Rb4,Gd5] The most profitable way to make use of this square.}
+({The 'natural'} 26. Nd5 $1 {[%csl Gd5] was of course not bad either, e.g.} Qc5
+(26... Nxd5 27. Rxd5) 27. Nxf6+ exf6 28. Rd5 {[%csl Gd5][%cal Gd5c5,Gb2f6]})
+26... Nxd5 {[%tqu "En","Which recapture?","","","d1d5","",10]} 27. Rxd5 $18 {
+[%csl Rb4,Gd5][%cal Gd5b5] and Black has no defence against Rb5 picking up his
+queen b4.} e6 28. Rb5 {[%csl Rb4,Gb5]} Qc5 29. Rxc5 dxc5 {[%csl Rb2,Rg2][%cal
+Gd7d2]} 30. Qc1 Rd3 31. e5 R8d4 32. Ne4 Rxb3 33. Nf6+ Kg7 34. Ne8+ Kf8 35. Nd6
+Rbd3 36. Qh6+ Ke7 37. Qg5+ Kd7 38. Qf6 Rd2+ 39. Kh3 Rxd6 40. Qxf7+ Kc6 41. exd6
+Rxd6 42. Qxh7 1-0
+

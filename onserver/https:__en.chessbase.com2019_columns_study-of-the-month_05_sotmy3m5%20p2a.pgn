@@ -1,0 +1,135 @@
+[Event "Morgenzeitung (Ostrau)"]
+[Site "?"]
+[Date "1929.05.19"]
+[Round "?"]
+[White "Réti, Richard"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "K7/2P5/b4k1p/3P4/6P1/8/8/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1929.??.??"]
+
+{Did you solve this puzzle from part 1? White is to move and draw.} 1. d6 Ke6
+2. d7 $1 (2. Ka7 $2 Bc8 3. Kb8 Kd7 $19) (2. Kb8 $2 Kxd6 $1 $19 {and White does
+not reach h1.}) 2... Kxd7 3. Ka7 $1 Bc8 ({Réti originally gave} 3... Be2 4. Kb8
+Ba6 5. Ka7 Bc8 (5... Kxc7 6. Kxa6 $11) 6. Kb8 $11 {while apparently not
+noticing that 4.Kb7 would be an easy draw there, as Black has to give the
+bishop check on a6.}) (3... Be2 4. Kb7 $11) 4. Kb8 Ba6 5. Ka7 $11 1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1910.??.??"]
+[Round "?"]
+[White "Réti, Richard"]
+[Black "Tartakower, Saviely"]
+[Result "1-0"]
+[ECO "B15"]
+[PlyCount "21"]
+[EventDate "1910.??.??"]
+[EventRounds "45"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "1998.11.10"]
+
+{Of course, this classical miniature is one of my favorites. It demonstrates
+castling as an attacking move, similar to what is found in some endgame
+studies. Tartakower, seemingly winning a piece, soon finds that his opponent
+has prepared a deadly double-check.} 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6
+5. Qd3 e5 $2 {This move is a serious mistake, but one can only see that if he
+already sees the checkmate.} 6. dxe5 Qa5+ ({Yes, technically the game still
+would be playable after exchanging the queens. But if that is what you
+sacrifice a central pawn for, you give up all winning chances and just have to
+fight for a draw against an opponent who can decide if he rather wants a
+positional or material advantage.} 6... Qxd3 7. cxd3 $5 (7. Bxd3 Nxe4 8. Bxe4
+Nd7 9. Bf4 f6 10. exf6 Nxf6 11. Bd3 $16) 7... Nxe4 8. dxe4 Nd7 9. Nf3 Nc5 10.
+Bc4 Nxe4 11. Be3 $16) 7. Bd2 Qxe5 8. O-O-O $3 Nxe4 (8... Qxe4 9. Re1 $18) ({
+Black already had to turn to dangerously passive play.} 8... Be6 9. Nxf6+ gxf6
+(9... Qxf6 10. Nf3 Nd7 11. Bg5 Qf5 12. Qxf5 Bxf5 13. Re1+ Be6 14. Nd4 Nc5 15.
+b4 Na4 16. Nxe6 fxe6 17. Rxe6+ Kd7 18. Re4 Nc3 19. Rd4+ $18) 10. Bc3 Qc7 11.
+Qg3 $1 Qxg3 12. hxg3 $16 {and White has a big advantage if he just continues
+in a sane way, for example} Nd7 13. Ne2 O-O-O 14. Nf4 Bc5 15. Nxe6 fxe6 16. Bc4
+Bxf2 17. Bxe6 Kc7 18. Bxd7 Be3+ 19. Kb1 Rxd7 20. Rxd7+ Kxd7 21. Bxf6 $16) 9.
+Qd8+ Kxd8 10. Bg5+ Kc7 11. Bd8# 1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1924.??.??"]
+[Round "5"]
+[White "Réti, Richard"]
+[Black "Capablanca, Jose Raul"]
+[Result "1-0"]
+[ECO "A15"]
+[PlyCount "61"]
+[EventDate "1924.03.16"]
+[EventRounds "22"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2004.01.01"]
+
+{The rest of the games is given without further analysis. Here Réti manages to
+imprison the black queen... on c5! Alekhine could have traded the queens, but
+would have lost at least one rook for a knight.} 1. Nf3 Nf6 2. c4 g6 3. b4 Bg7
+4. Bb2 O-O 5. g3 b6 6. Bg2 Bb7 7. O-O d6 8. d3 Nbd7 9. Nbd2 e5 10. Qc2 Re8 11.
+Rfd1 a5 12. a3 h6 13. Nf1 c5 14. b5 Nf8 15. e3 Qc7 16. d4 Be4 17. Qc3 exd4 18.
+exd4 N6d7 19. Qd2 cxd4 20. Bxd4 Qxc4 21. Bxg7 Kxg7 22. Qb2+ Kg8 23. Rxd6 Qc5
+24. Rad1 Ra7 25. Ne3 Qh5 26. Nd4 Bxg2 27. Kxg2 Qe5 28. Nc4 Qc5 29. Nc6 Rc7 30.
+Ne3 Ne5 31. R1d5 ({Black correctly gave up, but maybe a bit early. Personally
+I would have tried} 31. R1d5 Nc4 32. Rxc5 Nxb2 {but objectively White wins,
+for example} 33. Rc2 Rxe3 (33... Na4 34. Nd5 $18) 34. fxe3 $18 {and with an
+exchange up, the game is won. Of course, on the world-class level the both
+opponents played at, they surely saw those additional few forced moves, while
+that might not have been the case at the much lower playing level of your
+author and his usual opponents. This interestingly shows in your author's
+opinion the difference between when masters and when more casual players
+should resign.}) 1-0
+
+[Event "Amsterdam m"]
+[Site "Amsterdam"]
+[Date "1920.??.??"]
+[Round "1"]
+[White "Euwe, Max"]
+[Black "Réti, Richard"]
+[Result "0-1"]
+[ECO "C56"]
+[PlyCount "44"]
+[EventDate "1920.??.??"]
+[EventRounds "4"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2001.11.25"]
+
+{This game is a real curiosity, as Réti played 14.-Bg4 against Paul Krueger
+1914 and won by sacrificing both rooks. So it is possible that Euwe, who had a
+similar game already in the same year as this one (1920) with White against
+Kroone (with 11.-Bc5 instead of 11.-Qc5) was prepared, but outprepared by Réti.
+The previous games were pointed out as a discussion comment on another big
+online chess database website by Geoff Chandler, Scotland, using a pseudonyme
+in 2014.} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7.
+Bxd5 Qxd5 8. Nc3 Qa5 9. Nxd4 Nxd4 10. Qxd4 f5 11. Bg5 Qc5 12. Qd8+ Kf7 13. Nxe4
+fxe4 14. Rad1 Bd6 15. Qxh8 Qxg5 16. f4 Qh4 17. Rxe4 Bh3 18. Qxa8 Bc5+ 19. Kh1
+Bxg2+ 20. Kxg2 Qg4+ 21. Kf1 Qf3+ 22. Ke1 Qf2# {Other sources say, the final
+moves are just an analysis and Euwe had resigned after 20.-Qg4+.} 0-1
+
+[Event "Amsterdam m"]
+[Site "Amsterdam"]
+[Date "1920.??.??"]
+[Round "2"]
+[White "Réti, Richard"]
+[Black "Euwe, Max"]
+[Result "1-0"]
+[ECO "A83"]
+[PlyCount "33"]
+[EventDate "1920.??.??"]
+[EventRounds "4"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2001.11.25"]
+
+{This game, from the same match as the previous one and with another double
+rook sacrifice, is another fast win of Réti against the Dutch master who would
+go on to become World Champion 1935-1937 and FIDE President 1970-1978.} 1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 g6 5. f3 exf3 6.
+Nxf3 Bg7 7. Bd3 c5 8. d5 Qb6 9. Qd2 Qxb2 10. Rb1 Nxd5 11. Nxd5 Qxb1+ 12. Kf2
+Qxh1 13. Bxe7 d6 14. Bxd6 Nc6 15. Bb5 Bd7 16. Bxc6 bxc6 17. Qe2+ ({Another
+source gives the ending of the game as} 17. Qe2+ Kd8 18. Bc7+ Kc8 19. Qa6#) 1-0
+

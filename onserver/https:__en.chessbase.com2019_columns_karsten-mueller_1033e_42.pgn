@@ -1,0 +1,35 @@
+[Event "6th Shamkir Chess 2019"]
+[Site "Shamkir"]
+[Date "2019.04.02"]
+[Round "3.3"]
+[White "Navara, David"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2739"]
+[BlackElo "2845"]
+[Annotator "Karsten Mueller"]
+[SetUp "1"]
+[FEN "8/8/2P3k1/3B4/5K2/2r4p/8/8 w - - 0 56"]
+[PlyCount "6"]
+[EventDate "2019.??.??"]
+[SourceTitle "1033_42"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+56. Ke5 {Every beginner knows that a rook is better than a bishop. However, if
+passed pawns race things often get complicated.} {[%tqu "En","Black to plan
+and win","","","c3c5","",10,"h3h2","",0,"g6g5","",0,"De","Schwarz zieht und
+gewinnt","","","c3c5","",10,"h3h2","",0,"g6g5","",0]} Rc5 $1 {The crucial move
+that decides the game. For the moment, White is paralysed.} ({After} 56... h2
+$2 57. Be4+ (57. Kd6 $2 Rd3 58. c7 h1=Q 59. c8=Q Qxd5+ $19) 57... Kg5 (57...
+Kf7 58. Kd6 Re3 59. Bd5+ Ke8 60. c7 Rc3 61. Bh1 $11) 58. Kd6 Kf4 59. Bh1 Rc1
+60. c7 Rxh1 61. c8=Q Rd1+ 62. Ke6 $1 (62. Ke7 $2 h1=Q 63. Qc7+ Ke3 64. Qc5+ Rd4
+$19) 62... h1=Q 63. Qc7+ {the black king cannot hide from the checks, e.g.} Ke3
+64. Qc5+ Rd4 65. Qc3+ Rd3 66. Qc5+ Ke2 67. Qc2+ Rd2 68. Qc4+ $11) (56... Kg5 $2
+57. Kd6 h2 58. c7 $11) 57. Kd6 (57. c7 Rxc7 58. Kf4 Rc3 $19) 57... Rxd5+ 58.
+Kxd5 h2 (58... h2 59. c7 h1=Q+ 60. Kd6 {[%csl Ga4,Gb4,Gc4,Gd4,Gd5,Ge5,Gf5,Gg5,
+Gg6,Gg7,Gg8] The black queen manages to go to c8 and the black king is in the
+winning zone.} Qh3 (60... Qb7 61. Kd7 Kf5 62. Kd8 Kf6 63. c8=Q Qe7#) 61. Ke7
+Qc8 $19) 0-1
+

@@ -1,0 +1,39 @@
+
+
+[Event "26th Abu Dhabi Master 2019"]
+[Site "Abu Dhabi"]
+[Date "2019.08.07"]
+[Round "6.8"]
+[White "Aryan Chopra"]
+[Black "Onischuk, Vladimir"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2553"]
+[BlackElo "2637"]
+[Annotator "TA"]
+[PlyCount "75"]
+[EventDate "2019.08.02"]
+[EventType "swiss"]
+[EventCountry "UAE"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,75,54,62,30,77,76,83,78,74,72,110,88,112,112,116,112,169,154,152,156,
+164,166,156,157,158,155,155,112,162,158,125,124,149,140,222,226,227,227,216,
+221,238,199,195,206,277,263,277,266,285,302,414,423,950,941,917,931,1460,1318,
+29984,29985,29990,29991,29991,29992,29992,29993]} 1. e4 d6 2. d4 g6 3. Nc3 Bg7
+4. f4 a6 5. Nf3 b5 6. Bd3 Bb7 7. e5 {B06: Modern Defence} (7. O-O Nd7 8. a4 b4
+9. Ne2 Ngf6 10. Ng3 O-O 11. c3 bxc3 12. bxc3 a5 13. Rb1 Rb8 14. Bd2 Bc6 15. e5
+Nd5 {0-1 (42) Alekseenko,K (2635)-Sjugirov,S (2677) St Petersburg 2018}) 7...
+e6 8. a4 b4 9. Ne4 {White is better.} Ne7 10. O-O Nbc6 11. c3 a5 $146 ({
+Predecessor:} 11... O-O 12. g4 f5 13. exf6 Bxf6 {0-1 (59) Przezdziecka,E (2133)
+-Szczepkowska,K (2331) Barlinek 2007}) 12. Qe2 O-O 13. g4 bxc3 (13... Nd5 $16)
+14. bxc3 $18 Nd5 15. Bd2 Rb8 16. h4 Bc8 17. g5 Rb2 18. Qe1 Nce7 19. Bc1 Rb6 20.
+Nf6+ Bxf6 21. gxf6 Nf5 {[#]} 22. h5 $1 Nxf6 (22... Ba6 $16 23. Bxf5 exf5) 23.
+exf6 Qxf6 24. Ra2 Bb7 25. Rh2 Kg7 26. Ng5 {Black must now prevent hxg6.} h6 27.
+Ne4 Qe7 28. hxg6 fxg6 29. Rff2 Bc6 30. Re2 {Hoping for Ng3.} Rg8 31. Ng3 Kf7 (
+31... Bd5 $142 32. Kf1 (32. c4 Nxd4 33. Kf1 Bc6 $18) 32... Kf8) 32. Bxf5 gxf5
+33. Rxh6 Rg7 34. Rexe6 Qd7 35. Kh2 {White mates.} Bd5 36. Rhf6+ Kg8 37. Re8+
+Kh7 38. Nxf5 {Accuracy: White = 82%, Black = 33%.} 1-0

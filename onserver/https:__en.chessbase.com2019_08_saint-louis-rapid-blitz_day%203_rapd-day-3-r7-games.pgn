@@ -1,0 +1,135 @@
+[Event "GCT Saint Louis Rapid 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.12"]
+[Round "7.1"]
+[White "Caruana, Fabiano"]
+[Black "Aronian, Levon"]
+[Result "0-1"]
+[ECO "C90"]
+[WhiteElo "2819"]
+[BlackElo "2756"]
+[Annotator "Saravanan,V"]
+[PlyCount "102"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. a5 d6 10. c3 {[#]} Be6 {[Hasn't been played at the very top in recent
+times. A surprise in the opening is always an important psychological device,
+in a proper opening, instead of a 'setup'. From the body language of the
+players, it appeared that Aronian was quite pleased with the game at this
+point]} ({Caruana had played a game recently in the line, which probably
+enabled Aronian to 'target' him here:} 10... Rb8 11. Bc4 Bg4 12. h3 Bh5 {
+with a complex position in Caruana - Liren at the Zagreb GCT just last month})
+11. Bxe6 fxe6 12. d4 bxc3 13. bxc3 exd4 14. cxd4 d5 15. e5 (15. Ng5 Qd7 16. e5
+{is the engine's recommendation here, but it is extremely naive to expect that
+a human - especially someone surprised in the opening - would play this way!})
+15... Nd7 16. Nbd2 Rb8 17. Ba3 Bxa3 18. Rxa3 Rb5 19. Qe2 h6 20. h3 Rf7 21. Rc1
+Ndb8 {[White's a5-pawn is attacked, but otherwise white holds most of the
+cards - space advantage and generally better pieces. Here, sensing Caruana
+decided to get risky, and sacrifice the pawn]} 22. Qd3 Nxa5 23. Rac3 Nd7 $1 24.
+Qg6 {[Somewhere around here, Caruana's position didn't look very encouraging:
+after sacrificing the pawn, though he holds enough compensation, it is
+difficult to suggest something tangible for him to DO, which became obvious in
+the further course of the game]} ({Black developed the knight because of the
+simple trick} 24. Rxc7 $2 Nxe5) 24... Nf8 25. Qc2 c6 26. Ra1 Qb6 27. Rca3 Ra7 {
+[#]} 28. Nh2 $2 {[Finally Caruana loses his composure and errs, probably
+unnerved that his position wasn't moving anywhere]} (28. g3 $142 {[Simply, not
+changing his piece position and giving room for his king at g2 and awaiting
+black's actions]} Nb7 (28... c5 29. dxc5 Rxc5 30. Qa2 $11) 29. Nb1 $1 {aiming
+for Nb1-c3-a4 and keeping a tight leash on the c5-square}) 28... c5 29. dxc5
+Rxc5 {[#]} 30. Rc3 $2 (30. Qd3 Nc6 31. Nhf3 {[No other choice but to bring
+this back, and hope for the best, though black is a healthy pawn up and on top
+here]} (31. Rxa6 Nxe5 $1 {[The point - if the white knight had remained on f3,
+this shot would not have been possible]})) 30... Rac7 31. Rxc5 Rxc5 32. Qd1 Nc6
+$19 33. Nhf3 Ng6 34. Rb1 Rb5 35. Rc1 Rb4 36. Nf1 Nf4 37. Qd2 Nd4 38. Nxd4 Qxd4
+39. Qxd4 Ne2+ 40. Kh2 Nxd4 41. Ra1 Rb6 42. f4 Nb3 43. Ra3 a5 44. Kg3 Rb4 45.
+Ne3 a4 46. f5 d4 47. Nd1 exf5 48. Kf4 g6 49. e6 Kf8 50. Ke5 Ke7 51. Kd5 d3 0-1
+
+[Event "GCT Saint Louis Rapid 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.12"]
+[Round "7.2"]
+[White "Carlsen, Magnus"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[ECO "D97"]
+[WhiteElo "2872"]
+[BlackElo "2775"]
+[Annotator "Saravanan,V"]
+[PlyCount "67"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Nc6 {[#]}
+8. h3 $5 (8. Be2 {is the regular move}) 8... Nd7 9. Be3 Nb6 10. Qc5 a5 {[#]}
+11. Rc1 $146 {[A new move. "I didn't expect him to go for this line, and it
+seems I didn't find the best way", confessed Vachier-Lagrave after the game]}
+Nd7 $6 ({The cleverness of Carlsen's preparation is that, there is almost only
+ONE way for black to respond here:} 11... f5 $5 12. e5 (12. exf5 $6 Rxf5) 12...
+f4 13. Bd2 Be6 {with a complex position. It is perfectly natural that even a
+top player of the world like Vachier-Lagrave may NOT be able to find it on any
+given day, gives us an idea about the thinking which went into Carlsen's
+preparation}) 12. Qa3 e5 13. d5 Nd4 14. Nb5 $1 {[When Carlsen played this, it
+was visibly obvious that Vachier-Lagrave was under pressure, and he didn't
+come up with the best defence here]} c5 15. dxc6 {[#][This was precisely the
+moment when Vachier-Lagrave probably had a final chance to create play with a
+sacrifice]} Nxc6 $2 (15... Nxf3+ 16. gxf3 bxc6 17. Rxc6 Rb8 {was another way
+to create activity and counterplay, but black doesn't have any real targets in
+white's position here}) (15... bxc6 $5 {[Almost the ONLY way where black could
+have fought back in the game, after he missed his chances in the opening
+stages]} 16. Nbxd4 exd4 17. Bxd4 Bxd4 18. Nxd4 Re8 {and though white is still
+better, there is considerable amount of counterplay for black, especially in a
+rapid game}) 16. Be2 Nf6 17. Rd1 Bd7 18. Bc5 $16 {[Black's already choked here
+- it's one of those positions where you start hating life itself.
+Vachier-Lagrave's exchange sacrifice is not really a sacrifice, but more borne
+out of desperation]} Nxe4 19. Bxf8 Bxf8 20. Qe3 Nc5 $2 (20... f5 21. O-O $16)
+21. O-O {[Carlsen plays the middlegame flawlessly, which earned
+Vachier-Lagrave's praise]} Qf6 22. Nc7 Rd8 23. Nd5 Qg7 24. Nb6 e4 25. Nd4 Be8
+26. Nxc6 Rxd1 27. Rxd1 Bxc6 28. Bc4 Qe5 29. Qd4 Qg5 30. Nd5 Bxd5 31. Bxd5 Nd3
+$2 32. Qxe4 $18 Nxb2 33. Rb1 Qf6 34. Bxf7+ 1-0
+
+[Event "GCT Saint Louis Rapid 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.12"]
+[Round "7.3"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Rapport, Richard"]
+[Result "0-1"]
+[ECO "E20"]
+[WhiteElo "2765"]
+[BlackElo "2735"]
+[Annotator "Saravanan,V"]
+[PlyCount "46"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[There were quite some spectators around the board when the game started -
+after all, Shakh and Richard were the most creative players of this tournament]
+} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 d6 6. e4 b5 7. Bd2 exd5 {
+[A new move in this position]} 8. cxd5 a6 {[The amusing part is that, this is
+a pawn structure from the Modern Benoni, with the pride of the opening - the
+dark bishop - sitting on b4 rather than g7!]} 9. a3 Ba5 {[#]} 10. a4 $6 {
+[This event is not going well for Mamedyarov, and here is a clear example.
+Aiming to be creative, white seems to be recklessly violating the natural laws
+of the game here]} (10. Bd3 {followed by Ng1-e2 & 0-0 looks pretty normal here}
+) 10... b4 11. Nb1 $2 {[Making sure that he will need two more tempi to get
+this knight out of b1]} (11. Nce2 $142) 11... O-O 12. Bg5 Nbd7 13. Nd2 {[#]} b3
+$1 {[Black seems to be effortlessly improving his position. After making all
+the effort (Nb1-c3-b1-d2!) to reroute himself, the white knight is still in
+trouble]} 14. Qxb3 $2 h6 15. Bf4 (15. Bh4 $4 Bxd2+ 16. Kxd2 Nxe4+ 17. fxe4 Qxh4
+$19) 15... Rb8 16. Qc2 {[#] [Black is already winning here, but the finish was
+quite pretty]} Nxd5 $1 17. exd5 Qf6 18. O-O-O Qxf4 19. Ne2 Qb4 $19 20. Nc3 Nb6
+21. Re1 c4 22. g4 Bd7 23. Re4 Rfc8 0-1

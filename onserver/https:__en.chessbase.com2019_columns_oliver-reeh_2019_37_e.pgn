@@ -1,0 +1,46 @@
+[Event "Nordic Chess Championship 2019"]
+[Site "Quality Sarpsborg Hotel"]
+[Date "2019.06.27"]
+[Round "9"]
+[White "Tryggestad, Andreas G"]
+[Black "Getz, Nicolai"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[WhiteElo "2324"]
+[BlackElo "2380"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "79"]
+[EventDate "2019.??.??"]
+[SourceTitle "2019_37"]
+
+{[%evp 0,79,24,30,69,69,64,64,95,57,50,54,43,48,44,40,44,41,50,51,51,51,65,46,
+58,7,9,-8,-8,-13,15,20,24,3,-4,-13,0,-2,0,-41,-66,0,11,0,27,25,21,23,21,0,16,
+15,4,-20,0,-47,0,0,0,0,0,-202,-208,-285,-165,-301,-311,-417,-418,-436,-208,0,0,
+0,0,0,211,0,0,0,0,0]} 1. d4 d6 2. e4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6.
+O-O O-O 7. Re1 c6 8. a4 a5 9. h3 Nb6 10. Ba2 Nfd7 11. Be3 exd4 12. Nxd4 Nc5 13.
+Nf5 Bxf5 14. exf5 Bf6 15. Bxc5 dxc5 16. Ne4 Qxd1 17. Raxd1 Nxa4 18. Nxf6+ gxf6
+19. Re7 b5 20. Be6 Nb6 21. Rd3 a4 22. Rg3+ Kh8 23. Bxf7 Nc8 24. Re1 Nd6 25. Be6
+b4 26. Rd3 Nb5 27. Rd7 a3 28. bxa3 bxa3 29. Re4 Rfd8 30. Re7 Rd4 31. Re1 Nc3
+32. Rf7 c4 {White's 33.Bd7 in the diagram is a desperate attempt to create
+counterplay which Black definitely should not have ignored - his game
+continuation 33...a2? throws away victory. Can you see why?} 33. Bd7 a2 $2 (
+33... Rd1 $1 $19 {[%csl Gd1][%cal Ga3a1]}) 34. Kh2 {This gives Black another
+chance to thwart White's counterplay, so would have been correct to play the
+35th move first.} a1=Q $2 {A new queen, but it will not be enough to win the
+game.} (34... Ne4 $1 {, for example.}) {[%tqu "En","White to play and draw.
+First move?","","","e1e7","",10]} 35. Ree7 {[%csl Ge7,Gf7,Rh8][%cal Gf7h7,
+Yd4h4,Yh4h7] The rook joins its colleague on the seventh rank, and now White
+threatens to take on h7. But isn't 35...Rh4 a completely sufficient parade...?}
+Rh4 {[%csl Yh4][%cal Yh4h7] Protecting h7.} (35... Rxd7 {allows the perpetual
+check} 36. Rxh7+ Kg8 37. Rhg7+ Kf8 38. Rgf7+ {etc.}) {[%tqu "En","Your go for
+White again - I think this is the move Black actually overlooked!","","",
+"d7e8","",10]} 36. Be8 $1 {[%csl Ya1,Ya8,Ge7,Ge8,Yh4,Rh8][%cal Gf7f8,Ya8e8]
+That's it! The bishop blocks out the back rank defender Ra8, creating the
+threat 37.Rf8++. Black can parry this only with his king, allowing perpetual
+check - his new queen a1 is completely useless.} Kg8 (36... Rxe8 $4 37. Rxe8#)
+({or} 36... Rg4 $4 37. hxg4 $1 {would completely backfire:} Kg8 38. Rg7+ Kf8 (
+38... Kh8 39. Rxh7+ Kg8 40. Bd7 {[%cal Gd7e6] is similar.}) 39. Bd7 $1 {
+[%csl Gd7,Rf8] and again White checkmates:} Ne2 40. Ref7#) 37. Rg7+ {and a
+draw was agreed on account of} Kf8 38. Rgf7+ Kg8 39. Rg7+ Kh8 40. Rgf7 $1 $11 {
+[%cal Gf7f8]} 1/2-1/2
+

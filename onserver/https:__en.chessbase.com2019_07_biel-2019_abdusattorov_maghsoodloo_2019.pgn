@@ -1,0 +1,52 @@
+
+
+[Event "52nd Biel Festival 2019"]
+[Site "Biel"]
+[Date "2019.07.22"]
+[Round "1.4"]
+[White "Abdusattorov, Nodirbek"]
+[Black "Maghsoodloo, Parham"]
+[Result "0-1"]
+[ECO "B67"]
+[WhiteElo "2598"]
+[BlackElo "2656"]
+[Annotator "TA"]
+[PlyCount "82"]
+[EventDate "2019.07.22"]
+[EventType "tourn"]
+[EventCountry "SUI"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,88,18,20,33,26,47,23,56,36,46,48,70,50,41,8,7,20,6,0,4,-12,-31,-18,
+-35,-206,-60,-111,-34,-30,-50,-126,-95,-158,-156,-254,-269,-466,-261,-243,-175,
+-574,-483,-489,-477,-480,-465,-483,-491,-456,-493,-490,-481,-485,-438,-446,
+-422,-414,-387,-427,-396,-516,-512,-482,-487,-495,-466,-490,-487,-484,-470,
+-591,-640]} 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7.
+Qd2 a6 8. O-O-O Bd7 9. f3 Nxd4 10. Qxd4 Be7 {B67: Sicilian: Richter-Rauzer: 7..
+.a6 8 0-0-0 Bd7, lines without 9 f4 Be7} (10... h6 11. Bh4 Rc8 12. Kb1 Be7 13.
+g4 b5 14. Bg3 e5 15. Qe3 Qc7 16. Bd3 Be6 17. h4 Qa5 18. g5 {1-0 (60) Robson,R 
+(2667)-Caruana,F (2828) chess.com INT 2019}) 11. g4 Bc6 12. Be3 O-O {White has
+an edge.} 13. g5 Nd7 14. h4 b5 {[%cal Bb7b5,Bb5b4][%mdl 32]} 15. h5 Bxg5 16.
+Rg1 {[#]} (16. h6 $5 {[%cal Rd4g7]} Bxe3+ 17. Qxe3 $11) 16... Bf6 $146 ({
+Predecessor:} 16... Bxe3+ 17. Qxe3 Qe7 18. Rd2 f6 19. Ne2 {0-1 (27) Luther,T 
+(2581)-Kozul,Z (2632) Austria 2014}) 17. Qxd6 Rc8 $1 18. Qg3 b4 $132 {[%mdl
+2048] Black is not keeping still} 19. Bh6 {[%cal Rh6g7]} g6 $1 (19... bxc3 $2
+20. Bxg7 cxb2+ 21. Kb1 $1 $18 {[%mdl 512]}) 20. hxg6 hxg6 21. e5 $2 {[#]} ({
+White should play} 21. Bc4 $15 Re8 22. Nb1) 21... Bxe5 ({Less strong is} 21...
+bxc3 22. exf6 cxb2+ 23. Kb1 $15) (21... Bh4 $1 $19 {[%cal Rh4g3]} 22. Qg4 bxc3
+23. Bxf8 Kxf8 24. Qb4+ Kg8 25. Qxc3 Bd5) 22. f4 $15 {Strongly threatening Bd3.}
+Bg7 ({Better is} 22... Bh8 $17 23. Nb1 Re8 24. Bxa6 Rc7) 23. Bxg7 Kxg7 24. Ne2
+(24. Bxa6 $15 bxc3 25. Qxc3+ Qf6 26. Qxf6+ Kxf6 27. Bxc8 Rxc8 28. Rd4) 24...
+Qf6 25. Nd4 ({White should try} 25. Qe3) 25... Nc5 $17 26. Bh3 (26. Nxc6 $17 {
+was worth a try.} Rxc6 27. Rh1) 26... Be4 $19 27. Kb1 $2 (27. Qe3) 27... Rfd8 (
+27... Na4 $142 28. Qb3 Rfd8 29. Bxe6 Nc5 {[%mdl 64] Double Attack} 30. Qxb4
+Nxe6 31. Nxe6+ Qxe6 32. Rxd8 Rxd8) 28. Qe3 Rd5 {Hoping for ...Rcd8.} 29. f5 $2
+(29. Rg5 {is more resistant.}) 29... exf5 30. Nxf5+ Rxf5 (30... Bxf5 $2 31.
+Rxd5 Na4 32. Qd4 $19) 31. Bxf5 Qxf5 ({Not} 31... Bxf5 32. Rh1 $19) 32. Rd2 Qe5
+{( -> ...Bxc2+!)} 33. Ka1 Re8 34. Re1 a5 35. Qh3 Qf5 ({Don't take} 35... Rh8
+36. Qe3 $19) 36. Qg3 Re6 37. Rh2 {intending Qb8.} Bd5 {...Qf4! is the strong
+threat.} 38. Rg1 {With the idea Qb8.} Qe4 {White must now prevent ...Qc4.} 39.
+Rd1 {[#] If only White now had time for Qh3....} Qf3 $1 {[%cal Rf3d1] Black is
+clearly winning.} 40. Qg1 Qe3 41. Qg4 Re5 {Played: Bd5-f3} 0-1

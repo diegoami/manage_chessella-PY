@@ -1,0 +1,41 @@
+
+
+[Event "52nd Biel Festival 2019"]
+[Site "Biel"]
+[Date "2019.07.25"]
+[Round "4.1"]
+[White "Bogner, Sebastian"]
+[Black "Cori, Jorge"]
+[Result "1/2-1/2"]
+[ECO "E08"]
+[WhiteElo "2584"]
+[BlackElo "2686"]
+[Annotator "TA"]
+[PlyCount "122"]
+[EventDate "2019.07.22"]
+[EventType "tourn"]
+[EventCountry "SUI"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 26,122,28,6,37,22,35,16,29,17,9,14,31,14,30,31,73,33,30,36,37,30,35,32,
+30,18,30,9,28,28,29,18,22,0,21,22,34,26,35,35,42,42,39,39,84,54,40,0,0,0,44,45,
+80,58,50,0,20,8,18,0,13,15,18,13,13,5,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. g3 Be7 4. Bg2 d5 5. Nf3 O-O
+6. O-O Nbd7 7. Qc2 c6 8. b3 b6 9. Bb2 Bb7 10. Nc3 Rc8 11. e4 Nxe4 12. Nxe4 dxe4
+13. Qxe4 Qc7 14. Rad1 Rfd8 {E08: Closed Catalan: Main Line: 7 Qc2} (14... c5
+15. d5 Bf6 16. Bc1 exd5 17. cxd5 Rfe8 18. Qc2 Qd8 19. Nd2 Bd4 20. Nc4 Nf6 21.
+Bb2 Bxb2 22. Qxb2 {1/2-1/2 (41) Haria,R (2450)-Lenderman,A (2637) chess.com
+INT 2019}) 15. Qe2 a5 $146 ({Predecessor:} 15... Nf6 16. Rd3 c5 17. Rfd1 cxd4
+18. Nxd4 Bxg2 19. Kxg2 a6 20. Kg1 h6 21. Nf3 {1/2-1/2 (21) Kulikov,A-Jakovenko,
+D (2443) Moscow 2000}) 16. Rd2 a4 17. Rfd1 axb3 18. axb3 Re8 19. Rd3 h6 20. Re3
+Red8 21. h4 (21. d5 $5 cxd5 22. cxd5 $11) 21... Bf6 22. Nd2 Ra8 23. Ne4 Be7 24.
+Nc3 Nf6 25. Red3 Ra5 26. Qd2 Bb4 27. Qc2 Raa8 28. Ne2 Be7 29. Nc3 b5 30. R3d2
+bxc4 31. bxc4 Qa5 32. Rb1 Qc7 33. Rdd1 Ba6 34. Na4 Rab8 35. Ra1 Nd7 36. Ba3
+Bxa3 37. Rxa3 Rb4 38. Bf1 Rdb8 39. Qc3 Bc8 40. Be2 Rb1 {The position is equal.}
+41. Rxb1 Rxb1+ 42. Kg2 Rb8 43. c5 e5 44. dxe5 Nxe5 45. Nb6 Bf5 46. Qd4 Rd8 47.
+Qf4 Be6 48. Nc4 Bd5+ 49. Kh2 f6 50. Nxe5 fxe5 51. Qe3 Qf7 52. Kg1 Qf5 {[#]
+Threatens to win with ...Qb1+.} 53. Bf3 Qxf3 54. Qxf3 Bxf3 55. Rxf3 $11 {
+[%mdl 4096] Endgame KR-KR} Rd1+ 56. Kg2 Rc1 57. Rf5 Rxc5 58. h5 Rc1 59. Rxe5
+Kf7 60. f4 c5 61. g4 Rc2+ {Accuracy: White = 54%, Black = 53%.} 1/2-1/2

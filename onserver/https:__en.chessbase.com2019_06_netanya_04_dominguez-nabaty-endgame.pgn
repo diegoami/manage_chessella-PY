@@ -1,0 +1,32 @@
+[Event "Netanya International GM 2019"]
+[Site "Netanya"]
+[Date "2019.06.26"]
+[Round "4.1"]
+[White "Dominguez Perez, Leinier"]
+[Black "Nabaty, Tamir"]
+[Result "1-0"]
+[ECO "C64"]
+[WhiteElo "2760"]
+[BlackElo "2678"]
+[Annotator "TA"]
+[SetUp "1"]
+[FEN "3q1r1k/5rpp/8/1p1pRb2/2pQ4/2P4P/1P3PP1/R2B2K1 b - - 0 25"]
+[PlyCount "70"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,119,19,38,25,16,16,3,15,-10,16,6,42,37,74,52,52,63,69,69,49,55,58,54,
+41,45,52,47,53,49,34,34,34,12,10,6,20,30,38,13,45,15,30,39,35,32,109,72,75,57,
+78,98,69,75,305,226,285,287,277,252,221,161,232,251,264,195,270,177,164,170,
+158,156,178,170,176,182,175,191,168,192,176,137,149,133,140,136,181,181,180,
+180,218,180,182,181,182,180,182,177,180,180,183,182,182,182,182,182,182,173,
+198,183,188,413,448,482,532,571,621,623,742,817,1013,1014] [#]} 25... Be4 26.
+f3 Rf4 $2 (26... Bd3 $16 {was called for.}) 27. fxe4 $18 Rf1+ 28. Kh2 Qb8 29.
+Qxd5 (29. exd5 R1f4 $15) 29... g6 30. Qd4 Kg8 31. Qd5+ Kh8 32. Qd4 {[#]
+Strongly threatening Ra8!} Kg8 $1 33. Ra5 Rxd1 34. Raxb5 Rxd4 35. Rxb8 Rxb8 36.
+cxd4 Rxb2 {Endgame KR-KR} 37. Rc5 Rb4 38. d5 c3 39. e5 Rd4 40. d6 Kf7 41. Rxc3
+Ke6 42. Re3 {Black is simply down two pawns.} g5 43. Kg3 h5 44. Kf3 Rd2 45. Re2
+Rd3+ {[#]} 46. Kf2 $1 Rd1 47. Re3 Rd2+ 48. Ke1 Rd4 49. Ke2 Rd5 50. Re4 Ra5 51.
+Kf3 Rd5 52. Ke3 Ra5 53. Kd2 Rc5 54. Rd4 {Threatening mate with d7.} Rc8 55. d7
+{White mates.} Rd8 56. Kd3 Kxe5 57. Kc4 Ke6 58. Kc5 Rxd7 59. Rxd7 Kxd7 60. Kd5
+{Accuracy: White = 83%, Black = 52%.} 1-0
+

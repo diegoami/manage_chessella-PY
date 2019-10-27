@@ -1,0 +1,179 @@
+[Event "USA-ch Seniors 2019"]
+[Site "Saint Louis"]
+[Date "2019.07.14"]
+[Round "4.5"]
+[White "Goldin, Alexander"]
+[Black "Yermolinsky, Alex"]
+[Result "1-0"]
+[ECO "A47"]
+[WhiteElo "2540"]
+[BlackElo "2504"]
+[Annotator "yermo"]
+[PlyCount "95"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,95,19,25,19,27,27,5,42,34,22,10,27,6,10,10,6,-1,-7,-15,1,-25,-3,-4,4,
+12,4,-1,12,29,32,30,39,6,36,30,32,30,0,49,79,83,82,82,62,54,86,80,74,81,81,81,
+81,73,94,96,95,105,109,59,57,57,84,90,91,77,78,91,90,90,149,122,276,216,214,
+209,220,234,206,253,253,260,281,291,297,294,302,314,308,303,752,793,793,793,
+1021,1425,1477,1002]} 1. d4 Nf6 2. Nf3 e6 3. e3 {Goldin's opening choices have
+undergone a complete make-over. Alexander no longer goes for main theoretical
+lines, instead preferring a more practical approach.} b6 4. Bd3 Bb7 5. O-O Be7
+6. b3 O-O 7. Bb2 c5 8. Nbd2 Nc6 9. a3 Rc8 10. Qe2 d5 11. dxc5 bxc5 12. c4 {[#]}
+Re8 $146 {The position may be equal, but I found it uncomfortable to play.} ({
+Probably the right move was} 12... Qb6 $1 {getting ready to meet White's
+action in the center} 13. cxd5 (13. e4 d4 14. e5 Nd7 15. Qe4 g6 16. Qf4 Qc7 17.
+Rfe1 Ndxe5 18. Nxe5 Bd6 19. Ndf3 Nxe5 20. Nxe5 f6 {turns out excellent for
+Black.}) 13... exd5 14. e4 dxe4 15. Nxe4 {with the timely} Nd4) 13. Rfe1 Bf8 $6
+{Now the Black queen is tethered to f6.} 14. Rad1 g6 15. cxd5 exd5 16. Ba6 $1 {
+[#] It's essentual to trade some pieces when playing against the hanging pawns.
+} Rb8 $6 (16... Bxa6 $142 17. Qxa6 Bg7 18. Nc4 Ne4) 17. Bxb7 Rxb7 18. Qd3 $36
+Bg7 $6 (18... Re6 19. Bxf6 Rxf6 20. e4 d4 21. Nc4 Re6 {is tenable for Black.})
+19. Rc1 {[#]} Ne4 {Of course, I saw Black was losing a pawn, but otherwise I
+could see no way to hold my position.} ({The inventive} 19... Rc7 $1 {never
+caught my attention. White would have to put material gains on hold, as} 20.
+Rxc5 $2 {meets with} Ne5 $1) 20. Bxg7 Kxg7 21. Nxe4 dxe4 22. Qc3+ {[#]} Qf6 $2
+{I must admit I totally lost the handle.} (22... Kg8 $14 23. Red1 Qe7 24. Qxc5
+(24. Nd2 Rd8) 24... Qxc5 25. Rxc5 exf3 26. Rxc6 Rxb3 27. Ra6 fxg2 $11) 23.
+Qxf6+ $16 Kxf6 24. Rxc5 exf3 25. Rxc6+ Re6 26. Rxe6+ fxe6 ({Goldin thought} 
+26... Kxe6 {was better.} 27. b4 fxg2 28. Rc1 a5 29. bxa5 Kd5 30. Rd1+ Kc6 31.
+Kxg2 Ra7 32. Rd4 Rxa5 33. a4 $14) 27. b4 fxg2 28. Rc1 a5 29. Rc4 axb4 30. axb4
+Ra7 31. Kxg2 Ra2 32. Rc8 $1 {[#] The trademark plan of putting the rook ahead
+of the pawn to drive it all the way to the 7th rank is working here because of
+the split off e6-pawn. Having executed similar ideas in my own games I should
+have seen it coming.} Rb2 33. Rb8 e5 34. b5 Kg5 {The black king must find
+shelter from checks in the shadow of his pawns.} 35. Kg3 e4 $2 {The final time
+trouble induced error.} ({Truth be told, even the better defense} 35... Rb1 36.
+b6 Rb2 {[#] wouldn't be enough to save Black.} 37. h4+ Kh5 38. Rb7 $1 ({
+It's too early for} 38. b7 Rb1 39. Re8 (39. Kf3 Rb4 {and the white king cannot
+go around to the e5-pawn because of the counterplay on the h-file.}) 39... Rxb7
+40. Rxe5+ Kh6 41. e4 $16) 38... Kh6 (38... h6 39. Re7 Rxb6 40. Rxe5+ g5 41.
+hxg5 hxg5 42. f4 $18) 39. Kf3 Rb4 40. Ke2 Rb2+ 41. Kd3 Rxf2 42. Re7 Rb2 43. b7
+{etc.}) 36. h4+ Kh5 {[#]} 37. b6 $1 Rb4 38. Rb7 h6 39. Rb8 Rb2 40. b7 Rb4 41.
+f3 {The key break, releasing the e4-pawn.} exf3 42. e4 $1 f2 43. Kxf2 Kxh4 44.
+e5 g5 45. e6 {White mates.} g4 46. e7 g3+ 47. Kf3 Rb3+ 48. Ke2 1-0
+
+[Event "USA-ch Seniors 2019"]
+[Site "Saint Louis"]
+[Date "2019.07.18"]
+[Round "7.3"]
+[White "Kaidanov, Gregory"]
+[Black "Goldin, Alexander"]
+[Result "1-0"]
+[ECO "A14"]
+[WhiteElo "2544"]
+[BlackElo "2540"]
+[Annotator "yermo"]
+[PlyCount "103"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,103,25,18,27,-24,-21,-15,9,9,24,12,25,-13,3,8,2,-15,-3,8,-10,2,-5,2,
+22,-11,-6,5,13,5,-3,8,3,-3,0,-4,2,5,4,26,30,22,23,-9,7,67,50,77,69,73,127,157,
+195,197,187,185,199,201,194,203,176,184,202,207,208,196,215,217,218,224,228,
+162,170,161,172,141,303,307,284,304,501,497,508,325,339,341,341,264,288,315,
+310,352,354,378,323,323,348,359,366,365,359,380,401,381,491,508]} 1. Nf3 Nf6 2.
+g3 d5 3. Bg2 e6 4. O-O b6 {I find this move order a bit suspect.} 5. c4 Bb7 6.
+b3 {Obviously, this was Kaidanov's game plan.} ({However, there's something to
+be said in favor of the direct} 6. cxd5 Nxd5 (6... exd5 7. d4 {leads to a QID/
+Catalan hybrid White should be happy with.}) 7. d4 Be7 8. Nc3 O-O (8... Nxc3 9.
+bxc3 Be4 10. Qa4+ c6 11. Ne5 $14) 9. Nxd5 Bxd5 10. Qc2) 6... Be7 7. Bb2 O-O 8.
+e3 c5 9. Nc3 dxc4 {An old recommendation by Spassky.} ({The alternative} 9...
+Nc6 {often leads Black to difficult positions, e.g.} 10. cxd5 Nxd5 11. Nxd5
+Qxd5 (11... exd5 12. d4) 12. d4 Rad8 $2 (12... Qf5 $142 13. dxc5 Rad8 14. Qe2
+Bxc5 $14) 13. Ne5 Qd6 (13... Qxg2+ $5 14. Kxg2 Nxe5+ 15. f3 cxd4 16. exd4 Nc6 {
+Ehlvest-Nakamura, 2009}) 14. dxc5 Qxc5 15. Nd7 Qg5 16. h4 Qh6 17. Rc1 $18) 10.
+bxc4 Nc6 11. Qe2 Qc7 {[#]} 12. Ne1 $5 {The beginning of an aggressive plan of
+K-side expansion.} ({White can also play for the hanging pawns:} 12. Rfd1 Rfd8
+13. Rac1 a6 $1 ({but not} 13... Rac8 14. d4 Na5 15. Nb5 $1 {
+Damljanovic-Yermolinsky, Moscow Ol 1994}) 14. d4 Na5 $13) 12... Rfd8 $6 {
+Perhaps, not the most accurate.} (12... a6 13. f4 Na7 $1 {Black aims for
+counterplay with b6-b5.} 14. Nf3 (14. a4 Bxg2 15. Qxg2 Nc6 {and Black gains
+the b4-square.}) (14. Rb1 Bxg2 15. Nxg2 b5 {Caruana-Aronian, 2016}) 14... b5)
+13. f4 Nb4 14. a3 Bxg2 15. Qxg2 Nc6 16. g4 {[#] Black has wasted some time on
+the knight moves, and now has to think defence.} Ne8 17. d3 a6 18. f5 Bg5 19.
+Kh1 $1 Nd6 (19... Bxe3 20. fxe6 fxe6 21. Qe4) 20. Nf3 Bf6 (20... Bxe3 21. fxe6
+fxe6 22. Qe2 Bd4 23. Qxe6+ Qf7 24. Nxd4 Nxd4 25. Qd5 Qxd5+ 26. Nxd5 $36) 21. e4
+Ne8 ({The critical line was} 21... b5 22. fxe6 fxe6 23. g5 Bxc3 24. Bxc3 {
+and now} bxc4 {can be answered with} 25. g6) 22. fxe6 fxe6 {[#]} 23. e5 $1 {
+An excellent attacking move. White clears out the key e4-square.} Bxe5 (23...
+Nxe5 24. g5 Nxf3 25. Qxf3 {looking to mate on f8.}) 24. Ng5 Nd4 $2 {Most
+likely loses by force.} ({On} 24... Qd7 {Greg was planning} 25. Nf7 Rdc8 26.
+Ne4 Bxb2 27. Qxb2 Qxd3 28. Rae1 h6 29. g5) 25. Nce4 h6 26. Bxd4 hxg5 (26...
+Bxd4 27. Rf8+ Kxf8 28. Nxe6+) 27. Bxe5 Qxe5 28. Rae1 {[#] Black is unable to
+regain coordination for his pieces.} Ra7 29. Nf6+ Qxf6 30. Rxf6 Nxf6 31. Qc6
+$18 Rxd3 32. Qxb6 Rf7 33. Qxe6 Rxa3 34. Rd1 g6 35. Rf1 Kg7 36. Qe5 Rd3 37. Qxc5
+Rdd7 38. Qxg5 Rd4 39. h3 Rxc4 40. Qe5 Re4 41. Qc3 g5 42. Rf5 Kg6 43. Qd2 Nh7
+44. Rxf7 Kxf7 45. Qd5+ Re6 46. Qf5+ Nf6 47. Qxg5 Re1+ 48. Kg2 Re2+ 49. Kf1 Rf2+
+50. Ke1 Rf3 51. Qh6 Rg3 52. Qf4 1-0
+
+[Event "USA-ch Seniors 2019"]
+[Site "Saint Louis"]
+[Date "2019.07.19"]
+[Round "8.4"]
+[White "Yermolinsky, Alex"]
+[Black "Kaidanov, Gregory"]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "2504"]
+[BlackElo "2544"]
+[Annotator "yermo"]
+[PlyCount "93"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,93,19,-17,1,-9,-4,-4,-3,-6,8,23,26,23,22,31,27,17,17,16,25,21,19,-11,
+26,18,38,23,41,17,22,28,38,39,40,39,42,42,43,40,94,26,92,94,85,95,86,90,90,75,
+90,79,87,77,78,63,71,101,156,153,147,169,195,196,235,206,225,217,253,253,224,
+224,224,311,315,321,320,325,327,331,320,320,328,350,310,390,638,662,849,768,
+768,813,864,880,926,952]} 1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Bg5 c6 5. e3 Nbd7 {
+Generally speaking, Greg Kaidanov prefers sharper lines when defending in the
+Queen's Gambit. My move order eliminated the Botvinnik and the Vienna, so he
+sets up the Cambridge Springs.} 6. cxd5 $5 exd5 (6... cxd5 7. Bd3 Be7 {is an
+unpleasant version of the Exchange Slav with a knight misplaced on d7.}) 7. Bd3
+Bd6 {An unusual bishop placement. The point, of course, is a greater control
+over the e5-square.} ({I expected the sturdy} 7... Be7 8. Qc2 Nh5 9. Bxe7 Qxe7
+10. Nge2 g6) 8. Nf3 {This is there I usually develop my knight in such
+structures.} ({Some people swear by} 8. Qc2 h6 (8... Nf8 9. Nge2 Ng6) 9. Bh4
+O-O 10. Nge2 Re8 11. h3 Be7 12. Bg3 Nf8 13. O-O) 8... O-O 9. Qc2 h6 {Forced
+because of the threat to the h7-pawn.} 10. Bh4 Re8 {[#]} 11. O-O-O $5 {It
+wasn't just the tournament situation that moved me toward a more aggressive
+plan. I felt the inclusion of ...h6 and Bh4 might give White some attacking
+chances, and besides, the position of Bd6 invites a possibility of e3-e4.} ({
+In comparison} 11. O-O Nf8 12. Rfe1 Bg4 13. Nd2 Bh5 {looked too bland.}) 11...
+Qa5 {Played after a considerable think.} ({One must consider the sharp} 11...
+b5 {Here after} 12. Kb1 {Black might have to rush in with} b4 (12... a5 {allows
+} 13. e4 b4 14. e5 bxc3 15. Qxc3) 13. Na4 Qc7 14. Rc1 Bb7 15. Bf5 Ne4 16. Bg3 {
+where Black is risking to be left with a permanent structural damage.}) 12. Kb1
+Bb4 13. Nd2 {[#]} Bxc3 $6 {I was relieved to see this.} (13... b5 14. Rc1 Bb7 (
+14... Ba6 15. Bf5) 15. Rhg1 {would be a very sharply developing plot.}) 14.
+Qxc3 Qxc3 15. bxc3 Ne4 $5 {Defending passively is not Greg Kaidanov's style.} (
+15... b6 16. Kb2 c5 17. Rhe1 Bb7 18. f3) 16. Nxe4 dxe4 17. Be2 {[#]} Nb6 $2 {
+Possibly the weight of the tournament situation affected Greg's judgement.
+Having scored two straight wins he had caught up with the leader Shabalov, who
+by that moment looked to be in serious trouble against Fishbein. A draw in
+this game could have seen Kaidanov gaining the top spot with just one round to
+go and White against Fishbein left.} (17... b5 $1 {Under normal circumstances
+he would have chosen this kind of play.} 18. d5 {isn't as dangerous as it may
+seem:} (18. a4 $5 a6 19. a5 g5 20. Bg3 Nf6 21. h4) 18... cxd5 19. Rxd5 Nb6 20.
+Rd4 a6) 18. c4 Be6 19. Rc1 c5 20. Rhd1 Rac8 $6 ({Again he eschewed a more
+active line,} 20... cxd4 21. Rxd4 Nd7 22. c5 Rec8 23. Be7 Ne5 24. Bd6 Nc6 25.
+Ra4) 21. d5 {[#]} Bf5 (21... Bd7 22. Rc3 Na4 {was an intriguing possibility:}
+23. Ra3 a6 24. Rc1 b5 25. Bd1 Rc7) 22. Rc3 Nd7 23. g4 $1 {The key move to
+White's plan. The bishop is being sent to exile.} Bh7 24. Kb2 f6 25. Bg3 Kf7 (
+25... Ne5 26. Rb3 Re7 27. Kc3 Rd7 28. Rdb1 Rcc7 $16) 26. Rb3 b6 27. Kc3 Ra8 28.
+a4 {Everything is proceeding smoothly with a standard plan of pawn minority
+attack.} a5 {Nearing time trouble Kaidanov finds a great defensive idea.} 29.
+Bc7 Ra6 30. Rdb1 Ke7 {[#] Black wants to trap the white bishop after it takes
+on b6!} 31. h4 $1 {This looks like a standard idea of opening some kind of a
+second front, but, in fact, I was already looking into what happened later in
+the game.} g5 32. h5 $1 {Squeezing the life out of that bishop is part of the
+plan.} Rc8 33. Bxb6 Kd6 34. Rb5 Rca8 35. R1b2 {[#]} f5 {I was waiting with
+bated breath.} ({On} 35... Bg8 {I had a choice of two plans.} 36. Bd1 ({
+The other one was} 36. f3 exf3 37. Bxf3 Bh7 38. e4 Bg8 (38... Re8 39. Rxa5 Rxb6
+40. Rxb6+ Nxb6 41. Ra6) 39. Be2 Bh7 40. Bd3 Bg8 41. e5+ fxe5 42. Bf5) 36... Bh7
+37. Bc2 f5 38. gxf5 Bxf5 39. f3 Re8 {and now the same idea,} 40. Bxc5+ Nxc5 41.
+Kd4 Nd7 42. fxe4 {It was hard to resist the temptation of building such a pawn
+mass.}) 36. Bxc5+ $1 Nxc5 37. Kd4 Rc8 38. Rb6+ Rxb6 39. Rxb6+ Kd7 40. Rxh6 {
+[#] Now it's visible why I wanted my pawn on h5 and his bishop on h7.} Bg8 41.
+gxf5 Nxa4 42. f6 Nc5 43. Bg4+ Ne6+ 44. dxe6+ Bxe6 45. Rh7+ Kd6 46. c5+ Rxc5 47.
+Bxe6 1-0
+

@@ -1,0 +1,51 @@
+
+
+[Event "Xtracon Open 2019"]
+[Site "Helsingor"]
+[Date "2019.07.23"]
+[Round "5.4"]
+[White "Praggnanandhaa R"]
+[Black "Tari, Aryan"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "2540"]
+[BlackElo "2620"]
+[Annotator "TA"]
+[PlyCount "124"]
+[EventDate "2019.07.19"]
+[EventType "swiss"]
+[EventCountry "DEN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,124,-24,-21,-10,-24,-2,-15,7,-18,-9,-21,-9,-10,-10,-19,-3,-39,-39,
+-38,-35,-85,-68,-67,-54,-78,-13,-16,-23,-25,-32,-15,0,-41,-14,-33,-26,-14,0,
+-24,0,0,0,0,0,0,0,-35,-37,-23,-42,-23,-29,-30,-35,-79,-69,-144,-144,-150,-141,
+-131,-120,-143,-143,-143,-143,-143,-143,-143,-104,-79,0,-143,-143,-143,-125,
+-143,-143,-143,-104,-104,0,-143,-137,-193,37,36,39,37,34,34,43,36,40,36,38,40,
+40,42,52,41,67,67,81,81,81,81,81,81,81,81,81,81,81]} 1. Nf3 Nf6 2. g3 c5 3. Bg2
+Nc6 4. O-O e5 5. d3 d5 6. e4 d4 7. a4 Be7 {A08: King's Indian Attack} 8. Na3
+Bg4 (8... O-O 9. Nc4 Nd7 10. Nfd2 Nb6 11. f4 exf4 12. gxf4 f5 13. Ne5 Nxe5 14.
+fxe5 f4 15. a5 {1-0 (33) Ding,L (2791)-Karjakin,S (2782) Stavanger 2018}) 9. h3
+Bh5 {The position is equal.} 10. Qe1 Nd7 11. Nh2 a6 $146 ({Predecessor:} 11...
+O-O 12. h4 f6 13. Bh3 Kh8 14. Bd2 Rb8 15. Qb1 {1-0 (51) Nenezic,M (2490)
+-Brenjo,S (2436) Ruma 2017}) 12. f4 {Hoping for g4.} f6 13. Bd2 b6 14. f5 Rb8
+15. g4 Bf7 16. Qg3 b5 17. axb5 axb5 18. b3 c4 (18... Rb7 $17) 19. bxc4 $11 bxc4
+20. Nxc4 Bxc4 21. dxc4 Bb4 22. Bc1 Bc3 {[%mdl 1024] Black has compensation.}
+23. Ra6 Qc8 24. Ra3 Bb2 25. g5 O-O 26. Ra2 Bxc1 27. Rxc1 fxg5 28. Qxg5 Nb4 $36
+{[%mdl 2048] Black has the initiative.} 29. Ra7 d3 $1 30. Ng4 {f6 is the
+strong threat.} Qc5+ 31. Qe3 Nxc2 32. Qxc5 Nxc5 33. f6 gxf6 34. Nh6+ (34. Rf1
+$1 $15) 34... Kh8 $17 {Strongly threatening ...Ne3.} 35. Nf7+ {[#]} Rxf7 $1 {
+[%mdl 512]} 36. Rxf7 Rg8 $1 37. Kh2 d2 38. Rb1 Ne1 $1 39. Bh1 Rd8 40. Rc7 Ne6
+41. Re7 Nc5 (41... Nd4 $142 42. c5 Nd3) 42. Rc7 Na6 $1 {[%cal Ra6c7]} 43. Ra7 {
+[#]} Nb4 $1 {[%mdl 512]} 44. Rb7 {[#]} (44. Rxb4 d1=Q) 44... Nbd3 $1 {[%cal
+Rd3c1] And now ...Nc1 would win.} 45. Ra1 Nc5 ({Don't play} 45... Nc1 $6 46.
+Raa7 $11) 46. Rbb1 Ncd3 47. Rb7 {[#]} Nf4 $1 (47... Nc1 $6 48. Raa7 $11) 48.
+Rd1 (48. c5 $17 d1=Q 49. Rxd1 Rxd1 50. c6) 48... Nc2 $2 (48... Rd3 $19 49. Kg1
+Nxh3+ 50. Kf1 Nc2) 49. Rb3 $14 Ne6 {[#]} 50. c5 $1 {[%mdl 512]} Ncd4 (50...
+Nxc5 51. Rc3) 51. Rc3 Rc8 52. Rxd2 Rxc5 53. Rxc5 Nxc5 {[%mdl 4096] Endgame
+KRB-KNN} 54. Kg3 Kg7 55. Ra2 Kg6 56. Bf3 (56. Ra5 {seems wilder.} Nce6 57. Ra6
+Ne2+ 58. Kf3 N2d4+ 59. Kg4) 56... Nce6 57. h4 Nxf3 58. Kxf3 {White is better.}
+Nd4+ 59. Kg3 h5 60. Ra6 Ne2+ 61. Kf2 Nf4 62. Kf3 Kg7 {Accuracy: White = 65%,
+Black = 66%.} 1/2-1/2

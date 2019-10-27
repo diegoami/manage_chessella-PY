@@ -1,0 +1,169 @@
+[Event "FIDE World Cup 2019"]
+[White "Najer, Evgeniy"]
+[Black "Giri, Anish"]
+[Site "Khanty-Mansiysk"]
+[Round "2.1"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.09.13"]
+[WhiteElo "2635"]
+[BlackElo "2780"]
+[PlyCount "82"]
+
+1. d4 {} Nf6 2. Bg5 d5 3. Nd2 Nbd7 4. Ngf3 h6 5. Bh4 e6 (5... g5 $5 6. Bg3 $8 c5 $11 )6. e3 {D03: 1 d4 d5 2 Nf3 Nf6 3 Bg5,
+including Torre Attack with early ...d5} c5 (6... Be7 7. Bd3 b6 8. c3 Bb7 9. Qe2 Ne4 10. Bxe7 Qxe7 11. 0-0 0-0 12. Ba6 Bxa6 13. Qxa6 c5 14. Nxe4 dxe4 15. Nd2 Nf6 16. Rfd1 Rfd8 17. Rac1 {0-1 (43) Mamedyarov,S (2801)-Giri,A (2782)
+chess.com INT 2018} )7. c3 Bd6 8. Be2 0-0 9. 0-0 b6 $146 ({Predecessor:} 9... Qc7 10. Rc1 c4 11. Qc2 b5 12. Bg3 Bxg3 13. hxg3 {0-1 (34) Guzman Lozano,C 
+(2030)-Lotero,F (2165) Bogota 2014} )10. e4 dxe4 {[#]} 11. Nxe4 $1 {} Be7 (11... Nxe4 12. Bxd8 )12. Nxf6+ Bxf6 13. Bxf6 Nxf6 14. dxc5 bxc5 15. Qxd8 Rxd8 16. Rfd1 Bb7 17. Ne5 Kf8 18. f3 Ke7 19. Kf2 Nd7 20. Nxd7 Rxd7 21. b4 cxb4 22. cxb4 Rc8 23. Rxd7+ Kxd7 $11 { Endgame KRB-KRB} 24. a4 Rc2 25. h4 a5 26. Kf1 {The position is equal.} axb4 {[#] aiming for ...b3.} 27. Rb1 Bc6 28. Rxb4 Ra2 29. Bb5 {Strongly threatening Rd4+.} Bxb5+ (29... Kd6 {is more
+complex.} 30. Bxc6 Kxc6 31. h5 Ra1+ 32. Kf2 Ra2+ )30. axb5 {KR-KR} Ra7 31. Rg4 g6 32. h5 g5 33. Rd4+ Ke7 34. Rb4 Kd6 35. Rd4+ Ke5 36. Rd2 Ra1+ 37. Kf2 Rb1 38. Rd7 Rb2+ 39. Kg3 Kf6 ({But not} 39... Rxb5 $6 40. Rxf7 Rb4 41. Rh7 $16 )40. Rb7 Rb4 41. b6 Ke5 $2 { Accuracy: White = 72%, Black = 62%. . An
+unexpected result.} (41... Rb2 $11 {and Black has nothing to worry.} )1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[White "Giri, Anish"]
+[Black "Najer, Evgeniy"]
+[Site "Khanty-Mansiysk"]
+[Round "2.2"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.09.14"]
+[WhiteElo "2780"]
+[BlackElo "2635"]
+[PlyCount "61"]
+
+1. c4 {} e5 2. Nc3 Bb4 3. Qc2 Nf6 4. Nf3 Nc6 5. Nd5 Bc5 6. e3 {A21: English Opening: 1...e5 2 Nc3} d6 7. a3 Bb6 (7... a5 8. b3 Be6 9. Nc3 Qd7 10. Bd3 h6 11. Bb2 0-0 12. 0-0 Ne7 13. Rfd1 Bg4 {1/2-1/2 (27) Eljanov,P (2727)-Naroditsky,D (2633) Reykjavik 2015} )8. Nxf6+ $146 ({Predecessor:} 8. b4 Nxd5 9. cxd5 Ne7 10. Bc4 Bf5 11. d3 0-0 12. 0-0 Bg4 13. Nd2 f5 {1/2-1/2 (47) Thurlow,K (2161)-Voveris,S (2337) ICCF email
+2016} )Qxf6 9. Bd3 a5 {} 10. Be4 a4 11. 0-0 {
+The position is equal.} Bd7 12. Rd1 h6 13. d4 exd4 14. exd4 Nxd4 15. Nxd4 Bxd4 16. Bxb7 Rb8 {aiming for ...0-0.} 17. Qe4+ { [#] Double Attack} Kd8 18. Qxd4 ({But not} 18. Rxd4 $2 Re8 $17 )Qxd4 19. Rxd4 {And now Bd5
+would win.} Rxb7 20. c5 dxc5 21. Rd5 c4 22. Be3 Kc8 23. Bd4 f6 24. Bc3 Rb5 25. Rxb5 Bxb5 $11 { Endgame KRB-KRB} 26. Re1 Re8 27. Rxe8+ Bxe8 28. Bb4 h5 29. Bf8 g6 30. Bg7 c3 31. bxc3 {Accuracy: White = 67%, Black = 81%.} 1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[White "Najer, Evgeniy"]
+[Black "Giri, Anish"]
+[Site "Khanty-Mansiysk"]
+[Round "2.3"]
+[Annotator "RC"]
+[Result "1/2-1/2"]
+[Date "2019.09.15"]
+[WhiteElo "2635"]
+[BlackElo "2780"]
+[PlyCount "74"]
+[TimeControl "1500+10"]
+
+1. e4 {[%emt 0:0:0]} e5 {[%emt 0:0:0]} 2. Nf3 {[%emt 0:0:0]} Nc6 {[%emt 0:0:0]
+} 3. d4 {[%emt 0:0:0]} exd4 {[%emt 0:0:0]} 4. Nxd4 {[%emt 0:0:0]} Nf6 {[%emt 0:0:0]} 5. Nxc6 {[%emt 0:0:2]} bxc6 {[%emt 0:0:0]} 6. Bd3 {[%emt 0:0:2]} d5 {[%emt 0:0:0]} 7. exd5 {[%emt 0:0:2]} cxd5 {[%emt 0:0:1]
+} 8. 0-0 {[%emt 0:0:2]} Be7 {[%emt 0:0:1]} 9. c4 {[%emt 0:0:0]} 0-0 {[%emt 0:0:8]} 10. cxd5 {[%emt 0:0:2]} Nxd5 {[%emt 0:0:6]} 11. Qf3 {[%emt 0:1:41]} Be6 {[%emt 0:0:16]} 12. Rd1 {[%emt 0:0:57]} Qd7 {[%emt 0:1:0]
+} 13. Nc3 {[%emt 0:2:5]} c6 {[%emt 0:1:47]} 14. h3 {[%emt 0:0:0]} Rab8 {[%emt 0:0:2]} 15. Nxd5 {[%emt 0:0:34]} Bxd5 {[%emt 0:3:29]} 16. Be4 {[%emt 0:0:49]} Rfd8 {[%emt 0:0:14]} 17. Bxd5 {[%emt 0:2:8]} cxd5 {[%emt 0:0:1]
+} 18. b3 {[%emt 0:0:1]} Bf6 {[%emt 0:1:47]} 19. Rb1 {[%emt 0:0:0]} d4 {[%emt 0:1:41]} 20. Qd3 {[%emt 0:0:11]} Rb5 {[%emt 0:0:45]} 21. Bd2 {[%emt 0:1:4]} Bg5 {[%emt 0:2:13]} 22. Rbc1 {[%emt 0:4:43]} h5 {[%emt 0:0:16]
+} 23. Rc4 {[%emt 0:0:42]} Bxd2 {[%emt 0:0:10]} 24. Rxd2 {[%emt 0:0:3]
+} Rd5 {[%emt 0:0:12]} 25. Re2 {[%emt 0:0:14]} a5 {[%emt 0:0:0]} 26. Re1 {[%emt 0:0:4]} g6 {[%emt 0:0:10]} 27. Re2 {[%emt 0:0:15]} Kg7 {[%emt 0:0:3]} 28. Re1 {[%emt 0:0:1]} Qd6 {[%emt 0:0:20]} 29. Re2 {[%emt 0:0:12]
+} Rd7 {[%emt 0:1:19]} 30. Re4 {[%emt 0:0:11]} Re7 {[%emt 0:0:0]} 31. Rxe7 {[%emt 0:0:43]} Qxe7 {[%emt 0:0:1]} 32. g3 {[%emt 0:0:56]} Qe5 {[%emt 0:1:12]} 33. h4 {[%emt 0:0:13]} Rd7 {[%emt 0:0:21]} 34. Kg2 {[%emt 0:0:28]
+} Qd5+ {[%emt 0:0:4]} 35. Qf3 {[%emt 0:0:35]} Qe5 {[%emt 0:0:0]} 36. Qd3 {[%emt 0:0:1]} Qd5+ {[%emt 0:0:15]} 37. Qf3 {[%emt 0:0:5]} Qe5 {[%emt 0:0:51]} 1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[White "Giri, Anish"]
+[Black "Najer, Evgeniy"]
+[Site "Khanty-Mansiysk"]
+[Round "2.4"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.09.15"]
+[WhiteElo "2780"]
+[BlackElo "2635"]
+[PlyCount "73"]
+
+1. c4 {} e5 2. g3 Nf6 3. Bg2 c6 4. Nf3 e4 5. Nd4 d5 6. d3 {A20: English Opening: 1...e5} (6. cxd5 cxd5 7. d3 Bc5 8. Nb3 Bb6 9. 0-0 0-0 10. Nc3 Bf5 11. Bg5 Re8 12. Bxf6 Qxf6 13. Nxd5 Qxb2 14. dxe4 Bg4 15. Bf3 Bh3 16. Qc1 Qe5 17. Rd1 Nc6 18. Qf4 {1-0 (31) Mamedyarov,S 
+(2817)-Ganguly,S (2615) Kolkata 2018} )Bc5 7. Nb3 Bb4+ 8. Bd2 {White has
+an edge.} Bxd2+ 9. Qxd2 dxc4 10. dxc4 Qe7 11. Nc3 e3 $146 ({Predecessor:} 11... 0-0 12. Qe3 Re8 13. h3 Bf5 {1-0 (48) Wang,H (2702)-Sengupta,D (2589) Tbilisi
+2017} )12. Qxe3 Qxe3 13. fxe3 Ng4 14. Bh3 Ke7 15. Bxg4 Bxg4 16. Nc5 b6 17. Nd3 Nd7 18. b3 Rhe8 19. h3 Be6 20. g4 f6 21. Kf2 Rad8 22. Rag1 Bf7 23. g5 Kf8 24. h4 Ne5 25. Nf4 f5 {next ...Ng4+ is good for Black.} 26. Ke1 b5 27. cxb5 cxb5 28. Nxb5 Ng4 29. Rh3 Nxe3 30. Nc3 Rd4 31. Rf3 g6 32. Kf2 Kg7 33. Rc1 a6 34. Nd3 Ng4+ $1 {The position is equal.} 35. Kg3 Ne5 36. Nxe5 Rxe5 37. Rh1 {Accuracy:
+White = 44%, Black = 66%.} 1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[White "Giri, Anish"]
+[Black "Najer, Evgeniy"]
+[Site "Khanty-Mansiysk"]
+[Round "2.5"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.09.15"]
+[WhiteElo "2780"]
+[BlackElo "2635"]
+[PlyCount "54"]
+
+1. c4 {} e5 2. g3 Nf6 3. Bg2 c6 4. Nf3 e4 5. Nd4 d5 6. d3 {A20:
+English Opening: 1...e5} (6. cxd5 cxd5 7. d3 Bc5 8. Nb3 Bb6 9. 0-0 0-0 10. Nc3 Bf5 11. Bg5 Re8 12. Bxf6 Qxf6 13. Nxd5 Qxb2 14. dxe4 Bg4 15. Bf3 Bh3 16. Qc1 Qe5 17. Rd1 Nc6 18. Qf4 {1-0 (31) Mamedyarov,S (2817)-Ganguly,S (2615) Kolkata
+2018} )Bc5 7. Nb3 Bb4+ 8. Bd2 {White has an edge.} Bxd2+ 9. Qxd2 dxc4 10. dxc4 Qe7 11. Nc3 0-0 12. Rd1 e3 $146 ({Predecessor:} 12... Re8 13. Qd6 Qxd6 14. Rxd6 {0-1 (37) Kokarev,D (2605)-Khanin,S (2514) Moscow 2019} )13. Qxe3 Qxe3 14. fxe3 Ng4 15. Rd3 Na6 16. a3 (16. h3 $14 Ne5 { Double Attack} 17. Rd4 )Be6 $36 { Black has good play.} 17. Na5 Nc5 18. Rd4 Nxe3 19. Kf2 Ng4+ 20. Kf3 (20. Ke1 $11 )Nd7 {[#] Threatens to win with ...Nde5+.} 21. h3 $1 {} Nde5+ 22. Ke4 (22. Kf4 $17 {only move.} Ng6+ 23. Kf3 N4e5+ 24. Kf2 )f5+ $19 23. Kf4 {[#]} c5 $2 (23... g5+ $1 $19 {} 24. Kxg5 Ne3 )24. Rd2 Ng6+ $1 25. Kf3 $1 N6e5+ (25... b6 $15 26. hxg4 bxa5 )26. Kf4 $11 Ng6+ (26... g5+ $11 27. Kxg5 h6+ 28. Kf4 Ng6+ 29. Kf3 N6e5+ 30. Kf4 Ng6+ 31. Kf3 N6e5+ 32. Kf4 )27. Kf3 $1 $15 N6e5+ {Accuracy: White = 58%, Black
+= 66%.} (27... b6 $15 28. hxg4 fxg4+ 29. Ke3 Rae8 )1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[White "Najer, Evgeniy"]
+[Black "Giri, Anish"]
+[Site "Khanty-Mansiysk"]
+[Round "2.6"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.09.15"]
+[WhiteElo "2635"]
+[BlackElo "2780"]
+[PlyCount "66"]
+
+1. e4 {} e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. exd5 cxd5 8. 0-0 Be7 9. c4 d4 {C45: Scotch Game} (9... 0-0 10. cxd5 Bb7 11. Bc4 Bxd5 12. Bxd5 Nxd5 13. Nd2 c6 14. Re1 Rb8 15. Ne4 f5 16. Ng3 f4 17. Ne4 f3 18. gxf3 {1/2-1/2 (54)
+Fedoseev,V (2707)-Jakovenko,D (2748) Satka 2018} )10. Bg5 0-0 11. Nd2 a5 $146 ({Predecessor:} 11... h6 12. Bh4 Rb8 13. Qc2 c5 14. Rae1 Re8 15. Nf3 Rb6 16. b3 Re6 17. Rxe6 Bxe6 18. Qd2 Bc8 19. Re1 Nh5 20. Bxe7 Rxe7 {1/2-1/2 (20) Florea,M
+(2479)-Douglas,S (2391) ICCF email 2009} )12. Nb3 h6 13. Bh4 g5 14. Bg3 c5 15. Nd2 Bd6 16. Ne4 Nxe4 17. Bxe4 Rb8 18. Qh5 Kg7 19. f4 {[#] Strongly threatening
+fxg5.} Rb6 20. Bd5 {Hoping for fxg5.} Be6 21. Bxe6 fxe6 22. Qg4 Qf6 (22... Rf5 $15 )23. Rae1 (23. fxg5 $14 Qxg5 24. Qxe6 Qe3+ 25. Qxe3 dxe3 26. Bxd6 Rxd6 27. Rxf8 Kxf8 28. Re1 )Qf5 (23... Bb8 {is more complex.} 24. b3 Qf5 25. Qxf5 Rxf5 26. fxg5 Bxg3 27. gxh6+ Kxh6 28. hxg3 Kg5 )24. Qxf5 exf5 25. fxg5 Bxg3 26. hxg3 Rxb2 $11 { Endgame KRR-KRR} 27. Re5 Rxa2 28. Rxc5 hxg5 {
+And now ...a4 would win.} 29. Rd5 a4 {[#] ...Rc2 is the strong threat.} 30. Rxd4 Rc2 {aiming for ...a3.} 31. Ra1 {The position is equal.} Re8 32. Rxa4 Rc1+ 33. Kf2 Rc2+ {Accuracy: White = 61%, Black = 45%.} 1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[White "Najer, Evgeniy"]
+[Black "Giri, Anish"]
+[Site "Khanty-Mansiysk"]
+[Round "2.7"]
+[Annotator "TA"]
+[Result "0-1"]
+[Date "2019.09.15"]
+[WhiteElo "2635"]
+[BlackElo "2780"]
+[PlyCount "50"]
+
+1. e4 {} e5 2. Nc3 Nf6 3. d4 (3. Bc4 Nc6 4. d3 Bb4 5. Nge2 d5 6. exd5 Nxd5 7. 0-0 Bxc3 8. bxc3 Be6 9. Bxd5 Qxd5 10. c4 Qd7 11. Ba3 0-0-0 12. Rb1 e4 13. Nf4 Bf5 14. Nd5 Rhe8 15. Qd2 {1/2-1/2 (43) Nakamura,H (2777)-So,W (2780) chess.com INT
+2018} )exd4 4. Qxd4 Nc6 5. Qd3 Bb4 6. Nge2 $146 {C26: Vienna Game: 2...
+Nf6, sidelines} ({Predecessor:} 6. Bd2 0-0 7. 0-0-0 Re8 8. Qg3 Rxe4 9. a3 Bd6 10. f4 Re8 11. Bd3 Bf8 12. Nf3 d6 13. Rhe1 Rxe1 14. Rxe1 Ne7 15. Ng5 h6 16. Nge4 Nxe4 17. Nxe4 Nf5 {0-1 (37) Vega Gutierrez,B (2190)-Vega Gutierrez,S 
+(2364) Las Palmas 2013} )0-0 7. a3 Be7 8. Bf4 {White is slightly better.} d6 9. 0-0-0 Be6 (9... Ne5 $5 {} 10. Qd2 Nh5 $11 )10. Kb1 a6 (10... Rb8 $11 )11. Nd5 (11. h4 $1 $16 )Bxd5 12. exd5 Ne5 13. Qd4 Ng6 14. Be3 c5 15. dxc6 $1 bxc6 16. Qa4 Ne5 17. Nd4 $36 { White is pushing.} Nfg4 18. Nxc6 Nxc6 19. Qxg4 Bf6 {With the idea ...Rb8.} 20. Qe4 Qc7 21. Rd3 Rfe8 22. Qc4 Qd7 {[#]} 23. Qa4 (23. Qd5 $1 $16 )d5 (23... Rab8 $11 {remains equal.
+} )24. g3 $16 Rab8 25. b4 $2 { [#]} (25. Bc1 $16 )a5 {Played:
+Nc6xb4} 0-1
+
+[Event "FIDE World Cup 2019"]
+[White "Giri, Anish"]
+[Black "Najer, Evgeniy"]
+[Site "Khanty-Mansiysk"]
+[Round "2.8"]
+[Annotator "TA"]
+[Result "0-1"]
+[Date "2019.09.15"]
+[WhiteElo "2780"]
+[BlackElo "2635"]
+[PlyCount "210"]
+
+1. d4 {} Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 c5 5. Bxb4 cxb4 6. e3 a5 {E11: Bogo-Indian} (6... b6 7. Bd3 Bb7 8. 0-0 0-0 9. Nbd2 h6 10. Qa4 a5 11. a3 Na6 12. Rac1 d6 13. Bb1 Rc8 14. Rfd1 Qe7 {1/2-1/2 (47) Sarana,A (2625)-Grigoriants,S (2543) Skopje
+2019} )7. Be2 0-0 8. 0-0 b6 {The position is equal.} 9. a3 Na6 10. axb4 Nxb4 11. Nc3 Bb7 12. Na2 $146 ({Predecessor:} 12. Ne5 Rc8 13. Nd3 d5 14. cxd5 Nfxd5 15. Nxd5 Nxd5 {0-1 (45) Andruet,G (2420)-Georgiev,K (2430) Wijk aan Zee 1984} )Nc6 13. Qb3 Rb8 14. Nc3 Nb4 15. Na2 Nc6 16. Nc3 ({White should try} 16. Rfd1 $14 )Ba6 17. Rfd1 Qe7 18. d5 Nb4 19. d6 Qd8 20. Ne5 Qc8 21. Na2 Nc6 22. Nxc6 Qxc6 23. Nb4 Qc8 24. Nxa6 Qxa6 25. Qc3 Qc8 26. b4 (26. Qd4 $11 )axb4 ({Better is} 26... Nd5 $1 $15 27. Qc1 Nxb4 )27. Qxb4 $11 Qc5 28. Qd2 Ra8 29. Rab1 Ne4 30. Qd3 f5 31. Rb5 Ra3 $36 { Black fights for an
+advantage.} 32. Qc2 $1 Qc6 33. Qb2 Ra6 (33... Qa8 $5 {} 34. Re1 Ra2 $15 )34. Bf3 Qxc4 35. Bxe4 (35. Rc1 $5 {} Qa2 36. Bxe4 Qxb2 37. Rxb2 fxe4 38. h4 $11 )fxe4 36. Rg5 (36. Rc1 $11 {remains equal.} Qa2 37. h4 )g6 $17 {Strongly threatening ...Ra2.} 37. Rc1 (37. h3 $17 )Ra2 $19 38. Rxc4 Rxb2 { Endgame KRR-KRR} 39. h4 Rbxf2 40. Rxe4 Rf1+ 41. Kh2 Rd1 42. h5 (42. Rb4 $17 )Kg7 43. hxg6 hxg6 44. Reg4 Rf6 45. Rb5 (45. e4 $1 $15 )Rxd6 46. Rgb4 Rf2 47. Rxb6 Rdd2 48. Rg4 Rfe2 49. Rb3 Kf6 50. Rg3 g5 51. Rb8 Rd3 52. Rf8+ Ke7 53. Rff3 d5 $1 54. Rxg5 Rdxe3 55. Rg7+ (55. Rf4 {was worth a try.} )Kd6 {Threatens to win with ...Rxf3.} 56. Rf8 Re5 57. Kh3 R2e3+ 58. Kh4 Re1 59. g4 (59. Rd8+ $17 Kc5 60. Ra8 )Rh1+ 60. Kg3 Re3+ 61. Kf2 Rhe1 62. g5 R1e2+ 63. Kf1 Ra2 64. g6 $2 (64. Rg6 )Rb3 {} 65. Rf2 Ra1+ 66. Kg2 Ra4 67. Rg8 Rg4+ 68. Kf1 Rbg3 69. Rd8+ Ke7 70. Ra8 {White hopes to continue with Ra7+.} Rxg6 71. Ra7+ Kd6 72. Ra6+ Ke5 73. Re2+ Kf5 74. Rf2+ Kg5 75. Ke2 Rg4 76. Kd3 Rh6 77. Rb6 $2 (77. Ra8 {might work
+better.} )Rf4 78. Re2 Kf5 $1 79. Rb8 $2 (79. Re3 )Rh3+ 80. Kd2 Rd4+ 81. Kc2 Rc4+ 82. Kd2 {intending Rf8+.} Rd4+ 83. Kc2 $1 Re4 $1 {} 84. Rg2 Ra3 85. Rb2 Rae3 86. Kd2 Rf3 87. Rb8 {Hoping for Rf8+.} Ke5 88. Rb6 Ra4 $2 (88... Ree3 $19 {aiming for ...Rd3+.} 89. Rg7 d4 )89. Rg5+ $2 {} (89. Re2+ $17 Kd4 90. Rbxe6 )Rf5 90. Rg6 Rf6 (90... Ra2+ $142 91. Ke1 Rf6 92. Rg5+ Kd4 )91. Rg5+ Kf4 ({Less strong is} 91... Rf5 92. Rg6 $19 )92. Rxd5 $2 (92. Rg1 )Rh6 $1 93. Rd8 Rh2+ 94. Kc3 Rh3+ $2 (94... Ra3+ $1 $19 {
+and Black stays clearly on top.} 95. Kb4 Rb2+ 96. Kc5 Rxb6 97. Kxb6 e5 )95. Kb2 e5 96. Rc6 (96. Re8 $15 )Rb4+ $1 97. Kc2 {[#]} Rh2+ $1 98. Rd2 $2 {
+ [#]} (98. Kc1 $17 )Rb2+ $1 { Deflection. Black
+mates.} 99. Kxb2 Rxd2+ {KR-KR} 100. Kc1 Rd8 101. Rf6+ Ke3 102. Rh6 e4 103. Rh3+ Kf2 104. Rh2+ Kg3 105. Rh7 e3 {Accuracy: White = 34%, Black = 61%.} 0-1
+
+[Event "FIDE World Cup 2019"]
+[White "Najer, Evgeniy"]
+[Black "Giri, Anish"]
+[Site "Khanty-Mansiysk"]
+[Round "2.9"]
+[Annotator "TA"]
+[Result "0-1"]
+[Date "2019.09.15"]
+[WhiteElo "2635"]
+[BlackElo "2780"]
+[PlyCount "76"]
+
+1. c4 {} e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e4 Bb4 5. d3 d6 6. a3 {A28: English Opening: Four
+Knights Variation} (6. Be2 Bg4 7. a3 Bc5 8. b4 Bb6 9. Be3 Bxf3 10. Bxf3 Nd4 11. Na4 Nxf3+ 12. Qxf3 Bxe3 13. Qxe3 0-0 {1/2-1/2 (36) Carlsen,M (2882)-Giri,A 
+(2779) Saint Louis 2019} )Bc5 7. b4 Bb6 8. Na4 {The position is equal.} Bd4 9. Nxd4 Nxd4 10. Nc3 a5 $146 ({Predecessor:} 10... c6 11. Ne2 Ne6 12. g3 d5 13. exd5 cxd5 {1/2-1/2 (41) Pantsulaia,L (2589)-Bareev,E (2666) Batumi 2018} )11. b5 0-0 (11... a4 $5 )12. Be2 c6 13. 0-0 cxb5 14. Nxb5 Nxb5 15. cxb5 a4 16. Bb2 Be6 17. f3 Nh5 18. g3 Qg5 19. Bc1 Qg6 20. Kh1 f5 {White must now prevent ..
+.Nxg3+!} 21. f4 $2 {[#]} (21. Qe1 $11 {and White has nothing to worry.} )Nf6 (21... Nxg3+ $1 $19 22. hxg3 Qxg3 )22. exf5 $15 Bxf5 23. Bb2 Ng4 24. Qd2 $1 e4 25. dxe4 Bxe4+ 26. Kg1 Rac8 (26... Nxh2 $11 27. Kxh2 (27. Bc4+ d5 $11 )Qh6+ 28. Kg1 Qh1+ 29. Kf2 Qg2+ 30. Ke1 Qxg3+ 31. Kd1 Qb3+ 32. Ke1 Qg3+ 33. Rf2 Rfe8 34. Qxd6 Rad8 )27. Rac1 $1 $14 d5 28. Bd4 (28. Qd4 $16 )Nxh2 29. Kxh2 {Bf3 is the strong threat.} Qh6+ 30. Kg1 {And now Bf3 would win.} Qh1+ 31. Kf2 Qg2+ 32. Ke1 {Threatens to win with Rxc8.} Qxg3+ { [#] Double
+Attack} 33. Bf2 (33. Rf2 $14 )Qxa3 $11 34. Rxc8 Rxc8 35. Rg1 $2 {} (35. Be3 $11 )Rc1+ $19 36. Bd1 Bf3 37. Rxg7+ Kxg7 38. Bd4+ Kg8 {
+Accuracy: White = 57%, Black = 52%.} 0-1

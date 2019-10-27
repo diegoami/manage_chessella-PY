@@ -1,0 +1,49 @@
+[Event "GCT Saint Louis Blitz 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.13"]
+[Round "2"]
+[White "Rapport, Richard"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "2732"]
+[BlackElo "2802"]
+[Annotator "Saravanan,V"]
+[SetUp "1"]
+[FEN "4r3/pp1b2pk/1q2p2p/3pPp1n/3Rr2B/P1P2N2/1P3PPP/RQ4K1 b - - 0 21"]
+[PlyCount "7"]
+[EventDate "2019.08.13"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[#]} 21... g5 22. Bxg5 $5 Rxd4 $2 (22... hxg5 23. Nxg5+ Kg8 24. Nxe4 fxe4) 23.
+Be3 $1 Re4 $2 24. Bxb6 axb6 $18 1-0
+
+[Event "GCT Saint Louis Blitz 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.13"]
+[Round "6"]
+[White "Rapport, Richard"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1-0"]
+[ECO "D06"]
+[WhiteElo "2736"]
+[BlackElo "2787"]
+[Annotator "Saravanan,V"]
+[SetUp "1"]
+[FEN "2b4k/1pq4p/1br2p2/p2Qpp1N/8/1P6/PB4PP/3R3K w - - 0 32"]
+[PlyCount "7"]
+[EventDate "2019.08.13"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[#]} 32. Nxf6 $5 Rxf6 $4 (32... Be6 $1 33. Qd3 $1 {[Threatening Nf6-e8]} (33.
+Qxe5 Qxe5 34. Bxe5 Kg7 $1 {and black miraculously survives!}) 33... Rc5 34. Qg3
+{with a winning position}) 33. Qxe5 Qxe5 34. Bxe5 Kg7 35. Bxf6+ 1-0
+

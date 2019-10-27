@@ -1,0 +1,65 @@
+[Event "Dubai op 6th"]
+[Site "Dubai"]
+[Date "2004.04.22"]
+[Round "4"]
+[White "Carlsen, Magnus"]
+[Black "Vladimirov, Yevgeniy"]
+[Result "1-0"]
+[ECO "B67"]
+[WhiteElo "2552"]
+[BlackElo "2621"]
+[Annotator "Gofshtein,L"]
+[PlyCount "69"]
+[EventDate "2004.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UAE"]
+[SourceTitle "CBM 101"]
+[Source "ChessBase"]
+[SourceDate "2004.07.27"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.07.27"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f3 Rc8 {Black has tried several moves in this position, for
+example: a) 9...b5 or b) 9...Nd4. The main idea of 9...Rc8 is counterplay on
+the queenside as soon as possible.} (9... Qa5) (9... Be7) (9... Nxd4) (9... b5
+10. Nxc6 Bxc6 11. Ne2 Be7 12. Nd4 Rc8 13. h4 O-O 14. Kb1 d5 15. e5 Nd7 16. Qe3
+Re8 17. g4 Qb6 $132 {0-1 McShane,L-Boidman,Y/Rethymnon 2003/CBM 98 (53)}) (9...
+Nxd4 10. Qxd4 Be7 11. g4 Bc6 12. Be3 O-O 13. g5 Nd7 14. h4 b5 15. Kb1 b4 16.
+Ne2 d5 17. exd5 Bxd5 $132 {1/2-1/2 Tal,M-Balashov,Y/Tallinn 1973/MCL (28)}) 10.
+Be3 {10.g4 was also played, which usually leads to the same positions with a
+different move order} (10. g4 Be7 11. Be3 Ne5 12. g5 Nh5 13. Rg1 Qc7 14. f4 Nc4
+15. Bxc4 Qxc4 $132 {1-0 Spivak,I-Aseev,K/Rostov 1993/TD (35)}) 10... Ne5 {
+Black decides not to exchange and keeping tension in the center. 10...Nd4 was
+also met with a further Bd7-c6 as was in the game given below.} (10... Nxd4 11.
+Bxd4 b5 12. g4 Bc6 13. g5 Nd7 14. h4 b4 15. Nb1 Qa5 $132 {Socko,B-Blehm,P/
+Warsaw 2001/CBM 82/1/2-1/2 (121)}) 11. g4 h6 {Black is stopping the advance of
+the white pawns and prepares d6-d5.} 12. h4 (12. Kb1 b5 13. Qe1 b4 14. Nce2 Nc4
+15. Bc1 Qc7 $132 {1/2-1/2 Romero Leon,A-Campos,J/Mondariz 1996/EXT 98 (28)})
+12... b5 (12... g6 13. Be2 b5 14. g5 Nh5 15. f4 b4 16. Nb1 Nc4 17. Bxc4 Rxc4
+$132 {1-0 Rasmussen,C-Ziska,B/Aarhus 1991/EXT 98 (40)}) 13. Bd3 b4 14. Nce2 d5
+15. exd5 Nxd5 16. Nf4 Qa5 $5 $146 {Only this move is a novelty.} (16... Nxd3+
+$5 17. Qxd3 Nxe3 18. Qxe3 Bc5 19. Nh5 O-O 20. g5 (20. Qe5 f6 21. Qe4 $13) 20...
+Qc7 $132 {0-1 Gazik,I-Popovic,P/Stary Smokovec 1991/CBM 26/[Boensch,U] (29)})
+17. Kb1 Nxf3 (17... Nxd3 18. Qxd3 Nxe3 19. Qxe3) 18. Qf2 $8 {[%mdl 512]} (18.
+Nxf3 Nc3+ 19. bxc3 bxc3 20. Qc1 Ba3 $19) 18... Nxe3 19. Qxe3 (19. Qxf3 Nxd1 20.
+Rxd1 Bd6 $19) 19... Nxd4 $5 (19... Bc5 20. Qxf3 Bxd4 21. Ng6 $1 $44) 20. Qxd4
+Qc5 21. Qe4 {In spite of black's material advantage, white has a serious
+compensation. He has a development advantage and black's king is weak as well.}
+Qc6 {Black tries to remove the white queen from a central position. The
+tempting 21...Bc6 was bad as the next variations show.} (21... Bc6 22. Qe1 Bxh1
+23. Nxe6 Qe7 24. Bf5 $3 $16 Bb7 25. Rd8+ $3 Rxd8 26. Nc7#) 22. Qe2 a5 (22...
+Bd6 23. Nh5 O-O 24. g5 $40) 23. Nh5 $44 {White activizes his pieces and brings
+them closer to the black king.} a4 24. Rhf1 $1 {[%cal Rf1f7]} Rc7 {[%cal Rc7f7]
+preparing the defence of f7} (24... Qc5 25. Qf3 Qe7 26. Qb7 $36) 25. Qf2 {
+[%cal Rf2f7]} Bc8 26. Qd4 $1 {[%cal Rh5g7,Rd4g7,Rd4d8] Further activizing the
+queen and creating concrete threats ro the black king.} Rd7 {Black is already
+not able to cope with the white's threats} (26... Rg8 27. Bb5 $18) 27. Nxg7+
+$18 Bxg7 28. Qxg7 Rf8 29. Qxh6 {[%cal Rg4g6] White's material advantage and an
+open position of the black king make black's position undefencible.} b3 (29...
+a3 30. Qg5 $36 {[%cal Rd3b5]}) 30. axb3 axb3 31. cxb3 Ba6 {The exchange of the
+bishops doesn't change anything.} 32. Bxa6 Qxa6 33. Qf4 $1 Ra7 (33... Qb5 34.
+Qc4 $18) 34. Qb8+ Ke7 35. Qb4+ 1-0
+

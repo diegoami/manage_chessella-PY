@@ -1,0 +1,88 @@
+[Event "Reykjavik Match 1972"]
+[Site "Reykjavik"]
+[Date "1972.07.11"]
+[Round "1"]
+[White "03.77 Spassky, Boris"]
+[Black "Fischer, Bobby"]
+[Result "1-0"]
+[ECO "E56"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[Annotator "Karsten Müller"]
+[SetUp "1"]
+[FEN "5k2/pp4pp/3bpp2/1P6/8/P2KP3/5PPP/2B5 b - - 0 29"]
+[PlyCount "54"]
+[EventDate "1972.07.11"]
+[EventType "match"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+
+{Finally we start earlier in the most famous endgame of the type:[#]} 29...
+Bxh2 $2 {why Fischer captured this poisoned pawn has remained a mystery to
+this day. The bishop endgame is completely drawn and now there are two results
+a draw or a win for White. He must have miscalculated a line, which is a very
+rare occurance in his games.} 30. g3 h5 31. Ke2 h4 32. Kf3 Ke7 {probably
+Fischer had missed that after} (32... h3 33. Kg4 Bg1 34. Kxh3 Bxf2 {White has}
+35. Bd2 $1 {trapping his bishop}) 33. Kg2 hxg3 34. fxg3 Bxg3 35. Kxg3 Kd6 36.
+a4 ({There was a long debate, if White can win here with} 36. Kg4 $5 Ke5 37.
+Kh5 {but Jonathan Speelman (Analysing the Endgame (1981), pp.81-82) shows that}
+Ke4 $3 {[#]draws:} 38. Kg6 (38. a4 f5 39. Kg6 e5 40. Kxg7 f4 41. exf4 exf4 42.
+Bd2 Kd3 43. Be1 Kc4 44. Kf8 Kb3 45. a5 b6 $1 $11 {(Sullivan)}) 38... e5 39.
+Kxg7 f5 40. Kf6 f4 41. exf4 exf4 42. Bd2 f3 43. Be1 Kd5 44. Ke7 Kc4 45. a4 b6
+$1 46. Kd6 Kb3 47. Kd5 Kxa4 48. Kc4 $11) 36... Kd5 37. Ba3 Ke4 38. Bc5 a6 39.
+b6 {[#]} f5 $2 {the final mistake} ({Black can draw with} 39... e5 40. Kg4 g6
+41. a5 (41. Kg3 Kd3 $11 {(Timman)}) 41... Kd5 42. Be7 f5+ 43. Kg5 f4 $11 {
+(Byrne) due to} 44. exf4 exf4 45. Kxf4 Ke6 46. Bh4 Kd7 47. Kg5 Kc8 48. Kxg6 Kd7
+{with a fortress}) 40. Kh4 f4 (40... Kd5 {is more tenacious:} 41. Bb4 $1 Ke4
+42. Bd2 Kd3 43. Bc1 Kc2 44. Ba3 Kd3 45. Bc5 Kc4 46. Bd6 $1 {Kasparov ends here.
+Sullivan continues the line with} Kd5 47. Bf4 $1 e5 48. Bh2 f4 49. exf4 exf4
+50. Kg4 $1 (50. Bxf4 $2 Kc5 $11) 50... Kc5 51. Bg1+ Kb4 52. Kxf4 Kxa4 53. Ke5
+Kb4 54. Kd6 a5 55. Kc7 a4 56. Kxb7 $18) 41. exf4 {the sealed move. Now it is
+clear that White will win} Kxf4 42. Kh5 $1 Kf5 43. Be3 Ke4 44. Bf2 Kf5 45. Bh4
+e5 46. Bg5 e4 47. Be3 Kf6 48. Kg4 Ke5 49. Kg5 Kd5 50. Kf5 a5 51. Bf2 g5 52.
+Kxg5 Kc4 53. Kf5 Kb4 54. Kxe4 Kxa4 55. Kd5 Kb5 56. Kd6 1-0
+
+
+[Event "World Championship Moscow"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "9"]
+[White "06.191 Karpov"]
+[Black "Kasparov"]
+[Result "1-0"]
+[Annotator "Karsten Müller"]
+[SetUp "1"]
+[FEN "8/4N3/8/1p6/1PkP4/P3K3/6b1/8 b - - 0 66"]
+[PlyCount "8"]
+[EventDate "2011.07.09"]
+[SourceTitle "Endgame Corner 167"]
+[Source "ChessCafe"]
+[SourceDate "2015.04.06"]
+[SourceVersion "1"]
+[SourceVersionDate "2015.04.06"]
+[SourceQuality "1"]
+
+{Timely counterplay is also important in the following very deep duel:[#]Black
+can draw despite White's two extra pawns, but this might be the drawn endgame,
+where the most false winning proves have been published in the history of
+chess so far. The comparison with Fermat's Last Theorem in mathematics does
+not fit completely as this really does hold and only the old proofs were false
+until Andrew Wiles solved the riddle in 1995. I had also contributed one false
+winning proof in Endgame Corner 43 and corrected it in Endgame Corner 55 (see
+The ChessCafe Archives):} 66... Bb7 $2 {Now Black is indeed lost.} ({The
+amazing} 66... Bh1 $3 {is the only defence, e.g.} 67. Nf5 Kd5 68. Ng3 Bg2 69.
+Kd3 (69. Ne2 Kc4 $11) 69... Bf3 70. Nf1 Be4+ 71. Kc3 Bf3 72. Ne3+ Ke4 73. Nc4 {
+[#]I had thought that White wins as he achieves a3-a4 now, but Mark Dvoretsky
+proved me wrong with help of the 6 men Nalimov tablabase as} Kd5 74. Nb2 Bh5
+75. a4 bxa4 76. Nxa4 Kc6 {[#]is drawn.}) 67. Nf5 Bg2 $6 (67... Kd5 $5 {is more
+tenacious:} 68. Kd3 Ke6 {[#]but White wins nevertheless due to} 69. Ng7+ $1 Kd7
+(69... Kd6 70. Ne8+ Ke7 71. Nc7 Bc6 72. d5 $18) (69... Kd5 70. Ne8 $18) (69...
+Ke7 70. Nh5 $18) 70. Nh5 Bg2 71. Nf4 $1 Bf1+ 72. Ke4 Kd6 73. Ke3 Bc4 (73... Kc6
+74. d5+ Kd6 75. Kd4 Bc4 76. a4 $18) 74. Ne2 $18 {[#]followed by Nc3, which
+reaches an always winning configuration.}) 68. Nd6+ Kb3 69. Nxb5 Ka4 70. Nd6 {
+A few further sources on this endgame: Dvoretsky's Analytical Manual (Russell
+2008), Mark Dvoretsky Dvoretsky's Endgame Manual (Russell 2003), Mark
+Dvoretsky On my Great Predecessors, Vol. 5, Garry Kasparov, Everyman 2007
+Learn from the Legends, Quality Chess 2004, Mihail Marin Endgame Virtuoso
+Anatoly Karpov, New in Chess 2007, Tibor Karolyi Power Chess with Pieces, Jan
+Timman, New in Chess 2004} 1-0

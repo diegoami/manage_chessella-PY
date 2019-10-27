@@ -1,0 +1,50 @@
+[Event "Deutsche Einzelmeisterschaft"]
+[Site "Magdeburg"]
+[Date "2019.05.26"]
+[Round "1.7"]
+[White "Lubbe, Nikolas"]
+[Black "Dauth, Benjamin"]
+[Result "1-0"]
+[ECO "A14"]
+[WhiteElo "2431"]
+[BlackElo "2295"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "85"]
+[EventDate "2019.??.??"]
+[EventCountry "GER"]
+[SourceTitle "2019_27"]
+
+{[%evp 0,85,27,-23,6,-30,-2,2,-9,4,11,-18,6,0,2,-2,4,4,0,3,4,-8,11,3,0,16,22,2,
+29,-5,22,6,-10,13,8,-4,-12,0,57,22,42,24,50,-12,-14,-8,13,5,11,16,11,42,0,45,
+36,36,23,32,8,19,68,64,139,412,412,462,490,502,506,490,496,491,491,511,468,508,
+508,527,508,520,520,414,441,391,449,597,1086,1159]} 1. c4 Nf6 2. g3 e6 3. Bg2
+d5 4. Nf3 Be7 5. O-O O-O 6. b3 b6 7. e3 Bb7 8. Bb2 dxc4 9. bxc4 c5 10. Qe2 Nc6
+11. Nc3 Qd7 12. Rad1 Rfd8 13. d3 Rac8 14. Ne1 Nb4 15. f3 Ne8 16. a3 Nc6 17. f4
+Bf6 18. Nf3 Na5 19. g4 Bxc3 20. Bxc3 Qa4 21. f5 exf5 22. gxf5 Qxa3 23. Bb2 Qb3
+24. f6 g6 25. e4 b5 26. Ra1 bxc4 27. Rxa5 cxd3 28. Qd2 Bxe4 29. Re1 Bxf3 30.
+Bxf3 Qb6 {In view of the coffin nail f6, the only hope for Black's king in the
+diagram position is based on his defending knight on e8. White to play. Say no
+more!?} {[%tqu "En","White to play and win.","The goal position is one without
+the Ne8 and with a white queen on h6. Before striking, White must prevent
+counterplay against his own king. Black's Qb6 is well placed for that purpose..
+.","","a5a6","",10]} 31. Ra6 $3 {[%csl Ga6,Rb6][%cal Ga6f6] First things
+first! White's rook enters the sixth rank, hitting Black's queen while also
+fortifying the coffin nail f6.} ({The immediate} 31. Rxe8+ $4 Rxe8 32. Qh6 {
+fails to} Re1+ ({or the computer's} 32... c4+ 33. Kf1 Re1+ $1 34. Kxe1 Qg1+ 35.
+Kd2 Qf2+) 33. Kf2 Qxb2+ 34. Kxe1 Qxf6 $19) 31... Qb4 (31... Qxa6 {[%tqu "En",
+"Black's queen has taken the rook. Please show White's point.","","","e1e8","",
+10]} 32. Rxe8+ $1 {[%csl Ge8] Now liquidating the defending knight wins.} Rxe8
+33. Qh6 {[%csl Gf6,Rg8][%cal Gh6g7,Gb2f6] ... and mate on g7 is inevitable.
+Note that the coffin nail f6 is protected by the Bb2.} Re1+ 34. Kg2 {and Black
+has no sensible checks left.}) {[%tqu "En","Black has offered a trade of
+queens. Should White strike or not? Please make your move.","","","b2c3","",10,
+"e1e8","",0]} 32. Bc3 $1 {[%csl Gc3] Haste makes waste!} ({Again} 32. Rxe8+ $2
+Rxe8 33. Qh6 {would spoil it:} Qe1+ $1 (33... Re1+ $2 34. Kf2 Qxb2+ 35. Kxe1
+Re8+ 36. Kf1 $18 {[%csl Gf6,Gh6][%cal Ga6f6]}) 34. Kg2 Re2+ $1 35. Bxe2 Qxe2+
+36. Kg3 Qe1+ {[%csl Ge1,Rg3] and Black has a perpetual.}) 32... Qh4 {[%csl Rh4]
+[%cal Gd2h6,Rh4h6] After any other queen move now 33.Rxe8+! followed by 34.Qh6
+would win indeed.} 33. Re4 $1 {[%csl Ge4,Rh4] The game is over.} Qh3 {Only
+square.} 34. Bg4 {[%csl Gg4][%cal Gg4h3,Gg4c8]} Qh4 35. Bf3 Qh3 36. Bg4 Qh4 37.
+Bf5 $1 {[%csl Gf5][%cal Gf5e4,Gf5c8,Ge4h4]} Qh5 38. Bxc8 Rxc8 39. Qxd3 Rb8 40.
+Qg3 Rd8 41. Ra1 h6 42. Re5 Rd1+ 43. Kg2 1-0
+

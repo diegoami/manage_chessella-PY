@@ -1,0 +1,257 @@
+[Event "Unrated 5m+5s"]
+[Site "playchess.com"]
+[Date "2019.08.12"]
+[Round "?"]
+[White "Cwille"]
+[Black "Jipiccio"]
+[Result "1/2-1/2"]
+[ECO "A12"]
+[WhiteElo "1488"]
+[BlackElo "1620"]
+[Annotator "Speelman,Jonathan"]
+[PlyCount "113"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,113,11,26,26,-7,23,-5,15,-31,-36,-26,-9,-83,-23,-15,22,22,18,25,31,5,
+20,9,16,-14,18,6,4,-29,-11,-18,-10,-7,-9,-6,11,11,25,16,18,9,34,39,40,5,4,2,25,
+5,0,0,0,-21,0,-8,-20,-23,-23,-61,-19,-47,-48,-113,-51,-113,-121,-129,-120,-128,
+-172,-174,-174,-182,-170,-210,-227,-216,-235,-226,-241,-261,-268,-287,-153,
+-288,0,0,0,79,91,91,138,195,189,72,62,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 
+1. Nf3 Nf6 2. c4 c6 3. g3 d5 4. b3 Bg4 5. Bg2 e6 6. d3 Nbd7 7. O-O Be7 8. Bb2
+O-O 9. Nbd2 a5 10. a3 Qb8 11. Qc2 Rc8 12. Rac1 Bf5 {[#]} 13. cxd5 {A bit tame.}
+({If} 13. Nh4 {Black retains the bishop by returning to g4} Bg4 {and now
+perhaps} 14. Ndf3 {or} (14. e3)) 13... cxd5 14. Qxc8+ (14. Qb1 {looks more
+normal though still about equal.}) 14... Qxc8 15. Rxc8+ Rxc8 16. Rc1 Rxc1+ 17.
+Bxc1 h5 (17... h6 {kept things more compact}) 18. Bb2 Kf8 19. Nd4 Bg6 20. N2f3
+Ke8 21. Nb5 Kd8 22. Ne5 $6 {This frees Black's pieces.} (22. Bc3 b6) 22... Nxe5
+23. Bxe5 Ne8 24. a4 $6 {fixing a weakness on b3} f6 25. Bd4 (25. Bc3 b6) 25...
+Kd7 26. Bb6 Bd8 27. Bc5 Be7 28. Bxe7 $6 Kxe7 {[#] Black is now better because
+his king is closer to the queenside than White's and the b3 pawn is a nice
+target. White should have rushed his monarch towards the queenside starting
+with Kf1 but instead played a move that made things worse.} 29. e4 $2 (29. Kf1
+Nd6) 29... dxe4 30. dxe4 (30. Bxe4 Bxe4 31. dxe4 Nd6 32. Nc3 Nf7 $1 {is also
+pretty bad since if} 33. Nb5 {to prevent the immedaite Ke7-d6-c5-b4} Ng5 34.
+Nc3 Kd6 {the king enters and Black is winning. If} 35. f4 Nf3+ {makes things
+even worse.}) 30... e5 31. f3 Kd7 (31... Bf7) 32. Bf1 Bf7 33. Bc4 Bxc4 34. bxc4
+Kc6 35. Kf2 Kc5 (35... Nd6 $1 {was even cleaner} 36. Nc3 ({The pawn ending
+after} 36. Nxd6 Kxd6 37. Ke3 Kc5 38. Kd3 Kb4 {is completely dead}) 36... Kc5
+37. Ke3 Kxc4) 36. Ke3 Kxc4 37. f4 Kb4 38. fxe5 fxe5 39. Kd3 g5 40. Nc3 (40. h3
+h4 41. g4 b6 42. Na7 Kxa4 43. Nc6 Kb3 44. Nxe5 a4) 40... Nd6 (40... Nc7 {
+kept even more control. If} 41. Nd5+ Nxd5 42. exd5 Kc5 43. Ke4 Kd6 44. h3 h4
+45. g4 b6 46. Kf5 b5 47. axb5 Kxd5 ({not} 47... a4 48. b6 a3 49. b7 Kc7 50. d6+
+Kxb7 51. Ke6 a2 52. d7 a1=Q 53. d8=Q) 48. Kxg5 a4 {and wins}) 41. h3 Nc4 42.
+Nd5+ {[#]} Kxa4 $4 {Up to here, John has played excellently but things happen
+in blitz games and after this horrible blunder he was somewhat lucky to draw.}
+43. Kxc4 b5+ 44. Kc3 b4+ 45. Kb2 Kb5 46. Nf6 h4 {[#]} 47. gxh4 ({It seems that
+} 47. g4 $1 {was winning though it was impossible to judge at speed and indeed
+looking quietly and slowly I'm only confident of this because my engine, which
+can easily claculate such a position, says so:} Kc4 48. Nh7 a4 49. Nxg5 a3+ 50.
+Ka2 Kc3 (50... Kd4 51. Nf3+ Kxe4 52. Nxh4 Kd3 53. Ng2 Kc3 (53... e4 54. g5) 54.
+g5 b3+ 55. Kxa3 b2 56. Ka2 Kc2 57. Ne1+ $1) 51. Nf3 b3+ 52. Kxa3 b2 53. Nd2)
+47... gxh4 48. Ng4 Kc5 49. Nxe5 Kd4 50. Nc6+ Kxe4 51. Nxa5 Kf3 52. Nc6 Kg3 53.
+Nd4 Kxh3 54. Nf5 Kg4 55. Nxh4 Kxh4 56. Kb3 Kg4 57. Kxb4 {[#] John played very
+well up to the blunder losing the knight. His calm inprovement of his pieces
+in the endgame was excllent.} 1/2-1/2
+
+[Event "Rated 5m+5s"]
+[Site "playchess.com"]
+[Date "2019.08.14"]
+[Round "?"]
+[White "Jipiccio"]
+[Black "Sanceol"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "1620"]
+[BlackElo "1612"]
+[Annotator "Speelman,Jonathan"]
+[PlyCount "72"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,72,26,15,15,25,15,22,59,43,48,7,5,24,28,28,17,6,18,-13,50,18,44,45,36,
+23,20,19,35,40,75,71,73,12,12,22,70,12,34,16,36,37,62,41,44,37,25,26,57,51,114,
+114,107,91,133,100,103,9,141,-79,-58,-39,-53,-18,-37,-93,-104,-147,-127,-151,
+-166,-496,-466,-496,-501]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Nf6
+6. d4 d5 {[#] This has now transposed back (a move down) into an Exchange
+French} 7. Bd3 Bd6 8. Bg5 O-O 9. O-O Bg4 10. Nbd2 Nc6 11. c3 h6 12. Bh4 g5 13.
+Bg3 Nh5 14. Qb3 Nxg3 15. hxg3 Ne7 {[#] Both players have made a number of
+difficult decisons to reach this. One crucial question for the next few moves
+is whether Qxb7 is a genuine threat.} 16. Ne5 $5 (16. Qxb7 Rb8 17. Qa6 (17.
+Qxa7 $6 Bd7 $1 {leaves White equal at best}) 17... Rxb2 {is about equal.})
+16... Bxe5 17. dxe5 Be6 (17... c5 {was a good idea because if} 18. Qxb7 c4 19.
+Bb1 Rb8 {White's pieces are a bit discoordinated.}) 18. Qa4 (18. Qxb7 $1 {
+was a good idea now because if} Rb8 19. Qxa7 Rxb2 20. Nb3 {Not only is White a
+pawn up but he has control of the central dark squares.}) 18... Ng6 19. Nf3 c6
+20. Rfe1 a5 21. Qc2 Kg7 22. a4 c5 23. Rad1 Qc7 24. Qe2 {[#] Again this was
+just a five minute game so the analysis earlier was perhaps a bit unnecessary
+but I included this game becuse of the serious strategic error Black now made:
+and which John didn't exploit.} c4 $2 {A very bad idea because it gives the
+white knight a dream posting on d4 and sets up b2-b3 opening the b file for
+the white rooks.} 25. Bb1 $2 (25. Bxg6 $1 {gave a big advantage whichever way
+Black recaptures.} fxg6 (25... Kxg6 26. Nd4 Qd7 27. f4 Bg4 28. Qc2+ Kg7 29. Rb1
+Kh8 30. b3 ({maybe even better than} 30. f5)) 26. Nd4 Qd7 (26... Rae8 27. Nxe6+
+Rxe6 28. Rxd5) 27. b3 Rfc8 28. Rb1 {There is simply too much strain on Black's
+position and it is very likely to collapse in the next few moves. For instance:
+} Ra6 29. Rb2 Rc7 30. bxc4 dxc4 31. Nb5 Rcc6 32. Qe3 Qd3 {and White can even
+accede to the exchange of queens.} 33. Nd6 (33. Qc1 {is the obvious
+alternative.}) 33... Qxe3 (33... b6 34. Qc1) 34. Rxb7+ Kg8 35. fxe3 ({of course
+} 35. Rxe3 {is also very strong.})) 25... Rae8 26. Qe3 Qc6 {Preparing Bg4
+wghich wasn't possible this move because of Rxd5.} 27. Bc2 ({He didn't really
+need to defend the a-pawn.} 27. Nd4 {was excellent and if} Qxa4 28. Qf3 Qd7 29.
+Qf6+ {White has a huge attack for instance if} Kh7 30. f4 gxf4 31. gxf4 Bg4 32.
+Bf5 Bxf5 33. Nxf5 Rg8 34. Re3 Re6 35. Rh3 Rxf6 36. Rxh6#) ({Simply} 27. Bxg6 {
+was still the easiest thing to do even if a bit less effective now that Black
+is better organised.}) 27... Bg4 28. Nd4 (28. Qd4 $1 {was good and if} Bxf3 29.
+gxf3 Qe6 30. Bxg6 Kxg6 31. Qxd5) 28... Qd7 {[#]} 29. Qd2 $6 (29. Bxg6 $1 {
+was still good because if} Bxd1 30. Bf5 Qxa4 31. f4 {with a massive attack.})
+29... Bxd1 30. Rxd1 Nxe5 (30... Rxe5) 31. Nf5+ Kh8 32. Qd4 (32. Nxh6 f6 33. Nf5
+) 32... f6 33. f4 Nd3 34. Bxd3 cxd3 35. Rxd3 $2 Qxf5 36. Qxd5 Qxd5 {A nasty
+loss for John after he had such a good position in the middlegame. I'm
+probably being rather over-pernickety in giving exact tactical lines but the
+important point is that after Black played ...c4?, the knight would have been
+a monster on d4 when left with just the light squared bishop opposing it. And
+Bxg6 to force this is a decision you could take in a blitz game in a second to
+get a large safe advantage.} 0-1
+
+[Event "playchess.com"]
+[Site "playchess.com"]
+[Date "2019.08.17"]
+[Round "?"]
+[White "Lungavilla2"]
+[Black "Jipiccio"]
+[Result "1/2-1/2"]
+[ECO "B44"]
+[WhiteElo "1813"]
+[BlackElo "1620"]
+[Annotator "Speelman,Jonathan"]
+[PlyCount "119"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,119,25,20,66,42,59,43,30,25,25,20,8,-19,-13,-42,-20,-54,-40,-40,-47,
+-44,-18,-37,-43,-43,-37,-58,-43,-82,-91,-77,-73,-92,-88,-101,-90,-86,-28,-53,
+-75,-78,-70,-95,-71,-152,-139,-154,-166,-150,-82,-109,-115,-200,-166,-327,-336,
+-338,-267,-388,-292,-290,-281,-297,-111,-110,-100,-100,-85,-154,-150,-158,-142,
+-142,-142,-137,-146,-137,-108,-121,-113,-118,-122,-126,-134,-134,-86,-103,-103,
+-110,-119,-119,-119,-127,-127,-111,-111,-180,-116,-471,-480,-1121,-1210,-1228,
+-598,-29961,-29964,-29967,-29968,-29969,-29970,-29971,-29968,-29969,-29970,
+-29971,-29968,-29969,-29966,-29967,-29968,-29969]} 1. e4 c5 2. Nf3 e6 3. d4
+cxd4 4. Nxd4 Nc6 5. Nxc6 bxc6 6. Bc4 d5 7. exd5 cxd5 8. Bb3 Bd7 9. O-O Nf6 10.
+Re1 Be7 11. Bg5 O-O 12. Nd2 h6 13. Bh4 a5 14. a3 a4 15. Ba2 Rb8 16. b4 axb3 17.
+Bxb3 Ra8 18. a4 Qe8 19. a5 (19. c4 {was less bad}) 19... Qd8 20. a6 Bb5 21. a7
+Qc7 22. Nf3 Rxa7 23. Rxa7 Qxa7 {[#] John has won a pawn for nothing and so has
+excellent winning chances.} 24. Nd4 Rb8 25. Nxb5 Rxb5 26. Qd3 Ra5 27. h3 Ne4
+28. Bg3 Bc5 29. Rf1 Ra1 30. Rxa1 Qxa1+ 31. Qf1 Qxf1+ 32. Kxf1 Kf8 33. Ke2 Ke7
+34. Bh4+ g5 35. Bg3 {[#]} Bd6 $1 {By exchanging bishops John forces a clearly
+won ending.} 36. Bxd6+ Kxd6 37. f3 Nc5 38. Ba2 d4 39. Bc4 f5 40. Kd2 Ke5 41. g3
+h5 42. c3 ({If} 42. h4 f4) 42... f4 (42... h4 $1 {was correct to avoid the
+pawn being fixed on h5 and no less important leave the king an entry square on
+f4.} 43. gxh4 (43. f4+ gxf4 44. gxh4 Ne4+ {would obviously be totally hopeless}
+) 43... gxh4) 43. gxf4+ gxf4 {[#]} 44. cxd4+ $2 {This invites the king in.} (
+44. h4 $1 {Fixes the pawn on h5 giving White real hope} dxc3+ 45. Kxc3 Nb7 46.
+Bb5 Nd6 47. Bd7 {I suspect that with best defence this is a draw.}) 44... Kxd4
+45. Bb5 h4 {Now Black can slowly percolate forward, but it's still not easy.}
+46. Bc6 e5 $6 {This looks obvious but is probably a mistake.} (46... Nb3+ $1
+47. Ke2 (47. Kc2 Na5 48. Ba8 (48. Bd7 Ke3) 48... Ke3 49. Kc3 Kf2 50. Kb4 (50.
+Kd4 Kg3 51. Ke4 Nc4) 50... Kg3 51. Kxa5 Kxh3) 47... Kc3 48. Be4 e5 49. Kd1 Nd2
+50. Ba8 Kd3) 47. Ke2 Ne6 (47... Kc3 48. Ba8 Nb3 49. Be4 Nd4+ 50. Kd1 {White is
+just able to defend f3 and prevent the king entering on d3 so it's not at all
+clear that Black can make progress. Incidentally when I asked whether it was
+zugzwang it looks like Ke1 would still be okay if it were White to move.}) 48.
+Kf2 $2 (48. Be4 Kc3 49. Bb7 Nd4+) (48. Bd7 {was necessary}) 48... Ng5 49. Kg2
+Ke3 {Once the king gets this far in it's indefensible.} 50. Bd5 e4 51. fxe4
+Nxe4 52. Bxe4 Kxe4 53. Kf2 f3 54. Kf1 {[#] Here John clearly knew that he had
+to triangulate to win but in the heat of battle chose the worng triangle.} Kf5
+$1 55. Kg1 Kg5 {The reason you triangulate is to put White into zugzwang which
+is possible because the f3 pawn denies the white king the e2 and g2 squares.
+Kf1 vs Ke4 is zugzwang and by staying in touch with e4 you get there with
+White to move:} (55... Ke5 56. Kf1 Ke4 57. Ke1 ({or} 57. Kf2 Kf4 58. Kf1 Kg3)
+57... Ke3 58. Kf1 f2 {and wins.}) 56. Kf1 Kf5 57. Kg1 Ke4 58. Kf1 Kf4 59. Kf2
+Ke4 60. Kf1 {Drawn by threefold repetition. A shame for John after he won a
+pawn early on and then showed good endgame technique (of course with the odd
+wobble on the way) to reach a clearly winning endgame.} 1/2-1/2
+
+[Event "playchess.com"]
+[Site "playchess.com"]
+[Date "2019.08.17"]
+[Round "?"]
+[White "Dukic"]
+[Black "Jipiccio"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "1842"]
+[BlackElo "1655"]
+[Annotator "Speelman,Jonathan"]
+[PlyCount "101"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,101,25,-16,37,18,29,20,42,22,52,50,52,52,52,22,39,3,42,54,78,51,61,52,
+52,56,75,76,50,38,34,3,3,-29,-28,-21,34,-4,7,14,25,27,70,44,80,47,48,16,48,0,
+81,86,112,88,146,69,74,74,95,103,123,115,122,110,110,101,304,78,241,304,274,
+297,297,0,148,0,85,0,198,198,232,229,504,156,149,25,149,92,164,0,417,417,417,
+75,1951,2189,2406,29978,29979,29980,29983,29984,29985,29986]} 1. c4 c6 2. Nc3
+d5 3. d4 Nf6 4. Nf3 a6 5. c5 Bf5 6. Bf4 Nbd7 7. a3 h6 8. h3 e6 9. e3 Qc8 10. b4
+Be7 11. Bd3 Bxd3 12. Qxd3 O-O 13. O-O Bd8 14. Bh2 Bc7 15. Ne5 Nxe5 16. dxe5 Nd7
+17. f4 Qd8 18. Ne2 Qe7 19. e4 {[#] In a complicated queen's pawn game, White
+has gained space but can be challenged in the centre. John's next move may
+look natural but opens up a path for the White pieces to d6.} dxe4 (19... f6 {
+was interesting when if} 20. exf6 Nxf6 21. e5 Ne4 22. Nd4 a5 {Blakc is pretty
+active.}) 20. Qxe4 Rfe8 21. Rad1 Rad8 22. Rd3 ({I'd be very tempted by} 22. Rd6
+$5 {in this sort of position.}) 22... Nf8 23. Rg3 Kh8 24. Qf3 Rd2 $6 {This
+looks natural but expedites the knight's progress towards d6.} 25. Nc3 Red8 26.
+Ne4 {[#]} R2d3 $6 27. Qg4 ({My first thought was that} 27. Qxd3 Rxd3 28. Rxd3 {
+must be pretty good for White Although the entry squares on the d file are
+defended at the moment, Black has to use both minor pieces to do so and the
+knight is far too far away from d5. He would like to create some counterplay
+with ...a5xb4 and Qa8 but it must surely be too slow though though when I
+thought about it, it wasn't that easy to play. .} Qe8 29. Rfd1 Kh7 30. Nd6 Bxd6
+31. Rxd6 a5 32. Rd8 Qe7 33. Bg3 g5 34. Kh2) 27... Rxg3 28. Qxg3 Qd7 (28... Rd5
+{was better to get the rook past the knight.}) 29. Nd6 {Now Black is pretty
+squashed.} Bb8 30. Qg4 b6 31. f5 exf5 32. Rxf5 bxc5 33. bxc5 Ba7 34. Nxf7+ Kh7
+35. Nxd8 Bxc5+ {[#]} 36. Kf1 $2 (36. Kh1 $1 {was winning since the queen
+covers d1.}) 36... Qxd8 (36... Qd3+ $1 {would have led to prepetual check.})
+37. Qf3 Ne6 38. Rf7 Ng5 39. Qf5+ Kg8 40. Rd7 Qa5 41. h4 Qb5+ 42. Ke1 (42. Qd3
+$1 {kept control}) 42... Qa5+ 43. Ke2 Qb5+ 44. Rd3 {[#]} Qb2+ ({Rather
+surprisngly} 44... Qc4 45. hxg5 Qc2+ 46. Ke1 Qb1+ {is a perpetual.}) 45. Rd2
+Qb5+ 46. Kd1 Qb1+ $4 47. Qxb1 Ne6 48. Qb3 Kf7 49. Rd7+ Be7 50. Qb4 c5 51. Qb7 {
+Things went wrong for John when he allowed access to d6 but it was sitll very
+unclear for a long time and only clarified finally after the blunder Qb1+. A
+fighting blitz game which ended badly for him in the end.} 1-0
+
+[Event "playchess.com"]
+[Site "playchess.com"]
+[Date "2019.08.17"]
+[Round "?"]
+[White "Jipiccio"]
+[Black "Schuster5691"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "1620"]
+[BlackElo "1435"]
+[Annotator "Speelman,Jonathan"]
+[PlyCount "53"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,53,20,20,56,46,46,28,28,19,19,30,34,-75,-71,-71,-75,-75,-61,-61,-4,
+-10,0,0,-7,7,34,-29,-14,6,53,-189,-170,-192,-167,-167,0,0,0,-24,0,-146,-78,
+-123,-95,-110,200,200,205,204,263,264,547,476,532,464]} 1. e4 c5 2. Nf3 Nc6 3.
+d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. N5a3 $6 ({Black now gets a nice position
+without much effort. The Lowenthal variation} 6. Nd6+ Bxd6 7. Qxd6 Qf6 {
+is messy but supposed to be pretty good for White.}) ({And if White wants to
+avoid thory then} 6. N5c3 {probably makes more sense.}) 6... Nf6 7. Bd3 d5 8.
+exd5 Qxd5 9. O-O Bc5 (9... Be6 10. Nc3 Qd4 {and if} 11. Be3 Qh4 {gives Black
+good attacking chances.}) 10. Nc3 Qd6 11. Nc4 Qc7 {[#]} 12. Re1 $6 {This
+weakens f2.} (12. Bg5 Be6 13. Bxf6 gxf6 14. Qh5 O-O-O 15. Ne4 {was very
+complicated and probably fairly balanced.}) 12... O-O 13. a4 {A bit slow} (13.
+Bg5 Ng4 14. Ne4 Ba7 15. Ne3 {was reasonable}) 13... Ng4 14. Ne4 Ba7 15. h3 $2 (
+15. Ne3 $1) 15... f5 $1 {The tactics now favour Black.} 16. hxg4 fxe4 17. Rxe4
+Rxf2 $2 (17... Bxf2+ $1 18. Kh2 Qe7 19. g3 Qf6 {was excllent for Black since
+the white king is in serious danger.}) 18. Be3 Bxe3 19. Rxe3 Rf4 20. Qe2 $6
+Bxg4 21. Qe1 Re8 22. Qg3 {[#] John's opening was ropey but he's fought back
+and now got sensible pieces at the cost of a pawn. John's opponent blundered
+which was far form unexpected when under tactical pressure in a blitz game.}
+Bf5 $2 ({Houdini now recommends} 22... g5 {and if} 23. Rf1 h5 {to stabilse the
+rook and bishop but you've have to be supremely confident - and see the moves
+in the first place - to create so much space in front of your king.}) 23. Nxe5
+$1 Bxd3 24. Qxf4 Nxe5 25. cxd3 Qb6 26. Kh1 Qxb2 27. Rae1 {John's opening
+wasn't great but he kept going and took his chance with both hands when it
+arose.} 1-0
+

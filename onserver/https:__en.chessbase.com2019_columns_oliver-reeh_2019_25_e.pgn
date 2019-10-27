@@ -1,0 +1,39 @@
+[Event "Heraklio op 9th"]
+[Site "Heraklio"]
+[Date "2005.??.??"]
+[Round "7"]
+[White "Kotrotsos, Vasilios"]
+[Black "Stiri, Alexandra"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "2315"]
+[BlackElo "2180"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "29"]
+[EventDate "2005.06.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+
+1. e4 c5 2. Nf3 e6 3. b3 b6 4. d4 cxd4 5. Nxd4 Bb7 {From the diagram, the pawn
+sac 6.Nb5!? a6 7.Nd6+ Bxd6 8.Qxd6 (Bxe4) gives White the typical dark-squared
+compensation. The catastrophe to follow shortly after was of course not forced
+but, some might feel, not completely unexpected either.} 6. Nb5 $5 {[%cal
+Gb5d6]} a6 7. Nd6+ Bxd6 8. Qxd6 {[%csl Gc1,Gd6]} Bxe4 {An acceptable risk for
+Black!? What do you think?} 9. Ba3 {[%csl Gf8][%cal Ga3f8] Threatening mate in
+1.} Nf6 (9... Ne7 $1 {[%csl Ge7][%cal Ge7f5] seems fine.}) 10. Nd2 Nc6 {
+[%tqu "En","After 11.Nc4! the knight is en route to the weak square d6, but
+White must have a reply to 11...b5 ready.   So please execute 11.Nc4! only
+after you do! :-)","","","d2c4","",10]} 11. Nc4 $1 {[%csl Ga3,Gc4,Gd6] The
+third attacker on the dark squares appears.} b5 {[%tqu "En","Here you are -
+White to play and win!","Find the best way to clear the square d6 for a knight
+check!","","d6f8","",10]} 12. Qf8+ $1 {The queen sacs itself to clear the
+square d6 for a knight check, blocking an escape square for the black king. 
+"What is quite funny is that you can see on ChessBase's online engine-sharing
+site that someone analysed this position to a depth of 124." - Aagard. Black
+resigned on account of} Rxf8 13. Nd6+ {[%csl Gd6,Re8][%cal Gd6e8] In position!}
+Ke7 {[%tqu "En","Continuation?","","","d6f5","Double check.",10]} 14. Nf5+ {
+[%csl Ga3,Re7,Gf5][%cal Gf5e7,Ga3e7] Double check.} Ke8 {[%tqu "En","And the
+finale - enjoy!","","","f5g7","",10]} 15. Nxg7# {[%csl Ga3,Re8,Gg7][%cal Gg7e8,
+Ga3e7] Checkmate!} 1-0
+

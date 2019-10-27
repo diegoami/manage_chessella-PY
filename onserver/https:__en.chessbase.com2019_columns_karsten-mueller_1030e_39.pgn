@@ -1,0 +1,45 @@
+[Event "Abu Dhabi op 25th"]
+[Site "Abu Dhabi"]
+[Date "2018.08.15"]
+[Round "9"]
+[White "Lupulescu, Constantin"]
+[Black "Gukesh, Dommaraju"]
+[Result "*"]
+[ECO "B13"]
+[WhiteElo "2619"]
+[BlackElo "2440"]
+[Annotator "Karsten Müller"]
+[SetUp "1"]
+[FEN "8/8/8/7p/3k3P/5P2/5K2/8 b - - 0 53"]
+[PlyCount "22"]
+[EventDate "2018.08.07"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UAE"]
+[SourceTitle "1030_39"]
+[Source "ChessBase"]
+[SourceDate "2018.06.29"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.06.29"]
+[SourceQuality "1"]
+
+53... Kd3 {
+Even apparently simple pawn endings can be tricky.} {[%tqu "En","White to play
+and win","","","f3f4","",0,"f2g2","",5,"f2g3","",3,"f2f1","",3,"f2g1","",3,
+"De","Weiß zieht und gewinnt","","","f3f4","",0,"f2g2","",5,"f2g3","",3,
+"f2f1","",3,"f2g1","",3]} 54. Kg2 $5 ({In the game Black played} 54. f4 $2 {
+but this allowed Black to stop White's king from advancing.} Ke4 55. Kg3 Kd5 $1
+{The crucial move that saves the draw.} 56. Kf3 Kd4 57. f5 Ke5 58. f6 Kxf6 59.
+Kf4 Kg6 60. Ke5 Kg7 61. Kf5 Kf7 62. Kg5 Kg7 63. Kxh5 Kh7 64. Kg5 Kg7 65. h5 Kh7
+66. h6 Kh8 67. Kg6 Kg8 68. h7+ Kh8 69. Kh6 {with a draw.}) ({White does not
+necessarily have to play 54.Kg2 but sooner or later he has to carry out the
+triangulation, e.g.} 54. Kg3 $6 Ke3 55. Kg2 Kd4 56. Kh2 Kd3 57. Kh3 $18) (54.
+Kf1 $6 $18) (54. Kg1 $6 $18) 54... Kd4 {White can now use the squares h2 and
+h3 to successfully triangulate because Black has also the opposing square d3:}
+55. Kh2 Kd3 56. Kh3 Kd4 57. Kg2 Ke5 ({After} 57... Kd3 58. Kf2 {the starting
+position of this endgame is on the board again, but this time it's Black to
+move:} Kd4 59. Ke2 Ke5 60. Ke3 Kf5 61. f4 Kg4 62. Ke4 Kxh4 63. Kf3 $18) 58. Kf1
+Kf5 59. Ke2 Kf4 60. Kf2 Ke5 61. Ke3 Kf5 62. f4 Kg4 63. Ke4 Kxh4 64. Kf3 $5 $18
+(64. f5 Kg5 65. Ke5 h4 66. f6 h3 67. f7 h2 68. f8=Q h1=Q 69. Qg7+ Kh4 70. Qh6+
+$18) *
+

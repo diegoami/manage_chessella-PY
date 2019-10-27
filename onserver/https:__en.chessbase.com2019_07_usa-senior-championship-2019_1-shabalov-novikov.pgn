@@ -1,0 +1,61 @@
+[Event "USA-ch Seniors 2019"]
+[Site "Saint Louis"]
+[Date "2019.07.13"]
+[Round "3.4"]
+[White "Shabalov, Alexander"]
+[Black "Novikov, Igor"]
+[Result "1-0"]
+[ECO "B80"]
+[WhiteElo "2500"]
+[BlackElo "2556"]
+[Annotator "yermo"]
+[PlyCount "81"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,81,19,38,40,41,66,66,57,33,33,27,60,34,65,44,79,52,68,31,19,3,-6,-25,
+-38,-39,-30,-40,40,-24,-50,-28,-38,-33,-33,-143,-2,33,26,46,-5,9,25,-1,-3,0,0,
+0,84,81,76,100,93,97,91,116,116,82,118,160,727,235,510,214,223,82,335,252,247,
+267,269,278,271,281,302,251,272,247,256,253,254,254,259,283]} 1. e4 c5 2. Nf3
+d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f3 b5 8. g4 h6 9. Qd2 Nbd7 10.
+O-O-O {At the World Senior Team Championship in Rhodes, which was Igor's first
+tournament after a long layoff, Novikov had a game against Johann Hjartarsson,}
+({that went} 10. h4 Bb7 11. O-O-O {After the game I commented that lately
+Black has been trying to leave the bishop on c8 for a better protection
+against sacrifices on e6. While it was hardly more than a layman's quip, it
+turned out Igor was paying attention.}) 10... b4 {Novikov credited me with
+helping him to come to this decision.} 11. Na4 $5 {[#] Shabalov steps off the
+main path} (11. Nce2 {has been seen more often, and it can still transpose to
+the latest high-profile game in this line, Topalov-Vachier Lagrave, Riga Grand
+Prix 2019.}) 11... d5 {Faced with a new problem Igor reverts to the old
+strategy of hitting the center.} (11... Ne5 {is the usual choice, often
+resulting in} 12. b3 Bd7 13. Nb2 (13. Kb1 $5 Bxa4 14. bxa4 Qc7 15. Be2 {
+Caruana-Hou Yifan, 2017}) 13... d5 14. Bf4 Qc7 {with mutual chances.}) 12. exd5
+Nxd5 13. Bc4 {[#] Anybody would be scared witless to defend such a position.}
+N7f6 $1 {Not Igor Novikov, an old Najdorf dog.} (13... Bb7 14. Rhe1 Ne5 15. Bb3
+Qc7 16. Bf2 {is indeed a bit too much to handle.}) 14. g5 ({Engines recommend} 
+14. Nf5 {yet they're unable to find a kill after} Qc7 15. Bxd5 Nxd5 16. Rhe1
+Bb7) 14... hxg5 15. Bxg5 Bb7 {Once again, this seems wrong.} ({Black just
+needs to get his king out of the danger zone, and it can be accomplished by} 
+15... Qc7 16. Qe2 Bd6 17. Nxe6 Bxe6 18. Bxd5 Nxd5 19. Rxd5 O-O) 16. Qe2 Be7 {
+[#]} 17. Nf5 $6 ({Shabalov said he couldn't believe where was no follow-up to} 
+17. Nxe6 fxe6 18. Qxe6 Qd7 $3 {but Novikov confirmed he relied on that defense.
+}) ({The right move order was} 17. Bxf6 $1 Bxf6 (17... gxf6 {gets crushed by}
+18. Nxe6) 18. Nc5 {where Black's only remaining option is} Bxd4 19. Rxd4 Qg5+
+20. Rd2 (20. Kb1 Nc3+) 20... O-O-O 21. Nxb7 Kxb7 22. Bxa6+ Ka7 23. Bd3 Nc3 $5 {
+etc.}) 17... Qc7 18. Bxf6 Bxf6 19. Bxd5 Bxd5 20. Rxd5 {[#]} Qf4+ {After the
+game Igor was critical of this decision.} ({Instead, he advocated} 20... Kf8 $3
+21. Rc5 Qf4+ 22. Ne3 (22. Qe3 $142 Bg5 23. Qxf4 Bxf4+ 24. Kb1 exf5 25. Rxf5 $11
+) 22... Bd4 23. Re1 Rxh2 24. Qd3 Rd8 {which, indeed, is winning for Black!})
+21. Qd2 Qxf3 22. Re1 O-O 23. Nh6+ {[#]} Kh7 $2 {Time shortage rears its ugly
+head.} ({Later we established} 23... gxh6 {was playable, as there's no mate
+after} 24. Qxh6 Qg2 25. Qxf6 exd5 26. Qd4 Qg5+ 27. Kb1 Rae8 28. Rg1 Kh7 $1) 24.
+Rd3 Qh5 25. Nxf7 Rxf7 26. Qxb4 $16 {[#] The very safe white king (which cannot
+be said about his black counterpart) is the critical factor in turning the
+odds heavily to White's favour.} Kg8 27. Kb1 Qxh2 28. a3 Rc8 29. Qb3 Rfc7 30.
+Nb6 $2 ({The players couldn't explain how the simple line,} 30. Qxe6+ Kf8 31.
+Rh3 {managed to escape their attention.}) 30... Rb8 31. Qxe6+ Kf8 32. c3 $2 {
+This blunder could have cost half a point.} (32. Ka2 Qxc2 33. Rb3 $18) 32...
+Rcb7 $2 $138 ({Incredibly,} 32... Re7 33. Qxe7+ Bxe7 34. Nd7+ Kf7 35. Nxb8 Bxa3
+$11) 33. Rd7 Qxb2+ 34. Kxb2 Rxb6+ 35. Kc2 Rxe6 36. Rxe6 Rc8 37. Rd3 a5 38. Kb3
+Rb8+ 39. Ka4 Rc8 40. Kxa5 Bxc3+ 41. Kb5 1-0
+

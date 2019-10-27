@@ -1,0 +1,41 @@
+[Event "23rd Alekhine Master 2019"]
+[Site "Voronezh"]
+[Date "2019.06.19"]
+[Round "7.7"]
+[White "Ruiz Castillo, Joshua Daniel"]
+[Black "Puranik, Abhimanyu"]
+[Result "1-0"]
+[ECO "C77"]
+[WhiteElo "2472"]
+[BlackElo "2548"]
+[Annotator "Tactical Analysis 2.10 (6s)"]
+[PlyCount "91"]
+[EventDate "2019.??.??"]
+
+{[%evp 13,91,-18,14,-7,36,-10,21,-24,8,-27,28,5,36,1,26,-2,39,-15,80,66,83,67,
+95,69,146,118,156,127,157,124,154,93,180,148,187,146,118,174,121,182,165,146,
+208,214,239,210,262,231,304,187,249,181,328,239,239,234,240,242,361,331,367,
+284,304,281,290,262,433,433,445,433,430,417,671,671,671,671,671,671,637,1041]} 
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Qe2 Bc5 8. c3
+{C77: Ruy Lopez: 3...a6 4 Ba4 Nf6, unusual lines} d6 (8... O-O $11 {might be
+stronger.}) 9. d3 (9. Rd1 $14) (9. Rd1 Ba7 10. d4 Qe7 11. d5 Na5 12. Bc2 c6 13.
+a4 Nc4 14. b3 Nb6 15. dxc6 Bxc6 {1/2-1/2 (45) Miroshnichenko,E (2548)-Malaniuk,
+V (2556) Warsaw 2002}) 9... h6 10. Nbd2 (10. Be3 $142) 10... O-O $11 11. Rd1
+Re8 (11... Bb6 $142) 12. Nf1 Bb6 13. Ng3 Bc8 $146 ({Predecessor:} 13... Ne7 14.
+Nh4 d5 15. Qf3 Ng6 {1-0 (37) Kordis,K (2224)-Michelakos,P (2098) Nikea 2011})
+14. h3 Be6 (14... Na5 $11 {feels stronger.}) 15. Bc2 (15. Bxe6 $14 Rxe6 16. Be3
+) 15... d5 (15... a5 $11 {keeps the balance.}) 16. d4 $1 $16 {[%cal Rd4e5]}
+exd4 17. e5 Nd7 18. cxd4 f6 (18... Nf8 $14) 19. Qd3 {Black must now prevent
+Qh7+.} Nf8 {[#]} 20. Qc3 $1 {[%cal Rc3c6]} Nb8 21. a4 {[%cal Ba2a4,Ba4a5][%mdl
+32]} Nbd7 22. exf6 ({White should play} 22. a5 Ba7 23. Qc6) 22... Nxf6 (22...
+Qxf6 $16 {is a better defense.} 23. Nh5 Qf7) 23. a5 $36 {[%mdl 2048] Keeping
+Black busy.} Ba7 24. Bf4 (24. Ne5 $18) 24... c5 25. dxc5 Bxc5 (25... b4 $18 26.
+Qxb4 Rc8) 26. Qxc5 $16 Rc8 27. Qb6 Rxc2 28. Nd4 Rc4 29. Qxa6 Bd7 30. b3 Rc3 31.
+Nxb5 Re6 {[#]} 32. Qb7 $1 Bc8 (32... Rxb3 {was worth a try.} 33. Qc7 Re8) 33.
+Qa8 Ra6 34. Qxa6 Bxa6 35. Nxc3 {b4 is the strong threat.} Ng6 (35... d4 $142
+36. Be5 d3) 36. Be3 $18 Qb8 37. Bb6 Nf4 38. b4 Qb7 {Hoping for ...d4.} 39. Rd4
+Ne4 $2 (39... Qc6) 40. Ngxe4 dxe4 41. b5 Bxb5 42. Nxb5 {Strongly threatening
+a6.} ({Resist} 42. Rd8+ Kh7 $18) 42... Qc6 (42... Ne2+ $142 43. Kh2 Nxd4) 43.
+Rd8+ {White is clearly winning.} Kh7 {( -> ...e3)} 44. Be3 {And now a6 would
+win.} Ne2+ 45. Kh1 Qxb5 46. a6 {Accuracy: White = 61%, Black = 31%.} 1-0
+

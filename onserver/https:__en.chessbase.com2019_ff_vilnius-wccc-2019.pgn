@@ -1,0 +1,281 @@
+[Event "The Western Daily Mercury"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "van Beek/Wurzburg, H/O.."]
+[Black "Mate in two moves"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "8/3p4/1K1N4/1PN5/p2k4/PqR3B1/6Q1/1n6 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1909.??.??"]
+[SourceVersionDate "2019.08.25"]
+
+{[%evp 0,3,29997,29998,29999,-30000]} {Looking at the position, the first
+point one notices is that three black pieces can take the rook on c3. At the
+moment there are mates set up for each capture: 1...Kxc3 2 Be5#, 1...Qxc3 2
+Qe4# and 1...Nxc3 2 Qd2#. There is also a mate after Black's only check by 1...
+Qxb5+ 2 Nxb5#. However, there are several Black moves for which no mate is
+prepared; for example, 1...Qc2 or 1...Qc4. My first thought was to create a
+threat which would force Black to take on c3, leading to the pre-arranged
+mates, but it proved hard to create a reasonable threat.} 1. Qa2 $1 (1. Qe2 {
+threatens 2 Qe5#, but by leaving d5 undefended allows Black to play 1...Qxb5+.
+After a few minutes, I gave up the idea of creating a threat and instead
+focussed on putting Black is zugzwang. This immediately seemed more promising,
+as Black has no real 'pass' moves and most Black moves already have a mate
+arranged. However, 1...Qc2 seemed a particularly awkward move to meet. What
+weakness could this move create that would allow a mate?}) ({Suddenly, I had
+the idea of} 1. Qb2 {so as to meet 1... Qc2 by 2 Qb4# and 1...Qxb2 by 2 Rd3#.
+However, this fails, one reason being that, like 1 Qe2, it allows 1... Qxb5+.
+But I was very close to the answer with this try. Just going one square
+further with 1 Qa2! provided the solution. As soon as I saw that by
+controlling d5 through the black queen, this again prevented 1...Qxb5+, I knew
+that it had to be correct.}) {There are several variations:} 1... Qxa2 (1...
+Kd5 2. Rd3#) (1... Kxc3 2. Be5#) (1... Qxb5+ 2. Nxb5#) (1... Qxc3 2. Nf5#) (
+1... Nxc3 2. Qd2#) (1... Qc4 2. Qxc4#) (1... Qc2 2. Qc4#) 2. Rd3# {It's a nice
+touch that 1. ..Qxc3 is now met by a completely different mate to that
+prepared in the diagram.} *
+
+[Event "Deutsche Schachblätter"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Zucker, Manfred"]
+[Black "Mate in five moves"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "1K2B3/2p5/b1R3nq/3p2pk/4p1p1/R3Q3/1b6/1n6 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1909.??.??"]
+[SourceVersionDate "2019.08.25"]
+
+{[%evp 0,9,1088,29992,29993,29994,29995,29996,29997,29998,29999,-30000]} {
+This position can be solved by pure logic, so that despite the many pieces
+it's actually fairly easy. The first pont is that White has to act quickly,
+with checks or immediate threats, since once Black plays, for example, ...Qf8,
+there is no hope of a quick mate. The most obvious idea is to threaten mate by
+playing the queen to h1 or h2, but there are several queen moves which
+accomplish this. Which one is correct? Since it wasn't obvious to me where the
+queen should go, I decided to just try one and see what happens.} 1. Rc1 $1 ({
+After} 1. Qg1 {White threatens two different mates in one, and it's clear that
+the only defence is} g3 {but it was quickly apparent that this presents a
+major problem, since after} 2. Rxg3 (2. Qxg3 g4 {is no better}) 2... g4 {
+the king can slip away to g5 and there is no hope of mating by move 5.}) ({
+Since ...g3 was so awkward, I then tried} 1. Qg3 {so as to block the g-pawn.
+This threatens 2 Qh2#, and forces the reply} Be5 {Once again this seemed to be
+the end, but then I wondered if it might be possible to sacrifice the queen by}
+2. Qh3+ gxh3 3. Rxh3+ Kg4 4. Bd7+ {which fails only because the king can move
+to f4. Then it occurred to me that this would work if Black's bishop were on
+f4 rather than e5. At once the whole thing became clear. In the diagram, the
+bishop must first be deflected from b2 to c1, so that when it moves to stop
+Qh2# it goes to f4 rather than e5, setting up the queen sacrifice.}) {So the
+solution is 1 Rc1!} 1... Bxc1 2. Qg3 Bf4 ({or} 2... Bf1 3. Qh2+ Bh3 4. Rxh3+
+gxh3 5. Qxh3#) 3. Qh3+ $1 gxh3 4. Rxh3+ Kg4 5. Bd7# *
+
+[Event "1st Prize"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Kiss, Ivan"]
+[Black "Mate in two moves"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "8/8/2p1Np1N/2p1p2P/1pB3RP/1Rn2kB1/2p2P1p/2Kb1Qbq w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1957.??.??"]
+[SourceVersionDate "2019.08.25"]
+
+{[%evp 0,3,29997,29998,29999,-30000]} {A quick check showed that every Black
+move is already provided with a mate: 1. ..e4 2 Rf4#, 1...f5 2 Ng5#, 1...Be2 2
+Bxe2#, 1...Bxf2 2 Qxf2# and 1...Qg2 2 Qd3#. If White had a waiting move, that
+would solve the problem, but it's a World Solving Championship so you can't
+expect such an easy solution. It quickly became clear that White couldn't
+preserve these mates and would have to give some of them up, replacing them by
+new mates. Making the reasonable assumption that Black will again be in
+zugzwang after the first move, which of the above mates is likely to be left
+intact by the key? It's hard to see how 1. ..f5 can create any weakness apart
+from unguarding g5, so it's likely that 1... f5 2 Ng5# will not be disturbed.
+This means that it might be possible to allow Black's king to move to e4, as
+Ng5# automatically covers that square} 1. Bf4 (1. Rg6 {seems a reasonable try,
+as there are mates after} e4 (1... Ke4 2. Qd3# {and}) 2. Rxf6# {but it is
+refuted by both 1...Be2 and 1...Bxf2.}) ({For a moment I wondered if the
+problem might be a trcik, with the key being} 1. Re4 {threatening 2 Re3#, but
+that is refuted by} Bxf2) {Then I looked at 1 Bf4, almost the only other
+reasonable move to give up control of e4, and that was the solution. The mates
+are} 1... exf4 (1... e4 2. Rg3#) (1... f5 2. Ng5#) (1... Be2 2. Qxe2#) (1...
+Qg2 2. Qxg2#) (1... Bxf2 2. Qxh1#) 2. Rxf4# {Notice how all the maters are
+changed, apart from the one after 1... f5.} *
+
+[Event "Schach-Echo"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Lobusov, Andrey"]
+[Black "Mate in three moves"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "2B2b2/rpK1kPR1/1P5P/4N1p1/3N2Pn/4P3/5Q2/1b2n3 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1978.??.??"]
+[SourceVersionDate "2019.08.25"]
+
+{[%evp 0,5,3237,29996,29997,29998,29999,-30000]} {A first glance at the
+position shows that the black king has no moves, so any knight check could
+potentially give mate. However, at the moment f5 and g6 are covered twice,
+while a check on c6 is met by ...bxc6+, preventing mate in 3. Black has the
+quite strong threat of ...Nef3, giving his king an escape route via f6, and
+White's first move must take this into account. The knights are in such
+excellent positions that it's hard to imagine one of them moving on the first
+move, so the obvious piece to move is the queen, which also gives White the
+chance to circumvent the defence by ...Nef3. At first sight there's not an
+especially promising queen move, since the squares on the f-file are covered,
+while moving the queen in another direction allows ...Kf6. However, this is
+where it's necessary to look a little more closely to see if a potential
+difficulty is more apparent than real. White can meet 1...Kf6 by 2 Nd7+,
+forcing 2...Ke7, after which almost any check by the white queen would be mate.
+So we can move the queen off the f-file, and the most obvious place is b2,
+since this lines the queen up with the f6-square in preparation for possible
+mates by, for example, Nf5+ followed by Ng6# (although that doesn't work right
+away). Sometimes this type of reasoning leads straight to the key, and that's
+the case here.} 1. Qb2 $1 {is indeed correct, with the threat 2 Qb4+ Kf6 3
+Qd6#. There are several ways Black can prevent this, by using either his rook
+or the knight on e1. The four key variations are} Nd3 (1... Nc2 2. Ng6+ Kf6 (
+2... Nxg6 3. Nf5#) 3. Nxc2#) (1... Ra5 2. Nec6+ Kf6 (2... bxc6 3. Nxc6#) 3.
+Nb5#) (1... Ra4 2. Ndc6+ Kf6 (2... bxc6 3. Nxc6#) 3. Nc4#) 2. Nf5+ Kf6 (2...
+Nxf5 3. Ng6#) 3. Nxd3# {In each of these four lines only one of the four
+available knight checks works. In the case of the rook moves, this is because
+one particular knight must be reserved to cut off the black rook after 2...Kf6.
+In the case of the black knight moves, it's because the black knight must be
+captured when White gives discovered check. There are two sidelines: 1...Bf5 2
+Nxf5+ Nxf5 (after 2...Kf6 almost any knight move mates) 3 Ng6# and 1...Kf6 2
+Nd7+ Ke7 3 Qb4#.} *
+
+[Event "Springaren 3rd Commendation"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Heinonen, Unto"]
+[Black "Helpmate in 3 (2 solutions)"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "6B1/b1Rp4/p7/1bPP4/2kr4/P2p4/8/6K1 b - - 0 1"]
+[PlyCount "6"]
+[EventDate "1999.??.??"]
+[SourceVersionDate "2019.08.25"]
+
+{[%evp 0,6,-1558,-641,-1018,-491,-1112,29999,-30000]} {In a helpmate, spotting
+the mating position is the key element. Here the crucial observation is very
+simple: if both white pawns disappeared into thin air then Black would be
+mated. But how can White engineer the requisite double check? Perhaps the most
+straightforward idea is to play Rf7 and later Rc7#, and for this to happen
+Black must start with 1...d6, to allow the rook to f7. So let's play 1...d6 2
+Rf7. That still leaves two moves to dispose of the white pawns. White has only
+one spare move and he can get the c5-pawn out of the way by playing cxd6,
+leaving two black moves to remove the other pawn. At first sight Black can do
+this by ...Rxd5 and ...Rd4, or ... Kxd5 and ...Kc4, but the position of the
+white king means that 2...Rxd5 would pin the c5-pawn and so prevent cxd6. Thus
+the solution is unique and runs 1...d6 2 Rf7 Kxd5 3 cxd6 Kc4 4 Rc7#. That
+still leaves the question of the second solution open. Sometimes there is no
+connection between the different solutions of a helpmate, but more often there
+is an analogy. The first solution involved a switchback (a piece moving away
+from, and then returning to, its original square) by the white rook and the
+black king. Could the other solution also involve switchbacks? A switchback by
+the white bishop would seem to involve playing Bh7 and then Bg8. Which other
+black piece could perform a switchback? Playing ...Bxc5 and ...Ba7 is unlikely
+as there's no obvious reason why the bishop should go to a7 rather than
+another square. The rook is a far more likely candidate, playing ...Rxd5 and
+then ...Rd4. That ties in with the white bishop switchback, as the bishop
+would need to be on h7 to allow the rook to return to d4. The simplest is to
+try these moves at the start of the solution: 1...Rxd5 2 Bh7 Rd4 3 Bg8+ and
+then it's immediately clear that the final move has to be 3...d5 4 cxd6#} 1...
+d6 ({Thus the solutions are:} 1... Rxd5 2. Bh7 Rd4 3. Bg8+ d5 4. cxd6# {and})
+2. Rf7 Kxd5 3. cxd6 Kc4 4. Rc7# *
+
+[Event "Pravda"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Sovik, Štefan"]
+[Black "Mate in five moves"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "KB1R1nr1/P2p1p1B/1R2p1np/p3NP2/1PPkPp2/3p4/b2P2Q1/4r1b1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1997.??.??"]
+[SourceVersionDate "2019.08.25"]
+
+{[%evp 0,9,1912,1448,2151,29994,29995,29996,29997,29998,29999,-30000]} {
+When faced with a board full of pieces and five moves to play with, it might
+seem almost impossible to figure out the solution, and in such cases you can
+hardly proceed by trial and error. Instead you have to work out (or guess!)
+the point of the problem. Looking first at White's immediate checks, he could
+play 1 Rd6+ Kxe5 and then a discovered check. Of course the first move is very
+unlikely to be a check, but at this stage we are just trying to get
+inspiration. There's also 1 Nf3+ Kxe4 followed by a discovered check, so we
+can guess that these sequences will be important in the solution. Another
+check is 1 Nc6+ Kxc4, but unlike the other two this doesn't at the moment lead
+to a discovered check. Looking again at 1 Rd6+ Kxe5, a promising follow-up
+would be 2 Rxe6+ (or else the king can run to f6) 2...Kd4, but further
+progress seems impossible as the black king can move to c4. If we put these
+two facts together: that there is no discovered check after 1 Nc6+ Kxc4, and
+that it would be helpful to have c4 guarded after 1 Rd6+ Kxe5 2 Rxe6+ Kd4,
+then there is a strong suggestion that the key is} 1. Rc8 {and indeed this was
+almost the first move I tried. It's true that Nc6+ can now be met by ...dxc6,
+but if Black moves his d-pawn then the check followed by discovered check
+sequence will operate. The next step is to find the threat, but now that c4 is
+covered it's not hard to see that White can play 2 Rd6+ Kxe5 3 Rxe6+ Kd4 4
+Be5+ Nxe5 5 Rd6#. This threat entails a sequence of two checks to force the
+black king to take a white unit on an adjacent square and then return to d4.
+White then uses the newly vacated square to sacrifice another piece to force
+mate. There are two other potential black king captures, on c4 and e4, which
+might fit in with this pattern. There are few Black moves which stop the
+threat, only 1...d5 and 1...Ne7 (to interpose on d5). Taking} d5 {first, we
+already surmise this will be met by} ({The other variation,} 1... Ne7 {is met
+by} 2. Nf3+ Kxe4 3. Ng5+ {which works as now the f5-square is covered by the
+white bishop on h7, and so the king must return to d4:} Kd4 4. Qe4+ Rxe4 5.
+Nf3# {completing the pattern of three closely related lines.}) 2. Nc6+ Kxc4 {
+and now we must stop ...Kb3 so that forces} 3. Nxa5+ Kd4 {when everything is
+set up for the sacrifice on the newly vacated c4-square:} 4. Rc4+ Bxc4 5. Nc6#
+*
+
+
+
+[Event "Boswell Centenary Tourney, 3rd Prize"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Quack, Godfrey"]
+[Black "Selfmate in two moves"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "B4q2/pn2b3/QB3R2/4P3/3N3R/4k2p/Pp2p2p/rb2K1nr w - - 0 1"]
+[PlyCount "4"]
+[EventDate "1997.??.??"]
+[SourceVersionDate "2019.08.25"]
+
+{[%evp 0,4,29999,-29999,-29996,-29999,-30000]} {There are various ways in
+which White could force Black to deliver immediate mate, but right now they
+don't work.} 1. Rf2 $1 (1. Qa3+ $2 {attempts to force 1. ..Bd3#, but is met by}
+Bxa3) (1. Qxe2+ $2 {aims for} Nxe2+ {but this isn't mate because the white
+rook can interpose on f1.}) (1. Nc2# {might be a try for 1...Bxc2#, but this
+actually mates Black!}) (1. Rxh3+ $2 {would force 1... Nf3# if only the
+e4-square were covered. All these lines are likely to play a role, but only
+after White has forced Black to make a concession with his first move, so we
+have to look for a move that creates a threat which can be met by, for example,
+1...axb6 (to allow 2 Nc2+) or a move of the b7-knight (to allow 2 Rh3+).}) ({
+My first thought was} 1. Bc5 {to threaten 2 Qa3+, and to meet 1... Bxc5 by 2
+Nc2+, but Black can reply} Qf7 {Then I looked at}) (1. Rd6 {again to threaten
+2 Qa3+, but simply 1...Bxd6 is a good reply. Giving up the idea of threatening
+Qa3+, I looked around for other possible threat-generating moves, and my eye
+lighted on 1 Rf2! with the threat of 2 Rxe2+ Nxe2#. Then all the various slot
+into place:}) 1... Nc5 (1... Nd8 2. Re4+ Bxe4#) (1... Na5 2. Re4+ Bxe4#) (1...
+Nd6 2. Qa3+ Bd3#) (1... Qf3 2. Rxf3+ Nxf3#) (1... Bxh4 2. Qxe2+ Nxe2#) 2. Nc2+
+Bxc2# *
+

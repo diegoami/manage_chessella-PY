@@ -1,0 +1,55 @@
+[Event "British Chess Championship"]
+[Site "?"]
+[Date "2019.07.28"]
+[Round "3"]
+[White "Howell, D."]
+[Black "D'costa, L."]
+[Result "1-0"]
+[ECO "A17"]
+[WhiteElo "2697"]
+[BlackElo "2396"]
+[Annotator "daniel"]
+[PlyCount "81"]
+[SourceVersionDate "2019.07.30"]
+
+{[%evp 0,81,33,25,27,-4,36,28,33,33,24,14,14,6,12,19,4,4,6,-5,-11,-2,-5,-4,4,5,
+-5,0,22,-3,20,-80,-71,-58,-76,-66,-53,-62,-58,-75,5,3,31,39,20,17,18,34,75,83,
+74,-55,-18,-9,24,34,26,0,15,26,0,-5,52,0,27,-41,-15,-15,103,66,85,102,487,522,
+522,508,544,306,583,717,717,765,1714,1863]} 1. Nf3 Nf6 2. c4 b6 3. Nc3 e6 4. e4
+Bb7 5. Qe2 {I haven't seen this way of playing before, but I guess it has some
+logic, as White is trying to dominate the center.} c5 6. e5 Ng8 7. d4 cxd4 8.
+Nxd4 Nc6 9. Nxc6 Bxc6 {[#]} 10. h4 $5 {Far-sighted. Given that Black
+eventually wants to play Ne7-f5, then this move makes sense, as by pushing the
+pawn to f5 White deprives the knight of any support with a later ...h5. it's
+also the prelude to a pawn storm, as we shall see later.} Ne7 11. h5 Nf5 12.
+Bf4 Be7 {[#]} 13. Rh3 $1 {This is exactly the kind of deep-thinking that seems
+to separate players like David from lesser mortals like myself.} ({In the
+commentary room myself and Adam were analysing a much more flat continuation
+like} 13. O-O-O Bg5 14. Qg4 {and we overlooked the idea of storming your pawns
+forward on the kingside, completely.}) 13... Bg5 14. Bh2 $1 {White is now to
+some degree threatening to sweep aside Black with g4, followed by f4 etc, so
+already Lorin has practical problems to solve. You can see how difficult it is
+playing these guys like David and Mickey, as the game has barely begun, and
+already they are setting a serious examination.} O-O 15. h6 {imaginative, but
+the machine feels this is unnecessary.} (15. g4 Nh6 16. f4 Bh4+ 17. Kd2 {
+and White is very much for preference. Once the king sits on c2, then it is
+totally safe.}) 15... Nxh6 16. f4 Bh4+ 17. g3 Be7 18. O-O-O f5 $1 19. exf6 {[#]
+} Rxf6 $2 (19... Bxf6 20. g4 {and now the slightly counter-intuitive capture}
+Bxc3 $1 21. Rxc3 Qe8 {would have lead to an unclear position- in fact the
+engine even slightly favours Black.} (21... Qh4 {which I suggested in the
+commentary room, is in fact a mistake because of} 22. g5 $1)) 20. g4 Rf7 21.
+Qc2 Qf8 22. Bd3 {[#]} Rxf4 $2 {this is premature.} (22... g6 $1 23. Qe2 {
+otherwise Black was threatening to take on g4} Rxf4 {was a much improved
+version of the same sacrifice.} 24. Bxf4 Qxf4+ 25. Kb1 Rf8 {and now unlike in
+the game, Black in many variations can take on g4, where he doesn't have to
+worry about his h7 pawn hanging.}) 23. Bxf4 Qxf4+ 24. Kb1 Qxg4 25. Re3 $2 (25.
+Bxh7+ Kh8 26. Qd3 {would have maintained some element of control.}) 25... Kh8
+$2 (25... g6 $1 {was again better, pointed out by the machine of course,
+although to a human player this is not such an easy move to make as your
+natural reaction is to fear a later capture on g6.}) 26. Be4 $1 Rf8 27. Bxc6
+dxc6 28. Re4 Qg6 29. Rde1 Rf6 30. Qa4 {[#]} Nf5 (30... Ng4 $1 31. Qxa7 Bc5 {
+was the most active way to play, but I think Lorin was already in desperate
+time trouble.}) 31. Qxa7 h5 32. a3 Bc5 33. Ka2 Bf2 34. Rd1 Kh7 35. Qa8 c5 36.
+Rd8 Qf7 37. Re2 Ng3 38. Ne4 $1 Nxe4 (38... Nxe2 39. Ng5+) 39. Rh8+ Kg6 40.
+Qxe4+ Kg5 41. Qg2+ 1-0
+

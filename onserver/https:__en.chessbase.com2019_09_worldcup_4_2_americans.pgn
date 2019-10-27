@@ -1,0 +1,33 @@
+[Event "FIDE World Cup 2019"]
+[White "Dominguez Perez, Leinier"]
+[Black "Grischuk, Alexander"]
+[Site "Khanty-Mansiysk"]
+[Round "4.2"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.09.21"]
+[WhiteElo "2763"]
+[BlackElo "2759"]
+[PlyCount "81"]
+
+1. e4 {} e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Bg5 h6 7. Bh4 a6 8. a4 {C54: Giuoco Piano: 4 c3 Nf6, main lines with 5
+d4 and 5 d3} Ba7 9. Nbd2 Qe7 10. 0-0 {The position is equal.} g5 11. Bg3 Nd7 12. b4 $146 ({Predecessor:} 12. Bd5 Nf8 13. Nc4 h5 14. h4 g4 15. Ne1 Ng6 {
+1/2-1/2 (52) Martirosyan,H (2616)-Hovhannisyan,R (2634) Yerevan 2019} )Nf8 $1 13. b5 Nd8 14. d4 {} Ng6 15. h3 h5 16. Bd5 (16. Re1 $11 )c6 17. Bb3 g4 18. hxg4 Bxg4 (18... hxg4 $6 19. Nh2 $14 )19. Qb1 Rc8 (19... h4 $15 20. Bh2 h3 )20. bxa6 bxa6 21. Qd3 h4 22. Bh2 Ne6 23. Bd1 { Threatens to win with Nxe5.} Nef4 24. Qxa6 {[#] Strongly threatening
+Nxe5.} 0-0 25. Nxe5 dxe5 26. Bxg4 Qg5 $1 {} 27. Bf3 (27. Qxa7 $2 Qxg4 28. g3 Rb8 $19 )(27. Bxf4 $5 Nxf4 28. Bf3 $14 )Ra8 $1 28. Qc4 {
+Black must now prevent Kh1.} Nxg2 $2 {[#]} (28... h3 $11 29. Bxf4 Qxf4 )29. Kh1 $18 {Hoping for Rg1.} (29. Bxg2 h3 $17 )Qxd2 30. Rad1 {} ({Less strong is} 30. Bxg2 exd4 31. cxd4 (31. Qxc6 Qxc3 32. Qf6 h3 $14 )Qxd4 $16 )Ne3 $2 (30... Qc2 )31. fxe3 (31. Rxd2 $2 {is the wrong capture.} Nxc4 32. Ra2 exd4 $19 )Qxe3 32. Rd3 Qh6 33. Bg4 Rae8 (33... exd4 $142 34. cxd4 Rad8 )34. Rdf3 Re7 35. Bf5 Nf4 36. Bxf4 exf4 37. Rxf4 Rb8 38. Rg4+ Kf8 39. Bg6 {} Rbb7 40. Qxc6 Qe3 41. Rxh4 {Accuracy: White = 60%, Black = 39%.} 1-0
+
+[Event "FIDE World Cup 2019"]
+[White "Xiong, Jeffery"]
+[Black "Duda, Jan-Krzysztof"]
+[Site "Khanty-Mansiysk"]
+[Round "4.2"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.09.21"]
+[WhiteElo "2707"]
+[BlackElo "2730"]
+[PlyCount "81"]
+
+1. e4 {} e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 d5 5. Bb3 Bb4+ 6. Bd2 {C24: Bishop's Opening: 2...Nf6} Bxd2+ 7. Qxd2 Qd6 8. Qg5 {White has an edge.} Nbd7 9. exd5 cxd5 10. d4 e4 11. Ne5 0-0 12. Nc3 Nb6 13. f3 {[#]} Be6 $146 14. 0-0-0 Rac8 15. Qd2 a6 16. Rhe1 exf3 17. gxf3 Nfd7 18. h4 f6 ({Black should try} 18... Kh8 $14 )19. Nd3 $16 Bf7 20. Qf4 Rc6 (20... Qxf4+ $16 21. Nxf4 Rfe8 22. Ncxd5 (22. Bxd5 Nxd5 23. Ncxd5 Kf8 $16 )Nxd5 23. Bxd5 (23. Nxd5 Kf8 $16 )Bxd5 24. Nxd5 Kf7 25. Rxe8 Rxe8 )21. Qxd6 $18 Rxd6 {[#]} 22. Nc5 $1 Rb8 23. Re7 {Black must now prevent N3e4!} Kf8 24. Rde1 Nxc5 (24... f5 {was worth a try.} 25. a4 Bg8 )25. dxc5 Rd7 26. Rxf7+ $1 Kxf7 27. cxb6 Rbd8 28. Nxd5 Kg6 $2 {[#]} (28... Rxd5 {is a better chance.} 29. Rd1 {
+ Pin} (29. Bxd5+ Rxd5 30. a4 Rd4 $11 )Ke6 )29. c4 {White is
+clearly winning.} Kh5 30. Re4 Rc8 {intending ...Rxd5.} 31. Kd2 g5 32. Ke3 Rf7 33. hxg5 fxg5 34. Ba4 Kh6 35. Be8 Rf8 36. Bd7 Rb8 37. b4 Kg6 38. Nc7 Rfd8 39. Re7 Rh8 40. Be8+ Kf6 41. Nd5+ {Accuracy: White = 81%, Black = 43%.} 1-0

@@ -1,0 +1,37 @@
+[Event "Grand Prix Riga 2019"]
+[White "Grischuk, Alexander"]
+[Black "Vitiugov, Nikita"]
+[Site "Riga"]
+[Round "1.4"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.07.14"]
+[WhiteElo "2766"]
+[BlackElo "2727"]
+[PlyCount "45"]
+
+1. Nf3 $146 {} ({
+Predecessor:} 1. d4 d5 2. c4 e6 3. Nc3 Nf6 {0-1 (45) Jianu,V (2588)-Marin,M 
+(2581) Calimanesti 2014} )Nf6 2. c4 e6 3. Nc3 d5 4. d4 Nbd7 5. Bf4 dxc4 6. e3 Nb6 7. Bxc4 { Decoy. D37: Queen's Gambit Declined: 5 Bf4} Nxc4 8. Qa4+ { Double Attack} c6 9. Qxc4 {The position is equal.} Nd5 10. Bg3 Qb6 11. Qe2 Bb4 12. 0-0 Nxc3 13. bxc3 Bxc3 14. Rab1 Qd8 $1 15. Rb3 Ba5 16. e4 Bc7 ({Black should try} 16... 0-0 $11 )17. Bh4 $36 { White has
+compensation. White is more active.} Qd7 18. Rd1 $1 {And now Ne5 would win.} 0-0 $2 {} (18... f6 $11 )19. Ne5 $18 {White is clearly winning.} Qe8 {[#]} 20. Bf6 $1 { White wants to mate with Qg4.} Bd8 {[#]} (20... gxf6 21. Qh5 )21. Bxg7 $1 {} Kxg7 22. Rg3+ Kh8 {[#]} 23. Qh5 $1 {
+ Accuracy: White = 75%, Black = 44%.} 1-0
+
+[Event "Grand Prix Riga 2019"]
+[White "Vitiugov, Nikita"]
+[Black "Grischuk, Alexander"]
+[Site "Riga"]
+[Round "1.4"]
+[Annotator "TA"]
+[Result "0-1"]
+[Date "2019.07.14"]
+[WhiteElo "2727"]
+[BlackElo "2766"]
+[PlyCount "48"]
+
+1. d4 {} Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 c5 5. e3 Nc6 6. cxd5 exd5 7. Bb5 cxd4 8. Nxd4 Bd7 9. 0-0 Bd6 {D32:
+Tarrasch Defence: Sidelines and lines without g3} 10. Nf3 (10. b3 0-0 11. Bb2 Re8 12. Nf3 Bg4 13. Bxc6 bxc6 14. Rc1 Be5 15. Na4 Bxb2 16. Nxb2 Rc8 17. h3 Bxf3 18. Qxf3 {1/2-1/2 (60) So,W (2778)-Anand,V (2759) Leuven 2018} )Bg4 11. Be2 0-0 {The position is equal.} 12. h3 Bh5 13. b3 {[#]} Qa5 $146 ({
+Predecessor:} 13... Rc8 14. Bb2 a6 15. Nh4 Bg6 16. Nxg6 hxg6 17. Bf3 Be5 18. Rb1 d4 19. exd4 Bxd4 20. Na4 Ba7 21. Rc1 {1/2-1/2 (20) Grigoriants,S (2540)
+-Lomasov,S (2553) St Petersburg 2018} )14. Bb2 Rad8 15. Nd4 Nxd4 16. Bxh5 Nc6 {
+[#] aiming for ...d4.} 17. Be2 Be5 $36 { Black is pushing.} 18. Rc1 (18. Qe1 $11 {keeps the balance.} )Ne4 (18... d4 $17 19. exd4 Bf4 )19. Qe1 Bxc3 20. Bxc3 Qxa2 21. Bb5 Nxc3 22. Qxc3 {Hoping for Ra1.} d4 23. exd4 $2 (23. Qa1 $15 Qxb3 24. Bxc6 bxc6 25. exd4 )Nxd4 $19 { [#] Double
+Attack} 24. Bc4 b5 {Accuracy: White = 27%, Black = 73%.} 0-1
+

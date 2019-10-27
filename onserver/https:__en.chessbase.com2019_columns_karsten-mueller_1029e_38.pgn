@@ -1,0 +1,39 @@
+[Event "Schachbundesliga"]
+[Site "?"]
+[Date "2019.03.23"]
+[Round "12.5"]
+[White "Pitl, Gregory"]
+[Black "Miedema, David"]
+[Result "*"]
+[ECO "D02"]
+[WhiteElo "2385"]
+[BlackElo "2356"]
+[Annotator "Karsten Müller"]
+[SetUp "1"]
+[FEN "8/4k3/1p4p1/1PPBK2p/4P2P/p7/4n3/8 b - - 0 68"]
+[PlyCount "18"]
+[EventDate "2019.??.??"]
+[SourceTitle "1029"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+[WhiteTeam "Deutschland"]
+[BlackTeam "Niederlande"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "NED"]
+
+{[%evp 0,55,20,19,13,-7,0,0,6,7,15,4,15,12,12,23,35,43,47,3,3,-35,-35,-17,-26,
+-21,-5,-52,-17,-17,-43,-39,-39,-20,-22,-22,-20,0,-5,-24,-19,-64,-65,-56,-21,
+-21,-26,-34,-32,-38,-28,-43,-41,-55,-36,-43,-20,-8]} 68... Nc3 {Pawn races
+have to be calculated carefully.} {[%tqu "En","White to play and draw","","",
+"c5b6","Now Black's tricky knight helps him to win.",0,"d5e6","hält auf
+studienartige Weise remis, z.B.",6]} 69. Be6 {leads to a study-like draw, e.g.}
+({In the game White played} 69. cxb6 $2 {after which the strong and tricky
+knight helped Black to win.} Nxd5 70. b7 (70. Kxd5 {fails to} Kd8 $1 71. Kc6 (
+71. b7 Kc7 72. e5 a2 73. e6 a1=Q $19) 71... Kc8 $19) (70. exd5 a2 71. b7 a1=Q+
+$19) 70... Nb6 {0-1 The fork on d7 decides the game:} (70... Nf6 $19) 71. Kd4 (
+71. b8=Q Nd7+ 72. Kd4 Nxb8 73. Kc3 g5 $19) 71... Nd7 (71... a2 72. b8=Q a1=Q+
+73. Kd3 Qd1+ $19) 72. Kc3 g5 73. hxg5 h4 74. g6 a2 75. Kb2 a1=Q+ 76. Kxa1 h3
+77. g7 Kf7 78. e5 Kxg7 79. e6 Nb8 80. e7 Kf7 $19) 69... bxc5 70. b6 a2 71. Bxa2
+Nxa2 72. Kd5 Nb4+ 73. Kxc5 Na6+ 74. Kd4 Ke6 75. b7 Nb8 76. Ke3 Ke5 77. Kf3 $11
+*
+

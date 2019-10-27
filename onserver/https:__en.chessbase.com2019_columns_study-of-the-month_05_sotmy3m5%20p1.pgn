@@ -1,0 +1,196 @@
+[Event "Moscow Simultan"]
+[Site "?"]
+[Date "1914.11.05"]
+[Round "?"]
+[White "Alekhine"]
+[Black "Zuckermann"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5n2/3b1p2/p4Pk1/3PP3/3N4/7P/7K/8 w - - 0 1"]
+[PlyCount "4"]
+[EventDate "1914.??.??"]
+
+{The position and story (see the main text) is taken from the book
+"Begebenheiten am Schachbrett" by Albin Pötzsch, a great German columnist in
+the vein of Kurt Richter or Dr. Tröger. The book collects (in German) many of
+his columns from "Schach-Magazin 64", the magazine of Otto Borik. My source's
+original column was first published in 2011, but Pötzsch usually reports
+accurately based on the big chess library he has at home. - Master Alekhine
+was to move, hoping for the variation, but due to his opponent's confusion
+lost.} 1. e6 Nxe6 $1 ({Alekhine hoped for} 1... fxe6 2. dxe6 Nxe6 3. Nxe6 Bxe6
+4. Kg3 a5 5. Kf4 a4 6. Ke5 Bf7 $2 7. Kd4 a3 8. Kc3 a2 9. Kb2 $11 {, believing
+that the endgame was already a draw after 3.-B:e6, making this an example of
+the Réti maneuver. However, there is more as shown below.}) (1... fxe6 2. dxe6
+Nxe6 3. Nxe6 Bxe6 4. Kg3 a5 ({First of all, a nowadays well-known win is set
+up with} 4... Kxf6 5. Kf4 Bf5 $19 {and the extra Ph3 does not matter. White
+never can reach a1.}) 5. Kf4 a4 6. Ke5 Bd7 $3 ({or similarly} 6... Bb3 $19) ({
+Alekhine thought that the bishop must move and it is a draw because of} 6... a3
+7. Kxe6 a2 8. f7 $11 {but as we will see, even with the bishop moving Black
+can win.}) 7. Kd4 (7. Kd6 Kxf6 $19) 7... a3 8. Kc3 Ba4 $1 $19 {. Interestingly
+for this bishop setup (Ba4/Pa3, with reversed colors) J. Gunst won the 1st
+prize in the Helsinki Chess Club tourney (for endgame studies) 1926. So it
+seems that Gunst "invented" it 12 years after this game, with Alekhine not
+finding it in his analysis. This shows that Alekhine missed not one but two
+opportunities for endgame studies immortality by not creating such
+compositions from the possibilities in this game. For someone who always
+complained on how his opponents restricted him from showing his ideas, this
+would have been an obvious step to take - why he didn't, we might never know.})
+2. dxe6 Bxe6 {and White resigned.} 0-1
+
+[Event "Helsinki Chess Club tourney, 1st prize"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Gunst, Julius"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/1p6/4p3/3B4/8/8/2k4P/K7 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1926.??.??"]
+
+{This is the Gunst study mentioned in the Alekhine game. White to move and win,
+showing this particular winning setup for the first time as far as I found.} 1.
+Bf3 $1 Kd3 (1... b5 2. h4 b4 3. h5 b3 4. Be4+ Kc1 5. h6 b2+ 6. Ka2) 2. h4 Kd4
+3. h5 Ke5 4. h6 Kf6 5. Bh5 $1 b5 6. Kb2 e5 7. Kc3 e4 8. Kd4 {. The study has
+some loss-of-time duals, of course: White can play Be8 as waiting moves but
+still will need to capture the pawns with his king later.} 1-0
+
+[Event "Deutsch-Oesterreichische Tageszeitung"]
+[Site "?"]
+[Date "1921.09.11"]
+[Round "?"]
+[White "Réti, Richard"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "7K/8/k1P5/7p/8/8/8/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1921.??.??"]
+
+{(S.S. 1) This study, becoming famous after re-publication in "Kagans Neueste
+Schachnachrichten" April-June 1922, has White to move and draw, seemingly
+impossible. We apologize as likely every reader already knows this study, but
+it had to be included for context and as it is Réti's most famous study. While
+it is true that a modification of this, a later version, is included in the
+earlier article by master Benkö, this original version is the most famous, and
+as such worth showing here, also in the article's context.} 1. Kg7 $1 h4 ({The
+other two main variations, according to Réti, are given here also, but no
+other variations as they would be obvious.} 1... Kb6 2. Kf6 $1 h4 3. Ke5 $1 h3
+4. Kd6 h2 5. c7 Kb7 6. Kd7 $11) 2. Kf6 $1 Kb6 3. Ke5 $1 h3 (3... Kxc6 4. Kf4 h3
+5. Kg3 $11) 4. Kd6 $1 h2 5. c7 Kb7 6. Kd7 1/2-1/2
+
+[Event "Shakhmaty 1938 (first half), 1st prize"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Réti, Richard"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4kr2/5p1K/3p1Q2/1p4P1/4P3/1PP5/7b/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1928.??.??"]
+
+{(S.S. 48) This study won the first semester 1938 tourney of Shakhmaty and has
+become widely reprinted but likely won't be known to everyone. White is to
+move and win, and with Black threatening to play 1.-Be5 to rely on winning the
+queen which can't move because of checkmate on h8 this is not easy.} 1. Kh6 $1
+(1. Kg7 $2 Be5 {Notice this position of mutual zugzwang. White to move can't
+win, Black to move will lose.} 2. b4 (2. c4 $2 Bxf6+ 3. gxf6 b4 $19) 2... Bh2
+3. Qf1 (3. g6 $2 Be5 $19) (3. c4 $2 bxc4 4. b5 Be5 5. b6 Bxf6+ 6. gxf6 c3 7. b7
+Kd7 8. Kxf8 Kc7 $19) 3... Be5+ 4. Qf6 $11) ({The direct approach only leads to
+a draw:} 1. g6 $2 Be5 2. Qxe5+ dxe5 3. g7 f5 4. exf5 Kf7 5. gxf8=Q+ Kxf8 6. c4
+bxc4 7. bxc4 e4 8. c5 e3 9. c6 Ke7 10. f6+ Kxf6 11. c7 e2 12. c8=Q e1=Q 13.
+Qf8+ Kg5 $11) (1. Qf1 $2 Be5 $11 {and the checkmate threat forces White to
+give perpetual check.}) 1... Be5 2. Kg7 $1 {The position from the try is
+reached, but Black is to move.} Bh2 (2... Bxf6+ 3. gxf6 $18 {and the rook
+falls.}) 3. c4 $1 ({Knowing how studies work, you might be inclined to make
+the most crazy move. It doesn't work here... yet:} 3. e5 $2 Bxe5 4. c4 b4 $19)
+(3. b4 $2 Be5 $19) 3... bxc4 (3... b4 4. c5 $1 $18) 4. e5 $3 (4. bxc4 $2 Be5
+$19) 4... Bxe5 5. bxc4 Bxf6+ (5... Bh2 6. c5 $18) 6. gxf6 Rh8 7. Kxh8 Kd7 8.
+Kg8 $1 ({As Marco Campioli showed, White also can just wait:} 8. Kh7 $1 Ke6 9.
+Kg7 $18) ({The final mutual zugzwang is easier to spot:} 8. Kg7 Ke6 $19) 8...
+Ke6 9. Kg7 1-0
+
+[Event "L'Alfiere di Re & Falkirk Herald"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Réti, Richard"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/5p2/8/kpN2P2/8/2R2K2/3pP3/2n5 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1922.??.??"]
+
+{(S.S. 49) We use the remaining place to show two of Réti's studies that don't
+fit in specific categories. From Mandler's book we learn that this is one of
+the earlier works of Réti, poising White to move and win, showing an
+interesting example of domination, i.e. the conquer of a seemingly free piece.
+} 1. Rc2 $1 ({Black is not forced to promote to a queen if White takes:} 1.
+Rxc1 $2 dxc1=N $1 $11) ({The game-like continuation, not given by Réti, is} 1.
+Nb3+ Kb4 $1 {and White has no way of winning, as we may demonstrate:} 2. Rxc1 (
+2. Nxd2 Kxc3 $11) 2... Kxb3 3. Ra1 Kb2 $1 ({Please be aware of endgame tricks
+such as} 3... Kc2 $2 4. Ke3 $3 d1=Q 5. Rxd1 Kxd1 6. Kd3 b4 7. e4 $18) 4. Rg1
+Kc2 5. e4 (5. Ke3 $4 b4 6. Kd4 b3 $19) 5... d1=Q+ 6. Rxd1 Kxd1 7. Ke3 Kc2 $1 8.
+e5 b4 9. e6 fxe6 10. fxe6 b3 11. e7 b2 12. e8=Q b1=Q $11) 1... d1=Q 2. Rxc1
+Qd5+ $1 (2... Qxc1 3. Nb3+ $18) 3. e4 {and as if by a miracle the queen has no
+safe square.} Qa2 ({The other main variation features more forks:} 3... Qe5 4.
+Ra1+ Qxa1 (4... Kb6 5. Nd7+ $18) (4... Kb4 5. Nd3+ $18) 5. Nb3+ Kb4 6. Nxa1 $18
+) ({Of course there is a square where the queen is safe from the knight... but
+not from the rook.} 3... Qc6 4. Nb3+ $18) 4. Ra1 Qxa1 5. Nb3+ Kb4 6. Nxa1 1-0
+
+[Event "Tijdschrift v.d. KNSB, correction"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Réti, Richard"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/4P3/4r3/k7/8/4N3/6p1/1R4Kb w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1924.??.??"]
+
+{(S. S. 50) "The great study no.50 unites in the luckiest way two separate
+ideas, of which one has the echo lines as content while the second [...] finds
+its echo in a third variation. The construction is of comforting simplicity
+and harmony. Réti, probably justified, believed this construction to be his
+best." (Mandler, Sämtliche Studien von Richard Réti, my translation) - While
+the book did not always have all sources, today we know that this correction
+appeared in the Tijdschrft v.d. KNSB 7/1929. See the header for the original
+publication source. White is to move and win, and this is indeed beautifully
+accomplished by many variations in which Black is forced to exchange the rooks.
+} 1. Nf5 ({White has to choose the correct side:} 1. Nd5 $2 Ka4 (1... Re5 $2 2.
+Ra1+ $18) 2. Rc1 Re5 3. Rd1 $1 Re6 $1 (3... Kb3 $2 4. Rd3+ Kc4 5. Re3 $18) 4.
+Rd4+ Ka5 $1 $11) 1... Ka4 ({There are other main variations, but sadly this
+one has a previously unknown dual:} 1... Re4 2. Nd4 ({Dual} 2. Rc1 $1 Ka6 (2...
+Kb4 3. Nd4 $18 {(see the bold main variation)} (3. Rc4+ $2 Rxc4 4. e8=Q Rc1+
+$19)) (2... Ka4 3. Rc4+ Rxc4 4. e8=Q+ $18) (2... Re5 3. Nd4 $18) 3. Nd6 Rxe7 4.
+Ra1+ Kb6 5. Nc8+ $18) 2... Ka6 (2... Ka4 3. Ra1+ Kb4 4. Ra8 Rxe7 5. Nc6+) 3.
+Nc2 Rxe7 4. Nb4+ Ka5 (4... Ka7 5. Nc6+) (4... Kb5 5. Nd5+) 5. Nc6+) ({The
+other main variation:} 1... Re5 2. Nd4 Re4 3. Nb3+ Ka4 (3... Ka6 4. Nc5+ $18)
+4. Nc5+ $18) 2. Nd4 Re4 3. Ra1+ Kb4 4. Rc1 Ka5 ({Again multiple main
+variations occur (marked here and below also with "or"):} 4... Ka3 5. Rc3+ Kb4
+({or} 5... Kb2 6. Rc2+ Ka3 7. Re2 $18) 6. Re3 Rxe3 7. Nc2+ $18) (4... Ka4 5.
+Rc4+ $18) 5. Rc5+ Kb4 ({or} 5... Kb6 6. Rc6+ Ka5 7. Re6 $18) 6. Re5 1-0
+
+[Event "Morgenzeitung (Ostrau)"]
+[Site "?"]
+[Date "1929.05.19"]
+[Round "?"]
+[White "Réti, Richard"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Hornecker,Siegfried"]
+[SetUp "1"]
+[FEN "K7/2P5/b4k1p/3P4/6P1/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1929.??.??"]
+
+{(S.S. 17) The final study, from the "Morgenzeitung" in Ostrau, is left to
+solve for readers. The solution will be given with part 2 of the article.
+White is to move and secure the draw.}  1/2-1/2
+

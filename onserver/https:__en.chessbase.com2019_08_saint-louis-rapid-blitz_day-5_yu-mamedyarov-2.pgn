@@ -1,0 +1,45 @@
+[Event "GCT Saint Louis Blitz 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.14"]
+[Round "18"]
+[White "Yu, Yangyi"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[ECO "B29"]
+[WhiteElo "2752"]
+[BlackElo "2764"]
+[Annotator "Saravanan,V"]
+[SetUp "1"]
+[FEN "8/3b4/5k2/p2p1p2/3P1P2/P6K/4B3/8 w - - 0 48"]
+[PlyCount "49"]
+[EventDate "2019.08.13"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[#][The ending should be equal, but both the players were down to their last
+few seconds]} 48. Kh4 Kg6 {[It is important for black to stop the white king
+from penetrating into his camp]} 49. Bh5+ Kf6 $4 (49... Kh6 50. Bf7 Bc6 51. Be6
+(51. Bg8 Kg7 52. Be6 Kg6) 51... Kg6 {and white cannot make progress}) 50. Bf3
+Be6 (50... Bc6 51. Kh5) 51. Kh5 $18 Bf7+ 52. Kh6 Be6 53. Bh5 (53. Kh7 $1 {
+[The point is, white has to penetrate white's positin through the g8 square,
+for which he has to create a zugzwang and force the black bishop out of the
+a2-g8 diagonal]} Bf7 54. Bg2 $1 Be6 55. Bh1 $1 {[Wasting a move - ultimately
+white's bishop has to get to h5-square]} Bf7 56. Bf3 $1 {[Zugzwang-1]} Be6 57.
+Bh5 $1 {[And white wins!]} Bd7 58. Kg8 $1 Ba4 (58... Bc6 59. Kf8 Ke6 60. Kg7
+Bb7 61. Bg6 Bc6 62. Bf7+ Ke7 63. Kg6 Bb7 64. Bg8 {and black loses either of
+his pawns on f5 or d5}) 59. Bf7 Bc6 60. Kf8 $1 {[Watch THAT King!]} Bb7 61. Bh5
+Bc6 62. Bf3 $1 {[Zugzwang-2!]} Ke6 (62... Bb7 63. Be2 $1 Bc6 64. Bh5 {
+transposes to a later position resulting in a zugzwang}) 63. Be2 $1 Kf6 64. Bh5
+$1 Ke6 (64... Bb5 65. Bf7 Bc6 66. Bg8 {Zugzwang}) 65. Bf7+ Kf6 (65... Kd6 66.
+Be8 Bb7 67. Kf7 {and the f5-pawn will fall}) 66. Bg8 {[Zugzwang-3]} Bb7 67. Ke8
+Kg6 68. Be6 Kf6 69. Kd7 {and the d5-pawn will fall}) 53... Bg8 54. Be8 Be6 (
+54... Ke7 55. Kg7 $1) 55. Kh7 Ke7 56. Bb5 (56. Bg6 $1 Kf6 57. Bh5 {leads to
+zugwang analysed earlier}) 56... Kf6 57. Bc6 Kf7 58. Kh6 Kf6 59. Be8 Ke7 60.
+Bb5 Kf6 61. Bc6 Bf7 62. Bd7 Bg8 63. Kh5 Bf7+ 64. Kh4 $4 {[There is no win
+anymore]} Bg6 65. Bc6 Bf7 66. Bb7 Be6 $4 {[Black allows a win, but by this
+time both the players were convinced that the position was a draw]} 67. Kh5
+Bf7+ 68. Kh6 Be6 69. Kh7 Kf7 70. Bc6 Kf6 71. Be8 Ke7 72. Bb5 $2 1/2-1/2
+

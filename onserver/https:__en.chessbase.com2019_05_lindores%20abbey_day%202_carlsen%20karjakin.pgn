@@ -1,0 +1,57 @@
+[Event "Lindores Abbey Stars"]
+[Site "Cupar SCO"]
+[Date "2019.05.26"]
+[Round "5.2"]
+[White "Carlsen, Magnus"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2861"]
+[BlackElo "2752"]
+[Annotator "Sagar Shah"]
+[PlyCount "97"]
+[EventDate "2019.05.25"]
+
+{[%evp 0,97,80,27,27,27,27,-11,16,21,11,18,11,-4,14,13,18,-19,6,3,12,6,13,11,
+14,3,44,21,31,31,40,28,38,27,27,32,39,52,34,31,24,30,31,-2,0,-110,-107,-235,
+-238,0,0,0,7,9,-6,-86,31,41,17,10,25,-158,-201,-193,-205,-205,-205,-195,-193,
+-183,-148,-143,-159,-160,-160,-217,-217,-220,-229,-225,-227,-230,-153,-153,
+-153,-153,-153,-153,-153,-259,-287,-279,-283,-283,-241,-298,-266,-301,-292,
+-284]} 1. d4 Nf6 2. Nf3 d5 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. c3 Nbd7 7. Bf4 c5
+8. Ne5 Qb6 9. Qb3 cxd4 10. Qxb6 Nxb6 11. cxd4 Ne4 12. Rc1 Nd6 13. Nc3 Be6 14.
+a4 a5 15. h4 Rfc8 16. b3 Rc7 17. Nb5 Rxc1+ 18. Rxc1 Nxb5 19. axb5 Rc8 {We join
+the game from this point onwards. It seems like the game would end in a draw.}
+20. Rc5 $5 {Magnus would like to keep the play in the position.} Kf8 21. e4 a4
+(21... dxe4 22. Bxe4 Rd8 {gives Black a safe and stable position, but Karjakin
+tries for something more dynamic.}) 22. exd5 $6 {From the spectator point of
+view, this was a great move. However, objectively this looks bad.} (22. bxa4)
+22... Rxc5 $6 (22... a3 $1 {could have been more precise as after} 23. dxe6 a2
+24. Nd7+ Ke8 25. Nxb6 a1=Q+ 26. Kh2 Rd8 {Black has excellent winning chances.})
+23. dxc5 a3 (23... Nxd5 $2 24. bxa4 $18) 24. dxe6 a2 25. Nd7+ Ke8 (25... Nxd7
+26. exd7 a1=Q+ 27. Kh2 {This is already winning for White.} Qd1 (27... Qa8 28.
+Bc7 $18) 28. Bd6 $1 $18) 26. Nxb6 a1=Q+ 27. Kh2 {How to assess such a
+position? White has just two minor pieces for the queen. But what he has is
+this clump of pawns on the queenside.} Be5 (27... fxe6 28. Bxb7 Bd4 29. Nc4
+Bxc5 30. Bc6+ Kf7 31. b6 Bxf2 32. b7 Bg1+ 33. Kh3 Ba7 34. Ne5+ Kg7 35. Be3 Bb8
+36. Nd7 Bc7 37. Bb6 Bd6 38. Bc5 Bc7 39. Bb6 {What a crazy computer generated
+line!}) 28. Be3 fxe6 29. Bxb7 Bd4 30. Nc4 $6 (30. c6 Bxe3 31. c7 Bxf2 32. c8=Q+
+Kf7 {This would have given White some practical chances, although truth be
+told this is also a drawn position.}) 30... Bxe3 31. Nxe3 Qb2 (31... Qa5 $5 {
+was a powerful move because it attacks the queenside pawns. And this c5 pawn
+is much more critical than the b3 pawn that Karjakin won in the game.} 32. Bc6+
+(32. Ba6 Qa2 33. Kg2 Qxb3 34. c6 Kd8 {White has managed to keep his pawn duo
+but the bishop is out of play on a6.}) 32... Kd8 $1 33. Nc4 Qb4 $19 {White is
+unable to hold on to his c5 pawn.}) 32. Kg2 Qxb3 33. b6 Qb5 34. Bf3 Kd8 $1 {
+Karjakin plays carefully.} (34... Qxc5 35. b7 Qb5 36. Nc2 Qb6 37. Nd4 Qa7 {
+This knight and bishop duo can be quite potent here. White can even win this
+and Black has to be careful.}) 35. b7 Kc7 36. c6 {Although engines feel that
+this is better for Black, during the game being inside the tournament hall, I
+felt like it was Magnus who was playing for a win. Objectively this should be
+drawn because I don't think Black has anyway to just make progress with his
+queen.} Qb4 37. g4 Qd4 38. Nf1 h5 39. gxh5 gxh5 40. Ng3 e5 41. Ne4 Qc4 42. Ng5
+Kb8 43. Be4 Qe2 44. Bf5 e4 45. Nxe4 Qc4 46. Ng3 Qxc6+ 47. Be4 Qf6 48. Nxh5 Qxh4
+49. Ng3 {It was a thrilling game with both players showing skills at a very
+high level. Of course mistakes did happen, but when you have around 10-20
+seconds on the clock, the quality of play that was shown by Magnus and Sergey
+was not at all bad.} 1/2-1/2
+

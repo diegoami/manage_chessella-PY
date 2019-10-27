@@ -1,0 +1,34 @@
+[Event "17th Aeroflot Open-A 2019"]
+[Site "Moscow"]
+[Date "2019.02.21"]
+[Round "2.4"]
+[White "Aravindh, Chithambaram VR"]
+[Black "Safarli, Eltaj"]
+[Result "*"]
+[ECO "A45"]
+[WhiteElo "2601"]
+[BlackElo "2681"]
+[Annotator "Karsten Mueller"]
+[PlyCount "96"]
+[EventDate "2019.??.??"]
+[SourceTitle "1023"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+1. d4 Nf6 2. Bg5 g6 3. Bxf6 exf6 4. c4 d5 5. cxd5 Qxd5 6. Nc3 Bb4 7. Qa4+ Nc6
+8. Qxb4 Nxb4 9. Nxd5 Nxd5 10. Rc1 c6 11. e3 Be6 12. a3 f5 13. Ne2 O-O-O 14. g3
+g5 15. Bg2 Kb8 16. Rc5 Nb6 17. h4 h6 18. Nc1 Na4 19. Rc2 f4 20. hxg5 fxe3 21.
+fxe3 hxg5 22. Rxh8 Rxh8 23. Nd3 Nb6 24. Nc5 Nd5 25. Kd2 Nf6 26. e4 Rh2 27. Kc3
+b6 28. Nxe6 fxe6 29. e5 Nd5+ 30. Bxd5 Rxc2+ 31. Kxc2 exd5 32. b4 Kc7 33. a4 a5
+34. bxa5 bxa5 35. Kd3 Kd7 36. Ke3 Ke6 37. Ke2 c5 38. dxc5 Kxe5 39. Ke3 d4+ 40.
+Kd3 Kd5 41. c6 {Even apparently simple pawn endings can be surprisingly tricky.
+Black to play and draw!} {[%tqu "En","Black to play and draw","","","d5d6","",
+4,"d5c6","",0]} Kd6 $3 {Now the kings start to dance around the pawns:} ({
+In the game Black played} 41... Kxc6 $2 {but that allowed White to win the
+opposition and the game.} 42. Kxd4 Kd6 43. Kc4 {Black resigned, 1-0, e.g.} Kc6
+44. g4 {The crucial extra tempo.} Kb6 45. Kd5 $18) 42. Kc4 (42. Kxd4 Kxc6 43.
+Kc4 g4 {Now it is Black who can use the extra tempo.} 44. Kd4 Kd6 45. Ke4 Kc5
+46. Kf4 Kb4 47. Kxg4 Kxa4 48. Kf5 Kb4 49. g4 a4 50. g5 a3 51. g6 a2 52. g7 a1=Q
+53. g8=Q $11) 42... Kc7 43. Kd3 Kd6 44. g4 Kxc6 45. Kxd4 Kd6 46. Ke4 Ke6 47.
+Kd4 Kd6 48. Kc4 Kc6 $11 *
+

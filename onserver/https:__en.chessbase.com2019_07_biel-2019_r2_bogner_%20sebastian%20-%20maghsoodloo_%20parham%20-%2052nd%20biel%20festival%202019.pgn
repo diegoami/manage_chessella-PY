@@ -1,0 +1,85 @@
+[Event "52nd Biel Festival 2019"]
+[Site "Biel"]
+[Date "2019.07.23"]
+[Round "2.1"]
+[White "Bogner, Sebastian"]
+[Black "Maghsoodloo, Parham"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2584"]
+[BlackElo "2656"]
+[Annotator "Tanmay Srinath"]
+[PlyCount "81"]
+[EventDate "2019.??.??"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{Sebastian Bogner has had a horrible tournament till now, but the mark of a
+true champion is to bounce back from the most painful of defeats. This is what
+he did today. his victim being Parham Maghsoodloo.} 1. d4 d5 2. c4 e6 (2...
+dxc4 3. e3 a6 $1 4. Bxc4 c5 5. Nf3 Nf6 6. O-O b5 7. Bb3 Bb7 {and here the move
+a6 is useful. In the game Black never got the same expansion.}) 3. Nf3 (3. Nc3
+Be7 4. Bf4 Nf6 5. Nf3 O-O 6. e3 c5 {is what is discussed at the top level,
+majorly thanks to Anand.}) 3... a6 $6 {This move is useful in the case of a
+Queen's Gambit accepted or a Tarrasch, but after Bogner's response I wonder
+how productive this actually is.} (3... Nf6 {is more accurate.}) (3... c5 {If
+he really wanted to play the Tarrasch, this was the move order to do it. Here
+for example after} 4. e3 a6 $1 {is a useful move, as mentioned by Axel Smith
+in his book e3 Poison. White does best to wait with} 5. a3 $1 {and after} Nf6 {
+Play a reversed Meran with} 6. dxc5 Bxc5 7. b4 Be7 8. Nbd2 $13 {with a complex
+position where practice has shown he has the easier play.}) 4. cxd5 $1 {This
+move leaves a6 looking a little stupid.} exd5 5. Nc3 Nf6 6. Bg5 Be6 7. e3 Nbd7
+8. Bd3 Bd6 9. Qc2 {Bogner has played natural moves. His plan is to castle
+queenside and play on the kingside.} c6 10. Bh4 {In order to not give Black
+additional tempi with h6 and g5.} Bg4 11. O-O-O Qc7 12. Kb1 h6 (12... O-O $5 {
+was more double edged. Stockfish initially likes it for Black, but after
+inputing a few logical moves it understands that White is having more than
+just a nagging edge after} 13. h3 Bh5 (13... Bxf3 14. gxf3 $16 {is suicide -
+there is no way Black is going to survive playing like this.}) 14. g4 Bg6 15.
+Bxg6 fxg6 16. Nd2 $14 {and the threats in the center are fast approaching.})
+13. Rc1 {It is already getting difficult for me to offer constructive advice
+to Black. The move a6 has created more harm than good, as the dark square
+complex on the queenside is very weak. Perhaps the combination of a6 and c6
+wasn't the best way to proceed?} g5 {Parham is not making his life any easier.}
+({It was time to think about quick development. However, even after the
+relatively best} 13... O-O-O {Black is in trouble after} 14. Nd2 Rhe8 15. Na4 {
+and what is to stop the knight from hopping to c5?}) 14. Bg3 $16 {White must
+have been jumping with joy by now. He has a stable advantage and numerous ways
+to improve his position. Black on the other hand has static weaknesses and no
+counterplay.} O-O-O 15. Bxd6 $1 {It is important for this to happen now, as
+otherwise Black can get time to play c5, after which most of his problems
+should disappear. Bogner exchanges off one of the dark squared guardians and
+prepares to invade on c5.} Qxd6 16. Nd2 Kb8 ({Bogner is just in time, as} 16...
+c5 {is impossible due to} 17. dxc5 {and} Nxc5 {loses a piece to} 18. Na4) 17.
+Nb3 Nb6 ({White uses tactics to complete a strategic maneuver. The point is
+that} 17... c5 {loses a pawn due to the pretty} 18. dxc5 Nxc5 19. Nb5 $1 axb5
+20. Nxc5 $16) 18. Nc5 {White has now occupied the weakness, and in the next
+few moves he will aim to strengthen his hold over the queenside.} Nfd7 19. Qb3
+{It is really nice how Bogner uses simple tactics to further his goals.} Ka7
+20. Qb4 {Being under enormous pressure, Maghsoodloo finally errs and loses a
+pawn.} Bh5 $6 {Perhaps Parham missed something simple while calculating?} (
+20... Qc7 21. h3 Be6 22. Ne2 $16 {was unpleasant, but holdable.}) 21. Nxa6 $1
+Qxb4 22. Nxb4 $18 {White has won a pawn and has no counterplay to deal with.
+The game is effectively decided.} Nc8 23. b3 $1 {Controls c4 and creates
+additional room for the king.} Nd6 24. a4 f5 25. a5 {Bogner has realised that
+Black has nothing constructive on the kingside, so he further improves his
+position on the queenside.} Nb8 ({If black tries to get creative with} 25...
+Ne4 {then the simple} 26. Rc2 {puts paid to his plans.}) 26. Na4 Be8 27. Nc5 {
+White still retains a winning advantage, but there were better ways to make
+Black suffer.} (27. h4 $1 {is one way of converting that I feel is better than
+the game. White creates additional weaknesses to exploit on the kingside.
+After} Bd7 28. Nc5 Bc8 29. hxg5 hxg5 30. f3 $18 {and Black is hopelessly
+passive and lost.}) 27... Ne4 28. f3 Nd6 29. h4 $1 {Once Bogner hits on the
+right idea, it takes him only 12 more moves to clean up.} Bf7 30. Kc2 (30. a6
+$1 {was a nice tactical opportunity. The idea is that after} bxa6 31. Ncxa6
+Nxa6 {White has additional targets on the queenside, and Black's resisitance
+will soon fold.} 32. Nxa6 $18) 30... Rdg8 31. hxg5 hxg5 32. Kd2 Be8 33. Ne6 g4
+34. Nf4 Nd7 35. Be2 Nf6 36. Nbd3 {White has systematically improved his
+position and is ready to strike. Black decides to retaliate before it is too
+late.} b6 37. axb6+ (37. Ne5 $1 {was more clinical. The idea is that after the
+normal} bxa5 {White goes after the house} 38. Nxc6+ Bxc6 39. Rxh8 Rxh8 40. Rxc6
+$18 {and Black's position looked far better on move 1! He has absolutely no
+counterplay and there isn't a single pawn that can be defended easily.}) 37...
+Kxb6 38. Nc5 Nc8 39. Bd3 Ne7 40. Ra1 g3 $2 {Parham blunders mate.} 41. Nfe6 {
+Bogner's spirit must be back to the highs after this game! A brilliant display
+of technique and accuracy.} 1-0

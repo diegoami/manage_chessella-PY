@@ -1,0 +1,35 @@
+[Event "4NCL Div 1b 2018-19"]
+[Site "Telford ENG"]
+[Date "2019.02.09"]
+[Round "5.75"]
+[White "Abbas, Daniel"]
+[Black "Ansell, Simon T"]
+[Result "*"]
+[ECO "B31"]
+[WhiteElo "2257"]
+[BlackElo "2333"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "55"]
+[EventDate "2019.??.??"]
+[SourceTitle "2019_30"]
+
+{[%evp 0,55,18,14,37,40,36,50,43,23,40,40,43,35,31,33,32,33,35,31,26,27,20,30,
+55,48,29,25,18,13,14,14,0,3,41,0,16,1,16,16,122,151,148,151,142,150,156,128,
+138,138,138,100,100,89,29997,29998,29999,-30000]} 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6
+4. Bxc6 dxc6 5. d3 Bg7 6. h3 Nf6 7. Nc3 Nd7 8. O-O e5 9. Be3 b6 10. Qd2 h6 11.
+Nh2 Nf8 12. f4 exf4 13. Bxf4 g5 14. Bg3 Ng6 15. e5 O-O 16. Rae1 h5 17. Ne4 h4
+18. Bf2 Bxe5 19. Nxg5 Qc7 20. Nhf3 Bf4 21. Be3 Bxe3+ 22. Qxe3 f6 23. Ne6 Bxe6
+24. Qxe6+ Kg7 {In the diagram position Black's king, though somewhat exposed,
+doesn't seem to be in mortal danger. Yet after 25.Qg4 Qg3, the game will last
+only three more moves. Can you imagine what followed?} 25. Qg4 Qg3 {[%tqu "En",
+"Be creative and try to find a way to allow a mate in three!","","","e1e7","",
+10,"g4f5","",0]} 26. Re7+ {[%csl Ge7,Yg6,Rg7][%cal Gg4g7,Yg6e7] White exploits
+the fact that knight g6 is pinned to occupy the 7th rank.} Kh6 $4 {This
+'active' king move would be fine if it weren't for...} (26... Kg8 $1 {was
+obligatory.}) (26... Kh8 27. Qh5+ Kg8 28. Qh7#) (26... Rf7 27. Rxf7+ Kxf7 28.
+Ng5+ Kg7 29. Qd7+ $18) {[%tqu "En","You don't need a hint here, do you!? :-)",
+"","","g4h5","and Black resigned on account of",10]} 27. Qh5+ $1 {[%csl Gh5,
+Rh6] Black resigned on account of} Kxh5 {[%tqu "En","Mate is great - please go
+ahead!","","","e7h7","Checkmate!",10]} 28. Rh7# {[%csl Rh5,Gh7][%cal Gh7h5,
+Gf3g5,Gh3g4] Checkmate!} *
+

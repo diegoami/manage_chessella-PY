@@ -1,0 +1,52 @@
+[Event "FIDE Grand Swiss"]
+[Site "Douglas, Isle of Man"]
+[Date "2019.10.13"]
+[Round "4"]
+[White "Eljanov, Pavel"]
+[Black "Keymer, Vincent"]
+[Result "1/2-1/2"]
+[ECO "D41"]
+[WhiteElo "2663"]
+[BlackElo "2506"]
+[Annotator "Thorsten Cmiel"]
+[PlyCount "66"]
+[EventDate "2019.10.10"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+
+{[%evp 26,66,50,0,57,0,36,-9,30,3,49,3,19,9,59,11,97,3,16,0,10,0,0,0,0,-167,
+-121,-168,-76,-63,-47,-82,-47,-75,-39,-76,-25,-53,-14,-85,-39,-37,-10]} 1. d4 {
+[%emt 0:00:02]} Nf6 {[%emt 0:00:07]} 2. c4 {[%emt 0:00:08]} e6 {[%emt 0:00:04]}
+3. Nf3 {[%emt 0:00:07]} d5 {[%emt 0:00:12]} 4. Nc3 {[%emt 0:00:35]} c5 {
+[%emt 0:00:08]} 5. cxd5 {[%emt 0:00:07]} Nxd5 {[%emt 0:00:04]} 6. e4 {[%emt 0:
+00:08]} Nxc3 {[%emt 0:00:06]} 7. bxc3 {[%emt 0:00:02]} cxd4 {[%emt 0:00:06]} 8.
+cxd4 {[%emt 0:00:03]} Bb4+ {[%emt 0:00:05]} 9. Bd2 {[%emt 0:00:03]} Bxd2+ {
+[%emt 0:00:05]} 10. Qxd2 {[%emt 0:00:02]} O-O {[%emt 0:00:07]} 11. Bc4 {
+[%emt 0:00:55]} Nd7 {[%emt 0:00:24]} 12. O-O {[%emt 0:00:08]} b6 {[%emt 0:00:
+09]} 13. Rfe1 {[%emt 0:00:33]} Bb7 {[%emt 0:00:14]} 14. Rad1 {[%emt 0:00:47]}
+Rc8 {[%emt 0:00:25]} 15. Bb3 {[%eval 0,27] [%emt 0:00:12]} (15. Bd3 $14 {
+[%eval 57,20]}) 15... h6 {[%emt 0:00:59]} 16. Re3 {[%eval -9,25] [%emt 0:01:44]
+} (16. Qf4 $14 {[%eval 36,20]}) 16... Nf6 {[%emt 0:02:51] The position is
+equal.} 17. d5 {[%emt 0:02:04]} exd5 {[%emt 0:00:54]} 18. exd5 {[%eval 3,26] 
+[%emt 0:00:03]} (18. Qe1 $1 $14 {[%eval 49,22]}) 18... Qd6 $11 {[%emt 0:13:55]}
+19. Nh4 {[%emt 0:02:55] And now White would win after Nf5.} Rfe8 $1 {[%emt 0:
+10:18]} 20. Nf5 {[%eval 11,26] [%emt 0:12:10]} (20. h3 $14 {[%eval 59,22]})
+20... Qd7 {[%emt 0:01:38] [#]} 21. Rf3 {[%eval 3,27] [%emt 0:23:12]} (21. Rxe8+
+$1 $16 {[%eval 97,20]} Rxe8 22. Ne3) 21... Bxd5 $1 {[%emt 0:12:10]} 22. Bxd5 {
+[%emt 0:07:14]} Rc5 $1 {[%emt 0:01:19][%cal Rc5d5]} ({Of course not} 22... Qxd5
+$6 23. Qxd5 Nxd5 24. Nd6 $16) ({Less good is} 22... Nxd5 23. g4 $18 (23. Qd4 f6
+$11)) 23. Nxh6+ {[%emt 0:13:47]} Kf8 {[%emt 0:24:14][%cal Rc5d5]} 24. Qb4 {
+[%emt 0:33:31] Threatening Bb3 and White wins.} (24. Rxf6 $2 gxf6 25. Ng4 Qxg4
+$17) 24... a5 $1 {[%emt 0:08:45][%cal Ra5b4]} 25. Qb1 $2 {[%eval -167,21] 
+[%emt 0:01:45]} ({A mistake would be} 25. Rxf6 $2 gxf6 26. Qg4 Qxg4 $19) (25.
+Qxb6 $11 {[%eval 0,26] with a safe position for White.} Rxd5 26. Rf1) 25...
+Rxd5 $19 {[%emt 0:01:16]} 26. Rf1 {[%emt 0:03:41] [#]} Qb5 {[%eval -76,26] 
+[%emt 0:08:38]} (26... b5 $1 $19 {[%eval -168,22] offers better winning
+chances.} 27. h3 Re6) 27. h3 {[%emt 0:03:32]} Qxb1 {[%emt 0:02:50]} 28. Rxb1 {
+[%emt 0:00:04]} Re6 {[%emt 0:01:08]} 29. Nf5 {[%emt 0:00:22]} g6 {[%emt 0:00:
+36]} 30. Ne3 {[%emt 0:00:42]} Rd4 {[%eval -25,27] [%emt 0:01:55]} (30... Rc5
+$17 {[%eval -76,23]}) 31. Rc1 $11 {[%emt 0:01:08]} Nd7 {[%emt 0:03:47]} 32.
+Rc8+ {[%eval -85,22] [%emt 0:02:04]} (32. g3 $11 {[%eval -14,24]}) 32... Re8 {
+[%eval -39,25] [%emt 0:03:54]} ({Better is} 32... Ke7 $17 {[%eval -85,22]}) 33.
+Rc7 $15 {[%emt 0:00:42]} b5 {[%emt 0:04:50]} 1/2-1/2
+

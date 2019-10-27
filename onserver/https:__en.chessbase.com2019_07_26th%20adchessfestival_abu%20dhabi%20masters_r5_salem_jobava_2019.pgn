@@ -1,0 +1,52 @@
+
+
+[Event "26th Abu Dhabi Master 2019"]
+[Site "Abu Dhabi"]
+[Date "2019.08.05"]
+[Round "5.1"]
+[White "Salem, A.R. Saleh"]
+[Black "Jobava, Baadur"]
+[Result "0-1"]
+[ECO "D15"]
+[WhiteElo "2672"]
+[BlackElo "2594"]
+[Annotator "TA"]
+[PlyCount "78"]
+[EventDate "2019.08.02"]
+[EventType "swiss"]
+[EventCountry "UAE"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,78,-20,-21,-21,16,-29,-9,-37,-17,-12,-13,-3,8,-33,0,0,0,0,61,83,61,45,
+47,40,50,9,14,9,41,58,55,42,60,0,0,0,0,0,0,0,0,0,0,-52,-66,-128,-128,-128,-132,
+-197,-192,-208,0,-202,-203,-295,-281,-369,-388,-479,-495,-616,-585,-616,-520,
+-604,-588,-975,-948,-29982,-29983]} 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5.
+e4 b5 $1 6. Be2 {D15: Slav Defence: 4 Nc3 a6 and gambit lines after 4 Nc3 dxc4}
+Bg4 (6... e6 7. O-O Be7 8. a4 b4 9. e5 Nd5 10. Ne4 Ba6 11. Bd2 Qa5 12. Rc1 Nd7
+13. Bxc4 Bxc4 14. Rxc4 {1/2-1/2 (39) Salem,A (2672)-Shankland,S (2725) chess.
+com INT 2019}) 7. e5 Nd5 8. h3 {The position is equal.} Bxf3 9. Bxf3 e6 10. a4
+$146 ({Predecessor:} 10. O-O Nd7 11. a4 a6 12. Bxd5 exd5 13. Qg4 b4 14. Ne2 h5
+15. Qg3 a5 16. Re1 Qb6 17. Bg5 c5 18. Nf4 cxd4 19. e6 Nc5 20. Nxd5 {1-0 (20)
+Jagodzinski,W (2141)-Spicak,K (2011) Rewal 2008}) 10... Bb4 11. Bd2 (11. Bxd5
+$5 Qxd5 12. Qg4 $11) 11... Bxc3 12. bxc3 O-O 13. O-O Nd7 ({Better is} 13... a5
+$11) 14. axb5 $14 cxb5 15. Bxd5 $1 exd5 16. Ra6 Nb6 17. Qb1 {[%mdl 1024] White
+has compensation.} (17. Qg4 $5 {[%cal Rd2h6]}) 17... Qd7 18. f4 f5 19. Qb4 Rfb8
+20. Re1 Rb7 21. e6 (21. Kh2 $14) 21... Qe8 $1 $11 22. Qb1 g6 23. g4 Qe7 24.
+gxf5 Qh4 {aiming for ...Qg3+.} 25. Re2 (25. Kg2 gxf5 26. e7 Rxe7 $15) 25...
+Qxh3 26. f6 ({White should try} 26. e7 $11 Rxe7 27. Rxe7 Qg3+ 28. Kf1 Qf3+ 29.
+Kg1 Qg3+ 30. Kf1 Qf3+ 31. Kg1 Qg3+) 26... Qg4+ $15 {[%mdl 64] Double Attack}
+27. Rg2 (27. Kf2 $1 $15 Qh4+ {[%mdl 64] Double Attack} 28. Kg1 Qxf6 29. Qxb5)
+27... Qxe6 $17 28. f5 Qxf6 29. Ra2 (29. fxg6 $17 {keeps fighting.} hxg6 30. Bh6
+) 29... Re8 $1 $19 30. Bf4 {next Be5 is good for White.} Rf8 $2 (30... Re4 $1
+$19 {[%cal Re4f4]} 31. Raf2 Qe7) 31. Rg5 $2 (31. Bh6 $1 $11 {and White is okay.
+} Qxf5 32. Qe1) 31... Nd7 32. Rag2 {[#]} (32. Qe1 {is a better defense.} b4 33.
+fxg6 hxg6 34. Rag2) 32... b4 $1 33. fxg6 (33. cxb4 Qxd4+) 33... h6 (33... Qxf4
+34. gxh7+ Kf7 35. Rf5+ Qxf5 36. Qxf5+ Nf6 37. Qg6+ Ke7 38. Re2+ Ne4 39. Qg7+
+Rf7 40. Rxe4+ $1 {[%mdl 576] Promotion} dxe4 41. Qe5+ {[%mdl 64] Double Attack}
+Kd7 42. h8=Q Rb8 43. Qhxb8 {[%mdl 64] Double Attack} Rg7+ 44. Qxg7+ Ke6 45.
+Qbe5#) 34. g7 {[#]} Re8 $1 ({And not} 34... hxg5 35. gxf8=Q+ Nxf8 36. Bxg5 $11)
+35. R5g4 Re4 36. Bg5 Qe6 37. Rxe4 Qxe4 38. Qd1 hxg5 39. Re2 Qg4+ {Accuracy:
+White = 61%, Black = 72%.} 0-1

@@ -1,0 +1,56 @@
+[Event "Biel Master Tournament 2019"]
+[Site "Biel"]
+[Date "2019.07.29"]
+[Round "7"]
+[White "Keymer, Vincent"]
+[Black "Iturrizaga Bonelli, Eduardo"]
+[Result "0-1"]
+[ECO "E11"]
+[WhiteElo "2513"]
+[BlackElo "2625"]
+[Annotator "Saravanan,V"]
+[SetUp "1"]
+[FEN "r1r2bk1/1q1b1pp1/3p1nnp/1p1PpN2/1P2P3/1Q4PB/1B1N1P1P/2R1R1K1 w - - 0 26"]
+[PlyCount "82"]
+[EventDate "2019.07.20"]
+[EventType "swiss"]
+[EventCountry "SUI"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 0,82,52,49,49,68,65,50,73,81,50,43,71,38,34,55,41,63,84,104,107,109,112,
+109,109,120,126,72,128,109,137,143,143,128,124,130,142,152,159,165,172,189,172,
+160,158,149,185,149,149,125,141,174,162,91,116,133,93,133,105,158,157,129,89,
+107,129,4,0,0,0,0,0,0,0,0,0,0,0,-363,-409,-691,-719,-1267,-1507,-1938,-1421] 
+[#][Diagram] After an uneven opening and early middlegame, things finally
+started happening here:} 26. Kg2 {[White has a specific idea here: to exchange
+light bishops and thus gaining a little more edge due to dominating light
+squares on the kingside]} Qb6 $6 ({Black should have been alert to white's
+threat and played} 26... h5 $1 {[Positional alertness! Watch out for black's
+play sticking to basics here]} 27. Rxc8 Rxc8 28. Ne3 Ng4 {[More basics:
+stopping the exchange of light bishops]} 29. Ndf1 Be7 $1 {[Even more basics:
+activatig the sleeping piece!]} 30. Nf5 (30. f3 Nxe3+ 31. Nxe3 Bxh3+ 32. Kxh3
+Bg5 {[White has succeeded in his mission, but suddenly it is black who holds
+an edge here, as the 'bad' black's dark bishops is better here than the
+'better' white's dark bishop!]}) 30... Bxf5 31. exf5 Nf8 {with a complicated
+position, where black still holds the balance}) 27. Ne3 Bxh3+ 28. Kxh3 $14 {
+[White has an edge here, due to the kingside control and...more of it later]}
+Qb7 29. Kg2 Qd7 30. f3 Ne7 {[#][Diagram]} 31. Nb1 $1 {[The point, white finds
+a target in the weak Pb5]} h5 32. Rxc8 Rxc8 33. Qd3 g6 34. Na3 {[White is
+pressing now]} Bh6 {[Black turns desparate]} (34... Rb8 35. Nd1 $1 {[Idea
+Nd1-c3 hitting on P]b5}) 35. Nd1 Bc1 36. Bxc1 Rxc1 37. Nxb5 h4 38. Nbc3 $16 {
+[White is a healthy pawn up]} Kg7 39. Qd2 Ra1 40. Nf2 Ra8 41. Rc1 Rh8 42. g4
+Qa7 {[#][Diagram]} 43. Ncd1 $18 {[Black's play on the kingside seems to have
+stopped - what can go wrong for White here?]} Rb8 44. Ne3 Nh7 45. Nc4 Qd7 46.
+h3 f6 47. Nd3 Ng5 48. Na5 Ra8 49. Rc4 Qb5 50. Rc7 Kf8 51. Qc3 Qb6 52. Nf2 Rb8
+53. Rc4 Ra8 54. f4 $1 Nf7 55. f5 ({Even better was} 55. Rc7 exf4 $2 56. Rb7 {
+[%cal Yc3f6]} Qe3 57. Qxf6 $1 Qg3+ 58. Kf1 Re8 59. Nc4 f3 60. Ne3 $18) 55...
+Ng5 56. Nd1 Qb5 57. Qc2 $4 {[Throwing the advantage away. In certain ways, it
+is even more difficult to hold your nerves with a winning position if the
+opponent has even a semblance of threats]} gxf5 58. gxf5 {[#][Diagram]} Nxd5 $3
+{[With this elegant sacrifice, black gains a draw... atleast]} 59. exd5 Qxd5+
+60. Kg1 Nf3+ 61. Kf2 Nd4 62. Rc8+ Kg7 {[#][Diagram]} 63. Qc7+ $4 {[White goes
+berserk in the second time control]} (63. Rc7+ Kh8 64. Rc8+ {would have been a
+draw}) 63... Kh6 64. Qc1+ Kh5 $19 65. Rc3 Rg8 66. Qe3 Qh1 0-1
+

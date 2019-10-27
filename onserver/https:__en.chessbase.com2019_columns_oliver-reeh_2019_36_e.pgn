@@ -1,0 +1,54 @@
+[Event "Nordic Chess Championship 2019"]
+[Site "Quality Sarpsborg Hotel"]
+[Date "2019.06.22"]
+[Round "2"]
+[White "Westerberg, Jonathan"]
+[Black "Hobber, Anders"]
+[Result "*"]
+[ECO "C01"]
+[WhiteElo "2545"]
+[BlackElo "2282"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "79"]
+[EventDate "2019.??.??"]
+[SourceTitle "2019_36"]
+
+{[%evp 0,79,20,9,39,39,26,26,59,21,24,7,11,-19,-20,-52,-1,-35,-13,-15,-11,-17,
+-3,-22,-14,-10,8,16,0,0,-20,-14,-12,-35,-3,-18,-24,-33,-8,-16,-14,-17,-17,-17,
+-44,-48,-88,-67,-67,-109,-152,-112,-109,-159,-153,-207,-197,-219,-201,-197,
+-147,-149,-141,-159,-159,-155,-156,-130,-75,-64,0,0,0,0,0,0,0,0,0,0,29995,
+29996]} 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. exd5 exd5 5. Bg5 Be7 6. Qd2 O-O 7.
+O-O-O Re8 8. f3 c6 9. Bd3 b5 10. Re1 Nbd7 11. Nge2 Nb6 12. Ng3 b4 13. Nd1 Be6
+14. Kb1 Nc4 15. Qc1 a5 16. Bf5 Qd7 17. Bxe6 fxe6 18. Nf2 a4 19. Nd3 b3 20. cxb3
+axb3 21. axb3 Na5 22. Qc3 Reb8 23. b4 Nc4 24. Bxf6 Bxf6 25. Nc5 Qa7 26. Kc2 Qf7
+27. Ra1 e5 28. Qd3 exd4 29. Nf5 Ne3+ 30. Nxe3 dxe3 31. Qxe3 Qg6+ 32. Nd3 Qxg2+
+33. Kb3 Rxa1 34. Rxa1 Qxh2 35. Qe6+ Kh8 36. Qxc6 {[%cal Gh2d2] With 36...Qd2
+in the diagram Black's queen approaches the enemy king and attacks its "best
+friend", the knight on d3. Please evaluate the position - and then make the
+right choice for White!} Qd2 {[%csl Gd2][%cal Gd2d3]} {[%tqu "En","Black has
+attacked the Nd3. How would you continue as White?","Find a forced draw!","",
+"a1a8","",10,"c6d5","which would have allowed",0,"c6c2","",0]} 37. Ra8 $1 {
+[%csl Ga8,Gc6,Yd3,Rh8][%cal Ga8h8] Bingo! White can jettison his knight to
+force a draw due to Black's back rank weakness.} ({The game saw} 37. Qxd5 $2 {
+which would have allowed} {[%tqu "En","Changeover! How can Black get the
+advantage now?","The Nd3 must guard (too) many squares.","","b8b4","",10,
+"f6b2","",0]} Rxb4+ $1 {[%csl Gb4,Rd3][%cal Gd2b2,Gb2a1,Gf6b2]} ({instead of
+the actual continuation} 37... Bxb2 $4 38. Ra8 $1 {[%csl Ga8,Rb8,Gd5][%cal
+Ga8h8] Now this back rank constellation is deadly.} Qd1+ (38... Qc3+ 39. Ka2
+$19 {[%csl Ga2,Rb2]}) 39. Kxb2 Qd2+ 40. Kb3 Qd1+ 41. Kc3 {[%csl Gd3] and
+having no more checks thanks to "the king's best friend", Black resigned - 1-0.
+}) 38. Nxb4 Qxb2+ 39. Kc4 Qxa1 {[%csl Ga1,Yd5][%cal Ga1a8,Gf6d8] with
+advantage to Black - no white back rank check!}) (37. Qc2 $6 Qe3 {[%csl Ge3]})
+37... Qxd3+ {[%tqu "En","Only move for White's king?","","","b3a2","",10,
+"b3a4","",0]} 38. Ka2 ({Not} 38. Ka4 $4 Qd1+ $1 {[%csl Ra4,Gd1][%cal Gd1a1,
+Ga1a8] and Black's queen comes from behind.}) 38... Qc4+ {[%tqu "En","Black
+has checked threatening White's queen. What now?","","","a2b1","",10,"c6c4","",
+0,"a2a1","",0]} 39. Kb1 $1 {[%csl Ga8,Gb1,Rb8,Gc6,Rh8][%cal Ga8h8] Just
+leaving White's queen en prise. Black has no way to safe this rook b8/back
+rank and must give perpetual check.} (39. Qxc4 $4 Rxa8+ {[%cal Ga8a2,Gd5c4]
+and Black wins.}) 39... Qxb4 $4 (39... Qxc6 $4 40. Rxb8+ $18 {[%csl Gb8][%cal
+Gb8h8]}) (39... Rg8 $4 40. Rxg8+ Kxg8 41. Qe8#) (39... Qd3+ 40. Ka2 Qc4+ $11) {
+[%tqu "En","Just to please you - which move leads to mate in three?","","",
+"c6e8","",10]} 40. Qe8+ {[%csl Ga8,Rb8,Ge8,Rh8][%cal Ga8e8] The x-ray rook -
+back rank mate to follow.} *
+

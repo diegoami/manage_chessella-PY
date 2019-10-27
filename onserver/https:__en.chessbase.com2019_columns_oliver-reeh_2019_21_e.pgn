@@ -1,0 +1,45 @@
+[Event "BL 2018-19"]
+[Site "Berlin"]
+[Date "2019.04.06"]
+[Round "14.2"]
+[White "Huschenbeth, Niclas"]
+[Black "Bartel, Mateusz"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2586"]
+[BlackElo "2600"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "64"]
+[EventDate "2019.??.??"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. c3 Ng6 7. O-O f6 8. c4 fxe5
+9. dxe5 Bc5 10. b4 Bxb4 11. Qb3 Bc5 12. Qxb7 O-O 13. Qxa8 Qb6 14. Nc3 Nd7 15.
+Na4 Qc7 16. Qxf8+ Bxf8 17. Nd4 Qxe5 18. Be3 Nf4 19. Bf3 Nh3+ 20. Kh1 Bd6 21. g3
+Be4 22. Bg2 Qh5 23. cxd5 exd5 24. f3 Bd3 25. Rfd1 Ne5 26. Rac1 {In the diagram
+position the white king seems reasonably protected, but the game continuation
+gives Black an irresistible attack. What would be your idea?} {[%tqu "En",
+"Black wants to get access to the white king. What do you suggest?","","",
+"d3e2","Schwarz opfert den Läufer, um auf den weißen Feldern zum Zug zu
+kommen.",10]} Be2 $1 {[%csl Ge2][%cal Ge2f3,Ge2d1] Black sacs the bishop in
+order to access the light squares.} 27. Nxe2 (27. g4 {runs into the elegant}
+Nxg4 28. fxg4 Qe5 $1 {[%csl Ge5,Rh1][%cal Gd6h2]}) {[%tqu "En","Continuation?",
+"","","e5f3","",10]} 27... Nxf3 {[%csl Gd6,Gf3,Rh1,Gh3,Gh5] Voilà! Now
+Black's queen + 3 minor pieces are attacking the king, with White's pieces on
+the queenside (rooks) being mere bystanders. The immediate threat is mate in 2.
+} 28. Bxh3 {Trading the precious defender of the light squares, but there were
+no real alternatives.} (28. Bxf3 {[%tqu "En","Continuation? :-)","","","h5f3",
+"",10]} Qxf3# {[%csl Rh1][%cal Gf3h1,Gh3g1] Checkmate - on a square perhaps
+worth remembering...}) (28. Bf1 Nf2+ {[%csl Gf2][%cal Gh5h2]} 29. Kg2 (29. Bxf2
+Qxh2#) 29... Nxd1 30. Rxd1 Nxh2 {[%cal Gh2g4,Gh5e2,Gh2f1] and White's position
+is completely loose.}) (28. Rxc6 Nf2+ {[%csl Rh1][%cal Gh5h2,Gf3h2,Gf2h1]} 29.
+Bxf2 Qxh2#) 28... Qxh3 {[%cal Gh3h2,Gf3h2] Black's queen appears in front of
+the king, and White only has one move to parry the mate threat on h2. Have you
+already seen Black's knockout blow following 29.Bg1 now?} 29. Bg1 {[%tqu "En",
+"Time for Black's point. Well?","","","f3h4","",10]} Nh4 $1 {[%csl Yg1,Rh1,Gh4]
+[%cal Gh3g2] That's it - with the bishop on g1 White's corner king is prone to
+lightsquared checkmates.} 30. Nf4 {There is no other way to protect g2.} (30.
+gxh4 {[%tqu "En","Enjoy!","","","h3f3","Ein Solomatt!",10]} Qf3# {[%csl Gf3,
+Rh1][%cal Gf3h1] A solo mate!}) 30... Bxf4 {Winning back the piece and leaving
+White helpless against the activity of the Black's queen (light squares!)} 31.
+Rc2 Qf5 {[%csl Gf5][%cal Gf5c2]} 32. Re2 Qh5 {[%csl Gh5][%cal Gh5d1]} 0-1
+

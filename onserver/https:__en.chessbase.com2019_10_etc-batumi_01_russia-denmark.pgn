@@ -1,0 +1,91 @@
+[Event "22nd ETCC Open 2019"]
+[White "Andreikin, Dmitry"]
+[Black "Andersen, Mads"]
+[Site "Batumi"]
+[Round "1.1"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.10.24"]
+[WhiteElo "2741"]
+[BlackElo "2601"]
+[PlyCount "99"]
+
+1. e4 {} c5 2. Nc3 d6 3. Nge2 Nf6 4. d4 cxd4 5. Nxd4 a6 6. g3 Bd7 7. Bg2 Nc6 8. 0-0 e6 9. b3 Rc8 {
+B80: Sicilian Scheveningen: 6 g3 and 6 Be3, including English Attack} 10. Nce2 b5 11. Bb2 Be7 {The position is equal.} 12. Re1 (12. h3 0-0 13. g4 Nxd4 14. Nxd4 d5 15. e5 Ne4 16. Bxe4 dxe4 17. Qe2 Bc5 18. Qxe4 Qh4 19. Kh2 f5 20. exf6 {
+0-1 (55) Sanal,V (2542)-Rublevsky,S (2683) Ruma 2017} )0-0 13. Nxc6 $146 ({Predecessor:} 13. c3 Qb6 14. Qd2 Rfd8 15. h3 e5 16. Nf5 Bxf5 17. exf5 d5 {
+0-1 (30) Roos,J (2435)-Efimov,I (2465) Montpellier 1994} )Bxc6 14. Nd4 Ba8 15. Qe2 Qb6 16. c3 d5 17. exd5 Bxd5 18. Bxd5 Nxd5 19. c4 bxc4 20. bxc4 Nf6 21. Rab1 Qc7 22. Rbc1 Nd7 23. Nb3 a5 24. c5 a4 25. Qg4 {
+[#]} Bf6 26. Bxf6 Nxf6 27. Qxa4 Ra8 28. Qc4 Rxa2 29. Nd4 Rb2 30. Re2 Rxe2 31. Nxe2 (31. Qxe2 {with more complications.} Rd8 32. Qc4 Nd5 33. c6 Qb6 34. Nb5 )Nd5 32. Nd4 Rc8 33. Nb5 $36 { White is more active.} Qe7 34. c6 Qb4 35. Qd3 g6 36. c7 Kg7 ({Black should try} 36... Qa5 $1 $14 )37. Qe2 Kg8 38. h4 h5 39. Rc6 Kf8 $2 {[#]} (39... Qa5 $16 {might work better.} 40. Rd6 Nxc7 )40. Qe5 $1 $18 { And now Qh8+ would win.} Ke7 $2 (40... Kg8 {
+was called for.} )41. Na7 Qb1+ 42. Kh2 Rxc7 43. Rxc7+ Nxc7 44. Qxc7+ Kf8 45. Nc6 Qc2 46. Qd8+ Kg7 47. Qd4+ Kg8 48. Ne5 Qc7 49. Nd7 Qc2 (49... Qc6 $142 50. Nf6+ Kf8 51. Nh7+ Kg8 52. Nf6+ Kf8 )50. Qc5 {Accuracy: White = 81%, Black =
+41%.} 1-0
+
+[Event "22nd ETCC Open 2019"]
+[White "Hansen, Sune Berg"]
+[Black "Alekseenko, Kirill"]
+[Site "Batumi"]
+[Round "1.2"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.10.24"]
+[WhiteElo "2573"]
+[BlackElo "2674"]
+[PlyCount "71"]
+
+1. d4 {} Nf6 2. c4 e6 3. g3 d5 4. Bg2 Bb4+ 5. Bd2 Be7 6. Nf3 0-0 7. 0-0 Nbd7 8. Bf4 c6 9. Nc3 dxc4 10. e4 b5 {
+E07: Closed Catalan: Main Line (5 Nf3 0-0 6 0-0 Nbd7)} (10... Re8 11. a4 b6 12. d5 exd5 13. exd5 Bb7 14. a5 bxa5 15. d6 Bf8 16. Nd2 Nd5 17. Nxd5 cxd5 18. Nxc4 dxc4 19. Bxb7 {1/2-1/2 (42) Nakamura,H (2777)-Karjakin,S (2773) Saint Louis
+2018} )11. d5 $1 {} cxd5 (11... Qb6 {keeps more tension.} 12. Be3 Bc5 13. dxc6 Qxc6 14. e5 Nd5 )12. exd5 exd5 {White is slightly better.} 13. Nxd5 Nxd5 14. Qxd5 { Double Attack} Nb6 15. Qxb5 {Threatens to win
+with Ne5.} Bb7 16. Rfe1 $146 ({Predecessor:} 16. Rad1 Qc8 17. Qh5 Bf6 18. Rd6 g6 19. Qh6 Bg7 20. Qh4 Re8 21. Rfd1 c3 22. bxc3 Qxc3 23. R6d3 Qc6 24. Bh6 Qe4 {
+1/2-1/2 (24) Grabliauskas,V (2401)-Butnorius,A (2437) Nemencine 2010} )Bf6 17. Rad1 Qc8 $1 18. Be5 $36 { aiming for Bxf6. White is pushing.
+} Bc6 19. Qa5 {Strongly threatening Bxf6.} Bxe5 20. Qxe5 Qb7 21. Nh4 {Hoping
+for Nf5.} Bxg2 22. Nxg2 Na4 23. Rd2 Qb4 (23... Rab8 $11 )24. Ree2 $16 Rab8 25. Nf4 (25. Ne3 $16 {Nf5 is the strong threat.} c3 26. Nf5 )Rb5 $2 { [#]} (25... Qc5 $14 )26. Nd5 $1 $18 { White is clearly
+winning.} Qa5 (26... c3 $142 27. bxc3 Qa5 )27. Qd6 {And now Ne7+ would win.} Rb7 28. Ne7+ Rxe7 29. Rxe7 c3 30. bxc3 Nxc3 31. Re5 Nb5 32. Qd7 a6 33. Re8 {
+Qe7 would kill now.} g6 34. Qd8 (34. Qe7 $142 Rxe8 35. Qxe8+ Kg7 36. Qe5+ Kh6 {
+[#]} 37. Rd4 $1 {} Nxd4 38. Qxa5 )Qa3 35. Rxf8+ Qxf8 36. Qf6 {
+Accuracy: White = 62%, Black = 32%.} 1-0
+
+[Event "22nd ETCC Open 2019"]
+[White "Matlakov, Maxim"]
+[Black "Thybo, Jesper Sondergaard"]
+[Site "Batumi"]
+[Round "1.3"]
+[Annotator "ChessBase"]
+[Result "0-1"]
+[Date "2019.10.24"]
+[WhiteElo "2716"]
+[BlackElo "2550"]
+[PlyCount "94"]
+[TimeControl "60"]
+
+1. c4 {[%emt 0:0:0]} Nf6 {[%emt 0:0:0]} 2. Nc3 {[%emt 0:0:22]} e6 {[%emt 0:0:17]
+} 3. e4 {[%emt 0:1:46]} c5 {[%emt 0:0:15]} 4. e5 {[%emt 0:0:0]} Ng8 {[%emt 0:0:8]} 5. Nf3 {[%emt 0:0:52]} Nc6 {[%emt 0:0:23]} 6. d4 {[%emt 0:0:21]
+} cxd4 {[%emt 0:0:8]} 7. Nxd4 {[%emt 0:0:7]} Nxe5 {[%emt 0:0:0]} 8. Ndb5 {[%emt 0:0:13]} a6 {[%emt 0:0:35]} 9. Nd6+ {[%emt 0:0:15]} Bxd6 {[%emt 0:0:10]} 10. Qxd6 {[%emt 0:0:5]} f6 {[%emt 0:0:18]} 11. Be3 {[%emt 0:0:22]
+} Ne7 {[%emt 0:0:35]} 12. Bb6 {[%emt 0:1:0]} Nf5 {[%emt 0:0:0]} 13. Qb4 {[%emt 0:0:11]} Nc6 {[%emt 0:1:1]} 14. Qc5 {[%emt 0:3:0]} d6 {[%emt 0:0:14]} 15. Bxd8 {[%emt 0:1:42]} dxc5 {[%emt 0:0:8]} 16. Bb6 {[%emt 0:0:5]
+} Ne5 {[%emt 0:0:27]} 17. Bxc5 {[%emt 0:8:54]} g5 {[%emt 0:0:0]} 18. Be2 {[%emt 0:15:47]} h5 {[%emt 0:0:34]} 19. 0-0-0 {[%emt 0:5:18]} Bd7 {[%emt 0:6:1]} 20. Rhe1 {[%emt 0:1:33]} Bc6 {[%emt 0:17:1]} 21. Bf1 {[%emt 0:2:15]
+} Kf7 {[%emt 0:11:16]} 22. b4 {[%emt 0:4:1]} Rhc8 {[%emt 0:0:0]} 23. Kb2 {[%emt 0:4:27]} a5 {[%emt 0:11:50]} 24. a3 {[%emt 0:2:27]} Be8 {[%emt 0:6:16]
+} 25. h3 {[%emt 0:9:57]} Rc6 {[%emt 0:7:46]} 26. g4 {[%emt 0:0:0]} hxg4 {[%emt 0:1:14]} 27. Rxe5 {[%emt 0:0:8]} fxe5 {[%emt 0:1:43]} 28. hxg4 {[%emt 0:0:4]} axb4 {[%emt 0:2:23]} 29. axb4 {[%emt 0:1:36]} Nd4 {[%emt 0:2:13]
+} 30. Bxd4 {[%emt 0:8:48]} exd4 {[%emt 0:0:11]} 31. Rxd4 {[%emt 0:0:3]
+} Ke7 {[%emt 0:8:57]} 32. Bg2 {[%emt 0:7:22]} Rc7 {[%emt 0:0:0]} 33. Ne4 {[%emt 0:5:34]} Bc6 {[%emt 0:1:30]} 34. Kb3 {[%emt 0:3:4]} Rf8 {[%emt 0:4:25]} 35. b5 {[%emt 0:1:5]} Bxe4 {[%emt 0:1:13]} 36. Bxe4 {[%emt 0:0:6]
+} Rxf2 {[%emt 0:0:51]} 37. b6 {[%emt 0:0:53]} Rc8 {[%emt 0:0:0]} 38. Rd3 {[%emt 0:0:24]} Rf4 {[%emt 0:2:35]} 39. Re3 {[%emt 0:0:5]} Kd6 {[%emt 0:2:29]} 40. Kb4 {[%emt 0:0:0]} Rxg4 {[%emt 0:0:0]} 41. Kb5 {[%emt 0:4:30]
+} Rc5+ {[%emt 0:5:52]} 42. Kb4 {[%emt 0:0:9]} Rc8 {[%emt 0:0:0]} 43. Kb5 {[%emt 0:0:34]} Rg1 {[%emt 0:5:26]} 44. Rb3 {[%emt 0:4:43]} Rc1 {[%emt 0:6:24]} 45. Rd3+ {[%emt 0:2:25]} Ke5 {[%emt 0:0:38]} 46. Bxb7 {[%emt 0:0:8]
+} Rb1+ {[%emt 0:0:12]} 47. Ka6 {[%emt 0:0:12]} Rxc4 {[%emt 0:0:0]} 0-1
+
+[Event "22nd ETCC Open 2019"]
+[White "Bjerre, Jonas Buhl"]
+[Black "Dubov, Daniil"]
+[Site "Batumi"]
+[Round "1.4"]
+[Annotator "ChessBase"]
+[Result "0-1"]
+[Date "2019.10.24"]
+[WhiteElo "2506"]
+[BlackElo "2699"]
+[PlyCount "46"]
+[TimeControl "60"]
+
+1. e4 {[%emt 0:0:0]} e5 {[%emt 0:0:0]} 2. Nf3 {[%emt 0:0:0]} Nc6 {[%emt 0:0:0]
+} 3. Bb5 {[%emt 0:0:0]} a6 {[%emt 0:0:0]} 4. Ba4 {[%emt 0:0:0]} Nf6 {[%emt 0:0:0]} 5. 0-0 {[%emt 0:0:27]} Be7 {[%emt 0:0:0]} 6. Re1 {[%emt 0:0:30]
+} b5 {[%emt 0:0:1]} 7. Bb3 {[%emt 0:0:5]} 0-0 {[%emt 0:0:7]
+} 8. a4 {[%emt 0:1:28]} d5 {[%emt 0:0:16]} 9. exd5 {[%emt 0:19:15]} Na5 {[%emt 0:0:14]
+} 10. Nxe5 {[%emt 0:8:40]} Nxb3 {[%emt 0:0:29]} 11. cxb3 {[%emt 0:15:10]
+} Bb7 {[%emt 0:0:23]} 12. Nc6 {[%emt 0:4:12]} Bxc6 {[%emt 0:0:0]} 13. dxc6 {[%emt 0:0:4]} Bc5 {[%emt 0:0:7]} 14. d3 {[%emt 0:5:6]} Bxf2+ {[%emt 0:1:0]} 15. Kxf2 {[%emt 0:4:36]} Qd4+ {[%emt 0:0:6]} 16. Be3 {[%emt 0:16:56]} Ng4+ {[%emt 0:3:20]} 17. Kf3 {[%emt 0:1:24]} Nxe3 {[%emt 0:0:0]} 18. Rxe3 {[%emt 0:0:20]} Rae8 {[%emt 0:0:36]} 19. Re2 {[%emt 0:4:31]
+} Qf6+ {[%emt 0:2:10]} 20. Kg3 {[%emt 0:1:19]} g5 {[%emt 0:0:20]} 21. Rf2 {[%emt 0:15:26]
+} Qd6+ {[%emt 0:0:6]} 22. Kh3 {[%emt 0:0:53]} Qh6+ {[%emt 0:0:0]} 23. Kg4 {[%emt 0:0:29]} Qh4+ {[%emt 0:0:7]} 0-1

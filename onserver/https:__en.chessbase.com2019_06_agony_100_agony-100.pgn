@@ -1,0 +1,100 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "2018.07.10"]
+[Round "7.2"]
+[White "Argo, Guy"]
+[Black "Winslow, Elliott C"]
+[Result "0-1"]
+[ECO "B10"]
+[WhiteElo "1940"]
+[BlackElo "2299"]
+[Annotator "Speelman,Jonathan"]
+[PlyCount "119"]
+[EventDate "2018.??.??"]
+[Source "ChessBase"]
+
+{[%evp 0,119,19,28,69,22,39,34,14,16,35,12,14,-3,-10,-10,-22,-38,-46,-37,-43,
+-74,-100,-113,-109,-138,-144,-150,-80,-218,-246,-246,-254,-235,-238,-240,-240,
+-233,-197,-238,-224,-231,-124,-150,-126,-173,-119,-142,-103,-133,-54,-81,-80,
+-105,-95,-112,-110,-113,-88,-187,-180,-194,0,0,0,-73,-65,-40,-56,-52,-58,-42,
+-61,-65,-1,0,0,-68,-38,-68,-73,-71,-31,-23,6,16,50,42,359,366,371,365,394,399,
+393,399,396,414,478,386,917,453,569,256,223,275,278,123,293,110,109,0,0,0,577,
+0,0,-36,-45,-59,-59,-59]} 1. e4 c6 2. d3 d5 3. Nd2 e5 4. Ngf3 Bd6 5. Be2 Nf6 6.
+a4 {This looks early to me. White would like to have a4 in if dxe4 dxe4
+happens in some circumstances, but there are other useful moves such as c3.} O-O
+7. h3 Re8 8. c3 a5 9. Qc2 Na6 {[#]} 10. g4 {Guy loves to attack and, against a
+stronger opponent, this is certainly normally the right thing to do in
+principle, though it's far from great here.} Nc5 11. Nh2 Ne6 12. Bf3 $6 {
+Now the knight gets in and with d3 loose White is in dire straits.} Nf4 13. h4
+b6 14. g5 Ba6 $1 15. c4 Nd7 {With gaping wounds on the dark squares for the
+knight to aim for, Black should be winning.} 16. Ng4 Nc5 17. Be2 (17. Ra3 Nce6
+{is also dreadful.}) 17... dxc4 {Very far from bad but Houdini perfers to
+re-route the bishop now that it has induced the horrible c4. One line goes:} (17...
+Bc8 18. Ne3 Nce6 19. Nf5 Bb4 20. Kf1 Nxe2 21. Kxe2 Nf4+ 22. Kf1 dxe4) 18. dxc4
+Bc7 19. Ne3 Nce6 20. Nf5 g6 $6 {Of course this should be good but it gives
+White hope and} (20... Nd4 21. Nxd4 exd4 {would have avoided even a hint of
+an attack by White.}) 21. Nh6+ Kg7 22. Nb3 Nxe2 $6 {There's a great temptation as
+Black to cash in, but it was better to keep a knight on f4 to block any
+posisble attack by White, and} (22... f6 23. Bd2 (23. Bxf4 Nxf4 24. Rd1 Qe7 {
+doesn't help White at all.})) 23. Qxe2 Nd4 24. Qd3 Nxb3 $2 {Now the white
+queen has a route to the kingside.} (24... Qe7 {was safer and better.}) 25.
+Qxb3 Qd4 {[#]} 26. Qf3 Qxc4 27. b3 Qe6 28. h5 Rad8 29. hxg6 $6 {A mistake, when}
+(29. Ng4 Rd3 30. Qf6+ Kg8 31. Qxe6 (31. hxg6 $2 Rd1+ $1 32. Kxd1 Qxb3+ 33. Ke1
+Qc3+) 31... Rxe6 32. Nf6+ Rxf6 {is probably what you'd play if you were
+trying to win, but} (32... Kf8 33. hxg6 Bd6 34. Bd2 fxg6 35. Rxh7) 33. gxf6 Bd6
+34. Ba3 {is okay for White.} ({Or, indeed, "Startling Castling":} 34. O-O)) 29...
+fxg6 $1 (29... hxg6 30. Ng4 Rh8 31. Qf6+ Qxf6 32. gxf6+ Kg8 33. Rxh8+ Kxh8 34.
+Nh6 {is quite nice for White.}) 30. Ng4 Rd3 31. Qf6+ Qxf6 {[#]} 32. Rxh7+ ({
+EW gives this beautiful variation:} 32. gxf6+ Kh8 $1 33. Bh6 Kg8 34. Bg7 h5 35.
+Nh6+ Kh7 36. f7 Red8 37. f8=Q {and now the engine move} Bd6 $3 {The line
+continues} (37... Rxf8 38. Bxf8 Rd8 39. Be7 Kxh6 {is clearly better for White.}
+) 38. Qxd6 $1 R3xd6 39. Bxe5 (39. Nf7 Kxg7 40. Nxd6 Rxd6 {is better for Black.})
+39... Rd2 40. Nf7 Re2+ 41. Kf1 Rf8 42. Ng5+ Kh6 43. f4 Rxe4+ 44. Kg1 Rxe5 45.
+fxe5 Kxg5) 32... Kxh7 33. Nxf6+ Kh8 34. Nxe8 Bd8 35. Bb2 Bxg5 36. Bxe5+ Kg8 37.
+Nc7 Bc8 38. Rd1 Rxb3 {Of course, EW plays to win. Instead} (38... Rxd1+ 39. Kxd1
+{should be an equal endgame.}) 39. Rd6 Kf7 40. Rxc6 Bg4 $6 (40... Bb7 41. Rc4 (
+41. Rd6 Be7 42. Rd4 Bc6) 41... Rb4 42. Rxb4 axb4 43. f3 Bf6 {This presumably
+"should" be a draw, but the two bishops look nice.}) 41. f4 Be7 42. Nd5 Bc5 43.
+Rc7+ {[#]} Ke8 $2 {Losing.} (43... Kf8 $1 {defended, when if} 44. Bg7+ Ke8 45.
+Nf6+ Kd8 46. Rxc5 bxc5 47. Nxg4 Rb4 48. Nf2 Rxa4 49. Ke2 Ra2+ 50. Kf3 a4 {
+the a-pawn should (at least) save Black.}) 44. Nf6+ Kd8 45. Nxg4 Rb4 46. Nf6
+Rxa4 47. Rg7 (47. Rd7+ Kc8 48. Kd2 {keeps more control.}) 47... Ra2 48. Rxg6 a4
+{After going through fire, Guy has won a piece, but the endgame remains
+extremely tense as Black tries to run his passers.} 49. f5 b5 50. Nd5 b4 51. f6
+b3 52. Rg8+ Kd7 {[#] This is a position which I would find extremely hard to
+play well with oodles of time on my clock, let alone in a scramble. Engines now
+tell us that f7 is a mistake, but it's very far from obvious.} 53. f7 $6 (53.
+Rb8 Rf2 54. Rb7+ $1 Kd8 (54... Kc6 $2 55. Rc7+ Kb5 56. Rxc5+) (54... Ke6 55.
+Re7+ $1 Bxe7 56. fxe7) (54... Ke8 55. Nc7+ Kf7 56. Na6+) 55. Rb5 Ba7 56. Ra5 b2
+57. Bxb2 Rxb2 58. Rxa7 {wins.}) 53... Rf2 (53... b2 $1 54. Bxb2 Rxb2 55. f8=Q
+Bxf8 56. Rxf8 a3 57. Nc3 a2 58. Nxa2 Rxa2) 54. Nf6+ $6 (54. Nf4 $1 {was
+apparently still winning.} b2 (54... a3 55. Nd3 b2 56. Nxc5+ Ke7 57. Kxf2) 55.
+Rb8 a3 56. Rb7+ $1 (56. f8=Q $2 Bxf8 57. Kxf2 Bd6 $1 58. Bxd6 Kxd6 59. e5+ Kc7
+60. e6 Kxb8 61. e7 b1=Q) 56... Kc6 57. Rc7+ Kb6 58. Nd5+ Ka6 59. Rc6+ Kb7 60.
+Rxc5 Rxf7 61. Bxb2 axb2 62. Rb5+ Kc6 63. Rxb2) 54... Ke6 {[#] And here it
+happened. Guy picked up his pawn to promote it and, not seeing a queen to hand,
+did what everybody has done in blitz games since time immemorial: put it on f8,
+said "queen", and hit the clock. Unfortunately, this is not allowed under the
+rules (incidentally, if you turn a rook upside down and say "queen" then it is
+a rook, and when you attempt to move it as a queen you've made an illegial move).
+His opponent called over the tournament director - who ideally should have
+been there with a queen in his hand for Guy - and, in accordance with the FIDE
+rules, the TD awarded the IM, who at that stage had 12 seconds left, an extra
+two minutes. What Guy should have done is to stop the clock and go and find a
+queen or scream for one, but he didn't know thisb and I'm not a great fan of
+this rule anyway, since I feel that once you're effectively playing blitz
+there should be some latitude - maybe a warning rather than an actual penalty.
+I've also fallen foul of the rule myself at least once in a tournament blitz
+game (happily at a time when your opponent got an extra two minutes rather
+than winning instantly as under the previous rule). There have also been a few
+high profile games where somebody has queened illegally and their opponent has
+claimed a win. In any case, Guy was now fatally behind on the clock and his
+opponent, rated more than 350 points above him, gained a rather Pyrrhic
+victory.} 55. f8=Q Bxf8 56. Rxf8 b2 $2 (56... Kxe5 $1 57. Ng4+ Ke6 58. Nxf2 b2
+59. Rb8 a3 60. Nd3 a2 61. Rxb2 a1=Q+ 62. Ke2 {is drawn.}) 57. Rb8 (57. Re8+ $1
+Kf7 58. Rb8 {was winning.}) 57... Kxe5 58. Kxf2 a3 59. Nd5 a2 60. Rxb2 {[#] And
+in this drawn position Guy lost on time. What a shame, after he had fought his
+way back from an abysmal opening to reach a winning position and would
+presumably have at least drawn had it not been for a technicality.} 0-1
+
+

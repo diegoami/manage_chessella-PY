@@ -1,0 +1,74 @@
+
+
+[Event "Belt and Road Hunan Op A"]
+[Site "Changsha CHN"]
+[Date "2019.08.06"]
+[Round "8.1"]
+[White "Wang, Hao"]
+[Black "Ganguly, Surya Shekhar"]
+[Result "0-1"]
+[ECO "E54"]
+[WhiteElo "2725"]
+[BlackElo "2638"]
+[Annotator "Sagar,Shah"]
+[PlyCount "76"]
+[EventDate "2019.07.29"]
+
+{[%evp 0,76,22,-27,-1,-16,-1,-1,20,20,33,22,20,20,23,23,28,28,28,28,63,5,3,-4,
+1,6,6,6,-9,-14,0,11,3,20,1,1,24,23,24,16,18,24,30,19,13,15,8,8,8,0,29,15,7,21,
+14,23,20,20,20,66,75,75,75,72,72,69,69,29,42,8,9,1,4,-83,-48,-152,-152,-201,
+-203]} 1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 dxc4 7. Bxc4 c5
+8. O-O cxd4 9. exd4 b6 10. Bg5 Bb7 11. Rc1 Nc6 12. a3 Be7 13. Qd3 h6 14. Bh4
+Nh5 15. Bg3 Nxg3 16. hxg3 Bf6 17. Rfd1 Ne7 18. Ne4 Nd5 19. Ba6 Qe7 20. Ne5 Rfd8
+21. Qe2 Bxa6 22. Qxa6 Bxe5 23. dxe5 $14 {Let's have a look at this position in
+some depth. What do you think about the evaluation of this position? Let's try
+to understand the imbalances. 1. White has more space thanks to his e5 pawn
+and his knight can jump to a nice outpost on d6. The space issue doesn't
+handicap Black completely because there are not many pieces on the board.
+However, still it does look a tad uncomfortable for Black. 2. The c-file is
+completely in White's control. He can double his rooks, but because c7 is
+always guarded it is not such a big issue. 3. White has doubled pawns on the
+kingside and this is not a big drawback. In fact it can be used to launch a
+slow attack on Black's king with ideas like g4-g3-Kg2 and so on. All in all it
+seems like White should have a small edge here. It is quite amazing that in 15
+moves, White loses the game.} Rd7 {Ganguly decides to double the rooks down
+the d-file.} 24. Rd2 Rad8 25. Qe2 {The queen wasn't doing much on a6 and so it
+comes back.} Rc7 26. Rcd1 {Keeping the two rooks on the board ensures that
+White has good attacking chances.} (26. Rxc7 Nxc7) 26... Rdc8 {It's Black who
+now has the c-file under his control, at least temporarily.} 27. Nd6 Rf8 28.
+Rd4 {The rook is planning to swing over to g4. Surya now feels a bit
+suffocated and tries to break free.} f6 $5 29. Nb5 (29. exf6 Qxd6) 29... Rd7
+30. exf6 Qxf6 {The structure has changed once again and new imbalances have
+been created. Black's space issues have been resolved, but he now has a new
+weakness - the pawn on e6. White can now build up on it and create a lot of
+pressure.} 31. Re4 {The rook is well placed on e4 but tactically it could have
+been better to continue with Ra4.} (31. R4d2 {[%cal Gb5d4,Gd4f3] to get the
+knight to d4 and f3 was also a solid way to continue.}) (31. Ra4 $1 Qf7 32. Nd4
+Rfd8 33. Re1 Nf6 34. Nf3 $14 {[%csl Re6] White has been able to coordinate his
+forces much better than what he did in the game and keep pressure.}) 31... a6
+32. Nd4 Nc7 {Surya has to go slightly passive in order to defend his e6 pawn.
+But you can see that White is experiencing small problems related to his
+coordination. The knight on d4 cannot move as then Rxd1 Qxd1 will hang the b2
+pawn. And next Rfd8 is coming up.} 33. Rd3 (33. Rf4 $5 Qd8 34. Rxf8+ Qxf8 (
+34... Kxf8 35. Qe5 {[%cal Gd1d3,Gd3f3]} Kf7 36. Rd3 $14) 35. Nf3 $14) (33. Nf3
+Rxd1+ 34. Qxd1 Qxb2) 33... Rfd8 {Black puts more pressure on the d4 knight.
+But Wang Hao had this covered.} 34. Rf3 {Attacking the queen.} Qg5 35. Rff4 $6
+(35. Nxe6 {would have been ideal, but doesn't work due to} Rd1+ 36. Kh2 Nxe6
+37. Rxe6 Qh5#) (35. Rc3 {was another possibility.} Rxd4 36. Rxd4 Rxd4 37. Rxc7
+Qd5 $11) (35. Re5 Qg6 (35... Qc1+ 36. Kh2 Rxd4 37. Rc3) 36. Nc6 Rd1+ 37. Kh2
+Qb1 38. g4 {White looks better here, but this is not where you want to go when
+you have a small edge.}) 35... Nd5 36. Nxe6 $6 {Wang Hao takes the pawn on e6
+and forks two of Black's pieces.} (36. Rh4 {And it doesn't seem like in this
+position White can be worse.}) 36... Nxf4 {As the queen is hanging on e2 with
+a check, the knight has to be taken.} 37. Rxf4 $2 {The losing mistake of the
+game.} (37. gxf4 Rd1+ 38. Kh2 Qh4#) (37. Nxf4 {[%csl Gf4] is a forced move.
+Although Black is materially up now, The position is around even because the
+knight is well placed on f4.}) 37... Re7 $1 {Ganguly was extremely alert and
+he finds the best possibility in the position. Now taking the queen is not
+possible as his own queen on e2 is hanging.} (37... Re8 38. Rf8+ Rxf8 39. Nxg5
+hxg5 40. Qe6+ Rff7 41. Qxb6 {White is in complete control here.}) (37... Qe7
+38. Re4 {[%csl Rd8][%cal Ge2c4,Gc4a6]}) 38. Re4 (38. Qc4 Rd1+ 39. Kh2 Qh5+ 40.
+Rh4 Qf7 {Black is winning.}) (38. Nxg5 Rxe2) 38... Qd5 {Black has managed to
+save everything and next Rde8 will win the house. Also the threat is to play
+Qd1+ and exchange the queens. Seeing all of this Wang Hao resigned and Ganguly
+moved closer towards tournament victory and US $50,000.} 0-1

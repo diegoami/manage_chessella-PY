@@ -1,0 +1,1147 @@
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.06.30"]
+[Round "1.1"]
+[White "Rapport, Richard"]
+[Black "Artemiev, Vladislav"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2735"]
+[BlackElo "2761"]
+[Annotator "TA"]
+[PlyCount "69"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,69,5,10,18,14,7,10,10,13,5,20,7,3,0,11,5,10,3,22,0,6,-4,-12,0,2,0,0,
+-2,0,0,6,8,2,0,13,11,12,0,11,10,10,4,6,8,18,18,17,9,14,0,13,0,8,0,19,0,0,0,18,
+0]} 1. Nf3 Nf6 2. c4 c6 3. d4 d5 4. Qb3 e6 5. Bg5 Nbd7 6. Nc3 Qa5 {The
+position is equal.} 7. Bd2 {D43: Semi-Slav: 5 Bg5 h6} (7. cxd5 exd5 8. e3 Ne4
+9. Bd3 Nxg5 10. Nxg5 Be7 11. Nf3 O-O 12. O-O Qd8 13. Qc2 g6 14. a3 a5 15. Rab1
+Bd6 16. b4 axb4 17. axb4 {1/2-1/2 (44) Caruana,F (2770)-Kamsky,G (2741) Achaea
+2012}) 7... Qb6 8. Qc2 Be7 9. e3 O-O 10. Rc1 Qd8 11. Be2 $146 ({Predecessor:} 
+11. Bd3 dxc4 12. Bxc4 h6 13. O-O Bd6 14. Ne4 Nxe4 15. Qxe4 Qe7 {1-0 (40) Kuna,
+V (2009)-Mandak,M (1976) Slovakia 2018}) 11... b6 12. O-O Bb7 13. cxd5 cxd5 14.
+Bd3 Rc8 15. Qb1 a6 16. a4 Bd6 17. Ne2 Ne4 18. Rxc8 Qxc8 19. Rc1 Qb8 20. Be1 h6
+21. h3 Rc8 22. b4 {[%cal Bb2b4,Bb4b5][%mdl 32]} Be7 23. b5 a5 24. Rc2 Bd6 25.
+Rxc8+ Qxc8 26. Nd2 {[%cal Rd2e4]} Nxd2 (26... Nef6 {keeps more tension.} 27.
+Qc2 Qf8 28. f4 Qb8 29. g4 Bb4) 27. Bxd2 Kf8 28. Bc3 Qc7 29. Qa1 Nf6 30. Bb2 Bb4
+31. Bc3 Be7 32. Bb2 Bb4 33. Bc3 Be7 34. Bb2 Bb4 35. Bc3 {Accuracy: White = 54%,
+Black = 45%.} 1/2-1/2
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.06.30"]
+[Round "1.2"]
+[White "Wang, Hao"]
+[Black "Wei, Yi"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[WhiteElo "2737"]
+[BlackElo "2741"]
+[Annotator "TA"]
+[PlyCount "49"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-17,0,-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4
+$1 7. a3 {E32: Nimzo-Indian: Classical (4 Qc2): 4...0-0} (7. Bd3 c5 8. Nf3 cxd4
+9. Nxd4 Nd7 10. Bf4 Qh4 11. g3 Qh5 12. h4 Nxe5 13. Be2 Ng4 14. Bxg4 Qxg4 15. f3
+Qh5 {1-0 (36) Vallejo Pons,F (2707)-So,W (2780) Leon 2018}) 7... Bxc3+ $1 8.
+bxc3 c5 $1 9. Bd3 Qa5 10. Ne2 {[#] Strongly threatening f3.} cxd4 11. cxd5 exd5
+12. f3 Nxc3 13. Nxd4 {And now Bd2 would win.} Ne4+ 14. Ke2 f5 15. e6 $146 {
+The position is equal.} (15. fxe4 fxe4 16. Bxe4 (16. Bb5 $2 Bg4+ 17. Ke3 Qd8
+$19) 16... dxe4 $17) 15... Nc6 16. Nxc6 bxc6 17. e7 $1 {[%cal Re7f8]} Re8 18.
+Qxc6 {[%cal Rc6e8][%mdl 64] [#] Double Attack} Rxe7 19. Qxa8 Ng3+ {[%mdl 64]
+Double Attack, Discovered Attack (Double check)} 20. Kd1 Qc3 21. Bd2 $1 {
+[%cal Rd2c3]} ({But not} 21. Qxd5+ $2 Be6 $19) 21... Qxa1+ 22. Bc1 Qc3 $1 {
+[%cal Rc3d3]} 23. Bd2 $1 {[%cal Rd2c3]} (23. Qxd5+ $2 Be6 $19) 23... Qa1+ ({
+Wrong is} 23... Qxd3 $2 24. Qxc8+ Kf7 25. hxg3 $18) 24. Bc1 Qc3 25. Bd2 $1 {
+Accuracy: White = 100%, Black = 89%.} ({Not} 25. Qxd5+ $2 Be6 $19) 1/2-1/2
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.06.30"]
+[Round "1.3"]
+[White "Yu, Yangyi"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "2738"]
+[BlackElo "2707"]
+[Annotator "TA"]
+[PlyCount "75"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,75,19,23,16,38,18,28,10,22,19,15,9,3,5,12,0,0,0,0,0,11,0,12,0,8,0,0,0,
+0,0,6,0,7,-13,0,0,22,11,27,19,138,118,243,216,266,252,258,262,255,243,304,302,
+530,299,310,321,310,242,290,199,196,210,627,614,1184,1167,2325,1316]} 1. e4 e5
+2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Bg5 Be7 6. a4 {C50: Hungarian Defence and
+Giuoco Pianissimo} O-O 7. Nc3 d6 8. h3 $146 {White has an edge.} ({Predecessor:
+} 8. O-O Kh8 9. h3 Be6 10. Re1 a6 11. Rb1 h6 12. Bxf6 Bxf6 13. Nd5 Rb8 14. b4
+Bxd5 15. exd5 {1/2-1/2 (37) Kogan,A (2569)-Roiz,M (2680) Helsingor 2008}) 8...
+Be6 9. Bxf6 Bxf6 10. Bxe6 fxe6 11. O-O d5 12. Qe2 Qd7 13. Nb1 a5 14. Nbd2 Rad8
+15. Nb1 Ra8 16. Nbd2 Rad8 17. g3 Be7 18. Kg2 Bd6 19. h4 Qe8 20. c3 h6 21. Rh1
+Qh5 22. Rae1 Bc5 23. Rhf1 Qg6 24. Nh2 Rf6 {[#]} (24... Bb6 $11 {remains equal.}
+) 25. h5 $1 $16 {[%cal Rh5g6]} Qh7 (25... Qe8 $16 {is a better defense.}) 26.
+Ng4 $18 Rf7 27. Nf3 Bd6 28. Nh4 Ne7 29. Qd1 d4 30. Qb3 {[%mdl 64] Double Attack
+} dxc3 $2 (30... Kh8 31. Nxe5 (31. Qxb7 dxc3 32. bxc3 g6 $18) (31. Qxe6 Qg8 $16
+) 31... Bxe5) 31. bxc3 Kh8 32. Qxe6 ({Don't take} 32. Qxb7 $6 g6 $18) 32... Qg8
+{And now ...Rxf2+! would win.} 33. Qc4 Qe8 {Now ...Rf8 and Black clings on.}
+34. Rh1 Rf8 35. Qe6 Qc6 $2 (35... Kh7 36. Re3 Bc5) 36. Ng6+ {White is clearly
+winning.} ({Worse is} 36. Nxh6 Rxf2+ 37. Kh3 gxh6 $11) 36... Nxg6 37. hxg6 {
+White threatens Nxh6! and mate.} Bc5 {[#]} 38. Rxh6+ $1 {[%mdl 512] Accuracy:
+White = 66%, Black = 39%.} 1-0
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.06.30"]
+[Round "1.4"]
+[White "Amin, Bassem"]
+[Black "Inarkiev, Ernesto"]
+[Result "0-1"]
+[ECO "A08"]
+[WhiteElo "2707"]
+[BlackElo "2693"]
+[Annotator "TA"]
+[PlyCount "108"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,108,0,-18,0,0,20,0,0,0,0,-19,-19,-22,-18,-34,0,0,0,-10,0,0,0,0,0,-85,
+-74,-78,-70,-64,-16,-16,-16,-15,-15,-15,-29,-22,-14,-41,-42,-36,-49,-43,-41,
+-58,-58,-58,-58,-58,-45,-83,-54,-80,-77,-83,-80,-284,-182,-150,-151,-184,-184,
+-184,-123,-208,-208,-1819,-1513,-1306,-1187,-3825,-3825,-1379,-901,-3599,-3321,
+-3245,-388,-2847,-3245,-2714,-2643,-1858,-2110,-1866,-1786,-1471,-1290,-4582,
+-1421,-6100,-476]} 1. Nf3 d5 2. g3 Nf6 3. Bg2 g6 4. O-O Bg7 5. d3 O-O 6. Nbd2
+c5 7. e4 Nc6 8. Re1 e5 9. exd5 Nxd5 10. c3 h6 {A08: King's Indian Attack} (
+10... b6 11. Nc4 Re8 12. Ng5 f6 13. Qb3 Nce7 14. Ne4 Be6 15. f4 Nc7 16. fxe5
+fxe5 17. Qc2 Rf8 18. Ng5 Bd5 19. Nxe5 Bxg2 20. Qxg2 Bxe5 21. Rxe5 Qxd3 {
+1-0 (39) Amin,B (2684)-Fier,A (2561) Abu Dhabi 2018}) 11. Qb3 Nb6 12. Ne4 Be6 {
+The position is equal.} 13. c4 $146 ({Predecessor:} 13. Qa3 c4 14. Nc5 cxd3 15.
+Nxe6 fxe6 16. Nd2 Kh7 17. Ne4 Nc4 {1-0 (38) Mazurkiewicz,M (2215)-Kulon,K 
+(2346) Trzcianka 2016}) 13... Nd7 14. Be3 b6 15. Qa4 Qc7 16. Nc3 Rad8 17. Nb5
+Qb7 18. Bd2 a6 19. Nc3 $1 Rc8 20. a3 Rfd8 21. b4 {[#]} (21. Rac1 $11) 21... b5
+$1 $17 {[%cal Rb5a4][%mdl 512]} 22. cxb5 axb5 23. Qxb5 Qxb5 (23... Qa8 {
+keeps more tension.} 24. Reb1 Rb8 25. Qa4 Qxa4 26. Nxa4 e4) 24. Nxb5 cxb4 25.
+axb4 e4 26. dxe4 Bxa1 27. Rxa1 g5 28. Bc3 g4 29. Nh4 Nde5 30. Bf1 Rd7 31. Nf5
+Bxf5 32. exf5 Nf3+ 33. Kg2 Ne7 34. Be2 Nxf5 35. Ra6 Rd5 {...Rxb5! is the
+strong threat.} 36. Rb6 h5 37. h3 $2 (37. Bxf3 $17 gxf3+ 38. Kxf3) 37... N5d4
+38. Bxd4 Nxd4 39. Nxd4 Rxd4 40. hxg4 {[#]} hxg4 $19 {[%mdl 4096] Endgame
+KRR-KRB} ({Better is} 40... Rc2 $1 $19 {[%cal Rc2e2]} 41. Bf1 hxg4) 41. b5 (41.
+Rb5 $17 {was necessary.}) 41... Rc2 42. Rb8+ $2 (42. Bf1) 42... Kg7 43. Re8
+Rdd2 44. Bxg4 Rxf2+ 45. Kg1 Rg2+ 46. Kf1 Rh2 {[%cal Rh2h1]} 47. Kg1 Rcg2+ 48.
+Kf1 Rb2 {[%cal Rh2h1] Black is clearly winning.} 49. Kg1 Rhg2+ 50. Kf1 Rxg3 51.
+Be2 f5 52. Kf2 Rgb3 53. Ke1 f4 54. Kd1 Re3 {Accuracy: White = 41%, Black = 85%.
+} (54... Ra2 $142 {[%cal Rb3b1]} 55. Ke1 f3) 0-1
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.01"]
+[Round "2.1"]
+[White "Artemiev, Vladislav"]
+[Black "Inarkiev, Ernesto"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[WhiteElo "2761"]
+[BlackElo "2693"]
+[Annotator "TA"]
+[PlyCount "144"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,144,-14,-14,-20,-31,-20,-4,-12,26,25,53,62,51,54,47,52,52,0,0,10,64,
+73,62,58,81,89,135,107,97,68,116,109,109,108,97,103,110,110,110,109,96,98,109,
+36,44,31,105,94,98,102,87,101,172,179,166,166,180,169,178,177,185,184,230,118,
+134,129,167,122,204,214,205,194,240,0,95,0,214,190,211,200,211,170,164,173,173,
+175,176,175,174,157,155,152,213,171,178,143,240,177,363,222,329,320,291,232,
+254,255,241,178,394,331,246,6,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0]} 1. c4 e6 2. b3 d5 3. e3 (3. Bb2 d4 4. Nf3 Nc6 5. g3 e5 6. d3 Bc5 7. Bg2 Nf6
+8. O-O O-O 9. Nbd2 h6 10. Ne1 a5 11. Nc2 Bg4 12. Ba3 Bxa3 13. Nxa3 {0-1 (35)
+Shahade,G (2476)-Hammer,J (2645) San Francisco 2019}) 3... d4 4. exd4 $146 ({
+Predecessor:} 4. d3 Nc6 5. a3 a5 6. g3 Bc5 7. Bg2 e5 8. Nf3 Nf6 9. exd4 Nxd4
+10. Nxe5 {Bonthuys,A-Kireev,V (2210) ICCF email 2016}) 4... Nc6 5. Nf3 Nxd4 6.
+Nxd4 {A13: English Opening: 1...e6} Qxd4 7. Nc3 $1 Ne7 8. Bb2 c5 9. Qf3 Qd7 10.
+O-O-O Nc6 11. Qg3 $1 f6 12. Nb5 e5 13. f4 {[%cal Rf4e5]} a6 $1 {[%cal Ra6b5]}
+14. Nc3 exf4 (14... Bd6 $11) 15. Qxf4 $14 {aiming for Nd5.} Bd6 16. Qe3+ Kf7
+17. Be2 Nd4 18. Bh5+ g6 19. Rdf1 Nf5 (19... gxh5 $2 20. Rxf6+ $1 {[%mdl 512]}
+Kxf6 21. Ne4+ Ke7 22. Qg5+ Ke8 23. Nf6+ Kd8 24. Nxd7+ Kxd7 25. Bxd4 $18) 20.
+Qf3 Be5 (20... gxh5 $2 21. Nd5 $18) 21. Bg4 $1 Rd8 22. Nd5 {Hoping for Bxe5.}
+Qd6 23. Bxf5 Bxf5 24. g4 Bxb2+ 25. Kxb2 Qe5+ 26. Qc3 (26. Ka3 $16 Rxd5 27. gxf5
+(27. cxd5 $2 {too greedy.} b5 $19) (27. Qxd5+ Qxd5 28. cxd5 Be4 $16)) 26...
+Qxc3+ 27. Kxc3 Bxg4 (27... Be4 $1 $14) 28. Rxf6+ $16 Kg7 {...Rxd5! is the
+strong threat.} 29. Rb6 $1 $36 {[%mdl 2048] Keeping Black busy.} Bf3 30. Rxb7+
+Kh6 (30... Kg8 $16) 31. Re1 $18 Bxd5 32. cxd5 Rxd5 {[%mdl 4096] Endgame KRR-KRR
+} 33. Ree7 Rh8 34. Ra7 $1 Rd6 35. a4 Rf6 36. Re3 ({White should play} 36. a5
+$18) 36... g5 37. Rc7 g4 38. h3 gxh3 (38... Kh5 $16) 39. Rxh3+ (39. Rxc5 $6 h2
+$16) 39... Kg6 40. Rg3+ ({Much less strong is} 40. Rxc5 $6 h5 $16) 40... Kh6
+41. Rh3+ (41. Rxc5 $18 Rb8 42. b4) 41... Kg6 $1 $16 42. Rg3+ (42. Rxc5 $16 h5
+43. a5) 42... Kf5 $2 (42... Kh6 $1 $11 {and Black stays safe.}) 43. Rxc5+ $18
+Kf4 44. Rg1 Rd6 45. Rf1+ Kg4 {[#]} 46. Rc7 $1 Kg3 47. Rg7+ Kh2 48. Rf4 {
+[%cal Rf4h4]} Kh3 49. b4 h5 50. d4 Rc8+ (50... Rc6+ $16 51. Kb3 Rc1) 51. Kd3
+Rdc6 52. Rf3+ Kh4 (52... Kh2 $16) 53. Ke4 Rb6 $2 (53... Re8+ 54. Kd3 Rec8) 54.
+Rf4+ Kh3 55. Rf1 {[%cal Rf1h1]} Kh2 56. Rf5 {[%cal Rf5h5]} h4 57. b5 axb5 58.
+axb5 Rc3 $2 (58... Rcb8) 59. Rf2+ Kh3 {[#]} 60. Rf4 $2 (60. Rb2 $1 $18) 60...
+Rg3 $11 61. Rh7 Rg4 {The position is equal.} 62. d5 Rxb5 {Strongly threatening
+...Rb4+.} 63. Rxg4 Kxg4 {KR-KR} 64. Rg7+ Kh5 65. d6 Rb1 66. d7 Rd1 67. Kf5 {
+[%cal Rg7h7]} Kh6 68. Kf6 Rd6+ 69. Ke5 Rd1 70. Rf7 {And now Rf6+ would win.} h3
+71. Rf6+ Kg7 {White must now prevent ...h2.} 72. Rd6 Rxd6 {Accuracy: White =
+61%, Black = 54%.} 1/2-1/2
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.01"]
+[Round "2.2"]
+[White "Vidit, Santosh Gujrathi"]
+[Black "Amin, Bassem"]
+[Result "1/2-1/2"]
+[ECO "E84"]
+[WhiteElo "2707"]
+[BlackElo "2707"]
+[Annotator "TA"]
+[PlyCount "66"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,66,41,51,48,43,53,56,47,64,52,42,68,62,-20,-25,-18,-26,-32,-2,-50,10,
+0,0,0,0,0,47,52,48,0,0,0,0,-11,0,0,0,0,0,-7,-7,-7,-6,-6,-4,-6,0,0,0,-6,0]} 1.
+d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 a6 7. Qd2 Nc6 8. Nge2 Rb8
+9. Rc1 Bd7 10. Nd1 {E84: King's Indian: Sämisch Panno: 7 Nge2 a6 8 Qd2 Rb8} Re8
+(10... b5 11. c5 Ne8 12. Nf2 e6 13. g3 f5 14. Bg2 Nf6 15. O-O Kh8 16. b3 d5 17.
+e5 Ng8 {1-0 (69) Vitiugov,N (2734)-Hjartarson,J (2523) Helsingor 2018}) 11. Nf2
+b5 12. c5 {White is slightly better.} dxc5 13. Rxc5 e5 14. d5 Ne7 15. Rc1 (15.
+Qc1 $14) 15... c6 $11 {[%cal Rc6d5]} 16. dxc6 Nxc6 17. Nd3 Qe7 $146 ({
+Predecessor:} 17... Rc8) 18. Nc5 Red8 (18... Be6 $15) 19. Nxa6 Rb7 $1 20. a3
+Be6 21. Qc3 Nd4 22. Qb4 $1 Rd6 23. Nc5 ({But not} 23. Bxd4 exd4 24. Nxd4 (24.
+Nc5 d3 $19) 24... Rxa6 $17) 23... Nc6 {The position is equal.} 24. Qc3 b4 25.
+Qc2 Rb8 26. Nxe6 Qxe6 27. Ng3 bxa3 28. bxa3 Nd4 29. Qc7 Qb3 30. Rc3 $132 {
+[%mdl 2048] White is fighting back} Qb1+ 31. Rc1 Qb3 32. Rc3 Qb1+ 33. Rc1 {[#]}
+Qb3 $1 {[%mdl 512] Accuracy: White = 76%, Black = 54%.} 1/2-1/2
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.01"]
+[Round "2.3"]
+[White "Wei, Yi"]
+[Black "Yu, Yangyi"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2741"]
+[BlackElo "2738"]
+[Annotator "TA"]
+[PlyCount "111"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,111,22,13,27,22,12,13,11,20,1,7,-16,0,0,0,0,20,20,65,72,63,58,57,60,
+60,60,78,78,78,78,78,78,78,78,78,78,78,72,72,72,72,72,72,72,72,72,72,72,72,0,
+72,0,72,72,72,72,72,52,52,52,52,0,52,52,52,52,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3
+Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O 8. Qd2 {C42: Petroff Defence: 3 Nxe5
+and unusual White 3rd moves} Nd7 9. O-O-O Nf6 10. Bd3 Re8 (10... c5 11. Rhe1
+Be6 12. Bg5 d5 13. Qf4 Re8 14. Re5 Qc7 15. Qh4 h6 16. Bxh6 {1/2-1/2 (100)
+Navara,D (2739)-Gelfand,B (2655) Prague 2019}) 11. h4 d5 12. Bg5 $146 ({
+Predecessor:} 12. Ng5 h6 13. f3 c5 14. g4 Qa5 15. Kb1 c4 {0-1 (29) Borisek,J 
+(2578)-Bogner,S (2619) Batumi 2018}) 12... h6 13. Bxf6 Bxf6 14. Qf4 Be6 (14...
+Be7 {keeps more tension.} 15. Nd4 Qd6 16. Qf3 c6 17. g4 Qf6) 15. g4 {Hoping
+for g5.} Qd6 16. Qxd6 cxd6 17. Rdg1 Kf8 18. Nd4 Bd7 19. g5 Bxd4 20. cxd4 h5 21.
+Kd2 g6 22. Re1 Rxe1 23. Rxe1 Re8 24. Rxe8+ Kxe8 $16 {[%mdl 4096] Endgame KB-KB}
+25. f4 Bf5 26. Bxf5 gxf5 {KP-KP} 27. Kc3 Kd7 28. Kb4 Kc6 29. Ka5 Kc7 30. Kb5
+Kd7 31. Ka5 Kc7 $1 32. Kb5 Kd7 $1 33. a3 Kc7 34. Ka5 Kc6 35. a4 Kd7 36. Kb4 Kc6
+37. Ka5 Kd7 $1 38. Kb5 Kc7 39. b3 Kd7 40. a5 (40. Kb4 $14) 40... Kc8 $11 {
+The position is equal.} 41. a6 {b4 is the strong threat.} Kc7 42. Ka4 b6 $1 43.
+Kb5 Kd7 44. c3 Kc7 $1 45. c4 dxc4 46. bxc4 Kd7 47. c5 bxc5 $1 48. dxc5 {
+[#] Black must now prevent Kc4.} d5 49. c6+ Kd6 50. c7 $1 {[%cal Rc7c8]} Kxc7 {
+aiming for ...Kd6.} 51. Kc5 d4 $1 {[%cal Rd4d3]} 52. Kxd4 Kd6 53. Kc4 Kc6 $1
+54. Kd4 {[#] Threatens to win with Ke5.} Kd6 55. Kc4 Kc6 $1 56. Kd4 {Accuracy:
+White = 64%, Black = 88%.} 1/2-1/2
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.01"]
+[Round "2.4"]
+[White "Rapport, Richard"]
+[Black "Wang, Hao"]
+[Result "1/2-1/2"]
+[ECO "E05"]
+[WhiteElo "2735"]
+[BlackElo "2737"]
+[Annotator "TA"]
+[PlyCount "67"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,67,19,15,16,18,11,11,11,10,13,20,8,10,10,11,8,10,8,14,0,0,0,26,15,11,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4.
+O-O Be7 5. c4 O-O 6. d4 dxc4 7. Qc2 a6 8. a4 Bd7 9. Bg5 Bc6 10. Qxc4 Bd5 11.
+Qc2 Be4 12. Qc1 h6 13. Bxf6 {E05: Open Catalan: 5 Nf3 Be7} Bxf6 14. Rd1 a5 15.
+Nbd2 Bxf3 16. Bxf3 c6 17. Nb3 (17. e3 Nd7 18. h4 Be7 19. h5 Bb4 20. Nb3 Qe7 {
+1/2-1/2 (59) Vidit,S (2718)-So,W (2780) chess.com INT 2018}) 17... Na6 18. h4
+Qb6 {[#]} 19. Qc3 $146 ({Predecessor:} 19. Qc4 Rfd8 20. e3 Be7 {1/2-1/2 (31)
+Markus,R (2617)-Berkes,F (2658) Budapest 2017}) 19... Rfd8 20. e3 Nb4 21. h5
+Nd5 22. Qc4 e5 (22... Qc7 {is more complex.} 23. Qe2 Nb6 24. Nc5 Be7 25. Nd3
+Re8) 23. dxe5 Bxe5 {The position is equal.} 24. Bxd5 Rxd5 25. Rxd5 cxd5 26.
+Qxd5 Bxg3 27. fxg3 {Hoping for Nd4.} Rd8 $1 28. Qc4 {Nd4 is the strong threat.}
+({Don't blunder} 28. Qxa5 $2 Qxe3+ 29. Kg2 (29. Kh1 $2 Qf3+ 30. Kh2 Rd5 $19)
+29... Qe4+ 30. Kg1 Rd3 $19) 28... Qxe3+ {[%mdl 64] Double Attack} 29. Kg2 {
+Strongly threatening Rf1.} Rd3 30. Qc8+ {[#]} Kh7 $1 {[%mdl 512]} 31. Qf5+ {
+[%mdl 64] Double Attack} Kg8 32. Qc8+ {[#]} Kh7 $1 {[%mdl 512]} 33. Qf5+ {
+[%mdl 64] Double Attack} Kg8 34. Qc8+ {Accuracy: White = 70%, Black = 87%.}
+1/2-1/2
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.02"]
+[Round "3.1"]
+[White "Wang, Hao"]
+[Black "Artemiev, Vladislav"]
+[Result "1-0"]
+[ECO "D12"]
+[WhiteElo "2737"]
+[BlackElo "2761"]
+[Annotator "TA"]
+[PlyCount "152"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,152,24,32,29,38,29,33,16,30,27,31,24,27,18,41,45,49,22,34,19,18,10,
+41,54,35,32,24,25,16,0,12,9,14,0,0,0,0,0,0,0,0,0,0,-56,-52,-56,-50,-36,29,17,
+36,36,32,28,44,0,80,58,76,0,67,0,82,79,89,82,110,111,109,101,116,122,132,119,
+165,158,173,173,167,149,158,134,134,0,132,137,136,130,137,83,87,95,116,0,79,84,
+129,98,98,98,125,124,223,57,711,699,644,648,698,698,680,-5228,680,678,666,637,
+663,633,631,612,714,702,755,751,751,742,719,708,683,643,610,583,1598,4017,2249,
+3030,2601,2395,29975,29976,29981,29982,29982]} 1. Nf3 d5 2. d4 Nf6 3. c4 c6 4.
+e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Be2 {D12: Slav Defence: 3 Nf3 Nf6 4 e3 Bf5} Nbd7
+8. O-O Bd6 9. g3 {White is slightly better.} O-O 10. Nxg6 hxg6 11. b3 Qe7 12.
+Rb1 a5 $146 ({Predecessor:} 12... a6 13. Bb2 Rfd8 14. Bf3 Ne8 15. Qe2 f5 16.
+Bg2 Nef6 17. f3 Re8 18. f4 {1/2-1/2 (18) Kasimdzhanov,R (2702)-Vallejo Pons,F 
+(2696) Lugo 2009}) 13. Bb2 Ba3 14. Ba1 Rfd8 15. Bf3 Bb4 16. Bg2 e5 17. cxd5
+Bxc3 $1 18. d6 Qxd6 19. Bxc3 {dxe5 is the strong threat.} e4 20. Qd2 Qd5 21. a4
+Nf8 22. b4 axb4 23. Bxb4 c5 24. Ba5 Rd7 {[%cal Rc5d4]} 25. Rb5 Qd6 {[%cal
+Rc5d4]} 26. Bh3 Ne6 27. Rb6 (27. Qb2 $11) 27... Qd5 $15 28. Bxe6 $1 fxe6 29.
+Rb5 Qc4 ({Black should try} 29... Qh5 $15) 30. Rxc5 $11 Qxa4 31. Bc7 Nd5 32.
+Be5 Rf7 33. Qe2 Raf8 (33... b6 $11 34. Rcc1 Rf3) 34. Bd6 Rd8 35. Be5 (35. Bf4
+$5) 35... Rdf8 $1 36. Bd6 (36. Bf4 $5) 36... Rd8 37. Bf4 $1 Rf5 38. Qg4 b6 39.
+Rcc1 Nxf4 40. gxf4 Qe8 41. Rc7 Rf7 42. Rc2 Rc8 43. Rxc8 Qxc8 44. Qxg6 $18 {
+[%mdl 4096] Endgame KQR-KQR} Qc6 45. Kh1 Rf6 46. Qg5 Rf5 47. Qg6 (47. Qg1 $16)
+47... b5 (47... Rf6 $11 {remains equal.} 48. Qh5 Qd5 49. Qe8+ Rf8) 48. Rg1 {
+[%csl Gg1][%cal Rg6g7]} Qd7 49. Rb1 Qc6 50. Ra1 (50. h3 $142) 50... Rf6 $16 51.
+Qg5 {Strongly threatening Ra7.} Rf5 52. Qg6 {Ra7 would kill now.} Rf6 53. Qh5
+$40 {[%mdl 128] Threatens to win with Ra7. White has strong attack.} Rf5 54.
+Qd1 b4 55. Rc1 Qa6 56. Qc2 Rb5 {[#]} (56... Rf8 $16 {was called for.} 57. Kg2 (
+57. Qxe4 b3 $16) 57... Qb7) 57. Qxe4 $2 (57. Qc7 $1 $18 Rb7 58. Qd8+ Kf7 {[#]}
+59. f5 $1 {[%mdl 512]}) 57... b3 $2 {[%mdl 8192] [#]} (57... Rb6 $14) 58. Rc6
+$1 $18 {[%mdl 64] Double Attack} Qa8 59. Qxe6+ Kh8 60. Qc8+ Qxc8 61. Rxc8+ {
+KR-KR} Kh7 {And now ...b2 would win.} 62. Rc1 Kg6 63. Kg2 b2 64. Rb1 Kf5 {
+With the idea ...Ke4.} 65. Kf3 Rb3 66. Ke2 Ke4 67. Kd2 Rb8 68. Kc3 Rc8+ 69.
+Kxb2 Kd3 70. Rc1 Rb8+ 71. Ka3 Rb7 72. d5 Ke2 73. d6 Rd7 74. Rc6 Kxf2 75. e4 Ke3
+76. e5 Kd4 {Accuracy: White = 60%, Black = 52%.} 1-0
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.02"]
+[Round "3.2"]
+[White "Yu, Yangyi"]
+[Black "Rapport, Richard"]
+[Result "1/2-1/2"]
+[ECO "E39"]
+[WhiteElo "2738"]
+[BlackElo "2735"]
+[Annotator "TA"]
+[PlyCount "68"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,68,6,8,45,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+4. Qc2 O-O 5. Nf3 c5 6. dxc5 Na6 7. g3 Nxc5 8. Bg2 Nfe4 {E39: Nimzo-Indian:
+Classical: 4...c5 5 dxc5 0-0} (8... Nce4 9. O-O Nxc3 10. bxc3 Be7 11. e4 d6 12.
+e5 dxe5 13. Nxe5 Qc7 14. Qe2 Nd7 15. Bf4 Nxe5 16. Bxe5 Bd6 17. Rfe1 Rb8 18.
+Rad1 Bxe5 19. Qxe5 Qxe5 20. Rxe5 b6 21. c5 Ba6 22. c6 {1/2-1/2 (43) Nakamura,H
+(2781)-Caruana,F (2799) London 2017}) 9. O-O (9. Bd2 $5 {[%cal Rc3e4]} Bxc3 10.
+Bxc3 $11) 9... Bxc3 {The position is equal.} 10. bxc3 b6 11. Ng5 {[%mdl 64] [#]
+Pin} d5 12. Nxe4 dxe4 13. Bxe4 Nxe4 14. Qxe4 Ba6 15. Ba3 Re8 16. c5 $146 ({
+Predecessor:} 16. Rfd1) 16... Qd2 17. Rfe1 Qxc3 18. Bb4 Qc4 19. Qxc4 Bxc4 20.
+cxb6 axb6 21. a3 b5 22. f3 f6 23. Kf2 Kf7 24. Red1 Red8 25. Rxd8 Rxd8 $11 {
+[%mdl 4096] Endgame KRB-KRB} 26. a4 bxa4 27. Rxa4 Rd7 28. Bc5 Bd5 29. Ra7 Rxa7
+30. Bxa7 Ba8 31. Bc5 Bd5 32. Ba7 Ba8 33. Bc5 Bd5 34. Ba7 Ba8 {Accuracy: White
+= 71%, Black = 71%.} 1/2-1/2
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.02"]
+[Round "3.3"]
+[White "Amin, Bassem"]
+[Black "Wei, Yi"]
+[Result "0-1"]
+[ECO "D78"]
+[WhiteElo "2707"]
+[BlackElo "2741"]
+[Annotator "TA"]
+[PlyCount "56"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,86,-1,22,0,0,0,0,2,18,17,17,2,14,6,26,23,25,23,18,0,0,0,0,-46,-6,-12,
+0,0,0,-10,0,0,6,0,0,0,0,0,0,0,0,0,0,0,10,-75,-58,-172,-160,-185,-183,-166,-175,
+-296,-289,-243,-212,-581,-588,-1081,-1062,-1122,-1008,-1329,-1229,-1122,-846,
+-881,-878,-839,-816,-2062,-1950,-1572,-1425]} 1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4.
+d4 Nf6 5. O-O O-O 6. c4 c6 7. Qb3 a5 {[%cal Ba7a5,Ba5a4][%mdl 32]} 8. Bf4 {
+D78: Fianchetto Grünfeld: 6 0-0 c6} (8. cxd5 cxd5 9. Nc3 Nc6 10. Rd1 e6 11. Bf4
+Qe7 12. a3 Ne4 13. Nxe4 dxe4 14. Ne5 Nxe5 15. dxe5 a4 {1/2-1/2 (55) Vidit,S 
+(2707)-Korobov,A (2687) Hengshui 2019}) 8... a4 9. Qb4 dxc4 10. Qxc4 {The
+position is equal.} Qb6 11. Nc3 Be6 12. Qd3 $1 (12. Nxa4 $2 Qa5 $19) 12... Nd5
+$146 ({Predecessor:} 12... Rd8 13. Qc2 Qa5 14. e4 Na6 15. Rfd1 Nb4 {1-0 (31)
+Podgaets,M (2455)-Okhotnik,V (2200) Kiev 1986}) 13. Bg5 f6 14. Bc1 Rd8 15. e4
+Nb4 16. Qe2 (16. Qb1 {feels hotter.} Nd5 17. Ne2 Nd7 18. Re1 Nc7 19. Be3) 16...
+Qa6 $1 {[%cal Ra6e2]} 17. Qxa6 N8xa6 18. Rd1 Bg4 (18... Nc2 $5 {[%cal Rc2a1]}
+19. Rb1 Bg4 $15) 19. Rd2 Bh6 {...Bxf3 is the strong threat.} 20. Rd1 Bg7 21.
+Rd2 c5 22. d5 c4 23. Ne1 Nc5 24. Rd4 Ncd3 $36 {[%mdl 2048] Black has the
+initiative.} 25. Nxd3 Nxd3 26. Rxc4 a3 27. b3 $1 ({But not} 27. bxa3 Rdc8 $17)
+27... f5 {And now ...b5! would win.} 28. h3 Rdc8 {Played: Bg4-e2} 0-1
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.02"]
+[Round "3.4"]
+[White "Inarkiev, Ernesto"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2693"]
+[BlackElo "2707"]
+[Annotator "TA"]
+[PlyCount "72"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,72,0,14,0,0,0,0,0,0,0,0,0,0,0,0,-7,-8,-23,-10,-82,-31,-48,-46,-39,0,
+-23,0,0,-5,-61,37,-70,-64,-99,-94,-106,-106,-103,-55,-51,-61,-127,-97,-179,
+-188,-335,-341,-400,-434,-397,-420,-393,-394,-3246,-1112]} 1. e4 c5 2. Nf3 d6
+3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. Qd2 Nbd7 9. f3 h5 10.
+O-O-O Be7 11. Bg5 {B90: Sicilian Najdorf: Unusual White 6th moves, 6 Be3 Ng4
+and 6 Be3 e5} b5 12. h4 Rc8 13. Kb1 {The position is equal.} O-O 14. a3 Re8 {
+[#]} 15. Be2 $146 ({Predecessor:} 15. Bd3 Nb6 16. Na5 Qc7 17. g4 hxg4 18. fxg4
+{0-1 (46) Asis Gargatagli,H (2529)-Vachier Lagrave,M (2780) chess.com INT 2019}
+) 15... Qb6 16. Rhg1 Bf8 17. Nc1 Rc7 18. N1a2 Rec8 19. Rc1 (19. Bd3 $1 $11 {
+remains equal.}) 19... Qb7 ({Black should try} 19... Bxa2+ $1 $17 20. Kxa2 Rxc3
+21. bxc3 d5) 20. Rgd1 Rc5 21. Be3 $1 R5c7 22. Bg5 Nh7 23. Be3 Nb6 24. g4 (24.
+Bxb6 $11 Qxb6 25. g4) 24... hxg4 (24... Nc4 $15 25. Bxc4 bxc4 26. gxh5 Rb8) 25.
+fxg4 (25. Bxb6 $1 $14 Qxb6 26. fxg4) 25... Bxa2+ $15 26. Nxa2 Nc4 27. Qd3 d5
+28. g5 ({Don't go for} 28. exd5 $2 e4 $1 $19 {[%mdl 512]}) 28... dxe4 29. Qb3
+a5 {[%cal Ba6a5,Ba5a4][%mdl 32] ...a4 is the strong threat.} 30. Bg1 (30. Bd2
+$15) 30... a4 $36 {[%mdl 2048] Black is really pushing.} 31. Qg3 (31. Qh3 $17)
+31... b4 $19 32. axb4 {[#]} (32. Nxb4 {was called for.} Bxb4 33. Bxc4 Rxc4 34.
+axb4 Rxb4 35. g6 (35. Qxe5 $2 Rb5 $19) 35... Rxb2+ 36. Ka1) 32... Nxb2 $1 {
+[%mdl 512]} 33. Ba6 (33. Kxb2 Bxb4) 33... Qxa6 34. Kxb2 {[#]} Qe2 $1 {[%cal
+Rc7c2]} 35. Kb1 Rxc2 {( -> ...Rb2+)} 36. Qf2 $2 (36. Qa3) 36... Rb2+ {[%mdl 64]
+Double Attack. Accuracy: White = 35%, Black = 70%.} 0-1
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.03"]
+[Round "4.1"]
+[White "Artemiev, Vladislav"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "1-0"]
+[ECO "A37"]
+[WhiteElo "2761"]
+[BlackElo "2707"]
+[Annotator "TA"]
+[PlyCount "101"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,107,21,21,22,17,15,8,-13,45,37,30,28,29,43,107,114,104,113,108,61,56,
+62,133,132,138,124,130,124,125,132,114,117,136,111,135,143,131,127,118,120,118,
+115,133,132,125,125,132,132,129,93,227,227,223,172,151,103,257,251,257,247,313,
+312,308,310,237,160,215,91,94,101,116,145,280,288,272,273,265,254,248,271,
+29968,29969,29968,29970,29967,29969,29968,29969,29958,5097]} 1. c4 c5 2. g3 g6
+3. Bg2 Bg7 4. Nc3 Nc6 5. Nf3 e6 6. d4 cxd4 7. Nb5 d5 8. cxd5 exd5 9. O-O Nge7
+10. Nbxd4 O-O 11. b3 {A37: Symmetrical English vs ...g6: 4 Bg2 Bg7 5 Nf3} (11.
+Be3 Re8 12. Rc1 Nf5 13. Nxc6 bxc6 14. Bd4 Nxd4 15. Nxd4 Qb6 16. e3 Bxd4 17.
+Qxd4 Qxd4 18. exd4 Re2 {0-1 (37) Fressinet,L (2708)-Yu,Y (2668) Tromsoe 2014})
+11... Nf5 {[%cal Rf5d4]} 12. Nxc6 bxc6 13. Rb1 {The position is equal.} Qa5 (
+13... Re8 $11) 14. Bb2 $146 ({Predecessor:} 14. Qc2 Be6 15. Bf4 c5 16. Be5 f6
+17. Ba1 Rac8 18. Rfd1 Rfd8 {1/2-1/2 (45) Oboladze,L (2340)-Nasuta,G (2517)
+Skopje 2019}) 14... Qxa2 15. Bxg7 Kxg7 16. g4 Ne7 (16... Nd6 $14) 17. Qd4+ $1
+$16 f6 18. Qc5 $1 {[%cal Rc5e7]} Ng8 19. Qxc6 Bxg4 20. Nd4 Qa5 (20... Rac8 $14
+21. Qxd5 Qa6) 21. h3 $1 {[%cal Rh3g4]} ({Don't take} 21. Qxd5 $6 Qxd5 22. Bxd5
+Rad8 $14) 21... Bf5 22. Ra1 $36 {[%mdl 2048] White is really pushing.} ({
+Don't play} 22. Qxd5 $6 Qxd5 23. Bxd5 Bxb1 $14) (22. Bxd5 Ne7 $14) 22... Qb6
+23. Nxf5+ gxf5 24. Qxd5 Rae8 25. Qxf5 Re5 26. Qf3 Rfe8 27. e3 a5 28. Rab1 Ne7
+29. Rfd1 Ng6 30. Rd4 f5 31. Rd7+ R8e7 32. Rxe7+ Nxe7 33. Qg3+ Ng6 34. h4 {
+Hoping for h5.} h5 (34... Qf6 $16) 35. Rc1 $18 {Strongly threatening Rc6.} Qf6
+36. Rc7+ Re7 37. Rc6 Re6 $2 (37... f4 $16 38. exf4 (38. Rxf6 fxg3 39. Ra6 gxf2+
+40. Kxf2 Re5 $11) 38... Re1+ 39. Kh2 Qxh4+ 40. Qxh4 Nxh4) 38. Rxe6 Qxe6 39.
+Qc7+ $1 Kh6 40. Qxa5 Nxh4 41. Qd5 Qe7 42. Bh1 f4 {[#]} (42... Qg5+ $16 {
+was called for.} 43. Kf1 Qf6) 43. Be4 (43. Qc6+ $1 $18 {and the rest is easy.}
+Kg5 44. exf4+ Kxf4 45. Qc4+ Kg5 46. Be4) 43... fxe3 $16 44. fxe3 Qg7+ 45. Kf2
+Qb2+ (45... Qf6+ $16 {is a better defense.} 46. Ke2 Ng6) 46. Ke1 $18 Qc1+ 47.
+Ke2 {And now Qd6+ would win.} Qb2+ {[#]} 48. Qd2 $1 {[%cal Rd2b2]} Qe5 49. Qd4
+Qe7 $2 (49... Ng6 $18 50. b4 Qxd4 51. exd4 Nf8) 50. Bd3 {White mates.} Ng2 {[#]
+} 51. b4 {Played: Qd4-e4} 1-0
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.03"]
+[Round "4.2"]
+[White "Wei, Yi"]
+[Black "Inarkiev, Ernesto"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[WhiteElo "2741"]
+[BlackElo "2693"]
+[Annotator "TA"]
+[PlyCount "69"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,69,27,18,14,16,28,23,37,30,41,32,52,48,47,47,33,35,40,37,45,33,43,32,
+42,42,27,0,0,4,2,0,0,-45,-40,-44,-31,-91,-71,-90,-47,-56,-33,-55,-33,-33,-34,
+-21,-39,-25,-21,-20,0,0,0,-26,0,0]} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5.
+g3 Nc6 6. Bg2 Ne4 7. Bd2 Bxc3 8. bxc3 O-O {E20: Nimzo-Indian: 4 g3 and 4 f3} (
+8... Nxd2 9. Qxd2 d6 10. O-O Qe7 11. Qe3 O-O 12. dxc5 dxc5 13. Ne5 Nxe5 14.
+Qxe5 f6 15. Qe3 Rb8 16. a4 {1-0 (30) Mamedyarov,S (2756)-Jobava,B (2710)
+Plovdiv 2010}) 9. O-O d6 10. Be3 Qe7 {White has an edge.} 11. Qd3 Nf6 12. Nd2
+e5 $146 ({Predecessor:} 12... Bd7 13. Rab1 b6 14. dxc5 dxc5 {0-1 (50) Kogan,A 
+(2495)-Debnar,L (2250) Trencin 1995}) 13. dxc5 dxc5 14. Bg5 h6 15. Bxf6 Qxf6
+16. Qe3 Qe7 17. Nb3 Bg4 18. Nxc5 Na5 19. Nd3 Rfe8 20. Bd5 Rac8 21. Qe4 Be6 22.
+Rab1 b6 23. Rb4 Bxd5 24. cxd5 Rxc3 25. f4 (25. Rd1 $15) 25... exf4 $17 26. Rxf4
+Nb7 27. Qxe7 Rxe7 28. Rfe4 Kf8 29. Rec4 Rxc4 30. Rxc4 Rxe2 $15 {KRN-KRN} 31.
+Rc8+ Re8 32. Rc7 Re7 33. Rc8+ Re8 34. Rc7 Re7 35. Rc8+ {Accuracy: White = 71%,
+Black = 59%.} 1/2-1/2
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.03"]
+[Round "4.3"]
+[White "Rapport, Richard"]
+[Black "Amin, Bassem"]
+[Result "1-0"]
+[ECO "D78"]
+[WhiteElo "2735"]
+[BlackElo "2707"]
+[Annotator "TA"]
+[PlyCount "87"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,87,-7,17,15,16,12,14,2,12,3,0,13,40,31,26,27,71,64,71,73,73,68,69,54,
+56,43,46,35,45,49,49,47,47,54,57,62,57,31,123,128,182,106,118,0,0,0,27,17,34,
+35,35,31,92,78,78,66,150,143,141,135,135,129,203,203,207,208,177,177,1212,1183,
+1933,1811,1527,1029,29972,29965]} 1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. d4 O-O 5.
+O-O d5 6. c4 c6 7. Qb3 a5 8. cxd5 {D78: Fianchetto Grünfeld: 6 0-0 c6} a4 (8...
+cxd5 9. Nc3 Nc6 10. Rd1 e6 11. Bf4 Qe7 12. a3 Ne4 13. Nxe4 dxe4 14. Ne5 Nxe5
+15. dxe5 a4 {1/2-1/2 (55) Vidit,S (2707)-Korobov,A (2687) Hengshui 2019}) 9.
+Qd1 cxd5 10. Nc3 {The position is equal.} Ne4 11. Ng5 Nxc3 12. bxc3 Nc6 $146 ({
+Predecessor:} 12... h6 13. Nh3 Bxh3 14. Bxh3 e6 15. Rb1 Qd7 {1-0 (37) Persanyi,
+B (2270)-Kiss,V (2219) Hungary 2018}) 13. e4 dxe4 14. Nxe4 Qa5 15. Bd2 Rd8 16.
+Rb1 b6 17. Re1 Bd7 18. h3 Rac8 19. Qe2 Be6 20. Be3 Bd5 21. Rb5 $36 {[%mdl 2048]
+White fights for an advantage.} Qa7 22. Nd6 Rxd6 23. Rxd5 Rxd5 24. Bxd5 e6 25.
+Bg2 Na5 (25... Ne7 $14) 26. d5 $1 $16 exd5 {[#]} (26... Qd7 $16) 27. Bxd5 (27.
+Qg4 $1 $18 {[%cal Rg4c8][%mdl 512]} Rd8 28. Bg5) 27... Qd7 28. Qg4 (28. c4 $16)
+28... Qxg4 $11 29. hxg4 b5 30. Bf4 Bf8 31. g5 Nc4 32. Bb7 Rd8 ({Black should
+try} 32... Rc5 $14) 33. Bc6 $1 $16 Na3 34. Kg2 b4 (34... Bg7 $14) 35. cxb4 {
+Black must now prevent b5.} ({Resist} 35. Bxa4 $6 bxc3 36. Kf3 Ra8 $14) 35...
+Nc2 36. Rb1 $1 {b5 is the strong threat.} Nxb4 37. Bxa4 Nxa2 {[#]} (37... Nd3
+$16) 38. Rb7 $1 $18 {And now Bb3 would win.} Nc3 39. Bb3 Nd5 {[#]} 40. Bd2 $1
+Bg7 $2 (40... Rd6 41. Rb8 Rb6 42. Rxf8+ Kxf8 43. Bxd5 f6) 41. Bxd5 {[%mdl 64]
+Overworked Piece} Rxd5 42. Rb8+ Bf8 43. Bb4 Rxg5 44. Bxf8 {Accuracy: White =
+80%, Black = 38%.} 1-0
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.03"]
+[Round "4.4"]
+[White "Wang, Hao"]
+[Black "Yu, Yangyi"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[WhiteElo "2737"]
+[BlackElo "2738"]
+[Annotator "TA"]
+[PlyCount "83"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,83,22,20,18,22,13,15,21,18,30,25,20,18,7,10,9,0,19,0,3,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,-22,-22,-22,-22,-22,-22,-36,-2,-16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0]} 1. Nf3 d5 2. g3 c5 3. Bg2 Nc6 4. d4 e6 5. O-O Nf6 6. c4 dxc4 7.
+dxc5 Qxd1 8. Rxd1 Bxc5 9. Nbd2 c3 10. bxc3 O-O 11. Nb3 Be7 {E04: Open Catalan:
+5 Nf3} 12. Nfd4 Nxd4 13. cxd4 Nd5 14. Na5 {[#]} Bd7 $146 ({Predecessor:} 14...
+Bb4 15. Bd2 Nc3 16. Nxb7 Nxe2+ 17. Kf1 Nc3 18. Bxc3 Bxc3 19. Rac1 Bxb7 20. Bxb7
+{1/2-1/2 (31) Rapport,R (2726)-Yu,Y (2751) Shenzhen 2019}) 15. Nxb7 Ba4 16. Rf1
+Rfc8 17. e4 Nc3 18. Re1 Bc6 19. Nc5 Bb5 $1 20. Bf3 Bxc5 21. dxc5 Rxc5 22. Be3
+Rc4 23. e5 Bc6 24. Bxc6 Rxc6 25. Rac1 Rac8 26. Rc2 a5 27. Rec1 Ne2+ $1 28. Rxe2
+{[#] aiming for Rxc6.} Rxc1+ 29. Bxc1 Rxc1+ $11 {[%mdl 4096] Endgame KR-KR} 30.
+Kg2 Rc3 (30... g5 {seems wilder.} 31. Re4 h5 32. Ra4 Rc5 33. f4 gxf4 34. gxf4
+Kg7) 31. Re3 {The position is equal.} Rxe3 32. fxe3 {KP-KP} Kf8 33. Kf3 Ke7 34.
+Ke4 Kd7 $1 35. Kd4 {And now Kc5 would win.} Kc6 $1 36. Kc4 Kb6 37. g4 g5 38. h3
+h6 39. a4 Kc6 40. Kd4 Kb6 41. Kc4 Kc6 42. Kd4 {Accuracy: White = 69%, Black =
+76%.} 1/2-1/2
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.05"]
+[Round "5.1"]
+[White "Yu, Yangyi"]
+[Black "Artemiev, Vladislav"]
+[Result "1/2-1/2"]
+[ECO "D15"]
+[WhiteElo "2738"]
+[BlackElo "2761"]
+[Annotator "TA"]
+[PlyCount "115"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,115,19,13,13,17,21,29,35,35,31,35,50,39,40,29,36,27,34,10,50,53,53,
+56,47,46,59,47,46,46,56,45,43,43,52,52,53,44,65,67,77,60,80,76,80,75,78,81,77,
+49,72,72,72,72,72,0,2,0,72,73,72,72,79,79,85,56,56,56,61,61,71,71,71,64,69,64,
+87,81,81,81,114,81,114,81,114,81,114,81,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+} 1. d4 $146 ({Predecessor:} 1. Nf3 d5 2. d4 Nf6 3. c4 {1-0 (55) Makarov,M 
+(2510)-Dergilev,I (2297) Koltsovo 2006}) 1... d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6
+5. cxd5 cxd5 6. Bg5 Ne4 7. Bh4 Nc6 {D15: Slav Defence: 4 Nc3 a6 and gambit
+lines after 4 Nc3 dxc4} 8. e3 Nxc3 9. bxc3 g6 {White has an edge.} 10. Be2 Bg7
+11. O-O O-O 12. c4 dxc4 13. Bxc4 b5 14. Be2 Bb7 15. Rc1 Qd7 16. a4 Na7 17. Ne5
+Bxe5 18. dxe5 Rfd8 19. Qxd7 Rxd7 20. axb5 Nxb5 21. Rc5 Kf8 22. Rfc1 Rd5 23.
+Rxd5 Bxd5 24. f3 h6 25. Be1 Be6 26. Rc6 Rc8 27. Rxa6 Rc1 28. Kf2 Nc3 29. Ra8+
+Kg7 30. Ra7 (30. Bxc3 $5 Rxc3 31. e4 $16) 30... Kf8 31. Bd3 Nd1+ {[#]} 32. Ke2
+$1 {[%cal Re2d2] And now Kd2 would win.} Nc3+ 33. Kf2 (33. Bxc3 $16 Rxc3 34. f4
+) 33... Nd1+ $11 34. Ke2 ({Better is} 34. Kf1 $11) 34... Nc3+ $1 $16 35. Bxc3
+Rxc3 {[%mdl 4096] Endgame KRB-KRB} 36. Kd2 Rb3 37. Kc2 Rb8 38. Be4 Rb5 39. f4
+Bd5 40. Bxd5 $14 {KRB-KR} Rc5+ 41. Kd3 Rxd5+ $16 {KR-KR} 42. Ke2 h5 43. h3 e6
+44. g4 hxg4 45. hxg4 Rb5 46. Kf3 Rb1 47. Ra2 Kg7 48. Rg2 Kf8 49. Re2 Kg7 50. e4
+(50. g5 $16) 50... g5 $11 {The position is equal.} 51. fxg5 Kg6 52. Rh2 Kxg5 {
+[#] Strongly threatening ...Rb3+.} 53. Rh5+ Kg6 54. Rh8 Rf1+ 55. Kg3 Re1 56.
+Kf3 Rf1+ 57. Kg3 Re1 58. Kf3 {Accuracy: White = 48%, Black = 64%.} 1/2-1/2
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.05"]
+[Round "5.2"]
+[White "Amin, Bassem"]
+[Black "Wang, Hao"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[WhiteElo "2707"]
+[BlackElo "2737"]
+[Annotator "TA"]
+[PlyCount "109"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,109,20,25,21,25,26,20,26,33,32,18,6,0,0,0,0,-8,-2,-10,-4,-20,-23,-34,
+-18,-15,0,0,0,0,0,0,0,-7,118,124,99,116,106,98,135,13,11,0,143,0,21,0,0,0,0,0,
+0,0,0,0,1,1,1,-30,-10,-14,0,0,0,0,0,0,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,85,8,107,
+8,8,8,8,8,8,8,8,8]} 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. h3
+Nf6 7. Nc3 Nd7 8. Be3 e5 9. Qd2 h6 {B31: Sicilian: 2...Nc6 3 Bb5 g6} 10. Nh2
+$146 (10. a3 b6 11. b4 Nf8 12. bxc5 Ne6 13. cxb6 axb6 14. Qc1 f5 15. a4 f4 16.
+Bd2 O-O 17. Qb2 {0-1 (51) Meier,G (2628)-Caruana,F (2819) Karlsruhe/Baden
+Baden 2019}) 10... b6 11. O-O Nf8 12. f4 exf4 13. Bxf4 Ne6 14. Bg3 Qg5 15. Qe1
+Nd4 16. Qf2 O-O 17. Bd6 Bxh3 18. Bf4 Qxg2+ $1 19. Qxg2 Bxg2 20. Kxg2 Nxc2 21.
+Rad1 $36 {[%mdl 2048] White has good play.} Rad8 22. Rf2 Nb4 23. Rfd2 f5 24.
+Bg3 fxe4 (24... f4 $11 25. Bf2 Rfe8) 25. dxe4 $16 Rxd2+ 26. Rxd2 c4 27. Rd6 $1
+Rf6 {Black wants to play ...Rxd6.} 28. Rd8+ (28. e5 $16 Rxd6 29. exd6) 28...
+Rf8 $11 29. Rd6 (29. Rd2 $11) 29... Rf6 $1 $16 {[#] With the idea ...Rxd6.} 30.
+Rd8+ ({Better is} 30. e5 $1 $16 {[%cal Re5f6]} Rxd6 31. exd6) 30... Rf8 $11 31.
+Rxf8+ (31. Rd2 {keeps more tension.} Nd3 32. Nf3 g5 33. e5 g4 34. Nd4) 31...
+Bxf8 32. Nf3 Bg7 33. Ne5 Bxe5 34. Bxe5 Nd3 35. Bb8 Nxb2 36. Bxa7 b5 37. Ne2 b4
+38. Kf3 Nd3 39. Ke3 c5 $1 40. Kd2 Kf7 41. Nc1 Nxc1 42. Kxc1 {[%mdl 4096]
+Endgame KB-KP} Ke6 43. Bxc5 {aiming for Kd2.} Ke5 44. Bxb4 Kxe4 {KB-K3P} 45.
+Kc2 Kd5 46. Bd2 h5 47. a4 Kc6 48. Kc3 Kb7 49. Kxc4 {KB-KPP} h4 {[#]} (49... Ka8
+$11 {remains equal.}) 50. Bf4 (50. Bg5 $1 $16) 50... h3 (50... g5 $11 51. Bxg5
+h3) 51. Kd5 (51. Kb5 $16) 51... Ka6 {The position is equal.} 52. Ke5 Ka5 53.
+Kf6 Kxa4 54. Kxg6 h2 55. Bxh2 {Accuracy: White = 53%, Black = 70%.} 1/2-1/2
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.05"]
+[Round "5.3"]
+[White "Inarkiev, Ernesto"]
+[Black "Rapport, Richard"]
+[Result "0-1"]
+[ECO "E12"]
+[WhiteElo "2693"]
+[BlackElo "2735"]
+[Annotator "TA"]
+[PlyCount "110"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,112,28,27,15,25,24,32,16,22,14,16,-41,-22,-41,-32,-24,-40,-131,-109,
+-117,-110,-97,-16,-75,-53,-50,-54,-103,-106,-103,-119,-139,-79,-114,-110,-112,
+-86,-102,-12,-16,0,-110,-112,-133,-129,-128,0,-128,0,-123,-126,-233,-229,-1042,
+-739,-1033,-1031,-1012,-992,-926,-261,-261,-227,-238,-202,-731,-695,-1367,
+-1353,-1121,-285,-1004,-997,-983,-982,-968,-946,-1497,-996,-985,0,-1408,0,-988,
+-975,-997,-989,-1699,-1697,-1360,-1599,-1255,-1158,-6087,-5657,-1949,-1454]} 1.
+d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 Ne4 6. Nxe4 Bxe4 7. Nd2 Bb7 8. e4 g6
+9. Bd3 Bg7 10. Nf3 {E12: Queen's Indian: Unusual White 4th moves, 4 a3, 4 Nc3
+Bb7 5 a3 and 4 Nc3 Bb7} O-O 11. O-O d6 12. Bg5 {White is slightly better.} Qd7
+13. Qd2 Nc6 14. Bc2 (14. d5 $11 Ne5 15. Nxe5 Bxe5 16. f4 Bd4+ 17. Kh1) 14...
+Na5 $15 15. Qe2 f5 16. Rac1 Rae8 {[#]} 17. Rfe1 $146 {[#]} (17. e5 $15) ({
+Predecessor:} 17. c5 fxe4 18. Bxe4 bxc5 19. dxc5 Bxe4 20. Qxe4 {1/2-1/2 (27)
+Dreev,A (2664)-Lorparizangeneh,S (2468) Guilan 2016}) 17... fxe4 $1 $17 18.
+Bxe4 d5 19. Bb1 Nxc4 ({Better is} 19... dxc4 $17 20. Be4 Bd5) 20. Bd3 (20. b3
+$11 {keeps the balance.} Nxa3 21. Bd3 Rxf3 {[%mdl 64] Remove Defender} 22. Qxf3
+) 20... e5 21. Bxc4 dxc4 22. Qxc4+ Bd5 23. Qxc7 Qf5 $36 {[%mdl 2048] Hoping
+for ...e4. Black is in control.} 24. Be3 (24. Be7 $2 Rf7 $19) 24... Rf7 ({
+Don't do} 24... Bxf3 25. gxf3 Qxf3 26. Qd7 $15) (24... exd4 $142 25. Bd2 Bxf3
+26. gxf3 Qxf3) 25. Qc3 Bxf3 26. gxf3 Qxf3 27. dxe5 Qg4+ ({But not} 27... Bxe5
+$6 28. Bd4 $11) (27... Rxe5 $17 {Threatens to win with ...Rg5+!} 28. Qc8+ Bf8)
+28. Kh1 $11 Qf3+ (28... Qe4+ $11 29. Kg1 Qg4+ 30. Kh1 Qf3+ 31. Kg1 Rxe5 32.
+Qc8+ Bf8) 29. Kg1 $17 Rxe5 (29... Bxe5 $6 30. Bd4 $11) 30. Qd2 Qg4+ 31. Kh1
+Qf3+ 32. Kg1 Qg4+ 33. Kh1 $1 h5 34. Qd8+ {[#]} (34. Qe2 $17) 34... Kh7 $1 $19
+35. Qc8 $2 (35. Qd1 Qe4+ 36. Kg1) 35... Qf3+ 36. Kg1 Re4 37. Rc2 Rg4+ 38. Kf1
+Qg2+ $2 (38... Re7 {White must now prevent ...Qg2+.} 39. Rc3 Bxc3 40. Qxc3 h4)
+39. Ke2 Qxh2 ({Don't play} 39... Qd5 40. Qc6 $19) 40. Qe6 Rf8 41. Rd1 $2 {[#]}
+(41. Kd1) 41... Qg2 $1 42. Qd7 {[#]} Re4 $1 {( -> ...Qxf2+)} 43. Kd3 Qf3 $2 (
+43... Re5 44. Rc3 Rd5+ {[%mdl 64] Discovered Attack} 45. Kc2 Qe4+ 46. Kc1 Rxd7
+47. Rxd7 Kg8 48. Rxa7 Bf6) 44. Rdc1 $2 (44. Kd2) 44... Rd4+ 45. Qxd4 Bxd4 46.
+Kxd4 Rd8+ 47. Kc4 Rc8+ 48. Kd3 Rd8+ 49. Kc4 Rc8+ 50. Kd3 $1 Rxc2 {Black is
+clearly winning.} 51. Rxc2 {[%mdl 4096] Endgame KQ-KRB} g5 52. Kd2 h4 53. Rc7+
+Kg6 54. Rc8 h3 55. Bd4 {[#]} Qe4 {Played: Qf3-d5} 0-1
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.05"]
+[Round "5.4"]
+[White "Vidit, Santosh Gujrathi"]
+[Black "Wei, Yi"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[WhiteElo "2707"]
+[BlackElo "2741"]
+[Annotator "TA"]
+[PlyCount "40"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,24,22,41]} 1. c4 c5 2. g3 e6 3. Bg2 d5 4. cxd5 exd5 5. d4 Nf6 6. Nf3
+Be7 7. O-O O-O 8. Nc3 Nc6 9. Bg5 c4 10. e3 Be6 11. Ne5 h6 12. Bxf6 Bxf6 {
+Predecessor:} 13. f4 $146 Bxe5 14. dxe5 Qb6 15. f5 Qxe3+ 16. Kh1 Bc8 17. Nxd5
+Qxe5 18. Qd2 Rd8 19. Rae1 Qd4 20. Qxd4 Nxd4 {1/2-1/2 (54) Yuffa,D (2572)
+-Mamedov,R (2703) St Petersburg 2018} 1/2-1/2
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.06"]
+[Round "6.1"]
+[White "Artemiev, Vladislav"]
+[Black "Wei, Yi"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "2761"]
+[BlackElo "2741"]
+[Annotator "TA"]
+[PlyCount "78"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,78,9,13,2,0,2,15,13,9,2,12,11,15,0,0,13,30,10,13,16,34,22,54,43,40,
+25,16,16,8,22,12,19,27,32,17,4,16,3,3,3,3,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0]} 1. Nf3 d5 2. b3 Nf6 3. Bb2 g6 4. c4 e6 5. g3 Bg7 6. Bg2 O-O
+7. O-O b6 8. cxd5 {A05: Réti Opening: 1 Nf3 Nf6} exd5 9. Nc3 $146 {[%cal Bb1c3,
+Bc3e2,Be2f4][%mdl 32]} (9. d4 Bb7 10. Nc3 Nbd7 11. Rc1 Qe7 12. e3 a6 13. Qc2
+Rac8 14. Ne5 Qe6 15. Ne2 c6 {1/2-1/2 (34) Efimenko,Z (2651)-Oleksienko,M (2615)
+Rivne 2016}) ({Predecessor:} 9. d4 Bb7 10. Nc3 Nbd7 11. e3 Re8 12. Rc1 {
+0-1 (44) Cvek,R (2430)-Jirovsky,M (2464) Pribram 2002}) 9... Nbd7 10. d4 c6 11.
+Rc1 Bb7 12. e3 Re8 13. Ne2 Ne4 14. Nf4 Rc8 15. Rc2 a5 16. Qc1 b5 17. Nd3 b4 18.
+Rd1 c5 19. Nxc5 Ndxc5 20. dxc5 Bxb2 21. Qxb2 Qe7 22. Rdc1 {And now c6 would
+win.} Rxc5 23. Rxc5 Nxc5 24. Ne5 {[#] Ng4 is the strong threat.The position is
+equal.} h5 $1 25. Qd4 {Black must now prevent Nxg6.} Nxb3 $1 26. axb3 Qxe5 27.
+Qxe5 Rxe5 $11 {[%mdl 4096] Endgame KRB-KRB} 28. Rc7 Ba6 29. Ra7 Bc4 $1 {
+[%cal Rc4b3]} 30. Rxa5 Bxb3 31. Rb5 Bc4 32. Rxb4 Re7 33. Rb8+ Kg7 34. Rd8 Ra7 {
+[#] Hoping for ...Ra1+.} 35. h4 Ra1+ 36. Kh2 Ra2 37. Kg1 Ra1+ 38. Kh2 Ra2 39.
+Kg1 Ra1+ {Accuracy: White = 57%, Black = 68%.} 1/2-1/2
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.06"]
+[Round "6.2"]
+[White "Rapport, Richard"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "1/2-1/2"]
+[ECO "A08"]
+[WhiteElo "2735"]
+[BlackElo "2707"]
+[Annotator "TA"]
+[PlyCount "89"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,89,19,18,15,18,11,9,9,11,16,16,16,16,16,18,18,33,26,25,12,13,7,16,25,
+20,-4,37,37,37,37,37,37,40,42,37,38,37,9,14,12,35,27,44,35,43,9,9,9,13,9,9,8,
+12,5,8,10,6,5,5,9,8,15,10,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. Nf3 d5 2.
+g3 c5 3. Bg2 Nf6 4. O-O g6 5. c4 (5. d4 cxd4 6. Nxd4 Bg7 7. Nb3 O-O 8. Nc3 e6
+9. e4 Nc6 10. exd5 exd5 11. Bg5 h6 12. Be3 Re8 13. Qd2 Ng4 14. Bc5 Be6 15. Nxd5
+Bxb2 16. Rad1 Bxd5 17. Bxd5 {1-0 (59) Ding,L (2812)-Adams,M (2708) Astana 2019}
+) 5... Bg7 6. Qa4+ {A08: King's Indian Attack} Nc6 7. Ne5 Qd6 8. cxd5 Nxd5 9.
+Nc4 Qd8 $146 ({Predecessor:} 9... Qe6 10. Nc3 Nxc3 11. dxc3 O-O 12. Nb6 axb6
+13. Qxa8 Qxe2 {1/2-1/2 (26) Speelman,J (2604)-Ribli,Z (2569) Germany 2000}) 10.
+Nc3 e6 11. Ne3 {[%cal Re3d5]} O-O 12. Nexd5 exd5 13. Nxd5 Re8 14. Nc3 Nd4 15.
+e3 Bd7 16. Qd1 Nc6 17. Ne4 b6 {[#]} 18. d4 $1 {[%mdl 512]} cxd4 19. exd4 {
+Black must now prevent Bg5.} Bf5 $1 {[%cal Rf5e4]} 20. Bg5 Qd7 $1 21. Nf6+ Bxf6
+$1 22. Bxf6 {Qc1 is the strong threat.} Be4 $1 23. f3 Bd5 24. Qd2 {[#] White
+wants to mate with Qh6.} Qd6 25. Bg5 Bc4 26. Rf2 f6 27. d5 Ne5 {The position
+is equal.} 28. Bf4 Rad8 29. b3 Bxd5 30. Rd1 Qe7 {Hoping for ...Bxf3.} 31. Bxe5
+fxe5 32. Qe3 Bb7 33. Rfd2 Rxd2 34. Rxd2 Kg7 35. h4 Qf6 36. Rd7+ Re7 37. Rxe7+ (
+37. Qd3 {is interesting.} Rf7 38. Rd6 Qf5 39. Qxf5 Rxf5 40. Rd7+) 37... Qxe7
+38. f4 Bxg2 39. Kxg2 $11 {[%mdl 4096] Endgame KQ-KQ} Qb7+ 40. Kf2 exf4 41. Qe5+
+Kg8 42. Qe8+ Kg7 43. Qe5+ Kg8 44. Qe8+ Kg7 45. Qe5+ {Accuracy: White = 78%,
+Black = 85%.} 1/2-1/2
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.06"]
+[Round "6.3"]
+[White "Wang, Hao"]
+[Black "Inarkiev, Ernesto"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2737"]
+[BlackElo "2693"]
+[Annotator "TA"]
+[PlyCount "84"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,84,37,56,27,16,7,35,0,0,0,0,0,-3,-15,-12,-21,114,-5,0,-14,-14,-16,-7,
+-34,-41,-27,-29,-35,0,0,0,0,0,0,0,0,0,0,0,0,0,-9,-9,-9,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5.
+c3 O-O 6. O-O d5 7. exd5 Nxd5 8. Nbd2 {C54: Giuoco Piano: 4 c3 Nf6, main lines
+with 5 d4 and 5 d3} (8. Re1 Bg4 9. Nbd2 Nb6 10. h3 Bh5 11. Bb3 Qxd3 12. Nxe5
+Bxd1 13. Nxd3 Bxb3 14. axb3 Be7 15. b4 a6 16. Ne4 Nd7 {1-0 (40) Giri,A (2797)
+-Harikrishna,P (2723) Shenzhen 2019}) 8... Nb6 9. Bb5 Bd6 10. a4 {[%cal Ba2a4,
+Ba4a5][%mdl 32] White is slightly better.} a6 11. Bxc6 bxc6 12. a5 Nd5 13. Re1
+Re8 14. Nc4 {[%cal Rf3e5]} Rf8 (14... f6 $11 {remains equal.}) 15. Ncd2 (15.
+Nfxe5 $16 c5 16. Nxd6 Qxd6 17. Nc4) 15... Re8 16. Nc4 {[%cal Rf3e5]} f6 17.
+Nfd2 $146 ({Predecessor:} 17. Nh4 Be6 {0-1 (48) Miroshnichenko,P (2268)-Danin,
+A (2575) Kazan 2015}) 17... Be6 18. d4 exd4 19. Nxd6 cxd6 20. cxd4 Bf7 21.
+Rxe8+ {The position is equal.} Qxe8 22. Nc4 Nc3 23. bxc3 Bxc4 24. Bf4 Qe6 25.
+h4 Re8 26. Qf3 d5 27. Rb1 Bb5 28. Bd2 h6 29. Re1 Be2 30. Qg3 Kh7 31. Be3 Bb5
+32. Bd2 Qf7 33. f3 Rxe1+ 34. Qxe1 Qg6 35. Bf4 Qf5 36. Bd6 Qd7 37. Qe7 Qxe7 38.
+Bxe7 h5 39. Kf2 Kg6 40. Bc5 Bc4 41. Be7 Bb5 42. Bc5 Bc4 {Accuracy: White = 63%,
+Black = 62%.} 1/2-1/2
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.06"]
+[Round "6.4"]
+[White "Yu, Yangyi"]
+[Black "Amin, Bassem"]
+[Result "1/2-1/2"]
+[ECO "E70"]
+[WhiteElo "2738"]
+[BlackElo "2707"]
+[Annotator "TA"]
+[PlyCount "125"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 22,125,16,9,25,10,27,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,14,0,-4,-13,0,0,
+15,0,22,14,21,0,31,23,35,-9,-20,-19,-5,-39,-28,-40,-23,-19,-25,-89,-86,-92,-66,
+-170,-170,-151,-77,-94,-94,-124,-79,-71,-87,-95,-95,-94,-94,-94,-94,-94,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. c4 Nf6
+2. Nc3 g6 3. d4 Bg7 4. e4 d6 5. Bd3 O-O 6. Nge2 Nc6 7. O-O e5 8. d5 Nd4 9. Nxd4
+exd4 10. Ne2 Re8 11. f3 c5 12. Bg5 a6 {E70: King's Indian: Miscellaneous lines
+with 4 e4, including 5 Nge2 and 5 Bd3 0-0 6 Nge2} (12... b5 13. cxb5 a6 14. a4
+Qc7 15. Qc2 Nd7 16. Bf4 axb5 17. axb5 Rb8 18. b4 Qb6 19. Rfc1 Bb7 20. Qd2 {
+1-0 (44) Ivanchuk,V (2728)-Kazhgaleyev,M (2576) Tbilisi 2017}) 13. Qd2 Qc7 {[#]
+} 14. b3 $146 ({Predecessor:} 14. Bxf6 Bxf6 15. b4 {1-0 (52) Seirawan,Y (2585)
+-Yermolinsky,A (2620) Seattle 1994}) 14... Nd7 15. f4 Nf6 16. Bxf6 Bxf6 17. Kh1
+b5 18. Ng1 bxc4 19. bxc4 Rb8 20. Rae1 Bh4 21. Re2 Bg4 22. Nf3 Bf6 (22... Qe7 {
+looks sharper.} 23. e5 Bxf3 24. Rxf3 dxe5 25. Rxe5 Qd7) 23. h3 Bxf3 $1 24. Rxf3
+Rb7 25. Qe1 Bg7 26. g4 Qb8 27. g5 Rb2 28. Rff2 Rb4 29. h4 Qc8 {[#] And now ...
+Qh3+ would win.} 30. f5 Be5 $36 {[%mdl 2048] Black fights for an advantage.}
+31. Rf3 Qb7 32. Kg2 (32. h5 $5) 32... Rb2 (32... Qe7 {is more complex.} 33. Qc1
+h5 34. Kg1 Reb8 35. Rg2 R4b7) 33. Rff2 Qb4 (33... Rxe2 {feels hotter.} 34. Qxe2
+Kh8 35. Rf1 Qd7 36. Rg1 Rg8) 34. Qxb4 Rxb4 35. Kh3 (35. Rb2 $11) 35... Reb8 $17
+36. Kg4 Ra4 37. h5 (37. Rb2 $15 h5+ 38. Kf3) 37... Ra3 38. Rf3 Rc3 (38... gxh5+
+$142 39. Kxh5 f6) 39. hxg6 hxg6 40. Ref2 Rc1 41. Rf1 {[#]} Rxf1 $1 42. Bxf1 {
+[%mdl 4096] Endgame KRB-KRB} Rb1 43. a3 Re1 44. fxg6 fxg6 45. Bd3 Kg7 ({
+Better is} 45... Rg1+ $17 46. Kh4 Ra1) 46. Rf1 $1 $11 {[%cal Rf1e1] The
+position is equal.} Rxf1 (46... Re3 $5 47. Rf3 $8 Re1 $11) 47. Bxf1 {KB-KB} Kf7
+48. Kf3 Ke7 49. Bh3 Bh2 50. Bc8 a5 51. a4 Bg1 52. Bh3 Be3 53. Kg4 Bd2 54. Bf1
+Be3 55. Bd3 {Black must now prevent e5!} Kf7 56. Bc2 Bg1 57. Bd3 Bh2 58. Bc2
+Be5 59. Bd3 Kg7 60. Bc2 Kf7 61. Bd3 Kg7 62. Bc2 Kf7 63. Bd3 {Accuracy: White =
+62%, Black = 55%.} 1/2-1/2
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.07"]
+[Round "7.1"]
+[White "Amin, Bassem"]
+[Black "Artemiev, Vladislav"]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[WhiteElo "2707"]
+[BlackElo "2761"]
+[Annotator "TA"]
+[PlyCount "130"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,130,18,12,1,16,25,16,16,21,21,18,12,16,13,24,14,25,20,15,10,31,3,16,
+-5,10,10,22,6,10,10,14,13,14,12,29,8,10,6,37,50,38,35,38,41,49,13,16,0,18,0,0,
+0,0,0,0,-17,-16,-16,-16,-22,-22,-62,-62,-48,-63,-163,-102,-116,-117,-217,-109,
+-290,-260,-240,-236,-270,-262,-215,-234,-322,-327,-305,-68,-275,-62,-115,-107,
+-108,0,0,12,26,51,48,86,8,36,0,0,0,0,0,0,0,8,8,50,8,8,8,24,0,0,0,0,0,0,0,0,0,0,
+0,0]} 1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bd3 Ngf6 6. Re1 {B51:
+Sicilian: Moscow Variation (3 Bb5+) without 3...Bd7} g6 7. c3 Bg7 8. Bc2 O-O 9.
+d4 e5 10. a4 Rb8 $146 ({Predecessor:} 10... cxd4 11. cxd4 exd4 12. Nxd4 Nc5 {
+1-0 (33) Jakovenko,D (2748)-Nepomniachtchi,I (2768) Satka 2018}) 11. dxe5 Nxe5
+12. Nxe5 dxe5 13. Qxd8 (13. Be3 {keeps more tension.} Qc7 14. c4 b5 15. axb5
+axb5 16. cxb5 Rxb5 17. b3) 13... Rxd8 14. Be3 b6 15. f3 Be6 16. a5 bxa5 17. Bc1
+Rb5 18. Ba4 Rb6 19. Bd1 Ne8 20. Rxa5 Nd6 21. Be2 c4 22. Rd1 Rdb8 23. Ra2 f5 24.
+exf5 gxf5 25. Na3 {[%cal Bb1a3,Ba3c2,Bc2b4][%mdl 32]} f4 26. Nc2 Nf5 27. Ra4
+Rc8 28. Ra5 Kf7 29. Nb4 h5 30. Bd2 Bf6 31. Rda1 h4 32. Be1 Rg8 33. Rxa6 Rxa6
+34. Rxa6 h3 35. Bf1 hxg2 36. Be2 {Hoping for Rxe6!} Ne3 37. Nc6 (37. Ra7+ $1
+$15 Kg6 38. Nc6) 37... Rc8 (37... Bf5 $19 38. Nb4 Kg7) 38. Bf2 Bh3 $1 39. Nb4 (
+39. Na5 $17) 39... Kg7 ({Better is} 39... Rb8 $1 $19 40. Ra7+ Kf8) 40. Ra7+ $2
+(40. Nc6 $17) 40... Kg6 $19 41. Ra6 {next Bxe3 is good for White.} Kf5 $1 42.
+Rc6 Ra8 43. Ra6 Rb8 $1 44. Ra7 {Threatening Bxe3.} Rd8 {aiming for ...Rd2.} 45.
+Be1 Bg5 $2 (45... Kg6 $19 46. Ra6 Rd7) 46. Ra5 $2 ({Don't go for} 46. Rh7 $2
+Ra8 $19) (46. Nc6 $1 $15 Rd6 47. Nb4) 46... Rd6 $2 (46... Rd7 $1 $19 47. Nc6
+Bf6) 47. Ra6 (47. Ra7 $15) 47... Rd7 $17 {[#]} 48. b3 $1 {[%mdl 512]} Be7 (
+48... cxb3 $17 {( -> ...b2)} 49. Bd3+ Rxd3 $1 {[%mdl 512]} 50. Nxd3 Nc4) 49.
+bxc4 $11 Kg5 (49... Nxc4 $5 {[%cal Rd7d2]} 50. Nd3 Nb2 $1 $11 {[%mdl 512]}) 50.
+Ra5 $36 {[%mdl 2048] White has good play.} Kf5 51. c5 Rc7 {[#]} 52. Bd3+ (52.
+Nd3 $1 $16) 52... Ke6 (52... Kg5 $5 {[%cal Re7c5]} 53. c6 Bd6 $14) 53. c6 Bxb4
+54. cxb4 {b5 is the strong threat.} Rxc6 {Threatens to win with ...Rc1!} 55.
+Ra6 Rxa6 56. Bxa6 {[%mdl 4096] Endgame Strongly threatening Bc8+. KBB-KBN} Kd6
+57. Bd3 Nd5 58. Bd2 Nc7 59. Bc4 Ne8 60. b5 Kc5 {The position is equal.} 61. Be2
+Nd6 62. Bc3 Nxb5 63. Bxb5 Kxb5 64. Bxe5 Kc4 65. Bxf4 Kd3 {Accuracy: White =
+46%, Black = 53%.} 1/2-1/2
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.07"]
+[Round "7.2"]
+[White "Inarkiev, Ernesto"]
+[Black "Yu, Yangyi"]
+[Result "1/2-1/2"]
+[ECO "A27"]
+[WhiteElo "2693"]
+[BlackElo "2738"]
+[Annotator "TA"]
+[PlyCount "106"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,106,18,29,23,41,41,39,16,22,8,16,14,18,0,12,7,0,-2,-4,-16,2,-21,-18,
+-8,-9,-36,-13,-45,0,-7,0,0,0,-18,-20,-13,-9,-60,-49,-34,-10,-56,-56,-74,-74,
+-73,-73,-73,-56,-56,-56,-56,-56,-56,-56,-56,-18,-18,-18,-56,-56,-56,-56,-56,
+-56,-56,-56,-56,-56,-56,-56,-56,-51,-54,-51,-58,-58,-98,-44,-44,-44,-44,-44,
+-44,-44,-44,-44,-44,-44,-44,-44,-58,-58,-58,0,-58,0,-46,0]} 1. c4 e5 2. Nc3 Nc6
+3. Nf3 g6 4. d4 exd4 5. Nxd4 Bg7 6. Nxc6 {A27: English Opening: Three Knights
+Variation} dxc6 (6... bxc6 7. g3 Ne7 8. Bg2 O-O 9. O-O d6 10. Bg5 Be6 11. Qd3
+Rb8 12. b3 c5 13. Rad1 h6 14. Bc1 Re8 15. Qd2 Kh7 16. Bb2 Ng8 17. Rfe1 Nf6 18.
+h3 {1/2-1/2 (33) So,W (2765)-Mamedyarov,S (2817) Kolkata 2018}) 7. Qxd8+ Kxd8
+8. Bd2 {White is slightly better.} Be6 9. O-O-O Kc8 $146 ({Predecessor:} 9...
+Ne7 10. Bh6+ Ke8 11. Bxg7 Rg8 12. Be5 Rc8 13. Ne4 f6 14. Nxf6+ {1-0 (21)
+Maclin,P-Rowatt,R CServe email 1993}) 10. b3 Nf6 11. h3 a5 {[%cal Ba7a5,Ba5a4]
+[%mdl 32]} 12. e3 b6 13. g4 Kb7 14. Bg2 a4 15. b4 Nd7 16. b5 Ne5 17. f4 Nd3+
+18. Kc2 $1 Nb4+ 19. Kb1 $132 {[%mdl 2048] aiming for Ne2. White is not keeping
+still} Bxc4 {[#] ...Bd3+ is the strong threat.} 20. a3 $1 {[%cal Ra3b4]} Nd3 $1
+{White must now prevent ...Ka7.} 21. Bxc6+ Ka7 {Hoping for ...Rad8.} 22. Nxa4
+Nf2 23. Bxa8 (23. Bc3 $11 Bxc3 24. Bxa8) 23... Rxa8 $15 24. Bc3 Kb7 25. Bxg7 {
+[#] And now Nc3 would win.} (25. Nxb6 $5 Kxb6 26. Bxg7 $11) 25... Rxa4 26. Kb2
+Bxb5 27. Rhg1 Nxd1+ 28. Rxd1 $17 {[%mdl 4096] Endgame KRB-KRB} Re4 29. Rd5 c5
+30. Re5 Rxe5 31. Bxe5 $15 {KB-KB} Bf1 32. h4 Be2 33. g5 Kc6 34. Kc3 Kd5 35. Bc7
+b5 $1 36. Bb6 Bf3 37. Ba7 Be4 38. Bb6 Bf5 39. Ba7 c4 40. Bd4 Bd7 41. Kd2 Ke4
+42. Kc2 Kf3 43. Bb2 Kg4 (43... Kxe3 $17 44. Be5 Kf3) 44. Kc3 Kxh4 45. e4 Kg4
+46. Bc1 Kf3 47. e5 Ke4 48. Bd2 Kd5 49. Bc1 Bg4 50. Bd2 Bf5 51. Bc1 Bg4 52. Bd2
+Bf5 53. Bc1 $1 Bg4 {Accuracy: White = 64%, Black = 66%.} 1/2-1/2
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.07"]
+[Round "7.3"]
+[White "Vidit, Santosh Gujrathi"]
+[Black "Wang, Hao"]
+[Result "1-0"]
+[ECO "E05"]
+[WhiteElo "2707"]
+[BlackElo "2737"]
+[Annotator "TA"]
+[PlyCount "91"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,91,2,0,0,0,0,0,0,-8,0,-6,4,14,16,0,0,0,0,0,14,6,15,29,29,33,12,16,27,
+32,20,18,65,71,131,90,91,85,95,103,85,24,20,0,191,191,183,154,162,188,413,411,
+501,500,487,479,457,454,444,450,435,421,535,453,555,564,564,560,525,510,635,
+610,548,509]} 1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7.
+Qc2 a6 8. Qxc4 b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 c6 {E05: Open Catalan: 5 Nf3
+Be7} 12. a4 Nbd7 13. Nc3 Bg6 {The position is equal.} 14. Nh4 Bh5 15. h3 Nd5
+16. axb5 axb5 {[#]} 17. Nxd5 $146 ({Predecessor:} 17. Rxa8 Qxa8 18. e4 Nb4 19.
+Bg5 {1/2-1/2 (85) Caruana,F (2828)-Dominguez Perez,L (2739) Saint Louis 2019})
+17... cxd5 18. Bf3 Bxf3 19. Nxf3 Qb6 20. Qc2 Rac8 (20... Nf6 {feels hotter.}
+21. Bg5 h6 22. Bxf6 Bxf6 23. e3 Qb7) 21. Qd3 Ra8 22. Rxa8 Rxa8 23. Rc1 h6 24.
+Bf4 g5 25. Ne5 Nxe5 26. Bxe5 b4 (26... Bf8 $142) 27. Qf3 {Hoping for Rc7.} Qd8
+28. Qh5 {And now Rc6 would win.} Bf8 29. Rc7 {[%csl Gc7][%cal Rh5f7]} Qe8 30.
+h4 (30. Rb7 $16) 30... f5 $11 31. Qf3 $40 {[%mdl 128] aiming for g4. White is
+up to no good.} g4 $2 (31... gxh4 $11 {and Black stays safe.} 32. gxh4 Qg6+ 33.
+Kh2 Ra1) 32. Qe3 $18 Rc8 {intending ...Rxc7.} 33. Ra7 Qc6 {[#]} 34. Bf4 $1 Qb6
+$2 (34... Bg7 35. Re7 (35. Bxh6 Bxh6 36. Qxh6 Qc1+ 37. Qxc1 Rxc1+ 38. Kg2 Rc2
+$11) 35... e5) 35. Qe5 h5 {[#]} 36. Qf6 $1 {[%mdl 512] Intending Qg6+ and mate.
+White is clearly winning.} Rc1+ 37. Bxc1 {Qg6+ would kill now.} Qxa7 38. Qxe6+
+Qf7 39. Qc8 Kh7 40. Bf4 Kg6 41. Be5 Be7 42. Qc6+ Kh7 43. e3 Bf8 44. Bd6 Bxd6
+45. Qxd6 b3 46. Qb6 {Accuracy: White = 80%, Black = 51%.} 1-0
+
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.07"]
+[Round "7.4"]
+[White "Wei, Yi"]
+[Black "Rapport, Richard"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2741"]
+[BlackElo "2735"]
+[Annotator "TA"]
+[PlyCount "98"]
+[EventDate "2019.06.30"]
+[EventType "tourn"]
+[EventCountry "CHN"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,98,7,20,1,0,0,0,8,13,7,0,0,29,0,4,-8,0,-34,-34,-34,-34,-34,-34,-32,
+-33,-42,-36,-33,-34,-42,-35,-33,-33,-33,-42,-36,-45,-89,-10,-22,0,0,0,0,0,-8,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8,0,0,0,0,0,-8,-8,-8,-8,-8,0,0,0,0,0,0,0]} 1. e4
+e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6 bxc6 8. dxe5
+Nb7 9. Nc3 O-O 10. Nd4 Bc5 11. Rd1 Re8 12. Qh5 {C67: Ruy Lopez: Berlin Defence:
+4 0-0 Nxe4} Qe7 (12... Bxd4 13. Rxd4 d5 14. Bd2 Qd7 15. Rf4 Qe6 16. Re1 Qg6 17.
+Qxg6 {1/2-1/2 (17) Naiditsch,A (2686)-Motylev,A (2704) Poikovsky 2010}) 13. Bf4
+Bxd4 14. Rxd4 d5 15. Re1 Nc5 16. Bd2 $146 ({Predecessor:} 16. Bg5 Qe6 17. b4
+Nd7 18. Bd2 Nb6 19. f4 Nc4 {1-0 (60) Buczinski,H (2350)-Svacek,P (2420) ICCF
+corr 1995}) 16... Qe6 17. b4 (17. Na4 $5 {[%cal Ra4c5]} Ne4 18. c4 $11) 17...
+Nd7 $1 18. b5 c5 19. Nxd5 ({But not} 19. Rxd5 $2 Nf6 $19) 19... cxd4 20. Nxc7 {
+[%mdl 64] [#] Double Attack} Qe7 $1 21. e6 $1 {[%cal Re6f7] And now exf7+
+would win.} Nf6 $1 {[%csl LRc7,LRe6,LRh5]} ({Wrong is} 21... g6 $2 22. exf7+
+Qxf7 23. Rxe8+ Qxe8 24. Qd5+ Qf7 25. Qxa8 $18) 22. exf7+ Qxf7 23. Qxf7+ Kxf7
+24. Nxa8 Nd5 $1 25. Rxe8 Kxe8 $15 {[%mdl 4096] Endgame KBN-KBN} 26. Ba5 Kd7 $1
+{Hoping for ...Bb7.} 27. b6 $1 {[%cal Rb6a7]} Kc6 {[%cal Ra7b6]} 28. Nc7 {
+Black must now prevent Nxd5.} ({Much weaker is} 28. bxa7 Bb7 $17) 28... Nxb6
+29. Bxb6 axb6 {KB-KN} (29... Kxb6 $17 30. Ne8 Kc5) 30. Ne8 $11 {The position
+is equal.} g5 31. Kf1 Bf5 32. Ng7 Bxc2 33. Ne6 $1 {[%cal Re6d4]} Bd3+ 34. Ke1
+h6 35. Kd2 Bb1 36. Nxd4+ Kc5 $1 {[%cal Rc5d4]} 37. Kc3 Bxa2 38. Nf5 h5 39. Ng3
+Bd5 {Threatening ...h4.} 40. Nxh5 Bxg2 41. Nf6 Kd6 42. Nh7 g4 43. Nf6 Bf3 44.
+Kb4 Ke6 45. Nxg4 Bxg4 {[#]} 46. f3 $1 {[%mdl 512]} Kf5 (46... Bh5 $5 47. Kb5 $8
+Bxf3 $11) (46... Bxf3 47. Kb5) 47. fxg4+ Kxg4 48. Kb5 Kh3 49. Kxb6 Kxh2 {
+Accuracy: White = 71%, Black = 67%.} 1/2-1/2
+

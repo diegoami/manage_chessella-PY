@@ -1,0 +1,44 @@
+
+
+[Event "Biel Master Tournament 2019"]
+[Site "Biel"]
+[Date "2019.07.24"]
+[Round "3.2"]
+[White "Nabaty, Tamir"]
+[Black "Brkic, Ante"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "2678"]
+[BlackElo "2573"]
+[Annotator "TA"]
+[PlyCount "38"]
+[EventDate "2019.07.20"]
+[EventType "swiss"]
+[EventCountry "SUI"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,118,9,9,9,15,13,8,18,20,11,24,20,47,0,0,0,0,6,9,1,0,15,0,-142,-142,
+-136,-146,-232,-218,-217,-221,-222,-220,-216,-218,-218,-195,-337,-310,-400,
+-400,-419,-442,-425,-418,-419,-431,-419,-432,-416,-430,-428,-349,-382,-367,
+-361,-356,-408,-403,-392,-304,-402,-362,-387,-383,-485,-363,-415,0,-363,-370,
+-512,-491,-512,-512,-512,-499,-486,-486,-430,-425,-736,-804,-785,-684,-541,
+-541,-1579,-1541,-1570,-1182,-1490,-1482,-29965,-29962,-29971,-29972,-29974,
+-29975,-29975,-29976,-29976,-29977,-29977,-29978,-29978,-29979,-29981,-29982,
+-29982,-29983]} 1. d4 Nf6 2. Nf3 d5 3. a3 (3. c4 e6 4. Nc3 c6 5. e3 Nbd7 6. Bd3
+dxc4 7. Bxc4 b5 8. Bd3 a6 9. e4 c5 10. e5 cxd4 11. Nxb5 axb5 12. exf6 gxf6 13.
+O-O Qb6 14. Qe2 b4 15. Bf4 h5 16. Rfc1 Bc5 17. a4 bxa3 18. bxa3 Ba6 19. Rab1
+Bxd3 20. Qxd3 Rxa3 21. Qxa3 Bxa3 22. Rxb6 Bxc1 {1-0 (45) Navara,D (2739)-Ding,
+L (2812) Shamkir 2019}) 3... g6 4. c4 c6 5. cxd5 cxd5 6. Nc3 {D02: 1 d4 d5 2
+Nf3 sidelines, including 2...Nf6 3 g3 and 2...Nf6 3 Bf4} Bg7 7. Bf4 $146 ({
+Predecessor:} 7. g3 O-O 8. Bg2 Nc6 9. O-O a6 10. Ne5 Qd6 11. Bf4 Qe6 12. e4
+Nxe4 13. Nxe4 Nxe5 14. Nc5 Qd6 15. Rc1 b6 16. dxe5 Bxe5 17. Bxe5 Qxe5 {1-0 (44)
+Jensen,J-Hansen,E Copenhagen 1999}) 7... O-O 8. e3 {The position is equal.} Nc6
+9. Bd3 Bg4 10. O-O Re8 11. Bg5 (11. h3 $5 {[%cal Rh3g4]} Bxf3 12. Qxf3 $11 (12.
+gxf3 e5 $11)) 11... h6 {Threatens to win with ...Bxf3.} 12. Bxf6 Bxf6 13. Qb3
+Bxf3 14. gxf3 e5 15. Nxd5 Bg7 16. Qxb7 (16. dxe5 $11 Na5 17. Qa2 Rxe5 18. Nf4)
+16... Na5 $1 $36 {[%cal Ra5b7][%mdl 2048] White is under strong pressure.} 17.
+Qa6 {[#]} Re6 $1 {[%cal Re6a6]} ({Much worse is} 17... Nb3 $6 18. Rad1 $11) 18.
+Qb5 (18. Ne7+ $17 Rxe7 19. b4) 18... Rb8 $19 {[%cal Ba8b8,Bb8b2,Bb2d2][%mdl 32]
+} 19. Qc5 Rc8 {Played: Na5-b3} 0-1

@@ -1,0 +1,212 @@
+[Event "GCT Paris Rapid 2019"]
+[Site "Paris"]
+[Date "2019.07.28"]
+[Round "6.1"]
+[White "Grischuk, Alexander"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[ECO "E73"]
+[WhiteElo "2766"]
+[BlackElo "2775"]
+[Annotator "TA"]
+[PlyCount "78"]
+[EventDate "2019.07.26"]
+[EventType "tourn"]
+[EventCountry "FRA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,78,26,10,6,7,30,0,0,0,0,0,0,0,0,0,0,0,6,11,26,23,22,14,33,27,28,20,
+58,8,18,8,1,0,9,0,0,-66,-68,-54,0,0,0,0,0,0,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,
+4,4,0,12]} 1. d4 Nf6 2. c4 g6 3. h4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 c5 7. d5 e6
+8. h5 exd5 {E73: King's Indian: Averbakh Variation without 6...c5} 9. exd5 (9.
+hxg6 fxg6 10. cxd5 b5 11. e5 dxe5 12. Bxb5 Ba6 13. a4 Bxb5 14. axb5 Nbd7 15.
+Be3 a6 16. bxa6 {1-0 (39) Rapport,R (2680)-Baklan,V (2627) Kozloduy 2013}) 9...
+Re8 10. h6 Bh8 11. Bg5 $146 ({Predecessor:} 11. Be3 Qa5 12. Qd2 Na6 13. Nh3 Bf5
+14. Ng5 Ng4 15. Bxg4 Bxg4 16. Rh4 {1-0 (35) Silva,M (2012)-Flach,K (1778) Rio
+de Janeiro 2016}) 11... Qb6 12. b3 Qa5 13. Bd2 Qd8 14. Kf1 Ne4 15. Nxe4 Rxe4
+16. Rc1 Rh4 17. Rxh4 Qxh4 18. g3 Qd8 (18... Qh2 {feels hotter.} 19. Bg4 Nd7 20.
+Nf3 Qh1+ 21. Ke2 Qxd1+ 22. Kxd1 f5) 19. Kg2 Nd7 20. Nf3 Ne5 21. Nxe5 Bxe5 22.
+Bd3 Bd7 23. Qf3 f5 24. Re1 Qf6 25. b4 (25. Qe3 $11) 25... cxb4 $15 26. Bxb4 b6
+({Better is} 26... Qg5 $1 $15) 27. Bd2 $11 {The position is equal.} Re8 28. Qd1
+f4 29. Qf3 {[%cal Rg3f4]} fxg3 (29... g5 {looks sharper.} 30. Qh5 Rf8 31. gxf4
+Bxf4 32. Bxf4 Qxf4 33. Re7 Rf6) 30. Qxf6 Bxf6 31. Rxe8+ Bxe8 32. fxg3 {[%mdl
+4096] Endgame KBB-KBB} Kf8 33. g4 Ke7 34. g5 Bd4 35. Kf3 Bd7 36. Be3 Bc3 37.
+Bc2 Kf7 38. Be4 Bb4 39. Bd4 Bc5 {Accuracy: White = 80%, Black = 66%.} 1/2-1/2
+
+[Event "GCT Paris Rapid 2019"]
+[Site "Paris"]
+[Date "2019.07.28"]
+[Round "6.2"]
+[White "Caruana, Fabiano"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2819"]
+[BlackElo "2775"]
+[Annotator "TA"]
+[PlyCount "126"]
+[EventDate "2019.07.26"]
+[EventType "tourn"]
+[EventCountry "FRA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,126,72,76,66,24,35,38,73,37,73,31,123,127,131,131,139,140,131,138,
+140,146,249,168,289,230,239,229,251,219,231,230,222,211,233,219,205,218,220,
+218,212,233,321,345,344,340,303,327,351,323,360,363,350,342,327,324,303,243,
+217,37,66,45,61,73,77,71,69,82,75,53,54,51,54,8,8,8,45,45,40,0,8,8,138,208,125,
+0,0,0,273,-16,-16,-16,-16,-1564,-1110,-2142,-2067,-2176,-2134,-1884,-1781,
+-1327,-1191,-29966,-29967,-29969,-29967,-29970,-29971,-29974,-29976,-29976,
+-29977,-29977,-29977,-29977,-29978]} 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5.
+Qd2 a6 6. Bh6 O-O 7. O-O-O b5 {B07: Pirc Defence: Miscellaneous Systems} 8.
+Bxg7 Kxg7 9. f3 Nc6 {White is slightly better.} 10. h4 e5 11. Nge2 (11. d5 $5 {
+[%cal Rd5c6]} Ne7 12. a3 $11) 11... b4 $146 ({Black should play} 11... h5 $14)
+({Predecessor:} 11... h5 12. Qe3 Qe7 13. Nd5 Nxd5 14. exd5 exd4 15. Qd2 Ne5 16.
+Qxd4 Qf6 17. Ng3 Nd7 18. a4 {1/2-1/2 (18) Adla,D (2491)-Martinez Catalan,F 
+(2247) Aragon 2008}) 12. Nd5 $1 $16 h5 13. Nxb4 Nxd4 14. Nxd4 exd4 15. Nc6 {
+[%cal Bb4c6,Bc6d4,Bd4e2,Be2f4][%mdl 32]} Qe8 16. Nxd4 Qa4 (16... Qe5 $16 17.
+Bc4 Rb8) 17. Kb1 c5 (17... Rb8 $142 18. b3 Re8) 18. Ne2 Rb8 19. b3 Be6 {
+intending ...c4.} 20. Qc3 c4 {[%cal Rc4b3]} 21. Nf4 ({Don't play} 21. Rxd6 $6
+cxb3 22. axb3 (22. cxb3 Bxb3 23. Qxf6+ Kg8 $19) 22... Rfc8 $16) 21... Rfc8 {
+[%cal Rc4b3]} 22. Rd4 $1 {[%cal Rf1c4]} cxb3 23. Nxe6+ ({Weaker is} 23. Rxa4
+bxa2+ 24. Kc1 Rb1+ 25. Kd2 Rxc3 $11) 23... fxe6 24. axb3 ({Not} 24. Rxa4 bxa2+
+25. Kxa2 Rxc3 $14) 24... Qe8 25. Qd2 a5 26. Ba6 Rc6 27. Rxd6 Rbb6 28. Rxc6 $1
+Qxc6 29. Be2 a4 30. b4 Qc5 31. c3 Qf2 32. Rd1 Qxg2 33. Qe3 Rb7 34. Rg1 Qh2 35.
+Qg5 $2 (35. b5 $18) 35... Ng4 $1 $14 36. Re1 Qf2 37. Qd2 Ne5 38. Rf1 $1 {
+[%cal Rf1f2]} Qxh4 39. f4 {Black must now prevent Qd4.} Rd7 40. Qe1 Qxe1+ 41.
+Rxe1 {[%mdl 4096] Endgame KRB-KRN} Nf7 42. Kc2 e5 43. f5 h4 44. fxg6 Kxg6 45.
+b5 Kg5 46. c4 h3 (46... Nd8 $11) 47. c5 $1 $16 Kf4 {[#]} 48. b6 (48. Rf1+ $1
+$16 Ke3 49. Bc4 Rd2+ 50. Kc3) 48... Nd8 $11 49. Bb5 Rh7 $2 {[%mdl 8192]} (49...
+Rd4 $1 $11) 50. c6 $2 (50. Bxa4 $18 {Threatens to win with Kd3.} h2 51. Rh1)
+50... Nxc6 $1 51. Bxc6 {Strongly threatening b7. KRB-KR} Rh6 $1 {[%cal Rh6c6]}
+52. Bd7 $2 {[%mdl 8192]} (52. Bxa4 $11 Rxb6 53. Kd3) 52... h2 $19 53. b7 Rb6
+54. Bc8 {[#]} a3 $1 {[%cal Ra3a2]} 55. Kc3 Kg3 56. Ra1 {[#]} a2 $1 {[%mdl 512]}
+57. Be6 (57. Rxa2 h1=Q) 57... Rxb7 {Black mates.} 58. Bb3 Ra7 59. Kc4 Rh7 60.
+Kc5 h1=Q 61. Rxh1 Rxh1 62. Bxa2 Kf4 63. Bd5 Re1 {Accuracy: White = 47%, Black
+= 62%.} 0-1
+
+[Event "GCT Paris Rapid 2019"]
+[Site "Paris"]
+[Date "2019.07.28"]
+[Round "6.3"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[WhiteElo "2729"]
+[BlackElo "2764"]
+[Annotator "TA"]
+[PlyCount "71"]
+[EventDate "2019.07.26"]
+[EventType "tourn"]
+[EventCountry "FRA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,71,0,6,-33,-41,-40,-42,-43,-10,-19,-8,-12,0,0,0,0,0,-35,-35,-42,-46,
+-45,-19,-39,-38,-22,19,0,0,0,0,4,10,0,0,0,0,0,0,0,0,-10,26,22,14,20,23,19,18,
+17,11,8,20,0,5,2,77,0,8,0,19,0,14,0]} 1. Nf3 d5 2. c4 e6 3. b3 d4 4. g3 Nc6 5.
+Bg2 e5 6. d3 {A13: English Opening: 1...e6} Bb4+ 7. Nbd2 a5 8. a3 {Black is
+slightly better.} Be7 (8... Bc5 {with more complications.} 9. O-O Nf6 10. Ng5
+Be7 11. Re1 O-O) 9. O-O $146 ({Predecessor:} 9. Rb1 Nf6 {1/2-1/2 (42) McNab,C 
+(2451)-Ivanchuk,V (2752) Gothenburg 2005}) 9... Nf6 10. Rb1 Nd7 11. Ne1 O-O 12.
+Nc2 Nc5 13. Ne4 Nxe4 14. Bxe4 Bh3 15. Re1 Qd7 (15... f5 $5 {[%cal Rf5e4]} 16.
+Bd5+ Kh8 $11) 16. b4 axb4 17. axb4 Bf5 18. Bh1 Nd8 19. e3 c6 20. exd4 exd4 21.
+Rb3 Bf6 22. h4 Bg4 23. Bf3 Bxf3 24. Qxf3 Ne6 25. b5 c5 26. Re2 b6 27. Rb1 Ra2
+28. Ra1 Rxa1 29. Nxa1 Qa7 30. Nc2 Qa8 31. Kg2 Qxf3+ (31... Be7 {is interesting.
+} 32. Bd2 Bd6 33. Re1 Qa2 34. Rc1 g6) 32. Kxf3 h5 {[#]} (32... Re8 $11 {
+remains equal.}) 33. Bf4 (33. Ne1 $1 $16) 33... Ra8 {The position is equal.}
+34. Bd6 Rd8 35. Bf4 Ra8 36. Bd6 {Accuracy: White = 63%, Black = 65%.} 1/2-1/2
+
+[Event "GCT Paris Rapid 2019"]
+[Site "Paris"]
+[Date "2019.07.28"]
+[Round "6.4"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Giri, Anish"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "2765"]
+[BlackElo "2779"]
+[Annotator "TA"]
+[PlyCount "85"]
+[EventDate "2019.07.26"]
+[EventType "tourn"]
+[EventCountry "FRA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,85,0,-8,-32,8,25,22,0,18,-11,19,15,77,68,71,83,127,102,107,122,122,
+112,124,116,142,142,137,135,152,138,195,146,145,155,161,145,129,64,64,48,56,51,
+48,0,0,-94,-71,-116,-104,-131,-62,-74,-29,-65,0,0,0,-3,0,0,0,0,0,3,33,19,17,0,
+0,6,652,506,29970,29970,29978,29979,29977,29978]} 1. d4 Nf6 2. Bg5 d5 3. Bxf6
+gxf6 4. c4 e5 (4... dxc4 5. e3 c5 6. d5 b5 7. a4 Bb7 8. axb5 Qxd5 9. Qxd5 Bxd5
+10. Nc3 Bb7 11. Be2 Nd7 12. Bf3 Bxf3 13. Nxf3 {1-0 (24) Duda,J (2738)-Gelfand,
+B (2673) St Petersburg 2018}) 5. e3 exd4 6. exd4 {D00: 1 d4 d5: Unusual lines}
+Bb4+ $146 ({Predecessor:} 6... Qe7+ 7. Be2 dxc4 8. Nc3 c6 9. d5 b5 10. Qd4 Bg7
+11. Nf3 O-O 12. d6 {0-1 (52) Pecnik,L (2339)-Von Bahr,O (2379) Split 2015}) 7.
+Nc3 O-O 8. Qf3 {The position is equal.} Re8+ 9. Nge2 dxc4 (9... Bxc3+ $5 10.
+bxc3 dxc4 $11) 10. O-O-O $1 {With the idea Nd5.} Kh8 (10... Nd7 $1 $11 {
+keeps the balance.}) 11. Ng3 $16 Bxc3 12. bxc3 Be6 13. d5 $1 $36 {[%cal Rd5e6]
+[%mdl 2048] Black is under strong pressure.} ({Worse is} 13. Qxb7 Bd5 $15)
+13... Bc8 14. Bxc4 {Threatens to win with d6.} Nd7 15. Qh5 Ne5 16. Rd4 $1 {
+[%cal Rd4h4] And now Rh4 would win.} Rg8 17. Bb3 $1 Qf8 18. Re1 Rg6 {
+Threatening ...Bg4.} 19. Qe2 Qh6+ (19... c5 $16 {was necessary.} 20. Re4 Bg4)
+20. f4 {Strongly threatening Qd2.} Qxh2 21. Nf1 Qh6 22. Nd2 {[%mdl 1024] White
+has strong compensation.} Bg4 {[#]} 23. Qb5 (23. Qe3 $1 $16 Nd7 24. d6) 23...
+Qh4 $14 24. Rde4 a6 25. Qf1 $1 ({Don't go for} 25. Qxb7 $2 Nd3+ 26. Kb1 Rag8
+$19) 25... Nd7 $1 26. d6 Nc5 $1 {[%cal Rc5e4]} 27. Re8+ {[#]} (27. dxc7 $11
+Nxe4 28. Nxe4) 27... Rg8 $1 $17 28. Rxa8 Rxa8 29. Re3 cxd6 ({Black should play
+} 29... Nxb3+ $17 30. axb3 cxd6) 30. Bxf7 $15 Qh6 31. Bd5 Qf8 (31... Rf8 $15)
+32. Qe1 $11 Bf5 {...Nd3+ is the strong threat.} 33. Qe2 Bg6 34. Nb3 Rb8 35. g4
+Nxb3+ 36. axb3 b5 37. f5 Bf7 38. Bxf7 Qxf7 39. Kb2 d5 $2 {[%mdl 8192]} (39...
+Qd5 $11) 40. Re7 $18 Qf8 {[#]} (40... Qg8 $18 41. Qh2 Re8) 41. g5 $1 {[%cal
+Rg5g6][%mdl 576] Deflection. White mates.} fxg5 42. Qe5+ {[%mdl 64] Double
+Attack} Kg8 43. f6 {Accuracy: White = 60%, Black = 42%.} 1-0
+
+[Event "GCT Paris Rapid 2019"]
+[Site "Paris"]
+[Date "2019.07.28"]
+[Round "6.5"]
+[White "Nakamura, Hikaru"]
+[Black "Dubov, Daniil"]
+[Result "1-0"]
+[ECO "D33"]
+[WhiteElo "2754"]
+[BlackElo "2700"]
+[Annotator "TA"]
+[PlyCount "81"]
+[EventDate "2019.07.26"]
+[EventType "tourn"]
+[EventCountry "FRA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,80,30,30,20,30,31,25,23,25,25,33,38,65,56,100,105,110,88,79,83,102,
+81,95,45,182,109,139,130,154,156,139,150,211,162,162,157,189,169,173,111,173,
+160,191,186,195,191,311,264,266,266,350,350,329,205,196,201,960,952,882,879,
+29997,29998,29998,29999,29999]} 1. c4 Nf6 2. Nc3 c5 3. g3 e6 4. Nf3 d5 5. cxd5
+exd5 6. d4 Nc6 7. Bg2 cxd4 8. Nxd4 Bc5 9. Nxc6 bxc6 10. O-O {D33: Tarrasch
+Defence: 6 g3 sidelines} O-O 11. Na4 (11. Bg5 h6 12. Bd2 Re8 13. Rc1 Ba6 14.
+Bf3 Bb6 15. Qa4 Bb7 16. Qc2 Rc8 17. Na4 c5 18. Nxb6 axb6 {0-1 (35) Maslar,A 
+(1876)-Poleksic,D (2004) Belgrade 2018}) 11... Bb6 12. Nxb6 {White has an edge.
+} axb6 13. Qc2 c5 $146 ({Predecessor:} 13... Qd7 14. b4 Ba6 15. Be3 Rab8 16.
+Bd4 Qd6 17. Qc3 Bxe2 {1/2-1/2 (17) Reuter,A (1578)-Reimann,T (1383) Germany
+2003}) 14. Bg5 Be6 15. e4 d4 16. e5 $36 {[%mdl 2048] White is really pushing.}
+h6 17. exf6 hxg5 18. fxg7 Re8 19. Bxa8 Qxa8 20. f4 {[#] f5 is the strong
+threat.} Qd5 (20... Bh3 $14 21. Rfe1 (21. fxg5 d3 $17) 21... gxf4) 21. Qe2 ({
+Better is} 21. Rae1 $18) 21... g4 22. Rfe1 ({Resist} 22. f5 $6 Bd7 $11) 22...
+d3 23. Qe5 {Black must now prevent Qxd5.} Rd8 {next ...d2 is good for Black.}
+24. Rad1 c4 (24... Qxe5 $16 25. Rxe5 Bxa2) 25. Qxd5 Bxd5 $18 {[%mdl 4096]
+Endgame KRR-KRB} 26. Rd2 b5 27. a3 Kxg7 28. Kf2 (28. Re5 $18) 28... Kg6 (28...
+Kf8 $16 29. b3 Ra8) 29. Re5 f6 30. Re7 Rb8 31. Ke3 b4 (31... Kf5 {was worth a
+try.} 32. Kd4 Bg8) 32. axb4 Rxb4 33. Kd4 Bg8 34. f5+ Kh6 35. h3 gxh3 36. Rh2
+Rb8 $2 {[#]} (36... d2 37. Rxh3+ (37. Rxd2 c3+ 38. Kxc3 Rg4 $18) 37... Kg5 38.
+Rg7+ Kxf5) 37. Ke4 Bd5+ 38. Kxd5 d2 39. Rxh3+ {White mates.} Kg5 40. Rg7+ Kxf5
+41. Rh5# {Accuracy: White = 70%, Black = 29%.} 1-0

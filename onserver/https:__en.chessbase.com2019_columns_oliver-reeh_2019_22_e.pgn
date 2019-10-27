@@ -1,0 +1,57 @@
+[Event "TePe Sigeman&Co 2019"]
+[Site "Malmo"]
+[Date "2019.05.08"]
+[Round "6.4"]
+[White "Hillarp Persson, Tiger"]
+[Black "Jones, Gawain C B"]
+[Result "0-1"]
+[ECO "A36"]
+[WhiteElo "2563"]
+[BlackElo "2702"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "64"]
+[EventDate "2019.05.03"]
+[EventType "tourn"]
+[EventCountry "SWE"]
+
+1. c4 c5 2. Nc3 g6 3. g3 Bg7 4. Bg2 Nc6 5. Nf3 d6 6. O-O e6 7. a3 Nge7 8. Rb1
+O-O 9. b4 b6 10. e3 Bb7 11. Qb3 Rb8 12. Bb2 Qd7 13. d3 h6 14. Rfe1 g5 15. Ne2
+e5 16. Rbd1 Ng6 17. d4 g4 18. Nd2 exd4 19. exd4 cxd4 20. Ne4 Rbe8 21. Nxd4 {
+In the diagram White has just captured on d4. What do you make of this
+continuation - or rather the position arising 21...Nxd4 22.Bxd4 Bxd4 23.Rxd4
+now?} Nxd4 22. Bxd4 Bxd4 23. Rxd4 {[%cal Ge4f6,Gd4d6]} {[%tqu "En","White
+threatens both 24.Nf6+ and capturing on d6. Which move gives Black the
+advantage?  Please try to calculate as far as possible - the main line
+stretches over 4 moves!","Der Re1 ist ungedeckt.","","f7f5","",10]} f5 $1 {
+[%csl Re4,Gf5][%cal Ge8e1] Hitting the knight which is pinned in the e-file.}
+24. Rxd6 {[%cal Gd6d7,Gd6g6]} (24. c5+ d5 {doesn't improve much.}) {[%tqu "En",
+"White has captured on d6. Continuation?","","","d7d6","",10]} 24... Qxd6 $1 {
+[%csl Gd6][%cal Ge8e1,Ye4d6,Yc4c5,Yb3g8] The first point - Black sacrifices
+his queen. But of course that's not the end of the story. Two lines: 25.c5+
+and 25.Nxd6 Rxe1+ 26.Bf1. Black's continuation ready in each case?} (24... Qg7
+$4 25. Nf6+ $1 $18 {[%csl Gf6][%cal Ge1e8,Yf8f6]}) 25. Nxd6 (25. c5+ {[%cal
+Gb3g8,Gc5d6]} {[%tqu "En","Which has given a discovered check. How does Black
+win now?","Don't move the queen.","","b7d5","",10]} Bd5 $1 $19 {[%cal Gd5b3]
+Queen moves to d5 or e6 would allow White the ressource 26.Nf6+! again.}) 25...
+Rxe1+ 26. Bf1 {[%tqu "En","Black has conquered two rooks for the queen and
+invaded with the rook, but now his bishop b7 is hanging. What to do?","Don't
+lose time and start to harass the white king.","","g6e5","Richtig - den
+Läufer b7 braucht Schwarz nicht zu seinem Glück!",10,"b7f3","",0,"b7a8","",0]
+} Ne5 $1 {[%csl Rb7,Ge5][%cal Yd6b7] Correct - Black can do without the bishop
+b7!} 27. c5+ Kh7 28. f4 ({After} 28. Nxb7 Nf3+ 29. Kg2 {Black wins like in the
+game on move 29!}) (28. Qc3 Nf3+ 29. Kg2 Bd5 $1 {[%csl Gd5,Ge1,Gf3,Rg2] bodes
+ill for White as well:} 30. Qd3 Re5 $1 {[%csl Rg2]}) {[%tqu "En","Pushing 28.
+f4, White has created an escape square for his king.  Please play 28...Nf3+!
+only after seeing how to continue following 29.Kf2...","","","e5f3","",10]}
+28... Nf3+ $1 {[%csl Gf3,Rg1][%cal Gf3g1]} 29. Kf2 {[%tqu "En","Here we are -
+your follow-up, please!","","","e1f1","",10]} Rxf1+ $1 {[%csl Gf1,Rf2] Fork
+time - this would also have been the winning move in the line 28.Nxb7 Nf3+ 29.
+Kg2 above!} 30. Ke3 (30. Kxf1 Nd2+ $19 {[%csl Gd2][%cal Gd2f1,Gd2b3]}) 30...
+Re1+ 31. Kf2 ({After} 31. Kd3 Be4+ 32. Nxe4 fxe4+ {[%csl Ge1,Gf3][%cal Yd3c4,
+Yd3c3,Yd3c2] Black again picks up the queen with a check, no matter where
+White's king goes!}) {[%tqu "En","How can Black immediately force the win of
+the queen?","Move the Re1.","","e1e2","und Weiß gab auf angesichts von",10]}
+31... Re2+ $1 {[%csl Ge2,Gf3] Rook and knight - a good queen winning team!
+White resigned in view of} 32. Kxe2 (32. Kf1 Nd2+) 32... Nd4+ $19 {[%csl Gd4]
+[%cal Gd4e2,Gd4b3]} 0-1
+

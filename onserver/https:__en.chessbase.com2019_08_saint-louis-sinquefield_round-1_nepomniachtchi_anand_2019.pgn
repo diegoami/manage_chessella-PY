@@ -1,0 +1,27 @@
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.17"]
+[Round "1.5"]
+[White "Nepomniachtchi, Ian"]
+[Black "Anand, Viswanathan"]
+[Result "*"]
+[ECO "A21"]
+[WhiteElo "2774"]
+[BlackElo "2756"]
+[Annotator "Saravanan,V"]
+[SetUp "1"]
+[FEN "rnbqk1nr/ppp1bppp/3p4/3Np3/2PP4/5N2/PP2PPPP/R1BQKB1R b KQkq - 0 5"]
+[PlyCount "5"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+5... Nf6 $5 {[This has been played only once in a relatively insignificant
+game]} 6. Nc3 (6. dxe5 dxe5 7. Nxe5 O-O 8. e3 Nxd5 9. Qxd5 (9. cxd5 Bf6) 9...
+Na6 $5) 6... exd4 (6... Nbd7 {"(and) you are a tempo up in an Old Indian 
+(Defence), but what am I going to do with (an extra) tempo in this passive
+opening!?” Anand}) 7. Nxd4 d5 {...} *
+

@@ -1,0 +1,2759 @@
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Votkinsk"]
+[Date "2019.08.10"]
+[Round "1.1"]
+[White "Motylev, Alexander"]
+[Black "Inarkiev, Ernesto"]
+[Result "0-1"]
+[ECO "C77"]
+[WhiteElo "2654"]
+[BlackElo "2693"]
+[Annotator "TA"]
+[PlyCount "122"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,122,0,20,4,10,0,3,2,16,11,29,22,33,22,29,0,33,-7,24,13,6,2,5,0,0,0,13,
+-33,-35,0,0,-259,-269,-467,-504,-504,-514,-519,-510,-614,-622,-679,-356,-275,0,
+-688,-592,-793,-795,-796,-794,-691,-653,-639,-625,-610,-585,-531,-555,-545,
+-355,-342,-333,-349,-363,-426,-412,-430,-433,-420,-420,-409,-404,-481,-484,
+-465,-449,-556,-558,-544,-525,-514,-418,-526,-526,-524,-516,-597,-586,-699,
+-680,-728,-573,-808,-810,-981,-981,-981,-981,-979,-892,-1246,-1128,-1242,-1006,
+-2119,-2218,-1784,-1439,-2630,-2291,-2675,-3075,-2993,-3060]} 1. e4 e5 2. Nf3
+Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 Be7 (5... Bc5 6. Bxc6 dxc6 7. d3 Qd6 8. h3 Be6
+9. Be3 Nd7 10. Bxc5 Nxc5 11. Qd2 Nd7 12. d4 exd4 13. Nxd4 c5 14. Nxe6 fxe6 {
+1-0 (76) Carlsen,M (2835)-Anand,V (2773) Wijk aan Zee 2019}) 6. Bxc6 {C77: Ruy
+Lopez: 3...a6 4 Ba4 Nf6, unusual lines} dxc6 7. a3 O-O 8. d3 $146 {The
+position is equal.} ({Predecessor:} 8. Nxe5 Nxe4 9. Nxe4 Qd4 10. d3 Qxe5 11.
+O-O Be6 12. Re1 Qd5 {1-0 (40) Schmidt,W (2350)-Weiss,H Schwarzach 2002}) 8...
+Nd7 9. h4 Bf6 10. g4 g6 11. Be3 Qe7 12. Ng5 Bg7 13. Qd2 Nc5 14. h5 h6 15. b4
+Nd7 16. Nf3 g5 17. Ne2 Rd8 18. Ng3 {aiming for Nf5.} Nf6 19. Nxg5 Bxg4 20. Nf3
+$2 {[%mdl 8192]} (20. f3 $11 {and White has nothing to worry.} Bd7 21. Nh3)
+20... Bxf3 $19 21. Nf5 $2 (21. Rg1 {was forced.} Qe6 22. Bxh6) 21... Qe6 $1 ({
+Weaker is} 21... Qd7 22. Rg1 $11) 22. Rg1 {[#]} Nxe4 $1 {[%mdl 64] Pin} 23.
+Nxg7 {[#]} (23. dxe4 Rxd2) 23... Qh3 $1 {[%cal Rh3h2]} 24. Qc1 Qh2 {[%cal
+Rh2g1]} 25. Kf1 Qh3+ 26. Ke1 Qh2 $2 $40 {[%mdl 128] Black has some attack.} (
+26... Kh7 27. dxe4 Rd1+ 28. Qxd1 Bxd1 29. Rxd1 Rg8 30. Bxh6 (30. Rd3 $2 Qh2 $19
+) 30... Qxa3) 27. Kf1 Nc3 28. Nf5+ Kh7 29. Ng3 Rg8 30. Qd2 {[#]} Ne2 $1 {
+[%mdl 512]} 31. Qxe2 (31. Nxe2 Rxg1+) 31... Bxe2+ 32. Kxe2 {[#]} f5 $1 {
+White must now prevent ...Rxg3!} 33. Rh1 (33. Nxf5 Rxg1) 33... Qg2 {Strongly
+threatening ...Rxg3.} 34. Rag1 Rxg3 35. Rxg2 Rxg2 {[%mdl 4096] Endgame KRR-KRB}
+36. d4 f4 37. Bd2 exd4 38. Bxf4 Re8+ 39. Kf3 Rg7 40. Rd1 Rd7 41. c3 d3 {
+...Rf8 is the strong threat.} 42. Be3 Re5 43. Kg4 b6 44. Bf4 Re8 45. Be3 Rd5
+46. Bf4 Re7 {Black is clearly winning.} 47. Kg3 Red7 48. Kg4 c5 49. Bd2 Rg7+
+50. Kh4 Rg2 51. Be3 cxb4 52. c4 Rd7 53. Kh3 Rg8 54. axb4 a5 55. bxa5 bxa5 56.
+Bd2 a4 {[%cal Ba5a4,Ba4a3][%mdl 32]} 57. Re1 a3 58. Re6 Rd6 59. Re5 Ra8 60.
+Re7+ Kg8 61. c5 Rd5 {Accuracy: White = 40%, Black = 66%.} 0-1
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Votkinsk"]
+[Date "2019.08.10"]
+[Round "1.2"]
+[White "Predke, Alexandr"]
+[Black "Artemiev, Vladislav"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2632"]
+[BlackElo "2761"]
+[Annotator "TA"]
+[PlyCount "78"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,78,14,22,15,62,41,54,54,58,40,124,116,108,105,105,96,101,106,117,112,
+107,100,93,116,110,116,105,114,116,106,97,65,43,21,25,28,19,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4
+Nxc3 6. bxc3 Bg7 7. Nf3 c5 8. Be3 Qa5 9. Qd2 O-O 10. Rc1 Rd8 11. h4 {D85:
+Exchange Grünfeld: Unusual White 7th moves and lines with 7 Nf3} (11. d5 e6 12.
+Bg5 f6 13. Be3 Nc6 14. h4 exd5 15. exd5 Bg4 16. Be2 c4 17. Bxc4 Bxf3 18. gxf3
+Ne5 19. Be2 Qxd5 20. Qxd5+ Rxd5 {1/2-1/2 (40) Akobian,V (2625)-So,W (2762)
+Saint Louis 2019}) 11... Nc6 12. d5 e6 13. h5 {White is slightly better.} exd5
+14. hxg6 $1 hxg6 {[#]} (14... fxg6 $14 15. exd5 Be6) 15. Bh6 $1 $16 {[%cal
+Rh6g7] [#] Hoping for Bxg7.} ({But not} 15. exd5 $6 Bf5 $11) 15... Re8 $146 ({
+Predecessor:} 15... Bh8 16. Bg5 Rd6 17. Rxh8+ Kxh8 18. Qf4 Qc7 19. Bf6+ Kg8 20.
+Qh2 {1-0 (20) Kozul,Z (2602)-Brkic,A (2587) Zagreb 2012}) 16. Bxg7 Rxe4+ 17.
+Be2 {Intending Bf6 and mate.} Kxg7 18. Ng5 ({Inferior is} 18. Qxd5 Bf5 $15)
+18... Re8 19. Rh7+ ({Weaker is} 19. Qxd5 Be6 $17) 19... Kg8 20. Rxf7 Bg4 21. f3
+Re5 {[#] Threatens to win with ...Rae8.} 22. fxg4 {Black must now prevent Rf6.}
+Qd8 23. Rxb7 Qxg5 24. Qxg5 Rxg5 25. Rc7 Ne5 26. Rb1 Nxg4 27. Rbb7 Ne3 28. Bf3 {
+The position is equal.} Nxg2+ 29. Kf2 Nf4 $1 30. Rg7+ Kh8 31. Rh7+ Kg8 32.
+Rbg7+ Kf8 33. Rf7+ Kg8 34. Rhg7+ Kh8 35. Rh7+ Kg8 36. Rfg7+ Kf8 37. Rf7+ Kg8
+38. Rhg7+ Kh8 39. Rh7+ Kg8 {Accuracy: White = 82%, Black = 65%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Votkinsk"]
+[Date "2019.08.10"]
+[Round "1.3"]
+[White "Jakovenko, Dmitry"]
+[Black "Matlakov, Maxim"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2711"]
+[BlackElo "2701"]
+[Annotator "TA"]
+[PlyCount "201"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,200,21,20,16,0,0,17,0,0,18,6,22,25,10,8,26,41,28,13,13,13,27,18,72,
+63,65,72,77,65,55,66,75,72,66,63,73,66,90,75,58,80,95,26,20,28,80,59,51,0,45,
+50,41,27,25,13,97,21,30,30,33,0,0,0,0,0,0,0,0,0,0,0,0,0,18,18,18,18,18,8,8,8,8,
+8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,
+8,8,8,8,8,8,8,8,8,8,8,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,8,8,8,8,8,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3
+Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. Bb3 d6 7. Nbd2 {[%cal Bb1d2,Bd2f1,Bf1g3]
+[%mdl 32]} O-O {C54: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} (
+7... h6 8. Nf1 d5 9. exd5 Nxd5 10. Ng3 O-O 11. O-O Re8 12. Re1 Nf6 13. h3 Be6
+14. Bc2 Bd5 15. Nh4 {1/2-1/2 (43) Duda,J (2739)-Mamedyarov,S (2820) Batumi 2018
+}) 8. Nf1 d5 9. exd5 Nxd5 {next ...Nf4 is good for Black.} 10. Ng3 f6 11. Be3
+$146 ({Predecessor:} 11. O-O Be6 12. Re1 Bf7 13. Nh4 Nde7 14. Bc2 {0-1 (79)
+Sedlak,N (2577)-Blagojevic,D (2490) Ulcinj 2014}) 11... Be7 12. O-O Kh8 13. d4
+exd4 14. Bxd4 Be6 15. Re1 Qd7 16. Qd3 Rad8 17. Rad1 Nf4 (17... Bg8 $11) 18.
+Bxe6 $16 Nxe6 19. Qe4 $36 {[%mdl 2048] White is in control.} Nexd4 20. Nxd4
+Nxd4 21. Rxd4 Bd6 22. Qxb7 Rb8 23. Qxa6 Rxb2 24. a4 f5 25. Qd3 g6 26. c4 Re8
+27. Rd1 (27. Rxe8+ $16 Qxe8 28. Qc3 Rb1+ 29. Rd1+ Be5 30. Qd2) 27... Qg7 $1 $11
+28. Rd5 Qf6 (28... Ra2 $11 {keeps the balance.}) 29. c5 Bf8 $1 30. Rd8 (30. Qc4
+$14) 30... Rb8 31. Rxe8 Rxe8 32. Qd7 Qe5 33. c6 Bc5 {[#]} (33... Ra8 $11 {
+remains equal.}) 34. Qd2 (34. Nf1 $1 $16) 34... Bb6 35. Nf1 f4 36. h3 Qe2 $1 {
+The position is equal.} 37. Qxe2 Rxe2 {[%mdl 4096] Endgame KRB-KRN} 38. Nh2
+Rxf2 {[#] Threatens to win with ...Rd2+.} 39. Rd8+ Kg7 {Hoping for ...Rd2+.}
+40. Rd7+ Kf8 {...f3 is the strong threat.} 41. a5 Bc5 42. Rxc7 f3 43. gxf3 Ra2+
+44. Kf1 Bd6 45. Rc8+ Ke7 46. c7 {And now Re8+! would win.} Kd7 47. Rh8 Kxc7 48.
+Rxh7+ Kc6 49. Ng4 Rxa5 50. h4 Ra1+ 51. Kg2 Ra2+ 52. Kh3 Ra3 53. Rf7 Kd5 54. Rf6
+Be7 55. Rxg6 Bxh4 56. Kxh4 Rxf3 {KRN-KR} 57. Kg5 Kd4 58. Rd6+ Ke4 59. Re6+ Kd5
+60. Re8 Kd4 61. Nh6 Rf2 62. Nf5+ Kd5 63. Kf6 Rf1 64. Rd8+ Kc5 65. Ke5 Re1+ 66.
+Kf4 Rf1+ 67. Ke4 Re1+ 68. Ne3 Re2 69. Rd3 Re1 70. Ke5 Re2 71. Rb3 Rd2 72. Rc3+
+Kb4 73. Rc8 Re2 74. Kd4 Rd2+ 75. Ke4 Kb5 76. Nf5 Kb4 77. Nd4 Rh2 78. Nc6+ Kc5
+79. Ne5+ Kb5 80. Kd4 Rh4+ 81. Kd5 Kb4 82. Nd3+ Kb3 83. Nc5+ Kb4 84. Rb8+ Kc3
+85. Ne4+ Kd3 86. Rb3+ Kc2 87. Rc3+ Kb2 88. Re3 Rh8 89. Kc4 Rc8+ 90. Nc5 Kc2 91.
+Re2+ Kd1 92. Rh2 Rd8 93. Nb3 Ke1 94. Nd4 Ra8 95. Kd3 Ra3+ 96. Ke4 {Intending
+Nc2+ and mate.} Kf1 97. Nf5 Ke1 98. Rb2 Rh3 99. Ne3 {Kd3 would kill now.} Rh4+
+100. Kd3 {[%csl Gd3][%cal Rb2e2]} Rd4+ $1 101. Kxd4 {Accuracy: White = 57%,
+Black = 70%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Votkinsk"]
+[Date "2019.08.10"]
+[Round "1.4"]
+[White "Alekseenko, Kirill"]
+[Black "Fedoseev, Vladimir"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2650"]
+[BlackElo "2681"]
+[Annotator "TA"]
+[PlyCount "79"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,79,10,24,14,33,27,25,24,13,0,6,0,0,0,0,0,0,0,55,46,58,40,38,50,43,51,
+44,32,59,58,98,106,134,150,173,154,150,178,153,164,185,184,326,327,585,332,533,
+505,504,399,389,393,508,506,456,320,564,564,564,557,646,645,619,617,685,681,
+647,640]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7.
+Be3 O-O 8. Qd2 {C42: Petroff Defence: 3 Nxe5 and unusual White 3rd moves} b6 9.
+O-O-O Bb7 10. h4 {White has an edge.} Nd7 {[%cal Bb8d7,Bd7f6,Bf6e4][%mdl 32]}
+11. Rh3 $146 ({Predecessor:} 11. Bd3 Re8 12. Kb1 Bf6 13. Rh3 Nc5 14. Bxc5 bxc5
+15. g4 c4 16. Bxc4 {1/2-1/2 (26) Caruana,F (2822)-Mamedyarov,S (2808)
+Stavanger 2018}) 11... Nf6 12. Nd4 Ne4 13. Qe2 d5 ({Don't blunder} 13... Bxh4
+$2 14. Qh5 $18) 14. Nf5 Bf6 15. g4 Qd7 (15... Re8 $11) 16. f3 $14 Nd6 17. Nxd6
+Qxd6 18. f4 Rae8 19. g5 Be7 20. Qf2 Qc6 21. Bg2 Qc4 22. Kb1 c6 23. Bf1 Qa4 24.
+f5 f6 25. Rd4 Qa5 {[#]} 26. Rg3 $1 Bc8 27. Bd3 c5 (27... b5 $142 28. gxf6 Bxf6)
+28. Rxd5 $18 Qa4 $2 (28... Ba6 29. g6 Bxd3 30. gxh7+ (30. Rxd3 h6 $18) 30...
+Kxh7) 29. b3 Qxh4 $2 (29... Qc6 {might work better.} 30. Qf3 (30. Bc4 Kh8 $18)
+30... b5) 30. Bc4 {Hoping for Rd4+.} Kh8 {[%cal Rf6g5]} 31. Qg2 {Strongly
+threatening g6.} fxg5 {[#]} 32. Rh3 $1 Qe1+ 33. Kb2 Bf6 34. Bf2 Qe4 $2 {[#]} (
+34... Bxc3+ 35. Rxc3 Qe7) 35. Rxh7+ $1 {[%mdl 512] White is clearly winning.}
+Kxh7 36. Qh2+ Kg8 {...Rf7 is the strong threat.} 37. Rd4+ $1 {[%mdl 64]
+Discovered Attack} Qe6 38. fxe6 ({Not} 38. Bxe6+ Bxe6 39. fxe6 cxd4 $11) 38...
+cxd4 39. e7+ $1 {[%mdl 64] Discovered Attack, Zwischenzug} Rf7 40. Bxd4 {
+Accuracy: White = 83%, Black = 43%.} 1-0
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Votkinsk"]
+[Date "2019.08.10"]
+[Round "1.5"]
+[White "Sarana, Alexey"]
+[Black "Tomashevsky, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2640"]
+[BlackElo "2702"]
+[Annotator "TA"]
+[PlyCount "108"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,108,18,16,15,15,29,23,16,25,18,21,23,21,18,28,25,11,21,41,34,64,41,
+43,43,57,50,62,43,62,27,41,0,26,0,25,8,15,13,10,12,15,15,20,2,4,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,-15,-12,-20,-20,-13,-14,-175,-175,-175,-175,-189,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3
+Be7 5. Bf4 O-O 6. e3 Nbd7 7. a3 {D37: Queen's Gambit Declined: 5 Bf4} (7. c5
+Nh5 8. Bd3 Nxf4 9. exf4 b6 10. b4 a5 11. a3 c6 12. O-O Qc7 13. g3 Ba6 14. Kg2
+Bxd3 15. Qxd3 Ra7 {1/2-1/2 (40) Giri,A (2797)-Radjabov,T (2756) Shamkir 2019})
+7... c5 8. cxd5 Nxd5 9. Nxd5 {White has an edge.} exd5 10. dxc5 Nxc5 11. Be5
+Bf5 12. Be2 Bf6 13. Bxf6 Qxf6 14. Qd4 Qxd4 $146 ({Predecessor:} 14... Nb3 15.
+Qxf6 gxf6 {1-0 (47) Xu,M (2332)-Zou,C (2381) Daqing 2018}) 15. Nxd4 Be6 16. f3
+Rfc8 17. b4 Nd7 18. Kd2 Kf8 19. Rhb1 Ke7 20. a4 Ne5 21. Bd3 Bd7 22. a5 ({
+Avoid the trap} 22. Bxh7 $2 g6 $19) 22... Nc6 23. Ne2 (23. Bxh7 $2 g6 $17)
+23... Ne5 24. Rb3 Nxd3 25. Rxd3 Rc4 26. Nc3 Be6 27. Rc1 Rac8 28. Na2 Rxc1 (
+28... b6 {feels hotter.} 29. axb6 axb6 30. Rxc4 dxc4 31. Ra3 Rd8+) 29. Nxc1 $11
+{[%mdl 4096] Endgame KRB-KRN} Rc4 30. Rd4 Rxd4+ 31. exd4 {KB-KN} Kd6 32. Kc3
+Bd7 33. Nd3 f6 34. h4 Bb5 {Threatens to win with ...Bxd3.} 35. Nf4 g5 36. hxg5
+fxg5 37. Nh3 $1 h6 {Hoping for ...Bf1.} 38. g3 $2 (38. f4 $1 $11) 38... Bf1 $1
+$19 {[%cal Rf1h3]} 39. Nf2 {[#]} Bg2 $1 40. Ng4 {[#]} Bxf3 $2 (40... h5 $1 $19
+{[%cal Rh5g4]} 41. Ne5 h4 42. Nf7+ Kc6 43. Ne5+ Kc7 44. gxh4 gxh4) 41. Nxh6 $11
+{The position is equal.} Ke6 42. Kd2 Bh5 43. Ke3 Kf6 44. Ng8+ Kf7 45. Nh6+ Ke6
+46. Kd2 b6 47. axb6 axb6 48. Ke3 Kf6 49. Ng8+ Kf7 50. Nh6+ Ke6 51. Kd2 Kf6 52.
+Ke3 b5 (52... Kg6 $5 53. Ng8 $8 Kf7 54. Nh6+ Kg7 55. Nf5+ Kf6 $11) 53. Ng8+ Ke6
+(53... Kf7 $5 54. Nh6+ $8 Ke6 $11) 54. Nh6 Kf6 {Accuracy: White = 65%, Black =
+77%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Votkinsk"]
+[Date "2019.08.10"]
+[Round "1.6"]
+[White "Dreev, Aleksey"]
+[Black "Vitiugov, Nikita"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[WhiteElo "2655"]
+[BlackElo "2727"]
+[Annotator "TA"]
+[PlyCount "70"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,70,18,16,0,0,-28,-15,0,18,23,18,19,9,22,19,9,46,42,37,30,31,39,30,33,
+44,33,37,13,21,25,18,4,16,0,0,0,0,0,0,0,0,0,0,-8,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6
+2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 c5 8. dxc5 bxc5 9.
+e3 d6 10. Bd3 Nbd7 11. Nf3 {E32: Nimzo-Indian: Classical (4 Qc2): 4...0-0} Bb7
+12. Nd2 h6 13. Bh4 Ne5 (13... a5 14. O-O Qb6 15. e4 d5 16. cxd5 exd5 17. Rfe1
+dxe4 18. Nxe4 Nxe4 19. Bxe4 Bxe4 20. Rxe4 {1/2-1/2 (51) Mamedyarov,S (2736)
+-Korobov,A (2700) Skopje 2015}) 14. Bc2 Ng6 15. Bxf6 Qxf6 16. Qxf6 gxf6 17.
+O-O-O $146 ({Predecessor:} 17. O-O) 17... Bxg2 18. Rhg1 Bc6 19. Ne4 Bxe4 20.
+Bxe4 Rad8 21. Bxg6 fxg6 22. Rxg6+ $11 {[%mdl 4160] [#] Endgame Double Attack.
+KRR-KRR} Kh7 23. Rg3 a5 24. Kc2 a4 25. h4 {The position is equal.} h5 26. e4 f5
+27. Rdg1 fxe4 28. Rg7+ Kh8 29. R7g6 {[%cal Rg6h6]} Rxf2+ 30. Kc3 {[%cal Rg6h6]}
+Rd7 {White must now prevent ...Kh7.} 31. Rh6+ Rh7 32. Rhg6 {[%csl Gg1][%cal
+Rg6g8]} Rb7 {[%csl Ga4][%cal Rb7b3]} 33. Rh6+ {[%mdl 64] [#] Double Attack} Rh7
+34. Rhg6 {[%csl Gg1][%cal Rg6g8]} Rb7 {[%csl Ga4][%cal Rb7b3]} 35. Rh6+ {
+[%mdl 64] Double Attack} Rh7 {Accuracy: White = 57%, Black = 70%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Votkinsk"]
+[Date "2019.08.11"]
+[Round "2.1"]
+[White "Inarkiev, Ernesto"]
+[Black "Vitiugov, Nikita"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2693"]
+[BlackElo "2727"]
+[Annotator "TA"]
+[PlyCount "82"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,82,0,0,0,12,10,10,10,14,14,11,2,9,2,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7,-7,-7,-7,-7,-7,-7,-7,-7,-7,
+-7,0]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. dxe5 Nxb5 7. a4
+Nbd4 8. Nxd4 d5 $146 ({Predecessor:} 8... Nxd4 9. Qxd4 d5 {1/2-1/2 (20) Shirov,
+A (2704)-Georgiev,K (2654) Sarajevo 2002}) 9. exd6 Nxd4 10. Qxd4 Qxd6 {The
+position is equal.} 11. Qe3+ {C67: Ruy Lopez: Berlin Defence: 4 0-0 Nxe4} Be7
+12. Nc3 c6 13. Re1 Be6 14. Ne4 Qe5 15. Bd2 {Strongly threatening Bc3.} O-O 16.
+Bc3 Qf5 17. Qg3 {[%csl Gc3][%cal Rg3g7] [#]} Qg6 $1 18. Qc7 Bd5 19. Qxe7 Rae8
+20. Qg5 {And now Qxg6 would win.} ({Much weaker is} 20. Qxb7 Rxe4 21. Rxe4 Bxe4
+$17) 20... Bxe4 21. Qxg6 Bxg6 22. Bb4 Rxe1+ 23. Rxe1 $11 {[%mdl 4096] Endgame
+KRB-KRB} Rd8 24. c4 Bc2 25. a5 f6 26. f3 Rd1 27. Rxd1 Bxd1 {KB-KB} 28. Kf2 Bb3
+29. c5 Kf7 30. Ke3 Ke6 31. Kd4 Kf5 32. Be1 h5 33. Bg3 Ba4 34. Bb8 a6 35. h4 Bb5
+36. b4 Bf1 37. g3 Be2 38. Ke3 Bd1 39. Bd6 Ke6 40. Bf8 Kf7 41. Bd6 Ke6 {
+Accuracy: White = 83%, Black = 83%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Votkinsk"]
+[Date "2019.08.11"]
+[Round "2.2"]
+[White "Tomashevsky, Evgeny"]
+[Black "Dreev, Aleksey"]
+[Result "1/2-1/2"]
+[ECO "D52"]
+[WhiteElo "2702"]
+[BlackElo "2655"]
+[Annotator "TA"]
+[PlyCount "82"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,82,22,28,29,27,22,34,43,63,28,33,40,26,4,39,0,36,31,36,28,116,128,
+151,152,270,275,249,106,98,95,106,93,93,90,85,97,111,79,110,63,81,33,31,37,25,
+34,53,44,86,104,72,32,28,29,35,29,36,29,68,25,25,20,20,20,20,0,0,0,22,22,25]} 
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Nbd7 6. e3 Qa5 7. cxd5 Nxd5 8.
+Rc1 {D52: Queen's Gambit Declined: Cambridge Springs Variation} Nxc3 9. bxc3
+Ba3 10. Rc2 {White is slightly better.} b6 11. Be2 Ba6 12. O-O Bxe2 13. Rxe2
+O-O 14. e4 (14. Qc2 c5 15. d5 exd5 {1/2-1/2 (68) Yu,Y (2764)-Dreev,A (2670)
+chess.com INT 2019}) 14... e5 15. Nh4 $146 ({Predecessor:} 15. Re3 Rfe8 {
+1/2-1/2 (72) Peek,M (2293)-Lacrosse,M (2173) Vlissingen 2017}) 15... exd4 {
+...d3 is the strong threat.} (15... Qxc3 $6 16. Re3 $16) 16. Nf5 f6 (16... Qxc3
+$6 17. Bh6 $1 $16 {[%mdl 512]}) (16... Rfe8 $1 $11) 17. Bf4 $1 $16 d3 {[#]} (
+17... Qxc3 18. Rc2) 18. Re3 $1 {[%cal Re3g3] Hoping for Rg3!} ({Don't play} 18.
+Qxd3 $6 Rf7 $14) 18... Ne5 (18... g6 $16) 19. Bxe5 $18 fxe5 {[#]} 20. Rxd3 ({
+Not} 20. Qxd3 Rad8 $14) (20. Rh3 $1 $18 {is the precise move to win. Threatens
+to win with Qh5.} Rxf5 21. exf5) 20... Rf6 $16 21. Rd7 Bf8 22. Qb3+ Kh8 23.
+Rfd1 Qb5 24. Qxb5 cxb5 25. Kf1 Rc6 26. R1d3 a5 27. Rd8 Rcc8 28. Rxc8 Rxc8 $14 {
+[%mdl 4096] Endgame KRB-KRN} 29. Ne3 b4 30. Nd5 Rc6 31. cxb4 axb4 32. Ke2 Kg8
+33. Rd2 b5 34. Rb2 Rc4 35. f3 Bc5 36. Kd2 Kf7 37. Rc2 Ke6 {The position is
+equal.} 38. Kc1 Kd6 39. Kb2 Rd4 40. Kc1 Rc4 41. h3 g6 {Accuracy: White = 59%,
+Black = 61%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Votkinsk"]
+[Date "2019.08.11"]
+[Round "2.3"]
+[White "Fedoseev, Vladimir"]
+[Black "Sarana, Alexey"]
+[Result "1-0"]
+[ECO "D78"]
+[WhiteElo "2681"]
+[BlackElo "2640"]
+[Annotator "TA"]
+[PlyCount "77"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,77,18,25,-10,0,0,13,13,2,0,9,5,11,0,0,0,18,0,24,19,32,39,62,61,70,50,
+55,49,45,43,42,43,46,52,36,39,19,37,32,26,123,128,201,196,167,204,197,200,292,
+285,283,268,278,278,393,335,398,406,395,390,398,399,568,410,635,630,625,625]} 
+1. Nf3 d5 2. g3 Nf6 3. Bg2 g6 4. O-O Bg7 5. d4 c6 6. c4 O-O 7. a4 {D78:
+Fianchetto Grünfeld: 6 0-0 c6} (7. Qb3 Qb6 8. Nc3 Rd8 9. Na4 Qxb3 10. axb3 Na6
+11. Nc3 Nc7 12. Bf4 Nfe8 13. Rfc1 Ne6 14. cxd5 Nxf4 15. gxf4 cxd5 16. Ne5 e6 {
+1/2-1/2 (40) Wojtaszek,R (2724)-Nepomniachtchi,I (2773) Moscow 2019}) 7... a5
+8. cxd5 cxd5 9. Qb3 $146 {The position is equal.} ({Predecessor:} 9. Nc3 Nc6
+10. Bf4 Bf5 11. Nh4 Be6 12. Qd2 Qd7 13. Rfd1 Rfd8 14. Bh6 Nxd4 15. Bxg7 Nb3 16.
+Qf4 Nxa1 17. Bxf6 exf6 18. Rxa1 {1-0 (38) Pazlar,M (2056)-Krzisnik,J (1894)
+Ljubljana 2014}) 9... Nc6 10. Nc3 e6 11. Rd1 Qe7 12. Bf4 Nh5 13. Bg5 Qb4 14.
+Qa3 Bd7 15. e4 Qxa3 16. Rxa3 Nb4 17. e5 {g4 is the strong threat.} f6 18. exf6
+(18. Be3 $5 {[%cal Rg3g4]}) 18... Nxf6 19. Ne5 {Black must now prevent Bxf6.}
+Bc6 20. Bh3 Rfe8 21. Rd2 Nd7 22. Nxd7 (22. Nxc6 bxc6 23. Be3 Nb6 $11) 22...
+Bxd7 23. Nb5 $36 {[%mdl 2048] aiming for Nc7. White has some pressure.} Rec8
+24. Rc3 Ra6 25. Re2 Kf7 (25... Rac6 $11) 26. Nc7 $1 $16 Rc6 {[#]} (26... Rd6
+$16) 27. Bxe6+ $1 $18 {[%mdl 512]} Bxe6 (27... Rxe6 28. Nxe6) 28. Nxe6 Rxc3 29.
+bxc3 {[%cal Bb2c3,Bc3b4,Bb4a5][%mdl 32]} h6 (29... Rxc3 $142 30. Nd8+ Kf8) 30.
+Nxg7 ({Don't take} 30. cxb4 $6 hxg5 31. Nxg5+ (31. bxa5 Bf6 $16) 31... Kf6 $18)
+30... hxg5 31. cxb4 {Hoping for Ne6.} Kxg7 32. bxa5 {[%mdl 4096] Endgame KR-KR}
+Rc4 {[#]} (32... Ra8 {keeps fighting.} 33. Re7+ Kf6 34. Rxb7 Rxa5 35. Rb6+ Kf5)
+33. Re5 $1 Rxd4 34. Rxg5 Kf6 35. h4 Rd1+ 36. Kg2 d4 (36... Rd3 {was called for.
+} 37. Kf1 Kf7) 37. Rb5 Ra1 (37... d3 $142 38. Kf3 Re1) 38. Kf3 Rxa4 39. Ke4 {
+Accuracy: White = 83%, Black = 33%.} 1-0
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Votkinsk"]
+[Date "2019.08.11"]
+[Round "2.4"]
+[White "Matlakov, Maxim"]
+[Black "Alekseenko, Kirill"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2701"]
+[BlackElo "2650"]
+[Annotator "TA"]
+[PlyCount "120"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,120,9,11,4,0,0,0,0,0,0,1,19,14,12,0,10,10,18,10,22,11,19,16,24,23,24,
+23,32,31,29,27,29,25,31,23,30,30,29,18,15,25,34,32,33,33,30,30,45,29,23,0,5,5,
+24,5,9,0,0,-2,26,26,26,27,24,17,36,40,43,27,30,17,23,9,9,0,0,0,0,0,0,0,0,0,8,8,
+114,114,110,110,176,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. Nf3 d5 2. d4 Nf6 3. c4 e6
+4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O Nbd7 8. Qc2 c6 9. Bf4 b6 10. Rd1 Ba6 {
+E08: Closed Catalan: Main Line: 7 Qc2} 11. cxd5 cxd5 12. Ne5 Rc8 13. Nc6 Nh5
+14. Bc1 Nb8 15. Nxe7+ Qxe7 16. Qd2 Nc6 17. b3 {next Ba3 is good for White.}
+Rfd8 {[#]} 18. Bb2 $146 ({Predecessor:} 18. Ba3) 18... h6 19. Nc3 {[%cal Bb1c3,
+Bc3e2,Be2f4][%mdl 32]} Nf6 20. Rac1 Qd7 21. f3 Qe7 22. e3 Qe8 23. Ne2 Rd7 24.
+Nf4 Ne7 25. Rxc8 Qxc8 26. Rc1 Rc7 27. Rxc7 Qxc7 28. e4 dxe4 29. fxe4 Ne8 30. h3
+Bb7 31. Kh2 Nc8 {[%cal Be7c8,Bc8d6,Bd6f5][%mdl 32]} 32. a4 {[%cal Ba2a4,Ba4a5]
+[%mdl 32]} Qe7 33. a5 Ncd6 34. e5 Nf5 35. d5 exd5 36. Qd3 Qd7 $1 37. a6 Bc6 38.
+Nxd5 {[#] Black must now prevent Qxf5!} Bxd5 (38... Ne3 {looks sharper.} 39.
+Ne7+ Kf8 40. Qxd7 Bxd7 41. Ba3 Nxg2 42. Kxg2 f6) 39. Qxd5 Qxd5 40. Bxd5 $11 {
+[%mdl 4096] Endgame KBB-KNN} Nc7 41. Be4 Ne3 42. Bd3 Kf8 43. Ba3+ Ke8 44. Kg1
+Ned5 45. Kf2 Ne6 46. Bd6 Ndc7 47. Ke3 Kd7 48. h4 Nd5+ 49. Kd2 Ndc7 50. g4 Nd4
+51. Bc4 Nce6 (51... Nde6 $1 $11) 52. Ke3 $16 Kc6 53. b4 h5 {[#]} (53... Nc2+
+$16 {is a better defense.} 54. Ke4 Ncd4) 54. gxh5 $2 (54. Bxe6 $1 $18 Nxe6 55.
+gxh5) 54... Nf5+ $11 {[%mdl 64] Double Attack. The position is equal.} 55. Ke4
+Nxd6+ 56. exd6 Kxd6 57. Kf5 {Strongly threatening Bxe6.} Nd4+ 58. Ke4 Ne6 59.
+Kf5 {aiming for Bxe6.} Nd4+ 60. Ke4 Ne6 {Accuracy: White = 76%, Black = 60%.}
+1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Votkinsk"]
+[Date "2019.08.11"]
+[Round "2.5"]
+[White "Artemiev, Vladislav"]
+[Black "Jakovenko, Dmitry"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2761"]
+[BlackElo "2711"]
+[Annotator "TA"]
+[PlyCount "123"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,123,12,14,-7,-6,-10,8,0,0,7,7,0,14,2,8,5,9,11,17,13,12,16,39,30,46,11,
+55,55,45,32,31,4,24,14,15,0,5,-6,27,16,17,20,11,-13,-14,-18,0,-22,61,40,50,2,6,
+0,24,24,16,14,27,20,20,20,21,33,35,32,29,33,41,59,37,55,53,36,51,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. Nf3 d5
+2. b3 Nf6 3. Bb2 Bg4 4. e3 Nbd7 5. h3 Bh5 6. g4 {A06: Réti Opening:1 Nf3 d5}
+Bg6 7. g5 (7. Nh4 e5 8. d3 c6 9. Nd2 Bd6 10. Bg2 O-O 11. Qe2 a5 12. a3 Re8 13.
+Nxg6 hxg6 {1-0 (49) Grischuk,A (2766)-Caruana,F (2822) Saint Louis 2018}) 7...
+Ne4 8. h4 Bh5 9. d3 Nd6 10. Be2 h6 11. Nbd2 e6 12. Rg1 $146 ({Predecessor:} 12.
+c4 dxc4 13. bxc4 Bxf3 14. Bxf3 hxg5 15. hxg5 Rxh1+ 16. Bxh1 Qxg5 {1/2-1/2 (30)
+Owens,J (2189)-Anikeev,V (2269) ICCF email 2016}) 12... hxg5 13. hxg5 Bg6 14.
+c4 c6 15. Qc2 Qe7 16. Qc3 O-O-O 17. O-O-O Bh5 18. Rh1 Rh7 19. Rde1 g6 20. Qa5
+Kb8 21. Kb1 Bg7 22. d4 Rhh8 23. Rhg1 Nf5 24. Rc1 Rc8 25. Bd3 Qd8 26. Qc3 Bxf3
+27. Nxf3 Rh3 28. Nd2 c5 (28... Nc5 $11 29. Bxf5 exf5) 29. cxd5 $14 Nb6 30. Bxf5
+exf5 31. Qa5 cxd4 (31... Nxd5 $5 {[%cal Rd8a5]} 32. Rxc5 Qxa5 33. Rxa5 Rd8 $11)
+32. Rxc8+ Qxc8 33. Rc1 Qd7 34. Nc4 Qxd5 {[#]} 35. Nxb6 $1 {[%csl Gb6][%cal
+Rc1c8][%mdl 512]} Qe4+ (35... axb6 36. Qxd5) 36. Ka1 {[%csl Gb6][%cal Rc1c8]}
+axb6 37. Qxb6 Rh1 38. Qc7+ Ka7 39. a4 Rxc1+ 40. Qxc1 Qd5 41. Ka2 f4 $1 42. exd4
+(42. Qc7 $14) 42... Qxg5 $11 {The position is equal.} 43. Qc4 Qf6 44. Qc7 Qf5
+$1 45. d5 {[#] Strongly threatening Qc5+.} Bxb2 46. Qc5+ Kb8 {White must now
+prevent ...Bg7.} 47. Qd6+ Ka7 {( -> ...Qc2)} 48. Kxb2 {[%mdl 4096] Endgame
+KQ-KQ} g5 49. a5 g4 50. Qb6+ Kb8 51. d6 Qe5+ 52. Ka2 {Hoping for Qd8+.} Qc3 53.
+a6 {[%csl Ga6][%cal Rb6b7]} Qd2+ 54. Ka3 {[%csl Ga6][%cal Rb6b7]} Qc1+ 55. Kb4
+{[%csl Ga6][%cal Rb6b7]} Qe1+ 56. Kc4 {[%csl Ga6][%cal Rb6b7]} Qe4+ $1 57. Kc3
+Qe5+ $1 58. Kd2 {[%csl Ga6][%cal Rb6b7]} Qd5+ 59. Kc2 Qe4+ $1 60. Kc3 Qe5+ $1
+61. Kc4 {[%csl Ga6][%cal Rb6b7]} Qe4+ $1 62. Kc3 {Accuracy: White = 55%, Black
+= 74%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Votkinsk"]
+[Date "2019.08.11"]
+[Round "2.6"]
+[White "Motylev, Alexander"]
+[Black "Predke, Alexandr"]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "2654"]
+[BlackElo "2632"]
+[Annotator "TA"]
+[PlyCount "165"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,165,29,32,37,43,20,19,22,21,12,22,22,31,29,35,23,37,25,37,0,55,62,71,
+71,68,69,105,72,64,23,29,26,65,22,26,21,25,31,17,25,30,35,41,25,41,15,32,31,34,
+39,34,35,49,39,29,25,36,43,56,60,70,47,55,55,108,100,89,90,108,105,260,257,257,
+250,210,92,101,101,100,93,93,93,94,61,61,61,61,61,164,166,170,166,162,162,170,
+172,205,196,222,181,209,196,182,181,221,220,214,212,251,176,246,234,296,293,
+286,279,256,215,199,202,181,131,238,0,177,131,131,131,131,131,129,127,157,89,
+140,125,279,92,256,82,278,278,365,145,257,205,1087,1087,6443,5620,29960,29961,
+29965,29966,29965,29961,29961,29959]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6
+5. O-O Be7 6. Re1 {C66: Ruy Lopez: Steinitz Defence} O-O 7. h3 a6 8. Bxc6 {
+The position is equal.} bxc6 9. d4 exd4 (9... Nd7 10. dxe5 Nxe5 11. Nxe5 dxe5
+12. Be3 f5 13. Qxd8 Rxd8 14. exf5 Bxf5 {1/2-1/2 (22) Harikrishna,P (2729)
+-Naiditsch,A (2736) Hungary 2019}) 10. Nxd4 Bd7 11. Nc3 Re8 12. Bf4 h6 13. Qd3
+Nh7 14. e5 {[#]} Ng5 $146 (14... Nf8 $11) ({Predecessor:} 14... Nf8 15. Qg3 Bh4
+16. Qf3 dxe5 17. Bxe5 Ng6 18. Bg3 Bxg3 19. Qxg3 {1-0 (33) Kritz,L (2618)
+-Kapnisis,S (2514) Peristeri 2010}) 15. Qg3 $14 c5 16. Nb3 Bf5 17. Nd5 Bxc2 18.
+exd6 cxd6 19. Bxg5 hxg5 {[#]} 20. Na5 $1 {[%mdl 512]} Rc8 (20... Qxa5 21. Nxe7+
+) 21. Nb7 Qd7 22. Rxe7 Rxe7 23. Qxd6 Qxd6 24. Nxd6 Rce8 25. Nxe8 Rxe8 $11 {
+[%mdl 4096] Endgame KRB-KRN} 26. Ne3 Bd3 27. b3 Re5 28. Rd1 Bb5 29. Rd8+ Kh7 $1
+30. a4 Bc6 31. Rd6 Re6 32. Rd3 f5 33. f3 ({Inferior is} 33. Nxf5 Be4 $17) 33...
+f4 34. Nc4 Re1+ 35. Kf2 Rc1 36. Ne5 c4 (36... Rc2+ $14 37. Kg1 Be8) 37. bxc4
+$16 ({Much weaker is} 37. Nxc4 $6 Bxa4 38. Na3 Bc6 $11) 37... Bxa4 38. Ra3 Rc2+
+39. Kf1 Rc1+ $2 (39... Be8 $16 40. Rxa6 Kg8) 40. Ke2 $18 Be8 41. Rxa6 Rc2+ 42.
+Kf1 (42. Kd3 $1 $18 {[%cal Rd3c2]} Rxg2 43. Kd4) 42... Rc1+ 43. Kf2 Rc2+ 44.
+Kg1 Kg8 45. Ra1 Kf8 46. Re1 Ba4 47. Kh2 Ke7 48. Re4 Ra2 {[#]} (48... Kf6 $14)
+49. h4 $1 {[%mdl 512]} gxh4 50. Nd3+ Kd8 51. Rxf4 g5 52. Rg4 h3 53. Rxg5 hxg2
+54. Rxg2 Ra3 55. Rd2 Ke7 56. Kg3 Rc3 57. Ne5 $1 Bb3 58. Kf4 Ke6 59. Rd4 Rc2 (
+59... Ba2 $142 60. Rd8 Bb1) 60. Re4 Rc3 61. Ng4+ Kd6 62. Ne3 Ba2 63. Rd4+ Ke6
+64. Rd8 $1 Bb1 65. Re8+ Kd6 (65... Kd7 $16 66. Re5 Bd3) 66. Rd8+ Ke6 67. Rb8
+Bd3 68. Rb6+ Kd7 69. Rb4 Kd6 70. Ra4 Rc1 71. Ra8 (71. Ra6+ $142 Kc7 72. Ra4)
+71... Kd7 (71... Rc3 $142 72. Rd8+ Kc7) 72. Ra5 {Strongly threatening Rd5+.}
+Kc6 $2 {[#]} (72... Rc3 $16 73. Rd5+ Kc6) 73. Re5 $2 (73. Ke5 $1 $18 {and the
+rest is easy.}) 73... Be2 $2 (73... Rc3 $16) 74. Re4 $2 (74. Re6+ $18 Kb7 75.
+Re4) 74... Kc5 $2 (74... Bd3 $16 {was called for.}) 75. Re8 Kc6 76. Kg3 $2 (76.
+Rd8 $18 {is more deadly.}) 76... Bd3 (76... Rc3 $16 {was necessary.} 77. Kf2
+Bd3) 77. Rd8 Rc3 $2 (77... Bg6 78. Ng4 Bf5 79. Ne5+ Kc7) 78. Nd5 Rb3 {[#]} 79.
+Nb4+ $1 {[%mdl 64] Discovered Attack, Deflection} Rxb4 80. Rxd3 {White mates.}
+Rxc4 81. f4 Re4 82. Kg4 Re8 83. f5 {Accuracy: White = 60%, Black = 34%.} 1-0
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.13"]
+[Round "3.1"]
+[White "Predke, Alexandr"]
+[Black "Inarkiev, Ernesto"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2632"]
+[BlackElo "2693"]
+[Annotator "TA"]
+[PlyCount "79"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,79,8,8,5,11,0,0,0,3,15,14,18,10,9,8,8,10,27,29,24,25,28,8,29,-57,0,0,
+0,0,0,-29,26,8,20,-15,-8,-11,0,-10,0,0,0,0,0,0,0,-63,-61,-52,178,190,301,306,
+1058,1043,1823,1955,1998,1873,1836,1742,29985,2817,29985,29986,5627,1862,29983,
+29983,29993,29994]} 1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Qc2 dxc4 5. Qxc4 Bg4 6.
+Nbd2 Nbd7 {D23: Queen's Gambit Accepted: 3 Nf3 Nf6 sidelines} 7. g3 e6 8. Bg2
+Be7 {The position is equal.} 9. O-O O-O 10. b3 (10. Qb3 b5 11. h3 Bh5 12. g4
+Bg6 13. Nh4 Qb6 14. Nxg6 hxg6 {1/2-1/2 (63) Mamedyarov,S (2817)-Gozzoli,Y 
+(2630) chess.com INT 2019}) 10... Rc8 11. Bb2 b5 $36 {[%mdl 2048] White is
+under pressure.} 12. Qc2 c5 13. Rfc1 {[#]} Nd5 $146 ({Predecessor:} 13... Qb6
+14. Qd1 {1-0 (58) Berkes,F (2662)-Gledura,B (2621) Budapest 2018}) 14. Qd1 Qb6
+15. dxc5 Nxc5 16. Bd4 {White wants to play Ne5.} Rfd8 17. Qc2 (17. Ne5 $11 Bf6
+18. Bxc5 Rxc5 19. Rxc5 (19. Nxg4 Bxa1 20. Rxc5 Qxc5 $15) 19... Qxc5 20. Rc1 (
+20. Nxg4 Bxa1 21. Qxa1 Qc3 $15) 20... Bxe2 21. Qe1) 17... Qb8 (17... f6 $15 18.
+h3 Bh5) 18. Qb2 $11 f6 19. Nf1 Qd6 20. a4 b4 ({Better is} 20... e5 21. Bxc5
+Rxc5) 21. Rc4 $1 Ne4 22. Rxc8 (22. Bxa7 $5 {[%cal Rc4e4]} Rxc4 23. bxc4 $15)
+22... Rxc8 23. Bxa7 Ndc3 {Hoping for ...Qa6.} 24. Be3 e5 25. N1d2 {Strongly
+threatening Nxe4.} Nxe2+ 26. Kh1 N4c3 27. Nc4 Qd3 28. Ne1 (28. a5 $11) 28...
+Qf5 $15 29. a5 {Threatens to win with Nb6.} e4 $2 (29... Ne4 $1 $15 {stays
+ahead.} 30. Nd3 Bf3) 30. a6 $18 {aiming for a7.} Bc5 {[#]} (30... Nd5 $142) 31.
+Qd2 $1 Nd5 $2 (31... Nb5 32. Bxc5 Qxc5) 32. Bxc5 Rxc5 33. a7 h6 34. a8=Q+ Kh7
+35. Qe8 Qxf2 {[#]} 36. Nd3 $1 exd3 37. Qxd3+ {[%mdl 64] Double Attack} f5 38.
+Rf1 ({Not} 38. Bxd5 Rxd5 39. Qg8+ (39. Ne5 $2 Rxe5 40. Qc6 Re3 $19) 39... Kxg8
+$16) 38... Nxg3+ 39. hxg3 Qa2 40. Rxf5 {Accuracy: White = 67%, Black = 41%.}
+1-0
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.13"]
+[Round "3.2"]
+[White "Jakovenko, Dmitry"]
+[Black "Motylev, Alexander"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[WhiteElo "2711"]
+[BlackElo "2654"]
+[Annotator "TA"]
+[PlyCount "53"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,53,12,7,0,0,0,0,0,10,10,7,10,8,0,1,0,8,-7,0,0,11,16,10,12,11,11,12,0,
+0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Bb4 5.
+Qc2 Bxc3 6. Qxc3 Qe7 {The position is equal.} 7. d4 {A28: English Opening:
+Four Knights Variation} (7. Be2 O-O 8. d4 Ne4 9. Qc2 exd4 10. exd4 Qb4+ 11. Bd2
+Nxd2 12. Qxd2 Qxd2+ 13. Kxd2 d6 14. h3 Bd7 15. Rhe1 Rfe8 {1/2-1/2 (30)
+Vitiugov,N (2709)-Kryvoruchko,Y (2698) Germany 2019}) 7... Ne4 8. Qd3 exd4 9.
+Nxd4 Nc5 10. Qd1 Nxd4 11. Qxd4 O-O 12. Be2 b6 13. O-O $146 ({Predecessor:} 13.
+Bf3 Bb7 14. Bxb7 Nxb7 {1-0 (62) Stark,L (2368)-Severina,M (2242) Riga 2018})
+13... Bb7 14. Bd2 Ne6 15. Qc3 Nf4 16. exf4 Qxe2 17. Rae1 Qg4 {[%csl Gb7][%cal
+Rg4g2] [#]} 18. f3 Qf5 19. Re5 Qf6 20. Qd3 Rae8 21. Bc3 Qxf4 22. Rxe8 Rxe8 23.
+Qxd7 {[%cal Rd7e8] [#]} Qe3+ 24. Kh1 Qe2 {[%cal Re2f1]} 25. Kg1 {Hoping for
+Re1!} Qe3+ 26. Kh1 Qe2 {[%cal Re2f1]} 27. Kg1 {Accuracy: White = 76%, Black =
+56%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.13"]
+[Round "3.3"]
+[White "Alekseenko, Kirill"]
+[Black "Artemiev, Vladislav"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2650"]
+[BlackElo "2761"]
+[Annotator "TA"]
+[PlyCount "94"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,94,26,35,35,29,18,36,25,27,17,61,45,64,54,65,70,98,100,87,7,0,0,0,0,
+0,0,0,0,0,0,9,-28,-27,-21,-20,-21,-27,-28,-19,-27,-21,-36,-12,-18,0,0,0,0,0,0,
+20,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-265,-273,-258,-231,-339,-327,-485,-460,
+-969,-808,-5202,-5197,-1754,-466,-6111,-5727,-4898,-4818]} 1. e4 c6 2. d4 d5 3.
+e5 Bf5 4. Nf3 e6 5. Be2 h6 6. O-O Ne7 7. Nbd2 {B12: Caro-Kann: Advance
+Variation} Nd7 8. Nb3 (8. c3 g5 9. Ne1 c5 10. Nc2 Nc6 11. Nb3 c4 12. Nd2 Bg6
+13. Bh5 Bd3 14. Re1 Bg7 {0-1 (60) Vachier Lagrave,M (2779)-Nakamura,H (2777)
+chess.com INT 2018}) 8... g5 9. a4 {[%cal Ba2a4,Ba4a5][%mdl 32] White is
+slightly better.} Bg7 10. a5 O-O 11. c3 Qc7 $146 ({Predecessor:} 11... b6 12.
+Be3 Qc7 13. Ne1 f6 14. exf6 Nxf6 15. f4 {0-1 (40) Sethuraman,S (2637)
+-Iturrizaga Bonelli,E (2639) Dubai 2019}) 12. h4 g4 13. Ne1 h5 14. Nd3 Ng6 15.
+Nf4 (15. f3 $16) 15... Nxf4 $1 $11 16. Bxf4 f6 17. exf6 Qxf4 18. fxg7 Kxg7 19.
+Qc1 e5 20. c4 Be6 21. c5 a6 22. dxe5 Qxc1 23. Raxc1 Rf4 24. Rfd1 $1 Nxe5 25.
+Rc3 Re8 26. Re3 Bc8 27. Nd4 Rff8 28. Bd3 Kf6 29. Kh2 Re7 30. Kg3 Rfe8 31. Bc2
+Nd7 32. Rxe7 Rxe7 33. b4 Nf8 34. Kf4 Re5 35. f3 $1 Ne6+ 36. Nxe6 Bxe6 {[%mdl
+4096] Endgame KRB-KRB} 37. Bg6 $1 gxf3 38. gxf3 Bf5 39. Bxf5 $4 {[%mdl 8192]} (
+39. Rg1 $1 $11 {and White has nothing to worry.} Bxg6 40. Rxg6+ $1 {[%mdl 512]}
+Kxg6 41. Kxe5) 39... Rxf5+ {KR-KR} 40. Ke3 Ke5 41. Rg1 (41. Re1 {was worth a
+try.}) 41... d4+ $19 42. Kf2 (42. Kd2 {was called for.} Rxf3 43. Rg7) 42... Kd5
+{Black is clearly winning.} 43. Rg7 (43. Ke2 $142 Kc4 44. Rd1) 43... Kc4 44.
+Rxb7 d3 45. Rd7 Kc3 {Strongly threatening ...d2.} 46. Ke3 {[#]} (46. f4 $142
+Rxf4+ 47. Ke3 Rxh4 48. Rxd3+ Kxb4 {[%mdl 64] Double Attack} 49. Rd6 Kxc5 50.
+Rh6) 46... Re5+ $1 47. Kf4 Re1 {Accuracy: White = 62%, Black = 77%.} 0-1
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.13"]
+[Round "3.4"]
+[White "Sarana, Alexey"]
+[Black "Matlakov, Maxim"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2640"]
+[BlackElo "2701"]
+[Annotator "TA"]
+[PlyCount "82"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,82,0,14,12,0,0,0,0,0,0,0,0,0,0,0,19,1,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,-18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6
+2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5 9. Be2
+Bb7 10. h4 g4 11. Ne5 Nbd7 {[%cal Bb8d7,Bd7f6,Bf6e4][%mdl 32] D43: Semi-Slav:
+5 Bg5 h6} 12. Nxg4 (12. Nxd7 Qxd7 13. Be5 Bg7 14. Bxg4 O-O-O 15. Bh3 Ne8 16.
+Bxg7 Nxg7 17. Ne2 f5 18. b3 fxe4 19. bxc4 Nf5 20. O-O Nxd4 21. Nxd4 Qxd4 22.
+Bxe6+ Kb8 23. Qxd4 Rxd4 24. Rad1 {1/2-1/2 (24) Li,C (2741)-Gelfand,B (2719)
+Palma de Mallorca 2017}) 12... b4 13. Nxf6+ Nxf6 14. Na4 Nxe4 15. Be5 Rg8 $1
+16. Bxc4 Bd6 {[#] aiming for ...Bxe5.} 17. Qh5 Bxe5 ({Don't play} 17... Rxg2
+18. Bxe6 Qe7 19. Bh3 $16 (19. Qf3 Bxe5 20. Qxg2 Bxd4 $15)) 18. Qxe5 c5 19. Nxc5
+(19. d5 $5 Bxd5 20. Rd1 $11) 19... Nxc5 {The position is equal.} 20. dxc5 {
+[#] Threatens to win with Bb5+.} Rc8 21. Rd1 Qc7 $1 {[%cal Rc7e5]} 22. Bb5+
+$146 ({Predecessor:} 22. Rd6 Qxc5 23. Bb5+ {1/2-1/2 (23) Yalov,S (2404)
+-Hedlund,T (2561) ICCF email 2014}) 22... Bc6 23. Qxc7 Rxc7 24. Bxc6+ Rxc6 $11
+{[%mdl 4096] Endgame KRR-KRR} 25. Rc1 Rxg2 26. Rc4 a5 27. Ke2 Ke7 28. Rh3 Rg8
+29. a3 Rgc8 30. axb4 axb4 31. Rb3 Rxc5 32. Rxc5 Rxc5 33. Rxb4 {KR-KR} Kd6 34.
+Kf3 h5 35. Kg3 Ke5 36. Rb8 f5 37. Rh8 Rb5 38. Rxh5 Rb3+ 39. Kg2 Kf4 40. Rg5
+Rxb2 41. Rg3 e5 {Accuracy: White = 86%, Black = 83%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.13"]
+[Round "3.5"]
+[White "Dreev, Aleksey"]
+[Black "Fedoseev, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "D92"]
+[WhiteElo "2655"]
+[BlackElo "2681"]
+[Annotator "TA"]
+[PlyCount "81"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,81,29,26,51,54,41,40,33,33,37,34,58,9,16,20,14,0,0,0,57,34,34,52,37,
+25,33,48,45,54,41,57,55,52,42,30,21,16,21,16,14,2,38,44,54,21,40,0,77,65,56,0,
+39,0,0,0,0,0,0,-5,4,4,10,0,0,-17,0,0]} 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7
+5. Bf4 dxc4 6. e3 c5 7. Bxc4 cxd4 8. Nxd4 O-O 9. O-O Nbd7 {[#] Strongly
+threatening ...e5. D93: Grünfeld: 4 Nf3 Bg7 5 Bf4 0-0 6 e3} 10. Bg3 Nc5 11. Rc1
+Qb6 $146 {White is slightly better.} ({Predecessor:} 11... Nfe4 12. Nxe4 Nxe4
+13. Bc7 Qd7 14. Bb3 Nd6 15. Qe2 Bxd4 16. exd4 Nb5 17. Qe5 Nxd4 18. Rfd1 Nc6 19.
+Rxd7 Nxe5 20. Rxe7 Nc6 21. Ree1 {1/2-1/2 (21) Turov,M (2550)-Oral,T (2540)
+Quebec 2001}) 12. Ncb5 Ne8 13. Qc2 e5 14. Nf3 (14. b4 $5 {[%cal Rb4c5]} Na6 15.
+Nf3 $11) 14... Bf5 15. Qe2 Bg4 {[#] And now ...e4 would win.} 16. Qc2 Bf5 $1 {
+[%cal Rf5c2]} 17. Qe2 Rd8 (17... Bg4 $1 $11) 18. Rfd1 ({Much worse is} 18. Bxe5
+Bd3 $17) 18... Rxd1+ 19. Rxd1 Bg4 20. h3 Bh5 {aiming for ...e4.} 21. Qc2 a6 {
+Threatens to win with ...Bxf3.} 22. Nc3 Bxf3 $1 23. gxf3 Nd6 24. Nd5 Qd8 25.
+Bf1 Ne6 26. Nc3 Qc7 27. Bd3 Rc8 28. h4 Nc5 29. Bf1 Ne6 30. Qb3 Nc5 31. Qc2 Qe7
+(31... Ne6 $11 {remains equal.}) 32. Nd5 Qf8 33. Rc1 (33. Bh3 $14 Ne6 34. Qa4)
+33... Kh8 (33... Rc6 {looks sharper.} 34. Nb4 Rc8 35. Nd5) 34. Qd1 {White
+wants to play Nb6.} (34. Nb6 $5 {[%cal Rb6c8]} Rc6 35. Qd1 $11) 34... Nf5 {
+The position is equal.} 35. b4 Ne6 36. Rxc8 Qxc8 37. Qd3 Qd8 38. Nc3 Qe7 39.
+Nd5 Qd6 40. Kg2 h5 41. a4 {Accuracy: White = 51%, Black = 59%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.13"]
+[Round "3.6"]
+[White "Vitiugov, Nikita"]
+[Black "Tomashevsky, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2727"]
+[BlackElo "2702"]
+[Annotator "TA"]
+[PlyCount "71"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,71,0,0,0,0,0,8,0,6,6,6,14,12,3,9,0,0,0,0,0,0,0,0,0,8,-6,-5,-5,0,-7,
+-10,-12,-12,-8,-14,-14,-8,-9,-11,-13,0,-20,0,0,0,-6,-5,-20,-23,-31,-26,-22,0,
+-13,0,-18]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Bb5
+Ne4 8. cxd4 Bb6 9. Nc3 O-O 10. Be3 {C54: Giuoco Piano: 4 c3 Nf6, main lines
+with 5 d4 and 5 d3} Bg4 11. h3 Bh5 12. Qc2 Nxc3 13. bxc3 f6 14. exf6 Qxf6 15.
+Be2 Bg6 16. Qb3 Qd6 17. O-O {[#]} h6 $146 ({Predecessor:} 17... Rae8) 18. a4
+Be4 19. Nd2 Bf5 20. Rfe1 Rad8 21. Bg4 Na5 22. Qd1 c6 23. g3 Qg6 24. Bxf5 Qxf5
+25. Qg4 Bc7 26. Qxf5 Rxf5 27. Kg2 Re8 28. Rab1 Rf7 29. Rec1 Ree7 30. h4 Bd6 31.
+Rc2 Kf8 32. Kh3 Ke8 33. Kg4 Kd8 34. Kh3 Ke8 35. Kg4 Kd8 36. Kh3 {Accuracy:
+White = 59%, Black = 63%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.14"]
+[Round "4.1"]
+[White "Fedoseev, Vladimir"]
+[Black "Vitiugov, Nikita"]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[WhiteElo "2681"]
+[BlackElo "2727"]
+[Annotator "TA"]
+[PlyCount "85"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,85,28,35,41,35,37,47,2,18,-12,-22,-40,18,18,20,23,17,0,0,0,0,0,0,0,0,
+0,0,0,0,-34,-77,-66,-25,-24,-28,-151,-16,-15,39,50,34,37,17,37,38,43,697,735,
+735,697,697,682,708,797,800,783,770,759,802,680,658,16,16,8,14,13,8,10,11,0,75,
+0,65,0]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 O-O 7. d4
+Ba7 8. Bg5 $146 {C78: Ruy Lopez: Archangelsk and Möller Defences} (8. dxe5 Nxe4
+9. Bc2 d5 10. exd6 Nxd6 11. Bg5 f6 12. Bf4 g5 13. Bxd6 Qxd6 14. Qxd6 cxd6 15.
+Nbd2 g4 {0-1 (73) Vallejo Pons,F (2693)-Carlsen,M (2845) Karlsruhe/Baden Baden
+2019}) 8... h6 9. Bh4 $1 exd4 10. Re1 d6 11. Nxd4 Ne5 12. h3 b5 (12... g5 $1
+$15 13. Bg3 g4) 13. Bc2 Bb7 14. Nd2 Re8 15. f4 Ng6 $36 {[%mdl 2048] Black is
+pushing.} 16. Bg3 Qd7 17. Kh2 Rad8 18. a4 c5 19. Nf5 Bb8 20. axb5 axb5 21. Re3
+d5 {[%cal Rd5e4]} 22. e5 {Strongly threatening Nb3.} d4 23. cxd4 $1 Nd5 24.
+Rea3 (24. Rf3 $11 {keeps the balance.}) 24... cxd4 (24... Ndxf4 $17 25. Bxf4
+Nxf4) 25. Qg4 $11 Ne3 (25... d3 $11 26. Rxd3 Qc6) 26. Nxe3 $14 dxe3 27. Ne4 Qd4
+{[#]} 28. Nf6+ $1 {[%mdl 512]} gxf6 29. Bxg6 {Threatens to win with Bf5+.} Kf8
+$2 {[%mdl 8192]} (29... fxe5 $14 30. Bc2+ (30. Be4+ Kh8 $11) 30... Kh8) 30. Qh4
+$18 fxg6 31. Qxf6+ Kg8 {And now ...Qe4 would win.} 32. Qxg6+ {[%mdl 64] Double
+Attack} Kf8 33. Qxh6+ Kg8 34. Qg6+ Kf8 {[#]} 35. Ra6 $1 {[%mdl 512]} Bxa6 36.
+Rxa6 {White threatens Rf6+ and mate.} Bd6 {If only Black now had time for ...
+e2....} 37. Rxd6 $2 ({Not} 37. exd6 Rd7 $18) (37. Qf6+ $18 Kg8 38. Qg6+ (38.
+Rxd6 Rxd6 39. Qg5+ Kf7 $16) 38... Kf8 39. Qh7 (39. Rxd6 Rxd6 40. exd6 e2 $16) (
+39. exd6 Qg7 $18)) 37... Rxd6 $11 38. exd6 $18 {Black must now prevent Qf5+.
+KQR-KQB} e2 39. Qf5+ Kg7 40. d7 Re7 41. Qg5+ Kf7 {[#]} (41... Kf8 $11) 42. Qf5+
+(42. f5 $1 $16 {Intending Qg6+ and mate.} Rxd7 43. Qh5+ {[%mdl 64] Double
+Attack} Kf8 44. Qxe2) 42... Kg8 ({Better is} 42... Kg7 $11) 43. Qg5+ {Accuracy:
+White = 49%, Black = 54%.} ({White should play} 43. Qxb5 $14 Qxd7 44. Qc4+ Kf8
+45. Be1) 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.14"]
+[Round "4.2"]
+[White "Matlakov, Maxim"]
+[Black "Dreev, Aleksey"]
+[Result "1-0"]
+[ECO "D47"]
+[WhiteElo "2701"]
+[BlackElo "2655"]
+[Annotator "TA"]
+[PlyCount "119"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,119,31,24,26,22,4,4,0,0,0,0,0,6,11,14,14,14,14,15,13,16,12,16,22,35,
+36,44,26,54,34,33,30,51,32,48,11,24,0,0,-18,106,107,107,112,103,106,103,91,102,
+95,98,90,121,95,112,109,100,100,130,132,137,137,147,139,161,154,240,241,276,
+206,198,198,220,147,453,252,260,258,251,251,292,294,279,232,362,289,288,293,
+297,226,224,214,222,217,504,504,799,714,810,749,29974,29970]} 1. d4 d5 2. c4 c6
+3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 b4 9. Ne4 Nxe4
+10. Bxe4 Bb7 11. Nd2 {D47: Semi-Slav: Meran System} Rc8 12. b3 $146 ({
+Predecessor:} 12. a3 bxa3 13. O-O Ba6 14. Re1 Bd6 15. b3 Qe7 16. Nc4 Bxc4 17.
+bxc4 O-O 18. Qd3 f5 {0-1 (45) Kasimdzhanov,R (2684)-Mamedyarov,S (2729) London
+2012}) 12... Ba6 13. Nc4 {The position is equal.} c5 14. O-O Nf6 15. Bd3 cxd4
+16. exd4 Be7 17. a3 bxa3 18. Bxa3 Bxa3 19. Rxa3 Bxc4 20. Bxc4 Qd7 21. Qa1 Rc7
+22. d5 exd5 23. Re1+ Kd8 $1 24. Rd1 $36 {[%mdl 3072] White has compensation.
+White has good play.} Re8 25. Ra5 Re6 $1 26. h3 {[%cal Rc4d5]} Rd6 27. Bf1 h6
+28. Qd4 Qe7 29. f3 Re6 (29... Ke8 $11 {keeps the balance.}) 30. Rxd5+ $1 $16
+Rd7 31. Rxd7+ $1 Qxd7 32. Qa1 Rd6 33. Rxd6 Qxd6 34. Qxa7 Nd7 35. Qe3 Nb6 36.
+Qe4 Qc5+ 37. Kh1 Qd6 38. Bb5 Qd1+ 39. Kh2 {Hoping for Qe8+.} Qd6+ 40. f4 {
+Strongly threatening Qe8+.} Nd5 41. g3 Qc5 {[#]} 42. Bc4 $1 {[%cal Rc4d5]} Ne3
+(42... Nf6 $16 {keeps fighting.} 43. Qe2 Qc7) 43. Bxf7 $18 Qc1 {Threatens to
+win with ...Qd2+.} 44. Qd3+ Kc7 {( -> ...Qb2+)} 45. Qe2 Kb6 46. b4 {[%cal
+Bb3b4,Bb4b5][%mdl 32]} g5 $2 {[%mdl 8192] [#]} (46... Qc2 $16 47. Qxc2 Nxc2)
+47. fxg5 (47. f5 $142 $1) 47... hxg5 48. Be8 Kc7 49. Bg6 Kd6 50. Bd3 Ke5 51. b5
+{aiming for b6.} Kd6 (51... Kd4 {was necessary.} 52. b6 Qc6) 52. Qf3 Qb2+ 53.
+Be2 Nf5 {Now ...Nd4 and Black clings on.} 54. Kg1 {Black must now prevent Qc6+.
+} Qe5 55. Kf2 Qc5+ 56. Kg2 Ke5 $2 (56... Kc7 {might work better.} 57. Bd3 Nd6)
+57. Qc6 Qa3 (57... Qxc6+ $142 58. bxc6 Kd6) 58. Qc7+ Kf6 59. Qd8+ Ke6 60. Bc4+
+{Accuracy: White = 72%, Black = 58%.} 1-0
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.14"]
+[Round "4.3"]
+[White "Artemiev, Vladislav"]
+[Black "Sarana, Alexey"]
+[Result "1/2-1/2"]
+[ECO "A20"]
+[WhiteElo "2761"]
+[BlackElo "2640"]
+[Annotator "TA"]
+[PlyCount "81"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,81,-13,-4,-6,-2,-9,0,-13,6,0,0,0,37,0,13,0,25,24,18,27,26,19,18,18,36,
+0,38,0,47,23,30,14,12,11,11,11,9,0,0,10,10,4,10,5,21,0,0,0,0,-9,0,-38,-38,-38,
+-38,-31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. c4 e5 2. g3 Nf6 3. Bg2 Nc6 4.
+Nc3 Bb4 5. e4 d6 (5... Nd4 6. Nge2 c6 7. O-O O-O 8. d3 Nxe2+ 9. Nxe2 d5 10.
+exd5 cxd5 11. Qb3 Bg4 12. Qxb4 Bxe2 13. Re1 Bxd3 14. Rxe5 dxc4 {1-0 (62)
+Naiditsch,A (2689)-Sokolov,I (2642) Reykjavik 2015}) 6. d3 {A25: English
+Opening vs King's Indian with ...Nc6 but without early d3} O-O 7. Nge2 Bg4 8.
+O-O (8. f3 {seems wilder.} Be6 9. a3 Bc5 10. b4 Bb6 11. Na4) 8... Bxe2 9. Qxe2
+Nd4 10. Qd1 Nd7 $146 ({Predecessor:} 10... Bc5 11. h3 c6 12. Rb1 a5 13. Kh2 {
+1/2-1/2 (54) Misicko,J (2055)-Baciak,M (1930) Czech email 2003}) 11. Kh1 (11.
+a3 $5 {[%cal Ra3b4]} Bc5 12. b4 $11) 11... Bc5 12. f4 exf4 13. gxf4 f5 14. Be3
+{next b4! is good for White.} a5 15. Qd2 {Hoping for Qf2.} c6 16. Qf2 Qf6 17.
+Rad1 (17. Na4 $5 {[%cal Re4e5]}) 17... Kh8 18. Rg1 Rf7 19. Bh3 Nf8 20. exf5
+Nxf5 21. Bxc5 dxc5 22. Qxc5 Ne6 23. Qxf5 Qxf5 24. Bxf5 Rxf5 25. d4 Rxf4 26. d5
+Nc5 27. dxc6 bxc6 28. Rd6 Rc8 29. Rgd1 {Rxc6! is the strong threat.} (29. b3 {
+keeps more tension.} h6 30. Rgg6 Rf1+ 31. Kg2 Rc1 32. Rxc6 Rc2+ 33. Kh1) 29...
+h6 30. Rd8+ Rxd8 31. Rxd8+ $15 {[%mdl 4096] Endgame KRN-KRN} Kh7 32. Rd6 Ne4 (
+32... Rf2 {with more complications.} 33. b3 Rc2 34. Rxc6 Nd3 35. Ne4 Ne1) 33.
+Nxe4 {The position is equal.} Rxe4 $11 {KR-KR} 34. b3 Re1+ 35. Kg2 Re2+ 36. Kg1
+Rxa2 37. Rxc6 Rb2 38. Rc5 Rxb3 39. Rxa5 Rc3 40. Rc5 Rc2 41. Rc6 {Accuracy:
+White = 58%, Black = 54%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.14"]
+[Round "4.4"]
+[White "Motylev, Alexander"]
+[Black "Alekseenko, Kirill"]
+[Result "1/2-1/2"]
+[ECO "C44"]
+[WhiteElo "2654"]
+[BlackElo "2650"]
+[Annotator "ChessBase"]
+[PlyCount "90"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:08]} 3. d4 {[%emt 0:00:00]} exd4 {[%emt 0:00:36]} 4. Nxd4 {[%emt 0:
+00:00]} Nf6 {[%emt 0:01:31]} 5. Nc3 {[%emt 0:00:30]} Bb4 {[%emt 0:00:44]} 6.
+Nxc6 {[%emt 0:00:07]} bxc6 {[%emt 0:00:06]} 7. Bd3 {[%emt 0:00:06]} d5 {
+[%emt 0:03:50]} 8. exd5 {[%emt 0:00:21]} O-O {[%emt 0:00:24]} 9. O-O {[%emt 0:
+00:21]} cxd5 {[%emt 0:01:07]} 10. a3 {[%emt 0:02:05]} Bd6 {[%emt 0:10:22]} 11.
+Nb5 {[%emt 0:01:23]} Be5 {[%emt 0:07:44]} 12. f4 {[%emt 0:02:23]} Bd6 {[%emt 0:
+00:08]} 13. b4 {[%emt 0:00:52]} c5 {[%emt 0:22:19]} 14. Nxd6 {[%emt 0:06:53]}
+Qxd6 {[%emt 0:01:43]} 15. Kh1 {[%emt 0:00:52]} d4 {[%emt 0:03:20]} 16. bxc5 {
+[%emt 0:14:07]} Qxc5 {[%emt 0:00:13]} 17. Rb1 {[%emt 0:00:22]} Re8 {[%emt 0:09:
+49]} 18. Rb5 {[%emt 0:15:18]} Qc6 {[%emt 0:03:05]} 19. Re5 {[%emt 0:02:31]} Bb7
+{[%emt 0:08:25]} 20. Qe2 {[%emt 0:01:03]} Rxe5 {[%emt 0:05:58]} 21. fxe5 {
+[%emt 0:02:37]} Re8 {[%emt 0:02:58]} 22. Bf4 {[%emt 0:29:43]} Nh5 {[%emt 0:00:
+12]} 23. Bc4 {[%emt 0:10:08]} d3 {[%emt 0:07:47]} 24. Bxd3 {[%emt 0:06:04]}
+Nxf4 {[%emt 0:00:06]} 25. Rxf4 {[%emt 0:00:06]} Rxe5 {[%emt 0:00:11]} 26. Qd2 {
+[%emt 0:00:35]} g6 {[%emt 0:06:03]} 27. Bf1 {[%emt 0:00:28]} Rd5 {[%emt 0:01:
+20]} 28. Qf2 {[%emt 0:00:55]} Rd1 {[%emt 0:00:15]} 29. Kg1 {[%emt 0:02:55]} Qd6
+{[%emt 0:02:19]} 30. c4 {[%emt 0:01:40]} Bxg2 {[%emt 0:00:25]} 31. Kxg2 {
+[%emt 0:00:26]} Rd2 {[%emt 0:00:04]} 32. Be2 {[%emt 0:00:17]} Rxe2 {[%emt 0:00:
+52]} 33. Qxe2 {[%emt 0:00:09]} Qxf4 {[%emt 0:00:04]} 34. Qe7 {[%emt 0:00:57]}
+Qg4+ {[%emt 0:01:49]} 35. Kf2 {[%emt 0:00:11]} Qd4+ {[%emt 0:00:17]} 36. Kg2 {
+[%emt 0:00:16]} Qd2+ {[%emt 0:00:18]} 37. Kg1 {[%emt 0:00:22]} Qd4+ {[%emt 0:
+00:58]} 38. Kg2 {[%emt 0:00:09]} a5 {[%emt 0:00:34]} 39. c5 {[%emt 0:00:25]}
+Qb2+ {[%emt 0:00:24]} 40. Kg1 {[%emt 0:00:00]} Qb1+ {[%emt 0:00:00]} 41. Kg2 {
+[%emt 0:01:30]} Qb2+ {[%emt 0:07:27]} 42. Kg1 {[%emt 0:00:39]} Qd4+ {[%emt 0:
+00:27]} 43. Kg2 {[%emt 0:00:42]} Kg7 {[%emt 0:00:27]} 44. Qc7 {[%emt 0:01:30]}
+Qb2+ {[%emt 0:09:42]} 45. Kg1 {[%emt 0:02:03]} Qd4+ {[%emt 0:00:06]} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.14"]
+[Round "4.5"]
+[White "Predke, Alexandr"]
+[Black "Jakovenko, Dmitry"]
+[Result "1-0"]
+[ECO "D12"]
+[WhiteElo "2632"]
+[BlackElo "2711"]
+[Annotator "TA"]
+[PlyCount "149"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,149,27,31,28,22,17,25,18,22,22,22,22,22,22,28,4,18,0,0,0,7,-2,0,0,0,
+0,0,-6,-10,-33,-9,-16,0,-7,0,0,0,0,24,0,8,6,18,19,26,20,19,19,26,26,38,25,25,8,
+25,16,19,0,12,12,10,13,36,19,39,41,91,91,91,91,91,91,91,91,91,91,91,91,91,91,
+91,35,35,35,50,22,87,97,174,234,586,586,591,591,565,525,525,525,5628,29958,
+29959,29959,29960,29961,29960,29956,29972,29973,29973,29970,29969,29972,29972,
+29971,29970,29971,29974,29975,29976,29977,29977,29978,29978,29977,29976,29975,
+29975,29976,29976,29977,29977,29978,29978,29979,29979,29980,29980,29981]} 1. d4
+d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Nxg6 hxg6 8. g3 {
+D12: Slav Defence: 3 Nf3 Nf6 4 e3 Bf5} Nbd7 9. Qd3 Bb4 10. Bg2 {White has an
+edge.} Nb6 $146 ({Predecessor:} 10... Qe7 11. O-O O-O 12. a3 Bd6 13. b3 Rad8
+14. Bb2 dxc4 15. bxc4 e5 {1/2-1/2 (91) Tkachiev,V (2644)-Postny,E (2627) Nancy
+2013}) 11. cxd5 exd5 12. O-O O-O 13. a3 Bd6 14. b3 Re8 15. Ra2 Qe7 16. f3 Rad8
+17. a4 Na8 {[%cal Bb6a8,Ba8c7,Bc7e6][%mdl 32]} 18. Re2 Nc7 19. Bd2 Bb4 20. Be1
+Ne6 21. Bf2 c5 22. Rc2 Rc8 23. Rfc1 Rc6 24. Ne2 Rec8 25. Bh3 Ba3 (25... g5 {
+keeps more tension.} 26. Kg2 g6 27. Kg1 Kh7 28. Kg2 Ba3) 26. Rd1 (26. Bxe6 {
+is more complex.} Rxe6 27. Ra1 Bb4 28. dxc5 Rec6 29. Nd4) 26... cxd4 27. Bxe6
+Rxc2 28. Bxc8 Rxc8 29. Nxd4 Bc5 30. Rc1 {And now b4! would win.} Re8 31. Kg2 a5
+32. Qb5 b6 $1 33. Qc6 Qe5 34. Rd1 Qb8 35. g4 Rc8 36. Bg3 Rxc6 37. Bxb8 Bxd4 38.
+Rxd4 $11 {[%mdl 4096] Endgame KRB-KRN} Rc2+ 39. Kg3 Rb2 {[#]} 40. Rd3 $1 Nd7
+41. Ba7 Nc5 42. Rxd5 Rxb3 {[#]} 43. Bxb6 $1 {[%mdl 576] Double Attack} Nxa4 (
+43... Rxb6 44. Rxc5) 44. Bd4 Nc3 45. Rxa5 Ne2+ 46. Kf2 Nxd4 $16 {KRN-KR} 47.
+Ra8+ (47. exd4 $16 Kf8 48. h4) 47... Kh7 $14 48. exd4 {KR-KR} g5 $1 49. Ke2 Kg6
+(49... g6 $1 $11) 50. Re8 $16 Rb2+ (50... f6 $16 {was called for.}) 51. Kd3 $18
+Rf2 $2 (51... f6 {is more resistant.} 52. Re2 Rb4) 52. d5 Rxf3+ 53. Kc4 Rf2 54.
+d6 {Threatens to win with d7.} Rc2+ 55. Kb5 {d7 is the strong threat.} ({
+Weaker is} 55. Kd3 Rc6 $11) 55... Rb2+ 56. Kc6 Rc2+ {White mates.} 57. Kb7 Rb2+
+58. Kc7 Rc2+ 59. Kd8 f5 60. d7 Rxh2 61. Re6+ Kf7 62. gxf5 Rc2 {[#]} 63. Rg6 $1
+{[%cal Rg6g5]} Rc1 64. Rxg5 Rc5 65. Rg1 Rc2 66. Rg6 Rc1 67. Ra6 Rc2 68. Ra8 Kf6
+69. Ke8 Rd2 70. d8=Q+ Rxd8+ 71. Rxd8 Kxf5 72. Kf7 g5 73. Rd5+ Kf4 74. Kg6 g4
+75. Kh5 {Accuracy: White = 65%, Black = 49%.} 1-0
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.14"]
+[Round "4.6"]
+[White "Inarkiev, Ernesto"]
+[Black "Tomashevsky, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+[WhiteElo "2693"]
+[BlackElo "2702"]
+[Annotator "TA"]
+[PlyCount "54"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,54,12,10,14,12,7,0,0,-4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0]} 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6
+7. Nf3 e6 8. Ne5 Bh7 9. Bd3 Bxd3 10. Qxd3 {The position is equal.} Nd7 {
+B19: Classical Caro-Kann: 4...Bf5 main line} 11. f4 Be7 12. Nh5 Ngf6 13. Nxg7+
+Kf8 14. Nxe6+ fxe6 15. Bd2 Rh7 $1 16. Rh3 c5 17. O-O-O cxd4 18. Rg3 {[#]} Nc5
+$146 19. Qg6 Qc7 $1 {[#] ...Nce4 is the strong threat.} 20. Re1 {Hoping for f5.
+} Rc8 $1 {Strongly threatening ...Nce4!} 21. c4 {Black must now prevent f5.}
+dxc3 $1 22. Rxc3 {And now f5 would win.} Rg7 23. Qxh6 Ng8 24. Ng6+ Kf7 25. Nh8+
+Kf8 26. Ng6+ Kf7 27. Nh8+ Kf8 {Accuracy: White = 89%, Black = 90%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.15"]
+[Round "5.1"]
+[White "Jakovenko, Dmitry"]
+[Black "Inarkiev, Ernesto"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2711"]
+[BlackElo "2693"]
+[Annotator "TA"]
+[PlyCount "104"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,104,16,47,50,72,11,11,15,10,26,37,32,28,30,37,20,17,19,22,25,32,0,0,
+0,31,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,151,145,116,94,92,86,96,92,93,25,34,39,
+23,33,60,18,21,29,38,39,53,0,0,0,0,0,0,0,0,-62,-58,-41,-45,-54,-45,-46,-74,-65,
+-58,-27,-29,-83,-88,-162,-127,-164,-147,-285,-290,-273,-249]} 1. e4 c6 2. d4 d5
+3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 Qb6 7. Nc3 Nc6 8. O-O {B12: Caro-Kann:
+Advance Variation} Qxb2 9. Qe1 (9. Nb5 $16 {Hoping for Nc7+.} Rc8 10. dxc5)
+9... cxd4 $11 10. Bxd4 {The position is equal.} Nxd4 ({But not} 10... Qxc2 $2
+11. Rc1 $18) (10... Bxc2 11. Nb5 $16) 11. Nxd4 {aiming for Rb1.} Bb4 12. Ndb5
+Ba5 13. Rb1 Qxc2 14. Rb3 Ne7 15. Nd6+ Kf8 16. Nxb7 Bb6 17. Nd6 {[%mdl 1024]
+White has compensation.} (17. Bd1 $5 {[%cal Rd1c2]} Qc1 18. Nd6 $15) 17... Ba5
+18. Nb7 {[#]} Bb6 $146 19. Nd6 (19. Bd1 $5 {[%cal Rd1c2]} Qd3 20. Nd6 $15)
+19... Ba5 20. Bd1 Qd3 21. Bf3 Qd4 {Threatens to win with ...Bc2.} 22. Ncb5 Qd2
+$1 {[%cal Rd2e1]} 23. Qxd2 Bxd2 24. Nd4 Bg6 25. Rb7 h5 26. Rd1 Bf4 27. Re1 Nc8
+$2 {[#]} (27... Bd2 $11 28. Rd1 Bc3) 28. N6b5 $1 $16 {[%cal Rb5c7] Strongly
+threatening Nc7.} Bd2 29. Rd1 $36 {[%mdl 2048] White has strong initiative.}
+Ba5 30. Nc6 Bb6 31. a4 a6 32. Nc7 ({White should try} 32. Nc3 $16) 32... Bxc7
+$1 $11 33. Rxc7 Nb6 34. Rd4 Kg8 35. Rh4 Kh7 $1 36. Bxh5 Bxh5 37. g4 {[%mdl 64]
+[#] Pin} (37. a5 {seems wilder.} Nc4 38. Rxh5+ Kg6 39. Rxh8 Rxh8 40. g4) 37...
+Kg8 $1 38. gxh5 (38. a5 $1 $14 Nc4 39. gxh5) 38... Nc4 39. Kf1 g5 40. Rh3 Rh6
+41. Ke2 Kg7 42. Kf3 (42. a5 $11) 42... Rhh8 $1 $15 {[%cal Rh8c8] And now ...
+Rhc8 would win.} 43. Kg4 {Rf3 is the strong threat.} Rhc8 $1 {[%cal Rc8c7]} 44.
+h6+ Kh8 45. Rxc8+ Rxc8 {[%mdl 4096] Endgame KRN-KRN} 46. Nd4 Nxe5+ 47. Kxg5 Rc4
+48. f4 (48. Nb3 $11 {keeps the balance.}) 48... Nd7 $17 49. Ne2 (49. Rd3 $17 {
+was necessary.}) 49... Re4 $19 ({Resist} 49... Rxa4 50. Rc3 $17) 50. Nc3 Re1
+51. a5 (51. Rd3 $17 {is a better defense.}) 51... d4 52. Na4 Ra1 {Accuracy:
+White = 59%, Black = 98%.} 0-1
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.15"]
+[Round "5.2"]
+[White "Alekseenko, Kirill"]
+[Black "Predke, Alexandr"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[WhiteElo "2650"]
+[BlackElo "2632"]
+[Annotator "TA"]
+[PlyCount "81"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,81,12,15,25,25,26,29,32,32,28,31,47,44,48,44,41,30,33,28,41,13,18,24,
+11,9,32,37,27,10,18,-17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,16,-16,0,-8,0,-22,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5.
+O-O Be7 6. Nc3 O-O 7. h3 Nd7 $146 {C66: Ruy Lopez: Steinitz Defence} ({
+Predecessor:} 7... Nd4 8. Nxd4 exd4 9. Ne2 c5 10. c3 a6 11. Ba4 dxc3 12. bxc3
+c4 13. Bc2 cxd3 14. Qxd3 Qa5 15. Nd4 {0-1 (110) Bartel,M (2674)-Naiditsch,A 
+(2700) Dortmund 2012}) 8. a4 {[%cal Ba2a4,Ba4a5][%mdl 32]} a6 9. Bc4 Nb6 {
+White has an edge.} 10. Ba2 Nb4 11. Bb3 Kh8 12. a5 Nd7 13. Be3 c5 14. Nd2 b5
+15. axb6 Nxb6 16. Nc4 Nxc4 17. Bxc4 f5 18. f4 exf4 19. Bxf4 Bb7 20. Be6 fxe4 {
+The position is equal.} 21. Nxe4 {[%cal Bc3e4,Be4g3,Bg3f5][%mdl 32]} d5 22. Ng3
+$1 Bd6 23. Qg4 {[#] Black must now prevent Nh5.} Rxf4 24. Rxf4 Bxf4 25. Qxf4
+Qe7 26. Qg4 Nxc2 27. Nf5 Qf6 28. Rc1 g6 29. Rxc2 {And now Nd6 would win.} gxf5
+30. Bxf5 Rf8 31. Be6 Bc6 32. h4 Ba4 33. Rd2 Qh6 34. Rf2 Qe3 {[%mdl 64] Double
+Attack} 35. Qe2 Qd4 {[#]} 36. Bxd5 $1 {[%mdl 512]} Rxf2 (36... Qxd5 37. Rxf8+)
+37. Qxf2 Qxd5 38. Qf8+ Qg8 39. Qf6+ Qg7 40. Qd8+ Qg8 41. Qf6+ {[%mdl 64]
+Double Attack. Accuracy: White = 64%, Black = 62%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.15"]
+[Round "5.3"]
+[White "Sarana, Alexey"]
+[Black "Motylev, Alexander"]
+[Result "1/2-1/2"]
+[ECO "D38"]
+[WhiteElo "2640"]
+[BlackElo "2654"]
+[Annotator "TA"]
+[PlyCount "70"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 22,70,8,10,13,13,14,9,12,4,8,4,5,3,8,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4
+5. Bg5 h6 6. Bxf6 Qxf6 7. Qb3 c5 8. cxd5 exd5 9. e3 O-O 10. dxc5 Bxc3+ 11. Qxc3
+Qxc3+ 12. bxc3 {The position is equal.} Nd7 {D38: Queen's Gambit Declined:
+Ragozin Defence (4 Nf3 Bb4)} 13. Rd1 Nf6 (13... Nxc5 14. Rxd5 b6 15. Rd4 Ne6
+16. Rd6 Bb7 17. Nd4 Nxd4 18. Rxd4 Rac8 19. Kd2 Rc5 20. Rg1 Rfc8 21. Bd3 Kf8 {
+1-0 (60) Li,C (2735)-Harikrishna,P (2737) Geneva 2017}) 14. c4 Be6 15. Nd4 Rfc8
+16. Nxe6 fxe6 17. cxd5 {[#]} Nxd5 $146 ({Predecessor:} 17... exd5 18. Rc1 Rc7
+19. Bd3 Rac8 20. Kd2 Rxc5 21. Rxc5 Rxc5 {1-0 (46) Postny,E (2494)-Ehlvest,J 
+(2600) Moscow 2003}) 18. Rc1 Rc7 19. e4 Nf6 20. Bd3 Rac8 21. Ke2 Rxc5 22. Rxc5
+Rxc5 $11 {[%mdl 4096] Endgame KRB-KRN} 23. f4 Kf7 24. Rb1 b6 25. a4 Ke7 26. Ke3
+e5 27. fxe5 Ng4+ 28. Kd4 Nxe5 29. Bb5 Nc6+ (29... Ke6 {with more complications.
+} 30. Rf1 Rc8 31. h3 Rd8+ 32. Ke3 Rc8) 30. Bxc6 Rxc6 {KR-KR} 31. a5 Rd6+ 32.
+Ke5 Re6+ 33. Kd5 Rd6+ 34. Ke5 Re6+ 35. Kd5 Rd6+ {Accuracy: White = 89%, Black
+= 98%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.15"]
+[Round "5.4"]
+[White "Dreev, Aleksey"]
+[Black "Artemiev, Vladislav"]
+[Result "1-0"]
+[ECO "A49"]
+[WhiteElo "2655"]
+[BlackElo "2761"]
+[Annotator "TA"]
+[PlyCount "79"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,79,12,18,10,21,23,16,11,22,10,28,0,0,-7,25,12,60,12,19,12,47,45,80,23,
+34,7,97,99,97,103,98,112,94,101,154,112,128,104,88,0,0,0,0,-10,-8,-8,-9,-16,-8,
+-156,-160,-166,-164,-206,-196,-213,-212,-188,0,0,0,-183,-75,-82,30,0,681,755,
+854,776,29972,6283]} 1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 d5 5. O-O Nbd7 6. c4
+{D02: 1 d4 d5 2 Nf3 sidelines, including 2...Nf6 3 g3 and 2...Nf6 3 Bf4} dxc4
+7. a4 a5 8. Na3 $146 {The position is equal.} ({Predecessor:} 8. Qc2 Nb6 9. e4
+Bg4 10. Be3 Nfd7 11. Na3 O-O 12. Nxc4 Nxc4 13. Qxc4 {1/2-1/2 (34) Eljanov,P 
+(2707)-Nakamura,H (2780) Palma de Mallorca 2017}) 8... Nb6 9. Ne5 Ng4 10. Nxg4
+Bxg4 11. Bxb7 O-O 12. Bxa8 Qxa8 13. Re1 (13. f3 $5 {[%cal Rf3g4]} Bh3 14. Re1
+$14) 13... Rd8 $1 {[%cal Rd8d4]} 14. Qc2 Bh3 {[%csl Gh3][%cal Ra8g2] [#]} 15.
+e4 Bxd4 16. Bg5 (16. Nxc4 $16 Qc6 17. Ne3) 16... Qc8 $11 {White must now
+prevent ...Qg4!} 17. Bxe7 (17. Nxc4 $2 Qg4 $19) 17... Re8 (17... Qg4 $1 $11 18.
+Qe2 (18. Nxc4 $2 Nxc4 19. Qe2 Rd7 $19) (18. Bxd8 $2 Qf3 19. Nxc4 Qg2#) 18...
+Rd7) 18. Nb5 $16 Bxf2+ 19. Qxf2 Rxe7 20. Nc3 Re5 21. Rad1 {[%cal Ba1d1,Bd1d4,
+Bd4c4][%mdl 32]} Nd7 (21... Qe8 $142) 22. Rd4 c6 23. Rxc4 Re6 24. Nd5 ({
+Better is} 24. Ne2 $16) 24... Qa6 $11 25. Ne3 Rf6 $1 {[%cal Rf6f2]} 26. Qc2 {
+And now Qc3 would win.} Ne5 {Strongly threatening ...Nf3+.} 27. Rd1 $1 ({Reject
+} 27. Qc3 Qb6 $17) 27... Nxc4 28. Qxc4 Qb6 29. Qc3 (29. Qd4 $11 c5 30. Qe5)
+29... Rf3 $36 {[%mdl 2048] Black is really pushing.} 30. Re1 h5 31. Qd2 Qc5 32.
+Qe2 Rf6 33. Qd2 Qg5 34. Nc4 $1 Qc5+ 35. Ne3 Kh7 (35... Rd6 $19 36. Qc3 Qb6) 36.
+Qc3 Qg5 (36... Qxc3 $17 37. bxc3 Rf3) 37. Ng2 Bxg2 $2 {[%mdl 8192] [#]} (37...
+Kg8 $11) 38. h4 $1 $18 {[%cal Rh4g5]} ({Not} 38. Kxg2 h4 $11) 38... Qg4 39.
+Qxf6 Qh3 40. Qxf7+ {Accuracy: White = 59%, Black = 45%.} 1-0
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.15"]
+[Round "5.5"]
+[White "Vitiugov, Nikita"]
+[Black "Matlakov, Maxim"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2727"]
+[BlackElo "2701"]
+[Annotator "TA"]
+[PlyCount "68"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,68,4,4,6,2,0,7,3,10,11,6,9,19,18,18,8,13,10,13,7,29,31,29,0,0,0,0,0,
+13,3,16,2,12,2,11,8,11,8,6,0,0,0,0,0,0,0,0]} 1. Nf3 d5 2. b3 Nf6 3. Bb2 e6 4.
+g3 c5 5. Bg2 Be7 6. c4 O-O 7. O-O b6 8. cxd5 Nxd5 9. Nc3 Bb7 10. d4 Nd7 11.
+Nxd5 Bxd5 12. Rc1 Rc8 13. dxc5 {E17: Queen's Indian: 4 g3 Bb7 5 Bg2 Be7} (13.
+Qd3 cxd4 14. Qxd4 Bf6 15. Qd2 Qe7 16. Rfd1 h6 17. Bxf6 Nxf6 18. Ne5 Bxg2 19.
+Kxg2 Rc5 20. Rxc5 Qxc5 {1/2-1/2 (28) Zvjaginsev,V (2672)-Oparin,G (2575) Sochi
+2016}) 13... Nxc5 14. b4 Nd7 $146 {[%cal Bc5d7,Bd7e5,Be5c4][%mdl 32]} ({
+Predecessor:} 14... Ne4 15. Qa4 Rxc1 16. Rxc1 a5 17. bxa5 bxa5 18. Be5 Bd6 19.
+Bxd6 Qxd6 20. Qxa5 h6 {1/2-1/2 (54) Jozwik,J (2041)-Pawlowski,M (1939) Warsaw
+2007}) 15. Qd3 a5 16. a3 axb4 17. axb4 h6 18. Nd4 Ne5 ({Don't blunder} 18...
+Bxb4 $2 19. Bxd5 exd5 20. Nc6 $18) 19. Qb5 {[#] Hoping for Rxc8.} Nc4 20. Bxd5
+exd5 21. Ba1 Bg5 22. Rcd1 Bf6 23. Nf3 Bxa1 {The position is equal.} 24. Rxa1
+Qe7 25. Qxd5 Qxb4 26. Ra7 Rcd8 27. Qf5 Nd2 28. Nxd2 Qxd2 29. e3 Rd6 30. Kg2 Rf6
+31. Qe4 Re6 32. Qf3 Rf6 33. Qe4 Re6 34. Qf3 Rf6 {Accuracy: White = 73%, Black
+= 69%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.15"]
+[Round "5.6"]
+[White "Tomashevsky, Evgeny"]
+[Black "Fedoseev, Vladimir"]
+[Result "1-0"]
+[ECO "D78"]
+[WhiteElo "2702"]
+[BlackElo "2681"]
+[Annotator "TA"]
+[PlyCount "87"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,87,24,28,0,0,0,0,0,8,14,15,14,53,50,36,39,50,35,64,71,70,70,68,46,53,
+38,39,50,66,0,12,15,10,11,10,14,15,0,28,28,21,22,68,69,78,84,76,72,79,89,71,22,
+25,18,27,0,27,43,47,36,137,135,130,136,354,354,752,743,744,744,739,705]} 1. d4
+Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 c6 5. Bg2 d5 6. O-O O-O 7. Qb3 dxc4 8. Qxc4 Bf5
+9. Nc3 Nbd7 10. Qb3 {D78: Fianchetto Grünfeld: 6 0-0 c6} (10. Qb4 {feels
+hotter.} b5 11. Qb3 a5 12. Re1 Ne4 13. Bf4) 10... Qb6 11. Re1 Qxb3 12. axb3 {
+The position is equal.} Nb6 $146 ({Predecessor:} 12... Be6 13. b4 Nd5 14. b5
+Nb4 15. bxc6 bxc6 16. Ra5 c5 17. Ng5 cxd4 18. Nxe6 fxe6 19. Bxa8 dxc3 20. bxc3
+Bxc3 {1/2-1/2 (41) Giri,A (2797)-Vachier Lagrave,M (2775) Tbilisi 2015}) 13. e4
+Be6 14. Ra3 Nfd7 15. Be3 Rfd8 16. h3 h6 17. Rd1 f5 18. d5 cxd5 19. exd5 Bf7 20.
+Ra5 Nc8 21. Nd4 {Strongly threatening Ne6.} Nf8 22. Re1 Nd6 23. Ncb5 (23. Ne6
+$14 Nxe6 24. dxe6 Bxe6 {[#]} 25. Bxh6 $1 {[%mdl 576] Discovered Attack} Bxb3
+26. Bxg7 Kxg7 27. Rxe7+ Kf6 28. Rh7) 23... a6 24. Nxd6 Rxd6 25. Nb5 Rd7 26. Nc3
+e5 27. Na4 {White wants to play Nb6.} Rad8 28. Nb6 $36 {[%mdl 2048] White has
+the initiative.} Rc7 29. Nc4 Nd7 30. d6 Rcc8 31. Bxb7 {[%mdl 64] Double Attack}
+Rb8 32. Bxa6 Rxb3 33. Ra3 Rb4 34. Na5 {Black must now prevent Nc6.} Rxb2 35.
+Nc6 Ra8 36. Rea1 f4 37. gxf4 exf4 38. Bxf4 Rb6 {[#]} ({Black should play} 38...
+g5 $14 39. Be3 Rb3) 39. Bc8 $1 $16 {[%mdl 512]} Rxa3 (39... Rxc8 40. Ne7+) 40.
+Rxa3 Be8 $2 (40... Be6 $16) 41. Ra8 $18 {And now Bxd7 would win.} Bf8 $2 (41...
+Rb1+ 42. Kg2 Ra1) 42. Bxd7 {White is clearly winning.} Bxd7 43. Ne5 {[%mdl 64]
+Double Attack} Rxd6 44. Bxh6 {Accuracy: White = 71%, Black = 38%.} 1-0
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.16"]
+[Round "6.1"]
+[White "Inarkiev, Ernesto"]
+[Black "Fedoseev, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "D97"]
+[WhiteElo "2693"]
+[BlackElo "2681"]
+[Annotator "TA"]
+[PlyCount "80"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,80,19,0,9,4,72,41,53,41,37,49,40,39,33,31,35,50,31,27,37,31,45,35,43,
+42,35,32,42,33,32,46,47,50,50,50,50,45,54,43,50,50,57,50,50,50,57,40,40,40,40,
+40,44,21,27,0,0,0,0,0,0,0,8,2,2]} 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5.
+Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6 8. Be2 c5 9. d5 e6 10. O-O exd5 {D97: Grünfeld:
+Russian System: 7 e4, replies other than 7...Bg4} 11. exd5 Nb4 (11... Re8 $11 {
+keeps the balance.}) 12. Rd1 ({Of course not} 12. Qxc5 $6 Nbxd5 13. Nxd5 Qxd5
+$11) 12... Nc2 {White is slightly better.} 13. Rb1 Nd4 14. Nxd4 cxd4 15. Rxd4
+Bf5 16. Ra1 Ne8 {[#]} 17. Rd1 $146 ({Predecessor:} 17. Bf4 Nd6 18. Qc5 {
+0-1 (59) Gelfand,B (2743)-Li,C (2746) Moscow 2016}) 17... Bc2 18. Re1 Nd6 19.
+Qb4 {Bf4 is the strong threat.} a5 $1 {[%cal Ra5b4]} 20. Qa3 b5 21. Bxb5 Nxb5
+22. Nxb5 Qb6 23. Nc3 Qb4 {[#] And now ...Qxa3 would win.} 24. Bd2 Qxa3 25. bxa3
+Rfd8 26. Rac1 Bd3 27. h4 h5 28. f3 a4 29. Kf2 Bxc3 30. Rxc3 Rxd5 31. Bg5 Bf5
+32. Kg3 Rd3 33. Rxd3 Bxd3 $14 {[%mdl 4096] Endgame KRB-KRB} 34. Rc1 Bf5 35. Kf2
+(35. Bf6 {feels hotter.} Ra6 36. Be5 Kf8 37. Kf4 Bd7 38. Rc2) 35... Rc8 36.
+Rxc8+ Bxc8 {The position is equal.} 37. Bf6 Be6 38. Ke3 Bxa2 39. Kf4 Kh7 40.
+Be5 Bd5 {Accuracy: White = 83%, Black = 86%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.16"]
+[Round "6.2"]
+[White "Matlakov, Maxim"]
+[Black "Tomashevsky, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[WhiteElo "2701"]
+[BlackElo "2702"]
+[Annotator "TA"]
+[PlyCount "71"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,71,13,9,4,0,0,0,0,0,23,22,26,16,18,20,19,25,8,13,12,0,10,-8,0,-29,0,
+-41,-25,-39,6,6,8,8,4,4,8,1,5,10,6,0,7,6,4,8,6,0,0,0,14,0,0,0]} 1. d4 Nf6 2. c4
+e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qa4 a6 8. Qxc4 b5 9. Qc2 Bb7
+10. Bd2 Be4 11. Qc1 c6 {E05: Open Catalan: 5 Nf3 Be7} 12. a4 Nbd7 13. Nc3 Bg6
+14. Nh4 {[#]} Rc8 $146 ({Predecessor:} 14... Bh5 15. h3 Nd5 16. axb5 axb5 17.
+Rxa8 Qxa8 18. e4 Nb4 19. Bg5 {1/2-1/2 (85) Caruana,F (2828)-Dominguez Perez,L 
+(2739) Saint Louis 2019}) 15. Nxg6 hxg6 16. axb5 axb5 17. Rd1 Qb6 18. Bg5 Rfe8
+19. h4 c5 20. d5 exd5 21. Bxd5 c4 22. Qf4 {[#] Threatens to win with Bxf7+.}
+Nc5 (22... b4 $5 {[%cal Rb4c3]} 23. Na4 Qb5 $17) 23. Bf3 Ne6 24. Qd2 b4 25.
+Bxf6 $1 {The position is equal.} Bxf6 26. Nd5 Qc5 {[#] aiming for ...c3.} 27.
+e3 ({Of course not} 27. Nxb4 c3 $17) 27... c3 $132 {[%mdl 2048] Black is not
+holding back} 28. bxc3 Bxc3 29. Nxc3 bxc3 30. Qc2 Red8 31. Rxd8+ Rxd8 32. Rc1
+Rc8 33. Rd1 Rd8 34. Rc1 Rc8 35. Rd1 Rd8 36. Rc1 {Accuracy: White = 71%, Black
+= 79%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.16"]
+[Round "6.3"]
+[White "Artemiev, Vladislav"]
+[Black "Vitiugov, Nikita"]
+[Result "0-1"]
+[ECO "C48"]
+[WhiteElo "2761"]
+[BlackElo "2727"]
+[Annotator "TA"]
+[PlyCount "124"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,132,2,28,0,0,0,0,0,6,-12,-10,-2,-2,-9,-6,-12,19,-10,-9,-28,-29,-19,-9,
+-23,0,-31,-38,-37,-42,-59,-63,-63,-64,-67,-67,-58,-38,-51,-53,-48,-49,-40,-48,
+-63,-49,-58,-58,-59,-50,-64,-54,-62,-54,-58,-51,-76,-76,-69,-74,-70,-66,-73,
+-71,-77,-79,-50,-66,-65,-68,-88,-88,-88,-88,-88,-88,-102,-100,-85,-50,-56,0,
+-92,-93,-92,-96,-133,-124,-185,-161,-189,-97,-300,-173,-159,-171,-176,-169,
+-173,-162,-149,-41,-66,-43,-43,-42,-283,-256,-181,-273,-1129,-514,-29969,
+-29970,-29968,-29971,-29967,-29971,-29967,-29973,-29973,-29974,-29974,-29974,
+-29974,-29974]} 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Bc4 Bc5 6. O-O {
+C48: Four Knights: 4 Bb5, replies other than 4...Bb4} (6. Nxe5 {feels hotter.}
+Qe7 7. Nf3 d5 8. Bxd5 Nxd5 9. Nxd4 Nxc3 10. bxc3 Qxe4+ 11. Qe2) (6. Nxe5 Qe7 7.
+Nf3 d5 8. Bxd5 Bg4 9. d3 O-O-O 10. Be3 Nxd5 11. Nxd5 Rxd5 12. exd5 Re8 13. O-O
+Bxf3 14. gxf3 Bd6 15. f4 Qh4 16. Bxd4 Bxf4 17. Kg2 Qg5+ 18. Kh1 Qh4 19. Kg2
+Qg5+ 20. Kh1 Qh4 21. Kg2 {1/2-1/2 (21) Vallejo Pons,F (2693)-Caruana,F (2819)
+Karlsruhe/Baden Baden 2019}) 6... d6 7. Nxd4 Bxd4 8. d3 {The position is equal.
+} Be6 (8... c6 {seems wilder.} 9. a4 a5 10. h3 O-O 11. Qf3 h6) 9. Ne2 Bb6 10.
+Ng3 O-O 11. Bb3 a5 $146 ({Predecessor:} 11... c6 12. h3 Nd7 13. c3 d5 14. Qe2
+Re8 15. Be3 Bxe3 16. Qxe3 {1/2-1/2 (45) Moldovan,D (2411)-Degraeve,J (2569)
+Cannes 2005}) 12. c3 h6 13. h3 d5 14. Qf3 a4 15. Bc2 Re8 16. Rd1 d4 17. c4 c6
+18. Qe2 Nd7 19. Bd2 Ba5 20. b4 axb3 21. axb3 Bxd2 22. Qxd2 Qb6 23. Qe1 c5 24.
+Rdb1 Qd6 25. Qc1 Kh7 26. Ra3 Reb8 27. Rba1 Rxa3 28. Rxa3 g6 29. Ra7 Kg7 30. Kh2
+Nf6 31. Bd1 Ng8 32. Be2 Ne7 33. h4 Nc6 34. Ra3 Qd8 35. h5 Ra8 36. hxg6 fxg6 37.
+Rxa8 Qxa8 38. Kg1 Qa5 39. f4 exf4 $1 40. Qxf4 Qd8 $1 41. Nf1 Qb8 42. Qh4 Qe5
+43. Nh2 Qf6 44. Qg3 $1 Qe5 45. Qh4 $1 h5 46. Nf3 Qf6 47. Qg3 Bg4 $1 48. Kf2 (
+48. Qc7+ $17 Qe7 49. Qg3) 48... Kh6 49. Qc7 h4 (49... Bxf3 $1 $19 50. gxf3 Ne5
+51. Qxc5 Qxf3+ $1 {[%mdl 576] Deflection} 52. Bxf3 Nxd3+ {[%mdl 64] Double
+Attack} 53. Ke2 Nxc5) 50. Qxb7 $2 (50. Kg1 $17) 50... Bxf3 (50... Ne5 $142 {
+Threatens to win with ...h3.} 51. Qb8 Bxf3 52. gxf3 g5) 51. gxf3 $19 {[#]} Qd6
+$1 {[%cal Rd6g3]} 52. e5 Nxe5 53. f4 Nd7 54. Bf3 {[#]} Nf6 ({But not} 54...
+Qxf4 $6 55. Qxd7 Qd2+ 56. Kf1 $11) (54... g5 $1 $17 {...g4 is the strong
+threat.} 55. fxg5+ Kxg5 56. Qd5+ Qxd5 57. cxd5 Kf4) 55. Qf7 $1 $15 h3 56. Kg3
+$1 {[#]} h2 $1 {[%mdl 576] Decoy} 57. Kxh2 $2 ({White has to play} 57. Kh3 $1
+$15) 57... Qxf4+ $19 58. Kg2 Nh5 59. Qd5 $2 (59. Qxf4+ Nxf4+ 60. Kg3 Nxd3 61.
+Be4) 59... Qd2+ 60. Kg1 (60. Kh1 $19 Qe1+ 61. Kh2) 60... Qe1+ {Black mates.}
+61. Kh2 Qf2+ 62. Bg2 Qf4+ {Played: Nh5-f4} 0-1
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.16"]
+[Round "6.4"]
+[White "Motylev, Alexander"]
+[Black "Dreev, Aleksey"]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[WhiteElo "2654"]
+[BlackElo "2655"]
+[Annotator "TA"]
+[PlyCount "72"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,72,18,22,33,24,0,27,8,40,22,22,27,50,41,44,44,45,43,47,55,60,40,51,
+58,51,50,50,49,49,50,59,53,47,50,55,40,39,18,35,26,37,-64,-48,-67,-70,-72,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3
+Nc6 6. g3 Bb4 7. Bg2 O-O 8. O-O {B45: Sicilian Four Knights} d6 9. a4 $146 ({
+Predecessor:} 9. h3 a6 10. Nde2 Bc5 11. g4 Qc7 12. a4 b6 13. g5 Nd7 14. Nf4
+Nde5 15. Nd3 Bb7 16. Nxc5 dxc5 {1/2-1/2 (23) Baklan,V (2656)-Krasenkow,M (2631)
+Koge 2014}) 9... Rb8 10. Ncb5 {White has an edge.} Nxd4 11. Nxd4 Bc5 12. c3 a6
+13. b4 Ba7 14. Be3 Ra8 15. Nc2 {[%cal Bd4c2,Bc2e3,Be3f5][%mdl 32]} e5 16. Bxa7
+Rxa7 17. Ne3 Be6 18. a5 Ra8 19. c4 Rc8 20. Qd3 Qc7 {[%cal Re6c4]} 21. Rfc1 Ng4
+22. Nf5 Rfd8 23. h3 Bxf5 24. exf5 Nf6 25. Qe3 h6 26. g4 e4 27. f3 ({Wrong is} 
+27. Bxe4 $2 Re8 $19) (27. h4 $14) 27... exf3 $1 $15 28. Qxf3 d5 $1 29. c5 {[#]}
+Qe5 (29... Re8 $1 $17) 30. Qc3 $11 {The position is equal.} Qc7 31. Re1 Re8 32.
+Rad1 Rcd8 33. Rd3 Qf4 34. Rf1 Qc7 35. Re1 Qf4 36. Rf1 Qc7 {Accuracy: White =
+63%, Black = 58%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.16"]
+[Round "6.5"]
+[White "Predke, Alexandr"]
+[Black "Sarana, Alexey"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[WhiteElo "2632"]
+[BlackElo "2640"]
+[Annotator "TA"]
+[PlyCount "134"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,134,12,0,0,0,0,0,0,0,27,14,24,16,17,35,43,45,67,64,47,64,70,41,47,62,
+59,39,33,39,32,32,84,26,24,2,4,4,4,9,16,0,14,0,0,0,7,0,17,21,35,35,36,22,25,17,
+35,0,38,0,34,37,51,0,0,0,0,0,0,-13,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,-25,0,
+0,0,-10,0,0,0,-16,-33,-33,-35,-29,-28,-20,0,0,0,0,0,-11,0,-11,8,8,8,8,6,4,4,-8,
+-8,-8,-8,-11,-6]} 1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Nd2 d5 5. Bg2 O-O 6. Ngf3
+dxc4 7. Qc2 a5 {E04: Open Catalan: 5 Nf3} 8. a3 Bxd2+ 9. Bxd2 b5 10. a4 Bb7
+$146 ({Predecessor:} 10... c6 11. e4 e5 12. dxe5 Nfd7 13. Be3 Na6 14. O-O Ndc5
+15. Rfd1 {1/2-1/2 (23) Tomashevsky,E (2702)-Ding,L (2774) Palma de Mallorca
+2017}) 11. axb5 Qd5 12. O-O Qxb5 13. Qa4 Qxa4 14. Rxa4 Nbd7 15. Rxc4 Ba6 16.
+Rxc7 {aiming for Ne5.} Bxe2 17. Re1 Bxf3 18. Bxf3 Rab8 19. Bc3 Nb6 20. Bxa5
+Nbd5 21. Rc2 Nb4 {[#]} ({Black should play} 21... Rb5 $14 22. Ra1 Rfb8) 22. Rd2
+(22. Rc4 $1 $16 Nd3 23. Rb1) 22... Rfc8 $11 23. Re5 Nbd5 24. Ree2 Rc4 25. Kg2
+h6 26. Rd3 Rb5 27. Be1 g5 28. h3 Kg7 29. Bd2 Rc8 30. Ra3 Rc4 31. Bc3 Rb8 32.
+Rd2 Rbc8 33. Rd3 Nb4 34. Rd2 {And now Be2 would win.} Nbd5 {[%cal Rd5c3]} 35.
+Rd3 Nb4 36. Rd1 {Strongly threatening Be2.} Nfd5 {[%cal Rd5c3]} 37. Bxd5 (37.
+Bd2 $14) 37... Nxd5 38. Rd3 Kg6 39. Rb3 h5 40. Kf3 Kf5 41. Ke2 g4 42. hxg4+
+hxg4 43. Rb5 R4c7 44. Ra5 Rc6 45. Rb5 f6 46. Ra5 Ke4 {[%cal Rc6c3]} 47. Kd2 Rh8
+48. Ra1 Rh2 49. Re1+ Kf5 50. Re2 Rc8 51. Kd1 Rh1+ 52. Re1 Rh2 53. Re2 Rc6 54.
+Kd2 Rh1 55. Re1 Rxe1 56. Kxe1 $15 {[%mdl 4096] Endgame KRB-KRN} Ke4 57. Ke2 Rb6
+{The position is equal.} 58. Rd1 Ra6 59. Re1 Rc6 60. f3+ Kf5 61. Kf2 Ra6 62.
+fxg4+ Kxg4 63. Re4+ Kf5 64. Kf3 Rc6 65. Rh4 Nxc3 66. bxc3 Rxc3+ 67. Kf2 Rc2+ {
+Accuracy: White = 59%, Black = 59%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.16"]
+[Round "6.6"]
+[White "Jakovenko, Dmitry"]
+[Black "Alekseenko, Kirill"]
+[Result "0-1"]
+[ECO "B30"]
+[WhiteElo "2711"]
+[BlackElo "2650"]
+[Annotator "TA"]
+[PlyCount "78"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,78,26,30,27,29,29,29,29,2,30,25,27,29,27,33,33,31,32,28,31,26,40,19,
+7,-19,-5,-8,-16,-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3,-3,-3,-3,-3,-3,-3,-3,
+-3,-3,-55,-56,-751,-732,-704,-337,-681,-631,-4902,-1641,-1241,-1154]} 1. e4 c5
+2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. d3 d6 6. Nd2 Nf6 7. Nf1 Nd7 {B30: Sicilian:
+2...Nc6 3 Bb5, lines without ...g6} 8. Nd5 Nb6 9. Nxb6 axb6 {White has an edge.
+} 10. Ne3 (10. c3 O-O 11. Ne3 Bg5 12. O-O Kh8 13. a3 f5 14. Nxf5 Bxc1 15. Rxc1
+Bxf5 16. exf5 {0-1 (33) Svidler,P (2735)-Carlsen,M (2845) Karlsruhe/Baden
+Baden 2019}) 10... Bg5 11. O-O O-O 12. a4 Kh8 13. Nd5 $146 ({Predecessor:} 13.
+c3 f5 14. Nxf5 Bxf5 15. Bxg5 Qxg5 16. exf5 Rxf5 {1-0 (25) Babault,P (2320)
+-Meynard,T (2288) France 2008}) 13... Bxc1 14. Qxc1 f5 15. exf5 Bxf5 16. f4 Be6
+17. Qd2 Bg8 18. f5 Nd4 19. c3 Nxf5 20. Qe2 Bxd5 21. Bxd5 Qd7 22. Qf3 {[#]
+Strongly threatening g4.} Rf6 23. Bxb7 Raf8 {Threatens to win with ...Ne7.} 24.
+Bc6 Qd8 {White must now prevent ...Ne7.} 25. Be4 Ne7 26. Qh3 {[%csl Ge4][%cal
+Rh3h7]} g6 27. Rxf6 Rxf6 28. Qe3 Qc7 29. b4 cxb4 30. cxb4 Qc3 31. Qe1 Qd4+ 32.
+Kh1 d5 $36 {[%mdl 2048] Black is pushing.} 33. Bf3 Nc6 34. a5 (34. Rb1 $1 $11)
+34... Nxb4 $15 35. a6 $2 {[%mdl 8192]} (35. Qg1 $15 bxa5 36. Qxd4 exd4 37. Rxa5
+) 35... Nxd3 $19 36. Qb1 Nf2+ 37. Kg1 g5 {( -> ...Ne4+). Black is clearly
+winning.} 38. Qa2 Ng4+ (38... Ne4+ $142 39. Kf1 Nd2+ {[%mdl 64] Double Attack}
+40. Ke2 e4 41. Qxd2 exf3+ 42. gxf3 Re6+ 43. Kf1 Qxd2) 39. Kh1 {[#]} Qf4 $1 {
+Accuracy: White = 65%, Black = 85%.} 0-1
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.17"]
+[Round "7.1"]
+[White "Alekseenko, Kirill"]
+[Black "Inarkiev, Ernesto"]
+[Result "1/2-1/2"]
+[ECO "C83"]
+[WhiteElo "2650"]
+[BlackElo "2693"]
+[Annotator "TA"]
+[PlyCount "109"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,109,29,31,46,51,58,51,60,60,45,38,38,74,0,0,-19,-22,-21,-16,-37,-17,
+-21,-29,-17,-16,-16,-8,-15,-17,-17,-17,-12,0,0,0,-30,-17,-179,-77,-66,-58,-53,
+0,0,0,0,0,0,0,0,8,8,19,19,31,28,22,8,19,0,0,0,0,0,0,0,0,0,0,0,8,0,252,255,246,
+247,266,266,288,314,220,0,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4.
+Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. c3 Be7 10. Nbd2 Nc5 11.
+Bc2 d4 12. Nb3 {[%cal Rb3d4] C83: Open Ruy Lopez: 9 c3 Be7} d3 13. Bb1 Nxb3 14.
+axb3 {[%cal Ba2b3,Bb3b4][%mdl 32] White is slightly better.} Bf5 15. b4 O-O 16.
+h3 Qd7 {[#]} 17. g4 $146 ({Better is} 17. Bf4 $16) ({Predecessor:} 17. Bf4 Rfd8
+18. g4 Bg6 19. Bg3 h5 {1-0 (56) Caruana,F (2822)-Mamedyarov,S (2801) Saint
+Louis 2018}) 17... Bg6 $1 $11 18. Bf4 a5 19. bxa5 Rxa5 20. Rxa5 Nxa5 21. e6 $1
+{[%cal Re6d7]} fxe6 22. Ne5 Qd5 $1 23. Bg3 (23. Nxg6 $2 hxg6 24. Bxc7 Rf3 $19)
+23... d2 $36 {[%mdl 2048] Strongly threatening ...Bxb1. Black has good play.}
+24. Bxg6 hxg6 25. Nxg6 {[%mdl 64] Double Attack} Rf7 26. Nf4 Qd6 27. Ng6 Qd5 $1
+28. Nf4 Qd7 29. Qc2 $2 {[#]} (29. Qe2 $1 $11 {and White has nothing to worry.})
+29... Bg5 (29... Nc4 $1 $19 {and Black stays clearly on top.} 30. Rd1 Bc5) 30.
+Ng2 $17 Rf3 {Hoping for ...Qd3.} 31. Rd1 $1 Qd3 ({Black should play} 31... Nc4
+$1 $15 32. b3 Na3) 32. Qxd3 $11 Rxd3 33. Bf4 Bxf4 34. Nxf4 {[%mdl 4096]
+Endgame KRN-KRN} Rd6 {And now ...Nc4 would win.} 35. Kf1 $1 Kf7 36. Ke2 Nb3 37.
+Nd3 Rd5 38. f4 g5 39. fxg5 Rxg5 40. Kf3 Rd5 41. Ke4 c5 42. h4 c4 43. Ne5+ Kf6
+44. g5+ Kg7 45. Nf3 Kg6 46. Ke3 Kf5 $2 {[%mdl 8192]} (46... Rd8 $11 {and Black
+stays safe.}) 47. Nd4+ $18 ({Inferior is} 47. Nxd2 Rd3+ 48. Ke2 Nxd2 $11) 47...
+Nxd4 48. cxd4 {KR-KR} Kg4 49. g6 {Threatens to win with g7.} (49. Rxd2 Kxh4 50.
+g6 Rg5 $14) 49... Kxh4 50. Rh1+ (50. Kxd2 Rxd4+ 51. Ke2 Rg4 $11) ({Not} 50.
+Rxd2 Rg5 $14) 50... Kg3 {[#]} 51. Kxd2 $2 (51. g7 $1 $18 {[%cal Rg7g8]} Rg5 52.
+Kxd2 (52. Rg1+ Kh3 $11)) 51... Rxd4+ $11 {The position is equal.} 52. Ke3 Rd3+
+$1 53. Ke4 {Black must now prevent g7.} Kg2 54. Rh5 {Rg5+ is the strong threat.
+} Rg3 55. Rxb5 {Accuracy: White = 66%, Black = 57%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.17"]
+[Round "7.2"]
+[White "Sarana, Alexey"]
+[Black "Jakovenko, Dmitry"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2640"]
+[BlackElo "2711"]
+[Annotator "TA"]
+[PlyCount "107"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,107,22,7,14,5,10,8,20,18,13,13,23,8,0,9,13,9,16,18,17,15,26,41,25,31,
+35,21,20,26,17,14,20,14,20,18,36,35,35,33,34,30,42,37,50,39,50,32,33,32,30,34,
+47,39,48,30,95,98,99,99,104,104,104,104,104,104,118,99,99,80,80,80,80,80,80,80,
+80,80,80,80,80,80,80,80,80,80,80,80,80,80,80,80,80,80,80,80,80,80,80,80]} 1. d4
+Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. Qc2 c5 {D37: Queen's Gambit
+Declined: 5 Bf4} 7. dxc5 Na6 {[%cal Bb8a6,Ba6c5,Bc5e4][%mdl 32]} 8. Rd1 Nxc5 {
+The position is equal.} 9. cxd5 exd5 (9... Nxd5 10. e4 Nxf4 11. Rxd8 Rxd8 12.
+Ne5 Bf6 13. Nb5 b6 14. b4 Bxe5 15. bxc5 {1/2-1/2 (42) Nakamura,H (2791)
+-Topalov,V (2761) Saint Louis 2016}) 10. e3 Be6 11. Be5 $146 ({Predecessor:} 
+11. Be2 Rc8 12. O-O Nce4 13. Be5 Nxc3 14. bxc3 {1/2-1/2 (37) Chirila,I (2542)
+-Kiewra,K (2394) Chicago 2015}) 11... Rc8 12. Bd3 Nce4 13. O-O Bb4 14. Qa4 Bxc3
+15. bxc3 Nxc3 16. Bxc3 Rxc3 17. Qxa7 Qa8 18. Qd4 Ra3 19. Bb1 Bg4 20. Qf4 Qb8 {
+Threatening ...Qxf4.} 21. Rd4 Qxf4 22. Rxf4 Bxf3 23. gxf3 Rc8 24. Rb4 Rc7 25.
+Rd1 Kf8 26. Rd2 Ke7 27. Rdb2 Ra7 28. h4 g6 29. Bc2 Kd6 30. Bb3 Rc5 31. Kg2 b5
+32. Bd1 Ne8 (32... Rc1 $11 33. Rd2 Rc5) 33. Rxb5 $16 {White is better.} Rxb5
+34. Rxb5 Rxa2 {[#]} 35. Rxd5+ $1 {[%mdl 576] Decoy} Kxd5 36. Bb3+ {[%mdl 64]
+Double Attack} Kd6 37. Bxa2 {[%mdl 4096] Endgame KB-KN} Ke7 38. Kg3 h6 39. Bb3
+f5 40. Ba4 {Strongly threatening Bxe8.} Nd6 41. Bc6 Kf6 42. f4 g5 43. fxg5+
+hxg5 44. hxg5+ Kxg5 45. f4+ Kf6 46. Kf3 Nc4 47. Ke2 Nd6 48. Kd3 Nc8 49. Kd4 Ne7
+50. Bd5 Ng6 51. Kc5 Ne7 52. Kd6 Nc8+ 53. Kd7 Ne7 54. Bf3 {Accuracy: White =
+85%, Black = 79%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.17"]
+[Round "7.3"]
+[White "Dreev, Aleksey"]
+[Black "Predke, Alexandr"]
+[Result "1/2-1/2"]
+[ECO "E37"]
+[WhiteElo "2655"]
+[BlackElo "2632"]
+[Annotator "TA"]
+[PlyCount "80"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,80,26,24,25,18,19,19,7,19,20,24,12,20,19,35,11,16,18,14,22,18,19,31,
+15,20,18,14,12,23,14,23,18,18,9,10,4,15,0,0,0,0,0,0,0,0,0,0,-6,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3
+Ne4 7. Qc2 c5 8. dxc5 Nc6 9. Nf3 Qa5+ ({Don't play} 9... Nxc5 10. b4 $16) 10.
+Bd2 {E37: Nimzo-Indian: Classical: 4...d5 5 a3 Bxc3+ 6 Qxc3 Ne4} Qxc5 11. e3
+Nxd2 12. Nxd2 dxc4 13. Bxc4 O-O 14. b4 Qe7 15. O-O Bd7 16. Qb2 Rfd8 {[#]} 17.
+Be2 $146 ({Predecessor:} 17. Rac1 Be8 {0-1 (50) Ponomariov,R (2714)-Radjabov,T
+(2734) Beijing 2014}) 17... Be8 18. Rfd1 Rac8 19. Rac1 Nb8 20. h3 Ba4 21. Rxc8
+Rxc8 22. Rc1 Rxc1+ 23. Qxc1 {[#] Black must now prevent Qc8+.} Qd8 24. Ne4 Bc6
+{The position is equal.} 25. Nc5 {Threatens to win with b5.} b6 26. Na6 {
+Nxb8 is the strong threat.} Bb7 27. Nxb8 Qxb8 28. Qd1 Qc7 29. Qa4 {[%cal Ra4e8]
+[#]} Qc6 30. Qxc6 Bxc6 $11 {[%mdl 4096] Endgame KB-KB} 31. h4 Kf8 32. f3 Ke7
+33. e4 e5 34. Kf2 h6 35. Bc4 g5 36. hxg5 hxg5 37. Ke3 Bd7 38. g4 f6 39. Kd2 Kd6
+40. Kc3 Be8 {Accuracy: White = 79%, Black = 77%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.17"]
+[Round "7.4"]
+[White "Vitiugov, Nikita"]
+[Black "Motylev, Alexander"]
+[Result "1/2-1/2"]
+[ECO "A09"]
+[WhiteElo "2727"]
+[BlackElo "2654"]
+[Annotator "TA"]
+[PlyCount "109"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,109,-12,58,56,41,20,34,50,47,62,44,17,114,120,124,48,51,47,57,47,104,
+91,187,56,123,128,120,115,122,127,110,102,112,94,92,89,100,98,106,103,109,105,
+110,85,127,128,420,165,411,123,128,114,113,111,118,113,127,85,106,91,107,95,97,
+81,98,48,78,19,16,0,18,29,32,22,26,22,29,13,35,18,21,23,38,14,31,6,12,0,20,16,
+31,0,0,0,0,0,0,-8,0,0,0,0]} 1. Nf3 d5 2. c4 d4 3. b4 c5 4. Bb2 Nf6 (4... a5 5.
+bxc5 Nc6 6. d3 e5 7. Ba3 Nf6 8. Nbd2 Be7 9. g3 O-O 10. Bg2 Nd7 11. Ne4 Nb4 12.
+O-O {0-1 (64) Andreikin,D (2713)-Khairullin,I (2658) Khanty-Mansiysk 2013}) 5.
+g3 Nbd7 (5... a5 $11) 6. Bg2 $146 {A09: Réti Opening: 1 Nf3 d5 2 c4} ({
+Predecessor:} 6. d3 e5 7. b5 e4 8. dxe4 Nxe4 9. Bg2 Nd6 10. Nbd2 Nb6 11. Rc1
+Be6 12. Ne5 {0-1 (49) Stekel Grunberg,M-Sanguineti,R Fortaleza 1975}) 6... e5
+7. O-O cxb4 8. a3 {White is slightly better.} bxa3 9. Nxa3 Be7 10. e3 O-O (
+10... dxe3 $1 $11 11. dxe3 Qc7) 11. exd4 $16 exd4 12. Nxd4 (12. Bxd4 $16 Nc5
+13. Bxc5 Bxc5 14. d4) 12... Nc5 $14 13. Nac2 Bg4 14. Qb1 Nce4 (14... Re8 $14)
+15. Qe1 $16 Nc5 {[#]} (15... Ng5 $16) 16. Ne3 (16. Bxb7 $1 $18 {[%mdl 512]}
+Nxb7 17. Nc6 {[%mdl 64] Double Attack}) 16... Nd3 (16... Re8 $14) 17. Qb1 Nxb2
+18. Qxb2 Bc5 19. Nb3 $1 {[%cal Rb3c5]} Bxe3 20. fxe3 Rc8 21. Rxa7 Be2 22. Rf4 (
+22. Bxb7 Bxf1 23. Bxc8 Qxc8 $15) 22... Bxc4 23. Nd4 Bd3 24. Rxb7 {Threatens to
+win with Nc6.} Qd6 25. Rb6 Qc5 26. Nc6 Rc7 27. Rb8 {And now Rd4 would win.} Bg6
+$2 {[%mdl 8192] [#]} (27... Be4 $16 {was necessary.}) 28. Rxf8+ $2 (28. Rc4 $3
+{[%mdl 512]} Qd6 (28... Qxc4 29. Rxf8+) 29. Rd4 Rxc6 30. Rxd6 Rxd6 31. Rxf8+
+Kxf8 32. Qb4 $1 {[%mdl 512]}) 28... Kxf8 $2 {[#]} (28... Qxf8 29. Rb4 Rc8) 29.
+Qb8+ $2 ({Weaker is} 29. Rxf6 gxf6 30. Qb8+ Kg7 $16) (29. Rc4 $1 $18 {[%mdl
+512]} Qd6 (29... Qxc4 30. Qa3+) 30. Rd4 Rxc6 31. Rxd6 Rxd6 {[#]} 32. Qb4 $1 {
+[%mdl 512]}) 29... Ne8 30. Nd4 {Strongly threatening Ne6+.} Qd6 {Hoping for ...
+Rc1+.} 31. Rf1 Bd3 32. Re1 Qc5 33. Bf1 Bg6 34. Ra1 Rc8 35. Qf4 {aiming for
+Ne6+.} Kg8 36. Bh3 Rd8 37. Bg2 h6 38. Nf3 (38. Qf1 $16) 38... Nf6 $11 39. Nd4
+Qb4 40. Rd1 Kh7 41. h3 Rc8 42. Kh2 Qb2 43. g4 Rd8 44. Qc7 Rd7 45. Qe5 Rd8 46.
+Kg3 Re8 47. Qc7 Qb4 48. Bf3 Ne4+ 49. Bxe4 $1 Rxe4 50. Nf3 Re7 {The position is
+equal.} 51. Qd8 Be4 52. Rf1 Qb7 53. Qd4 Rd7 54. Qe5 Bxf3 55. Qf5+ {Accuracy:
+White = 46%, Black = 39%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.17"]
+[Round "7.5"]
+[White "Tomashevsky, Evgeny"]
+[Black "Artemiev, Vladislav"]
+[Result "1-0"]
+[ECO "D70"]
+[WhiteElo "2702"]
+[BlackElo "2761"]
+[Annotator "TA"]
+[PlyCount "71"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,71,11,10,29,22,-1,62,57,54,58,58,61,60,58,47,62,43,40,27,42,46,50,50,
+45,41,47,87,105,105,88,114,116,116,127,121,122,514,383,969,828,828,828,828,828,
+821,821,814,814,814,801,793,713,777,679]} 1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3
+d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Nc6 8. e3 O-O 9. Nc3 Re8 10. h3 e5 11. d5 {
+D76: Fianchetto Grünfeld: Main Line with 7...Nb6} Na5 12. Qc2 (12. e4 c6 13.
+Bg5 f6 14. Be3 Nac4 15. Bxb6 Nxb6 16. Qb3 cxd5 17. exd5 Bd7 18. Rfd1 Rc8 {
+1-0 (40) Corrales Jimenez,F (2559)-Salem,A (2672) chess.com INT 2019}) 12...
+Nac4 ({Avoid the trap} 12... Nxd5 $2 13. Rd1 $18) (12... c6 $11) 13. e4 {
+White is slightly better.} Bd7 14. b3 Nd6 15. a4 a5 16. Rd1 f5 $146 ({
+Predecessor:} 16... Qc8 17. Kh2 f5 18. Be3 Rf8 {1-0 (55) Delorme,A (2484)
+-Olofsson Dolk,M (2253) Helsingor 2015}) 17. Ng5 Qf6 18. Ne6 Bxe6 19. dxe6 Qxe6
+20. exf5 Nxf5 21. Nb5 (21. Bxb7 Rab8 $15) 21... Nd4 22. Qxc7 Nxb5 23. axb5 e4
+24. Rb1 Nd5 25. Qxb7 Nc3 26. Bb2 Rab8 {[#]} 27. Qa7 $1 $40 {[%mdl 128]
+Threatens to win with Rd7. White is out for blood.} Qxb3 $2 {[%mdl 8192]} (
+27... Qb6 $16 {is tougher.} 28. Qxb6 Rxb6) 28. Bxe4 {[%mdl 64] Pin} Bf6 $2 {[#]
+} ({But not} 28... Ne2+ $2 {[#]} 29. Kg2 $1 $18 {[%mdl 512]}) (28... Rbd8) 29.
+Bd5+ $1 {[%mdl 512] White is clearly winning.} Nxd5 30. Bxf6 {[%csl Gf6][%cal
+Ra7g7][%mdl 64] Discovered Attack} Qxd1+ 31. Rxd1 {[%csl Gf6][%cal Ra7g7]} Nxf6
+32. Rd6 Re1+ 33. Kg2 Rf8 34. Qxa5 Re2 35. Rd2 Re5 36. Rd8 {Accuracy: White =
+87%, Black = 49%.} 1-0
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.17"]
+[Round "7.6"]
+[White "Fedoseev, Vladimir"]
+[Black "Matlakov, Maxim"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2681"]
+[BlackElo "2701"]
+[Annotator "TA"]
+[PlyCount "89"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,89,12,9,17,7,10,21,10,-2,14,-10,-16,-19,0,12,12,16,13,0,11,0,37,42,
+50,0,31,26,17,9,31,27,26,39,31,25,32,30,25,27,31,0,0,0,0,-10,-11,-8,-8,-12,0,0,
+2,2,2,2,29,29,29,29,29,29,29,29,30,30,30,30,45,45,45,37,52,52,52,52,52,52,52,0]
+} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 h5 {
+B90: Sicilian Najdorf: Unusual White 6th moves, 6 Be3 Ng4 and 6 Be3 e5} 8. g3 (
+8. Nd5 Nxd5 9. Qxd5 Nc6 10. Qd1 Be6 11. Nc3 Rc8 12. Be3 Ne7 13. Be2 d5 14. exd5
+Nxd5 15. Nxd5 Qxd5 {1/2-1/2 (26) Wang,H (2730)-Giri,A (2783) St Petersburg 2018
+}) 8... Be6 9. Bg2 b5 {[%cal Bb7b5,Bb5b4][%mdl 32] The position is equal.} 10.
+Bd2 Be7 11. a4 $146 ({Predecessor:} 11. Nc1 Nbd7 12. Nd3 Nc5 13. Nxc5 dxc5 14.
+Qf3 O-O 15. Bg5 {1/2-1/2 (31) Nefedov,S (2550)-Shetko,L (2410) ICCF email 2016}
+) 11... b4 12. Nd5 Bxd5 13. exd5 a5 $1 14. c3 Na6 15. O-O O-O 16. cxb4 axb4 17.
+Nc1 h4 18. Kh2 Nd7 19. Nd3 Rb8 20. Rc1 Ndc5 21. Nxc5 $1 Nxc5 22. Rc4 b3 23. Be3
+Qd7 24. Bxc5 ({Much worse is} 24. gxh4 Nxa4 25. Qe2 Qb5 $15) 24... dxc5 25. d6
+Bf6 26. Rxc5 Qxa4 27. Qe2 Rbc8 28. Rc7 Rxc7 29. dxc7 Rc8 30. Rc1 {[#] aiming
+for Bb7.} Qd7 31. Qc4 {And now Bb7 would win.} hxg3+ 32. fxg3 {Threatens to
+win with Bb7.} e4 $1 $132 {[%mdl 2048] Black is fighting back} 33. Qxb3 Rxc7 (
+33... g6 {with more complications.} 34. Rc2 Kh7 35. Bxe4 Rxc7 36. Rxc7 Qxc7 37.
+Qc2 Qe5) 34. Qb8+ Bd8 35. Rxc7 Qxc7 36. Qxc7 Bxc7 37. Bxe4 $11 {[%mdl 4096]
+Endgame KB-KB} Bd6 38. Kg2 g6 39. g4 g5 40. Kf3 {White is slightly better.} Kf8
+41. Bf5 Ke7 42. Ke4 f6 43. Kd5 Bb4 $1 44. Kc4 Be1 45. Kd5 {Accuracy: White =
+65%, Black = 77%.} ({White should try} 45. Kc5 $14) 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.19"]
+[Round "8.1"]
+[White "Inarkiev, Ernesto"]
+[Black "Matlakov, Maxim"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2693"]
+[BlackElo "2701"]
+[Annotator "TA"]
+[PlyCount "99"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,99,17,21,11,24,15,32,15,21,20,34,2,11,0,0,0,0,0,7,7,20,11,11,16,10,13,
+10,4,17,-13,22,14,8,-54,-70,-46,0,-61,-49,-47,-45,-52,-52,-52,-37,-100,0,0,0,0,
+0,-25,-22,-29,0,0,0,0,14,0,0,0,0,-7,0,0,0,0,14,22,17,10,20,18,30,34,80,60,83,0,
+0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 ({Predecessor:} 
+4. O-O Nf6 5. d3 a6 6. a4 d6 7. h3 Ba7 8. c3 O-O 9. Nbd2 Kh8 {1/2-1/2 (79)
+Atabayev,Y (2411)-Makhnev,D (2449) Batumi 2018}) 4... Nf6 5. d3 d6 6. a4 $146 {
+Hoping for b4. C54: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} (6.
+O-O O-O 7. Re1 a5 8. h3 h6 9. Nbd2 Be6 10. Bb5 Qb8 11. Bxc6 bxc6 12. d4 exd4
+13. cxd4 Bb4 14. a3 Bxd2 15. Nxd2 {1/2-1/2 (43) Giri,A (2797)-Ding,L (2809)
+Shenzhen 2019}) 6... a6 7. O-O Ba7 8. Re1 {White is slightly better.} O-O 9. h3
+Kh8 10. Nbd2 Ng8 11. Nf1 f5 12. exf5 Bxf5 13. Be3 Bxe3 14. Nxe3 {Black should
+prevent Bxg8.} Bg6 15. d4 e4 16. Nd2 Nce7 17. Qb3 Rb8 18. Be6 Nf6 19. c4 c6 20.
+a5 d5 21. Qb4 (21. Qb6 $11) 21... Nh5 $1 $15 22. g3 Nf5 23. cxd5 (23. Bxf5 $11
+Bxf5 24. cxd5 cxd5 25. Qc5) 23... Nxe3 24. Rxe3 cxd5 {[#] White must now
+prevent ...Qf6.} 25. Rf1 b6 26. Rb3 {[%cal Ra5b6]} b5 27. f4 (27. Kh2 $15)
+27... exf3 ({Black should try} 27... Bf5 $17 28. Bxf5 Rxf5) 28. Rbxf3 $11 Nf6
+29. Nb3 Re8 30. Bf5 Bxf5 31. Rxf5 Re3 32. R5f3 Rxf3 33. Rxf3 Qd7 34. Kg2 Re8
+35. Qd2 Ne4 36. Qf4 {[#] Intending Qf8+! and mate.} h6 37. Nc5 Nxc5 38. dxc5 {
+[%mdl 4096] Endgame KQR-KQR} d4 39. Qd6 Qxd6 40. cxd6 {next Rd3 is good for
+White. KR-KR} Rd8 41. Rd3 Rxd6 42. Kf3 Kg8 43. Ke4 Kf7 44. h4 (44. Rxd4 $16
+Re6+ 45. Kd5) 44... Ke6 {The position is equal.} 45. Rxd4 Rc6 $1 46. Kd3 Ke5
+47. Re4+ Kd5 48. Rd4+ Ke5 49. Re4+ Kd5 50. Rd4+ {Accuracy: White = 49%, Black
+= 64%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.19"]
+[Round "8.2"]
+[White "Artemiev, Vladislav"]
+[Black "Fedoseev, Vladimir"]
+[Result "1-0"]
+[ECO "A34"]
+[WhiteElo "2761"]
+[BlackElo "2681"]
+[Annotator "TA"]
+[PlyCount "71"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,70,36,33,29,30,30,24,35,40,49,34,52,37,27,37,33,34,38,51,48,44,60,54,
+48,49,99,110,98,111,97,86,351,336,302,36,195,199,263,254,511,212,212,212,212,
+212,212,212,5289,4810,29976,91,29985,29986,29999]} 1. c4 Nf6 2. Nf3 c5 3. Nc3
+d5 4. cxd5 Nxd5 5. e3 Nxc3 6. bxc3 g6 7. Bb5+ Bd7 8. Be2 Bg7 9. d4 O-O 10. O-O
+Qc7 {A34: Symmetrical English: 2 Nc3, lines with ...d5} 11. e4 $146 ({
+Predecessor:} 11. Ba3 b6 12. Rc1 Nc6 13. dxc5 Rfd8 14. Qb3 Na5 15. cxb6 axb6
+16. Qb2 Be6 17. Nd4 Nc4 18. Nxe6 Nxb2 19. Nxc7 Rxa3 {1-0 (35) Malakhov,V (2695)
+-Zhou,J (2612) China 2016}) 11... Bg4 12. Bg5 Rd8 {White has an edge.} 13. Rc1
+Nc6 {[%cal Bb8c6,Bc6a5,Ba5b7,Bb7c5,Bc5d3][%mdl 32]} 14. d5 Na5 15. Nd2 (15. Qd3
+{looks sharper.} f6 16. Bd2 b6 17. c4 Nb7 18. Rfe1) 15... Bxe2 16. Qxe2 c4 17.
+Nf3 b5 18. Rfd1 Re8 19. e5 Nb7 20. Rb1 a6 21. a4 Nc5 22. axb5 axb5 23. Rxb5 Nd3
+24. e6 Bxc3 $2 {[%mdl 8192]} (24... f5 $16) 25. exf7+ $18 Kxf7 26. Qe4 $2 (26.
+Qe6+ $18 Kg7 27. Bh6+ $1 {[%mdl 512]} (27. d6 exd6 28. Qd5 Nb4 $17) 27... Kh8
+28. Qf7 $1 {[%mdl 512]}) 26... Qc8 $2 (26... Qd7 $14 27. Rb6 (27. Qxc4 Nb2 $16)
+27... Rac8) 27. h4 Ra6 {[#]} ({Don't play} 27... Kg8 28. Bxe7 Qd7 29. Qxc4) (
+27... Bf6 {was called for.} 28. h5 Qf5 29. Qxc4 Nb2 30. Rxb2 Bxb2) 28. Rdb1 $1
+{And now Rb7 would win.} Bf6 $2 (28... Bg7 {is a better defense.} 29. Rb7 Bf8)
+29. Rb6 (29. Bxf6 $142 Nxf2 30. Kxf2 Rxf6 31. Rc1) 29... Rxb6 30. Rxb6 Qf5 31.
+Qxc4 Ne5 32. Nxe5+ Qxe5 $2 (32... Bxe5 33. d6+ Qe6 34. Qxe6+ Kxe6) 33. Bxf6
+exf6 34. Rb7+ $2 (34. d6+ {mates} Kg7 35. Rb7+ Kh6 36. Qc7 Rh8 37. Qg7+ {
+[%mdl 64] Double Attack} Kh5 38. Qxh8 Qe1+ {[#]} 39. Kh2 $1 {[%mdl 512]} Qe5+
+40. g3) 34... Kf8 $2 {[%mdl 8192]} (34... Re7 $16 35. d6+ {[%mdl 64] Pin} Kf8
+36. dxe7+ Qxe7 37. Rxe7 Kxe7 38. Qc7+ Ke6 39. Qxh7 g5) 35. d6 Qxd6 36. Qf7# {
+Accuracy: White = 50%, Black = 34%.} 1-0
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.19"]
+[Round "8.3"]
+[White "Motylev, Alexander"]
+[Black "Tomashevsky, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "C84"]
+[WhiteElo "2654"]
+[BlackElo "2702"]
+[Annotator "TA"]
+[PlyCount "142"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,142,2,7,6,12,19,12,18,11,17,14,17,19,12,14,31,19,13,-9,16,11,23,12,0,
+0,0,0,0,8,26,29,24,21,54,43,30,56,118,124,112,74,102,105,97,92,125,118,125,123,
+120,129,169,172,172,172,172,145,146,143,152,107,127,116,113,111,126,68,68,58,
+64,57,74,74,74,73,95,57,57,57,59,66,59,64,64,28,35,18,18,18,41,18,18,18,18,18,
+18,18,66,66,74,77,84,15,15,15,15,15,15,15,15,15,15,15,15,2,2,2,2,0,2,0,13,0,12,
+12,12,0,9]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3
+d6 8. a3 O-O 9. Nc3 Na5 {C77: Ruy Lopez: 3...a6 4 Ba4 Nf6, unusual lines} (9...
+Bg4 10. Be3 Nd4 11. Bxd4 exd4 12. Nd5 Nd7 13. h3 Bxf3 14. Qxf3 c6 15. Nf4 Nc5
+16. Ba2 a5 17. Qg4 Kh8 18. Ne2 {1-0 (48) Caruana,F (2828)-Postny,E (2623)
+chess.com INT 2019}) 10. Ba2 Be6 11. b4 Bxa2 12. Rxa2 Nc6 13. Bg5 Qd7 14. Bxf6
+Bxf6 15. Nd5 Bd8 16. c4 Nd4 $146 ({Predecessor:} 16... Ne7 17. d4 exd4 18. Nxd4
+bxc4 {1/2-1/2 (45) Anurag,M (2495)-Erenberg,A (2407) Douglas 2018}) 17. Ne3
+Nxf3+ 18. Qxf3 Bg5 19. Nd5 Rfb8 20. Qg3 Qd8 21. cxb5 axb5 22. Rc2 $36 {[%mdl
+2048] White has the initiative.} Rc8 23. Rc6 $1 Rxa3 24. Qg4 Rxd3 25. g3 $1 Ra8
+26. h4 Rxd5 (26... Bd2 $1 $14) 27. exd5 $16 Bd2 28. Rd1 h5 29. Qe4 $1 Bh6 30.
+Qe2 g6 31. Qxb5 e4 32. Qe2 e3 33. f4 Qe7 34. Rc3 Re8 35. Rdd3 {[%cal Rd3e3]}
+Bg7 36. Rc4 $1 (36. Qxe3 Qd7 $15) 36... Bf6 37. Kg2 Kg7 38. Kf3 {[%cal Rd3e3]}
+Qd7 {( -> ...Qg4+)} 39. Rxe3 Ra8 {[#] aiming for ...Qh3.} 40. Kg2 $1 Qb5 41.
+Rc2 (41. Rxc7 $16 Qxd5+ 42. Kh2) 41... Qxb4 $14 42. Qc4 Qb1 43. Rb3 ({Wrong is
+} 43. Qxc7 $2 Ra1 $19) 43... Qa1 44. Rf3 ({Reject} 44. Qxc7 Qd1 $11) 44... Ra4
+45. Qf1 ({Don't play} 45. Qxc7 Qd1 $11) 45... Ra2 46. Rff2 (46. Qe2 {keeps
+more tension.} Ra7 47. f5 Qe5 48. Qc4 Qd4 49. fxg6 Kxg6 50. Rf4) 46... Qxf1+ $1
+47. Kxf1 {[%mdl 4096] Endgame KRR-KRB} Ra1+ 48. Kg2 Bd4 49. Rf1 Ra7 $1 50. Rd2
+Ra4 51. f5 {Hoping for Rf4.} Be5 52. Rf3 Rc4 53. Ra2 {White wants to play f6+!}
+f6 54. fxg6 Kxg6 55. Kh3 Rc5 56. Rd3 Rc4 57. Ra6 Kf5 58. Rc6 Rc5 {[#]} 59. Rxc5
+(59. Rd1 $1 $16) 59... dxc5 $16 {KR-KB. The position is equal.} 60. Re3 c4 61.
+Kg2 c3 {White must now prevent ...c2.} 62. Re2 Bd4 63. Kf3 Be5 64. Re1 Bd6 65.
+Re3 Be5 {Threatens to win with ...c2.} 66. Re2 Bd6 67. Re3 Be5 {And now ...c2
+would win.} 68. Re1 Bd6 69. Re2 Be5 70. Ra2 Bd4 71. Re2 {With the idea Re6.}
+Be5 {Accuracy: White = 65%, Black = 75%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.19"]
+[Round "8.4"]
+[White "Predke, Alexandr"]
+[Black "Vitiugov, Nikita"]
+[Result "0-1"]
+[ECO "E35"]
+[WhiteElo "2632"]
+[BlackElo "2727"]
+[Annotator "TA"]
+[PlyCount "82"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,82,23,22,15,20,21,21,26,0,6,0,14,-27,47,-6,20,17,24,20,17,14,25,25,
+43,22,132,5,0,0,0,0,0,0,0,0,0,0,14,-61,-62,-71,-44,-39,-62,-37,0,-100,-94,-99,
+-76,-55,-85,-172,-157,-190,-169,-309,-304,-259,-273,-454,-454,-450,-439,-427,
+-412,-29947,-29952,-4928,-4914,-5916,-5916]} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4.
+Qc2 d5 5. cxd5 exd5 6. Bg5 h6 7. Bh4 Nc6 {E35: Nimzo-Indian: Classical: 4...d5
+5 cxd5 exd5} 8. e3 g5 9. Bg3 h5 {The position is equal.} 10. h4 (10. Bb5 h4 11.
+Be5 Rh6 12. h3 Ne4 13. Nge2 Bf5 14. Qb3 Bxc3+ 15. Nxc3 Nxc3 16. bxc3 {0-1 (58)
+Sjugirov,S (2663)-Yu,Y (2764) St Petersburg 2018}) 10... Ne4 11. Bh2 Qe7 $146 (
+{Predecessor:} 11... Bf5 12. Bd3 gxh4 13. Nge2 Nxc3 14. Bxf5 Ne4+ 15. Nc3 {
+1-0 (45) Vo,T (2376)-Tomilova,E (2334) Mumbai 2018}) 12. a3 {[#]} Ba5 (12...
+Nxd4 $1 $11 {[%mdl 512]} 13. Qd3 (13. exd4 Nxc3+) 13... Bxc3+ 14. bxc3 Ne6 15.
+hxg5 c6) 13. Nf3 (13. Nge2 $14) 13... g4 14. Nd2 {[%cal Rd2e4]} Nxc3 15. bxc3
+Qxh4 16. Bb5 Bd7 17. O-O a6 18. Bd3 {[#] White wants to play c4.} Be6 (18... g3
+$1 $11 {[%mdl 512] keeps the balance.} 19. fxg3 (19. Bxg3 Qg4 $11) 19... Qg5)
+19. Nb3 (19. c4 $1 $16) 19... Bb6 $11 20. c4 dxc4 21. Bxc4 Bxc4 22. Qxc4 Qe7
+23. d5 Ne5 24. Qa4+ Kf8 25. d6 (25. Rfd1 $11) 25... cxd6 $15 26. Qb4 Ba7 (26...
+Bc5 $5 27. Qe4 Re8 $15) 27. Rad1 Rh6 28. Rd5 Rc8 29. Rfd1 {[#]} (29. Nd4 $1 $11
+{remains equal.} Rf6 30. Qb1) 29... Rc4 $1 $17 {[%cal Rc4b4]} 30. Qd2 Rg6 31.
+Bxe5 dxe5 32. Rd7 {[#]} (32. Qd3 $17 Rc7 33. Qf5) 32... Qe6 $1 $19 33. Rxb7 Bb6
+34. Qd7 (34. Rf1 $142) 34... g3 35. Qxe6 Rxe6 36. Rdd7 $2 (36. Nd2 Rc2 37. Rd7)
+36... Rf6 ({Not} 36... gxf2+ 37. Kxf2 Rf6+ 38. Ke2 $19) 37. fxg3 Bxe3+ 38. Kh2
+h4 {Strongly threatening ...hxg3+.} 39. Nd2 (39. Rb4 $19 hxg3+ 40. Kh3 Rh6+ 41.
+Kxg3) 39... hxg3+ 40. Kh3 Rcf4 {( -> ...Rh6+)} 41. Nf3 Bf2 {Accuracy: White =
+39%, Black = 59%.} 0-1
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.19"]
+[Round "8.5"]
+[White "Jakovenko, Dmitry"]
+[Black "Dreev, Aleksey"]
+[Result "1/2-1/2"]
+[ECO "A11"]
+[WhiteElo "2711"]
+[BlackElo "2655"]
+[Annotator "TA"]
+[PlyCount "91"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,91,0,16,8,16,12,59,47,42,30,42,34,52,59,54,64,50,52,49,45,45,43,45,31,
+28,33,45,39,25,23,23,24,17,9,12,0,0,-14,-7,-35,2,2,4,0,0,0,3,3,3,3,3,3,4,0,7,7,
+7,7,31,31,38,39,47,47,47,47,47,47,47,47,47,47,48,48,48,48,48,48,54,54,54,55,55,
+55]} 1. c4 c6 2. Nf3 d5 3. g3 dxc4 4. Bg2 Bf5 5. O-O Nd7 (5... e6 6. a4 Nd7 7.
+a5 Be4 8. Nc3 Bxf3 9. Bxf3 a6 10. b3 cxb3 11. Qxb3 Qc7 12. d4 {1/2-1/2 (44)
+Artemiev,V (2709)-Vitiugov,N (2719) St Petersburg 2018}) 6. Na3 {[%cal Bb1a3,
+Ba3c4,Bc4e3][%mdl 32] A11: English Opening: 1...c6} Nb6 $1 7. Ne5 g6 $146 ({
+Predecessor:} 7... Qd4 8. Nxc6 bxc6 9. Bxc6+ Bd7 10. Bxa8 Nxa8 11. d3 cxd3 12.
+Qb3 {1-0 (57) De Schampheleire,G (2270)-Colpe,M (2367) Dortmund 2015}) 8. Naxc4
+Bg7 9. a4 {[%cal Ba2a4,Ba4a5][%mdl 32]} Nf6 10. Ne3 Be4 11. f3 Bd5 12. a5 Nbd7
+13. d4 O-O 14. Nxd5 Nxd5 15. f4 e6 16. Qb3 Nxe5 17. dxe5 Qe7 18. Bd2 Rfd8 19.
+Rfc1 Bf8 20. Be1 Rac8 21. Ra4 c5 22. Rac4 Qd7 23. Rd1 {[#] e4 is the strong
+threat.} Qc6 24. Qa4 Qxa4 25. Rxa4 Ne3 26. Rxd8 Rxd8 27. Bf3 b5 28. axb6 $1
+axb6 29. Ra8 Rxa8 30. Bxa8 $11 {[%mdl 4096] Endgame KBB-KBN} c4 31. Bc6 Bc5 32.
+Bc3 Kg7 33. Bb5 h6 34. Kf2 {White is slightly better.} Nd1+ {[%mdl 64] [#]
+Discovered Attack (Double check)} 35. Kf3 Nxc3 36. bxc3 $14 {KB-KB} Ba3 37. Ke4
+Bb2 38. Kd4 Ba3 39. Bxc4 Bc5+ 40. Ke4 Bg1 41. Kf3 Bc5 42. g4 Kf8 43. h3 g5 44.
+f5 Ke7 45. Ke4 Bf2 46. Bb5 {Accuracy: White = 75%, Black = 72%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.19"]
+[Round "8.6"]
+[White "Alekseenko, Kirill"]
+[Black "Sarana, Alexey"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2650"]
+[BlackElo "2640"]
+[Annotator "TA"]
+[PlyCount "81"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,81,12,11,20,17,24,27,26,20,18,21,22,19,37,12,32,30,28,29,30,32,28,31,
+96,44,40,58,42,66,93,96,159,8,13,1,5,4,8,0,0,0,0,0,0,0,0,0,0,0,81,68,91,83,86,
+71,114,18,181,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4
+Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 h5 {B90: Sicilian Najdorf: Unusual White 6th
+moves, 6 Be3 Ng4 and 6 Be3 e5} 8. g3 Be7 9. Bg2 b5 {White has an edge.} 10. Nd5
+Nxd5 11. Qxd5 Ra7 12. Be3 Rb7 13. a3 $146 ({Predecessor:} 13. O-O Nd7 14. Qd2
+O-O 15. Nc3 {0-1 (66) Edouard,R (2680)-Nepomniachtchi,I (2714) Tromsoe 2014})
+13... Qc7 14. Qd2 Nd7 15. Nc3 $36 {[%mdl 2048] Black is under pressure.} Nf6
+16. Bg5 Be6 17. f4 Ng8 (17... Qc5 $14) 18. h4 (18. f5 $16 Bxg5 19. Qxg5) 18...
+f6 $14 19. f5 fxg5 20. fxe6 g4 21. O-O Qc8 ({Black should try} 21... Nf6) 22.
+a4 $2 (22. Rf7 $1 $16) 22... Nf6 $11 23. axb5 axb5 24. Nd5 O-O 25. Nxf6+ Bxf6
+26. Qxd6 Rd8 27. Qa6 Re7 28. c3 b4 29. cxb4 Rxe6 30. Qa2 Qc6 (30... Kh7 $11 {
+remains equal.}) 31. b5 $16 Qb6+ 32. Kh2 Kh7 33. Qc4 {aiming for Ra6.} Re7 {[#]
+} 34. Ra6 (34. Rf5 $1 $16 {Strongly threatening Ra6.} Rb7 35. Rxh5+ (35. Ra6
+Qxb5 36. Qe6 Qe8 $16) 35... Kg6 36. Rxe5 Bxe5 37. Ra6) 34... Qd4 $2 {[#]} (
+34... Qe3 $11) 35. b3 $2 (35. Qc6 $1 $18 Qd7 36. Rxf6 gxf6 37. Qxf6) 35... Qe3
+$11 {White must now prevent ...Bxh4!The position is equal.} 36. Rf5 Rd1 $1 {
+[%csl Gd1][%cal Re3g1]} 37. Rxh5+ Kg6 {[%csl Gd1][%cal Re3g1]} 38. Rg5+ $1 {
+[%mdl 64] Double Attack} Kh7 $1 {[%csl Gd1][%cal Re3g1]} (38... Kh6 $2 39. Rxg4
+Rd2 40. Kh3 $18) 39. Rh5+ $1 ({Avoid the trap} 39. Rxg4 $2 Rc1 $19) 39... Kg6 {
+[%csl Gd1][%cal Re3g1]} 40. Rg5+ $1 {[%mdl 64] Double Attack} Kh7 $1 {[%csl
+Gd1][%cal Re3g1]} ({But not} 40... Kh6 $2 41. Rxg4 Rd2 42. Kh3 $18) 41. Rh5+ $1
+{Accuracy: White = 61%, Black = 59%.} ({Don't blunder} 41. Rxg4 $2 Rc1 $19)
+1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.20"]
+[Round "9.1"]
+[White "Sarana, Alexey"]
+[Black "Inarkiev, Ernesto"]
+[Result "0-1"]
+[ECO "D37"]
+[WhiteElo "2640"]
+[BlackElo "2693"]
+[Annotator "TA"]
+[PlyCount "84"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,144,17,22,16,34,14,24,-3,-1,-4,0,-11,-11,-11,-6,-5,-7,-26,-19,-23,
+-24,-24,-18,-27,-33,-20,-33,-71,-72,-72,-72,-72,-72,-94,-60,-72,-72,-72,-67,
+-72,-72,-72,-67,-67,-60,-60,0,-67,-67,-68,-67,-67,-67,-68,-68,-68,-68,-68,-68,
+-68,-36,-55,-55,-55,-55,-94,-94,-94,-94,-94,-94,-94,-94,-94,-94,-94,-94,-94,
+-94,-94,-94,-94,-94,-94,-94,-94,-94,-94,-94,-94,-94,-94,-94,-94,-94,-94,-94,
+-94,-94,-94,-94,-94,-94,-94,-94,-94,-94,-94,-94,-94,-94,-94,0,-94,0,0,-8,-8,-8,
+-8,-8,-29983,-29984,-29984,-29985,-29985,-29986,-29988,-29989,-29989,-29990]} 
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 h6 7. Bxf6 Qxf6 8.
+Bxc4 c5 9. O-O {Threatens to win with Nb5. D39: Queen's Gambit Declined:
+Ragozin Defence with 5 Bg5 dxc4} cxd4 10. e5 Qd8 11. Ne4 {White has an edge.}
+Nc6 12. Bb5 $146 ({Predecessor:} 12. a3 Be7 13. Qe2 O-O 14. Bd3 g6 15. h4 Kg7
+16. h5 g5 17. Ned2 Rh8 18. Nh2 b6 19. f4 gxf4 20. Rxf4 Bg5 21. Raf1 Bxf4 22.
+Rxf4 a5 23. Ng4 {1-0 (23) Akopian,V (2694)-Ivanchuk,V (2741) Astrakhan 2010})
+12... Bd7 13. Bxc6 Bxc6 14. Nxd4 Qd5 15. Nxc6 Qxe4 16. Qa4 bxc6 {[#]} 17. Rfe1
+$1 {[%mdl 512]} Qc4 (17... Bxe1 18. Qxe4) 18. a3 O-O 19. Qxb4 Qxb4 20. axb4 $11
+{[%mdl 4096] Endgame KRR-KRR} Rfd8 21. Rec1 Rd4 22. Rxc6 Rxb4 23. Rca6 Rxb2 24.
+g3 Rd8 25. Rxa7 Rdd2 26. Rf1 g5 27. h3 Re2 28. Ra5 Kg7 29. Kg2 Rb3 30. Rfa1
+Rbb2 31. Rf1 h5 32. Kf3 Kg6 33. Rc5 Kh6 34. Ra5 Kg7 35. Rc5 Kg6 36. Ra5 Rec2
+37. Ra3 Rc4 38. Re3 Kf5 39. Kg2 g4 40. hxg4+ hxg4 41. Rh1 Rcc2 42. Rf1 Re2 {
+Played: Rc2-d2} 0-1
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.20"]
+[Round "9.2"]
+[White "Dreev, Aleksey"]
+[Black "Alekseenko, Kirill"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[WhiteElo "2655"]
+[BlackElo "2650"]
+[Annotator "TA"]
+[PlyCount "90"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,90,0,0,21,15,17,0,39,46,39,14,19,10,18,8,20,25,31,14,21,38,42,25,51,
+42,44,37,29,0,0,0,0,0,48,55,29,0,0,3,42,11,53,18,16,16,24,0,0,0,0,0,0,0,57,43,
+34,8,52,31,34,27,21,28,22,31,34,4,1,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4
+e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Nf3 h6 {E36: Nimzo-Indian:
+Classical: 4...d5 5 a3} (7... dxc4 8. Qxc4 b6 9. Bg5 Ba6 10. Qa4 c5 11. dxc5
+bxc5 12. Rc1 Qb6 13. Bxf6 gxf6 14. Rc2 Rd8 15. e3 Bxf1 16. Rxf1 Nc6 {1/2-1/2 
+(26) Lenderman,A (2637)-Sevian,S (2642) Saint Louis 2019}) 8. e3 b6 9. b4 dxc4
+10. Bxc4 Bb7 11. Bb2 $146 ({Predecessor:} 11. Be2 Re8 12. O-O Nbd7 13. Bb2 Nd5
+14. Qc2 {1/2-1/2 (60) Clapp,G (1720)-Whang,K (1280) Parsippany 2001}) 11... a5
+12. b5 c6 13. O-O cxb5 14. Bxb5 Qd5 15. Qd3 Nbd7 16. Rfc1 Rfc8 17. Ne1 Bc6 18.
+Bc4 Qg5 19. Ba6 Rc7 20. Rxc6 {[%mdl 64] Decoy} Rxc6 21. Bb7 {[#]} Rac8 $1 {
+[%mdl 512]} 22. e4 (22. Bxc8 Rxc8) 22... Nf8 23. Bxc6 Rxc6 24. Nf3 Qf4 25. Re1
+Rc8 26. h3 Qc7 27. Rc1 Qb7 28. Rxc8 Qxc8 29. d5 exd5 30. exd5 N8d7 31. d6 Qc5
+32. g3 Qd5 (32... h5 $11) 33. Qxd5 $14 Nxd5 {[%mdl 4096] Endgame KBN-KNN} 34.
+Nd4 h5 35. Kg2 Kf8 36. Nb5 N5f6 37. Kf3 Ke8 $1 38. Ke3 Kd8 39. Bd4 Kc8 {
+The position is equal.} 40. Bb2 Kb7 (40... Ne8 {is interesting.} 41. Kd4 Kb7
+42. Kd5 Ndf6+ 43. Kc4 Kc6) 41. Bxf6 Nxf6 42. Nd4 Kc8 43. Kf4 Kd7 44. Ke5 Ne8
+45. Nb5 Kc6 {Accuracy: White = 53%, Black = 66%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.20"]
+[Round "9.3"]
+[White "Vitiugov, Nikita"]
+[Black "Jakovenko, Dmitry"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[WhiteElo "2727"]
+[BlackElo "2711"]
+[Annotator "TA"]
+[PlyCount "140"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,140,10,17,19,-2,0,-6,0,0,0,0,0,-8,0,0,0,0,0,-5,21,0,0,0,5,0,24,0,14,
+4,0,6,12,0,0,0,0,0,0,0,15,14,58,33,51,12,35,29,46,41,34,34,28,26,35,27,34,14,
+47,54,64,64,64,62,114,43,73,68,74,51,58,64,47,47,53,61,224,231,219,222,233,211,
+279,208,190,120,129,122,234,316,334,318,324,323,297,190,197,189,181,13,13,13,
+22,8,8,8,8,8,8,8,8,8,8,0,4,0,0,0,8,0,0,0,0,0,8,0,0,0,8,8,8,8,8]} 1. Nf3 Nf6
+$146 ({Predecessor:} 1... d5 2. g3 c6 3. Bg2 Bg4 4. c4 e6 5. O-O {1/2-1/2 (90)
+Prohaszka,P (2613)-Akobian,V (2647) Saint Louis 2018}) 2. g3 d5 3. Bg2 c6 4.
+O-O Bg4 5. c4 e6 6. Qb3 Qb6 {A11: English Opening: 1...c6} 7. d3 Nbd7 {[%cal
+Bb8d7,Bd7e5,Be5f3][%mdl 32]} 8. Qc2 dxc4 9. Qxc4 Bxf3 10. Bxf3 Ne5 11. Qf4
+Nxf3+ 12. Qxf3 Be7 13. Nd2 {[%cal Bb1d2,Bd2c4,Bc4e3][%mdl 32]} O-O 14. Nc4 Qc7
+15. Bd2 c5 16. Rfc1 Rac8 17. a3 b5 18. Ne3 Qd7 19. Rc2 Nd5 20. Rac1 Rc6 21. Ng4
+{[#] And now Ne5 would win.} f6 22. Ne3 Rfc8 23. Kg2 a6 24. h4 Kf7 25. Ng4 {
+Threatens to win with Ne5+.} Ke8 26. h5 {Hoping for h6.} h6 27. Kg1 Nb6 28. Ba5
+Qd5 29. Qxd5 Nxd5 30. e4 Nb6 31. Kf1 Bd8 32. Ne3 Nd7 33. Bxd8 Kxd8 (33... Rxd8
+{is interesting.} 34. f4 Rd6 35. Ke2 Rd4 36. b4 cxb4 37. axb4 Rxb4 38. Ra1 Ra4)
+34. Ke2 R6c7 35. f4 Nb6 36. b3 Kd7 (36... a5 $14) 37. Kf3 ({White should play} 
+37. a4 $16) 37... Kd6 38. a4 Nd7 39. axb5 axb5 40. Ra2 Nb8 41. f5 Nc6 42. Ra6
+Ra7 $2 {[#]} (42... e5 $1 $14) 43. Rxa7 $1 $18 Nxa7 44. fxe6 Kxe6 {[%mdl 4096]
+Endgame KRN-KRN} 45. Nf5 Rc7 46. d4 c4 47. d5+ (47. Ne3 $18) 47... Ke5 $16 48.
+d6 Rc8 (48... Rb7 $16) 49. d7 (49. Nxg7 Kxd6 50. Nf5+ Kc5 $16) 49... Rd8 50.
+bxc4 ({But not} 50. Rd1 cxb3 51. Nxg7 f5 $18) 50... bxc4 51. Rd1 ({Weaker is} 
+51. Rxc4 Rxd7 52. Kf2 Rb7 $16) 51... Ke6 52. Nxg7+ Kf7 53. Nf5 Nc6 54. Rd6 $2 (
+54. Nd6+ $18 Ke7 55. Nf5+ {[%mdl 64] Double Attack} (55. Nxc4 Rxd7 56. Rxd7+
+Kxd7 $18) 55... Kf7 56. Nxh6+ Ke6 57. Nf5 Ne5+ 58. Ke3) 54... Ne5+ $11 {
+The position is equal.} 55. Ke2 Rxd7 56. Nxh6+ Kg7 $1 57. Nf5+ Kh7 58. Rd5 {
+Black must now prevent g4.} c3 59. Kd1 {White wants to play Kc2.} Rc7 60. Kc2
+Rc4 61. Rb5 Rxe4 62. Rb7+ Kh8 63. Kxc3 Rc4+ 64. Kd2 Rg4 65. Ke3 Rg5 66. Ke4 (
+66. Nd6 {is more complex.} Rxg3+ 67. Ke4 Rh3 68. Ne8 Rh4+ 69. Kd5) 66... Rxh5
+67. Rb8+ Kh7 68. Rb7+ Kh8 69. Rb6 Ng4 70. Kf4 Rg5 {Accuracy: White = 56%,
+Black = 58%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.20"]
+[Round "9.4"]
+[White "Tomashevsky, Evgeny"]
+[Black "Predke, Alexandr"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2702"]
+[BlackElo "2632"]
+[Annotator "TA"]
+[PlyCount "67"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,67,11,22,20,39,36,43,48,41,34,43,46,48,49,33,20,19,13,10,24,26,10,27,
+0,25,25,35,31,35,33,83,13,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. Bf4 dxc4 6. e3 {D37: Queen's
+Gambit Declined: 5 Bf4} b5 7. Nxb5 Bb4+ 8. Nc3 {White is slightly better.} Nd5
+9. a3 Nxc3 10. Qd2 {[%mdl 64] [#] Pin} Bxa3 {Strongly threatening ...Ne4.} 11.
+Qxc3 Bd6 12. Bxd6 cxd6 13. Bxc4 O-O {[#]} 14. O-O $146 Bb7 15. Be2 Nf6 16. Rfc1
+Qb6 17. Nd2 Ne4 18. Nxe4 Bxe4 19. b4 a6 20. Qa3 ({White should play} 20. f3 $16
+Bd5 21. Qa3) 20... Rab8 $1 $11 {The position is equal.} 21. Qa5 Qxb4 22. Qxb4
+Rxb4 23. Rxa6 d5 24. h4 Rb2 25. Bf1 h5 26. Rac6 Kh7 27. f3 Bf5 28. Rc8 Rxc8 29.
+Rxc8 {KRB-KRB} Rd2 30. Rc7 Kg8 31. Rc8+ Kh7 32. Rc7 Kg8 33. Rc8+ Kh7 34. Rc7 {
+Accuracy: White = 74%, Black = 73%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.20"]
+[Round "9.5"]
+[White "Fedoseev, Vladimir"]
+[Black "Motylev, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[WhiteElo "2681"]
+[BlackElo "2654"]
+[Annotator "TA"]
+[PlyCount "133"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,133,22,16,12,6,3,12,12,12,15,4,11,0,0,-7,0,-34,-25,-18,-22,-35,-34,
+-39,-27,-32,-19,-12,-21,-18,-9,-18,-8,-32,-40,-36,-31,-64,-67,-83,-55,-85,-76,
+-89,-76,-77,-56,-62,-49,-131,-81,-76,-70,-77,-57,-96,-90,-93,-45,-45,-44,-37,
+-30,-39,-40,-48,0,-22,-14,-23,-21,-22,-14,-33,0,0,11,16,16,16,23,10,18,18,18,
+-20,6,6,7,0,0,-8,0,-17,13,0,17,16,17,18,14,10,10,8,10,8,12,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d6 7.
+h3 Ne7 {C65: Ruy Lopez: Berlin Defence (3...Nf6), unusual lines and 4 0-0 Bc5}
+8. d4 Bb6 9. Re1 Ng6 (9... c6 10. Bd3 Ng6 11. Be3 Nh5 12. Nbd2 Nhf4 13. Bf1
+exd4 14. Nxd4 d5 15. N4f3 {1/2-1/2 (74) Grandelius,N (2682)-Le,Q (2714) Caleta
+2019}) 10. Nbd2 c6 11. Bf1 Be6 12. b3 exd4 13. cxd4 d5 $146 ({Predecessor:} 
+13... Re8 14. a4 d5 15. e5 {1/2-1/2 (68) Mihailovs,A (2292)-Prozorovskij,V 
+(2288) ICCF email 2015}) 14. exd5 (14. e5 $5 {[%cal Re5f6]} Nd7 15. Ba3 $11)
+14... Bxd5 15. Bb2 Re8 16. Qc2 Qc7 17. Ne5 Ba5 18. Re3 Rad8 19. Ndc4 Bb4 20. a3
+Bf8 21. b4 Be6 22. Rae1 Nd5 23. Rg3 Ngf4 24. Rc1 f6 $36 {[%mdl 2048] Black has
+some pressure.} 25. Ng4 Kh8 26. Rf3 Bf7 27. Qd2 Ne6 28. Rb3 Qf4 29. Qd1 Qb8 30.
+Na5 ({White should play} 30. Nge3 $15) 30... a6 31. Ne3 Nef4 32. Qd2 Nb6 33.
+Nac4 Na4 34. g3 Nxb2 (34... b5 {feels hotter.} 35. gxf4 Qxf4 36. Ba1 bxc4 37.
+Nxc4 Bd6) 35. Qxb2 Ne6 36. Rd3 Bg6 37. Rdd1 Bh5 38. Rd3 Bg6 39. Rdd1 Ng5 {
+[#] Hoping for ...b5.} 40. Bg2 Bh5 41. Rd3 Nf3+ 42. Kh1 Bg6 43. Rdd1 Be4 44.
+Nd2 Nxd2 45. Rxd2 Qc8 46. Kh2 Bxg2 {The position is equal.} 47. Kxg2 Qe6 48.
+Qc2 Rd7 49. Rcd1 Red8 50. Kh2 g6 51. Rd3 Qe4 {[%cal Rd7d4]} 52. Qb3 h5 53. Re1
+Qe8 ({But not} 53... Rxd4 $2 54. Rxd4 Rxd4 55. Qf7 $18) (53... h4 {keeps more
+tension.} 54. Ng2 hxg3+ 55. Rxg3 Qf5 56. Rf3 Qg5) 54. Ng2 Qf7 55. Qxf7 Rxf7 56.
+Nf4 Kh7 $1 57. Ne6 Rdd7 58. Kg2 Bd6 59. f4 Kg8 60. g4 hxg4 61. hxg4 Rh7 62. d5
+cxd5 63. Rxd5 {[#] Threatens to win with Red1.} Bxb4 64. Rxd7 {Rd8+ would kill
+now.} Bxe1 65. Rd8+ Kf7 66. Rd7+ Kg8 67. Rd8+ {Accuracy: White = 60%, Black =
+56%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.20"]
+[Round "9.6"]
+[White "Matlakov, Maxim"]
+[Black "Artemiev, Vladislav"]
+[Result "1/2-1/2"]
+[ECO "D15"]
+[WhiteElo "2701"]
+[BlackElo "2761"]
+[Annotator "TA"]
+[PlyCount "60"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,60,37,38,47,31,33,39,37,37,37,23,41,40,31,28,75,48,48,40,51,50,49,0,
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8,0,0,0,0,0,0,0]} 1. Nf3 d5 2. d4
+Nf6 3. c4 c6 4. Nc3 a6 5. c5 Bf5 6. Qb3 Ra7 {D15: Slav Defence: 4 Nc3 a6 and
+gambit lines after 4 Nc3 dxc4} 7. Nh4 Bg6 8. Nxg6 $146 (8. e3 Nbd7 9. Be2 e5
+10. Nxg6 hxg6 11. Bd2 Be7 12. Qc2 exd4 13. exd4 Nf8 14. O-O-O {1-0 (55) Dubov,
+D (2703)-Postny,E (2615) St Petersburg 2018}) 8... hxg6 {White is slightly
+better.} 9. Bg5 e6 10. e4 Be7 11. e5 Nfd7 12. Bxe7 Qxe7 13. Na4 f6 14. exf6
+Qxf6 15. O-O-O Rh4 16. Bd3 Rxd4 {[#] Hoping for ...Qf4+.The position is equal.}
+17. Bxg6+ $1 {[%mdl 512]} Kd8 {White must now prevent ...Qg5+.} (17... Qxg6 18.
+Rxd4) 18. Rxd4 Qxd4 19. Bc2 Qxf2 20. Qh3 Nxc5 21. Nxc5 Qxc5 22. Qh8+ Kc7 {
+Strongly threatening ...Qe7.} 23. Qxg7+ Nd7 $1 24. h4 Qe3+ 25. Kb1 Ra8 26. h5
+Qe5 $1 {[%cal Re5g7]} 27. Qg4 Nf6 28. Qg7+ Nd7 $1 29. Qg4 Nf6 30. Qg7+ Nd7 $1 {
+Accuracy: White = 57%, Black = 85%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.21"]
+[Round "10.1"]
+[White "Inarkiev, Ernesto"]
+[Black "Artemiev, Vladislav"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "2693"]
+[BlackElo "2761"]
+[Annotator "TA"]
+[PlyCount "104"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,104,20,15,62,60,52,0,0,-8,0,0,0,0,0,0,-8,-1,0,-12,0,0,0,-1,0,0,0,0,0,
+0,0,-47,0,0,10,-4,0,-9,0,0,0,0,0,-1,0,-74,-81,-67,-73,-104,-103,-111,-124,-109,
+-109,-100,-100,-212,-212,-307,-299,-355,-351,-243,-243,-535,-524,-812,-769,
+-729,-717,-1362,-1383,-1327,-1336,-945,-1130,-2269,-2277,-3776,-3700,-3773,
+-2283,-4702,-4618,-2796,-2565,-29962,-29960,-29966,-29968,-29976,-29976,-29974,
+-29973]} 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nf6 7. f4
+b5 {B43: Sicilian: Kan Variation: 5 Nc3} (7... Bb4 8. Bd2 Bxc3 9. Bxc3 Qxf4 10.
+Qe2 Nc6 11. Rf1 Qh4+ 12. g3 Qg4 13. Nxc6 dxc6 14. Rxf6 Qxe2+ 15. Kxe2 gxf6 16.
+Bxf6 {1-0 (32) Grischuk,A (2766)-Caruana,F (2816) Leuven 2018}) 8. e5 b4 9. Ne4
+({White should play} 9. Na4 $14 Nd5 10. Be4) 9... Nxe4 $11 {The position is
+equal.} 10. Bxe4 Bb7 11. Qf3 Nc6 12. Be3 Nxd4 13. Bxd4 Bxe4 14. Qxe4 Rc8 15.
+O-O-O Be7 $146 16. Kb1 O-O 17. f5 exf5 18. Qxf5 Qc6 19. g4 a5 20. h4 a4 21. g5
+Qe6 (21... b3 $5 22. cxb3 (22. axb3 axb3 23. cxb3 Qd5 $11) 22... axb3 23. axb3
+Qd5 $11) 22. Rhf1 Rc6 23. Rd2 h6 24. Be3 hxg5 25. hxg5 Qxf5 26. Rxf5 Bc5 27.
+Bf4 Kh7 {[#] aiming for ...Kg6.} 28. g6+ ({Wrong is} 28. Rxd7 $2 Kg6 $19) (28.
+Bh2 $11) 28... Rxg6 $17 29. Rh5+ Kg8 {( -> ...Rg1+)} 30. c3 b3 $36 {[%mdl 2048]
+White is under strong pressure.} 31. Rd1 Rg1 32. Rxg1 Bxg1 33. axb3 axb3 {
+[%mdl 4096] Endgame KRB-KRB} 34. Kc1 {[#]} (34. Rh1 $17 Bc5 35. Kc1) 34... Ra8
+$1 $19 35. Rg5 (35. e6 $142 dxe6 36. Rb5) 35... Ra4 36. Kd2 Rxf4 37. Rxg1 {
+KR-KR} Rf2+ 38. Kd3 $2 (38. Ke3 Rxb2 39. Rd1) 38... Rxb2 39. Kc4 Re2 40. Kxb3
+Rxe5 41. Kc4 Kf8 42. Kd4 d6 43. c4 g5 44. Kc3 Ke7 45. Kd4 Ke6 46. Kd3 f6 47.
+Kd4 Kf5 48. Rf1+ Kg6 49. Kc3 f5 {Black mates.} 50. Rd1 Re6 51. Kd4 f4 52. Kd5
+Kf5 {Accuracy: White = 33%, Black = 82%.} 0-1
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.21"]
+[Round "10.2"]
+[White "Motylev, Alexander"]
+[Black "Matlakov, Maxim"]
+[Result "1/2-1/2"]
+[ECO "C80"]
+[WhiteElo "2654"]
+[BlackElo "2701"]
+[Annotator "TA"]
+[PlyCount "49"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,49,10,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1.
+e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Be7 10. c3 O-O 11. Nbd2 Bg4 {The position is equal.} 12. Re1 {
+C83: Open Ruy Lopez: 9 c3 Be7} (12. Nxe4 {feels hotter.} dxe4 13. Qd5 Qxd5 14.
+Bxd5 exf3 15. Bxc6 fxg2 16. Kxg2 Rad8 17. a4) (12. Nxe4 dxe4 13. Qd5 Qxd5 14.
+Bxd5 exf3 15. Bxc6 fxg2 16. Rfc1 Rab8 17. a4 b4 18. cxb4 Rxb4 19. Bxg2 c5 20.
+Bxc5 Bxc5 21. Rxc5 Rxb2 {1/2-1/2 (37) Karjakin,S (2773)-Anand,V (2768) Saint
+Louis 2018}) 12... Nxe5 {...Nd3 is the strong threat.} 13. Nxe4 Bxf3 $1 14.
+Qxd5 Qxd5 15. Bxd5 Rad8 16. Bb7 f5 $146 ({Predecessor:} 16... Rb8 17. Bxa6 Bxe4
+18. Bd4 Nc6 19. Rxe4 Nxd4 20. cxd4 Bd6 21. a4 bxa4 {1/2-1/2 (21) Milnes,
+B-Northrup,G USA 1915}) 17. Nc5 Bxb7 18. Nxb7 Rd5 19. Bd4 Nc6 {next ...Kf7 is
+good for Black.} 20. Na5 Nxa5 21. Rxe7 {[%mdl 64] [#] Double Attack} Rf7 22.
+Re8+ Rf8 23. Re7 Rf7 24. Re8+ Rf8 25. Re7 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.21"]
+[Round "10.3"]
+[White "Predke, Alexandr"]
+[Black "Fedoseev, Vladimir"]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "2632"]
+[BlackElo "2681"]
+[Annotator "TA"]
+[PlyCount "85"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,85,36,40,18,17,2,19,24,31,32,62,47,72,48,54,72,64,24,62,48,87,70,83,
+76,63,60,58,51,72,58,81,49,47,35,50,33,69,85,125,126,170,177,497,501,506,503,
+494,364,343,312,709,653,702,690,641,430,420,427,473,470,475,452,770,764,755,
+760,746,547,723,745,745,745,741,741,775,763]} 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4.
+cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bg5 {D85: Exchange Grünfeld: Unusual White
+7th moves and lines with 7 Nf3} (7. Qa4+ Nd7 8. Nf3 O-O 9. Be2 e5 10. Ba3 Re8
+11. dxe5 Nxe5 12. Rd1 Bd7 13. Qb3 Nxf3+ 14. gxf3 Qc8 15. h4 Be6 16. c4 Rd8 17.
+Rxd8+ Qxd8 {0-1 (52) Vidit,S (2711)-Shankland,S (2731) Prague 2019}) 7... c5 8.
+Rc1 Qa5 {And now ...cxd4 would win.} 9. Qd2 {The position is equal.} Nd7 10.
+Nf3 h6 11. Be3 Nb6 $146 ({Predecessor:} 11... Nf6 12. Bd3 c4 13. Bb1 Ng4 14.
+Bf4 e5 15. dxe5 {1-0 (28) Saunina,L (2208)-Kristiansen,E (2219) Dresden 2013})
+12. h3 (12. dxc5 {seems wilder.} Nd7 13. Be2 Qc7 14. Nd4 Nxc5 15. Nb5) 12...
+cxd4 13. cxd4 Qxd2+ 14. Nxd2 (14. Kxd2 {feels hotter.} f5 15. Bd3 O-O 16. Ke2
+Be6 17. Nh4) 14... Bd7 15. Nb3 f5 16. f3 Rc8 17. Rxc8+ Nxc8 18. Bd3 b6 19. Ke2
+fxe4 20. fxe4 e5 21. dxe5 Bxe5 22. Nd4 Nd6 23. Rc1 Kd8 24. Nf3 Bg7 25. Bf4 $1 {
+[%cal Rf4d6]} Ne8 {[#]} 26. Bb8 $1 Be6 $2 (26... Bf8 {is a better chance.} 27.
+Ne5 (27. Bxa7 Bc5 $16) 27... Rh7 28. Bxa7 (28. Nxg6 Bd6 $16) 28... Bc5) 27.
+Bxa7 $18 Bxa2 28. Bxb6+ Ke7 29. Nh4 Bf7 30. Rc6 Kd7 $2 (30... Nf6 31. Rc7+ Kf8)
+31. Bb5 Nd6 32. Rc7+ Ke6 33. Bc6 {Hoping for Bd5+.} Be5 34. Nf3 Rb8 {White is
+clearly winning.} 35. Bc5 Rb2+ {[#]} 36. Kd1 $1 {Threatens to win with Bd5+.}
+Rb1+ (36... Kf6 $142) 37. Kc2 {Strongly threatening Bd5+.} Rb2+ 38. Kc1 {
+Black must now prevent Bd5+.} Rxg2 39. Bd5+ Kf6 40. Bxd6 {[%csl Gf3][%cal
+Rd6e5]} Bb2+ 41. Kd1 {[%csl Gd5][%cal Rc7f7]} Bxd5 42. exd5 Rf2 43. Nd2 {
+Accuracy: White = 75%, Black = 33%.} 1-0
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.21"]
+[Round "10.4"]
+[White "Jakovenko, Dmitry"]
+[Black "Tomashevsky, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "C84"]
+[WhiteElo "2711"]
+[BlackElo "2702"]
+[Annotator "TA"]
+[PlyCount "73"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,73,13,11,0,14,0,6,0,16,-33,-33,-32,-30,-39,-29,-38,-38,-36,-26,-27,
+-31,-46,-35,-38,-17,-35,-7,-10,-8,-7,-5,-8,-14,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3
+d6 8. a4 Bd7 9. c3 O-O 10. Bc2 Re8 11. Re1 h6 12. Nbd2 Bf8 13. h3 {C90: Closed
+Ruy Lopez with 7...d6: Early deviations} Rb8 {[#]} 14. Nb3 $146 ({Predecessor:
+} 14. Nf1 b4 15. Ng3 bxc3 16. bxc3 d5 17. exd5 {1/2-1/2 (17) Areshchenko,A 
+(2656)-Efimenko,Z (2647) Yerevan 2015}) 14... Ne7 15. d4 Ng6 16. dxe5 dxe5 17.
+axb5 axb5 18. Be3 Qc8 19. Nh2 c5 20. Qf3 c4 21. Nd2 Bc5 22. b4 cxb3 23. Bxb3
+Rb6 24. c4 bxc4 25. Bxc4 {The position is equal.} Bxe3 26. Qxe3 Rc6 27. Qb3 Be6
+28. Bxe6 Qxe6 (28... Rcxe6 {seems wilder.} 29. Nhf3 Nf4 30. Ra7 Qc5 31. Qe3 Qc2
+) 29. Qxe6 Rexe6 30. Rec1 Rxc1+ 31. Rxc1 Ra6 32. Nhf3 Ra4 33. Rc8+ Kh7 34. Rc7
+Kg8 35. Rc8+ Kh7 36. Rc7 Kg8 37. Rc8+ {Accuracy: White = 62%, Black = 68%.}
+1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.21"]
+[Round "10.5"]
+[White "Alekseenko, Kirill"]
+[Black "Vitiugov, Nikita"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "2650"]
+[BlackElo "2727"]
+[Annotator "TA"]
+[PlyCount "131"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,131,16,16,20,7,0,5,0,0,0,12,16,10,11,32,15,60,19,40,0,0,-27,-6,-27,
+29,0,0,0,0,0,19,0,39,25,48,0,45,53,60,56,55,57,50,41,66,56,108,85,213,201,721,
+743,732,736,902,902,825,886,1585,305,316,311,316,289,281,275,200,66,66,66,66,
+66,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0]} 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6
+7. Be3 a6 8. Qd2 b5 9. Nd1 {C11: French: Classical System: 4 e5 and 4 Bg5 dxe4}
+(9. a3 Rb8 10. dxc5 Bxc5 11. Bxc5 Nxc5 12. b4 Nd7 13. Bd3 Qb6 14. Ne2 f6 15.
+exf6 Nxf6 16. Ned4 Nxd4 17. Nxd4 {1/2-1/2 (31) Grischuk,A (2769)-Short,N (2652)
+Douglas 2018}) 9... Be7 10. Bd3 b4 11. O-O c4 12. Be2 a5 13. a3 $146 ({
+Predecessor:} 13. Nf2 O-O 14. Nh1 f5 15. exf6 Nxf6 16. Ng3 Bd7 17. Ne5 {
+1-0 (30) Girya,O (2103)-Cherepovskaya,M (2075) Satka 2005}) 13... bxa3 14. bxa3
+a4 15. Nc3 Ra5 16. g4 h5 17. h3 Nf8 18. Qe1 Ng6 19. Qg3 Nh4 (19... hxg4 $142
+20. hxg4 Kf8) 20. Nxh4 $11 Bxh4 21. Qg2 hxg4 22. hxg4 Be7 23. Bf3 Na7 24. Rfb1
+Bd7 25. g5 Nb5 26. Nxb5 Rxb5 27. Rxb5 Bxb5 28. g6 $1 f5 29. exf6 $1 Bxf6 {[#]}
+30. f5 $1 {[%mdl 512]} exf5 (30... Qb6 $14) 31. Rb1 $1 $16 {[%cal Rb1b5]} (31.
+Bxd5 Rh4 $11) 31... Bc6 {[#]} (31... Ba6 $16 {is a better defense.}) 32. Bf4 $1
+$18 {aiming for Rb8.} Bxd4+ $2 (32... Ke7 33. Qd2 Kd7) 33. Kf1 Qh4 {[#]} 34.
+Qd2 $1 {Re1+ is the strong threat.} Bc5 35. Rb8+ Kd7 36. Rxh8 Qxh8 37. Bxd5 $2
+(37. Qa5 {Intending Qc7+ and mate.} Qd8 38. Qxc5) 37... c3 38. Qd3 Qf8 39. Bf3+
+Bd6 40. Bxc6+ ({Less strong is} 40. Bxd6 Qxd6 41. Qxf5+ Kc7 $16) 40... Kxc6 41.
+Qxc3+ (41. Qc4+ $18 Kb7 42. Qb5+ (42. Qxa4 Bxf4 43. Qxf4 Qf6 $11) 42... Kc7 43.
+Qc5+ (43. Qxa4 Bxf4 44. Qxf4+ Kc6 $16) 43... Kd7 44. Qd4) 41... Kb7 $14 42.
+Bxd6 {[%mdl 64] Overworked Piece} Qxd6 43. Qxg7+ {[%mdl 4096] Endgame KQ-KQ}
+Ka6 44. Ke2 ({White should play} 44. Qc3 $1 $14 Qxg6 45. Qc4+ Kb7 46. Qxa4)
+44... Qe6+ {The position is equal.} 45. Kd2 Qd6+ 46. Ke2 Qe6+ 47. Kf2 {And now
+Qf7 would win.} Qb6+ 48. Kf3 Qc6+ $1 49. Kg3 Qd6+ 50. Kh3 Qxa3+ 51. c3 {
+Strongly threatening Qf6+.} Qd6 52. Qf7 {Threatens to win with g7.} Qf4 53.
+Qe6+ Kb7 54. Qe7+ Kc6 {White must now prevent ...Qg4+.} 55. Qf6+ Kb7 56. Qf7+
+Kb6 57. Kg2 Qg4+ 58. Kf2 a3 59. Qe6+ Kb7 60. Qe7+ Kb6 61. g7 a2 62. Qd8+ Kb7
+63. Qd5+ Kb6 64. Qb3+ Kc6 {( -> ...Qh4+)} 65. Qe6+ Kb7 66. Qd5+ {Accuracy:
+White = 55%, Black = 51%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.21"]
+[Round "10.6"]
+[White "Sarana, Alexey"]
+[Black "Dreev, Aleksey"]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[WhiteElo "2640"]
+[BlackElo "2655"]
+[Annotator "TA"]
+[PlyCount "130"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,130,37,40,31,27,28,44,17,46,22,38,43,38,50,42,41,39,32,34,41,12,15,
+31,32,44,31,43,-29,-17,-83,-87,-122,-56,-117,-130,-163,-153,-147,-10,-14,-6,-6,
+-17,-34,-23,-121,-109,-112,-84,-79,-92,-87,-98,-128,-133,-158,-159,-233,-130,
+-196,-121,-105,-103,-118,0,0,0,0,106,87,148,152,170,146,159,167,207,196,187,
+212,199,104,191,236,199,167,166,164,152,148,235,220,232,235,216,-8,-8,-8,-8,
+-20,-8,-24,-14,-16,-8,-8,-8,-31,-31,-38,-38,-38,-38,-38,-38,-38,-38,-38,0]} 1.
+e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bb4 7. Bf4 O-O 8. Bc7
+{B45: Sicilian Four Knights} Qe7 9. Bd6 Bxd6 10. Qxd6 {White is slightly
+better.} Qd8 11. O-O-O a6 12. Nd4 $1 Ne7 $146 (12... Qb6 13. e5 Ng4 14. Nxc6
+bxc6 15. Bd3 {1/2-1/2 (66) Jakovenko,D (2730)-Pridorozhni,A (2571)
+Khanty-Mansiysk 2017}) 13. h4 b5 14. h5 Ne8 15. Qb4 Bb7 16. h6 g6 17. a4 Nc6
+18. Qc5 bxa4 19. Nxa4 Rc8 20. Kb1 (20. f3 $14) 20... Nb8 $11 (20... Nxd4 $6 21.
+Qxd4 Qc7 22. Nc3 $16) 21. Qa7 (21. Qb6 $11 Bxe4 22. Qxd8 Rxd8 23. Rh4) 21...
+Bxe4 $17 22. Nc5 Nd6 ({Better is} 22... Bd5 $17 23. c4 d6 24. cxd5 dxc5 25.
+dxe6 Rc7) 23. Ndb3 (23. f3 $15 Bd5 24. Be2) 23... Bd5 24. Bxa6 Nxa6 25. Qxa6
+Nc4 (25... Qc7 $17 {And now ...Ne4 would win.} 26. Qd3 Bxg2) 26. Rxd5 $1 $11
+exd5 27. Nxd7 $1 Qe7 (27... Qxd7 28. Qf6 Na3+ 29. bxa3 Qg4 30. Qg7#) 28. g4
+Rfd8 $40 {[%mdl 128] Black is up to no good.} ({Worse is} 28... Qxd7 29. Qf6
+Na3+ 30. bxa3 Qxg4 31. Qg7#) 29. Nf6+ (29. Qf6 $1 $11 Qxf6 30. Nxf6+ Kh8 31.
+Re1) 29... Kh8 $17 {aiming for ...Qe5.} 30. Nxd5 Qd6 $1 {[%cal Rd6a6]} 31. Qxd6
+Rxd6 32. Nc3 Rf6 33. Ne4 Rf4 34. Nbc5 Rxg4 35. b3 (35. c3 $17) 35... Ne5 (35...
+Na3+ $19 36. Kb2 Nxc2 $1 {[%mdl 512]}) 36. Re1 (36. Kb2 $17) 36... Rf4 ({
+Black should play} 36... f5 $19 37. Nd6 Rxc5 38. Nf7+ Kg8 39. Nxe5 Re4) 37. c4
+Ng4 38. Nd6 Rd8 (38... Ra8 $1 $17 39. b4 Nxh6) 39. Ncb7 $11 Rf8 40. c5 {
+Hoping for c6.} Nxh6 (40... Rf3 $1 $11 {remains equal.}) 41. c6 $16 {Strongly
+threatening Ne8.} Rb4 ({Don't blunder} 41... Rxf2 $2 42. Ne8 $18 (42. c7 Rf6
+$18)) ({Black should try} 41... Rf3) 42. Kb2 $1 {Threatens to win with Ne8.}
+Nf5 43. c7 $1 Nd4 44. Nc5 {Black must now prevent Re8.} Rb6 45. c8=Q Rxc8 46.
+Nxc8 Rc6 47. Re8+ Kg7 48. b4 h5 49. Kc3 Nb5+ 50. Kd3 h4 {intending ...h3.} 51.
+Ke2 Nd4+ {[#]} (51... Rf6 $16 52. Kf1 Rf4) 52. Kf1 $1 $18 h3 {[#]} 53. Kg1 $1
+g5 54. Re3 $2 (54. Kh1 $18) 54... Rxc8 $11 55. Rxh3 {[%mdl 4096] Endgame
+KRN-KRN} Rb8 56. Nd3 f5 57. Re3 Kf6 58. Kg2 Nc2 59. Re2 Nxb4 60. Nxb4 Rxb4 {
+KR-KR. Black is slightly better.} 61. Ra2 Ke5 62. Ra5+ Kf4 63. Ra3 g4 64. Rc3
+Rb5 65. Rc8 Rb4 {Accuracy: White = 57%, Black = 64%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.22"]
+[Round "11.1"]
+[White "Dreev, Aleksey"]
+[Black "Inarkiev, Ernesto"]
+[Result "0-1"]
+[ECO "E35"]
+[WhiteElo "2655"]
+[BlackElo "2693"]
+[Annotator "TA"]
+[PlyCount "54"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,58,14,17,0,31,22,40,16,27,22,14,10,32,36,35,40,39,29,54,72,72,67,125,
+124,123,119,118,127,113,16,110,108,150,56,37,0,156,0,0,0,0,-146,-153,-366,-390,
+-381,-339,-332,-144,-652,-629]} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5
+exd5 6. Bf4 {E35: Nimzo-Indian: Classical: 4...d5 5 cxd5 exd5} (6. Bg5 h6 7.
+Bxf6 Qxf6 8. a3 {1/2-1/2 (8) Vitiugov,N (2719)-Giri,A (2783) St Petersburg 2018
+}) 6... Ne4 7. e3 c5 8. dxc5 {White is slightly better.} Qa5 {[%cal Re4c3]} 9.
+Nge2 O-O 10. a3 {[%cal Ba2a3,Ba3b4][%mdl 32]} Bf5 {...Nxc3 is the strong
+threat.} 11. Qc1 Nxc5 $146 ({Predecessor:} 11... Bxc3+ 12. Nxc3 Qxc5 13. Nxe4
+Qxc1+ 14. Rxc1 dxe4 {1-0 (34) Matthiesen,M (2307)-Svane,R (2587) Denmark 2018})
+12. axb4 Nd3+ {[%mdl 64] Double Attack} 13. Kd2 Qd8 $1 14. Qb1 {Strongly
+threatening Nd4.} Bg6 15. Bxb8 $1 Qxb8 (15... Rxb8 $14 16. Qa2 Nxf2) 16. f4 $16
+({Avoid the trap} 16. Nxd5 $2 Nxf2 17. Qe1 Nxh1 $19) 16... Nf2 17. Qe1 Nxh1 18.
+Nd4 Qd6 19. Bd3 (19. Ra4 $1 $16) 19... Qxb4 (19... Bxd3 $11 {keeps the balance.
+} 20. Kxd3 Qxb4) 20. Nc2 $1 {[%cal Rc2b4]} Qb6 {Threatens to win with ...Bxd3.}
+(20... Qxb2 $2 21. Rb1 $18) 21. Qxh1 (21. f5 $16) 21... d4 $14 (21... Qxb2 $2
+22. Rb1 $18) 22. exd4 {And now f5 would win.} Rac8 $2 (22... Bxd3 $11 23. Kxd3
+Rac8) 23. Ra2 $2 (23. f5 $1 $16 {[%cal Rf5g6]} Qxb2 24. Ne2) 23... Bxd3 $11 24.
+Kxd3 Qb3 $36 {[%mdl 2048] aiming for ...b5. White is under pressure.} 25. Rxa7
+{[#]} (25. Ra3 $11 {was the only way to keep the balance.} Qxb2 26. Qa1) 25...
+b5 $1 $17 ({Of course not} 25... Qxb2 $6 26. Ra3 $11) 26. Rb7 $2 (26. Qa1 $17 {
+might work better.} b4 {[%mdl 64] Pin} 27. Kd2 (27. Qa2 $2 Rxc3+ 28. bxc3 Qxc3+
+29. Ke4 b3 $19 {[%mdl 64] Double Attack})) 26... Qxb2 $19 27. Qe1 Rfd8 {
+Played: Qb2-b3} 0-1
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.22"]
+[Round "11.2"]
+[White "Vitiugov, Nikita"]
+[Black "Sarana, Alexey"]
+[Result "1/2-1/2"]
+[ECO "A15"]
+[WhiteElo "2727"]
+[BlackElo "2640"]
+[Annotator "TA"]
+[PlyCount "118"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,118,28,26,30,6,0,0,20,0,38,27,40,18,33,26,17,20,19,-25,-20,-26,-21,
+-17,0,-39,-38,-63,-68,-72,-81,-82,-54,-56,-43,-67,-57,-64,-65,-79,-84,-125,-67,
+-48,-45,-44,-37,-62,-47,-58,-64,-68,-54,-66,-33,-66,0,0,0,-58,-33,-25,-20,-62,
+-38,-29,-22,-20,-29,-29,-26,-25,-21,-21,-17,-39,-31,-48,-42,-48,-48,-33,0,0,0,
+-31,-22,-66,-33,-25,-14,0,0,0,-12,-64,-71,-112,0,-35,-41,-145,-149,-133,-139,
+-156,-118]} 1. c4 Nf6 2. g3 c6 3. Nf3 g6 4. b3 Bg7 5. Bb2 d5 6. Bg2 O-O 7. O-O
+Nbd7 8. d4 b5 {D78: Fianchetto Grünfeld: 6 0-0 c6} 9. c5 $146 ({Predecessor:} 
+9. Nbd2 bxc4 10. bxc4 Ba6 11. Qa4 Qc8 12. Qa3 dxc4 13. Rac1 c3 14. Bxc3 Bxe2
+15. Rfe1 Bxf3 16. Bxf3 Nd5 17. Bb4 Qb7 18. Bxe7 Rfe8 19. Nb3 Bh6 20. Rb1 N7b6
+21. Na5 {1/2-1/2 (21) Rodshtein,M (2673)-Esipenko,A (2603) Skopje 2019}) 9...
+Ne4 10. Qc2 Qc7 {The position is equal.} 11. Nc3 f5 12. a4 b4 13. Nxe4 fxe4 14.
+Ng5 Nf6 15. f3 {[%cal Rf3e4]} h6 16. Nh3 {[%cal Rf3e4]} Bf5 $36 {[%mdl 2048]
+Black has good play.} 17. Qd2 a5 18. Nf2 g5 19. Rae1 Qd7 20. Nd1 Rf7 21. Ne3
+Bg6 22. Nd1 Raf8 23. Nf2 Qe6 24. Bc1 Re8 25. Qe3 Bf5 26. Qd2 Nd7 27. Nd1 {[#]}
+Bg6 ({Black should play} 27... exf3 $1 $17 28. exf3 Qg6) 28. Qe3 $15 Rd8 29.
+Nf2 Nf6 30. Qd2 Bf5 31. Nd1 Nd7 32. Ne3 Bg6 33. Bb2 Kh7 34. Bc1 Qf6 35. Bb2 $1
+{[#] Black must now prevent fxe4.} Qe6 36. Bc1 Rff8 37. Bb2 h5 38. Nd1 Bh6 39.
+Bc1 Bf5 40. Ne3 g4 41. Qd1 Bg6 42. Nc2 Bg7 43. Bf4 Rc8 44. Qd2 Rf7 45. Rf2 Kg8
+{Strongly threatening ...e3!} 46. fxg4 hxg4 47. Ref1 Nf8 48. Ne3 $1 Nd7 49. Nc2
+Bf6 50. Ne3 Rh7 (50... Nxc5 $5 51. dxc5 d4 $11) 51. Bh1 Rh5 52. Ng2 Nf8 53. Be3
+{Threatens to win with Nf4.} Qf7 54. Nf4 (54. Rf4 $1 $11) 54... Rh7 55. Bg2 Ne6
+(55... Qg7 $17) 56. h4 ({Reject} 56. Nxg6 Qxg6 57. Bh1 Qg7 $17) 56... Ng7 $1
+57. Nxg6 ({Better is} 57. Bh1 $15) 57... Qxg6 $17 {Black is clearly better.}
+58. Rxf6 exf6 59. Bf4 Nh5 {Accuracy: White = 51%, Black = 71%.} 1/2-1/2
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.22"]
+[Round "11.3"]
+[White "Tomashevsky, Evgeny"]
+[Black "Alekseenko, Kirill"]
+[Result "1-0"]
+[ECO "D78"]
+[WhiteElo "2702"]
+[BlackElo "2650"]
+[Annotator "TA"]
+[PlyCount "151"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,151,9,23,20,16,7,13,18,19,7,29,-8,14,5,22,22,13,29,25,1,64,63,79,104,
+95,56,69,61,92,58,85,92,106,103,235,225,230,231,296,319,333,314,364,360,430,
+445,536,571,599,393,1497,1416,1267,609,606,586,517,272,285,273,239,188,170,173,
+172,173,170,161,192,103,191,206,219,213,224,225,223,218,193,147,164,146,178,
+187,247,166,166,166,166,166,209,164,164,164,164,140,245,239,224,150,208,208,
+194,186,1052,580,576,258,29967,29968,29969,29969,29970,29968,29968,29970,29970,
+29971,29970,29971,29970,29972,29971,29969,29969,29969,29971,29972,29972,29973,
+29973,29974,29978,29969,29976,29977,29979,29980,29980,29981]} 1. d4 Nf6 2. c4
+g6 3. Nf3 Bg7 4. g3 c6 5. Bg2 d5 6. O-O O-O 7. Qb3 a5 8. Rd1 {D78: Fianchetto
+Grünfeld: 6 0-0 c6} a4 9. Qb4 Re8 10. Bf4 {The position is equal.} Nbd7 11. Na3
+e6 12. Qe1 $146 ({Predecessor:} 12. Rac1 Ne4 13. Ne5 Bf8 14. Qe1 Nxe5 15. Bxe5
+f6 16. Bf4 Nd6 17. h4 Bd7 18. Qc3 f5 19. Bg5 Qa5 20. Qxa5 Rxa5 21. Bd2 Raa8 {
+1/2-1/2 (21) Cheparinov,I (2710)-Ding,L (2777) Riadh 2017}) 12... h6 13. Rac1
+g5 14. Bd6 Ne4 15. Bb4 $1 f5 16. Nc2 {[%cal Ba3c2,Bc2e3,Be3c4,Bc4d6][%mdl 32]}
+g4 ({Black should try} 16... Qc7 $11) 17. Nh4 $1 $14 b6 18. cxd5 cxd5 19. f3
+Ng5 $1 20. Ne3 Nf6 21. Ng6 $36 {[%mdl 2048] White fights for an advantage.} Nf7
+22. fxg4 fxg4 23. Ne5 h5 (23... Ba6 $16) 24. Nxf7 $18 Kxf7 {[#]} 25. Nc4 $1 {
+[%mdl 576] Pin} Bh6 (25... dxc4 26. Bxa8) 26. Nd6+ Kg6 27. Nxe8 Bxc1 28. Rxc1 {
+Black must now prevent Rc7.} Qxe8 29. e4 Ba6 30. e5 Nd7 31. Rc6 {aiming for
+Bxd5.} Kh7 $2 {[#]} (31... Rc8) 32. Bxd5 $1 {[%mdl 512]} exd5 33. Qb1+ (33. Qe3
+$142 Qg6 34. Rxg6 Kxg6 35. Bd2) 33... Kg7 {...Nxe5 is the strong threat.} 34.
+Qf5 {Intending Qg5+ and mate.} Bd3 35. Qxd3 Nxe5 36. Rc7+ Nf7 37. Qf5 Qe3+ 38.
+Kf1 Qf3+ 39. Qxf3 gxf3 {[%mdl 4096] Endgame KRB-KRN} 40. Kf2 Kg6 41. Be7 (41.
+Kxf3 $6 Ng5+ 42. Ke3 Re8+ 43. Kd3 Ne4 $16) (41. h4 $18) 41... a3 (41... Nd8 $16
+) 42. Rc6+ ({Stronger than} 42. Kxf3 Ng5+ 43. Bxg5 axb2 $11) 42... Kf5 43. Rf6+
+({Don't do} 43. Rxb6 $6 axb2 44. Kxf3 Ng5+ 45. Bxg5 Kxg5 $16) (43. Bxa3 $6 Ng5
+$16) 43... Ke4 44. bxa3 ({Wrong is} 44. Rxf7 $2 axb2 45. Rf4+ Kd3 $19) 44...
+Nh8 45. Rxb6 Kxd4 46. Kxf3 Nf7 47. Rb4+ Ke5 48. Rh4 Nd6 (48... Ke6 {was worth
+a try.}) 49. Bxd6+ Kxd6 {KR-KR} 50. a4 Kc5 51. Ke3 Rb8 52. Kd3 Rb2 53. Rxh5
+Rxa2 54. Rh8 Ra3+ {[#]} (54... Rxa4 $16 {keeps fighting.} 55. Ke3 Kd6) 55. Ke2
+$1 Kd4 56. Ra8 Ra2+ (56... Ke4 $16) 57. Kf3 {And now h4 would win.} Rxh2 {[#]}
+58. a5 $1 Kc5 $2 (58... Rh7 59. g4 Rf7+ 60. Kg3 Rg7) 59. a6 Kb6 60. Rd8 (60. g4
+$142 Rh7 61. Rd8) 60... Kxa6 $2 (60... Rd2 $18 61. Rd6+ Kc5) 61. Rxd5 {White
+mates.} Kb6 62. g4 Rh8 63. Kf4 Kc6 64. Rd1 Rf8+ 65. Ke5 Rg8 66. Kf5 Rf8+ 67.
+Ke6 Rg8 68. Rd4 Kc5 69. Ra4 Re8+ 70. Kf7 Rb8 71. g5 Rb7+ 72. Kg8 Kd5 73. Rf4
+Rb1 74. g6 Ke6 75. g7 Ke7 76. Rh4 {Accuracy: White = 68%, Black = 31%.} 1-0
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.22"]
+[Round "11.4"]
+[White "Fedoseev, Vladimir"]
+[Black "Jakovenko, Dmitry"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2681"]
+[BlackElo "2711"]
+[Annotator "TA"]
+[PlyCount "101"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,101,26,25,16,0,0,0,0,0,0,0,9,3,0,-4,23,22,17,0,0,0,0,5,2,2,15,18,29,
+21,30,20,15,26,33,34,27,31,27,26,42,29,37,43,35,41,36,39,92,91,91,91,109,85,
+129,129,157,150,142,142,154,147,142,142,411,398,384,343,329,331,322,262,300,
+283,327,325,320,297,553,577,672,551,708,708,635,573,794,656,1341,1326,1214,
+1152]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. Be2
+dxc4 {D37: Queen's Gambit Declined: 5 Bf4} 8. Bxc4 (8. O-O c5 9. dxc5 Nxc5 10.
+Bxc4 b6 11. Qc2 Bb7 12. Rfd1 Qc8 13. Nb5 a6 14. Nd6 Bxd6 15. Bxd6 Rd8 16. Rac1
+Nce4 17. Bb4 Rxd1+ 18. Qxd1 {1-0 (69) Grischuk,A (2771)-Topalov,V (2740)
+Shamkir 2019}) 8... a6 9. a4 c5 {The position is equal.} 10. dxc5 Nxc5 11. O-O
+Qxd1 12. Rfxd1 Rd8 13. Ne5 {[#]} Ncd7 $146 ({Predecessor:} 13... Nh5 14. Rxd8+
+Bxd8 15. b4 {1-0 (35) Sokolov,I (2645)-Le Roux,J (2523) Mulhouse 2011}) 14. Be2
+Nxe5 15. Bxe5 Bd7 16. Bf3 Bc6 17. Bxc6 bxc6 18. Kf1 Nd5 19. e4 Nxc3 20. bxc3 f6
+21. Bf4 Kf7 22. Ke2 e5 23. Be3 Rab8 24. Rdb1 Ke6 25. Ba7 Ra8 26. Bb6 Rd7 27.
+Be3 Bd8 28. Rb3 Rc8 29. Rab1 c5 ({Black should play} 29... Bc7 $14) 30. Rb8 Rc6
+31. c4 Ba5 32. Rh8 h6 33. Rbb8 Bc3 34. h4 Bd4 35. Bd2 Rcc7 36. Rb6+ Kf7 37. Be1
+f5 $2 {[%mdl 8192]} (37... Ke7 $16) 38. exf5 $18 e4 39. Rbb8 {[#] White
+threatens Rhf8+ and mate.} Kf6 40. g4 Rb7 41. f3 exf3+ 42. Kxf3 Ba1 43. Bf2
+Rxb8 44. Rxb8 {[%mdl 4096] Endgame KRB-KRB} Rd1 $2 (44... Bd4 {is a better
+defense.} 45. Bg3 Kf7) 45. Bxc5 {White is clearly winning.} Rc1 46. Ke4 {
+[%cal Rb8f8] [#]} g5 47. hxg5+ hxg5 48. Rb4 Rh1 49. Bf2 a5 50. Rb6+ Kf7 51. c5
+{Accuracy: White = 89%, Black = 42%.} 1-0
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.22"]
+[Round "11.5"]
+[White "Matlakov, Maxim"]
+[Black "Predke, Alexandr"]
+[Result "1-0"]
+[ECO "E20"]
+[WhiteElo "2701"]
+[BlackElo "2632"]
+[Annotator "TA"]
+[PlyCount "59"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,59,14,9,6,2,10,11,13,19,26,21,28,20,20,21,7,6,3,8,14,14,0,6,5,0,34,
+37,35,17,172,148,146,149,179,187,168,177,213,213,184,214,218,188,370,431,390,
+419,388,383,355,283]} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Be7 6. e4
+dxe4 {E20: Nimzo-Indian: 4 g3 and 4 f3} 7. fxe4 c5 8. d5 exd5 {The position is
+equal.} 9. exd5 O-O 10. Be2 (10. Bf4 Re8 11. Be2 Bg4 12. Qd2 Nh5 13. Be3 Bd6
+14. O-O-O Rxe3 15. Bxg4 Rxc3+ 16. Qxc3 {0-1 (32) Volkov,S (2645)-Vitiugov,N 
+(2722) St Petersburg 2017}) 10... Bd6 11. Nb5 $146 ({Predecessor:} 11. Nf3 Bg4
+12. O-O Nbd7 13. h3 Bxf3 14. Bxf3 {1/2-1/2 (53) Braun,A (2598)-Vrolijk,L (2433)
+chess.com INT 2019}) 11... a6 12. Nxd6 Qxd6 13. Nf3 Bg4 14. O-O $36 {[%mdl
+2048] White is more active.} Nbd7 15. Nh4 Bxe2 16. Qxe2 Rae8 17. Qf3 Re4 18.
+Bf4 Ne5 19. Qb3 Qd7 $2 {[#]} (19... Nh5 $11 20. Bxe5 Qxe5) 20. Bxe5 $1 $18 Rxh4
+21. Bxf6 gxf6 22. Rxf6 Qg4 23. Raf1 Qd4+ 24. Kh1 {aiming for h3.} Qxc4 25. Qxb7
+{[%mdl 64] Double Attack} Rh6 {Threatens to win with ...Rxf6.} 26. h3 Rg6 $2 {
+[#]} (26... Rxf6 27. Rxf6 Qe4 28. Qxa6 Qxd5) 27. d6 $1 Rxf6 28. Rxf6 {Strongly
+threatening Qe7.White is winning.} Qc1+ 29. Kh2 Qe3 {And now ...Qe5+ would win.
+} 30. Qd5 {Accuracy: White = 95%, Black = 58%.} 1-0
+
+[Event "72nd RUS-ch Superfinal 2019"]
+[Site "Izhevsk"]
+[Date "2019.08.22"]
+[Round "11.6"]
+[White "Artemiev, Vladislav"]
+[Black "Motylev, Alexander"]
+[Result "1/2-1/2"]
+[ECO "A20"]
+[WhiteElo "2761"]
+[BlackElo "2654"]
+[Annotator "TA"]
+[PlyCount "83"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,83,7,8,11,5,3,8,8,11,15,12,11,19,12,7,12,12,13,12,0,0,0,0,0,0,0,0,-7,
+0,-7,0,0,0,0,0,0,0,-8,-5,0,0,-29,0,-9,-9,-6,0,0,0,0,0,0,0,0,7,7,7,7,8,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. c4 e5 2. g3 Nf6 3. Bg2 Bc5 4. Nc3 c6 5. e3 Bb6
+$146 (5... O-O 6. Nge2 d5 7. cxd5 Nxd5 8. d4 exd4 9. Nxd5 cxd5 10. Nxd4 Nc6 11.
+Nxc6 bxc6 12. O-O Be6 13. Qc2 Qb6 {1/2-1/2 (28) Carlsen,M (2843)-Ding,L (2791)
+Stavanger 2018}) 6. d4 {A23: English Opening: 1...e5 2 Nc3 Nf6 3 g3 c6} exd4 7.
+exd4 d5 8. cxd5 Nxd5 9. Nxd5 cxd5 10. Ne2 O-O 11. Nc3 Nc6 12. Be3 Ba5 13. Qb3
+Be6 14. O-O Bxc3 15. Qxc3 Rc8 16. Rfc1 Qd7 17. Qd2 Bh3 18. Bh1 b6 19. Rc3 Na5
+20. b3 Rxc3 21. Qxc3 Rc8 22. Qd2 h6 23. Rc1 Rxc1+ 24. Qxc1 Nc6 25. Qc3 a5 26.
+Bg2 {The position is equal.} Bxg2 27. Kxg2 Nb4 28. a3 Qc6 29. Qxc6 Nxc6 $11 {
+[%mdl 4096] Endgame KB-KN} 30. a4 g5 31. g4 f6 32. Kg3 Kf7 33. f4 Kg6 34. fxg5
+(34. f5+ {keeps more tension.} Kf7 35. h4 Nb4 36. Bd2 Nc2 37. Bc3) 34... hxg5
+35. h4 gxh4+ 36. Kxh4 Nd8 37. Kg3 Ne6 38. Kf3 f5 39. Kg3 Kf6 40. gxf5 Kxf5 {
+[#] Strongly threatening ...Ke4!} 41. Kf3 Ng5+ 42. Bxg5 {Accuracy: White = 67%,
+Black = 68%.} 1/2-1/2
+

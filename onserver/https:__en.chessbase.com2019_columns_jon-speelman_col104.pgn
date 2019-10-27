@@ -1,0 +1,234 @@
+[Event "ZMM SKP-SG Zürich"]
+[Site "?"]
+[Date "2018.10.23"]
+[Round "1"]
+[White "Patzelt, Nikolaus"]
+[Black "Utzinger, Kurt"]
+[Result "1-0"]
+[ECO "A87"]
+[WhiteElo "2091"]
+[BlackElo "1892"]
+[Annotator "Utzinger, Kurt"]
+[PlyCount "73"]
+[EventDate "2018.10.23"]
+[SourceVersionDate "2015.07.13"]
+
+{[%evp 0,60,28,31,39,-16,35,36,42,42,50,51,57,50,63,64,59,14,42,26,56,38,56,33,
+55,-5,-4,-7,13,-64,-75,-69,-55,-47,-54,-64,-57,-67,-48,-89,-64,-118,-89,-319,
+-319,-319,-312,-312,-312,-316,-303,-323,-334,-346,-268,-244,-232,-326,-329,
+-336,-247,-267,-280] This game is from the Zuercher Team Championship between
+Schachgesellschaft Zuerich - Pfaeffikon ZH. After a rather well played game
+against a stronger opponent, I suddenly collapsed in a totally won position.
+No surprise that I didn't sleep well that night.} 1. d4 e6 {As a French and
+Dutch Defence player I always choose this transposition of moves to avoid the
+Staunton-Gambit after 1.d4 f5 2.e4.} 2. c4 (2. Nf3 f5 3. g3 Nf6 4. Bg2 g6 5.
+O-O Bg7 6. c4 O-O 7. Nc3 {1-0 (27) Jakovenko,D (2709)-Williams,S (2444) Novi
+Sad SRB 2016}) 2... f5 3. Nc3 Nf6 4. Nf3 d6 5. g3 g6 {Inspired by GM Simon
+Williams I have changed my repertoire to the so called "Dutch Christmas Tree"
+which is somewhat more active than the Classical Dutch with 5...Be7.} 6. Bg2
+Bg7 7. O-O O-O 8. Re1 Ne4 9. Qc2 Nxc3 10. bxc3 e5 11. e4 {[#] I was still in
+my opening preparation and very surprised about my oppenent who has made his
+moves so far very slowly and nevertheless found the best moves. I knew the
+interesting continuation 11...f4!? but feared that White could play the
+critical variation won by GM D. Jakovenko vs GM S. Willaims at Novi Sad in
+2016. Therefore, I choose another logical move in this kind of position.} Nc6 (
+{JS That game went:} 11... f4 12. gxf4 exf4 13. Ba3 g5 14. e5 g4 15. Nd2 f3 16.
+Bf1 Bh6 17. Ne4 Bf5 18. Qb3 Nd7 19. c5+ Kh8 20. cxd6 g3 21. Nxg3 Qh4 22. dxc7
+Rg8 23. Qxb7 Qg4 24. e6 Nf6 25. Bd6 Bf4 26. Bxf4 Qxf4 27. Qb5 {1-0 (27)
+Jakovenko,D (2709)-Williams,S (2444) Novi Sad SRB 2016}) 12. Bg5 {Playable
+alternatives are 12.dxe5 and 12.exf5.} Qe8 13. d5 $6 {A positional error
+giving Black the advantage.} Nd8 {Instantly played and neglecting the perhaps
+even stronger 13...Na5.} ({JS was instant thought but White can cause too much
+trouble before Black stabilises matters.} 13... Nb8 14. exf5 Bxf5 (14... gxf5
+15. Nd4 Na6 16. Ne6) 15. Qb2 Qc8 16. c5 $1) 14. Bxd8 {?! A dubious exchange
+making me happy.} (14. exf5 {JS would at least have given White some play}
+Bxf5 15. Qe2 Qd7 (15... Nf7 16. Be3 b6) 16. Bxd8 Qxd8 17. Nd2 {and with
+control of the e4 square White loks OK or at least OK-ish}) 14... Qxd8 15. c5 {
+?! This came as a real surprise to me. JS I thought he had to play this before
+Black could prevent it but I guess that without a knight to go to c5 I may be
+wrong.} b6 {Forcing White to put his cards on the table. Not for a second had
+I considered the (in my opinion) positionally unsound ...dxc5.} 16. c6 {Instead of
+opening the c-file for Black's rook, White is closing the position. But now,
+Black has free hands on the kingside.} f4 {Bringing White into an
+uncomfortable situation.} 17. a4 a5 {Giving White no chance for the break
+a4-a5.} 18. Nd2 Bh6 {?! Having plenty of time left on my clock - not an
+everyday occurence in my games - I played too fast and missed the much
+stronger 18...g5 or 18...Qf6.} 19. Qd1 Qg5 20. Nf3 (20. Ra2 {JS was better
+when he dfends f2 ergonomically.}) 20... Qf6 {Not bad but had I taken more
+time I would have found the stronger 20...Qh5.} 21. Nd2 {? It's often the same
+thing. If stronger players get under pressure against underdogs, they are not
+immune against errors. And 21.Nd2 should just lose the game.} fxg3 22. f3 (22.
+fxg3 Qf2+ 23. Kh1 Qxd2 {-+ wins a piece}) 22... gxh2+ 23. Kh1 {Forced in view
+of 23.Kxh2 Qf4+ followed by ...Qxd2.} Bf4 24. Nf1 Qg5 25. Ra2 h5 {Other moves
+win too.} 26. Nxh2 Bxh2 {Not the best solution but sufficient to win. After 26.
+..Qh4 White would be helpless.} ({JS Absolutely. It was a real shame to cash
+in such a massive bishop so early. Black just needs to take aim and fire while
+avoiding any trouble, and with the bishop on f4 you can always take the knight
+whenever you want. I'd like to complete my development and either batter White
+with g5-4 or get doubled on the f-file first and take aim at f3 later.} 26...
+Qh4 27. Bf1 g5 28. Kg1 Kh7 29. Rg2 Rg8 30. Ree2 Bh3 {for example wins the
+exchange for nothing}) 27. Kxh2 Rf4 28. Qd2 Qh4+ {I had already written down
+28...Rh4+ on my notation sheet and changed my mind at the last moment.} 29. Kg1
+Qg3 {Black has still a won position.} 30. Qf2 {[#]} Rxf3 {This is a good move
+but it puts a lot of strain on Black who now has to be very careful due to the
+coming invasion along the f-file.} ({Instead} 30... Qxf2+ 31. Kxf2 Ba6 {
+really ought to win without risk. Black will double on the f-file to tie White
+down, put his king on h6 say and then arrange a breakthrough, of some sort
+perhaps involving g4 or Rxf3+ Not only is White weak on the kingside but his
+queenside is a disaster area too. In particular the a4 pawn and once he's tied
+down it shouldn't be possible both to defend it and the kingside. The thing is
+that a stronger player facing a weaker one might well settle for this,
+presuming that "he'd win in the end". But a weaker or rather lower rated one
+facing a stronger tends to want to win by force to get it over. This may
+involve playing a number of good perhaps even only moves rather than a string
+of good ones (in the longer but much safer version). And things can easily go
+wrong.} 32. Ke3 Raf8 33. Rh1 Kg7 34. Rc2 Bc4 {There's no reason at all to
+allow c4 and potentially c5 at some moment} 35. Rcc1 Kh6 36. Rh2 g5 37. Rch1 h4
+38. Rh3 Kg7 (38... Kh5 39. R3h2 Bb3 40. Ra1 g4 41. fxg4+ Kg5 42. Rah1 Rxg4 {
+would be another way}) 39. Rg1 Ba6 40. Rh2 Bc8 41. c4 (41. Rf1 Bg4) 41... Kg6
+42. Rgh1 Kh5 (42... h3 43. Bxh3 Rxf3+ 44. Ke2 Rxh3 45. Rxh3 Bxh3 46. Rxh3 g4
+47. Rh4 Rf4 48. Ke3 {is probably winning but hard work}) 43. Kd3 Rxf3+ 44.
+Bxf3+ Rxf3+ 45. Kd2 h3) 31. Qxf3 Qxe1+ 32. Bf1 $1 {JS The only way to fight.} (
+{If} 32. Kh2 $2 Qh4+ 33. Kg1 Bg4 {Black gets the f-file and it's all over.})
+32... Bg4 ({JS} 32... Qh4 $1 {was better threatening Qg4+.} 33. Qe3 Kg7 34. Rf2
+Bg4 35. c4 Qe7 36. Qd2 Rf8 37. Rxf8 Qxf8 38. c5 $1 dxc5 {and if} 39. d6 Qxd6
+40. Qxd6 cxd6 41. Ba6 ({or say} 41. Kh2 Kf6 42. Kg3 g5 43. Ba6 Be6 44. c7 h4+
+45. Kf3 g4+ 46. Ke3 Kg5 47. c8=Q Bxc8 48. Bxc8 h3 49. Kf2 Kf4) 41... Kf6 42. c7
+Kg5 {with half a million pawns for the piece which White can take if he likes,
+Black is certainly winning}) 33. Qf6 {[#]} Qe3+ $6 {was much easier.} ({
+Indeed JS Black does keep control after say} 33... Qxe4 34. Rf2 Bf5 35. Qe7 Rc8
+36. Ba6 Qe1+ 37. Bf1 Qe3 38. c4 Rf8) 34. Rf2 Qxe4 $2 {?? A horrible error
+instead of 34...Kh7 -+} ({JS Yes} 34... Kh7 35. Bg2 Kh6 {should be winning but
+Black will still have to navigate either an ending where White gets a passed c-pawn but his kingsie pawns are first or, more likely with the queens still on,
+he needs to find some only moves to defend himself.} 36. Kh2 (36. c4 Qg3 37. Qe7
+h4 38. Rf7 Rh8 39. Qf6 Rh7 $1) 36... Qg5 37. Qxg5+ Kxg5 38. Rf7 h4 39. Rxc7 h3
+40. Bh1 Rf8 41. Rg7 Rf2+ 42. Kg3 Rc2) 35. Qf7+ Kh8 36. Qxc7 {[#] The situation
+has totally changed in favour of White.} Qxd5 {? A further worse mistake in a
+very bad position. After the next move Black is going to be checkmated or to
+lose the queen.} 37. Rf7 {Black resigned JS: A horrible loss for Kurt. He
+outprepared his opponent in the opening and then outplayed him too to reach a
+clearly winning position but then first cashed in too early with Bxf2 and then
+chose to win a second pawn with Rxf3 when reamining just one pawn up with the
+queens off would have been a much simpler and safer way to play and
+definitely ought to win in the end.} 1-0
+
+[Event "SMM Pfaeffikon-St.Gallen"]
+[Site "?"]
+[Date "2005.06.11"]
+[Round "5"]
+[White "Utzinger, Kurt"]
+[Black "Rexhepi, Halit"]
+[Result "1-0"]
+[ECO "D40"]
+[WhiteElo "1950"]
+[BlackElo "2030"]
+[Annotator "Utzinger, Kurt"]
+[PlyCount "67"]
+[EventDate "2005.??.??"]
+[EventType "schev"]
+[EventRounds "5"]
+[SourceVersionDate "2015.07.13"]
+
+{[%evp 0,67,28,25,51,20,32,32,28,-17,10,0,0,8,75,8,14,-23,-27,-36,-28,-31,27,
+17,44,23,56,-1,0,-13,-29,-29,-18,-22,-22,-34,-24,-44,-81,-81,-82,-82,-82,-82,
+-94,-56,-51,-77,-81,-54,-102,-172,65,58,409,545,634,425,418,442,437,456,483,
+478,1014,1006,1028,975,1107,862] A typical game on club level bases with
+errors on both sides and a lucky end for White. My analysis at home revealed
+that I had not at all understood the best strategy in the symmetrical position
+of the Tarrasch Defence in the Queen's Gambit declined.} 1. Nf3 {Two things
+should be mentioned beforehand: I am a slow player often using far too much
+time even for ordinary moves. This is due to the fact of playing much too few
+tournament games. Furthermore, I prefer to play with the black pieces, either
+the French defence or the Dutch defence. At the time of playing this game in
+the Swiss Team Championship 1st Division 2005, I had still no suitable opening
+repertoire with the white pieces. For this reason I often started my games
+with 1.Nf3 in the hope of a quiet battle and not trying to get an advantage in
+the opening.} c5 2. c4 {Of course not 2.e4 leading to the complex Sicilian
+Defence I have never studied.} e6 3. Nc3 d5 4. e3 {? I knew the theory about
+the Tarrasch Defence but wanted to play something else and invested five
+minutes for this dubious move. Why on Earth did I not fear the unpleasant reply
+4...d4?} (4. cxd5 exd5 5. d4 Nc6 6. g3 {and so on}) 4... Nc6 5. d4 Nf6 6. a3 {
+A very common but nowadays less popular position.} b6 {[#] Preparing Bb7 and
+surely not best (my feeling) but throwing me out of book.} 7. Bd3 {After 9 min
+and rejecting the best continuation 7.cxd5 and all variations leading to
+hanging pawns for black.} ({Yes JS:} 7. cxd5 {was very unpleasant because
+White can generate immediate tactics:} Nxd5 (7... exd5 $2 8. Bb5 Bb7 9. Qa4 Qc7
+10. Ne5 Rc8 11. Qxa7 $1 Bd6 (11... Ra8 $2 12. Qxb7) 12. Bxc6+ Bxc6 13. Qxc7
+Rxc7 14. Nxc6 Rxc6 $16) 8. Bb5 Bb7 9. Qa4 Qc7 10. Nxd5 exd5 11. Ne5 Rc8 12.
+Qxa7 $16) 7... Bb7 ({JS} 7... dxc4 $5 8. Bxc4 Bb7 9. d5 exd5 10. Nxd5 Be7 {
+This is similar to lines of the Queen's Gambit Accepted but White has played
+Bf1-d3xc4 in two moves and Black hasn't spent a tempo on a6}) 8. b3 {?! Not
+much of an invention and only played in the hope that Black would give me the
+opportunity to get the hanging pawns c4/d4. Frankly spoken, I felt unsure
+about what to do. Better, looks 8.0-0 or first cxd5 and then 0-0.} Be7 9. O-O
+O-O 10. Bb2 a6 11. Rc1 Rc8 12. dxc5 {The thinking time of 14 minutes for this
+move shows my indecisiveness in this type of position. I remember that I had also
+calculated 12.Qe2 and 12.cxd5. After the text move I expected 12...dxc4 and my
+intention was to exchange queens. JS: Without any exchanges yet whatseover
+this is a very complicated position and since decisions taken now will hugely
+impact on the rest of the game, it was perfectly reasonable for Kurt to think
+a long time.} bxc5 {[#]} 13. Qc2 {My intuition went for 13.cxd5 Nxd5 but I
+feared the reply 13...exd5.} ({JS: I think that Kurt's intuition was correct.
+If} 13. cxd5 exd5 (13... Nxd5 14. Ne4 {JS or possibly Na4 is very pleasant for
+White}) 14. Na4 Ne4 15. Bxe4 dxe4 16. Nd2 Qd3 {White should be somewhat better.
+b3 is weak but so are g7 and c5 and a3, which weakens the b-pawn and prevents ...
+Nb4-d3.} 17. Nxc5 (17. Qg4 g6 18. Nc4 Qxb3 $2 19. Nab6) 17... Bxc5 18. Rxc5
+Rfd8 $2 (18... Ne7 19. Bd4 {with a pleasant edge}) 19. Qg4) 13... d4 {The
+first time in the game my opponent stopped playing almost instantly and used
+9 minutes of thinking time.} 14. exd4 {after 2 seconds} Nxd4 15. Nxd4 cxd4 16.
+Ne4 {Having the choice between 16.Ne2 and 16.Ne4 I chose the more active
+continuation threatening Nxf6+ followed by Bxh7+} g6 {It was a nice surprise
+to see this defence. Black weakens the dark squares on the kingside.} 17. Rcd1
+{After 15 minutes of thinking time with the idea of bringing my dark bishop to
+the diagonal c1-h6.} ({JS I think I'd want to activate the queenside pawns
+with} 17. Nxf6+ Bxf6 18. b4) 17... e5 18. Bc1 {? Instantly played and
+overlooking the following reply.} Nd7 {! A strong and (for White) unpleasant
+retreat preparing...f7-f5.} 19. Ng3 {I was shocked to see 18...Nd7 and needed
+19 minutes for my reply. Being not at all happy about a passive defence with
+19. f3 f5 20.Nf2, I decided to disturb the peace with 19.Ng3 planning to
+sacrifice the knight after 19...f5 20.Nxf5.} Nc5 {My very much surprised
+opponent found the best move after 12 minutes.} (19... f5 20. Nxf5 gxf5 21.
+Bxf5 {when White can also grab a third pawn on h7 for the piece. Although
+Black might still be better, his kingside remains very open.}) 20. b4 {In view
+of my chess clock I had no time to calculate more deeply other moves like 20.
+f4 oder 20.Rde1.} Nxd3 21. Qxd3 {There is no doubt: Black's position is
+clearly better.} f5 {?! For once my oppenent played too fast.} 22. f4 {[#] !?
+Avoids the for me less clear 22. Bh6. My move came as a complete surprise to
+Black.} exf4 {?! 12 minutes for this second-class move} (22... Bf6 {was my
+expectation} 23. fxe5 Bxe5 {=+ still favouring Black but White is alive}) (
+22... e4 23. Qxd4 Qxd4+ 24. Rxd4 Bf6 25. Rd7 Rf7 26. Rxf7 Kxf7 27. c5 Rd8 {
+Although Black is a pawn down, all of his pieces are working and he obviously
+has a very decent game but I was surprised that Houdini gives this as nearly 1.
+5 pawns up for Black}) 23. Bxf4 {?! Played too fast; only after executing this
+move I realized that 23.Ne2 would have been a stronger alternative.} Bf6 24.
+Bh6 {13 min; not best but I felt some indecision on the part of my opponent
+and decided to fight for all or nothing in the style of Mikhail Tal.} Re8 25.
+Nxf5 {This piece sacrifice is objectively not justified. White gets only two
+pawns, but after ... JS The sacrifice is the only move that makes any sense of
+White's position and otherwise he will merely be suffering with excellent
+losing chances so I think that even if engines (and strong players after
+thinking sufficiently) scoff at it, it should definitely be played preferably
+quickly before White talks himself out of it.} Be4 {? An obvious mistake since
+Black has simply overlooked my reply.} ({After} 25... gxf5 26. Qxf5 Rc6 27. Rd3
+Kh8 {White has no attacking chances and too little compensation for the piece.})
+26. Qg3 {Pinning the g6-pawn thus not loosing the f5-knight.} Qd7 {? Black,
+surprised by the sudden turnaround of the situation, loses his head an makes
+a further, but this time decisive error. After 26...Bxf5 or 26...Be5 the
+fight will go on, with better chances for White.} 27. Nd6 {Winning material
+and the game.} Bc2 {In the post mortem analysis after the game my opponent
+confessed that he only now realized that} (27... Be5 {does not help on account
+of} 28. Nxe8 {and if} Bxg3 {so} 29. Nf6+ Kh8 30. Nxd7 {when White has an
+overwhelming advantage}) 28. Nxe8 {There are several other winning moves
+available. But being short of time I chose the first line I had evaluated as
+won for me. JS Quite right. You only need to win once.} Rxe8 29. Rde1 Rxe1 30.
+Qxe1 Qe7 31. Qf2 {Attacking Bc2 and Bf6} Kf7 {? Makes things very easy for
+White.} ({But} 31... Bf5 {does not help; my intention was to continue with} 32.
+g4 Bg5 33. gxf5 {Even stronger is 33.Bxg5 but I had overlooked this variation.}
+Bxh6 34. Qg2 Be3+ 35. Kh1 g5 36. f6 {+-}) 32. Qxc2 {Black looked rather
+confused that this was possible. Before recovering from this shock, he made
+some useless moves and then resigned.} Qe5 33. Qf2 g5 34. Re1 {[#] A fierce
+battle in which both players initially found it hard to get to grips with an
+extremely complicated early middlegame. Kurt was outplayed for a while but
+seized his moment to sacrifice and even though Nxf5 was definitely unsound in
+a higher sense, in practice fortune favoured the brave.} 1-0
+

@@ -1,0 +1,76 @@
+[Event "GCT Saint Louis Blitz 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.14"]
+[Round "11"]
+[White "Aronian, Levon"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1-0"]
+[ECO "A16"]
+[WhiteElo "2765"]
+[BlackElo "2764"]
+[Annotator "Saravanan,V"]
+[SetUp "1"]
+[FEN "r1b1k1nr/p1pp1pbp/2p1q1p1/4P3/2P1NB2/8/PP2QPPP/R3KB1R b KQkq - 0 11"]
+[PlyCount "4"]
+[EventDate "2019.08.13"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[#]} 11... Ne7 $4 12. Ng5 Qf5 13. g3 $18 1-0
+
+[Event "GCT Saint Louis Blitz 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.14"]
+[Round "17"]
+[White "Carlsen, Magnus"]
+[Black "Aronian, Levon"]
+[Result "*"]
+[ECO "E24"]
+[WhiteElo "2882"]
+[BlackElo "2765"]
+[Annotator "Saravanan,V"]
+[SetUp "1"]
+[FEN "4k3/R4p1p/1p4pB/n2np3/P5P1/1r4N1/2K4P/8 b - - 0 33"]
+[PlyCount "20"]
+[EventDate "2019.08.13"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{Black is completely winning, but Aronian messed up the position:} 33... Ne3+
+$6 (33... Rb4 $19) 34. Bxe3 Rxe3 35. g5 Nc6 (35... Nc4 $1 36. Rc7 Nd6 37. Rc6
+Kd7 38. Rxb6 Ra3 39. Rb4 Ra2+ 40. Kb3 Rxh2 $19) 36. Rb7 Nb4+ 37. Kd2 Rd3+ 38.
+Ke2 Rd4 39. Rxb6 Nd5 40. Ra6 Nc3+ 41. Ke3 Nxa4 $2 42. Ra5 Rb4 43. Ne4 {and
+black could no longer win} *
+
+[Event "GCT Saint Louis Blitz 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.14"]
+[Round "13"]
+[White "Aronian, Levon"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[ECO "A15"]
+[WhiteElo "2765"]
+[BlackElo "2818"]
+[Annotator "Saravanan,V"]
+[SetUp "1"]
+[FEN "r5k1/8/8/2bP4/p1N2PP1/5K2/8/1R6 w - - 0 48"]
+[PlyCount "18"]
+[EventDate "2019.08.13"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[#]} 48. g5 $4 {[White throws away the win with final seconds ticking on the
+clock]} (48. Ra1 a3 49. d6 $1 Kf8 50. Ra2 (50. Ke4 Ra4 51. Kd5 Bxd6 $1) 50...
+Ra4 51. d7 Ke7 52. Rd2 $1) 48... a3 49. Nxa3 Rxa3+ 50. Kg4 Ra4 51. Kf5 Bd6 52.
+Kg6 Rxf4 53. Rb6 Bf8 54. Rb8 Ra4 55. Rd8 Ra6+ 56. d6 Rxd6+ 1/2-1/2
+

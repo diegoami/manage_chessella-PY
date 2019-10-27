@@ -1,0 +1,42 @@
+[Event "Grand Prix Riga 2019"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Mamedyarov, Shakhriyar"]
+[Site "Riga"]
+[Round "4.7"]
+[Annotator "TA"]
+[Result "0-1"]
+[Date "2019.07.24"]
+[WhiteElo "2775"]
+[BlackElo "2765"]
+[PlyCount "90"]
+
+1. e4 {} e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. 0-0 h6 7. Re1 0-0 8. h3 a5 {C54: Giuoco Piano: 4
+c3 Nf6, main lines with 5 d4 and 5 d3} 9. Nbd2 Be6 10. Bb5 Qb8 {The position
+is equal.} 11. Nf1 (11. Bxc6 bxc6 12. d4 exd4 13. cxd4 Bb4 14. a3 Bxd2 15. Nxd2 {1/2-1/2 (43) Giri,A (2797)-Ding,L (2809) Shenzhen 2019} )Qa7 12. Be3 Bxe3 13. Nxe3 a4 {[#]} 14. d4 $146 {[#] Strongly threatening d5.} ({
+Predecessor:} 14. Qc2 Qa5 15. Bc4 Bxc4 16. Nxc4 {1/2-1/2 (40) Fressinet,L 
+(2651)-Yankelevich,L (2453) Porticcio 2017} )Qa5 ({Don't play} 14... Nxe4 $6 15. d5 $16 )15. Bd3 {Threatens to win with d5.} Ne7 16. Nf5 (16. dxe5 {
+keeps more tension.} dxe5 17. Bc4 Bd7 18. Qc2 Ng6 19. Rad1 )Bxf5 17. exf5 {} Nc6 18. dxe5 Nxe5 19. Nxe5 dxe5 20. Qe2 Rfe8 21. Be4 c6 22. Rad1 Qc5 23. a3 Rad8 24. Rxd8 Rxd8 25. Bc2 b5 26. Kf1 Rd5 27. Be4 (27. Qe3 {is more
+complex.} Qd6 28. Re2 Nd7 29. g4 f6 30. h4 )Nxe4 28. Qxe4 $11 { Endgame KQR-KQR} Qd6 (28... Rd2 {is interesting.} 29. Re2 Rd1+ 30. Re1 Qd6 31. f3 Rd5 )29. g3 f6 30. Re2 Rd1+ 31. Re1 Rd2 32. Re2 Rd1+ 33. Re1 $1 Rd5 34. Re2 Kf7 35. Re3 Qd7 ({Black should play} 35... Ke7 $17 )36. h4 Ke7 37. Qg4 $2 ({White should try} 37. g4 $1 $15 )Kd8 (37... Rd1+ $19 {has better
+winning chances.} 38. Ke2 Kf8 )38. Re4 (38. Qf3 $17 )Kc7 (38... Rd2 $19 {
+and Black stays clearly on top. And now ...Qd5 would win.} 39. Re1 Kc7 )39. c4 $2 (39. Qf3 $17 )Rd1+ $19 40. Kg2 Qd3 {( -> ...Qf1+)} 41. Qxg7+ $2 {[#]} (41. Qe2 bxc4 42. Qxd3 cxd3 43. Kf3 )Kb6 $1 {} 42. c5+ Ka6 43. Rb4 Qd5+ 44. f3 Qd2+ 45. Kh3 h5 {Accuracy: White = 36%, Black = 56%.} 0-1
+
+[Event "Grand Prix Riga 2019"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Vachier-Lagrave, Maxime"]
+[Site "Riga"]
+[Round "4.8"]
+[Annotator "TA"]
+[Result "0-1"]
+[Date "2019.07.24"]
+[WhiteElo "2765"]
+[BlackElo "2775"]
+[PlyCount "146"]
+
+1. d4 {} e6 2. c4 b6 3. Nf3 Bb7 4. Nc3 Nf6 5. a3 g6 6. d5 exd5 7. cxd5 Bg7 8. g3 0-0 9. Bg2 Re8 {E12: Queen's Indian:
+Unusual White 4th moves, 4 a3, 4 Nc3 Bb7 5 a3 and 4 Nc3 Bb7} 10. 0-0 Na6 11. Bf4 $146 ({Predecessor:} 11. Nd4 Nc5 12. Bf4 Nh5 13. Be3 Rxe3 14. fxe3 Qg5 15. Rf3 Re8 16. b4 Ne4 17. Nxe4 Rxe4 {0-1 (31) Paterek,M (2313)-Tkachiev,V (2629)
+London 2014} )c6 {The position is equal.} 12. dxc6 dxc6 13. Qxd8 Raxd8 14. Rfd1 Nd5 15. Nxd5 cxd5 16. Nd4 Nc5 {...Bxd4 is the strong threat.} 17. Be3 ({Better is} 17. e3 $11 )Bxd4 $1 $15 18. Bxd4 Nb3 $1 {} 19. Rab1 ({Avoid the trap} 19. Bf6 $2 Rd6 $19 )Nxd4 20. Rxd4 Rxe2 21. Bf3 Rc2 22. Be4 Rc5 23. Rbd1 Kg7 24. R4d3 a5 25. Rd4 Bc6 26. b4 Rc3 27. Bxd5 (27. Ra1 $17 )Ba4 $19 28. R1d2 {Threatening bxa5.} Rxa3 29. bxa5 bxa5 30. h4 Bb5 31. Rb2 {[#]} Bc6 $1 {} 32. Rbd2 (32. Bxc6 Rxd4 )Ra4 33. Rxa4 Bxa4 { Endgame KRB-KRB} 34. Ra2 Bb5 35. Bb3 Ra8 $1 36. Ba4 Bxa4 37. Rxa4 $17 {KR-KR} Kf6 38. Kf1 Ke6 39. Ke2 Kd5 40. Kd3 Ra7 41. g4 Kc5 42. Kc3 Kb5 43. Re4 (43. Rf4 $17 )a4 $19 {} 44. Re5+ Kc6 45. Kb2 a3+ 46. Ka2 Kd6 47. Re4 Kd5 48. f3 Rc7 (48... h5 $142 49. Rb4 hxg4 50. Rxg4 Ke5 51. Re4+ Kf5 )49. Re3 Ra7 $2 (49... Kd4 $17 50. Rxa3 Rc3 51. Ra4+ Ke3 )50. Re4 $1 f5 51. Re8 Kd4 $2 ({Black should try} 51... Kd6 $19 52. gxf5 gxf5 )52. gxf5 $1 $11 gxf5 53. f4 $1 Ra6 54. Re5 Rh6 55. Rxf5 Rxh4 {White must now
+prevent ...Ke4!} 56. Kxa3 {[#]} Ke4 $1 {} 57. Rf7 (57. Ra5 $11 {
+and White has nothing to worry.} )h5 $1 $19 ({Not} 57... Rxf4 58. Rxh7 Kd5 59. Kb3 $11 )58. f5 Rf4 59. f6 Kf5 $1 60. Kb3 {[#]} Kg6 $1 {
+} 61. Ra7 $2 (61. Rd7 $19 )Rxf6 {Black mates.} 62. Kc3 {[#]} Rd6 $1 63. Ra8 h4 64. Rg8+ Kf5 65. Rh8 Kg4 66. Rg8+ Kf3 67. Rh8 {[#]} Kg3 $1 68. Rg8+ Kh2 69. Rg4 h3 70. Rg8 Kh1 71. Rg7 h2 72. Rg8 Rd1 73. Kc2 Rg1 {
+Accuracy: White = 51%, Black = 72%.} 0-1
+

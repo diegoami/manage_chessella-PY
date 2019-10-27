@@ -1,0 +1,104 @@
+[Event "Palestinian Team Championship"]
+[Site "Jenin"]
+[Date "2018.09.01"]
+[Round "?"]
+[White "Qassis, Fadi"]
+[Black "Albzour, Abdalsalam"]
+[Result "1/2-1/2"]
+[ECO "B50"]
+[WhiteElo "1750"]
+[BlackElo "1856"]
+[Annotator "Qassis,Fadi"]
+[PlyCount "115"]
+[EventDate "2018.09.01"]
+[EventRounds "9"]
+[EventCountry "PLE"]
+[SourceVersionDate "2017.12.09"]
+
+{[%evp 0,115,26,39,51,62,40,37,49,24,28,16,22,19,21,13,21,15,14,4,33,45,50,11,
+21,32,53,31,27,10,13,15,15,15,34,23,45,6,49,26,19,3,-11,-15,-23,10,13,21,93,81,
+79,88,81,89,89,103,105,47,81,81,69,68,98,79,79,67,68,68,110,123,120,78,119,72,
+71,69,66,90,123,153,153,130,153,130,138,126,119,119,138,138,147,155,182,147,
+232,254,313,253,269,263,282,312,353,280,367,369,447,457,557,386,534,534,534,98,
+78,74,613,632]} 1. e4 c5 2. Nf3 Nc6 (2... e6 3. b3) 3. b3 {This is quite often
+played after 2...e6 but here with Black able to block the long diagonal in one
+move rather than in two after ...e7-e6-e5, b3 is less common.} d6 4. Bb2 e5 5.
+g3 (5. Bb5 {is the main move. If White can get in d4 in time then he may stand
+well but he's a long way from achieving this.} Nf6 6. Qe2) 5... Bg4 {I don't
+think I'd be developing the bishop on g4 though of course it's perfectly
+playable.} (5... g6 6. Bg2 Bg7 7. O-O Nge7 {looks fairly normal when Black may
+play for ...f5 in a couple of moves' time.} 8. d3 O-O 9. Nbd2 f5) 6. Bg2 Be7 7.
+d3 Nf6 8. Nbd2 O-O 9. h3 Bh5 {[#] The bishop feels slightly offside here
+though of course if White does play for d4 it may spring into life.} 10. O-O h6
+11. c3 Nh7 12. Qe1 Ng5 13. Nxg5 Bxg5 14. Nf3 Be7 15. Qe3 Bg6 16. d4 cxd4 17.
+cxd4 Bf6 (17... Qb6 18. Rad1 Bf6 {was a decent idea. White really doesn't want
+to move the d-pawn and allow an exchange on e3 which maims his pawns.}) 18.
+Rfd1 (18. d5 {was interesting.} Nb4 19. Rfc1 a5 (19... Be7 20. a3 Na6 21. b4 f5
+22. exf5 Bxf5 23. h4 {to prevent ...Bg5. White will then play Nf3-d2-e4 with
+what looks like edge to me though my software disagrees. One thing is that the
+bishop really isn't great on b2 while the pawn is on e5. If you could get Ne4
+and Be3 then that looks better but it's obviously not practicable here.}))
+18... Qe7 (18... Qb6 {looks better.}) 19. dxe5 (19. d5 {was also possible now
+and perhaps a bit better than the previous move since Black will soon want to
+move the f6 bishop to get in ...f5 and the queen on e7 blocks it.}) 19... dxe5
+20. Rd2 Rfd8 21. Rad1 Rxd2 22. Rxd2 Rd8 23. Rd5 {[#] The opening has worked
+out quite well for Fadi and it feels rather uncomfortable for Black though the
+calm} Nd4 $2 (23... Rd7 24. Qd2 Rc7 25. Ne1 {isn't too bad. Instead Black
+either tries to bail out or panics according to your point of view. The
+resultant endgame may well be defensible but certainly isn't fun.}) 24. Nxd4
+exd4 25. Bxd4 Rxd5 26. exd5 Qxe3 27. Bxe3 {[#]} ({I also wondered about} 27.
+fxe3 Bxd4 28. exd4 Kf8 29. d6 Ke8 (29... b6 $2 30. Bc6 {leaves the d6 pawn
+unassailable.}) (29... b5 $2 30. b4) 30. Bxb7 Kd7 {This is also good for White
+and possibly better than what Black could have achieved after Bxe3 with best
+defence. But you'd be very tempted in a game to have a clear extra pawn as
+Fadi did.}) 27... b6 (27... Bb1 $1 {was better to counterattack.} 28. a4 (28.
+Bxa7 Bxa2 29. d6 Bxb3 30. Bxb7 Ba4 31. Bb6 Kf8) 28... b6 29. Bf1 Be4 30. Bc4
+Kf8 31. a5 bxa5 32. Bxa7 Be7 {and Black has very decent drawing chances.} 33.
+Bb8 Bb4 34. d6 Bc6) 28. Bf1 (28. Bf4 $1 {threatened to use the d-pawn at once.}
+Bf5 (28... Kf8 29. Bb8 a6 30. d6 Bf5 31. Bc6 g5 {so as to answer Bc7 with Be5}
+32. Kg2 Be5 33. Kf3 (33. d7 $4 Bxd7) 33... h5 34. Ke3 g4 35. hxg4 hxg4 36. a4
+f6 {This should be reasonably easy e.g.:} 37. Bc7 Kf7 38. Bb7 Bc2 39. Bd5+ Ke8
+(39... Kf8 40. Be6 Bd1 41. Kd2 Bf3 42. b4) 40. Be6 Kf8 41. Bxg4 Bxb3 42. f4 {
+and wins.}) 29. Bb8 a6 30. g4 Bd7 31. Bd6 {Black can't get at White's
+queenside pawns and with the king unable to blockade the d-pawn is in real
+trouble.}) 28... Be5 29. f4 Bd6 30. Bd4 f6 31. Kf2 Bb1 32. a4 Kf7 33. Ke3 {[#]}
+Ke7 $2 {A blunder after which White can either force the exchange of
+light-squared bishops or leave the enemy bishop horribly offside on a2.} (33...
+Bc2 34. Bc4 Ke7 {was correct.}) 34. Bd3 Ba2 35. Bc4 $2 (35. Bc2 $1) 35... Bb1
+36. a5 (36. Bd3 $1) 36... Bc5 (36... bxa5 37. Bxa7 Bc2) 37. axb6 axb6 38. Bd3
+Ba2 39. Bc2 $1 (39. Bxc5+ $5 {would have forced matters facourably though it
+does feel antipositional to improve Black's pawns. The point is that after}
+bxc5 40. Bc2 {Kd6 loses the bishop and c4 leads to what should be a lost
+single bishop ending.} c4 $1 (40... Kd6 41. Kd3 Kxd5 42. Kc3 {simply wins. The
+best Black can do is to give up the bishop for the b-pawn and get his king in,
+but the white bishop can defend the kingside pretty easily e.g.:} Bxb3 (42...
+c4 43. b4 {is worse}) 43. Kxb3 Kd4 44. Bg6 Ke3 45. h4 Kf3 46. f5 Kxg3 47. h5)
+41. b4 c3 42. Kd4 Kd6 43. Kxc3 Bxd5 44. Kd4) 39... Kd6 40. Kd3 Ba3 (40... Kxd5
+41. Bxc5 bxc5 42. Kc3) 41. Ke4 b5 42. Ba1 Bb4 43. g4 Bd2 44. Bd4 Bc1 45. Bc3
+Ba3 {[#]} 46. Kf5 {Quite good enough, but it would be better technique to
+advance the h-pawn first.} (46. h4 Bc5 (46... Bc1 47. Bb4+ Kd7 48. h5) 47. h5
+Ba3 48. g5 fxg5 49. fxg5 hxg5 50. Bxg7 {etc}) 46... Kxd5 47. Kg6 Bc1 48. Kxg7 {
+Impatient} (48. f5 {was simpler.}) 48... Bxf4 49. Kxf6 Bg5+ 50. Kf5 Bc1 51. Bf6
+(51. h4 {and h5 first followed by Kg6 and only then Bc3xh6 would have decided
+without any sort of race}) 51... Bd2 52. h4 Kc5 53. g5 hxg5 54. hxg5 (54. Bxg5
+{was also winning}) 54... Kb4 (54... Bxg5 {fails to} 55. Bxg5 Kb4 56. Bd2+ $1
+Ka3 57. b4) 55. g6 Bh6 {[#]} 56. Be7+ $2 (56. Ke6 Bxb3+ 57. Bxb3 Kxb3 58. Bg5
+Bg7 59. Kf7 Bc3 60. Bf6 {wins}) 56... Kc3 57. Bd1 Bxb3 (57... Kd2 $1 {since
+the bishop must move and after Bxb3 Black will be able to reach one bishop vs
+two at the very worst.}) 58. Bxb3 {[#] Here Fadi agreed a draw presumably
+after counting out the variation Ke6-f7 followed by Bf8. When I saw the result,
+I wondered for an instant if it was drawn myself. But even if you didn't
+immediately see the win, there would be no reason to agree a draw here as
+White, since the very worst that can happen is a dead drawn queen ending. In
+fact White is winning easily. A horrible end to a game in which Fadi played
+the opeing rather conservatively but got a decent position and later the
+advantage. He stumbled near the end, but so did his opponent, and he very
+nearly wrapped it up before losing his way again at the very end.} (58. Bxb3
+Kxb3 59. Bg5 (59. Ke6 Ka4 60. Bg5 $1 (60. Kf7 $2 b4 61. Bf8 Bxf8 62. Kxf8 b3
+$11) 60... Bxg5 61. g7 Bd2 62. g8=Q b4 63. Kd5 {is of course utterly hopeless.
+I wondered whether Black would have any chances with a b-pawn and bishop if
+the pawn was further advanced and the king further away but when I lazily
+asked a tablebase even Ka3,b3,Bc3 vs Kh7,Qg8 with Black to move is lost after
+1. ..b2 2 Qg6 Ka2 3 Qa6+ though by then Qa6+ is apparently the only move so it
+is close by then.}) 59... Bg7 60. Ke6 b4 61. Kf7 Bc3 62. Bf6) 1/2-1/2
+

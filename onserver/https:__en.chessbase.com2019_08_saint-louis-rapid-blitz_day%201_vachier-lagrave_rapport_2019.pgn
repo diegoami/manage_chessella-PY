@@ -1,0 +1,25 @@
+[Event "GCT Saint Louis Rapid 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.10"]
+[Round "3.5"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Rapport, Richard"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2775"]
+[BlackElo "2735"]
+[Annotator "Saravanan,V"]
+[SetUp "1"]
+[FEN "1k6/ppr5/1n3P2/4P2r/3q2p1/4N1B1/6B1/2R2NK1 w - - 0 44"]
+[PlyCount "13"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[#]} 44. e6 $1 {[Aronian is right - advanced pawns are a threat indeed!
+Especially when you don't have your queen with you anymore]} Rhc5 45. Rxc5 Qxc5
+46. e7 Qh5 47. Nf5 Nc8 48. N1e3 Qg6 49. Nd5 Qxf5 50. Bxc7+ 1-0
+

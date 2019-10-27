@@ -1,0 +1,40 @@
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.18"]
+[Round "2.5"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[WhiteElo "2778"]
+[BlackElo "2776"]
+[Annotator "Saravanan,V"]
+[PlyCount "84"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 0,84,24,19,18,16,18,17,7,25,-7,0,9,-1,19,4,41,-27,-16,-6,18,11,71,31,31,
+26,27,27,26,13,12,-1,-5,-13,15,-11,-3,-10,11,-23,-30,-13,-16,-21,-14,-9,19,15,
+15,-14,-22,-11,-11,-11,-24,-6,-31,-28,-18,-31,-32,-34,-23,-38,-38,-44,-41,-46,
+-33,-46,-42,-40,-37,-30,0,0,0,-7,0,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bc4
+Bc5 4. c3 Nf6 5. d3 d6 6. O-O a6 7. a4 Ba7 8. Re1 O-O 9. h3 Kh8 10. d4 Ng8 11.
+b4 $5 {A prepared pawn sacrifice by MVL} exd4 12. cxd4 Nxb4 13. Nc3 (13. a5 {
+pointed out by So after the game, was worth considering}) 13... a5 14. Bf4 $6 {
+Doesn't look like an ideal position for the bishop, it doesn't have a role
+here anyway. This was the position apparently trolled by Magnus Carlsen in the
+Confession Booth!} (14. Na2 {could have been considered}) 14... f6 15. Qb3 Ne7
+16. Rad1 c6 17. Bc1 d5 18. exd5 Bf5 19. dxc6 Bc2 20. cxb7 {[%csl Rb3][%cal
+Rc6b7] Offering the queen!} Rb8 {Declining the queen!} (20... Bxb3 21. bxa8=Q
+Qxa8 22. Bxb3 {and white has adequate play for the queen, but there is plenty
+of play left}) 21. Qa3 Bxd1 22. Rxd1 Nf5 (22... Rxb7 23. Nb5 Ned5 24. Nd2 {
+[%cal Yd2e4] with definite compensation for the exchange}) 23. Nb5 Nd6 24. Bf1
+Nxb5 25. axb5 Rxb7 26. Bd2 Nc2 27. Qa4 {Though black has a token advantage
+here, the game petered out into a draw} Nxd4 28. Nxd4 Qxd4 29. Qxd4 Bxd4 30.
+Bxa5 Bb6 31. Bxb6 Rxb6 32. g3 g6 33. Rd7 Rfb8 34. Bc4 R8b7 35. Rd8+ Kg7 36. Bd5
+Rxb5 37. Bxb7 Rxb7 38. Kg2 h5 39. h4 Ra7 40. Rc8 Rb7 41. Rd8 Ra7 42. Rc8 Rb7
+1/2-1/2
+

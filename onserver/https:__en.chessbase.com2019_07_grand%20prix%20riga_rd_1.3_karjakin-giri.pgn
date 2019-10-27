@@ -1,0 +1,322 @@
+[Event "Grand Prix Riga 2019"]
+[Site "Riga"]
+[Date "2019.07.14"]
+[Round "3"]
+[White "Karjakin, Sergey"]
+[Black "Giri, Anish"]
+[Result "1-0"]
+[Board "1"]
+[WhiteElo "2748"]
+[WhiteTitle "GM"]
+[WhiteCountry "RUS"]
+[WhiteFideId "14109603"]
+[WhiteEloChange "5"]
+[BlackElo "2779"]
+[BlackTitle "GM"]
+[BlackCountry "NED"]
+[BlackFideId "24116068"]
+[BlackEloChange "-5"]
+
+1. e4 {[%clk 0:25:19]} c5 {[%clk 0:25:19]} 2. Nf3 {[%clk 0:25:26]} d6 {[%clk
+0:25:28]} 3. d4 {[%clk 0:25:35]} cxd4 {[%clk 0:25:35]} 4. Nxd4 {[%clk 0:25:43]}
+Nf6 {[%clk 0:25:44]} 5. Nc3 {[%clk 0:25:51]} a6 {[%clk 0:25:53]} 6. Bd3 {[%clk
+0:25:57]} e5 {[%clk 0:26:02]} 7. Nde2 {[%clk 0:26:04]} Be7 {[%clk 0:26:11]} 8.
+O-O {[%clk 0:26:06]} O-O {[%clk 0:26:19]} 9. Ng3 {[%clk 0:26:05]} Bg4 {[%clk
+0:26:27]} 10. Be2 {[%clk 0:23:16]} Be6 {[%clk 0:26:36]} 11. Be3 {[%clk 0:22:28]}
+g6 {[%clk 0:26:31]} 12. a4 {[%clk 0:21:28]} Nbd7 {[%clk 0:26:14]} 13. Qd2 {[%clk
+0:21:14]} Rc8 {[%clk 0:25:55]} 14. a5 {[%clk 0:19:43]} Re8 {[%clk 0:25:12]} 15.
+Nd5 {[%clk 0:18:33]} Bxd5 {[%clk 0:25:01]} 16. exd5 {[%clk 0:18:41]} Nc5 {[%clk
+0:23:28]} 17. f3 {[%clk 0:18:26]} h5 {[%clk 0:23:23]} 18. b4 {[%clk 0:18:25]}
+Ncd7 {[%clk 0:23:00]} 19. c4 {[%clk 0:18:30]} h4 {[%clk 0:22:52]} 20. Ne4 {[%clk
+0:18:10]} h3 {[%clk 0:22:28]} 21. g3 {[%clk 0:16:25]} Nxe4 {[%clk 0:21:48]} 22.
+fxe4 {[%clk 0:16:34]} Nf6 {[%clk 0:21:57]} 23. Qd3 {[%clk 0:15:52]} Qd7 {[%clk
+0:22:05]} 24. Rac1 {[%clk 0:14:10]} Ng4 {[%clk 0:20:39]} 25. Bb6 {[%clk 0:14:08]}
+Bg5 {[%clk 0:20:32]} 26. Rc3 {[%clk 0:14:16]} Rf8 {[%clk 0:17:31]} 27. c5 {[%clk
+0:08:18]} dxc5 {[%clk 0:16:36]} 28. Bxc5 {[%clk 0:08:01]} Rxc5 {[%clk 0:15:12]}
+29. bxc5 {[%clk 0:08:10]} Be3+ {[%clk 0:15:20]} 30. Kh1 {[%clk 0:08:13]} Nf2+
+{[%clk 0:15:29]} 31. Rxf2 {[%clk 0:08:22]} Bxf2 {[%clk 0:15:38]} 32. c6 {[%clk
+0:07:12]} bxc6 {[%clk 0:15:45]} 33. dxc6 {[%clk 0:07:21]} Qc7 {[%clk 0:15:35]}
+34. Rc1 {[%clk 0:06:33]} Bd4 {[%clk 0:10:33]} 35. Qxa6 {[%clk 0:06:36]} Rb8
+{[%clk 0:10:40]} 36. Bg4 {[%clk 0:06:10]} Bc3 {[%clk 0:09:53]} 37. Bxh3 {[%clk
+0:05:43]} Bxa5 {[%clk 0:10:01]} 38. Bd7 {[%clk 0:04:32]} Kg7 {[%clk 0:08:20]} 39.
+Rf1 {[%clk 0:04:36]} Rf8 {[%clk 0:07:47]} 40. Rb1 {[%clk 0:03:54]} Qd8 {[%clk
+0:07:54]} 41. Kg2 {[%clk 0:03:18]} Bc7 {[%clk 0:08:01]} 42. Rb7 {[%clk 0:03:23]}
+Bd6 {[%clk 0:06:39]} 43. Qd3 {[%clk 0:03:31]} Bb8 {[%clk 0:03:55]} 44. Qd5 {[%clk
+0:03:30]} Bc7 {[%clk 0:03:43]} 45. h4 {[%clk 0:03:32]} Rh8 {[%clk 0:03:35]} 46.
+Be6 {[%clk 0:02:30]} 1-0
+
+[Event "Grand Prix Riga 2019"]
+[Site "Riga"]
+[Date "2019.07.14"]
+[Round "4"]
+[White "Giri, Anish"]
+[Black "Karjakin, Sergey"]
+[Result "1-0"]
+[Board "1"]
+[WhiteElo "2779"]
+[WhiteTitle "GM"]
+[WhiteCountry "NED"]
+[WhiteFideId "24116068"]
+[WhiteEloChange "5"]
+[BlackElo "2748"]
+[BlackTitle "GM"]
+[BlackCountry "RUS"]
+[BlackFideId "14109603"]
+[BlackEloChange "-5"]
+
+1. c4 {[%clk 0:25:19]} Nf6 {[%clk 0:25:18]} 2. Nf3 {[%clk 0:25:28]} e6 {[%clk
+0:25:24]} 3. g3 {[%clk 0:25:37]} d5 {[%clk 0:25:33]} 4. Bg2 {[%clk 0:25:46]} dxc4
+{[%clk 0:25:38]} 5. Qa4+ {[%clk 0:25:54]} Nbd7 {[%clk 0:25:45]} 6. Qxc4 {[%clk
+0:26:02]} a6 {[%clk 0:25:53]} 7. Qc2 {[%clk 0:26:08]} c5 {[%clk 0:26:01]} 8. Nc3
+{[%clk 0:26:01]} Qc7 {[%clk 0:26:09]} 9. O-O {[%clk 0:25:55]} b6 {[%clk 0:26:17]}
+10. d4 {[%clk 0:26:04]} Bb7 {[%clk 0:26:25]} 11. Bf4 {[%clk 0:26:03]} Bd6 {[%clk
+0:26:34]} 12. Bxd6 {[%clk 0:26:12]} Qxd6 {[%clk 0:26:42]} 13. Rfd1 {[%clk
+0:26:19]} O-O {[%clk 0:26:14]} 14. e4 {[%clk 0:26:27]} cxd4 {[%clk 0:26:13]} 15.
+Nxd4 {[%clk 0:26:35]} Qc7 {[%clk 0:25:20]} 16. Rac1 {[%clk 0:26:37]} Rad8 {[%clk
+0:24:48]} 17. f4 {[%clk 0:26:45]} e5 {[%clk 0:24:03]} 18. Nd5 {[%clk 0:26:44]}
+Qxc2 {[%clk 0:21:12]} 19. Nxc2 {[%clk 0:26:46]} exf4 {[%clk 0:18:02]} 20. gxf4
+{[%clk 0:26:45]} Nc5 {[%clk 0:15:16]} 21. Nce3 {[%clk 0:26:20]} Bxd5 {[%clk
+0:12:46]} 22. exd5 {[%clk 0:25:41]} Rfe8 {[%clk 0:12:51]} 23. Nc4 {[%clk
+0:25:00]} Ncd7 {[%clk 0:12:59]} 24. Bf3 {[%clk 0:22:33]} Ne4 {[%clk 0:11:55]} 25.
+d6 {[%clk 0:15:45]} f5 {[%clk 0:07:59]} 26. b4 {[%clk 0:15:51]} Re6 {[%clk
+0:06:00]} 27. a4 {[%clk 0:15:26]} Kf8 {[%clk 0:04:26]} 28. a5 {[%clk 0:12:38]} b5
+{[%clk 0:01:31]} 29. Nb6 {[%clk 0:12:25]} Ndf6 {[%clk 0:00:49]} 30. d7 {[%clk
+0:12:01]} g5 {[%clk 0:00:20]} 31. fxg5 {[%clk 0:10:37]} Nxg5 {[%clk 0:00:28]} 32.
+Bb7 {[%clk 0:10:36]} Ke7 {[%clk 0:00:30]} 33. Bxa6 {[%clk 0:10:21]} Re2 {[%clk
+0:00:12]} 34. Bb7 {[%clk 0:08:33]} Nfe4 {[%clk 0:00:14]} 35. Rd3 {[%clk 0:07:55]}
+Rg8 {[%clk 0:00:20]} 36. d8Q+ {[%clk 0:06:39]} Rxd8 {[%clk 0:00:29]} 37. Rc7+
+{[%clk 0:06:32]} Kf6 {[%clk 0:00:38]} 38. Bxe4 {[%clk 0:06:38]} Rg8 {[%clk
+0:00:47]} 39. Nd7+ {[%clk 0:05:53]} Ke7 {[%clk 0:00:52]} 40. Nc5+ {[%clk
+0:02:05]} Kf6 {[%clk 0:01:01]} 41. Rc6+ {[%clk 0:01:38]} Ke5 {[%clk 0:01:09]} 42.
+Rd5+ {[%clk 0:01:22]} Kf4 {[%clk 0:01:17]} 43. Kf1 {[%clk 0:01:32]} Ra2 {[%clk
+0:00:24]} 44. Bc2 {[%clk 0:01:15]} Rxc2 {[%clk 0:00:13]} 45. Ne6+ {[%clk
+0:01:21]} Nxe6 {[%clk 0:00:12]} 46. Rxc2 {[%clk 0:01:28]} Ke4 {[%clk 0:00:17]}
+47. Rxb5 {[%clk 0:00:49]} Nd4 {[%clk 0:00:26]} 48. Rc4 {[%clk 0:00:58]} f4 {[%clk
+0:00:31]} 49. a6 {[%clk 0:00:39]} Kd3 {[%clk 0:00:36]} 50. Rxd4+ {[%clk 0:00:41]}
+Kxd4 {[%clk 0:00:44]} 51. a7 {[%clk 0:00:50]} 1-0
+
+[Event "Grand Prix Riga 2019"]
+[Site "Riga"]
+[Date "2019.07.14"]
+[Round "5"]
+[White "Karjakin, Sergey"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[Board "1"]
+[WhiteElo "2748"]
+[WhiteTitle "GM"]
+[WhiteCountry "RUS"]
+[WhiteFideId "14109603"]
+[BlackElo "2779"]
+[BlackTitle "GM"]
+[BlackCountry "NED"]
+[BlackFideId "24116068"]
+
+1. e4 {[%clk 0:10:19]} e5 {[%clk 0:10:19]} 2. Nf3 {[%clk 0:10:28]} Nc6 {[%clk
+0:10:28]} 3. Bb5 {[%clk 0:10:37]} Nf6 {[%clk 0:10:37]} 4. O-O {[%clk 0:10:44]}
+Nxe4 {[%clk 0:10:46]} 5. Re1 {[%clk 0:10:53]} Nd6 {[%clk 0:10:55]} 6. Nxe5 {[%clk
+0:11:01]} Be7 {[%clk 0:11:05]} 7. Bf1 {[%clk 0:11:09]} Nxe5 {[%clk 0:11:13]} 8.
+Rxe5 {[%clk 0:11:17]} O-O {[%clk 0:11:21]} 9. d4 {[%clk 0:11:25]} Bf6 {[%clk
+0:11:29]} 10. Re1 {[%clk 0:11:34]} Re8 {[%clk 0:11:37]} 11. c3 {[%clk 0:11:42]}
+Rxe1 {[%clk 0:11:30]} 12. Qxe1 {[%clk 0:11:51]} Nf5 {[%clk 0:11:32]} 13. a4
+{[%clk 0:11:59]} d5 {[%clk 0:11:36]} 14. a5 {[%clk 0:12:08]} c6 {[%clk 0:11:38]}
+15. Nd2 {[%clk 0:11:40]} Nd6 {[%clk 0:11:37]} 16. Nb3 {[%clk 0:10:46]} Bf5 {[%clk
+0:11:39]} 17. Bf4 {[%clk 0:10:54]} Rc8 {[%clk 0:10:48]} 18. Nc5 {[%clk 0:10:02]}
+b6 {[%clk 0:10:50]} 19. axb6 {[%clk 0:09:59]} axb6 {[%clk 0:10:59]} 20. Nd3
+{[%clk 0:09:26]} h6 {[%clk 0:10:50]} 21. Be5 {[%clk 0:08:44]} Be7 {[%clk
+0:10:14]} 22. b3 {[%clk 0:07:32]} Bf8 {[%clk 0:10:01]} 23. Bf4 {[%clk 0:07:12]}
+c5 {[%clk 0:09:55]} 24. dxc5 {[%clk 0:06:04]} bxc5 {[%clk 0:10:03]} 25. h3 {[%clk
+0:06:02]} c4 {[%clk 0:09:50]} 26. bxc4 {[%clk 0:06:10]} Nxc4 {[%clk 0:09:57]} 27.
+Ne5 {[%clk 0:05:20]} Nxe5 {[%clk 0:09:25]} 28. Bxe5 {[%clk 0:05:27]} Ra8 {[%clk
+0:09:28]} 29. Rxa8 {[%clk 0:05:06]} 1/2-1/2
+
+[Event "Grand Prix Riga 2019"]
+[Site "Riga"]
+[Date "2019.07.14"]
+[Round "6"]
+[White "Giri, Anish"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[Board "1"]
+[WhiteElo "2779"]
+[WhiteTitle "GM"]
+[WhiteCountry "NED"]
+[WhiteFideId "24116068"]
+[BlackElo "2748"]
+[BlackTitle "GM"]
+[BlackCountry "RUS"]
+[BlackFideId "14109603"]
+
+1. c4 {[%clk 0:10:19]} e5 {[%clk 0:10:19]} 2. g3 {[%clk 0:10:28]} Nf6 {[%clk
+0:10:28]} 3. Bg2 {[%clk 0:10:37]} d5 {[%clk 0:10:37]} 4. cxd5 {[%clk 0:10:46]}
+Nxd5 {[%clk 0:10:46]} 5. Nc3 {[%clk 0:10:55]} Nb6 {[%clk 0:10:55]} 6. Nf3 {[%clk
+0:11:04]} Nc6 {[%clk 0:11:04]} 7. O-O {[%clk 0:11:11]} Be7 {[%clk 0:11:13]} 8. d3
+{[%clk 0:11:14]} O-O {[%clk 0:11:20]} 9. a3 {[%clk 0:11:23]} Be6 {[%clk 0:11:23]}
+10. Be3 {[%clk 0:11:31]} Nd5 {[%clk 0:11:13]} 11. Nxd5 {[%clk 0:11:39]} Bxd5
+{[%clk 0:11:21]} 12. Qa4 {[%clk 0:11:26]} a6 {[%clk 0:11:20]} 13. Rac1 {[%clk
+0:11:32]} Re8 {[%clk 0:11:27]} 14. Rfe1 {[%clk 0:11:34]} h6 {[%clk 0:11:21]} 15.
+Nd2 {[%clk 0:10:36]} Bxg2 {[%clk 0:11:20]} 16. Kxg2 {[%clk 0:10:45]} Qd5+ {[%clk
+0:11:30]} 17. Qe4 {[%clk 0:10:47]} Rad8 {[%clk 0:11:28]} 18. Rc2 {[%clk 0:10:28]}
+f5 {[%clk 0:11:21]} 19. Qxd5+ {[%clk 0:10:35]} Rxd5 {[%clk 0:11:29]} 20. Rec1
+{[%clk 0:09:46]} Bd6 {[%clk 0:11:32]} 21. Nc4 {[%clk 0:07:51]} Kf7 {[%clk
+0:11:19]} 22. f3 {[%clk 0:07:30]} h5 {[%clk 0:10:14]} 23. Bf2 {[%clk 0:07:23]} g6
+{[%clk 0:10:21]} 24. Rc3 {[%clk 0:07:13]} Be7 {[%clk 0:09:21]} 25. e4 {[%clk
+0:07:12]} Rd7 {[%clk 0:09:29]} 26. Kf1 {[%clk 0:06:15]} Bg5 {[%clk 0:09:04]} 27.
+R1c2 {[%clk 0:06:07]} Red8 {[%clk 0:07:15]} 28. Ke2 {[%clk 0:06:09]} fxe4 {[%clk
+0:07:21]} 29. fxe4 {[%clk 0:06:08]} Ke6 {[%clk 0:07:28]} 30. b4 {[%clk 0:06:06]}
+Rf7 {[%clk 0:07:16]} 31. Nb2 {[%clk 0:05:33]} Rdf8 {[%clk 0:06:57]} 32. Nd1
+{[%clk 0:04:13]} Rxf2+ {[%clk 0:07:03]} 33. Nxf2 {[%clk 0:04:22]} Nd4+ {[%clk
+0:07:12]} 34. Ke1 {[%clk 0:04:30]} Nxc2+ {[%clk 0:07:20]} 35. Rxc2 {[%clk
+0:04:39]} c6 {[%clk 0:07:19]} 36. Nd1 {[%clk 0:04:34]} Ra8 {[%clk 0:07:17]} 37.
+Nc3 {[%clk 0:03:41]} b5 {[%clk 0:06:42]} 38. Ne2 {[%clk 0:03:37]} Kd6 {[%clk
+0:05:16]} 39. d4 {[%clk 0:03:43]} Re8 {[%clk 0:05:07]} 40. dxe5+ {[%clk 0:02:58]}
+Rxe5 {[%clk 0:05:15]} 41. Nc3 {[%clk 0:03:07]} c5 {[%clk 0:05:02]} 42. Ke2 {[%clk
+0:03:04]} c4 {[%clk 0:04:11]} 43. a4 {[%clk 0:03:09]} bxa4 {[%clk 0:03:42]} 44.
+h4 {[%clk 0:00:23]} Bh6 {[%clk 0:03:20]} 45. Ra2 {[%clk 0:00:26]} a5 {[%clk
+0:03:21]} 46. Rxa4 {[%clk 0:00:21]} axb4 {[%clk 0:03:30]} 47. Rxb4 {[%clk
+0:00:29]} Kc5 {[%clk 0:03:39]} 48. Rb7 {[%clk 0:00:12]} Kd4 {[%clk 0:03:40]} 49.
+Nb5+ {[%clk 0:00:13]} Kxe4 {[%clk 0:03:49]} 50. Rb8 {[%clk 0:00:12]} Kd5+ {[%clk
+0:02:27]} 51. Kf2 {[%clk 0:00:13]} Kc5 {[%clk 0:02:18]} 52. Na3 {[%clk 0:00:22]}
+c3 {[%clk 0:01:34]} 53. Rc8+ {[%clk 0:00:19]} Kb4 {[%clk 0:01:42]} 54. Nc2+
+{[%clk 0:00:21]} Kb3 {[%clk 0:01:51]} 55. Nd4+ {[%clk 0:00:30]} Kb2 {[%clk
+0:02:00]} 56. Rb8+ {[%clk 0:00:36]} Kc1 {[%clk 0:02:08]} 57. Ne2+ {[%clk
+0:00:44]} Kc2 {[%clk 0:02:14]} 58. Rc8 {[%clk 0:00:28]} Bd2 {[%clk 0:01:25]} 59.
+Rc6 {[%clk 0:00:35]} g5 {[%clk 0:01:30]} 60. hxg5 {[%clk 0:00:53]} Rxg5 {[%clk
+0:01:45]} 61. Kf3 {[%clk 0:00:57]} Kb2 {[%clk 0:01:29]} 62. Rb6+ {[%clk 0:01:01]}
+Ka3 {[%clk 0:01:36]} 63. Nd4 {[%clk 0:00:44]} Re5 {[%clk 0:01:06]} 64. Nc2+
+{[%clk 0:00:27]} Ka4 {[%clk 0:01:14]} 65. Rb4+ {[%clk 0:00:36]} Ka5 {[%clk
+0:01:23]} 66. Rh4 {[%clk 0:00:44]} Rf5+ {[%clk 0:00:45]} 67. Ke4 {[%clk 0:00:35]}
+Rg5 {[%clk 0:00:53]} 68. Kf3 {[%clk 0:00:45]} Kb5 {[%clk 0:00:37]} 69. g4 {[%clk
+0:00:35]} hxg4+ {[%clk 0:00:40]} 70. Rxg4 {[%clk 0:00:44]} Rh5 {[%clk 0:00:44]}
+71. Ke2 {[%clk 0:00:40]} Rh2+ {[%clk 0:00:45]} 72. Kd3 {[%clk 0:00:46]} Rh3+
+{[%clk 0:00:54]} 73. Ke2 {[%clk 0:00:47]} Kc5 {[%clk 0:01:00]} 74. Nb4 {[%clk
+0:00:19]} Kd6 {[%clk 0:01:06]} 75. Kd1 {[%clk 0:00:24]} Rh2 {[%clk 0:00:53]} 76.
+Rc4 {[%clk 0:00:32]} Ke5 {[%clk 0:00:52]} 77. Kc2 {[%clk 0:00:28]} Rg2 {[%clk
+0:00:26]} 78. Rxc3 {[%clk 0:00:24]} Bxc3+ {[%clk 0:00:33]} 79. Kxc3 {[%clk
+0:00:34]} Ke4 {[%clk 0:00:41]} 80. Nc2 {[%clk 0:00:43]} Rg3+ {[%clk 0:00:46]} 81.
+Kc4 {[%clk 0:00:52]} Rg8 {[%clk 0:00:55]} 82. Nb4 {[%clk 0:01:00]} Rc8+ {[%clk
+0:01:04]} 83. Kb5 {[%clk 0:01:09]} 1/2-1/2
+
+[Event "Grand Prix Riga 2019"]
+[Site "Riga"]
+[Date "2019.07.14"]
+[Round "7"]
+[White "Karjakin, Sergey"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[Board "1"]
+[WhiteElo "2748"]
+[WhiteTitle "GM"]
+[WhiteCountry "RUS"]
+[WhiteFideId "14109603"]
+[BlackElo "2779"]
+[BlackTitle "GM"]
+[BlackCountry "NED"]
+[BlackFideId "24116068"]
+
+1. e4 {[%clk 0:05:05]} e5 {[%clk 0:05:06]} 2. Nf3 {[%clk 0:05:02]} Nc6 {[%clk
+0:05:06]} 3. Bb5 {[%clk 0:05:09]} Nf6 {[%clk 0:05:11]} 4. O-O {[%clk 0:05:10]}
+Nxe4 {[%clk 0:05:13]} 5. Re1 {[%clk 0:05:12]} Nd6 {[%clk 0:05:14]} 6. Nxe5 {[%clk
+0:05:15]} Be7 {[%clk 0:05:17]} 7. Bf1 {[%clk 0:05:12]} Nxe5 {[%clk 0:05:19]} 8.
+Rxe5 {[%clk 0:05:17]} O-O {[%clk 0:05:20]} 9. d4 {[%clk 0:05:19]} Bf6 {[%clk
+0:05:22]} 10. Re1 {[%clk 0:05:21]} Re8 {[%clk 0:05:24]} 11. c3 {[%clk 0:05:23]}
+Rxe1 {[%clk 0:05:25]} 12. Qxe1 {[%clk 0:05:25]} Nf5 {[%clk 0:05:27]} 13. a4
+{[%clk 0:05:26]} d6 {[%clk 0:05:28]} 14. a5 {[%clk 0:05:21]} a6 {[%clk 0:05:29]}
+15. Nd2 {[%clk 0:05:13]} Nh4 {[%clk 0:05:30]} 16. Ne4 {[%clk 0:04:52]} Be7 {[%clk
+0:05:32]} 17. Ng3 {[%clk 0:04:27]} Nf5 {[%clk 0:05:13]} 18. Bd3 {[%clk 0:04:23]}
+Nxg3 {[%clk 0:05:14]} 19. hxg3 {[%clk 0:04:25]} d5 {[%clk 0:05:14]} 20. Bf4
+{[%clk 0:04:15]} Be6 {[%clk 0:05:08]} 21. Qe3 {[%clk 0:03:29]} Qd7 {[%clk
+0:05:05]} 22. Re1 {[%clk 0:03:27]} Re8 {[%clk 0:05:00]} 23. Bc2 {[%clk 0:03:04]}
+c6 {[%clk 0:04:51]} 24. f3 {[%clk 0:02:36]} Qd8 {[%clk 0:04:38]} 25. b4 {[%clk
+0:02:33]} Bd7 {[%clk 0:04:34]} 26. Qd2 {[%clk 0:02:18]} Bf8 {[%clk 0:04:20]} 27.
+Kf2 {[%clk 0:02:20]} g6 {[%clk 0:04:10]} 28. Rxe8 {[%clk 0:02:07]} Qxe8 {[%clk
+0:04:09]} 29. Be5 {[%clk 0:02:06]} Qe7 {[%clk 0:02:57]} 30. Qf4 {[%clk 0:02:03]}
+g5 {[%clk 0:02:39]} 31. Qf6 {[%clk 0:01:51]} Qxf6 {[%clk 0:02:41]} 32. Bxf6
+{[%clk 0:01:53]} g4 {[%clk 0:02:13]} 33. Bg5 {[%clk 0:01:24]} h5 {[%clk 0:01:48]}
+34. Ke3 {[%clk 0:01:23]} Bd6 {[%clk 0:01:50]} 35. Bf4 {[%clk 0:01:24]} Be7 {[%clk
+0:01:49]} 36. Bh6 {[%clk 0:01:09]} Bd6 {[%clk 0:01:50]} 37. Bf4 {[%clk 0:01:06]}
+Be7 {[%clk 0:01:52]} 1/2-1/2
+
+[Event "Grand Prix Riga 2019"]
+[Site "Riga"]
+[Date "2019.07.14"]
+[Round "8"]
+[White "Giri, Anish"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[Board "1"]
+[WhiteElo "2779"]
+[WhiteTitle "GM"]
+[WhiteCountry "NED"]
+[WhiteFideId "24116068"]
+[BlackElo "2748"]
+[BlackTitle "GM"]
+[BlackCountry "RUS"]
+[BlackFideId "14109603"]
+
+1. Nf3 {[%clk 0:05:04]} d5 {[%clk 0:05:05]} 2. g3 {[%clk 0:05:06]} g6 {[%clk
+0:05:07]} 3. Bg2 {[%clk 0:05:09]} Bg7 {[%clk 0:05:09]} 4. d4 {[%clk 0:05:11]} Nf6
+{[%clk 0:05:11]} 5. O-O {[%clk 0:05:12]} O-O {[%clk 0:05:13]} 6. c4 {[%clk
+0:05:14]} dxc4 {[%clk 0:05:14]} 7. Na3 {[%clk 0:05:16]} c5 {[%clk 0:05:16]} 8.
+dxc5 {[%clk 0:05:13]} c3 {[%clk 0:05:18]} 9. Nb5 {[%clk 0:05:18]} Na6 {[%clk
+0:05:20]} 10. Nxc3 {[%clk 0:05:16]} Nxc5 {[%clk 0:05:22]} 11. Be3 {[%clk
+0:05:17]} Nce4 {[%clk 0:05:24]} 12. Nxe4 {[%clk 0:05:19]} Nxe4 {[%clk 0:05:26]}
+13. Bd4 {[%clk 0:05:19]} Bxd4 {[%clk 0:05:27]} 14. Qxd4 {[%clk 0:05:21]} Qxd4
+{[%clk 0:05:29]} 15. Nxd4 {[%clk 0:05:22]} Nd6 {[%clk 0:05:31]} 16. Rfc1 {[%clk
+0:05:21]} Rd8 {[%clk 0:05:28]} 17. f4 {[%clk 0:05:18]} Kf8 {[%clk 0:05:04]} 18.
+Kf2 {[%clk 0:05:22]} Bg4 {[%clk 0:04:26]} 19. h3 {[%clk 0:05:21]} Bd7 {[%clk
+0:04:27]} 20. Rc7 {[%clk 0:05:15]} Rab8 {[%clk 0:03:23]} 21. Rac1 {[%clk
+0:04:56]} Ne8 {[%clk 0:03:04]} 22. Rxb7 {[%clk 0:04:12]} Rxb7 {[%clk 0:03:06]}
+23. Bxb7 {[%clk 0:04:13]} Rb8 {[%clk 0:02:56]} 24. Bc6 {[%clk 0:03:45]} Bxc6
+{[%clk 0:02:57]} 25. Rxc6 {[%clk 0:03:37]} Rxb2 {[%clk 0:02:58]} 26. Ra6 {[%clk
+0:03:14]} Nd6 {[%clk 0:01:00]} 27. Rxa7 {[%clk 0:03:11]} Rb1 {[%clk 0:00:28]} 28.
+a4 {[%clk 0:02:50]} Ra1 {[%clk 0:00:19]} 29. a5 {[%clk 0:01:34]} Ra3 {[%clk
+0:00:11]} 30. e3 {[%clk 0:01:29]} h5 {[%clk 0:00:08]} 31. g4 {[%clk 0:01:21]}
+hxg4 {[%clk 0:00:09]} 32. hxg4 {[%clk 0:01:23]} Nc4 {[%clk 0:00:06]} 33. a6
+{[%clk 0:00:44]} Nxe3 {[%clk 0:00:10]} 34. Ra8+ {[%clk 0:00:35]} Kg7 {[%clk
+0:00:12]} 35. a7 {[%clk 0:00:37]} Nxg4+ {[%clk 0:00:06]} 36. Ke2 {[%clk 0:00:31]}
+e5 {[%clk 0:00:03]} 37. Nb5 {[%clk 0:00:22]} Ra2+ {[%clk 0:00:08]} 38. Kf3 {[%clk
+0:00:21]} f5 {[%clk 0:00:10]} 39. fxe5 {[%clk 0:00:16]} Nxe5+ {[%clk 0:00:12]}
+40. Kf4 {[%clk 0:00:17]} Nc6 {[%clk 0:00:14]} 41. Rc8 {[%clk 0:00:12]} Nxa7
+{[%clk 0:00:14]} 42. Rc7+ {[%clk 0:00:14]} Kf6 {[%clk 0:00:15]} 43. Rxa7 {[%clk
+0:00:12]} 1/2-1/2
+
+[Event "Grand Prix Riga 2019"]
+[Site "Riga"]
+[Date "2019.07.14"]
+[Round "9"]
+[White "Karjakin, Sergey"]
+[Black "Giri, Anish"]
+[Result "1-0"]
+[Board "1"]
+[WhiteElo "2748"]
+[WhiteTitle "GM"]
+[WhiteCountry "RUS"]
+[WhiteFideId "14109603"]
+[WhiteEloChange "5"]
+[BlackElo "2779"]
+[BlackTitle "GM"]
+[BlackCountry "NED"]
+[BlackFideId "24116068"]
+[BlackEloChange "-5"]
+
+1. Nf3 {[%clk 0:04:59]} d5 {[%clk 0:04:00]} 2. e3 {[%clk 0:04:58]} Nf6 {[%clk
+0:03:58]} 3. c4 {[%clk 0:04:57]} c6 {[%clk 0:03:56]} 4. d4 {[%clk 0:04:54]} Bf5
+{[%clk 0:03:55]} 5. Nc3 {[%clk 0:04:51]} e6 {[%clk 0:03:55]} 6. Nh4 {[%clk
+0:04:49]} Be4 {[%clk 0:03:54]} 7. f3 {[%clk 0:04:45]} Bg6 {[%clk 0:03:53]} 8. Qb3
+{[%clk 0:04:41]} Qc7 {[%clk 0:03:52]} 9. Bd2 {[%clk 0:04:28]} Be7 {[%clk
+0:03:52]} 10. g3 {[%clk 0:04:18]} Nbd7 {[%clk 0:03:46]} 11. Rc1 {[%clk 0:04:02]}
+dxc4 {[%clk 0:03:44]} 12. Bxc4 {[%clk 0:04:01]} O-O {[%clk 0:03:42]} 13. O-O
+{[%clk 0:03:45]} e5 {[%clk 0:03:41]} 14. Nxg6 {[%clk 0:03:28]} hxg6 {[%clk
+0:03:40]} 15. Qc2 {[%clk 0:03:27]} exd4 {[%clk 0:03:33]} 16. exd4 {[%clk
+0:03:26]} Nb6 {[%clk 0:03:32]} 17. Bb3 {[%clk 0:03:25]} Qd7 {[%clk 0:03:29]} 18.
+Be3 {[%clk 0:03:00]} Nbd5 {[%clk 0:03:26]} 19. Bg5 {[%clk 0:02:49]} Rfe8 {[%clk
+0:03:18]} 20. Rcd1 {[%clk 0:02:44]} Nxc3 {[%clk 0:03:14]} 21. bxc3 {[%clk
+0:02:41]} Nd5 {[%clk 0:03:13]} 22. Bd2 {[%clk 0:02:38]} b5 {[%clk 0:03:12]} 23.
+Rfe1 {[%clk 0:02:22]} Bd6 {[%clk 0:03:08]} 24. Re4 {[%clk 0:02:20]} f5 {[%clk
+0:03:01]} 25. Rxe8+ {[%clk 0:02:18]} Rxe8 {[%clk 0:03:00]} 26. c4 {[%clk
+0:02:16]} bxc4 {[%clk 0:02:59]} 27. Qxc4 {[%clk 0:02:15]} Kh7 {[%clk 0:02:57]}
+28. Ba4 {[%clk 0:02:05]} Ne7 {[%clk 0:01:56]} 29. d5 {[%clk 0:02:03]} Rc8 {[%clk
+0:01:42]} 30. dxc6 {[%clk 0:02:00]} Nxc6 {[%clk 0:01:39]} 31. Qh4+ {[%clk
+0:01:56]} Kg8 {[%clk 0:01:39]} 32. Bb3+ {[%clk 0:01:56]} Kf8 {[%clk 0:01:39]} 33.
+Qh8+ {[%clk 0:01:54]} Ke7 {[%clk 0:01:38]} 34. Bg5# {[%clk 0:01:52]} 1-0

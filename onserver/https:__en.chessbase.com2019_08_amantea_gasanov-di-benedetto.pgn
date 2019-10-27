@@ -1,0 +1,45 @@
+[Event "16th Amantea Open 2018"]
+[Site "Amantea ITA"]
+[Date "2018.09.12"]
+[Round "5.4"]
+[White "Gasanov, E."]
+[Black "Di Benedetto, Edoardo"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "2494"]
+[BlackElo "2302"]
+[Annotator "Gasanov,Eldar"]
+[PlyCount "51"]
+[EventDate "2018.09.09"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[SourceTitle "The Week in Chess 1245"]
+[Source "Mark Crowther"]
+[SourceDate "2018.09.17"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.09.17"]
+[SourceQuality "2"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. Qc2 Qa5+ 7. Nbd2 (7. Nc3 {
+Transpose to Cambridge Springs Variation}) 7... Ne4 8. Bf4 (8. Bh4 {Another
+possible line}) 8... Bb4 9. Bd3 ({More precise is} 9. a3 {or}) (9. cxd5 exd5
+10. Bd3) 9... Ndf6 $6 {Too straightforward. Black is trying to use e1-a5
+diagonal pin.} ({better} 9... Nxd2 10. Nxd2 e5 $1 11. dxe5 dxc4 12. Bxc4 Nxe5
+13. O-O Bxd2 14. Bxe5 Qxe5 15. Qxd2 O-O $11 {Pelletier, Y-Grischuk, A 1999})
+10. a3 (10. Ke2 $1 {Powerful and not so common at such an early stage, but
+happened in the game Papin, V-Morozov,G 2013}) 10... c5 $6 {With a draw offer.
+Black is optimistic.} (10... Nxd2 11. Nxd2 Nh5 {Trading powerful dark square
+bishop and hoping to minimize White's advantage.}) 11. dxc5 Nxc5 $2 {
+Miscalculation} (11... Nxd2 12. Nxd2 dxc4 13. Bxc4 Bxc5 14. O-O Be7 {White is
+clearly better.}) 12. O-O Bxd2 {Diagram [#]} ({After} 12... Nxd3 13. axb4 Nxb4
+14. Qb3 {White has a huge initiative.} Qc5 (14... Qb6 15. c5 $1 Qxc5 16. Rfc1
+Qe7 17. Rxa7 $18) 15. Rfc1 Qe7 16. cxd5 Nbxd5 17. Rxa7 $18) 13. b4 $1 {Missed
+by Black.} Qd8 ({After} 13... Qa4 14. Nxd2 Qxc2 15. Bxc2 Nce4 16. Nxe4 Nxe4 17.
+cxd5 exd5 18. f3 Nf6 19. Bd6 $16 {the endgame is very tough - a pair of
+bishops and development advantage. But as the chess proverb goes, "It is
+better to have a bad endgame than not to have it at all".}) 14. bxc5 Ba5 15.
+cxd5 exd5 16. Bg5 Bc7 17. e4 $18 {Opening the centre -- the best way to
+realize huge development advantage.} h6 18. Bxf6 gxf6 19. Rad1 Bg4 20. Bb5+ Kf8
+21. Rxd5 Qb8 22. Qc3 Bxf3 23. Qxf3 Bxh2+ 24. Kh1 Be5 25. Rd7 Qc8 26. Qb3 1-0
+

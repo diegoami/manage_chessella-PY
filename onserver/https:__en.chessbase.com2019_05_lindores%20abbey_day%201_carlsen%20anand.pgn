@@ -1,0 +1,38 @@
+[Event "Lindores Abbey Stars"]
+[Site "Cupar SCO"]
+[Date "2019.05.25"]
+[Round "3"]
+[White "Carlsen, M.."]
+[Black "Anand, V.."]
+[Result "1-0"]
+[ECO "E48"]
+[WhiteElo "2861"]
+[BlackElo "2774"]
+[Annotator "Sagar Shah"]
+[PlyCount "61"]
+[EventDate "2019.05.25"]
+
+{[%evp 0,61,29,16,17,-10,4,4,33,34,34,29,19,19,19,25,24,10,36,32,31,32,19,26,
+32,14,0,-20,-22,-57,-46,-41,-52,-43,-1,-38,-36,-18,-14,-61,22,-31,-25,-28,-19,
+14,33,84,84,9,138,154,141,164,169,214,213,214,214,244,256,278,287,287]} 1. d4
+Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. Nge2 Re8 8. Bd2 b6
+9. O-O Bd6 10. Rc1 c5 11. Nb5 Bf8 12. f3 Nc6 13. Kh1 Bb7 (13... a6 14. Nbc3 c4
+15. Bb1 b5 {looked pretty strong and natural. But perhaps Vishy didn't like
+that White can play} 16. e4 $5 dxe4 (16... b4 17. Nxd5 Nxd5 18. exd5 $14) 17.
+fxe4 Nxd4 18. Bg5 {with interesting compensation. Play could continue} Ne6 19.
+Bxf6 Qxd1 20. Rcxd1 gxf6 {White Black seems to be doing fine.} 21. Nd5 Bg7 $15)
+14. a3 g6 15. Bb1 Rc8 16. Ba2 a6 17. Nbc3 Bg7 18. dxc5 bxc5 19. Be1 {Black has
+many ways to fight for an advantage here. The anti-intuitive ...c4 is strong.
+It does weaken the d4 square, but that is not the most important thing in the
+position. The c5 pawn will no longer be weak and e3 pawn is always in trouble.}
+d4 $2 {A big oversight by Vishy who clearly missed Magnus' next move.} 20. Na4
+$1 {Now the c5 pawn is falling, Qb3 is coming up, All in all this looks bad
+for Black. But objectively the position is just equal. However, the tide has
+changed, and that's the reason why even though the position is equal, Magnus'
+body language changed and so did Vishy's. It felt from Anand's expressions
+that he had almost lost the game.} Nd7 $6 (20... Qe7 $1 21. Nxc5 dxe3 $11) 21.
+Bxf7+ $1 {Magnus is quick to spot such tactics.} Kxf7 22. Qb3+ Kf8 23. Qxb7
+Rxe3 (23... dxe3 $16) 24. Ng3 Nce5 25. Bd2 Rd3 26. Ne4 Rb8 27. Qd5 Rxd2 28.
+Nxd2 Nd3 29. Rc2 Qe7 30. Ne4 Nf4 31. Qc4 {White is completely winning and
+Vishy had to resign.} 1-0
+

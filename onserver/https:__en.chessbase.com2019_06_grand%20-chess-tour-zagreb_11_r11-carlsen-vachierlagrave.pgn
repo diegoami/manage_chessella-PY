@@ -1,0 +1,24 @@
+[Event "GCT Zagreb 2019"]
+[White "Carlsen, Magnus"]
+[Black "Vachier Lagrave, Maxime"]
+[Site "Zagreb"]
+[Round "11.1"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.07.07"]
+[WhiteElo "2875"]
+[BlackElo "2779"]
+[PlyCount "73"]
+
+1. d4 {} Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8. Be3 Qa5 9. Qd2 Nc6 10. Rb1 cxd4 {
+D85: Exchange Grünfeld: Unusual White 7th moves and lines with 7 Nf3} (10... a6 11. Rc1 cxd4 12. cxd4 Qxd2+ 13. Kxd2 e6 14. d5 exd5 15. exd5 Ne5 16. Nxe5 Bxe5 17. g3 Bf5 18. Bd3 Bxd3 19. Kxd3 Kd7 20. f4 Bg7 21. f5 Rhe8 {1/2-1/2 (33)
+Sarana,A (2631)-Sjugirov,S (2654) Khanty-Mansiysk 2018} )11. cxd4 0-0 12. Qxa5 Nxa5 {The position is equal.} 13. Bd3 Bg4 14. 0-0 Bxf3 15. gxf3 e6 $146 ({
+Predecessor:} 15... Rfd8 16. d5 e6 17. Bg5 f6 18. Bd2 b6 19. Bxa5 bxa5 {
+1-0 (45) Von Auer,U (1975)-Nettelbeck,J (1730) Eschborn 2013} )16. Rfd1 $36 {
+ White has some pressure.} Rfd8 17. Bf1 b6 18. Ba6 Rd6 19. Rbc1 Rad8 {} 20. Bg5 f6 21. Be3 h6 22. Bb5 f5 {[#]} 23. d5 $1 g5 24. Bd2 {
+Bb4 is the strong threat.} fxe4 25. fxe4 a6 $1 {} 26. Ba4 {
+Threatens to win with Bb4.} exd5 27. Bb4 Re6 28. Rxd5 Rxd5 $2 (28... Rb8 $16 {
+is a better defense.} )29. exd5 $18 Re4 30. Rc8+ Kf7 {[#]} 31. a3 $1 Be5 32. Be8+ Kg7 33. d6 Rd4 (33... Nb7 {keeps fighting.} )34. d7 Nb7 35. Be7 {White is
+clearly winning.} Re4 36. Rc6 {aiming for Rg6+.} Bd4 37. Rc7 {Accuracy: White
+= 87%, Black = 56%.} 1-0
+

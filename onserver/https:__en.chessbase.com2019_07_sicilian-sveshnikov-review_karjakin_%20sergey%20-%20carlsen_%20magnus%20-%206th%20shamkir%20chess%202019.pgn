@@ -1,0 +1,75 @@
+[Event "6th Shamkir Chess 2019"]
+[Site "Shamkir"]
+[Date "2019.04.08"]
+[Round "8.3"]
+[White "Karjakin, Sergey"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2753"]
+[BlackElo "2845"]
+[Annotator "Tanmay Srinath"]
+[PlyCount "78"]
+[EventDate "2019.??.??"]
+
+{My focus was fully on this game. Karjakin is a very ambitious man these days,
+and I knew that he would fight to the death against Magnus today. What I
+didn't expect however, was Magnus being so co-operative and allowing a full
+blooded fight!} 1. e4 c5 $1 {Smart move. The World Champion adheres to his
+favourite Sveshnikov, even in a game that the opponent needs to win. This
+shows that in principle, one should stick to his preparation for every game,
+and aim to win, irrespective of the requirement.} 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4
+Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 {Karjakin goes for Caruana's main line against
+Carlsen in their match last year. This is a very interesting try for White,
+and play now takes on a very definite character-White tries to breakthrough on
+the queenside, and Black tries to thwart that and checkmate the White king.}
+Nxd5 8. exd5 Ne7 9. c4 Ng6 10. Qa4 Bd7 11. Qb4 Bf5 12. Qa4 Bd7 13. Qb4 Bf5 14.
+h4 $1 {Sergey needs to win, and he shows the first important ingredient of a
+winner- the motivation to fight. This is the best move, as already played by
+Fabi last year, avoiding the same repetition Magnus proposed.} h5 $1 {This is
+an important move, weakening g5, but taking g4 under firm control.} 15. Bg5 Qb8
+16. Be2 a6 17. Nc3 Qc7 18. g3 Be7 19. Be3 e4 20. O-O (20. Bb6 $5 Qd7 21. Bd4 $5
+{is an interesting maneuver, but it forces the queen to go where it wants to
+go. So, Sergey's decision in the game is correct.}) (20. Bd4 $5 {immediately
+is also interesting.} Ne5 21. Qa4+ Bd7 (21... Kf8 $5 {is also interesting-
+White is forced to play} 22. Bxe5 dxe5 23. Qc2 Rh6 $1 24. Rc1 b5 $1 $132 {
+with counterplay for Black.}) 22. Qb4 f5 $1 23. O-O Rc8 24. Rac1 Bf6 $13 {
+with an unclear position, where White's chances are slightly better.}) 20...
+O-O $1 {Superb pawn sacrifice from Magnus. It is only after this point that
+Stockfish and other engines show white an advantage of one tempo only. This
+proves that the flow of the game has now started to go in Black's favour.} 21.
+Bxh5 {There is nothing else. White has to take it and prove material is more
+important.} Ne5 22. Be2 Qd7 23. Qa4 Qc8 {Sergey must have felt a little
+desperate by now. Magnus has equalised, and the tide has slowly turned in the
+latter's favour. The game might be equal, but the momentum is on Black's side,
+and that is most important.} 24. c5 $5 {An interesting attempt to mix things
+up.} (24. Qd1 $5 {is a radical attempt by White to accelerate his queenside
+play.} Re8 $1 {is far better, continuing the kingside policy. After} ({If
+Black bites with} 24... Nxc4 {then} 25. Bd4 $1 Nxb2 26. Qd2 Nd3 27. Nxe4 $1 Nc5
+28. Nxc5 dxc5 29. Be5 $13 {leads to a very complex middlegame, where I feel
+White's chances are slightly better.}) 25. Bd4 Bf6 $1 (25... Nxc4 $5 26. Na4 $1
+Bh3 27. Re1 Bd8 28. Rc1 {White should be atleast slightly better here, having
+reduced the pressure on his kingside somewhat.}) 26. Re1 Bg6 27. Rc1 Rb8 28. b4
+$1 {looks as if it puts White in the driver's seat, but Black has the amazing}
+Bxh4 $3 29. gxh4 Qh3 $44 {with atleast perpetual check.}) 24... dxc5 $1 {
+Magnus plays most aggressively.} 25. Nxe4 c4 $1 {It was around here that
+Carlsen mentions in the press conference that he was very happy with his
+position and wanted to play on. I surely agree. Black is risking nothing
+here-most of his pieces are optimally placed. Sergey now commits the first
+mistake.} 26. Nc3 $2 {Unnecessarily gifting Black some play on the queenside.}
+(26. Qc2 $1 {according to Magnus was essential, and after} Re8 27. Rad1 Bf8 28.
+Kh2 b5 $132 {we reach a position with mutual chances.}) 26... b5 $1 27. Qd1 b4
+$1 28. Na4 $17 {The knight now sits like a lone ranger, unable to create
+enough play on its own.} Be4 $1 {Sergey probably underestimated this resource.
+Black now quickly gets his queen to the kingside.} 29. Qd4 Qf5 {Magnus has a
+very comfortable edge here.} 30. f4 $2 {The last straw.} (30. f3 $1 {was a
+must, sacrificing a pawn, but opening up the rook and creating some
+counterchances. After} Nxf3+ $1 31. Bxf3 Bxf3 32. Nb6 Rad8 33. Qd1 $1 Bxd1 34.
+Rxf5 Bc2 35. Rf2 b3 $17 {Black's advantage is big, but not decisive.}) 30...
+Qg6 $1 {After this it is more or less over- White's kingside is too weak.} 31.
+Bf2 Nd3 32. h5 Qf5 33. Bg4 $2 {Another mistake.} (33. Bxd3 cxd3 34. Qe5 Qxe5
+35. fxe5 Bxd5 $19 {is also hopeless, but more defensible for White.}) 33...
+Qxg4 $1 34. Qxe4 Bd6 $1 {Magnus now finishes in style.} 35. Qg2 Rae8 36. Bd4
+Qxh5 37. Qf3 Qg6 38. Kh1 Re4 39. Bf2 Rfe8 {and Karjakin resigned. A great
+counterpunching game by the World Champion, who is back to his dominant best
+in Classical Chess.} 0-1

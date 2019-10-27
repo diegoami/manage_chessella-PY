@@ -1,0 +1,49 @@
+[Event "Swedish Chess Championship 2019: GM Gra"]
+[Site "Stiga Sports Arena, Arenatorg"]
+[Date "2019.07.10"]
+[Round "7.1"]
+[White "McShane, Luke"]
+[Black "Grandelius, Nils"]
+[Result "0-1"]
+[ECO "B67"]
+[WhiteElo "2688"]
+[BlackElo "2691"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "62"]
+[EventDate "2019.??.??"]
+[SourceTitle "2019_41"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f3 Nxd4 10. Qxd4 Be7 11. h4 b5 12. Kb1 Qc7 13. g4 O-O 14. Qd2 b4
+15. Ne2 a5 16. Be3 Rfc8 17. h5 a4 18. Nc1 d5 19. g5 Ne8 20. g6 Bf6 21. exd5
+exd5 22. Bf4 Qb6 23. Bd3 b3 $1 {[%csl Gb3,Gg6] The diagram (after 23...b3!)
+shows a parade example for a Sicilian position with opposite castlings and
+both sides using their "battering ram" (g-pawn/b-pawn) to open lines against
+the enemy king. No matter how White plays, Black's attack will come first.
+Enjoy!} 24. cxb3 ({The captures} 24. gxh7+ Kh8) ({or} 24. gxf7+ Kxf7 {can be
+inserted anytime without harming the black king.}) 24... axb3 {[%cal Gc8c1,
+Ga8a2] Result: both black rooks are perfectly placed.} 25. a3 (25. Nxb3 {
+[%tqu "En","White has played 25.Nxb3. Natural attacking follow-up?","An open
+a-file is well worth an exchange!","","a8a2","",10]} Rxa2 $1 {[%csl Ga2,Yb3]
+Opening the a-file and uprooting the Nb3.} 26. Kxa2 {[%tqu "En",
+"Continuation?","","","c8a8","",10]} Ra8+ {[%cal Ga8a2]} 27. Kb1 {[%tqu "En",
+"Please capture to take stock.","","","b6b3","",10]} Qxb3 {[%csl Rb1,Yg8][%cal
+Gb3a2,Ga8c8] with ideas like ...Qa2+/...Rc8+ or ...Ra2xb2+. Black has the
+attack while his own king is safe.}) (25. axb3 $4 Qa7 {[%csl Rb1][%cal Gc8c1,
+Ga7a1]}) {[%tqu "En","White has tried to keep the a-file closed with 25.a3.
+What now?","Find a combination to rip open the b-file, making both White's
+b2-pawn and Black's own b3-pawn disappear.","","a8a3","",10]} 25... Rxa3 $1 {
+[%csl Ga3] A rook sac to unblock Black's b3-pawn.} 26. gxf7+ (26. bxa3 {
+[%tqu "En","Continuation?","Imagine Black's b3-pawn could capture...","",
+"c8c2","",10]} Rc2 $1 {[%csl Gc2,Yd2] Rook sac number 2, the decisive invasion.
+} 27. Bxc2 (27. Qb4 Rb2+ {[%csl Gb2,Gf6]} 28. Ka1 Ra2+ {[%cal Ga2a1,Gf6a1]} 29.
+Kb1 Ra1#) {[%tqu "En","Next move, please.","","","b3c2","Double check - the
+b-file proves the decisive file after all!",10]} 27... bxc2+ {[%csl Rb1][%cal
+Gb6b1,Gc2b1] Double check - so after all it's the b-file which proves the
+decisive one!} 28. Kxc2 {[%tqu "En","Mate in two. First move?","","","d7f5","",
+10]} Bf5+ {[%csl Gf5,Gf6][%cal Gf5c2] What a lovely bishop pair!} 29. Nd3 {
+[%tqu "En","Finale!","","","b6b2","",10]} Qb2# {[%csl Rc2,Gf6][%cal Gf6b2,
+Gf5c2] Checkmate!}) 26... Kxf7 27. Bg6+ Kf8 {Very pragmatic - no checks left.
+White resigned. One sample mate line runs} 28. Qxd5 Ra1+ 29. Kxa1 Rxc1+ 30.
+Rxc1 Qa6+ 31. Kb1 Qa2# 0-1
+

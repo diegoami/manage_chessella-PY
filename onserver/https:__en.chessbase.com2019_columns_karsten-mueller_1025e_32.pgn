@@ -1,0 +1,47 @@
+[Event "17th Aeroflot Open-A 2019"]
+[Site "Moscow"]
+[Date "2019.02.26"]
+[Round "8.30"]
+[White "Iniyan, P."]
+[Black "Donchenko, Alexander"]
+[Result "*"]
+[ECO "A70"]
+[WhiteElo "2480"]
+[BlackElo "2600"]
+[Annotator "Mueller,Karsten"]
+[SetUp "1"]
+[FEN "8/2q2pk1/8/5Pp1/1bB1Q1Pp/p4K1P/8/8 w - - 0 90"]
+[PlyCount "12"]
+[EventDate "2019.??.??"]
+[SourceTitle "1025"]
+[Source "ChessBase"]
+[SourceDate "2018.08.23"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.08.23"]
+[SourceQuality "1"]
+
+90. Qd5 {Opposite coloured-bishops have two faces: in a pure endgame they are
+often drawn because the weaker side is often able to defend on the squares
+that his bishop controls. But with more pieces on the board the
+opposite-coloured bishops indeed tend to favour the attacker. In this case
+Black can use the attacking potential of his queen.} {[%tqu "En","Black to
+play and win","","","b4c5","",0,"g7h6","in Sicherheit zu bringen, z. B.",6,
+"De","Schwarz zieht und gewinnt","","","b4c5","",0,"g7h6","in Sicherheit zu
+bringen, z.B.",6]} Kh6 $1 {Black should first his king because the white king
+finds no shelter, e.g.} ({In the game Black played} 90... Bc5 $2 {and missed
+the moment to bring his own king into safety.} 91. Ke2 $2 (91. f6+ Kg6 92. Bd3+
+Kh6 93. Qf5 Qg3+ 94. Ke2 Qf2+ 95. Qxf2 Bxf2 96. Bc4 Bd4 97. Bxf7 $11) 91... Kf8
+$2 (91... Qh2+ {should win in the long run, e.g.} 92. Kd1 Qg1+ 93. Kc2 Qf2+ 94.
+Kd1 Kf6 95. Qxf7+ Ke5 96. Qg7+ Ke4 97. Qb7+ Ke3 98. Qb3+ Kd4 99. Bf7 Ke5 $17)
+92. Kd1 Qe7 93. Bb3 Bb4 94. Bc4 Kg7 95. Qd4+ Kg8 96. Qd5 Kf8 97. Qa8+ $2 (97.
+Qd4 $11) 97... Kg7 98. Qd5 Kh6 $2 {Too early.} ({White should wait with the
+move of the king:} 98... Qe1+ 99. Kc2 Qc3+ 100. Kd1 {and only now play} Kh6 {:}
+101. Qc6+ f6 102. Qd5 Qa1+ 103. Ke2 Qe1+ 104. Kf3 Qh1+ 105. Ke2 Qxh3 106. Qd4
+Bc3 107. Qe4 Qh2+ 108. Kf1 a2 $19) 99. Qd4 f6 100. Kc2 Ba5 101. Be6 Bc7 102.
+Kb3 Bd6 103. Qb6 Be5 104. Qb4 Bd6 105. Qb6 Kg7 106. Qc6 Bc5 107. Qc8 Qf8 108.
+Qxf8+ Kxf8 109. Kc3 Ke7 110. Kd3 Kd6 111. Ke4 {and the players agreed to a
+draw.}) 91. Ke4 (91. Qxf7 $6 Qf4+ 92. Ke2 Qe4+ 93. Kf1 Qf3+ 94. Kg1 Bc5+ 95.
+Kh2 Qf2+ 96. Kh1 Qg1#) (91. Qd4 Bc3 92. Qd3 Qh2 93. Ke4 Bf6 94. Kd5 a2 $19)
+91... Qf4+ 92. Kd3 Qg3+ 93. Kc2 Qc3+ 94. Kd1 Qb2 95. Bb3 f6 $19 {Black's king
+is safe in his palace but White's king finds no shelter.} *
+

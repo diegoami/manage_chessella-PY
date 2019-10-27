@@ -1,0 +1,86 @@
+
+[Site "Delhi"]
+[Date "2019.07.07"]
+[Round "9.2"]
+[White "Gupta, Abhijeet"]
+[Black "Erigaisi, Arjun"]
+[Result "1-0"]
+[ECO "D43"]
+[WhiteElo "2606"]
+[BlackElo "2526"]
+[Annotator "Sagar Shah"]
+[PlyCount "77"]
+[EventDate "2019.06.30"]
+[EventType "swiss"]
+[EventCountry "IND"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "5400+30"]
+
+{[%evp 0,77,58,56,13,3,40,23,26,5,42,-13,46,-29,-21,-32,-14,-16,-18,-65,-23,
+-53,-64,-79,-78,-73,-99,-135,-127,-107,-99,-250,-203,-163,-115,-97,-97,-76,-33,
+-49,-25,-29,-1,-110,-33,-81,-68,-102,-100,-12,-70,-88,106,94,108,89,77,0,96,0,
+0,0,0,0,0,-27,-69,-108,-49,114,242,420,420,429,426,408,29991,29992,29993,29994]
+The analysis of this game is based on Abhijeet's interview to ChessBase India
+after the game. The interview gives better insights to the game than engine
+analysis because the engine somehow feels almost throughout the opening phase
+of the game that Black is completely winning, but in a practical game that is
+not the case.} 1. d4 {[%emt 0:00:00]} d5 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:00]
+} c6 {[%emt 0:00:00]} 3. Nf3 {[%emt 0:00:00]} Nf6 {[%emt 0:00:03]} 4. Nc3 {
+[%emt 0:00:00]} e6 {[%emt 0:00:07]} 5. Bg5 {[%emt 0:00:00]} h6 {[%emt 0:00:12]}
+6. Bh4 {[%emt 0:00:00]} dxc4 {[%emt 0:00:08] Arjun goes for the sharp Moscow
+variation.} 7. e4 {[%emt 0:00:03]} g5 {[%emt 0:00:09]} 8. Bg3 {[%emt 0:00:03]}
+b5 {[%emt 0:00:07]} 9. Be2 {[%emt 0:00:16]} Bb7 {[%emt 0:00:22]} 10. e5 {
+[%emt 0:02:48] This is the fourth most popular move in the position after h4,
+0-0 and Qc2. Abhijeet hoped that he would be able to surprise Arjun to some
+extent with this move. Still it is not a completely new move. You have nearly
+300 games with it in the database.} Nd5 {[%emt 0:00:15]} 11. Nd2 {[%emt 0:00:
+35]} Nd7 {[%emt 0:04:20]} 12. a4 {[%emt 0:00:32]} Qb6 {[%emt 0:03:16]} 13. axb5
+{[%emt 0:05:20]} cxb5 {[%emt 0:01:54]} 14. Bf3 {[%emt 0:00:42] We have a fresh
+position on the board. Abhijeet's idea was to take twice on d5 and after
+castling, push his pawn to f4.} Bb4 {[%emt 0:12:53]} 15. O-O {[%emt 0:19:57]
+As Abhijeet says, "This was some kind of a bluff!"} (15. Nxd5 exd5 16. O-O Qxd4
+{The problem here is that queens are going to come off the board and White
+won't have much of compensation for the missing pawns.}) (15. Bxd5 Bxd5 16.
+Nxd5 exd5 {The problem remains - how to defend the d4 pawn.}) (15. Nde4 {
+was perhaps the best move.} O-O-O $17) 15... Bxc3 {[%emt 0:17:24]} (15... Nxc3
+16. bxc3 Bxc3 17. Rb1 (17. Ra2 $5) 17... Bxd2 18. Bxb7 Qxb7 19. Qxd2 Qd5 20. f4
+{Such positions are shown completely winning by the engine, but in an over the
+board play, it is not the easiest to defend as lines are opening up around the
+black king and he has to be careful. Still, in a position like this the bishop
+on g3 is quite passive and so Black should be clearly better.}) 16. Bxd5 {
+[%emt 0:09:00]} (16. bxc3 Nxc3 17. Qc2 Bxf3 18. Nxf3 Nd5 19. Nd2 Qxd4 20. Ne4)
+16... Bxd5 {[%emt 0:18:20]} (16... Bxb2 17. Bxb7 Qxb7 18. Rb1 c3 19. Qc2 {
+The knight is coming to e4.}) 17. bxc3 {[%emt 0:00:03] After the game Abhijeet
+said that he was already feeling quite comfortable because he had a clear plan
+in mind - he had to get his knight to e4.} h5 {[%emt 0:01:54]} 18. f3 {[%emt 0:
+05:45]} h4 {[%emt 0:01:14]} 19. Bf2 {[%emt 0:00:09]} Qc6 {[%emt 0:03:56]} 20.
+Be3 {[%emt 0:07:46]} (20. Qe2 $5) 20... g4 {[%emt 0:01:44]} (20... Rg8 21. Qc2)
+21. Bg5 $1 {[%emt 0:06:26] The bishop stops the king from long castling now.}
+Rh5 {[%emt 0:09:07]} (21... h3 22. g3 gxf3 23. Nxf3 Rg8 {might have been a
+better way to continue according to Gupta.}) 22. f4 $5 {[%emt 0:02:36]
+Abhijeet is not afraid to muddy the waters.} Bxg2 {[%emt 0:00:39]} 23. Qxg4 {
+[%emt 0:02:57]} Bxf1 {[%emt 0:00:51]} 24. Rxf1 {[%emt 0:00:05]} h3 {[%emt 0:00:
+34]} 25. Rf3 {[%emt 0:01:27]} Rxg5 {[%emt 0:04:52] This move surprised
+Abhijeet. He spent quite some time whether he should take on g5 with the queen
+or pawn.} (25... Rh8 26. f5 exf5 27. Qxf5 Qe6 28. Ne4 Qxf5 29. Nd6+ Kf8 30.
+Rxf5 {Although this looks really scary for Black, it seems like he can defend
+with} f6 $1 $19) 26. fxg5 {[%emt 0:21:31] The reason why Abhijeet was
+apprehensive about this move was because it allows Black to 0-0-0.} (26. Qxg5
+b4 27. Rxh3 bxc3 28. Rxc3 Nb6 29. f5 $5 $40) 26... b4 {[%emt 0:08:08]} (26...
+O-O-O 27. Ne4 Rf8 28. Nd6+ Kc7 29. Qxh3 $16) 27. g6 $1 {[%emt 0:02:16]} fxg6 {
+[%emt 0:00:58]} 28. Qh4 $1 {[%emt 0:00:13] Super strong move with the main
+idea of preventing long castling.} bxc3 {[%emt 0:04:03]} 29. Qh8+ $1 {[%emt 0:
+01:45]} Ke7 {[%emt 0:00:05]} 30. Qh4+ {[%emt 0:00:05]} Ke8 {[%emt 0:00:04] The
+same position but now Black can no longer long castle ever!} 31. Ne4 {[%emt 0:
+01:35]} c2 {[%emt 0:01:54]} 32. Rf1 (32. Nd6+ Qxd6 33. exd6 c1=Q+ 34. Rf1 Qe3+
+35. Kh1 Nf6 $3 $19 {Black is winning now.}) 32... g5 {[%emt 0:02:12] A clever
+idea by Arjun, but Abhijeet was on top of his game here.} (32... c1=Q 33. Rxc1
+$18) 33. Qxg5 $1 {[%emt 0:08:20]} c1=Q {[%emt 0:00:08]} (33... Qxe4 34. Qg8+
+$18) 34. Nd6+ $1 {[%emt 0:01:01]} Qxd6 {[%emt 0:00:14]} 35. Qg6+ {[%emt 0:00:
+03]} Kd8 {[%emt 0:00:08]} (35... Ke7 36. exd6+ $18) 36. exd6 $1 {[%emt 0:00:03]
+} Qe3+ {[%emt 0:02:48]} 37. Kh1 {[%emt 0:00:04]} Qe2 {[%emt 0:02:16]} (37...
+Nb6 38. Qh7 $1 $18 {forces a mate.}) 38. Qg8+ {[%emt 0:01:54]} Nf8 {[%emt 0:00:
+07]} 39. Qg5+ {[%emt 0:01:00] with Rf7 or Rf8 coming up next, Arjun resigned.}
+1-0

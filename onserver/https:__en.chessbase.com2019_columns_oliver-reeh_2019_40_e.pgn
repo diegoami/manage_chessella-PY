@@ -1,0 +1,50 @@
+[Event "Nordic Chess Championship 2019"]
+[Site "Quality Sarpsborg Hotel"]
+[Date "2019.06.25"]
+[Round "7"]
+[White "Tryggestad, Andreas G"]
+[Black "Chatalbashev, Boris"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2324"]
+[BlackElo "2527"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "81"]
+[EventDate "2019.??.??"]
+[SourceTitle "2019_40"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Be3 d6 5. Qd2 b5 6. f3 Nd7 7. h4 h6 8. a4 b4 9.
+Nd1 a5 10. c3 bxc3 11. bxc3 Ngf6 12. Bd3 e5 13. Ne2 h5 14. Nf2 d5 15. Bg5 O-O
+16. O-O Qc7 17. Bh6 Re8 18. Bxg7 Kxg7 19. Rfe1 Rb8 20. Qg5 dxe4 21. Nxe4 Nxe4
+22. Bxe4 Nf6 23. Ng3 {After 23...exd4 in the diagram, White is never going to
+recapture this pawn in the game - he just has better things to do! Have you
+spotted his leitmotif?} exd4 $2 {[%tqu "En","Black has played 23...exd4.
+Please show the downside of this capture.","","","e4g6","",10]} 24. Bxg6 $1 {
+[%csl Gg6][%cal Ge1e8] Disclosing a vis-à-vis of rooks in the open e-file
+while weakening Black's king shield.} fxg6 (24... Rxe1+ 25. Rxe1 fxg6 {also
+sees White's 25th move from the game.}) {[%tqu "En","Continuation?","","",
+"g3h5","",10]} 25. Nxh5+ $1 {[%csl Rf6,Rg6,Gh5][%cal Gg5g7] The g-pawn is
+pinned, making the defending Nf6 overloaded - White conquers the black rook e8.
+} Nxh5 26. Rxe8 {[%csl Rc7,Rg7][%cal Ge8e7] Result: Black's king is exposed,
+and White can work on the open e-file with his major pieces. Materially he is
+also fine.} Nf6 {[%tqu "En","Develop in powerplay mode, please.","","","a1e1",
+"",10]} 27. Rae1 $1 {[%cal Ge1e7]} Rb1 {[%csl Ge1][%cal Rb1g1] Trading one
+rook is the only way to fight on.} (27... Nxe8 28. Re7+ $18 {[%csl Rc7,Ge7,Rg7]
+}) 28. Rxb1 Nxe8 29. Re1 {[%cal Ge1e7] Back in position.} Nf6 {[%tqu "En","No
+capture on d4, we still have better things to do. Your suggestion?","","",
+"h4h5","",10]} 30. h5 $1 {[%csl Rf6,Rg6,Gh5][%cal Gg5g6] I think you've got
+the hang of it!} Bf5 {[%tqu "En","Make the best decision with White's h-pawn!",
+"","","h5h6","An advanced passer, another trump - White is clearly better.",10,
+"h5g6","",0]} 31. h6+ $1 {[%csl Gh6] An advanced passer, another trump.} (31.
+hxg6 $6 Qd7 $1 {[%cal Gd7f5,Gd7d4] seems less good.}) 31... Kf7 (31... Kh7 32.
+Qxf6 $18) {[%tqu "En","Okay, White is considering to capture on d4 after all -
+but not with the pawn!  How would you continue?","The queen moves!","","g5h4",
+"",10,"c3d4","was definitely an option.",0]} 32. Qh4 $1 {[%cal Gh4d4,Gh6h7]
+Creating a kind of double threat.} ({The simple} 32. cxd4 $1 {was also
+definitely an option now.}) 32... dxc3 {Black sacrifices material to mess up
+things. White should be winning, but in the final phase some inaccuracies
+occurred. Perhaps time trouble was also involved.} (32... Nh7 33. Qxd4 $1 $18 {
+[%csl Gd4][%cal Gd4g7,Gd4c4] - not quite the capture one might have expected
+after 23...exd4, right? :-)}) 33. h7 g5 34. h8=N+ Kf8 35. Qd4 Nd5 36. Qc5+ Kg7
+37. Qd4+ Kf8 (37... Kh7 $1) 38. Re5 Bh7 39. Qc5+ Kg7 40. Rxd5 c2 41. Qd4+ 1-0
+

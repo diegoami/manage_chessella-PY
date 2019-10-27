@@ -1,0 +1,46 @@
+[Event "NM for klubblag 2019"]
+[Site "Scandic Ambassadeur, Drammen"]
+[Date "2019.05.30"]
+[Round "5"]
+[White "Kaasen, Tor Fredrik"]
+[Black "Elsness, Frode"]
+[Result "1-0"]
+[ECO "D34"]
+[WhiteElo "2398"]
+[BlackElo "2440"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "81"]
+[EventDate "2019.??.??"]
+[SourceTitle "2019_34"]
+
+{[%evp 0,81,26,26,17,12,7,7,44,17,17,38,17,8,22,22,21,18,25,28,28,21,18,6,5,3,
+3,5,37,26,26,26,124,123,111,111,124,107,110,108,114,123,117,106,131,120,125,
+125,147,145,158,166,160,147,199,172,161,168,167,167,238,260,346,283,333,350,
+350,355,355,310,346,265,277,257,277,245,402,409,415,387,394,394,387,404]} 1. d4
+d5 2. c4 e6 3. Nf3 c5 4. cxd5 exd5 5. Nc3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O O-O
+9. dxc5 Bxc5 10. Na4 Be7 11. b3 Bg4 12. Bb2 Qd7 13. Rc1 Rad8 {After 14.Nc5
+Bxc5 15.Rxc5 in the diagram, Black hit the white rook with the centralizing 15.
+..Ne4? Can you spot the drawback of this move?} 14. Nc5 Bxc5 15. Rxc5 Ne4 $2 {
+[%csl Re4] Eventually a knight to forget..} (15... d4 $5) {[%tqu "En","How can
+White get the advantage?","Black has a centralized knight - imagine what a
+white one could do...","","c5c6","",10]} 16. Rxc6 $1 {[%csl Gc6] In two
+predecessor games, White chose the retreat 16.Rc1 here.} Qxc6 (16... bxc6 {
+sees the same follow-up.}) (16... Bxf3 {[%tqu "En","Just for records - how
+does White recapture?","","","e2f3","",10]} 17. exf3 {[%cal Gf3e4] Yep.}) {
+[%tqu "En","Continuation?","","","f3e5","",10]} 17. Ne5 $1 {[%csl Ge5][%cal
+Ge5c6,Ge5g4] This is why White's rook gave its life to eliminate Black's Nc6.
+The knight can jump onto this central square, attacking two pieces and freeing.
+..} Qc8 18. Nxg4 Qxg4 {[%tqu "En","White has lured Black's queen to g4. What
+now?","","","f2f3","",10]} 19. f3 {[%csl Gf3][%cal Gf3g4,Gf3e4] ... the
+f-pawn! Fork time - White wins the Ne4 and gets a material advantage.} Qg5 {
+[%tqu "En","A last subtlety: best move for White?","Before taking on e4, White
+should prevent the activation of Black's queen.","","b2c1","The most precise -
+White does not allow the black queen to invade on e3.",10,"f3e4","",0]} 20. Bc1
+$1 {[%csl Ye3][%cal Gc1g5] The most precise - White does not allow the black
+queen to invade on e3.} (20. fxe4 Qe3+ 21. Kh1 dxe4 {[%csl Ge3] and White's
+winning chances are problematic - 1-0 (55) Orseth,D (2280)-Liverios,T (2310)
+Eksjo 1982.}) 20... Qe7 21. fxe4 Qc5+ 22. e3 dxe4 23. Qe2 f5 24. Bb2 Rd3 25.
+Bd4 Qb4 26. Qc2 Rd2 27. Qc1 Rxd4 28. exd4 Qxd4+ 29. Kh1 h5 30. Qg5 e3 31. Re1
+Re8 32. Qxf5 Re5 33. Qc8+ Kh7 34. Qc2+ g6 35. Qe2 b6 36. Bf3 Kh6 37. Qc4 Qd6
+38. Qf4+ g5 39. Qf7 g4 40. Qf4+ Kg7 41. Rxe3 1-0
+

@@ -1,0 +1,49 @@
+[Event "V Sunway Sitges Open 2018"]
+[Site "Sitges"]
+[Date "2018.12.17"]
+[Round "4"]
+[White "Kadric, Denis"]
+[Black "Pogorelov, Ruslan"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "2554"]
+[BlackElo "2354"]
+[Annotator "Karsten Mueller"]
+[SetUp "1"]
+[FEN "8/8/4kp2/3pp2p/5Pp1/2NK2P1/7P/8 b - - 0 56"]
+[PlyCount "39"]
+[EventDate "2018.??.??"]
+[SourceTitle "1016"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+56... d4 {White is a piece up but still has to win. In such cases zugzwang
+often helps.} {[%tqu "En","White to play and win","","","c3b5","",6,"c3e4","",
+0,"c3e2","",0,"c3d1","",0]} 57. Nb5 $1 {Putting the knight in a good position
+to fulfill its duties. If White is not careful Black's counterplay is fast
+enough.} (57. Ne4 $2 exf4 58. Kxd4 fxg3 59. hxg3 f5 60. Nc5+ Kf6 61. Nd3 Kg5
+62. Ke3 h4 $11) (57. Ne2 $2 Kd5 58. f5 Kc5 (58... e4+ $2) 59. Ke4 Kc4 60. Nc1
+Kc3 61. Nd3 Kc4 62. Nf2 Kc3 $11) (57. Nd1 $2 exf4 58. Ke4 fxg3 59. hxg3 f5+ 60.
+Kxd4 f4 61. gxf4 Kf5 62. Ke3 h4 63. Nf2 g3 64. Nh3 Kg4 65. Nf2+ gxf2 66. Kxf2
+$11) 57... exf4 ({After} 57... Kd5 {the knight decides the game:} 58. Nc7+ Kd6
+59. Ne8+ Ke6 60. Ng7+ Kf7 (60... Kd5 61. Nxh5 e4+ 62. Kd2 Ke6 (62... f5 63. Ng7
+$18) 63. Ng7+ Kd5 64. Nf5 Kc4 65. Nh6 e3+ 66. Ke2 Kc3 67. Nxg4 d3+ 68. Kxe3 d2
+69. Nf2 $18) 61. Nxh5 ({or} 61. fxe5 Kxg7 (61... fxe5 62. Nf5 Ke6 63. Ke4 d3
+64. Ne3 d2 65. Kd3 $18) 62. e6 Kf8 63. Kxd4 Ke8 64. Kc5 Ke7 65. Kd5 h4 66. gxh4
+f5 67. h5 f4 68. h6 f3 69. h7 f2 70. h8=Q f1=Q 71. Qg7+ Ke8 72. Qd7+ Kf8 73.
+e7+ $18) 61... Kg6 62. Nxf6 Kxf6 63. Ke4 exf4 64. gxf4 $18) 58. Ke4 $3 {
+The king enters the stage.} (58. Nxd4+ $2 Ke5 59. Ne2 fxg3 60. hxg3 Kf5 61. Ke3
+Kg5 62. Nc3 h4 63. Ne4+ Kg6 64. gxh4 Kh5 $11) (58. Kxd4 $2 fxg3 59. hxg3 Kf5
+60. Nd6+ Kg6 61. Ke4 h4 62. gxh4 Kh5 63. Nf5 g3 64. Kf3 g2 65. Kxg2 Kg4 $11)
+58... f3 (58... fxg3 59. Nxd4+ Kf7 60. hxg3 Kg6 61. Kf4 Kf7 62. Nf5 Kg6 63.
+Nh4+ Kg7 64. Kf5 Kf7 65. Ng2 Kg7 66. Nf4 Kh6 67. Kxf6 h4 68. gxh4 g3 69. Kf5
+$18) (58... f5+ 59. Kxf4 d3 60. Ke3 Ke5 61. Kxd3 f4 62. Nd4 fxg3 63. hxg3 h4
+64. gxh4 Kf4 65. Ne2+ Kf5 66. Ke3 $18) 59. Nxd4+ Kf7 60. Nf5 {White has
+everything under control.} Ke6 61. Ne3 Kf7 (61... f2 62. Kd3 $18) 62. Nd1 Kg6
+63. Kf4 Kf7 64. Kf5 Kg7 65. Nf2 Kf7 66. h3 {Undermining Black's pawn chain.}
+gxh3 67. Nxh3 Kg7 68. Kf4 Kg6 69. Kxf3 $2 {Taking the pawn too early.} ({
+Bringing Black into zugzwang was White's way to win, e.g.} 69. Ke4 f2 70. Nxf2
+Kg5 71. Kf3 h4 72. Nh3+ Kh5 73. g4+ Kh6 74. Kf4 Kg6 75. Ng1 $18) 69... Kf5 $1 {
+Now it's White who's in zugzwang.} 70. Nf4 Kg5 71. Ng2 f5 72. Kf2 Kg4 73. Ne3+
+Kg5 74. Kf3 h4 75. gxh4+ Kxh4 1/2-1/2
+

@@ -1,0 +1,200 @@
+[Site "Shaoxing"]
+[Date "2019.07.15"]
+[Round "7.1"]
+[White "Stefanova, Antoaneta"]
+[Black "Girya, Olga"]
+[Result "1-0"]
+[ECO "B11"]
+[WhiteElo "2474"]
+[BlackElo "2457"]
+[Annotator "Sagar Shah"]
+[PlyCount "57"]
+[EventDate "2019.07.08"]
+[EventRounds "9"]
+[EventCountry "CHN"]
+
+{[%evp 0,57,19,29,74,55,63,33,33,33,31,25,25,30,51,22,43,38,28,15,18,1,0,-3,68,
+83,83,82,82,68,68,55,55,31,40,21,48,38,38,15,31,50,76,75,115,150,146,103,257,
+279,848,393,366,397,451,466,683,828,826,512]} 1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4.
+Nxe4 Nf6 5. Qe2 $5 {This move is slowly starting to get more popular. We have
+a video by Boris Savchenko on the ChessBase India YouTube channel where he
+shows a powerful win at the Voronezh Open 2019 with the white pieces in this
+line.} Nxe4 6. Qxe4 Qd5 7. Qh4 Qe6+ 8. Be2 Qg6 {Black is playing quite
+dangerously here. It is important that in the opening you develop all your
+pieces and not just your queen. Of course Girya knows this, but she is trying
+to get away with something that is creative.} 9. Qc4 Qxg2 10. Rg1 Qh3 11. Ng5 {
+White lost a pawn and has initiative in return and things are pretty normal.
+Of course Stefanova would have counted on Qf5 here. But it turns out that her
+opponent had some other plans.} Qxh2 $2 (11... Qf5 12. d4 {There is not
+question of White's compensation here. He is doing very well. But Black is
+solid and we should have quite a long game from this point onwards.}) 12. Qxf7+
+{Giving up the f7 pawn, losing the right to castle is as good as resignation.}
+Kd8 13. Rg3 h6 14. Nf3 Qh1+ 15. Bf1 Nd7 16. b4 $5 {A creative way to continue.}
+(16. d4 {would have been equally good.} Nf6 17. Qb3 Qh5 18. Ne5 $18) 16... Nf6
+17. Bb2 Ne4 18. Rg2 Nd6 (18... Ng5 $5 19. Nxg5 hxg5 20. O-O-O $40) (18... Bh3
+19. Rg1 $18) 19. Qb3 Qh5 20. O-O-O Bg4 21. Rg3 Kc7 22. Re1 Bxf3 23. Rxf3 Re8
+24. Be5 Rh7 {White you have to make moves like Rh7, you realize something has
+gone terribly wrong.} 25. c4 g5 26. c5 Kd7 27. Bg3 Rf7 28. Qe6+ Kd8 29. Bh3 1-0
+
+[Site "Shaoxing"]
+[Date "2019.07.08"]
+[Round "1.7"]
+[White "Stefanova, Antoaneta"]
+[Black "Fominykh, Maria"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2474"]
+[BlackElo "2243"]
+[Annotator "Sagar,Shah"]
+[PlyCount "53"]
+[EventDate "2019.07.08"]
+[EventRounds "9"]
+[EventCountry "CHN"]
+
+{[%evp 0,53,19,28,77,64,88,87,73,51,53,68,98,82,104,79,130,123,123,126,120,114,
+114,114,91,104,119,114,161,112,216,57,199,191,194,113,116,116,160,144,197,178,
+189,214,212,248,245,252,249,273,338,338,363,459,469,484]} 1. e4 {[%emt 0:00:04]
+} g6 {[%emt 0:03:06]} 2. d4 {[%emt 0:00:13]} Bg7 {[%emt 0:00:02]} 3. Nc3 {
+[%emt 0:04:29]} d6 {[%emt 0:00:27]} 4. f4 {[%emt 0:01:55]} c6 {[%emt 0:06:19]}
+5. Nf3 {[%emt 0:02:58]} b5 {[%emt 0:13:27]} 6. Bd3 {[%emt 0:03:02]} b4 {
+[%emt 0:00:37]} 7. Ne2 {[%emt 0:02:59]} d5 {[%emt 0:08:26]} 8. e5 {[%emt 0:02:
+45]} Qb6 {[%emt 0:12:12]} 9. a3 {[%emt 0:05:26]} Na6 {[%emt 0:13:57]} 10. O-O {
+[%emt 0:08:39]} Nh6 {[%emt 0:04:42]} 11. Kh1 {[%emt 0:11:59]} O-O {[%emt 0:05:
+50]} 12. Bd2 {[%emt 0:02:05]} bxa3 {[%emt 0:16:53]} 13. Rxa3 {[%emt 0:01:42]}
+f6 {[%emt 0:04:37]} 14. Nc3 {[%emt 0:21:00]} fxe5 {[%emt 0:02:40]} 15. dxe5 {
+[%emt 0:06:23]} Ng4 {[%emt 0:02:45]} 16. h3 {[%emt 0:05:44]} Nh6 {[%emt 0:01:
+51]} (16... Nf2+ 17. Rxf2 Qxf2 18. Bxa6 $18) 17. Qe2 {[%emt 0:01:03]} Nf5 {
+[%emt 0:00:41]} 18. Kh2 {[%emt 0:00:16]} Nc5 {[%emt 0:00:19]} 19. Bxf5 $1 {
+[%emt 0:00:35] Stefanova is alert and sees that there is possibility to setup
+a vicious pin in the position.} Bxf5 {[%emt 0:00:19]} 20. Be3 $1 {[%emt 0:00:
+05]} Qb4 {[%emt 0:00:50]} (20... Qxb2 21. Bxc5 $18) 21. Na2 $1 {[%emt 0:00:22]}
+Qe4 {[%emt 0:00:37]} (21... Qxb2 22. Bxc5 $18) 22. Ng5 {[%emt 0:13:54]} Qxc2 {
+[%emt 0:00:05]} 23. Qxc2 {[%emt 0:00:04]} Bxc2 {[%emt 0:00:02]} 24. Rc1 {
+[%emt 0:01:36]} Ne4 {[%emt 0:01:19]} 25. Ne6 $1 {[%emt 0:00:38]} d4 {[%emt 0:
+00:36]} 26. Bxd4 {[%emt 0:00:27]} c5 {[%emt 0:00:21]} 27. Be3 {[%emt 0:00:24]}
+1-0
+[Site "Shaoxing"]
+[Date "2019.07.10"]
+[Round "3.5"]
+[White "Stefanova, Antoaneta"]
+[Black "Ni, Shiqun"]
+[Result "1-0"]
+[ECO "D27"]
+[WhiteElo "2474"]
+[BlackElo "2407"]
+[Annotator "Sagar,Shah"]
+[PlyCount "57"]
+[EventDate "2019.07.08"]
+[EventRounds "9"]
+[EventCountry "CHN"]
+
+{[%evp 0,57,45,25,29,11,36,-4,32,22,33,41,54,54,47,40,41,56,31,59,37,47,50,51,
+75,47,51,63,55,55,58,60,56,55,49,31,32,38,37,-31,56,56,83,65,78,63,163,159,191,
+191,285,210,224,219,213,210,256,245,539,562]} 1. Nf3 {[%emt 0:00:03]} d5 {
+[%emt 0:00:15]} 2. d4 {[%emt 0:01:04]} Nf6 {[%emt 0:00:21]} 3. c4 {[%emt 0:00:
+24]} dxc4 {[%emt 0:00:36]} 4. e3 {[%emt 0:02:44]} e6 {[%emt 0:00:15]} 5. Bxc4 {
+[%emt 0:00:42]} c5 {[%emt 0:00:44]} 6. O-O {[%emt 0:00:26]} a6 {[%emt 0:03:19]}
+7. Nc3 {[%emt 0:01:46]} Nc6 {[%emt 0:01:01]} 8. dxc5 {[%emt 0:02:21]} Qxd1 {
+[%emt 0:01:03]} 9. Rxd1 {[%emt 0:00:05]} Bxc5 {[%emt 0:00:05]} 10. Bd2 {
+[%emt 0:04:22]} Bd7 {[%emt 0:07:09]} 11. Rac1 {[%emt 0:03:58]} Rc8 {[%emt 0:01:
+26]} 12. Be1 {[%emt 0:02:31]} Ba7 {[%emt 0:06:47]} 13. Be2 {[%emt 0:35:56]} Ke7
+{[%emt 0:01:42]} 14. Na4 {[%emt 0:07:16]} Rhd8 {[%emt 0:22:25]} 15. Nc5 {
+[%emt 0:02:22]} Bxc5 {[%emt 0:03:28]} 16. Rxc5 {[%emt 0:00:04]} Ne4 {[%emt 0:
+00:26]} 17. Rcc1 {[%emt 0:02:44]} e5 {[%emt 0:01:50]} 18. a4 {[%emt 0:04:41]}
+Nd6 {[%emt 0:11:01]} 19. b4 {[%emt 0:00:48]} e4 {[%emt 0:03:27]} 20. Ng5 {
+[%emt 0:01:14]} Ne5 {[%emt 0:08:34]} (20... h6 21. Rxd6 hxg5 22. Rcd1 Be8 {
+Optically White looks better, but maybe her advantage is not so huge.}) 21.
+Rxc8 {[%emt 0:03:40]} Bxc8 $6 {[%emt 0:14:43]} (21... Rxc8 $14) 22. Bc3 {
+[%emt 0:04:11]} Ng4 {[%emt 0:03:14]} 23. b5 $1 {[%emt 0:02:49]} f6 {[%emt 0:04:
+16]} 24. Ba5 $1 {[%emt 0:01:40] A powerful move.} Rg8 {[%emt 0:00:24]} (24...
+Rd7 25. Bxg4 $18) 25. Bb4 $1 {[%emt 0:03:32] Stefanova wins with a pin once
+again!} fxg5 {[%emt 0:00:21]} 26. bxa6 {[%emt 0:02:11]} bxa6 {[%emt 0:00:32]}
+27. Rxd6 {[%emt 0:00:13]} a5 {[%emt 0:00:21]} 28. Bc5 {[%emt 0:01:19]} Rd8 {
+[%emt 0:03:30]} 29. Rd4+ {[%emt 0:01:46]} 1-0
+[Site "Shaoxing"]
+[Date "2019.07.11"]
+[Round "4.1"]
+[White "Tokhirjonova, Gulrukhbegim"]
+[Black "Stefanova, Antoaneta"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2422"]
+[BlackElo "2474"]
+[Annotator "Sagar,Shah"]
+[PlyCount "78"]
+[EventDate "2019.07.08"]
+[EventRounds "9"]
+[EventCountry "CHN"]
+
+{[%evp 0,78,32,12,80,63,74,76,69,36,36,34,40,7,9,1,51,-9,38,29,30,-7,55,34,27,
+14,53,29,58,31,-11,-29,53,52,45,58,56,56,84,40,88,83,73,-30,-2,-43,-46,-46,-28,
+-24,-35,-185,-147,-200,-170,-202,-167,-185,-194,-178,-178,-178,-185,-225,-175,
+-268,-155,-158,-155,-158,-66,-152,-153,-178,-127,-236,-155,-948,-1023,-29997,
+-29998]} 1. e4 {[%emt 0:02:36]} c6 {[%emt 0:00:12]} 2. d4 {[%emt 0:00:10]} d5 {
+[%emt 0:00:05]} 3. e5 {[%emt 0:00:05]} Bf5 {[%emt 0:00:17]} 4. Nd2 {[%emt 0:00:
+34]} e6 {[%emt 0:12:02]} 5. Nb3 Nd7 {[%emt 0:02:28]} 6. Nf3 {[%emt 0:01:15]}
+Ne7 {[%emt 0:08:26]} 7. Be2 {[%emt 0:00:47]} Bg6 {[%emt 0:33:06]} 8. Nh4 {
+[%emt 0:06:50]} Nf5 {[%emt 0:05:48]} 9. Nxg6 {[%emt 0:00:15]} hxg6 {[%emt 0:00:
+05]} 10. O-O {[%emt 0:00:47]} g5 {[%emt 0:09:30]} 11. a4 {[%emt 0:04:02]} Be7 {
+[%emt 0:01:16]} 12. a5 {[%emt 0:02:38]} Kf8 {[%emt 0:03:02]} 13. Bd3 {[%emt 0:
+08:05]} g6 {[%emt 0:02:32]} 14. f4 {[%emt 0:05:23]} c5 {[%emt 0:04:48]} 15.
+fxg5 {[%emt 0:08:00]} Bxg5 {[%emt 0:06:48]} 16. Bxf5 {[%emt 0:01:37]} gxf5 {
+[%emt 0:00:22]} 17. Nxc5 {[%emt 0:01:34]} Nxc5 {[%emt 0:00:07]} 18. dxc5 {
+[%emt 0:00:08]} Bxc1 {[%emt 0:00:32]} 19. Qxc1 {[%emt 0:00:22]} Qc7 {[%emt 0:
+01:22]} 20. Qe3 {[%emt 0:01:03]} Rh4 {[%emt 0:02:47]} 21. Rf3 {[%emt 0:11:28]}
+Rc8 {[%emt 0:00:48]} 22. Qg5 {[%emt 0:15:15]} Qxc5+ {[%emt 0:00:47]} 23. Kh1 {
+[%emt 0:00:02]} Qe7 {[%emt 0:01:22]} 24. Qd2 {[%emt 0:03:18]} Rcc4 {[%emt 0:00:
+15]} 25. Raa3 {[%emt 0:02:35]} Qc7 {[%emt 0:00:29]} 26. Qg5 {[%emt 0:01:22]}
+Qxe5 {[%emt 0:02:43]} 27. Qd8+ {[%emt 0:02:59]} Kg7 28. h3 {[%emt 0:00:10]} (
+28. Rg3+ Rhg4 $18) 28... Rh6 {[%emt 0:02:30]} 29. Rg3+ {[%emt 0:11:48]} Rg4 $1
+{[%emt 0:00:17] Stefanova is extremely alert.} (29... Rg6 30. Rxg6+ fxg6 31.
+Rc3 {gives White some hopes of survival.}) 30. Rae3 {[%emt 0:02:22]} Qxb2 $1 {
+[%emt 0:00:33]} 31. c3 {[%emt 0:01:26]} Qf2 {[%emt 0:00:40]} (31... Qc1+ 32.
+Kh2 Rhg6 $1 {was the strongest.} 33. hxg4 Rh6+ 34. Rh3 Qxe3 $19) 32. Ref3 {
+[%emt 0:01:34]} Qe1+ {[%emt 0:00:06]} 33. Kh2 {[%emt 0:00:06]} Rgg6 {[%emt 0:
+00:53]} 34. Qc7 {[%emt 0:00:39]} Qe4 {[%emt 0:00:29]} 35. Re3 {[%emt 0:02:05]}
+Qh4 {[%emt 0:00:37]} 36. Rgf3 {[%emt 0:01:23]} a6 {[%emt 0:00:21]} 37. Qxb7 {
+[%emt 0:00:58]} f4 {[%emt 0:00:06]} 38. Re5 {[%emt 0:00:14]} Rg3 {[%emt 0:00:
+13]} 39. Rf1 {[%emt 0:00:55]} Qxh3+ {[%emt 0:00:24] A picturesque finish!} 0-1
+[Site "Shaoxing"]
+[Date "2019.07.12"]
+[Round "5.1"]
+[White "Stefanova, Antoaneta"]
+[Black "Zhu, Jiner"]
+[Result "1-0"]
+[ECO "E62"]
+[WhiteElo "2474"]
+[BlackElo "2454"]
+[Annotator "Sagar,Shah"]
+[PlyCount "69"]
+[EventDate "2019.07.08"]
+[EventRounds "9"]
+[EventCountry "CHN"]
+
+{[%evp 0,69,29,11,14,21,61,29,7,7,21,25,33,26,15,2,2,-5,12,-10,16,7,5,0,34,15,
+41,45,66,66,66,90,83,80,80,44,69,79,87,66,101,77,128,99,77,90,90,83,130,140,
+204,214,183,198,212,216,221,203,218,210,218,222,226,193,330,453,477,484,489,
+489,992,1420]} 1. d4 {[%emt 0:01:19]} Nf6 {[%emt 0:00:14]} 2. Nf3 {[%emt 0:00:
+20]} g6 {[%emt 0:00:15]} 3. g3 {[%emt 0:00:34]} Bg7 {[%emt 0:00:08]} 4. Bg2 {
+[%emt 0:00:04]} O-O {[%emt 0:00:07]} 5. O-O {[%emt 0:00:05]} d6 {[%emt 0:00:05]
+} 6. c4 {[%emt 0:00:21]} Nc6 {[%emt 0:00:16]} 7. Nc3 {[%emt 0:00:44]} Bf5 {
+[%emt 0:00:17]} 8. Nh4 {[%emt 0:00:45]} Bd7 {[%emt 0:00:23]} 9. f4 {[%emt 0:00:
+34]} Na5 {[%emt 0:29:23]} 10. b3 {[%emt 0:04:51]} c5 {[%emt 0:00:17]} 11. e3 {
+[%emt 0:01:51]} Bc6 {[%emt 0:05:32]} 12. Nf3 {[%emt 0:03:25]} Ne4 $6 {[%emt 0:
+04:30]} (12... a6 $13) 13. Bb2 {[%emt 0:05:32]} Nxc3 {[%emt 0:15:07]} 14. Bxc3
+$16 {[%emt 0:00:06]} cxd4 {[%emt 0:00:13]} 15. exd4 {[%emt 0:04:13]} b5 {
+[%emt 0:00:33]} 16. Qd2 {[%emt 0:06:44]} Nb7 {[%emt 0:00:07]} 17. d5 {[%emt 0:
+02:24]} Bxc3 {[%emt 0:02:04]} 18. Qxc3 {[%emt 0:00:05]} Bd7 {[%emt 0:00:04]}
+19. cxb5 {[%emt 0:03:48]} Bxb5 {[%emt 0:03:18]} 20. Rfe1 {[%emt 0:02:12]} Nc5 {
+[%emt 0:01:21]} 21. a4 {[%emt 0:08:54]} Bd7 {[%emt 0:00:25]} 22. a5 {[%emt 0:
+00:59]} Rc8 {[%emt 0:03:23]} 23. b4 {[%emt 0:10:08]} Ne4 {[%emt 0:01:28]} 24.
+Qe3 {[%emt 0:04:23]} Rc4 $2 {[%emt 0:00:13]} (24... Nc3 25. Qxa7 $18) 25. Qd3
+$1 {[%emt 0:10:16]} Rxb4 {[%emt 0:09:52]} 26. Rxe4 {[%emt 0:00:20]} Bf5 {
+[%emt 0:00:08]} 27. Nd4 $1 {[%emt 0:02:24]} Bxe4 {[%emt 0:00:13]} 28. Bxe4 {
+[%emt 0:00:05] The knight is jumping to c6 and Black is lost.} Qd7 {[%emt 0:01:
+03]} 29. Nc6 {[%emt 0:02:59]} Rb2 {[%emt 0:00:17]} 30. f5 {[%emt 0:00:53]} Qb7
+{[%emt 0:00:59]} 31. Re1 {[%emt 0:03:07]} Kg7 {[%emt 0:06:54]} 32. Qd4+ {
+[%emt 0:11:37]} f6 {[%emt 0:00:21]} 33. fxg6 {[%emt 0:03:32]} hxg6 {[%emt 0:00:
+07]} 34. Bxg6 {[%emt 0:01:13]} Kxg6 {[%emt 0:01:45]} 35. Qg4+ {[%emt 0:00:23]
+Like in almost all of her games in the tournament, Stefanova finishes off with
+a mating attack!} (35. Qg4+ Kf7 36. Qh5+ Kg7 37. Nxe7 $18) 1-0

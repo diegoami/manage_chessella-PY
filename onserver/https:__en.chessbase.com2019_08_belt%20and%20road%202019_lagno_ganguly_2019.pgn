@@ -1,0 +1,61 @@
+
+
+[Event "Belt and Road Hunan Op A"]
+[Site "Changsha CHN"]
+[Date "2019.07.30"]
+[Round "2.4"]
+[White "Lagno, Kateryna"]
+[Black "Ganguly, Surya Shekhar"]
+[Result "0-1"]
+[ECO "C19"]
+[WhiteElo "2549"]
+[BlackElo "2638"]
+[Annotator "Sagar,Shah"]
+[PlyCount "108"]
+[EventDate "2019.07.29"]
+
+{[%evp 0,108,22,18,59,25,29,24,11,20,32,25,24,25,31,31,12,-30,-49,-56,61,-31,1,
+-82,-48,-133,-93,-21,-1,-100,-83,-95,-91,26,6,49,45,94,300,187,187,109,109,-89,
+0,-62,-48,-74,-63,-102,-63,-81,-103,-89,-74,-105,-94,-140,-129,-129,-141,-135,
+-87,-87,-87,-93,-88,-137,-55,-100,-47,-49,-18,-56,-52,-52,-53,-53,-53,-70,-72,
+-95,-91,-113,-124,-102,-107,-101,-106,-150,-150,-144,-151,-152,-123,-137,-121,
+-124,-136,-144,-155,-203,-192,-221,-222,-234,-506,-519,-300,-310,-438]} 1. e4
+e6 2. d4 d5 3. Nc3 Bb4 {Surya is of course a big expert in this line!} 4. e5 c5
+5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4 8. Bd3 Qa5 (8... Qc7 {is another
+possibility.} 9. Ne2 dxc3 10. Qxg7 Rg8 11. Qxh7 Qxe5 12. h4 $5) 9. Ne2 O-O 10.
+Bg5 (10. Bh6 Ng6 $13) 10... Ng6 11. Qg3 (11. f4 {is another move but after} Nd7
+12. Bxg6 (12. h4 f5 $1 13. Qg3 Rf7 14. h5 Ngf8 {Black is solid and is doing
+fine in the position.}) 12... fxg6 $1 (12... hxg6 13. h4 $18 {is a mating
+attack.}) 13. h4 (13. Qxe6+ Rf7 14. Qe8+ Rf8 (14... Nf8 $2 15. e6 $1 Bxe6 16.
+Qxa8 $18)) 13... Rf7 $1 14. h5 gxh5 15. Qxh5 Nf8 $19 {Black has defended all
+his weaknesses and stands better.}) 11... Nd7 {The knight develops on f6 so
+that it can jump to c5 to kill the bishop on d3 and also can help in the
+preparation of f6 at the right moment.} 12. h4 dxc3 (12... Nc5 13. h5 $18) (
+12... Ngxe5 13. Bh6 Nxd3+ 14. cxd3 g6 15. Bxf8 Nxf8 16. O-O {Black doesn't
+have enough compensation for the exchange.}) 13. f4 (13. h5 Ngxe5 14. Bh6 Nxd3+
+15. cxd3 c2+ 16. Kf1 g6 17. Qh4 $13 {The position is complex, but the
+computers evaluate this as somewhere around even.}) 13... h5 {Once the e5 pawn
+is adequately fortified it is important to stop the h5 break.} 14. Qe3 {
+The queen moves away from g3 to make way for the pawn on g2. g4 is a big
+threat now.} Qb6 15. Nd4 {White, of course, has to avoid the queen exchange.}
+Nc5 16. g4 Nxd3+ 17. Qxd3 (17. cxd3 {Just leaves the gaze of the knight on g6
+and so after} f6 {Black is winning.} 18. gxh5 Ne7 19. exf6 gxf6 20. Bh6 Rf7 21.
+Rg1+ Kh7 $19 {Black has everything under control and White's position is just
+a mess.}) 17... Bd7 $1 {I really like this move. Such level headed play is not
+possible if you haven't prepared it beforehand. The idea is to free the a8
+rook so that it can come to e8 at the right moment.} (17... f6 18. exf6 Rxf6 (
+18... Nxf4 19. Bxf4 e5 20. Bxe5 Re8 21. f7+ Kxf7 22. O-O+ $18) 19. Bxf6 Nxf4
+20. Qg3 gxf6 21. Ne2 $16) 18. gxh5 f6 19. exf6 (19. hxg6 fxg5 20. hxg5 Rxf4 21.
+Qh3 Re4+ 22. Ne2 Kf8 23. Rf1+ Ke7 24. Rf7+ Kd8 $13 {The black king has sort of
+escaped the danger zone and the game remains interesting.}) (19. Qxg6 Qxd4 20.
+exf6 Qe3+ 21. Kf1 Qf3+ 22. Kg1 Qg3+ 23. Kf1 Bb5+ $19) 19... Nxf4 $1 {This was
+the point.} 20. Bxf4 e5 $1 {A powerful strike in the centre of the board!} 21.
+Bg5 $2 (21. Bxe5 Rae8 $1 22. O-O Rxe5 {The position is dynamically balanced.})
+21... Qxd4 22. Qxd4 exd4 23. O-O-O gxf6 24. Bf4 Bf5 25. Rxd4 Be4 {After
+White's error, she has been forced into this endgame where she is clearly
+worse. Pawn down and facing a strong opponent, Kateryna couldn't hold this.}
+26. Rg1+ Kh7 27. Rg3 Rac8 28. Rd1 Rg8 29. Rdg1 Rxg3 30. Rxg3 d4 31. h6 Re8 32.
+Rg7+ Kh8 33. Rd7 Bd5 34. Kb1 Re1+ 35. Bc1 Ba2+ 36. Kxa2 Rxc1 37. Rxd4 Rxc2+ 38.
+Kb3 Rd2 39. Rc4 c2 40. Kb2 Rd6 41. Rxc2 Rb6+ 42. Ka2 Kh7 43. Rc5 Kxh6 44. a4
+Rb4 45. Ka3 Rxh4 46. Rc7 Rh3+ 47. Kb2 Kg6 48. Rxb7 Rh7 49. Rb8 Rc7 50. Kb3 f5
+51. a5 f4 52. Kb4 f3 53. Rg8+ Kf5 54. Rf8+ Ke4 0-1

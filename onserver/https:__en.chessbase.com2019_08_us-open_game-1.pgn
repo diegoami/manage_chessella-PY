@@ -1,0 +1,46 @@
+[Event "2019 US Open 6-Day Schedule"]
+[Site "Orlando, Florida, United State"]
+[Date "2019.08.09"]
+[Round "6.1"]
+[White "Nyzhnyk, Illia"]
+[Black "Sarkar, Justin"]
+[Result "1-0"]
+[ECO "A30"]
+[Annotator "GM Elshan Moradiabadi "]
+[PlyCount "47"]
+[EventDate "2019.??.??"]
+[TimeControl "40/100:0"]
+[WhiteClock "0:28:27"]
+[BlackClock "1:04:24"]
+
+{[%evp 0,47,38,21,29,4,17,-3,32,16,25,37,32,41,21,26,40,38,31,34,46,36,76,77,
+55,75,115,111,111,130,122,93,137,187,168,167,149,162,249,236,326,442,674,574,
+606,744,820,813,854,820]} 1. Nf3 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. c4 {
+[%emt 0:00:00]} c5 {[%emt 0:00:00]} 3. b3 {[%emt 0:00:00] This seemed to be
+Nyzhnyk's main line in this tournament.} d5 {[%emt 0:00:00]} 4. cxd5 {[%emt 0:
+00:00]} Nxd5 {[%emt 0:00:00]} 5. Bb2 {[%emt 0:00:00]} Nc6 {[%emt 0:00:00]} 6.
+Nc3 {[%emt 0:00:00]} e5 {[%emt 0:00:00] I am not sure about the merits of
+Black's concept, who chose the reversed Maroczy. It seems like a non-pracitcal
+decision to me.} (6... Nc7 7. Rc1 {is not good either.}) 7. e3 {[%emt 0:00:00]}
+f6 {[%emt 0:00:00]} 8. Nxd5 {[%emt 0:00:00]} Qxd5 {[%emt 0:00:00]} 9. Bc4 {
+[%emt 0:00:00] Even though the engines consider this to be playable, I find it hard
+to even look at this position from the black side! I feel Black is about to get
+checkmated with all the files and diagonals opening in the centre!} Qd6 $2 {
+[%emt 0:00:00]} (9... Qe4 {The engine suggests this move, but if this is what it
+Black needs, then something is not right!}) 10. d4 $1 {[%emt 0:00:00]
+Right on! weak king and worse development is a recipe to disaster.} cxd4 {
+[%emt 0:00:00]} 11. exd4 {[%emt 0:00:00]} e4 {[%emt 0:00:00]} 12. Qe2 $1 {
+[%emt 0:00:00]} Qe7 {[%emt 0:00:00]} 13. Nd2 {[%emt 0:00:00]} f5 {[%emt 0:00:
+00]} 14. O-O {[%emt 0:00:00] White is way ahead in development and Black lacks
+any useful move. Nyznyk concludes masterfully.} Bd7 {[%emt 0:00:00]} 15. d5 {
+[%emt 0:00:00]} Nd8 {[%emt 0:00:00]} 16. d6 $1 {[%emt 0:00:00] The best way!}
+Qxd6 {[%emt 0:00:00]} 17. Nxe4 $1 {[%emt 0:00:00] No need to calculate. White
+is up two rooks, as Black has no chance to bring his rooks to the game.} fxe4 {
+[%emt 0:00:00]} 18. Qxe4+ {[%emt 0:00:00]} Be6 {[%emt 0:00:00]} 19. Rfe1 {
+[%emt 0:00:00]} Be7 {[%emt 0:00:00]} 20. Bxg7 {[%emt 0:00:00]} Rg8 {[%emt 0:00:
+00]} 21. Qxh7 {[%emt 0:00:00]} Bxc4 {[%emt 0:00:00]} 22. bxc4 {[%emt 0:00:00]}
+Rxg7 {[%emt 0:00:00]} 23. Qxg7 {[%emt 0:00:00] White has massive material
+advantage and Black still cannot move his pieces!} Nc6 {[%emt 0:00:00]} 24.
+Qg8+ {[%emt 0:00:00] O-O-O, here Sarkar played long castle illegally and
+resigned.} 1-0
+

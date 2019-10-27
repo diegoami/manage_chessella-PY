@@ -1,0 +1,40 @@
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.18"]
+[Round "2.2"]
+[White "Caruana, Fabiano"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2818"]
+[BlackElo "2774"]
+[Annotator "Saravanan,V"]
+[PlyCount "70"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 0,70,24,15,48,60,72,66,56,28,27,23,48,32,30,20,15,-5,49,56,53,29,51,38,
+15,14,9,-22,4,21,13,10,6,5,-10,-26,-36,-26,-17,-30,-15,-15,-15,-15,-15,-34,0,0,
+0,-93,-25,-25,-22,-30,-18,-73,-17,-17,-14,-44,-48,-50,-9,-22,-15,-31,-15,-15,
+-15,-31,-15,-15,-20]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3
+e5 7. Nb3 Be7 8. g4 b5 9. g5 Nfd7 10. h4 Nb6 11. Be3 Be6 12. Bxb6 Qxb6 13. Qf3
+b4 14. Nd5 Bxd5 15. exd5 {[%cal Re4d5]} Nd7 16. O-O-O a5 17. Kb1 a4 18. Nd2 Nc5
+19. Bd3 b3 20. cxb3 axb3 21. a3 Ra4 22. Ne4 Nxe4 23. Bxe4 O-O 24. Rhg1 Qa7 25.
+h5 g6 26. Rd3 Rb8 27. hxg6 hxg6 {[#]} 28. Qg2 $4 {For a moment white allows a
+tactical blow, but it was overlooked by both the players} (28. Rxb3 $4 Rxb3 29.
+Qxb3 Rxe4) (28. Rg4 {Supporting the Bishop on e4 and threatening Rxb3} Qa6 29.
+Rxb3 Rxb3 30. Qxb3 Rd4 {with compensation}) 28... Bf8 $4 {Black misses his
+opportunity} (28... Rxa3 $1 {Curiously, shown the position after his own game,
+Wesley So immediatley came up with this sacrifice! So, the spectators may not
+necessarily be wrong in following chess with engines after all!} 29. bxa3 Qxa3
+30. f4 Qa7 $1 {The point - black actually doesn't have a quick win here, but
+the black pawn at b3 makes sure that he has a winning advantage} 31. fxe5 (31.
+Rf1 exf4 (31... b2 32. Qxb2 Rxb2+ 33. Kxb2 Qa4 34. Bh1 (34. Re3 Qd4+) (34. Re1
+Qb4+) 34... exf4 {with a winning position}) 32. Rxf4 Bf8) 31... b2 32. Rdd1
+Qa1+) 29. f3 Rc4 30. Rh1 Qc7 (30... Rc2 31. Rd2) 31. Qh2 Bg7 32. Qe2 Bf8 33.
+Qh2 Bg7 34. Qe2 Bf8 35. Qh2 Bg7 1/2-1/2
+

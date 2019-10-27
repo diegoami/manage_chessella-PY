@@ -1,0 +1,106 @@
+[Event "PCA-World-ch Kasparov-Anand +4-1=13"]
+[Site "New York"]
+[Date "1995.09.14"]
+[Round "3"]
+[White "Anand, Viswanathan"]
+[Black "Kasparov, Garry"]
+[Result "1/2-1/2"]
+[ECO "B85"]
+[WhiteElo "2725"]
+[BlackElo "2795"]
+[Annotator "Anand,V"]
+[PlyCount "72"]
+[EventDate "1995.09.11"]
+[EventType "match"]
+[EventRounds "18"]
+[EventCountry "USA"]
+[SourceTitle "CBM 049"]
+[Source "ChessBase"]
+[SourceDate "1995.12.01"]
+[SourceVersion "1"]
+[SourceVersionDate "1995.12.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 {The classical
+Scheveningen is actually more interesting and unexplored than generally
+acknowledged.} e6 7. O-O Be7 8. a4 Nc6 9. Be3 O-O 10. f4 Qc7 11. Kh1 Re8 {
+This position arose several times in the 1985 match between Kasparov and
+Karpov. Needless to say, I had made a thorough study of these games for this
+match.} 12. Bd3 Nb4 13. a5 Bd7 14. Nf3 $1 {This move is much stronger than 14.
+Qf3. The Q can still go to g3 in two moves if necessary, but Black must now
+deal with Bb6.} Bc6 $6 {Later, Kasparov played the correct 14...Rac8.} 15. Bb6
+Qc8 $5 16. Qe1 Nd7 17. Bd4 Nc5 $5 {Very ambitious. Black is forcing White to
+take a shot at him on the kingside since normal moves leave White a bit worse.}
+18. Qg3 f6 (18... Bf8 $2 19. f5 exf5 20. exf5 Nbxd3 21. Bxg7 $1 Bxg7 (21...
+Qxf5 22. Nh4 Re3 23. Nxf5 Rxg3 24. hxg3 Bxg7 $16) 22. f6 Ne6 23. cxd3 $16) (
+18... g6 19. Rad1 $14) 19. e5 $1 {This gives White an almost decisive
+advantage. This move cost me 23 minutes and I spent almost all of it on 19...
+dxe5.} (19. Bxc5 Nxd3 $1 (19... dxc5 20. Nd2 Rd8 21. Nc4 Nxd3 22. Nb6 Qb8 23.
+cxd3 Ra7 24. Qh3 {/\ 25.f5+/-}) 20. Bxd6 Nxb2 21. Bxe7 Rxe7 $132) 19... Rf8 $1
+{During my 25-minute think before e5, he must have realised that 18...dxe5
+loses.} (19... dxe5 20. Bxh7+ $1 {This I had calculated before playing e4-e5.
+Anything else leaves White much worse, of course.} (20. fxe5 $2 f5 $1 $15)
+20... Kxh7 21. fxe5 Nxc2 (21... f5 22. Bxc5 Bxc5 (22... Bxf3 23. Bxe7 Bxg2+ 24.
+Kxg2 $18) 23. Ng5+ Kg8 (23... Kh6 24. Qh4+ Kg6 25. Qh7+ Kxg5 26. Qxg7+ Kh5 27.
+Qh7+ Kg5 28. h4+ Kg4 29. Qg6+ Kxh4 30. Rf4#) 24. Qh4 $18 {->}) 22. Qh4+ (22.
+exf6 Bxf6 23. Bxf6 (23. Ng5+ $2 Bxg5 24. Qxg5 (24. Rf7 Nxd4) 24... Qc7) 23...
+gxf6 24. Qh4+ (24. Ng5+ $2 fxg5 25. Rf7+ Kg6 26. Raf1 Qd8) 24... Kg7 25. Ne5 $1
+Bxg2+ 26. Kxg2 Ne3+ 27. Kh1 Nxf1 28. Rxf1 {mate in 5}) 22... Kg6 (22... Kg8 23.
+exf6 Nxd4 24. f7+ $1 Kxf7 (24... Kf8 25. Qh8+ Kxf7 26. Ne5#) 25. Ng5+ Kg6 (
+25... Kg8 26. Qh7#) 26. Qh7+ Kxg5 27. h4+ Kg4 28. Qg6+ Kxh4 29. Rf4#) 23. Qg4+
+(23. exf6 gxf6 24. Qg4+ (24. Bxf6 Bxf6 25. Ne5+ Bxe5 26. Qg4+ Kh6) 24... Kh6 (
+24... Kh7 25. Ng5+ $1 $18) 25. Bxc5 (25. Bxf6 Bxf6 26. Nh4 Bxg2+ $1 27. Nxg2
+Bg5 $1 28. Rad1) 25... Bxc5 26. Ne5 $1 $18) 23... Kh6 (23... Kf7 24. Ng5+ Kg8
+25. exf6 $18) (23... Kh7 24. Qh5+ Kg8 25. exf6 $18 Bxf6 (25... Nxd4 26. f7+ Kf8
+27. Qh8+ Kxf7 28. Ne5#) (25... Bxf3 26. f7+ Kf8 27. Qh8+ Kxf7 28. Qxg7#) (25...
+gxf6 26. Qg6+ Kf8 27. Ng5 Bxg2+ 28. Kg1 $18) 26. Ng5 $18 Bxg2+ $5 27. Kxg2 Qc6+
+28. Kh3 e5 29. Qh7+ Kf8 30. Rxf6+ $3 $18) 24. exf6 $1 (24. Nh4 g5 $8) 24...
+Bxf6 (24... gxf6 25. Bxc5 $1) 25. Bxf6 (25. Ne5 Bxe5 26. Bxe5 Qd7) 25... gxf6
+26. Ne5 $1 $18) 20. Bxc5 $2 {What a pity! Having spent so much time on 19...
+dxe5, I hadn't considered thiis move.} (20. exf6 $1 Rxf6 (20... Bxf6 21. Bxh7+
+$1 Kxh7 22. Ng5+ {Amazingly, I had seen this in my calculations. Unfortunately,
+I didn't linger long enough to realize how strong White's attack is. The
+variations are quite pretty.} Bxg5 (22... Kg6 23. f5+ $1 exf5 24. Nge4+ Kh7 25.
+Nxf6+ gxf6 26. Rf4 $18) (22... Kg8 23. Qh4 Bxg5 24. fxg5 Qe8 (24... Rf5 25. g6
+e5 26. Qh7+ Kf8 27. Qh5 $18) 25. Rxf8+ Kxf8 (25... Qxf8 26. g6 $18) 26. Rf1+
+Kg8 (26... Ke7 27. g6+ Kd7 28. Rf7+ Qxf7 (28... Kc8 29. Bxg7 $18) 29. gxf7 $18)
+27. Bxg7 Kxg7 28. Qh6+ Kg8 29. Rf6 $1 $40 (29. g6 Qe7 30. Rf7 Qxf7 31. gxf7+
+Kxf7 32. Qh7+ Kf6 33. Qh4+ Kf7 (33... Ke5 $5 34. Qg5+ Kd4 35. Qf4+ Ne4 36. Nxe4
+Bxe4 37. c3+ Kd3 38. cxb4 Rg8 $1 39. Qxd6+ Bd5) (33... Kf5 34. Qxb4 Rg8 35. Ne2
+$1 $16) 34. Qxb4 Rg8 $132)) 23. fxg5 $1 Qe8 (23... Kg8 24. g6 $40) (23... Kg6
+24. Rf6+ $1 gxf6 25. gxf6+ Kh5 $1 $8 26. Qh3+ (26. Be3 $4 Bxg2+ $3 (26... Rg8
+27. Qh3+ Kg6 28. Qh6+ Kf7 29. Qh7+ Kxf6 30. Rf1+) 27. Kg1 (27. Kxg2 Rg8) (27.
+Qxg2 Qc6) 27... Rg8) 26... Kg5 $8 27. Rf1 $1 $18 (27. Be3+ Kxf6 $8 28. Rf1+ Kg7
+$1 $8 (28... Ke7 29. Bg5+ Ke8 (29... Kd7 30. Qh7+) 30. Qh5+ $1) 29. Bh6+ (29.
+Qh6+ Kg8 30. Qg6+ Kh8 31. Qh5+ Kg8 32. Qg5+ Kh8 33. Qh4+ Kg8 $10) 29... Kg6 $8
+30. Bxf8 Qxf8 $8 31. Qg4+ Kh7 32. Rxf8 (32. Qh5+ $2 Kg8 $17) 32... Rxf8 33.
+Qh4+ Kg6 34. Qg4+ $1 Kh6 $10 (34... Kf7 35. Qxb4 Rg8 $13))) (23... Rxf1+ 24.
+Rxf1 Qe8 25. Qh4+ Kg8 26. Bxg7 Kxg7 27. Qh6+ Kg8 28. Rf6 $1 $16 (28. g6 Qe7 29.
+Rf7 Qxf7 30. gxf7+ Kxf7 31. Qf4+ Ke7 32. Qh4+ Kf7 33. Qxb4 Rg8 $1 34. Qf4+ Ke7
+35. Qh4+ Kf7 36. Qf2+ Ke7 $10)) 24. Rxf8 Qxf8 25. g6+ Kg8 (25... Kh6 26. Be3+)
+26. Qh3 $18) 21. Bxf6 Bxf6 $16) 20... dxc5 {Kasparov later explained that he
+was so relieved after 22.Bxc5 that he didn't want to speculate any more.} (
+20... Nxd3 21. Bxd6 Bxd6 22. cxd3 $44) 21. Bc4 Bd5 $1 {Simple} (21... Bxf3 22.
+Rxf3 Nxc2 $2 23. f5 Nd4 24. fxe6 $1 Nxf3 25. Nd5 (25. gxf3) 25... Qd8 26. exf6
+Bxf6 27. e7 $1 Bxe7 28. Nc7+ $1 (28. Nxe7+ Kh8 29. Ng6+ hxg6 30. Qh3+ Qh4)
+28... Kh8 29. Ne6 Qd4 30. Nxd4 Nxd4 31. Qc7 $16) (21... f5 $14) 22. Nxd5 exd5
+$8 (22... Nxd5 23. f5 $1 $16) 23. Bb3 c4 24. Ba4 Nc6 25. c3 (25. Rae1 $1 Nxa5 (
+25... fxe5 26. Nxe5 $1 Bb4 (26... Nxe5 27. Rxe5 $16) (26... Bf6 27. Qf3 $1) 27.
+c3 Bxa5 {Black shouldn't be worse here.}) 26. c3 $44) (25. Rad1 fxe5 $1 26.
+fxe5 Qe6 27. Bxc6 Qxc6 28. Nd4 Qg6 29. Qxg6 hxg6 30. Ne6 Rxf1+ 31. Rxf1 Bb4 32.
+Nc7 Rd8 33. e6 d4 $132) 25... fxe5 26. Nxe5 (26. fxe5 $1 Nxa5 27. Bc2 Nc6 $13 {
+This position didn't seem so clear to me at the time, but perhaps it was worth
+a try anyway, since White doesn't really run a lot of risk.}) 26... Nxe5 27.
+fxe5 Qe6 28. Bc2 Rxf1+ 29. Rxf1 Rf8 30. Rxf8+ Bxf8 31. Qf4 g6 32. Bd1 Qf7 33.
+Qd4 $1 {/\ 34.Bf3} (33. Qxf7+ $4 {Not very bright.} Kxf7 34. Bg4 Bc5 $1 (34...
+Bh6 35. Bc8 Bc1 36. Bxb7 Ke6 37. Bxa6 Kxe5 (37... Bxb2 $2 38. Bc8+ Kxe5 39. a6
+d4 $8 40. a7 (40. cxd4+ Bxd4 41. Bd7 Ke4 $17) 40... dxc3 41. a8=Q c2 42. Qb8+
+$18) 38. Bb7) 35. Bc8 b6 (35... d4 $2 36. cxd4 Bxd4 37. Bxb7) 36. axb6 Bxb6 37.
+Bxa6 Be3 $1 $19) (33. g3 $5 Bh6 34. Qf3 (34. e6 Qxe6 35. Qb8+ Bf8 36. Bf3)
+34... Bc1 $140 35. Qe2 Bxb2 $4 36. e6 $18) 33... Qf1+ 34. Qg1 Qxg1+ (34... Qf4
+35. Bf3 Qd2 (35... Qxe5 36. Qd1) 36. Qd4 Qe1+ 37. Qg1 Qxe5 38. Qd1) 35. Kxg1 {
+The difference with the immediate Q exchange is that White's K is closer to
+the << and so the queen side won't disintegrate.} Kf7 36. Bg4 b6 (36... Bc5+
+37. Kf1 Be3 38. Bc8 b6 $10) (36... b6 37. axb6 Bc5+ 38. Kf1 Bxb6 39. Ke2 Bc7
+40. e6+ Kf6 41. h3 h5 42. Bf3 Kxe6 43. Kd2 $10) 1/2-1/2
+

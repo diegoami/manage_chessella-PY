@@ -1,0 +1,106 @@
+[Event "Kragujevac"]
+[Site "Kragujevac"]
+[Date "1974.10.??"]
+[Round "11"]
+[White "Vaganian, Rafael A"]
+[Black "Jansa, Vlastimil"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2540"]
+[BlackElo "2535"]
+[Annotator "Nastasio,Davide"]
+[PlyCount "75"]
+[EventDate "1974.10.06"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "YUG"]
+[EventCategory "8"]
+[SourceTitle "EXT 1999"]
+[Source "ChessBase"]
+[SourceDate "1998.11.10"]
+[SourceVersion "1"]
+[SourceVersionDate "1998.11.10"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Bg5 c5 3. d5 Qb6 4. Nc3 Qxb2 5. Bd2 Qb6 6. e4 d6 7. f4 {White
+immediately goes for the center, very aggressive style!} g6 8. e5 Nfd7 9. Nf3 {
+At this point White has developed 3 pieces, Black 2. But notice the difference
+in centralization.} Bg7 10. Rb1 {Removing the Rook from the diagonal
+controlled by the Bg7, while attacking.} Qd8 {We are at move 10, White has 4
+pieces out, Black 2. Black wasted 3 tempi with the queen: Qb6-b2-b6-d8. I
+guess 3 tempi are worth 1 pawn, but how does White gain from these 3 tempi?}
+11. e6 fxe6 12. Ng5 {Another pawn sacrificed!} Nf8 13. Bb5+ Bd7 14. dxe6 {
+This pawn is definitely a thorn deep in Black's territory! And it creates 2
+outposts F7 and D7.} Bxb5 15. Nxb5 Qc8 {Black tries to remove the problem. But
+it's not so easy.} 16. O-O a6 {Black begins with the removal of the knight
+which could give check on C7.} (16... Nxe6 $4 17. Nxe6 Qxe6 18. Nc7+ {and
+White wins.}) 17. Bc3 {Over and over we see this "pattern-move" in GM games.
+Not answering to a threat, the Nb5 attacked by the Pa6, with a retreat but
+with another attacking move.} axb5 18. Bxg7 Rg8 19. Bxf8 Rxf8 20. Nxh7 {
+Just 8 moves before White was down 2 pawns, now the material is equal. Black
+is attacking the Pa2, but is such pawn a problem for White? White definitely
+achieved the goal of keeping the enemy king in the center. Black's development
+on the queenside is definitely lacking. Now let's see how White is able to
+convert the positional advantage into a win.} Rg8 21. f5 gxf5 22. Qh5+ Kd8 23.
+Qf7 Re8 24. Rxf5 Qc6 (24... Nc6 {If Black was careless, he would pay
+immediately!} 25. Qxe8+ Kxe8 26. Rf8#) 25. Re1 Rxa2 26. Nf6 Rxc2 27. Qxe8+ Qxe8
+28. Nxe8 Kxe8 29. h4 Rc4 30. h5 Nc6 31. Ref1 Kd8 32. R5f4 Nd4 33. Kh2 Nxe6 34.
+Rxc4 bxc4 35. h6 Ng5 36. Kg3 b5 37. Kg4 c3 (37... Nh7 38. Kh5 Nf6+ 39. Rxf6 {
+White wins.} exf6 40. Kg6 c3 41. h7 Kd7 42. h8=Q c2 43. Qh3+ Kc6 44. Qc3 $18)
+38. Kxg5 1-0
+
+[Event "URS-ch42"]
+[Site "Leningrad"]
+[Date "1974.??.??"]
+[Round "3"]
+[White "Vaganian, Rafael A"]
+[Black "Kupreichik, Viktor D"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2540"]
+[BlackElo "2460"]
+[PlyCount "43"]
+[EventDate "1974.11.30"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "URS"]
+[EventCategory "12"]
+[SourceTitle "URS-ch"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.07.01"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Bg5 c5 3. d5 Qb6 4. Nc3 Qxb2 5. Bd2 Qb6 6. e4 d6 7. f4 g6 8. e5
+dxe5 9. fxe5 Nfd7 10. Nf3 Bg7 11. Rb1 Qd8 12. e6 fxe6 13. Ng5 Nf6 14. Bb5+ Kf8
+15. dxe6 a6 16. Be3 Qa5 17. O-O h6 18. Qd3 Kg8 19. Qxg6 Bxe6 20. Nxe6 Rh7 21.
+Rxf6 Nd7 22. Bxd7 1-0
+
+[Event "Rome"]
+[Site "Rome"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Vaganian, Rafael A"]
+[Black "Passerotti, Pierluigi"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2570"]
+[BlackElo "2380"]
+[PlyCount "45"]
+[EventDate "1977.12.??"]
+[EventType "tourn"]
+[EventRounds "12"]
+[EventCountry "ITA"]
+[SourceTitle "EXT 1999"]
+[Source "ChessBase"]
+[SourceDate "1998.11.10"]
+[SourceVersion "1"]
+[SourceVersionDate "1998.11.10"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Bg5 c5 3. d5 Qb6 4. Nc3 Qxb2 5. Bd2 Qb6 6. e4 d6 7. f4 a6 8. e5
+dxe5 9. fxe5 Ng4 10. e6 Nf6 11. exf7+ Kxf7 12. Nf3 g6 13. Bc4 Qd6 14. O-O b5
+15. Ne4 Nxe4 16. Ng5+ Kg8 17. Nxe4 Qe5 18. Qf3 Bf5 19. Bd3 c4 20. Bc3 Qc7 21.
+g4 cxd3 22. gxf5 Nd7 23. fxg6 1-0
+

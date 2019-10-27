@@ -1,0 +1,320 @@
+[Event "Shakhmatnaya Poezia 2008, 1st prize"]
+[Site "?"]
+[Date "2008.12.10"]
+[Round "?"]
+[White "Didukh, Sergiy"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/7p/8/1P6/3K3n/1R6/3k1p2/7n w - - 0 1"]
+[PlyCount "33"]
+[EventDate "2008.??.??"]
+
+{When I saw Sergiy Didukh's study in 2009, it left an impression to me, maybe
+not for its other merits but for the depth of its idea. How does the lone king
+manage to outmanoeuver two knights?  We will see it in this study: White to
+move and draw!} 1. Rb2+ $1 ({Importantly, the other possible move does not
+work:} 1. Rb1 $2 Nf3+ 2. Ke4 Ne1 3. Rb2+ Kc3 $19 ({for example} 3... Kc3 4.
+Rxf2 Nxf2+ 5. Kf4 Ned3+ 6. Kg5 Ne4+ 7. Kh6 Nf6 $19)) 1... Kc1 2. Ra2 $1 {The
+black king is lured to b1!} ({Thematic wrong try:} 2. Rxf2 $2 Nxf2 3. Ke3 Nh3
+4. b6 Nf5+ 5. Kf3 Nd6 6. Kg4 Nf2+ 7. Kh5 Nfe4 8. Kh6 Nf6 9. Kg7 h5 10. Kxf6 h4
+11. Ke5 h3 12. Kxd6 h2 13. b7 h1=Q 14. b8=Q {(position X with Kc1)} Qh2+ $19)
+2... Kb1 3. Rxf2 Nxf2 4. Ke3 $1 ({White must try to capture Ph7 (via
+d4-e3-f4-g5-h6) because moving the own pawn does not work immediately:} 4. b6
+$2 Nf5+ $1 5. Ke5 Ne7 6. Kf6 Nc6 7. Kg5 Ne4+ 8. Kh6 Nf6 9. Kg7 h5 10. Kxf6 h4
+$19) 4... Nh3 {Black prevents the plan, but now the knight is too far away
+from the pawn. Preventing this would cost the other knight.} (4... Ng4+ 5. Kf4
+Nf6 6. Kg5 Nd7 7. Kxh4 $11) 5. b6 Nf5+ {Of course, the other knight now needs
+to catch the passed pawn.} 6. Kf3 $1 ({The direct approach does not work, and
+Black has multiple winning way then, for example} 6. Ke4 Nd6+ 7. Kd5 Nb7 8. Kc6
+{Is this not a draw?} {No, there is the other knight!} Nf4 $1 9. Kxb7 Nd5 $19)
+6... Nd6 ({In the other case, we see a kind of Réti manoeuver.} 6... Nd4+ 7.
+Kg4 Nf2+ 8. Kg5 Ne4+ 9. Kh6 Nf6 10. Kg7 h5 11. Kxf6 h4 12. Ke5 h3 13. Kxd4 $11)
+7. Kg4 Nf2+ 8. Kh5 $1 ({While the moves seem equal, in fact the square must be
+chosen carefully.} 8. Kg5 $2 Nf7+ $1 9. Kh5 (9. Kf6 Nd8 10. Kg5 Ne4+ 11. Kh6
+Nf6 $19) 9... Ne4 10. b7 Nf6+ 11. Kh4 Nd7 $19) 8... Nfe4 9. Kh6 Nf6 10. Kg7 $1
+Nde8+ 11. Kh6 Nd6 12. Kg7 h5 13. Kxf6 h4 14. Ke5 h3 15. Kxd6 h2 16. b7 h1=Q 17.
+b8=Q+ {(position X with Kb1)} 1/2-1/2
+
+[Event "7th WCCT 2001-2004, 1st prize"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Benno, Pál"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k3q3/PRp5/p1P5/P2B3R/4P3/8/8/1K6 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "2004.??.??"]
+
+{Pál Benno, not to be confused with Pal Benko, won the 7th WCCT 2001-2004 (the
+world chess composition tourney, i.e. the world championship for composing a
+thematic problem or study) with with study. The theme of the WCCT was (in the
+studies section) to show a main variation where a position is reached and then
+repeated with a white piece missing, which gives an advantage to white.
+compared to the position with that piece. In this lightweight and almost
+natural position, the theme is shown multiple times by utilizing stalemate
+avoidance. From this study on, "thematic wrong tries" will be shortened to TWT.
+I will assign letters and numbers to positions with and without the piece.
+White to mvoe and draw. - (position X1)} 1. Rb8+ $1 ({TWT} 1. Rxc7 $2 Qxe4+ 2.
+Bxe4 $11 {stalemate (for the same reason Rh5 can't be saved)}) 1... Kxa7 2.
+Rb7+ (2. Rb2 $2 Qxh5 $11) (2. Rh8 $2 Qxe4+ $11) (2. Rxe8 $2 $11 {stalemate})
+2... Ka8 {(position X2)} 3. Rxc7 $1 Qxh5 {(position Y1)} 4. Rc8+ $1 {(no TWT
+here)} ({White must be careful about the perpetual check!} 4. Rf7 $2 Qd1+ $11)
+4... Ka7 5. Ra8+ $1 Kxa8 {(position Y2)} 6. c7+ Ka7 7. c8=Q Qxd5 $1 {(position
+Z1)} ({As the queen can intervene, it is no longer a perpetual check:} 7...
+Qd1+ 8. Qc1 Qd3+ 9. Ka2 Qe2+ 10. Ka1 Qh2 11. Qc5+ Kb8 12. Qb6+ Kc8 13. Be6#) 8.
+Qc7+ $1 ({TWT} 8. exd5 $2 $11 {stalemate}) 8... Ka8 9. Qa7+ $1 (9. exd5 $2 $11
+{still is stalemate}) 9... Kxa7 {(position Z2)} 10. exd5 $18 1-0
+
+[Event "7th WCCT 2001-2004, 13th place"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Kralin, Nikolay"]
+[Black "Pervakov, Oleg"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6n1/6P1/2pPP3/1pN5/2PkP3/2p1p2r/2P1P1p1/R1Q1K3 w Q - 0 1"]
+[PlyCount "27"]
+[EventDate "2004.??.??"]
+
+{In the same tourney as the previous study, the 13th place was taken by this
+interesting idea by Kralin and Pervakov. We will need to get into the history
+of the Valladao theme another time, and many years ago I had collected the
+studies with that theme on my (now defunct) website. However, there likely
+were factual errors, and due to the nature of the tools I had available back
+then and my knowledge of their use, I had only the studies where the three
+required moves - castling, promotion and en passant - all happen in the main
+variation, as they do here. ----- As the study is very complex, this is a very
+trimmed version. The full side variations (from hhdbv) can be seen in the
+following entry. White is to move and win. ----- (position X1)} 1. Nb3+ $1 ({
+TWT} 1. Qd1+ $2 Kxc5 2. Qd4+ Kxd4 3. O-O-O+ Kc5 $1 (3... Kxe4 $2 4. e7) 4. d7
+Rh1 5. d8=Q g1=Q 6. Qd4+ Kb4 7. c5+ Ka5 8. Qxc3+ b4 $1 9. Qa1+ Kb5 10. c4+ bxc3
+$1 11. Qb1+ Kxc5 $19 {Please compare this position to the position in the main
+variation after 13.-K:c5!}) 1... Kxe4 2. Nc5+ Kd4 $1 {(position X2)} 3. Qd1+ ({
+White can try to trick Black but ultimate only repeat moves:} 3. Nb3+ $6 Ke4 (
+3... Kxc4 4. Qxe3 Rxe3 5. O-O-O) (3... Ke5 4. Qxe3+ Rxe3 5. Kf2) 4. Nc5+ Kd4 {
+, and now still the main line wins:} 5. Qd1+ $18) 3... Ke5 $1 {(position varX1)
+} ({Taking on c5 leads to the main variation also:} 3... Kxc5 4. Qd4+ Kxd4 5.
+O-O-O+ Kc5 6. d7) 4. Qd4+ $1 ({White can try to invoke the WCCT7 theme with
+other checks, but is unsuccessful:} 4. Nd7+ $2 Kxe6 5. Nc5+ Kf7 $3 (5... Ke5 $2
+{(position varX2)} 6. Qd4+ Kxd4 7. O-O-O+ Kxc5 8. d7 Rh1 9. d8=Q g1=Q 10. Qd4+
+Kb4 11. c5+ Ka5 12. Qxc3+ b4 13. Qa1+ Kb5 14. c4+ bxc3 15. Qb1+ Kxc5 16. Qf5+
+$18 {Unfortunately, this line is in my opinon unthematic, as removing Pe6
+gives no advantage. at all. It just serves to prove (i.e. this idea not
+working) that there is not a dual that would destroy the entire study for the
+purpose of the tourney.}) 6. Ra7+ Kg6 7. Qd3+ Kh6 8. Qxe3+ Rxe3 9. Kf2 Rxe2+
+10. Kg1 Rxc2 11. d7 (11. Nb3 Rb2 12. d7 Rb1+ 13. Kxg2 Rd1 14. cxb5 cxb5 $11)
+11... Rd2 12. Ra2 $1 Rd1+ $1 13. Kxg2 b4 14. Rc2 Nf6 15. Kf3 Kh7 16. Rh2+ Kg6
+$11) 4... Kxd4 {(position X3)} 5. O-O-O+ {Here we have the castling. The queen
+was sacrificed so the castling can happen.} ({Please be aware that postponing
+the castling is very bad.} 5. Nb3+ $2 Kxc4 6. Na5+ Kc5 7. O-O-O Rh1 8. d7 Rxd1+
+9. Kxd1 g1=Q#) 5... Kxc5 (5... Kxc4 6. d7 Rh1 7. d8=Q g1=Q 8. Qd4#) 6. d7 Rh1
+7. d8=Q {The promotion!} g1=Q {Starting now, any inactivity is punished by a
+complete exchange on d1, and taking on g1 does not help as the king has no
+squares, so White would immediately lose the queen back.} ({The line} 7...
+Rxd1+ 8. Qxd1 $18 {explains why the d-pawn had to move.}) 8. Qd4+ (8. Qf8+ $2
+Kb6 (8... Kxc4 $4 9. Qf4+ Kc5 10. Qd4#) 9. Qd8+ Kb7 {and because the rook is
+pinned, White can't win:} 10. Qd7+ Kb8 $11) 8... Kb4 9. c5+ Ka5 (9... Ka3 10.
+Qxc3+ $18) 10. Qxc3+ b4 $1 ({With Pc3 gone, b2 is free for the king, so Black
+must become active with counterthreats or he will just lose on material.} 10...
+Ka6 11. Rxg1 Rxg1+ 12. Kb2 $18) 11. Qa1+ Kb5 {White now can vacate c2 for his
+king. Afterwards he only needs to get his queen away from the first rank with
+tempo.} 12. c4+ bxc3 {The en passant!} 13. Qb1+ Kxc5 (13... Ka4 14. Qa2+) {
+Because White sacrificed the pawn on e4 at the beginning of the study, he wins
+now:} 14. Qf5+ $1 {and White wins easily because also his queen is ready to
+win a piece.} ({Example variation:} 14. Qf5+ Kb6 15. Rxg1 Rxg1+ 16. Kc2 Rxg7
+17. Qf7 (17. Qf8 $18) 17... Rxf7 (17... Rg2 18. e7 $18) 18. exf7 $18) 1-0
+
+[Event "13.p WCCT7 ty (tt)"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Kralin=N Pervakov=O"]
+[Black "(+1404.75e1d4)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6n1/6P1/2pPP3/1pN5/2PkP3/2p1p2r/2P1P1p1/R1Q1K3 w Q - 0 1"]
+[PlyCount "31"]
+[EventDate "2004.??.??"]
+
+{EG#14177. WCCT7 ty 2001-2004.} 1. Nb3+ $1 (1. Qd1+ $2 Kxc5 2. Qd4+ Kxd4 3.
+O-O-O+ Kc5 $1 (3... Kxe4 $2 4. e7) 4. d7 Rh1 5. d8=Q g1=Q 6. Qd4+ Kb4 7. c5+
+Ka5 8. Qxc3+ b4 $1 9. Qa1+ Kb5 10. c4+ bxc3 $1 11. Qb1+ Kxc5) 1... Kxe4 (1...
+Ke5 2. Qxe3 Rxe3 3. Kf2) (1... Kxc4 2. Na5+ Kb4 (2... Kc5 3. Qa3+ b4 4. Nb7+
+Kc4 5. Qb3+) (2... Kd4 3. Qd1+ Ke5 4. Qd4+ Kxd4 5. O-O-O+ Kc5 6. d7 Rh1 7. d8=Q
+g1=Q 8. Qd4#) 3. Qa3#) 2. Nc5+ Kd4 $1 (2... Kf4 3. Nd3+ $1 Kf5 (3... Ke4 4.
+Nf2+ exf2+ 5. Kxf2) (3... Kg4 4. Nf2+ exf2+ 5. Kxf2) (3... Kg3 4. Qxe3+) (3...
+Kg5 4. Qxe3+ Rxe3 5. O-O-O) 4. Qxe3 Rxe3 5. Kf2 Rxe6 6. d7 Rd6 7. Nc5) (2...
+Ke5 3. Qxe3+ Rxe3 4. Kf2) (2... Kf5 3. Qxe3 Rxe3 4. Kf2) 3. Qd1+ (3. Nb3+ $2
+Ke4 (3... Kxc4 4. Qxe3 Rxe3 5. O-O-O) (3... Ke5 4. Qxe3+ Rxe3 5. Kf2) 4. Nc5+
+Kd4 5. Qd1+) 3... Ke5 $1 (3... Kxc5 4. Qd4+ Kxd4 5. O-O-O+ Kc5 6. d7) (3...
+Kxc4 4. Qd3+ Kxc5 5. Qxc3+ Kxd6 6. O-O-O+ Kxe6 7. Qxc6+) 4. Qd4+ $1 (4. Nd7+ $2
+Kxe6 5. Nc5+ (5. Nf8+ Kf7 6. Ra7+ Ne7 $1 7. Rxe7+ Kg8) 5... Kf7 $1 (5... Ke5 $2
+6. Qd4+ Kxd4 7. O-O-O+ Kxc5 8. d7 Rh1 9. d8=Q g1=Q 10. Qd4+ Kb4 11. c5+ Ka5 12.
+Qxc3+ b4 13. Qa1+ Kb5 14. c4+ bxc3 15. Qb1+ Kxc5 16. Qf5+) 6. Ra7+ Kg6 7. Qd3+
+Kh6 8. Qxe3+ Rxe3 9. Kf2 Rxe2+ 10. Kg1 Rxc2 11. Nb3 (11. d7 Rd2 12. Ra2 Rd1+
+13. Kxg2 b4 14. Rc2 Nf6 15. Kf3 Kh7 16. Rh2+ Kg6) 11... Rb2 12. d7 Rb1+ 13.
+Kxg2 Rd1 14. cxb5 cxb5) 4... Kxd4 5. O-O-O+ (5. Nb3+ $2 Kxc4 6. Na5+ Kc5 7.
+O-O-O Rh1 8. d7 Rxd1+ 9. Kxd1 g1=Q#) 5... Kxc5 (5... Kxc4 6. d7 Rh1 7. d8=Q
+g1=Q 8. Qd4#) (5... Ke5 6. e7 Rh1 7. e8=Q+) 6. d7 (6. e7 $2 Rh1 7. e8=Q Rxd1+
+8. Kxd1 g1=Q#) 6... Rh1 7. d8=Q g1=Q 8. Qd4+ (8. Qd6+ $2 Kb6 (8... Kxc4 $2 9.
+Qd4#) 9. Qd4+ Kb7) (8. Qf8+ $2 Kb6 (8... Kxc4 9. Qf4+ Kc5 10. Qd4#) 9. Qd8+ Kb7
+10. Qd7+ Kb8) (8. Rxg1 $2 Rxg1+ 9. Qd1 Rxd1+ 10. Kxd1 Kxc4) 8... Kb4 9. c5+ (9.
+cxb5+ $2 Kxb5 (9... Ka3 $2 10. Qxc3+) (9... Ka5 $2 10. Qxc3+) 10. Qd3+ Kb6) (9.
+Qd6+ $2 c5 10. cxb5 Qxd1+ 11. Qxd1 Rxd1+ 12. Kxd1 Kxb5) (9. e7 $2 Qxd1+ 10.
+Qxd1 Rxd1+ 11. Kxd1 Nxe7) (9. Rxg1 $2 Rxg1+ 10. Qd1 Rxd1+ 11. Kxd1 Kxc4) 9...
+Ka5 (9... Ka3 10. Qxc3+ Ka4 (10... Ka2 11. Qa5#) 11. Qb3+ Ka5 12. Qa3#) 10.
+Qxc3+ (10. Rxg1 $2 Rxg1+ 11. Qd1 Rxd1+ 12. Kxd1 Kb4) 10... b4 $1 (10... Ka6 11.
+Rxg1 Rxg1+ 12. Kb2) (10... Ka4 11. Qb3+ Ka5 12. Qa3#) 11. Qa1+ (11. Rxg1 $2
+Rxg1+ 12. Kb2 bxc3+) (11. Qd3 $2 Qxd1+ 12. Qxd1 Rxd1+ 13. Kxd1 Kb5) 11... Kb5
+12. c4+ (12. Rxg1 $2 Rxg1+ 13. Kb2 Rxa1 14. Kxa1 Kxc5) 12... bxc3 (12... Kxc4
+13. Qd4+ Kb5 (13... Kb3 14. Qd3+ Ka4 15. Rxg1) 14. Rxg1) (12... Kxc5 13. Qd4#)
+13. Qb1+ (13. Rxg1 $2 Rxg1+ 14. Kc2 Rxa1) (13. Kc2 $2 Qg6+ 14. Kxc3 Qxg7+ 15.
+Kc2 Qxa1) 13... Kxc5 (13... Ka4 14. Qa2+) 14. Qf5+ $1 Kb6 {<eg>} 15. Rxg1 Rxg1+
+16. Kc2 1-0
+
+[Event "Akobia 60 JT 1997, 1st prize"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Gurgenidze, David"]
+[Black "Kalandadze, Velimir"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4R3/k6r/P3p3/K7/5P2/P5pp/8/RN1r4 w - - 0 1"]
+[PlyCount "53"]
+[EventDate "1997.??.??"]
+
+{This study is one that after its first publication became famous. In my
+opinion, the late Georgian master was right in his assessment to crown it as
+the winner in his 1997 jubilee tourney. White is a piece up but faces two
+dangerous passed pawns. Things are complicated because the extra piece is
+pinned and if White theatens checkmate on b5, Black will just give a check on
+h5 and win the piece back. So what can be done as White is to move and draw?} 
+1. Nc3 Rh5+ {Black wins the piece back, keeps his dangerous passed pawns, and
+it seems hopeless to continue the battle at first. Won't Black, even in the
+worst case, just be able to give a rook and still win with his pawns? What can
+White hope for?} 2. f5 $3 ({To understand White's ingenious move, we will have
+to look at how the game could continue: TWT} 2. Nb5+ $2 Rxb5+ 3. Kxb5 Rxa1 4.
+Re7+ Kb8 5. a7+ Ka8 6. Ka6 (6. Kb6 Rb1+ 7. Ka6 Rb8 8. axb8=Q+ Kxb8 9. Kb6 Kc8
+10. Kc6 Kd8 11. Kd6 g2 12. Rg7 Ke8 13. Kxe6 Kf8 14. Kf6 h2 15. Rxg2 h1=Q $19)
+6... Rxa3+ 7. Kb6 Rb3+ 8. Ka6 Rb8 9. axb8=Q+ Kxb8 10. Kb6 Kc8 11. Kc6 Kd8 12.
+Kd6 g2 13. Ra7 Kc8 14. Kc6 Kb8 15. Ra1 h2 16. Rb1+ Kc8 17. Ra1 Kd8 18. Kd6 Ke8
+19. Kxe6 Kf8 20. Kf6 Kg8 21. Ra8+ Kh7 22. Ra7+ Kh6 23. Ra8 Kh5 24. Kf5 Kh4 $19)
+2... Rxf5+ 3. Nb5+ Rxb5+ 4. Kxb5 Rxa1 {Things still look gloomy for White, but
+the pawn on a6 allows enough counterplay.} 5. Re7+ Kb8 6. a7+ Ka8 7. Ka6 $3 {
+Another great move gets rid of Pa3, the piece that would block the path for
+the rook later.} ({TWT} 7. Kb6 $2 Rb1+ 8. Ka6 Rb8 $1 9. axb8=Q+ Kxb8 10. Kb6
+Kc8 11. Kc6 Kd8 12. Kd6 g2 13. Ra7 (13. Rg7 Ke8 14. Kxe6 Kf8 15. Kf6 h2 16.
+Rxg2 h1=Q $19) 13... Kc8 14. Kc6 Kb8 $19) 7... Rxa3+ 8. Kb6 Rb3+ 9. Ka6 Rb8 $1
+10. axb8=Q+ {(or any other promotion)} Kxb8 11. Kb6 Kc8 12. Kc6 Kd8 13. Kd6 $1
+g2 $1 14. Ra7 Kc8 15. Kc6 ({White can reverse the next two moves, this is a
+minor dual that does not destroy the study.} 15. Ra1 h2 16. Kc6 $18) 15... Kb8
+16. Ra1 ({Giving the check on b7 wastes time, another minor dual or waste of
+time dual. Experts are divided on which one it is in a draw study, but agree
+that it does not destroy the study either usually.} 16. Rb7+ Ka8 17. Rb1 h2 18.
+Ra1+ Kb8 19. Rb1+ Kc8 20. Ra1 Kd8 $11 {and onwards like after 18.-Kd8 in the
+text.}) 16... h2 ({Otherwise the draw is easier:} 16... e5 $2 17. Rb1+ Kc8 18.
+Ra1 Kd8 19. Kd6 Ke8 20. Ke6 Kf8 21. Kf6 Kg8 22. Kg6 $11) 17. Rb1+ Kc8 18. Ra1
+Kd8 19. Kd6 Ke8 20. Kxe6 Kf8 21. Kf6 Kg8 22. Ra8+ Kh7 23. Ra7+ Kh6 24. Ra8 Kh5
+25. Kf5 Kh4 {Now we see why White sacrificed the pawn on f4. He needed that
+square 24 moves later for his king.} 26. Kf4 Kh5 27. Kf5 $11 {and the draw by
+threefold repetition is unavoidable unless Black wants to be checkmated.}
+1/2-1/2
+
+[Event "Shakhmatnaya Kompozitsiya 2018, 4th hm"]
+[Site "?"]
+[Date "2018.??.??"]
+[Round "?"]
+[White "Slumstrup Nielsen, Steffen"]
+[Black "Minski, Martin"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7n/8/8/3p3P/2P3Bk/5Kp1/8/8 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "2017.??.??"]
+
+{Martin Minski sent me this study when I asked him for an example I might be
+allowed to use from his production. White is to move and win, and the study
+should not be too difficult to understand.} 1. c5 $1 Nf7 (1... d4 2. c6 $18) 2.
+h6 $1 ({White plays aggressive to keep the knight away from the c-pawn. It
+does not work in reverse:} 2. c6 $2 Ne5+ 3. Kg2 Nxc6 $11) 2... Nxh6 ({Black
+has a defense that in a practical game would be better:} 2... Kg5 3. h7 Kh6 (
+3... Kg6 4. Bh5+ $1 Kxh5 (4... Kxh7 5. Bxf7 $18) 5. c6 $18) 4. Bf5 $18 {and
+Black can see if White finds the winning idea, or if he tries to intrude over
+the queenside which is not possible. I'll show the win here for illustration
+purposes (Syzygy Tablebases line).} (4. Bf5 Kg7 5. Kxg3 Ne5 6. Kf4 Nc6 7. Bb1
+$3 ({or} 7. Bd3 $3) (7. Bg6 Ne7 8. Bb1 Nc6 9. Bf5 Kh8 10. Bg6 $18) 7... Kh8 (
+7... Nb8 8. Bg6 $18) 8. Bg6 Nb8 9. Kf5 $18)) 3. Be6 {The knight has all
+squares cut off, a "domination" in study terms.} Ng8 $1 4. Bxg8 Kh3 {(position
+X1)} 5. Be6+ $1 ({TWT} 5. c6 $2 g2 $1 ({not} 5... Kh2 $2 6. c7 g2 7. c8=Q g1=Q
+8. Qc2+ Kh1 9. Bxd5 $18) 6. c7 g1=Q 7. c8=Q+ Kh4 $1 $11 {and Bg8 blocks the
+queen's access to h8.}) 5... Kh2 6. Bh3 $1 Kxh3 {(position X2)} 7. c6 g2 8. c7
+g1=Q 9. c8=Q+ Kh4 (9... Kh2 10. Qh8#) {Without the bishop, the check on h8 is
+possible now.} 10. Qh8+ Kg5 11. Qg7+ ({or} 11. Qg8+) 11... Kf5 12. Qxg1 $18 1-0
+
+[Event "Tolush 100 MT, Zadachy i Etyudi, 1st hm"]
+[Site "?"]
+[Date "2011.09.21"]
+[Round "?"]
+[White "Hornecker, Siegfried"]
+[Black "Minski, Martin, Garcia, Mario Guido"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1B6/P4P1p/1k6/4pp2/n3p2q/K7/PpP3B1/8 w - - 0 1"]
+[PlyCount "27"]
+[EventDate "2011.??.??"]
+
+{In this study by Yours Truly and Martin Minski, I provided the manoeuver
+around the board while Martin shaped the introduction with the sacrifice of
+Pc2 so a piece that does not exist yet can later capture a piece that equally
+does not exist yet. Mario Guido Garcia added bPh7 to get rid of unclear
+variations. White to move and win.} 1. f8=Q (1. a8=Q $2 Qe7+ $11) 1... b1=N+ $1
+(1... b1=Q 2. Qd6+ Kb7 3. Qd5+ Kc8 4. Qc6+ Kd8 5. Bc7+ $18 {and White wins,
+see the example variation.} (5. Bc7+ Ke7 6. Bd8+ $18)) 2. Kxa4 (2. Kb3 $2 Qg3+
+3. Kc4 (3. Kxa4 Nc3+ 4. Kb4 Nd5+ $11) 3... Nd2+ 4. Kd5 Nc3+ 5. Ke6 Qg6+ 6. Qf6
+Kb7 $11) 2... e3+ {It is far from obvious that White must get rid of Pc2 now.
+Please guess why! Actually, just enjoy the solution.} 3. c4 $3 ({TWT} 3. Qb4+
+$2 Qxb4+ 4. Kxb4 e2 5. a8=N+ Ka6 6. Nc7+ Kb6 7. Nd5+ Ka6 8. Kc5 e1=Q 9. Nb4+
+Ka5 10. Bc7+ Ka4 11. Bc6+ Ka3 $11) (3. Kb3 $2 Nd2+ 4. Ka3 Nc4+ $11) 3... Qxc4+
+4. Qb4+ Qxb4+ 5. Kxb4 e2 {Black wants to get a new queen, even with check.} 6.
+a8=N+ $1 {Both players have promoted a pawn to a knight now.} (6. a8=Q $2 e1=Q+
+7. Kc4 Qe2+ $11) 6... Ka6 7. Nc7+ Kb6 8. Nd5+ Ka6 $1 {Black refuses to run
+into a discovered check, and it seems like White has to repeat the moves. But
+there is another option.} 9. Kc5 $3 e1=Q {Please note that both players also
+promoted into a queen now. White now has a series of checks to win.} 10. Nb4+
+Ka5 11. Bc7+ Ka4 12. Bc6+ Ka3 {Oh, of course, Pc2 had to disappear so Pa7 (now
+a knight) can give check on c2 to capture Pe3 (now a queen). That was not easy
+to see, or was it?} 13. Nc2+ Kb2 14. Nxe1 $18 1-0
+
+[Event "Probleemblad"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Lindgren, Bo"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/k1P2b2/2PN4/PB5R/1Rp1P3/K1pppp1r/1B1n3r/n1bqN3 w - - 0 1"]
+[PlyCount "59"]
+[EventDate "1999.??.??"]
+
+{White to move and checkmate in thirty moves!} 1. Nc8+ Ka8 2. Nb6+ Ka7 3. c8=R
+$3 {What is White thinking? Well, it all has a reason, as you will see.} ({TWT
+} 3. c8=Q $2 Nb1+ 4. Ka2 Qb3+ 5. Rxb3 cxb3+ 6. Kxa1 Bxb2+ 7. Kxb1 c2+ 8. Nxc2
+bxc2+ 9. Kxb2 c1=Q+ 10. Kxc1 d2+ 11. Kc2 d1=Q+ 12. Kxd1 e2+ 13. Kd2 e1=Q+ 14.
+Kxe1 f2+ 15. Kf1 Bc4+ 16. Bxc4 Rh1+ 17. Kxf2 R1h2+ 18. Ke1 Re3+ 19. Kd1 Re1+
+20. Kxe1 Re2+ 21. Kd1 Rd2+ 22. Kc1 Rc2+ 23. Kb1 Rb2+ 24. Ka1 Ra2+ $11) 3...
+Nb1+ 4. Ka2 Qb3+ 5. Rxb3 cxb3+ 6. Kxa1 Bxb2+ 7. Kxb1 c2+ 8. Nxc2 bxc2+ 9. Kxb2
+c1=Q+ 10. Kxc1 d2+ 11. Kc2 d1=Q+ 12. Kxd1 e2+ 13. Kd2 e1=Q+ 14. Kxe1 f2+ 15.
+Kf1 $1 (15. Ke2 $2 Bxh5+ $1) 15... Bc4+ 16. Bxc4 Rh1+ 17. Kxf2 R1h2+ 18. Ke1
+Re3+ 19. Kd1 Re1+ 20. Kxe1 Re2+ 21. Kd1 Rd2+ 22. Kc1 Rc2+ 23. Kb1 Rb2+ 24. Ka1
+Rb1+ 25. Ka2 Ra1+ 26. Kb2 ({Dual (minor?):} 26. Kb3 Ra3+ 27. Kb2 Rxa5 28. Rxa5+
+Kxb6 29. Rb5+ Ka6 30. Ra8#) 26... Rb1+ 27. Ka3 Ra1+ 28. Ba2 Rxa2+ 29. Kxa2 {
+And now, just an eternity and a half later, Black would be stalemated if White
+did not underpromote on an almost full board. A monumental idea by the Swedish
+GM for Chess Composition!} Ka6 30. Ra8# 1-0
+

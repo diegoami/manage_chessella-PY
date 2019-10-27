@@ -1,0 +1,74 @@
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2019.09.20"]
+[Round "4.1"]
+[White "Vitiugov, Nikita"]
+[Black "So, Wesley"]
+[Result "1-0"]
+[ECO "C43"]
+[WhiteElo "2732"]
+[BlackElo "2767"]
+[Annotator "Sagar Shah"]
+[PlyCount "119"]
+[EventDate "2019.09.10"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nc3 (6. Nxd7 Bxd7 7.
+O-O Bd6 8. c4 c6 9. cxd5 cxd5 10. Nc3 Nxc3 11. bxc3 O-O {is the main line with
+over 1000 games already having been played from this position.}) 6... Nxe5 7.
+dxe5 Nxc3 8. bxc3 {Although this is a theoretical position, I would like to
+take a look at it in some detail. The main reason being the interesting
+imbalances in this position. Let's jot down the imbalances. 1. The first
+thing that strikes you is the pawn structure. Black clearly seems to have a
+better structure as he doesn't have any doubled pawns like White has on the
+c-file. 2. Thanks to the e5 pawn, White has some space advantage. 3. White has
+a majority on the kingside while Black has a majority on the queenside. 4.
+White has the semi open b-file which could prove useful. After listing the
+imbalances you begin to understand a few things. The pawn structure is really
+not the main thing in the position. It would have been if Black had knights on
+the board. Imagine adding a knight on d7 and a white knight on f3. Suddenly
+things are not so clear, because the knight gets a very nice square on c5
+because of the pawn structure. As there are only bishops on the board, White
+doesn't have to worry about his pawn weaknesses for now. Also the pawns on
+c2-c3 prevent Black pawns from advancing. easily on the queenside. Imagine you
+had a pawn on b2 instead of c3. One can easily imagine the move c5 being more
+powerful as then Black wants to run down White with c4,d4 and so on. With the
+doubled pawns, it is not so easy for Black to push on. For White on the other
+hand, the pawn majority on the kingside is easier to expand with f4-f5. Black
+can stop White pawns after f4, by playing ...f5. However, that gives White a
+passed pawn on e5, as we see in the game. All in all I feel that the position
+is slightly better for White.} Be7 9. O-O (9. Qh5 Be6 10. Rb1 Qd7 11. h3 O-O-O
+$13) 9... O-O 10. f4 f5 (10... f6 {should have been considered.} 11. Qh5 f5 {
+leads to a similar position as in the game.} (11... g6 12. Bxg6 Bc5+ 13. Kh1
+hxg6 14. Qxg6+ Kh8 15. Qh5+ Kg8 16. Rf3 Rf7 17. Rg3+ Rg7 18. Rxg7+ Kxg7 19. f5
+$18)) 11. Be3 Be6 12. a4 Qd7 13. Qf3 Rfd8 {It's quite interesting to see how
+Vitiugov builds up this position.} 14. Rfd1 c5 15. Kh1 g6 16. h3 Qc7 17. Qf2 {
+Not only putting pressure on the c5 pawn but also to reroute the bishop to f3.}
+b6 $6 {Although this looks like a normal move, it might have been a good idea
+to not touch this pawn without any provocation. The reason being it gives
+White a hook to open up a line on the queenside at a later date with a5.} 18.
+Qe1 Kh8 19. Be2 $1 Rg8 20. Bf3 Rad8 {Wesley has hinted at some kingside pawn
+with g5, but he is not able to execute it.} 21. a5 $1 b5 22. a6 $1 {Now the b5
+pawn will also be a small weakness.} Rd7 (22... g5 23. fxg5 Bxg5 24. Bxg5 Rxg5
+25. Rab1 $16 {It somehow feels that this entire operation with ...g5 proved
+more beneficial for White than Black.}) 23. Rdb1 Rb8 24. Bf2 Rdd8 25. Qe2 Qb6
+26. Rb2 $1 {Again we see how Vitiugov is good at making these little moves.
+The idea is not to double on b-file as then the a6 pawn would fall, but to
+actually create a square on b1 for the queen.} Rd7 27. Qf1 $1 {The queen makes
+a square on e2 for the bishop and gets ready to jog back to b1.} Rc7 28. Be2
+Bd7 29. Qd1 $1 {A small halt on the way to b1.} Qe6 (29... Be6 {is impossible
+because b5 hangs.}) (29... Bc6 {was perhaps a better idea as now Ra5 is not so
+easy, but White can just improve his position slowly.}) 30. Ra5 $1 Kg7 31. Qa1
+(31. Bxb5 Rxb5 32. Raxb5 Bxb5 33. Rxb5 Qxa6 34. Qb1 $14) (31. Qb1 g5 $5 32.
+Bxb5 gxf4 33. Bxd7 Rxb2 34. Qxb2 Rxd7 35. Qb5 $14 {White is definitely looking
+good here.}) 31... g5 32. Bxb5 Rxb5 (32... Bxb5 33. Raxb5 Rxb5 34. Rxb5 gxf4 {
+we reach this position in the game as well.}) 33. Raxb5 Bxb5 34. Rxb5 (34. Qa5
+$5 Rc6 35. Rxb5 Rxa6 36. Qc7 Rc6 37. Qxa7 Ra6 38. Qb8 $18) 34... gxf4 35. Qa5
+$1 Qxe5 36. Rb7 Rxb7 37. axb7 {With such a pawn on b7, the win is just a
+matter of time.} f3 38. gxf3 Bd6 39. Kg2 {No ghosts!} Qh2+ 40. Kf1 Qxh3+ 41.
+Ke2 Qh2 42. Qxa7 Kf6 43. Qb6 Ke7 44. Qc6 Kd8 45. Qc8+ Ke7 46. Qxf5 Kd8 47. Kf1
+Qh1+ 48. Bg1 Bh2 49. Qg4 Bd6 50. Ke2 Ke7 51. Bxc5 $1 Qh2+ 52. Bf2 h5 53. Qf5
+Kd8 54. Qc8+ Ke7 55. Qf5 {Vitiugov makes it a point to repeat the position to
+gain time and also show who is in control.} Kd8 56. Qf7 h4 57. Qg8+ Kd7 58.
+Qg4+ Kc6 59. Qc8+ Kb5 60. b8=Q+ {A high class positional game from which we
+can learn a lot.} (60. b8=Q+ Bxb8 61. Qc5+ Ka6 (61... Ka4 62. Qb4#) 62. Qb6#)
+1-0

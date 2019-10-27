@@ -1,0 +1,41 @@
+[Event "Ter Apel"]
+[Site "Ter Apel"]
+[Date "1987.02.16"]
+[Round "1"]
+[White "Ree, Hans"]
+[Black "Miles, Anthony John"]
+[Result "1-0"]
+[ECO "A56"]
+[WhiteElo "2440"]
+[BlackElo "2565"]
+[Annotator "Tactical Analysis 2.20 (6s)"]
+[PlyCount "99"]
+[EventDate "1987.??.??"]
+
+{[%evp 17,99,50,78,36,77,27,70,14,43,20,58,17,31,26,82,29,38,23,31,7,51,7,39,7,
+38,24,36,23,43,20,66,29,50,29,42,15,79,70,86,41,61,40,112,40,94,25,108,65,116,
+0,30,9,0,0,263,202,224,252,435,435,433,397,414,331,317,304,552,523,764,813,740,
+724,1054,1076,1012,844,1366,1105,29981,29982,29982,29983,1979,29978]} 1. d4 Nf6
+2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. Be2 O-O 7. Nf3 Ne8 8. O-O Nd7 9. Ne1
+Bg5 10. Nd3 {A56: Czech Benoni} (10. Bxg5 $16 Qxg5 11. Qc1) 10... g6 (10... h6
+$14) 11. Rb1 $146 (11. f3 $16) ({Predecessor:} 11. Bxg5 Qxg5 12. Qc1 Qe7 13. f4
+exf4 14. Qxf4 Ne5 15. Nxe5 dxe5 16. Qe3 Bd7 17. Rad1 b6 {1-0 (62) Sygulski,A 
+(2425)-De Boer,G (2275) Krefeld 1983}) 11... Ng7 (11... Nb6 $11) 12. b4 (12. a3
+$14) 12... cxb4 13. Rxb4 f5 14. exf5 (14. Bxg5 $14 Qxg5 15. Qc1) 14... Bxc1 $11
+15. Qxc1 {[#] Strongly threatening fxg6.} gxf5 (15... Nxf5 $11 16. f4 Nd4) 16.
+f4 ({White should play} 16. Nb5 $16) 16... e4 17. Nf2 Nc5 18. Nb5 Bd7 (18...
+Rf6 $11) 19. Nd4 (19. Nxd6 $14 Qe7 20. Nxb7) 19... Rc8 20. Qe3 Rc7 21. Kh1 Qh4
+22. Rg1 Qf6 23. Rbb1 b6 (23... Kh8 $11) 24. Nh3 Qg6 25. Nf2 h5 26. Nh3 Kf7 (
+26... Ne8 $11 {keeps the balance.}) 27. Ng5+ Ke7 28. Qa3 (28. Ra1 $16) 28...
+Kd8 29. Nb3 Ne8 (29... Na4 $14) 30. Rgd1 (30. Nxc5 $16 dxc5 31. Qb2) 30... Na4
+(30... Kc8 $1 $14) 31. Rbc1 (31. Rd2 $16) 31... Nc5 (31... Rg8 $11) 32. Nxc5
+$16 dxc5 33. Ne6+ (33. Qh3 $16) 33... Bxe6 $11 34. dxe6+ Ke7 35. Rd7+ Kxe6 $2 {
+[%mdl 8192]} (35... Rxd7 $11 {and Black has nothing to worry.} 36. exd7 Nc7)
+36. Rxc7 $18 Nxc7 37. Qxa7 {[%mdl 64] Double Attack} Kd7 $2 (37... Na8 {
+might work better.} 38. Qb7 Rd8) 38. Qb7 Rf6 {[#]} 39. Bd1 $1 {[%cal Rd1a4]
+Black must now prevent Ba4+.} b5 40. cxb5 Rb6 41. Qa7 Qd6 $2 (41... h4 42. Be2
+(42. Rxc5 Qd6 $11) 42... h3 43. gxh3 e3) 42. Be2 {And now Rd1 would win.} Qxf4
+43. Rxc5 Qd6 44. Rxf5 Kc8 45. Rxh5 Qd4 46. h3 e3 47. Rg5 Qa1+ 48. Kh2 Qf6 49.
+Rg8+ Kd7 50. Bg4+ {Accuracy: White = 63% (17/12/41), Black = 36% (12/9/39).}
+1-0
+

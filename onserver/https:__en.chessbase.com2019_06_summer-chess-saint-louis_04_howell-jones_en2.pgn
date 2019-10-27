@@ -1,0 +1,58 @@
+[Event "Summer Chess Classic-A 2019"]
+[Site "Saint Louis"]
+[Date "2019.06.21"]
+[Round "4.3"]
+[White "Howell, David W L"]
+[Black "Jones, Gawain C B"]
+[Result "1/2-1/2"]
+[ECO "D75"]
+[WhiteElo "2692"]
+[BlackElo "2709"]
+[Annotator "KGBesenthal"]
+[PlyCount "157"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,157,19,31,14,-14,43,32,67,45,41,40,37,-29,14,14,7,23,13,13,40,19,21,
+36,33,15,7,10,-5,-3,1,20,26,32,35,35,39,30,34,36,76,87,93,81,99,97,92,89,90,90,
+91,94,85,63,100,101,102,106,104,103,100,87,131,123,120,125,114,127,145,160,141,
+176,206,142,196,159,158,98,93,108,96,89,87,71,100,108,112,124,125,62,30,69,147,
+133,141,132,128,116,116,133,145,146,146,118,117,138,130,130,126,119,126,126,
+126,126,119,119,119,119,119,119,119,69,46,39,27,7,6,8,2,0,38,11,8,4,5,2,4,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4.
+cxd5 Nxd5 5. Nf3 Bg7 6. g3 Nxc3 7. bxc3 c5 8. Bg2 Nc6 9. O-O cxd4 10. cxd4 O-O
+11. Rb1 Nxd4 12. Nxd4 Qxd4 13. Qxd4 Bxd4 14. Bh6 Rd8 15. Bxb7 {This position
+has been reached several times before.} Bxb7 ({But so far only} 15... Rb8 {
+has been tried, which should be easier because the white rook does not reach
+the seventh rank.}) 16. Rxb7 Bc5 17. Rc1 Rac8 18. Bf4 Re8 19. a4 {[#]
+Objectively speaking, White has almost no advantage, but in practice, Black is
+in a defensive posture which few top grandmasters would enjoy.} a5 {And Jones
+promptly makes a dubious move: He places his pawn on a square where the white
+bishop can attack it. It's not long before this pawn is no more.} ({The first
+promising alternative was} 19... a6 $1 {On closer inspection, one quickly
+realizes that none of White's pieces can attack the undefended a6-pawn.}) 20.
+Bd2 f6 21. Rcb1 Red8 22. Bxa5 Rd4 23. Bb4 Kf7 24. a5 Bxb4 25. R1xb4 Rxb4 26.
+Rxb4 Rc1+ 27. Kg2 Ra1 {[#] In the position reached, Black lacks sufficient
+compensation for the pawn. Nevertheless, there are, of course, countless
+drawing resources in rook endgames, even with a measly extra pawn. But Black
+may have hours of work ahead.} 28. Rb5 Ra2 29. Kf3 g5 30. Ke3 Kg6 31. f4 gxf4+
+32. gxf4 Ra4 33. h4 h5 {[#] After the last move, the computer signals that
+Black is lost. And indeed he has placed his isolated pawn in range of White's
+rook.} ({Black could draw with} 33... e6 {first. Then the burden would be on
+White to show any way to make progress.}) 34. Kf3 Ra3+ {Another mistake allows
+the white king to cross the fourth rank.} 35. Ke4 Ra4+ {[#]} 36. Kf3 {White,
+understandably, backtracks. Marching the king to b6 could cost him pawns on
+the kingside. How quick might Black's own pawns be? It's hard to judge, and
+Howell believed he could prevail without taking the risk.} ({After} 36. Kd5 $1
+{control of the 5th rank will ensure that Black's pawns won't get rolling.}
+Rxf4 37. Kc6 Rxh4 38. a6 Ra4 39. Kb6 h4 40. a7 Rxa7 41. Kxa7 {with a simple
+win for White.}) 36... Ra3+ 37. e3 Ra4 {[#]} 38. f5+ {Only now does White
+finally relinquish the advantage. Black's king is released from guarding the
+h5 square and can move to the centre. From there's it's much easier to curtail
+the a5 pawn.} Kf7 39. e4 Ra3+ 40. Ke2 Ke8 41. Rd5 Rh3 42. Rd4 Ra3 43. Rd5 Rh3
+44. e5 fxe5 45. Rxe5 Kf7 46. a6 Ra3 47. Re6 Ra5 48. Kd3 Rxf5 49. Rb6 Ra5 50.
+Kc4 e5 51. Kb4 Ra1 52. Kc5 e4 53. Kd4 Ra4+ 54. Ke3 Kg7 55. Rc6 Kh7 56. Rd6 Kg7
+57. Rb6 Kh7 58. Re6 Kg7 59. Rd6 Kh7 60. Kf4 e3+ 61. Kxe3 Rxh4 62. Rd4 Rh3+ 63.
+Kf4 Ra3 64. Rd6 Ra5 65. Rd7+ Kg6 66. Rd6+ Kg7 67. Rd7+ Kg6 68. Ra7 Ra4+ 69. Kf3
+Ra3+ 70. Kg2 h4 71. Ra8 Kg7 72. Kh2 Kh7 73. Kg2 Kg7 74. a7 h3+ 75. Kh2 Kh7 76.
+Kg1 Ra1+ 77. Kh2 Ra3 78. Re8 Rxa7 79. Kxh3 1/2-1/2
+

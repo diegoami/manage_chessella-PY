@@ -1,0 +1,45 @@
+[Event "British chess championships"]
+[Site "?"]
+[Date "2019.08.04"]
+[Round "9"]
+[White "Emms, J."]
+[Black "Haria, R."]
+[Result "0-1"]
+[WhiteElo "2481"]
+[BlackElo "2430"]
+[Annotator "GM Daniel Gormally"]
+[SetUp "1"]
+[FEN "r2qr1k1/1p1n1p1p/2p1pbp1/p7/P2P1B2/2PBR1Q1/1P3PPP/4R1K1 b - - 0 1"]
+[PlyCount "39"]
+[SourceVersionDate "2019.08.07"]
+
+{[#]} 1... Qb6 $2 {Black was already under pressure, but moving away from the
+kingside invites trouble.} (1... Qe7 2. Rf3 Nb6 {would have kept Black fairly
+solid in this Fort Knox set-up.}) 2. h4 $1 {Emms responds thematically,
+creating all kinds of new attacking chances. All of a sudden Black is probably
+already losing.} Bg7 3. h5 Qb3 (3... Nf6 {Allows the sacrificial continuation}
+4. hxg6 hxg6 5. Bxg6 {which is too obvious for White to miss.}) 4. Qh4 (4. hxg6
+hxg6 (4... fxg6 5. Bg5 Qxb2 6. Bc4 $1) 5. Qh4 {is probably not unlike what
+happens in the game, as Black has huge problems down the h-file.}) 4... Bf6 5.
+Qg4 Bg7 6. hxg6 hxg6 7. Rh3 $2 (7. Qh4 $1 {transposing to the line given above,
+intending Rh3 with a mating attack.}) 7... e5 $1 {Ravi is alert and seizes his
+only chance} 8. dxe5 {[#]} Nf8 $2 {Tempting, as this looks like it holds for
+the time being, but without taking on e5 Black is only really playing with his
+queen, which is not enough to create counterplay against the inevitable White
+attack.} ({the only way was to dive into the calculations pool with} 8... Nxe5
+$1 9. Bxe5 (9. Qh4 Nf3+ $1 (9... Nxd3 $2 10. Qh7+ Kf8 11. Bd6+ {leads to
+trouble.}) 10. gxf3 Rxe1+ 11. Kg2 Qe6 {should hold comfortably for Black}) 9...
+Rxe5 (9... Bxe5 $2 10. Rxe5 Rxe5 11. Bxg6 $1 $18) 10. Rxe5 Bxe5 11. Bxg6 $1 Kf8
+$1 {the only move, where Black can escape into a bad, but possibly holdable
+position, although after} 12. Re3 {White retains a huge advantage.}) 9. Qh4 (9.
+Qg3 $1 {with the simple plan of Bh6 followed by mate down the h-file, was
+perhaps even stronger.} Qxb2 10. Bc4 b5 11. axb5 cxb5 12. Bh6 $3) 9... Qxa4 10.
+b3 $1 Qxb3 11. Bh6 Rxe5 12. Bxg7 Rh5 13. Qf6 ({another option was} 13. Qd4 Ne6
+(13... Rxh3 14. gxh3 Qd5 15. Qxd5 cxd5 16. Be5 {admittedly presents some
+technical issues for White}) 14. Rxe6 $18) 13... Nh7 {[#]} 14. Qe7 $4 {This
+was move 29 and Emms cracks here completely in the time scramble.} (14. Qf4 $1
+Rxh3 15. gxh3 Kxg7 16. Bc4 {was still completely winning.} Qxc3 17. Qxf7+ Kh6
+18. Qf4+ Ng5 19. Qh4+ Kg7 20. Re7+ Kf8 21. Qxg5 $18) 14... Rxh3 15. gxh3 Kxg7
+16. Bxg6 {desperation} Nf6 17. Bc2 Qxc2 18. Kh1 Qf5 19. Rg1+ Kh8 20. Qe3 Qe4+
+0-1
+

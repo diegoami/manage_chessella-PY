@@ -1,0 +1,177 @@
+[Event "FIDE World Cup 2019"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Xiong, Jeffery"]
+[Site "Khanty-Mansiysk"]
+[Round "4.1"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.09.20"]
+[WhiteElo "2730"]
+[BlackElo "2707"]
+[PlyCount "83"]
+
+1. c4 {} c5 2. Nf3 Nc6 3. Nc3 Nf6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nc7 7. 0-0 g6 8. Na4 {A34: Symmetrical English: 2 Nc3,
+lines with ...d5} (8. d3 Bg7 9. Be3 Ne6 10. Rc1 0-0 11. Qd2 Rb8 12. Bh6 b6 13. Bxg7 Kxg7 14. Ng5 Nxg5 15. Qxg5 Bb7 16. Rfd1 e5 17. Qxd8 Rfxd8 {1/2-1/2 (59)
+Harika,D (2492)-Sebag,M (2476) chess.com INT 2019} )Ne6 9. d3 Ncd4 10. Be3 {White is better.} Bg7 11. Rc1 0-0 $146 ({Predecessor:} 11... Qd6 12. Nd2 f5 13. Nb3 Nxb3 14. Qxb3 Nd4 15. Bxd4 cxd4 16. Nc5 Qb6 17. Qa4+ Kf7 18. Bd5+ e6 19. Bxb7 {1-0 (19) Endzelins,L-Nikkanen,P Finland 1977} )12. Nxc5 Nf5 13. Nxe6 Bxe6 14. Bc5 Bxb2 15. Rb1 Bg7 16. Rxb7 (16. Qd2 $11 )Qc8 $1 $17 {} 17. Rb5 a6 $1 {} 18. Ra5 Bc3 19. Qa4 {[#]} Rb8 $1 20. d4 Bxa5 21. Qxa5 Rb2 22. e4 Nd6 23. Qa3 Rxa2 24. Qe3 f6 25. Rc1 (25. h4 $11 {
+remains equal.} )Qd7 (25... Qb7 $17 26. d5 Bd7 )26. d5 $14 Bh3 27. Bxh3 $1 Qxh3 28. Bxd6 (28. Nd4 $5 {} )exd6 29. Nd4 Rc8 30. Nc6 {
+Strongly threatening Ne7+.} Re8 31. Nd4 Rc8 32. Rb1 Ra4 (32... Qd7 $15 )33. Ne6 $1 $11 {Hoping for Qa7!} Rac4 34. Re1 g5 $2 {[#]} (34... a5 $1 $11 {and Black
+has nothing to worry.} )35. e5 $1 $40 { Black is in
+trouble.} dxe5 $2 (35... Qh5 )36. Qa7 {} Qh6 37. d6 Rc1 38. Rxc1 {White mates.} Rxc1+ 39. Kg2 g4 40. h4 gxh3+ 41. Kh2 Qg6 42. Qa8+ {
+Accuracy: White = 61%, Black = 40%.} 1-0
+
+[Event "FIDE World Cup 2019"]
+[White "Xiong, Jeffery"]
+[Black "Duda, Jan-Krzysztof"]
+[Site "Khanty-Mansiysk"]
+[Round "4.2"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.09.21"]
+[WhiteElo "2707"]
+[BlackElo "2730"]
+[PlyCount "81"]
+
+1. e4 {} e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 d5 5. Bb3 Bb4+ 6. Bd2 {C24: Bishop's Opening: 2...Nf6} Bxd2+ 7. Qxd2 Qd6 8. Qg5 {White has an edge.} Nbd7 9. exd5 cxd5 10. d4 e4 11. Ne5 0-0 12. Nc3 Nb6 13. f3 {[#]} Be6 $146 14. 0-0-0 Rac8 15. Qd2 a6 16. Rhe1 exf3 17. gxf3 Nfd7 18. h4 f6 ({Black should try} 18... Kh8 $14 )19. Nd3 $16 Bf7 20. Qf4 Rc6 (20... Qxf4+ $16 21. Nxf4 Rfe8 22. Ncxd5 (22. Bxd5 Nxd5 23. Ncxd5 Kf8 $16 )Nxd5 23. Bxd5 (23. Nxd5 Kf8 $16 )Bxd5 24. Nxd5 Kf7 25. Rxe8 Rxe8 )21. Qxd6 $18 Rxd6 {[#]} 22. Nc5 $1 Rb8 23. Re7 {Black must now prevent N3e4!} Kf8 24. Rde1 Nxc5 (24... f5 {was worth a try.} 25. a4 Bg8 )25. dxc5 Rd7 26. Rxf7+ $1 Kxf7 27. cxb6 Rbd8 28. Nxd5 Kg6 $2 {[#]} (28... Rxd5 {is a better chance.} 29. Rd1 {
+ Pin} (29. Bxd5+ Rxd5 30. a4 Rd4 $11 )Ke6 )29. c4 {White is
+clearly winning.} Kh5 30. Re4 Rc8 {intending ...Rxd5.} 31. Kd2 g5 32. Ke3 Rf7 33. hxg5 fxg5 34. Ba4 Kh6 35. Be8 Rf8 36. Bd7 Rb8 37. b4 Kg6 38. Nc7 Rfd8 39. Re7 Rh8 40. Be8+ Kf6 41. Nd5+ {Accuracy: White = 81%, Black = 43%.} 1-0
+
+[Event "FIDE World Cup 2019"]
+[White "Xiong, Jeffery"]
+[Black "Duda, Jan-Krzysztof"]
+[Site "Khanty-Mansiysk"]
+[Round "4.3"]
+[Annotator "RC"]
+[Result "1-0"]
+[Date "2019.09.22"]
+[WhiteElo "2707"]
+[BlackElo "2730"]
+[PlyCount "111"]
+[TimeControl "1500+10"]
+
+1. e4 {[%emt 0:0:0]} e5 {[%emt 0:0:0]} 2. Nf3 {[%emt 0:0:0]} Nf6 {[%emt 0:0:0]
+} 3. d4 {[%emt 0:0:0]} Nxe4 {[%emt 0:0:0]} 4. Bd3 {[%emt 0:0:0]} d5 {[%emt 0:0:0]} 5. Nxe5 {[%emt 0:0:2]} Nd7 {[%emt 0:0:0]} 6. Nxd7 {[%emt 0:0:4]} Bxd7 {[%emt 0:0:0]} 7. 0-0 {[%emt 0:0:3]} Be7 {[%emt 0:0:1]
+} 8. Bf4 {[%emt 0:5:2]} 0-0 {[%emt 0:2:12]} 9. Nd2 {[%emt 0:0:0]} Nxd2 {[%emt 0:1:8]} 10. Qxd2 {[%emt 0:0:2]} Bg4 {[%emt 0:0:14]} 11. Rfe1 {[%emt 0:0:47]} c6 {[%emt 0:1:6]} 12. Re3 {[%emt 0:1:45]} Bf6 {[%emt 0:0:8]
+} 13. Rae1 {[%emt 0:0:37]} Qd7 {[%emt 0:0:12]} 14. h3 {[%emt 0:0:0]} Bf5 {[%emt 0:0:47]} 15. Bxf5 {[%emt 0:2:30]} Qxf5 {[%emt 0:0:2]} 16. Bd6 {[%emt 0:0:1]} Bg5 {[%emt 0:5:0]} 17. Bxf8 {[%emt 0:0:3]} Bxe3 {[%emt 0:0:2]
+} 18. Rxe3 {[%emt 0:0:27]} Rxf8 {[%emt 0:0:2]} 19. Re7 {[%emt 0:0:12]
+} Rb8 {[%emt 0:0:2]} 20. Qd3 {[%emt 0:3:0]} Qxd3 {[%emt 0:0:0]} 21. cxd3 {[%emt 0:0:2]} Kf8 {[%emt 0:0:7]} 22. Rc7 {[%emt 0:0:1]} a5 {[%emt 0:1:36]} 23. g3 {[%emt 0:1:43]} a4 {[%emt 0:7:31]} 24. a3 {[%emt 0:0:0]} g5 {[%emt 0:3:56]} 25. Kf1 {[%emt 0:2:9]} h5 {[%emt 0:0:5]} 26. h4 {[%emt 0:1:2]} gxh4 {[%emt 0:0:19]} 27. gxh4 {[%emt 0:0:2]} Kg7 {[%emt 0:0:0]} 28. Kg2 {[%emt 0:0:25]} Kg6 {[%emt 0:0:48]} 29. Kg3 {[%emt 0:0:42]} f6 {[%emt 0:0:3]} 30. Kf4 {[%emt 0:0:11]} b5 {[%emt 0:0:4]} 31. Rxc6 {[%emt 0:0:4]
+} b4 {[%emt 0:0:1]} 32. Ra6 {[%emt 0:1:3]} bxa3 {[%emt 0:0:0]} 33. bxa3 {[%emt 0:0:1]} Rb3 {[%emt 0:0:5]} 34. Rxa4 {[%emt 0:0:2]} Rxd3 {[%emt 0:0:1]} 35. f3 {[%emt 0:0:8]} Kf7 {[%emt 0:0:8]} 36. Ra7+ {[%emt 0:0:23]
+} Kg6 {[%emt 0:0:7]} 37. Ra4 {[%emt 0:0:14]} Kf7 {[%emt 0:0:0]} 38. Kg3 {[%emt 0:0:15]} Ke6 {[%emt 0:0:17]} 39. Kf2 {[%emt 0:0:35]} Rd2+ {[%emt 0:0:51]} 40. Ke3 {[%emt 0:0:10]} Rh2 {[%emt 0:0:2]} 41. Ra6+ {[%emt 0:0:3]
+} Ke7 {[%emt 0:0:9]} 42. a4 {[%emt 0:1:2]} Rxh4 {[%emt 0:0:0]} 43. a5 {[%emt 0:0:2]} Rh1 {[%emt 0:0:34]} 44. Ra8 {[%emt 0:0:44]} Kd7 {[%emt 0:2:34]} 45. a6 {[%emt 0:0:11]} Kc7 {[%emt 0:0:40]} 46. Rf8 {[%emt 0:0:0]} Ra1 {[%emt 0:0:24]} 47. Rxf6 {[%emt 0:0:2]} h4 {[%emt 0:0:6]} 48. Kf4 {[%emt 0:0:13]} h3 {[%emt 0:0:14]} 49. Rh6 {[%emt 0:0:32]} Rh1 {[%emt 0:0:0]} 50. Ke5 {[%emt 0:0:22]} Kb8 {[%emt 0:0:12]} 51. Rh7 {[%emt 0:0:11]} h2 {[%emt 0:0:5]} 52. Kxd5 {[%emt 0:0:2]} Rf1 {[%emt 0:0:21]} 53. Rxh2 {[%emt 0:0:3]
+} Rxf3 {[%emt 0:0:1]} 54. Rb2+ {[%emt 0:0:14]} Ka7 {[%emt 0:0:0]} 55. Ra2 {[%emt 0:0:19]} Rf8 {[%emt 0:0:9]} 56. Ke4 1-0
+
+[Event "FIDE World Cup 2019"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Xiong, Jeffery"]
+[Site "Khanty-Mansiysk"]
+[Round "4.4"]
+[Annotator "RC"]
+[Result "1-0"]
+[Date "2019.09.22"]
+[WhiteElo "2730"]
+[BlackElo "2707"]
+[PlyCount "87"]
+[TimeControl "1500+10"]
+
+1. a3 {[%emt 0:0:0]} g6 {[%emt 0:0:0]} 2. e4 {[%emt 0:0:0]} c5 {[%emt 0:0:0]} 3. Nc3 {[%emt 0:0:0]} Bg7 {[%emt 0:0:2]} 4. Bc4 {[%emt 0:0:0]} Nc6 {[%emt 0:0:8]} 5. d3 {[%emt 0:0:0]} Nf6 {[%emt 0:2:6]} 6. Bg5 {[%emt 0:0:47]
+} d6 {[%emt 0:0:15]} 7. Nge2 {[%emt 0:0:17]} Bd7 {[%emt 0:0:0]} 8. Qd2 {[%emt 0:0:31]} h6 {[%emt 0:0:10]} 9. Bh4 {[%emt 0:0:1]} Nd4 {[%emt 0:2:1]
+} 10. Nxd4 {[%emt 0:0:23]} cxd4 {[%emt 0:0:2]} 11. Ne2 {[%emt 0:0:4]
+} Qb6 {[%emt 0:1:45]} 12. Bb3 {[%emt 0:0:36]} Rc8 {[%emt 0:0:0]} 13. h3 {[%emt 0:0:26]} a5 {[%emt 0:1:5]} 14. a4 {[%emt 0:0:2]} Bc6 {[%emt 0:0:22]
+} 15. 0-0 {[%emt 0:0:23]} Nd7 {[%emt 0:0:5]} 16. f4 {[%emt 0:0:0]} Nc5 {[%emt 0:0:2]} 17. Bc4 {[%emt 0:0:1]} Nxa4 {[%emt 0:2:43]} 18. e5 {[%emt 0:0:32]} Nxb2 {[%emt 0:0:53]} 19. Bb3 {[%emt 0:1:7]} a4 {[%emt 0:0:0]} 20. Ba2 {[%emt 0:0:1]} Qc5 {[%emt 0:0:38]} 21. Bf2 {[%emt 0:3:11]} dxe5 {[%emt 0:2:44]} 22. fxe5 {[%emt 0:0:1]} Bxe5 {[%emt 0:0:2]} 23. Bxf7+ {[%emt 0:0:3]} Kd7 {[%emt 0:0:2]} 24. Nf4 {[%emt 0:0:55]} Rcf8 {[%emt 0:0:0]} 25. Be6+ {[%emt 0:4:19]} Ke8 {[%emt 0:1:16]} 26. Nxg6 {[%emt 0:1:0]
+} Rf6 {[%emt 0:0:21]} 27. Nxe5 {[%emt 0:0:38]} Qxe5 {[%emt 0:1:58]} 28. Rae1 {[%emt 0:0:51]} Qd6 {[%emt 0:0:2]} 29. Qa5 {[%emt 0:0:51]} Rhf8 {[%emt 0:0:0]} 30. Qh5+ {[%emt 0:3:34]} Kd8 {[%emt 0:0:2]} 31. Qa5+ {[%emt 0:0:1]
+} Ke8 {[%emt 0:0:1]} 32. Qa8+ {[%emt 0:0:2]} Qd8 {[%emt 0:0:2]} 33. Qxd8+ {[%emt 0:0:2]} Kxd8 {[%emt 0:0:2]} 34. Bxd4 {[%emt 0:0:3]} Rxf1+ {[%emt 0:0:22]
+} 35. Rxf1 {[%emt 0:0:2]} Rxf1+ {[%emt 0:0:3]} 36. Kxf1 {[%emt 0:0:1]
+} a3 {[%emt 0:0:2]} 37. Bc5 {[%emt 0:1:59]} Nd1 {[%emt 0:0:0]} 38. g4 {[%emt 0:0:56]} Ba4 {[%emt 0:1:52]} 39. Ke1 {[%emt 0:2:55]} Bxc2 {[%emt 0:0:9]} 40. Kd2 {[%emt 0:0:9]} Ba4 {[%emt 0:0:16]} 41. h4 {[%emt 0:0:0]} Ke8 {[%emt 0:1:28]} 42. g5 {[%emt 0:0:24]} hxg5 {[%emt 0:0:4]} 43. hxg5 {[%emt 0:0:31]} Kf8 {[%emt 0:0:12]} 44. Bd4 {[%emt 0:0:5]} 1-0
+
+[Event "FIDE World Cup 2019"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Xiong, Jeffery"]
+[Site "Khanty-Mansiysk"]
+[Round "4.5"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.09.22"]
+[WhiteElo "2730"]
+[BlackElo "2707"]
+[PlyCount "73"]
+
+1. e4 {} c6 2. d4 d5 3. e5 Bf5 4. Be3 e6 5. Nd2 Ne7 6. c3 {
+B12: Caro-Kann: Advance Variation} (6. f4 Nd7 7. Ngf3 Qb6 8. Nb3 a5 9. a4 f6 10. Be2 Ng6 11. 0-0 Be7 12. c4 fxe5 13. c5 {1-0 (68) Zvjaginsev,V (2633)-Turov,
+M (2600) Yaroslavl 2018} )Bg6 7. f4 (7. h4 $5 {} h5 8. Nh3 $14 )h5 8. Ngf3 {The position is equal.} h4 9. Be2 Nd7 10. Bf2 $146 ({
+Predecessor:} 10. 0-0 Nf5 11. Bf2 Be7 12. b4 Bh5 13. Bd3 Bg6 14. Qe2 Nh6 15. Bxg6 fxg6 {1-0 (46) Giaccio,A (2517)-Garcia Palermo,C (2467) Pinamar 2002} )Nf5 11. Nb3 Be7 12. 0-0 (12. Bd3 {with more complications.} a5 13. a4 Qb6 14. Bc2 0-0-0 15. 0-0 )Bh5 13. Ne1 Bxe2 14. Qxe2 g5 15. Nd3 Rg8 16. fxg5 Bxg5 17. a4 Bh6 18. Be1 Be3+ 19. Kh1 {Threatens to win with Rxf5!} Qg5 20. Na5 (20. Rf3 $11 {keeps the balance.} )0-0-0 $17 21. b4 Rg7 $36 {
+Keeping White busy.} 22. Ra2 Rh8 (22... f6 $17 {And now ...fxe5 would win.} 23. exf6 Qxf6 )23. Rf3 (23. h3 $1 $11 {was the only way to keep the balance.} )f6 24. b5 (24. Nb3 $17 )cxb5 $19 25. axb5 (25. Rb2 $142 )fxe5 26. dxe5 Bb6 (26... Rf7 $1 $19 {is more deadly.} 27. h3 Rhf8 )27. Nb3 $17 Qg4 (27... Rgh7 $19 {( -> ...Ng3+!)} 28. h3 Ng3+ 29. Bxg3 hxg3 )28. Nf4 $2 { [#]} (28. h3 $1 $15 Ng3+ 29. Bxg3 hxg3 30. Nd4 )Re8 $2 (28... Ng3+ $1 $19 {} 29. Bxg3 (29. hxg3 hxg3+ )hxg3 )29. c4 $2 { [#]} (29. Nd4 $11 )dxc4 $2 (29... Nxe5 $1 $19 {} 30. Rf1 (30. Qxe5 $2 Qxf3 31. Nd2 Qe3 $19 )Ne3 )30. Qxc4+ $2 (30. h3 $1 $14 cxb3 31. hxg4 bxa2 32. Qxa2 )Kb8 31. Qe2 {[#]} Ne3 ({Black should play} 31... Rh8 $1 $17 {Hoping for ...Ng3+!} 32. Nh3 Nc5 33. Nxc5 Bxc5 )32. Bf2 Nxg2 $2 {
+} (32... Nd5 $11 {and Black stays safe.} 33. Bxb6 N7xb6 34. Nxd5 exd5 )33. Bxb6 $18 Nxf4 $2 ({Wrong is} 33... axb6 $2 34. Qd3 $18 (34. Qxg2 Nxe5 35. Rf1 Qxg2+ 36. Rxg2 Rxg2 $18 ))(33... Nxb6 34. Qxg2 Nc4 )34. Bxa7+ Kc8 35. Qc4+ { Double Attack} Nc5 36. Rf1 {Black must now prevent Bb6.} Reg8 37. Bxc5 {Accuracy: White = 40%, Black = 31%.} 1-0
+
+[Event "FIDE World Cup 2019"]
+[White "Xiong, Jeffery"]
+[Black "Duda, Jan-Krzysztof"]
+[Site "Khanty-Mansiysk"]
+[Round "4.6"]
+[Annotator "RC"]
+[Result "1-0"]
+[Date "2019.09.22"]
+[WhiteElo "2707"]
+[BlackElo "2730"]
+[PlyCount "145"]
+[TimeControl "600+10"]
+
+1. e4 {[%emt 0:0:0]} e5 {[%emt 0:0:0]} 2. Nf3 {[%emt 0:0:0]} Nf6 {[%emt 0:0:0]
+} 3. Nxe5 {[%emt 0:0:0]} d6 {[%emt 0:0:0]} 4. Nf3 {[%emt 0:0:0]} Nxe4 {[%emt 0:0:0]} 5. d3 {[%emt 0:0:0]} Nf6 {[%emt 0:0:0]} 6. d4 {[%emt 0:0:1]} Be7 {[%emt 0:0:3]} 7. Bd3 {[%emt 0:0:3]} 0-0 {[%emt 0:0:0]} 8. 0-0 {[%emt 0:0:3]} c5 {[%emt 0:0:5]} 9. Nc3 {[%emt 0:0:11]} Bg4 {[%emt 0:0:22]
+} 10. h3 {[%emt 0:1:7]} Bh5 {[%emt 0:0:2]} 11. g4 {[%emt 0:0:0]} Bg6 {[%emt 0:0:3]} 12. d5 {[%emt 0:0:7]} Nfd7 {[%emt 0:0:43]} 13. Re1 {[%emt 0:0:37]} Na6 {[%emt 0:0:10]} 14. Bf4 {[%emt 0:1:2]} Nc7 {[%emt 0:0:20]
+} 15. Bxg6 {[%emt 0:0:22]} fxg6 {[%emt 0:0:17]} 16. Bg3 {[%emt 0:0:1]
+} Rf7 {[%emt 0:0:11]} 17. Ne4 {[%emt 0:0:17]} Nb6 {[%emt 0:0:0]} 18. Ne5 {[%emt 0:3:11]} dxe5 {[%emt 0:0:21]} 19. d6 {[%emt 0:0:2]} Ncd5 {[%emt 0:0:22]} 20. dxe7 {[%emt 0:0:3]} Qxe7 {[%emt 0:0:2]} 21. Qd3 {[%emt 0:0:52]
+} c4 {[%emt 0:0:29]} 22. Qd2 {[%emt 0:0:1]} Raf8 {[%emt 0:0:0]} 23. Rad1 {[%emt 0:0:5]} Nf4 {[%emt 0:0:29]} 24. Kh2 {[%emt 0:0:40]} h6 {[%emt 0:1:31]} 25. Qa5 {[%emt 0:0:21]} Nc8 {[%emt 0:0:8]} 26. Qb5 {[%emt 0:0:16]
+} Qc7 {[%emt 0:0:43]} 27. Nc3 {[%emt 0:0:4]} g5 {[%emt 0:0:0]} 28. Qxe5 {[%emt 0:0:7]} Qb6 {[%emt 0:0:16]} 29. Qb5 {[%emt 0:0:9]} Qg6 {[%emt 0:0:26]} 30. Ne4 {[%emt 0:0:20]} Rc7 {[%emt 0:2:3]} 31. Rd4 {[%emt 0:0:2]
+} a6 {[%emt 0:0:18]} 32. Qa5 {[%emt 0:0:22]} Qc6 {[%emt 0:0:0]} 33. Qd2 {[%emt 0:2:1]} Re7 {[%emt 0:0:47]} 34. Bxf4 {[%emt 0:0:56]} Rxf4 {[%emt 0:0:9]} 35. Rd8+ {[%emt 0:0:2]} Rf8 {[%emt 0:0:6]} 36. Ng3 {[%emt 0:0:23]
+} Rxe1 {[%emt 0:0:21]} 37. Rxf8+ {[%emt 0:0:1]} Kxf8 {[%emt 0:0:0]} 38. Qxe1 {[%emt 0:0:1]} Ne7 {[%emt 0:0:4]} 39. Qe5 {[%emt 0:0:23]} Qd5 {[%emt 0:0:56]} 40. Qc7 {[%emt 0:0:4]} Ng6 {[%emt 0:0:30]} 41. Nf5 {[%emt 0:0:26]
+} Qe5+ {[%emt 0:0:5]} 42. Qxe5 {[%emt 0:0:2]} Nxe5 {[%emt 0:0:0]} 43. Kg3 {[%emt 0:0:1]} g6 {[%emt 0:1:13]} 44. Nd6 {[%emt 0:0:4]} b5 {[%emt 0:0:1]} 45. f4 {[%emt 0:0:1]} gxf4+ {[%emt 0:0:9]} 46. Kxf4 {[%emt 0:0:2]
+} Nc6 {[%emt 0:0:1]} 47. c3 {[%emt 0:0:13]} Ke7 {[%emt 0:0:0]} 48. Ne4 {[%emt 0:0:12]} a5 {[%emt 0:0:12]} 49. a4 {[%emt 0:0:39]} bxa4 {[%emt 0:0:3]} 50. Nd2 {[%emt 0:0:26]} Kd6 {[%emt 0:0:1]} 51. Nxc4+ {[%emt 0:0:1]
+} Kc5 {[%emt 0:0:0]} 52. Ne3 {[%emt 0:0:38]} Na7 {[%emt 0:0:0]} 53. g5 {[%emt 0:0:1]} hxg5+ {[%emt 0:0:43]} 54. Kxg5 {[%emt 0:0:2]} Nb5 {[%emt 0:0:1]} 55. Kxg6 {[%emt 0:0:2]} Nxc3 {[%emt 0:0:29]} 56. h4 {[%emt 0:0:2]
+} Ne2 {[%emt 0:0:5]} 57. Kg5 {[%emt 0:0:23]} Ng3 {[%emt 0:0:0]} 58. Nf5 {[%emt 0:0:14]} Kb4 {[%emt 0:1:2]} 59. Nxg3 {[%emt 0:0:2]} Kb3 {[%emt 0:0:1]} 60. h5 {[%emt 0:0:2]} Kxb2 {[%emt 0:0:1]} 61. h6 {[%emt 0:0:1]
+} a3 {[%emt 0:0:1]} 62. h7 {[%emt 0:0:1]} a2 {[%emt 0:0:2]} 63. h8=Q+ {[%emt 0:0:2]} Kb1 {[%emt 0:0:1]} 64. Qb8+ {[%emt 0:0:4]} Kc2 {[%emt 0:0:12]
+} 65. Qc7+ {[%emt 0:0:2]} Kb2 {[%emt 0:0:20]} 66. Qb6+ {[%emt 0:0:4]
+} Kc2 {[%emt 0:0:6]} 67. Qc5+ {[%emt 0:0:20]} Kb2 {[%emt 0:0:0]} 68. Qd4+ {[%emt 0:0:8]} Kb1 {[%emt 0:0:2]} 69. Ne4 {[%emt 0:0:51]} a1=Q {[%emt 0:0:11]} 70. Nd2+ {[%emt 0:0:3]} Ka2 {[%emt 0:0:2]} 71. Qa4+ {[%emt 0:0:2]
+} Kb2 {[%emt 0:0:2]} 72. Nc4+ {[%emt 0:0:2]} Kb1 {[%emt 0:0:0]} 73. Qd1+ {[%emt 0:0:2]} 1-0
+
+[Event "FIDE World Cup 2019"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Xiong, Jeffery"]
+[Site "Khanty-Mansiysk"]
+[Round "4.7"]
+[Annotator "RC"]
+[Result "1/2-1/2"]
+[Date "2019.09.22"]
+[WhiteElo "2730"]
+[BlackElo "2707"]
+[PlyCount "58"]
+[TimeControl "300+3"]
+
+1. e4 {[%emt 0:0:0]} c6 {[%emt 0:0:0]} 2. d4 {[%emt 0:0:0]} d5 {[%emt 0:0:0]} 3. e5 {[%emt 0:0:1]} Bf5 {[%emt 0:0:1]} 4. Be3 {[%emt 0:0:1]} e6 {[%emt 0:0:1]} 5. Nd2 {[%emt 0:0:2]} Ne7 {[%emt 0:0:2]} 6. c3 {[%emt 0:0:0]} Nd7 {[%emt 0:0:1]} 7. f4 {[%emt 0:0:12]} Qb6 {[%emt 0:0:2]} 8. Nb3 {[%emt 0:0:47]} a5 {[%emt 0:0:1]} 9. Qd2 {[%emt 0:0:22]} Be4 {[%emt 0:0:0]} 10. Nf3 {[%emt 0:1:17]} Nf5 {[%emt 0:0:24]} 11. Bf2 {[%emt 0:0:2]} a4 {[%emt 0:0:35]} 12. Nc1 {[%emt 0:0:2]} c5 {[%emt 0:0:18]} 13. Bd3 {[%emt 0:0:0]} Bxf3 {[%emt 0:1:15]} 14. gxf3 {[%emt 0:0:4]} g6 {[%emt 0:0:2]} 15. Bxf5 {[%emt 0:0:8]} gxf5 {[%emt 0:0:1]} 16. Rg1 {[%emt 0:0:38]} Be7 {[%emt 0:0:51]
+} 17. Ne2 {[%emt 0:0:19]} c4 {[%emt 0:0:11]} 18. Qc2 {[%emt 0:0:0]} Nf8 {[%emt 0:0:4]} 19. Kd2 {[%emt 0:0:14]} Ng6 {[%emt 0:0:2]} 20. Rab1 {[%emt 0:0:22]} Qc6 {[%emt 0:0:16]} 21. Rg3 {[%emt 0:0:11]} Kd7 {[%emt 0:0:5]
+} 22. a3 {[%emt 0:0:5]} Ra6 {[%emt 0:0:46]} 23. Be3 {[%emt 0:0:0]} Rb6 {[%emt 0:0:1]} 24. Rbg1 {[%emt 0:0:11]} h5 {[%emt 0:0:17]} 25. Kd1 {[%emt 0:0:3]} h4 {[%emt 0:0:3]} 26. R3g2 {[%emt 0:0:2]} Ra6 {[%emt 0:0:5]
+} 27. Bc1 {[%emt 0:0:3]} Raa8 {[%emt 0:0:1]} 28. Rf1 {[%emt 0:0:4]
+} Qc8 {[%emt 0:0:1]} 29. Ng1 {[%emt 0:0:2]} Qf8 {[%emt 0:0:0]} 1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[White "Xiong, Jeffery"]
+[Black "Duda, Jan-Krzysztof"]
+[Site "Khanty-Mansiysk"]
+[Round "4.8"]
+[Annotator "RC"]
+[Result "1-0"]
+[Date "2019.09.22"]
+[WhiteElo "2707"]
+[BlackElo "2730"]
+[PlyCount "63"]
+[TimeControl "300+3"]
+
+1. e4 {[%emt 0:0:0]} Nf6 {[%emt 0:0:0]} 2. e5 {[%emt 0:0:0]} Nd5 {[%emt 0:0:0]
+} 3. c4 {[%emt 0:0:1]} Nb6 {[%emt 0:0:0]} 4. d4 {[%emt 0:0:0]} d6 {[%emt 0:0:1]} 5. f4 {[%emt 0:0:2]} Bf5 {[%emt 0:0:7]} 6. Nc3 {[%emt 0:0:1]
+} e6 {[%emt 0:0:2]} 7. Nf3 {[%emt 0:0:4]} Be7 {[%emt 0:0:4]
+} 8. Be3 {[%emt 0:0:3]} 0-0 {[%emt 0:0:11]} 9. Be2 {[%emt 0:0:2]} dxe5 {[%emt 0:0:2]
+} 10. fxe5 {[%emt 0:0:1]} Nc6 {[%emt 0:0:1]} 11. 0-0 {[%emt 0:0:6]
+} f6 {[%emt 0:0:2]} 12. exf6 {[%emt 0:0:2]} Bxf6 {[%emt 0:0:0]} 13. b3 {[%emt 0:0:2]} Qe7 {[%emt 0:0:5]} 14. Qe1 {[%emt 0:2:15]} Rad8 {[%emt 0:0:4]} 15. Rd1 {[%emt 0:0:3]} Bg4 {[%emt 0:0:54]} 16. Ne4 {[%emt 0:0:3]
+} h6 {[%emt 0:0:30]} 17. Qg3 {[%emt 0:0:20]} Bf5 {[%emt 0:0:0]} 18. Nxf6+ {[%emt 0:0:8]} Rxf6 {[%emt 0:0:1]} 19. Nh4 {[%emt 0:0:16]} Bc2 {[%emt 0:0:23]} 20. Rxf6 {[%emt 0:0:55]} Bxd1 {[%emt 0:0:53]} 21. Rg6 {[%emt 0:0:39]
+} Nxd4 {[%emt 0:0:31]} 22. Bd3 {[%emt 0:0:32]} Ne2+ {[%emt 0:0:0]} 23. Bxe2 {[%emt 0:0:2]} Bxe2 {[%emt 0:0:2]} 24. Bxh6 {[%emt 0:0:0]} Rd1+ {[%emt 0:0:13]} 25. Kf2 {[%emt 0:0:2]} Qf8+ {[%emt 0:0:5]} 26. Nf3 {[%emt 0:0:3]} Rd7 {[%emt 0:0:19]} 27. Kxe2 {[%emt 0:0:2]} Kh7 {[%emt 0:0:3]
+} 28. Ng5+ {[%emt 0:0:14]} Kh8 {[%emt 0:0:4]} 29. Nxe6 {[%emt 0:0:5]
+} Qf5 {[%emt 0:0:2]} 30. Bxg7+ {[%emt 0:0:4]} Kg8 {[%emt 0:0:0]} 31. Bd4+ {[%emt 0:0:2]} Kf7 {[%emt 0:0:2]} 32. Rf6+ {[%emt 0:0:2]
+} 1-0

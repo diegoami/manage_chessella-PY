@@ -1,0 +1,63 @@
+[Event "FIDE Grand Swiss"]
+[Site "IoM"]
+[Date "2019.10.11"]
+[Round "2"]
+[White "Saric, Ivan"]
+[Black "Keymer, Vincent"]
+[Result "1/2-1/2"]
+[ECO "B81"]
+[WhiteElo "2667"]
+[BlackElo "2506"]
+[Annotator "Thorsten Cmiel"]
+[PlyCount "122"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,122,21,19,53,63,108,109,89,37,37,26,73,41,74,61,65,40,40,26,47,26,20,
+20,38,0,12,12,23,7,2,16,7,7,11,-4,10,-70,-59,-93,-75,-167,-72,12,-8,0,3,42,62,
+7,73,83,106,116,78,78,111,111,111,63,110,113,165,122,165,181,181,134,136,134,
+134,134,134,142,138,148,119,120,128,97,174,126,137,147,217,205,205,217,246,235,
+245,191,232,220,221,178,201,118,128,81,76,37,28,30,24,10,1,1,3,8,0,11,2,0,11,
+-2,0,-14,20,-14,-15,-19,-19,-61,-17]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6
+5. Nc3 a6 6. h3 {Currently fashionable.} e6 (6... e5 {In round 5 of the IoM
+tournament Ganguly tried this typical Najdorf move against Magnus Carlsen -
+and lost.}) 7. g4 Nfd7 {On the day of the game this move had already occurred
+in more than 300 games of the ChessBase Online Database. On top level
+Alexander Grischuk played it relatively often in 2018.} 8. Bg2 Be7 9. g5 O-O
+10. h4 Nc6 11. b3 (11. Be3 {is more popular.}) 11... Qb6 12. Nxc6 bxc6 13. Na4
+Qc7 14. Bb2 $146 (14. Be3 Bb7 15. O-O c5 16. c4 f5 {happened in game Demchenko
+(2649) vs Mustafa Yilmaz (2633) in 2017 that ended in a draw.}) 14... e5 15.
+Qd2 Nb6 16. Nxb6 Qxb6 17. O-O-O {[#] Castling to opposite sides indicates the
+will to fight.} f6 $6 {A surprising concept that gives Black some grief.
+Usually, Black does not want to weaken the kingside where White attacks him.} (
+17... a5 {seems to be more natural, e.g.} 18. a4 Bg4 $5 19. f3 Bh5 {and Black
+managed to stop the first attacking wave.}) 18. g6 $5 (18. f3 {keeps the
+status quo and protects the f-pawn from being attacked after the opening of
+the f-file.}) 18... hxg6 19. f4 Bg4 20. Bh3 $5 {Apparently, Saric was in
+attacking mode.} Bxh3 ({The position after} 20... Bxd1 21. Qxd1 f5 $5 22. h5 $5
+{is hard to evaluate. Taking on h3 is more practical.}) 21. Rxh3 exf4 $6 {
+Giving the bishop on b2 more scope.} (21... Rad8) 22. Qxf4 Qa5 23. Rg3 Qh5 24.
+Rdg1 Kh7 {[#] The black queen helps defending.} 25. Kb1 (25. Qf1 $5 Ra7 26.
+Rxg6 Bd8 {Black cannot take on g6:} (26... Qxg6 $2 27. Rxg6 Kxg6 28. Qg1+ {
+winning the rook on a7.}) 27. Qd3) 25... Rfe8 26. Qf1 d5 $5 27. Rxg6 (27. exd5
+Bb4 {was probably Vincent's idea.}) (27. Qg2 $5 {close to being "Alekhine's
+gun" and a powerful set-up.}) 27... Qxg6 28. Rxg6 Kxg6 29. Qf5+ Kf7 30. e5 g6
+31. Qd7 (31. Qf4 {It seems to be more natural to keep an eye on the pawn f6.}
+f5 32. h5 Rg8 33. c4) 31... fxe5 32. Bxe5 Rad8 33. Qb7 (33. Qxc6) 33... Rc8 34.
+Bd6 Rcd8 35. Bc7 Rc8 36. c3 $6 {One should not criticise this move too harshly
+but it weakens White's second rank. Apparently Saric did not want to make any
+committal decisions before reaching the time control.} (36. a4 {was a more
+natural waiting move.}) 36... Rh8 37. Be5 (37. Qxc6 {see previous note.}) 37...
+Rhf8 38. Bd6 Rce8 39. Bg3 (39. Qxc6 Bxd6 40. Qxd6 Re2 {and White seems to have
+serious problems to win, e.g.} 41. Qxd5+ $2 (41. Qxa6 $142) 41... Kg7 $11)
+39... Kg8 40. Qxc6 Bf6 {[#] Time-trouble is over and White is still clearly
+better.} 41. Qxd5+ Kg7 42. h5 gxh5 43. Qxh5 Re4 44. c4 Rd8 45. Qf5 Rd1+ 46. Kc2
+Rdd4 {[#] The engines evaluate this position as clearly better for White.
+However, playing such a position in a practical game is far from easy.} 47. Qh5
+$6 {Here, the queen seems to stand on the sidelines and cannot even give a
+check.} (47. c5 $2 Re2+ 48. Kc1 Re3 $11) 47... Re3 $1 48. Qh2 (48. Bc7 $5)
+48... Rde4 $1 {Now Black has sufficient counterplay and White has to be
+careful.} 49. Bf2 Re2+ 50. Kd1 Bg5 51. Qc7+ Re7 52. Qg3 Rd2+ 53. Kc1 Kg6 54.
+Qxg5+ Kxg5 55. Kxd2 {[#]} Kf5 56. Bc5 Rc7 57. Bb6 Rb7 58. c5 Rg7 59. Kc3 Rg4
+60. b4 Ke6 61. c6 Kd6 {In the second part of the game Vincent defended
+excellently.} 1/2-1/2
+

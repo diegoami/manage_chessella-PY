@@ -1,0 +1,45 @@
+[Event "XXXII Magistral Ciudad Leon 2019"]
+[Site "Leon"]
+[Date "2019.07.07"]
+[Round "2.2"]
+[White "Ivanchuk, Vassily"]
+[Black "Maghsoodloo, Parham"]
+[Result "1/2-1/2"]
+[ECO "B57"]
+[WhiteElo "2684"]
+[BlackElo "2656"]
+[Annotator "TA"]
+[PlyCount "128"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,128,26,22,71,63,70,32,52,16,30,40,50,26,69,42,69,43,55,35,54,50,60,35,
+35,36,38,16,-1,0,30,20,38,33,11,32,27,32,33,31,20,26,54,49,60,51,54,49,100,116,
+100,33,38,5,61,75,81,116,73,97,172,69,160,157,171,139,151,125,145,126,174,173,
+173,142,140,129,108,60,60,23,-27,10,81,-27,-28,-153,-112,-104,-142,-121,-174,
+-116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,
+0,0]} 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Qb6 7. Nxc6
+bxc6 8. O-O g6 9. Qe1 {B57: Classical Sicilian: Sozin with 6...Qb6} (9. Qe2 Ng4
+10. b3 Bg7 11. Bb2 Qa5 12. Qe1 g5 13. Na4 Qxe1 14. Raxe1 Bxb2 15. Nxb2 Ne5 16.
+Be2 a5 17. f3 Rf8 18. Nd3 Nxd3 19. Bxd3 e5 20. Kf2 Ke7 {1/2-1/2 (20) Salgado
+Lopez,I (2624)-Demchenko,A (2679) Germany 2018}) 9... Qc7 10. Bf4 Nh5 $146 ({
+Predecessor:} 10... Nd7 11. Qe3 Bg7 12. Bh6 O-O 13. Bxg7 Kxg7 14. b3 a5 15.
+Rad1 Ba6 16. Bxa6 Rxa6 {1/2-1/2 (64) Antal,G (2562)-Schlosser,P (2571) Austria
+2016}) 11. Bg5 {White is slightly better.} Bg7 12. Rd1 O-O 13. b3 e6 14. Be2
+Nf6 15. Bf4 e5 16. Bg5 $36 {White fights for an advantage.} Be6 17. Bf3 h6 18.
+Bxf6 Bxf6 19. Qd2 Rad8 20. Qxh6 Bg7 21. Qg5 Qa5 22. Qd2 Qc7 23. Rfe1 f5 24. Qg5
+Kh7 25. Qc1 (25. exf5 $14 gxf5 26. Qh5+ Kg8 27. Qg5) 25... Qa5 $11 26. Rd3 d5
+27. exd5 cxd5 28. b4 Qxb4 29. Bxd5 Bxd5 30. Nxd5 Qc5 (30... Qc4 $14 31. Red1 e4
+) 31. c4 $18 {Threatens to win with Qg5.} f4 (31... Rd6 $16 {is a better
+defense.} 32. Qg5 Re6) 32. Re4 Rb8 33. h4 ({Better is} 33. Qc2 $18) 33... Rf7
+34. Qc2 Kh6 35. Rb3 (35. g4 Qc8 36. f3) 35... Rfb7 (35... Rbf8 $16 36. Rb5 Qc8)
+36. Qd1 (36. Re1 Rxb3 37. axb3 a5 38. Ra1) 36... Qc8 37. Kh2 a5 38. g4 a4 39.
+Rh3 $2 (39. Rxb7 $16 Rxb7 40. Kh3) 39... Rb2 $11 40. Qf3 {Strongly threatening
+g5+.} Qc5 41. Kg2 {g5+ is the strong threat.} Rxa2 42. g5+ Kh7 43. h5 Rbb2 $1
+44. hxg6+ Kg8 45. Rxf4 $1 {Ne7+! would kill now.} exf4 46. Nf6+ Bxf6 $1 47.
+Qa8+ Qf8 48. Qd5+ Kg7 49. Rh7+ Kxg6 50. Qe4+ Kxg5 51. Qd5+ {[#]} Be5 $1 52.
+Qxe5+ {[#]} Kg6 $1 53. Qh5+ Kf6 54. Rh6+ {[#]} Qxh6 $1 55. Qxh6+ {Endgame
+KQ-KRR} Ke5 56. Qg5+ {[#]} Kd4 $1 57. Qxf4+ Kc5 58. Qe5+ Kb4 59. Qb5+ {[#]} Kc3
+$1 60. Qe5+ Kb3 61. Qb5+ Kc2 (61... Ka3 $5 62. Qc5+ $8 Kb3 63. Qb6+ Kxc4 64.
+Qe6+ Kd4 $11) 62. Qf5+ Kd1 63. c5 a3 64. c6 {And now Qd3+ would win.} Rxf2+ {
+Accuracy: White = 73%, Black = 61%.} 1/2-1/2
+

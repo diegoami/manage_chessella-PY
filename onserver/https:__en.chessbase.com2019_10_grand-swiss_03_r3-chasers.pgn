@@ -1,0 +1,233 @@
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[White "Adhiban, B.."]
+[Black "Wojtaszek, Radoslaw"]
+[Site "Douglas-Isle of Man"]
+[Round "3.3"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.10.12"]
+[WhiteElo "2639"]
+[BlackElo "2748"]
+[PlyCount "77"]
+
+1. e4 {} c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 Qb6 7. Nc3 Nc6 8. 0-0 {B12: Caro-Kann: Advance
+Variation} Qxb2 9. Qe1 (9. Nb5 $16 {Strongly threatening Nc7+.} Rc8 10. dxc5 )cxd4 $11 10. Bxd4 {White has an edge.} Nxd4 ({Wrong is} 10... Qxc2 $2 11. Rc1 $18 )({But not} 10... Bxc2 $2 11. Nb5 $18 )11. Nxd4 Bb4 12. Rb1 (12. Ndb5 Ba5 13. Rb1 Qxc2 14. Rb3 Ne7 15. Nd6+ Kf8 16. Nxb7 {0-1 (52) Jakovenko,D (2704)
+-Inarkiev,E (2682) Izhevsk 2019} )Bxc3 13. Rxb2 Bxe1 14. Rxe1 b6 $1 15. Nb5 Kf8 16. Rc1 $146 Ne7 17. c4 g5 18. cxd5 exd5 19. Nd6 Be6 20. h4 gxh4 21. Bh5 Rg8 {And now ...Rg5 would win.} 22. Rb4 Rg7 (22... h3 $5 {} 23. g3 a5 $11 )23. Rxh4 Nf5 24. Nxf5 Bxf5 25. Rf4 Rc8 26. Rxc8+ Bxc8 {
+Endgame KRB-KRB} 27. Rf6 Ke7 (27... Bh3 $5 28. g3 Ke7 $15 )28. Rc6 Bg4 29. Bxg4 Rxg4 {KR-KR} 30. Rc7+ Ke6 31. Rxa7 Rb4 32. Kf1 {The position is equal.} Rb2 33. g4 d4 34. f4 d3 {[#] Threatens to win with ...Rb1+.} 35. Ke1 Rb4 36. f5+ Kxe5 {
+...Kf6 is the strong threat.} 37. Rxf7 Rxg4 38. Rxh7 Kxf5 39. Kd2 {Accuracy:
+White = 50%, Black = 69%.} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[White "Grischuk, Alexander"]
+[Black "Oparin, Grigoriy"]
+[Site "Douglas-Isle of Man"]
+[Round "3.6"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.10.12"]
+[WhiteElo "2759"]
+[BlackElo "2654"]
+[PlyCount "147"]
+
+1. e4 {} e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. 0-0 b5 6. Bb3 Bb7 7. d3 Bc5 $146 ({Predecessor:
+} 7... Bd6 8. c3 0-0 9. Bg5 h6 10. Bh4 Be7 {1/2-1/2 (12) Fishbein,A (2465)
+-Greenfeld,A (2520) Beersheba 1991} )8. a4 0-0 9. Bg5 h6 10. Bh4 Be7 11. c3 d6 {C78: Ruy Lopez: Archangelsk and MÃ¶ller Defences} 12. Na3 Nh5 13. Bxe7 Qxe7 {
+White is slightly better.} 14. axb5 axb5 15. Nxb5 Rxa1 $1 16. Qxa1 Nf4 17. Qd1 Ba6 18. c4 Bc8 19. Qd2 Bg4 20. Bd1 f5 21. Ne1 Qg5 22. Kh1 $1 {Strongly
+threatening f3.} fxe4 23. Bxg4 Qxg4 24. dxe4 Ne6 25. Nc3 Ncd4 26. b4 Ng5 (26... Ra8 $11 )27. f3 $16 Qe6 28. Qd3 Qf7 29. Nd5 c6 30. Ne3 Nge6 31. N1c2 Ra8 32. Nxd4 Nxd4 33. Nf5 Nxf5 34. exf5 d5 35. cxd5 Qxd5 (35... cxd5 $16 36. b5 Rb8 )36. Qxd5+ $18 cxd5 { Endgame KR-KR} 37. Rb1 Rb8 38. b5 Rb6 39. g4 Kf7 40. h4 Kf6 41. h5 e4 $2 (41... Kg5 42. Kg2 Kf4 )42. fxe4 Kg5 43. e5 d4 44. e6 d3 45. Kg2 Kxg4 46. e7 Rb8 47. b6 $2 (47. f6 $18 {f7 would kill now.} gxf6 48. Kf2 )Kxf5 $11 48. Kf3 {Black must now prevent Rb4.} (48. Rf1+ {
+with more complications.} Ke6 49. Re1+ Kd7 50. e8=Q+ Rxe8 51. Rxe8 d2 52. b7 )Kf6 $1 49. Ke3 Kxe7 50. Kxd3 {And now Kc4 would win.} Kd6 51. Ke4 {
+Hoping for b7.} Rb7 52. Kf5 Kd5 53. Rd1+ Kc5 54. Rc1+ Kd5 55. Rb1 Kc5 $2 {
+ [#]} (55... Kd6 $11 )56. Ke6 $1 $18 Kc6 57. Rc1+ Kb5 {[#]} 58. Kf5 $1 {} Kb4 59. Kg6 Rxb6+ 60. Kxg7 Re6 61. Rg1 Kc5 {[#]} 62. Rg6 $1 {
+} Kd5 {White mates.} 63. Kxh6 Re8 64. Kg7 Re7+ 65. Kf6 Ra7 66. h6 Ke4 67. Rg4+ Kf3 68. Rg7 Ra6+ 69. Kg5 Ra5+ 70. Kg6 Ra6+ 71. Kh5 Ra5+ 72. Rg5 Ra7 73. Rf5+ Ke4 74. Kg6 {Accuracy: White = 87%, Black = 47%.} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[White "Vitiugov, Nikita"]
+[Black "Motylev, Alexander"]
+[Site "Douglas-Isle of Man"]
+[Round "3.9"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.10.12"]
+[WhiteElo "2732"]
+[BlackElo "2651"]
+[PlyCount "121"]
+
+1. c4 {} e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e4 Bb4 5. d3 d6 6. a3 {A28: English Opening: Four Knights
+Variation} (6. Be2 Bg4 7. a3 Bc5 8. b4 Bb6 9. Be3 Bxf3 10. Bxf3 Nd4 11. Na4 Nxf3+ 12. Qxf3 Bxe3 13. Qxe3 0-0 {1/2-1/2 (36) Carlsen,M (2882)-Giri,A (2779)
+Saint Louis 2019} )Bc5 7. b4 Bb6 8. Na4 {The position is equal.} Bd4 9. Rb1 Bg4 10. Be2 Bxf3 11. Bxf3 0-0 12. 0-0 a6 $146 ({Predecessor:} 12... Nd7 13. Bg4 a5 {0-1 (33) Shahinyan,D (2431)-Andriasian,Z (2609) Yerevan 2014} )13. Bd2 Ba7 14. g3 Nd4 15. Bg2 Nd7 16. Nc3 c6 17. Kh1 a5 18. f4 axb4 19. axb4 Bb6 20. Na4 Ba7 21. f5 f6 22. Be3 Qe7 23. Rf2 b5 24. Nc3 $1 Bb6 25. Qc1 Rfc8 26. Bf1 Kh8 27. g4 Qe8 28. h4 Ra6 29. Kh2 Rca8 30. cxb5 cxb5 31. Nd5 Ra2 ({Black
+should play} 31... Rc8 $14 32. Qb2 Nc6 )32. Nxb6 (32. Rxa2 $16 Rxa2+ 33. Kh3 )Nxb6 33. Qc7 h5 34. Qxb6 {Strongly threatening Rxa2.} Rxf2+ $1 35. Bxf2 Qc8 {And now ...Qc2! would win.} 36. Bxd4 Qc2+ 37. Bg2 exd4 $4 {} (37... Qxb1 $11 {and Black is okay.} 38. Qc6 (38. Qxb5 exd4 39. Qc6 Rg8 $17 )Rg8 )38. Rg1 Qf2 39. Rf1 (39. gxh5 {leads to mate.} Ra2 40. Qd8+ Kh7 41. Kh3 Qxg1 42. Qg8+ Kxg8 43. Kg4 Rxg2+ 44. Kh3 Rh2# )(39. Qxb5 Qxh4+ 40. Bh3 hxg4 $11 )Qxh4+ 40. Kg1 hxg4 {( -> ...g3)} 41. Qxd4 g3 {
+} 42. Ra1 Rc8 (42... Ra4 {keeps fighting.} )43. Qb2 $1 $18 (43. Qxd6 {gets
+mated.} Qh2+ 44. Kf1 Rc2 45. Qf8+ Kh7 46. Qh8+ Kxh8 47. Ra8+ Kh7 48. Rh8+ Kxh8 49. Ke1 Rxg2 50. Kf1 Qh1# )(43. Kf1 {is a self mate.} Qf4+ 44. Kg1 Rc2 45. Rd1 {[#]} Qh4 $1 {} 46. Kf1 Qg4 $1 {} 47. Kg1 Qe2 48. Bh3 Qh2+ 49. Kf1 Qxh3+ 50. Ke1 Qh1+ 51. Qg1 Qxg1# )Qf4 {intending ...Qe3+.} 44. Re1 Qh6 45. Qe2 Rc3 46. Qg4 Qd2 $2 (46... Rxd3 {is tougher.} 47. Qh3 Kh7 )47. Qxg3 {White is clearly winning.} Rxd3 48. Qh4+ Kg8 49. Ra1 {Threatening mate
+with Ra8+.} Qe3+ 50. Kh2 {Intending Ra8+ and mate.} Kf7 51. Ra8 Ke7 52. Rb8 {
+White wants to mate with Rb7+.} Kd7 53. Rb7+ Kc6 54. Rxg7 Kb6 55. Rg3 Qe1 56. Rh3 Rxh3+ 57. Kxh3 Qxb4 58. Qxf6 Qd2 59. e5 Qe3+ 60. Kg4 Qd4+ 61. Kh5 {
+Accuracy: White = 63%, Black = 56%.} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[White "Vidit, Santosh Gujrathi"]
+[Black "Chigaev, Maksim"]
+[Site "Douglas-Isle of Man"]
+[Round "3.11"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.10.12"]
+[WhiteElo "2718"]
+[BlackElo "2644"]
+[PlyCount "77"]
+
+1. c4 {} Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 0-0 5. d4 Nc6 6. e3 {E61: King's Indian: Early deviations for White, including Smyslov
+System} (6. Nf3 d5 7. cxd5 Nxd5 8. 0-0 e5 9. Nxd5 e4 10. Nd2 Qxd5 11. e3 f5 12. b3 Be6 13. Ba3 Rfd8 14. Rc1 Qd7 15. Qc2 Rac8 16. Rfd1 {0-1 (91) Duda,J (2737)
+-Grischuk,A (2766) chess.com INT 2018} )e5 7. d5 Nb8 8. d6 {White is
+slightly better.} cxd6 9. Qxd6 $146 ({Predecessor:} 9. Nge2 d5 10. Nxd5 d6 11. Nec3 Nc6 12. 0-0 Be6 13. Nxf6+ Bxf6 {1-0 (52) Flores,D (2579)-Kayumov,S (2505)
+Doha 2016} )Nc6 10. Nge2 Ne8 11. Qd3 f5 12. e4 Nc7 13. 0-0 Ne6 14. f4 Nb4 (14... exf4 $11 15. Nxf4 d6 )15. Qd1 ({White should play} 15. Qd6 $16 Nc6 16. Be3 )fxe4 $14 16. Bxe4 d5 ({Black should try} 16... d6 $14 )17. Nxd5 $16 Nxd5 18. Bxd5 ({Much weaker is} 18. Qxd5 $6 Qb6+ 19. Kh1 Rd8 $11 )Qb6+ 19. Kg2 Kh8 20. fxe5 Rxf1 21. Qxf1 {[#] Threatens to win with Qf7.} Bd7 22. Qf2 Qb4 (22... Qxf2+ $16 {was necessary.} 23. Kxf2 Bxe5 )23. Nf4 $18 Rf8 {With the
+idea ...g5.} 24. Qe2 (24. Qxa7 Nxf4+ 25. gxf4 Bc6 $16 )Nd4 {[#]} (24... Qe7 $142 25. Be3 Nxf4+ 26. Bxf4 (26. gxf4 g5 $18 )g5 )25. Qe4 $1 {
+ White wants to mate with Nxg6+!} Nf5 {Black hopes to continue
+with ...Ne7.} 26. Nd3 ({Not} 26. Bxb7 Ne3+ 27. Bxe3 (27. Qxe3 Qxb7+ 28. Kg1 g5 $16 )Qxb2+ 28. Bf2 Bf5 $16 )Qa4 {...Qc2+ is the strong threat.} 27. b3 Qa5 28. Bf4 Ne7 29. Bxb7 Bf5 30. Qe3 Qc3 31. Rd1 Qc2+ 32. Rd2 {White is
+clearly winning.} Qb1 {intending ...g5.} 33. Nf2 g5 34. Bxg5 Ng6 35. Rd8 Rxd8 36. Bxd8 Nxe5 37. Bc7 Qb2 38. Bxe5 Bxe5 39. Qf3 {Accuracy: White = 64%, Black
+= 44%.} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[White "Piorun, Kacper"]
+[Black "Sargissian, Gabriel"]
+[Site "Douglas-Isle of Man"]
+[Round "3.14"]
+[Annotator "RC"]
+[Result "0-1"]
+[Date "2019.10.12"]
+[WhiteElo "2643"]
+[BlackElo "2690"]
+[PlyCount "82"]
+[TimeControl "60"]
+
+1. d4 {[%emt 0:0:0]} Nf6 {[%emt 0:0:0]} 2. c4 {[%emt 0:0:0]} e6 {[%emt 0:0:0]} 3. Nc3 {[%emt 0:0:0]} Bb4 {[%emt 0:0:17]} 4. Bd2 {[%emt 0:0:21]} 0-0 {[%emt 0:1:17]} 5. e3 {[%emt 0:0:36]} d5 {[%emt 0:0:47]} 6. Nf3 {[%emt 0:0:20]
+} b6 {[%emt 0:2:36]} 7. cxd5 {[%emt 0:0:56]} exd5 {[%emt 0:0:0]} 8. Rc1 {[%emt 0:0:46]} Bb7 {[%emt 0:0:54]} 9. Bd3 {[%emt 0:0:16]} Be7 {[%emt 0:3:39]
+} 10. 0-0 {[%emt 0:0:20]} c5 {[%emt 0:0:40]} 11. Ne5 {[%emt 0:0:0]} Nc6 {[%emt 0:0:23]} 12. Be1 {[%emt 0:0:10]} cxd4 {[%emt 0:8:21]} 13. Nxc6 {[%emt 0:1:0]} Bxc6 {[%emt 0:0:6]} 14. Ne2 {[%emt 0:14:9]} Bb7 {[%emt 0:0:38]
+} 15. Nxd4 {[%emt 0:0:9]} Ne4 {[%emt 0:4:38]} 16. Nf5 {[%emt 0:24:2]
+} Bf6 {[%emt 0:11:20]} 17. Bb4 {[%emt 0:4:10]} Re8 {[%emt 0:0:0]} 18. Bb5 {[%emt 0:2:20]} a5 {[%emt 0:21:13]} 19. Ba3 {[%emt 0:15:40]} Re6 {[%emt 0:1:13]} 20. Nd4 {[%emt 0:9:51]} Bxd4 {[%emt 0:0:12]} 21. Qxd4 {[%emt 0:0:5]
+} h5 {[%emt 0:8:23]} 22. Rfd1 {[%emt 0:10:8]} Qh4 {[%emt 0:0:0]} 23. Rc2 {[%emt 0:3:40]} Rc8 {[%emt 0:2:43]} 24. Re2 {[%emt 0:13:51]} Qg5 {[%emt 0:2:34]} 25. f3 {[%emt 0:1:35]} Nc5 {[%emt 0:10:21]} 26. Rc1 {[%emt 0:0:0]} Bc6 {[%emt 0:0:45]} 27. Bxc6 {[%emt 0:1:11]} Rexc6 {[%emt 0:0:30]} 28. Rd1 {[%emt 0:1:2]} b5 {[%emt 0:1:12]} 29. b3 {[%emt 0:2:53]} Ne6 {[%emt 0:0:19]
+} 30. Qd3 {[%emt 0:0:47]} d4 {[%emt 0:3:0]} 31. f4 {[%emt 0:0:0]} Qg4 {[%emt 0:0:15]} 32. h3 {[%emt 0:0:43]} Qg3 {[%emt 0:0:24]} 33. Qe4 {[%emt 0:0:35]} Rc3 {[%emt 0:4:8]} 34. Bd6 {[%emt 0:0:34]} Rxe3 {[%emt 0:1:47]
+} 35. Rxe3 {[%emt 0:0:4]} dxe3 {[%emt 0:0:45]} 36. Rf1 {[%emt 0:0:17]
+} Nd4 {[%emt 0:1:28]} 37. Be5 {[%emt 0:1:3]} e2 {[%emt 0:0:0]} 38. Rb1 {[%emt 0:0:8]} e1=Q+ {[%emt 0:1:18]} 39. Rxe1 {[%emt 0:0:5]} Nf3+ {[%emt 0:0:8]} 40. Qxf3 {[%emt 0:0:4]} Qxe1+ {[%emt 0:0:5]} 41. Kh2 {[%emt 0:50:4]} h4 {[%emt 0:50:36]} 0-1
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[White "Nguyen, Ngoc Truong Son"]
+[Black "McShane, Luke J"]
+[Site "Douglas-Isle of Man"]
+[Round "3.16"]
+[Annotator "RC"]
+[Result "0-1"]
+[Date "2019.10.12"]
+[WhiteElo "2638"]
+[BlackElo "2682"]
+[PlyCount "66"]
+[TimeControl "60"]
+
+1. e4 {[%emt 0:0:0]} e5 {[%emt 0:0:0]} 2. Nf3 {[%emt 0:0:0]} Nc6 {[%emt 0:0:6]
+} 3. Bb5 {[%emt 0:0:6]} Nf6 {[%emt 0:0:5]} 4. d3 {[%emt 0:0:0]} Bc5 {[%emt 0:0:6]} 5. 0-0 {[%emt 0:0:30]} Nd4 {[%emt 0:1:2]} 6. Nxd4 {[%emt 0:1:49]} Bxd4 {[%emt 0:0:5]} 7. c3 {[%emt 0:0:11]} Bb6 {[%emt 0:0:0]} 8. Ba4 {[%emt 0:1:41]} 0-0 {[%emt 0:2:29]} 9. Bg5 {[%emt 0:1:39]} h6 {[%emt 0:4:49]
+} 10. Bh4 {[%emt 0:3:19]} d6 {[%emt 0:0:17]} 11. Nd2 {[%emt 0:0:0]} g5 {[%emt 0:6:37]} 12. Bg3 {[%emt 0:0:35]} h5 {[%emt 0:0:24]} 13. h3 {[%emt 0:6:1]} h4 {[%emt 0:2:31]} 14. Bh2 {[%emt 0:2:16]} g4 {[%emt 0:0:0]} 15. Kh1 {[%emt 0:6:37]} Kh8 {[%emt 0:13:51]} 16. f4 {[%emt 0:23:19]} gxh3 {[%emt 0:3:24]} 17. gxh3 {[%emt 0:7:14]} Bxh3 {[%emt 0:2:38]} 18. Rf3 {[%emt 0:2:36]
+} Bg4 {[%emt 0:2:21]} 19. fxe5 {[%emt 0:2:33]} Nh5 {[%emt 0:0:0]} 20. Qf1 {[%emt 0:2:43]} Qg5 {[%emt 0:5:18]} 21. Nc4 {[%emt 0:3:1]} f5 {[%emt 0:2:47]} 22. Nxb6 {[%emt 0:15:42]} axb6 {[%emt 0:5:9]} 23. Bd7 {[%emt 0:0:14]
+} Bxf3+ {[%emt 0:1:47]} 24. Qxf3 {[%emt 0:0:4]} fxe4 {[%emt 0:0:0]} 25. Qg4 {[%emt 0:3:26]} Ng3+ {[%emt 0:3:53]} 26. Bxg3 {[%emt 0:1:43]
+} Qxg4 {[%emt 0:0:16]} 27. Bxg4 {[%emt 0:0:0]} hxg3 {[%emt 0:0:28]} 28. exd6 {[%emt 0:0:16]} Rf4 {[%emt 0:8:28]} 29. Be6 {[%emt 0:0:18]} cxd6 {[%emt 0:1:17]
+} 30. dxe4 {[%emt 0:2:31]} Rxe4 {[%emt 0:1:35]} 31. Bd5 {[%emt 0:0:4]
+} Re2 {[%emt 0:0:30]} 32. b4 {[%emt 0:0:57]} Rf8 {[%emt 0:0:0]} 33. Rd1 {[%emt 0:1:29]} Rf4 {[%emt 0:5:39]} 0-1
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[White "Moiseenko, Alexander"]
+[Black "Alekseenko, Kirill"]
+[Site "Douglas-Isle of Man"]
+[Round "3.18"]
+[Annotator "RC"]
+[Result "0-1"]
+[Date "2019.10.12"]
+[WhiteElo "2635"]
+[BlackElo "2674"]
+[PlyCount "70"]
+[TimeControl "60"]
+
+1. d4 {[%emt 0:0:0]} Nf6 {[%emt 0:0:0]} 2. c4 {[%emt 0:0:0]} e6 {[%emt 0:0:0]} 3. Nf3 {[%emt 0:0:0]} d5 {[%emt 0:0:7]} 4. Nc3 {[%emt 0:0:6]} Be7 {[%emt 0:0:7]} 5. Bf4 {[%emt 0:1:42]} 0-0 {[%emt 0:0:17]} 6. e3 {[%emt 0:0:0]} c5 {[%emt 0:0:10]} 7. dxc5 {[%emt 0:2:9]} Bxc5 {[%emt 0:0:15]} 8. cxd5 {[%emt 0:1:8]} Nxd5 {[%emt 0:0:32]} 9. Nxd5 {[%emt 0:0:4]} exd5 {[%emt 0:0:7]
+} 10. Bd3 {[%emt 0:0:37]} Bb4+ {[%emt 0:0:33]} 11. Nd2 {[%emt 0:0:10]
+} d4 {[%emt 0:0:35]} 12. e4 {[%emt 0:1:1]} Na6 {[%emt 0:0:40]
+} 13. 0-0 {[%emt 0:2:10]} Nc5 {[%emt 0:0:24]} 14. Nb3 {[%emt 0:5:41]} Qf6 {[%emt 0:4:47]
+} 15. Bg3 {[%emt 0:2:22]} Nxd3 {[%emt 0:10:14]} 16. Qxd3 {[%emt 0:1:15]
+} Rd8 {[%emt 0:0:4]} 17. Rfd1 {[%emt 0:28:32]} Bg4 {[%emt 0:0:0]} 18. f3 {[%emt 0:1:32]} Be6 {[%emt 0:3:40]} 19. Qb5 {[%emt 0:24:56]} a5 {[%emt 0:23:29]
+} 20. Rac1 {[%emt 0:18:32]} d3 {[%emt 0:3:10]} 21. Be5 {[%emt 0:0:0]} Qh6 {[%emt 0:1:43]} 22. Qb6 {[%emt 0:3:36]} d2 {[%emt 0:4:46]} 23. Rc7 {[%emt 0:0:38]} Ra6 {[%emt 0:6:40]} 24. Qf2 {[%emt 0:0:43]} Bxb3 {[%emt 0:0:16]
+} 25. axb3 {[%emt 0:0:5]} Rc6 {[%emt 0:0:10]} 26. Rxc6 {[%emt 0:5:2]
+} Qxc6 {[%emt 0:0:12]} 27. Kh1 {[%emt 0:0:41]} Qc2 {[%emt 0:0:0]} 28. Qe2 {[%emt 0:0:33]} Qxb3 {[%emt 0:0:31]} 29. h3 {[%emt 0:0:46]} h6 {[%emt 0:0:20]} 30. f4 {[%emt 0:1:46]} Rd3 {[%emt 0:2:55]} 31. Kh2 {[%emt 0:0:0]} f6 {[%emt 0:4:18]} 32. Bc3 {[%emt 0:0:4]} Bxc3 {[%emt 0:3:43]} 33. Qxd3 {[%emt 0:1:56]} Qxd1 {[%emt 0:0:6]} 34. bxc3 {[%emt 0:0:47]} Qe1 {[%emt 0:1:20]
+} 35. Qc4+ {[%emt 0:2:3]} Kh7 {[%emt 0:0:9]} 0-1
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[White "Cheparinov, Ivan"]
+[Black "Jobava, Baadur"]
+[Site "Douglas-Isle of Man"]
+[Round "3.20"]
+[Annotator "RC"]
+[Result "1-0"]
+[Date "2019.10.12"]
+[WhiteElo "2670"]
+[BlackElo "2617"]
+[PlyCount "91"]
+[TimeControl "60"]
+
+1. d4 {[%emt 0:3:39]} Nf6 {[%emt 0:2:14]} 2. c4 {[%emt 0:0:7]} e6 {[%emt 0:0:0]} 3. Nf3 {[%emt 0:0:6]} b6 {[%emt 0:0:5]} 4. g3 {[%emt 0:0:8]} Bb7 {[%emt 0:0:5]} 5. Bg2 {[%emt 0:0:6]} Bb4+ {[%emt 0:0:3]} 6. Bd2 {[%emt 0:0:0]} Bxd2+ {[%emt 0:0:7]} 7. Qxd2 {[%emt 0:0:11]} d6 {[%emt 0:0:6]} 8. 0-0 {[%emt 0:6:11]} 0-0 {[%emt 0:1:30]} 9. Qf4 {[%emt 0:13:38]} c5 {[%emt 0:0:0]} 10. Rd1 {[%emt 0:2:13]} Qe7 {[%emt 0:0:34]} 11. dxc5 {[%emt 0:7:18]} dxc5 {[%emt 0:0:5]} 12. Ne5 {[%emt 0:0:5]} Bxg2 {[%emt 0:0:16]} 13. Kxg2 {[%emt 0:0:4]
+} Qb7+ {[%emt 0:9:23]} 14. Qf3 {[%emt 0:1:2]} Qxf3+ {[%emt 0:0:0]} 15. Kxf3 {[%emt 0:0:8]} Rc8 {[%emt 0:0:16]} 16. Nc3 {[%emt 0:5:23]} Nc6 {[%emt 0:0:58]} 17. Nxc6 {[%emt 0:0:7]} Rxc6 {[%emt 0:0:5]} 18. e4 {[%emt 0:7:12]
+} e5 {[%emt 0:5:17]} 19. Rd3 {[%emt 0:5:47]} Kf8 {[%emt 0:0:0]} 20. Rad1 {[%emt 0:2:2]} Ke7 {[%emt 0:0:48]} 21. g4 {[%emt 0:5:11]} h6 {[%emt 0:4:18]} 22. h4 {[%emt 0:1:31]} a6 {[%emt 0:4:57]} 23. Nd5+ {[%emt 0:0:0]} Nxd5 {[%emt 0:7:58]} 24. Rxd5 {[%emt 0:0:16]} Ke6 {[%emt 0:0:1]} 25. Rd7 {[%emt 0:1:1]} b5 {[%emt 0:0:3]} 26. Rb7 {[%emt 0:1:36]} bxc4 {[%emt 0:0:40]
+} 27. Rdd7 {[%emt 0:9:16]} Rf8 {[%emt 0:0:12]} 28. Ke3 {[%emt 0:4:13]
+} Kf6 {[%emt 0:2:36]} 29. a4 {[%emt 0:1:8]} g5 {[%emt 0:5:53]
+} 30. h5 {[%emt 0:0:36]} a5 {[%emt 0:0:49]} 31. f3 {[%emt 0:4:24]} Ke6 {[%emt 0:8:22]
+} 32. Kd2 {[%emt 0:1:11]} Rd6+ {[%emt 0:0:53]} 33. Rxd6+ {[%emt 0:0:5]
+} Kxd6 {[%emt 0:0:2]} 34. Rb6+ {[%emt 0:2:19]} Ke7 {[%emt 0:0:0]} 35. Kc3 {[%emt 0:0:25]} Rd8 {[%emt 0:0:43]} 36. Kxc4 {[%emt 0:0:39]} f6 {[%emt 0:1:35]} 37. Kxc5 {[%emt 0:3:54]} Rd3 {[%emt 0:0:13]} 38. Rb5 {[%emt 0:7:43]
+} Rxf3 {[%emt 0:0:17]} 39. Rxa5 {[%emt 0:0:5]} Re3 {[%emt 0:0:0]} 40. Ra7+ {[%emt 0:3:17]} Ke6 {[%emt 0:0:8]} 41. a5 {[%emt 0:13:23]} Rxe4 {[%emt 0:0:43]} 42. a6 {[%emt 0:0:59]} Rxg4 {[%emt 0:2:33]} 43. b4 {[%emt 0:6:54]
+} Rg2 {[%emt 0:5:8]} 44. Ra8 {[%emt 0:0:21]} Ra2 {[%emt 0:0:0]} 45. a7 {[%emt 0:0:30]} Kf5 {[%emt 0:0:5]} 46. b5 {[%emt 0:0:52]} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[White "Fedoseev, Vladimir"]
+[Black "Abdusattorov, Nodirbek"]
+[Site "Douglas-Isle of Man"]
+[Round "3.21"]
+[Annotator "RC"]
+[Result "1-0"]
+[Date "2019.10.12"]
+[WhiteElo "2664"]
+[BlackElo "2608"]
+[PlyCount "129"]
+[TimeControl "60"]
+
+1. d4 {[%emt 0:0:3]} Nf6 {[%emt 0:0:0]} 2. c4 {[%emt 0:0:11]} e6 {[%emt 0:0:0]} 3. Nf3 {[%emt 0:0:10]} d5 {[%emt 0:0:20]} 4. Nc3 {[%emt 0:3:57]} Be7 {[%emt 0:0:12]} 5. Bf4 {[%emt 0:0:31]} 0-0 {[%emt 0:0:15]} 6. e3 {[%emt 0:0:0]} Nbd7 {[%emt 0:0:23]} 7. cxd5 {[%emt 0:5:45]} Nxd5 {[%emt 0:1:59]} 8. Nxd5 {[%emt 0:2:2]} exd5 {[%emt 0:0:6]} 9. Bd3 {[%emt 0:0:9]} c5 {[%emt 0:8:48]
+} 10. dxc5 {[%emt 0:10:19]} Nxc5 {[%emt 0:0:10]} 11. 0-0 {[%emt 0:0:41]
+} Nxd3 {[%emt 0:11:10]} 12. Qxd3 {[%emt 0:0:8]} Bg4 {[%emt 0:0:0]} 13. Rac1 {[%emt 0:10:11]} Bxf3 {[%emt 0:1:2]} 14. gxf3 {[%emt 0:0:0]} Bf6 {[%emt 0:12:16]} 15. Rc7 {[%emt 0:9:7]} d4 {[%emt 0:0:57]} 16. e4 {[%emt 0:12:21]
+} b6 {[%emt 0:2:52]} 17. Rd1 {[%emt 0:10:5]} Re8 {[%emt 0:0:0]} 18. Qc4 {[%emt 0:7:42]} Re7 {[%emt 0:2:39]} 19. Rxe7 {[%emt 0:2:9]} Qxe7 {[%emt 0:0:10]} 20. e5 {[%emt 0:1:7]} Bg5 {[%emt 0:0:50]} 21. Rxd4 {[%emt 0:9:41]
+} Bxf4 {[%emt 0:1:12]} 22. Rxf4 {[%emt 0:0:5]} Rf8 {[%emt 0:0:0]} 23. Re4 {[%emt 0:3:41]} Qg5+ {[%emt 0:0:40]} 24. Kf1 {[%emt 0:0:44]} Qf5 {[%emt 0:3:53]} 25. Qd3 {[%emt 0:3:47]} g6 {[%emt 0:1:42]} 26. f4 {[%emt 0:3:48]
+} Rc8 {[%emt 0:1:54]} 27. h3 {[%emt 0:2:27]} Rc1+ {[%emt 0:0:0]} 28. Kg2 {[%emt 0:0:39]} Qc8 {[%emt 0:0:12]} 29. Rd4 {[%emt 0:4:7]} Qc6+ {[%emt 0:0:49]} 30. Qe4 {[%emt 0:0:7]} Qxe4+ {[%emt 0:0:20]} 31. Rxe4 {[%emt 0:0:6]} Rc2 {[%emt 0:0:14]} 32. Rb4 {[%emt 0:1:28]} f6 {[%emt 0:0:0]} 33. a4 {[%emt 0:3:35]} Kf7 {[%emt 0:1:21]} 34. Kg3 {[%emt 0:0:38]} Ke6 {[%emt 0:0:56]} 35. Rb5 {[%emt 0:0:22]} fxe5 {[%emt 0:1:24]} 36. Rxe5+ {[%emt 0:1:11]
+} Kf6 {[%emt 0:0:22]} 37. b4 {[%emt 0:0:30]} Rc3+ {[%emt 0:0:0]} 38. f3 {[%emt 0:0:30]} Ra3 {[%emt 0:1:27]} 39. a5 {[%emt 0:0:9]} bxa5 {[%emt 0:0:14]} 40. bxa5 {[%emt 0:0:28]} Ra1 {[%emt 0:0:40]} 41. Rc5 {[%emt 0:50:12]
+} Rg1+ {[%emt 0:51:24]} 42. Kf2 {[%emt 0:1:48]} Ra1 {[%emt 0:0:0]} 43. h4 {[%emt 0:0:17]} h6 {[%emt 0:9:29]} 44. Kg2 {[%emt 0:0:0]} Ra2+ {[%emt 0:0:0]} 45. Kg3 {[%emt 0:0:0]} Ra1 {[%emt 0:0:0]} 46. h5 {[%emt 0:0:0]} gxh5 {[%emt 0:0:0]} 47. Rxh5 {[%emt 0:0:0]} Kg6 {[%emt 0:0:0]} 48. Rc5 {[%emt 0:0:0]} Rg1+ {[%emt 0:0:0]} 49. Kf2 {[%emt 0:0:0]} Ra1 {[%emt 0:0:0]
+} 50. Rc6+ {[%emt 0:0:0]} Kf5 {[%emt 0:0:0]} 51. Rxh6 {[%emt 0:0:0]
+} Kxf4 {[%emt 0:0:0]} 52. Rf6+ {[%emt 0:0:0]} Ke5 {[%emt 0:0:0]} 53. Ra6 {[%emt 0:0:0]} Kf4 {[%emt 0:0:0]} 54. Ke2 {[%emt 0:2:57]} Ra2+ {[%emt 0:0:0]} 55. Kd3 {[%emt 0:2:13]} Kxf3 {[%emt 0:0:0]} 56. Rxa7 {[%emt 0:0:0]
+} Kf4 {[%emt 0:4:17]} 57. Kd4 {[%emt 0:0:0]} Kf5 {[%emt 0:0:0]} 58. Ra6 {[%emt 0:0:0]} Rd2+ {[%emt 0:0:0]} 59. Kc5 {[%emt 0:0:0]} Ra2 {[%emt 0:0:0]} 60. Kd5 {[%emt 0:0:0]} Rd2+ {[%emt 0:0:0]} 61. Kc6 {[%emt 0:14:19]
+} Ke6 {[%emt 0:5:45]} 62. Kc7+ {[%emt 0:5:15]} Ke7 {[%emt 0:0:0]} 63. Rc6 {[%emt 0:0:0]} Rd7+ {[%emt 0:1:1]} 64. Kb8 {[%emt 0:0:0]} Rd8+ {[%emt 0:2:51]} 65. Kb7 {[%emt 0:0:0]} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[White "Vovk, Andriy"]
+[Black "Maghsoodloo, Parham"]
+[Site "Douglas-Isle of Man"]
+[Round "3.22"]
+[Annotator "RC"]
+[Result "0-1"]
+[Date "2019.10.12"]
+[WhiteElo "2618"]
+[BlackElo "2664"]
+[PlyCount "130"]
+[TimeControl "60"]
+
+1. e4 {[%emt 0:0:0]} e6 {[%emt 0:0:0]} 2. d4 {[%emt 0:1:20]} d5 {[%emt 0:0:0]} 3. Nd2 {[%emt 0:1:25]} c5 {[%emt 0:0:52]} 4. exd5 {[%emt 0:3:23]} Qxd5 {[%emt 0:0:9]} 5. dxc5 {[%emt 0:3:19]} Qxc5 {[%emt 0:0:9]} 6. Ngf3 {[%emt 0:1:44]
+} Nf6 {[%emt 0:0:23]} 7. Bd3 {[%emt 0:1:56]} Be7 {[%emt 0:0:0]} 8. 0-0 {[%emt 0:2:40]} 0-0 {[%emt 0:0:24]} 9. Qe2 {[%emt 0:4:45]} Qc7 {[%emt 0:0:8]
+} 10. Nd4 {[%emt 0:6:41]} a6 {[%emt 0:10:37]} 11. Ne4 {[%emt 0:0:0]} Re8 {[%emt 0:24:25]} 12. Re1 {[%emt 0:11:56]} Bd7 {[%emt 0:11:6]} 13. Bg5 {[%emt 0:2:47]} Nxe4 {[%emt 0:1:36]} 14. Qxe4 {[%emt 0:3:42]} g6 {[%emt 0:0:7]
+} 15. Bxe7 {[%emt 0:1:15]} Rxe7 {[%emt 0:0:6]} 16. Qh4 {[%emt 0:5:8]
+} Nc6 {[%emt 0:1:45]} 17. Nf3 {[%emt 0:6:2]} Rae8 {[%emt 0:0:0]} 18. Re3 {[%emt 0:4:6]} f5 {[%emt 0:4:5]} 19. Qc4 {[%emt 0:17:1]} b5 {[%emt 0:8:17]
+} 20. Qb3 {[%emt 0:2:57]} Na5 {[%emt 0:1:39]} 21. Qa3 {[%emt 0:0:0]} e5 {[%emt 0:0:13]} 22. Rae1 {[%emt 0:0:20]} e4 {[%emt 0:7:54]} 23. Nd4 {[%emt 0:1:0]} Qb6 {[%emt 0:10:3]} 24. c3 {[%emt 0:1:41]} Be6 {[%emt 0:0:0]} 25. Bf1 {[%emt 0:2:51]} Bc4 {[%emt 0:4:8]} 26. b4 {[%emt 0:1:29]} Nb7 {[%emt 0:0:6]} 27. Bxc4+ {[%emt 0:1:30]} bxc4 {[%emt 0:0:5]} 28. f3 {[%emt 0:3:5]
+} Nd6 {[%emt 0:0:46]} 29. fxe4 {[%emt 0:1:22]} Nxe4 {[%emt 0:0:0]} 30. Qb2 {[%emt 0:0:56]} h5 {[%emt 0:2:32]} 31. a4 {[%emt 0:0:26]} Kg7 {[%emt 0:7:57]} 32. a5 {[%emt 0:0:28]} Qd6 {[%emt 0:0:5]} 33. b5 {[%emt 0:1:4]
+} axb5 {[%emt 0:1:36]} 34. Nxb5 {[%emt 0:1:59]} Qa6 {[%emt 0:0:0]} 35. Nd4 {[%emt 0:0:33]} Re5 {[%emt 0:3:8]} 36. Qb6 {[%emt 0:3:46]} Qxa5 {[%emt 0:0:8]} 37. Qb7+ {[%emt 0:0:26]} R8e7 {[%emt 0:0:39]} 38. Qc8 {[%emt 0:0:18]
+} Qc5 {[%emt 0:3:0]} 39. Qxc5 {[%emt 0:0:58]} Rxc5 {[%emt 0:0:0]} 40. Ra1 {[%emt 0:0:21]} Rcc7 {[%emt 0:0:17]} 41. h4 {[%emt 0:2:30]} Ra7 {[%emt 0:7:3]} 42. Rd1 {[%emt 0:6:21]} Red7 {[%emt 0:5:3]} 43. Rb1 {[%emt 0:3:29]
+} Rdb7 {[%emt 0:1:10]} 44. Rbe1 {[%emt 0:0:35]} Ra3 {[%emt 0:0:0]} 45. Ne6+ {[%emt 0:11:27]} Kh6 {[%emt 0:2:40]} 46. Rd1 {[%emt 0:4:6]} Re7 {[%emt 0:3:17]} 47. Ng5 {[%emt 0:13:34]} Rxc3 {[%emt 0:3:20]} 48. Rxc3 {[%emt 0:0:30]
+} Nxc3 {[%emt 0:0:6]} 49. Rd8 {[%emt 0:0:2]} Ne4 {[%emt 0:0:0]} 50. Rh8+ {[%emt 0:0:17]} Kg7 {[%emt 0:0:11]} 51. Rc8 {[%emt 0:0:3]} Nxg5 {[%emt 0:2:55]} 52. hxg5 {[%emt 0:0:6]} Re4 {[%emt 0:0:1]} 53. Rc7+ {[%emt 0:0:35]
+} Kf8 {[%emt 0:0:8]} 54. Rc6 {[%emt 0:0:30]} Kf7 {[%emt 0:0:0]} 55. Rf6+ {[%emt 0:1:11]} Kg7 {[%emt 0:0:6]} 56. Rc6 {[%emt 0:0:5]} Rg4 {[%emt 0:0:3]} 57. Rc7+ {[%emt 0:0:35]} Kf8 {[%emt 0:0:5]} 58. Kh2 {[%emt 0:0:16]
+} Rxg5 {[%emt 0:0:23]} 59. Rxc4 {[%emt 0:0:5]} Kg7 {[%emt 0:0:0]} 60. Rc8 {[%emt 0:0:31]} Rg4 {[%emt 0:0:7]} 61. Rc7+ {[%emt 0:15:43]} Kh6 {[%emt 0:15:6]} 62. Rc6 {[%emt 0:0:3]} Kg5 {[%emt 0:1:7]} 63. Ra6 {[%emt 0:0:36]
+} Re4 {[%emt 0:0:6]} 64. Rb6 {[%emt 0:0:43]} Re3 {[%emt 0:0:0]} 65. Ra6 {[%emt 0:4:24]} f4 {[%emt 0:0:6]} 0-1
+

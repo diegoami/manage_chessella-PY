@@ -1,0 +1,41 @@
+[Event "6th Shamkir Chess 2019"]
+[Site "Shamkir"]
+[Date "2019.04.04"]
+[Round "5.5"]
+[White "Navara, David"]
+[Black "Ding, Liren"]
+[Result "1-0"]
+[ECO "D49"]
+[WhiteElo "2739"]
+[BlackElo "2812"]
+[Annotator "Karsten Müller"]
+[SetUp "1"]
+[FEN "8/3k1p2/5p1b/7P/1R6/5KP1/5P2/2n5 b - - 0 38"]
+[PlyCount "14"]
+[EventDate "2019.??.??"]
+[SourceTitle "1032_41"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+38... Ke6 {The duel rook against bishop and knight is often fascinating and
+full of hidden details. In the diagram position White can use the bad position
+of Black's knight.} {[%tqu "En","White to play and win","","","b4b6","",4,
+"b4b8","gewinnt ebenfalls, ist aber weniger klar:",3,"b4e4","",2,"f3e4","",0,
+"De","Weiß zieht und gewinnt","","","b4b6","",4,"b4b8","gewinnt ebenfalls,
+ist aber weniger klar:",3,"b4e4","",2,"f3e4","",0]} 39. Rb6+ $5 {Good
+technique!} (39. Rb8 {also wins, but is less clear:} Nd3 40. Rh8 Bg5 41. Re8+
+Kd7 42. Rg8 Ke7 43. Ke2 Nc1+ 44. Kf1 Nd3 45. f3 $18) ({Even} 39. Re4+ $6 Kf5
+40. Rd4 $16 {offers practical winning chances.}) ({But not} 39. Ke4 $2 f5+ 40.
+Kd4 Kf6 41. Rb1 Ne2+ 42. Kd3 Nc1+ $11) 39... Kf5 (39... Ke7 {does not help:}
+40. Ke4 Ne2 41. Rb2 Nc3+ 42. Kd4 Nd1 43. Re2+ Kf8 44. Kd3 f5 45. Kc2 $18) 40.
+Rb5+ {The second "zwischenzug" decides.} Ke6 41. Ke4 Ne2 (41... f5+ 42. Rxf5
+Nb3 (42... Ne2 43. Rc5 $18) 43. Re5+ Kf6 44. g4 Nd2+ 45. Kd5 {[%csl Gd2,Gd5]}
+Bf8 46. g5+ Kg7 47. Re8 Bb4 48. f4 Nf3 49. Re3 Nh4 50. Rb3 Bd2 51. Ke4 $18) 42.
+Rb6+ Ke7 43. Kd3 Nc1+ (43... Ng1 44. f4 Nf3 45. Rb2 f5 46. Rf2 Ng1 47. Ke3 Kf6
+48. Rh2 Kg7 49. Rh1 $18) 44. Kc4 {[%csl Gc1,Gc4][%cal Gc4b3,Gc4d3] The king
+closes in on the knight.} Ne2 (44... Bd2 45. Rb2 Bh6 46. f4 Ke6 47. Rc2 Kf5 48.
+Rxc1 Kg4 49. Kd5 Kxg3 (49... Kxh5 50. Rc8 Kg6 51. Kd6 $18) 50. Ke4 Kg4 51. Rg1+
+Kxh5 52. Kf5 $18) 45. Rb1 (45. Rb1 Kf8 46. Re1 Nxg3 47. fxg3 Kg7 48. Kd4 Bg5
+49. Ke4 Kh6 50. Kf5 Kg7 51. g4 Kh6 52. Rh1 Kg7 53. h6+ Bxh6 54. Rxh6 Kxh6 55.
+Kxf6 Kh7 56. Kxf7 Kh6 57. Kf6 Kh7 58. g5 Kg8 59. Kg6 $1 $18) 1-0
+

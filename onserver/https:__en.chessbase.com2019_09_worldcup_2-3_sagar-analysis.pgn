@@ -1,0 +1,194 @@
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.15"]
+[Round "2.3"]
+[White "Safarli, Eltaj"]
+[Black "Nihal Sarin"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2593"]
+[BlackElo "2610"]
+[Annotator "Sagar Shah"]
+[PlyCount "121"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "1500+10"]
+
+1. e4 {0} e5 {0} 2. Nf3 {0} Nc6 {0} 3. Bc4 {0} Bc5 {0} 4. c3 {0 No Evans
+Gambit this time!} Nf6 {0} 5. b4 $5 {0 Safarli remembers the magic formula! b4
+has to be played. This is not as popular as d3 or d4 but has been played many
+times before.} Be7 {87} (5... Bb6 {is another possibility.}) 6. d3 {5} O-O {32}
+7. O-O {3} d5 {51} 8. exd5 {3} Nxd5 {1} 9. Re1 {5} Bg4 {15} (9... Bf6 {Looked
+like a solid way to continue.} 10. b5 Na5 11. Nxe5 Nxc4 12. dxc4 Nb6 $15) 10.
+h3 {17} Bh5 {15} 11. b5 {2} Na5 {55} 12. Rxe5 {4} Nf6 {79} (12... Nxc4 13. Rxh5
+(13. dxc4 Nf6 14. Qxd8 Bxd8 15. Nbd2 $16)) 13. Nbd2 {706 Black has lost a pawn
+but in return he has excellent compensation. White's position is a bit
+overstretched.} Bd6 {128} 14. Re1 {8} Re8 $5 {78 A very interesting move and
+not the first move that comes to mind. Usually you want to connect your rooks
+with Qd7 and then challenge on the open file. But it turns out that ...Re8 is
+a pretty good move.} (14... Qd7 $5) 15. g4 {257 Somehow it felt like White was
+taking too much of a liberty with this move. His king is also weakened.} Bg6 {
+36} 16. d4 {87} Nxc4 {151} 17. Nxc4 Qd7 (17... Rxe1+ $1 18. Qxe1 Qd7 19. Nce5
+Qxb5 20. c4 Qa4 $1 $11) 18. Nce5 {165} (18. a4 Nxg4 $1 $17) 18... Qxb5 {
+54 Black has recovered the pawn and should be even. White's knights in the
+centre are what hold his position together. Black would like to get rid of
+them, but it is not so easy.} 19. c4 {2} Qa6 {29} 20. Be3 {183} Rad8 {371} (
+20... c5 $5) 21. Qb3 {11} c5 {339} 22. Nxg6 {8} cxd4 {102} 23. Bxd4 {1} hxg6 {
+12} 24. Rxe8+ {1} Rxe8 {20} 25. Qb5 {27 Nihal didn't want to take on b5 and
+straighten White's structure to some extent, but that would have given him an
+easy draw.} Rc8 $6 {68} (25... Qxb5 26. cxb5 b6 $11 (26... a6 $11)) 26. Rd1 {
+141} (26. Qxa6 bxa6 27. Rc1 {The c-pawn looks more of a strength here than a
+weakness.}) 26... Bf4 {21} 27. Qxa6 bxa6 {1} 28. Be5 $1 {124 A powerful idea
+found by Eltaj.} Bxe5 {12} 29. Nxe5 {1 After this Black is in trouble from
+multiple fronts. His back rank is slightly weak. The knight on e5 is solidly
+placed with f4 coming up. The pawns on a-file are weak and the c pawn is
+turning into more of strength than a weakness.} Kf8 {14} 30. Rd6 {2} a5 {16}
+31. Ra6 {2} Rc5 {5} 32. f4 {1} Rc7 {11} 33. Rxa5 {4} Ne4 {2} (33... Nd7 {
+was perhaps better.}) 34. Kg2 {13} g5 {16} 35. fxg5 {42} Nxg5 {1} 36. c5 {18}
+Ne6 {20} 37. Kf3 {8} Ke7 {13} (37... Rxc5 38. Nd7+ $18) (37... Nxc5 38. Rxc5
+Rxc5 39. Nd7+ $18) 38. Nd3 {16} Kd7 {12} 39. h4 {9} f6 {3} 40. Ke4 {2} Ke7 {11}
+41. a3 {17} Nd8 {14} 42. Nf4 {3} Kf7 {7} 43. Nd5 {7} Rd7 {2} 44. Ra6 {19
+Safarli's technique was impeccable. From a slightly better position, he has
+converted this into a complete win.} Ne6 {17} 45. Rc6 {2} g6 {11} 46. Rc8 {2}
+Rb7 {16} 47. c6 {6} Rb1 {1} 48. Ra8 {24} Re1+ {13} 49. Ne3 {9} f5+ {6} 50. gxf5
+{2} gxf5+ {1} 51. Kd3 {8} Nf4+ {20} (51... f4 52. Rxa7+ Kg6 53. Ng4 Kf5 {
+would give Black better fighting chances, but the position is lost all the
+same.}) 52. Kd2 {27} Re2+ 53. Kd1 Rxe3 {26} 54. c7 {1} Rc3 {10} 55. c8=Q {3}
+Rxc8 {1} 56. Rxc8 {1 The rest is easy.} Kg6 {7} 57. Ra8 {16} Kh5 {4} 58. Rxa7 {
+1} Kxh4 59. a4 Nd5 {5} 60. a5 {3} f4 {1} 61. Ke2 {28 Safarli took a 1-0 lead
+in the match. Now Nihal was in a must-win situation.} 1-0
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.15"]
+[Round "2.4"]
+[White "Nihal Sarin"]
+[Black "Safarli, Eltaj"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2610"]
+[BlackElo "2593"]
+[Annotator "Sagar Shah"]
+[PlyCount "49"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "1500+10"]
+
+1. Nf3 {0} d5 {0} 2. e3 {0} Nf6 {67} 3. c4 {0} c6 {1} 4. Nc3 {0} g6 {47} 5. d4
+{0} Bg7 {7} 6. Bd3 {1} O-O {12} 7. O-O {1 We are now in a well known position
+in the Schlecter variation of the Slav.} dxc4 {50} 8. Bxc4 {1} Bg4 {1} 9. h3 {2
+} Bxf3 {2} 10. Qxf3 {1} Nbd7 {1} 11. Rd1 {2} e5 {8} 12. d5 {1} e4 $5 {13 This
+is a powerful pawn sacrifice that has been found to equalize for Black.} 13.
+Nxe4 {2} Nxe4 {4} 14. Qxe4 {7} Nb6 {8} 15. Qc2 $5 {17 This is a new idea
+suggested by Avrukh in his book I think.} (15. Bb3 {was the main move.} cxd5
+16. Bxd5 Nxd5 17. Rxd5 Qb6 {Black has excellent drawing chances here.}) 15...
+Nxc4 {234} (15... cxd5 {is the main move and after} 16. Be2 Rc8 17. Qb3 $14 {
+White definitely has some chances to play for an edge.}) 16. dxc6 $2 {289
+Played after five minutes of thought. Nihal felt that the position after Qxc4
+might not be enough for a win and must have missed that ...Qh4 was possible
+when he made this move.} (16. Qxc4 cxd5 17. Rxd5 Qb6 {This has been seen
+before in Dubov vs Sutovsky and the game ended in a draw.} 18. e4 Bxb2 19. Be3
+Qc6 20. Rc5 Bxa1 21. Rxc6 bxc6 22. f4 {This maybe worth trying out.}) 16... Qh4
+$1 {88} (16... Nd6 17. cxb7 Rb8 18. Qc6 $18) 17. cxb7 {192} (17. g3 Qh5 $1 18.
+cxb7 Rab8 19. g4 Qxh3 20. Qxc4 Be5 $1 21. f4 Qxg4+ $19) 17... Rab8 {56} 18. Rd7
+{51} Nb6 {71} 19. Rc7 {56} Be5 {33} 20. Rc5 {19} Bg7 {98} 21. Rc7 {7} Be5 {3}
+22. Rc5 {2} Bg7 {1} 23. Rc7 {2} Be5 {104} 24. Rc5 {5} Bg7 {1} 25. Rc7 {1 For
+Safarli a draw was enough to qualify for round three and hence he didn't try
+to win this completely winning position.} 1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.15"]
+[Round "2.3"]
+[White "Adhiban, B....."]
+[Black "Yu, Yangyi"]
+[Result "0-1"]
+[ECO "D38"]
+[WhiteElo "2639"]
+[BlackElo "2763"]
+[Annotator "Sagar Shah"]
+[PlyCount "108"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "1500+10"]
+
+1. d4 {0} Nf6 {0} 2. c4 {0} e6 {0} 3. Nf3 {6} d5 {0} 4. Nc3 {2} Bb4 {0} 5. Bg5
+{2} h6 {4} 6. Bxf6 {2} Qxf6 {3} 7. e3 {4} O-O {2} 8. Rc1 {2} Nd7 {4} 9. cxd5 {
+126} exd5 {1} 10. a3 {2} Bxc3+ {5} 11. Rxc3 {2} c6 {12} 12. Bd3 {3} Nb6 {158}
+13. Ne5 {7} Nd7 {72} 14. Nf3 {8} Nb6 {1} 15. Ne5 {22} Nd7 {2} 16. Nxd7 {26}
+Bxd7 {1} 17. O-O {3} Rfe8 {158} 18. Qb3 {337} Rab8 {30} 19. Qa4 {3} a6 {19} 20.
+Qa5 {3} Bf5 {61} 21. Bxf5 {90} Qxf5 {1 The position has clear ideas for black
+and white. White would like to play on the queenside with the moves b4-b5 and
+launch a minority attack. Black on the other hand would like to launch an
+attack on the kingside. It is with this intention that Adhiban planned his
+next manoeuvre - Qc7 to g3 to stop Black's attack on the kingside.} 22. Qc7 {3}
+Qc8 {83} 23. Qg3 {39} Qd8 {25} 24. Rfc1 {8} Qb6 {75} 25. R1c2 $2 {30 An
+inexplicable error by Adhiban.} (25. b4 a5 26. h3 axb4 27. Rb3 $14) 25... Qxd4
+$1 {23 White just loses a pawn because of the back rank weakness.} 26. h3 {11}
+Qe4 {128} 27. Rd2 {30} Rbd8 {7} 28. Rb3 {8} Rd7 {23} 29. Rd4 {40} Qe5 {65} 30.
+Qf3 {183} c5 {10} 31. Rf4 {8} b5 {16} 32. Rf5 {39} Qe6 {70} 33. Rc3 {3} c4 {22}
+34. Rf4 {24} Qg6 {87} 35. Rc1 {127} Re5 {169} 36. Rg4 {75} Qe6 {72} 37. Rd4 {
+106 At this point it seemed like White had some drawing chances as he has a
+fixed square for his rook on d4 and the ability to mount pressure on d5 pawn.
+Yu Yangyi had it covered.} a5 {3} 38. Qd1 {142} Re4 {33} 39. Qd2 {22} Rxd4 {48}
+40. Qxd4 {18} Qf6 {15} 41. Rd1 {201} Qxd4 {7} 42. Rxd4 {1} Kf8 {37 If the king
+reaches c5 it will be all over and hence Adhiban had to do something right
+away.} 43. a4 {87} (43. e4 Ke7 44. exd5 Kd6 {followed by Kc5 is game over.})
+43... bxa4 {141} 44. e4 {2} Rb7 {3} 45. exd5 {22} (45. Rxd5 Rxb2 46. Rxa5 c3
+$19) 45... Rb4 {62} 46. Rd2 {57} Ke7 {2} 47. Kf1 {13} Kd6 {20} 48. Ke2 {17} Rb5
+{7} 49. Ke3 {12} Rxd5 {4} 50. Rd4 {9} Kc5 {6} 51. Rf4 {8} f6 {14} 52. Ke2 {13}
+Kb4 {5} 53. Rg4 {6} g5 {10} 54. Rg3 {2} Rd3 {9 Not a game that Adhiban would
+be proud of. A moment of lapse in concentration and it was all over.} 0-1
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.15"]
+[Round "2.4"]
+[White "Yu, Yangyi"]
+[Black "Adhiban, B...."]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[WhiteElo "2763"]
+[BlackElo "2639"]
+[Annotator "Sagar Shah"]
+[PlyCount "79"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "1500+10"]
+
+{Playing for a win with the black pieces against Yu Yangyi is never easy.} 1.
+e4 {0} c5 {0} 2. Nf3 {0} d6 {0} 3. d4 {0} cxd4 {0} 4. Nxd4 {0} Nf6 {0} 5. Nc3 {
+0} a6 {0} 6. f4 {19 When you play the Najdorf with Black White always has at
+his disposal certain sharp lines which can end in a theoretical draw. Here
+Adhiban has to be careful as he has to win at all costs.} Qc7 {51} 7. Bd3 {40}
+g6 {6} 8. Nf3 {50} Bg7 {3} 9. O-O {10} Nbd7 {37} 10. Qe1 {29} O-O {121} 11. Kh1
+{3} e5 {180} 12. a4 {71} (12. Qh4 b5 13. fxe5 dxe5 14. Bh6 {is well known
+theory.}) 12... Nc5 {104} 13. Qh4 {55} exf4 {81} 14. Bxf4 {8} Be6 {1} 15. e5 $6
+{78} (15. Ng5 {keeping the pressure was better.}) 15... Nh5 $1 {373} 16. exd6 {
+2} Qd8 {1} 17. Bg5 {256} f6 {2} 18. Be3 {3} Qxd6 $2 {25} (18... Nxd3 19. cxd3
+Qxd6 20. Ne4 Qd5 $15) 19. Bc4 {21} Rae8 {265} 20. Rad1 {3} Qc7 {32} 21. Bd5 {67
+} (21. Rfe1 Bxc4 22. Qxc4+ Ne6 23. Qxc7 Nxc7 24. g4 $18) 21... Bxd5 {63} 22.
+Nxd5 {10} Qc6 {2} 23. Qc4 {141} (23. Qb4 {The idea is to attack the c5 knight
+and at the same time threaten g4.} Nd7 24. g4 $18) 23... Ne6 {1} 24. Qb3 {1} f5
+{112} 25. Nd4 {9} Nxd4 {29} 26. Bxd4 {15} Kh8 {2} 27. Bxg7+ {27} Nxg7 {2} 28.
+Rde1 {71} g5 {25} 29. c4 {21} f4 {5} 30. a5 {40} Rxe1 {32} 31. Rxe1 {1} Re8 {1}
+32. Rxe8+ {80} Qxe8 {1} 33. Qc3 {3} Qe2 {153} 34. h3 {17} Kg8 {25} 35. Qf6 {22}
+Qe1+ {21} 36. Kh2 {1} Qg3+ {19} 37. Kh1 {3} Qe1+ {6} 38. Kh2 {1} Qg3+ {1} 39.
+Kh1 {1} Qe1+ {11} 40. Kh2 {1 With this draw Yu Yangyi advanced to round three.
+Adhiban was knocked out.} 1/2-1/2

@@ -1,0 +1,49 @@
+[Event "26th Abu Dhabi Master 2019"]
+[Site "Abu Dhabi"]
+[Date "2019.08.09"]
+[Round "8.3"]
+[White "Yakubboev, Nodirbek"]
+[Black "Karthikeyan, Murali"]
+[Result "1-0"]
+[ECO "E71"]
+[WhiteElo "2575"]
+[BlackElo "2613"]
+[Annotator "Shahid"]
+[PlyCount "93"]
+[EventDate "2019.08.02"]
+[EventType "swiss"]
+[EventCountry "UAE"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,93,31,44,38,37,37,42,39,46,6,86,35,28,43,67,60,65,60,91,12,15,-5,-12,
+-68,-58,-262,-247,-234,-228,-230,-217,-205,-185,-175,-146,-189,-171,-368,-225,
+-229,-221,-286,-287,-347,-362,-369,-350,-363,-376,-379,-345,-446,-445,-454,
+-477,-909,-42,-22,0,0,183,148,332,319,1517,1495,29977,29978,29978,29979,29979,
+29980,29980,29981,29981,29982,29990,29991,29991,29992]} 1. d4 Nf6 2. c4 g6 3.
+Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Be3 Na6 7. Nf3 e5 8. d5 Nh5 9. g3 {[%emt 0:00:06]
+E90: King's Indian: Classical: Early deviations and h3} f5 10. exf5 gxf5 11.
+Nh4 {White is slightly better.} Nf6 12. Be2 $146 ({Predecessor:} 12. Qd2 Nc5
+13. O-O-O b6 14. Rg1 a5 15. Qc2 a4 16. a3 Bd7 {1/2-1/2 (45) Urkedal,F (2537)
+-Karthikeyan,M (2591) Stockholm 2018}) 12... c5 (12... c6 $11 {remains equal.})
+13. Qb1 (13. Bg5 $16) 13... f4 $14 14. Bd2 fxg3 15. fxg3 e4 16. a3 Qe7 {
+Threatening ...e3.} 17. Ng2 (17. Bg5 $1 $16) 17... b5 $11 18. cxb5 Nc7 19. Qa2
+({White should play} 19. Bg5 $11) 19... a6 20. Ne3 $2 (20. bxa6 $15 Nd7 21.
+O-O-O) 20... axb5 $19 21. Nxb5 Nxb5 22. Bxb5 Rb8 23. a4 Nh5 24. O-O-O Bd7 25.
+Qc4 Rf3 26. Nc2 $2 (26. Rhg1 {is a better defense.}) 26... Bxb5 (26... Qf6 27.
+Bc3 Qg5+ 28. Kb1 (28. Bd2 e3 29. Nxe3 Rxe3 $19) 28... Bxc3 29. bxc3 Qe5 $19)
+27. axb5 Qe8 $40 {[%mdl 128] Black wants a kill.} (27... Nxg3 28. Rhg1) (27...
+Rxg3 28. Rhe1 $17) 28. Na3 Nxg3 29. Rhg1 Qe5 {[%csl Gg7][%cal Re5b2]} 30. Bc3
+Qg5+ (30... Rxc3+ 31. bxc3 Ne2+ 32. Qxe2 $11) 31. Kc2 Bxc3 32. bxc3 Kh8 33. Kb3
+Qe5 34. Rge1 e3 35. Qg4 {[#]} (35. Qd3 $142 Qf4 36. Rc1) 35... Rf4 $2 (35...
+Ne4 $1 $19 {[%mdl 512]} 36. Nb1 {[#]} c4+ $1 {[%mdl 512]} 37. Kb4 Rf4) 36. Qe6
+$15 c4+ 37. Kb4 Qxe6 $2 (37... Qg7 $1 $11 {and Black stays safe.} 38. Qxe3 (38.
+Qxd6 Ne4 $15) 38... Qc7) 38. dxe6 $18 e2 $2 (38... Re4 $16 {was called for.}
+39. Rd5 (39. Rxd6 Nf5 $16) (39. Nxc4 e2 $16) 39... e2) 39. Rxd6 Rf1 $2 (39...
+Re4 40. Nc2 (40. Nxc4 Nf5 $14) 40... Rf8) 40. e7 Rxe1 41. Rd8+ {[%mdl 64]
+Double Attack. White mates.} Kg7 42. Rxb8 Rb1+ 43. Nxb1 e1=Q 44. e8=Q Qxb1+ 45.
+Ka5 Nf5 46. Qg8+ {[%mdl 64] Double Attack} Kh6 47. Rb6+ {Accuracy: White = 39%,
+Black = 43%.} 1-0
+

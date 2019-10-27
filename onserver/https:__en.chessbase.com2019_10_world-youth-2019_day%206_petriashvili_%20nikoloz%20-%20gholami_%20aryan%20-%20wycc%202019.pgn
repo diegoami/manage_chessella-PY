@@ -1,0 +1,39 @@
+[Event "Wycc 2019"]
+[Site "followchess.com"]
+[Date "2019.10.07"]
+[Round "7.2"]
+[White "Petriashvili, Nikoloz"]
+[Black "Gholami, Aryan"]
+[Result "0-1"]
+[ECO "D30"]
+[WhiteElo "2441"]
+[BlackElo "2554"]
+[Annotator "Sagar Shah"]
+[PlyCount "76"]
+[EventDate "2019.??.??"]
+[TimeControl "6000+30"]
+[WhiteClock "0:18:11"]
+[BlackClock "0:09:25"]
+
+1. d4 {573} d5 {573} 2. c4 {6} e6 {5} 3. Nf3 {78} a6 {5} 4. e3 {509} Nf6 {124}
+5. Nc3 {44} dxc4 {8} 6. Bxc4 {15} b5 {7} 7. Bd3 {306} Bb7 {5} 8. a3 {162} c5 {
+856} 9. dxc5 {3} Bxc5 {6} 10. b4 {4} Bd6 {12} 11. Bb2 {123} Qe7 {336} 12. Qb1
+$6 {271 The point of this move is not so clear.} (12. O-O $14) 12... Bxf3 $5 {
+128 Interesting chess.} (12... Nc6 {And the position is even.}) 13. gxf3 {2}
+Nbd7 {22} 14. f4 $6 {234 The king on e1 is not going to feel safe with so many
+holes around him.} e5 $1 {78 Aryan takes his chance and opens up the position.}
+15. f5 {285} Rc8 {7} 16. Rg1 {296} O-O $1 {117 The king will be safe on g8.}
+17. Ke2 {8 The same cannot be said about the king on e2.} Rfe8 {167} 18. Qf1 {
+233} e4 $1 {197} 19. Nxe4 {194} Be5 $1 {6 With the e-pawn off the board, the
+king on e2 is really weak.} (19... Nxe4 20. Rxg7+ Kf8 21. Qg1 {Leads to a
+decisive attack.}) 20. Qb1 {1203} Nxe4 {395} 21. Bxe4 {15} Qf6 {19} 22. Bxe5 {
+65} Nxe5 {6} 23. a4 {162} Qh4 {325} (23... Nc4 $17) 24. Rg3 {501} Rc4 $6 {72} (
+24... Red8 $17) 25. Bd5 {179} Rxb4 {263} 26. Qc2 {1} Qh5+ {535} 27. Kf1 {56}
+Qxh2 {18} 28. f6 {323} Ng4 $6 {833} (28... g6 $17) 29. Qd2 {149} (29. axb5 Qxg3
+30. Bxf7+ Kxf7 (30... Kh8 31. fxg3 Nxe3+ 32. Kf2 Nxc2 33. Bxe8 Nxa1 34. f7 $18)
+31. Qa2+ Kxf6 32. fxg3 Nxe3+ $13) 29... Rd8 {191} 30. Rxg4 {234} Rxg4 {39} 31.
+Bxf7+ {13} Kxf7 {12} 32. Qxd8 {2} Qh1+ {488} 33. Ke2 {4} Qxa1 {57} 34. Qe7+ {18
+} Kg6 {5} 35. Qxg7+ {36} Kf5 {20} 36. Qd7+ {226} Kxf6 {23} 37. Qxg4 {3} Qa2+ {
+74 The position is now equal, but Petriashvili blunders.} 38. Kf3 $2 {39} (38.
+Ke1 $1 $11) 38... Qd5+ {15 There is no way to avoid the queen exchange and
+subsequently the loss of the game.} 0-1

@@ -1,0 +1,142 @@
+[Event "Hell International 2019"]
+[Site "Hell NOR"]
+[Date "2019.08.11"]
+[Round "10.2"]
+[White "Korpa, B."]
+[Black "Vestby-Ellingsen, Mads"]
+[Result "1-0"]
+[ECO "B47"]
+[WhiteElo "2530"]
+[BlackElo "2338"]
+[Annotator "Alina"]
+[SetUp "1"]
+[FEN "r1b2rk1/5pp1/p1p5/2N1p1Q1/4P1n1/6P1/PP3PBq/3RRK2 b - - 0 22"]
+[PlyCount "12"]
+[EventDate "2019.08.03"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "NOR"]
+[Source "Mark Crowther"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.08.12"]
+[SourceQuality "2"]
+
+{Black's position is far from easy but a stubborn defense can prove
+providential.} 22... Nxf2 {A bit too optimistic and refuted accurately by
+White.} ({New opportunities would have appeared after} 22... a5 $1 {Creating
+space for the bishop. This little pawn move works since Black has a strong
+response against the equally strong} 23. Rd7 $1 Nf6 $1 ({Obviously,} 23... Bxd7
+{runs into} 24. Nxd7 Nh6 25. Nxf8 $18) 24. Rd6 Nh7 25. Qh4 (25. Qxe5 f6 26. Qf4
+Ng5 $132) 25... Ba6+ 26. Nxa6 Qxh4 27. gxh4 Rxa6 28. b3 Nf6 29. Rc1 Rb8 30.
+Rdxc6 Rxc6 31. Rxc6 a4 32. Rc3 axb3 33. axb3 Kf8 34. Ke2 Ke7 $11 {White's
+pawns are too loose.}) 23. Kxf2 Bh3 24. Rg1 f5 25. Qh4 $1 Rab8 26. b3 fxe4+ 27.
+Ke2 Bg4+ 28. Qxg4 1-0
+
+[Event "Hell International 2019"]
+[Site "Hell NOR"]
+[Date "2019.08.04"]
+[Round "2.2"]
+[White "Christiansen, Johan-Sebastian"]
+[Black "L'Ami, Alina"]
+[Result "1-0"]
+[ECO "E62"]
+[WhiteElo "2554"]
+[BlackElo "2296"]
+[Annotator "Alina"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp1bppbp/2n3p1/2p5/2P2PnN/1PN1P1P1/P2B2BP/R3QRK1 b - - 0 14"]
+[PlyCount "18"]
+[EventDate "2019.08.03"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "NOR"]
+[Source "Mark Crowther"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.08.12"]
+[SourceQuality "2"]
+
+{During the game I thought I was not doing so bad with Black but once the
+engine was turned on, I was proven completely wrong. Here, however, I could
+have equalized with...?} 14... Qc8 {Not the right answer.} ({I considered} 
+14... Nb4 $1 {of course but for some reasons my brain was too foggy to
+properly assess the outcome.} 15. Qe2 Nc2 16. Rad1 Bxc3 17. Bxc3 Ngxe3 18. Rd2
+Nxg2 19. Nxg2 Nd4 20. Qe5 Rc8 21. Bxd4 cxd4 22. Rxd4 Qb6 23. Rfd1 Bc6 $14 {
+This would have been way better than the position Black got after 14...Qc8.})
+15. h3 Nf6 16. Kh2 e5 {An interesting moment, structurally. How should White
+react?} 17. Qf2 {brought Black into the game, even if just briefly...} ({
+The somewhat counter intuitive} 17. e4 {which gives the d4-square and blocks
+the g2-bishop, works wonders:} exf4 18. Bxf4 $1 Be6 19. Nf3 Rd8 20. e5 Nh5 21.
+Ng5 $16 {White's pieces are too active.}) 17... e4 $1 {If White didn't play it,
+Black didn't miss the chance.} 18. Qe2 h5 {But I missed everything since this
+moment on, which is why the remainder of the game is no longer valuable.} (
+18... Qe8 $1 $132) 19. Rad1 Re8 20. Nb5 {came as a surprise, which says enough,
+unfortunately.} Re7 21. Bc3 Qf8 22. Qb2 Ne8 23. f5 {The game continued for
+quite some time, to the surprise of both players, but objectively speaking,
+White didn't miss anything major.} 1-0
+
+[Event "Hell International 2019"]
+[Site "Hell NOR"]
+[Date "2019.08.07"]
+[Round "6.9"]
+[White "Suvrajit, S."]
+[Black "L'Ami, Alina"]
+[Result "1-0"]
+[ECO "E98"]
+[WhiteElo "2214"]
+[BlackElo "2296"]
+[Annotator "Alina"]
+[SetUp "1"]
+[FEN "r1bbq1k1/pp4rp/3p1nn1/3Pp3/4P1p1/2NN1PP1/PP2B2R/3QB1RK b - - 0 24"]
+[PlyCount "28"]
+[EventDate "2019.08.03"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "NOR"]
+[Source "Mark Crowther"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.08.12"]
+[SourceQuality "2"]
+
+{Since we are at the "plans" chapter, how should Black continue?} 24... h5 {
+is what I played, which is too committal.} (24... gxf3 25. Bxf3 Nh8 26. Nf2 Nf7
+$36 {would have been very much into the spirit of King's Indian manoeuvers,
+with an obvious edge for Black since Ng5 and Bb6 are also coming.}) 25. Nf2 Bb6
+26. fxg4 {And the right way for Black is...?} hxg4 {incorrect.} ({Too much
+attachment for your pieces is never good.} 26... Bxf2 {should have been played.
+} 27. Rxf2 Nxg4 28. Rf3 Bd7 $36 {Black has a very comfortable position and it
+is White who must find the disentangling plan.}) 27. Qd2 Nf4 {Shooting my own
+foot. When the brain is shut down, hysterical moves like this occur.} ({
+The simple} 27... Bd7 {would have been much more effective.} 28. Ncd1 Qf7 $13 {
+bringing all the pieces into play and preparing Nf4.}) 28. gxf4 g3 29. fxe5
+Qxe5 30. Nd3 Qd4 31. Bf2 gxf2 32. Rxg7+ Kxg7 33. Qg5+ Kf7 34. Bh5+ Nxh5 35.
+Qxh5+ Kf8 36. Rxf2+ Ke7 37. Rf7+ Ke8 38. Rg7+ 1-0
+
+[Event "Hell International 2019"]
+[Site "Hell NOR"]
+[Date "2019.08.10"]
+[Round "9.2"]
+[White "Rozentalis, E."]
+[Black "Bogner, S."]
+[Result "1/2-1/2"]
+[ECO "B18"]
+[WhiteElo "2535"]
+[BlackElo "2569"]
+[Annotator "Alina"]
+[SetUp "1"]
+[FEN "7k/P5R1/7P/1P2np2/5p2/8/5PPK/r7 w - - 0 56"]
+[PlyCount "2"]
+[EventDate "2019.08.03"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "NOR"]
+[Source "Mark Crowther"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.08.12"]
+[SourceQuality "2"]
+
+{Never lose hope or never lose vigilence is always recommended. After a
+beautifully conducted game, Eduardas has a slip of the hand} 56. b6 (56. f3 {or
+}) (56. g3 {stops Black's only idea and brings White the point.}) 56... Nf3+ {
+a draw was agreed since 57. gxf3 is answered with 57...Rh1+ 58. Kg2 Rg1+ and
+White cannot avoid stalemate.} 1/2-1/2
+

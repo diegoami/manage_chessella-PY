@@ -1,0 +1,46 @@
+[Event "RUS-chT Premier 2019"]
+[Site "Sochi"]
+[Date "2019.05.04"]
+[Round "4.6"]
+[White "Sychev, Klementy"]
+[Black "Askerov, Marat"]
+[Result "1-0"]
+[ECO "A33"]
+[WhiteElo "2574"]
+[BlackElo "2315"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "37"]
+[EventDate "2019.??.??"]
+
+1. c4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g3 d5 7. Bg2 Bc5 8. Nb3
+Bb4 9. cxd5 Nxd5 10. O-O Nxc3 11. bxc3 Qxd1 12. Rxd1 Be7 13. Nd4 Bd7 14. Nb5 {
+Playing 14...0-0-0 in the diagram Black fends off the threat Nc7+, but White's
+continuaton shows that there is more to go for on this wing than just material.
+Five moves later it will be game over.} O-O-O {[%tqu "En","Black has played 14.
+..0-0-0. Best move for White?","","","a1b1","",10]} 15. Rb1 $1 {[%csl Gb1]
+[%cal Gb1b8] The rook occupies the half-open b-file, increasing the pressure
+on Black's queenside.  Two replies to consider: 15...a6 (game) and 15...Bc5.
+Ready for both?} ({Not} 15. Bxc6 $6 bxc6 16. Nxa7+ $2 Kb7 {[%csl Ra7]}) (15.
+Bf4 e5) 15... a6 $2 (15... Be8 {is more stubborn, though the position after}
+16. Rxd8+ Kxd8 (16... Bxd8 17. Nd6+) 17. Be3 {[%csl Rh8] is also very
+depressing for Black - particularly the offside rook h8.}) (15... Bc5 {[%tqu
+"En","Black has played 15...Bc5 to overprotect the neuralgic point a7. Best
+move for White?","","","c1e3","",10]} 16. Be3 $1 {[%csl Rc5,Ge3] Challenging
+Black's defender of the dark squares!} Bxe3 {[%tqu "En","Continuation?","","",
+"b5d6","",10]} 17. Nd6+ $1 {[%csl Gb1,Gd6][%cal Gd6c8] and White's Rb1 does
+the rest:} Kb8 (17... Kc7 18. Rxb7#) 18. Rxb7+ Ka8 19. Rxd7 $18 {[%csl Gd7]
+[%cal Gg2c6]}) {[%tqu "En","Black has attacked the knight. Please show the
+point of White's Rb1.","","","b5a7","",10]} 16. Na7+ $1 {[%csl Ga7,Rc6][%cal
+Ga7c8,Ga7c6] Exploiting the fact that Black's Nc6 must keep the diagonal g2-b7
+blocked.} Kc7 (16... Kb8 17. Bxc6 $18 {[%csl Gc6][%cal Gb1b8]}) (16... Nxa7 {
+[%tqu "En","No question needed, right?","","","g2b7","",10]} 17. Bxb7+ {
+[%csl Gb7,Rc8][%cal Gg2b7] Meet the fianchetto bishop!} Kc7 18. Bf4+ {[%csl
+Rc7,Gf4][%cal Gf4c7] and mate.} e5 19. Bxe5+ Bd6 20. Bxd6#) {[%tqu "En",
+"Continuation?","","","c1f4","",10]} 17. Bf4+ {[%csl Rc7,Gf4][%cal Gf4c7]
+Check! Black's king has no square, so he must block the diagonal.} e5 {[%tqu
+"En","And White's final point, please.","","","f4e5","and Black resigned on
+account of",10]} 18. Bxe5+ $1 {[%csl Rc6,Ge5][%cal Ge5c7] ... and now the Nc6
+must capture. Black resigned on account of} Nxe5 {[%tqu "De","Enjoy!","","",
+"b1b7","",10]} 19. Rxb7# {[%csl Gb7,Rc7][%cal Ga7c8,Gg2b7,Gd1d6] Checkmate!}
+1-0
+

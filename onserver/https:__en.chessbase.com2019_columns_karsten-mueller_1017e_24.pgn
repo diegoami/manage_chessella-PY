@@ -1,0 +1,38 @@
+[Event "V Sunway Sitges Open 2018"]
+[Site "Sitges"]
+[Date "2018.12.22"]
+[Round "9"]
+[White "Demianjuk, Alexander"]
+[Black "Gukesh, Dommaraju"]
+[Result "*"]
+[ECO "B31"]
+[WhiteElo "2344"]
+[BlackElo "2466"]
+[Annotator "Karsten Mueller"]
+[SetUp "1"]
+[FEN "2r3k1/6P1/R6P/7K/8/2p5/8/8 b - - 0 65"]
+[PlyCount "8"]
+[EventDate "2018.??.??"]
+[SourceTitle "1017"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+{[%evp 0,137,29,13,56,41,48,50,42,27,51,45,37,33,31,33,29,32,42,37,37,3,32,-6,
+-7,-5,-8,-8,-8,-13,6,14,18,15,4,-3,-8,-23,58,46,42,33,34,13,26,25,27,17,22,23,
+27,24,5,20,34,30,33,19,-2,0,6,0,39,30,78,49,61,48,57,18,11,0,0,-83,48,7,18,25,
+0,0,-6,-6,-11,-41,-40,-26,-16,-18,-35,-29,-29,-24,-29,0,0,0,-14,0,0,0,0,0,32,
+14,27,29,29,29,55,77,206,208,223,254,276,277,285,700,1032,497,567,567,567,497,
+547,577,567,577,1440,567,577,577,1479,1807,29983,29986,29997,29998,29999,
+-30000]} 65... Kf7 {Mating attacks can be powerful - even in the endgame.} {
+[%tqu "En","White to play and win","","","a6a1","",0,"a6g6","",4,"a6a7","",0,
+"De","Weiß zieht und gewinnt","","","a6a1","",0,"a6g6","",4,"a6a7","",0]} 66.
+Rg6 $1 {would have won:} ({In the game White played} 66. Ra1 $2 {but this
+passive retreat misses the win.} c2 67. Rf1+ Kg8 68. Rc1 (68. Kg6 Rc6+ $11) (
+68. Rf8+ $2 Rxf8 69. Kg6 Rf6+ 70. Kxf6 c1=Q $19) 68... Kh7 69. Kg5 Rc6 70. Kf5
+Rxh6 {and the game was drawn.} (70... Rxh6 71. Rg1 Kg8 $11)) (66. Ra7+ $2 Kg8
+67. Kg6 Rc6+ 68. Kg5 Rc5+ 69. Kg4 Rc4+ 70. Kf3 Rc8 $11) 66... Kg8 (66... Rg8
+67. h7 (67. Rc6 $18) 67... Rxg7 68. h8=Q Rxg6 69. Qxc3 $18) (66... Rc5+ 67. Kh4
+Rc4+ 68. Kg3 Rc8 69. h7 Kxg6 70. g8=Q+ $18) (66... c2 67. h7 Rc5+ (67... c1=Q
+68. g8=Q+ Ke7 69. Qg7+ Ke8 70. h8=Q#) 68. Kh4 Kxg6 69. g8=Q+ Kf5 70. Qg4+ Kf6
+71. h8=Q+ $18) 67. Rf6 c2 68. Kg6 c1=Q 69. h7# *
+

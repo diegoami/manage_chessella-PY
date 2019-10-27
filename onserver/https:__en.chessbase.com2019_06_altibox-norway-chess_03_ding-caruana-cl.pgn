@@ -1,0 +1,123 @@
+[Event "?"]
+[Site "?"]
+[Date "2019.??.06"]
+[Round "3"]
+[White "Ding, Liren"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[ECO "A46"]
+[Annotator "Lupulescu Constantin"]
+[PlyCount "149"]
+[SourceVersionDate "2019.06.06"]
+
+1. d4 Nf6 2. g3 {This is the second time the Chinese player uses this very rare
+move order.} e6 (2... d5 3. Bg2 e6 4. Nf3 Be7 5. O-O O-O 6. c4 (6. b3 c5 7. Bb2
+cxd4 8. Nxd4 Qb6 9. c4 dxc4 10. Nd2 cxb3 11. Nc4 Qd8 12. axb3 $16 {was quite a
+similar idea to the game Berkes-Petrisor 2018.}) 6... dxc4 {
+transposed back to Catalan in Ding,L (2804)-Giri,A (2780) Batumi 2018. Using
+this move order, White avoided the quick 4...dc4 and also 4...Bb4+, which are
+often played against the Catalan.}) 3. Bg2 c5 4. Nf3 cxd4 {And we get by
+transposition (1.d4 Nf6 2.Nf3 e3 3.g3 c5 4.Bg2 cd4) to a variation that was
+used several times by Aronian.} 5. O-O (5. Nxd4 d5 6. O-O e5 7. Nb3 (7. Nf3 Nc6
+8. c4 d4 {takes us to the line we saw in Yu-Ding in the second round.}) 7...
+Be6 8. Bg5 Nbd7 $1 $13 {was played by Caruana as White in internet blitz in
+2017.}) 5... Qc7 {was seen in quite a few games, but it looks already like a
+step in the wrong direction as Black will also need to lose time with a6 to
+secure himself against Nb5 ideas.} (5... d5 {is normal, when White could play} 6.
+Nxd4 {and transpose back to the game mentioned before.}) 6. Nxd4 a6 7. b3 {
+The right approach planning to build a strong queenside pressure.} (7. c4 {
+would transpose back to lines from 1.d4 Nf6 2.c4 e6 3.g3 c5 4.Nf3.} Qxc4 8. Nc3
+{White gets compensation but maybe not more.}) 7... d5 (7... Be7 8. c4 O-O 9.
+Bb2 $14 {[%cal Gb1c3] gives White a very nice version of an English, though it
+was preferable to what Black got in the game.}) 8. c4 $1 {White needs this to
+prove his advantage in development.} dxc4 9. Bb2 cxb3 10. Qxb3 {also introducing
+Rc1 ideas.} ({White could also consider} 10. Nd2 {with more than adequate
+compensation. However, one does not want to allow the liquidation of queenside
+when he has at least a similar alternative.}) 10... Nc6 $6 (10... Bc5 11. Nd2
+O-O 12. Rac1 Qe7 {looks quite dubious for Black, but nothing terrible happened
+yet.}) 11. Nxc6 bxc6 12. Bxf6 $1 {White gives up the pair of bishops, but he is
+getting his pawn back while also damaging Black's kingside structure.} gxf6 13.
+Qc3 Bd7 14. Qxf6 Rg8 15. Nc3 $16 {Even though Black has the pair of bishops, the
+black king is rather weak, his pawn structure ruined and Bd7 looks at the
+moment like an overgrown pawn.} Rg6 (15... Bg7 16. Qf3 {is not an
+improvement for Black.}) 16. Qf3 (16. Qh4 {putting more pressure on Black's
+kingside was definitely worth considering.} h6 (16... Rh6 17. Qc4 $16 {Rh6
+looks a bit offside.}) 17. Rfd1 $16) 16... Be7 {seems like the right place for
+the bishop.} (16... Bg7 17. Rad1 Kf8 18. Ne4 {now the knight can land on d6, creating havoc.})
+17. Rac1 Kf8 {Finally Black's king is getting somewhere that resembles safety.} 18.
+Ne4 Be8 19. Nc5 (19. Rfd1 $5) (19. Rc2 $5 {is a more flexible approach,
+defending a2 in advance.}) 19... Qa5 20. Qe3 {following up on his idea. However,
+as said before, White shouldn't necessarily allow the liquidation of his
+queenside.} (20. Nd3 {was also a solid option, as now Black cannot really take
+on a2, for example.} Qxa2 (20... Rd8 {is a more sensible approach.}) 21. Nf4 Rf6
+22. Qh5 h6 23. Qe5 $18 {[%cal Gf4h5,Gg2e4] Rf6 is very awkward and Black will
+lose material.}) 20... Qxa2 $1 {Now at least Black can hope for some suffering
+in a drawish endgame} 21. Be4 Rg7 22. Rc2 ({White has no way to trap Black's queen.
+} 22. Ra1 Qc4 23. Rfc1 $6 (23. Nd3 $16) 23... Bxc5) 22... Qa5 23. Rb1 Qc7 {
+Black managed to consolidate somehow and also snatched the a2 pawn in the
+meantime. Still, White's pieces are now very active making Black's position
+very dangerous.} 24. Qf3 (24. Nd3 {eyeing Black's queenside weaknesses was also a
+solid option.} Qd6 (24... Rc8 25. Bxc6 Bxc6 26. Ne5 $16 Qd6) 25. Qb6 $16) 24...
+Kg8 25. Rb7 Qd6 26. Bd3 Bd8 (26... Kh8 $1 {was important to find, in order to get out
+of the potential tricks that annoyed Black in the game.} 27. Qe3 (27. Ne4 Qa3
+$1 28. Qe3 f5 $132) 27... Bf8 {with chances to survive.}) 27. Ne4 {now
+Caruana's position becomes critical.} Qe5 (27... Qa3 {is now impossible due to}
+28. Nf6+) 28. Rc5 (28. Qe3 $5 {It was interesting to take the d4-square from the queen.})
+28... Qd4 29. Rc4 Qe5 30. Rc5 Qd4 {Repeating the position once never hurts.} 31.
+Qf4 (31. Bc4 $1 {was, according to the engine, winning immediately.} Kh8 32. e3
+Qa1+ 33. Kg2 {and Black is paralyzed.}) 31... a5 (31... f5 {would probably put
+on more resistance.} 32. Rc4 Qd5 33. Rxg7+ Kxg7 34. Nd6 Bg6 35. Rb4 $16 {
+Although Black's position still looks like it could collapse anytime}) 32. Rb8
+Rxb8 33. Qxb8 {[%cal Gc5a5]} Kf8 34. Nd6 $1 $18 {could be what Caruana missed.}
+Ke7 35. Nxe8 Qxc5 (35... Kxe8 36. Rxc6 {The black king will not survive for long.})
+36. Nxg7 a4 {The endgame is not as trivial as it looks because of Black's
+strong a4-pawn.} ({With} 36... Qg5 {Black could recover his piece but after} 37.
+Qa7+ Kf8 38. Nxe6+ fxe6 39. Qxh7 $18 {his position is hopeless, as even if he
+miraculously swaps the queens he would still lose most of the endgames.}) 37.
+g4 $6 {unnecesarily giving Black some counterplay.} (37. Qa8 a3 (37... Qg5 38.
+Qxc6 Qxg7 39. Qc5+ $18) 38. Bxh7 Qc1+ 39. Kg2 Qb2 40. Qxc6 Qxg7 41. Qc5+ Ke8
+42. Be4 f5 43. Bc6+ Kf7 44. Qxa3 $18 {is a typical winning engine line that no
+human would ever play.}) (37. Qf4 a3 38. Bc4 (38. Qc4 $2 {is surprinsingly just
+a draw.} Qxc4 39. Bxc4 Kd6 40. Ba2 Kc5 $11 {Black's king is very fast.}) 38... Bb6 (
+38... Qb4 39. Qh4+ $18) 39. e3 Qb4 40. Kg2 {would keep the control as Black's
+king is still very weak.} Qb2 41. Qb8 $18 (41. Qh4+ Kf8 42. Nxe6+ fxe6 43. Qh6+ Qg7
+44. Qxe6 {again looks easily winning for White.})) 37... a3 38. Qb3 Bb6 39. e3
+Qg5 40. Nh5 Qxg4+ 41. Ng3 Bc5 42. Kg2 h5 $6 {allowing White a quick finish.} (
+42... Qb4 {was another version of the endgame we saw in the game. As the pawn
+on c6 is not getting very far, it should be an inferior version. However,
+White cannot easily get to the a3-pawn while keeping f2 and e3 alive.}) 43. h3 (
+43. Qb7+ $1 Kf6 (43... Kd8 44. Qxc6 a2 45. Qxc5 a1=Q $140 46. Qd6+ $18 {
+would win on spot}) (43... Kf8 44. Qb8+ Kg7 45. Qe5+ $18) 44. Be2 Qg5 (44...
+Qg8 45. Kf1 $18) 45. h4 Qe5 46. Bxh5 $18) 43... Qg5 44. Kf1 Qd5 45. Qxd5 (45.
+Bc4 {was probably to be prefered.}) 45... cxd5 {This structural change was for
+sure in Black's favour. Since the white bishop needs to babysit the a3-pawn
+constantly, I believe White's winning chances to be really doubtful.} 46. Bb1 h4
+(46... d4 47. exd4 Bxd4 48. Nxh5 {could also be close to a draw. but I like how
+Caruana played just the same.}) 47. Ne2 f5 48. Nf4 Kf7 49. Ba2 Be7 50. Ke2 Bf6
+51. Kd3 Be5 52. Ng2 Bf6 53. Ne1 Be7 54. Kc2 Kf6 (54... Bd6 {I believe the
+simplest for Black was to continue his waiting strategy, as I cannot really
+see how White will make progess.} 55. Kb3 Bc5 (55... f4 $2 56. exf4 Bxf4
+57. Kxa3 {looks like a step in the wrong direction, as now White can fully use
+his bishop.}) 56. Ng2 Be7) 55. Nf3 f4 (55... Kf7) 56. Nxh4 fxe3 57. fxe3 Kg5 58. Nf3+
+Kf5 {White at least managed to win a pawn, but at the price of swapping one
+more pawn on the kingside.} 59. Kd3 Bc5 60. Ke2 Kf6 61. Bb1 e5 $2 {The decisive
+mistake. Now Black will lose one of his kingside pawns, which will prove fatal.
+However, it's very hard to judge this active decision considering that Caruana
+has been down to the last second starting from around move 40.} (61... Bd6 62.
+Kd3 (62. h4 Be7 $1 {would not be so easy to find. The idea is to prevent the
+h-pawn from getting too far.} (62... Kg7 63. h5 Kh6 64. Nd4 Kxh5 65. Nxe6 $18) (
+62... Bc5 63. Nh2 Bd6 64. Ng4+ Kg7 65. h5 $18) 63. h5 (63. Nh2 Kg7 64. Nf3 Bf6
+{transposes.}) (63. Kd3 Bc5 64. e4 dxe4+ 65. Kxe4 Bd6 $11) 63... Bf8 64. Nd4 Bg7 65.
+Nb5 Bf8 66. Nc7 Bh6 67. Ba2 Bf8 68. Kd2 Bh6 69. Kd3 Bf8 70. Ke2 (70. e4 Bh6 71.
+exd5 exd5 $11) 70... Ke5 71. Bb1 Kf6 72. Nb5 Kf7 {Again it's not clear how White
+will proceed.}) 62... Bb4 63. Kc2 Bd6 (63... Bc5 $1 {stops White in his tracks.})
+64. Kb3 Bc5 65. e4 dxe4 66. Bxe4 Bd6 67. h4 Kg7 68. h5 (68. Nd4 Kf6 69. Nf3)
+68... Kh6 69. Bg6 e5 70. Nd2 Bc5 71. Ne4 Be7 72. Nf2 Kg5 {still looks drawn.})
+62. Ba2 e4 (62... d4 63. e4 $18) 63. Nd4 Ke5 64. Nb5 Be7 65. Bb3 Bc5 66. h4 d4
+67. exd4+ Bxd4 68. Nxa3 Kf5 69. h5 {Since White can use both his bishop and knight to
+promote the h-pawn, now it is easily winning.} Kg5 70. Bf7 $18 Kf4 71. Nc4 Bg7
+72. Bg6 Bd4 73. Nd6 e3 74. Nf7 Bg7 75. Bd3 {By using a rare line, Ding managed
+to get his opponent under pressure from the first moves. After missing his
+chance to end the game quickly, we got to a very complex endgame that looked
+close to a draw only to be finally decided by a time-trouble blunder.} 1-0
+

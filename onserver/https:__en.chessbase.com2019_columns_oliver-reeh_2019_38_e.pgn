@@ -1,0 +1,61 @@
+[Event "Nordic Chess Championship 2019"]
+[Site "Quality Sarpsborg Hotel"]
+[Date "2019.06.24"]
+[Round "5"]
+[White "Notkevich, Benjamin Arvola"]
+[Black "Ernst, Thomas"]
+[Result "1-0"]
+[ECO "C47"]
+[WhiteElo "2485"]
+[BlackElo "2342"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "69"]
+[EventDate "2019.??.??"]
+[SourceTitle "2019_38"]
+
+{[%evp 0,58,20,18,32,23,13,7,18,-2,17,7,10,18,18,18,5,-3,5,5,7,-1,18,-13,19,12,
+-1,19,54,40,71,85,67,84,88,0,0,0,0,0,147,146,245,273,266,263,279,272,252,238,
+249,257,260,271,483,496,496,516,510,519,511]} 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4.
+d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8. exd5 cxd5 9. O-O O-O 10. h3 Rb8
+11. Qf3 Re8 12. Bf4 Ba5 13. Rad1 Rxb2 14. Nxd5 $1 Nxd5 15. Bxh7+ Kxh7 16. Rxd5
+Qf6 {In the diagram White played 17.Qh5+ Kg8 18.Be5 forking queen and rook.
+Good for Black: he has a move which does not lose instantly. Bad: it will be a
+very short-lived success. Enjoy!} 17. Qh5+ (17. Rxa5 Rxc2 18. Rxa7) 17... Kg8
+18. Be5 {[%csl Ge5][%cal Ge5f6,Ge5b2]} {[%tqu "En","White has forked queen and
+rook. What's the only move for Black to stay in the game?","Prevent 19.Bxb2
+with a mate threat!","","f6a6","",10,"e8e5","",0]} Qa6 (18... Rxe5 19. Rxe5 {
+[%cal Ge5a5] with the double threat 20.Rxa5 and} Bb6 20. Re8# {[%csl Rg8][%cal
+Ge8g8]}) 19. Rfd1 $1 {The critical position - perhaps in a practical game
+Black is already 'borderline losing' here!?} (19. Bxb2 $4 {[%tqu "En","White
+has swallowed the rook. Please show Black's point.","","","a6f1","",10]} Qxf1+
+{[%csl Gf1,Rg1]} 20. Kxf1 {[%tqu "En","Enjoy!","","","e8e1","Checkmate - the
+last potential of joy for Black in this game...",10]} Re1# {[%csl Ge1,Rf1]
+Checkmate - the last potential moment of pleasure for Black in this game...})
+19... Rb6 {[%cal Yb6g6] The idea to use this rook on the sixth rank for the
+defence will never become reality.} ({Retreating to the back rank with} 19...
+Rb8 {seems more stubborn though} 20. Bxg7 $1 {[%csl Gg7][%cal Gd5g5,Gd5a5]
+exposes the black king and will always give White a terrific attack} ({and if
+one understands that ...Bb4 would consolidate Black's position, even the comp's
+} 20. a3 $5 {[%csl Ga3][%cal Ya5b4,Yb4f8] starts to make sense!})) {[%tqu "En",
+"Changeover - 20.Rd8! gives White the advantage by force!   Take your time to
+delve into the position, working out how you would continue as White after 20..
+.Rbe6 and 20...Qb5 21.R1d5! c5 (game).   When you are done, please execute 20.
+Rd8!","","","d5d8","",10]} 20. Rd8 $1 {[%csl Re8][%cal Gd8g8] Now the back
+rank is Black's big issue.} Qb5 (20... Rxd8 21. Rxd8#) (20... Rbe6 {[%tqu "En",
+"White to play and win.","Best queen move?","","h5g5","",10]} 21. Qg5 $1 {
+[%csl Gg7][%cal Gg5g7] and Black's position collapses:} Rxe5 (21... f6 22. Bxf6
+) (21... g6 22. Rxe8+ Rxe8 23. Qh6 $1 Rxe5 24. Rd8+ Re8 25. Rxe8#) 22. Qxe5 {
+[%csl Re8]} Rxd8 23. Rxd8+ Kh7 24. Qh5+ $18 Qh6 25. Qxh6+ Kxh6 26. Rxc8 $18)
+21. R1d5 $1 {[%csl Yb5,Gd5][%cal Yb5e8,Gd5b5] Hitting the defender of the Re8.}
+(21. Rxc8 Rxc8 22. Qg4 Qxe5) 21... c5 (21... Qa4 22. Rxa5) ({or} 21... Qb1+ 22.
+Kh2 {, both +-.}) {[%tqu "En","But what now?","Is there a light square you
+would like to put White's queen on!?","","d8c8","",10,"d5c5","",0,"c2c4","",0,
+"h5g5","",0]} 22. Rxc8 $1 (22. Rxc5 $4 Rxd8 {gives Black too much wood for the
+queen.}) ({as does} 22. c4 $2 Qb1+ 23. Rd1 (23. Kh2 Rbe6) 23... Rxd8 24. Rxb1
+Rxb1+) (22. Qg5 $2 Rg6) 22... Rxc8 {[%tqu "En","Show White's point, please.",
+"","","h5g4","",10]} 23. Qg4 {[%csl Gg4][%cal Gg4g7,Gg4c8] The final double
+attack - White wins back his rook with interest.} Rg6 24. Qxc8+ $18 Kh7 25. Bf4
+Qe2 26. Qxc5 Bb6 27. Rh5+ Rh6 (27... Kg8 28. Qc8+) 28. Qf5+ Kg8 29. Qc8+ Kh7
+30. Qf5+ Kg8 31. Bxh6 {[%cal Gf5f2]} g6 32. Qc8+ Kh7 33. Bg7+ gxh5 34. Qh8+ Kg6
+35. Qh6+ (35. Qh6+ Kf5 36. Qf6+ Ke4 37. Qe5#) 1-0
+

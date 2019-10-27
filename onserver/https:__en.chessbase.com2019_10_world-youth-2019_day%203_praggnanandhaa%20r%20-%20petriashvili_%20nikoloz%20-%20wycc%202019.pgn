@@ -1,0 +1,41 @@
+[Event "Wycc 2019"]
+[Site "followchess.com"]
+[Date "2019.10.04"]
+[Round "4.2"]
+[White "Praggnanandhaa R"]
+[Black "Petriashvili, Nikoloz"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2567"]
+[BlackElo "2441"]
+[Annotator "Sagar Shah"]
+[PlyCount "79"]
+[EventDate "2019.??.??"]
+[TimeControl "6000+30"]
+[WhiteClock "0:04:45"]
+[BlackClock "0:08:20"]
+
+1. e4 {593} c5 {573} 2. Nf3 {4} Nc6 {5} 3. Bb5 {10} e6 {310} 4. O-O {97} Nge7 {
+83} 5. d4 {50} cxd4 {454} 6. Nxd4 {22} a6 {309} 7. Be2 {188} Nxd4 {133} 8. Qxd4
+{8} Nc6 {1} 9. Qc3 {147} b5 {79} 10. Rd1 {165} Qc7 {72 First new move of the
+game.} (10... Bb7 {has been seen before.}) 11. Bg5 {1436} Bb7 {160} 12. Nd2 {
+290} h6 {654} 13. Bh4 {79} Rc8 {682} 14. a4 {686} b4 {91} 15. Qe3 {159} Bd6 {
+304 The critical moment in the game. What should White choose Bg3 or Nc4?} 16.
+Nc4 $6 {403 This wasn't the best decision in the game.} (16. Bg3 Bxg3 17. hxg3
+$16 {White has a clear edge here. He will go Nc4 and then put his rook on d6
+and dominate the position. However, Pragg tried to play more aggressively.})
+16... Bxh2+ {271} 17. Kh1 {23} Bf4 $6 {1421 This is what differentiates a
+strong GM from rest of the players. Petriashvili wasn't able to recognize the
+critical moment and made a move that was not the best.} (17... O-O 18. g3 {
+is definitely what would have worried Nikoloz.} d5 $1 19. Nd2 d4 20. Qf3 (20.
+Qd3 f5 $40) 20... f5 $1 21. Kxh2 fxe4 22. Qxe4 Rxf2+ $19) 18. Qc5 $1 {63} d6 {
+136} (18... a5 {was relatively better, but the position still remains
+dangerous for Black.}) 19. Nxd6+ {144} Bxd6 {3} 20. Rxd6 {46 This is a
+positional disaster for Black with all the dark squares being really weak.} O-O
+{12} 21. Bd3 {518} (21. Bg3 Qa5 22. Qxa5 Nxa5 23. Bd3 Nc4) 21... e5 {193} 22.
+Bg3 {180} Qe7 {107} 23. Rd5 {53} Rfe8 {229} 24. a5 {273} f6 {98} 25. Qxe7 {155}
+Rxe7 {1} 26. Rc5 {43} Nd4 {98} 27. Rxc8+ {17} Bxc8 {2} 28. Ra4 {83} Nc6 {1} 29.
+f3 {24} Kh7 {113} 30. b3 {118} Re8 {86} 31. Be1 {171} Rd8 {2} 32. Kg1 {26} Be6
+{45} 33. Bxa6 {152} Nd4 {5} 34. Ra2 {47} Rb8 {43} 35. Bd3 {30} Nc6 {62} 36. a6
+{21} Ra8 {9} 37. Bf2 {59} Bc8 {3} 38. Ra4 {55} Bd7 {32} 39. Bb5 {41} Be8 {3}
+40. a7 {21} 1-0

@@ -1,0 +1,36 @@
+[Event "6th Shamkir Chess 2019"]
+[Site "Shamkir"]
+[Date "2019.04.07"]
+[Round "7.1"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2790"]
+[BlackElo "2812"]
+[Annotator "Karsten Mueller"]
+[SetUp "1"]
+[FEN "8/5p2/p3N1p1/1p2P3/1Pk2P1p/4K2P/6P1/8 b - - 0 36"]
+[PlyCount "37"]
+[EventDate "2019.??.??"]
+[SourceTitle "1034_43"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+36... fxe6 {Pawn endings require precise calculation.} {[%tqu "En","White to
+move and draw","","","g2g4","",3,"g2g3","",0]} 37. g4 $1 {The right approach
+to prepare a breakthrough. The alternatives are too slow:} (37. g3 $2 Kxb4 38.
+f5 gxf5 39. gxh4 a5 40. h5 a4 41. h6 a3 42. h7 a2 43. h8=Q a1=Q 44. Qf8+ Kb3
+45. Qd6 Qc1+ 46. Kf2 Qc4 $19) (37. f5 $2 gxf5 38. g3 hxg3 39. h4 f4+ 40. Kf3
+Kd5 41. h5 Kxe5 42. h6 Kf6 $19) (37. Kf3 $2 Kxb4 38. Kg4 a5 39. Kg5 a4 40. Kxg6
+a3 41. f5 a2 42. f6 a1=Q 43. f7 Qf1 44. Kg7 Qxg2+ $19) 37... hxg3 38. h4 {
+Preparing to play h4-h5 to pave the way for the f- and e- pawn.} Kd5 (38...
+Kxb4 $2 39. h5 gxh5 40. f5 exf5 (40... Kc5 41. f6 $18) 41. e6 $18) 39. Kf3 Kc6
+40. Kxg3 a5 {But it is Black who is the first to engineer a breakthrough.} 41.
+bxa5 b4 42. h5 {However, White quickly catches up.} (42. f5 {is also playable,
+e.g.} gxf5 43. h5 b3 44. h6 b2 45. h7 b1=Q 46. h8=Q $11) 42... gxh5 43. f5 b3 (
+43... exf5 44. e6 b3 45. e7 Kd7 46. e8=Q+ Kxe8 47. a6 b2 48. a7 b1=Q 49. a8=Q+
+$11) 44. f6 $1 (44. a6 $2 b2 45. a7 Kb7 $19) 44... b2 (44... Kd7 45. a6 b2 46.
+a7 b1=Q 47. a8=Q $11) 45. f7 b1=Q 46. f8=Q Qg1+ 47. Kh3 Qg4+ 48. Kh2 Qe2+ 49.
+Kh3 Qxe5 50. Qb4 Qb5 51. Qe4+ Qd5 52. Qb4 Qb5 53. Qe4+ Qd5 54. Qb4 Qb5 1/2-1/2
+

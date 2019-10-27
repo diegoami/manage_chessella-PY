@@ -1,0 +1,53 @@
+
+
+[Event "26th Abu Dhabi Master 2019"]
+[Site "Abu Dhabi"]
+[Date "2019.08.02"]
+[Round "1.6"]
+[White "Divya Deshmukh"]
+[Black "Onischuk, Vladimir"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2373"]
+[BlackElo "2637"]
+[Annotator "TA"]
+[PlyCount "127"]
+[EventDate "2019.08.02"]
+[EventType "swiss"]
+[EventCountry "UAE"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,127,39,85,10,10,7,27,10,10,13,16,0,0,0,0,0,0,-5,-6,-27,-27,-25,-34,
+-41,-30,-93,-77,-89,-83,-132,-127,-115,-132,-123,-114,-122,-138,-128,-116,-135,
+-128,-125,-129,-175,-172,-203,-193,-198,-146,-139,-75,-74,224,210,233,237,239,
+221,215,230,213,211,310,319,313,319,313,310,299,223,224,203,440,430,609,552,
+636,612,800,782,752,732,715,512,714,695,547,524,528,512,509,491,481,471,1216,
+1058,956,508,1024,923,1479,1297,1939,1712,2139,2042,29971,29973,29974,29975,
+29975,29976,29977,29978,29977,29981,29981,29982,29982,29982]} 1. e4 d6 2. d4 g6
+3. Nc3 Bg7 4. Be3 a6 5. h4 h6 6. f4 {B06: Modern Defence} (6. h5 $16) 6... h5
+$11 7. Qd2 $146 ({Predecessor:} 7. Nf3 Nh6 8. Bd3 Ng4 9. Bg1 e6 10. Qd2 Nc6 11.
+O-O-O Bd7 12. Kb1 Ne7 13. Ng5 {0-1 (39) Grigoriants,S (2561)-Petrosian,T (2601)
+Riadh 2017}) 7... Nh6 8. Bd3 {White has an edge.} Nd7 9. Nf3 Nf6 10. O-O-O Nfg4
+11. Rhe1 c6 12. Bg1 d5 13. Na4 O-O 14. Kb1 dxe4 15. Bxe4 Nf6 16. Bd3 Bg4 17. c4
+(17. Rc1 $11 {keeps the balance.}) 17... Nf5 18. Rc1 e6 19. Qf2 Bxf3 20. gxf3
+b5 21. Nc5 {[%cal Ba4c5,Bc5d3,Bd3b4][%mdl 32]} bxc4 22. Rxc4 Nd5 23. Bxf5 exf5
+24. Nd3 Rc8 25. Rec1 Re8 26. a3 Ne3 27. Ra4 Bxd4 28. Qd2 Rb8 ({Black should
+play} 28... Qd5 $19 29. Ne1 Bg7 30. Qxd5 (30. Bxe3 $2 Qb3 $19 {[%mdl 64]
+Double Attack}) 30... Nxd5) 29. Nb4 $17 Qd7 (29... c5 $142 30. Nc6 Rxb2+ 31.
+Qxb2 Bxb2 32. Nxd8 Bxc1 33. Kxc1 Ng2 34. Bxc5 Rxd8) 30. Rxa6 {[#] aiming for
+Bxe3.} Re6 $2 {[%mdl 8192]} (30... c5 $17 {stays on course.} 31. Rxc5 Rbd8 32.
+Bxe3 Bxe3 33. Qxd7 Rxd7) 31. Raxc6 Rxc6 32. Rxc6 Rxb4 33. Qxb4 {Black must now
+prevent Rd6!} Qxc6 34. Qxd4 Nc4 35. Qc3 Qe6 (35... Qa6 {keeps fighting.} 36.
+Bd4 Na5) 36. Bd4 $18 Qe2 37. Ka2 {Bh8 is the strong threat.} Qe6 38. Ka1 Nd6 {
+With the idea ...Nb5.} 39. Be5 Nc4 {[#]} 40. Bf6 $1 ({Don't take} 40. Bh8 $6
+Kf8 $16) 40... Nd6 $2 (40... Nd2 41. Be5 (41. Qxd2 Qxf6 42. Qf2 Qd6 $11) 41...
+f6) 41. Qe5 Qd7 (41... Qxe5 $142 42. fxe5 Nc4) 42. Qd5 Kf8 43. Kb1 Ke8 44. a4
+Nc8 45. Qe5+ Kf8 46. Qc5+ Ke8 47. Qe3+ Kf8 48. b3 Qc6 49. Bd4 f6 50. Kb2 Kf7
+51. Qc3 Ne7 (51... Qe6 $142 52. Qc7+ Ke8) 52. Qxc6 Nxc6 {[%mdl 4096] Endgame
+KB-KN} 53. Be3 Ke6 (53... Nb4 $142 54. Bd2 Nd5) 54. Kc3 Kd5 55. b4 {[%cal
+Bb3b4,Bb4b5][%mdl 32]} Nd8 56. b5 Ne6 57. a5 {[%cal Ba4a5,Ba5a6,Ba6a7][%mdl 32]
+} g5 58. a6 {White mates.} Nc7 59. fxg5 fxg5 60. hxg5 Nxb5+ 61. Kb4 Nc7 62. a7
+Kc6 63. Bf4 Nd5+ 64. Kc4 {Accuracy: White = 68%, Black = 55%.} 1-0

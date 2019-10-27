@@ -1,0 +1,46 @@
+[Event "Wycc 2019"]
+[Site "followchess.com"]
+[Date "2019.10.11"]
+[Round "10.1"]
+[White "Praggnanandhaa R"]
+[Black "Pultinevicius, Paulius"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2567"]
+[BlackElo "2503"]
+[Annotator "Sagar Shah"]
+[PlyCount "125"]
+[EventDate "2019.??.??"]
+[TimeControl "6000+30"]
+[WhiteClock "0:14:30"]
+[BlackClock "0:15:05"]
+
+1. e4 {599} c6 {599} 2. d4 {6} d5 {4} 3. e5 {4} Bf5 {37} 4. Nd2 {44} e6 {12} 5.
+Nb3 {7} Nd7 {10} 6. Nf3 {7} c5 {75} 7. dxc5 {432} Bxc5 {11} 8. Nxc5 {326} Nxc5
+{7} 9. Nd4 {146} Ne7 {13} 10. Bb5+ {401} Nd7 {99} 11. f4 {89} Be4 {281} 12. O-O
+{298} O-O {279} 13. Be3 {240} Rc8 {180} 14. Bf2 {776} a6 {869} 15. Be2 {147}
+Nc5 {115} 16. c3 {293} b5 {236} 17. Nb3 {308} Na4 {94} 18. Qd2 {43} Nf5 {149}
+19. Nd4 {178} Qd7 {875} 20. Rac1 {1053} Rc7 {354} 21. b3 {312} Nc5 {52} 22.
+Rfd1 {28} Rfc8 {218} 23. Qb2 {58} Rb8 {678} 24. Qa3 {93} Qc8 {26} 25. Bf1 {382}
+Ne7 {97} 26. c4 $5 {58 An excellent decision by Pragg.} dxc4 {102} 27. bxc4 {8}
+b4 {319 It seems as if White has saddled himself with a weak pawn on c4 and
+the knight on c5 has a permanent outpost. However, as Pragg shows, the move
+Nb3 will evict the knight from c5 and White will have a lot of pressure on the
+queenside thanks to his bishop pair.} 28. Qa5 {226} Nd7 {406} 29. Nb3 {136} h6
+{305} 30. c5 {139} Bb7 {229} 31. Rd6 {43} Nc6 {149} 32. Qa4 {7} g5 {34 Black's
+position was already bad and in time pressure Pultinevicius decides to create
+some mess.} 33. Na5 {58} Nxa5 {41} 34. Qxa5 {1} gxf4 {27} 35. c6 $6 {29} (35.
+Qxb4 Bxg2 36. Qxf4 {was winning but Pragg didn't decide to go for it in time
+pressure.}) 35... Bxc6 $6 {36} (35... Rxc6 $1 36. Rdxc6 Bxc6 37. Bxa6 Ra8 {
+is the key point.} 38. Bxc8 Rxa5 39. Rxc6 b3 $1 {This is not at all easy to
+spot.} 40. Bxd7 bxa2 41. Bd4 Rd5 42. Bxe6 fxe6 43. Ra6 Rxd4 44. Rxa2 $11) 36.
+Bxa6 {9} Ra8 {30} 37. Bxc8 {31} Rxa5 {4} 38. Bxd7 {70} Rxd7 {6} 39. Rcxc6 {7}
+Rb7 {47} (39... Rxd6 40. exd6 b3 41. d7 $18) 40. Ra6 {74} Rxe5 {55} 41. Rab6 {0
+} Rxb6 {0} 42. Rxb6 {0} Ra5 {0} 43. Rxb4 {0} Rxa2 {0} 44. Bd4 {0 As Pragg
+shows, this is not a technical position because Black cannot coordinate well.
+He just goes on to win this with ease.} Ra5 {0} 45. Bf6 {0} Rf5 {0} 46. Bb2 {0}
+Kh7 {0} 47. Re4 {0} Kg6 {0} 48. Be5 {0} Kg5 {0} 49. Bd6 {0} f3 {0} 50. g3 {0}
+Rd5 {0} 51. Be7+ {0} Kg6 {0} 52. Rg4+ {0} Kh5 {0} 53. Rg7 {0} f5 {0} 54. h3 {0}
+Rd4 {0} 55. Kf2 {0} e5 {0} 56. Kxf3 {0} Rd3+ {0} 57. Ke2 {0} Rd4 {0} 58. Bf6 {0
+} Ra4 {0} 59. Kd3 {0} Rd4+ {0} 60. Kc3 {0} Re4 {0} 61. Rg8 {0} Ra4 {0} 62. Bxe5
+{0} Ra1 {0} 63. Rh8 {0} 1-0

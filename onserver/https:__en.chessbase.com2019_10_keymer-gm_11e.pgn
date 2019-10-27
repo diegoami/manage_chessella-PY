@@ -1,0 +1,40 @@
+[Event "FIDE Grand Swiss"]
+[Site "Douglas IoM"]
+[Date "2019.10.21"]
+[Round "11"]
+[White "Piorun, Kacper"]
+[Black "Keymer, Vincent"]
+[Result "1-0"]
+[ECO "B42"]
+[WhiteElo "2643"]
+[BlackElo "2506"]
+[Annotator "Thorsten Cmiel"]
+[PlyCount "89"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,89,34,34,57,46,46,27,31,37,70,22,40,38,38,60,62,32,32,32,31,32,28,36,
+51,51,51,24,54,56,56,26,53,50,86,42,48,70,77,77,91,91,100,100,103,58,100,100,
+104,74,75,75,75,67,53,82,117,82,129,127,124,124,226,226,238,124,99,91,91,73,
+131,131,132,132,147,93,164,142,129,129,129,129,199,199,246,333,370,352,383,240,
+240,217]} 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 {No Najdorf but a Paulsen.}
+5. Bd3 Bc5 6. Nb3 Ba7 7. O-O Ne7 8. Qe2 Nbc6 9. Be3 O-O 10. Rd1 (10. Bxa7 Rxa7
+11. c4 (11. N1d2) 11... d5 12. exd5 exd5 13. Nc3 d4 14. Ne4 Ng6 15. f4 f5 16.
+Ng3 b6 17. Rad1 Re7 {1-0 (46) Jakovenko,D (2735) -Artemiev,V (2704) Poikovsky
+2018}) 10... d6 (10... Bb8 $5) 11. c4 e5 12. Bxa7 Rxa7 13. Qe3 Ra8 14. Nc3 Be6
+15. Bf1 Qb8 16. Rd2 (16. Nd5 b5 17. Rac1 bxc4 18. Nxe7+ Nxe7 19. Bxc4 Bxc4 20.
+Rxc4) 16... a5 {[#] Probably a novelty. But Vincent's move weakens b5 and in
+the game this turns out to be a serious disadvantage.} (16... f5 17. f3 f4 18.
+Qf2 b5 19. Nd5 (19. c5 $5 Bxb3 20. cxd6) 19... Bf7 20. Rad1 Nxd5 21. cxd5 Ne7
+22. Rc2 (22. Na5) 22... Rc8 (22... a5) 23. Rdc1 Rxc2 24. Qxc2 Qb6+ 25. Kh1 (25.
+Qf2 Qd8 26. g3) 25... Rc8 26. Qd2 Rxc1 27. Nxc1 g5 $11 {0-1 (40) Zhai,M (2243)
+-Nisipeanu,L (2686) Canberra 2014}) 17. Rad1 (17. a4) 17... a4 18. Na1 Nd4 19.
+Nc2 Nec6 20. Nb5 $1 Nxb5 (20... Nxc2 21. Rxc2 Nb4 22. Rcd2 Nxa2 $4 23. Qa3) 21.
+cxb5 Na5 22. Qa3 Qc7 ({Maybe Black should try to create complications and hope
+for the best.} 22... Nb3 $5 23. Rxd6 Rc8 24. Ne3 Nd4) 23. Nb4 Rfc8 24. Rc2 (24.
+Rxd6 Nc4 25. Bxc4 Qxc4 26. Nd5) 24... Qd8 25. Rxc8 (25. Qxa4 $143 $2 Nb3) 25...
+Rxc8 26. Qxa4 Nc4 27. Nd3 {[#] Piorun is clearly better and converts his
+advantage smoothly.} f6 28. Qb4 Kf7 29. b3 Nb6 30. f4 Bg4 31. Rd2 Qc7 32. f5
+Ke7 33. a4 Bh5 34. Nb2 Bf7 35. a5 Nd7 36. Na4 Nc5 37. Nb6 Rd8 38. Nd5+ Bxd5 39.
+Rxd5 g6 40. Qc4 Rc8 41. Rd1 Qd7 42. Qd5 gxf5 43. exf5 Qxf5 44. Bc4 Qe6 45. Qd2
+1-0
+

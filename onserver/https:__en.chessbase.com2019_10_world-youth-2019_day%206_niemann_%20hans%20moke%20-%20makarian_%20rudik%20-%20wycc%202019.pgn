@@ -1,0 +1,53 @@
+[Event "Wycc 2019"]
+[Site "followchess.com"]
+[Date "2019.10.07"]
+[Round "7.1"]
+[White "Niemann, Hans Moke"]
+[Black "Makarian, Rudik"]
+[Result "1-0"]
+[ECO "A61"]
+[WhiteElo "2439"]
+[BlackElo "2386"]
+[Annotator "Sagar Shah"]
+[PlyCount "122"]
+[EventDate "2019.??.??"]
+[TimeControl "6000+30"]
+[WhiteClock "0:02:45"]
+[BlackClock "1:09:29"]
+
+1. d4 {576} Nf6 {573} 2. c4 {4} e6 {4} 3. Nf3 {3} c5 {76} 4. d5 {13} exd5 {20}
+5. cxd5 {145} g6 {5} 6. Nc3 {32} d6 {10} 7. Bf4 {48} Bg7 {4} 8. h3 {5} (8. Qa4+
+{This is considered to be a stronger move when Black hasn't play ...a6. But
+Hans didn't want to get into the sharp line that occurs after} Bd7 9. Qb3 b5 $5
+{which according to him was well prepared by his opponent.}) 8... O-O {3} 9. e3
+{8} Ne8 {1} 10. Be2 {34} Nd7 {4} 11. O-O {6} Ne5 {1} 12. Nd2 {39} Rb8 {25} 13.
+a4 {141} b6 {30 Black is trying to play this position without investing a move
+in the usual ...a6. But this is not the best according to Hans Niemann.} 14.
+Bg3 {65} f5 {306} 15. Rb1 {376} Nc7 {429} 16. Nb5 $1 {451} Nxb5 {1090} (16...
+Nxd5 $1 {This had to be played.} 17. Qb3 (17. Nc4 Be6 $1 18. Nbxd6 Nc6 $11)
+17... Be6 18. Bxe5 dxe5 19. Bc4 Kh8 20. Rfd1 $44) 17. axb5 {5} Bd7 {156} 18. f4
+{243} Nf7 {14} 19. Qb3 {10} a6 $6 {856} 20. bxa6 $1 {365} b5 {18} 21. Qa3 {58}
+Qb6 {212} 22. b4 {5} Ra8 $6 {639} (22... c4 $1 23. Bf2 Ra8 24. Ra1 $1 {is what
+Hans Niemann wanted to do.} Rfe8 $1 (24... Bc8 25. a7 Re8 26. e4 $36 Bd4 27.
+Qa5 Bxf2+ 28. Rxf2 Qxa5 29. Rxa5 Re7 30. Rxb5 $14) (24... Bxa1 25. Rxa1 {
+is excellent compensation.}) 25. e4 Bd4 $17) 23. bxc5 {8} dxc5 {4} 24. Nc4 {51}
+Qxa6 {197} 25. Qxa6 {27} Rxa6 {1} 26. Ne5 {7} Rd6 {34} 27. Nxd7 {90} Rxd7 {5}
+28. Rfc1 $6 {727} (28. Bxb5 Rxd5 29. Bc4 Rd7 30. Bh4 $16) 28... c4 {446} (28...
+Rxd5 29. Rxb5 Nd6 30. Bf3 Rd3 31. Rbxc5 Rxe3 $14 {White keeps an edge here,
+but it should be very close to a draw.}) 29. Rxb5 {61} Nd6 {41} 30. Rb6 {292}
+Re8 {212} 31. Bf2 {38} Bd4 {331} 32. exd4 {11} Rxe2 {2} 33. Be1 {28} Ne4 {848}
+34. Bb4 {2} c3 {34} 35. Bxc3 {31} Nxc3 {11} 36. Rxc3 {3} Re4 {69} 37. Rc4 {68}
+Kf7 {158} 38. g3 {203} Rxd5 {175} 39. Rb7+ {3} Re7 {35} 40. Rxe7+ {7} Kxe7 {2}
+41. Kf2 {5} Ra5 {109} 42. g4 {472} Kd6 {0} 43. Kg3 {0} Ra3+ {0} 44. Kh4 {0} Rf3
+{0} 45. d5 $1 {0 Very interesting play by Hans. He gives up a couple of pawns
+to activate his rook.} Kxd5 {0} 46. Rc7 {0} Rxf4 {0} (46... Ke4 47. Rxh7 Kxf4
+48. Rg7 g5+ 49. Rxg5 Rxh3+ 50. Kxh3 Kxg5 51. gxf5 Kxf5 {was a nice way to end
+the game.}) 47. Kg5 {0} Ra4 {0} 48. Rxh7 {0} fxg4 {0} 49. Rh4 $6 {0} (49. hxg4
+$1 {was essentially winning.} Ke6 50. Rg7 Rb4 51. Rxg6+ Kf7 52. Kh6 $18) 49...
+Ra3 $1 {0} (49... Ke6 $1 {is also a draw.} 50. Kxg6 Ra8 51. hxg4 (51. Rxg4 Rh8
+52. h4 Rg8+ 53. Kh5 Rxg4 54. Kxg4 Kf7 $11) 51... Rg8+ 52. Kh7 Kf7 $11) 50. hxg4
+{0} Ra4 $2 {0 The final mistake of the game.} (50... Ke4 51. Kxg6 Ra6+ 52. Kh5
+Ra8 53. Kg6 Ra6+ $11) 51. Rh6 {0} Ke6 {0} 52. Rxg6+ {0} Kf7 {0} 53. Kh6 {0} Ra1
+{0} 54. Rg7+ {0} Kf8 {0} 55. g5 Ra6+ {253} 56. Kh7 {0} Ra5 {2} 57. Rg8+ {0} Ke7
+{24} 58. g6 {0} Ra1 {111} 59. Kg7 {0} Ra7 {46} 60. Rf8 {0} Ke6+ {9} 61. Kh8 {0}
+Kd5 {The entire game was not without mistakes, but it was a great fight.} 1-0

@@ -1,0 +1,47 @@
+[Event "4th GRENKE Open 2019"]
+[Site "Karlsruhe"]
+[Date "2019.04.21"]
+[Round "7.80"]
+[White "Chittka, Julius"]
+[Black "Bronstein, Or"]
+[Result "1-0"]
+[ECO "D90"]
+[WhiteElo "2268"]
+[BlackElo "2387"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "75"]
+[EventDate "2019.??.??"]
+[SourceTitle "2019_32"]
+
+{[%evp 0,75,18,22,24,-10,33,33,47,46,51,12,-2,30,14,-20,13,20,20,0,0,0,-43,-60,
+22,-64,-5,-64,-78,-97,71,-28,-36,-221,82,89,104,125,145,145,128,164,131,-66,
+-242,-151,-218,-288,-277,-365,-381,-399,-379,-378,-272,-292,-379,-336,-374,
+-399,135,135,496,566,639,639,1301,1619,1423,1714,1738,1863,1940,1055,1074,1069,
+29987,29988]} 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. h4 dxc4 6. e4 c5 7. d5
+b5 8. h5 O-O 9. hxg6 fxg6 10. Rh4 a6 11. Bg5 Qe8 12. e5 Nfd7 13. d6 e6 14. Nd5
+Bb7 15. Ne7+ Kh8 {In the diagram position White must act fast since his centre
+is about to be blown apart. What would be your choice?} {[%tqu "En","Black's
+boxed in king on the h-file has no square since g8 is being controlled by the
+Ne7. How can White get access?","Imagine the h-file opened - which two white
+pieces must be moved so that the queen d1 can reach h1?","","f1d3","",10]} 16.
+Bd3 $1 {[%csl Gd3][%cal Gd3h7] Developing/getting rid of the bishop.} (16. Qc2
+Rf5 $1 $13) 16... cxd3 (16... Bxf3 {[%tqu "En","Black has captured on f3. What
+now?","","","d3g6","",10]} 17. Bxg6 $1 {You attack my queen, I attack yours -
+but my real threat is different one!} Bxd1 (17... Qxg6 18. Nxg6+ $18) (17...
+Qxe7 18. dxe7 Bxd1 19. Rxd1 $18 {[%csl Ge7]}) {[%tqu "En","Enjoy!","","",
+"h4h7","",10]} 18. Rxh7# {[%csl Gh7,Rh8][%cal Gg6h7,Ge7g8] Checkmate!}) {
+[%tqu "En","Black has swallowed the bishop. Please show White's idea.","","",
+"h4h7","",10]} 17. Rxh7+ $1 {[%csl Gh7,Rh8] Ripping open the h-file, followed
+by...} Kxh7 {[%tqu "En","And the final point, please.","","","e1d2","",10] ...}
+18. Kd2 $1 {[%csl Rh7][%cal Gd1h1,Gh1h7,Ge7g8,Ge7g6] That's it! The king
+clears the way for White's queen to h1. Mate alert!} Qxe7 {Black must give the
+queen to liquidate White's knight and create an escape square on g8 for the
+king.} (18... Bxf3 19. gxf3 {makes little difference.} ({not} 19. Qh1+ $4 Bh5))
+19. dxe7 Re8 20. Qh1+ Kg8 21. Qh4 $2 (21. Qh3 $1 {[%cal Gh3e6] would have
+crowned White's play, e.g.} Kf7 22. Bh6 $1 {[%cal Gf3g5]} Bxh6+ (22... Bxf3 23.
+Qxf3+ {[%cal Gf3f7,Gf3a8]}) 23. Qxh6 Bxf3 24. Qh7#) 21... Bxf3 22. gxf3 Nxe5
+$19 23. Qh3 Kf7 24. Re1 Nbc6 25. f4 Rh8 26. Qg2 Rh2 27. Qg3 Nc4+ 28. Kxd3 Nxb2+
+29. Kc2 Rah8 $2 (29... Nd4+ 30. Kb1 Rhh8 {and Black wins.}) 30. f5 $1 {[%cal
+Gg3c7,Ge7e8]} Be5 31. fxg6+ Ke8 32. Rxe5 Nb4+ 33. Kxb2 Rxf2+ 34. Kb3 Rhh2 35.
+Qxh2 Rxh2 36. g7 Rh3+ 37. Re3 c4+ 38. Kxb4 1-0
+

@@ -1,0 +1,304 @@
+[Event "Match Steinitz-Lange +3-0=0"]
+[Site "Vienna"]
+[Date "1860.??.??"]
+[Round "?"]
+[White "Steinitz, William"]
+[Black "Lange, Max"]
+[Result "1-0"]
+[ECO "C37"]
+[Annotator "Platz"]
+[PlyCount "43"]
+[EventDate "1860.??.??"]
+[EventType "match"]
+[EventRounds "3"]
+[EventCountry "AUT"]
+
+1. e4 e5 2. f4 {In the 19th century the King's Gambit and the Evans Gambit
+were the favourite openings of the romantic chess players.} exf4 3. Nf3 g5 {
+This was the usual move in those days. J. H. Zukertort believed that 3...g5 is
+advantageous for Black while Dr. Tarrasch called it a "harakiri move"weakening
+the King's side considerably.} 4. Bc4 (4. h4 g4 $1 (4... f6 $2 5. Nxg5 $1 fxg5
+6. Qh5+ Ke7 7. Qxg5+ Ke8 8. Qh5+ $1 Ke7 9. Qe5+ Kf7 10. Bc4+ $18) 5. Ne5 {
+and now Black has three good moves. He can play either} Nf6 ({or} 5... Bg7) ({
+or} 5... d6)) 4... Nc6 (4... Bg7) ({or} 4... g4 $5 {are played more frequently.
+}) 5. d4 g4 $5 {A risky move, for White can sacrifice his knight.} 6. c3 $1
+gxf3 7. O-O (7. Qxf3 $5 Qh4+ 8. g3 Qe7 $1 9. Bxf4 Bg7 10. Nd2 $13 (10. Bxc7 $2
+d5 $1 $19)) 7... fxg2 $2 (7... Qe7 $1 8. Rxf3 (8. Qxf3 Ne5 $1 9. dxe5 Qc5+ 10.
+Kh1 Qxc4) 8... d6 (8... Ne5 $2 9. dxe5 Qc5+ 10. Qd4 $1 $18) 9. h3 $13) 8. Bxf7+
+$1 {Gladly sacrificing one piece after the other.} Kxf7 (8... Ke7 $2 9. Rxf4
+$16) 9. Qh5+ Ke7 $2 (9... Kg7 $1 {is much better} 10. Qg4+ ({
+if White wants to avoid a draw at all costs he may try} 10. Rf2 $5 Qf6 $1 11.
+Rxg2+ Qg6 12. e5 $13) 10... Kf7 11. Qh5+ Kg7 $11) 10. Rxf4 $18 Nh6 (10... Nf6
+11. Rxf6 $1 Kxf6 12. Bg5+) (10... Qe8 11. Qh4+ Ke6 (11... Kd6 12. Rf6+ $1 $18)
+12. d5+ Kd6 13. Na3 {and the Black King is in serious trouble} Be7 ({or} 13...
+Qd8 14. Nb5+ Kc5 15. Qf2+ Kxb5 16. a4+ Ka5 17. Rf5 $18) 14. Qg3 Bf6 15. Rxf6+
+Ke7 (15... Kc5 16. Rxc6+ $1 dxc6 17. Be3#) 16. Qg7+ Kd8 17. Rf8 $18) 11. Rxf8
+$2 {Steinitz unnecessarily sacrifes the exchange.} (11. Rf2 $18 {
+threatening Bg5+ and Bxh6 is easier and better.}) 11... Qxf8 $1 (11... Rxf8 $2
+12. Bg5+ Rf6 13. e5 $18) 12. Bg5+ Ke6 $2 ({Black should have played} 12... Kd6
+$1 13. Na3 Ne5 $1 14. Bf6 ({after} 14. Nc4+ $5 Nxc4 15. Bxh6 Ke7 $1 16. Bxf8+
+Rxf8 {Black gets some compensation for his Queen} 17. Qc5+ $2 d6 18. Qxc4 {
+is a blunder on account of} Bh3 $1 $19) 14... Ke6 15. Qxe5+ Kf7 16. Bxh8 d6 17.
+Qf6+ Kg8 18. Qxf8+ Kxf8 19. Kxg2 ({or} 19. Nb5 $5 {
+, in both cases with an extra pawn for White.})) 13. d5+ Kd6 14. Nd2 $2 (14.
+Na3 $1 $18 {is better threatening both Nc4+ and Nb5+.}) 14... Kc5 $2 (14... Ne5
+$1 15. Bxh6 Qf6 16. Bg5 Qf8 (16... Qg6 $2 17. Be7+ $1 Kxe7 18. Qxe5+) 17. Qh4
+c6 $1 18. Bf6 $1 ({after} 18. Bf4 b5 19. c4 Rg8 20. Rc1 b4 21. c5+ Kc7 22.
+Bxe5+ Kb7 23. dxc6+ dxc6 24. Qxh7+ Ka6 25. Qc7 Bb7 26. Nb3 {
+Black can avoid checkmate by playing} Qd8) 18... Kc7 $1 19. Bxe5+ d6 20. Bxh8
+Qxh8 21. Nc4 $1 $16) 15. Be3+ Kb5 ({or} 15... Kd6 16. Nc4+ Ke7 17. Bg5+ Qf6 18.
+Bxf6+ {winning}) 16. Qe2+ Ka5 17. Nb3+ Ka4 18. Qc4+ Nb4 19. Nc5+ {
+and Black resigned because of} Qxc5 (19... Ka5 20. Qxb4#) 20. Bxc5 ({or} 20.
+Qxc5 a5 21. b3+ Ka3 22. Bc1#) 20... a5 21. cxb4 {threatening 22.b5 checkmate}
+b5 22. Qb3# 1-0
+
+[Event "Baden-Baden"]
+[Site "Baden-Baden"]
+[Date "1870.07.26"]
+[Round "9"]
+[White "Steinitz, William"]
+[Black "Neumann, Gustav Richard"]
+[Result "1-0"]
+[ECO "C29"]
+[Annotator "Platz"]
+[PlyCount "59"]
+[EventDate "1870.07.18"]
+[EventType "tourn"]
+[EventRounds "18"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2001.11.25"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 $1 4. d3 (4. exd5) ({or} 4. fxe5 {
+are considered to be better.}) 4... dxe4 (4... exf4 $1 5. exd5 Nxd5 6. Nxd5
+Qxd5 7. Bxf4 Bd6 $15) 5. fxe5 Ng4 6. Nxe4 Nxe5 (6... Nc6 $1 {
+is more prudent, because Pe5 cannot run away.}) 7. d4 $1 Ng6 8. Nf3 Qe7 $2 {
+White has already developed two minor pieces, but Black only one. He should
+therefore quickly develop his other pieces instead of trying to win a piece.
+Bf8 has no more moves now and Black will have difficulties to castle.} 9. Bd3
+$1 f5 10. Bg5 ({Another good move is} 10. O-O $5 fxe4 11. Bxe4 $1 {
+with a strong attack for the sacrificed piece} Qxe4 $2 12. Re1 $18) 10... Qe6
+11. O-O $5 ({By playing} 11. d5 Qxd5 {Steinitz could have saved his knight.
+But he prefers the "romantic" style sacrificing pawns and pieces in order to
+obtain an overwhelming attack.}) 11... fxe4 12. Bxe4 $1 Bd6 (12... Qxe4 $2 13.
+Re1 $18) (12... Nc6 $5 {might provoke} 13. d5 Bc5+ 14. Kh1 Qxe4 15. Re1 Qxe1+
+16. Qxe1+ Nce7 17. Qc3 b6 18. Qxg7 Rg8 19. Qxh7 Bf5 {with good compensation
+for the lost queen. But White can play 13.Re1! instead of 13.d5.}) 13. Ne5 (13.
+Nh4 $5) 13... Bxe5 14. dxe5 Nd7 15. Qh5 $1 Ndf8 16. Rad1 {
+Black is a piece up, but his King is helpless and cannot castle.} Bd7 {
+17.Rd8 checkmate must be prevented.} (16... Qb6+ 17. Kh1 Be6 18. b3 $18) 17. h3
+{A waiting move after which Black has difficulties to find a sufficient reply.}
+(17. Kh1 {was another good move with a similiar tendency. Black must not play}
+Qg4 $2 {on account of} 18. Bd5 $1 Qxh5 ({or} 18... Be6 19. Qxg4 {
+winning the queen}) 19. Bf7#) 17... Rg8 (17... Qb6+ 18. Kh1 $1 $18 {
+I don't see any way for Black to get out of trouble. Grabbing a pawn by} Qxb2
+$2 {loses quickly} 19. Rxf8+ $1 Rxf8 20. Qxh7 $18) 18. Kh1 $1 {
+Well played. Now Black is in a sort of "zugzwang".} Qb6 (18... c6 {
+prevents Bd5, but White can play} 19. Rd6 $1 Qxe5 20. Rxg6 $1 hxg6 (20... Qxe4
+21. Re6#) 21. Bxg6+ Nxg6 22. Qxg6#) (18... Bc6 {
+gives rise to beautiful combinations, e.g.} 19. Bf5 $1 Qc4 ({or} 19... Qf7 20.
+e6 Nxe6 21. Qe2 $1 Bd7 (21... Ngf8 22. Bxe6 Qxe6 23. Rxf8+ $1) 22. Rxd7 $1 Kxd7
+23. Rd1+ $18) 20. e6 Bd5 (20... Be4 21. e7 $18) 21. e7 Nd7 22. b3 Qc6 23. Rxd5
+$1 Nf6 (23... Qxd5 $2 24. Bxg6+ hxg6 25. Qxg6+ Qf7 26. Qxf7#) 24. Bxg6+ hxg6
+25. Qxg6+ Kxe7 26. Rxf6 $1 gxf6 ({there are no more saving moves, e.g.} 26...
+Qxd5 27. Rf7+ {double check} Ke8 28. Rxc7+ Qf7 29. Qxf7#) ({or} 26... Qxf6 27.
+Bxf6+ gxf6 28. Qh7+ Kf8 29. Rd7 $18) 27. Re5+ Kd7 (27... Kd8 28. Bxf6+ Kd7 29.
+Qf5+ Qe6 30. Qxe6#) 28. Qf5+ Kd8 29. Bxf6+ {
+now Black must sacrifice his queen for the white bishop} Qxf6 30. Qxf6+ Kd7 31.
+Qe6+ Kd8 32. Rd5#) 19. e6 {By sacrificing a pawn the e-file shall be opened.
+Black is practically playing without his two rooks, for they cannot be brought
+into action.} Bxe6 (19... Nxe6 $2 20. Bxg6+ hxg6 21. Qxg6#) (19... Qxe6 $2 20.
+Bxb7 $18 (20. Bd5 $18)) 20. Rd2 a5 {At last Ra8 is getting a little more scope.
+} (20... Bxa2 $2 21. b3 $1 $18) 21. b3 a4 22. Rfd1 Bd7 (22... c6 23. Re2 $1 $18
+) (22... Rh8 23. Rd8+ Rxd8 24. Rxd8+ Kf7 25. Qf3+ Kg8 26. Be7 $1 Bf7 (26...
+Nxe7 $2 27. Rxf8#) 27. Bd5 $18) 23. Rxd7 $1 {Another pretty sacrifice by the
+"romantic" Steinitz. Black resigned, because it would be useless to play on, e.
+g.} Nxd7 (23... Qe6 24. Re7+ $1) 24. Bxg6+ Kf8 $1 (24... Qxg6 $2 25. Qe2+ $1
+Kf7 26. Qe7#) 25. Rxd7 Qxg6 (25... hxg6 26. Qf3+) 26. Qf3+ Ke8 27. Re7+ Kd8 28.
+Qd5+ Kc8 29. Qxg8+ Qe8 30. Qxe8# 1-0
+
+[Event "Casual game, played in Vienna"]
+[Site "Vienna"]
+[Date "1860.??.??"]
+[Round "?"]
+[White "Hamppe, Carl"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[ECO "C25"]
+[PlyCount "62"]
+[EventDate "1860.??.??"]
+[EventType "game"]
+[EventRounds "1"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "1998.11.10"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Bc5 4. d3 d6 5. Nge2 Be6 6. O-O Nf6 7. Bg5 Qd7 8.
+Nd5 Bxd5 9. exd5 Ne7 10. Nc3 Bd4 11. Bxf6 gxf6 12. Ne4 Qf5 13. Bb5+ Kf8 14. c3
+Bb6 15. a4 a5 16. Bc4 Qg6 17. Kh1 f5 18. Nd2 f4 19. Ne4 f5 20. Nd2 h5 21. Qf3
+Kg7 22. d4 Qg4 23. dxe5 dxe5 24. Rae1 Ng6 25. Ba2 e4 26. Qh3 f3 27. Nc4 Nf4 28.
+Qxg4+ hxg4 29. gxf3 g3 30. fxg3 Rxh2+ 31. Kxh2 Rh8# 0-1
+
+[Event "Match Steinitz-Anderssen +8-6=0"]
+[Site "London"]
+[Date "1866.??.??"]
+[Round "2"]
+[White "Steinitz, William"]
+[Black "Anderssen, Adolf"]
+[Result "1-0"]
+[ECO "C37"]
+[PlyCount "109"]
+[EventDate "1866.07.18"]
+[EventType "match"]
+[EventRounds "14"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2001.11.25"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Ne5 Qh4+ 6. Kf1 Nh6 7. d4 d6 8. Nd3
+f3 9. g3 Qh3+ 10. Ke1 Qh5 11. Nc3 c6 12. Bd2 Qg6 13. Nf4 Qf6 14. Be3 Nd7 15.
+Kf2 Ng8 16. e5 Qe7 17. e6 fxe6 18. Nxe6 Ndf6 19. Bf4 Bxe6 20. Bxe6 Kd8 21. Re1
+Qg7 22. d5 c5 23. Nb5 Ne8 24. Qd2 Ngf6 25. Qa5+ b6 26. Qa4 Qb7 27. Bg5 Be7 28.
+Bf7 Qd7 29. Bxe8 Rxe8 30. Re6 a6 31. Rae1 Qxb5 32. Qxb5 axb5 33. Bxf6 Ra7 34.
+Rxd6+ Rd7 35. Rde6 Bxf6 36. Rxe8+ Kc7 37. R8e6 Bxb2 38. Re7 Bd4+ 39. Kf1 Rxe7
+40. Rxe7+ Kd6 41. Rxh7 Kxd5 42. Rh4 Kc4 43. Rxg4 Kc3 44. h4 Kxc2 45. h5 Be3 46.
+Rf4 c4 47. h6 Bxf4 48. gxf4 c3 49. h7 Kb1 50. h8=Q c2 51. Qh7 Kb2 52. Qg7+ Kxa2
+53. Qc3 Kb1 54. Qb3+ Kc1 55. f5 1-0
+
+[Event "Match Steinitz-Anderssen +8-6=0"]
+[Site "London"]
+[Date "1866.??.??"]
+[Round "11"]
+[White "Anderssen, Adolf"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[ECO "C51"]
+[PlyCount "86"]
+[EventDate "1866.07.18"]
+[EventType "match"]
+[EventRounds "14"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2001.11.25"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. O-O d6 7. d4 exd4 8.
+cxd4 Bb6 9. d5 Na5 10. Bb2 Ne7 11. Bd3 O-O 12. Nc3 c6 13. Qd2 cxd5 14. Nxd5 Ng6
+15. Nxb6 Qxb6 16. Rab1 Qd8 17. Nd4 Ne5 18. Ba1 Nxd3 19. Qxd3 Nc6 20. Nb5 Qe7
+21. Nxd6 Rd8 22. Qg3 f6 23. Rbd1 Be6 24. Rfe1 Bxa2 25. Nf5 Qf8 26. Nd6 Rd7 27.
+Rd2 Rad8 28. Red1 Be6 29. h4 a5 30. Bc3 a4 31. Rd3 a3 32. h5 h6 33. R3d2 a2 34.
+Bb2 Ne5 35. Ba3 Rxd6 36. Bxd6 Rxd6 37. Rxd6 Qxd6 38. Rc1 Qd4 39. Qa3 Ng4 40.
+Rf1 Nxf2 41. Kh2 Ng4+ 42. Kh1 Qe5 43. g3 Qxh5+ 0-1
+
+[Event "From a simul, played in England"]
+[Site "Great Britain"]
+[Date "1872.??.??"]
+[Round "?"]
+[White "Fisher, Bernard Wilhelm"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[ECO "C23"]
+[PlyCount "48"]
+[EventDate "1872.??.??"]
+[EventType "simul"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "1998.11.10"]
+
+1. e4 e5 2. Bc4 f5 3. Bxg8 Rxg8 4. exf5 d5 5. Qh5+ g6 6. fxg6 Rxg6 7. Ne2 Nc6
+8. O-O Bg4 9. Qxh7 Rh6 10. Qd3 e4 11. Qe3 Qh4 12. h3 Bxe2 13. Qxe2 Nd4 14. Qd1
+Nf3+ 15. Kh1 Qxh3+ 16. gxh3 Rxh3+ 17. Kg2 Rh2+ 18. Kg3 Bd6+ 19. Kg4 Rh4+ 20.
+Kf5 Rh5+ 21. Kg6 Rg5+ 22. Kh6 Bf8+ 23. Kh7 Kf7 24. Rh1 Bg7 0-1
+
+[Event "London"]
+[Site "London"]
+[Date "1872.07.14"]
+[Round "?"]
+[White "Steinitz, William"]
+[Black "De Vere, Cecil Valentine"]
+[Result "1-0"]
+[ECO "C30"]
+[PlyCount "35"]
+[EventDate "1872.06.18"]
+[EventType "tourn"]
+[EventRounds "12"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2001.11.25"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Bc4 Nf6 5. d3 O-O 6. Nc3 Ng4 7. Qe2 Nc6 8. f5
+Kh8 9. Ng5 Nh6 10. Qh5 Nb4 11. Bb3 Bd7 12. a3 Nc6 13. Nxh7 Kxh7 14. Bg5 Qe8 15.
+f6 Rg8 16. fxg7 Rxg7 17. Qxh6+ Kg8 18. Nd5 1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1872.07.06"]
+[Round "?"]
+[White "Steinitz, William"]
+[Black "Zukertort, Johannes Hermann"]
+[Result "1-0"]
+[ECO "C25"]
+[PlyCount "101"]
+[EventDate "1872.06.18"]
+[EventType "tourn"]
+[EventRounds "12"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2001.11.25"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. d4 Qh4+ 5. Ke2 d5 6. exd5 Bg4+ 7. Nf3 O-O-O
+8. dxc6 Bc5 9. cxb7+ Kb8 10. Nb5 Nf6 11. Kd3 Qh5 12. Kc3 Bxd4+ 13. Nbxd4 Qc5+
+14. Kb3 Qb6+ 15. Bb5 Bxf3 16. Qxf3 Rxd4 17. Qc6 Qa5 18. c3 Rd6 19. Qc4 a6 20.
+Ba4 Nd5 21. Ka3 g5 22. b4 Qb6 23. Qd4 Qxd4 24. cxd4 Nb6 25. Bb2 Nc4+ 26. Kb3
+Nxb2 27. Kxb2 Rxd4 28. Kc3 Rhd8 29. Rad1 R4d6 30. Rxd6 Rxd6 31. Rd1 Rf6 32. Bc2
+Kxb7 33. Bxh7 Kb6 34. h3 f3 35. gxf3 Rxf3+ 36. Rd3 Rf2 37. a4 a5 38. bxa5+ Kxa5
+39. Rd5+ Kb6 40. a5+ Ka7 41. Bd3 Rf3 42. Rxg5 Rxh3 43. Rf5 Rh7 44. Rc5 f5 45.
+Rxf5 Re7 46. Rg5 Rd7 47. Re5 Rg7 48. Re8 Rg1 49. Be4 Rc1+ 50. Kb4 c5+ 51. Kb5
+1-0
+
+[Event "Match Steinitz-Zukertort +7-1=4"]
+[Site "London"]
+[Date "1872.08.08"]
+[Round "2"]
+[White "Steinitz, William"]
+[Black "Zukertort, Johannes Hermann"]
+[Result "1-0"]
+[ECO "C52"]
+[PlyCount "61"]
+[EventDate "1872.08.06"]
+[EventType "match"]
+[EventRounds "12"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2001.11.25"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O dxc3 8.
+Qb3 Qf6 9. Bg5 Qg6 10. Nxc3 Bxc3 11. Qxc3 Nf6 12. Bd3 O-O 13. Rae1 b5 14. e5
+Nd5 15. Qc2 Qh5 16. a3 h6 17. Bd2 Nde7 18. Re4 Ng6 19. Rfe1 Bb7 20. g4 Qh3 21.
+R1e3 f5 22. exf6 Rxf6 23. Bf1 Qxf3 24. Qb3+ d5 25. Rxf3 Rxf3 26. Qxf3 dxe4 27.
+Qxe4 Nge5 28. f4 Nc4 29. Qe6+ Kh8 30. Bc3 N6e5 31. Bxc4 1-0
+
+[Event "Match Steinitz-Zukertort +7-1=4"]
+[Site "London"]
+[Date "1872.08.17"]
+[Round "6"]
+[White "Steinitz, William"]
+[Black "Zukertort, Johannes Hermann"]
+[Result "1-0"]
+[ECO "C37"]
+[PlyCount "89"]
+[EventDate "1872.08.06"]
+[EventType "match"]
+[EventRounds "12"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2001.11.25"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Ne5 Qh4+ 6. Kf1 Nh6 7. d4 f3 8. Nc3
+d6 9. Nd3 Bg7 10. g3 Qd8 11. Nf4 O-O 12. h3 Nc6 13. Nh5 gxh3 14. Nd5 Ng4 15. c3
+Ne7 16. Ndf4 Ng6 17. Nxh3 Be6 18. Bxe6 fxe6 19. Ng5 Bh6 20. Qb3 Bxg5 21. Qxe6+
+Rf7 22. Qxg4 Bxc1 23. Rxc1 Qe8 24. c4 d5 25. e5 dxc4 26. Rxc4 Qb5 27. b3 Qa6
+28. Nf6+ Rxf6 29. exf6 Qxf6 30. Rxc7 Re8 31. Qd7 Qa6+ 32. Rc4 Re7 33. Qd5+ Kg7
+34. Rh2 b5 35. Rc6 Qb7 36. Rxh7+ Kxh7 37. Qh5+ Kg8 38. Rxg6+ Rg7 39. Rh6 Kf8
+40. Rh8+ Ke7 41. Qe5+ Kf7 42. Qe8+ Kf6 43. Rh6+ Kf5 44. Qe5+ Kg4 45. Qf4# 1-0
+

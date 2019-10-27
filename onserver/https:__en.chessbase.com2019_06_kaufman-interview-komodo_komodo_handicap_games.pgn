@@ -1,0 +1,81 @@
+[Event "Bethesda Odds Match"]
+[Site "Bethesda, Maryland"]
+[Date "2016.01.02"]
+[Round "2"]
+[White "Victor Mikhalevski"]
+[Black "Komodo 1538.00 64-bit"]
+[Result "0-1"]
+[Annotator "Nastasio,Davide"]
+[SetUp "1"]
+[FEN "1nbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1RBQKBNR w Kk - 0 1"]
+[PlyCount "74"]
+[EventDate "2016.??.??"]
+
+{In this game GM Mikhalevski had a quality material advantage. Black lost the
+Rook on A8, and White didn't have the knight on B1.} 1. e4 d5 2. d3 c5 3. exd5
+Qxd5 4. a3 Nf6 5. Nf3 Nc6 6. Be2 e5 7. O-O Be7 8. Bg5 Qd7 9. Re1 O-O 10. Bf1
+Qc7 11. h3 Bd6 {By this point for Stockfish 9, White has a +2 advantage.} 12.
+Nd2 $6 (12. Bxf6 gxf6 13. Nh4 Ne7 14. Qh5 $16) 12... Nd5 13. Nc4 h6 14. Bd2 Be7
+15. g3 Be6 16. Bg2 Rd8 17. a4 Bf6 18. Kh2 b6 19. c3 Nde7 20. Qc2 h5 21. h4 $4
+$11 {White missed the tactic.} Bxh4 $1 22. gxh4 e4+ 23. Kg1 exd3 24. Qd1 Bxc4
+25. Qxh5 Bd5 26. Bh3 $6 Ng6 27. Bg5 $6 Nf4 28. Bxf4 Qxf4 $11 29. Re3 $4 $19 d2
+30. Bg2 $2 g6 31. Qe2 Bc4 32. Qf3 Qxh4 33. Re4 Qg5 34. Rxc4 Ne5 35. Qf4 d1=Q+
+36. Rxd1 Rxd1+ 37. Kh2 Qh5+ 0-1
+
+[Event "Live Chess - Odds Chess"]
+[Site "Chess.com"]
+[Date "2016.03.22"]
+[Round "?"]
+[White "Benjamin, Joel"]
+[Black "KomodoChess"]
+[Result "0-1"]
+[WhiteElo "2500"]
+[BlackElo "3368"]
+[Annotator "Komodo 9.01 64-bit"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/3PPP2/2N5/PPP3PP/R1BQKBNR w KQkq - 0 1"]
+[PlyCount "88"]
+[EventDate "2016.??.??"]
+[TimeControl "2700+30"]
+
+{Here White had 4 tempi, which were the moves: f4, e4, d4, Nc3.} 1. Nf3 e6 2.
+Bd3 Be7 3. O-O d5 4. Qe1 $6 dxe4 5. Nxe4 Nf6 6. Kh1 $6 Nxe4 7. Bxe4 O-O 8. Bd2
+Nd7 9. c4 Nf6 10. Bc2 b5 $3 11. cxb5 Bb7 12. Bb4 Bxb4 13. Qxb4 g6 {"Now I
+start to get depressed again. [It\'s] also an admission that there\'s no
+killer move it has right now." - Benjamin} 14. Rac1 a6 15. bxa6 Bxa6 16. Rfe1
+Qd6 $1 17. Qxd6 cxd6 18. Bb3 Bb7 19. Nd2 Bd5 $1 {Benjamin is forced to contort
+himself.} 20. Nc4 Ra6 21. Kg1 Kg7 22. g3 Rb8 23. Rc3 Ne4 24. Rce3 Rc8 25. Na3 {
+necessary, but unfortunate. The knight will never make it back.} Bxb3 26. Rxb3
+d5 27. Kg2 Ra4 28. Rd1 h5 29. Rb6 h4 30. Rb3 f5 31. Kf3 Kf6 32. Rbd3 Rb8 {
+Komodo forces Benjamin\'s rook into a more awkward location before occupying
+the h-file.} 33. Rb3 Rh8 34. Kg2 Ra7 35. gxh4 Rxh4 36. Rf3 g5 37. fxg5+ Nxg5
+38. Rfd3 Rg7 39. Rg3 Rgh7 40. h3 Nxh3 41. Kf1 f4 42. Rg8 Ng5 43. Ke1 Ne4 44.
+Rg1 f3 {KomodoChess won by resignation} 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.01.07"]
+[Round "?"]
+[White "Nakamura, Hikaru"]
+[Black "KomodoChess"]
+[Result "0-1"]
+[WhiteElo "2787"]
+[BlackElo "3368"]
+[Annotator "Nastasio,Davide"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 1"]
+[PlyCount "116"]
+[EventDate "2016.??.??"]
+
+{GM Nakamura had 4 tempi advantage, used as Pc4, Pd4, Pe4 and Nf3.} 1. c4 d6 2.
+Nc3 g6 3. Qb3 c6 {The idea of using a closed opening was good, because White
+cannot exploit the advantage.} 4. Be2 Qb6 5. Qc2 Bg7 6. O-O Nf6 7. h3 O-O 8.
+Be3 Qc7 9. Rac1 Nbd7 10. Rfd1 b6 11. Qd2 Bb7 12. b3 Rad8 13. Bh6 e5 14. Bxg7
+Kxg7 15. d5 a5 16. Qe3 Ra8 17. Ne1 Nc5 18. Nd3 Qe7 19. Nb2 Nfd7 20. Nca4 f5 21.
+Nxc5 bxc5 22. f3 Nf6 23. g4 Rf7 24. Rf1 Raf8 25. Kh2 fxg4 26. fxg4 h5 27. gxh5
+Nxh5 28. Rxf7+ Qxf7 29. Rf1 Nf4 30. Bg4 cxd5 31. exd5 Qc7 32. Qg3 Rf6 33. Rf2
+Bc8 34. Nd1 Bxg4 35. Qxg4 Qf7 36. Qh4 Rf5 37. Ne3 Rh5 38. Qg4 Qe7 39. Rf3 Rg5
+40. Qc8 Ne2 41. Qe6 Qxe6 42. dxe6 Nf4 43. Rg3 Rh5 44. Nd5 Nxe6 45. Nc3 Nd4 46.
+Ne4 Nf5 47. Rd3 Rh4 48. Nxd6 Rf4 49. Nxf5+ gxf5 50. Rd5 e4 51. Rxc5 Kf6 52. Rc8
+Rf2+ 53. Kg3 Rf3+ 54. Kg2 Ke5 55. h4 Kf4 56. h5 e3 57. h6 Rg3+ 58. Kh2 Rg6 0-1
+

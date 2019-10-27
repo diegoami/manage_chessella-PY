@@ -1,0 +1,45 @@
+[Event "26th Abu Dhabi Master 2019"]
+[Site "Abu Dhabi"]
+[Date "2019.08.07"]
+[Round "6.1"]
+[White "Jobava, Baadur"]
+[Black "Maghsoodloo, Parham"]
+[Result "1-0"]
+[ECO "B67"]
+[WhiteElo "2594"]
+[BlackElo "2656"]
+[Annotator "TA"]
+[PlyCount "99"]
+[EventDate "2019.08.02"]
+[EventType "swiss"]
+[EventCountry "UAE"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,99,34,27,26,35,22,38,29,40,33,33,21,14,0,50,43,47,24,35,26,41,49,67,
+8,70,28,31,16,31,43,73,85,198,195,189,117,154,154,148,158,134,118,146,150,144,
+141,156,144,213,209,195,184,187,167,242,238,213,225,209,210,333,333,333,333,
+321,300,331,334,327,316,308,292,1002,970,955,835,29969,29970,12806,5065]} 1. e4
+c5 2. Nc3 Nc6 3. Nge2 Nf6 4. d4 cxd4 5. Nxd4 d6 6. Bg5 e6 7. Qd2 a6 8. O-O-O
+Bd7 9. Nxc6 Bxc6 10. f3 b5 11. Kb1 Be7 12. h4 {B67: Sicilian: Richter-Rauzer:
+7...a6 8 0-0-0 Bd7, lines without 9 f4 Be7} h6 13. Be3 h5 14. Ne2 {White is
+slightly better.} Qc7 15. Nd4 Bd7 16. Rc1 $146 ({Predecessor:} 16. Bg5 Rb8 17.
+Nb3 e5 18. g3 {0-1 (49) Hossain,E (2473)-Maghsoodloo,P (2636) Hamedan 2018})
+16... e5 17. Nb3 a5 18. c4 $1 {[%cal Rc4b5]} a4 19. cxb5 Qd8 20. Na1 d5 $1 21.
+Nc2 $36 {[%mdl 2048] White has the initiative.} dxe4 22. Nb4 (22. Qc3 $1 $14)
+22... Bf5 ({Better is} 22... exf3 $11 23. gxf3 a3) 23. Qxd8+ Rxd8 24. Nc6 {
+[%mdl 64] Double Attack} exf3+ 25. Ka1 Nd5 26. Bf2 e4 (26... Rc8 $16 {keeps
+fighting.}) 27. Nxd8 $18 e3 {White must now prevent ...a3.} 28. b6 ({Don't do} 
+28. gxf3 $6 exf2 29. Nc6 Bf6 $14) ({White should play} 28. Bg3 $1 $18) 28...
+Kxd8 29. Bg3 $1 e2 {...a3 is the strong threat.} 30. gxf3 exf1=Q 31. Rhxf1 Nxb6
+{Strongly threatening ...Ke8.} 32. Bc7+ {[%mdl 64] Double Attack} Ke8 {And now
+...Nd5 would win.} 33. Bxb6 Bxh4 34. Rc4 Bd8 (34... Bg3 $16) 35. Bxd8 Kxd8 36.
+Rxa4 {[%mdl 4096] Endgame KRR-KRB} Ke7 37. Rd4 $1 g5 (37... Bh3 {was necessary.
+} 38. Rh1 Be6) 38. b4 {[%cal Bb2b4,Bb4b5][%mdl 32]} h4 39. b5 h3 40. a4 $1 {
+[%cal Ba2a4,Ba4a5,Ba5a6][%mdl 32]} Bc8 {[#]} (40... Be6 {is a better defense.}
+41. Re1 f5) 41. a5 $1 h2 42. Re1+ Kf6 43. Rd6+ Kf5 {[#]} 44. Rh1 $1 Kf4 45. Rd2
+Kg3 46. a6 f5 $2 (46... Rh6 47. Kb1 f5) 47. Rc2 Be6 {[#]} 48. Rcxh2 {Played:
+Rh1xh2} Rxh2 49. Rxh2 Kxh2 50. b6 1-0
+

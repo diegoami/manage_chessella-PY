@@ -1,0 +1,43 @@
+
+
+[Event "52nd Biel Festival 2019"]
+[Site "Biel"]
+[Date "2019.07.24"]
+[Round "3.3"]
+[White "Abdusattorov, Nodirbek"]
+[Black "Shankland, Sam"]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "2598"]
+[BlackElo "2713"]
+[Annotator "TA"]
+[PlyCount "87"]
+[EventDate "2019.07.22"]
+[EventType "tourn"]
+[EventCountry "SUI"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,87,12,12,15,20,14,27,24,25,-4,0,0,0,0,-1,0,5,-18,0,-18,13,24,37,20,21,
+17,15,21,97,105,100,88,91,83,95,98,133,122,153,164,223,219,214,216,212,197,198,
+204,237,226,218,128,121,128,126,110,110,96,123,129,209,166,173,124,213,207,196,
+181,231,230,216,209,368,354,328,314,429,429,1082,1028]} 1. e4 e5 2. Nf3 Nc6 3.
+Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O {C65: Ruy Lopez: Berlin Defence (3...Nf6),
+unusual lines and 4 0-0 Bc5} Re8 7. Nbd2 a6 8. Bxc6 {White has an edge.} dxc6
+9. Nb3 $146 ({Predecessor:} 9. Nc4 Nd7 10. Re1 Bf8 11. d4 exd4 12. cxd4 Nb6 13.
+Nxb6 cxb6 {1-0 (39) Anand,V (2779)-Giri,A (2797) Shamkir 2019}) 9... Bf8 10.
+Na5 Nd7 11. Bg5 f6 12. Be3 Kh8 13. Nh4 g6 14. Qd2 Be7 {With the idea ...f5.}
+15. Nf3 c5 16. a4 Nb8 17. d4 c6 18. Nc4 b5 (18... Be6 $11 19. b3 exd4 20. cxd4
+cxd4 21. Nxd4 (21. Qxd4 Qxd4 22. Nxd4 Bxc4 $11) (21. Bxd4 c5 $11) 21... Bxc4
+22. bxc4 Nd7) 19. axb5 $16 {b6 is the strong threat.} cxb5 {Threatens to win
+with ...cxd4.} 20. Na5 exd4 21. cxd4 c4 22. d5 Kg8 23. Rfe1 Bg4 24. Nd4 Bd6 (
+24... Qc7 $142 25. Bf4 Qc5) 25. Nb7 $18 Bxh2+ 26. Kxh2 Qc7+ 27. Bf4 Qxb7 28. f3
+Bc8 29. Qa5 {[%mdl 1024] White has strong compensation.} Bd7 30. Ra3 ({White
+should try} 30. b3 $1 $18) 30... Rc8 $16 31. Rae3 Be8 32. Ne6 Nd7 33. Nc7 $36 {
+[%mdl 2048] White has strong initiative.} Ra7 {[%cal Rc8c7] [#]} 34. d6 $1 {
+And now e5 would win.} Qb6 (34... Ne5 $16) 35. Qxb6 $18 Nxb6 36. e5 fxe5 (36...
+Raxc7 $16 {was called for.} 37. dxc7 Nd5) 37. Rxe5 ({Don't take} 37. Bxe5 $6
+Bf7 $16) 37... Bf7 38. Be3 Rb7 {[#]} 39. Bxb6 $1 ({Weaker is} 39. Nxa6 Na4 $16)
+39... Rxb6 40. d7 Rf8 $2 (40... Rd8) 41. Ne8 Rb8 42. Re7 g5 43. R1e5 h6 (43...
+Rd8 $142 44. Nd6 Bg6) 44. Nd6 {Accuracy: White = 79%, Black = 47%.} 1-0

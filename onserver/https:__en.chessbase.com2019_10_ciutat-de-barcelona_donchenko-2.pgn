@@ -1,0 +1,150 @@
+[Event "24th Barcelona Open-A 2019"]
+[Site "Barcelona"]
+[Date "2019.09.28"]
+[Round "2.4"]
+[White "Veinberg, Nimrod"]
+[Black "Donchenko, Alexander"]
+[Result "0-1"]
+[ECO "E35"]
+[WhiteElo "2411"]
+[BlackElo "2631"]
+[Annotator "CAC"]
+[PlyCount "112"]
+[EventDate "2019.09.27"]
+[EventType "swiss"]
+[EventCountry "ESP"]
+[Tiebreak "Cut2 Buchholz+Median2 Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 0,112,26,20,34,-29,-14,-16,-16,-35,-31,-44,-48,-101,-66,-105,-89,-73,
+-78,-72,-23,-102,-87,-112,-58,-81,-39,-70,-59,-59,-43,-53,3,3,42,14,26,26,37,0,
+0,0,166,24,14,14,62,58,67,47,5,5,0,-9,-67,-106,-52,-67,-67,-67,-67,-67,0,-31,
+-69,-69,0,-37,-48,-53,-34,-38,-34,-34,-38,-74,-64,-66,-64,-137,-59,-66,-66,-66,
+-58,-58,-194,-217,-234,-276,-244,-262,-262,-257,-283,-421,-421,-423,-339,-378,
+-157,-156,-159,-148,-151,-161,-160,-160,-169,-157,-151,-167,-163,-194,-167]} 1.
+d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 h6 7. Bh4 g5 8. Bg3
+Nc6 9. e3 h5 10. h3 Ne4 11. Bh2 Qe7 12. Nf3 Bf5 13. Bd3 g4 14. Ne5 gxh3 15.
+gxh3 Rh6 {Foreseeing the positional exchange sacrifice.} ({Donchenko could
+have opted for} 15... Nxe5 16. Bxe5 Bxc3+ 17. bxc3 Rg8) 16. Nxc6 Rxc6 17. Bb5
+O-O-O 18. Bxc6 bxc6 19. a3 Bxc3+ 20. bxc3 Rg8 21. Rg1 Rxg1+ 22. Bxg1 Qg5 {
+Black is an exchange down, but White's dark-squared bishop is stuck on g1,
+while the knight on e4 is nothing but a stallion.} 23. O-O-O Qg2 24. h4 Nd6 25.
+Qb3 Nc4 26. Qb4 Kd7 27. Qb3 Qg4 28. Qa2 Qg2 29. Re1 Kc8 30. Qb3 a6 31. Rd1 Bg6
+32. a4 Bf5 33. Re1 a5 34. Qa2 Qe4 35. Rd1 Bg4 36. Re1 Bf5 37. Rd1 Qg2 38. Re1
+Bg6 39. Qb3 Bh7 40. Qa2 Bf5 41. Qb3 Qg4 42. Bh2 Qxh4 {After a lot of
+manoeuvring, Black gets a passer on the h-file.} 43. Bg3 Qe4 44. Rd1 h4 45. Bf4
+Qg2 46. Qa2 h3 47. Qe2 Bg4 48. Qc2 h2 49. Qh7 Qxf2 {Threatening mate on b2.
+White has nothing better than trading the queens and giving up the exchange.}
+50. Qxh2 Qxh2 51. Bxh2 Bxd1 52. Kxd1 Nxe3+ 53. Kc1 Kd7 54. Bf4 Nc4 55. Kc2 f6
+56. Bg3 Nd6 0-1
+
+[Event "24th Barcelona Open-A 2019"]
+[Site "Barcelona"]
+[Date "2019.09.29"]
+[Round "3.3"]
+[White "Donchenko, Alexander"]
+[Black "Ladron De Guevara Pinto, Paolo"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "2631"]
+[BlackElo "2447"]
+[Annotator "CAC"]
+[PlyCount "55"]
+[EventDate "2019.09.27"]
+[EventType "swiss"]
+[EventCountry "ESP"]
+[Tiebreak "Cut2 Buchholz+Median2 Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 0,55,20,-16,-12,2,6,-11,-11,-35,-30,-24,0,-12,46,8,33,-25,84,79,76,46,
+46,43,46,40,39,40,40,40,28,40,59,48,119,81,118,91,91,72,72,73,153,124,232,130,
+122,64,77,58,164,176,309,206,209,171,169,190] This was Donchenko's third
+straight victory at the start of the tournament. His opponent played rather
+passively, but the German's handling of the queenside attack is worth taking a
+look.} 1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6 7. Bd3
+Nbd7 8. Qc2 Nh5 9. Bxe7 Qxe7 10. O-O-O Nb6 11. Nf3 Be6 12. Kb1 O-O-O 13. Na4
+Nxa4 14. Qxa4 Kb8 15. Rc1 Rc8 16. Rc3 f6 17. Rhc1 g6 18. Ra3 b5 {A sad
+concession. Now the dark squares are awfully weak.} 19. Qa5 Ng7 20. Rac3 Bd7
+21. a4 bxa4 22. Qxa4 Rc7 23. Nd2 Ne6 24. Nb3 c5 25. Qa3 Rhc8 26. Ba6 {This
+entrance pretty much decides the game.} Re8 27. Nxc5 Nxc5 28. Rxc5 {The rook
+cannot leave the seventh due to mate with the queen on b7. Time to resign.} 1-0
+
+[Event "24th Barcelona Open-A 2019"]
+[Site "Barcelona"]
+[Date "2019.09.30"]
+[Round "4.3"]
+[White "Del Rio De Angelis, Salvador G."]
+[Black "Donchenko, Alexander"]
+[Result "0-1"]
+[ECO "E49"]
+[WhiteElo "2488"]
+[BlackElo "2631"]
+[Annotator "CAC"]
+[PlyCount "94"]
+[EventDate "2019.09.27"]
+[EventType "swiss"]
+[EventCountry "ESP"]
+[Tiebreak "Cut2 Buchholz+Median2 Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 0,94,58,28,28,-24,-12,-16,-9,-10,0,-11,-3,5,15,-32,17,0,55,44,65,43,24,
+7,13,-2,5,5,5,-11,-1,4,4,11,16,20,47,-4,7,16,17,22,22,15,30,-5,-5,2,-5,-31,-4,
+0,51,-4,42,2,32,37,5,-49,-46,-49,-38,-65,-81,-47,-71,-180,-151,-151,-144,-222,
+-156,-163,-152,-169,-192,-157,-127,-127,-163,-144,-144,-284,-164,-173,-169,
+-168,-120,-103,-57,-67,-67,-47,-31,-375,-352] The fourth straight win of the
+eventual champion included some fine calculation in the late middlegame.} 1. d4
+Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4 8. Bxc4 c5
+9. Nf3 Qc7 10. Be2 b6 11. O-O Ba6 12. Bb2 Bxe2 13. Qxe2 Nbd7 14. c4 Rac8 15.
+Rfc1 cxd4 16. exd4 Qf4 17. a4 Rc7 18. Ra3 Rfc8 19. Nd2 Nf8 20. Rf3 Qh4 21. Rh3
+Qg4 22. Qf1 Ng6 23. Re3 Qh5 24. h3 Qa5 25. Qd1 Ne8 26. Rec3 Rd8 27. Ra3 Nd6 28.
+c5 Nf5 29. cxb6 Qxb6 30. Rxc7 Qxc7 31. Nf3 Nf4 32. Rc3 Qb7 33. Qd2 {This was
+Del Rio's mistake. Donchenko found the winning variation after thinking for a
+little over four minutes.} (33. Bc1 {was the correct continuation} Nd5 34. Rc5
+{and the game continues. White still has to defend his weaknesses, but things
+are far from over.}) 33... Nxd4 {The f6-knight is pinned. Qxg2# is the threat.}
+34. Kh1 e5 35. Rc4 Nde6 36. Qb4 Qxb4 37. Rxb4 Nd3 38. Rb5 e4 39. Nd4 Nxf2+ 40.
+Kg1 e3 41. Nf5 Nd1 42. Kf1 h6 43. Ke1 Nf4 44. Bd4 g6 45. Ne7+ Kh7 46. Nc6 Re8
+47. Be5 Nf2 0-1
+
+[Event "24th Barcelona Open-A 2019"]
+[Site "Barcelona"]
+[Date "2019.10.03"]
+[Round "7.1"]
+[White "Donchenko, Alexander"]
+[Black "Lagarde, Maxime"]
+[Result "1-0"]
+[ECO "A88"]
+[WhiteElo "2631"]
+[BlackElo "2657"]
+[Annotator "CAC"]
+[PlyCount "70"]
+[EventDate "2019.09.27"]
+[EventType "swiss"]
+[EventCountry "ESP"]
+[Tiebreak "Cut2 Buchholz+Median2 Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 0,70,26,34,69,42,51,55,102,56,56,79,79,72,76,57,73,50,87,92,76,76,74,87,
+93,53,62,39,51,66,51,34,96,73,86,106,83,68,72,55,67,83,83,71,67,70,78,93,112,
+91,96,107,121,140,141,96,138,120,120,120,120,98,98,31,102,23,112,115,156,213,
+395,9,395] Donchenko was already the sole leader at this point. This win over
+the current French champion allowed him to get the title with two safe draws
+in the last rounds.} 1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. c4 Bg7 5. Nc3 d6 6. Nf3
+O-O 7. O-O c6 8. b3 Ne4 9. Bb2 Nxc3 10. Bxc3 Nd7 11. Ng5 Nb6 12. Nf3 Nd7 13.
+Qc2 e5 14. dxe5 dxe5 15. e4 f4 16. Bb4 fxg3 17. hxg3 c5 18. Bc3 Qe7 19. Qd2 Nb6
+20. Qb2 {All throughout the event, Donchenko played sound positional chess. In
+this case, he has all the strategical trumps in the position: the black bishop
+on g7 is blocked by the e5-pawn and the knight on b6 needs plenty of moves to
+find a more active square.} Re8 21. Ne1 Bg4 22. Nc2 Bh6 23. Rae1 Rad8 24. Ne3
+Bxe3 25. Rxe3 Nd7 26. Rd3 a6 27. a4 b5 28. axb5 axb5 29. cxb5 Rb8 30. Ra1 Rxb5
+31. Ra7 c4 {What else? But now comes the killer blow.} 32. Rdxd7 Bxd7 33. Qd2
+Rd8 34. Bf1 cxb3 35. Bc4+ Be6 {The queen is overloaded.} 1-0
+

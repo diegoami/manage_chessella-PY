@@ -1,0 +1,26 @@
+[Event "GCT Saint Louis Rapid 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.10"]
+[Round "1.1"]
+[White "Ding, Liren"]
+[Black "Carlsen, Magnus"]
+[Result "*"]
+[ECO "D39"]
+[WhiteElo "2812"]
+[BlackElo "2872"]
+[Annotator "Saravanan,V"]
+[SetUp "1"]
+[FEN "r2r4/pb3ppk/4p2p/1Pq5/2nN1BQ1/2P5/5PPP/3RR1K1 w - - 0 24"]
+[PlyCount "7"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[#]} 24. Rd3 $1 {[Ding Liren threatens to get active on the kingside, and
+Carlsen didn't come up with a proper defence here]} Qe7 $6 (24... Bd5) (24...
+Qf8) 25. Nc6 $1 Bxc6 26. Rxd8 Rxd8 27. bxc6 {and the pawn on c6 became a
+monster, which ultimately became a queen ending in white's victory} *
+

@@ -1,0 +1,44 @@
+[Event "52nd Biel Festival 2019"]
+[Site "Biel"]
+[Date "2019.07.25"]
+[Round "4.2"]
+[White "Shankland, Sam"]
+[Black "Maghsoodloo, Parham"]
+[Result "1-0"]
+[ECO "B68"]
+[WhiteElo "2713"]
+[BlackElo "2656"]
+[Annotator "Tanmay Srinath"]
+[PlyCount "51"]
+[EventDate "2019.??.??"]
+
+1. e4 {Sam returns to 1.e4, having prepared against Parham's choice of defense
+extensively.} c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2
+a6 8. O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. a3 b4 {Despite being the most popular
+move, modern engines and me don't find it convincing enough!} (11... h6 12. Bh4
+Qa5 13. Kb1 Rd8 14. e5 dxe5 15. Nxe5 g5 16. Bg3 Nxe5 17. fxe5 Bc6 18. Bd3 Nd7
+19. h4 $13) (11... Qa5 12. Kb1 h6 13. Bxf6 gxf6 14. Nd4 b4 15. axb4 Qxb4 16.
+Nb3 Na5 17. Nxa5 Qxa5 18. f5 $13) 12. axb4 Nxb4 13. Kb1 h6 14. Bh4 $5 $146 {
+This seems to be Sam's attempted improvement.} (14. Bxf6 gxf6 {was previously
+played, and here I suggest} 15. f5 $5 $14 {with fascinating play.}) 14... Rb8
+15. e5 dxe5 $6 {This is not an obvious mistake.} (15... Nfd5 $1 16. Bxe7 Qxe7
+17. Nxd5 exd5 18. exd6 Qxd6 {is critical. Perhaps Parham was worried about} 19.
+Qe3+ Kf8 20. Bd3 $14 {but here White's advantage is considerably lesser than
+in the game.}) 16. Nxe5 Rb7 {Yet again, an innacuracy that makes Black's life
+harder.} (16... Bc6 $1 {was crucial to surviving for now. It is true that after
+} 17. Qxd8+ Bxd8 18. Nxc6 Nxc6 19. Bxa6 O-O $16 {White is a pawn up, but with
+opposite coloured bishops and open files on the queenside Black isn't lost
+just yet.}) 17. Bc4 Bb5 $2 {This is the losing mistake.} (17... Bc8 $1 {
+was a better way of exchanging queens. After} 18. Qxd8+ Bxd8 19. Ne4 $1 {
+appears to be White's best try. Now} O-O 20. Nd6 $1 Rc7 21. c3 Nbd5 22. Bxd5
+Nxd5 23. Bxd8 Rxd8 24. Ndxf7 $1 {wins a pawn, but after} Rf8 $16 {White has to
+satisfy himself with two pawn weaknesses on a6 and e6. Meanwhile, though
+Black's bishop is nearly dead, his knight is wonderfully placed on d5 and he
+is the first to the f-file. White is better, but the game is not yet finished,
+and Black has realistic chances to resist.}) 18. Qxd8+ $1 {Sam is alert.} Bxd8
+19. Nxb5 axb5 20. Bxb5+ $1 {A piece sacrifice that looks pointless at first,
+but the idea is to distract the Black rook from defending f7.} Rxb5 21. Rxd8+
+$3 {and now the coup de grace - an exchange sacrifice to deflect the king from
+defending f7, so that the knight can land there next move.} Kxd8 22. Nxf7+ Ke7
+23. Nxh8 $18 {Sam finishes the game off with ruthless precision from here.} g5
+24. Ng6+ Kf7 25. Ne5+ Kg7 26. c4 {A wonderful attacking game by Shankland!} 1-0

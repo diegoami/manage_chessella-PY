@@ -1,0 +1,49 @@
+[Event "FIDE Grand Swiss"]
+[Site "IoM"]
+[Date "2019.10.12"]
+[Round "3"]
+[White "Keymer, Vincent"]
+[Black "Sjugirov, Sanan"]
+[Result "1-0"]
+[ECO "A41"]
+[WhiteElo "2506"]
+[BlackElo "2662"]
+[Annotator "Thorsten Cmiel"]
+[PlyCount "105"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,105,28,21,65,51,51,32,37,23,48,8,55,51,50,30,39,33,32,50,48,23,13,-8,
+-16,-1,15,16,35,40,40,43,31,30,29,32,19,15,44,10,14,22,41,41,38,43,49,49,64,64,
+64,63,61,67,85,68,114,60,113,86,86,97,230,43,60,36,223,223,255,255,255,168,287,
+287,265,254,276,310,310,339,381,386,479,487,481,274,277,279,282,270,278,291,
+264,308,306,258,261,271,279,305,324,327,508,527,537,807,817,837]} 1. d4 g6 2.
+c4 Bg7 3. Nf3 d6 4. g3 c5 5. d5 b5 $5 6. cxb5 Qa5+ {A creative attempt -
+however, in this game Black's concept could not convince entirely.} (6... a6)
+7. Nc3 a6 (7... Bxc3+ 8. bxc3 Qxc3+ 9. Bd2 Qb2 {was not too Black's liking.})
+8. b6 Qxb6 {A declined Benko in combination with a fianchetto of the
+white-squared bishop is a rare guest in tournaments.} 9. Nd2 Nf6 10. Bg2 O-O
+11. O-O Nbd7 12. b3 a5 13. Nc4 Qa6 $5 {In these structures Black always has to
+decide on which square to put his queen.} 14. Na4 Ng4 15. Bb2 Bxb2 (15... Nde5)
+16. Naxb2 Nge5 17. Nxe5 Nxe5 18. f4 $5 {[#]} Nd7 (18... Ng4 $5 19. Qd2 (19. Nc4
+a4 $5)) 19. Rc1 Nb6 20. a4 Bg4 $6 {The bishop does not do much on g4 and will
+soon be chased away by h3. ...Qa7 combined with ...Ba6 and ...Rfb8 was worth
+considering, after all, the biggest weakness in White's camp is the pawn on b3
+and not the pawn on e2.} 21. Rf2 Rfc8 $6 {Black seems to want to play ...c4.}
+22. h3 Bd7 23. e4 Qa7 (23... c4 24. bxc4 Nxc4 25. Rxc4 Rxc4 26. Bf1 $16) 24. f5
+$5 {The black pieces cannot exploit the weaknesses created by White. Sjugirov
+tries to stop White's expansion but Keymer continues his robust play.} (24. e5
+$5 {was also strong.}) 24... f6 25. h4 Kg7 26. g4 Rf8 27. g5 {Vincent
+continues his uncompromising attack.} Rf7 $2 {An unfortunate position for the
+rook. The engines want to activate the other rook and put it to b8 though they
+still think that White has the better chances.} 28. Nd3 $1 {The knight knows
+his way.} c4 29. Nf4 (29. bxc4 $5 Bxa4 (29... Nxa4 30. c5 $5 Nxc5 31. Nxc5 dxc5
+32. d6 $40) 30. Qf3) 29... cxb3 30. Qxb3 Nxa4 31. Qg3 (31. Ne6+ $1) 31... fxg5
+32. Qxg5 Raf8 33. Rcf1 {Black can no longer defend g6.} Bxf5 (33... Rf6 34.
+fxg6 hxg6 35. Nxg6 Rxg6 36. Qxe7+ $18) 34. exf5 Rxf5 35. Ne6+ Kg8 36. Nxf8 $1 {
+Vincent does not shy away from unusual material balances which indicates
+self-confidence and is a strength.} Rxg5 37. hxg5 $18 Qe3 38. Kh1 Nc5 39. Nxh7
+Nd7 40. Nf8 Nc5 {The last move before the time-control. Now both players had
+more time to think.} 41. Nxg6 Qxg5 42. Rf8+ Kg7 43. R1f7+ Kxg6 44. Rg8+ Kxf7
+45. Rxg5 Kf6 46. Rh5 a4 47. Bf1 Ne4 48. Kg2 Nc3 49. Bc4 a3 50. Kf3 e6 51. dxe6
+d5 52. Rxd5 a2 53. Ra5 {A nice win by Vincent.} 1-0
+

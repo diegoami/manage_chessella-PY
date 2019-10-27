@@ -1,0 +1,66 @@
+[Event "Cote d'Ivoire Blitz"]
+[Site "Cote d'Ivoire"]
+[Date "2019.05.11"]
+[Round "2"]
+[White "Carlsen, Magnus"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2861"]
+[BlackElo "2780"]
+[Annotator "Nagesh Havanur"]
+[PlyCount "88"]
+[EventDate "19.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 {The sharp Sicilian Najdorf
+} 6. Be3 {Here comes The English Attack.} e5 (6... e6 {leads to the
+Scheveningen Variation.}) 7. Nf3 {A positional line in which White focuses on
+control of the centre via d5.} (7. Nb3 Be6 8. Qd2 Be7 9. f3 O-O 10. O-O-O {
+leads to standard attack on opposite sides.}) 7... Be7 8. Bc4 O-O 9. O-O Be6
+10. Bb3 b5 {Curiously, this thematic move in the Najdorf is less seen in
+practice.} (10... Nc6 11. Bg5 Nd7 12. Bxe7 Qxe7 13. Nd5 Qd8 {is more usual.} ({
+Or} 13... Bxd5 14. Qxd5 Nf6 15. Qd3 $14)) 11. Bg5 Nbd7 12. Re1 Rc8 13. a3 h6 {
+A novelty. The ensuing exchange on f6 would ease Black's position.} 14. Bxf6
+Nxf6 15. Nd2 {The contest for the control of d5 is on. Here the knight is
+heading for e3 via f1.} (15. Qe2 {followed by 16. Rad1 is an alternative.})
+15... Bg4 16. f3 Qb6+ ({In" New in Chess" Magazine, 05/2019 issue Maxim Dlugy
+prefers the immediate} 16... Bd7 {followed by ...Qd7.}) 17. Kh1 Be6 18. Nf1 Rc5
+$1 {Making way for... Rfc8 with more pressure on the c-file and also preparing.
+..d6-d5 freeing advance.} 19. Ne3 Rfc8 20. Re2 {This move could have waited.} (
+20. Qd3 {preparing Rad1 followed by Nd5 would be better.}) 20... Rxc3 $5 {
+Just the kind of move to upset Magnus' momentum in blitz.} ({Otherwise} 20...
+a5 {is correct.}) 21. bxc3 Rxc3 22. Qe1 Qc6 23. a4 $2 {This move only helps
+Black to advance on the queenside.} (23. Nd1 $1 Rc5 24. a4 {is preferable.})
+23... b4 24. Nd1 Bxb3 $1 (24... Rc5 $2 25. Qxb4 {wins a pawn.}) (24... Rxb3 25.
+cxb3 Bxb3 26. Qxb4) 25. Nxc3 Bc4 {The point. Black has a series of threats to
+capture one piece or the other.} 26. Nd1 ({If} 26. Rf2 bxc3 27. Qxc3 Bd8 {
+with 28...Bb6 and the advance, d6-d5 in the offing.}) 26... Bxe2 27. Qxe2 d5 $1
+28. exd5 Nxd5 29. Qe4 (29. Qxe5 $4 {loses to} Bf6 30. Qb8+ Kh7 31. Ra2 Qc4 $19)
+(29. Ne3 Nxe3 30. Qxe3 Qxc2 {drops a pawn.}) 29... Qe6 30. Ne3 Nc3 31. Qc4 $1 {
+Suddenly Black pawns on a6, b4 and the knight on c3 are under pressure.} Qg6 ({
+Dlugy gives} 31... Qxc4 32. Nxc4 f6 33. Nd2 Kf7 34. Ne4 Nd5 {and thinks Black
+can draw.}) 32. a5 (32. Nd5 $2 Nxd5 33. Qxd5 Qxc2 $19) 32... Kh7 33. Re1 {
+The only move. How else can the rook be activated?} (33. Nd5 $2 Nxd5 34. Qxd5
+Qxc2 $19) 33... e4 ({If} 33... f5 34. Nd1 Nxd1 35. Rxd1 $18 {Black won't be
+able to defend the pawns on a6, b4 and e5 in the long run.}) 34. fxe4 Nxe4 35.
+Nd5 $2 {He has been waiting to activate this knight for ages. When he gets the
+chance it turns out to be a mistake!} ({He would have won with} 35. Qd5 $1 Nf2+
+36. Kg1 Nh3+ 37. Kf1 Ng5 (37... Nf4 38. Qf5 {comes to the same thing.}) 38. Qf5
+$18) 35... Nf2+ 36. Kg1 Nh3+ 37. Kf1 {Playing for a win!} ({Magnus is not
+interested in a draw by repetition of moves with} 37. Kh1 Nf2+ $11) 37... Qf5+
+38. Ke2 Qe5+ 39. Ne3 ({Not} 39. Kd1 $4 Nf2+ 40. Kd2 Bg5+ $19) 39... Nf4+ 40.
+Kf1 (40. Kd1 $4 b3 $1 41. cxb3 Qa1+ 42. Qc1 Qxc1+ 43. Kxc1 Nd3+ 44. Kd1 Nxe1
+45. Kxe1 Bb4+ 46. Ke2 Bxa5 $17) 40... Ne6 41. Qxa6 $2 ({The king can run for
+cover with} 41. Kg1 {But Black has counterplay after} Bd6 42. g3 Bc5 43. Qd3+
+Kg8 $44) ({Instead he could have tried} 41. Nd5 $1 Qf5+ 42. Kg1 Bd6 (42... Bc5+
+$2 43. Kh1 {and White threatens 44.Qe4 forcing exchange of queens. If Black
+avoids the same, White still has other threats like Rf1 and Nxb4.}) 43. Rf1 Qe5
+44. g3 Ng5 45. Qd3+ Kg8 46. Kg2 $16) 41... Qxh2 42. Qd3+ Kg8 43. a6 $4 ({
+It's too late to run away with} 43. Ke2 $4 Nf4+ $19) ({But he had a draw with} 
+43. Nd5 $1 Qh1+ 44. Ke2 Qxg2+ 45. Kd1 Bg5 46. a6 Qg4+ 47. Re2 $11) 43... Bh4 $1
+({The first false trail was} 43... Nf4 44. Qd7 Bh4 45. Qc8+ Kh7 46. Qf5+ $11) (
+{and the second} 43... Qh1+ 44. Ke2 Nf4+ 45. Kd2 $1 Qxe1+ 46. Kxe1 Nxd3+ 47.
+Kd2 $1 Bc5 48. Kxd3 $11) 44. Qd2 Nf4 {and Magnus gave up. Note: Ordinarily
+Black sacrifices the rook for the knight on c3 to put pressure on e4 or break
+up the pawn cover if White has castled on queenside. Here Black did it only to
+generate active piece play.} 0-1

@@ -1,0 +1,53 @@
+[Event "?"]
+[Site "?"]
+[Date "2019.07.14"]
+[Round "?"]
+[White "Sotello, Renzo"]
+[Black "Sivarajah, Tharmarajah"]
+[Result "1-0"]
+[ECO "B52"]
+[WhiteElo "2062"]
+[BlackElo "1966"]
+[Annotator "Tactical Analysis 2.10 (6s)"]
+[PlyCount "129"]
+[EventDate "2019.??.??"]
+
+{[%evp 10,128,46,14,64,7,38,-17,33,1,52,-10,53,22,40,0,50,20,48,35,109,93,93,
+86,122,84,95,-15,102,58,102,43,104,49,158,78,169,40,143,50,77,53,114,67,143,
+119,147,117,149,77,121,91,128,85,115,93,152,157,193,162,191,123,183,111,126,
+130,160,258,249,241,228,228,212,221,228,196,287,242,256,273,243,265,258,281,
+325,327,412,403,696,785,781,594,791,1463,983,1269,1276,1052,1905,1593,1959,
+2071,29976,29977,29986,2115,29986,29987,29987,29988,29993,29994,29995,29996,
+29996,29997,29997,29994,29996,29997,29999]} 1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4.
+Bxd7+ Nxd7 5. O-O Ngf6 6. Re1 e5 {B52: Sicilian: Moscow Variation with 3...Bd7}
+(6... e6 $11) (6... Qc7 7. c3 Rc8 8. d3 e6 9. Bf4 Be7 10. Nbd2 O-O 11. h3 Rfd8
+12. a4 Qc6 13. Qe2 Qa6 14. Nc4 d5 15. exd5 Nxd5 {0-1 (55) Anton Guijarro,D 
+(2642)-Korobov,A (2698) St Petersburg 2018}) 7. c3 (7. d3 $14) 7... Be7 8. d4 (
+8. d3 $14) 8... Qc7 (8... O-O $11) 9. d5 O-O (9... c4 $11) 10. a4 $146 (10. c4
+$14) ({Predecessor:} 10. c4 Rae8 11. Nc3 a6 12. a3 {1-0 (89) Deschin,P (1880)
+-Lambin,J (1680) Herlies 2002}) 10... a6 (10... c4 $11) 11. a5 c4 12. Nbd2 Rac8
+(12... Rfc8 $11) 13. Qe2 Rfe8 14. Ra4 Nc5 (14... h6 $14) 15. Rxc4 $16 {Black
+must now prevent b4.} b5 16. axb6 $1 Qxb6 17. b4 Na4 18. Qe3 (18. Nb1 $16)
+18... Qb5 (18... Qxe3 $11 {keeps the balance.} 19. Rxe3 Rxc4 20. Nxc4 Rc8) 19.
+Rxc8 Rxc8 20. Nb1 (20. c4 $16 Qxb4 21. Ba3) 20... Qc4 (20... Bd8 $14) 21. Bd2 (
+21. Nfd2 $16 Qb5 22. Na3) 21... Qb3 (21... h6 $14) 22. h3 (22. Qa7 $142 Re8 23.
+Qxa6) 22... Nb2 (22... Ra8 $16) 23. Rc1 ({White should try} 23. Qa7 $18) 23...
+Nc4 (23... h6 $14) 24. Qd3 (24. Qa7 $16) 24... Qb2 {White should prevent ...
+Nxe4!} 25. Re1 Nd7 (25... a5 $14) 26. Be3 Nf6 (26... a5 $14) 27. Nfd2 Nxd2 28.
+Bxd2 ({Don't play} 28. Qxa6 Nxb1 29. Qxc8+ Bf8 $16) 28... Qa2 29. f3 (29. Be3
+$142) 29... Bd8 (29... Nh5 $142) 30. Be3 Nd7 31. Qd2 (31. Re2 $142 Qa4 32. Qc2)
+31... Qc4 32. Qe2 {Hoping for Qxc4.} Bb6 ({Better is} 32... a5) 33. Qxc4 Rxc4
+34. Bxb6 Nxb6 {[%mdl 4096] Endgame KRN-KRN} 35. Kf1 (35. Rc1 $18) 35... Na4 (
+35... f5 $16 36. Rc1 (36. exf5 Nxd5 37. g4 Nxc3 $11) 36... Na4) 36. Re3 ({
+White should play} 36. Nd2 $18 Rc8 37. Ra1 Nxc3 38. Rxa6) 36... g6 37. Ke2 f5
+38. Kd3 Nb2+ 39. Kc2 Na4 40. Kb3 Nb6 41. Nd2 Rc8 42. c4 f4 (42... Rb8 $142 43.
+exf5 gxf5) 43. Rc3 {c5 is the strong threat.} Nd7 44. Kb2 Rb8 45. Ka3 Kf8 46.
+Nb3 Ke7 47. c5 g5 48. Na5 dxc5 (48... Ra8 $142 49. cxd6+ Ke8) 49. Nc6+ $18 {
+[%mdl 64] [#] Double Attack, Zwischenzug} Kd6 50. Nxb8 {aiming for bxc5+.} Nxb8
+51. bxc5+ {KR-KN} Kc7 52. Rb3 Nd7 53. Kb4 a5+ 54. Kc4 a4 55. Ra3 Kb7 56. Rxa4
+Kc7 57. Rb4 (57. Ra7+ $142 Kd8 58. c6 Nb6+ 59. Kc5 Nc8 60. Rxh7 Ke8 61. d6 Kf8
+62. d7) 57... Nb8 58. d6+ {White mates.} Kc8 59. Kd5 Nd7 60. c6 Nf6+ 61. Ke6
+Nh5 62. d7+ Kc7 {[#]} 63. Rb8 $1 {[%mdl 512]} Kxc6 (63... Kxb8 64. d8=Q+) 64.
+d8=Q {[%csl Ge6][%cal Rd8d6]} Kc5 65. Qd5# {Accuracy: White = 51%, Black = 23%.
+} 1-0
+

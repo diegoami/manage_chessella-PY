@@ -1,0 +1,39 @@
+[Event "Russian Women's Team Championship"]
+[Site "Sochi"]
+[Date "2019.05.01"]
+[Round "1"]
+[White "Ushenina, Anna"]
+[Black "Borisova, Ekaterina"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "2432"]
+[BlackElo "2255"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "65"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,65,32,25,26,15,31,-11,18,5,60,45,58,46,66,52,41,41,50,27,9,9,24,37,-6,
+20,10,15,17,15,28,33,53,61,122,81,79,71,109,72,80,72,100,61,60,55,43,66,66,64,
+71,71,235,230,389,409,387,412,420,413,418,418,416,424,418,424,423,445]} 1. d4
+d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 a6 5. e3 b5 6. b3 Bg4 7. Be2 Nbd7 8. h3 Bh5 9. g4
+Bg6 10. Ne5 Nxe5 11. dxe5 Nd7 12. cxd5 cxd5 13. e6 fxe6 14. Bb2 Rc8 15. Rc1 Nf6
+16. O-O e5 17. Nxd5 Rxc1 18. Nxf6+ exf6 19. Qxc1 Be4 20. a4 Qb8 21. axb5 axb5
+22. Rd1 Be7 23. Ba3 b4 24. Bb2 Qb7 25. Qc4 g5 {26.Qe6! in the diagram position
+just feels right - the queen takes a menacing stance in front of Black's king
+which is stuck in the middle. However, following 26...Qc6 or 26...Bc6 White
+must walk the talk. Are you up to it?} 26. Qe6 $1 {[%csl Ge6,Re8]} Qc6 (26...
+Bc6 {[%tqu "En","Black intends to chase away the dominating queen e6 with mit .
+..Bd7, and 27.Bc4 Rf8 isn't really leading anywhere. Do you have another idea
+for White?","","","e2a6","",10,"e2c4","",0]} 27. Ba6 $1 {[%csl Ga6,Ge6]
+White's bishops sacrifices itself to fully exploit the power of the Qe6.} Qxa6
+{[%tqu "En","Continuation?","","","d1d6","",10]} 28. Rd6 $1 {[%csl Gd6][%cal
+Gd6a6,Ge6e8] Regaining the bishop. Following 29.Rxc6 Black has nothing to
+oppose White's domination on the light squares.}) {[%tqu "En","Wie würden Sie
+auf das Damentauschangebot von Schwarz reagieren?","","","e2b5","",10]} 27. Bb5
+$1 {[%csl Gb5,Ge6] The bishop is sacrificed to keep the dominating queen e6 in
+its position.} Qxb5 {[%tqu "En","Continuation?","","","d1c1","",10]} 28. Rc1 {
+[%csl Gc1,Ge6,Re8][%cal Gc1c8] That's it - the rook enters the c-file, with
+decisive effect. The threats 29.Rc8+ and 29.Rc7 cannot be parried.} Qd7 (28...
+Bb7 29. Rc7 {[%csl Re8][%cal Ge6e7]}) 29. Rc8+ Qxc8 30. Qxc8+ Bd8 31. Qe6+ Be7
+32. Bxe5 fxe5 33. Qxe5 {[%csl Ge5][%cal Ge5e4,Ge5h8]} 1-0
+

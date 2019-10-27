@@ -1,0 +1,61 @@
+
+
+[Event "Xtracon Chess Open 2019"]
+[Site "Helsingor DEN"]
+[Date "2019.07.25"]
+[Round "7.2"]
+[White "Praggnanandhaa, R."]
+[Black "Vocaturo, Daniele"]
+[Result "1-0"]
+[ECO "B36"]
+[WhiteElo "2540"]
+[BlackElo "2612"]
+[Annotator "Sagar,Shah"]
+[PlyCount "89"]
+[EventDate "2019.07.20"]
+
+{[%evp 0,89,28,39,100,55,136,101,138,92,92,29,18,39,25,31,47,39,36,9,-2,-23,52,
+47,46,36,25,31,89,86,73,73,74,43,116,99,105,94,103,78,78,63,88,93,93,93,102,97,
+102,87,92,111,115,117,182,142,157,117,117,110,105,105,116,123,130,143,150,103,
+129,131,126,137,137,139,142,127,127,149,154,91,92,89,89,92,126,92,92,86,84,88,
+88,92]} 1. e4 c5 2. Nf3 g6 (2... Nc6 3. d4 cxd4 4. Nxd4 {1-0 (72) Caruana,F 
+(2827)-Antipov,M (2580) Caleta 2017}) 3. d4 cxd4 4. Nxd4 Nc6 5. c4 Nf6 (5... d6
+6. Nc3 {1-0 (72) Caruana,F (2827)-Antipov,M (2580) Caleta 2017}) 6. Nc3 d6 7.
+Be2 Nxd4 8. Qxd4 Bg7 9. Be3 O-O 10. Qd2 a5 11. f3 a4 12. Kf2 {Pragg said that
+he had seen the game between Caruana and Antipov from Gibraltar 2017 and had
+remembered this idea.} Qa5 {After this game it seems like Black should stay
+away from this line.} (12... Bd7 {with the idea of Bc6 might be plausible idea.
+}) 13. Rac1 Be6 14. Nd5 Bxd5 15. Qxa5 Rxa5 16. cxd5 Nd7 $2 (16... e6 $1 {
+Good or bad, this had to be tried. Black is passive and White has the bishop
+pair. Hence, Black should have gone for some desperate measures, like ...e6
+here.} 17. dxe6 fxe6 18. Ke1 {It's true, White is better, but temporarily
+white rooks have been discoordinated and this gives Black much better chances
+than what he had in the game.} d5 $5) 17. Rc7 Nc5 18. Rb1 (18. Rxe7 {is
+definitely worthy of consideration.}) 18... Bf6 19. b4 $6 {Although the
+engines think this is a fine move, Pragg after the game said that it would
+have been much better to go g4! like White Caruana did. In this case the
+queenside remains closed and Black is not able to generate counterplay.} (19.
+g4 g5 20. e5 Bxe5 21. Bxg5 e6 22. Rd1 Bxh2 23. Bh6 Rb8 24. Bc4 e5 25. Be3 Bf4
+26. Bxc5 Rxc5 27. Rxc5 dxc5 28. Bb5 Rd8 29. d6 e4 30. d7 Be5 31. fxe4 Bd4+ 32.
+Ke2 Kf8 33. Bxa4 Ke7 34. b3 Rg8 35. Rf1 Rg7 36. Kd3 Kd8 37. Kc4 Kc7 38. b4 Rxg4
+39. bxc5 Be3 40. Kd5 Rg5+ 41. Kc4 Re5 42. Kd3 Bxc5 43. Rxf7 h5 44. Bb5 h4 45.
+Rh7 Be7 46. a4 Bd8 47. Rh8 Re6 48. Rh5 Rd6+ 49. Ke2 Re6 50. Kf3 Rf6+ 51. Kg2
+Rg6+ 52. Kh2 Rg5 53. Rh8 Rc5 54. Kh3 Re5 55. Re8 Rg5 56. e5 Rg3+ 57. Kh2 Re3
+58. e6 Re4 59. Kg2 Re5 60. Kf3 b6 61. Kg4 Re4+ 62. Kf5 Re3 63. Kf4 Re1 64. Kf3
+Re5 65. Be2 h3 66. Bb5 h2 67. Kg2 Rh5 68. Kh1 Rh7 69. Ba6 Rh4 70. e7 Bxe7 71.
+Rxe7 Rxa4 72. Bb5 {1-0 (72) Caruana,F (2827)-Antipov,M (2580) Caleta 2017})
+19... axb3 20. axb3 Ra2 21. b4 Na4 22. Rbc1 Rb2 (22... h5 {According to Pragg
+was much better as now the dark squared bishops do not need to be exchanged.})
+23. Bh6 Bg7 24. Bxg7 Kxg7 25. Rxe7 (25. Rxb7 Nc5 $13) 25... Rxb4 26. Rcc7 g5
+27. e5 (27. Rxb7 Rxb7 28. Rxb7 {Pragg felt that Black will be able to setup a
+blockade and hence he went for the more active choice. But here Black is
+clearly winning because the d6 pawn is weak and one of Black's pieces will be
+passively defending it.}) 27... dxe5 28. d6 Rd4 29. Bc4 Rxd6 30. Bxf7 Kf6 31.
+Bh5 Rc6 $2 {A clinical win by the youngster.} (31... Rd2+ $1 {was the way to
+hold the game.} 32. Ke3 Rc2 $1 {This is the critical move.} (32... Rxg2 33.
+Rxh7 {gives White continuing attack because of Rh6+}) 33. Rxb7 Nc5 $11) 32.
+Rxb7 Nc5 33. Rf7+ Rxf7 34. Rxf7+ Ke6 35. Rxh7 Nd3+ 36. Ke3 Rc3 37. Rh6+ Ke7 38.
+Ke4 Nf4 39. g3 Nxh5 40. Rxh5 Kf6 41. Rh6+ Kf7 {According to Pragg this was the
+losing mistake. But the position already seems lost.} (41... Kg7 $5 42. Rd6 Rc2
+43. Kf5 Rxh2 44. Kxg5 Rf2 45. Rd3 Kf7 46. Kf5 Re2 47. Rb3 Re1 48. g4 Re2 49.
+Rb7+ Kg8 50. Kg6 $18) 42. Rd6 Rc2 43. Kxe5 Rxh2 44. Kf5 Rh3 45. Kg4 1-0

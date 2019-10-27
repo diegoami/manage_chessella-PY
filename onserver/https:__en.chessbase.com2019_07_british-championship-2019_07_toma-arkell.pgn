@@ -1,0 +1,51 @@
+[Event "British Chess Championships"]
+[Site "?"]
+[Date "2019.07.31"]
+[Round "5"]
+[White "Toma, K."]
+[Black "Arkell, K."]
+[Result "1-0"]
+[ECO "B15"]
+[WhiteElo "2229"]
+[BlackElo "2445"]
+[Annotator "danie"]
+[PlyCount "69"]
+[SourceVersionDate "2019.08.03"]
+
+{[%evp 0,69,19,38,83,67,81,86,106,108,96,43,45,62,73,73,61,54,48,55,62,22,47,
+-16,21,42,42,42,86,-19,-4,0,69,0,26,134,454,475,506,484,492,593,620,607,618,
+600,620,618,576,222,223,169,173,173,169,222,223,228,272,228,238,161,274,286,
+424,437,586,575,580,586,593,583]} 1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Nf3 d5 5. h3
+dxe4 6. Nxe4 Nd7 7. Bd3 Ngf6 8. c3 O-O 9. O-O b6 10. Neg5 h6 $2 {[#]} 11. Nxf7
+$1 {This strongly brings to mind Deep Blue-Kasparov of course.  It also
+reminds me of a game that Keith played as Black against Igor Rausis, where
+Igor broke through with a stunning series of sacrifices. There has been a lot
+of debate on the english chess forum other whether the disgraced Rausis was
+already using an engine in that game, and as I don't want to be dragged into
+any court cases, I have no desire to speculate. All I would say is if you
+cheat once, then you can't really complain if it becomes open season against
+you.  Incidentally It seems ironic now that in the Deep Blue match, Kasparov
+was accusing the machine of receiving human assistance.} Kxf7 (11... Rxf7 12.
+Bxg6 Rf8 (12... Nf8 13. Bxf7+ Kxf7 14. Ne5+ Kg8 15. Re1 {just gives White a
+huge advantage as Black's kingside is shredded.}) 13. Qe2 Qc7 {is the machines
+recommendation as being the best way to defend.}) 12. Nh4 g5 13. Ng6 Re8 {[#]}
+14. Ne5+ $2 ({As I said in the commentary at the time, in the 19th century
+they would have played} 14. f4 $1 {without thinking. It just looks so natural
+that you don't even think here, you just play it. It brings the rook into the
+game, it threatens to take on g5, and Black is essentially being crushed right
+out of the opening.} g4 15. hxg4 $18) 14... Kg8 15. f4 gxf4 16. Bxf4 Nxe5 17.
+dxe5 Nd5 $2 {[#]} ({The only way to survive was to grovel with the extremely
+depressing} 17... Be6 18. exf6 exf6 19. Qf3 f5 {which would have maintained
+some kind of parity, even if you are left with a rather dire looking position.}
+) 18. Bxh6 $1 {Toma is still extremely alert and goes for the jugular, and
+this had already been suggested by the watching Lawrence Trent (no doubt with
+engine in hand.)} Bxh6 19. Qh5 {winning by force, and the game should have
+ended over the next few moves.} Nf4 20. Rxf4 Qxd3 (20... Bxf4 21. Qh7+ Kf8 22.
+Rf1 {and Black will be mated}) 21. Qxe8+ Kh7 22. Qxe7+ Kg8 23. Qf7+ Kh8 {[#]}
+24. Rf3 $2 {there was no need for such subtleties.} (24. Qe8+ Kh7 25. Rf7+ Bg7
+26. Raf1 {was easily getting the job done.}) 24... Qd7 {Keith threatens to
+edge back into the game around about here, but fortunately for Toma, her
+positional and material edge is so large that she manages to close it out
+anyway.} 25. Qg6 Qg7 26. Qe8+ Qg8 27. Qxc6 Be6 28. Rd1 Re8 29. Rd4 Re7 30. Rh4
+Qg5 31. Qa8+ Kh7 32. Qe4+ Kg8 33. Kh2 Rg7 34. Rf6 Qg3+ 35. Kh1 1-0
+

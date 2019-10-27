@@ -1,0 +1,2767 @@
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.17"]
+[Round "1.1"]
+[White "Carlsen, Magnus"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[WhiteElo "2882"]
+[BlackElo "2779"]
+[Annotator "TA"]
+[PlyCount "71"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,71,9,7,0,12,8,12,9,16,6,15,12,12,15,18,6,12,17,11,10,14,7,6,9,13,16,
+29,23,20,8,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+} 1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e4 Bb4 5. d3 d6 6. Be2 {A28: English
+Opening: Four Knights Variation} (6. a3 Bc5 7. b4 Bb6 8. Na4 Bg4 9. Be2 Nd7 10.
+Nxb6 axb6 11. Bb2 O-O 12. h3 Bxf3 13. Bxf3 Nd4 {1-0 (49) Nakamura,H (2746)
+-Sevian,S (2642) Saint Louis 2019}) 6... Bg4 7. a3 Bc5 8. b4 $146 ({
+Predecessor:} 8. O-O a5 9. h3 Be6 10. Be3 Nd4 11. Bxd4 exd4 12. Nb5 Nh5 13.
+Nfxd4 Bxd4 14. Nxd4 {1-0 (57) Jurcik,M (2466)-Karas,M (2170) Slovakia 2015})
+8... Bb6 9. Be3 Bxf3 10. Bxf3 Nd4 11. Na4 Nxf3+ 12. Qxf3 Bxe3 13. Qxe3 O-O 14.
+O-O Re8 15. Nc3 a5 16. b5 c6 17. Rab1 d5 18. Na4 Qe7 19. bxc6 {The position is
+equal.} bxc6 20. cxd5 cxd5 21. Nb6 Rad8 22. Rb5 {[%cal Re4d5]} Qxa3 23. exd5 e4
+24. dxe4 Qxe3 25. fxe3 Rxe4 26. Rxa5 Rb4 27. Ra8 Rxa8 28. Nxa8 Nxd5 $11 {
+[%mdl 4096] Endgame KRN-KRN} 29. Rd1 {[#] Strongly threatening Nc7.} Rb8 $1 30.
+Rxd5 {Black must now prevent Nc7.} Rxa8 {KR-KR} 31. Kf2 Kf8 32. Kf3 h6 33. Kf2
+Ra2+ 34. Kf3 Ra8 35. Kf2 Ra2+ 36. Kf3 {Accuracy: White = 77%, Black = 85%.}
+1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.17"]
+[Round "1.2"]
+[White "Nakamura, Hikaru"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[ECO "C80"]
+[WhiteElo "2743"]
+[BlackElo "2818"]
+[Annotator "TA"]
+[PlyCount "85"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,85,60,52,60,54,56,49,45,51,30,50,35,41,33,39,32,34,29,30,36,31,29,29,
+28,46,14,18,16,27,22,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,27,26,23,22,8,4,0,0,0,
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6
+5. O-O Nxe4 6. d4 Be7 7. Re1 b5 8. Rxe4 {C84: Closed Ruy Lopez: Unusual White
+6th moves} d5 9. Nxe5 Nxe5 10. Rxe5 {[#] Bb3 is the strong threat.White is
+slightly better.} bxa4 11. b3 (11. Qe1 {looks sharper.} c6 12. Nc3 a3 13. b3 f6
+14. Re3) 11... Be6 12. Ba3 Bxa3 13. Nxa3 O-O 14. Nb1 Qd6 15. Nc3 axb3 16. axb3
+c5 $146 17. Ne2 f6 18. Re3 {[#] And now dxc5 would win.} c4 19. Ng3 cxb3 20.
+cxb3 g6 21. Qf3 Bf7 22. h3 Rfe8 23. Rxe8+ Rxe8 24. Qd3 Re6 25. Nf1 Qb6 26. Ne3
+Rc6 27. h4 Kg7 28. h5 Qb4 29. Ng4 Be6 30. h6+ Kf7 31. Ne3 a5 32. Qd1 {The
+position is equal.} Rc3 $132 {[%mdl 2048] Black is not keeping still} 33. Ra4
+Qxb3 34. Qxb3 Rxb3 35. Rxa5 $11 {[%mdl 4096] Endgame Strongly threatening Ra7+.
+KRB-KRN} g5 36. Ra7+ Kg6 37. Ra6 Kf7 38. g4 Rb4 39. Ra7+ Kg6 40. Ra6 Kf7 41.
+Ra7+ Kg6 42. Ra6 Kf7 43. Ra7+ {Accuracy: White = 73%, Black = 84%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.17"]
+[Round "1.3"]
+[White "Ding, Liren"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[ECO "A14"]
+[WhiteElo "2805"]
+[BlackElo "2776"]
+[Annotator "TA"]
+[PlyCount "79"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,79,12,23,8,8,8,10,7,5,19,11,11,11,17,12,18,17,16,16,11,11,35,41,32,
+32,47,30,48,31,66,22,47,32,54,41,43,10,10,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0]} 1. c4 Nf6 2. g3 e6 3. Bg2 d5 4. Nf3 Be7 5. O-O O-O 6. d4
+dxc4 7. Qc2 a6 8. a4 c5 9. dxc5 Bxc5 {E05: Open Catalan: 5 Nf3 Be7} 10. Qxc4 b6
+11. Ne5 Ra7 $1 12. Nd3 Be7 13. Bf4 Bb7 14. Bxb7 Rxb7 15. Rc1 Nd5 {[#]} 16. Be5
+$146 ({Predecessor:} 16. Bxb8 b5 17. axb5 axb5 {1/2-1/2 (39) Aronian,L (2794)
+-Hou,Y (2654) Karlsruhe/Baden-Baden 2018}) 16... Bd6 {[#] Strongly threatening
+...Rc7.} 17. Nd2 Bxe5 18. Nxe5 b5 19. Qd4 bxa4 20. Rxa4 Qb6 21. Nd3 Rd8 22. Ne4
+Nd7 23. Nec5 Nxc5 24. Rxc5 Nf4 25. Qxf4 {[#] And now Rb4 would win.} Rxd3 $1
+26. Rc8+ Rd8 {The position is equal.} 27. Rac4 {White threatens R4c7 and mate.}
+h6 $1 28. R4c6 Rxc8 29. Rxc8+ $11 {[%mdl 4096] Endgame KQR-KQR} Kh7 30. Qe4+ f5
+31. Qc4 Qb3 32. Qxb3 Rxb3 {KR-KR} 33. Rc6 Rxb2 34. Rxe6 a5 35. Ra6 Rxe2 36.
+Rxa5 Kg6 37. Ra6+ Kh7 38. Ra5 Kg6 39. Ra6+ Kh7 40. Ra5 {Accuracy: White = 67%,
+Black = 50%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.17"]
+[Round "1.4"]
+[White "Aronian, Levon"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2765"]
+[BlackElo "2778"]
+[Annotator "TA"]
+[PlyCount "50"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,50,26,26,20,20,16,27,11,32,15,14,0,0,0,0,0,4,0,0,0,6,0,0,2,0,0,0,0,12,
+0,4,0,25,-5,0,-45,-25,-33,0,-49,0,-31,0]} 1. d4 Nf6 2. Nf3 g6 3. Nbd2 d5 4. e3
+Bg7 5. b4 a5 (5... O-O 6. Bb2 c6 7. c4 Nbd7 8. a4 Ne4 9. cxd5 Nxd2 10. Qxd2
+cxd5 11. Bd3 Nf6 12. O-O Ne4 13. Qe2 Nd6 14. Rfc1 Bf5 15. Bxf5 gxf5 {1-0 (47)
+Sargissian,G (2689)-Kovalev,V (2683) St Petersburg 2018}) 6. b5 {D02: 1 d4 d5
+2 Nf3 sidelines, including 2...Nf6 3 g3 and 2...Nf6 3 Bf4} c5 7. bxc6 Nxc6 8.
+Be2 {White has an edge.} O-O 9. O-O Bf5 10. c3 Qc7 $146 ({Predecessor:} 10...
+a4 11. Ba3 Qa5 12. c4 Nb4 {0-1 (12) Morovic Fernandez,I (2535)-Aguero Jimenez,
+L (2457) Matanzas 2017}) 11. a4 e5 12. Ba3 {Black should prevent dxe5.} Rfc8
+13. Rc1 e4 14. Nh4 Be6 {[#] Threatens to win with ...g5.} 15. g3 g5 16. Ng2 Qd7
+17. f3 exf3 18. Bxf3 Bf5 19. Qb3 Bd3 20. Rf2 Qe6 21. Qd1 b6 22. Nf1 Be4 23. Nd2
+Bd3 24. Nf1 Be4 25. Nd2 Bd3 {Accuracy: White = 57%, Black = 63%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.17"]
+[Round "1.5"]
+[White "Nepomniachtchi, Ian"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "A21"]
+[WhiteElo "2774"]
+[BlackElo "2756"]
+[Annotator "TA"]
+[PlyCount "154"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,154,28,22,23,17,7,22,10,6,13,14,12,10,3,12,6,14,4,19,0,0,-16,-20,-39,
+0,-8,0,-15,0,0,0,0,0,0,0,-8,-15,-31,0,-19,-6,-33,-33,-39,-35,-41,-14,-26,5,9,0,
+0,0,-8,-8,-7,-9,-11,-4,-6,0,-12,-8,-20,-20,-29,-29,-22,-25,-24,-23,-23,-20,-21,
+-17,-24,-18,-22,-28,-129,-21,-129,-129,-162,-107,-98,-108,-107,-102,-135,-108,
+-198,-180,-173,-179,-176,-114,-111,-105,-112,-118,-139,-144,-169,-160,-167,
+-157,-162,-146,-147,-129,-135,-120,-127,-121,-129,-121,-138,-122,-132,-136,
+-170,-163,-180,-168,-198,-192,-180,-175,-179,-159,-170,-65,-65,-65,-65,-65,-66,
+-65,-65,-65,-65,-65,-65,-65,-29983,-29984]} 1. c4 e5 2. Nc3 Bb4 3. Nd5 Be7 4.
+Nf3 d6 5. d4 Nf6 (5... e4 6. Nd2 f5 7. Nb1 c6 8. Nxe7 Nxe7 9. Nc3 O-O 10. e3
+Be6 11. Be2 Nd7 12. b3 d5 13. a4 a5 {1-0 (41) Inarkiev,E (2727)-Bologan,V 
+(2640) Poikovsky 2017}) 6. Nc3 $146 {A21: English Opening: 1...e5 2 Nc3} ({
+Predecessor:} 6. Nxe7 Qxe7 7. e3 e4 8. Nd2 O-O 9. Be2 c5 10. d5 Bf5 11. g4 Bg6
+12. h4 h6 13. b3 {1-0 (45) Aleksandrov,A (2582)-Ameir,M (2309) Chennai 2019})
+6... exd4 7. Nxd4 d5 8. Bf4 {The position is equal.} O-O 9. e3 a6 10. Nf3 {
+[%cal Rc4d5]} c6 11. cxd5 Nxd5 12. Nxd5 Qxd5 13. Qxd5 cxd5 14. O-O-O Nc6 15.
+Bg5 f6 16. Bf4 Be6 17. Kb1 Rac8 18. a3 Rfd8 (18... g5 $5 19. Bg3 $8 f5 $11) 19.
+Bd3 Bc5 (19... g5 $5 20. Bg3 $8 Bc5 $11) 20. Rhe1 Kf7 21. Bg3 ({Much worse is} 
+21. Bxh7 g6 $19) 21... Bb6 22. Bc2 ({Much weaker is} 22. Bxh7 g6 $17) 22... h5
+23. h3 Ne7 24. Bb3 g5 25. h4 g4 $1 {[%cal Rg4f3]} 26. Nd4 Bxd4 $1 27. Rxd4 Nc6
+28. Rf4 d4 29. Bxe6+ Kxe6 30. exd4+ Kf7 31. f3 gxf3 32. Rxf3 Nxd4 33. Rf4 Ne6
+34. Rf3 Nd4 35. Rf4 Nb3 36. Bf2 Rc4 {[%mdl 64] Decoy} 37. Rxc4 Nd2+ {[%mdl 64]
+Double Attack} 38. Kc2 Nxc4 $11 {[%mdl 4096] Endgame KRB-KRN} 39. Re2 Ne5 40.
+Be1 Ke6 41. a4 Rd6 42. g3 Kf5 43. Rf2+ Kg4 44. Rf4+ Kh3 {Strongly threatening .
+..Nd3.} 45. Rf1 (45. Rf5 $1 $11 {was the only way to keep the balance.}) 45...
+Rc6+ $17 46. Kb1 {[#]} Re6 $1 47. Rf5 Ng6 48. Bf2 Kg4 49. Rd5 Ne5 50. Rd4+ (50.
+b4 $17) 50... Kh3 $19 51. Rd5 Re7 52. Kc2 Ng4 (52... Rd7 $19 53. Rxd7 Nxd7) 53.
+Bb6 $17 Rh7 54. Rd3 Ne5 55. Rb3 Rd7 56. Be3 Nf3 57. Rb6 Kxg3 58. Rxf6 Nxh4 59.
+b4 Ng2 60. Ba7 h4 61. Kc3 h3 {...Rd8 is the strong threat.} 62. Bb8+ Kg4 63.
+Rg6+ {[#]} Kh5 $1 {[%cal Rh5g6]} 64. Rg8 Ne3 65. Rg3 Nd5+ 66. Kb3 Kh4 {
+Threatens to win with ...Rd8.} 67. Rg8 Nf6 68. Rg6 Ng4 69. Rg8 {intending Rh8+.
+} Rh7 70. Kc4 h2 ({Black should try} 70... Kh5 $19 {White must now prevent ...
+h2.} 71. b5 axb5+ 72. Kxb5 Nf6) 71. Bxh2 $1 $15 Nxh2 {KRN-KR} 72. b5 Ng4 {
+Hoping for ...Nf6.} 73. Ra8 axb5+ 74. Kxb5 Nf6 75. a5 Nd5 76. Ra7 Kg5 {And now
+...Kf5 would win.} 77. Kc4 $2 {[%mdl 8192]} (77. Kc5 $15) 77... b5+ $1 {
+[%mdl 64] Discovered Attack. Accuracy: White = 57%, Black = 74%.} 0-1
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.17"]
+[Round "1.6"]
+[White "Karjakin, Sergey"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "2750"]
+[BlackElo "2764"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,61,28,22,37,23,21,10,10,18,21,18,24,25,25,25,25,25,47,27,22,25,24,27,
+27,20,32,13,13,10,14,11,16,11,11,11,11,11,11,12,12,12,12,12,12,0,2,0,16,0,4,0,
+13,0]} 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bf5 6. Bd2 ({
+Predecessor:} 6. Bc4 e6 {1/2-1/2 (45) Joao,N (2575)-Stephan,J (2575) ICCF
+email 2012}) 6... e6 {B01: Scandinavian Defence} 7. Bc4 {[#] aiming for Nd5.}
+Bb4 8. a3 Bxc3 $1 9. Bxc3 Qb6 10. d5 $146 (10. b3 Nbd7 11. O-O O-O 12. h3 Be4
+13. Re1 Qc6 14. Ne5 Nxe5 15. dxe5 {1/2-1/2 (71) Nepomniachtchi,I (2763)
+-Kovalenko,I (2657) St Petersburg 2018}) 10... exd5 11. Bxd5 {Qe2+ is the
+strong threat.} Be6 12. Bxe6 Qxe6+ 13. Qe2 Qxe2+ 14. Kxe2 Nbd7 15. Rhe1 O-O-O
+16. Kf1 h6 17. Re7 Rhf8 18. Bxf6 Nxf6 {The position is equal.} 19. Ne5 Rfe8 20.
+Rxe8 Rxe8 21. Nxf7 $11 {[%mdl 4096] Endgame KRN-KRN} Ng4 22. f3 Ne3+ $1 23. Kf2
+Nxc2 24. Rc1 Re7 25. Rxc2 {[#] And now Nd6+ would win.} Rxf7 {KR-KR} 26. Ke3
+Kd7 27. Rd2+ Ke7 28. Rc2 Kd7 29. Rd2+ Ke7 30. Rc2 Kd7 31. Rd2+ {Accuracy:
+White = 62%, Black = 100%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.18"]
+[Round "2.1"]
+[White "Anand, Viswanathan"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[WhiteElo "2756"]
+[BlackElo "2882"]
+[Annotator "TA"]
+[PlyCount "89"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,89,13,5,4,7,0,9,4,15,16,41,41,43,30,45,42,37,35,27,39,33,28,19,-31,-5,
+-15,-6,-21,0,0,0,0,-7,-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4.
+Bxc6 bxc6 5. d4 Bg7 6. dxc5 {B31: Sicilian: 2...Nc6 3 Bb5 g6} Qa5+ 7. Nbd2 Qxc5
+(7... Ba6 8. a3 Qxc5 9. c4 Nh6 10. b4 Qh5 11. Rb1 f5 12. exf5 O-O 13. fxg6 Qxg6
+{1-0 (43) So,W (2765)-Maze,S (2596) Caleta 2019}) 8. O-O d6 9. Re1 f6 10. a3
+$146 ({Predecessor:} 10. c4 Nh6 11. Qa4 Ng4 12. Re2 Bd7 13. h3 {1/2-1/2 (21)
+Antal,G (2546)-Markos,J (2568) Slovakia 2019}) 10... Nh6 11. b4 Qh5 12. c4 O-O
+13. Qa4 Bd7 14. Nf1 Nf7 15. Ng3 Qg4 16. c5 e5 17. cxd6 {The position is equal.}
+c5 18. Qb3 cxb4 19. axb4 Qe6 20. Qxe6 Bxe6 21. Be3 a6 22. Rec1 Rfd8 23. Nd2 Bf8
+24. Nc4 Rac8 25. Bc5 Bxc4 26. Rxc4 Nxd6 27. Rcc1 $1 Rc6 28. f3 Nb5 29. Bxf8
+Rxc1+ 30. Rxc1 {[#] aiming for Be7.} Kxf8 $11 {[%mdl 4096] Endgame KRN-KRN} 31.
+Nf1 Nd4 {And now ...Ne2+ would win.} 32. Rc4 Ke7 33. Ne3 Kd6 34. Rc5 Nc6 35.
+Rd5+ Ke7 36. b5 axb5 37. Rxb5 Rb8 38. Rxb8 Nxb8 {KN-KN} 39. Kf2 Ke6 40. g3 Nd7
+41. Nc4 Nc5 42. Ke3 Nd7 43. Kf2 Nc5 44. Ke3 Nd7 45. Kf2 {Accuracy: White = 87%,
+Black = 76%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.18"]
+[Round "2.2"]
+[White "Caruana, Fabiano"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2818"]
+[BlackElo "2774"]
+[Annotator "TA"]
+[PlyCount "70"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,70,25,14,4,1,46,57,70,19,44,36,34,28,8,-33,-20,-14,-12,-4,9,0,0,-15,
+-13,-8,12,-10,0,0,0,0,15,0,48,37,36,0,7,0,8,0,10,0,0,-239,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nb3
+Be7 {B90: Sicilian Najdorf: Unusual White 6th moves, 6 Be3 Ng4 and 6 Be3 e5} (
+7... Be6 8. f4 exf4 9. Bxf4 Nc6 10. Qe2 Be7 11. O-O-O Qc7 12. g4 O-O 13. g5 Nd7
+14. Qe3 Rac8 15. Kb1 {1-0 (60) Van Foreest,J (2612)-Nepomniachtchi,I (2763)
+Wijk aan Zee 2019}) 8. g4 b5 9. g5 Nfd7 {White is slightly better.} 10. h4 $146
+(10. Be3 $14) ({Predecessor:} 10. Nd5 O-O 11. h4 Nb6 12. f4 exf4 13. Bxf4 Nc6
+14. Bg2 Ne5 15. Nd4 Nxd5 16. exd5 {0-1 (40) Karthikeyan,M (2513)-Donchenko,A 
+(2583) Biel 2016}) 10... Nb6 11. Be3 Be6 12. Bxb6 Qxb6 13. Qf3 b4 14. Nd5 Bxd5
+$1 15. exd5 Nd7 16. O-O-O a5 {[%cal Ba6a5,Ba5a4][%mdl 32]} 17. Kb1 a4 18. Nd2
+Nc5 19. Bd3 b3 20. cxb3 axb3 21. a3 Ra4 22. Ne4 Nxe4 23. Bxe4 O-O 24. Rhg1 Qa7
+25. h5 g6 26. Rd3 Rb8 27. hxg6 hxg6 28. Qg2 $2 {[#]} (28. Rh1 $11 {and White
+has nothing to worry.} Bxg5 29. Qg2) 28... Bf8 $2 (28... Rxa3 $1 $19 {[%mdl
+512] ( -> ...Ra1#)} 29. bxa3 Qxa3) 29. f3 {The position is equal.} Rc4 30. Rh1
+Qc7 31. Qh2 {[%csl Gh1][%cal Rh2h8]} Bg7 32. Qe2 Bf8 33. Qh2 {[%csl Gh1][%cal
+Rh2h8]} Bg7 34. Qe2 Bf8 35. Qh2 {[%csl Gh1][%cal Rh2h8]} Bg7 {Accuracy: White
+= 50%, Black = 72%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.18"]
+[Round "2.3"]
+[White "Karjakin, Sergey"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[WhiteElo "2750"]
+[BlackElo "2805"]
+[Annotator "TA"]
+[PlyCount "70"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 26,70,33,18,29,34,36,48,36,13,19,16,15,15,20,19,19,19,21,19,25,19,17,19,
+34,25,24,31,60,24,24,31,30,24,47,40,40,45,43,20,80,0,43,0,60,0,65]} 1. e4 e5 2.
+Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3 d5 9. exd5
+Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d3 Bd6 13. Re1 Bf5 14. Qf3 Qh4 {C89: Closed
+Ruy Lopez: Marshall Attack} 15. g3 Qh3 16. Be3 Bxd3 {White is slightly better.}
+17. Nd2 Qf5 18. Bd4 Rfd8 19. a4 h6 20. h4 Rac8 21. axb5 axb5 22. Bxd5 cxd5 {[#]
+} 23. Ra5 $146 ({Predecessor:} 23. Qxf5 Bxf5 {1/2-1/2 (37) So,W (2799)-Ding,L 
+(2769) Berlin 2018}) 23... Qxf3 24. Nxf3 Re8 25. b4 f6 26. Ra6 Bf8 27. Ra7 (27.
+Rea1 {seems wilder.} Bh7 28. Ne1 Rc4 29. Rd1 Rcc8 30. Ng2) 27... Ra8 28. Rxe8
+Rxe8 29. h5 Be2 30. Kg2 Bd6 31. Rd7 Re6 32. Bc5 Be5 (32... Bxc5 $11 {keeps the
+balance.} 33. bxc5 Bxf3+ 34. Kxf3 Re4) 33. Bd4 ({Don't play} 33. Rxd5 Bxc3 34.
+Nd4 Bxd4 $11) ({Of course not} 33. Nxe5 Rxe5 34. Rd8+ Kh7 $11) 33... Bd6 34.
+Bc5 Be5 35. Bd4 Bd6 {Accuracy: White = 55%, Black = 70%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.18"]
+[Round "2.4"]
+[White "Giri, Anish"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[WhiteElo "2779"]
+[BlackElo "2765"]
+[Annotator "TA"]
+[PlyCount "105"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,105,14,18,10,22,14,15,3,18,24,13,18,15,14,27,19,19,20,19,17,24,24,20,
+24,19,29,19,17,22,35,23,33,36,27,25,23,39,20,26,13,21,2,25,8,20,23,48,44,41,45,
+36,39,41,41,47,36,47,47,47,48,115,113,113,130,164,0,113,113,103,93,135,89,110,
+70,211,41,211,211,211,207,200,145,287,70,67,28,27,29,31,0,0,0,64,0]} 1. e4 e5
+2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. O-O d6 6. c3 a6 7. a4 O-O 8. Nbd2 {C54:
+Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} Ba7 9. h3 h6 10. Re1 {
+The position is equal.} Re8 11. b4 Be6 12. Bxe6 Rxe6 13. Qc2 Qd7 14. Nf1 d5 15.
+Be3 {[#]} d4 $146 ({Predecessor:} 15... Bxe3 16. Nxe3 {1-0 (41) Anand,V (2786)
+-So,W (2812) Leuven 2017}) 16. cxd4 Nxd4 17. Bxd4 Bxd4 18. Nxd4 Qxd4 19. Qxc7
+Qxd3 20. Qxb7 Qd8 {[#] White must now prevent ...Rb6.} 21. Red1 Qb8 22. Qxb8+
+Rxb8 23. f3 Rxb4 24. Ne3 g6 25. a5 Rb5 26. Rdb1 Rc5 27. Rb6 Kf8 28. Ra2 h5 29.
+h4 Nd7 30. Rb7 Rc1+ 31. Kh2 Nc5 32. Rb8+ Re8 33. Rb6 Re6 34. Nd5 Rxb6 35. axb6
+$14 {[%mdl 4096] Endgame KRN-KRN} Rb1 $1 36. Ra5 Nd7 (36... Rb5 $14 37. b7 Nxb7
+38. Rxa6 Nc5 39. Ra8+ Kg7) 37. Rxa6 $16 Rb2 38. Kg1 Kg7 39. Kh2 (39. Kf1 $18)
+39... Kf8 $1 40. Kg3 Kg7 41. Kh3 Kf8 42. g4 hxg4+ 43. fxg4 Nc5 (43... Kg8 $14)
+44. Ra8+ $18 Kg7 {[#]} 45. g5 $1 Nxe4 46. Rd8 Kh7 47. Rb8 Rb5 (47... Kg7 $16
+48. b7 Rb3+ 49. Kg2 Rg3+ 50. Kf1 Rf3+ 51. Ke1 Rb3) 48. b7 $2 (48. Nf6+ $18 Nxf6
+49. gxf6) 48... Rb2 $1 $14 49. Ne7 {Strongly threatening Rf8.} (49. Ne3 $5 {
+[%cal Re3g4]}) 49... Nd6 50. Ng8 {Threatening mate with Nf6+.} Ne4 $1 51. Ne7 {
+And now Rf8 would win.} Nd6 52. Nd5 (52. Nc6 $11) 52... Ne4 $1 53. Ne7 {
+Accuracy: White = 59%, Black = 59%.} ({White should try} 53. Ne3 $1 $14)
+1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.18"]
+[Round "2.5"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2778"]
+[BlackElo "2776"]
+[Annotator "TA"]
+[PlyCount "85"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,85,11,14,14,23,22,24,14,45,13,50,0,5,10,0,-8,-8,-24,-16,-38,-32,-35,
+-31,-33,-28,-25,0,0,0,0,0,0,0,0,25,0,-8,-35,-18,-27,-27,-36,-28,-57,-50,-58,
+-59,-51,-58,-52,-52,-61,-63,-63,-47,-53,-56,-69,0,-82,-2,-7,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a6 7. a4 {
+C54: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} Ba7 $146 (7... h6
+8. Nbd2 O-O 9. Re1 Re8 10. Nf1 Ba7 11. Ng3 Be6 12. Bxe6 Rxe6 13. b4 d5 14. Qb3
+Qd7 15. h3 Rd8 {0-1 (76) Yu,Y (2751)-Harikrishna,P (2723) Shenzhen 2019}) 8.
+Re1 O-O 9. h3 {White has an edge.} Kh8 10. d4 Ng8 11. b4 exd4 12. cxd4 Nxb4 13.
+Nc3 a5 14. Bf4 f6 15. Qb3 Ne7 16. Rad1 c6 17. Bc1 d5 18. exd5 Bf5 19. dxc6 Bc2
+20. cxb7 Rb8 21. Qa3 Bxd1 22. Rxd1 Nf5 23. Nb5 Nd6 $36 {[%mdl 2048] Black has
+good play.} 24. Bf1 Nxb5 25. axb5 Rxb7 26. Bd2 Nc2 27. Qa4 Nxd4 28. Nxd4 Qxd4
+29. Qxd4 Bxd4 30. Bxa5 Bb6 31. Bxb6 Rxb6 $15 {[%mdl 4096] Endgame KRR-KRB} 32.
+g3 g6 33. Rd7 Rfb8 34. Bc4 R8b7 (34... R6b7 $15 35. Rxb7 Rxb7) 35. Rd8+ $1 $11
+Kg7 36. Bd5 $1 {The position is equal.} Rxb5 {[#] And now ...Rc7 would win.} (
+36... Re7 {with more complications.} 37. Rg8+ Kh6 38. Bc6 Kg5 39. f4+ Kf5) 37.
+Bxb7 Rxb7 {KR-KR} 38. Kg2 h5 39. h4 $1 Ra7 40. Rc8 Rb7 41. Rd8 Ra7 42. Rc8 Rb7
+43. Rd8 {Accuracy: White = 59%, Black = 63%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.18"]
+[Round "2.6"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2764"]
+[BlackElo "2743"]
+[Annotator "TA"]
+[PlyCount "88"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,88,18,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,43,204,63,54,39,41,
+39,50,38,47,39,52,54,41,41,52,42,39,27,44,38,41,23,29,10,15,6,7,7,6,6,8,8,8,0,
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4
+O-O 6. e3 c5 7. dxc5 Bxc5 8. Qc2 Nc6 9. a3 Qa5 10. O-O-O {[%cal Rc4d5]} Be7 {
+D37: Queen's Gambit Declined: 5 Bf4} 11. Rg1 (11. Kb1 a6 12. g4 dxc4 13. Bxc4
+b5 14. g5 bxc4 15. gxf6 Bxf6 16. Ne4 Be7 17. Rhg1 Rd8 18. Rxd8+ Nxd8 19. Qxc4 {
+1/2-1/2 (27) Karjakin,S (2773)-Nakamura,H (2777) Saint Louis 2018}) 11... a6
+12. g4 dxc4 13. Bxc4 b5 {[%cal Bb7b5,Bb5b4][%mdl 32]} 14. g5 Nh5 $1 {[%cal
+Rh5f4]} 15. Bd3 b4 $146 ({Predecessor:} 15... Nxf4 16. Bxh7+ Kh8 17. Be4 Ng6
+18. Bxc6 Rb8 19. Rd4 Kg8 20. Be4 b4 {1/2-1/2 (20) Hansen,M (2368)-Hoffmann,F 
+(2332) ICCF email 2010}) 16. Bxh7+ Kh8 17. Be4 bxc3 18. Bxc6 cxb2+ 19. Kb1 Qxa3
+{[%csl Gb2][%cal Ra3a1] [#]} 20. Qxb2 Qxb2+ 21. Kxb2 Ra7 $1 22. Bd6 Bxd6 23.
+Rxd6 Bb7 24. Ne5 Bxc6 25. Rxc6 Rb8+ 26. Kc2 a5 27. Rb1 Rd8 28. Rbb6 Kh7 29. f4
+Rda8 30. Kb3 a4+ 31. Ka3 f6 32. Nf3 Rd7 {Hoping for ...Rd3+.The position is
+equal.} 33. Rd6 Rxd6 34. Rxd6 Rc8 {And now ...Rc3+ would win.} 35. gxf6 gxf6 {
+...Rc3+ is the strong threat.} 36. Rxe6 Nxf4 37. exf4 {[#] Threatens to win
+with Nd4.} Rc3+ 38. Kxa4 {aiming for Nd2.} Rxf3 39. Rxf6 $11 {[%mdl 4096]
+Endgame KR-KR} Kg7 40. Rb6 (40. Rf5 {is interesting.} Kg6 41. Rg5+ Kh6 42. Kb5
+Rxf4 43. Rg2) 40... Rxf4+ 41. Rb4 Rxb4+ 42. Kxb4 Kg6 43. h3 Kh5 44. h4 Kxh4 {
+Accuracy: White = 61%, Black = 88%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.19"]
+[Round "3.1"]
+[White "Aronian, Levon"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[WhiteElo "2765"]
+[BlackElo "2756"]
+[Annotator "TA"]
+[PlyCount "83"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,83,35,10,20,20,10,0,0,0,0,0,0,0,0,7,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,2,2,2,2,2,2,2,3,4,0,0,0,0,0,0,0,0,0,10,10,10,10,10,10,10,10,10,10,10,
+10,51,0,10,0,45,0]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. O-O h6 6. c3 d6
+7. Re1 O-O 8. h3 a6 {C54: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3
+} 9. a4 a5 10. d4 Bb6 {The position is equal.} (10... Ba7 11. Bb3 Re8 12. Bc2
+Bd7 13. Na3 Qc8 14. Nb5 Bb6 15. Bb1 exd4 16. cxd4 {0-1 (34) Giri,A (2797)
+-Karjakin,S (2753) Shamkir 2019}) 11. Be3 exd4 $146 ({Predecessor:} 11... Nxe4
+12. d5 Bxe3 13. Rxe3 Nc5 14. dxc6 bxc6 {0-1 (37) Uzun,M-Kiziltas,I (1553)
+Konya 2017}) 12. cxd4 d5 ({Not} 12... Nxe4 13. d5 $16) 13. exd5 Nxd5 14. Bxd5
+Qxd5 15. Nc3 Qd8 16. d5 Bxe3 17. dxc6 Qxd1 18. Raxd1 Bc5 19. Ne5 {And now cxb7
+would win.} bxc6 20. Nxc6 Bb7 21. Ne7+ Kh7 22. Rd7 Bd6 23. Rd1 Rab8 24. Nb5
+Bxe7 25. Rxe7 Bc6 26. Nc3 Rb4 27. Rxc7 Bxa4 28. Nxa4 Rxa4 $11 {[%mdl 4096]
+Endgame KRR-KRR} 29. Rb7 Rf4 30. g3 Rf6 31. Rb5 Ra8 32. Ra1 Rc8 33. Raxa5 Rc2
+34. Rf5 {Threatening Rxf6.} Rxb2 35. Rxf6 gxf6 {KR-KR} 36. Ra4 Rb3 37. Kg2 Kg7
+38. Rg4+ Kh7 39. Rf4 Kg7 40. Rg4+ Kh7 41. Rf4 Kg7 42. Rg4+ {Accuracy: White =
+84%, Black = 82%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.19"]
+[Round "3.2"]
+[White "Carlsen, Magnus"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2882"]
+[BlackElo "2818"]
+[Annotator "TA"]
+[PlyCount "85"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,85,16,16,-7,-9,0,21,22,16,20,12,22,18,24,32,18,36,35,34,37,43,45,43,
+34,34,31,34,34,34,38,49,33,41,31,41,41,43,43,67,62,61,62,66,57,60,33,37,34,36,
+14,10,0,0,0,12,0,0,0,0,0,0,-15,-15,-15,-15,-22,-12,-12,0,-8,-8,-8,0,-8,0,-8,0,
+-8]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bxc4 {D24: Queen's
+Gambit Accepted: 3 Nf3 Nf6 4 Nc3} Nxe4 7. O-O Nf6 8. Qa4+ Nc6 9. Ne5 Bd6 $146 (
+{Predecessor:} 9... Rb8 10. d5 exd5 11. Nxd5 Nxd5 12. Nxc6 bxc6 13. Qxc6+ Qd7
+14. Qxd5 {1/2-1/2 (31) Mamedyarov,S (2817)-Caruana,F (2832) Germany 2019}) 10.
+Nxc6 bxc6 11. Qxc6+ Bd7 12. Qf3 O-O 13. Bg5 h6 14. Bh4 Rb8 15. b3 Rb6 16. Ne4 {
+[%cal Re4f6]} Be7 17. Nxf6+ Bxf6 18. Bxf6 Qxf6 19. Qxf6 gxf6 20. d5 e5 21. Rfc1
+a5 22. Be2 c6 23. dxc6 Rxc6 24. Rxc6 Bxc6 $14 {[%mdl 4096] Endgame KRB-KRB} 25.
+Rc1 Bd7 26. Rc5 Ra8 27. f4 exf4 28. Bf3 Ra6 29. Kf2 {[%mdl 1024] White has
+compensation.} (29. Rd5 $5 {[%cal Rd5d7]} Ra7 30. Rd4 $14) 29... Be6 {The
+position is equal.} 30. Be2 Ra8 31. Bf3 Ra6 32. Bb7 Ra7 33. Be4 Kg7 34. Kf3 a4
+35. Bc2 (35. Rc3 {seems wilder.} axb3 36. axb3 Ra5 37. Bd3 Ra2 38. Bc2) 35...
+axb3 36. Bxb3 Rb7 37. Kxf4 Bxb3 38. axb3 Rxb3 $11 {KR-KR} 39. g3 Rb4+ 40. Kf3
+Rb3+ 41. Kf4 Rb4+ 42. Kf3 Rb3+ 43. Kf4 {Accuracy: White = 62%, Black = 66%.}
+1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.19"]
+[Round "3.3"]
+[White "Ding, Liren"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2805"]
+[BlackElo "2778"]
+[Annotator "TA"]
+[PlyCount "99"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,99,0,0,8,11,11,7,0,16,17,0,0,0,22,0,18,22,52,27,42,35,41,37,36,27,68,
+8,8,8,8,8,8,8,9,12,12,6,14,0,0,-3,-10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-15,
+-15,-14,0,-10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 g6 3. Nc3
+d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e4 Nb6 7. Be3 O-O 8. Be2 Nc6 {[%cal Bb8c6,Bc6a5,
+Ba5c4][%mdl 32]} 9. Nf3 Bg4 10. d5 Na5 {D90: Grünfeld: 4 Nf3 Bg7 sidelines} (
+10... Bxf3 11. gxf3 Ne5 12. Qb3 c5 13. f4 c4 14. Qc2 Nd3+ 15. Bxd3 cxd3 16.
+Qxd3 Rc8 17. Bd4 Bxd4 18. Qxd4 Nc4 19. b3 Nd6 20. O-O {1/2-1/2 (39) So,W (2812)
+-Topalov,V (2749) Paris 2017}) 11. Bd4 Bxf3 12. gxf3 {[#] Threatens to win
+with Bxg7.} Qd6 13. Bxg7 Kxg7 14. Qd2 {Hoping for Nb5.} Qf6 15. h4 Nac4 16. Qc1
+{[#]} c6 $146 ({Predecessor:} 16... e5 17. Nd1 Nd6 18. h5 g5 19. Ne3 Qe7 {
+0-1 (43) Nikolov,M (2550)-Navara,D (2708) Rijeka 2010}) 17. h5 Kg8 18. a4 {
+aiming for a5.} a5 19. dxc6 bxc6 20. Nd1 {Strongly threatening hxg6.} Nd6 21.
+Ne3 Qd4 22. Ng4 (22. Ra3 $14) 22... f5 $132 {[%mdl 2048] The position is equal.
+Black has counterplay} ({Much worse is} 22... Nxa4 $6 23. hxg6 fxg6 24. e5 $16
+(24. Qh6 Qb4+ 25. Kf1 Rf7 $18)) 23. Nh6+ $1 Kg7 $1 24. hxg6 hxg6 {[#]} 25.
+Nxf5+ $1 {[%mdl 512]} Nxf5 26. exf5 Rxf5 27. Qh6+ Kf6 28. Rd1 Qf4 29. Qh4+ (29.
+Bd3 {is more complex.} Re5+ 30. Kf1 Qxh6 31. Rxh6 Rg8 32. Rc1) 29... Qxh4 30.
+Rxh4 Nd5 31. Rc4 Nb4 32. f4 g5 33. fxg5+ Rxg5 34. Bf3 Rg1+ 35. Ke2 Rxd1 36.
+Kxd1 {[%mdl 4096] Endgame KRB-KRN} Ra6 37. Kd2 Ke5 38. Re4+ Kd6 39. Rd4+ Nd5
+40. Rh4 Ra8 41. Rh6+ Kc5 42. Re6 Rf8 43. Bxd5 $1 Rxf2+ 44. Kc3 cxd5 45. Rxe7 {
+KR-KR} d4+ 46. Kd3 Rf3+ 47. Kc2 $1 Rf2+ 48. Kd3 Rf3+ 49. Kc2 Rf2+ 50. Kd3 {
+Accuracy: White = 65%, Black = 69%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.19"]
+[Round "3.4"]
+[White "So, Wesley"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[WhiteElo "2776"]
+[BlackElo "2779"]
+[Annotator "TA"]
+[PlyCount "74"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 24,74,22,18,25,26,26,17,21,27,16,0,14,0,14,-3,0,-25,8,4,8,0,10,8,6,7,7,
+7,14,14,14,10,11,7,14,13,12,7,14,0,14,14,14,14,14,14,14,0,14,0,14,0,14]} 1. d4
+Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. a4 Bd7 9.
+Qxc4 Bc6 10. Bg5 Nbd7 11. Nc3 h6 12. Bxf6 Nxf6 13. b4 Bd5 {E05: Open Catalan:
+5 Nf3 Be7} 14. Nxd5 exd5 15. Qb3 c6 16. e3 Bd6 {[#]} 17. Rab1 $146 ({
+Predecessor:} 17. Rfc1 Ne4 18. Ne1 h5 19. b5 axb5 20. axb5 Qb6 21. Bxe4 Rxa1
+22. Rxa1 dxe4 {1/2-1/2 (41) Cornette,M (2581)-Maze,S (2627) Agen 2016}) 17...
+Qe7 18. Rfd1 g6 19. Ne1 Kg7 20. b5 axb5 21. axb5 {The position is equal.} Qd7
+22. Nd3 Rfc8 23. bxc6 bxc6 24. Qc2 Ra6 25. Rdc1 Qa7 26. Bf3 Rb8 27. Rxb8 Qxb8
+28. Kg2 h5 29. Nc5 Bxc5 30. Qxc5 Qb2 31. Qc3 Qb8 32. h4 Qb7 33. Rc2 Rb6 34. Qc5
+Ra6 35. Qc3 Rb6 36. Qc5 Ra6 37. Qc3 Rb6 {Accuracy: White = 38%, Black = 72%.}
+1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.19"]
+[Round "3.5"]
+[White "Nakamura, Hikaru"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[WhiteElo "2743"]
+[BlackElo "2750"]
+[Annotator "TA"]
+[PlyCount "208"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,208,9,30,0,0,0,6,0,6,0,0,0,5,0,8,7,0,13,32,0,33,0,28,13,13,13,13,13,
+8,11,13,12,16,5,18,4,31,0,10,0,11,10,14,0,0,0,21,23,27,27,26,24,38,41,45,60,56,
+39,32,34,62,47,45,38,45,45,65,65,65,54,54,54,54,54,54,32,32,32,34,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,37,37,37,32,74,74,74,74,74,74,74,74,74,
+74,74,74,74,74,97,74,74,74,74,74,74,74,74,74,74,74,74,74,74,74,74,74,74,26,74,
+74,74,74,74,74,74,74,74,74,74,31,74,31,31,31,31,31,59,31,31,31,31,31,30,0,0,0,
+0,0,0,0,30,0,0,0,0,0,125,125,125,125,125,125,125,125,125,125,125,125,125,125,
+125,125,125,125,125,0,125,0,125,0,125]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+
+5. Bd2 Be7 6. Bg2 O-O 7. O-O Nbd7 8. a4 {E11: Bogo-Indian} (8. Nc3 c6 9. Bf4
+dxc4 10. e4 Re8 11. a4 b6 12. d5 exd5 13. exd5 Bb7 14. a5 bxa5 15. d6 Bf8 16.
+Nd2 Nd5 17. Nxd5 cxd5 18. Nxc4 dxc4 19. Bxb7 {1/2-1/2 (42) Nakamura,H (2777)
+-Karjakin,S (2773) Saint Louis 2018}) 8... a5 9. Qc2 c6 10. Na3 Ne4 11. Bf4 g5
+12. Be3 f5 13. Rad1 {[#]} Qe8 $146 ({Predecessor:} 13... Bf6 14. Nb1 Qe7 15.
+Nc3 b6 {0-1 (35) Gelfand,B (2724)-Ding,L (2773) Moscow 2017}) 14. Qc1 {[%cal
+Rf3g5]} h6 15. Ne5 Kh7 16. f3 Nef6 17. b3 Bd6 18. f4 g4 19. Nc2 {[%cal Ba3c2,
+Bc2e1,Be1d3][%mdl 32]} h5 20. Ne1 Rh8 21. N1d3 Kg7 22. Bf2 Rh6 23. Qe3 Nf8 (
+23... Kg8 {is more complex.} 24. c5 Bc7 25. Rb1 Rh7 26. Be1 Bd8) 24. Rb1 Ng6
+25. Nxg6 (25. c5 {seems wilder.} Be7 26. h4 gxh3 27. Bxh3 Nxe5 28. Nxe5 Kg8 29.
+Kg2) 25... Qxg6 26. c5 Bc7 27. b4 axb4 28. Rxb4 Rh7 29. Ne5 Qe8 30. Ra1 Ba5 31.
+Rb3 $36 {[%mdl 2048] White has some pressure.} Qd8 32. Qc1 Ra7 33. Be1 Rh8 34.
+Bxa5 Qxa5 35. Qc3 Qxc3 36. Rxc3 Ra5 37. Rb3 Rh7 38. Rb4 Kf8 39. h4 Ke8 40. e3
+Kd8 41. Nd3 Kc7 42. Nc1 Rh8 43. Nb3 Ra7 44. Kf1 Bd7 45. Ke1 Rha8 46. Kd2 Be8
+47. Kc3 Bd7 48. a5 Be8 49. Rb6 Bd7 50. Kb4 Be8 51. Rg1 Nd7 52. Bf1 Bf7 53. Bd3
+Be8 54. Ra1 Bf7 55. Kc3 Be8 56. Rb4 Nb8 57. Rba4 Bd7 58. Nc1 Be8 59. Bc2 Bd7
+60. R4a3 Be8 61. Bd3 Bd7 62. Ne2 Be8 63. Kb4 Na6+ 64. Kb3 Nb8 65. Nc3 Bd7 66.
+Kb2 Kd8 67. Nd1 Kc7 68. Nf2 Be8 69. Bc2 Bd7 70. Nd3 Be8 71. Bd1 Kc8 72. Be2 Kc7
+73. Nb4 Bd7 74. Kc2 Be8 75. Nd3 Bd7 76. Nc1 Be8 77. Nb3 Bd7 78. Ra4 Be8 79. Rb4
+Bf7 80. Rb6 Nd7 81. Bd3 Be8 82. Kc3 Bf7 83. Rb1 Rb8 84. Rb4 Be8 85. Kd2 Bf7 86.
+Ke1 Be8 87. Kf1 Bf7 88. Kf2 Be8 89. Kg2 Bf7 90. a6 (90. Ra4 {looks sharper.}
+Nf6 91. Ra2 Ne4 92. Bxe4 fxe4 93. Kf2) 90... bxa6 91. Rxb8 Nxb8 92. Na5 Be8 (
+92... Nd7 $11) 93. Rb6 $16 {[%mdl 1024] White has strong compensation.} Bd7 {
+[#]} 94. Bc2 $1 Be8 95. Ba4 Bd7 96. Kf2 Be8 97. Ke1 Bd7 98. Kd2 Be8 99. Kc3 Bd7
+100. Kb4 Be8 101. Bc2 Bd7 102. Ba4 Be8 103. Bc2 Bd7 $1 104. Ba4 Be8 {Accuracy:
+White = 63%, Black = 70%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.19"]
+[Round "3.6"]
+[White "Nepomniachtchi, Ian"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[WhiteElo "2774"]
+[BlackElo "2764"]
+[Annotator "TA"]
+[PlyCount "105"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,105,36,18,31,36,34,32,37,31,30,21,24,11,11,13,13,13,12,9,12,15,19,14,
+16,14,11,1,25,29,45,23,48,25,42,22,80,67,53,35,35,32,33,7,15,0,123,38,46,5,0,0,
+14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,8,8,8,8,9,8,8,8,8,8,8,8,8,8,8,8,8,
+8,8,8]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 ({Predecessor:} 
+5... b5 6. Bb3 Bc5 7. a4 Bb7 8. c3 {1/2-1/2 (24) Jensen,E (2505)-Szczepanski,Z
+(2557) ICCF email 2012}) 6. c3 b5 7. Bb3 d6 8. a4 Bb7 $146 {C78: Ruy Lopez:
+Archangelsk and Möller Defences} (8... Rb8 9. d4 Bb6 10. a5 Ba7 11. h3 O-O 12.
+Be3 Ra8 13. Nbd2 h6 14. Re1 Re8 15. Qb1 exd4 16. cxd4 Nb4 17. Ra3 c5 18. dxc5
+dxc5 19. Bxf7+ Kxf7 {0-1 (33) Lagarde,M (2612)-Jones,G (2698) Reykjavik 2019})
+9. d4 Bb6 10. Bg5 h6 {White is slightly better.} 11. Bxf6 Qxf6 12. Bd5 O-O 13.
+dxe5 dxe5 14. Qe2 bxa4 15. Nbd2 Rad8 16. Nc4 Bc8 17. Rxa4 Ne7 18. Nxb6 cxb6 19.
+c4 a5 20. Qe3 Ba6 21. Rc1 Rc8 22. Raa1 Qd6 23. h3 Nxd5 24. cxd5 f5 (24... Bb5
+$1 $11) 25. Rxc8 Bxc8 26. Rd1 fxe4 27. Qxe4 Re8 $1 28. Nd2 b5 29. Qd3 Qb4 (
+29... Rd8 $11 {remains equal.}) 30. Ne4 (30. d6 $16) 30... Kh8 $1 $14 31. d6 {
+[#] aiming for d7!} Bf5 $1 {[%cal Rf5e4] The position is equal.} 32. f3 {
+Threatens to win with Qd5.} Rd8 $1 33. Qc2 (33. Rd2 {with more complications.}
+Bxe4 34. fxe4 Qc5+ 35. Kh2 a4 36. Qf3) 33... Rxd6 34. Rxd6 Qxd6 35. Nxd6 Bxc2
+36. Nxb5 $11 {[%mdl 4096] Endgame KB-KN} Kg8 37. Nd6 Bd3 38. Kf2 Kf8 39. Nb7 a4
+$1 40. Ke3 Bf1 41. Nc5 Bxg2 42. h4 g5 43. hxg5 hxg5 44. Nxa4 Bh3 45. Nc5 Bc8
+46. b4 {[#] Hoping for b5.} g4 47. fxg4 Bxg4 48. Ke4 Ke7 49. Kxe5 Be2 50. Ne4
+Kd7 51. Nc3 Bf1 52. b5 Bxb5 53. Nxb5 {Accuracy: White = 69%, Black = 71%.}
+1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.20"]
+[Round "4.1"]
+[White "Anand, Viswanathan"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2756"]
+[BlackElo "2776"]
+[Annotator "TA"]
+[PlyCount "84"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,84,39,39,33,24,18,39,22,35,29,26,16,15,12,67,58,73,64,60,70,233,209,
+208,103,95,18,20,26,20,34,22,22,31,22,16,0,60,26,26,26,31,34,41,33,39,43,43,38,
+78,45,33,33,62,53,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5
+d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bf5 7. O-O Be7 8. Re1 O-O 9. c4 Nc6 10. cxd5 {
+C42: Petroff Defence: 3 Nxe5 and unusual White 3rd moves} Qxd5 11. Nc3 Nxc3 12.
+bxc3 {White is slightly better.} Bxd3 13. Qxd3 Rae8 14. Rb1 b6 {[#]} 15. Bf4
+$146 {[%mdl 2048] White is more active.} ({Predecessor:} 15. c4 Qd7 16. d5 Bf6
+17. Bf4 Na5 18. h3 Nb7 19. Nh2 Be7 20. Ng4 Bd6 21. Bxd6 Qxd6 {1/2-1/2 (21)
+Sevian,S (2620)-Nisipeanu,L (2687) Tbilisi 2017}) 15... Bd6 (15... Qd7 $11) 16.
+Ng5 $14 {[%csl Gg5][%cal Rd3h7]} f5 17. Rxe8 $1 Rxe8 18. c4 Qa5 $2 (18... Qxd4
+$14 19. Qxf5 Qxf4 20. Qd5+ (20. Qxh7+ $2 Kf8 $19) 20... Kf8) 19. Bd2 $18 Nb4
+20. Qf3 (20. Bxb4 Bxb4 21. g3 h6 $14) (20. Qf1 $1 $18 {and the rest is easy.})
+20... h6 $16 {[#]} 21. Bxb4 ({Don't play} 21. Qh5 $6 Re7 $11) ({Better is} 21.
+a3 $1 $16 {[%cal Ra3b4]} Qa4 22. axb4 (22. Bxb4 hxg5 23. Qd5+ {[%mdl 64]
+Double Attack} Kh8 $16) 22... hxg5 23. Qd5+ (23. Qxf5 Bxb4 24. Be3 Be7 $16) (
+23. Bxg5 Qxb4 {[%mdl 64] Double Attack} 24. Qd5+ Kh8 $11) 23... Kh8 24. Qxf5)
+21... Qxb4 $11 22. Qd5+ Kh8 {[%cal Rb4b1]} 23. Nf7+ Kh7 {[%cal Rb4b1]} 24. Rf1
+$1 ({Not} 24. Qxf5+ $2 g6 $19) 24... Re1 25. Qxf5+ Kg8 {Threatens to win with .
+..Rxf1+.} 26. Nxd6 cxd6 (26... Qd2 $11 27. Qd5+ Kh7 28. Qf5+ Kg8 29. Qf7+ Kh7
+30. Qf5+ Kg8) 27. Qd3 (27. Qc2 {feels hotter.} Re7 28. Qb3 Qxb3 29. axb3 Re2
+30. Ra1) 27... Rxf1+ 28. Kxf1 {[%mdl 4096] Endgame KQ-KQ} Qb2 29. a3 d5 30.
+cxd5 {And now g3 would win.} Qa1+ 31. Ke2 Qa2+ 32. Ke3 Qxd5 33. g3 b5 34. Qc3
+Qe6+ 35. Kd3 a5 {[#]} 36. Qxa5 (36. Qc5 $1 $16) 36... Qc4+ {The position is
+equal.} 37. Ke3 Qe6+ $1 38. Kd2 Qa2+ $1 39. Ke1 Qb1+ $1 40. Kd2 {Hoping for
+Qa8+.} Qa2+ $1 41. Ke3 Qe6+ 42. Kd2 Qa2+ $1 {Accuracy: White = 46%, Black =
+74%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.20"]
+[Round "4.2"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[WhiteElo "2764"]
+[BlackElo "2882"]
+[Annotator "TA"]
+[PlyCount "135"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 25,135,-10,-2,-2,-16,0,-16,-14,0,-42,-50,-50,-43,-38,-49,-49,-44,-41,
+-39,-42,-8,-11,0,-14,0,0,0,0,0,0,0,-21,0,-62,-56,-47,-45,-56,-56,-42,-53,-42,
+-42,-42,-55,-44,-36,-103,-92,-80,-25,-18,-23,-74,-2,-79,-39,-45,-31,-32,-32,
+-32,-32,-32,-32,-32,-29,-32,-32,-32,-32,-32,-39,-141,-141,-141,-141,-141,-141,
+-188,-188,-188,-183,-168,-117,-118,-77,-77,-77,-77,-77,-77,-77,-77,-77,-136,
+-107,-107,-107,-107,-107,-107,-107,-107,-107,-107,0,-107,0,-107,0,-107]} 1. d4
+d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. Bd3 dxc4 8. Bxc4 b5
+9. Be2 O-O 10. O-O a6 11. Rd1 Qc7 12. e4 e5 13. g3 Re8 14. a3 {D46: Semi-Slav:
+5 e3 Nbd7 6 Bd3, Black avoids the Meran} (14. dxe5 Nxe5 15. Bg5 Nxf3+ 16. Bxf3
+Be5 17. Rac1 Bh3 18. Bxf6 gxf6 19. Qe2 Be6 20. Bg4 Qe7 21. Qf3 Rad8 {0-1 (68)
+Le,Q (2739)-Navara,D (2737) Saint Louis 2017}) 14... exd4 15. Nxd4 Be5 16. Bf3
+c5 17. Nde2 Bb7 18. Be3 c4 {[#]} 19. b4 $146 ({Predecessor:} 19. b3) 19... cxb3
+20. Qxb3 Nc5 21. Bxc5 $1 Qxc5 22. Rac1 Qb6 23. Na4 Qa7 24. Nc5 Rac8 25. Nd7
+Rxc1 ({Not} 25... Nxe4 $2 26. Bxe4 Bxe4 27. Nxe5 $18) 26. Nxc1 h6 27. Nxf6+
+Bxf6 ({Wrong is} 27... gxf6 $2 28. Rd7 $1 $18 {[%mdl 512]}) 28. Rd7 Re7 29.
+Rd8+ (29. Rxe7 $1 $11 Bxe7 30. Bh5 Bxe4 31. Qxf7+ Kh7 32. Qe6) 29... Kh7 $15
+30. Qd3 {Black must now prevent e5+.} Be5 31. Rh8+ {[%mdl 64] Decoy} Kxh8 32.
+Qd8+ Kh7 33. Qxe7 Bd4 34. Qxf7 Bxf2+ 35. Kg2 Bc8 36. Qa2 ({Better is} 36. Qb3
+$15) 36... Bb6 $17 37. e5 Bf5 ({Black should play} 37... Qd7 $17 {( -> ...Qh3+)
+} 38. Qe2 g5) 38. g4 $11 Bg6 39. Ne2 (39. h4 $11) 39... Qc7 (39... Qe7 $17 40.
+Qd5 Qc5) 40. Nf4 (40. Qe6 $1 $11 {keeps the balance.}) 40... Qc2+ 41. Qxc2 Bxc2
+$15 {[%mdl 4096] Endgame KBB-KBN} 42. Nd5 Bc5 43. Nb4 Bb3 {Strongly
+threatening ...a5.} 44. Nxa6 Bxa3 45. Nc7 Bc4 46. e6 Bd6 {Hoping for ...b4.}
+47. Bc6 b4 {And now ...b3 would win.} 48. Nd5 $1 Kg6 49. e7 (49. Kf2 $15) 49...
+Bxd5+ $1 $17 50. Bxd5 Bxe7 {KB-KB} 51. Kf3 Kf6 $1 52. Ke4 {[#]} Kg5 $1 53. Kf3
+{[#]} Kh4 $1 54. Be6 Bg5 (54... Bd6 $19 55. h3 Bc5) 55. Kg2 Bf4 56. h3 Kg5 57.
+Kf3 Kf6 58. Bg8 Ke5 59. h4 g5 60. hxg5 (60. h5 $142) 60... hxg5 61. Ke2 Kd4 62.
+Kd1 Kc3 63. Bf7 b3 64. Be6 Be3 65. Bf7 Bf4 66. Be6 $1 Be3 67. Bf7 $1 Bf4 68.
+Be6 $1 {Accuracy: White = 73%, Black = 71%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.20"]
+[Round "4.3"]
+[White "Caruana, Fabiano"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "2818"]
+[BlackElo "2765"]
+[Annotator "TA"]
+[PlyCount "105"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,105,16,20,15,29,0,0,0,0,0,0,0,0,0,0,2,30,25,21,20,24,20,23,19,19,23,
+26,28,35,22,31,27,25,33,37,36,15,19,31,17,25,36,44,41,61,52,52,45,39,57,38,46,
+46,36,41,36,43,41,51,45,38,35,51,15,14,22,35,0,52,65,100,92,93,60,59,59,59,54,
+61,59,62,6,71,71,1038,951,5226,3813,2984,2704,29978,29979,29979,29980,29980,
+29981,29983,29984]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O {
+C65: Ruy Lopez: Berlin Defence (3...Nf6), unusual lines and 4 0-0 Bc5} Re8 (
+6... d6 7. Ba4 Ne7 8. Bc2 Ng6 9. d4 Bb6 10. a4 c6 11. dxe5 Nxe5 12. Nxe5 dxe5
+13. Qxd8 Rxd8 14. a5 Bc5 {1-0 (39) Carlsen,M (2845)-Grischuk,A (2771) Shamkir
+2019}) 7. d4 Bb6 8. d5 {The position is equal.} Ne7 9. Nxe5 Nxe4 10. Qf3 $146 (
+{Predecessor:} 10. Bd3 Nf6 11. d6 cxd6 12. Nc4 Bc7 13. Bg5 Ng6 14. Bxg6 hxg6
+15. Nxd6 Bxd6 16. Qxd6 {1/2-1/2 (46) Quirhuayo Chumbe,G (2220)-Cuellar,D (2376)
+Lima 2016}) 10... Nf6 11. d6 $1 cxd6 12. Nc4 d5 13. Nd6 Rf8 14. Bg5 Ne4 15.
+Nxe4 dxe4 16. Qxe4 f6 {[#] ...d5 is the strong threat.} 17. Be3 d5 18. Qf3 Ng6
+{[%cal Be7g6,Bg6e5,Be5c6,Bc6a5,Ba5c4][%mdl 32]} 19. Na3 Bc7 20. Rad1 Ne5 21.
+Qe2 a6 22. Ba4 Bg4 23. f3 Be6 $1 24. Bb3 Re8 25. f4 Nc6 26. Qf3 {[%cal Rb3d5]}
+Bb6 27. Nc2 Na5 28. Bxd5 Bxd5 29. Rxd5 Bxe3+ 30. Nxe3 Qb6 {And now ...Nc4
+would win.} 31. Rd3 Nc4 {[%cal Rc4e3]} 32. Qd5+ Kf8 $1 33. Qxc4 Rxe3 34. Rxe3
+Qxe3+ $14 {[%mdl 4096] Endgame KQR-KQR} 35. Kh1 Rd8 36. h3 b5 37. Qc6 Qe2 38.
+Rf3 Qxb2 (38... h5 $11) 39. Qxa6 h5 40. Kh2 h4 41. Qa7 Kg8 42. Qe7 Qd2 43. Re3
+Qd6 44. Qe4 Qd5 45. Qb4 (45. Qg6 $14 Qd2 46. Re8+ Rxe8 47. Qxe8+ {[%mdl 64]
+Double Attack} Kh7 48. Qh5+ (48. Qxb5 Qxf4+ 49. Kg1 Qc1+ 50. Kh2 Qf4+ 51. Kh1
+Qc1+ 52. Kh2 Qf4+ $11) 48... Kg8 49. Qxh4) 45... Rc8 (45... Qf5 $11 {keeps the
+balance.}) 46. a4 $36 {[%cal Ba2a4,Ba4b5,Bb5b6][%mdl 2080] White is on the
+roll.} Qc5 $2 {[%mdl 8192] [#]} (46... bxa4 $16 47. Qxa4 Qf5) 47. Re8+ $1 $18 {
+[%mdl 512]} Kh7 (47... Rxe8 48. Qxc5) 48. Rxc8 {[%mdl 64] Overworked Piece}
+Qxc8 49. axb5 Qf5 50. b6 {White mates.} Qd3 51. c4 Qg3+ 52. Kh1 Qd3 53. c5 {
+Accuracy: White = 76%, Black = 54%.} 1-0
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.20"]
+[Round "4.4"]
+[White "Nakamura, Hikaru"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[WhiteElo "2743"]
+[BlackElo "2805"]
+[Annotator "TA"]
+[PlyCount "94"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,94,17,12,23,10,17,10,22,21,18,11,25,24,24,25,29,22,22,23,24,37,30,27,
+34,16,30,16,28,14,15,15,27,20,25,18,16,18,43,43,43,43,43,43,51,51,51,51,51,51,
+51,51,51,51,51,51,51,51,51,51,51,11,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 e5
+2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3 Bb7 9. d3
+d6 10. a3 Qd7 11. Nc3 Rfe8 {C88: Closed Ruy Lopez: Anti-Marshall Systems} 12.
+Nd5 Nxd5 13. exd5 {[#]} Na7 $146 ({Predecessor:} 13... Nd4 14. Nxd4 exd4 15.
+Bd2 Bf6 16. Qg4 Qxg4 17. hxg4 h6 18. Rxe8+ Rxe8 {1/2-1/2 (41) Vachier Lagrave,
+M (2686)-Tkachiev,V (2644) Pau 2012}) 14. d4 exd4 15. Qxd4 c5 16. dxc6 $1 Nxc6
+17. Qd3 Bf6 {[#] ...Nd4! is the strong threat.} 18. Bd2 Ne5 19. Rxe5 Rxe5 ({
+Much worse is} 19... Bxe5 $6 20. Ng5 $14) 20. Nxe5 Bxe5 21. c3 Qc6 {[%csl Gb7]
+[%cal Rc6g2] [#]} 22. f3 d5 23. Re1 Bc7 24. Bc2 g6 25. Bh6 Re8 26. Rxe8+ Qxe8
+27. Qe3 (27. Be3 {looks sharper.} Qe5 28. f4 Qf6 29. Qd2 Bc8 30. a4) 27...
+Qxe3+ 28. Bxe3 $11 {[%mdl 4096] Endgame KBB-KBB} f5 29. f4 Kf7 30. g3 Ke6 31.
+Kf2 h5 32. h4 Bc6 33. Ba7 Bd8 34. Ke3 Bf6 35. Bb6 Kd6 36. Kd2 Bd7 37. Kd3 Bc6
+38. Bd1 Bd7 39. Bf3 Bc6 40. Kc2 (40. Be2 {keeps more tension.} Bd7 41. Bd4 Bd8
+42. Be5+ Kc5 43. Bf3) 40... d4 {The position is equal.} 41. Bxc6 Kxc6 42. Bxd4
+{KB-KB} Be7 $1 43. Kd3 Kd5 44. Be3 Bd6 45. Bd4 Be7 46. Be3 Bd6 47. Bd4 Be7 {
+Accuracy: White = 81%, Black = 71%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.20"]
+[Round "4.5"]
+[White "Giri, Anish"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[ECO "D86"]
+[WhiteElo "2779"]
+[BlackElo "2778"]
+[Annotator "TA"]
+[PlyCount "89"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,89,10,41,11,11,0,13,0,33,21,28,28,22,26,29,33,45,44,43,35,40,26,25,
+42,48,10,8,10,45,45,45,45,44,44,66,69,67,65,66,59,67,61,72,72,73,26,26,26,26,
+26,26,11,0,0,26,26,26,26,26,18,18,18,18,19,19,0,19,0,19,19,19,0]} 1. d4 Nf6 2.
+c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8. Ne2 Nc6 9. Be3
+O-O 10. O-O b6 11. Rc1 {D87: Exchange Grünfeld: Classical Line: Variations
+without ...cxd4} Bb7 12. Bb5 (12. Qd2 e6 13. Rfd1 Rc8 14. f3 cxd4 15. cxd4 Qd6
+16. Bh6 Bxh6 17. Qxh6 Na5 18. Bd3 Rxc1 19. Qxc1 {1/2-1/2 (50) Nakamura,H (2746)
+-Vachier Lagrave,M (2781) London 2018}) 12... Rc8 13. Qd2 Na5 $146 ({
+Predecessor:} 13... e6 14. Rfd1 a6 15. Bxc6 Bxc6 16. d5 Ba4 17. Re1 exd5 18.
+exd5 Re8 {1/2-1/2 (30) Moeckl,L-Ter Steeg,R ICCF email 2014}) 14. d5 e6 {
+[%cal Re6d5]} 15. c4 a6 16. Ba4 $1 exd5 17. exd5 Nxc4 18. Rxc4 b5 19. Bxb5 axb5
+20. Rxc5 Qd7 21. Rxc8 Rxc8 22. Rd1 Rd8 {[%cal Rd7d5]} 23. Qb4 Rc8 (23... Qc6 $5
+) 24. Qb3 Rd8 {[%cal Rb7d5]} 25. Nc3 Bxc3 $1 26. Qxc3 {[#] And now Bh6 would
+win.} Qc6 27. Qxc6 (27. dxc6 $2 {gets mated.} Rxd1+ 28. Qe1 Rxe1#) 27... Bxc6
+$14 {[%mdl 4096] Endgame KRB-KRB} 28. d6 f6 29. h4 Bd7 30. a3 Re8 31. Bc5 Re4
+32. Bb4 Rxh4 33. Re1 {[#] Hoping for Re7.} Rd4 $1 34. Re7 Bf5 35. Re8+ Kf7 36.
+Re7+ (36. Rh8 {with more complications.} Rd1+ 37. Kh2 g5 38. f3 Kg6 39. Rb8)
+36... Kg8 37. f3 {aiming for g4.} h5 38. Rb7 Rd5 39. g3 g5 {The position is
+equal.} 40. Kf2 Be6 41. Re7 Bf5 42. Rb7 Be6 43. Re7 Bf5 44. Ra7 Be6 45. Re7 {
+Accuracy: White = 53%, Black = 71%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.20"]
+[Round "4.6"]
+[White "Karjakin, Sergey"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[ECO "D71"]
+[WhiteElo "2750"]
+[BlackElo "2774"]
+[Annotator "TA"]
+[PlyCount "41"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,41,-8,0,-8,16,2,5,1,14,0,0,0,0,0,0,-14,0,0,0,0,0,0,0,0,0,0,0,0]} 1.
+d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. Nf3 Bg7 6. Qb3 O-O 7. Nc3 Qb6 8. O-O Rd8
+{The position is equal.} 9. Bd2 {D78: Fianchetto Grünfeld: 6 0-0 c6} dxc4 10.
+Qxc4 Be6 11. Qa4 Bf5 12. Rfd1 $146 ({Predecessor:} 12. Rfe1 Ne4 13. Nxe4 Bxe4
+14. Ba5 Qa6 15. Qa3 Re8 16. Bf1 c5 17. dxc5 Bxb2 {1/2-1/2 (17) Ding,L (2813)
+-Nepomniachtchi,I (2763) Wijk aan Zee 2019}) 12... a5 13. Nh4 Bd7 ({Wrong is} 
+13... Qxd4 $2 14. Be3 $18) 14. Qc2 Qxd4 15. Nf3 Qb6 16. Be3 Qc7 17. Nb5 Qc8 18.
+Na7 Qc7 19. Nb5 $1 {[%cal Rb5c7]} Qc8 20. Na7 Qc7 {[#] Threatens to win with ..
+.Na6.} 21. Nb5 $1 {Accuracy: White = 77%, Black = 73%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.21"]
+[Round "5.1"]
+[White "So, Wesley"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[ECO "A20"]
+[WhiteElo "2776"]
+[BlackElo "2818"]
+[Annotator "TA"]
+[PlyCount "72"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,72,13,23,17,19,20,30,24,47,52,31,37,38,32,43,43,30,33,33,37,33,13,37,
+14,44,55,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0]} 1. c4 e5 2. g3 Nf6 3. Bg2 c6 4. Nf3 e4 5. Nd4 Qb6 6. Nb3 {A20:
+English Opening: 1...e5} (6. Nc2 d5 7. O-O dxc4 8. Nc3 Na6 9. d3 exd3 10. exd3
+Be7 11. Re1 Be6 12. dxc4 O-O 13. Be3 {1/2-1/2 (64) Nakamura,H (2746)-Caruana,F
+(2832) London 2018}) 6... a5 {[%cal Ba7a5,Ba5a4][%mdl 32] Strongly threatening
+...a4.} 7. d3 a4 8. N3d2 $1 {White has an edge.} Bc5 9. O-O $146 ({Predecessor:
+} 9. e3 exd3 10. Nc3 Qa6 11. b3 a3 12. Nde4 Be7 13. Bd2 {1/2-1/2 (38) Meier,G 
+(2657)-Baklan,V (2618) Biel 2016}) 9... e3 10. fxe3 Bxe3+ 11. Kh1 Ng4 12. Ne4
+O-O 13. Nbc3 d5 14. cxd5 Bxc1 15. Qxc1 Ne3 16. Rf3 Nxg2 17. Kxg2 Qd8 18. Qg5 f6
+$1 {[%cal Rf6g5] The position is equal.} 19. Nxf6+ Rxf6 20. Ne4 Nd7 21. Raf1
+Kh8 $1 22. Nxf6 Nxf6 23. e4 {[%cal Rf3f6]} Bd7 $1 24. Rxf6 gxf6 25. Rxf6 Qe7
+26. Qf4 Kg8 27. d6 $1 {[%cal Rd6e7]} Qg7 28. e5 {Threatens to win with e6.} Re8
+29. Qc4+ Kh8 30. Rf7 Qxe5 {[%mdl 64] [#] Double Attack} 31. Rxd7 $11 {[%mdl
+4096] Endgame Black must now prevent Qf7. KQR-KQR} Qe2+ 32. Kh3 {And now Qf7
+would win.} Qf1+ $1 33. Kh4 {White wants to mate with Qd4+.} Qf6+ {[%mdl 64]
+Double Attack} 34. Kh3 {aiming for Qc3.} Qf1+ 35. Kh4 {Qd4+ would kill now.}
+Qf6+ {[%mdl 64] [#] Double Attack} 36. Kh3 {Hoping for Qc3.} Qf1+ {Accuracy:
+White = 86%, Black = 90%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.21"]
+[Round "5.2"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2778"]
+[BlackElo "2756"]
+[Annotator "TA"]
+[PlyCount "49"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,49,14,20,6,13,10,6,0,75,12,29,27,31,14,29,8,16,-10,-15,-17,-14,-27,0,
+-48,-38,-41,0,0,0,-3,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6
+5. d3 d6 6. O-O a6 7. a4 h6 8. Re1 {C54: Giuoco Piano: 4 c3 Nf6, main lines
+with 5 d4 and 5 d3} a5 $146 ({Predecessor:} 8... O-O 9. h3 a5 10. d4 Ba7 11.
+Bb3 Re8 12. Bc2 Bd7 13. Na3 Qc8 14. Nb5 Bb6 15. Bb1 exd4 16. cxd4 {0-1 (34)
+Giri,A (2797)-Karjakin,S (2753) Shamkir 2019}) 9. d4 Ba7 10. h3 g5 (10... O-O
+$11 {keeps the balance.}) 11. dxe5 (11. Na3 $16) 11... Nxe5 $11 12. Nxe5 dxe5
+13. Qxd8+ Kxd8 14. Bxf7 g4 15. hxg4 Nxg4 16. Be3 $1 {[%cal Re3a7]} Bxe3 17.
+fxe3 h5 18. Bc4 h4 19. Nd2 h3 20. gxh3 {The position is equal.} Rxh3 {Black
+wants to play ...Ke7.} 21. Rf1 $1 Rg3+ 22. Kh1 Rh3+ 23. Kg1 Rg3+ 24. Kh1 Rh3+
+25. Kg1 {Accuracy: White = 38%, Black = 59%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.21"]
+[Round "5.3"]
+[White "Carlsen, Magnus"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2882"]
+[BlackElo "2750"]
+[Annotator "TA"]
+[PlyCount "93"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,92,28,20,22,17,34,24,17,27,25,22,22,30,17,21,16,9,23,19,22,4,12,0,12,
+8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,199,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3
+Be7 5. Bf4 O-O 6. e3 b6 7. Bd3 dxc4 {D37: Queen's Gambit Declined: 5 Bf4} 8.
+Bxc4 Ba6 9. Qe2 Bxc4 {White has an edge.} 10. Qxc4 c5 11. dxc5 Bxc5 12. O-O Qc8
+13. Rfd1 Nbd7 {[#]} 14. Qe2 $146 ({Predecessor:} 14. Ng5 Be7 15. Qe2 {1/2-1/2 
+(71) Cheparinov,I (2687)-Dominguez Perez,L (2723) Varadero 2016}) 14... Re8 15.
+Nd2 Qb7 16. Qf3 Qxf3 17. gxf3 Rec8 18. Nde4 Bf8 19. Nd6 Rc6 {[#] aiming for ...
+e5.} 20. Bg3 a6 21. Rac1 Bxd6 22. Rxd6 Rxd6 23. Bxd6 Rc8 24. Rd1 h6 25. f4 b5
+26. Be7 Rc6 27. Kg2 Nb6 28. e4 Nc4 29. Rd8+ Kh7 30. Bxf6 gxf6 $11 {[%mdl 4096]
+Endgame KRN-KRN} 31. Nd1 Kg6 32. b3 Rd6 33. Rxd6 Nxd6 {KN-KN} 34. f3 Kh5 35.
+Kg3 b4 36. Ne3 f5 37. exf5 Nxf5+ 38. Nxf5 exf5 {KP-KP} 39. Kf2 Kh4 40. Kg2 a5
+41. Kf2 Kh3 42. Kg1 h5 (42... f6 $5) 43. Kh1 h4 (43... f6 $5) 44. Kg1 f6 45.
+Kh1 {[#]} a4 $1 {[%mdl 512]} 46. bxa4 b3 47. axb3 {Accuracy: White = 79%,
+Black = 77%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.21"]
+[Round "5.4"]
+[White "Ding, Liren"]
+[Black "Giri, Anish"]
+[Result "1-0"]
+[ECO "D38"]
+[WhiteElo "2805"]
+[BlackElo "2779"]
+[Annotator "TA"]
+[PlyCount "93"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,93,18,16,30,10,25,9,19,0,0,0,0,0,26,18,20,22,35,19,32,32,27,24,33,12,
+39,13,28,3,27,5,10,11,19,16,39,43,33,35,37,34,64,60,71,48,95,49,97,65,78,68,91,
+83,169,163,172,142,229,224,450,436,380,261,559,541,1378,1370,1306,1306,1288,
+1253,1145,1190,1180,1172,1131,1110,29958,5804,29990,29984]} 1. d4 Nf6 2. c4 e6
+3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. Qa4+ Nc6 8. e3 O-O {D38:
+Queen's Gambit Declined: Ragozin Defence (4 Nf3 Bb4)} 9. Rc1 Rd8 10. Be2 dxc4 {
+The position is equal.} 11. Bxc4 Bxc3+ $146 ({Predecessor:} 11... Bd7 12. Qc2
+Bd6 13. O-O a6 14. Rfd1 Qe7 15. a3 Rac8 16. Ba2 {1-0 (39) Navara,D (2737)-Leko,
+P (2678) Biel 2017}) 12. bxc3 Bd7 13. Be2 e5 {Strongly threatening ...Nxd4.}
+14. Qc2 Bf5 15. Qb2 e4 16. Nd2 Na5 17. O-O c5 18. Rfd1 Rac8 19. Nf1 Bg6 20. Ng3
+(20. Qb5 $5 {[%cal Rb5a5]} b6 21. Qa6 $11) 20... Qg5 21. Qb1 f5 22. dxc5 Rxc5
+23. Rd4 Bf7 24. Rcd1 Rdc8 25. Bb5 g6 ({Much worse is} 25... Rxc3 $6 26. Bd7 $16
+) 26. Ne2 Qf6 27. Ba4 Qe5 28. Bb3 {Hoping for Bxf7+.} Nxb3 29. axb3 R5c7 30. c4
+a6 31. Nf4 b5 {[%cal Rb5c4]} 32. Nd5 Rc6 {[%cal Rb5c4]} 33. c5 a5 ({Don't play
+} 33... Rxc5 34. Nb6 $16) (33... b4 $16) 34. b4 $1 $18 axb4 35. Qxb4 Rb8 (35...
+Kh7 $16 {was necessary.}) 36. Nb6 $1 {[%cal Rb6d7] Threatens to win with Nd7.}
+Be6 $2 (36... Qxc5 37. Qxc5 Rxc5) 37. Nd7 $1 {[%cal Rd7e5][%mdl 64] Overworked
+Piece} Bxd7 38. Rd5 {[#]} Qe7 $2 (38... Qxd5 $1 {[%mdl 512]} 39. Rxd5 Be6) 39.
+Rxd7 Qxc5 40. Qb3+ Qc4 {[#]} 41. Qb2 $1 {[%csl Gd7][%cal Rb2g7][%mdl 512]} Qc3
+{[#]} 42. Qa2+ $1 Rc4 43. g3 Rbc8 44. R1d6 Kf8 45. Rxg6 b4 46. Rxh6 {White
+threatens Qd2 and mate.} f4 47. gxf4 {Accuracy: White = 75%, Black = 36%.} 1-0
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.21"]
+[Round "5.5"]
+[White "Nepomniachtchi, Ian"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2774"]
+[BlackElo "2743"]
+[Annotator "TA"]
+[PlyCount "137"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,137,27,18,18,11,25,13,13,19,20,17,54,-101,57,55,48,48,78,82,68,74,92,
+94,100,97,104,72,77,54,54,54,56,52,46,53,53,50,79,84,87,80,87,87,87,87,87,87,
+101,101,101,54,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,
+77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,85,77,77,117,
+117,117,117,117,117,29952,12039,29952,29953,29955,29956,29953,29952,29952,
+29953,29946,29945,12789,5567,5567,5090,5057,4592]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5
+4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. cxd5 Nxd5 9. Nxd5 exd5 10. Bd3
+Bb4+ {D37: Queen's Gambit Declined: 5 Bf4} 11. Nd2 Nc6 12. O-O Be7 {The
+position is equal.} (12... Be6 13. Nf3 Be7 14. Rc1 Bf6 15. a3 Qe7 16. b4 a6 17.
+h3 Rac8 18. Rc5 {1-0 (33) Nepomniachtchi,I (2742)-Nakamura,H (2792) Saint
+Louis 2017}) 13. Rc1 Qb6 {[#]} 14. Qc2 $146 ({Predecessor:} 14. Nb3 g6 15. Qd2
+Be6 16. Bb1 Rfd8 17. Nd4 Nxd4 18. exd4 Rdc8 19. a3 Bf6 20. Be3 Rxc1 21. Rxc1
+Rc8 22. Rxc8+ {1/2-1/2 (22) Grischuk,A (2766)-Anand,V (2768) Saint Louis 2018})
+14... Nb4 15. Bxh7+ Kh8 16. Qc7 $36 {[%mdl 2048] White fights for an advantage.
+} Qxc7 17. Rxc7 Bd8 18. Bd6 {aiming for Rxc8.} Bxc7 19. Bxf8 a5 20. Bb1 Be5 21.
+b3 Bg4 22. Bc5 Rc8 23. Bb6 Nxa2 $1 {[%mdl 64] [#] Decoy} 24. Bxa2 {And now Nf3
+would win.} Rc2 25. Nf3 Bxf3 $1 26. gxf3 Rxa2 $14 {[%mdl 4096] Endgame KRB-KRB}
+27. Rd1 Ra1 28. Rxa1 Bxa1 29. Bxa5 $16 {KB-KB} f5 30. Kf1 Kg8 31. Ke2 Kf7 32.
+Kd3 Be5 33. Bc3 Bd6 34. e4 dxe4+ 35. fxe4 Ke6 36. Bxg7 {h4 is the strong
+threat.} Bxh2 37. Bd4 b5 38. Bb6 {Black must now prevent Kd4.} Be5 39. Ke3 Bb2
+40. Bd4 Bc1+ 41. Kd3 {Threatens to win with exf5+.} Ba3 42. Bb6 Bb2 43. Bc7 Bf6
+44. Ba5 Be5 45. Bb4 Bf6 46. Bc5 Be5 47. Ba7 Bf6 48. Bd4 Be7 49. Ke3 Bg5+ 50. f4
+Be7 51. Bb6 Ba3 {[#]} 52. Kd3 $1 Bc1 53. Bc7 Bb2 54. Bb8 Bf6 55. Ke3 Bb2 56.
+Be5 Bc1+ 57. Kd3 b4 58. Bb8 Kf6 59. Bd6 Ke6 60. Be5 Ba3 $2 {[%mdl 8192]} (60...
+fxe4+ $16 61. Kxe4 Bd2) 61. Bd4 Bc1 62. Be3 Bb2 63. Bd2 fxe4+ 64. Kxe4 Ba3 65.
+Kd4 Kf5 66. Kd5 Kf6 67. Kc5 {White is clearly winning.} Kf5 68. Kb5 Ke4 69.
+Bxb4 {Accuracy: White = 93%, Black = 71%.} 1-0
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.21"]
+[Round "5.6"]
+[White "Aronian, Levon"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2765"]
+[BlackElo "2764"]
+[Annotator "TA"]
+[PlyCount "108"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,108,14,28,9,11,8,12,20,29,20,24,18,30,8,9,0,0,-11,-3,-17,-13,-11,-10,
+-11,-8,-12,6,14,2,0,0,0,0,0,0,0,0,0,0,-16,-9,-8,-6,-12,0,-5,5,-5,0,0,0,0,0,0,0,
+-10,13,0,33,-8,-15,-15,-15,-27,-13,-15,-10,-25,-5,-16,-12,-35,-35,-35,-35,-38,
+-28,-28,-12,-12,-12,-12,-12,-12,-12,-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4
+e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Bd3 Nf6 6. O-O {C42: Petroff Defence:
+3 Nxe5 and unusual White 3rd moves} Be7 7. c3 O-O 8. Bc2 Bg4 9. d4 Re8 10. Bf4
+$146 ({Predecessor:} 10. Re1 Nbd7 11. Nbd2 d5 12. Nf1 Bd6 13. Rxe8+ Qxe8 {
+1/2-1/2 (61) Aronian,L (2767)-Giri,A (2782) chess.com INT 2018}) 10... d5 11.
+Nbd2 Bd6 12. Bg5 Nbd7 13. Qb1 h6 14. Bh4 c6 {[#]} 15. Bh7+ $1 {[%mdl 512]} Kh8
+{aiming for ...g5.} (15... Nxh7 16. Bxd8) 16. Bd3 Qc7 17. Qc2 Re6 18. Rfe1 Rae8
+{Hoping for ...Bxh2+!} (18... Bxf3 {is interesting.} 19. Nxf3 Rae8 20. Rxe6
+Rxe6 21. Bxf6 Nxf6 22. g3 Qe7) 19. Bg3 Rxe1+ 20. Rxe1 Rxe1+ 21. Nxe1 Bxg3 22.
+hxg3 g6 23. Qa4 b6 24. Qa3 Kg7 25. Nc2 Be6 26. Ne3 Ne8 27. Nf3 Nd6 28. Qa4 a5
+29. Qc2 c5 30. Qd1 c4 31. Bc2 b5 32. a3 Nc8 33. Qd2 Qb8 34. Ne1 Ne7 35. Bd1 Nf6
+36. Bf3 h5 37. N1c2 Qh8 38. Nd1 Bf5 39. Ne1 (39. Nde3 {feels hotter.} Qh7 40.
+Qd1 Qh6 41. Ne1 Qh8 42. Qe2) 39... Qh6 40. Qxh6+ (40. Ne3 {seems wilder.} Be6
+41. Qd1 Nf5 42. N1c2 Nd6 43. Qe1) 40... Kxh6 41. Ne3 Bd7 42. Kf1 Kg7 43. Bd1
+Ng4 44. Nxg4 {The position is equal.} Bxg4 45. Bxg4 hxg4 $11 {[%mdl 4096]
+Endgame KN-KN} 46. Nc2 f5 47. Ke2 Ng8 48. Ne3 Nf6 49. f3 Kf7 50. fxg4 fxg4 51.
+Ke1 Ke6 52. Ke2 Kf7 53. Ke1 Ke6 54. Ke2 Kf7 {Accuracy: White = 60%, Black =
+50%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.23"]
+[Round "6.1"]
+[White "Caruana, Fabiano"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2818"]
+[BlackElo "2778"]
+[Annotator "TA"]
+[PlyCount "106"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,105,18,7,18,22,9,4,5,0,14,0,16,21,20,25,33,25,9,12,18,8,6,6,13,6,4,4,
+0,25,0,0,21,28,52,20,27,21,29,17,27,27,30,20,20,20,20,18,20,20,78,76,69,69,69,
+69,69,69,69,33,34,13,13,13,13,13,13,20,20,0,0,0,0,-8,-8,-8,-8,-8,-8,-8,-8,-8,
+-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4.
+Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nb3 Be6 {B90: Sicilian Najdorf: Unusual White
+6th moves, 6 Be3 Ng4 and 6 Be3 e5} 8. f4 g6 (8... exf4 9. Bxf4 Nc6 10. Qe2 Be7
+11. O-O-O Qc7 12. g4 O-O 13. g5 Nd7 14. Qe3 Rac8 15. Kb1 {1-0 (60) Van Foreest,
+J (2612)-Nepomniachtchi,I (2763) Wijk aan Zee 2019}) 9. Be2 Nbd7 10. g4 Rc8 {
+White must now prevent ...Rxc3!} 11. f5 Bxb3 $1 12. axb3 Rxc3 13. bxc3 Nxe4 14.
+O-O Qh4 15. Bf3 $1 {[%cal Rf3e4]} gxf5 $1 16. Bxe4 fxe4 17. Kh2 $146 Rg8 18.
+Ra4 Nf6 $132 {[%cal Rf6g4][%mdl 2048] ( -> ...Nxg4+). Black is not keeping
+still} 19. g5 $1 Rxg5 20. Bxg5 Qxg5 21. c4 {Hoping for Rb4.} Qh4 {Threatens to
+win with ...Bh6.} (21... Be7 {feels hotter.} 22. Ra1 h5 23. Qe1 h4 24. Qf2 e3)
+22. Qe1 Qxe1 $1 23. Rxe1 {Strongly threatening Rb4.} Bh6 24. Rd1 Kd7 25. c5 d5
+26. Rb4 Kc7 27. Rb6 Bf4+ 28. Kg2 Nd7 {[%mdl 64] Double Attack} 29. Rxd5 {
+aiming for Rbd6.} Nxb6 30. cxb6+ Kxb6 $11 {[%mdl 4096] Endgame KR-KB} (30...
+Kc6 $11 {keeps the balance.} 31. Rd8 Kxb6) 31. Rd7 $16 a5 32. Rxf7 h6 $1 33.
+Kf2 {[%mdl 1024] White has compensation.} Kc6 34. Ke2 b5 35. Rf6+ Kc5 36. c3 a4
+{The position is equal.} 37. bxa4 bxa4 38. Ra6 Kb5 39. Ra7 Bg5 40. Ra8 Be7 $1
+41. Kd2 a3 42. Ke3 Kc4 43. Kxe4 Kxc3 44. Kxe5 Kb3 45. Ke4 a2 {[#]} (45... Bc5 {
+with more complications.} 46. Kd3 Bd6 47. Ke4 a2 48. Kd3 Be5) 46. Rxa2 $1 {
+[%mdl 512]} Kxa2 $11 {KB-KP} 47. Kf3 Kb3 {[#]} 48. h4 $1 {[%mdl 512]} Kc4 (
+48... Bxh4 49. Kg2) 49. h5 Kd3 50. Kg2 Ke2 51. Kh1 Kf2 52. Kh2 Bd6+ 53. Kh1 Be5
+{Accuracy: White = 76%, Black = 73%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.23"]
+[Round "6.2"]
+[White "Nepomniachtchi, Ian"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[WhiteElo "2774"]
+[BlackElo "2805"]
+[Annotator "TA"]
+[PlyCount "86"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,86,15,14,14,10,20,15,4,20,8,-2,-7,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-75,0,-81,-40,-42,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6.
+c3 O-O 7. h3 a5 {C54: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} 8.
+Re1 h6 9. Nbd2 Be6 10. Bb5 Qb8 11. Nh4 a4 $146 ({Predecessor:} 11... Ne7 12.
+Ndf3 c6 13. Ba4 Qc7 14. d4 Ba7 15. Bc2 {0-1 (33) Bacrot,E (2718)-Ding,L (2778)
+Liaocheng 2018}) 12. Nf5 Re8 13. Nc4 Bxf5 14. exf5 Qa7 15. Qf3 {[#]} e4 $1 {
+[%mdl 512]} 16. dxe4 Ne5 17. Nxe5 Rxe5 18. Bd3 d5 19. Bf4 dxe4 20. Bxe4 Rxe4
+21. Rxe4 Nxe4 22. Qxe4 Bxf2+ 23. Kh2 Qb6 24. Rd1 Qxb2 25. f6 Qxc3 26. fxg7 Qc6
+27. Qf5 Re8 28. Bxh6 Qxh6 29. Qxf2 $11 {[%mdl 4096] Endgame KQR-KQR} Qg5 30.
+Kh1 {[#]} (30. Rd3 $11) 30... Re4 (30... b5 $1 $17) 31. Rf1 (31. Qa7 $11 {
+remains equal.}) 31... Qe7 ({But not} 31... Qxg7 $6 32. Qf5 $11) 32. Qd2 Kxg7
+33. Qb2+ {The position is equal.} Qe5 34. Qxb7 Re1 {[%cal Re1f1]} 35. Qf3 {
+Hoping for Qg4+.} Rxf1+ 36. Qxf1 {KQ-KQ} c5 37. Qc4 Qe1+ 38. Kh2 Qb4 39. Qd3 a3
+40. Qg3+ Kh7 41. Qd3+ Kg7 42. Qg3+ Kh7 43. Qd3+ Kg7 {Accuracy: White = 71%,
+Black = 70%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.23"]
+[Round "6.3"]
+[White "Anand, Viswanathan"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[WhiteElo "2756"]
+[BlackElo "2779"]
+[Annotator "TA"]
+[PlyCount "108"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,108,-4,-11,-14,-1,1,-18,30,30,37,36,23,9,24,16,43,41,30,54,87,92,70,
+83,169,89,76,72,122,62,86,22,164,161,162,145,183,177,183,182,177,181,172,158,
+168,118,118,124,111,97,105,77,92,40,39,39,221,52,70,70,69,69,47,19,14,14,14,14,
+15,14,24,15,15,9,12,12,15,15,14,15,15,8,8,8,8,8,8,8,8,8,8,8,8,8,8]} 1. e4 c5 2.
+Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. a3 Be7 7. f4 d6 8. Nf3 O-O 9. Bd3
+a6 {B45: Sicilian Four Knights} 10. O-O b5 11. b4 (11. Qe1 Bb7 12. b4 Nd7 13.
+Bb2 Bf6 14. Rd1 Qc7 15. e5 dxe5 16. Ne4 Be7 17. Qg3 {1/2-1/2 (91) Schmaltz,R 
+(2534)-Azmaiparashvili,Z (2676) ICC INT 2002}) 11... a5 12. Rb1 axb4 13. axb4
+d5 14. e5 $146 ({Predecessor:} 14. exd5 Nxd5 15. Nxd5 exd5 16. c3 Ba6 17. Nd4
+Nxd4 18. cxd4 Qb6 19. Be2 Bf6 20. Bb2 Be7 21. Bc1 Bf6 22. Bb2 Be7 23. Bc1 Bf6
+24. Bb2 {1/2-1/2 (24) Yudasin,L (2460)-Gorelov,S (2445) Sverdlovsk 1984}) 14...
+Ne8 15. Nxb5 {[%cal Bc3b5,Bb5d4,Bd4f5][%mdl 32]} Ba6 {Threatens to win with ...
+Bxb5.} 16. Nbd4 Nxb4 17. Bxa6 Rxa6 18. f5 $1 exf5 19. Nxf5 Nc7 (19... Qd7 $16 {
+was worth a try.} 20. Nxe7+ Qxe7) 20. c3 (20. N3d4 $1 $18) 20... Nc6 $16 21.
+Qd3 Ra4 22. Be3 ({White should try} 22. N3d4 $1 $16 Nxd4 23. cxd4 (23. Nxd4 Ne6
+$11)) 22... Re4 23. Bb6 (23. Rb6 $16 Rc4 24. Rd1) 23... Qd7 {[#]} (23... g6 $1
+$11 {and Black is okay.} 24. Nxe7+ Qxe7) 24. Bxc7 $1 $18 {[%mdl 64] Overworked
+Piece} Qxc7 25. Qxd5 Rf4 26. N5d4 Nxd4 27. cxd4 Rd8 28. Qb7 Qxb7 29. Rxb7 Kf8
+30. g3 Rf5 31. Kg2 f6 32. Re1 {And now g4 would win.} fxe5 33. dxe5 h5 34. e6 (
+34. Re4 $16) 34... g5 $14 35. Re2 {aiming for Ne5.} Rd6 $2 {[#]} (35... Rdd5 $1
+$14) 36. h3 $2 (36. Rb8+ $1 $18 Rd8 37. Rxd8+ Bxd8 38. Nd4) 36... g4 37. hxg4
+hxg4 38. Nh4 Rg5 $1 39. Ra7 Ke8 $1 40. Ra4 Rd3 41. Ra8+ Rd8 42. Ra1 Rdd5 43.
+Rf2 Bd8 {The position is equal.} 44. Ra8 Ke7 45. Re2 {Black must now prevent
+Ra7+.} Rc5 46. Ra6 Ra5 47. Rc6 Rad5 48. Rf2 Rd6 $132 {[%mdl 2048] Black is not
+holding back} 49. Rxd6 Kxd6 $11 {KRB-KRN} 50. Rd2+ Rd5 51. Rxd5+ $1 Kxd5 52.
+Nf5 {Hoping for e7.} Kxe6 53. Ne3 Bc7 54. Nxg4 Bxg3 {Accuracy: White = 55%,
+Black = 55%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.23"]
+[Round "6.4"]
+[White "Nakamura, Hikaru"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[WhiteElo "2743"]
+[BlackElo "2882"]
+[Annotator "TA"]
+[PlyCount "60"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,60,31,24,27,29,22,22,16,22,22,34,15,28,22,30,15,7,14,14,0,0,0,0,0,0,
+0,0,-4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 c5 2. Nf3 Nc6 3. Bb5
+g6 4. O-O Bg7 5. Re1 e5 6. Bxc6 dxc6 7. d3 Qc7 8. Be3 {B31: Sicilian: 2...Nc6
+3 Bb5 g6} (8. a3 Nf6 9. b4 O-O 10. Nbd2 Bg4 11. h3 Bxf3 12. Nxf3 cxb4 13. axb4
+a5 14. bxa5 Rxa5 15. Bd2 Raa8 {1/2-1/2 (49) Caruana,F (2832)-Carlsen,M (2835)
+London 2018}) 8... b6 9. a3 a5 10. Nbd2 Nf6 $146 ({Predecessor:} 10... Ne7 11.
+Nc4 a4 12. b4 b5 13. Na5 cxb4 14. axb4 O-O 15. c4 Be6 {1/2-1/2 (45) Hasangatin,
+R (2380)-Faibisovich,V (2410) Decin 1996}) 11. b4 Ng4 12. bxc5 Nxe3 13. fxe3
+bxc5 14. Nc4 Be6 {The position is equal.} 15. Nfd2 O-O 16. Rf1 Rab8 17. Qe2 a4
+18. Rf2 Rb7 19. Raf1 Qd8 20. Qe1 h5 21. Qa1 f6 22. h3 Bh6 23. Qd1 Kh7 24. Qe2
+Rb8 25. Rd1 Qc7 26. Rff1 Kg7 27. Rb1 Rb5 28. Rbd1 Rbb8 29. Rb1 Rb5 30. Rbd1
+Rbb8 {Accuracy: White = 89%, Black = 88%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.23"]
+[Round "6.5"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[WhiteElo "2764"]
+[BlackElo "2776"]
+[Annotator "TA"]
+[PlyCount "28"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,28,21,39,22,11,0,15,15,27,15,14,10,11,15,28,0,7,0,36,0,17]} 1. d4 d5
+2. c4 dxc4 3. e4 Nf6 4. e5 Nd5 5. Bxc4 Bf5 6. Ne2 {D20: Queen's Gambit
+Accepted: 3 e3 and 3 e4} (6. Qb3 c6 7. Ne2 Qb6 8. Qf3 Bxb1 9. Bxd5 cxd5 10.
+Rxb1 e6 11. O-O Nc6 12. Be3 Be7 13. Nf4 {1/2-1/2 (38) Gelfand,B (2703)
+-Laznicka,V (2662) Novy Bor 2018}) 6... e6 7. Nbc3 Nb6 8. Bb5+ $146 ({
+Predecessor:} 8. Bb3 Nc6 9. O-O Qd7 10. Be3 O-O-O 11. Rc1 Kb8 12. Na4 f6 13.
+Nxb6 axb6 14. Ba4 fxe5 15. Bb5 Qd5 16. Nc3 Qd6 17. Bxc6 bxc6 18. dxe5 Qxd1 19.
+Rfxd1 {0-1 (44) Espinosa Veloz,E (2516)-Quesada Perez,Y (2538) Santa Clara 2019
+}) 8... Nc6 9. Ng3 Bg6 10. h4 {Threatening h5.} h5 11. Nge2 Bf5 12. Ng3 {
+With the idea d5.} Bg6 $1 13. Nge2 Bf5 14. Ng3 {White wants to play d5.} Bg6 $1
+1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.23"]
+[Round "6.6"]
+[White "Karjakin, Sergey"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2750"]
+[BlackElo "2765"]
+[Annotator "TA"]
+[PlyCount "76"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,76,10,10,10,10,6,7,7,16,5,11,16,12,20,22,21,18,13,17,13,14,14,11,0,0,
+0,0,0,0,0,0,0,41,41,97,10,3,7,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. a3
+$146 {D37: Queen's Gambit Declined: 5 Bf4} (7. c5 Nh5 8. Bd3 Nxf4 9. exf4 b6
+10. b4 a5 11. a3 c6 12. O-O Qc7 13. g3 Ba6 14. Kg2 Bxd3 15. Qxd3 Ra7 {1/2-1/2 
+(40) Giri,A (2797)-Radjabov,T (2756) Shamkir 2019}) ({Predecessor:} 7. cxd5
+Nxd5 8. Nxd5 exd5 9. a3 {1/2-1/2 (54) Baramidze,D (2591)-Fridman,D (2652)
+Germany 2011}) 7... c5 8. cxd5 Nxd5 9. Nxd5 exd5 10. dxc5 Nxc5 11. Be5 Bg4 12.
+Be2 Bxf3 13. Bxf3 Bf6 14. Bxf6 Qxf6 15. Qc2 Ne6 16. Bxd5 Rac8 17. Qd2 Rfd8 18.
+O-O $1 Nc7 19. e4 Nxd5 20. exd5 Rc5 21. Rad1 g6 22. b4 Rc3 (22... Rcxd5 $14 23.
+Qxd5 Rxd5 24. Rxd5 b6) 23. a4 (23. Rfe1 $16) 23... Rc4 $11 {The position is
+equal.} 24. d6 Rd7 25. g3 Kg7 ({Much weaker is} 25... Rc6 26. Qe3 $16) 26. b5
+Re4 27. Rfe1 Rxe1+ 28. Qxe1 Rxd6 29. Rxd6 Qxd6 {[%mdl 4096] Endgame KQ-KQ} 30.
+Qc3+ Qf6 31. Qc7 Qa1+ 32. Kg2 Qxa4 33. Qxb7 Qc4 34. Qxa7 {Black must now
+prevent Qa1+.} Qd5+ 35. Kg1 {aiming for Qa1+.} Qd1+ 36. Kg2 {And now Qc5 would
+win.} Qd5+ {[%mdl 64] [#] Double Attack} 37. Kg1 {Strongly threatening Qa4.}
+Qd1+ 38. Kg2 {Qc5 is the strong threat.} Qd5+ {[%mdl 64] Double Attack.
+Accuracy: White = 74%, Black = 79%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.24"]
+[Round "7.1"]
+[White "Ding, Liren"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[WhiteElo "2805"]
+[BlackElo "2756"]
+[Annotator "TA"]
+[PlyCount "119"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,119,9,8,2,7,3,10,8,6,10,14,8,0,0,0,0,0,0,0,-122,-118,-132,-71,-321,
+-329,-366,-320,-343,-200,-208,-186,-191,-199,-180,-181,-360,-356,-400,-153,
+-145,-137,-108,-62,-52,-62,-57,-60,-60,-54,-59,-57,-55,-60,-125,-118,-122,-114,
+-137,-137,-137,-135,-137,-137,-137,-137,-137,-137,-136,-130,-218,-167,-167,
+-165,-253,-45,-44,-41,-40,-40,-41,-41,-41,-39,-45,-28,-28,-30,-48,-48,-52,-26,
+-26,-26,-26,-26,-26,-26,-26,-26,-26,8,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. g3 Bb4+
+4. Bd2 Be7 5. Bg2 d5 6. Nf3 O-O 7. O-O Nbd7 8. Qc2 c6 9. a4 {E11: Bogo-Indian}
+a5 10. Na3 Bd6 11. Ne1 Re8 $146 ({Predecessor:} 11... Qe7 12. Nd3 h6 13. Rfd1
+Re8 14. Rac1 e5 15. dxe5 Nxe5 16. Nxe5 Bxe5 17. cxd5 Nxd5 {1/2-1/2 (39)
+Gelfand,B (2728)-Eljanov,P (2739) Geneva 2017}) 12. Nd3 e5 13. cxd5 e4 14. Nf4
+cxd5 15. Nb5 Bb8 16. Rac1 Ra6 17. Bh3 (17. e3 $11 {keeps the balance.}) 17...
+Rc6 $36 {[%mdl 2048] Black is in control.} 18. Qb3 Nb6 19. Bxa5 $2 (19. Bxc8
+$17 Nc4 20. Bxb7 Nxd2 21. Qa3) 19... Bxh3 $19 20. Nxh3 {[#]} Qc8 $1 {[%mdl 512]
+} 21. Kg2 Rxc1 (21... Nc4 $142 22. Rxc4 dxc4) 22. Rxc1 Qxc1 23. Bxb6 e3 $1 {
+[%cal Re3f2]} 24. f3 h5 25. Ba5 $2 {[#]} (25. Nc3 h4 26. g4) 25... h4 $1 {
+[%mdl 512]} 26. gxh4 Qc6 $2 (26... Ne4 $19 {has better winning chances.} 27.
+Ng1 b6 $1 {[%mdl 512]}) 27. Be1 $17 Nh5 $1 28. Bg3 Qc4 29. Qxc4 dxc4 30. Ng5
+Nf6 31. Na3 Bxg3 32. hxg3 $15 {[%mdl 4096] Endgame KRN-KNN} Ra8 33. Nxc4 Rxa4
+34. Nxe3 ({Better is} 34. Ne5 $1 $15) 34... Rxd4 $17 35. Kf2 Nd5 $1 36. Nf5 Rb4
+$1 37. h5 Rxb2 38. h6 {White threatens h7+ and mate.} f6 39. Ne4 gxh6 40. Nxh6+
+Kf8 41. Nf5 b5 {[%cal Bb7b5,Bb5b4][%mdl 32]} 42. Ne3 (42. Nd4 $17) 42... Nb6
+43. Ke1 {[#]} b4 $1 44. Kd1 (44. Nd2 {is a better defense.}) 44... Na4 $2 (
+44... b3 $19 {Hoping for ...Na4.} 45. Nd2 {[#]} f5 $1 {[%mdl 512]}) 45. Nd5 $1
+$15 f5 46. Nd2 $1 b3 47. e4 fxe4 48. fxe4 Kf7 49. g4 Nc5 {aiming for ...Ra2.}
+50. Nb4 $1 Ke6 51. Kc1 Na4 {Threatens to win with ...Kf7.} 52. g5 Ke7 {White
+must now prevent ...Kf8.} 53. Nc6+ Kf7 {And now ...Rc2+ would win.} 54. Nd4 Kg6
+55. N4xb3 Ra2 56. Nf3 Nc3 57. Nbd2 Rxd2 {[%mdl 64] Remove Defender} 58. Kxd2 {
+The position is equal.} Nxe4+ {[%mdl 64] Double Attack} 59. Ke3 Nxg5 60. Nxg5 {
+Accuracy: White = 53%, Black = 71%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.24"]
+[Round "7.2"]
+[White "Giri, Anish"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2779"]
+[BlackElo "2818"]
+[Annotator "TA"]
+[PlyCount "99"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,99,10,12,31,27,45,19,43,27,16,18,33,18,28,14,23,20,13,22,18,0,10,5,
+11,18,14,10,10,11,12,8,9,8,16,18,14,0,0,0,0,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2.
+c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. Bd3 dxc4 {D37: Queen's
+Gambit Declined: 5 Bf4} 8. Bxc4 Ba6 9. Qe2 (9. Bxa6 Nxa6 10. Qa4 Qc8 11. O-O c5
+12. Rac1 Qb7 13. a3 Rfc8 14. Nb5 Nb8 15. dxc5 bxc5 {1/2-1/2 (35) Shankland,S 
+(2725)-Anand,V (2773) Wijk aan Zee 2019}) 9... Qc8 10. O-O (10. Rc1 {is
+interesting.} Bxc4 11. Qxc4 Na6 12. O-O c5 13. Nb5) 10... Bxc4 11. Qxc4 c5 12.
+dxc5 Qxc5 13. Qxc5 $146 ({Predecessor:} 13. Qe2 Nbd7 14. Rac1 Qh5 15. Rfd1 {
+1-0 (49) Kashlinskaya,A (2427)-Ovod,E (2380) Sochi 2017}) 13... Bxc5 14. Rac1
+Rd8 {The position is equal.} 15. h3 h6 16. Bxb8 Raxb8 17. Rc2 Nd5 18. Nxd5 Rxd5
+19. Rfc1 a5 20. Kf1 f5 21. Ke2 Kf7 22. Rc4 Rbd8 23. g4 g6 24. h4 e5 25. e4 fxe4
+26. Rxe4 Ke6 27. a3 Rf8 28. Rc3 h5 29. Rc2 b5 30. b4 axb4 31. axb4 Bd6 32. Ng5+
+Kd7 33. Nh7 Rf7 $1 {[%cal Rf7h7]} 34. Ng5 Rf4 35. gxh5 gxh5 36. Rxf4 exf4 $11 {
+[%mdl 4096] Endgame KRB-KRN} 37. Ne4 Be7 38. Kf3 Bxh4 39. Nc3 Rf5 40. Ke4 Ke6
+41. Ra2 {[#] Black must now prevent Ra6+.} Re5+ 42. Kxf4 {Strongly threatening
+Ra6+.} Rf5+ 43. Ke4 {Ra6+ is the strong threat.} Rxf2 44. Rxf2 Bxf2 {KB-KN} 45.
+Kf3 Bd4 (45... Be1 {looks sharper.} 46. Nxb5 Bxb4 47. Kg3 Be1+ 48. Kh3 Bf2) 46.
+Nxb5 Kd5 47. Nxd4 Kxd4 48. Kg3 Kc4 49. Kh4 Kxb4 50. Kxh5 {Accuracy: White =
+84%, Black = 68%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.24"]
+[Round "7.3"]
+[White "Carlsen, Magnus"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2882"]
+[BlackElo "2774"]
+[Annotator "TA"]
+[PlyCount "67"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,67,20,17,0,16,18,27,12,22,9,18,0,2,-10,-17,0,-26,-29,-25,-21,-33,-29,
+0,-27,-27,-40,0,-1,-1,-1,-1,-15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4
+Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Qa4+ Nd7 {
+[%cal Bb8d7,Bd7b6,Bb6c4][%mdl 32]} 8. Nf3 c5 9. Be2 O-O 10. O-O {D85: Exchange
+Grünfeld: Unusual White 7th moves and lines with 7 Nf3} Nb6 11. Qa3 cxd4 12.
+cxd4 {White has an edge.} Bg4 13. Rd1 Bxf3 {[#]} 14. Bxf3 $146 ({Predecessor:} 
+14. gxf3 Bxd4 15. Bg5 Bxa1 16. Rxd8 Rfxd8 17. Qxe7 Rd7 {1-0 (39) Riazantsev,A 
+(2671)-Navara,D (2751) Montpellier 2015}) 14... Bxd4 {[#]} 15. e5 $1 {[%mdl
+512] And now Rb1 would win.} Nc4 (15... Bxe5 16. Rxd8) 16. Qb4 Rc8 17. Bh6 {
+Threatens to win with Rac1.} Bxa1 18. Rxd8 Rfxd8 19. e6 $1 Ne5 20. exf7+ Nxf7
+21. Be3 $1 {[#]} Bd4 $1 {[%mdl 512]} 22. Qxe7 {The position is equal.} (22.
+Bxd4 Rc1+) 22... Re8 23. Qa3 b6 24. Bd5 Rc5 25. Bxf7+ Kxf7 26. Qxa7+ Re7 27.
+Qa6 b5 {( -> ...Rc1+!)} 28. h3 Bxe3 29. fxe3 $11 {KQ-KRR} Rce5 30. Qb6 R7e6 31.
+Qb7+ Re7 32. Qb6 R7e6 33. Qb7+ Re7 34. Qb6 {Accuracy: White = 59%, Black = 70%.
+} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.24"]
+[Round "7.4"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2778"]
+[BlackElo "2764"]
+[Annotator "TA"]
+[PlyCount "66"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,66,20,15,15,12,25,16,24,9,21,25,44,44,42,50,52,43,74,63,64,58,69,70,
+68,74,84,84,84,84,84,84,84,64,64,64,64,22,22,23,26,18,18,18,18,18,18,18,18,18,
+18,0,18,0,18,0,18]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O h6
+7. Re1 O-O {C54: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} 8. Nbd2
+Ne7 9. d4 Bb6 10. Bb3 Nc6 $146 {[%cal Re5d4]} ({Predecessor:} 10... exd4 11.
+cxd4 Ba5 12. Bc2 Bg4 13. a3 Nc6 {1/2-1/2 (41) Predke,A (2535)-Dubov,D (2644)
+Sochi 2016}) 11. Nc4 {[%cal Rd4e5]} exd4 12. Nxb6 axb6 13. Nxd4 Re8 14. Bc2 Bg4
+15. f3 Bh5 16. c4 Nxd4 17. Qxd4 Nd7 18. b3 Qf6 19. Qxf6 Nxf6 20. Bb2 Nd7 21. g4
+Bg6 22. Kf2 Bh7 23. h4 g5 24. hxg5 hxg5 25. Rh1 {[#] Black must now prevent
+Rxh7!} Ne5 26. Kg3 Kg7 {The position is equal.} 27. a4 f6 28. Bc3 Bg6 29. Rh2
+Rf8 30. Rah1 Rfe8 31. Ra1 Rf8 32. Rah1 Rfe8 33. Ra1 Rf8 {Accuracy: White = 61%,
+Black = 59%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.24"]
+[Round "7.5"]
+[White "So, Wesley"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2776"]
+[BlackElo "2750"]
+[Annotator "TA"]
+[PlyCount "84"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,84,15,12,11,15,12,7,8,14,6,14,17,21,21,21,21,21,19,18,14,14,20,26,23,
+18,0,0,0,16,0,10,3,24,18,15,21,17,18,17,18,16,15,18,14,18,13,21,12,12,12,16,14,
+22,19,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. Nf3 d5 3. c4 e6 4.
+Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. cxd5 Nxd5 8. Nxd5 {D37: Queen's Gambit Declined:
+5 Bf4} Qxd5 9. Be2 $146 (9. Bd3 Qa5+ 10. Kf1 Ba6 11. Bxc7 Bxd3+ 12. Qxd3 Na6
+13. Bg3 Nb4 14. Qe2 Rfc8 15. a3 Qa4 {0-1 (54) Caruana,F (2832)-Nakamura,H 
+(2746) London 2018}) 9... Qa5+ 10. Nd2 Ba6 $1 11. O-O c5 12. Nc4 Bxc4 13. Bxc4
+{Threatening d5.} cxd4 14. exd4 {next d5 is good for White.} Nc6 15. d5 exd5
+16. Qxd5 Qxd5 17. Bxd5 Rac8 18. Rfd1 Bf6 19. Rab1 Nd4 {[#] Strongly
+threatening ...Ne2+.} 20. Kf1 Rfe8 21. g3 Rc5 22. Bg2 Ne6 23. Be3 Rc2 {The
+position is equal.} 24. Rd7 Re7 25. Rxe7 Bxe7 26. Be4 Rc7 27. Rc1 Bc5 28. Bd2
+Rd7 29. Be1 a5 30. a3 {[%cal Ba2a3,Ba3b4][%mdl 32]} g6 31. b4 axb4 32. axb4 Be7
+33. Rc8+ Kg7 34. Rc6 Rd1 {[#] ...Bxb4 is the strong threat.} 35. Ke2 Rd4 36.
+Rxe6 (36. Bg2 {with more complications.} b5 37. Rb6 Bxb4 38. Rxb5 Bxe1 39. Kxe1
+Ra4 40. Rb2) 36... fxe6 $11 {[%mdl 4096] Endgame KRB-KB} 37. Bc3 Bf6 38. Bxd4
+Bxd4 39. Bc2 Kf6 40. Be4 Kg7 41. Bd3 Kf6 42. Be4 Kg7 {Accuracy: White = 72%,
+Black = 76%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.24"]
+[Round "7.6"]
+[White "Aronian, Levon"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2765"]
+[BlackElo "2743"]
+[Annotator "TA"]
+[PlyCount "80"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,80,0,7,-11,0,0,3,6,18,11,15,0,0,0,0,-8,2,2,12,5,4,1,4,7,6,2,15,14,12,
+17,16,12,27,25,22,10,11,4,8,0,0,0,5,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4
+c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 g6 7. O-O Bg7 8. Re1 O-O
+9. Bf1 Nc6 10. Nb3 b5 11. Bg5 h6 12. Bh4 {B70: Sicilian Dragon: 6 g3 and 6 Be2
+(without a later Be3)} g5 13. Bg3 {[#]} Bg4 $146 ({Predecessor:} 13... b4 14.
+Nd5 Nd7 15. c3 bxc3 16. Nxc3 Nde5 17. Qd2 Kh7 18. Rac1 f5 19. exf5 Bxf5 {
+1/2-1/2 (29) Schmaltz,R (2519)-Khenkin,I (2627) Bad Wiessee 2003}) 14. f3 Be6
+15. Bf2 d5 16. exd5 Nxd5 17. Nxd5 Qxd5 18. c3 b4 19. Nc5 {Strongly threatening
+Qxd5.} Qxd1 20. Rexd1 bxc3 21. bxc3 Bf5 22. Bxa6 {[#] And now Bb7 would win.}
+Bxc3 23. Bb7 Nb4 {...Ra5 is the strong threat.} 24. Bxa8 Rxa8 25. a4 {[%cal
+Ba2a4,Ba4a5][%mdl 32] next Ra3 is good for White.} Bxa1 26. Rxa1 f6 27. a5 Bc8
+28. h3 {The position is equal.} Kf7 29. Rb1 Na6 30. Ne4 Rb8 31. Rc1 Bd7 32. Bd4
+h5 33. Bb6 Rc8 34. Rxc8 Bxc8 35. Nc5 Nxc5 36. Bxc5 $11 {KB-KB} h4 37. Bb4 Ba6
+38. Bc5 Bc8 39. Bb4 Ba6 40. Bc5 Bc8 {Accuracy: White = 64%, Black = 65%.}
+1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.25"]
+[Round "8.1"]
+[White "Caruana, Fabiano"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2818"]
+[BlackElo "2756"]
+[Annotator "TA"]
+[PlyCount "88"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,88,0,0,0,0,8,5,10,10,7,10,10,19,18,15,14,19,-8,-8,-55,-43,-50,-49,
+-58,-58,-55,-62,-52,-60,-83,-56,-73,-21,-55,0,0,0,0,36,37,23,0,0,-15,-15,-30,
+37,23,60,60,60,33,38,41,30,34,77,52,74,58,64,28,30,23,59,50,54,10,10,10,10,0,0,
+0,10,0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. cxd5
+Nxd5 8. Nxd5 {D37: Queen's Gambit Declined: 5 Bf4} Qxd5 9. a3 (9. Bd3 Qa5+ 10.
+Kf1 Ba6 11. Bxc7 Bxd3+ 12. Qxd3 Na6 13. Bg3 Nb4 14. Qe2 Rfc8 15. a3 Qa4 {
+0-1 (54) Caruana,F (2832)-Nakamura,H (2746) London 2018}) 9... Ba6 10. Bxa6
+Nxa6 11. b4 Bd6 12. Bg3 Nb8 13. Qd3 {[#]} b5 $146 ({Predecessor:} 13... f5 14.
+O-O Nd7 15. Qa6 Nb8 {1/2-1/2 (41) Alexandrov,A (2630)-Boensch,U (2547) Saint
+Vincent 2005}) 14. e4 Qb7 15. d5 exd5 16. e5 Be7 17. Nd4 a5 18. Nf5 Re8 19.
+Nxe7+ Rxe7 20. O-O $1 Nd7 21. Qc3 axb4 22. axb4 Rc8 (22... Rxa1 $17 23. Rxa1
+Re8) 23. Rfc1 c6 (23... Ree8 $15) 24. f4 $1 $11 f6 25. Bf2 {[#] Ra7 is the
+strong threat.} Qc7 {[%cal Rf6e5]} 26. Ra7 Qd8 27. Qh3 {Strongly threatening
+Bc5.} fxe5 28. fxe5 Rc7 {White must now prevent ...Rxa7.} 29. Ra3 Nxe5 (29...
+Qc8 $11) 30. Bb6 $36 {[%mdl 2048] Black is under pressure.} Qc8 {[#] Hoping
+for ...Qxh3.} 31. Bxc7 Qxh3 $1 32. Rxh3 Rxc7 {[%mdl 4096] Endgame KRR-KRN} 33.
+Re1 Nc4 34. Rf3 {[%cal Re1e8]} h6 35. Re6 c5 36. bxc5 Rxc5 37. h4 Nd2 38. Rd3
+Ne4 39. Rb6 {[%mdl 1024] White has compensation.} Kh7 40. g4 Rc1+ {The
+position is equal.} 41. Kg2 Rc2+ 42. Kg1 Rc1+ 43. Kg2 Rc2+ 44. Kg1 Rc1+ {
+Accuracy: White = 66%, Black = 58%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.25"]
+[Round "8.2"]
+[White "Carlsen, Magnus"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[WhiteElo "2882"]
+[BlackElo "2805"]
+[Annotator "TA"]
+[PlyCount "84"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,84,17,4,8,8,11,8,12,0,13,0,0,-12,-24,-7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,3,13,13,14,12,12,12,41,12,18,0,0,0,0,6,2,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 O-O 5. Bg5 c5 6.
+Rc1 h6 {E21: Nimzo-Indian: 4 Nf3} 7. Bh4 cxd4 8. Nxd4 d5 9. cxd5 g5 10. Bg3
+Qxd5 $1 11. e3 Qxa2 12. Qc2 Nd5 13. h4 Nxc3 14. bxc3 $146 ({Predecessor:} 14.
+hxg5) 14... Qxc2 15. Rxc2 Be7 $1 16. hxg5 hxg5 17. f4 Nc6 18. fxg5 Bxg5 19. Rh5
+f6 20. Nf3 Bxe3 21. Re2 Bc1 22. Re4 $1 {[%cal Re4g4]} e5 23. Bc4+ Kg7 {[#]
+White must now prevent ...Rh8.} 24. Reh4 Kg6 $1 25. Rh7 Bg4 26. Bd3+ f5 $1 ({
+Not} 26... Bf5 27. R4h5 Bg5 28. Nh4+ Bxh4 29. Bxf5#) 27. Nxe5+ Nxe5 28. Bxe5 {
+[%csl Ge5][%cal Rh7g7] [#]} Kg5 29. g3 {[%cal Rh7g7]} (29. Rh1 $5 {[%cal Rh7g7]
+} Rg8 30. Bd4 $14 (30. Rxb7 Rae8 $15)) 29... Rg8 {Threatens to win with ...
+Rae8.The position is equal.} 30. Rxb7 {With the idea Bd4.} Rae8 31. Rb5 Rg6 {
+Hoping for ...Rge6.} 32. Kf2 Rb6 $132 {[%mdl 2048] Strongly threatening ...
+Rxb5. Black has counterplay} 33. Rxb6 axb6 34. Rh1 Rxe5 35. Rxc1 $11 {[%mdl
+4096] Endgame KRB-KRB} f4 36. gxf4+ Kxf4 37. Rb1 Rc5 38. Rb4+ Kg5 39. Rxb6 Rxc3
+40. Ke3 Bf5 41. Rd6 $1 Rxd3+ 42. Rxd3 Bxd3 {Accuracy: White = 86%, Black = 95%.
+} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.25"]
+[Round "8.3"]
+[White "Karjakin, Sergey"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[ECO "D86"]
+[WhiteElo "2750"]
+[BlackElo "2778"]
+[Annotator "TA"]
+[PlyCount "101"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,100,18,20,16,34,20,49,47,39,27,29,36,40,18,42,9,61,60,93,97,87,87,85,
+83,83,83,84,89,127,114,118,124,131,126,138,139,148,107,107,107,107,106,107,107,
+141,135,781,895,898,896,851,869,857,844,798,770,854,871,791,769,731,725,637,
+596,1179,1158,1152,1145,1145,1114,987,880,29990,29991,29992,29993,29993,29994,
+29996,29997,29998,29999,29999]} 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4
+Nxc3 6. bxc3 Bg7 7. Bc4 c5 8. Ne2 Nc6 9. Be3 O-O 10. O-O b6 11. dxc5 {D87:
+Exchange Grünfeld: Classical Line: Variations without ...cxd4} (11. Rc1 Bb7 12.
+Qd2 e6 13. Rfd1 Rc8 14. f3 cxd4 15. cxd4 Qd6 16. Bh6 Bxh6 17. Qxh6 Na5 18. Bd3
+Rxc1 19. Qxc1 {1/2-1/2 (50) Nakamura,H (2746)-Vachier Lagrave,M (2781) London
+2018}) 11... Qc7 12. Nd4 Ne5 13. Nb5 {White is slightly better.} Qb8 14. Bd5
+Ng4 {[%csl Gg4][%cal Rb8h2]} 15. g3 Nxe3 16. fxe3 {Hoping for Bxf7+!} a6 17.
+Nd4 {Threatens to win with Nc6.} bxc5 (17... Bh3 $11) 18. Rb1 $36 {[%mdl 2048]
+White fights for an advantage.} Qa7 $146 ({Predecessor:} 18... Qc7 19. Bxa8
+cxd4 20. cxd4 {1/2-1/2 (28) Bluebaum,M (2413)-Colpe,M (2208) playchess.com INT
+2012}) 19. Nc6 Qc7 {[#] next ...Bh3 is good for Black.} 20. Nxe7+ $1 {[%mdl
+576] Discovered Attack} Qxe7 21. Bxa8 {Black must now prevent Bd5.} Bh3 22. Bd5
+{Rb7 is the strong threat.} Bxf1 23. Qxf1 Bxc3 24. Qxa6 Qg5 25. Qe2 Kh8 26. Kg2
+f5 27. Qd3 Be5 28. Rf1 Kg7 29. exf5 Rxf5 30. a4 Rxf1 31. Kxf1 Bd4 32. Bc4 $1 ({
+Much weaker is} 32. exd4 $6 Qxd5 33. a5 cxd4 $11) 32... Bxe3 $2 {[%mdl 8192]} (
+32... Qf6+ $16 33. Kg1 Bc3) 33. Qd7+ $18 Kh6 34. Qh3+ Kg7 35. Qe6 $1 {[%cal
+Re6f7] And now Qf7+ would win.} Bd4 36. Qf7+ Kh6 {[#]} 37. a5 $1 {[%cal Ba4a5,
+Ba5a6][%mdl 32]} Bf6 38. Kg2 Qd2+ 39. Kh3 Qg5 {[#]} 40. Qf8+ $1 Bg7 41. Qf3 {
+aiming for a6.} Bd4 42. a6 {White wants to mate with a7.} Qe7 43. Qa8 Bf6 44.
+a7 Qd7+ 45. g4 Qe7 46. Qf3 {White mates.} Qxa7 47. Qxf6 Qa3+ {[#]} 48. Bd3 $1 {
+[%mdl 512]} Qxd3+ 49. Kh4 {[%csl Gf6,Gh4][%cal Rg4g5]} Qd4 50. Qf8+ Qg7 51. g5#
+{Accuracy: White = 96%, Black = 45%.} 1-0
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.25"]
+[Round "8.4"]
+[White "Nepomniachtchi, Ian"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "2774"]
+[BlackElo "2765"]
+[Annotator "TA"]
+[PlyCount "107"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,107,20,14,20,12,23,0,8,0,0,0,0,0,2,0,11,14,41,26,37,40,41,43,61,66,
+74,38,25,29,76,56,127,125,147,147,137,123,121,121,143,93,150,148,172,103,241,
+205,262,237,245,229,319,317,328,347,339,336,327,294,297,298,340,325,322,95,58,
+75,75,106,83,50,50,50,53,39,268,272,268,232,270,259,1481,561,504,489,2487,2564,
+2302,1879,29957,6270,29985,29986]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5.
+O-O d6 6. c3 a6 7. Re1 Ba7 8. Bb3 O-O 9. h3 Re8 {C54: Giuoco Piano: 4 c3 Nf6,
+main lines with 5 d4 and 5 d3} 10. Nbd2 Be6 11. Ba4 (11. Nf1 Bxb3 12. Qxb3 Rb8
+13. Ng3 Qd7 14. Nh4 Kh8 15. Nhf5 Qe6 16. Be3 Qxb3 17. axb3 {1/2-1/2 (28)
+Ragger,M (2701)-Aronian,L (2765) Germany 2019}) 11... b5 {The position is
+equal.} 12. Bc2 h6 $146 ({Predecessor:} 12... Ne7 13. Nf1 Ng6 {1-0 (49) Zizek,
+R (1145)-Meglic,E (1545) Ptuj 2017}) 13. Nf1 d5 14. exd5 Bxd5 15. Ng3 Nh7 16.
+a4 Nf8 17. b4 Ng6 18. Be3 Bxe3 19. fxe3 Qd7 20. Nd2 Nce7 21. Nb3 Qc6 22. Qd2
+Nh4 {[%cal Rd5g2]} 23. e4 Qg6 (23... Bxb3 $14 24. Bxb3 Rad8) 24. Kh2 $16 Bc6
+25. Nc5 f5 26. exf5 Nexf5 27. Nge4 Bd5 28. Re2 Rad8 (28... a5 $142) 29. Rf1 Nd6
+{...Nxe4 would now be nice for Black.} 30. Qe1 ({White should play} 30. d4 $1
+$18 Nxe4 31. Nxe4) 30... Nhf5 (30... Nxe4 $16 {is a better defense.} 31. dxe4 (
+31. Nxe4 Nf5 $16) 31... Bc4) 31. a5 Rf8 32. Ref2 Rf7 33. Rf3 (33. Nxa6 Nxe4 34.
+dxe4 Qg3+ 35. Kg1 Ne3 $11) 33... h5 34. Nxa6 h4 35. Nac5 Rdf8 36. Kg1 Qh6 37.
+Qc1 Ne3 {aiming for ...Rxf3.} 38. Rxf7 Rxf7 39. Rxf7 Kxf7 40. Qe1 $2 (40. Bb3
+$18) 40... Nxc2 41. Qf2+ {[%mdl 64] Double Attack} Ke8 {Hoping for ...Qc1+.}
+42. Qxc2 Bxe4 43. Nxe4 Nxe4 44. dxe4 {[%mdl 4096] Endgame KQ-KQ} Qe3+ $1 45.
+Kf1 Qf4+ $2 {[#]} (45... Kd7 $1 $14) 46. Qf2 $1 $18 {[%cal Rf2f4] And now Qxf4
+would win.} Qc1+ 47. Qe1 Qf4+ 48. Kg1 {a6 is the strong threat.} Kd8 $2 (48...
+Kd7 49. a6 Kc6) 49. Qf2 (49. a6 $142) 49... Qc1+ 50. Kh2 {Strongly threatening
+a6.} Qxc3 {[#]} (50... Kc8 $142 51. a6 (51. Qxh4 Qxc3 52. a6 Kb8 $18) 51... Kb8
+52. Qf8+ {[%mdl 64] Double Attack} (52. Qxh4 Qxc3 53. Qh8+ Ka7 $18) 52... Ka7
+53. Qc5+ {[%mdl 64] Double Attack} (53. Qxg7 Qxc3 54. Qg6 c6 $11) 53... Kxa6
+54. Qc6+ (54. Qxc7 Qf4+ {[%mdl 64] Double Attack} 55. Kh1 Qc1+ 56. Kh2 Qf4+ {
+[%mdl 64] Double Attack} 57. Kg1 Qe3+ 58. Kf1 Qd3+ 59. Kg1 Qe3+ 60. Kf1 Qd3+
+61. Kg1 Qe3+ $11) (54. Qxe5 c6 $11) 54... Ka7 55. Qxc7+ {[%mdl 64] Double
+Attack} Ka8 56. Qa5+ (56. Qxg7 Qf4+ {[%mdl 64] Double Attack} 57. g3 Qf2+ 58.
+Kh1 hxg3 $11) 56... Kb7 57. Qxb5+ {[%mdl 64] Double Attack} Ka7 58. Qxe5 Ka6)
+51. a6 $1 Ke8 52. Qxh4 Qa3 53. Qh5+ {[%mdl 64] Double Attack} Kf8 54. Qf3+ {
+Accuracy: White = 75%, Black = 28%.} 1-0
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.25"]
+[Round "8.5"]
+[White "Nakamura, Hikaru"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2743"]
+[BlackElo "2776"]
+[Annotator "TA"]
+[PlyCount "58"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,58,11,16,0,0,12,11,0,15,18,20,25,8,0,0,-2,23,21,18,18,18,26,16,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3
+Be7 5. Bf4 O-O 6. e3 b6 7. Rc1 Bb7 8. cxd5 {D37: Queen's Gambit Declined: 5 Bf4
+} Nxd5 9. Nxd5 Qxd5 10. a3 c5 11. Bc4 Qd8 12. O-O Bf6 $146 ({Predecessor:} 
+12... Nd7 13. dxc5 bxc5 14. Qe2 Nf6 15. Ne5 Qb6 {1-0 (53) Lupulescu,C (2643)
+-Szabo,G (2548) Calimanesti 2014}) 13. dxc5 (13. Ne5 {is more complex.} Nc6 14.
+Nxc6 Bxc6 15. Bd3 Qd7 16. Qc2) 13... Bxb2 14. Rb1 Qxd1 15. Rfxd1 Bxa3 16. Bd6
+Bxf3 17. gxf3 Rc8 18. cxb6 {The position is equal.} axb6 19. Bxa3 Rxa3 20. Rxb6
+Rc3 21. Rbd6 {[#] White wants to mate with Rd8+.} Kf8 22. Rd8+ Rxd8 23. Rxd8+
+Ke7 24. Rxb8 {Strongly threatening Bf1.} Rxc4 $11 {KR-KR} 25. f4 Rc7 26. Ra8
+Rd7 27. Rb8 Rc7 28. Ra8 Rd7 29. Rb8 Rc7 {Accuracy: White = 86%, Black = 68%.}
+1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.25"]
+[Round "8.6"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2764"]
+[BlackElo "2779"]
+[Annotator "TA"]
+[PlyCount "57"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,57,22,33,20,27,27,27,10,13,25,32,41,34,41,27,21,2,0,0,0,0,0,0,-6,-2,
+-25,0,0,0,0,-18,-101,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 d5 2. c4 c6 3. Nc3 Nf6
+4. Nf3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 g6 8. Ne5 {D43: Semi-Slav: 5 Bg5 h6} (8.
+Be2 Bg7 9. O-O O-O 10. Rc1 Nd7 11. cxd5 exd5 12. b4 a6 13. a4 Qd6 14. b5 axb5
+15. axb5 Nb6 {1/2-1/2 (45) Wojtaszek,R (2749)-Vitiugov,N (2709) Shenzhen 2018})
+8... Bg7 9. f4 Nd7 {[%cal Rd7e5]} 10. h4 $146 {White has an edge.} ({
+Predecessor:} 10. Qf3 Nxe5 11. fxe5 Qe7 12. O-O-O Bd7 13. e4 dxc4 14. Bxc4 Qb4
+15. Qd3 O-O-O 16. Kb1 {1/2-1/2 (16) Cebrian Valverde,J (2137)-Moreno Gracia,D 
+(2318) Aragon 2017}) 10... Qe7 11. Qc2 O-O 12. O-O-O Nxe5 13. fxe5 Bd7 14. g4
+f6 15. Qxg6 {Threatens to win with Bd3.} fxe5 16. Bd3 {Qh7+ would kill now.} e4
+17. Nxe4 $1 Be8 18. Nf6+ $1 Rxf6 19. Qh7+ Kf8 20. g5 hxg5 21. hxg5 Rf7 22. Qh3
+{[#]} (22. Rhg1 $11 e5 23. g6) 22... Rd8 ({Don't play} 22... Qxg5 $6 23. Rdg1
+$11) ({Black should play} 22... dxc4 $1 $17 23. Bxc4 c5 24. Bxe6 {[#]} cxd4 $1
+{[%mdl 512]} 25. Bxf7 Bxf7 26. exd4 Qe4) 23. g6 $11 {The position is equal.}
+Rf6 {[#]} 24. Qh8+ $1 {[%mdl 512]} Bxh8 25. Rxh8+ Kg7 26. Rh7+ Kf8 {And now ...
+Qb4 would win.} 27. Rh8+ Kg7 28. Rh7+ Kf8 {aiming for ...Qb4.} 29. Rh8+ {
+Accuracy: White = 56%, Black = 79%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.26"]
+[Round "9.1"]
+[White "Ding, Liren"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2805"]
+[BlackElo "2818"]
+[Annotator "TA"]
+[PlyCount "113"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,113,15,12,24,13,39,15,22,22,38,42,47,6,14,8,0,0,39,0,0,0,35,31,40,45,
+55,54,50,54,47,51,54,51,54,38,37,34,55,38,30,47,55,59,38,20,27,30,25,25,37,0,
+65,60,77,14,59,59,58,59,58,0,0,0,111,112,122,122,130,122,122,122,122,122,122,
+122,123,123,125,123,584,572,569,565,537,513,642,537,12843,12847,1912,418,29963,
+12648,29980,29981,29980,29981,29978,29978,29978,29979,29977,29975]} 1. d4 Nf6
+2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. Bd3 dxc4 {D37: Queen's
+Gambit Declined: 5 Bf4} 8. Bxc4 Ba6 9. Bxa6 Nxa6 {The position is equal.} 10.
+Qe2 Qc8 11. O-O Qb7 12. a3 c5 13. Nb5 {[#]} Rac8 $146 ({Predecessor:} 13... Ne4
+14. Rac1 Rac8 15. Ne5 {1/2-1/2 (23) Carlsen,M (2835)-Nakamura,H (2746) St
+Petersburg 2018}) 14. b4 Nd5 15. bxc5 bxc5 16. Rab1 Rc6 17. Be5 Rb6 18. a4 {
+[%cal Ba3a4,Ba4a5][%mdl 32]} Nac7 19. dxc5 Bxc5 20. Rbc1 Nxb5 21. Rxc5 Nd6 22.
+a5 Rc6 23. Bxd6 Rxd6 24. Rfc1 h6 25. h3 Rfd8 26. Ne5 Nf6 27. Nc6 {Threatens to
+win with a6.} R8d7 28. a6 Qb6 29. Ne5 Rd8 30. Rc8 Qa5 31. f4 Rd2 ({Black
+should play} 31... Nd7 $11) 32. Qf3 {Strongly threatening Qb7.} R2d5 $1 33.
+R1c7 $36 {[%mdl 2048] White has some pressure.} (33. Rxd8+ $16 Qxd8 34. Rb1)
+33... Kh7 (33... Qxa6 $5 {[%cal Rd8c8]} 34. Rxd8+ Rxd8 $16) 34. Kh2 $1 Rxc8 35.
+Rxc8 Qxa6 36. Ra8 (36. Rf8 $14 Nd7 37. Nxd7 Rxd7 38. Qe4+ f5 39. Rxf5 $1 {
+[%mdl 512]}) 36... Qb7 $11 37. Rf8 Rb5 (37... Qb4 $1 $11 38. Rxf7 Qb1) 38. Qf1
+$1 $16 (38. Rxf7 $6 Qxf3 39. Nxf3 Nd5 $11) 38... Qd5 39. Nxf7 {Hoping for Rh8+.
+} ({But not} 39. Rxf7 $6 Rb7 $14) 39... Nd7 40. Rd8 {Ne5! is the strong threat.
+} Rb8 41. Rxb8 $1 Nxb8 42. Qb1+ $1 {[%mdl 64] Double Attack} Qf5 43. Qb7 {
+Black must now prevent Nd8.} ({Much weaker is} 43. Qxb8 $6 Qxf7 44. Qa8 Kg6 $11
+) 43... Nc6 {[#]} 44. Nd6 $1 {[%cal Rd6f5]} ({Much worse is} 44. Qxc6 $6 Qxf7
+45. Qa4 Kg6 $11) 44... Qc5 45. Ne4 Qc2 $2 {[%mdl 8192]} (45... Qxe3 $16 46.
+Qxc6 Qxf4+ 47. Ng3 a5 48. Qxe6 h5 49. Qe4+ Qxe4 50. Nxe4 h4) 46. Nf6+ $1 $18
+Kg6 47. Ne8 Qc3 48. e4 a5 49. Qd7 a4 50. Qxe6+ Kh7 {[#]} 51. e5 (51. Qf7 $142
+$1 {e5 would kill now.} Nd8 52. Qd7 {[%mdl 64] Double Attack}) 51... Nd4 {[#]}
+(51... Nxe5 $18 52. fxe5 Qc5) 52. Qd7 $1 {[%csl Ge8][%cal Rd7g7]} Kg6 53. Qxg7+
+{White mates.} Kf5 54. Nd6+ Kxf4 55. Qf6+ Ke3 56. e6 Kd3 57. e7 {Accuracy:
+White = 71%, Black = 49%.} 1-0
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.26"]
+[Round "9.2"]
+[White "Anand, Viswanathan"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2756"]
+[BlackElo "2764"]
+[Annotator "TA"]
+[PlyCount "93"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,93,17,4,12,12,11,0,18,0,47,62,41,48,75,74,75,65,70,67,60,63,101,101,
+100,105,172,106,110,91,134,107,123,97,135,84,75,74,83,79,82,70,79,22,72,61,61,
+35,88,100,89,93,96,63,63,63,68,70,61,69,73,31,45,8,66,67,62,45,77,75,77,0,0,0,
+0,0,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O
+h6 7. Re1 O-O {C54: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} 8.
+Nbd2 Ne7 9. d4 (9. h3 Ng6 10. Nf1 c6 11. d4 exd4 12. cxd4 Bb4 13. Bd2 Bxd2 14.
+N1xd2 d5 15. Bb3 dxe4 16. Nxe4 Nxe4 17. Rxe4 {1/2-1/2 (31) Anand,V (2764)
+-Mamedyarov,S (2765) Paris 2019}) 9... Bb6 10. a4 $146 {aiming for a5.} ({
+Predecessor:} 10. Bb3 exd4 11. cxd4 Ba5 12. Bc2 Bg4 13. a3 Nc6 {1/2-1/2 (41)
+Predke,A (2535)-Dubov,D (2644) Sochi 2016}) 10... c6 11. dxe5 Ng4 12. Rf1 $36 {
+[%mdl 2048] White has the initiative.} Nxe5 13. Nxe5 dxe5 14. Qh5 Qd6 15. Nf3
+Bc7 16. Nh4 b5 17. axb5 cxb5 18. Bxb5 Bb7 {[#]} (18... Rb8 $16 {is a better
+defense.}) 19. Qe2 (19. Rd1 $1 $18 {[%cal Rd1d6]} Qf6 20. Rd7) 19... Bb6 20.
+Ba6 Bc6 21. Nf3 {[%cal Bh4f3,Bf3d2,Bd2e4][%mdl 32]} f5 22. Bd3 Rae8 23. exf5 ({
+Better is} 23. Nd2) 23... Nxf5 $16 24. Be4 Kh8 {With the idea ...Nd4.} 25. Nd2
+Qe6 26. Kh1 Bd7 27. Bd3 (27. c4 $16) 27... e4 28. Nxe4 Bc6 {Hoping for ...Qg6.}
+29. f3 Qe5 ({Black should play} 29... Qf7 $14) 30. Bd2 Bc7 {[%csl Gc7][%cal
+Re5h2] [#]} 31. g3 $1 {Threatens to win with Bf4.} Bxe4 32. Qxe4 ({Weaker is} 
+32. fxe4 Nxg3+ 33. hxg3 Qxg3 $17) 32... Qd6 33. Bf4 Qd7 34. Qb7 Qxd3 35. Qxc7
+Re2 {Black wants to play ...Qc2.} 36. Qc5 Rfe8 37. Rf2 a5 (37... Kg8 $11) 38.
+Raf1 $1 $14 Rxb2 39. Kg2 Ree2 40. Qxa5 Kh7 41. h4 ({White should try} 41. Qc5
+$16) 41... Ne3+ $11 {The position is equal.} 42. Bxe3 $1 Qxe3 43. Qf5+ Kh8 {
+[%cal Re2f2]} 44. Qf8+ Kh7 {[%cal Re2f2]} 45. Qf5+ Kh8 {[%cal Re2f2]} 46. Qf8+
+Kh7 47. Qf5+ {Accuracy: White = 61%, Black = 54%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.26"]
+[Round "9.3"]
+[White "So, Wesley"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2776"]
+[BlackElo "2774"]
+[Annotator "TA"]
+[PlyCount "150"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,264,16,16,0,0,16,16,5,30,23,29,7,15,26,17,0,0,3,0,10,8,7,0,10,13,0,0,
+0,22,22,27,23,92,42,55,0,0,0,0,0,0,0,0,-8,0,0,0,0,-2,-8,-8,-16,-6,-34,-23,-31,
+-27,-27,-24,-28,-27,-27,-29,-28,-20,-73,-28,-17,0,0,-4,-8,0,0,0,0,0,0,0,0,0,0,
+0,0,0,-3,0,0,0,-15,-14,-57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,-128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,-7,0,0,0,0,0,0,0,0,-104,0,0,0,0,0,
+0,0,0,0,0,0,0,0,-8,-8,-6,-8,-8,-7,-6,-8,-8,-8,-44,-35,-62,-41,-57,-33,-40,-40,
+-104,-104,-121,-141,-184,-126,-111,-104,-125,-125,-215,-214,-219,-193,-561,
+-144,-189,-150,-215,-139,-147,-193,-193,-186,-399,-312,-347,-352,-1020,-1013,
+-944,-575,-571,-554,-545,-548,-546,-534,-528,-526,-485,-457,-413,-397,-396,
+-302,-293,-439,-358,-154,-164,-188,-2375,-1712,-646,-2735,-12794,-11443,-5370,
+-1635,-1514,-1821,-29979,-29980,-29979,-29981,-29982,-29983,-29979,-29979]} 1.
+Nf3 c5 2. c4 Nc6 3. Nc3 g6 4. e3 Nf6 5. d4 cxd4 6. exd4 d5 7. cxd5 Nxd5 8. Qb3
+e6 9. Bb5 Bg7 10. O-O {A35: Symmetrical English: 2 Nc3 Nc6 3 Nf3} O-O 11. Bxc6
+bxc6 12. Na4 $146 {The position is equal.} (12. Re1 Qc7 13. h3 Rb8 14. Qd1 Rd8
+15. Ne4 h6 16. Bd2 Kh7 17. Rb1 Rb5 {1-0 (78) Cheparinov,I (2709)-Alekseev,E 
+(2639) St Petersburg 2018}) 12... Qd6 13. Re1 Rb8 14. Qd1 Ne7 15. b3 Nf5 {
+[%cal Rf5d4]} 16. Bb2 Rd8 {[%cal Rf5d4]} 17. Qc2 Nxd4 ({Reject} 17... Bxd4 18.
+Rad1 $16) 18. Bxd4 Bxd4 19. Nxd4 Qxd4 20. Rad1 Qf6 21. Rxd8+ (21. h3 {looks
+sharper.} Rb4 22. Qxc6 Bb7 23. Qc3 Rbd4 24. Rxd4 Qxd4 25. Qxd4 Rxd4 26. Rc1)
+21... Qxd8 22. Rd1 Qe8 23. h3 e5 24. Qc5 a6 (24... Rb7 $11) 25. Qa5 Kg7 26. Rd8
+(26. Nc3 $14) 26... Qe7 $11 27. Nb6 Qxd8 28. Qxe5+ Qf6 29. Qxb8 Be6 30. Qg3 h5
+31. Na4 Qa1+ 32. Kh2 Qxa2 33. Nc5 Qe2 34. Qc3+ Kg8 35. Qd4 Bd5 36. Nd7 Qe6 37.
+Nf6+ Kf8 38. b4 $1 Qd6+ 39. Kg1 Ke7 40. Ng8+ Ke6 41. Qf6+ Kd7 42. Qd4 Qb8 43.
+Nf6+ {[%mdl 64] Double Attack} Ke6 {...Qe5 is the strong threat.} 44. Ne4 {
+Black must now prevent Qf6+.} Bxe4 (44... Qf4 {with more complications.} 45.
+Nc5+ Kf5 46. Qd3+ Kf6 47. Qc3+ Ke7) 45. Qxe4+ {[%mdl 4096] Endgame KQ-KQ} Kd7
+46. Qc4 Qe8 47. Qd4+ Kc8 48. Qb6 Qe1+ 49. Kh2 Qe5+ 50. g3 Qb5 51. Qa7 Qb7 52.
+Qc5 {With the idea Qf8+.} Qc7 53. h4 Kb7 54. Qf8 Qd7 (54... a5 $1 $15 55. bxa5
+c5) 55. Kg1 Qd5 56. Kh2 Kc7 57. Kg1 Kd7 58. Kh2 Qc4 59. Kg1 Qe6 60. Qc5 Qe2 61.
+Qd4+ Ke6 62. Qc5 Qb5 63. Qe3+ Kf6 64. Qc3+ Ke7 65. Qd4 Ke6 66. Qe3+ Kd7 67.
+Qa7+ Ke8 68. Qd4 (68. Qe3+ $11 {keeps the balance.} Kf8 69. Qc3) 68... Qd5 ({
+Black should play} 68... a5 $1 $17 {[%cal Ra5b4]} 69. Qe3+ Kf8 70. bxa5 Qxa5)
+69. Qb6 Qc4 70. Qb8+ Ke7 71. Qe5+ Kd7 72. Qb8 Ke6 73. Qe8+ Kf5 74. Qe7 Qd5 75.
+Qe2 {[#]} Qb3 {Played: Qd5-b5} 0-1
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.26"]
+[Round "9.4"]
+[White "Giri, Anish"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[WhiteElo "2779"]
+[BlackElo "2750"]
+[Annotator "TA"]
+[PlyCount "88"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,88,11,-16,10,15,18,29,38,38,36,34,26,37,50,22,81,75,78,71,67,70,63,
+54,56,50,52,27,24,11,19,8,29,22,22,27,17,0,33,31,50,40,67,42,66,38,46,35,54,34,
+21,12,54,35,57,0,0,0,68,54,69,69,61,54,60,60,69,69,69,54,70,54,54,54,54,0,54,0,
+54,0,54]} 1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. Nd5 Bc5 {
+A29: English Opening: Four Knights Variation with 4 g3} 7. b4 (7. O-O d6 8. e3
+Bg4 9. h3 Bh5 10. d3 a5 11. Nc3 h6 12. b3 Re8 13. Bb2 Qd7 14. a3 Ba7 15. Kh2
+Nd8 16. Ne2 Bxf3 17. Bxf3 {1/2-1/2 (123) Inarkiev,E (2693)-Efimenko,Z (2636)
+Antalya 2017}) 7... Nxb4 $146 ({Predecessor:} 7... Nxd5 8. bxc5 Ndb4 9. d3 Qe7
+10. Rb1 e4 11. dxe4 Qxe4 12. Bf4 Qxc4 13. O-O Nxa2 14. Rb2 {1-0 (24) Toby,
+A-Gutsche,K Dieren 1982}) 8. Nxb4 Bxb4 {White has an edge.} 9. Nxe5 d5 10. cxd5
+Nxd5 11. O-O Be6 12. Rb1 a5 (12... Bd6 $11 {remains equal.} 13. Nc4 Rb8) 13. a3
+$16 Bd6 14. Nf3 Nb6 15. Qc2 Re8 16. h4 h6 17. Nd4 Bc8 18. Nf5 Bf8 ({But not} 
+18... Rxe2 19. Ne3 $16) 19. e4 Be6 20. d4 a4 21. d5 Bxf5 $1 22. exf5 Bd6 23.
+Bf3 Ra7 24. Kg2 Nd7 25. Rd1 Qe7 26. Rd4 Rea8 27. Re4 Qf8 28. Qc3 Re8 29. Rxe8
+Qxe8 30. Bb2 {[%csl Gb2][%cal Rc3g7] [#]} Qf8 31. Re1 {aiming for Re8!} Ra8 32.
+Bd1 ({White should try} 32. Qd3 $14) 32... Nf6 $11 33. Qc4 b5 (33... Bxa3 $11
+34. Bxf6 gxf6) 34. Qxb5 $14 {Qc6 is the strong threat.} Rb8 35. Qe2 $36 {
+[%mdl 2048] Black is under pressure.} Re8 36. Qd2 Rxe1 37. Qxe1 Bxa3 38. Bxf6
+$1 gxf6 39. Bxa4 Qe7 40. Qxe7 (40. Qe3 {looks sharper.} Qxe3 41. fxe3 Kf8 42.
+e4 Ke7 43. Kf3) 40... Bxe7 41. Bb3 Bc5 42. Ba4 Be7 $1 43. Bb3 Bc5 $1 44. Ba4
+Be7 $1 {Accuracy: White = 55%, Black = 56%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.26"]
+[Round "9.5"]
+[White "Aronian, Levon"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[WhiteElo "2765"]
+[BlackElo "2882"]
+[Annotator "TA"]
+[PlyCount "81"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,81,0,0,31,16,29,16,16,16,23,6,29,22,6,25,17,13,14,1,11,13,34,21,26,
+19,6,-70,-54,-71,0,0,5,8,11,12,19,0,0,-10,-9,-10,-4,0,0,0,-2,-11,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. c3 Nf6 5. Qe2
+Bg7 6. O-O O-O 7. d4 cxd4 8. cxd4 d6 {B31: Sicilian: 2...Nc6 3 Bb5 g6} 9. h3
+Nd7 $146 ({Predecessor:} 9... a6 10. Bxc6 bxc6 11. Nc3 a5 12. Re1 Nd7 13. Bg5
+h6 14. Be3 Kh7 15. Rac1 Ba6 16. Qd2 c5 17. dxc5 Nxc5 18. Red1 Nd3 19. Rb1 {
+1/2-1/2 (47) Kantans,T (2478)-Mamedov,R (2709) chess.com INT 2018}) 10. Rd1 a6
+11. Bxc6 bxc6 12. Be3 a5 13. Qc2 c5 14. Nc3 cxd4 15. Bxd4 Bb7 16. Bxg7 Kxg7 17.
+Nd4 Rc8 18. Qd2 Re8 19. Qe3 Qb6 20. e5 ({White should try} 20. Na4 $11 Qa6 21.
+Rac1) 20... dxe5 $15 21. Nb3 $1 Nc5 ({Black should play} 21... Qxe3 $17 22.
+fxe3 Nc5 23. Nxa5 Ba6) 22. Qxe5+ $11 {The position is equal.} Kg8 23. Qe3 Qc6 {
+[%csl Gb7][%cal Rc6g2] [#]} 24. Nd5 {Black must now prevent Rac1.} Nxb3 25.
+axb3 Qc5 26. Rac1 (26. Qe5 {is interesting.} Bxd5 27. Rxd5 Qb6 28. Rb5 Qf6 29.
+Rbxa5 Rb8 30. Re1) 26... Qxe3 27. Nxe3 Rxc1 28. Rxc1 {[%mdl 4096] Endgame
+KRB-KRN} Rb8 29. Rc5 {[#] Threatens to win with Rb5.} Bc8 30. Nd5 Be6 31. Nxe7+
+Kf8 32. Nc6 Rxb3 33. Nd4 Rxb2 34. Nxe6+ fxe6 35. Rxa5 {KR-KR} h5 36. Ra6 Kf7
+37. Ra5 $1 Rb1+ 38. Kh2 Rb2 39. Kg1 Rb1+ 40. Kh2 Rb2 41. Kg1 {Accuracy: White
+= 58%, Black = 70%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.26"]
+[Round "9.6"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[WhiteElo "2778"]
+[BlackElo "2743"]
+[Annotator "TA"]
+[PlyCount "117"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,117,14,7,11,18,7,15,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,-12,24,0,0,-28,0,0,0,
+0,87,15,25,19,29,22,17,14,63,54,80,71,77,81,68,30,42,42,38,25,42,12,29,24,28,
+31,19,0,12,9,20,0,0,0,0,0,0,0,20,14,12,8,10,0,35,8,29,2,8,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8,8,8,8,8]} 1. e4 c6 2. Nf3 d5 3. Nc3 Nf6 4.
+e5 Ne4 5. Ne2 Qb6 {[%csl Ge4][%cal Rb6f2]} 6. d4 {B11: Caro-Kann: Two Knights
+Variation} e6 7. Ng3 c5 8. Bd3 Nxg3 $1 9. fxg3 (9. hxg3 cxd4 10. Ng5 Nc6 11.
+Nxh7 Bd7 12. Qe2 O-O-O 13. O-O {0-1 (30) Mamedov,R (2703)-Piorun,K (2634) St
+Petersburg 2018}) 9... cxd4 10. O-O Nc6 11. Qe2 {Black should prevent Ng5.} h6
+12. a3 Bd7 $146 ({Predecessor:} 12... a6 13. b4 {0-1 (66) Patel,A (2478)
+-Khamrakulov,D (2496) Saint Louis 2018}) 13. g4 Be7 14. b4 a6 15. Rb1 Na7 16.
+Bb2 Nb5 17. Qf2 {Hoping for a4.} Qc7 18. Nxd4 O-O 19. Ne2 f6 {[#]} (19... Na7
+$11) 20. Qe3 (20. Qh4 $1 $16 {[%cal Re5f6]} Qd8 21. Qh5) 20... fxe5 $1 $11 21.
+Bxe5 Bd6 22. Bxd6 Nxd6 23. g5 Nf5 24. Bxf5 exf5 25. gxh6 Rae8 26. Qd2 Qb6+ 27.
+Nd4 (27. Rf2 {is more complex.} Qxh6 28. Qxd5+ Qe6 29. Qd2 Ba4 30. Nd4) 27...
+Qxh6 28. Qxh6 gxh6 29. Rf3 Re4 30. c3 Kg7 31. h3 h5 32. Rbf1 {[%cal Rd4f5]} Kg6
+33. g3 Rc8 34. Kh2 b6 35. h4 {[%cal Rd4f5]} f4 36. gxf4 Bg4 37. Rd3 Kf6 38. Rf2
+Re7 39. Nf3 Bf5 40. Rxd5 {Black must now prevent Nd4.} Rxc3 41. Ng5 Rc6 42. a4
+{b5 is the strong threat.} Rec7 43. b5 axb5 {The position is equal.} 44. axb5
+Rc2 45. Kg2 {With the idea Rd6+.} Rxf2+ 46. Kxf2 {[%mdl 4096] Endgame aiming
+for Rd6+. KRB-KRN} Rc2+ 47. Ke3 Rc3+ 48. Kd2 Rc2+ 49. Kd1 {And now Rxf5+!
+would win.} Rc4 50. Rd6+ Ke7 51. Rxb6 Rxf4 52. Rb7+ Bd7 53. Kd2 Rxh4 54. Ke3
+Rb4 55. Ne4 Rxb5 56. Rxb5 Bxb5 57. Ng3 h4 58. Nf5+ {[%mdl 64] [#] Double Attack
+} Kf6 59. Nxh4 {Accuracy: White = 54%, Black = 66%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.27"]
+[Round "10.1"]
+[White "Aronian, Levon"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[ECO "C58"]
+[WhiteElo "2765"]
+[BlackElo "2805"]
+[Annotator "TA"]
+[PlyCount "85"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,85,29,27,24,32,22,22,28,25,28,20,23,5,29,16,25,30,45,47,51,52,47,29,
+52,38,45,43,51,58,53,41,42,41,54,24,42,32,32,18,22,28,32,31,29,28,27,0,0,0,0,0,
+0,0,-3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6
+4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8. Bd3 Nd5 {C58: Two Knights: 4
+Ng5 d5 5 exd5 Na5 sidelines} 9. Nf3 Bd6 10. O-O Nf4 11. Nc3 {[%cal Bb1c3,Bc3e4,
+Be4g3,Bg3e2][%mdl 32]} Nxd3 12. cxd3 O-O 13. b3 $146 ({Predecessor:} 13. Ne4 c5
+14. b3 Nc6 {1/2-1/2 (81) Zhigalko,S (2656)-Inarkiev,E (2660) Berlin 2015})
+13... c5 14. Ba3 Nc6 15. Ne4 Nb4 16. Bxb4 cxb4 17. Re1 Bb8 18. Ng3 Qxd3 19.
+Nxe5 Bxe5 20. Rxe5 Be6 21. Re3 Qd4 22. Ne2 Qd6 23. d4 a5 24. h4 Rfd8 25. Qd2 a4
+{[#] Hoping for ...axb3.} 26. Rd1 axb3 27. axb3 Ra5 28. Rg3 Rf5 29. Ra1 Bd5 30.
+Qe3 h6 {The position is equal.} 31. Rg4 Rf6 32. Ng3 Qe6 33. Qxe6 Bxe6 34. Re4
+Bxb3 {[#] Threatens to win with ...Rb6.} 35. d5 $1 {[%mdl 512]} Rb6 {aiming
+for ...Bc2.} (35... Bxd5 {feels hotter.} 36. Rxb4 Bc6 37. f3 Rd2 38. h5 Kh7)
+36. Rb1 Bxd5 (36... f5 {is interesting.} 37. Rf4 Bc2 38. Rbxb4 Rxb4 39. Rxb4
+Rxd5 40. f3 Rd1+) 37. Rexb4 Rxb4 38. Rxb4 $11 {KRB-KRN} Be6 39. f3 Ra8 40. Kh1
+Rd8 41. Kg1 Ra8 42. Kh1 Rd8 43. Kg1 {Accuracy: White = 76%, Black = 74%.}
+1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.27"]
+[Round "10.2"]
+[White "Nepomniachtchi, Ian"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[ECO "A34"]
+[WhiteElo "2774"]
+[BlackElo "2778"]
+[Annotator "TA"]
+[PlyCount "92"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,92,0,0,43,43,43,43,77,25,42,18,18,14,16,8,24,33,24,0,1,0,0,-202,-196,
+-191,-191,-177,-186,-185,-179,-179,-177,-176,-172,-185,-183,-180,-180,-184,
+-179,-177,-186,-180,-180,-177,-183,-173,-176,-170,-186,-184,-183,-190,-139,
+-205,-179,-205,-179,-197,-177,-235,-235,-235,-246,-294,-296,-318,-310,-312,
+-312,-312,-308,-492,-504]} 1. Nf3 c5 2. c4 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nb4
+6. Bb5+ N8c6 7. d4 cxd4 8. a3 dxc3 9. Qxd8+ Kxd8 10. axb4 cxb2 11. Bxb2 f6 {
+A34: Symmetrical English: 2 Nc3, lines with ...d5} 12. e5 {[%mdl 1024] White
+has compensation.} Bd7 13. Bc4 {[#] e6 is the strong threat.} e6 $146 {White
+is slightly better.} ({Predecessor:} 13... Nxb4 14. O-O Rc8 15. Bf7 Nd3 16. Bd4
+fxe5 17. Bxe5 Rc5 18. Bd4 e5 19. Be3 {1/2-1/2 (31) Savchenko,S (2461)-Tomczak,
+J (2633) Germany 2018}) 14. O-O (14. exf6 $16 {Black must now prevent b5.}
+Bxb4+ 15. Ke2 gxf6 16. Bxf6+ {[%mdl 64] Double Attack} Kc7 17. Bxh8 Rxh8 18.
+Rhc1) 14... Be7 $11 15. b5 Nxe5 16. Bxe5 fxe5 17. Rfd1 Ke8 18. Nxe5 Bc8 $1 19.
+b6 {[#] aiming for Bb5+.} Bc5 $1 20. Bb5+ Ke7 21. Nd7 $2 (21. Nc6+ $11 bxc6 22.
+Bxc6) 21... Bd6 $19 {Threatens to win with ...a6.} 22. Rac1 {[#]} Rd8 $1 ({
+Much less strong is} 22... Bxd7 23. Bxd7 axb6 24. Bb5 $17) 23. Nc5 Bxc5 24.
+Rxd8 Kxd8 25. Rxc5 axb6 {[%mdl 4096] Endgame KRB-KRB} 26. Rc1 Ra5 27. Rb1 Bd7
+28. Bd3 h6 29. Rxb6 Ra1+ 30. Bf1 Kc7 31. Rb2 b5 32. f3 Kb6 33. Kf2 Bc6 34. Bc4
+e5 35. Bd3 Ra3 36. Bb1 Rc3 (36... Bd5 $19 37. Re2 Ra1 38. Rxe5 Bxf3 39. Re6+
+Ka5) 37. Ke2 (37. Bh7 $17) 37... Rc4 38. Kd2 b4 39. Ba2 Rd4+ 40. Kc1 (40. Ke3 {
+is a better defense.}) 40... e4 41. fxe4 Rxe4 ({Resist} 41... Bxe4 42. Rf2) 42.
+g3 Bb5 43. Kd1 Kc5 44. Rf2 Bc4 45. Bb1 Re7 46. Kd2 (46. g4 {was called for.})
+46... Rf7 {Accuracy: White = 53%, Black = 84%.} 0-1
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.27"]
+[Round "10.3"]
+[White "Karjakin, Sergey"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2750"]
+[BlackElo "2756"]
+[Annotator "TA"]
+[PlyCount "70"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,70,25,12,22,13,30,20,27,21,33,26,33,33,33,33,31,31,46,42,42,41,40,19,
+31,30,27,19,37,39,44,0,0,0,0,0,0,-39,-20,-35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. Be2
+Ba6 {D37: Queen's Gambit Declined: 5 Bf4} (7... dxc4 8. Bxc4 Ba6 9. Qe2 Bxc4
+10. Qxc4 c5 11. O-O cxd4 12. Nxd4 Qc8 13. Qxc8 Rxc8 14. Rac1 Nbd7 15. Ncb5 {
+0-1 (44) Mamedyarov,S (2817)-Nakamura,H (2746) Kolkata 2018}) 8. cxd5 Nxd5 9.
+Nxd5 $146 ({Predecessor:} 9. O-O c5 10. Bxa6 Nxa6 11. Qe2 Qc8 12. Nxd5 exd5 13.
+Rac1 Qb7 14. dxc5 bxc5 15. Rfd1 {1-0 (66) Keymer,V (2466)-Matthiesen,M (2273)
+Helsingor 2018}) 9... Qxd5 10. Bxc7 Qa5+ 11. Kf1 $1 Bxe2+ 12. Qxe2 Nd7 13. h3
+Rac8 14. Bg3 Rc6 15. Kg1 Rfc8 16. Kh2 Rc2 17. Qd3 g5 18. Rhb1 h5 19. Kg1 g4 20.
+hxg4 hxg4 21. Ne1 Rd2 $1 {[%cal Rd2d3]} 22. Qe4 Nf6 $1 {[%cal Rf6e4]} 23. Qb7
+Re8 24. Rc1 Qf5 25. Rc7 ({Don't blunder} 25. Qxa7 $2 {[#]} Bd6 $1 $19 {[%mdl
+512]}) 25... Bd6 {Hoping for ...Bxg3.} 26. Rxf7 {Threatens to win with e4.The
+position is equal.} Bxg3 27. Rg7+ {[#]} Kh8 $1 28. fxg3 Rf2 {( -> ...Rf1+)} 29.
+Nd3 Qxd3 30. Kxf2 {White wants to mate with Rh1+.} Ne4+ 31. Kg1 Qxe3+ 32. Kh1
+Qh6+ 33. Kg1 Qe3+ 34. Kh1 {Intending Rh7+ and mate.} Qh6+ 35. Kg1 Qe3+ {
+Accuracy: White = 87%, Black = 75%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.27"]
+[Round "10.4"]
+[White "Carlsen, Magnus"]
+[Black "So, Wesley"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "2882"]
+[BlackElo "2776"]
+[Annotator "TA"]
+[PlyCount "85"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,85,10,8,15,10,19,13,6,0,5,8,10,6,8,12,4,4,15,0,14,0,-10,0,-7,0,28,31,
+31,31,43,10,13,12,35,33,32,32,62,62,66,68,68,72,65,66,79,79,79,79,181,185,181,
+181,193,159,317,293,377,334,366,372,354,340,357,193,193,193,193,200,193,140,
+1227,1170]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O $146 ({Predecessor:} 4. c3
+Nf6 5. d3 d6 6. O-O a6 7. a4 h6 8. Re1 O-O {1-0 (49) Vachier Lagrave,M (2779)
+-Karjakin,S (2773) Saint Louis 2018}) 4... Nf6 5. d3 O-O 6. c3 d6 7. h3 h6 8.
+Re1 a6 {C54: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} 9. a4 a5
+10. Nbd2 Be6 {The position is equal.} 11. Bb5 Na7 12. d4 Nxb5 13. dxc5 Na7 14.
+b3 Re8 15. cxd6 Qxd6 16. Ba3 c5 17. Nc4 Qxd1 18. Raxd1 Bxc4 19. bxc4 b6 20. Nh4
+Rad8 21. f3 $1 g6 22. g3 Nh5 23. Kf2 Nc6 24. Bc1 Kg7 25. Be3 Rxd1 26. Rxd1 Rd8
+27. Rb1 $1 {[%cal Rb1b6]} Rb8 28. Ng2 Nf6 29. Ke2 Ne8 30. Bf2 Nd6 31. Ne3 Ne7 (
+31... Rb7 $16) 32. Nd5 $18 Nxd5 33. cxd5 {[%mdl 4096] Endgame Threatens to win
+with Bxc5! KRB-KRN} Rb7 34. Kd3 f5 $2 {[#]} (34... c4+ $16 {was worth a try.}
+35. Kd2 Nc8) 35. c4 $1 fxe4+ 36. fxe4 Rf7 37. Rxb6 Rxf2 38. Rxd6 {KR-KR} Rf3+
+39. Ke2 (39. Kd2 $142) 39... Rc3 {[#]} 40. Re6 $1 Rxc4 41. Rxe5 Rxa4 42. Re7+ (
+42. Kf3 $18) 42... Kf6 $2 {[%mdl 8192]} (42... Kf8 $16 43. Re6 Kf7) 43. d6 {
+Accuracy: White = 71%, Black = 48%.} 1-0
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.27"]
+[Round "10.5"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[WhiteElo "2764"]
+[BlackElo "2818"]
+[Annotator "TA"]
+[PlyCount "74"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,34,30,42,28,0,0,-16,-7,-15,-18,
+-8,-14,-5,-18,-15,-28,-66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4 7. Bd3 c5
+8. Nf3 {E32: Nimzo-Indian: Classical (4 Qc2): 4...0-0} cxd4 9. Nxd4 Nd7 10. Bf4
+Qh4 11. g3 Qh5 12. O-O g5 13. cxd5 Bxc3 14. bxc3 gxf4 (14... exd5 $11 15. Bxe4
+dxe4) 15. dxe6 Nxe5 16. Bxe4 {[#]} Ng4 $146 {[%csl Gg4][%cal Rh5h2]} ({
+Predecessor:} 16... Bxe6) 17. exf7+ Rxf7 {[%csl Gg4][%cal Rh5h2]} 18. h4 fxg3
+19. fxg3 {And now Qb3 would win.} Ne3 20. Qb3 $132 {[%mdl 2048] Hoping for Rf3.
+White is not keeping still} Nxf1 21. Rxf1 Kg7 22. Rxf7+ Qxf7 23. Qb4 Bh3 {[#]}
+(23... Kh8 $15) 24. Bf5 $1 $11 {[%mdl 512] The position is equal.} a5 (24...
+Bxf5 25. Nxf5+) 25. Qb5 Bxf5 26. Nxf5+ {[%mdl 4096] Endgame KQR-KQN} Kf6 {
+aiming for ...Qg6.} 27. Nh6 Qg6 28. Qb6+ Kg7 {[#]} 29. Nf5+ $1 {[%mdl 512]}
+Qxf5 30. Qxb7+ {[%mdl 64] Double Attack} Qf7 31. Qxa8 Qxa2 {KQ-KQ} 32. c4 Qb1+
+33. Kg2 Qc2+ 34. Kh3 Qf5+ 35. Kg2 Qc2+ {[%mdl 64] Double Attack} 36. Kh3 Qf5+
+37. Kg2 Qc2+ {[%mdl 64] Double Attack. Accuracy: White = 75%, Black = 88%.}
+1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.27"]
+[Round "10.6"]
+[White "Nakamura, Hikaru"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[ECO "D38"]
+[WhiteElo "2743"]
+[BlackElo "2779"]
+[Annotator "TA"]
+[PlyCount "45"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,45,0,0,0,0,0,0,0,0,0,26,20,41,-12,0,-26,10,0,0,0,0,-17,20,17,21,-25,
+0,0,19,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bd2 O-O 6. e3 b6 7. cxd5
+exd5 8. Bd3 Bb7 9. O-O Bd6 10. Rc1 {E52: Nimzo-Indian: Rubinstein: 4...0-0 5
+Nf3 d5 6 Bd3 b6} c5 (10... a6 11. Ne5 c5 12. f4 Nc6 13. Ne2 Ne7 14. Be1 Ne4 15.
+Ng3 cxd4 16. exd4 b5 17. Kh1 f6 18. Ng4 Qd7 {0-1 (38) Duda,J (2717)-Zhigalko,S
+(2641) Katowice 2017}) 11. Ne5 Nc6 12. Ng4 Nxg4 13. Qxg4 c4 14. Bb1 $146 ({
+Predecessor:} 14. Bc2 g6 15. Qf3 Rb8 16. Bd1 a6 17. Nxd5 Nxd4 {1/2-1/2 (53)
+Zlatariu,M (2401)-Jensen,E (2502) ICCF email 2013}) 14... Ne7 15. Nb5 (15. Qh3
+$14 f5 16. f3) 15... f5 $11 16. Qe2 (16. Qh3 {keeps more tension.} Bb8 17. f3
+a6 18. Nc3 b5 19. Ne2) 16... a6 (16... Bb8 {is interesting.} 17. Bb4 Bc6 18.
+Qf3 a6 19. Nc3 b5) 17. Nxd6 Qxd6 18. f3 b5 19. Be1 Ng6 20. Ba5 Ne7 21. Be1 Ng6
+22. Ba5 Ne7 23. Be1 {Accuracy: White = 52%, Black = 58%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.28"]
+[Round "11.1"]
+[White "Ding, Liren"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[ECO "D71"]
+[WhiteElo "2805"]
+[BlackElo "2764"]
+[Annotator "TA"]
+[PlyCount "104"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,104,9,7,1,13,11,27,21,28,0,11,0,7,-27,-25,-25,-25,-32,-25,-25,-29,
+-36,-34,-33,-31,-31,-31,-32,-34,-30,-34,-31,-29,-34,0,0,0,0,0,0,0,0,0,0,0,0,0,
+-22,-23,-16,-10,-10,-10,-14,0,-4,0,0,0,-14,-11,-11,-11,-11,-11,-12,-8,-14,-7,
+-13,-8,-21,-14,-22,0,-8,-8,-11,-8,-10,-15,-21,-8,-10,0,-8,-20,-20,0,-8,0,-20,0]
+} 1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 c5 6. Nf3 d5 7. dxc5 Qa5 8.
+O-O {D74: Fianchetto Grünfeld: Main Line (5 Nf3 0-0 6 cxd5 Nxd5 7 0-0)} dxc4 9.
+Qd4 Nc6 10. Qxc4 {White has an edge.} Be6 11. Qh4 Qxc5 12. Be3 (12. Ng5 Qc4 13.
+Nxe6 Qxh4 14. gxh4 fxe6 15. Bg5 h6 16. Bf4 Rad8 {1-0 (38) Sjugirov,S (2663)-Li,
+C (2724) Qinhuangdao 2018}) 12... Qa5 13. Nd4 $146 ({Predecessor:} 13. a3)
+13... Nxd4 14. Qxd4 Nd5 15. Qc5 Qxc5 16. Bxc5 Rfc8 17. Bxd5 Rxc5 18. Bxe6 fxe6
+19. Rfd1 Rac8 20. Rd7 R8c7 21. Rad1 Bxc3 22. Rxc7 Rxc7 23. bxc3 $11 {[%mdl
+4096] Endgame KR-KR} Kf7 24. Rb1 e5 25. Kf1 b6 26. Rb3 Rc5 27. a4 Ra5 28. Rb4
+Rc5 29. Rb3 Rc4 30. Ra3 Ke6 31. Ke1 $1 Kd5 {The position is equal.} 32. Kd2 e4
+33. Ra1 g5 34. Kc2 Ke5 35. a5 b5 {[%cal Bb6b5,Bb5b4][%mdl 32]} 36. a6 b4 37.
+Ra5+ Kf6 38. Rb5 Rxc3+ 39. Kd2 Ra3 40. Rxb4 e3+ 41. fxe3 Rxa6 42. h4 h6 43.
+hxg5+ Kxg5 44. Re4 Kf6 45. Rh4 Kf5 46. Rf4+ Ke5 47. g4 e6 48. Rf7 Ra2+ 49. Kd3
+Ra3+ 50. Kd2 Ra2+ 51. Kd3 Ra3+ 52. Kd2 Ra2+ {Accuracy: White = 75%, Black =
+69%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.28"]
+[Round "11.2"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "B31"]
+[WhiteElo "2778"]
+[BlackElo "2882"]
+[Annotator "TA"]
+[PlyCount "58"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,88,10,10,8,13,19,22,23,24,27,34,14,12,-2,27,4,18,0,11,-4,0,0,0,-11,
+-12,-33,-29,-39,-31,-30,-39,-60,-21,-63,-9,-304,-300,-296,-286,-346,-346,-354,
+-336,-342,-350,-332,-333,-312,-312,-284,-256,-275,-267,-268,-214,-260,-212,
+-214,-219,-222,-223,-380,-265,-270,-212,-217,-227,-394,-175,-397,-386,-512,
+-295,-541,-510,-777,-790,-760,-733,-722,-708]} 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4.
+Bxc6 bxc6 5. d4 cxd4 6. Qxd4 {B31: Sicilian: 2...Nc6 3 Bb5 g6} f6 7. O-O d6 8.
+c4 {The position is equal.} c5 9. Qd3 Bg7 10. b3 $146 ({Predecessor:} 10. Nc3
+Nh6 11. Nh4 Rb8 12. b3 O-O 13. Re1 {1/2-1/2 (64) Kovalev,V (2687)
+-Praggnanandhaa,R (2539) Wijk aan Zee 2019}) 10... Nh6 11. Nc3 Rb8 12. Bd2 O-O
+13. Rae1 Nf7 14. h4 Rb7 15. h5 g5 16. Nh2 Ne5 17. Qg3 Kh8 18. f4 gxf4 19. Bxf4
+{[#] And now h6 would win.} Rg8 $36 {[%mdl 2048] Black has good play.} 20. Re3
+Nc6 21. Qf2 $1 f5 ({Better is} 21... Qf8 $15 22. Ne2 Nb4) 22. Nf3 $2 {[%mdl
+8192]} (22. exf5 $11 Bxf5 23. Rg3) 22... Bxc3 $1 $19 23. Rxc3 e5 ({Not} 23...
+fxe4 24. Nd2 $15) 24. Rd3 {aiming for Nxe5!} exf4 25. Qb2+ Rbg7 26. h6 {
+Rfd1 is the strong threat.} fxe4 27. Rd2 exf3 28. hxg7+ Rxg7 29. Rxf3 Qh4 {
+Played: Qd8-g5} 0-1
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.28"]
+[Round "11.3"]
+[White "Caruana, Fabiano"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[WhiteElo "2818"]
+[BlackElo "2750"]
+[Annotator "TA"]
+[PlyCount "103"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,103,0,0,7,0,0,0,0,-11,6,-7,-10,0,-18,-3,-2,-3,-18,-11,-13,-17,-16,0,
+0,-42,-55,-37,-43,-99,-94,-88,-39,-37,-37,-38,-40,-40,-42,-40,-40,-52,-46,-77,
+-60,-107,-70,-105,-94,-100,-89,-96,-96,-112,-94,-106,-72,-89,-57,-56,-55,-62,
+-60,-65,-48,-62,-37,-39,-28,-31,-8,-16,-8,-15,-8,-8,-8,-12,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0]} 1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bb4 5. Nd5 Bc5 6. Bg2 d6 7. O-O
+O-O 8. e3 Re8 {A29: English Opening: Four Knights Variation with 4 g3} (8...
+Bb6 9. Nxb6 axb6 10. b3 Bf5 11. d3 Qd7 12. Nh4 Bh3 13. e4 Bxg2 14. Kxg2 Nd4 15.
+Be3 b5 16. Bxd4 exd4 17. cxb5 Qxb5 {1-0 (35) Carlsen,M (2835)-Duda,J (2738) St
+Petersburg 2018}) 9. b3 Bg4 $146 {[#] Strongly threatening ...e4.} ({
+Predecessor:} 9... Nxd5 10. cxd5 Ne7 11. d4 exd4 12. Nxd4 a5 13. Bb2 Bd7 14. a3
+Qc8 15. Qd3 Bh3 {1-0 (48) Meskovs,N (2495)-Antoms,G (2349) Liepaja 2017}) 10.
+h3 Bh5 {Threatens to win with ...e4.} 11. d3 a5 12. a3 Nxd5 13. cxd5 Ne7 14. g4
+Bg6 15. d4 Bb6 16. dxe5 Be4 17. e6 fxe6 18. dxe6 Ng6 19. h4 Qf6 {[%mdl 64] [#]
+Double Attack} 20. Ra2 Rf8 {[%cal Re4f3]} 21. e7 ({White should play} 21. h5
+$15) 21... Rf7 $17 {[%cal Re4f3]} 22. h5 Bxf3 (22... Nxe7 {is interesting.} 23.
+Ne1 Qe6 24. Bxe4 Qxe4 25. Rc2 Raf8) 23. Bxf3 Qxf3 24. hxg6 hxg6 25. Qxf3 Rxf3
+26. Kg2 Rf7 27. e4 Rxe7 28. Re2 Kf7 29. Bb2 Rh8 30. f4 Ree8 31. f5 gxf5 32.
+Rxf5+ Kg6 33. Bc1 Rh4 34. Rg5+ Kh7 (34... Kf6 {keeps more tension.} 35. Bf4 g6
+36. Rb5 Rxg4+ 37. Kf3 Rg1) 35. Bd2 c5 36. Be1 Rh6 37. Bg3 Rhe6 38. Kf3 Bd8 39.
+Rd5 Be7 40. a4 Kg6 41. e5 Rf8+ 42. Kg2 {The position is equal.} Rc8 43. Kf3 {
+[%cal Re5d6]} dxe5 44. Rexe5 Rxe5 45. Bxe5 $11 {[%mdl 4096] Endgame KRB-KRB}
+Bf6 46. Bf4 c4 47. bxc4 Rxc4 48. Rxa5 Rc3+ 49. Ke4 Rc4+ 50. Kf3 Rc3+ 51. Ke4
+Rc4+ 52. Kf3 {Accuracy: White = 70%, Black = 49%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.28"]
+[Round "11.4"]
+[White "Anand, Viswanathan"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2756"]
+[BlackElo "2743"]
+[Annotator "TA"]
+[PlyCount "52"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,52,14,7,18,18,20,14,8,0,7,0,0,0,12,8,24,14,9,0,8,0,25,6,13,15,27,0,0,
+0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6
+dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 {C67: Ruy Lopez: Berlin
+Defence: 4 0-0 Nxe4} 11. Bg5 (11. Ne2 b6 12. Bg5 c5 13. Nc3 Bb7 14. Rfd1 Bxf3
+15. gxf3 c6 16. Rd3 Be7 17. Ne4 Rd8 18. Rad1 Rxd3 19. Rxd3 Bxg5 20. Nxg5 {
+1/2-1/2 (33) Vachier Lagrave,M (2781)-Nakamura,H (2746) London 2018}) 11... Be6
+12. Rfd1 Be7 13. Rd2 Rd8 {[#] ...Bxg5 is the strong threat.} 14. Rxd8+ Kxd8 15.
+Rd1+ Ke8 16. b3 h4 17. Ne2 (17. Kf1 Rh5 18. Bc1 {1/2-1/2 (32) Anand,V (2773)
+-Nakamura,H (2746) Kolkata 2018}) 17... Bd5 {[#]} 18. Bf4 $146 ({Predecessor:} 
+18. Bxe7 Kxe7 {1/2-1/2 (55) Zhigalko,S (2661)-Swiercz,D (2633) Denizli 2013})
+18... Bxf3 19. gxf3 g6 20. Bc1 Ng7 21. Kg2 Ne6 22. Nd4 Kd7 {The position is
+equal.} 23. Nf5+ Ke8 24. Nd4 Kd7 25. Nf5+ Ke8 26. Nd4 Kd7 {Accuracy: White =
+45%, Black = 38%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.28"]
+[Round "11.5"]
+[White "Giri, Anish"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1-0"]
+[ECO "D83"]
+[WhiteElo "2779"]
+[BlackElo "2774"]
+[Annotator "TA"]
+[PlyCount "153"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,153,14,17,21,16,18,12,22,3,30,12,15,13,12,7,12,0,14,12,3,0,0,0,8,0,
+16,0,0,-3,-8,-11,17,22,22,25,16,5,10,7,4,2,9,5,27,25,36,36,35,38,67,67,68,68,
+89,89,89,60,87,87,87,52,79,79,87,65,87,87,87,87,87,87,87,87,87,87,87,87,87,87,
+87,87,87,87,87,87,87,87,87,87,87,87,87,87,87,87,87,87,87,87,87,87,87,87,87,0,
+87,87,87,87,87,0,87,87,87,0,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,10,10,656,620,
+594,580,5308,3316,1545,1385,4618,4606]} 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7
+5. e3 O-O 6. Rc1 Be6 {D83: Grünfeld: 4 Bf4 Bg7 5 e3 0-0} 7. c5 (7. cxd5 Nxd5 8.
+Nxd5 Bxd5 9. Bxc7 Qd7 10. Nf3 Nc6 11. Bg3 Rac8 12. Bb5 a6 13. Bxc6 Rxc6 14. b3
+Rxc1 15. Qxc1 {1/2-1/2 (28) So,W (2780)-Wei,Y (2729) chess.com INT 2018}) 7...
+c6 8. Bd3 b6 {The position is equal.} 9. Na4 $146 ({Predecessor:} 9. b4 a5 10.
+a3 axb4 11. axb4 Na6 12. Bxa6 Rxa6 13. Nf3 bxc5 14. bxc5 {1-0 (44) Zhao,X 
+(2567)-Bok,B (2560) Wijk aan Zee 2014}) 9... Nfd7 (9... Bg4 $5 {[%cal Rg4d1]}
+10. f3 Bc8 $11) 10. h3 bxc5 11. Nxc5 Nxc5 12. Rxc5 Qb6 13. Qc2 Rc8 14. Nf3 Nd7
+15. Rc3 c5 16. O-O c4 17. b3 {[%cal Rb3c4]} Nc5 {[%mdl 64] Pin} 18. bxc4 Nxd3
+19. c5 {[#]} Nxc5 $1 {[%mdl 512]} 20. dxc5 (20. Rxc5 Bf5) 20... Qa5 21. Nd4 Bd7
+22. c6 {Rc5 is the strong threat.} Be8 23. Rc5 Qa6 {And now ...e5 would win.}
+24. Rxd5 {Strongly threatening c7.} Bxc6 25. Nxc6 Rxc6 26. Qd2 $36 {[%mdl 2048]
+White fights for an advantage.} Bc3 27. Rd8+ Rxd8 28. Qxd8+ {[%mdl 64] Double
+Attack} Kg7 29. Qxe7 Bf6 30. Be5 Qxa2 31. Ra1 Qe6 32. Bxf6+ Qxf6 33. Qxa7 $16 {
+[%mdl 4096] Endgame KQR-KQR} Rc2 34. Rf1 $1 h5 35. Qb7 Rb2 36. Qd5 Re2 37. Qf3
+(37. g3 {seems wilder.} Rb2 38. Qc4 Kh7 39. Kg2 Qf5 40. Qd4) 37... Qxf3 38.
+gxf3 $14 {KR-KR} Ra2 39. Rd1 Ra5 40. Kg2 Rg5+ 41. Kh2 Rf5 {[#]} 42. f4 $1 Ra5
+43. Kg3 Ra2 44. Rd5 f5 45. Kf3 Kf6 46. Rd6+ Kg7 47. Rd1 Kf6 48. Re1 Rb2 49. Re2
+Rb1 50. Kg3 Rg1+ {[#]} 51. Kh2 $1 {[%cal Rh2g1]} Ra1 52. Rb2 Rc1 53. Ra2 Rb1
+54. Kg2 Re1 55. Rb2 Kg7 56. Kf3 Kf6 57. Re2 (57. Rb5 $16) 57... Rg1 (57... Rb1
+$1 $11) 58. Rd2 Re1 59. Kg2 Kg7 60. Ra2 Kf6 $1 61. Ra3 Kf7 62. f3 (62. Rb3 $16)
+62... Re2+ 63. Kg3 Kf6 64. Kh4 Re1 65. Ra6+ Kf7 66. Kg5 {Black should prevent
+Rf6+.} Rg1+ $1 67. Kh6 {Threatening h4.} Rg3 68. Ra7+ Kf6 $1 69. e4 {aiming
+for e5+.} Rxf3 70. e5+ Ke6 71. Ra6+ Ke7 72. Ra4 Rg3 $2 {[%mdl 8192]} (72... Kf7
+$11) 73. Ra7+ $18 {White is clearly winning.} Ke6 74. Ra6+ Kf7 75. Rf6+ Ke7 76.
+Rxg6 Rxh3 77. Kg5 {Accuracy: White = 73%, Black = 59%.} 1-0
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.28"]
+[Round "11.6"]
+[White "So, Wesley"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[WhiteElo "2776"]
+[BlackElo "2765"]
+[Annotator "TA"]
+[PlyCount "70"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,70,14,17,17,44,17,16,15,14,22,12,0,0,0,11,14,19,11,14,15,25,25,25,25,
+31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,0,31,31,31,0,31]
+} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Ne5 Nc6 8.
+Bxc6 bxc6 9. Nxc6 Qe8 10. Nxe7+ Qxe7 11. Qa4 e5 12. dxe5 {E05: Open Catalan: 5
+Nf3 Be7} Qxe5 13. Nc3 Ne4 14. Qxc4 Nxc3 15. bxc3 Be6 16. Bf4 Bxc4 17. Bxe5 {[#]
+} Rfe8 $146 ({Predecessor:} 17... c6 18. Rfe1 Rfe8 19. Bd4 Bxe2 {1/2-1/2 (28)
+Meier,G (2628)-Giri,A (2782) Dortmund 2018}) 18. Bxc7 Rxe2 19. a4 Rc8 20. Bf4
+Rc2 21. Rfc1 Rxc1+ 22. Rxc1 $11 {[%mdl 4096] Endgame KRB-KRB} a5 23. Rb1 f6 24.
+Rb8 Rxb8 25. Bxb8 $14 {KB-KB} Bb3 26. Bc7 Bxa4 27. Bxa5 Kf7 28. f3 Ke6 29. Kf2
+Kd5 30. Bb6 g6 31. Bd4 f5 32. Bh8 Bb5 33. Bd4 Ba4 34. Bg7 Bb5 35. Bd4 Ba4 {
+Accuracy: White = 62%, Black = 75%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.29"]
+[Round "12.1"]
+[White "Carlsen, Magnus"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2882"]
+[BlackElo "2805"]
+[Annotator "TA"]
+[PlyCount "68"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,68,8,1,-7,0,14,11,0,12,19,23,2,14,-11,-7,-10,-16,-29,-27,-29,-33,-56,
+-12,-14,-9,-46,-47,-46,-47,-60,-62,-70,-61,-65,-60,-71,-52,-69,-66,-62,-52,-68,
+-24,-24,-26,-98,-98,-98,-98,-98,-98,-98,-98,-98,-98,-98,0,-98,0,-98,0]} 1. d4
+Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. g3 dxc4 6. Ne5 {E01: Catalan: Early
+deviations} Nbd7 7. Nxc4 b5 8. Ne5 {The position is equal.} Nxe5 9. dxe5 Qxd1+
+10. Kxd1 Nd5 11. Ne4 Bb7 $146 {[%mdl 2048] Black is pushing.} ({Predecessor:} 
+11... f5 12. Nd2 Bb7 13. e4 Nb6 {1/2-1/2 (57) Rakhmanov,A (2629)-Timofeev,A 
+(2602) Sochi 2019}) 12. Bg2 c5 13. Bd2 Be7 14. Rc1 c4 15. Kc2 O-O-O 16. Rhd1 f5
+17. Nd6+ Bxd6 18. exd6 Rxd6 19. Bxd5 exd5 20. Bc3 Re8 21. e3 g5 22. Rd4 Re4 23.
+Rh1 Rh6 24. h4 Kd7 25. a3 g4 26. Rxe4 fxe4 $11 {[%mdl 4096] Endgame KRB-KRB}
+27. b4 (27. h5 $11 {remains equal.}) 27... Ra6 28. Kb2 h5 29. Rd1 Ke6 30. Rd2
+Bc6 31. Bd4 Be8 32. Bc3 Bc6 33. Bd4 $1 Be8 34. Bc3 $1 Bc6 {Accuracy: White =
+66%, Black = 63%.} ({Black should play} 34... Kd6 $17) 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.29"]
+[Round "13.1"]
+[White "Ding, Liren"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "E03"]
+[WhiteElo "2805"]
+[BlackElo "2882"]
+[Annotator "TA"]
+[PlyCount "69"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,69,13,16,7,21,21,2,14,19,0,11,0,0,0,0,0,0,0,0,-7,0,0,0,0,0,0,0,0,0,
+-15,0,-4,0,0,0,0,0,0,0,0,6,10,10,6,10,4,4,2,8,2,16,0,0,0,0,0,0,0,0,0]} 1. d4
+Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Nbd7 6. Qxc4 a6 {The position is
+equal.} 7. Be3 {E03: Open Catalan: 5 Qa4+ Nbd7 6 Qxc4} Bd6 8. Nh3 (8. Qc2 O-O
+9. Nh3 e5 10. O-O Ng4 11. Bg5 Qe8 12. dxe5 Ndxe5 13. Nc3 h6 14. Bf4 Nf6 {
+1-0 (55) So,W (2780)-Duda,J (2737) chess.com INT 2018}) 8... O-O 9. O-O h6 $146
+({Predecessor:} 9... Rb8 10. Rd1 Qe7 11. Qc2 b5 12. Nc3 Nb6 13. Ng5 Nc4 14. Bc1
+c5 15. dxc5 Bxc5 {1/2-1/2 (47) Astaneh Lopez,A (2433)-Hague,B (2405) Batumi
+2018}) 10. Nc3 b5 11. Qb3 Rb8 12. Nf4 Bb7 13. Bxb7 Rxb7 14. Nd3 Qe7 15. Rac1
+Rbb8 16. Rfd1 Rfc8 17. a3 c5 18. dxc5 Nxc5 19. Bxc5 Bxc5 20. Nxc5 Rxc5 21. Na2
+a5 22. Qe3 Rxc1 23. Nxc1 b4 24. axb4 Qxb4 25. Nd3 Qd6 26. Rc1 Nd5 27. Qd4 Qb6
+28. Rc5 Qb3 29. Kg2 Qb7 {[#] ( -> ...Nf4+!)} 30. f3 Qa6 31. Kf2 a4 32. Qc4 Qa7
+33. Qd4 {[#] And now Rc8+! would win.} Qa6 34. Qc4 Qa7 35. Qd4 {Accuracy:
+White = 75%, Black = 72%.} 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.29"]
+[Round "14.1"]
+[White "Ding, Liren"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[ECO "A13"]
+[WhiteElo "2805"]
+[BlackElo "2882"]
+[Annotator "TA"]
+[PlyCount "113"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,174,20,20,24,-5,63,68,76,70,92,92,98,106,121,118,127,128,121,101,97,
+97,96,95,96,95,100,99,103,86,104,62,62,74,63,55,58,58,58,60,60,60,60,57,57,57,
+74,60,60,60,60,56,83,54,57,55,69,72,75,11,11,12,123,120,134,147,137,105,113,58,
+769,107,421,210,210,206,450,450,450,427,324,0,241,163,223,231,217,215,202,191,
+190,146,428,417,907,852,29958,797,29964,29970,29963,9480,29983,29963,29959,
+29963,29974,29976,29975,29975,29967,29962,29953,337,337,337,324,278,278,278,
+278,278,278,103,103,0,278,263,256,0,250,249,5439,0,241,227,314,227,306,297,289,
+0,227,227,227,227,227,103,227,227,227,103,103,0,227,212,193,0,227,227,227,220,
+220]} 1. c4 Nf6 2. g3 e6 3. Bg2 d5 4. Nf3 dxc4 5. Qa4+ Nbd7 6. Qxc4 a6 7. Qc2
+c5 8. Nc3 Qc7 {A13: English Opening: 1...e6} 9. d4 cxd4 (9... b5 $11) 10. Nxd4
+$14 Bc5 {White is slightly better.} 11. Nb3 Bd6 12. O-O O-O 13. Rd1 $146 ({
+Predecessor:} 13. Be3 Ne5 14. Rac1 Neg4 15. Bg5 h6 16. Bxf6 Nxf6 {1/2-1/2 (49)
+Sargissian,G (2686)-Wojtaszek,R (2715) Dubai 2014}) 13... Be5 14. Be3 Nd5 15.
+Bxd5 exd5 16. Rac1 Nf6 17. Nxd5 Nxd5 18. Rxd5 Qxc2 19. Rxc2 Bf6 20. Nc5 Re8 21.
+Bd4 Be7 22. Re5 f6 23. Re3 $1 Bf5 24. Rd2 Bxc5 25. Rxe8+ Rxe8 26. Bxc5 {
+[%mdl 4096] Endgame KRB-KRB} Rc8 27. b4 a5 28. a3 {[%cal Ba2a3,Ba3b4][%mdl 32]}
+axb4 29. axb4 Rc7 30. f3 Rd7 31. Ra2 h5 32. Kf2 Kf7 33. h4 Be6 34. Ra8 b5 35.
+e4 Bc4 36. Ke3 (36. g4 $16) 36... Rd3+ $11 37. Kf4 Rd7 (37... Rb3 $11) 38. Rh8
+$16 Kg6 39. g4 $1 hxg4 40. fxg4 {Hoping for h5+.} Kf7 41. h5 ({Better is} 41.
+e5 $16) 41... Bb3 $2 {[%mdl 8192]} (41... g5+ $14 42. hxg6+ Kxg6) 42. e5 $2 (
+42. g5 $1 $18 {[%cal Rg5g6] is the precise move to win.} Ke6 43. g6) 42...
+fxe5+ $2 {[%mdl 8192]} (42... g5+ $16 43. Ke3 fxe5) 43. Kxe5 (43. Kf5 $142 {
+[%csl Gc5][%cal Rh8f8]} Bc2+ 44. Kxe5) 43... Rd5+ $18 44. Kf4 Rd1 $2 (44... Bc2
+{might work better.} 45. Rf8+ Ke6 46. Re8+ Kf7 47. Re7+ Kf6) 45. Rf8+ Ke6 46.
+Re8+ Kf7 47. Rf8+ Ke6 48. Kg5 Bc2 (48... Rd5+ {was necessary.} 49. Kf4 Rd7 50.
+Re8+ Kf7) 49. Re8+ Kf7 50. Re7+ Kg8 51. Rb7 Rd5+ 52. Kh4 Bd3 $2 {[%mdl 8192]} (
+52... g5+ $16 {keeps fighting.} 53. hxg6 Bxg6 54. Rxb5 Re5 55. Rb8+ Re8) 53. g5
+Rd8 (53... Bc4 $142 54. g6 Rd8) 54. g6 Bc4 {[#]} 55. Kg5 (55. Bd6 $142 $1 {
+[%mdl 512]} Be6 (55... Rxd6 56. Rb8+) 56. Re7 Bd5 57. Kg5 Kf8 58. Bc5 Bc4 59.
+Rd7+ Ke8 60. Rxg7 Rd5+ 61. Kh4) 55... Rd5+ 56. Kf4 Rd8 57. Bb6 {Played: Bc5-d6}
+1-0
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.29"]
+[Round "15.1"]
+[White "Carlsen, Magnus"]
+[Black "Ding, Liren"]
+[Result "0-1"]
+[ECO "C84"]
+[WhiteElo "2882"]
+[BlackElo "2805"]
+[Annotator "TA"]
+[PlyCount "80"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,80,22,14,20,22,18,4,22,15,29,16,0,0,0,0,14,0,0,0,0,-30,-29,-47,-42,
+-23,-21,-29,-11,-38,-24,-27,-15,-37,-10,-18,0,0,-16,-16,0,0,-4,-31,0,0,0,0,0,0,
+0,-10,-14,-159,-182,-292,-272,-295,-75,-84,-84,-84,-81,-82,-72,-598,-591,-1036,
+-1030]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6
+8. c3 Na5 {C84: Closed Ruy Lopez: Unusual White 6th moves} (8... O-O 9. Re1 Na5
+10. Bc2 c5 11. d4 Qc7 12. h3 cxd4 13. cxd4 Be6 14. Nbd2 Rac8 15. Bd3 Nc6 16. a3
+exd4 17. Nf1 Rfe8 18. Ng3 g6 {0-1 (48) Karjakin,S (2753)-Postny,E (2615) St
+Petersburg 2018}) (8... O-O 9. Re1 Na5 10. Bc2 c5 11. Nbd2 Re8 12. Nf1 Nc6 13.
+Ne3 Bf8 14. a4 b4 15. Nd5 h6 16. a5 Nxd5 17. exd5 Nxa5 18. Ba4 Re7 19. Nd2 Rb8
+20. c4 Nb7 21. Ne4 f5 22. Ng3 {1-0 (43) Carlsen,M (2837)-Ding,L (2774) Saint
+Louis 2017}) 9. Bc2 c5 10. d4 cxd4 {The position is equal.} 11. cxd4 O-O 12. h3
+Re8 $146 ({Predecessor:} 12... exd4 13. Nxd4 Bb7 14. Re1 Rc8 15. Nf5 Rc7 16.
+Bf4 {1/2-1/2 (25) Flach,H (1794)-Ehmann,J (1748) Willingen 2017}) 13. d5 Bd7
+14. Nc3 Qb8 15. Bd3 Rc8 16. Ne2 Nb7 {[%cal Ba5b7,Bb7c5,Bc5d3][%mdl 32]} 17. g4
+Nc5 18. Ng3 Nxd3 19. Qxd3 b4 20. Re1 Qb5 21. Qd1 Rc7 22. Be3 Rac8 23. Nd2 g6
+24. b3 Qb7 25. Nc4 Bb5 26. Na5 Qb8 27. Qd2 Rc3 $36 {[%mdl 2048] Black has the
+initiative.} 28. a3 bxa3 {[#]} 29. Nc6 $1 {[%mdl 512] [#]} Bxc6 $1 {[%mdl 512]}
+30. Qxc3 (30. dxc6 Qxb3) 30... Bxd5 $1 31. Qa5 Bxe4 ({But not} 31... Bxb3 $6
+32. Reb1 $16) 32. g5 Ba8 33. Qxa6 (33. gxf6 $11 Qb7 34. Kf1 Qg2+ 35. Ke2 Qf3+
+36. Kf1 Qg2+ 37. Ke2) 33... Nd5 $17 34. Ba7 (34. Bd2 $142) 34... Qc7 $19 {
+aiming for ...Nb4.} 35. Rec1 Qxc1+ $2 (35... Bc6 $19 {has better winning
+chances. Hoping for ...Qd7.} 36. Rxc6 Qxc6 37. Qxc6 Rxc6 38. Rxa3 Bxg5) 36.
+Rxc1 $17 Rxc1+ 37. Kh2 Bc6 38. Qxa3 Bxg5 {White must now prevent ...Bf4.} 39.
+Qxd6 $2 {[%mdl 8192] [#]} (39. Ne2 $17 {lives longer.} Re1 40. Qxd6) 39... Bf4
+$1 $19 40. Bc5 {[%csl Gc5][%cal Rd6f8] [#]} Ne7 $1 {[%mdl 512] Accuracy: White
+= 49%, Black = 57%.} 0-1
+

@@ -1,0 +1,188 @@
+[Event "Shahmat (IRT: 3rd prize)"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Afek, Yochanan"]
+[Black "Aloni, Hillel"]
+[Result "1-0"]
+[Annotator "Hornecker"]
+[SetUp "1"]
+[FEN "KB6/1P6/Bk6/8/4b3/1p6/8/3N4 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1980.??.??"]
+
+{This study (winning the 3rd prize in the "Israel Ring tourney" 1980, a
+tourney in which all endgame study columns in Israel chess magazines
+participate - to my knowledge from a few years ago only those in Shahmat and
+Variantim exist nowadays) is commented by Afek in Variantim: "White [with]
+huge material advantage is in danger. A vigorous action is called for." It is
+easy to see that White can draw easily, but how can he win facing the threat
+of K:a6? So: White to move and win! First White forces the bishop to move,
+winning a tempo. But it is not yet clear what is the plan.} 1. Nc3 Bc6 {Black
+protects a4, but White has a tactical trick that allows him to sacrifice the
+knight and apparently win easily by promotion.} 2. Na4+ Bxa4 {Maybe now the
+conundrum is visible. Black can always win the queen if White promotes. Black
+just takes the bishop on a6 and then gives a check on c6. However, White has a
+trick.} ({If Black takes, White protects everything and wins with bishop and
+knight, for example} 2... Kxa6 3. Nc5+ Kb6 4. Ba7+ Kc7 5. Na6+ Kd6 {and after
+these only winning moves, White has multiple winning moves. He can either give
+a check first or directly stop the pawn:} 6. Bd4 $18) 3. Bb5 $1 Bxb5 {What has
+changed? Black still will go to a6 and then give the check on c6 if White
+promotes to a queen.} ({It is important to note that} 3... Kxb5 4. Ka7 $3 $18 {
+wins, as White will promote with a skewer. Example line:} b2 5. Be5 b1=Q 6.
+b8=Q+ $18) 4. Bc7+ Ka6 {As I said, if White promotes to a queen. There is, of
+course, nothing that enforces this. I will not get into the semantics here if..
+.} 5. b8=N# {...is an underpromotion or not, as the knight just so happens to
+attack a6 while the queen wouldn't. Now we can see that this is actually a
+logical study (in the problem terminus). The thematic try would be 3.Bc7+ Ka6
+4.b8N+, failing to 4.-Kb5. By sacrificing the bishop on b5 Black has to defend
+by blocking the square, preventing the king from escaping. The authors, of
+course, presented it as an endgame study where this detail would be mentioned
+nowa days but not nearly fourty years ago. Interested readers will be able to
+read an article on study theory next month. Breaking the usual format, I will
+present some studies - mostly from contemporary composers - with thematic
+wrong tries in this column.} (5. b8=Q $2 Bc6+ $11 {is merely the Q.E.D. now.})
+1-0
+
+[Event "L'Italia Scacchistica, 1st/2nd hon. m."]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Aloni, Hillel"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Hornecker"]
+[SetUp "1"]
+[FEN "3B4/pr1Pp1p1/Kn3k2/1P6/4b3/6R1/8/8 w - - 0 1"]
+[PlyCount "18"]
+[EventDate "1962.??.??"]
+
+{The position stems from an earlier study of Aloni (Tijdschrift van den KNSB,
+December 1959) that had not the pawn on b5 (or g7, see below). There was a
+surprise draw to be avoided to win. Originally it was published with exchanged
+colors there, but in this one move longer version also reprinted with these
+colors in the L'Italia Scacchistica as a twin study to this one. With Pb5, the
+position can be held: White to move and draw.} 1. Bxe7+ Kxe7 2. Rxg7+ (2. Re3
+$2 Rxd7 3. Rxe4+ Kf6) 2... Kd8 3. Rg8+ Kxd7 4. Rg7+ Kc8 $1 {Giving perpetual
+check on g7 and g8 won't work as the knight can interfere, so White must trade
+rooks:} (4... Kd6 5. Rxb7 Bxb7+ 6. Kxb7 $11 ({The original study (without Pb5)
+had} 6. Kxa7 {(here a draw also) which featured the draw after} Kc7 $11 {as
+thematic try, as without Pb5 the solution was Kc6, winning. Adding the pawn
+enabled additional stalemate ideas, as seen in the main variation.})) 5. Rxb7
+Bxb7+ 6. Kxa7 Nd7 (6... Kc7 $11) 7. b6 Bd5 {(Black again avoids stalemate that
+would happen if the knight moves to any other square than b6)} 8. b7+ Kc7 (8...
+Bxb7 $11) 9. b8=Q+ Nxb8 {and Black is forced to stalemate. While the play is
+forced, it still has a certain humor with the multiple stalemate ideas.  Sadly
+bPg7 had to be added to the initial position to avoid a dual, the correction
+by Mario Guido Garcia appeared in Estudios Artisticos de Ajedrez 2015.} 1/2-1/2
+
+[Event "Shahmati Sahs, 2nd honorable mention"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Aloni, Hillel"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Hornecker"]
+[SetUp "1"]
+[FEN "4B1N1/6n1/8/6p1/6kP/8/5K2/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1960.??.??"]
+
+{Of course, fun can also be had in short studies. It is not difficult but fun
+to see the objective here being fulfilled: White to move and win.} 1. h5 $1
+Nxh5 ({Black only has two choices. He can take the pawn or bishop. Taking the
+bishop loses to a fork:} 1... Nxe8 2. h6 Nd6 3. h7 Nf7 4. Nh6+ $1 $18) {Taking
+the pawn however sets a mechanism in motion that ends with checkmate if Black
+keeps on defending his knight:} 2. Nh6+ Kh4 3. Nf5+ Kg4 4. Ne3+ Kh4 5. Ng2+ Kg4
+6. Bd7# {Simple, yet beautiful. Just like the studies of Ernest Pogosyants.
+Speaking of him, Aloni did take some liberty there also (see next two studies).
+} 1-0
+
+[Event "Prapor Junosti (Dnetropetrovsk)"]
+[Site "?"]
+[Date "1976.12.23"]
+[Round "?"]
+[White "Pogosyants, Ernest"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Hornecker"]
+[SetUp "1"]
+[FEN "8/1kP5/8/3K4/8/8/8/7B w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1976.??.??"]
+
+{This study has only the black king, which is a theme in 135 endgame studies
+in the October 2015 database by Harold van der Heijden "hhdbv". 49 other
+endgame studies there feature only the white king against a black army. White
+to move and win.} 1. Kd6+ Kc8 2. Bb7+ $1 Kxb7 3. Kd7 $18 {A simple study, but
+with introduction and climax - how do you avoid stalemate? Only by sacrificing
+the bishop!} 1-0
+
+[Event "Shahmat (IRT: 2nd honorable mention)"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Aloni, Hillel & Yoel"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Hornecker"]
+[SetUp "1"]
+[FEN "k7/2r5/2P5/1P1K4/8/8/7p/7B w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1978.??.??"]
+
+{The both Aloni brothers won the 2nd honorable mention in the Israel Ring
+Tourney 1978-1979 with this study. After the introduction the same position as
+in Pogosyants' study is reached, but with an additional Ph2, changing the
+solution. White to move and win.} 1. b6 ({Of course the pawns must march. The
+only question is if the kings should move first, but this runs into a defense
+based on two stalemates:} 1. Kd6 $2 Kb8 (1... Rc8 $2 2. b6 $18) 2. b6 Rb7 $1 3.
+c7+ Kc8 4. Bxb7+ (4. Kc6 Rxc7+ 5. bxc7 $11) 4... Kxb7 5. Kd7 h1=Q 6. c8=Q+ Kxb6
+$11) 1... Rh7 2. c7 ({Yes, the pawns look scary, but after} 2. Kd6 $2 Rh6+ $11
+{there is no win. The black king can go to b8 when necessary to draw.}) 2...
+Rxc7 $1 (2... Kb7 3. Kd6+ Kc8 4. b7# {is a nice checkmate.}) 3. bxc7 (3. Kd6+
+$2 Rb7 $11) 3... Kb7 {The Pogosyants study is reached, but with an additional
+pawn on h2. This will prevent the sacrifice on b7, so only the endgame of
+queen and bishop against queen offers chances.} 4. Kd6+ Kc8 5. Bc6 $1 ({
+Notably, other moves don't win:} 5. Bd5 $2 h1=Q 6. Be6+ Kb7 7. c8=Q+ Ka7 8.
+Qc5+ Kb8 9. Qc7+ Ka8 10. Bd5+ Qxd5+ 11. Kxd5 $11 {But this should get us to
+the right track. If in the end the bishop would give a check on c6...}) 5...
+h1=Q 6. Bd7+ Kb7 7. c8=Q+ Ka7 8. Qc5+ $1 Kb8 9. Qc7+ Ka8 10. Bc6+ Qxc6+ 11.
+Qxc6+ $18 {Additional content is added with the pawn on b2 - an examination of
+Pogosyants' position led to this discovery - but additional valuable ideas
+were added in the introduction. A fine work of the both brothers.} ({The final
+stalemate has to be avoided.} 11. Kxc6 $2 $11) 1-0
+
+[Event "Magyar Sasskélet, 3rd honorable mention"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Hoch, Yehuda"]
+[Black "Aloni, Hillel"]
+[Result "1/2-1/2"]
+[Annotator "Hornecker"]
+[SetUp "1"]
+[FEN "R7/2p5/1k6/1p5B/1p2R2N/1K6/r5pr/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1978.??.??"]
+
+{Yehuda Hoch, born in 1946, is another study composer from Israel of the
+highest value. While it would go beyond this article, his jubilee tourney in
+2017 spawned beautiful study, including a winner by Gady Costeff where two
+black queens(!) obstruct each other by zugzwang. http://www.arves.org/arves/
+index.php/en/awards/awards-replayable/1349-yehuda-hoch-70-jt-2016 - In the
+study here, chosen for its humorous final position, White is to move and draw,
+} 1. Rb8+ $1 ({White must get rid of Pg2, but not allow Black to capture his
+rook while saving Ra2.} 1. Nxg2 $2 Rxa8 $19) (1. Rxa2 $2 g1=Q $19) 1... Ka7 2.
+Nxg2 ({Importantly, "stopping" the pawn won't stop it.} 2. Nf3 $2 g1=Q 3. Nxg1
+Rhb2# {You probably know the problem term for this already, it is... a
+checkmate!}) 2... Ra3+ (2... Raxg2 $2 3. Rxb5 $11) 3. Kxb4 Ra4+ 4. Kxb5 Rxe4 {
+Sadly Black captured on e4. This would not be bad if not all three pieces were
+hanging for White. He might not be able to save all, but he can set something
+up.} 5. Ra8+ $1 Kxa8 6. Bf3 c6+ {Black unpins himself - and wins?} 7. Kxc6 $11
+{Please take a moment to study this position. Try to find a square for Re4. Of
+the 14 available squares, six are attacked immediately. Eight more are
+controlled by the king's discovered check. The empty board is too full for the
+rook.} 1/2-1/2
+

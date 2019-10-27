@@ -1,0 +1,41 @@
+[Event "Gibraltar Masters 2019"]
+[Site "Caleta"]
+[Date "2019.01.25"]
+[Round "4.62"]
+[White "Sosa, Tomas"]
+[Black "Dhulipalla Bala Chandra Prasa"]
+[Result "*"]
+[ECO "C95"]
+[WhiteElo "2499"]
+[BlackElo "2341"]
+[Annotator "Karsten Mueller"]
+[SetUp "1"]
+[FEN "8/8/r5p1/2k3p1/4P3/p6P/R4KP1/8 w - - 0 54"]
+[PlyCount "10"]
+[EventDate "2019.??.??"]
+[SourceTitle "1018"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+54. Kf3 {In the endgame kings should get active. But sometimes it is not clear
+which way the king should take to make the maximum of its activity.} {[%tqu
+"En","Black to play and win","","","c5b4","",0,"a6a5","",9,"c5d4","",0,"De",
+"Schwarz zieht und gewinnt","","","c5b4","",0,"a6a5","",9,"c5d4","",0]} Ra5 $3
+{The black king must remain flexible to stop the white king:} ({In the game
+Black played} 54... Kb4 $2 {but now White's counterplay is fast enough.} 55. e5
+Kb3 56. Ra1 Ra4 57. g3 $2 {White has no time for such a move.} ({The immediate
+} 57. e6 {leads to a draw:} Rf4+ 58. Kg3 Re4 (58... a2 59. Re1 Ra4 60. e7 Ra8
+61. Kg4 Re8 62. Re3+ $11) 59. Rb1+ Kc2 60. Rb6 a2 61. Ra6 $11) 57... g4+ $5 {
+Blocking the way for White's king.} (57... a2 {is also playable but after} 58.
+e6 {Black still has to follow up with} g4+ $19) 58. hxg4 a2 59. e6 Ra6 60. Re1
+(60. e7 Re6 $19) 60... a1=Q (60... Rxe6 $6 61. Rxe6 a1=Q 62. Rxg6 Qf1+ $19 {
+also wins but is bad technique.}) 61. Rxa1 Rxa1 62. Ke4 Kc4 $1 {Bodycheck} 63.
+Ke5 Kc5 64. Kf6 Kd6 65. g5 Ra7 66. g4 Re7 67. Kxg6 Kxe6 68. Kh6 Kf7 {0-1 and
+White resigned.}) (54... Kd4 $2 55. Kg4 Ra5 (55... Kxe4 56. Kxg5 Kd4 57. h4 Kc4
+58. g4 Kb3 59. Rxa3+ Kxa3 60. h5 $11) 56. e5 Kxe5 57. Kxg5 Ra6 58. h4 $11) 55.
+e5 (55. Kg4 Kb4 56. Ra1 Kb3 (56... a2 $2 57. e5 Kb3 58. e6 Re5 59. e7 Kb2 60.
+Rf1 a1=Q 61. Rxa1 Kxa1 62. e8=Q Rxe8 63. Kxg5 Re6 64. h4 Kb2 65. g4 Kc3 66. h5
+gxh5 67. gxh5 Kd4 68. h6 Ke5 69. h7 Re8 70. Kg6 $11) 57. Rb1+ Kc2 58. Ra1 Kb2
+59. Rf1 a2 60. Rf2+ Kc3 61. Rxa2 Rxa2 62. Kxg5 Rxg2+ $19) 55... Ra4 56. e6 Kd6
+57. Re2 Ke7 58. Ra2 Kxe6 $19 *
+

@@ -1,0 +1,3263 @@
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.1"]
+[White "Sarana, Alexey"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2655"]
+[BlackElo "2876"]
+[Annotator "TA"]
+[PlyCount "103"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 28,103,47,41,41,41,41,41,41,41,39,44,39,46,46,43,43,38,38,39,26,20,31,
+30,31,31,28,31,26,24,31,33,31,29,33,32,51,29,23,39,56,56,56,56,56,56,56,56,56,
+56,56,56,56,56,56,56,69,69,69,69,69,69,69,69,69,68,68,64,69,69,69,69,69,69,69,
+69,69,69]} 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7.
+Bg5 a6 8. Na3 b5 9. Bxf6 gxf6 10. Nd5 Bg7 11. Bd3 Ne7 12. Nxe7 Qxe7 13. c4 ({
+Predecessor:} 13. O-O O-O 14. c4 {1/2-1/2 (43) Baufays,H (2343)-Salcedo
+Mederos,P (2355) ICCF email 2014}) 13... f5 14. O-O O-O 15. Qh5 d5 {B33:
+Sicilian: Pelikan and Sveshnikov Variations} 16. cxd5 Qd8 17. exf5 Qxd5 18.
+Rad1 $146 (18. Qe2 Bb7 19. f3 e4 20. Bxe4 Qd4+ 21. Rf2 Bxe4 22. fxe4 Rfe8 23.
+Re1 {0-1 (32) Tari,A (2623)-Vorobiov,E (2556) Teplice 2019}) 18... e4 19. Bxb5
+$1 Qxf5 20. Qxf5 Bxf5 21. Bd7 Bxd7 22. Rxd7 Bxb2 23. Nc4 Bg7 24. g3 Rfd8 25.
+Rfd1 Rxd7 26. Rxd7 $11 {[%mdl 4096] Endgame KRB-KRN} Rc8 27. Nd6 Rc1+ 28. Kg2
+Rc2 {[#] aiming for ...e3.} 29. Nxe4 Rxa2 30. Rd8+ Bf8 31. Nf6+ Kg7 32. Nh5+
+Kg8 $1 33. g4 a5 {White is slightly better.} 34. g5 a4 35. h4 {Threatens to
+win with Nf6+.} Rb2 36. Nf6+ Kg7 37. h5 Rb5 $1 {[%cal Rb5g5]} 38. f4 $1 h6 $1
+39. Ng4 $1 Ba3 40. Nxh6 {Hoping for Rd7!} Be7 $1 {[%cal Re7d8]} 41. Rd7 $1 {
+[%cal Rd7e7]} Bxg5 {[%mdl 64] [#] Double Attack} 42. Nxf7 Rb2+ 43. Kf3 Bxf4 $1
+44. Ne5+ Kh6 45. Kxf4 $14 {Black must now prevent Rd5. KRN-KR} a3 46. Rd5 Rb4+
+47. Kg3 a2 48. Ra5 {Ng4+ is the strong threat.} a1=Q 49. Rxa1 Kxh5 50. Ra5 {
+Threatening mate with Nc6+.} Rb1 51. Kf4 Rf1+ 52. Nf3+ {Accuracy: White = 100%,
+Black = 96%.} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.1"]
+[White "Safarli, Eltaj"]
+[Black "Rodshtein, Maxim"]
+[Result "*"]
+[ECO "B13"]
+[WhiteElo "2593"]
+[BlackElo "2684"]
+[Annotator "TA"]
+[PlyCount "40"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,40,17,20,14,14,12,18,23,25,34,41,17,25,25,29,19,23,20,24,8,6,14,10,0,
+16,0,36,42,40,42,283]} 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6.
+Ne2 Bg4 7. O-O {B13: Caro-Kann: Exchange Variation and Panov-Botvinnik Attack}
+e6 8. Qe1 Be7 9. Bf4 {The position is equal.} Qd7 $146 ({Predecessor:} 9... Qb6
+10. Nd2 Nf6 11. Rb1 O-O 12. Ng3 g6 13. f3 Bf5 14. Nxf5 exf5 {0-1 (39)
+Blomqvist,E (2488)-Andreikin,D (2725) Astana 2019}) 10. Ng3 Nf6 11. Bg5 {
+Bxf6 is the strong threat.} Nh5 12. Nxh5 Bxh5 13. Bxe7 Qxe7 14. Nd2 {[%cal
+Bb1d2,Bd2f3,Bf3g5][%mdl 32]} Bg6 15. Qe3 Bxd3 16. Qxd3 O-O 17. f4 g6 18. Nf3
+Rac8 19. Rae1 Qd6 20. Ng5 {[#] And now Qh3 would win.} Kg7 $2 {Accuracy: White
+= 66%, Black = 63%.} (20... Nd8 $14) *
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.2"]
+[White "Caruana, Fabiano"]
+[Black "Sevian, Samuel"]
+[Result "1-0"]
+[ECO "A20"]
+[WhiteElo "2812"]
+[BlackElo "2654"]
+[Annotator "TA"]
+[PlyCount "105"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,105,16,16,14,5,9,18,0,17,-18,-11,-14,-11,0,49,49,49,46,47,48,64,41,
+55,70,67,42,36,36,66,63,65,60,48,28,60,58,50,62,91,103,99,91,170,174,170,173,
+161,150,185,195,183,104,112,97,102,97,95,94,161,159,167,150,174,145,166,122,
+124,124,124,126,131,127,146,147,229,145,342,339,779,779,758,670,2182,1939,
+29992,29993,29993,29994,29994,29995,29995,29995,29996,29997,29997,29998]} 1. c4
+e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nf3 Nc6 6. O-O Nb6 7. b3 {A20: English
+Opening: 1...e5} Be7 {Threatening ...e4.} 8. Bb2 f6 $1 9. Na3 $146 {The
+position is equal.} ({Predecessor:} 9. d3 O-O 10. Nbd2 Be6 11. Rc1 Qd7 12. Ne4
+Rad8 13. Qc2 Nd5 14. Rfd1 a5 15. a3 Kh8 16. d4 f5 17. Nc5 Bxc5 18. Qxc5 e4 19.
+Ne5 Nxe5 20. dxe5 b6 {1/2-1/2 (67) Le,Q (2714)-Giri,A (2783) St Petersburg 2018
+}) 9... Be6 10. Nc2 O-O 11. e4 Qd3 12. Re1 Rad8 13. Bf1 Qd7 14. d4 exd4 15.
+Ncxd4 Bg4 16. Qc2 Nxd4 17. Nxd4 Rfe8 18. Rac1 c6 19. b4 {[%cal Bb3b4,Bb4b5]
+[%mdl 32]} Kh8 20. b5 {[%cal Rb5c6]} c5 21. Nf5 Bf8 22. h3 Bxf5 23. exf5 Rxe1
+24. Rxe1 c4 {[#]} 25. a4 $1 Bb4 26. Re4 Qd2 (26... Bc5 $16) 27. Qxd2 $18 Bxd2
+28. Bxc4 Nxa4 29. Ba3 Nb6 30. Bb3 Nc8 {[#]} 31. Bd5 ({White should play} 31.
+Ra4 $1 $18) 31... a6 32. b6 Nxb6 33. Bxb7 a5 34. Bc5 Na8 (34... Nc8 $16 {
+was worth a try.}) 35. Rc4 Bb4 36. Be3 h6 37. h4 Kh7 38. g4 Rb8 39. Be4 Nb6 40.
+Rc7 Na4 41. g5 {gxf6 is the strong threat.} Nc3 42. Bf3 {Threatens to win with
+gxf6.} Nb5 (42... hxg5 $16 {keeps fighting.} 43. hxg5 Nb5) 43. Rd7 {aiming for
+gxf6.} hxg5 $2 (43... Kh8 $16) 44. hxg5 Kh8 $2 (44... fxg5 45. f6 (45. Bxg5 Nc3
+$16) 45... Re8) 45. g6 Nc3 46. Bd2 a4 47. Rd3 a3 48. Bxc3 {White mates.} Bxc3
+49. Bd5 {[%cal Rd3h3]} Bd2 50. Rxd2 Rb1+ 51. Kg2 a2 {[#]} 52. Bb3 $1 {[%cal
+Rd2d8][%mdl 512]} Rg1+ (52... Rxb3 53. Rd8#) 53. Kf3 {Accuracy: White = 68%,
+Black = 46%.} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.2"]
+[White "McShane, Luke J"]
+[Black "Lu, Shanglei"]
+[Result "*"]
+[ECO "B26"]
+[WhiteElo "2682"]
+[BlackElo "2602"]
+[Annotator "TA"]
+[PlyCount "31"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,31,-18,26,30,55,65,65,68,59,70,67,67,61,56]} 1. e4 c5 2. Nc3 Nc6 3.
+g3 g6 4. Bg2 Bg7 5. d3 e6 6. Be3 Nd4 7. Qd2 Qa5 8. Nh3 d6 9. O-O Ne7 10. f4 O-O
+11. Nd5 {B26: Closed Sicilian: 3 g3, lines with early Be3} (11. g4 f5 {1/2-1/2
+(11) Cao,S (2389)-Nguyen,H (2416) Hanoi 2017}) 11... Nec6 {[#] aiming for ...
+Qxd2.} 12. Ne7+ $1 {[%mdl 512] White is slightly better.} Kh8 {Strongly
+threatening ...Qxd2.} (12... Nxe7 13. Qxa5) 13. Nxc8 $146 ({Predecessor:} 13.
+Nxc6 Qxd2 14. Bxd2 Nxc6 15. c3 Rb8 16. Be3 b6 17. Ng5 {1/2-1/2 (17) Fink Nunn,
+P-Belic,J (2160) Dortmund 1987}) 13... Qxd2 14. Bxd2 Raxc8 15. c3 Nb5 $1 16. f5
+*
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.3"]
+[White "Oparin, Grigoriy"]
+[Black "Yu, Yangyi"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2654"]
+[BlackElo "2763"]
+[Annotator "TA"]
+[PlyCount "49"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,49,6,1,2,16,0,11,0,0,0,0,0,18,0,6,0,0,-12,0,0,0,0,34,0,7,0,0,0,0,-22,
+-14,-13,0,0,0,0,0,0,0,0,0,0]} 1. Nf3 d5 2. e3 Nf6 3. c4 g6 (3... e6 4. Nc3 b6
+5. Qa4+ c6 6. Be2 Bd6 7. d3 O-O 8. e4 dxe4 9. dxe4 Qc7 10. c5 bxc5 11. O-O Nbd7
+12. g3 Ne5 {0-1 (34) Firouzja,A (2702)-Ding,L (2811) Khanty-Mansiysk 2019}) 4.
+Nc3 Bg7 5. b3 O-O 6. Bb2 {A06: Réti Opening:1 Nf3 d5} e6 7. Rc1 b6 8. cxd5 $146
+({Predecessor:} 8. d4 Bb7 9. Bd3 Nbd7 10. cxd5 Nxd5 11. Nxd5 Bxd5 12. O-O {
+1-0 (46) Yakubboev,N (2482)-Shanya,M (1922) Sharjah 2018}) 8... exd5 9. d4 Bb7
+10. Bd3 a6 11. Ne5 Nbd7 12. f4 c5 13. O-O cxd4 14. exd4 b5 15. Qe2 Re8 16. Nd1
+Ne4 {The position is equal.} 17. Ne3 (17. Bxe4 $5 dxe4 18. Ne3 $11) 17... Ndf6
+18. g4 Nd6 19. g5 Nfe4 20. Rc2 $1 b4 21. Rfc1 Qb6 22. Rc5 Qd8 23. R5c2 ({
+Much weaker is} 23. Nxd5 Nxc5 24. Rxc5 Rc8 $17) 23... Qb6 24. Rc5 Qd8 25. R5c2
+{Accuracy: White = 62%, Black = 68%.} ({But not} 25. Nxd5 Nxc5 26. Rxc5 Rc8 $17
+) 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.3"]
+[White "Puranik, Abhimanyu"]
+[Black "Korobov, Anton"]
+[Result "0-1"]
+[ECO "E63"]
+[WhiteElo "2571"]
+[BlackElo "2679"]
+[Annotator "TA"]
+[PlyCount "96"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,96,35,10,25,13,3,9,9,0,7,8,8,11,0,-19,-15,-14,-12,-24,-20,-35,-30,
+-35,-24,-26,0,-16,15,-37,-32,-82,-77,-74,-2,-2,-10,-69,-64,-67,-68,-63,-62,-61,
+-68,-63,-29,-29,-39,-31,-27,-90,-89,-88,-88,-78,-70,-205,-208,-201,-190,-210,
+-213,-212,-219,-215,-209,-218,-212,-197,-197,-197,-190,-424,-406,-429,-403,
+-399,-297,-557,-529,-5594,-5081,-1487,-1419]} 1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4.
+O-O O-O 5. d4 d6 6. c4 Nc6 7. Nc3 a6 8. h3 Bf5 {E63: King's Indian: Fianchetto:
+Panno Variation with 7...a6} (8... Bd7 9. e4 e5 10. dxe5 dxe5 11. Be3 Be6 12.
+Qa4 h6 13. Rad1 Qb8 14. Rfe1 Rd8 15. c5 Qa7 16. b4 Rac8 17. a3 Qb8 18. Qc2 Rxd1
+19. Rxd1 {0-1 (58) Khismatullin,D (2634)-Fedoseev,V (2707) Satka 2018}) 9. d5
+Na5 10. Nd4 Bd7 {The position is equal.} 11. Qd3 c5 12. dxc6 Nxc6 13. Nxc6 Bxc6
+14. e4 $146 ({Predecessor:} 14. Be3 Bxg2 15. Kxg2 Qd7 16. Bd4 {0-1 (60) Veech,
+J (2108)-Zapata,A (2477) Philadelphia 2011}) 14... Nd7 15. Bg5 b5 16. cxb5 axb5
+17. Qd2 b4 18. Nd5 Bxd5 $1 19. exd5 Qb6 20. Rfe1 Rfc8 21. Be3 (21. Rxe7 $11 b3
+22. Rxd7 bxa2 23. Qf4 Qxb2 24. Qxf7+ Kh8 25. Rxa2 Rxa2 26. Be3) 21... Qb5 $15
+22. Bd4 Bxd4 23. Qxd4 Ne5 (23... Rc2 $17) 24. f4 $11 Qd3 25. Qe4 ({White
+should try} 25. Rad1 $11 Nf3+ 26. Bxf3 Qxf3 27. Rd3) 25... Qxe4 $15 26. Rxe4
+Nd3 27. Bf1 Nxb2 28. Rxb4 Na4 $1 29. Rb7 Kf8 30. Re1 Nc5 31. Rbxe7 Rxa2 {
+aiming for ...Ne6.} 32. Bb5 (32. R1e2 $11 {remains equal.}) 32... Ne6 $36 {
+[%mdl 2048] Black is really pushing.} 33. dxe6 Kxe7 34. exf7+ {[%mdl 4096]
+Endgame KRR-KRB} Kf6 $1 {[%cal Rf6g7] And now ...Kg7 would win.} 35. Bc6 (35.
+Bc4 $1 $15 Raa8 36. Bd5) 35... Rb8 $1 $19 36. Bb7 {Strongly threatening Re8.}
+Rf8 $1 37. Bd5 Rd2 38. Re8 Kg7 39. Be6 {[#]} Rb2 $1 40. Bd5 Rb5 41. Bc4 Rc5 42.
+Be6 {[#]} Ra5 $1 43. g4 $2 (43. Kf2) 43... Ra8 44. Rxf8 Kxf8 45. Kf2 Ke7 46. f5
+$2 (46. Bd5 {was forced.} Ra4 47. Kg3) 46... g5 {Black is clearly winning.} 47.
+h4 gxh4 48. g5 Ra3 {Accuracy: White = 35%, Black = 76%.} 0-1
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.4"]
+[White "Ponomariov, Ruslan"]
+[Black "Yilmaz, Mustafa"]
+[Result "*"]
+[ECO "E51"]
+[WhiteElo "2675"]
+[BlackElo "2595"]
+[Annotator "TA"]
+[PlyCount "33"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,33,0,5,0,0,0,0,0,12,5,0,12,2,10,4,-13,-22,-25,-16,-25,-7,0]} 1. d4
+Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd2 d5 6. Nf3 b6 7. cxd5 exd5 8. Rc1 {
+E51: Nimzo-Indian: Rubinstein: 4...0-0 5 Nf3 d5} (8. Bd3 Bb7 9. O-O Bd6 10. Rc1
+c5 11. Ne5 Nc6 12. Ng4 Nxg4 13. Qxg4 c4 14. Bb1 Ne7 15. Nb5 f5 16. Qe2 a6 17.
+Nxd6 Qxd6 18. f3 b5 19. Be1 Ng6 20. Ba5 Ne7 21. Be1 Ng6 22. Ba5 Ne7 23. Be1 {
+1/2-1/2 (23) Nakamura,H (2743)-Giri,A (2779) Saint Louis 2019}) 8... Bb7 9. Bd3
+Be7 10. O-O c5 11. Ne5 Nc6 12. Be1 a6 13. f4 cxd4 14. Nxc6 $146 ({Predecessor:
+} 14. Ne2 Rc8 15. Nxc6 Rxc6 16. Rxc6 Bxc6 17. Nxd4 {1/2-1/2 (29) Liebhart,E 
+(2341)-Jonsson,B ICCF email 2015}) 14... Bxc6 15. Ne2 Bd7 16. Nxd4 Re8 17. Qf3
+*
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.4"]
+[White "Motylev, Alexander"]
+[Black "Artemiev, Vladislav"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "2651"]
+[BlackElo "2746"]
+[Annotator "TA"]
+[PlyCount "67"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,67,22,44,37,55,27,46,48,39,40,35,4,6,3,25,0,17,0,0,0,0,0,11,0,14,0,0,
+-11,-11,-15,0,0,0,-55,0,0,0,0,0,0,0,-6,0,0,0,0,20,18,24,13,26,29,39,40,40,20,
+19,17,26,6]} 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nh6 6. O-O {B12:
+Caro-Kann: Advance Variation} Bg6 7. c3 Be7 8. Bxh6 {White is slightly better.}
+gxh6 9. Qc1 $146 ({Predecessor:} 9. g3 O-O 10. Nbd2 a5 11. Ne1 c5 12. h4 cxd4
+13. h5 {1-0 (23) Giri,A (2734)-Topalov,V (2767) Beijing 2013}) 9... h5 10. c4
+dxc4 11. Bxc4 Nd7 12. Nc3 Qc7 13. Qf4 Nb6 14. Bb3 O-O-O 15. Rac1 Kb8 16. Rfd1
+Qd7 17. Nh4 Rhf8 18. Nxg6 hxg6 19. Ne4 Qc7 20. Qf3 Nd5 21. Nc3 (21. Bxd5 $11
+Rxd5 22. Rc2) 21... Qb6 (21... f6 $15 22. Qe4 Nxc3 23. bxc3 fxe5) 22. h3 $11
+Qb4 23. Ne4 Nc7 24. Rc4 Qb6 25. Rd3 Nd5 26. Rd1 Rd7 27. Rc2 {[%cal Bc4c2,Bc2d2,
+Bd2d3][%mdl 32]} Qa5 28. a3 Nc7 29. Bc4 Nb5 30. Rcd2 a6 31. Rd3 Qd8 32. Nc5
+Bxc5 $1 33. dxc5 Rxd3 $1 34. Rxd3 {Accuracy: White = 47%, Black = 53%.} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.5"]
+[White "Melkumyan, Hrant"]
+[Black "Vitiugov, Nikita"]
+[Result "1/2-1/2"]
+[ECO "D24"]
+[WhiteElo "2650"]
+[BlackElo "2732"]
+[Annotator "TA"]
+[PlyCount "85"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,85,16,9,-8,-8,-8,-1,-4,-10,-4,3,6,6,0,13,0,10,8,10,6,11,8,12,0,5,11,
+41,0,0,0,55,74,47,19,23,25,35,0,44,45,52,29,29,37,42,6,6,6,3,3,3,3,2,0,0,0,0,0,
+0,0,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,0]} 1. d4 Nf6 2. c4 e6
+3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bxc4 {D24: Queen's Gambit Accepted: 3 Nf3
+Nf6 4 Nc3} Nxe4 7. O-O Nxc3 (7... Nf6 8. Qa4+ Nc6 9. Ne5 Bd6 10. Nxc6 bxc6 11.
+Qxc6+ Bd7 12. Qf3 O-O 13. Bg5 Rb8 {1-0 (45) Giri,A (2780)-Duda,J (2730) chess.
+com INT 2019}) 8. bxc3 {The position is equal.} Be7 9. Ne5 O-O 10. Qg4 Nc6 11.
+Bf4 Nxe5 12. dxe5 f5 13. exf6 $1 Bxf6 {[#]} 14. Rad1 $146 Qe7 15. Qg3 Rf7 16.
+Rfe1 Rb8 (16... Bxc3 $5 17. Re4 Bf6 $11) 17. Qe3 b5 18. Bb3 Rb6 19. c4 c5 (
+19... bxc4 $11 20. Bxc4 c5) 20. cxb5 $14 Bd4 21. Qg3 (21. Qc1 $5 {[%cal Rd1d4]}
+Bxf2+ 22. Kxf2 $11) 21... Rxb5 22. Be3 Qf6 23. f3 Bxe3+ 24. Rxe3 g6 25. Qd6 {
+[#] Strongly threatening Qd8+.} Kg7 $1 26. Qc6 ({Wrong is} 26. Bxe6 $2 Rb6 $19)
+26... Qg5 $1 {[%cal Rg5e3]} 27. Re4 Rxb3 28. axb3 Bb7 29. Qxe6 {[#] Rd7 is the
+strong threat.} Bxe4 30. Qxe4 $11 {[%mdl 4096] Endgame KQR-KQR} Re7 31. Qd3
+Qe3+ 32. Qxe3 Rxe3 {KR-KR} 33. Rc1 Rxb3 34. Rxc5 h5 35. Rc7+ {White has an
+edge.} Kh6 36. Rxa7 h4 37. h3 Rb1+ 38. Kh2 g5 39. Ra4 Rf1 40. Rg4 Kh5 41. Rd4
+Kg6 42. Rd6+ Kf5 43. Rd4 {Accuracy: White = 64%, Black = 76%.} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.5"]
+[White "Bjerre, Jonas Buhl"]
+[Black "Sasikiran, Krishnan"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[WhiteElo "2506"]
+[BlackElo "2675"]
+[Annotator "TA"]
+[PlyCount "60"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,60,11,22,22,27,16,18,18,23,25,35,30,33,31,38,39,64,75,64,58,85,83,80,
+87,79,79,86,86,81,79,78,79,79,79,78,78,82,86,97,97,97,97,100]} 1. e4 e5 2. Nf3
+Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4 b4 9. d4 d6 10.
+dxe5 dxe5 11. Nbd2 {C88: Closed Ruy Lopez: Anti-Marshall Systems} Bc5 12. h3 (
+12. Qe2 h6 13. h3 Qe7 14. Nc4 Be6 15. Be3 Nd7 16. a5 Rfd8 17. Red1 Rab8 18. Ba4
+Bxe3 19. Nxe3 {1/2-1/2 (41) Dominguez Perez,L (2763)-Caruana,F (2818) Saint
+Louis 2019}) 12... Bb7 13. a5 {The position is equal.} Qe7 14. Qe2 Nb8 $146 ({
+Predecessor:} 14... Nd4 15. Nxd4 Bxd4 16. Nf3 Bc5 17. Bg5 h6 18. Bxf6 Qxf6 {
+1/2-1/2 (30) Brkic,A (2569)-Bilobrk,F (2354) Zadar 2016}) 15. Ba4 Nbd7 16. Qc4
+Bd6 17. Nb3 Qe6 18. Qxe6 fxe6 19. Nfd2 Nc5 20. Nxc5 {White is better.} Bxc5 21.
+Nb3 Nxe4 22. Nxc5 Nxc5 23. Rxe5 Rf5 24. Rxf5 exf5 {[#]} 25. Be3 $1 {[%cal
+Re3c5]} Nxa4 26. Rxa4 b3 27. cxb3 Bd5 28. Rd4 Rd8 29. Bf4 Rd7 30. Bxc7 Bc6 {
+Accuracy: White = 89%, Black = 55%.} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.6"]
+[White "Alekseenko, Kirill"]
+[Black "Hess, Robert"]
+[Result "1-0"]
+[ECO "B13"]
+[WhiteElo "2674"]
+[BlackElo "2581"]
+[Annotator "TA"]
+[PlyCount "73"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,73,12,18,14,10,0,16,7,23,27,36,45,45,49,52,57,89,88,87,89,94,92,86,
+81,192,192,192,192,170,173,200,204,198,112,94,75,178,177,331,333,404,389,414,
+410,570,561,567,572,565,562,577,572,572,567,593,586,633,633,719,729,718,702,
+650,573]} 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. h3 g6 7. Nf3 {
+B13: Caro-Kann: Exchange Variation and Panov-Botvinnik Attack} Bf5 8. Be2 Bg7
+9. O-O {The position is equal.} O-O 10. Bf4 Qb6 (10... Ne4 11. Nbd2 f6 12. Nxe4
+Bxe4 13. Nd2 Bf5 14. Bg3 e5 15. dxe5 fxe5 {1-0 (54) Ding,L (2805)-Navara,D 
+(2734) Prague 2019}) 11. Qb3 Qxb3 12. axb3 Nd7 $146 ({Predecessor:} 12... Nh5
+13. Bh2 Bc2 14. b4 Bh6 15. b5 Nb8 16. Ne5 f6 17. Ng4 Bf4 {1/2-1/2 (60) Jaenig,
+R (2097)-Bintakies,M (2198) Bad Woerishofen 2000}) 13. b4 e5 14. dxe5 Ncxe5 15.
+Rd1 Nxf3+ 16. Bxf3 Nb6 17. Nd2 d4 {[#]} (17... h5 $16) 18. c4 $1 $18 {[%cal
+Rc4c5] Black must now prevent c5.} (18. Bxb7 dxc3 19. bxc3 Bxc3 $14) 18... Bc2
+19. Rf1 ({But not} 19. Bxb7 $6 Rab8 $16) 19... d3 20. Bxb7 Rad8 21. c5 ({
+Less strong is} 21. Rxa7 Rd4 $11) 21... Na4 22. b3 (22. Bc6 $18 Nxb2 23. Rxa7)
+22... Nc3 $16 {Strongly threatening ...Ne2+.} 23. Bg5 $36 {[%mdl 2048] White
+is in control.} Rb8 {[#]} (23... Rde8 $16 {was worth a try.}) 24. c6 $1 $18 ({
+Not} 24. Rxa7 Nb5 $17) 24... Nd5 $2 (24... Ne2+ {was called for.} 25. Kh2 Be5+
+26. g3 Bd4) 25. Rxa7 Bd4 26. Ra5 {[%cal Ba7a5,Ba5b5,Bb5b4][%mdl 32]} Nxb4 27.
+Rb5 Na2 28. c7 {White is clearly winning.} Nc3 29. cxb8=Q Rxb8 30. Rb4 Ne2+ 31.
+Kh1 Bc3 32. Rb6 h6 33. Be3 Ba5 34. Rb5 Bxd2 35. Bxd2 Nd4 36. Rb4 Nxb3 {[#]} 37.
+Bd5 $1 {Accuracy: White = 76%, Black = 43%.} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.6"]
+[White "Mamedov, Rauf"]
+[Black "Wang, Hao"]
+[Result "0-1"]
+[ECO "B51"]
+[WhiteElo "2645"]
+[BlackElo "2726"]
+[Annotator "TA"]
+[PlyCount "85"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,85,19,12,20,0,0,0,18,0,0,0,0,0,10,-7,0,0,0,0,20,-13,-13,-27,-7,-7,-7,
+-13,-13,-20,-19,-38,-7,-7,0,-6,-11,-41,-15,-41,-8,-47,0,-79,-62,-112,-105,-156,
+-160,-193,-204,-213,-169,-158,-159,-212,-160,-213,-156,-151,-157,-423,-420,
+-504,-488,-477,-439,-443,-469,-591]} 1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. c3 Ngf6
+5. Qe2 a6 6. Ba4 b5 7. Bc2 e5 8. O-O Be7 9. d4 O-O 10. Rd1 Qc7 {B51: Sicilian:
+Moscow Variation (3 Bb5+) without 3...Bd7} 11. d5 (11. a4 Rb8 12. axb5 axb5 13.
+Na3 Ba6 14. d5 Qb7 15. b4 Bd8 16. Bd3 Ra8 17. Bg5 c4 18. Bc2 {1/2-1/2 (30)
+Caruana,F (2808)-Vachier Lagrave,M (2731) Saint Louis 2015}) 11... c4 12. Nbd2
+Nc5 {The position is equal.} 13. b3 a5 {[#]} 14. bxc4 $146 ({Predecessor:} 14.
+Bb2 Nh5 15. Qe3 Na6 16. bxc4 bxc4 17. Ba3 a4 18. Rab1 Nf4 19. g3 Ng6 20. Rb6
+Bd7 21. Rdb1 Rfb8 22. Rxb8+ Rxb8 23. Rxb8+ Nxb8 24. h4 Nf8 25. Nxe5 {1-0 (25)
+Nasuta,G (2533)-Baenziger,F (2358) Vienna 2019}) 14... bxc4 15. Nf1 Ba6 16. Ng3
+Rfb8 17. Ba3 g6 18. Qe3 Nd3 19. h3 Nd7 20. Rab1 Rxb1 21. Rxb1 Rb8 22. Nd2 Rxb1+
+23. Bxb1 N7c5 24. Bc2 Bb5 25. Ngf1 {[%cal Bg3f1,Bf1d2,Bd2f3][%mdl 32]} Na4 26.
+Nb1 Kg7 27. Nfd2 h6 28. Nf3 Bd8 29. h4 (29. Bc1 $5 Nxc1 30. Bxa4 Bxa4 31. Qxc1
+$15) 29... h5 30. Bxd3 (30. g3 $11 {remains equal.}) 30... cxd3 $17 31. Bc1 {
+Qh6+ is the strong threat.} Kg8 $36 {[%mdl 2048] Black is really pushing.} ({
+Reject} 31... Nxc3 $6 32. Nxc3 Qxc3 33. Bd2 $11) 32. Qh6 (32. Ba3 $142) 32...
+Nc5 $1 {[%cal Rc5e4]} 33. Nbd2 {[#]} Nd7 $1 34. Ba3 Nf6 {Threatens to win with
+...Ng4.} 35. Nxe5 dxe5 36. Qf8+ Kh7 37. c4 (37. Bd6 $17 Qd7 38. c4) 37... Ba4 (
+{Stronger than} 37... Bxc4 38. Bd6 $16) 38. Bd6 Qd7 39. Nf3 $2 (39. g3 $17 {
+is a better defense.}) 39... Nxe4 $19 40. Bxe5 {[%csl Ge5][%cal Rf8h8] [#]} f6
+$1 {Black is clearly winning.} 41. Bf4 {And now Qh6+ would win.} Qe8 (41... g5
+$2 42. hxg5 fxg5 43. Be3 $19) 42. Qa3 Bb6 43. Kh2 {Accuracy: White = 44%,
+Black = 64%.} 0-1
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.7"]
+[White "Bu, Xiangzhi"]
+[Black "Riazantsev, Alexander"]
+[Result "1-0"]
+[ECO "E08"]
+[WhiteElo "2721"]
+[BlackElo "2645"]
+[Annotator "TA"]
+[PlyCount "69"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,69,30,16,24,18,16,21,25,15,14,13,10,10,21,19,28,12,21,13,24,27,39,37,
+30,22,18,26,24,22,28,40,34,22,107,0,0,0,184,183,155,110,774,766,12811,5942,
+5281,5710,2904,2422,5021,2012,29996,29997]} 1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4.
+O-O Be7 5. c4 O-O 6. d4 c6 7. b3 b6 8. Bb2 Bb7 9. Nc3 Nbd7 10. Qc2 a5 {E08:
+Closed Catalan: Main Line: 7 Qc2} (10... Rc8 11. e4 Nxe4 12. Nxe4 dxe4 13. Qxe4
+Qc7 14. Rad1 Rfd8 15. Qe2 a5 16. Rd2 a4 17. Rfd1 axb3 18. axb3 Re8 19. Rd3 h6
+20. Re3 Red8 21. h4 Bf6 22. Nd2 {1/2-1/2 (61) Bogner,S (2584)-Cori,J (2686)
+Biel 2019}) 11. e4 Nxe4 12. Nxe4 dxe4 {The position is equal.} 13. Qxe4 a4 14.
+Rad1 Qc7 15. Rfe1 $146 ({Predecessor:} 15. Qc2 axb3 16. axb3 Ra2 17. Ra1 Rfa8
+18. Rxa2 Rxa2 {1/2-1/2 (30) Striepens,B (2099)-Hoerstel,H (2255) GER email 2003
+}) 15... Rfe8 16. Qc2 axb3 17. axb3 h6 18. Re2 Bf8 19. h4 c5 20. d5 exd5 21.
+cxd5 Qd6 22. h5 Rxe2 23. Qxe2 Ra2 24. Nh4 Ba6 25. Qd2 Ne5 {[#]} (25... Nf6 $11
+{remains equal.}) 26. Ra1 (26. Qc3 $1 $16 {[%cal Rc3e5]} Ng4 27. Nf5) 26...
+Rxa1+ $11 27. Bxa1 c4 $2 (27... Qe7 $11 {and Black is okay.}) 28. Qe2 $36 {
+[%mdl 2048] Black must now prevent Nf5. Black is under strong pressure.} f6 29.
+Nf5 Qa3 $2 {[%mdl 8192]} (29... Qd7 $16 30. Ne3 Qa7) 30. Bxe5 {Bb2 is the
+strong threat.} cxb3 31. Nxh6+ Kh8 32. Nf7+ Kg8 33. Qg4 fxe5 {[#]} 34. Qe6 $1 {
+[%mdl 576] Nh6+! would kill now. Double Attack} Qe7 {[#]} 35. Nh6+ $1 {[%mdl
+576] Discovered Attack (Double check). Accuracy: White = 89%, Black = 33%.} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.7"]
+[White "Bacrot, Etienne"]
+[Black "Christiansen, Johan-Sebastian"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[WhiteElo "2671"]
+[BlackElo "2558"]
+[Annotator "RC"]
+[PlyCount "89"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. e4 {[%emt 0:08:11]} e6 {[%emt 0:00:00]} 2. d4 {[%emt 0:00:17]} d5 {[%emt 0:
+00:00]} 3. exd5 {[%emt 0:00:18]} exd5 {[%emt 0:00:00]} 4. Nf3 {[%emt 0:00:04]}
+Nf6 {[%emt 0:00:09]} 5. Bd3 {[%emt 0:00:29]} Bd6 {[%emt 0:00:16]} 6. Qe2+ {
+[%emt 0:03:20]} Be6 {[%emt 0:00:06]} 7. Ng5 {[%emt 0:00:24]} Qe7 {[%emt 0:00:
+05]} 8. Nxe6 {[%emt 0:00:20]} fxe6 {[%emt 0:00:05]} 9. c3 {[%emt 0:00:25]} O-O
+{[%emt 0:01:16]} 10. O-O {[%emt 0:02:01]} e5 {[%emt 0:16:37]} 11. dxe5 {
+[%emt 0:00:23]} Bxe5 {[%emt 0:06:43]} 12. Nd2 {[%emt 0:15:18]} Nbd7 {[%emt 0:
+14:14]} 13. Nf3 {[%emt 0:01:26]} Rae8 {[%emt 0:01:48]} 14. Qd1 {[%emt 0:05:36]}
+Bd6 {[%emt 0:35:23]} 15. Re1 {[%emt 0:03:55]} Qf7 {[%emt 0:02:30]} 16. Rxe8 {
+[%emt 0:08:22]} Qxe8 {[%emt 0:01:54]} 17. h3 {[%emt 0:13:49]} Ne5 {[%emt 0:05:
+59]} 18. Be3 {[%emt 0:08:29]} Nxd3 {[%emt 0:01:28]} 19. Qxd3 {[%emt 0:00:14]}
+a6 {[%emt 0:04:24]} 20. Rd1 {[%emt 0:08:59]} Qb5 {[%emt 0:02:31]} 21. Qc2 {
+[%emt 0:07:06]} Re8 {[%emt 0:00:07]} 22. a4 {[%emt 0:02:33]} Qc4 {[%emt 0:01:
+40]} 23. Nd4 {[%emt 0:03:21]} Ne4 {[%emt 0:03:58]} 24. Nf5 {[%emt 0:04:30]} Be5
+{[%emt 0:04:23]} 25. Bd4 {[%emt 0:03:35]} Qc6 {[%emt 0:04:01]} 26. Qb3 {
+[%emt 0:02:59]} Nf6 {[%emt 0:01:01]} 27. Bxe5 {[%emt 0:03:00]} Rxe5 {[%emt 0:
+00:02]} 28. Nd4 {[%emt 0:00:07]} Qb6 {[%emt 0:00:03]} 29. Qxb6 {[%emt 0:01:56]}
+cxb6 {[%emt 0:00:03]} 30. Kf1 {[%emt 0:00:17]} Kf7 {[%emt 0:00:30]} 31. f3 {
+[%emt 0:03:06]} g6 {[%emt 0:00:51]} 32. Re1 {[%emt 0:00:25]} Rxe1+ {[%emt 0:01:
+01]} 33. Kxe1 {[%emt 0:00:02]} Nh5 {[%emt 0:00:37]} 34. Kf2 {[%emt 0:00:54]}
+Nf4 {[%emt 0:01:32]} 35. b3 {[%emt 0:00:02]} g5 {[%emt 0:01:33]} 36. Ne2 {
+[%emt 0:00:29]} Nd3+ {[%emt 0:00:24]} 37. Ke3 {[%emt 0:00:07]} Nc5 {[%emt 0:00:
+15]} 38. Nd4 {[%emt 0:00:17]} Kf6 {[%emt 0:00:20]} 39. g3 {[%emt 0:00:17]} Ke5
+{[%emt 0:00:31]} 40. Ke2 {[%emt 0:00:48]} Kf6 {[%emt 0:00:33]} 41. Ke3 {
+[%emt 0:50:38]} Ke5 {[%emt 0:03:03]} 42. Ke2 {[%emt 0:00:00]} Kf6 {[%emt 0:00:
+26]} 43. Kd2 {[%emt 0:00:00]} Ke5 {[%emt 0:00:39]} 44. Ke3 {[%emt 0:00:00]} Kf6
+{[%emt 0:00:03]} 45. Ke2 {[%emt 0:00:00]} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.8"]
+[White "Leko, Peter"]
+[Black "Boruchovsky, Avital"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[WhiteElo "2670"]
+[BlackElo "2533"]
+[Annotator "TA"]
+[PlyCount "158"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,158,0,0,9,2,8,-10,0,0,10,7,17,18,68,65,59,61,80,65,60,45,58,50,58,27,
+150,137,135,131,136,139,115,25,17,25,27,28,33,34,51,38,185,181,181,182,209,47,
+51,11,6,-4,-8,-10,-9,-7,-4,-6,-6,-6,-8,-15,-13,-148,0,0,9,8,41,24,25,25,25,15,
+45,36,35,36,37,41,26,28,34,83,103,95,125,121,108,26,33,29,26,26,70,70,70,70,70,
+70,70,70,70,33,33,33,72,8,8,8,8,8,48,46,44,48,70,43,454,43,39,44,433,36,43,8,8,
+0,0,0,390,300,425,436,464,452,502,472,438,71,71,12,20,8,8,8,8,8,8,0,8]} 1. c4
+e6 2. Nc3 b6 3. Nf3 Bb7 4. e3 Nf6 5. b3 Be7 6. Bb2 d5 {A13: English Opening: 1.
+..e6} 7. cxd5 exd5 8. Ne2 (8. d4 Nbd7 9. g3 O-O 10. Bg2 Re8 11. O-O Bf8 12. Qc2
+Rc8 13. Rfd1 a6 {1-0 (42) So,W (2812)-Bacrot,E (2708) Paris 2017}) 8... O-O
+$146 ({Predecessor:} 8... Ba6 9. d3 Bb4+ 10. Nc3 O-O 11. Be2 {1-0 (62) Storey,
+C (2255)-Okhai,S (2105) Blackpool 2017}) 9. g3 c5 10. Bg2 Nc6 11. O-O b5 12.
+Nf4 Qd6 13. Rc1 g6 14. Qc2 Rfd8 15. Rfe1 a5 16. Qb1 a4 17. bxa4 b4 (17... Rxa4
+$11 {remains equal.} 18. d3 Nh5) 18. d3 $1 $16 Rxa4 19. e4 $1 {[%cal Re4e5]}
+dxe4 20. dxe4 Qb8 21. Bxf6 (21. e5 $16 Nd5 22. Nxd5 Rxd5 23. e6) 21... Bxf6 $11
+22. Nd5 Bg7 23. Rxc5 Qa7 24. Rc2 Ra8 {[%cal Ra4a2]} 25. Nc7 Rd8 (25... Rb8 $14)
+26. e5 $1 $18 {[%cal Re5e6]} Ne7 27. Qb3 h6 {intending ...Qa5.} 28. Nh4 $2 ({
+White must play} 28. e6 $1 $18 {[%cal Re6f7]} f5 29. Nh4 Bxg2 30. Nxg6 (30.
+Nxg2 Qa5 $14) (30. Kxg2 Kh7 $11)) 28... Bxg2 $14 29. Nxg2 (29. Kxg2 $5 {
+[%cal Re5e6]} Qb7+ 30. Qf3 Qxf3+ 31. Nxf3 $14) 29... Qa5 $1 30. Ne3 {Strongly
+threatening e6.} Ra3 31. Nc4 $1 {[%cal Rc4a5]} Rxb3 32. Nxa5 Rc3 33. Rxc3 bxc3
+34. Nb3 c2 35. f4 Nc6 36. Kf1 {[#]} (36. Kf2 $11) 36... Rd1 (36... Nd4 $1 $17 {
+[%cal Rd4b3] ...Nxb3 is the strong threat.} 37. Rc1 Nxb3 38. Rxc2 Rd1+ 39. Kf2
+Nd4) 37. Nb5 $1 $11 Nb4 38. Ke2 Rb1 39. Nc3 Nxa2 $1 {[%mdl 64] Remove Defender}
+40. Nxa2 {aiming for Nac1.} (40. Nxb1 $2 cxb1=R 41. Rxb1 Nc3+ 42. Kd3 Nxb1 $17)
+40... Rxb3 {[%mdl 4096] Endgame KRB-KRN} 41. Nc1 Rb6 42. Kd3 f6 43. Kxc2 fxe5
+44. fxe5 Kf7 45. Nd3 g5 46. Kc3 Rc6+ 47. Kd4 Rc2 {[#]} 48. h3 $1 h5 49. g4 (49.
+Kd5 $16) 49... hxg4 50. hxg4 {White wants to play Rf1+.} Rg2 51. Re4 Ke6 52.
+Nc5+ Ke7 $1 53. Kd5 Rd2+ 54. Rd4 Re2 55. Ne4 Re1 $1 56. Rd3 ({Don't play} 56.
+Nxg5 $6 Rxe5+ 57. Kc4 Rxg5 $11) 56... Ra1 57. Nc5 Rg1 58. Rd4 ({White should
+play} 58. Ra3 $16 {Black must now prevent Ra7+.} Bxe5 59. Ra7+ (59. Kxe5 Rxg4
+60. Ra7+ Ke8 $14) 59... Kd8 60. Kxe5 Rxg4 61. Kf5 Rf4+ 62. Kxg5) 58... Re1 $1
+59. Re4 Rd1+ 60. Kc6 Rd2 61. Nb3 Rd8 62. Nd4 {Threatens to win with Nf5+.} Bh8
+63. Nf3 Rg8 $2 {[%mdl 8192]} (63... Ra8 $14) 64. Kd5 $2 (64. Ra4 $18) 64...
+Rd8+ $14 65. Kc4 {Hoping for Re3.} Rg8 $2 {[%mdl 8192]} (65... Ra8 $14) 66. Kd4
+$2 (66. Re3 $18) 66... Ra8 67. Kc5 Rc8+ 68. Kd5 $2 {[%mdl 8192]} (68. Kb6 $11)
+68... Rd8+ $18 69. Kc4 Rg8 70. Kd3 Ke6 (70... Rf8 $142) 71. Ke3 Re8 72. Nxg5+
+Kd5 73. Rd4+ Kc5 74. Rd1 $2 (74. Ne4+ $18 {and the rest is easy.} Kb6 75. Rd6+
+Kc7 76. e6) 74... Bxe5 $16 75. Ne4+ (75. Kf3 $16) 75... Kc6 $11 {The position
+is equal.} 76. g5 Rf8 77. g6 Rg8 78. Rg1 Kd5 79. Rg2 Ke6 {Accuracy: White =
+49%, Black = 50%.} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.8"]
+[White "Bluebaum, Matthias"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "1/2-1/2"]
+[ECO "E51"]
+[WhiteElo "2643"]
+[BlackElo "2718"]
+[Annotator "TA"]
+[PlyCount "108"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,108,0,0,-3,0,-1,0,0,0,-5,0,0,0,0,0,0,-8,-1,-16,-8,-12,-3,-14,-9,-8,
+-11,0,-6,-13,-16,-18,-16,-14,-16,-13,-13,-13,-33,-39,-37,-35,-50,-49,-44,-49,
+-46,-50,-73,-54,-58,-48,-39,-50,-48,-48,-54,-47,-55,-55,-64,-59,-77,-59,-68,
+-60,-74,-24,-19,0,0,0,0,0,0,0,-42,0,0,0,-250,-258,-263,-281,-288,-309,-253,0,0,
+0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. e3 O-O 6. Bd2 b6
+7. cxd5 exd5 8. Rc1 {E51: Nimzo-Indian: Rubinstein: 4...0-0 5 Nf3 d5} (8. Bd3
+Bb7 9. O-O Bd6 10. Rc1 c5 11. Ne5 Nc6 12. Ng4 Nxg4 13. Qxg4 c4 14. Bb1 Ne7 15.
+Nb5 f5 16. Qe2 a6 17. Nxd6 Qxd6 18. f3 b5 19. Be1 Ng6 20. Ba5 Ne7 21. Be1 Ng6
+22. Ba5 Ne7 23. Be1 {1/2-1/2 (23) Nakamura,H (2743)-Giri,A (2779) Saint Louis
+2019}) 8... Be7 9. Bd3 c5 10. Ne5 Bb7 11. O-O Nc6 12. a3 $146 ({Predecessor:} 
+12. Ne2 Rc8 13. Ng3 cxd4 14. Nxc6 Rxc6 15. exd4 Rxc1 16. Bxc1 {1-0 (43)
+Fedoseev,V (2664)-Ganguly,S (2658) Khanty-Mansiysk 2019}) 12... Bd6 13. Ng4 Ne8
+14. f4 ({Much weaker is} 14. Nxd5 h5 $17) 14... f5 15. Ne5 (15. Nxd5 $2 fxg4
+16. Qxg4 Ne7 $17) 15... cxd4 16. Nxc6 Bxc6 17. exd4 Qd7 18. Qb3 Nc7 19. Rfe1
+Kh8 20. Kh1 g6 21. Ne2 Ba4 22. Qa2 Bb5 23. Qb3 {[#] aiming for Rxc7!} Bxd3 24.
+Qxd3 Ne8 25. Nc3 Nf6 26. Qb5 {next Qxd7 is good for White.} Qb7 27. Re6 Rad8
+28. Rce1 a6 29. Qb3 b5 30. R6e2 Qf7 31. Na2 {[%cal Bc3a2,Ba2c1,Bc1b3,Bb3d2,
+Bd2f3,Bf3e5][%mdl 32]} Ne4 32. Bb4 Qf6 33. Bxd6 Rxd6 34. Qe3 Rc8 35. Nc1 Rc4
+36. Nb3 Re6 37. Qf3 Re8 38. Qe3 Kg7 39. Kg1 Kf7 40. Nd2 Rxd4 41. Nf3 Rc4 42.
+Ne5+ Rxe5 43. fxe5 Qxe5 44. Qa7+ Rc7 45. Qxa6 d4 46. Qa8 $2 (46. Qb6 $1 $11 {
+and White has nothing to worry.}) 46... d3 $19 47. Rxe4 fxe4 {[%mdl 4096]
+Endgame KQR-KQR} 48. Rf1+ Ke7 {White must now prevent ...d2.} 49. Qf8+ {[#]}
+Kd7 $2 ({Black should try} 49... Ke6 $1 $19 50. Qd8 Qc5+ 51. Kh1 Rf7 52. Qe8+
+Re7) 50. Rf7+ $1 $11 {The position is equal.} Kc6 {( -> ...Rxf7)} 51. Qa8+ Kc5
+52. Qf8+ Kc6 (52... Kb6 $5 53. Qb8+ $8 Kc6 54. Qa8+ Kc5 55. Qf8+ Kd5 56. Qd8+
+Kc6 57. Qa8+ $11) 53. Qa8+ Kc5 (53... Kb6 $5 54. Qb8+ $8 Kc6 55. Qa8+ $11) 54.
+Qf8+ Kc6 {Accuracy: White = 75%, Black = 68%.} (54... Kb6 $5 55. Qb8+ $8 Kc6
+56. Qa8+ $11) 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.9"]
+[White "Xiong, Jeffery"]
+[Black "Adhiban, B.."]
+[Result "0-1"]
+[ECO "C82"]
+[WhiteElo "2708"]
+[BlackElo "2639"]
+[Annotator "TA"]
+[PlyCount "68"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 22,68,21,17,21,20,34,24,21,13,33,32,33,9,11,0,0,0,0,0,0,0,0,-195,-195,
+-245,-254,-250,-247,-272,-182,-176,-174,-244,-249,-249,-214,-346,-353,-441,
+-300,-1434,-1404,-29981,-29981,-29980,-6810,-29985,-2144]} 1. e4 e5 2. Nf3 Nc6
+3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. c3 Bc5 10.
+Qd3 O-O 11. Be3 Bxe3 12. Qxe3 f5 {C82: Open Ruy Lopez: 9 c3 without 9...Be7} (
+12... Na5 13. Nbd2 Nxd2 14. Nxd2 Qc8 15. f4 c5 16. Bc2 f5 17. exf6 Rxf6 18. Qd3
+g6 19. f5 gxf5 20. Rae1 {1/2-1/2 (29) Wei,Y (2706)-Ding,L (2764) Shenzhen 2016}
+) 13. exf6 Qxf6 14. Nbd2 Nxd2 {White has an edge.} 15. Qxd2 Kh8 16. Rfe1 Rad8
+17. Nd4 Bg8 18. Bc2 $146 ({Predecessor:} 18. Nxc6 Qxc6 19. Re3 Qd6 20. Rae1 {
+1/2-1/2 (54) Baramidze,D (2470)-Belikov,V (2499) Dortmund 2003}) 18... Ne5 19.
+b4 Nc4 20. Qe2 a5 $36 {[%mdl 2048] ...axb4 is the strong threat. Black has
+some pressure.} 21. Qf3 ({But not} 21. Nxb5 $2 Rde8 $1 $19 {[%mdl 512]}) 21...
+Qb6 22. Qg3 $2 (22. bxa5 $11 {and White has nothing to worry.} Nxa5 23. Qg4)
+22... axb4 $1 $19 23. Nf5 {[%csl Gf5][%cal Rg3g7]} Qf6 24. cxb4 d4 $1 25. Ne7
+Be6 26. Nc6 Rd6 27. Na5 (27. Ne5 {was worth a try.}) 27... Bf5 $1 {[%cal Rf5c2]
+} 28. Bxf5 Qxf5 29. Nb3 (29. f4 $142) 29... d3 30. Rad1 d2 31. Re7 $2 (31. Rf1)
+31... Rg6 32. Nd4 Qf6 {[%mdl 64] Double Attack} 33. Re6 Qxd4 34. Rxg6 Qe4 {
+Accuracy: White = 29%, Black = 86%.} ({Inferior is} 34... hxg6 35. Qh3+ Kg8 36.
+Qe6+ {[%mdl 64] Double Attack} Rf7 37. Qc8+ Rf8 38. Qe6+ {[%mdl 64] Double
+Attack} Kh8 39. Qh3+ Kg8 40. Qe6+ $11 {[%mdl 64] Double Attack}) (34... Re8
+$142 35. h3 Re1+ {[%mdl 64] Double Attack} 36. Kh2 hxg6 37. Ra1 Rxa1 38. Qxg6
+d1=Q 39. Qf7 {[#]} Qh4 $1 {[%mdl 512]} 40. Qf8+ Kh7 41. Qf5+ Kh6 42. Qh5+ Qhxh5
+43. f4 Qh4 $1 {[%mdl 512]} 44. g3 Rxa2#) 0-1
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.9"]
+[White "Harika, Dronavalli"]
+[Black "Robson, Ray"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2495"]
+[BlackElo "2670"]
+[Annotator "TA"]
+[PlyCount "97"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,97,19,8,0,7,0,0,0,0,2,9,0,6,2,7,0,0,0,3,4,4,13,0,0,0,0,0,0,0,0,0,0,
+45,14,6,7,20,16,16,23,24,23,31,31,31,34,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5.
+Nc3 a6 6. Be2 e5 7. Nf3 Be7 8. Bg5 O-O 9. O-O Be6 10. Bxf6 Bxf6 11. Nd5 {
+B92: Sicilian Najdorf: 6 Be2} Nd7 12. Bc4 Rc8 13. Qe2 b5 (13... Nb6 14. Nxb6
+Qxb6 15. Bxe6 fxe6 16. c3 Be7 17. Ne1 Rf6 18. Nd3 Rcf8 {1/2-1/2 (72) Giri,A 
+(2780)-Duda,J (2730) chess.com INT 2019}) 14. Bb3 Nb6 $146 ({Predecessor:} 
+14... Nc5 15. Rfd1 Bxd5 16. Bxd5 Qc7 17. c3 Ne6 18. Ne1 Nf4 {1/2-1/2 (58)
+Munguntuul,B (2397)-Bulmaga,I (2427) Riadh 2017}) 15. Rfd1 Nxd5 16. Bxd5 Qb6
+17. c3 a5 18. a3 Rc5 19. Qe3 Qc7 20. Bxe6 fxe6 21. Rd3 d5 22. Rad1 {[%cal
+Re4d5]} Rc4 23. exd5 e4 {[%mdl 64] [#] Double Attack} 24. b3 {Threatens to win
+with d6.} exd3 25. bxc4 Qxc4 (25... bxc4 $5 {[%cal Re6d5]} 26. Qxe6+ Kh8 $11)
+26. dxe6 (26. Qxe6+ {looks sharper.} Kh8 27. Qf5 Qxc3 28. d6 Qxa3 29. d7) 26...
+Re8 27. Qxd3 Qxd3 28. Rxd3 {next Rd5 is good for White.} Rxe6 $11 {[%mdl 4096]
+Endgame KRB-KRN} 29. Kf1 Rc6 30. Nd4 Rd6 31. Ke2 b4 32. axb4 axb4 33. Nc2 Re6+
+{The position is equal.} 34. Re3 Rxe3+ 35. Nxe3 Bxc3 {KB-KN} 36. Nd5 Be5 37.
+Nxb4 Bxh2 38. g3 h5 39. Kf3 {[#] Black must now prevent Kg2.} h4 $1 40. gxh4
+Kh7 41. Kg4 Bc7 42. Nd5 Bd8 43. f4 g6 44. Nc3 Kg7 45. Ne4 Be7 46. Ng5 Kh6 47.
+Ne6 Kh7 48. Ng5+ Kh6 49. Ne6 {Accuracy: White = 64%, Black = 88%.} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.10"]
+[White "Kryvoruchko, Yuriy"]
+[Black "Gukesh D"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2669"]
+[BlackElo "2520"]
+[Annotator "TA"]
+[PlyCount "77"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,77,31,2,6,2,0,-2,9,0,0,0,13,0,0,-22,-16,-24,-32,-57,-31,-97,-32,-47,
+-51,-72,-2,-18,-18,-16,-26,-52,-56,-84,-88,-98,-102,-114,-114,-119,-119,-126,
+-97,-91,-92,-166,-164,-177,-47,-158,-69,-72,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 c5
+2. Nc3 Nc6 3. Bb5 Nd4 4. Nf3 a6 5. Bd3 e6 6. O-O Ne7 7. Nxd4 cxd4 8. Ne2 d5 9.
+exd5 Nxd5 {B30: Sicilian: 2...Nc6 3 Bb5, lines without ...g6} 10. c3 dxc3 11.
+dxc3 Bd6 12. c4 (12. Nd4 {is interesting.} O-O 13. Re1 h6 14. Qf3 Re8 15. Be4)
+(12. Nd4 Qc7 13. h3 Bd7 14. Qf3 Nf4 15. Be4 Ng6 16. Be3 Ne5 17. Qe2 {1/2-1/2 
+(30) Svidler,P (2713)-Krasenkow,M (2643) Belgrade 1999}) 12... Nf6 $146 ({
+Predecessor:} 12... Nb4 13. Bb1 Qc7 14. a3 Nc6 15. Ng3 a5 16. b3 Be5 17. Ra2 {
+1/2-1/2 (24) Gdanski,J (2485)-Goetz,R (2340) Germany 1993}) 13. Ng3 Bd7 14. Qe2
+Qc7 15. Bg5 O-O-O 16. b4 Bxb4 17. Rab1 Be7 18. Be3 (18. Nf5 $1 $15 Bf8 19. Nd4)
+18... Bc5 (18... Bc6 $17 19. Bb6 Qf4) 19. Bxc5 Qxc5 20. Ne4 Nxe4 (20... Qe5 $1
+$17 21. Nxf6 Qxe2 22. Bxe2 gxf6) 21. Bxe4 $11 Bc6 22. Bxc6 $1 Qxc6 (22... bxc6
+$6 23. Qb2 $16) 23. Qe3 Rd7 24. c5 Rc7 $1 25. Rfc1 Rd8 26. h3 {[#]} Rd5 $1 27.
+Rb6 Qa4 28. Rbb1 Qxa2 29. c6 bxc6 30. Ra1 {[#]} (30. Qb6 $2 Rb5 $19) (30. Qc3
+$17) 30... Qd2 $1 $19 31. Qb6 Kd7 (31... a5 $19 32. Rcb1 (32. Rxc6 $2 Rxc6 33.
+Qxc6+ Kd8 $19) 32... Kd8) 32. Qxa6 (32. Qb8 $1 $15) 32... Rd6 (32... Qd4 $17
+33. Rab1 Ke7 34. Rxc6 Rxc6 35. Qxc6 Kf6) 33. Qb6 $15 c5 (33... Qg5 $17) 34. Qb8
+$1 $11 {Hoping for Rcb1.The position is equal.} Rc8 $1 {[%cal Rc8b8]} 35. Ra7+
+Kd8 $1 36. Qb1 $1 ({Much weaker is} 36. Rb1 Rd7 $17) 36... Rc7 37. Qb8+ Rc8 38.
+Qb1 $1 ({Of course not} 38. Rb1 Rd7 $17) 38... Rc7 39. Qb8+ {Accuracy: White =
+46%, Black = 55%.} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.10"]
+[White "Nguyen, Ngoc Truong Son"]
+[Black "Anton Guijarro, David"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[WhiteElo "2638"]
+[BlackElo "2674"]
+[Annotator "TA"]
+[PlyCount "88"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,88,22,2,3,11,11,5,8,14,14,21,0,12,0,0,0,25,0,0,0,0,-48,-41,-40,-42,
+-45,-45,-112,-87,-87,-87,-87,-86,-86,-91,-79,-67,-166,-42,-75,-62,-72,-70,-80,
+-89,-86,-89,-97,-97,-102,-58,-185,0,0,0,0,0,0,-6,-2,0,-6,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0]} 1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. c4 Nf6 5. Nc3 a6 6. Bxd7+ {
+B52: Sicilian: Moscow Variation with 3...Bd7} Nbxd7 7. O-O (7. d4 cxd4 8. Nxd4
+Rc8 9. Qe2 Qc7 10. b3 b5 11. Nd5 Nxd5 12. exd5 bxc4 {1/2-1/2 (66) Carlsen,M 
+(2832)-Nakamura,H (2786) chess.com INT 2018}) 7... e6 8. d4 cxd4 9. Qxd4 Be7 (
+9... Ne5 $5) 10. b3 Qa5 $146 ({Predecessor:} 10... O-O 11. a4 Qc7 12. Ba3 Rfd8
+{1/2-1/2 (40) Leventic,I (2389)-Cvitan,O (2489) Mali Losinj 2019}) 11. Bd2 Qh5
+12. Qd3 Rg8 13. Bf4 g5 14. Bg3 g4 {[#] Hoping for ...Nc5.} 15. Nd4 Qg5 16. Rad1
+Nh5 17. e5 Nxg3 18. hxg3 (18. fxg3 $15 Nxe5 19. Qe2) 18... Nxe5 19. Qxh7 O-O-O
+{...Rh8 is the strong threat.} 20. Ne4 Qg6 21. Qxg6 Rxg6 22. Rfe1 Rh6 23. Kf1 (
+23. f3 $15) 23... Kc7 ({Black should try} 23... d5 $19 24. cxd5 Bb4 25. Rc1+
+Kb8) 24. Ke2 Rdh8 25. Nc3 Nc6 26. Nc2 f5 27. Ne3 Bf6 28. Rc1 Kd7 29. Red1 Bd4 (
+29... Rh2 {is more complex.} 30. Kd2 Bd4 31. Rg1 Bc5 32. Ke2 Ba3) 30. Ncd5 {[#]
+} (30. b4 $15 Bxe3 31. Kxe3) 30... exd5 $2 (30... Bb2 $1 $19 {[%cal Rb2c1]} 31.
+Rb1 Bg7) 31. cxd5 $11 {The position is equal.} Bxe3 32. dxc6+ bxc6 33. Kxe3 $19
+{[%mdl 4096] Endgame KRR-KRR} Re6+ 34. Kd3 Rhe8 35. Rh1 c5 36. Rh7+ Kc6 {
+White should prevent ...Re2.} 37. Ra7 Kb6 38. Rd7 Kc6 39. Ra7 Kb6 40. Rd7 a5
+41. Rd1 Kc6 42. Ra7 Kb6 43. Rd7 Kc6 44. Ra7 Kb6 {Accuracy: White = 52%, Black
+= 63%.} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.11"]
+[White "Adly, Ahmed"]
+[Black "Cheparinov, Ivan"]
+[Result "1/2-1/2"]
+[ECO "D72"]
+[WhiteElo "2636"]
+[BlackElo "2670"]
+[Annotator "TA"]
+[PlyCount "148"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,148,10,9,13,13,26,13,0,5,-30,-26,-57,-52,-79,-67,-93,-83,-91,-95,-91,
+-87,-150,-105,-102,-81,-121,-87,-120,-99,-125,-119,-93,-108,-201,-191,-207,
+-121,-131,-128,-111,-123,-159,-56,-87,-56,-53,-53,-53,-53,-53,-53,-53,-53,-53,
+-53,-53,-54,-66,-66,-95,-93,-85,-65,-65,-65,-65,-65,-65,-65,-65,-65,-65,-65,
+-65,-65,-66,-65,-65,-65,-65,-65,-65,-65,-65,-65,-66,-66,-66,-66,-66,-66,-66,
+-65,-65,-65,-65,-65,-65,-65,-65,-60,-60,-44,-66,-66,-66,-65,-65,-65,-65,-65,
+-65,-65,-65,-65,-65,0,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-12,-12,-12,-8,-8,-8]
+} 1. d4 Nf6 2. g3 g6 3. Bg2 d5 4. c4 Bg7 5. cxd5 Nxd5 6. e4 Nb6 7. Ne2 c5 8. d5
+e6 9. Nbc3 {D72: Fianchetto Grünfeld: 5 cxd5 Nxd5 6 e4 Nb6 (without Nf3)} O-O
+10. O-O Na6 {[%cal Bb8a6,Ba6b4,Bb4d3][%mdl 32]} 11. a4 (11. h3 exd5 12. exd5
+Re8 13. Bf4 Nc4 14. b3 Ne5 15. Be3 h5 16. Qc1 Bf5 17. Rd1 Qd7 {1/2-1/2 (37)
+Yakubboev,N (2587)-Xu,X (2583) Xingtai 2019}) 11... exd5 {Threatens to win
+with ...d4.} 12. exd5 (12. a5 $5 {[%cal Ra5b6]} Nc4 13. Qxd5 Qxd5 14. Nxd5 $11)
+12... Nc4 $146 ({Predecessor:} 12... Re8 13. d6 Nb4 14. a5 Nc4 15. a6 Rb8 16.
+Bf4 Nxb2 17. d7 Bxd7 18. Qb3 Rxe2 19. Nxe2 {1-0 (34) Mozny,M (2370)-Pinter,E 
+(2416) Tatranske Zruby 2009}) 13. b3 Nd6 14. h3 Nb4 15. Be3 b6 16. Qd2 Ba6 17.
+Rac1 Re8 18. g4 ({Better is} 18. Rfd1) 18... Qd7 19. Rfd1 Nd3 20. Rb1 Rac8 21.
+Nf4 c4 22. b4 Qe7 23. b5 Bb7 24. Rdc1 (24. a5 $17 {might work better.}) 24...
+Nxc1 $19 25. Rxc1 Qf6 ({Black should try} 25... Bh6 $19 26. Bd4 Bg5) 26. Nfe2
+$17 {[#]} Rxe3 $1 {[%mdl 512]} 27. Qxe3 Re8 28. Qd2 Bc8 (28... Qh4 $17 29. Qf4
+Be5) 29. Ng3 $1 $15 Qh4 30. Nce4 Nxe4 31. Nxe4 {[#]} Rxe4 $1 {[%mdl 512]} 32.
+Bxe4 Bh6 $1 {[%cal Rh6d2]} 33. Qc3 {Re1 is the strong threat.} Bxc1 34. Qxc4 {
+[#]} Bxg4 $1 35. Bg2 (35. hxg4 Qxg4+) 35... Ba3 {Hoping for ...Bc5!} 36. Qxg4
+Qf6 37. Qf3 Qa1+ 38. Bf1 Bc5 39. Qf4 Qe1 40. Kg2 Qe7 41. Bd3 h5 42. Bc4 Bd6 43.
+Qe3 Qf6 44. Bb3 Kg7 45. Bd1 Qa1 46. Bc2 Qb2 47. Bd1 Qf6 48. Bb3 Bc5 49. Qf3 Qd4
+50. Bc2 Qd2 51. Bb3 h4 52. Bc4 f5 53. Qe2 Qf4 54. Bb3 Kh6 55. Bd1 Kh7 56. Bc2
+Bd6 {( -> ...Qh2+)} 57. Kf1 Qh2 {[%cal Rh2h1]} 58. Qf3 Qe5 59. Bd1 Bc5 60. Bb3
+Qa1+ 61. Qd1 Qb2 {[%csl Gc5][%cal Rb2f2]} 62. Bc2 Qe5 63. Kg2 Kg7 64. Qd2 Bd6 {
+aiming for ...Qh2+.} 65. Kf1 Qh2 (65... Qb2 $15) 66. Qd4+ {The position is
+equal.} Be5 67. Qxh4 Bf6 68. Qg3 Qh1+ {[%mdl 64] Double Attack} 69. Ke2 $132 {
+[%mdl 2048] Black must now prevent Bxf5. White puts up resistance} Qxd5 70. Bb3
+Qd4 71. Qd3 Qb2+ 72. Qc2 Qe5+ 73. Kf1 Qh2 74. Qd3 Kh6 {Accuracy: White = 66%,
+Black = 72%.} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.11"]
+[White "Movsziszian, Karen"]
+[Black "Berkes, Ferenc"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "2475"]
+[BlackElo "2667"]
+[Annotator "TA"]
+[PlyCount "62"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 22,62,62,65,59,0,0,0,0,0,3,0,1,-4,0,0,-4,-3,-3,-11,-3,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. g3 d5 2. Nf3 Nf6 3. Bg2 g6 4. b3 Bg7 5. Bb2 O-O
+6. O-O c5 7. c4 Nc6 8. cxd5 Nxd5 9. Bxg7 Kxg7 10. d4 cxd4 11. Nxd4 Nxd4 12.
+Qxd4+ {[%mdl 64] [#] Double Attack} Nf6 {A05: Réti Opening: 1 Nf3 Nf6} 13. Qxd8
+(13. Qe5 $14) (13. Qe5 Qb6 14. Nc3 Be6 15. Na4 Qb4 16. Qc5 a5 17. Qxb4 axb4 18.
+Bxb7 Ra5 19. Rfc1 Rd8 20. Rc5 {1-0 (67) Meier,G (2647)-Sebenik,M (2551) chess.
+com INT 2018}) 13... Rxd8 $11 {The position is equal.} 14. Nc3 Rb8 15. Rfd1
+Rxd1+ 16. Rxd1 {Strongly threatening Rd8.} Be6 17. Ne4 b6 $146 ({Predecessor:} 
+17... Nxe4 18. Bxe4 Kf6 19. Kg2 b5 20. Rd2 {0-1 (29) L'Henoret,T (2117)-Helbig,
+M (2239) Hoevelte 2003}) 18. Nxf6 Kxf6 {[%mdl 4096] Endgame KRB-KRB} 19. f4 Rc8
+20. Rd2 h5 21. Kf2 Rc1 22. Be4 a5 23. Rc2 Ra1 24. Bd3 a4 25. bxa4 Rxa2 26. Rc6
+Rxa4 27. Rxb6 h4 28. Kf3 hxg3 29. hxg3 Kg7 30. Ra6 Bd5+ 31. Ke3 Rb4 {Accuracy:
+White = 86%, Black = 82%.} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.12"]
+[White "Saric, Ivan"]
+[Black "Keymer, Vincent"]
+[Result "1/2-1/2"]
+[ECO "B81"]
+[WhiteElo "2667"]
+[BlackElo "2506"]
+[Annotator "TA"]
+[PlyCount "122"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,122,25,33,38,23,17,16,19,21,46,27,33,38,30,14,16,21,22,11,15,0,0,17,
+44,8,22,0,12,-34,74,78,112,105,142,121,121,108,197,157,347,329,411,226,245,245,
+229,248,246,239,280,218,248,233,247,239,268,268,261,260,244,223,254,208,190,
+177,171,171,226,256,243,254,310,311,332,309,387,388,376,372,359,360,327,121,
+126,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 c5 2. Nf3
+d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 Nfd7 {B81: Sicilian
+Scheveningen: Keres Attack} (7... h6 8. Bg2 Be7 9. Qd3 Nc6 10. Nxc6 bxc6 11. e5
+Nd5 12. exd6 Bxd6 13. Ne4 Bc7 14. c4 Nf4 15. Qxd8+ Kxd8 16. Kf1 {1/2-1/2 (45)
+Nepomniachtchi,I (2775)-Wojtaszek,R (2737) Dortmund 2019}) 8. Bg2 Be7 9. g5 O-O
+10. h4 Nc6 11. b3 Qb6 12. Nxc6 bxc6 13. Na4 Qc7 {[#]} 14. Bb2 $146 ({
+Predecessor:} 14. Be3 Bb7 15. O-O {1/2-1/2 (32) Demchenko,A (2649)-Yilmaz,M 
+(2633) Beirut 2017}) 14... e5 15. Qd2 Nb6 16. Nxb6 Qxb6 17. O-O-O f6 18. g6
+hxg6 19. f4 Bg4 20. Bh3 Bxh3 (20... Bxd1 $15 21. Be6+ Kh7 22. Rxd1 exf4 23.
+Qxf4 Qb5) 21. Rxh3 $16 exf4 22. Qxf4 Qa5 23. Rg3 {[%mdl 1024] White has strong
+compensation.} Qh5 (23... Qxa2 $2 24. Rxg6 Rf7 25. Rdg1 $18) 24. Rdg1 Kh7 (
+24... g5 $16 25. Qf5 Rf7) 25. Kb1 (25. Rxg6 $6 Qxg6 26. Rxg6 Kxg6 $16) 25...
+Rfe8 $2 (25... Rad8 $16 {was necessary.} 26. Qe3 (26. Rxg6 Qxg6 27. Rxg6 Kxg6
+$16) 26... Rfe8) 26. Qf1 (26. Rxg6 Qxg6 27. Rxg6 Kxg6 $16) 26... d5 27. Rxg6 (
+27. Qg2 $142 {[%cal Rg3g6]} Bc5 28. Rxg6 Bxg1 29. Rxg7+ Kh8 30. Qxg1) 27...
+Qxg6 $18 28. Rxg6 Kxg6 29. Qf5+ Kf7 {[#]} 30. e5 $1 (30. exd5 cxd5 31. h5 (31.
+Qxd5+ Kf8 $16) 31... Rad8 $16) 30... g6 31. Qd7 fxe5 32. Bxe5 {aiming for h5.}
+Rad8 33. Qb7 Rc8 34. Bd6 Rcd8 35. Bc7 Rc8 36. c3 ({But not} 36. Qxc6 $6 Bf6 $16
+) 36... Rh8 37. Be5 Rhf8 38. Bd6 Rce8 39. Bg3 Kg8 (39... Rh8 $142 40. a4 (40.
+Qxc6 Bxh4 41. Qxd5+ Re6 $16) 40... Rh5) 40. Qxc6 Bf6 41. Qxd5+ Kg7 {[#]} 42. h5
+$1 gxh5 43. Qxh5 Re4 44. c4 Rd8 45. Qf5 Rd1+ 46. Kc2 Rdd4 {intending ...Re2+.}
+47. Qh5 $2 (47. Qf3 $18 {and White stays clearly on top.}) 47... Re3 $16 48.
+Qh2 ({Resist} 48. Bf2 Rc3+ 49. Kb1 Rd2 $18) ({White should try} 48. Bc7 $16)
+48... Rde4 $11 {Threatens to win with ...Re2+.The position is equal.} 49. Bf2
+Re2+ 50. Kd1 {Black must now prevent Qg2+.} Bg5 51. Qc7+ Re7 52. Qg3 Rd2+ 53.
+Kc1 Kg6 {( -> ...Rxf2+)} 54. Qxg5+ $1 {[%mdl 64] Remove Defender} Kxg5 55. Kxd2
+{[%mdl 4096] Endgame KR-KB} Kf5 56. Bc5 Rc7 57. Bb6 Rb7 58. c5 Rg7 59. Kc3 Rg4
+60. b4 Ke6 61. c6 Kd6 {Accuracy: White = 68%, Black = 45%.} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.12"]
+[White "Najer, Evgeniy"]
+[Black "Fedoseev, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[WhiteElo "2635"]
+[BlackElo "2664"]
+[Annotator "RC"]
+[PlyCount "63"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:02]} Nc6 {
+[%emt 0:00:00]} 3. Bb5 {[%emt 0:00:35]} g6 {[%emt 0:00:14]} 4. Bxc6 {[%emt 0:
+01:36]} dxc6 {[%emt 0:00:27]} 5. d3 {[%emt 0:00:59]} Bg7 {[%emt 0:03:07]} 6. h3
+{[%emt 0:01:17]} Qc7 {[%emt 0:01:57]} 7. O-O {[%emt 0:02:39]} h6 {[%emt 0:06:
+41]} 8. Nc3 {[%emt 0:07:53]} Nf6 {[%emt 0:07:09]} 9. Be3 {[%emt 0:02:49]} b6 {
+[%emt 0:01:52]} 10. Nd2 {[%emt 0:04:54]} Nh5 {[%emt 0:04:55]} 11. f4 {[%emt 0:
+04:13]} Bd4 {[%emt 0:01:26]} 12. Bxd4 {[%emt 0:00:04]} cxd4 {[%emt 0:00:07]}
+13. Ne2 {[%emt 0:00:03]} c5 {[%emt 0:00:10]} 14. a4 {[%emt 0:00:24]} a5 {
+[%emt 0:13:21]} 15. Nc4 {[%emt 0:03:21]} Ba6 {[%emt 0:04:45]} 16. b3 {[%emt 0:
+06:50]} e6 {[%emt 0:09:11]} 17. Qe1 {[%emt 0:14:31]} O-O-O {[%emt 0:06:16]} 18.
+Qh4 {[%emt 0:06:11]} f5 {[%emt 0:05:02]} 19. exf5 {[%emt 0:08:30]} exf5 {
+[%emt 0:01:18]} 20. Ng3 {[%emt 0:00:03]} Nxg3 {[%emt 0:12:06]} 21. Qxg3 {
+[%emt 0:00:21]} Bxc4 {[%emt 0:00:04]} 22. bxc4 {[%emt 0:00:31]} Qc6 {[%emt 0:
+00:45]} 23. Qf3 {[%emt 0:02:36]} Qxf3 {[%emt 0:00:15]} 24. Rxf3 {[%emt 0:00:41]
+} Rde8 {[%emt 0:00:20]} 25. Kf2 {[%emt 0:00:38]} h5 {[%emt 0:00:18]} 26. h4 {
+[%emt 0:00:28]} Re6 {[%emt 0:00:06]} 27. Re1 {[%emt 0:00:08]} Rhe8 {[%emt 0:00:
+06]} 28. Rxe6 {[%emt 0:00:09]} Rxe6 {[%emt 0:00:05]} 29. Rh3 {[%emt 0:00:26]}
+Re8 {[%emt 0:00:08]} 30. Rh1 {[%emt 0:00:37]} Kd7 {[%emt 0:00:09]} 31. Re1 {
+[%emt 0:00:30]} Rxe1 {[%emt 0:00:14]} 32. Kxe1 {[%emt 0:00:05]} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.13"]
+[White "Maghsoodloo, Parham"]
+[Black "Henderson de La Fuente, Lance"]
+[Result "1-0"]
+[ECO "E09"]
+[WhiteElo "2664"]
+[BlackElo "2494"]
+[Annotator "TA"]
+[PlyCount "95"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 34,95,71,70,80,75,72,68,94,87,114,144,137,136,133,68,70,72,70,59,66,68,
+66,63,145,67,85,81,79,54,118,108,114,112,364,376,372,371,358,351,368,362,342,
+180,185,98,270,2,510,423,4133,2135,1754,1797,29975,29976,29976,29975,29980,
+29981,29987,29988,29988,29989]} 1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 c6 5. Qd3
+Nbd7 6. g3 Be7 7. Bg2 O-O 8. O-O b6 9. e4 dxe4 10. Nxe4 Nxe4 11. Qxe4 Bb7 12.
+Rd1 Nf6 13. Qc2 Qc7 14. Bf4 Bd6 15. Bg5 Be7 16. Bf4 Bd6 17. Bxd6 Qxd6 18. c5
+Qc7 {E09: Closed Catalan: Main Line: 7 Qc2 c6 8 Nbd2} 19. Ne5 Nd5 (19... Rac8
+20. Nc4 Rcd8 21. Rac1 b5 22. Ne5 Nd7 23. Qc3 f6 24. Nf3 Rfe8 25. Nd2 f5 26. Nf3
+{1-0 (47) Nyback,T (2575)-Hallman,V (2254) Finland 2017}) 20. a4 $146 ({
+Predecessor:} 20. Nc4 Rad8 21. Nd6 Ne7 22. Rac1 b5 23. b4 Bc8 24. a4 a6 25. Ra1
+Bd7 26. axb5 axb5 {1/2-1/2 (41) Kauppila,O (2299)-Topi Hulmi,T (2231) Finland
+2015}) 20... bxc5 {White is slightly better.} 21. Qxc5 a5 22. Bxd5 exd5 23.
+Rac1 Rfc8 24. b4 (24. Re1 $1 $16) 24... axb4 $14 25. Qxb4 Rcb8 26. Qa3 f6 27.
+Nd3 Bc8 28. Re1 {And now Re8+ would win.} Bf5 ({Black should try} 28... Bg4 $14
+) 29. Nc5 (29. Nb4 $1 $16 {[%cal Rb4c6]} Re8 30. Rxe8+ Rxe8 31. Qc3 (31. Nxc6
+Bh3 $16)) 29... Qa5 30. Qf3 $36 {[%mdl 2048] Black is under strong pressure.}
+Bg6 31. h4 Re8 ({Better is} 31... h5 $14) 32. Rxe8+ $16 Rxe8 33. h5 Re1+ $2 {
+[%mdl 8192]} (33... Bf7 $16 {was worth a try.}) 34. Rxe1 $18 Qxe1+ 35. Kg2 Be4
+36. Nxe4 dxe4 {[%mdl 4096] Endgame KQ-KQ} 37. Qb3+ Kf8 38. Qa3+ (38. Qb8+ $142
+Kf7 39. Qb3+ Ke7 40. Qb7+ Kf8 41. Qc8+ (41. Qxc6 e3 $16) 41... Kf7 42. Qd7+ (
+42. Qxc6 e3 $16) 42... Kf8 43. h6 (43. Qxc6 e3 $16) 43... gxh6 44. Qxc6) 38...
+Kf7 {[#]} 39. Qa2+ (39. a5 $1 $18 {[%cal Ra5a6]} Qb1 {[#]} 40. h6 $1 {[%mdl
+512]}) 39... Ke7 $2 (39... Kf8 $16) 40. a5 $2 (40. Qg8 $18) 40... Qb4 $2 {
+[%mdl 8192]} (40... Qc3 $11) 41. a6 {[%cal Ba5a6,Ba6a7][%mdl 32] aiming for a7.
+} Qb8 (41... Qc3 $142 42. Kh2 Qf3) 42. a7 Qa8 43. g4 c5 44. dxc5 {White mates.}
+e3+ 45. f3 h6 46. Qa6 Kf7 47. c6 e2 48. Kf2 {Accuracy: White = 36%, Black =
+20%.} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.13"]
+[White "L'Ami, Erwin"]
+[Black "Shirov, Alexei"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2619"]
+[BlackElo "2664"]
+[Annotator "RC"]
+[PlyCount "78"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. e4 {[%emt 0:00:00]} e6 {[%emt 0:02:41]} 2. d4 {[%emt 0:00:00]} d5 {[%emt 0:
+00:04]} 3. e5 {[%emt 0:02:36]} c5 {[%emt 0:01:05]} 4. c3 {[%emt 0:00:09]} Nc6 {
+[%emt 0:02:23]} 5. Nf3 {[%emt 0:00:29]} Qb6 {[%emt 0:01:16]} 6. Be2 {[%emt 0:
+02:33]} cxd4 {[%emt 0:05:33]} 7. cxd4 {[%emt 0:00:12]} Nh6 {[%emt 0:00:03]} 8.
+Nc3 {[%emt 0:12:53]} Nf5 {[%emt 0:00:47]} 9. Bb5 {[%emt 0:05:40]} Bd7 {[%emt 0:
+12:36]} 10. Bxc6 {[%emt 0:03:49]} Bxc6 {[%emt 0:00:12]} 11. O-O {[%emt 0:00:31]
+} Bb4 {[%emt 0:12:08]} 12. a4 {[%emt 0:05:43]} O-O {[%emt 0:03:37]} 13. Ne2 {
+[%emt 0:01:57]} Qa5 {[%emt 0:05:38]} 14. Bf4 {[%emt 0:12:41]} b5 {[%emt 0:01:
+27]} 15. axb5 {[%emt 0:04:14]} Qxb5 {[%emt 0:00:03]} 16. Ng3 {[%emt 0:00:47]}
+a5 {[%emt 0:17:15]} 17. Nh5 {[%emt 0:16:38]} Rfc8 {[%emt 0:08:02]} 18. g4 {
+[%emt 0:10:10]} Ne7 {[%emt 0:00:13]} 19. Bd2 {[%emt 0:07:11]} Ng6 {[%emt 0:10:
+11]} 20. Bxb4 {[%emt 0:00:57]} Qxb4 {[%emt 0:00:23]} 21. Qd2 {[%emt 0:03:26]}
+Nxe5 {[%emt 0:04:26]} 22. Qxb4 {[%emt 0:02:38]} Nxf3+ {[%emt 0:00:07]} 23. Kg2
+{[%emt 0:00:06]} Nh4+ {[%emt 0:00:16]} 24. Kg3 {[%emt 0:00:32]} axb4 {[%emt 0:
+00:04]} 25. Kxh4 {[%emt 0:00:06]} Rxa1 {[%emt 0:08:49]} 26. Rxa1 {[%emt 0:00:
+26]} Be8 {[%emt 0:00:09]} 27. Kg3 {[%emt 0:06:21]} Rc4 {[%emt 0:02:34]} 28. Ra8
+{[%emt 0:01:54]} Kf8 {[%emt 0:00:04]} 29. f3 {[%emt 0:00:57]} Rxd4 {[%emt 0:02:
+30]} 30. Rb8 {[%emt 0:00:45]} Rc4 {[%emt 0:07:43]} 31. g5 {[%emt 0:01:59]} d4 {
+[%emt 0:00:53]} 32. h4 {[%emt 0:00:58]} d3 {[%emt 0:02:00]} 33. Rd8 {[%emt 0:
+00:54]} e5 {[%emt 0:00:05]} 34. b3 {[%emt 0:02:30]} Rd4 {[%emt 0:00:58]} 35.
+Rxd4 {[%emt 0:00:08]} exd4 {[%emt 0:00:04]} 36. Kf2 {[%emt 0:00:05]} Ba4 {
+[%emt 0:00:55]} 37. Nf4 {[%emt 0:01:07]} d2 {[%emt 0:00:04]} 38. Ke2 {[%emt 0:
+00:16]} Bxb3 {[%emt 0:00:04]} 39. Kxd2 {[%emt 0:00:04]} Bc4 {[%emt 0:00:05]}
+0-1
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.14"]
+[White "Eljanov, Pavel"]
+[Black "Paehtz, Elisabeth"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2663"]
+[BlackElo "2489"]
+[Annotator "TA"]
+[PlyCount "121"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,121,11,37,33,39,33,37,29,35,20,19,24,37,31,54,16,17,15,17,0,2,0,0,0,
+0,0,16,20,23,36,33,16,33,8,7,-12,16,11,19,-7,0,0,0,0,32,32,29,0,0,0,0,0,60,50,
+58,30,30,18,14,20,27,10,58,0,0,0,0,0,318,288,292,335,300,306,290,191,388,379,
+357,363,585,591,591,568,591,579,594,587,587,568,567,500,2725,2472,2913,1894,
+29957,29972,29976,29972,29985,29986,29986,29987,29987,29988,29988,29989,29989,
+29990]} 1. d4 e6 2. c4 Bb4+ 3. Bd2 a5 4. Nf3 Nf6 5. g3 d5 6. Qc2 Nc6 7. a3 Be7
+8. Bg2 {E11: Bogo-Indian} dxc4 (8... Ne4 9. O-O Nd6 10. cxd5 exd5 11. Nc3 Nf5
+12. e3 Be6 {1-0 (52) Paehtz,E (2472)-Zhao,X (2506) Huaian 2016}) 9. Qxc4 Qd5
+10. Qxd5 {White is slightly better.} exd5 11. Bf4 Bg4 12. e3 Rc8 $146 ({
+Predecessor:} 12... O-O-O 13. h3 Bf5 14. g4 Bd3 15. Nc3 h6 16. Ne5 Nxe5 17.
+dxe5 Ne4 18. Rd1 Bc2 19. Rc1 {1/2-1/2 (19) Fsadni,R-Herrera,M Kiljava 1984})
+13. Nc3 Nd8 14. h3 (14. Ne5 $5 {[%cal Re5g4]}) 14... Bxf3 15. Bxf3 c6 $1 16.
+Rc1 Ra8 17. g4 Ne6 18. Be5 Nd7 19. Bg3 Nb6 20. Be2 Kd7 21. f4 Bd6 22. Kf2 Rae8
+23. Bd3 h5 24. Kf3 g6 25. Bf2 Bc7 26. Nb1 Nc8 27. Nd2 Nd6 28. Kg2 f5 29. Nf3
+Ne4 30. Bxe4 (30. gxf5 {keeps more tension.} gxf5 31. Kf1 Rhg8 32. Be1 Bd6 33.
+Rg1) 30... dxe4 31. Ne5+ Bxe5 $1 32. dxe5 Kc7 (32... Nc7 $11) 33. Bh4 $14 Rh7
+34. Bf6 Rd7 35. Rhd1 Rxd1 36. Rxd1 $11 {[%mdl 4096] Endgame KRB-KRN} Nc5 37.
+Rd6 b5 38. gxh5 (38. Bg5 $14 hxg4 39. hxg4 (39. Rxg6 gxh3+ 40. Kxh3 Nd3 $11))
+38... gxh5 39. Kg3 $1 Nd3 40. b3 Nc5 $2 {[%mdl 8192]} (40... Rg8+ $11 {and
+Black stays safe.} 41. Kh4 b4 42. axb4 axb4) 41. Kh4 $1 $18 {[%cal Rh4g5]} Nxb3
+42. Kxh5 ({Weaker is} 42. Kg5 c5 $11) 42... Rg8 {[#]} 43. Kh6 $1 Nc5 44. h4 b4
+$2 (44... Nd3) 45. axb4 axb4 {[#] White should prevent ...Nd3.} 46. Kh7 $1 {
+[%cal Rh7g8]} Rb8 $2 (46... Rg2 47. Bd8+ Kb7) 47. Rd1 Nd3 48. Kg6 c5 49. h5 c4
+{intending ...c3.} 50. h6 c3 51. e6 c2 52. Rh1 Kd6 (52... b3 $142 53. h7 (53.
+Kxf5 $2 b2 $19) 53... b2 54. Bxb2 Nxb2) 53. Kf7 b3 54. h7 b2 {[#]} 55. Bxb2 $1
+{[%mdl 576] Promotion. White mates.} Nxb2 {KRN-KR} (55... Rxb2 56. h8=Q) 56. e7
+Nd1 57. h8=Q {[%mdl 64] Promotion} Rxh8 58. Rxh8 c1=Q 59. Rd8+ Kc7 60. e8=Q
+Qc4+ 61. Kg7 {Accuracy: White = 61%, Black = 49%.} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.14"]
+[White "Jobava, Baadur"]
+[Black "Dreev, Aleksey"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2617"]
+[BlackElo "2662"]
+[Annotator "TA"]
+[PlyCount "82"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,82,47,33,42,20,10,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,-27,-35,-36,-45,-52,
+-10,-32,-20,-21,-31,-34,-27,-32,-13,-41,-41,-36,-39,-44,-8,-35,-24,-28,-21,-25,
+-18,-27,-28,-20,-23,-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-274,0,0,0]} 1. e4 c5 2.
+c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 e6 6. Na3 Qd8 7. Bf4 cxd4 8. Nxd4 Bc5 {
+B22: Sicilian: 2 c3} (8... a6 9. Be2 Bc5 10. Nc4 Nd5 11. Bg3 b5 12. Nb3 Be7 13.
+Nca5 Qd7 14. O-O O-O 15. Bf3 Nc6 16. Nxc6 Qxc6 17. Bxd5 exd5 {1/2-1/2 (40)
+Collutiis,D (2447)-Caruana,F (2700) Plovdiv 2010}) 9. Nab5 {Strongly
+threatening Nc7+.} Nd5 10. Nb3 $146 ({Predecessor:} 10. Bg3 O-O 11. Be2 Nc6 12.
+Nxc6 bxc6 13. Nd4 Qb6 14. Nb3 Be7 15. O-O a5 16. Qc2 a4 17. Nd2 Qa5 18. Rab1 g6
+{1/2-1/2 (18) Peredy,F (2365)-Szilagyi,P (2415) Hungary 1997}) 10... Bxf2+ 11.
+Kxf2 {And now Nd6+ would win.} Nxf4 12. Qxd8+ Kxd8 13. Rd1+ Nd7 14. g3 Nd5 15.
+c4 Nb4 16. Bg2 a6 17. N5d4 Kc7 $1 18. Rhe1 Rb8 19. Rd2 Nf6 20. Bf3 Bd7 21. Nc5
+Bc6 22. a3 Bxf3 23. axb4 Bc6 24. Nxc6 Kxc6 25. Red1 Kc7 26. Ke3 Rhe8 27. h3 Re7
+28. g4 h6 29. Kf4 Ra8 30. h4 b6 31. Ne4 Nxe4 32. Kxe4 $11 {[%mdl 4096] Endgame
+[#] KRR-KRR} f5+ $1 {[%mdl 576] Decoy} 33. gxf5 exf5+ 34. Kxf5 Rf8+ 35. Kg4 $1
+Re4+ 36. Kh5 Rxc4 37. Rd7+ Kc6 38. b3 g6+ 39. Kxg6 Rxh4 {Hoping for ...Kb5.}
+40. R1d6+ Kb5 {[#] Threatens to win with ...Rg8+.} 41. Rb7 $1 {[%csl Gb7][%cal
+Rd6b6][%mdl 512]} Kxb4 {Accuracy: White = 62%, Black = 78%.} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.15"]
+[White "Abdusattorov, Nodirbek"]
+[Black "Demchenko, Anton"]
+[Result "1/2-1/2"]
+[ECO "C60"]
+[WhiteElo "2608"]
+[BlackElo "2655"]
+[Annotator "TA"]
+[PlyCount "108"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,108,6,20,27,3,6,15,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,20,60,
+0,0,0,0,0,0,0,0,-27,-27,-27,-27,-56,-56,-77,-64,-56,-70,-71,-78,-72,-72,-87,
+-62,-153,-153,-153,-154,-240,-243,-240,-240,-240,-240,-241,-220,-252,-252,-199,
+-190,-245,-212,-238,-252,-252,-252,-252,-252,-252,-252,-252,-259,-259,-259,
+-259,-259,-259,-259,-259,-259,-259,-259,-259,-8]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 g6
+4. d4 exd4 5. Bg5 Be7 6. Bxe7 Qxe7 7. Bxc6 dxc6 8. Qxd4 Nf6 9. Nc3 Bg4 {
+C60: Ruy Lopez: Unusual Black 3rd moves and 3...g6} 10. Nd2 c5 11. Qe3 O-O-O {
+The position is equal.} 12. h3 (12. f3 Be6 13. O-O-O b6 14. g4 Nd7 15. h3 Ne5
+16. f4 Nc6 17. Nf3 {0-1 (34) Guseinov,G (2645)-Carlsen,M (2832) chess.com INT
+2017}) 12... Bd7 13. O-O-O Bc6 14. Rhe1 Rhe8 15. f3 Nh5 16. Nc4 b6 17. Rxd8+
+$146 ({Predecessor:} 17. g4) 17... Rxd8 18. g4 Ng7 19. f4 f6 20. f5 gxf5 21.
+gxf5 Qf7 22. b3 Qh5 23. Qg3 ({White should play} 23. Rf1 $14) 23... Ne8 $1 $11
+24. Kb2 Nd6 25. Nxd6+ Rxd6 26. Rg1 Kb7 27. Qe3 Qe8 28. Rg7 Rd7 29. Rg1 Rd4 30.
+e5 Qxe5 31. Qxe5 fxe5 $17 {[%mdl 4096] Endgame KRB-KRN} 32. Rg7 Rf4 33. Rxh7
+Rxf5 34. h4 b5 {[%cal Bb6b5,Bb5b4][%mdl 32]} 35. h5 {[#]} ({Better is} 35. Nd1
+$15) 35... b4 $1 {[%cal Rb4c3]} 36. Nd1 Bf3 37. Nf2 (37. Ne3 $17 Rxh5 38. Re7)
+37... Rxh5 $19 38. Rxh5 Bxh5 {KB-KN} 39. Nd3 Kc6 40. Nxe5+ Kd5 41. Nd3 {
+Strongly threatening Nf4+.} Kd4 42. a3 Bg6 43. Nf4 {[#]} Bf5 $1 44. axb4 cxb4
+45. Ne2+ {Black has a decisive advantage.} Ke3 46. Nc1 Kd2 47. Na2 a5 {[%cal
+Ba7a5,Ba5b4][%mdl 32]} ({Less strong is} 47... Bxc2 48. Nxb4 Be4 49. Na6 $17)
+48. c3 c5 49. cxb4 axb4 50. Nc1 Bg4 51. Na2 Bd1 52. Nc1 Ke3 53. Na2 Kd4 54. Nc1
+c4 $2 {Accuracy: White = 71%, Black = 78%.} (54... Bg4 $19 55. Kc2 Ke3) 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.15"]
+[White "Atalik, Ekaterina"]
+[Black "Kovalev, Vladislav"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2464"]
+[BlackElo "2661"]
+[Annotator "TA"]
+[PlyCount "91"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,91,-7,0,-4,-2,-26,-16,-35,-19,-72,-45,-38,-11,-20,24,0,0,0,0,-52,-60,
+-66,-50,-55,-41,-47,-9,-8,-8,-10,0,0,0,0,0,-47,-48,-50,-29,-38,-35,-83,-99,
+-111,-118,-108,-77,-104,0,0,0,0,0,0,0,0,0,-314,464,475,474,447,651,632,580,591,
+563,432,490,297,440,0,0,0,241,0]} 1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 Be7 5.
+Bf4 O-O 6. e3 b6 7. a3 ({Predecessor:} 7. cxd5 Nxd5 8. Nxd5 exd5 9. a3 {
+1/2-1/2 (10) Shishkin,V (2506)-Ovsejevitsch,S (2582) Koszalin 2008}) 7... c5 8.
+cxd5 Nxd5 9. Nxd5 exd5 10. dxc5 $146 {D37: Queen's Gambit Declined: 5 Bf4} (10.
+Ne5 Bf5 11. Bb5 a6 12. Bc6 Nxc6 13. Nxc6 Qd7 14. Nxe7+ Qxe7 15. dxc5 Qxc5 16.
+O-O Rac8 17. Rc1 Qxc1 18. Qxc1 Rxc1 19. Rxc1 {1/2-1/2 (31) Radjabov,T (2726)
+-Mamedyarov,S (2764) Tashkent 2014}) 10... bxc5 11. Rc1 Be6 12. Be2 {The
+position is equal.} Qa5+ 13. Kf1 (13. Qd2 $11 {remains equal.} Qxd2+ 14. Kxd2)
+13... Nd7 14. h4 Rfc8 15. Ng5 Nf8 (15... Qb6 {seems wilder.} 16. Qc2 Nf6 17.
+Be5 h6 18. Bf3 Qc6) 16. Be5 Qb6 17. Nxe6 fxe6 18. Qd2 (18. e4 $11) 18... Nd7
+$15 19. Bc3 a5 20. Rd1 Bf6 21. h5 Rf8 22. h6 g6 23. Rh3 Rab8 24. Rf3 a4 25.
+Bxf6 Rxf6 26. e4 Rxf3 27. gxf3 d4 $1 ({Of course not} 27... Qxb2 $6 28. Qf4 $14
+) 28. Qg5 Qd8 29. Qg4 Qf6 30. Bc4 Kf7 {White must now prevent ...Ne5.} 31. f4
+Rxb2 {And now ...Ne5! would win.} 32. f5 {[%cal Rc4e6]} Ne5 ({Worse is} 32...
+gxf5 33. exf5 Qxh6 34. fxe6+ Ke7 35. exd7 $16) (32... Nf8 $1 $17 33. Qf4 Ke8)
+33. Bxe6+ $11 Kf8 34. Qg3 g5 35. Kg2 Ke7 36. Rh1 g4 37. Rh4 $2 {[%mdl 8192]} (
+37. Rc1 $11 {and White stays safe.} Kd6 38. Qf4) 37... Ke8 $4 {[%mdl 8192]} (
+37... Kd6 $1 $19 {and life is good for Black. Threatens to win with ...Rb1.}
+38. Rh1 Qg5) 38. Rxg4 $1 $18 Nxg4 39. Qxg4 {Hoping for e5!} Qxh6 {[%mdl 4096]
+Endgame KQR-KQB} (39... Rb7 $142) 40. Qg8+ Ke7 41. e5 {White threatens Qf7+
+and mate.} Rxf2+ 42. Kxf2 {Threatening mate with Qf7+.} Qe3+ 43. Kg2 {[%csl
+Ge5][%cal Rf5f6]} Qe4+ {[#]} 44. Kg1 $2 ({White has to play} 44. Kf1 $1 $18 {
+[%csl Ge5][%cal Rf5f6]} Qf3+ 45. Kg1 Qe3+ 46. Kg2 Qe4+ 47. Kg1 Qe1+ 48. Kg2
+Qe4+) 44... Qe1+ $1 $11 45. Kg2 $2 (45. Kh2 $11 Qh4+ 46. Kg1 Qe1+ 47. Kh2 (47.
+Kg2 Qe4+ 48. Kg3 Qxe5+ 49. Kh3 Qe3+ 50. Qg3 Qc1 $16) 47... Qxe5+ 48. Kh3 Qe3+
+49. Qg3) 45... Qe4+ $1 $18 {[#]} 46. Kg1 $2 {Accuracy: White = 57%, Black =
+64%.} (46. Kf1 $1 $18 {[%csl Ge5][%cal Rf5f6]} Qf3+ 47. Kg1 Qe3+ 48. Kh2 (48.
+Kg2 Qe4+ $16) 48... Qxe5+ 49. Kh3 Qe3+ 50. Qg3) 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.16"]
+[White "Karjakin, Sergey"]
+[Black "Sadhwani, Raunak"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "2760"]
+[BlackElo "2479"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,61,23,48,11,18,20,18,0,0,0,-20,1,20,20,27,31,27,23,20,28,14,18,53,54,
+48,20,20,20,20,20,26,26,26,26,26,26,26,0,0,0,26,0,0,0,0,0,0,0,0,0]} 1. e4 c6 2.
+d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 Qb6 7. Nc3 Nc6 8. Na4 {B12:
+Caro-Kann: Advance Variation} (8. O-O Qxb2 9. Qe1 cxd4 10. Bxd4 Nxd4 11. Nxd4
+Bb4 12. Ndb5 Ba5 13. Rb1 Qxc2 14. Rb3 Ne7 15. Nd6+ Kf8 16. Nxb7 {0-1 (52)
+Jakovenko,D (2704)-Inarkiev,E (2682) Izhevsk 2019}) 8... Qa5+ 9. c3 {[%cal
+Rd4c5]} c4 10. O-O b5 11. Nc5 Bxc5 12. dxc5 Nge7 13. b4 Qa3 14. Qc1 Qxc1 15.
+Rfxc1 Kd7 {[#]} 16. a4 $146 a6 $1 17. Ra2 Kc7 18. Rca1 Rab8 19. Ng5 {[#] axb5
+is the strong threat.} Bg6 20. axb5 axb5 21. f4 Kb7 22. Nf3 Ra8 23. Rxa8 Rxa8
+24. Rxa8 Kxa8 25. Nd4 Nxd4 26. Bxd4 $11 {KBB-KBN} Nc6 27. Kf2 Nxd4 {The
+position is equal.} 28. cxd4 Be4 29. Bf3 Bxf3 30. Kxf3 Kb7 31. Ke3 {Accuracy:
+White = 51%, Black = 74%.} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.16"]
+[White "Ganguly, Surya Shekhar"]
+[Black "Saduakassova, Dinara"]
+[Result "1-0"]
+[ECO "A13"]
+[WhiteElo "2658"]
+[BlackElo "2481"]
+[Annotator "TA"]
+[PlyCount "73"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,73,13,15,0,8,4,14,22,19,29,22,14,40,0,54,54,53,27,26,0,16,0,0,0,0,0,
+0,-20,-17,-10,0,0,48,33,58,0,21,0,153,169,254,255,267,260,242,222,299,191,422,
+395,377,366,5414,5397,2292,2303,1646,1547,29984,29985,29985,29986]} 1. c4 Nf6
+2. Nf3 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Nbd7 6. Qxc4 c5 7. Qb3 Rb8 8. O-O {
+A13: English Opening: 1...e6} (8. d3 Bd6 9. a4 b6 10. Na3 a6 11. O-O O-O 12.
+Nc4 Bc7 13. Bd2 Bb7 14. Rfc1 Nd5 15. Qd1 Rc8 16. Qe1 a5 17. Bc3 Re8 {1/2-1/2 
+(41) Artemiev,V (2663)-Sjugirov,S (2653) Baku 2016}) 8... b6 9. d3 Bd6 10. Na3
+$146 {[%cal Bb1a3,Ba3c4,Bc4d6][%mdl 32] The position is equal.} ({Predecessor:
+} 10. Nc3 a6 11. Ng5 O-O 12. Nxe6 {1-0 (12) Szekely,P (2430)-Moulton,P (2205)
+Dublin 1991}) 10... a6 11. Nc4 Bc7 12. d4 O-O 13. Rd1 Qe7 (13... b5 $11 14.
+Nce5 c4) 14. Nfe5 $14 Nxe5 $1 15. dxe5 Nd5 16. Nd6 Rd8 $1 17. h4 {Threatens to
+win with e4.} h6 $1 (17... Bxd6 $6 18. exd6 Qd7 19. Bg5 $16) 18. e4 Nb4 {
+[%cal Rc7d6]} 19. Bf4 Nc6 20. Qe3 Qf8 {...Bxd6 is the strong threat.} 21. Qc3
+$1 Bb7 22. Rd2 Qe7 23. Rad1 (23. Nxb7 Rxb7 24. Qa3 Ra7 $15) 23... a5 24. Qf3 (
+24. Be3 $14) 24... Bxd6 25. exd6 Qf6 $2 ({Black should try} 25... Qd7 $11) 26.
+d7 $36 {[%mdl 2048] Keeping Black busy.} e5 (26... Nd4 $142 27. Rxd4 cxd4) 27.
+Rd6 $18 Qe7 {Strongly threatening ...Nd4.} 28. Bxh6 $1 Nd4 29. Qg4 {[%csl Gh6]
+[%cal Rg4g7]} f6 30. Bh3 Kh8 $2 (30... Bxe4 31. R1xd4 (31. Bxg7 f5 $11) 31...
+cxd4) 31. Qg6 {And now R1xd4! would win.} gxh6 {[#]} 32. R1xd4 $1 {[%mdl 512]}
+cxd4 $2 (32... exd4 $2 {perishes.} 33. Qxh6+ Qh7 34. Qxf6+ Qg7 35. Qf5 $18) (
+32... Qg7 33. Qxg7+ Kxg7) 33. Qxh6+ Qh7 34. Qxf6+ {[%mdl 64] Double Attack} Qg7
+35. Qf5 d3 36. Qh5+ Kg8 {[#]} 37. Rg6 $1 {[%mdl 512] Accuracy: White = 66%,
+Black = 33%.} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.17"]
+[White "Kasimdzhanov, Rustam"]
+[Black "Lei, Tingjie"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2657"]
+[BlackElo "2469"]
+[Annotator "TA"]
+[PlyCount "53"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,53,11,14,15,22,18,25,12,17,10,13,0,14,8,36,31,32,18,31,0,0,0,603,589,
+948,989,1244,1170,2365,2881,3091,2801,2052,1756]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5
+d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4 c6 9. Nc3 Nxc3 10. bxc3
+dxc4 11. Bxc4 Bf5 12. Bg5 {C42: Petroff Defence: 3 Nxe5 and unusual White 3rd
+moves} Qa5 13. d5 $146 ({Predecessor:} 13. Nh4 Be6 14. Bxe6 Qxg5 15. Nf3 Qd8
+16. Bb3 Nd7 17. Re1 g6 18. g3 Kg7 19. Qd3 Nf6 {1-0 (51) Giri,A (2776)-Caruana,
+F (2822) Baden-Baden 2018}) 13... Qc7 14. Re1 {White has an edge.} h6 15. Bh4
+Bg6 16. Bd3 Bh5 17. h3 $36 {[%mdl 2048] Black is under pressure.} c5 18. g4 Bg6
+19. g5 {Black must now prevent Bxg6.} h5 20. Bxg6 fxg6 21. Re6 Kh7 $2 {[%mdl
+8192]} (21... Nd7 $11) 22. Qd3 $18 {White is clearly winning.} Rf5 {[#]} 23.
+Rxg6 $3 {[%mdl 512]} Kxg6 24. Re1 {Re6+ would kill now.} Bh2+ 25. Nxh2 {
+Intending Re6+ and mate.} Qf4 26. Bg3 c4 {[#]} 27. Qb1 {Played: Qd3-c2} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.17"]
+[White "Jumabayev, Rinat"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[WhiteElo "2630"]
+[BlackElo "2767"]
+[Annotator "TA"]
+[PlyCount "66"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,66,18,18,13,25,25,22,24,20,26,0,0,0,12,12,11,7,8,10,12,8,12,10,12,8,
+22,27,27,9,16,25,25,0,0,0,0,0,0,0,22,28,37,26,73,0,0,0,0]} 1. d4 Nf6 2. c4 e6
+3. Nf3 d5 4. g3 dxc4 5. Bg2 Nc6 6. Qa4 Bb4+ 7. Bd2 Nd5 8. Bxb4 Ndxb4 9. O-O Rb8
+10. Nc3 a6 11. Ne5 O-O {E04: Open Catalan: 5 Nf3} 12. Nxc6 Nxc6 13. Bxc6 bxc6
+14. Qxc4 Qd6 15. b3 Rb4 16. Ne4 Qxd4 17. Qxd4 Rxd4 18. f3 {[#]} e5 $146 ({
+Predecessor:} 18... f5 19. Nc5 {1/2-1/2 (29) Tratar,M (2488)-San Segundo
+Carrillo,P (2560) San Sebastian 2009}) 19. Kf2 Rfd8 20. Rfc1 f5 21. Nc5 a5 22.
+Rc2 R8d6 23. Nd3 e4 24. Ne5 Ba6 25. Rac1 exf3 26. Nxc6 Rd2 {...Rxc2 is the
+strong threat.} 27. Ne7+ {[%mdl 64] [#] Double Attack, Discovered Attack} Kf8
+28. Nxf5 Rd7 {Hoping for ...Rxc2.} 29. Kxf3 ({Wrong is} 29. Rxc7 $2 Rxc7 30.
+Rxc7 fxe2 $19) 29... Bxe2+ 30. Ke3 R7d3+ 31. Ke4 Bg4 {[#]} 32. Ne3 (32. Rf1 $1
+$16) 32... Bh5 $11 {aiming for ...Bg6+.} 33. Rxd2 Rxd2 {Accuracy: White = 77%,
+Black = 83%.} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.18"]
+[White "Alekseev, Evgeny"]
+[Black "Grischuk, Alexander"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "2629"]
+[BlackElo "2759"]
+[Annotator "TA"]
+[PlyCount "80"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,134,0,0,0,-10,0,-14,-14,-28,21,-12,0,-18,-10,-16,-10,-11,-22,-27,-12,
+-30,-24,-23,-25,-46,-46,-54,-33,-34,-38,-33,-25,-29,-34,-31,-30,-38,-27,-47,
+-44,-38,-41,-47,-36,-56,-43,-61,-56,-58,-48,-43,-50,-56,-38,-66,-46,-95,-73,
+-104,-103,-114,-113,-141,-124,-194,-194,-197,-193,-195,-200,-200,-139,-195,
+-188,-200,-200,-192,-192,-200,-200,-12831,-12832,-12832,-12833,-12833,-12831,
+-12833,-12833,-12833,-12834,-12834,-12834,-12835,-12833,-12836,-12836,-12837,
+-12837,-12837,-12838,-12838,-12837,-12839,-12839,-12839,-12837,-12837,-12836,
+-12837,-12835,-12836,-12836,-12837,-12837,-12837,-12838,-12838,-12839,-12841,
+-12841,-12842,-12842,-12842,-12843,-12850,-29977]} 1. e4 e6 2. d4 d5 3. Bd3
+dxe4 4. Bxe4 Nf6 5. Bf3 c5 6. Ne2 Be7 {C01: French: Exchange Variation} 7. Nbc3
+O-O 8. dxc5 $146 ({Predecessor:} 8. Be3 Qa5 9. O-O Nc6 10. Qe1 cxd4 11. Nxd4
+Ne5 12. Qe2 Nxf3+ 13. Qxf3 Bd7 14. Rfd1 {1/2-1/2 (61) Tan,J (2513)-Howell,D 
+(2697) Torquay 2019}) 8... Qxd1+ {The position is equal.} 9. Nxd1 Nbd7 10. Nd4
+Ne5 11. Be2 Bxc5 12. Nb3 Be7 13. Nc3 Bd7 14. O-O Rfc8 15. Rd1 Bb4 16. Bd2 Nc4
+17. Bxc4 Rxc4 18. a3 Be7 19. Na5 Rcc8 20. Bf4 b6 21. Nb7 Bc6 22. Nd6 Rd8 {
+[#] Hoping for ...Nh5.} 23. Ndb5 a6 24. Nd4 Be8 25. Nb3 Rdc8 26. Bd6 Bd8 27.
+Nd4 b5 28. Rd3 Ba5 29. Nde2 Bb6 30. Rad1 Bc6 31. Bf4 Nd5 32. Be5 f6 33. Bg3
+Nxc3 (33... Ne7 {is more complex.} 34. Bf4 a5 35. b4 Nf5 36. Rc1 axb4 37. axb4
+Ba7) 34. Nxc3 e5 35. h3 Bd4 36. Kh2 a5 {[%cal Ba6a5,Ba5b4][%mdl 32]} 37. f4 (
+37. Rxd4 $17 {was necessary.} exd4 38. Rxd4) 37... b4 $19 38. fxe5 fxe5 ({
+And not} 38... bxc3 39. Rxd4 cxb2 40. exf6 $11) 39. axb4 axb4 40. Ne2 Bb5 {
+Played: Bc6-e4} 0-1
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.18"]
+[White "Munguntuul, Batkhuyag"]
+[Black "Movsesian, Sergei"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2421"]
+[BlackElo "2654"]
+[Annotator "RC"]
+[PlyCount "165"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:00]} 3. d4 {[%emt 0:00:00]} cxd4 {[%emt 0:00:00]} 4. Nxd4 {[%emt 0:
+00:00]} Qb6 {[%emt 0:00:00]} 5. Nb3 {[%emt 0:00:42]} Nf6 {[%emt 0:00:06]} 6.
+Nc3 {[%emt 0:00:16]} e6 {[%emt 0:00:10]} 7. Be3 {[%emt 0:00:11]} Qc7 {[%emt 0:
+00:23]} 8. f4 {[%emt 0:01:28]} Bb4 {[%emt 0:01:41]} 9. Bd3 {[%emt 0:01:44]}
+Bxc3+ {[%emt 0:02:27]} 10. bxc3 {[%emt 0:00:05]} e5 {[%emt 0:00:02]} 11. O-O {
+[%emt 0:15:29]} d6 {[%emt 0:02:04]} 12. f5 {[%emt 0:07:51]} h6 {[%emt 0:01:21]}
+13. c4 {[%emt 0:05:05]} b6 {[%emt 0:01:48]} 14. a4 {[%emt 0:03:20]} Bb7 {
+[%emt 0:04:11]} 15. Qe1 {[%emt 0:15:39]} Nb8 {[%emt 0:06:18]} 16. Bf2 {[%emt 0:
+05:48]} Nbd7 {[%emt 0:03:03]} 17. a5 {[%emt 0:06:43]} O-O {[%emt 0:04:37]} 18.
+Bh4 {[%emt 0:06:29]} Ba6 {[%emt 0:11:44]} 19. Qe2 {[%emt 0:02:43]} Rfc8 {
+[%emt 0:01:09]} 20. axb6 {[%emt 0:03:07]} axb6 {[%emt 0:01:53]} 21. Nd2 {
+[%emt 0:00:21]} Bb7 {[%emt 0:01:09]} 22. Rxa8 {[%emt 0:06:46]} Rxa8 {[%emt 0:
+02:13]} 23. Nb1 {[%emt 0:00:02]} Bc6 {[%emt 0:04:55]} 24. Nc3 {[%emt 0:02:02]}
+Ra3 {[%emt 0:02:26]} 25. Nb1 {[%emt 0:01:54]} Ra1 {[%emt 0:01:50]} 26. Nc3 {
+[%emt 0:00:03]} Qa7 {[%emt 0:01:22]} 27. Rxa1 {[%emt 0:04:13]} Qxa1+ {[%emt 0:
+00:26]} 28. Qe1 {[%emt 0:00:01]} Qa3 {[%emt 0:00:59]} 29. h3 {[%emt 0:00:25]}
+Kf8 {[%emt 0:04:31]} 30. Kh2 {[%emt 0:01:24]} Ne8 {[%emt 0:01:29]} 31. Bf2 {
+[%emt 0:01:31]} Nc5 {[%emt 0:01:52]} 32. Bh4 {[%emt 0:02:26]} Nf6 {[%emt 0:02:
+25]} 33. Bxf6 {[%emt 0:05:26]} gxf6 {[%emt 0:00:04]} 34. Kg1 {[%emt 0:00:36]}
+Qb2 {[%emt 0:03:15]} 35. Qd2 {[%emt 0:03:26]} Ke7 {[%emt 0:03:16]} 36. Kh2 {
+[%emt 0:02:57]} Qa1 {[%emt 0:02:36]} 37. Kg3 {[%emt 0:01:51]} Qa5 {[%emt 0:01:
+03]} 38. Kf3 {[%emt 0:02:49]} Ke8 {[%emt 0:04:36]} 39. Ke2 {[%emt 0:00:36]} Qa1
+{[%emt 0:01:01]} 40. Qe1 {[%emt 0:02:15]} Qb2 {[%emt 0:01:33]} 41. Qd2 {
+[%emt 0:04:29]} Ke7 {[%emt 0:01:14]} 42. Ke3 {[%emt 0:01:58]} Qa1 {[%emt 0:03:
+45]} 43. Kf2 {[%emt 0:00:35]} Ke8 {[%emt 0:01:34]} 44. Kg3 {[%emt 0:01:58]} Qb2
+{[%emt 0:03:18]} 45. Kf2 {[%emt 0:02:30]} h5 {[%emt 0:01:01]} 46. Ke2 {[%emt 0:
+02:21]} h4 {[%emt 0:01:05]} 47. Qe1 {[%emt 0:05:18]} Kd7 {[%emt 0:11:23]} 48.
+Ke3 {[%emt 0:01:26]} Ke7 {[%emt 0:01:12]} 49. Ne2 {[%emt 0:04:15]} Qa3 {
+[%emt 0:02:21]} 50. Nc3 {[%emt 0:03:08]} Qa5 {[%emt 0:02:39]} 51. Ke2 {[%emt 0:
+00:56]} Kd7 {[%emt 0:00:43]} 52. Kf2 {[%emt 0:01:09]} Qa8 {[%emt 0:05:54]} 53.
+Kg1 {[%emt 0:00:43]} Ke7 {[%emt 0:01:20]} 54. Kf1 {[%emt 0:00:57]} Qa3 {
+[%emt 0:00:27]} 55. Ke2 {[%emt 0:00:26]} Qb2 {[%emt 0:01:08]} 56. Ke3 {[%emt 0:
+00:10]} Bb7 {[%emt 0:01:44]} 57. Ke2 {[%emt 0:02:08]} Ba8 {[%emt 0:04:59]} 58.
+Ke3 {[%emt 0:00:11]} Bc6 {[%emt 0:00:10]} 59. Ne2 {[%emt 0:01:07]} Qa3 {
+[%emt 0:05:23]} 60. Nc3 {[%emt 0:00:37]} Nb7 {[%emt 0:03:09]} 61. Kf3 {[%emt 0:
+19:07]} Qa5 {[%emt 0:17:29]} 62. Ke2 {[%emt 0:00:50]} Kd7 {[%emt 0:00:32]} 63.
+Nd1 {[%emt 0:00:36]} Ke7 {[%emt 0:10:12]} 64. Qxh4 {[%emt 0:00:51]} Nc5 {
+[%emt 0:00:06]} 65. Nf2 {[%emt 0:03:02]} Qa8 {[%emt 0:00:31]} 66. Kf3 {[%emt 0:
+03:10]} Qa1 {[%emt 0:00:40]} 67. Qh6 {[%emt 0:00:17]} Qc3 {[%emt 0:01:29]} 68.
+Qe3 {[%emt 0:01:17]} Ba4 {[%emt 0:00:38]} 69. Nd1 {[%emt 0:01:31]} Qa1 {
+[%emt 0:04:40]} 70. Ke2 {[%emt 0:00:25]} Bc6 {[%emt 0:02:58]} 71. g4 {[%emt 0:
+01:42]} Qa8 {[%emt 0:00:07]} 72. Nf2 {[%emt 0:00:21]} Qa1 {[%emt 0:00:46]} 73.
+g5 {[%emt 0:00:30]} Na4 {[%emt 0:05:11]} 74. gxf6+ {[%emt 0:01:08]} Kxf6 {
+[%emt 0:00:24]} 75. Qh6+ {[%emt 0:02:21]} Ke7 {[%emt 0:00:04]} 76. f6+ {
+[%emt 0:02:22]} Ke6 {[%emt 0:00:43]} 77. Qg5 {[%emt 0:00:18]} Nc3+ {[%emt 0:03:
+09]} 78. Kf3 {[%emt 0:00:56]} Kd7 {[%emt 0:02:07]} 79. Qg8 {[%emt 0:01:28]} Kc7
+{[%emt 0:00:24]} 80. Qxf7+ {[%emt 0:00:24]} Bd7 {[%emt 0:00:04]} 81. Qg7 {
+[%emt 0:01:07]} Nd1 {[%emt 0:01:49]} 82. f7 {[%emt 0:02:47]} Nxf2 {[%emt 0:00:
+13]} 83. Kxf2 {[%emt 0:00:15]} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.19"]
+[White "Aronian, Levon"]
+[Black "Abasov, Nijat"]
+[Result "1/2-1/2"]
+[ECO "D38"]
+[WhiteElo "2758"]
+[BlackElo "2632"]
+[Annotator "TA"]
+[PlyCount "93"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,93,19,43,44,39,21,20,0,10,0,27,-13,0,-6,0,0,22,14,22,25,15,18,66,66,
+65,68,60,66,58,38,47,50,52,39,41,31,66,68,94,14,10,0,0,0,0,0,0,0,0,0,0,6,77,75,
+102,100,102,102,112,100,97,93,92,75,100,39,39,39,39,39,39,39,39,39,39,39,55,21,
+20,20,20,18,18,0,8,9]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 Nxd5 6.
+Bd2 {D38: Queen's Gambit Declined: Ragozin Defence (4 Nf3 Bb4)} O-O 7. Rc1 (7.
+e4 Nxc3 8. bxc3 Be7 9. Bd3 c5 10. e5 Nc6 11. h4 g6 12. h5 cxd4 13. Qc2 dxc3 14.
+Bxc3 {0-1 (64) Moiseenko,A (2670)-Socko,M (2495) Warsaw 2010}) 7... c5 $146 ({
+Predecessor:} 7... Nxc3 8. Bxc3 Be7 9. b4 c6 10. e4 Nd7 11. Bc4 Bg5 12. Rc2 Bf4
+13. g3 Bh6 {0-1 (40) Pluemer,D (2284)-Kluegel,J (1977) Bad Wiessee 2003}) 8.
+Nxd5 Qxd5 9. dxc5 Bxc5 10. g3 Be7 11. Bc3 Qxa2 12. e4 {Ra1 is the strong
+threat.} e5 13. Nxe5 Rd8 14. Bd3 Be6 15. O-O Nd7 16. Ra1 Qb3 {Strongly
+threatening ...Nxe5.} 17. Bc2 Qb6 {Hoping for ...Nxe5.} 18. Ba5 Qxb2 19. Nd3
+Qf6 {And now ...b6 would win.} 20. Bxd8 Rxd8 21. Nf4 ({Don't play} 21. Rxa7 Ne5
+$17) 21... Ne5 22. Nd5 Rxd5 23. exd5 Bg4 24. f3 (24. Qc1 $16 Nf3+ 25. Kh1)
+24... Bxf3 $11 {[#] ( -> ...Bc5+)} ({Avoid the trap} 24... Bc5+ $2 25. Kg2 $18)
+25. Rxf3 $1 {[%mdl 576] Remove Defender} Nxf3+ 26. Kg2 $1 Nd4 27. Rxa7 Qe5 $1 {
+[%cal Re5d5]} 28. Ra8+ $40 {[%mdl 128] White attacks.} Bf8 29. Rd8 g6 30. Bb1
+Kg7 (30... b6 $11 {remains equal.}) 31. Rd7 $16 Nb5 32. Rxb7 Nd6 {[#]} 33. Rb3
+$1 Be7 34. Qf3 Bf6 35. Bd3 h5 36. Rb1 h4 37. gxh4 (37. g4 $16) 37... Bxh4 $14
+38. Kh1 Bf6 39. Rg1 Bd8 40. Qg2 {[%cal Rd3g6] Threatens to win with Bxg6!} Bb6
+41. Rb1 Bd4 42. Qf3 Bc3 43. h4 Be1 {The position is equal.} 44. h5 gxh5 45. Be2
+Bg3 46. Bd3 h4 47. Rf1 {Accuracy: White = 55%, Black = 67%.} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.19"]
+[White "Lenderman, Aleksandr"]
+[Black "Erenberg, Ariel"]
+[Result "*"]
+[ECO "D27"]
+[WhiteElo "2648"]
+[BlackElo "2463"]
+[Annotator "RC"]
+[PlyCount "95"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. Nf3 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:00]} e6 {
+[%emt 0:00:00]} 3. Nc3 {[%emt 0:00:00]} d5 {[%emt 0:00:00]} 4. e3 {[%emt 0:00:
+00]} dxc4 {[%emt 0:01:00]} 5. Bxc4 {[%emt 0:00:00]} a6 {[%emt 0:00:01]} 6. O-O
+{[%emt 0:00:05]} c5 {[%emt 0:01:49]} 7. d4 {[%emt 0:00:33]} Nc6 {[%emt 0:10:25]
+} 8. Bb3 {[%emt 0:01:23]} Be7 {[%emt 0:13:45]} 9. dxc5 {[%emt 0:05:06]} Bxc5 {
+[%emt 0:10:16]} 10. Qxd8+ {[%emt 0:03:03]} Kxd8 {[%emt 0:00:34]} 11. Bd2 {
+[%emt 0:00:06]} Ke7 {[%emt 0:06:13]} 12. Rfc1 {[%emt 0:07:44]} Ba7 {[%emt 0:14:
+25]} 13. Be1 {[%emt 0:00:56]} Bd7 {[%emt 0:03:24]} 14. Na4 {[%emt 0:01:28]} Ne4
+{[%emt 0:07:43]} 15. Nd2 {[%emt 0:04:13]} Nxd2 {[%emt 0:04:21]} 16. Bxd2 {
+[%emt 0:00:49]} Rhd8 {[%emt 0:10:18]} 17. Nc5 {[%emt 0:02:46]} Be8 {[%emt 0:02:
+02]} 18. Be1 {[%emt 0:00:11]} Rab8 {[%emt 0:03:58]} 19. Rc2 {[%emt 0:03:25]}
+Bxc5 {[%emt 0:02:52]} 20. Rxc5 {[%emt 0:02:37]} f6 {[%emt 0:00:05]} 21. Rac1 {
+[%emt 0:04:44]} Bf7 {[%emt 0:02:31]} 22. Ba4 {[%emt 0:03:11]} e5 {[%emt 0:01:
+54]} 23. a3 {[%emt 0:06:37]} Be8 {[%emt 0:03:01]} 24. Bd1 {[%emt 0:04:20]} Rd6
+{[%emt 0:02:46]} 25. Be2 {[%emt 0:01:02]} Rbd8 {[%emt 0:00:37]} 26. b4 {
+[%emt 0:02:40]} Bg6 {[%emt 0:05:42]} 27. b5 {[%emt 0:10:00]} axb5 {[%emt 0:00:
+15]} 28. Rxb5 {[%emt 0:00:20]} R8d7 {[%emt 0:01:02]} 29. Bg4 {[%emt 0:01:40]}
+Bd3 {[%emt 0:00:42]} 30. Bxd7 {[%emt 0:03:37]} Bxb5 {[%emt 0:00:05]} 31. Bc8 {
+[%emt 0:00:27]} Ba6 {[%emt 0:01:02]} 32. Rb1 {[%emt 0:00:28]} Rd8 {[%emt 0:00:
+23]} 33. Bf5 {[%emt 0:01:59]} g6 {[%emt 0:00:06]} 34. Bc2 {[%emt 0:00:49]} Rd6
+{[%emt 0:01:57]} 35. h4 {[%emt 0:02:45]} Kd7 {[%emt 0:00:51]} 36. Bc3 {[%emt 0:
+05:05]} Kc7 {[%emt 0:00:23]} 37. Rd1 {[%emt 0:00:19]} Rxd1+ {[%emt 0:00:49]}
+38. Bxd1 {[%emt 0:00:06]} Bc4 {[%emt 0:00:16]} 39. f4 {[%emt 0:00:11]} Kd6 {
+[%emt 0:01:01]} 40. Kf2 {[%emt 0:01:20]} Bd5 {[%emt 0:00:36]} 41. Be2 {[%emt 0:
+54:22]} Kc5 {[%emt 0:50:43]} 42. fxe5 {[%emt 0:03:10]} Nxe5 {[%emt 0:00:00]}
+43. g4 {[%emt 0:00:00]} Kd6 {[%emt 0:00:00]} 44. g5 {[%emt 0:00:00]} fxg5 {
+[%emt 0:00:00]} 45. hxg5 {[%emt 0:00:00]} Ke6 {[%emt 0:00:00]} 46. Kg3 {
+[%emt 0:00:00]} Kf5 {[%emt 0:00:00]} 47. Bd4 {[%emt 0:00:00]} Nc4 {[%emt 0:00:
+00]} 48. Bxc4 {[%emt 0:00:00] Ke5} *
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.20"]
+[White "Papaioannou, Ioannis"]
+[Black "Ushenina, Anna"]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "2645"]
+[BlackElo "2431"]
+[Annotator "RC"]
+[PlyCount "119"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:02]} 3. Bb5 {[%emt 0:00:00]} Nf6 {[%emt 0:00:28]} 4. d3 {[%emt 0:00:
+39]} Bc5 {[%emt 0:00:44]} 5. Bxc6 {[%emt 0:01:10]} dxc6 {[%emt 0:00:22]} 6.
+Nbd2 {[%emt 0:00:16]} O-O {[%emt 0:14:46]} 7. Nb3 {[%emt 0:05:10]} Bb4+ {
+[%emt 0:17:15]} 8. Bd2 {[%emt 0:06:40]} Bd6 {[%emt 0:05:03]} 9. Bg5 {[%emt 0:
+01:20]} Re8 {[%emt 0:01:06]} 10. Nbd2 {[%emt 0:03:16]} Qe7 {[%emt 0:05:29]} 11.
+O-O {[%emt 0:04:04]} Qe6 {[%emt 0:07:05]} 12. Re1 {[%emt 0:03:50]} Nd7 {
+[%emt 0:03:38]} 13. Nc4 {[%emt 0:02:29]} Qg6 {[%emt 0:02:41]} 14. Bh4 {[%emt 0:
+03:57]} f6 {[%emt 0:10:21]} 15. Bg3 {[%emt 0:02:13]} Qf7 {[%emt 0:01:00]} 16.
+Nfd2 {[%emt 0:06:34]} Bc5 {[%emt 0:11:49]} 17. Nb3 {[%emt 0:03:13]} Bf8 {
+[%emt 0:01:32]} 18. f4 {[%emt 0:02:01]} exf4 {[%emt 0:00:03]} 19. Bxf4 {
+[%emt 0:00:10]} Nc5 {[%emt 0:00:19]} 20. Ne3 {[%emt 0:01:36]} a5 {[%emt 0:10:
+24]} 21. Kh1 {[%emt 0:00:57]} a4 {[%emt 0:02:02]} 22. Nd2 {[%emt 0:00:56]} Bd6
+{[%emt 0:04:36]} 23. Qf3 {[%emt 0:02:45]} Bd7 {[%emt 0:01:50]} 24. Bxd6 {
+[%emt 0:04:12]} cxd6 {[%emt 0:00:01]} 25. Ndc4 {[%emt 0:01:45]} Qf8 {[%emt 0:
+00:09]} 26. Qg3 {[%emt 0:03:43]} Re6 {[%emt 0:01:17]} 27. Nf5 {[%emt 0:06:03]}
+d5 {[%emt 0:00:41]} 28. Nb6 {[%emt 0:00:39]} Rd8 {[%emt 0:02:10]} 29. Nd4 {
+[%emt 0:06:35]} Rd6 {[%emt 0:01:10]} 30. exd5 {[%emt 0:01:24]} cxd5 {[%emt 0:
+00:08]} 31. Nxd7 {[%emt 0:00:15]} R6xd7 {[%emt 0:00:12]} 32. Qe3 {[%emt 0:03:
+18]} Kh8 {[%emt 0:00:39]} 33. Re2 {[%emt 0:00:38]} Rc8 {[%emt 0:05:09]} 34.
+Rae1 {[%emt 0:00:14]} h6 {[%emt 0:02:02]} 35. Qg3 {[%emt 0:01:28]} f5 {[%emt 0:
+00:38]} 36. Qg6 {[%emt 0:01:36]} Rf7 {[%emt 0:00:20]} 37. h3 {[%emt 0:01:42]}
+Rf6 {[%emt 0:00:37]} 38. Qh5 {[%emt 0:00:08]} Kh7 {[%emt 0:00:12]} 39. Nf3 {
+[%emt 0:01:20]} Rg6 {[%emt 0:00:46]} 40. Ne5 {[%emt 0:04:29]} Rg5 {[%emt 0:00:
+36]} 41. Qf3 {[%emt 0:50:14]} f4 {[%emt 0:50:33]} 42. Qxd5 {[%emt 0:01:17]} Rf5
+{[%emt 0:00:00]} 43. Qf3 {[%emt 0:00:00]} Qd6 {[%emt 0:00:00]} 44. Qg4 {
+[%emt 0:00:00]} Rcf8 {[%emt 0:00:00]} 45. Nf3 {[%emt 0:00:00]} Qf6 {[%emt 0:00:
+00]} 46. d4 {[%emt 0:00:00]} h5 {[%emt 0:00:00]} 47. Qh4 {[%emt 0:00:00]} Nd7 {
+[%emt 0:00:00]} 48. c4 {[%emt 0:00:00]} Nb6 {[%emt 0:00:00]} 49. b3 {[%emt 0:
+00:00]} axb3 {[%emt 0:00:00]} 50. axb3 {[%emt 0:00:00]} Nc8 {[%emt 0:00:00]}
+51. Qxf6 {[%emt 0:00:00]} R5xf6 {[%emt 0:00:00]} 52. Re5 {[%emt 0:00:00]} Kh6 {
+[%emt 0:00:00]} 53. c5 {[%emt 0:00:00]} Na7 {[%emt 0:00:00]} 54. d5 {[%emt 0:
+00:00]} Nb5 {[%emt 0:00:00]} 55. d6 {[%emt 0:00:00]} b6 {[%emt 0:00:00]} 56. d7
+{[%emt 0:00:00]} Rd8 {[%emt 0:00:00]} 57. c6 {[%emt 0:00:00]} Na7 {[%emt 0:00:
+00]} 58. Re8 {[%emt 0:00:00]} Nxc6 {[%emt 0:00:00]} 59. Rxd8 {[%emt 0:00:00]}
+Nxd8 {[%emt 0:00:00]} 60. Re8 {[%emt 0:00:00]} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.20"]
+[White "Van Foreest, Jorden"]
+[Black "Harikrishna, Pentala"]
+[Result "1/2-1/2"]
+[ECO "C84"]
+[WhiteElo "2621"]
+[BlackElo "2748"]
+[Annotator "TA"]
+[PlyCount "44"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,44,14,17,0,25,14,18,30,22,4,0,0,0,0,0,0,7,0,6,0,0,0,0,0,15,0,0,0,22,
+0,13,0,17]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3
+d6 8. Bd2 {C84: Closed Ruy Lopez: Unusual White 6th moves} (8. c3 Na5 9. Bc2 c5
+10. d4 cxd4 11. cxd4 O-O 12. h3 Re8 13. d5 Bd7 14. Nc3 Qb8 15. Bd3 Rc8 16. Ne2
+{0-1 (40) Carlsen,M (2882)-Ding,L (2805) Saint Louis 2019}) 8... O-O 9. h3 a5
+$146 ({Predecessor:} 9... Bb7 10. Re1 Qd7 11. a3 Nd8 12. c4 Ne6 13. Nc3 c5 14.
+Rb1 Bc6 15. Ba2 bxc4 16. Bxc4 {1/2-1/2 (33) Huschenbeth,N (2620)-Vitiugov,N 
+(2732) Khanty-Mansiysk 2019}) 10. a4 b4 11. Be3 {The position is equal.} d5 12.
+Nbd2 d4 13. Bg5 Nd7 14. Bxe7 Qxe7 15. Bd5 Ra6 16. Bc4 Ra7 17. Nh2 Nb6 18. Bb3
+Qg5 {With the idea ...Bxh3.} 19. Ndf3 Qe7 20. Nd2 Qg5 {White should prevent ...
+Bxh3.} 21. Ndf3 Qd8 22. Nd2 Qg5 {Accuracy: White = 53%, Black = 66%.} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.21"]
+[White "Wojtaszek, Radoslaw"]
+[Black "Tari, Aryan"]
+[Result "1-0"]
+[ECO "E61"]
+[WhiteElo "2748"]
+[BlackElo "2630"]
+[Annotator "TA"]
+[PlyCount "81"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,81,24,18,10,24,11,21,14,21,25,35,0,0,3,14,0,9,0,0,-11,24,0,0,0,0,0,
+34,31,32,33,38,38,95,88,84,80,104,99,135,148,143,131,152,139,146,145,142,138,
+182,156,222,179,260,207,234,245,233,241,212,212,188,187,177,172,1962,1914]} 1.
+d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. e3 O-O 5. Be2 c5 6. d5 e6 7. Nc3 d6 8. O-O exd5
+9. cxd5 Bg4 10. h3 {E61: King's Indian: Early deviations for White, including
+Smyslov System} Bxf3 11. Bxf3 Nbd7 12. Bd2 {The position is equal.} (12. Qc2 a6
+13. a4 c4 14. Be2 Rc8 15. a5 Rc5 16. Qa4 Re8 17. Rd1 Ne4 18. Nxe4 Rxe4 {
+0-1 (28) Inarkiev,E (2690)-Dubov,D (2691) Satka 2018}) 12... a6 13. a4 c4 $146
+({Predecessor:} 13... Re8 14. Rb1 Rc8 15. b3 Re7 16. Qc2 h6 17. Rfc1 Kh7 18.
+Qd1 Qh8 19. Be1 {1/2-1/2 (19) Feletar,D (2365)-Matko,O (2286) Mali Losinj 2019}
+) 14. b4 cxb3 $1 15. Qxb3 Nc5 16. Qb4 Nfd7 17. Rab1 Rc8 18. Be2 Re8 19. Rfd1
+Nf6 20. Bf3 Nfd7 21. Be1 f5 (21... Bxc3 $5 22. Bxc3 Nxa4 $11) 22. a5 Ne5 {
+And now ...Ncd3 would win.} 23. Be2 Ned7 24. Bf1 g5 (24... Ne5 $14) 25. Ne2 $16
+Re4 26. Qd2 Qf6 27. Ng3 Rh4 28. f4 Rf8 29. Rb4 Qg6 30. Qc2 $1 Rh6 31. Be2 Kh8
+32. Bf3 Rh4 {[#]} 33. Rdb1 $1 gxf4 (33... Rh6 $16 34. Bf2 gxf4 35. exf4 Bf6 36.
+Qxf5 (36. Nxf5 Rxh3 37. g3 Bd8 $14) 36... Bc3 37. Qxg6 Rxg6) 34. exf4 $18 Bh6 (
+34... Rh6 $142 35. Kh2 Kg8) 35. Nxf5 {[%mdl 64] Discovered Attack} Rxf4 {[#]}
+36. Bc3+ $1 Ne5 37. Bxe5+ dxe5 38. Rxf4 (38. Qxc5 Qxf5 39. Qc3 (39. Rxb7 $2
+Rxf3 40. gxf3 Qxf3 $19) 39... Rc8 $14) 38... Bxf4 39. Qxc5 Qxf5 {[#]} 40. Be4
+$1 {[%mdl 512]} Rc8 $2 (40... Qf6 41. Kh1 (41. Rxb7 Bg3 $11) 41... Qf7) (40...
+Qxe4 41. Qxf8#) 41. Qe7 {Accuracy: White = 82%, Black = 35%.} ({Not} 41. Bxf5
+Rxc5 42. Kf2 (42. Rxb7 Rxd5 43. Rxh7+ Kg8 $14) 42... Rxd5 $16) 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.21"]
+[White "Chigaev, Maksim"]
+[Black "Rakotomaharo, Fy Antenaina"]
+[Result "1-0"]
+[ECO "B45"]
+[WhiteElo "2644"]
+[BlackElo "2428"]
+[Annotator "RC"]
+[PlyCount "81"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} e6 {[%emt 0:
+00:00]} 3. d4 {[%emt 0:00:55]} cxd4 {[%emt 0:00:00]} 4. Nxd4 {[%emt 0:00:03]}
+Nc6 {[%emt 0:00:07]} 5. Nc3 {[%emt 0:00:06]} Nf6 {[%emt 0:00:04]} 6. Be2 {
+[%emt 0:00:26]} Bb4 {[%emt 0:06:37]} 7. O-O {[%emt 0:04:17]} O-O {[%emt 0:08:
+56]} 8. Nxc6 {[%emt 0:05:11]} bxc6 {[%emt 0:04:50]} 9. e5 {[%emt 0:05:43]} Bxc3
+{[%emt 0:03:46]} 10. bxc3 {[%emt 0:00:09]} Nd5 {[%emt 0:00:02]} 11. Bd3 {
+[%emt 0:17:27]} f5 {[%emt 0:02:28]} 12. Ba3 {[%emt 0:02:41]} Rf7 {[%emt 0:02:
+14]} 13. c4 {[%emt 0:00:09]} Nf4 {[%emt 0:04:33]} 14. Qf3 {[%emt 0:01:22]} g5 {
+[%emt 0:00:27]} 15. Bd6 {[%emt 0:02:11]} Ng6 {[%emt 0:25:24]} 16. Rfe1 {
+[%emt 0:03:57]} g4 {[%emt 0:03:10]} 17. Qd1 {[%emt 0:05:33]} Nh4 {[%emt 0:12:
+25]} 18. Bf1 {[%emt 0:14:36]} Rg7 {[%emt 0:08:43]} 19. Kh1 {[%emt 0:05:34]} Qg5
+{[%emt 0:00:34]} 20. Qc1 {[%emt 0:05:09]} Qh5 {[%emt 0:01:32]} 21. Rb1 {
+[%emt 0:04:16]} Kf7 {[%emt 0:07:56]} 22. Qf4 {[%emt 0:08:50]} Ba6 {[%emt 0:02:
+37]} 23. Bc5 {[%emt 0:04:33]} Rag8 {[%emt 0:06:35]} 24. Qd4 {[%emt 0:04:28]}
+Bc8 {[%emt 0:00:40]} 25. Qd6 {[%emt 0:00:00]} Qg5 {[%emt 0:00:06]} 26. Rb8 {
+[%emt 0:01:18]} Kg6 {[%emt 0:00:09]} 27. Qd3 {[%emt 0:01:08]} Kh5 {[%emt 0:02:
+23]} 28. Be2 {[%emt 0:02:56]} d5 {[%emt 0:04:35]} 29. exd6 {[%emt 0:01:02]} e5
+{[%emt 0:00:04]} 30. g3 {[%emt 0:01:09]} Ng6 {[%emt 0:01:48]} 31. h3 {[%emt 0:
+00:44]} e4 {[%emt 0:00:56]} 32. Qd1 {[%emt 0:01:06]} Be6 {[%emt 0:01:45]} 33.
+Rxg8 {[%emt 0:00:48]} Rxg8 {[%emt 0:00:04]} 34. hxg4+ {[%emt 0:00:30]} fxg4 {
+[%emt 0:00:09]} 35. Be3 {[%emt 0:00:08]} Qf5 {[%emt 0:00:52]} 36. Kg2 {[%emt 0:
+01:35]} Ne5 {[%emt 0:00:03]} 37. Rh1+ {[%emt 0:00:11]} Kg6 {[%emt 0:00:02]} 38.
+Rh6+ {[%emt 0:00:19]} Kf7 {[%emt 0:00:04]} 39. Qh1 {[%emt 0:00:33]} Rg7 {
+[%emt 0:02:15]} 40. Qh4 {[%emt 0:04:00]} Ng6 {[%emt 0:00:33]} 41. Qd8 {[%emt 0:
+52:58]} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.22"]
+[White "Nakamura, Hikaru"]
+[Black "Bachmann, Axel"]
+[Result "1-0"]
+[ECO "D27"]
+[WhiteElo "2745"]
+[BlackElo "2629"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,61,22,18,42,37,30,33,30,34,26,22,20,11,18,22,87,94,83,79,98,92,102,
+90,126,122,127,87,84,83,158,142,146,158,154,132,332,332,332,332,332,332,332,
+332,388,388,502,502]} 1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 a6 6. O-O
+c5 7. dxc5 Qxd1 8. Rxd1 Bxc5 9. Be2 b6 {D27: Queen's Gambit Accepted:
+Classical main line: 7 e4!? and 7 a4} 10. Nfd2 Bb7 11. Nb3 Be7 {White is
+slightly better.} 12. f3 Nbd7 13. e4 Nc5 14. Nd4 O-O 15. Be3 {[#]} Na4 $146 {
+[#]} (15... Rac8 $11 {keeps the balance.}) ({Predecessor:} 15... b5 16. Nc3 g6
+17. Rac1 {1/2-1/2 (70) Grischuk,A (2783)-Navara,D (2737) Tbilisi 2017}) 16. b3
+$1 $16 {[%cal Rb3a4]} Nc5 17. Nd2 {[%cal Bb1d2,Bd2c4,Bc4b6][%mdl 32]} Rac8 18.
+Nc4 b5 19. Nb6 Rcd8 20. Rac1 Rfe8 21. Nxb5 {[#] Hoping for Rxd8.} Rxd1+ 22.
+Bxd1 {Black must now prevent Na7.} Nd3 (22... Ncxe4 $142 23. Na7 (23. Nc7 Rd8
+$14) 23... Nd6) 23. Rc7 {Threatens to win with Be2.} Bxe4 24. fxe4 {aiming for
+Be2.} axb5 25. Be2 Bd8 $2 (25... Ne5 $16 {might work better.}) 26. Rc8 $18 Bxb6
+27. Rxe8+ Nxe8 28. Bxb6 Nc1 29. Bxb5 Nd6 30. Bc6 Nxa2 31. Bc5 {Accuracy: White
+= 93%, Black = 39%.} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.22"]
+[White "Gavrilescu, David"]
+[Black "Zvjaginsev, Vadim"]
+[Result "*"]
+[ECO "B31"]
+[WhiteElo "2451"]
+[BlackElo "2644"]
+[Annotator "RC"]
+[PlyCount "65"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:13]} 2. Nf3 {[%emt 0:00:02]} Nc6 {
+[%emt 0:00:13]} 3. Bb5 {[%emt 0:00:27]} g6 {[%emt 0:00:22]} 4. O-O {[%emt 0:01:
+01]} Bg7 {[%emt 0:00:19]} 5. c3 {[%emt 0:00:39]} Nf6 {[%emt 0:01:58]} 6. Re1 {
+[%emt 0:00:40]} a6 {[%emt 0:01:10]} 7. Bxc6 {[%emt 0:01:12]} dxc6 {[%emt 0:03:
+14]} 8. h3 {[%emt 0:00:30]} Nd7 {[%emt 0:08:08]} 9. d4 {[%emt 0:04:07]} O-O {
+[%emt 0:01:21]} 10. Be3 {[%emt 0:03:30]} cxd4 {[%emt 0:07:20]} 11. cxd4 {
+[%emt 0:01:07]} e5 {[%emt 0:04:14]} 12. Nc3 {[%emt 0:03:34]} b5 {[%emt 0:01:07]
+} 13. Qd2 {[%emt 0:07:42]} exd4 {[%emt 0:03:00]} 14. Bxd4 {[%emt 0:00:53]} Ne5
+{[%emt 0:00:24]} 15. Nxe5 {[%emt 0:04:50]} Bxe5 {[%emt 0:00:17]} 16. Red1 {
+[%emt 0:04:43]} Bxd4 {[%emt 0:03:44]} 17. Qxd4 {[%emt 0:00:35]} Qxd4 {[%emt 0:
+03:52]} 18. Rxd4 {[%emt 0:00:09]} Be6 {[%emt 0:00:18]} 19. Rad1 {[%emt 0:03:06]
+} a5 {[%emt 0:06:23]} 20. a3 {[%emt 0:05:05]} Rfb8 {[%emt 0:05:23]} 21. e5 {
+[%emt 0:04:19]} c5 {[%emt 0:06:18]} 22. Rd6 {[%emt 0:02:56]} b4 {[%emt 0:03:28]
+} 23. Nd5 {[%emt 0:04:28]} Bxd5 {[%emt 0:00:51]} 24. R6xd5 {[%emt 0:00:36]} c4
+{[%emt 0:00:50]} 25. axb4 {[%emt 0:02:35]} Rxb4 {[%emt 0:07:21]} 26. Rc5 {
+[%emt 0:03:49]} Rxb2 {[%emt 0:01:15]} 27. Rd7 {[%emt 0:01:11]} a4 {[%emt 0:09:
+34]} 28. Rcc7 {[%emt 0:00:33]} a3 {[%emt 0:07:02]} 29. Rxf7 {[%emt 0:01:01]} a2
+{[%emt 0:00:06]} 30. Rg7+ {[%emt 0:00:07]} Kh8 {[%emt 0:00:03]} 31. Rxh7+ {
+[%emt 0:00:06]} Kg8 {[%emt 0:00:03]} 32. Rhg7+ {[%emt 0:00:09]} Kh8 {[%emt 0:
+00:05]} 33. Rh7+ {[%emt 0:00:05]} *
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.23"]
+[White "Svidler, Peter"]
+[Black "Parligras, Mircea-Emilian"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2729"]
+[BlackElo "2629"]
+[Annotator "TA"]
+[PlyCount "59"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,59,29,19,29,6,0,6,39,39,79,69,78,72,111,112,105,109,118,120,117,126,
+131,127,139,136,142,110,122,88,162,187,308,322,459,445,441,422,481,452,430,390,
+460,428]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 a6 6. c3 Ba7 7. a4 d6
+8. Re1 O-O 9. h3 Ne7 10. Nbd2 Ng6 {C54: Giuoco Piano: 4 c3 Nf6, main lines
+with 5 d4 and 5 d3} 11. Nf1 (11. Bb3 h6 12. Nf1 Re8 13. Ng3 Bd7 14. d4 Bc6 15.
+Bc2 d5 16. exd5 Qxd5 17. Bxg6 fxg6 18. dxe5 Qxd1 19. Rxd1 Bxf3 20. gxf3 Rxe5 {
+1/2-1/2 (30) Demchenko,A (2665)-Tomashevsky,E (2702) Konya 2019}) 11... c6 12.
+Ng3 Re8 {The position is equal.} 13. Bb3 d5 {[#]} 14. Bg5 $146 ({Predecessor:} 
+14. d4 dxe4 15. Nxe4 Nxe4 16. Rxe4 Bf5 17. Ng5 Nh8 18. Rxe5 Rxe5 19. dxe5 Qxd1+
+20. Bxd1 {1-0 (60) Ortiz Suarez,I (2581)-Bok,B (2592) Baku 2016}) 14... Qb6 15.
+Be3 Qc7 16. Bxa7 Rxa7 {[#]} 17. d4 $1 exd4 18. Qxd4 c5 19. Qd2 dxe4 20. Ng5 $1
+{[%csl LRe4,LRf7]} Rf8 21. N3xe4 Nxe4 22. Nxe4 b6 23. Rad1 Bb7 {[#]} (23... Qc6
+$16) 24. Nd6 $1 $18 Bc6 (24... Qc6 {is a better defense.} 25. f3 Ba8) 25. Qg5
+Qb8 (25... Ne7 {was called for.} 26. a5 bxa5 27. Qxc5 Be8) 26. Bxf7+ Raxf7 27.
+Nxf7 Qf4 28. Qxf4 Nxf4 29. Ng5 Bxg2 30. Ne6 {Accuracy: White = 97%, Black =
+28%.} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.23"]
+[White "Nebolsina, Vera"]
+[Black "Lupulescu, Constantin"]
+[Result "0-1"]
+[ECO "B11"]
+[WhiteElo "2252"]
+[BlackElo "2643"]
+[Annotator "RC"]
+[PlyCount "122"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. e4 {[%emt 0:00:00]} c6 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} d5 {[%emt 0:
+00:03]} 3. Nc3 {[%emt 0:00:13]} dxe4 {[%emt 0:00:30]} 4. Nxe4 {[%emt 0:00:06]}
+Nf6 {[%emt 0:00:09]} 5. Qe2 {[%emt 0:00:43]} Nxe4 {[%emt 0:02:09]} 6. Qxe4 {
+[%emt 0:00:05]} Qa5 {[%emt 0:00:36]} 7. Bc4 {[%emt 0:05:22]} Bf5 {[%emt 0:00:
+24]} 8. Qe5 {[%emt 0:03:04]} Qxe5+ {[%emt 0:02:19]} 9. Nxe5 {[%emt 0:00:05]} e6
+{[%emt 0:01:43]} 10. Bd3 {[%emt 0:06:15]} Bxd3 {[%emt 0:01:23]} 11. Nxd3 {
+[%emt 0:00:04]} Bd6 {[%emt 0:01:53]} 12. b3 {[%emt 0:03:34]} c5 {[%emt 0:05:29]
+} 13. Nb2 {[%emt 0:13:25]} Nc6 {[%emt 0:05:43]} 14. Nc4 {[%emt 0:00:32]} Bc7 {
+[%emt 0:00:13]} 15. a4 {[%emt 0:06:21]} f6 {[%emt 0:14:39]} 16. Bb2 {[%emt 0:
+12:58]} Kf7 {[%emt 0:01:57]} 17. O-O {[%emt 0:13:20]} Rad8 {[%emt 0:02:30]} 18.
+Bc3 {[%emt 0:05:32]} Nd4 {[%emt 0:09:44]} 19. Bxd4 {[%emt 0:00:13]} cxd4 {
+[%emt 0:00:05]} 20. d3 {[%emt 0:03:52]} Rd5 {[%emt 0:00:33]} 21. b4 {[%emt 0:
+02:40]} a6 {[%emt 0:06:16]} 22. Rfb1 {[%emt 0:00:43]} Ra8 {[%emt 0:01:31]} 23.
+Ra3 {[%emt 0:06:35]} Ke7 {[%emt 0:09:39]} 24. g3 {[%emt 0:05:07]} g5 {[%emt 0:
+13:34]} 25. h3 {[%emt 0:04:54]} h5 {[%emt 0:01:20]} 26. Kg2 {[%emt 0:00:16]} f5
+{[%emt 0:01:04]} 27. b5 {[%emt 0:06:40]} axb5 {[%emt 0:05:27]} 28. axb5 {
+[%emt 0:00:06]} Rxa3 {[%emt 0:00:26]} 29. Nxa3 {[%emt 0:00:05]} b6 {[%emt 0:04:
+29]} 30. Nc4 {[%emt 0:03:06]} Rc5 {[%emt 0:03:04]} 31. f3 {[%emt 0:01:19]} Kd7
+{[%emt 0:02:40]} 32. g4 {[%emt 0:01:01]} h4 {[%emt 0:00:11]} 33. Kf1 {[%emt 0:
+01:26]} Kc8 {[%emt 0:00:52]} 34. Re1 {[%emt 0:03:41]} fxg4 {[%emt 0:04:20]} 35.
+fxg4 {[%emt 0:00:07]} e5 {[%emt 0:01:18]} 36. Rb1 {[%emt 0:00:27]} e4 {[%emt 0:
+00:28]} 37. Ke2 {[%emt 0:00:16]} e3 {[%emt 0:00:16]} 38. Rb3 {[%emt 0:01:33]}
+Kb7 {[%emt 0:00:32]} 39. Rb1 {[%emt 0:02:10]} Rd5 {[%emt 0:02:28]} 40. Kf3 {
+[%emt 0:01:17]} Rd8 {[%emt 0:00:56]} 41. Ke2 {[%emt 0:01:34]} Ra8 {[%emt 0:04:
+41]} 42. Rf1 {[%emt 0:00:42]} Ra2 {[%emt 0:05:55]} 43. Rc1 {[%emt 0:08:17]} Kc8
+{[%emt 0:14:17]} 44. Kf3 {[%emt 0:00:43]} Kd8 {[%emt 0:01:14]} 45. Ke4 {
+[%emt 0:03:45]} e2 {[%emt 0:03:16]} 46. Ne5 {[%emt 0:05:13]} Rxc2 {[%emt 0:02:
+41]} 47. Re1 {[%emt 0:00:17]} Kc8 {[%emt 0:08:25]} 48. Kxd4 {[%emt 0:05:18]}
+Bd6 {[%emt 0:00:35]} 49. Nf3 {[%emt 0:00:18]} Bc5+ {[%emt 0:03:36]} 50. Kd5 {
+[%emt 0:01:06]} Bf2 {[%emt 0:02:51]} 51. Ra1 {[%emt 0:04:32]} Rc5+ {[%emt 0:01:
+54]} 52. Ke4 {[%emt 0:00:27]} Rxb5 {[%emt 0:00:47]} 53. Ne1 {[%emt 0:00:15]}
+Bg3 {[%emt 0:04:07]} 54. d4 {[%emt 0:04:15]} Rb3 {[%emt 0:00:38]} 55. Kf5 {
+[%emt 0:03:42]} Bf4 {[%emt 0:00:57]} 56. Ra2 {[%emt 0:14:59]} Re3 {[%emt 0:00:
+34]} 57. Rc2+ {[%emt 0:00:09]} Kd7 {[%emt 0:01:27]} 58. Rb2 {[%emt 0:00:12]}
+Kc7 {[%emt 0:03:25]} 59. Rc2+ {[%emt 0:00:18]} Kb7 {[%emt 0:00:07]} 60. d5 {
+[%emt 0:00:24]} Bg3 {[%emt 0:01:11]} 61. Rc1 {[%emt 0:15:32]} Re5+ {[%emt 0:15:
+08]} 0-1
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.24"]
+[White "Matlakov, Maxim"]
+[Black "Akobian, Varuzhan"]
+[Result "1-0"]
+[ECO "E08"]
+[WhiteElo "2716"]
+[BlackElo "2625"]
+[Annotator "TA"]
+[PlyCount "95"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,95,11,27,9,49,58,39,39,57,43,51,39,39,43,45,37,45,50,45,45,70,68,87,
+81,91,96,105,113,177,219,227,210,202,223,208,200,460,463,415,248,334,175,322,
+315,275,252,258,250,300,284,268,244,504,487,397,440,764,698,598,428,416,414,
+417,389,380,364,609,576,1789,537,923,943,884,873,860,846,1546,1457,1732,1677]} 
+1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. d4 Bb4+ 5. Bd2 Be7 6. Nf3 O-O 7. O-O Nbd7 8.
+Qc2 Ne4 9. Bf4 c6 10. h4 {E08: Closed Catalan: Main Line: 7 Qc2} (10. Nc3 {
+keeps more tension.} g5 11. Bc1 f5 12. Rd1 Bf6 13. b3) (10. Nc3 g5 11. Be3 Nd6
+12. b3 Nf5 13. Bd2 g4 14. Ne1 Nxd4 15. Qd1 Bf6 16. e3 Nf3+ 17. Nxf3 gxf3 18.
+Qxf3 {1-0 (81) Grischuk,A (2766)-Nakamura,H (2754) Paris 2019}) 10... b6 11.
+Nbd2 Nxd2 12. Nxd2 {White is slightly better.} Bb7 13. e4 Rc8 14. Rac1 $146 ({
+Predecessor:} 14. Rfd1 Nf6 15. c5 Nh5 16. Be3 f5 17. exf5 exf5 {0-1 (28)
+Godart,F (2431)-Fridman,D (2591) Belgium 2018}) 14... Nf6 15. e5 Nh5 16. Be3 g6
+17. cxd5 cxd5 18. Qa4 $36 {[%mdl 2048] White has some pressure.} a6 19. Qb3 b5
+20. Rxc8 Qxc8 21. Bg5 Re8 22. Qe3 Qc2 (22... Bxg5 $16 23. Qxg5 (23. hxg5 Qc2
+$14) 23... Ng7) 23. g4 {Threatens to win with Bxe7.} Ng7 24. Bxe7 Rxe7 25. Qh6
+Ne8 26. Nf3 $1 f5 $2 {[#]} (26... a5 27. b3 Qd3) 27. exf6 $1 $18 Nxf6 28. Ne5 (
+28. Qg5 $142) 28... Qc8 {[#]} 29. h5 (29. Nxg6 $142 $1 {[%mdl 512]} Rg7 (29...
+hxg6 30. Qxg6+) 30. Rc1) 29... Rg7 (29... Nd7 $142) 30. hxg6 hxg6 31. Re1 (31.
+Nxg6 Nxg4 32. Qh5 Qe8 $14) 31... Qe8 32. Re3 Bc8 33. Rc3 (33. Rh3 $6 Rh7 $18)
+33... b4 34. Rf3 (34. Rh3 Rh7 $18) 34... Nh7 $2 (34... Rh7 35. Qf4 (35. Qxg6+
+Qxg6 36. Nxg6 Nd7 $18) 35... Nd7) 35. Bf1 ({Avoid the trap} 35. Rf7 $2 Rxf7 36.
+Qxg6+ Kf8 $19) 35... Nf8 36. Bd3 ({Less strong is} 36. Rh3 Rh7 $16) 36... a5 (
+36... Rh7 $142 37. Qf4 (37. Bxg6 Nxg6 38. Qxg6+ Qxg6 $16) 37... Bd7 38. Nxg6
+Rf7) 37. Rf6 ({Weaker is} 37. Rh3 Rh7 $18) 37... Qe7 38. Nxg6 Nxg6 39. Rxg6
+Rxg6 40. Qxg6+ Kf8 41. Qh6+ Ke8 $2 (41... Kg8 42. Qf4 Qg7) 42. g5 {White is
+clearly winning.} Kd7 43. Qh7 (43. g6 $142 Qf6 44. Qh7+ Kd6 45. g7 Qg5+ 46. Kf1
+) 43... Qxh7 44. Bxh7 Ba6 45. Kg2 Kd6 46. Kg3 a4 47. Kf4 a3 48. b3 {Accuracy:
+White = 71%, Black = 30%.} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.24"]
+[White "Piorun, Kacper"]
+[Black "Zatonskih, Anna"]
+[Result "1-0"]
+[ECO "A17"]
+[WhiteElo "2643"]
+[BlackElo "2422"]
+[Annotator "RC"]
+[PlyCount "71"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. Nf3 {[%emt 0:00:00]} d5 {[%emt 0:00:40]} 2. e3 {[%emt 0:00:00]} Nf6 {
+[%emt 0:04:32]} 3. c4 {[%emt 0:00:00]} e6 {[%emt 0:01:00]} 4. Nc3 {[%emt 0:00:
+39]} Be7 {[%emt 0:12:18]} 5. b3 {[%emt 0:01:52]} b6 {[%emt 0:03:25]} 6. Bb2 {
+[%emt 0:01:33]} Bb7 {[%emt 0:03:23]} 7. cxd5 {[%emt 0:05:59]} exd5 {[%emt 0:00:
+12]} 8. d4 {[%emt 0:00:04]} O-O {[%emt 0:14:35]} 9. Bd3 {[%emt 0:14:40]} a6 {
+[%emt 0:07:18]} 10. O-O {[%emt 0:01:23]} Bd6 {[%emt 0:00:54]} 11. Rc1 {[%emt 0:
+02:35]} Nbd7 {[%emt 0:01:50]} 12. Rc2 {[%emt 0:01:04]} Re8 {[%emt 0:08:30]} 13.
+Qa1 {[%emt 0:05:29]} Ne4 {[%emt 0:12:25]} 14. Ne2 {[%emt 0:01:04]} Qe7 {
+[%emt 0:02:50]} 15. Ne5 {[%emt 0:08:24]} Rac8 {[%emt 0:14:02]} 16. f3 {[%emt 0:
+20:43]} Nef6 {[%emt 0:02:01]} 17. Bf5 {[%emt 0:09:28]} Rcd8 {[%emt 0:00:54]}
+18. f4 {[%emt 0:06:42]} Nb8 {[%emt 0:02:06]} 19. Ng3 {[%emt 0:00:28]} Bc8 {
+[%emt 0:02:19]} 20. Bd3 {[%emt 0:01:20]} Ng4 {[%emt 0:01:53]} 21. Re2 {[%emt 0:
+08:40]} Qh4 {[%emt 0:02:53]} 22. Nf3 {[%emt 0:01:22]} Qh6 {[%emt 0:02:34]} 23.
+Qe1 {[%emt 0:01:10]} Nc6 {[%emt 0:01:26]} 24. h3 {[%emt 0:03:42]} Nf6 {[%emt 0:
+00:17]} 25. Ne5 {[%emt 0:03:30]} Ne7 {[%emt 0:00:10]} 26. Bc1 {[%emt 0:01:00]}
+g6 {[%emt 0:03:06]} 27. e4 {[%emt 0:02:25]} dxe4 {[%emt 0:00:54]} 28. Bc4 {
+[%emt 0:00:47]} Rf8 {[%emt 0:01:07]} 29. f5 {[%emt 0:01:28]} Qg7 {[%emt 0:00:
+01]} 30. fxg6 {[%emt 0:01:26]} hxg6 {[%emt 0:00:24]} 31. Rxf6 {[%emt 0:02:10]}
+Qxf6 {[%emt 0:00:02]} 32. Nxe4 {[%emt 0:00:07]} Qg7 {[%emt 0:00:53]} 33. Bg5 {
+[%emt 0:00:46]} Rfe8 {[%emt 0:02:45]} 34. Bxf7+ {[%emt 0:01:32]} Kh8 {[%emt 0:
+00:30]} 35. Qh4+ {[%emt 0:00:09]} Qh7 {[%emt 0:00:04]} 36. Bf6# {[%emt 0:00:05]
+} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.25"]
+[White "Hovhannisyan, Robert"]
+[Black "Soumya, Swaminathan"]
+[Result "1/2-1/2"]
+[ECO "B66"]
+[WhiteElo "2639"]
+[BlackElo "2365"]
+[Annotator "RC"]
+[PlyCount "109"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:27]} 3. d4 {[%emt 0:00:00]} cxd4 {[%emt 0:00:04]} 4. Nxd4 {[%emt 0:
+00:00]} Nf6 {[%emt 0:00:03]} 5. Nc3 {[%emt 0:00:09]} d6 {[%emt 0:00:03]} 6. Bg5
+{[%emt 0:00:10]} e6 {[%emt 0:00:05]} 7. Qd2 {[%emt 0:00:08]} a6 {[%emt 0:00:05]
+} 8. Nxc6 {[%emt 0:00:18]} bxc6 {[%emt 0:00:04]} 9. O-O-O {[%emt 0:00:07]} Qa5
+{[%emt 0:14:04]} 10. Bc4 {[%emt 0:02:22]} h6 {[%emt 0:19:10]} 11. Bxf6 {
+[%emt 0:02:28]} gxf6 {[%emt 0:00:03]} 12. f4 {[%emt 0:02:08]} h5 {[%emt 0:07:
+44]} 13. Kb1 {[%emt 0:01:24]} Be7 {[%emt 0:07:34]} 14. Rhe1 {[%emt 0:04:16]}
+Bb7 {[%emt 0:09:52]} 15. f5 {[%emt 0:02:11]} e5 {[%emt 0:00:33]} 16. Re3 {
+[%emt 0:02:09]} Rd8 {[%emt 0:04:02]} 17. Rd3 {[%emt 0:02:11]} Qb4 {[%emt 0:06:
+39]} 18. Bb3 {[%emt 0:01:10]} a5 {[%emt 0:00:06]} 19. a3 {[%emt 0:02:03]} Qb6 {
+[%emt 0:00:49]} 20. Na4 {[%emt 0:01:22]} Qc7 {[%emt 0:00:12]} 21. Bc4 {[%emt 0:
+01:44]} h4 {[%emt 0:05:24]} 22. Qf2 {[%emt 0:02:15]} Bf8 {[%emt 0:08:12]} 23.
+Rh3 {[%emt 0:02:12]} Ke7 {[%emt 0:10:48]} 24. Rxh4 {[%emt 0:04:26]} Rxh4 {
+[%emt 0:02:38]} 25. Qxh4 {[%emt 0:00:05]} d5 {[%emt 0:00:05]} 26. Bb3 {[%emt 0:
+01:00]} Ba8 {[%emt 0:03:35]} 27. Nc3 {[%emt 0:03:09]} d4 {[%emt 0:01:26]} 28.
+Ne2 {[%emt 0:01:03]} Rb8 {[%emt 0:00:59]} 29. Nxd4 {[%emt 0:09:47]} exd4 {
+[%emt 0:06:15]} 30. e5 {[%emt 0:00:04]} c5 {[%emt 0:00:39]} 31. Qxf6+ {[%emt 0:
+00:36]} Kd7 {[%emt 0:00:05]} 32. Bxf7 {[%emt 0:07:51]} Qb7 {[%emt 0:02:36]} 33.
+b3 {[%emt 0:02:55]} Qxg2 {[%emt 0:01:23]} 34. e6+ {[%emt 0:01:45]} Kc7 {
+[%emt 0:00:02]} 35. e7 {[%emt 0:05:04]} Qe2 {[%emt 0:00:25]} 36. exf8=Q {
+[%emt 0:00:13]} Rxf8 {[%emt 0:00:17]} 37. Rg1 {[%emt 0:00:57]} d3 {[%emt 0:00:
+47]} 38. cxd3 {[%emt 0:09:20]} Bd5 {[%emt 0:00:47]} 39. Qc3 {[%emt 0:00:40]}
+Rxf7 {[%emt 0:00:41]} 40. Qxc5+ {[%emt 0:04:46]} Bc6 {[%emt 0:00:15]} 41. Qxa5+
+{[%emt 0:52:40]} Kb7 {[%emt 0:09:21]} 42. Qb4+ {[%emt 0:00:00]} Kc7 {[%emt 0:
+03:46]} 43. Qf4+ {[%emt 0:00:00]} Kb7 {[%emt 0:01:07]} 44. Qb4+ {[%emt 0:00:00]
+} Kc7 {[%emt 0:00:06]} 45. Qc3 {[%emt 0:00:00]} Rd7 {[%emt 0:04:00]} 46. f6 {
+[%emt 0:00:00]} Qxd3+ {[%emt 0:08:30]} 47. Qxd3 {[%emt 0:00:00]} Rxd3 {[%emt 0:
+00:03]} 48. Kb2 {[%emt 0:01:49]} Rf3 {[%emt 0:03:21]} 49. Rg7+ {[%emt 0:03:26]}
+Kd6 {[%emt 0:01:13]} 50. f7 {[%emt 0:04:11]} Bd5 {[%emt 0:01:54]} 51. Rg6+ {
+[%emt 0:00:16]} Kc5 {[%emt 0:03:25]} 52. b4+ {[%emt 0:01:34]} Kb5 {[%emt 0:00:
+58]} 53. Rg5 {[%emt 0:00:23]} Kc4 {[%emt 0:00:33]} 54. Rg4+ {[%emt 0:00:07]}
+Kb5 {[%emt 0:00:02]} 55. Rg5 {[%emt 0:00:52]} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.25"]
+[White "Durarbayli, Vasif"]
+[Black "Le, Quang Liem"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[WhiteElo "2617"]
+[BlackElo "2708"]
+[Annotator "TA"]
+[PlyCount "95"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,95,22,22,23,20,27,22,33,37,43,27,29,16,46,31,50,44,56,52,78,87,96,93,
+97,83,89,83,82,69,79,17,53,48,57,58,46,29,46,30,47,36,62,32,44,29,61,18,19,19,
+16,8,14,6,13,0,0,0,19,7,35,22,36,30,33,32,32,32,30,21,24,8,15,7,17,0,13,8,9,0,
+0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. c3 g6 6. O-O Bg7 7. h3 O-O 8.
+Re1 a6 9. Ba4 b5 {C77: Ruy Lopez: 3...a6 4 Ba4 Nf6, unusual lines} (9... h6 10.
+Be3 b5 11. Bb3 Na5 12. Bc2 c5 13. a4 Bd7 14. Nbd2 Nh5 15. d4 Qe7 16. d5 c4 17.
+Nf1 {0-1 (35) Martinez Alcantara,J (2583)-Firouzja,A (2682) chess.com INT 2019}
+) 10. Bc2 d5 11. Be3 Re8 12. Nbd2 h6 13. a4 Be6 $146 ({Predecessor:} 13... b4
+14. a5 Rb8 15. Ba4 {1/2-1/2 (92) Jackson,J (2286)-Hebden,M (2477) Llandudno
+2017}) 14. Qc1 Nd7 15. d4 exd4 16. cxd4 Nb4 17. Bb1 dxe4 18. Nxe4 Kh7 19. axb5
+axb5 20. Rxa8 Qxa8 21. Qxc7 Nd5 22. Qd6 N7b6 23. Ned2 (23. Bc1 $16) 23... Nc4
+24. Nxc4 bxc4 25. Bd2 Qb8 26. Qc6 Rc8 27. Qa6 Nc7 28. Qa3 Rd8 29. Bf4 {[#]
+Strongly threatening Qa5.} Qb6 30. Be5 Nb5 31. Qb4 {Hoping for Bxg7.} (31. Qe7
+$5 {[%cal Re5g7]} Rd7 32. Qh4 $16) 31... Bf8 $1 {[%cal Rf8b4]} 32. Qd2 {
+Black must now prevent Qf4.} Bg7 33. Bxg7 Kxg7 34. Qb4 {And now Rxe6! would
+win.} Rb8 35. Qd2 Rd8 36. Qb4 {Rxe6! is the strong threat.} Rb8 37. Re2 Bd5 {
+[#] Threatens to win with ...Bxf3.} 38. Be4 $1 {[%cal Re4d5]} Nc7 39. Qxb6 Rxb6
+40. Bxd5 Nxd5 $14 {[%mdl 4096] Endgame KRN-KRN} 41. Rc2 Rb4 42. Nd2 Nb6 43. Kf1
+Kf6 {The position is equal.} 44. Ke2 Ke6 45. Ke3 Nd5+ 46. Kf3 Nb6 47. Ke3 Nd5+
+48. Kf3 {Accuracy: White = 54%, Black = 62%.} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.26"]
+[White "Amin, Bassem"]
+[Black "Rakhmanov, Aleksandr"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "2699"]
+[BlackElo "2621"]
+[Annotator "TA"]
+[PlyCount "103"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,103,27,29,41,39,36,38,38,31,37,49,16,38,40,76,80,66,75,75,70,73,60,
+60,64,70,61,76,72,79,77,85,82,87,96,86,87,92,93,94,84,95,95,96,82,75,75,117,
+113,168,165,172,175,180,184,177,165,186,194,247,196,270,247,255,245,309,311,
+313,311,297,290,508,495,710,694,1331,1250,12822,5181,29979,29980,29978,29961,
+29979,29980]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nf6 6. d4 Be7
+7. Bd3 O-O 8. O-O Re8 9. Re1 d5 10. Bg5 c6 11. Qd2 Nbd7 12. h3 {C01: French:
+Exchange Variation} h6 (12... Nf8 13. Ne5 {1/2-1/2 (13) Kosanovic,G (2383)
+-Ilincic,Z (2468) Stara Pazova 2011}) 13. Bf4 Bb4 $146 ({Predecessor:} 13...
+Nf8 14. Be5 N8h7 15. Qf4 Be6 16. Ne2 Qc8 17. Ng3 Nd7 18. Bxg7 {1-0 (24)
+Vermeulen,B (2148)-Piacentini,C (2123) Belgium 2001}) 14. Rxe8+ {White is
+slightly better.} Nxe8 15. Re1 Ndf6 16. Ne5 Be6 17. a3 Ne4 18. Bxe4 Bxc3 19.
+Qxc3 dxe4 20. Qb4 Qb6 21. Qxb6 axb6 22. Rxe4 Nf6 23. Re1 Re8 24. g4 Bd5 25. Rc1
+b5 26. f3 Re7 27. Kf2 Nd7 28. Nd3 Bc4 29. Rd1 f6 30. Bd6 Re8 31. b3 Bf7 32. Re1
+Rxe1 33. Kxe1 $16 {[%mdl 4096] Endgame KBN-KBN} h5 34. Kd2 g5 (34... Bd5 $16 {
+might work better.}) 35. Nf2 $18 Kg7 36. Ne4 Kg6 37. Be7 Bd5 38. Ke3 hxg4 39.
+hxg4 Kf7 (39... Be6 $142 40. Ke2 Kf7) 40. Bd8 Ke8 (40... Ke6 $142 41. Bc7 c5
+42. dxc5 Bc6) 41. Bc7 Kf8 42. Nd6 b6 43. Bd8 Bg8 44. c4 bxc4 45. bxc4 b5 $2 {
+[#]} (45... Be6 {was worth a try.} 46. Kd2 Kg7) 46. d5 Ne5 (46... cxd5 $142 47.
+cxb5 d4+ 48. Kxd4 Bb3) 47. Bxf6 Nxc4+ 48. Nxc4 bxc4 49. dxc6 Ke8 50. Kd4 {
+White mates.} c3 51. Bxg5 c2 52. a4 {Accuracy: White = 91%, Black = 40%.} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.26"]
+[White "Solomon, Kenny"]
+[Black "Akopian, Vladimir"]
+[Result "0-1"]
+[ECO "A79"]
+[WhiteElo "2382"]
+[BlackElo "2638"]
+[Annotator "RC"]
+[PlyCount "76"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:01]} 2. c4 {[%emt 0:00:00]} e6 {[%emt 0:
+00:04]} 3. Nf3 {[%emt 0:00:00]} c5 {[%emt 0:00:21]} 4. d5 {[%emt 0:00:07]} d6 {
+[%emt 0:00:08]} 5. Nc3 {[%emt 0:00:08]} exd5 {[%emt 0:00:04]} 6. cxd5 {[%emt 0:
+00:04]} g6 {[%emt 0:00:14]} 7. Nd2 {[%emt 0:00:50]} Bg7 {[%emt 0:03:17]} 8. e4
+{[%emt 0:00:09]} O-O {[%emt 0:00:17]} 9. Be2 {[%emt 0:00:10]} Re8 {[%emt 0:03:
+45]} 10. O-O {[%emt 0:01:03]} Na6 {[%emt 0:00:40]} 11. f3 {[%emt 0:04:22]} Nc7
+{[%emt 0:01:07]} 12. a4 {[%emt 0:01:26]} b6 {[%emt 0:00:58]} 13. Nc4 {[%emt 0:
+00:55]} Ba6 {[%emt 0:01:31]} 14. Bg5 {[%emt 0:02:36]} h6 {[%emt 0:02:22]} 15.
+Bh4 {[%emt 0:00:51]} g5 {[%emt 0:02:49]} 16. Bf2 {[%emt 0:04:37]} Bxc4 {
+[%emt 0:02:25]} 17. Bxc4 {[%emt 0:00:07]} a6 {[%emt 0:04:09]} 18. Re1 {[%emt 0:
+07:41]} Rb8 {[%emt 0:32:17]} 19. Qd2 {[%emt 0:22:20]} Nd7 {[%emt 0:12:54]} 20.
+Bf1 {[%emt 0:02:09]} Ne5 {[%emt 0:00:56]} 21. Nd1 {[%emt 0:16:35]} b5 {[%emt 0:
+00:48]} 22. a5 {[%emt 0:02:48]} Qf6 {[%emt 0:06:05]} 23. Ne3 {[%emt 0:08:34]}
+Qxf3 {[%emt 0:01:01]} 24. Nf5 {[%emt 0:00:20]} Qh5 {[%emt 0:03:06]} 25. Ra3 {
+[%emt 0:13:49]} Qg6 {[%emt 0:01:20]} 26. Rg3 {[%emt 0:07:15]} Nc4 {[%emt 0:03:
+53]} 27. Bxc4 {[%emt 0:00:08]} bxc4 {[%emt 0:00:05]} 28. Nxg7 {[%emt 0:00:37]}
+Kxg7 {[%emt 0:06:29]} 29. h4 {[%emt 0:02:28]} f6 {[%emt 0:00:13]} 30. hxg5 {
+[%emt 0:08:36]} hxg5 {[%emt 0:00:06]} 31. e5 {[%emt 0:01:34]} Rxe5 {[%emt 0:00:
+49]} 32. Rxe5 {[%emt 0:00:49]} dxe5 {[%emt 0:00:05]} 33. Bxc5 {[%emt 0:01:03]}
+Qb1+ {[%emt 0:05:36]} 34. Kh2 {[%emt 0:00:02]} Rxb2 {[%emt 0:03:31]} 35. Qc3 {
+[%emt 0:01:54]} Nxd5 {[%emt 0:05:15]} 36. Qxc4 {[%emt 0:00:48]} Nf4 {[%emt 0:
+00:51]} 37. Be3 {[%emt 0:01:03]} Qh7+ {[%emt 0:00:28]} 38. Kg1 {[%emt 0:00:30]}
+Ne2+ {[%emt 0:04:15]} 0-1
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.27"]
+[White "Moiseenko, Alexander"]
+[Black "Kolbus, Dietmar"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "2635"]
+[BlackElo "2300"]
+[Annotator "RC"]
+[PlyCount "87"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. d4 {[%emt 0:00:00]} d5 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:00]} e6 {[%emt 0:
+00:00]} 3. Nc3 {[%emt 0:01:21]} Be7 {[%emt 0:00:14]} 4. cxd5 {[%emt 0:01:04]}
+exd5 {[%emt 0:00:04]} 5. Bf4 {[%emt 0:00:04]} c6 {[%emt 0:00:23]} 6. e3 {
+[%emt 0:00:17]} Bf5 {[%emt 0:03:20]} 7. Nge2 {[%emt 0:02:12]} Nd7 {[%emt 0:01:
+32]} 8. f3 {[%emt 0:35:55]} Nb6 {[%emt 0:05:45]} 9. Ng3 {[%emt 0:13:12]} Bg6 {
+[%emt 0:01:57]} 10. Be2 {[%emt 0:03:04]} Bd6 {[%emt 0:03:22]} 11. Bxd6 {
+[%emt 0:02:23]} Qxd6 {[%emt 0:00:03]} 12. O-O {[%emt 0:00:09]} Ne7 {[%emt 0:01:
+32]} 13. Qd2 {[%emt 0:01:52]} O-O {[%emt 0:07:01]} 14. e4 {[%emt 0:02:31]} f6 {
+[%emt 0:00:39]} 15. Rad1 {[%emt 0:01:36]} Rad8 {[%emt 0:00:51]} 16. Kh1 {
+[%emt 0:03:00]} Kh8 {[%emt 0:03:06]} 17. a3 {[%emt 0:02:24]} Rfe8 {[%emt 0:01:
+07]} 18. Rfe1 {[%emt 0:03:20]} Nec8 {[%emt 0:04:09]} 19. Bf1 {[%emt 0:02:31]}
+Re7 {[%emt 0:01:46]} 20. Qf2 {[%emt 0:05:00]} Rde8 {[%emt 0:00:36]} 21. h3 {
+[%emt 0:02:04]} Qb8 {[%emt 0:03:59]} 22. Bd3 {[%emt 0:02:22]} Qf4 {[%emt 0:06:
+39]} 23. Nge2 {[%emt 0:00:47]} Qb8 {[%emt 0:01:53]} 24. Qh4 {[%emt 0:02:59]} h6
+{[%emt 0:06:43]} 25. Nf4 {[%emt 0:01:39]} Bh7 {[%emt 0:01:30]} 26. Qg3 {
+[%emt 0:00:38]} Qd6 {[%emt 0:06:47]} 27. Ng6+ {[%emt 0:01:08]} Bxg6 {[%emt 0:
+00:29]} 28. Qxg6 {[%emt 0:00:03]} Kg8 {[%emt 0:00:16]} 29. Re2 {[%emt 0:02:29]}
+Kf8 {[%emt 0:01:49]} 30. Qh7 {[%emt 0:02:22]} dxe4 {[%emt 0:09:01]} 31. Bxe4 {
+[%emt 0:01:09]} f5 {[%emt 0:01:02]} 32. Qxf5+ {[%emt 0:01:34]} Qf6 {[%emt 0:00:
+08]} 33. Qc5 {[%emt 0:01:29]} Qd6 {[%emt 0:01:01]} 34. Qf5+ {[%emt 0:01:46]}
+Qf6 {[%emt 0:00:05]} 35. Qc5 {[%emt 0:00:04]} Qd6 {[%emt 0:00:15]} 36. Qh5 {
+[%emt 0:01:04]} Qf6 {[%emt 0:03:17]} 37. Qa5 {[%emt 0:04:04]} Rd8 {[%emt 0:04:
+39]} 38. d5 {[%emt 0:01:53]} Red7 {[%emt 0:01:06]} 39. Rde1 {[%emt 0:02:45]}
+cxd5 {[%emt 0:02:20]} 40. Bd3 {[%emt 0:00:13]} Nc4 {[%emt 0:06:25]} 41. Qc5+ {
+[%emt 0:54:54]} Qd6 {[%emt 0:51:06]} 42. Qd4 {[%emt 0:00:00]} Qf6 {[%emt 0:00:
+00]} 43. Qg4 {[%emt 0:00:00]} Nxb2 {[%emt 0:00:00]} 44. Qb4+ {[%emt 0:00:00]}
+1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.27"]
+[White "Deac, Bogdan-Daniel"]
+[Black "Dubov, Daniil"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[WhiteElo "2613"]
+[BlackElo "2699"]
+[Annotator "TA"]
+[PlyCount "62"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,62,19,20,20,15,20,20,10,19,18,19,18,13,14,12,19,16,16,13,13,17,10,15,
+19,20,13,17,11,12,8,14,0,0,0,0,0,0,-2,-5,-5,-5,-5,-5]} 1. d4 Nf6 2. c4 e6 3.
+Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O dxc4 9. Bxc4 a6 10.
+Rd1 c5 11. dxc5 Bxc5 {The position is equal.} 12. Bd3 {D46: Semi-Slav: 5 e3
+Nbd7 6 Bd3, Black avoids the Meran} Qe7 (12... Qc7 13. b3 b6 14. Ne4 Bb7 15.
+Bb2 Rac8 16. Nxc5 Nxc5 17. Be5 Qc6 18. Bf1 Nce4 19. Qxc6 Rxc6 {1-0 (47)
+Gelfand,B (2725)-Dubov,D (2660) Moscow 2016}) 13. a3 b5 14. b4 Bb6 15. a4 $146
+({Predecessor:} 15. Bb2 Bb7 16. Ng5 h6 17. Nge4 Kh8 18. a4 Rfc8 19. axb5 axb5
+20. Rxa8 Bxa8 21. Nxf6 Nxf6 {1/2-1/2 (29) Einarsson,T (2274)-Repanic,F (2124)
+ICCF email 2005}) 15... Bb7 16. axb5 axb5 17. Rxa8 Rxa8 18. Bxb5 Bxf3 19. gxf3
+Ne5 20. Be2 Qxb4 21. Qb2 Qxb2 (21... Ba5 {keeps more tension.} 22. Qxb4 Bxb4
+23. Bb2 Ng6 24. f4 Nh4) 22. Bxb2 Rd8 23. Rxd8+ Bxd8 24. Ne4 Ned7 25. Bb5 Be7
+26. Bxf6 (26. Bd4 {seems wilder.} Nxe4 27. fxe4 Nc5 28. e5 f5 29. exf6 gxf6 30.
+f3) 26... Nxf6 27. Nxf6+ Bxf6 $11 {KB-KB} 28. f4 g6 29. Kg2 Be7 30. Kf3 Bd8 31.
+Ba4 Bc7 {Accuracy: White = 69%, Black = 92%.} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.28"]
+[White "Anand, Viswanathan"]
+[Black "Baron, Tal"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2765"]
+[BlackElo "2531"]
+[Annotator "TA"]
+[PlyCount "53"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,53,17,1,11,2,6,0,3,16,13,12,29,0,44,39,43,54,80,74,154,149,193,192,
+235,135,207,192,187,177,251,252,300,266,497,500,494,490,725,713]} 1. e4 c5 2.
+Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8. exd5 Nb8 9.
+a4 Be7 {B33: Sicilian: Pelikan and Sveshnikov Variations} 10. Bd2 O-O 11. Be2
+$146 ({Predecessor:} 11. a5 Bf5 12. Bb4 a6 13. Na3 Nd7 14. Nc4 Qc7 15. g4 Be4
+16. Rg1 Rac8 {1-0 (50) Nepomniachtchi,I (2774)-Gelfand,B (2686) Amsterdam 2019}
+) 11... a6 {The position is equal.} 12. Na3 a5 13. Bb5 f5 14. Qe2 $36 {[%mdl
+2048] White has good play.} Nd7 15. O-O-O Nc5 16. f4 Bf6 17. fxe5 dxe5 {[#]} (
+17... Bxe5 $142 18. Nc4 Bd7) 18. Be3 $1 $16 {[%cal Re3c5]} b6 19. Nc4 Rb8 20.
+Nxa5 ({Better is} 20. Bxc5 $18 bxc5 21. d6 (21. Nxe5 Rxb5 22. Nc6 Rxb2 $16))
+20... bxa5 (20... Ra8 $16) 21. Bxc5 $18 Rf7 22. Kb1 f4 (22... e4 {is a better
+defense.} 23. c4 Be5) 23. d6 Bf5 24. Rd5 Bg6 $2 {[#]} (24... Be6) 25. d7 {
+White is clearly winning.} e4 26. Rf1 Bg5 (26... Qc7 $142 27. Bd6 Rxb5 28. axb5
+(28. Bxc7 Rxd5 29. d8=Q+ Bxd8 $18) 28... Qxd7) 27. Qg4 {Accuracy: White = 75%,
+Black = 16%.} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.28"]
+[White "Narayanan.S.L"]
+[Black "Vallejo Pons, Francisco"]
+[Result "1/2-1/2"]
+[ECO "C18"]
+[WhiteElo "2611"]
+[BlackElo "2694"]
+[Annotator "TA"]
+[PlyCount "44"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,44,7,8,-8,-14,-7,-16,-4,-10,-2,0,0,0,0,0,0,0,15,0,0,3,-6,8,0,0,-13,
+29,0,0,-13,16,0,0]} 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3
+c5 7. Qg4 cxd4 8. Bd3 {C18: French: 3 Nc3 Bb4: Main line: 7 h4 and 7 Qg4} Qa5
+9. Rb1 Kf8 $146 ({Predecessor:} 9... Ng6 10. Nf3 b6 11. O-O Qxc3 12. h4 h5 13.
+Qg3 Qc7 14. Bxg6 fxg6 15. Nxd4 O-O {0-1 (45) Kosteniuk,A (2495)-Goryachkina,A 
+(2564) Skolkovo 2019}) 10. Nf3 dxc3 11. O-O Nbc6 12. Re1 h6 13. a4 Kg8 14. Ba3
+Nf5 15. Qf4 Qd8 16. h4 b6 17. h5 Bd7 18. Rbd1 Qe8 19. Nh2 Qd8 20. Nf3 (20. Bxf5
+$5 exf5 21. Rxd5 $11) 20... Qe8 {The position is equal.} 21. Nh2 Qd8 22. Nf3
+Qe8 {Accuracy: White = 68%, Black = 59%.} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.29"]
+[White "Inarkiev, Ernesto"]
+[Black "Vovk, Andriy"]
+[Result "0-1"]
+[ECO "E17"]
+[WhiteElo "2693"]
+[BlackElo "2618"]
+[Annotator "TA"]
+[PlyCount "36"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,112,3,14,17,7,16,12,22,17,27,0,3,6,0,7,9,-42,-42,-60,-66,-81,-56,
+-125,-117,-114,-63,-127,-134,-239,-247,-259,-259,-268,-263,-234,-209,-312,-162,
+-258,-266,-338,-300,-632,-157,-157,-146,-157,-141,-133,-132,-135,-120,-233,
+-237,-234,-232,-300,-278,-271,-255,-297,-289,-364,-343,-334,-323,-316,-313,
+-441,-452,-418,-369,-460,-354,-444,-432,-607,-593,-1019,-1019,-984,-943,-900,
+-892,-772,-768,-672,-671,-1050,-880,-866,-866,-812,-805,-1576,-1576,-1511,
+-1509,-5787,-5377]} 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3
+Ne4 7. Bd2 O-O 8. d5 Nxd2 {E17: Queen's Indian: 4 g3 Bb7 5 Bg2 Be7} 9. Qxd2 (9.
+Nxd2 d6 10. O-O e5 11. f4 exf4 12. gxf4 Nd7 13. Nf3 Bf6 14. Nd4 Re8 15. e4 g6
+16. Qd2 Bg7 17. Rae1 Qh4 18. Ndb5 {0-1 (88) Gelfand,B (2741)-Bocharov,D (2560)
+Berlin 2015}) 9... a5 10. O-O Na6 {The position is equal.} 11. e4 Nc5 $146 ({
+Predecessor:} 11... d6 12. Ne1 e5 13. Nd3 Bg5 14. Qe2 Nc5 15. f4 Nxd3 16. Qxd3
+exf4 17. gxf4 {1/2-1/2 (41) Gerstner,B-Singer,R Kaufbeuren 1998}) 12. Rfe1 d6
+13. e5 dxe5 14. Nxe5 f6 15. Ng4 (15. Nd3 $11) 15... e5 $15 16. f4 exf4 17. gxf4
+Bd6 18. f5 (18. Nb5 $15) 18... Ba6 {Played: Qd8-d7} 0-1
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.29"]
+[White "Prithu Gupta"]
+[Black "Shankland, Sam"]
+[Result "0-1"]
+[ECO "A37"]
+[WhiteElo "2493"]
+[BlackElo "2705"]
+[Annotator "TA"]
+[PlyCount "90"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,90,10,13,7,14,4,7,7,7,7,7,7,7,2,5,8,9,11,16,12,10,8,33,6,38,33,102,
+102,100,41,41,25,20,10,13,0,0,0,0,0,0,0,0,0,0,-24,-24,-24,-24,-23,0,0,0,0,0,
+-58,0,-101,-101,-302,-317,-347,-313,-953,-899,-12840,-12840,-12840,-12840,
+-12841,-12841,-12838,-11235]} 1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nf3 e5
+6. O-O d6 7. a3 a5 8. d3 Nge7 9. Ne1 Be6 10. Nc2 d5 11. cxd5 {A37: Symmetrical
+English vs ...g6: 4 Bg2 Bg7 5 Nf3} Nxd5 12. Ne3 {[%cal Re3d5]} Nb6 13. Bxc6+ {
+The position is equal.} (13. Nc4 O-O 14. Bxc6 bxc6 15. Nxb6 Qxb6 16. Be3 Qxb2
+17. Na4 Qb3 18. Nxc5 Qxd1 19. Rfxd1 {1/2-1/2 (46) Adams,M (2748)-Caruana,F 
+(2823) London 2016}) 13... bxc6 14. Ne4 c4 15. Nxc4 Nxc4 16. dxc4 O-O $146 ({
+Predecessor:} 16... Qd4 17. Qxd4 exd4 18. Bd2 O-O 19. Rac1 Rfd8 {0-1 (19)
+Kopsa,P (2372)-Pirs,J (2349) GER email 2016}) 17. Nc5 $36 {[%mdl 2048] White
+fights for an advantage.} Qxd1 18. Rxd1 Bxc4 19. Rd2 Rfd8 20. Rc2 Rd1+ 21. Kg2
+Rd4 (21... Ba6 $5) 22. e4 a4 (22... f5 $14) 23. Be3 $16 Rxe4 {[%mdl 64] [#]
+Threatening ...Bd5. Decoy} 24. Nxe4 (24. Kg1 $1 $16) 24... Bd3 $14 25. Rd2
+Bxe4+ 26. f3 Bd5 27. Rc1 f5 28. Kf2 Kf7 29. Re2 Rb8 30. Bc5 Rb3 31. Rc3 Rb5 {
+Hoping for ...e4.} 32. Bb4 e4 33. fxe4 Bd4+ 34. Ke1 fxe4 {Threatens to win
+with ...c5.} 35. Rc1 c5 36. Bc3 Ke6 37. Rd2 ({White should play} 37. Rd1 $11
+Ke5 38. Red2) 37... Ke5 (37... Be3 $15) 38. Re2 (38. Rcd1 $11) 38... Rb8 $17 {
+[%mdl 1024] Black has strong compensation.} 39. Rf2 $2 {[#]} (39. Bd2 $17 Rxb2
+40. Bf4+ Ke6 41. Rxb2 Bxb2 42. Rxc5) 39... e3 $1 $19 {[%cal Re3f2]} 40. Rf4 g5
+41. Rg4 $2 (41. Rf1) 41... h6 {Black is clearly winning.} 42. Rd1 Bxc3+ 43.
+bxc3 Bf3 {[%mdl 64] Double Attack} 44. Rc4 Rb2 45. Rxc5+ {[#]} Ke6 $1 {[%mdl
+512] Accuracy: White = 51%, Black = 75%.} 0-1
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.30"]
+[White "Howell, David W L"]
+[Black "Kashlinskaya, Alina"]
+[Result "1-0"]
+[ECO "C24"]
+[WhiteElo "2694"]
+[BlackElo "2481"]
+[Annotator "TA"]
+[PlyCount "119"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,119,14,20,5,14,16,8,8,12,16,11,0,8,0,0,0,0,-2,0,0,0,-2,17,17,13,16,9,
+16,16,16,16,14,14,5,55,49,56,58,86,37,38,0,33,0,0,0,0,0,0,0,60,61,72,73,58,58,
+64,62,63,2,65,50,64,66,65,0,0,0,0,1,35,0,47,56,66,16,39,10,497,498,554,550,782,
+782,1798,1732,1592,1476,12838,7554,4897,4905,4905,2182,1371,1180,5838,8291,
+12840,12840,12842,12843,12843,12843,12845,12846,12846,12847,12847,12847,12848,
+12848]} 1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 d5 5. Bb3 a5 {[#] ...a4 is the
+strong threat.} 6. a4 {C24: Bishop's Opening: 2...Nf6} ({But not} 6. Nxe5 $2 a4
+$19) (6. a3 Bd6 7. exd5 Nxd5 8. O-O O-O 9. Re1 Bg4 10. Nbd2 Nd7 11. h3 Bh5 12.
+Ne4 Qc7 13. Ng3 Bg6 {0-1 (48) Anand,V (2767)-Yu,Y (2738) Stavanger 2019}) 6...
+Bb4+ 7. c3 Bd6 8. exd5 {The position is equal.} Nxd5 9. O-O O-O 10. Re1 Bg4 11.
+h3 $146 ({Predecessor:} 11. Nbd2 Nd7 12. Nc4 Qf6 13. Bg5 Qg6 {0-1 (48) Petrov,
+N (2593)-Motylev,A (2644) St Petersburg 2018}) 11... Bh5 12. Nbd2 Nd7 13. Ne4
+Bc7 14. Ng3 Bg6 15. d4 {[%cal Rd4e5]} exd4 16. Bxd5 cxd5 17. Qxd4 Bxg3 18. fxg3
+Rc8 19. Qxd5 Nc5 20. Qxd8 Rfxd8 21. Bf4 Bc2 22. Nd4 Bg6 23. Re7 f6 24. Nb5 Re8
+25. Re3 (25. Rxe8+ {feels hotter.} Rxe8 26. b4 Nd3 27. bxa5 Re2 28. Nd6) 25...
+Nd3 26. Nd6 (26. Rxd3 $5 Bxd3 27. Nd6 $14 {[%mdl 64] Double Attack}) 26... Rxe3
+27. Bxe3 Rc7 28. b3 Rxc3 29. Nxb7 Rxb3 (29... Be4 $11 30. Nd6 Bd5) 30. Nxa5 $14
+Rb2 {White should prevent ...Be4.} 31. Nc4 Re2 32. Kf1 Rc2 33. Nd2 $1 Nb4 34.
+a5 ({Better is} 34. Nf3 $14) 34... Rc3 (34... Bd3+ $11 35. Kf2 Ba6) 35. Bf4 Nc2
+36. Ra4 {Threatens to win with a6.} Be8 37. Re4 (37. Ra2 $14 Bc6 38. Rb2) 37...
+Bc6 $11 38. Re7 g5 39. Bb8 Rd3 40. Nf3 Rb3 41. Ba7 Nb4 42. Rc7 Ra3 43. Bc5 Rc3
+$2 {[%mdl 8192]} (43... Ra1+ $11 44. Kf2 Ra2+ 45. Kg1 Ra1+ 46. Kf2 Ra2+ 47. Kg1
+Ra1+ 48. Kh2 Bxf3 49. gxf3 (49. Bxb4 Ra2 $11) 49... Ra2+ 50. Kg1 Na6 51. Rc8+
+Kf7) 44. Rc8+ $18 {White is clearly winning.} Kg7 {[#]} 45. Nd4 $1 h5 46. Bxb4
+({And not} 46. Nxc6 Rc1+ 47. Kf2 Rxc5 $11) 46... Bxg2+ 47. Kxg2 Rxc8 48. a6 Rc4
+49. Nf5+ Kg6 50. Ne7+ Kf7 51. Nd5 Rc2+ 52. Kf3 Ra2 53. Nc7 f5 54. Bc5 g4+ 55.
+hxg4 fxg4+ 56. Kf4 Ra4+ 57. Kg5 Ra5 58. a7 Rxc5+ 59. Kh4 Rxc7 60. a8=Q {
+Accuracy: White = 63%, Black = 42%.} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.30"]
+[White "Erdos, Viktor"]
+[Black "Grandelius, Nils"]
+[Result "1/2-1/2"]
+[ECO "D93"]
+[WhiteElo "2604"]
+[BlackElo "2691"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,61,40,13,18,0,0,0,0,-17,-11,-4,0,-18,-18,-23,-20,-25,-16,-16,-5,-12,
+0,-17,0,-22,0,-16,0,0,0,-4,-11,-17,0,-16,-9,-11,-5,-14,0,-4,0,-12]} 1. d4 Nf6
+2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Rc1 dxc4 8. Bxc4 O-O 9.
+Nf3 Nbd7 10. O-O Nxc5 11. Qe2 (11. Nd4 {with more complications.} Bg4 12. Qc2
+Rac8 13. h3 Bd7 14. a3) 11... Be6 {D93: Grünfeld: 4 Nf3 Bg7 5 Bf4 0-0 6 e3} 12.
+a3 {[#] Black must now prevent b4.} Bxc4 13. Qxc4 {Hoping for b4.} Ne6 14. Be5
+Rac8 15. Qa2 $146 ({Predecessor:} 15. Qb5 Qxb5 16. Nxb5 a6 17. Nc3 Nc5 {
+1-0 (50) Thejkumar,M (2457)-Gupta,A (2590) Chennai 2011}) 15... Ng5 {[#]
+Threatens to win with ...Nxf3+.} 16. Nxg5 {Strongly threatening Nf3.} Qxe5 17.
+Nf3 Qc7 18. h3 Qb6 19. Na4 {The position is equal.} Qb5 20. Nc3 Qb6 21. Na4 Qb5
+22. Nc3 Qa6 23. Qb3 Rfd8 24. Rfd1 e6 25. Rxd8+ Rxd8 26. Rd1 Rc8 27. Nd4 Ne8 28.
+Ne4 Rd8 29. Nc3 Rc8 30. Ne4 Rd8 31. Nc3 {Accuracy: White = 61%, Black = 42%.}
+1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.31"]
+[White "Sargissian, Gabriel"]
+[Black "Hansen, Eric"]
+[Result "1-0"]
+[ECO "D90"]
+[WhiteElo "2690"]
+[BlackElo "2611"]
+[Annotator "TA"]
+[PlyCount "55"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,55,0,0,-18,8,0,6,5,5,5,5,5,5,3,3,3,3,3,3,3,4,8,164,146,334,345,418,
+428,754,776,29988,712,725,572,619,510,995,260,798,269,253,236,235,232,598,535,
+12837,12838]} 1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 d5 5. h4 (5. Qb3 dxc4 6.
+Qxc4 O-O 7. e4 Nc6 8. Be2 e5 9. d5 Nd4 10. Nxd4 exd4 11. Qxd4 c6 12. Qc4 b5 13.
+Qxc6 Bd7 14. Qd6 Re8 15. e5 Ng4 16. e6 fxe6 {1/2-1/2 (36) Yu,Y (2763)-Vachier
+Lagrave,M (2774) Khanty-Mansiysk 2019}) 5... dxc4 6. e4 {D90: Grünfeld: 4 Nf3
+Bg7 sidelines} c5 $146 ({Predecessor:} 6... O-O 7. Bxc4 c5 {1-0 (36)
+Riazantsev,A (2651)-Kokarev,D (2636) Novosibirsk 2016}) 7. d5 O-O 8. Bxc4 {
+The position is equal.} b5 9. Bxb5 {White wants to play 0-0.} Nxe4 $1 10. Nxe4
+{And now 0-0 would win.} Qa5+ {[%mdl 64] Double Attack} 11. Nc3 Bxc3+ 12. bxc3
+{Strongly threatening Rb1.} Qxb5 13. h5 Qc4 14. hxg6 fxg6 15. Rh4 $36 {[%mdl
+2048] White has good play.} Bg4 $2 (15... Qxc3+ $11 16. Bd2 Qd3) 16. Nd2 $1 $18
+Qxc3 $2 (16... Bxd1 $16 17. Nxc4 Bc2) 17. Qxg4 {aiming for Qe6+.} Qxa1 18. Qe6+
+Kh8 (18... Rf7 $142) 19. Qxe7 {[%cal Re7f8]} Qxc1+ 20. Ke2 {[%cal Re7f8]} Rxf2+
+21. Kxf2 {[%csl Gh4][%cal Re7h7]} Qxd2+ 22. Kg1 {[%csl Gh4][%cal Re7h7]} h5 {
+[#]} (22... h6 $142) 23. Qf8+ $1 Kh7 24. Re4 $2 (24. Rf4 {[%cal Rf4f7]} Qe3+
+25. Kh2 Qxf4+ 26. Qxf4) 24... Nc6 ({But not} 24... Qd1+ $2 25. Kh2 $18) 25.
+Qxa8 Qxd5 {[#]} 26. Qe8 $1 c4 $2 (26... Kg7 27. Qe6 Qxe6 28. Rxe6 Nb4 29. Re7+
+{[%mdl 64] Double Attack} Kf6 30. Rxa7 Ke5) 27. Qe6 ({Stronger than} 27. Re6
+Qd4+ 28. Kh2 Qh4+ 29. Kg1 Qd4+ 30. Kh2 Qh4+ 31. Kg1 Qd4+ $11) 27... Qc5+ 28.
+Kh1 {Accuracy: White = 100%, Black = 35%.} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.31"]
+[White "Stefanova, Antoaneta"]
+[Black "Jones, Gawain C B"]
+[Result "*"]
+[ECO "D79"]
+[WhiteElo "2479"]
+[BlackElo "2688"]
+[Annotator "TA"]
+[PlyCount "40"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 21,25,12,21,14,24,8]} 1. d4 Nf6 2. c4 g6 3. g3 c6 4. Nf3 Bg7 5. Nc3 d5
+6. cxd5 cxd5 7. Ne5 Nc6 8. Bg2 Bf5 9. Nxc6 bxc6 10. O-O O-O 11. Bf4 Nd7 12. Na4
+{D79: Fianchetto Grünfeld: Symmetrical Variation (6 0-0 c6 7 cxd5 cxd5)} Qa5
+13. b3 {[#]} {Predecessor:} Qb4 $146 14. Rc1 Rfc8 15. e3 e5 16. dxe5 Nxe5 17.
+Nc5 Re8 18. Bxe5 Rxe5 19. Nd3 Bxd3 20. Qxd3 Re6 {1/2-1/2 (20) Pligin,S (2496)
+-Batrakov,A (2517) ICCF email 2015} *
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.32"]
+[White "Gelfand, Boris"]
+[Black "Nihal Sarin"]
+[Result "1-0"]
+[ECO "E04"]
+[WhiteElo "2686"]
+[BlackElo "2610"]
+[Annotator "TA"]
+[PlyCount "141"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,141,10,14,23,21,21,22,0,11,8,18,27,15,28,23,22,29,22,38,33,43,29,31,
+38,26,19,33,18,19,18,60,68,66,58,74,58,58,60,47,63,52,56,72,65,92,87,84,72,84,
+79,117,125,129,118,189,187,164,186,171,164,147,145,147,146,232,245,252,215,164,
+162,166,177,188,191,160,201,185,187,193,0,164,0,139,0,110,0,204,191,376,382,
+359,368,315,183,446,425,586,577,576,481,673,578,12835,12835,12837,12837,12837,
+12838,12838,12839,12841,12842,12842,12843,12842,12843,12843,12843,12844,12844,
+12845,12844,12845,12845]} 1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. g3 dxc4 5. Bg2 c5 6.
+O-O Nc6 7. Qa4 Bd7 8. dxc5 Bxc5 9. Qxc4 Be7 10. Nc3 O-O 11. e4 {E04: Open
+Catalan: 5 Nf3} Qa5 12. Rd1 Rfd8 13. Qe2 {The position is equal.} Ng4 {[#]} 14.
+Nd2 $146 ({Predecessor:} 14. h3 Nge5 15. Nxe5 Nxe5 16. f4 Bc5+ 17. Kh2 Nc6 18.
+Be3 f6 19. Bxc5 Qxc5 {1/2-1/2 (67) Gelfand,B (2703)-Adams,M (2712) Batumi 2018}
+) 14... Nge5 {next ...Nd4 is good for Black.} 15. Nb3 $1 {[%cal Rb3a5]} Qb4 16.
+Bd2 Qc4 17. Bf1 Qxe2 18. Bxe2 Be8 19. Be3 f5 20. Nc5 Bxc5 21. Bxc5 b6 22. Be3
+Bg6 23. exf5 Bxf5 24. Nb5 h6 25. Rac1 Rxd1+ 26. Rxd1 Nb4 27. Nd4 Rd8 28. Nxf5
+Rxd1+ 29. Bxd1 {Black must now prevent Bb3.} exf5 $14 {[%mdl 4096] Endgame
+KBB-KNN} 30. Bd4 Nec6 31. Bc3 {Bf3 is the strong threat.} Nd5 32. Bb3 Nce7 33.
+Kf1 Kf7 34. h4 g6 35. Bd2 h5 36. Bg5 {Threatens to win with Bxe7.} Ke8 (36...
+Kg7 $16 {was worth a try.}) 37. Ke2 $18 Nc7 38. Ke3 Nc6 39. Bf4 Nb5 40. Bc4
+Nbd4 41. Bg5 b5 (41... Kd7 $16 {keeps fighting.} 42. Bf7 Ne5) 42. Bd5 Nc2+ 43.
+Kd2 $1 N2b4 44. Bb3 Na6 45. Be3 Ke7 46. Bd5 Nab4 47. Bc5+ Kf6 48. Bb3 Na6 49.
+Be3 Ke7 $1 50. Bd5 Nab4 $1 {[%cal Rb4d5]} 51. Bc5+ Kf6 52. Bb3 (52. Bg8 $16)
+52... Na6 53. Bd6 $1 Na5 $2 (53... Nab8 54. a4 a6) 54. Bd5 Nc4+ 55. Bxc4 $1
+bxc4 {[#] KB-KN} 56. Bf4 $1 Ke6 $2 {[#]} (56... Nc5) 57. Be3 $1 {White is
+clearly winning.} f4 58. Bxa7 fxg3 59. fxg3 Nb4 60. Kc3 $1 {[%csl LRb4,LRc4]}
+Nxa2+ 61. Kxc4 Nc1 62. b4 Kd7 63. Be3 Ne2 64. Bf4 Kc6 65. Kd3 Ng1 66. Ke3 Kb5
+67. Bd6 Nh3 68. Be7 Kc6 69. Kf3 Kd7 70. Bf6 Ke6 71. Kg2 {Accuracy: White = 83%,
+Black = 53%.} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.32"]
+[White "Sjugirov, Sanan"]
+[Black "Cramling, Pia"]
+[Result "1-0"]
+[ECO "B54"]
+[WhiteElo "2662"]
+[BlackElo "2462"]
+[Annotator "TA"]
+[PlyCount "87"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,86,34,26,41,35,50,47,51,35,49,29,58,35,44,15,31,8,25,5,13,19,18,0,20,
+23,55,39,55,29,29,37,24,60,46,13,83,29,63,62,64,43,73,73,66,60,117,103,149,156,
+197,180,154,162,414,404,599,580,949,516,497,489,842,802,997,997,987,983,968,
+961,961,954,925,914,1115,1107,29982,29983,29999]} 1. e4 c5 2. Nf3 e6 3. d4 cxd4
+4. Nxd4 Nc6 5. Nc3 d6 6. g4 h6 {B54: Sicilian: 2...d6 3 d4 cxd4 4 Nxd4,
+Unusual Lines} (6... a6 7. g5 Bd7 8. Be3 b5 9. a3 Rc8 10. Nxc6 Bxc6 11. Qd2 Qa5
+12. Bg2 Ne7 13. f4 Rd8 14. Qf2 {1-0 (52) Bacrot,E (2725)-Movsesian,S (2647)
+Riadh 2017}) 7. h4 a6 8. Be3 Nf6 {White is slightly better.} 9. Rg1 h5 10. gxh5
+Nxh5 11. Be2 Nf6 12. Bg5 Qb6 13. Nb3 $1 Qc7 14. Qd2 b5 15. a3 Bb7 {[#]} 16. f3
+$146 ({Predecessor:} 16. O-O-O b4 17. axb4 Nxb4 18. Bxf6 gxf6 {1-0 (32) Popov,
+I (2596)-Kovalev,E (2339) Sochi 2016}) 16... Be7 17. O-O-O O-O-O 18. Qe3 Ne5
+19. f4 Nc4 20. Bxc4 bxc4 21. Nd4 g6 22. Nde2 Kb8 {[#]} (22... Ng8 $11) 23. Kb1
+(23. Qd4 $1 $16 e5 24. Qe3) 23... Nh5 {White should prevent ...f6.} 24. Bxe7
+Qxe7 25. Rd4 Rc8 26. Rgd1 Rhd8 27. Qf2 f5 (27... Qc7 $14) 28. e5 $36 {[%cal
+Rd4d6][%mdl 2048] White is really pushing.} dxe5 29. fxe5 Qc5 {intending ...
+Rxd4.} 30. Qe3 Rxd4 31. Rxd4 Rc7 $2 (31... Bc6 {is a better defense.} 32. Nf4
+Nxf4 33. Qxf4 Be8) 32. Rd8+ $18 Ka7 (32... Bc8 $142 33. Nd4 Ng7) 33. Nd4 {
+And now Na4 would win.} f4 34. Qf2 {Threatens to win with Na4.} Bc6 35. Qe1 Bd7
+(35... f3 $142 36. Qe3 Ng7 37. Nxc6+ Rxc6 38. Qxf3 Nf5) 36. Qg1 ({Less strong
+is} 36. Qe4 Rb7 $18) 36... Qb6 {[#]} 37. Ndb5+ $1 {[%mdl 512]} axb5 {[#]} 38.
+Ra8+ $1 {[%mdl 576] Deflection} Kxa8 39. Qxb6 Rb7 40. Qd8+ Ka7 41. Ne4 Ng3 42.
+Nc5 {[%mdl 64] Double Attack} f3 43. Nxd7 {[%cal Rd8a5]} f2 44. Qa5# {Accuracy:
+White = 58%, Black = 38%.} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.33"]
+[White "Kuzubov, Yuriy"]
+[Black "Jansa, Vlastimil"]
+[Result "1-0"]
+[ECO "B08"]
+[WhiteElo "2636"]
+[BlackElo "2452"]
+[Annotator "RC"]
+[PlyCount "45"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. Nf3 {[%emt 0:00:00]} g6 {[%emt 0:00:26]} 2. e4 {[%emt 0:00:00]} Bg7 {
+[%emt 0:00:09]} 3. d4 {[%emt 0:00:00]} d6 {[%emt 0:00:14]} 4. Bc4 {[%emt 0:00:
+16]} Nf6 {[%emt 0:00:59]} 5. Qe2 {[%emt 0:00:23]} O-O {[%emt 0:01:55]} 6. e5 {
+[%emt 0:00:29]} Ne8 {[%emt 0:03:53]} 7. Nc3 {[%emt 0:00:54]} Bg4 {[%emt 0:07:
+10]} 8. Bg5 {[%emt 0:01:28]} Nc6 {[%emt 0:11:48]} 9. O-O-O {[%emt 0:00:11]} h6
+{[%emt 0:02:38]} 10. Bh4 {[%emt 0:06:21]} Qc8 {[%emt 0:11:00]} 11. Nd5 {
+[%emt 0:01:05]} g5 {[%emt 0:14:02]} 12. Bg3 {[%emt 0:02:57]} e6 {[%emt 0:03:37]
+} 13. Ne3 {[%emt 0:02:18]} Bxf3 {[%emt 0:03:42]} 14. gxf3 {[%emt 0:03:23]} dxe5
+{[%emt 0:05:35]} 15. dxe5 {[%emt 0:02:06]} Nxe5 {[%emt 0:00:44]} 16. Bxe5 {
+[%emt 0:00:06]} Bxe5 {[%emt 0:00:08]} 17. h4 {[%emt 0:00:05]} Ng7 {[%emt 0:10:
+55]} 18. hxg5 {[%emt 0:05:34]} hxg5 {[%emt 0:01:18]} 19. Ng4 {[%emt 0:01:27]}
+Bf4+ {[%emt 0:00:26]} 20. Kb1 {[%emt 0:00:05]} Re8 {[%emt 0:11:53]} 21. Nf6+ {
+[%emt 0:03:19]} Kf8 {[%emt 0:00:04]} 22. Rh8+ {[%emt 0:01:08]} Ke7 {[%emt 0:00:
+02]} 23. Nd5+ {[%emt 0:01:17]} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.33"]
+[White "Paravyan, David"]
+[Black "Kamsky, Gata"]
+[Result "1/2-1/2"]
+[ECO "B35"]
+[WhiteElo "2602"]
+[BlackElo "2685"]
+[Annotator "TA"]
+[PlyCount "78"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,78,52,46,53,50,60,47,83,86,83,86,104,81,89,96,90,60,79,89,93,21,52,
+-38,30,0,54,54,43,38,37,10,156,0,0,0,47,66,29,44,57,0,0,0,46,42,197,190,190,
+-23,-30,-213,0,0,0,0,0,0,0,0,0]} 1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5.
+Nxd4 Bg7 6. Be3 Nf6 7. Bc4 O-O 8. Bb3 a5 9. O-O a4 10. Nxa4 Nxe4 11. Nb5 {
+And now Bb6 would win.} Ra6 {B35: Sicilian: Accelerated Dragon with 5 Nc3:
+main line} 12. Qe2 (12. f3 Nf6 13. c4 d6 14. Nac3 Na5 15. Rc1 Be6 16. Ne2 d5
+17. c5 Nxb3 18. axb3 Bd7 19. Nbc3 {1-0 (36) Almasi,Z (2689)-Istratescu,A (2602)
+Bastia 2015}) 12... d6 13. c4 Nf6 {White is slightly better.} 14. Rad1 Ng4 15.
+Bg5 Bf6 16. Bc1 $146 ({Predecessor:} 16. Bxf6 Nxf6 17. c5 d5 18. Nb6 Bg4 19. f3
+{1-0 (75) Khanin,S (2458)-Tsydypov,Z (2523) Khanty-Mansiysk 2017}) 16... Nge5
+17. Bh6 Re8 {[#]} 18. Nc5 $1 {[%mdl 512]} dxc5 19. Rxd8 Rxd8 20. Bf4 (20. Rd1
+$16) 20... Bf5 {next ...Bd3 is good for Black.} 21. Bc2 (21. Bxe5 $14 Bxe5 22.
+Re1) 21... Be6 (21... Bxc2 $15 22. Qxc2 Nd3) 22. Bb3 (22. Bxe5 $5 Nxe5 23. Bb3
+$14) 22... Bf5 {White should prevent ...Bd3.} 23. Rd1 Rxd1+ 24. Qxd1 Nd3 {
+[%mdl 64] Double Attack} 25. g4 Nxb2 (25... Nxf4 $11 {keeps the balance.} 26.
+gxf5 Ra8) 26. Qd2 $2 (26. Qf3 $16 Bb1 27. Nc7) 26... Bxg4 $11 27. Bg5 $36 {
+[%mdl 2048] aiming for Bxf6. White is pushing.} Bxg5 28. Qxg5 Bf5 29. Nc7 Ra7
+30. Nd5 ({Better is} 30. Qh6 $14 f6 31. Ne8) 30... b6 31. Qe3 Nd3 32. Bc2 Rxa2
+$2 ({Black should play} 32... Nde5 $14 33. Bxf5 gxf5) 33. Bxd3 $18 Ra3 {[#]}
+34. Qf4 $2 ({Weaker is} 34. Nf4 Bxd3 35. Nxd3 Nb4 $11) ({White has to play} 34.
+Nf6+ $1 $18 exf6 35. Qe8+ {[%mdl 64] Double Attack} Kg7 36. Bxf5) 34... Rxd3
+$11 35. Qc7 $2 {[#]} (35. h4 $1 $11 {and White is okay.}) 35... Be4 $2 ({
+Black should try} 35... Bh3 $1 $19 {[%cal Rd3d1]} 36. Ne3 Rb3) 36. f3 {The
+position is equal.} Bxd5 37. cxd5 Nb4 38. Qb8+ $1 Kg7 39. Qe5+ Kg8 {Accuracy:
+White = 42%, Black = 41%.} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.34"]
+[White "Ragger, Markus"]
+[Black "Efimenko, Zahar"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2684"]
+[BlackElo "2604"]
+[Annotator "TA"]
+[PlyCount "73"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,73,12,11,14,10,22,26,22,21,26,15,25,15,22,15,15,13,29,20,16,14,16,22,
+20,24,29,10,35,32,45,35,39,23,11,6,18,17,31,27,54,49,48,53,66,22,52,40,53,28,
+38,27,29,22,28,27,24,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3
+d6 6. O-O h6 7. Re1 O-O 8. h3 a6 {C54: Giuoco Piano: 4 c3 Nf6, main lines with
+5 d4 and 5 d3} 9. a4 Be6 (9... a5 10. Nbd2 Be6 11. Bb5 Na7 12. d4 Nxb5 13. dxc5
+Na7 14. b3 Re8 15. cxd6 Qxd6 16. Ba3 {1-0 (43) Carlsen,M (2882)-So,W (2776)
+Saint Louis 2019}) 10. Bxe6 fxe6 {White has an edge.} 11. b4 Ba7 12. Nbd2 Nh5
+13. Ra2 $146 ({Predecessor:} 13. Nf1 Qe8 14. Ra2 {1-0 (61) Ragger,M (2668)
+-Sermier,G (2405) Switzerland 2018}) 13... Nf4 14. Nf1 Qe8 15. Kh2 Qh5 {
+With the idea ...Nxh3!} 16. Ng3 Qf7 17. Be3 Ne7 18. Bxa7 Rxa7 19. Re3 Raa8 20.
+Nf1 a5 (20... Nc6 {is more complex.} 21. Rc2 Qh5 22. Ng3 Qg6 23. Kg1 Rad8) 21.
+b5 Nc8 22. g3 Ng6 23. Ne1 Nb6 24. Rf3 Qe7 25. Nd2 Rxf3 26. Nexf3 Nd7 27. Qe2
+Rf8 28. Kg2 b6 29. Qe3 Rf7 30. Ra1 Qf6 31. Nf1 {[%cal Bd2f1,Bf1h2,Bh2g4][%mdl
+32]} Ngf8 32. N1h2 Qe7 33. Ng4 Nh7 34. d4 {[%cal Rd4e5]} Nhf6 35. dxe5 Nxg4 36.
+hxg4 Nxe5 37. Nxe5 {Accuracy: White = 47%, Black = 62%.} 1/2-1/2
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.34"]
+[White "Sebag, Marie"]
+[Black "Zhang, Zhong"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "2445"]
+[BlackElo "2636"]
+[Annotator "RC"]
+[PlyCount "79"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:02]} 2. Nf3 {[%emt 0:00:23]} Nc6 {
+[%emt 0:00:15]} 3. Bb5 {[%emt 0:01:17]} g6 {[%emt 0:00:22]} 4. Bxc6 {[%emt 0:
+03:02]} bxc6 {[%emt 0:00:13]} 5. d4 {[%emt 0:04:08]} cxd4 {[%emt 0:01:20]} 6.
+Qxd4 {[%emt 0:02:10]} f6 {[%emt 0:00:26]} 7. c4 {[%emt 0:11:53]} d6 {[%emt 0:
+01:06]} 8. O-O {[%emt 0:01:49]} c5 {[%emt 0:01:03]} 9. Qd3 {[%emt 0:03:21]} Nh6
+{[%emt 0:01:44]} 10. Nh4 {[%emt 0:07:26]} g5 {[%emt 0:27:52]} 11. Nf3 {[%emt 0:
+00:54]} Nf7 {[%emt 0:01:21]} 12. Qc3 {[%emt 0:12:03]} Rg8 {[%emt 0:03:42]} 13.
+Nbd2 {[%emt 0:10:18]} Bh6 {[%emt 0:10:49]} 14. Nb3 {[%emt 0:06:45]} a5 {
+[%emt 0:04:46]} 15. Be3 {[%emt 0:03:36]} Qb6 {[%emt 0:03:08]} 16. Rfe1 {
+[%emt 0:05:04]} Bb7 {[%emt 0:12:20]} 17. Nbd2 {[%emt 0:02:34]} Qc6 {[%emt 0:05:
+47]} 18. Qd3 {[%emt 0:09:42]} Bg7 {[%emt 0:01:07]} 19. Red1 {[%emt 0:03:56]} h5
+{[%emt 0:01:25]} 20. Rab1 {[%emt 0:00:45]} h4 {[%emt 0:13:17]} 21. h3 {[%emt 0:
+04:46]} Bf8 {[%emt 0:01:49]} 22. Nh2 {[%emt 0:03:12]} f5 {[%emt 0:03:44]} 23.
+f3 {[%emt 0:00:09]} Ne5 {[%emt 0:05:12]} 24. Qe2 {[%emt 0:01:00]} f4 {[%emt 0:
+00:15]} 25. Bf2 {[%emt 0:00:05]} Bg7 {[%emt 0:00:28]} 26. Ng4 {[%emt 0:01:23]}
+Qa4 {[%emt 0:01:46]} 27. Nxe5 {[%emt 0:04:49]} Bxe5 {[%emt 0:00:03]} 28. Nf1 {
+[%emt 0:00:40]} Qxa2 {[%emt 0:01:26]} 29. Nh2 {[%emt 0:00:18]} Bc8 {[%emt 0:02:
+02]} 30. Qd3 {[%emt 0:00:48]} Be6 {[%emt 0:00:59]} 31. Ng4 {[%emt 0:01:13]} Bh8
+{[%emt 0:03:14]} 32. e5 {[%emt 0:00:58]} Qxc4 {[%emt 0:01:53]} 33. Qxc4 {
+[%emt 0:00:48]} Bxc4 {[%emt 0:00:00]} 34. exd6 {[%emt 0:00:06]} e6 {[%emt 0:01:
+00]} 35. d7+ {[%emt 0:00:49]} Kd8 {[%emt 0:00:07]} 36. Nh6 {[%emt 0:01:57]} Rg7
+{[%emt 0:01:08]} 37. Bxc5 {[%emt 0:00:10]} Rxd7 {[%emt 0:00:27]} 38. Nf7+ {
+[%emt 0:00:52]} Kc7 {[%emt 0:00:13]} 39. Nxh8 {[%emt 0:00:39]} Bd3 {[%emt 0:01:
+06]} 40. Rbc1 {[%emt 0:00:36]} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.35"]
+[White "Mareco, Sandro"]
+[Black "Arkell, Keith C"]
+[Result "*"]
+[ECO "D90"]
+[WhiteElo "2634"]
+[BlackElo "2447"]
+[Annotator "RC"]
+[PlyCount "61"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:51]} 2. c4 {[%emt 0:00:00]} c6 {[%emt 0:
+00:34]} 3. Nc3 {[%emt 0:00:12]} d5 {[%emt 0:00:05]} 4. Nf3 {[%emt 0:00:04]} g6
+{[%emt 0:00:16]} 5. cxd5 {[%emt 0:00:07]} cxd5 {[%emt 0:00:05]} 6. Bf4 {
+[%emt 0:00:08]} Nc6 {[%emt 0:00:08]} 7. e3 {[%emt 0:00:21]} Bg7 {[%emt 0:00:06]
+} 8. h3 {[%emt 0:00:04]} O-O {[%emt 0:00:05]} 9. Be2 {[%emt 0:00:03]} b6 {
+[%emt 0:01:21]} 10. O-O {[%emt 0:00:16]} Bb7 {[%emt 0:00:06]} 11. Rc1 {[%emt 0:
+00:12]} a6 {[%emt 0:05:31]} 12. Na4 {[%emt 0:19:54]} Nd7 {[%emt 0:07:24]} 13.
+Qd2 {[%emt 0:03:45]} Rc8 {[%emt 0:06:08]} 14. b4 {[%emt 0:06:42]} e6 {[%emt 0:
+33:22]} 15. b5 {[%emt 0:01:30]} axb5 {[%emt 0:01:22]} 16. Bxb5 {[%emt 0:00:06]}
+Qe7 {[%emt 0:06:59]} 17. Rc2 {[%emt 0:03:37]} e5 {[%emt 0:14:09]} 18. dxe5 {
+[%emt 0:01:48]} Ncxe5 {[%emt 0:00:06]} 19. Nxe5 {[%emt 0:00:52]} Nxe5 {[%emt 0:
+00:08]} 20. Nxb6 {[%emt 0:06:09]} Rxc2 {[%emt 0:02:04]} 21. Qxc2 {[%emt 0:00:
+04]} Qd6 {[%emt 0:14:37]} 22. Nd7 {[%emt 0:01:47]} Rc8 {[%emt 0:07:31]} 23. Qb2
+{[%emt 0:03:04]} f6 {[%emt 0:00:45]} 24. Rc1 {[%emt 0:04:36]} Rxc1+ {[%emt 0:
+03:00]} 25. Qxc1 {[%emt 0:00:05]} d4 {[%emt 0:00:15]} 26. Nc5 {[%emt 0:15:23]}
+Ba8 {[%emt 0:01:49]} 27. Qa3 {[%emt 0:01:11]} Qd5 {[%emt 0:02:49]} 28. e4 {
+[%emt 0:00:48]} Qd8 {[%emt 0:00:05]} 29. Ne6 {[%emt 0:00:55]} Qc8 {[%emt 0:01:
+01]} 30. Qe7 {[%emt 0:00:23]} Bh8 {[%emt 0:00:56]} 31. Be8 {[%emt 0:00:48]} *
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.36"]
+[White "Iturrizaga Bonelli, Eduardo"]
+[Black "Clarke, Brandon G I"]
+[Result "*"]
+[ECO "E90"]
+[WhiteElo "2629"]
+[BlackElo "2445"]
+[Annotator "RC"]
+[PlyCount "56"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. c4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:58]} 2. Nc3 {[%emt 0:00:00]} g6 {
+[%emt 0:00:05]} 3. e4 {[%emt 0:00:00]} d6 {[%emt 0:00:05]} 4. d4 {[%emt 0:00:
+00]} Bg7 {[%emt 0:00:05]} 5. h3 {[%emt 0:00:00]} O-O {[%emt 0:00:07]} 6. Be3 {
+[%emt 0:00:00]} c5 {[%emt 0:00:05]} 7. Nf3 {[%emt 0:00:05]} cxd4 {[%emt 0:00:
+57]} 8. Nxd4 {[%emt 0:00:07]} a6 {[%emt 0:00:42]} 9. g4 {[%emt 0:04:45]} Nc6 {
+[%emt 0:11:40]} 10. g5 {[%emt 0:06:24]} Nh5 {[%emt 0:04:33]} 11. Nb3 {[%emt 0:
+02:34]} Be6 {[%emt 0:13:44]} 12. Be2 {[%emt 0:00:13]} b5 {[%emt 0:01:16]} 13.
+c5 {[%emt 0:20:12]} Bxb3 {[%emt 0:24:52]} 14. axb3 {[%emt 0:07:40]} dxc5 {
+[%emt 0:00:36]} 15. Bxh5 {[%emt 0:00:06]} gxh5 {[%emt 0:00:29]} 16. Bxc5 {
+[%emt 0:00:03]} Qc7 {[%emt 0:13:12]} 17. Nd5 {[%emt 0:13:10]} Qe5 {[%emt 0:00:
+15]} 18. Qe2 {[%emt 0:00:03]} Qxg5 {[%emt 0:08:23]} 19. Kf1 {[%emt 0:02:15]}
+Rfd8 {[%emt 0:13:45]} 20. Rg1 {[%emt 0:02:14]} Qh4 {[%emt 0:02:20]} 21. Qf3 {
+[%emt 0:08:46]} Kh8 {[%emt 0:00:36]} 22. Qxf7 {[%emt 0:00:59]} Bxb2 {[%emt 0:
+01:33]} 23. Ra2 {[%emt 0:16:19]} Qxh3+ {[%emt 0:00:32]} 24. Ke2 {[%emt 0:00:18]
+} Qxb3 {[%emt 0:05:14]} 25. Ra3 {[%emt 0:03:24]} Qc4+ {[%emt 0:00:48]} 26. Rd3
+{[%emt 0:00:16]} Qxe4+ {[%emt 0:01:35]} 27. Re3 {[%emt 0:00:35]} Qc4+ {[%emt 0:
+00:14]} 28. Ke1 {[%emt 0:00:24]} Rxd5 {[%emt 0:00:56]} *
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.37"]
+[White "Volokitin, Andrei"]
+[Black "Bulmaga, Irina"]
+[Result "*"]
+[ECO "C88"]
+[WhiteElo "2627"]
+[BlackElo "2442"]
+[Annotator "RC"]
+[PlyCount "85"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:00]} 3. Bb5 {[%emt 0:00:00]} a6 {[%emt 0:00:00]} 4. Ba4 {[%emt 0:00:
+03]} Nf6 {[%emt 0:00:06]} 5. O-O {[%emt 0:00:09]} b5 {[%emt 0:00:07]} 6. Bb3 {
+[%emt 0:00:06]} Bb7 {[%emt 0:00:21]} 7. d3 {[%emt 0:04:53]} Be7 {[%emt 0:00:46]
+} 8. Re1 {[%emt 0:01:18]} O-O {[%emt 0:01:08]} 9. Nbd2 {[%emt 0:00:13]} d6 {
+[%emt 0:07:37]} 10. a4 {[%emt 0:00:28]} Nd7 {[%emt 0:15:00]} 11. c3 {[%emt 0:
+00:49]} Nc5 {[%emt 0:02:42]} 12. axb5 {[%emt 0:00:25]} axb5 {[%emt 0:00:55]}
+13. Rxa8 {[%emt 0:00:07]} Bxa8 {[%emt 0:00:58]} 14. Bc2 {[%emt 0:00:14]} Bf6 {
+[%emt 0:08:17]} 15. b4 {[%emt 0:05:49]} Ne6 {[%emt 0:00:33]} 16. Nf1 {[%emt 0:
+03:53]} g6 {[%emt 0:02:40]} 17. Ne3 {[%emt 0:03:57]} Bg7 {[%emt 0:01:53]} 18.
+Bb3 {[%emt 0:01:38]} Qd7 {[%emt 0:05:08]} 19. h4 {[%emt 0:03:25]} h5 {[%emt 0:
+06:57]} 20. Ng5 {[%emt 0:12:02]} Ncd8 {[%emt 0:07:04]} 21. Nd5 {[%emt 0:44:29]}
+Bb7 {[%emt 0:12:07]} 22. Qf3 {[%emt 0:01:33]} Bxd5 {[%emt 0:01:04]} 23. Bxd5 {
+[%emt 0:00:59]} c6 {[%emt 0:01:42]} 24. Bb3 {[%emt 0:00:11]} Nxg5 {[%emt 0:05:
+30]} 25. Bxg5 {[%emt 0:10:23]} Ne6 {[%emt 0:00:21]} 26. Ra1 {[%emt 0:00:30]} c5
+{[%emt 0:10:54]} 27. Be3 {[%emt 0:05:18]} Rc8 {[%emt 0:03:18]} 28. Bd5 {
+[%emt 0:01:50]} Nf4 {[%emt 0:01:38]} 29. Bxf4 {[%emt 0:03:39]} exf4 {[%emt 0:
+00:04]} 30. bxc5 {[%emt 0:00:42]} Bxc3 {[%emt 0:05:33]} 31. c6 {[%emt 0:04:24]}
+Qe7 {[%emt 0:00:06]} 32. Qh3 {[%emt 0:00:49]} Rc7 {[%emt 0:00:47]} 33. Ra8+ {
+[%emt 0:00:38]} Kg7 {[%emt 0:00:03]} 34. Rb8 {[%emt 0:00:09]} b4 {[%emt 0:05:
+53]} 35. Rb7 {[%emt 0:00:04]} Bf6 {[%emt 0:01:45]} 36. Qf3 {[%emt 0:00:35]}
+Rxb7 {[%emt 0:02:24]} 37. cxb7 {[%emt 0:00:03]} Qc7 {[%emt 0:00:05]} 38. Qh3 {
+[%emt 0:01:17]} Qc1+ {[%emt 0:01:51]} 39. Kh2 {[%emt 0:00:01]} Bd4 {[%emt 0:01:
+25]} 40. Qd7 {[%emt 0:01:15]} Bxf2 {[%emt 0:00:46]} 41. Qxf7+ {[%emt 0:50:06]}
+Kh6 {[%emt 0:50:05]} 42. Qf8+ {[%emt 0:00:05]} Kh7 {[%emt 0:00:03]} 43. Qg8+ {
+[%emt 0:00:07]} *
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.38"]
+[White "Esipenko, Andrey"]
+[Black "Houska, Jovanka"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2624"]
+[BlackElo "2430"]
+[Annotator "RC"]
+[PlyCount "95"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. e4 {[%emt 0:00:00]} c6 {[%emt 0:00:00]} 2. d4 {[%emt 0:00:00]} d5 {[%emt 0:
+00:00]} 3. e5 {[%emt 0:00:27]} Bf5 {[%emt 0:00:00]} 4. Nf3 {[%emt 0:01:15]} e6
+{[%emt 0:00:02]} 5. Be2 {[%emt 0:00:14]} Nd7 {[%emt 0:00:23]} 6. O-O {[%emt 0:
+01:31]} h6 {[%emt 0:01:31]} 7. Nbd2 {[%emt 0:01:54]} Ne7 {[%emt 0:01:04]} 8.
+Nb3 {[%emt 0:00:49]} Qc7 {[%emt 0:00:15]} 9. a4 {[%emt 0:03:25]} Rd8 {[%emt 0:
+02:59]} 10. c3 {[%emt 0:04:32]} a6 {[%emt 0:12:19]} 11. a5 {[%emt 0:05:12]} g5
+{[%emt 0:13:46]} 12. Ne1 {[%emt 0:13:30]} c5 {[%emt 0:05:35]} 13. f4 {[%emt 0:
+03:02]} c4 {[%emt 0:03:38]} 14. Nd2 {[%emt 0:00:17]} gxf4 {[%emt 0:11:17]} 15.
+Rxf4 {[%emt 0:00:33]} Bg7 {[%emt 0:00:30]} 16. Nf1 {[%emt 0:16:51]} Nf8 {
+[%emt 0:34:24]} 17. Ng3 {[%emt 0:03:36]} Nfg6 {[%emt 0:01:56]} 18. Rf1 {
+[%emt 0:01:13]} Kd7 {[%emt 0:05:46]} 19. Nxf5 {[%emt 0:01:36]} exf5 {[%emt 0:
+00:13]} 20. g4 {[%emt 0:00:39]} f4 {[%emt 0:03:39]} 21. Ng2 {[%emt 0:01:01]} f6
+{[%emt 0:00:29]} 22. exf6 {[%emt 0:12:34]} Bxf6 {[%emt 0:00:04]} 23. Nxf4 {
+[%emt 0:00:26]} Bg5 {[%emt 0:05:42]} 24. Nxg6 {[%emt 0:07:26]} Nxg6 {[%emt 0:
+00:03]} 25. Rf7+ {[%emt 0:00:24]} Ne7 {[%emt 0:00:26]} 26. Qf1 {[%emt 0:00:22]}
+Kc8 {[%emt 0:00:48]} 27. Bf4 {[%emt 0:04:33]} Bxf4 {[%emt 0:01:39]} 28. Qxf4 {
+[%emt 0:00:06]} Qxf4 {[%emt 0:01:28]} 29. Rxf4 {[%emt 0:00:04]} Rd6 {[%emt 0:
+01:30]} 30. Rf7 {[%emt 0:04:53]} Kd8 {[%emt 0:00:38]} 31. Raf1 {[%emt 0:05:21]}
+Rg8 {[%emt 0:00:36]} 32. Kg2 {[%emt 0:03:03]} b6 {[%emt 0:00:22]} 33. Bf3 {
+[%emt 0:03:18]} Rgg6 {[%emt 0:02:12]} 34. axb6 {[%emt 0:02:30]} Rxb6 {[%emt 0:
+00:04]} 35. Rf2 {[%emt 0:00:07]} Rge6 {[%emt 0:01:19]} 36. Bd1 {[%emt 0:01:58]}
+Re1 {[%emt 0:00:23]} 37. Ba4 {[%emt 0:00:06]} Rbe6 {[%emt 0:00:47]} 38. R7f6 {
+[%emt 0:05:08]} Rxf6 {[%emt 0:00:35]} 39. Rxf6 {[%emt 0:00:03]} Re2+ {[%emt 0:
+00:04]} 40. Rf2 {[%emt 0:00:04]} Re1 {[%emt 0:00:19]} 41. Bc2 {[%emt 0:50:38]}
+Kd7 {[%emt 0:03:26]} 42. h4 {[%emt 0:00:00]} Ke6 {[%emt 0:00:23]} 43. g5 {
+[%emt 0:00:00]} hxg5 {[%emt 0:01:42]} 44. hxg5 {[%emt 0:00:00]} a5 {[%emt 0:00:
+07]} 45. g6 {[%emt 0:00:00]} a4 {[%emt 0:11:09]} 46. g7 {[%emt 0:00:00]} Re3 {
+[%emt 0:02:01]} 47. Bh7 {[%emt 0:00:00]} a3 {[%emt 0:00:14]} 48. bxa3 {[%emt 0:
+00:00]} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.39"]
+[White "Batsiashvili, Nino"]
+[Black "Huschenbeth, Niclas"]
+[Result "*"]
+[ECO "A17"]
+[WhiteElo "2422"]
+[BlackElo "2624"]
+[Annotator "RC"]
+[PlyCount "68"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. Nf3 {[%emt 0:00:00]} d5 {[%emt 0:00:00]} 2. e3 {[%emt 0:00:00]} Nf6 {
+[%emt 0:00:00]} 3. c4 {[%emt 0:00:00]} e6 {[%emt 0:00:00]} 4. Nc3 {[%emt 0:00:
+00]} c5 {[%emt 0:01:12]} 5. cxd5 {[%emt 0:00:05]} Nxd5 {[%emt 0:00:13]} 6. Nxd5
+{[%emt 0:00:07]} exd5 {[%emt 0:00:04]} 7. b4 {[%emt 0:00:17]} cxb4 {[%emt 0:02:
+04]} 8. Bb2 {[%emt 0:00:03]} Nc6 {[%emt 0:03:25]} 9. Nd4 {[%emt 0:01:04]} Nxd4
+{[%emt 0:04:59]} 10. Bxd4 {[%emt 0:00:26]} f6 {[%emt 0:02:17]} 11. Bd3 {
+[%emt 0:02:30]} g6 {[%emt 0:17:52]} 12. h4 {[%emt 0:04:29]} Bd6 {[%emt 0:16:12]
+} 13. Qf3 {[%emt 0:23:18]} Be7 {[%emt 0:01:00]} 14. h5 {[%emt 0:01:06]} g5 {
+[%emt 0:00:57]} 15. Rc1 {[%emt 0:11:38]} Be6 {[%emt 0:03:50]} 16. Bf5 {[%emt 0:
+04:58]} Bxf5 {[%emt 0:06:35]} 17. Qxf5 {[%emt 0:02:53]} Qd7 {[%emt 0:00:08]}
+18. Qf3 {[%emt 0:02:06]} Kf7 {[%emt 0:14:31]} 19. O-O {[%emt 0:17:06]} Rhc8 {
+[%emt 0:08:21]} 20. e4 {[%emt 0:07:16]} Rc4 {[%emt 0:10:05]} 21. Qd3 {[%emt 0:
+00:02]} Rac8 {[%emt 0:02:48]} 22. Rce1 {[%emt 0:05:45]} dxe4 {[%emt 0:02:34]}
+23. Rxe4 {[%emt 0:02:37]} f5 {[%emt 0:00:16]} 24. Rxe7+ {[%emt 0:01:46]} Kxe7 {
+[%emt 0:01:57]} 25. Bf6+ {[%emt 0:11:23]} Ke6 {[%emt 0:00:00]} 26. Re1+ {
+[%emt 0:00:07]} Re4 {[%emt 0:00:00]} 27. Rxe4+ {[%emt 0:00:06]} fxe4 {[%emt 0:
+00:00]} 28. Qh3+ {[%emt 0:00:05]} Kd6 {[%emt 0:00:00]} 29. Qg3+ {[%emt 0:05:09]
+} Kc6 {[%emt 0:00:55]} 30. Qb3 {[%emt 0:02:32]} Kb5 {[%emt 0:02:27]} 31. Bxg5 {
+[%emt 0:02:11]} Qf5 {[%emt 0:03:49]} 32. Qe3 {[%emt 0:01:32]} Rc1+ {[%emt 0:01:
+38]} 33. Kh2 {[%emt 0:00:01]} Qg4 {[%emt 0:02:28]} 34. Bf4 {[%emt 0:03:34]}
+Qh4+ {[%emt 0:01:36]} *
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.40"]
+[White "Sethuraman, S.P.."]
+[Black "Danielian, Elina"]
+[Result "0-1"]
+[ECO "C11"]
+[WhiteElo "2624"]
+[BlackElo "2385"]
+[Annotator "RC"]
+[PlyCount "78"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. e4 {[%emt 0:00:00]} e6 {[%emt 0:00:00]} 2. d4 {[%emt 0:00:00]} d5 {[%emt 0:
+00:00]} 3. Nc3 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 4. e5 {[%emt 0:00:03]}
+Nfd7 {[%emt 0:00:00]} 5. f4 {[%emt 0:00:08]} c5 {[%emt 0:00:00]} 6. Nf3 {
+[%emt 0:00:06]} Nc6 {[%emt 0:00:00]} 7. Be3 {[%emt 0:00:06]} a6 {[%emt 0:00:03]
+} 8. a3 {[%emt 0:00:07]} cxd4 {[%emt 0:08:54]} 9. Nxd4 {[%emt 0:00:08]} Bc5 {
+[%emt 0:01:03]} 10. Qd2 {[%emt 0:00:15]} O-O {[%emt 0:02:42]} 11. O-O-O {
+[%emt 0:01:23]} Bxd4 {[%emt 0:13:01]} 12. Bxd4 {[%emt 0:00:09]} b5 {[%emt 0:00:
+05]} 13. h4 {[%emt 0:27:18]} Rb8 {[%emt 0:04:01]} 14. Rh3 {[%emt 0:00:52]} b4 {
+[%emt 0:05:36]} 15. Na2 {[%emt 0:01:12]} a5 {[%emt 0:11:34]} 16. h5 {[%emt 0:
+00:47]} h6 {[%emt 0:05:11]} 17. Rg3 {[%emt 0:20:22]} Nxd4 {[%emt 0:11:04]} 18.
+Qxd4 {[%emt 0:00:47]} Qh4 {[%emt 0:02:10]} 19. Rh3 {[%emt 0:13:35]} Qe7 {
+[%emt 0:00:05]} 20. axb4 {[%emt 0:00:25]} axb4 {[%emt 0:00:24]} 21. Rb3 {
+[%emt 0:00:07]} Ra8 {[%emt 0:06:06]} 22. Qxb4 {[%emt 0:03:48]} Nc5 {[%emt 0:03:
+06]} 23. Ra3 {[%emt 0:12:37]} Bd7 {[%emt 0:00:49]} 24. Kb1 {[%emt 0:07:50]} Ba4
+{[%emt 0:23:18]} 25. Qd4 {[%emt 0:05:39]} Rfb8 {[%emt 0:04:26]} 26. Kc1 {
+[%emt 0:00:07]} Be8 {[%emt 0:05:09]} 27. Rxa8 {[%emt 0:01:54]} Rxa8 {[%emt 0:
+00:02]} 28. Nc3 {[%emt 0:00:19]} Qa7 {[%emt 0:00:12]} 29. Be2 {[%emt 0:10:50]}
+Rc8 {[%emt 0:02:14]} 30. Qb4 {[%emt 0:00:30]} Rb8 {[%emt 0:01:20]} 31. Qd4 {
+[%emt 0:01:10]} Rc8 {[%emt 0:01:33]} 32. Qb4 {[%emt 0:02:06]} Rb8 {[%emt 0:00:
+03]} 33. Qa3 {[%emt 0:00:04]} Qb6 {[%emt 0:00:09]} 34. Bf3 {[%emt 0:01:07]} Bc6
+{[%emt 0:00:33]} 35. Ne2 {[%emt 0:00:23]} Ra8 {[%emt 0:01:43]} 36. Qe3 {
+[%emt 0:00:27]} Ne4 {[%emt 0:00:38]} 37. Qa3 {[%emt 0:00:54]} Rxa3 {[%emt 0:00:
+05]} 38. bxa3 {[%emt 0:00:02]} Qe3+ {[%emt 0:00:21]} 39. Kb2 {[%emt 0:00:05]}
+Nc5 {[%emt 0:00:02] Kc1} 0-1
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.41"]
+[White "Wu, Li"]
+[Black "Vocaturo, Daniele"]
+[Result "0-1"]
+[ECO "D38"]
+[WhiteElo "2332"]
+[BlackElo "2620"]
+[Annotator "RC"]
+[PlyCount "64"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:00]} e6 {[%emt 0:
+00:38]} 3. Nf3 {[%emt 0:00:07]} d5 {[%emt 0:00:44]} 4. Nc3 {[%emt 0:00:59]} Bb4
+{[%emt 0:00:54]} 5. cxd5 {[%emt 0:01:47]} exd5 {[%emt 0:00:09]} 6. Bg5 {
+[%emt 0:00:12]} Nbd7 {[%emt 0:01:01]} 7. e3 {[%emt 0:00:42]} c5 {[%emt 0:01:37]
+} 8. Qc2 {[%emt 0:24:43]} Qa5 {[%emt 0:02:47]} 9. Bd3 {[%emt 0:05:13]} c4 {
+[%emt 0:02:21]} 10. Bf5 {[%emt 0:00:17]} O-O {[%emt 0:01:46]} 11. O-O {[%emt 0:
+01:09]} Re8 {[%emt 0:01:00]} 12. Nd2 {[%emt 0:05:28]} g6 {[%emt 0:02:12]} 13.
+Bxd7 {[%emt 0:16:01]} Nxd7 {[%emt 0:00:09]} 14. Rae1 {[%emt 0:00:13]} Nb6 {
+[%emt 0:08:06]} 15. e4 {[%emt 0:26:29]} dxe4 {[%emt 0:14:10]} 16. Ndxe4 {
+[%emt 0:00:16]} Rxe4 {[%emt 0:02:20]} 17. Nxe4 {[%emt 0:00:03]} Bxe1 {[%emt 0:
+00:10]} 18. Qe2 {[%emt 0:00:05]} Bb4 {[%emt 0:05:51]} 19. Nf6+ {[%emt 0:00:04]}
+Kg7 {[%emt 0:00:16]} 20. Ne8+ {[%emt 0:00:02]} Kg8 {[%emt 0:09:47]} 21. Nf6+ {
+[%emt 0:00:07]} Kg7 {[%emt 0:00:10]} 22. Ne8+ {[%emt 0:00:05]} Kh8 {[%emt 0:06:
+43]} 23. d5 {[%emt 0:04:41]} Qxd5 {[%emt 0:07:28]} 24. Bf6+ {[%emt 0:00:07]}
+Kg8 {[%emt 0:00:11]} 25. Nc7 {[%emt 0:00:12]} Qc6 {[%emt 0:03:40]} 26. Nxa8 {
+[%emt 0:03:22]} Nxa8 {[%emt 0:01:08]} 27. Qe5 {[%emt 0:03:18]} Nb6 {[%emt 0:04:
+55]} 28. Rd1 {[%emt 0:02:49]} Bd7 {[%emt 0:01:55]} 29. h4 {[%emt 0:07:46]} h5 {
+[%emt 0:03:39]} 30. a3 {[%emt 0:05:13]} Bf8 {[%emt 0:00:23]} 31. Kh2 {[%emt 0:
+02:37]} Qe6 {[%emt 0:02:26]} 32. Qd4 {[%emt 0:00:55]} Bc6 {[%emt 0:01:57]} 0-1
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[Site "Douglas-Isle of Man"]
+[Date "2019.10.11"]
+[Round "2.42"]
+[White "Gonzalez Vidal, Yuri"]
+[Black "Allen, Keith"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2552"]
+[BlackElo "2161"]
+[Annotator "ChessBase"]
+[PlyCount "109"]
+[EventDate "2019.10.10"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/6000+30:20/3000+30:900+30"]
+
+1. e4 {[%emt 0:00:00]} c6 {[%emt 0:00:00]} 2. d4 {[%emt 0:00:00]} d5 {[%emt 0:
+00:20]} 3. e5 {[%emt 0:00:01]} Bf5 {[%emt 0:00:21]} 4. Nf3 {[%emt 0:00:24]} e6
+{[%emt 0:00:16]} 5. Be2 {[%emt 0:00:18]} Ne7 {[%emt 0:00:51]} 6. O-O {[%emt 0:
+00:22]} c5 {[%emt 0:00:50]} 7. c4 {[%emt 0:01:07]} Nbc6 {[%emt 0:01:20]} 8. Na3
+{[%emt 0:04:12]} a6 {[%emt 0:02:32]} 9. dxc5 {[%emt 0:12:41]} d4 {[%emt 0:01:
+57]} 10. Qa4 {[%emt 0:13:50]} d3 {[%emt 0:10:28]} 11. Rd1 {[%emt 0:01:40]} Ng6
+{[%emt 0:01:06]} 12. Be3 {[%emt 0:15:10]} Be7 {[%emt 0:03:02]} 13. Qb3 {
+[%emt 0:15:06]} Ngxe5 {[%emt 0:09:39]} 14. Ne1 {[%emt 0:09:11]} Nd4 {[%emt 0:
+11:25]} 15. Qa4+ {[%emt 0:03:29]} Kf8 {[%emt 0:08:52]} 16. Bxd4 {[%emt 0:11:43]
+} Qxd4 {[%emt 0:02:49]} 17. Nac2 {[%emt 0:03:33]} Qh4 {[%emt 0:29:42]} 18. Bxd3
+{[%emt 0:05:50]} Bxc5 {[%emt 0:03:02]} 19. Rd2 {[%emt 0:03:43]} Rd8 {[%emt 0:
+09:21]} 20. Qa5 {[%emt 0:00:22]} b6 {[%emt 0:03:23]} 21. Qc3 {[%emt 0:00:05]}
+Bxd3 {[%emt 0:03:53]} 22. Qxe5 {[%emt 0:01:56]} Bxc2 {[%emt 0:02:02]} 23. Rxd8+
+{[%emt 0:01:53]} Qxd8 {[%emt 0:00:02]} 24. Nxc2 {[%emt 0:00:06]} h5 {[%emt 0:
+02:26]} 25. Ne3 {[%emt 0:00:58]} Qd6 {[%emt 0:00:11]} 26. Qe4 {[%emt 0:00:28]}
+Qb8 {[%emt 0:00:48]} 27. Rd1 {[%emt 0:00:19]} Bxe3 {[%emt 0:01:02]} 28. Qxe3 {
+[%emt 0:00:19]} Qc7 {[%emt 0:00:34]} 29. Qa3+ {[%emt 0:00:42]} Kg8 {[%emt 0:00:
+17]} 30. Qxa6 {[%emt 0:00:15]} Kh7 {[%emt 0:00:20]} 31. Qb5 {[%emt 0:00:35]} g6
+{[%emt 0:01:21]} 32. Qd7 {[%emt 0:00:58]} Rc8 {[%emt 0:00:23]} 33. b3 {[%emt 0:
+00:36]} Kg7 {[%emt 0:00:24]} 34. Qxc7 {[%emt 0:00:45]} Rxc7 {[%emt 0:00:02]}
+35. Kf1 {[%emt 0:00:30]} Kf6 {[%emt 0:00:25]} 36. Rd8 {[%emt 0:01:17]} Ke7 {
+[%emt 0:01:23]} 37. Rb8 {[%emt 0:00:08]} Rc6 {[%emt 0:00:04]} 38. Rb7+ {
+[%emt 0:00:06]} Kf6 {[%emt 0:00:50]} 39. Ke2 {[%emt 0:00:18]} e5 {[%emt 0:00:
+57]} 40. Kd3 {[%emt 0:00:33]} Ke6 {[%emt 0:00:13]} 41. b4 {[%emt 0:51:40]} f5 {
+[%emt 0:02:40]} 42. f3 {[%emt 0:00:00]} Rd6+ {[%emt 0:04:07]} 43. Ke2 {[%emt 0:
+00:00]} h4 {[%emt 0:14:01]} 44. a4 {[%emt 0:00:00]} f4 {[%emt 0:10:11]} 45. h3
+{[%emt 0:00:00]} Kf5 {[%emt 0:06:40]} 46. Rf7+ {[%emt 0:00:00]} Ke6 {[%emt 0:
+00:30]} 47. Rc7 {[%emt 0:00:00]} e4 {[%emt 0:05:37]} 48. fxe4 {[%emt 0:00:00]}
+Ke5 {[%emt 0:00:06]} 49. c5 {[%emt 0:00:00]} bxc5 {[%emt 0:01:28]} 50. Rxc5+ {
+[%emt 0:00:00]} Kxe4 {[%emt 0:00:16]} 51. Rc4+ {[%emt 0:00:00]} Kf5 {[%emt 0:
+01:00]} 52. b5 {[%emt 0:00:00]} Re6+ {[%emt 0:00:32]} 53. Kf2 {[%emt 0:00:00]}
+Re3 {[%emt 0:00:17]} 54. b6 {[%emt 0:00:00]} Rb3 {[%emt 0:01:11]} 55. Rc5+ {
+[%emt 0:00:00]} 1-0
+

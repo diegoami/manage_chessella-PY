@@ -1,0 +1,39 @@
+[Event "EICC 2019"]
+[Site "Skopia"]
+[Date "2019.03.19"]
+[Round "2.40"]
+[White "Gordievsky, Dmitry"]
+[Black "Grinberg, Eyal"]
+[Result "1-0"]
+[ECO "E07"]
+[WhiteElo "2603"]
+[BlackElo "2467"]
+[Annotator "Karsten Mueller"]
+[SetUp "1"]
+[FEN "8/2n1Bk1p/p4P2/5K2/1P5P/8/8/8 b - - 0 53"]
+[PlyCount "6"]
+[EventDate "2019.??.??"]
+[SourceTitle "1028_37"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+{[%evp 0,111,32,20,27,30,29,0,29,25,43,-10,27,-12,24,0,25,21,14,9,52,37,48,24,
+38,39,47,13,15,15,65,69,65,61,68,69,83,73,84,87,88,74,74,67,60,58,57,56,59,54,
+62,38,38,38,36,41,41,39,39,34,35,33,38,36,41,40,39,41,46,46,44,46,46,29,64,64,
+59,53,55,48,72,53,56,59,58,70,81,72,139,165,174,161,161,160,164,173,173,144,
+145,145,152,168,142,52,39,106,108,23,91,177,294,292,962,992]} 53... Nd5 {
+When fighting against a bishop in the endgame the defender often tries to
+create a fortress on the squares which the bishop cannot reach. However, one
+should not believe too much in fortresses.} {[%tqu "En","White to move and
+win","","","f5e4","",5,"f5e5","",0,"f5g5","",0,"e7c5","",0,"h4h5","",0,"De",
+"Weiß zieht und gewinnt","","","f5e4","",5,"f5e5","",0,"f5g5","",0,"e7c5","",
+0,"h4h5","",0]} 54. Ke4 $1 {The only way to break the fortress.} (54. Ke5 $2
+Nxe7 55. fxe7 Kxe7 56. h5 h6 $11) (54. Kg5 $2 Ne3 55. Kh6 Nf5+ 56. Kxh7 Nxh4
+$11) (54. Bc5 $2 Nxf6 $11) (54. h5 $2 Nxe7+ 55. fxe7 Kxe7 $11) 54... Ke6 (54...
+Nxe7 55. fxe7 Kxe7 56. Ke5 $1 {White has the opposition and wins.} h6 57. h5
+Kf7 58. Kf5 $18) (54... Nxf6+ 55. Bxf6 Kxf6 56. Kd5 Kf5 57. Kc6 Kg4 58. Kb6
+Kxh4 59. Kxa6 Kg4 60. b5 h5 61. b6 h4 62. b7 h3 63. b8=Q $18) 55. Kd4 h5 ({
+After} 55... Nc7 {the white king penetrates on the queenside:} 56. Kc5 h5 57.
+Kb6 Kd7 58. f7 Nd5+ 59. Kc5 $18) 56. f7 (56. f7 Kxf7 57. Kxd5 Kxe7 58. Kc6 $18)
+1-0
+

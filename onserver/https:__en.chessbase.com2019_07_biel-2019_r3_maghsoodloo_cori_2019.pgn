@@ -1,0 +1,43 @@
+
+
+[Event "52nd Biel Festival 2019"]
+[Site "Biel"]
+[Date "2019.07.24"]
+[Round "3.4"]
+[White "Maghsoodloo, Parham"]
+[Black "Cori, Jorge"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2656"]
+[BlackElo "2686"]
+[Annotator "TA"]
+[PlyCount "72"]
+[EventDate "2019.07.22"]
+[EventType "tourn"]
+[EventCountry "SUI"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,84,29,21,25,0,27,15,12,1,24,3,42,0,0,0,0,0,0,-10,53,50,43,0,0,0,0,0,
+0,0,0,-90,-89,-87,-52,-227,-219,-201,-218,-223,-200,-235,-213,-293,-309,-251,
+-225,-380,-340,-540,-529,-669,-635,-693,-682,-818,-816,-989,-962,-1009,-1000,
+-1361,-1303,-2695,-1976,-2715,-2559,-29994,-29995]} 1. e4 e6 2. d4 d5 3. e5 c5
+4. c3 Nc6 5. Nf3 Bd7 6. Be2 f6 7. O-O fxe5 8. Nxe5 Nxe5 9. dxe5 Qc7 10. c4 d4 {
+C02: French: Advance Variation} (10... Qxe5 11. Re1 O-O-O 12. Nc3 Nf6 13. Bd3
+Qd4 14. Be3 Qh4 15. g3 Qh3 16. Bf1 Qf5 17. Bd3 Qh3 18. Bf1 Qf5 19. Bd3 Qh3 20.
+Bf1 {1/2-1/2 (20) Muzychuk,M (2540)-Muzychuk,A (2569) St Petersburg 2018}) 11.
+Bf4 Ne7 12. Bd3 O-O-O {The position is equal.} 13. Nd2 h6 14. Ne4 $146 ({
+Predecessor:} 14. Bg3 g5 15. f4 Bg7 16. Qe2 gxf4 17. Bxf4 Nc6 18. Rae1 {
+1-0 (46) Prathamesh,S (2346)-Sitnikov,A (2462) Moscow 2006}) 14... Nf5 15. h3
+g5 16. Bh2 Bc6 17. Re1 Be7 18. Nf6 h5 (18... Kb8 $11) 19. Nxh5 (19. Bxf5 $5
+exf5 20. Qd3 $16) 19... Nh4 20. Re4 Bxe4 21. Bxe4 {[#]} d3 $1 {[%mdl 512]} 22.
+Nf6 {Black should prevent Qg4.} (22. Bxd3 Qc6) 22... Rd4 {Hoping for ...Qb6.}
+23. Qg4 $1 {[%cal Rg4e6]} Nf5 $1 24. Bxf5 (24. Qf3 $11 Nh4 25. Qg4) 24... Rxg4
+$17 25. Bxe6+ Kd8 26. Nxg4 $2 (26. Bxg4 $15 Bxf6 27. exf6) 26... Qb6 $1 $19 {
+[%csl LRb2,LRe6][%mdl 64] Double Attack} 27. Bf5 Qxb2 $40 {[%cal Rb2a1][%mdl
+128] Black has strong attack.} 28. Rd1 d2 ({Not} 28... Qxa2 29. Rxd3+ Kc7 30.
+e6+ Kb6 31. Ne3 $11) 29. Kf1 Qxa2 30. Be6 Kc7 31. Ne3 Rd8 32. Ke2 $2 (32. Nd5+
+Kb8 33. Nxe7) 32... Rd4 33. Nf5 {[#]} (33. Bf5 $142 b5 34. e6+ Kd8 35. cxb5)
+33... Qc2 $1 {[%csl Gd4][%cal Rc2d3]} 34. f3 Qd3+ 35. Kf2 Kd8 36. g4 Qb3 {
+Played: a7-a5} 0-1

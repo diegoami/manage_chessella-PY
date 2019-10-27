@@ -1,0 +1,37 @@
+[Event "Summer Chess Classic-A 2019"]
+[Site "Saint Louis"]
+[Date "2019.06.27"]
+[Round "9.2"]
+[White "Le, Quang Liem"]
+[Black "Jones, Gawain C B"]
+[Result "1-0"]
+[ECO "C85"]
+[WhiteElo "2694"]
+[BlackElo "2709"]
+[Annotator "KGBesenthal"]
+[PlyCount "77"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,77,19,31,34,19,13,4,13,-2,7,3,-22,-3,14,13,-1,-8,9,3,1,0,5,-4,-4,-5,
+-10,-11,-8,-11,-16,-12,-3,-5,6,-5,13,12,0,-9,-8,-31,-6,-37,-15,-9,-12,-24,-14,
+-9,-2,0,11,26,28,4,22,22,16,32,33,18,21,18,67,18,18,18,67,96,161,354,380,401,
+426,401,1084,1131,1726,2117]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4
+Nf6 5. O-O Bc5 6. Bxc6 dxc6 7. d3 Bd6 8. Nbd2 Be6 9. b3 Nd7 10. a4 a5 11. Nc4
+Bxc4 12. bxc4 O-O 13. Rb1 Re8 14. c3 b6 15. Bg5 Be7 16. Be3 Bf6 17. Qc2 c5 18.
+g3 Nf8 19. Ne1 Qd7 20. f4 exf4 21. gxf4 Rad8 22. f5 h6 23. Rf3 Nh7 24. Bf4 Qe7
+25. Ng2 Be5 26. Rbf1 Nf6 27. Kh1 Kh8 28. Rh3 {[#]} Rd6 {A (presumably
+well-intended) mistake: Black wants to block the white centre pawns and keeps
+an eye on the d4 square, but if White manages to get in e5 the black rook is
+in a tight spot.} (28... Bxf4 $1 29. Nxf4 Qe5 $11) 29. Rg1 Red8 {Black
+continues to pursue his plan.} ({But there was still time for} 29... Bxf4 $1
+30. Nxf4 Qe5) 30. Bxe5 Qxe5 31. Ne1 Ne8 {Of course g7 was also an obvious weak
+spot.} 32. Rg4 ({After} 32. Qg2 $1 {(which would have immobilized the
+e8-knight) White would have been on the winning side, but not because of an
+imminent mate on g7, but rather due to the activation of the central pawn mass:
+} Qxc3 (32... Kg8 33. d4 cxd4 34. Nd3 Qe7 35. e5) 33. Qg3) 32... Nf6 ({With} 
+32... Kh7 $1 {Black would have been able to prove that the rook move to g4 was
+not the right plan.}) 33. Rg1 Ne8 34. Qc1 $1 {[#] The Vietnamese finds a move
+as good as Qg2. The possible threat is Rxh6+ and does not leave Black with
+much choice.} Qe7 35. Qf4 $1 {Now e4-e5 is possible.} Qd7 36. e5 Qc6+ 37. Nf3
+Rxd3 38. f6 Kg8 39. Qxh6 1-0
+

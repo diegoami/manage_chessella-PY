@@ -1,0 +1,209 @@
+[Event "Hell International 2019"]
+[Site "Hell NOR"]
+[Date "2019.08.06"]
+[Round "5.2"]
+[White "Korpa, B."]
+[Black "Arvola, B."]
+[Result "1-0"]
+[ECO "A05"]
+[WhiteElo "2530"]
+[BlackElo "2510"]
+[Annotator "Alina"]
+[SetUp "1"]
+[FEN "5rk1/3nbp1p/1q2p1pP/p2pP3/b2p1BQ1/P1rP1NP1/R1P2PB1/2R3K1 w - - 0 23"]
+[PlyCount "17"]
+[EventDate "2019.08.03"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "NOR"]
+[Source "Mark Crowther"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.08.12"]
+[SourceQuality "2"]
+
+{An instructive moment from the tournament winner's memorabilia: how should
+White continue?} 23. Bg5 $1 {Exchanging the right pieces in the right moment
+is an art. This move order looks stronger to me than} (23. Bd2 {first} Rc7 {
+followed by} 24. Bg5 {White is having the advantage here as well but the game
+continuation seems more precise.}) 23... Bc5 ({If} 23... Bxg5 24. Qxg5 Qc7 25.
+Bf1 Bxc2 {What else?} (25... Rc8 26. Rb2 Rxa3 27. Rcb1 Qd8 28. Qf4 $16) 26.
+Nxd4 Ba4 27. Re1 $16 {White's position is harmonious with good control in the
+center and better play on the dark squares. Black will run out of useful moves
+soon.}) 24. Bd2 $1 {This is why I believe the move order played by the
+Hungarian GM is more accurate.} Rxa3 25. Rxa3 Bxa3 26. Ra1 Qc5 (26... Qb2 27.
+Qxd4 $16) 27. Nxd4 Bxc2 28. Nxe6 {The positional play is now followed by
+tactical blows.} fxe6 29. Qxe6+ Kh8 30. Qxd7 Qxf2+ 31. Kh1 $18 {The winner had
+no troubles to convert this massive advantage.} 1-0
+
+[Event "Hell International 2019"]
+[Site "Hell NOR"]
+[Date "2019.08.05"]
+[Round "4.3"]
+[White "Rozentalis, E."]
+[Black "Korpa, B."]
+[Result "0-1"]
+[ECO "B15"]
+[WhiteElo "2535"]
+[BlackElo "2530"]
+[Annotator "Alina"]
+[SetUp "1"]
+[FEN "8/pp3p1p/2pn1pk1/6p1/3P1P2/1PPNK3/P5PP/8 w - - 0 25"]
+[PlyCount "32"]
+[EventDate "2019.08.03"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "NOR"]
+[Source "Mark Crowther"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.08.12"]
+[SourceQuality "2"]
+
+{A bit of help from the opponents is always helpful in the race for the first
+place. Here White has a very comfortable advantage and the question is whether
+he can make progress?} 25. Nf2 ({Perhaps} 25. a4 $5 $16 {gaining more space on
+the queenside and limiting the black knight, would have posed Black more
+practical problems.}) 25... Nb5 26. Ne4 {choices, choices...} (26. Kd3 $5 {
+looks great since} gxf4 {runs into} 27. c4 Nd6 28. Ne4 $16 {Black's structure
+doesn't look healthy at all.}) 26... f5 27. Nxg5 Nxc3 {White lost the thread.}
+28. a4 Nd5+ 29. Kf3 a5 ({If} 29... h6 30. Nh3 Nb4 31. Ke2 $1 {It always amazes
+me how critical every move is in the endgame.} (31. Ke3 Nc2+ 32. Kd3 Ne1+ $17 {
+is losing a pawn by force, with a worse version than the main line.}) 31... Nc2
+32. d5 cxd5 33. Kd2 Nd4 34. b4 {may still hold.}) 30. Nh3 Nb4 31. Ke3 Nc2+ 32.
+Kd3 Ne1+ 33. Kc4 {White's counterplay on the queenside is too slow. Instead,} (
+33. Ke2 $1 {Saves the house from fire.} Nxg2 34. Kf2 Nh4 35. Kg3 Kh5 36. Ng5
+$11) 33... Nxg2 34. Kc5 Kh5 35. Kb6 Kg4 36. Ng1 Nxf4 37. Kxa5 (37. Kxb7 {
+doesn't help either} Ne6 38. Kxc6 Nxd4+ $19) 37... Nd5 38. b4 f4 39. h3+ Kg3
+40. Ne2+ Kf3 {I doubt anyone has ever won a tournament without assistance from
+the opposition.} 0-1
+
+[Event "Hell International 2019"]
+[Site "Hell NOR"]
+[Date "2019.08.08"]
+[Round "7.4"]
+[White "Volkov, Sergey1"]
+[Black "Arvola, B."]
+[Result "0-1"]
+[ECO "E15"]
+[WhiteElo "2547"]
+[BlackElo "2510"]
+[Annotator "Alina"]
+[SetUp "1"]
+[FEN "b1rr2k1/4bpp1/4qn2/p1pp3p/P7/1P2P1PP/1BQN1PB1/2RR2K1 b - - 0 22"]
+[PlyCount "35"]
+[EventDate "2019.08.03"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "NOR"]
+[Source "Mark Crowther"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.08.12"]
+[SourceQuality "2"]
+
+{This game had been a bit of a roller-coaster-ride for both sides. But here
+Black evaluated the position correctly and found a brilliant plan. Which one?} 
+22... h4 {The right direction,} 23. g4 Nxg4 $1 {backed up with a sound
+positional sacrifice.} 24. hxg4 Qxg4 25. f3 Qg5 26. Kh1 d4 {Black's
+coordination is eye candy.} 27. exd4 h3 28. Bxh3 Qg3 {It is very difficult to
+juggle with the materially unbalanced positions, where every move is like
+stepping on a mine field. The slightest innacuracy can be the end of an
+otherwise beautifully constructed attack.} ({Instead,} 28... Rc6 $1 {another
+piece is brought into the fight.} 29. Ne4 (29. Nf1 Rg6 30. Bg2 Qh5+ 31. Kg1
+Bxf3 32. Rd2 cxd4 33. Qd3 Bh4 $1 $19 {White is completely tied up.}) 29... Qh5
+30. Qg2 Rg6 $19) 29. Bg2 Rc6 {doesn't work as well as the line seen above
+since White can now built up a defense.} 30. Nf1 Qh4+ 31. Kg1 Rg6 32. Qf2 ({
+Also} 32. d5 $5 {looks interesting} Rxd5 33. Rxd5 Bxd5 34. Qf2 $13) 32... Qh3 {
+Quite often, an error never comes alone. It is White on the winning side now.}
+(32... Qxf2+ $5 {Would have kept Black in the game and, perhaps, even more
+than that.} 33. Kxf2 Bh4+ 34. Kg1 Bxf3 35. Rd2 Bg5 $36) 33. Nh2 Bd6 34. Ng4
+Rxg4 35. fxg4 Qh2+ 36. Kf1 Bg3 37. Qe2 Qh6 38. Bxa8 Rxa8 {I remember we were
+watching the game at the dinner table and when White played the next move, we
+could not believe it. The Russian GM had 40 minutes on the clock, his opponent
+had seconds, it was +... (high number for White) and a resignation was
+expected soon. But not after:} 39. dxc5 $4 {The transmission must be wrong.} (
+39. Qf3 $18) 39... Qh1# {It was not. Shaking our heads in disbelief, it is
+hard to imagine what goes through a chess player's soul and mind in such
+moments.} 0-1
+
+[Event "Hell International 2019"]
+[Site "Hell NOR"]
+[Date "2019.08.11"]
+[Round "10.1"]
+[White "Bogner, S."]
+[Black "Volkov, Sergey"]
+[Result "0-1"]
+[ECO "D15"]
+[WhiteElo "2569"]
+[BlackElo "2547"]
+[Annotator "Alina"]
+[SetUp "1"]
+[FEN "2r2rk1/1b2q1pp/3bpn2/1p2N1N1/2p5/8/1PQ1BPPP/3R1RK1 w - - 0 29"]
+[PlyCount "58"]
+[EventDate "2019.08.03"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "NOR"]
+[Source "Mark Crowther"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.08.12"]
+[SourceQuality "2"]
+
+{Even more incredible than missing mate in one move (blackouts happen to
+everyone) is how Volkov put himself together, won the last three games and
+finished on the second place! That is what it's called professional attitude.} 
+29. Bg4 {The ever dynamic Russian player found the best continuation. Which
+one?} Bxe5 ({Incorrect would have been} 29... Bd5 {due to} 30. Rxd5 $1 exd5 31.
+Be6+ {and if} Kh8 32. Qxh7+ Nxh7 33. Ng6# {Simple but pretty:)}) 30. Bxe6+ Kh8
+31. Rd7 Qxe6 {Trading the queen for three minor pieces.} (31... Bxh2+ $5 {
+was the alternative which was discarded by the enterprising Sergey.} 32. Kxh2
+Ng4+ 33. Bxg4 Qxg5 34. Rxb7 Qxg4 35. Rxb5 Rc6 $36) 32. Nxe6 Nxd7 33. Nxf8 Rxf8
+34. Rd1 Bc6 35. Qd2 h6 36. Qb4 Rf7 37. h3 Kh7 {I liked a lot the way Black
+fought against the white lady, just that at the end of the game, some errors
+infiltrated in recording the moves.} 38. Qa3 Bc7 39. Rd2 Bb6 40. Qd6 Rf6 41.
+Qe7 Nf8 42. Qe5 Ng6 43. Qb8 Bc5 44. Kf1 Bb4 45. Rd8 Re6 46. Rd1 Nh4 47. f3 Nf5
+48. Rd8 Bd6 49. Qc8 Bd5 50. Re8 Rf6 51. Rh8+ Kg6 52. Qe8+ Bf7 53. Qxb5 Bg3 {
+wrong moves.} 54. Rc8 Nd6 55. Kg1 Nf5 56. Ra8 Re6 57. Kf1 Rf6 0-1
+
+[Event "Hell International 2019"]
+[Site "Hell NOR"]
+[Date "2019.08.05"]
+[Round "4.1"]
+[White "Christiansen, Johan-Sebastian"]
+[Black "Kaczur, F."]
+[Result "1-0"]
+[ECO "A13"]
+[WhiteElo "2554"]
+[BlackElo "2463"]
+[Annotator "Alina"]
+[SetUp "1"]
+[FEN "4Q3/6kp/p2q2p1/P4p2/3Np3/3nP2P/5PP1/6K1 w - - 0 41"]
+[PlyCount "29"]
+[EventDate "2019.08.03"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "NOR"]
+[Source "Mark Crowther"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.08.12"]
+[SourceQuality "2"]
+
+{As I was passing by, I thought White could maybe ask Black some practical
+questions but how exactly to do that, was unclear to me.} 41. Qc8 {was played.}
+({Instead, the rather daring} 41. g4 $5 {is not so easy to defend against.} Kh6
+42. g5+ (42. gxf5 {doesn't quite work since Black has the strong defensive
+resource} Qb4 $1 43. Kg2 Ne1+ 44. Kh2 Qd6+ 45. Kg1 Nf3+ 46. Nxf3 Qd1+ 47. Ne1
+Qxe1+ 48. Kg2 Qxa5 $11) 42... Kxg5 43. Qf7 Nc5 $1 {Black has to be extremely
+careful.} 44. Qxh7 Nb3 $1 45. h4+ $140 Kg4 46. Nxb3 Kh3 $1 (46... Qd1+ {
+Of course not} 47. Kh2 Qxb3 48. Qxg6+ $18) 47. Nd4 Qb4 48. Kf1 Qd2 49. f4 Qxe3
+50. Ne2 Qf3+ 51. Ke1 Qh1+ 52. Kd2 e3+ 53. Kxe3 Qe4+ 54. Kd2 Qd5+ 55. Kc2 Qe4+
+$11 {A miraculous draw, where Black has to find the only moves in several
+moments, which is far from easy in practical play.}) 41... Kh6 42. Ne6 Ne5 43.
+Qg8 Qe7 44. Nd4 Nd3 {The recorded move is still allowing White a tricky edge.}
+({Once again,} 44... Qb4 $1 {is the counter Black should have chosen.} 45. Ne6
+Qe7 $11) 45. Qc8 Qd6 46. Qb7 Qb4 47. Qf7 Qb1+ 48. Kh2 Qb8+ 49. g3 Qb2 50. Qf8+
+Kh5 51. g4+ {A beautiful mating net appears on the horizon.} fxg4 52. Kg3 gxh3
+53. Qf6 Qb8+ {loses immediately} (53... Qxf2+ $1 {would have drawn by a
+whisker.} 54. Qxf2 Nxf2 55. Kxf2 Kg4 56. Nc2 h2 57. Kg2 h1=Q+ 58. Kxh1 Kf3 59.
+Nb4 Kxe3 60. Nxa6 Kd4 61. Nb4 Kc5 $11) (53... g5 54. Qf7+ Kh6 55. Nf5#) 54.
+Kxh3 Qe5 (54... Kh6 55. Nf5+ $1) 55. Qh4# {Point and third place for the
+Norwegian GM.} 1-0
+

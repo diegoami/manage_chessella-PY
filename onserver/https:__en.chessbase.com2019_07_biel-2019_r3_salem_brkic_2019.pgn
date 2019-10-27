@@ -1,0 +1,41 @@
+
+
+[Event "Biel Master Tournament 2019"]
+[Site "Biel"]
+[Date "2019.07.26"]
+[Round "5.3"]
+[White "Salem, A.R. Saleh"]
+[Black "Brkic, Ante"]
+[Result "0-1"]
+[ECO "C77"]
+[WhiteElo "2672"]
+[BlackElo "2573"]
+[Annotator "TA"]
+[PlyCount "67"]
+[EventDate "2019.07.20"]
+[EventType "swiss"]
+[EventCountry "SUI"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,67,27,44,0,-8,0,0,-12,9,-7,-8,-8,46,12,18,0,31,7,7,-16,-15,-12,-12,
+-43,-43,-63,-73,-72,-88,-89,-87,-179,-175,-248,-171,-170,-161,-160,-168,-672,
+-687,-677,-667,-681,-693,-758,-697,-676,-674,-619]} 1. e4 e5 2. Nf3 Nc6 3. Bb5
+a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. O-O Bg7 8. Re1 O-O 9. Nbd2 Nd7 10. Nf1 Nc5
+11. Bxc6 {C77: Ruy Lopez: 3...a6 4 Ba4 Nf6, unusual lines} (11. Bc2 $14) 11...
+bxc6 $11 12. d4 Ne6 (12... exd4 13. cxd4 Ne6 14. Ng3 c5 15. dxc5 Nxc5 16. Bg5
+Qe8 17. Qd2 Bg4 18. Bh6 Bxf3 19. Bxg7 Kxg7 20. gxf3 {1-0 (52) Anand,V (2759)
+-Caruana,F (2816) Leuven 2018}) 13. Be3 $146 {The position is equal.} ({
+Predecessor:} 13. dxe5 dxe5 14. Qa4 Qe8 15. Ng5 c5 16. Qxe8 Rxe8 17. Nxe6 Bxe6
+18. c4 Bxc4 {1/2-1/2 (73) Wen,Y (2604)-Adhiban,B (2695) Makati 2018}) 13... Rb8
+14. Rb1 f5 15. exf5 e4 (15... gxf5 $11 16. dxe5 dxe5) 16. fxe6 exf3 17. d5 cxd5
+{Hoping for ...fxg2.} 18. Ba7 Qg5 $36 {[%csl Gf3][%cal Rg5g2][%mdl 2048] Black
+is more active.} 19. Ng3 Rb7 20. e7 Re8 21. Bd4 fxg2 {[#]} 22. Qa4 $1 {[%mdl
+512]} Rb5 23. Bxg7 Kxg7 24. Re3 Qf6 25. Rbe1 {[#]} (25. Ne4 $17 dxe4 26. c4
+Rxe7 27. cxb5) 25... Rxb2 $1 $19 {[%csl Gb2][%cal Rf6f2][%mdl 512]} 26. f4 (26.
+f3 $142 Kf7 27. Qa3) 26... Rb5 {[%cal Bb2b5,Bb5c5,Bc5c3][%mdl 32]} 27. Qd1 Rc5
+28. f5 {Threatens to win with Nh5+!} Rxc3 29. Re6 $2 (29. R3e2) 29... Bxe6 {
+Black is clearly winning.} 30. Rxe6 Qh4 {aiming for ...Rxg3.} 31. f6+ Kf7 {
+Strongly threatening ...Rxg3.} 32. Rxd6 {[%cal Rd1d5]} Rc1 33. Qxc1 cxd6 34.
+Qc6 {Accuracy: White = 31%, Black = 74%.} 0-1

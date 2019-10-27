@@ -1,0 +1,48 @@
+[Event "Wycc 2019"]
+[Site "followchess.com"]
+[Date "2019.10.03"]
+[Round "3.16"]
+[White "Vatsal Singhania"]
+[Black "Manu David Suthandram R"]
+[Result "1/2-1/2"]
+[ECO "B32"]
+[WhiteElo "2157"]
+[BlackElo "2403"]
+[Annotator "Sagar Shah"]
+[PlyCount "91"]
+[EventDate "2019.??.??"]
+[TimeControl "6000+30"]
+[WhiteClock "0:05:09"]
+[BlackClock "0:03:20"]
+
+1. e4 {573} c5 {593} 2. Nf3 {5} Nc6 {8} 3. d4 {4} cxd4 {7} 4. Nxd4 {2} e5 {9}
+5. Nb5 {2} d6 {8} 6. N1c3 {4} a6 {7} 7. Na3 {3} Be6 {5} 8. Nc4 {4} Nf6 {6} 9.
+Bg5 {4} Nd4 {7} 10. Bxf6 {5} Qxf6 {73} 11. Nb6 {3} Rd8 {7} 12. Ncd5 {5} Bxd5 {
+11} 13. Nxd5 {4} Qg6 {8} 14. Qd3 {4} Ne6 {103} 15. Qc4 {128} Be7 {162} 16.
+O-O-O {163} Bg5+ {526} 17. Kb1 {3} O-O {97} 18. h4 {112} Bf6 {21} 19. g4 {2611}
+Qxg4 {743} 20. Nxf6+ {1044} gxf6 {7} 21. Bh3 {7} Rc8 {2608} 22. Qxc8 {641}
+Qxd1+ {63} 23. Rxd1 {1} Rxc8 {12} 24. Rxd6 {2} Re8 {232} 25. Bxe6 {64} Rxe6 {52
+} 26. Rxe6 {73} fxe6 {28} 27. c4 {1} Kf7 {139} 28. b4 {5} Ke7 {656} 29. Kc2 {
+229} Kd6 {32} 30. c5+ {154} Kc6 {80} 31. a4 {46} (31. Kb3 {My idea is to get
+the king to c4 and play b5. If Black king comes to b5 then white can play a4
+and push him back.} Kb5 (31... a5 32. Ka4 axb4 33. Kxb4 $18) (31... h5 32. Kc4
+Kd7 33. a4 Kc7 34. f3 Kd7 35. b5 a5 36. c6+ $1 {This is important because
+otherwise Black will go Kc7 and b6 and it would be a fortress like in the game.
+}) 32. a4+ Kc6 33. Kc4 Kc7 (33... h5 34. b5+ Kc7 35. Kb4 $18) 34. b5 a5 35. h5
+h6 36. f3 {As you can see Black is in a zugzwang now.} b6 37. cxb6+ Kxb6 38.
+Kb3 Kb7 39. Kc3 Kc7 40. Kd3 Kb7 41. Ke2 Kb6 42. Kf2 Kb7 43. Kg3 Kb6 44. Kg4 Kb7
+45. f4 {This is the winning idea.} exf4 (45... Kb6 46. f5 $18) 46. Kxf4 Kb6 47.
+Ke3 Kb7 48. Kd4 Kb6 49. Kc4 {And Black can no longer stop white from entering
+c5. This is the entire point of the exercise of taking your king to f4.}) 31...
+h5 $1 {221 Although this is still a losing position, this move is strong
+because it denies White king of the g4 square in future.} 32. Kc3 {6} Kd7 {26}
+33. Kc4 {127} Kc7 {18} 34. b5 $2 {365} (34. f3 $1 Kd7 (34... f5 35. exf5 exf5
+36. Kd5 $18) 35. b5 (35. a5 Kc6) 35... a5 36. c6+ $1 {This is the key motif.}
+bxc6 37. Kc5 cxb5 38. Kxb5 $18) (34. a5 $2 Kc6 35. f3 f5 $11) 34... a5 $1 {14}
+35. f3 {126} b6 $1 {150 And Black has got everything what he wanted. The
+queenside pawns have been stalled and there is no way to create a passer on
+the kingside because White king is denied the g4 square. Hence there can be no
+Kg5-f4-f5.} 36. cxb6+ {494} Kxb6 {11} 37. Kd3 {7} Kb7 {29} 38. Ke3 {0} Kc7 {0}
+39. f4 {64} Kb7 {58} 40. Kf3 {14} Kc7 {10} 41. f5 {9} exf5 {8} 42. exf5 {1} Kb7
+{23} 43. Ke4 {4} Kc7 {13} 44. Kd5 {2} Kb7 {17} 45. Kc5 {4} Kc7 {4} 46. Kd5 {
+51 A great escape for Manu David.} 1/2-1/2

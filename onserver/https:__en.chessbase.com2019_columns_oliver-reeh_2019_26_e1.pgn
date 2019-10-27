@@ -1,0 +1,39 @@
+[Event "Deutsche Einzelmeisterschaft"]
+[Site "Magdeburg"]
+[Date "2019.05.27"]
+[Round "2.11"]
+[White "Roseneck, Jonas"]
+[Black "Dauth, Benjamin"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2403"]
+[BlackElo "2295"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "59"]
+[EventDate "2019.??.??"]
+[EventCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2
+c5 9. c4 Qxb2 10. Rd1 Nc6 11. Ngf3 Nb4 12. Qe2 Qxa2 13. O-O dxc4 14. Qe4 Qa6
+15. dxc5 Bxc5 16. Nxc4 Qc6 17. Qb1 Ne7 18. Nd6+ Kf8 19. Nd4 Bxd4 20. Qxb4 Bc5
+21. Qf4 Nf5 22. Nxf5 exf5 23. Qxf5 Re8 24. e6 Rxe6 25. Rd8+ Re8 {26.Rfd1! in
+the diagram is best if one has a reply ready to 26...Bb6. Can you see how
+White hunts down Black's king in the centre after that?} 26. Rfd1 $1 Bb6 {
+[%csl Rb6][%cal Rb6d8]} {[%tqu "En","Black has challenged the rook d8. What
+now?","","","d1d7","",10]} 27. R1d7 $1 {[%csl Gd7][%cal Gd7f7,Gf5f7] Onto the
+seventh, with a mate threat on f7. Your reply to 27...Qe6 is ready?} Qe6 (27...
+Bxd8 28. Qxf7#) (27... f6 28. Qg6 {[%csl Ge8,Gf7,Gg7] with three mate threats.}
+) {[%tqu "En","Please show White's point.","How could a move like Qf5-c8 work
+for White?","","d7f7","",10,"g5e7","",10]} 28. Rxf7+ $1 {[%csl Gf7]} (28. Be7+
+{works also.} Qxe7 29. Rxe7 Kxe7 30. Rd7+ Kf8 31. Qxf7#) 28... Kg8 (28... Qxf7
+{[%tqu "En","Variation I. Continuation?","","","d8e8","",10]} 29. Rxe8+ {
+[%cal Yf7e8,Gf5f8] Yep - Black's queen is pinned, so Black must take with the
+king.} Kxe8 {[%tqu "En","And finale I!","","","f5c8","",10]} 30. Qc8+ {[%csl
+Gc8,Re8][%cal Gg5d8] and mate with queen and bishop:} Bd8 31. Qxd8#) {[%tqu
+"En","And now of course not the prosaic 29.Qxe6, but...","","","f7f8",
+"Concluding an impressive solo (home) run. Black resigned on account of",10]}
+29. Rf8+ $1 {[%csl Gf8][%cal Gf1d1,Gd1d7,Gd7f7,Gf7f8] Concluding an impressive
+solo (home) run. Black resigned on account of} Rxf8 {[%tqu "En","Mate is great.
+Please enjoy!","","","d8f8","",10]} 30. Rxf8# {[%csl Gf5,Gf8,Rg8][%cal Gf5h7,
+Gf8g8]} 1-0
+

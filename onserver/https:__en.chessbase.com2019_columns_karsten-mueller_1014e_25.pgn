@@ -1,0 +1,50 @@
+[Event "World Youth U-16 Olympiad 2018"]
+[Site "Konya"]
+[Date "2018.12.02"]
+[Round "9"]
+[White "Wang, Yanbin"]
+[Black "Yakubboev, Nodirbek"]
+[Result "*"]
+[ECO "E16"]
+[WhiteElo "2296"]
+[BlackElo "2556"]
+[Annotator "Karsten Mueller"]
+[SetUp "1"]
+[FEN "5b2/5p2/8/4kNpp/1p4P1/pP2K2P/P7/8 w - - 0 48"]
+[PlyCount "40"]
+[EventDate "2018.??.??"]
+[SourceTitle "1014"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+48. Kf3 {The duel bishop vs knight is often more complicated than it seems at
+first.} {[%tqu "En","Black to play and win","","","h5g4","Nun kann die weiße
+Festung nicht mehr genommen werden.",0,"h5h4","",6,"f7f6","",0,"f8c5","",0,
+"De","Schwarz zieht und gewinnt","","","h5g4","Nun kann die weiße Festung
+nicht mehr genommen werden.",0,"h5h4","",6,"f7f6","",0,"f8c5","",0]} h4 $1 {
+and Black wins because the seemingly "strong" knight on f5 has not enough
+squares to go to, e.g.} ({In the game Black played} 48... hxg4+ $2 {but now
+White's fortress is solid.} 49. hxg4 Bc5 50. Ke2 $2 {The king should not
+retreat voluntarily.} ({After} 50. Nh6 f6 51. Nf5 Bf8 52. Ng3 Kd4 53. Nf5+ Kc3
+54. Ke3 Kb2 55. Kd2 Kxa2 56. Kc2 $11 {White's fortress holds forever.}) 50...
+Kf4 {Black crossed the crucial line and is winning.} 51. Nh6 f6 52. Kd3 (52.
+Ng8 Kxg4 53. Nxf6+ Kf5 54. Nd7 Bd4 55. Kd3 Ba7 56. Ke2 g4 57. Kf1 Bd4 $19)
+52... Bf8 53. Nf5 (53. Ng8 f5 54. gxf5 Kxf5 55. Ke3 g4 ({But not} 55... Kg6 $2
+56. Ke4 Kg7 57. Kf5 Kxg8 58. Kxg5 $11) 56. Kf2 Bc5+ 57. Kg3 Kg5 58. Kg2 Bd6 59.
+Kf2 Kg6 60. Kg2 Kg7 61. Ne7 Bxe7 62. Kg3 Kf6 63. Kxg4 Ke5 64. Kf3 Kd4 $19)
+53... Kxg4 54. Ke4 Kh3 55. Kf3 g4+ 56. Kf4 Bc5 57. Nh6 g3 58. Ng4 g2 {0-1 and
+White resigned.}) ({After} 48... f6 $2 49. h4 {White can hold though it's
+close, e.g.} Bc5 (49... hxg4+ 50. Kxg4 gxh4 (50... Ke4 51. hxg5 Kd3 52. gxf6
+Kc2 53. Ne7 Kb1 54. Ng6 Bc5 55. f7 Kxa2 56. Ne5 Kxb3 57. Nd7 Be7 58. Kf5 a2 59.
+Ke6 a1=Q 60. Kxe7 $11) 51. Nxh4 Ke4 52. Nf5 Kd3 53. Kf3 Kc2 54. Ke2 Kb2 55. Kd1
+Kxa2 56. Kc2 $11) 50. Nh6 hxg4+ 51. Nxg4+ Kd4 52. hxg5 fxg5 53. Nh6 Kc3 54. Ke2
+Bd4 55. Ng4 Kb2 56. Kd2 Kxa2 57. Kc2 $11) (48... Bc5 $2 49. Nh6 f6 50. gxh5 f5
+51. Nf7+ Kf6 52. Nd8 Be7 53. Nc6 Bd6 54. h6 Kg6 55. Nd4 $11) 49. Ke3 f6 50. Kf3
+Bc5 51. Nh6 (51. Ng7 Bg1 52. Nf5 Bb6 53. Ng7 Kd4 54. Nf5+ (54. Ke2 Ke4 55. Ne6
+Bd4 56. Ng7 Bc5 57. Ne6 (57. Nf5 Kf4 58. Ke1 Kf3 $19) 57... Bd6 58. Ng7 Bf8 59.
+Nf5 Kf4 60. Kf2 Bc5+ 61. Kg2 Ke4 $19) 54... Kd3 55. Ng7 Kd2 56. Nf5 Ke1 57. Kg2
+Ke2 $19) 51... Kd4 52. Nf5+ Kd3 53. Nh6 Kd2 54. Nf5 Ke1 55. Kg2 Ke2 56. Nh6 Bd6
+57. Nf5 Bf8 {and White is in zugzwang.} 58. Kg1 (58. Nd4+ Kd3 59. Ne6 Kc2 60.
+Nxf8 Kb2 $19) 58... Kf3 59. Kh2 Kf2 60. Kh1 Bc5 61. Kh2 Be3 62. Kh1 Bd2 63. Kh2
+Bf4+ 64. Kh1 Be5 65. Nh6 Kg3 66. Kg1 Bd4+ 67. Kf1 Kxh3 $19 *
+

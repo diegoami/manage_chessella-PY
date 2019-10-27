@@ -1,0 +1,42 @@
+[Event "Xtracon Open 2019"]
+[Site "Helsingor"]
+[Date "2019.07.24"]
+[Round "6.22"]
+[White "Weber, Samuel"]
+[Black "Gong, Patrick"]
+[Result "1-0"]
+[ECO "A08"]
+[WhiteElo "2203"]
+[BlackElo "2336"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "75"]
+[EventDate "2019.??.??"]
+[SourceTitle "2019_43"]
+
+1. g3 g6 2. Bg2 Bg7 3. Nf3 c5 4. e4 Nc6 5. O-O e6 6. d3 Nge7 7. Nbd2 O-O 8. c3
+d5 9. Re1 Re8 10. e5 Qc7 11. Qe2 b5 12. Nb3 c4 13. Nbd4 Rb8 14. Nxc6 Nxc6 15.
+d4 b4 16. h4 a5 17. h5 a4 18. a3 bxc3 19. bxc3 Qe7 20. Nh2 Rb3 21. Qc2 Na7 22.
+Ng4 Nb5 23. Bd2 Bd7 24. Qc1 Qf8 25. Nf6+ Bxf6 26. exf6 Rxa3 27. Rb1 Rb3 28. Ra1
+Ra8 29. Bh6 Qd8 30. Qf4 Qb8 31. Re5 Nd6 {After 32.hxg6! fxg6 in the diagram,
+White must prevent Black from using his Nd6 for defence purposes on f5 or f7.
+Ideas?} 32. hxg6 $1 fxg6 (32... hxg6 33. Bg7 {[%cal Gf4h6,Gh6h8] and game over:
+} Nf5 34. Rxf5 $1 Qxf4 35. Rxf4 $18) {[%tqu "En","How can White storm the
+king's fortress?","White wants to use the square f6 with his queen. Check the
+strike which prepares this - and prepare it!","","e5d5","",10]} 33. Rxd5 $1 {
+[%csl Gd5,Gg2] Before getting to work on the kingside, White enables his Bg2 
+(the other one!) to join the attack.} Nf7 {Just losing wood and the game.} ({
+White's point would have showed after} 33... exd5 {[%tqu "En","Continuation?",
+"White's queen needs a fresh dark square!","","f6f7","",10,"g2d5","",0]} 34.
+f7+ $1 {[%csl Gf7] The decisive clearing sac.} (34. Bxd5+ $2 Nf7) 34... Nxf7 {
+[%tqu "En","Both White's queen and bishop h6 are attacked. What now?","","",
+"f4f6","That's it - White doesn't need his Bh6 to deliver checkmate!",10]} 35.
+Qf6 $1 {[%cal Gf6g7,Gh6g7] The queen gets in position! 36.Qg7++ is the threat,
+so Black's defensive knight must take the bishop.} Nxh6 (35... Qf8 36. Bxf8
+Rxf8 37. Bxd5 $18) {[%tqu "En","And the last move, please.","","","g2d5",
+"White's other queen/bishop dream team! Mate is inevitable.",10]} 36. Bxd5+ {
+[%csl Gf6,Rg8][%cal Gd5g8] The move prepared by the rook sac 33.Rxd5 - light
+squares! White's other queen/bishop dream team gets to work, and mate is
+inevitable.} Nf7 37. Qxf7+ Kh8 38. Qf6#) (33... Rb1+ 34. Rxb1 Qxb1+ 35. Kh2
+exd5 36. Qxd6 $18) 34. Rxd7 $18 Ra5 35. Bh3 Rb1+ 36. Rxb1 Qxb1+ 37. Kg2 Rh5 38.
+Rxf7 1-0
+

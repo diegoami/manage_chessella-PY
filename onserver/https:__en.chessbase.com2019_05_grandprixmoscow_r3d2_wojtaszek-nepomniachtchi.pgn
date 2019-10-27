@@ -1,0 +1,64 @@
+[Event "Moscow FIDE GP"]
+[Site "Moscow"]
+[Date "2019.05.24"]
+[Round "3.2"]
+[White "Wojtaszek, R.."]
+[Black "Nepomniachtchi, I.."]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[Annotator "DF"]
+[PlyCount "43"]
+[EventDate "2019.05.25"]
+
+{[%evp 0,43,28,34,29,-10,37,33,35,10,4,15,9,16,16,16,18,0,21,19,19,19,23,8,23,
+5,20,-9,-9,-2,0,0,9,5,6,-1,-1,0,-2,0,0,0,10,-13,-10,-10]} 1. d4 Nf6 2. c4 (2.
+Nf3 g6 3. b4 Bg7 4. Bb2 O-O 5. e3 d6 6. Be2 c5 $5 $132 {is a good example of
+what White probably wanted to avoid by delaying b4 while still intending to
+play it- see next note.}) 2... g6 3. Nf3 Bg7 4. e3 {This particular move-order
+looks unambitious, and signals some kind of fear of the Grunfeld, although
+White has a setup in mind which can be dangerous in the right hands.} O-O 5.
+Be2 d6 6. Nc3 Nbd7 7. O-O e5 8. b4 $5 {This order is interesting. Normally,
+when White tries to play against the KID with b4, he pushes the pawn early,
+for instance 1.d4 Nf6 2.Nf3 g6 3.b4- which is then well met by a later ...c5.
+Here, of course, it is hard to combine ...e5 and ...c5, so White has averted
+that particular danger.} Re8 9. Bb2 exd4 $5 {This is a reasonable and
+practical approach.} ({Many Black players opt for something like} 9... e4 10.
+Nd2 c6 11. a4 d5 12. a5 {but White's queenside play is greatly accelerated
+compared to a normal KID, and with the breaks a6 and b5 in imminent prospect
+he will be able to dismantle Black's structure a lot more easily than normal.})
+({I suspect the very best move is} 9... a5 {, intending to take on d4 in case
+White tries b5, but to play ...e4 otherwise.} 10. a3 (10. b5 $6 exd4 $1 11.
+Nxd4 (11. exd4 Nb6 12. a4 Bg4 $15 {Black has obtained some kind of
+super-Alekhine, and could easily be better already.}) 11... Nc5 12. Nb3 a4 $5
+13. Nxc5 a3 14. Bc1 dxc5 $132) 10... e4 $5 {Maybe even more accurate is . ..c6
+first, since White can't very well reply b5.} 11. Nd2 c6 12. Qc2 d5 13. b5 Nf8
+$132 {Black's structure can no longer be undermined by pawn breaks alone,
+though White should still be able to get good play along the open b- and
+c-files.}) 10. Nxd4 ({After} 10. exd4 $6 {there are several problems, one of
+which is that after} d5 $5 {the d4-pawn will be weak regardless of how White
+chooses to handle the immediate challenge to c4.}) 10... a5 11. a3 Ne5 12. Qb3
+{This is the move that makes equality almost certain. Preventing Black's next,
+and therefore leaving a piece on the board for him that is more passive than
+its White counterpart, was the way to go.} ({After} 12. h3 {Black can keep the
+balance, but only by latching onto this new weakness:} Bd7 13. Qd2 g5 $5 $132 {
+or similar.}) (12. Nd5 $5 {was the most ambitious move, making Black work for
+his light-square bishop trade and also making the dark-square bishop trade
+more likely.} Ne4 $1 {Drawing the queen away from the defence of g4.} ({
+Following something compliant like} 12... c6 13. Nxf6+ Bxf6 14. Bc3 axb4 15.
+axb4 $14 {Black cannot be happy with the outcome of the opening.}) 13. Qc2 c6
+$3 14. Nc3 (14. Qxe4 Nxc4 15. Qc2 cxd5 16. Bxc4 dxc4 17. Qxc4 $132) (14. Nf4
+Ng5 15. h3 Bd7 $132 {Black's knights are clumsy, but then so are White's.})
+14... Nxc3 15. Bxc3 Bg4 16. bxa5 Bxe2 17. Qxe2 Nd7 $44) 12... Bg4 13. Rad1 ({
+The computer has clearly not seen enough Bronstein games to steer well clear
+of ideas like} 13. f3 $5 {- this was maybe the last chance for the game to
+become double-edged.} Bh6 14. Nc2 Bd7 15. Nd5 Nxd5 16. cxd5 a4 17. Qa2 $132)
+13... axb4 14. axb4 Bxe2 15. Ndxe2 c6 {At this point, it was probably clear to
+both players that they could not realistically hope for an advantage.} 16. h3
+Qe7 17. Nd4 Ned7 18. Ra1 Nb6 19. Rxa8 ({The 'minority attack' with} 19. b5 {
+would fail in its main objective of creating a target on c6, and instead White
+has to deal with the reality of Black's f6-knight trying to make itself at
+home on c5. Still, if the players had been desperate to make a game of it,
+maybe this could have been played.} Qc7 20. Rfb1 Nfd7 21. Rxa8 Rxa8 22. bxc6
+bxc6 23. Ne4 Rb8 $132) 19... Rxa8 20. Rc1 Rd8 21. Na4 Nxa4 22. Qxa4 {After the
+likely ...Ne4, White certainly has nothing in particular to play for, and it
+seems Black doesn't either.} 1/2-1/2

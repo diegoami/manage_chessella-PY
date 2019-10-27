@@ -1,0 +1,57 @@
+[Event "British chess championships"]
+[Site "?"]
+[Date "2019.08.04"]
+[Round "9"]
+[White "Adams, M."]
+[Black "Gordon, S."]
+[Result "1-0"]
+[ECO "B51"]
+[WhiteElo "2690"]
+[BlackElo "2520"]
+[Annotator "GM Daniel Gormally"]
+[PlyCount "59"]
+[SourceVersionDate "2019.08.07"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. Ba4 {A recent discovery, and one that
+contains some venom. As he explained in the post game interview, Adams was
+quite happy here as Stephen started thinking which indicated that he didn't
+know the line.} Ngf6 5. O-O a6 ({According to Adams taking the pawn was not a
+good idea.} 5... Nxe4 6. Re1 Nef6 7. d4 cxd4 8. Nxd4 {[#] with mounting
+pressure. The knight is threatening to hop into b5 or f5.}) 6. c4 $1 {
+preventing ...b5 feels necessary.} e5 7. d3 g6 $6 (7... Be7 {"perhaps I should
+have thought for a bit longer here" Stephen Gordon. I think in the game he was
+concerned about the idea of Nh4, hopping into f5.} 8. Nh4 O-O (8... g6 9. Bh6
+Ng8 {was suggested by Adams.} 10. Bg7 Bxh4 11. Bxh8 {and Adams seems concerned
+that the bishop on h8 might not get out, although the engine gives White
+almost a winning edge here.}) 9. Nf5 b5 10. cxb5 Nb6 {with reasonable
+counterplay for Black.}) 8. Nc3 Bg7 9. Rb1 O-O 10. h3 {[#] I think Black's
+main problem in this position is that the knight on d7 clogs up his
+development- you have to move it b6 to develop the bishop, so Adams plays a
+typical prophylatic move, h3, designed to prevent Black's later ...Bg4.  The
+way White is playing in this game rather reminds me of some training games
+that I've had when playing Black against Stockfish in similar positions; where
+the metal monster has played c4, prevented Black's counterplay and then got on
+with the thematic b4 break. This game felt eerily similar.  As computers often
+tend to be quite consistent in their approach I wondered during commentary of
+this game whether Adams had been inspired by the Matthew Sadler videos (that
+you can find on Youtube) documenting Alpha Zero's analysis of the 3.Bb5 games
+in the recent world championship match. Or perhaps Adams has been working with
+Alpha Zero directly, or simply been helped by Sadler? In any case Stephen's
+practical problems over the board seem considerable.} Ne8 (10... Nh5 {feels
+like a slightly funkier way to play the posiiton, although it's still
+difficult for Black to create counterplay on the kingside.}) 11. b4 {It's
+interesting that Adams played b4 directly, without bothering to prepare it
+with a3 first. According to him it felt like quite a "quick" position. White's
+long term pressure down the b-file and the activity of his pieces more than
+compensate for Black gaining access to the c5 square for his knight.} cxb4 12.
+Rxb4 Nc5 13. Nd5 {[#]} b5 $6 (13... Nc7 $1 14. Nb6 Rb8 {with a manageable game
+for Black.}) (13... Be6 $5 {was suggested by Adams.} 14. Bg5 Qa5) 14. cxb5 Bd7
+$2 ({The only way was} 14... Bb7 15. b6 Bxd5 16. exd5 Rb8 17. Bg5 f6 18. Be3
+Rxb6 {When Black is still on the board.}) (14... axb5 15. Bxb5 Rxa2 16. Bg5 f6
+17. Bc4 $1 {is an important tactical point.}) 15. b6 $1 {A thematic, and
+winning exchange sacrifice. The knight on d5 combined with the pawn on b6
+become to much for Black to cope with.} Nxa4 16. Rxa4 Bxa4 17. Qxa4 f6 (17...
+h6 18. Be3 f5 19. b7 Rb8 20. Bb6 $1 {[#] was pointed out by Adams afterwards.})
+18. Nd2 Rf7 19. Nc4 Qd7 20. Qxd7 Rxd7 21. Be3 f5 22. f3 Bf6 23. Rb1 Bd8 24. Na5
+Rb8 25. Nc6 Rbb7 26. Na5 Rb8 27. Nc6 Rbb7 28. a4 Kf7 29. a5 Nf6 30. Ndb4 1-0
+

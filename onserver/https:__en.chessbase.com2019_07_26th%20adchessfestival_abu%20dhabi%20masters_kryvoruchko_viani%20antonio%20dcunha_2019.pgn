@@ -1,0 +1,42 @@
+[Event "26th Abu Dhabi Master 2019"]
+[Site "Abu Dhabi"]
+[Date "2019.08.02"]
+[Round "1.1"]
+[White "Kryvoruchko, Yuriy"]
+[Black "Viani Antonio Dcunha"]
+[Result "0-1"]
+[ECO "C78"]
+[WhiteElo "2691"]
+[BlackElo "2371"]
+[Annotator "TA"]
+[PlyCount "66"]
+[EventDate "2019.08.02"]
+[EventType "swiss"]
+[EventCountry "UAE"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,66,13,4,10,20,6,8,0,0,8,19,0,0,0,0,0,0,-16,0,-92,0,-97,-87,-106,-100,
+-101,-72,-81,-65,-159,-104,-131,-126,-135,-140,-137,-135,-291,-269,-333,-304,
+-622,-599,-637,-300,-299,-285,-331,-334,-340,-325,-875,-861,-29987,-29988,
+-29988,-29986]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. Bxc6
+dxc6 7. d3 {C78: Ruy Lopez: Archangelsk and Möller Defences} Bg4 (7... Qe7 8.
+Nbd2 Bg4 9. Nc4 Nd7 10. h3 Bh5 11. Be3 f6 12. Qe2 g5 13. Bxc5 Nxc5 14. Ne3 Ne6
+{1/2-1/2 (31) Almasi,Z (2702)-Fressinet,L (2649) Batumi 2018}) 8. h3 Bh5 9. g4
+{The position is equal.} Bg6 $146 ({Predecessor:} 9... Nxg4 10. hxg4 Bxg4 11.
+Be3 Qf6 12. Kg2 h5 13. Bxc5 h4 14. Nbd2 h3+ {1-0 (30) Antipov,M (2070)
+-Khamidov,K (1835) Kemer 2007}) 10. Nxe5 Nd7 11. Nxd7 (11. Nf3 {keeps more
+tension.} Qe7 12. Qe1 O-O-O 13. Bf4 h5 14. g5) 11... Qxd7 12. Be3 Bxe3 13. fxe3
+h5 14. Kg2 O-O-O 15. Nd2 (15. Nc3 $11) 15... Kb8 (15... Qe7 $1 $17) 16. Nb3 (
+16. g5 $1 $11) 16... hxg4 17. Qxg4 Qe7 18. Nd4 Rh4 {[%mdl 1024] Black has
+strong compensation.} 19. Qg3 Rdh8 $36 {[%mdl 2048] Black is more active.} 20.
+Rh1 (20. b3 $15) 20... R4h5 ({Better is} 20... R4h6 {And now ...Bxe4+! would
+win.} 21. Kf2 c5) 21. h4 R8h6 $1 {aiming for ...Bxe4+!} 22. Kf2 Bxe4 23. dxe4
+Qxe4 24. Ke2 $2 {[#]} (24. b4 $17 {keeps fighting.}) 24... c5 $1 $19 {[%cal
+Rc5d4]} 25. Qf3 {[#]} Qh7 $1 26. Kd2 $2 (26. Rae1 Rf6 27. Qg3) 26... cxd4 27.
+exd4 Rxh4 (27... Rf6 $142 28. Qg2 Rg6) 28. Rxh4 Rxh4 {KQR-KQR} 29. Rg1 Qh6+ ({
+Don't do} 29... Rxd4+ 30. Kc1 $19) 30. Kd3 Rf4 31. Qd5 $2 (31. Qe3 g5 32. Re1)
+31... Rf2 {( -> ...Qd2+)} 32. c3 Qd2+ 33. Kc4 Qxb2 {Accuracy: White = 37%,
+Black = 70%.} 0-1

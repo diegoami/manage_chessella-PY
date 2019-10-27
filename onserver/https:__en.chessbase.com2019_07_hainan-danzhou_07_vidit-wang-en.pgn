@@ -1,0 +1,41 @@
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.07"]
+[Round "7.3"]
+[White "Vidit, Santosh Gujrathi"]
+[Black "Wang, Hao"]
+[Result "1-0"]
+[ECO "E05"]
+[WhiteElo "2707"]
+[BlackElo "2737"]
+[Annotator "KGBesenthal"]
+[PlyCount "91"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,91,19,31,14,-14,-11,-21,-23,-23,-5,-5,8,-5,8,-5,-10,-1,2,2,2,-42,-23,
+-16,42,11,44,26,15,-3,-6,-7,39,18,13,4,18,3,0,1,-4,2,18,12,8,15,10,7,21,8,20,
+26,48,34,91,21,39,72,76,86,92,48,24,0,95,102,107,103,124,124,183,192,185,185,
+189,183,185,186,186,187,188,188,214,215,215,215,208,215,215,255,255,260,283,
+281]} 1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6
+8. Qxc4 b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 c6 12. a4 Nbd7 13. Nc3 Bg6 14. Nh4
+Bh5 15. h3 Nd5 16. axb5 axb5 17. Nxd5 cxd5 18. Bf3 Bxf3 19. Nxf3 Qb6 20. Qc2
+Rac8 21. Qd3 Ra8 22. Rxa8 Rxa8 23. Rc1 h6 24. Bf4 {[#] The game was almost
+balanced at this point.} g5 {With a win, Wang Hao would have made it to shared
+first place in the tournament. To do so he would have to take risks, but
+ultimately he only ruined his own position.} ({With a move like} 24... Nf6 {
+Black could have easily kept the balance.}) 25. Ne5 Nxe5 ({Solid was} 25... Nf6
+) 26. Bxe5 b4 $2 {[#] Black could achieve something on the queenside if not
+for the fatal weaknesses on the otherside of the board. To make matters worse,
+the white rook threatens to invate on c7.} 27. Qf3 $1 {The absence of knights
+left a hole on h5 for the queen to penetrate.} Qd8 28. Qh5 Bf8 29. Rc7 Qe8 {
+[#] Black is clearly on the back foot, but everything remains under control.}
+30. h4 $6 ({The correct plan for White looks to be a quick swing of the queen
+over to the queenside starting with} 30. Kg2 f5 31. Qf3) 30... f5 31. Qf3 g4 $2
+{This plays right into White's hands.} ({Black missed} 31... gxh4 $1 32. gxh4
+Qg6+ $11) 32. Qe3 Rc8 33. Ra7 Qc6 34. Bf4 $1 {Covering c1, threatening h6 and
+freeing the e5 square for the queen all at once!} Qb6 35. Qe5 $1 {Now
+threatening Qf6.} h5 (35... Qxa7 36. Qxe6+ Qf7 37. Qxc8) 36. Qf6 Rc1+ 37. Bxc1
+Qxa7 38. Qxe6+ Qf7 39. Qc8 Kh7 40. Bf4 Kg6 41. Be5 Be7 42. Qc6+ Kh7 43. e3 Bf8
+44. Bd6 Bxd6 45. Qxd6 b3 46. Qb6 {Faced with the loss of another pawn, Wang
+gave up.} 1-0
+

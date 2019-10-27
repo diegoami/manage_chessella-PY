@@ -1,0 +1,853 @@
+[Event "GCT Paris Blitz 2019"]
+[Site "Paris"]
+[Date "2019.07.31"]
+[Round "1"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Dubov, Daniil"]
+[Result "1-0"]
+[WhiteElo "2799"]
+[BlackElo "2722"]
+[Annotator "TA"]
+[PlyCount "55"]
+[EventDate "2019.??.??"]
+[EventType "blitz"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 e5 4. Bc4 Nf6 5. d3 (5. Ng5 d5 6. exd5 Nxd5 7. d4
+cxd4 8. O-O Be7 9. Nxf7 Kxf7 10. Qf3+ Ke6 11. Re1 b5 12. Bb3 Bb7 13. Qe4 {
+1-0 (46) Belyakov,B (2486)-Dubov,D (2666) Sochi 2017}) 5... Be7 6. O-O {
+[%emt 0:00:02] B2: Sicilian: 2 c3} O-O 7. Re1 d6 8. a4 {White is slightly
+better.} Rb8 9. Nbd2 a6 10. Nf1 b5 11. Ba2 Be6 $146 ({Predecessor:} 11... b4
+12. Ne3 Qa5 13. Bd2 {1/2-1/2 (73) Vysochin,S (2554) -Gajewski,G (2436)
+Cappelle-la-Grande 2003}) 12. Ne3 Bxa2 13. Rxa2 b4 14. Nf5 Re8 15. Bg5 Qd7 16.
+Nd2 bxc3 17. bxc3 Qe6 18. Nc4 d5 19. Nxe7+ Rxe7 (19... Nxe7 $11 20. exd5 Nfxd5)
+20. exd5 $14 Qxd5 21. Rae2 Rbe8 {[#]} (21... Kh8 $16) 22. Bxf6 $1 $18 gxf6 23.
+Re4 (23. Re3 $18 Kh8 24. Rh3) 23... f5 $16 24. Rh4 {Threatens to win with Ne3.}
+f4 $2 (24... e4 $16 {is tougher.}) 25. Qg4+ $18 Kh8 {[#]} 26. Qf5 $1 f6 27.
+Qxf6+ Kg8 {Now ...Rg7 and Black clings on.} 28. Rg4+ {Accuracy: White = 76%,
+Black = 37%.} 1-0
+
+[Event "GCT Paris Blitz 2019"]
+[Site "Paris"]
+[Date "2019.07.31"]
+[Round "2"]
+[White "Grischuk, Alexander"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[WhiteElo "2769"]
+[BlackElo "2799"]
+[Annotator "TA"]
+[PlyCount "97"]
+[EventDate "2019.??.??"]
+[EventType "blitz"]
+
+1. d4 Nf6 2. c4 g6 3. h4 (3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Nf3 Bg7 7. Ne5 O-O
+8. Nc3 Bf5 9. O-O Ne4 10. Bf4 Nxc3 11. bxc3 Nc6 12. Nxc6 bxc6 13. Qa4 e6 14.
+Qxc6 Rc8 15. Qa4 Rxc3 16. Rfc1 Rxc1+ 17. Rxc1 Qb6 18. e3 {1/2-1/2 (39) Ding,L 
+(2812)-Carlsen,M (2845) Shamkir 2019}) 3... Bg7 4. Nc3 d6 5. e4 Nc6 6. Nge2 {
+E60: King's Indian: Unusual lines and Fianchetto Variation without Nc3} Nh5
+$146 ({Predecessor:} 6... O-O 7. h5 Nxh5 8. Bg5 f6 9. Be3 f5 10. Qd2 Nxd4 11.
+Rxh5 gxh5 12. Bxd4 {0-1 (40) Williams,S (2545)-Mestel,A (2473) England 2010})
+7. Bg5 O-O 8. Qd2 {White is slightly better.} f6 9. Be3 f5 10. exf5 Bxf5 11. f3
+{Hoping for g4.} e5 $36 {Black has the initiative.} 12. d5 Nd4 13. O-O-O Nxe2+
+$1 14. Nxe2 {Strongly threatening g4.} e4 $1 15. g4 exf3 16. gxf5 {aiming for
+Nd4.} fxe2 17. Bxe2 Ng3 $1 18. fxg6 Nxh1 19. Rxh1 Qf6 20. h5 Rae8 21. h6 $2 {
+[#]} (21. gxh7+ $17 Kh8 22. Rh3) 21... Qxb2+ $1 $19 22. Qxb2 Bxb2+ 23. Kd2 hxg6
+24. Bg4 b6 25. Be6+ Kh7 26. a4 a5 27. Ke2 Be5 28. Rh4 Bc3 29. Rh3 Bb4 30. Bd4
+Bc5 31. Bg7 Rf2+ 32. Kd3 Re7 $4 {[#]} (32... Rf4 $19 33. Bd7 Rd8) 33. Rg3 $4 (
+33. Bg8+ $1 {was the only winning move.} Kxg8 34. h7+ Kf7 35. h8=Q Re8 36. Qh7
+Ke7 37. Bd4+ {Discovered Attack} Kd8 38. Bxf2) 33... Bb4 34. Ke3 Bc5+ 35. Kd3
+c6 (35... Rf4 $142 36. Rh3 Re8) 36. Kc3 $2 (36. Rg4) 36... cxd5 37. cxd5 {[#]}
+Bb4+ (37... b5 $142 $1 38. Rh3 (38. axb5 Ra7) 38... b4+ 39. Kb3 Re8) 38. Kc4
+Bd2 39. Rh3 Rf4+ $2 ({Black should play} 39... Re8 $19 {And now ...Rf4+ would
+win.} 40. Bd4 Rf4) 40. Kb5 $2 {[#]} (40. Kd3 $1 $14 {was forced to keep a grip.
+} Rxg7 41. hxg7+ Kxg7 42. Kxd2) 40... Rb4+ $2 (40... Re8 $1 $19 41. Rd3 Bb4)
+41. Kc6 $15 {Bg8+! is the strong threat.} Bf4 $2 {[#]} (41... Rc4+ $15 42. Kb5
+Rb4+ 43. Kc6 Re8 44. Kxd6 Rc4) 42. Bg8+ $1 {Decoy, Promotion. White mates.}
+Kxg8 43. h7+ Kf7 44. h8=Q Rc4+ 45. Kb5 Rc5+ 46. Ka6 Re8 47. Qh7 Ke7 48. Be5+
+Kd8 49. Bxf4 {Accuracy: White = 29%, Black = 53%.} 1-0
+
+[Event "GCT Paris Blitz 2019"]
+[Site "Paris"]
+[Date "2019.07.31"]
+[Round "3"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[WhiteElo "2799"]
+[BlackElo "2793"]
+[Annotator "TA"]
+[PlyCount "77"]
+[EventDate "2019.??.??"]
+[EventType "blitz"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. a4 {B56: Classical
+Sicilian: Unusual Lines} (6. Bg5 {with more complications.} e6 7. Bb5 Bd7 8.
+Nb3 a6 9. Be2) (6. Bg5 e6 7. Qd2 a6 8. O-O-O Bd7 9. f3 Nxd4 10. Qxd4 h6 11. Bh4
+Rc8 12. Kb1 Be7 13. g4 b5 14. Bg3 e5 15. Qe3 Qc7 16. Bd3 Be6 17. h4 Qa5 18. g5
+{1-0 (60) Robson,R (2667)-Caruana,F (2828) chess.com INT 2019}) 6... Bd7 7. Be2
+Nxd4 (7... g6 {feels hotter.} 8. Be3 Bg7 9. Qd2 O-O 10. O-O Ng4) 8. Qxd4 {
+White is slightly better.} g6 9. Be3 $146 ({Predecessor:} 9. Bg5 Bg7 10. h4 O-O
+11. Qd2 Bc6 12. f3 Qb6 13. O-O-O Qa5 {1-0 (33) Cabanes,K (1730)-Barbot,P (1550)
+France 2005}) 9... Bg7 10. Qd2 O-O 11. O-O Bc6 12. Bf3 Nd7 13. Rfe1 Re8 14. Bd4
+Qa5 15. Bxg7 Kxg7 16. Rad1 Rac8 17. Bg4 Rc7 18. Bxd7 Rxd7 19. Qd4+ Kg8 $2 {[#]}
+(19... e5 $11 20. Qc4 Qc5) 20. b4 $1 $18 e5 {[#]} 21. Qc4 $1 ({Not} 21. bxa5
+exd4 22. Rxd4 Re5 $11) 21... Qb6 {Black hopes to continue with ...Rc7.} 22. b5
+Kg7 23. bxc6 bxc6 24. Rb1 Qd8 25. Red1 Qe7 26. h3 h5 27. Rd3 Rc8 28. Rbd1 Qf6
+29. Na2 Qd8 30. Nc1 Qc7 31. Nb3 Rdd8 32. Qb4 Rb8 33. Qd2 d5 34. exd5 cxd5 35.
+Rxd5 Rxd5 36. Qxd5 Rb4 (36... Qxc2 $142 37. Qxe5+ Kh7 38. Qxb8 Qxd1+ 39. Kh2
+Qc2) 37. Nc5 {White is clearly winning.} Qe7 38. c3 Rb2 39. Nd3 {Accuracy:
+White = 74%, Black = 35%.} 1-0
+
+[Event "GCT Paris Blitz 2019"]
+[Site "Paris"]
+[Date "2019.07.31"]
+[Round "4"]
+[White "Nakamura, Hikaru"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[WhiteElo "2806"]
+[BlackElo "2799"]
+[Annotator "TA"]
+[PlyCount "117"]
+[EventDate "2019.??.??"]
+[EventType "blitz"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. h3 Nc6 5. d4 cxd4 6. Nxd4 g6 {B56: Classical
+Sicilian: Unusual Lines} (6... e5 7. Nf3 h6 8. Bc4 Be6 9. Bb3 Be7 10. O-O O-O
+11. Qe2 Na5 12. Rd1 Nxb3 13. cxb3 Qa5 14. Be3 Rac8 15. Nd2 d5 16. exd5 Nxd5 17.
+Nxd5 Bxd5 {1/2-1/2 (43) Caruana,F (2808)-Vachier Lagrave,M (2796) Paris 2017})
+7. Nxc6 bxc6 8. Bc4 Bg7 {The position is equal.} 9. e5 Nd7 $146 ({Predecessor:
+} 9... dxe5 10. Qxd8+ {1/2-1/2 (10) Genocchio,D (2340)-Ferro,M (2186) Bratto
+2001}) 10. exd6 Ne5 ({Better is} 10... Nb6 $11 11. Bb3 (11. Qf3 O-O $11) 11...
+O-O) 11. Bb3 $1 $14 Ba6 12. Bg5 $40 {White attacks.} Qxd6 13. Qxd6 exd6 14.
+O-O-O h6 15. Be3 d5 16. Bc5 O-O-O 17. Bxa7 Rhe8 18. Bb6 Rd6 $2 {[#]} (18... Rd7
+$16 {keeps fighting.}) 19. Ne4 $1 $18 {Pin} Nd3+ (19... dxe4 20. Rxd6) 20. cxd3
+dxe4 21. dxe4 Rxd1+ 22. Rxd1 ({Don't take} 22. Kxd1 $6 Rxe4 23. Re1 (23. Bxf7
+Rb4 $16) 23... Rxe1+ 24. Kxe1 Bxb2 $16) 22... Rxe4 23. Rd8+ Kb7 24. Be3 Re7 25.
+Bc5 Re1+ 26. Rd1 Re2 27. Rd2 Rxd2 28. Kxd2 $16 {Endgame KBB-KBB} Bf1 (28... f5
+$16 29. Bf7 g5) 29. g3 f5 {[#]} 30. h4 $1 Bxb2 31. Be3 g5 32. hxg5 hxg5 33.
+Bxg5 c5 34. Bc2 Bh3 35. Be3 (35. Bd3 $18) 35... Kb6 (35... c4 $16 36. Ba4 Bf1)
+36. Bd3 $18 Ba3 37. Kc2 Bb4 38. Kb3 Kc6 39. a3 Ba5 40. Kc4 Bg2 $2 (40... Bb6 {
+might work better.} 41. a4 Bg4) 41. Bxf5 Bd5+ 42. Kd3 c4+ 43. Kc2 Kd6 44. g4
+Bc6 45. Bd4 Ba4+ 46. Kb2 Bd2 47. Bf6 Kd5 (47... c3+ $142 48. Bxc3 Bg5) 48. g5
+c3+ 49. Kb1 Bb3 50. g6 Kc5 51. g7 Kb5 52. Bh7 Ka5 53. Be5 Kb5 54. Bd3+ Ka5 55.
+f4 (55. Bc7+ $142 Ka4 56. Bc2 Kb5 57. Bxb3 c2+ 58. Kxc2 Kc6 59. Be5 Bf4 60.
+Bxf4) 55... Bg8 {White is clearly winning.} 56. Bc2 Kb5 57. f5 Kc6 58. Be4+ Kd7
+59. Kc2 {Accuracy: White = 77%, Black = 28%.} 1-0
+
+[Event "GCT Paris Blitz 2019"]
+[Site "Paris"]
+[Date "2019.07.31"]
+[Round "5"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[WhiteElo "2799"]
+[BlackElo "2774"]
+[Annotator "TA"]
+[PlyCount "50"]
+[EventDate "2019.??.??"]
+[EventType "blitz"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. g3 d5 5. d4 e6 6. cxd5 Nxd5 7. Bg2 cxd4 8.
+Nxd4 Nxc3 9. bxc3 Nxd4 10. Qxd4 Qxd4 11. cxd4 Bb4+ 12. Bd2 {[%emt 0:00:05] D41:
+Queen's Gambit Declined: Semi-Tarrasch with cxd5} Bxd2+ 13. Kxd2 Rb8 14. Rhc1 {
+White is slightly better.} Kd8 15. Rc3 Re8 $1 16. Ra3 (16. f4 b6 17. g4 Bb7 18.
+Bxb7 Rxb7 19. Rac1 Kd7 {1/2-1/2 (45) Anton Guijarro,D (2628) -Zvjaginsev,V 
+(2673) Barcelona 2016}) 16... a6 17. Rb1 b5 18. Rc3 Re7 19. a4 b4 $146 ({
+Predecessor:} 19... Rc7 20. axb5 axb5 21. Rxc7 Kxc7 22. Kc3 Kb6 23. e3 Bb7 24.
+Bxb7 {1/2-1/2 (24) Berebora,F (2415) -Jelen,I (2430) Pula 1998}) 20. Rc5 Rc7 {
+The position is equal.} 21. Ra5 b3 22. Rc5 Bd7 23. Rxc7 Kxc7 24. a5 Rb5 25. Be4
+Rxa5 {Accuracy: White = 47%, Black = 68%.} 1/2-1/2
+
+[Event "GCT Paris Blitz 2019"]
+[Site "Paris"]
+[Date "2019.07.31"]
+[Round "6"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Giri, Anish"]
+[Result "0-1"]
+[WhiteElo "2799"]
+[BlackElo "2763"]
+[Annotator "TA"]
+[PlyCount "94"]
+[EventDate "2019.??.??"]
+[EventType "blitz"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Qe2 e6 7. b3 Be7 8.
+Bb2 O-O 9. c4 Rc8 {B52: Sicilian: Moscow Variation with 3...Bd7} 10. d4 cxd4
+11. Nxd4 a6 {White is slightly better.} 12. Nc3 Ne5 (12... Qa5 13. Rac1 Bd8 14.
+Kh1 Bb6 15. Rfd1 Rfd8 16. f4 Ba7 17. Nf3 Ng4 18. Rf1 Be3 19. Rcd1 Bxf4 20. Nd4
+Qg5 {1/2-1/2 (77) Carlsen,M (2853)-Nakamura,H (2787) chess.com INT 2016}) 13.
+Rad1 Ng6 $146 ({Predecessor:} 13... Qb6 14. Kh1 Nc6 15. f4 {1/2-1/2 (15)
+Kapatos,E (1513)-Kolanek,R (1916) LSS email 2014}) 14. Rfe1 Re8 15. g3 Bf8 16.
+Kg2 Qc7 17. Qe3 ({Better is} 17. Na4 $14) 17... b6 (17... d5 $1 $15) 18. h3 Qb7
+19. Qd2 h5 20. h4 Rcd8 21. Nf3 b5 22. Qe2 bxc4 23. Qxc4 Ng4 24. Na4 Be7 25. Rd2
+Bf6 26. Red1 Bxb2 27. Nxb2 Rc8 28. Qe2 d5 29. exd5 exd5 30. Qd3 Nf6 31. Rc2
+Rxc2 32. Qxc2 Ne5 33. Nxe5 Rxe5 34. Nd3 Re8 35. Nf4 a5 (35... d4+ $11 36. Kg1
+Ng4) 36. Qd3 Rd8 37. Qd4 Qc6 38. Re1 a4 39. Re5 axb3 40. axb3 Rb8 41. Rg5 ({
+White should play} 41. Nxh5 $16 Nxh5 42. Rxh5) 41... Rxb3 $11 42. Nxd5 {
+[#] Qxf6 is the strong threat.} Kf8 {And now ...Rb5 would win.} 43. Kh2 {
+Strongly threatening Nxf6.} Rb1 44. Qd3 $2 (44. Qc3 $11 Qxc3 45. Nxc3) 44...
+Qc1 $19 45. Qxb1 $2 (45. Qf3 Ng4+ 46. Rxg4 Qg1+ 47. Kh3 Qf1+ 48. Qg2 hxg4+ 49.
+Kh2) 45... Qxb1 46. Nxf6 gxf6 47. Rxh5 {Endgame KQ-KR} f5 {Played: Qb1-c2} 0-1
+
+[Event "GCT Paris Blitz 2019"]
+[Site "Paris"]
+[Date "2019.07.31"]
+[Round "7"]
+[White "Anand, Viswanathan"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[WhiteElo "2757"]
+[BlackElo "2799"]
+[Annotator "TA"]
+[PlyCount "30"]
+[EventDate "2019.??.??"]
+[EventType "blitz"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nf6 5. Be2 Nc6 (5... e6 6. c4 Be7 7. O-O
+b6 8. Nc3 Bb7 9. Rd1 O-O 10. b3 Nbd7 11. Bb2 a6 12. h3 Qc7 {1/2-1/2 (55) Vidit,
+S (2711)-Duda,J (2731) Prague 2019}) 6. Qe3 {B53: Sicilian: 2...d6: Lines with
+Qxd4} g6 7. O-O Bg7 8. h3 {The position is equal.} O-O 9. c4 b6 (9... Qb6 $15)
+10. Rd1 Nd7 $146 ({Predecessor:} 10... Qc7 11. Nc3 Ba6 12. Rb1 Rad8 {1-0 (38)
+Tsang,W (2072)-Chong,C (2034) Hong Kong 2015}) 11. Nc3 Bb7 12. b3 Nb4 {And now
+...Nc2 would win.} 13. Qd2 Nc5 $1 14. Ba3 a5 15. Nd4 {[#]} (15. Bb2 $15) 15...
+f5 {Played: Bg7xd4} 0-1
+
+[Event "GCT Paris Blitz 2019"]
+[Site "Paris"]
+[Date "2019.07.31"]
+[Round "8"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Duda, Jan-Krzysztof"]
+[Result "0-1"]
+[WhiteElo "2799"]
+[BlackElo "2729"]
+[Annotator "TA"]
+[PlyCount "76"]
+[EventDate "2019.??.??"]
+[EventType "blitz"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 g6 6. Bg5 {B01: Scandinavian
+Defence} (6. Be2 Bg7 7. O-O O-O 8. h3 Nc6 9. Be3 b6 10. Qd2 Bb7 11. Rad1 e6 12.
+Bh6 Ne7 13. Bxg7 Kxg7 {1/2-1/2 (23) Giri,A (2783)-Nakamura,H (2746) St
+Petersburg 2018}) 6... Bg7 7. Qd2 h6 8. Bf4 {White is better.} a6 9. a4 $146 (
+9. O-O-O $16) ({Predecessor:} 9. O-O-O Bg4 10. Be2 Nbd7 11. h3 Bf5 12. g4 Be4
+13. Nxe4 Nxe4 {1-0 (22) Plischke,B (2054) -Zschorsch,P (1973) Bad Woerishofen
+2011}) 9... b6 10. Be2 Bb7 11. O-O Nc6 12. Rad1 e6 13. Rfe1 {[#] And now d5
+would win.} Ne7 14. Ne5 g5 15. Bg3 Nf5 16. Bf3 (16. Bd3 {with more
+complications.} Nxg3 17. hxg3 O-O 18. Be2 Nd7 19. Qe3) 16... Bxf3 17. Nxf3 Nxg3
+18. hxg3 O-O 19. Ne5 Qd6 20. Qe2 c6 21. Qf3 Rac8 22. Nc4 Qc7 23. Nd2 Rfd8 24.
+Nb3 a5 25. Ne2 Rd5 26. Nec1 c5 27. c4 Rf5 28. Qe2 h5 29. Nd3 Rd8 30. Ne5 g4 31.
+Qe3 $2 (31. dxc5 $1 $15 Rxd1 32. Qxd1 Rxe5 33. Rxe5 Qxe5 34. cxb6) 31... Ne8
+$19 {aiming for ...cxd4.} 32. Qe4 $2 (32. f4 gxf3 33. Nxf3) 32... cxd4 33. Nc6
+(33. Nd3 $142 Nf6 34. Qe2) 33... Nd6 {[#] Double Attack. Black is clearly
+winning.} 34. Nxd8 Nxe4 35. Nxe6 fxe6 36. Rxe4 Qxc4 {White must now prevent ...
+Qc2!} 37. Nd2 Qc2 38. Ree1 Re5 {Accuracy: White = 36%, Black = 67%.} 0-1
+
+[Event "GCT Paris Blitz 2019"]
+[Site "Paris"]
+[Date "2019.07.31"]
+[Round "9"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[WhiteElo "2770"]
+[BlackElo "2799"]
+[Annotator "TA"]
+[PlyCount "164"]
+[EventDate "2019.??.??"]
+[EventType "blitz"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 c5 6. Nc3 cxd4 7. Nxd4 Qc7 {
+E60: King's Indian: Unusual lines and Fianchetto Variation without Nc3} 8. Qd3
+Nc6 9. Bf4 Qb6 $146 {The position is equal.} ({Predecessor:} 9... d6 10. Nxc6
+bxc6 11. O-O Bf5 12. Qd2 Nd7 13. Bh6 Bxh6 14. Qxh6 Nf6 15. h3 {1-0 (80) Vidit,
+S (2711)-Shimanov,A (2626) chess.com INT 2018}) 10. Nb3 d6 11. O-O Be6 12. c5
+dxc5 {[#] White must now prevent ...c4.} 13. Na4 Qb4 {And now ...c4 would win.}
+14. Naxc5 Rfd8 15. Qc3 Bd5 16. Qxb4 Nxb4 17. Nxb7 Rdc8 18. N7c5 Bxg2 $1 19.
+Kxg2 Nfd5 $1 20. Bd2 (20. Bc1 $11) 20... Bxb2 $15 21. Rab1 Bc3 22. a3 Bxd2 23.
+Nxd2 Rxc5 24. axb4 Rc2 25. Rfd1 Rb8 26. Nf3 Rxb4 27. Rxb4 Nxb4 $17 {Endgame
+KRN-KRN} 28. Rd7 Rxe2 29. Nd4 Ra2 ({And not} 29... Rd2 30. Rd8+ Kg7 {[#]} 31.
+Nf5+ $1 Kf6 32. Rxd2 $16) 30. Rxe7 Nd3 31. Kf3 Nxf2 32. Nc6 Nh3 33. Rxa7 Rxh2
+34. Ra5 h6 35. g4 {If only White now had time for Kg3....} Ng5+ 36. Kg3 Rh3+
+37. Kg2 {intending Rxg5!} Rc3 38. Ne5 Rc7 39. Rb5 Kg7 40. Ra5 (40. Nd3 {
+was worth a try.}) 40... Ne6 41. Kg3 $2 (41. Nf3) 41... Rc5 $19 42. Rxc5 Nxc5 {
+KN-KN} 43. Nf3 Kf6 (43... g5 $142 44. Nd4 Ne4+ 45. Kg2 Nd6) 44. Nd2 Ke5 45.
+Nf3+ Ke4 46. Nd2+ Ke3 47. Nc4+ Kd4 48. Nb6 Ke4 49. Nc4 Kd4 50. Nb6 $1 Ne4+ 51.
+Kf4 Nc3 52. Nd7 Nd5+ 53. Kf3 g5 54. Kg3 Ke4 55. Nc5+ Ke5 56. Nd3+ Kd4 57. Ne1
+Ke4 58. Nf3 f5 59. gxf5 Kxf5 60. Nd4+ Kf6 61. Kg4 Nf4 (61... Kg6 $142 62. Kg3
+Ne7 63. Kf3 h5 64. Ne6 Kf6 65. Nd4 Ke5 66. Nc2 g4+ 67. Kf2 h4 68. Ne3 g3+ 69.
+Kf3 Nf5 70. Ng4+ Kd4 71. Ke2 h3 72. Kf3 g2 73. Kf2 Nh4 74. Nh2 Ke4 75. Ng4 Nf3
+76. Ke2 g1=Q 77. Nf2+ Kd4 78. Nxh3 Qe3+ 79. Kf1 Qd2 80. Nf4 Nh4 81. Kg1 Qxf4
+82. Kh1 Qd2 83. Kg1 Qg2#) 62. Kg3 h5 {Black mates.} 63. Nf3 Ne6 64. Nd2 Ke5 65.
+Nc4+ Kf5 66. Nd6+ Kg6 67. Nc4 Nd4 68. Ne5+ Kf5 69. Nc4 h4+ 70. Kh3 Kf4 71. Nb2
+Nf3 72. Nd3+ Kf5 73. Nf2 Ne5 74. Nd1 Kg6 75. Nc3 Kh5 76. Kg2 g4 77. Kf2 Kg5 78.
+Ne4+ Kf4 79. Nf6 Nd3+ 80. Kg2 Kf5 81. Ne8 Nf4+ 82. Kg1 Ke5 {Accuracy: White =
+32%, Black = 70%.} 0-1
+
+[Event "GCT Paris Blitz 2019"]
+[Site "Paris"]
+[Date "2019.08.01"]
+[Round "10"]
+[White "Dubov, Daniil"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[WhiteElo "2722"]
+[BlackElo "2799"]
+[Annotator "TA"]
+[PlyCount "98"]
+[EventDate "2019.??.??"]
+[EventType "blitz"]
+
+1. e4 c5 2. Nc3 d6 3. f4 g6 4. Nf3 Bg7 5. Bb5+ Bd7 6. Bc4 {B23: Closed
+Sicilian: Lines without g3} Nc6 7. O-O Na5 (7... e6 8. f5 Ne5 9. fxe6 fxe6 10.
+d3 Qe7 11. Bg5 Nf6 12. Nxe5 dxe5 13. Qf3 O-O 14. Qh3 Qd6 {1-0 (61) Adhiban,B 
+(2673)-Nguyen,N (2666) Hamedan 2018}) 8. Be2 {The position is equal.} Nh6 9.
+Qe1 $146 ({Predecessor:} 9. d3 f5 10. Qe1 O-O 11. Qh4 Nf7 12. Nd5 Nc6 13. exf5
+gxf5 {1/2-1/2 (49) Eric,J (2307)-Mendonca,L (2168) Abu Dhabi 2018}) 9... O-O
+10. f5 (10. d3 $11) 10... e6 $1 $15 11. d3 {Threatens to win with f6!} exf5 12.
+Nd5 Be6 13. Bf4 Nc6 14. Qg3 (14. Qd2 $17 {might work better.} Ng4 15. c3) 14...
+fxe4 15. dxe4 Bxd5 $1 16. exd5 Nf5 17. Qh3 Ncd4 (17... Nb4 $142 18. Rad1 Qe7)
+18. Bd3 $17 Nxf3+ 19. Rxf3 Nd4 20. Rf2 Rc8 21. c3 c4 22. Bf1 $1 Nf5 23. Rd1 h5
+24. Be2 Bh6 25. Bxh6 (25. g4 $5 Bxf4 26. gxf5 $15) 25... Nxh6 26. Qe3 Kg7 (
+26... Nf5 $15 27. Qf4 Rc7) 27. Qxa7 (27. Qd4+ $1 $11 Kg8 28. Qxa7) 27... Nf5
+28. Rdf1 (28. Bxh5 $15 b5 29. a3) 28... Qg5 (28... Re8 $1 $17) 29. Rxf5 (29.
+Rf4 $15) 29... gxf5 30. Qd4+ Kh6 ({Black should try} 30... Qf6 $17 {Strongly
+threatening ...Qxd4+.} 31. Qf4 Rfe8 32. Bxh5 Re5) 31. Bxc4 (31. h4 $11 Qg6 32.
+Bxc4) 31... Rg8 32. Rf2 Rce8 $1 {White must now prevent ...Re4.} 33. h4 (33.
+Bf1 $17 {was worth a try.}) 33... Qg4 $1 $19 34. Qd2+ Kh7 35. Bd3 Re5 36. Rf4 {
+[#]} Re1+ $1 37. Bf1 {[#]} (37. Qxe1 Qxg2#) 37... Qg3 (37... Re2 $1 $17 38.
+Qxe2 Qxf4 39. Qxh5+ Kg7 40. Qg5+ Qxg5 41. hxg5 Kg6) 38. Rxf5 $11 {Double Attack
+} Rg7 39. Rxh5+ Kg8 40. Rf5 Qxh4 41. Rf3 Re5 {Black has strong compensation.} (
+{Resist} 41... Rh7 42. Qd3 $15 (42. Rh3 Qe7 $17)) 42. Qf2 Qh7 $40 {Black is up
+to no good.} ({Better is} 42... Qxf2+ $17 43. Rxf2 Rxd5) 43. a4 $2 {[#]} (43.
+Qa7 $11 {and White has nothing to worry.} Qh5 44. Qb8+ Kh7 45. Qxd6 Rxd5 46.
+Bd3+ Kh8 47. Qe7) 43... Rh5 $1 $19 ({Stronger than} 43... Rxd5 44. Qb6 $11) 44.
+Qd4 $2 (44. Qe2 Rh1+ 45. Kf2 Qh4+ {Double Attack} 46. g3 Qxa4 47. Rf4 Qa7+ 48.
+Kf3) 44... Rh1+ 45. Kf2 Qc2+ 46. Be2 Qc1 47. Re3 {And now Re8+ would win.} Qe1+
+{Black mates.} 48. Kf3 Qg3+ 49. Ke4 Rh4+ {Accuracy: White = 19%, Black = 45%.}
+(49... Qg6+ $142 50. Kf4 Rh4+ {Skewer} 51. g4 Rxg4+ 52. Kf3 Qf5+ 53. Qf4 Rxf4#)
+0-1
+
+[Event "GCT Paris Blitz 2019"]
+[Site "Paris"]
+[Date "2019.08.01"]
+[Round "11"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo "2799"]
+[BlackElo "2769"]
+[Annotator "TA"]
+[PlyCount "109"]
+[EventDate "2019.??.??"]
+[EventType "blitz"]
+
+1. Nf3 Nf6 2. g3 c5 3. c4 Nc6 4. Nc3 e6 5. Bg2 d5 6. cxd5 exd5 7. d4 Be7 8. O-O
+O-O 9. Bf4 Bg4 10. dxc5 Bxc5 11. Ne5 Be6 12. Nd3 {D34: Tarrasch Defence: 6 g3
+Nf6 7 Bg2 Be7} (12. Rc1 Bb6 13. e4 Nxe5 14. Bxe5 Nxe4 15. Nxe4 dxe4 16. Bxe4 f6
+17. Bd6 Rf7 18. Re1 Qd7 19. Bxb7 Rd8 20. Bd5 Bxd5 21. Qxd5 {1/2-1/2 (30) Tadic,
+B (2489)-Brenjo,S (2478) Ulcinj 2014}) 12... Be7 13. Rc1 $146 ({Predecessor:} 
+13. Qd2 Nh5 14. Bf3 Nf6 15. Rfd1 d4 16. Nb5 Qb6 17. a4 Rac8 18. Nd6 Rcd8 19. a5
+Nxa5 20. Qxa5 Bxd6 21. Qxa7 Qxa7 22. Rxa7 {0-1 (32) Castro,N (2026)-Mateus,M 
+(2127) Bagre 2018}) 13... h6 14. Na4 Rc8 15. Nac5 Bxc5 16. Nxc5 Qe7 17. Nxe6
+Qxe6 18. Re1 Rfd8 19. Qb3 b6 20. Qe3 Qf5 21. Qa3 Ne4 22. f3 (22. Qd3 $14) 22...
+Nc5 $11 23. b4 Ne6 24. Bd2 Ncd4 25. Qxa7 (25. Qb2 $11) 25... Rxc1 ({Better is} 
+25... Ra8 26. Qxb6 Rxa2) 26. Bxc1 $17 Qc2 (26... Qb1 $1 $17 27. f4 (27. Qxb6
+Rc8 $17) 27... Qxb4) 27. Bf1 Qc6 28. Qa6 Ra8 (28... Nc2 $5 29. Rd1 $8 Ra8 $11)
+29. Qd3 Rxa2 30. Be3 Qc4 $36 {White must now prevent ...Qxd3. Black has the
+initiative.} 31. Rd1 Nxe2+ 32. Bxe2 Rxe2 33. Qxc4 dxc4 34. Bxb6 $11 {Endgame
+KRB-KRN} Rb2 35. Be3 Rxb4 36. Rc1 Kf8 37. Kf2 Ke7 38. Bd2 {[#]} Ra4 $1 39. Ke3
+Kd6 40. Bc3 Ra3 41. Ke4 {Strongly threatening Bb4+.} Kc5 42. f4 Ra2 (42... h5
+$19 {has better winning chances.} 43. Rc2 f6) 43. h4 $17 {With the idea f5.} f6
+(43... Re2+ $17 44. Kf3 Ra2) 44. f5 $11 Nc7 {aiming for . ..Nb5.} 45. Bd4+ Kb5
+46. Rb1+ Kc6 {And now ...Nb5 would win.} 47. Rb6+ Kd7 {Black wants to play ...
+Ra3.} 48. g4 (48. Rb7 $11) 48... Re2+ 49. Kf3 Rd2 50. Ke4 Rh2 51. h5 {[#]} (51.
+Be3 $17 {was called for.} Rxh4 52. Bf4 Rxg4 53. Rb7 Rxf4+ 54. Kxf4) 51... Re2+
+$2 (51... Rh4 $1 $19 52. Kf3 Rh3+ 53. Ke4 c3) 52. Kf3 {The position is equal.}
+Rd2 53. Ke4 Re2+ 54. Kf3 Rd2 55. Ke4 {Accuracy: White = 38%, Black = 45%.}
+1/2-1/2
+
+[Event "GCT Paris Blitz 2019"]
+[Site "Paris"]
+[Date "2019.08.01"]
+[Round "12"]
+[White "Caruana, Fabiano"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[WhiteElo "2793"]
+[BlackElo "2799"]
+[Annotator "TA"]
+[PlyCount "95"]
+[EventDate "2019.??.??"]
+[EventType "blitz"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Bf3 Be6 10. a4 Nbd7 11. Be3 Nb6 {[%emt 0:00:06] B92: Sicilian Najdorf:
+Be2} (11... Rc8 12. a5 Re8 13. Qd2 Rc4 14. Rfd1 Bf8 15. Qd3 Rb4 16. Qd2 Rc4 17.
+Qe1 Qc7 18. Be2 Rc6 19. f3 {1-0 (89) Nakamura,H (2792)-Nepomniachtchi,I (2751)
+Saint Louis 2017}) 12. Nd2 Rc8 13. a5 Nc4 {The position is equal.} 14. Nxc4
+Rxc4 15. Qd2 $146 ({Predecessor:} 15. Qd3 Qc7 16. Rfc1 Rc8 17. h3 Qd7 18. Bd2
+h6 19. b3 {1-0 (52) Caglar,S (2140)-Milliet,S (2394) Antalya 2019}) 15... Qc7
+16. h3 Rc8 17. Rfd1 h6 18. Qe1 Qc6 19. Nd5 Bxd5 $1 20. exd5 Qd7 21. c3 Ra4 22.
+Qd2 Bd8 23. b4 Rxa1 24. Rxa1 Qb5 25. Rc1 Qc4 26. Qd1 e4 27. Be2 Qxd5 28. c4 Qe5
+29. c5 dxc5 30. Rxc5 Qb8 $1 31. Bf4 $36 {White has the initiative.} Bc7 $2 ({
+Better is} 31... Qa8 $1 $14) 32. Qc2 Nd5 33. Bg4 Nxb4 (33... Nxf4 $142 34. Bxc8
+Bd6) 34. Qxe4 $18 Nc6 35. Bxc8 Bxf4 (35... Qxc8 $18 36. Rxc6 bxc6) 36. Rxc6 (
+36. Qe8+ $142 Kh7 37. Bf5+ g6 38. Qxf7+ {Double Attack} Kh8 39. Qf6+ Kg8 40.
+Bxg6 Bh2+ 41. Kh1) 36... bxc6 37. Qe8+ Kh7 38. Bf5+ g6 39. Qxf7+ {[#] Double
+Attack} Kh8 40. Qf6+ Kg8 41. Qxg6+ Kf8 42. Qf6+ Kg8 43. g3 Be5 44. Qxh6 Bg7 (
+44... Kf7 $18 45. Qxc6 Qd6 46. Qb7+ Kf8) 45. Qxc6 (45. Qe6+ $142 Kf8 46. Bg6
+Qb1+ 47. Bxb1 Bd4 48. Bg6 Kg7 49. Qf7+ Kh6 50. Bd3 Bxf2+ 51. Kxf2 Kg5 52. Qg6#)
+45... Qb4 46. Qe8+ (46. Qe6+ $142 Kh8 47. Qg6 Qe1+ 48. Kg2 Kg8 49. Be6+ Qxe6
+50. Qxe6+ Kh8 51. Qxa6) 46... Bf8 47. Qg6+ {[#] Double Attack} Bg7 48. Be6+ {
+Accuracy: White = 59%, Black = 43%.} 1-0
+
+[Event "GCT Paris Blitz 2019"]
+[Site "Paris"]
+[Date "2019.08.01"]
+[Round "13"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[WhiteElo "2799"]
+[BlackElo "2806"]
+[Annotator "TA"]
+[PlyCount "91"]
+[EventDate "2019.??.??"]
+[EventType "blitz"]
+
+1. e4 d6 2. d4 g6 3. Nf3 Bg7 4. Bd3 e5 5. c3 Nc6 6. O-O Nf6 7. Re1 O-O 8. Nbd2
+exd4 {B07: Pirc Defence: Miscellaneous Systems} (8... Re8 9. dxe5 Nxe5 10. Nxe5
+dxe5 11. Nf3 Qe7 12. h3 a5 13. a4 Rd8 14. Qc2 h6 15. Be3 b6 {1/2-1/2 (15)
+Timofeev, A (2593)-Onischuk,V (2627) Budapest 2019}) 9. Nxd4 Nxd4 10. cxd4 c5 {
+The position is equal.} 11. dxc5 $146 ({Predecessor:} 11. Nf3 Bg4 12. Be3 Qb6
+13. dxc5 dxc5 14. h3 Bxf3 15. Qxf3 Nd7 16. Qe2 {1-0 (48) Masyagutova,L (2026)
+-Golovchenko,G (2353) Serpukhov 2004}) 11... dxc5 12. Nf3 Be6 13. Qe2 Re8 14.
+Be3 Rc8 15. Rad1 Qc7 16. b3 h6 17. Rc1 b6 18. h3 Qe7 19. Bf4 Kh7 (19... Rcd8
+$11) 20. Qe3 (20. Bg3 $14) 20... Red8 21. Ba6 Ra8 22. Ne5 $36 {aiming for Nc6.
+White has the initiative.} Nh5 (22... Qf8 $14) 23. Nc6 $1 $16 {[#] Double
+Attack} Qh4 24. Nxd8 Rxd8 25. Bh2 Bd4 26. Qf3 g5 27. Bc4 g4 28. hxg4 {
+Overworked Piece} Bxg4 $2 (28... Nf6 29. Bg3 Qxg4 30. Qxg4 Nxg4) 29. Qxf7+ $18
+{Double Attack} Bg7 (29... Ng7 $142 30. e5 Bh5) 30. e5 {White is clearly
+winning.} Rf8 31. Bd3+ Kh8 32. Qg6 Qxf2+ 33. Kh1 Bf5 34. Qxh5 Bxd3 35. e6 Bb5 (
+35... Qf5 $142 36. Qxf5 Bxf5) 36. e7 Re8 37. Re6 Kg8 38. Rd1 {And now Be5
+would win.} Qf7 39. Qd5 Kh7 40. Rxh6+ Kg8 41. Re6 Ba6 42. Qc6 {Threatening
+mate with Rd8!} Rxe7 43. Qa8+ Bf8 44. Rxe7 Qxe7 {[#]} 45. Bd6 $1 Qf7 {
+Threatens to win with ...Qh5+.} 46. Qxf8+ {Accuracy: White = 66%, Black = 34%.}
+1-0
+
+[Event "GCT Paris Blitz 2019"]
+[Site "Paris"]
+[Date "2019.08.01"]
+[Round "14"]
+[White "Nepomniachtchi, Ian"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[WhiteElo "2774"]
+[BlackElo "2799"]
+[Annotator "TA"]
+[PlyCount "43"]
+[EventDate "2019.??.??"]
+[EventType "blitz"]
+
+1. e4 c5 2. Nc3 d6 3. f4 g6 4. Nf3 Bg7 5. Bc4 Nc6 6. O-O e6 7. d4 {B23: Closed
+Sicilian: Lines without g3} cxd4 8. Nb5 a6 9. Nbxd4 {The position is equal.}
+Nge7 10. Bb3 O-O 11. c3 Nxd4 12. Nxd4 e5 $146 ({Predecessor:} 12... b5 13. Be3
+Qc7 14. Qd2 e5 15. fxe5 dxe5 {1/2-1/2 (50) Grischuk,A (2767)-Nepomniachtchi,I 
+(2751) Moscow 2018}) 13. Nf3 Qc7 ({Black should play} 13... Be6 $14) 14. fxe5
+$18 dxe5 {[#]} 15. Ng5 $1 Qb6+ 16. Kh1 Be6 17. Nxe6 fxe6 18. Bg5 Rxf1+ 19. Qxf1
+Re8 20. Rd1 h6 21. Bh4 Kh7 $2 {[#]} (21... Nc8 22. Qd3 (22. Rd7 Rf8 $16) 22...
+Qc6) 22. Qf7 $1 {Double Attack. Accuracy: White = 88%, Black = 22%.} 1-0
+
+[Event "GCT Paris Blitz 2019"]
+[Site "Paris"]
+[Date "2019.08.01"]
+[Round "15"]
+[White "Giri, Anish"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[WhiteElo "2763"]
+[BlackElo "2799"]
+[Annotator "TA"]
+[PlyCount "51"]
+[EventDate "2019.??.??"]
+[EventType "blitz"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bg5 h6 8. Bh4
+g5 9. Bg3 Bg7 10. h3 Ne5 11. Nf5 Bxf5 $1 {B90: Sicilian Najdorf: Unusual White
+6th moves, 6 Be3 Ng4 and 6 Be3 e5} 12. exf5 Nbc6 13. Nd5 e6 {The position is
+equal.} 14. fxe6 fxe6 15. Ne3 Qa5+ (15... O-O 16. c3 d5 17. Be2 d4 18. cxd4
+Qxd4 19. Qb3 Qb4+ 20. Qxb4 Nxb4 21. O-O Nbd3 22. Bxe5 {1/2-1/2 (22) Michalik,P
+(2555)-Vidit, S (2711) Czech Republic 2019}) 16. c3 Nf3+ 17. gxf3 Bxc3+ $1 18.
+bxc3 Qxc3+ 19. Qd2 Qxa1+ 20. Nd1 $146 Qd4 21. Bd3 Rf8 22. O-O Rxf3 23. Ne3 Kd7
+24. Rd1 {White has compensation.} Raf8 {[#] And now ...Rxg3+! would win.} 25.
+Qe2 Qc5 26. Bg6 {Played: Bd3-e4} 1-0
+
+[Event "GCT Paris Blitz 2019"]
+[Site "Paris"]
+[Date "2019.08.01"]
+[Round "16"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2799"]
+[BlackElo "2757"]
+[Annotator "TA"]
+[PlyCount "68"]
+[EventDate "2019.??.??"]
+[EventType "blitz"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Bc5 7. Nc3 h6 {
+C77: Ruy Lopez: 3...a6 4 Ba4 Nf6, unusual lines} 8. Nd5 Rb8 9. c3 d6 10. O-O
+O-O 11. Be3 (11. d4 Ba7 12. Be3 Bg4 13. dxe5 Nxd5 14. Qxd5 Bxe3 15. fxe3 {
+0-1 (48) Salem,A (2660)-Mamedyarov,S (2817) St Petersburg 2018}) 11... Nxd5 12.
+Bxd5 Bxe3 13. fxe3 Ne7 14. Bb3 {[#]} Be6 $146 ({Predecessor:} 14... c5 15. Nh4
+{1/2-1/2 (27) Ortiz Suarez,I (2543)-Quesada Perez,Y (2552) Havana 2018}) 15.
+Nh4 Qd7 16. Qh5 c5 {Strongly threatening ...c4.} 17. Nf5 c4 18. Bc2 cxd3 19.
+Bxd3 Bc4 20. Rad1 Nxf5 21. exf5 f6 22. b3 (22. Bxc4+ $11 {remains equal.} bxc4
+23. Rd2) 22... Bf7 $17 23. Qe2 d5 (23... Rfc8 $17 24. Qd2 Rc5) 24. c4 $11 dxc4
+25. bxc4 Qc6 26. cxb5 axb5 27. Rc1 Qa8 28. Bxb5 {The position is equal.} Qxa2
+29. Rc2 Qb3 30. Bc4 Bxc4 31. Qxc4+ Qxc4 32. Rxc4 Rfd8 33. Rfc1 Kh7 34. h3 Rd3 {
+Accuracy: White = 62%, Black = 33%.} 1/2-1/2
+
+[Event "GCT Paris Blitz 2019"]
+[Site "Paris"]
+[Date "2019.08.01"]
+[Round "17"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[WhiteElo "2729"]
+[BlackElo "2799"]
+[Annotator "TA"]
+[PlyCount "113"]
+[EventDate "2019.??.??"]
+[EventType "blitz"]
+
+1. c4 c5 2. Nf3 Nf6 3. b3 b6 4. Bb2 Bb7 5. g3 g6 6. Bg2 Bg7 7. O-O O-O 8. d4
+cxd4 9. Qxd4 Nc6 10. Qc3 {A30: Symmetrical English: Double Fianchetto and
+Hedgehog} Qc7 11. Rd1 Rad8 12. Qe1 {White has an edge.} (12. Na3 a6 13. Rac1
+Rfe8 14. Qe1 Qb8 15. Nc2 b5 16. c5 d5 17. cxd6 Rxd6 18. Rxd6 Qxd6 {0-1 (46)
+Hou,Y (2654)-Vachier Lagrave,M (2789) Karlsruhe/Baden-Baden 2018}) 12... d5 13.
+cxd5 {[#]} Rxd5 $146 ({Predecessor:} 13... Nxd5 14. Bxg7 Kxg7 15. Nc3 Nf6 16.
+Nb5 Qb8 17. Qc3 Rxd1+ 18. Rxd1 {1/2-1/2 (44) Liu,Y (2474)-Gao,R (2568) China
+2018}) 14. Nc3 Rxd1 15. Nxd1 Rd8 16. Rc1 {Hoping for Nd4!} Bh6 17. e3 {next
+Nd4 is good for White.} Qd7 18. Bxf6 exf6 19. Nb2 Bg7 20. Rd1 Qe7 21. Rxd8+
+Nxd8 22. Nc4 f5 23. Qd2 Ne6 24. Nfe5 $2 (24. Qd6 $11 {and White is okay.} Qxd6
+25. Nxd6) 24... Bxg2 $2 ({Black should play} 24... b5 $1 $19 25. Qd6 Qxd6 26.
+Nxd6 Bxg2 27. Kxg2 Bxe5 28. Nxb5 a6) 25. Kxg2 $11 Qb7+ (25... b5 $5 26. Nc6 $8
+Qc5 $11) 26. Kg1 Qe4 {[#]} (26... Qc7 $11 {remains equal.} 27. Qd5 Bxe5 28.
+Qxe5 Qxe5 29. Nxe5 Kg7) 27. Nxf7 $1 $16 Qb1+ (27... Kxf7 28. Nd6+) 28. Kg2 {
+Strongly threatening Nfd6.} f4 $2 (28... Kxf7 $16 29. Qd7+ {Double Attack} Kf6)
+29. exf4 {And now Qd5 would win.} Nd4 $2 (29... Qe4+ {was worth a try.} 30. f3
+Qd4) 30. Nfe5 (30. Qe3 $142 {aiming for Qe8+.} h6 {[#]} 31. Nxh6+ $1 Kh7 32.
+Ng4) 30... Qe4+ $18 31. f3 Qd5 32. Ne3 Qc5 33. b4 Qd6 34. Nc2 Nf5 35. Qxd6 Nxd6
+{Endgame KBN-KNN} 36. Kf2 Nb5 37. Ke3 Kf8 38. Kd3 Ke8 39. a4 Nc7 40. Ne3 a6 41.
+Kc4 Bf8 42. b5 axb5+ 43. axb5 Bc5 44. Nd5 Ne6 (44... Nxd5 $142 45. Kxd5 Bg1)
+45. Nf6+ Kf8 46. Nxh7+ Kg7 47. Ng5 Nc7 48. Ne4 Bg1 49. h4 Ne6 50. Nc6 Nc7 51.
+Ne7 Ne6 {[#]} 52. f5 $1 Nd4 53. fxg6 Nxf3 54. h5 {White mates.} Nd4 55. g4 Ne6
+56. Nf5+ Kh8 {Accuracy: White = 73%, Black = 30%.} 57. h6 1-0
+
+[Event "GCT Paris Blitz 2019"]
+[Site "Paris"]
+[Date "2019.08.01"]
+[Round "18"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteElo "2799"]
+[BlackElo "2770"]
+[Annotator "TA"]
+[PlyCount "150"]
+[EventDate "2019.??.??"]
+[EventType "blitz"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 h6 6. c3 d6 7. Re1 O-O 8. h3 a5
+{[%emt 0:00:05] C4: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} 9.
+Nbd2 Be6 10. Bb5 Qb8 11. Nf1 $146 (11. Bxc6 bxc6 12. d4 exd4 13. cxd4 Bb4 14.
+a3 Bxd2 15. Nxd2 {1/2-1/2 (43) Giri,A (2797)-Ding,L (2809) Shenzhen 2019})
+11... Qa7 12. Be3 Bxe3 13. Nxe3 Ne7 14. a4 Rad8 15. Bc4 Bc8 16. Qc2 c6 17. Ba2
+Ng6 18. Rad1 Rfe8 19. Kh2 ({Better is} 19. d4 $11) 19... d5 20. exd5 cxd5 21.
+c4 ({White should play} 21. Kg1 $15) 21... e4 (21... d4 $17 22. Nd5 Nxd5 23.
+cxd5 Qb6) 22. dxe4 $11 dxe4 23. Rxd8 Rxd8 24. Nd2 $1 Qd4 25. Rd1 (25. Ndf1 $11
+{keeps the balance.}) 25... Qe5+ $1 $17 26. Kh1 Nf4 $1 27. c5 {[#]} (27. Ndf1 {
+might work better.} Rxd1 28. Qxd1) 27... Nd3 $2 (27... Bxh3 $1 $19 28. gxh3
+Nxh3) 28. Kg1 Qxb2 {[#]} (28... Nxb2 $17 29. Ndc4 Rxd1+ 30. Qxd1 Nxc4 31. Bxc4
+Nd7) 29. Nxe4 $1 $11 {Black must now prevent Qxb2.} Qxc2 (29... Nxe4 30. Qxb2)
+30. Nxf6+ gxf6 31. Nxc2 Rd7 32. Ne3 Nxc5 $2 {[#]} (32... Nb4 $11 {and Black
+stays safe.} 33. Bc4 Rxd1+ 34. Nxd1 Be6) 33. Rc1 (33. Nd5 $1 $18) 33... b6 $14
+34. Nd5 Rxd5 (34... Ra7 $14) 35. Bxd5 {Endgame KRB-KBN} Bd7 36. Kf1 Kf8 37. Ke2
+Ke7 38. Ke3 Bxa4 39. Rb1 b5 40. Kd4 Kd6 (40... Ne6+ $16 41. Bxe6 fxe6) 41. Bxf7
+$18 Na6 42. Ra1 Nb4 43. Kc3 Kc5 44. Rc1 Nc6 45. Kb2+ Kb6 (45... Kd6 $16 {
+is a better defense.}) 46. f4 b4 $2 (46... Nb4) 47. Be8 Bb5 {[#]} (47... Kc7
+$142 48. Ra1 Kd8 49. Bxc6 Bxc6 50. Rxa5 Bxg2) 48. Bxc6 $2 ({White has to play} 
+48. g4 $1 $18) 48... Bxc6 {KR-KB. The position is equal.} 49. g4 {Threatens to
+win with h4.} a4 50. h4 Bd5 51. g5 a3+ 52. Kc2 b3+ 53. Kc3 b2 54. Re1 hxg5 55.
+hxg5 fxg5 56. fxg5 Kb5 57. g6 Bg8 58. g7 Kc5 59. Rd1 Kc6 60. Kc2 Kb6 61. Rh1
+Kc7 62. Kb1 Bd5 63. Rg1 (63. Rh2 {is more complex.} Bf7 64. Rf2 Bg8 65. Rf1 Kc6
+66. Rh1) 63... Bg8 $1 64. Kc2 Kd6 65. Re1 Kc5 66. Kc3 Kc6 67. Rd1 Kc5 68. Kc2
+Kc4 69. Rh1 {aiming for Rh8.} Bf7 70. Rg1 Bg8 {...Bh7+ is the strong threat.}
+71. Kb1 Kb4 (71... Kb3 $5 72. Rg3+ $8 Kb4 $11) 72. Rg4+ Kb3 73. Rg3+ Kb4 74.
+Rh3 Bf7 {( -> ...Bg6+)} 75. Rh4+ Kc3 {Accuracy: White = 62%, Black = 58%.} (
+75... Kb3 $5 76. Rh3+ $8 Kb4 $11) 1/2-1/2
+
+[Event "GCT Paris Rapid 2019"]
+[Site "Paris"]
+[Date "2019.07.27"]
+[Round "1.2"]
+[White "Dubov, Daniil"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[WhiteElo "2700"]
+[BlackElo "2775"]
+[Annotator "TA"]
+[PlyCount "80"]
+[EventDate "2019.??.??"]
+[EventType "rapid"]
+
+1. c4 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Nc6 6. g3 Qb6 7. Ndb5 Ne5 8.
+Bg2 a6 {A33: Symmetrical English: 2 Nf3 Nf6 3 d4 cxd4 4 Nxd4 e6 5 Nc3 Nc6} 9.
+Na4 Qd8 10. Nd6+ Bxd6 $1 {The position is equal.} 11. Qxd6 Nxc4 12. Qc5 d5 13.
+b3 Bd7 14. bxc4 {aiming for Nb6.} Bxa4 15. Qa3 $146 ({Predecessor:} 15. cxd5
+Nxd5 16. O-O {1-0 (47) Kobo,O (2494)-Salgado Lopez,I (2629) St Petersburg 2018}
+) 15... Qd7 16. Bb2 b5 (16... dxc4 $15 {keeps the upper hand.} 17. O-O Rc8) 17.
+cxd5 $16 exd5 18. Bxf6 gxf6 19. O-O Qe7 20. Qf3 O-O 21. Qg4+ Kh8 22. Bxd5 Rad8
+23. e4 b4 24. Rac1 Bd7 25. Qf4 Bb5 26. Rc7 Qd6 27. Qxd6 $1 Rxd6 28. Rb1 a5 29.
+a3 (29. f3 $16) 29... f5 $1 $11 30. f3 fxe4 31. fxe4 f5 $1 32. axb4 Bd3 33. Re1
+axb4 34. Rb7 Re8 {Strongly threatening ...Rxd5!} 35. Bf7 Rxe4 36. Rc1 {next
+Rc8+ is good for White.} Rd8 37. Rd1 f4 38. Bb3 Red4 39. Rf7 fxg3 40. hxg3 Bb5
+{Played: Bd3-g6} 0-1
+
+[Event "GCT Paris Rapid 2019"]
+[Site "Paris"]
+[Date "2019.07.27"]
+[Round "2.1"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[WhiteElo "2765"]
+[BlackElo "2775"]
+[Annotator "TA"]
+[PlyCount "82"]
+[EventDate "2019.??.??"]
+[EventType "rapid"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. e3 c5 5. dxc5 Na6 6. a3 {E60: King's Indian:
+Unusual lines and Fianchetto Variation without Nc3} Nxc5 7. b4 Ne6 (7... Nce4
+$1 $15 8. Nd4 O-O) 8. Bb2 $14 {White is slightly better.} b6 (8... O-O 9. Be2
+a5 10. Nbd2 b6 11. O-O Bb7 12. Qb3 {1/2-1/2 (38) Aleksandrov,A (2594)-Tutisani,
+N (2460) Nakhchivan 2018}) 9. Nc3 $146 ({Predecessor:} 9. Be2 Bb7 10. O-O O-O
+11. Nbd2 d5 12. Qb3 dxc4 13. Bxc4 Bd5 14. Rfd1 b5 15. Bxd5 Qxd5 {1/2-1/2 (15)
+Rantanen, Y (2385)-Sigurjonsson,G (2485) Gausdal 1987}) 9... Bb7 10. Qb3 O-O
+11. Rd1 Rc8 12. Be2 Ne4 13. Nd5 Bxb2 14. Qxb2 Nc7 15. Nf4 (15. Nc3 {seems
+wilder.} Nxc3 16. Qxc3 Nb5 17. Qd3 Nd6 18. Rc1) 15... f6 (15... d6 {is
+interesting.} 16. O-O e6 17. Nd3 Qe7 18. Rc1 f6) 16. Nd2 Nxd2 17. Rxd2 e5 18.
+Nd5 Nxd5 19. cxd5 Qc7 20. O-O Qc3 21. e4 Qxb2 22. Rxb2 Kf7 23. a4 a6 24. a5 b5
+25. Rbb1 Rc3 26. Bg4 (26. Rfc1 $11 Rfc8 27. Rxc3 Rxc3 28. f3) 26... Ke7 $15 27.
+d6+ Kd8 28. Rfc1 (28. f3 $1 $11) 28... Rxc1+ $17 ({Stronger than} 28... Bxe4
+29. Rxc3 Bxb1 30. Rc7 $14) 29. Rxc1 Bxe4 {Endgame KRB-KRB} 30. Rc5 (30. Bd1 $17
+{is a better defense.}) 30... f5 $19 31. Bf3 Bxf3 32. gxf3 {KR-KR} Rf6 33. Rd5
+Re6 34. Kf1 Ke8 35. Ke2 Kf7 36. Ke3 g5 37. h3 h5 38. Kd3 Re8 39. Rc5 Ke6 40.
+Rc7 h4 41. Ra7 $2 {[#]} (41. Ke2) 41... Rg8 {Played: g5-g4} 0-1
+
+[Event "GCT Paris Rapid 2019"]
+[Site "Paris"]
+[Date "2019.07.27"]
+[Round "3.1"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[WhiteElo "2775"]
+[BlackElo "2775"]
+[Annotator "TA"]
+[PlyCount "70"]
+[EventDate "2019.??.??"]
+[EventType "rapid"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. Nf3 cxd4 (4... Nc6 5. dxc5 e6 6. a3 Bxc5 7. b4
+Bb6 8. Bd3 f6 9. Bb2 fxe5 10. Nxe5 Nf6 11. O-O O-O 12. Nd2 {1/2-1/2 (59)
+Rapport,R (2739)-Ponomariov,R (2682) Hengshui 2019}) 5. Qxd4 Nc6 6. Qf4 {
+B12: Caro-Kann: Advance Variation} e6 7. Bd3 Nb4 8. Nc3 {The position is equal.
+} Bd7 $146 ({Predecessor:} 8... Nxd3+ 9. cxd3 Ne7 10. Ng5 Nf5 11. Nxf7 Kxf7 12.
+g4 {1/2-1/2 (20) Stone,G (2283)-Wong,L ICCF email 2014}) 9. h4 h5 10. Qg3 (10.
+Ne2 $11) 10... Ne7 11. Nd4 Qb6 12. a3 Nxd3+ 13. Qxd3 Ng6 14. f4 Rc8 15. Nce2
+Bc5 $36 {Black has the initiative.} 16. b3 Qa6 17. Qxa6 bxa6 18. Bd2 Bb5 19.
+Nxb5 axb5 20. b4 (20. Rh3 $15) 20... Bb6 $17 21. a4 bxa4 22. Kd1 Rc4 23. Rxa4
+O-O 24. Ra2 Rfc8 25. g3 Ne7 26. Rf1 Kh7 27. Rf3 Kg6 28. f5+ (28. Rb3 $17) 28...
+Nxf5 $19 29. Nf4+ Kh7 {[#]} 30. Nxh5 (30. Nxd5 $1 {is a better defense.} Rd8 (
+30... exd5 31. Rxf5) 31. Nxb6 axb6 32. Kc1) 30... Rg4 31. Raa3 Rcc4 32. Nf4 (
+32. Rf1 {might work better.}) 32... Nd4 $1 33. Rf1 Nxc2 ({Weaker is} 33... Rxc2
+34. Ne2 $17) 34. Rd3 Nxb4 35. Rdf3 $2 {[#]} (35. Bxb4 Rxb4 36. Ke2) 35... Nc6 {
+Accuracy: White = 47%, Black = 62%.} 0-1
+
+[Event "GCT Paris Rapid 2019"]
+[Site "Paris"]
+[Date "2019.07.28"]
+[Round "4.3"]
+[White "Giri, Anish"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[WhiteElo "2779"]
+[BlackElo "2775"]
+[Annotator "TA"]
+[PlyCount "94"]
+[EventDate "2019.??.??"]
+[EventType "rapid"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 ({
+Predecessor:} 7... h6 8. Bh4 Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 {1/2-1/2 (68)
+Cernousek,L (2494)-Vykouk,J (2428) Czech Republic 2016}) 8. Qd2 Qxb2 9. Rb1 Qa3
+10. e5 h6 11. Bh4 dxe5 {B97: Sicilian Najdorf: Poisoned Pawn} 12. fxe5 Nfd7
+$146 (12... g5 13. exf6 gxh4 14. Be2 Qa5 15. O-O Nd7 16. Kh1 Qg5 17. Qe1 Nxf6
+18. Nf3 Qg7 19. Ne5 {1/2-1/2 (35) Radjabov,T (2748)-Wojtaszek,R (2744) Shamkir
+2018}) 13. Ne4 $1 {[#] Strongly threatening Be2.} Qxa2 {The position is equal.}
+14. Rd1 $1 Qd5 ({Black should play} 14... Qb2 $1 $15) 15. Qe3 $1 $11 Qxe5 {
+Hoping for ...f5.} 16. Be2 $1 Bc5 $1 {White should prevent ...0-0.} 17. Bg3 Qd5
+18. c4 Bxd4 19. Rxd4 Qa5+ 20. Rd2 $1 {Nd6+ is the strong threat.} O-O $1 {
+And now ...f5 would win.} 21. Bd6 $1 f5 22. Bxf8 Nxf8 ({Don't go for} 22...
+Kxf8 $2 {[#]} 23. Nd6 $1 $18) 23. Nd6 Nbd7 24. O-O Qc5 25. Qd4 a5 26. g4 $36 {
+White is more active.} f4 27. Rxf4 a4 (27... e5 $5 28. Qxc5 Nxc5 $11) 28. Rf1
+Qxd4+ 29. Rxd4 Nc5 30. Bf3 a3 31. Rd2 Nfd7 32. Nxc8 Rxc8 33. Bxb7 Rb8 34. Bc6
+Ne5 35. Bb5 $1 Nxg4 36. Ra2 Rd8 37. Rxa3 Rd2 38. h3 Nf6 39. Re3 Kf7 40. Rf2
+Rd1+ 41. Kh2 Ke7 42. Ra3 Nfe4 43. Ra7+ Kd6 44. Re2 Ng5 45. Rxg7 {Black must
+now prevent Kg2.} Nf3+ 46. Kg3 Nd4 47. Kf2 $2 (47. Rg2 $11 {and White is okay.}
+) 47... Nd3+ {Accuracy: White = 83%, Black = 63%.} 0-1
+
+[Event "GCT Paris Rapid 2019"]
+[Site "Paris"]
+[Date "2019.07.28"]
+[Round "5.1"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[WhiteElo "2775"]
+[BlackElo "2819"]
+[Annotator "TA"]
+[PlyCount "97"]
+[EventDate "2019.??.??"]
+[EventType "rapid"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. g3 Nxd4 7. Qxd4 g6 {
+B56: Classical Sicilian: Unusual Lines} 8. e5 (8. Bg5 Bg7 9. Qd2 O-O 10. Bg2
+Be6 11. O-O Rc8 12. Rfe1 Qa5 13. Rad1 Rfe8 14. Bxf6 Bxf6 15. Nd5 Qxa2 16. Nxf6+
+exf6 17. c3 a6 18. Re2 Bc4 19. Ree1 {0-1 (35) Movsesian,S (2629)-Caruana,F 
+(2828) chess.com INT 2019}) 8... dxe5 9. Qxd8+ Kxd8 {The position is equal.}
+10. Bg2 $146 ({Predecessor:} 10. Bc4 Bg4 11. O-O Rc8 12. Bb3 Bg7 13. f3 Bd7 14.
+Re1 e4 15. Nxe4 Nxe4 16. fxe4 {1/2-1/2 (33) Aitken,J-Kramer,H Munich 1954})
+10... Kc7 11. O-O Be6 $1 12. Re1 Nd7 13. Be3 a6 $1 14. a4 Rc8 15. a5 Bg7 16.
+Ra4 {Black must now prevent Rb4.} Kb8 17. Rb4 Rc7 18. Rd1 Rhc8 19. Bf1 {
+With the idea Bxa6.} Ka8 20. Na4 f5 ({Not} 20... Rxc2 $2 21. Rxd7 $1 Bxd7 22.
+Nb6+ Kb8 23. Nxd7+ Ka8 24. Nb6+ Kb8 25. Nxc8 $18) 21. c4 e4 22. c5 Ne5 23. Nb6+
+{Double Attack} Kb8 24. Nxc8 Kxc8 25. Rb6 $36 {White fights for an advantage.}
+Bd7 26. b4 Ba4 $1 27. Rb1 Nd3 28. Be2 Bc6 29. f3 Ne5 30. fxe4 {Hoping for b5.}
+Bxe4 31. Rd1 {Threatens to win with b5.} Bc6 32. Bf4 Bf6 (32... Rd7 $16) 33. h4
+(33. Kf2 $18) 33... Rd7 $16 {Threatening ...Rxd1+.} 34. Rxd7 Kxd7 $2 (34...
+Nxd7 $16 35. Rxc6+ bxc6) 35. b5 $18 axb5 36. Bxb5 Bxb5 37. Rxb5 Kc8 {[#]} 38.
+Bxe5 $1 Bxe5 {Endgame KR-KB} 39. c6 Bd4+ 40. Kg2 bxc6 41. Rb1 h6 $2 (41... Kc7
+{might work better.} 42. a6 Bb6) 42. a6 e5 (42... g5 $142 43. Rb7 gxh4 44. gxh4
+h5 45. Rxe7 Kb8) 43. Rb7 h5 44. Rg7 Kb8 45. Rxg6 c5 46. Kf3 c4 47. Ke2 e4 48.
+Rg5 Be5 {[#]} 49. Rxf5 {Played: g3-g4} 1-0
+
+[Event "GCT Paris Rapid 2019"]
+[Site "Paris"]
+[Date "2019.07.28"]
+[Round "6.1"]
+[White "Grischuk, Alexander"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteElo "2766"]
+[BlackElo "2775"]
+[Annotator "TA"]
+[PlyCount "78"]
+[EventDate "2019.??.??"]
+[EventType "rapid"]
+
+1. d4 Nf6 2. c4 g6 3. h4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 c5 7. d5 e6 8. h5 exd5
+{E73: King's Indian: Averbakh Variation without 6...c5} 9. exd5 (9. hxg6 fxg6
+10. cxd5 b5 11. e5 dxe5 12. Bxb5 Ba6 13. a4 Bxb5 14. axb5 Nbd7 15. Be3 a6 16.
+bxa6 {1-0 (39) Rapport,R (2680)-Baklan,V (2627) Kozloduy 2013}) 9... Re8 10. h6
+Bh8 11. Bg5 $146 ({Predecessor:} 11. Be3 Qa5 12. Qd2 Na6 13. Nh3 Bf5 14. Ng5
+Ng4 15. Bxg4 Bxg4 16. Rh4 {1-0 (35) Silva,M (2012)-Flach,K (1778) Rio de
+Janeiro 2016}) 11... Qb6 12. b3 Qa5 13. Bd2 Qd8 14. Kf1 Ne4 15. Nxe4 Rxe4 16.
+Rc1 Rh4 17. Rxh4 Qxh4 18. g3 Qd8 (18... Qh2 {feels hotter.} 19. Bg4 Nd7 20. Nf3
+Qh1+ 21. Ke2 Qxd1+ 22. Kxd1 f5) 19. Kg2 Nd7 20. Nf3 Ne5 21. Nxe5 Bxe5 22. Bd3
+Bd7 23. Qf3 f5 24. Re1 Qf6 25. b4 (25. Qe3 $11) 25... cxb4 $15 26. Bxb4 b6 ({
+Better is} 26... Qg5 $1 $15) 27. Bd2 $11 {The position is equal.} Re8 28. Qd1
+f4 29. Qf3 fxg3 (29... g5 {looks sharper.} 30. Qh5 Rf8 31. gxf4 Bxf4 32. Bxf4
+Qxf4 33. Re7 Rf6) 30. Qxf6 Bxf6 31. Rxe8+ Bxe8 32. fxg3 {Endgame KBB-KBB} Kf8
+33. g4 Ke7 34. g5 Bd4 35. Kf3 Bd7 36. Be3 Bc3 37. Bc2 Kf7 38. Be4 Bb4 39. Bd4
+Bc5 {Accuracy: White = 80%, Black = 66%.} 1/2-1/2
+
+[Event "GCT Paris Rapid 2019"]
+[Site "Paris"]
+[Date "2019.07.29"]
+[Round "7.1"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteElo "2775"]
+[BlackElo "2754"]
+[Annotator "TA"]
+[PlyCount "48"]
+[EventDate "2019.??.??"]
+[EventType "rapid"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 {C67: Ruy Lopez: Berlin Defence: 4 0-0 Nxe4}
+11. Bf4 Be7 12. Rad1 Be6 {The position is equal.} 13. Ng5 Rh6 14. Rfe1 Bb4 15.
+a3 Bxc3 16. bxc3 h4 17. Ne4 Rg6 18. g4 {[#] Bg5 is the strong threat.} hxg3 $1
+19. fxg3 {[#]} Kf8 $146 20. Kf2 Ne7 21. h4 Nd5 22. Bg5 Bf5 $1 {White must now
+prevent ...Bxe4.} 23. h5 {[#]} Nxc3 $1 24. hxg6 (24. Nxc3 Rxg5) 24... Nxe4+ {
+Accuracy: White = 60%, Black = 69%.} 1/2-1/2
+
+[Event "GCT Paris Rapid 2019"]
+[Site "Paris"]
+[Date "2019.07.29"]
+[Round "8.1"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[WhiteElo "2729"]
+[BlackElo "2775"]
+[Annotator "TA"]
+[PlyCount "46"]
+[EventDate "2019.??.??"]
+[EventType "rapid"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 a6 6. Bxd7+ Bxd7 7. Bg5 {
+B51: Sicilian: Moscow Variation (3 Bb5+) without 3...Bd7} h6 8. Bh4 Qa5+ 9. Nc3
+{The position is equal.} e5 10. Qd3 g5 11. Bg3 Nf6 12. h4 $146 ({Predecessor:} 
+12. Nd2 Rc8 13. h4 {0-1 (39) Sutovsky,E (2666)-Papa,S (2399) Geneve 2004})
+12... g4 $36 {Black has some pressure.} 13. Nd2 Rc8 14. h5 Be6 15. Bh4 Nxh5 {
+...Nf4 is the strong threat.} 16. g3 Rg8 (16... Qb6 $5 17. Nb3 Rg8 $15) 17. Nd5
+{[#]} (17. Nf1 $11) 17... f5 $1 $15 {aiming for ...fxe4.} 18. c4 (18. exf5 Qxd5
+) 18... Bxd5 19. cxd5 {[#]} (19. exd5 $142 e4 20. Qe3) 19... f4 $1 $17 20. a4 (
+20. O-O $17) 20... Qb6 21. b3 $2 (21. Qb3 Qxb3 22. Nxb3) 21... Qb4 $19 22. Kd1
+(22. Qe2 {was called for.}) 22... Rc3 23. Qe2 {If White can now play Rc1 this
+consolidates a bit.} f3 {Accuracy: White = 21%, Black = 90%.} 0-1
+
+[Event "GCT Paris Rapid 2019"]
+[Site "Paris"]
+[Date "2019.07.29"]
+[Round "9.1"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2775"]
+[BlackElo "2764"]
+[Annotator "TA"]
+[PlyCount "44"]
+[EventDate "2019.??.??"]
+[EventType "rapid"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Be7 10. c3 O-O 11. Nbd2 Bg4 12. Nxe4 dxe4 13. Qd5 {C83: Open Ruy
+Lopez: 9 c3 Be7} Qxd5 14. Bxd5 exf3 15. Bxc6 fxg2 16. Rfc1 Rab8 17. a3 (17. a4
+b4 18. cxb4 Rxb4 19. Bxg2 c5 20. Bxc5 Bxc5 21. Rxc5 Rxb2 {1/2-1/2 (37)
+Karjakin,S (2773)-Anand,V (2768) Saint Louis 2018}) 17... Be6 {The position is
+equal.} 18. b4 f6 19. Re1 Rbd8 $146 20. Bd4 {[#] Hoping for exf6.} Bd5 21.
+Bxd5+ Rxd5 22. Kxg2 fxe5 1/2-1/2
+

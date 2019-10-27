@@ -1,0 +1,37 @@
+[Event "Grand Prix Riga 2019"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Vachier-Lagrave, Maxime"]
+[Site "Riga"]
+[Round "4.1"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.07.22"]
+[WhiteElo "2765"]
+[BlackElo "2775"]
+[PlyCount "55"]
+
+1. d4 {} Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Qa4+ Qd7 {D85: Exchange Grünfeld: Unusual White 7th moves and lines with 7 Nf3} 8. Qa3 b6 9. Nf3 Bb7 {The position is equal.} 10. Bd3 0-0 11. 0-0 c5 12. Bf4 $146 { White has some pressure.} ({Predecessor:} 12. Rd1 cxd4 13. cxd4 Nc6 14. Bb2 e6 15. Rac1 {1/2-1/2 (41) Bogner,S (2599)-Vachier Lagrave,M 
+(2757) Germany 2015} )cxd4 13. cxd4 {} Nc6 14. d5 Na5 15. Rac1 {Strongly threatening Rc7.} Rfc8 16. h3 e6 17. d6 f6 18. e5 Bxf3 {[#]} 19. exf6 $1 Bxf6 {White must now prevent ...Bd5.} 20. gxf3 e5 21. Bd2 Rxc1 $2 (21... Kh8 $16 )22. Rxc1 $18 Rc8 23. Rxc8+ Qxc8 24. Kg2 ({Not} 24. Bxa5 bxa5 25. Qxa5 Qc1+ 26. Kg2 Qg5+ 27. Kf1 Qc1+ 28. Ke2 Qb2+ 29. Qd2 Qd4 $14 )Bd8 25. Be4 Qe6 $2 (25... Qc5 26. Qd3 Kg7 )26. Qd3 {[#] Hoping for
+Bd5!White is clearly winning.} Kg7 27. Bc3 Qf6 28. Kf1 {Accuracy: White = 93%,
+Black = 43%.} 1-0
+
+[Event "Xtracon Open 2019"]
+[White "Moiseenko, Alexander"]
+[Black "Korley, Kassa"]
+[Site "Helsingor"]
+[Round "4.4"]
+[Annotator "ChessBase"]
+[Result "0-1"]
+[Date "2019.07.22"]
+[WhiteElo "2628"]
+[BlackElo "2437"]
+[PlyCount "50"]
+[TimeControl "60"]
+
+1. d4 {[%emt 0:0:31]} d5 {[%emt 0:0:0]} 2. c4 {[%emt 0:0:15]} e6 {[%emt 0:0:0]} 3. Nc3 {[%emt 0:0:6]} Nf6 {[%emt 0:0:0]} 4. cxd5 {[%emt 0:3:9]} exd5 {[%emt 0:0:2]} 5. Bg5 {[%emt 0:0:5]} c6 {[%emt 0:0:12]} 6. e3 {[%emt 0:0:4]
+} Bd6 {[%emt 0:0:5]} 7. Bd3 {[%emt 0:0:22]} 0-0 {[%emt 0:0:0]} 8. Qc2 {[%emt 0:0:40]} h6 {[%emt 0:0:4]} 9. Bh4 {[%emt 0:0:3]} Re8 {[%emt 0:0:10]
+} 10. Nge2 {[%emt 0:1:37]} a5 {[%emt 0:0:9]} 11. h3 {[%emt 0:0:0]} Na6 {[%emt 0:0:3]} 12. a3 {[%emt 0:0:28]} Nc7 {[%emt 0:0:3]} 13. 0-0 {[%emt 0:3:57]} Ne6 {[%emt 0:0:5]} 14. f3 {[%emt 0:2:57]} Ng5 {[%emt 0:0:0]} 15. e4 {[%emt 0:7:20]} Nfxe4 {[%emt 0:0:25]} 16. fxe4 {[%emt 0:0:49]
+} Nxh3+ {[%emt 0:0:13]} 17. gxh3 {[%emt 0:0:6]} Qxh4 {[%emt 0:0:3]} 18. Rf2 {[%emt 0:16:41]} Bxh3 {[%emt 0:27:19]} 19. Rd1 {[%emt 0:2:54]} Re5 {[%emt 0:10:3]
+} 20. dxe5 {[%emt 0:5:32]} Bc5 {[%emt 0:0:7]} 21. Nd4 {[%emt 0:1:25]
+} Bxd4 {[%emt 0:0:9]} 22. Rdd2 {[%emt 0:0:18]} Qg3+ {[%emt 0:0:0]} 23. Kh1 {[%emt 0:0:6]} Bg4 {[%emt 0:0:22]} 24. Bf1 {[%emt 0:8:25]} Bf3+ {[%emt 0:0:38]} 25. Bg2 {[%emt 0:0:14]} Qh3+ {[%emt 0:0:49]} 0-1
+

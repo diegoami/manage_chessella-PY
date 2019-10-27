@@ -1,0 +1,41 @@
+[Event "Schachbundesliga"]
+[Site "?"]
+[Date "2018.11.24"]
+[Round "3.4"]
+[White "Braun, Arik"]
+[Black "Womacka, Mathias"]
+[Result "*"]
+[ECO "E20"]
+[WhiteElo "2581"]
+[BlackElo "2452"]
+[Annotator "Mueller,Karsten"]
+[SetUp "1"]
+[FEN "5k2/5p2/8/P7/5n2/2r3p1/R2R4/3K4 w - - 0 55"]
+[PlyCount "16"]
+[EventDate "2018.??.??"]
+[SourceTitle "1015"]
+[Source "ChessBase"]
+[SourceDate "2016.11.12"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.11.12"]
+[SourceQuality "1"]
+[WhiteTeam "Deutschland"]
+[BlackTeam "Deutschland"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+55. a6 {Rules of thumb are just that - rules of thumb. They are often a good
+guideline but sometimes only concrete calculation helps. Black to move.} {[%tqu "En","Which
+passed pawn is more important?","","","g3g2","Das spielt den Trumpf zu früh
+aus, denn nun entscheidet der a-Bauer den Tag.",0,"c3c7","",8]} Rc7 $1 {
+is necessary. The g-pawn should wait for its turn.} ({In the game Black played
+} 55... g2 $2 {but this is premature and allows White to win with the a-pawn.}
+56. Rxg2 Nxg2 57. a7 Rc8 58. Rb2 $1 {The point.} (58. a8=Q $2 Rxa8 59. Rxa8+
+Kg7 60. Ra4 Kf6 61. Ke2 Kg5 62. Kf3 Nh4+ $11) 58... Rd8+ (58... Ne3+ 59. Ke2
+Nc4 60. Rb8 Nb6 61. Rxc8+ Nxc8 62. a8=Q $18) 59. Kc1 {1-0 and Black resigned.}
+(59. Kc1 Rc8+ (59... Ne3 60. Rb8 $18) 60. Kb1 Kg7 61. Rb8 $18)) (55... Rc8 $2
+56. a7 Ra8 57. Ke1 $1 $18 {(Roman Korba)}) 56. a7 (56. Rd8+ Kg7 57. Ra3 g2 58.
+Rg3+ Kf6 59. Rd2 Ra7 60. Ra2 Nd5 61. Ke1 Nc7 62. Rc2 Nxa6 63. Ra2 Re7+ 64. Kf2
+Nc5 $11) 56... Rxa7 57. Rxa7 {Now it's time for the g-pawn to advance:} g2 58.
+Ra8+ Kg7 59. Rxg2+ Nxg2 60. Ra4 Kf6 61. Ke2 Kg5 62. Kf3 Nh4+ $11 *
+

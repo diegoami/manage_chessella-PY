@@ -1,0 +1,213 @@
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.24"]
+[Round "7.3"]
+[White "Carlsen, Magnus"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2882"]
+[BlackElo "2774"]
+[Annotator "Saravanan,V"]
+[PlyCount "67"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 0,67,19,31,14,1,42,37,58,62,44,51,51,51,51,27,9,26,21,1,-2,15,25,43,46,
+61,52,14,5,1,4,-4,32,-2,-2,-19,-23,-18,-49,-41,-18,-31,-35,-42,0,0,0,-21,-15,0,
+0,0,0,0,4,4,4,0,1,9,0,2,11,2,0,0,8,2,0,0]} 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5
+Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Qa4+ Nd7 8. Nf3 c5 (8... O-O 9. Be3 c5 10. Rc1
+Nb6 11. Qd1 Bg4 12. Be2 Bxf3 13. gxf3 cxd4 14. cxd4 {with an unclear position
+in Carlsen - Caruana, Tal Memorial 2012}) 9. Be2 O-O 10. O-O Nb6 (10... a6 11.
+Qa3 Qc7 12. e5 b6 13. Bg5 Re8 14. h4 Bb7 {with a wild position in Riazantsev -
+Nepomniachtchi, Berlin World Rapid 2015}) 11. Qa3 cxd4 12. cxd4 Bg4 13. Rd1
+Bxf3 14. Bxf3 {A novelty} (14. gxf3 {has been played before}) 14... Bxd4 15. e5
+{[%cal Re4e5] From the speed with which he played it, Carlsen seems to have
+come well armed for the game} Nc4 16. Qb4 Rc8 17. Bh6 Bxa1 18. Rxd8 Rfxd8 19.
+e6 Ne5 20. exf7+ Nxf7 21. Be3 Bd4 22. Qxe7 Re8 23. Qa3 b6 24. Bd5 Rc5 25. Bxf7+
+Kxf7 26. Qxa7+ Re7 27. Qa6 (27. Qa3 Bxe3 28. fxe3 Rce5) 27... b5 28. h3 Bxe3
+29. fxe3 Rce5 30. Qb6 R7e6 31. Qb7+ Re7 32. Qb6 R7e6 33. Qb7+ Re7 34. Qb6
+1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.24"]
+[Round "7.1"]
+[White "Ding, Liren"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[WhiteElo "2805"]
+[BlackElo "2756"]
+[Annotator "Saravanan,V"]
+[PlyCount "119"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 0,119,25,15,15,7,7,-26,16,6,21,8,-7,2,-10,11,29,12,12,-6,6,0,17,1,30,20,
+31,40,40,-7,7,-1,48,33,50,-28,-37,-41,-46,-133,-127,-127,-135,-138,-138,-131,
+-123,-121,-100,-114,-74,-161,-158,-101,-87,-115,-83,-86,-16,-16,-7,-7,-14,-7,0,
+0,0,0,-22,-41,-72,-87,-91,-96,-104,-104,-110,-130,-129,-127,-127,-127,-113,
+-113,-113,-129,-92,-139,-147,-143,-147,-152,-152,-144,-161,-182,-182,-179,-168,
+-168,-168,-168,-161,-168,-173,-170,-112,-109,-112,-105,-108,-106,-114,-100,
+-100,-99,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Be7 5. Bg2 d5 6.
+Nf3 O-O 7. O-O Nbd7 8. Qc2 c6 9. a4 a5 10. Na3 Bd6 11. Ne1 Re8 12. Nd3 e5 13.
+cxd5 e4 14. Nf4 cxd5 15. Nb5 Bb8 16. Rac1 Ra6 17. Bh3 $2 (17. Nc7 Rc6 18. Nxe8
+Rxc2 19. Nxf6+ Nxf6 20. Rxc2 Bd7 21. b3 g5 22. Nh3 h6 $15) 17... Rc6 (17... g5
+$5 18. Nxd5 Nxd5 19. Qxc8 Qxc8 20. Rxc8 Rxc8 21. Bxd7 {with a wild position})
+18. Qb3 Nb6 {[%cal Rd7b6] Svidler - "Ding is in significant amount of trouble
+here"} 19. Bxa5 $4 (19. Bxc8 Nc4 $1 20. Bxb7 Nxd2 21. Qa3 Rxc1 22. Rxc1 Bxf4
+23. gxf4 e3 $1) 19... Bxh3 20. Nxh3 (20. Rxc6 bxc6 21. Bxb6 Qxb6) 20... Qc8 (
+20... Qd7 21. Rxc6 (21. Kg2 Nc4 22. Bb4 Ng4 {[%cal Yc6h6]}) 21... bxc6 $19) 21.
+Kg2 Rxc1 (21... Nc4 $3 22. Rxc4 (22. Bc7 Nd2) (22. Bb4 Ng4 23. Rxc4 dxc4 24.
+Qc3 Rh6) 22... dxc4 23. Qa3 e3 $19 24. f3 (24. f4 Ng4) 24... Nd5) 22. Rxc1 Qxc1
+23. Bxb6 e3 24. f3 h5 $1 $19 25. Ba5 h4 26. gxh4 Qc6 (26... Ne4 $3 27. fxe4 (
+27. Qxd5 Nd2 28. Bxd2 exd2) 27... Rxe4 28. Qxd5 Rg4+) 27. Be1 (27. Qd3 Nh5)
+27... Nh5 $4 (27... Qc1 $1 28. Qc3 (28. Bg3 Bxg3 29. hxg3 Qe1) 28... Qd1 29.
+Kf1 Bxh2) 28. Bg3 Qc4 (28... Qg6 29. Ng5 Bxg3 30. hxg3 f6 31. Qxd5+) (28...
+Bxg3 29. hxg3 Qc1 30. Qb4 (30. Qc3 Qd1) 30... Rc8 (30... Qd1 31. Nc3) 31. Nc3
+Qe1) 29. Qxc4 dxc4 30. Ng5 Nf6 $2 (30... Nf4+ 31. Bxf4 Bxf4 $17) 31. Na3 Bxg3
+32. hxg3 Ra8 33. Nxc4 Rxa4 34. Nxe3 {and though black is slightly better, he
+never achieves anything significant} Rxd4 35. Kf2 Nd5 36. Nf5 Rb4 37. h5 Rxb2
+38. h6 f6 39. Ne4 gxh6 40. Nxh6+ Kf8 41. Nf5 b5 42. Ne3 Nb6 43. Ke1 b4 44. Kd1
+Na4 45. Nd5 f5 46. Nd2 b3 47. e4 fxe4 48. fxe4 Kf7 49. g4 Nc5 50. Nb4 Ke6 51.
+Kc1 Na4 52. g5 Ke7 53. Nc6+ Kf7 54. Nd4 Kg6 55. N4xb3 Ra2 56. Nf3 Nc3 57. Nbd2
+Rxd2 58. Kxd2 Nxe4+ 59. Ke3 Nxg5 60. Nxg5 1/2-1/2
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.23"]
+[Round "7.6"]
+[White "Aronian, Levon"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[ECO "B70"]
+[WhiteElo "2765"]
+[BlackElo "2743"]
+[Annotator "Saravanan,V"]
+[PlyCount "80"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 0,80,25,11,39,43,81,70,76,26,23,32,41,42,48,55,49,32,27,-5,-1,-26,-15,
+-10,-17,-31,-27,-27,-5,2,1,4,38,44,18,28,30,21,46,8,68,29,25,27,27,-2,-2,5,10,
+10,15,19,18,20,40,33,45,26,21,21,33,24,44,28,28,28,28,32,31,44,40,0,0,0,0,0,0,
+0,0,0,0,0,0]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 g6 {
+An opening surprise - Nakamura has never played this before and has almost
+always played 6...e5 here} 7. O-O Bg7 8. Re1 O-O 9. Bf1 Nc6 10. Nb3 b5 11. Bg5
+h6 12. Bh4 g5 {Black looks like taking liberties with his pawn structure on
+the kingside. Nakamura was playing the opening tentatively all through,
+indicating that his decisions were taken over the board rather than being home
+preparation} 13. Bg3 Bg4 14. f3 Be6 15. Bf2 d5 16. exd5 Nxd5 17. Nxd5 Qxd5 18.
+c3 b4 19. Nc5 Qxd1 20. Rexd1 bxc3 21. bxc3 Bf5 22. Bxa6 (22. Rac1 Ne5 23. Nxa6
+Rfc8) 22... Bxc3 23. Bb7 Nb4 24. Bxa8 Rxa8 25. a4 Bxa1 26. Rxa1 f6 27. a5 Bc8
+28. h3 Kf7 29. Rb1 Na6 30. Ne4 Rb8 31. Rc1 Bd7 32. Bd4 h5 33. Bb6 Rc8 34. Rxc8
+Bxc8 35. Nc5 Nxc5 36. Bxc5 h4 37. Bb4 Ba6 38. Bc5 Bc8 39. Bb4 Ba6 40. Bc5 Bc8
+1/2-1/2
+
+
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.23"]
+[Round "7.5"]
+[White "So, Wesley"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2776"]
+[BlackElo "2750"]
+[Annotator "Saravanan,V"]
+[PlyCount "84"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. cxd5 Nxd5 8.
+Nxd5 Qxd5 9. Be2 Qa5+ 10. Nd2 Ba6 11. O-O c5 12. Nc4 Bxc4 13. Bxc4 cxd4 14.
+exd4 Nc6 15. d5 exd5 16. Qxd5 Qxd5 17. Bxd5 Rac8 18. Rfd1 Bf6 19. Rab1 Nd4 20.
+Kf1 Rfe8 21. g3 Rc5 22. Bg2 Ne6 23. Be3 Rc2 24. Rd7 Re7 25. Rxe7 Bxe7 26. Be4
+Rc7 27. Rc1 Bc5 28. Bd2 Rd7 29. Be1 a5 30. a3 g6 31. b4 axb4 32. axb4 Be7 33.
+Rc8+ Kg7 34. Rc6 {[#]} Rd1 $1 35. Ke2 (35. Rxb6 Nd4 36. Rb7 Kf8 37. f4 f5 38.
+Rb8+ Kg7 (38... Kf7 $2 39. Bd5+ Kf6 40. Kf2) 39. Rb7 $11) 35... Rd4 36. Rxe6
+fxe6 37. Bc3 Bf6 38. Bxd4 Bxd4 39. Bc2 Kf6 40. Be4 Kg7 41. Bd3 Kf6 42. Be4 Kg7
+1/2-1/2[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.23"]
+[Round "7.4"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2778"]
+[BlackElo "2764"]
+[Annotator "Saravanan,V"]
+[PlyCount "66"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 0,66,15,11,24,33,11,24,4,2,2,-1,21,26,32,0,19,-16,20,20,21,7,35,39,30,
+30,30,29,39,2,18,25,58,-4,31,31,29,31,52,57,61,52,52,52,50,27,64,71,84,64,64,
+64,64,53,48,51,57,45,50,53,50,61,65,50,59,44,44,44,41]} 1. e4 e5 2. Nf3 Nc6 3.
+Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O h6 7. Re1 O-O 8. Nbd2 Ne7 9. d4 Bb6 10. Bb3
+Nc6 {Let us try to understand this position. Black has GIVEN up a tempo to
+provoke white into playing d3-d4. Shakh played the move after a 15 minutes of
+thought, which indicates that it was probably not home preparation} 11. Nc4
+exd4 12. Nxb6 axb6 13. Nxd4 Re8 14. Bc2 {Black has given up the bishop pair,
+foregone a tempo, and gives white a better control of the centre too, which
+means, White enjoys a slight advantage here} Bg4 15. f3 Bh5 16. c4 (16. Ba4
+Nxd4 $5 17. Bxe8 Nxf3+ 18. gxf3 Qxe8 {with compensation for black}) (16. Nb5 $5
+{with the idea of a2-a4, Bc1-f4, Qd1-d2 and Ra1-d1 looked like a better
+construction}) 16... Nxd4 17. Qxd4 Nd7 18. b3 Qf6 19. Qxf6 Nxf6 20. Bb2 (20. g4
+Bg6 21. Bb2 Nd7) 20... Nd7 21. g4 Bg6 22. Kf2 (22. h4 $142 Bh7 23. h5 $1) 22...
+Bh7 23. h4 g5 24. hxg5 hxg5 25. Rh1 Ne5 26. Kg3 Kg7 27. a4 f6 28. Bc3 Bg6 29.
+Rh2 Rf8 30. Rah1 Rfe8 31. Ra1 Rf8 32. Rah1 Rfe8 33. Ra1 Rf8 1/2-1/2
+
+
+
+[Event "7th Sinquefield Cup GCT 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.23"]
+[Round "7.2"]
+[White "Giri, Anish"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2779"]
+[BlackElo "2818"]
+[PlyCount "99"]
+[EventDate "2019.08.17"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. Bd3 dxc4 8. Bxc4
+Ba6 9. Qe2 Qc8 10. O-O Bxc4 11. Qxc4 c5 12. dxc5 Qxc5 13. Qxc5 Bxc5 14. Rac1
+Rd8 15. h3 h6 16. Bxb8 Raxb8 17. Rc2 Nd5 18. Nxd5 Rxd5 19. Rfc1 a5 20. Kf1 f5
+21. Ke2 Kf7 22. Rc4 Rbd8 23. g4 g6 24. h4 e5 25. e4 fxe4 26. Rxe4 Ke6 27. a3
+Rf8 28. Rc3 h5 29. Rc2 b5 30. b4 axb4 31. axb4 Bd6 32. Ng5+ Kd7 33. Nh7 Rf7 34.
+Ng5 Rf4 35. gxh5 gxh5 36. Rxf4 exf4 37. Ne4 Be7 38. Kf3 Bxh4 39. Nc3 Rf5 40.
+Ke4 Ke6 41. Ra2 Re5+ 42. Kxf4 Rf5+ 43. Ke4 Rxf2 44. Rxf2 Bxf2 45. Kf3 Bd4 46.
+Nxb5 Kd5 47. Nxd4 Kxd4 48. Kg3 Kc4 49. Kh4 Kxb4 50. Kxh5 1/2-1/2
+

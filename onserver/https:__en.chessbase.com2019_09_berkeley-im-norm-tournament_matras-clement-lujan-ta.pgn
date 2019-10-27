@@ -1,0 +1,45 @@
+[Event "Berkeley Summer IM Norm Tournament"]
+[Site "Berkeley Chess School, United"]
+[Date "2019.08.18"]
+[Round "5.1"]
+[White "Matras-Clement, Agnieszka"]
+[Black "Lujan, Carolina"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2260"]
+[BlackElo "2352"]
+[Annotator "Tactical Analysis 2.20 (6s)"]
+[PlyCount "81"]
+[EventDate "2019.??.??"]
+
+{[%evp 13,81,14,68,45,69,-12,-12,-7,30,-11,46,0,36,0,81,60,74,74,98,39,164,145,
+134,175,321,311,620,233,320,184,209,205,359,336,356,318,338,304,359,359,348,
+321,367,367,368,336,378,270,371,275,529,566,727,712,712,690,672,644,673,450,
+595,411,672,663,638,616,29997,29998,29998,29999]} 1. e4 d6 2. d4 Nf6 3. Nc3 g6
+4. Be3 c6 5. Qd2 b5 6. f3 Bg7 7. O-O-O b4 (7... Nbd7 $11) 8. Nce2 $14 {B07:
+Pirc Defence: Miscellaneous Systems} a5 (8... Qa5 9. Kb1 Nbd7 10. g4 Nb6 11.
+Nc1 Be6 12. Nb3 Bxb3 13. cxb3 h5 14. g5 Nfd7 15. f4 O-O {1-0 (44) Skliarov,V 
+(2360)-Rasik,V (2470) Pardubice 2019}) 9. Bh6 (9. Kb1 $14) 9... Bxh6 $11 10.
+Qxh6 {The position is equal.} Qc7 11. Kb1 (11. g4 $142) 11... Nbd7 (11... a4
+$11) 12. Nh3 a4 13. Ng5 b3 (13... Ra5 $11 {remains equal.}) 14. cxb3 $16 (14.
+axb3 $6 Qa5 $11) 14... axb3 {[#]} 15. a3 $1 (15. Qg7 bxa2+ 16. Ka1 Rf8 $15)
+15... Nb6 16. Nc1 $146 (16. Rc1 $16) 16... Na4 ({Black should play} 16... Qa7
+$14) 17. Bc4 $18 (17. Nxb3 Rb8 $17) 17... d5 18. Bxb3 {g4 is the strong threat.
+} Qb6 (18... Qa5 $142 19. Nd3 (19. Qg7 Rf8 $16) 19... Nc3+ 20. Ka1 (20. bxc3
+Qxc3 21. Ka2 Ba6 $15) 20... Nxd1 21. Rxd1 Ba6) 19. Rhe1 (19. Qg7 Rf8 $18) 19...
+c5 $2 (19... Qa5 20. Nd3 Nc3+ 21. bxc3 Qxc3) 20. dxc5 $2 (20. Qg7 Rf8 21. Bxa4+
+(21. Nxh7 Nxh7 22. Bxa4+ Rxa4 $14) 21... Rxa4 22. dxc5 (22. Nxh7 Nxh7 23. Qxh7
+cxd4 $14) 22... Qxc5 {[#]} 23. Rxd5 $1 {[%mdl 576] Deflection} Nxd5 24. Nxh7
+Nc3+ 25. bxc3) 20... Nxc5 21. Bxd5 (21. Re3 $142) 21... Nxd5 22. Rxd5 $40 {
+[%mdl 128] White has strong attack.} ({Don't take} 22. exd5 $6 Bf5+ 23. Ne4
+Rxa3 $14) 22... Ne6 $2 (22... Na4 23. Rd2 (23. Qg7 Qf6 $18) 23... Rb8) 23. Red1
+Bb7 24. Rd7 {And now Nxe6 would win.} Rb8 {( -> ...Bxe4+!)} 25. R1d2 Nxg5 26.
+Qxg5 {[%csl Gd7][%cal Rg5e7]} O-O 27. Qxe7 ({Don't do} 27. Rxe7 Ba6 $18) 27...
+Bc6 28. R7d6 Qa5 29. h4 Rfc8 30. Qf6 Ba4 31. h5 {Strongly threatening h6.} Qc7
+$2 (31... Rxc1+ 32. Kxc1 Qc5+ 33. Qc3 (33. Kb1 Qg1+ 34. Rd1 Bxd1 $11) 33...
+Qg1+ 34. Rd1 Bxd1 35. Rxd1 Qxg2 36. hxg6 hxg6) 32. Ne2 {Threatening mate with
+h6.} Bc2+ 33. Ka1 {h6 would kill now.} Bb3 34. Nc3 {White threatens h6 and
+mate.} gxh5 35. Qg5+ Kf8 36. Qh6+ Kg8 37. Qxh5 Ra8 (37... Qe7 $142 38. Qh6 Kh8)
+38. Qg5+ Kf8 39. Qf6 Qa5 40. Qh8+ {[%mdl 64] Double Attack} Ke7 41. Rd7+ {
+Accuracy: White = 52% (20/6/34), Black = 44% (14/5/33).} 1-0
+

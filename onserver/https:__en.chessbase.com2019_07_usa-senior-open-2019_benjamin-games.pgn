@@ -1,0 +1,71 @@
+[Event "US Senior Open"]
+[Site "?"]
+[Date "2019.06.29"]
+[Round "3"]
+[White "Benjamin, Joel"]
+[Black "Sana, Mariano"]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "2608"]
+[BlackElo "2193"]
+[Annotator "J. Benjamin"]
+[PlyCount "113"]
+[EventDate "2019.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 b5 6. Bb3 Be7 7. d3 d6 8. a3
+O-O 9. O-O Bg4 10. Be3 Nd4 11. Bxd4 exd4 12. Nd5 Nxd5 13. Bxd5 Rc8 14. h3 {[#]}
+Bxf3 {This gives White a small but nagging edge.} ({Possible was} 14... Bd7 $5
+15. Nxd4 Bf6 16. c3 Bxd4 17. cxd4 c6 18. Ba2 Qf6) 15. Qxf3 c6 16. Bb3 Qd7 17.
+a4 Rc7 18. Qh5 c5 19. Bd5 c4 20. axb5 axb5 21. Ra5 cxd3 22. cxd3 Ra7 23. b4 (
+23. Rxa7 Qxa7 24. Rc1) (23. Rfa1 Rxa5 24. Rxa5 Qc7 25. Ra1) (23. Bc6 Qc7 24.
+Rxa7 Qxa7 25. Bxb5 Qa2 26. Bc4 Qxb2 27. Qd5) 23... g6 (23... Rxa5 24. bxa5 Qa7
+25. Ra1 Qa6 26. Qg4 Bd8 27. h4 Bxa5 28. h5 h6 29. Qf5 Qb6 30. e5 dxe5 31. Be4)
+24. Qg4 Rb8 {[#]} 25. Qxd7 (25. Qf4 Bf8 26. Qxf7+) 25... Rxd7 26. Rc1 Bd8 27.
+Ra6 Kf8 28. Kf1 Ke7 29. Ke2 f6 30. Rcc6 Rbb7 31. Kd2 Bc7 32. Rc2 Rb6 33. Ra8
+Bb8 34. Rc6 Bc7 35. Rc8 Bd8 36. Rxb6 Bxb6 37. Rb8 Bc7 38. Rh8 Bb6 39. Bc6 Ra7
+40. Rxh7+ Ke6 41. Rxa7 Bxa7 42. Bxb5 d5 43. exd5+ Kxd5 44. Ke2 Ke5 45. Be8 g5
+46. g3 Bb8 47. Kf3 f5 48. h4 Kf6 49. Bd7 gxh4 50. gxh4 Kg6 51. Be8+ Kf6 52. h5
+Bd6 53. b5 Bc7 54. Ke2 Ke7 55. Bg6 Kf6 56. Kd1 f4 57. Ke2 1-0
+
+[Event "US Senior"]
+[Site "?"]
+[Date "2019.06.29"]
+[Round "4"]
+[White "Rademacher, Tim"]
+[Black "Benjamin, Joel"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "2193"]
+[BlackElo "2608"]
+[Annotator "TA"]
+[PlyCount "102"]
+[EventDate "2019.??.??"]
+
+{[%evp 13,102,14,66,36,61,22,38,8,41,11,81,19,46,21,76,12,37,10,42,-3,21,-13,
+34,11,51,-20,14,-26,90,71,91,67,88,6,37,-25,67,52,94,58,98,81,126,35,60,-8,20,
+-1,35,-21,-6,-68,-34,-71,-47,-67,-33,-67,-35,-101,-80,-127,-119,-119,-107,-235,
+-221,-376,-301,-396,-425,-541,-505,-564,-490,-725,-539,-1349,-1295,-1153,-694,
+-29977,-29978,-29978,-29979,-29998,-29997,-29997,-29981,-29996,-29987]} 1. d4
+Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. Bf4 O-O 6. e3 c6 7. Be2 a6 (7... Bf5 $11)
+8. O-O $14 {E61: King's Indian: Early deviations for White, including Smyslov
+System} (8. h3 b5 9. a3 bxc4 10. Bxc4 Nbd7 11. O-O Nb6 12. Ba2 Nbd5 13. Nxd5
+cxd5 14. Bg5 Rb8 15. Bxf6 Bxf6 16. Qd2 e6 {1/2-1/2 (87) Norowitz,Y (2432)
+-Dziuba,M (2602) Reykjavik 2013}) 8... b5 9. Rc1 Nbd7 10. a3 {White is
+slightly better.} bxc4 11. Bxc4 a5 $146 (11... Nh5 $11) ({Predecessor:} 11...
+Bb7 12. Re1 Nb6 13. Ba2 Nbd5 14. Bg3 Nxc3 15. bxc3 Ne4 {1-0 (49) Tsiganova,M 
+(2175)-Janjgava,N (2145) Podolsk 1990}) 12. Qe2 (12. e4 $16) 12... Nb6 13. Bd3
+$1 Be6 (13... Nh5 $11 {keeps the balance.}) 14. Ng5 (14. e4 $16) 14... Bg4 15.
+f3 Bd7 {[#] And now ...Nh5 would win.} 16. Bg3 (16. Nge4 $14 {is superior.})
+16... Nfd5 $11 17. Kh1 Nxc3 (17... e5 $11 18. Nxd5 cxd5) 18. bxc3 $14 ({
+Much weaker is} 18. Rxc3 e5 $15) 18... Rb8 19. f4 (19. Rb1 $14) 19... h6 $11
+20. Nf3 f5 (20... Na4 $11 {remains equal.}) 21. e4 $16 Qe8 22. Rfe1 e6 23. Qc2
+({Better is} 23. c4 $16) 23... c5 $11 24. dxc5 (24. Qe2 $14) 24... dxc5 (24...
+Na4 $1 $11) 25. exf5 $14 gxf5 26. Ne5 Ba4 27. Qe2 Kh7 (27... Qd8 $142) 28. c4 (
+{White should play} 28. Bh4 $16) 28... Nd7 29. Rb1 (29. Nf3 $14) 29... Nxe5 $11
+30. fxe5 Bc6 31. Qe3 (31. Bc2 $14) 31... Qe7 32. Bf2 (32. Be2 $11) 32... Rxb1
+$1 $15 33. Rxb1 Rd8 34. Be2 Rd4 35. Qg3 Rd2 $1 {[%cal Rd2e2]} 36. Bf3 {[#]} (
+36. Bh5 $15) 36... Rd3 $1 $17 37. Qf4 (37. h4 $142) 37... Bxf3 38. gxf3 Rxa3
+39. Bh4 (39. Rb5 $17) 39... Qc7 $19 40. Bg3 $2 (40. Re1 {was necessary.}) 40...
+Rd3 41. Kg2 a4 42. Qc1 Qc6 43. Qf1 Rd2+ 44. Kh3 (44. Kg1 $142 a3 45. Be1) 44...
+a3 45. f4 a2 46. Ra1 Qe4 47. Kh4 Bxe5 {Black mates.} 48. Re1 Bf6+ 49. Kh5 a1=Q
+50. Rxa1 Bxa1 51. Bh4 Qe2+ {Accuracy: White = 18%, Black = 48%.} 0-1

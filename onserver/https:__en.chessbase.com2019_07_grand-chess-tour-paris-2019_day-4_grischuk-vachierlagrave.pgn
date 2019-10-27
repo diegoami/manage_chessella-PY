@@ -1,0 +1,52 @@
+[Event "GCT Paris Blitz 2019"]
+[Site "Paris"]
+[Date "2019.07.31"]
+[Round "2"]
+[White "Grischuk, Alexander"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[ECO "E60"]
+[WhiteElo "2769"]
+[BlackElo "2799"]
+[Annotator "TA"]
+[PlyCount "97"]
+[EventDate "2019.07.26"]
+[EventType "tourn"]
+[EventCountry "FRA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,97,24,30,25,29,39,46,40,41,29,32,0,0,0,4,-3,33,-14,-30,-50,-43,-72,
+-86,-109,-109,-109,-114,-114,-111,-90,-98,-93,-123,-341,-352,-336,-366,-365,
+-352,-404,-395,-458,-466,-489,-460,-468,-447,-431,-353,-483,-477,-487,-480,
+-472,-463,-447,29979,-439,-383,-410,0,-402,-241,-515,-504,-452,-258,-211,-166,
+-167,38,-222,-53,-64,29986,29987,29987,29988,29988,29989,29989,29987,29987,
+29972,29992,29992,29996,29997,29997,29995]} 1. d4 Nf6 2. c4 g6 3. h4 (3. g3 c6
+4. Bg2 d5 5. cxd5 cxd5 6. Nf3 Bg7 7. Ne5 O-O 8. Nc3 Bf5 9. O-O Ne4 10. Bf4 Nxc3
+11. bxc3 Nc6 12. Nxc6 bxc6 13. Qa4 e6 14. Qxc6 Rc8 15. Qa4 Rxc3 16. Rfc1 Rxc1+
+17. Rxc1 Qb6 18. e3 {1/2-1/2 (39) Ding,L (2812)-Carlsen,M (2845) Shamkir 2019})
+3... Bg7 4. Nc3 d6 5. e4 Nc6 6. Nge2 {E60: King's Indian: Unusual lines and
+Fianchetto Variation without Nc3} Nh5 $146 ({Predecessor:} 6... O-O 7. h5 Nxh5
+8. Bg5 f6 9. Be3 f5 10. Qd2 Nxd4 11. Rxh5 gxh5 12. Bxd4 {0-1 (40) Williams,S 
+(2545)-Mestel,A (2473) England 2010}) 7. Bg5 O-O 8. Qd2 {White is slightly
+better.} f6 9. Be3 f5 10. exf5 Bxf5 11. f3 {Hoping for g4.} e5 $36 {[%mdl 2048]
+Black has the initiative.} 12. d5 Nd4 13. O-O-O {[%cal Re3d4]} Nxe2+ $1 14.
+Nxe2 {Strongly threatening g4.} e4 $1 15. g4 exf3 16. gxf5 {aiming for Nd4.}
+fxe2 17. Bxe2 Ng3 $1 18. fxg6 Nxh1 19. Rxh1 Qf6 20. h5 Rae8 21. h6 $2 {[#]} (
+21. gxh7+ $17 Kh8 22. Rh3) 21... Qxb2+ $1 $19 {[%mdl 512]} 22. Qxb2 Bxb2+ 23.
+Kd2 hxg6 24. Bg4 b6 25. Be6+ Kh7 26. a4 a5 27. Ke2 Be5 28. Rh4 Bc3 29. Rh3 Bb4
+30. Bd4 Bc5 31. Bg7 Rf2+ 32. Kd3 Re7 $4 {[%mdl 8192] [#]} (32... Rf4 $19 33.
+Bd7 Rd8) 33. Rg3 $4 {[%mdl 8192]} (33. Bg8+ $1 {[%mdl 512] was the only
+winning move.} Kxg8 34. h7+ Kf7 35. h8=Q Re8 36. Qh7 Ke7 37. Bd4+ {[%mdl 64]
+Discovered Attack} Kd8 38. Bxf2) 33... Bb4 34. Ke3 Bc5+ 35. Kd3 c6 (35... Rf4
+$142 36. Rh3 Re8) 36. Kc3 $2 (36. Rg4) 36... cxd5 37. cxd5 {[#]} Bb4+ (37... b5
+$142 $1 38. Rh3 (38. axb5 Ra7) 38... b4+ 39. Kb3 Re8) 38. Kc4 Bd2 39. Rh3 Rf4+
+$2 ({Black should play} 39... Re8 $19 {And now ...Rf4+ would win.} 40. Bd4 Rf4)
+40. Kb5 $2 {[%mdl 8192] [#]} (40. Kd3 $1 $14 {was forced to keep a grip.} Rxg7
+41. hxg7+ Kxg7 42. Kxd2) 40... Rb4+ $2 (40... Re8 $1 $19 41. Rd3 Bb4) 41. Kc6
+$15 {Bg8+! is the strong threat.} Bf4 $2 {[%mdl 8192] [#]} (41... Rc4+ $15 42.
+Kb5 Rb4+ 43. Kc6 Re8 44. Kxd6 Rc4) 42. Bg8+ $1 {[%mdl 576] Decoy, Promotion.
+White mates.} Kxg8 43. h7+ Kf7 44. h8=Q {[%csl Gg7][%cal Rh8f8]} Rc4+ 45. Kb5 {
+[%csl Gg7][%cal Rh8f8]} Rc5+ 46. Ka6 {[%csl Gg7][%cal Rh8f8]} Re8 47. Qh7 Ke7
+48. Be5+ Kd8 49. Bxf4 {Accuracy: White = 29%, Black = 53%.} 1-0

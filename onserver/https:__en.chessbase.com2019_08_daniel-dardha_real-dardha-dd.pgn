@@ -1,0 +1,58 @@
+[Event "TIPC 2019"]
+[Site "Roux, Belgium"]
+[Date "2019.08.01"]
+[Round "7.3"]
+[White "Real, Thibault"]
+[Black "Dardha, Daniel"]
+[Result "0-1"]
+[ECO "A65"]
+[WhiteElo "2262"]
+[BlackElo "2420"]
+[Annotator "Daniel Dardha"]
+[PlyCount "78"]
+[EventDate "2019.??.??"]
+[Source "Everyman Chess"]
+
+{[%evp 0,78,16,28,29,-16,8,43,58,45,52,55,77,80,141,68,51,48,91,40,84,63,82,70,
+67,87,74,73,86,67,51,59,41,-37,-17,-29,0,-16,-17,-73,-101,-158,-158,-149,-140,
+-162,-120,-119,-103,-142,-99,-141,-94,-117,-92,-134,-106,-116,-80,-136,-138,
+-159,-135,-251,-219,-267,-185,-188,-188,-188,-409,-409,-409,-409,-411,-411,
+-334,-330,-353,-340,-347]} 1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 {
+[%emt 0:00:03]} d6 {[%emt 0:00:05]} 6. e4 {[%emt 0:00:02]} g6 7. Nge2 {one of
+the many reply's against the benoni} Bg7 {[%emt 0:00:02]} 8. Ng3 {[%emt 0:00:
+25]} O-O {[%emt 0:00:11]} 9. Be2 {[%emt 0:00:05] there are 2 main setups for
+black here 1.Nbd7 a6 for centralizing your pieces and 2.Na6-Nc7 and trying to
+play for b5} Na6 {[%emt 0:01:57] i went for the second setup} ({The first
+setup was applied in the following game:} 9... a6 10. a4 Nbd7 11. O-O Re8 12.
+Bg5 h6 13. Be3 h5 14. Bg5 Qa5 15. f4 Qb4 $15 {1/2-1/2 (54) Mchedlishvili,M 
+(2571)-Can,E (2595) Konya 2019}) 10. O-O {[%emt 0:00:06]} Nc7 {[%emt 0:00:03]}
+11. Bg5 {[%emt 0:04:28]} h6 {[%emt 0:02:54]} 12. Be3 {[%emt 0:00:05]} Re8 {
+[%emt 0:00:23]} 13. Qd2 {[%emt 0:07:52]} Kh7 {[%emt 0:03:48]} 14. h3 $6 {
+[%emt 0:00:37] in my opinion a loss of time. Ng4 is not a real threat so it
+doesn't need to be prevented} ({better was} 14. f3 {protecting the e4 pawn
+once more in case black has any tactical ideas in mind}) 14... b5 {[%emt 0:04:
+48] now black can expand on the queenside without fear} 15. f3 {[%emt 0:05:43]
+It is clear now that 14.h3 was not necessary} Bd7 {[%emt 0:08:09]} 16. e5 $2 {
+[%emt 0:15:35] a tactical idea, but black sufficient compensation} ({a move
+like} 16. a4 {or}) (16. a3 {would have been better, to slow down black's
+expansion on the queenside}) 16... Rxe5 {[%emt 0:04:28] Probably the best reply
+} (16... dxe5 17. Nge4 $14 {white can get some activity}) 17. Bf4 {[%emt 0:00:
+23]} Nfxd5 {[%emt 0:01:16]} 18. Bxe5 {[%emt 0:00:20]} Bxe5 $17 {[%emt 0:00:04]
+black has 2 pawns for the exchange and control the black squares} 19. f4 {
+[%emt 0:30:01]} Bd4+ 20. Kh2 Ne3 21. Bf3 {giving back the exchange might be
+the most viable option, but black still stays at least a pawn up with a
+preferable position} Nxf1+ 22. Rxf1 Rc8 {[%emt 0:03:11]} 23. Nce2 {[%emt 0:04:
+22]} Bf6 {[%emt 0:03:33]} 24. Qxd6 {[%emt 0:06:06]} Ne8 {[%emt 0:01:56]} 25.
+Qd2 {[%emt 0:04:03]} Bc6 {[%emt 0:00:39] the easiest way to convert material
+advantage} 26. Qc2 {[%emt 0:13:32]} Bxf3 {[%emt 0:01:03]} 27. Rxf3 {[%emt 0:03:
+39]} c4 {[%emt 0:00:43]} 28. Ne4 {[%emt 0:00:50]} Nd6 {[%emt 0:00:53]} 29. f5 {
+[%emt 0:02:17]} g5 {[%emt 0:02:34]} 30. N2g3 {[%emt 0:03:34]} Nxe4 {[%emt 0:02:
+05]} 31. Qxe4 {[%emt 0:01:54]} Qd6 {[%emt 0:01:19]} 32. Qb7 {[%emt 0:00:38]}
+Rc7 {[%emt 0:00:47]} 33. Qxb5 {[%emt 0:00:14]} Be5 {[%emt 0:00:22][%csl Yg3]
+white has managed to restore the material balance but now there's no defence
+against h5-h4} 34. f6 {[%emt 0:06:53]} h5 {[%emt 0:00:44]} 35. Kg1 {[%emt 0:00:
+06]} Bxg3 {[%emt 0:01:14]} 36. Qxg5 {[%emt 0:03:24]} Qd4+ {[%emt 0:00:07] The
+only move but not a hard one to find} ({not} 36... Qd1+ $4 37. Rf1 Qd4+ 38. Kh1
+$18) 37. Qe3 {[%emt 0:00:06]} Qxe3+ {[%emt 0:00:08]} 38. Rxe3 {[%emt 0:00:04]}
+h4 {[%emt 0:00:05]} 39. Re7 {[%emt 0:00:28]} Kg6 {[%emt 0:00:12]} 0-1
+

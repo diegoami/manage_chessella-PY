@@ -1,0 +1,174 @@
+[Event "GCT Paris Rapid 2019"]
+[Site "Paris"]
+[Date "2019.07.29"]
+[Round "9.1"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "C83"]
+[WhiteElo "2775"]
+[BlackElo "2764"]
+[Annotator "TA"]
+[PlyCount "44"]
+[EventDate "2019.07.26"]
+[EventType "tourn"]
+[EventCountry "FRA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,44,13,13,4,12,20,15,22,12,8,28,0,0,0,0,0,4,-8,-7,-6,-8,-15,-6]} 1. e4
+e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6
+9. Be3 Be7 10. c3 O-O 11. Nbd2 Bg4 12. Nxe4 dxe4 13. Qd5 {C83: Open Ruy Lopez:
+9 c3 Be7} Qxd5 14. Bxd5 exf3 15. Bxc6 fxg2 16. Rfc1 Rab8 17. a3 (17. a4 b4 18.
+cxb4 Rxb4 19. Bxg2 c5 20. Bxc5 Bxc5 21. Rxc5 Rxb2 {1/2-1/2 (37) Karjakin,S 
+(2773)-Anand,V (2768) Saint Louis 2018}) 17... Be6 {The position is equal.} 18.
+b4 f6 19. Re1 Rbd8 $146 20. Bd4 {[#] Hoping for exf6.} Bd5 21. Bxd5+ Rxd5 22.
+Kxg2 fxe5 1/2-1/2
+
+[Event "GCT Paris Rapid 2019"]
+[Site "Paris"]
+[Date "2019.07.29"]
+[Round "9.2"]
+[White "Caruana, Fabiano"]
+[Black "Grischuk, Alexander"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2819"]
+[BlackElo "2766"]
+[Annotator "TA"]
+[PlyCount "74"]
+[EventDate "2019.07.26"]
+[EventType "tourn"]
+[EventCountry "FRA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,80,8,16,22,36,29,22,25,22,20,31,24,17,0,8,0,0,0,0,0,0,0,0,-26,27,-1,
+33,27,36,36,27,18,18,-5,-3,-8,0,0,0,0,142,-12,-12,-12,-12,-12,-11,-10,0,0,0,0,
+131,-154,62,-277,-245,-1587,-1473,-29990,-29991,-29991,-29988,-29989,-29982,
+-29992,-29993,-29993,-29994,-29997,-29998]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4.
+c3 Nf6 5. d3 d6 6. O-O a6 7. a4 {C54: Giuoco Piano: 4 c3 Nf6, main lines with
+5 d4 and 5 d3} Ba7 $146 (7... h6 8. Nbd2 O-O 9. Re1 Re8 10. Nf1 Ba7 11. Ng3 Be6
+12. Bxe6 Rxe6 13. b4 d5 14. Qb3 Qd7 15. h3 Rd8 {0-1 (76) Yu,Y (2751)
+-Harikrishna,P (2723) Shenzhen 2019}) 8. Re1 O-O 9. h3 {The position is equal.}
+Be6 10. Bxe6 fxe6 11. b4 {[%cal Bb2b4,Bb4b5][%mdl 32]} Nh5 12. Ra2 Qe8 13. Na3
+Nf4 14. Bxf4 Rxf4 15. Nc4 Qg6 16. b5 Raf8 17. Ncd2 Ne7 (17... Na5 $142) 18. d4
+Qf6 19. dxe5 dxe5 20. bxa6 bxa6 {[%cal Bb7a6,Ba6a5][%mdl 32]} 21. Qe2 a5 $1 22.
+Rf1 g5 {Threatening ...Ng6.} 23. Nc4 Ng6 {next ...g4 is good for Black.} 24.
+Nh2 {Strongly threatening g3.} (24. Nxa5 $2 g4 $19) 24... Qg7 25. Qd3 Nh4 (
+25... Rh4 $11) 26. Ng4 $2 ({Better is} 26. Nxa5 $16 g4 27. hxg4 (27. Nxg4 h5
+$17)) 26... h5 $11 27. Ngxe5 g4 $40 {[%mdl 128] Black attacks.} 28. hxg4 hxg4 {
+And now ...g3 would win.} 29. Qg3 Qg5 30. Re2 Kg7 31. Nd3 R4f6 (31... Rf3 $1
+$11 32. gxf3 Rxf3 33. Qxc7+ {[%mdl 64] Double Attack} Kh6 34. Qxa7 Rh3) 32.
+Qxc7+ $2 {[%mdl 8192]} (32. Rb2 $16 {Rb7 is the strong threat.} Ng6 33. Rb7 {
+[%mdl 64] Double Attack} (33. Qxc7+ R6f7 $16) 33... Rxf2 34. Rxf2 (34. Nxf2 $2
+Bxf2+ 35. Qxf2 Rxf2 $19) (34. Qxc7+ $2 R2f7+ {[%mdl 64] Discovered Attack} 35.
+Rxa7 Rxc7 $17) 34... Bxf2+ 35. Nxf2 Qc1+ 36. Kh2 Qh6+ 37. Nh3 gxh3 38. Rxc7+ (
+38. Qxc7+ $2 Kh8 $19) 38... Rf7 39. Rxf7+ (39. gxh3 Qc1 $16) 39... Kxf7 40.
+Qxh3 (40. Qc7+ Kg8 $16) 40... Qf4+ 41. g3 Qf2+ 42. Qg2) 32... R8f7 $2 (32...
+Kg8 $17 {( -> ...Nf3+!)} 33. Ra1 (33. Qxa5 Rf5 $19) 33... Nf3+ $1 {[%mdl 512]}
+34. Kf1 Qh4) 33. Qe5 $2 {[%mdl 8192] [#]} ({Not} 33. Qxa5 $2 Rf5 $3 $19 {
+[%mdl 512]}) (33. Qg3 $1 $14 {was the only good move.} Kg8 34. Rb1) 33... Qh6
+$1 $19 {White must now prevent ...Nf3+!} 34. Qg3 $2 (34. Nd6 Nf3+ 35. gxf3 gxf3
+36. Nxf7 Kxf7 37. Qh2 (37. Qc7+ $2 Kg8 $19) 37... Qg6+ 38. Kh1) 34... Kh8 35.
+Rb2 {[#]} Nf3+ $1 {[%mdl 512] Black mates.} 36. gxf3 gxf3 37. Rfb1 {[#]} Rg6 {
+Played: Rf7-g7} 0-1
+
+[Event "GCT Paris Rapid 2019"]
+[Site "Paris"]
+[Date "2019.07.29"]
+[Round "9.3"]
+[White "Dubov, Daniil"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2700"]
+[BlackElo "2765"]
+[Annotator "TA"]
+[PlyCount "59"]
+[EventDate "2019.07.26"]
+[EventType "tourn"]
+[EventCountry "FRA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,59,51,66,47,60,51,62,43,56,31,64,64,74,69,69,66,90,53,32,31,30,29,25,
+39,71,83,89,85,100,106,314,310,297,199,191,191,196,190,191,185,230,230,230,230,
+230,233,333,307,333,322,426,439]} 1. e4 d5 2. exd5 Qxd5 3. d4 Nf6 4. Nf3 c6 5.
+Be2 Bf5 6. O-O {B01: Scandinavian Defence} e6 7. c4 Qd8 (7... Qd6 8. Nh4 Bg6 9.
+Nc3 Be7 10. g3 O-O 11. Nxg6 hxg6 12. Bf4 {1/2-1/2 (25) Lupulescu,C (2620)
+-Laznicka,V (2654) Germany 2018}) 8. Nc3 {White is slightly better.} Be7 9. Be3
+O-O 10. Nh4 Bg6 11. Nxg6 hxg6 12. Bf3 Qa5 $146 ({Predecessor:} 12... Qc7 13.
+Rc1 Nbd7 14. a3 Rfe8 15. b4 {1-0 (41) Tuma,J (2320)-Kaderabek,J (2192) Liberec
+2010}) 13. d5 exd5 14. cxd5 Bb4 15. Qb3 $36 {[%mdl 2048] White has the
+initiative.} Bxc3 16. bxc3 Nxd5 17. Qxb7 Nxe3 18. fxe3 ({Reject} 18. Qxa8 $6
+Nxf1 19. Rxf1 Qxa2 $11) 18... Na6 19. Bxc6 Rac8 $2 {[#]} (19... Rad8 $16) 20.
+Rxf7 $1 $18 Qxc3 21. Rxf8+ Rxf8 22. Qb3+ Qxb3 23. axb3 {[%mdl 4096] Endgame
+KRB-KRN} Nb4 24. Be4 Kh7 25. Ra4 ({Don't do} 25. Rxa7 $6 Re8 $16) 25... Rb8 26.
+Kf2 ({Don't play} 26. Rxa7 $6 Re8) 26... a6 27. Ra5 Kh6 {[#]} (27... Rb6 $142
+28. Rc5 Re6) 28. Re5 $1 Rb6 29. h4 Na2 30. g4 {Accuracy: White = 72%, Black =
+38%.} 1-0
+
+[Event "GCT Paris Rapid 2019"]
+[Site "Paris"]
+[Date "2019.07.29"]
+[Round "9.4"]
+[White "Nepomniachtchi, Ian"]
+[Black "Duda, Jan-Krzysztof"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2775"]
+[BlackElo "2729"]
+[Annotator "TA"]
+[PlyCount "31"]
+[EventDate "2019.07.26"]
+[EventType "tourn"]
+[EventCountry "FRA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,125,3,14,9,13,14,29,26,27,20,36,25,33,30,25,11,28,10,19,0,0,14,32,39,
+39,34,39,41,47,45,45,38,67,46,63,47,49,49,73,57,72,66,70,50,50,40,47,47,48,44,
+44,41,40,41,45,45,42,39,51,43,50,37,50,50,51,41,41,41,41,41,41,41,58,46,41,44,
+54,33,75,75,126,124,146,143,139,141,263,263,244,244,785,692,1712,527,4137,4137,
+4137,4137,4137,4137,29976,29977,29979,29980,29980,29981,29981,29982,29982,
+29983,29983,29984,29985,29986]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5.
+Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O 8. Qd2 {C42: Petroff Defence: 3 Nxe5 and
+unusual White 3rd moves} Nd7 9. O-O-O Nf6 10. Bd3 {White has an edge.} c5 11.
+Rhe1 Be6 12. Kb1 Qa5 13. c4 Qxd2 14. Bxd2 {Hoping for Ng5.} h6 {[#]} 15. b3
+$146 ({Predecessor:} 15. Nh4 Rfe8 {1/2-1/2 (55) Carlsen,M (2835)-Caruana,F 
+(2832) London 2018}) 15... Rad8 16. h3 {Played: Bd3-f5} 1-0
+
+[Event "GCT Paris Rapid 2019"]
+[Site "Paris"]
+[Date "2019.07.29"]
+[Round "9.5"]
+[White "Giri, Anish"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2779"]
+[BlackElo "2754"]
+[Annotator "TA"]
+[PlyCount "43"]
+[EventDate "2019.07.26"]
+[EventType "tourn"]
+[EventCountry "FRA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,43,14,5,8,4,8,2,12,10,12,8,0,0,13,6,26,0,9,0,0,0,-6,-10,-7,-2,0,0,0,
+0]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1
+Nxe5 8. Rxe5 O-O 9. d4 Ne8 $146 {C67: Ruy Lopez: Berlin Defence: 4 0-0 Nxe4} (
+9... Bf6 10. Re1 Re8 11. c3 Rxe1 12. Qxe1 Ne8 13. d5 c6 14. Qd1 b6 15. Bf4 Bb7
+16. dxc6 dxc6 17. Nd2 c5 18. Nc4 Qxd1 19. Rxd1 {1/2-1/2 (40) Anand,V (2774)
+-Caruana,F (2819) Karlsruhe/Baden Baden 2019}) 10. c4 Bf6 11. Re1 d5 12. cxd5
+Qxd5 13. Be3 Be6 14. Nc3 Qd8 15. d5 Bf5 16. Bd4 Nd6 {The position is equal.}
+17. h3 a6 18. a4 Re8 {[#] aiming for ...Rxe1.} 19. Rxe8+ Nxe8 20. a5 Bxd4 21.
+Qxd4 Qe7 22. Qd2 {Accuracy: White = 64%, Black = 93%.} 1/2-1/2
+

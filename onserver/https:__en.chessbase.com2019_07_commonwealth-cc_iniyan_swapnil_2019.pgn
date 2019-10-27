@@ -1,0 +1,62 @@
+[Event "Commonwealth Open 2019"]
+[Site "Delhi"]
+[Date "2019.07.07"]
+[Round "9.3"]
+[White "Iniyan, P.."]
+[Black "Swapnil, S. Dhopade"]
+[Result "0-1"]
+[ECO "E54"]
+[WhiteElo "2525"]
+[BlackElo "2488"]
+[Annotator "Sagar Shah"]
+[PlyCount "108"]
+[EventDate "2019.06.30"]
+[EventType "swiss"]
+[EventCountry "IND"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "5400+30"]
+
+{[%evp 0,108,58,15,72,3,-13,-7,-7,-47,-33,-27,-34,5,4,17,55,36,41,35,31,14,27,
+39,37,48,33,31,25,46,31,32,38,32,25,23,16,-74,-77,43,58,49,44,64,68,68,68,68,
+69,48,58,39,39,53,49,41,43,34,30,39,47,47,50,41,40,39,46,36,36,45,53,53,48,52,
+50,16,21,16,10,27,32,-3,0,0,0,-11,0,-47,-47,-176,-191,-189,-115,-169,-170,-173,
+-157,-203,-194,-201,-192,-335,-119,-116,-138,-114,-114,-114,-122,-219,-114]} 1.
+d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:14]} 2. c4 {[%emt 0:00:06]} e6 {[%emt 0:00:
+04]} 3. Nc3 {[%emt 0:00:05]} Bb4 {[%emt 0:00:07]} 4. e3 {[%emt 0:00:07]} O-O {
+[%emt 0:01:27]} 5. Bd3 {[%emt 0:00:26]} d5 {[%emt 0:00:12]} 6. Nf3 {[%emt 0:00:
+06]} dxc4 {[%emt 0:00:10]} 7. Bxc4 {[%emt 0:00:26]} c5 {[%emt 0:00:06]} 8. O-O
+{[%emt 0:00:05]} Nc6 {[%emt 0:00:03]} 9. a3 {[%emt 0:00:23]} Ba5 {[%emt 0:00:
+04]} 10. h3 {[%emt 0:00:35]} Qe7 {[%emt 0:10:11]} 11. Qc2 {[%emt 0:05:36]} cxd4
+{[%emt 0:23:38]} 12. exd4 {[%emt 0:00:10]} Rd8 {[%emt 0:03:02]} 13. Rd1 {
+[%emt 0:02:15]} Bb6 {[%emt 0:04:17]} 14. Be3 {[%emt 0:02:00]} h6 {[%emt 0:00:
+11]} 15. Rac1 {[%emt 0:02:13]} Bd7 {[%emt 0:00:41]} 16. Ba2 {[%emt 0:09:34]}
+Rac8 {[%emt 0:01:07]} 17. Bb1 {[%emt 0:03:41]} Be8 {[%emt 0:11:42]} 18. d5 {
+[%emt 0:03:08]} Bxe3 {[%emt 0:03:03]} 19. fxe3 {[%emt 0:00:49]} exd5 {[%emt 0:
+14:07]} 20. Nxd5 {[%emt 0:00:27]} Rxd5 {[%emt 0:00:37]} 21. Rxd5 {[%emt 0:00:
+07]} Qxe3+ {[%emt 0:00:06]} 22. Kh1 {[%emt 0:00:03]} Qxc1+ {[%emt 0:02:15]} 23.
+Qxc1 {[%emt 0:00:05]} Nxd5 {[%emt 0:00:02]} 24. Qc2 {[%emt 0:01:16]} Nf6 {
+[%emt 0:00:10]} 25. Kh2 {[%emt 0:01:46]} Bd7 {[%emt 0:01:15]} 26. Qf2 {[%emt 0:
+03:26]} Be6 {[%emt 0:00:33]} 27. b4 {[%emt 0:00:50]} a6 {[%emt 0:07:24]} 28.
+Qb6 {[%emt 0:00:26]} Rb8 {[%emt 0:00:04]} 29. Nh4 {[%emt 0:00:42]} Nd5 {
+[%emt 0:00:41]} 30. Qc5 {[%emt 0:00:57]} Nde7 {[%emt 0:00:49]} 31. Qc2 {
+[%emt 0:01:11]} g6 {[%emt 0:00:12]} 32. Qc1 {[%emt 0:03:32]} Kh7 {[%emt 0:01:
+07]} 33. Be4 {[%emt 0:00:11]} Rd8 {[%emt 0:00:27]} 34. Nf3 {[%emt 0:01:48]} Bf5
+{[%emt 0:06:53]} 35. Qc4 {[%emt 0:03:45]} Bxe4 {[%emt 0:02:00]} 36. Qxe4 {
+[%emt 0:01:25]} Nd5 {[%emt 0:03:00]} 37. h4 $2 {[%emt 0:01:06] During the game
+Iniyan felt that this move was a mistake. It overstretched his position and
+made his g4 square weak. Swapnil managed to keep his calm and ensured that he
+made no mistakes.} h5 {[%emt 0:00:39]} 38. Qc2 {[%emt 0:01:58]} Kg8 {[%emt 0:
+01:33]} 39. Qb2 {[%emt 0:01:53]} Rd7 {[%emt 0:00:55]} 40. Qd2 {[%emt 0:02:42]}
+Nf6 {[%emt 0:00:14]} 41. Qf4 {[%emt 0:00:08]} Ng4+ {[%emt 0:01:36]} 42. Kg3 {
+[%emt 0:00:09]} Ne7 {[%emt 0:00:42]} 43. Qb8+ {[%emt 0:03:37]} Kg7 {[%emt 0:00:
+02]} 44. a4 $2 {[%emt 0:03:43]} (44. Ne5 $13) 44... Nf5+ $1 $17 {[%emt 0:00:06]
+Black is now clearly better.} 45. Kf4 {[%emt 0:00:04]} Re7 {[%emt 0:02:12]} 46.
+Qd8 {[%emt 0:01:28]} Nf6 {[%emt 0:01:51]} 47. Ne5 {[%emt 0:01:33]} Nxh4 {
+[%emt 0:00:18]} 48. Qd4 {[%emt 0:02:08]} Nf5 {[%emt 0:00:15]} 49. Qb2 {[%emt 0:
+00:06]} Nd5+ {[%emt 0:00:54]} 50. Ke4 {[%emt 0:01:10]} f6 {[%emt 0:00:26]} 51.
+Kxd5 {[%emt 0:00:05]} Rxe5+ {[%emt 0:00:04]} 52. Kc4 {[%emt 0:00:05]} b5+ {
+[%emt 0:01:01]} 53. axb5 {[%emt 0:00:06]} axb5+ {[%emt 0:00:04]} 54. Kb3 {
+[%emt 0:00:21]} Re3+ {[%emt 0:01:20]} 0-1
+

@@ -1,0 +1,71 @@
+[Event "Commonwealth Open 2019"]
+[Site "Delhi"]
+[Date "2019.07.06"]
+[Round "8.5"]
+[White "Tania, Sachdev"]
+[Black "Iniyan, P.."]
+[Result "0-1"]
+[ECO "E81"]
+[WhiteElo "2401"]
+[BlackElo "2525"]
+[Annotator "Sagar Shah"]
+[PlyCount "120"]
+[EventDate "2019.06.30"]
+[EventType "swiss"]
+[EventCountry "IND"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "5400+30"]
+
+{[%evp 0,120,35,29,29,0,54,46,37,37,48,13,15,-2,-4,-14,29,25,29,33,47,22,60,49,
+71,90,69,75,72,61,79,69,86,73,65,72,57,67,101,79,92,93,56,17,-6,0,0,0,34,0,0,0,
+0,0,6,11,10,16,1,-5,0,3,0,-19,-8,-8,-16,-17,-17,-15,-37,-43,-43,-60,-67,-75,
+-75,-80,-75,-32,-8,-99,-107,-100,-102,-127,-106,-108,-100,-131,-94,-98,-107,
+-89,-105,-115,-119,-91,-94,-97,-97,-97,-102,-137,-102,-201,-165,-201,-182,-245,
+-252,-296,-296,-296,-302,-507,-517,-507,-527,-824,-1002,-1011,-1011]} 1. d4 {
+[%emt 0:00:35]} Nf6 {[%emt 0:00:15]} 2. c4 {[%emt 0:00:04]} g6 {[%emt 0:00:05]}
+3. Nc3 {[%emt 0:00:03]} Bg7 {[%emt 0:00:07]} 4. e4 {[%emt 0:00:05]} d6 {
+[%emt 0:00:05]} 5. f3 {[%emt 0:00:04]} O-O {[%emt 0:00:06]} 6. Nge2 {[%emt 0:
+00:04]} c5 {[%emt 0:00:07]} 7. d5 {[%emt 0:00:04]} e6 {[%emt 0:00:05]} 8. Ng3 {
+[%emt 0:00:09]} exd5 {[%emt 0:00:06]} 9. cxd5 {[%emt 0:00:02]} a6 {[%emt 0:00:
+37]} 10. a4 {[%emt 0:00:05]} h5 {[%emt 0:00:05]} 11. Bg5 {[%emt 0:00:26]} Qb6 {
+[%emt 0:00:43]} 12. Qd2 {[%emt 0:00:20]} Nh7 {[%emt 0:00:06]} 13. a5 {[%emt 0:
+03:11]} Qc7 {[%emt 0:00:53]} 14. Bh6 {[%emt 0:04:31]} Bxh6 {[%emt 0:03:23]} 15.
+Qxh6 {[%emt 0:00:05]} b5 {[%emt 0:04:04]} 16. axb6 {[%emt 0:03:42]} Qxb6 {
+[%emt 0:00:42]} 17. Rb1 {[%emt 0:15:52]} Nd7 {[%emt 0:06:41]} 18. Be2 {[%emt 0:
+00:18]} c4 {[%emt 0:10:14]} 19. Bxc4 {[%emt 0:01:46]} Ne5 {[%emt 0:00:25]} 20.
+Be2 {[%emt 0:00:04]} f5 {[%emt 0:02:41]} 21. exf5 {[%emt 0:17:14]} Bxf5 {
+[%emt 0:00:09]} 22. Nxf5 {[%emt 0:00:13]} Rxf5 {[%emt 0:01:36]} 23. Qd2 {
+[%emt 0:00:44]} Nf6 {[%emt 0:01:55]} 24. Rd1 {[%emt 0:18:45]} Rc8 {[%emt 0:10:
+02]} 25. Na4 {[%emt 0:04:28]} Qb3 {[%emt 0:01:00]} 26. Nc3 {[%emt 0:00:04]} Nc4
+{[%emt 0:16:44]} 27. Bxc4 {[%emt 0:07:23]} Qxc4 {[%emt 0:00:07]} 28. Qd4 {
+[%emt 0:02:34]} Qb3 {[%emt 0:14:15]} 29. O-O {[%emt 0:03:56]} Qxb2 {[%emt 0:01:
+25]} 30. Ne4 {[%emt 0:00:39]} Qxd4+ {[%emt 0:00:48]} 31. Rxd4 {[%emt 0:00:03]}
+Nxe4 {[%emt 0:00:08]} 32. fxe4 {[%emt 0:00:06]} Rxf1+ {[%emt 0:00:08]} 33. Kxf1
+{[%emt 0:00:01]} a5 {[%emt 0:00:07]} 34. Ra4 {[%emt 0:01:48]} Rc5 {[%emt 0:00:
+05]} 35. Kf2 {[%emt 0:00:49]} Kf7 {[%emt 0:00:05]} 36. Ke3 {[%emt 0:00:18]} Kf6
+{[%emt 0:00:09]} 37. Kd4 {[%emt 0:01:47]} Rb5 {[%emt 0:01:31]} 38. Kc4 {
+[%emt 0:04:25]} Rc5+ {[%emt 0:00:16]} 39. Kd4 {[%emt 0:00:06]} Rb5 {[%emt 0:00:
+02] Another interesting position from Tania's game. Here it seems as if Black
+is threatening Rb4+ and hence Tania played her king to c4. Turns out that this
+makes her position very difficult.} 40. Kc4 {[%emt 0:00:08]} (40. h4 $1 {
+The advantage of this move is that when the rook goes to b2, White pawns are
+not easy to win.} Rb4+ {It seems as if White will lose after this, but it is
+not the case.} 41. Rxb4 axb4 42. e5+ $1 (42. g3 b3 43. e5+ $1 {also works.})
+42... dxe5+ 43. Kc4 e4 44. Kxb4 Ke5 45. Kc4 {And here White is just in time to
+hold the draw.}) 40... Rb2 $1 {[%emt 0:00:05]} 41. g3 {[%emt 0:05:46]} (41.
+Rxa5 Rxg2 42. h3 {White has decent drawing chances, but he has to be accurate.}
+) 41... Ke5 {[%emt 0:01:54]} 42. Rxa5 {[%emt 0:00:27]} Kxe4 {[%emt 0:00:06]}
+43. Ra6 {[%emt 0:04:37]} Ke5 {[%emt 0:00:06]} 44. Ra8 {[%emt 0:01:03]} Rc2+ {
+[%emt 0:00:08]} 45. Kd3 {[%emt 0:00:48]} Rxh2 {[%emt 0:05:04]} 46. Rg8 {
+[%emt 0:00:23]} Kf5 {[%emt 0:04:03]} 47. Rf8+ {[%emt 0:01:36]} Kg5 {[%emt 0:01:
+21]} 48. Rd8 {[%emt 0:00:37]} Rh3 {[%emt 0:00:09]} 49. Rxd6 {[%emt 0:00:32]}
+Rxg3+ {[%emt 0:00:34]} 50. Ke4 {[%emt 0:00:55]} Rg4+ {[%emt 0:00:27]} 51. Ke3 {
+[%emt 0:00:46]} Rg3+ {[%emt 0:01:31]} 52. Kf2 {[%emt 0:00:33]} h4 {[%emt 0:01:
+19]} 53. Rd8 {[%emt 0:00:19]} Kg4 {[%emt 0:00:13]} 54. d6 {[%emt 0:00:17]} Rd3
+{[%emt 0:00:19]} 55. d7 {[%emt 0:01:05]} g5 {[%emt 0:00:05]} 56. Ke2 {[%emt 0:
+00:06]} Rd5 {[%emt 0:00:07]} 57. Ke3 {[%emt 0:01:02]} h3 {[%emt 0:00:45]} 58.
+Ke4 {[%emt 0:00:31]} Rd1 {[%emt 0:00:27]} 59. Ke3 {[%emt 0:00:18]} h2 {[%emt 0:
+00:19]} 60. Rh8 {[%emt 0:00:09]} Kg3 {[%emt 0:00:05] Kd4} 0-1
+

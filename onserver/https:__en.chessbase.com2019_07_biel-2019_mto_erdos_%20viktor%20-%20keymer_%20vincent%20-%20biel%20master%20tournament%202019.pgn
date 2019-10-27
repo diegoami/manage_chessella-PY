@@ -1,0 +1,32 @@
+[Event "Biel Master Tournament 2019"]
+[Site "Biel"]
+[Date "2019.07.28"]
+[Round "6"]
+[White "Erdos, Viktor"]
+[Black "Keymer, Vincent"]
+[Result "1/2-1/2"]
+[ECO "D41"]
+[WhiteElo "2603"]
+[BlackElo "2513"]
+[Annotator "Saravanan,V"]
+[SetUp "1"]
+[FEN "4r1k1/p1Q2pp1/1p3n1p/3b4/4q3/1B3N1P/P4PP1/4R1K1 b - - 0 23"]
+[PlyCount "70"]
+[EventDate "2019.07.20"]
+[EventType "swiss"]
+[EventCountry "SUI"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[#][Diagram] Black could probably have defended the position with 23...Qf5
+here, but Keymer showed some creativity here:} 23... Qxf3 $5 24. gxf3 (24.
+Rxe8+ $4 Nxe8 $19 {as the white queen is attacked too}) 24... Rxe1+ 25. Kg2
+Bxb3 26. axb3 g6 {and black went on to hold the game, as white doesn't have
+any breaks and the lone Queen can't do much against black's embargo with the
+knight and rook:} 27. f4 Re6 28. Qxa7 Nh5 29. Qc7 Ng7 30. Qd8+ Kh7 31. Kf1 Nh5
+32. f5 gxf5 33. Qf8 Kg6 34. Qg8+ Ng7 35. h4 h5 36. Qd8 Kh7 37. Qg5 Kg8 38. Qd8+
+Kh7 39. Qc7 Kg6 40. b4 Ne8 41. Qg3+ Kh7 42. Qf3 Ng7 43. Qb7 Kg6 44. Qg2+ Kh7
+45. Qb7 Kg6 46. b5 Ne8 47. Qb8 Ng7 48. f3 Kh7 49. Kf2 Kg6 50. Kg3 Kh7 51. Kf4
+Kg6 52. Qa7 Ne8 53. Qa1 Ng7 54. Qb1 Kh7 55. Kg5 Rg6+ 56. Kf4 Re6 57. Qd1 Kg6
+58. Qg1+ 1/2-1/2

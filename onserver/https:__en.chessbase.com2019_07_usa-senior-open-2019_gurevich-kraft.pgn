@@ -1,0 +1,45 @@
+[Event "Senior Open"]
+[Site "?"]
+[Date "2019.06.30"]
+[Round "6"]
+[White "Gurevich, Dm"]
+[Black "Kraft, C."]
+[Result "1-0"]
+[ECO "E94"]
+[Annotator "DG"]
+[PlyCount "129"]
+[EventDate "2019.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Na6 7. O-O e5 8. Re1 {
+[#]} Bg4 (8... c6 {Main line}) (8... Qe8 $5) 9. Be3 exd4 10. Nxd4 Bxe2 11. Qxe2
+Nc5 12. f3 {[#]} a5 $146 (12... Nh5 13. Rad1 Qh4 14. Qd2) (12... c6 13. Rad1 (
+13. b4 Ne6) 13... Nfd7 14. b4 {[#]} Qe7 $5) (12... Nfd7 $5) 13. Rad1 (13. Ndb5
+Nfd7 14. Rad1) 13... Nfd7 (13... Re8 14. Qf2) ({The problem is, Black has no time
+for} 13... c6 {on account of} 14. Nxc6 bxc6 15. Bxc5) 14. Ndb5 $1 Re8 15. Qf2 (
+15. Qd2 Re6 16. Bf2) (15. Nd5 Na6 16. b3) 15... b6 $6 (15... a4 16. Bd4) 16.
+Nd5 $5 (16. Bd4 $5) 16... Na6 (16... c6 $5 17. Nxd6 cxd5 18. Nxe8 Qxe8 19. cxd5
+(19. exd5 Qd8) 19... Qe7 20. g3 g5 $5) 17. Bd4 {[#]} (17. h4) (17. a3 a4 (17...
+c6 $2 18. Nxb6) 18. h4 $5) 17... Bxd4 (17... Bf8 $5 18. Nbc3 (18. Nf4 Nac5)
+18... Nac5 19. b3 c6 $5) 18. Nxd4 Kg7 (18... Nb4 19. Nc3 (19. Nxb4 axb4 20. Nc6
+Qg5 21. Nxb4 Qc5 22. a3 Qxf2+ 23. Kxf2) 19... Ne5 20. Re2 Nxc4 21. a3 Na6 22.
+Nd5 $18) 19. Nc6 {[#]} (19. a3 $5 Nab8 (19... Qg5 20. b4) 20. f4 $40) 19... Qg5
+$2 {Now Black loses material} (19... Qc8 20. a3 $16) 20. h4 (20. f4 $1 Qg4 (
+20... Qh5 21. Rd3) 21. h3 Qh5 22. e5 $18) 20... Qh6 (20... Qh5 $2 21. g4 Qh6
+22. g5 Qh5 23. Nf4) 21. Qd4+ f6 {[#]} 22. Nxc7 $1 Nxc7 23. Qxd6 Ne6 24. Qxd7+
+Kh8 {[#]} (24... Kg8 25. Ne7+) 25. g3 (25. Ne7 Ng7 26. Nd5) (25. e5 f5 26. Qf7
+Qxh4 27. Qf6+ Qxf6 28. exf6 Kg8 29. Rd7) 25... g5 $5 {[#]In a bad position all
+the moves are bad, but Black is fighting until the end.} 26. Ne7 (26. hxg5 Qxg5
+27. Kg2 Nf4+ 28. Kf2 Qc5+ 29. Qd4) 26... Nc5 (26... Qf8 27. Nf5 gxh4 28. Nxh4)
+(26... gxh4 27. Qxe6 hxg3 28. Re2 $18) 27. Nf5 Nxd7 (27... Qg6 28. Qd6 $1) 28.
+Nxh6 Ne5 (28... gxh4 29. gxh4) 29. Kf2 gxh4 (29... Nxc4 30. hxg5 fxg5 31. Re2
+Kg7 32. Nf5+) 30. gxh4 (30. f4 hxg3+ 31. Kxg3 Nxc4 32. Rd7) 30... Nxc4 31. Nf7+
+(31. f4 Kg7 32. Nf5+ Kh8 33. b3 Na3 34. Rd6) (31. Rd7 Ne5 32. Rg1 Rf8 33. Rb7)
+31... Kg7 (31... Kg8 32. Rd7 Kf8 33. Nh6 Re7 34. Rd4) 32. Rd7 Kf8 33. Nd6 (33.
+Nh6 Re7 34. Rd4 Nxb2 $2 35. Rb1) 33... Ne5 $5 34. Rxh7 Kg8 (34... Nd3+ 35. Ke2
+Nf4+ 36. Ke3 Ng2+ 37. Kf2 Nxe1 38. Nxe8 Nd3+ 39. Ke3) 35. Rh6 (35. Rh5 $2 Nd3+
+36. Kf1 Re6) 35... Nd3+ 36. Ke2 {[#]} Nxe1 37. Nxe8 Rxe8 38. Kxe1 Kg7 (38... f5
+39. Rxb6 fxe4 40. Ke2 $18) 39. Rh5 $18 Re6 40. Rb5 Kf7 41. Kf2 Kg7 42. Kg3 Kf7
+43. Kf4 Kg6 44. a4 Rc6 45. b3 Rd6 46. Ke3 Kf7 47. f4 Ke7 48. Kf3 Kf7 49. Kg4
+Kg6 50. Rd5 Rc6 51. f5+ Kh6 52. Rd7 Rc3 53. Rd6 Rxb3 54. Rxf6+ Kg7 55. Rg6+ Kh7
+56. Kf4 Rb4 57. h5 Rxa4 58. Rxb6 Ra1 59. Kg5 a4 60. Rb7+ Kg8 61. Ra7 a3 62. Kg6
+Kf8 63. Kf6 Ke8 64. e5 a2 65. e6 1-0

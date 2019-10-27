@@ -1,0 +1,32 @@
+[Event "10th Hainan Danzhou GM 2019"]
+[Site "Danzhou"]
+[Date "2019.07.05"]
+[Round "5.3"]
+[White "Inarkiev, Ernesto"]
+[Black "Rapport, Richard"]
+[Result "0-1"]
+[ECO "E12"]
+[WhiteElo "2693"]
+[BlackElo "2735"]
+[Annotator "TA"]
+[SetUp "1"]
+[FEN "5r2/p2Q2bk/1p4p1/7p/4r3/P3B3/1PR1KPq1/3R4 w - - 0 43"]
+[PlyCount "26"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,110,19,31,14,1,-3,6,27,38,19,25,35,29,41,-2,28,22,26,43,23,21,21,12,
+12,19,49,15,19,11,-4,-22,-25,-34,-62,-54,-66,-47,-90,-81,-87,-82,-99,-91,-73,
+-99,-99,-91,-88,-128,-113,-182,-114,-151,-94,-116,-116,-116,-135,-132,-132,
+-134,-159,-117,-92,-117,-124,-137,-84,-120,-128,-465,-382,-401,-370,-370,-421,
+-494,-170,-170,-187,-187,-164,-246,-253,-443,-529,-562,-224,-717,-646,-623,
+-400,-442,-412,-412,-412,-437,-498,-767,-498,-498,-343,-346,-422,-569,-581,
+-581,-596,-689,-692,-712,-700] } 43. Kd3 Qf3 $2 (43... Re5 44. Rc3 Rd5+ {
+Discovered Attack} 45. Kc2 Qe4+ 46. Kc1 Rxd7 47. Rxd7 Kg8 48. Rxa7 Bf6) 44.
+Rdc1 $2 {This was the last straw. Black transitioned into an endgame with
+queen against rook and bishop that was easily won with the help of his g- and
+h-pawns:} (44. Kd2 {The king can try to hide somewhere in the corner, although
+it looks like prolonged suffering.}) 44... Rd4+ 45. Qxd4 Bxd4 46. Kxd4 Rd8+ 47.
+Kc4 Rc8+ 48. Kd3 Rd8+ 49. Kc4 Rc8+ 50. Kd3 $1 Rxc2 {Black is clearly winning.}
+51. Rxc2 {Endgame KQ-KRB} g5 52. Kd2 h4 53. Rc7+ Kg6 54. Rc8 h3 55. Bd4 {[#]}
+Qe4 0-1
+

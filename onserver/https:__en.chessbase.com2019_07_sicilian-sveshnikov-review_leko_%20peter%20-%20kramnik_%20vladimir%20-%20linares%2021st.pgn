@@ -1,0 +1,72 @@
+[Event "Linares 21st"]
+[Site "Linares"]
+[Date "2004.03.02"]
+[Round "11"]
+[White "Leko, Peter"]
+[Black "Kramnik, Vladimir"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2722"]
+[BlackElo "2777"]
+[Annotator "Rogozenco,D"]
+[PlyCount "72"]
+[EventDate "2004.02.19"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "20"]
+[SourceTitle "CBM 100"]
+[Source "ChessBase"]
+[SourceDate "2004.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.06.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bd3 Be6 12. O-O Bxd5 13. exd5 Ne7 14. Qh5 e4
+15. Be2 Bg7 16. c3 Rc8 $146 {In this concrete situation this move is a novelty.
+Kramnik transfers the rook to c5 before castling.} (16... O-O 17. Nc2 Rc8 (
+17... f4 18. Qg5 {is the main line, where White keeps a slight plus}) 18. Ne3 (
+18. Rad1 Rc5 19. Ne3 f4 20. Nf5 Ng6 21. Rfe1 Re8 22. f3 e3 23. Bd3 $14 {
+/= 1/2-1/2 Shirov,A-Grischuk,A/Cap d'Agde 2003 (47).}) 18... f4 19. Nf5 Ng6 (
+19... Rc5 {would transpose to the Leko-Kramnik game!}) 20. f3 e3 21. g3 b4 {
+and Black had good play in Sadvakasov,D-Eljanov,P/Kharkov 2003.}) (16... b4 {
+is an old move first played by Sveshnikov in 1982 and then rediscovered by
+Leko in 2003. There are just two games available with it.}) 17. Nc2 Rc5 18. Ne3
+(18. Rad1 $2 Nxd5) (18. f3 {The plan with f3 is less impressive when the
+bishop left the diagonal b1-h7.} O-O 19. fxe4 fxe4 20. Ne3 Qb6 21. Kh1 Rxc3 22.
+bxc3 Qxe3 $13) 18... f4 19. Nf5 O-O (19... Nxf5 $2 20. Qxf5 $16) 20. a4 $14 (
+20. Rad1 Ng6 {transposes to Shirov-Grischuk, given above.}) 20... Nxf5 (20...
+b4 21. cxb4 Rc2 22. Bxa6 $16) (20... Nxd5 {this is risky, but not entirely
+clear:} 21. b4 (21. axb5 Qf6 $1 $13) 21... Rxc3 22. Nxg7 f3 23. Nf5 Qf6 $44)
+21. Qxf5 Qe7 22. axb5 axb5 23. Qxf4 Rxd5 24. Rfd1 {White is better thanks to
+weaknesses in Black's pawn structure. Even if the position has drawish
+tendencies, Blac's task might be unpleasant. The only chance for Black to
+avoid a long suffering is to create some counterplay on the kingside.} Re5 (
+24... Rxd1+ 25. Rxd1 b4 26. cxb4 $14 Be5 27. Qf5 Bxb2 28. b5 $16) 25. Qe3 {
+After a long thought Leko comes with an interesting plan. He allows Black to
+have the initiative on the kingside, but considers that it won't fully
+compensate the loss of a pawn.} (25. Ra6 $5) 25... f5 26. Qb6 {The logical
+follow-up of the previous move.} f4 27. Qxd6 Qg5 28. f3 e3 29. Ra7 Kh8 30. Qd7
+$2 {The completely wrong plan, missing some counterplay ideas.} (30. Rd7 $1 Rg8
+31. Bd3 {It is not easy for Black to create counterplay as long as White keeps
+pressure on pawn h7. Besides, White is very well centralized and keeps
+everything under control. Everywhere the position is close to draw, but the
+same thing - Black faces unpleasant defence. However, according to Kramnik
+Black always had a good position in the game.} e2 (31... Qh4 $2 32. Rxg7 $18)
+32. Re1 Qh4 33. Rxe2 Rxe2 34. Bxe2 Qe1+ 35. Bf1 Qe3+ 36. Kh1 Qf2 37. Qd3 Qxb2
+38. Rc7 $16) 30... Rg8 31. Qh3 $2 {A terrible mistake, which unexpectedly
+completely changes the evaluation from slightly better to almost lost.} (31.
+Kh1 {was necessary. Then the postion is unclear:} Qg6 32. Bd3 Qh5 $13) 31...
+Qg6 $1 {Now suddenly Black obtains a strong initiative. It turns out that the
+queen on h3 is not stable (Black has ...Rh5), while the weaknesses of the
+light squares on the queenside can be exploited by Black.} 32. Rad7 {Black
+wins by force after this, but the position was difficult anyway.} (32. Bd3 e2
+$19) (32. Rd3 Rh5 33. Qg4 Rg5 34. Qh3 Bf8 $19) (32. Kh1 Qc2 (32... Rh5 33. Qg4
+Rg5 34. Qh3 Bf8 35. Bd3) 33. Re1 Rd5 $17) (32. Raa1 Rh5 (32... Qc2 33. Bd3 Qf2+
+34. Kh1 h6 35. Ra6 h5 36. Bf5 h4 37. Qg4 $18) 33. Rd6 Bf6 34. Rxf6 Rxh3 35.
+Rxg6 Rxg6 36. Ra8+ Kg7 37. Ra7+ Kf8 (37... Kh6 38. Bd3 Rxf3 $140 39. Bxg6 e2
+40. Ra1) 38. Ra8+ Ke7 39. Ra7+ Kd8 $17) (32. Rc1 Rh5 33. Ra6 Bf6 34. Rxf6 Rxh3
+35. Rxg6 Rxg6 $17) (32. Re1 Rh5 33. Ra6 Bf6 34. Rxf6 Rxh3 35. Rxg6 Rxg6 36.
+Bxb5 Rxf3 $17) 32... Rh5 $19 33. R7d6 (33. Qg4 Rg5 34. Qh3 Bf8 35. Bf1 e2 $19)
+33... Bf6 34. Rxf6 Qc2 $1 35. Qxh5 Qxe2 36. g4 Qf2+ 0-1

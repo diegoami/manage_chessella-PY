@@ -1,0 +1,16 @@
+[Event "?"]
+[Site "?"]
+[Date "2019.06.04"]
+[Round "?"]
+[White "Souleidis"]
+[Black "Gordon"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2bkr2/8/p1nqbn1p/1p1Np1p1/3pP3/1Q1P1NP1/PP1B2BP/2R2RK1 w q - 0 21"]
+[PlyCount "9"]
+[SourceVersionDate "2019.06.04"]
+
+{[#]} 21. Rxc6 $1 Qxc6 22. Nxe5 Qd6 23. Ng6 {and White has a winning position,
+e.g.} Rf7 24. Bb4 Qd7 25. Ne5 {and White regains the material with interest.}
+1-0
+

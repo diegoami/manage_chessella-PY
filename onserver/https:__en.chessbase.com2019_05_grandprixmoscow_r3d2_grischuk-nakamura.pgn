@@ -1,0 +1,100 @@
+[Event "Moscow FIDE GP"]
+[Site "?"]
+[Date "2019.05.24"]
+[Round "?"]
+[White "Grischuk, A.."]
+[Black "Nakamura, H.."]
+[Result "1-0"]
+[ECO "E05"]
+[Annotator "DF"]
+[PlyCount "107"]
+[EventDate "2019.05.25"]
+
+{[%evp 0,107,19,31,14,-14,3,-4,0,-14,-6,-6,-16,6,16,-2,30,30,6,12,27,27,10,0,
+40,24,18,2,14,-2,7,6,12,2,5,33,20,22,20,20,22,16,22,16,16,-9,14,-7,-1,-2,3,0,
+70,-26,29,34,34,34,87,88,91,67,102,47,84,59,55,31,21,32,39,34,54,52,63,76,192,
+167,196,191,191,200,208,211,189,166,191,201,195,209,247,268,287,185,259,250,
+290,303,311,309,357,379,343,374,371,378,416,416,489,511]} 1. d4 Nf6 2. c4 e6 3.
+Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 b5 {Nakamura decides to repeat
+his opening choice from the Dubov match earlier this week.} 8. a4 b4 9. Nfd2 $1
+{From what I remember from my analysis of this position with English IM Ravi
+Haria, moving this knight is slightly better, and while Black achieves the
+bishop-pair imbalance he is undoubtedly after, the objective evaluation is in
+White's favour.} (9. Nbd2 Bb7 10. Nxc4 c5 11. dxc5 Be4 {Here I commented that
+White seemed to have a stable advantage in a few ways - however, people that
+play the Black side of the Catalan specialise in minimising very slight pulls
+in mathematically precise fashion, raising the question of whether they were
+ever there to begin with...} 12. Qd2 $5 Nbd7 $5 13. Nfe5 ({It seems like White
+should have continued with the principled} 13. Qxb4 $5 Nxc5 14. Nfe5 $44 {
+when I wasn't able to find a conclusive route for Black to regain the pawn or
+get full compensation.}) 13... Bxg2 (13... Nxe5 14. Nxe5 Qc7 $5 $36) 14. Kxg2
+Bxc5 ({A better version is} 14... Nxe5 15. Nxe5 Qc7 16. Nd3 Bxc5 17. Qf4 Bd6
+18. Qf3 $11) 15. Nxd7 Nxd7 16. b3 Nb6 17. Qxd8 Rfxd8 18. Nxb6 Bxb6 {The
+position was equal, but maybe easier for White to play, and Black soon made
+some inaccuracies before proceeding to draw anyway. Dubov,D-Nakamura, H Moscow
+FIDE GP 2019}) 9... c6 10. Nxc4 Qxd4 11. Rd1 Qc5 ({The attraction for Black in
+this line is sometimes the amount of computer chess White has to play. For
+instance, after} 11... Qg4 12. Bf4 Qg6 13. Qc1 Nd5 (13... Ba6 14. Ne5 Qf5 15.
+e4 $1 $16) 14. Bxb8 Rxb8 15. Ne5 Qh5 16. Nxc6 Rb7 {White's best path to an
+advantage consists of the mysterious pawn sacrifice} 17. Nd2 Bg5 18. Qc5 $1
+Qxe2 19. Ne4 $14) 12. Be3 Qh5 13. Nbd2 Ng4 {So Black gets the aforementioned
+bishop pair.} 14. Nf3 Nxe3 15. Nxe3 a5 16. Nd4 Ba6 17. Rac1 Rc8 $1 {I believe
+this is a novelty, but it's quite natural.} ({White should play the same way
+regardless of Black's demonstrated level of concern about the c6-pawn.} 17...
+Ra7 18. Bf3 $1 Qe5 (18... Qg6 19. Nxc6 Nxc6 20. Qxc6 $16) 19. Ng4 $1 (19. Nb3
+Rc8 $11 {is now fine for Black}) (19. Nxc6 Nxc6 20. Qxc6 Qb8 21. Nc4 Rc8 22.
+Qb6 Qxb6 23. Nxb6 Rxc1 24. Rxc1 Bd8 25. Nc4 Bxc4 26. Rxc4 Rc7 27. Rxc7 Bxc7 28.
+e3 b3 29. Bd1 Be5 30. Bxb3 Bxb2 31. Kg2 {Ju,W-Wei,Y Ho Chi Minh City 2012})
+19... Qc7 20. Bxc6 Qb6 21. Bb5 Bxb5 22. Nxb5 Rd7 23. Ne5 Rxd1+ 24. Rxd1 Rd8 $14
+) 18. Bf3 Qg6 19. Be4 Qh5 20. Bf3 Qg6 21. Be4 Qh5 22. Kg2 $1 {Enabling White
+to think about playing Rh1 in connection with kingside pawn pushes, and also
+avoiding any kind of tricks along the a7-g1 diagonal.} ({The machines suggest
+the oddly prophylactic} 22. Qd2 $5 {discouraging ...Ra7 due to a tactical
+wrinkle, but I prefer the plan of playing for Nc5.} Ra7 23. Nxc6 Nxc6 24. Rxc6
+Rxc6 25. Qd8+ Bf8 26. Bxc6 Qe5 $1 $14 {White's advantage is minimal and the
+position is so double-edged that he could easily be lost within 5 moves.})
+22... Ra7 23. h4 {White may have intended to follow up with g4 on the next
+turn- the evidence is inconclusive, but it's definitely one idea and it seems
+Black was worried about it.} g6 24. f4 {So it has become clear what White
+wants: Bf3 and Nb3.} Qh6 ({One interesting idea is making White work for his ..
+.Qh6 retreat, and using the extra time to get ...Qg7/f8 in as well.} 24... Rac7
+25. Bf3 Qh6 26. Nb3 c5 $1 27. Nc4 (27. Nxa5 $2 c4 $15) 27... Bxc4 28. Qxc4 Bf6
+$1 (28... Qg7 29. Nxa5 Qxb2 $14 {White may be doing extremely well
+positionally, but on the other hand Black has two connected passed pawns,
+neither of which can ever be captured- so if he were able to activate the
+b8-knight and then sacrifice an exchange, the game would be very much on.}) 29.
+Qb5 Bxb2 30. Rxc5 Rxc5 31. Nxc5 Qf8 32. Nb3 e5 $1 $14 {The logical endpoint of
+a Catalan pull: White only has a symbolic advantage now. The machines will
+keep giving +0.3, though, until that moment when they inexplicably switch to
++0.01.}) 25. Nb3 Kh8 ({Black can somehow keep the a5-pawn, but then his
+position crumbles somewhere else.} 25... f5 26. Bd3 c5 27. Bxa6 Rxa6 28. Nc4
+Nc6 29. Nd6 $16) 26. Bd3 (26. Nxa5 f5 {was presumably Black's idea, when White
+requires the intricate Qd2! in order to not simply be lost.} 27. Qd2 $1 (27.
+Bf3 e5 $17) 27... Qg7 28. Bf3 Rd7 29. Qc2 e5 30. Rxd7 Nxd7 {White still has a
+vague sort of control over the light squares, but it is unsurprising that he
+didn't go for this.}) ({The engine suggestion} 26. Nc5 $14 {is valid, but
+humans would be concerned about eventually reaching some unwinnable ending
+with queens, opposite-coloured bishops and 4v3 on the kingside (say.)}) 26...
+Bb7 27. Nc4 c5+ 28. Be4 Ba6 ({White is better in any case, but it takes a lot
+more effort to organise a break after} 28... Bxe4+ 29. Qxe4 Qf8 30. Nbxa5 h5
+$14 {- it must probably eventually be f5, and in the meantime there is a
+question to answer about the a5-knight, which is to some extent pinned.}) 29.
+Nbxa5 Qf8 30. Bf3 Rd8 31. h5 $6 (31. Ne5 $16 {keeps the position under tighter
+control}) 31... Bf6 ({Black's chance at counterplay was} 31... g5 $1 {Probably
+he rejected it because of the thematic} 32. f5 {fearing that his e7-bishop
+would then be even worse than before; however, as long as it can get to f6,
+Black is alive.} Bc8 33. e4 exf5 34. exf5 Bf6 35. g4 {To avoid Black playing ..
+.g4 and using the g-file.} h6 $1 $14 {Black has the makings of a middlegame
+fortress.}) 32. Rxd8 Qxd8 33. Rd1 Rd7 34. Rxd7 Nxd7 35. h6 {After this,
+Black's position becomes practically impossible to defend, even if the move
+isn't strictly best.} (35. Qe4 $1 $16 {causes Black to go into some
+contortions in order not to lose a piece on the spot.}) 35... Nb6 $2 (35... Kg8
+36. Nc6 Qc7 37. a5 Nb8 38. N4e5 $40 {may just be a different kind of death,
+although maybe it is worth testing White's tactics by grabbing the hot a5-pawn.
+}) 36. Ne5 $1 Bxe5 37. Nc6 $1 {Grischuk is alert. The game is over.} Nc4 38.
+Nxd8 Ne3+ 39. Kf2 Nxc2 40. Nxf7+ Kg8 41. Nxe5 c4 42. Bg4 Nd4 43. Ke1 Kf8 44.
+Kd1 Ke7 45. e3 Nb3 46. Nc6+ Kf6 47. Nxb4 Bb7 48. Be2 Na5 49. Kd2 Nb3+ 50. Kc3
+Nc5 51. a5 Ne4+ 52. Kxc4 Nxg3 53. Bd3 g5 54. fxg5+ 1-0
+
+
+

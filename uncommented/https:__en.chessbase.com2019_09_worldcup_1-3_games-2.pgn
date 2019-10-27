@@ -1,0 +1,1226 @@
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.3"]
+[White "Ghaem Maghami, Ehsan"]
+[Black "Yu, Yangyi"]
+[Result "1/2-1/2"]
+[ECO "D82"]
+[WhiteElo "2544"]
+[BlackElo "2763"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,61,37,43,52,25,31,33,14,23,19,26,31,22,28,23,32,20,18,24,54,8,36,12,
+15,11,17,5,29,18,21,0,0,0,15,8,20,0,0,-10,-14,-16,0,0,0,-3,0,-23,-1,-22,-7,-16]
+} 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 dxc4 6. Bxc4 O-O 7. Nf3 Nbd7 {
+D93: GrÃ¼nfeld: 4 Nf3 Bg7 5 Bf4 0-0 6 e3} 8. O-O Nh5 9. Bg5 h6 {White is
+slightly better.} 10. Bh4 g5 11. Nd2 Ndf6 12. Bg3 Nxg3 13. hxg3 {[#]} ({
+Don't play} 13. fxg3 Ng4 $11) 13... Rb8 $146 ({Predecessor:} 13... Bf5 14. Qb3
+Rb8 15. a4 {0-1 (37) Xu,M (2374)-Yu,Y (2751) China 2019}) 14. Rc1 Bf5 15. Re1
+e6 16. Nf3 c6 17. a3 Nd5 18. Nxd5 exd5 19. Bd3 Bg4 20. Qc2 Qd6 21. Bf5 Bxf5 22.
+Qxf5 Qe6 23. Qd3 Qg6 (23... a6 {keeps more tension.} 24. b4 Rfd8 25. Qd1 Bf8
+26. Ne5 Bd6) 24. Qxg6 (24. Qd2 {is interesting.} Bf6 25. b4 a6 26. a4 g4 27.
+Ne5) 24... fxg6 25. b4 g4 26. Nd2 Rf6 27. Nb3 Bf8 28. Re2 h5 29. Rec2 Kf7 30.
+Rb1 Ke8 31. Nc1 {Accuracy: White = 41%, Black = 45%.} 1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.4"]
+[White "Yu, Yangyi"]
+[Black "Ghaem Maghami, Ehsan"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2763"]
+[BlackElo "2544"]
+[Annotator "TA"]
+[PlyCount "64"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,64,31,37,32,19,31,18,21,33,17,38,12,23,0,0,0,16,0,6,0,0,-214,19,0,0,
+-20,-14,-28,-13,-26,-16,-22,-16,-24,0,-9,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 e5
+2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Bf5 8. Re1 O-O 9.
+c4 Nc6 10. cxd5 {C42: Petroff Defence: 3 Nxe5 and unusual White 3rd moves} Qxd5
+11. Nc3 Nxc3 12. bxc3 Bxd3 13. Qxd3 Qd7 {[#]} 14. Rb1 $146 ({Predecessor:} 14.
+Bf4 Rad8 15. Rad1 Bf6 16. Bg5 {1/2-1/2 (66) Ivanchuk,V (2729)-Wei,Y (2739)
+Medias 2017}) 14... b6 15. d5 {[#] Black must now prevent Qb5.} Rae8 16. Bf4
+Na5 17. Ne5 Qc8 18. Re3 Bd6 19. Rbe1 $2 (19. Rh3 $11 {and White stays safe.} h6
+20. Re3) 19... Re7 $2 (19... f6 $19 20. Nc6 Bxf4 21. Rxe8 Rxe8 22. Ne7+ {[#]}
+Rxe7 $1 {[%mdl 512]} 23. Rxe7 Nb7) 20. Bg3 Rfe8 21. Nc6 (21. Kf1 {is
+interesting.} a6 22. Nc4 Rxe3 23. Nxe3 Bc5 24. a4) 21... Nxc6 22. dxc6 Rxe3 23.
+Rxe3 Rxe3 24. Qxe3 {Bxd6 is the strong threat.} Bxg3 25. hxg3 $11 {[%mdl 4096]
+Endgame KQ-KQ} Qd8 26. c4 {The position is equal.} Qd1+ 27. Kh2 {[%cal Re3e8]}
+Qh5+ 28. Kg1 {[%cal Re3e8]} Qd1+ 29. Kh2 {[%cal Re3e8]} Qh5+ 30. Kg1 {[%cal
+Re3e8]} Qd1+ 31. Kh2 {[%cal Re3e8]} Qh5+ 32. Kg1 {[%cal Re3e8]} Qd1+ {Accuracy:
+White = 31%, Black = 66%.} 1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.5"]
+[White "Ghaem Maghami, Ehsan"]
+[Black "Yu, Yangyi"]
+[Result "1/2-1/2"]
+[ECO "D82"]
+[WhiteElo "2544"]
+[BlackElo "2763"]
+[Annotator "TA"]
+[PlyCount "90"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,90,40,29,52,23,27,17,16,29,19,14,28,22,20,30,31,7,13,10,16,0,30,3,0,
+0,5,11,3,11,49,-10,-7,-3,-12,-23,0,0,5,-15,20,18,27,0,0,0,0,0,0,0,0,-13,-20,
+-15,0,0,7,0,29,0,0,-7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4
+g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 dxc4 6. Bxc4 O-O 7. Nf3 Nbd7 {D93: GrÃ¼nfeld: 4
+Nf3 Bg7 5 Bf4 0-0 6 e3} 8. O-O Nh5 9. Bg5 h6 10. Bh4 g5 11. Nd2 {Threatening
+Bxg5.} Ndf6 12. Bg3 Nxg3 13. hxg3 {[#]} c6 $146 ({Predecessor:} 13... Bf5 14.
+Qb3 Rb8 15. a4 {0-1 (37) Xu,M (2374)-Yu,Y (2751) China 2019}) 14. Nf3 Bf5 15.
+Rc1 e6 16. Re1 Qb6 17. Bb3 Rad8 18. Qe2 Bg4 19. Na4 Qc7 20. Nc5 Qe7 21. Nd3 ({
+White should play} 21. Qc4 $14) 21... Nd7 22. Qc2 Bf5 23. Qe2 Bg4 24. Qc2 a5
+25. a3 Bh5 26. Qc3 Bg6 27. Bc2 Ra8 28. Nc5 Qxc5 29. Qxc5 Nxc5 30. Bxg6 Nd7 (
+30... Nb3 $5 31. Rc3 $8 Nxd4 32. Bxf7+ (32. exd4 fxg6 33. Rb3 Rf7 $11) 32...
+Kxf7 33. exd4 Rad8 $11) 31. Bd3 Rfd8 32. Rc2 Kf8 33. Be2 a4 34. Rec1 Ke7 35.
+Kf1 f5 {The position is equal.} 36. Bd3 g4 37. Nd2 Ne5 38. Be2 Nf7 39. Nc4 Nd6
+40. Nxd6 Rxd6 41. Rc5 Kd7 42. f4 Rd5 43. Rxd5+ exd5 44. Bd3 Ke6 45. Ke2 Kf6 {
+Accuracy: White = 52%, Black = 61%.} 1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.6"]
+[White "Yu, Yangyi"]
+[Black "Ghaem Maghami, Ehsan"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2763"]
+[BlackElo "2544"]
+[Annotator "TA"]
+[PlyCount "83"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,83,38,39,43,18,16,23,18,23,28,17,24,18,20,19,25,23,27,21,24,26,26,9,
+39,29,35,39,28,30,30,30,68,34,75,11,26,19,168,70,100,21,113,46,60,52,161,153,
+152,178,149,159,109,73,73,66,110,89,241,228,219,203,635,623,605,602,3146,2821,
+2148,2314,1856,1508,1714,1496]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5.
+d4 d5 6. Bd3 Be7 7. O-O Bf5 {C42: Petroff Defence: 3 Nxe5 and unusual White
+3rd moves} 8. Ne5 Nd7 9. Nc3 Nxc3 {White has an edge.} 10. bxc3 Bxd3 11. cxd3
+O-O 12. Rb1 Nxe5 13. dxe5 b6 {[#]} 14. Be3 $146 ({Predecessor:} 14. d4) 14...
+f6 15. d4 Qd7 16. f4 fxe5 17. dxe5 Rad8 18. Qd3 Qe6 19. Rbe1 g6 20. h3 h5 21.
+a4 c5 22. Rd1 (22. a5 {is interesting.} Rd7 23. axb6 axb6 24. Ra1 d4 25. cxd4
+cxd4 26. Bd2) 22... Qf5 23. Qxf5 (23. Qa6 $16) 23... gxf5 $11 24. g4 Kg7 {[#]}
+(24... d4 $11 25. cxd4 cxd4) 25. Kg2 ({Stronger than} 25. gxh5 Rh8 $11) (25.
+gxf5 $1 $18 {Black must now prevent f6+.} Rxf5 26. Kf2) 25... Kg6 26. Kf3 (26.
+g5 $16) 26... Rh8 (26... hxg4+ $11 {remains equal.} 27. hxg4 Rh8) 27. gxf5+ (
+27. g5 $16) 27... Kxf5 $14 28. Rg1 {Rg7 is the strong threat.} Rhg8 (28... d4
+$1 $14 29. cxd4 cxd4 30. Bxd4 Rhg8 31. Rxg8 Rxg8) 29. Rxg8 $18 Rxg8 30. Rxd5 {
+[%mdl 4096] Endgame aiming for Rd7. KRB-KRB} Bh4 {[#] Strongly threatening ...
+Rg3+.} 31. e6+ $1 {[%mdl 64] Decoy} Kxe6 32. Re5+ Kf7 33. Rxh5 Bf6 34. c4 Kg6
+$2 (34... Rd8 $16) 35. Rd5 Rh8 36. Kg4 Re8 $2 (36... Rh4+ 37. Kg3 Rh7) 37. f5+
+{White is clearly winning.} Kf7 38. Rd7+ Kg8 39. Bg5 Bxg5 40. Kxg5 Re3 41. Rxa7
+Rc3 42. Rb7 {Accuracy: White = 55%, Black = 37%.} 1-0
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.3"]
+[White "Pridorozhni, Aleksei"]
+[Black "Wang, Hao"]
+[Result "1/2-1/2"]
+[ECO "B11"]
+[WhiteElo "2599"]
+[BlackElo "2726"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,61,13,21,19,22,23,20,21,27,25,25,25,35,6,6,6,7,6,6,6,6,6,21,18,25,22,
+22,18,18,14,18,18,18,15,17,12,11,8,18,17,15,0,0,0,0,0,14,0,2,0]} 1. e4 c6 2.
+Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. Be2 e6 7. O-O Nbd7 8. d4 {B11:
+Caro-Kann: Two Knights Variation} dxe4 9. Nxe4 Nxe4 10. Qxe4 Nf6 11. Qd3 Bd6 (
+11... Be7 12. Rd1 O-O 13. Bd2 Qb6 14. Be1 {1/2-1/2 (21) Ponomariov,R (2687)
+-Laznicka,V (2654) Germany 2017}) 12. c3 O-O 13. Qc2 $146 ({Predecessor:} 13.
+Bg5 Be7 14. Bd1 Qd5 15. Bh4 Rad8 16. Bf3 Qd7 17. Qe2 Rfe8 18. Rfe1 Nd5 19. Bxe7
+Rxe7 20. Rad1 Nf6 21. g3 {1/2-1/2 (21) Salomon,J (2229)-Fossan,P (2245)
+Lillehammer 2013}) 13... Qc7 14. Bf3 Bf4 15. g3 Bxc1 16. Raxc1 Rfe8 17. Rfe1 e5
+18. dxe5 Rxe5 19. Rxe5 Qxe5 {The position is equal.} 20. Qb3 Qc7 21. Re1 Re8
+22. Rxe8+ Nxe8 23. Qa4 a6 24. Qd4 g6 25. h4 h5 26. Kg2 Qe7 27. b4 Nd6 28. a4
+Qe6 29. Qb6 Qd7 30. Qd4 Qe6 31. Qb6 {Accuracy: White = 63%, Black = 78%.}
+1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.4"]
+[White "Wang, Hao"]
+[Black "Pridorozhni, Aleksei"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[WhiteElo "2726"]
+[BlackElo "2599"]
+[Annotator "TA"]
+[PlyCount "77"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,77,11,10,13,8,31,26,27,-19,-25,-16,0,0,0,-13,-13,-25,-20,-34,0,-70,
+-71,-342,-340,-286,-34,-41,-49,-66,0,-102,0,-54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,172,0,0,0,0,0,0,0]} 1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. cxd5
+Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Rb1 Be7 {D35: Queen's Gambit Declined: Exchange
+Variation} 8. Nf3 cxd4 9. cxd4 O-O {White has an edge.} 10. h4 b6 $146 ({
+Predecessor:} 10... Nc6 11. Bb5 a6 12. Bxc6 bxc6 13. h5 h6 14. Ne5 Bd6 15. O-O
+{1/2-1/2 (30) Yu,Y (2765)-Radjabov,T (2751) Batumi 2018}) 11. Bd3 Bb7 12. e5
+Qd5 13. Rb5 Qd7 14. Be3 Na6 15. Ng5 h6 {And now ...Nb4 would win.} ({Don't
+blunder} 15... Bxg2 $2 16. Bxh7+ Kh8 17. Qh5 $1 $18 {[%mdl 512]}) 16. Nh7 (16.
+Qb1 $11 Rfc8 17. Ne4) 16... Nb4 $1 $15 {White must now prevent ...Rfd8.} 17.
+Rxb4 $2 {[%mdl 8192]} (17. Nxf8 $17 Rxf8 18. O-O) 17... Bxb4+ $19 18. Kf1 {[#]}
+Be7 $2 (18... Qc6 $1 $19 {[%cal Rc6g2][%mdl 512]} 19. Rg1 Rfc8 20. Nf6+ gxf6
+21. Bxh6 f5) 19. Nxf8 Kxf8 20. Rh3 Rc8 (20... Qc6 $15 21. f3 Qc3) 21. Kg1 {[#]}
+(21. Rg3 $11 {keeps the balance.} f5 22. Qh5) 21... Rc3 (21... Qd5 $1 $17 {
+[%csl Gb7][%cal Rd5g2][%mdl 512]} 22. Rg3 Bxh4) 22. h5 {[#]} (22. Rg3 $11 Bxh4
+23. Rxg7 {[%mdl 64] Decoy} Kxg7 24. Qg4+ {[%mdl 64] Double Attack} Bg5 25. Bxg5
+hxg5 26. Qxg5+ Kh8 27. Qh6+ Kg8 28. Bh7+ Kh8 29. Bg6+ Kg8 30. Qh7+ Kf8 31. Qh8+
+Ke7 32. Qf6+ Kf8 33. Qh8+ Ke7 34. Qf6+ Kf8 35. Qh8+) 22... Ke8 ({Better is} 
+22... Qd5 $1 $15 {[%mdl 512]} 23. Rf3 Bh4) 23. Rg3 $11 Bf8 $1 24. Qb1 Ra3 25.
+Rg4 Bd5 26. Bb5 Bc6 27. Bxc6 Qxc6 28. Kh2 Qc4 29. Qh7 Rxa2 30. Qg8 $36 {
+[%mdl 2048] White has some pressure.} Qe2 31. Rxg7 Qxh5+ 32. Kg3 Ra3 33. Rg4
+Qf5 34. Qh8 Ke7 35. Rg8 {Qf6+! is the strong threat.} b5 $2 {[#]} (35... Kd7
+$11 {and Black has nothing to worry.}) 36. Rxf8 $2 (36. Qf6+ $1 $18 {[%mdl 512]
+} Qxf6 37. exf6+ Kxf6 38. Rxf8) 36... Qg5+ {The position is equal.} 37. Kf3
+Qf5+ 38. Kg3 Qg5+ 39. Kf3 {Accuracy: White = 49%, Black = 53%.} 1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.5"]
+[White "Pridorozhni, Aleksei"]
+[Black "Wang, Hao"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "2599"]
+[BlackElo "2726"]
+[Annotator "TA"]
+[PlyCount "99"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,99,5,7,-7,7,10,27,15,23,12,22,22,37,0,14,-18,-8,-10,-6,-21,-16,-59,
+-68,-83,-33,-34,-11,-17,-8,-39,-24,-25,-23,-17,-18,-30,-6,-6,-6,-8,-6,-8,0,-11,
+0,-16,0,-9,0,0,430,434,416,409,416,403,411,401,310,133,124,129,125,120,113,113,
+113,129,114,124,144,115,178,108,113,109,107,100,105,82,82,82,82,82,82,75,75,67,
+75,45,45,45]} 1. e4 c5 2. Nc3 d6 3. f4 g6 4. d4 cxd4 5. Qxd4 Nf6 6. Bd3 {
+B23: Closed Sicilian: Lines without g3} Nc6 7. Qf2 Bg7 8. Nf3 {White has an
+edge.} Ng4 (8... O-O 9. O-O Bg4 10. Qh4 Qa5 11. f5 Bxf3 12. Rxf3 {1/2-1/2 (34)
+Navara,D (2727)-Donchenko,A (2587) Brest 2018}) 9. Qe2 O-O 10. h3 Nf6 11. Qf2
+Nd7 $146 ({Predecessor:} 11... Qa5 12. O-O Bd7 13. a3 Rac8 14. Bd2 {1-0 (39)
+Hernandez Carmenates,H (2541)-Colovic,A (2463) Havana 2007}) 12. O-O Qb6 13.
+Nd5 Qxf2+ 14. Rxf2 Nc5 15. a3 Bd7 16. Rb1 Rac8 17. Be3 Nxd3 18. cxd3 b6 19. g4
+f5 20. gxf5 gxf5 21. Kh2 h6 22. Rg1 Kh7 23. Rfg2 Rf7 24. Nh4 fxe4 25. dxe4 Be6
+26. Rc1 Bd7 27. Rcg1 Be6 28. Rc1 $132 {[%mdl 2048] White has counterplay} Bd7
+29. Rcg1 e6 $2 {[%mdl 8192] [#]} (29... Rg8 $11) 30. Rxg7+ $1 $18 {[%mdl 576]
+Remove Defender, Deflection} Rxg7 31. Nf6+ Kh8 {And now ...Rxg1 would win.} 32.
+Ng6+ Rxg6 33. Rxg6 Ne7 34. Rg2 (34. Rxh6+ $18 {and the rest is easy.} Kg7 35.
+f5 (35. Nxd7 Kxh6 36. f5+ Kh5 $17)) 34... Ba4 $16 35. f5 Rc2 36. Rxc2 ({
+Much less strong is} 36. Bxh6 $6 Rxg2+ 37. Kxg2 exf5 $14) 36... Bxc2 37. fxe6 {
+[%mdl 4096] Endgame KBN-KBN} Kg7 {[#]} 38. Ne8+ $1 Kg6 39. Nxd6 h5 40. Bd4 Bb3
+{[#]} (40... Nc6 $16) 41. Kg3 ({White should play} 41. Nb5 $1 $18) 41... Bxe6
+42. h4 Nc8 43. Nb5 Bd7 44. Nc7 Nd6 45. Kf4 Nb5 46. Nxb5 Bxb5 47. Ke5 Bc6 48.
+Bc3 Kf7 49. Bb4 a5 50. Bd6 {Accuracy: White = 50%, Black = 60%.} 1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.6"]
+[White "Wang, Hao"]
+[Black "Pridorozhni, Aleksei"]
+[Result "1-0"]
+[ECO "A13"]
+[WhiteElo "2726"]
+[BlackElo "2599"]
+[Annotator "TA"]
+[PlyCount "215"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 13,215,28,16,0,2,-9,-11,-25,0,0,-12,-20,2,7,14,8,0,0,24,20,20,20,22,0,0,
+0,9,0,14,0,0,0,0,0,0,0,0,-32,-14,-24,0,0,53,-14,28,0,0,0,0,-4,0,0,37,34,33,0,
+35,67,41,35,35,35,35,35,39,33,39,40,39,0,36,0,69,60,65,32,60,60,70,70,70,70,85,
+60,60,60,60,60,60,60,68,60,60,0,84,60,60,0,60,60,87,87,87,79,87,46,46,0,58,0,
+45,0,87,87,87,0,7,0,0,0,85,0,12,0,98,83,99,77,80,26,107,18,17,0,101,108,86,104,
+69,10,279,275,276,261,275,255,268,241,235,73,73,73,73,73,73,73,73,0,579,573,
+584,579,562,537,468,464,410,169,163,150,170,0,176,0,93,117,117,0,415,0,0,0,
+1254,1199,1254,1242,1220,1146,29979,29980,29980,0,193,0,29980,29981,29981,
+29982,29982,29983,29983,29984,29984,29985]} 1. c4 e6 2. Nc3 f5 3. g3 Nf6 4. Bg2
+c6 5. d4 d5 6. Nh3 Be7 7. O-O O-O 8. Nf4 {A91: Classical Dutch: Early
+Deviations} (8. Qb3 Kh8 9. Bg5 Qe8 10. e3 h6 11. Bxf6 Bxf6 12. Nf4 g5 13. Nd3
+Nd7 14. Rfd1 h5 15. a4 a5 {0-1 (49) Naiditsch,A (2706)-Pelletier,Y (2604)
+Nancy 2013}) 8... dxc4 9. b3 $146 ({Predecessor:} 9. e4 c5 10. d5 e5 11. Ne6
+Bxe6 12. dxe6 fxe4 13. Nxe4 Nc6 14. Qa4 Nd5 15. Qxc4 Nb6 {1-0 (39) Pijuan
+Herranz,M (2250)-Pablo Marin,A (2388) Catalunya 2009}) 9... cxb3 10. Qxb3 {
+The position is equal.} Nd5 11. Rd1 Bd6 12. e3 Nxf4 13. exf4 Na6 14. Ba3 Nc7
+15. Rac1 Qe7 16. Bxd6 Qxd6 17. Na4 {[%cal Bc3a4,Ba4c5,Bc5d3,Bd3e5,Be5c4][%mdl
+32]} Nd5 18. Nc5 Rf7 19. Nd3 Rc7 20. Ne5 Bd7 21. h4 Be8 22. Bf3 h6 23. Re1 Kh7
+24. Nc4 Qe7 25. Re2 Rd8 26. Rce1 Bf7 27. Ne5 Nf6 (27... Bg8 $11) 28. Qc4 (28.
+Nxf7 $14 Qxf7 29. Qd3) 28... Qf8 29. Kg2 Bg8 30. Re3 Qd6 31. Rd1 Qf8 32. Qa4 a6
+33. Qa5 Qe7 34. a3 Bf7 35. Nxf7 Qxf7 36. Rxe6 Qxe6 37. Qxc7 {[%mdl 64] Double
+Attack} Qd7 38. Qa5 h5 39. Re1 g6 40. Qb4 {Black must now prevent Re7+.} Nd5
+41. Qc5 Kg7 42. Re5 Kf7 (42... Qf7 $1 $11) 43. Qc4 Qd6 44. Qb3 Rd7 45. a4 Kg7
+46. Bxd5 $1 cxd5 $14 {[%mdl 4096] Endgame KQR-KQR} 47. a5 Kf7 48. Kh2 Qc6 49.
+Qe3 Qd6 50. Qf3 Qc6 51. Kg2 Qd6 52. Qe3 Rc7 53. Qb3 Rd7 54. Kh3 Qc6 55. Kg2 Qd6
+56. Qd3 Qc6 57. g4 hxg4 {[#]} (57... fxg4 $2 58. f5 $18) 58. h5 $1 {[%cal
+Rh5g6][%mdl 512] Strongly threatening hxg6+.} Qf6 (58... gxh5 59. Qxf5+) 59.
+hxg6+ Kxg6 60. Qe3 Kf7 (60... Rd6 $11) 61. Qd3 {[%mdl 1024] White has
+compensation.} Kg6 62. Qe2 Kf7 (62... Rd6 $11) 63. Qc2 $16 Kg6 64. Qc8 (64. f3
+$16 {And now fxg4 would win.} gxf3+ 65. Kxf3) 64... Qd8 $1 $11 {[%cal Rd8c8]}
+65. Qc5 (65. Qc3 {seems wilder.} Re7) 65... Rd6 $1 66. Re8 Qd7 (66... Qxe8 $11
+67. Qxd6+ Kg7) 67. Re5 ({White should play} 67. Kg3 $1 $16) 67... Qc6 {Black
+wants to play ...Qxc5.} 68. Qa3 Qd7 (68... b5 $1 $11) 69. Qe3 $1 $16 Kf7 70.
+Qd3 Rf6 71. Qb3 (71. Qg3 $1 $16) 71... Rd6 (71... Kg6 $11 {remains equal.}) 72.
+Qc2 (72. Qd1 $16) 72... Rf6 $1 $11 73. Qb3 (73. Qd3 $11) 73... Rd6 $16 74. Qb1
+Kg6 75. Qe1 $36 {[%mdl 2048] White has strong initiative.} Rf6 76. Qh1 ({
+White should try} 76. Re8 $14) 76... Re6 $2 {[%mdl 8192]} (76... Qh7 $11 {
+and Black stays safe.}) 77. Qh4 $18 Rxe5 78. Qg5+ $1 Kf7 79. fxe5 {KQ-KQ} Qe6
+80. Kg3 Ke8 {If Black can now play ...Kf7 this consolidates a bit.} 81. Kf4 $2
+(81. Qh5+ $1 $18 Ke7 82. Qh7+ Ke8 83. Qxb7) 81... b5 $16 82. axb6 $1 (82. Qxf5
+$2 Qxf5+ 83. Kxf5 b4 $19) 82... Qxb6 83. Qg8+ Ke7 84. Qxd5 a5 85. Qc4 (85. Kxf5
+$16 {Hoping for Qc4.} a4 86. Qc4 (86. Kxg4 $2 Qe6+ 87. Qxe6+ Kxe6 $19)) 85...
+Qb4 $2 {[%mdl 8192]} (85... Qh6+ $1 $11 86. Kxf5 Qh5+ 87. Kf4 Qh6+ 88. Ke4 (88.
+Kxg4 $2 Qe6+ 89. Qxe6+ Kxe6 $19) 88... Qh1+ 89. Kf5 Qh5+ 90. Ke4 Qh1+ 91. Kf4
+Qh6+ 92. Kf5 (92. Kxg4 $2 Qe6+ 93. Qxe6+ Kxe6 $19) 92... Qh5+) 86. Qc7+ $1 $18
+Ke6 87. Qc6+ Ke7 88. Qf6+ Ke8 89. Qe6+ Kd8 90. Qg8+ (90. Qd5+ $142 Ke7 91. Kxf5
+) 90... Ke7 91. Qg7+ (91. Kxf5 Qxd4 92. Qg5+ (92. Qxg4 Qxg4+ 93. Kxg4 a4 94.
+Kh4 a3 95. Kg3 a2 96. Kf3 a1=Q 97. Ke3 Qe1+ 98. Kd3 Qxf2 99. Kc4 Ke6 100. Kb3
+Kxe5 101. Kc3 Qd4+ 102. Kb3 Kd5 103. Ka3 Kc4 104. Ka2 Kc3 105. Ka1 Kc2+ 106.
+Ka2 Qb2#) 92... Ke8 $11) 91... Ke8 92. Qg8+ (92. Kxf5 Qxd4 93. Qg8+ (93. Qxg4
+Qxg4+ 94. Kxg4 a4 $19) 93... Ke7 $11) 92... Ke7 93. Qg7+ (93. Kxf5 Qxd4 94.
+Qg7+ (94. Qxg4 Qxg4+ 95. Kxg4 a4 96. f4 a3 97. Kf3 a2 98. f5 a1=Q 99. Ke4 Qc3
+100. Kd5 Qd3+ 101. Kc5 Qxf5 102. Kd5 Qd3+ 103. Kc5 Ke6 104. Kb6 Kxe5 105. Kc6
+Qd5+ 106. Kc7 Qb5 107. Kd8 Kd6 108. Kc8 Qb4 109. Kd8 Qb8#) 94... Ke8 $11) ({
+Better is} 93. Qh7+ $18 Kd8 94. Qg8+ (94. Qxf5 Qxd4+ {[%mdl 64] Double Attack}
+95. Kg3 Ke7 $11) 94... Ke7) 93... Ke8 $1 $16 94. Qg6+ (94. Kxf5 $6 Qxd4 95.
+Qg8+ (95. Qxg4 $2 Qxg4+ 96. Kxg4 a4 $19) 95... Ke7 $11) 94... Ke7 95. Qf6+ $2 {
+[%mdl 8192]} ({Of course not} 95. Qxf5 $6 Qxd4+ 96. Kg3 a4 $11) (95. Kxf5 $2
+Qb1+ 96. Kg5 Qxg6+ 97. Kxg6 Ke6 $19) (95. Qg5+ $16 Ke8 96. Qg6+ (96. Kxf5 Qb1+
+97. Kf6 Qb6+ 98. Kg7 Qb7+ 99. Kh6 Qc6+ 100. Qf6 Qxf6+ 101. exf6 Kf7 $11) (96.
+Qxf5 Qxd4+ {[%mdl 64] Double Attack} 97. Kg3 a4 $11) 96... Kd8 97. Qg8+ (97.
+Kxf5 Qb1+ 98. Kg5 Qxg6+ 99. Kxg6 Ke8 $11) (97. Qxf5 Qxd4+ {[%mdl 64] Double
+Attack} 98. Kg5 Ke7 $11) 97... Ke7) 95... Ke8 $18 96. Qc6+ $2 (96. e6 $1 $18 {
+Qf7+ would kill now.} Qf8 97. Qg6+ (97. Qxf5 $2 Qxf5+ 98. Kxf5 a4 $19) 97...
+Ke7 98. d5) 96... Ke7 $11 97. Qc7+ Ke8 $2 {[%mdl 8192]} (97... Ke6 $11 98. Qc6+
+Ke7) 98. Kxf5 $18 {White threatens Ke6 and mate.} Qf8+ 99. Ke6 {[%csl Ge6]
+[%cal Rc7d7]} Qh6+ 100. Kd5 Qh1+ 101. Kd6 $1 {[%csl Gd6][%cal Rc7e7]} Qh6+ 102.
+Kd5 $2 (102. e6 $1 {mates} Qf4+ 103. Kc6 $1 {[%mdl 512]} Qe4+ 104. d5 Qc4+ 105.
+Kb6 $1 {[%mdl 512]} Qd4+ 106. Ka6 Qd3+ 107. Ka7 Qd4+ 108. Kb8 Qb4+ 109. Kc8)
+102... Qh1+ 103. Kd6 $2 (103. f3 $18) 103... Qh6+ {[#]} 104. e6 $1 {[%csl Gd6]
+[%cal Rc7e7] White mates.} Qf4+ {[#]} 105. Kc6 $1 Qe4+ 106. d5 Qc4+ {[#]} 107.
+Kb6 $1 {[%mdl 64] Discovered Attack} Qb4+ 108. Ka6 {Accuracy: White = 44%,
+Black = 58%.} 1-0
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.3"]
+[White "Shankland, Sam"]
+[Black "Safarli, Eltaj"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[WhiteElo "2705"]
+[BlackElo "2593"]
+[Annotator "TA"]
+[PlyCount "94"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,94,17,28,22,2,7,0,40,31,50,60,60,61,71,0,7,0,4,2,3,-34,41,37,39,47,
+35,13,13,9,13,10,17,20,18,20,27,0,0,0,0,0,0,0,0,0,8,6,23,39,35,9,11,9,11,11,11,
+11,11,11,11,11,11,8,10,10,11,11,11,11,11,11,11,11,11,0,0,0,0,0,0]} 1. d4 d5 2.
+c4 c6 3. cxd5 cxd5 4. Bf4 Nf6 5. e3 Nc6 6. Bd3 g6 7. Nc3 Bg7 8. h3 O-O 9. Nf3
+Nd7 {D90: GrÃ¼nfeld: 4 Nf3 Bg7 sidelines} 10. Bc2 $146 ({Predecessor:} 10. Nxd5
+e5 11. dxe5 Ndxe5 12. Nxe5 Qxd5 13. Nxc6 Qxc6 14. O-O Bxb2 15. Rb1 Bg7 16. Rc1
+Qb6 17. Bc7 {1-0 (53) Cordova,E (2637)-Quesada Perez,Y (2533) Villahermosa 2016
+}) 10... e5 11. Bg5 Qa5 (11... f6 $5 12. Bh4 $8 e4 $11) 12. O-O h6 13. Bh4 exd4
+14. Nxd4 Nb6 {[#]} 15. Nce2 (15. a3 $1 $16) 15... Nxd4 16. Nxd4 Nc4 17. b3 Nd2
+18. Qe1 {Black must now prevent Rd1.} Qc3 (18... Bxd4 $1 $15 19. exd4 Qc3) 19.
+Rd1 $14 Nf3+ 20. Nxf3 Qxc2 21. Qd2 (21. Qa5 {is more complex.} Be6 22. Nd4 Bxd4
+23. Rxd4 b6 24. Qa6) 21... Qxd2 22. Rxd2 Be6 23. Bg3 Rfc8 24. Be5 Bf8 25. Nd4
+Bb4 26. Rc2 (26. Rd3 {looks sharper.} Bd7 27. a4 Re8 28. Bg3 Rac8 29. Ne2)
+26... Rxc2 27. Nxc2 Be7 28. Nd4 Rc8 29. Rd1 a6 30. a4 Ba3 31. g4 Rc1 (31... h5
+{is interesting.} 32. Nxe6 fxe6 33. Kg2 Kf7 34. Kf3 Be7) 32. Rxc1 Bxc1 $11 {
+[%mdl 4096] Endgame KBB-KBN} 33. Kf1 Ba3 {The position is equal.} 34. Ke2 Bc5
+35. Nxe6 fxe6 {KB-KB} 36. Kd3 Kf7 37. Bd4 Bd6 38. e4 h5 39. exd5 exd5 40. Be3
+hxg4 41. hxg4 Ke6 42. f4 Bc7 43. Bd2 Bb6 44. Bc1 Bc7 45. Be3 Ba5 46. Bf2 Bc7
+47. Be3 Ba5 {Accuracy: White = 67%, Black = 66%.} 1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.4"]
+[White "Safarli, Eltaj"]
+[Black "Shankland, Sam"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[WhiteElo "2593"]
+[BlackElo "2705"]
+[Annotator "TA"]
+[PlyCount "180"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,180,-46,-49,-48,-37,-45,-35,-39,78,66,66,53,54,67,54,57,77,82,87,83,
+70,66,72,66,75,59,75,61,79,79,99,83,91,9,6,19,17,22,28,18,82,82,82,71,71,71,71,
+71,71,71,71,71,71,25,59,25,78,78,78,78,78,78,78,78,78,78,78,78,78,78,78,78,78,
+78,78,78,78,78,78,78,78,78,78,3,3,0,78,78,78,78,78,78,78,0,78,0,78,78,78,78,78,
+8,8,0,78,78,78,78,78,78,78,78,78,78,78,0,78,78,78,78,78,78,78,8,8,8,8,8,66,66,
+66,66,66,66,113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Nd7 7. O-O Be7 8.
+Bxc6 bxc6 9. e6 fxe6 {Hoping for ...e5.} 10. Nxd4 {C56: Two Knights: 4 d4 exd4
+5 0-0 Nxe4} Nb8 11. Qh5+ (11. Re1 O-O 12. Nxe6 Bxe6 13. Rxe6 Qd7 14. Re1 Bf6
+15. Qe2 Qf7 16. c3 Nd7 17. Qe6 Rae8 18. Qxf7+ Kxf7 19. Rxe8 Rxe8 {0-1 (30)
+Moudallal,T (1976)-Haznedaroglu,K (2466) Beirut 2015}) 11... g6 12. Qe2 $146 {
+Black is slightly better.} ({Predecessor:} 12. Qh6 c5 13. Nf3 Nc6 14. a3 Bf8
+15. Qe3 Qd6 16. Re1 Bg7 17. Nbd2 O-O {0-1 (26) Hernandez,O (947)-Nospers,C 
+(1281) LSS email 2011}) 12... Bf6 (12... Qd6 $15 {stays ahead.} 13. Re1 Bf6 14.
+Nxe6 Bxe6 15. Qxe6+ Qxe6 16. Rxe6+ Kf7) 13. Nxe6 $16 Bxe6 14. Qxe6+ Qe7 15.
+Qc8+ $1 Kf7 16. Qb7 Nd7 17. Qxc6 Qd6 18. Qxd6 cxd6 19. Nc3 Bxc3 20. bxc3 Rhc8
+21. Rd1 Nb6 22. Rd3 Rc7 23. a4 Rc5 24. Ba3 Ra5 25. Bb4 (25. Bxd6 $16 Rxa4 26.
+Rb1) 25... Rxa4 $11 26. Rxa4 Nxa4 27. Rxd5 {[%mdl 4096] Endgame KRB-KRN} Nb2 $1
+28. Rd4 {With the idea Kf1.} a5 (28... Rc8 $1 $11 {remains equal.}) 29. Ba3 $16
+Rb8 30. Kf1 d5 31. Bxb2 $1 ({Of course not} 31. Rxd5 Nc4 $11) 31... Rxb2 32.
+Rxd5 Rxc2 33. Rxa5 Rxc3 {KR-KR} 34. Ra7+ Kg8 35. g4 Rb3 36. Kg2 g5 (36... Rb5
+$1 $11) 37. Ra5 h6 38. h4 gxh4 39. Rh5 $1 {[%cal Rh5h6]} Kg7 40. Rxh4 Kg6 41.
+Rh5 Ra3 42. f3 $1 Rb3 43. Kg3 Ra3 44. Re5 Rb3 45. Re6+ Kg7 46. Kf4 Rb5 47. Re5
+Rb3 48. Rd5 Ra3 49. Ke4 Kf6 50. Rd6+ ({White should try} 50. f4 $16) 50... Kg5
+$11 51. Rd5+ (51. Rc6 $11) 51... Kf6 $16 52. f4 Ra4+ 53. Rd4 Ra6 54. Rb4 Kg6
+55. Rc4 (55. Rb5 $1 $16) 55... Kf6 (55... h5 $1 $11) 56. Kd5 (56. Rd4 $16)
+56... Ra5+ (56... h5 $11) 57. Rc5 Ra1 58. Rc6+ Kg7 59. Rc7+ (59. Ke6 $1 $16)
+59... Kf6 $11 60. Rc6+ (60. Ke4 $11) 60... Kg7 $16 {[#]} 61. Ke6 $1 Re1+ 62.
+Kf5 {Rc7+ is the strong threat.} Re7 63. Rg6+ Kh7 64. Re6 Rf7+ 65. Rf6 Ra7 66.
+Re6 ({Better is} 66. Rb6 $16) 66... Kg7 (66... Rf7+ $11 67. Ke4 Ra7) 67. Rg6+
+Kh7 {Strongly threatening ...Ra5+.} 68. Rd6 Rf7+ {[#]} 69. Ke4 $1 Kg7 70. f5 (
+70. Rd4 $16) 70... Ra7 71. Ke5 {Black should prevent Ke6.} Re7+ 72. Re6 {
+White threatens f6+ and mate.} Ra7 (72... Rb7 $1 $11) 73. Rg6+ $14 Kh7 74. Rd6
+$1 Ra4 75. Rd7+ Kg8 76. Ke6 (76. Rd4 $16 Ra7 77. Rb4) 76... Re4+ $11 {The
+position is equal.} 77. Kf6 (77. Kd5 {is more complex.} Rxg4 78. Rd8+ Kf7 79.
+Rd6 h5 80. Rh6) 77... Rxg4 78. Rd8+ Kh7 79. Rd7+ Kg8 80. Rd8+ Kh7 81. Ke6 Re4+
+82. Kf7 h5 83. f6 h4 84. Rd3 (84. Rd1 {looks sharper.} Rf4 85. Rg1 Kh6 86. Rh1
+Rf3 87. Ke7) 84... Rf4 85. Re3 (85. Rd1 {is more complex.} Kh6 86. Ke7 Kg6 87.
+Rg1+ Kh5 88. Rh1) 85... Kh6 86. Re1 h3 87. Rh1 Kg5 88. Kg7 Kg4 89. f7 Kg3 90.
+f8=Q Rxf8 {Accuracy: White = 64%, Black = 66%.} 1/2-1/2
+
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.5"]
+[White "Safarli, Eltaj"]
+[Black "Shankland, Sam"]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "2593"]
+[BlackElo "2705"]
+[Annotator "TA"]
+[PlyCount "89"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,89,-41,-42,-53,-41,-49,-47,-52,0,0,0,0,0,0,-6,-16,1,10,13,5,11,9,0,6,
+45,43,93,85,87,87,73,87,112,110,106,111,105,105,105,105,153,115,121,125,124,
+124,123,113,113,120,113,113,201,202,218,218,213,210,218,226,217,180,357,323,
+352,351,351,360,374,363,349,328,29968,29968]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4.
+d4 exd4 5. e5 d5 6. Bb5 Nd7 7. O-O Be7 8. Bxc6 bxc6 9. e6 fxe6 {Hoping for ...
+e5.} 10. Nxd4 {C56: Two Knights: 4 d4 exd4 5 0-0 Nxe4} Nb8 11. Qh5+ (11. Re1
+O-O 12. Nxe6 Bxe6 13. Rxe6 Bc5 14. Re2 Qf6 15. Qf1 Nd7 16. c3 Rae8 17. Rxe8
+Bxf2+ 18. Kh1 Rxe8 19. Bd2 Nc5 20. Na3 Ne4 21. Qd3 Qg6 22. Qf3 Rf8 23. Bf4 Qe6
+{0-1 (23) Zenelaj,F (1933)-Subelj,J (2407) Sarajevo 2019}) 11... g6 12. Qe2
+$146 {Black is slightly better.} ({Predecessor:} 12. Qh6 c5 13. Nf3 Nc6 14. a3
+Bf8 15. Qe3 Qd6 16. Re1 Bg7 17. Nbd2 O-O {0-1 (26) Hernandez,O (947)-Nospers,C
+(1281) LSS email 2011}) 12... e5 13. Qxe5 O-O 14. Ne6 {[%csl Ge6][%cal Re5g7]}
+({Much worse is} 14. Bh6 Bf6 $17) 14... Bf6 15. Qe3 Bxe6 16. Qxe6+ Kg7 17. Qh3
+$36 {[%mdl 2048] Black must now prevent Bh6+. White is pushing.} Re8 18. Bh6+
+Kg8 19. Nd2 Nd7 20. Rae1 Ne5 21. Bf4 Qc8 22. Qc3 {[%cal Rf4e5]} Qe6 23. Nb3 Qd6
+24. Qg3 c5 {[#]} 25. Nxc5 $1 {[%mdl 512]} Qxc5 26. Bxe5 Bxe5 27. Rxe5 Qxc2 28.
+Rxd5 Rad8 29. Rxd8 Rxd8 $16 {[%mdl 4096] Endgame KQR-KQR} 30. h4 Qxb2 31. Qxc7
+Qd4 32. h5 gxh5 33. Re1 Rf8 34. Qg3+ Kh8 (34... Qg7 $16) 35. Qe5+ $18 Qxe5 36.
+Rxe5 {KR-KR} h4 37. Ra5 Rf7 38. Ra3 Kg7 {[#]} 39. f3 $1 Kf6 $2 (39... a5 {
+was necessary.} 40. Rxa5 h3) 40. Kh2 Ke5 41. Ra4 Kf5 42. Rxh4 Kg5 43. Rg4+ Kf5
+44. Kg3 h5 $2 (44... Ke5 $18 45. Re4+ Kd6) 45. Rf4+ {Accuracy: White = 100%,
+Black = 51%.} 1-0
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.6"]
+[White "Shankland, Sam"]
+[Black "Safarli, Eltaj"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[WhiteElo "2705"]
+[BlackElo "2593"]
+[Annotator "TA"]
+[PlyCount "124"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,124,30,29,12,24,13,37,37,38,21,31,27,31,32,37,31,35,31,39,41,35,25,
+48,0,0,0,0,0,5,0,61,62,70,0,0,-491,9,-580,0,0,0,0,0,0,0,0,0,0,0,0,83,-14,-14,
+-159,-156,-134,-129,-113,0,-181,-179,-193,-178,-419,-400,-326,-74,-90,-77,-138,
+-147,-145,0,0,0,-404,0,-45,-44,-46,-26,-26,-26,-26,-26,-26,-26,-33,0,-48,4,4,
+12,12,12,12,12,12,12,12,12,12,12,0,0,-8,-8]} 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3
+g6 5. Nf3 Bg7 6. Be2 O-O 7. O-O dxc4 8. Bxc4 Bg4 9. h3 Bxf3 10. Qxf3 Nbd7 11.
+e4 {D94: GrÃ¼nfeld: 4 Nf3 Bg7 5 e3} (11. Rd1 e5 12. d5 e4 13. Nxe4 Nxe4 14. Qxe4
+Nb6 15. Rb1 Qd6 16. Bb3 cxd5 17. Qd3 a5 18. a3 Qe6 19. Bd2 Rfc8 20. Be1 Rc5 21.
+Ba2 Nc4 22. b4 axb4 23. Bxb4 {1-0 (84) Riazantsev,A (2654)-Li,C (2735) Geneva
+2017}) 11... Nb6 12. Qd3 Nxc4 13. Qxc4 {White is slightly better.} b5 $146 ({
+Predecessor:} 13... Nd7 14. Be3 Nb6 15. Qd3 e6 16. Rad1 Qe7 17. Qc2 Nc4 18. Bc1
+Rfd8 {1/2-1/2 (68) Baumgartner,A (1680)-Willin,B (1964) Bad Wiessee 2012}) 14.
+Qxc6 Qxd4 15. Be3 Qe5 16. f4 Qe6 17. Qxe6 ({Much worse is} 17. Qxb5 Nxe4 18.
+Qb3 Qxb3 $15) 17... fxe6 18. e5 Nd5 19. Nxd5 exd5 20. Bc5 Rf7 21. h4 e6 22. g3
+Rc7 23. Bd6 Rc2 24. Rfc1 Rac8 (24... Rxb2 $11 25. Rab1 Rxa2) 25. Rxc2 $14 Rxc2
+{[%mdl 4096] Endgame KRB-KRB} 26. b4 ({Better is} 26. a4 $14) 26... Rc6 $11 27.
+a4 $2 {[%mdl 8192] [#]} (27. Bc5 $11) 27... Ra6 $2 ({Black should play} 27...
+Rxd6 $1 $19 {[%mdl 512]} 28. axb5 (28. exd6 Bxa1) 28... Rd7) 28. a5 $2 {
+[%mdl 8192] [#]} (28. Rb1 $11 {and White is okay.} bxa4 29. b5) 28... Rc6 $2 (
+28... Rxd6 $1 $19 {[%mdl 512]} 29. Rc1 (29. exd6 Bxa1) 29... Rd7) 29. Bc5 a6
+30. Kf2 Bf8 31. Rc1 Kf7 32. g4 h5 33. gxh5 gxh5 34. Ke3 Be7 (34... Rc8 $11 {
+remains equal.}) 35. Kd4 (35. f5 $16) 35... Bxh4 {With the idea ...Bf2+.} 36.
+Rf1 (36. Rh1 $1 $11 Bf2+ 37. Kd3 Bxc5 38. Rc1 {[%mdl 64] Pin}) 36... Rc8 $17
+37. f5 Rg8 $1 38. Bd6 {[#]} Rc8 (38... Rg1 $1 $17 {[%cal Rg1f1][%mdl 512]} 39.
+Rf3 (39. fxe6+ Kxe6 40. Rf8 Bg5 $17) (39. Rxg1 Bf2+) 39... Rc1) 39. Kd3 $2 (39.
+Bc5 $11) 39... Bg5 $1 $19 40. Rg1 {[#]} Rg8 $1 41. Rg2 $2 (41. Bc5 {is a
+better defense.} Rg7 42. f6) 41... exf5 42. Rc2 Bd8 $2 (42... f4 $19 {and
+Black stays clearly on top. And now ...h4 would win.} 43. Rc6 h4 44. Rxa6 h3)
+43. Rc6 $17 h4 44. Kd4 {[#]} (44. Rxa6 $142 h3 45. e6+ {[%mdl 64] Decoy} Kxe6
+46. Bc7+ Kd7 47. Bxd8 Rg3+ 48. Kd4 Kxd8 49. Rf6) 44... h3 $1 {Threatens to win
+with ...f4.} 45. Kxd5 Rg2 (45... Bg5 $17 46. Rc2 (46. Rxa6 $2 Rd8 $19) 46...
+Kg6) 46. e6+ $11 Kf6 $1 47. Be5+ $2 {[%mdl 8192]} (47. Rc3 $11 {and White
+stays safe.}) 47... Ke7 $2 (47... Kg5 $19 {White must now prevent ...Rd2+.} 48.
+Rxa6 f4) 48. Rxa6 Rd2+ 49. Bd4 {White wants to play Ra7+.} h2 50. Ra7+ Ke8 51.
+Rh7 Bf6 52. Rxh2 $1 Rxd4+ {KRB-KR} 53. Kc5 Rh4 54. Ra2 Be7+ (54... Bd4+ $15 55.
+Kxb5 f4) 55. Kd5 {Strongly threatening a6.The position is equal.} Rc4 56. a6 {
+Hoping for a7.} Rc8 57. a7 Ra8 58. Kc6 {Kb7 is the strong threat.} Bxb4 59. Kb7
+Rxa7+ $1 60. Kxa7 Ke7 61. Re2 Bc3 {aiming for ...b4.} 62. Kb6 b4 {Accuracy:
+White = 46%, Black = 54%.} 1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.3"]
+[White "Fedoseev, Vladimir"]
+[Black "Ganguly, Surya Shekhar"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2664"]
+[BlackElo "2658"]
+[Annotator "RC"]
+[PlyCount "69"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "1500+10"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} d6 {[%emt 0:
+00:00]} 3. d4 {[%emt 0:00:21]} cxd4 {[%emt 0:00:00]} 4. Nxd4 {[%emt 0:00:01]}
+Nf6 {[%emt 0:00:00]} 5. Nc3 {[%emt 0:00:01]} a6 {[%emt 0:00:00]} 6. Be2 {
+[%emt 0:00:01]} e5 {[%emt 0:00:02]} 7. Nb3 {[%emt 0:00:02]} Be7 {[%emt 0:00:04]
+} 8. O-O {[%emt 0:00:04]} O-O {[%emt 0:00:07]} 9. Be3 {[%emt 0:00:10]} Be6 {
+[%emt 0:00:19]} 10. Qd3 {[%emt 0:00:53]} Nbd7 {[%emt 0:00:06]} 11. Nd5 {
+[%emt 0:00:18]} Bxd5 {[%emt 0:00:10]} 12. exd5 {[%emt 0:00:01]} h5 {[%emt 0:00:
+08]} 13. Kh1 {[%emt 0:04:24]} Ng4 {[%emt 0:02:29]} 14. Bxg4 {[%emt 0:03:56]}
+hxg4 {[%emt 0:00:02]} 15. f3 {[%emt 0:00:01]} Nf6 {[%emt 0:05:05]} 16. f4 {
+[%emt 0:02:44]} exf4 {[%emt 0:01:51]} 17. Rxf4 {[%emt 0:00:32]} Qd7 {[%emt 0:
+00:06]} 18. Raf1 {[%emt 0:02:07]} Rae8 {[%emt 0:00:06]} 19. c4 {[%emt 0:02:07]}
+Nh7 {[%emt 0:01:40]} 20. R4f2 {[%emt 0:00:51]} Bh4 {[%emt 0:00:14]} 21. g3 {
+[%emt 0:00:32]} Bg5 {[%emt 0:00:43]} 22. Bd4 {[%emt 0:00:06]} Nf6 {[%emt 0:04:
+01]} 23. Nd2 {[%emt 0:01:10]} Bxd2 {[%emt 0:02:23]} 24. Bxf6 {[%emt 0:01:35]}
+Be3 {[%emt 0:00:37]} 25. Re2 {[%emt 0:02:58]} Bb6 {[%emt 0:00:05]} 26. Bg5 {
+[%emt 0:00:48]} Rxe2 27. Qxe2 {[%emt 0:00:02]} Re8 {[%emt 0:00:14]} 28. Qd3 {
+[%emt 0:00:02]} Re5 {[%emt 0:01:50]} 29. Bf4 {[%emt 0:00:09]} Re7 {[%emt 0:00:
+04]} 30. b4 {[%emt 0:00:47]} a5 {[%emt 0:00:41]} 31. a3 {[%emt 0:00:20]} Ba7 {
+[%emt 0:00:37]} 32. Bg5 {[%emt 0:00:37]} Re5 {[%emt 0:00:51]} 33. Bf4 {[%emt 0:
+00:02]} Re7 {[%emt 0:00:05]} 34. Bg5 {[%emt 0:00:42]} Re5 {[%emt 0:01:10]} 35.
+Bf4 {[%emt 0:00:03]} 1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.4"]
+[White "Ganguly, Surya Shekhar"]
+[Black "Fedoseev, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[WhiteElo "2658"]
+[BlackElo "2664"]
+[Annotator "RC"]
+[PlyCount "100"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "1500+10"]
+
+1. c4 {[%emt 0:00:00]} c6 {[%emt 0:00:00]} 2. Nc3 {[%emt 0:00:02]} d5 {[%emt 0:
+00:00]} 3. e3 {[%emt 0:00:04]} Nf6 {[%emt 0:00:00]} 4. Nf3 {[%emt 0:00:04]}
+Nbd7 {[%emt 0:00:00]} 5. d4 {[%emt 0:00:09]} e6 {[%emt 0:00:03]} 6. Bd3 {
+[%emt 0:00:07]} Be7 {[%emt 0:00:57]} 7. O-O {[%emt 0:00:08]} b6 {[%emt 0:00:16]
+} 8. e4 {[%emt 0:01:01]} dxe4 {[%emt 0:00:07]} 9. Nxe4 {[%emt 0:00:03]} Bb7 {
+[%emt 0:00:23]} 10. Qe2 {[%emt 0:01:12]} Nxe4 {[%emt 0:01:13]} 11. Bxe4 {
+[%emt 0:00:03]} Nf6 {[%emt 0:01:55]} 12. Bc2 {[%emt 0:00:34]} O-O {[%emt 0:00:
+18]} 13. Rd1 {[%emt 0:00:09]} Qc7 {[%emt 0:00:22]} 14. Ne5 {[%emt 0:00:21]} c5
+{[%emt 0:01:15]} 15. Bf4 {[%emt 0:00:16]} Bd6 {[%emt 0:04:05]} 16. dxc5 {
+[%emt 0:01:29]} Bxc5 {[%emt 0:00:17]} 17. Bg3 {[%emt 0:04:31]} Rfd8 {[%emt 0:
+02:03]} 18. Nd7 {[%emt 0:00:48]} Qc6 {[%emt 0:00:07]} 19. Nxf6+ {[%emt 0:00:03]
+} gxf6 {[%emt 0:00:01]} 20. Qg4+ {[%emt 0:00:03]} Kf8 {[%emt 0:00:11]} 21. Bh4
+{[%emt 0:00:02]} Rd4 {[%emt 0:02:00]} 22. Rxd4 {[%emt 0:01:00]} Bxd4 {[%emt 0:
+00:03]} 23. Bxh7 {[%emt 0:02:38]} Ke7 {[%emt 0:00:50]} 24. Rd1 {[%emt 0:00:16]}
+Bxb2 {[%emt 0:00:13]} 25. f3 {[%emt 0:00:39]} Qc5+ {[%emt 0:05:00]} 26. Kh1 {
+[%emt 0:00:14]} Rc8 {[%emt 0:01:37]} 27. Qf4 {[%emt 0:02:00]} Be5 {[%emt 0:00:
+23]} 28. Qd2 {[%emt 0:00:02]} Bc6 {[%emt 0:02:57]} 29. f4 {[%emt 0:06:16]} Qxc4
+{[%emt 0:00:23]} 30. fxe5 {[%emt 0:00:46]} Qxh4 {[%emt 0:00:02]} 31. Qd6+ {
+[%emt 0:00:02]} Ke8 {[%emt 0:00:01]} 32. exf6 {[%emt 0:00:02]} Qxf6 {[%emt 0:
+00:30]} 33. Be4 {[%emt 0:00:02]} Bb5 {[%emt 0:01:31]} 34. Qg3 {[%emt 0:00:08]}
+Kf8 {[%emt 0:00:15]} 35. h3 {[%emt 0:00:27]} Rc5 {[%emt 0:01:00]} 36. Qb8+ {
+[%emt 0:00:39]} Kg7 {[%emt 0:00:02]} 37. Qxa7 {[%emt 0:00:01]} Be2 {[%emt 0:00:
+11]} 38. Rb1 {[%emt 0:01:21]} Qf4 {[%emt 0:00:01]} 39. Ba8 {[%emt 0:00:54]}
+Rc1+ {[%emt 0:00:38]} 40. Rxc1 {[%emt 0:00:01]} Qxc1+ {[%emt 0:00:01]} 41. Kh2
+{[%emt 0:00:01]} Qf4+ {[%emt 0:00:03]} 42. Kh1 {[%emt 0:00:06]} b5 {[%emt 0:00:
+15]} 43. Qa3 {[%emt 0:00:40]} Bc4 {[%emt 0:00:02]} 44. Qc3+ {[%emt 0:00:10]} e5
+{[%emt 0:00:15]} 45. a3 {[%emt 0:00:00]} Kf6 {[%emt 0:00:21]} 46. Bc6 {[%emt 0:
+00:22]} Qd4 {[%emt 0:00:14]} 47. Qf3+ {[%emt 0:00:07]} Ke7 {[%emt 0:00:07]} 48.
+Be4 {[%emt 0:00:13]} Be6 {[%emt 0:00:03]} 49. Kh2 {[%emt 0:00:12]} Qd6 {
+[%emt 0:00:14]} 50. Qg3 {[%emt 0:00:17]} Qd4 {[%emt 0:00:15]} 1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.5"]
+[White "Ganguly, Surya Shekhar"]
+[Black "Fedoseev, Vladimir"]
+[Result "0-1"]
+[ECO "A11"]
+[WhiteElo "2658"]
+[BlackElo "2664"]
+[Annotator "TA"]
+[PlyCount "64"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,68,24,32,27,33,31,28,41,26,35,26,9,5,4,2,10,8,10,69,62,109,0,27,22,16,
+-66,-43,-58,-52,-78,-70,-187,-195,-185,-200,-339,-332,-392,-391,-436,-347,-502,
+-488,-543,-543,-902,-916,-860,-683,-1058,-1044,-1292,-1327,-1314,-1247,-1281,
+-1266,-1139,-1131,-1978,-1983]} 1. c4 c6 2. Nc3 d5 3. e3 Nf6 4. Nf3 a6 5. d4
+Bf5 6. Ne5 {D15: Slav Defence: 4 Nc3 a6 and gambit lines after 4 Nc3 dxc4} (6.
+Qb3 Ra7 7. Nh4 Bc8 8. Bd2 e6 9. c5 Nbd7 10. Nf3 e5 11. Nxe5 Nxe5 12. dxe5 Nd7
+13. Na4 Bxc5 14. Nxc5 Nxc5 {0-1 (84) Radjabov,T (2757)-Fedoseev,V (2724) Wijk
+aan Zee 2019}) 6... Nbd7 7. Qb3 Qc7 8. cxd5 {White has an edge.} Nxe5 9. dxe5
+Nxd5 10. Bc4 {Hoping for e4.} e6 11. e4 $1 {[%cal Re4f5]} Nxc3 12. exf5 Nd5 $36
+{[%mdl 2048] Black fights for an advantage.} 13. Bxd5 {Strongly threatening
+Bc4.} cxd5 $146 ({Black should play} 13... Qxe5+ $11 14. Be3 cxd5) ({
+Predecessor:} 13... Qa5+) 14. O-O $1 $14 Bc5 {[#]} 15. Bf4 (15. Qg3 $1 $16)
+15... Qb6 16. Qg3 g6 17. f6 (17. b4 $11 Be7 18. fxe6 fxe6 19. Bh6) 17... Rc8
+18. Rfd1 h5 19. h4 Kd7 20. a3 {[#]} ({Better is} 20. Rab1 $15) 20... Bd4 $1 $19
+({Stronger than} 20... Qxb2 21. Rdb1 $16) 21. Rd2 Bxb2 22. Rad1 (22. Rb1 {
+was worth a try.} Rc1+ 23. Rxc1 Bxc1 24. Rc2 Bxf4 25. Qxf4) 22... Rc3 23. Be3
+Qb3 24. Qh3 {intending Rxd5+.} Kc6 25. Rd4 (25. a4 $142) 25... Bxa3 {Black is
+clearly winning.} 26. Kh2 Bc5 27. Qf3 Bxd4 28. Rxd4 Rc4 29. Qf4 a5 {[%cal
+Ba6a5,Ba5a4][%mdl 32]} 30. Bc1 a4 31. Qd2 Rxd4 32. Qxd4 Ra8 {Played: Qb3-c4}
+0-1
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.6"]
+[White "Fedoseev, Vladimir"]
+[Black "Ganguly, Surya Shekhar"]
+[Result "1-0"]
+[ECO "E91"]
+[WhiteElo "2664"]
+[BlackElo "2658"]
+[Annotator "TA"]
+[PlyCount "63"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 17,63,33,43,4,22,17,28,18,33,-31,-29,-14,164,166,262,245,579,370,497,
+199,180,181,180,135,145,141,193,131,138,106,115,60,61,0,0,0,297,297,550,549,
+527,524,606,608,676,670,701,590]} 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2
+O-O 6. Nf3 Na6 7. O-O e5 8. Be3 Ng4 9. Bg5 Qe8 10. c5 {With the idea cxd6. E94:
+King's Indian: Classical: 6 Be2 e5 7 0-0: Various Black 7th moves} (10. Re1
+exd4 11. Nxd4 Qe5 12. Nf3 Qc5 13. Bh4 Be6 14. Rc1 Bxc4 15. Nd5 Bxe2 16. Qxe2
+Qa5 17. h3 Ne5 {1-0 (38) Lysyj,I (2635)-Mirzoev,E (2511) Skopje 2019}) 10...
+exd4 11. Nd5 {cxd6 is the strong threat.} Qxe4 12. Ne7+ {White has an edge.}
+Kh8 13. Bd3 (13. Re1 $14 d3 14. Bxd3) 13... Qe6 $15 {Hoping for ...f6.} 14. Re1
+Qd7 $2 (14... Ne5 $1 $11 15. Bxa6 f6 16. Nxc8 bxa6) 15. Bxa6 $1 $18 dxc5 (15...
+f6 $142) 16. Bc4 h6 $2 (16... c6 {is tougher.} 17. Nxc8 Raxc8) 17. Bf4 $146 ({
+Predecessor:} 17. Bh4 g5 18. Bxg5 hxg5 19. Nxg5 Qd6 20. Qd3 Qxh2+ 21. Kf1 Qh4
+22. Nxf7+ Rxf7 23. Ng6+ {1-0 (23) Tarczykowski,J (1988)-Kiolbasa,D (1826)
+Koszalin 2012}) 17... Re8 18. Nd5 (18. Qe2 $142 Ne3 19. Nxc8 (19. fxe3 Rxe7 20.
+Rad1 Rb8 $16)) 18... Rxe1+ 19. Qxe1 b5 20. Nxc7 bxc4 21. Nxa8 {Black must now
+prevent Nc7.} Bb7 22. Nc7 (22. h3 $18) 22... Qf5 $16 {[#]} 23. Bg3 $1 {
+Strongly threatening Nb5.} Bxf3 {[#]} 24. gxf3 ({White should try} 24. Qe8+ $1
+$16 Kh7 25. gxf3 Qxf3 26. h3) 24... Ne5 $14 25. Bxe5 (25. Qd1 $14) 25... Bxe5
+$11 26. Nd5 {And now Qe4 would win.} d3 $2 {[%mdl 8192]} (26... Qg5+ $11 {
+and Black stays safe.} 27. Kh1 Qh5) 27. Qe4 $18 Qh5 $2 (27... Qxe4 {was
+necessary.} 28. fxe4 Bxb2) 28. h4 {White is clearly winning.} Bxb2 29. Rb1 d2
+30. Kf1 Kg7 31. Ke2 c3 32. Kd1 {Accuracy: White = 48%, Black = 31%.} 1-0
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.3"]
+[White "Korobov, Anton"]
+[Black "Gupta, Abhijeet"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "2679"]
+[BlackElo "2609"]
+[Annotator "TA"]
+[PlyCount "66"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,66,31,24,20,15,22,30,35,29,0,10,6,14,0,0,0,-8,-36,-30,-41,4,-28,-32,
+-39,-28,-20,-20,-17,-15,-25,-16,-8,28,-22,-20,-48,0,0,0,-168,-170,-149,-153,
+-153,-148,-274,-272,-309,-329,-322,-318,-328,-318,-312,-194,-398,-398,-425,
+-418]} 1. d4 Nf6 2. Nf3 g6 3. Nbd2 d5 4. e3 Bg7 5. b4 O-O 6. Bb2 {D02: 1 d4 d5
+2 Nf3 sidelines, including 2...Nf6 3 g3 and 2...Nf6 3 Bf4} c6 7. a4 Bf5 8. c4 {
+White has an edge.} Ne4 9. Qb3 Nxd2 $146 ({Predecessor:} 9... a5 10. b5 Nd7 11.
+cxd5 cxd5 12. Qxd5 Nxd2 13. Nxd2 e5 14. Be2 Rc8 15. Nf3 Rc2 16. Ba3 Qc7 17. Qb3
+Be6 18. Qd3 e4 {0-1 (18) Hamitevici,V (2439)-Melkumyan,H (2622) Douglas 2015})
+10. Nxd2 Nd7 11. cxd5 cxd5 12. Qxd5 e5 13. Be2 Qe7 {And now ...Rfc8 would win.}
+14. O-O ({Avoid the trap} 14. Qxb7 $2 exd4 15. e4 Rfb8 $19) 14... Rfd8 15. Qf3
+exd4 16. exd4 Nf6 {[#] ...Bg4 is the strong threat.} 17. Bc4 Qxb4 18. Bc3 Qe7
+19. Rfe1 Qd7 20. h3 h5 21. Re5 Rac8 22. Bb2 Bh6 23. Bb5 Qc7 24. Rxf5 $2 {[#]} (
+24. Rc1 $11 {and White stays safe.} Qb8 25. Rxc8 Qxc8 26. Nf1) 24... gxf5 $19
+25. d5 Rxd5 ({Don't play} 25... Nxd5 26. Qxh5 Qd6 27. Ra3 $15) 26. Bxf6 Rxd2
+27. Qxf5 (27. Qxh5 $17 Qf4 28. Be2) 27... Qc5 28. Qxc5 Rxc5 29. Re1 Bg7 30. Bh4
+a6 31. Bf1 Rd4 32. Bg3 $2 (32. g3) 32... h4 33. Bb8 Rc8 {Accuracy: White = 39%,
+Black = 63%.} 0-1
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.4"]
+[White "Gupta, Abhijeet"]
+[Black "Korobov, Anton"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "2609"]
+[BlackElo "2679"]
+[Annotator "TA"]
+[PlyCount "112"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,112,23,22,27,31,30,22,22,19,28,24,25,24,32,23,24,0,0,-2,0,-2,-6,-31,
+-19,-31,-10,-19,-16,-18,0,-10,8,0,16,0,0,0,0,-3,0,-134,-127,-118,-127,-119,-50,
+-37,-52,-45,-37,-42,-40,-68,-72,-65,-68,-245,-245,-472,-472,-472,-459,-472,
+-472,-472,-472,-480,-472,-472,-472,-472,-468,-470,-458,-553,-505,-505,-490,
+-456,-449,-521,-519,-548,-543,-871,-743,-729,-668,-1901,-1876,-5500,-5398,
+-4443,-1664,-5394,-2287,-1227,-1120,-4116,-4618,-895,-820]} 1. d4 g6 2. c4 Bg7
+3. e4 d6 4. Nf3 Bg4 5. Be2 Nc6 6. d5 Bxf3 7. Bxf3 Nd4 {A41: 1 d4 d6:
+Tartakower System and Modern Defence} 8. O-O c5 9. dxc6 bxc6 {The position is
+equal.} 10. Nc3 e5 11. Be3 Ne7 12. b4 O-O 13. Rb1 Qc7 {[#]} 14. b5 $146 (14.
+Be2 {feels hotter.} f5 15. f3 Rac8 16. Qd2 Qd8 17. Rfd1) ({Predecessor:} 14.
+Bxd4 exd4 15. Ne2 c5 16. b5 Bh6 17. Nc1 Bxc1 18. Qxc1 {1/2-1/2 (31) Swiercz,D 
+(2645)-Kempinski,R (2615) Poland 2016}) 14... cxb5 15. Nxb5 Qxc4 16. Bxd4 exd4
+17. Nxd6 Qe6 18. Nb5 {next Nc7 is good for White.} Rad8 19. Qb3 Qd7 20. Rfd1
+Rc8 21. Qa3 a6 22. Qxa6 Nc6 23. Qa3 Rfd8 24. Be2 Qe6 25. Rbc1 Bh6 26. Bc4 (26.
+Rc2 $11 {keeps the balance.}) 26... Qxe4 $17 27. Rb1 Ne5 28. Bf1 Rc2 (28... d3
+$17 29. Nd6 Qa8 30. Qxa8 Rxa8) 29. Bd3 $1 $15 {[%cal Rd3e4]} Nxd3 30. Qxd3 Qxd3
+31. Rxd3 Bg7 $36 {[%mdl 2048] Black has the initiative.} 32. a4 Ra2 33. Ra3 Rd2
+34. a5 $2 (34. Rab3 $15) 34... d3 $19 {White must now prevent ...Rb2.} 35. a6
+$2 (35. Rab3) 35... Rb2 {[%cal Rb2b1] [#] Black is clearly winning.} 36. Rd1 {
+a7 is the strong threat.} Rxb5 37. Kf1 Rbd5 38. a7 Ra8 39. g3 Rd7 40. Raxd3
+Rxd3 41. Rxd3 Rxa7 {[%mdl 4096] Endgame KRB-KR} 42. Kg2 h5 43. h3 Bf8 44. Rd2
+Kg7 45. Rc2 Be7 46. Rd2 h4 47. Re2 hxg3 48. fxg3 Bf6 49. h4 Ra5 50. Rf2 Be5 51.
+Rf3 Rc5 52. Re3 f6 53. Re4 f5 54. Re3 Kf6 55. Ra3 Rc3 56. Ra6+ Kg7 {Accuracy:
+White = 29%, Black = 74%.} 0-1
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.5"]
+[White "Korobov, Anton"]
+[Black "Gupta, Abhijeet"]
+[Result "1-0"]
+[ECO "D71"]
+[WhiteElo "2679"]
+[BlackElo "2609"]
+[Annotator "TA"]
+[PlyCount "121"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,121,24,22,27,18,0,0,36,0,4,10,2,-51,0,0,24,18,18,-4,12,24,19,24,28,0,
+0,0,0,0,8,-71,-70,-156,-131,-154,-132,-124,-109,-108,-91,-90,-100,-135,-124,
+-170,-124,-183,-87,-95,-77,-90,-91,-73,-76,-81,-48,-48,-48,-75,-48,-48,-52,-41,
+-8,-31,-27,-22,-38,-38,-37,-96,-22,-28,-8,-22,0,0,0,0,7,12,858,836,858,829,
+29969,29970,29970,29971,29970,29971,29970,29967,7786,7113,29982,29983,29983,
+29980,29985,29986,29988,29989,29989,29990]} 1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2
+d5 5. Qa4 dxc4 6. Qxc4 Bg7 7. Nf3 O-O 8. O-O Bf5 9. Nc3 Nbd7 10. Re1 Ne4 {
+D78: Fianchetto GrÃ¼nfeld: 6 0-0 c6} (10... Nb6 11. Qb3 Be6 12. Qd1 Nfd5 13. Ne4
+Qc8 14. Neg5 Rd8 15. e4 Nc7 16. Bf4 Nb5 17. d5 cxd5 18. Rc1 {1/2-1/2 (79) Yu,Y
+(2751)-Grischuk,A (2772) Huaian 2017}) 11. e3 Qa5 12. Nh4 $146 ({Predecessor:} 
+12. b4 Nd6 13. Qb3 {0-1 (32) Van Poucke,S (2013)-Boschmans,J (1830) Antwerp
+2013}) 12... Nb6 {The position is equal.} 13. Qb3 Be6 14. Qc2 Nxc3 15. bxc3 (
+15. Bd2 $11) 15... Bd5 ({Black should play} 15... Rac8 $15) 16. e4 $11 Bc4 {
+Threatening ...Bxd4!} 17. Nf3 c5 18. Bd2 Rac8 19. a4 {[%cal Ba2a4,Ba4a5][%mdl
+32]} Qa6 20. a5 Nd7 {[%cal Bb6d7,Bd7c5,Bc5d3][%mdl 32]} 21. Qb2 cxd4 22. cxd4
+Nc5 {[%mdl 64] ...Nd3 is the strong threat. Pin} 23. Re3 Rfd8 24. Bc3 (24. e5
+$11 Nd3 25. Qb1) 24... Nd3 $17 25. Qd2 (25. Qb1 $15) 25... Bh6 $36 {[%mdl 2048]
+Black is really pushing.} 26. h4 Bb5 27. Ng5 f6 $1 {[%cal Rf6g5]} 28. Bf1 {
+[%cal Rf1d3]} fxg5 29. Bxd3 gxh4 30. Qa2+ Bc4 31. Rf3 hxg3 32. fxg3 (32. Bxc4+
+$17 {is a better defense.} Rxc4 33. fxg3) 32... Qe6 (32... b5 $19 {has better
+winning chances.} 33. Qe2 Bg7) 33. Bxc4 Qxc4 34. Qxc4+ Rxc4 35. Rb1 Rdc8 36.
+Rb3 b5 37. axb6 axb6 38. Bb2 e5 39. dxe5 Rxe4 40. Kf1 Rc6 41. Ra3 {White wants
+to mate with Ra8+.} Bc1 42. Ra8+ Kg7 43. Bc3 Kh6 44. Kg2 (44. Ra7 $15) 44...
+Re2+ ({Black should try} 44... Kg5 $17 {Strongly threatening ...Kg4.} 45. Rd8
+Kg4) 45. Kh3 $11 b5 {With the idea ...Rc4.} 46. Rb8 Re3 47. Rxe3 Bxe3 {[%mdl
+4096] Endgame KRB-KRB} 48. Bb4 Rb6 49. Re8 {Threatens to win with Kg4.} ({Not} 
+49. Rxb6 $2 Bxb6 50. Bf8+ Kg5 $19) 49... Kg7 $2 {[%mdl 8192] [#]} (49... Rc6
+$11) 50. e6 $1 $18 {[%cal Re6e7]} Bg5 {[#]} 51. Kg4 $1 h6 52. Bc3+ Bf6 53. Re7+
+$1 Kf8 54. Rf7+ Ke8 55. Rxf6 {KRB-KR} b4 56. Bb2 Rc6 57. Rxg6 {White mates.}
+Ke7 58. Rxh6 Rc2 59. Be5 b3 60. Kf5 Rf2+ 61. Bf4 {Accuracy: White = 55%, Black
+= 39%.} 1-0
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.6"]
+[White "Gupta, Abhijeet"]
+[Black "Korobov, Anton"]
+[Result "0-1"]
+[ECO "D36"]
+[WhiteElo "2609"]
+[BlackElo "2679"]
+[Annotator "RC"]
+[PlyCount "134"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "600+10"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:00]} e6 {[%emt 0:
+00:00]} 3. Nc3 {[%emt 0:00:00]} d5 {[%emt 0:00:00]} 4. cxd5 {[%emt 0:00:00]}
+exd5 {[%emt 0:00:00]} 5. Bg5 {[%emt 0:00:00]} c6 {[%emt 0:00:00]} 6. Qc2 {
+[%emt 0:00:00]} Be7 {[%emt 0:00:03]} 7. e3 {[%emt 0:00:00]} Nbd7 {[%emt 0:00:
+02]} 8. Bd3 {[%emt 0:00:03]} Nh5 {[%emt 0:00:02]} 9. Bxe7 {[%emt 0:00:06]} Qxe7
+{[%emt 0:00:02]} 10. O-O-O {[%emt 0:00:02]} Nb6 {[%emt 0:00:18]} 11. h3 {
+[%emt 0:00:10]} Nf6 {[%emt 0:00:19]} 12. g4 {[%emt 0:00:46]} Be6 {[%emt 0:00:
+24]} 13. f4 {[%emt 0:00:24]} O-O-O {[%emt 0:00:17]} 14. Nf3 {[%emt 0:00:28]}
+Kb8 {[%emt 0:00:02]} 15. Kb1 {[%emt 0:00:13]} g6 {[%emt 0:00:28]} 16. Ne5 {
+[%emt 0:01:10]} h5 {[%emt 0:00:15]} 17. g5 {[%emt 0:00:37]} Nfd7 {[%emt 0:00:
+16]} 18. h4 {[%emt 0:00:06]} Nxe5 {[%emt 0:00:23]} 19. fxe5 {[%emt 0:00:10]} c5
+{[%emt 0:00:02]} 20. Rhf1 {[%emt 0:01:12]} Rc8 {[%emt 0:00:29]} 21. Qf2 {
+[%emt 0:00:23]} cxd4 {[%emt 0:00:14]} 22. exd4 {[%emt 0:00:02]} a6 {[%emt 0:00:
+51]} 23. Rc1 {[%emt 0:00:24]} Nc4 {[%emt 0:00:30]} 24. Qf6 {[%emt 0:01:27]} Qb4
+{[%emt 0:00:44]} 25. Bxc4 {[%emt 0:00:26]} Qxc4 {[%emt 0:00:02]} 26. Rfd1 {
+[%emt 0:00:40]} Qb4 {[%emt 0:00:27]} 27. Ka1 {[%emt 0:01:02]} Rhe8 {[%emt 0:00:
+09]} 28. a3 {[%emt 0:00:36]} Qb3 {[%emt 0:00:18]} 29. Qf2 {[%emt 0:01:01]} Rc4
+{[%emt 0:00:49]} 30. Qc2 {[%emt 0:00:39]} Qb6 {[%emt 0:00:06]} 31. b3 {[%emt 0:
+01:00]} Rc6 {[%emt 0:00:42]} 32. Kb2 {[%emt 0:00:05]} Rec8 {[%emt 0:00:06]} 33.
+Qd2 {[%emt 0:00:04]} Qd8 {[%emt 0:02:23]} 34. Na4 {[%emt 0:00:15]} b6 {[%emt 0:
+00:03]} 35. Qb4 {[%emt 0:00:37]} Ka7 {[%emt 0:00:03]} 36. Rxc6 {[%emt 0:00:18]}
+Rxc6 {[%emt 0:00:01]} 37. Rc1 {[%emt 0:00:02]} Rxc1 {[%emt 0:00:20]} 38. Kxc1 {
+[%emt 0:00:00]} Bd7 {[%emt 0:00:53]} 39. Nc3 {[%emt 0:00:31]} Be6 {[%emt 0:00:
+03]} 40. Kb2 {[%emt 0:00:11]} Kb7 {[%emt 0:00:09]} 41. a4 {[%emt 0:00:10]} Ka7
+{[%emt 0:00:36]} 42. Qa3 {[%emt 0:00:44]} Kb7 {[%emt 0:00:14]} 43. a5 {[%emt 0:
+00:26]} b5 {[%emt 0:00:39]} 44. Qb4 {[%emt 0:00:18]} Ka8 {[%emt 0:00:07]} 45.
+Na2 {[%emt 0:00:23]} Kb7 {[%emt 0:00:18]} 46. Qc3 {[%emt 0:00:09]} Qc7 {
+[%emt 0:01:07]} 47. Qxc7+ {[%emt 0:00:15]} Kxc7 {[%emt 0:00:01]} 48. Kc3 {
+[%emt 0:00:03]} Bc8 {[%emt 0:00:08]} 49. Nb4 {[%emt 0:00:03]} Bb7 {[%emt 0:00:
+04]} 50. Nd3 {[%emt 0:00:21]} Bc8 {[%emt 0:00:07]} 51. Nb4 {[%emt 0:00:01]} Bb7
+{[%emt 0:00:01]} 52. e6 {[%emt 0:00:04]} fxe6 {[%emt 0:00:02]} 53. Nd3 {
+[%emt 0:00:01]} Bc6 {[%emt 0:00:12]} 54. Nc5 {[%emt 0:00:01]} Kd6 {[%emt 0:00:
+05]} 55. Nxa6 {[%emt 0:00:02]} e5 {[%emt 0:00:01]} 56. Nb4 {[%emt 0:00:09]} e4
+{[%emt 0:00:08]} 57. Kd2 {[%emt 0:00:05]} Ba8 {[%emt 0:00:07]} 58. Kc3 {
+[%emt 0:00:12]} Ke6 {[%emt 0:00:18]} 59. Na6 {[%emt 0:00:07]} Kf5 {[%emt 0:00:
+04]} 60. Nc7 {[%emt 0:00:06]} Bc6 {[%emt 0:00:01]} 61. a6 {[%emt 0:00:06]} Kg4
+{[%emt 0:00:15]} 62. a7 {[%emt 0:00:08]} Kxh4 {[%emt 0:00:21]} 63. Nxb5 {
+[%emt 0:00:23]} Kg3 {[%emt 0:00:19]} 64. Kb4 {[%emt 0:00:01]} e3 {[%emt 0:00:
+11]} 65. Kc5 {[%emt 0:00:04]} Ba8 {[%emt 0:00:01]} 66. Nc3 {[%emt 0:00:49]} h4
+{[%emt 0:00:04]} 67. Kb6 {[%emt 0:00:02]} h3 {[%emt 0:00:07]} 0-1
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.3"]
+[White "Gelfand, Boris"]
+[Black "Lu, Shanglei"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[WhiteElo "2686"]
+[BlackElo "2602"]
+[Annotator "TA"]
+[PlyCount "70"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,70,0,29,35,25,31,42,24,74,76,64,80,107,49,38,20,28,30,18,25,125,127,
+103,107,112,113,112,98,122,111,100,22,20,1,12,11,54,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7.
+Na3 cxd4 8. Nxc4 Be7 9. b3 {E04: Open Catalan: 5 Nf3} (9. Qc2 d3 10. exd3 O-O
+11. d4 Bd7 12. Qb3 Nb4 13. Nfe5 Bc6 14. Nxc6 bxc6 15. Rd1 Rb8 16. Qa4 Nbd5 {
+1/2-1/2 (42) Ponkratov,P (2630)-Yu,Y (2764) St Petersburg 2018}) 9... O-O 10.
+Bb2 {[%cal Rf3d4]} d3 11. e3 {White is slightly better.} h6 $146 ({Predecessor:
+} 11... Ne4 12. Nfe5 Nxe5 13. Nxe5 Nc5 14. b4 Nd7 15. Nxd3 a5 16. a3 Bf6 {
+1/2-1/2 (45) Fridman,D (2627)-Inkiov,V (2451) Belgium 2008}) 12. Nfe5 Nxe5 13.
+Nxe5 Rb8 14. Bd4 (14. Qd2 $16) 14... Nd7 $14 15. Nxd7 Qxd7 16. Bxa7 Ra8 17. Bd4
+$36 {[%mdl 2048] White is more active.} Bf6 (17... Rd8 $11) 18. Bxf6 $16 gxf6
+19. Qg4+ Kh8 20. Rfd1 Rd8 21. Rd2 Qb5 22. Rad1 e5 23. Qf3 (23. Qh5 $16 Kg7 24.
+Be4) 23... Kg7 $11 24. Bf1 {[%cal Rf1d3]} Qb4 $1 {[#] White must now prevent ..
+.Bg4.} 25. e4 Be6 26. Rxd3 ({White should try} 26. Bxd3 $14 Rd4 27. Qe2) 26...
+Rxd3 {The position is equal.} 27. Bxd3 Rxa2 28. Bc4 $1 {[%cal Rc4e6]} Bxc4 29.
+Qg4+ Kh7 30. Qf5+ Kg7 31. Qg4+ Kh7 32. bxc4 Qxc4 33. Qf5+ Kg7 34. Qg4+ Kh7 35.
+Qf5+ Kg7 {Accuracy: White = 60%, Black = 68%.} 1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.4"]
+[White "Lu, Shanglei"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[WhiteElo "2602"]
+[BlackElo "2686"]
+[Annotator "TA"]
+[PlyCount "20"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 16,20,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 $146 ({
+Predecessor:} 4. Nxe5 d5 {1/2-1/2 (11) Zubov,A (2606)-Rakhmanov,A (2652) Dubai
+2018}) 4... d5 5. Nxe5 Nd7 6. Nxf7 Kxf7 7. Qh5+ Ke6 8. Qe2 Kf7 9. Qh5+ $1 {
+[%mdl 64] [#] Double Attack} ({Don't blunder} 9. Bxe4 $2 dxe4 10. Be3 Nf6 $19)
+9... Ke6 {...g6 is the strong threat. C43: Petroff Defence: 3 d4} 10. Qe2 {
+And now f3 would win.} Kf7 1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.5"]
+[White "Gelfand, Boris"]
+[Black "Lu, Shanglei"]
+[Result "1-0"]
+[ECO "E04"]
+[WhiteElo "2686"]
+[BlackElo "2602"]
+[Annotator "TA"]
+[PlyCount "59"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,59,4,9,9,6,13,4,6,2,12,-14,-21,-30,-23,-25,-14,-24,-43,-27,-22,-30,
+-33,-37,-35,-37,-43,-35,-21,-18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,606,606]} 1. d4
+Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Na3 cxd4 8. Nxc4 Bc5
+{E04: Open Catalan: 5 Nf3} (8... Be7 9. Qc2 d3 10. exd3 O-O 11. d4 Bd7 12. Qb3
+Nb4 13. Nfe5 Bc6 14. Nxc6 bxc6 15. Rd1 Rb8 16. Qa4 Nbd5 {1/2-1/2 (42)
+Ponkratov,P (2630)-Yu,Y (2764) St Petersburg 2018}) 9. a3 a5 10. b3 O-O {
+The position is equal.} 11. Bb2 $1 Rb8 $146 {[%cal Ba8b8,Bb8b7,Bb7c7][%mdl 32]}
+({Predecessor:} 11... Qc7 12. Nxd4 Rd8 13. Nb5 Qe7 14. Qc1 e5 15. Qc3 e4 16.
+Rac1 {1-0 (72) Paravyan,D (2634)-Fridman,D (2633) St Petersburg 2018}) 12. Rc1
+b6 13. Nce5 Nxe5 14. Nxe5 {Threatens to win with Nc6.} Bb7 15. Bxb7 Rxb7 16. b4
+{[%mdl 64] Decoy} axb4 17. axb4 Bxb4 18. Nc6 Qd6 {Strongly threatening ...e5.}
+19. Bxd4 Ba3 20. Rc2 Rc7 21. Qa1 Bc5 22. Bxf6 Qxc6 23. Bxg7 Ra8 24. Qf6 {
+[#] aiming for Bh6.} Bxf2+ $1 {[%mdl 576] Discovered Attack} 25. Qxf2 (25. Rxf2
+Qxc2) 25... Qxc2 26. Be5 $40 {[%mdl 128] And now Qf6 would win. White mounts
+an attack.} Qc5 27. Bxc7 Qxc7 28. Qf6 Ra5 29. e4 Rc5 $2 {[%mdl 8192] [#]} (
+29... Rh5 $11) 30. Rd1 $1 {Accuracy: White = 79%, Black = 62%.} 1-0
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.6"]
+[White "Lu, Shanglei"]
+[Black "Gelfand, Boris"]
+[Result "0-1"]
+[ECO "C24"]
+[WhiteElo "2602"]
+[BlackElo "2686"]
+[Annotator "TA"]
+[PlyCount "30"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,121,23,25,27,0,9,0,20,0,10,0,50,0,0,-54,-44,-79,-80,-125,-117,-124,
+-125,-251,-143,-162,-154,-144,-153,-402,-128,-156,-114,-203,-192,-175,-183,
+-167,-166,-381,-352,-613,-615,-607,-603,-540,-487,-425,-310,-312,-305,-350,-90,
+-309,-97,-97,-95,-76,-85,-82,-2,-27,-14,-14,-14,-14,-14,-14,-14,-33,-18,-23,0,
+-8,-8,-8,-8,-8,-8,-8,0,0,0,0,0,-8,-8,-80,-80,-108,-102,-406,-389,-483,-352,
+-29945,-29948,-5213,-5106,-29962,-29962,-29960,-29960,-29960,-29962,-29982,
+-29984,-29984,-29985,-29985,-29986,-29985,-29986,-29990]} 1. e4 e5 2. Bc4 Nf6
+3. d3 c6 4. Nf3 d5 5. Bb3 Bd6 6. exd5 cxd5 {C24: Bishop's Opening: 2...Nf6} 7.
+Bg5 Nc6 8. O-O Be6 {The position is equal.} 9. Re1 Bc7 $146 ({Predecessor:} 
+9... a6 10. Nc3 Bc7 11. Bh4 O-O 12. Bg3 d4 13. Bxe6 dxc3 14. Bb3 cxb2 {0-1 (49)
+Howell,D (2624)-Bacrot,E (2709) Antwerp 2009}) 10. Ba4 Qb8 11. Nc3 O-O 12. Bxf6
+({White should play} 12. Bb3 $11) 12... gxf6 $15 13. Nh4 Kh8 $1 14. Ne2 Rg8 $1
+15. c3 f5 {Played: Rg8-g4} 0-1
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.3"]
+[White "Bu, Xiangzhi"]
+[Black "Xu, Xiangyu"]
+[Result "1/2-1/2"]
+[ECO "A22"]
+[WhiteElo "2721"]
+[BlackElo "2576"]
+[Annotator "TA"]
+[PlyCount "107"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,107,14,12,14,12,22,21,0,27,28,32,12,12,19,36,37,39,41,41,35,51,52,48,
+49,52,48,36,42,59,59,60,62,64,63,58,55,66,63,57,47,57,43,43,43,43,43,50,49,49,
+40,90,37,43,37,49,49,49,20,21,0,50,48,44,23,30,4,24,25,31,10,11,12,12,13,43,43,
+43,43,60,39,44,0,0,0,0,0,4,4,4,4,4,0,0,0,4,4,4,4,4,4]} 1. c4 e5 2. Nc3 Nf6 3.
+g3 Bc5 4. Bg2 O-O 5. e3 c6 6. Nge2 {A23: English Opening: 1...e5 2 Nc3 Nf6 3
+g3 c6} d5 7. cxd5 Nxd5 8. O-O (8. d4 exd4 9. Nxd5 cxd5 10. Nxd4 Nc6 11. Nxc6
+bxc6 12. O-O Be6 13. Qc2 Qb6 {1/2-1/2 (28) Carlsen,M (2843)-Ding,L (2791)
+Stavanger 2018}) 8... Be6 9. d4 exd4 10. Ne4 Bb6 $146 {[%cal Rd4e3]} ({
+Predecessor:} 10... Be7 11. Nxd4 Qc8 12. Nxe6 Qxe6 13. Bd2 Na6 {1/2-1/2 (79)
+Schneider,B (2372)-Lenaerts,L (2289) Belgium 2018}) 11. Nxd4 Qe7 12. Nxe6 Qxe6
+13. b3 Nd7 14. Bb2 N7f6 15. Nxf6+ Nxf6 16. Qc2 Bc7 17. Qc4 Rfe8 18. Qxe6 Rxe6
+19. Bh3 Ree8 20. Bxf6 gxf6 21. Rfd1 Rad8 22. Kf1 Kf8 23. Ke2 Ba5 24. Bf5 h6 25.
+Rxd8 Rxd8 $14 {[%mdl 4096] Endgame KRB-KRB} 26. Bd3 Rd5 27. Rc1 Rh5 28. h4 Bb4
+29. Rc4 a5 30. Rg4 (30. Rf4 $16) 30... Rd5 31. a4 b5 32. Rf4 Ke7 33. Be4 Rc5
+34. Bd3 Rd5 35. Re4+ Kf8 36. Rg4 Bc3 37. Be4 Rc5 {[#] aiming for ...f5.} 38.
+Bh7 Ke7 39. Rg8 bxa4 40. bxa4 f5 $1 41. Rc8 Kf6 {Threatening ...Kg7.} 42. e4
+fxe4 43. Bxe4 Bb4 44. g4 Kg7 45. f4 Rc4 {The position is equal.} 46. Kd3 Rc3+
+47. Kd4 Rg3 48. g5 hxg5 49. hxg5 Bd2 50. Ke5 Rg4 51. Rxc6 Rxf4 52. Rc2 Rf2 53.
+Kd4 Be1 54. Rxf2 {Accuracy: White = 64%, Black = 61%.} 1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.4"]
+[White "Xu, Xiangyu"]
+[Black "Bu, Xiangzhi"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2576"]
+[BlackElo "2721"]
+[Annotator "TA"]
+[PlyCount "68"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,68,33,29,33,34,29,33,37,58,38,45,52,53,51,42,41,51,47,57,58,72,29,29,
+29,29,29,47,27,54,11,21,0,18,1,13,0,12,6,18,18,18,18,25,8,16,9,44,44,43,43,43,
+43,43,43,45]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3
+Be7 7. Be3 Nc6 8. Qd2 Be6 9. O-O-O {C42: Petroff Defence: 3 Nxe5 and unusual
+White 3rd moves} Qd7 ({But not} 9... Bxa2 $2 10. b3 $18) 10. h4 Bf6 ({Don't go
+for} 10... Bxa2 $2 11. b3 $18) (10... h6 11. Nd4 Nxd4 12. Bxd4 Rg8 13. c4 c5
+14. Bc3 O-O-O 15. Qe3 g5 16. hxg5 hxg5 {1/2-1/2 (71) Caruana,F (2819)-So,W 
+(2754) Stavanger 2019}) 11. Bg5 Qe7 $146 ({Predecessor:} 11... O-O-O 12. Bxf6
+gxf6 13. Nd4 a6 14. Qf4 Nxd4 15. Rxd4 f5 16. Qf3 Kb8 17. Bxa6 {1-0 (30)
+Bujnoch,R (2144)-Kratochvil,M (2145) Czechia 2010}) 12. Qf4 h6 13. Bxf6 Qxf6
+14. Qxf6 gxf6 15. Nd4 Nxd4 16. Rxd4 Rg8 17. g3 Rg4 18. Rd3 Ra4 19. a3 Ke7 20.
+Bg2 c6 21. Re1 d5 22. Rde3 f5 23. Bh3 {[#] And now Bxf5 would win.} Re4 24. Kd2
+Rg8 25. Rf3 (25. b3 {keeps more tension.} b6 26. a4 c5 27. Bf1 Reg4 28. Be2)
+25... Kf6 26. Bf1 (26. b3 {is more complex.} b6 27. Bg2 Ke7 28. Bf1 Kf6 29.
+Rfe3) 26... Rxe1 27. Kxe1 $11 {[%mdl 4096] Endgame KRB-KRB} Rg4 28. Kd2 c5 29.
+Bh3 Re4 30. Bg2 d4 31. cxd4 {White is slightly better.} Rxd4+ 32. Rd3 Rxd3+ 33.
+Kxd3 b6 34. Ke3 Ke5 {Accuracy: White = 50%, Black = 48%.} 1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.5"]
+[White "Bu, Xiangzhi"]
+[Black "Xu, Xiangyu"]
+[Result "0-1"]
+[ECO "D23"]
+[WhiteElo "2721"]
+[BlackElo "2576"]
+[Annotator "TA"]
+[PlyCount "76"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,76,15,23,-12,3,-21,0,-3,-7,-8,-3,-3,-11,-13,-3,-3,-3,-3,-1,-3,-10,-11,
+-6,-19,-8,-15,30,30,119,30,27,16,18,12,17,12,49,45,172,-216,-219,-201,-55,-52,
+-43,-135,-54,-40,-42,-39,0,-414,-434,-757,-758,-713,-712,-2324,-1791,-29987,
+-1597,-29988,-29987,-29991,-29992,-29992,-29993,-29993,-29994]} 1. Nf3 d5 2. d4
+Nf6 3. c4 dxc4 4. Qa4+ Nc6 5. e3 Nd7 6. Qxc4 {D23: Queen's Gambit Accepted: 3
+Nf3 Nf6 sidelines} (6. Bxc4 Nb6 7. Qb3 Nxc4 8. Qxc4 e6 9. O-O Bd6 10. Rd1 O-O
+11. Nc3 Qe7 12. e4 e5 13. Nd5 {1-0 (53) Epishin,V (2557)-Levin,F (2530)
+Helmond 2016}) 6... e5 7. dxe5 Ndxe5 (7... Ncxe5 {feels hotter.} 8. Nxe5 Nxe5
+9. Qb5+ Nc6 10. Nc3 a6) 8. Nxe5 {The position is equal.} Nxe5 9. Qb5+ Nc6 10.
+Nc3 $146 ({Predecessor:} 10. Bd2 Bd6 11. Bc3 O-O 12. Nd2 Qe7 13. Be2 {1/2-1/2 
+(61) Dragomarezkij,E (2454)-Praslov,A (2417) St Petersburg 2003}) 10... Bd6 11.
+g3 O-O 12. Bg2 Ne5 13. O-O c6 14. Qe2 Bg4 15. f3 Be6 16. b3 Bb4 17. Bb2 Qa5 18.
+Ne4 Rad8 (18... Nd7 $11 {keeps the balance.}) 19. f4 (19. a3 $16 Be7 20. Bc3)
+19... Bg4 $11 20. Qc2 Nd3 21. Bd4 c5 {[#] aiming for ...Ne1.} 22. Bf6 $1 {
+[%mdl 512]} Rd7 {[#]} (22... Bd2 $5) (22... gxf6 23. Nxf6+) 23. a3 $1 {[%mdl
+512]} Be1 {[#]} (23... Bd2 $1 $14) (23... Bxa3 24. h3) 24. Raxe1 $4 {[%mdl
+8192]} (24. b4 $1 $18 {[%cal Rb4a5][%mdl 512] and life is good for White.} Qa6
+(24... cxb4 25. Bd4) 25. Bb2 (25. Raxe1 gxf6 26. Qc3 Kg7 $16) (25. Nxc5 Nxc5
+26. Qxc5 Qxf6 $14)) 24... Nxe1 $19 25. Qb2 {[#]} Nxg2 ({Black should play} 
+25... Nd3 $1 $19 {[%cal Rd3b2]} 26. Qa1 Re8) 26. Bxg7 $15 {Intending Nf6+! and
+mate.} f5 27. Bxf8 (27. b4 $15 Qb5 28. Bxf8 fxe4 29. Bxc5) 27... fxe4 $17 28.
+b4 Qa6 29. Bxc5 Nh4 (29... Bh3 $5 {[%cal Ra6f1]} 30. Qa2+ Kg7 31. Qb2+ Qf6 $11)
+30. b5 $2 {[%mdl 8192]} (30. gxh4 $11 Bh3 31. Qa2+ Kh8 32. Qa1+ Rg7+ 33. Kf2
+Bxf1 34. Qxf1 Qxf1+ 35. Kxf1) 30... Qg6 $19 {And now ...Nf3+ would win.} 31.
+Qe5 (31. f5 $142 Bxf5 32. Qb3+ Kg7 33. Bd4+ Kh6 34. Rf4 Nf3+ {[%mdl 64] Double
+Attack} 35. Kg2) 31... Nf3+ 32. Rxf3 exf3 ({Less strong is} 32... Bxf3 33. f5
+$17) 33. Qb8+ Kf7 34. Qf8+ Ke6 {( -> ...Qb1+)} 35. e4 Qxe4 {[%cal Re4e1] Black
+mates.} 36. Qg8+ Kf6 {[%cal Re4e1]} 37. Qf8+ Kg6 {[%cal Re4e1]} 38. Qg8+ Rg7 {
+Accuracy: White = 40%, Black = 52%.} 0-1
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk"]
+[Date "2019.09.12"]
+[Round "1.6"]
+[White "Xu, Xiangyu"]
+[Black "Bu, Xiangzhi"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "2576"]
+[BlackElo "2721"]
+[Annotator "TA"]
+[PlyCount "65"]
+[EventDate "2019.09.07"]
+[EventType "k.o."]
+[EventCountry "RUS"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,65,21,33,43,36,18,13,0,0,0,0,0,0,-17,41,19,7,8,31,-34,-28,-77,-85,
+-80,-92,-150,-97,-264,45,55,55,57,49,49,430,430,418,414,414,414,414,307,373,0,
+0,0,0,0,0,0,0,0]} 1. e4 c5 2. Nc3 a6 3. Nge2 b5 4. d4 cxd4 5. Nxd4 e6 6. Bd3
+Bb7 7. O-O Nc6 8. Nxc6 Bxc6 9. Re1 {B43: Sicilian: Kan Variation: 5 Nc3} Ne7 (
+9... Nf6 10. e5 b4 11. exf6 bxc3 12. fxg7 Bxg7 13. b3 Qh4 14. g3 Qd4 15. Qh5
+Qd5 16. Qxd5 Bxd5 {1-0 (44) Guseinov,G (2667)-Romanov,E (2614) Hoogeveen 2018})
+10. a4 {[%cal Ra4b5]} b4 11. Nb1 $146 ({Predecessor:} 11. Ne2 Ng6 12. Nd4 Bb7
+13. Qh5 Qc7 14. e5 Bc5 15. Nb3 Ba7 16. a5 O-O {1-0 (45) Krejci,J (2489)-Zueger,
+B (2426) Merlimont 2011}) 11... Ng6 12. Nd2 Be7 13. Nc4 O-O 14. Be3 Qc7 (14...
+d5 $11 15. exd5 exd5) 15. Qh5 d5 $36 {[%mdl 2048] Black has the initiative.}
+16. exd5 exd5 17. Nd2 (17. Nb6 $14 Rad8 18. a5) 17... Bf6 $15 18. Nf3 Bxb2 19.
+Ng5 {[%csl Gg5][%cal Rh5h7]} h6 20. Ne6 ({White should play} 20. Rab1 Bc3 21.
+Nxf7) 20... Qe5 (20... fxe6 $142 21. Qxg6 Rf6 22. Qh7+ Kf7) 21. Bg5 $2 (21.
+Qxe5 $17 {was the only chance.} Nxe5 22. Nxf8 Nxd3 23. cxd3) 21... Bxa1 $2 (
+21... Nf4 $1 $19 {[%cal Rf4h5]} 22. Qd1 Nxd3 $1 {[%mdl 512]} 23. Rxe5 Nxe5 24.
+Nxf8 hxg5) 22. Rxe5 $14 Nxe5 23. Nxg7 $1 Nxd3 ({Avoid the trap} 23... Bxa4 $2 {
+[#]} 24. Bf6 $1 $18 {[%mdl 512]}) 24. Nf5 {Threatening mate with Ne7+.} Rfe8 $2
+{[%mdl 8192]} ({Stronger than} 24... hxg5 25. Qxg5+ Kh7 26. Qh6+ Kg8 27. Ne7#)
+(24... Rae8 $1 $14 25. Nxh6+ Kg7 26. Nf5+ Kg8 27. Nh6+ Kg7 28. Nf5+ Kg8) 25.
+Nxh6+ $18 {[%mdl 64] Double Attack} Kg7 {[%cal Re8e1]} 26. Qxf7+ Kh8 {[%cal
+Re8e1]} 27. Bf6+ Bxf6 28. Qxf6+ {[%mdl 64] Double Attack} Kh7 {[%cal Re8e1]}
+29. Qf7+ $2 (29. h3 $18 Ne5 30. Nf5) 29... Kxh6 $11 {[%cal Re8e1] The position
+is equal.} 30. Qf6+ {[%mdl 64] Double Attack} Kh7 {[%cal Re8e1]} 31. Qf7+ Kh8 {
+[%cal Re8e1]} 32. Qf6+ {[%mdl 64] Double Attack} Kg8 {[%cal Re8e1]} 33. Qg6+ {
+[%mdl 64] Double Attack. Accuracy: White = 30%, Black = 47%.} 1/2-1/2

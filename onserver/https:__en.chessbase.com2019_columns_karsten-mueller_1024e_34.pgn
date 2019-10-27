@@ -1,0 +1,37 @@
+[Event "17th Aeroflot Open-A 2019"]
+[Site "Moscow"]
+[Date "2019.02.20"]
+[Round "1.9"]
+[White "Tsydypov, Zhamsaran"]
+[Black "Korobov, Anton"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[WhiteElo "2547"]
+[BlackElo "2687"]
+[Annotator "Karsten Mueller"]
+[SetUp "1"]
+[FEN "8/8/8/4N3/4npp1/7k/7P/6K1 b - - 0 75"]
+[PlyCount "12"]
+[EventDate "2019.??.??"]
+[SourceTitle "1024"]
+
+{[%evp 0,161,17,17,10,16,16,10,33,3,19,12,14,8,8,-14,-15,-25,-10,-13,-6,0,31,
+37,28,28,32,6,16,16,16,33,9,10,40,23,17,-8,-1,-8,43,57,30,61,64,58,74,77,73,79,
+64,41,41,48,52,51,64,30,0,-8,-16,4,4,0,0,0,0,0,0,0,-22,-22,-26,-36,-48,-48,0,
+-22,-16,-9,-6,0,0,-114,-114,-114,-128,-128,-128,-128,-124,-130,-130,-130,-130,
+-131,-131,-131,-131,-151,-147,-154,-132,-151,-111,-140,-126,-165,-128,-145,
+-153,-160,-151,-174,-147,-147,-147,-151,-147,-177,-181,-181,-174,-174,-145,
+-174,-175,-191,-168,-164,-162,-163,-163,-182,-178,-195,-171,-174,-165,-187,
+-169,-177,-171,-212,-209,-207,-207,-207,-207,-207,-190,-190,-191,-192,0,0,0,0,
+0,0,0,0,0,0]} 75... f3 {If only a few pawns remain on the board the likelihood
+of a draw increases.} {[%tqu "En","White to play and draw","","","g1f1","",3]}
+76. Kf1 $1 {This little side-step of the king saves the draw.} (76. Nd3 $2 f2+
+77. Nxf2+ Nxf2 78. Kxf2 Kxh2 $19) (76. Nc4 $2 f2+ 77. Kf1 Kxh2 78. Ne3 g3 79.
+Ng4+ Kh1 80. Ne3 Nd2+ 81. Ke2 f1=Q+ 82. Nxf1 Nxf1 83. Kxf1 g2+ $19) 76... f2 (
+76... Kxh2 77. Nxg4+ Kg3 78. Ne3 Nd2+ 79. Ke1 (79. Kg1 $2 f2+ 80. Kh1 Kh3 81.
+Nf1 Ne4 82. Nd2 Ng3#) 79... f2+ 80. Kxd2 $11) {[%tqu "En","Which move secures
+the draw?","","","e5f3","The saving stalemate idea.",5]} 77. Nf3 $3 {The
+saving stalemate idea.} g3 (77... gxf3 {is stalemate.}) (77... Nc3 78. Kxf2
+Ne4+ 79. Ke3 $11) 78. hxg3 Kxg3 79. Ke2 Nd6 (79... Nc3+ 80. Kf1 Nd1 81. Nd2 $11
+) (79... Kg2 80. Ne1+ $11) 80. Ne1 Nb7 81. Nd3 1/2-1/2
+

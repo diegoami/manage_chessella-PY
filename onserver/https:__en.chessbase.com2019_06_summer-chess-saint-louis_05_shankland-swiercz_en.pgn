@@ -1,0 +1,54 @@
+[Event "Summer Chess Classic-A 2019"]
+[Site "Saint Louis"]
+[Date "2019.06.22"]
+[Round "5.3"]
+[White "Shankland, Sam"]
+[Black "Swiercz, Dariusz"]
+[Result "1-0"]
+[ECO "E16"]
+[WhiteElo "2717"]
+[BlackElo "2667"]
+[Annotator "KGBesenthal"]
+[PlyCount "199"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,199,19,-12,-9,0,-11,-14,-18,-17,10,9,27,28,0,-2,7,-1,4,6,6,-5,-14,0,0,
+0,0,-2,0,0,-16,-25,17,21,22,46,35,33,33,14,14,7,11,0,11,17,21,43,35,47,110,97,
+97,90,120,128,235,205,196,196,217,224,227,177,175,142,143,146,164,167,168,137,
+140,137,169,127,133,140,120,116,120,125,120,125,125,116,116,113,113,118,117,
+125,115,106,105,100,107,113,103,113,110,113,133,135,135,135,131,131,131,111,
+144,129,144,129,131,129,131,131,131,94,114,118,127,129,153,160,166,160,183,198,
+214,208,208,223,195,204,221,216,246,119,118,116,117,119,119,111,111,111,128,
+101,97,94,98,93,203,195,221,188,157,157,181,179,182,175,203,184,222,129,131,64,
+66,65,65,65,65,65,65,67,474,982,1292,992,1312,1312,1322,1312,1312,1821,1806,
+1312,1751,1742,1849,29968,29971,29966,29967,2090,29965,1312,1923,29984]} 1. c4
+Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 Nbd7 5. d4 Bb4+ 6. Nbd2 O-O 7. O-O b6 8. cxd5
+exd5 9. Ne5 Bb7 10. Qa4 a5 11. Nc6 Qe8 12. Nxb4 axb4 13. Qxb4 Qxe2 14. Nf3 Qc4
+15. Bd2 Ra4 16. Qb3 Qxb3 17. axb3 Rxa1 18. Rxa1 Ra8 19. Rc1 c6 20. Bh3 h6 21.
+Bb4 Re8 22. Ra1 c5 23. Bc3 {[#] In this position, the move Ra1-a7 looks
+unpleasant.} Bc6 ({and there's nothing speaking against Ra8! =} 23... Ra8 $1
+$11) 24. b4 {White tries to get rid of the doubled pawns.} Ne4 {A mistake. Not
+only does the knight achieve nothing on this new square, he also weakens the
+important d7-square.} (24... c4 {was probably best here. That does not look
+good, becaus the bishop on c6 is literally walled in, but on the other hand
+there would have been no weaknesses in the black position that White would be
+likely to exploit.}) 25. Ra7 cxb4 26. Bxb4 Ndf6 {This exposes the f7 square
+with little justification.} ({In order to strengthen the d7 point,} 26... Nef6
+$1 {is the lesser evil.}) 27. Ne5 Bb5 28. Nxf7 {[#] Thus White has already
+gained a winning position, although it takes exactly 100 moves to score the
+full point, with penty of opportunity to go wrong. In a practical game,
+however, White can torment his opponent endlessly without any risk.} Ng5 29.
+Nxg5 hxg5 30. Bf5 g4 31. Rc7 Ra8 32. Rc8+ Rxc8 33. Be6+ Kh7 34. Bxc8 Be2 35.
+Bd6 Ne4 36. Bf4 g5 37. Be3 Kg6 38. Be6 Nf6 39. Bd2 Bd3 40. Bc8 Be2 41. Bb7 Kf5
+42. Bc8+ Kg6 43. Bb4 Kf7 44. Bd6 Ne4 45. Bc7 b5 46. Ba5 Nd6 47. Bd7 Ke7 48. Bc6
+Ke6 49. Bb4 Ne4 50. Bb7 Nf6 51. Bc8+ Kf7 52. Kg2 Ne4 53. Ba6 Ke6 54. Bb7 Nf6
+55. Bc8+ Kf7 56. Be1 Ke7 57. Bf5 Kf7 58. Bd2 Ne4 59. Be3 Bf3+ 60. Kf1 Ke7 61.
+Ke1 Kd6 62. Bd2 Kc6 63. Bb4 Kc7 64. Be6 Kc6 65. Be7 b4 66. b3 Nd6 67. Bxg5 Nb5
+68. Bf6 Nc3 69. Be7 Ne2 70. h3 gxh3 71. Bxh3 Nxd4 72. Kd2 Nxb3+ 73. Ke3 Bh5 74.
+Bxb4 d4+ 75. Kf4 {[#]} Kb5 (75... Kd5 $1 {was Black's last chance to offer
+tough resistance.}) 76. Be1 Nc5 77. Bf1+ Kc6 78. Bb4 Bg6 79. g4 Nd3+ 80. Bxd3
+Bxd3 81. Ke5 Kd7 82. f4 Ke8 83. f5 Kf7 84. Kxd4 Be2 85. g5 Bb5 86. Ke5 Be8 87.
+Bc3 Bb5 88. Kf4 Kg8 89. g6 Bd3 90. Kg5 Bc4 91. f6 Kf8 92. Bb4+ Kg8 93. Kf4 Bb3
+94. Ke5 Bc4 95. Be7 Bb3 96. Kd6 Bc4 97. Kc7 Bb3 98. Kd8 Bc4 99. Ba3 Bb3 100.
+Ke7 1-0
+

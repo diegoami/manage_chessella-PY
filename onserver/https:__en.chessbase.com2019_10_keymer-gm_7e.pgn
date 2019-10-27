@@ -1,0 +1,59 @@
+[Event "FIDE Grand Swiss"]
+[Site "IoM"]
+[Date "2019.10.17"]
+[Round "7"]
+[White "Keymer, Vincent"]
+[Black "Motylev, Alexander"]
+[Result "1/2-1/2"]
+[ECO "A11"]
+[WhiteElo "2506"]
+[BlackElo "2651"]
+[Annotator "Thorsten Cmiel"]
+[PlyCount "141"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,141,61,18,30,7,5,-17,-11,14,46,4,30,3,27,12,21,19,26,26,25,24,49,33,
+39,25,52,27,61,10,49,58,64,45,65,26,22,36,36,44,28,37,28,28,51,48,77,49,69,37,
+79,46,26,0,0,9,28,10,11,14,15,22,22,23,19,24,37,40,40,25,40,19,21,31,33,8,8,22,
+32,43,43,35,58,71,66,9,16,22,67,77,100,108,109,113,110,114,110,110,113,113,113,
+105,115,115,119,125,127,119,126,117,119,117,125,115,114,110,116,113,113,113,
+113,108,113,110,113,108,108,108,108,108,108,108,108,108,108,108,108,108,108,
+108,108,108,108,108]} 1. Nf3 d5 2. e3 Nf6 3. c4 e6 4. Nc3 c6 5. b3 Bd6 6. Bb2
+O-O 7. h3 b6 8. d4 Nbd7 9. Bd3 Bb7 10. O-O c5 11. cxd5 exd5 12. Rc1 Rc8 {
+[%eval 66,22]} (12... Qe7 $11 {[%eval 9,21]}) 13. Qe2 {[%eval 19,24]} (13. Nh4
+{[%eval -2,22] 13.Lf5 0.76} Re8 14. Nf5 Bb8 {[%eval 64,22]} (14... Bf8 $11 {
+[%eval -17,24]}) 15. Nb5 {[%eval -52,20]} (15. dxc5 $14 {[%eval 64,22]} bxc5
+16. f4) 15... Nf8 {[%eval 0,23]} (15... Re6 $15 {[%eval -52,20]}) 16. dxc5 {
+[%eval -82,20]} (16. Qf3 $11 {[%eval 0,23]}) 16... bxc5 17. Bb1 {[%eval -157,
+20]} (17. Qf3 $1 $11 {[%eval -23,22]}) 17... a6 {[%eval -87,23]} (17... Ng6
+$142 {[%eval -157,20]} 18. f3 a6) 18. Nc3 {[%eval -134,22] is known from a
+game played in 1997.} (18. Na3 $142 {[%eval -87,23]})) (13. dxc5 $14 {[%eval
+66,22] ist überlegen.} bxc5 14. Bf5) 13... Re8 {[%eval 62,21]} (13... Qe7 $11
+{[%eval 19,24]}) 14. Ba6 Qc7 15. Rfd1 Bf8 16. a4 {[%eval 0,25]} (16. Bb5 $16 {
+[%eval 87,20]}) 16... Qb8 {[%eval 71,21]} (16... Bxa6 $11 {[%eval 0,25]} 17.
+Qxa6 Ra8) 17. Bxb7 Qxb7 18. dxc5 bxc5 19. Qb5 Qxb5 20. axb5 {[#]} Nb6 21. Na4
+Nfd7 22. Ra1 Re4 {[%eval 105,27]} (22... Rc7 $14 {[%eval 39,26]}) 23. Nxb6 $16
+Nxb6 24. Rxa7 {[%eval 19,23]} (24. Bc3 $5 {tries to restrict the enemy rook.})
+(24. Bc3 $16 {[%eval 87,25]}) 24... Rb4 $11 25. Rb7 Rxb5 26. Be5 {[%eval 9,28]}
+(26. Nd2 $1 $14 {[%eval 62,23]}) 26... Rxb3 $11 27. Bc7 c4 28. Bxb6 {
+Threatening Rc7.} Rc6 29. Rxd5 Rbxb6 30. Rxb6 Rxb6 31. Rd8 f6 {[%eval 78,29]} (
+31... Rb1+ $11 {[%eval 9,29]} 32. Kh2 Rb5) 32. Rc8 $16 Rb1+ 33. Kh2 Kf7 34.
+Rc7+ ({But not} 34. Rxc4 Rb2 $11) 34... Kg8 {...Bd6+ is a real threat.} 35. g3
+({Of course not} 35. Rxc4 Rb2 $11) 35... Rc1 $1 36. Kg2 Bd6 {[%eval 93,27]} (
+36... Bb4 $14 {[%eval 46,27]}) 37. Rc8+ Kf7 38. Nd2 $1 c3 {[#]} 39. Nb3 $1 Rc2
+{[#]} 40. Nd4 $1 Rc1 41. Ne2 Rc2 42. Kf1 Bb4 43. Rc7+ Kg8 44. Rc4 Rb2 45. Nxc3
+(45. Nd4 {is interesting.} g5 46. Kg2 h5 47. g4 hxg4 48. hxg4 Ba5 49. Nc6)
+45... Bxc3 46. Rxc3 {[#]White has only minimal winning chances.} Rb5 {[%eval
+98,32]} ({Better is} 46... g5 $14 {[%eval 47,35]}) 47. Rc8+ $16 Kf7 48. Rc7+
+Kg6 49. Kg2 h5 50. Rd7 Rb2 51. Kf3 Ra2 52. h4 Rb2 53. Rd3 Ra2 54. e4 Rb2 55.
+Ke3 Ra2 56. f4 {[%eval 53,36]} (56. Rb3 $16 {[%eval 100,32]}) 56... Ra4 $14 57.
+Kf3 Rb4 58. Ke3 Ra4 59. f5+ Kh7 60. Rd7 Kh6 61. Rd6 Kh7 62. Rd4 Ra3+ 63. Kf4
+Ra1 {[%eval 67,37]} (63... g6 $11 {[%eval 20,35]}) 64. Rd7 Kh6 65. Re7 {
+[%eval 20,36]} (65. Rd6 $16 {[%eval 73,37]}) 65... Ra4 {[%eval 73,37]} (65...
+g6 $11 {[%eval 20,36]}) 66. Re6 Kh7 67. Rb6 Ra1 68. Rb3 {[%eval 20,37]} (68.
+Kf3 $16 {[%eval 74,37]}) 68... Ra4 {[%eval 74,35]} (68... g6 $1 $11 {[%eval 20,
+37] is still a draw.}) 69. Kf3 {[%eval 20,33]} ({Preferable is} 69. Rb7 $16 {
+[%eval 74,35]}) 69... Kh6 {[%eval 74,34]} (69... g6 $1 $11 {[%eval 20,33]
+keeps the balance.}) 70. Re3 {[%eval 20,32]} (70. Rb8 $16 {[%eval 74,34][%cal
+Rb8h8]} Ra3+ 71. Kf4) 70... Ra5 $11 71. Rc3 1/2-1/2
+

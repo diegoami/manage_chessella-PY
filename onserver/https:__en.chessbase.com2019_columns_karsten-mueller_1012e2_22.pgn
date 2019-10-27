@@ -1,0 +1,39 @@
+[Event "World Youth U-16 Olympiad 2018"]
+[Site "Konya"]
+[Date "2018.11.30"]
+[Round "7"]
+[White "Pipia, Ekaterine"]
+[Black "Boyer, Mahel"]
+[Result "*"]
+[ECO "A61"]
+[WhiteElo "1995"]
+[BlackElo "2235"]
+[Annotator "Karsten Müller"]
+[SetUp "1"]
+[FEN "3q4/8/8/8/R3k1p1/8/5PK1/8 b - - 0 103"]
+[PlyCount "13"]
+[EventDate "2018.??.??"]
+[SourceTitle "1013"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+103... Kd3 {Sometimes fortresses are strong enough to save a draw despite a
+heavy material disadvantage.} {[%tqu "En","White to play and draw","","",
+"a4g4","",3,"a4a3","",0]} 104. Rxg4 $1 {secures the draw. Black can put severe
+pressure on White but not enough.} ({In the game White played} 104. Ra3+ $2 {
+which loses. The pawn on g4 often allows Black to liquidate into won pawn
+endings.} Kc2 105. Rg3 (105. Re3 Qd1 106. Rg3 Qd5+ 107. Kh2 Qf5 108. Kg2 Qe4+
+109. Kh2 Kd2 110. Re3 Qf3 $19 111. Kg1 Kd1 112. Re8 g3 $19) 105... Qd5+ 106.
+Kg1 Qf3 $5 {The queen destroys the fortress.} 107. Rg2 (107. Rxf3 gxf3 108. Kh2
+Kd2 109. Kh3 Ke1 110. Kg3 Ke2 $19) 107... Kd2 108. Rg3 Qxg3+ 109. fxg3 Ke1 110.
+Kg2 Ke2 111. Kh1 Kf1 112. Kh2 Kf2 113. Kh1 Kxg3 114. Kg1 Kf3 $6 (114... Kh3
+115. Kh1 g3 116. Kg1 g2 117. Kf2 Kh2 $19) 115. Kh1 $6 (115. Kh2 $5 {was more
+stubborn because Black still has to find} Kf2 116. Kh1 Kg3 117. Kg1 Kh3 $19)
+115... Kf2 {0-1 and White resigned.}) 104... Qd5+ 105. Kg1 $1 ({But not} 105.
+f3 $2 Qa2+ 106. Kg3 Ke2 107. Re4+ Kf1 108. Kg4 Qg2+ 109. Kf4 Kf2 $19) 105...
+Ke2 106. Rg3 $1 Qd1+ 107. Kg2 Qf1+ 108. Kh2 {and surprisingly Black has no way
+to make progress:} Kxf2 (108... Qxf2+ 109. Rg2 $11) (108... Qd1 109. Kg2 Ke1
+110. Re3+ Kd2 {[%csl Ge3,Gg3] is a typical and solid fortress: the rook has
+two safe squares (e3 and g3) and Black has no way to enter White's fortress
+with the queen.}) 109. Rf3+ Kxf3 {Stalemate} *
+

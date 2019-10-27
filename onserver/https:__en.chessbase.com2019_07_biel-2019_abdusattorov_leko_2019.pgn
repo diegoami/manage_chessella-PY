@@ -1,0 +1,38 @@
+
+
+[Event "52nd ACCENTUS Biel Rapid 2019"]
+[Site "Biel"]
+[Date "2019.07.21"]
+[Round "4.3"]
+[White "Abdusattorov, Nodirbek"]
+[Black "Leko, Peter"]
+[Result "0-1"]
+[ECO "A46"]
+[WhiteElo "2598"]
+[BlackElo "2674"]
+[Annotator "TA"]
+[PlyCount "64"]
+[EventDate "2019.07.21"]
+[EventType "tourn"]
+[EventCountry "SUI"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,74,14,29,20,20,17,15,18,18,17,18,7,18,14,10,0,0,0,0,0,0,0,19,6,7,0,0,
+0,30,0,0,-8,-12,-9,-2,-12,-11,-13,-13,-22,-16,-22,-19,-49,-15,-56,-52,-158,
+-172,-169,-162,-164,-102,-112,-97,-117,-85,-437,-437,-437,-437,-437,-437,-433,
+-433,-29982,-662]} 1. d4 Nf6 2. Nf3 e6 3. Bf4 c5 4. e3 cxd4 5. exd4 b6 (5...
+Be7 6. Nbd2 O-O 7. Bd3 b6 8. O-O Ba6 9. Bxa6 Nxa6 10. Re1 d6 11. h3 Qd7 12. a4
+Nc7 13. Bh2 {1-0 (100) Aronian,L (2767)-Giri,A (2782) chess.com INT 2018}) 6.
+c3 {A46: 1 d4 Nf6 2 Nf3 e6: Torre, London and Colle Systems} Be7 7. Bd3 Ba6 8.
+Bxa6 {The position is equal.} Nxa6 9. O-O O-O 10. a4 d6 11. Nbd2 Nc7 12. h3 a6
+$146 ({Predecessor:} 12... Qd7 13. Qe2 a6 14. Ne4 Nxe4 15. Qxe4 Nd5 16. Bg5
+Bxg5 17. Nxg5 {1/2-1/2 (36) Babarykin,S (2411)-Nuristani,I (2242) Moscow 2019})
+13. Qe2 b5 14. Ra2 Qd7 15. Rfa1 Qc6 16. Ne1 h6 17. Nd3 Ncd5 18. Bg3 Rfd8 19.
+Qd1 Nd7 20. Qb3 (20. Qe2 {with more complications.} N7f6) 20... N7b6 21. axb5
+axb5 22. Rxa8 Rxa8 23. Rxa8+ Nxa8 24. Qa3 Nac7 25. Qa7 f5 26. Nf4 Kf7 27. Nxd5
+Nxd5 28. Qa3 (28. Qa1 $15) 28... f4 $40 {[%mdl 128] Black wants a kill.} 29.
+Bh2 {[#]} b4 $1 {[%cal Rb4a3][%mdl 512]} 30. cxb4 Qc1+ (30... Qc2 $19 31. Nf1
+Bf6) 31. Nf1 $17 Bf6 {Strongly threatening ...Qd1.} 32. Qa7+ Ke8 {Played:
+Kf7-g6} 0-1

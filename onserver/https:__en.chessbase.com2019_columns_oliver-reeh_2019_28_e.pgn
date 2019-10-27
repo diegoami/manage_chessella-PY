@@ -1,0 +1,54 @@
+[Event "4th GRENKE Open 2019"]
+[Site "Karlsruhe"]
+[Date "2019.04.20"]
+[Round "5.7"]
+[White "Kuzubov, Yuriy"]
+[Black "Kevlishvili, Robby"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "2653"]
+[BlackElo "2451"]
+[Annotator "Reeh, Oliver"]
+[PlyCount "71"]
+[EventDate "2019.??.??"]
+[SourceTitle "2019_28"]
+
+{[%evp 0,71,27,23,20,4,34,37,33,40,42,38,36,14,16,16,2,3,31,33,38,53,61,68,63,
+27,67,46,70,61,65,58,58,77,77,77,73,0,138,144,158,141,149,162,162,150,149,141,
+186,180,183,248,248,270,275,273,273,281,273,273,357,427,421,421,29989,29990,
+29991,29992,29993,29994,29995,29994,29999,-30000]} 1. d4 d5 2. c4 c6 3. e3 Nf6
+4. Nc3 e6 5. Bd3 Nbd7 6. b3 e5 7. Nge2 e4 8. Bc2 Bd6 9. f3 exf3 10. gxf3 Nh5
+11. cxd5 cxd5 12. Nxd5 Qg5 13. e4 Qg2 14. Kd2 Qxf3 15. Qf1 Qxf1 16. Rxf1 Ndf6
+17. Ne3 Ng4 18. Nc4 Bxh2 19. Ba3 b5 20. Nd6+ Bxd6 21. Bxd6 Bb7 22. a4 bxa4 23.
+b4 O-O-O 24. e5 Nh6 {From the diagram position it's still quite a way to go
+for White until he finally hunts down Black's king in the centre. Enjoy the
+motifs!} {[%tqu "En","The Bd6 has Black's king in a fix. How would you
+continue as White?","Don't allow Black to liquidate the mighty Bd6 with an
+exchange sac!","","c2f5","",10,"a1c1","",0]} 25. Bf5+ $1 {[%cal Gf5c8]
+Clearing the c-file with tempo and not allowing Black to sacrifice an exchange
+on d6.} Nxf5 {[%tqu "En","Continuation?","","","a1c1","",10]} 26. Rac1+ {
+[%csl Gd6][%cal Gc1c8,Rc8d7,Gd6b8] Driving Black's king into the centre.} Kd7 (
+26... Bc6 27. Rxc6+ Kb7 28. Rc7+ Kb6 29. Rxf5 $18) {[%tqu "En","Please play 27.
+Rc7+! only when you have your answer ready to 27...Ke6.","","","c1c7","",10]}
+27. Rc7+ $1 Ke6 (27... Ke8 28. Rxf5 {[%cal Gc7b7,Gf5f7,Gc7e7,Gf5h5] and White
+has too many threats.}) {[%tqu "En","So far, so good - but now White needs a
+key move. Your suggestion?","The Ne2 needs a fresh square.","","d4d5","",10]}
+28. d5+ $1 {[%csl Gd5,Ge2,Re6] A clearing move - the Ne2 is ready to jump.}
+Kxd5 (28... Bxd5 {[%tqu "En","Mate in 2, please!","","","e2d4","",10]} 29. Nd4+
+$1 {[%csl Gd4,Re6]} Nxd4 {[%tqu "En","And finale 1!","","","c7e7","",10]} 30.
+Re7# {[%csl Gd6,Re6,Ge7][%cal Gf1f7] Checkmate!}) 29. Rxf5 {[%csl Rd5][%cal
+Gf5h5,Gc7b7] Interim result: Black's central king is in the crossfire of all
+white pieces - even the Kd2 is participating. Also, Bb7 and Nh5 are hanging.}
+g6 30. Rc5+ Ke4 ({For the records:} 30... Ke6 31. Nd4+ Kd7 32. Rc7+ Ke8 33.
+Re7+ Kf8 34. Rfxf7+ Kg8 35. Ne6 {[%csl Ge6,Rg8][%cal Gf7g7] followed by Rg7+
+Nxg7/Rxg7++!}) 31. Rxf7 {[%cal Gf7b7]} Bc8 {Saving the bishop, but leaving the
+king to its fate for good.} 32. Nc3+ Kd4 {[%tqu "En","No check - just the best
+move for White!","Move the Rf7!","","f7f3","",10]} 33. Rf3 $1 {[%csl Rd4,Gf3]
+[%cal Gf3d3] The rook retreats to the third rank, threatening mate on d3.} Ba6
+({Alternative mate:} 33... Bf5 34. Ne2+ Ke4 35. Re3# {[%csl Ge3,Re4]}) {
+[%tqu "En","And once again White's (quiet) best - then Black gets checkmated
+by force.","","","f3e3","",10]} 34. Re3 $1 {[%csl Gb4,Gc3,Gc5,Gd2,Rd4,Gd6,Ge3,
+Ge5] White pieces, dark squares - very aesthetic, don't you think?} Nf6 35.
+exf6 Rxd6 {[%tqu "En","Finale 2, please.","","","e3e4","",10]} 36. Re4# {
+[%csl Gc3,Gc5,Gd2,Rd4,Ge4] Checkmate!} 1-0
+

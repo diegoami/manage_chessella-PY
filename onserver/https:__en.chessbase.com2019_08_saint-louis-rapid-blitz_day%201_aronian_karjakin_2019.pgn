@@ -1,0 +1,25 @@
+[Event "GCT Saint Louis Rapid 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.10"]
+[Round "2.5"]
+[White "Aronian, Levon"]
+[Black "Karjakin, Sergey"]
+[Result "*"]
+[ECO "D05"]
+[WhiteElo "2756"]
+[BlackElo "2748"]
+[Annotator "Saravanan,V"]
+[SetUp "1"]
+[FEN "8/p4r1k/1p1R1n1p/6p1/3N4/1P1KP2P/6P1/8 b - - 0 38"]
+[PlyCount "12"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[#]} 38... h5 $4 (38... Ne8 39. Re6 Ng7 {would have given black reasonable
+chances to hold the endgame}) 39. Nf3 Kg7 40. Nxg5 Re7 41. Kd4 Kg6 42. Nf3 Kg7
+43. Ne5 Rc7 44. Rc6 $18 {and Aronian went on to win in 56 moves} *
+

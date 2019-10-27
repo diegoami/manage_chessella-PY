@@ -1,0 +1,32 @@
+[Event "Czech Open GM 2019"]
+[Site "Pardubice"]
+[Date "2019.07.22"]
+[Round "4.9"]
+[White "Laznicka, Viktor"]
+[Black "Cukrowski, Filip"]
+[Result "1-0"]
+[ECO "E08"]
+[WhiteElo "2658"]
+[BlackElo "2421"]
+[Annotator "TA"]
+[PlyCount "43"]
+[EventDate "2019.07.19"]
+[EventType "swiss"]
+[EventCountry "CZE"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,43,65,52,48,54,62,70,85,94,120,130,181,177,181,192,166,166,163,163,
+147,150,401,287,284,241]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6.
+O-O Nbd7 7. Qc2 dxc4 8. Qxc4 a6 9. Qc2 c5 10. Rd1 Ra7 11. Nc3 b5 {E02: Open
+Catalan: 5 Qa4+} 12. Be3 {aiming for dxc5.} (12. Bg5 Qb6 13. a4 h6 14. Bxf6
+Bxf6 15. dxc5 Nxc5 16. axb5 Rc7 17. bxa6 Bxa6 18. Ra3 Rb8 19. Rb1 {1/2-1/2 (51)
+Zhao,Z (2564)-Morris,J (2378) Sydney 2015}) 12... Ng4 13. Bf4 $1 Bb7 {White is
+slightly better.} 14. d5 e5 $146 {[#]} ({Predecessor:} 14... Qb6 15. h3 Ngf6
+16. dxe6 fxe6 17. Rd2 Nd5 18. Nxd5 exd5 19. Ng5 Bxg5 20. Bxg5 {1/2-1/2 (60)
+Tal,M-Karaklajic,N Wijk aan Zee 1968}) 15. Bc1 $1 Bd6 (15... Qb8 $16) 16. a4
+$18 bxa4 17. Rxa4 Ngf6 {[#]} 18. Nb5 axb5 19. Rxa7 Qb6 20. Ra1 Nxd5 21. Nxe5
+N7f6 22. Nd7 1-0
+

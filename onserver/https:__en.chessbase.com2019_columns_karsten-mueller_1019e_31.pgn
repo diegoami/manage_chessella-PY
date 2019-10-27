@@ -1,0 +1,44 @@
+[Event "Gibraltar Masters 2019"]
+[Site "Caleta"]
+[Date "2019.01.23"]
+[Round "2"]
+[White "Short, Nigel D"]
+[Black "Libiszewski, Fabien"]
+[Result "1/2-1/2"]
+[ECO "B32"]
+[WhiteElo "2648"]
+[BlackElo "2481"]
+[Annotator "Karsten Mueller"]
+[SetUp "1"]
+[FEN "3b4/3k2p1/1p3pP1/p2qpK1P/P3P3/4N3/3p4/8 w - - 0 57"]
+[PlyCount "22"]
+[EventDate "2019.??.??"]
+[SourceTitle "1019"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+57. exd5 {The duel bishop against knight can be fascinating. The bishop often
+strives for dynamic play while the knight prefers more static positions.} {
+[%tqu "En","Black to move and win","","","d7e7","",2,"b6b5","",0,"d7e8","",0,
+"De","Schwarz zieht und gewinnt","","","d7e7","",2,"b6b5","",0,"d7e8","",0]}
+Ke7 $1 {Now Black's wall is solid - unlike White's.} (57... b5 $2 58. h6 gxh6
+59. g7 Bb6 60. Nd1 $18) (57... Ke8 $2 58. Ke6 Kf8 59. Kd7 Be7 60. h6 gxh6 61.
+g7+ Kxg7 62. Kxe7 $18) 58. d6+ (58. h6 gxh6 59. d6+ Kf8 $19) 58... Kf8 {
+The king himself supports the foundation of Black's defensive wall.} 59. Ke4 (
+59. Ke6 b5 60. axb5 a4 61. Kd7 Bb6 62. Kc6 Bxe3 63. d7 d1=Q $19) 59... f5+ 60.
+Kd3 (60. Kxf5 b5 61. axb5 Bb6 62. d7 a4 63. h6 gxh6 64. Ke6 a3 65. Nd5 d1=Q 66.
+Nxb6 a2 67. Nd5 Qg4+ $19) 60... f4 61. Nd1 Bg5 $2 {Now White is safe again.
+Black had two ways to break through:} ({The direct breakthrough} 61... b5 $5 {
+is best, e. g.g} 62. axb5 a4 63. Kxd2 a3 64. Nc3 f3 (64... Ba5 $2 65. Kc2 f3
+66. Ne4 $11) 65. Ke3 e4 66. Kf2 Bf6 67. d7 Ke7 68. Nd5+ Kd8 69. Nxf6 a2 70. h6
+a1=Q 71. hxg7 Qd4+ 72. Kf1 Qd3+ 73. Kf2 Qd2+ 74. Kg3 Qg2+ 75. Kh4 Qxg6 76.
+g8=Q+ Qxg8 77. Nxg8 f2 $19) ({But} 61... f3 $6 62. Kxd2 e4 {also wins in the
+long run, e.g.:} 63. Kc3 (63. Ke3 b5 64. axb5 a4 $19) 63... b5 64. axb5 Bb6 65.
+d7 Ke7 66. h6 gxh6 67. g7 Kf7 68. Kc4 a4 69. Kd5 a3 70. Kc6 Bd8 71. b6 a2 72.
+b7 a1=Q 73. g8=Q+ Kxg8 74. b8=Q Qa6+ 75. Kd5 Qa2+ 76. Kc5 Qa5+ 77. Kd4 Qd2+ 78.
+Kxe4 Qc2+ 79. Kxf3 Qxd1+ 80. Kg2 Qxd7 $19) (61... e4+ $2 62. Kxe4 Bg5 63. Kf3
+Ke8 64. Ke2 f3+ 65. Kxf3 Kd7 66. Ke2 Kxd6 67. Nc3 Ke6 68. Kd1 Kf5 69. Nd5 Kg4
+70. h6 Bxh6 71. Nxb6 Bg5 72. Nc4 Bd8 73. Kxd2 Kf5 74. Ke3 Kxg6 75. Kf4 Kh5 76.
+Kf3 $11) 62. Kxd2 e4 63. Ke2 Ke8 64. Nc3 f3+ 65. Kf2 Bh4+ 66. Ke3 Bg5+ 67. Kf2
+Bh4+ 1/2-1/2
+

@@ -1,0 +1,107 @@
+[Event "2rd Championship SCG Liga"]
+[Site "?"]
+[Date "2004.09.11"]
+[Round "?"]
+[White "Kokeza, Mirko"]
+[Black "Tomic, Goran"]
+[Result "0-1"]
+[ECO "E76"]
+[WhiteElo "2270"]
+[Annotator "Speelman,Jonathan"]
+[PlyCount "102"]
+[EventDate "2004.??.??"]
+[SourceVersionDate "2015.07.13"]
+
+{[%evp 0,102,19,25,14,0,46,37,40,40,37,-2,13,8,34,34,33,-11,-19,-61,-21,-29,
+-34,-34,-24,-24,-16,-197,-219,-255,-242,-229,-255,-256,-266,-266,-266,-266,
+-266,-335,-240,-289,-214,-236,-243,-268,-178,-276,-297,-296,-291,-310,-273,
+-261,-269,-320,-278,-340,-332,-342,-300,-438,-271,-428,-273,-300,-289,-337,
+-326,-330,-343,-350,-335,-358,-347,-365,-344,-428,-391,-402,-332,-456,-419,
+-453,-428,-480,-474,-568,-568,-576,-589,-589,-589,-625,-587,-638,-721,-802,
+-773,-815,-849,-842,-789,-794,-801]} 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5.
+f4 {The four pawns sets up a huge centre but White is making a big commitment
+by playing four pawn moves out of his first five.} O-O 6. Nf3 Na6 7. e5 $5 {
+The most aggressivve choice but asking a lot of the position.} Nd7 {[#] I
+found about 100 games here in a contemporary database of just under 2.5
+million. Be2 is most common followed by h4. c5 would be nice if White could
+get control but he's a tempo short.} 8. c5 ({I really wanted to play the crude
+} 8. h4 {But in contrast to the the Austrian Attack against the Pirc (where
+White hasn't played c4) Black has an extra tempo so it perhaps shouldn't be
+too surprising that Black is doing quite well if he plays sufficiently
+accurately.} c5 9. d5 dxe5 10. h5 {Here exf4 has normally been played but
+engines suggest:} Qa5 $5 11. Kf2 (11. hxg6 fxg6 12. Bd3 e4 13. Bxe4 Bxc3+ 14.
+bxc3 Nf6 15. Bc2 Qxc3+ 16. Bd2 Qxc4 {is a natural line in which White has
+practical chances but must be seriously worse in theory.}) (11. Bd2 {looks
+better than Kf2 perhaps then}) 11... Qb6) (8. Be2 c5 9. exd6 exd6 10. d5 {
+with a Benoni in which f4 rather gets in White's way.} (10. O-O)) 8... dxc5 9.
+d5 $6 {By sacrificing the c pawn, White has taken the pressure off e5 for the
+moment. If he had one more tempo, then he might have been able to keep control
+with a good position but you have to ask whether it's "reasonable" that White
+can play so many pawn moves in the opening and the theoretical answer seems to
+be that he's overdone it and so is unable to keep control.} (9. Bxa6 bxa6 10.
+Be3 cxd4 11. Qxd4 {Here White keeps his centre for the moment and while I
+instinctively prefer Black, engines think White is OK too.}) 9... Nb6 (9... f6
+{was interesting since if} 10. e6 Nb6 11. f5 Nb4 {and White falls apart well
+before Black.}) 10. Bxa6 (10. a3 {was a thought to prevent Nb4 but} Bg4 11. h3
+Bxf3 12. Qxf3 f6 13. e6 (13. exf6 Bxf6 14. Bd2 Bxc3 (14... c4 15. Rd1 Nc5 {
+is a more ambitious way for Black to play.}) 15. Bxc3 Qxd5 {gives White some
+play for the two or rather perhaps one and a half pawns}) 13... f5 {with d5
+caving in White is in trouble.} 14. Bd2 Qd6 ({even} 14... Bxc3 15. Bxc3 Qxd5 {
+is pretty good.})) 10... bxa6 11. Be3 Bb7 12. Bxc5 Nxd5 {[#]} 13. Qb3 $2 {
+Up to here, White has taken some risks but remained within bounds. However,
+this is a blunder after which Black is much better or even "winning with best
+play".} ({Instead} 13. Nxd5 Bxd5 (13... Qxd5 14. Qxd5 Bxd5 15. Kf2 {can't be
+too bad for White.}) 14. Bxe7 Qxe7 (14... Bxf3 15. Qxd8 Rfxd8 16. Bxd8 Bxg2 17.
+Rg1 $16) 15. Qxd5 Rfd8 16. Qc4 Rab8 17. O-O {was a reasonable way for White to
+bail out.}) 13... Nxf4 $1 14. Rd1 ({Of course if} 14. Qxb7 Nd3+ 15. Ke2 (15.
+Kf1 Nxc5) 15... Nxc5 (15... Rb8 {is also strong} 16. Qc6 Nxe5 17. Nxe5 Rxb2+ {
+with a huge attack.})) 14... Nxg2+ 15. Kf2 Qc8 $1 {The only move but perfectly
+sufficient.} 16. Nd5 Bxd5 {It's a shame for Black that he has to give up the
+beautiful bishop but the position should be winning anyway.} 17. Qxd5 Nf4 18.
+Qd7 Qb7 19. b4 Rfe8 (19... f6 20. e6 Qe4 {was strong becuse if} 21. Rhe1 Nh3+ {
+but this requires exact calculation and Goran very sensibly kept his position
+together and allowed White to fall apart.}) 20. Bxe7 Bf8 21. Bxf8 Rxf8 {
+Goran played very sensibly around here maintaining his advantage without
+trying too hard to demonstrate anything forced.} 22. h4 Qb6+ 23. Kg3 Nh5+ 24.
+Kg2 Qxb4 25. Rd4 Qb2+ 26. Rd2 Qc3 27. Rf1 Rab8 28. Rff2 Nf4+ 29. Kg3 Ne6 30.
+Qe7 Qb4 31. Qf6 h5 32. Kh2 Qg4 33. Rf1 (33. Rg2 Qf4+ 34. Qxf4 Nxf4 {is also
+quite lost but a slightly less bad version than than White actually got.})
+33... Rb4 34. Rg2 Qf4+ 35. Qxf4 (35. Qxf4 {Again not trying too hard but
+trusting in his technique to get him over the line.}) 35... Rxf4 36. Kg3 Rd8
+37. Rgf2 Rd3 38. Kg2 c5 {With 3 (or perhaps 2.5) extra pawns and every piece
+more active than its counterpart, Black is obviously totally winning.} 39. Rb1
+Rb4 40. Rc1 {[#]} Kg7 {Reaching the time control. Quiet improving moves are
+often the most unpleaant to face when you're lost.} 41. Kh2 c4 42. Rcf1 c3 43.
+Ne1 Rxh4+ 44. Kg2 Rg4+ 45. Kh2 Rd7 46. Rf3 Rc4 47. R1f2 Ng5 48. Rf6 Ne4 49. e6
+fxe6 50. R6f4 e5 51. Rh4 Rd2 {And White resigned. After a fierce opening
+battle, Goran went from a small edge to a winning position when his opponent
+blundered with Qb3?. He then wrapped things up very effectively, making life
+utterly miserable for his opponent by refusing to rush things or enter into
+even the most harmless of complications.} 0-1
+
+[Event "1.hm ts69"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Matous, M....."]
+[Black "\[+4013.13f6f8\]"]
+[Result "1-0"]
+[Annotator "Speelman,Jonathan"]
+[SetUp "1"]
+[FEN "n2Bqk2/5p1p/Q4KP1/p7/8/8/8/8 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1975.??.??"]
+
+{[%evp 0,25,49,0,0,-1050,29979,29980,29981,29982,29983,29984,29985,29986,29987,
+29988,29989,29990,29991,29992,29993,29994,29995,29996,29997,29998,29999,-30000]
+} {[#]} 1. Qc8 $1 (1. Qd6+ Kg8 2. gxh7+ Kh8 {doesn't look like a study and
+analysis shows that it doesn't work but I simply didn't see Qc8.}) 1... Kg8 (
+1... Nc7 2. Be7+ Kg8 3. gxf7+) 2. Bc7 $1 {Given that it is a study then this
+shouldn't be too big a surprise. It has to be this square because if} (2. Bb6
+$2 Qxc8 3. gxf7+ Kf8) ({or} 2. Bxa5 Qxc8 3. gxf7+ Kh8) 2... Qxc8 (2... Nxc7 3.
+gxf7+) 3. gxf7+ Kh8 4. Be5 Qc5 5. Bb2 $1 {White has to get the tempi right. Not
+} (5. Ba1 $1 Nc7 6. Bb2 a4 7. Ba1 a3 {and it's he who is in zugzwang.}) 5...
+Nc7 6. Ba1 {It was slightly hard to believe that this works but given that it
+is a study then it sort of has to.} a4 7. Bb2 a3 8. Ba1 a2 9. Bb2 a1=Q 10. Bxa1
+Nd5+ 11. Ke6+ Nc3 12. Bxc3+ Qxc3 13. f8=Q# 1-0
+

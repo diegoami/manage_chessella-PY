@@ -1,0 +1,22 @@
+[Event "NOR-ch Elite 2019"]
+[White "Hammer, Jon Ludvig"]
+[Black "Notkevich, Benjamin Arvola"]
+[Site "Larvik"]
+[Round "9.1"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.07.13"]
+[WhiteElo "2637"]
+[BlackElo "2497"]
+[PlyCount "125"]
+
+1. d4 {} Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 b5 6. e4 {E20: Nimzo-Indian: 4 g3 and 4 f3} 0-0 7. e5 Ne8 8. f4 {The position is
+equal.} d6 9. Nf3 exd5 10. cxd5 Bb7 $146 ({Predecessor:} 10... Nc7 11. a4 Bb7 12. Bd3 h6 13. 0-0 c4 14. Bb1 dxe5 15. fxe5 Nxd5 16. Nxb5 {1-0 (36) Mamedyarov,
+S (2799)-Le,Q (2737) Huaian 2017} )11. Bd3 $36 { [#] Bxh7+! is the
+strong threat. White has the initiative.} dxe5 12. fxe5 Qxd5 13. 0-0 Bxc3 $1 14. bxc3 c4 15. Bc2 Nc7 (15... Qxd1 $11 {keeps the balance.} 16. Rxd1 Nc7 )16. Qe1 $16 {Black must now prevent Qh4.} Ne6 (16... Nd7 $16 )17. Qh4 (17. Ba3 $18 )g6 $2 ({Black should play} 17... Qc5+ $1 $14 18. Kh1 g6 )18. Ba3 $18 {
+aiming for Rad1.} Qd8 19. Bxf8 Qxh4 20. Nxh4 Nxf8 21. Rfb1 Bc6 22. a4 bxa4 23. Bxa4 Nfd7 24. Nf3 Be4 25. Rd1 Bd3 26. Re1 {Strongly threatening e6.} Nc5 27. Bb5 a5 28. Nd4 Nbd7 29. e6 fxe6 30. Nxe6 Ra7 31. Nf4 Nf6 (31... Kf7 $142 32. Re3 a4 )32. Re5 Nce4 33. Ra3 Nd6 34. Ba4 Rb7 35. h3 Nfe4 36. Bc6 Rb1+ 37. Kh2 Nd2 38. Rexa5 Nf1+ 39. Kg1 Nd2+ 40. Kf2 Rf1+ (40... Rb6 $142 )41. Ke3 { [#] Double Attack} Nb1 42. Nxd3 (42. Ra8+ $142 Kg7 43. R3a7+ (43. Nxd3 Nf5+ 44. Ke4 Nxa3 $16 )Kh6 44. g4 (44. Nxd3 Nf5+ 45. Ke4 Nxc3+ 46. Ke5 cxd3 $16 ))Nxa3 43. Rxa3 {And now Ne5 would win.} cxd3 44. Kxd3 {
+Endgame KRB-KRN} Kg7 45. Ra7+ Rf7 (45... Kh6 $142 46. Bf3 Rc1 )46. Ra6 h5 47. c4 g5 (47... Rf1 $142 48. c5 Nf5 )48. Bf3 Nb7 $2 (48... g4 )49. Bxb7 Rxb7 {
+KR-KR} 50. Ra2 Kf6 51. Re2 g4 52. hxg4 hxg4 53. c5 {
+White mates.} Kf5 54. Kc4 Rb1 55. c6 Rc1+ 56. Kb5 Kf4 57. Kb6 Rb1+ 58. Ka7 Ra1+ 59. Kb7 Rb1+ 60. Kc8 Kf5 61. c7 Kf6 62. Re4 Kf5 63. Rc4 {Accuracy: White = 83%,
+Black = 45%.} 1-0
+

@@ -1,0 +1,43 @@
+
+[Site "Helsingor DEN"]
+[Date "2019.07.24"]
+[Round "6.3"]
+[White "Korobov, Anton"]
+[Black "Praggnanandhaa, R."]
+[Result "0-1"]
+[ECO "E54"]
+[WhiteElo "2687"]
+[BlackElo "2540"]
+[Annotator "Sagar,Shah"]
+[PlyCount "102"]
+[EventDate "2019.07.20"]
+
+{[%evp 0,102,16,28,28,-29,-16,-21,0,-21,33,32,33,23,23,17,47,41,41,41,56,52,49,
+30,23,-6,-16,-12,-12,-5,0,-7,60,-14,-38,-38,-38,-6,-17,-19,-37,-34,-25,-51,-19,
+-26,-24,-52,-68,-49,-32,-35,6,-13,0,0,0,0,0,-15,-3,-12,12,-15,-4,2,3,8,8,8,4,0,
+10,11,8,6,7,7,7,7,0,7,13,0,11,8,7,15,9,8,8,0,0,0,0,-188,-177,-192,-193,-198,
+-203,-200,-212,-216,-248]} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6.
+Nf3 c5 7. O-O dxc4 8. Bxc4 cxd4 9. exd4 b6 10. Bg5 Bb7 11. Re1 Nbd7 12. Rc1 Rc8
+13. Bd3 h6 14. Bh4 Be7 15. Bc2 Nh5 16. Qd3 Ndf6 17. Bxf6 Nxf6 18. Ne5 Qd6 19.
+a3 Rfd8 20. Rcd1 Qc7 21. Re3 Bd6 22. f4 a6 23. Bb1 b5 24. h3 Ba8 (24... Bc5 $1
+{According to Pragg it would have been much better to place his bishop on b6
+so that there would be constant pressure on the d4 pawn.}) 25. f5 Bxe5 (25...
+Bd5 {is a strong move suggested by the engine. But according to Pragg he had
+just moved his bishop on a8 and didn't want to move it again.}) 26. Rxe5 Qxe5
+27. dxe5 Rxd3 28. Rxd3 Nd5 29. Kf2 (29. fxe6 fxe6 30. Ba2 {was what Pragg
+thought was the critical try.} Rc5 31. Bxd5 Bxd5 32. b4 Rc7 33. Nxd5 exd5 34.
+Rxd5 Rc3 35. e6 Kf8 36. Rd8+ Ke7 37. Rd7+ Kxe6 38. Rxg7 Kf6 $11 {Black wins
+back the a3 pawn and the position is drawn.}) 29... Kf8 30. fxe6 fxe6 31. Rf3+
+Ke7 32. Bg6 Nxc3 33. Rf7+ Kd8 34. bxc3 Bd5 35. Rf8+ Kd7 36. Rxc8 Kxc8 37. g3
+Kc7 38. Ke3 Kb6 39. Kd4 Bg2 40. h4 Bd5 41. g4 Bf3 42. g5 hxg5 43. hxg5 Bd5 44.
+Bc2 Ba2 45. a4 a5 (45... Bd5 {is what Korobov was hoping for.} 46. a5+ Kxa5 47.
+Kc5 Ba2 $1 (47... Bc4 $2 48. Bd1 Bd5 49. Bg4 Ka4 50. Kd6 Kb3 51. Bxe6 Bxe6 52.
+Kxe6 Kxc3 53. Kf7 b4 54. e6 b3 55. e7 b2 56. e8=Q b1=Q 57. Qe5+ Kd2 58. g6 $18
+{What is the result of this position is not so clear, but it seems as if
+White's chances to win are more than Black's chances to lose.}) 48. Bd1 Bc4 49.
+Bg4 Ka4 50. Kd6 Kb3 51. Bxe6 Kxc3 52. Bxc4 bxc4 53. e6 Kd2 $1 54. e7 c3 55.
+e8=Q c2 $11 {is a study like draw. There is no way to stop the queen for White.
+}) 46. axb5 Kxb5 47. Bg6 $2 {The losing mistake.} (47. Bd3+ Ka4 48. Kc5 Ka3 49.
+Bb5 a4 50. Kd6 Bb3 51. c4 Kb4 52. Bxa4 Bxa4 53. Kxe6 Kxc4 54. Kf7 Kd5 55. e6 g6
+56. e7 Kd6 57. Kxg6 $11) 47... a4 48. Bd3+ Ka5 49. Ke3 a3 50. Kd2 Bb3 51. Kc1
+Kb6 {This breakthrough helped Pragg to win the title.} 0-1

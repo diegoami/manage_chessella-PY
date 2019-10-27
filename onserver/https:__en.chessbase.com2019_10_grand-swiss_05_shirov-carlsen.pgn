@@ -1,0 +1,44 @@
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[White "Shirov, Alexei"]
+[Black "Sargissian, Gabriel"]
+[Site "Douglas-Isle of Man"]
+[Round "5.8"]
+[Annotator "RC"]
+[Result "1-0"]
+[Date "2019.10.14"]
+[WhiteElo "2664"]
+[BlackElo "2690"]
+[PlyCount "91"]
+[TimeControl "60"]
+
+1. e4 {[%emt 0:0:36]} e5 {[%emt 0:0:0]} 2. Nf3 {[%emt 0:0:43]} Nc6 {[%emt 0:0:0]
+} 3. Bb5 {[%emt 0:0:3]} a6 {[%emt 0:0:0]} 4. Ba4 {[%emt 0:0:0]} Nf6 {[%emt 0:0:4]} 5. 0-0 {[%emt 0:0:5]} Be7 {[%emt 0:0:6]} 6. Re1 {[%emt 0:0:4]
+} b5 {[%emt 0:0:9]} 7. Bb3 {[%emt 0:0:3]} 0-0 {[%emt 0:0:6]
+} 8. d4 {[%emt 0:0:2]} d6 {[%emt 0:11:43]} 9. c3 {[%emt 0:0:19]} Bg4 {[%emt 0:0:5]
+} 10. Be3 {[%emt 0:0:4]} Bh5 {[%emt 0:0:5]} 11. h3 {[%emt 0:0:0]} exd4 {[%emt 0:8:26]} 12. cxd4 {[%emt 0:1:6]} Na5 {[%emt 0:0:6]} 13. Nbd2 {[%emt 0:16:35]} Nxb3 {[%emt 0:0:38]} 14. axb3 {[%emt 0:0:10]} d5 {[%emt 0:17:9]
+} 15. e5 {[%emt 0:1:13]} Ne4 {[%emt 0:0:6]} 16. Qc2 {[%emt 0:0:0]} Nxd2 {[%emt 0:2:12]} 17. Nxd2 {[%emt 0:3:19]} c5 {[%emt 0:0:43]} 18. dxc5 {[%emt 0:15:49]} d4 {[%emt 0:0:19]} 19. Bf4 {[%emt 0:0:4]} Bg6 {[%emt 0:5:57]
+} 20. Qc1 {[%emt 0:0:51]} a5 {[%emt 0:5:26]} 21. Nf3 {[%emt 0:0:0]} Qd5 {[%emt 0:11:24]} 22. e6 {[%emt 0:2:1]} Qxc5 {[%emt 0:1:59]} 23. Qd2 {[%emt 0:17:38]} fxe6 {[%emt 0:2:8]} 24. Rxe6 {[%emt 0:1:18]} Bf6 {[%emt 0:1:54]
+} 25. Be5 {[%emt 0:0:56]} d3 {[%emt 0:2:30]} 26. Bxf6 {[%emt 0:0:0]} Rxf6 {[%emt 0:0:20]} 27. Rxf6 {[%emt 0:2:23]} gxf6 {[%emt 0:0:5]} 28. b4 {[%emt 0:0:4]} Qd6 {[%emt 0:16:44]} 29. bxa5 {[%emt 0:3:20]} b4 {[%emt 0:0:4]
+} 30. a6 {[%emt 0:16:0]} Rxa6 {[%emt 0:0:40]} 31. Rxa6 {[%emt 0:0:5]
+} Qxa6 {[%emt 0:0:5]} 32. Qxb4 {[%emt 0:0:3]} Qa1+ {[%emt 0:0:0]} 33. Kh2 {[%emt 0:0:8]} Qc1 {[%emt 0:0:26]} 34. Kg3 {[%emt 0:2:2]} Qc2 {[%emt 0:3:57]} 35. Qd4 {[%emt 0:5:15]} Qc7+ {[%emt 0:2:50]} 36. Qf4 {[%emt 0:0:47]
+} Qb6 {[%emt 0:0:8]} 37. b4 {[%emt 0:0:35]} Kf8 {[%emt 0:0:0]} 38. Nd2 {[%emt 0:0:49]} Ke7 {[%emt 0:3:3]} 39. h4 {[%emt 0:8:56]} Qb5 {[%emt 0:4:47]} 40. Qd4 {[%emt 0:2:6]} Ke6 {[%emt 0:2:39]} 41. Kf4 {[%emt 0:3:16]
+} Qh5 {[%emt 0:14:56]} 42. Nf3 {[%emt 0:1:10]} Qh6+ {[%emt 0:0:0]} 43. Kg3 {[%emt 0:0:13]} Qc1 {[%emt 0:8:14]} 44. h5 {[%emt 0:2:57]} Bf5 {[%emt 0:0:51]} 45. Qf4 {[%emt 0:0:27]} Qc3 {[%emt 0:3:45]} 46. b5 {[%emt 0:0:0]} 1-0
+
+[Event "FIDE Chesscom Grand Swiss 2019"]
+[White "Carlsen, Magnus"]
+[Black "Ganguly, Surya Shekhar"]
+[Site "Douglas-Isle of Man"]
+[Round "5.11"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.10.14"]
+[WhiteElo "2876"]
+[BlackElo "2658"]
+[PlyCount "81"]
+
+1. e4 {} c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nb3 Be7 {B90: Sicilian Najdorf: Unusual White 6th moves, 6
+Be3 Ng4 and 6 Be3 e5} (7... Be6 8. f4 g6 9. Be2 Nbd7 10. g4 Rc8 11. f5 Bxb3 12. axb3 Rxc3 13. bxc3 Nxe4 14. 0-0 Qh4 15. Bf3 gxf5 16. Bxe4 fxe4 {1/2-1/2 (53)
+Caruana,F (2818)-Vachier Lagrave,M (2778) Saint Louis 2019} )8. g4 h6 9. Be3 Nbd7 {The position is equal.} 10. a4 b6 11. f3 Qc7 12. h4 Nf8 $146 ({
+Predecessor:} 12... Bb7 13. Qd2 Rd8 14. Rh3 d5 15. Nxd5 Nxd5 16. exd5 {1/2-1/2
+(54) Nichols,S (2202)-Bernal Varela,N (2138) FICGS email 2010} )13. Rg1 Be6 14. g5 $1 {} hxg5 15. hxg5 N6d7 16. Nd5 $36 { White fights
+for an advantage.} Qc6 17. Qd2 Ng6 18. a5 {} b5 19. 0-0-0 Rc8 20. Kb1 Nc5 21. Be2 Bd8 (21... Rh7 $142 )22. Nxc5 $16 dxc5 23. f4 $1 {} exf4 24. Bxf4 Be7 (24... Rh4 $16 )25. Nxe7 $18 Kxe7 26. Bd6+ $1 Ke8 27. Qc3 Rh7 28. Bg3 b4 29. Qd3 c4 {[#]} 30. Qd6 $1 Qxe4 $2 (30... b3 {might work better.} 31. cxb3 Qxe4+ { Double Attack} 32. Ka1 cxb3 33. Bxa6 Qa4+ 34. Qa3 Qxa3+ 35. bxa3 Rc5 )31. Rd4 ({Weaker is} 31. Qxa6 b3 $15 )({Inferior is} 31. Qxb4 Qxe2 32. Rge1 Qg2 $11 )Qb7 $2 {[#]} (31... Qc6 32. Qxc6+ (32. Qxb4 Rh1 $16 )Rxc6 )32. Qb6 $1 { White is clearly winning.} Qa8 33. Rgd1 {Bf3! is the strong threat.} Rh1 34. Be1 {Strongly threatening Bf3!} Ne5 35. Bxb4 Rxd1+ 36. Rxd1 Qc6 (36... Rd8 $142 37. Rxd8+ Qxd8 )37. Qe3 Qb5 38. Bc3 Rc5 39. b4 Nd3 40. cxd3 Rd5 41. dxc4 {Accuracy: White = 91%, Black = 36%.} 1-0

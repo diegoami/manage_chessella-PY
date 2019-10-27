@@ -1,0 +1,22 @@
+[Event "World Championship 13th"]
+[Site "Buenos Aires"]
+[Date "1927.10.08"]
+[Round "11"]
+[White "Capablanca, Jose Raul"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[ECO "D52"]
+[Annotator "Karsten Müller"]
+[SetUp "1"]
+[FEN "5r2/5p1k/5qp1/P6p/2Q4P/2p3P1/4R2K/8 b - - 0 60"]
+[PlyCount "13"]
+[EventDate "1927.09.16"]
+[EventType "match"]
+[EventRounds "34"]
+[EventCountry "ARG"]
+
+60... Rd8 (60... Qf1 $19) 61. a6 $6 (61. Kg2 Qf5 62. Qxc3 (62. Rf2 Rd2 $19 63.
+Rxd2 cxd2) 62... Rd3 63. Qc6 Qg4 $19) 61... Qf1 $1 62. Qe4 (62. a7 Rd2 63. Rxd2
+Qxc4 64. a8=Q cxd2 $19) 62... Rd2 63. Rxd2 cxd2 64. a7 d1=Q 65. a8=Q Qg1+ 66.
+Kh3 Qdf1+ (66... Qdf1+ 67. Qg2 Qh1#) 0-1
+

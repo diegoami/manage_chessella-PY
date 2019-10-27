@@ -1,0 +1,1170 @@
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.1"]
+[White "Haria, Ravi"]
+[Black "Howell, David W L"]
+[Result "1/2-1/2"]
+[ECO "B11"]
+[WhiteElo "2430"]
+[BlackElo "2697"]
+[Annotator "TA"]
+[PlyCount "178"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 10,178,31,6,9,11,18,18,18,14,21,16,27,27,18,10,24,25,29,29,29,29,30,18,
+68,29,54,49,70,77,76,60,67,47,49,46,46,47,43,32,53,53,49,38,64,56,67,29,29,29,
+37,29,29,29,29,29,38,0,29,0,38,0,38,35,36,36,73,0,0,0,0,0,0,0,22,0,14,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6
+6. Be2 Nf6 {B11: Caro-Kann: Two Knights Variation} 7. O-O Bc5 8. Rd1 (8. d3 O-O
+9. Qg3 Bd4 10. Qh4 Nfd7 11. Qxd8 {1/2-1/2 (11) Buhmann,R (2568)-Rodshtein,M 
+(2673) Skopje 2019}) 8... Bd4 9. exd5 cxd5 10. Bb5+ Nc6 11. Ne2 $36 {[%mdl
+2048] White has good play.} Bb6 12. d4 Ne4 13. Ng3 {[#]} Nxg3 $146 ({
+Predecessor:} 13... f5 14. Nxe4 dxe4 {1/2-1/2 (33) Ratsma,R (2295)-Yevseev,D 
+(2514) Krakow 2017}) 14. Qxg3 O-O 15. c3 Bc7 16. Qf3 Qf6 17. Qg4 Qg6 18. Bd3 f5
+19. Qxg6 hxg6 20. Bg5 Rac8 21. Rac1 Bd8 22. h4 Kf7 23. g3 Bxg5 24. hxg5 a6 25.
+Kg2 Na5 26. Rc2 Rc6 27. Re2 Rb8 28. Rde1 b5 29. a3 Ke7 30. g4 {[#] Black must
+now prevent gxf5.} Kf7 31. Kg3 Nc4 32. f3 Nb6 33. Re3 Na4 34. R3e2 Nb6 35. Re3
+Na8 36. Kf4 Nc7 37. Bf1 a5 38. b3 ({White should try} 38. Bd3 $16) 38... Rh8
+$11 {The position is equal.} 39. Kg3 Ke7 40. Rc1 Kd6 41. Re5 Rb6 42. Bd3 a4 43.
+b4 Rbb8 44. Ree1 Kd7 45. Rh1 Rhg8 46. gxf5 gxf5 47. Kf4 Ne8 48. Ke3 Nd6 49. Rh2
+Rbc8 50. Kd2 Rh8 51. Rch1 Rxh2+ 52. Rxh2 {[%mdl 4096] Endgame KRB-KRN} Ke7 53.
+Rh3 Kf7 54. Be2 Rb8 55. f4 Kg8 56. Bf1 Rb6 57. Be2 Rb7 58. Bf1 Rb8 59. Be2 Ne4+
+60. Kc2 g6 61. Bf1 Kg7 62. Be2 Nd6 63. Bf1 Rh8 64. Rxh8 Kxh8 {KB-KN} 65. Be2
+Kg7 66. Bf1 Kf7 67. Be2 Ke7 68. Bf1 Kd7 69. Be2 Kc6 70. Bf1 Ne4 {[#] ...Ng3 is
+the strong threat.} 71. Be2 Nd6 72. Bf1 Kb6 73. Bd3 Ne4 74. Be2 $1 Kc6 75. Kd3
+Kb6 76. Kc2 Nf2 {And now ...Nh3 would win.} 77. Kd2 Kc6 78. Ke3 Ne4 79. Kd3 Kb7
+80. Kc2 Kc6 81. Kd3 Ng3 82. Bf3 Kd7 83. Be2 Kc7 84. Kd2 Kb6 85. Kd3 Ne4 86. Kc2
+Ng3 87. Kd3 Kb7 88. Kd2 Nxe2 89. Kxe2 Ka8 {Accuracy: White = 73%, Black = 64%.}
+1/2-1/2
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.2"]
+[White "Adams, Michael"]
+[Black "Pert, Richard G"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2690"]
+[BlackElo "2430"]
+[Annotator "TA"]
+[PlyCount "61"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,61,3,17,5,14,0,12,2,28,6,7,26,16,20,22,18,22,23,30,44,33,20,118,135,
+104,94,112,118,143,141,205,208,439,444,613,583,595,611,606,590,736,718,693,707,
+925,914,1026,1026,1172,1147,1405,1414,29985,29986]} 1. e4 c6 2. d4 d5 3. e5 c5
+4. Nf3 Nc6 (4... cxd4 5. Nxd4 e6 6. Nd2 Ne7 7. Bd3 Nec6 8. N2f3 Nxd4 9. Nxd4
+Nc6 10. Nf3 Bc5 11. O-O h6 12. c3 a6 13. Re1 {1-0 (57) Jones,G (2682)-Indjic,A
+(2620) St Petersburg 2018}) 5. c4 cxd4 6. Nxd4 {B12: Caro-Kann: Advance
+Variation} e6 7. Nc3 Bc5 8. Nxc6 {The position is equal.} bxc6 9. Be2 Ne7 10.
+O-O Ng6 11. Na4 Be7 12. f4 O-O $146 13. Be3 f6 14. exf6 Bxf6 15. Bd3 d4 (15...
+Re8 $11) 16. Bd2 $16 e5 {[#]} 17. Qh5 $1 {And now fxe5 would win.} exf4 18.
+Bxf4 Qd7 {[#]} 19. h3 $1 Qf7 (19... Be7 $16) 20. Nc5 $18 Be7 $2 {[#]} (20...
+Re8 {is a better defense.} 21. Rad1 Be6) 21. Bd6 $1 {[%mdl 512]} Qe8 (21...
+Bxd6 22. Rxf7) 22. Rfe1 {Black must now prevent Rxe7!} Rf7 23. Bxg6 hxg6 24.
+Qe5 {[%mdl 64] Double Attack} Kf8 25. Qxd4 {Hoping for Rxe7.} Kg8 26. Qe5 Kf8
+27. Re3 a5 28. Rae1 Ra7 29. Qg5 Qd8 {[#]} 30. Qh4 $1 {[%cal Rh4h8]} Ke8 31.
+Bxe7 {Accuracy: White = 88%, Black = 37%.} 1-0
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.3"]
+[White "Gordon, Stephen J"]
+[Black "Tan, Justin Hy"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2516"]
+[BlackElo "2513"]
+[Annotator "ChessBase"]
+[PlyCount "73"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. c4 {[%emt 0:01:33]} c6 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:36]} d5 {[%emt 0:
+00:00]} 3. e3 {[%emt 0:00:04]} Nf6 {[%emt 0:00:00]} 4. Nc3 {[%emt 0:01:09]} e6
+{[%emt 0:00:05]} 5. b3 {[%emt 0:00:50]} Bd6 {[%emt 0:01:11]} 6. Bb2 {[%emt 0:
+00:49]} O-O {[%emt 0:03:18]} 7. Qc2 {[%emt 0:11:50]} Qe7 {[%emt 0:05:47]} 8. d4
+{[%emt 0:09:15]} Nbd7 {[%emt 0:01:48]} 9. Be2 {[%emt 0:21:39]} b6 {[%emt 0:01:
+24]} 10. O-O {[%emt 0:01:05]} Bb7 {[%emt 0:00:05]} 11. Rfe1 {[%emt 0:05:13]}
+Rac8 {[%emt 0:02:45]} 12. e4 {[%emt 0:01:18]} dxe4 {[%emt 0:02:49]} 13. Nxe4 {
+[%emt 0:00:57]} Nxe4 {[%emt 0:14:11]} 14. Qxe4 {[%emt 0:00:02]} Nf6 {[%emt 0:
+00:11]} 15. Qh4 {[%emt 0:04:37]} Bb4 {[%emt 0:03:27]} 16. Red1 {[%emt 0:03:19]}
+Ba3 {[%emt 0:03:08]} 17. Bc3 {[%emt 0:06:39]} c5 {[%emt 0:04:29]} 18. Ne5 {
+[%emt 0:01:36]} Rfd8 {[%emt 0:02:42]} 19. Bh5 {[%emt 0:05:49]} Rf8 {[%emt 0:09:
+38]} 20. Bf3 {[%emt 0:04:26]} Bxf3 {[%emt 0:10:12]} 21. Nxf3 {[%emt 0:00:49]}
+cxd4 {[%emt 0:01:44]} 22. Bxd4 {[%emt 0:00:01]} Rfd8 {[%emt 0:00:18]} 23. Rd3 {
+[%emt 0:02:02]} Bb2 {[%emt 0:06:01]} 24. Rad1 {[%emt 0:00:32]} Bxd4 {[%emt 0:
+00:05]} 25. Rxd4 {[%emt 0:01:06]} h6 {[%emt 0:01:39]} 26. h3 {[%emt 0:04:43]}
+Kf8 {[%emt 0:01:39]} 27. Ne5 {[%emt 0:01:06]} Qc7 {[%emt 0:04:10]} 28. b4 {
+[%emt 0:01:58]} Ke8 {[%emt 0:04:57]} 29. Qg3 {[%emt 0:02:08]} Rxd4 {[%emt 0:02:
+15]} 30. Rxd4 {[%emt 0:00:02]} a5 {[%emt 0:04:30]} 31. b5 {[%emt 0:01:26]} Qc5
+{[%emt 0:00:07]} 32. Nc6 {[%emt 0:01:16]} Kf8 {[%emt 0:03:33]} 33. Qd6+ {
+[%emt 0:00:34]} Qxd6 {[%emt 0:00:11]} 34. Rxd6 {[%emt 0:00:02]} g5 {[%emt 0:03:
+06]} 35. f3 {[%emt 0:01:39]} Kg7 {[%emt 0:02:20]} 36. c5 {[%emt 0:02:24]} Nd5 {
+[%emt 0:01:01]} 37. Rxd5 {[%emt 0:00:23]} 1-0
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.4"]
+[White "Fernandez, Daniel Howard"]
+[Black "Palliser, Richard Jd"]
+[Result "0-1"]
+[ECO "A02"]
+[WhiteElo "2466"]
+[BlackElo "2399"]
+[Annotator "ChessBase"]
+[PlyCount "86"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. f4 {[%emt 0:00:07]} d6 {[%emt 0:02:32]} 2. b3 {[%emt 0:04:36]} e5 {[%emt 0:
+00:39]} 3. fxe5 {[%emt 0:00:28]} dxe5 {[%emt 0:00:03]} 4. g3 {[%emt 0:02:07]}
+h5 {[%emt 0:03:44]} 5. Bb2 {[%emt 0:04:22]} h4 {[%emt 0:02:07]} 6. Bg2 {
+[%emt 0:01:37]} hxg3 {[%emt 0:00:56]} 7. hxg3 {[%emt 0:01:19]} Rxh1 {[%emt 0:
+00:08]} 8. Bxh1 {[%emt 0:00:03]} Qg5 {[%emt 0:00:08]} 9. Kf2 {[%emt 0:02:45]}
+Nf6 {[%emt 0:01:17]} 10. Nc3 {[%emt 0:11:26]} e4 {[%emt 0:21:17]} 11. e3 {
+[%emt 0:14:06]} Ng4+ {[%emt 0:16:01]} 12. Ke1 {[%emt 0:00:38]} Qh5 {[%emt 0:01:
+45]} 13. Bxe4 {[%emt 0:00:07]} Qh2 {[%emt 0:00:08]} 14. Qf3 {[%emt 0:00:02]}
+Qxg1+ {[%emt 0:00:11]} 15. Ke2 {[%emt 0:00:01]} Qh2+ {[%emt 0:00:20]} 16. Qg2 {
+[%emt 0:00:01]} Qxg2+ {[%emt 0:01:02]} 17. Bxg2 {[%emt 0:00:01]} c6 {[%emt 0:
+01:09]} 18. Bh3 {[%emt 0:00:02]} Na6 {[%emt 0:00:34]} 19. Ne4 {[%emt 0:00:38]}
+Bf5 {[%emt 0:06:49]} 20. Nf2 {[%emt 0:00:02]} Nh6 {[%emt 0:00:19]} 21. Bxf5 {
+[%emt 0:02:14]} Nxf5 {[%emt 0:00:39]} 22. g4 {[%emt 0:00:02]} Nd6 {[%emt 0:04:
+59]} 23. Rh1 {[%emt 0:00:27]} f6 {[%emt 0:02:18]} 24. g5 {[%emt 0:00:38]} fxg5
+{[%emt 0:00:37]} 25. Ng4 {[%emt 0:00:55]} Nc5 {[%emt 0:03:03]} 26. c4 {[%emt 0:
+01:35]} Nf5 {[%emt 0:10:28]} 27. Rh8 {[%emt 0:01:23]} O-O-O {[%emt 0:01:03]}
+28. d4 {[%emt 0:00:06]} Ne4 {[%emt 0:01:53]} 29. Kf3 {[%emt 0:03:49]} Nd2+ {
+[%emt 0:01:34]} 30. Ke2 {[%emt 0:00:19]} Ne4 {[%emt 0:00:03]} 31. Kf3 {[%emt 0:
+00:06]} Nf6 {[%emt 0:00:19]} 32. Nxf6 {[%emt 0:00:31]} gxf6 {[%emt 0:00:01]}
+33. e4 {[%emt 0:00:30]} Nh4+ {[%emt 0:05:04]} 34. Kg4 {[%emt 0:00:23]} Be7 {
+[%emt 0:00:31]} 35. Rh7 {[%emt 0:00:10]} Re8 {[%emt 0:00:11]} 36. e5 {[%emt 0:
+01:16]} fxe5 {[%emt 0:06:02]} 37. dxe5 {[%emt 0:00:25]} Bd8 {[%emt 0:00:27]}
+38. Rh6 {[%emt 0:01:52]} Rf8 {[%emt 0:02:52]} 39. Bc1 {[%emt 0:03:34]} Nf3 {
+[%emt 0:01:30]} 40. e6 {[%emt 0:00:30]} Ne5+ {[%emt 0:00:06]} 41. Kg3 {[%emt 0:
+30:28]} Rf6 {[%emt 0:32:33]} 42. Bxg5 {[%emt 0:00:18]} Rf3+ {[%emt 0:02:43]}
+43. Kh4 {[%emt 0:00:12]} Rf4+ {[%emt 0:00:00]} 0-1
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.5"]
+[White "Eggleston, David J"]
+[Black "Emms, John M"]
+[Result "0-1"]
+[ECO "B36"]
+[WhiteElo "2399"]
+[BlackElo "2481"]
+[Annotator "ChessBase"]
+[PlyCount "160"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:01:48]} c5 {[%emt 0:00:07]} 2. Nf3 {[%emt 0:00:05]} Nc6 {
+[%emt 0:00:08]} 3. d4 {[%emt 0:00:04]} cxd4 {[%emt 0:00:05]} 4. Nxd4 {[%emt 0:
+00:04]} g6 {[%emt 0:00:34]} 5. c4 {[%emt 0:03:26]} Nf6 {[%emt 0:00:28]} 6. Nc3
+{[%emt 0:00:25]} d6 {[%emt 0:00:09]} 7. Be2 {[%emt 0:00:16]} Nxd4 {[%emt 0:00:
+29]} 8. Qxd4 {[%emt 0:00:22]} Bg7 {[%emt 0:00:05]} 9. Be3 {[%emt 0:00:14]} O-O
+{[%emt 0:00:10]} 10. Qd2 {[%emt 0:00:14]} a5 {[%emt 0:01:00]} 11. O-O {[%emt 0:
+00:19]} a4 {[%emt 0:00:29]} 12. Rac1 {[%emt 0:00:14]} Qa5 {[%emt 0:00:54]} 13.
+f4 {[%emt 0:00:41]} Bd7 {[%emt 0:01:41]} 14. h3 {[%emt 0:15:07]} Bc6 {[%emt 0:
+02:12]} 15. Bf3 {[%emt 0:01:22]} Nd7 {[%emt 0:25:58]} 16. Kh1 {[%emt 0:26:19]}
+Rfd8 {[%emt 0:09:47]} 17. Rfd1 {[%emt 0:08:56]} Nc5 {[%emt 0:08:58]} 18. Bd4 {
+[%emt 0:07:17]} e5 {[%emt 0:05:10]} 19. Be3 {[%emt 0:00:07]} exf4 {[%emt 0:00:
+22]} 20. Bxf4 {[%emt 0:00:09]} Ne6 {[%emt 0:01:07]} 21. Be3 {[%emt 0:01:53]}
+Qb4 {[%emt 0:08:55]} 22. Qe2 {[%emt 0:06:22]} a3 {[%emt 0:03:59]} 23. bxa3 {
+[%emt 0:00:20]} Qxa3 {[%emt 0:01:07]} 24. Rc2 {[%emt 0:07:05]} Be5 {[%emt 0:10:
+41]} 25. Nb5 {[%emt 0:02:22]} Bxb5 {[%emt 0:01:48]} 26. cxb5 {[%emt 0:00:02]}
+Rdc8 {[%emt 0:02:09]} 27. Rdc1 {[%emt 0:04:56]} Rxc2 {[%emt 0:00:06]} 28. Rxc2
+{[%emt 0:00:10]} Nd4 {[%emt 0:03:49]} 29. Bxd4 {[%emt 0:00:06]} Bxd4 {[%emt 0:
+00:01]} 30. Qd1 {[%emt 0:06:38]} Be5 {[%emt 0:01:23]} 31. Qd2 {[%emt 0:01:50]}
+Kg7 {[%emt 0:01:24]} 32. Qf2 {[%emt 0:02:24]} Qd3 {[%emt 0:02:31]} 33. Qe2 {
+[%emt 0:01:07]} Qd4 {[%emt 0:00:43]} 34. Qd1 {[%emt 0:01:07]} Qb4 {[%emt 0:01:
+49]} 35. Qf1 {[%emt 0:01:07]} Ra3 {[%emt 0:03:14]} 36. Qe2 {[%emt 0:02:07]} Qd4
+{[%emt 0:01:07]} 37. Rd2 {[%emt 0:00:38]} Qc3 {[%emt 0:00:52]} 38. Rc2 {
+[%emt 0:00:33]} Qa1+ {[%emt 0:01:49]} 39. Qd1 {[%emt 0:00:03]} Rxa2 {[%emt 0:
+00:25]} 40. Rxa2 {[%emt 0:00:52]} Qxa2 {[%emt 0:00:06]} 41. Be2 {[%emt 0:05:07]
+} Qa3 {[%emt 0:04:39]} 42. Bd3 {[%emt 0:01:04]} h5 {[%emt 0:01:32]} 43. Qf3 {
+[%emt 0:02:37]} Qc1+ {[%emt 0:03:23]} 44. Qf1 {[%emt 0:02:56]} Qe3 {[%emt 0:01:
+38]} 45. Qf3 {[%emt 0:00:14]} Qe1+ {[%emt 0:00:23]} 46. Bf1 {[%emt 0:01:37]} h4
+{[%emt 0:07:36]} 47. Qd3 {[%emt 0:01:47]} b6 {[%emt 0:06:35]} 48. Qf3 {[%emt 0:
+00:55]} Kg8 {[%emt 0:00:25]} 49. Qd3 {[%emt 0:02:39]} Kh7 {[%emt 0:00:59]} 50.
+Qf3 {[%emt 0:00:29]} Kg7 {[%emt 0:00:03]} 51. Qd3 {[%emt 0:00:06]} Kh6 {
+[%emt 0:00:56]} 52. Qf3 {[%emt 0:00:12]} f6 {[%emt 0:00:13]} 53. Qd3 {[%emt 0:
+00:47]} Kg5 {[%emt 0:03:35]} 54. Kg1 {[%emt 0:02:49]} Bf4 {[%emt 0:01:27]} 55.
+Qf3 {[%emt 0:00:38]} Be3+ {[%emt 0:00:43]} 56. Kh1 {[%emt 0:00:27]} Qg3 {
+[%emt 0:01:51]} 57. Bd3 {[%emt 0:01:05]} Qe1+ {[%emt 0:00:20]} 58. Qf1 {
+[%emt 0:00:28]} Qxf1+ {[%emt 0:00:11]} 59. Bxf1 {[%emt 0:00:36]} Kf4 {[%emt 0:
+00:04]} 60. Bd3 {[%emt 0:00:13]} Kg3 {[%emt 0:00:51]} 61. Bc2 {[%emt 0:01:02]}
+f5 {[%emt 0:00:35]} 62. exf5 {[%emt 0:00:41]} gxf5 {[%emt 0:00:04]} 63. Be4 {
+[%emt 0:05:18]} f4 {[%emt 0:00:49]} 64. Bc6 {[%emt 0:00:28]} Bc5 {[%emt 0:00:
+17]} 65. Bb7 {[%emt 0:00:13]} Kf2 {[%emt 0:00:12]} 66. Kh2 {[%emt 0:00:04]} Ke2
+{[%emt 0:00:23]} 67. Bc6 {[%emt 0:00:12]} Kd3 {[%emt 0:00:17]} 68. Kh1 {
+[%emt 0:01:01]} Kc4 {[%emt 0:00:13]} 69. Kh2 {[%emt 0:00:15]} d5 {[%emt 0:00:
+16]} 70. Kh1 {[%emt 0:00:04]} Be3 {[%emt 0:00:18]} 71. g4 {[%emt 0:00:19]} fxg3
+{[%emt 0:00:23]} 72. Kg2 {[%emt 0:00:05]} d4 {[%emt 0:02:02]} 73. Kf1 {[%emt 0:
+00:16]} d3 {[%emt 0:00:48]} 74. Ke1 {[%emt 0:00:25]} Kd4 {[%emt 0:00:16]} 75.
+Kd1 {[%emt 0:00:17]} Bg5 {[%emt 0:00:24]} 76. Ke1 {[%emt 0:00:49]} Ke3 {
+[%emt 0:00:40]} 77. Bb7 {[%emt 0:00:09]} d2+ {[%emt 0:00:32]} 78. Kd1 {[%emt 0:
+00:06]} Kf2 {[%emt 0:00:06]} 79. Ba8 {[%emt 0:00:04]} g2 {[%emt 0:00:09]} 80.
+Bxg2 {[%emt 0:00:04]} Kxg2 {[%emt 0:00:05]} 0-1
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.6"]
+[White "Derakhshani, Borna"]
+[Black "Williams, Simon K"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[WhiteElo "2300"]
+[BlackElo "2468"]
+[Annotator "ChessBase"]
+[PlyCount "69"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. b3 {[%emt 0:00:00]} e5 {[%emt 0:00:38]} 2. Bb2 {[%emt 0:00:00]} Nc6 {
+[%emt 0:01:06]} 3. e3 {[%emt 0:00:00]} d6 {[%emt 0:01:12]} 4. c4 {[%emt 0:02:
+42]} g6 {[%emt 0:01:59]} 5. Nf3 {[%emt 0:02:45]} Bg7 {[%emt 0:00:44]} 6. d4 {
+[%emt 0:00:14]} Bf5 {[%emt 0:09:19]} 7. Nbd2 {[%emt 0:06:48]} exd4 {[%emt 0:09:
+38]} 8. Nxd4 {[%emt 0:00:09]} Nxd4 {[%emt 0:00:26]} 9. Bxd4 {[%emt 0:00:04]}
+Bxd4 {[%emt 0:00:22]} 10. exd4 {[%emt 0:00:03]} Qf6 {[%emt 0:00:34]} 11. Nf3 {
+[%emt 0:01:28]} g5 {[%emt 0:01:47]} 12. Bd3 {[%emt 0:06:21]} Ne7 {[%emt 0:04:
+59]} 13. O-O {[%emt 0:06:10]} O-O-O {[%emt 0:03:28]} 14. d5 {[%emt 0:05:37]}
+Bg4 {[%emt 0:02:52]} 15. Re1 {[%emt 0:04:33]} Rde8 {[%emt 0:02:22]} 16. Rc1 {
+[%emt 0:02:05]} Bxf3 {[%emt 0:02:21]} 17. Qxf3 {[%emt 0:00:04]} Qxf3 {[%emt 0:
+00:06]} 18. gxf3 {[%emt 0:00:02]} Ng6 {[%emt 0:00:16]} 19. Bxg6 {[%emt 0:00:08]
+} hxg6 {[%emt 0:00:05]} 20. Re3 {[%emt 0:06:31]} Kd7 {[%emt 0:01:03]} 21. Rce1
+{[%emt 0:01:58]} Rxe3 {[%emt 0:01:13]} 22. fxe3 {[%emt 0:00:00]} a5 {[%emt 0:
+00:58]} 23. Kg2 {[%emt 0:00:00]} Ke7 {[%emt 0:03:31]} 24. Kg3 {[%emt 0:00:00]}
+f5 {[%emt 0:08:22]} 25. h3 {[%emt 0:03:29]} Kf6 {[%emt 0:00:19]} 26. e4 {
+[%emt 0:00:25]} f4+ {[%emt 0:01:15]} 27. Kg2 {[%emt 0:00:28]} Ke5 {[%emt 0:00:
+21]} 28. Rd1 {[%emt 0:00:22]} Ra8 {[%emt 0:02:18]} 29. a4 {[%emt 0:02:20]} Ra6
+{[%emt 0:09:01]} 30. Rd3 {[%emt 0:00:09]} Rb6 {[%emt 0:00:07]} 31. Kf2 {
+[%emt 0:00:17]} Rb4 {[%emt 0:00:53]} 32. Ke2 {[%emt 0:00:26]} c5 {[%emt 0:00:
+57]} 33. Rc3 {[%emt 0:01:55]} Rb6 {[%emt 0:00:08]} 34. Rd3 {[%emt 0:00:08]} Ra6
+{[%emt 0:00:30]} 35. Kf2 {[%emt 0:00:13]} 1/2-1/2
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.7"]
+[White "Arkell, Keith C"]
+[Black "Wadsworth, Matthew J"]
+[Result "1-0"]
+[ECO "A22"]
+[WhiteElo "2461"]
+[BlackElo "2418"]
+[Annotator "ChessBase"]
+[PlyCount "83"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. c4 {[%emt 0:00:16]} e5 {[%emt 0:01:28]} 2. Nc3 {[%emt 0:00:05]} Bb4 {
+[%emt 0:01:06]} 3. g3 {[%emt 0:00:22]} Bxc3 {[%emt 0:02:34]} 4. bxc3 {[%emt 0:
+00:05]} Nc6 {[%emt 0:01:12]} 5. Bg2 {[%emt 0:00:07]} Nf6 {[%emt 0:02:30]} 6. e4
+{[%emt 0:00:11]} d6 {[%emt 0:01:46]} 7. d3 {[%emt 0:00:09]} O-O {[%emt 0:09:46]
+} 8. Ne2 {[%emt 0:00:17]} a6 {[%emt 0:06:59]} 9. a4 {[%emt 0:00:06]} Be6 {
+[%emt 0:28:28]} 10. O-O {[%emt 0:07:05]} Qc8 {[%emt 0:00:05]} 11. f4 {[%emt 0:
+00:21]} exf4 {[%emt 0:01:28]} 12. Nxf4 {[%emt 0:04:40]} Ne5 {[%emt 0:01:35]}
+13. h3 {[%emt 0:03:22]} Ng6 {[%emt 0:07:03]} 14. Kh2 {[%emt 0:00:52]} Rb8 {
+[%emt 0:00:38]} 15. a5 {[%emt 0:01:56]} Re8 {[%emt 0:03:41]} 16. Be3 {[%emt 0:
+05:48]} Ne5 {[%emt 0:04:49]} 17. Ba7 {[%emt 0:02:01]} Ra8 {[%emt 0:00:21]} 18.
+Bd4 {[%emt 0:00:09]} Nfd7 {[%emt 0:05:49]} 19. Qd2 {[%emt 0:08:49]} Nc5 {
+[%emt 0:01:46]} 20. Qe3 {[%emt 0:01:06]} Ncd7 {[%emt 0:02:51]} 21. Qd2 {
+[%emt 0:08:12]} Nc5 {[%emt 0:01:43]} 22. Rab1 {[%emt 0:00:26]} Bd7 {[%emt 0:02:
+32]} 23. Rf2 {[%emt 0:02:20]} Ne6 {[%emt 0:02:32]} 24. Nh5 {[%emt 0:03:37]} f6
+{[%emt 0:03:34]} 25. Be3 {[%emt 0:03:47]} Rf8 {[%emt 0:00:20]} 26. Nf4 {
+[%emt 0:04:18]} c6 {[%emt 0:00:28]} 27. Qd1 {[%emt 0:03:40]} Ng5 {[%emt 0:02:
+01]} 28. Bd4 {[%emt 0:02:59]} Rf7 {[%emt 0:01:01]} 29. Rfb2 {[%emt 0:01:58]}
+Be6 {[%emt 0:01:13]} 30. Qf1 {[%emt 0:02:09]} Re7 {[%emt 0:02:05]} 31. h4 {
+[%emt 0:01:21]} Ng4+ {[%emt 0:00:13]} 32. Kh1 {[%emt 0:00:21]} Nf7 {[%emt 0:00:
+17]} 33. Nxe6 {[%emt 0:00:15]} Qxe6 {[%emt 0:01:19]} 34. Rxb7 {[%emt 0:00:20]}
+Rxb7 {[%emt 0:00:41]} 35. Rxb7 {[%emt 0:00:06]} c5 {[%emt 0:00:46]} 36. Bg1 {
+[%emt 0:02:43]} Nfe5 {[%emt 0:00:30]} 37. Qf5 {[%emt 0:02:21]} Qxf5 {[%emt 0:
+00:17]} 38. exf5 {[%emt 0:00:04]} Nxd3 {[%emt 0:00:39]} 39. Bd5+ {[%emt 0:00:
+22]} Kh8 {[%emt 0:00:07]} 40. Rb6 {[%emt 0:01:06]} Re8 {[%emt 0:00:52]} 41.
+Rxa6 {[%emt 0:30:44]} h5 {[%emt 0:30:13]} 42. Ra8 {[%emt 0:00:59]} 1-0
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.8"]
+[White "Houska, Jovanka"]
+[Black "Rudd, Jack"]
+[Result "1-0"]
+[ECO "A46"]
+[WhiteElo "2422"]
+[BlackElo "2275"]
+[Annotator "NA"]
+[PlyCount "87"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. d4 {[%emt 0:00:15]} Nf6 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:18]} e6 {
+[%emt 0:00:00]} 3. Bf4 {[%emt 0:01:31]} c5 {[%emt 0:00:40]} 4. e3 {[%emt 0:00:
+05]} Qb6 {[%emt 0:00:40]} 5. Qc1 {[%emt 0:03:19]} Nh5 {[%emt 0:02:09]} 6. Bg3 {
+[%emt 0:02:09]} Nxg3 {[%emt 0:01:37]} 7. hxg3 {[%emt 0:00:04]} cxd4 {[%emt 0:
+00:47]} 8. exd4 {[%emt 0:00:04]} Nc6 {[%emt 0:00:08]} 9. c3 {[%emt 0:00:06]} g6
+{[%emt 0:00:16]} 10. Nbd2 {[%emt 0:01:07]} Bg7 {[%emt 0:01:48]} 11. Bd3 {
+[%emt 0:00:19]} Qc7 {[%emt 0:00:49]} 12. Qc2 {[%emt 0:01:46]} b6 {[%emt 0:01:
+49]} 13. O-O-O {[%emt 0:05:56]} Bb7 {[%emt 0:00:20]} 14. Kb1 {[%emt 0:14:59]}
+O-O-O {[%emt 0:00:16]} 15. Ng5 {[%emt 0:01:52]} d6 {[%emt 0:01:54]} 16. Nxh7 {
+[%emt 0:02:32]} e5 {[%emt 0:01:39]} 17. d5 {[%emt 0:01:12]} Nb8 {[%emt 0:00:40]
+} 18. c4 {[%emt 0:10:11]} Qe7 {[%emt 0:01:46]} 19. g4 {[%emt 0:11:15]} Na6 {
+[%emt 0:02:28]} 20. g5 {[%emt 0:01:01]} Nb4 {[%emt 0:01:59]} 21. Qb3 {[%emt 0:
+00:05]} Nxd3 {[%emt 0:00:12]} 22. Qxd3 {[%emt 0:00:03]} Kb8 {[%emt 0:00:12]}
+23. Ne4 {[%emt 0:00:23]} Bc8 {[%emt 0:01:34]} 24. f3 {[%emt 0:01:23]} Bf5 {
+[%emt 0:01:32]} 25. g4 {[%emt 0:02:09]} Bxe4 {[%emt 0:02:19]} 26. fxe4 {
+[%emt 0:00:15]} Rc8 {[%emt 0:01:09]} 27. b3 {[%emt 0:06:46]} Rc7 {[%emt 0:00:
+48]} 28. Rdf1 {[%emt 0:00:23]} Rhc8 {[%emt 0:00:18]} 29. Rh3 {[%emt 0:05:57]}
+Qd7 {[%emt 0:00:47]} 30. Rhf3 {[%emt 0:03:10]} Rh8 {[%emt 0:01:46]} 31. Nf6 {
+[%emt 0:02:15]} Bxf6 {[%emt 0:00:16]} 32. Rxf6 {[%emt 0:00:27]} Qxg4 {[%emt 0:
+00:10]} 33. Rxd6 {[%emt 0:03:00]} Qxg5 {[%emt 0:02:37]} 34. Rdf6 {[%emt 0:05:
+16]} Rh2 {[%emt 0:01:11]} 35. R6f2 {[%emt 0:03:22]} Rxf2 {[%emt 0:02:25]} 36.
+Rxf2 {[%emt 0:00:03]} f6 {[%emt 0:00:15]} 37. Kb2 {[%emt 0:00:26]} Rh7 {
+[%emt 0:01:16]} 38. d6 {[%emt 0:02:25]} Rd7 {[%emt 0:00:43]} 39. Qd5 {[%emt 0:
+01:17]} Qh4 {[%emt 0:01:58]} 40. Rd2 {[%emt 0:05:03]} Qf4 {[%emt 0:01:04]} 41.
+b4 {[%emt 0:33:14]} f5 {[%emt 0:30:44]} 42. c5 {[%emt 0:02:10]} bxc5 {[%emt 0:
+00:21]} 43. bxc5 {[%emt 0:00:05]} Rb7+ {[%emt 0:00:08]} 44. Kc2 {[%emt 0:00:12]
+} 1-0
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.9"]
+[White "Storey, Charles H"]
+[Black "Lane, Gary W"]
+[Result "1-0"]
+[ECO "A26"]
+[WhiteElo "2261"]
+[BlackElo "2364"]
+[Annotator "ChessBase"]
+[PlyCount "133"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. c4 {[%emt 0:00:00]} e5 {[%emt 0:00:00]} 2. g3 {[%emt 0:00:00]} Nc6 {[%emt 0:
+00:21]} 3. Bg2 {[%emt 0:00:00]} g6 {[%emt 0:00:06]} 4. e4 {[%emt 0:05:31]} Bg7
+{[%emt 0:01:29]} 5. Ne2 {[%emt 0:00:00]} d6 {[%emt 0:01:00]} 6. Nbc3 {[%emt 0:
+00:00]} f5 {[%emt 0:01:13]} 7. d3 {[%emt 0:00:12]} Nf6 {[%emt 0:00:24]} 8. Bg5
+{[%emt 0:00:30]} h6 {[%emt 0:01:55]} 9. Bxf6 {[%emt 0:00:25]} Bxf6 {[%emt 0:03:
+34]} 10. exf5 {[%emt 0:00:17]} gxf5 {[%emt 0:03:40]} 11. Nd5 {[%emt 0:04:13]}
+Bg7 {[%emt 0:01:25]} 12. Qb3 {[%emt 0:07:15]} O-O {[%emt 0:04:48]} 13. f4 {
+[%emt 0:03:10]} Rb8 {[%emt 0:02:26]} 14. O-O {[%emt 0:01:25]} Be6 {[%emt 0:01:
+56]} 15. Rae1 {[%emt 0:01:03]} Qd7 {[%emt 0:01:00]} 16. fxe5 {[%emt 0:01:10]}
+dxe5 {[%emt 0:02:16]} 17. Kh1 {[%emt 0:02:48]} b5 {[%emt 0:12:11]} 18. Qc2 {
+[%emt 0:07:51]} bxc4 {[%emt 0:12:45]} 19. dxc4 {[%emt 0:01:39]} e4 {[%emt 0:02:
+31]} 20. b3 {[%emt 0:05:47]} Bxd5 {[%emt 0:04:22]} 21. cxd5 {[%emt 0:00:21]}
+Nb4 {[%emt 0:01:36]} 22. Qc4 {[%emt 0:01:18]} Qxd5 {[%emt 0:01:19]} 23. Qxc7 {
+[%emt 0:00:16]} Rb7 {[%emt 0:14:58]} 24. Qc4 {[%emt 0:02:44]} Qxc4 {[%emt 0:00:
+27]} 25. bxc4 {[%emt 0:00:03]} Rc7 {[%emt 0:00:31]} 26. Nf4 {[%emt 0:03:42]}
+Rxc4 {[%emt 0:09:11]} 27. Ng6 {[%emt 0:02:14]} Rf7 {[%emt 0:01:26]} 28. Rxf5 {
+[%emt 0:01:05]} Nd3 {[%emt 0:02:29]} 29. Ref1 {[%emt 0:05:46]} Rfc7 {[%emt 0:
+04:35]} 30. Nf4 {[%emt 0:11:04]} Rc1 {[%emt 0:00:14]} 31. Nxd3 {[%emt 0:14:00]}
+exd3 {[%emt 0:00:41]} 32. Rd5 {[%emt 0:03:37]} Rxf1+ {[%emt 0:01:43]} 33. Bxf1
+{[%emt 0:00:16]} Rc1 {[%emt 0:00:03]} 34. Kg1 {[%emt 0:05:36]} Bf8 {[%emt 0:00:
+05]} 35. Rxd3 {[%emt 0:00:33]} Bc5+ {[%emt 0:00:05]} 36. Kg2 {[%emt 0:00:07]}
+Rc2+ {[%emt 0:00:04]} 37. Kh3 {[%emt 0:00:06]} Rxa2 {[%emt 0:00:07]} 38. Rd7 {
+[%emt 0:05:17]} Rf2 {[%emt 0:03:39]} 39. Bc4+ {[%emt 0:00:11]} Kf8 {[%emt 0:00:
+05]} 40. Rd5 {[%emt 0:05:37]} Bb6 {[%emt 0:00:59]} 41. Rh5 {[%emt 0:32:42]} Kg7
+{[%emt 0:31:49]} 42. Kg4 {[%emt 0:00:00]} Rd2 {[%emt 0:00:00]} 43. Bd5 {
+[%emt 0:00:00]} a5 {[%emt 0:00:00]} 44. h4 {[%emt 0:00:00]} a4 {[%emt 0:00:00]}
+45. Rf5 {[%emt 0:00:00]} Rf2 {[%emt 0:00:00]} 46. Re5 {[%emt 0:00:00]} Bd8 {
+[%emt 0:00:00]} 47. Re8 {[%emt 0:00:00]} Rf8 {[%emt 0:00:00]} 48. Re4 {[%emt 0:
+00:00]} a3 {[%emt 0:00:00]} 49. Re3 {[%emt 0:00:00]} h5+ {[%emt 0:00:00]} 50.
+Kh3 {[%emt 0:00:00]} Rf5 {[%emt 0:00:00]} 51. Ba2 {[%emt 0:00:00]} Ra5 {
+[%emt 0:00:00]} 52. Rd3 {[%emt 0:00:00]} Be7 {[%emt 0:00:09]} 53. Re3 {[%emt 0:
+00:00]} Bf6 {[%emt 0:01:21]} 54. Rd3 {[%emt 0:00:00]} Be7 {[%emt 0:00:44]} 55.
+Rf3 {[%emt 0:00:00]} Bf6 {[%emt 0:00:47]} 56. Kg2 {[%emt 0:00:00]} Ra7 {
+[%emt 0:01:15]} 57. Rd3 {[%emt 0:00:00]} Be7 {[%emt 0:00:37]} 58. Rf3 {[%emt 0:
+01:17]} Bd6 {[%emt 0:02:16]} 59. Rd3 {[%emt 0:01:18]} Be7 {[%emt 0:00:58]} 60.
+Kh3 {[%emt 0:00:57]} Rb7 {[%emt 0:00:21]} 61. Re3 {[%emt 0:00:15]} Bf8 {
+[%emt 0:01:21]} 62. Re5 {[%emt 0:02:04]} Rb2 {[%emt 0:00:14]} 63. Bc4 {[%emt 0:
+01:17]} Rb4 {[%emt 0:01:15]} 64. Rg5+ {[%emt 0:01:34]} Kh6 {[%emt 0:01:57]} 65.
+Bf7 {[%emt 0:01:35]} Bd6 {[%emt 0:00:52]} 66. Rg6+ {[%emt 0:00:19]} Kh7 {
+[%emt 0:00:10]} 67. Rxd6 {[%emt 0:00:06]} 1-0
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.10"]
+[White "Willow, Jonah B"]
+[Black "Pein, Malcolm"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[WhiteElo "2343"]
+[BlackElo "2312"]
+[Annotator "ChessBase"]
+[PlyCount "151"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} d6 {[%emt 0:00:00]} 2. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:
+00:00]} 3. Nc3 {[%emt 0:00:00]} g6 {[%emt 0:00:00]} 4. f4 {[%emt 0:00:00]} Bg7
+{[%emt 0:00:10]} 5. Nf3 {[%emt 0:00:00]} O-O {[%emt 0:00:24]} 6. Bd3 {[%emt 0:
+00:06]} Nc6 {[%emt 0:01:36]} 7. e5 {[%emt 0:00:19]} dxe5 {[%emt 0:00:37]} 8.
+dxe5 {[%emt 0:00:28]} Nd5 {[%emt 0:00:12]} 9. O-O {[%emt 0:00:32]} Nxc3 {
+[%emt 0:00:26]} 10. bxc3 {[%emt 0:00:05]} Qd5 {[%emt 0:00:08]} 11. Be3 {
+[%emt 0:12:31]} b6 {[%emt 0:03:55]} 12. c4 {[%emt 0:07:40]} Qa5 {[%emt 0:03:00]
+} 13. Ng5 {[%emt 0:14:22]} Bb7 {[%emt 0:08:51]} 14. Qg4 {[%emt 0:09:56]} Nb4 {
+[%emt 0:13:04]} 15. Qh3 {[%emt 0:11:34]} h6 {[%emt 0:05:35]} 16. Nf3 {[%emt 0:
+01:12]} Nxd3 {[%emt 0:06:33]} 17. cxd3 {[%emt 0:00:05]} Qc3 {[%emt 0:01:49]}
+18. Rad1 {[%emt 0:13:22]} Rad8 {[%emt 0:00:43]} 19. Ne1 {[%emt 0:00:31]} e6 {
+[%emt 0:05:46]} 20. Rc1 {[%emt 0:04:58]} Qa3 {[%emt 0:01:25]} 21. Rc2 {[%emt 0:
+00:51]} Rd7 {[%emt 0:04:38]} 22. Re2 {[%emt 0:05:25]} h5 {[%emt 0:01:33]} 23.
+Bf2 {[%emt 0:04:14]} Rfd8 {[%emt 0:06:22]} 24. Rd2 {[%emt 0:02:45]} Ba6 {
+[%emt 0:08:12]} 25. Bh4 {[%emt 0:03:01]} Re8 {[%emt 0:04:44]} 26. Rdf2 {
+[%emt 0:02:03]} Qc3 {[%emt 0:03:44]} 27. Rf3 {[%emt 0:00:52]} Bb7 {[%emt 0:00:
+36]} 28. Rg3 {[%emt 0:00:43]} a6 {[%emt 0:04:08]} 29. Bg5 {[%emt 0:00:19]} b5 {
+[%emt 0:04:42]} 30. cxb5 {[%emt 0:00:06]} axb5 {[%emt 0:00:10]} 31. Qh4 {
+[%emt 0:00:42]} Ra8 {[%emt 0:00:52]} 32. Bf6 {[%emt 0:01:33]} Rxa2 {[%emt 0:04:
+09]} 33. Bxg7 {[%emt 0:01:26]} Kxg7 {[%emt 0:00:04]} 34. Qxh5 {[%emt 0:02:02]}
+Qd4+ {[%emt 0:02:59]} 35. Kh1 {[%emt 0:00:00]} Rf2 {[%emt 0:00:14]} 36. Rg1 {
+[%emt 0:03:01]} Qxf4 {[%emt 0:00:18]} 37. Rg4 {[%emt 0:00:48]} Qh6 {[%emt 0:02:
+22]} 38. Qxh6+ {[%emt 0:00:28]} Kxh6 {[%emt 0:00:03]} 39. Rb4 {[%emt 0:00:16]}
+Rd5 {[%emt 0:00:31]} 40. d4 {[%emt 0:00:19]} Bc6 {[%emt 0:02:54]} 41. Nf3 {
+[%emt 0:12:26]} Rd7 {[%emt 0:02:48]} 42. Rc1 {[%emt 0:01:53]} Bxf3 {[%emt 0:00:
+45]} 43. gxf3 {[%emt 0:00:05]} Rxf3 {[%emt 0:00:24]} 44. Rxb5 {[%emt 0:01:25]}
+Rxd4 {[%emt 0:08:55]} 45. Kg2 {[%emt 0:01:33]} Ra3 {[%emt 0:04:42]} 46. Rb2 {
+[%emt 0:01:53]} Rd7 {[%emt 0:02:26]} 47. Rc5 {[%emt 0:02:22]} Rad3 {[%emt 0:01:
+20]} 48. Rbc2 {[%emt 0:04:45]} Rd2+ {[%emt 0:02:42]} 49. Rxd2 {[%emt 0:00:06]}
+Rxd2+ {[%emt 0:00:05]} 50. Kg3 {[%emt 0:00:04]} Rd7 {[%emt 0:01:17]} 51. Kf4 {
+[%emt 0:01:42]} Kg7 {[%emt 0:00:22]} 52. Rc6 {[%emt 0:00:07]} Kf8 {[%emt 0:02:
+44]} 53. Kg5 {[%emt 0:02:48]} Kg7 {[%emt 0:01:18]} 54. Kf4 {[%emt 0:00:18]}
+Rd4+ {[%emt 0:03:13]} 55. Kf3 {[%emt 0:02:00]} Rd2 {[%emt 0:00:56]} 56. Kg3 {
+[%emt 0:02:15]} Rd5 {[%emt 0:00:43]} 57. Kf4 {[%emt 0:00:26]} Rd2 {[%emt 0:00:
+06]} 58. Kg3 {[%emt 0:00:05]} Re2 {[%emt 0:02:31]} 59. Rc5 {[%emt 0:00:15]} Kf8
+{[%emt 0:00:15]} 60. h3 {[%emt 0:01:08]} Re3+ {[%emt 0:00:39]} 61. Kg4 {
+[%emt 0:01:43]} Ke8 {[%emt 0:00:17]} 62. h4 {[%emt 0:01:04]} Kd7 {[%emt 0:01:
+13]} 63. Kg5 {[%emt 0:00:23]} Rf3 {[%emt 0:00:09]} 64. Kh6 {[%emt 0:00:58]} Kc8
+{[%emt 0:01:53]} 65. Kg7 {[%emt 0:00:40]} Kb7 {[%emt 0:00:11]} 66. Rc1 {
+[%emt 0:00:55]} Rf5 {[%emt 0:00:22]} 67. Kf8 {[%emt 0:00:29]} Rxe5 {[%emt 0:01:
+59]} 68. Kxf7 {[%emt 0:00:04]} Re4 {[%emt 0:00:44]} 69. Rh1 {[%emt 0:00:33]}
+Rg4 {[%emt 0:00:15]} 70. Kxe6 {[%emt 0:00:03]} Rf4 {[%emt 0:00:42]} 71. Ke5 {
+[%emt 0:00:10]} Rf5+ {[%emt 0:00:11]} 72. Kd4 {[%emt 0:01:33]} Rh5 {[%emt 0:00:
+46]} 73. Kd3 {[%emt 0:00:22]} Kc8 {[%emt 0:01:16]} 74. Rg1 {[%emt 0:00:10]}
+Rd5+ {[%emt 0:00:25]} 75. Kc4 {[%emt 0:00:13]} Rd6 {[%emt 0:00:02]} 76. Rg5 {
+[%emt 0:00:05]} 1/2-1/2
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.11"]
+[White "Moore, Graham J"]
+[Black "Ward, Chris G"]
+[Result "0-1"]
+[ECO "B76"]
+[WhiteElo "2264"]
+[BlackElo "2418"]
+[Annotator "NA"]
+[PlyCount "102"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} d6 {[%emt 0:
+00:00]} 3. d4 {[%emt 0:00:00]} cxd4 {[%emt 0:00:00]} 4. Nxd4 {[%emt 0:00:00]}
+Nf6 {[%emt 0:00:00]} 5. Nc3 {[%emt 0:00:01]} g6 {[%emt 0:00:02]} 6. Be3 {
+[%emt 0:02:51]} Bg7 {[%emt 0:00:08]} 7. f3 {[%emt 0:00:06]} Nc6 {[%emt 0:04:27]
+} 8. Qd2 {[%emt 0:00:59]} O-O {[%emt 0:00:05]} 9. O-O-O {[%emt 0:00:08]} Nxd4 {
+[%emt 0:02:33]} 10. Bxd4 {[%emt 0:00:10]} Be6 {[%emt 0:00:04]} 11. Kb1 {
+[%emt 0:05:09]} Qc7 {[%emt 0:00:17]} 12. h4 {[%emt 0:02:01]} Rfc8 {[%emt 0:00:
+07]} 13. h5 {[%emt 0:04:58]} Qa5 {[%emt 0:00:05]} 14. a3 {[%emt 0:00:31]} Nxh5
+{[%emt 0:01:13]} 15. Bxg7 {[%emt 0:09:10]} Kxg7 {[%emt 0:00:12]} 16. g4 {
+[%emt 0:01:05]} Rxc3 {[%emt 0:01:12]} 17. gxh5 {[%emt 0:31:14]} Rc5 {[%emt 0:
+04:50]} 18. Qd4+ {[%emt 0:00:05]} f6 {[%emt 0:01:34]} 19. hxg6 {[%emt 0:01:23]}
+hxg6 {[%emt 0:01:42]} 20. Bd3 {[%emt 0:07:11]} Rh5 {[%emt 0:29:01]} 21. Rhg1 {
+[%emt 0:02:57]} Qc5 {[%emt 0:03:26]} 22. Qa4 {[%emt 0:00:00]} Rg5 {[%emt 0:12:
+04]} 23. Rh1 {[%emt 0:00:00]} b5 {[%emt 0:08:47]} 24. Qa6 {[%emt 0:02:23]} Qb6
+{[%emt 0:03:03]} 25. Qxb6 {[%emt 0:00:18]} axb6 {[%emt 0:00:03]} 26. f4 {
+[%emt 0:00:33]} Rg4 {[%emt 0:01:00]} 27. f5 {[%emt 0:06:02]} Bc4 {[%emt 0:02:
+15]} 28. fxg6 {[%emt 0:00:38]} Kxg6 {[%emt 0:02:35]} 29. Rh2 {[%emt 0:07:05]}
+Rg3 {[%emt 0:03:15]} 30. Rf2 {[%emt 0:05:26]} Rc8 {[%emt 0:04:01]} 31. Rh2 {
+[%emt 0:01:25]} Kf7 {[%emt 0:03:42]} 32. Rh5 {[%emt 0:02:56]} Ke6 {[%emt 0:05:
+56]} 33. Rh7 {[%emt 0:03:36]} Rg2 {[%emt 0:01:14]} 34. Rh5 {[%emt 0:01:18]} Rc5
+{[%emt 0:02:57]} 35. Rxc5 {[%emt 0:00:45]} dxc5 {[%emt 0:00:07]} 36. Bxc4+ {
+[%emt 0:01:11]} bxc4 {[%emt 0:00:04]} 37. Rd8 {[%emt 0:00:14]} Rg1+ {[%emt 0:
+01:11]} 38. Ka2 {[%emt 0:00:00]} Re1 {[%emt 0:00:15]} 39. Rb8 {[%emt 0:00:09]}
+Rxe4 {[%emt 0:00:47]} 40. Rxb6+ {[%emt 0:00:05]} Kd5 {[%emt 0:01:13]} 41. a4 {
+[%emt 0:30:39]} c3 {[%emt 0:32:53]} 42. b3 {[%emt 0:03:42]} Re2 {[%emt 0:00:00]
+} 43. a5 {[%emt 0:02:34]} Rxc2+ {[%emt 0:00:00]} 44. Ka1 {[%emt 0:00:00]} Rc1+
+{[%emt 0:00:00]} 45. Ka2 {[%emt 0:00:00]} c2 {[%emt 0:00:00]} 46. Kb2 {[%emt 0:
+00:00]} Ra1 {[%emt 0:00:00]} 47. Kxc2 {[%emt 0:00:00]} Rxa5 {[%emt 0:00:00]}
+48. Rb7 {[%emt 0:00:00]} e5 {[%emt 0:00:00]} 49. Kc3 {[%emt 0:00:00]} f5 {
+[%emt 0:00:00]} 50. Kd3 {[%emt 0:00:00]} Ra6 {[%emt 0:00:00]} 51. Rf7 {[%emt 0:
+00:00]} f4 {[%emt 0:00:00] Kd4+} 0-1
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.12"]
+[White "Pigott, John C"]
+[Black "Toma, Katarzyna"]
+[Result "0-1"]
+[ECO "D76"]
+[WhiteElo "2384"]
+[BlackElo "2229"]
+[Annotator "NA"]
+[PlyCount "66"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. d4 {[%emt 0:00:02]} Nf6 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:18]} g6 {[%emt 0:
+00:00]} 3. g3 {[%emt 0:00:19]} Bg7 {[%emt 0:00:14]} 4. Bg2 {[%emt 0:00:09]} d5
+{[%emt 0:00:13]} 5. cxd5 {[%emt 0:00:29]} Nxd5 {[%emt 0:00:07]} 6. Nf3 {
+[%emt 0:00:10]} Nb6 {[%emt 0:00:24]} 7. Nc3 {[%emt 0:00:53]} O-O {[%emt 0:02:
+04]} 8. O-O {[%emt 0:00:43]} Nc6 {[%emt 0:00:25]} 9. e3 {[%emt 0:01:23]} Re8 {
+[%emt 0:00:30]} 10. h3 {[%emt 0:01:12]} e5 {[%emt 0:03:46]} 11. d5 {[%emt 0:00:
+40]} Nb4 {[%emt 0:06:17]} 12. e4 {[%emt 0:16:31]} c6 {[%emt 0:01:19]} 13. Qb3 {
+[%emt 0:03:58]} Na6 {[%emt 0:04:50]} 14. Bg5 {[%emt 0:04:18]} Qd6 {[%emt 0:14:
+54]} 15. Rfd1 {[%emt 0:09:08]} cxd5 {[%emt 0:07:49]} 16. exd5 {[%emt 0:01:17]}
+Bf5 {[%emt 0:10:03]} 17. g4 {[%emt 0:26:57]} Nc5 {[%emt 0:00:08]} 18. Qa3 {
+[%emt 0:00:26]} Bd7 {[%emt 0:00:15]} 19. Be3 {[%emt 0:03:52]} Rec8 {[%emt 0:07:
+29]} 20. Rac1 {[%emt 0:07:48]} Qf8 {[%emt 0:06:31]} 21. b3 {[%emt 0:03:27]} f5
+{[%emt 0:03:15]} 22. Nb5 {[%emt 0:08:47]} Bxb5 {[%emt 0:04:54]} 23. Bxc5 {
+[%emt 0:00:06]} Qe8 {[%emt 0:00:29]} 24. Bxb6 {[%emt 0:06:18]} axb6 {[%emt 0:
+03:44]} 25. Qd6 {[%emt 0:00:07]} e4 {[%emt 0:05:11]} 26. Rxc8 {[%emt 0:00:58]}
+Rxc8 {[%emt 0:00:35]} 27. Ng5 {[%emt 0:00:14]} e3 {[%emt 0:01:05]} 28. fxe3 {
+[%emt 0:00:36]} Qxe3+ {[%emt 0:00:29]} 29. Kh1 {[%emt 0:00:05]} Re8 {[%emt 0:
+00:30]} 30. Ne6 {[%emt 0:02:30]} Be5 {[%emt 0:00:59]} 31. Qb4 {[%emt 0:00:05]}
+Qg3 {[%emt 0:02:28]} 32. Kg1 {[%emt 0:00:01]} Be2 {[%emt 0:01:03]} 33. Rc1 {
+[%emt 0:01:03]} Qe3+ {[%emt 0:00:17]} 0-1
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.13"]
+[White "Stoyanov, Viktor"]
+[Black "Bates, Richard A"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[WhiteElo "2198"]
+[BlackElo "2352"]
+[Annotator "NA"]
+[PlyCount "98"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. c4 {[%emt 0:00:00]} g6 {[%emt 0:01:52]} 2. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:
+00:07]} 3. g3 {[%emt 0:00:00]} Bg7 {[%emt 0:00:17]} 4. Bg2 {[%emt 0:00:00]} O-O
+{[%emt 0:00:58]} 5. Nc3 {[%emt 0:00:03]} d6 {[%emt 0:00:21]} 6. Nf3 {[%emt 0:
+00:05]} Nc6 {[%emt 0:01:43]} 7. O-O {[%emt 0:00:12]} Bg4 {[%emt 0:00:16]} 8. d5
+{[%emt 0:00:04]} Na5 {[%emt 0:00:38]} 9. Nd2 {[%emt 0:00:07]} c5 {[%emt 0:00:
+54]} 10. Qc2 {[%emt 0:00:05]} Rb8 {[%emt 0:01:29]} 11. h3 {[%emt 0:00:17]} Bd7
+{[%emt 0:01:03]} 12. b3 {[%emt 0:00:14]} a6 {[%emt 0:03:51]} 13. Bb2 {[%emt 0:
+00:29]} b5 {[%emt 0:00:13]} 14. Rab1 {[%emt 0:04:15]} Qc7 {[%emt 0:11:09]} 15.
+e4 {[%emt 0:03:03]} e5 {[%emt 0:01:16]} 16. Nd1 {[%emt 0:08:57]} Nh5 {[%emt 0:
+06:23]} 17. Ne3 {[%emt 0:04:40]} f5 {[%emt 0:16:22]} 18. exf5 {[%emt 0:02:18]}
+gxf5 {[%emt 0:00:38]} 19. Qd1 {[%emt 0:01:53]} Be8 {[%emt 0:06:59]} 20. Bf3 {
+[%emt 0:07:27]} Qf7 {[%emt 0:03:28]} 21. Kh2 {[%emt 0:17:20]} e4 {[%emt 0:10:
+04]} 22. Bxh5 {[%emt 0:01:00]} Qxh5 {[%emt 0:00:05]} 23. Qxh5 {[%emt 0:00:10]}
+Bxh5 {[%emt 0:00:05]} 24. Bxg7 {[%emt 0:01:08]} Kxg7 {[%emt 0:00:06]} 25. g4 {
+[%emt 0:06:53]} fxg4 {[%emt 0:00:54]} 26. hxg4 {[%emt 0:00:09]} Bg6 {[%emt 0:
+00:20]} 27. Kg3 {[%emt 0:04:17]} Nb7 {[%emt 0:06:30]} 28. Rfe1 {[%emt 0:05:34]}
+Nd8 {[%emt 0:01:16]} 29. Nf5+ {[%emt 0:05:38]} Bxf5 {[%emt 0:00:07]} 30. gxf5 {
+[%emt 0:00:04]} Rxf5 {[%emt 0:00:40]} 31. Nxe4 {[%emt 0:00:18]} Nf7 {[%emt 0:
+00:45]} 32. f4 {[%emt 0:00:33]} Rg8 {[%emt 0:06:24]} 33. Kf3 {[%emt 0:07:30]}
+bxc4 {[%emt 0:11:14]} 34. Rg1+ {[%emt 0:01:23]} Kf8 {[%emt 0:02:02]} 35. Rxg8+
+{[%emt 0:01:15]} Kxg8 {[%emt 0:00:06]} 36. bxc4 {[%emt 0:00:41]} Ne5+ {[%emt 0:
+00:14]} 37. Kg3 {[%emt 0:00:17]} Nxc4 {[%emt 0:00:32]} 38. Rc1 {[%emt 0:01:59]}
+Ne3 {[%emt 0:04:24]} 39. Nxd6 {[%emt 0:00:11]} Rxd5 {[%emt 0:00:28]} 40. Ne4 {
+[%emt 0:00:15]} Nf5+ {[%emt 0:00:59]} 41. Kg4 {[%emt 0:30:30]} h5+ {[%emt 0:30:
+58]} 42. Kf3 {[%emt 0:01:38]} Rd3+ {[%emt 0:01:54]} 43. Kf2 {[%emt 0:00:06]}
+Ra3 {[%emt 0:00:00]} 44. Rxc5 {[%emt 0:00:00]} Rxa2+ {[%emt 0:00:00]} 45. Kg1 {
+[%emt 0:00:00]} Nd4 {[%emt 0:00:00]} 46. Rg5+ {[%emt 0:00:00]} Kf8 {[%emt 0:00:
+00]} 47. Rxh5 {[%emt 0:00:00]} Ra4 {[%emt 0:00:00]} 48. Kf2 {[%emt 0:00:00]}
+Ne6 {[%emt 0:00:00]} 49. Re5 {[%emt 0:00:00]} Kf7 {[%emt 0:00:00]} 1/2-1/2
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.14"]
+[White "Crickmore, Neil Eg"]
+[Black "Ashton, Adam G"]
+[Result "0-1"]
+[ECO "E04"]
+[WhiteElo "2187"]
+[BlackElo "2323"]
+[Annotator "NA"]
+[PlyCount "61"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. d4 {[%emt 0:00:00]} d5 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:16]} e6 {[%emt 0:
+00:00]} 3. Nf3 {[%emt 0:00:23]} Nf6 {[%emt 0:00:00]} 4. g3 {[%emt 0:00:06]}
+dxc4 {[%emt 0:00:04]} 5. Bg2 {[%emt 0:00:08]} a6 {[%emt 0:00:52]} 6. O-O {
+[%emt 0:00:46]} Nc6 {[%emt 0:00:16]} 7. Nc3 {[%emt 0:07:22]} Rb8 {[%emt 0:09:
+20]} 8. e4 {[%emt 0:00:38]} Be7 {[%emt 0:01:33]} 9. d5 {[%emt 0:08:03]} Nb4 {
+[%emt 0:15:47]} 10. Ne5 {[%emt 0:34:36]} exd5 {[%emt 0:10:09]} 11. exd5 {
+[%emt 0:00:29]} Bf5 {[%emt 0:03:44]} 12. Qf3 {[%emt 0:00:38]} Bd3 {[%emt 0:01:
+11]} 13. Nxd3 {[%emt 0:00:27]} Nxd3 {[%emt 0:00:53]} 14. b3 {[%emt 0:02:09]}
+Nxc1 {[%emt 0:01:28]} 15. Raxc1 {[%emt 0:00:13]} cxb3 {[%emt 0:00:08]} 16. axb3
+{[%emt 0:00:05]} O-O {[%emt 0:00:32]} 17. Ne2 {[%emt 0:00:18]} Bd6 {[%emt 0:06:
+43]} 18. Nd4 {[%emt 0:03:29]} g6 {[%emt 0:00:30]} 19. Rfe1 {[%emt 0:02:18]} Kg7
+{[%emt 0:13:02]} 20. Qc3 {[%emt 0:03:55]} Qd7 {[%emt 0:04:44]} 21. f4 {[%emt 0:
+00:51]} Rfe8 {[%emt 0:01:32]} 22. Nf3 {[%emt 0:00:34]} Rxe1+ {[%emt 0:02:52]}
+23. Rxe1 {[%emt 0:00:15]} Re8 {[%emt 0:04:50]} 24. Rxe8 {[%emt 0:02:22]} Qxe8 {
+[%emt 0:00:09]} 25. Ne5 {[%emt 0:00:26]} Qb5 {[%emt 0:01:18]} 26. Nd3 {[%emt 0:
+01:48]} Qb6+ {[%emt 0:00:52]} 27. Kh1 {[%emt 0:08:15]} Qe3 {[%emt 0:00:16]} 28.
+Bf1 {[%emt 0:00:19]} h5 {[%emt 0:01:56]} 29. Qb2 {[%emt 0:02:07]} h4 {[%emt 0:
+01:12]} 30. Qe2 {[%emt 0:04:48]} Qd4 {[%emt 0:01:59]} 31. Bg2 {[%emt 0:02:12]}
+0-1
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.15"]
+[White "Ogunshola, Olugbemiga (Ben)"]
+[Black "Bradbury, Neil H"]
+[Result "0-1"]
+[ECO "A29"]
+[WhiteElo "2172"]
+[BlackElo "2322"]
+[Annotator "ChessBase"]
+[PlyCount "168"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. c4 {[%emt 0:00:00]} e5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:02:12]} Nc6 {
+[%emt 0:02:08]} 3. Nc3 {[%emt 0:00:08]} Nf6 {[%emt 0:00:53]} 4. g3 {[%emt 0:02:
+40]} Bb4 {[%emt 0:09:05]} 5. Bg2 {[%emt 0:00:19]} O-O {[%emt 0:01:27]} 6. O-O {
+[%emt 0:00:14]} e4 {[%emt 0:03:42]} 7. Ng5 {[%emt 0:02:53]} Bxc3 {[%emt 0:04:
+57]} 8. bxc3 {[%emt 0:01:59]} Re8 {[%emt 0:03:46]} 9. d3 {[%emt 0:03:44]} exd3
+{[%emt 0:01:38]} 10. exd3 {[%emt 0:00:02]} d6 {[%emt 0:00:43]} 11. Rb1 {
+[%emt 0:00:36]} Ne5 {[%emt 0:24:45]} 12. Ne4 {[%emt 0:08:40]} Bg4 {[%emt 0:03:
+45]} 13. f3 {[%emt 0:00:57]} Nxe4 {[%emt 0:00:50]} 14. dxe4 {[%emt 0:00:31]}
+Be6 {[%emt 0:03:02]} 15. Rxb7 {[%emt 0:00:46]} Bxc4 {[%emt 0:07:05]} 16. Rf2 {
+[%emt 0:00:37]} Qc8 {[%emt 0:00:36]} 17. Rb1 {[%emt 0:05:41]} Qa6 {[%emt 0:00:
+48]} 18. Be3 {[%emt 0:02:37]} Rab8 {[%emt 0:02:58]} 19. Bf1 {[%emt 0:09:26]}
+Bxf1 {[%emt 0:07:30]} 20. Qxf1 {[%emt 0:01:35]} Qxf1+ {[%emt 0:02:12]} 21.
+Rfxf1 {[%emt 0:01:13]} c5 {[%emt 0:00:10]} 22. Kf2 {[%emt 0:05:33]} f6 {
+[%emt 0:00:44]} 23. Bf4 {[%emt 0:02:28]} Nc4 {[%emt 0:01:42]} 24. Rb3 {[%emt 0:
+05:20]} Rb6 {[%emt 0:02:52]} 25. Ke2 {[%emt 0:06:14]} Ra6 {[%emt 0:06:43]} 26.
+Kd3 {[%emt 0:01:31]} Ra4 {[%emt 0:00:58]} 27. Rb7 {[%emt 0:00:44]} g5 {[%emt 0:
+00:45]} 28. Bc1 {[%emt 0:01:12]} Ne5+ {[%emt 0:01:15]} 29. Kc2 {[%emt 0:05:51]}
+Rxa2+ {[%emt 0:01:21]} 30. Kb1 {[%emt 0:00:17]} Ra6 {[%emt 0:00:29]} 31. Kc2 {
+[%emt 0:05:18]} Ra2+ {[%emt 0:02:41]} 32. Kb1 {[%emt 0:00:04]} Ra6 {[%emt 0:00:
+27]} 33. Kc2 {[%emt 0:00:21]} Ng6 {[%emt 0:02:13]} 34. h4 {[%emt 0:04:20]} gxh4
+{[%emt 0:00:57]} 35. gxh4 {[%emt 0:00:04]} Re7 {[%emt 0:00:14]} 36. Rb8+ {
+[%emt 0:00:53]} Kf7 {[%emt 0:00:39]} 37. h5 {[%emt 0:03:23]} Ne5 {[%emt 0:00:
+44]} 38. Bf4 {[%emt 0:02:37]} Rb6 {[%emt 0:01:12]} 39. Bxe5 {[%emt 0:03:05]}
+fxe5 {[%emt 0:00:23]} 40. Ra8 {[%emt 0:05:37]} Kg7 {[%emt 0:00:42]} 41. Rg1+ {
+[%emt 0:32:00]} Kf6 {[%emt 0:03:35]} 42. h6 {[%emt 0:00:00]} Rbb7 {[%emt 0:01:
+17]} 43. Kd3 {[%emt 0:00:00]} Rf7 {[%emt 0:00:12]} 44. Re8 {[%emt 0:00:00]}
+Rbe7 {[%emt 0:00:44]} 45. Reg8 {[%emt 0:00:00]} Ke6 {[%emt 0:04:57]} 46. Ke3 {
+[%emt 0:00:00]} a5 {[%emt 0:00:21]} 47. Ra1 {[%emt 0:00:00]} Ra7 {[%emt 0:00:
+33]} 48. Re8+ {[%emt 0:00:00]} Rfe7 {[%emt 0:02:23]} 49. Rg8 {[%emt 0:00:00]}
+a4 {[%emt 0:00:24]} 50. Kd3 {[%emt 0:00:00]} Rf7 {[%emt 0:00:49]} 51. Ke3 {
+[%emt 0:00:00]} a3 {[%emt 0:07:49]} 52. Rg2 {[%emt 0:00:02]} Ra4 {[%emt 0:01:
+47]} 53. Rga2 {[%emt 0:03:19]} Rfa7 {[%emt 0:02:54]} 54. Kd3 {[%emt 0:01:42]}
+Rf7 {[%emt 0:01:56]} 55. Ke3 {[%emt 0:00:03]} Rf6 {[%emt 0:01:20]} 56. Rxa3 {
+[%emt 0:00:12]} Rxa3 {[%emt 0:00:02]} 57. Rxa3 {[%emt 0:00:01]} Rxh6 {[%emt 0:
+00:02]} 58. Ra8 {[%emt 0:01:48]} Rf6 {[%emt 0:01:19]} 59. Rh8 {[%emt 0:01:04]}
+Rf7 {[%emt 0:00:40]} 60. Ra8 {[%emt 0:02:33]} Rd7 {[%emt 0:03:45]} 61. Rf8 {
+[%emt 0:01:12]} Rf7 {[%emt 0:01:11]} 62. Ra8 {[%emt 0:00:02]} Rb7 {[%emt 0:00:
+26]} 63. Rh8 {[%emt 0:01:54]} Kf6 {[%emt 0:00:13]} 64. Rd8 {[%emt 0:00:25]} Rb6
+{[%emt 0:00:14]} 65. f4 {[%emt 0:00:15]} exf4+ {[%emt 0:00:21]} 66. Kxf4 {
+[%emt 0:00:01]} Ke6 {[%emt 0:00:28]} 67. Re8+ {[%emt 0:00:21]} Kf6 {[%emt 0:01:
+58]} 68. Rf8+ {[%emt 0:00:12]} Kg7 {[%emt 0:00:26]} 69. Rd8 {[%emt 0:00:02]} h5
+{[%emt 0:00:46]} 70. Kg5 {[%emt 0:00:38]} Kf7 {[%emt 0:00:28]} 71. Kxh5 {
+[%emt 0:00:02]} Ke7 {[%emt 0:00:27]} 72. Ra8 {[%emt 0:02:16]} Rb3 {[%emt 0:00:
+11]} 73. Kg5 {[%emt 0:01:17]} Ke6 {[%emt 0:00:25]} 74. Kf4 {[%emt 0:01:20]}
+Rxc3 {[%emt 0:00:02]} 75. Rh8 {[%emt 0:00:21]} Rd3 {[%emt 0:00:56]} 76. Rh6+ {
+[%emt 0:00:36]} Kd7 {[%emt 0:00:10]} 77. e5 {[%emt 0:01:27]} d5 {[%emt 0:01:42]
+} 78. Rh7+ {[%emt 0:01:17]} Kc6 {[%emt 0:00:55]} 79. Rh6+ {[%emt 0:00:07]} Kb5
+{[%emt 0:00:23]} 80. Rd6 {[%emt 0:00:51]} d4 {[%emt 0:00:32]} 81. Ke4 {[%emt 0:
+00:43]} Re3+ {[%emt 0:00:17]} 82. Kd5 {[%emt 0:00:12]} d3 {[%emt 0:00:10]} 83.
+Rd8 {[%emt 0:00:59]} d2 {[%emt 0:00:57]} 84. Ke6 {[%emt 0:00:03]} Re2 {[%emt 0:
+00:04]} 0-1
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.16"]
+[White "Brewer, Callum D"]
+[Black "Claridge-Hansen, William"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "2086"]
+[BlackElo "2297"]
+[Annotator "NA"]
+[PlyCount "96"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} d5 {[%emt 0:00:00]} 2. exd5 {[%emt 0:00:00]} Qxd5 {
+[%emt 0:00:00]} 3. Nc3 {[%emt 0:00:00]} Qd6 {[%emt 0:00:00]} 4. d4 {[%emt 0:00:
+00]} Nf6 {[%emt 0:00:13]} 5. Nf3 {[%emt 0:00:00]} c6 {[%emt 0:00:25]} 6. Ne5 {
+[%emt 0:00:12]} Nbd7 {[%emt 0:00:32]} 7. Nc4 {[%emt 0:00:59]} Qc7 {[%emt 0:00:
+36]} 8. Qf3 {[%emt 0:00:44]} Nb6 {[%emt 0:00:51]} 9. Bf4 {[%emt 0:06:33]} Qd7 {
+[%emt 0:05:10]} 10. Nxb6 {[%emt 0:05:12]} axb6 {[%emt 0:00:50]} 11. O-O-O {
+[%emt 0:00:15]} Qd8 {[%emt 0:07:37]} 12. d5 {[%emt 0:21:43]} Bg4 {[%emt 0:02:
+53]} 13. dxc6 {[%emt 0:00:01]} Bxf3 {[%emt 0:01:41]} 14. Rxd8+ {[%emt 0:00:27]}
+Kxd8 {[%emt 0:09:54]} 15. c7+ {[%emt 0:00:20]} Kc8 {[%emt 0:01:03]} 16. gxf3 {
+[%emt 0:00:34]} e6 {[%emt 0:04:03]} 17. Bc4 {[%emt 0:21:14]} Be7 {[%emt 0:24:
+27]} 18. Nb5 {[%emt 0:12:56]} Nh5 {[%emt 0:13:34]} 19. Be5 {[%emt 0:01:46]}
+Bg5+ {[%emt 0:00:51]} 20. Kb1 {[%emt 0:02:10]} Bf4 {[%emt 0:00:23]} 21. Re1 {
+[%emt 0:05:49]} Bxe5 {[%emt 0:03:02]} 22. Rxe5 {[%emt 0:00:14]} Nf6 {[%emt 0:
+03:40]} 23. Re3 {[%emt 0:02:47]} Ra5 {[%emt 0:02:45]} 24. b4 {[%emt 0:02:59]}
+Rxb5 {[%emt 0:03:05]} 25. Bxb5 {[%emt 0:00:06]} Kxc7 {[%emt 0:01:19]} 26. Rd3 {
+[%emt 0:03:42]} Rd8 {[%emt 0:01:05]} 27. Rxd8 {[%emt 0:02:04]} Kxd8 {[%emt 0:
+00:02]} 28. c4 {[%emt 0:00:40]} Kc7 {[%emt 0:01:41]} 29. Kc2 {[%emt 0:00:41]}
+Kd6 {[%emt 0:00:20]} 30. Kd3 {[%emt 0:00:13]} e5 {[%emt 0:00:41]} 31. Ke3 {
+[%emt 0:04:37]} Nh5 {[%emt 0:01:35]} 32. Ba4 {[%emt 0:00:18]} f5 {[%emt 0:01:
+42]} 33. Bc2 {[%emt 0:01:18]} g6 {[%emt 0:00:20]} 34. Bd1 {[%emt 0:03:10]} Nf4
+{[%emt 0:00:40]} 35. Bc2 {[%emt 0:00:46]} Ne6 {[%emt 0:01:23]} 36. Ba4 {
+[%emt 0:00:47]} Nf4 {[%emt 0:04:08]} 37. Bc2 {[%emt 0:00:23]} h5 {[%emt 0:00:
+31]} 38. Ba4 {[%emt 0:01:36]} h4 {[%emt 0:00:15]} 39. Bc2 {[%emt 0:01:01]} Ne6
+{[%emt 0:00:40]} 40. Ba4 {[%emt 0:00:46]} Nf4 {[%emt 0:05:10]} 41. Bc2 {
+[%emt 0:01:01]} Nh3 {[%emt 0:03:32]} 42. Bd1 {[%emt 0:04:15]} Ke6 {[%emt 0:05:
+25]} 43. Ke2 {[%emt 0:02:07]} f4 {[%emt 0:05:37]} 44. a4 {[%emt 0:03:18]} Kd6 {
+[%emt 0:01:09]} 45. Kf1 {[%emt 0:03:51]} Ng5 {[%emt 0:00:46]} 46. Ke2 {[%emt 0:
+00:18]} Ne6 {[%emt 0:00:55]} 47. Kd3 {[%emt 0:01:20]} Nd4 {[%emt 0:00:42]} 48.
+Kc3 {[%emt 0:01:45]} Ne6 {[%emt 0:03:45]} 1/2-1/2
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.17"]
+[White "Zapolskis, Antanas"]
+[Black "Hand, Freddie"]
+[Result "0-1"]
+[ECO "C56"]
+[WhiteElo "2290"]
+[BlackElo "2142"]
+[Annotator "NA"]
+[PlyCount "106"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:02:24]} e5 {[%emt 0:02:04]} 2. d4 {[%emt 0:01:22]} exd4 {
+[%emt 0:01:03]} 3. Nf3 {[%emt 0:04:49]} Nc6 4. Bc4 {[%emt 0:04:05]} Nf6 {
+[%emt 0:04:54]} 5. e5 {[%emt 0:07:05]} Ng4 {[%emt 0:00:59]} 6. O-O {[%emt 0:04:
+04]} Be7 {[%emt 0:02:58]} 7. Re1 {[%emt 0:01:20]} d6 {[%emt 0:17:33]} 8. e6 {
+[%emt 0:26:15]} fxe6 {[%emt 0:22:16]} 9. Nxd4 {[%emt 0:01:12]} Nxd4 {[%emt 0:
+00:00]} 10. Qxd4 {[%emt 0:02:47]} Ne5 {[%emt 0:04:53]} 11. Bb5+ {[%emt 0:00:57]
+} c6 {[%emt 0:00:00]} 12. f4 {[%emt 0:03:11]} Nf7 {[%emt 0:05:40]} 13. Bd3 {
+[%emt 0:02:30]} O-O {[%emt 0:01:35]} 14. c4 {[%emt 0:01:03]} e5 {[%emt 0:06:46]
+} 15. Qe3 {[%emt 0:08:49]} Bf6 {[%emt 0:00:30]} 16. Nc3 {[%emt 0:04:24]} exf4 {
+[%emt 0:02:51]} 17. Qxf4 {[%emt 0:06:00]} Ne5 {[%emt 0:08:40]} 18. Qe3 {
+[%emt 0:05:49]} Ng4 {[%emt 0:08:39]} 19. Qh3 {[%emt 0:06:26]} g6 {[%emt 0:01:
+12]} 20. Nd1 {[%emt 0:01:11]} Bd4+ {[%emt 0:01:03]} 21. Kh1 {[%emt 0:00:08]}
+Nf2+ {[%emt 0:00:38]} 22. Nxf2 {[%emt 0:00:07]} Bxh3 {[%emt 0:03:38]} 23. Nxh3
+{[%emt 0:00:08]} Qa5 {[%emt 0:00:32]} 24. Rd1 {[%emt 0:01:10]} Rae8 {[%emt 0:
+00:50]} 25. Bd2 {[%emt 0:01:06]} Qe5 {[%emt 0:01:32]} 26. Bh6 {[%emt 0:00:25]}
+Rf7 {[%emt 0:00:25]} 27. Ng5 {[%emt 0:00:10]} Rfe7 {[%emt 0:00:41]} 28. Nf3 {
+[%emt 0:00:09]} Qh5 {[%emt 0:01:06]} 29. Bg5 {[%emt 0:00:23]} Rf7 {[%emt 0:00:
+10]} 30. Nxd4 {[%emt 0:01:46]} Qxg5 {[%emt 0:00:17]} 31. Nf3 {[%emt 0:00:08]}
+Qc5 {[%emt 0:00:59]} 32. Rab1 {[%emt 0:00:20]} a5 {[%emt 0:00:47]} 33. b3 {
+[%emt 0:00:10]} Re3 {[%emt 0:00:28]} 34. Ra1 {[%emt 0:00:42]} g5 {[%emt 0:00:
+36]} 35. h3 {[%emt 0:00:09]} Rf6 {[%emt 0:00:38]} 36. Bf1 {[%emt 0:00:23]} g4 {
+[%emt 0:00:17]} 37. Nh2 {[%emt 0:00:22]} gxh3 {[%emt 0:00:24]} 38. gxh3 {
+[%emt 0:00:15]} h5 {[%emt 0:00:17]} 39. Bg2 {[%emt 0:01:04]} Rf2 {[%emt 0:00:
+46]} 40. Rg1 {[%emt 0:00:09]} Kh8 {[%emt 0:00:09]} 41. Raf1 {[%emt 0:30:29]}
+Ree2 {[%emt 0:30:54]} 42. Nf3 {[%emt 0:04:33]} Rxa2 {[%emt 0:00:00]} 43. Re1 {
+[%emt 0:00:00]} Rae2 {[%emt 0:00:00]} 44. Rd1 {[%emt 0:00:00]} Re3 {[%emt 0:00:
+00]} 45. Rde1 {[%emt 0:00:00]} Rxe1 {[%emt 0:00:00]} 46. Rxe1 {[%emt 0:00:00]}
+Qb6 {[%emt 0:00:00]} 47. Re8+ {[%emt 0:00:00]} Kg7 {[%emt 0:00:00]} 48. Ng5 {
+[%emt 0:00:00]} Rxg2 {[%emt 0:00:00]} 49. Kxg2 {[%emt 0:00:00]} Qxb3 {[%emt 0:
+00:00]} 50. h4 {[%emt 0:00:00]} a4 {[%emt 0:00:00]} 51. Re7+ {[%emt 0:00:00]}
+Kg6 {[%emt 0:00:00]} 52. Nf3 {[%emt 0:00:00]} a3 {[%emt 0:00:00]} 53. Re6+ {
+[%emt 0:00:00]} Kg7 {[%emt 0:00:00]} 0-1
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.18"]
+[White "Holland, Chris Kd"]
+[Black "Rocco, Federico"]
+[Result "0-1"]
+[ECO "E48"]
+[WhiteElo "2143"]
+[BlackElo "2157"]
+[Annotator "NA"]
+[PlyCount "30"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:39]} 2. c4 {[%emt 0:00:00]} e6 {[%emt 0:
+00:02]} 3. Nc3 {[%emt 0:00:00]} Bb4 {[%emt 0:00:04]} 4. e3 {[%emt 0:01:36]} O-O
+{[%emt 0:00:13]} 5. Bd3 {[%emt 0:00:38]} d5 {[%emt 0:00:24]} 6. Nge2 {[%emt 0:
+06:00]} c5 {[%emt 0:00:27]} 7. a3 {[%emt 0:00:13]} cxd4 {[%emt 0:01:33]} 8.
+axb4 {[%emt 0:00:05]} dxc3 {[%emt 0:00:09]} 9. Qb3 {[%emt 0:10:48]} Nc6 {
+[%emt 0:02:59]} 10. O-O {[%emt 0:16:19]} Ne5 {[%emt 0:11:57]} 11. Rd1 {[%emt 0:
+01:06]} Nfg4 {[%emt 0:00:52]} 12. h3 {[%emt 0:22:23]} Nxf2 {[%emt 0:04:01]} 13.
+Kxf2 {[%emt 0:00:16]} Qh4+ {[%emt 0:00:09]} 14. Kg1 {[%emt 0:08:45]} Nxd3 {
+[%emt 0:00:14]} 15. Rxd3 {[%emt 0:04:49]} dxc4 {[%emt 0:00:08]} 0-1
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.19"]
+[White "Starley, Robert"]
+[Black "Smith, Andrew Philip"]
+[Result "1/2-1/2"]
+[ECO "B56"]
+[WhiteElo "2058"]
+[BlackElo "2147"]
+[Annotator "NA"]
+[PlyCount "75"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:09:14]} 2. Nf3 {[%emt 0:00:00]} d6 {[%emt 0:
+00:46]} 3. Bb5+ {[%emt 0:00:14]} Nc6 {[%emt 0:03:17]} 4. d4 {[%emt 0:03:29]}
+cxd4 {[%emt 0:02:16]} 5. Nxd4 {[%emt 0:00:31]} Bd7 {[%emt 0:00:28]} 6. Be3 {
+[%emt 0:05:10]} Nf6 {[%emt 0:08:25]} 7. Nc3 {[%emt 0:01:41]} a6 {[%emt 0:02:16]
+} 8. Nxc6 {[%emt 0:03:04]} bxc6 {[%emt 0:02:33]} 9. Bc4 {[%emt 0:00:51]} g6 {
+[%emt 0:06:46]} 10. O-O {[%emt 0:01:45]} Bg7 {[%emt 0:00:08]} 11. f3 {[%emt 0:
+01:10]} O-O {[%emt 0:00:22]} 12. Qd2 {[%emt 0:02:59]} Qc7 {[%emt 0:01:28]} 13.
+Rad1 {[%emt 0:00:52]} Rfb8 {[%emt 0:00:39]} 14. b3 {[%emt 0:03:37]} a5 {
+[%emt 0:03:44]} 15. a4 {[%emt 0:01:06]} Be6 {[%emt 0:02:17]} 16. Bxe6 {[%emt 0:
+09:09]} fxe6 {[%emt 0:00:51]} 17. Qd3 {[%emt 0:05:24]} Qc8 {[%emt 0:17:07]} 18.
+Rfe1 {[%emt 0:10:55]} Rb7 19. Ne2 {[%emt 0:03:39]} c5 {[%emt 0:03:47]} 20. Nf4
+{[%emt 0:00:30]} Kf7 {[%emt 0:00:30]} 21. Nh3 {[%emt 0:03:16]} Rb4 {[%emt 0:02:
+15]} 22. Bd2 {[%emt 0:08:13]} c4 {[%emt 0:04:10]} 23. Qe2 {[%emt 0:00:30]} c3 {
+[%emt 0:00:30]} 24. Bc1 {[%emt 0:03:13]} e5 {[%emt 0:03:19]} 25. Rd3 {[%emt 0:
+00:12]} Ra6 {[%emt 0:02:36]} 26. Nf2 {[%emt 0:02:43]} Rc6 {[%emt 0:00:39]} 27.
+Nd1 {[%emt 0:00:56]} Rb7 {[%emt 0:02:05]} 28. Ne3 {[%emt 0:02:31]} Bh6 {
+[%emt 0:01:48]} 29. Nd5 {[%emt 0:03:05]} Bxc1 {[%emt 0:01:48]} 30. Rxc1 {
+[%emt 0:00:08]} Nxd5 {[%emt 0:01:52]} 31. Rxd5 {[%emt 0:01:11]} Rc5 {[%emt 0:
+00:27]} 32. Rcd1 {[%emt 0:13:16]} Rbc7 {[%emt 0:02:11]} 33. Qe3 {[%emt 0:00:18]
+} Kg7 {[%emt 0:02:50]} 34. R1d3 {[%emt 0:01:11]} R7c6 {[%emt 0:03:30]} 35. Qg5
+{[%emt 0:03:24]} Qc7 {[%emt 0:04:27]} 36. Qe3 {[%emt 0:02:25]} e6 {[%emt 0:01:
+23]} 37. Rxc5 {[%emt 0:00:06]} Rxc5 {[%emt 0:00:06]} 38. f4 {[%emt 0:02:30]}
+1/2-1/2
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.20"]
+[White "Wall, Tim P"]
+[Black "Jones, Steven A"]
+[Result "0-1"]
+[ECO "C84"]
+[WhiteElo "2246"]
+[BlackElo "2117"]
+[Annotator "NA"]
+[PlyCount "68"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:07:32]} e5 {[%emt 0:00:11]} 2. Nf3 {[%emt 0:02:04]} Nc6 {
+[%emt 0:00:50]} 3. Bb5 {[%emt 0:00:41]} a6 {[%emt 0:00:26]} 4. Ba4 {[%emt 0:00:
+10]} Nf6 {[%emt 0:00:59]} 5. O-O {[%emt 0:00:13]} Be7 {[%emt 0:00:38]} 6. d3 {
+[%emt 0:00:12]} d6 {[%emt 0:01:35]} 7. c3 {[%emt 0:03:30]} O-O {[%emt 0:01:34]}
+8. Re1 {[%emt 0:07:44]} b5 {[%emt 0:08:00]} 9. Bc2 {[%emt 0:00:00]} h6 {
+[%emt 0:08:07]} 10. d4 {[%emt 0:01:55]} Bg4 {[%emt 0:00:00]} 11. d5 {[%emt 0:
+15:32]} Na5 {[%emt 0:01:52]} 12. h3 {[%emt 0:00:00]} Bd7 {[%emt 0:02:52]} 13.
+Nbd2 {[%emt 0:02:58]} c5 {[%emt 0:01:58]} 14. dxc6 {[%emt 0:00:00]} Bxc6 {
+[%emt 0:07:54]} 15. Nf1 {[%emt 0:00:00]} Qc7 {[%emt 0:07:16]} 16. Ng3 {[%emt 0:
+00:00]} Rfe8 {[%emt 0:01:12]} 17. a4 {[%emt 0:03:12]} Rad8 {[%emt 0:03:16]} 18.
+axb5 {[%emt 0:00:29]} axb5 {[%emt 0:00:17]} 19. Nf5 {[%emt 0:04:34]} Bf8 {
+[%emt 0:00:37]} 20. Qe2 {[%emt 0:00:52]} Nb7 {[%emt 0:08:13]} 21. Nh2 {[%emt 0:
+10:55]} Nc5 {[%emt 0:13:06]} 22. Ng4 {[%emt 0:12:34]} Ncxe4 {[%emt 0:00:58]}
+23. Bxe4 {[%emt 0:06:10]} Nxe4 {[%emt 0:00:08]} 24. Ngxh6+ {[%emt 0:00:28]}
+gxh6 {[%emt 0:00:33]} 25. Qg4+ {[%emt 0:02:54]} Kh7 {[%emt 0:01:23]} 26. Rxe4 {
+[%emt 0:02:35]} Bxe4 {[%emt 0:00:07]} 27. Qxe4 {[%emt 0:00:09]} d5 {[%emt 0:03:
+39]} 28. Qh4 {[%emt 0:01:40]} Re6 {[%emt 0:09:23]} 29. Be3 {[%emt 0:03:59]} Qc8
+{[%emt 0:02:20]} 30. Ra5 {[%emt 0:03:55]} b4 {[%emt 0:00:24]} 31. cxb4 {
+[%emt 0:01:24]} d4 {[%emt 0:00:08]} 32. Bg5 {[%emt 0:01:25]} Rd7 {[%emt 0:00:
+44]} 33. Qe4 {[%emt 0:04:37]} Qb7 {[%emt 0:04:47]} 34. Qh4 {[%emt 0:01:11]} Rg6
+{[%emt 0:01:14]} 0-1
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.21"]
+[White "Merriman, John"]
+[Black "Longson, Sarah N"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[WhiteElo "2226"]
+[BlackElo "2095"]
+[Annotator "NA"]
+[PlyCount "56"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. d4 {[%emt 0:04:31]} d5 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:10]} e6 {[%emt 0:
+00:00]} 3. Nc3 {[%emt 0:00:06]} c6 {[%emt 0:00:44]} 4. e3 {[%emt 0:00:17]} Nf6
+{[%emt 0:00:29]} 5. Nf3 {[%emt 0:00:24]} Nbd7 {[%emt 0:01:12]} 6. Qc2 {[%emt 0:
+00:13]} Bd6 {[%emt 0:00:43]} 7. b3 {[%emt 0:00:30]} O-O {[%emt 0:00:32]} 8. Be2
+{[%emt 0:04:07]} b6 {[%emt 0:02:00]} 9. O-O {[%emt 0:01:24]} Bb7 {[%emt 0:00:
+18]} 10. Rd1 {[%emt 0:02:44]} Qe7 {[%emt 0:01:12]} 11. e4 {[%emt 0:10:10]} Nxe4
+{[%emt 0:00:57]} 12. Nxe4 {[%emt 0:00:02]} dxe4 {[%emt 0:00:04]} 13. Qxe4 {
+[%emt 0:00:05]} f5 {[%emt 0:00:52]} 14. Qc2 {[%emt 0:14:14]} c5 {[%emt 0:05:52]
+} 15. Bg5 {[%emt 0:22:31]} Qf7 {[%emt 0:11:52]} 16. Qd2 {[%emt 0:03:01]} Nf6 {
+[%emt 0:02:25]} 17. Bf4 {[%emt 0:10:34]} Ne4 {[%emt 0:04:31]} 18. Qc1 {[%emt 0:
+00:13]} Bxf4 {[%emt 0:24:52]} 19. Qxf4 {[%emt 0:00:06]} Nc3 {[%emt 0:00:32]}
+20. Re1 {[%emt 0:01:13]} Nxe2+ {[%emt 0:01:25]} 21. Rxe2 {[%emt 0:00:05]} Bxf3
+{[%emt 0:01:33]} 22. gxf3 {[%emt 0:00:43]} cxd4 {[%emt 0:01:04]} 23. Qxd4 {
+[%emt 0:00:05]} Qg6+ {[%emt 0:04:19]} 24. Kh1 {[%emt 0:04:00]} Qh5 {[%emt 0:00:
+45]} 25. Rg1 {[%emt 0:04:57]} Qxf3+ {[%emt 0:04:41]} 26. Rg2 {[%emt 0:00:04]}
+e5 {[%emt 0:02:46]} 27. Qxe5 {[%emt 0:00:48]} Rf7 {[%emt 0:00:20]} 28. Re3 {
+[%emt 0:01:04]} Qc6 {[%emt 0:02:31]} 1/2-1/2
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.22"]
+[White "Modi, Shyam Jagdish"]
+[Black "Ledger, Dave J"]
+[Result "1-0"]
+[ECO "E04"]
+[WhiteElo "2098"]
+[BlackElo "2168"]
+[Annotator "NA"]
+[PlyCount "61"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:00]} e6 {[%emt 0:
+00:00]} 3. g3 {[%emt 0:00:00]} d5 {[%emt 0:00:46]} 4. Nf3 {[%emt 0:00:03]} dxc4
+{[%emt 0:01:10]} 5. Bg2 {[%emt 0:00:01]} Bb4+ {[%emt 0:00:07]} 6. Bd2 {[%emt 0:
+01:23]} c5 {[%emt 0:01:48]} 7. Bxb4 {[%emt 0:20:57]} cxb4 {[%emt 0:00:42]} 8.
+Ne5 {[%emt 0:03:15]} O-O {[%emt 0:02:45]} 9. Nxc4 {[%emt 0:02:37]} Nc6 {
+[%emt 0:02:19]} 10. e3 {[%emt 0:00:38]} e5 {[%emt 0:05:54]} 11. d5 {[%emt 0:08:
+08]} b5 {[%emt 0:01:38]} 12. O-O {[%emt 0:07:47]} Bg4 {[%emt 0:08:37]} 13. Qd2
+{[%emt 0:03:24]} bxc4 {[%emt 0:07:40]} 14. dxc6 {[%emt 0:00:02]} a5 {[%emt 0:
+03:04]} 15. Qc2 {[%emt 0:05:53]} Qd3 {[%emt 0:03:39]} 16. Qxd3 {[%emt 0:11:04]}
+cxd3 {[%emt 0:00:05]} 17. Nd2 {[%emt 0:00:32]} Rfe8 {[%emt 0:05:37]} 18. Rfc1 {
+[%emt 0:02:53]} Rac8 {[%emt 0:00:21]} 19. Rc5 {[%emt 0:01:49]} e4 {[%emt 0:00:
+55]} 20. Rac1 {[%emt 0:01:25]} Re6 {[%emt 0:01:37]} 21. h3 {[%emt 0:01:16]} Be2
+{[%emt 0:00:34]} 22. Rxa5 {[%emt 0:00:48]} h5 {[%emt 0:00:18]} 23. Rac5 {
+[%emt 0:00:59]} Kf8 {[%emt 0:01:58]} 24. Bf1 {[%emt 0:06:49]} g6 {[%emt 0:01:
+40]} 25. Nb3 {[%emt 0:00:57]} Bf3 {[%emt 0:02:53]} 26. Bg2 {[%emt 0:00:26]} Be2
+{[%emt 0:01:22]} 27. Bf1 {[%emt 0:01:17]} Bf3 {[%emt 0:00:08]} 28. Nd2 {
+[%emt 0:02:00]} Rd6 {[%emt 0:00:58]} 29. Bg2 {[%emt 0:01:24]} Rc7 {[%emt 0:00:
+39]} 30. Nxf3 {[%emt 0:02:33]} exf3 {[%emt 0:00:04]} 31. Bxf3 {[%emt 0:00:06]}
+1-0
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.23"]
+[White "Villiers, Thomas"]
+[Black "Jaufarally, Nadia"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2218"]
+[BlackElo "1944"]
+[Annotator "NA"]
+[PlyCount "39"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. Nd2 {[%emt 0:00:00]} g6 {
+[%emt 0:00:04]} 3. e4 {[%emt 0:00:00]} d6 {[%emt 0:00:06]} 4. Ngf3 {[%emt 0:00:
+10]} Bg7 {[%emt 0:00:24]} 5. Bd3 {[%emt 0:00:16]} O-O {[%emt 0:00:27]} 6. O-O {
+[%emt 0:00:07]} Nh5 {[%emt 0:01:04]} 7. Nc4 {[%emt 0:00:21]} Qe8 {[%emt 0:05:
+16]} 8. c3 {[%emt 0:04:11]} e5 {[%emt 0:01:29]} 9. Be3 {[%emt 0:00:02]} f5 {
+[%emt 0:04:12]} 10. dxe5 {[%emt 0:01:24]} f4 {[%emt 0:01:08]} 11. Bd4 {[%emt 0:
+06:11]} c5 {[%emt 0:14:20]} 12. Nxd6 {[%emt 0:01:05]} Qc6 {[%emt 0:00:09]} 13.
+Qb3+ {[%emt 0:00:22]} Kh8 {[%emt 0:00:13]} 14. Ng5 {[%emt 0:01:16]} h6 {
+[%emt 0:02:34]} 15. Ndf7+ {[%emt 0:00:18]} Rxf7 {[%emt 0:00:14]} 16. Nxf7+ {
+[%emt 0:01:35]} Kh7 {[%emt 0:00:12]} 17. Bb5 {[%emt 0:03:56]} Qb6 {[%emt 0:16:
+27]} 18. Nd6 {[%emt 0:00:08]} Na6 {[%emt 0:01:45]} 19. Bxa6 {[%emt 0:00:39]}
+bxa6 {[%emt 0:00:51]} 20. Qd5 {[%emt 0:00:08]} 1-0
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.24"]
+[White "Player, Edmund C"]
+[Black "Krzyzanowski, Patryk"]
+[Result "0-1"]
+[ECO "B36"]
+[WhiteElo "2202"]
+[BlackElo "2114"]
+[Annotator "NA"]
+[PlyCount "84"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} g6 {[%emt 0:
+00:02]} 3. c4 {[%emt 0:00:00]} Nc6 {[%emt 0:00:08]} 4. d4 {[%emt 0:00:00]} cxd4
+{[%emt 0:00:09]} 5. Nxd4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:09]} 6. Nc3 {[%emt 0:
+00:07]} d6 {[%emt 0:00:07]} 7. Be2 {[%emt 0:00:25]} Nxd4 {[%emt 0:00:10]} 8.
+Qxd4 {[%emt 0:00:04]} Bg7 {[%emt 0:00:07]} 9. Be3 {[%emt 0:00:41]} O-O {
+[%emt 0:00:14]} 10. Qd2 {[%emt 0:00:15]} a5 {[%emt 0:02:14]} 11. O-O {[%emt 0:
+01:38]} a4 {[%emt 0:00:06]} 12. Rad1 {[%emt 0:01:14]} Qa5 {[%emt 0:00:22]} 13.
+Bd4 {[%emt 0:01:47]} Re8 {[%emt 0:10:41]} 14. h3 {[%emt 0:15:59]} Be6 {[%emt 0:
+04:46]} 15. f4 {[%emt 0:05:48]} Rec8 {[%emt 0:05:57]} 16. b3 {[%emt 0:00:56]}
+axb3 {[%emt 0:04:46]} 17. axb3 {[%emt 0:00:06]} Qb4 {[%emt 0:14:17]} 18. f5 {
+[%emt 0:09:53]} Bd7 {[%emt 0:03:39]} 19. Bxf6 {[%emt 0:02:05]} Bxf6 {[%emt 0:
+07:39]} 20. Nd5 {[%emt 0:00:38]} Qxd2 {[%emt 0:04:08]} 21. Nxf6+ {[%emt 0:00:
+16]} Kg7 {[%emt 0:00:07]} 22. Rxd2 {[%emt 0:12:47]} Kxf6 {[%emt 0:00:56]} 23.
+e5+ {[%emt 0:00:52]} Kxe5 {[%emt 0:11:02]} 24. fxg6 {[%emt 0:00:23]} f5 {
+[%emt 0:00:18]} 25. gxh7 {[%emt 0:04:22]} Rh8 {[%emt 0:00:53]} 26. Rd5+ {
+[%emt 0:00:25]} Kf6 {[%emt 0:00:18]} 27. Bd3 {[%emt 0:01:01]} e6 {[%emt 0:07:
+41]} 28. Rxd6 {[%emt 0:01:32]} Ke7 {[%emt 0:00:09]} 29. Rb6 {[%emt 0:01:10]}
+Bc6 {[%emt 0:01:29]} 30. b4 {[%emt 0:02:12]} Ra2 {[%emt 0:03:41]} 31. Rf2 {
+[%emt 0:01:18]} Rxf2 {[%emt 0:00:19]} 32. Kxf2 {[%emt 0:00:07]} Kd6 {[%emt 0:
+00:37]} 33. g4 {[%emt 0:33:36]} Rxh7 {[%emt 0:04:29]} 34. Bf1 {[%emt 0:00:59]}
+fxg4 {[%emt 0:02:39]} 35. c5+ {[%emt 0:02:27]} Ke5 {[%emt 0:08:25]} 36. hxg4 {
+[%emt 0:00:31]} Rf7+ {[%emt 0:01:09]} 37. Ke1 {[%emt 0:00:30]} Kd4 {[%emt 0:02:
+10]} 38. Bb5 {[%emt 0:00:31]} Bd5 {[%emt 0:00:23]} 39. Be8 {[%emt 0:01:44]} Rf4
+{[%emt 0:00:45]} 40. g5 {[%emt 0:00:00]} Rg4 {[%emt 0:00:00]} 41. g6 {[%emt 0:
+12:55]} Ke3 {[%emt 0:21:46]} 42. Kd1 {[%emt 0:00:19]} Rc4 {[%emt 0:01:22]} 0-1
+
+[Event "106th British-ch 2019"]
+[Site "Torquay"]
+[Date "2019.08.03"]
+[Round "8.25"]
+[White "Yoon, Jacob D"]
+[Black "Donaldson, Thomas"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "1963"]
+[BlackElo "2065"]
+[Annotator "NA"]
+[PlyCount "43"]
+[EventDate "2019.07.27"]
+[EventType "swiss"]
+[EventCountry "GBR"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "40/5400+30:1800+30"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. Bg5 {[%emt 0:00:00]} c5 {
+[%emt 0:00:00]} 3. e3 {[%emt 0:00:13]} Qb6 {[%emt 0:01:31]} 4. Bxf6 {[%emt 0:
+08:37]} Qxb2 {[%emt 0:02:43]} 5. Nd2 {[%emt 0:01:11]} gxf6 {[%emt 0:00:13]} 6.
+Ngf3 {[%emt 0:03:20]} Nc6 {[%emt 0:05:31]} 7. dxc5 {[%emt 0:02:41]} f5 {
+[%emt 0:09:51]} 8. Bd3 {[%emt 0:09:33]} Bg7 {[%emt 0:00:09]} 9. Rb1 {[%emt 0:
+01:01]} Qf6 {[%emt 0:00:14]} 10. O-O {[%emt 0:02:08]} O-O {[%emt 0:14:36]} 11.
+e4 {[%emt 0:02:21]} Ne5 {[%emt 0:04:36]} 12. Nxe5 {[%emt 0:02:34]} Qxe5 {
+[%emt 0:00:08]} 13. exf5 {[%emt 0:00:40]} Qxc5 {[%emt 0:02:01]} 14. f6 {
+[%emt 0:05:52]} exf6 {[%emt 0:10:53]} 15. Rb5 {[%emt 0:03:32]} Qd4 {[%emt 0:04:
+06]} 16. Qh5 {[%emt 0:00:28]} h6 {[%emt 0:00:37]} 17. Qf5 {[%emt 0:00:09]} Re8
+{[%emt 0:00:07]} 18. Rd5 {[%emt 0:01:26]} Qb6 {[%emt 0:02:23]} 19. Nc4 {
+[%emt 0:09:10]} Qe6 {[%emt 0:00:17]} 20. Qh7+ {[%emt 0:00:04]} Kf8 {[%emt 0:00:
+07]} 21. Ne3 {[%emt 0:01:39]} b6 {[%emt 0:00:53]} 22. Nf5 {[%emt 0:00:18]} 1-0
+

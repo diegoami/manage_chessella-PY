@@ -1,0 +1,34 @@
+[Event "Gibraltar Masters 2019"]
+[Site "Caleta"]
+[Date "2019.01.30"]
+[Round "9"]
+[White "Gallego Alcaraz, Andres Felipe"]
+[Black "Papp, Gabor"]
+[Result "1-0"]
+[ECO "A70"]
+[WhiteElo "2502"]
+[BlackElo "2603"]
+[Annotator "Karsten Mueller"]
+[SetUp "1"]
+[FEN "8/8/8/p6p/P3K1k1/4N3/8/8 b - - 0 60"]
+[PlyCount "22"]
+[EventDate "2019.??.??"]
+[SourceTitle "1020"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+60... Kg3 {Knights are tricky, and knight endings usually require precise
+calculation.} {[%tqu "En","White to play and win","","","e4d3","",4,"e3f5","",
+2,"De","Weiß zieht und gewinnt","","","e4d3","",4,"e3f5","",2]} 61. Kd3 $1 ({
+After} 61. Nf5+ $6 Kg4 62. Ne3+ Kg3 {White has to play} 63. Kd3 {after all.}) (
+61. Kf5 $2 {fails to} Kf3 (61... h4 $11) 62. Nc4 h4 $11 {because} 63. Nxa5 $2
+h3 $19 {backfires completely.}) 61... Kf3 62. Nf5 Kf4 63. Nd4 Kg3 (63... h4 64.
+Ke2 $1 h3 65. Kf2 Ke4 66. Nb3 Kd5 67. Nxa5 Kc5 68. Nb3+ $1 {The knight has to
+be behind the pawn.} Kb4 69. a5 $18) 64. Ke2 h4 65. Nf5+ Kg4 66. Ne3+ ({
+Of course not} 66. Nxh4 $2 Kxh4 67. Kd3 Kg5 68. Kc4 Kf6 69. Kb5 Ke7 70. Kxa5
+Kd7 71. Kb6 Kc8 $1 $11) 66... Kg3 67. Kf1 Kh2 (67... Kf4 68. Nc4 Ke4 69. Nxa5
+Kd5 70. Nb3 Kc4 71. a5 Kb5 72. Kg2 $18) 68. Kf2 h3 {Leading to a version of
+Stamma's mate.} ({But} 68... Kh3 {also loses, e.g.} 69. Kf3 Kh2 70. Ng2 Kh3 (
+70... h3 71. Nf4 $18) 71. Nf4+ Kh2 72. Ng6 h3 73. Nf4 $18) 69. Ng4+ Kh1 70. Kf1
+h2 71. Nf2# 1-0
+

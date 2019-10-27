@@ -1,0 +1,142 @@
+[Event "64 Shakhmatnoe Obozrenie"]
+[Site "?"]
+[Date "2015.??.??"]
+[Round "?"]
+[White "Aronian & Pervakov & Sumbatyan, Levon & Oleg & Karen"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "kB3b2/1p6/8/K2N4/8/5P2/B7/3b4 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "2015.??.??"]
+
+{(D24:3+3.5+3 = 9.5 points - the number in the FIDE Album 2013-2015 and the
+judge scores by Becker, Minski, Salai jr. in that order are given) Levon
+Aronian is a world class player, Oleg Pervakov and Karen Sumbatyan are world
+class composers. Together they made a world class endgame study. Please note
+the initial squares of the pieces. They will return during the play, in
+problem terms a "switchback", marked with that word below. White is to move
+and win.} 1. Bf4 $1 ({The first move must take care of the play that is to
+come. The square h6 must be defended, or else the Bf8 can escape later, the
+reason however is not easily seen.} 1. Be5 $2 Bxf3 2. Nc7+ Ka7 3. Nb5+ Ka8 4.
+Kb6 Bh6 $1 $11) 1... Bxf3 ({With a piece up, White wins if Pf3 is defended. So
+Black has no time to waste:} 1... Bc5 2. Nc7+ Ka7 3. Bd5 $18) 2. Nc7+ $1 ({One
+of the points of the defense is stalemate:} 2. Kb6 $2 Bd6 $1 3. Bxd6 Bxd5 4.
+Bxd5 $11) (2. Nb6+ $2 Ka7 3. Be3 Bg7 $1 $11 {and the discovered check won't
+win the bishop.}) 2... Ka7 3. Nb5+ Ka8 4. Kb6 {, and the play splits into two
+main variations: Main variation A} Be7 $1 ({Main variation B:} 4... Bg7 5. Nc7+
+Kb8 6. Ne6+ ({or} 6. Ne8+) 6... Ka8 7. Nxg7 Bd5 8. Bb1 (8. Bb8 $2 Bxa2 9. Ba7
+Bf7 $1 $11) 8... Be4 9. Bb8 $3 {(switchback)} Bxb1 10. Ba7 $1 Ba2 (10... Bg6
+11. Ne6 $18) 11. Ne8 Bd5 12. Nc7#) 5. Nc7+ Kb8 6. Nd5+ {(switchback)} Ka8 7.
+Nxe7 Bd5 $1 8. Bb1 (8. Bb8 $2 Bxa2 9. Kc7 Be6 $1 $11) 8... Be4 9. Bb8 $3 {
+(switchback)} Bxb1 10. Kc7 $1 Be4 11. Nc8 Bd5 12. Nb6# {The symmetrical
+checkmates at the end of the main variations are achieved with precise play. A
+great debut of the Armenian top player into endgame study composition!} 1-0
+
+[Event "Jenever Tourney, Special Prize"]
+[Site "?"]
+[Date "2014.??.??"]
+[Round "?"]
+[White "Becker, Richard"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "6K1/8/3p4/k3Pp2/5P2/5P2/6P1/7r w - - 0 0"]
+[PlyCount "17"]
+
+{(D88: 4+2.5+3 = 9.5 points) As Richard Becker was judge himself, he was
+replaced on judging this study by Yours Truly. The very impressive study
+received the maximum score of 4 points by me, showing three echo
+underpromotion lines. The other judges disagreed, but even a moderate judgment
+by me would have been enough for the inclusion in the Album. This however is
+an example for the different tastes of judges. White is to move and secure the
+draw.} 1. g4 fxg4 (1... d5 2. gxf5 d4 3. f6 $11) 2. fxg4 {and now the play
+forks into two main variations:} Rg1 {(main variation B)} (2... dxe5 {(main
+variation A)} 3. fxe5 Kb6 4. e6 Kc7 5. g5 Kd6 6. g6 Kxe6 7. g7 Kf6 (7... Ke7
+$11 {stalemate with Kg8}) 8. Kf8 Ra1 9. g8=N+ $11 {echo}) (2... d5 3. f5 $1 d4
+4. f6 d3 5. f7 Rf1 6. e6 d2 7. e7 d1=Q 8. e8=Q Qxg4+ 9. Kf8 $11) 3. exd6 Rxg4+
+4. Kf8 $1 {, and:} Kb6 {(main variation B1)} (4... Rxf4+ {(main variation B2)}
+5. Ke7 ({or} 5. Ke8) 5... Re4+ 6. Kd8 Kb6 7. d7 Kc6 (7... Kb7 $11 {stalemate
+with Kd8}) 8. Kc8 Ra4 9. d8=N+ $11 {echo}) 5. f5 Kc6 6. f6 Kxd6 7. f7 Ke6 (7...
+Kd7 $11 {stalemate with Kf8}) 8. Ke8 Ra4 9. f8=N+ $11 {echo} 1/2-1/2
+
+[Event "Fokin 90 JT, Zadachi i Etjudy, 1st pr."]
+[Site "?"]
+[Date "2015.??.??"]
+[Round "?"]
+[White "Ryabinin, Nikolay"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5k2/6p1/1b1PP3/5KR1/b7/8/7p/2B5 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "2015.??.??"]
+
+{(D32:3+4+3=10) This study incorporates, as the Album says: "Mutual battle
+against promotion, sacrifices, anticipatory line-closings," and a neat ending
+that we don't want to spoil by giving the description already. To Yours Truly,
+this looks very much like a construction that could be used in a logical
+moremover, i.e. a mate in x moves. In addition the play is easy to understand,
+requiring no further comments. White to move and win.} 1. Rh5 g6+ $1 2. Kxg6
+Be8+ 3. Kh7 Bxh5 4. Bh6+ Ke8 5. Bg5 Kf8 (5... h1=Q 6. d7+ Kf8 7. e7+ Kf7 8.
+e8=Q#) 6. Be7+ $1 (6. d7 $2 Be8 $1 7. e7+ Kf7 8. d8=N+ Bxd8 9. exd8=Q h1=Q+ $11
+) 6... Ke8 7. Bh4 $1 Kf8 $1 8. d7 Bd8 $1 (8... Be8 9. e7+ Kf7 10. d8=N+ Bxd8
+11. exd8=Q h1=Q 12. Qe7# (12. Qf6#)) 9. Bxd8 Be8 (9... h1=Q 10. e7+ Kf7 11.
+e8=Q#) 10. Bh4 $1 h1=Q 11. e7+ Kf7 12. d8=N# 1-0
+
+[Event "Mugnos 110 MT, Prize"]
+[Site "?"]
+[Date "2014.??.??"]
+[Round "?"]
+[White "Bazlov, Yuri"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4kN2/2n4K/3B1P2/8/8/7N/1p6/8 w - - 0 1"]
+[PlyCount "15"]
+
+{(D14: 2.5+3+3=8.5 points) As you see, a good promotion to a knight can be
+good to win the judges over, but also the rest of the play needs to be
+excellent. Another such example is this study by master Bazlov. White is to
+move and win.} 1. Kg8 $1 (1. Kg7 $2 b1=Q 2. f7+ Kd8 3. Nf4 Ne8+ $1 $11) 1...
+b1=Q 2. f7+ Kd8 3. Nf4 $1 (3. Ng5 $2 Qf5 $11) 3... Qf5 4. N8g6 {It does not
+look good, so Black needs to use tricks now:} Ne6 $1 5. Nxe6+ Kd7 $1 (5... Qxe6
+6. Be7+ Kc7 7. Kg7 $18) 6. Ba3 $1 (6. Bb4 $2 Kxe6 7. f8=N+ Kd5 8. Ne7+ Kc4 $11)
+6... Kxe6 (6... Qxg6+ 7. Ng7 $18) 7. f8=N+ $1 Kf6 ({Otherwise, the queen is
+lost and the resulting basic ending might be a good choice in practical play,
+but not in an endgame study.} 7... Kd5 8. Ne7+ $11) 8. Be7# {"Model mate with
+self-block". A model mate is a checkmate where every square around the king
+can't be entered for a singular reason. "Self-block" means a black piece
+blocking one of the squares for the king.} 1-0
+
+[Event "StrateGems, Prize"]
+[Site "?"]
+[Date "2014.??.??"]
+[Round "?"]
+[White "Costeff, Gady"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Hornecker,Siegfried"]
+[SetUp "1"]
+[FEN "8/K7/7B/p1pp4/3P4/kpPR2P1/pnp5/n3bN1R w - - 0 1"]
+[PlyCount "17"]
+[EventDate "2014.??.??"]
+
+{(D75: 2.5+3+2=7.5 points) The studies by Gady Costeff might be few, but
+almost always with an incredible idea. This one is no exception. For now the
+important part is that Black can move his knight on b2 to get rid of all
+possible checkmate threats. White to move and win.} 1. Bc1 c4 2. Rf3 $1 (2. Re3
+$2 a4 3. Re4 Bxc3 $1 4. Ka6 Bd2 5. Nxd2 Kb4 6. Re3 Nd3 7. Rxd3 cxd3 $11) 2...
+Bd2 ({Unfortunately the sidelines aren't actually easy:} 2... Bf2 3. Rxf2 a4 4.
+Bxb2+ Kxb2 5. Ne3 Kxc3 6. Nxd5+ Kxd4 (6... Kd3 7. Nb4+ Ke3 8. Rff1 b2 9. Nxa2
+Nb3 10. d5 $18) 7. Rd2+ Kc5 8. Nc3 $18) (2... a4 3. Ne3 Bd2 4. Bxd2 Nd1 (4...
+Nd3 5. Rxa1 b2 6. Nxc2+ Kb3 7. Rff1 Kxc2 8. Rxa2 Kxd2 9. g4 Kxc3 10. g5 $18) 5.
+Bc1+ b2 6. Bxb2+ Kxb2 7. Nxd1+ $18) 3. Nxd2 a4 {What follows is an absolutely
+incredible idea.} 4. Rd3 $3 (4. Ne4 $2 dxe4 5. Rf5 e3 6. Ra5 e2 7. Kb6 e1=Q 8.
+Rxe1 $11) 4... cxd3 5. Rd1 $3 cxd1=Q 6. Nc4+ dxc4 7. Bf4 {If you remember that
+Black can move his knight to get rid of all checkmate threats... well... it
+still is true. Any move of the knight on b2 wins. Unfortunately all possible
+destinations have been blocked off by Black during the course of the play.
+Checkmate is unavoidable.} Nc2 (7... Qh5 8. Bd6+ Qc5+ 9. Bxc5#) 8. Bd6+ Nb4 9.
+Bxb4# 1-0
+

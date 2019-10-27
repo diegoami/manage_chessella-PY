@@ -1,0 +1,35 @@
+[Event "EICC 2019"]
+[Site "Skopia"]
+[Date "2019.03.25"]
+[Round "7.50"]
+[White "Eljanov, Pavel"]
+[Black "Arizmendi Martinez, Julen Luis"]
+[Result "1-0"]
+[ECO "A13"]
+[WhiteElo "2682"]
+[BlackElo "2506"]
+[Annotator "Karsten Mueller"]
+[SetUp "1"]
+[FEN "1kn5/1p5R/8/P1K5/8/8/8/8 b - - 0 80"]
+[PlyCount "4"]
+[EventDate "2019.??.??"]
+[SourceTitle "1031_40"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+80... Ka7 {Usually, in the endgame rooks are much better than a knight.
+However, if only a few pawns remain on the board the defender might try to
+build a fortress. To crack such fortresses rooks often need support.} {[%tqu
+"En","White to move and win","","","h7h8","",10,"h7c7","",0,"c5b5","",0]} 81.
+Rh8 $1 {White has to strike while the iron is hot. After other moves Black's
+fortress will hold, e.g.} (81. Rc7 $2 Kb8 82. Rh7 Na7 $1 83. a6 bxa6 84. Kb6
+Nc8+ 85. Kc6 Na7+ $11) (81. Kb5 $2 Kb8 $1 82. Rh8 Kc7 $11) 81... Kb8 (81... Ne7
+82. a6 Ng6 (82... Kxa6 $6 83. Ra8#) 83. Rg8 Ne5 84. Kd5 Nd3 85. axb7 Kxb7 (
+85... Nb4+ 86. Kc5 Na6+ 87. Kc6 Nb8+ 88. Kc7 Na6+ 89. Kc8 $18) 86. Rg4 $1 {
+The pawnless endgame rook vs knight is usually a draw if the knight manages to
+come to its king. However, if knight and king can be separated permanently the
+rook will win.} Kb6 87. Rd4 Nc1 88. Kc4 Ne2 89. Re4 Ng3 90. Re5 Kc6 91. Kd3 Kd6
+92. Rg5 Nf1 93. Ke2 Nh2 94. Rg2 $18) 82. a6 {Using a battery ram to crack
+Black's fortress. Black resigned immediately.} (82. a6 bxa6 83. Kc6 a5 84. Kd7
+Kb7 85. Rxc8 Kb6 86. Kd6 Kb5 87. Kd5 Kb4 88. Kd4 a4 89. Rb8+ $18) 1-0
+

@@ -1,0 +1,871 @@
+[Event "Sachovy Festival 2019"]
+[Site "Prague"]
+[Date "2019.06.18"]
+[Round "1"]
+[White "Navara, David"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[ECO "D88"]
+[WhiteElo "2728"]
+[BlackElo "2805"]
+[Annotator "TA"]
+[PlyCount "75"]
+[EventDate "2019.06.17"]
+[EventType "match"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 24,75,0,0,0,0,0,0,-15,-13,0,0,-17,-24,-28,-13,0,0,0,0,0,0,0,0,0,0,0,-20,
+-7,-61,-114,-129,-129,-125,-41,-41,-41,-41,0,-4,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 Nc6 9. Be3 O-O 10. O-O b6 11. Qd2 Bb7 12. Rad1 cxd4 ({Predecessor:} 12...
+Rc8 13. Bh6 Na5 14. Bd3 cxd4 {0-1 (35) Naumkin,I (2418)-Lin,Y (2359) Nova
+Gorica 2019}) 13. cxd4 Rc8 {D88: Exchange Grünfeld: Classical Line: 10 Be3
+cxd4 11 cxd4} 14. Bh6 Na5 $146 (14... Qd6 15. Bxg7 Kxg7 16. Bb3 Na5 17. Ng3
+Nxb3 18. axb3 f6 19. Rfe1 Rc7 20. d5 Rd8 21. Nf1 {1/2-1/2 (41) Del Rio de
+Angelis,S (2464)-Wagner,D (2580) Skopje 2019}) 15. Bd3 Nc4 16. Bxc4 Rxc4 17.
+Bxg7 Kxg7 18. Ng3 e6 19. d5 exd5 20. exd5 Re8 21. Rfe1 Rxe1+ $1 ({Reject} 21...
+Qxd5 $6 22. Nf5+ $1 {[%mdl 512]} Qxf5 23. Rxe8 $16) 22. Qxe1 Qd6 23. Qe2 Rc7
+24. Qb2+ Qf6 25. Qa3 {Strongly threatening Nh5+!} Rd7 26. Qxa7 (26. d6 $11)
+26... Rxd5 $15 27. Rb1 {[#]} Qc6 $1 28. f3 Qc2 ({Better is} 28... Rd2 $17 {
+( -> ...Qc2!)} 29. Ne4 {[#]} Rb2 $1 {[%mdl 576] Deflection, Decoy} 30. Rxb2
+Qc1+ {[%mdl 64] Double Attack} 31. Kf2 Qxb2+ 32. Ke3 Bxe4 33. fxe4 Qxg2) 29.
+Qxb6 Rd2 30. Ne2 $1 Ba6 31. Nf4 {The position is equal.} Qxa2 32. Qb4 {Black
+must now prevent Qc3+.} Qc2 33. Ne6+ fxe6 (33... Kf6 $5 34. Nf4 $8 Bc4 $11) 34.
+Qe7+ {[%mdl 64] [#] Double Attack} Kh6 $1 {[%cal Rc2b1]} 35. Qh4+ {[#]} Kg7 $1
+36. Qe7+ {[%mdl 64] [#] Double Attack} Kh6 $1 {[%cal Rc2b1]} 37. Qh4+ {[#]} Kg7
+$1 38. Qe7+ {[%mdl 64] Double Attack. Accuracy: White = 73%, Black = 70%.}
+1/2-1/2
+
+[Event "Sachovy Festival 2019"]
+[Site "Prague"]
+[Date "2019.06.18"]
+[Round "1"]
+[White "Nguyen, Thai Dai Van"]
+[Black "Timman, Jan H"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2548"]
+[BlackElo "2548"]
+[Annotator "TA"]
+[PlyCount "100"]
+[EventDate "2019.06.17"]
+[EventType "match"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,100,-8,34,32,41,29,31,31,43,36,33,35,40,28,120,125,167,166,196,178,
+173,165,161,158,167,164,167,169,177,165,171,163,157,151,180,117,202,201,193,
+199,204,191,184,188,153,153,181,120,120,108,116,109,92,71,101,27,34,18,18,3,8,
+0,14,0,0,0,0,0,0,0,0,0,0,-8,-8,-8,-10,-11,-8,-8,0,-13,-14,-30,-29,-35,-8,-8,-8,
+-8,0,-8,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 Bb4+ 6. Bd2 {E15:
+Queen's Indian: 4 g3 sidelines, 4 g3 Ba6 and 4 g3 Bb7 early deviations} Be7 7.
+e4 d5 8. cxd5 {White is slightly better.} Bxf1 $1 9. Kxf1 {aiming for dxe6.}
+exd5 10. e5 Ne4 11. Kg2 $36 {[%mdl 2048] White is more active.} f5 $146 (11...
+c5 $11 {keeps the balance.}) ({Predecessor:} 11... Qd7 12. Nc3 Nxc3 13. Qxc3
+O-O {1/2-1/2 (48) Sunilduth Lyna,N (2536)-Melkumyan,H (2653) Douglas 2016}) 12.
+exf6 $16 Bxf6 13. Nc3 Nxd2 14. Rhe1+ (14. Nxd2 O-O $11) 14... Be7 {[#]
+Strongly threatening ...Nxf3.} 15. Qxd2 O-O 16. Qe3 Bb4 17. Qe6+ Kh8 18. Ne5
+Qf6 19. Qxf6 gxf6 20. Nd3 Nc6 21. Rac1 Rad8 22. Re3 ({Better is} 22. Red1 $18 {
+And now Nb5 would win.} Bxc3 23. Rxc3) 22... Bd6 (22... Bxc3 $16 23. bxc3 (23.
+Rxc3 Rd6 $16) 23... Rd6) 23. Nb5 $18 (23. Nxd5 Nxd4 24. b4 (24. Nxc7 Bxc7 25.
+Rxc7 Nf5 $11) 24... c6 $14) 23... a6 {[#]} 24. Nxc7 $1 ({Don't play} 24. Rxc6
+$6 axb5 25. a3 Ra8 $14) 24... Nxd4 25. Nxd5 Bxg3 26. hxg3 ({Resist} 26. fxg3 $6
+Rxd5 27. Nf4 Rd7 $14) ({But not} 26. Nxb6 $6 Bb8 $11) 26... Rxd5 27. Nf4 Rd7
+28. Rd3 (28. Ne6 $18 Nxe6 29. Rxe6) 28... Rfd8 $16 29. Rcd1 Rd6 30. Nh5 f5 31.
+Rc1 Nc6 32. Rxd6 (32. Rdc3 $16 Nb4 33. Rc7) 32... Rxd6 {[%mdl 4096] Endgame
+KRN-KRN} 33. Re1 {[%cal Re1e8]} Kg8 34. Re8+ Kf7 35. Rh8 h6 36. Nf4 Ne5 37.
+Rh7+ Ke8 38. Rb7 b5 39. Ra7 Ng4 40. f3 Rd2+ 41. Kg1 Ne5 42. Rxa6 {Threatens to
+win with Re6+.} Nxf3+ 43. Kf1 Nh2+ 44. Ke1 Nf3+ 45. Kf1 Rxb2 46. Rxh6 Rxa2 {
+White must now prevent ...b4.} 47. Rb6 Rb2 48. Nd3 {The position is equal.} Rb3
+49. Nc5 Rb1+ 50. Kf2 Ng5 {Accuracy: White = 58%, Black = 66%.} 1/2-1/2
+
+[Event "Sachovy Festival 2019"]
+[Site "Prague"]
+[Date "2019.06.18"]
+[Round "2"]
+[White "Ding, Liren"]
+[Black "Navara, David"]
+[Result "1-0"]
+[ECO "A63"]
+[WhiteElo "2805"]
+[BlackElo "2728"]
+[Annotator "TA"]
+[PlyCount "57"]
+[EventDate "2019.06.17"]
+[EventType "match"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,95,8,8,8,1,6,4,2,13,11,28,22,35,38,37,0,37,42,31,0,0,0,0,0,0,0,0,0,0,
+0,0,0,33,21,41,15,15,15,97,95,104,95,108,106,106,106,106,106,117,121,449,425,
+29948,29952,29951,29948,29961,29962,29975,29976,29976,29977,29977,29978,29978,
+29979,29979,29980,29979,29980,29981,29980,29985,29986]} 1. d4 Nf6 2. c4 e6 3.
+g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg2 Bg7 8. Nf3 O-O 9. O-O Re8 10. Re1
+a6 11. a4 Nbd7 12. e4 Ng4 13. Nd2 {A63: Modern Benoni: Fianchetto Variation: 9.
+..Nbd7} Nge5 14. Bf1 g5 (14... Nf8 15. a5 g5 16. f4 gxf4 17. gxf4 Ng4 18. Nf3
+f5 19. h3 fxe4 20. Nxe4 Nf6 {1/2-1/2 (34) Ding,L (2755)-Grischuk,A (2794)
+Tsaghkadzor 2015}) 15. f4 {[#] The position is equal.} Ng6 $146 ({Predecessor:
+} 15... gxf4 16. gxf4 Ng6 17. Nf3 Qf6 18. f5 Nde5 19. Nxe5 Nxe5 20. Bf4 Bh6 21.
+Bxe5 Rxe5 {0-1 (46) Duran Vega,S (2360)-Gallego Alcaraz,A (2511) Santa Clara
+2018}) 16. Nf3 g4 17. Nd2 $1 Bd4+ 18. Kg2 Nf6 19. Ne2 (19. Nc4 {feels hotter.}
+Bxc3 20. bxc3 Nxe4 21. Qc2 Nf6 22. Rxe8+ Qxe8 23. Kg1) 19... Nxe4 {aiming for .
+..Nf2.} 20. Nxd4 Nxd2 21. Rxe8+ (21. Bxd2 {with more complications.} cxd4 22.
+Rxe8+ Qxe8 23. Qc2 Bd7 24. Qd3) 21... Qxe8 22. Qxd2 {Black must now prevent
+Nc2.} Qe4+ 23. Kf2 {Threatens to win with Ne2.} Qxd4+ ({Avoid the trap} 23...
+Qxd5 $2 24. Nc2 $18) (23... cxd4 24. Bg2 $14) 24. Qxd4 cxd4 25. Bd2 Bd7 26. Rc1
+Bxa4 27. Rc7 Bb3 28. Rxb7 Bxd5 29. Rb4 {Played: Rb7-b6} 1-0
+
+[Event "Sachovy Festival 2019"]
+[Site "Prague"]
+[Date "2019.06.18"]
+[Round "2"]
+[White "Timman, Jan H"]
+[Black "Nguyen, Thai Dai Van"]
+[Result "0-1"]
+[ECO "A09"]
+[WhiteElo "2548"]
+[BlackElo "2548"]
+[Annotator "TA"]
+[PlyCount "78"]
+[EventDate "2019.06.17"]
+[EventType "match"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,78,-7,-19,-29,-23,-23,-20,-27,-29,-25,40,0,0,0,0,0,0,0,0,0,0,0,0,-18,
+-10,-23,-23,-56,-62,-225,-219,-360,-348,-352,-341,-414,-409,-493,-277,-282,
+-285,-274,-271,-271,-271,-286,-262,-273,-267,-273,-251,-387,-328,-439,-334,
+-529,-544,-527,-504,-737,-733,-1167,-1080,-1040,-1012,-29986,-29987,-29987,
+-29988,-29988,-29988]} 1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. O-O e5 5. c4 dxc4 6.
+Na3 {A09: Réti Opening: 1 Nf3 d5 2 c4} e4 (6... Nc6 7. Nxc4 Nge7 8. d3 O-O 9.
+Rb1 a5 10. b3 Be6 11. Bb2 f6 12. a3 Qd7 13. Re1 Rad8 14. Rc1 Bh6 15. Ncd2 Nf5
+16. Rc2 {0-1 (33) Hillarp Persson,T (2546)-Nabaty,T (2670) Stockholm 2018}) 7.
+Ne1 f5 $1 8. d3 $146 {The position is equal.} ({Predecessor:} 8. Nxc4 Nc6 9. d3
+Be6 10. Qa4 a6 11. Na5 Bd7 12. Nxb7 Qe7 13. dxe4 Nd4 {1-0 (57) Chirila,I (2566)
+-Smirnov,A (2569) chess.com INT 2019}) 8... cxd3 9. exd3 Nc6 ({Better is} 9...
+Nf6 $11) 10. Nb5 a6 11. Nc3 Nf6 12. Bf4 Be6 $36 {[%mdl 2048] Black fights for
+an advantage.} 13. dxe4 fxe4 14. Nc2 O-O 15. Re1 Bf5 16. Qxd8 Raxd8 {[%cal
+Ba8d8,Bd8d2,Bd2b2,Bb2b4][%mdl 32]} 17. Bxc7 Rd2 18. Ne3 Rxb2 19. Na4 $2 {[#]} (
+{White should try} 19. Rac1 $15) 19... Rb4 $1 $19 {[%cal Rb4a4]} 20. Nxf5 (20.
+Nc5 $142 Ne8 {[%mdl 64] Discovered Attack} 21. Bf4) 20... gxf5 21. Nc5 Nd5 $1 {
+[%csl LRa1,LRc7]} 22. Bd6 Rd8 23. Nxe4 fxe4 (23... Rxe4 $142 24. Bxe4 fxe4) 24.
+Bxb4 Bxa1 ({Less strong is} 24... Ncxb4 25. Rad1 $17) ({Inferior is} 24...
+Ndxb4 25. Rab1 $11) 25. Rxa1 Ndxb4 26. Bxe4 Rd4 27. f3 Nd5 28. Rc1 Rd2 29. a3
+Nce7 30. f4 (30. Rc2 $142 Rd4 31. Rb2) 30... b5 31. h4 a5 {[%cal Ba6a5,Ba5b4,
+Bb4b3,Bb3b2][%mdl 32]} 32. f5 (32. Rc5 {keeps fighting.} b4 33. axb4 axb4 34.
+Rb5) 32... b4 33. axb4 axb4 34. g4 b3 35. Ra1 b2 36. Ra8+ Kf7 37. g5 Nc3 {
+Black mates.} 38. g6+ hxg6 39. fxg6+ Kg7 {Accuracy: White = 31%, Black = 72%.}
+0-1
+
+[Event "Sachovy Festival 2019"]
+[Site "Prague"]
+[Date "2019.06.18"]
+[Round "3"]
+[White "Navara, David"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2728"]
+[BlackElo "2805"]
+[Annotator "TA"]
+[PlyCount "121"]
+[EventDate "2019.06.17"]
+[EventType "match"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,121,20,21,17,1,6,0,18,2,2,7,17,18,29,10,0,0,0,0,20,11,22,25,34,29,23,
+0,2,10,30,25,39,39,33,27,20,0,0,0,0,0,0,0,0,0,0,0,8,8,100,14,16,8,12,0,0,0,0,0,
+0,0,0,0,0,0,0,0,26,26,26,26,38,39,37,39,38,40,40,16,42,42,77,77,82,77,77,77,77,
+77,110,77,77,77,77,16,16,16,16,14,14,8,8,8,8,8]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6
+4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8. Rxe5 O-O 9. d4 Bf6 10. Re1
+Re8 {C67: Ruy Lopez: Berlin Defence: 4 0-0 Nxe4} 11. Rxe8+ (11. c3 Rxe1 12.
+Qxe1 Ne8 13. d5 c6 14. Qd1 b6 15. Bf4 Bb7 16. dxc6 dxc6 17. Nd2 c5 18. Nc4 Qxd1
+19. Rxd1 {1/2-1/2 (40) Anand,V (2774)-Caruana,F (2819) Karlsruhe/Baden Baden
+2019}) 11... Nxe8 12. d5 c6 13. Nc3 d6 14. Ne4 {[#]} Be7 $146 ({Predecessor:} 
+14... Be5 15. g3 {1/2-1/2 (15) Wang,H (2718)-Kryvoruchko,Y (2680) Sharjah 2019}
+) 15. c4 cxd5 16. cxd5 Bf5 17. Ng3 Bg6 18. Be3 Nf6 19. Qb3 Ng4 20. Bd2 Qb6 21.
+Qxb6 axb6 22. h3 Nf6 23. Bc4 b5 24. Bxb5 Nxd5 25. Bc4 Nb6 26. Bb3 Bf6 27. Bc3
+Bxc3 28. bxc3 Na4 29. Rd1 Nxc3 30. Rxd6 Kf8 31. f4 f6 32. Rd7 Nxa2 33. Ne2 {
+With the idea Nd4.} Ra3 {[#]} (33... Re8 $1 $11 34. Nd4 Nc1) 34. Rxb7 (34. Nd4
+$1 $16) 34... Be4 $11 35. Rb6 f5 36. g4 fxg4 37. hxg4 Bf3 {[%mdl 64] Double
+Attack} 38. Nd4 Bxg4 39. Rb8+ (39. Nc2 {looks sharper.} Ra7 40. Nd4 Ra3) 39...
+Ke7 40. Rb7+ Kf6 41. Rb6+ Ke7 42. Nc6+ Kd6 {White must now prevent ...Kc5.} 43.
+Ne5+ Kc7 44. Rc6+ Kb7 45. Bd5 {Strongly threatening Rc3+.} Nb4 46. Rc3+ {
+[%mdl 64] Discovered Attack} Nxd5 47. Rxa3 $14 {[%mdl 4096] Endgame KRN-KBN}
+Bf5 48. Nf7 Kc6 49. Kh2 g6 50. Kg3 h5 51. Ne5+ Kb5 52. Nf3 Be4 53. Nh4 Ne7 54.
+Kf2 Nd5 55. Rg3 Kc4 {[#]} 56. Rg5 (56. Rg1 $1 $16) 56... Nxf4 {aiming for ...
+Nh3+.The position is equal.} 57. Ke3 Ne6 58. Re5 Nc5 59. Rxe4+ Nxe4 60. Kxe4 g5
+61. Nf5 {Accuracy: White = 55%, Black = 53%.} 1/2-1/2
+
+[Event "Sachovy Festival 2019"]
+[Site "Prague"]
+[Date "2019.06.18"]
+[Round "3"]
+[White "Nguyen, Thai Dai Van"]
+[Black "Timman, Jan H"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[WhiteElo "2548"]
+[BlackElo "2548"]
+[Annotator "TA"]
+[PlyCount "112"]
+[EventDate "2019.06.17"]
+[EventType "match"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 20,112,39,40,41,33,75,51,50,50,77,72,84,88,113,85,96,87,87,47,70,46,87,
+74,75,68,129,67,125,124,135,129,129,133,185,164,146,141,228,213,246,128,199,
+166,203,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. a3
+Bxd2+ 6. Qxd2 O-O 7. e3 Bb7 8. Be2 d6 9. O-O Nbd7 10. b4 Qe7 11. Bb2 Rfe8 {
+E14: Queen's Indian: Classical Variation (4 e3)} (11... a5 12. b5 Ne4 13. Qc1
+f5 14. Ne1 Rae8 15. f3 Ng5 16. Nd3 e5 17. c5 bxc5 18. dxc5 dxc5 19. Nf2 Kh8 {
+0-1 (30) Sadzikowski,D (2590)-Kunin,V (2531) Germany 2017}) 12. Rfd1 Rad8 13.
+Qc2 c5 {White is slightly better.} 14. dxc5 $146 ({Predecessor:} 14. Qa4 Ra8
+15. Qb3 Rab8 16. Bc3 Ne4 17. Be1 Rec8 18. Rab1 {1-0 (37) Malich,B-Havansi,E
+Lugano 1968}) 14... bxc5 15. b5 e5 16. Nd2 e4 17. Qa4 Ra8 18. Qa5 Ne5 19. Nf1
+Red8 20. Rd2 a6 21. Qc3 $1 axb5 22. cxb5 Nd5 ({Black should try} 22... Qe6 $14)
+23. Qb3 ({White should play} 23. Qc2 $1 $16) 23... Nb6 (23... Nd3 $14) 24. a4
+$16 {[%cal Ba3a4,Ba4a5,Ba5a6][%mdl 32]} d5 25. a5 Nbc4 26. Rdd1 {Threatens to
+win with a6.} Rab8 ({Not} 26... Rxa5 $2 27. Rxa5 Nxa5 28. Qc3 $18) (26... Nxb2
+$16 27. Qxb2 Qf6) 27. Bxe5 Nxe5 28. a6 Ba8 (28... c4 $16 29. Qb2 Qf6) 29. b6 $1
+$18 c4 {[#]} 30. Qb1 (30. Qb5 $1 $18) 30... Nd3 (30... h6 $16 31. Qb5 Bc6) 31.
+Bxd3 exd3 {[#]} 32. b7 $2 ({White has to play} 32. Qb5 $1 $18) 32... Bxb7 $1
+$11 33. axb7 Rxb7 34. Qa2 Rdb8 35. Qa5 Rb5 36. Qc3 g6 (36... Qb4 $5 {[%cal
+Rb4c3]} 37. Qe5 Qb2 $11) 37. Nd2 Qb4 $1 {[%cal Rb4c3] The position is equal.}
+38. Rac1 Qxc3 39. Rxc3 Rb2 40. g3 Ra2 {aiming for ...Rbb2.} 41. e4 Rbb2 42.
+exd5 {Hoping for d6.} Rxd2 43. Rxd2 Rxd2 44. Rxc4 {[%mdl 4096] Endgame
+Strongly threatening d6. KR-KR} Kf8 45. Rd4 Ke7 46. d6+ Kd7 47. Kg2 Re2 48.
+Rxd3 Re6 49. Rf3 f6 50. Ra3 Kxd6 51. Ra7 Re7 52. Ra6+ Ke5 53. f4+ Kf5 54. Kf3 {
+[%csl Gf3][%cal Rg3g4]} h5 55. h3 {Intending g4+ and mate.} g5 56. fxg5 Kxg5 {
+Accuracy: White = 58%, Black = 39%.} 1/2-1/2
+
+[Event "Sachovy Festival 2019"]
+[Site "Prague"]
+[Date "2019.06.18"]
+[Round "4.1"]
+[White "Ding, Liren"]
+[Black "Navara, David"]
+[Result "1/2-1/2"]
+[ECO "A63"]
+[WhiteElo "2779"]
+[BlackElo "2684"]
+[Annotator "TA"]
+[PlyCount "94"]
+[EventDate "2019.06.17"]
+[EventType "match"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 23,94,13,16,20,25,25,25,0,62,28,28,0,0,0,0,0,0,0,0,0,0,0,0,-22,-28,-18,
+-37,-30,0,0,6,0,0,0,0,0,0,0,0,0,4,0,0,-1,-2,-16,-16,-85,-83,-85,-16,-16,-16,
+-16,-16,-16,-16,-16,-22,-30,-30,-30,-30,-30,-16,-16,-16,-30,-30,-37,-37,-37,
+-30]} 1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg2 Bg7 8.
+Nf3 O-O 9. O-O Re8 10. Re1 a6 11. a4 Nbd7 12. e4 Ng4 13. Nd2 {A63: Modern
+Benoni: Fianchetto Variation: 9...Nbd7} Nge5 {[#]} 14. Re3 $146 ({Predecessor:
+} 14. Bf1 Nf8 15. a5 g5 16. f4 gxf4 17. gxf4 Ng4 18. Nf3 f5 19. h3 fxe4 20.
+Nxe4 Nf6 {1/2-1/2 (34) Ding,L (2755)-Grischuk,A (2794) Tsaghkadzor 2015}) 14...
+Nb6 15. Qf1 {White has an edge.} a5 (15... g5 $11) 16. h3 c4 17. Kh2 Bd7 18. f4
+Nd3 {[#]} 19. Nxc4 $1 {[%mdl 512]} Nxc1 (19... Nxc4 20. Rxd3) 20. Rxc1 Nxc4 21.
+Qxc4 Qb6 22. Qe2 Rac8 23. Ra1 {[%cal Bc1a1,Ba1a2,Ba2b2][%mdl 32]} Bd4 24. Rd3
+Rc4 25. Rd2 Rxc3 26. bxc3 Bxc3 {[%mdl 64] Double Attack} 27. Raa2 Bxd2 28. Qxd2
+Qb4 29. Qxb4 axb4 $11 {[%mdl 4096] Endgame KRB-KRB} 30. Rb2 {Black must now
+prevent a5.} Bxa4 31. Rxb4 {[%mdl 64] Double Attack} b5 32. Bf1 Bc2 33. e5 ({
+Much worse is} 33. Bxb5 Rb8 $17) 33... dxe5 34. Bxb5 Rb8 {...Bd3! is the
+strong threat.} 35. d6 (35. fxe5 $11 {keeps the balance.} Bd3 36. d6) 35...
+exf4 36. gxf4 {[#]} Bd3 (36... Bf5 $1 $17 {[%cal Rf5d7]} 37. Rb3 Rb6) 37. d7
+Bxb5 {[#]} 38. Rxb5 $1 {[%mdl 512] KR-KR} Rd8 $1 (38... Rxb5 39. d8=Q+) 39. Rd5
+Kf8 40. h4 Ke7 41. Re5+ Kxd7 42. h5 Re8 {And now ...Rxe5 would win.} 43. Ra5
+Re3 44. hxg6 hxg6 45. f5 g5 {Threatens to win with ...Ke7.} 46. f6 Ke6 47. Rxg5
+Kxf6 {Accuracy: White = 49%, Black = 71%.} 1/2-1/2
+
+[Event "Sachovy Festival 2019"]
+[Site "Prague"]
+[Date "2019.06.18"]
+[Round "4.2"]
+[White "Timman, Jan"]
+[Black "Nguyen, Thai Dai Van"]
+[Result "0-1"]
+[ECO "C42"]
+[WhiteElo "2561"]
+[BlackElo "2286"]
+[Annotator "ChessBase"]
+[PlyCount "88"]
+[EventDate "2019.06.17"]
+[EventType "match"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "1200+10"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} Nf6 {
+[%emt 0:00:00]} 3. Nxe5 {[%emt 0:00:04]} d6 {[%emt 0:00:00]} 4. Nf3 {[%emt 0:
+00:03]} Nxe4 {[%emt 0:00:00]} 5. Qe2 {[%emt 0:00:14]} Qe7 {[%emt 0:00:00]} 6.
+d3 {[%emt 0:00:04]} Nf6 {[%emt 0:00:02]} 7. Bg5 {[%emt 0:00:07]} Qxe2+ {
+[%emt 0:02:13]} 8. Bxe2 {[%emt 0:00:04]} Be7 {[%emt 0:00:01]} 9. Nc3 {[%emt 0:
+00:07]} h6 {[%emt 0:01:20]} 10. Bh4 {[%emt 0:04:38]} Nbd7 {[%emt 0:07:07]} 11.
+O-O-O {[%emt 0:01:37]} Nf8 {[%emt 0:03:33]} 12. Rhe1 {[%emt 0:04:32]} Ng6 {
+[%emt 0:00:59]} 13. Bg3 {[%emt 0:01:36]} Nh5 {[%emt 0:00:34]} 14. Nd5 {[%emt 0:
+00:29]} Nxg3 {[%emt 0:00:51]} 15. hxg3 {[%emt 0:01:09]} Bd8 {[%emt 0:00:02]}
+16. d4 {[%emt 0:00:24]} O-O {[%emt 0:01:03]} 17. Bd3 {[%emt 0:00:01]} c6 {
+[%emt 0:00:03]} 18. Bxg6 {[%emt 0:00:03]} fxg6 {[%emt 0:00:02]} 19. Nf4 {
+[%emt 0:00:43]} Bf5 {[%emt 0:01:17]} 20. d5 {[%emt 0:01:34]} Bb6 {[%emt 0:00:
+08]} 21. Nd4 {[%emt 0:00:31]} Bxd4 {[%emt 0:01:02]} 22. Rxd4 {[%emt 0:00:01]}
+g5 {[%emt 0:00:01]} 23. Ne6 {[%emt 0:00:46]} Bxe6 {[%emt 0:00:04]} 24. dxe6 {
+[%emt 0:00:09]} Rxf2 {[%emt 0:01:18]} 25. Rxd6 {[%emt 0:00:02]} Rxg2 {[%emt 0:
+00:45]} 26. Re3 {[%emt 0:00:22]} Re8 {[%emt 0:01:23]} 27. Rd7 {[%emt 0:00:09]}
+b5 {[%emt 0:00:13]} 28. Rxa7 {[%emt 0:00:16]} h5 {[%emt 0:00:08]} 29. a4 {
+[%emt 0:00:23]} bxa4 {[%emt 0:00:05]} 30. Rxa4 {[%emt 0:00:03]} Kh7 {[%emt 0:
+00:32]} 31. Rc4 {[%emt 0:00:15]} Rf2 {[%emt 0:00:07]} 32. b4 {[%emt 0:00:16]}
+Rf6 {[%emt 0:00:08]} 33. Rxc6 {[%emt 0:00:40]} h4 {[%emt 0:00:01]} 34. g4 {
+[%emt 0:01:17]} Rf4 {[%emt 0:00:23]} 35. b5 {[%emt 0:00:01]} Rxg4 {[%emt 0:00:
+02]} 36. b6 {[%emt 0:00:01]} Rg3 {[%emt 0:00:16]} 37. Kd2 {[%emt 0:00:53]} Rg2+
+{[%emt 0:00:04]} 38. Kd3 {[%emt 0:00:12]} g4 {[%emt 0:00:01]} 39. b7 {[%emt 0:
+00:13]} h3 {[%emt 0:00:16]} 40. Rc8 {[%emt 0:01:13]} h2 {[%emt 0:00:01]} 41.
+Rxe8 {[%emt 0:00:21]} h1=Q {[%emt 0:00:02]} 42. Rh8+ {[%emt 0:00:18]} Kxh8 {
+[%emt 0:00:01]} 43. b8=Q+ {[%emt 0:00:01]} Kh7 {[%emt 0:00:01]} 44. Qb5 {
+[%emt 0:00:38]} Qf1+ {[%emt 0:01:11] Kd2} 0-1
+
+[Event "Sachovy Festival 2019"]
+[Site "Prague"]
+[Date "2019.06.18"]
+[Round "5.1"]
+[White "Navara, David"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[WhiteElo "2684"]
+[BlackElo "2779"]
+[Annotator "TA"]
+[PlyCount "79"]
+[EventDate "2019.06.17"]
+[EventType "match"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,79,-10,-2,0,7,-9,-2,-2,27,19,33,30,35,20,20,8,79,55,85,88,95,63,52,61,
+81,40,36,33,37,31,32,21,16,-15,-15,-41,0,0,0,0,0,0,6,5,4,13,13,13,332,13,13,13,
+13,13,13,13,13,13,13,13,13,13,13,13,13,0,0,0,0,0,0,0]} 1. c4 e5 2. b3 Nc6 3.
+Bb2 Nf6 4. Nf3 e4 5. Nd4 Bc5 6. Nf5 {A01: Nimzowitsch-Larsen Opening} O-O 7. e3
+d5 8. cxd5 Bxf5 $146 (8... Nb4 {keeps more tension.} 9. Ng3 Nfxd5 10. Qc1 Bb6
+11. Nc3 f5) ({Predecessor:} 8... Nb4 9. Ng3 Nbxd5 10. Be2 Re8 11. a3 Bd6 {
+1/2-1/2 (72) Rapport,R (2736)-Vidit,S (2707) Hengshui 2019}) 9. dxc6 bxc6 10.
+Na3 Nd5 11. Rc1 Be7 12. Nc4 Bf6 (12... c5 $11) 13. Ba3 $16 Re8 {[#]} 14. Na5 $1
+{[%cal Bc4a5,Ba5c6,Bc6d4,Bd4b5,Bb5c7,Bc7e8][%mdl 32]} Qd7 15. Nxc6 Nc3 16. Qc2
+a5 17. Be7 Nxa2 18. Qxa2 Bxe7 19. Bb5 {Strongly threatening Nd4.} Qd6 20. Nd4
+Bd7 21. Qa4 Bxb5 22. Nxb5 Qe5 (22... Qd3 $5 {[%cal Re8d8]} 23. Qc4 Rab8 24.
+Qxd3 exd3 $15) 23. Rc4 Bb4 24. Nxc7 Bxd2+ $1 25. Kf1 $1 ({Reject} 25. Kxd2 Qb2+
+26. Kd1 Rad8+ 27. Rd4 Rxd4+ 28. Qxd4 Qxb3+ 29. Kc1 (29. Ke1 $2 Rb8 $19) 29...
+Rc8 $17) 25... Qh5 {[%cal Rh5d1]} 26. Qa1 {Threatens to win with h3.} Rad8 $132
+{[%mdl 2048] Black puts up resistance} 27. Nxe8 {[%csl Ge8][%cal Ra1g7]} Bc3 $1
+28. Qxc3 {[%csl Ge8][%cal Rc3g7]} Rd1+ 29. Qe1 {Hoping for Nd6.} Qd5 $1 {
+[%cal Rd5d3] ( -> ...Qd3+). The position is equal.} 30. Rc1 Qb5+ {[%mdl 64] [#]
+Double Attack} 31. Kg1 Rxe1+ 32. Rxe1 {Nd6 is the strong threat.} Qxe8 $11 {
+[%mdl 4096] Endgame KQ-KRR} 33. g3 h5 34. h4 Qb5 35. Ra1 Qe2 36. Rh2 f6 37. Ra4
+Qd1+ 38. Kg2 Qf3+ 39. Kg1 Qd1+ 40. Kg2 {Accuracy: White = 68%, Black = 65%.}
+1/2-1/2
+
+[Event "Sachovy Festival 2019"]
+[Site "Prague"]
+[Date "2019.06.18"]
+[Round "5.2"]
+[White "Nguyen, Thai Dai Van"]
+[Black "Timman, Jan"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2286"]
+[BlackElo "2561"]
+[Annotator "ChessBase"]
+[PlyCount "61"]
+[EventDate "2019.06.17"]
+[EventType "match"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "1200+10"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:00]} e6 {[%emt 0:
+00:00]} 3. Nf3 {[%emt 0:00:00]} b6 {[%emt 0:00:00]} 4. g3 {[%emt 0:00:00]} Ba6
+{[%emt 0:00:00]} 5. Qc2 {[%emt 0:00:00]} Bb7 {[%emt 0:00:02]} 6. Bg2 {[%emt 0:
+00:02]} c5 {[%emt 0:00:01]} 7. d5 {[%emt 0:00:02]} exd5 {[%emt 0:00:03]} 8.
+cxd5 {[%emt 0:00:01]} Nxd5 {[%emt 0:00:03]} 9. O-O {[%emt 0:00:03]} Be7 {
+[%emt 0:00:03]} 10. Rd1 {[%emt 0:00:02]} Nc6 {[%emt 0:00:02]} 11. Qa4 {[%emt 0:
+00:55]} Nf6 {[%emt 0:00:15]} 12. Nh4 {[%emt 0:00:21]} O-O {[%emt 0:00:35]} 13.
+Nf5 {[%emt 0:00:06]} d5 {[%emt 0:00:12]} 14. Nc3 {[%emt 0:00:03]} Nd4 {[%emt 0:
+00:06]} 15. Nxd4 {[%emt 0:00:02]} cxd4 {[%emt 0:00:02]} 16. Qxd4 {[%emt 0:01:
+04]} Bc5 {[%emt 0:01:49]} 17. Qa4 {[%emt 0:03:45]} Qe8 {[%emt 0:01:18]} 18.
+Qxe8 {[%emt 0:00:03]} Rfxe8 {[%emt 0:00:06]} 19. e3 {[%emt 0:00:07]} Rac8 {
+[%emt 0:06:13]} 20. Bd2 {[%emt 0:01:41]} Bd6 {[%emt 0:01:51]} 21. Nb5 {[%emt 0:
+06:17]} Be5 {[%emt 0:00:40]} 22. Bc3 {[%emt 0:00:34]} Bxc3 {[%emt 0:00:18]} 23.
+Nxc3 {[%emt 0:00:01]} Rc5 {[%emt 0:00:01]} 24. Rd4 {[%emt 0:00:56]} Ne4 {
+[%emt 0:00:55]} 25. Bxe4 {[%emt 0:01:05]} dxe4 {[%emt 0:00:02]} 26. Rad1 {
+[%emt 0:00:04]} Kf8 {[%emt 0:01:09]} 27. Rd7 {[%emt 0:00:46]} Re7 {[%emt 0:00:
+08]} 28. Rd8+ {[%emt 0:00:21]} Re8 {[%emt 0:00:01]} 29. R8d7 {[%emt 0:00:49]}
+Re7 {[%emt 0:00:02]} 30. Rd8+ {[%emt 0:02:22]} Re8 {[%emt 0:00:02]} 31. R8d7 {
+[%emt 0:00:02]} 1/2-1/2
+
+[Event "Sachovy Festival 2019"]
+[Site "Prague"]
+[Date "2019.06.18"]
+[Round "6.1"]
+[White "Ding, Liren"]
+[Black "Navara, David"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2779"]
+[BlackElo "2684"]
+[Annotator "TA"]
+[PlyCount "92"]
+[EventDate "2019.06.17"]
+[EventType "match"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,92,0,0,0,0,0,12,2,4,4,4,9,15,0,0,0,0,-12,0,-4,0,-20,0,0,14,16,22,20,
+31,0,0,0,10,0,11,8,29,28,27,21,18,31,71,71,77,86,83,75,68,50,50,50,55,50,70,67,
+74,68,73,78,86,26,26,26,26,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2.
+c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 d5 6. cxd5 exd5 7. Bg2 {E15: Queen's Indian:
+4 g3 sidelines, 4 g3 Ba6 and 4 g3 Bb7 early deviations} Bd6 8. O-O O-O 9. Nb1 (
+9. Ne5 Re8 10. Ndc4 Bxc4 11. Nxc4 dxc4 12. Bxa8 c6 13. Bg5 Qc7 14. Bxf6 gxf6 {
+1-0 (26) Wojtaszek,R (2727)-Mamedyarov,S (2747) Huaian 2016}) 9... Re8 10. Re1
+Nbd7 {[%cal Bb8d7,Bd7f6,Bf6e4][%mdl 32]} 11. Nc3 c6 $146 ({Predecessor:} 11...
+h6 12. Nh4 Bb7 13. Qb3 c6 14. Nf5 Bf8 15. Bf4 {1/2-1/2 (15) Cvek,R (2532)
+-Babula,V (2594) Austria 2008}) 12. Bg5 h6 13. Bxf6 Nxf6 14. e3 Bb7 15. Rc1 Rb8
+16. Re2 Ne4 17. Rec2 Nxc3 18. Rxc3 c5 19. b3 Qf6 20. dxc5 bxc5 21. Rd3 Red8 22.
+Rd2 Bf8 (22... c4 $5) 23. Ne1 d4 24. exd4 cxd4 25. Bxb7 Rxb7 26. Qf3 Bb4 {[#]}
+27. Qxf6 $1 gxf6 {[#]} 28. Rd3 $1 Bxe1 29. Rxe1 $16 {[%mdl 4096] Endgame
+KRR-KRR} a5 30. Rc1 a4 31. bxa4 Rb4 $1 32. Ra3 Ra8 33. a5 Rb5 34. a6 Rb6 35. a7
+{Threatens to win with Rc7.} Rb7 36. Kf1 (36. Rc6 $16) 36... Rbxa7 $11 37. Rxa7
+Rxa7 {KR-KR} 38. Rc2 Kg7 39. Ke2 Ra3 {White must now prevent ...d3+.The
+position is equal.} 40. Kd1 (40. Rd2 {with more complications.} Ra4 41. Kf3 f5
+42. Rb2 Kf6 43. h4) 40... Kg6 41. Kc1 Kf5 42. Kb2 Ra8 43. f3 Rb8+ 44. Kc1 Ra8
+45. Kb2 Rb8+ 46. Kc1 Ra8 {Accuracy: White = 64%, Black = 70%.} 1/2-1/2
+
+[Event "Sachovy Festival 2019"]
+[Site "Prague"]
+[Date "2019.06.18"]
+[Round "6.2"]
+[White "Timman, Jan"]
+[Black "Nguyen, Thai Dai Van"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2561"]
+[BlackElo "2286"]
+[Annotator "RC"]
+[PlyCount "88"]
+[EventDate "2019.06.17"]
+[EventType "match"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "1200+10"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} Nf6 {
+[%emt 0:00:00]} 3. Nxe5 {[%emt 0:00:00]} d6 {[%emt 0:00:00]} 4. Nf3 {[%emt 0:
+00:01]} Nxe4 {[%emt 0:00:00]} 5. Qe2 {[%emt 0:00:02]} Qe7 {[%emt 0:00:00]} 6.
+d3 {[%emt 0:00:03]} Nf6 {[%emt 0:00:00]} 7. Bg5 {[%emt 0:00:03]} Qxe2+ {
+[%emt 0:00:04]} 8. Bxe2 {[%emt 0:00:03]} Be7 {[%emt 0:00:02]} 9. Nc3 {[%emt 0:
+00:03]} h6 {[%emt 0:00:04]} 10. Bh4 {[%emt 0:00:06]} Be6 {[%emt 0:00:39]} 11.
+Nd4 {[%emt 0:00:49]} Nc6 {[%emt 0:00:01]} 12. Nxc6 {[%emt 0:03:07]} bxc6 {
+[%emt 0:00:02]} 13. Bf3 {[%emt 0:00:55]} Kd7 {[%emt 0:01:39]} 14. O-O-O {
+[%emt 0:00:28]} Rab8 {[%emt 0:00:35]} 15. Rhe1 {[%emt 0:01:27]} g5 {[%emt 0:03:
+53]} 16. Bg3 {[%emt 0:00:02]} Nd5 {[%emt 0:00:11]} 17. Ne2 {[%emt 0:02:46]} c5
+{[%emt 0:07:41]} 18. c4 {[%emt 0:00:27]} Nb6 {[%emt 0:01:24]} 19. Bh5 {[%emt 0:
+01:53]} f5 {[%emt 0:00:53]} 20. f4 {[%emt 0:00:04]} Bf6 {[%emt 0:00:01]} 21. b3
+{[%emt 0:00:04]} Rbf8 {[%emt 0:03:23]} 22. d4 {[%emt 0:00:33]} cxd4 {[%emt 0:
+00:01]} 23. Nxd4 {[%emt 0:00:01]} Bf7 {[%emt 0:00:51]} 24. Bxf7 {[%emt 0:02:26]
+} Rxf7 {[%emt 0:00:02]} 25. fxg5 {[%emt 0:02:08]} Bxg5+ {[%emt 0:01:39]} 26.
+Kc2 {[%emt 0:00:02]} Rg8 {[%emt 0:00:12]} 27. c5 {[%emt 0:01:03]} dxc5 {
+[%emt 0:00:31]} 28. Nxf5+ {[%emt 0:00:03]} Kc6 {[%emt 0:00:02]} 29. Re6+ {
+[%emt 0:00:35]} Kb7 {[%emt 0:00:09]} 30. Nxh6 {[%emt 0:00:02]} Bxh6 {[%emt 0:
+00:02]} 31. Rxh6 {[%emt 0:00:02]} c4 {[%emt 0:00:03]} 32. Rh5 {[%emt 0:01:38]}
+cxb3+ {[%emt 0:00:11]} 33. axb3 {[%emt 0:00:02]} c6 {[%emt 0:00:06]} 34. b4 {
+[%emt 0:00:39]} Nd5 {[%emt 0:00:05]} 35. Rd4 {[%emt 0:00:47]} Ne3+ {[%emt 0:00:
+01]} 36. Kd3 {[%emt 0:00:34]} Nf5 {[%emt 0:00:21]} 37. Rf4 {[%emt 0:01:24]}
+Rd7+ {[%emt 0:00:02]} 38. Kc4 {[%emt 0:00:06]} Nxg3 {[%emt 0:00:34]} 39. hxg3 {
+[%emt 0:00:01]} Rxg3 {[%emt 0:00:03]} 40. b5 {[%emt 0:00:14]} Rc7 {[%emt 0:00:
+39]} 41. Kb4 {[%emt 0:00:44]} c5+ {[%emt 0:00:14]} 42. Rxc5 {[%emt 0:00:11]}
+Rxc5 {[%emt 0:00:02]} 43. Kxc5 {[%emt 0:00:01]} Rg5+ {[%emt 0:00:01]} 44. Kb4 {
+[%emt 0:00:04]} Rxg2 {[%emt 0:00:01]} 1/2-1/2
+
+[Event "Sachovy Festival 2019"]
+[Site "Prague"]
+[Date "2019.06.18"]
+[Round "7.1"]
+[White "Navara, David"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[ECO "A25"]
+[WhiteElo "2684"]
+[BlackElo "2779"]
+[Annotator "TA"]
+[PlyCount "60"]
+[EventDate "2019.06.17"]
+[EventType "match"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 19,60,15,2,0,22,37,23,24,31,24,35,33,20,27,38,39,34,18,22,16,14,6,12,0,
+0,0,0,0,0,0,0,0,0,0,0,-6,-6,-6,0,0,0,0,0]} 1. c4 e5 2. b3 Nc6 3. Bb2 g6 4. g3
+Bg7 5. Bg2 Nge7 6. Nc3 O-O 7. e3 d6 8. Nge2 Be6 9. O-O d5 10. cxd5 Nxd5 11. Na4
+{A25: English Opening vs King's Indian with ...Nc6 but without early d3} (11.
+a3 Nxc3 12. Bxc3 Bd5 13. e4 Be6 14. Qc2 Qd6 15. d3 Rfd8 16. Rfd1 a5 17. Qb2 Ra6
+18. b4 axb4 19. axb4 Rxa1 20. Rxa1 Qxd3 {1-0 (63) Granda Zuniga,J (2636)
+-Mamedyarov,S (2733) San Sebastian 2012}) 11... Qe7 $146 ({Predecessor:} 11...
+b6 12. d4 exd4 13. Nxd4 Nxd4 14. Bxd4 c5 15. Bxg7 Kxg7 16. Qd2 Rc8 17. Rfd1 Nb4
+18. a3 Qxd2 19. Rxd2 {1/2-1/2 (37) Eliet,N (2422)-Nataf,I (2545) France 2003})
+12. d4 exd4 13. Nxd4 {White has an edge.} Nxd4 14. Bxd4 Rfd8 15. Bxg7 Kxg7 16.
+Qd4+ Kg8 17. Nc5 c6 18. Nxe6 Qxe6 {The position is equal.} 19. Rfd1 Rd7 20. Qc5
+b6 21. Qa3 a5 22. Qb2 Rad8 23. Rd2 b5 24. a3 b4 25. axb4 axb4 26. Bxd5 Rxd5 27.
+Rxd5 Qxd5 $11 {KQR-KQR} 28. Qf6 Qd6 29. Qxd6 Rxd6 30. Rc1 Rd3 {Accuracy: White
+= 80%, Black = 79%.} 1/2-1/2
+
+[Event "Sachovy Festival 2019"]
+[Site "Prague"]
+[Date "2019.06.18"]
+[Round "7.2"]
+[White "Nguyen, Thai Dai Van"]
+[Black "Timman, Jan"]
+[Result "0-1"]
+[ECO "E62"]
+[WhiteElo "2286"]
+[BlackElo "2561"]
+[Annotator "ChessBase"]
+[PlyCount "130"]
+[EventDate "2019.06.17"]
+[EventType "match"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "1200+10"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:00]} g6 {[%emt 0:
+00:08]} 3. Nf3 {[%emt 0:00:12]} Bg7 {[%emt 0:00:02]} 4. g3 {[%emt 0:00:01]} O-O
+{[%emt 0:00:12]} 5. Bg2 {[%emt 0:00:02]} d6 {[%emt 0:00:02]} 6. O-O {[%emt 0:
+00:04]} Bf5 {[%emt 0:00:08]} 7. Nc3 {[%emt 0:02:11]} c6 {[%emt 0:00:08]} 8. Nh4
+{[%emt 0:00:59]} Be6 {[%emt 0:00:22]} 9. b3 {[%emt 0:00:15]} d5 {[%emt 0:00:12]
+} 10. cxd5 {[%emt 0:00:08]} cxd5 {[%emt 0:00:15]} 11. Bb2 {[%emt 0:01:55]} Nc6
+{[%emt 0:00:04]} 12. e3 {[%emt 0:00:02]} Bg4 {[%emt 0:01:00]} 13. Bf3 {[%emt 0:
+02:19]} Bh3 {[%emt 0:00:52]} 14. Bg2 {[%emt 0:00:38]} Qd7 {[%emt 0:00:48]} 15.
+Rc1 {[%emt 0:00:07]} Rac8 {[%emt 0:00:32]} 16. Qe2 {[%emt 0:01:08]} Bxg2 {
+[%emt 0:00:23]} 17. Nxg2 {[%emt 0:00:23]} h5 {[%emt 0:02:28]} 18. Rfd1 {
+[%emt 0:00:14]} Bh6 {[%emt 0:00:33]} 19. Nh4 {[%emt 0:00:42]} Rfd8 {[%emt 0:01:
+28]} 20. Nf3 {[%emt 0:00:12]} Qh3 {[%emt 0:00:32]} 21. Qf1 {[%emt 0:00:19]} Qf5
+{[%emt 0:00:10]} 22. Nh4 {[%emt 0:03:07]} Qe6 {[%emt 0:00:21]} 23. Na4 {
+[%emt 0:00:37]} b6 {[%emt 0:00:18]} 24. Nc3 {[%emt 0:01:14]} g5 {[%emt 0:00:56]
+} 25. Nf3 {[%emt 0:00:44]} g4 {[%emt 0:01:16]} 26. Ne5 {[%emt 0:01:20]} Nxe5 {
+[%emt 0:00:39]} 27. dxe5 {[%emt 0:00:02]} Nh7 {[%emt 0:00:01]} 28. h4 {[%emt 0:
+03:16]} d4 {[%emt 0:02:43]} 29. Rxd4 {[%emt 0:01:16]} Rxd4 {[%emt 0:00:05]} 30.
+exd4 {[%emt 0:00:01]} Bxc1 {[%emt 0:00:05]} 31. Qxc1 {[%emt 0:00:01]} Qf5 {
+[%emt 0:00:22]} 32. Qd2 {[%emt 0:00:21]} Nf8 {[%emt 0:00:13]} 33. Nd5 {[%emt 0:
+00:19]} Ng6 {[%emt 0:00:29]} 34. Ne3 {[%emt 0:00:01]} Qb1+ {[%emt 0:00:33]} 35.
+Kh2 {[%emt 0:00:04]} Qxa2 {[%emt 0:00:59]} 36. e6 {[%emt 0:00:17]} Qxb3 {
+[%emt 0:00:41]} 37. d5 {[%emt 0:00:01]} f6 {[%emt 0:01:05]} 38. Bd4 {[%emt 0:
+01:16]} Qb1 {[%emt 0:00:38]} 39. Bc3 {[%emt 0:00:19]} Qe4 {[%emt 0:00:14]} 40.
+Ng2 {[%emt 0:00:33]} Kg7 {[%emt 0:00:52]} 41. Ne3 {[%emt 0:00:00]} Rd8 {
+[%emt 0:00:44]} 42. Qa2 {[%emt 0:00:00]} Qd3 {[%emt 0:00:40]} 43. Ba1 {[%emt 0:
+00:18]} a5 {[%emt 0:00:16]} 44. Qa4 {[%emt 0:00:07]} b5 {[%emt 0:01:07]} 45.
+Qxa5 {[%emt 0:00:04]} Rxd5 {[%emt 0:00:10]} 46. Nxd5 {[%emt 0:00:04]} Qxd5 {
+[%emt 0:00:01]} 47. Qb6 {[%emt 0:00:15]} Qf5 {[%emt 0:00:51]} 48. Bd4 {[%emt 0:
+00:10]} Nf8 {[%emt 0:00:06]} 49. Bc5 {[%emt 0:00:05]} Nxe6 {[%emt 0:00:06]} 50.
+Bxe7 {[%emt 0:00:01]} Qe5 {[%emt 0:00:20]} 51. Qb7 {[%emt 0:00:21]} Kg6 {
+[%emt 0:00:07]} 52. Qc8 {[%emt 0:00:08]} Ng7 {[%emt 0:00:03]} 53. Bf8 {[%emt 0:
+00:16]} Qf5 {[%emt 0:00:13]} 54. Qxf5+ {[%emt 0:00:31]} Nxf5 {[%emt 0:00:02]}
+55. Kg2 {[%emt 0:00:00]} Nd4 {[%emt 0:00:02]} 56. Bc5 {[%emt 0:00:01]} Nf3 {
+[%emt 0:00:12]} 57. Kf1 {[%emt 0:00:05]} Kf5 {[%emt 0:00:01]} 58. Ke2 {[%emt 0:
+00:01]} Ke4 {[%emt 0:00:01]} 59. Be7 {[%emt 0:00:15]} f5 {[%emt 0:00:00]} 60.
+Bb4 {[%emt 0:00:22]} Ne5 {[%emt 0:00:00]} 61. Bc5 {[%emt 0:00:14]} Nd3 {
+[%emt 0:00:00]} 62. Bd6 {[%emt 0:00:04]} b4 {[%emt 0:00:00]} 63. Kd2 {[%emt 0:
+00:13]} b3 {[%emt 0:00:01]} 64. Kc3 {[%emt 0:00:06]} b2 {[%emt 0:00:05]} 65.
+Kc2 {[%emt 0:00:01]} Kf3 {[%emt 0:00:02]} 0-1
+
+[Event "Sachovy Festival 2019"]
+[Site "Prague"]
+[Date "2019.06.19"]
+[Round "8.1"]
+[White "Ding, Liren"]
+[Black "Navara, David"]
+[Result "1-0"]
+[ECO "D20"]
+[WhiteElo "2805"]
+[BlackElo "2734"]
+[Annotator "TA"]
+[PlyCount "81"]
+[EventDate "2019.06.17"]
+[EventType "match"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,81,17,17,20,17,13,12,12,18,18,10,40,44,78,46,61,43,76,25,68,69,63,43,
+117,112,113,72,88,60,54,0,0,0,0,0,25,20,70,71,71,44,226,198,179,162,238,242,
+281,235,464,464,723,216,730,714,728,714,692,635,633,633,671,675,674,672,29987,
+29988,29998,29999]} 1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 Bb4+ 5. Nc3 exd4 6.
+Qxd4 Qxd4 7. Nxd4 Nf6 8. f3 Bc5 {D20: Queen's Gambit Accepted: 3 e3 and 3 e4}
+9. Be3 Nc6 10. Nc2 Bxe3 {The position is equal.} 11. Nxe3 Be6 12. Bxc4 Ke7 $146
+({Predecessor:} 12... Bxc4 13. Nxc4 O-O-O 14. Rd1 Nd7 15. Ke2 Nde5 16. Nxe5
+Nxe5 {1-0 (50) Ju,W (2568)-Krush,I (2434) Khanty-Mansiysk 2018}) 13. O-O-O Rhd8
+14. Bd5 $36 {[%mdl 2048] White is pushing.} Na5 15. b3 Rac8 16. g4 (16. b4 $16
+Nc6 17. Bxc6 bxc6 18. Ne2) 16... c5 17. h4 b6 18. Kb2 Nxd5 (18... Kf8 $14) 19.
+exd5 $16 Bd7 20. h5 h6 21. g5 hxg5 22. h6 (22. Rdg1 $14) 22... Rh8 $11 23. hxg7
+Rxh1 24. Rxh1 {[#] Threatens to win with Rh8.} Kf6 25. Rg1 Kg6 26. f4 f6 27.
+fxg5 f5 $2 ({Black should try} 27... fxg5 $14 28. Ne4 Kxg7) 28. Ng2 Kxg7 29.
+Nf4 Nb7 (29... Rh8 $142) 30. Nh5+ $18 Kg6 {[#]} 31. Nf6 $1 {aiming for Ne2.}
+Be8 $2 (31... Rd8 {was called for.} 32. Ne2 f4) 32. Ne2 Bf7 (32... f4 $142 33.
+Nxf4+ Kf5) 33. Nf4+ Kg7 34. Re1 Rh8 35. Re7 Rh2+ 36. Kc1 Nd6 37. Rd7 Rh1+ 38.
+Kd2 Nb5 39. N6h5+ Kg8 40. g6 Bxg6 41. Nf6+ {Accuracy: White = 76%, Black = 39%.
+} ({Stronger than} 41. Nxg6 Rxh5 42. Ke3 Rh7 $11) 1-0
+
+[Event "Sachovy Festival 2019"]
+[Site "Prague"]
+[Date "2019.06.19"]
+[Round "8.2"]
+[White "Timman, Jan H"]
+[Black "Nguyen, Thai Dai Van"]
+[Result "0-1"]
+[ECO "A14"]
+[WhiteElo "2549"]
+[BlackElo "2529"]
+[Annotator "ChessBase"]
+[PlyCount "128"]
+[EventDate "2019.06.17"]
+[EventType "match"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "1200+10"]
+
+1. c4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. g3 {[%emt 0:00:00]} e6 {[%emt 0:
+00:00]} 3. Nf3 {[%emt 0:00:05]} d5 {[%emt 0:00:03]} 4. b3 {[%emt 0:00:07]} Be7
+{[%emt 0:00:10]} 5. Bb2 {[%emt 0:00:11]} O-O {[%emt 0:00:08]} 6. Bg2 {[%emt 0:
+00:03]} c5 {[%emt 0:00:18]} 7. O-O {[%emt 0:01:24]} Nc6 {[%emt 0:00:02]} 8. e3
+{[%emt 0:01:06]} b6 {[%emt 0:00:15]} 9. Nc3 {[%emt 0:00:38]} Ba6 {[%emt 0:00:
+07]} 10. d3 {[%emt 0:00:10]} Rc8 {[%emt 0:00:59]} 11. Qe2 {[%emt 0:01:34]} Qc7
+{[%emt 0:01:15]} 12. Nb5 {[%emt 0:00:56]} Qb8 {[%emt 0:00:32]} 13. e4 {[%emt 0:
+00:10]} dxe4 {[%emt 0:09:47]} 14. dxe4 {[%emt 0:00:02]} e5 {[%emt 0:00:01]} 15.
+Nc3 {[%emt 0:02:59]} Nd4 {[%emt 0:00:16]} 16. Qd1 {[%emt 0:00:12]} Rfd8 {
+[%emt 0:00:45]} 17. Nd5 {[%emt 0:00:08]} Nxd5 {[%emt 0:00:03]} 18. exd5 {
+[%emt 0:00:02]} b5 {[%emt 0:00:22]} 19. Re1 {[%emt 0:00:26]} Bf6 {[%emt 0:01:
+59]} 20. Bh3 {[%emt 0:00:53]} bxc4 {[%emt 0:03:13]} 21. Bxc8 {[%emt 0:00:04]}
+Rxc8 {[%emt 0:00:20]} 22. Nd2 {[%emt 0:01:22]} cxb3 {[%emt 0:00:09]} 23. axb3 {
+[%emt 0:00:02]} Bb7 {[%emt 0:00:29]} 24. Ne4 {[%emt 0:01:54]} Bxd5 {[%emt 0:00:
+02]} 25. Nxf6+ {[%emt 0:00:33]} gxf6 {[%emt 0:00:01]} 26. Bxd4 {[%emt 0:00:21]}
+cxd4 {[%emt 0:00:02]} 27. Qg4+ {[%emt 0:00:23]} Kh8 {[%emt 0:00:07]} 28. Qf5 {
+[%emt 0:00:12]} Kg7 {[%emt 0:00:15]} 29. Qg4+ {[%emt 0:00:02]} Kh8 {[%emt 0:00:
+01]} 30. Ra6 {[%emt 0:02:58]} Be6 {[%emt 0:00:16]} 31. Qf3 {[%emt 0:00:01]} Kg7
+{[%emt 0:00:19]} 32. h4 {[%emt 0:00:17]} Rc3 {[%emt 0:01:20]} 33. Qe4 {[%emt 0:
+00:02]} Rxb3 {[%emt 0:00:20]} 34. h5 {[%emt 0:00:54]} Qb7 {[%emt 0:00:38]} 35.
+Qxb7 {[%emt 0:00:55]} Rxb7 {[%emt 0:00:01]} 36. f4 {[%emt 0:00:01]} exf4 {
+[%emt 0:00:30]} 37. gxf4 {[%emt 0:00:03]} d3 {[%emt 0:00:26]} 38. Kf2 {[%emt 0:
+00:18]} Rb5 {[%emt 0:00:29]} 39. Ke3 {[%emt 0:00:40]} Rxh5 {[%emt 0:00:02]} 40.
+Kxd3 {[%emt 0:00:16]} Rh3+ {[%emt 0:00:02]} 41. Kd4 {[%emt 0:00:09]} h5 {
+[%emt 0:00:09]} 42. Rxa7 {[%emt 0:00:10]} Kg6 {[%emt 0:00:02]} 43. Ra5 {
+[%emt 0:00:10]} Rg3 {[%emt 0:00:16]} 44. Ke4 {[%emt 0:00:33]} Bg4 {[%emt 0:00:
+06]} 45. Re3 {[%emt 0:00:33]} Rg1 {[%emt 0:00:15]} 46. Ra8 {[%emt 0:00:11]} Kg7
+{[%emt 0:00:16]} 47. Rb3 {[%emt 0:00:15]} Re1+ {[%emt 0:00:06]} 48. Re3 {
+[%emt 0:00:05]} Rf1 {[%emt 0:00:06]} 49. Rg3 {[%emt 0:00:11]} f5+ {[%emt 0:00:
+13]} 50. Ke3 {[%emt 0:00:01]} h4 {[%emt 0:00:02]} 51. Rg2 {[%emt 0:00:01]} Rf3+
+{[%emt 0:00:04]} 52. Kd2 {[%emt 0:00:04]} h3 {[%emt 0:00:04]} 53. Rh2 {[%emt 0:
+00:01]} Rxf4 {[%emt 0:00:02]} 54. Ra3 {[%emt 0:00:05]} Re4 {[%emt 0:00:16]} 55.
+Re3 {[%emt 0:00:04]} Kg6 {[%emt 0:00:02]} 56. Kd3 {[%emt 0:00:21]} Ra4 {
+[%emt 0:00:05]} 57. Re8 {[%emt 0:01:02]} Kg5 {[%emt 0:00:03]} 58. Ke3 {[%emt 0:
+00:10]} Ra3+ {[%emt 0:00:04]} 59. Kf2 {[%emt 0:00:02]} Kf4 {[%emt 0:00:24]} 60.
+Rb8 {[%emt 0:00:27]} Rf3+ {[%emt 0:00:06]} 61. Kg1 {[%emt 0:00:02]} Kg3 {
+[%emt 0:00:03]} 62. Rhb2 {[%emt 0:01:23]} f4 {[%emt 0:00:19]} 63. Rd2 {[%emt 0:
+00:53]} Re3 {[%emt 0:00:10]} 64. Rb1 {[%emt 0:00:03]} Be2 {[%emt 0:00:15]} 0-1
+
+[Event "Sachovy Festival 2019"]
+[Site "Prague"]
+[Date "2019.06.19"]
+[Round "9.1"]
+[White "Navara, David"]
+[Black "Ding, Liren"]
+[Result "0-1"]
+[ECO "C67"]
+[WhiteElo "2734"]
+[BlackElo "2805"]
+[Annotator "TA"]
+[PlyCount "78"]
+[EventDate "2019.06.17"]
+[EventType "match"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,78,21,21,18,6,11,0,11,14,6,12,7,5,50,36,41,43,51,50,50,51,81,51,66,
+66,67,53,85,62,69,66,66,68,66,60,65,72,63,8,13,-231,-225,-291,-290,-330,-323,
+-549,-331,-618,-611,-4133,-3214,-1485,-1256,-29957,-29955,-12831,-11309,-5757,
+-5773,-29982,-29979]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6.
+Nxe5 Be7 7. Bf1 Nxe5 8. Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 {C67: Ruy Lopez: Berlin
+Defence: 4 0-0 Nxe4} 11. Rxe8+ Nxe8 12. d5 d6 {The position is equal.} 13. Nd2
+c6 14. Nc4 cxd5 15. Qxd5 {[#]} Be7 $146 ({Predecessor:} 15... Qc7 16. Qd3 Be6
+17. Ne3 Rd8 18. c4 {1-0 (46) Howell,D (2697)-McShane,L (2667) Germany 2019})
+16. Bf4 Nf6 17. Qd3 {[%cal Rc4d6]} d5 18. Ne3 Be6 19. Be5 Nd7 20. Bd4 Nc5 21.
+Qe2 Qc7 22. Rd1 Rd8 23. Qf3 Ne4 24. Bd3 Nc5 25. Bf5 Bf8 26. c3 Bxf5 27. Qxf5
+Ne6 28. Nxd5 (28. Qg4 $14) 28... Qc4 $11 29. Bxa7 $2 (29. Be3 $11 {and White
+has nothing to worry.}) 29... Qa4 $40 {[%cal Ra4d1][%mdl 192] [#] Double
+Attack. Black wants a kill.} 30. Rd3 Qxa2 {( -> ...Qb1+)} ({Don't take} 30...
+Qxa7 31. a3 $19) 31. h4 Qxa7 32. Rg3 $2 (32. Kh2 {was necessary.}) 32... Kh8 {
+Threatens to win with ...Bd6.} 33. Qxf7 $2 (33. Rf3) 33... Rxd5 34. Qxe6 Rd1+
+35. Kh2 Qxf2 36. Qe4 h5 37. Rg6 Bd6+ 38. Rxd6 Rxd6 39. Qe8+ {[#]} Kh7 $1 {
+Accuracy: White = 29%, Black = 58%.} 0-1
+
+[Event "Sachovy Festival 2019"]
+[Site "Prague"]
+[Date "2019.06.19"]
+[Round "9.2"]
+[White "Nguyen, Thai Dai Van"]
+[Black "Timman, Jan H"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2529"]
+[BlackElo "2549"]
+[Annotator "ChessBase"]
+[PlyCount "71"]
+[EventDate "2019.06.17"]
+[EventType "match"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "1200+10"]
+
+1. d4 {[%emt 0:00:00]} d6 {[%emt 0:00:03]} 2. e4 {[%emt 0:00:26]} Nf6 {[%emt 0:
+00:10]} 3. Nc3 {[%emt 0:00:02]} g6 {[%emt 0:00:02]} 4. Bg5 {[%emt 0:01:53]} Bg7
+{[%emt 0:00:07]} 5. Qd2 {[%emt 0:00:02]} h6 {[%emt 0:00:10]} 6. Bf4 {[%emt 0:
+00:56]} g5 {[%emt 0:01:34]} 7. Bg3 {[%emt 0:00:01]} Nh5 {[%emt 0:00:02]} 8.
+O-O-O {[%emt 0:00:34]} c6 {[%emt 0:00:06]} 9. Be2 {[%emt 0:00:55]} Nxg3 {
+[%emt 0:00:04]} 10. hxg3 {[%emt 0:00:02]} b5 {[%emt 0:00:31]} 11. f4 {[%emt 0:
+01:21]} b4 {[%emt 0:00:44]} 12. Nb1 {[%emt 0:00:54]} gxf4 {[%emt 0:03:08]} 13.
+gxf4 {[%emt 0:00:02]} Qa5 {[%emt 0:00:02]} 14. a3 {[%emt 0:00:48]} Na6 {
+[%emt 0:00:29]} 15. Bxa6 {[%emt 0:01:29]} Qxa6 {[%emt 0:00:01]} 16. Qxb4 {
+[%emt 0:00:57]} c5 {[%emt 0:01:28]} 17. dxc5 {[%emt 0:00:18]} dxc5 {[%emt 0:00:
+02]} 18. Qd2 {[%emt 0:02:08]} O-O {[%emt 0:00:21]} 19. Nf3 {[%emt 0:00:47]} Rb8
+{[%emt 0:00:32]} 20. e5 {[%emt 0:00:02]} Rb6 {[%emt 0:03:33]} 21. Qc3 {[%emt 0:
+00:25]} Be6 {[%emt 0:00:02]} 22. Rd2 {[%emt 0:02:47]} Rfb8 {[%emt 0:01:47]} 23.
+Rhd1 {[%emt 0:00:01]} Rxb2 {[%emt 0:00:28]} 24. Rd8+ {[%emt 0:01:38]} Bf8 {
+[%emt 0:01:06]} 25. Qxb2 {[%emt 0:01:11]} Rxb2 {[%emt 0:00:02]} 26. Kxb2 {
+[%emt 0:00:02]} Qb5+ {[%emt 0:00:41]} 27. Kc1 {[%emt 0:00:16]} Bf5 {[%emt 0:00:
+29]} 28. Nc3 {[%emt 0:00:44]} Qa5 {[%emt 0:01:05]} 29. Kb2 {[%emt 0:00:08]}
+Qb6+ {[%emt 0:01:54]} 30. Kc1 {[%emt 0:00:01]} Qa5 {[%emt 0:00:01]} 31. Kb2 {
+[%emt 0:00:01]} Qb6+ {[%emt 0:00:16]} 32. Kc1 {[%emt 0:00:01]} f6 {[%emt 0:00:
+01]} 33. Nd5 {[%emt 0:01:00]} Qe6 {[%emt 0:00:01]} 34. exf6 {[%emt 0:00:22]}
+exf6 {[%emt 0:00:12]} 35. Re1 {[%emt 0:00:04]} Be4 {[%emt 0:00:05]} 36. Rxe4 {
+[%emt 0:00:03]} 1-0
+
+[Event "Sachovy Festival 2019"]
+[Site "Prague"]
+[Date "2019.06.19"]
+[Round "10.1"]
+[White "Ding, Liren"]
+[Black "Navara, David"]
+[Result "1-0"]
+[ECO "B13"]
+[WhiteElo "2805"]
+[BlackElo "2734"]
+[Annotator "TA"]
+[PlyCount "107"]
+[EventDate "2019.06.17"]
+[EventType "match"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 11,107,10,13,7,10,7,22,1,27,22,25,16,23,15,29,2,16,9,13,0,23,0,15,0,19,
+16,58,43,12,22,67,29,16,47,83,61,127,79,78,79,146,130,148,141,137,96,114,113,
+111,105,137,145,146,110,111,66,140,156,407,397,400,400,404,391,404,402,388,402,
+393,304,327,335,357,304,340,247,310,290,393,389,410,384,460,454,552,551,543,
+531,654,654,653,647,654,640,6087,6087,5522,5081]} 1. e4 c6 2. d4 d5 3. exd5
+cxd5 4. Bd3 Nc6 5. c3 Nf6 6. h3 g6 7. Nf3 {B13: Caro-Kann: Exchange Variation
+and Panov-Botvinnik Attack} Bf5 8. Be2 Bg7 9. O-O {The position is equal.} O-O
+10. Bf4 Ne4 11. Nbd2 f6 $146 ({Predecessor:} 11... Re8 12. Re1 h6 13. Bf1 g5
+14. Bh2 Qd7 15. Nxe4 Bxe4 {1-0 (35) Caruana,F (2828)-Shankland,S (2725) chess.
+com INT 2019}) 12. Nxe4 Bxe4 13. Nd2 Bf5 $1 14. Bg3 e5 15. dxe5 fxe5 16. Re1
+Kh8 17. Nf1 d4 18. Bf3 Rc8 19. Nd2 Qb6 20. Qb3 Qa6 21. Ne4 Na5 22. Qa3 dxc3 23.
+bxc3 {Black must now prevent Nd6.} Qb6 ({Better is} 23... Nc4 $1 $14 24. Qxa6
+bxa6) 24. Rab1 {[%cal Ba1b1,Bb1b5,Bb5d5][%mdl 32]} Qc7 25. Rb5 b6 (25... Bxe4
+$142 26. Bxe4 (26. Rxe4 Nc4 $11) 26... b6) 26. Nd6 $16 Qxc3 27. Qxc3 Rxc3 28.
+Nxf5 Rxf5 29. Rd5 $36 {[%mdl 2048] Strongly threatening Rd8+. White is in
+control.} (29. Bxe5 $6 Bxe5 30. Rbxe5 Rxe5 $11) (29. Rbxe5 $6 Bxe5 30. Bxe5+ {
+[#]} Rxe5 $1 $11 {[%mdl 512]}) 29... Rf8 30. Rd7 {And now Rxg7! would win.} (
+30. Bxe5 Bxe5 31. Rdxe5 Rc7 $14) 30... Rfc8 31. Rxa7 Nc6 32. Rb7 Nd4 33. Be4 ({
+Much weaker is} 33. Rxb6 $6 Rxf3 34. gxf3 Nxf3+ 35. Kf1 Nxe1 $11) ({Reject} 33.
+Bxe5 $6 Bxe5 34. Rxe5 Rxf3 $11) 33... Ra3 ({Black should try} 33... b5 $14) 34.
+Kh2 Rxa2 $2 {[#]} (34... Ra5 $16 35. Rd1 (35. Rxb6 Nf5 $16) 35... Rb5) 35. Rxg7
+$1 $18 {[%mdl 576] Remove Defender, Decoy} Kxg7 36. Bxe5+ {[%mdl 64] Double
+Attack} Kf8 37. Bxd4 b5 38. f3 b4 39. Rb1 Ra4 40. Rb3 Rc4 41. Bb2 Ke7 42. Kg3
+Kd6 43. Kf2 Kc5 44. Ke3 Ra7 45. Bd3 Re7+ 46. Kf2 Rf4 47. Bc1 {White is clearly
+winning.} Rc4 48. Bxc4 Kxc4 {[%mdl 4096] Endgame KRB-KR} 49. Re3 Ra7 50. Bd2
+Ra2 51. Ke2 b3 52. Rc3+ Kb4 {intending ...b2.} 53. Rc2+ Ka3 54. Rxa2+ {
+Accuracy: White = 69%, Black = 31%.} 1-0
+
+[Event "Sachovy Festival 2019"]
+[Site "Prague"]
+[Date "2019.06.19"]
+[Round "10.2"]
+[White "Timman, Jan H"]
+[Black "Nguyen, Thai Dai Van"]
+[Result "0-1"]
+[ECO "A14"]
+[WhiteElo "2549"]
+[BlackElo "2529"]
+[Annotator "ChessBase"]
+[PlyCount "60"]
+[EventDate "2019.06.17"]
+[EventType "match"]
+[EventCountry "CZE"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "1200+10"]
+
+1. c4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} e6 {
+[%emt 0:00:08]} 3. g3 {[%emt 0:00:00]} d5 {[%emt 0:00:02]} 4. b3 {[%emt 0:00:
+02]} Be7 {[%emt 0:00:02]} 5. Bb2 {[%emt 0:00:03]} O-O {[%emt 0:00:02]} 6. Bg2 {
+[%emt 0:00:02]} c5 {[%emt 0:00:02]} 7. O-O {[%emt 0:00:03]} Nc6 {[%emt 0:00:02]
+} 8. e3 {[%emt 0:00:05]} b6 {[%emt 0:00:01]} 9. Nc3 {[%emt 0:00:02]} Ba6 {
+[%emt 0:00:02]} 10. d3 {[%emt 0:00:02]} Rc8 {[%emt 0:00:02]} 11. Qe2 {[%emt 0:
+00:03]} Qc7 {[%emt 0:00:01]} 12. Nb5 {[%emt 0:00:07]} Qb8 {[%emt 0:00:04]} 13.
+Rad1 {[%emt 0:00:31]} Rfd8 {[%emt 0:00:35]} 14. Bh3 {[%emt 0:00:23]} Bb7 {
+[%emt 0:00:24]} 15. g4 {[%emt 0:00:58]} a6 {[%emt 0:00:37]} 16. g5 {[%emt 0:00:
+03]} axb5 {[%emt 0:01:01]} 17. gxf6 {[%emt 0:00:03]} Bxf6 {[%emt 0:00:02]} 18.
+Bxf6 {[%emt 0:00:07]} gxf6 {[%emt 0:00:02]} 19. cxb5 {[%emt 0:01:38]} Ne7 {
+[%emt 0:00:14]} 20. d4 {[%emt 0:00:36]} Kh8 {[%emt 0:00:13]} 21. Kh1 {[%emt 0:
+00:07]} Rg8 {[%emt 0:01:29]} 22. Nh4 {[%emt 0:01:19]} cxd4 {[%emt 0:00:21]} 23.
+Qf3 {[%emt 0:00:47]} Qe5 {[%emt 0:01:40]} 24. exd4 {[%emt 0:00:11]} Qe4 {
+[%emt 0:00:08]} 25. Qxe4 {[%emt 0:01:26]} dxe4 {[%emt 0:00:02]} 26. Ng2 {
+[%emt 0:00:01]} f5 {[%emt 0:00:08]} 27. Rfe1 {[%emt 0:01:54]} Nd5 {[%emt 0:01:
+06]} 28. Rd2 {[%emt 0:00:15]} Rc3 {[%emt 0:00:07]} 29. Ne3 {[%emt 0:00:04]} f4
+{[%emt 0:00:03]} 30. Nxd5 {[%emt 0:00:09]} Bxd5 {[%emt 0:00:06]} 0-1
+

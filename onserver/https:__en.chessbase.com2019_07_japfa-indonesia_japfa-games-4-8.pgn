@@ -1,0 +1,312 @@
+[Event "Japfa GM 2019"]
+[Site "Yogyakarta INA"]
+[Date "2019.06.20"]
+[Round "10.6"]
+[White "Khusnutdinov, Rustam"]
+[Black "Sokolov, Ivan"]
+[Result "1-0"]
+[ECO "C48"]
+[WhiteElo "2471"]
+[BlackElo "2595"]
+[Annotator "Rustam"]
+[PlyCount "67"]
+[EventDate "2019.06.13"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "INA"]
+[EventCategory "9"]
+[SourceTitle "The Week in Chess 1285"]
+[Source "Mark Crowther"]
+[SourceDate "2019.06.24"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.24"]
+[SourceQuality "2"]
+
+{Before this game, I was leading and my opponent was on the 4th place, one
+point behind. The game was decisive for the the first place and I would have
+been quite satisfied with a draw. Of course, I wasn't going to play for a draw
+frankly, but if I had the opportunity, I would have used it. That's why I
+chose such a reliable opening. Before that I started all my games with 1.d4,
+but Ivan plays nearly everything against it. And since we had a day off before
+this round, I had enough time to prepare!} 1. e4 e5 {Apart from the rare
+Sicilian experiments, this answer is strictly the only one} 2. Nf3 Nc6 3. Nc3
+$1 {Tight and reliable} Nf6 ({according to the Megabase, my opponent sometimes
+preferred} 3... Bb4 {but I think it's dubious because of} 4. Nd5) 4. Bb5 {
+Given the tournament position, I placed my opponent in a very unpleasant
+situation. In order to win, he would have to make some concessions.} Bc5 {
+Fashionable line. Although this is the first time Ivan played this way, it was
+quite possible to guess} (4... Bd6 {I think it is the most interesting way to
+avoid forced options. But I was well prepared for it as my opponent had
+already played it}) ({Against} 4... Bb4 {I prepared the cynical} 5. O-O O-O 6.
+Bxc6 dxc6 7. Nxe5 Re8 8. Nd3 Bxc3 9. dxc3 Nxe4 {On one hand, it's a little
+embarrassing to play with White such a variation, but on the other hand the
+great Mikhail Tal played in similar fashion against Ivan!} 10. Bf4 Bf5 11. Re1
+Qd7 12. f3 Nf6 13. Qd2 {1/2 (13) Tal,M (2525)-Sokolov,I (2630) Barcelona 1992})
+(4... Nd4 {That's not so great because of the long forced and drawish line} 5.
+Nxd4 exd4 6. e5 dxc3 7. exf6 Qxf6 8. dxc3 $11) (4... d6 $6 5. d4 {Transposing
+to the worst version of the Steinitz system in Ruy Lopez}) 5. O-O O-O ({
+Once more, against} 5... d6 {White has the strong} 6. d4 $1) 6. Nxe5 {The
+beginning of a forced line. A further series of moves is forced for both sides.
+} Nxe5 7. d4 Bd6 (7... Bb4 $2 8. dxe5 Bxc3 9. bxc3 Nxe4 10. Qd4 $16) 8. f4 $1 {
+That's the point! Simply taking the knight doesn't promise much} Neg4 {The
+principled way} (8... Ng6 {is worse} 9. e5 c6 {and here the engine shows an
+interesting solution:} 10. exf6 cxb5 11. Nd5 $40) (8... Nc6 {also doesn't
+bring the equality} 9. e5 Be7 10. d5 {It's funny that this position was seen
+in the game... Paulsen-Andersen! It is a good moment to remember how all the
+new things are actually old forgotten ones:)}) 9. e5 Bb4 {once again the most
+principled} ({Against} 9... Be7 {White should follow the same idea} 10. f5 $1 (
+10. h3 d6 $1 {doesn't give anything}) 10... d6 11. exf6 Nxf6 {This position
+appeared in two games of strong grandmasters: Wei Yi - Tkachev and Inarkiev -
+Lysyj} 12. Qf3 c6 13. Bd3 Qb6 {and here I was going to strengthen the play of
+the Chinese and Russian grandmasters with} 14. Ne2 $5) 10. f5 {The latest
+trend in this variation where White lacks a piece, but f5 is a positional move
+which opens the way for the darksquare bishop and clamps down the opponent's
+lightsquare one.} Re8 $1 {Here my opponent thought for a long time which made
+me realize that he was already playing on his own. It gave me strength because
+I understood that I had won the theoretical duel and that my opponent will
+have problems to solve over the board in the future. Nevertheless, he found
+the strongest move.} (10... d6 $6 {It's too dangerous} 11. exf6 Nxf6 12. Bg5 c6
+$2 ({it was necessary to play} 12... Bxc3 13. bxc3 $14) 13. Ne4 $3 $18 {
+with crushing attack} (13. Bd3 $2 d5 14. Qf3 h6 {1-0 (49) Liang,A (2558)
+-Morozov,N (2467) Tarvisio 2017})) 11. Nd5 {I would like to say that this is
+an excellent move - White sacrifices the second piece but alas, this is only a
+part of home preparation as Vlad Kovalev played it against Levon Aronian in
+the last olympiad.} (11. exf6 {gave nothing} Nxf6 12. Bg5 c6 13. Bd3 h6 14. Bh4
+Be7 $11) 11... Nxe5 $1 {Ivan is on top again!} (11... Nxd5 $2 12. Qxg4 {
+White is unstoppable.}) 12. Nxb4 Nc6 13. a3 a6 14. Bd3 {Still following
+Kovalev-Aronian game} h6 {The first deviation and not the best} ({It's
+dangerous to accept the pawn sacrifice:} 14... Nxd4 15. Bg5 $36) ({Aronian
+played the stronger} 14... a5 15. Nxc6 dxc6 16. c3 c5 $1 17. dxc5 Bd7 {I
+wouldn't be surprised if this was still preparation.} 18. Bg5 Bc6 19. Qc2 Qd5
+20. Bxf6 gxf6 21. Rfe1 Rad8 22. Rxe8+ Bxe8 23. Re1 Qxc5+ 24. Qf2 Qxf2+ 25. Kxf2
+$11 {1/2 (30) Kovalev,V (2664)-Aronian,L (2780) Batumi 2018}) 15. Nxc6 $6 {
+The first over the board decision for White and also not the best. It was not
+necessary to relieve the tension.} ({The modest} 15. c3 $14 {gives the
+advantage thanks to the pair of bishops while the f5-pawn offers White much
+more space.}) 15... bxc6 $6 ({After} 15... dxc6 16. c3 c5 $11 {This is a
+better version of Aronian's game. But, given the tournament situation in
+Yogyakarta, Black has to win this game somehow.}) {So the opening is over.
+White has the bishop pair and some advantage in development. Black has an
+excellent outpost on e4 for the knight and hopes to exchange the lightsquare
+bishops. In general, White should play dynamically, otherwise there is a risk
+of getting worse.} 16. Qf3 {Natural but not the best.} ({At first, I noticed} 
+16. Rf3 $5 {with the idea of hitting on h6. But after} Ne4 (16... d5 {is not
+so clear.} 17. Bxh6 gxh6 18. Qd2 Kg7 19. Rg3+ Kh7 20. Rh3 Ng8 (20... Ng4 21.
+f6+ Re4 22. Rf1 $18) 21. f6+ Re4 22. Rf3 $13) 17. Bxe4 Rxe4 18. f6 d5 {I gave
+up the calculation, even though after} 19. h3 {the opponent has to find a
+tough move} g5 $132 {Generally speaking, I was right because it is not
+practical to consider an unclear continuation especially since there was a
+very good alternative.}) ({As I wrote above, Black's hope is the exchange of
+the bishops. It is logical to assume that the way to do that is with a5,
+followed by Bc8-a6. How can White prevent Black's plan? This can be used as a
+good positional exercise.} 16. Re1 $1 a5 17. Rxe8+ Qxe8 18. Qf1 $1 $14 {
+Having solved the exchange problem, White gradually captures the "e" file and
+a5 pawn may become an attacking target in the future.}) 16... a5 $1 {The only
+move! Otherwise Black is much worse.} 17. Qg3 ({In another tournament
+situation, maybe I'd try} 17. g4 $5 {although objectively after} Ba6 18. Bxa6
+Rxa6 19. g5 hxg5 20. Bxg5 Qe7 {White doesn't have the advantage.}) 17... Kh7
+18. Qh4 {Truth be told, during the game I thought that I was applying pressure
+with this move because Black has no time to change the bishops, but...} Ba6 $1
+19. Bxa6 Rxa6 20. Bg5 {It is important to exchange the last minor piece
+otherwise the knight was ready to jump to e4.} a4 $6 {Too optimistic.} ({
+Simpler and tougher was} 20... Rb6 21. b3 (21. Rf3 Re2) 21... Re2 22. Rf3 Qe7
+23. Bxf6 Qxf6 24. Qxf6 gxf6 {with a much better version of the endgame than
+what was played in the game.}) 21. Rf3 $6 {Unfortunately, this stage of the
+game abounds with mutual mistakes. White misses the opponent's answer.} ({
+Black's inaccuracy could be exploited with:} 21. b4 $1 axb3 22. cxb3 {and
+White has the upper hand.}) {During the game I thought the rook will rach h3
+then take on h6, but...} 21... d5 $1 {The cold shower! Thank God there is a
+way out by going into the endgame.} (21... Re2 {was also good} 22. Rh3 Qf8 23.
+Bxf6 gxf6 24. Qxf6 Qg7 25. Qxg7+ Kxg7 $44 {with good compensation for a pawn
+due to the activity of the king and rooks.}) 22. Bxf6 {Forced but good.} (22.
+Rh3 Re4 23. Bxf6 Qxf6 24. Qxf6 gxf6 $11) 22... Qxf6 23. Qxf6 gxf6 24. Kf2 {
+So here we are, in a very interesting endgame. On one hand, Black has very
+active rooks, on the other hand, White has no double pawns. Whose weaknesses
+will prove weaker? As it usually happens in such cases, it should be about
+equal with correct play. But in a practical game, anything can happen.} Re4 $1
+{That's right! Black should play actively before White gets the time to
+consolidate the position.} (24... Kg7 $2 25. Re3 $16) (24... Rb6 25. b4 $16)
+25. Re1 {A very natural move! In a blitz game, I would have made it in seconds.
+} ({The silicone mind immediately says that the passive} 25. Rd1 {was stronger
+at least from a practical point of view. Black still has to find a few tough
+moves.} h5 26. g3 h4 (26... Kh6 27. h4 $16) 27. Rdd3 (27. Re3 Rxe3 28. Kxe3 Rb6
+29. Rb1 hxg3 30. hxg3 Kh6 31. Kf4 Rb8) 27... Kh6 28. Rf4 Kg5 (28... hxg3+ 29.
+Kxg3 $14) 29. Rxh4 (29. Rxe4 dxe4 30. Rc3) 29... Rxh4 30. gxh4+ Kxh4 31. Rg3 c5
+32. dxc5 Ra5 $132 {I think the activity of the pieces will allow Black to hold.
+}) 25... Rxd4 26. Re7 Rd2+ $2 {Time trouble and checks... Sadly, this move is
+wrong - the rook is needed on the 4th line.} ({During the game I thought} 26...
+Kg8 $2 {was weak because now there's always a vexing check on the last rank}
+27. Rxc7 ({too early} 27. Re8+ Kh7 28. Rg3 Rf4+ 29. Ke3 Rxf5 30. Rf8 Re5+ 31.
+Kd3 Re7 32. Rfg8 h5 33. R3g7+ Kh6 34. Rg3 Kh7 $11) 27... Rb6 28. Rc8+ {there
+it is!} Kh7 29. b4 axb3 30. cxb3 $16) ({The only rescue was} 26... Kg7 $1 {
+where I was planning to go for} 27. Rg3+ Kf8 28. Rd7 $5 {It's more tricky than}
+(28. Rxc7 Rd2+ 29. Kg1 (29. Ke1 $2 Rxc2 30. Re3 Ra8 $1) 29... Rd1+ 30. Kf2 Rd2+
+31. Kg1 Rd1+ $11 (31... Ra8 32. Rxc6 Re8 33. h3 $16)) {and now} 28... Ra8 $1 {
+saves the game. It's important to take control of the last rank as well as
+placing the second rook into the battle.} (28... Rd2+ 29. Ke3 Rxc2 30. Rd8+ Ke7
+31. Rgg8 $18) 29. Rc3 Rd2+ 30. Kf3 Re8 $132 {I doubt that once the rooks are
+connected, Black is still in danger.}) 27. Ke1 $2 {I was also in time trouble
+so going for a forcing move is a natural reaction. But this is a mistake. I
+managed to understand that the third line shouldn't be occupied by the king 
+(the e3 square can be used by the rook), but I couldn't dare to step back
+passively.} (27. Kf1 $1 Rb6 (27... Kg7 $2 28. Re8 Rd1+ 29. Ke2 Rd4 30. Rg3+ Kh7
+31. Rf8 Re4+ (31... h5 32. h3 $3 $18) 32. Kd3 Re7 33. Rgg8 $18) (27... Rd1+ 28.
+Ke2 $18) 28. b4 axb3 29. cxb3 Rb2 30. Rxf7+ Kg8 31. Rxf6 Rb1+ 32. Kf2 Rb2+ 33.
+Ke1 Rxg2 34. Kf1 $16 {It's hard to say how are white's chances for success,
+but from a practical point of view, they are decent.}) ({I'll also note that
+there's nothing after} 27. Kg1 Rd1+) 27... Rxg2 (27... Rxc2 $4 28. Rg3 $18) 28.
+Rxf7+ Rg7 $4 {A serious mistake, the rook on g2 is the best situated piece,
+and it is very risky to take it to a passive square in such an complicated
+position.} (28... Kg8 $1 29. Rxf6 Kg7 30. Re6 Rxc2 31. f6+ Kf8 {Seems to be
+very dangerous, but the engine is holding it.} 32. f7 Ra8 33. Rxh6 Ke7 $11 {
+I haven't been able to find a win here :-(}) 29. Rxf6 $14 {Finally White can
+breathe a sigh of peace - the black rook still stands on a6 and the white one
+accompanies it from f6.} Rg1+ $6 (29... h5 {I was just gonna play} 30. Kd2 {
+while keeping good practical chances to win.}) 30. Kf2 Rb1 $2 (30... Rc1 31.
+Rc3 $18) ({The only chance to continue the battlle was to play} 30... Kg7 {
+Further events could develop more or less forcefully} 31. Re6 Rc1 32. Rc3 d4
+33. Rcxc6 Rxc6 34. Rxc6 d3 35. Rxc7+ Kf6 36. Ke3 dxc2 37. Kd3 Rf1 38. Rxc2 Rxf5
+39. Kc4 $16) 31. Rg3 ({There's a move} 31. Kg3 {in the megabase. Of course,
+that is just a mistake from the live transmission.}) 31... Rxb2 32. Rf7+ Kh8
+33. Rf8+ Kh7 34. f6 {Black resigned due to the inevitable checkmate.} 1-0
+
+[Event "JAPFA Grandmaster Chess Tournament 2019"]
+[Site "Yogyakarta"]
+[Date "2019.06.17"]
+[Round "7.4"]
+[White "Megaranto, Susanto"]
+[Black "Kokarev, Dmitry"]
+[Result "1-0"]
+[ECO "B52"]
+[WhiteElo "2548"]
+[BlackElo "2609"]
+[Annotator "Alina"]
+[SetUp "1"]
+[FEN "4k3/R7/8/1p2N3/PP1K4/7r/8/1n6 b - - 0 58"]
+[PlyCount "18"]
+[EventDate "2019.06.13"]
+[EventRounds "11"]
+[EventCountry "INA"]
+
+{The next two examples are from the same chapter: double rounds drama, not
+drawing drawing positions and not winning winning ones. For some reasons, I
+thought this game should very soon and 'very easy' become a draw. I couldn't
+have been more wrong.} 58... bxa4 {An immediate draw would have been achieved
+after} (58... Rh4+ $5 59. Kc5 Rh5 $1 60. Kd6 Rh6+ 61. Kd5 Nc3+ $11) 59. Rxa4
+Ra3 60. Ra5 Ke7 {Understandable move but a clear cut drawing continuation
+would have been:} (60... Rxa5 61. bxa5 Na3 62. Kc5 Kd8 $11) 61. Nc4 Rb3 (61...
+Rxa5 {doesn't work anymore due to} 62. bxa5 Kd7 63. Kd3 {and the knight is
+trapped on b1.}) 62. b5 Nc3 63. b6 Kd7 {What could be more natural than
+bringing the king closer to that Speedy Gonzales pawn? But somehow it does
+feel a bit too late for Black to regain control.} 64. Ra7+ Kc6 (64... Kc8 {
+doesn't help either} 65. Nd6+ Kb8 66. Rb7+ Ka8 67. Kc4 Rb1 {looks cute but
+there is no stalemate} 68. Kxc3 Rb3+ 69. Kc4 Rb4+ 70. Kc5 $18 {White has now
+the option of taking that rook with the knight on either b5 or c4, whichever
+Black prefers.}) 65. Rc7+ Kb5 66. Nd6+ Kb4 67. Rxc3 {Somehow I still have
+troubles believing how fast a seemingly equal position can go downhill. And
+yet, the Russian GM finished on the 2nd place with 7/11.} (67. Rxc3 Rxc3 68. b7
+$18) 1-0
+
+[Event "JAPFA Grandmaster Chess Tournament 2019"]
+[Site "Yogyakarta"]
+[Date "2019.06.21"]
+[Round "11.1"]
+[White "Sokolov, Ivan"]
+[Black "Priasmoro, Novendra"]
+[Result "1/2-1/2"]
+[ECO "E94"]
+[WhiteElo "2595"]
+[BlackElo "2457"]
+[Annotator "Alina"]
+[SetUp "1"]
+[FEN "8/8/1p1n1k2/1PpP1P2/2P2PK1/4N3/8/8 b - - 0 67"]
+[PlyCount "22"]
+[EventDate "2019.06.13"]
+[EventRounds "11"]
+[EventCountry "INA"]
+
+{Needless to repeat what I already mentioned in all my previous articles but I
+have to do it, for accuracy's sake. Novendra is the next Indonesian big talent
+capable of finding new and newer rabbits in his hat, winning or drawing
+'hopeless' positions. That is not mere luck but a sign of his fighting and
+defending abilities. Three pawns up - that should be a rather straight forward
+win for White, right?} 67... Ne4 68. Nd1 {1-0 would have been the most likely
+outcome had White played} (68. d6 {instead.} Nxd6 69. Nd5+ Kf7 70. Nxb6 $18)
+68... Nd6 69. Nc3 {The winning margin is still there but the advantage starts
+slipping on a psychological level.} ({By offering something, White gains much
+more in return} 69. Nf2 Nxc4 (69... Nxf5 70. Ne4+ Kg6 71. d6 Nh6+ 72. Kf3 Kf7
+73. Nxc5 $18) 70. Ne4+ Kf7 71. d6 $18) 69... Kg7 70. Na4 {Sacrifices must be
+made indeed, for a higher cause, but the quiet} (70. Kf3 {would have worked
+too.} Nxc4 71. Ne4 Na3 72. f6+ Kf7 73. d6 $18) 70... Nxc4 71. Kg5 Kf7 72. f6
+Nd6 73. Nxb6 {Black has only one pawn left but a very stubborn one.} (73. Nc3 {
+was the final boarding call for a win.} c4 74. f5 {and Black just ran into a
+multiple choice of equally bad continuations.} Nb7 (74... Kf8 75. Kf4 Nf7 76.
+Ke4 $18) 75. Ne4 Kf8 76. Kf4 Kf7 77. Ke5 $18) 73... c4 74. Nd7 c3 75. Ne5+ Kf8
+76. b6 c2 77. Nd3 Kf7 78. Nc1 {When I was following the game online, I thought
+that somehow the result must be wrong or maybe the transmission stopped
+prematurely. Optically, I couldn't believe that Black can draw in such an
+exceptional way! There is no way forward for White at this point.} 1/2-1/2
+
+[Event "JAPFA Grandmaster Chess Tournament 2019"]
+[Site "Yogyakarta"]
+[Date "2019.06.17"]
+[Round "6.1"]
+[White "Priasmoro, Novendra"]
+[Black "Taher, Yoseph Theolifus"]
+[Result "0-1"]
+[ECO "C11"]
+[WhiteElo "2457"]
+[BlackElo "2446"]
+[Annotator "Alina"]
+[PlyCount "60"]
+[EventDate "2019.06.13"]
+[EventRounds "11"]
+[EventCountry "INA"]
+
+{I couldn't skip this theoretically relevant game, especially since the same
+piece sacrifice brought my countryman a very important point for his
+tournament victory in Reykjavik this year.} 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5
+Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2 O-O 9. dxc5 Qa5 10. O-O-O b6 11. Bb5
+Nb4 12. a3 bxc5 13. Bxd7 Bxd7 14. axb4 {Practice showed that taking the piece
+is not advisable.} cxb4 15. Nb1 Rfc8 16. Nd4 Qa1 (16... Qa2 {Is what
+Constantin chose but I remember that in his analysis for chessbase he
+mentioned Qa1 as a very tempting alternative.} 17. f5 exf5 18. Rhf1 a5 19. Nxf5
+Bxf5 20. Rxf5 a4 21. Bd4 a3 22. e6 f6 23. Qd3 b3 24. Rf2 Ra4 25. c3 Rxd4 26.
+Qxd4 Bc5 27. Qd2 Bxf2 28. Qxf2 Qa1 29. e7 a2 30. e8=Q+ Rxe8 31. Qf5 d4 {
+0-1 (31) Firouzja,A (2669)-Lupulescu,C (2634) Reykjavik ISL 2019}) 17. f5 (17.
+Qd3 a5 18. f5 exf5 19. e6 fxe6 20. Nxf5 exf5 21. Qxd5+ Kh8 22. Qxd7 Bf6 23. Rd4
+b3 24. c3 a4 25. Qf7 a3 26. Qxb3 a2 27. Qc2 Rxc3 {0-1 (27) Santos Ruiz,M (2560)
+-Edouard,R (2658) Skopje MKD 2019}) 17... exf5 18. Bg5 Bf8 19. Bf6 a5 20. Qg5
+a4 21. e6 fxe6 22. Rd3 h6 23. Qh4 Rc4 24. Rg3 a3 25. Kd2 Qxb2 26. Ke2 Rxc2+ 27.
+Nxc2 Qxc2+ 28. Ke3 Bb5 29. h3 Qd3+ 30. Kf2 Bc5+ {The opening preparation
+worked wonders for Yoseph.} 0-1
+
+[Event "JAPFA Grandmaster Chess Tournament 2019"]
+[Site "Yogyakarta"]
+[Date "2019.06.15"]
+[Round "3.4"]
+[White "Khusnutdinov, Rustam"]
+[Black "Setyaki, Azarya Jodi"]
+[Result "1-0"]
+[ECO "E94"]
+[WhiteElo "2471"]
+[BlackElo "2421"]
+[Annotator "Alina"]
+[PlyCount "81"]
+[EventDate "2019.06.13"]
+[EventRounds "11"]
+[EventCountry "INA"]
+
+{As a chess player who often gives chances left and right to the opponent, I
+admire a lot those clean games where one player outplays the other. And the
+finishing touch is executed beautifully with precise calculation.} 1. d4 Nf6 2.
+c4 d6 3. Nc3 Nbd7 4. Nf3 e5 5. e4 g6 6. Be2 Bg7 7. O-O O-O 8. Be3 c6 9. d5 c5
+10. Ne1 Ne8 11. g4 f5 12. gxf5 gxf5 13. exf5 Nb6 14. Kh1 Bxf5 15. Rg1 e4 16.
+Qd2 Kh8 17. Ng2 Nd7 18. Bg5 Qc8 19. Nh4 Ne5 20. Rg3 Nf6 21. Rag1 Qd7 22. Bf4
+Ng6 23. Bxd6 {Does this work?} Nxh4 24. Bxf8 Bxf8 25. Qg5 {Yes, it does.
+Black's pieces are no longer working as a team.} Ng6 26. Qxf6+ Bg7 27. Qg5 Be5
+28. Bg4 Rf8 29. Bxf5 Rxf5 30. Qe3 Bxg3 31. fxg3 b6 32. Nxe4 Qe7 33. Re1 Kg8 34.
+Kg2 Re5 35. Qf3 Kg7 36. Re2 Qd7 37. Nf2 Rg5 38. Re4 h5 39. Qc3+ Kh7 40. Qf6 Rf5
+41. Qe6 {A smooth victory, at least how it can be seen from the side, for the
+tournament winner.} 1-0
+

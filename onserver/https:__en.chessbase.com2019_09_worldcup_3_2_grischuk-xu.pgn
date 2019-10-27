@@ -1,0 +1,17 @@
+[Event "FIDE World Cup 2019"]
+[White "Grischuk, Alexander"]
+[Black "Xu, Xiangyu"]
+[Site "Khanty-Mansiysk"]
+[Round "3.2"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.09.17"]
+[WhiteElo "2759"]
+[BlackElo "2576"]
+[PlyCount "65"]
+
+1. d4 {} Nf6 2. c4 e6 3. Nf3 d5 4. g3 g6 5. Bg2 Bg7 6. 0-0 0-0 7. b3 Nc6 8. Bb2 b6 9. Nbd2 Bb7 {D02: 1 d4 d5 2 Nf3 sidelines,
+including 2...Nf6 3 g3 and 2...Nf6 3 Bf4} 10. Rc1 Ne7 11. Qc2 Rc8 {White is
+slightly better.} 12. Rfd1 $146 ({Predecessor:} 12. Ne5 c5 13. e3 Nd7 14. Rfd1 Qc7 15. Nxd7 Qxd7 16. dxc5 Rxc5 17. Bxg7 Kxg7 18. Qb2+ f6 19. cxd5 Rxc1 20. Rxc1 Nxd5 {1/2-1/2 (20) Malyuga,V (2160)-Okrugin,A (2035) Zelenograd 2013} )Re8 13. Ne5 Nd7 14. Nd3 Nf6 15. Ne5 (15. cxd5 $16 exd5 16. Bh3 )h5 (15... Nd7 $11 )16. e4 (16. cxd5 $16 Nexd5 17. Ndc4 )dxe4 $11 17. Nxe4 Nxe4 18. Bxe4 Bxe4 19. Qxe4 c6 20. Qf3 Bxe5 (20... f6 $11 {keeps the balance.} )21. dxe5 $16 Qc7 22. h3 Rcd8 23. Qf6 Nc8 24. Rd6 $36 { [#] Hoping
+for Rcd1. White is really pushing.} Qe7 25. Qxe7 Nxe7 26. Rcd1 Rb8 27. Bc1 c5 28. Bg5 Rb7 29. g4 Rc7 {[#]} (29... Kf8 $16 {was necessary.} 30. f4 Rc7 )30. Rd8 $1 $18 { White is clearly better.} Rxd8 31. Rxd8+ Kh7 32. Bf6 {
+} Ng8 33. g5 {Accuracy: White = 58%, Black = 34%.} 1-0

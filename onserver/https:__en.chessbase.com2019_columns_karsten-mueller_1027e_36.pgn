@@ -1,0 +1,37 @@
+[Event "World Team-ch Open 2019"]
+[Site "Astana"]
+[Date "2019.03.09"]
+[Round "5.1"]
+[White "Jumabayev, Rinat"]
+[Black "Karjakin, Sergey"]
+[Result "1-0"]
+[ECO "E06"]
+[WhiteElo "2609"]
+[BlackElo "2753"]
+[Annotator "Karsten Müller"]
+[SetUp "1"]
+[FEN "3k4/6R1/p2K4/1b1B4/1P6/8/8/1r6 b - - 0 61"]
+[PlyCount "14"]
+[EventDate "2019.??.??"]
+[SourceTitle "1027"]
+[SourceDate "2016.11.12"]
+[SourceVersionDate "2016.11.12"]
+
+{[%evp 0,135,24,26,27,21,19,19,20,14,14,1,15,15,15,8,13,8,12,7,8,-9,0,0,16,13,
+27,32,31,34,25,24,44,43,41,43,47,19,39,43,55,38,48,52,52,63,52,67,62,74,80,76,
+68,45,42,54,54,53,58,58,58,64,71,68,64,64,61,61,61,55,67,55,55,42,55,63,59,60,
+65,60,60,34,60,62,68,60,86,60,60,59,60,21,39,36,37,37,0,0,65,59,77,77,69,62,96,
+20,52,31,64,61,77,76,76,78,67,67,66,46,45,47,55,46,46,46,557,577,27776,29956,
+29957,29958,29959,29960,29961,29958,29959,29960,29961,29962]} 61... Rxb4 {
+[%tqu "En","White to move and win","","","g7a7","",2,"De","Weiß zieht und
+gewinnt","","","g7a7","",2] Usually the pawnless ending rook and bishop
+against rook arises in a drawn position. But if the attacker is well placed he
+can somtimes even win against material superiority.} 62. Ra7 $1 {The attack
+starts with a switch.} ({The check} 62. Rg8+ $2 {is simply blocked by} Be8 63.
+Bc6 (63. Bf7 Re4 $11) 63... Rd4+ 64. Kc5 Rd7 65. Bxd7 Kxd7 $11) 62... Bd7 63.
+Rxd7+ Ke8 (63... Kc8 64. Rh7 Kb8 65. Rh8+ Ka7 66. Kc7 $18) 64. Re7+ $1 {
+This time the check is the only way to win.} (64. Rg7 $2 Rb6+ 65. Ke5 a5 $11) (
+64. Ra7 $2 Rb6+ 65. Bc6+ Kf8 $11) 64... Kf8 (64... Kd8 65. Rh7 Rb6+ 66. Bc6 $18
+) 65. Rf7+ Ke8 {Now the typical winning technique follows:} 66. Rf3 Rd4 67. Rb3
+Kf8 68. Rg3 1-0
+

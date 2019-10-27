@@ -1,0 +1,40 @@
+[Event "Grand Prix Riga 2019"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Vachier-Lagrave, Maxime"]
+[Site "Riga"]
+[Round "4.3"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.07.23"]
+[WhiteElo "2765"]
+[BlackElo "2775"]
+[PlyCount "45"]
+
+1. d4 {} Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Qa4+ Qd7 {D85: Exchange Grünfeld: Unusual White
+7th moves and lines with 7 Nf3} 8. Qa3 b6 9. Nf3 c5 $146 {The position is
+equal.} ({Predecessor:} 9... 0-0 10. Bd3 e5 11. d5 c6 12. c4 Na6 13. Be3 Re8 14. 0-0 Bf8 15. Qb2 {1/2-1/2 (40) Moiseenko,A (2649)-Cheparinov,I (2688) Izmir
+2016} )10. Bd3 Nc6 {} 11. Bb5 {[#] Threatens to win with d5.} a6 12. 0-0 Bb7 13. Bxc6 Bxc6 14. d5 Bb5 $36 { Black has some pressure.} 15. Re1 0-0 $1 16. Bb2 {White wants to play c4!} c4 17. Bc1 e6 18. Be3 exd5 19. Rad1 Rfe8 20. exd5 Ba4 21. Rc1 Bf8 22. Qb2 b5 23. Qd2 {Accuracy: White = 42%,
+Black = 82%.} 1/2-1/2
+
+[Event "Grand Prix Riga 2019"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Mamedyarov, Shakhriyar"]
+[Site "Riga"]
+[Round "4.4"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.07.24"]
+[WhiteElo "2775"]
+[BlackElo "2765"]
+[PlyCount "91"]
+
+1. e4 {} e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. 0-0 h6 7. Re1 0-0 {
+C54: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} 8. Nbd2 {} Ne7 (8... Na5 9. Bb5 a6 10. Ba4 Ba7 11. Nf1 b5 12. Bc2 Nc6 13. Ng3 Ne7 14. h3 Ng6 15. d4 {0-1 (72) Grandelius,N (2688)
+-Harikrishna,P (2730) Malmo 2019} )9. Nf1 Ng6 10. Ng3 c6 $146 ({Predecessor:} 10... Bb6 11. Bb3 c6 12. h3 d5 13. exd5 Nxd5 14. d4 exd4 15. Nxd4 {1/2-1/2 (51)
+Lu,S (2619)-Utegaliev,A (2522) Chengdu 2017} )11. d4 exd4 12. Nxd4 Re8 13. h3 (13. Be3 {looks sharper.} Ng4 14. h3 Nxe3 15. Rxe3 Bb6 16. Bb3 )d5 14. exd5 Rxe1+ 15. Qxe1 Bxd4 16. cxd4 Nxd5 17. Bd3 Ndf4 18. Bc2 Be6 19. Bxf4 Nxf4 20. Qe4 Ng6 21. Qe3 {Hoping for Bxg6.} Nf8 22. Re1 Qa5 23. Qe5 (23. f4 {
+seems wilder.} Re8 24. Qc3 Qd8 25. Nh5 g6 26. d5 )Qxe5 24. dxe5 Rd8 25. b3 g5 (25... Rd2 $5 {} 26. Rc1 Nd7 $11 )26. Ne4 Rd4 27. h4 gxh4 28. f4 Bd5 29. Nf6+ Kh8 30. f5 Nd7 $2 (30... Nh7 $1 $11 )31. Nxd7 $18 {Nf6 is the
+strong threat.} Rd2 32. e6 fxe6 {[#]} 33. f6 $1 {} Kg8 {[#]} 34. Bd3 $2 (34. Bf5 $1 $16 exf5 35. Re8+ Kh7 36. Re7+ Kh8 37. f7 Bxf7 38. Rxf7 )Rxg2+ $11 {The position is equal.} 35. Kf1 h3 {( -> ...h2)} ({Don't go
+for} 35... Rxa2 $2 36. Bg6 $18 )36. Be4 Bxe4 ({Much weaker is} 36... Rxa2 $6 37. Re3 $16 )37. Rxe4 { Endgame KRN-KR} Kf7 $132 { Black
+puts up resistance} 38. Rh4 Rd2 ({Wrong is} 38... Rxa2 $2 39. Rxh6 Ra5 40. Rxh3 $18 )39. Nc5 h2 40. Ne4 Rxa2 41. Rxh6 {Threatens to win with Ng5+.} h1=Q+ 42. Rxh1 Ra1+ 43. Kg2 Rxh1 44. Kxh1 a5 45. Nd6+ Kxf6 {And now ...b5 would win.} 46. Nxb7 {Accuracy: White = 58%, Black = 56%.} 1/2-1/2
+
+

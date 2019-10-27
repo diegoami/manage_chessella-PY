@@ -1,0 +1,89 @@
+[Event "Kaohsiung"]
+[Site "?"]
+[Date "2019.07.22"]
+[Round "5"]
+[White "Alina, L'Ami"]
+[Black "Ethan, Li"]
+[Result "0-1"]
+[ECO "E46"]
+[WhiteElo "2291"]
+[BlackElo "2234"]
+[Annotator "Alina"]
+[SetUp "1"]
+[FEN "r2qr1k1/pp3ppp/5n2/2pPb1B1/4P1b1/P1NQ4/1PB3PP/R4RK1 w - - 0 19"]
+[PlyCount "16"]
+
+{The question is: Bxf6 or no Bxf6?!} 19. Kh1 {I decided to play a prophylactic
+move.} ({To me} 19. Bxf6 {was unclear in whose favour that is.} gxf6 20. Bd1
+Bd7 $132 {Kh8 and Rg8 is also an idea and the bishop on e5 is such a beast.})
+19... Qb8 {Once more: to take or not to take on f6?} 20. Rae1 {I decided not
+to.} ({It was blurry to me whom should have the advantage in the final
+position.} 20. Bxf6 gxf6 21. Bd1 Bd7 22. Ba4 Bxa4 23. Nxa4 c4 24. Qd2 Kh8 $13 {
+The engine likes White but I have a suspicion that is because of the d and e
+pawns, which is not enough reasoning. Black has easy play with the same Kh8,
+Rg8 idea and b5 is also in the air.}) 20... a6 {For the 3rd time: the same
+question:) And probably the best moment to have done it.} 21. Bh4 {This move
+looks like from a different movie.} ({Such an interesting structure appears
+after the well known by now} 21. Bxf6 {But how exactly to evaluate it? That is
+a different story...} gxf6 22. Bd1 Bd7 23. Bh5 b5 24. Nd1 Kh8 $132) 21... Qd6
+22. a4 Rac8 23. h3 {Ruined the structure and the game just one move later as I
+didn't see a simple tactic.} ({Now it is a bit late for} 23. Bxf6 {but
+certainly better than what happened on the board.} gxf6 $15) 23... Bd7 24. g4
+Nxg4 25. hxg4 Qh6 26. Qh3 g5 {the rest is less important as White didn't get a
+chance to return into the game.} 0-1
+
+[Event "Kaohsiung"]
+[Site "?"]
+[Date "2019.07.24"]
+[Round "9"]
+[White "Lu, Lilian"]
+[Black "Alina, L'Ami"]
+[Result "0-1"]
+[ECO "B91"]
+[WhiteElo "1733"]
+[BlackElo "2291"]
+[Annotator "Alina"]
+[SetUp "1"]
+[FEN "r1bq1rk1/1p2ppbp/pn1p1np1/8/3NP3/1PN1B1PP/P1P2PB1/R2Q1RK1 b - - 0 11"]
+[PlyCount "25"]
+
+{Second example of structural change. Is} 11... d5 {working?} 12. e5 {It
+doesn't but not exactly with this move.} ({Much stronger was} 12. Nde2 $1 {
+this retreat I completely missed during the game. The knight on b6 is surely
+very sad.} e6 13. f4 Qc7 14. e5 $16 {Positionally and structurally, Black is
+on the ropes.}) 12... Ne4 13. Nxe4 dxe4 {How should White continue?} 14. Bxe4 {
+was played, according to my initial calculations. But they were not correct.} (
+{The same} 14. Ne2 {idea works again.} Nd5 15. Bd4 $16) 14... Nd5 15. Bxd5 Qxd5
+16. Nf5 Qxe5 17. Nxg7 Bxh3 18. Qd4 $2 Qxd4 19. Bxd4 Bxf1 20. Kxf1 Rfd8 21. c3
+Rac8 22. Ke2 Rc6 23. Kf3 f6 {and the rest is unimportant. Structural changes
+have to be backed up with precise calculation as well.} 0-1
+
+[Event "Kaohsiung"]
+[Site "?"]
+[Date "2019.07.20"]
+[Round "4"]
+[White "Shinya, Kojima"]
+[Black "Alina, L'Ami"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[WhiteElo "2391"]
+[BlackElo "2291"]
+[Annotator "Alina"]
+[SetUp "1"]
+[FEN "8/6k1/q1rprppp/p1pRp3/2P1P2P/PP1R1PP1/3Q2K1/8 w - - 0 39"]
+[PlyCount "9"]
+
+{The third example from the series: What did White play here?} 39. a4 {
+stopping any potential counterplay on the queenside.} Qb6 40. Qe1 Qc7 {What to
+do, Black is suffering and has no other way but wait.} 41. Qd2 {With not so
+much time on the clock, moving the pieces here and there is a very common
+practice to gain more time and find the right breakthrough later on. But in
+this structure there is a way to infiltrate in Black's camp. How?} (41. h5 $1
+g5 42. Kf2 {bringing the king to the other side of the board, to protect the
+b3-pawn.} Kf7 {For illustrative purposes, let's say Black keeps waiting with}
+43. Ke2 Kg7 44. Kd1 Kf7 45. Kc2 Kg7 46. Qh1 $36 {[%cal Gh1h3,Gh3f5,Gf5g6]}) ({
+The other breakthrough doesn't quite work like the previous one.} 41. f4 exf4
+42. gxf4 Qe7 43. Re3 Rb6 $14 {Still fighting.}) 41... Qb6 42. Re3 Qd8 43. Red3
+{Lucky: my opponent didn't realize that with Qb6, the position has repeated 3
+times.} 1/2-1/2
+

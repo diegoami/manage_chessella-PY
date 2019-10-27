@@ -1,0 +1,248 @@
+[Event "?"]
+[Site "?"]
+[Date "2019.06.04"]
+[Round "1"]
+[White "Aronian, Levon"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[Annotator "Lupulescu Constantin"]
+[PlyCount "69"]
+[SourceVersionDate "2019.06.04"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. d3 d6 6. Qd2 {This strange move
+already occurred in 38 games according to my database. It is the kind of move
+you can explain to kids by saying "super grandmasters can do it." White's idea
+is to prepare the development of his dark squared B on b2 while keeping
+options on the kingside.} Qd7 {Black reckons that if White can play like this
+he is also allowed to do the same} 7. b3 b6 8. Bb2 Bb7 {continuing the
+"imitation game"} 9. Nd5 {White has probably had enough of Black's mirroring
+his moves and he dares him to continue it} e5 (9... Nd4 {would not end well
+for Black after the ridiculous variation} 10. e3 e6 11. Nf4 Nf5 12. g4 $16) 10.
+f4 {a sensible plan to disturb the balance} (10. e4 Nd4 {and we are back into
+copycat mode}) 10... Nge7 11. e4 Nxd5 12. cxd5 Nd4 13. Nf3 Nxf3+ 14. Bxf3 {
+after 12.cd5 White has at least managed to place a foot soldier in the enemy's
+territory. However, considering the all N swap Black doesn't have problems
+with space.} Qe7 15. h4 {White is eager to open the h file} (15. O-O {was
+another sensible plan} O-O 16. f5 {looks a bit dangerous for Black alhough he
+has his resources} gxf5 (16... a5 17. Bg4 a4 18. Qf2 Qe8 19. f6 Bh8 {with a
+"complex" evaluation it's one of the lines where you still feel there could
+still be some hopes in a human vs machine fight}) 17. exf5 Qf6 18. Be4 Bh6 19.
+Qe2 Kh8 20. Rf2 Rg8 {White seems easier to play but also Black is quite solid})
+15... f5 $1 {although Black had other options I like this principled approach}
+16. h5 {continuing his idea but it seems like White overplayed his hand} (16.
+O-O-O {was more natural with a likely transposition to the game after} O-O-O
+17. h5) 16... O-O-O (16... exf4 $1 {could have tried to take advantage of
+White's innacuracy} 17. gxf4 (17. O-O-O fxg3 18. hxg6 (18. exf5 $2 Bxb2+ 19.
+Qxb2 O-O-O $19 {[%cal Ge7e3]}) 18... O-O-O 19. gxh7 Rxh7 20. Rxh7 Bxb2+ 21.
+Qxb2 Qxh7 {and again White needs to be careful}) 17... fxe4 18. Bxe4 $1 ({
+the compliant} 18. dxe4 {gives Black an advantage} Bxb2 19. Qxb2 Rf8 20. hxg6
+hxg6 21. Qd2 (21. O-O-O Rxf4 22. Rh8+ Kd7 $17) 21... O-O-O 22. O-O-O Qf6 23.
+Kc2 Qxf4 24. Qxf4 Rxf4 $15) 18... Bxd5 19. O-O-O Bxe4 20. dxe4 O-O-O 21. hxg6
+hxg6 22. Rxh8 Bxh8 23. Bxh8 Rxh8 24. Qxd6 Qxe4 25. Qd7+ Kb8 26. Qd6+ Kb7 27.
+Qd5+ {with a teoretical draw after the g and f pawns are swapped}) 17. O-O-O {
+Bb7 looks like a clumsy piece but at least is keeping the Black K protected}
+exf4 18. gxf4 Bxb2+ 19. Qxb2 Rhf8 {White has more pawns in the centre but also
+more potential weaknesses} 20. Rde1 Qf7 21. Rh4 Qe7 (21... fxe4 $5 22. dxe4 Qe7
+23. Qf2 {luring the White Q away from the queenside was worth mentioning} (23.
+Reh1 $2 g5 $17 {is Black's point})) 22. Rhh1 Qf7 23. Ref1 {the position is
+level but Aronian decides to play on} Kb8 (23... fxe4 $2 24. Bg4+ Kb8 25. Be6 {
+would be playing into White's hands}) 24. Rhg1 fxe4 {forcing simplifications}
+25. Bxe4 Bxd5 26. hxg6 hxg6 27. Bxg6 Qf6 28. f5 Rd7 29. Qxf6 Rxf6 30. Bh5 Kc7 {
+White has no way to remove Black's blockade on f6} 31. Rg6 Rdf7 32. Rxf6 Rxf6
+33. Bg6 Kd7 34. Kd2 Rf8 35. d4 {A very original game that still couldn't help
+the players from reaching the 5th Armageddon of the round.} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2019.06.04"]
+[Round "1"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "D39"]
+[Annotator "Lupulescu Constantin"]
+[PlyCount "116"]
+[SourceVersionDate "2019.06.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 {compared to other QGD positions, the
+Vienna is a rather rare guest in supertournaments lately} 5. e4 Bb4 6. Bg5 c5
+7. Bxc4 cxd4 8. Nxd4 Bxc3+ 9. bxc3 Qa5 10. Nb5 {is an interesting sideline} (
+10. Bd2 {was almost a novelty when the world champion employed it succesfully
+against Aronian} O-O 11. Qe2 e5 12. Nb3 Qc7 {with a complex struggle in: 1-0 
+(38) Carlsen,M (2845)-Aronian,L (2763) Karlsruhe/Baden Baden GER 2019}) (10.
+Bb5+ {it is the most common move with many forced variation following}) 10...
+Nxe4 11. Qd4 O-O 12. Qxe4 a6 13. O-O (13. Bd3 f5 14. Qe2 axb5 15. O-O {is a
+more usual move order}) 13... axb5 14. Bd3 f5 15. Qe2 Nc6 (15... Bd7 {was also
+played quite often}) 16. Bd2 Qc7 {the first new move of the game} (16... e5 17.
+Bxb5 Be6 18. a4 Qc7) 17. Bxb5 f4 {an interesting move playing against White's
+dark square B while also preparing to enhance it's own B's scope. However, it
+implies a strategic risk by handing White the e4 square.} (17... e5 {was a
+more conservative approach with the idea} 18. f3 Be6 19. Rfe1 (19. a4 Na5 $13 {
+[%cal Ga5b3]}) 19... e4 $1) 18. f3 {obviously White cannot allow f4-f3} e5 19.
+Rfe1 Bd7 20. a4 $1 {We can say that the World Champion got the position he
+wanted from the opening: not so much to begin with, but plenty of play left to
+outplay his impressive opponent.} (20. Bxc6 {would most likely have called it
+a day even with Carlsen's fantastic tehnical abilities} Bxc6 21. Qxe5 Qf7 $1 {
+it's the most precise as Black's queen will be more useful than White's} (21...
+Qxe5 {it's also possible} 22. Rxe5 Rad8 {Black also has big drawing chance as
+White's queenside pawns and the drawing tendencies of the opposite coloured B})
+22. Qe6 Rad8 23. Qxf7+ Rxf7 24. Re2 g5 $44) 20... Kh8 21. Rad1 (21. Bxc6 Bxc6
+22. Qxe5 Qxe5 23. Rxe5 Rxa4 24. Rxa4 Bxa4 {would not give many winning chances
+as the only way to get f4 would be via a rook swap} 25. Re4 (25. h4 Bc6 26. Rc5
+h6 $11 {[%cal Gg7g5]}) 25... Bc6 26. Rxf4 Rxf4 27. Bxf4 Kg8 {with a trivial
+draw}) 21... Rae8 (21... h6 {to defend against back rank threats was safer for
+Black} 22. Bc1 Bf5 23. Ba3 Rf6 $13) 22. Bc1 {now it is not that easy to find a
+good plan for Black} e4 {here this thematic idea doesn't achieve its aim as
+the game is too open} 23. fxe4 Ne5 24. Bxd7 Nxd7 25. Rf1 $1 {White shows that
+also f4 can be a weakness} Nc5 26. Ba3 $1 {the point of the World Champion's
+idea} Rxe4 27. Qb5 $6 {a very natural move but it allows Black to escape in an
+easily drawn endgame} (27. Qh5 $1 {would give good winning chances} Re5 (27...
+b6 28. a5 $16) 28. Rxf4 Rg8 (28... Rfe8 29. Rdf1 $1 {White needed to see this
+in advance} Kg8 30. Qg4 $16) 29. Qf3 (29. Rf7 Rxh5 30. Rxc7 Nxa4 31. c4 b5 (
+31... b6 32. Rd5 $16 {again puts Black in trouble}) 32. Rd5 $16) 29... Ne6 30.
+Bd6 Qb6+ 31. Qf2 Qb3 32. Bxe5 Qxd1+ 33. Qf1 Qd5 34. Rf5 $16) 27... Re5 28. Rde1
+(28. Bxc5 Qxc5+ $1 (28... Rxc5 29. Rxf4 Rg8 30. Rf7 $1 Rxb5 (30... Qxf7 31.
+Qxc5 {With queen on Black is in trouble}) 31. Rxc7 $16 {a different version as
+White's rooks are now very active}) 29. Qxc5 Rxc5 30. Rxf4 Kg8 31. Rb4 (31.
+Rxf8+ Kxf8 {very similar to the game}) 31... Rxc3 32. Rxb7 h6 {thanks to his
+very active rooks Black shouldn't have much trouble drawing}) 28... Rc8 29.
+Rxe5 Qxe5 30. Bxc5 Qxc5+ 31. Qxc5 Rxc5 32. Rxf4 h6 33. Rf3 (33. Rb4 Rxc3 34.
+Rxb7 Ra3 {would also be trivial for Black}) 33... Kg8 {Anand confidently shows
+the endgame is an easy draw} 34. Rd3 Ra5 35. Rd7 Rxa4 36. Rxb7 Ra2 37. h4 Kh7
+38. Kh2 Rd2 39. Rc7 Kg6 40. Kg3 (40. Kh3 {would not change much, for exemple}
+h5 41. Kg3 Kf6 42. Kf3 g6 43. g3 Rd3+ 44. Kf4 Ke6 {and White can hardly make
+any progress}) 40... Kh5 41. Rc5+ g5 42. Kh3 Rd3+ 43. g3 Re3 44. Kg2 Rd3 45.
+Rc4 Re3 46. hxg5 hxg5 47. Kh3 Rd3 48. Rc8 g4+ 49. Kg2 Rd2+ 50. Kf1 Rc2 51. c4
+Kg5 52. c5 Kf6 53. c6 Ke7 54. c7 Kd6 55. Rd8+ Kxc7 56. Rd4 Kc6 57. Kg1 Kc5 58.
+Rxg4 Kd5 {The longest game of the first round that probably left the world
+champion thinking he could have achieved more.} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2019.06.04"]
+[Round "1"]
+[White "Ding, Liren"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[Annotator "Lupulescu Constantin"]
+[PlyCount "70"]
+[SourceVersionDate "2019.06.04"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4 5. Bg2 c5 {So has already played this
+variation against the Catalan several times already but only in rapid and
+blitz. He used to play the classical 4...Be7 & 5...0-0 but lately he switched
+to the 4...Bb4 5.Bd2 Be7 line.} 6. O-O Nc6 7. dxc5 Qxd1 8. Rxd1 Bxc5 9. Nbd2 (
+9. Nfd2 {was Ding's choice against Harikrishna back in 2017} O-O (9... Na5 $1
+10. Na3 Bxa3 11. bxa3 Bd7 12. Bb2 Rc8 13. Bc3 b6 $13 {(38) So,W (2780)-Vidit,S
+(2718) chess.com INT 2018}) 10. Nxc4 Rd8 11. Rxd8+ Nxd8 12. Nc3 $14 {and White
+got something to play for: 1/2-1/2 (36) Ding,L (2777)-Harikrishna,P (2744)
+Huaian 2017}) 9... c3 10. bxc3 O-O 11. Nb3 Be7 12. Bb2 (12. Nfd4 Nxd4 (12...
+Bd7 13. Bg5 Rfd8 14. Nxc6 Bxc6 15. Bxc6 bxc6 16. Na5 Rac8 17. Rxd8+ Bxd8 {
+was eqaul in: ½-½ (78) Giri,A (2785)-So,W (2815) chess.com INT 2017}) 13.
+cxd4 Nd5 14. Bb2 f5 15. Na5 b6 16. Nc6 Bd6 17. Rac1 Ba6 18. Re1 Bb7 19. e4 fxe4
+20. Rxe4 Kf7 {Black was fine in: 1/2-1/2 (58) Wei Yi (2736)-So,W (2754)
+Abidjan CIV 2019}) 12... Bd7 13. c4 Rfd8 14. Nfd4 Rac8 15. Nb5 b6 {so far both
+players were still in their prep} 16. Nd6 Bxd6 17. Rxd6 Be8 18. Rxd8 Nxd8 19.
+Rc1 Bc6 20. c5 Bxg2 21. Kxg2 Nd7 22. cxb6 Rxc1 23. Bxc1 axb6 24. Kf3 {the
+first new move of the game. However, Black is still rock solid.} (24. Nd4 f6
+25. Kf3 Kf7 26. Ke3 Ke8 27. h4 Ne5 28. Ke4 Kd7 29. f4 Ng4 $11 {1/2-1/2 (45)
+Fedoseev,V (2718)-Inarkiev,E (2689) St Petersburg 2017}) 24... Nc6 25. Ke3 Kf8
+26. Kd3 b5 27. Ba3+ Ke8 (27... b4 $2 {would of course be a serious mistake
+fixing Black's pawn on a dark square and opening the path for white's king
+invasion on the light squares.}) 28. f4 f5 {a logical move to set-up a
+fortress on the light squares} 29. e4 fxe4+ (29... g6 {was as well possible as
+White is unlikely to break through}) 30. Kxe4 Nf6+ 31. Kf3 e5 32. f5 (32. fxe5
+Nxe5+ 33. Kf4 Nc4 {would also not yield winning chances}) 32... Kf7 33. Bb2 g6
+34. fxg6+ Kxg6 35. h3 h5 {An interesting opening debate that didn't change the
+evaluation of the line and the first game to reach Armageddon.} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2019.06.04"]
+[Round "1"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[Annotator "Lupulescu Constantin"]
+[PlyCount "63"]
+[SourceVersionDate "2019.06.04"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 d5 (4... Bb4 {is a much more common choice
+}) 5. cxd5 Nxd5 6. Bb5 {the most logical, to put some pressure on e5} Nxc3 7.
+bxc3 Bd6 8. d4 Bd7 (8... O-O 9. O-O {was probably White's intention anyway} (9.
+Bxc6 bxc6 10. dxe5 Bc5 11. O-O Ba6 12. Re1 Qxd1 13. Rxd1 Rfd8 {probably gives
+enough compensation due to Black's control on the light squares. However,
+Black would prefer not to have his queenside structure ruined.})) 9. O-O (9.
+Bxc6 Bxc6 10. dxe5 Bxf3 11. Qxf3 Bxe5 12. O-O O-O 13. Ba3 c5 14. Bxc5 Bxh2+ {
+is just equal}) 9... O-O 10. Nd2 {avoiding in advance e4 ideas} (10. Bxc6 Bxc6
+11. dxe5 Be7 {gives full compensation for the pawn}) (10. Bb2 e4 11. Nd2 Qg5
+$40 {would just play into Black's hands}) 10... Na5 11. Bd3 $1 {White
+rightfully decides to keep the light squared bishops on the board} (11. Bxd7
+Qxd7 {would complete Black's developement while at the same time giving him
+easy play}) 11... f5 12. e4 {the other central reaction was not that promising}
+(12. dxe5 Bxe5 13. Ba3 c5 (13... Re8 14. Nf3 $1 Bxc3 15. Rc1 Bf6 16. Qc2 {
+gives White something to play for}) 14. Bxc5 Bxh2+ $1 $13 {again this tactical
+resource allows Black a comfortable position}) 12... f4 {a logical continuation
+} (12... Kh8 13. Nf3 fxe4 14. Bxe4 exd4 15. cxd4 {although the engine is
+unimpressed, seems like the Black K could be in some danger}) 13. Nf3 Bg4 {
+principled but it involves some strategic risk} (13... Qe7 {was a more solid
+option as White cannot advantageously take on e5} 14. Bb2 (14. dxe5 Bxe5 15.
+Nxe5 Qxe5 {Black has easier play as White is lacking in development and also
+his dark squared B is a nuisance}) 14... Rad8 $13) 14. Be2 {getting rid of the
+annoying pin} Bxf3 (14... c6 {the engine finds some cool moves like this one
+pretending that nothing is wrong but a human would (quite rightfully) prefer
+to resolve the tension in the centre}) 15. Bxf3 {White now has a B pair but it
+is not that easy to make progress as the position is not easy to open} b6 {
+Black could postpone this move and play for example the more natural Qe7 first
+but a transposition was very likely to happen anyway.} (15... Qe7 {was more
+natural}) 16. Qe2 {White continues with the development} (16. g3 g5 17. Bg4 Qe7
+18. Qe2 Kh8 {is very much recommended by the engine but it's not that clear
+what was White's big achievement}) 16... Qe7 17. Rd1 Rad8 18. Bd2 {both sides
+finished developing and we got to a rather complex position where White's play
+feels nevertheless easier} g6 $1 {quite logical to take back some control on
+the light squares} 19. Be1 Kg7 20. Rac1 h5 {to have some attacking chances on
+the kingside Black would need to get g4 into play but it's not likely to
+happen anytime soon. However, White's Bf3 is quite stuck on this prophilactic
+role reducing White's chances for an advantage to a minimum.} 21. h3 c5 22. Kf1
+Nc6 {playing for a blockade} (22... c4 $5 {Similary to some Grunfeld positions,
+c4 was entirely playable. Black gets some queenside play and also has the c5
+square for the N in case White plays either de5 or d5}) 23. Qb5 (23. d5 {
+even though the engine strongly advocates this move it will be almost
+impossible to break through} Na5 (23... Nb8) 24. c4 Bc7 (24... Nb7 25. a4) 25.
+Rb1 Rb8 26. Qc2 (26. Bxa5 bxa5 27. Rb5 Qd6 28. Qc2 Rxb5 29. cxb5 Bb6 {I hardly
+see any progress for White soon}) 26... Nb7 27. a4 a5 28. Bc3 Nd6 {also likely
+to be a fortress. However, probably it was preferable to the game as at least
+here White can try something.}) 23... Rc8 24. dxc5 {opens the position but now
+the Black B will find a really comfortable place on c5} (24. d5 Nb8 25. a4 (25.
+c4 Nd7 26. a4 a5 {again getting to a blockade}) 25... c4 $13) 24... Bxc5 25.
+Rd5 Rfd8 26. Rcd1 Rd6 {preparing a general rook swap} 27. R1d3 (27. Be2 Na5 $1
+{Black doesn't allow the light squared B to become (potentially) dangerous.})
+27... Rcd8 28. Rxd6 Rxd6 29. Bd1 Rxd3 30. Qxd3 Na5 31. Qd5 Qd6 32. Qxd6 {
+White always looked slightly more pleasant but Caruana managed to keep the
+balance seemingly without big difficulties.} 1/2-1/2
+
+[Event "7th Altibox Norway Chess 2019"]
+[Site "Stavanger"]
+[Date "2019.06.04"]
+[Round "1.4"]
+[White "Vachier Lagrave, Maxime"]
+[Black "Yu, Yangyi"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2779"]
+[BlackElo "2738"]
+[PlyCount "85"]
+[EventDate "2019.??.??"]
+[SourceVersionDate "2019.06.04"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 Nc6
+8. Qd2 Be6 9. O-O-O Qd7 10. Kb1 Bf6 11. Ng5 Bxg5 12. Bxg5 f6 13. Bf4 O-O-O 14.
+b3 h5 15. h3 Rhe8 16. Be2 Bf7 17. g4 hxg4 18. hxg4 Re7 19. g5 Rde8 20. Bf1 Be6
+21. gxf6 gxf6 22. Be3 Rh7 23. Rxh7 Qxh7 24. c4 Bf5 25. Kb2 Qe7 26. Qc3 Qe5 27.
+Be2 Nb4 28. Qxe5 fxe5 29. c3 Nc6 30. Bf3 a6 31. c5 dxc5 32. Bxc5 Rd8 33. Rxd8+
+Nxd8 34. c4 Ne6 35. Be3 c5 36. a3 a5 37. Kc3 Kc7 38. Bd1 b6 39. b4 axb4+ 40.
+axb4 cxb4+ 41. Kxb4 Nd4 42. Bh6 Ne6 43. Be3 1/2-1/2
+

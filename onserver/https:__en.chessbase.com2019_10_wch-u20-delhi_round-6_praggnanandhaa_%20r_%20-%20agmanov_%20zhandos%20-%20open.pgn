@@ -1,0 +1,46 @@
+[Event "open"]
+[Site "?"]
+[Date "2019.10.19"]
+[Round "6.4"]
+[White "Praggnanandhaa, R.."]
+[Black "Agmanov, Zhandos"]
+[Result "1-0"]
+[ECO "A05"]
+[WhiteElo "2567"]
+[BlackElo "2403"]
+[Annotator "Sagar Shah"]
+[PlyCount "103"]
+[EventDate "2019.??.??"]
+
+1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. O-O e6 5. c4 Be7 6. Nc3 O-O 7. Re1 d5 8. cxd5
+exd5 9. d4 Na6 10. Bf4 c5 11. Rc1 h6 $6 {Pragg felt this was unnecessary.} (
+11... Ne4) (11... Nc7 12. dxc5 bxc5 13. e4 $5) 12. a3 Re8 13. Ne5 Nc7 (13...
+cxd4 14. Nb5 $14 (14. Qxd4 Bc5 15. Qd3 (15. Qd2 g5 16. Bxg5 hxg5 (16... Rxe5
+17. Bh4 $44) 17. Qxg5+ $44) 15... g5 $15) 14... g5 15. Bd2 Ne4 16. Nf3 $14 (16.
+Nxd4 Bc5 17. Nef3 (17. Nec6 Qf6 $19) 17... g4 $17)) 14. dxc5 Bxc5 (14... bxc5
+15. Nc4 $1 Ne6 (15... Rb8 16. Bxc7 Qxc7 17. Bxd5 $16 (17. Nxd5 Nxd5 18. Bxd5
+Rbd8 19. e4 Bg5 20. Rc2 Rxe4 21. Rxe4 Bxd5 $11)) 16. Be5 $14) 15. Nd3 Bd6 16.
+Qa4 Ne4 (16... Ne6 17. Bxd6 Qxd6 18. Qb4 Qxb4 19. axb4 $14) 17. Nxe4 dxe4 18.
+Bxd6 (18. Red1 exd3 (18... Nd5 19. Bxd6 (19. Bxe4 Nxf4 20. Bxb7 Nxe2+) 19...
+exd3 20. Bc7 dxe2 21. Bxd8 exd1=Q+ 22. Rxd1 Rexd8) 19. Rxd3 Bxg2 20. Rxd6 (20.
+Kxg2 Re6 (20... Ne6 21. Bxd6 $16) 21. Rcd1 Ne8 22. Bxd6 Nxd6 23. Qf4 $14) 20...
+Qe7 21. Kxg2 Ne6 22. Rd2 $16) 18... Qxd6 19. Red1 Qe7 (19... exd3 20. Bxb7 Rab8
+21. Rxd3 $18) 20. Nf4 Red8 21. Rxd8+ Qxd8 (21... Rxd8 22. Qxa7 $18) 22. Bxe4
+Bxe4 23. Qxe4 $18 {White is a pawn up and should win this quite easily but
+Pragg's endgame technique wasn't the best.} Qe8 24. Qb7 (24. Qxe8+ Nxe8 25. g4
+$16) 24... Nb5 (24... Ne6 25. Nxe6 fxe6 26. Rc7 $18) 25. e3 (25. Rd1 Rd8 26.
+Rxd8 Qxd8 27. Qd5 Qxd5 28. Nxd5 Nd6 29. Ne3 $16) 25... Nd6 26. Qc6 Rd8 27.
+Qxe8+ Nxe8 28. Kf1 Kf8 (28... Rd2 29. Rc8 Kf8 30. b4 Ra2 31. Nd5 $18) 29. Ke2
+Ke7 30. g4 g6 31. h3 (31. h4 g5 32. hxg5 hxg5 33. Nh5) 31... Rd7 32. Rc8 Nd6
+33. Nd5+ Ke6 34. Nf4+ Ke7 35. Rh8 $6 {Pragg misplaces his rook.} (35. Rc2 $16)
+35... Nc4 36. Nd3 Rc7 37. Kd1 Rd7 38. Kc2 Rc7 39. Nf4 Ne5+ (39... Nxe3+ 40. Kb3
+(40. Kd3 g5 41. fxe3 (41. Ng6+ Kf6 $1 $11 (41... fxg6 42. Rh7+)) 41... gxf4 42.
+exf4 $16) 40... g5 41. fxe3 gxf4 42. exf4 $16) 40. Kb3 Rd7 41. Rc8 (41. Rxh6
+Rd2) 41... Nf3 (41... Rd2 42. Rc2) 42. Kc3 Ne5 (42... Ng1 43. h4 g5 44. hxg5
+hxg5 45. Nd3 Nf3 $11) 43. e4 Nf3 44. Nd5+ {White has got his knight on a good
+square and Black hasn't made much of a progress in the last few moves.} Kd6 45.
+Kd3 f5 46. Ke3 Ng5 (46... fxe4 47. Kxe4 (47. Nf6 Rf7 48. Nxe4+) 47... Ng5+ 48.
+Kd4 Ne6+) 47. f3 fxe4 (47... Nxh3) 48. fxe4 Nxh3 49. Rg8 Kc5 (49... Ng5 50.
+Rxg6+ Ke5 51. Rxh6 (51. Nb4 Nxe4 52. Nd3+ Kd5 53. Nf4+ Ke5 54. Re6#) 51... Rf7
+52. Rh5 $18) 50. Rxg6 Rh7 51. Nf6 Rh8 52. Rg8 {The notes in this game contain
+the post game analysis with Pragg.} 1-0

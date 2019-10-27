@@ -1,0 +1,27 @@
+[Event "Polish Team Championship Ekstraliga"]
+[Site "Katowice"]
+[Date "2019.08.31"]
+[Round "4.6"]
+[White "Osmak, Iulija"]
+[Black "Buksa, Nataliya"]
+[Result "1-0"]
+[WhiteElo "2414"]
+[BlackElo "2406"]
+[Annotator "Keti,Ts"]
+[SetUp "1"]
+[FEN "2r3rk/R4Qbp/p1q3p1/P1B1p3/bP2Np2/2P2P2/3R2PP/6K1 b - - 0 34"]
+[PlyCount "12"]
+[EventDate "2019.??.??"]
+[WhiteTeam "KSz Dwie Wieze Krakow"]
+[BlackTeam "KSz Silesia Raciborz"]
+[WhiteTeamCountry "UKR"]
+[BlackTeamCountry "UKR"]
+[WhiteClock "0:36:29"]
+[BlackClock "0:02:11"]
+
+34... Rce8 {[%csl Ye4][%cal Ya7h7] At move 34, White gains material
+advantage and full domination over the whole board.} 35. Rc7 {This move, with
+its tactical motives, leads to crucial end for the black pieces.} Qa8 36. Ng5 Rd8
+37. Qxg8+ $3 Kxg8 (37... Rxg8 38. Nf7# {[%csl Yh8]}) 38. Rxd8+ $1 Qxd8 39.
+Rxg7+ {[%csl Yd8]} Kxg7 40. Ne6+ {[%cal Ye6d8,Ye6g7]} 1-0
+

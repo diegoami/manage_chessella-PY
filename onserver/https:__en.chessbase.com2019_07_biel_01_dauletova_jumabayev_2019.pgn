@@ -1,0 +1,56 @@
+
+
+[Event "Biel Master Tournament 2019"]
+[Site "Biel"]
+[Date "2019.07.22"]
+[Round "1.5"]
+[White "Dauletova, Gulmira"]
+[Black "Jumabayev, Rinat"]
+[Result "0-1"]
+[ECO "B80"]
+[WhiteElo "2243"]
+[BlackElo "2633"]
+[Annotator "TA"]
+[PlyCount "124"]
+[EventDate "2019.07.20"]
+[EventType "swiss"]
+[EventCountry "SUI"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,124,55,52,53,53,50,22,15,20,27,25,39,21,17,0,0,0,0,-9,0,0,40,26,31,
+34,46,17,49,7,7,0,59,0,50,0,56,0,13,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,
+0,0,0,0,0,0,0,0,0,0,0,-15,-16,-20,-26,-37,-36,-20,-13,-20,-20,-145,-112,-145,
+-145,-216,-198,-325,-317,-613,-613,-515,-450,-412,-279,-560,-554,-1405,-1398,
+-6191,-6137,-29976,-1112,-29980,-29983,-29983,-29984,-29984,-29985,-29985,
+-29986,-29990,-29982]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6.
+f3 e6 7. Be3 a6 8. Qd2 h5 {B80: Sicilian Scheveningen: 6 g3 and 6 Be3,
+including English Attack} 9. Be2 (9. O-O-O Bd7 10. Kb1 Qc7 11. Nxc6 Bxc6 12.
+Ne2 b5 13. Rg1 Bb7 14. g3 {0-1 (37) Steingrimsson,H (2573)-Jumabayev,R (2605)
+Batumi 2018}) 9... Bd7 10. a4 (10. h3 {keeps more tension.} Be7 11. O-O O-O 12.
+Rad1 b5 13. a3) 10... Rc8 $146 {The position is equal.} ({Predecessor:} 10...
+Qc7 11. O-O Be7 12. Kh1 Ne5 13. f4 Nc4 14. Bxc4 Qxc4 15. e5 {0-1 (36) Corisco
+Beltran,R (1808)-Quevedo Marin,M (2183) San Sebastian 2010}) 11. Nxc6 Bxc6 12.
+O-O Be7 13. a5 d5 {[%cal Rd5e4]} 14. exd5 Nxd5 15. Nxd5 Qxd5 16. c4 Qe5 17. Qd4
+$36 {[%mdl 2048] White has some pressure.} Qf6 (17... Qxd4 {seems wilder.} 18.
+Bxd4 f6 19. Rfc1 Bd6 20. Bc3 Ke7) 18. Qxf6 gxf6 19. Rfd1 h4 20. h3 Rh5 21. Bf2
+Bb4 22. Be1 Bc5+ (22... Bxe1 $11 23. Rxe1 Kd7) 23. Bf2 (23. Kf1 $14) 23... Be7
+24. Be1 Bc5+ $1 25. Bf2 Bb4 26. Be1 Bxe1 27. Rxe1 Rd8 28. Red1 Rxd1+ 29. Bxd1
+$11 {[%mdl 4096] Endgame KRB-KRB} f5 30. Be2 f4 31. Kf2 Kd7 32. b4 Kc7 33. Rd1
+Bd7 34. Bf1 Rg5 35. Rd4 e5 36. Re4 (36. Rd2 {is interesting.} Rg8 37. Bd3 Ra8
+38. Be4 Bc6 39. Bc2) 36... f6 37. Re1 Rg8 38. Rd1 Re8 39. Bd3 f5 40. Re1 Kd6
+41. Rd1 {Black must now prevent Bxf5+.} Ke7 42. Rb1 Kf6 43. b5 e4 44. Be2 $1
+e3+ 45. Ke1 Rg8 46. bxa6 bxa6 47. Rb6+ (47. c5 $11) 47... Ke5 $17 48. Bf1 Rd8
+49. c5 (49. Be2 $17) 49... Ba4 $1 $19 {...Rd1+ is the strong threat.} 50. Rb1 (
+50. Bxa6 $142 Rd1+ 51. Ke2) 50... Rd2 $1 51. Rc1 $2 (51. Ra1 Bc6 52. Be2) 51...
+Bc6 52. Ra1 Rf2 53. Ra3 Kd4 54. Rb3 $2 (54. Rd3+ Kxc5 55. Rc3+ {[%mdl 64]
+Discovered Attack} Kd6 56. Rd3+ Ke5 57. Ra3) 54... Kxc5 55. Bxa6 Rxg2 56. Bf1
+Ra2 {( -> ...Ra1+)} 57. Bd3 Rxa5 (57... Bxf3 $142 58. Rb1 Bg2 59. Rc1+ {[#]}
+Kd4 $1 {[%mdl 512]} 60. Rd1 Ke5 61. Bc4 Rxa5 62. Rd7 f3 63. Kd1 f2 64. Rd8 Bf3+
+65. Kc2 Rc5 $1 {[%mdl 512]} 66. Re8+ Kf4 67. Kb3 Rxc4 $1 {[%mdl 576] Remove
+Defender, Promotion} 68. Kxc4 f1=Q+ 69. Kc5 Qc1+ 70. Kd4 Qa1+ 71. Kc5 Qc3+ 72.
+Kd6 Qc6+ {[%mdl 64] Double Attack} 73. Ke7 Qc7+ 74. Kf8 Bd5 75. Re7 Qd8+ 76.
+Kg7 Qxe7+ 77. Kh8 Qg5 78. Kh7 e2 79. Kh8 Qh6#) 58. Bxf5 Bxf3 {Black mates.} 59.
+Rb1 Kd4 60. Be6 Rg5 {[%cal Rg5g1]} 61. Bg4 Bxg4 62. Rb4+ Ke5 {Accuracy: White
+= 32%, Black = 79%.} 0-1

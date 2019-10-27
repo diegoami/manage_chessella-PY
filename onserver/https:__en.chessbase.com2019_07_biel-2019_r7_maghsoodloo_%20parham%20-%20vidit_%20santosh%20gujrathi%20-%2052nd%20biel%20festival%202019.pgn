@@ -1,0 +1,111 @@
+[Event "52nd Biel Festival 2019"]
+[Site "Biel"]
+[Date "2019.07.30"]
+[Round "7.2"]
+[White "Maghsoodloo, Parham"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "0-1"]
+[ECO "A08"]
+[WhiteElo "2656"]
+[BlackElo "2703"]
+[Annotator "Tanmay Srinath"]
+[PlyCount "60"]
+[EventDate "2019.??.??"]
+
+{This game witnessed a very interesting tussle. Considering how Carlsen fights
+to the win in every game, I am happy Vidit does the same!} 1. Nf3 (1. e4 c5 2.
+d3 Nc6 3. g3 Nf6 (3... d5 4. Nd2 Nf6 {0-1 (46) Movsesian,S (2723)-Carlsen,M 
+(2775) Moscow 2008}) 4. Bg2 d5 5. Nd2 e5 6. Ngf3 Be7 {1/2-1/2 (54) Amin,B 
+(2680)-Erdos,V (2628) Tbilisi 2017}) 1... Nf6 (1... d5 2. d3 (2. g3 c5 3. Bg2
+Nc6 4. O-O e5 5. d3 {1-0 (50) Grigoryan,K (2557)-Das,A (2431) Seville 2019})
+2... Nf6 3. g3 c5 4. Bg2 Nc6 5. O-O {1-0 (48) Grischuk,A (2775)-Caruana,F 
+(2819) Stavanger 2019}) (1... c5 2. g3 Nc6 3. Bg2 {1-0 (66) Kunte,A (2491)
+-Dudukin,I (2396) chess.com INT 2017}) 2. g3 (2. c4 c5 3. g3 Nc6 {was the move
+order in Kramnik,V (2772)-Gashimov,V (2758) Moscow 2009}) 2... c5 (2... d5 3.
+Bg2 c5 4. O-O Nc6 {1-0 (34) Mamedov,R (2650)-Yu,Y (2739) Hengshui 2019} 5. c4
+e5 6. cxd5 Nxd5 7. d3 {1-0 (66) Kunte,A (2491)-Dudukin,I (2396) chess.com INT
+2017}) 3. Bg2 Nc6 4. O-O {Parham Maghsoodloo allows the reversed KID.} (4. c4
+d6 5. a3 g6 6. Nc3 Bg7 7. Rb1 O-O 8. b4 b6 9. O-O Bg4 10. d3 Rc8 11. h3 Bd7 {
+1-0 (43) Kramnik,V (2772)-Gashimov,V (2758) Moscow 2009}) (4. d4 cxd4 5. Nxd4
+e5 6. Nxc6 dxc6 7. Nd2 Be7 8. b3 Be6 9. Bb2 Nd7 10. O-O O-O 11. e3 Qc7 12. Qe2
+a5 13. a4 {1/2-1/2 (54) Nakamura,H (2787)-Karjakin,S (2763) Moscow 2018}) 4...
+e5 5. d3 d5 6. c3 {It is this move that is a fascinating decision (And
+probably not best). Normally in the King's Indian you don't play the pawn to
+c6, unless you want to take on d4 and make it an open KID.Considering that
+Parham allows Black's pawn to d4, I don't find this move useful in the general
+sense.} (6. e4 $5 {is immediately possible, and is what I feel is best. The
+main point is to keep the queenside knight flexible. e4 is a move we want to
+play anyway, so why not immediately? Play can go} d4 (6... dxe4 7. dxe4 Qxd1 8.
+Rxd1 Nd4 (8... Nxe4 $6 {is not so good - with an extra tempo White is clearly
+better after} 9. Nxe5 Nxe5 10. Bxe4 Bg4 11. Rd5 Nf3+ 12. Kg2 Ne1+ 13. Kh1 $16)
+9. Nxd4 cxd4 10. c3 Bg4 11. f3 $14 {with a slightly better endgame for White,
+Mamedov,R (2650)-Yu,Y (2739) Hengshui 2019}) (6... Be7 $5 {is a clever move,
+trying to transpose to the Nbd2 lines. Here there are two ways to proceed for
+White -} 7. exd5 $5 {is what all the engines want to play, and I find it
+understandable - White opens the center while Black is yet to castle. Play can
+now go} (7. Nc3 {is what I would prefer - heading into standard Reversed KID
+territory.} d4 8. Ne2 O-O 9. Ne1 Ne8 10. f4 f6 11. f5 Nd6 12. g4 Bd7 13. Ng3
+Rc8 14. h4 b5 $13 {with a typical King's Indian Reversed position where the
+better player will win - Ubilava,E (2532)-Natalicchio Escalante,N Maspalomas
+2000}) 7... Nxd5 8. Re1 f6 9. c3 O-O 10. d4 exd4 11. cxd4 Nb6 12. Be3 $14 {
+with a slight advantage to White.}) 7. a4 Bd6 8. Na3 Be6 9. Ng5 Bg4 10. f3 Bh5
+11. h4 h6 12. Nh3 Nd7 13. Nf2 g5 14. hxg5 hxg5 15. Bh3 Qe7 16. Kg2 O-O-O 17.
+Bd2 Kb8 $13 {with a complex position, Grischuk,A (2775)-Caruana,F (2819)
+Stavanger 2019. Note how the queenside knight got an additional possiblity to
+go to a3.}) (6. Nbd2 Be7 7. e4 O-O {and we see a slight problem for White -
+any piece move which he makes causes a slight problem in his kingside plans.}
+8. a4 $5 {This move has scored well for a lot of reasons, the main one being
+that White is refusing to commit in the center and maintains the tension in
+the center.} ({Niel Mcdonald mentions in his wonderful book King's Indian
+Attack move by move that he doesn't find this move very useful in lieu of} 8.
+c3 d4 $1 {and he thus feels the plan is strategically faulty - why should
+White weaken himself on the side where Black is stronger?}) 8... Qc7 $5 {
+this move seems the most testing - Black continues to maintain the tension and
+asks White to commit to something concrete.} 9. exd5 {The best - slow
+maneuvering no longer works because Black can get in a quick Rd8 and dxe4.}
+Nxd5 10. Nc4 Rd8 11. Re1 f6 12. Nfd2 $1 b6 13. c3 Bf8 14. Qb3 $13 {and here I
+prefer White in this complex position - his play seems a bit easier to me, as
+Black has to always watch out for tactics along the open a2-g8 diagonal.}) (6.
+c4 $5 {is another option, trying to take play into a reversed Benoni. Black
+should go} Be7 7. Bg5 (7. cxd5 $5 {is interesting, but not the best in my
+opinion. Play can go} Nxd5 8. Nc3 Be6 9. Ne4 f6 10. Bd2 Qd7 11. Rc1 b6 12. a3
+Rc8 13. Re1 O-O {with a complex position - Kunte,A (2491)-Dudukin,I (2396)
+chess.com INT 2017}) 7... d4 8. e3 O-O 9. exd4 exd4 10. Re1 h6 11. Bxf6 Bxf6
+12. Nfd2 $13 {and if White is a Benoni player, he will enjoy such positions.})
+6... Be7 7. Nbd2 O-O 8. e4 Re8 {Vidit's the first to commit an innacuracy in
+the opening. This natural move is incorrect.} ({Playing a la Carlsen with} 8...
+d4 $1 {is best, now after} 9. Nc4 Qc7 10. cxd4 cxd4 11. a4 Be6 12. b3 {we
+reach Movsesian,S (2723)-Carlsen,M (2775) Moscow 2008, here} Nd7 $1 $15 {
+gives Black a small advantage.}) 9. Qb3 $6 {Parham's first mistake of the game.
+When there are so many theoretical sources available which say allowing d4 is
+not great for White, why do you want to do it?} (9. exd5 $1 {is correct, not
+allowing Black to seize additional space.} Nxd5 {Play can now go} 10. Nc4 Bf6
+11. Re1 (11. Ng5 $5 {is possible, but too peaceful to my liking. After} Bxg5
+12. Bxg5 f6 13. Be3 Nxe3 14. Nxe3 $11 {White's winning chances are not so
+great.}) 11... h6 12. h3 Nb6 13. Ne3 Be6 14. Ng4 Nd7 15. Nxf6+ Qxf6 16. Be3 $13
+{the position is full of pieces and complexity - the better player will win
+from here.}) 9... d4 $1 {Vidit now starts to take over - note how the pawn on
+c3 is a deterrent to White's kingside plans.} 10. Nc4 Nd7 (10... Qc7 $1 $15 {
+is more precise - overprotecting the e5 pawn.}) 11. Bd2 Rb8 12. a4 b6 13. Bh3
+Ba6 14. Rac1 (14. cxd4 $5 {is an interesting option. Play can now go} exd4 15.
+Qc2 Bxc4 16. Qxc4 Nde5 17. Nxe5 Nxe5 18. Qc2 Nf3+ 19. Kg2 Nxd2 20. Qxd2 Qc7 21.
+Rfc1 $14 {and Black still has to solve some problems in this endgame.}) 14...
+dxc3 15. Bxc3 {The computers seem satisfied with Parham's opening play, but I
+am not convinced, and feel the other plan with the kingside pawn avalanche is
+practically stronger.} Rb7 16. Rcd1 Bf8 {Now if allowed time, Black's space
+advantage will tell. It was time for some decisive action.} 17. Rfe1 $6 {
+Meaningless move - the e4 pawn will not move anytime soon, so why kill the
+rook there?} ({Believe it or not, there is only one way to keep the game in
+dynamic balance with} 17. Bxd7 $1 {Trading pieces when low on space is usually
+correct.} Bxc4 $5 18. dxc4 Rxd7 19. Rd5 f6 20. Qb5 Qc8 21. Nd2 $11 {and White
+has enough control of key squares to maintain the balance.}) 17... Qf6 $15 {
+White's pieces are scattered and without purpose.} 18. Bxd7 $6 {The start of a
+faulty operation.} (18. Nh4 {was the only way to keep some chances alive, but
+Black still takes over after} Nd4 19. Qa2 b5 $1 $15) 18... Rxd7 19. Nfxe5 $2 {
+Miscalculation from Parham? I don't blame him - White's position was getting
+difficult anyway.} Nxe5 20. Nxe5 Rxe5 $1 21. f4 {Parham was perhaps relying on
+this, but must have missed Vidit's next move} Qe6 $1 $19 {White's queen is
+hanging, allowing Black to save the rook. The rest is torture for the Iranian
+player.} 22. Qc2 Rh5 23. f5 Qc6 24. Be5 Bb7 25. g4 Rh4 26. Qg2 Bd6 27. d4 cxd4
+28. Bxd6 Qxd6 29. e5 Qd5 30. Qxd5 Rxg4+ {and Maghsoodloo resigned. A wonderful
+way to end the tournament for Vidit! What a performance!} 0-1

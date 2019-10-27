@@ -1,0 +1,36 @@
+[Event "7th Altibox Norway Chess 2019"]
+[White "Vachier Lagrave, Maxime"]
+[Black "Anand, Viswanathan"]
+[Site "Stavanger"]
+[Round "3.5"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.06.06"]
+[WhiteElo "2779"]
+[BlackElo "2767"]
+[PlyCount "63"]
+
+1. e4 {} e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. 0-0 Bc5 6. c3 b5 7. Bb3 d6 8. d4 Bb6 9. a4 Bb7 {C78: Ruy Lopez: Archangelsk and Möller Defences} (9... Rb8 10. a5 Ba7 11. h3 0-0 12. Be3 Ra8 13. Nbd2 h6 14. Re1 Re8 15. Qc2 exd4 16. Nxd4 Nxd4 17. cxd4 c5 {1-0 (63) Saric,I (2689)-Maghsoodloo,P (2649) Batumi 2018} )10. axb5 axb5 11. Rxa8 Bxa8 12. Na3 Nxe4 $146 ({Predecessor:} 12... 0-0 13. Bg5 Re8 14. Bd5 Ne7 15. Bxf6 gxf6 16. Bxa8 Qxa8 {1/2-1/2 (43) Landaw,J (2362)-Kavutskiy,K (2307)
+Arcadia 2014} )13. Nxb5 (13. Qe2 $14 )0-0 $11 14. Qe2 Nf6 15. dxe5 Nxe5 16. Nxe5 Qe8 { [#] Pin} 17. Nd4 Qxe5 18. Qxe5 dxe5 19. Nf3 Re8 20. Ba4 c6 21. Nd2 Bb7 22. Nc4 Bc7 23. Rd1 Nd5 24. Ne3 {[#] aiming for Nxd5.} Rd8 25. c4 Nf4 {Strongly threatening ...Ne2+.} 26. Rxd8+ Bxd8 27. Bd2 {The position is
+equal.} c5 28. b4 cxb4 29. Bxb4 Nd3 30. Bd6 Bb6 31. Kf1 Bc5 32. Bxc5 {Accuracy:
+White = 65%, Black = 80%.} 1/2-1/2
+
+[Event "7th Altibox Norway Chess Armageddon 2019"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Anand, Viswanathan"]
+[Site "Stavanger"]
+[Round "3.5"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.06.06"]
+[WhiteElo "2779"]
+[BlackElo "2767"]
+[PlyCount "80"]
+
+1. e4 {} e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. 0-0 Bc5 6. c3 b5 7. Bb3 d6 8. a4 {Threatens to win with
+axb5.} Bb7 {C78: Ruy Lopez: Archangelsk and Möller Defences} (8... Rb8 9. d4 Bb6 10. a5 Ba7 11. h3 0-0 12. Be3 Ra8 13. Nbd2 h6 14. Re1 Re8 15. Qb1 exd4 16. cxd4 Nb4 17. Ra3 c5 18. dxc5 dxc5 19. Bxf7+ Kxf7 {0-1 (33) Lagarde,M (2612)
+-Jones,G (2698) Reykjavik 2019} )9. d3 h6 10. Re1 0-0 {The position is equal.} 11. axb5 $146 ({Predecessor:} 11. Nbd2 Re8 12. Nf1 Ne7 13. Nh4 Qd7 14. Be3 Bxe3 {0-1 (14) Roux,P (2474)-Bowyer,K (2416) ICCF email 2004} )axb5 12. Rxa8 Bxa8 13. Nh4 Na5 14. Nf5 {And now Ba2 would win.} Nxb3 15. Qxb3 Bc6 16. Na3 Bd7 {Strongly threatening ...Bxf5.} 17. Ne3 Qb8 18. Qd1 b4 $36 { Black
+has the initiative.} 19. Nac4 bxc3 20. bxc3 Qa7 21. Qf3 Rb8 22. Bd2 Qa2 23. h3 Rb1 (23... Bxe3 $1 $19 24. Bxe3 Rb1 )24. Rxb1 $17 Qxb1+ { Double
+Attack} 25. Nf1 Bb5 26. Bxh6 Bxc4 ({Much weaker is} 26... gxh6 $6 27. Qxf6 Qe1 28. Qd8+ Kg7 29. Qh4 $11 )27. dxc4 Qxe4 ({Of course not} 27... Nxe4 $6 28. Qg4 $1 $11 {} )28. Bg5 Qxf3 ({Don't play} 28... Qxc4 $6 29. Bxf6 gxf6 30. Ng3 $11 )29. gxf3 { Endgame KBN-KBN} Nd7 30. Bd8 Nb6 (30... c6 $17 31. Nd2 f6 )31. Nd2 Na8 32. Nb3 f6 ({Black should play} 32... Bb6 $17 33. Bg5 f6 )33. Nxc5 $11 dxc5 {KB-KN} 34. Be7 Nb6 35. Bxc5 Nxc4 36. Kf1 {[#]} (36. Kg2 $15 )Kf7 (36... g5 $142 $1 )37. Ke2 {[#]} ({White should try} 37. h4 )Ke6 (37... g5 $142 $1 )38. h4 $17 {Black is better.} g6 39. Kd3 Kd5 40. Be7 f5 {Accuracy: White = 31%, Black = 62%.} 1/2-1/2
+
+

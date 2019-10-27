@@ -1,0 +1,44 @@
+[Event "GCT Saint Louis Rapid 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.11"]
+[Round "4.1"]
+[White "Caruana, Fabiano"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2819"]
+[BlackElo "2872"]
+[Annotator "V Saravanan"]
+[SetUp "1"]
+[FEN "r1bqkb1r/p2p2p1/2p1ppn1/2p1P2p/7P/1P1P1N2/P1P2PP1/RNBQK2R w KQkq - 0 9"]
+[PlyCount "57"]
+[EventDate "2019.08.10"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,77,13,13,0,14,16,22,16,41,16,54,56,56,54,41,37,66,0,29,22,97,81,108,
+111,145,141,133,133,140,135,140,140,135,133,172,107,120,124,121,102,133,122,
+116,95,226,187,464,441,440,364,743,736,743,730,778,770,879,859,1043,1034,1326,
+1101,1297,1314,1423,1169,1293,944,941,1588] [#]} 9. Nbd2 $146 ({Predecessor:} 
+9. Bb2 d6 10. exd6 e5 11. Nfd2 Bxd6 12. Nc4 Be7 13. Nbd2 Bg4 {1-0 (44) Fischer,
+J (2034)-Milliet,S (2338) Saint Quentin 2016}) 9... d6 $6 10. exd6 e5 11. Bb2
+Bg4 12. Qe2 {and Caruana's subsequent play in the centre proved overwhelming.}
+Qxd6 13. g3 ({White should play} 13. Qe4 $14 Ne7 14. O-O-O) 13... Be7 14. O-O-O
+Nf8 (14... Qd5 $1 $11) 15. Rde1 Ne6 16. Qe4 {[%cal Rf3e5] Hoping for Nxe5!} Qd5
+{[#]} 17. Nxe5 $1 {[%mdl 512] Bam! Taking advantage of the black bishop on g4
+being trapped after a subsequent f2-f3. Carlsen's position went steadily
+downhill from this point on.} Qxe4 (17... fxe5 18. f3) 18. dxe4 {Ng6 is the
+strong threat.} fxe5 19. f3 Nd4 20. fxg4 hxg4 {[#] And this was the point
+which left one's eyes difficult to believe what one saw in his front – has
+anyone ever seen Magnus Carlsen's pawn structure in such tatters?} 21. Nc4 O-O
+22. Kb1 (22. Nxe5 $6 Bd6 $14) ({Better is} 22. c3 $1 $18) 22... Rf2 23. Nxe5
+Nxc2 24. Nxg4 Rg2 25. Reg1 Re2 26. h5 {Threatens to win with h6.} c4 {[#]} (
+26... Rxe4 $16 27. Nf2 (27. Kxc2 Rxg4 28. h6 Bf8 $14) 27... Re6) 27. h6 $1 $18
+{[%cal Rh6g7]} ({Avoid the trap} 27. bxc4 $2 {[#]} Rb8 $1 $19 {[%mdl 512]})
+27... c3 $2 (27... Na3+ 28. Bxa3 Bxa3) 28. h7+ Kf7 29. Rf1+ Bf6 $2 (29... Ke6)
+30. Bc1 {White is clearly winning.} Nb4 31. e5 {[%mdl 64] Pin} Rxa2 32. Ne3 Rh8
+33. exf6 g5 34. Rd1 a5 35. Rd4 c2+ 36. Nxc2 Rxc2 37. Bxg5 {Played: Rd4xb4} 1-0
+

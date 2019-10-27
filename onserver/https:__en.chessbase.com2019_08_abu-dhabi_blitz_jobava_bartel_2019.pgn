@@ -1,0 +1,48 @@
+
+
+[Event "26th Abu Dhabi Master 2019"]
+[Site "Abu Dhabi"]
+[Date "2019.08.09"]
+[Round "8.1"]
+[White "Jobava, Baadur"]
+[Black "Bartel, Mateusz"]
+[Result "1-0"]
+[ECO "A01"]
+[WhiteElo "2594"]
+[BlackElo "2600"]
+[Annotator "TA"]
+[PlyCount "83"]
+[EventDate "2019.08.02"]
+[EventType "swiss"]
+[EventCountry "UAE"]
+[Tiebreak "Cut2 Buchholz+Sum of Buchholz"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,83,0,-8,0,-3,-22,10,8,10,0,0,26,20,2,8,1,4,-17,-7,-29,0,-5,42,28,32,
+-7,0,-22,-24,-38,0,0,0,0,0,0,90,64,101,-64,0,0,48,56,30,53,79,0,0,-9,-9,-9,0,2,
+435,392,430,201,201,185,512,458,502,532,534,527,508,519,479,450,29955,29957,
+6651,6095,2408,7742]} 1. b3 e5 2. Bb2 d6 3. e3 Nf6 4. Ne2 c6 (4... Nc6 5. d4
+exd4 6. Nxd4 Nxd4 7. Qxd4 d5 8. Nc3 Be7 9. O-O-O Be6 10. e4 c5 11. Qa4+ Bd7 12.
+Bb5 d4 13. Bxd7+ Nxd7 14. Nd5 {1/2-1/2 (28) Cabarkapa,N (2451)-Draskovic,L 
+(2444) Niksic 2018}) 5. g3 $146 ({Predecessor:} 5. d4 e4 6. Nbc3 d5 7. Nf4 Bd6
+8. Qd2 Bf5 9. Nce2 g5 10. Ng3 Bg6 11. Nxg6 hxg6 12. Be2 {0-1 (30) Aldridge,A 
+(1946)-Garbett,P (2329) Queenstown 2009}) 5... h5 6. h3 {A01:
+Nimzowitsch-Larsen Opening} Bf5 7. Bg2 Be4 8. Bxe4 {The position is equal.}
+Nxe4 9. d3 Nf6 10. Nd2 Nbd7 11. O-O Qe7 12. Kg2 g6 13. a4 Bg7 14. e4 O-O 15.
+Nc4 Nh7 16. Ba3 Nc5 17. Nc3 Rad8 18. b4 Ne6 $1 19. b5 h4 20. a5 a6 21. bxc6
+bxc6 22. Rb1 f5 (22... Qc7 $11 {keeps the balance.}) 23. Rb6 $16 Nd4 {[#]} 24.
+Rxa6 $2 (24. Nxd6 $1 $16 {Black must now prevent Ndb5.} Rxd6 25. Ne2) 24... Ng5
+(24... hxg3 $15 25. exf5 (25. fxg3 f4 $15) 25... c5) 25. exf5 $11 hxg3 26. fxg3
+{Threatens to win with h4.} gxf5 27. Ne2 $36 {[%mdl 2048] And now Nxd4 would
+win. White fights for an advantage.} Nde6 {[#]} 28. h4 ({White should try} 28.
+Ng1 $1 $16) 28... f4 $1 {[%cal Rf4f3] aiming for ...f3+.} 29. Bxd6 Rxd6 30.
+hxg5 Rd5 31. Nc3 {Qg4 is the strong threat.} Nxg5 $2 {[%mdl 8192]} (31... e4 $1
+$11 {and Black has nothing to worry.} 32. Nxd5 (32. Nxe4 Nxg5 33. Ncd2 f3+ 34.
+Nxf3 Nxf3 $11) 32... cxd5) 32. Nxd5 $18 cxd5 33. Nxe5 (33. Nd2 $142) 33... Qxe5
+34. gxf4 Qf5 $2 (34... Rxf4 35. Ra8+ Bf8) 35. Qh5 ({Weaker is} 35. fxg5 Qxg5+
+36. Kh1 Qh4+ 37. Kg2 Rxf1 $11) 35... Qc8 36. Rg6 ({Not} 36. Qxg5 Qxa6 37. Qxd5+
+Rf7 $14) 36... Nh7 37. Qxd5+ Rf7 38. Rg1 Nf8 39. Rg3 Qa6 {[#]} (39... Qe6 $18
+40. Qg5 Qe8) 40. Rxg7+ $1 Kxg7 41. Kh2+ Ng6 42. f5 {[%mdl 64] Pin. Accuracy:
+White = 54%, Black = 30%.} 1-0

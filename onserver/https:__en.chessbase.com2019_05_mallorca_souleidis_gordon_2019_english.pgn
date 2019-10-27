@@ -1,0 +1,66 @@
+[Event "Llucmajor Open"]
+[Site "?"]
+[Date "2019.05.24"]
+[Round "7"]
+[White "Souleidis, Georgios"]
+[Black "Gordon, Stephen"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "2417"]
+[BlackElo "2533"]
+[Annotator "Georgios Souleidis"]
+[PlyCount "59"]
+[EventDate "2019.??.??"]
+
+1. e4 c5 2. Nc3 a6 ({Gordon plays the Najdorf and usually opts for} 2... d6 {
+but he didn´t want to run into the lately fashioned move} 3. d4 {, but which
+wasn´t my idea.}) 3. g3 {No open Sicilian and no transposition to the Najdorf.
+} b5 4. Bg2 Bb7 5. d3 e6 6. f4 (6. Nh3 {was the move, which Gordon mainly went
+through in his preparation.}) 6... d5 $6 ({Black should play.} 6... b4 $1 7.
+Na4 d5 $11) 7. f5 $1 {My opponent is a strong grandmaster but due to
+occupational reasons in the past years he doesn´t follow the latest trends in
+the chess world. This move was new to him, so he basically ran into a good
+line for White.} d4 ({There are some games with} 7... exf5 8. Nxd5 {which
+proved that White has an edge.}) 8. fxe6 $1 {This is the point. If Black
+accepts the sacrifice he runs into a devastating attack.} fxe6 (8... dxc3 9.
+exf7+ Kxf7 10. Nf3 cxb2 11. Bxb2 Nh6 (11... Nf6 $2 12. Ng5+ Kg8 (12... Kg6 13.
+Qf3 $18) 13. Bh3 Bc8 14. Bxc8 Qxc8 15. e5 $18) 12. O-O Kg8 13. Qd2 Nc6 14. Ng5
+$40) 9. Nce2 e5 10. Nf3 Nc6 11. O-O Be7 {White has a lead in development and
+therefore has to open the position. He has to leverages to do that.} (11... Nf6
+12. a4 b4 13. c3 Bd6 14. cxd4 cxd4 {Tischbierek,R (2452)-Dann,M (2496) Dresden
+(rapid) 2017} 15. Nh4 O-O 16. Bg5 Na5 17. Nf5 h6 18. Bd2 Bc8 19. Rc1 Bxf5 (
+19... Be6 $2 20. Nexd4 $1 exd4 21. e5 Bxe5 22. Bxb4 Re8 23. Bxa8 Qxa8 24. Bxa5
+$18) 20. exf5 Rc8 21. Rxc8 Qxc8 22. Nc1 $36) 12. c3 ({Even better is} 12. a4 $1
+{after which my engine shows a difficult line.} Nf6 13. Ng5 Qd6 14. Nf4 $1 exf4
+15. e5 Qxe5 16. Bxf4 Qf5 17. Bh3 Qg6 18. Ne6 Kf7 19. Bd2 $16) 12... Qd6 $6 (
+12... dxc3 $1 {doesn´t really look logical but went through my head and
+before I could decide how I would have recaptured Black went with the queen to
+d6. The following quite rare line is again given by my engine.} 13. bxc3 Nf6
+14. Ng5 c4 15. d4 Qd6 16. dxe5 Qxd1 17. Rxd1 Nxe5 18. Ne6 Bxe4 19. Nc7+ Kf7 20.
+Bxe4 Nxe4 21. Rf1+ Bf6 22. Nxa8 Rxa8 23. a4 $14) 13. cxd4 cxd4 {Until now we
+followed a game between Niclas Huschenbeth and Luis Engel, played at the
+German championship 2017. I was aware of this game but Gordon had spend quite
+some time as he was early on his own.} 14. Bd2 $16 {I like this move also now
+after a while as White developes another piece and controls the black squares
+at the queenside so that Qb3 can be played without any problems.} (14. a4 {
+Huschenbeth, N (2585) - Engel, L (2319) , 88th ch-GER 2017 Apolda}) 14... Nf6 (
+14... Nh6 15. Nh4 $16) 15. Qb3 $1 {Of course. White doesn´t permit Black to
+castle.} Bc8 16. Ng5 Rf8 {Until now everything was very logical, but now I
+started to pore on my next move. White has a winning continuation, but I saw
+it only after some minutes as the alternatives didn´t appeal much to me.} 17.
+Nf4 $3 {The worst piece comes with great effect into play.} h6 (17... exf4 {
+unmasks the bishop on g2.} 18. e5 Nxe5 19. Bxa8 $18) 18. Nf3 {Good enough but}
+(18. Nge6 $1 {was even better. I feared the knights could get stucked but after
+} Rf7 19. Bh3 $1 exf4 20. Bxf4 Na5 21. Qd1 $18 {[%cal Ge6c7,Rf4d6,Rd6c7,Rc7e8,
+Rc7a8] White is winning.}) 18... g5 (18... exf4 19. e5 Qe6 (19... Nxe5 20. Nxe5
+$18) 20. Qxe6 Bxe6 21. exf6 Rxf6 22. Nxd4 Nxd4 23. Bxa8 $16 {wins the exchange.
+}) 19. Nd5 (19. Ng6 {is better here too it seems, but the following line is
+difficult to calculate.} Be6 20. Qa3 Qxa3 21. bxa3 Rg8 22. Nxe7 Kxe7 23. Rac1
+Bd7 24. Rxc6 $1 Bxc6 25. Nxe5 Bb7 26. Nf3 $18) 19... Bd8 $2 {After his move it
+is over.} (19... Be6 $1 20. Nc7+ $1 Kd7 $1 21. Nxe6 Qxe6 22. Qxe6+ Kxe6 23.
+Rac1 $16 {is not trivial at all.}) 20. Rac1 $1 $18 {Black can basically do
+nothing against the exchange sacrifice.} Be6 21. Rxc6 $1 Qxc6 22. Nxe5 Qd6 23.
+Ng6 Bxd5 (23... Rf7 24. Bb4 Qb8 25. Nc7+ Qxc7 26. Qxe6+ Be7 27. e5 $18) 24.
+exd5 Rg8 25. Bb4 {It all goes like clockwork.} Qb8 26. d6 $1 Rxg6 27. Qe6+ Kf8
+28. Bd5 $1 {The most precise.} Ra7 29. d7+ Kg7 30. Qf7+ 1-0
+

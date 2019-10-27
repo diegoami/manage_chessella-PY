@@ -1,0 +1,79 @@
+[Event "National Open 2019"]
+[Site "Las Vegas USA"]
+[Date "2019.06.14"]
+[Round "5"]
+[White "Nyzhnyk, I..."]
+[Black "Li, Ruifeng"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2649"]
+[BlackElo "2546"]
+[Annotator "Li, Ruifeng"]
+[PlyCount "38"]
+[EventDate "2019.06.12"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 d5 4. e3 c5 5. c3 Nc6 6. Nbd2 Be7 $5 (6... Bd6 {
+is the typical move, but I've never liked it.} 7. Bg3 O-O 8. Bd3 b6 9. Qe2 Bb7
+10. Rd1 Re8 11. e4 Be7 12. e5 Nh5 {happens fairly often, but} 13. h4 $1 {
+seems like a fantastic idea for white. All kinds of nasty things will happen
+on the kingside, and only a masochist would prefer to play black here.}) 7. Bd3
+(7. h3 Bd6 $1 {is the strange idea. Now there is no Bg3 line.} 8. Ne5 Qc7) 7...
+Nh5 {and this is the other idea, as Be7 prevents Bg5. Black will certainly get
+the bishop pair.} 8. Be5 f6 9. Bg3 g6 10. dxc5 Bxc5 11. e4 Nxg3 $2 {Inviting
+serious issues on the h-file.} ({Simple and good enough was} 11... O-O) 12.
+hxg3 dxe4 13. Nxe4 Be7 14. Qe2 Bd7 15. O-O-O $2 {A natural continuation, but
+it was better to prevent the black king from running off to the queenside.} (
+15. Ned2 $1 {[%cal Gd3g6]} Kf7 16. O-O-O $16) 15... Qc7 16. Bc4 {A nice little
+trap.} (16. Neg5 $5 fxg5 17. Bxg6+ Kf8 18. Bxh7 Kg7 19. Qe4 Be8) 16... e5 $1 {
+Now black is safe and sound, and Illya was very unhappy, given that white had
+been clearly better.} (16... O-O-O $6 17. Rxd7 $1 Qxd7 18. Nxf6 (18. Neg5 $5
+Kb8 19. Bxe6 Qd3 20. Qxd3 Rxd3 21. Nf7 Re8 22. Kc2 Rxf3 23. gxf3 Bc5 24. Bc4
+$14) 18... Qd6 19. Qxe6+ Qxe6 20. Bxe6+ Kb8 21. Ne4 $14) 17. Qd2 (17. Rd6 $5 {
+is a funny computer idea. But black can just chill out.} O-O-O (17... Bxd6 $6
+18. Nxf6+ Kd8 19. Ng5 $1) 18. Rxf6 Bxf6 19. Nxf6 Bf5) 17... O-O-O 18. Nd6+ Bxd6
+$11 (18... Kb8 $5 {Illya told me after the game that he had been extremely
+worried about this idea. Obviously, I never thought about it.} 19. Nf7 Na5 $1
+20. Nxd8 Rxd8 21. Bb3 (21. Be2 Ba4 22. Qe3 Bxd1 $11) 21... Nxb3+ 22. axb3 Qa5
+23. Qc2 Bf5 24. Rxd8+ Bxd8 25. Qd1 Qa1+ 26. Kd2 Qxb2+ 27. Ke1 Qxc3+ 28. Ke2 $13
+) 19. Qxd6 e4 1/2-1/2
+
+[Event "National Open 2019"]
+[Site "Las Vegas USA"]
+[Date "2019.06.17"]
+[Round "9"]
+[White "Nyzhnyk, I..."]
+[Black "Gareev, T..."]
+[Result "1-0"]
+[ECO "C70"]
+[WhiteElo "2649"]
+[BlackElo "2584"]
+[Annotator "Li, Ruifeng"]
+[PlyCount "109"]
+[EventDate "2019.06.12"]
+
+1. e4 $3 {A brilliant move by Illya Nyzhnyk, since nobody was expecting it.} e5
+2. Nf3 Nc6 3. Bb5 a6 4. Ba4 g6 $6 {Timur goes for some strange lines, hoping
+to generate winning chances in the final round.} 5. d4 $1 {Energetic. 5.c3 is
+more lackluster.} exd4 (5... b5 $5 {is what the annotator once tried, but it's
+also nothing good.} 6. Bb3 exd4 7. Nxd4 Na5 $14) 6. Nxd4 Bg7 7. Nxc6 bxc6 8.
+Nc3 Ne7 9. Be3 O-O 10. Qd2 d5 11. O-O-O Rb8 12. Bh6 $16 {Black has no real
+play on the queenside, and on account of the pawn structure, white is simply
+better.} Qd6 13. Bb3 dxe4 14. Bxg7 Qxd2+ 15. Rxd2 Kxg7 16. Nxe4 Rb5 17. Re1 Nf5
+18. Nc3 Rc5 19. Re4 h5 20. Na4 Ra5 21. Rd3 Nh6 22. Re2 h4 23. Rc3 Rf5 24. f3
+Rd8 25. Nc5 $5 {Illya has plenty of patience, while greedier people like me
+would have taken the pawn. In this particular position, though, that was a
+perfectly reasonable choice.} (25. Rxc6 h3 26. Rxc7 hxg2 27. Rxg2 Rxf3 28. Bc4
+$16) 25... a5 26. Ba4 Ng4 27. h3 Ne5 28. Ne4 g5 29. Rd2 Rxd2 30. Kxd2 Be6 {
+It's not easy for white to convert, but trading off the bishops is not the
+best idea in any case. The Ba4 was putting constant pressure on c6.} 31. Bb3 $6
+(31. b3 Bd7 32. Ke2) 31... Bd5 ({After} 31... Bxb3 32. axb3 Ng6 $1 33. Ke3 Re5
+34. Kf2 Ne7 {Black's weaknesses are not so pronounced anymore.}) 32. Nf2 Rf4 $2
+{Gareyev tries... something? Unfortunately for him it doesn't work at all.} (
+32... Ng6 $16) 33. Rc5 $1 (33. Nd3 {Maybe Gareyev's idea was in this line.}
+Nxd3 34. Kxd3 g4 $3 35. hxg4 $4 (35. Bxd5 gxh3 36. gxh3 cxd5 37. Ke2 $16) 35...
+Rxf3+ $3 36. gxf3 h3 37. Bxd5 cxd5 $19) 33... a4 34. Bxd5 cxd5 35. Rxd5 Nc4+
+36. Kc3 Ne3 37. Re5 $1 $18 Nf1 38. Rxg5+ Kf6 39. Rc5 Ne3 40. Ng4+ Nxg4 41. hxg4
+{White is simply up too many pawns.} h3 42. gxh3 Rxf3+ 43. Kb4 Rxh3 44. Kxa4
+Rh4 45. Kb5 Rxg4 46. a4 Ke6 47. a5 Kd7 48. a6 Kc8 49. a7 Kb7 50. Rxc7+ Ka8 51.
+c4 f5 52. c5 Rd4 53. b4 f4 54. Ka6 Rd8 55. b5 1-0
+

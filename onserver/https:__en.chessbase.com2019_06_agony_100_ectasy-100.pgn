@@ -1,0 +1,101 @@
+[Event "Mechanics' Winter TNM; G/2"]
+[Site "https://lichess.org/cwTO3sTJ"]
+[Date "2017.01.03"]
+[Round "1.17"]
+[White "Argo, Guy (1974)"]
+[Black "Maser, Thomas (1959)"]
+[Result "1-0"]
+[ECO "C33"]
+[Annotator "Speelman,J"]
+[PlyCount "53"]
+[EventDate "2017.??.??"]
+[Source "ChessBase"]
+
+{[%evp 0,53,18,13,13,7,1,-32,33,10,10,54,37,51,124,93,93,93,106,112,126,117,
+424,378,378,380,396,392,382,398,374,391,388,394,447,418,456,468,465,460,460,
+469,473,470,462,352,374,379,542,536,542,530,530,530,542,550]} 1. e4 e5 2. f4 {
+It shouldn't come as a great surprise that a man who upheld the Lativan Gambit
+for years aslo likes to play the King's Gambit as White.} exf4 3. Bc4 h6 $6 {
+This prepares ...g5, but that is much more effective when White is committed
+to Nf3 so that g4 will hit it. Instead, Black has tried numerous other moves,
+incuding} (3... Nf6 4. Nc3 c6 {which is most common}) (3... Qh4+ 4. Kf1 d6 5.
+Nf3 Qf6 {has also been played a bit and is liked by Houdini at least initially.
+}) 4. d4 g5 $2 5. h4 Bg7 6. hxg5 {[#]} Qxg5 {Positionally horrible and
+tactically bad as well.} ({However, if} 6... hxg5 7. Rxh8 Bxh8 8. Qh5 Qf6 9. Nc3
+{White is simply too quick. For instance, if} c6 10. e5 Qg7 11. Ne4 d5 12. Nd6+
+Kf8 13. Bd3 Na6 14. Bd2 Be6 15. Nf3 Qh6 16. Qxh6+ Nxh6 17. Nxg5 {with a
+totally crushing position.}) 7. Nf3 Qg3+ 8. Kf1 d5 $6 {Trying to get some
+activity, but it doesn't really help.} 9. Bxd5 Nf6 (9... c6 {should have been
+played now, but after} 10. Bb3 {White has an overwhelming position and isn't
+even a pawn down.}) 10. Nc3 c6 $2 {[#] Losing at once} 11. Bxf7+ $1 Kxf7 ({If} 
+11... Kd8 {or elsewhere} 12. Ne2 Qg4 13. Ne5 Qg5 14. Bxf4 {still traps the
+queen.}) 12. Ne2 $1 {And the queen is trapped of course - if she
+retreats to g4 or g6 she'll get forked.} Nxe4 (12... Qg4 13. Ne5+) (12... Qg6
+13. Ne5+) 13. Nxg3 Nxg3+ 14. Kg1 Nxh1 15. Bxf4 Nd7 $6 16. Qd3 $1 {Quite
+rightly leaving the (apparently) moribund horse on h1 for the moment.} Rf8 $6
+17. Bd6 Ng3 $6 18. Qc4+ Kg6 19. Nh4+ Kh7 ({Or} 19... Kg5 20. Bxg3) 20. Bxf8
+Nxf8 21. Qd3+ Kh8 22. Re1 $5 Nh5 23. Re8 {[#]} Nf6 $2 (23... Bf5 $1 24. Rxf8+
+Rxf8 25. Nxf5 {is quite lost, but was the least bad option.}) 24. Ng6+ Kg8 25.
+Qc4+ Nd5 26. Ne7+ Kf7 27. Rxc8 {->[#] And Black resigned. A very nice
+attacking game by Guy in which his opponent was totally bamboozled by the
+ancient King's Gambit. Bxf7+ was nice, and I particularly like how Guy ignored
+the far-flung knight on h1 and even let it escape as he persued the main aim
+of attacking.} 1-0
+
+[Event "Mechanics' Winter TNM; G/2"]
+[Site "San Francisco"]
+[Date "2017.01.31"]
+[Round "5.7"]
+[White "Argo, Guy"]
+[Black "Tracy, Joseph J"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "1974"]
+[BlackElo "2163"]
+[Annotator "Speelman,J"]
+[PlyCount "55"]
+[EventDate "2017.??.??"]
+[Source "ChessBase"]
+
+{[%evp 0,55,31,12,50,45,45,14,14,13,12,1,46,0,86,17,19,21,27,44,49,51,40,46,
+100,67,107,107,99,62,62,73,57,31,56,51,105,97,82,82,88,79,80,81,114,112,109,74,
+203,174,204,199,267,242,282,257,621,634]} 1. e4 e6 2. d4 d5 3. e5 Bd7 4. Nf3 c5
+5. c3 Qb6 6. Be2 Bb5 7. c4 {The most critical move, destabilising Black before
+he's fully organised.} ({If} 7. O-O Bxe2 8. Qxe2 Qa6 {Black has successfully
+exchanged the light-squared bishops.}) 7... Bxc4 ({If} 7... dxc4 8. Nc3 (8. d5
+exd5 9. Qxd5 Ne7 {is more common, but Nc3 looks more difficult for Black.})
+8... Nc6 9. d5 O-O-O 10. O-O exd5 11. b3 Nge7 12. Bf4 {It's far form obvious
+but engines really like this messy position for White.}) 8. Bxc4 dxc4 9. d5
+exd5 10. Qxd5 Ne7 11. Qxc4 {[#]} Ng6 $6 {This looks fairly normal but the
+white queen is a very powerful attacking unit, and Black should have challenged
+her either with} (11... Qb4+ 12. Nbd2 Qxc4 ({If} 12... Nbc6 13. Qc2 {is
+interesting}) 13. Nxc4 Nf5) ({Or} 11... Qa6 12. Nbd2 {when} Qxc4 ({And} 12...
+Nf5 13. Qe4 Nd4 {is alos interesting.}) 13. Nxc4 {transposes to the previous
+note and}) 12. Nc3 Be7 13. Nd5 Qc6 14. Be3 ({I wanted to try} 14. h4 Nd7 15.
+h5 Ngxe5 16. Nxe5 Nxe5 17. Qe4 {but} Rd8 {refutes this.}) 14... Nd7 15. Nxe7
+Nxe7 16. Rd1 O-O 17. O-O {[#] Black is uncomfortable here because the knights
+are slightly loose as is the c5-pawn and White's e5-pawn isn't much of a target.
+} Ng6 $2 (17... Nf5 18. Bf4 {was better for White but within bounds.}) 18. Qd5
+$1 {An excellent move, forcing either the win of the c5-pawn or the
+destruction of Black's pawn structure.} Rfd8 (18... Qxd5 19. Rxd5 Nb8 $1 20.
+Rxc5 Nc6 {is grim but perhaps better than allowing the maiming of the pawn
+structure.}) 19. Qxc6 bxc6 20. Bg5 f6 21. exf6 gxf6 ({or} 21... Nxf6 22. Rxd8+
+Rxd8 23. Rc1 Rd5 24. h3 $16) 22. Be3 Kf7 23. Rd6 {[#]} ({The slower} 23. Rc1 {
+was also strong. White will win a pawn eventually and this way will have time
+to get more organised first, notably by giving the king luft.}) 23... Ke7 $2 ({
+Black needs to look for a way to bail out and} 23... Nde5 {would rush White
+before he's dealt with the back rank.} 24. Nxe5+ Nxe5 25. Rxd8 Rxd8 26. Bxc5
+Rd2 (26... a5 $5 {prevents Bb4.}) (26... a6 27. Bb4 Nc4 28. Bc3 Nd2 {looks lost.
+}) 27. Bxa7 Rxb2 28. Ra1 $1 {And the a-pawn is very dangerous, though Black has
+some chances as long as he doesn't advance the c-pawn too qucikly.} Nd3 29. a4
+(29. Bd4 Rb4) 29... c5 30. a5 Rb5 $1 (30... c4 $2 31. a6 c3 32. Bd4 {is simply
+losing.}) 31. Bb6 $1 (31. a6 Nb4 32. Rb1 Ra5 33. Bb6 Rxa6 34. Bxc5 Nd3 {
+with decent drawing chances.}) 31... Nb4 32. Rb1) 24. Rxc6 {Now Guy is a pawn
+up with the much better position.} Rab8 25. b3 Rb5 26. Rc1 Ngf8 27. Nh4 Ne6 $2
+28. Nf5+ {[#] Winning the house.  An excellent game by Guy in which he
+reacted vigorously to his opponent's opening with a critical line and gained
+the advantage when Black failed to force the exchange of queens.  He changed
+gear at exactly the right moment with Qd5!, forcing the queens off when Black
+was unable to react properly. While there were some chances for Black to
+resist afterwards they were hard to play, and against less tough defence Guy
+was ruthless.} 1-0

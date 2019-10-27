@@ -1,0 +1,27 @@
+[Event "GCT Saint Louis Blitz 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.13"]
+[Round "7"]
+[White "Karjakin, Sergey"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[ECO "E14"]
+[WhiteElo "2798"]
+[BlackElo "2772"]
+[Annotator "Saravanan,V"]
+[SetUp "1"]
+[FEN "2r1r1k1/3qnppp/3p4/p1bP1NP1/1pR1PP2/1P3Q2/P6P/2B2R1K w - - 0 28"]
+[PlyCount "7"]
+[EventDate "2019.08.13"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+28. Nxg7 $1 Kxg7 29. Bb2+ Kg8 30. Qh5 $4 (30. f5 {with the idea of g5-g6 wins
+easily}) 30... Ng6 $4 (30... Nf5 {holds black's position, miraculously} 31. Qh3
+(31. Rf3 Bd4 $1 32. Bxd4 Rxc4 33. bxc4 Rxe4 {is fine for black}) (31. exf5 $2
+Qxf5) 31... Bb6 32. exf5 Rxc4 33. bxc4 {with an unclear position}) 31. Bf6 {
+as white's threat of Qh5-h6 is decisive} 1-0
+

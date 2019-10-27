@@ -1,0 +1,85 @@
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2019.09.16"]
+[Round "3.1"]
+[White "Vitiugov, Nikita"]
+[Black "Karjakin, Sergey"]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "2732"]
+[BlackElo "2760"]
+[Annotator "Sagar Shah"]
+[PlyCount "105"]
+[EventDate "2019.09.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Nbd2 O-O 7. Qe2 Nd7 8.
+Nc4 Re8 9. Bd2 b5 10. Ne3 Nf8 11. h4 {This has been seen before in
+Duda-Laznicka, 2016. The question is, what is the point of this move? Well,
+for starters Ng6 is now longer so comfortable because I can stop Nf4 with g3
+and then push the knight back with h5. But mainly the h-pawn lunge is to move
+ahead with h5-h6 and create weaknesses around the black king.} (11. O-O-O a5
+12. Kb1 a4 13. Nf5 b4 14. g4 Be6 15. Be3 Bd6 16. d4 exd4 17. Bxd4 f6 18. Qe3
+Bxf5 19. gxf5 Qe7 20. Rhe1 c5 21. e5 cxd4 22. exd6 Qxd6 23. Qxd4 Qxd4 24. Nxd4
+Rxe1 25. Rxe1 c5 26. Nc6 Ra6 27. Ne7+ Kf7 28. Nc8 Rc6 29. Re7+ Kg8 30. Re8 Kf7
+31. Re7+ Kg8 32. Re8 g6 33. Ne7+ Kf7 34. Rxf8+ Kxe7 35. Rh8 gxf5 36. Rxh7+ Ke6
+37. Rh4 Rc8 38. a3 Rb8 39. Kc1 Ke5 40. Rc4 Kd5 41. Rf4 Ke5 42. Rc4 Kd5 43. Rf4
+{1/2-1/2 (43) Dominguez Perez,L (2739) -Karjakin,S (2773) Saint Louis 2017})
+11... a5 (11... Ng6 12. g3) 12. a4 $5 {But this is already a new concept.
+White players have usually tried to long castle and continue with their play
+on the kingside which leads to double edged play. What Vitiugov is trying to
+do, is play on the entire board. The downside of this strategy is that he
+doesn't know where he should be placing his king.} Bb6 {Karjakin defends his
+a5 pawn, asking the question to White - what are you going to do with your
+king?} (12... b4 {should be considered. It doesn't seem idea to give up the c4
+square but this is not a big worry for Black, he can always exchange that
+knight with his light squared bishop.} 13. Nc4 f6 14. h5 Ne6 $13) 13. h5 $1 {
+Let's keep moving forward.} Ne6 (13... h6 {Judging from how the game proceeded,
+this might be a wiser choice, stopping White from creating weaknesses on the
+kingside.} 14. g4 $5 Bxe3 15. Qxe3 Bxg4 16. Rg1 Bxf3 17. Qxf3 Qd6 {Black is a
+pawn up, but I am pretty sure that Vitiugov analyzed this position at home and
+came to the conclusion that White has excellent chances.} 18. O-O-O $44) 14.
+Qd1 Nd4 15. h6 g6 16. Nxd4 (16. axb5 cxb5 17. Nxd4 exd4 18. Nd5 Qxd5 $19 {
+is the problem!}) 16... Qxd4 $6 {This seems like an error in judgement by
+Karjakin.} (16... exd4 {This looked like a serious option during the game.} 17.
+Nf1 (17. Ng4 f5 $19) 17... c5 (17... f5 18. Ng3 (18. f3 fxe4 19. fxe4 Rf8 $17 {
+looks excellent for Black.}) 18... fxe4 19. Nxe4 Bf5 20. Qe2 {This is
+positionally quite favourable for White.} Qe7 21. f3 Bxe4 22. dxe4 $1 $16) 18.
+axb5 c4 $5 $132 {We can argue about who is better here, but one thing is sure
+that this is much better than what happened in the game.}) 17. axb5 cxb5 18.
+Qf3 $1 Qd8 (18... Qxb2 $2 19. Qf6 Qxa1+ 20. Ke2 $18) 19. Nd5 f5 20. Nxb6 cxb6
+21. exf5 Bxf5 {Here we reach another critical position. White has his trumps
+in the position, the main one being the excellent pawn structure and the
+little guy on h6 which constantly creates mating threats against the black
+king.} 22. Qb7 (22. O-O $14 {This was the risk free way of playing the
+position.}) 22... Re7 (22... Qd7 23. Qxd7 (23. Qxb6 e4 $132) 23... Bxd7 24. f3
+$14) 23. Qc6 Bd7 (23... e4 {It felt that this was the right way to play in the
+position. However after} 24. O-O $1 {The threat of Bg5 forces Black to make
+some decisions.} (24. Bg5 $2 exd3+ {is just what Black wants.} 25. Bxe7 Qxe7+
+26. Kf1 Rc8 27. Qd5+ Be6 {Black is already close to winning.} 28. Qxd3 $2 Bc4
+$19) 24... exd3 25. Bg5 $16 Rc8 26. Bxe7 Qxe7 27. Qd5+ $18) 24. Qd5+ Re6 (24...
+Be6 25. Qxd8+ Rxd8 26. Bg5 $18) 25. O-O $1 {After the White queen and other
+pieces have created a lot of positional weaknesses in Black's camp, it is time
+now to bring the king to safety!} Qe8 26. Rae1 Bc6 27. Qa2 Qf7 28. Re3 Rae8 29.
+Rfe1 R6e7 {I think such positions are Vitiugov's strength. There are
+weaknesses in the position, he manoeuvres with precision, putting more
+pressure on his opponent.} 30. b3 b4 31. Qa1 Qf6 32. R1e2 $1 Bd5 33. Qe1 {
+Forming Alekhine's Gun!} Re6 34. Bc1 $1 {The bishop makes his way to b2. The
+only downside is that the h6 pawn is weak, but e5 is definitely more important.
+} Qh4 35. Bb2 Bc6 (35... Qxh6 36. Rxe5 $16 Rxe5 $2 37. Rxe5 $18) 36. Rh3 (36.
+Rxe5 Bxg2 $1 {You can always bank on the minister of defence to come up with
+creative defensive ideas.} 37. Kxg2 Qg4+ 38. Kf1 Qh3+ $11) 36... Qg5 37. Rg3
+Qxh6 38. Bxe5 Qh4 39. Ree3 Qe7 40. Bd4 b5 41. Bb6 (41. Rxe6 Qxe6 42. Re3 Qf7
+43. f3 $16) 41... Qd6 42. Rxe6 Rxe6 43. Re3 Rxe3 44. Qxe3 {This endgame is
+better for White on two counts: 1. The black king is weaker than White's king
+and 2. the black pawns are weaker than white's. The opposite coloured bishop
+with the queens on the board, adds to Black's worry rather than increase the
+drawing tendencies.} a4 45. Bc5 Qd5 46. f3 axb3 (46... a3 47. Bxb4 a2 48. Bc3
+$16 {White has things under control.}) 47. cxb3 Qxb3 48. Qe5 {The threat is
+Qb8+ followed by either winning the c6 bishop or mating the black king.} Qf7
+49. Bd4 Kf8 50. Bc5+ Kg8 51. Bd4 Kf8 52. Kf2 $5 {A practical choice. Threat is
+to play Qc5+ now and pick up the bishop on c6. Karjakin deals with this threat
+but forgets about the other threat!} (52. Qc5+ Qe7 53. Qxc6 Qe1+ 54. Kh2 Qh4+
+55. Kg1 Qxd4+ $19) 52... Qd5 $2 (52... Bd7 53. Bc5+ Kg8 54. Bxb4 $16 {White
+has his chances in this position, but Karjakin should be able to hold.}) 53.
+Bc5+ $1 {Game over!} (53. Bc5+ Kg8 (53... Kf7 54. Qe7+ Kg8 55. Qf8#) 54. Qb8+
+Kf7 55. Qf8+ Ke6 56. Qe7+ Kf5 57. g4+ Kf4 58. Be3#) 1-0

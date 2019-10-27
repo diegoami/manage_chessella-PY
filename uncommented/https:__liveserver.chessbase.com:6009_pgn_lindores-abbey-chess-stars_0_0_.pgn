@@ -1,0 +1,525 @@
+[Event "Lindores Abbey Chess Stars"]
+[Site "Lindores Abbey"]
+[Date "2019.05.25"]
+[Round "1.1"]
+[White "Karjakin, Sergey"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2781"]
+[BlackElo "2733"]
+[Annotator "TA"]
+[PlyCount "131"]
+[EventDate "2019.05.25"]
+[EventType "tourn (rapid)"]
+[EventRounds "6"]
+[EventCountry "SCO"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "IND"]
+
+{[%evp 18,131,15,12,38,35,24,27,27,30,37,25,22,40,33,6,11,16,8,14,18,21,30,31,
+33,38,32,27,77,79,80,82,82,77,83,77,85,86,83,72,89,83,84,85,89,82,89,79,92,97,
+120,111,122,114,128,114,127,115,142,127,126,126,132,136,153,154,144,140,134,
+121,121,11,9,0,0,0,0,0,0,0,0,0,0,0,52,52,47,46,52,55,77,81,339,331,406,402,429,
+317,291,236,284,189,267,222,684,612,535,516,508,500,29972,29973,29972,29973,
+29967,4627]} 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7.
+dxc5 Bxc5 8. Qc2 Nc6 9. Rd1 Qa5 10. a3 Re8 {[#] Hoping for ...e5. D37: Queen's
+Gambit Declined: 5 Bf4} (10... Rd8 11. Nd2 d4 12. Nb3 Qb6 13. Na4 Bb4+ 14. axb4
+Qxb4+ 15. Nd2 e5 16. Bg5 Qa5 17. Qb3 Nb4 18. Bxf6 gxf6 {1-0 (52) Karjakin,S 
+(2753)-Anand,V (2779) Shamkir 2019}) 11. Nd2 e5 12. Bg5 {Black must now
+prevent Nb3.} Nd4 $1 {[%cal Rd4c2] White has an edge.} 13. Qb1 {And now Bxf6
+would win.} (13. exd4 exd4+ 14. Be2 (14. Ne2 $2 Ng4 $19) 14... dxc3 $17) 13...
+Bf5 14. Bd3 Bxd3 $1 15. Qxd3 Ne4 $1 ({Avoid the trap} 15... e4 $2 16. Qb1 $18)
+16. Ndxe4 ({Of course not} 16. exd4 exd4 17. O-O dxc3 $17) (16. Ncxe4 {feels
+hotter.} dxe4 17. Qxe4 Qb6 18. b4 Bf8 19. Qd3) 16... dxe4 17. Qd2 Ne6 $1 $132 {
+[%cal Re6g5][%mdl 2048] [#] Black is fighting back} 18. Nxe4 $146 ({
+Predecessor:} 18. Bh4) 18... Qa6 19. O-O Qxc4 20. Qd5 Qxd5 21. Rxd5 Bf8 22. Bf6
+Rac8 23. Bxe5 Nc7 24. Bxc7 $1 Rxc7 25. Nd2 Rc2 26. Rb1 Re6 27. Kf1 Rb6 28. b4
+a5 29. Nf3 axb4 30. axb4 Be7 31. b5 g6 32. g4 h6 33. Kg2 Bf6 34. Kg3 Re6 35. h3
+Re7 36. Ne1 Ra2 37. Nd3 Kg7 38. Kf3 Bh4 39. Rb2 Ra1 40. Rc2 Rb1 41. Rc1 Rb3 42.
+Rc8 Re6 43. Ke2 Ra3 44. Nc5 ({White should play} 44. Rc2 $16) 44... Ra2+ $11
+45. Kd3 Re7 46. Rd7 Rxd7+ 47. Nxd7 {aiming for f4.} Bxf2 {[%mdl 4096] Endgame
+KRB-KRN} 48. Rc7 Ra3+ 49. Kc4 Rxe3 50. Rxb7 Rxh3 (50... Bg1 $11) 51. Ne5 $14
+Kf6 52. Kd5 Kg5 53. Rxf7 Be3 54. Rg7 Kf4 $2 {[%mdl 8192]} (54... Kh4 $16) 55.
+Rxg6 $18 Kg3 56. b6 {[%cal Bb5b6,Bb6b7][%mdl 32]} Rh1 {Now ...Rb1 and Black
+clings on.} 57. b7 Rb1 58. Rg7 Bf4 {intending ...Rb5+.} 59. Nc4 Rd1+ (59... Bb8
+$142 60. Kc6 Rc1) 60. Kc5 Rc1 $2 (60... Kh4 61. Rf7 Rb1) 61. Rf7 {[#] Strongly
+threatening Rxf4!} Rb1 62. Kc6 Bb8 63. Rf8 Rb4 (63... Bf4 $18 64. Rf6 Rb3) 64.
+Rxb8 {White mates.} Rxc4+ 65. Kb5 Rc1 66. Rg8 {Accuracy: White = 78%, Black =
+39%.} (66. Rh8 $142 Rb1+ 67. Ka6 Kxg4 68. Rxh6 Ra1+ 69. Kb6 Rb1+ 70. Kc7 Rc1+
+71. Rc6) 1-0
+
+[Event "Lindores Abbey Chess Stars"]
+[Site "Lindores Abbey"]
+[Date "2019.05.25"]
+[Round "1.2"]
+[White "Carlsen, Magnus"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[ECO "E24"]
+[WhiteElo "2861"]
+[BlackElo "2805"]
+[Annotator "TA"]
+[PlyCount "87"]
+[EventDate "2019.05.26"]
+[EventType "tourn"]
+[EventCountry "SCO"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 14,87,0,0,0,0,0,0,2,0,0,-35,-31,-57,0,0,0,0,104,104,90,61,55,10,9,14,19,
+13,13,13,19,0,57,64,43,56,65,61,66,0,0,0,22,3,6,0,14,31,11,0,22,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+
+5. bxc3 b6 6. f3 Nc6 7. e4 Ba6 8. Bg5 h6 {E24: Nimzo-Indian: SÃ¤misch: Unusual
+Black 5th moves and 5...c5 sidelines} 9. Bh4 $1 Na5 10. e5 g5 11. Bf2 Nh5 12.
+c5 Bxf1 13. Kxf1 {[#]} d6 $146 (13... Nf4 $15) ({Predecessor:} 13... f5 14. Ne2
+Qe7 15. g3 bxc5 16. Kg2 {1/2-1/2 (46) Volkov,S (2634)-Brodsky,M (2559) Dubai
+2003}) 14. exd6 $11 cxd6 15. h4 gxh4 (15... Ke7 $11) 16. Rxh4 Nf6 17. c4 (17.
+Qe2 {is more complex.} d5 18. Nh3 Nc4 19. Nf4 Qd7 20. Kg1) 17... dxc5 18. dxc5
+{White wants to play Qa4+.} Qxd1+ 19. Rxd1 Nd7 20. cxb6 axb6 21. Ne2 Rc8 22.
+Nc3 Rxc4 (22... Nxc4 $11 23. Nb5 Ke7) 23. Ne4 $14 Rc7 24. Nd6+ {[%mdl 1024]
+White has compensation.} Kf8 25. Bg3 {[#] Hoping for Nxf7!} e5 26. Nf5 (26. Nb5
+$14 Rb7 27. Be1) 26... f6 $11 27. Be1 Nb7 28. Rg4 {Strongly threatening Rg7.}
+Rh7 $1 29. Ra4 Nbc5 30. Ra8+ Kf7 31. Bb4 {The position is equal.} h5 32. Rd8
+Ke6 33. Nd6 Rc6 34. Nc8 Kf5 35. Re8 {Threatening Ne7+.} Kg6 36. Kg1 Kf7 37. Rd8
+Kg6 38. Kh2 Rg7 39. Re8 Kh7 40. Nd6 Rg8 41. Re7+ Rg7 42. Re8 Rg8 43. Re7+ Rg7
+44. Re8 {Accuracy: White = 49%, Black = 69%.} 1/2-1/2
+
+[Event "Lindores Abbey Chess Stars"]
+[Site "Lindores Abbey"]
+[Date "2019.05.25"]
+[Round "2.1"]
+[White "Anand, Viswanathan"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[ECO "C84"]
+[WhiteElo "2774"]
+[BlackElo "2805"]
+[Annotator "RC"]
+[PlyCount "79"]
+[EventDate "2019.05.26"]
+[EventType "tourn"]
+[EventCountry "SCO"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "1500+10"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:00]} 3. Bb5 {[%emt 0:00:00]} a6 {[%emt 0:00:00]} 4. Ba4 {[%emt 0:00:
+05]} Nf6 {[%emt 0:00:01]} 5. O-O {[%emt 0:00:03]} Be7 {[%emt 0:00:01]} 6. d3 {
+[%emt 0:00:11]} b5 {[%emt 0:00:02]} 7. Bb3 {[%emt 0:00:01]} d6 {[%emt 0:00:02]}
+8. c3 {[%emt 0:00:18]} Na5 {[%emt 0:00:32]} 9. Bc2 {[%emt 0:00:03]} c5 {
+[%emt 0:00:01]} 10. a4 {[%emt 0:00:29]} b4 {[%emt 0:00:47]} 11. cxb4 {[%emt 0:
+00:10]} cxb4 {[%emt 0:00:02]} 12. d4 {[%emt 0:00:02]} exd4 {[%emt 0:00:41]} 13.
+Nxd4 {[%emt 0:00:07]} O-O {[%emt 0:00:02]} 14. Nd2 {[%emt 0:00:08]} Re8 {
+[%emt 0:00:08]} 15. Re1 {[%emt 0:00:26]} Bb7 {[%emt 0:00:07]} 16. N2f3 {
+[%emt 0:01:12]} Rc8 {[%emt 0:00:37]} 17. Bd3 {[%emt 0:01:42]} Bf8 {[%emt 0:01:
+43]} 18. Bg5 {[%emt 0:01:02]} h6 {[%emt 0:00:01]} 19. Bxf6 {[%emt 0:00:04]}
+Qxf6 {[%emt 0:00:01]} 20. Qd2 {[%emt 0:00:06]} Qd8 {[%emt 0:02:17]} 21. h4 {
+[%emt 0:01:39]} Qb6 {[%emt 0:00:18]} 22. Rad1 {[%emt 0:00:25]} Nc4 {[%emt 0:00:
+47]} 23. Qe2 {[%emt 0:00:14]} Ne5 {[%emt 0:01:02]} 24. Nxe5 {[%emt 0:01:05]}
+Rxe5 {[%emt 0:00:37]} 25. Nf3 {[%emt 0:01:25]} Re6 {[%emt 0:00:46]} 26. Qe3 {
+[%emt 0:00:16]} Qxe3 {[%emt 0:01:38]} 27. Rxe3 {[%emt 0:00:04]} g6 {[%emt 0:00:
+55]} 28. Nd2 {[%emt 0:03:03]} Bg7 {[%emt 0:00:54]} 29. Bc4 {[%emt 0:01:08]} d5
+{[%emt 0:02:02]} 30. exd5 {[%emt 0:01:36]} Rxe3 {[%emt 0:00:02]} 31. fxe3 {
+[%emt 0:00:02]} Bxb2 {[%emt 0:00:03]} 32. d6 {[%emt 0:01:31]} Bf6 {[%emt 0:04:
+08]} 33. d7 {[%emt 0:01:41]} Rc7 {[%emt 0:01:10]} 34. Rf1 {[%emt 0:00:41]} Rxd7
+{[%emt 0:00:40]} 35. Rxf6 {[%emt 0:00:48]} Rxd2 {[%emt 0:00:02]} 36. Rxf7 {
+[%emt 0:00:58]} Rxg2+ {[%emt 0:01:43]} 37. Kf1 {[%emt 0:00:04]} Rc2 {[%emt 0:
+00:01]} 38. Rf4+ {[%emt 0:00:23]} Kg7 {[%emt 0:00:02]} 39. Rf7+ {[%emt 0:00:02]
+} Kg8 {[%emt 0:00:02]} 40. Rf4+ {[%emt 0:00:10]} 1/2-1/2
+
+[Event "Lindores Abbey Chess Stars"]
+[Site "Lindores Abbey"]
+[Date "2019.05.25"]
+[Round "2.2"]
+[White "Karjakin, Sergey"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "E94"]
+[WhiteElo "2752"]
+[BlackElo "2861"]
+[Annotator "ChessBase"]
+[PlyCount "79"]
+[EventDate "2019.05.26"]
+[EventType "tourn"]
+[EventCountry "SCO"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "1500+10"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:10]} g6 {[%emt 0:
+00:10]} 3. Nc3 {[%emt 0:00:00]} Bg7 {[%emt 0:00:00]} 4. e4 {[%emt 0:00:00]} d6
+{[%emt 0:00:00]} 5. Nf3 {[%emt 0:00:00]} O-O {[%emt 0:00:00]} 6. Be2 {[%emt 0:
+00:00]} e5 {[%emt 0:00:02]} 7. O-O {[%emt 0:00:03]} Na6 {[%emt 0:00:16]} 8. Re1
+{[%emt 0:00:40]} c6 {[%emt 0:01:12]} 9. d5 {[%emt 0:00:48]} Nc5 {[%emt 0:00:44]
+} 10. Qc2 {[%emt 0:02:53]} Qb6 {[%emt 0:03:33]} 11. h3 {[%emt 0:01:29]} cxd5 {
+[%emt 0:01:26]} 12. cxd5 {[%emt 0:00:05]} Bd7 {[%emt 0:00:37]} 13. Be3 {
+[%emt 0:00:14]} Rfc8 {[%emt 0:00:48]} 14. Rac1 {[%emt 0:01:07]} Qd8 {[%emt 0:
+01:31]} 15. Qb1 {[%emt 0:00:58]} a5 {[%emt 0:04:34]} 16. Nd2 {[%emt 0:00:07]}
+Nh5 {[%emt 0:00:04]} 17. Nc4 {[%emt 0:03:06]} Bf8 {[%emt 0:00:34]} 18. Bg4 {
+[%emt 0:03:26]} Bxg4 {[%emt 0:00:30]} 19. hxg4 {[%emt 0:00:02]} Nf4 {[%emt 0:
+00:02]} 20. Bxf4 {[%emt 0:03:48]} exf4 {[%emt 0:00:01]} 21. e5 {[%emt 0:00:01]}
+dxe5 {[%emt 0:02:02]} 22. Nxe5 {[%emt 0:00:02]} Bg7 {[%emt 0:00:05]} 23. Nf3 {
+[%emt 0:02:13]} Bxc3 {[%emt 0:00:58]} 24. Rxc3 {[%emt 0:00:01]} Qxd5 {[%emt 0:
+00:02]} 25. Re5 {[%emt 0:00:12]} Qd6 {[%emt 0:00:05]} 26. Qc1 {[%emt 0:00:07]}
+b6 {[%emt 0:00:11]} 27. Qxf4 {[%emt 0:00:14]} Ne6 {[%emt 0:02:01]} 28. Qe4 {
+[%emt 0:00:20]} Rab8 {[%emt 0:00:35]} 29. Rd5 {[%emt 0:01:26]} Qf4 {[%emt 0:00:
+10]} 30. Qxf4 {[%emt 0:00:49]} Nxf4 {[%emt 0:00:02]} 31. Rxc8+ {[%emt 0:00:43]}
+Rxc8 {[%emt 0:00:03]} 32. Rd6 {[%emt 0:01:21]} b5 {[%emt 0:01:31]} 33. g3 {
+[%emt 0:00:35]} Rc1+ {[%emt 0:00:02]} 34. Kh2 {[%emt 0:00:01]} Ne6 {[%emt 0:00:
+04]} 35. Kg2 {[%emt 0:00:13]} Rc2 {[%emt 0:00:34]} 36. Rd2 {[%emt 0:00:05]} Rc5
+{[%emt 0:00:02]} 37. a3 {[%emt 0:01:50]} a4 {[%emt 0:01:18]} 38. Nd4 {[%emt 0:
+01:02]} Rd5 {[%emt 0:02:50]} 39. Nf3 {[%emt 0:00:01]} Rc5 {[%emt 0:00:31]} 40.
+Nd4 {[%emt 0:00:02]} 1/2-1/2
+
+[Event "Lindores Abbey Chess Stars"]
+[Site "Lindores Abbey"]
+[Date "2019.05.25"]
+[Round "3.1"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[ECO "E48"]
+[WhiteElo "2861"]
+[BlackElo "2774"]
+[Annotator "ChessBase"]
+[PlyCount "61"]
+[EventDate "2019.05.26"]
+[EventType "tourn"]
+[EventCountry "SCO"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "1500+10"]
+
+1. d4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:00]} e6 {[%emt 0:
+00:00]} 3. Nc3 {[%emt 0:00:00]} Bb4 {[%emt 0:00:00]} 4. e3 {[%emt 0:00:18]} O-O
+{[%emt 0:00:05]} 5. Bd3 {[%emt 0:00:03]} d5 {[%emt 0:00:19]} 6. cxd5 {[%emt 0:
+00:04]} exd5 {[%emt 0:00:04]} 7. Nge2 {[%emt 0:00:04]} Re8 {[%emt 0:01:09]} 8.
+Bd2 {[%emt 0:00:05]} b6 {[%emt 0:02:01]} 9. O-O {[%emt 0:02:01]} Bd6 {[%emt 0:
+00:42]} 10. Rc1 {[%emt 0:02:36]} c5 {[%emt 0:00:38]} 11. Nb5 {[%emt 0:01:30]}
+Bf8 {[%emt 0:01:05]} 12. f3 {[%emt 0:05:25]} Nc6 {[%emt 0:04:08]} 13. Kh1 {
+[%emt 0:00:09]} Bb7 {[%emt 0:00:53]} 14. a3 {[%emt 0:00:35]} g6 {[%emt 0:01:13]
+} 15. Bb1 {[%emt 0:04:37]} Rc8 {[%emt 0:01:43]} 16. Ba2 {[%emt 0:02:08]} a6 {
+[%emt 0:01:39]} 17. Nbc3 {[%emt 0:00:02]} Bg7 {[%emt 0:02:15]} 18. dxc5 {
+[%emt 0:00:19]} bxc5 {[%emt 0:00:04]} 19. Be1 {[%emt 0:01:36]} d4 {[%emt 0:01:
+10]} 20. Na4 {[%emt 0:00:13]} Nd7 {[%emt 0:01:41]} 21. Bxf7+ {[%emt 0:01:10]}
+Kxf7 {[%emt 0:00:03]} 22. Qb3+ {[%emt 0:00:02]} Kf8 {[%emt 0:00:51]} 23. Qxb7 {
+[%emt 0:00:02]} Rxe3 {[%emt 0:00:06]} 24. Ng3 {[%emt 0:01:14]} Nce5 {[%emt 0:
+00:40]} 25. Bd2 {[%emt 0:00:57]} Rd3 {[%emt 0:01:07]} 26. Ne4 {[%emt 0:00:39]}
+Rb8 {[%emt 0:01:14]} 27. Qd5 {[%emt 0:00:29]} Rxd2 {[%emt 0:00:30]} 28. Nxd2 {
+[%emt 0:00:04]} Nd3 {[%emt 0:00:06]} 29. Rc2 {[%emt 0:00:31]} Qe7 {[%emt 0:01:
+07]} 30. Ne4 {[%emt 0:00:08]} Nf4 {[%emt 0:00:06]} 31. Qc4 {[%emt 0:00:08]} 1-0
+
+[Event "Lindores Abbey Chess Stars"]
+[Site "Lindores Abbey"]
+[Date "2019.05.25"]
+[Round "3.2"]
+[White "Ding, Liren"]
+[Black "Karjakin, Sergey"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2760"]
+[BlackElo "2781"]
+[Annotator "TA"]
+[PlyCount "65"]
+[EventDate "2019.05.25"]
+[EventType "tourn (rapid)"]
+[EventRounds "6"]
+[EventCountry "SCO"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeamCountry "CHN"]
+[BlackTeamCountry "RUS"]
+
+{[%evp 13,65,-5,10,0,8,0,8,0,-11,-20,0,-16,12,0,19,19,22,-31,-6,-48,33,28,108,
+83,108,101,164,156,171,150,162,138,181,92,114,95,120,112,109,97,169,152,171,
+141,213,199,434,433,504,526,693,670,810,798]} 1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4.
+Bd2 Be7 5. Bg2 d5 6. Nf3 O-O 7. O-O Nbd7 {[%cal Bb8d7,Bd7b6,Bb6c4][%mdl 32]} 8.
+Qb3 {E11: Bogo-Indian} (8. Qc2 c6 9. Rc1 b6 10. cxd5 cxd5 11. Qd1 Bb7 12. a3 a6
+13. Bf4 Rc8 14. Nbd2 Rxc1 15. Rxc1 Qa8 16. Ne5 Nxe5 17. Bxe5 {1/2-1/2 (41)
+Mamedyarov,S (2790)-Radjabov,T (2756) Shamkir 2019}) (8. Qc2 c6 9. Rd1 b6 10.
+Bf4 Ba6 11. Nbd2 Nh5 12. Be3 Bd6 13. Rac1 Qe7 14. Bg5 f6 15. Be3 Rfc8 16. Qa4
+Bb7 17. cxd5 exd5 18. Ne1 {1-0 (32) Ding,L (2805)-Karjakin,S (2752) Abidjan
+2019}) 8... Nb6 9. c5 Nc4 10. Qc2 {The position is equal.} b6 11. c6 a5 12. Bf4
+Ba6 13. Rd1 $146 ({Predecessor:} 13. Re1 b5 14. Nbd2 b4 15. Nxc4 Bxc4 {1/2-1/2
+(49) Huang,Q (2449)-Zhai,M (2343) Tianjin 2018}) 13... h6 14. Ne5 Qe8 15. a4 ({
+White should play} 15. Nc3 $11) 15... Nxe5 16. dxe5 Ng4 (16... Nh5 $1 $15) 17.
+h3 $14 Nxf2 (17... g5 $11 18. Bxg5 hxg5 19. hxg4 Rd8) 18. Kxf2 $16 Bc5+ {[#]}
+19. Be3 $1 Bxe3+ (19... Qxc6 $16 20. Bxc5 bxc5) 20. Kxe3 $18 f6 {[#]} 21. exf6
+$1 Rxf6 22. Bf3 Qe7 23. Kd2 (23. Na3 $18) 23... Qd6 24. Kc1 Qxg3 25. Ra3 Raf8
+26. Nc3 {And now Nxd5! would win.} Kh8 (26... Qe5 $16 {was necessary.}) 27. Nb5
+Bxb5 28. axb5 Qh4 (28... Qg5+ $16 29. Kb1 Rf4) 29. Kb1 Rf4 $2 (29... Qg5 {
+was called for.} 30. Rd4 Qe5) 30. Re3 {White is clearly winning.} R8f6 31. Bg4
+Rc4 32. Qd3 Rb4 33. Bxe6 {Accuracy: White = 54%, Black = 22%.} 1-0
+
+[Event "Lindores Abbey Chess Stars"]
+[Site "Lindores Abbey"]
+[Date "2019.05.26"]
+[Round "4.1"]
+[White "Anand, Viswanathan"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[WhiteElo "2733"]
+[BlackElo "2869"]
+[Annotator "TA"]
+[PlyCount "79"]
+[EventDate "2019.05.25"]
+[EventType "tourn (rapid)"]
+[EventRounds "6"]
+[EventCountry "SCO"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[WhiteTeamCountry "IND"]
+[BlackTeamCountry "NOR"]
+
+{[%evp 13,79,13,23,0,27,0,0,-5,-6,0,2,0,0,0,0,0,0,-10,0,-1,0,-5,0,-18,-2,-18,
+-12,-14,-7,-14,-21,-18,-9,-8,-6,-6,0,-6,-6,-7,-7,-7,-7,-7,-7,-7,-7,-7,-7,-7,-7,
+-7,-6,-6,0,-6,-6,-6,-6,-7,0,0,0,0,0,-7,0,-7]} 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4.
+Nf3 Bg7 5. h3 a6 6. a4 O-O 7. Be3 Nc6 8. Bc4 {B08: Pirc Defence: Classical
+System} e6 9. d5 exd5 $146 {The position is equal.} ({Predecessor:} 9... Nb4
+10. O-O a5 11. Re1 e5 12. Qd2 Ne8 13. Ng5 h6 14. Nf3 Kh7 15. Nh2 Nf6 {0-1 (27)
+Golubka,P (2503)-Onischuk,V (2632) Batumi 2018}) 10. exd5 Ne7 11. O-O b6 12.
+Re1 Bb7 13. Qd2 b5 14. axb5 axb5 15. Rxa8 Bxa8 16. Bxb5 Nexd5 17. Nxd5 Bxd5 18.
+Be2 Re8 19. c3 Bb7 20. Qd1 Qb8 21. Bc1 Qa8 22. Bf1 Rxe1 23. Nxe1 Nd7 24. Be3
+Nf8 25. Nc2 Qa4 26. Be2 Ne6 27. Nd4 Qxd1+ 28. Bxd1 Nxd4 29. Bxd4 Bxd4 30. cxd4
+$11 {[%mdl 4096] Endgame KB-KB} g5 31. g3 Kg7 32. f4 gxf4 33. gxf4 Kf6 {
+White must now prevent ...Kf5.} 34. Kf2 Bc8 35. h4 Kf5 36. Ke3 h6 37. Bf3 Bd7
+38. Bd1 Bc8 39. Bf3 Bd7 40. Bd1 {Accuracy: White = 71%, Black = 52%.} 1/2-1/2
+
+[Event "Lindores Abbey Chess Stars"]
+[Site "Lindores Abbey"]
+[Date "2019.05.26"]
+[Round "4.2"]
+[White "Karjakin, Sergey"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[WhiteElo "2752"]
+[BlackElo "2805"]
+[Annotator "ChessBase"]
+[PlyCount "77"]
+[EventDate "2019.05.26"]
+[EventType "tourn"]
+[EventCountry "SCO"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "1500+10"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:00]} 3. Nc3 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 4. d4 {[%emt 0:00:
+00]} exd4 {[%emt 0:00:00]} 5. Nxd4 {[%emt 0:00:00]} Bb4 {[%emt 0:00:01]} 6.
+Nxc6 {[%emt 0:00:00]} bxc6 {[%emt 0:00:01]} 7. Bd3 {[%emt 0:00:01]} d5 {
+[%emt 0:00:02]} 8. Bd2 {[%emt 0:00:03]} O-O {[%emt 0:02:18]} 9. O-O {[%emt 0:
+00:02]} Re8 {[%emt 0:00:10]} 10. Nxd5 {[%emt 0:00:23]} Nxd5 {[%emt 0:00:48]}
+11. exd5 {[%emt 0:00:02]} Bxd2 {[%emt 0:00:02]} 12. Qxd2 {[%emt 0:00:02]} cxd5
+{[%emt 0:00:06]} 13. b4 {[%emt 0:00:08]} Qd6 {[%emt 0:00:48]} 14. Rfd1 {
+[%emt 0:00:03]} Bg4 {[%emt 0:01:24]} 15. Re1 {[%emt 0:00:02]} Bh5 {[%emt 0:03:
+50]} 16. c3 {[%emt 0:05:15]} Bg6 {[%emt 0:00:23]} 17. Bf1 {[%emt 0:00:12]} c5 {
+[%emt 0:00:24]} 18. Rxe8+ {[%emt 0:00:58]} Rxe8 {[%emt 0:00:01]} 19. Rd1 {
+[%emt 0:00:03]} Rd8 {[%emt 0:00:30]} 20. a3 {[%emt 0:03:20]} d4 {[%emt 0:04:31]
+} 21. Qg5 {[%emt 0:05:52]} h6 {[%emt 0:00:01]} 22. Qxc5 {[%emt 0:00:16]} Qxc5 {
+[%emt 0:00:01]} 23. bxc5 {[%emt 0:00:01]} d3 {[%emt 0:00:01]} 24. f4 {[%emt 0:
+03:10]} Rc8 {[%emt 0:00:12]} 25. g4 {[%emt 0:00:17]} Be4 {[%emt 0:00:02]} 26.
+Bxd3 {[%emt 0:01:14]} Bxd3 {[%emt 0:00:01]} 27. Rxd3 {[%emt 0:00:01]} Rxc5 {
+[%emt 0:00:01]} 28. Rd8+ {[%emt 0:00:19]} Kh7 {[%emt 0:00:01]} 29. Rd7 {
+[%emt 0:00:01]} a5 {[%emt 0:01:53]} 30. Rxf7 {[%emt 0:00:04]} Rxc3 {[%emt 0:00:
+01]} 31. f5 {[%emt 0:00:04]} Kg8 {[%emt 0:00:18]} 32. Ra7 {[%emt 0:00:02]} Rxa3
+{[%emt 0:00:02]} 33. Kg2 {[%emt 0:00:05]} a4 {[%emt 0:00:38]} 34. h3 {[%emt 0:
+00:15]} Kf8 {[%emt 0:00:11]} 35. h4 {[%emt 0:00:10]} Ra1 {[%emt 0:00:57]} 36.
+g5 {[%emt 0:00:21]} hxg5 {[%emt 0:00:03]} 37. hxg5 {[%emt 0:00:02]} a3 {
+[%emt 0:00:03]} 38. f6 {[%emt 0:00:18]} gxf6 {[%emt 0:00:03]} 39. gxf6 {
+[%emt 0:00:10]} 1/2-1/2
+
+[Event "Lindores Abbey Chess Stars"]
+[Site "Lindores Abbey"]
+[Date "2019.05.26"]
+[Round "5.1"]
+[White "Ding, Liren"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "A20"]
+[WhiteElo "2805"]
+[BlackElo "2774"]
+[Annotator "ChessBase"]
+[PlyCount "110"]
+[EventDate "2019.05.26"]
+[EventType "tourn"]
+[EventCountry "SCO"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+[TimeControl "1500+10"]
+
+1. c4 {[%emt 0:00:00]} e5 {[%emt 0:00:00]} 2. g3 {[%emt 0:00:00]} Nf6 {[%emt 0:
+00:01]} 3. Bg2 {[%emt 0:00:00]} c6 {[%emt 0:00:06]} 4. Nf3 {[%emt 0:00:00]} e4
+{[%emt 0:00:31]} 5. Nd4 {[%emt 0:00:00]} d5 {[%emt 0:00:24]} 6. d3 {[%emt 0:00:
+00]} Bc5 {[%emt 0:02:42]} 7. Nb3 {[%emt 0:00:18]} Bb6 {[%emt 0:00:22]} 8. cxd5
+{[%emt 0:00:45]} Qxd5 {[%emt 0:00:15]} 9. O-O {[%emt 0:02:11]} Qf5 {[%emt 0:01:
+57]} 10. Nc3 {[%emt 0:02:46]} exd3 {[%emt 0:00:03]} 11. e4 {[%emt 0:00:04]} Qh5
+{[%emt 0:00:03]} 12. Qxh5 {[%emt 0:00:42]} Nxh5 {[%emt 0:00:11]} 13. Rd1 {
+[%emt 0:00:02]} Nf6 {[%emt 0:01:03]} 14. Na4 {[%emt 0:00:16]} Na6 {[%emt 0:01:
+48]} 15. Rxd3 {[%emt 0:00:17]} Be6 {[%emt 0:00:13]} 16. Nxb6 {[%emt 0:04:54]}
+axb6 {[%emt 0:00:04]} 17. a3 {[%emt 0:00:06]} c5 {[%emt 0:04:05]} 18. Nd2 {
+[%emt 0:01:33]} Nb4 {[%emt 0:01:20]} 19. Rc3 {[%emt 0:00:03]} Na2 {[%emt 0:01:
+59]} 20. Rxa2 {[%emt 0:00:54]} Bxa2 {[%emt 0:00:02]} 21. b3 {[%emt 0:00:01]}
+O-O-O {[%emt 0:01:53]} 22. e5 {[%emt 0:00:01]} Ne8 {[%emt 0:01:23]} 23. Bh3+ {
+[%emt 0:00:43]} Kc7 {[%emt 0:01:05]} 24. Bf1 {[%emt 0:04:16]} f6 {[%emt 0:01:
+23]} 25. e6 {[%emt 0:00:09]} Nd6 {[%emt 0:00:35]} 26. Rc2 {[%emt 0:00:12]} Bxb3
+{[%emt 0:00:02]} 27. Nxb3 {[%emt 0:00:01]} Rhe8 {[%emt 0:00:03]} 28. a4 {
+[%emt 0:00:50]} Rxe6 {[%emt 0:00:51]} 29. a5 {[%emt 0:00:02]} c4 {[%emt 0:00:
+44]} 30. Bxc4 {[%emt 0:01:37]} Nxc4 {[%emt 0:00:06]} 31. Rxc4+ {[%emt 0:00:01]}
+Rc6 {[%emt 0:00:25]} 32. Bf4+ {[%emt 0:00:09]} Kd7 {[%emt 0:00:03]} 33. Rb4 {
+[%emt 0:00:18]} bxa5 {[%emt 0:00:47]} 34. Nxa5 {[%emt 0:00:44]} Ra6 {[%emt 0:
+00:03]} 35. Rxb7+ {[%emt 0:00:18]} Ke8 {[%emt 0:00:01]} 36. Nb3 {[%emt 0:00:51]
+} Kf8 {[%emt 0:00:04]} 37. h4 {[%emt 0:00:23]} Re8 {[%emt 0:00:28]} 38. Nd4 {
+[%emt 0:00:20]} Re7 {[%emt 0:00:06]} 39. Rb8+ {[%emt 0:00:03]} Kf7 {[%emt 0:00:
+21]} 40. Nf5 {[%emt 0:00:17]} Rd7 {[%emt 0:00:03]} 41. h5 {[%emt 0:00:27]} Ra5
+{[%emt 0:00:08]} 42. Nd6+ {[%emt 0:04:02]} Ke6 {[%emt 0:00:03]} 43. Nb5 {
+[%emt 0:00:04]} Kf5 {[%emt 0:00:01]} 44. Kg2 {[%emt 0:00:21]} Kg4 {[%emt 0:00:
+03]} 45. h6 {[%emt 0:00:10]} g5 {[%emt 0:00:01]} 46. Be3 {[%emt 0:00:05]} Kh5 {
+[%emt 0:00:02]} 47. Rb6 {[%emt 0:00:11]} Kg6 {[%emt 0:00:33]} 48. g4 {[%emt 0:
+01:04]} Ra4 {[%emt 0:00:06]} 49. Kg3 {[%emt 0:00:04]} Rb4 {[%emt 0:00:02]} 50.
+Kf3 {[%emt 0:00:31]} Rd3 {[%emt 0:00:35]} 51. Rb8 {[%emt 0:00:07]} Kxh6 {
+[%emt 0:00:12]} 52. Rb6 {[%emt 0:00:13]} Kg6 {[%emt 0:00:03]} 53. Rb8 {[%emt 0:
+00:13]} Rdb3 {[%emt 0:00:02]} 54. Rg8+ {[%emt 0:00:01]} Kf7 {[%emt 0:00:01]}
+55. Rh8 {[%emt 0:00:11]} Kg7 {[%emt 0:00:01]} 0-1
+
+[Event "Lindores Abbey Chess Stars"]
+[Site "Lindores Abbey"]
+[Date "2019.05.26"]
+[Round "5.2"]
+[White "Carlsen, Magnus"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2861"]
+[BlackElo "2752"]
+[Annotator "TA"]
+[PlyCount "97"]
+[EventDate "2019.05.26"]
+[EventType "tourn"]
+[EventCountry "SCO"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 12,97,0,-7,7,0,20,14,11,18,21,12,14,0,42,0,56,52,64,31,29,35,47,0,0,0,0,
+-7,0,-7,0,-30,0,-91,0,0,0,0,0,0,0,0,0,-27,0,0,0,0,0,-245,-245,-254,-245,-245,
+-170,-170,-170,-170,-170,-170,-170,-170,-170,-189,-189,-189,-50,-50,-50,-71,
+-50,-50,-50,-50,-50,-50,-50,-185,-185,-185,-185,-185,-185,-185,-157,-157,-157,
+-157]} 1. d4 ({Predecessor:} 1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 {1/2-1/2 (11)
+Dizdarevic,E (2495)-Palac,M (2495) Montecatini Terme 1994}) 1... Nf6 2. Nf3 d5
+3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. c3 Nbd7 7. Bf4 c5 $146 {D02: 1 d4 d5 2 Nf3
+sidelines, including 2...Nf6 3 g3 and 2...Nf6 3 Bf4} (7... c6 8. Qc1 Re8 9. c4
+dxc4 10. Qxc4 Nb6 11. Qc1 Bg4 12. Rd1 Qc8 13. Nc3 Nfd5 14. Bh6 Nxc3 15. bxc3
+Nc4 {1/2-1/2 (34) Malakhov,V (2686)-Vitiugov,N (2722) St Petersburg 2017}) 8.
+Ne5 Qb6 9. Qb3 cxd4 {The position is equal.} 10. Qxb6 Nxb6 11. cxd4 Ne4 12. Rc1
+Nd6 13. Nc3 Be6 (13... Nf5 $11) 14. a4 $14 a5 $1 15. h4 Rfc8 16. b3 Rc7 17. Nb5
+({White should play} 17. Bd2 $14) 17... Rxc1+ $11 18. Rxc1 Nxb5 19. axb5 Rc8
+20. Rc5 Kf8 21. e4 a4 22. exd5 (22. Rxc8+ $11 {remains equal.} Bxc8 23. bxa4)
+22... Rxc5 ({Better is} 22... Bxe5 $17 23. Bxe5 a3 24. dxe6 f6) 23. dxc5 a3 $1
+{[%cal Ra3a2]} 24. dxe6 a2 {[%mdl 64] Zwischenzug} 25. Nd7+ Ke8 $1 (25... Nxd7
+$2 26. exd7 a1=Q+ 27. Kh2 $18) 26. Nxb6 ({Wrong is} 26. Be5 $2 Bxe5 27. exf7+
+Kxf7 $19) 26... a1=Q+ 27. Kh2 Be5 (27... fxe6 $5 {[%cal Rg7d4]} 28. c6 (28.
+Bxb7 Bd4 $17) 28... bxc6 29. bxc6 Be5 $15) 28. Be3 ({Reject} 28. Bxb7 Bxf4 29.
+gxf4 fxe6 $19) 28... fxe6 29. Bxb7 Bd4 $1 {[%cal Rd4e3] Hoping for ...Bxe3.}
+30. Nc4 $2 (30. c6 $11 {and White stays safe.} Bxe3 31. c7 Bxf2 32. c8=Q+ {
+[%mdl 64] Double Attack} Kf7 33. Qc7 Qg1+ 34. Kh3 Bxb6 35. Qf4+ Kg7 36. Be4)
+30... Bxe3 $19 31. Nxe3 Qb2 32. Kg2 {c6 is the strong threat.} Qxb3 33. b6 Qb5
+34. Bf3 Kd8 35. b7 Kc7 36. c6 Qb4 37. g4 Qd4 38. Nf1 {[#]} h5 $1 39. gxh5 $15
+gxh5 (39... Qxh4 $2 40. Ng3 $19) 40. Ng3 e5 {And now ...Qb4 would win.} (40...
+Qxh4 $2 41. Nxh5 Qd4 42. Ng3 $19) 41. Ne4 Qc4 42. Ng5 Kb8 43. Be4 Qe2 44. Bf5 {
+[#]} (44. Bf3 $15 Qc4 45. Be4) 44... e4 $1 $19 {[%cal Re4e3] Black is clearly
+better.} 45. Nxe4 (45. Bxe4 Qg4+) 45... Qc4 {aiming for ...Qd5.} 46. Ng3 Qxc6+
+47. Be4 Qf6 48. Nxh5 Qxh4 {[%mdl 64] Double Attack} 49. Ng3 {Accuracy: White =
+60%, Black = 46%.} 1/2-1/2
+
+[Event "Lindores Abbey Chess Stars"]
+[Site "Lindores Abbey"]
+[Date "2019.05.26"]
+[Round "6.1"]
+[White "Anand, Viswanathan"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2774"]
+[BlackElo "2752"]
+[Annotator "TA"]
+[PlyCount "60"]
+[EventDate "2019.05.26"]
+[EventCountry "SCO"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 18,60,15,19,22,2,10,5,9,5,16,0,0,0,0,-29,0,-26,-22,-22,-17,-20,-13,-18,
+0,-7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4.
+O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8. Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 {
+C67: Ruy Lopez: Berlin Defence: 4 0-0 Nxe4} 11. Rxe8+ (11. c3 Rxe1 12. Qxe1 Ne8
+13. d5 c6 14. Qd1 b6 15. Bf4 Bb7 16. dxc6 dxc6 17. Nd2 c5 18. Nc4 Qxd1 19. Rxd1
+{1/2-1/2 (40) Anand,V (2774)-Caruana,F (2819) Karlsruhe/Baden Baden 2019})
+11... Nxe8 12. d5 d6 13. Nd2 Bf5 {[#]} 14. Nf3 $146 ({Predecessor:} 14. Nc4 c6
+15. c3 Be4 16. dxc6 bxc6 17. Qa4 c5 18. Bf4 {1-0 (44) Naiditsch,A (2710)
+-Swiercz,D (2655) Astana 2019}) 14... Be4 15. Bd3 Qe7 16. c4 c6 (16... Bxf3 $5
+17. gxf3 g6 $11) 17. dxc6 Bxc6 18. Rb1 {The position is equal.} Nc7 19. Be3 Ne6
+20. Nd2 g6 21. Be4 Bd4 (21... Nd4 {keeps more tension.} 22. Bxd4 Bxd4 23. Bxc6
+bxc6 24. Nf3 Bb6) 22. Bxc6 bxc6 23. Bxd4 Nxd4 24. Nf3 Nxf3+ 25. Qxf3 $11 {
+[%mdl 4096] Endgame KQR-KQR} Re8 {[#] ( -> ...Qe1+!)} 26. g3 Qe4 27. Qxe4 Rxe4
+28. Rd1 Re2 29. Rxd6 Rxb2 30. Rxc6 Rxa2 {Accuracy: White = 62%, Black = 71%.}
+1/2-1/2
+
+[Event "Lindores Abbey Chess Stars"]
+[Site "Lindores Abbey"]
+[Date "2019.05.26"]
+[Round "6.2"]
+[White "Ding, Liren"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2805"]
+[BlackElo "2861"]
+[Annotator "TA"]
+[PlyCount "130"]
+[EventDate "2019.05.26"]
+[EventCountry "SCO"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 9,129,30,29,34,31,22,24,22,22,4,21,0,10,11,20,25,32,49,45,28,45,38,59,
+59,59,60,60,48,71,63,95,92,93,75,79,77,89,89,87,80,88,90,91,41,91,88,89,76,84,
+83,91,83,92,90,112,109,116,121,144,135,143,143,112,118,152,152,159,159,159,150,
+187,166,187,0,187,187,180,180,170,160,149,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 d5 2. c4 e6 3. Nf3 a6 4.
+Bg5 (4. e3 Nf6 5. Nc3 dxc4 6. Bxc4 b5 7. Be2 Bb7 8. O-O Nbd7 9. b3 c5 10. Bb2
+Be7 11. Rc1 O-O 12. Qc2 Rc8 13. Qb1 Qb6 14. Rfd1 Rfd8 15. h3 h6 16. dxc5 Nxc5
+17. Rxd8+ Rxd8 {0-1 (59) Mamedyarov,S (2817)-Carlsen,M (2835) St Petersburg
+2018}) 4... Be7 5. Bxe7 Qxe7 6. Nbd2 {D30: Queen's Gambit Declined: Systems
+without Nc3} Nf6 7. g3 O-O 8. Bg2 {White has an edge.} b6 9. cxd5 $146 ({
+Predecessor:} 9. O-O Bb7 10. cxd5 Bxd5 11. Qc2 h6 {1-0 (44) Lysyj,I (2635)
+-Moroni,L (2564) Skopje 2019}) 9... exd5 10. O-O Bb7 11. Rc1 a5 12. Re1 c5 13.
+dxc5 bxc5 14. e4 Nxe4 15. Nh4 $1 {Black must now prevent f3.} Qf6 16. Nxe4 dxe4
+17. Rxc5 Na6 18. Rxa5 Qxb2 19. Bxe4 Bxe4 20. Rxe4 Rad8 21. Rd5 Rxd5 22. Qxd5
+Nb4 23. Qb3 Qxb3 24. axb3 $16 {[%mdl 4096] Endgame KRN-KRN} Rb8 25. Nf3 Kf8 26.
+Kf1 Nd5 27. Nd2 g6 28. Rd4 Nb4 29. Ke2 Ke7 30. Re4+ Kd7 31. Ke3 Rb5 32. Kd4
+Rd5+ 33. Kc3 $1 Rd3+ 34. Kxb4 Rxd2 {[#] KR-KR} 35. Rf4 $1 f5 36. Kc5 {Strongly
+threatening Rd4+.} Kc7 37. b4 Kb7 38. h4 h5 39. Rf3 Rc2+ 40. Kd5 Re2 41. Kc5
+Rc2+ $1 42. Kd4 Re2 43. Kd5 Kb6 44. Rf4 Kb5 {[#]} 45. Kd6 ({White must play} 
+45. Kd4 $1 $16) 45... Kb6 {The position is equal.} 46. f3 Kb5 47. Kd5 {g4 is
+the strong threat.} Rg2 $1 48. Ke5 Rxg3 49. Kf6 Ka4 50. Kg7 Kb5 51. Kh6 Ka4 52.
+Rd4 Kb5 53. Rd6 Kxb4 54. Rxg6 Rxf3 55. Kxh5 Kc5 56. Rf6 {And now Kg5 would win.
+} Kd5 57. Kg6 Ke5 58. h5 Rg3+ 59. Kf7 f4 60. h6 Rh3 61. Kg7 f3 62. Rf8 Rg3+ 63.
+Kh8 Ke4 64. h7 Ke3 65. Rxf3+ Kxf3 {Accuracy: White = 84%, Black = 77%.} 1/2-1/2
+

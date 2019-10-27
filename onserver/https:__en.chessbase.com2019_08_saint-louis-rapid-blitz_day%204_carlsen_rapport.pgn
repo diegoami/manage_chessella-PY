@@ -1,0 +1,37 @@
+
+
+[Event "GCT Saint Louis Blitz 2019"]
+[Site "Saint Louis"]
+[Date "2019.08.13"]
+[Round "9"]
+[White "Carlsen, Magnus"]
+[Black "Rapport, Richard"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2920"]
+[BlackElo "2736"]
+[Annotator "Saravanan,V"]
+[SetUp "1"]
+[FEN "7r/pp1bkppp/4p3/3pP3/3P1P2/6P1/PP1KB2P/2R5 b - - 0 20"]
+[PlyCount "57"]
+[EventDate "2019.08.13"]
+[EventType "tourn"]
+[EventCountry "USA"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[A familiar situation - an almost equal ending has been reached, with black
+having a slight disadvantage due to his 'bad' bishop. Carlsen has converted
+many dozens of such endgame positions in his career, and he proceeds to do the
+same here]} 20... Rc8 21. Rf1 Rc6 22. Rf3 Rb6 23. b3 Bb5 24. Bd1 Ra6 25. a4 Bd7
+{[#]} 26. g4 $1 {[An important principle - the principle of two weaknesses.
+White has to do a bit of 'nettlesome' play on the kingside - remember?!]} h6
+27. h4 Rb6 28. Bc2 a5 29. Rf1 Rc6 30. Rb1 Rb6 31. Re1 Rc6 32. Rg1 Rc8 33. Bd3
+Rc7 34. Rb1 Rc8 35. b4 {[#]} b6 $2 {[And finally Rapport cracks]} (35... axb4
+36. Rxb4 Bc6 {offered much better chances of a defence}) 36. bxa5 bxa5 37. Rb7
+{[This rook invasion is difficult to face in a blitz game - Carlsen wins the
+game quite efficiently from hereon]} Kd8 38. Ra7 Rb8 39. Rxa5 Rb4 40. Ra8+ Kc7
+41. Ra7+ Kc8 42. Kc3 Rxa4 43. Ba6+ Kb8 44. Rxd7 Rxa6 45. Rxf7 h5 46. Rxg7 hxg4
+47. h5 Ra3+ 48. Kb4 Rh3 1-0
+

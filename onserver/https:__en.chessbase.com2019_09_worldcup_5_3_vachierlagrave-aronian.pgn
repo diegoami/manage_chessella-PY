@@ -1,0 +1,75 @@
+[Event "FIDE World Cup 2019"]
+[White "Aronian, Levon"]
+[Black "Vachier-Lagrave, Maxime"]
+[Site "Khanty-Mansiysk"]
+[Round "5.1"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.09.23"]
+[WhiteElo "2758"]
+[BlackElo "2774"]
+[PlyCount "88"]
+
+1. d4 {} Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. Bf4 Nxc3 7. bxc3 c5 8. cxd5 Qxd5 9. e3 0-0 10. Be2 cxd4 11. cxd4 Nc6 12. 0-0 Bf5 13. Qa4 {D80: GrÃ¼nfeld: Unusual White
+4th moves and 4 Bg5} Qa5 14. Qxa5 Nxa5 15. Nd2 {White has an edge.} Rac8 16. Rfc1 Rxc1+ 17. Rxc1 Rc8 18. Rxc8+ Bxc8 19. Bf3 Nc6 {[#]} 20. Bxc6 $146 ({
+Predecessor:} 20. Bc7 Kf8 {1/2-1/2 (74) Carlsen,M (2881)-Grischuk,A (2792)
+Stavanger 2014} )bxc6 $11 { Endgame KBB-KBN} 21. Bb8 a6 22. Ne4 f6 23. f3 Kf7 24. Kf2 Bf8 25. Ba7 f5 26. Ng5+ Ke8 (26... Kg7 $11 )27. f4 ({
+White should try} 27. Nxh7 $14 Bh6 28. h4 )Bh6 ({Black should play} 27... h6 $11 28. Nf3 Bg7 )28. Nxh7 $14 Be6 29. a3 a5 30. Ke2 Bg8 31. Ng5 Bxg5 32. fxg5 {KB-KB} a4 33. Kd3 Bb3 34. Kc3 Kf7 35. Kb4 Bc2 36. Bb8 Bb3 37. h4 Kg7 38. e4 fxe4 39. Bf4 e3 (39... Kf7 $14 )40. Bxe3 $16 {White is better.} Kf7 41. g4 Bd1 42. h5 e6 43. Bf4 Kg7 44. Be5+ Kh7 {Accuracy: White = 86%, Black = 56%.} 1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Aronian, Levon"]
+[Site "Khanty-Mansiysk"]
+[Round "5.2"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.09.24"]
+[WhiteElo "2774"]
+[BlackElo "2758"]
+[PlyCount "61"]
+
+1. e4 {} e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 0-0 6. 0-0 d5 7. exd5 Nxd5 8. Re1 Bg4 9. Nbd2 {C54: Giuoco
+Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} Nb6 {The position is equal.} 10. h3 Bh5 11. Bb3 Qxd3 12. Nxe5 Qf5 (12... Bxd1 13. Nxd3 Bxb3 14. axb3 Be7 15. b4 a6 16. Ne4 Nd7 {1-0 (40) Giri,A (2797)-Harikrishna,P (2723) Shenzhen 2019} )13. Nef3 $1 Rad8 {[#]} 14. Qe2 $146 ({Predecessor:} 14. g4 Bxg4 15. hxg4 Qxg4+ 16. Kh1 Qh3+ {1/2-1/2 (31) Michalik,P (2565)-Shirov,A (2667) Prague 2019} )Nd5 15. Ne4 Bxf3 16. Qxf3 Qxf3 17. gxf3 Bb6 18. Kf1 Nde7 19. Bg5 h6 20. Bxe7 Nxe7 21. Nf6+ { [#] Discovered Attack} gxf6 22. Rxe7 Rd2 {
+ Double Attack} 23. Re2 Rfd8 24. Rae1 Kf8 25. Rxd2 Rxd2 26. Re2 Rxe2 27. Kxe2 $11 {KB-KB} Ke7 28. f4 f5 29. Kf3 Kf6 30. Bd5 c6 31. Bb3 {Accuracy:
+White = 75%, Black = 88%.} 1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[White "Aronian, Levon"]
+[Black "Vachier-Lagrave, Maxime"]
+[Site "Khanty-Mansiysk"]
+[Round "5.3"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2019.09.25"]
+[WhiteElo "2758"]
+[BlackElo "2774"]
+[PlyCount "61"]
+
+1. Nf3 {} c5 2. c4 Nf6 3. g3 d5 4. Bg2 Nc6 5. cxd5 Nxd5 6. Nc3 g6 7. d3 Bg7 8. Bd2 0-0 {
+A34: Symmetrical English: 2 Nc3, lines with ...d5} 9. h4 Nf6 10. Qc1 $146 ({
+Predecessor:} 10. Rc1 Bg4 11. Qa4 Rc8 12. Be3 b6 13. 0-0 Bd7 14. Qd1 Ng4 15. Bg5 Be6 16. Bf4 {1-0 (63) Gordievsky,D (2605)-Vokhidov,S (2399) St Petersburg
+2017} )Bg4 {Black has an edge.} 11. Nh2 Bd7 12. Bh6 Bxh6 13. Qxh6 Nd4 {
+[#] And now ...Nc2+ would win.} 14. Qd2 Qc7 15. e3 Bc6 16. Ne4 (16. 0-0 {
+is more complex.} Bxg2 17. Kxg2 Qc6+ 18. Kg1 Ne6 19. Qe2 )Bxe4 (16... Ne6 {looks sharper.} 17. 0-0 Rfd8 18. Qc2 Nxe4 19. dxe4 Qa5 )17. dxe4 Nc6 {} 18. Qc3 Qe5 19. Rc1 Rfd8 20. Qxe5 Nxe5 21. Ke2 Rac8 22. Rhd1 Rxd1 23. Rxd1 c4 24. f4 Nd3 25. e5 Nh5 26. Nf1 $1 $36 { Black is under pressure.} Nxb2 27. Rb1 c3 28. Bxb7 Rc5 29. Rc1 Ng7 30. Be4 Ne6 31. Nh2 {Accuracy: White = 56%, Black = 70%.} 1/2-1/2
+
+[Event "FIDE World Cup 2019"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Aronian, Levon"]
+[Site "Khanty-Mansiysk"]
+[Round "5.4"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.09.25"]
+[WhiteElo "2774"]
+[BlackElo "2758"]
+[PlyCount "81"]
+
+1. e4 {} e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 a6 6. 0-0 d6 7. a4 0-0 8. Re1 {C54: Giuoco
+Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} Ba7 9. h3 h6 10. Nbd2 { The position is equal.} Re8 11. b4 $146 {
+} ({Predecessor:} 11. Nf1 Be6 12. Bxe6 Rxe6 13. Be3 Bxe3 14. Nxe3 Qd7 {0-1 (40) Kravtsiv,M (2641)-Parligras,M (2645) Hungary 2019} )Be6 12. Bxe6 Rxe6 13. Nf1 Qd7 14. Be3 Bxe3 15. Nxe3 d5 16. b5 {Threatens
+to win with exd5.} Ne7 17. c4 d4 18. Nf5 Re8 19. N3h4 Ng6 20. g3 Nxh4 21. Nxh4 Qe7 22. Qc1 Nd7 23. Qa3 Nc5 24. f4 exf4 25. Nf5 { Double Attack} Qf8 26. gxf4 Rf6 27. Rf1 {[#]} Rxf5 $1 {} 28. exf5 Re3 $1 {} 29. Rae1 {Hoping for Rxe3.} Qe7 30. Rxe3 $4 {} ({Only move:} 30. f6 $1 $15 gxf6 31. Qb4 )Qxe3+ $15 { Endgame Double Attack.
+KQR-KQN} 31. Kh2 {[#]} Qe2+ $2 (31... Ne4 $1 $19 { ...Qg3+ is the
+strong threat.} 32. Qb2 (32. dxe4 Qxa3 )Qg3+ 33. Kh1 Qxh3+ {
+Double Attack} 34. Kg1 Qe3+ 35. Kg2 Qg3+ 36. Kh1 Qxd3 )32. Kg1 $11 Nxd3 {
+aiming for ...h5.} 33. bxa6 bxa6 {And now ...h5 would win.} 34. Qb3 (34. f6 $11 )Qe3+ $17 { Black has strong compensation.} 35. Kh2 Qd2+ (35... f6 $17 )36. Kg1 (36. Kh1 $1 $11 )Qe3+ 37. Kh2 h5 (37... f6 $17 )38. Qd1 $11 {Black must now prevent Rf3.} h4 $2 {} (38... Nxf4 $11 39. Qf3 Nd3 )39. Rf3 $18 Nb2 40. Rxe3 {White wants to mate with Re8+.} Nxd1 {KR-KN} 41. Rd3 Nb2 42. Rxd4 c5 43. Rd5 Nxa4 44. Kg2 Kf8 45. Kf3 Ke7 46. Kg4 Nb6 47. Rxc5 Kd6 48. Ra5 Nxc4 49. Rxa6+ Ke7 50. Kxh4 Nd6 51. Rxd6 Kxd6 52. Kg5 Ke7 53. f6+ 1-0
+

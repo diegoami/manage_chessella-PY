@@ -1,0 +1,66 @@
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2019.09.23"]
+[Round "5.1"]
+[White "Grischuk, Alexander"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[WhiteElo "2759"]
+[BlackElo "2811"]
+[Annotator "Sagar Shah"]
+[PlyCount "82"]
+[EventDate "2019.09.10"]
+
+{This was played in round five of the World Cup 2019.} 1. d4 Nf6 2.
+c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 a6 6. O-O Nc6 7. e3 Rb8 8. Nfd2 e5 {This is
+the main move. If White can play moves like Nfd2, Black must try and take
+advantage of it by playing in the centre.} 9. Bxc6+ (9. Nxc4 exd4 $11) 9...
+bxc6 10. dxe5 Ng4 11. Nxc4 Be6 12. Qe2 {Grischuk goes for the relatively
+lesser played move.} (12. Nbd2 {is the main move and was already seen in the
+game between Ding and Mamedyarov.} h5 13. f3 Rb4 14. fxg4 Bxc4 15. Nxc4 Qxd1
+16. Rxd1 Rxc4 17. Bd2 $14 {White is definitely is pushing here.}) 12... h5 13.
+Rd1 Qc8 {This has been seen before in the game Vorobiov Goudriaan. Black's
+idea is simple. He would like to play ...h4. And simply run over White's
+kingside.} (13... Qe7 {was Ilincic vs Ashwin. Black won after} 14. f3 Qc5 15.
+Nbd2 Nxe5 $11) 14. Qf3 $5 {Grischuk definitely didn't make this move very
+happily. But he realized that he must do something drastic against Black's
+threat of h4 and found this interesting move.} (14. h4 g5 {is really something
+to worry about.} 15. hxg5 h4) (14. f3 h4 15. Nc3 hxg3 16. fxg4 Bxg4 17. Qg2
+Bxd1 18. Qxc6+ Qd7 19. Qxd7+ Kxd7 20. Nxd1 Rxh2 21. Bd2 $13) (14. Nc3 h4 {
+is already quite a dangerous position for White.} 15. Qf3 $5 hxg3 16. hxg3 Be7
+17. Qxc6+ Kf8 $36 {is just the kind of position Black is looking for.}) (14. h3
+Bxc4 (14... h4 $5 15. hxg4 hxg3 16. f3 Bd5 17. Qg2 Bxc4 18. b3 Bd5 19. Ba3 {
+White seems to be doing fine here.}) 15. Qxc4 Nxe5 16. Qe4 Bd6) 14... Rb6 $5 {
+It's quite puzzling that in this position where Ding Liren could have chosen a
+winning move, he goes for an inferior move that gives him dynamic equality.} (
+14... Qb7 {is just not in the spirit of the position.} 15. b3 (15. Na5 Nxe5 $15
+) 15... h4 16. h3 $18 {With the queen on b7, no attack really works.}) (14...
+Bd5 $1 {A lot of people started shouting that this position is simply winning
+for Black. If it were so easy, then wouldn't a 2800+ player find it? Let's try
+to understand why Ding Liren didn't play this?} 15. Rxd5 (15. Qe2 h4 $19 {
+is not even required to be analyzed. The attack is decisive.}) 15... cxd5 16.
+Qxd5 Qf5 $1 {There is a mate on f2.} (16... Be7 17. f3 h4 (17... Nh6 18. Nc3
+$44) 18. Nbd2 hxg3 19. hxg3 {The position is complex and I am not sure about
+the assessment.}) 17. f3 {is what both Ding Liren and Grischuk were worried
+about.} (17. f4 Qc2 18. Nbd2 (18. Qd2 Qxc4) 18... Qd1+ $19 19. Kg2 Qe2+ 20. Kg1
+Qf2+) 17... Qc2 {It's easy to miss this move. It hits the h2 and c1. The point
+is that interposing on d2 means that the Queen can go to d1 and finish off the
+game. And Qd2 fails to Qxc4. So surprisingly White's options are quite few.}
+18. Qc6+ $1 (18. Qd2 Qxc4 $19) (18. Nbd2 $2 Qd1+ 19. Nf1 {simply loses the
+queen. So it is important to first give a check on c6.} Qxd5) 18... Kd8 (18...
+Ke7 19. Qxc7+ $18) 19. Nbd2 (19. Qd5+ Kc8 {No more checks!} 20. Nbd2 Qd1+ 21.
+Kg2 (21. Nf1) 21... Qe2+) 19... Qd1+ 20. Nf1 {Let's say White gets some time
+here, then he simply goes Bd2 and finishes Black off.} Nxh2 $1 (20... Z0 21.
+Bd2 Qxa1 22. Ba5 $18) 21. Kxh2 (21. Bd2 Qxa1 22. Ba5 Qxf1+ 23. Kxh2 Qe2+ 24.
+Kg1 Qd1+ 25. Kh2 Qd7 $19) 21... Rh6 $1 {A powerful move that stops all of
+White's threats.} (21... Qxf1 22. e6 $1 fxe6 (22... Qd3 23. Ne5 Qe2+ 24. Kh1
+Qf1+ 25. Kh2 $11) 23. Ne5 Qf2+ 24. Kh1 Qf1+ $11) 22. Nd6 (22. Qe4 Qxf1 $19)
+22... Bxd6 23. exd6 (23. e4 Be7 $1 24. Qd5+ (24. Bxh6 Qxa1 $19) 24... Qxd5 25.
+exd5 Rg6 $19) 23... Qe2+ 24. Kg1 Rxd6 $19) (14... Bxc4 15. Qxc6+ Ke7 16. b3)
+15. Nxb6 cxb6 16. h4 Nxe5 17. Qf4 Ng6 18. Qe4 Be7 {The position is dynamically
+equal. Later the game ended in a draw.} 19. Nc3 Bf5 20. Qh1 Ne5 21. f3 Bc2 22.
+Rd2 Bg6 23. Qg2 O-O 24. Rd1 Qf5 25. Rf1 Qe6 26. Ne2 Nd3 27. Kh2 Rd8 28. e4 f5
+29. exf5 Qxf5 30. Nf4 Bf7 31. Nxd3 Rxd3 32. Bf4 Bxh4 33. Rad1 Rxd1 34. Rxd1 Bf6
+35. b3 g5 36. Bc7 Bd5 37. Qe2 g4 38. Qd3 Qxd3 39. Rxd3 gxf3 40. Bxb6 Be5 41.
+Bd4 Be4 1/2-1/2

@@ -1,0 +1,91 @@
+[Event "?"]
+[Site "?"]
+[Date "2019.06.06"]
+[Round "3"]
+[White "So, Wesley"]
+[Black "Yu, Yangyi"]
+[Result "1-0"]
+[ECO "C42"]
+[Annotator "Lupulescu Constantin"]
+[PlyCount "131"]
+[SourceVersionDate "2019.06.06"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 Nc6
+8. Qd2 Be6 9. O-O-O Qd7 10. Kb1 Bf6 11. h4 (11. Ng5 Bxg5 12. Bxg5 f6 13. Bf4 {
+was Vachier-Yu in the first round.}) 11... O-O-O 12. Nd4 Nxd4 13. Bxd4 Be5 14.
+Qe3 Qa4 15. b3 Qa5 (15... Bxd4 {is another solid option.} 16. cxd4 Qa5 17. Qg5
+Qxg5 18. hxg5 Bf5 19. Kb2 Bg6 20. Bd3 Rde8 21. Kc3 {(21) Hansen,L (2239)
+-Gagliardi,V (2148) ICCF 2016 was a correspondence game in which White could claim a small
+edge.}) 16. Bxe5 dxe5 17. Be2 g6 {The first new move of the game, and it feels
+like White got the most from a Petroff.} (17... Bf5 18. Bd3 Bxd3 19. Rxd3 Rxd3
+20. Qxd3 Qa6 21. Qxa6 bxa6 22. Kc1 Rd8 23. Rh3 Rd6 24. Rf3 f6 25. h5 Kb7 26. c4
+a5 27. Kb2 c5 28. Rg3 {1/2-1/2 (28) Eschert,U (2325)-Koch,H (2328) ICCF 2017.})
+18. c4 (18. h5 $5 {was definitely to be considered. If Black continues like in
+the game} Rxd1+ 19. Rxd1 Rd8 20. Rxd8+ Kxd8 21. Kb2 $16 {he already faces
+serious problems. White's king is much safer than his opponent's, while White's queen
+can look forward to some kingside action.}) 18... Rxd1+ 19. Rxd1 Rd8 20. Bd3 (
+20. Rxd8+ Kxd8 21. h5 Ke7 {Black is now fine.}) 20... Qb6 {A logical move to
+swap White's active queen, but Black's queenside structure could sometimes become
+problematic.} (20... f6 21. f4 $14) (20... Kb8 $5) 21. Qxb6 axb6 22. Re1 f6 23.
+f4 Re8 {is also a reasonable option.} (23... Rd4 $5 24. fxe5 f5 25. g3 Kd7 {
+Thanks to the active Rd4 and the weak pawn on e5, Black is not worse.}) 24. fxe5
+Bg8 {Starting with this move, Black begins creating problems for himself.} (
+24... Bd7 25. Rf1 (25. h5 gxh5 26. Bxh7 Rxe5 {Black should be fine.}) 25... fxe5
+26. Be4 Be6 {White can still try but also Black's pieces are well placed.}) 25.
+h5 $1 gxh5 (25... f5 26. hxg6 hxg6 27. Kb2 (27. g4 Be6 28. gxf5 Bxf5 29. Bxf5+
+gxf5 30. e6 Kd8 31. Re5 f4 32. Kb2 Ke7 33. Rf5 Kxe6 34. Rxf4 Kd7 {should be a
+draw.}) 27... Kd7 28. Kc3 Ke6 {with good drawing chances.}) 26. Bf5+ Kb8 27. e6
+c5 28. Re3 Kc7 29. Rg3 (29. g3 h4 $1 (29... Kd6 $2 30. Rd3+ Ke5 $2 31. Rd5#)
+30. gxh4 Kd6 31. h5 Bxe6 32. Bxh7 Rh8 33. Bg6 Bg4 34. Re4 f5 35. Re1 f4 36. Re4
+Bxh5 37. Bxh5 Rxh5 38. Rxf4 {should also be a draw.}) 29... Bxe6 30. Rg7+ Kb8 (
+30... Kd6 $1 {as with many endgames, king activity is vital.} 31. Bxe6
+Rxe6 32. Rxb7 (32. Rxh7 Re2 33. Rxb7 Rxg2 34. Rxb6+ Ke5 $11) 32... Ke5 33. Rxh7
+f5 34. Rxh5 Rg6 35. Rh2 Kf4 $11 {[%cal Gf4g3] Despite being two pawns down, Black's
+activity allows him to draw comfortably.}) 31. Be4 Bc8 32. Bd5 $6 (32. Bf3 $1 {
+was to be prefered as to not allow Black's rook invasion on the second rank.})
+32... Re2 33. Bf3 Rd2 (33... Rf2 $1 {was the right square for the rook.} 34.
+Bxh5 Bf5 35. Bf3 Bxc2+ 36. Ka1 Kc8 37. Bxb7+ Kd8 $11) 34. Bxh5 Bf5 35. Bf3 Rd7
+({With the rook on d2} 35... Bxc2+ {doesn't work because of} 36. Kc1 $18) 36. Rg8+
+Ka7 $6 (36... Kc7 {looked more normal, keeping good drawing chances.}) 37. Kc1
+$1 {Now it finally becomes really difficult.} Re7 (37... Bg6 38. Rf8 Rd6 39. a3
+Re6 40. Kb2 Rd6 {It's not so easy for White to break through, although it is quite a
+bad sign for Black to be so passive.}) 38. Rf8 Be4 $2 {looks like the decisive
+mistake.} (38... Re6 $1 39. Rf7 Be4 40. Bxe4 Rxe4 {makes a substantial
+difference compared to the game: White cannot get his dangerous passed pawn on
+the kingside anymore.}) 39. Rxf6 Bxf3 (39... Ka6 40. Rf4 $16 {/+- was obviously
+not Black's point.}) 40. gxf3 Re2 {Now we get to a rather unusual rook endgame. If
+the b6 would be, say, on a6 Black would not have many problems getting a draw. As it
+is, the endgame is very difficult for him, if not altogether losing.} ({
+Black cannot allow} 40... h5 41. Kd2 $18) 41. Rh6 Rf2 42. Rh3 h5 43. Kb2 Ka6 {
+A good practical chance.} (43... Kb8 {would make it easy for White.} 44. Kc3 Kc7
+45. Kd3 Kd6 46. a4 $1 (46. Ke4 $2 Rxc2 {is just a draw.}) 46... Ke6 47. Rxh5
+Rxf3+ 48. Ke2 Rf6 49. Rh7 Kd6 (49... Rf7 50. Rxf7 Kxf7 51. Ke3 $18 {The pawn
+endgame is easily winning, as White also has several reserve tempi.}) 50. Rxb7
+Kc6 51. Ra7 $18 {[%cal Ga4a5]}) 44. a4 $1 (44. a3 $2 b5 45. Rxh5 bxc4 46. bxc4
+Rxf3 47. Rxc5 {White could at best (although it's a bit unlikely) get into a drawn
+endgame of R+a,c vs R.}) 44... h4 {The starting point of what White probably
+thought to be a mutual zugzwang position.} 45. Kc3 Ka5 46. Kb2 {The starting point of
+an interesting (though definitely not needed) triangulation idea.} (46. Kd3 $1
+Kb4 47. Ke4 Rxc2 48. f4 Re2+ 49. Kf5 Rb2 50. Kg4 $1 $18 {White's rook on h3 is
+perfectly placed to deal with Black's counterplay.}) 46... Ka6 47. Kc1 $2 {
+Practically the drawing move. White can still transpose back to the winning
+line, but then Black could claim a threefold repetition.} (47. Kc3 {was needed.})
+47... Ka7 $1 48. Kb1 {White mananged his triangulation...but spoiled the win.}
+(48. Kb2 Ka6 {Threefold repetition.}) 48... Ka6 $2 (48... Kb8 {would not be too
+easy, but looks like a draw nevertheless.} 49. Kb2 Kc7 50. Kc3 Kd6 51. Kd3 Ke5
+52. c3 (52. Rxh4 Rxf3+ 53. Ke2 Rf6 54. Rh7 Kd4 {Compared to the 43...Kb8 option
+for Black, now his king is too active.} 55. Kd2 Rf2+ 56. Kc1 Kc3 57. Rh3+ Kb4 58.
+Kb2 Rf8 $1 ({But not} 58... Ka5 $4 59. Rh8 $18) 59. Rh7 Rb8 $11) 52... Ke6 $1 (
+52... Kf5 53. Rxh4 Rxf3+ 54. Kc2 Rf2+ 55. Kc1 Ke6 56. Rh7 Rf7 57. Rxf7 Kxf7 {
+The engine claims it's a draw, but in practical play you usually try to keep
+the rooks on.}) (52... Kd6 $2 53. Ke4 Re2+ 54. Kf5 $1 $18 {is a clear
+difference compared to 52...Ke6.}) 53. Ke3 (53. Ke4 Re2+ 54. Kf4 Rb2 $11) 53...
+Rc2) 49. Kb2 $18 {Now for Black it really is zugzwang, and the rest is trivial.}
+Ka7 (49... Ka5 50. Kc3 Rf1 51. Kd3 Rf2 52. Ke4 $18) 50. Kc3 Kb8 51. Kd3 Kc7 52.
+Ke4 Re2+ 53. Kd3 Rf2 54. Ke4 Re2+ 55. Kf5 Rxc2 56. f4 $1 {An important move.}
+Rf2 57. Rxh4 Rf3 58. Kg5 Rxb3 {Material balance has been restored, but Black's
+queenside will not get far.} 59. f5 Rg3+ 60. Rg4 Ra3 61. f6 Rxa4 62. f7 Ra8 63.
+Kf6 b5 64. Rg8 Ra1 65. f8=Q Rf1+ 66. Ke5 {So managed to win the theoretical
+debate, which rather fast became a complex endgame. Even though White was
+always better, Black should have had enough resources to hold a draw.} 1-0
+

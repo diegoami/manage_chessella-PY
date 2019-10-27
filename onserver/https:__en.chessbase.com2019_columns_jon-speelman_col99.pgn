@@ -1,0 +1,82 @@
+[Event "Lone Pine op"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "6"]
+[White "Speelman, J..."]
+[Black "Biyiasas, P..."]
+[Result "0-1"]
+[ECO "A42"]
+[WhiteElo "2410"]
+[BlackElo "2405"]
+[Annotator "Jon Speelman"]
+[PlyCount "57"]
+[EventDate "1978.??.??"]
+[SourceTitle "MCL 01"]
+
+{[%evp 0,57,39,-16,58,9,47,38,56,22,97,26,102,32,29,41,61,49,64,62,43,22,43,45,
+40,-22,24,44,95,7,45,39,85,64,79,47,54,54,73,38,78,123,104,82,94,-4,-4,-22,-11,
+-5,11,23,-5,-112,-58,-148,-120,-445,-382,-29999]} 1. c4 g6 2. e4 d6 3. d4 e5 4.
+Nf3 Bg7 5. Nc3 Bg4 $6 6. d5 Nf6 7. h3 Bc8 8. Be3 O-O 9. Be2 Nbd7 10. g4 Nc5 11.
+Nd2 a5 12. h4 c6 13. h5 Ne8 14. Nf1 cxd5 15. cxd5 gxh5 16. gxh5 Kh8 17. Rg1 Bf6
+18. Qd2 Bd7 19. Bh6 Ng7 20. Qe3 Rg8 21. Qf3 Qe7 {(#) This is the critical
+position. White would like to exchange the light-squared bishops to cement
+contorl of f5 but if I wait a move then Black will get the rook across to f8
+and then answer Bb5 with Bc8. If I remember, I had quite a long think and
+convinced myself that the maximalist Bb5 was playable. I can't remember
+whether I saw Nf5 at all but if I did so I grossly underestimated it.. 
+Although engines tell me that White is still doing well after Nf5, in practice
+Bb5 was a big mistake since it put a strain on my position - and my
+calcualting abiliities - that I was unable to withstand.} 22. Bb5 $6 (22. Ne3
+Raf8 23. Bb5 Bc8 24. O-O-O {kept a nice safe advantage though Black can fight
+after} Bh4) 22... Nf5 $3 {Black jumps out and even if engines tell us that
+White can still defend, in practice he has every chance of being blown to
+smithereens.} 23. Rxg8+ Rxg8 24. exf5 (24. Bxd7 $1 Nd4 25. Qh3 {would have at
+least avoided what happened in the game when after} Nc2+ (25... Nxd7 26. O-O-O
+b5 {is simple and strong for Black}) 26. Kd2 Nxa1 27. Bb5 Bg5+ 28. Bxg5 Qxg5+
+29. Ne3 {despite the loss of the exchange White is fighting since the position
+is intact and the knight trapped on a1 for the moment.}) 24... Bxb5 25. Nxb5 e4
+26. Qe2 $2 ({Houdini tells me that} 26. Qe3 {is actually still good for White
+after} Nd3+ 27. Ke2 {the point being that if} Qe5 (27... Rg2 28. Ng3 Rxf2+ 29.
+Qxf2 Nxf2 30. Rc1 $1) 28. Nd2 Qxb2 29. Nxd6 $1) 26... Nd3+ 27. Kd2 $2 (27. Kd1
+Qe5 28. Nc3 Qd4 29. Qe3 {was still apparently unclear.}) 27... Qe5 28. Ke3 {(#)
+} Rg5 $1 29. a4 {And I resigned before he could play Qf4 mate.} 0-1
+
+[Event "40th TCh-GRE 2012"]
+[Site "Achaea GRE"]
+[Date "2012.07.01"]
+[Round "3.14"]
+[White "Vlahos, Kiriakos"]
+[Black "Hadzimanolis, Antonios"]
+[Result "1-0"]
+[ECO "A34"]
+[WhiteElo "2254"]
+[BlackElo "2297"]
+[Annotator "Speelman,Jonathan"]
+[PlyCount "45"]
+[EventDate "2012.??.??"]
+[SourceVersionDate "2015.07.13"]
+
+{[%evp 0,45,18,-17,-16,-1,19,23,85,68,58,58,69,47,57,57,88,83,67,29,55,42,32,
+34,73,1,50,35,59,59,59,45,83,83,76,-25,-73,268,268,312,1072,1072,29991,29992,
+29993,29994,29995,29996]} 1. c4 Nf6 2. Nc3 c5 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nb4
+6. Bc4 Nd3+ 7. Ke2 Nf4+ 8. Kf1 Ne6 9. Nd5 (9. b4 {is most common here} g6 (9...
+cxb4 10. Nd5 g6 11. d4 Bg7 12. Be3 Nc6 13. Rc1 Bd7 14. Qd2 Qa5 15. h4 Rc8 16.
+Bb3 Qb5+ 17. Kg1 h6 18. Kh2 g5 19. Rhd1 Kf8 20. Kg1 Rd8 21. hxg5 hxg5 22. Bxg5
+Nxg5 23. Qxg5 Bh6 24. Qh4 Bg7 25. Qf4 Bh6 26. Ng5 Bxg5 27. Qxg5 {1-0 (27)
+Aronian,L (2785)-Topalov,V (2800) 7th London Classic 2015}) 10. bxc5 Bg7) 9...
+g6 (9... Nd4 {is popular with engines} 10. Nxd4 cxd4 11. d3 e6 12. Nf4 {
+just looks like a messy battle to me.}) 10. d4 Bg7 (10... cxd4 11. Nxd4 Bg7 12.
+Be3 (12. Nxe6 Bxe6) 12... O-O 13. h4 Nc6 14. Nxe6 Bxe6 15. h5) 11. dxc5 O-O 12.
+Be3 Bxb2 {This looks a bit extravagant} (12... Nd7 {to be followed by Ndxc5
+would keep matters within bounds.}) 13. h4 $1 {Of course White would be
+sleighted to "sacrifice" the exchange for all the dark-squares on the board.}
+Nd7 14. h5 Ndxc5 15. Ng5 b5 16. hxg6 ({In a previous game, Kiriakos had played} 
+16. Bxb5 Rb8 17. Bc4 Ba6 18. Bxa6 Nxa6 19. Nxh7 Bxa1 20. Qxa1 Nb4 21. Nxe7+
+Qxe7 22. Nf6+ Qxf6 23. Qxf6 Nc2 24. Ke2 g5 25. h6 Kh7 26. Rh5 Rb5 27. a4 Ncd4+
+28. Bxd4 Nf4+ 29. Qxf4 {Vlahos Kiriakos - Tsarouhas Kostas 1-0 Creta Cup 2008})
+16... hxg6 {[%mdl 32833] [#]} 17. Bxc5 $1 Nxc5 (17... Re8 18. Bb3 {is also
+utterly awful.}) 18. Nf6+ $1 Kg7 (18... Bxf6 {or exf6} 19. Bxf7+ Rxf7 20. Qxd8+
+) 19. Nh5+ $1 gxh5 ({Of course if} 19... Kg8 20. Bxf7+) 20. Qxh5 Qb6 21. Qh7+
+Kf6 22. Qh6+ Ke5 23. Nf3+ {[#] And with mate looming, Black resigned. A lovely
+attack by Kiriakos.} 1-0
+

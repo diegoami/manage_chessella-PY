@@ -1,0 +1,35 @@
+[Event "Deloitte NED-ch 2019"]
+[Site "Amsterdam"]
+[Date "2019.07.07"]
+[Round "7.1"]
+[White "Van Foreest, Lucas"]
+[Black "Van den Doel, Erik"]
+[Result "1-0"]
+[ECO "B13"]
+[WhiteElo "2521"]
+[BlackElo "2605"]
+[Annotator "KGBesenthal"]
+[PlyCount "83"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,83,13,36,63,63,74,60,47,22,19,31,46,32,24,12,9,5,-1,-4,14,12,20,11,16,
+8,0,-11,15,-99,-111,-73,-43,-11,-3,-5,13,14,18,20,20,25,58,28,117,58,112,61,
+114,96,117,103,99,121,101,112,88,68,70,58,53,31,140,137,137,83,128,81,76,120,
+259,264,264,247,295,553,567,570,29991,29992,29993,29994,29997,29998,29999,
+-30000]} 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. Ne2 e6 7. Bf4
+Bd6 8. Bxd6 Qxd6 9. O-O Nge7 10. Nd2 O-O 11. f4 Bd7 12. Nf3 f6 13. Qc2 Nf5 14.
+g4 Ne3 15. Bxh7+ Kh8 16. Qd3 Nxg4 17. Nh4 Ne7 18. Ng6+ Nxg6 19. Bxg6 Nh6 20.
+Kh1 Be8 21. Rg1 Qe7 22. Rae1 f5 23. Qh3 Rf6 $6 ({After} 23... Kg8 $1 {the game
+would have been almost equal. However, the follow up after the exchange on e8
+is hard to spot.} 24. Bxe8 Ng4 $1 $11) 24. Bxe8 Rxe8 25. Ng3 Kh7 (25... Kg8 $2
+26. Nh5 Rf7 27. Nxg7 {did not work.}) 26. Nh5 Rf7 27. Qg3 Kh8 28. h3 Ng8 {
+[#] A tricky position. White has an advantage, but it is not huge.} 29. Qg6 {
+And now the edge is completely gone.} Nf6 30. Re2 Nxh5 $2 ({Black misses the
+chance to counterattack:} 30... Ne4 $1 {For instance:} 31. Reg2 Qh4 $1 32. Kh2
+Ree7 {and White is on the defensive.}) 31. Qxh5+ Kg8 32. Rg6 Qd6 33. Qh6 Qa6
+34. Reg2 Qf1+ 35. Kh2 Ree7 {[#] There is a simple explanation for Black losing
+this position: In the kingside attack, White is using all his pieces while
+Black's queen on f1 is offside.} 36. Qh4 Qf3 37. R6g5 Rd7 38. Rh5 Rf8 {[#] The
+rest is not so difficult to see:} 39. Rh8+ Kf7 40. Rxg7+ Ke8 41. Rxf8+ Kxf8 42.
+Qh8# 1-0
+

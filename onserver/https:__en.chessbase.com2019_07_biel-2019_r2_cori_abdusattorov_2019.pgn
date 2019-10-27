@@ -1,0 +1,37 @@
+
+
+[Event "52nd Biel Festival 2019"]
+[Site "Biel"]
+[Date "2019.07.23"]
+[Round "2.2"]
+[White "Cori, Jorge"]
+[Black "Abdusattorov, Nodirbek"]
+[Result "1/2-1/2"]
+[ECO "E17"]
+[WhiteElo "2686"]
+[BlackElo "2598"]
+[Annotator "TA"]
+[PlyCount "80"]
+[EventDate "2019.07.22"]
+[EventType "tourn"]
+[EventCountry "SUI"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{[%evp 15,80,0,10,0,0,0,0,0,0,0,0,0,0,6,16,-10,-10,-12,-17,-13,0,0,0,0,0,0,0,0,
+0,0,0,0,0,-7,0,0,15,8,16,15,15,24,19,20,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0]} 1. d4 Nf6 2. c4 ({Predecessor:} 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 {
+1/2-1/2 (14) Schlosser,P (2550)-Hracek,Z (2510) Brno 1993}) 2... e6 3. Nf3 b6
+4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Bf4 d6 8. Nc3 Ne4 9. Rc1 {E17: Queen's
+Indian: 4 g3 Bb7 5 Bg2 Be7} Nd7 $146 (9... Bf6 10. Nxe4 Bxe4 11. Qb3 Qe7 12.
+Rfd1 e5 13. dxe5 dxe5 14. Be3 Nc6 15. c5 Rad8 16. cxb6 cxb6 {1-0 (53) Laznicka,
+V (2676)-Lysyj,I (2671) Poikovsky 2015}) 10. d5 Nxc3 11. Rxc3 e5 12. Bc1 a5 13.
+e4 Nc5 14. Ne1 c6 15. Nd3 cxd5 16. Nxc5 bxc5 17. cxd5 Bg5 18. Bxg5 Qxg5 19. f4
+Qe7 20. f5 f6 21. h4 Ba6 22. Rf2 Rfb8 23. g4 Rb4 24. Rg3 Rab8 25. Qc1 Qb7 {
+[%cal Rb4b2]} (25... a4 {seems wilder.} 26. g5 Rc4 27. Qe3 Rcb4 28. Qc1) 26. g5
+{[#] Strongly threatening gxf6.} Rxb2 27. Rxb2 Qxb2 28. Qxb2 Rxb2 29. gxf6 $11
+{[%mdl 4096] Endgame KRB-KRB. The position is equal.} Rb7 30. Kf2 Bc4 31. fxg7
+Rxg7 32. Rxg7+ Kxg7 {KB-KB} 33. a3 $1 Bd3 34. Ke3 c4 35. Bf3 Bb1 36. Kd2 Kf6
+37. Kc3 Bd3 38. Kd2 Bb1 39. Kc3 Bd3 40. Kd2 Bb1 {Accuracy: White = 79%, Black
+= 76%.} 1/2-1/2

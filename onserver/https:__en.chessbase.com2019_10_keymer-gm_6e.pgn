@@ -1,0 +1,71 @@
+[Event "FIDE Grand Swiss"]
+[Site "IoM"]
+[Date "2019.10.15"]
+[Round "6"]
+[White "Le, Quang Liem"]
+[Black "Keymer, Vincent"]
+[Result "1-0"]
+[ECO "B80"]
+[WhiteElo "2708"]
+[BlackElo "2506"]
+[Annotator "Thorsten Cmiel"]
+[PlyCount "129"]
+[EventDate "2019.??.??"]
+
+{[%evp 0,129,16,28,46,51,96,64,80,25,40,40,27,30,67,63,44,54,36,21,28,20,11,-5,
+-23,13,22,34,38,43,54,48,41,16,26,31,31,28,49,46,29,29,48,16,37,-45,7,-26,-20,
+-30,-11,-53,11,-12,77,77,124,105,105,71,91,93,93,105,112,112,132,110,115,132,
+136,161,161,160,163,157,160,164,124,127,216,180,180,189,189,204,203,193,209,
+205,206,205,205,205,223,223,223,205,237,211,278,256,293,215,247,218,266,224,
+213,212,228,157,221,227,262,252,277,256,286,282,270,270,270,273,297,269,299,
+304,371,366,415,396] In round 6 Keymer was paired against the strongest player
+of the group with players who were half a point behind Keymer.} 1. e4 c5 2. Nc3
+a6 3. Nge2 d6 4. g3 Nf6 5. Bg2 Nc6 6. O-O e6 {With this move Black opts for a
+Scheveninger should White play d2-d4 after all.} 7. d4 cxd4 8. Nxd4 Bd7 9. Be3
+Ne5 (9... Be7 10. Nxc6 Bxc6 11. a4 O-O 12. a5 Nd7 13. Na4 f5 14. Nb6 Nxb6 15.
+Bxb6 Qd7 16. Qd3 fxe4 17. Bxe4 Bxe4 18. Qxe4 Bd8 19. Bd4 Bf6 20. Rad1 d5 21.
+Qe3 {1/2-1/2 (65) Malakhov,V (2722)-Naiditsch,A (2712) Danzhou 2017}) 10. h3
+Rc8 11. a4 (11. Nce2 $5 Nc4 12. Bc1 Be7 13. b3 Na5 14. c4 b5 15. cxb5 axb5 16.
+Qd3 {happened in a game Sanchez Gonzales (2322) - Candela Perez (2416) from
+Jahr 2010. White is better but the game ended in a draw.}) 11... Be7 12. Nde2
+O-O 13. b3 Nc6 14. g4 {Le takes risks and weakens his king. In the following
+difficult phase of the game both sides had a number of alternatives.} Nb4 $146
+{According to the online database a new move.} ({Predecessor:} 14... Qc7 15. g5
+Nh5 16. f4 Nb4 17. Rf2 d5 18. exd5 exd5 19. Nxd5 Nxd5 20. Qxd5 {1/2-1/2 (28)
+Savicevic,V (2330)-Cvetkovic,S (2332) Vrnjacka Banja 2014} Bc6 $5 $44) (14...
+h6 $5 {followed by Nh7 is often the standard reply against advances of the
+g-pawn.}) 15. a5 {Whites continues to play aggressive and committing moves.} (
+15. Qd2 d5 $5 16. e5 Ne8 17. f4 Qc7) 15... Bc6 16. g5 (16. f4 $5) 16... Nd7 (
+16... Nh5 $5) 17. f4 Nc5 (17... Bb5 $5 {is a proposal by the engine. With the
+queen on d2 this would not have been possible because then White could first
+take on b5 with his knight and then on b4 with his queen.} 18. Nxb5 Nxc2 19.
+Bf2 Nxa1 20. Nbc3 Qxa5 21. Qxa1 Qxa1 22. Rxa1 $13) 18. Ng3 (18. Nd4 $5) 18...
+d5 19. exd5 Nxd5 20. Nxd5 Bxd5 21. Bxd5 exd5 22. Rf2 {[#] White wants to
+follow up with Rd2. However, his kingside is more damaged than the kingside of
+his opponent. Here, Black can still be very happy about the course of the game.
+} (22. Nf5 $5) 22... Ne6 $6 {This move seems to be a bit artificial - after
+all, the knight on c5 restricted White's knight on g3.} (22... Re8 $5 23. Rd2
+Qd7 24. Kh2 (24. Rxd5 $2 Qxh3 $17) 24... Qe6 25. Qf3 Bd6 $17) 23. Bb6 $1 Qd7
+24. Qg4 Qc6 25. Re1 Bb4 26. Ree2 Nc5 $6 {Black does not really seem to know
+what to do (Nc5-e6-c5).} (26... Bc5) 27. f5 {Hitting the bishop on b4.} Ne4 (
+27... Qd6 $5 {with a counterattack against g3 was the alternative to
+sacrificing a pawn.}) 28. Nxe4 dxe4 29. Rxe4 ({After} 29. Qxe4 Bc5 30. Bxc5
+Qxc5 31. Qxb7 Qxa5 32. Kg2 {it is not yet clear how White wants to make
+progress but White managed to defend his weak pawns and to get the long
+diagonal under control. And he is a pawn up.}) 29... Bc5 30. Bxc5 Qxc5 31. b4
+Qc3 {[#]} 32. f6 (32. Kg2 Qb2 33. Ree2) 32... Rfe8 {[#]} 33. Re7 $1 Rxe7 34.
+fxe7 $40 Re8 35. Re2 Qc7 36. Kf1 Rxe7 37. Rxe7 Qxe7 38. Qc8+ Qf8 39. Qxb7 h6
+40. gxh6 ({After} 40. Qxa6 Qxb4 $5 {Black has better chances to hold though Le
+should still be able to win.}) 40... Qd6 41. Qc8+ Kh7 42. hxg7 Qf4+ 43. Kg2
+Qe4+ 44. Kg3 Qe3+ 45. Kg4 Qe4+ 46. Kg5 Kxg7 47. Qc3+ (47. Qxa6 Qe5+ 48. Kg4
+Qe4+ 49. Kg5 Qd5+ 50. Kf4 Qd4+ 51. Kg3 Qxb4) 47... Kg8 48. Qg3 Kg7 49. c3 Kf8
+50. Qd6+ Kg8 51. Qd4 Qf3 52. Kh4 Kh7 53. Qe5 Qf2+ 54. Kg4 Qg2+ 55. Qg3 $2 (55.
+Kf4 $1) 55... Qe4+ $6 ({The computer showed a more tenacious defense:} 55...
+f5+ $1 56. Kf4 Qe4+ 57. Kg5 Qe7+ 58. Kxf5 Qf7+ 59. Kg5 Qg7+ 60. Kh4 Qh6+ 61.
+Kg4 Qg7+ 62. Kf3 Qxc3+ 63. Kg2 Qc2+ (63... Qxb4 64. Qd3+) 64. Qf2 Qg6+ 65. Kf1
+Qb1+ 66. Qe1 Qd3+ 67. Qe2 Qxh3+ 68. Kg1 Qc8 69. Qd3+ Kg8) 56. Qf4 Qg2+ 57. Kh4
+Qg6 58. Qf3 Kh6 59. Qf4+ Kh7 60. c4 Qe6 61. c5 Qe1+ 62. Kg4 Qe2+ 63. Qf3 f5+
+64. Kf4 Qc4+ 65. Ke5 {An unfortunate loss. Vincent had a good position after
+the opening and later could have defended more tenaciously.} (65. Ke5 Qxb4 66.
+Qxf5+ Kh6 (66... Kg7 67. Qg4+) (66... Kh8 67. Qh5+ Kg7 68. Qg4+) 67. Qf4+) 1-0
+

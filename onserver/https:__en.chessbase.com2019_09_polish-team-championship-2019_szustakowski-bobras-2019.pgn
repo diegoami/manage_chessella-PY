@@ -1,0 +1,33 @@
+[Event "Polish Team Championship Ekstraliga"]
+[Site "Katowice"]
+[Date "2019.09.03"]
+[Round "7.5"]
+[White "Szustakowski, Antoni"]
+[Black "Bobras, Piotr"]
+[Result "1-0"]
+[ECO "E74"]
+[WhiteElo "2256"]
+[BlackElo "2488"]
+[Annotator "Keti,Ts"]
+[PlyCount "51"]
+[EventDate "2019.??.??"]
+[WhiteTeam "Baszta MOS Znin"]
+[BlackTeam "KSz Miedz Legnica"]
+[WhiteTeamCountry "POL"]
+[BlackTeamCountry "POL"]
+[WhiteClock "0:31:56"]
+[BlackClock "0:00:53"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 h6 8. Be3 e6
+9. Qd2 {[%csl Yh6]} exd5 10. exd5 Kh7 11. h4 {[%cal Yh4h7] After the game
+Antoni Szustakowski admited that the scenario went just like he had analyzed
+at home} Ng4 12. Bf4 Ne5 13. Kf1 $5 {Antoni assures his king is safer on f1
+than on c1 after 0-0-0} (13. O-O-O {[%cal Ya7a6,Yb7b5]} Nbd7 14. h5 g5 15. Bg3
+f5 $13) 13... Nbd7 14. Re1 a6 15. a4 {Prevents a queenside attack} Qb6 {[%csl
+Yc4][%cal Yb6b3]} 16. Nh3 Qb3 17. h5 g5 18. Bxg5 hxg5 $2 (18... Nb6 {[%csl Yc4]
+} 19. Qf4 f6 20. Bh4 Nbxc4 $13) 19. Nxg5+ Kh8 (19... Kg8 20. h6 Bf6 21. Nce4
+Be7 22. Rh3 $16 {[%cal Yh3b3,Yg3g8]}) 20. Qf4 $1 Qc2 21. Nce4 {[%csl Yc2]} Nxc4
+22. Nxf7+ (22. h6 Be5 23. Nxf7+ Rxf7 24. Qxf7 Qxe4 25. h7 $18 {[%cal Yf7g8]})
+22... Kg8 {[%cal Yh5h6,Yh6h7]} 23. h6 Qxe4 24. h7+ (24. Qxe4 $4 Nd2+ $19 {
+[%csl Yf7][%cal Yd2e4,Yd2f1]}) 24... Qxh7 25. Rxh7 Rxf7 26. Rxg7+ 1-0
+
