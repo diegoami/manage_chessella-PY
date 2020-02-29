@@ -5,16 +5,17 @@ from bs4 import BeautifulSoup
 import os
 from random import randint
 
-HOST="http://www.amicabile.de"
+HOST="http://www.newchessella.com"
  
 LIST_PAGE = HOST+"/chessella/games/mygames.action"
 LOGOUT_PAGE = HOST + "/chessella/user/logout.action"
 LOGIN_PAGE = HOST + "/chessella/user/login.action"
 SAVEPGN_PAGE = HOST + "/chessella/games/savepgn.action"
 SUCCESS_STR = "These are your chess games"
+INPUT_GLOB = "/home/ubuntu/input/*.pgn"
 
 def retrieve_random_pgn():
-    pgns = glob.glob('./input/*.pgn')
+    pgns = glob.glob(INPUT_GLOB)
     indxtoadd = randint(1,len(pgns))-1
     return pgns[indxtoadd]
 
